@@ -1,0 +1,12 @@
+# Tag: memory
+
+- `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
+- `INS-260325-252D` Context rot in agents stems from poor context management design, not just model limits.
+- `INS-260322-E4D8` AI agents need three levels of business context: Level 1 (identity — who you are), Level 2 (strategic — mission, products, team, communication style), Level 3 (enterprise — playbooks, decision trees, escalation paths, meeting history).
+- `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
+- `INS-260325-5B28` Kimi's attention residuals let transformer layers selectively choose what to optimize from prior layers.
+- `INS-260326-8201` At 3.5 bits per channel (4.5x compression), TurboQuant matches full-precision Llama 3.1 8B on LongBench with zero quality loss; at 2.5 bits (6.4x), quality degradation is marginal.
+- `INS-260325-B1D8` Sequoia-backed founder Kisson Lin: memory is to AI what data was to internet — the next moat is context accumulation, not intelligence.
+- `INS-260330-8F91` Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
+- `INS-260330-B784` Goggins compensates for ADHD by writing material repeatedly until each page becomes a retrievable visual image during tests.
+- `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.

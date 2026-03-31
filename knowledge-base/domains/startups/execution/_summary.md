@@ -1,0 +1,179 @@
+# Topic: execution
+
+> 175 insights
+
+- `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
+- `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
+- `INS-260323-FCBB` [high] Sweeney spent 10-15,000 hours on hobby programming projects between ages 10-20 with no structured plan -- building compilers, databases, bulletin boards -- and every one of those skills became essential when building Unreal Engine years later.
+- `INS-260327-B561` [high] Two people managing 500 community members became possible through AI agents handling complete operational loops: member tracking, coupon issuance, calendar management, content creation, CS handoffs, and marketing dashboards.
+- `INS-260327-9830` [high] ElevenLabs operates on quarterly team planning with no timelines for research initiatives, because when a breakthrough comes, you have 24 hours to start integrating it.
+- `INS-260327-6FFC` [high] AI gives everyone what only Churchill had—an assistant who knows your context, voice, and intent.
+- `INS-260327-D888` [high] The best AI users are coaches not coders—AI will gaslight you if you don't push back.
+- `INS-260327-FCCF` [high] AI startup ideas are hiding in plain sight: every job people pay humans to do is a potential product.
+- `INS-260327-560D` [high] AI newcomers with no preconceptions about limitations outperform experienced users anchored to last year's capabilities.
+- `INS-260327-DECA` [high] AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
+- `INS-260327-5AFE` [high] Using AI well is a social skill—coaching, delegating, providing context—not a technical prompting skill.
+- `INS-260327-9610` [high] A 13-year-old built and shipped an AI product with paying customers using AI tools—the building barrier has collapsed.
+- `INS-260323-C4E2` [high] When someone emails Cuban asking what kind of business to start, that question itself reveals they are not ready — real entrepreneurs already know because they cannot stop thinking about the problem.
+- `INS-260330-6EF1` [high] The world's roundest object was made by starting 2mm oversized and grinding progressively finer — extreme quality comes from iterative refinement, not one-shot precision.
+- `INS-260330-C6A2` [high] Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
+- `INS-260329-EB4B` [high] Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
+- `INS-260328-7241` [high] Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
+- `INS-260327-A234` [high] Be a cockroach—survive everything by doing whatever it takes daily to prevent your company from dying.
+- `INS-260327-ECDA` [high] When the world changes, change the plan—and be transparent about it with investors, board, and employees.
+- `INS-260329-BE50` [high] Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
+- `INS-260329-6514` [high] Improving what you already have compounds over time while new ventures reset your progress.
+- `INS-260329-7691` [high] Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
+- `INS-260327-B605` [high] Weinberg says his number one hiring criterion is bias for action: he'd rather someone make a wrong decision and adjust a week later than spend three months deliberating until the market has changed.
+- `INS-260330-CEAE` [high] Plants produce 40 billion tons of RuBisCo to compensate for its ~50% failure rate rather than evolving a replacement.
+- `INS-260327-4DDE` [high] The best startups come from founders solving their own daily pain points, not from market analysis.
+- `INS-260329-917B` [high] Starting with login plus one primary feature, verifying it works, then adding secondary features through follow-up prompts avoids the compounding errors of complex multi-feature requests.
+- `INS-260330-0BCC` [high] DNA polymerase proofreads as it copies, catching errors in real-time rather than after the fact — a model for building quality into process rather than inspecting for it later.
+- `INS-260330-3AF7` [high] DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
+- `INS-260329-C0A7` [high] The business bottleneck is almost never in the domain the founder enjoys most.
+- `INS-260330-1C61` [high] Force yourself to list your top priorities, then compare against your actual calendar — the mismatch reveals where execution is failing.
+- `INS-260329-572E` [high] CAP theorem's real value is forcing you to explicitly choose which two of consistency, availability, and partition tolerance you prioritize — before a production incident makes the choice for you.
+- `INS-260327-178E` [high] Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
+- `INS-260327-3C19` [high] As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
+- `INS-260330-9751` [high] Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
+- `INS-260329-4870` [high] A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
+- `INS-260323-53BF` [high] Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
+- `INS-260330-2CE5` [high] YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
+- `INS-260327-294E` [high] Give AI all your implicit context explicitly—that's the real skill, not clever prompting.
+- `INS-260323-8392` [high] Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
+- `INS-260330-A86C` [high] Cybercriminal schemes evolve through rapid trial-and-error iteration — fail, diagnose, fix, repeat — the same process successful startups use to find product-market fit.
+- `INS-260327-0595` [high] Sequoia's Pat Grady: 'Raise your hand if you have a data flywheel. Now what business metric does it move? Less certainty means your flywheel is fake.'
+- `INS-260329-2AB9` [high] Fast, imperfect decisions outperform slow, perfect ones because action generates information that analysis cannot.
+- `INS-260329-59A5` [high] For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
+- `INS-260327-0004` [high] Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
+- `INS-260327-7CE9` [high] Build the hardest part first while you're most motivated—dancing around easy features kills momentum.
+- `INS-260330-8103` [high] Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
+- `INS-260330-49C8` [high] DoorDash founders personally delivering food, dispatching drivers, and handling support gave them the domain expertise to design their dispatch algorithm and customer experience — manual work is competitive intelligence, not just bootstrapping.
+- `INS-260330-7CC0` [high] Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
+- `INS-260330-5036` [high] Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
+- `INS-260330-C33B` [high] Don't just push harder — also remove friction on the other side of the equation.
+- `INS-260329-FCE6` [high] Automate money flowing toward investments and add friction to every spending pathway.
+- `INS-260330-DF69` [high] RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
+- `INS-260329-4E70` [high] The boring middle is a feature of ambitious paths, not a signal to pivot.
+- `INS-260326-7B2A` [high] If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
+- `INS-260327-A608` [high] Great products start by identifying real problems, not by showcasing technology capabilities.
+- `INS-260330-C499` [high] The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
+- `INS-260329-B4F5` [high] What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
+- `INS-260327-125F` [high] At one point his bank account was under $100 and he lived in a tiny room with mice — that willingness to endure extreme frugality gave Presto the runway to survive 5 years with zero revenue.
+- `INS-260327-89E4` [high] Stop running surveys—face-to-face interviews reveal the real pain points that users can't articulate in forms.
+- `INS-260330-BEE7` [high] Successful founders personally handle customer support, obsess over tiny product details, and maintain the tightest possible feedback loop with users — especially in the first year.
+- `INS-260330-AB95` [high] Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
+- `INS-260330-516E` [high] YC considers how well founders handle employee termination to be one of the hallmarks of an effective startup founder.
+- `INS-260330-258F` [high] Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
+- `INS-260329-62C1` [high] As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
+- `INS-260330-EBFD` [high] Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260329-B34E` [high] People fail by building many half-finished bridges rather than completing one — getting to 90% on multiple paths yields zero while 100% on one path yields everything.
+- `INS-260330-ED04` [high] Nakamura's daily routine of modifying his MOCVD reactor each morning and testing each afternoon created an iteration cycle no well-funded lab could match.
+- `INS-260330-636E` [high] Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
+- `INS-260327-24F4` [high] Zero failures means you're not placing enough bets at the frontier.
+- `INS-260327-7FDA` [high] If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
+- `INS-260326-C657` [high] Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
+- `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
+- `INS-260329-6020` [high] After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
+- `INS-260327-6F12` [high] The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
+- `INS-260327-4081` [high] Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
+- `INS-260330-9A83` [high] Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
+- `INS-260330-0102` [high] Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
+- `INS-260330-8920` [high] The team broke multiple bats and redesigned between each attempt, reaching their goal faster than careful upfront engineering would have.
+- `INS-260327-5B30` [high] Check with your investors before assuming they want you to keep grinding on a failing idea.
+- `INS-260326-C305` [high] YC's number one pre-launch advice is simply 'launch' — if your MVP takes more than two months, you're iterating in a vacuum.
+- `INS-260330-BC6F` [high] A YC company that improperly converted from a Connecticut LLC to a Delaware Corporation discovered the mistake years later during fundraising, requiring four law firms and $500K to resolve.
+- `INS-260329-E333` [high] Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
+- `INS-260329-4253` [high] Protect maker time in three stages: off-hours when solo, morning-first with back-to-front scheduling at mid-stage, and full maker days at scale.
+- `INS-260325-0FED` [high] Since the Panic Monster only responds to real consequences, effective execution in unstructured work requires manufacturing genuine external deadlines.
+- `INS-260330-5600` [high] Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.
+- `INS-260329-B2BE` [high] Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.
+- `INS-260329-ADCD` [high] Calculus formalizes the business intuition that optimal scale is where the cost of the next unit equals the revenue it generates.
+- `INS-260327-C75F` [high] The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
+- `INS-260330-6F7B` [high] You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
+- `INS-260330-8D6F` [high] Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
+- `INS-260327-2101` [high] Default to deterministic prompt-chain workflows over agentic systems — most professional tasks follow the same steps every time.
+- `INS-260327-DCA9` [high] Weinberg says almost every problem at Harvey traces back to having six DRIs on something instead of one — shared ownership is no ownership, just like asking two friends to water your plant guarantees it dies.
+- `INS-260327-734D` [high] It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
+- `INS-260327-2387` [high] Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
+- `INS-260330-39D7` [high] Sweating details that users never see installs a culture of precision that makes excellence self-reinforcing across the organization.
+- `INS-260327-7D0B` [high] Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
+- `INS-260327-1064` [high] The natural tendency of tech founders is to ignore operations, but for many businesses, operational execution determines success or failure.
+- `INS-260329-3FA6` [high] Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
+- `INS-260330-B15C` [high] The instinct to add Kubernetes, Redis caching, and GraphQL before having users is a predictable failure pattern that delays shipping.
+- `INS-260328-6A18` [high] Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
+- `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
+- `INS-260328-6E7A` [high] The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
+- `INS-260330-DC3B` [high] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
+- `INS-260327-DB8F` [high] PMF is not strategy—it's the volume of genuine user conversations you have.
+- `INS-260329-D1B0` [high] Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
+- `INS-260327-8D5D` [high] Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
+- `INS-260330-45FF` [high] The Constitutional Convention only happened because wealthy bondholders and elites feared losing their investments under the Articles' inability to collect taxes and repay debts.
+- `INS-260327-0700` [high] Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
+- `INS-260330-4F7B` [high] Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
+- `INS-260330-A44F` [high] Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
+- `INS-260330-20FD` [high] Photosynthesis splits into two decoupled stages — light reactions capture energy into ATP/NADPH currency, then the Calvin Cycle spends that currency to build useful molecules.
+- `INS-260329-003B` [high] Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.
+- `INS-260330-883E` [high] The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
+- `INS-260327-5661` [high] Customers will pay dramatically more for software bundled with human support services, especially for high-stakes use cases.
+- `INS-260327-A98E` [high] Nothing is going to be perfect if you do not ship the product — get it to market and iterate based on feedback.
+- `INS-260327-A5EE` [high] If your AI product works well today, you're not thinking big enough—build for the next model generation.
+- `INS-260327-DC65` [high] When AlphaChip first showed results to the chip design team, they were not just skeptical — they were angry. Only superhuman results changed minds.
+- `INS-260329-3739` [high] Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
+- `INS-260329-21C0` [high] Skills compound multiplicatively—each new adjacent skill doesn't just add value, it multiplies the value of every skill acquired before it.
+- `INS-260330-E9D4` [high] Ross Ulbricht was caught not by crypto-breaking or advanced surveillance, but by a trail of careless forum posts, a personal email in a job ad, a Stack Overflow question under his real name, and living near the IP-traced internet cafe.
+- `INS-260326-E411` [high] Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
+- `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
+- `INS-260329-E6DB` [high] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
+- `INS-260329-818A` [high] HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
+- `INS-260329-4293` [high] Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
+- `INS-260330-A3B7` [high] Testing baseline → single unit → stacked units in sequence reveals the failure mode at each stage, which a single end-state test would obscure.
+- `INS-260330-B50A` [high] Inconsistent results in complex systems require isolating variables rather than guessing at causes.
+- `INS-260330-3A0D` [high] Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.
+- `INS-260330-7F62` [high] A YC company's Connecticut LLC-to-Delaware conversion was done incorrectly by local lawyers, requiring four law firms and $500K to fix years later during a major fundraise.
+- `INS-260330-637F` [high] The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
+- `INS-260330-A78C` [high] YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
+- `INS-260329-E40B` [high] The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-19F9` [high] The 5-phase emotional cycle (uninformed optimism → informed pessimism → despair → informed optimism → achievement) explains why serial-starters never build wealth.
+- `INS-260329-E6C3` [high] Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
+- `INS-260329-66BD` [high] Load balancers prevent server failure but become the single point of failure themselves, requiring redundant load balancers — revealing that reliability is recursive, not additive.
+- `INS-260329-C881` [high] Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
+- `INS-260323-CE39` [high] Stevens generates maximum throwing power from a small precise hip split rather than a big lunging movement — overextending leaves you vulnerable and off-balance.
+- `INS-260323-DDC2` [high] You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
+- `INS-260329-1FEE` [high] Serial starters keep abandoning projects at the valley of despair and restarting with uninformed optimism — the fix is committing long enough for it to be unreasonable to still be bad.
+- `INS-260329-D4BC` [high] Don't make your bank balance the goal — make your monthly income the goal, and reinvest excess into skills that increase that income.
+- `INS-260327-2718` [high] A thousand complaints from dedicated users is healthier than silence or universal satisfaction.
+- `INS-260330-2952` [high] Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve.
+- `INS-260329-24CE` [high] Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
+- `INS-260330-D031` [high] Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
+- `INS-260327-10E0` [high] If you can't explain specifically why you'll beat competitors before building, don't start building.
+- `INS-260330-DC22` [high] Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
+- `INS-260329-3E28` [high] Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260329-EECD` [high] Massive volume of attempts eliminates the need for luck because rejection costs nothing and one success changes everything.
+- `INS-260329-3FF3` [high] Doing something enough times guarantees outcomes that individual attempts leave to chance.
+- `INS-260329-5818` [high] In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
+- `INS-260323-71B3` [high] GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
+- `INS-260327-BE1F` [high] Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.
+- `INS-260327-B17E` [high] You cannot pre-test AI products with infinite use cases—ship fast and learn from real user behavior.
+- `INS-260323-CB34` [high] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
+- `INS-260329-AB9A` [high] Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
+- `INS-260327-DD5C` [high] Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
+- `INS-260329-7A3C` [medium] Fill your calendar from 5pm backward so meetings stack at the end of the day and mornings stay open for deep work.
+- `INS-260327-767B` [medium] In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
+- `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
+- `INS-260329-4605` [medium] Running a pre-mortem (listing all ways to fail) and building specific guardrails is higher-leverage than brainstorming growth strategies.
+- `INS-260327-5297` [medium] When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
+- `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
+- `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
+- `INS-260330-498B` [medium] Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.
+- `INS-260329-1F3F` [medium] Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
+- `INS-260329-50BD` [medium] The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
+- `INS-260329-461A` [medium] CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
+- `INS-260329-1F4D` [medium] Block your first 8 hours for uninterrupted work until you have enough team leverage that directing others outproduces your own output.
+- `INS-260329-F0DE` [medium] Pull-based CDNs auto-fetch on first request (good for regularly updated sites); push-based CDNs require manual upload (good for large, rarely changed files).
+- `INS-260329-57D7` [medium] Auditing every meeting with 'is this still necessary?' and quarterly purging recurring meetings compounds into significant time recapture.
+- `INS-260329-5EE7` [medium] Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
+- `INS-260329-6253` [medium] Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
+- `INS-260327-3A71` [medium] In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.
+- `INS-260327-1996` [medium] Conrad says Rippling took two years to start working, but he had zero doubt it would — so his entire job was preventing the team from quitting before they got there.
+- `INS-260329-4842` [medium] Write-back cache gains speed by risking data loss on crash; write-through guarantees consistency but is slower; write-around optimizes reads but has cold-cache penalties — every caching decision is a durability bet.

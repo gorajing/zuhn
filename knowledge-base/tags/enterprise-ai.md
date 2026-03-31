@@ -1,0 +1,31 @@
+# Tag: enterprise-ai
+
+- `INS-260322-7B61` Just as the internet ad industry needed companies like DoubleClick, Comscore, and Omniture before Google/Facebook could scale revenue, enterprise AI needs measurement infrastructure before the $700B spend can be justified.
+- `INS-260322-4757` Instead of measuring lines of code or contracts drafted, measure whether departments using AI tools become more responsive to other departments — this captures real productivity without creating Goodhart's Law gaming.
+- `INS-260322-FD23` Individual employees want to be lazier and richer — if AI lets them do 8 hours of work in 4, the company only benefits if it can capture the other 4 hours of productivity.
+- `INS-260327-76B2` Jensen Huang predicts 100-to-1 ratio of security bots to productive agents; Lahav agrees with the directional thesis though debates whether secure-by-design can reduce this ratio.
+- `INS-260321-B85C` Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
+- `INS-260325-E23D` Neo4j CTO argues graphs are the missing AI infrastructure — real-world data is relationships and paths, not tables.
+- `INS-260323-EA36` 95% of AI projects fail — twice the rate of any other emerging technology — driven equally by skills gaps and employee resistance to adoption.
+- `INS-260323-13C0` Organizations routinely assign their least technical person to 'train the AI' because they don't understand that this is actual data science work.
+- `INS-260321-1749` Fortune 500 CEOs universally say they want to become AI companies, but actual deployment lags because change management across large organizations is fundamentally harder than deploying the technology itself.
+- `INS-260323-7A11` Classical ML has one right answer and measurable error; generative AI has infinite valid outputs, making traditional ROI frameworks useless.
+- `INS-260323-1C32` If every AI project must show predictable ROI, you're structurally incapable of innovation — the first pancake is always burned.
+- `INS-260323-C316` AI should be deployed in narrow, iterative layers rather than as a massive transformation project — the same lesson enterprises failed to learn from Salesforce rollouts.
+- `INS-260323-1452` When executives mandate 'more AI everywhere,' it often signals abdication of decision-making rather than strategic vision.
+- `INS-260323-4794` AI infrastructure includes human expectations, staff training, and cultural readiness — not just data pipelines and cloud credits.
+- `INS-260323-216A` Most AI projects fail because organizations skip the unglamorous data science work between raw data and AI value.
+- `INS-260321-015B` Corporate AI projects fail because they optimize human-to-human workflows — the real transformation is creating AI-native operating systems where agents replace entire workflows and humans become oversight.
+- `INS-260325-8F49` Hugging Face hosts roughly as many private models as their 1 million public models, created by 350,000 organizations doing custom fine-tuning, evaluation, and reinforcement learning.
+- `INS-260325-95A6` MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
+- `INS-260327-EEBD` When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.
+- `INS-260327-0246` Fortune 500 companies won't go fully humanless in contact centers for years; the winning strategy is blending human agent assist with autonomous digital agents rather than pushing total automation.
+- `INS-260327-7A48` Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.
+- `INS-260327-63B5` Ramp's insight: instead of building tool APIs one feature at a time, have your agent computer-use your own frontend, leveraging your existing UI team's work and authentication system for instant full feature coverage.
+- `INS-260327-E0F7` Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
+- `INS-260327-D9D6` The FDE role translates vague client requirements into AI-ready specifications through iterative meetings, structured documentation, and progressive decomposition from ambiguity to precision.
+- `INS-260327-40E3` Ramp data shows Anthropic capturing 73% of new enterprise AI spend as OpenAI's strategic inconsistency — from flat headcount to doubling, from standalone Sora to folding it in — erodes buyer confidence.
+- `INS-260322-B641` In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
+- `INS-260323-348F` 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
+- `INS-260327-C99D` Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
+- `INS-260327-73BE` Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.

@@ -1,0 +1,32 @@
+# Tag: enterprise-sales
+
+- `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
+- `INS-260327-C54D` Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
+- `INS-260327-4754` Arora warns that cybersecurity founders who form customer advisory councils too early get steered toward speeds-and-feeds features instead of building complete products.
+- `INS-260327-1B7C` Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
+- `INS-260327-FA43` Competition isn't just your rival vendor — it's the CIO who wants to build it internally, the adjacent solution competing for the same budget, the 'do nothing' option, and inertia (Whyte's least favorite because it means you haven't qualified well enough).
+- `INS-260330-6611` Build a product that sells itself, then hire salespeople anyway — they serve different functions.
+- `INS-260330-24A5` Build products that spread through individual users but hire consultative salespeople to help enterprises navigate adoption — viral growth and sales are complementary.
+- `INS-260327-D7AA` Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.
+- `INS-260327-B17D` When buyers fear messing up, de-risk with concrete mechanisms: million-dollar performance warranties, bundled professional services, peer referrals from trusted community members, starting small with expansion plans, and bringing your legal/finance teams to the table early.
+- `INS-260327-5DD2` When deal sizes exceed $10K, customers require human interaction to build trust before purchasing.
+- `INS-260327-6AA0` Decision criteria isn't one thing — it's three: technical (features, integrations, security), economic (ROI, resources to implement, priority ranking), and relationship (partnership fit, industry strength, roadmap) — and each stakeholder weights these differently.
+- `INS-260327-C6DC` When buyers lack defined decision criteria, elite sellers craft it for them — embedding their unique differentiators as 'must-haves' that disqualify competitors.
+- `INS-260328-A666` At companies like Palantir, the CEO doesn't delegate deal origination — the sales team is built as a multiplier around the founder.
+- `INS-260330-760D` Build products that sell themselves through user adoption, then add sales to help enterprises navigate deployment and competitive decisions.
+- `INS-260327-CBBB` With pipeline down 47%, deal values down 32%, sales cycles up 32%, and 33% more stakeholders involved, the era of FOMO-driven buying is over — champions now fear messing up more than missing out, so sellers must de-risk rather than create urgency.
+- `INS-260327-9C00` Pre-PMF sales is fundamentally entrepreneurial -- it requires the founder's vision, domain expertise, and conviction, which no hired sales rep can replicate.
+- `INS-260327-9AD8` Optimizely closed six-figure deals where customers never ran a single A/B test because they treated implementation as the customer's job -- the fix was project-managing implementation like a high-priority internal project.
+- `INS-260327-C5D0` MEDDPICC qualifies whether you should be in a deal and what to do to win it, complementing any underlying sales methodology.
+- `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.
+- `INS-260327-CEA6` Champions require all three criteria: power and influence, active internal selling on your behalf, and a vested personal interest in your success — missing any one means they're a coach, not a champion.
+- `INS-260327-00EB` Bad sellers identify pain and pitch; good sellers indicate the cost; elite sellers implicate the pain so deeply the buyer feels they must act now or suffer personally.
+- `INS-260327-1421` The paper process (NDAs, contracts, procurement, legal reviews) is the single biggest cause of deal slippage, which is why MEDDPICC separates it from the decision process as its own tracked element.
+- `INS-260327-AEC2` Michelangelo painting your house is a 7-year masterpiece that can never be replicated; Thomas Kincaid mass-produces paintings with standard pricing and distribution — only Kincaid's model creates investable leverage.
+- `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
+- `INS-260327-088E` OpenAI's dedicated pilot team found that intensive, well-structured pilots increased deal sizes by ~5x, but only work when there's executive buy-in, a repeatable playbook, clear success metrics, and executive awareness.
+- `INS-260327-1573` Resist the urge to show 'one more thing' -- enterprise sales is about selling the engagement, and getting call #2 is more important than cramming everything into call #1.
+- `INS-260327-2E84` Great demos start with recapping the prospect's problem (proving you listened), then show a personalized story of their user solving it -- using their logo, their data, their team names -- with magic moments of delight.
+- `INS-260327-538E` Gatekeepers buy to do the same thing cheaper, business users buy to deliver more for the business, enablers buy to help others be productive, leaders buy for growth — each archetype dictates a completely different sales approach.
+- `INS-260330-C095` Get into enterprises through individual users bringing in consumer-quality tools, then sell to the organization for security, control, and scalability — but you still need salespeople to navigate that conversion.
+- `INS-260327-0F42` A 30-year-old trying to make a name for themselves who has never bought software at the organization can tank your deal: they demo without security approval, go to leadership without political cover, and get shut down by their CTO.

@@ -1,0 +1,4 @@
+# Tag: deal-flow
+
+- `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
+- `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.

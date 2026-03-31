@@ -1,0 +1,51 @@
+---
+id: INS-260327-8E9B
+domain: psychology
+topic: perception
+title: >-
+  Identity-based food choices create tribal loyalty that prevents objective
+  product evaluation
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - consumer-behavior
+  - perception-economics
+sources:
+  - type: youtube
+    title: The PROBLEM with Vegan Meat
+    author: Levi Hildebrand
+    url: 'https://www.youtube.com/watch?v=HcHpvKROcpo'
+date_extracted: '2026-03-27'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    When food choices become identity markers, consumers evaluate products based
+    on tribal affiliation rather than taste, cr
+  standard: >-
+    When food choices become identity markers, consumers evaluate products based
+    on tribal affiliation rather than taste, creating markets where neither side
+    can objectively assess quality.
+
+
+    This insight transfers broadly across markets where perception drives
+    purchasing decisions.
+stance: >-
+  When food choices become identity markers, consumers evaluate products based
+  on tribal affiliation rather than taste, creating markets where neither side
+  can objectively assess quality.
+related:
+  - PRI-260328-BF1E
+  - INS-260330-9E1B
+  - INS-260329-2EB1
+  - INS-260329-CEC5
+  - INS-260330-3431
+---
+When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, creating markets where neither side can objectively assess quality.
+
+This insight transfers broadly across markets where perception drives purchasing decisions.

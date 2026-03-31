@@ -1,0 +1,46 @@
+# Topic: founder-psychology
+
+> 42 insights
+
+- `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
+- `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
+- `INS-260329-11AB` [high] The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
+- `INS-260328-7CA9` [high] Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
+- `INS-260325-CEE1` [high] Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
+- `INS-260323-CEA8` [high] Nicky Ryan admits fear of losing has made him less active as a competitor because his financial stability, brand, and identity are all tied to competitive results.
+- `INS-260323-4574` [high] Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
+- `INS-260325-887D` [high] The three failure responses are forgive-and-forget (no learning), blame-and-humiliate (no honesty), and forgive-and-remember (learning happens) — only the third works.
+- `INS-260330-5EB6` [high] Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
+- `INS-260330-9933` [high] Brian Acton left $850M on the table to escape Facebook's monetization of WhatsApp, then funded Signal to rebuild what WhatsApp was supposed to be — illustrating that values misalignment in acquisitions always surfaces.
+- `INS-260323-81F5` [high] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
+- `INS-260323-0C3A` [high] Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
+- `INS-260330-206B` [high] Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
+- `INS-260323-F9AC` [high] Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
+- `INS-260328-8DF8` [high] People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
+- `INS-260323-8B89` [high] Negative role models teach what kind of human not to be and what actions not to take — this via-negativa learning can be as formative as positive mentorship.
+- `INS-260323-F853` [high] Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
+- `INS-260323-3CC2` [high] Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
+- `INS-260323-979C` [high] Your passion can start a business, but continuing to run it on personal emotion instead of facts, metrics, and processes is the most common path to failure.
+- `INS-260325-0C4A` [high] Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
+- `INS-260325-55D8` [high] Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
+- `INS-260323-5F8A` [high] Investors who back founders with 3-4 failures are buying battle-tested pattern recognition that lucky first-timers never develop.
+- `INS-260323-5986` [high] In fast-growing companies you cannot learn organically fast enough — systematically interview people who are one or two stages ahead to discover the pattern of what you need 12-24 months from now.
+- `INS-260323-FFAC` [high] Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
+- `INS-260326-20C8` [high] The same mechanism that makes founders avoid hard truths is what makes people avoid emotional intimacy — self-protection destroys what it claims to protect.
+- `INS-260325-CF3E` [high] People cannot learn from failure until they separate 'I made a mistake' from 'I am a failure' — the identity conflation blocks all forward motion.
+- `INS-260323-95FE` [high] Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
+- `INS-260323-A183` [high] Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
+- `INS-260323-5B9F` [high] Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd rather make YouTube content — that self-awareness is the kill signal most founders ignore for months.
+- `INS-260330-E39E` [high] The 'can't not do it' test — where the idea beats itself out of your chest — is the only reliable predictor of founder endurance through a decade of startup pain.
+- `INS-260323-0683` [high] As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260323-78A5` [high] Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
+- `INS-260328-AA1F` [high] Whatnot -- a 'Pokemon trading card site' that drew mockery when YC funded it -- became an $11B decacorn, proving that the best venture bets look absurd at announcement.
+- `INS-260329-B0F4` [high] The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
+- `INS-260330-9BF5` [medium] Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests.
+- `INS-260323-4AF5` [medium] Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.
+- `INS-260323-8B22` [medium] Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
+- `INS-260323-E2ED` [medium] When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
+- `INS-260328-9574` [medium] People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
+- `INS-260325-5B08` [medium] Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
+- `INS-260325-788E` [medium] The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
+- `INS-260328-33E8` [medium] When most of your peers made money from sports betting and crypto, advice about building for years doesn't land.

@@ -1,0 +1,53 @@
+# Tag: relationships
+
+- `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
+- `INS-260327-56B3` While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
+- `INS-260329-0014` Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
+- `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
+- `INS-260325-3223` Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control.
+- `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
+- `INS-260325-88DF` Attachment theory research estimates that caregivers let down about 50% of children — meaning on any given date, there is a 50% chance the other person has an attachment wound operating unconsciously.
+- `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
+- `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
+- `INS-260325-B09C` Children learn 'is it safe to be upset around people who love me?' and carry that answer as their default relationship setting into adulthood.
+- `INS-260325-88A7` Just as children absorb grammatical language invisibly, they also absorb an emotional grammar -- patterns of trust, fear, and communication -- from caregivers that shapes every adult relationship.
+- `INS-260325-64FD` We habitually see bad behavior and assume bad person — but separating behavior from identity enables coaching instead of punishment in any relationship.
+- `INS-260323-176B` Covert contracts — where one party secretly resents an agreement and begins taking compensation through indirect sabotage — are the root mechanism of relationship destruction.
+- `INS-260329-B583` If your partner measures success on different metrics than you measure yourself, you can never win.
+- `INS-260330-D812` After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
+- `INS-260325-268F` Good relationships regulate emotions at a biological level, keeping bodies in equilibrium; people with secure late-life connections show slower brain decline.
+- `INS-260325-1C7F` Research estimates that caregivers let down about 50% of children, creating attachment wounds that govern adult relationship behavior -- an important base rate for anyone entering the dating world.
+- `INS-260325-17E0` All you have to do is watch an emotion long enough and you will see that it changes — your annoyance right now will not exist an hour from now.
+- `INS-260325-83D9` Freud's repetition compulsion explains why people sabotage healthy relationships -- they seek what feels familiar, not what makes them happy, and for many, suffering is more familiar than love.
+- `INS-260325-6874` De Botton's most devastating insight: in love, we do not look for what makes us happy — we look for what feels familiar. Children of alcoholics seek partners who struggle with alcohol.
+- `INS-260329-6B87` State your downsides first — if someone is fine with all of them, the relationship only has upside.
+- `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
+- `INS-260330-A2E7` Helen Fisher's research shows 81% of long-married people would remarry their spouse, and argues the modern 'slow love' pattern of extended courtship improves partner selection.
+- `INS-260323-9EDC` The strongest relationships Sexton has seen are where partners are each other's unconditional advocates — they never talk shit about each other to outsiders.
+- `INS-260327-52CF` Being nice often isn't generosity - it's an unspoken contract: I give you niceness, you give me approval. When the contract isn't honored, the nice person becomes resentful.
+- `INS-260327-58ED` The people-pleaser isn't selfless - they're controlling the emotional environment to avoid the discomfort of others' displeasure, which is actually a self-serving strategy.
+- `INS-260330-6C0E` Deliberately decide which relationships matter more than political agreement, and protect those while holding public figures to a different standard.
+- `INS-260325-9E0C` The 85-year Harvard Study of Adult Development found that people with the warmest relationships stayed healthiest longest and lived longest.
+- `INS-260323-42A7` Marriages fail like bankruptcy — very slowly and then all at once — through accumulated small disconnections, not through the dramatic event that finally ends them.
+- `INS-260325-4C0F` The romantic idea that love should follow pure instinct, need no rational analysis, and reject criticism has produced 250 years of relationship failure masquerading as liberation.
+- `INS-260325-362B` De Botton argues we have been in a 'romantic age' for 250 years where love is treated as instinct and feeling, and it has been a disaster — we are no happier than in the dynastic marriage era.
+- `INS-260330-1A55` In a study of 1,100 married people, 81% said they would remarry their current partner, which Fisher attributes to extended pre-commitment periods filtering incompatible matches.
+- `INS-260323-8268` Satisfied couples maintain approximately five positive interactions for every negative one, where positives include micro-moments like acknowledging bids for connection.
+- `INS-260323-1C33` Criticism, defensiveness, stonewalling, and contempt form a predictable cascade that erodes relationships, with contempt being the single strongest predictor of divorce.
+- `INS-260330-EA2E` Sustaining a partnership requires separately maintaining sex drive (regular sex), romantic love (novel experiences together), and attachment (physical touch and cuddling).
+- `INS-260325-B4A8` Research suggests that chronic acrimony in an intimate relationship may be more harmful to health than splitting up, because it maintains the same chronic stress as loneliness.
+- `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
+- `INS-260330-DD91` Rogan trusts old friends and fellow comedians because the grueling process of becoming a comic — years of bombing, humiliation, and persistence — creates a bond that reveals character more reliably than any other signal.
+- `INS-260330-09A2` Fisher's 1955 puppy experiment showed that random alternation between kindness and punishment produced the strongest attachment — stronger than consistent kindness alone.
+- `INS-260330-D38F` Expressing verbal affirmations to a partner measurably reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker.
+- `INS-260327-0017` Victimhood as a relationship strategy is nearly unassailable because any attempt to challenge it becomes evidence of further victimization.
+- `INS-260323-CF27` Positive interactions require vulnerability -- exposing that you care, that you're stressed, that you want to be liked -- and this exposure is what transforms routine exchanges into genuine bonds.
+- `INS-260325-3A54` The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
+- `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
+- `INS-260327-B767` Learning to enjoy being alone transforms every relationship into a choice rather than a dependency.
+- `INS-260330-A075` Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward.
+- `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
+- `INS-260325-7D50` Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.
+- `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
+- `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
+- `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.

@@ -1,0 +1,31 @@
+# Tag: unit-economics
+
+- `INS-260329-0D70` AI inference creates variable cost exposure per interaction, compressing traditional SaaS margins
+- `INS-260325-8A61` Mind the Product's 2026 guide proposes the 3x rule: an AI feature must create measurable value at least 3x its direct compute cost, or treat it as research, not product.
+- `INS-260328-D826` AI features in SaaS create an inverse relationship between user engagement and profitability unless usage caps and smart routing are in place.
+- `INS-260325-206C` AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
+- `INS-260323-F753` Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even worse — both companies lose money on every user query.
+- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
+- `INS-260320-8688` Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
+- `INS-260321-E8CB` One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
+- `INS-260323-DD40` Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
+- `INS-260324-5B35` Brisket shrinks to 40% yield after trimming and smoking, requires 10-18 hours of intuition-based cooking, and can't be made on demand — making BBQ the anti-franchise food category.
+- `INS-260329-2EAA` Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
+- `INS-260324-D612` Pizza has the lowest food costs in fast food (flour, canned tomatoes, subsidized cheese), needs minimal space, and 50% of US pizza shops are still independent — unlike burgers where 90% are chains.
+- `INS-260329-27A7` Charging $35/session to 8 students yields $280/hr versus $60/hr in a 1-on-1 model — a 4.5x increase for the same time block.
+- `INS-260329-C474` A frozen yogurt store doing $800K revenue yields roughly $93K in owner take-home, illustrating the salary-not-wealth trap of small retail.
+- `INS-260323-0026` Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
+- `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
+- `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
+- `INS-260329-1085` Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
+- `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
+- `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
+- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
+- `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
+- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
+- `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
+- `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
+- `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
+- `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
+- `INS-260323-8F70` Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
+- `INS-260329-78CB` High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.

@@ -1,0 +1,51 @@
+---
+id: INS-260327-CADA
+domain: startups
+topic: competitive-strategy
+title: >-
+  Green premiums capture willingness to pay more without requiring actual
+  environmental improvement
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - consumer-behavior
+  - market-dynamics
+sources:
+  - type: youtube
+    title: “Eco-friendly” Products are a SCAM
+    author: Levi Hildebrand
+    url: 'https://www.youtube.com/watch?v=mE18GCVDK6A'
+date_extracted: '2026-03-27'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    The eco-premium business model profits from the gap between consumer
+    willingness to pay for sustainability and the actua
+  standard: >-
+    The eco-premium business model profits from the gap between consumer
+    willingness to pay for sustainability and the actual cost of sustainable
+    production.
+
+
+    This insight transfers to any market where perception and reality diverge,
+    and businesses must decide whether to invest in substance or presentation.
+stance: >-
+  The eco-premium business model profits from the gap between consumer
+  willingness to pay for sustainability and the actual cost of sustainable
+  production.
+related:
+  - INS-260325-8DF7
+  - INS-260327-B116
+  - PRI-260328-F497
+  - INS-260322-FCFC
+  - INS-260327-6742
+---
+The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actual cost of sustainable production.
+
+This insight transfers to any market where perception and reality diverge, and businesses must decide whether to invest in substance or presentation.

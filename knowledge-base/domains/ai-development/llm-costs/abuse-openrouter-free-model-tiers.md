@@ -1,0 +1,57 @@
+---
+id: INS-260320-9937
+domain: ai-development
+topic: llm-costs
+title: Abuse OpenRouter free model tiers for development
+actionability: immediate
+confidence: medium
+shelf_life: time-sensitive
+status: active
+tags:
+  - llm-costs
+  - openrouter
+  - free-tier
+  - development
+sources:
+  - type: reddit
+    title: 'After learning this, my AI workflows cost me 30x less'
+    author: u/unknown
+related:
+  - INS-260329-9F8D
+  - INS-260329-4020
+  - INS-260330-1D9D
+  - INS-260329-AAD1
+  - INS-260322-98AB
+  - INS-260320-00C2
+  - INS-260322-E8BA
+  - INS-260322-1435
+  - INS-260330-BC21
+  - INS-260330-B8C5
+date_extracted: '2026-03-20'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    OpenRouter offers 50-1000 free requests/day on certain models — not trial
+    credits, actually free forever.
+  standard: |
+    OpenRouter provides permanently free tiers on select models with 50-1000
+    requests per day. These are not trial credits that expire — they are
+    ongoing free allocations. Use these for development, testing, low-volume
+    production tasks, and prototyping before committing budget to paid models.
+    This is especially useful for iteration-heavy development phases where
+    you would otherwise burn through paid API credits on experimental prompts.
+stance: >-
+  OpenRouter provides genuinely free daily API requests that are permanent, not
+  trial credits
+---
+
+OpenRouter provides permanently free tiers on select models with 50-1000
+requests per day. These are not trial credits that expire — they are
+ongoing free allocations. Use these for development, testing, low-volume
+production tasks, and prototyping before committing budget to paid models.
+This is especially useful for iteration-heavy development phases where
+you would otherwise burn through paid API credits on experimental prompts.

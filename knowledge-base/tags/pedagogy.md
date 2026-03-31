@@ -1,0 +1,67 @@
+# Tag: pedagogy
+
+- `INS-260329-2B9A` Teaching programming effectively requires concrete visual feedback before abstract concepts.
+- `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
+- `INS-260330-4B30` Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload.
+- `INS-260329-F211` Start with the simplest working thing, then layer one concept at a time — this applies equally to teaching and to building systems.
+- `INS-260329-5AC5` Project-based progression where each project naturally requires the next concept creates self-motivated learning momentum.
+- `INS-260329-CD38` Concrete projects that build on each other teach programming more effectively than abstract concept lectures.
+- `INS-260329-8330` Progressive mini-projects that layer new concepts onto familiar ones create the most effective programming learning paths.
+- `INS-260329-D75D` Progressive project sequences teach concepts in context, producing better retention than abstract-first approaches.
+- `INS-260329-DACC` Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
+- `INS-260329-1075` Family metaphors (parent, child, sibling) for nested structures leverage existing human intuition about relational hierarchies.
+- `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
+- `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
+- `INS-260329-72D5` Layer concepts incrementally through progressively harder problems rather than front-loading all theory before practice.
+- `INS-260329-0068` Project-based progressive learning embeds concepts in context, producing stronger recall and motivation than abstract-first teaching.
+- `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
+- `INS-260329-979B` CS50 starts with Scratch (visual blocks) before C to let students internalize programming concepts without fighting syntax simultaneously.
+- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
+- `INS-260330-E47D` Teaching core intuitions before precise definitions helps learners build mental scaffolding that makes formalism meaningful.
+- `INS-260330-BEAD` Vsauce makes the Banach-Tarski proof accessible by building a chain of named analogies — chocolate bar → Hilbert's Hotel → circle points → Hyperwebster → sphere decomposition — each one preparing the mental model for the next.
+- `INS-260329-F892` Letting learners encounter predictable errors (negative overtime, wrong relative references) before introducing the fix creates deeper understanding than presenting the correct solution first.
+- `INS-260330-E059` Reframing matrix multiplication as spatial transformation makes the concept intuitive rather than mechanical.
+- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
+- `INS-260329-25FC` Project-based progression creates natural 'need to know' hooks that make abstract programming concepts memorable.
+- `INS-260330-9033` Presenting proofs as guided exercise sequences — even in a lecture format — forces the active engagement that produces genuine understanding.
+- `INS-260330-C8ED` Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.
+- `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
+- `INS-260330-0143` Photosystem II was discovered before Photosystem I but acts first in the chain — explicitly flagging discovery-vs-logic order mismatches helps learners navigate confusing nomenclature.
+- `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
+- `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
+- `INS-260329-E914` Start with the simplest working example and layer complexity incrementally rather than teaching theory first.
+- `INS-260329-07D3` Sequence learning around small complete projects that each introduce exactly one new concept.
+- `INS-260329-32DB` Building programming skill through escalating project complexity outperforms abstract concept lectures because each project creates a concrete mental anchor for multiple concepts simultaneously.
+- `INS-260330-1B16` Build understanding layer by layer so the final formula feels like a natural extension rather than an intimidating wall of symbols.
+- `INS-260329-153F` Teaching concepts at the moment a project demands them creates natural motivation and deeper retention than abstract-first instruction.
+- `INS-260329-3263` Interleaving mini-projects between theory sections creates concrete anchors that make abstract concepts stick.
+- `INS-260329-55C4` People learn tools faster by building complete projects than by touring features in sequence.
+- `INS-260329-8830` Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
+- `INS-260329-E402` Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
+- `INS-260329-820D` Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
+- `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
+- `INS-260329-937E` Reframing intimidating technical concepts using familiar analogues removes psychological barriers and accelerates comprehension.
+- `INS-260330-B904` Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
+- `INS-260329-6004` Confronting misconceptions through cognitive dissonance teaches more effectively than stating correct answers directly
+- `INS-260330-C4F1` Using coding to teach critical thinking puts the cart before the horse—teach the target skill directly instead of through a proxy.
+- `INS-260329-2FEB` Immediate output from each new concept (printing, calculations, simple games) cements understanding faster than abstract theory.
+- `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
+- `INS-260329-71AB` Teaching data types in order of concreteness (strings → numbers → booleans → lists → dicts → classes) mirrors the concrete-to-abstract gradient that human cognition uses to build durable mental models.
+- `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
+- `INS-260329-8F86` ADTs define what operations are possible; data structures define how those operations are implemented — mastering this separation is what distinguishes great programmers.
+- `INS-260329-2DF2` Calculus understanding builds most effectively from visual/graphical intuition upward to symbolic manipulation and formal proof, not the reverse.
+- `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
+- `INS-260329-E6A1` Errors during learning are features, not bugs — they create the friction that makes correct patterns stick.
+- `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
+- `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
+- `INS-260329-B6A6` Layering complexity one concept at a time onto familiar examples builds more durable understanding than front-loading complete explanations.
+- `INS-260329-27A3` Learning concepts layered on top of each other in context transfers better than learning them in isolation.
+- `INS-260329-F20E` Teaching building blocks without immediate practical context creates a stronger conceptual breakthrough when the payoff finally arrives.
+- `INS-260329-2349` Delaying the 'why' behind foundational concepts creates a powerful aha moment when the payoff finally arrives.
+- `INS-260329-AC6E` Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
+- `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.
+- `INS-260325-48E4` Drawing the right picture turns abstract formulas from arbitrary rules into obvious geometric facts.
+- `INS-260329-7A6A` Zero-based vs one-based indexing confuses programmers because it contradicts deeply ingrained mathematical counting conventions, and the problem compounds in fields like quantum computing that try to please multiple conventions simultaneously.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
+- `INS-260329-7A39` Good onboarding introduces one new idea at a time while keeping everything else familiar, preventing the double-confusion of new concepts in new interfaces.

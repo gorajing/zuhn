@@ -1,0 +1,66 @@
+---
+id: INS-260327-112B
+domain: ai-development
+topic: product-strategy
+title: >-
+  Optimizing for creation over consumption is the winning social platform
+  strategy
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - social-platforms
+  - creation-tools
+  - product-design
+  - user-engagement
+sources:
+  - type: youtube
+    title: >-
+      OpenAI Sora 2 Team: How Generative Video Will Unlock Creativity and World
+      Models
+    author: Sequoia Capital
+    url: 'https://www.youtube.com/watch?v=w9oTtvbyLP8'
+date_extracted: '2026-03-27'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Lowering creation barriers through AI generates stronger social dynamics
+    than optimizing content consumption feeds.
+  standard: >-
+    The Sora team discovered that when they made it trivially easy for users to
+    create (via cameos and remixes), engagement patterns shifted dramatically
+    from consumption to creation. The 'cameo' feature, which lets users insert
+    themselves into AI-generated videos, produced immediate product-market fit
+    internally before launch, with the team's entire feed becoming cameos.
+
+
+    This insight from a former Instagram engineering lead is significant:
+    Instagram's hardest problem was getting users to create content. When AI
+    eliminates the skill barrier to creation, it unlocks social dynamics that
+    traditional platforms spent years trying to engineer. The remix chain
+    behavior mirrors the most valuable patterns on existing social platforms but
+    makes them accessible to anyone.
+stance: >-
+  Social platforms that minimize the barrier to content creation and prioritize
+  creative expression over passive consumption will generate stronger engagement
+  and network effects than traditional feed-based platforms.
+related:
+  - INS-260322-81CD
+  - INS-260322-4B63
+  - INS-260327-A61B
+  - INS-260330-D1C8
+  - INS-260330-1F41
+  - INS-260329-764E
+  - INS-260327-019C
+  - INS-260327-CA1C
+  - INS-260327-9D51
+  - INS-260330-843E
+---
+The Sora team discovered that when they made it trivially easy for users to create (via cameos and remixes), engagement patterns shifted dramatically from consumption to creation. The 'cameo' feature, which lets users insert themselves into AI-generated videos, produced immediate product-market fit internally before launch, with the team's entire feed becoming cameos.
+
+This insight from a former Instagram engineering lead is significant: Instagram's hardest problem was getting users to create content. When AI eliminates the skill barrier to creation, it unlocks social dynamics that traditional platforms spent years trying to engineer. The remix chain behavior mirrors the most valuable patterns on existing social platforms but makes them accessible to anyone.

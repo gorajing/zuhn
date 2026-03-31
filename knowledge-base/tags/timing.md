@@ -1,0 +1,40 @@
+# Tag: timing
+
+- `INS-260327-BBE3` Coffee optimization: organic mold-free beans, separate from creatine by 4+ hours, supplement magnesium to offset mineral depletion, and restrict to morning only.
+- `INS-260327-5452` Napoleon crushed the Turkish army at Aboukir by attacking during their amphibious landing, when they were most disorganized and couldn't use their naval advantage.
+- `INS-260327-F274` America's entry into WW1 in 1917 was decisive not because of immediate military impact but because it added fresh industrial and manpower resources when all other participants were exhausted.
+- `INS-260327-EF8C` Wellington watched Marmont's army for days without attacking, then struck in 40 minutes when the French overextended their line — destroying an entire army in one afternoon.
+- `INS-260327-15E1` The Qing dynasty's late reforms — abolishing the exam system, creating a constitutional monarchy, modernizing the army — actually accelerated its collapse by destabilizing the existing power structure without creating a viable alternative.
+- `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
+- `INS-260327-25C7` Marshal Grouchy's failure to march to Waterloo when he heard the guns — pursuing a phantom Prussian force instead — turned a possible French victory into total defeat.
+- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
+- `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
+- `INS-260327-6017` Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
+- `INS-260327-5297` When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
+- `INS-260330-3A0D` Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.
+- `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
+- `INS-260322-34AE` When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
+- `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
+- `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.
+- `INS-260327-DD1D` Quitting during a crisis reduces competition and can create better startup conditions than boom times.
+- `INS-260323-B426` Spend your 20s building skills, network, and industry expertise so you're equipped when you do start.
+- `INS-260330-5043` Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
+- `INS-260327-7A44` The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
+- `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
+- `INS-260323-1494` Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
+- `INS-260323-9EEC` EUV lithography took 30 years from Kinoshita's 1983 proof-of-concept to ASML's commercial machine because it required convergence of nuclear fusion mirror research, laser-produced plasma, and precision manufacturing — all initially developed in unrelated fields.
+- `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
+- `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
+- `INS-260322-3E59` The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
+- `INS-260330-2E58` Innovations fail not because they're bad ideas but because the supporting innovation stack hasn't matured yet.
+- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
+- `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
+- `INS-260325-B315` The 25-year boom after systemic collapse historically creates the most dramatic progress and opportunity.
+- `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
+- `INS-260330-39C6` Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
+- `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.
+- `INS-260323-F5EF` The same macro forces that create billion-dollar winners also destroy them when conditions shift — timing is not a skill.
+- `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
+- `INS-260330-D5BD` Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
+- `INS-260323-09E4` When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.

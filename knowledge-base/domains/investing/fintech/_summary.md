@@ -1,0 +1,76 @@
+# Topic: fintech
+
+> 72 insights
+
+- `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
+- `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
+- `INS-260322-2D2F` [high] Financial fraud is growing 18-20% per year because AI-powered fraud (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
+- `INS-260327-BB67` [high] Auto lending has become so fragmented across leases, subprime loans, buy-here-pay-here, and cross-collateralized products that even regulators admit they can't track total exposure.
+- `INS-260327-E72F` [high] Prediction markets threaten Robinhood and Coinbase because betting on elections and world events delivers the same dopamine hit as day trading but with more engaging narratives.
+- `INS-260323-0DC4` [high] The Black-Scholes equation derives from a single powerful assumption: if you can construct a risk-free portfolio of options and stocks through dynamic hedging, it should earn exactly the treasury bond rate — no more, no less.
+- `INS-260327-1555` [high] BNPL debt isn't counted in traditional consumer debt metrics, meaning actual consumer leverage is significantly higher than reported figures suggest.
+- `INS-260327-BF93` [high] BNPL companies have $500B+ in debt not recorded like traditional credit, with users treating what should be 8-week payment plans as permanent budget-stretching tools.
+- `INS-260324-6FC7` [high] Affirm, Klarna, and Afterpay turned short-term loans from large essentials into everyday impulse purchases — 173M global users splitting $20 orders into installments is credit expansion disguised as convenience.
+- `INS-260323-4B09` [high] Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
+- `INS-260329-A6EA` [high] Your investment strategy should shift from human capital to financial assets as your capital base grows.
+- `INS-260323-9A29` [high] Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
+- `INS-260329-76EE` [high] HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
+- `INS-260330-D6EF` [high] Proof of work replaces trust by making fraud more expensive than honest participation.
+- `INS-260329-D38D` [high] Paying off guaranteed 24% negative returns (credit card debt) before seeking uncertain 10% positive returns is simple arbitrage, not conservative advice.
+- `INS-260330-30AB` [high] Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift.
+- `INS-260330-FC9F` [high] The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
+- `INS-260323-8AB8` [high] The 1993 Fama-French paper proved that adding size (SMB) and value (HML) factors to market beta jumps explanatory power from ~60% to ~90% of return differences across diversified portfolios — demolishing single-factor CAPM as the complete model.
+- `INS-260322-BC97` [high] The fintech industry has largely digitized traditional financial services (access), but hasn't yet made them excellent — better credit scoring, smarter risk models, and real financial intelligence are the next frontier.
+- `INS-260329-AA2C` [high] FPGAs execute trading logic at hardware speed, making sub-microsecond decisions before software-based systems can even begin processing.
+- `INS-260329-CD02` [high] FPGAs run trading logic in reconfigurable hardware, making decisions in sub-microsecond latency before a CPU thread could even spin up.
+- `INS-260330-4370` [high] Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
+- `INS-260329-C409` [high] HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
+- `INS-260327-FF64` [high] Financial professionals used to agree that above a certain income you could brute-force your way through dumb financial decisions and still get richer - that threshold has risen beyond most high earners' reach.
+- `INS-260329-5414` [high] Young people with small capital bases get dramatically higher ROI from skill investment than from financial markets.
+- `INS-260330-7EAA` [high] Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
+- `INS-260330-D583` [high] Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption.
+- `INS-260330-EFB8` [high] The absence of legacy banking infrastructure in Africa enabled direct adoption of mobile payments, bypassing checks and credit cards entirely.
+- `INS-260329-90F4` [high] HFT systems use kernel bypass (DPDK) and exchange co-location to eliminate OS-level network overhead and achieve microsecond latency.
+- `INS-260327-D1BB` [high] Epstein charged tens of millions for tax advice without being a CPA, hundreds of millions for wealth management without a Series 7, and consulting fees without a college degree - and nobody questioned it for decades.
+- `INS-260322-88FC` [high] Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
+- `INS-260323-70B9` [high] A $200K down payment on a $1M house that appreciates 10% yields a 50% return instead of 10% — leverage is the number one economic growth engine and creates massive tax advantages.
+- `INS-260327-4348` [high] 40% of people earning $500K+ live paycheck to paycheck - what used to be a cautionary tale about athletes and lottery winners is now the majority experience for top earners.
+- `INS-260329-71DE` [high] HFT event pipelines use lock-free queues because even minimal thread locking creates latency spikes that cost money.
+- `INS-260323-7E6F` [high] Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
+- `INS-260330-7ED0` [high] M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
+- `INS-260324-8D35` [high] FanDuel and DraftKings are spending billions on advertising and sign-up bonuses to acquire users in newly legal states before the regulatory window closes — the same blitzscaling playbook as Uber.
+- `INS-260323-2FF9` [high] Options offer three distinct advantages over direct stock ownership: capped maximum loss (the premium paid), amplified returns through leverage, and the ability to hedge specific risks.
+- `INS-260327-7F73` [high] When PE firms borrow billions to acquire companies, the debt goes on the acquired company's books - the PE firm collects fees regardless while employees bear the bankruptcy risk.
+- `INS-260327-7435` [high] The 2-and-20 fee structure means PE managers earn billions in management fees before any returns are generated, making fund size more important than fund performance.
+- `INS-260327-17BE` [high] Pension funds keep giving money to PE firms because PE's opaque accounting lets pensions report hitting their 7-8% return targets, even when actual returns may not justify the fees.
+- `INS-260329-A9ED` [high] HFT systems enforce automated pre-trade risk checks in microseconds to prevent runaway algorithms from causing financial disasters.
+- `INS-260327-F996` [high] Prediction markets handling $100B+/year in volume on everything from elections to war zone casualty counts are gambling platforms using academic information theory as regulatory cover.
+- `INS-260327-4FAE` [high] Total private credit outstanding exceeds $2 trillion - nearly double the $1.3T in subprime mortgages that triggered the 2008 crisis - with even less regulatory oversight.
+- `INS-260327-7F54` [high] PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
+- `INS-260329-33AA` [high] HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
+- `INS-260327-68C1` [high] 2025 had the highest corporate bankruptcies ever outside a recession, including companies going bankrupt for the second time within months, suggesting structural unsustainability not cyclical distress.
+- `INS-260327-14E6` [high] Record depreciation plus record debt equals massive negative equity - borrowers can't sell their way out because their cars are worth less than they owe, making default the only exit.
+- `INS-260329-EC33` [high] Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
+- `INS-260330-BA13` [high] SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260327-E4F1` [high] Corporate debt hit $14T not from productive investment but from financial engineering - companies borrowed to buy back stock, boosting share prices while hollowing out R&D and operations.
+- `INS-260327-0AB0` [high] Many retirees globally use accumulated retirement savings to pay off mortgages, converting retirement accounts into real estate equity and qualifying for public pensions.
+- `INS-260323-1B42` [high] Ray Dalio's core insight: the #1 mistake is trying to increase returns without managing risk — the best investors keep returns constant while systematically reducing the risk required to achieve them.
+- `INS-260323-BA17` [high] The Efficient Market Hypothesis has been empirically rejected — stock market predictabilities exist, but exploiting them requires sophisticated models, computational power, and scientific training.
+- `INS-260330-B6AD` [high] When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital.
+- `INS-260325-EBC3` [high] The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
+- `INS-260330-4C23` [high] Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
+- `INS-260323-825F` [high] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
+- `INS-260330-137A` [high] Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
+- `INS-260324-1C84` [high] Visa was founded by Bank of America, Mastercard by smaller banks as a counterweight — every CEO in their history came from a big bank, and the unspoken harmony means neither side encroaches on the other.
+- `INS-260330-B906` [high] Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.
+- `INS-260330-4370` [high] Ramsey found that millionaires and billionaires overwhelmingly put money into things they deeply understood — dirt, cars, banks, businesses — not sophisticated instruments.
+- `INS-260329-C45C` [high] Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
+- `INS-260324-8C30` [high] Venmo, CashApp, and PayPal require bank accounts and only work domestically — Western Union handles cash-to-cash transfers for migrant workers who need to send money to countries where banking is unreliable.
+- `INS-260327-8374` [high] A fund limiting withdrawals is the institutional finance equivalent of a bank limiting ATM withdrawals - it signals that assets cannot be liquidated fast enough to meet redemption demands.
+- `INS-260327-226A` [high] Many companies haven't been profitable in years and survived by continuously refinancing cheap debt - rising rates are exposing them all simultaneously.
+- `INS-260323-D6C7` [medium] After Fama-French opened the door to factor research, academics published 316+ distinct factors by 2016 — creating a 'factor zoo' where most factors are likely data-mined noise, and only the robust few (market, size, value, profitability, investment) survive real-world transaction costs.
+- `INS-260329-55DC` [medium] Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
+- `INS-260329-B424` [medium] Options and leveraged positions let you control large assets with minimal capital, creating disproportionate upside potential.
+- `INS-260322-760A` [medium] The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
+- `INS-260330-ED77` [medium] Apple borrows money in the US to pay American bills despite having $285B in offshore accounts it cannot access without triggering taxes.
+- `INS-260327-A5CD` [medium] At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.

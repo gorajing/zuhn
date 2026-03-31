@@ -1,0 +1,21 @@
+# Tag: empathy
+
+- `INS-260323-2874` Emotional contagion empathy makes one identified victim more compelling than 500,000 statistical victims — reason must override this bias for good ethical decisions.
+- `INS-260330-9575` Americans' failure to put themselves in Russia's or China's shoes leads to policies that provoke the exact conflicts they aim to prevent.
+- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
+- `INS-260330-523E` Expert social engineers often learned to read people as abused children needing to predict and manipulate caregivers for survival.
+- `INS-260323-6F94` For neurodivergent people who bypassed the social self stage, empathy can be retroactively built through deliberate practice — paying attention, physical closeness, and creating safe spaces for emotional connection.
+- `INS-260325-DF66` Lawrence Wright argues the novel is the only art form that lets you truly enter another person's mind — journalism shows the surface, fiction reveals the interior.
+- `INS-260323-B811` When casualties become 'averaging 10,000 a month' instead of named individuals with stories, moral weight evaporates — telling individual stories is an act of resistance against statistical dehumanization.
+- `INS-260325-09AF` The 'sturdy pilot' metaphor: the best leader acknowledges your fear is real AND stays calm and in control — neither dismissing your feelings nor being overwhelmed by them.
+- `INS-260325-4EE9` A prisoner exchange of 1,000 Palestinians for 1 Israeli revealed to Wright that the unequal valuation of human life is at the root of the conflict's durability.
+- `INS-260323-F853` Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
+- `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
+- `INS-260329-EC98` Build for people like you — authentic understanding of customer pain produces better products and more resilient motivation than external market research.
+- `INS-260329-CD64` Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.
+- `INS-260322-185B` You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
+- `INS-260322-A9DE` Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
+- `INS-260323-8271` Empathy is not sympathy or agreement — it is articulating where someone is coming from, which requires zero concession and works even with hostile counterparts.
+- `INS-260330-16CD` A dropdown asking users their emotional state was filled out 75.8% of the time and measurably reduced exclamation marks, curse words, and all-caps in support tickets.
+- `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
+- `INS-260328-D2EC` If you can't describe your customer's business problems from the CEO's perspective, you haven't done enough homework to sell.

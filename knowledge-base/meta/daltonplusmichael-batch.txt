@@ -1,0 +1,20 @@
+# daltonplusmichael — Top 15 Videos by Views (Batch Ingest Tracker)
+# Format: STATUS | VIDEO_ID | VIEWS | TITLE [| SRC_ID]
+# STATUS: PENDING / INGESTED / EXTRACTED / SKIP / FAILED
+# Generated: 2026-03-29
+# Source: https://www.youtube.com/@daltonplusmichael
+INGESTED | yfx_0y7-qDA | 51293 | How Great Founders Approach Sales | SRC-260328-9E51
+INGESTED | fd-FozFpTH4 | 44868 | Real vs Fake Startups | SRC-260328-2F3C
+INGESTED | y78dqbPD7Yg | 40653 | How Impatient Should Founders Be In The Pre-AGI Era? | SRC-260328-3D91
+INGESTED | I-vCH6wwysM | 38982 | Building A Big Company: Non-Obvious Insights | SRC-260328-FA55
+INGESTED | Eht6XjI-p64 | 36631 | How To Get Unique AI Startup Ideas | SRC-260328-71C8
+INGESTED | Cty5CNojnZU | 31128 | Dalton + Michael Return To YouTube | SRC-260328-60F3
+INGESTED | YzHyRZMBs04 | 25878 | Slop vs Craft | SRC-260328-3DF0
+INGESTED | XU7OEoBeX4g | 17912 | Is My Startup Growing Fast Enough? | SRC-260328-E2BF
+INGESTED | zRioYLUExyc | 16245 | Shockingly Good Predictions | SRC-260328-44AC
+INGESTED | GdP-5UlnsYQ | 16206 | Inside Standard Capital: New $425M Series A Fund, Explained | SRC-260328-92AF
+INGESTED | gNbqaSz1kK4 | 16091 | Process vs Chaos In Startups | SRC-260328-0F28
+INGESTED | v0pb3xg4Qzo | 15101 | How To Get Better Advice | SRC-260328-D234
+INGESTED | 0gOelmalO70 | 12820 | Standard Capital Update | SRC-260328-09D8
+INGESTED | jVDb1h2vveg | 12461 | 2025 Year In Review | SRC-260328-CEA4
+INGESTED | Zn4NDQENuDo | 10033 | Stop Obsessing Over Fundraising Announcements | SRC-260328-9727

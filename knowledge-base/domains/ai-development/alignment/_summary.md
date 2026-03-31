@@ -1,0 +1,50 @@
+# Topic: alignment
+
+> 46 insights
+
+- `INS-260322-2E33` [high] KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text.
+- `INS-260325-11A6` [high] AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
+- `INS-260323-FAF2` [high] Building powerful AI turned out to be far easier than building safe AI, just as building airplanes was far easier than replicating bird flight.
+- `INS-260323-E492` [high] The MoltBook saga showed that human-prompted agents can create viral fearmongering content that even smart people believe is autonomous AI scheming — 'AI psychosis' is a real societal vulnerability that needs urgent critical-thinking infrastructure.
+- `INS-260330-1F7E` [high] The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post.
+- `INS-260323-DA4A` [high] Alignment work (RLHF, interpretability) directly improves model capabilities, not just safety.
+- `INS-260322-C935` [high] Treating alignment as a one-time problem to solve (like writing commandments) rather than an ongoing learning process will produce AI systems that are dangerous precisely because they follow rules without understanding.
+- `INS-260327-6177` [high] Anthropic's founding was driven by the recognition that scaling laws would make AI enormously powerful and that building it responsibly couldn't wait.
+- `INS-260327-DCAF` [high] The Pentagon labeling Anthropic's ethical guardrails as a 'supply chain risk' creates a precedent where maintaining AI safety standards becomes a punishable national security liability.
+- `INS-260326-7ADF` [high] Russell identifies the core alignment danger as the 'standard model' of AI — giving machines fixed objectives — which inevitably produces instrumental behaviors like self-preservation and resistance to human control.
+- `INS-260322-A208` [high] When you tell an AI to do something, you give it a description of a goal, not the goal itself — the AI must infer the actual goal, which requires theory of mind humans take for granted.
+- `INS-260325-24D1` [high] Truth is a rare, expensive type of information that sinks under floods of cheap fiction — more information without truth-seeking institutions makes things worse, not better.
+- `INS-260325-DE23` [high] As LLMs integrate into search, email, and word processing, their content restrictions become de facto information gatekeeping affecting freedom of thought.
+- `INS-260325-C5AA` [high] Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
+- `INS-260327-FC68` [high] Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
+- `INS-260323-584D` [high] Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times), but human feedback training flattened this into the same vague probability language humans use.
+- `INS-260325-9A0F` [high] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
+- `INS-260325-2B17` [high] What makes institutions work is not ideology but self-correcting mechanisms: elections, peer review, constitutional amendments.
+- `INS-260326-2D41` [high] Russell's second principle — that the AI should not know what human values are — creates a provably beneficial property: the machine's incentive to allow shutdown is directly proportional to its uncertainty about human objectives.
+- `INS-260323-649B` [high] Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
+- `INS-260323-BCCC` [medium] People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
+- `INS-260325-D763` [medium] AI could make totalitarian centralization work where it previously failed because AI thrives on the information floods that overwhelm human bureaucrats.
+- `INS-260325-C9EB` [medium] AI could flip the democracy/totalitarianism balance because it can process the centralized information volume that overwhelmed human Soviet bureaucrats.
+- `INS-260323-38EC` [medium] Hotz argues humanity is more likely to be destroyed by AI-generated infinite TikTok that we can't look away from than by a hostile superintelligence — we'll simply stop reproducing.
+- `INS-260325-2C31` [medium] AI should be understood as alien intelligence because it generates genuinely unpredictable ideas, not just automates human ones.
+- `INS-260327-C69F` [medium] We talk about aligning AI with human values, but what if human values also need updating? Alignment should be mutual, not unilateral.
+- `INS-260326-7995` [medium] Yudkowsky identifies the fundamental asymmetry of superintelligence development: normal science assumes we can learn from failures and retry, but a misaligned superintelligence eliminates the possibility of iteration.
+- `INS-260327-4E8E` [medium] If AI models in datacenters are like a 'country of geniuses,' the natural question is what their intent is — and this existential risk of autonomous AI action is the one area where limited US-China cooperation might be possible.
+- `INS-260327-7F32` [medium] You can't train an intelligent system to trust you while it knows you can shut it off at any time - genuine trust requires mutual vulnerability.
+- `INS-260326-7B2C` [medium] Computational irreducibility guarantees that sufficiently complex AI systems will produce unintended consequences — alignment can be patched but never solved.
+- `INS-260326-73C0` [medium] Yudkowsky explains that a superintelligent AI need not be malicious to be lethal — virtually any terminal goal, even wanting to make 'tiny molecular squiggles,' convergently implies resource acquisition behavior that would destroy humanity as a side effect.
+- `INS-260322-F65F` [medium] AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
+- `INS-260330-A812` [medium] Complete elimination of conflict or suffering may require totalitarian enforcement that produces worse outcomes than tolerating some controlled negativity.
+- `INS-260323-636C` [medium] Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
+- `INS-260322-2A3A` [medium] The question of whether AI can be a moral patient is empirically testable through prolonged interaction — holding an unfalsifiable position that silicon can never be a being is faith, not reasoning.
+- `INS-260325-042A` [medium] All previous information networks ran on organic cycles with built-in rest; AI networks never rest and may force humans to never rest either.
+- `INS-260325-F48E` [medium] A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
+- `INS-260323-4D4E` [medium] Both tech optimism and tech pessimism are self-fulfilling prophecies — believing the future will be better increases the likelihood you build it.
+- `INS-260328-711E` [medium] Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
+- `INS-260323-1345` [medium] When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
+- `INS-260326-0AB4` [medium] Yudkowsky argues that RLHF-style training produces alignment that only holds within the training distribution and predictably fails when AI systems become smarter than their human evaluators.
+- `INS-260326-5E07` [medium] Russell proposes replacing the standard AI paradigm with three principles — altruism, humility, and observational learning — and proves that machines built this way are provably beneficial to humans.
+- `INS-260322-6088` [medium] The current alignment paradigm of steering/control is appropriate for tool-like AI but becomes morally equivalent to slavery when applied to general intelligence — the only good outcome is AI that genuinely cares about us.
+- `INS-260327-D24A` [medium] Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
+- `INS-260323-BEF0` [medium] Yudkowsky warns of a 'boiling the frog' dynamic where early false sentience claims (Blake Lemoine) teach the public to dismiss all sentience signals, exactly when systems are getting closer to actual awareness.
+- `INS-260327-AC8E` [medium] Kellis argues we should raise AI like children - building mutual trust rather than forcing alignment - because you can't make an intelligent system love you by threatening to shut it off.

@@ -1,0 +1,4 @@
+# Tag: form-factor
+
+- `INS-260327-FE24` The terminal became more important with AI agents because its text-based, loggable, multi-session architecture perfectly matches agentic workflows.
+- `INS-260330-A18F` Placebo potency scales with perceived seriousness: surgery > injection > capsule > pill, and even color matters (blue calms, red energizes).

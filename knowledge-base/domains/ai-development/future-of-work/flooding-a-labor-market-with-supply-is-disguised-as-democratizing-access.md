@@ -1,0 +1,55 @@
+---
+id: INS-260330-B28C
+domain: ai-development
+topic: future-of-work
+title: Flooding a labor market with supply is disguised as democratizing access
+actionability: reference
+confidence: medium
+shelf_life: evergreen
+status: active
+tags:
+  - labor-economics
+  - supply-demand
+  - coding-bootcamps
+  - wage-dynamics
+sources:
+  - type: youtube
+    title: Not Everyone Should Code
+    author: PolyMatter
+    url: 'https://www.youtube.com/watch?v=EFwa5Owp0-k'
+date_extracted: '2026-03-30'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Campaigns to universalize high-paying skills function as labor market
+    flooding that depresses wages for existing practitioners.
+  standard: >-
+    The video identifies an ironic dynamic: when politicians and tech companies
+    push 'everyone should code,' they frame it as expanding opportunity, but the
+    economic effect is increasing labor supply in a specific market. Tech
+    companies directly benefit from a larger pool of candidates competing for
+    jobs, which puts downward pressure on salaries. The same pattern applies to
+    any skill domain—when 'democratization' narratives are driven by the demand
+    side of the market rather than the supply side, the primary beneficiary is
+    the employer, not the new entrant. This has direct implications for
+    evaluating any industry-backed 'skills initiative' or training program: ask
+    who benefits from the expanded supply.
+stance: >-
+  When institutions tell everyone to learn a high-paying skill, they are
+  engineering wage suppression through oversupply, not expanding opportunity
+related:
+  - INS-260322-2B2D
+  - INS-260322-0D87
+  - INS-260327-02CF
+  - INS-260327-3653
+  - INS-260330-737B
+  - INS-260330-16B1
+  - PRI-260328-8317
+  - PRI-260328-D68F
+  - INS-260330-D52B
+---
+The video identifies an ironic dynamic: when politicians and tech companies push 'everyone should code,' they frame it as expanding opportunity, but the economic effect is increasing labor supply in a specific market. Tech companies directly benefit from a larger pool of candidates competing for jobs, which puts downward pressure on salaries. The same pattern applies to any skill domain—when 'democratization' narratives are driven by the demand side of the market rather than the supply side, the primary beneficiary is the employer, not the new entrant. This has direct implications for evaluating any industry-backed 'skills initiative' or training program: ask who benefits from the expanded supply.

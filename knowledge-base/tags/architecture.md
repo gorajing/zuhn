@@ -1,0 +1,54 @@
+# Tag: architecture
+
+- `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
+- `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
+- `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
+- `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
+- `INS-260323-29ED` GPT-4's remarkable reasoning emerges from an incredibly simple feed-forward architecture trained on next-word prediction, not from replicating brain complexity.
+- `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
+- `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
+- `INS-260320-7B4B` HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
+- `INS-260327-1631` KimiLinear's fine-grained diagonal decay matrix enables different channels to independently retain long-range context or rapidly refresh, outperforming both full attention and prior linear attention variants.
+- `INS-260321-B014` Bayesian wind tunnel experiments prove transformers perform exact Bayesian posterior updating to 10^-3 bits accuracy, but this mechanism is purely correlational — not causal.
+- `INS-260321-8C35` AGI requires weight plasticity (continual learning without catastrophic forgetting) and causal modeling (simulation over correlation) — neither solvable by making models bigger.
+- `INS-260323-3F39` Modern frontier models are essentially GPT-2 with minor tweaks; the real advances are in training methodology, data curation, and post-training.
+- `INS-260327-7214` Autonomous driving is fundamentally different from language AI: hallucinations kill people, so the architecture must guarantee functional and behavioral safety rather than relying on scale to eliminate errors.
+- `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
+- `INS-260327-9816` Simple space-time patch tokenization enables diffusion transformers to generate entire videos simultaneously with global context.
+- `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
+- `INS-260329-03B0` CS50P's curriculum progression from variables to functions to libraries to classes teaches the same abstraction layering principle that governs good software architecture.
+- `INS-260329-9FE0` CS50 Python's curriculum structure — building from functions to libraries to classes — mirrors how well-designed software systems layer abstractions.
+- `INS-260329-D0B3` CS50's progression from binary to C to Python mirrors how software systems are actually built — each layer abstracts away the complexity below.
+- `INS-260329-8A13` CS50's progression from binary to C to Python to web frameworks demonstrates that effective abstraction layers hide complexity without destroying access to it.
+- `INS-260330-E6BB` Abstraction layers — not simplification — are what let humans build on billion-transistor systems.
+- `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
+- `INS-260329-9157` Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
+- `INS-260330-6E5F` ATP synthase converts proton concentration gradients into chemical energy — the same barrier-and-gradient pattern appears in effective system architectures.
+- `INS-260330-EAA3` Controlled imbalances released through constrained channels are the universal pattern for converting raw energy into useful work.
+- `INS-260330-3EFC` Single-threaded event loops can handle thousands of concurrent operations by pausing and resuming work rather than running in parallel.
+- `INS-260330-CA97` RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
+- `INS-260329-7673` ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
+- `INS-260320-0F7C` Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
+- `INS-260329-BD83` File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
+- `INS-260329-D6AA` Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
+- `INS-260329-85E9` HFT order books are maintained entirely in-memory with replicated copies for fault tolerance, avoiding all disk I/O.
+- `INS-260329-C991` HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
+- `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
+- `INS-260330-AC7F` CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
+- `INS-260330-82B2` The stack (short-lived, auto-managed) vs heap (long-lived, manually managed) split mirrors stateless vs stateful architecture.
+- `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
+- `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
+- `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
+- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
+- `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
+- `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
+- `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
+- `INS-260330-181B` Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
+- `INS-260330-9D44` Apple's SoC puts CPU, GPU, memory, and I/O on one chip, beating Intel's more powerful but physically separated components in real-world tasks.
+- `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
+- `INS-260329-003B` Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.
+- `INS-260329-818A` HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
+- `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
+- `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
+- `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
+- `INS-260330-48F2` RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.

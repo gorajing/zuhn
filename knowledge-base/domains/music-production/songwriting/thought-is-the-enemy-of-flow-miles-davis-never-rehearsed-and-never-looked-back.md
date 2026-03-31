@@ -1,0 +1,62 @@
+---
+id: INS-260323-043E
+domain: music-production
+topic: songwriting
+title: >-
+  Thought is the enemy of flow — Miles Davis never rehearsed and never looked
+  back
+actionability: inspiration
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - miles-davis
+  - improvisation
+  - flow-state
+  - jazz
+sources:
+  - type: youtube
+    title: >-
+      Rick Beato: Greatest Guitarists of All Time, History & Future of Music |
+      Lex Fridman Podcast #492
+    author: Lex Fridman
+    url: 'https://youtu.be/1SJiTwbSI58'
+date_extracted: '2026-03-23'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Miles Davis never rehearsed with his band, never told them they were being
+    recorded, and never listened back to recordings — as drummer Vinnie Colaiuta
+    told Rick Beato: 'thought is the enemy of flow.'
+  standard: >-
+    Rick Beato recounts Ron Carter's description of playing with Miles Davis:
+    they never rehearsed, Miles would put charts on the stand and they'd just
+    roll. Carter didn't even know when they were being recorded live — he'd spot
+    a microphone in his bass amp, then months later discover a record had come
+    out. Miles never wanted to hear old recordings; he always moved forward.
+
+
+    This wasn't laziness — it was deliberate methodology. Miles wanted musicians
+    to feel the music rather than think about it. The result was music that felt
+    alive, dangerous, like 'toes hanging over the cliff.' David Gilmour embodied
+    a similar quality: incredible melodic sense where one idea flows to the next
+    with space between phrases, like speaking. The principle — 'thought is the
+    enemy of flow' — applies beyond music to any creative performance where
+    overanalysis kills spontaneity.
+related:
+  - INS-260329-E6DB
+  - INS-260321-6D01
+  - INS-260330-6CA5
+  - INS-260330-363D
+  - INS-260322-89A9
+stance: >-
+  Miles Davis never rehearsed with his band, never told them they were being
+  recorded, and never listened back to recordings
+---
+Rick Beato recounts Ron Carter's description of playing with Miles Davis: they never rehearsed, Miles would put charts on the stand and they'd just roll. Carter didn't even know when they were being recorded live — he'd spot a microphone in his bass amp, then months later discover a record had come out. Miles never wanted to hear old recordings; he always moved forward.
+
+This wasn't laziness — it was deliberate methodology. Miles wanted musicians to feel the music rather than think about it. The result was music that felt alive, dangerous, like 'toes hanging over the cliff.' David Gilmour embodied a similar quality: incredible melodic sense where one idea flows to the next with space between phrases, like speaking. The principle — 'thought is the enemy of flow' — applies beyond music to any creative performance where overanalysis kills spontaneity.

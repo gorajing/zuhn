@@ -1,0 +1,55 @@
+# AlexHormozi — Top 50 Videos by Views (Batch Ingest Tracker)
+# Format: STATUS | VIDEO_ID | VIEWS | TITLE [| SRC_ID]
+# STATUS: PENDING / INGESTED / EXTRACTED / SKIP / FAILED
+# Generated: 2026-03-30
+# Source: https://www.youtube.com/@AlexHormozi/videos
+INGESTED | RdAKXJlMIZM | 4435923 | How to get SO rich you question the meaning of making money | SRC-260329-AB51
+INGESTED | VBoRLJimVzc | 3999595 | If I Wanted to Become a Millionaire In 2024, This is What I'd Do [FULL BLUEPRINT] | SRC-260329-6270
+INGESTED | KhFlD54nQrY | 3553717 | 13 Years Of Brutally Honest Business Advice in 90 Mins | SRC-260329-114F
+INGESTED | KYqEK_T_5M4 | 3115284 | Get RICH in the A.I. Revolution (2023) | SRC-260329-A39B
+INGESTED | YFA8AS5Cu2w | 3067075 | watch this if you're tired of being broke | SRC-260329-602F
+INGESTED | oRMG_HpOAN4 | 2822958 | 13 Years of No BS Business Advice in 79 Mins | SRC-260329-6CB6
+INGESTED | aFoMYz_jWcs | 2590463 | How To Actually Get Rich In Your 20s | SRC-260329-468C
+INGESTED | qxQIcDrre1E | 2352451 | Watch these 55 minutes if you want to be a millionaire in 2022.. | SRC-260329-1672
+INGESTED | MNll1BaskLA | 2301582 | How to Win (At ANYTHING) | SRC-260329-7C6A
+INGESTED | dZ7xeVCYC5M | 2274844 | How I Would Invest $1000 If I Were In My 20s | SRC-260329-1B7B
+INGESTED | ymFWgFiKUvM | 1998860 | If You Have Less Than $10,000 Saved. Please Watch This Video... | SRC-260329-F20A
+INGESTED | 7ITff1fIbSc | 1997225 | How to Grow an Audience if You Have 0 Followers | SRC-260329-CDB2
+INGESTED | cq8GyLrEuAk | 1933434 | 14 Life Lessons I Wish I Knew Earlier | SRC-260329-6400
+INGESTED | 6KqndZuN_Yk | 1882940 | If you want 2026 to be the best year of your life. Please watch this video… | SRC-260329-BC4B
+INGESTED | 9ySuYdJ0H4s | 1876930 | REPROGRAM your mind to be rich in 22 minutes.... | SRC-260329-60A3
+INGESTED | Nh8Oc7ERdIU | 1784534 | How to Get Ahead of 99% of People | SRC-260329-A9C9
+INGESTED | jvXOOddDg_s | 1764943 | How to Get Rich [Full Interview with Dave Ramsey] | SRC-260329-704D
+INGESTED | nIk3DedjxJM | 1716764 | "I'm Broke, What Business Do I Start?" | SRC-260329-1E19
+INGESTED | k-3PoOT4vOM | 1668984 | How to Make Money So Fast It Feels ILLEGAL | SRC-260329-603E
+INGESTED | jiCGLDhUCHY | 1603272 | If I Were Single and Starting Over, This Is What I Would Do | SRC-260329-AE3B
+INGESTED | VQM3DrnVTcs | 1515292 | $100M CEO Explains How to Build A Brand in 2024 | SRC-260329-0FDB
+INGESTED | MzAIP_WJ-jE | 1500380 | Brutally Honest Truths That Give You an Unfair Advantage in Life | SRC-260329-BC2B
+INGESTED | ln24y0FPJHo | 1479469 | Brutally Honest Advice to My Younger Poorer Self | SRC-260329-847F
+INGESTED | GIRkQQHzsxI | 1474512 | You’re Wasting 80% of Your Time (here’s how to fix it) | SRC-260329-19BF
+INGESTED | oys_fv25SYM | 1467692 | Advice I Wish Someone Gave Me When I Was Broke | SRC-260329-5833
+INGESTED | NcD2t9qt-fM | 1417713 | The Best SALES TRAINING On The Internet | SRC-260329-ABB6
+INGESTED | w7g08dVTwaE | 1395643 | Watch this to get your first 5 customers | SRC-260329-EC81
+INGESTED | AN2KpRBsmRY | 1379545 | If I Wanted To Become a Millionaire in 2026, This Is What I'd Do [FULL BLUEPRINT] | SRC-260329-97CF
+INGESTED | uWdIgftpvBI | 1337899 | If I Started A Business in 2026, I'd Do This | SRC-260329-8EEB
+INGESTED | HxEQCHpZzHk | 1319326 | How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL | SRC-260329-2211
+INGESTED | hGX_z5rXRlU | 1319318 | The Alex Hormozi Cookbook [REVEALED] | SRC-260329-DF09
+INGESTED | reisEL_D7xc | 1287834 | 13 Years of Marketing Advice in 85 Mins | SRC-260329-F8A4
+INGESTED | lRyGIzW9d9k | 1271063 | The anti-routine...[what billionaires use to win] | SRC-260329-7735
+INGESTED | ub1D6RQocRU | 1262405 | If you're ambitious and in your 20s or 30s, please watch this. | SRC-260329-E8EE
+INGESTED | nxL4ZfVqKLI | 1201341 | Seriously, watch this before you go to college | SRC-260329-5FD3
+INGESTED | UDBkiBnMrHs | 1172899 | If you’re ambitious but inconsistent, please watch this | SRC-260329-4208
+INGESTED | xZ8d9g6BcKM | 1127347 | Building a Frozen Yogurt Store in 11 Minutes | SRC-260329-5563
+INGESTED | 0mqqbuM9sAk | 1126517 | I Built 4 Businesses In A Row To Show It's Not Luck | SRC-260329-E5BE
+INGESTED | RVbvhPGFi6E | 1125628 | After Closing 4000+ Sales, I Discovered a New Method to Close Deals Faster | SRC-260329-F46C
+INGESTED | JfbtySq6_B4 | 1120173 | Sell Anything To Anyone With This Unusual Method | SRC-260329-8B58
+INGESTED | KNl83INePXI | 1119750 | "I'm Broke... What Should I Do?" | SRC-260329-2AA1
+INGESTED | JE2_7elAcxM | 1118708 | How to Sell Better than 99% Of People (4 HOUR ULTIMATE GUIDE) | SRC-260329-3984
+INGESTED | CGSd00h-6zI | 1104803 | The Best Student Side Hustle in 2026 | SRC-260329-587C
+INGESTED | q6SdmgIji30 | 1088881 | 14 Money Mistakes to AVOID in Your 20's | SRC-260329-BDB4
+INGESTED | 7sLXhCDRaV8 | 1072640 | 10 Different Ways To Break Down Making $1 Million | SRC-260329-E60A
+INGESTED | TFxT3G5jwtU | 1020855 | It's Actually Pretty Easy to Get Ahead of 99% of People | SRC-260329-5680
+INGESTED | oDK4g5na4Jw | 1019525 | No BS Advice to Get Rich Like the 1% | SRC-260329-FD15
+INGESTED | oi7bnS8uyJM | 1004970 | 30 Minutes of sales training that will explode your business in 2022 | SRC-260329-B519
+INGESTED | oZ-H_TjSzok | 997780 | No BS Advice to Get Rich in the Next 10 Years | SRC-260329-54E6
+INGESTED | lJF__n_34ew | 966216 | My 12 Hour Work Day (in 15 Minutes) [Ep 003] | SRC-260329-EC21

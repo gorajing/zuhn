@@ -1,0 +1,3 @@
+# Tag: talent-retention
+
+- `INS-260324-6C83` 80% of US barbershops remain independent despite 40 years of corporate attempts because the core asset (barber talent) can walk out and open their own shop with just scissors and a chair.

@@ -1,0 +1,25 @@
+# freecodecamp — Top 20 Videos by Views (Batch Ingest Tracker)
+# Format: STATUS | VIDEO_ID | VIEWS | TITLE [| SRC_ID]
+# STATUS: PENDING / INGESTED / EXTRACTED / SKIP / FAILED
+# Generated: 2026-03-29
+# Source: https://www.youtube.com/@freecodecamp/videos
+INGESTED | rfscVS0vtbw | 48557848 | Learn Python - Full Course for Beginners [Tutorial] | SRC-260329-5ACA
+INGESTED | PkZNo7MFNFg | 20632818 | Learn JavaScript - Full Course for Beginners | SRC-260329-EC6D
+INGESTED | HXV3zeQKqGY | 20538925 | SQL Tutorial - Full Database Course for Beginners | SRC-260329-C169
+INGESTED | KJgsSFOSQv0 | 18451908 | C Programming Tutorial for Beginners | SRC-260329-53C7
+INGESTED | 8mAITcNt710 | 13456072 | Harvard CS50 – Full Computer Science University Course | SRC-260329-C77F
+INGESTED | vLnPwxZdW4Y | 13357620 | C++ Tutorial for Beginners - Full Course | SRC-260329-DD88
+INGESTED | Vl0H-qTclOg | 11310102 | Microsoft Excel Tutorial for Beginners - Full Course | SRC-260329-F5C8
+INGESTED | zOjov-2OZ0E | 10918717 | Introduction to Programming and Computer Science - Full Course | SRC-260329-45D8
+INGESTED | i_LwzRVP7bg | 9760480 | Machine Learning for Everybody – Full Course | SRC-260329-E2E7
+INGESTED | GhQdlIFylQ8 | 8906057 | C# Tutorial - Full Course for Beginners | SRC-260329-4FDD
+INGESTED | HfACrKJ_Y2w | 8903387 | Calculus 1 - Full College Course | SRC-260329-0474
+INGESTED | nLRL_NcnK-4 | 8064672 | Harvard CS50’s Introduction to Programming with Python – Full University Course | SRC-260329-FE0E
+FAILED | 3Kq1MIfTWCE | 7644023 | Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019) | ERROR: Audio download failed: spawnSync yt-dlp ETIMEDOUT
+INGESTED | pQN-pnXPaVg | 7640229 | HTML Full Course - Build a Website Tutorial | SRC-260329-C64C
+INGESTED | 8DvywoWv6fI | 7628813 | Python for Everybody - Full University Python Course | SRC-260329-482C
+INGESTED | LfaMVlDaQ24 | 7569833 | Harvard CS50 (2023) – Full Computer Science University Course | SRC-260329-5552
+INGESTED | 8jLOx1hD3_o | 7518707 | C++ Programming Course - Beginner to Advanced | SRC-260329-4B79
+INGESTED | 3hLmDS179YE | 7393519 | AWS Certified Cloud Practitioner Training 2020 - Full Course | SRC-260329-8D25
+INGESTED | RBSGKlAvoiM | 7286659 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | SRC-260329-188A
+INGESTED | y2kg3MOk1sY | 6133496 | Computer & Technology Basics Course for Absolute Beginners | SRC-260329-64DD

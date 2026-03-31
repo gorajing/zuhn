@@ -1,0 +1,52 @@
+---
+id: INS-260321-31B3
+domain: startups
+topic: bootstrapping
+title: Daily iteration is mandatory when the industry resets monthly
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - iteration-speed
+  - product-development
+  - ai-industry
+  - shipping-cadence
+sources:
+  - type: youtube
+    title: >-
+      $1.3B AI CEO: "You ONLY Need 2 People and 90 Days to Build a $1M Business"
+      | Higgsfield Founder
+    author: Silicon Valley Girl
+    url: 'https://youtu.be/czItVEAINqw'
+date_extracted: '2026-03-21'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Ship product updates 6 days per week because AI model improvements reset the
+    entire industry every month.
+  standard: >-
+    Higgsfield shipped new product releases 6 days a week throughout 2025. The
+    reason: roughly five leading research labs each push major model updates
+    every quarter, meaning some months see two major capability shifts. Each
+    update requires substantially rebuilding the product around the new models.
+    The perfect interface between simplicity and configuration remains unsolved,
+    which is another reason to embrace daily iteration. Product builders in AI
+    are in a constant race to highlight the best possibilities of new models to
+    customers.
+related:
+  - INS-260325-A08A
+  - PRI-260328-94D4
+  - INS-260330-C0E2
+  - INS-260325-17BF
+  - INS-260322-C33D
+  - INS-260325-C5FD
+stance: >-
+  Ship product updates 6 days per week because AI model improvements reset the
+  entire industry every month.
+---
+Higgsfield shipped new product releases 6 days a week throughout 2025. The reason: roughly five leading research labs each push major model updates every quarter, meaning some months see two major capability shifts. Each update requires substantially rebuilding the product around the new models. The perfect interface between simplicity and configuration remains unsolved, which is another reason to embrace daily iteration. Product builders in AI are in a constant race to highlight the best possibilities of new models to customers.

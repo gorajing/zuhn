@@ -1,0 +1,27 @@
+# Tag: delegation
+
+- `INS-260321-D3BE` Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.
+- `INS-260321-E2FC` Most prompting failures stem from mode mismatch — you intend augmentation (think together) but signal automation (just execute), or vice versa. Explicitly state which mode you want.
+- `INS-260325-9C2F` When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
+- `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
+- `INS-260327-3381` Davout was Napoleon's most valuable marshal because he could win battles independently — at Auerstedt he defeated the main Prussian army with a single corps while Napoleon fought a secondary force at Jena.
+- `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
+- `INS-260323-CB34` Founders who try to be every team member stifle company growth and drain energy from the entire organization.
+- `INS-260330-F800` Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
+- `INS-260323-9E37` Cuban recognized he was terrible at firing people because he wanted to see the best in everyone, so he always partnered with detail-oriented people who could make those hard calls.
+- `INS-260325-E895` Gawande's coach taught him to count to 30 in his head before intervening when surgical trainees struggled with bleeding — breaking his instinct to grab the instruments and do it himself.
+- `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
+- `INS-260330-4A1F` Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
+- `INS-260330-14CA` Delegate fully when consequences are low and your conviction is low; override only when consequences are catastrophic and your conviction is high.
+- `INS-260330-EF51` The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
+- `INS-260330-4CA7` Hero mode — working 18+ hours to avoid hiring — feels like dedication but is actually a growth ceiling that only breaks by accepting temporary regression to build capacity.
+- `INS-260322-2FAD` Novice leaders often derive identity from being busy and indispensable, which prevents team members from growing and caps the team's overall capability.
+- `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
+- `INS-260325-6F89` The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
+- `INS-260330-5B59` Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.
+- `INS-260322-B264` The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
+- `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
+- `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
+- `INS-260329-88A4` Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
+- `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
+- `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.

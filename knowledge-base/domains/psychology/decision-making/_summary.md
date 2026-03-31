@@ -1,0 +1,34 @@
+# Topic: decision-making
+
+> 30 insights
+
+- `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
+- `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
+- `INS-260330-4BFD` [high] When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
+- `INS-260330-6CB7` [high] Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
+- `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
+- `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
+- `INS-260330-B3D5` [high] RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
+- `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
+- `INS-260330-8FC5` [high] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
+- `INS-260330-6689` [high] Each individual integration step in the Greater Bay Area plan has a reasonable economic justification, making organized resistance to the cumulative erosion of autonomy far more difficult than opposing a single dramatic change.
+- `INS-260330-ED37` [high] Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism.
+- `INS-260330-2C57` [high] Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
+- `INS-260330-9931` [high] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
+- `INS-260330-FD28` [high] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
+- `INS-260330-C9A6` [high] Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
+- `INS-260330-B444` [high] Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260330-2B29` [high] Revolutions result from accumulated small decisions, not single dramatic moments.
+- `INS-260330-92BB` [high] Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making.
+- `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
+- `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
+- `INS-260330-3899` [high] People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error.
+- `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
+- `INS-260330-255F` [medium] Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
+- `INS-260330-CED2` [medium] The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
+- `INS-260330-4315` [medium] Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
+- `INS-260330-3B05` [medium] Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
+- `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
+- `INS-260330-74AC` [medium] China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
+- `INS-260330-7987` [medium] In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
+- `INS-260330-F82A` [medium] Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.

@@ -1,0 +1,76 @@
+{
+  "name": "zuhn",
+  "version": "1.0.0",
+  "description": "A personal knowledge operating system that ingests content, extracts insights via Claude, and continuously gets smarter",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "reindex": "tsx scripts/reindex.ts",
+    "health": "tsx scripts/health.ts",
+    "post-ingest": "tsx scripts/post-ingest.ts",
+    "mindmap": "tsx scripts/mindmap.ts",
+    "search": "tsx scripts/search.ts",
+    "embed": "tsx scripts/embed.ts",
+    "learn": "tsx scripts/learn.ts",
+    "ingest": "tsx scripts/ingest.ts",
+    "extract": "tsx scripts/extract.ts",
+    "compress": "tsx scripts/compress.ts",
+    "create-principles": "tsx scripts/create-principles.ts",
+    "sleep": "tsx scripts/sleep.ts",
+    "quality-score": "tsx scripts/quality-score.ts",
+    "ask": "tsx scripts/ask.ts",
+    "autoknowledge": "tsx scripts/autoknowledge.ts",
+    "wake": "tsx scripts/wake.ts",
+    "archive": "tsx scripts/archive.ts",
+    "resurrect": "tsx scripts/resurrect.ts",
+    "views": "tsx scripts/views.ts",
+    "resurface": "tsx scripts/resurface.ts",
+    "batch-ingest": "tsx scripts/batch-ingest.ts",
+    "ingest-channel": "tsx scripts/ingest-channel.ts",
+    "mcp": "tsx scripts/mcp-server.ts",
+    "bench": "tsx benchmarks/bench.ts",
+    "bench:check": "tsx benchmarks/check.ts",
+    "create-tensions": "tsx scripts/create-tensions.ts",
+    "backfill-stances": "tsx scripts/backfill-stances.ts",
+    "daemon:start": "tsx scripts/daemon.ts",
+    "daemon:status": "tsx scripts/daemon.ts --status",
+    "daemon:stop": "kill $(cat /tmp/zuhn-daemon.pid 2>/dev/null) 2>/dev/null || echo 'Daemon not running'",
+    "daemon:logs": "tail -f knowledge-base/meta/daemon.log",
+    "red-team": "tsx scripts/red-team.ts",
+    "scout": "tsx scripts/scout-predictions.ts && tsx scripts/scout-gaps.ts"
+  },
+  "keywords": ["knowledge-management", "second-brain", "personal-knowledge", "claude", "mcp", "sqlite"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorajin/zuhn.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "author": "Jin Choi",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "@mozilla/readability": "^0.6.0",
+    "better-sqlite3": "^12.8.0",
+    "fast-glob": "^3.3.3",
+    "graphology": "^0.26.0",
+    "graphology-communities-louvain": "^2.0.2",
+    "gray-matter": "^4.0.3",
+    "jsdom": "^29.0.1",
+    "sqlite-vec": "^0.1.7",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/jsdom": "^28.0.1",
+    "@types/node": "^25.5.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.0"
+  }
+}

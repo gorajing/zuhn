@@ -1,0 +1,249 @@
+import Database from "better-sqlite3";
+import { createHash } from "node:crypto";
+import { join } from "node:path";
+import { mkdirSync } from "node:fs";
+import type { InsightData } from "../schemas/frontmatter";
+
+// ─── Paths ──────────────────────────────────────────────────────────
+
+const KB_ROOT = join(__dirname, "../../knowledge-base");
+const DB_DIR = join(KB_ROOT, "db");
+const DB_PATH = join(DB_DIR, "brain.db");
+
+// ─── Types ──────────────────────────────────────────────────────────
+
+export interface InsightRow {
+  id: string;
+  domain: string;
+  topic: string;
+  subtopic: string | null;
+  title: string;
+  one_line: string;
+  confidence: string;
+  status: string;
+  shelf_life: string;
+  actionability: string;
+  tags: string;
+  file_path: string;
+  content_hash: string;
+  embedding_model: string | null;
+  date_extracted: string | null;
+  last_accessed: string | null;
+  access_count: number;
+  stance: string | null;
+}
+
+// ─── initDb ─────────────────────────────────────────────────────────
+
+/**
+ * Opens (or creates) the SQLite database and ensures all tables,
+ * virtual tables, and triggers exist.
+ *
+ * Pass a custom `dbPath` for testing (e.g. ":memory:").
+ */
+export function initDb(dbPath?: string): Database.Database {
+  const resolvedPath = dbPath ?? DB_PATH;
+
+  // Ensure the directory exists for on-disk databases
+  if (resolvedPath !== ":memory:") {
+    mkdirSync(join(resolvedPath, ".."), { recursive: true });
+  }
+
+  const db = new Database(resolvedPath);
+
+  // Enable WAL mode for better concurrent read performance
+  db.pragma("journal_mode = WAL");
+
+  db.exec(`
+    CREATE TABLE IF NOT EXISTS insights (
+      id TEXT PRIMARY KEY,
+      domain TEXT NOT NULL,
+      topic TEXT NOT NULL,
+      subtopic TEXT,
+      title TEXT NOT NULL,
+      one_line TEXT NOT NULL,
+      confidence TEXT DEFAULT 'pending',
+      status TEXT DEFAULT 'active',
+      shelf_life TEXT DEFAULT 'evergreen',
+      actionability TEXT DEFAULT 'reference',
+      -- NOTE: tags not in original spec schema but needed for FTS5 sync triggers
+      tags TEXT NOT NULL,
+      file_path TEXT NOT NULL,
+      content_hash TEXT NOT NULL,
+      embedding_model TEXT,
+      date_extracted TEXT,
+      last_accessed TEXT,
+      access_count INTEGER DEFAULT 0
+    );
+
+    CREATE VIRTUAL TABLE IF NOT EXISTS insights_fts USING fts5(
+      id,
+      title,
+      one_line,
+      tags,
+      content='insights',
+      content_rowid='rowid',
+      tokenize='porter unicode61'
+    );
+
+    -- Triggers to keep FTS in sync with the insights table
+    CREATE TRIGGER IF NOT EXISTS insights_ai AFTER INSERT ON insights BEGIN
+      INSERT INTO insights_fts(rowid, id, title, one_line, tags)
+        VALUES (new.rowid, new.id, new.title, new.one_line, new.tags);
+    END;
+
+    CREATE TRIGGER IF NOT EXISTS insights_ad AFTER DELETE ON insights BEGIN
+      INSERT INTO insights_fts(insights_fts, rowid, id, title, one_line, tags)
+        VALUES('delete', old.rowid, old.id, old.title, old.one_line, old.tags);
+    END;
+
+    CREATE TRIGGER IF NOT EXISTS insights_au AFTER UPDATE ON insights BEGIN
+      INSERT INTO insights_fts(insights_fts, rowid, id, title, one_line, tags)
+        VALUES('delete', old.rowid, old.id, old.title, old.one_line, old.tags);
+      INSERT INTO insights_fts(rowid, id, title, one_line, tags)
+        VALUES (new.rowid, new.id, new.title, new.one_line, new.tags);
+    END;
+  `);
+
+  // ── Schema migration: add embedding_model if missing ──
+  const cols = db.pragma("table_info(insights)") as { name: string }[];
+  const colNames = new Set(cols.map((c) => c.name));
+  if (!colNames.has("embedding_model")) {
+    db.exec("ALTER TABLE insights ADD COLUMN embedding_model TEXT");
+  }
+  if (!colNames.has("stance")) {
+    db.exec("ALTER TABLE insights ADD COLUMN stance TEXT");
+  }
+
+  db.exec(`
+    CREATE TABLE IF NOT EXISTS tension_judgments (
+      pair_key TEXT PRIMARY KEY,
+      is_tension INTEGER NOT NULL,
+      severity TEXT,
+      reason TEXT,
+      stance_hash TEXT,
+      judged_at TEXT NOT NULL
+    );
+  `);
+
+  // ── Phase 19: Inbox Queue (state machine for autonomous processing) ──
+  db.exec(`
+    CREATE TABLE IF NOT EXISTS inbox_queue (
+      id TEXT PRIMARY KEY,
+      url TEXT,
+      type TEXT,
+      source_channel TEXT NOT NULL DEFAULT 'folder',
+      processing_mode TEXT NOT NULL DEFAULT 'auto',
+      priority_score INTEGER DEFAULT 0,
+      status TEXT NOT NULL DEFAULT 'pending',
+      file_path TEXT,
+      source_id TEXT,
+      attempts INTEGER DEFAULT 0,
+      last_error TEXT,
+      word_count INTEGER,
+      insights_extracted INTEGER DEFAULT 0,
+      agent_a_file TEXT,
+      agent_b_file TEXT,
+      merged_file TEXT,
+      deep_read_findings TEXT,
+      queued_at TEXT NOT NULL DEFAULT (datetime('now')),
+      updated_at TEXT NOT NULL DEFAULT (datetime('now'))
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_inbox_status ON inbox_queue(status);
+    CREATE INDEX IF NOT EXISTS idx_inbox_priority ON inbox_queue(priority_score DESC);
+  `);
+
+  return db;
+}
+
+// ─── upsertInsight ──────────────────────────────────────────────────
+
+/**
+ * Insert or replace an insight into the database.
+ * Tags are stored as a space-separated string.
+ * content_hash is SHA-256 of the one_line text.
+ */
+export function upsertInsight(
+  db: Database.Database,
+  insight: InsightData,
+  filePath: string
+): void {
+  const oneLine = insight.resolutions.one_line;
+  const contentHash = createHash("sha256").update(oneLine).digest("hex");
+  const tags = insight.tags.join(" ");
+
+  const stmt = db.prepare(`
+    INSERT INTO insights (
+      id, domain, topic, subtopic, title, one_line,
+      confidence, status, shelf_life, actionability,
+      tags, file_path, content_hash,
+      date_extracted, last_accessed, access_count, stance
+    ) VALUES (
+      @id, @domain, @topic, @subtopic, @title, @one_line,
+      @confidence, @status, @shelf_life, @actionability,
+      @tags, @file_path, @content_hash,
+      @date_extracted, @last_accessed, @access_count, @stance
+    )
+    ON CONFLICT(id) DO UPDATE SET
+      domain = excluded.domain,
+      topic = excluded.topic,
+      subtopic = excluded.subtopic,
+      title = excluded.title,
+      one_line = excluded.one_line,
+      confidence = excluded.confidence,
+      status = excluded.status,
+      shelf_life = excluded.shelf_life,
+      actionability = excluded.actionability,
+      tags = excluded.tags,
+      file_path = excluded.file_path,
+      content_hash = excluded.content_hash,
+      date_extracted = excluded.date_extracted,
+      last_accessed = excluded.last_accessed,
+      access_count = excluded.access_count,
+      stance = excluded.stance
+  `);
+
+  stmt.run({
+    id: insight.id,
+    domain: insight.domain,
+    topic: insight.topic,
+    subtopic: insight.subtopic ?? null,
+    title: insight.title,
+    one_line: oneLine,
+    confidence: insight.confidence,
+    status: insight.status,
+    shelf_life: insight.shelf_life,
+    actionability: insight.actionability,
+    tags,
+    file_path: filePath,
+    content_hash: contentHash,
+    date_extracted: insight.date_extracted,
+    last_accessed: insight.last_accessed ?? null,
+    access_count: insight.access_count,
+    stance: insight.stance ?? null,
+  });
+}
+
+// ─── getInsightById ─────────────────────────────────────────────────
+
+/**
+ * Fetch a single insight by ID.
+ */
+export function getInsightById(
+  db: Database.Database,
+  id: string
+): InsightRow | undefined {
+  const stmt = db.prepare("SELECT * FROM insights WHERE id = ?");
+  return stmt.get(id) as InsightRow | undefined;
+}
+
+// ─── getAllInsights ──────────────────────────────────────────────────
+
+/**
+ * Fetch all insights from the database.
+ */
+export function getAllInsights(db: Database.Database): InsightRow[] {
+  const stmt = db.prepare("SELECT * FROM insights");
+  return stmt.all() as InsightRow[];
+}

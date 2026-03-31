@@ -1,0 +1,44 @@
+# Topic: cognition
+
+> 40 insights
+
+- `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
+- `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
+- `INS-260330-8FF8` [high] The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
+- `INS-260330-D582` [high] Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
+- `INS-260330-EACA` [high] RuBisCo evolved when oxygen was rare; when plants produced oxygen, the enzyme started confusing O2 for CO2 half the time, creating toxic byproducts.
+- `INS-260330-F889` [high] Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
+- `INS-260330-4224` [high] Humans evolved uniquely white scleras not by accident but as a cooperation mechanism — making it easy for others to detect where we're looking, unlike predators who benefit from concealed gaze.
+- `INS-260330-CAD2` [high] Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
+- `INS-260330-6418` [high] The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
+- `INS-260330-F8B6` [high] The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
+- `INS-260330-1801` [high] Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
+- `INS-260330-0C1D` [high] Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
+- `INS-260330-0C49` [high] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
+- `INS-260330-4114` [high] A phone ringing in Destin's pocket instantly crashed his backwards-bike riding because the new neural pathway required active attention the old one didn't.
+- `INS-260330-EA8B` [high] Profanity is processed by the limbic system rather than the left hemisphere language areas, which is why Tourette's patients and people with left-hemisphere damage can still swear.
+- `INS-260330-7994` [high] Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
+- `INS-260330-17C3` [high] Romantic love elevates dopamine (the same reward pathway as cocaine addiction) and alters serotonin in patterns matching OCD, producing obsessive rumination and addictive attachment.
+- `INS-260330-BE0A` [high] Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
+- `INS-260330-CFEA` [high] Before defending any position, write the four strongest opposing arguments and imagine a world where you're wrong — this creates the cognitive wiggle room for humility and empathy.
+- `INS-260330-0982` [high] Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
+- `INS-260330-FA9D` [high] When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
+- `INS-260330-2838` [high] Islam's hadith tradition explicitly grades source reliability — some sayings are well-attested, others are essentially gossip — and the '72 virgins' claim falls in the poorly-sourced category that most Muslims reject.
+- `INS-260330-3491` [high] Structuralism's reliance on patients reporting their inner experiences made it too subjective to produce replicable scientific findings.
+- `INS-260330-0C10` [high] Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
+- `INS-260330-B87C` [high] The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
+- `INS-260330-8045` [high] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
+- `INS-260330-7C58` [high] The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
+- `INS-260330-8134` [medium] After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
+- `INS-260330-0E86` [medium] Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
+- `INS-260330-4F49` [medium] Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
+- `INS-260330-5F6C` [medium] The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
+- `INS-260330-0764` [medium] Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.
+- `INS-260330-EE16` [medium] Johns Hopkins research shows that the intensity of mystical-type experiences, not just drug dose, predicts whether patients achieve lasting therapeutic benefits from psilocybin.
+- `INS-260330-3C2F` [medium] Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
+- `INS-260330-2EF0` [medium] Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
+- `INS-260330-B539` [medium] Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
+- `INS-260330-2304` [medium] Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
+- `INS-260330-87A0` [medium] World-class debaters spend their final prep minutes writing the best case against themselves, not reinforcing their own position.
+- `INS-260330-F671` [medium] The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
+- `INS-260330-6E6A` [medium] A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.

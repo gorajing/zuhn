@@ -1,0 +1,70 @@
+# Tag: strategy
+
+- `INS-260323-197A` The winning AI skill isn't prompting — it's architectural thinking: define the outcome, get AI to interview you about constraints, then have AI write its own implementation plan.
+- `INS-260320-B99F` Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
+- `INS-260320-901C` Six strategies combined took production systems from $300+/month to ~$10/month while processing 10x more data.
+- `INS-260323-365A` Meta open-sources AI models like LLaMA because ecosystem innovation makes their own infrastructure more efficient while attracting top researchers.
+- `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
+- `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
+- `INS-260326-79DF` Germany's unrestricted submarine warfare sank 886,000 tons in April 1917 alone -- a tactical triumph that brought America into the war and guaranteed Germany's defeat.
+- `INS-260323-DE39` Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
+- `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
+- `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
+- `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
+- `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
+- `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
+- `INS-260330-413D` Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.
+- `INS-260330-E4B6` Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
+- `INS-260330-9197` Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
+- `INS-260330-F0F2` Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
+- `INS-260329-D37E` The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
+- `INS-260330-D4CC` RuBisCo fails 50% of the time in today's atmosphere but remains life's only carbon-fixation enzyme because plants invested too heavily to switch.
+- `INS-260330-1650` RuBisCo evolved for a high-CO2 world and now fails half the time with O2, but plants can't switch — they just cope with the toxic byproducts.
+- `INS-260330-F22A` Tencent shifted from copying and crushing competitors to investing in them and leveraging its platform to help them grow, converting potential enemies into equity-generating partners.
+- `INS-260330-C7DB` Rosalind Franklin's unpublished X-ray crystallography data was shown to Watson and Crick without her knowledge, enabling their model — a cautionary tale about sharing proprietary data without structural protection.
+- `INS-260322-98D2` Robinhood succeeded by combining three bets that were each individually contrarian (zero commissions, mobile-first, populist brand) into a single offering no incumbent could replicate quickly.
+- `INS-260330-7BAE` Netflix beat Blockbuster by retreating to improve its core service rather than launching new features to differentiate.
+- `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
+- `INS-260329-277B` Being copied is a positive signal; the copier's attention on you means their attention isn't on their customers.
+- `INS-260329-4605` Running a pre-mortem (listing all ways to fail) and building specific guardrails is higher-leverage than brainstorming growth strategies.
+- `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260323-71B3` GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
+- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
+- `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
+- `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
+- `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary.
+- `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
+- `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
+- `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
+- `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
+- `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
+- `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
+- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
+- `INS-260329-89E9` Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
+- `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
+- `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
+- `INS-260323-BD2B` JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
+- `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
+- `INS-260322-229C` Most of the world's most successful companies made their real money not from their core product but from a first derivative of it — Union Pacific from land sales, Google from ads on search, Shopify from payments on commerce.
+- `INS-260329-4D24` Enumerating all failure modes is tractable and reveals risks that forward-looking analysis misses.
+- `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
+- `INS-260330-53A9` RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
+- `INS-260330-54ED` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
+- `INS-260323-BEE6` GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
+- `INS-260330-FAB8` The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
+- `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
+- `INS-260330-22C0` RuBisCo is terrible at its job but plants went all-in on it and now produce 40 billion tons rather than evolve a replacement — illustrating how early dominance creates irreversible lock-in.
+- `INS-260330-50B3` RuBisCo was designed for a low-oxygen world, became half-broken when plants changed the atmosphere, but plants doubled down rather than evolving a replacement — a universal pattern in organizations and codebases.
+- `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.
+- `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
+- `INS-260330-026F` Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
+- `INS-260329-C26B` The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
+- `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
+- `INS-260323-D934` What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
+- `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
+- `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
+- `INS-260330-0B8D` RuBisCo is a bad enzyme that became irreplaceable because plants scaled around it before its environment changed.
+- `INS-260330-CBF8` Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
+- `INS-260330-B5DF` The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
+- `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
+- `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.

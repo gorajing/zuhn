@@ -1,0 +1,57 @@
+---
+id: INS-260323-BC20
+domain: startups
+topic: leadership
+title: 'Great leadership reveals itself in quiet Tuesday mornings, not crisis weekends'
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - leadership
+  - consistency
+  - decision-quality
+  - sam-altman
+sources:
+  - type: youtube
+    title: >-
+      Sam Altman: OpenAI, GPT-5, Sora, Board Saga, Elon Musk, Ilya, Power & AGI
+      | Lex Fridman Podcast #419
+    author: Lex Fridman
+    url: 'https://www.youtube.com/watch?v=jvqFAi7vkBc'
+date_extracted: '2026-03-23'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    The true measure of a leader is the quality of decisions they make on
+    ordinary days, not how they perform in dramatic crises.
+  standard: >-
+    Altman emphasizes that while crisis moments get attention, what he truly
+    values in leaders like Mira Murati is how they show up at 9:46am on a boring
+    Tuesday — the quality of routine decisions, presence in meetings, day-to-day
+    judgment. The dramatic board saga weekend was not what defines OpenAI; the
+    other seven years of consistent work are.
+
+
+    This is a powerful filter for evaluating leaders and team members: look at
+    their default mode, not their crisis mode. Consistent high-quality
+    decision-making in mundane moments compounds far more than heroics during
+    emergencies.
+related:
+  - INS-260330-D432
+  - PRI-260328-BEAB
+  - PRI-260323-9EAD
+  - INS-260323-244C
+  - INS-260322-2FAD
+  - INS-260330-51B1
+stance: >-
+  The true measure of a leader is the quality of decisions they make on ordinary
+  days, not how they perform in dramatic crises.
+---
+Altman emphasizes that while crisis moments get attention, what he truly values in leaders like Mira Murati is how they show up at 9:46am on a boring Tuesday — the quality of routine decisions, presence in meetings, day-to-day judgment. The dramatic board saga weekend was not what defines OpenAI; the other seven years of consistent work are.
+
+This is a powerful filter for evaluating leaders and team members: look at their default mode, not their crisis mode. Consistent high-quality decision-making in mundane moments compounds far more than heroics during emergencies.

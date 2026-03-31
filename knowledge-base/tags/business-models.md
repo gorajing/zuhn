@@ -1,0 +1,53 @@
+# Tag: business-models
+
+- `INS-260330-AB67` Agents paying for ephemeral API access per-task will create a new category of businesses built entirely for agent consumption.
+- `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
+- `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
+- `INS-260327-68C1` 2025 had the highest corporate bankruptcies ever outside a recession, including companies going bankrupt for the second time within months, suggesting structural unsustainability not cyclical distress.
+- `INS-260325-FADB` Open Router observes companies on their platform doing tens of millions in revenue with just five people, made possible by models powering what previously required large teams.
+- `INS-260327-1576` BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
+- `INS-260327-8F03` Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enth
+- `INS-260327-78A0` When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded 
+- `INS-260327-31A7` Ultra-cheap Chinese e-commerce platforms exploit the de minimis trade exemption that allows small-value packages to ente
+- `INS-260327-130C` In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end
+- `INS-260327-EF89` Franchise brands face an inherent quality control problem because brand perception depends on the operational quality of
+- `INS-260327-5580` Micro-mobility businesses discovered that the distances too short to walk are also too short to generate fares that cove
+- `INS-260327-5D01` Legal cannabis businesses face the paradox of competing with the illegal market on price while bearing the compliance co
+- `INS-260327-0E28` Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
+- `INS-260327-4C5E` External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
+- `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
+- `INS-260327-C294` Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
+- `INS-260327-E52A` Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
+- `INS-260327-46F6` When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychological
+- `INS-260327-DF8C` Resource businesses that maximize short-term extraction rates deplete reserves faster, while those that manage sustainab
+- `INS-260327-38F0` Fast-food chains whose brand promise is consistency (every KFC tastes the same) lose to competitors whose promise is fre
+- `INS-260327-D794` Restaurant formats designed to minimize operator skill requirements (assembly-line processes, standardized techniques) a
+- `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
+- `INS-260327-C6A9` Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards ear
+- `INS-260327-38BC` Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
+- `INS-260327-6A4B` Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone 
+- `INS-260329-59FF` All zero-capital wealth strategies are variations of value arbitrage — delivering more value than you capture.
+- `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
+- `INS-260325-73C0` Bret Taylor: AI breaks per-seat SaaS — the new model charges for outcomes (tasks completed, problems solved), not users provisioned.
+- `INS-260327-4431` When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
+- `INS-260327-1B4A` Physical venues that were supposedly killed by digital alternatives survive by pivoting to the social experience dimensi
+- `INS-260327-4877` Companies whose revenue depends on customer inability to cancel rather than customer desire to continue face disruption 
+- `INS-260327-9508` Companies that service the downstream effects of consumer behavior (storage, waste management, debt collection) have mor
+- `INS-260327-50CE` When a business sells membership in an exclusive social group rather than a product or service, pricing is determined by
+- `INS-260327-4BC6` Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs i
+- `INS-260327-19E5` When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tole
+- `INS-260327-325B` Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
+- `INS-260330-6050` Build where incumbents face structural inability to compete, not just unwillingness.
+- `INS-260327-724D` Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv
+- `INS-260327-F651` Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
+- `INS-260327-9018` Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
+- `INS-260327-5973` Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
+- `INS-260322-F6AA` Industries whose profitability depends on making processes boring, difficult, and time-consuming are most vulnerable to LLM disruption — and many don't realize this is their actual business model.
+- `INS-260327-E153` Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
+- `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
+- `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
+- `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
+- `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.
+- `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
+- `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
+- `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.

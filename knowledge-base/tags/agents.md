@@ -1,0 +1,29 @@
+# Tag: agents
+
+- `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
+- `INS-260325-BC2A` Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards.
+- `INS-260321-2482` When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
+- `INS-260321-D3BE` Stop thinking in lines of code — think in macro actions: 'agent 1 builds feature X, agent 2 researches Y, agent 3 plans Z' — then review their work.
+- `INS-260321-8382` Agent personality matters more than most tool builders realize — Claude feels like a teammate who cares about your project; Codex feels dry and transactional.
+- `INS-260321-8414` The biggest barrier to enterprise AI agent adoption isn't model capability but trust UX — too many status updates and users say 'stop telling me crap,' too few and they say 'what is it doing?' — requiring progressive disclosure design patterns that don't yet exist.
+- `INS-260321-B85C` Reframing businesses as collections of input-constrained processes (customer service, legal) and output-constrained processes (creative, engineering) reveals fundamentally different AI automation strategies for each.
+- `INS-260320-1B10` Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
+- `INS-260321-9EBB` Agents will follow the same path as 'internet companies' in the 1990s — initially a distinct category, then a universal capability baked into every product, invisible to users.
+- `INS-260320-9D89` Give agents very specific roles and clear instructions on what to RETURN — prevents 'I fixed it!' without details.
+- `INS-260321-18D0` Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
+- `INS-260325-7FAF` The agentic inflection point comes from model capability AND inference ease-of-use converging simultaneously.
+- `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
+- `INS-260325-252D` Context rot in agents stems from poor context management design, not just model limits.
+- `INS-260323-05B5` AI agents will use existing software tools rather than replace them, just as a humanoid robot would use a microwave rather than beam microwaves from its fingers — Jensen predicted the OpenClaw architecture two years before it existed.
+- `INS-260325-E62D` Agentic inference shifts compute from decode-heavy to prefill-heavy with larger shared cache needs.
+- `INS-260323-4B4D` Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
+- `INS-260323-48AF` OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI, yet it created a phase shift in AI integration — like iPhone scrolling, the magic was in combining existing components (messaging + CLI + agency) in a way that felt natural and conversational.
+- `INS-260323-4D8D` Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
+- `INS-260323-8AEC` Reinforcement learning with verifiable rewards plus inference-time compute scaling is what enabled models to use tools, write code agentically, and perform multi-step reasoning.
+- `INS-260321-C5AA` Custom apps are overproduction — everything should be exposed API endpoints with agents as the intelligent glue that tool-calls all the parts.
+- `INS-260322-D0F6` For the first time, a genuine threat exists to systems of record — not through better UI (which failed in SaaS 2.0) but because AI agents collapse the distance between user intent and execution.
+- `INS-260325-DB7D` Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
+- `INS-260322-D8C3` OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts.
+- `INS-260323-2E51` Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely uses an IDE, and explicitly doesn't read 'boring' code (data transformation, UI alignment) — focusing review only on critical paths like database interactions.
+- `INS-260320-63D3` Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.
+- `INS-260321-4E98` Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.

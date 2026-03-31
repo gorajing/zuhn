@@ -1,0 +1,4 @@
+# Tag: information-control
+
+- `INS-260328-5431` AI's threat to autonomy isn't future — algorithms already control what most people see and believe, and frontier AI makes the control total.
+- `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.

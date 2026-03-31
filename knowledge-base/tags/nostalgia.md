@@ -1,0 +1,5 @@
+# Tag: nostalgia
+
+- `INS-260327-E039` Disney's genius is not its content quality but its systematic embedding into childhood emotional experiences, creating adults who spend irrationally on Disney products out of nostalgia.
+- `INS-260324-6345` The Pokemon card market is part hobby, part investment, part cultural revival — driven by nostalgia-fueled millennials who brought professional career mindsets into the hobby.
+- `INS-260324-358F` Diners have survived unchanged since the 1940s because their customers don't want artisan bread and organic eggs — they want processed cheese, fake butter, and frozen hash browns served consistently at any hour.

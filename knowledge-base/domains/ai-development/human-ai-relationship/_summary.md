@@ -1,0 +1,51 @@
+# Topic: human-ai-relationship
+
+> 47 insights
+
+- `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
+- `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
+- `INS-260325-4793` [very_high] Meta-analysis of 106 experiments shows human-AI systems average g = -0.23 vs best-of-either, meaning most teams are worse than using the best partner alone.
+- `INS-260329-560D` [high] AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
+- `INS-260323-64A4` [high] Some people use AI to avoid thinking; others use it to think more deeply than ever before — the tool amplifies whatever intent you bring to it.
+- `INS-260322-D2E9` [high] Neither white-collar nor blue-collar jobs are safe from AI — the only lasting career security comes from being the kind of person others actively want to collaborate with.
+- `INS-260326-E7BE` [high] Humans cannot process raw probabilistic truth — AI interfaces that present unfiltered reality will be rejected, not because users are stupid but because perception is architecturally a survival renderer.
+- `INS-260322-B693` [high] Using AI to optimize exam performance produces 'human versions of AI' — the real educational opportunity is cultivating intrinsic motivation and original thinking.
+- `INS-260323-A55A` [high] AI outputs are 'episodes' (trendy, replaceable, no pain) while human creative work builds 'narratives' (time-intensive, suffering-accumulated) — and only narratives carry the 'aura' of authenticity that Benjamin defined as presence born from spatial, temporal, and symbolic distance.
+- `INS-260322-13D6` [high] AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
+- `INS-260322-5A0F` [high] Students using AI to complete writing homework are skipping cognitive exercise, producing adults who cannot think logically or resist manipulation.
+- `INS-260322-2B2D` [high] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
+- `INS-260328-5431` [high] AI's threat to autonomy isn't future — algorithms already control what most people see and believe, and frontier AI makes the control total.
+- `INS-260325-FA86` [high] Despite massive research investment in explainable AI, the meta-analysis found no significant moderating effect of explanations or confidence on human-AI synergy or augmentation.
+- `INS-260325-EE14` [high] Wharton research shows people abandon AI tools after seeing a single error, but letting users tweak parameters restores adoption even at higher error rates.
+- `INS-260323-2AE2` [high] As AI automates strategy, naming, copy, design, video, and prototyping, the irreplaceable human role shifts from creating outputs to orchestrating meaning — designing values, selecting which work implants meaningful memories, and defining the scope of care for the community served.
+- `INS-260322-116B` [high] When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
+- `INS-260323-0961` [high] Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
+- `INS-260323-9D6E` [high] Users stick with an LLM until it fails badly on a task they care about, then switch -- loyalty is driven by peak moments and broken by threshold failures.
+- `INS-260329-7BAF` [high] Humans effortlessly resolve ambiguity that crashes machines — this asymmetry is why programming exists as a discipline.
+- `INS-260323-7424` [high] The obsession with parameter counts mirrors the 1990s gigahertz race — what matters is end-user utility, not raw numbers.
+- `INS-260329-F635` [high] Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
+- `INS-260329-EDA2` [high] It is fundamentally easier to teach humans programming languages than to build machines that understand natural language.
+- `INS-260329-500E` [high] AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
+- `INS-260322-30A0` [high] In the AGI era, the critical skill shifts from executing tasks to evaluating outputs — from doing the homework to grading it.
+- `INS-260322-CC69` [high] In the AI era, the core educational skill shifts from producing correct answers to evaluating whether answers are correct.
+- `INS-260322-F6B5` [high] A designer quit her job not because AI replaced her work, but because her boss's AI-generated feedback overwhelmed her judgment to the point where she feared losing her own creative identity.
+- `INS-260322-83D4` [high] The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
+- `INS-260322-DAA1` [high] Using AI to do learning-stage work (writing, reasoning) destroys the cognitive development the work was designed to build, creating a generation that cannot think independently.
+- `INS-260329-0CDD` [medium] AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
+- `INS-260323-03F4` [medium] Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
+- `INS-260326-E5D3` [medium] AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
+- `INS-260323-5609` [medium] Glasses positioned on the face can see what you see and hear what you hear, making them the natural endpoint for personalized AI that needs continuous context.
+- `INS-260325-0E70` [medium] Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
+- `INS-260323-9385` [medium] If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
+- `INS-260329-808C` [medium] Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
+- `INS-260325-ADF3` [medium] Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
+- `INS-260330-4AD5` [medium] AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
+- `INS-260327-8936` [medium] Every human has independently relearned all of civilization through their unique combination of genes and experiences, making each person an irreplaceable perspective.
+- `INS-260325-19E9` [medium] Only 3 of 106 experiments tested intentional subtask delegation between humans and AI; those 3 showed positive synergy (g = 0.22) versus the overall negative average.
+- `INS-260329-C555` [medium] 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
+- `INS-260325-890D` [medium] LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
+- `INS-260323-87F3` [medium] Using AI to rewrite emotional messages or generate personal speeches eliminates the meaningful human struggle from communication.
+- `INS-260329-206D` [medium] Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
+- `INS-260329-0A55` [medium] Programming languages are middlemen between human intent and machine execution, just as prompts are middlemen between human intent and LLM behavior.
+- `INS-260323-DE7F` [medium] We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
+- `INS-260323-C984` [medium] The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading, writing, design, and judgment to AI without building underlying skills — erodes the very human capacity that creates irreplaceable value in an automated world.

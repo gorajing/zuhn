@@ -1,0 +1,119 @@
+# My Knowledge Map
+
+## ai-development
+
+### agent-patterns
+- Have Claude review its own code via a specialized review agent — catches critical errors, missing implementations, and security flaws.
+- Give agents very specific roles and clear instructions on what to RETURN — prevents 'I fixed it!' without details.
+
+### claude-code
+- Planning is king — always use planning mode before implementation; never let the builder start without plans.
+- Attach ready-to-use utility scripts to skills so Claude references proven tools instead of reinventing test scripts from scratch.
+- Bash commands (grep, find) bypass Read() deny rules — they scan everything including node_modules even with deny rules configured.
+- Be as specific as possible about desired results — vague prompts produce vague implementations.
+- A Stop hook reads the file edit logs, runs builds on affected repos, and catches TypeScript errors — showing small errors to Claude or recommending an auto-resolver agent for larger ones.
+- Use a central skill-rules.json config mapping each skill to keywords, regex intent patterns, file path triggers, and content triggers.
+- 85,000 out of 100,000 context tokens were consumed by dependency code — one bash validation hook saved 85% of the context window.
+- Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
+- Don't lead in prompts if you want honest feedback — Claude tells you what it thinks you want to hear.
+- A Stop hook detects risky patterns (try-catch, async, DB calls) in edited files and shows gentle non-blocking self-check reminders.
+- A PostToolUse hook tracks which files were edited, which repo they belong to, and timestamps — feeding downstream hooks like the build checker.
+- The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
+- Claude won't reliably use skills on its own — build a hook system to inject skill reminders automatically.
+- Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
+- Start with planning mode to create the plan, review it, then run /dev-docs to generate the three dev doc files.
+- A 5-line pre-execution bash hook checks commands against BLOCKED patterns (node_modules, .env, __pycache__, .git/, dist/, build/) and blocks 99% of token waste.
+- Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
+- Take time to review the plan thoroughly — you'd be surprised how often you catch silly mistakes before implementation.
+- If output quality seems worse, self-reflect on how you're prompting before blaming the model.
+- Keep SKILL.md files under 500 lines and use progressive disclosure via resource files for 40-60% token efficiency improvement.
+- Skills handle 'how to write code' guidelines while CLAUDE.md handles 'how this specific project works' — keep them separate.
+- Slash commands expand into full prompts — pack complex, multi-step instructions into simple reusable commands.
+- If Claude struggles more than 30 minutes on something you could fix in 2 minutes, just step in and do it yourself.
+- A Stop event hook analyzes edited files after Claude responds and shows gentle self-check reminders for error handling.
+- Create three dev doc files (plan.md, context.md, tasks.md) for every large task to prevent Claude from losing the plot through compaction.
+- Update dev docs regularly by running /update-dev-docs before context compaction to preserve current state.
+- A UserPromptSubmit hook analyzes the prompt for keywords and intent, then injects skill reminders into context BEFORE Claude reads it.
+
+### context-management
+- Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
+- Curated structured data enables REASONING about connections. Vector memory stores text blobs for retrieval. For business-ready context, structure wins.
+
+### llm-costs
+- OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever.
+- Batch inputs to amortize system prompt costs — 100 separate calls with a 500-token system prompt = 50,000 wasted tokens. 1 batched call = 500 tokens.
+- Six strategies combined took production systems from $300+/month to ~$10/month while processing 10x more data.
+- Filter aggressively before hitting expensive models — filtering by upvotes/comments removes 80% of inputs, saving ~$5/week.
+- Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.
+- Don't default to expensive models — test cheaper ones with YOUR data. DeepSeek V3 vs Claude Sonnet = 21x cost reduction for identical summaries.
+- Use cheap models (gpt-5-nano) for categorization/relevance scoring before expensive models — removes 70-90% of irrelevant inputs.
+- Use OpenRouter for a unified dashboard, model switching, spending tracking, and hard budget limits across all LLM providers.
+
+### llm-training
+- Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
+- Main pretraining consumes 63% of total compute; plan for 37% additional budget for ablation studies, debugging, and restarts due to infrastructure failures.
+- HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
+- The Smol Training Playbook is a 200+ page open guide covering the full LLM pipeline from strategic planning through post-training, based on training SmolLM3 (3B params, 11T tokens).
+- Only pretrain your own LLM for three reasons: advancing research with novel questions, meeting specific production requirements, or filling gaps in the open-source ecosystem.
+
+### spec-driven-dev
+- Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
+- Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.
+- Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
+- SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
+- New engineers hit the ground running with clear specs defining both what to build and what has already been done.
+- Research logs and findings surface 'already solved' patterns, preventing teams and agents from reinventing solutions.
+
+### system-building
+- 91 unit tests all passed, but an automated spec audit found 12 issues — unit tests verify code works, spec audits verify code matches intent.
+- MASTER_INDEX to domain overview to topic summary to individual insight — answering "what do I know about X?" requires reading roughly 4 files regardless of total insight count.
+- Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
+- We spent hours designing a detailed spec before writing any code — the spec caught issues before they became bugs and zero scope creep occurred across 5 phases.
+- Sequential IDs stored in a file would be hallucinated by the LLM — timestamp plus title hash made file creation completely stateless with zero collisions across 74 insights.
+- Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.
+
+### tooling
+- Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
+- PM2 gives you auto-restart on crashes, per-service logs, memory/CPU monitoring, and easy management like `pm2 restart email`.
+- Run all backend microservices via PM2 so Claude can read individual service logs in real-time without manual copy-pasting.
+- Use SuperWhisper for voice-to-text prompting when your hands are tired from typing all day.
+
+## automation
+
+### content-creation
+- An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
+- A daily n8n content research automation that scrapes multiple platforms, identifies trends, and delivers a content digest costs under $0.35 per day to operate.
+- The 0-to-175K growth came from automating content research and ideation, not from automating content creation itself -- the competitive advantage is knowing what to create, not how to create it.
+
+### n8n-workflows
+- Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
+- Process items sequentially in n8n batch loops to respect API rate limits -- pull from a queue (e.g., Google Sheets rows), process one at a time, and skip already-completed items.
+- An n8n workflow scrapes any business URL and generates a full analysis report (overview, audience personas, brand analysis, customer journey, E-E-A-T) for approximately $0.20 per run.
+- Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
+- Chain specialized AI agents in n8n -- scraper (Firecrawl) feeds analyst (Perplexity) feeds formatter (Gemini) -- each agent does one job well, keeping the pipeline modular and cheap.
+- A single YouTube transcript can feed newsletter drafts, social media posts, blog articles, and email campaigns -- extend the base n8n workflow with parallel output branches.
+- n8n workflows can be exported as JSON and shared on GitHub with Google Doc templates -- the business analysis workflow repo has 98 stars and is MIT licensed.
+- Use Linkfinder AI as a proxy for LinkedIn scraping — no direct LinkedIn API connection means zero ban risk for your personal account.
+- An n8n workflow pulls YouTube links from Google Sheets, extracts transcripts via Dumpling AI, transforms them into newsletter drafts with GPT-4o, and logs results back to Sheets.
+
+## music-production
+
+### synthesis
+- The Moog DFAM has no MIDI implementation -- sampling its output into a MIDI-capable device is the primary way to integrate it into a broader production setup.
+- Sample analog synth sounds (like Moog DFAM) into a digital sampler/sequencer (like Elektron Digitakt) to get warm analog timbre with precise digital sequencing and pattern control.
+
+## pets
+
+### dog-care
+- Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
+- Allow dogs to sniff freely during walks -- scent exploration is their primary way of processing the world and provides more mental stimulation than the physical exercise of the walk itself.
+
+## video-production
+
+### audio-sync
+- Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.
+- Set all audio devices to 48kHz when recording for video -- mismatched sample rates between camera and external recorder cause drift that worsens over longer recordings.
+
+### sound-design
+- The foundational rule of video sound design: you should be able to hear everything you see -- nothing on screen is truly silent, and even empty rooms have ambient sound.
+- The sound design workflow for video follows three steps: lay down temp music/score first, add creative SFX and foley second, then apply final audio treatment and mixing.

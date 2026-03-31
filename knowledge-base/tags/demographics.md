@@ -1,0 +1,18 @@
+# Tag: demographics
+
+- `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
+- `INS-260327-9560` Nobody wants to have kids because the economic conditions that enabled the baby boom (cheap homes, stable jobs, affordable childcare) have been systematically dismantled.
+- `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
+- `INS-260330-6C3D` A country's population age structure today reveals its economic reality 20-30 years from now with surprising accuracy.
+- `INS-260330-AD61` Fertility rates decline naturally as nations industrialize, with or without explicit population control policies.
+- `INS-260330-0539` Russia's pension contributor-to-recipient ratio has deteriorated 44% since 1991, with no short-term fix possible because today's teenagers are '13-year-old ripples of actions past.'
+- `INS-260330-AAE9` As societies industrialize and urbanize, children shift from productivity assets to financial liabilities, making low fertility an inevitable side effect of development.
+- `INS-260327-004B` 30 million Americans will retire by 2030 representing nearly a fifth of the labor force, with most having less than $250K in total assets.
+- `INS-260327-4FD9` Baby boomers voted for free education when young, worker protections when working, lower taxes when established, and retirement benefits when old - each shift disadvantaging the next generation.
+- `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
+- `INS-260327-C4E8` About 0.1% of American men have permanently left the workforce every single month since the 1960s - COVID merely accelerated an existing decades-long trend.
+- `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
+- `INS-260323-8239` National power is fundamentally a function of population size and wealth — both are required to build the military capability that ensures survival.
+- `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
+- `INS-260330-74AC` China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
+- `INS-260330-0FF7` China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.

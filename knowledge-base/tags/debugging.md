@@ -1,0 +1,31 @@
+# Tag: debugging
+
+- `INS-260321-2482` When agents fail, the instinct now is 'I gave bad instructions' not 'the AI can't do this' — most failures are configuration problems, not capability limits.
+- `INS-260327-9D50` Chase argues that traces are to agents what source code is to software: the actual source of truth for understanding what the system does, because you literally cannot predict agent behavior by reading the code.
+- `INS-260323-4B4D` Making an AI agent aware of its own source code, harness, documentation, and model enables self-modification — Peter Steinberger's OpenClaw agent modified its own software when users didn't like something, without being explicitly programmed to do so.
+- `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
+- `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
+- `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
+- `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
+- `INS-260330-2154` When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.
+- `INS-260329-F84E` Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
+- `INS-260329-9157` Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
+- `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
+- `INS-260329-0CC5` Debug by progressively narrowing the problem space with print statements and breakpoints rather than guessing at fixes.
+- `INS-260329-0154` Testing frequently during development limits the search space for bugs to only the code changed since the last successful run.
+- `INS-260329-6AF5` Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
+- `INS-260320-4773` Run all backend microservices via PM2 so Claude can read individual service logs in real-time without manual copy-pasting.
+- `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
+- `INS-260329-02B3` String concatenation masquerading as addition teaches that computers do exactly what you say, not what you mean — the foundational debugging insight.
+- `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
+- `INS-260329-A218` Deliberately exposing learners to common errors builds debugging intuition that error-avoidance pedagogy cannot produce.
+- `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
+- `INS-260329-A6FB` Syntax errors should be understood as Python saying 'I don't understand' rather than 'you're bad at this'.
+- `INS-260329-5F37` Every CS50P example follows a pattern of intentionally broken code → diagnosis → fix, training students to see confusion as the precursor to understanding rather than evidence of inability.
+- `INS-260329-B214` Programming bugs are the learning mechanism itself, not obstacles to overcome before learning happens.
+- `INS-260329-3763` The structured debugging process taught in programming — isolate, reproduce, trace, fix — is a universal diagnostic framework applicable far beyond code.
+- `INS-260329-F892` Letting learners encounter predictable errors (negative overtime, wrong relative references) before introducing the fix creates deeper understanding than presenting the correct solution first.
+- `INS-260330-FA2D` The arrow's flex is invisible to the naked eye but is the entire mechanism of accuracy — slow-motion cameras revealed what centuries of archery couldn't.
+- `INS-260330-13A8` High-speed cameras reveal the arrow's mid-flight flex that explains how it navigates around the bow — without this visibility, the outcome seems impossible.
+- `INS-260329-5EE7` Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
+- `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.

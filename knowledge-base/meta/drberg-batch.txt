@@ -1,0 +1,103 @@
+# Dr. Berg — Top 100 Videos by Views (Batch Ingest Tracker)
+# Format: STATUS | VIDEO_ID | VIEWS | TITLE
+# STATUS: PENDING / INGESTED / EXTRACTED / SKIP
+EXTRACTED | AUbEkURbakw | 3672485 | The #1 Most Dangerous Carb in the World | SRC-260325-452F
+EXTRACTED | TZ0Dm6ULLAw | 2661137 | They KNEW This About Vitamin D (And Ignored It) | SRC-260325-C611
+EXTRACTED | fJWPp1EBpYg | 2632118 | The 7 Healthiest Foods You Need in Your Diet | SRC-260325-C4E7
+EXTRACTED | hq9Al6LR2O4 | 2598191 | DRINK 1 CUP A DAY to Unclog Your Arteries | SRC-260325-CD24
+EXTRACTED | nCnZX8zs4LI | 2555690 | How to Reverse POOR Eyesight (Especially Over 50!) | SRC-260325-17A0
+EXTRACTED | 4wcpfCV-B1I | 2548745 | I'm 60... It Took Me 30 Years To Learn This (Don't Make The Same Mistakes)
+EXTRACTED | gVKQiv17M3k | 1839921 | What Happens When You Eat 3 to 4 Eggs Daily?
+EXTRACTED | W-vbcLp2Ss8 | 1735673 | How to Reverse Hair Loss
+EXTRACTED | JDc9n6OcWZc | 1556165 | STOP Eating These 7 Foods if You Have Arthritis (& What to Eat Instead)
+EXTRACTED | V5-excE7XdE | 1408566 | If You're Waking Up to Pee, It's Not Your Bladder
+EXTRACTED | oEl1YABvfx0 | 1378782 | The New Dietary Guidelines Quietly Admit They Were Wrong (Here's the Proof)
+EXTRACTED | 2cwY7mYdjvo | 1191312 | The #1 BEST Meal to Reverse Heart Disease & Type 2 Diabetes
+EXTRACTED | 1nAfTsObuwY | 1109895 | They Lied to You About Menopause
+EXTRACTED | f9PL6o4OLNw | 1097015 | Cancer Dies When You Do THIS
+EXTRACTED | uu3N_mSwJHw | 1092626 | Your Legs Are Failing First — Here's Why
+EXTRACTED | leIg3awLeak | 1056597 | The #1 Best Way to Burn Inner Thigh Fat & Lose Cellulite
+EXTRACTED | gq5wEe7hmfo | 1048553 | How to Fall Back Asleep FAST (Even at 2AM)
+EXTRACTED | 2ksPzKMJgXs | 870134 | Doctor Reveals The MOST Overlooked Medicine on Earth
+EXTRACTED | P9XwBGk3ZiQ | 853208 | 10 Vitamins You Should NEVER Take
+EXTRACTED | DMcL6KiglvM | 835830 | NEVER Start Your Morning With This (Destroys Your Liver)
+EXTRACTED | fqwrf0RvOVI | 767420 | #1 BEST Meal to Prevent a Heart Attack and Stroke
+EXTRACTED | LKlQm4Szqdw | 719789 | Eat These Foods to Shrink an Enlarged Prostate (Especially Over Age 50)
+EXTRACTED | 6GHvlqUD46c | 698236 | ½ Teaspoon of This Works Like Ibuprofen (Doctors Won't Tell You)
+EXTRACTED | d-0vFQSqUXM | 674028 | 18 Visible Signs of Kidney Disease You Shouldn't Ignore
+EXTRACTED | IeegnZIGGsI | 654785 | 13 Foods You Should NEVER Buy Organic
+EXTRACTED | wLl0OvB4d8A | 651225 | The Ugly Truth About Yogurt (You Won't Like It)
+EXTRACTED | s4tJmFL20Us | 635198 | How to Stop Porn Addiction (Never Relapse Again)
+EXTRACTED | nbl2-5FVIkk | 594064 | How to Correct Your Posture FAST (Within Minutes!)
+EXTRACTED | XwSSkrItr0c | 565566 | Never Put These 11 Things on Your Face (They Age You Faster)
+EXTRACTED | Bb5rVAT748M | 554610 | Don't Touch These 10 Foods (Especially If You Have Diabetes)
+EXTRACTED | fT4gJ10z9_c | 549122 | Advanced-Stage Colon Cancer Dies When You Do THIS
+EXTRACTED | K0MjkVQerfk | 547413 | They've Been Feeding You Poison (And Calling It Food)
+EXTRACTED | jFVme1N_wVE | 539043 | Why Natural Medicine Was Replaced (The Truth You Were Never Told)
+EXTRACTED | jZ4jNALF9Ys | 513166 | Avoid These 8 Gut Mistakes (Especially After 40!)
+EXTRACTED | tmqUqdNmu6s | 500038 | What Happens If You Take Collagen Every Day?
+EXTRACTED | rEWNmcBFHOc | 492536 | DRINK 1 CUP at Night to Burn Belly Fat FAST
+EXTRACTED | Sps-pxmd650 | 482071 | The Dirty Secret Behind Ozempic's Weight Loss
+EXTRACTED | FzJOjrs-wJ0 | 464490 | 7 Nighttime Habits that Age You Faster (And Cost Nothing to Fix)
+EXTRACTED | t8y4-wR0ajo | 460845 | Rid Sinus and Lung Mucus with SALT
+EXTRACTED | WN7Rpa3uVAQ | 446305 | Never Get Your Gallbladder Removed
+EXTRACTED | 8iA49h1HpWA | 441347 | The One Omega-3 That Builds Your Brain (It's Not Fish Oil)
+EXTRACTED | WLq0pcdwxus | 438846 | Age Spots Are NOT Normal Aging
+EXTRACTED | VHlC8xSkSMg | 433035 | Big Pharma Freaks Out over Tylenol & Autism Truth
+EXTRACTED | 1mDQldYp-L8 | 396579 | The MOST Dangerous Diseases in the World (& They Don't Give You Symptoms)
+EXTRACTED | 7ELJ_KSsqw8 | 380184 | This Could Save Your Life (1 in 4 People Have This Silent Killer Disease)
+EXTRACTED | 8H0bwEB1g6g | 378187 | The #1 Healthiest Food on Earth
+EXTRACTED | GjNAFk0sHDA | 372946 | The Real Reason You're Anxious (It's Not What You Think)
+EXTRACTED | MzrPg6Gd8Ew | 369381 | The #1 WORST Protein in the World
+EXTRACTED | nQccMgrJoJ8 | 358688 | The 7 Signs Your Liver is Dying
+EXTRACTED | zIBEVeBDCNo | 350427 | How to Take Your Health to the Next Level (Cost: 10¢)
+EXTRACTED | Z39W6Z6VlYU | 340241 | Big Pharma Pays Big $$$ to Social Media Influencers (You'll Never Guess Who)
+EXTRACTED | p824XQXWHAg | 339970 | Why Vertigo Happens (And How to Fix It)
+EXTRACTED | G1Z4703YstY | 324393 | Stop the Addiction Impulse in 60 Seconds (Here's How)
+EXTRACTED | gGuF6X1cd_Y | 308355 | Why You Wake Up at 3AM (& How to Fall Back Asleep FAST)
+EXTRACTED | 9WyOZmMMSY8 | 307909 | Why Your House is Making you Sick and Tired
+EXTRACTED | IwalrYX_7ic | 303434 | The #1 Nutrient That STOPS Heart Palpitations Fast
+EXTRACTED | xcBoVYJh_QA | 290622 | They Are Lying to You About Heartburn
+EXTRACTED | aDv4hZjrueE | 287235 | If You Hate Exercise, Do THIS Instead
+EXTRACTED | 74Hyl9p2CqA | 283974 | The 7 Healthiest Foods with ZERO Carbs & ZERO Sugar
+EXTRACTED | O6ftQwEeMHY | 283819 | Hidden Ingredient in 60% of Junk Foods (Acts Like a Detergent)
+EXTRACTED | 18tnJ9wLDbk | 278293 | The Big Multivitamin Scam
+EXTRACTED | fn4gclBMjVc | 275439 | The Burning You Feel in Your Feet is NOT a Nerve Problem
+EXTRACTED | FcW3xFUCClQ | 267260 | The Most Dangerous Ingredients in the World (Designed to Keep You Addicted)
+EXTRACTED | jNvubuwsFG8 | 259341 | 7 Natural Remedies Big Pharma is Hiding (These Prescription Meds Were Never Meant to Cure You)
+EXTRACTED | YkKXlvepPnU | 258228 | The #1 Root Cause of All Chronic Disease is NOT What You Think...
+EXTRACTED | MxshFOHbDWY | 257030 | The #1 MOST Dangerous Fat in the World!
+EXTRACTED | qi15flN6jRc | 254652 | This Bill Could Bankrupt You for Speaking Out
+EXTRACTED | I2GApkHYVIo | 254258 | THIS Happens to Your Body When You Quit Coffee for 30 Days
+EXTRACTED | Xf8Shj9hjUc | 250425 | Do THIS Right After Waking Up (Your Body Will Thank You)
+EXTRACTED | 6e_wVr6DMz0 | 250133 | It's Not Toxins. It's This
+EXTRACTED | LiI4Kg8wmRo | 244832 | How to Get Rid of Candida in 24 Hours (And Keep It Gone)
+EXTRACTED | 9dDJY6MLWhk | 243829 | AVOID This If You Have High Blood Pressure
+EXTRACTED | V5pOt3DY0ag | 240854 | I Tried Extreme Celebrity Biohacks (Here's What Actually Works)
+EXTRACTED | FAuClbdfqrI | 237520 | The #1 Way to Burn Fat and Build Muscle Naturally (Backed by Science)
+EXTRACTED | sp0Mwjqs0zo | 233554 | The Truth is Finally Coming Out… About Health Freedom
+EXTRACTED | MwZ63SFmkPE | 233369 | The BIGGEST Magnesium Mistakes
+EXTRACTED | 1JNsVRwZGzQ | 227664 | My Biggest Health Mistake (I Hid This for Years)
+EXTRACTED | 9Gzlmo0FGXU | 210976 | STOP Making These Blood Sugar Mistakes (Diabetics Need to Watch This)
+EXTRACTED | j5BXIh5Pv-s | 210172 | The 3 Vitamins That WORSEN Nerve Pain (A Nerve Poison?)
+EXTRACTED | HAK5eg0HRc8 | 205733 | The BEST Foods to Strengthen Your Heart
+EXTRACTED | UEcMjx7xAK4 | 203383 | Why Your Blood Sugar Won't Drop (The Secret Cause)
+EXTRACTED | 2iOeVtGgdII | 196999 | Why Depression is Worse in the Winter (NOT Vitamin D)
+EXTRACTED | 4nT6YNB4ljI | 194456 | The ONE Exercise to Correct Flat Feet
+EXTRACTED | mUK-dUA564Y | 193366 | Never Get Menstrual Cramps Again (13 Scientifically Proven Tips)
+EXTRACTED | m24rS5Xt9N8 | 189767 | NEVER Weigh Yourself (The Scale is Rigged)
+EXTRACTED | a1fPSbFT7eU | 184410 | The Vitamin D DANGER They Ignored (For Profit)
+EXTRACTED | 1gGI_98xzgE | 169519 | 9 Warning Signs Your Body Is Begging for Magnesium
+EXTRACTED | GuvGtnMMet8 | 158014 | The 13 Biggest Reasons Keto Stops Burning Fat
+EXTRACTED | vJFozt4pytg | 157693 | So Called "Normal Labs" are NOT Healthy
+EXTRACTED | qVo2KDjb-R8 | 154999 | Why Your Urine Stream Is Weak (And How to Fix It)
+EXTRACTED | W9qSb6--XfE | 147616 | How They Convinced Millions to Take This CHOLESTEROL Pill for Life
+EXTRACTED | hucr0CmpxGk | 147321 | The #1 WORST Weight Loss Advice (And What Actually Works)
+EXTRACTED | lrkOgBGA_3c | 110446 | The Most Dangerous "Therapy" in the World Still Used in America
+EXTRACTED | G_rsDuaoNmc | 107002 | They KNEW This About Fluoride (And Kept Adding It Anyway)
+EXTRACTED | tn6c7drTfLY | 106223 | STOP Eating Bread Until You Watch This!
+EXTRACTED | LoKAhLfPUYA | 101496 | The #1 Most DAMAGING Carb on Earth (Is NOT Sugar)
+EXTRACTED | sNyvTjWzg2c | 93242 | The Truth About Vitamin C (It's Not What You Think)
+EXTRACTED | XJE5oLMWs9k | 86691 | 27 Low Cost Ways to Upgrade Your Meal (10X the Nutrition)
+EXTRACTED | nUYo0fGfZjM | 85085 | DRINK 1 CUP per Day to Tighten Loose Skin (After 40)
+EXTRACTED | LeRzBOyTNOs | 64087 | They Are Poisoning Americans (And Getting Away With It)

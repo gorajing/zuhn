@@ -1,0 +1,43 @@
+# Tag: validation
+
+- `INS-260329-3489` Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
+- `INS-260329-5F96` Three-way data splitting (train/validate/test) prevents the subtle overfitting that occurs when you repeatedly evaluate and tune against the same held-out data.
+- `INS-260323-5CBE` Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
+- `INS-260329-47DD` Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
+- `INS-260320-4B31` We spent hours designing a detailed spec before writing any code — the spec caught issues before they became bugs and zero scope creep occurred across 5 phases.
+- `INS-260329-6936` Declaring types upfront (string, int, bool, double) catches mismatches at compile time — the same principle behind Zod schemas and validated JSON pipelines.
+- `INS-260330-8FF8` The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
+- `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
+- `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
+- `INS-260321-FE91` Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
+- `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
+- `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
+- `INS-260327-7D0B` Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
+- `INS-260323-0FDA` The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
+- `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
+- `INS-260320-3798` Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
+- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
+- `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
+- `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
+- `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
+- `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
+- `INS-260323-224F` The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
+- `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
+- `INS-260329-F7F4` When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
+- `INS-260323-A2E5` Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
+- `INS-260329-F007` Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
+- `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
+- `INS-260323-2726` Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.
+- `INS-260329-9C6B` Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.
+- `INS-260330-56AA` LA validated shade balls with three $5 kiddie pools before spending $34M on 96 million balls — the cheapest test that could falsify the hypothesis.
+- `INS-260330-22D6` Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
+- `INS-260330-E6B7` DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.
+- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
+- `INS-260330-40E9` Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.
+- `INS-260330-CFBF` Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
+- `INS-260329-1739` Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
+- `INS-260330-201F` The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.
+- `INS-260327-B12E` Start with customer problems, not technology — talk to as many people as possible about their problems and what skills you can bring.
+- `INS-260330-3F24` If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
+- `INS-260330-CFBA` Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
+- `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.

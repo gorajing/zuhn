@@ -1,0 +1,43 @@
+# Tag: creativity
+
+- `INS-260323-C10D` LLM hallucination and creativity are the same mechanism — engineers call it hallucination when it produces errors, and creativity when it generates novel useful ideas.
+- `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
+- `INS-260322-13D6` AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
+- `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
+- `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
+- `INS-260325-71DE` Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
+- `INS-260323-369C` The most dangerous aspect of addiction for creative people is the false belief that substances are the source of creativity — Callaghan proved the creative engine survives intact after sobriety.
+- `INS-260330-909E` Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions.
+- `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
+- `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
+- `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
+- `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
+- `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
+- `INS-260330-FDC2` Education systems explicitly aim to transmit knowledge faithfully and produce behavioral conformity — the opposite of the creative knowledge generation that defines human uniqueness.
+- `INS-260330-F183` The discovery that math is fundamentally incomplete led directly to the invention of computers, showing that limits catalyze breakthroughs.
+- `INS-260330-14A1` Moderate procrastination enables subconscious incubation that produces more creative ideas than diving in immediately or waiting until the last minute.
+- `INS-260330-8E8A` New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
+- `INS-260330-1E5E` On hard problems, stop trying to solve them directly — play with the structure until patterns emerge.
+- `INS-260323-75A6` Dirac's equation predicting antimatter came from his unusual visual-geometric approach to mathematics -- and he said the equation was 'smarter than he was' because it revealed truths he hadn't put in.
+- `INS-260323-FAF0` Hamkins proves every natural number is interesting via contradiction: if boring numbers existed, the smallest boring number would be interesting for being the smallest boring number.
+- `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
+- `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
+- `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
+- `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
+- `INS-260327-7F6A` Thompson's gonzo journalism was both his greatest creative achievement and commercially unsustainable - the paradox every creative person faces between authenticity and viability.
+- `INS-260330-2B3F` Rick Rubin identifies creativity as a bodily feeling — a 'surge of energy' — rather than an intellectual process, and uses taste-testing as the metaphor for creative decision-making.
+- `INS-260323-A494` African-Americans, Jewish Americans, gay Americans, and Soviet emigres are all overrepresented in comedy not from innate talent but from the outsider perspective that comes with marginalization.
+- `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
+- `INS-260325-568A` Every great scientific breakthrough, even those attributed to lone geniuses, arose from collaborative social contexts — and knowing this helps us create better conditions for future discovery.
+- `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
+- `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
+- `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
+- `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
+- `INS-260327-6F12` The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
+- `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
+- `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
+- `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
+- `INS-260323-7F3E` True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.
+- `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
+- `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
+- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.

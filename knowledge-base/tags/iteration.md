@@ -1,0 +1,41 @@
+# Tag: iteration
+
+- `INS-260323-649B` Unlike normal engineering where you fail, learn, and try again, the first failure to align something much smarter than you could be a civilizational-ending event with no second attempt.
+- `INS-260323-F204` AI systems launch knowing only half of what they need — the rest must be learned through real-world usage and continuous human feedback.
+- `INS-260323-C316` AI should be deployed in narrow, iterative layers rather than as a massive transformation project — the same lesson enterprises failed to learn from Salesforce rollouts.
+- `INS-260320-4993` Re-prompt often using double-esc to recall previous prompts — you get better results armed with knowledge of what you DON'T want.
+- `INS-260329-CF48` Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
+- `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
+- `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
+- `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
+- `INS-260330-6EF1` The world's roundest object was made by starting 2mm oversized and grinding progressively finer — extreme quality comes from iterative refinement, not one-shot precision.
+- `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
+- `INS-260329-7691` Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
+- `INS-260330-A86C` Cybercriminal schemes evolve through rapid trial-and-error iteration — fail, diagnose, fix, repeat — the same process successful startups use to find product-market fit.
+- `INS-260329-2AB9` Fast, imperfect decisions outperform slow, perfect ones because action generates information that analysis cannot.
+- `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
+- `INS-260330-8920` The team broke multiple bats and redesigned between each attempt, reaching their goal faster than careful upfront engineering would have.
+- `INS-260326-C305` YC's number one pre-launch advice is simply 'launch' — if your MVP takes more than two months, you're iterating in a vacuum.
+- `INS-260329-E333` Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
+- `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
+- `INS-260330-A3B7` Testing baseline → single unit → stacked units in sequence reveals the failure mode at each stage, which a single end-state test would obscure.
+- `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
+- `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
+- `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
+- `INS-260320-3798` Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
+- `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
+- `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
+- `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
+- `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.
+- `INS-260322-58B7` Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
+- `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
+- `INS-260330-2B45` Ship a prototype fast and refine based on user reactions — the 'Hail Mary' strategy of planning extensively before building wastes millions.
+- `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
+- `INS-260330-B7B1` Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
+- `INS-260323-C5D3` Before ZZT shipped, Sweeney invited neighbors of all ages to play it while forcing himself not to explain anything -- noting where they got stuck, felt bored, or enjoyed themselves -- then iteratively polished until the game worked without his guidance.
+- `INS-260323-F310` LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
+- `INS-260330-012D` LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
+- `INS-260330-8D99` Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
+- `INS-260323-2559` Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
+- `INS-260329-F007` Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
+- `INS-260329-B0BA` Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.

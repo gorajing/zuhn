@@ -1,0 +1,56 @@
+# Topic: growth-strategy
+
+> 52 insights
+
+- `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
+- `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
+- `INS-260328-B57E` [high] Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
+- `INS-260330-931A` [high] Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
+- `INS-260330-75A3` [high] Facebook built a community translation platform covering 104 languages instead of just translating the top 4, which prepared them for explosive growth in markets like Hindi that didn't matter at launch.
+- `INS-260323-CE9A` [high] Rella's CEO and co-founders still personally handle customer support — the number one compliment they receive is 'we can tell you actually listen to us.'
+- `INS-260327-B357` [high] Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
+- `INS-260329-1085` [high] Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
+- `INS-260329-4EF5` [high] When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
+- `INS-260329-E884` [high] If each customer pays enough in 30 days to cover their own acquisition cost plus the next customer's, growth becomes self-funding.
+- `INS-260329-AADB` [high] Structure offers so each customer pays back their acquisition cost within 30 days, turning customers into funding for the next customer.
+- `INS-260330-2ABC` [high] Coke's 'Cradle to grave' strategy paid schools $3,000/year for exclusive vending contracts, ensuring children became habitual consumers before they could make independent choices.
+- `INS-260323-8896` [high] Frederic Tudor broke through zero demand by giving bartenders free ice to make cocktails — once customers experienced cold drinks, they could never go back.
+- `INS-260322-D69E` [high] When COVID canceled 120 fully-booked rooms and left 2 months of runway, pivoting share houses to quarantine facilities and building a university quarantine solution actually grew the business beyond its pre-crisis trajectory.
+- `INS-260323-73AB` [high] Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
+- `INS-260330-2413` [high] Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
+- `INS-260329-3DD7` [high] Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
+- `INS-260322-DBEA` [high] Build free tools targeting SEO keywords to drive organic traffic instead of doing traditional marketing.
+- `INS-260328-C12D` [high] Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
+- `INS-260329-9E6C` [high] Goodwill from overdelivering compounds into referrals, retention, and pricing power that outpaces short-term extraction.
+- `INS-260330-C7E6` [high] Coca-Cola used WWII patriotism to get government-funded bottling plants in 64 countries, turning the US military into a de facto sales force.
+- `INS-260322-70DD` [high] Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
+- `INS-260323-9F61` [high] Barabasi's model shows hubs form naturally when networks grow and new nodes preferentially attach to well-connected nodes -- a tiny initial bias compounds into dominance.
+- `INS-260330-36DB` [high] Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260328-03BB` [high] You will be judged by investors relative to your direct peers, not relative to the fastest-growing company in all of AI.
+- `INS-260323-B849` [high] In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
+- `INS-260330-1089` [high] When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
+- `INS-260330-999F` [high] Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
+- `INS-260323-2040` [high] Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
+- `INS-260330-21CC` [high] Power users stay anyway — growth comes from saving marginal users by getting them to the magic moment, not from reducing friction for heavy users.
+- `INS-260329-CCC4` [high] Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
+- `INS-260322-F128` [high] The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
+- `INS-260322-5650` [high] In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
+- `INS-260330-3D0D` [high] Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.
+- `INS-260329-6079` [high] Price increases that reduce conversion by less than the price multiplier always increase total profit, and pricing is far more inelastic than most founders assume.
+- `INS-260325-175B` [high] Ron from Open Router cited a Brazilian chat app that looks generic on the surface but succeeds because it is deeply localized for Brazilian preferences, search patterns, and model optimization.
+- `INS-260322-34AE` [high] When Airbnb expelled unlicensed Korean hosts in October 2025, EncoWithers grew from under 100 to over 7,000 hosts because they had spent a year preparing to absorb the displacement.
+- `INS-260323-0FDA` [high] The founder realized that when customers truly use a service, they ultimately pay -- saying 'it's good' without buying means it's not good enough.
+- `INS-260327-B034` [high] Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
+- `INS-260322-36E3` [high] Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
+- `INS-260322-C33D` [high] Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
+- `INS-260322-E8BA` [high] Filter for keywords under 10 difficulty with 1000+ monthly volume to find rankable free tool opportunities.
+- `INS-260330-B0EB` [high] Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
+- `INS-260330-20F7` [high] Sean Parker's virality framework breaks viral potential into payload (people reached per blast), frequency (how often you hit them), and conversion rate — different products win on different axes.
+- `INS-260330-73C1` [medium] The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
+- `INS-260329-8E48` [medium] High-frequency daily posting compresses the iteration cycles needed to find what resonates, dramatically shortening time-to-traction.
+- `INS-260329-3818` [medium] Give the first session free as a half-assessment, half-pitch that delivers one visible improvement, then ask for the commitment.
+- `INS-260329-563F` [medium] Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
+- `INS-260329-793D` [medium] Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
+- `INS-260329-8BD3` [medium] Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
+- `INS-260329-825D` [medium] List an absurdly expensive premium tier to make your standard offering feel like a bargain by comparison.
+- `INS-260329-8386` [medium] Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.

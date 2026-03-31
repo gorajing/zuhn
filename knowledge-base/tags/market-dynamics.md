@@ -1,0 +1,48 @@
+# Tag: market-dynamics
+
+- `INS-260322-0C28` Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
+- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
+- `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
+- `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
+- `INS-260327-A9E8` When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest 
+- `INS-260327-48D6` Products and services that remove all friction from consumption eliminate the natural behavioral checkpoints that previo
+- `INS-260327-CB07` Artisanal cultural products follow a predictable degradation path when adopted by mass markets: authentic versions are d
+- `INS-260327-B528` The decluttering movement does not reduce consumption because removing old possessions creates psychological permission 
+- `INS-260327-E26D` Artificial scarcity combined with social media visibility converts the psychological experience from desire to anxiety, 
+- `INS-260327-D832` Consumers who buy cologne are purchasing an identity signal — sophistication, masculinity, wealth — rather than a functi
+- `INS-260327-C13D` Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors
+- `INS-260327-FFB5` Products marketed against invisible threats (air quality, EMF, toxins) exploit health anxiety because consumers cannot i
+- `INS-260327-A40E` Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
+- `INS-260327-747B` Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are ava
+- `INS-260327-2B94` Consumer recycling programs create the illusion of environmental responsibility while the vast majority of recycled mate
+- `INS-260327-690E` Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the deliver
+- `INS-260327-45BD` Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools,
+- `INS-260327-4F8C` Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
+- `INS-260327-0710` Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
+- `INS-260323-1D15` Chinese competitive dynamics favor rapid replication over differentiation — when something works, thousands of competitors copy it immediately, driving ferocious price and execution competition.
+- `INS-260327-A8DF` Collectible product trends follow the same speculative bubble pattern as financial assets: early authentic collectors, f
+- `INS-260327-A763` Markets where branding has inflated prices far beyond the underlying commodity value become vulnerable to value-focused 
+- `INS-260327-E07A` Products branded around individual creators have a natural market ceiling equal to the creators engaged audience, and ca
+- `INS-260327-7F1B` Glass bottles are better for the environment but lost to plastic and aluminum because transportation costs per unit are 
+- `INS-260327-749F` Fast fashions lower prices were achieved not through manufacturing innovation but by reducing fabric quality and constru
+- `INS-260327-D52B` BNPL services that grow by extending credit to consumers who were excluded from traditional credit face inevitable defau
+- `INS-260329-DF50` In HFT, the first system to react to market data captures the opportunity — everyone else follows with nothing left to take.
+- `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
+- `INS-260327-0BDD` When affluent consumers discover and popularize budget shopping channels (thrift stores, discount retailers), prices ris
+- `INS-260327-CADA` The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
+- `INS-260327-26CF` Products that gain market share through implied health benefits face consumer backlash when scrutiny reveals the health 
+- `INS-260327-4F94` Health services promoted through influencer sponsorships face disproportionate backlash when problems emerge because fol
+- `INS-260327-2A58` Analog products can sustain premium niche markets among enthusiasts but cannot recapture mass-market share because the c
+- `INS-260327-AB2A` Businesses whose customer retention depends on continuous novelty face unsustainable product development costs and event
+- `INS-260327-06A6` When platforms become the primary discovery channel, creators optimize for platform algorithms rather than audience sati
+- `INS-260327-624F` When marketplace platforms allow suppliers to continuously increase pricing and add fees, they eventually price out the 
+- `INS-260330-DC5E` The Cambrian explosion was triggered not by new resources but by predation — eyes, claws, and shells evolved as arms-race responses, producing more innovation in millions of years than billions of years of resource competition.
+- `INS-260327-CCD0` Plant-based meat alternatives that position themselves as replacements for meat face rejection when taste comparison ine
+- `INS-260327-472A` Meal replacement products appeal to efficiency-maximizing consumers who are vocal online but represent a tiny fraction o
+- `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho
+- `INS-260327-4233` Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
+- `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
+- `INS-260327-0CBC` Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
+- `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
+- `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
+- `INS-260323-BD2B` JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.

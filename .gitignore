@@ -1,0 +1,29 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+dist/
+knowledge-base/db/
+.env*.local
+*.log
+docs/anthropic-briefing.*
+docs/t1-translation-product.md
+# Claude Code — ignore personal settings, track project config
+.claude/settings.local.json
+.claude/agent-memory/
+# Sources — scraped/ingested content (local only, not distributed)
+knowledge-base/sources/blog/
+knowledge-base/sources/youtube/
+knowledge-base/sources/reddit/
+knowledge-base/sources/pdf/
+knowledge-base/sources/audio/
+knowledge-base/sources/**/*.clean.txt
+*.pdf
+substack-*
+*.vtt
+*.m4a
+knowledge-base/meta/embeddings.db
+knowledge-base/meta/daemon-status.json
+knowledge-base/meta/.autoknowledge.lock
+knowledge-base/zuhn.db

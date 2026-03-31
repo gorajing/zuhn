@@ -1,0 +1,3 @@
+# Tag: graphql
+
+- `INS-260329-8F98` Always version APIs explicitly (e.g., /v1/products, /v2/products) rather than modifying existing endpoints, so old clients continue working while new clients get new features.

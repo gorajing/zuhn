@@ -1,0 +1,73 @@
+# Topic: validation
+
+> 69 insights
+
+- `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
+- `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
+- `INS-260323-D679` [high] Fireship got 3,121 free signups from his massive YouTube audience but only 0.3% converted to paid — proving that free distribution masks product-market fit failure until the money conversation starts.
+- `INS-260323-4DD9` [high] Having a great product is necessary but nowhere near sufficient — you also need visibility, authority, credibility, marketing strategy, and customer experience to survive.
+- `INS-260330-FFDB` [high] When real users request specific features, the feedback feels overwhelmingly compelling but leads to building the wrong things.
+- `INS-260330-752E` [high] Spend 1-2 months working inside your target industry to surface inefficiencies invisible from the outside.
+- `INS-260330-C215` [high] Spend 1-2 months working inside your target industry to discover exploitable inefficiencies firsthand.
+- `INS-260329-B0BA` [high] Start with your best bad idea and let customer feedback make it less wrong over time, rather than waiting for the perfect concept.
+- `INS-260330-E089` [high] Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
+- `INS-260327-CECA` [high] Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
+- `INS-260330-32E6` [high] When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
+- `INS-260329-34A9` [high] Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
+- `INS-260323-2726` [high] Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.
+- `INS-260330-5EA4` [high] If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
+- `INS-260327-1E44` [high] Developers spend 60% of their time on non-coding activities — finding and automating those repetitive workflows is where AI startups should focus.
+- `INS-260330-48DE` [high] Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
+- `INS-260327-EC45` [high] Filter ideas through: (1) is the value to customers special, (2) can we build it, (3) is the market big enough, (4) how are we differentiated from 15 competitors?
+- `INS-260329-9C6B` [high] Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.
+- `INS-260326-870E` [high] Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
+- `INS-260327-643E` [high] Ideas that seem bad — boring (Gusto/payroll), hard to start (Stripe/bank deals), or crowded (Dropbox/20 competitors) — systematically outperform because most founders avoid them.
+- `INS-260323-3436` [high] Everyone recognizes desktop clutter as a problem, but nobody's in enough pain to adopt a tool to solve it — recognizable problems and painful problems are completely different categories.
+- `INS-260327-CBCB` [high] Rajat worked as a waiter for a year — 16 hours a day inside restaurants — coding, testing the product with real users, and learning the industry from the inside.
+- `INS-260330-56AA` [high] LA validated shade balls with three $5 kiddie pools before spending $34M on 96 million balls — the cheapest test that could falsify the hypothesis.
+- `INS-260330-D5BD` [high] Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
+- `INS-260330-E6B7` [high] DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.
+- `INS-260329-3EC3` [high] Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
+- `INS-260330-40E9` [high] Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.
+- `INS-260330-2576` [high] Users will say 'yes that sounds great' to almost any feature idea, but that enthusiasm rarely translates to actual switching behavior.
+- `INS-260330-D1C8` [high] Non-users reveal the barriers preventing market expansion, which existing users and competitor users cannot articulate.
+- `INS-260330-843E` [high] Non-users reveal the barriers preventing market expansion — problems that existing user feedback will never surface.
+- `INS-260330-1854` [high] Non-users tell you what blocks market growth; existing users only tell you about incremental improvements.
+- `INS-260330-5D4F` [high] Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
+- `INS-260327-C900` [high] Susan turned Tesla saying no to home supercharging into a multi-million dollar business by solving the problem herself.
+- `INS-260330-CFBF` [high] Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
+- `INS-260330-5A0A` [high] Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
+- `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
+- `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
+- `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
+- `INS-260329-78CB` [high] High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
+- `INS-260329-180B` [high] Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
+- `INS-260323-E15F` [high] When every founder can build fast with AI tools, the bottleneck shifts permanently from execution speed to insight discovery speed.
+- `INS-260329-AAD1` [high] Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
+- `INS-260330-201F` [high] The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.
+- `INS-260323-92AD` [high] Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
+- `INS-260327-B12E` [high] Start with customer problems, not technology — talk to as many people as possible about their problems and what skills you can bring.
+- `INS-260323-1B87` [high] Most founders talk to 3-5 customers per week and think that's enough; Kim insists on 3-5 per day with 24-hour follow-up cycles during the PMF search phase.
+- `INS-260323-F9E5` [high] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
+- `INS-260330-0F52` [high] Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
+- `INS-260330-3F24` [high] If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
+- `INS-260330-CFBA` [high] Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
+- `INS-260329-C893` [high] If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
+- `INS-260330-901B` [high] The silicon sphere (Avogadro) and Watt Balance (Planck's constant) provide independent checks on each other — dual independent approaches beat single-method perfection.
+- `INS-260330-E8C6` [high] Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
+- `INS-260330-F268` [high] If users tolerate a problem and keep using your product anyway, that problem is probably not worth prioritizing over acquisition barriers.
+- `INS-260330-F3A8` [high] Choosing the wrong interview subjects means even perfect questions yield strategically irrelevant answers.
+- `INS-260330-3745` [high] Interview three distinct groups — your users, competitors' users, and non-users — because each reveals different strategic insights.
+- `INS-260330-AB6F` [high] Users enduring terrible UX to use your product is a stronger signal than engagement metrics from a polished product.
+- `INS-260330-5ED4` [high] Users enduring a painful product experience proves genuine demand more reliably than polished prototypes with lukewarm interest.
+- `INS-260327-89C7` [high] YC teaches you to flip your thinking — instead of starting with a cool idea or technology, start with: who are the customers and what problems do they have?
+- `INS-260327-FC5D` [high] Finding the one feature that drives the aha moment is very hard, but your customers will tell you through their behavior.
+- `INS-260323-A2E5` [medium] Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
+- `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
+- `INS-260329-6B2C` [medium] Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.
+- `INS-260330-22D6` [medium] Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
+- `INS-260329-1739` [medium] Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
+- `INS-260328-372B` [medium] Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.
+- `INS-260329-DFD1` [medium] TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.
+- `INS-260329-FB3F` [medium] TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
+- `INS-260323-09E4` [medium] When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.

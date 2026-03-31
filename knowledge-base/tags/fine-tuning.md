@@ -1,0 +1,6 @@
+# Tag: fine-tuning
+
+- `INS-260325-2FC1` Hugging Face Skills lets agents use libraries like TRL for reinforcement learning on custom datasets, enabling anyone to do what only data scientists could do two years ago.
+- `INS-260325-8F49` Hugging Face hosts roughly as many private models as their 1 million public models, created by 350,000 organizations doing custom fine-tuning, evaluation, and reinforcement learning.
+- `INS-260322-3616` Supervised fine-tuning only changed tone and instruction-following; reinforcement fine-tuning lets companies train models to domain-expert level on their proprietary data, creating the first real moat from model customization.
+- `INS-260327-7A48` Foundation models give you 90% accuracy for free; per-customer fine-tuning and evals are the highest-ROI path to the remaining 9.99%.

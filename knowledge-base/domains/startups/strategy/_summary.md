@@ -1,0 +1,126 @@
+# Topic: strategy
+
+> 122 insights
+
+- `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
+- `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
+- `INS-260323-9BC8` [high] Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.
+- `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
+- `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
+- `INS-260330-ABB1` [high] The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
+- `INS-260330-73F3` [high] DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
+- `INS-260330-85C2` [high] Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
+- `INS-260330-2332` [high] Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.
+- `INS-260323-BD2B` [high] JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
+- `INS-260330-90B6` [high] Oxygen — the molecule enabling all animal life — is literally a waste product of photosynthesis, not its purpose.
+- `INS-260330-C607` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
+- `INS-260330-7462` [high] Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
+- `INS-260329-644B` [high] Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
+- `INS-260330-B3DD` [high] Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
+- `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
+- `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
+- `INS-260330-F258` [high] Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
+- `INS-260330-9A92` [high] Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
+- `INS-260330-0B4A` [high] RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
+- `INS-260330-8A28` [high] The Chinese dynastic cycle — founding vigor, prosperity, corruption, collapse — is a recurring pattern in companies and industries.
+- `INS-260323-B0EA` [high] OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
+- `INS-260322-229C` [high] Most of the world's most successful companies made their real money not from their core product but from a first derivative of it — Union Pacific from land sales, Google from ads on search, Shopify from payments on commerce.
+- `INS-260330-48F2` [high] RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
+- `INS-260330-3E6B` [high] When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
+- `INS-260329-7D18` [high] Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
+- `INS-260324-DC98` [high] UNIQLO, Zara, and H&M transformed fashion from a creativity contest into a speed-and-curation game, driving GAP to irrelevance and J.Crew to bankruptcy.
+- `INS-260322-8299` [high] The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.
+- `INS-260323-8893` [high] Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
+- `INS-260330-8E45` [high] Glycolysis invests 2 ATP to break glucose apart, then earns 4 ATP back — a net gain that requires spending resources before generating them.
+- `INS-260330-53A9` [high] RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
+- `INS-260330-54ED` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
+- `INS-260323-BEE6` [high] GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
+- `INS-260328-4BF3` [high] Getting angry about hype cycles is like getting angry about the weather — they always exist, so develop the skill of neutral observation instead.
+- `INS-260323-2DB0` [high] Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
+- `INS-260330-84BD` [high] The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
+- `INS-260330-D88C` [high] Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
+- `INS-260323-1643` [high] Netanyahu's formula for Israel's GDP growth from $17K to $54K per capita: free market reforms plus a permanent pipeline of knowledge workers from military intelligence who become technology entrepreneurs.
+- `INS-260330-C087` [high] Innovation requires freedom to fail — eliminating downside risk through regulation also kills upside innovation potential.
+- `INS-260330-ACE7` [high] Apple transfers patents to Irish subsidiaries and 'rents' them back, converting US profit into deductible expenses because IP has no objectively verifiable price.
+- `INS-260330-012D` [high] LA water engineers tried floating tarps, PVC trampolines, pipe chippers, and debris fields — each failure's specific flaw narrowed the solution space until shade balls emerged.
+- `INS-260330-BF8F` [high] Web pages as UI were crude compared to desktop apps, but ubiquitous browser access was such a large advantage that quality didn't matter.
+- `INS-260330-1608` [high] PayPal's March 2001 DCF analysis showed 75% of value came from cash flows in 2011+, meaning durability dominates growth rate in determining company value.
+- `INS-260330-22C0` [high] RuBisCo is terrible at its job but plants went all-in on it and now produce 40 billion tons rather than evolve a replacement — illustrating how early dominance creates irreversible lock-in.
+- `INS-260330-0E77` [high] When RuBisCo began producing toxic phosphoglycolate due to atmospheric oxygen, plants evolved detoxification pathways rather than a better enzyme — the biological equivalent of writing wrapper functions around buggy legacy code.
+- `INS-260330-50B3` [high] RuBisCo was designed for a low-oxygen world, became half-broken when plants changed the atmosphere, but plants doubled down rather than evolving a replacement — a universal pattern in organizations and codebases.
+- `INS-260329-FC53` [high] Your results are mostly determined by which vehicle you operate in, not how hard you row.
+- `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
+- `INS-260329-3BEE` [high] The market you operate in constrains your upside more than your effort level does.
+- `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
+- `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
+- `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
+- `INS-260330-026F` [high] Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
+- `INS-260330-4983` [high] RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
+- `INS-260329-CB6D` [high] The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
+- `INS-260324-224B` [high] Axon was a struggling single-product startup for a decade — then police accountability protests created massive bodycam demand, and the company snowballed tailwinds into a market-defining position.
+- `INS-260330-0027` [high] PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
+- `INS-260330-DD9C` [high] Facebook's Free Basics and Google's AMP are framed as philanthropy but function as internet centralization strategies.
+- `INS-260323-104E` [high] Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
+- `INS-260324-0A26` [high] The US government used the American Dream (home + car ownership) as both domestic reintegration tool for veterans and Cold War propaganda against Soviet communism, while Europe nationalized transit.
+- `INS-260329-C26B` [high] The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
+- `INS-260330-1DCF` [high] Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
+- `INS-260330-CB2E` [high] Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
+- `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
+- `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
+- `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
+- `INS-260330-C7CB` [high] The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
+- `INS-260330-EB48` [high] RuBisCo is a terrible enzyme that plants can't replace because all of biology is built on it — a pattern that recurs in technology and business strategy.
+- `INS-260330-0B8D` [high] RuBisCo is a bad enzyme that became irreplaceable because plants scaled around it before its environment changed.
+- `INS-260330-6ECA` [high] RuBisCo is a terrible enzyme that dominates Earth because plants committed to it before oxygen made it fail half the time, compensating with 40 billion tons of production instead of evolving a replacement.
+- `INS-260330-CBF8` [high] Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
+- `INS-260330-4489` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
+- `INS-260329-C6BB` [high] Start premium to fund the infrastructure needed for eventual mass-market scale.
+- `INS-260323-8966` [high] The Shapiro-Destiny debate demonstrates that two intelligent people with different foundational priors will interpret identical data points in opposite directions — shared evidence does not produce convergence.
+- `INS-260330-B5DF` [high] The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
+- `INS-260330-391C` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.
+- `INS-260330-7B1C` [high] The real strategy stack is financing → distribution → product, not the other way around.
+- `INS-260328-6898` [high] Large companies are effectively always remote because the people you work with most closely are never at adjacent desks, but startups adopting the same practice gave up their in-person colocation advantage.
+- `INS-260330-D74A` [high] The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
+- `INS-260330-035C` [high] Photosynthesis produced oxygen that poisoned its own key enzyme RuBisCo, forcing plants to evolve detoxification pathways just to keep functioning.
+- `INS-260330-E180` [high] Putin delayed pension reform for 13 years after vowing never to touch it, then was forced into a more extreme version that caused his worst-ever approval crisis.
+- `INS-260330-5E47` [high] Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
+- `INS-260330-38B9` [high] Singapore explicitly designed its education, healthcare, housing, and legal system to attract multinational corporations — treating the entire nation as a product built for a specific customer segment.
+- `INS-260323-8F70` [high] Natural selection operates on genes because they're the right-sized unit that replicates faithfully and exhibits selectable traits -- businesses must identify their equivalent.
+- `INS-260328-988F` [high] A YC LP told Michael that 97% of venture returns come from the US market — Michael dismissed it at first but now sees it as largely correct.
+- `INS-260329-1F17` [high] Value = (Dream Outcome × Perceived Likelihood) ÷ (Time Delay × Effort/Sacrifice) — reducing the denominator often matters more than inflating the numerator.
+- `INS-260328-031A` [high] Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.
+- `INS-260330-6C7F` [high] A NASA committee concluded that no deflection method works for kilometer-scale asteroids, making survey telescopes the single highest-value investment in planetary defense.
+- `INS-260330-86CD` [high] A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
+- `INS-260323-BD20` [high] 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
+- `INS-260324-40AA` [high] TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
+- `INS-260323-2559` [high] Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
+- `INS-260330-B384` [medium] DNA replication can only proceed 5' to 3', so the lagging strand requires an entirely different mechanism (Okazaki fragments) rather than simply running the same process backward.
+- `INS-260329-06F2` [medium] $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
+- `INS-260322-5E5D` [medium] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
+- `INS-260323-1302` [medium] Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.
+- `INS-260329-4D24` [medium] Enumerating all failure modes is tractable and reveals risks that forward-looking analysis misses.
+- `INS-260329-4161` [medium] Building the frozen yogurt system (franchise, brand, supply chain) generates far more wealth than operating any single store.
+- `INS-260330-FEB0` [medium] The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
+- `INS-260323-9B68` [medium] Shapiro's counter to the 'arc of history bends toward progress' narrative: the 20th century produced communism, Nazism, and the Holocaust — moral regression is not just possible, it's historically common.
+- `INS-260325-79BD` [medium] The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
+- `INS-260330-E474` [medium] The 1054 Orthodox-Catholic schism — driven by theological identity differences, not resource competition — created a 1000-year fracture, showing that value misalignment produces the most permanent organizational splits.
+- `INS-260330-FAB8` [medium] The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
+- `INS-260330-9DCD` [medium] Government monopoly on land rezoning functions as an uncapped, unaccountable tax on housing demand.
+- `INS-260330-440E` [medium] The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
+- `INS-260330-E17D` [medium] The Indus Valley Civilization thrived peacefully for over a millennium but collapsed partly because it had almost no weapons or military capability.
+- `INS-260323-9772` [medium] At the critical point of a phase transition (like a magnet at its Curie temperature), the system becomes scale-free and fractal — local influences chain together into infinite-range correlations, making the system 'maximally interesting' and maximally unpredictable.
+- `INS-260330-8D99` [medium] Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
+- `INS-260330-2C71` [medium] Photosynthesis uses a 4-complex electron transport chain with intermediate carriers (ATP, NADPH) rather than directly converting sunlight to glucose, enabling independent optimization of each stage.
+- `INS-260330-F229` [medium] The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
+- `INS-260330-22A2` [medium] Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
+- `INS-260330-24E0` [medium] When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
+- `INS-260330-23CD` [medium] Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
+- `INS-260323-A075` [medium] Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
+- `INS-260330-6D49` [medium] Moving the capital from Rome to Constantinople traded short-term Western control for a thousand years of Eastern survival — a masterclass in strategic repositioning.
+- `INS-260330-777A` [medium] Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
+- `INS-260323-4457` [medium] A product that takes months to reach a testable state is burning the founder's most scarce resource — time to learn whether the idea even matters — on engineering before validation.
+- `INS-260323-8B90` [medium] Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.
+- `INS-260323-224F` [medium] The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
+- `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
+- `INS-260330-3FCF` [medium] Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
+- `INS-260330-B27A` [medium] LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.

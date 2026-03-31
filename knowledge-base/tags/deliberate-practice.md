@@ -1,0 +1,43 @@
+# Tag: deliberate-practice
+
+- `INS-260330-CD7A` Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
+- `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
+- `INS-260330-2666` Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
+- `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
+- `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
+- `INS-260329-A218` Deliberately exposing learners to common errors builds debugging intuition that error-avoidance pedagogy cannot produce.
+- `INS-260329-F969` Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
+- `INS-260329-8868` Reducing downside risk on first attempts lets people discover aptitude they would otherwise never explore.
+- `INS-260329-72D5` Layer concepts incrementally through progressively harder problems rather than front-loading all theory before practice.
+- `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
+- `INS-260330-909E` Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions.
+- `INS-260329-B214` Programming bugs are the learning mechanism itself, not obstacles to overcome before learning happens.
+- `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
+- `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
+- `INS-260329-C1E1` Tight write-test-observe cycles teach abstract concepts faster than front-loaded theory because they catch misconceptions before they compound.
+- `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
+- `INS-260329-9311` The course's core pedagogy — type code, compile, run, observe output, modify, repeat — exploits tight feedback loops to build intuition for abstract concepts like memory layout and type systems.
+- `INS-260329-A937` Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
+- `INS-260329-66C7` Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
+- `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
+- `INS-260329-C81C` Andrew Brown argues the Cloud Practitioner certification's main value is building exam-taking confidence, not the credential itself — it's a low-stakes rehearsal for harder certifications.
+- `INS-260330-E349` The crawl-walk-run method of isolating individual stressors before combining them builds genuine competence in high-stakes scenarios far more effectively than throwing people into the deep end.
+- `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
+- `INS-260329-3CB6` Master an existing system by exact replication first — earn the right to iterate by proving you can duplicate the original results.
+- `INS-260330-27A4` Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.
+- `INS-260329-2ECE` Hormozi's call recording requirement reveals that reviewing your own recorded performance creates a feedback loop that live practice alone cannot match.
+- `INS-260329-4D06` 'People skills' isn't a trait — it's a hundred micro-skills like greeting by name, not interrupting, and smiling when someone enters.
+- `INS-260329-1D3B` Soft skills decompose into trainable micro-behaviors — patience is just a bundle of specific habits you can practice.
+- `INS-260329-DAD1` Programming's instant syntax error feedback creates tighter learning loops than most disciplines where mistakes go undetected for weeks.
+- `INS-260330-63B8` Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
+- `INS-260329-7F70` Anticipating the 'valley of despair' in skill acquisition transforms it from a quit signal into a progress marker.
+- `INS-260329-88AB` Tutorial consumption creates passive familiarity that masquerades as competence until tested by independent creation.
+- `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
+- `INS-260329-640C` Sustained success comes from tolerating difficulty, not from feeling passionate about the work.
+- `INS-260329-CEC5` Branding is the deliberate pairing of your product with outcomes your ideal customer values, not identity design.
+- `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-9C20` When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
+- `INS-260329-3473` When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.
+- `INS-260329-C56D` Invest 60 minutes daily in structured sales training: 25min script reading aloud, 5min objection drilling, and 30min recorded call review.
+- `INS-260327-1787` The speed of feedback is inversely correlated with the number of repetitions needed to learn -- stopping mid-role-play to correct and repeat is far more effective than notes at the end.

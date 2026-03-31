@@ -1,0 +1,35 @@
+# Tag: organizational-design
+
+- `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
+- `INS-260330-0BD3` If someone claims they were too incompetent to prevent fraud, but built 50+ subsidiaries and one-way information walls, the complexity itself is evidence of deliberate design.
+- `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
+- `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
+- `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
+- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
+- `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
+- `INS-260330-956E` A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
+- `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
+- `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
+- `INS-260330-85B8` Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
+- `INS-260330-58B9` Genghis Khan built loyalty by promoting on merit and elevating the conquered peasantry while stripping power from incumbent elites.
+- `INS-260329-5306` Organization-wide quiet days eliminate the social penalty makers face when declining meetings, creating protected maker time at scale.
+- `INS-260330-3E3C` Glial cells outnumber neurons 10:1 and make up half the brain's mass, proving that support infrastructure is the majority of any high-performing system.
+- `INS-260329-8ABB` Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.
+- `INS-260330-5B59` Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.
+- `INS-260330-D661` Toussaint made conquered French, Spanish, and British officers into his own generals because he recognized slave culture alone couldn't produce the world-class country he envisioned.
+- `INS-260327-3930` Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
+- `INS-260327-390A` Bill Anderson argues that bureaucracy isn't a disease you treat — it's produced by the composition of the organization itself, specifically layers, functional silos, and annual budgets.
+- `INS-260330-DF02` Productivity falls with the square of employee count due to pairwise communication overhead, making alignment the single most important word for scaling companies.
+- `INS-260330-0E4B` At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
+- `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
+- `INS-260330-488B` Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
+- `INS-260330-50A4` Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
+- `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
+- `INS-260327-DAE5` Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
+- `INS-260327-A927` Nvidia feels like working for multiple startups — each division has its own survival pressure, P&L accountability, and startup mentality.
+- `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
+- `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
+- `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
+- `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.

@@ -1,0 +1,41 @@
+# Topic: timing
+
+> 37 insights
+
+- `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
+- `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
+- `INS-260323-9EEC` [high] EUV lithography took 30 years from Kinoshita's 1983 proof-of-concept to ASML's commercial machine because it required convergence of nuclear fusion mirror research, laser-produced plasma, and precision manufacturing — all initially developed in unrelated fields.
+- `INS-260330-318C` [high] Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
+- `INS-260330-230D` [high] Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
+- `INS-260328-93C8` [high] The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
+- `INS-260330-9863` [high] Outsized returns consistently go to people willing to pursue weird-looking opportunities before they become professionalized.
+- `INS-260322-3E59` [high] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
+- `INS-260330-2E58` [high] Innovations fail not because they're bad ideas but because the supporting innovation stack hasn't matured yet.
+- `INS-260330-8907` [high] Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
+- `INS-260330-EFFB` [high] The 2007-2017 era of annual smartphone upgrades was an anomaly of rapid technological improvement, not a sustainable norm—average upgrade cycles stretched from 2 to 4 years as the market matured.
+- `INS-260323-60C1` [high] Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
+- `INS-260329-476D` [high] Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
+- `INS-260330-548B` [high] Prioritize market growth rate over current size when evaluating startup ideas, because a small fast-growing market offers better startup dynamics than a large stagnant one.
+- `INS-260328-58B1` [high] Name the 20 software companies you respect most — not one of them made it in a year.
+- `INS-260325-0F4F` [high] Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
+- `INS-260325-B868` [high] Progress begets progress through feedback loops where inventions like computers and steam engines amplify the capacity to invent further.
+- `INS-260325-A46E` [high] The lesson of the 50-year progress slowdown is that progress requires each generation to actively believe in and invest in it.
+- `INS-260330-9346` [high] At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
+- `INS-260330-39C6` [high] Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
+- `INS-260330-68EF` [high] France was rich but bankrupt because nobles and clergy were exempt from taxes — the inability to extract revenue from those who hold the most is a fatal structural flaw.
+- `INS-260330-D808` [high] The rapid smartphone upgrade cycle of 2007-2016 was an anomaly driven by technology's growth phase, not a permanent market condition.
+- `INS-260325-6F7F` [high] For most of human history, people saw the past as a golden age from which they had fallen — the idea that the future could be better only emerged in the 1500-1600s.
+- `INS-260330-1F25` [high] Look for the widest gap between what's now technically possible and how things are still being done.
+- `INS-260330-D6ED` [high] Build when the delta between what's now possible and how things currently work is at its widest.
+- `INS-260330-7AB8` [high] Look for moments when dropping costs, new platforms, or infrastructure shifts have made something feasible that remains cumbersome in practice — that gap is your opportunity.
+- `INS-260325-6A35` [high] At every 80-year cycle, those whose identity and livelihood depend on the old system fight its replacement with extreme passion — the Civil War being the most extreme example.
+- `INS-260323-F5EF` [high] The same macro forces that create billion-dollar winners also destroy them when conditions shift — timing is not a skill.
+- `INS-260325-EBDD` [high] Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
+- `INS-260328-3446` [high] We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
+- `INS-260328-9C16` [medium] Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
+- `INS-260325-8062` [medium] From 1870-1920 we got electricity, internal combustion, telecom, synthetic chemistry, and public health revolutions; from 1970-2020, mainly just information technology.
+- `INS-260325-66BE` [medium] In 1800 nobody thought lacking refrigerators or plumbing was extreme poverty because it was normal — our descendants may view our era the same way.
+- `INS-260330-4E01` [medium] HEAL sector jobs will outnumber new STEM jobs 3:1 by 2030, but only 24% of HEAL workers are male and the share is falling with no organized effort to reverse it.
+- `INS-260325-B315` [medium] The 25-year boom after systemic collapse historically creates the most dramatic progress and opportunity.
+- `INS-260325-4300` [medium] Progress depends on feedback loops of belief, investment, and results — if society stops believing, it stops building.
+- `INS-260325-F306` [medium] From 1870-1920 humanity had five major technological revolutions; from 1970-2020 we had only one definitive one (computing) and possibly two.

@@ -1,0 +1,5 @@
+# Tag: defense-in-depth
+
+- `INS-260329-47DD` Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
+- `INS-260330-AC7F` CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
+- `INS-260327-3B25` Medieval castles used concentric walls, each higher than the last, so that attackers who breached one wall faced another, more formidable barrier — making the total cost of assault prohibitive.

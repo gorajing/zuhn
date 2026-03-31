@@ -1,0 +1,61 @@
+---
+id: INS-260330-FB5A
+domain: psychology
+topic: learning
+title: Bayesianism is evolutionarily hardwired but epistemologically broken
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - epistemology
+  - popper
+  - bayesianism
+  - error-correction
+  - critical-thinking
+sources:
+  - type: youtube
+    title: 'The Beginning of Infinity, Part 2'
+    author: Naval
+    url: 'https://www.youtube.com/watch?v=0EPuJZWIBJk'
+date_extracted: '2026-03-30'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Popperian error correction (conjecture + refutation) is superior to Bayesian
+    confidence-building because confidence in a theory peaks right before
+    falsification.
+  standard: >-
+    The Bayesian approach treats knowledge as justified true belief — you
+    accumulate evidence and grow more confident your theory is correct. The
+    fatal flaw: the day before Newton's gravity was shown incomplete by general
+    relativity was the day Bayesians were most confident in it. Popper's
+    alternative says all knowledge is conjectural — we propose explanations and
+    try to refute them. Surviving refutation doesn't make a theory true, just
+    our best current guess. This matters practically because Bayesian thinking
+    closes minds (high confidence = stop questioning), while Popperian thinking
+    keeps them open (all knowledge is provisional = keep testing). We default to
+    Bayesianism because it's how biological systems learn — pattern matching
+    from repeated observation — but our neocortex enables a higher form of
+    reasoning through explanatory models that go beyond surface patterns.
+stance: >-
+  Bayesian reasoning is our biological default because all non-human animals
+  learn through repeated observation, but it fails as an epistemology because
+  the day before a theory is falsified is the day you were most confident in it
+related:
+  - INS-260321-D959
+  - INS-260323-9E30
+  - INS-260320-3798
+  - INS-260327-7DBF
+  - INS-260327-924F
+  - INS-260330-0AE2
+  - PRI-260324-2C9F
+  - PRI-260327-5635
+  - INS-260330-3AF7
+  - INS-260330-0BCC
+---
+The Bayesian approach treats knowledge as justified true belief — you accumulate evidence and grow more confident your theory is correct. The fatal flaw: the day before Newton's gravity was shown incomplete by general relativity was the day Bayesians were most confident in it. Popper's alternative says all knowledge is conjectural — we propose explanations and try to refute them. Surviving refutation doesn't make a theory true, just our best current guess. This matters practically because Bayesian thinking closes minds (high confidence = stop questioning), while Popperian thinking keeps them open (all knowledge is provisional = keep testing). We default to Bayesianism because it's how biological systems learn — pattern matching from repeated observation — but our neocortex enables a higher form of reasoning through explanatory models that go beyond surface patterns.

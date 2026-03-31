@@ -1,0 +1,58 @@
+---
+id: INS-260326-2E56
+domain: psychology
+topic: relationships
+title: 'The jerk-promotion cycle: how teams drift from empathy to toxicity'
+actionability: reference
+confidence: medium
+shelf_life: evergreen
+status: active
+tags:
+  - team-dynamics
+  - culture-drift
+  - toxic-cultures
+  - feedback
+sources:
+  - type: youtube
+    title: How to Lead With Radical Candor | Kim Scott | TED
+    author: TED
+    url: 'https://www.youtube.com/watch?v=vmxHUiiHgNk'
+date_extracted: '2026-03-26'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    When a team's culture prioritizes niceness over candor, the loudest and most
+    aggressive person rises while everyone else retreats into passive-aggressive
+    behavior.
+  standard: >-
+    Scott describes a predictable cycle: small teams start radically candid
+    because they know each other well. Success leads to growth, which brings the
+    gravitational pull of ruinous empathy — people stop giving direct feedback.
+    Eventually, someone bursts out with harsh truth. Because it works (in a
+    vacuum of honesty), that behavior gets rewarded and even promoted. Others
+    rationalize: 'she didn't mean any harm.'
+
+
+    This is the inflection point. Once jerks win, the rest of the team slides to
+    manipulative insincerity — talking about people behind their backs rather
+    than to their faces. The antidote is recognizing this drift early and
+    establishing norms of candor before the culture calcifies around avoidance.
+stance: >-
+  Teams that default to niceness inevitably promote aggressive individuals
+  because bluntness gets results in a culture that avoids confrontation.
+related:
+  - INS-260323-6BF4
+  - INS-260327-70DF
+  - INS-260329-E45A
+  - INS-260323-DE39
+  - INS-260325-36EA
+  - INS-260327-58ED
+  - INS-260330-51B1
+---
+Scott describes a predictable cycle: small teams start radically candid because they know each other well. Success leads to growth, which brings the gravitational pull of ruinous empathy — people stop giving direct feedback. Eventually, someone bursts out with harsh truth. Because it works (in a vacuum of honesty), that behavior gets rewarded and even promoted. Others rationalize: 'she didn't mean any harm.'
+
+This is the inflection point. Once jerks win, the rest of the team slides to manipulative insincerity — talking about people behind their backs rather than to their faces. The antidote is recognizing this drift early and establishing norms of candor before the culture calcifies around avoidance.

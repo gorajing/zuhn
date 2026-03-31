@@ -1,0 +1,25 @@
+# MagnatesMedia — Top 20 Videos by Views (Batch Ingest Tracker)
+# Format: STATUS | VIDEO_ID | VIEWS | TITLE [| SRC_ID]
+# STATUS: PENDING / INGESTED / EXTRACTED / SKIP / FAILED
+# Generated: 2026-03-30
+# Source: https://www.youtube.com/@MagnatesMedia/videos
+INGESTED | 51fWzJ-A5w4 | 12034763 | The Secret Chinese Company That Owns Everything | SRC-260330-3A94
+INGESTED | ELu8y6eK-0g | 7589188 | The Disturbing History of Coca-Cola | SRC-260330-CEE1
+INGESTED | fNh_GyRbJDA | 7491745 | Rockefeller: The World’s First Billionaire | SRC-260330-796E
+INGESTED | UXZzyKTsBMw | 6536466 | Why Netflix is Collapsing: The Truth About Netflix's Empire | SRC-260330-E45F
+INGESTED | fsfoqdqyykI | 5980045 | The Most Illegal Business In The World: Silk Road | SRC-260330-6A0C
+INGESTED | v2OYxD_7uuI | 5349336 | The Homeless Teen Who Created Louis Vuitton | SRC-260330-9F23
+INGESTED | FQd5bo9nIZs | 5249154 | How WhatsApp Makes Money: The INSANE Story of WhatsApp | SRC-260330-7BD5
+INGESTED | B8d4uqQjk6o | 5158649 | Levels of Wealth: Inside The Secret Lives of The Ultra-Rich | SRC-260330-B597
+INGESTED | LgDQG-ZKRFg | 4595652 | Ponzi: The Financial Idiot Who Scammed the World | SRC-260330-F3B1
+INGESTED | FHr1WnAn-kU | 4318174 | The Man Who Robbed An Entire Country | SRC-260330-C580
+INGESTED | x1_a20ZDBlU | 4259298 | J.P. Morgan: The Man Who Owned America | SRC-260330-05E7
+INGESTED | gHXaUDx7P0Y | 3974566 | How A Kid With $0 Created Nike | SRC-260330-705B
+INGESTED | HMgpUqugtOU | 3021226 | Nestlé's Darkest Secret: The Disturbing Truth | SRC-260330-CF33
+INGESTED | ISIjlRExdpE | 2942576 | The Uber Story: Fraud, Betrayal, Death & Cars | SRC-260330-7055
+INGESTED | -q8nIhhwkVs | 2928854 | The Unicorn Hunter: The Craziest Billionaire EVER | SRC-260330-A2D0
+INGESTED | djk159kLBwA | 2913226 | The INSANE Truth About TikTok | SRC-260330-02AE
+INGESTED | MhspjNiER9Q | 2869769 | The CRAZY Truth About McDonald's | SRC-260330-D85C
+INGESTED | 6jv98VfM3vQ | 2649516 | The Untold Truth of Instagram - The INSANE Full Story | SRC-260330-9767
+INGESTED | QJh1LkOM4KY | 2540347 | The INSANE Story of Domino's Pizza | SRC-260330-E49C
+INGESTED | pkXrny5QZLU | 2466520 | The Illegal Rise of Spotify | SRC-260330-B503

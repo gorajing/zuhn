@@ -1,0 +1,1906 @@
+import type Database from "better-sqlite3";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { readdirSync, existsSync, readFileSync } from "node:fs";
+import { join } from "node:path";
+import { createHash } from "node:crypto";
+import fg from "fast-glob";
+import matter from "gray-matter";
+import { generateTensionId } from "./generate-id";
+
+// ─── Types ──────────────────────────────────────────────────────────
+
+export interface ConnectionResult {
+  totalUpdated: number;
+  connections: Array<{ id: string; related: string[] }>;
+}
+
+export interface EmergenceFlag {
+  domain: string;
+  topic: string;
+  insightCount: number;
+  principleCount: number;
+}
+
+export interface ConfidenceChange {
+  id: string;
+  oldConfidence: string;
+  newConfidence: string;
+  reason: string;
+}
+
+export interface ClusterFlag {
+  insightIds: string[];
+  topics: string[];
+  sharedTags: string[];
+}
+
+export interface GapFlag {
+  topicA: string;
+  topicB: string;
+  countA: number;
+  countB: number;
+  sharedTags: string[];
+}
+
+export interface TransferFlag {
+  principleId: string;
+  principleTitle: string;
+  principleDomain: string;
+  targetInsightId: string;
+  targetDomain: string;
+  targetTopic: string;
+  similarity: number;
+}
+
+export interface SynthesizeFlag {
+  principleA: string;
+  titleA: string;
+  domainA: string;
+  principleB: string;
+  titleB: string;
+  domainB: string;
+  similarity: number;
+}
+
+export interface TensionResult {
+  newTensions: number;
+  tensions: Array<{ id: string; title: string; sideA: string; sideB: string }>;
+}
+
+export interface EmpiricalChange {
+  resolvedId: string;
+  resolvedStatus: string;
+  affectedId: string;
+  oldConfidence: string;
+  newConfidence: string;
+  cascade: "direct" | "supporting";
+}
+
+export interface LearningFlags {
+  compress: EmergenceFlag[];
+  discover: ClusterFlag[];
+  gaps: GapFlag[];
+  transfers: TransferFlag[];
+  synthesize: SynthesizeFlag[];
+}
+
+interface NeighborRow {
+  id: string;
+  distance: number;
+}
+
+// ─── Confidence levels (ordered) ────────────────────────────────────
+
+const CONFIDENCE_LEVELS = ["pending", "low", "medium", "high", "very_high"];
+
+function confidenceRank(level: string): number {
+  const idx = CONFIDENCE_LEVELS.indexOf(level);
+  return idx === -1 ? 0 : idx;
+}
+
+// ─── Mechanism 1: Automatic Connection Discovery ────────────────────
+
+/**
+ * For each insight with an embedding, find the top-5 most similar
+ * insights by cosine similarity. Update the `related` field in
+ * each insight's YAML frontmatter. Connections are bidirectional.
+ */
+export async function discoverConnections(
+  db: Database.Database,
+  kbRoot: string
+): Promise<ConnectionResult> {
+  // 1. Get all embedded insight IDs
+  const embeddedRows = db
+    .prepare("SELECT id FROM embeddings")
+    .all() as { id: string }[];
+
+  if (embeddedRows.length === 0) {
+    return { totalUpdated: 0, connections: [] };
+  }
+
+  // 2. For each insight, query the vec0 table for 6 nearest neighbors
+  //    (top 6 because the first result is the insight itself)
+  const neighborStmt = db.prepare(`
+    SELECT id, distance
+    FROM embeddings
+    WHERE embedding MATCH (SELECT embedding FROM embeddings WHERE id = ?)
+    ORDER BY distance
+    LIMIT 6
+  `);
+
+  // Build a map: insightId -> top-5 related IDs (excluding self)
+  const rawConnections = new Map<string, string[]>();
+
+  for (const row of embeddedRows) {
+    const neighbors = neighborStmt.all(row.id) as NeighborRow[];
+    // Skip self-match (position 0, distance ~0)
+    const related = neighbors
+      .filter((n) => n.id !== row.id)
+      .slice(0, 5)
+      .map((n) => n.id);
+    rawConnections.set(row.id, related);
+  }
+
+  // 3. Make bidirectional: if A relates to B, B also relates to A
+  const bidirectional = new Map<string, Set<string>>();
+
+  for (const [id, related] of rawConnections) {
+    if (!bidirectional.has(id)) bidirectional.set(id, new Set());
+    for (const relId of related) {
+      bidirectional.get(id)!.add(relId);
+      if (!bidirectional.has(relId)) bidirectional.set(relId, new Set());
+      bidirectional.get(relId)!.add(id);
+    }
+  }
+
+  // 4. Get file paths for all insights that need updating
+  const insightStmt = db.prepare(
+    "SELECT id, file_path FROM insights WHERE id = ?"
+  );
+
+  let totalUpdated = 0;
+  const connections: Array<{ id: string; related: string[] }> = [];
+
+  for (const [id, relatedSet] of bidirectional) {
+    // Cap at 10 related IDs
+    const relatedArray = [...relatedSet].slice(0, 10);
+
+    const insightRow = insightStmt.get(id) as
+      | { id: string; file_path: string }
+      | undefined;
+    if (!insightRow) continue;
+
+    // Resolve file path (may be relative to kbRoot or absolute)
+    const filePath = insightRow.file_path.startsWith("/")
+      ? insightRow.file_path
+      : join(kbRoot, insightRow.file_path);
+
+    try {
+      const updated = await updateFrontmatterRelated(filePath, relatedArray);
+      if (updated) {
+        totalUpdated++;
+        connections.push({ id, related: relatedArray });
+        console.log(`Connected ${id} → [${relatedArray.join(", ")}]`);
+      }
+    } catch (err) {
+      // File might not exist or be unreadable — skip
+      const msg = err instanceof Error ? err.message : String(err);
+      console.warn(`Warning: could not update ${id}: ${msg}`);
+    }
+  }
+
+  return { totalUpdated, connections };
+}
+
+/**
+ * Read an insight file, update the `related` array in frontmatter,
+ * and write it back. Returns true if the file was changed.
+ */
+async function updateFrontmatterRelated(
+  filePath: string,
+  relatedIds: string[]
+): Promise<boolean> {
+  const raw = await readFile(filePath, "utf-8");
+  const { data, content } = matter(raw);
+
+  const existing = Array.isArray(data.related) ? data.related : [];
+  const sorted = [...relatedIds].sort();
+  const existingSorted = [...existing].sort();
+
+  // Skip if no change
+  if (
+    sorted.length === existingSorted.length &&
+    sorted.every((v, i) => v === existingSorted[i])
+  ) {
+    return false;
+  }
+
+  data.related = relatedIds;
+  const output = matter.stringify(content, data);
+  await writeFile(filePath, output, "utf-8");
+  return true;
+}
+
+// ─── Mechanism 2: Principle Emergence Detection ─────────────────────
+
+/**
+ * Checks each topic's insight:principle ratio. If insights >= 5
+ * and principles == 0 (or ratio > 5:1), flags for compression.
+ */
+export async function detectEmergence(
+  kbRoot: string
+): Promise<EmergenceFlag[]> {
+  // 1. Count insights per domain/topic by scanning domains/
+  const insightFiles = await fg("domains/**/*.md", {
+    cwd: kbRoot,
+    absolute: true,
+    ignore: ["**/_overview.md", "**/_summary.md"],
+  });
+
+  const topicCounts = new Map<string, number>();
+  const insightIdToTopic = new Map<string, string>();
+
+  for (const filePath of insightFiles) {
+    try {
+      const raw = await readFile(filePath, "utf-8");
+      const { data } = matter(raw);
+      if (data.domain && data.topic) {
+        const key = `${data.domain}/${data.topic}`;
+        topicCounts.set(key, (topicCounts.get(key) ?? 0) + 1);
+        if (data.id) {
+          insightIdToTopic.set(data.id as string, key);
+        }
+      }
+    } catch {
+      // Skip unreadable files
+    }
+  }
+
+  // 2. Count principles per topic by mapping supporting_insights back to topics
+  const principleFiles = await fg("principles/**/*.md", {
+    cwd: kbRoot,
+    absolute: true,
+    ignore: ["**/_index.md"],
+  });
+
+  const principleCounts = new Map<string, number>();
+
+  for (const filePath of principleFiles) {
+    try {
+      const raw = await readFile(filePath, "utf-8");
+      const { data } = matter(raw);
+      if (!data.domain) continue;
+
+      const topicsForPrinciple = new Set<string>();
+
+      // Map principle to topics via its supporting insights
+      if (Array.isArray(data.supporting_insights)) {
+        for (const insId of data.supporting_insights) {
+          const topicKey = insightIdToTopic.get(insId as string);
+          if (topicKey) topicsForPrinciple.add(topicKey);
+        }
+      }
+
+      if (topicsForPrinciple.size > 0) {
+        // Count toward each topic this principle supports
+        for (const topicKey of topicsForPrinciple) {
+          principleCounts.set(topicKey, (principleCounts.get(topicKey) ?? 0) + 1);
+        }
+      } else {
+        // Orphan principle (no resolvable insights) — count toward all topics in domain
+        for (const key of topicCounts.keys()) {
+          if (key.startsWith(`${data.domain}/`)) {
+            principleCounts.set(key, (principleCounts.get(key) ?? 0) + 1);
+          }
+        }
+      }
+    } catch {
+      // Skip unreadable files
+    }
+  }
+
+  // 3. Flag topics using tiered thresholds based on topic size
+  //    - Tiny topics (<15 insights): skip — not enough signal to compress
+  //    - Small topics (15-49): flag if 0 principles
+  //    - Medium topics (50-99): flag if ratio > 10:1
+  //    - Large topics (100+): flag if ratio > 8:1
+  const flags: EmergenceFlag[] = [];
+
+  for (const [key, insightCount] of topicCounts) {
+    const [domain, topic] = key.split("/");
+    const principleCount = principleCounts.get(key) ?? 0;
+
+    let shouldFlag = false;
+    if (insightCount < 15) {
+      // Tiny topics: skip
+    } else if (insightCount < 50) {
+      // Small topics: flag only if zero principles
+      shouldFlag = principleCount === 0;
+    } else if (insightCount < 100) {
+      // Medium topics: flag if ratio > 10:1
+      shouldFlag = principleCount === 0 || insightCount / principleCount > 10;
+    } else {
+      // Large topics: flag if ratio > 8:1
+      shouldFlag = principleCount === 0 || insightCount / principleCount > 8;
+    }
+
+    if (shouldFlag) {
+      flags.push({ domain, topic, insightCount, principleCount });
+    }
+  }
+
+  // Sort by insight count descending for consistent output
+  flags.sort((a, b) => b.insightCount - a.insightCount);
+
+  return flags;
+}
+
+// ─── Mechanism 3: Confidence Propagation ────────────────────────────
+
+/**
+ * When two insights from DIFFERENT sources have >0.85 cosine similarity,
+ * they corroborate each other and confidence increases.
+ *
+ * Cosine distance in vec0 = 1 - cosine_similarity
+ * So similarity > 0.85 means distance < 0.15
+ */
+export async function propagateConfidence(
+  db: Database.Database,
+  kbRoot: string
+): Promise<ConfidenceChange[]> {
+  const SIMILARITY_THRESHOLD = 0.85; // cosine similarity
+  const DISTANCE_THRESHOLD = 1 - SIMILARITY_THRESHOLD; // 0.15
+
+  // 1. Get all embedded insights with their metadata
+  const insightRows = db
+    .prepare(`
+      SELECT i.id, i.confidence, i.file_path, i.domain, i.topic
+      FROM insights i
+      WHERE EXISTS (SELECT 1 FROM embeddings e WHERE e.id = i.id)
+    `)
+    .all() as Array<{
+    id: string;
+    confidence: string;
+    file_path: string;
+    domain: string;
+    topic: string;
+  }>;
+
+  if (insightRows.length === 0) return [];
+
+  // Build a map for quick lookup
+  const insightMap = new Map(insightRows.map((r) => [r.id, r]));
+
+  // 2. Load source info and empirical_state from frontmatter for each insight
+  const sourceMap = new Map<string, { type: string; title: string }>();
+  const empiricalStateMap = new Map<string, string>();
+
+  for (const row of insightRows) {
+    const filePath = row.file_path.startsWith("/")
+      ? row.file_path
+      : join(kbRoot, row.file_path);
+
+    try {
+      const raw = await readFile(filePath, "utf-8");
+      const { data } = matter(raw);
+      if (data.sources && Array.isArray(data.sources) && data.sources.length > 0) {
+        sourceMap.set(row.id, {
+          type: data.sources[0].type ?? "unknown",
+          title: data.sources[0].title ?? "unknown",
+        });
+      }
+      if (data.empirical_state) {
+        empiricalStateMap.set(row.id, data.empirical_state);
+      }
+    } catch {
+      // Skip unreadable files
+    }
+  }
+
+  // 3. For each insight, find high-similarity neighbors from different sources
+  const neighborStmt = db.prepare(`
+    SELECT id, distance
+    FROM embeddings
+    WHERE embedding MATCH (SELECT embedding FROM embeddings WHERE id = ?)
+    ORDER BY distance
+    LIMIT 6
+  `);
+
+  // Track corroborations per insight
+  const corroborations = new Map<
+    string,
+    Array<{ fromId: string; sourceType: string; sourceTitle: string }>
+  >();
+
+  for (const row of insightRows) {
+    const neighbors = neighborStmt.all(row.id) as NeighborRow[];
+    const mySource = sourceMap.get(row.id);
+    if (!mySource) continue;
+
+    for (const neighbor of neighbors) {
+      if (neighbor.id === row.id) continue; // skip self
+      if (neighbor.distance > DISTANCE_THRESHOLD) continue; // not similar enough
+
+      const neighborSource = sourceMap.get(neighbor.id);
+      if (!neighborSource) continue;
+
+      // Check if different source (different title)
+      if (neighborSource.title === mySource.title) continue;
+
+      // Echo chamber dampening: same platform + same community = 0.5x
+      // We model this by requiring distinct source types for higher confidence
+      if (!corroborations.has(row.id)) corroborations.set(row.id, []);
+      corroborations.get(row.id)!.push({
+        fromId: neighbor.id,
+        sourceType: neighborSource.type,
+        sourceTitle: neighborSource.title,
+      });
+    }
+  }
+
+  // 4. Apply confidence transition rules
+  const changes: ConfidenceChange[] = [];
+
+  for (const [id, corbs] of corroborations) {
+    const insight = insightMap.get(id);
+    if (!insight) continue;
+
+    // Empirical guard: reality overrides consensus
+    // If this insight was empirically falsified, structural consensus cannot boost it
+    if (empiricalStateMap.get(id) === "falsified") continue;
+
+    const oldConfidence = insight.confidence;
+
+    // Count distinct source types (with echo chamber dampening)
+    const sourceTypes = new Set(corbs.map((c) => c.sourceType));
+    const sourceTitles = new Set(corbs.map((c) => c.sourceTitle));
+
+    // Calculate effective corroboration weight
+    // Same type sources count as 0.5x weight each
+    let effectiveWeight = 0;
+    for (const corb of corbs) {
+      // Check if this is an "echo chamber" corroboration
+      // (same source type as the insight being evaluated)
+      const mySource = sourceMap.get(id);
+      if (mySource && corb.sourceType === mySource.type) {
+        effectiveWeight += 0.5;
+      } else {
+        effectiveWeight += 1.0;
+      }
+    }
+
+    // Determine new confidence level
+    let newConfidence: string;
+    if (effectiveWeight >= 3 && sourceTypes.size >= 3) {
+      newConfidence = "very_high";
+    } else if (effectiveWeight >= 2 && sourceTypes.size >= 2) {
+      newConfidence = "high";
+    } else if (effectiveWeight >= 1) {
+      newConfidence = "medium";
+    } else {
+      newConfidence = "low";
+    }
+
+    // Only INCREASE confidence, never decrease
+    if (confidenceRank(newConfidence) <= confidenceRank(oldConfidence)) {
+      continue;
+    }
+
+    // Update the frontmatter
+    const filePath = insight.file_path.startsWith("/")
+      ? insight.file_path
+      : join(kbRoot, insight.file_path);
+
+    try {
+      await updateFrontmatterConfidence(filePath, newConfidence);
+
+      // Also update the DB
+      db.prepare("UPDATE insights SET confidence = ? WHERE id = ?").run(
+        newConfidence,
+        id
+      );
+
+      const reason = `corroborated by ${corbs.map((c) => c.fromId).join(", ")} from ${sourceTitles.size} distinct source(s)`;
+      changes.push({ id, oldConfidence, newConfidence, reason });
+      console.log(
+        `${id} confidence: ${oldConfidence} → ${newConfidence} (${reason})`
+      );
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : String(err);
+      console.warn(`Warning: could not update confidence for ${id}: ${msg}`);
+    }
+  }
+
+  return changes;
+}
+
+/**
+ * Update the confidence field in an insight file's frontmatter.
+ */
+async function updateFrontmatterConfidence(
+  filePath: string,
+  newConfidence: string
+): Promise<void> {
+  const raw = await readFile(filePath, "utf-8");
+  const { data, content } = matter(raw);
+
+  data.confidence = newConfidence;
+  const output = matter.stringify(content, data);
+  await writeFile(filePath, output, "utf-8");
+}
+
+// ─── Mechanism 4: Cluster Discovery ─────────────────────────────────
+
+/**
+ * Build a KNN graph of insight embeddings and run Louvain community
+ * detection. Flag communities that span 2+ distinct topics.
+ */
+export async function discoverClusters(
+  db: Database.Database,
+  _kbRoot: string
+): Promise<ClusterFlag[]> {
+  // 1. Get all insight embeddings
+  const rows = db
+    .prepare("SELECT id, embedding FROM embeddings WHERE id LIKE 'INS-%'")
+    .all() as Array<{ id: string; embedding: Buffer }>;
+
+  if (rows.length < 2) return [];
+
+  // 2. Dynamic import for ESM-only graphology modules
+  const { default: Graph } = await import("graphology");
+  const { default: louvain } = await import("graphology-communities-louvain");
+
+  const graph = new Graph();
+
+  // Add all insight nodes
+  for (const row of rows) {
+    graph.addNode(row.id);
+  }
+
+  // 3. For each insight, query top-10 neighbors; add edge if distance < 0.70
+  //    (cosine similarity > 0.30 — calibrated to nomic-embed-text distribution
+  //     where nearest neighbors typically have distance 0.65-0.85)
+  const neighborStmt = db.prepare(`
+    SELECT id, distance
+    FROM embeddings
+    WHERE embedding MATCH (SELECT embedding FROM embeddings WHERE id = ?)
+    ORDER BY distance
+    LIMIT 11
+  `);
+
+  for (const row of rows) {
+    const neighbors = neighborStmt.all(row.id) as NeighborRow[];
+    for (const n of neighbors) {
+      if (n.id === row.id) continue;
+      if (n.distance >= 0.70) continue;
+      if (!graph.hasNode(n.id)) continue;
+      if (!graph.hasEdge(row.id, n.id) && !graph.hasEdge(n.id, row.id)) {
+        graph.addEdge(row.id, n.id, { weight: 1 - n.distance });
+      }
+    }
+  }
+
+  // If no edges, no communities to detect
+  if (graph.size === 0) return [];
+
+  // 4. Run Louvain community detection
+  const communities = louvain(graph);
+
+  // 5. Group insights by community
+  const communityMap = new Map<number, string[]>();
+  for (const [nodeId, community] of Object.entries(communities)) {
+    const comm = community as number;
+    if (!communityMap.has(comm)) communityMap.set(comm, []);
+    communityMap.get(comm)!.push(nodeId);
+  }
+
+  // 6. For each community, check if it spans 2+ distinct topics
+  const insightMetaStmt = db.prepare(
+    "SELECT id, domain, topic, tags FROM insights WHERE id = ?"
+  );
+
+  const flags: ClusterFlag[] = [];
+
+  for (const [, insightIds] of communityMap) {
+    if (insightIds.length < 2) continue;
+
+    const topicsSet = new Set<string>();
+    const allTagSets: Set<string>[] = [];
+
+    for (const id of insightIds) {
+      const meta = insightMetaStmt.get(id) as
+        | { id: string; domain: string; topic: string; tags: string }
+        | undefined;
+      if (!meta) continue;
+      topicsSet.add(`${meta.domain}/${meta.topic}`);
+      const tags = meta.tags.split(" ").filter(Boolean);
+      allTagSets.push(new Set(tags));
+    }
+
+    // Only flag cross-topic clusters
+    if (topicsSet.size < 2) continue;
+
+    // Find shared tags across all insights in the cluster
+    let sharedTags: string[] = [];
+    if (allTagSets.length > 0) {
+      const firstSet = allTagSets[0];
+      sharedTags = [...firstSet].filter((tag) =>
+        allTagSets.every((s) => s.has(tag))
+      );
+    }
+
+    flags.push({
+      insightIds,
+      topics: [...topicsSet],
+      sharedTags,
+    });
+  }
+
+  return flags;
+}
+
+// ─── Mechanism 5: Gap Detection ─────────────────────────────────────
+
+/**
+ * Detect topics that are semantically similar but have very different
+ * insight counts (ratio > 3:1). These are knowledge gaps.
+ */
+export async function detectGaps(
+  db: Database.Database,
+  _kbRoot: string
+): Promise<GapFlag[]> {
+  // 1. Get insight embeddings grouped by topic
+  const rows = db
+    .prepare(`
+      SELECT i.id, i.topic, i.domain, i.tags, e.embedding
+      FROM insights i
+      JOIN embeddings e ON i.id = e.id
+      WHERE i.id LIKE 'INS-%'
+    `)
+    .all() as Array<{
+    id: string;
+    topic: string;
+    domain: string;
+    tags: string;
+    embedding: Buffer;
+  }>;
+
+  if (rows.length === 0) return [];
+
+  // 2. Group by topic and compute centroids
+  const topicGroups = new Map<
+    string,
+    { embeddings: number[][]; tags: Set<string>; count: number; domain: string }
+  >();
+
+  for (const row of rows) {
+    const key = `${row.domain}/${row.topic}`;
+    if (!topicGroups.has(key)) {
+      topicGroups.set(key, {
+        embeddings: [],
+        tags: new Set(),
+        count: 0,
+        domain: row.domain,
+      });
+    }
+    const group = topicGroups.get(key)!;
+
+    // Parse embedding buffer into float array
+    const buf = row.embedding;
+    const floats = new Float32Array(
+      buf.buffer,
+      buf.byteOffset,
+      buf.byteLength / 4
+    );
+    group.embeddings.push(Array.from(floats));
+
+    for (const tag of row.tags.split(" ").filter(Boolean)) {
+      group.tags.add(tag);
+    }
+    group.count++;
+  }
+
+  // Need at least 2 topics to compare
+  if (topicGroups.size < 2) return [];
+
+  // 3. Compute centroid for each topic and L2-normalize
+  const centroids = new Map<string, { vec: number[]; count: number; tags: Set<string> }>();
+
+  for (const [topic, group] of topicGroups) {
+    const dim = group.embeddings[0].length;
+    const centroid = new Array(dim).fill(0);
+
+    for (const emb of group.embeddings) {
+      for (let i = 0; i < dim; i++) {
+        centroid[i] += emb[i];
+      }
+    }
+    for (let i = 0; i < dim; i++) {
+      centroid[i] /= group.count;
+    }
+
+    // L2-normalize
+    let magnitude = 0;
+    for (let i = 0; i < dim; i++) {
+      magnitude += centroid[i] * centroid[i];
+    }
+    magnitude = Math.sqrt(magnitude);
+    if (magnitude > 0) {
+      for (let i = 0; i < dim; i++) {
+        centroid[i] /= magnitude;
+      }
+    }
+
+    centroids.set(topic, { vec: centroid, count: group.count, tags: group.tags });
+  }
+
+  // 4. For each pair of topics, compute cosine similarity and check for gaps
+  const flags: GapFlag[] = [];
+  const topicKeys = [...centroids.keys()];
+
+  for (let a = 0; a < topicKeys.length; a++) {
+    for (let b = a + 1; b < topicKeys.length; b++) {
+      const keyA = topicKeys[a];
+      const keyB = topicKeys[b];
+      const dataA = centroids.get(keyA)!;
+      const dataB = centroids.get(keyB)!;
+
+      // Cosine similarity via dot product (vectors are already L2-normalized)
+      let sim = 0;
+      for (let i = 0; i < dataA.vec.length; i++) {
+        sim += dataA.vec[i] * dataB.vec[i];
+      }
+
+      // Similar topics (sim > 0.83) with count ratio > 3:1 and shared tags >= 2
+      if (sim > 0.83) {
+        const ratio = Math.max(dataA.count, dataB.count) / Math.min(dataA.count, dataB.count);
+        if (ratio > 3) {
+          // Find shared tags — require at least 2 to filter noise
+          const sharedTags = [...dataA.tags].filter((t) => dataB.tags.has(t));
+          if (sharedTags.length < 2) continue;
+
+          // Order so topicA is the larger one
+          if (dataA.count >= dataB.count) {
+            flags.push({
+              topicA: keyA,
+              topicB: keyB,
+              countA: dataA.count,
+              countB: dataB.count,
+              sharedTags,
+            });
+          } else {
+            flags.push({
+              topicA: keyB,
+              topicB: keyA,
+              countA: dataB.count,
+              countB: dataA.count,
+              sharedTags,
+            });
+          }
+        }
+      }
+    }
+  }
+
+  return flags;
+}
+
+// ─── Mechanism 6: Transfer Detection ────────────────────────────────
+
+/**
+ * Find principles that may apply to insights in OTHER domains,
+ * filtered by the "surprise" heuristic (zero shared tags).
+ */
+export async function detectTransfers(
+  db: Database.Database,
+  kbRoot: string
+): Promise<TransferFlag[]> {
+  // 1. Get all principle embeddings
+  const principleEmbRows = db
+    .prepare("SELECT id, embedding FROM embeddings WHERE id LIKE 'PRI-%'")
+    .all() as Array<{ id: string; embedding: Buffer }>;
+
+  if (principleEmbRows.length === 0) return [];
+
+  // 2. Get principle metadata from files
+  const principleFiles = await fg("principles/**/*.md", {
+    cwd: kbRoot,
+    absolute: true,
+    ignore: ["**/_index.md"],
+  });
+
+  const principleMetaMap = new Map<
+    string,
+    { title: string; domain: string; tags: Set<string> }
+  >();
+
+  for (const filePath of principleFiles) {
+    try {
+      const raw = await readFile(filePath, "utf-8");
+      const { data } = matter(raw);
+      if (data.id && data.domain && data.title) {
+        principleMetaMap.set(data.id, {
+          title: data.title,
+          domain: data.domain,
+          tags: new Set(Array.isArray(data.tags) ? data.tags : []),
+        });
+      }
+    } catch {
+      // Skip unreadable files
+    }
+  }
+
+  // 3. For each principle, find nearest insights from other domains
+  const flags: TransferFlag[] = [];
+
+  for (const row of principleEmbRows) {
+    const pMeta = principleMetaMap.get(row.id);
+    if (!pMeta) continue;
+
+    const buf = row.embedding;
+    const floats = new Float32Array(
+      buf.buffer,
+      buf.byteOffset,
+      buf.byteLength / 4
+    );
+    const embJson = JSON.stringify(Array.from(floats));
+
+    // Query top-20 neighbors
+    const neighbors = db
+      .prepare(`
+        SELECT id, distance
+        FROM embeddings
+        WHERE embedding MATCH ?
+        ORDER BY distance
+        LIMIT 20
+      `)
+      .all(embJson) as NeighborRow[];
+
+    // Filter: other domains, cosine similarity > 0.75, take top 5
+    let crossDomainCount = 0;
+
+    const principleEmb = bufferToFloat32(row.embedding);
+
+    for (const n of neighbors) {
+      if (n.id === row.id) continue;
+      if (!n.id.startsWith("INS-")) continue;
+
+      // Compute actual cosine similarity (vec0 returns L2 distance, not cosine)
+      const neighborEmb = db
+        .prepare("SELECT embedding FROM embeddings WHERE id = ?")
+        .get(n.id) as { embedding: Buffer } | undefined;
+      if (!neighborEmb) continue;
+
+      const sim = cosineSimilarity(principleEmb, bufferToFloat32(neighborEmb.embedding));
+      if (sim < 0.75) continue;
+
+      // Get insight metadata
+      const insightMeta = db
+        .prepare("SELECT id, domain, topic, tags FROM insights WHERE id = ?")
+        .get(n.id) as
+        | { id: string; domain: string; topic: string; tags: string }
+        | undefined;
+      if (!insightMeta) continue;
+
+      // Must be from a different domain
+      if (insightMeta.domain === pMeta.domain) continue;
+
+      // Surprise filter: zero tag overlap
+      const insightTags = new Set(insightMeta.tags.split(" ").filter(Boolean));
+      const hasOverlap = [...pMeta.tags].some((t) => insightTags.has(t));
+      if (hasOverlap) continue;
+
+      flags.push({
+        principleId: row.id,
+        principleTitle: pMeta.title,
+        principleDomain: pMeta.domain,
+        targetInsightId: insightMeta.id,
+        targetDomain: insightMeta.domain,
+        targetTopic: insightMeta.topic,
+        similarity: sim,
+      });
+
+      crossDomainCount++;
+      if (crossDomainCount >= 5) break;
+    }
+  }
+
+  return flags;
+}
+
+// ─── Mechanism 9: Cross-Domain Principle Synthesis ───────────────────
+
+/**
+ * Compare every principle's embedding against principles in OTHER domains.
+ * When two principles from different domains have high cosine similarity
+ * and zero tag overlap, that's a cross-domain structural parallel worth
+ * investigating.
+ *
+ * Unlike TRANSFER (PRI→INS), SYNTHESIZE finds PRI↔PRI parallels —
+ * structural patterns that repeat across domains at the compressed
+ * knowledge level.
+ */
+/**
+ * Compute cosine similarity between two Float32Array embeddings.
+ * Returns a value in [-1, 1], where 1 = identical direction.
+ */
+function cosineSimilarity(a: Float32Array, b: Float32Array): number {
+  let dot = 0, normA = 0, normB = 0;
+  for (let i = 0; i < a.length; i++) {
+    dot += a[i] * b[i];
+    normA += a[i] * a[i];
+    normB += b[i] * b[i];
+  }
+  const denom = Math.sqrt(normA) * Math.sqrt(normB);
+  return denom === 0 ? 0 : dot / denom;
+}
+
+/**
+ * Parse a Buffer from sqlite-vec into a Float32Array.
+ */
+function bufferToFloat32(buf: Buffer): Float32Array {
+  return new Float32Array(buf.buffer, buf.byteOffset, buf.byteLength / 4);
+}
+
+export async function detectSynthesis(
+  db: Database.Database,
+  kbRoot: string
+): Promise<SynthesizeFlag[]> {
+  // 1. Get all principle embeddings
+  const principleEmbRows = db
+    .prepare("SELECT id, embedding FROM embeddings WHERE id LIKE 'PRI-%'")
+    .all() as Array<{ id: string; embedding: Buffer }>;
+
+  if (principleEmbRows.length < 2) return [];
+
+  // 2. Get principle metadata from files
+  const principleFiles = await fg("principles/**/*.md", {
+    cwd: kbRoot,
+    absolute: true,
+    ignore: ["**/_index.md"],
+  });
+
+  const principleMetaMap = new Map<
+    string,
+    { title: string; domain: string; tags: Set<string> }
+  >();
+
+  for (const filePath of principleFiles) {
+    try {
+      const raw = await readFile(filePath, "utf-8");
+      const { data } = matter(raw);
+      if (data.id && data.domain && data.title) {
+        principleMetaMap.set(data.id, {
+          title: data.title,
+          domain: data.domain,
+          tags: new Set(Array.isArray(data.tags) ? data.tags : []),
+        });
+      }
+    } catch {
+      // Skip unreadable files
+    }
+  }
+
+  // 3. Build embedding map for pairwise comparison
+  const embMap = new Map<string, Float32Array>();
+  for (const row of principleEmbRows) {
+    embMap.set(row.id, bufferToFloat32(row.embedding));
+  }
+
+  // 4. Pairwise comparison: all PRI pairs across different domains
+  // At 141 principles, this is ~10K pairs — trivial.
+  const flags: SynthesizeFlag[] = [];
+  const ids = [...embMap.keys()];
+
+  for (let i = 0; i < ids.length; i++) {
+    const idA = ids[i];
+    const metaA = principleMetaMap.get(idA);
+    if (!metaA) continue;
+    const embA = embMap.get(idA)!;
+
+    for (let j = i + 1; j < ids.length; j++) {
+      const idB = ids[j];
+      const metaB = principleMetaMap.get(idB);
+      if (!metaB) continue;
+
+      // Must be from different domains
+      if (metaA.domain === metaB.domain) continue;
+
+      const embB = embMap.get(idB)!;
+      const sim = cosineSimilarity(embA, embB);
+
+      // Similarity threshold: 0.75
+      if (sim < 0.75) continue;
+
+      // Surprise filter: zero tag overlap
+      const hasOverlap = [...metaA.tags].some((t) => metaB.tags.has(t));
+      if (hasOverlap) continue;
+
+      flags.push({
+        principleA: idA,
+        titleA: metaA.title,
+        domainA: metaA.domain,
+        principleB: idB,
+        titleB: metaB.title,
+        domainB: metaB.domain,
+        similarity: sim,
+      });
+    }
+  }
+
+  // Sort by similarity descending — most interesting parallels first
+  flags.sort((a, b) => b.similarity - a.similarity);
+
+  // Write synthesis candidates to JSON for Claude to review
+  if (flags.length > 0) {
+    const candidatesPath = join(kbRoot, "meta", "synthesis-candidates.json");
+    await writeFile(candidatesPath, JSON.stringify(flags, null, 2), "utf-8");
+  }
+
+  return flags;
+}
+
+// ─── Mechanism 7: Tension Detection ──────────────────────────────────
+
+/**
+ * Opposing keyword pairs. If one insight contains keyword A and a
+ * highly similar insight contains keyword B from the SAME pair,
+ * a tension is flagged.
+ */
+const OPPOSING_PAIRS: [string[], string[]][] = [
+  [["always"], ["never"]],
+  [["best"], ["worst"]],
+  [["cheap"], ["expensive", "costly"]],
+  [["simple", "minimal", "less"], ["complex", "comprehensive", "more"]],
+  [["automate", "ai-driven", "machine"], ["human", "manual", "handcraft", "artisan"]],
+  [["speed", "fast", "quick", "rapid"], ["slow", "patient", "deliberate", "long-term"]],
+  [["centralize", "consolidate", "unified", "single"], ["distribute", "decentral", "fragment", "multiple", "diverse"]],
+  [["open-source", "free", "share"], ["proprietary", "closed", "protect", "moat"]],
+  [["specialize", "focus", "niche", "narrow"], ["generalize", "broad", "diverse", "all-purpose"]],
+  [["scale", "grow", "expand"], ["stay small", "bootstrap", "constrain", "limit"]],
+  [["trust", "open", "transparen"], ["verify", "skeptic", "paranoi", "distrust", "guard"]],
+  [["innovate", "disrupt", "new"], ["incremental", "sustain", "stable", "conserv"]],
+  [["data-driven", "metric", "measure"], ["intuiti", "gut", "instinct", "feel"]],
+];
+
+// Positive/negative valence words for polarity flip detection
+const POSITIVE_VALENCE = [
+  "should", "must", "always", "helps", "enables", "creates", "builds",
+  "accelerates", "increases", "advantage", "better", "win", "succeed",
+  "essential", "necessary", "critical", "key", "fundamental",
+];
+const NEGATIVE_VALENCE = [
+  "never", "avoid", "destroys", "kills", "hurts", "prevents", "reduces",
+  "worst", "dangerous", "threat", "risk", "fail", "wrong", "mistake",
+  "overrated", "myth", "illusion", "trap", "false", "misleading",
+];
+
+/**
+ * Score a candidate pair for stance polarity — how likely the pair
+ * represents a genuine tension based on linguistic opposition signals.
+ *
+ * Returns 0 (no opposition detected) to ~7 (strong multi-signal opposition).
+ * Used to RANK candidates, not filter them — no candidate is discarded.
+ */
+function scorePolaritySignals(stanceA: string | null, stanceB: string | null): number {
+  if (!stanceA || !stanceB) return 0;
+  const sa = stanceA.toLowerCase();
+  const sb = stanceB.toLowerCase();
+
+  let score = 0;
+
+  // Check contrasting pattern pairs (each match = +2)
+  for (const [sideAKeywords, sideBKeywords] of OPPOSING_PAIRS) {
+    const aHasFirst = sideAKeywords.some((kw) => new RegExp(`\\b${kw}`, "i").test(sa));
+    const aHasSecond = sideBKeywords.some((kw) => new RegExp(`\\b${kw}`, "i").test(sa));
+    const bHasFirst = sideAKeywords.some((kw) => new RegExp(`\\b${kw}`, "i").test(sb));
+    const bHasSecond = sideBKeywords.some((kw) => new RegExp(`\\b${kw}`, "i").test(sb));
+
+    if ((aHasFirst && bHasSecond) || (aHasSecond && bHasFirst)) {
+      score += 2;
+    }
+  }
+
+  // Check polarity flip: one stance net-positive, other net-negative (+2)
+  const aPos = POSITIVE_VALENCE.filter((w) => sa.includes(w)).length;
+  const aNeg = NEGATIVE_VALENCE.filter((w) => sa.includes(w)).length;
+  const bPos = POSITIVE_VALENCE.filter((w) => sb.includes(w)).length;
+  const bNeg = NEGATIVE_VALENCE.filter((w) => sb.includes(w)).length;
+
+  if ((aPos > aNeg && bNeg > bPos) || (aNeg > aPos && bPos > bNeg)) {
+    score += 2;
+  }
+
+  // Optimal distance range bonus (+1 for 0.22-0.33)
+  // Note: caller passes distance separately since this fn only sees stances
+  return score;
+}
+
+/**
+ * Check if a text contains any keyword from the given set (case-insensitive,
+ * word-boundary match).
+ */
+function containsKeyword(text: string, keywords: string[]): boolean {
+  const lower = text.toLowerCase();
+  return keywords.some((kw) => {
+    const re = new RegExp(`\\b${kw}\\b`, "i");
+    return re.test(lower);
+  });
+}
+
+/**
+ * Candidate pair for Claude-in-conversation tension evaluation.
+ * These are pairs that are semantically close but didn't match
+ * keyword heuristics — they need Claude's judgment.
+ */
+export interface CandidatePair {
+  pair_key: string;
+  id_a: string;
+  id_b: string;
+  title_a: string;
+  title_b: string;
+  stance_a: string | null;
+  stance_b: string | null;
+  confidence_a: string;
+  confidence_b: string;
+  content_distance: number;
+  polarity_score: number;
+}
+
+/**
+ * Detect tensions between highly similar insights that contain
+ * opposing heuristic keywords. Creates tension files in
+ * knowledge-base/tensions/ for each new detection.
+ *
+ * Also collects candidate pairs (distance < 0.35 but no keyword match)
+ * for Claude to evaluate in conversation. Candidates are written to
+ * meta/tension-candidates.json and filtered against the tension_judgments
+ * cache to avoid re-evaluating already-judged pairs.
+ */
+export async function detectTensions(
+  db: Database.Database,
+  kbRoot: string
+): Promise<TensionResult> {
+  const DISTANCE_THRESHOLD = 0.25;
+  const CANDIDATE_THRESHOLD = 0.35;
+
+  // 1. Get all embedded insight IDs
+  const embeddedRows = db
+    .prepare("SELECT id FROM embeddings WHERE id LIKE 'INS-%'")
+    .all() as { id: string }[];
+
+  if (embeddedRows.length < 2) {
+    return { newTensions: 0, tensions: [] };
+  }
+
+  // 2. For each insight, find highly similar neighbors (distance < CANDIDATE_THRESHOLD)
+  const neighborStmt = db.prepare(`
+    SELECT id, distance
+    FROM embeddings
+    WHERE embedding MATCH (SELECT embedding FROM embeddings WHERE id = ?)
+    ORDER BY distance
+    LIMIT 20
+  `);
+
+  // 3. Load one_line text + stance for all insights
+  const insightStmt = db.prepare(
+    "SELECT id, one_line, file_path, title, stance FROM insights WHERE id = ?"
+  );
+
+  // Confidence lookup (separate to avoid duplicating the wider query)
+  const confidenceStmt = db.prepare(
+    "SELECT confidence FROM insights WHERE id = ?"
+  );
+
+  // 4. Scan existing tension files to get already-linked pairs
+  const tensionsDir = join(kbRoot, "tensions");
+  const existingTensionFiles = await fg("*.md", {
+    cwd: tensionsDir,
+    absolute: true,
+    ignore: ["_index.md"],
+  });
+
+  const existingPairs = new Set<string>();
+  for (const tf of existingTensionFiles) {
+    try {
+      const raw = await readFile(tf, "utf-8");
+      const { data } = matter(raw);
+      const sideA = Array.isArray(data.side_a) ? data.side_a : [];
+      const sideB = Array.isArray(data.side_b) ? data.side_b : [];
+      // Build a canonical key for each pair
+      for (const a of sideA) {
+        for (const b of sideB) {
+          const key = [a, b].sort().join("|");
+          existingPairs.add(key);
+        }
+      }
+    } catch {
+      // Skip unreadable tension files
+    }
+  }
+
+  // 5. Check each pair for opposing keywords + collect candidates
+  const seenPairs = new Set<string>();
+  const result: TensionResult = { newTensions: 0, tensions: [] };
+  const candidatePairs: CandidatePair[] = [];
+
+  for (const row of embeddedRows) {
+    const neighbors = neighborStmt.all(row.id) as NeighborRow[];
+
+    const insightA = insightStmt.get(row.id) as
+      | { id: string; one_line: string; file_path: string; title: string; stance: string | null }
+      | undefined;
+    if (!insightA) continue;
+
+    for (const n of neighbors) {
+      if (n.id === row.id) continue;
+      if (n.distance >= CANDIDATE_THRESHOLD) continue;
+      if (!n.id.startsWith("INS-")) continue;
+
+      // Canonical pair key to avoid duplicates
+      const pairKey = [row.id, n.id].sort().join("|");
+      if (seenPairs.has(pairKey)) continue;
+      seenPairs.add(pairKey);
+
+      // Skip if tension already exists
+      if (existingPairs.has(pairKey)) continue;
+
+      const insightB = insightStmt.get(n.id) as
+        | { id: string; one_line: string; file_path: string; title: string; stance: string | null }
+        | undefined;
+      if (!insightB) continue;
+
+      const textA = `${insightA.title} ${insightA.one_line}`;
+      const textB = `${insightB.title} ${insightB.one_line}`;
+
+      // Only run keyword detection on the inner threshold
+      let keywordMatched = false;
+      if (n.distance < DISTANCE_THRESHOLD) {
+        // Check opposing keyword pairs
+        for (const [sideAKeywords, sideBKeywords] of OPPOSING_PAIRS) {
+          const aHasA = containsKeyword(textA, sideAKeywords);
+          const bHasB = containsKeyword(textB, sideBKeywords);
+          const aHasB = containsKeyword(textA, sideBKeywords);
+          const bHasA = containsKeyword(textB, sideAKeywords);
+
+          if ((aHasA && bHasB) || (aHasB && bHasA)) {
+            keywordMatched = true;
+
+            // Tension detected — create file
+            const tensionTitle = `${insightA.title} vs. ${insightB.title}`;
+            const tensionId = generateTensionId(
+              tensionTitle,
+              `${row.id}:${n.id}`
+            );
+
+            const tensionData = {
+              id: tensionId,
+              title: tensionTitle,
+              status: "unresolved",
+              side_a: [row.id],
+              side_b: [n.id],
+            };
+
+            const tensionBody = [
+              "",
+              `**Side A:** "${insightA.one_line}"`,
+              `**Side B:** "${insightB.one_line}"`,
+              "**Resolution:** [To be resolved by Claude during reasoning sessions]",
+              "",
+            ].join("\n");
+
+            const tensionContent = matter.stringify(tensionBody, tensionData);
+
+            // Write tension file
+            const slug = tensionTitle
+              .toLowerCase()
+              .replace(/[^a-z0-9]+/g, "-")
+              .replace(/^-|-$/g, "")
+              .slice(0, 80);
+            const tensionPath = join(tensionsDir, `${slug}.md`);
+
+            await mkdir(tensionsDir, { recursive: true });
+            await writeFile(tensionPath, tensionContent, "utf-8");
+
+            result.newTensions++;
+            result.tensions.push({
+              id: tensionId,
+              title: tensionTitle,
+              sideA: row.id,
+              sideB: n.id,
+            });
+
+            console.log(`  TENSION: ${tensionTitle}`);
+            console.log(`    ${row.id} vs ${n.id}`);
+
+            // Mark this pair as existing now
+            existingPairs.add(pairKey);
+
+            // Only flag one opposing pair per insight pair
+            break;
+          }
+        }
+      }
+
+      // Collect candidate pairs for Claude evaluation
+      // Wider net (< CANDIDATE_THRESHOLD) that didn't match keywords
+      if (!keywordMatched && !existingPairs.has(pairKey)) {
+        let polarityScore = scorePolaritySignals(insightA.stance, insightB.stance);
+        // Optimal distance range bonus
+        if (n.distance >= 0.22 && n.distance <= 0.33) polarityScore += 1;
+        // Too-close penalty (likely near-duplicate)
+        if (n.distance < 0.18) polarityScore -= 2;
+
+        candidatePairs.push({
+          pair_key: pairKey,
+          id_a: row.id,
+          id_b: n.id,
+          title_a: insightA.title,
+          title_b: insightB.title,
+          stance_a: insightA.stance,
+          stance_b: insightB.stance,
+          confidence_a: (confidenceStmt.get(row.id) as { confidence: string } | undefined)?.confidence ?? "medium",
+          confidence_b: (confidenceStmt.get(n.id) as { confidence: string } | undefined)?.confidence ?? "medium",
+          content_distance: Number(n.distance.toFixed(4)),
+          polarity_score: Math.max(0, polarityScore),
+        });
+      }
+    }
+  }
+
+  // 6. Filter candidates against tension_judgments cache
+  const cacheStmt = db.prepare(
+    "SELECT stance_hash FROM tension_judgments WHERE pair_key = ?"
+  );
+
+  const uncachedCandidates = candidatePairs.filter((c) => {
+    // If either stance is NULL, skip cache (always show as candidate pre-backfill)
+    if (!c.stance_a || !c.stance_b) return true;
+
+    const cached = cacheStmt.get(c.pair_key) as { stance_hash: string } | undefined;
+    if (!cached) return true; // not in cache
+
+    // Check stance_hash — if stances changed, invalidate
+    const currentHash = createHash("sha256")
+      .update([c.stance_a, c.stance_b].sort().join("|"))
+      .digest("hex");
+    return cached.stance_hash !== currentHash; // return true if hash changed (re-evaluate)
+  });
+
+  // 7. Write/merge tension candidates file
+  const candidatesPath = join(kbRoot, "meta", "tension-candidates.json");
+  let existingCandidates: CandidatePair[] = [];
+  if (existsSync(candidatesPath)) {
+    try {
+      const existing = JSON.parse(readFileSync(candidatesPath, "utf-8"));
+      existingCandidates = existing.candidates || [];
+    } catch { /* ignore */ }
+  }
+
+  // Merge, dedup by pair_key, sort by polarity_score desc then distance asc
+  const existingKeys = new Set(existingCandidates.map((c: CandidatePair) => c.pair_key));
+  const merged = [
+    ...existingCandidates,
+    ...uncachedCandidates.filter((c) => !existingKeys.has(c.pair_key)),
+  ].sort((a, b) =>
+    (b.polarity_score ?? 0) - (a.polarity_score ?? 0) ||
+    a.content_distance - b.content_distance
+  );
+
+  if (merged.length > 0) {
+    await mkdir(join(kbRoot, "meta"), { recursive: true });
+    await writeFile(
+      candidatesPath,
+      JSON.stringify({
+        generated_at: new Date().toISOString(),
+        candidate_count: merged.length,
+        candidates: merged,
+      }, null, 2) + "\n",
+      "utf-8"
+    );
+  }
+
+  if (uncachedCandidates.length > 0) {
+    const highScore = merged.filter((c) => (c.polarity_score ?? 0) >= 2).length;
+    const medScore = merged.filter((c) => {
+      const s = c.polarity_score ?? 0;
+      return s >= 1 && s < 2;
+    }).length;
+    const lowScore = merged.length - highScore - medScore;
+    console.log(`\n  ${merged.length} tension candidate(s) awaiting Claude review.`);
+    console.log(`    High polarity (≥2): ${highScore} | Medium (1): ${medScore} | Low (0): ${lowScore}`);
+    console.log(`  → Sorted by polarity score desc — review top-down for best signal.\n`);
+  }
+
+  return result;
+}
+
+// ─── Mechanism 8: Empirical Propagation ─────────────────────────────
+
+/**
+ * Scans resolved predictions and decisions. Cascades confidence
+ * changes to supporting principles and insights.
+ *
+ * Rules:
+ * - Success/confirmed: cascade to depth 1 (principle + supporting insights)
+ * - Failure/falsified: cascade to depth 0 only (principle/direct reference)
+ * - Mixed: no cascade, just mark cascaded
+ * - processedIds guard prevents double-dip on shared graph edges
+ * - empirical_state set on affected nodes to guard against mechanism 3 override
+ * - Falsified/failed nodes flip shelf_life: evergreen → time-sensitive
+ * - Falsified/failed outcomes spawn empirical_failure tensions
+ */
+export async function propagateEmpiricalConfidence(
+  db: Database.Database,
+  kbRoot: string
+): Promise<EmpiricalChange[]> {
+  const changes: EmpiricalChange[] = [];
+
+  // 1. Scan predictions for resolved + not cascaded
+  const predictionsDir = join(kbRoot, "predictions");
+  const predFiles: string[] = existsSync(predictionsDir)
+    ? (readdirSync(predictionsDir) as string[])
+        .filter((f: string) => f.endsWith(".md"))
+        .map((f: string) => join(predictionsDir, f))
+    : [];
+
+  for (const filePath of predFiles) {
+    const raw = await readFile(filePath, "utf-8");
+    const { data, content } = matter(raw);
+
+    if (data.cascaded) continue;
+    if (data.status !== "confirmed" && data.status !== "falsified") continue;
+
+    const resolvedId = data.id as string;
+    const resolvedStatus = data.status as string;
+    const derivedFrom = Array.isArray(data.derived_from) ? data.derived_from as string[] : [];
+    const processedIds = new Set<string>();
+
+    const isPositive = resolvedStatus === "confirmed";
+
+    for (const refId of derivedFrom) {
+      if (processedIds.has(refId)) continue;
+
+      const refChanges = await cascadeToNode(
+        db, kbRoot, refId, isPositive, processedIds, resolvedId, resolvedStatus
+      );
+      changes.push(...refChanges);
+
+      // Depth 1: only on success — cascade to supporting insights
+      if (isPositive && refId.startsWith("PRI-")) {
+        const supportingInsights = await getPrincipleSupportingInsights(kbRoot, refId);
+        for (const insId of supportingInsights) {
+          if (processedIds.has(insId)) continue;
+          const subChanges = await cascadeToNode(
+            db, kbRoot, insId, true, processedIds, resolvedId, resolvedStatus, "supporting"
+          );
+          changes.push(...subChanges);
+        }
+      }
+    }
+
+    // Spawn tension on failure
+    if (!isPositive) {
+      await spawnEmpiricalTension(
+        kbRoot,
+        resolvedId,
+        data.claim as string || data.context as string || resolvedId,
+        derivedFrom,
+        data.resolution_notes as string || "",
+      );
+    }
+
+    // Mark cascaded
+    data.cascaded = true;
+    const updated = matter.stringify(content, data);
+    await writeFile(filePath, updated, "utf-8");
+  }
+
+  // 2. Scan decisions for resolved + not cascaded
+  const decisionsDir = join(kbRoot, "decisions");
+  const decFiles: string[] = existsSync(decisionsDir)
+    ? (readdirSync(decisionsDir) as string[])
+        .filter((f: string) => f.endsWith(".md"))
+        .map((f: string) => join(decisionsDir, f))
+    : [];
+
+  for (const filePath of decFiles) {
+    const raw = await readFile(filePath, "utf-8");
+    const { data, content } = matter(raw);
+
+    if (data.cascaded) continue;
+    if (data.status !== "success" && data.status !== "failure" && data.status !== "mixed") continue;
+    // pending decisions are not resolved yet
+    if (data.status === "pending") continue;
+
+    const resolvedId = data.id as string;
+    const resolvedStatus = data.status as string;
+    const informedBy = Array.isArray(data.informed_by) ? data.informed_by as string[] : [];
+    const processedIds = new Set<string>();
+
+    if (resolvedStatus === "mixed") {
+      // No cascade for mixed — just mark cascaded
+      data.cascaded = true;
+      const updated = matter.stringify(content, data);
+      await writeFile(filePath, updated, "utf-8");
+      continue;
+    }
+
+    const isPositive = resolvedStatus === "success";
+
+    for (const refId of informedBy) {
+      if (processedIds.has(refId)) continue;
+
+      const refChanges = await cascadeToNode(
+        db, kbRoot, refId, isPositive, processedIds, resolvedId, resolvedStatus
+      );
+      changes.push(...refChanges);
+
+      // Depth 1: only on success — cascade to supporting insights for principles
+      if (isPositive && refId.startsWith("PRI-")) {
+        const supportingInsights = await getPrincipleSupportingInsights(kbRoot, refId);
+        for (const insId of supportingInsights) {
+          if (processedIds.has(insId)) continue;
+          const subChanges = await cascadeToNode(
+            db, kbRoot, insId, true, processedIds, resolvedId, resolvedStatus, "supporting"
+          );
+          changes.push(...subChanges);
+        }
+      }
+    }
+
+    // Spawn tension on failure
+    if (!isPositive) {
+      await spawnEmpiricalTension(
+        kbRoot,
+        resolvedId,
+        data.context as string || resolvedId,
+        informedBy,
+        data.resolution_notes as string || "",
+      );
+    }
+
+    // Mark cascaded
+    data.cascaded = true;
+    const updated = matter.stringify(content, data);
+    await writeFile(filePath, updated, "utf-8");
+  }
+
+  return changes;
+}
+
+/**
+ * Apply a confidence change to a single node (insight or principle).
+ * Returns the changes applied.
+ */
+async function cascadeToNode(
+  db: Database.Database,
+  kbRoot: string,
+  nodeId: string,
+  isPositive: boolean,
+  processedIds: Set<string>,
+  resolvedId: string,
+  resolvedStatus: string,
+  cascadeType: "direct" | "supporting" = "direct"
+): Promise<EmpiricalChange[]> {
+  processedIds.add(nodeId);
+
+  const isInsight = nodeId.startsWith("INS-");
+  const isPrinciple = nodeId.startsWith("PRI-");
+
+  if (!isInsight && !isPrinciple) return [];
+
+  // Find the file
+  let filePath: string | null = null;
+
+  if (isInsight) {
+    const row = db.prepare("SELECT file_path FROM insights WHERE id = ?").get(nodeId) as
+      | { file_path: string }
+      | undefined;
+    if (row) {
+      filePath = row.file_path.startsWith("/")
+        ? row.file_path
+        : join(kbRoot, row.file_path);
+    }
+  } else if (isPrinciple) {
+    // Principles aren't in the insights table — scan files
+    const principlesDir = join(kbRoot, "principles");
+    if (existsSync(principlesDir)) {
+      const domains = readdirSync(principlesDir, { withFileTypes: true })
+        .filter((d: { isDirectory: () => boolean }) => d.isDirectory())
+        .map((d: { name: string }) => d.name);
+      for (const domain of domains) {
+        const domainDir = join(principlesDir, domain);
+        const files = readdirSync(domainDir).filter((f: string) => f.endsWith(".md"));
+        for (const file of files) {
+          const pf = join(domainDir, file);
+          try {
+            const raw = await readFile(pf, "utf-8");
+            const { data } = matter(raw);
+            if (data.id === nodeId) {
+              filePath = pf;
+              break;
+            }
+          } catch { /* skip */ }
+        }
+        if (filePath) break;
+      }
+    }
+  }
+
+  if (!filePath) return [];
+
+  // Read current state
+  let raw: string;
+  try {
+    raw = await readFile(filePath, "utf-8");
+  } catch {
+    return [];
+  }
+  const { data, content } = matter(raw);
+  const oldConfidence = String(data.confidence || "medium");
+
+  // Calculate new confidence
+  let newConfidence: string;
+  if (isPositive) {
+    newConfidence = boostConfidence(oldConfidence);
+  } else {
+    newConfidence = dropConfidence(oldConfidence);
+  }
+
+  const changes: EmpiricalChange[] = [];
+
+  if (newConfidence !== oldConfidence) {
+    data.confidence = newConfidence;
+    changes.push({
+      resolvedId,
+      resolvedStatus,
+      affectedId: nodeId,
+      oldConfidence,
+      newConfidence,
+      cascade: cascadeType,
+    });
+  }
+
+  // Set empirical_state
+  data.empirical_state = isPositive ? "confirmed" : "falsified";
+
+  // Flip shelf_life on failure
+  if (!isPositive && data.shelf_life === "evergreen") {
+    data.shelf_life = "time-sensitive";
+  }
+
+  // Write back
+  const updated = matter.stringify(content, data);
+  await writeFile(filePath, updated, "utf-8");
+
+  // Update DB for insights
+  if (isInsight && newConfidence !== oldConfidence) {
+    db.prepare("UPDATE insights SET confidence = ? WHERE id = ?").run(
+      newConfidence,
+      nodeId
+    );
+  }
+
+  return changes;
+}
+
+function boostConfidence(current: string): string {
+  const idx = CONFIDENCE_LEVELS.indexOf(current);
+  if (idx === -1 || idx >= CONFIDENCE_LEVELS.length - 1) return current;
+  return CONFIDENCE_LEVELS[idx + 1];
+}
+
+function dropConfidence(current: string): string {
+  const idx = CONFIDENCE_LEVELS.indexOf(current);
+  // Floor at "low" (index 1), never drop to "pending" (index 0)
+  if (idx === -1 || idx <= 1) return CONFIDENCE_LEVELS[1]; // "low"
+  return CONFIDENCE_LEVELS[idx - 1];
+}
+
+/**
+ * Read a principle file and return its supporting_insights array.
+ * Uses readdirSync for reliable path resolution across platforms.
+ */
+async function getPrincipleSupportingInsights(
+  kbRoot: string,
+  principleId: string
+): Promise<string[]> {
+  const principlesDir = join(kbRoot, "principles");
+  if (!existsSync(principlesDir)) return [];
+
+  const domains = readdirSync(principlesDir, { withFileTypes: true })
+    .filter((d: { isDirectory: () => boolean }) => d.isDirectory())
+    .map((d: { name: string }) => d.name);
+
+  for (const domain of domains) {
+    const domainDir = join(principlesDir, domain);
+    const files = readdirSync(domainDir).filter((f: string) => f.endsWith(".md"));
+    for (const file of files) {
+      const pf = join(domainDir, file);
+      try {
+        const raw = await readFile(pf, "utf-8");
+        const { data } = matter(raw);
+        if (data.id === principleId && Array.isArray(data.supporting_insights)) {
+          return data.supporting_insights;
+        }
+      } catch { /* skip */ }
+    }
+  }
+
+  return [];
+}
+
+/**
+ * Spawn an empirical_failure tension when a prediction/decision fails.
+ */
+async function spawnEmpiricalTension(
+  kbRoot: string,
+  resolvedId: string,
+  claimOrContext: string,
+  referencedIds: string[],
+  resolutionNotes: string,
+): Promise<void> {
+  const tensionsDir = join(kbRoot, "tensions");
+  await mkdir(tensionsDir, { recursive: true });
+
+  // Check for existing tension with same side_a
+  const existingFiles: string[] = existsSync(tensionsDir)
+    ? (readdirSync(tensionsDir) as string[])
+        .filter((f: string) => f.endsWith(".md"))
+        .map((f: string) => join(tensionsDir, f))
+    : [];
+  for (const ef of existingFiles) {
+    try {
+      const raw = await readFile(ef, "utf-8");
+      const { data } = matter(raw);
+      const sideA = Array.isArray(data.side_a) ? data.side_a : [];
+      if (sideA.includes(resolvedId)) return; // Already exists
+    } catch { /* skip */ }
+  }
+
+  const title = `Falsified: ${claimOrContext.slice(0, 80)}`;
+  const tensionId = generateTensionId(title, Date.now());
+  const today = new Date().toISOString().slice(0, 10);
+
+  // Find principle IDs in referenced
+  const principleIds = referencedIds.filter((id) => id.startsWith("PRI-"));
+  const insightIds = referencedIds.filter((id) => id.startsWith("INS-"));
+
+  const frontmatter: Record<string, unknown> = {
+    id: tensionId,
+    title,
+    type: "empirical_failure",
+    status: "unresolved",
+    side_a: [resolvedId],
+    side_b: principleIds.length > 0 ? principleIds : referencedIds,
+    source_principle: principleIds[0] || null,
+    resolution_notes: resolutionNotes,
+    date_created: today,
+  };
+
+  // Get supporting insights for the principle to include in investigation prompt
+  let supportingInsightsList = "";
+  if (principleIds.length > 0) {
+    const supportingInsights = await getPrincipleSupportingInsights(kbRoot, principleIds[0]);
+    if (supportingInsights.length > 0) {
+      supportingInsightsList = supportingInsights.map((id) => `- ${id}`).join("\n");
+    }
+  }
+
+  const body = `## Context
+${resolvedId.startsWith("PRED-") ? "Prediction" : "Decision"} ${resolvedId} claimed: "${claimOrContext}"
+This was ${resolvedId.startsWith("PRED-") ? "falsified" : "failed"} on ${today}: "${resolutionNotes}"
+
+${principleIds.length > 0 ? `Derived from principle: ${principleIds[0]}` : `Informed by: ${referencedIds.join(", ")}`}
+
+## Questions to Resolve
+- Was the principle wrong, or was the ${resolvedId.startsWith("PRED-") ? "prediction too aggressive an extrapolation" : "decision based on incomplete information"}?
+- Did the underlying insights fail, or was the principle a flawed synthesis of correct facts?
+${supportingInsightsList ? `- Investigate the supporting insights:\n${supportingInsightsList}` : ""}
+- Should the principle be revised, narrowed, or retired?`;
+
+  const fileContent = matter.stringify(body, frontmatter);
+  const slug = title
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "")
+    .slice(0, 80);
+  const tensionPath = join(tensionsDir, `${slug}.md`);
+  await writeFile(tensionPath, fileContent, "utf-8");
+
+  console.log(`  TENSION: Created ${tensionId} — ${title}`);
+}
+
+// ─── Flags file writer ──────────────────────────────────────────────
+
+/**
+ * Write all learning flags to the meta/flags.md file.
+ */
+export async function writeFlagsFile(
+  kbRoot: string,
+  flags: LearningFlags
+): Promise<void> {
+  const now = new Date().toISOString().slice(0, 10);
+  const lines: string[] = [];
+
+  lines.push("# Learning Layer Flags");
+  lines.push(`Generated by learn.ts on ${now}`);
+  lines.push("");
+
+  // COMPRESS section
+  lines.push("## COMPRESS");
+  if (flags.compress.length === 0) {
+    lines.push("None.");
+  } else {
+    for (const flag of flags.compress) {
+      const ratio =
+        flag.principleCount === 0
+          ? `${flag.insightCount}:0`
+          : `${flag.insightCount}:${flag.principleCount}`;
+      lines.push(
+        `- ${flag.domain}/${flag.topic}: ${flag.insightCount} insights, ${flag.principleCount} principles (ratio: ${ratio})`
+      );
+    }
+  }
+  lines.push("");
+
+  // DISCOVER section
+  lines.push("## DISCOVER");
+  if (flags.discover.length === 0) {
+    lines.push("None.");
+  } else {
+    for (const flag of flags.discover) {
+      const tagsStr =
+        flag.sharedTags.length > 0 ? flag.sharedTags.join(", ") : "none";
+      lines.push(
+        `- ${flag.insightIds.length} insights form cluster across ${flag.topics.join(", ")} — shared tags: ${tagsStr}`
+      );
+    }
+  }
+  lines.push("");
+
+  // GAP section
+  lines.push("## GAP");
+  if (flags.gaps.length === 0) {
+    lines.push("None.");
+  } else {
+    for (const flag of flags.gaps) {
+      lines.push(
+        `- ${flag.topicA} has ${flag.countA} insights but related ${flag.topicB} has only ${flag.countB}`
+      );
+    }
+  }
+  lines.push("");
+
+  // TRANSFER section
+  lines.push("## TRANSFER");
+  if (flags.transfers.length === 0) {
+    lines.push("None.");
+  } else {
+    for (const flag of flags.transfers) {
+      lines.push(
+        `- "${flag.principleTitle}" (${flag.principleDomain}) may apply to ${flag.targetDomain}/${flag.targetTopic} (sim: ${flag.similarity.toFixed(2)})`
+      );
+    }
+  }
+  lines.push("");
+
+  // SYNTHESIZE section
+  lines.push("## SYNTHESIZE");
+  if (flags.synthesize.length === 0) {
+    lines.push("None.");
+  } else {
+    for (const flag of flags.synthesize) {
+      lines.push(
+        `- "${flag.titleA}" (${flag.domainA}) ↔ "${flag.titleB}" (${flag.domainB}) — sim: ${flag.similarity.toFixed(2)}`
+      );
+    }
+    lines.push("");
+    lines.push("Review candidates: meta/synthesis-candidates.json");
+  }
+  lines.push("");
+
+  const flagsPath = join(kbRoot, "meta", "flags.md");
+  await writeFile(flagsPath, lines.join("\n"), "utf-8");
+}

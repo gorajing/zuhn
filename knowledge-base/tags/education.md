@@ -1,0 +1,55 @@
+# Tag: education
+
+- `INS-260329-A862` Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
+- `INS-260322-B693` Using AI to optimize exam performance produces 'human versions of AI' — the real educational opportunity is cultivating intrinsic motivation and original thinking.
+- `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
+- `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
+- `INS-260329-500E` AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
+- `INS-260322-30A0` In the AGI era, the critical skill shifts from executing tasks to evaluating outputs — from doing the homework to grading it.
+- `INS-260322-DAA1` Using AI to do learning-stage work (writing, reasoning) destroys the cognitive development the work was designed to build, creating a generation that cannot think independently.
+- `INS-260329-9FE0` CS50 Python's curriculum structure — building from functions to libraries to classes — mirrors how well-designed software systems layer abstractions.
+- `INS-260329-D0B3` CS50's progression from binary to C to Python mirrors how software systems are actually built — each layer abstracts away the complexity below.
+- `INS-260329-FEF4` Computational thinking — decomposition, pattern recognition, abstraction, algorithms — is a general reasoning toolkit that transfers across all domains.
+- `INS-260329-04FA` CS50 teaches computational thinking as a universal problem-decomposition skill, not just a precursor to coding.
+- `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
+- `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
+- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
+- `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift.
+- `INS-260329-D8C7` The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
+- `INS-260330-4FA3` Medieval educated people already knew Earth was spherical; the Columbus-proved-it-round story was invented in the 1800s by Washington Irving.
+- `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
+- `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
+- `INS-260329-F969` Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
+- `INS-260329-8868` Reducing downside risk on first attempts lets people discover aptitude they would otherwise never explore.
+- `INS-260329-E86C` David Malan himself almost didn't take CS50 until he was allowed to enroll pass/fail, proving that stake reduction unlocks hidden talent.
+- `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
+- `INS-260329-8986` CS50's enrollment data proves that perceived prerequisites are the real gatekeepers, not actual skill requirements.
+- `INS-260327-3B69` AI-assisted schoolwork destroys the cognitive muscles that school is designed to build.
+- `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
+- `INS-260330-FDC2` Education systems explicitly aim to transmit knowledge faithfully and produce behavioral conformity — the opposite of the creative knowledge generation that defines human uniqueness.
+- `INS-260329-047C` The zip code you're born in predicts earnings better than IQ, race, or degree — college's real value is changing your social environment.
+- `INS-260330-5DA6` Physics departments deliberately flunk most students in elementary physics, encouraged by engineering departments that don't want engineers building bridges that fall down — intentional difficulty filters for fundamental competence.
+- `INS-260330-83BC` Girls' prefrontal cortex develops 1-2 years earlier than boys', giving them a structural advantage in education systems built around executive function.
+- `INS-260329-6004` Confronting misconceptions through cognitive dissonance teaches more effectively than stating correct answers directly
+- `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
+- `INS-260325-1345` A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
+- `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
+- `INS-260329-E4BA` Pass/fail options remove the fear barrier that prevents capable people from attempting unfamiliar domains.
+- `INS-260323-A19F` The argument that a word is too powerful to study in academic contexts is self-defeating — powerful words demand more engagement, not less.
+- `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
+- `INS-260329-31A2` freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
+- `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
+- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
+- `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
+- `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-1D8D` Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
+- `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
+- `INS-260323-B497` Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.
+- `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
+- `INS-260329-8299` CS50's success proves that designing for complete beginners captures the largest possible audience.
+- `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
+- `INS-260329-939E` CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
+- `INS-260329-1741` CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
+- `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
+- `INS-260322-35FA` Watching live DJ mix sets on YouTube is the most efficient way to internalize a genre because DJs curate 30+ tracks from deep listening into a coherent sonic narrative.

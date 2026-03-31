@@ -1,0 +1,66 @@
+# Tag: epistemology
+
+- `INS-260325-4C6D` Neural networks succeed precisely because they work like human intuition rather than like explicit logical rules.
+- `INS-260325-890D` LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
+- `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
+- `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
+- `INS-260325-76E6` Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
+- `INS-260330-984C` Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
+- `INS-260330-8FF8` The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
+- `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
+- `INS-260330-F889` Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
+- `INS-260330-0C1D` Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
+- `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
+- `INS-260330-2838` Islam's hadith tradition explicitly grades source reliability — some sayings are well-attested, others are essentially gossip — and the '72 virgins' claim falls in the poorly-sourced category that most Muslims reject.
+- `INS-260330-FBE1` Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses.
+- `INS-260330-184C` Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
+- `INS-260330-1B5E` America is the only country whose citizens generate conspiracy theories about their own greatest achievements, like the moon landing — even Soviet citizens under total propaganda didn't doubt Gagarin.
+- `INS-260322-38D8` Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
+- `INS-260325-CB41` Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
+- `INS-260330-5A66` The feeling of moral outrage masquerades as evidence, making people certain they understand situations they haven't actually analyzed.
+- `INS-260330-1118` Steel-manning works as an intellectual upgrade only when the person doing it genuinely risks being persuaded, not as performative fairness.
+- `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
+- `INS-260330-3DB2` Ancient Greeks knew Earth was round 2000+ years before Columbus — the myth that he proved it was invented in the 1800s to create a progress narrative.
+- `INS-260330-4FA3` Medieval educated people already knew Earth was spherical; the Columbus-proved-it-round story was invented in the 1800s by Washington Irving.
+- `INS-260330-5263` The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
+- `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
+- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
+- `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
+- `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
+- `INS-260330-7E61` Since humans inevitably make mistakes, the core moral imperative is preserving mechanisms that allow errors to be detected and corrected — destroying these mechanisms is the deepest immorality.
+- `INS-260330-24DD` The same psychedelic experience would be interpreted as proof of the Holy Spirit by a Christian, but the experience itself is pre-doctrinal and carries no inherent theological content.
+- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
+- `INS-260330-FB5A` Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
+- `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
+- `INS-260330-7CFB` Good explanations are defined by being criticizable and hard to vary, with scientific testability being one form of criticizability rather than the fundamental criterion.
+- `INS-260330-09BB` Gödel proved that in any consistent mathematical system, there exist true statements that cannot be proven within that system.
+- `INS-260330-2C97` Testability is necessary but insufficient — good explanations are ones whose internal details are load-bearing and cannot be swapped out arbitrarily.
+- `INS-260330-1718` Deutsch argues you don't need to know every fact — understanding the deep underlying theories (quantum theory, computation, epistemology, evolution) lets a single person comprehend anything knowable.
+- `INS-260330-B2B8` Stuart Firestein argues science begins where facts run out — riding the wave beyond the circle of knowledge is more productive than bobbing within it.
+- `INS-260330-6F2F` Einstein's circle metaphor — as the area of knowledge grows, its circumference of darkness grows even faster — describes a fundamental asymmetry in learning.
+- `INS-260330-6AFA` Math axioms are true because we declare them, not because they match observations — yet math describes the physical universe with uncanny precision.
+- `INS-260329-8015` The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
+- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
+- `INS-260330-1815` Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
+- `INS-260330-C172` Knowledge is best validated like a crossword puzzle: each answer must fit independently (evidence) AND be consistent with intersecting answers (coherence).
+- `INS-260330-B33F` Susan Haack's crossword model says knowledge gains strength from answers interlocking and reinforcing each other, not from building on a single foundation.
+- `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
+- `INS-260330-6844` Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
+- `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity.
+- `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
+- `INS-260325-EB9E` Testing 2^68 numbers for Collatz feels convincing but is mathematically negligible — the Polya conjecture survived far longer before its counterexample appeared at 10^361.
+- `INS-260330-A4A5` 'Common sense is just that — common' — our intuitions are tuned to a thin band of electromagnetic spectrum, spatial scale, and temporal duration, not to reality as a whole.
+- `INS-260330-6165` Hoffman's fitness-beats-truth theorem mathematically proves that natural selection shapes senses to track fitness payoffs, not objective truth, with probability zero of evolving truth-seeing.
+- `INS-260323-D060` Free speech and scientific inquiry are both rooted in the recognition that humans are self-deceiving creatures of limited knowledge who need open discourse to approach truth.
+- `INS-260323-A19F` The argument that a word is too powerful to study in academic contexts is self-defeating — powerful words demand more engagement, not less.
+- `INS-260325-C6BB` In science, a theory is assembled from many rigorously tested hypotheses and independent evidence — it is the top of the hierarchy, not a casual guess.
+- `INS-260330-795D` Social media transforms genuine discourse into performance, systematically undermining a society's shared capacity to assess truth.
+- `INS-260322-2DBD` Defining something as supernatural requires knowing what natural is — and since we don't fully understand nature, the boundary between the two remains fundamentally uncertain.
+- `INS-260329-95EF` Shrinking the measurement interval from average to instantaneous rate of change is the core technique for converting rough observations into precise understanding.
+- `INS-260329-C2E5` The IVT proves that a continuous function must cross every intermediate value between f(a) and f(b), guaranteeing existence of solutions without computing them.
+- `INS-260323-518A` The giant impact hypothesis became the leading Moon origin theory not because it was proven, but because it was 'the least bad' option — a pattern where scientific and business consensus defaults to the best available story even when it has known fatal flaws.
+- `INS-260323-DA13` Just as scientists never refuse to run an experiment because the result might be unpleasant, the marketplace of ideas must entertain all hypotheses — including hateful ones.
+- `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
+- `INS-260323-8966` The Shapiro-Destiny debate demonstrates that two intelligent people with different foundational priors will interpret identical data points in opposite directions — shared evidence does not produce convergence.

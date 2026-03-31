@@ -1,0 +1,35 @@
+# Topic: bootstrapping
+
+> 31 insights
+
+- `INS-260320-20F2` [very_high] Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
+- `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
+- `INS-260329-CB10` [high] Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
+- `INS-260329-8B55` [high] Negotiate price and terms separately — agree on price first, then structure seller financing so you pay from the business's own cash flow.
+- `INS-260329-5257` [high] Price services as a percentage of measurable value delivered rather than hours worked.
+- `INS-260321-7D76` [high] A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
+- `INS-260321-2D72` [high] Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
+- `INS-260329-1318` [high] Selling expensive services on commission eliminates every traditional startup barrier except your ability to persuade.
+- `INS-260322-5831` [high] ElevenLabs' co-founders Mati and Peter are childhood best friends with complementary skills — one product-focused, one research-focused — and their deep mutual trust enables the company to move at extreme speed.
+- `INS-260321-31B3` [high] Ship product updates 6 days per week because AI model improvements reset the entire industry every month.
+- `INS-260321-FE91` [high] Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
+- `INS-260329-CC75` [high] At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
+- `INS-260322-82E8` [high] Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
+- `INS-260322-AC23` [high] ElevenLabs hired from non-traditional backgrounds by looking for proof of excellence — open-source projects, side projects, or standout achievements — rather than conventional credentials.
+- `INS-260320-39A3` [high] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
+- `INS-260320-8688` [high] Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.
+- `INS-260329-0B9D` [high] Cutting personal expenses to the bone isn't about getting rich slowly — it's about buying the freedom to take bigger entrepreneurial swings.
+- `INS-260321-E8CB` [high] One-size-fits-all SaaS benchmarks are misleading — a pre-seed company should target burn multiple <2.5x while Series B+ targets <1.0x. Stage-specific targets: NRR >100%/>110%/>120%, LTV:CAC >2.0x/>3.0x/>3.5x.
+- `INS-260320-E044` [high] Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
+- `INS-260321-1992` [high] Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
+- `INS-260321-E5C5` [high] The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
+- `INS-260329-55D8` [high] Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
+- `INS-260329-3C25` [high] Start with high-ticket 1:1 work to fund scalable growth — Tesla's Roadster-to-Model-3 path works for service businesses too.
+- `INS-260323-DD40` [high] Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
+- `INS-260329-0DA4` [medium] An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
+- `INS-260329-F0DD` [medium] Test prep can be run from free libraries with zero startup cost, reaching $1,100/day within six months — outearning most post-college professional salaries without the four-year opportunity cost.
+- `INS-260322-F609` [medium] ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
+- `INS-260329-7192` [medium] Video editing + copywriting + social media + management transforms someone from a $50K specialist into a CMO-level operator — each skill multiplies rather than adds.
+- `INS-260330-10CF` [medium] Phil Knight invented 'Blue Ribbon Sports' on the spot, claimed East Coast offices that didn't exist, and each bluff secured deals that funded the reality he'd described.
+- `INS-260329-28B0` [medium] At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
+- `INS-260329-2A70` [medium] Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.

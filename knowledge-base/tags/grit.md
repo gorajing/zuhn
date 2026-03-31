@@ -1,0 +1,9 @@
+# Tag: grit
+
+- `INS-260329-557C` The capacity to do the same unrewarding thing repeatedly without quitting is learnable and is the main thing separating successful people from everyone else.
+- `INS-260329-640C` Sustained success comes from tolerating difficulty, not from feeling passionate about the work.
+- `INS-260326-6870` Across West Point cadets, spelling bees, inner-city schools, and sales teams, grit consistently outpredicted IQ, physical health, and social intelligence.
+- `INS-260329-3848` Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.
+- `INS-260326-2259` Duckworth's data shows grit is unrelated or inversely related to talent — the most gifted people often lack the perseverance to realize their potential.
+- `INS-260326-8E6D` Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
+- `INS-260328-F782` Use your grit to improve starting conditions — that's a far more efficient use of determination than brute-forcing through gaps.

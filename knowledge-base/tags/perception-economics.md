@@ -1,0 +1,31 @@
+# Tag: perception-economics
+
+- `INS-260327-4D3A` Even consumers who cognitively recognize that limited drops are manufactured scarcity still experience genuine urgency a
+- `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
+- `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 
+- `INS-260327-A69D` Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, cr
+- `INS-260327-24A5` Incremental quality reduction across successive product versions is imperceptible to consumers who evaluate each purchas
+- `INS-260327-FC4F` Products consumed daily benefit from per-use price evaluation that makes even expensive items feel cheap, which is why c
+- `INS-260327-FCC4` When debt products use consumer-friendly interfaces and millennial-targeted branding, they normalize borrowing as a life
+- `INS-260327-7B05` Meal replacements fail to achieve mass adoption because they treat eating as a nutritional optimization problem when it 
+- `INS-260327-8E9B` When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, cr
+- `INS-260327-57A4` The malls original value proposition was social gathering that included shopping; when social interaction moved to socia
+- `INS-260327-FEB7` Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is
+- `INS-260327-1403` Consumer rage at automotive subscriptions exceeds rational price objections because the psychological experience is havi
+- `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
+- `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
+- `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor
+- `INS-260327-7AB5` Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
+- `INS-260327-290C` Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t
+- `INS-260327-0746` Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is 
+- `INS-260327-9EE4` When consumer trust in an entire category collapses due to widespread deception, brands that adopt radical transparency 
+- `INS-260327-B6D6` Frequent promotional events train consumers to never pay full price, permanently depressing margins and creating a depen
+- `INS-260327-65F6` Products distributed freely as brand promotions generate more usage and loyalty than identical products sold at any pric
+- `INS-260327-7BE4` Businesses that advertise low headline prices then add fees during checkout create more consumer resentment than busines
+- `INS-260327-D013` Products that create massive initial demand followed by sharp decline damage not just their own brand but the retail cat
+- `INS-260327-204B` Despite near-zero barriers to entry and trivial production costs, established candle brands maintain premium pricing bec
+- `INS-260327-194D` The organizing industry profits by creating products to manage overconsumption rather than addressing the overconsumptio
+- `INS-260327-9838` Products durable enough to be passed between generations create brand loyalty that spans lifetimes because each generati
+- `INS-260327-6A45` Once functional features converge, commoditized products re-differentiate through aesthetics, limited editions, and bran
+- `INS-260327-415B` When products are designed primarily to be shared on social media, they optimize for visual impact at the expense of the
+- `INS-260327-A620` Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that 

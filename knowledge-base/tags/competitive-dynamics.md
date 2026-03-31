@@ -1,0 +1,47 @@
+# Tag: competitive-dynamics
+
+- `INS-260327-C15B` Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
+- `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.
+- `INS-260327-1576` BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
+- `INS-260327-8F03` Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enth
+- `INS-260327-78A0` When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded 
+- `INS-260327-31A7` Ultra-cheap Chinese e-commerce platforms exploit the de minimis trade exemption that allows small-value packages to ente
+- `INS-260327-130C` In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end
+- `INS-260327-EF89` Franchise brands face an inherent quality control problem because brand perception depends on the operational quality of
+- `INS-260327-5580` Micro-mobility businesses discovered that the distances too short to walk are also too short to generate fares that cove
+- `INS-260327-5D01` Legal cannabis businesses face the paradox of competing with the illegal market on price while bearing the compliance co
+- `INS-260327-0E28` Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
+- `INS-260327-4C5E` External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
+- `INS-260327-C294` Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
+- `INS-260327-E52A` Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
+- `INS-260327-46F6` When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychological
+- `INS-260327-DF8C` Resource businesses that maximize short-term extraction rates deplete reserves faster, while those that manage sustainab
+- `INS-260327-38F0` Fast-food chains whose brand promise is consistency (every KFC tastes the same) lose to competitors whose promise is fre
+- `INS-260327-D794` Restaurant formats designed to minimize operator skill requirements (assembly-line processes, standardized techniques) a
+- `INS-260327-C6A9` Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards ear
+- `INS-260327-38BC` Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
+- `INS-260327-6A4B` Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone 
+- `INS-260327-4431` When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
+- `INS-260327-1B4A` Physical venues that were supposedly killed by digital alternatives survive by pivoting to the social experience dimensi
+- `INS-260327-4877` Companies whose revenue depends on customer inability to cancel rather than customer desire to continue face disruption 
+- `INS-260327-9508` Companies that service the downstream effects of consumer behavior (storage, waste management, debt collection) have mor
+- `INS-260327-50CE` When a business sells membership in an exclusive social group rather than a product or service, pricing is determined by
+- `INS-260327-4BC6` Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs i
+- `INS-260327-19E5` When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tole
+- `INS-260330-8D0C` The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.
+- `INS-260327-325B` Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
+- `INS-260327-90E8` GoPro created and cornered the action camera market but believed that creating the market entitled them to its future -- they flooded it with too many models, failed to diversify, and opened the door for Insta360.
+- `INS-260327-724D` Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv
+- `INS-260327-F651` Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
+- `INS-260327-9018` Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
+- `INS-260327-5973` Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
+- `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
+- `INS-260327-E153` Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
+- `INS-260322-0E41` Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model providers means AI startups face taxation risk, not existential platform risk.
+- `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
+- `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
+- `INS-260330-C7DB` Rosalind Franklin's unpublished X-ray crystallography data was shown to Watson and Crick without her knowledge, enabling their model — a cautionary tale about sharing proprietary data without structural protection.
+- `INS-260327-CC05` In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
+- `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
+- `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.

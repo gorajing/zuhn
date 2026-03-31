@@ -1,0 +1,46 @@
+# Topic: growth
+
+> 42 insights
+
+- `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
+- `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
+- `INS-260330-2A6A` [high] When eBay switched affiliate payments from confirmed registrations to activated users, registrations dropped 20% but active user growth massively accelerated.
+- `INS-260330-3398` [high] When eBay switched affiliate payments from confirmed registrations to activated users, registrations dropped 20% but active user growth massively accelerated.
+- `INS-260330-4553` [high] When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
+- `INS-260330-3084` [high] Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
+- `INS-260330-AE70` [high] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
+- `INS-260330-DE80` [high] Apple pivoted its growth narrative from iPhone unit sales to ecosystem ARPU (services, accessories, subscriptions) once smartphone saturation made unit growth impossible.
+- `INS-260330-D487` [high] Dedicate 100% of growth effort to a single channel per week to get clean signal on whether it works before moving on.
+- `INS-260330-323E` [high] Test one growth channel at a time with full dedication for a week; only move on when you have a clear signal it works or doesn't.
+- `INS-260330-7C05` [high] Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
+- `INS-260330-A949` [high] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
+- `INS-260330-410A` [high] Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
+- `INS-260330-D968` [high] The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
+- `INS-260330-0371` [high] Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
+- `INS-260330-0E4C` [high] One detractor cancels out ten champions, but customers who experience problems that get resolved often become the most passionate long-term advocates.
+- `INS-260330-072D` [high] One person saying 'don't use them' destroys more growth than ten champions create, so always make it right even when it's expensive.
+- `INS-260330-49A4` [high] At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
+- `INS-260330-CBEF` [high] At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
+- `INS-260330-E61E` [high] Churned and resurrected users vastly outnumber new signups after early growth so optimizing for low-engagement users moves the retention needle far more than tuning for power users.
+- `INS-260330-697F` [high] Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
+- `INS-260330-59DC` [high] The users who drive growth metrics are the ones on the edge of churning or reactivating, not your most engaged users.
+- `INS-260330-1266` [high] Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
+- `INS-260330-33FF` [high] Preferential attachment (rich-get-richer dynamics) is a mathematical inevitability that explains why small early leads in views, users, or market share compound into dominant positions.
+- `INS-260330-C0E2` [high] Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
+- `INS-260330-D0AB` [high] Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
+- `INS-260330-3E0B` [high] Plot percent monthly active vs days-from-acquisition; if the curve slopes to zero, fix the product before investing in growth.
+- `INS-260330-78B1` [high] Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
+- `INS-260330-37F6` [high] Plot percent monthly active vs days-since-acquisition by cohort; if the curve flattens you have PMF, if not stop all growth tactics and fix the product.
+- `INS-260330-D41A` [high] A retention curve that flattens proves product-market fit; one that slopes to zero means growth tactics are premature.
+- `INS-260330-CB30` [high] A small reduction or increase in daily/weekly growth rate compounds into order-of-magnitude differences in outcomes, making growth rate the single highest-leverage metric.
+- `INS-260330-608C` [high] A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
+- `INS-260330-05C7` [high] Tiny growth rate differences compound into massive outcome gaps, making growth rate optimization the highest-leverage activity.
+- `INS-260330-8817` [high] Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
+- `INS-260330-8048` [high] Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
+- `INS-260330-4B16` [high] Startups should not have dedicated growth teams and the CEO should set and enforce a single North Star metric so every autonomous decision compounds toward the same goal.
+- `INS-260330-D21A` [high] Shawn Parker's virality model -- payload (people hit per blast) times frequency (times you hit them) times conversion rate -- reveals why Hotmail and PayPal grew virally despite low payloads.
+- `INS-260330-2347` [high] When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
+- `INS-260330-D99D` [medium] McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260330-D711` [medium] The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
+- `INS-260330-7D6D` [medium] Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
+- `INS-260330-4AE7` [medium] Use a 3-4 week growth flatline as a concrete pivot trigger, provided you've been executing with full effort.

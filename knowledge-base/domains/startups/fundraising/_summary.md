@@ -1,0 +1,57 @@
+# Topic: fundraising
+
+> 53 insights
+
+- `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
+- `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
+- `INS-260330-87BD` [high] The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
+- `INS-260328-AB0C` [high] Much AI-era ARR is run-rate revenue from usage-based pricing, multiplied by 12, on customers who could leave tomorrow.
+- `INS-260328-9415` [high] Standard Capital's YC-style batch process for Series A compressed the entire fundraising timeline to two weeks and roughly four hours of founder time.
+- `INS-260330-0AA7` [high] Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
+- `INS-260330-B6FA` [high] Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
+- `INS-260330-DEBC` [high] Email all investors simultaneously but schedule meetings three weeks out during the same week — this creates deal heat, signals you're not desperate, and keeps fundraising from dragging on.
+- `INS-260330-6900` [high] Tell investors you're too busy building to meet for 2-3 weeks, then schedule all meetings in one concentrated week to create competition and signal confidence.
+- `INS-260322-8F80` [high] Flying to a city and stacking every investor and customer meeting into 2-3 days creates a forcing function where FOMO compounds — meetings multiply, terms improve, and nobody wants to miss the deal.
+- `INS-260330-6204` [high] Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
+- `INS-260330-C84C` [high] If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
+- `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
+- `INS-260330-7BF5` [high] Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
+- `INS-260328-4EA0` [high] Standard Capital lets founders set their own valuation with no negotiation -- founders who price reasonably relative to traction get funded, those who don't get rejected without counteroffers.
+- `INS-260330-3559` [high] Pro-rata rights let investors maintain their ownership percentage in future rounds, which means founders bear a greater share of dilution.
+- `INS-260330-CBF3` [high] Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
+- `INS-260328-3F19` [high] A funding announcement is not like a stock price going up -- it's an announcement of an illiquid bet that probably won't pay off, down to seed rounds with very low expected success rates.
+- `INS-260328-3959` [high] A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
+- `INS-260330-855A` [high] YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
+- `INS-260330-070A` [high] VCs who avoid flawed companies systematically miss the biggest winners because extreme outliers always have glaring weaknesses alongside their extraordinary strengths.
+- `INS-260330-376E` [high] Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
+- `INS-260330-9900` [high] Investors who also want advisor shares are looking for a freebie — their investment already aligns their incentives to help.
+- `INS-260330-975D` [high] Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
+- `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
+- `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
+- `INS-260322-A31D` [high] Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
+- `INS-260328-D26B` [high] The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
+- `INS-260328-0C4C` [high] Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
+- `INS-260330-C8E1` [high] Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
+- `INS-260328-195E` [high] There are no successful value investors in startups -- trying to find the lowest-valuation, highest-revenue deals is a proven losing strategy because early-stage investing is fundamentally an art.
+- `INS-260322-6C4B` [high] The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
+- `INS-260330-2BB3` [high] Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
+- `INS-260323-4C43` [high] Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
+- `INS-260330-97F6` [high] In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
+- `INS-260330-08FA` [high] The strongest fundraising position is not needing the money — reach ramen profitability before raising.
+- `INS-260330-9B90` [high] Uncle-and-neighbor investors who put in $5-10K each cause the most downstream problems because they eventually want their money back for personal needs.
+- `INS-260330-EE5E` [high] Small investors who don't understand startup timelines (uncles, neighbors putting in $5-10K) become the most problematic investors because they treat startup equity like a short-term liquid investment.
+- `INS-260330-478B` [high] Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
+- `INS-260330-AF2B` [high] A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round.
+- `INS-260330-7220` [high] The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
+- `INS-260328-D220` [medium] If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
+- `INS-260330-B09B` [medium] Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
+- `INS-260327-7E3D` [medium] The stark reality of fundraising differences between Boston and Silicon Valley comes down to fundamentally different investor risk cultures.
+- `INS-260330-7346` [medium] A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
+- `INS-260330-404B` [medium] A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
+- `INS-260330-1002` [medium] Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
+- `INS-260327-DFF0` [medium] The era of $200M funds leading Series A rounds is over — the math on round sizes, follow-on reserves, and time-to-exit now demands billion-dollar vehicles.
+- `INS-260328-3A00` [medium] YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
+- `INS-260330-A38C` [medium] Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
+- `INS-260328-D866` [medium] The most successful Standard Capital founders hadn't talked to any investors or built a deck -- they just applied and committed to the process if accepted.
+- `INS-260328-F301` [medium] Seed-stage funding is fairer than founders think: investors don't coordinate, there are many independent writers, criteria are public, and getting rejected by one investor doesn't poison the well with others.
+- `INS-260330-C4D4` [medium] While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.

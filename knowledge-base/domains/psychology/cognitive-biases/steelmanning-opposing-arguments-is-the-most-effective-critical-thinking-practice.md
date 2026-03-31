@@ -1,0 +1,63 @@
+---
+id: INS-260327-48A5
+domain: psychology
+topic: cognitive-biases
+title: >-
+  Steelmanning opposing arguments is the most effective critical thinking
+  practice
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - steelmanning
+  - critical-thinking
+  - intellectual-honesty
+  - argumentation
+sources:
+  - type: youtube
+    title: This Simple Tool Will Improve Your Critical Thinking
+    author: Pursuit of Wonder
+    url: 'https://www.youtube.com/watch?v=gxglts0Sw5I'
+date_extracted: '2026-03-27'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Before arguing against any position, construct the strongest possible
+    version of that position - this single practice does more for thinking
+    quality than any other technique.
+  standard: >-
+    The default mode of disagreement is strawmanning: arguing against the
+    weakest version of an opposing position. This feels satisfying but teaches
+    nothing. Steelmanning - constructing the strongest possible version of the
+    opposing argument - is uncomfortable but transformative.
+
+
+    The practice does three things: (1) it often reveals that the opposing
+    position has more merit than you assumed, (2) it strengthens your own
+    position by forcing you to address the strongest rather than weakest
+    challenges, and (3) it builds intellectual humility by demonstrating that
+    intelligent people hold opposing views for reasons, not out of stupidity.
+stance: >-
+  Constructing the strongest possible version of an argument you disagree with
+  is more effective for finding truth than deconstructing weak versions, because
+  it forces engagement with the real challenge.
+related:
+  - INS-260325-1080
+  - INS-260330-CFEA
+  - INS-260327-E07D
+  - INS-260330-E3D3
+  - INS-260330-3570
+  - INS-260330-7994
+  - INS-260330-87A0
+  - INS-260330-4E09
+  - INS-260330-76DA
+  - INS-260330-7E66
+---
+The default mode of disagreement is strawmanning: arguing against the weakest version of an opposing position. This feels satisfying but teaches nothing. Steelmanning - constructing the strongest possible version of the opposing argument - is uncomfortable but transformative.
+
+The practice does three things: (1) it often reveals that the opposing position has more merit than you assumed, (2) it strengthens your own position by forcing you to address the strongest rather than weakest challenges, and (3) it builds intellectual humility by demonstrating that intelligent people hold opposing views for reasons, not out of stupidity.

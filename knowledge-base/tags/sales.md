@@ -1,0 +1,32 @@
+# Tag: sales
+
+- `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
+- `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
+- `INS-260323-1CA4` Cuban redefines selling as simply asking 'can my product help this person?' — a learnable skill that requires empathy and domain knowledge, not innate charisma.
+- `INS-260322-EF20` Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
+- `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
+- `INS-260330-7D07` Top salespeople spend only 30% of the call talking and 70% listening to understand the prospect's problem.
+- `INS-260330-B8C5` Instead of free trials, offer annual agreements with a 30-60 day opt-out clause to get real commitment while giving prospects comfort.
+- `INS-260329-2B04` Deep conviction in what you sell transfers more powerfully than any closing technique because prospects can sense authenticity and it makes the seller immune to rejection streaks.
+- `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
+- `INS-260329-3392` Your first paying customers are people who already know you — reach out to them directly before spending on acquisition channels.
+- `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
+- `INS-260329-3036` Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
+- `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.
+- `INS-260330-178D` Treat 'I'd buy if you built X' as a soft rejection — either get them to sign a contract contingent on the feature, or wait until multiple customers request it.
+- `INS-260330-C5FD` Prospects who condition purchase on one more feature rarely convert even after you build it — either get a signed agreement contingent on the feature or wait for multiple customers to request it.
+- `INS-260330-2BEC` Founders should aggressively drive prospects to yes or no, because a thousand maybes consume all resources while producing zero revenue.
+- `INS-260329-3D14` Treating negotiation as mutual value discovery rather than extraction creates better deals and preserves relationships.
+- `INS-260329-E598` Address prospect concerns as obstacles before soliciting the sale — the same concern becomes exponentially harder to resolve once it becomes a post-price objection.
+- `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.
+- `INS-260329-2B60` Changing your internal success metric from closing the deal to helping the prospect make any empowered decision removes pressure and paradoxically increases sales.
+- `INS-260329-4D5E` Answer objections with questions about their questions to stay in control without damaging rapport.
+- `INS-260330-8B52` Instead of free trials, offer annual agreements with a 30-60 day cancellation window — buyers get the same safety net while you get real commitment.
+- `INS-260329-116A` Sales objections are psychological distortions of reality that map to Albert Ellis's three core CBT distortions: circumstances, others, and self.
+- `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
+- `INS-260329-086B` Use third-party stories to deliver uncomfortable truths to prospects without making them feel personally attacked.
+- `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
+- `INS-260329-12EC` Reach out to 100 people per day through free warm channels (social media, email, communities) to generate first customers without advertising spend.
+- `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
+- `INS-260330-5F35` Elite salespeople let the prospect talk 70% of the time, using questions to understand problems better than the prospect does.
+- `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.

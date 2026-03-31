@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-03-31T18:23:41.021Z",
+  "version": 1,
+  "total_insights": 5782,
+  "total_principles": 322,
+  "total_sources": 2418,
+  "total_tensions": 42,
+  "total_domains": 9,
+  "embedding_coverage": 1,
+  "index_coverage": 0.9737,
+  "mean_confidence": 2.781,
+  "confidence_distribution": {
+    "high": 4450,
+    "low": 20,
+    "medium": 1269,
+    "very_high": 43
+  },
+  "compression_ratio": 0.0557,
+  "tension_resolution_rate": 0.9762,
+  "staleness_rate": 0,
+  "mean_related_links": 6.6994,
+  "insights_with_relations": 1,
+  "cross_domain_transfers": 50,
+  "knowledge_gaps": 1104,
+  "compress_flags": 35,
+  "cluster_flags": 351,
+  "kq": 38.3,
+  "kq_components": {
+    "avg_sampled_iqs": 6.35,
+    "compression_ratio": 0.0557,
+    "synthesis_hit_rate": 0.000832,
+    "staleness_factor": 1
+  },
+  "domains": {
+    "ai-development": {
+      "insights": 924,
+      "principles": 62,
+      "compression_ratio": 0.0671,
+      "topics": 22
+    },
+    "automation": {
+      "insights": 30,
+      "principles": 2,
+      "compression_ratio": 0.0667,
+      "topics": 3
+    },
+    "health": {
+      "insights": 454,
+      "principles": 37,
+      "compression_ratio": 0.0815,
+      "topics": 4
+    },
+    "investing": {
+      "insights": 586,
+      "principles": 43,
+      "compression_ratio": 0.0734,
+      "topics": 5
+    },
+    "music-production": {
+      "insights": 41,
+      "principles": 3,
+      "compression_ratio": 0.0732,
+      "topics": 5
+    },
+    "pets": {
+      "insights": 3,
+      "principles": 0,
+      "compression_ratio": 0,
+      "topics": 1
+    },
+    "psychology": {
+      "insights": 1585,
+      "principles": 58,
+      "compression_ratio": 0.0366,
+      "topics": 20
+    },
+    "startups": {
+      "insights": 2290,
+      "principles": 112,
+      "compression_ratio": 0.0489,
+      "topics": 31
+    },
+    "video-production": {
+      "insights": 25,
+      "principles": 5,
+      "compression_ratio": 0.2,
+      "topics": 2
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Tag: argumentation
+
+- `INS-260330-87A0` World-class debaters spend their final prep minutes writing the best case against themselves, not reinforcing their own position.
+- `INS-260330-F140` Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
+- `INS-260330-A370` The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
+- `INS-260330-1118` Steel-manning works as an intellectual upgrade only when the person doing it genuinely risks being persuaded, not as performative fairness.
+- `INS-260327-48A5` Before arguing against any position, construct the strongest possible version of that position - this single practice does more for thinking quality than any other technique.
+- `INS-260330-4E09` Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
+- `INS-260330-E3D3` Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.

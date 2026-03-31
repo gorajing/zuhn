@@ -1,0 +1,4 @@
+# Tag: dairy-fat
+
+- `INS-260327-3EEF` C15 (pentadecanoic acid) from dairy fat inversely correlates with ferroptosis and protects cell membranes from seed oil-induced oxidative damage; optimal levels are 0.4-0.64% of cell membrane fatty acids.
+- `INS-260327-52AA` Observational research consistently links higher C15 and C17 odd-chain fatty acid levels (from dairy fat) with better longevity outcomes, yet no one in the longevity space supplements them.

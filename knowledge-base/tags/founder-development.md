@@ -1,0 +1,4 @@
+# Tag: founder-development
+
+- `INS-260327-E3D5` Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
+- `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.

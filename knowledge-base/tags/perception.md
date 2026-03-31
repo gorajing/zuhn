@@ -1,0 +1,61 @@
+# Tag: perception
+
+- `INS-260330-5F36` Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
+- `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
+- `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
+- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
+- `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
+- `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
+- `INS-260330-8B24` Direct experience consistently overrides and corrects media-constructed mental models of people and places.
+- `INS-260330-41A5` People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
+- `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
+- `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
+- `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
+- `INS-260323-1D46` Donald Hoffman's interface theory argues that organisms evolved to perceive fitness-relevant simplifications, not objective reality — truth is expensive, useful illusion is efficient.
+- `INS-260327-EDE4` In deep space, without familiar environmental cues like horizon, gravity, and day-night cycles, human perception begins to deconstruct, revealing how much of 'reality' depends on context.
+- `INS-260330-5F9E` What you see with open eyes and what you think with closed eyes appear in the same experiential space.
+- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
+- `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
+- `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
+- `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
+- `INS-260330-2783` Friedrich Miescher isolated DNA in 1869, but Watson and Crick are remembered because they synthesized others' work into a communicable model.
+- `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
+- `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
+- `INS-260330-FA2D` The arrow's flex is invisible to the naked eye but is the entire mechanism of accuracy — slow-motion cameras revealed what centuries of archery couldn't.
+- `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
+- `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
+- `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
+- `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
+- `INS-260330-EDF4` Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
+- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
+- `INS-260330-6EE2` Length contraction in special relativity means a sufficiently fast-moving observer would measure Earth as physically flat — shape depends on reference frame.
+- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
+- `INS-260330-5391` Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
+- `INS-260330-6D52` The same physical touch can feel arousing or irritating depending on context, proving that context — not technique — is the primary lever for sexual pleasure.
+- `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity.
+- `INS-260330-2C4D` People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
+- `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
+- `INS-260329-16F0` Brand can carry the perception of value beyond what the product alone delivers, as long as the product doesn't actively contradict the brand promise.
+- `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
+- `INS-260329-FCD3` What appears as computer intelligence is actually extreme speed compensating for complete lack of understanding — the CPU asks 'what next' three billion times per second without comprehending any of it.
+- `INS-260330-2B3F` Rick Rubin identifies creativity as a bodily feeling — a 'surge of energy' — rather than an intellectual process, and uses taste-testing as the metaphor for creative decision-making.
+- `INS-260330-6165` Hoffman's fitness-beats-truth theorem mathematically proves that natural selection shapes senses to track fitness payoffs, not objective truth, with probability zero of evolving truth-seeing.
+- `INS-260329-356A` A limit depends entirely on a function's behavior near a point, not at the point — a function can be undefined or have a completely different value at x=a and still have a perfectly well-defined limit there.
+- `INS-260325-3589` Musashi: overthinking is the gap between perception and action — train to act on direct perception before analysis creates paralysis.
+- `INS-260330-0ED2` What we perceive as objects are hierarchically clustered fitness payoff functions — data structures encoding action-payoff relationships rather than representations of mind-independent things.
+- `INS-260325-EC7A` Greek and Roman statues were vibrantly painted — our image of austere white marble is an accident of decay, known for over a century but still shaping perception.
+- `INS-260330-A18F` Placebo potency scales with perceived seriousness: surgery > injection > capsule > pill, and even color matters (blue calms, red energizes).
+- `INS-260330-43E8` Silence doesn't cause madness — it redirects attention inward to bodily signals normally masked by ambient noise.
+- `INS-260330-EE7E` In extreme silence the brain turns up its perceptual gain, making tiny sounds (breathing, clothing rustle, swallowing) seem loud — this is normal adaptation, not madness.
+- `INS-260330-BE6F` Breaking the sound barrier inside an F-16 cockpit produces no sensation — only instrument anomalies from shock wave pressure changes on the Pitot tube reveal it happened.
+- `INS-260323-1930` Musicians like Charlie Puth experience notes as colors, tastes, and shapes — talent at the highest levels isn't doing the same thing better, it's literally perceiving reality differently.
+- `INS-260330-0DF9` At normal speed, an underwater gunshot is one event; at 27,450 fps, it becomes three distinct phenomena with separate physics.
+- `INS-260330-59E3` Going from 30fps to 27,450fps doesn't just make underwater gunfire look smoother — it reveals three separate physical mechanisms that are categorically invisible at normal speed.
+- `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
+- `INS-260329-F4B2` The derivative concept teaches that understanding a process at any moment requires looking at infinitesimally small intervals around that moment, not at broad averages.
+- `INS-260325-2B9F` Real espionage effectiveness comes from being completely forgettable — the 'gray man' who disappears in any setting is more operationally valuable than any James Bond.
+- `INS-260330-BBEE` Aerogel scatters blue light like the atmosphere does, appearing blue on dark backgrounds but yellow against blue sky — a handheld sunset.
+- `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
+- `INS-260330-80A2` Traveling at light speed toward the Sun would initially make it appear to recede because your field of view expands to include light from nearly behind you, compressing forward objects into a smaller apparent region.
+- `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
+- `INS-260322-9436` Notes a half step apart in pitch are worlds apart in feeling — degree 5 and sharp 4 are adjacent melodically but on opposite sides of the feeling circle.

@@ -1,0 +1,31 @@
+# Tag: dopamine
+
+- `INS-260327-E6FE` Addiction recovery requires dopamine receptor upregulation through extended abstinence and nutrient support
+- `INS-260330-2F9F` Cold water exposure uniquely raises dopamine 2.5x above baseline with a sustained multi-hour elevation rather than the spike-crash pattern of stimulants.
+- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
+- `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
+- `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
+- `INS-260330-17C3` Romantic love elevates dopamine (the same reward pathway as cocaine addiction) and alters serotonin in patterns matching OCD, producing obsessive rumination and addictive attachment.
+- `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
+- `INS-260330-544F` Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes.
+- `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
+- `INS-260330-EDDD` ADHD hyper-focus on enjoyable tasks proves the focus circuitry works—the deficit is specifically in the dopamine system that should enable focus on non-preferred tasks.
+- `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
+- `INS-260325-B5EF` Brain imaging shows behavioral addictions from tech activate the same areas as drug addictions.
+- `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
+- `INS-260327-6570` Nothing feels fun because constant digital stimulation has elevated your dopamine baseline so high that normal activities can't produce enough relative increase to register as pleasure.
+- `INS-260330-4E50` In ADHD, the default mode network and task-directed networks fire together instead of alternating, and dopamine acts as the conductor that should keep them anti-correlated.
+- `INS-260330-E823` Blinks function as scene breaks that reset time perception, and dopamine controls blink rate—explaining why ADHD (low dopamine) causes both poor time management and poor focus.
+- `INS-260330-0C31` Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
+- `INS-260330-0149` Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
+- `INS-260323-34B7` The most intense flow states and deepest gratitude emerge when your actions are directly connected to meeting fundamental survival needs.
+- `INS-260325-9507` Between ages 10-12, brains become hyper-wired for social rewards — social media exploits this precise window, making adolescent addiction neurobiological rather than behavioral.
+- `INS-260325-4CF9` The brain's wanting system is diffuse and insatiable; the liking system is small and satiable. Tech exploits the wanting system.
+- `INS-260325-7417` The brain's wanting circuit is easy to trigger but impossible to satisfy, creating the hedonic treadmill that technology exploits for engagement.
+- `INS-260330-968D` Place high-friction habits in the first 8 hours after waking when dopamine and norepinephrine are naturally elevated, and low-friction habits in the afternoon serotonergic window.
+- `INS-260330-BCAF` Extend your positive anticipation to encompass the full habit envelope — before, during, and after — rather than only celebrating completion.
+- `INS-260330-F9C1` Novel shared experiences drive the dopamine system that sustains romantic love, making deliberate novelty-seeking the most brain-aligned strategy for long-term relationship maintenance.
+- `INS-260325-6571` Brain scans reveal romantic love is not an emotion but a drive originating in the VTA dopamine system next to thirst and hunger — it evolved as a survival mechanism to focus mating energy on a single partner.
+- `INS-260325-5588` fMRI studies show romantic love activates a dopamine factory near the base of the brain next to circuits for thirst and hunger — it is a mating drive, not a series of emotions.
+- `INS-260330-EA2E` Sustaining a partnership requires separately maintaining sex drive (regular sex), romantic love (novel experiences together), and attachment (physical touch and cuddling).
+- `INS-260329-EB4B` Easy wins feel productive but leave the highest-leverage problem unsolved day after day.

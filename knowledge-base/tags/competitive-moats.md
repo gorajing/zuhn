@@ -1,0 +1,24 @@
+# Tag: competitive-moats
+
+- `INS-260330-F534` New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
+- `INS-260330-57BB` Son's strategy of offering 5x what companies asked for pressured them into unsustainable growth-at-all-costs playbooks while scaring away competitors.
+- `INS-260330-95F3` Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
+- `INS-260330-C825` Profitable divisions (like AWS) can fund indefinite losses in new markets (like groceries), making it impossible for single-industry competitors to survive on margins alone.
+- `INS-260330-923F` A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
+- `INS-260330-9197` Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
+- `INS-260330-6050` Build where incumbents face structural inability to compete, not just unwillingness.
+- `INS-260330-6EE1` Find what incumbents structurally can't do — whether that's platform agnosticism against suite vendors or novel monetization like Zenefits getting paid by insurance companies instead of customers.
+- `INS-260330-3FF4` RuBisCo evolved when CO2 was abundant and O2 scarce — when conditions changed, it became terrible, yet no alternative has displaced it in 450 million years because every plant depends on it.
+- `INS-260330-AFAD` Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
+- `INS-260330-519D` Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
+- `INS-260330-BE78` Both debaters agree that conservative withdrawal from academia accelerated its leftward drift, illustrating how disengagement from institutions causes them to radicalize faster.
+- `INS-260330-ACCD` China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
+- `INS-260330-0294` Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.
+- `INS-260330-ED9D` Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
+- `INS-260330-D460` Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
+- `INS-260327-FAD7` During the sneaker bubble, shoes flew off shelves without discounts, anyone could flip pairs for thousands, and shops opened everywhere -- when the market crashed, most stores went bankrupt because revenue had masked the absence of any real expertise or moat.
+- `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
+- `INS-260330-A660` Tax optimization strategies like the Double Irish Dutch Sandwich create temporary advantages that inevitably attract regulatory attention proportional to their scale.
+- `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
+- `INS-260330-7819` Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
+- `INS-260330-E17D` The Indus Valley Civilization thrived peacefully for over a millennium but collapsed partly because it had almost no weapons or military capability.

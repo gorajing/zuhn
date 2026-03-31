@@ -1,0 +1,25 @@
+# smartereveryday — Top 20 Videos by Views (Batch Ingest Tracker)
+# Format: STATUS | VIDEO_ID | VIEWS | TITLE [| SRC_ID]
+# STATUS: PENDING / INGESTED / EXTRACTED / SKIP / FAILED
+# Generated: 2026-03-30
+# Source: https://www.youtube.com/@smartereveryday/videos
+INGESTED | kxLoycj4pJY | 86795717 | TATTOOING Close Up (in Slow Motion) - Smarter Every Day 122 | SRC-260330-31E0
+INGESTED | QJ9lNRAjTQM | 32928859 | How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | SRC-260330-0467
+INGESTED | MFzDaBzBlL0 | 31455293 | The Backwards Brain Bicycle - Smarter Every Day 133 | SRC-260330-1FF6
+INGESTED | cp5gdUHFGIQ | 30737324 | AK-47 Underwater at 27,450 frames per second (Part 2) - Smarter Every Day 97 | SRC-260330-C6DF
+INGESTED | tcQVrD7RnNI | 25197418 | Bullets HITTING Bullets in Slow Motion - THE IMPOSSIBLE SHOT - Smarter Every Day 287 | SRC-260330-3109
+INGESTED | Q_F9CxSmGOM | 24858012 | World's Longest Home Run (The "Mad Batter" Machine) - Smarter Every Day 230 | SRC-260330-0AF5
+INGESTED | JT0wx27J9xs | 22213195 | How Hard Can You Hit a Golf Ball? (at 100,000 FPS) - Smarter Every Day 216 | SRC-260330-EA1C
+INGESTED | p1PgNbgWSyY | 21898540 | GOING SUPERSONIC with U.S. Air Force Thunderbirds! Pulling 7 G's in an F-16 -Smarter Every Day 235 | SRC-260330-D7DB
+INGESTED | -53kaP6dZeI | 20881107 | STRAPPED INTO A SINKING HELICOPTER (with U.S. Marines) - Smarter Every Day 201 | SRC-260330-8664
+INGESTED | 7pOXunRYJIw | 19909308 | See Through Suppressor in Super Slow Motion (110,000 fps)  - Smarter Every Day 177 | SRC-260330-3D5C
+INGESTED | M2w3NZzPwOM | 17697651 | Why Snatch Blocks are AWESOME (How Pulleys Work)  - Smarter Every Day 228 | SRC-260330-76A6
+INGESTED | RXXMJAU6vY8 | 17046701 | Boarding a US NAVY NUCLEAR SUBMARINE in the Arctic - Smarter Every Day 240 | SRC-260330-A475
+INGESTED | 4I-p8vjQ95s | 16818669 | Trying to Catch a 1,000 MPH Baseball - Smarter Every Day 247 | SRC-260330-CBDF
+INGESTED | D0B7F5UbTOQ | 16380812 | How Laser Tattoo Removal Works - Smarter Every Day 123 | SRC-260330-D940
+INGESTED | EVbdbVhzcM4 | 15791380 | Two Vortex Rings Colliding in SLOW MOTION - Smarter Every Day 195 | SRC-260330-8943
+INGESTED | O7zewtuUM_0 | 15651285 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | SRC-260330-AAAF
+INGESTED | xe-f4gokRBs | 15106280 | Mystery of Prince Rupert's Drop at 130,000 fps - Smarter Every Day 86 | SRC-260330-8FB7
+INGESTED | wplX6t4S7p4 | 14766026 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | SRC-260330-301E
+INGESTED | cqidD7kVnxY | 14692823 | World's Fastest Pitch - Supersonic Baseball Cannon - Smarter Every Day 242 | SRC-260330-3CC3
+INGESTED | toVfvRhWbj8 | 13849479 | How Does A Carburetor Work? | Transparent Carburetor at 28,546 fps Slow Mo - Smarter Every Day 259 | SRC-260330-F9E5

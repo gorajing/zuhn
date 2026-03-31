@@ -1,0 +1,68 @@
+---
+id: INS-260330-C89D
+domain: health
+topic: nutrition
+title: >-
+  Alcohol rewires impulsivity circuits even in weekly drinkers who feel in
+  control
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - alcohol
+  - neuroplasticity
+  - impulsivity
+  - prefrontal-cortex
+  - habit-circuits
+sources:
+  - type: youtube
+    title: 'What Alcohol Does to Your Body, Brain & Health'
+    author: Andrew Huberman
+    url: 'https://www.youtube.com/watch?v=DkS1pkKpILY'
+date_extracted: '2026-03-30'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Chronic drinking increases synapses in habit circuits while reducing
+    connections in prefrontal control circuits, creating lasting impulsivity
+    outside drinking episodes.
+  standard: >-
+    Alcohol suppresses prefrontal cortex activity (top-down inhibition) acutely,
+    which is the well-known disinhibition effect. But the less-discussed finding
+    is that even people drinking just once a week experience structural
+    neuroplastic changes: increased synaptic connections in circuits controlling
+    habitual behavior and decreased synapses in circuits for deliberate,
+    flexible decision-making. This means the 'every Friday night' drinker
+    becomes measurably more impulsive and habitual in their daily sober life.
+
+
+    The good news is this is reversible with 2-6 months of abstinence, as the
+    brain's plasticity works in both directions. However, for people who have
+    been chronically drinking large volumes for many years, recovery is only
+    partial. This has a cross-domain application to productivity and
+    decision-making: the common pattern of 'unwinding with drinks on weekends'
+    may be subtly degrading weekday executive function and self-control.
+stance: >-
+  Regular alcohol consumption (even once weekly) physically grows synapses in
+  habitual-behavior circuits while pruning deliberate-control circuits, making
+  drinkers measurably more impulsive even when sober.
+related:
+  - INS-260325-9507
+  - INS-260325-9B9A
+  - INS-260327-0DFD
+  - INS-260327-212A
+  - INS-260330-4D8B
+  - INS-260330-3DC8
+  - INS-260330-F374
+  - INS-260330-0233
+  - INS-260330-233C
+  - PRI-260325-663A
+---
+Alcohol suppresses prefrontal cortex activity (top-down inhibition) acutely, which is the well-known disinhibition effect. But the less-discussed finding is that even people drinking just once a week experience structural neuroplastic changes: increased synaptic connections in circuits controlling habitual behavior and decreased synapses in circuits for deliberate, flexible decision-making. This means the 'every Friday night' drinker becomes measurably more impulsive and habitual in their daily sober life.
+
+The good news is this is reversible with 2-6 months of abstinence, as the brain's plasticity works in both directions. However, for people who have been chronically drinking large volumes for many years, recovery is only partial. This has a cross-domain application to productivity and decision-making: the common pattern of 'unwinding with drinks on weekends' may be subtly degrading weekday executive function and self-control.

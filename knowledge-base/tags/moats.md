@@ -1,0 +1,27 @@
+# Tag: moats
+
+- `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
+- `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
+- `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
+- `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
+- `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.
+- `INS-260323-7B63` AI creates the greatest period of business disruptability in history, making moat analysis the most critical and difficult skill for investors.
+- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
+- `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
+- `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
+- `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
+- `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
+- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
+- `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
+- `INS-260330-FCBC` Controlling access to essential inputs creates stronger lock-in than product quality.
+- `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.
+- `INS-260322-F8E4` Data network effects are like gravity — invisible at the atomic level, undeniable at planetary scale. Having 4 customers vs 3 means nothing; having 4 billion vs 1 billion is decisive.
+- `INS-260330-EEED` Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
+- `INS-260323-7F36` The install base is the single most important factor for a computing platform; elegant architectures like RISC failed while the 'barely aesthetic' x86 survived because install base trumps design purity.
+- `INS-260323-0EE2` ASML's monopoly exists because EUV requires solving dozens of 'impossible' problems simultaneously — mirrors smooth to 2.3 atoms, tin droplets hit 50,000 times/second with zero misses, and 13.5nm light generation — and no competitor can replicate the full stack.
+- `INS-260323-A1FE` Jet engine turbine blades must simultaneously optimize for temperature resistance (1,500C), centripetal force (20 metric tons per blade), oxidation resistance, creep resistance, weight, and manufacturing precision — and you can't max one without sacrificing others, making the integration itself the competitive moat.
+- `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
+- `INS-260322-7282` Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
+- `INS-260329-12EA` Your competitive moat is not any single skill but the unique stack of skills from your specific life trajectory — replicating it requires living your life.
+- `INS-260322-1280` Some products are too cheap to bother replacing (janitorial services problem) — nobody optimizes a $50/month/person line item, which means competitors can't get in but incumbents can't be kicked out.
+- `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.

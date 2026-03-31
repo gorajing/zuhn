@@ -1,0 +1,52 @@
+---
+id: INS-260327-EEEE
+domain: health
+topic: nutrition
+title: >-
+  Pharmaceutical companies pay social media influencers millions to promote
+  drugs disguised as authentic health content
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - pharmaceutical-marketing
+  - influencers
+  - social-media
+  - drug-promotion
+  - disclosure
+sources:
+  - type: youtube
+    title: >-
+      Big Pharma Pays Big $$$ to Social Media Influencers (You'll Never Guess
+      Who)
+    author: Dr. Eric Berg DC
+    url: 'https://www.youtube.com/watch?v=Z39W6Z6VlYU'
+date_extracted: '2026-03-27'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Pharmaceutical companies pay social media influencers millions to promote
+    drugs disguised as authentic health content
+  standard: >-
+    Drug companies spend millions paying health influencers to create seemingly
+    organic content promoting pharmaceuticals, with disclosure requirements
+    frequently violated or buried in fine print
+stance: >-
+  Drug companies spend millions paying health influencers to create seemingly
+  organic content promoting pharmaceuticals, with disclosure requirements
+  frequently violated or buried in fine print
+related:
+  - INS-260324-988E
+  - PRI-260328-1545
+  - INS-260327-4F94
+  - INS-260327-415B
+  - INS-260327-FEB7
+  - INS-260322-3A00
+  - INS-260327-1439
+---
+Drug companies spend millions paying health influencers to create seemingly organic content promoting pharmaceuticals, with disclosure requirements frequently violated or buried in fine print

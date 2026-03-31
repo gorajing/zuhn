@@ -1,0 +1,63 @@
+---
+id: INS-260323-1B0B
+domain: ai-development
+topic: platform-shifts
+title: >-
+  Presence is the holy grail of social technology -- and it requires eliminating
+  every single immersion-breaking flaw
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - presence
+  - VR
+  - AR
+  - social-technology
+  - UX
+sources:
+  - type: youtube
+    title: The Future Mark Zuckerberg Is Trying To Build
+    author: Cleo Abram
+    url: 'https://youtu.be/oX7OduG1YmI'
+date_extracted: '2026-03-23'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    The sense of presence in AR/VR is less about any single feature being great
+    and more about no single flaw breaking the illusion.
+  standard: >-
+    Zuckerberg describes presence as an illusion where the bar is set by absence
+    of failure, not presence of excellence. A narrow field of view, latency,
+    unrealistic physics, or any single broken element destroys the feeling. This
+    is why it's a 10-year project -- you need every subsystem to be good enough
+    simultaneously.
+
+
+    Interestingly, photorealistic avatars in cartoon worlds and cartoon avatars
+    in photorealistic worlds both feel acceptable -- but only if the avatars
+    move authentically. The key variable is behavioral authenticity, not visual
+    fidelity. This has implications for anyone building immersive experiences:
+    invest in motion and interaction quality before visual polish.
+related:
+  - INS-260323-5609
+  - INS-260325-D82A
+  - INS-260330-BE4D
+  - INS-260330-AB5D
+  - INS-260330-A4A5
+  - INS-260323-BBD3
+  - INS-260326-35CE
+  - INS-260327-671E
+  - INS-260327-A43C
+  - PRI-260328-0332
+stance: >-
+  The sense of presence in AR/VR is less about any single feature being great
+  and more about no single flaw breaking the illusion.
+---
+Zuckerberg describes presence as an illusion where the bar is set by absence of failure, not presence of excellence. A narrow field of view, latency, unrealistic physics, or any single broken element destroys the feeling. This is why it's a 10-year project -- you need every subsystem to be good enough simultaneously.
+
+Interestingly, photorealistic avatars in cartoon worlds and cartoon avatars in photorealistic worlds both feel acceptable -- but only if the avatars move authentically. The key variable is behavioral authenticity, not visual fidelity. This has implications for anyone building immersive experiences: invest in motion and interaction quality before visual polish.

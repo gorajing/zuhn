@@ -1,0 +1,58 @@
+# Tag: consciousness
+
+- `INS-260323-085A` Penrose argues from Goedel's incompleteness theorems that human mathematicians can grasp truths no algorithm can formally prove — suggesting understanding transcends classical computation.
+- `INS-260323-BCCC` People at stage 3 (social self) worry about AI having wrong opinions; stage 4 (rational) worry about paperclip maximizers; stage 5 (self-authoring) worry about AI lacking enlightenment and shared agency.
+- `INS-260322-2A3A` The question of whether AI can be a moral patient is empirically testable through prolonged interaction — holding an unfalsifiable position that silicon can never be a being is faith, not reasoning.
+- `INS-260323-1345` When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
+- `INS-260326-E5D3` AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
+- `INS-260325-0E70` Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
+- `INS-260323-9385` If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.
+- `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
+- `INS-260323-DE7F` We cannot prove consciousness in anyone but ourselves -- we rely on social conventions -- and as humans form intimate relationships with AI, legal systems will be compelled to treat AI as conscious entities regardless of whether they actually are.
+- `INS-260321-1F9F` Scary stories about LLMs trying to deceive or resist shutdown are reflections of training data patterns, not emergent architectural properties — the objective function is purely next-token prediction.
+- `INS-260330-EE16` Johns Hopkins research shows that the intensity of mystical-type experiences, not just drug dose, predicts whether patients achieve lasting therapeutic benefits from psilocybin.
+- `INS-260330-3C2F` Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
+- `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
+- `INS-260330-2E54` Hoffman inverts the hard problem of consciousness: instead of explaining how matter creates experience, he asks how conscious agents create the data structure we call spacetime.
+- `INS-260330-BE4D` Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
+- `INS-260327-A4FE` When you examine consciousness, you're using consciousness to examine itself - like trying to see your own eyes directly, the tool and the subject are the same thing.
+- `INS-260330-EEAE` Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation.
+- `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
+- `INS-260325-6BDE` Felt experience (seeing green, feeling warmth) can exist without complex thought, and treating them as the same thing confuses the study of both.
+- `INS-260323-CA1F` In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
+- `INS-260323-1D46` Donald Hoffman's interface theory argues that organisms evolved to perceive fitness-relevant simplifications, not objective reality — truth is expensive, useful illusion is efficient.
+- `INS-260327-D212` Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
+- `INS-260330-F37B` True freedom means freedom from the mind's patterns, not from material or physical constraints.
+- `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
+- `INS-260330-5F9E` What you see with open eyes and what you think with closed eyes appear in the same experiential space.
+- `INS-260327-DD48` Intelligence that emerged from embodied biological experience and intelligence that emerged from statistical text processing may be so different that calling both 'intelligence' is misleading.
+- `INS-260322-C4A2` Jung proposed that synchronicities reveal an underlying reality ('unus mundus') where psyche and matter are not separate substances but expressions of a single unified order.
+- `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- `INS-260330-EBF7` Meditation skills like dropping subject-object duality help navigate psychedelic peaks, though peak intensity renders all techniques temporarily inaccessible.
+- `INS-260325-E17F` Seth sees panpsychism as motivated by premature skepticism about physicalist explanations — it says consciousness is fundamental to avoid explaining how it arises, but this explanatory retreat is unproductive for science.
+- `INS-260330-BCC7` Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.
+- `INS-260330-3888` Multi-week solo expeditions in the Amazon taught Rosolie that even the most independent people have been surrounded by others every day of their lives, and that true isolation fundamentally recalibrates appreciation for human connection.
+- `INS-260330-24DD` The same psychedelic experience would be interpreted as proof of the Holy Spirit by a Christian, but the experience itself is pre-doctrinal and carries no inherent theological content.
+- `INS-260330-1384` Psychedelics stand alone as a drug class where single-dose experiences routinely produce permanent life changes.
+- `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
+- `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
+- `INS-260327-B59B` A scientist who knows everything about color perception but has never seen color will still learn something new when she sees red for the first time - suggesting subjective experience transcends physical knowledge.
+- `INS-260323-0897` Across multiple quantum consciousness frameworks, the brain consistently appears as an interface or transceiver for consciousness rather than its origin — like a VR headset worn by awareness to navigate reality.
+- `INS-260327-0133` Alan Watts' dream escalation argument: an omniscient dreamer would inevitably choose to forget it's dreaming, suggesting limitation and uncertainty are features consciousness deliberately chooses over boring omniscience.
+- `INS-260325-F6AF` The 'hard problem' is why felt experience exists at all, not which brain regions correlate with which feelings.
+- `INS-260330-F399` The boundary between inner experience and outer world is not found in actual experience — both appear in the same undifferentiated space of consciousness.
+- `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.
+- `INS-260327-12B5` Consciousness is the hardest thing to examine because it's the thing we examine everything else through - like a fish trying to notice water.
+- `INS-260327-B64B` You cannot know yourself fully because the act of knowing yourself changes what there is to know - self-knowledge has a built-in uncertainty principle.
+- `INS-260323-8289` In transcendental consciousness, thinking dissolves but 'I am' remains — suggesting awareness is not generated by thought but is the field in which thoughts appear.
+- `INS-260323-433B` Our subjective 'now' is an extended window of roughly 200-300ms of perceptual latency, stitched together with episodic memory and anticipation — not a mathematical instant.
+- `INS-260330-AEE3` The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns.
+- `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution.
+- `INS-260327-8DDE` There are things no one will ever know about you - not because you hide them but because subjective experience cannot be fully transmitted through language or behavior.
+- `INS-260327-B37E` Uncontacted tribes are the only remaining examples of human minds shaped entirely by nature rather than civilization - once contacted, their unique perspective is permanently lost.
+- `INS-260327-4C73` A person following rules to produce perfect Chinese responses without understanding Chinese suggests that behavior and understanding are separable - with direct implications for AI.
+- `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
+- `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
+- `INS-260330-E0A7` In silence and darkness, Derek felt his heartbeat shaking his entire body — not because it got stronger, but because the brain stopped filtering it out.
+- `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
+- `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.

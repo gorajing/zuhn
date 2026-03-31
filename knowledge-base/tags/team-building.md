@@ -1,0 +1,22 @@
+# Tag: team-building
+
+- `INS-260321-E5C5` The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
+- `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
+- `INS-260330-AA8B` YC data shows all 9 companies that added random co-founders between interview and batch start fell apart within a year.
+- `INS-260330-CD65` YC data shows 100% failure rate when companies added random co-founders between interview and batch start.
+- `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
+- `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
+- `INS-260320-A1D3` Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
+- `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
+- `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
+- `INS-260327-7349` Kaz extends Toby Lutke's trust battery concept: start at 75% trust to enable risk-taking, but deplete faster to quickly identify who belongs.
+- `INS-260323-46F8` 50% of businesses fail in 2 years because leaders cannot hold teams accountable — the failure is internal culture, not external markets.
+- `INS-260327-BEEE` Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
+- `INS-260323-D621` If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
+- `INS-260323-4B1C` With 44% of technical skills becoming obsolete within 10 years, the hardest and most durable leadership skills are the soft ones — conflict resolution, empathy, listening.
+- `INS-260322-627E` Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
+- `INS-260323-E15B` After 20 years running Meta, Zuckerberg's biggest lesson is that a cohesive leadership team can accomplish almost anything, while strategic brilliance fails without it.
+- `INS-260323-9146` Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
+- `INS-260323-9A93` Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
+- `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
+- `INS-260330-B3D9` Netflix laid off a third of employees post-dot-com crash and got more done with fewer people by retaining only their best performers.

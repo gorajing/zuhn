@@ -1,0 +1,51 @@
+# Topic: ideation
+
+> 47 insights
+
+- `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
+- `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
+- `INS-260321-3521` [high] Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
+- `INS-260321-CCD9` [high] Basic image generation is being absorbed by foundation models, but creative tools that are aesthetically opinionated (Midjourney) or own non-commoditized modalities (Suno for music, 11 Labs for voice) maintain defensible positions.
+- `INS-260330-0346` [high] Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
+- `INS-260330-6C68` [high] Deliberately brainstorming startup ideas produces plausible-sounding but fundamentally flawed ideas that no one urgently needs.
+- `INS-260330-2B42` [high] Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
+- `INS-260328-A9D2` [high] Dalton's core advice framework for pivots: every person has one perfect startup idea — the one where they have the most unfair advantages, best network, and deepest expertise.
+- `INS-260327-D982` [high] The exercise of picking a startup idea should be reframed from 'find a good startup idea' to 'find a good idea for your team' — founder-market fit is the single most predictive evaluation criterion.
+- `INS-260330-66A0` [high] The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
+- `INS-260330-FBC0` [high] Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
+- `INS-260330-9E91` [high] Resource scarcity predictions assume fixed knowledge, but knowledge creation continuously converts worthless things into resources — europium was essential for color TV until LCD screens made it irrelevant.
+- `INS-260322-185B` [high] You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
+- `INS-260329-9513` [high] Filter business ideas through three lenses — what pains you, what you do professionally, and what you care about — to find ideas grounded in authentic experience.
+- `INS-260329-5891` [high] Pick a business topic from your pain, profession, or passion — these three lenses ensure you have authentic knowledge and motivation.
+- `INS-260329-FE15` [high] Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
+- `INS-260327-2661` [high] The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
+- `INS-260322-2155` [high] Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
+- `INS-260329-ABD9` [high] Find ideas others have discarded rather than trying to discover something nobody has ever considered.
+- `INS-260321-6BA7` [high] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
+- `INS-260322-EF20` [high] Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
+- `INS-260327-E7A3` [high] Tar pit ideas form around widespread problems that seem easily solvable but have hidden structural reasons why they've resisted solution for 20+ years — and most founders skip the basic step of Googling to find out.
+- `INS-260330-8AC8` [high] Yahoo, Google, Facebook, and Apple all started as side projects — the best ideas are such outliers that your conscious mind rejects them as company ideas.
+- `INS-260330-AB6E` [high] Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
+- `INS-260330-7819` [high] Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
+- `INS-260323-AB5F` [high] Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
+- `INS-260321-CCE3` [high] COVID triggered a permanent shift where consumers took responsibility for their own health — vitamin D was the gateway, resistance training brought protein and creatine, and now the supplement-to-peptide pipeline is a mainstream consumer journey.
+- `INS-260325-D624` [high] GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
+- `INS-260330-5043` [high] Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
+- `INS-260321-7109` [high] SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
+- `INS-260330-4EF8` [high] A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.
+- `INS-260330-0E49` [high] Contrarian conviction must be grounded in a specific knowledge advantage over smart critics, not just general disagreement.
+- `INS-260322-D051` [high] US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
+- `INS-260322-F868` [high] Truemed built infrastructure that lets people use existing tax-free HSA/FSA dollars on lifestyle interventions, redirecting billions toward prevention without requiring new legislation or payer buy-in.
+- `INS-260321-3660` [high] Making startup decisions based on VC podcasts and content is literally the definition of generating non-unique ideas.
+- `INS-260330-F125` [high] The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
+- `INS-260321-E471` [high] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
+- `INS-260323-DE2B` [high] Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
+- `INS-260322-A9DE` [high] Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
+- `INS-260330-69C6` [medium] The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
+- `INS-260321-4B38` [medium] Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.
+- `INS-260328-6F5B` [medium] YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.
+- `INS-260323-8897` [medium] Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.
+- `INS-260321-08AC` [medium] There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
+- `INS-260330-D8E4` [medium] Lane's most striking claim is that H2 + CO2 is thermodynamically less stable than living cells — life is downhill energetically, blocked only by kinetic barriers that the right catalyst can overcome.
+- `INS-260330-F2EB` [medium] Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
+- `INS-260329-AA30` [medium] If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.

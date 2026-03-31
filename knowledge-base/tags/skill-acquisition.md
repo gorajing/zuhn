@@ -1,0 +1,56 @@
+# Tag: skill-acquisition
+
+- `INS-260329-92C3` Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
+- `INS-260329-A862` Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
+- `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
+- `INS-260330-8134` After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
+- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
+- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
+- `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
+- `INS-260329-F969` Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
+- `INS-260329-8868` Reducing downside risk on first attempts lets people discover aptitude they would otherwise never explore.
+- `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
+- `INS-260329-72AC` Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
+- `INS-260329-0068` Project-based progressive learning embeds concepts in context, producing stronger recall and motivation than abstract-first teaching.
+- `INS-260329-90C3` Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
+- `INS-260329-A6FB` Syntax errors should be understood as Python saying 'I don't understand' rather than 'you're bad at this'.
+- `INS-260329-979B` CS50 starts with Scratch (visual blocks) before C to let students internalize programming concepts without fighting syntax simultaneously.
+- `INS-260329-C1E1` Tight write-test-observe cycles teach abstract concepts faster than front-loaded theory because they catch misconceptions before they compound.
+- `INS-260329-9311` The course's core pedagogy — type code, compile, run, observe output, modify, repeat — exploits tight feedback loops to build intuition for abstract concepts like memory layout and type systems.
+- `INS-260329-A937` Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
+- `INS-260330-617A` Destin's son learned the backwards bicycle in 2 weeks versus Destin's 8 months — a ~16x speed difference attributable to childhood neural plasticity.
+- `INS-260329-FA1C` Distinguish between paying to learn WHAT exists (declarative — networks, masterminds) vs HOW to do it (procedural — coaching, training), and buy the right type for your current gap.
+- `INS-260330-45FF` Emotional engagement with a subject accelerates learning 3-4x compared to detached, obligation-driven study.
+- `INS-260329-493A` Interleaving three projects of increasing complexity throughout a course produces better retention than front-loading theory and back-loading practice.
+- `INS-260329-25FC` Project-based progression creates natural 'need to know' hooks that make abstract programming concepts memorable.
+- `INS-260329-49E6` Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
+- `INS-260330-112E` Each programming language (or any skill domain) contains its own infinite depth, making strategic depth-selection more important than exhaustive mastery.
+- `INS-260329-0487` Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.
+- `INS-260330-4C26` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — skill acquisition followed a step-function, not a gradient.
+- `INS-260329-E914` Start with the simplest working example and layer complexity incrementally rather than teaching theory first.
+- `INS-260329-07D3` Sequence learning around small complete projects that each introduce exactly one new concept.
+- `INS-260329-8830` Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
+- `INS-260329-E402` Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
+- `INS-260330-27A4` Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.
+- `INS-260330-0B0B` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — a discrete phase transition.
+- `INS-260329-D3D9` You must tolerate being bad at something long enough to become good at it — most people quit in the incompetence phase.
+- `INS-260329-CA16` Break abstract success traits into the smallest observable behaviors until instructions are followable at your current skill level.
+- `INS-260329-2ECE` Hormozi's call recording requirement reveals that reviewing your own recorded performance creates a feedback loop that live practice alone cannot match.
+- `INS-260329-4D06` 'People skills' isn't a trait — it's a hundred micro-skills like greeting by name, not interrupting, and smiling when someone enters.
+- `INS-260329-1D3B` Soft skills decompose into trainable micro-behaviors — patience is just a bundle of specific habits you can practice.
+- `INS-260330-CC7D` You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
+- `INS-260329-88AB` Tutorial consumption creates passive familiarity that masquerades as competence until tested by independent creation.
+- `INS-260329-023F` Real learning happens when you build projects without following a tutorial, forcing yourself to problem-solve independently.
+- `INS-260329-9A7F` Twenty hours of deeply focused study on one skill — using a physical timer to enforce attention — creates enough competence to begin job applications in that field.
+- `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
+- `INS-260329-E6A1` Errors during learning are features, not bugs — they create the friction that makes correct patterns stick.
+- `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
+- `INS-260329-27A3` Learning concepts layered on top of each other in context transfers better than learning them in isolation.
+- `INS-260329-3739` Skill = repetitions × improvement-per-rep; reviewing your top and bottom 10% of outputs is the multiplier most people skip.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
+- `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
+- `INS-260325-001B` CIA trains through educate-exercise-experience: learn a concept in class, practice it in role-play, then immediately apply it alone in the real world where only you know if you succeeded.
+- `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
+- `INS-260329-1741` CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
+- `INS-260329-3036` Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.

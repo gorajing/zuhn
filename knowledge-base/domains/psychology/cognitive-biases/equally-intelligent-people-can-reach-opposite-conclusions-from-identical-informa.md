@@ -1,0 +1,62 @@
+---
+id: INS-260323-9AA5
+domain: psychology
+topic: cognitive-biases
+title: >-
+  Equally intelligent people can reach opposite conclusions from identical
+  information
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - decision-theory
+  - cognitive-bias
+  - rationality
+  - paradox
+sources:
+  - type: youtube
+    title: This Paradox Splits Smart People 50/50
+    author: Veritasium
+    url: 'https://youtu.be/Ol18JoeXlVI'
+date_extracted: '2026-03-23'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Newcomb's Paradox shows smart people split 50/50 because they weigh evidence
+    vs causation differently, not because one side is wrong.
+  standard: >-
+    The Guardian poll of 31,000+ people showed a near-even split (53.5%
+    one-boxers vs 46.5% two-boxers) on Newcomb's Paradox. Each side finds the
+    other's position obviously wrong. The divide stems from a hidden assumption:
+    one-boxers rely on evidential decision theory (prior accuracy of the
+    predictor), while two-boxers rely on causal decision theory (your current
+    choice cannot change what is already in the box).
+
+
+    Both frameworks are internally consistent and logically valid. This is a
+    structural reminder that disagreements often arise not from one side being
+    stupid, but from different — and equally defensible — foundational
+    assumptions about how the world works.
+related:
+  - INS-260323-8966
+  - INS-260327-4367
+  - INS-260330-0E86
+  - INS-260330-5BC4
+  - INS-260330-CC51
+  - INS-260323-D934
+  - INS-260327-924F
+  - INS-260329-6004
+  - INS-260330-2B33
+  - INS-260330-7675
+stance: >-
+  Newcomb's Paradox shows smart people split 50/50 because they weigh evidence
+  vs causation differently, not because one side is wrong.
+---
+The Guardian poll of 31,000+ people showed a near-even split (53.5% one-boxers vs 46.5% two-boxers) on Newcomb's Paradox. Each side finds the other's position obviously wrong. The divide stems from a hidden assumption: one-boxers rely on evidential decision theory (prior accuracy of the predictor), while two-boxers rely on causal decision theory (your current choice cannot change what is already in the box).
+
+Both frameworks are internally consistent and logically valid. This is a structural reminder that disagreements often arise not from one side being stupid, but from different — and equally defensible — foundational assumptions about how the world works.

@@ -1,0 +1,32 @@
+# Topic: space-economy
+
+> 28 insights
+
+- `INS-260325-415A` [high] Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales.
+- `INS-260322-7A2F` [high] Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
+- `INS-260328-8445` [high] The cost to send something to space is declining exponentially like Moore's Law, enabling an explosion of space startups -- and current 'cheap launch' will look expensive in hindsight.
+- `INS-260325-4C09` [high] Exoplanet science went from nobody thinking the field would go anywhere to thousands of confirmed discoveries in 30 years — the line between crazy and mainstream constantly shifts.
+- `INS-260325-A8E6` [high] Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.
+- `INS-260325-E5EB` [high] We now know there are more planets than stars in the Milky Way, and life thrives in environments once considered utterly sterile — the universe appears far more bio-friendly than we taught 40 years ago.
+- `INS-260322-3833` [high] The Lunar Gateway is not just a moon station — it is the strategic launch point for Mars and deep space missions because escaping lunar gravity requires vastly less fuel than escaping Earth's.
+- `INS-260322-B8E6` [high] Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
+- `INS-260325-69CF` [high] SETI should technically be called SETT — Search for Extraterrestrial Technology — because we detect technology (narrow-band radio signals, laser pulses), not intelligence.
+- `INS-260325-40DC` [high] SETI is a misnomer — we search for technology (frequency-compressed radio signals or time-compressed optical pulses) because we cannot define or detect intelligence at interstellar distances.
+- `INS-260330-AF2A` [high] Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
+- `INS-260325-9677` [high] The fact that Earth is not colonized by aliens proves no galaxy-spanning civilization exists, despite 13 billion years being more than enough time to colonize the Milky Way even at current spacecraft speeds.
+- `INS-260325-7973` [high] Hart's Fact A — no aliens cohabit Earth — rules out aggressive galaxy-spanning civilizations despite 13 billion years being enough to colonize everything even at Voyager speeds.
+- `INS-260325-82E8` [high] The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.
+- `INS-260325-0A81` [high] The Copernican principle works for predicting Neptunes elsewhere but fails for properties tied to our existence — it cannot tell us life is common because we can only exist where life is possible.
+- `INS-260325-9CDC` [high] The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
+- `INS-260325-23E0` [high] When Tarter started, we knew of only 9 planets and believed extreme environments were sterile; now we know there are more planets than stars and life thrives in environments once thought impossible.
+- `INS-260325-5635` [high] Decades of exoplanet research have reinforced rather than diminished Earth's uniqueness — the more we search, the clearer it becomes that there is no planet B.
+- `INS-260325-76E6` [high] Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
+- `INS-260325-696D` [medium] Instead of asking 'is there this specific pattern?' AI lets SETI ask 'is there any pattern other than noise?' — removing human assumptions about what alien signals should look like.
+- `INS-260325-4E20` [medium] Life emerged on Earth within 200 million years of ocean formation — so fast it overwhelms evolutionary timing arguments and suggests abiogenesis is relatively easy.
+- `INS-260330-F6B5` [medium] About half of sun-like stars have gas giants in habitable zones, and if even 20% host Earth-like moons, habitable moons outnumber habitable planets.
+- `INS-260322-02A6` [medium] Korea's K-RAD CubeSat on Artemis 2 tests radiation effects on human tissue and Korean semiconductors — a dual-purpose mission validating both biological and industrial readiness for space.
+- `INS-260323-5955` [medium] Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
+- `INS-260327-969D` [medium] SpaceX doesn't grow like a software company — it accomplishes massive technical milestones every 5-7 years, each unlocking hundreds of billions in new value.
+- `INS-260325-4996` [medium] The Drake equation only multiplies narrowing filters, but the real calculation should also add up alternative paths to life that use different chemistry.
+- `INS-260325-5ACA` [medium] The Venus phosphine discovery illustrates that detecting alien life will be forensic, not definitive — unexplained chemistry is a clue, not a conclusion.
+- `INS-260325-1709` [low] Phosphine detected in Venus's atmosphere cannot be explained by known chemistry, potentially indicating life in an environment previously considered impossible.

@@ -1,0 +1,3 @@
+# Tag: amplituhedron
+
+- `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.

@@ -1,0 +1,63 @@
+---
+id: INS-260325-4FF3
+domain: startups
+topic: ai-business-models
+title: Value-based pricing over token-based pricing as the AI business model frontier
+actionability: reference
+confidence: medium
+shelf_life: time-sensitive
+status: active
+tags:
+  - pricing-models
+  - value-pricing
+  - token-economics
+  - monetization
+sources:
+  - type: audio
+    title: GTC panel 2
+date_extracted: '2026-03-25'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Eugene from ZDOT AI proposed that instead of per-token pricing, AI companies
+    should charge for value delivered — aligning revenue with the GDP of agent
+    output rather than compute consumed.
+  standard: >-
+    Eugene from ZDOT AI introduced an idea the panel found compelling: rather
+    than charging per token, AI companies should develop pricing models where
+    customers pay for value delivered. This concept was reinforced by Linda from
+    Minimax who framed the long-term value capture question as 'where the GDP
+    is' — whoever captures the economic output of agents captures the most
+    value.
+
+
+    This represents a fundamental shift in AI business model thinking. Per-token
+    pricing has the same problem as per-minute billing in telecom — it charges
+    for infrastructure usage rather than value created. A coding agent that
+    saves $100,000 in developer time should be priced against that value, not
+    against the $50 in tokens it consumed. The challenge is measurement: how do
+    you quantify the value an agent delivers? The panel did not solve this but
+    agreed it represents the frontier of AI monetization. Early movers who
+    figure out value-based pricing models will capture disproportionate revenue
+    as the market matures.
+stance: >-
+  The future of AI monetization will shift from per-token pricing to value-based
+  pricing where customers pay for outcomes delivered rather than compute
+  consumed.
+related:
+  - INS-260320-9FD5
+  - INS-260325-206C
+  - INS-260322-E20E
+  - INS-260323-7625
+  - INS-260327-A22D
+  - INS-260329-1085
+  - INS-260329-ADCD
+  - INS-260327-F0B2
+---
+Eugene from ZDOT AI introduced an idea the panel found compelling: rather than charging per token, AI companies should develop pricing models where customers pay for value delivered. This concept was reinforced by Linda from Minimax who framed the long-term value capture question as 'where the GDP is' — whoever captures the economic output of agents captures the most value.
+
+This represents a fundamental shift in AI business model thinking. Per-token pricing has the same problem as per-minute billing in telecom — it charges for infrastructure usage rather than value created. A coding agent that saves $100,000 in developer time should be priced against that value, not against the $50 in tokens it consumed. The challenge is measurement: how do you quantify the value an agent delivers? The panel did not solve this but agreed it represents the frontier of AI monetization. Early movers who figure out value-based pricing models will capture disproportionate revenue as the market matures.

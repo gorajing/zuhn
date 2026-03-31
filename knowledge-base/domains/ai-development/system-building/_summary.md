@@ -1,0 +1,207 @@
+# Topic: system-building
+
+> 203 insights
+
+- `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
+- `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
+- `INS-260329-E015` [high] Every programming construct — functions, classes, libraries, APIs — is the same abstraction operation applied at different scales.
+- `INS-260329-5C25` [high] Programming mastery is not syntax fluency but knowing when and how to create the right abstraction.
+- `INS-260329-03B0` [high] CS50P's curriculum progression from variables to functions to libraries to classes teaches the same abstraction layering principle that governs good software architecture.
+- `INS-260329-9FE0` [high] CS50 Python's curriculum structure — building from functions to libraries to classes — mirrors how well-designed software systems layer abstractions.
+- `INS-260329-D0B3` [high] CS50's progression from binary to C to Python mirrors how software systems are actually built — each layer abstracts away the complexity below.
+- `INS-260330-E6BB` [high] Abstraction layers — not simplification — are what let humans build on billion-transistor systems.
+- `INS-260329-A461` [high] Programming languages, functions, and libraries all exist as abstraction layers that hide complexity, and choosing the right abstraction level is the core system design skill.
+- `INS-260323-2E51` [high] Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely uses an IDE, and explicitly doesn't read 'boring' code (data transformation, UI alignment) — focusing review only on critical paths like database interactions.
+- `INS-260323-2DF2` [high] The explosion of AI accelerators (GPUs, TPUs, NPUs) creates an impossible maintenance burden that only a universal abstraction layer can solve.
+- `INS-260329-EF14` [high] Dynamic array append appears O(n) in worst case due to resizing, but amortized analysis shows it's O(1) because the expensive resizing happens so rarely that its cost spreads across all previous cheap appends.
+- `INS-260329-8181` [high] Evaluate data structures by amortized cost across operation sequences, not just worst-case single operations.
+- `INS-260329-425B` [high] Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
+- `INS-260329-8F98` [high] Always version APIs explicitly (e.g., /v1/products, /v2/products) rather than modifying existing endpoints, so old clients continue working while new clients get new features.
+- `INS-260330-E059` [high] 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
+- `INS-260323-6761` [high] Instead of humans manually finding cache sizes, tile dimensions, and vector widths, the compiler runs your code on the target hardware and caches the empirically fastest configuration.
+- `INS-260320-10CC` [high] 91 unit tests all passed, but an automated spec audit found 12 issues — unit tests verify code works, spec audits verify code matches intent.
+- `INS-260325-21D1` [high] Babbage built his computing machines like railroad engines — massive brass gears requiring cutting-edge machining — when the successful approach used clock technology with smaller, standardized parts.
+- `INS-260330-206C` [high] Back-translation creates synthetic training data for rare language pairs, but too much synthetic data degrades quality
+- `INS-260329-5D8A` [high] Any tree-based data structure needs a balancing strategy because real-world data is rarely inserted in random order.
+- `INS-260330-4267` [high] A simple sigmoid-based prior over word frequencies improved the Wordle solver from 4.1 to 3.6 average — a bigger gain than algorithmic sophistication alone.
+- `INS-260320-76D2` [high] Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
+- `INS-260327-FF4D` [high] Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
+- `INS-260329-6A60` [high] Python is AI's interface language, but C++ is its execution language — the performance-critical layer underneath every major framework.
+- `INS-260329-5DB9` [high] The CAP theorem proves distributed systems can only guarantee two of three properties: consistency, availability, and partition tolerance.
+- `INS-260329-B408` [high] The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
+- `INS-260330-43E3` [high] Closures preserve outer scope variables on the heap after function return, providing encapsulation without class machinery but requiring awareness of memory implications.
+- `INS-260330-AB58` [high] Justinian's legal codification outlived the Byzantine Empire by centuries and became the foundation of European law — proving that structured knowledge systems are more durable than the institutions that create them.
+- `INS-260320-4A82` [high] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
+- `INS-260323-AF96` [high] Running the same interpreter at compile time and runtime lets you express C++-template-level optimizations using normal Python-style code.
+- `INS-260329-9157` [high] Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
+- `INS-260329-761A` [high] C++ braced initialization rejects narrowing conversions at compile time while functional initialization silently truncates data, demonstrating how language design choices prevent entire bug categories.
+- `INS-260329-A8D3` [high] Combining a hash table with a binary heap improves node removal from O(n) to O(log n) — a pattern that generalizes across all system design.
+- `INS-260329-2FB8` [high] Composite primary keys (like employee_id + client_id in a Works_With table) enforce domain constraints at the database level that surrogate keys silently abandon.
+- `INS-260329-34EE` [high] Junction tables with composite keys naturally prevent duplicate relationships and encode the semantics of entity interactions.
+- `INS-260329-8233` [high] When two entities have a many-to-many relationship, a junction table with a composite key of both foreign keys is the only correct way to model it.
+- `INS-260329-FAE2` [high] Layer simple, well-understood data structures together rather than inventing clever one-off solutions.
+- `INS-260329-A171` [high] Suffix arrays replaced suffix trees by storing only sorted indices instead of full tree structures, recovering equivalent power through the LCP auxiliary array.
+- `INS-260320-47FA` [high] MASTER_INDEX to domain overview to topic summary to individual insight — answering "what do I know about X?" requires reading roughly 4 files regardless of total insight count.
+- `INS-260329-FEF4` [high] Computational thinking — decomposition, pattern recognition, abstraction, algorithms — is a general reasoning toolkit that transfers across all domains.
+- `INS-260329-04FA` [high] CS50 teaches computational thinking as a universal problem-decomposition skill, not just a precursor to coding.
+- `INS-260329-7C59` [high] CS50 treats computational thinking — decomposition, pattern recognition, abstraction, algorithms — as the foundational layer that all programming languages merely implement.
+- `INS-260325-BF84` [high] Computing's origin story is not about genius inventors but about the same industrial logic that built factories: divide complex work into simple steps, minimize cost, maximize scale.
+- `INS-260325-2CC7` [high] Computing originated as an industrial problem — how to process astronomical and navigational data at scale with minimum cost — not as a theoretical exercise.
+- `INS-260330-6E5F` [high] ATP synthase converts proton concentration gradients into chemical energy — the same barrier-and-gradient pattern appears in effective system architectures.
+- `INS-260330-EAA3` [high] Controlled imbalances released through constrained channels are the universal pattern for converting raw energy into useful work.
+- `INS-260330-3EFC` [high] Single-threaded event loops can handle thousands of concurrent operations by pausing and resuming work rather than running in parallel.
+- `INS-260329-F688` [high] Constructors that require essential data prevent invalid object states that cause downstream bugs.
+- `INS-260323-E559` [high] The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
+- `INS-260329-47DD` [high] Schema-level constraints enforce data quality rules that no application bug, API misuse, or direct SQL query can bypass.
+- `INS-260329-8CC0` [high] Sharding splits data across servers for write scalability while replication copies data across servers for read scalability — the workload pattern determines which to use.
+- `INS-260329-F556` [high] The best database schemas encode business rules structurally through keys, types, and constraints rather than trusting application code to enforce them.
+- `INS-260321-AD95` [high] Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
+- `INS-260329-0CC5` [high] Debug by progressively narrowing the problem space with print statements and breakpoints rather than guessing at fixes.
+- `INS-260329-19EA` [high] ES6 destructuring lets you extract object/array values into named variables in one step, eliminating the intermediate assignments where naming mistakes typically happen.
+- `INS-260323-6944` [high] Cantor's diagonal argument -- constructing an element that differs from every item on a list -- is the same core technique behind Godel's incompleteness, Turing's halting problem, and Russell's paradox.
+- `INS-260329-AE09` [high] Dictionaries are the most transferable data structure concept because key-value mapping appears at every level of the software stack.
+- `INS-260330-81A7` [high] Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
+- `INS-260330-CA97` [high] RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
+- `INS-260329-7673` [high] ER diagrams serve as a formal middleman between fuzzy business requirements and concrete database schemas, with systematic 5-step conversion rules.
+- `INS-260329-18C9` [high] ER diagrams work because externalizing relationships visually before formal specification catches design errors that pure code-first approaches miss.
+- `INS-260329-83AA` [high] ER diagrams translate ambiguous business requirements into unambiguous table structures before any code is written.
+- `INS-260325-FDA9` [high] Babbage's Rule — that two people doing the same calculation the same way tend to make the same mistakes — drove computing to prioritize verification methods over raw calculation speed.
+- `INS-260329-3FC9` [high] Try-except forces you to explicitly enumerate what can go wrong, transforming crashes into controlled responses — the foundation of production-grade software.
+- `INS-260329-7255` [high] Almost every performance optimization in computing trades memory for speed or speed for memory — recognizing which tradeoff you're making is the key architectural skill.
+- `INS-260329-35F2` [high] Demonstrating program crashes from bad input before introducing try-catch makes error handling feel necessary rather than ceremonial.
+- `INS-260329-72E0` [high] Specific exception catches force explicit failure mode enumeration, producing more robust error handling than generic catch-alls.
+- `INS-260329-9010` [high] Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
+- `INS-260329-3441` [high] Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
+- `INS-260320-0F7C` [high] Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
+- `INS-260329-2F63` [high] File I/O transforms programming from abstract exercises into tools that interact with the real world.
+- `INS-260329-BD83` [high] File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
+- `INS-260323-DB7B` [high] Minecraft's world ends at 1.8e308 blocks — the maximum value of a 64-bit double — showing how implementation-level data type choices create hard boundaries in procedural systems.
+- `INS-260329-6286` [high] Circular foreign key references between tables force a multi-step insertion pattern: insert with NULLs first, create the referenced row, then update back.
+- `INS-260329-67CB` [high] Database constraints like foreign keys, NOT NULL, and ON DELETE CASCADE enforce business rules at the lowest shared layer, preventing corrupt data regardless of which application writes to the database.
+- `INS-260329-BE72` [high] Foreign keys transform isolated tables into a connected information graph, enabling relationship queries that no single table could answer.
+- `INS-260329-EEA2` [high] Foreign keys move relationship enforcement from application code to the database layer where it cannot be bypassed.
+- `INS-260329-1277` [high] Foreign keys encode domain relationships that raw data cannot express, making explicit relationship declaration essential for system integrity.
+- `INS-260329-0154` [high] Testing frequently during development limits the search space for bugs to only the code changed since the last successful run.
+- `INS-260329-F362` [high] Naming a block of code 'say_hi' or 'cube' creates a mental handle that lets you think about what the program does rather than how it does it.
+- `INS-260323-1F27` [high] Galaxies grow hierarchically — larger ones absorb smaller neighbors — and the evidence of those acquisitions persists in the chemistry and position of ancient stars at the galaxy's outskirts.
+- `INS-260326-80B1` [high] GenAI collapses ML prototyping timelines from months to days, but the bottleneck shifts to evaluation and production hardening — the 'prototype to production gap' is the new constraint.
+- `INS-260327-E0F7` [high] Harness engineering uses structured documentation, linting rules, and architectural constraints to force consistent outputs regardless of which AI model generates the code.
+- `INS-260329-920D` [high] Hash tables achieve O(1) average-case operations not by avoiding collisions but by choosing the right collision resolution strategy for the specific access pattern and load factor.
+- `INS-260329-F886` [high] Open addressing trades deletion complexity for cache-friendly memory layout; separate chaining trades memory locality for operational simplicity.
+- `INS-260329-D6AA` [high] Iframes show that composability in web systems creates inherent spoofing risks — most production sites correctly restrict embedding as a security default.
+- `INS-260329-ACEB` [high] Using tuples for coordinates signals 'this data is fixed' at the type level, making the constraint impossible to violate rather than merely documented.
+- `INS-260329-85E9` [high] HFT order books are maintained entirely in-memory with replicated copies for fault tolerance, avoiding all disk I/O.
+- `INS-260330-D483` [high] Fixed latency is predictable and compensable; jitter (variable latency) is random and destroys control quality.
+- `INS-260323-36A8` [high] The Feynman infinite-slit argument shows that if you accept the double-slit experiment, you must logically accept that particles explore all possible paths — infinite screens with infinite slits is just empty space.
+- `INS-260329-BA12` [high] Inheritance (Chef is-a subclass of Person) seems elegant but creates rigid hierarchies — in practice, composition ('has-a') produces more flexible systems.
+- `INS-260329-6A26` [high] Inheritance should model genuine is-a relationships; using it purely for code reuse creates brittle hierarchies.
+- `INS-260329-9BEF` [high] JavaScript's evolution from var (global scope) to let/const (block scope, immutability) demonstrates how language-level constraints prevent entire classes of bugs that developer discipline cannot.
+- `INS-260330-52F6` [high] Knowledge distillation works because student models learn probability distributions, not just correct answers
+- `INS-260329-C1A4` [high] Four-layer caching (browser, server-side, database, CDN) with appropriate write policies at each level compounds latency reductions far beyond any single cache.
+- `INS-260329-F887` [high] Load balancers distribute traffic but become single points of failure — always deploy in redundant pairs with automatic failover.
+- `INS-260329-C991` [high] HFT pipelines use lock-free event queues because thread locking introduces unpredictable latency spikes that ruin trade timing.
+- `INS-260329-B922` [high] Understanding pointer ownership, memory leaks from lost references, and explicit deallocation builds mental models for any resource lifecycle — connections, file handles, GPU memory, API rate limits.
+- `INS-260323-2FC3` [high] The Aharonov-Bohm effect proved that potentials (once dismissed as mere mathematical shortcuts) directly influence physical reality — a reminder that abstractions can be more fundamental than the concrete phenomena derived from them.
+- `INS-260330-F5A1` [high] Store the result of expensive computations and reuse them instead of recomputing from scratch.
+- `INS-260329-6D6C` [high] When you find yourself writing the same logic twice, extract it into a method with parameters — this is the most impactful refactoring pattern.
+- `INS-260329-6AF5` [high] Naming a variable 'hours' helps humans read code but tricks beginners into thinking Python understands the concept of hours.
+- `INS-260330-C06E` [high] Real-time AI latency is solved in the serving infrastructure (caching, batching), not in the model architecture
+- `INS-260329-148D` [high] AWS's multi-AZ and multi-region architecture demonstrates that true high availability requires geographic distribution, but each level of distribution multiplies data consistency complexity.
+- `INS-260329-05BB` [high] HFT systems stamp every event with nanosecond-precision clocks for exact sequencing and component-level latency measurement.
+- `INS-260321-9906` [high] Natural language interfaces change who can program a robot, not just what it can do — but they trade a small precise vocabulary (preprogrammed tasks) for a large ambiguous one where the boundary of understanding is opaque.
+- `INS-260329-8C14` [high] The top 10 most common passwords are all sequential digits or keyboard patterns, proving humans systematically choose guessable passwords because our brains optimize for recall, not randomness.
+- `INS-260329-01F2` [high] Path compression in union-find makes every find operation flatten the tree it traverses, so the data structure permanently improves its own performance with each use.
+- `INS-260320-C8CC` [high] PM2 gives you auto-restart on crashes, per-service logs, memory/CPU monitoring, and easy management like `pm2 restart email`.
+- `INS-260320-4773` [high] Run all backend microservices via PM2 so Claude can read individual service logs in real-time without manual copy-pasting.
+- `INS-260329-3243` [high] HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
+- `INS-260330-4E68` [high] Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.
+- `INS-260329-F211` [high] Start with the simplest working thing, then layer one concept at a time — this applies equally to teaching and to building systems.
+- `INS-260329-5AC5` [high] Project-based progression where each project naturally requires the next concept creates self-motivated learning momentum.
+- `INS-260329-CD38` [high] Concrete projects that build on each other teach programming more effectively than abstract concept lectures.
+- `INS-260329-8330` [high] Progressive mini-projects that layer new concepts onto familiar ones create the most effective programming learning paths.
+- `INS-260330-AC7F` [high] CPU protection rings enforce that user-space code cannot directly access kernel resources without explicit system calls.
+- `INS-260329-12D1` [high] Python's readable syntax made it the gateway language for non-CS practitioners entering AI/ML, creating a self-reinforcing ecosystem effect.
+- `INS-260329-CF48` [high] Python's for-loop-over-file-handle pattern unifies local files, network resources, and databases into a single iteration abstraction that other languages require separate paradigms to handle.
+- `INS-260329-C375` [high] HFT firms treat latency dashboards and real-time alerts as competitive infrastructure, not optional observability tooling.
+- `INS-260330-B153` [high] Score translation quality without reference translations by training a separate quality estimation model on human error judgments
+- `INS-260329-A67B` [high] When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
+- `INS-260323-22E8` [high] A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
+- `INS-260330-3B0B` [high] Rust's borrow checker shows that encoding safety rules as compile-time constraints eliminates memory bugs more effectively than garbage collection or manual discipline.
+- `INS-260323-2117` [high] Lagrange's breakthrough was converting the three-body problem from vectors (directional, hard to add) to scalars (magnitudes, trivially additive) — a problem-solving pattern that recurs across engineering and AI.
+- `INS-260320-6F8E` [high] SDD cycle: input specs (PRD, tech brief, requirements) and output specs (research logs, code notes, findings) are both first-class artifacts.
+- `INS-260329-CB03` [high] Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
+- `INS-260329-3C75` [high] Semantic naming and structural clarity communicate intent more reliably than comments because structure can't drift out of sync with behavior.
+- `INS-260329-1075` [high] Family metaphors (parent, child, sibling) for nested structures leverage existing human intuition about relational hierarchies.
+- `INS-260329-3EB6` [high] AWS Lambda's auto-scaling model means you never under-provision, but the operational discipline shifts from capacity planning to cost monitoring and function optimization.
+- `INS-260329-3383` [high] AWS's shared responsibility model — where AWS secures infrastructure 'of' the cloud and customers secure everything 'in' the cloud — is a transferable framework for any platform-builder relationship.
+- `INS-260329-C7B8` [high] Smart order routers evaluate multiple exchanges in real-time based on liquidity, latency, fill probability, and rebate structures.
+- `INS-260320-4B31` [high] We spent hours designing a detailed spec before writing any code — the spec caught issues before they became bugs and zero scope creep occurred across 5 phases.
+- `INS-260329-3423` [high] Database constraints (NOT NULL, UNIQUE, DEFAULT, FOREIGN KEY, ON DELETE) catch entire categories of data integrity bugs at the storage layer before application code ever runs.
+- `INS-260329-34C0` [high] SQL combines four distinct sub-languages — data query, definition, control, and manipulation — each with different risk profiles and use cases.
+- `INS-260329-9745` [high] SQL triggers automatically execute code in response to INSERT/UPDATE/DELETE events, enabling powerful automation but creating implicit behavior that doesn't appear in application code.
+- `INS-260325-5B7F` [high] Standards enabled computing at scale by allowing workers who didn't understand the underlying science to reliably execute their piece of a complex calculation.
+- `INS-260325-CACA` [high] From non-interchangeable bolts to standardized programming languages, the story of computing's power is inseparable from the story of standardization.
+- `INS-260320-8FFC` [high] Sequential IDs stored in a file would be hallucinated by the LLM — timestamp plus title hash made file creation completely stateless with zero collisions across 74 insights.
+- `INS-260329-6936` [high] Declaring types upfront (string, int, bool, double) catches mismatches at compile time — the same principle behind Zod schemas and validated JSON pipelines.
+- `INS-260329-EA2B` [high] Static type systems embody a fail-fast philosophy that catches errors at the earliest possible moment — compile time rather than runtime.
+- `INS-260320-63D3` [high] Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.
+- `INS-260320-26B1` [high] Use SuperWhisper for voice-to-text prompting when your hands are tired from typing all day.
+- `INS-260323-A8B5` [high] Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
+- `INS-260329-D297` [high] Using arbitrary surrogate keys rather than business-meaningful natural keys as primary keys prevents breakage when business rules change.
+- `INS-260329-36DA` [high] Surrogate keys insulate your schema from real-world identifier instability by creating a stable internal reference layer.
+- `INS-260323-813B` [high] The key to making knowledge computable is finding symbolic representations that match how humans conceptualize things while remaining formally manipulable by machines.
+- `INS-260330-EC22` [high] Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
+- `INS-260323-1811` [high] Minecraft shows five distinct degradation zones before total failure — from buggy terrain to stretched blocks to void to infinity — demonstrating how systems fail gradually through observable stages before hitting hard limits.
+- `INS-260329-C031` [high] Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
+- `INS-260326-3D8D` [high] Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
+- `INS-260325-5CB1` [high] Stanford Prof Ram Rajagopal: the AI bottleneck is not compute but power — data centers are outgrowing the century-old electrical grid.
+- `INS-260325-8E0D` [high] The tick-tock of escapement clocks gave computing its drumbeat — a method to step through calculations systematically rather than letting machines run wild.
+- `INS-260327-D9D6` [high] The FDE role translates vague client requirements into AI-ready specifications through iterative meetings, structured documentation, and progressive decomposition from ambiguity to precision.
+- `INS-260329-B2F4` [high] Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.
+- `INS-260327-65F9` [high] Digital fabrication is following the PC trajectory: from expensive institutional tools to community fab labs to eventually personal fabrication capability for everyone.
+- `INS-260329-5F19` [high] AWS's shared responsibility model — customer owns security IN the cloud, AWS owns security OF the cloud — is a transferable framework for any platform abstraction layer.
+- `INS-260321-167A` [high] Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
+- `INS-260329-5B50` [high] Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
+- `INS-260329-02B3` [high] String concatenation masquerading as addition teaches that computers do exactly what you say, not what you mean — the foundational debugging insight.
+- `INS-260329-DEA1` [high] Data types are the gateway abstraction that teaches programmers to separate representation from operation.
+- `INS-260330-0A8D` [high] One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
+- `INS-260323-9955` [high] The principle of least action provides a single mathematical framework that generates all laws of physics — classical mechanics, relativity, electrodynamics — by simply writing down the correct Lagrangian.
+- `INS-260329-0B55` [high] Union-Find achieves near-constant amortized operations by lazily flattening tree paths only when queried, not eagerly during union.
+- `INS-260330-0CAD` [high] Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
+- `INS-260329-8896` [high] Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.
+- `INS-260329-7677` [high] C++ pointer/reference semantics force you to think explicitly about whether you're copying data or pointing to shared data — a distinction that prevents entire categories of AI system bugs.
+- `INS-260329-BAB7` [high] The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
+- `INS-260329-9074` [high] Variables create single points of change that prevent linear maintenance scaling in growing codebases.
+- `INS-260323-DC99` [high] As AI coding tools handle implementation, the planning-to-development time ratio has inverted to as high as 9:1 — making structured planning the primary constraint on software quality.
+- `INS-260329-8A13` [medium] CS50's progression from binary to C to Python to web frameworks demonstrates that effective abstraction layers hide complexity without destroying access to it.
+- `INS-260329-919F` [medium] C++ access specifiers (private, protected, public) teach the universal principle that every system needs explicit trust boundaries defining who can read and write what.
+- `INS-260329-B170` [medium] The C++ compilation pipeline (source → preprocessor → compiler → linker → executable) mirrors how LLM systems process prompts through tokenization, attention, and decoding stages.
+- `INS-260329-3177` [medium] The C++ compile-build-run pipeline maps surprisingly well onto the LLM prompt-to-output pipeline as a teaching mental model.
+- `INS-260325-2B76` [medium] The clock's tick-tock became computing's fundamental drumbeat — a sequential control mechanism that enabled orderly, systematic machine calculation long before electronics.
+- `INS-260329-92FC` [medium] Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
+- `INS-260320-EA19` [medium] Use consistent folder conventions: project/story/task/ with requirements.md, instructions.md, research.md, plan.md, code.md, review.md, findings.md.
+- `INS-260329-C33B` [medium] JavaScript's prototype-based object model shows that simple delegation chains can replace complex class hierarchies while remaining more flexible.
+- `INS-260320-4BA8` [medium] Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
+- `INS-260329-F66E` [medium] C++ lambda capture by value vs reference is a microcosm of the universal architectural choice between isolated copies and shared state at every system boundary.
+- `INS-260323-D8B9` [medium] Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
+- `INS-260321-801C` [medium] Fuelfinance is building an MCP integration that lets Claude talk directly to your financial data inside Fuel — eliminating the copy-paste bottleneck between your accounting system and AI analysis.
+- `INS-260329-075C` [medium] OOP's core pattern — encapsulated state + behavior composed into hierarchies — is the same pattern that makes multi-agent AI systems work.
+- `INS-260329-E280` [medium] OOP's class/inheritance model remains the most intuitive entry point for teaching system decomposition to beginners.
+- `INS-260329-0432` [medium] Classes let you create custom data types that model real-world entities — the core value of OOP is domain modeling, not inheritance.
+- `INS-260329-D75D` [medium] Progressive project sequences teach concepts in context, producing better retention than abstract-first approaches.
+- `INS-260329-0F39` [medium] Pseudocode separates the 'what to do' from 'how to express it,' reducing cognitive load — the same mechanism that makes chain-of-thought prompting effective for LLMs.
+- `INS-260329-DACC` [medium] Accept unexplained scaffolding early so learners can produce output immediately, then backfill understanding incrementally.
+- `INS-260327-0875` [medium] A robot that can build copies of itself from its own parts enables exponential manufacturing capacity - exactly how ribosomes build elephants one molecule at a time.
+- `INS-260320-D4BD` [medium] New engineers hit the ground running with clear specs defining both what to build and what has already been done.
+- `INS-260320-7914` [medium] Research logs and findings surface 'already solved' patterns, preventing teams and agents from reinventing solutions.
+- `INS-260330-82B2` [medium] The stack (short-lived, auto-managed) vs heap (long-lived, manually managed) split mirrors stateless vs stateful architecture.
+- `INS-260329-0EAC` [medium] Static members share state across all instances, creating implicit coupling that must be used deliberately.
+- `INS-260329-1610` [medium] Static attributes reveal that classes are first-class entities with their own state, not merely blueprints for objects.
+- `INS-260329-7914` [medium] JavaScript strings being immutable (you must replace the whole string, not modify individual characters) demonstrates how immutability eliminates entire categories of bugs.
+- `INS-260329-C7BF` [medium] Switch statements introduce the powerful concept of mapping values to behaviors, which generalizes to dispatch tables, strategy patterns, and event handlers.
+- `INS-260327-03CF` [medium] Gershenfeld learned 'the secret of life' at the boundary between bits and atoms - because life itself is the original digital-physical hybrid system.
+- `INS-260329-CF16` [medium] SQL triggers execute automatically and atomically when data changes, making them reliable for maintaining derived tables, audit logs, and cross-table consistency.
+- `INS-260327-F232` [medium] Gershenfeld argues Turing and von Neumann made a fundamental mistake by separating software from hardware - biology computes with its physical structure, not with programs running on it.
+- `INS-260330-77E2` [medium] Two-step lookahead improved Wordle solving from 3.6 to 3.43 — significant but diminishing returns over greedy one-step.
+- `INS-260323-E0B5` [medium] Text-only planning (markdown PRDs) is insufficient for vibe coding — parallel visual artifacts like user flows and tree views of functional specs provide the contextual consistency AI agents need.
+- `INS-260329-FEC5` [medium] The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.

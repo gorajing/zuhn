@@ -1,0 +1,38 @@
+# Tag: geopolitics
+
+- `INS-260323-636C` Netanyahu's game-theoretic observation: no nation will voluntarily slow AI development to cooperate on regulation — universal AI regulation may only become possible if AI threatens all nations simultaneously.
+- `INS-260321-86F1` China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
+- `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
+- `INS-260322-AFE9` AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
+- `INS-260323-62F3` Chinese companies release open-weight models primarily to gain global distribution and influence, not out of altruism.
+- `INS-260329-A4CA` Bond markets drive political decisions faster than traditional diplomacy in the current environment
+- `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
+- `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
+- `INS-260330-2718` If military action creates more terrorists than it eliminates, the strategy fails — conspicuous kindness breaks the cycle more effectively than force.
+- `INS-260323-E81D` Holocaust survivor Maior Meyer's observation: for a dominant group to dehumanize another, they must first dehumanize themselves — and technology accelerates this by inserting screens between killer and killed.
+- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
+- `INS-260321-10FF` Saudi Arabia and Israel were sworn enemies for decades. Now they're aligning because both want to be core hub stations on IMEC. When economic interests change, the colors beneath the board change on their own.
+- `INS-260321-3EC0` When you invest in a country's stock market, you're placing a geopolitical bet on that country's future economic power relative to rivals — not just on individual companies.
+- `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
+- `INS-260330-757E` States can use infrastructure projects to gradually absorb autonomous regions by making economic integration irreversible before political integration follows.
+- `INS-260323-17B5` El-Kurd demonstrates how legal systems can be constructed to legitimize displacement, drawing parallels to Jim Crow laws that were technically legal but morally bankrupt.
+- `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
+- `INS-260323-3864` The entire nuclear arsenal can launch in seconds; the president has 6 minutes to decide; and deterrence as a philosophy collapses completely once the first missile flies.
+- `INS-260323-75A8` When a population is given no hope, no political agency, and increasing aggression for decades, violent escalation is not surprising — it's the predictable outcome of a pressure cooker with no release valve.
+- `INS-260330-EF74` Nations hosting major tech platforms gain disproportionate geopolitical leverage because these companies wield both financial and cultural influence globally.
+- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.
+- `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
+- `INS-260330-4AC6` Nations expand aggressively when facing existential resource constraints, regardless of their stated ideological justifications.
+- `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
+- `INS-260330-E082` Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
+- `INS-260323-9676` ASML is the sole manufacturer of EUV lithography machines worldwide — every advanced chip on Earth depends on one company in one Dutch town, making semiconductor manufacturing the most concentrated chokepoint in the global economy.
+- `INS-260323-D2CF` Ji got 8 years and his handler Xu got 20, but both were returned to China in a spy swap late in the Biden administration — espionage prosecutions are strategic assets in diplomatic negotiations, not just criminal proceedings.
+- `INS-260323-493D` Tactical nuclear weapons — designed for battlefield use — are the most dangerous category because their use almost certainly triggers full strategic nuclear exchange.
+- `INS-260323-DE39` Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
+- `INS-260323-9FCA` Musk warns that China's economy will be 2-3x the US economy, creating the same Athens-vs-Sparta dynamic that led to the Peloponnesian War — a war both sides saw coming and couldn't prevent.
+- `INS-260323-7185` Despite popular mythology, the US actively tried to keep the Soviet Union together through 1991 — the collapse created nuclear weapon concerns and destroyed a useful junior partnership.
+- `INS-260327-DBEB` China stopped buying American soybeans entirely, strengthening ties with Brazil instead, even at higher prices.
+- `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
+- `INS-260323-79A5` Ukraine's departure made the Soviet Union structurally non-viable — Yeltsin told Bush that without Ukraine, Russia would be outnumbered by Muslim republics, ending Russian interest in the project.
+- `INS-260321-D4D0` The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
+- `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.

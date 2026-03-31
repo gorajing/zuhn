@@ -1,0 +1,79 @@
+# Tag: resilience
+
+- `INS-260325-2B17` What makes institutions work is not ideology but self-correcting mechanisms: elections, peer review, constitutional amendments.
+- `INS-260329-92FC` Cloud-native storage eliminates hardware as a single point of failure, turning device loss from catastrophic to trivial.
+- `INS-260329-3FC9` Try-except forces you to explicitly enumerate what can go wrong, transforming crashes into controlled responses — the foundation of production-grade software.
+- `INS-260329-9010` Exception handling transforms uncontrolled crashes into controlled recovery paths, maintaining system stability when errors inevitably occur.
+- `INS-260329-3441` Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
+- `INS-260320-0F7C` Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
+- `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely.
+- `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
+- `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
+- `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
+- `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
+- `INS-260327-7E6F` After Aspern-Essling, Napoleon didn't just try the same approach again — he systematically fixed every failure point: better bridges, more troops, new crossing points, and artillery superiority.
+- `INS-260323-DA4E` Third-generation refugees maintain resilience through the frame 'nothing lasts forever' — historical perspective that no occupation is permanent provides psychological survival even when immediate hope is absent.
+- `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
+- `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
+- `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
+- `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
+- `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
+- `INS-260329-03B5` Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
+- `INS-260325-5C03` The resilience paradox: we can identify many factors correlated with resilience, but none strongly predict who will be resilient next time, because the meta-skill is flexibly matching strategy to situation.
+- `INS-260325-75C5` Individual resilience factors like optimism or problem-solving have only small predictive effects because situations vary so much — the real predictor is adaptive flexibility across strategies.
+- `INS-260325-2944` Shifting self-talk from statements ('I'll be fine') to questions ('What's happening now? What tools do I have?') activates problem-solving rather than just emotional comfort.
+- `INS-260325-2052` Stop and ask 'what is the specific problem right now?', choose one strategy from your toolbox, monitor if it works, and try something else if it doesn't — this iterative loop is the core of resilience.
+- `INS-260329-5F37` Every CS50P example follows a pattern of intentionally broken code → diagnosis → fix, training students to see confusion as the precursor to understanding rather than evidence of inability.
+- `INS-260329-B214` Programming bugs are the learning mechanism itself, not obstacles to overcome before learning happens.
+- `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
+- `INS-260330-E03A` NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
+- `INS-260323-08E9` A Palestinian man who has endured violence and displacement says 'I love everybody, even the Jews they kill us' — demonstrating that choosing love over hatred is a deliberate, renewable act of will, not a passive absence of anger.
+- `INS-260327-78DA` Nietzsche's amor fati doesn't just accept suffering - it loves it, treating every hardship as necessary raw material for becoming who you are.
+- `INS-260327-CD49` Everyone thinks confidence leads to big actions, but it is completely reversed -- you do big things, put yourself out there while scared, and then confidence builds from the evidence of having survived.
+- `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.
+- `INS-260330-FE21` Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
+- `INS-260330-A9F8` All systems have a hidden threshold where reversible stress becomes permanent damage, and you cannot detect that boundary from the elastic side.
+- `INS-260327-71A3` Two people with identical anxiety levels can live completely different lives depending on whether they engage with it or flee from it.
+- `INS-260327-375B` Giertz's humorous approach to her brain tumor wasn't denial - it was a sophisticated resilience strategy that created psychological distance and social support simultaneously.
+- `INS-260330-0DFC` Rogan survived his cancellation by refusing to read any negative coverage, telling his wife never to read negative articles to him, and continuing his normal work routine.
+- `INS-260325-B4CB` Happiness is a feeling; joy is a story that says life is still worth loving even with all its brokenness.
+- `INS-260325-0172` Happiness is fragile and requires things going well; joy is existentially gritty and can coexist with the deepest suffering.
+- `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
+- `INS-260330-1226` After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
+- `INS-260327-900A` The darkest philosophical questions don't need to be avoided for psychological health - they need to be integrated, producing a resilience that avoidance can never build.
+- `INS-260325-F707` Lists of '3 traits of highly resilient people' are myths — research finds many factors with small effects, meaning resilience is not a fixed character trait but an emergent outcome of many interacting variables.
+- `INS-260330-9351` The healthiest people in isolation self-stimulate through counting, exercise, and narration — passive endurance leads to cognitive decline and dissociation.
+- `INS-260329-7FD6` After losing everything, Hormozi made $100K the next month — proving skills, not savings, are the real asset.
+- `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.
+- `INS-260325-C2DA` During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
+- `INS-260325-3754` Research consistently shows approximately two-thirds of people exposed to potentially traumatic events continue functioning normally — resilience is the norm, not the exception.
+- `INS-260325-F8EB` Research across over 100 studies consistently shows that about two-thirds of people exposed to potentially traumatic events show a resilient trajectory of continued healthy functioning.
+- `INS-260327-ECBB` Choosing to live with less than you can afford builds a psychological strength that living at maximum comfort systematically destroys.
+- `INS-260330-3E64` Rogan credits brutal exercise routines, sauna, and cold plunge as the primary mechanism that made surviving his cancellation attempt manageable.
+- `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
+- `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
+- `INS-260323-9C11` Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
+- `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
+- `INS-260325-0C4A` Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
+- `INS-260325-CF3E` People cannot learn from failure until they separate 'I made a mistake' from 'I am a failure' — the identity conflation blocks all forward motion.
+- `INS-260330-498B` Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.
+- `INS-260327-E3D5` Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
+- `INS-260327-CF53` Treat every external limitation and setback as jet fuel for your trajectory.
+- `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
+- `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
+- `INS-260322-C9AC` Founders who define themselves by a life mission rather than a specific product idea can pivot repeatedly without existential crisis.
+- `INS-260323-D564` Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to melting — but persisted because he believed ice could have saved his brother's life.
+- `INS-260329-6130` Low personal expenses buy you more shots on goal by letting you survive multiple business failures.
+- `INS-260327-A675` Parker Conrad credits his 'revenge fantasy' after being ousted from Zenefits as the fuel that sustained him through Rippling's brutal early years.
+- `INS-260329-BBBE` After losing everything, Hormozi made $100K the next month — proving the skills, not the business, were the real asset he'd built.
+- `INS-260329-E0DE` Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
+- `INS-260323-B497` Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.
+- `INS-260328-41C9` Interviewers use rejection questions to filter for coachability and growth mindset — the answer reveals whether a candidate will burn out or improve under pressure.
+- `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
+- `INS-260330-7462` Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
+- `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
+- `INS-260330-D88C` Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
+- `INS-260330-035C` Photosynthesis produced oxygen that poisoned its own key enzyme RuBisCo, forcing plants to evolve detoxification pathways just to keep functioning.
+- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.

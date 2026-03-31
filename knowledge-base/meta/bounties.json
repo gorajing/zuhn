@@ -1,0 +1,151 @@
+[
+  {
+    "id": "BOUNTY-260325-3788",
+    "type": "red-team",
+    "target_principle": "PRI-260321-AD44",
+    "principle_title": "AI amplifies breadth but humans own depth — design for complementarity",
+    "counter_arguments": [
+      {
+        "url": "https://www.nature.com/articles/s41562-024-02024-1",
+        "author": "Michelle Vaccaro, Abdullah Almaatouq, Thomas Malone — MIT Sloan / Center for Collective Intelligence",
+        "credibility": "Published in Nature Human Behaviour (Dec 2024). Preregistered meta-analysis of 106 experiments (370 effect sizes). Gold-standard methodology for this question.",
+        "threat_level": "core",
+        "summary": "Human-AI combinations performed significantly WORSE than the best of humans or AI alone (Hedges' g = -0.23). When AI outperformed humans alone, adding humans to the loop produced losses, not gains. This directly challenges the principle's core claim that designing for complementarity yields superior outcomes — the empirical average says complementarity often destroys value rather than creating it."
+      },
+      {
+        "url": "https://www.nature.com/articles/s41586-025-09833-y",
+        "author": "AlphaProof team at Google DeepMind — published in Nature (Nov 2025)",
+        "credibility": "Nature publication. AlphaProof solved IMO 2024 Problem 6, which only 5 of 609 human competitors solved. Formal proofs are machine-verified, eliminating hallucination concerns.",
+        "threat_level": "core",
+        "summary": "AlphaProof achieved deep, cumulative mathematical reasoning — not breadth — by using test-time reinforcement learning to generate and learn from millions of problem variants. It solved the hardest competition problem through sustained multi-step formal proof construction, precisely the kind of 'depth' the principle claims humans uniquely own. This suggests AI can achieve depth through compute-intensive search, not just breadth through parallelism."
+      },
+      {
+        "url": "https://arcprize.org/blog/arc-prize-2025-results-analysis",
+        "author": "François Chollet (Google AI researcher, Keras creator) and ARC Prize Foundation",
+        "credibility": "Chollet is the leading researcher on measuring AI abstraction/reasoning. ARC-AGI is the gold-standard benchmark for fluid intelligence. 2025 competition had 1,455 teams and 15,154 entries.",
+        "threat_level": "assumption",
+        "summary": "ARC-AGI-2 results show AI reaching 24% on novel abstract reasoning tasks through 'refinement loops' — iterative, per-task program optimization that resembles cumulative depth-building, not breadth-scanning. The defining theme of 2025 is AI systems that improve through iterative refinement on single problems, challenging the assumption that AI's strength is necessarily breadth-first. However, humans still dramatically outperform at ~85%, so this partially supports the principle too."
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/radiology/articles/10.3389/fradi.2025.1670517/full",
+        "author": "Systematic review across 8,852 radiological cases — Frontiers in Radiology (2025)",
+        "credibility": "Peer-reviewed systematic review and meta-analysis covering multiple subspecialties of radiology, published 2025.",
+        "threat_level": "boundary",
+        "summary": "In specific diagnostic tasks (e.g., lung nodule segmentation, AUROC 94.4%), AI outperformed six radiologists not through breadth but through deeper pattern recognition in narrow domains. This challenges the boundary of the principle: in perceptual depth tasks with large training data, AI may own depth too. The principle may only hold for open-ended reasoning, not perceptual expertise."
+      },
+      {
+        "url": "https://www.nature.com/articles/d41586-025-03223-0",
+        "author": "Nature News feature (2025) — surveys multiple AI researchers including Sakana AI's 'AI Scientist' team (Oxford/UBC)",
+        "credibility": "Nature news feature surveying the field. References Sakana AI's autonomous research loop and Microsoft's Stargate investment in autonomous scientific discovery.",
+        "threat_level": "assumption",
+        "summary": "Autonomous AI research systems (Sakana AI's 'AI Scientist') demonstrated a complete research loop — hypothesis generation, experimental design, code, execution, paper drafting — without human depth-checking. Autonomous labs moved from proof-of-concept to scaled deployment in 2025. This challenges the principle's assumption that humans must 'dig into the hard spots' — autonomous systems are beginning to do sustained, cumulative investigation without human complementarity."
+      }
+    ],
+    "diversity_gaps": [
+      "Geographic: all sources are from US/UK institutions — missing perspectives from Chinese AI labs (e.g., DeepSeek) which may have different empirical data on depth vs breadth",
+      "Missing: labor economist perspective on whether complementarity design actually creates or destroys jobs vs full automation",
+      "Missing: cognitive science perspective on whether 'depth' is a meaningful distinction or a folk category that doesn't carve nature at joints",
+      "Domain: counter-evidence is concentrated in math/medicine/science — missing data from creative, legal, or strategic domains where depth may behave differently"
+    ],
+    "created_at": "2026-03-25",
+    "status": "ingested",
+    "resolved_at": "2026-03-25",
+    "resolution_notes": "Ingested top 2 counter-arguments (Nature meta-analysis + AlphaProof). 8 insights extracted. Principle PRI-260321-AD44 needs revision to account for: (1) naive complementarity destroys value, (2) AI achieves depth in formal domains."
+  },
+  {
+    "id": "BOUNTY-260325-62BE",
+    "type": "gap-fill",
+    "target_topic": "startups/co-founders",
+    "current_insights": 4,
+    "gap_appearances": 11,
+    "suggested_sources": [
+      {
+        "url": "https://review.firstround.com/how-to-fix-the-co-founder-fights-youre-sick-of-having-lessons-from-couples-therapist-esther-perel/",
+        "title": "How to Fix the Co-Founder Fights You're Sick of Having — Lessons from Couples Therapist Esther Perel",
+        "author": "Esther Perel — world-renowned psychotherapist, bestselling author of 'Mating in Captivity' and 'The State of Affairs', host of 'How's Work?' podcast, organizational consultant to startups and Fortune 500s",
+        "quality_rationale": "Perel applies couples therapy frameworks to co-founder dynamics — a genuinely contrarian lens. She argues all co-founder fights reduce to 3 root issues (power/control, care/closeness, respect/recognition) and provides specific therapeutic techniques for navigating them. Published Feb 2024 on First Round Review, one of the highest-quality startup publications. Long-form deep dive with actionable frameworks.",
+        "estimated_yield": 9
+      },
+      {
+        "url": "https://carta.com/data/solo-founders-report/",
+        "title": "Solo Founders Report 2025 — Carta Data Analysis",
+        "author": "Peter Walker, Head of Insights at Carta — analysis based on tens of thousands of U.S. companies incorporated on Carta's platform",
+        "quality_rationale": "Deeply contrarian and data-driven. Challenges the YC orthodoxy that you need a co-founder by showing solo founders rose from 24% to 36% of startups (2019-2025), hold 50% larger stakes at Series B, and have 75% greater median ownership at exit. AI is accelerating the trend. This is the strongest empirical challenge to conventional co-founder wisdom available, and directly tension-worthy against existing insights about finding builders and team dynamics.",
+        "estimated_yield": 10
+      },
+      {
+        "url": "https://markmacleod.me/psychologist-matt-jones-on-why-startups-fail-due-to-co-founder-conflict-and-how-to-fix-it/",
+        "title": "Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It",
+        "author": "Dr. Matthew Jones, Psy.D. — licensed clinical psychologist specializing exclusively in co-founder dynamics, author of 'The Cofounder Effect', has worked with founders backed by YC, Sequoia, a16z. Interviewed by Mark MacLeod, former CFO of several startups and executive coach.",
+        "quality_rationale": "The only psychologist working full-time on co-founder relationships brings clinical rigor to a domain dominated by anecdotal advice. His contrarian claim: two-thirds of startup failure is rooted in co-founder conflict, not product-market fit. He identifies that top-performing teams don't avoid conflict — they navigate it differently. Specific psychological frameworks for diagnosis and repair. Published Nov 2025.",
+        "estimated_yield": 8
+      },
+      {
+        "url": "https://www.ycombinator.com/library/MI-how-to-navigate-co-founder-disputes",
+        "title": "How To Navigate Co-Founder Disputes — YC Lightcone Podcast",
+        "author": "Garry Tan (YC President/CEO), Harj Taggar, Jared Friedman, Diana Hu — all YC partners who have collectively seen thousands of co-founder relationships succeed and fail",
+        "quality_rationale": "YC partners sharing battle-tested patterns from seeing thousands of startups. Combines multiple perspectives from people who have both been co-founders themselves and advised hundreds of founding teams. Long-form podcast discussion with specific advice on managing co-founder conflict. The YC dataset (7000+ companies) gives these observations statistical weight unavailable elsewhere.",
+        "estimated_yield": 8
+      },
+      {
+        "url": "https://www.psychologytoday.com/us/blog/scaling-connection/202504/8-cofounder-conflict-myths-that-sabotage-startups",
+        "title": "8 Cofounder Conflict Myths That Sabotage Startups",
+        "author": "Dr. Matthew Jones, Psy.D. — Psychology Today 'Scaling Connection' column, clinical psychologist and co-founder coach",
+        "quality_rationale": "Explicitly contrarian — debunks 8 widely-held beliefs about co-founder conflict that Jones argues actively sabotage startups. Part of a multi-article Psychology Today series (2025) that also covers hidden dynamics, power struggles, and why speed kills conflict resolution. The myth-busting format is ideal for generating high-stance insights that challenge conventional wisdom. Published April 2025.",
+        "estimated_yield": 7
+      }
+    ],
+    "created_at": "2026-03-25",
+    "status": "partially_ingested",
+    "resolved_at": "2026-03-25",
+    "resolution_notes": "Ingested Esther Perel co-founder article (4 insights). Carta solo founders report blocked (HTTP 403). Remaining 3 sources available for future ingestion."
+  },
+  {
+    "id": "BOUNTY-260325-F761",
+    "type": "gap-fill",
+    "target_topic": "ai-development/product-strategy",
+    "current_insights": 5,
+    "gap_appearances": 12,
+    "suggested_sources": [
+      {
+        "url": "https://www.mindtheproduct.com/why-most-ai-products-fail-key-findings-from-mits-2025-ai-report/",
+        "title": "Why Most AI Products Fail: Key Findings from MIT's 2025 AI Report",
+        "author": "Mind the Product, synthesizing MIT FutureTech's 2025 enterprise AI study",
+        "quality_rationale": "MIT found 95% of generative AI pilots yield no business impact. The core concept of a 'learning gap' — where tools fail because they don't adapt to enterprise workflows, not because models are bad — is a deeply contrarian reframe. Challenges the assumption that better models = better products. Also reveals that back-office automation succeeds far more than high-visibility AI features, which contradicts most startup playbooks.",
+        "estimated_yield": 9
+      },
+      {
+        "url": "https://creatoreconomy.so/p/openai-product-leader-7-step-playbook-to-build-defensible-ai-products",
+        "title": "OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products",
+        "author": "Miqdad Jaffer (OpenAI Product Lead), curated by Kevin Kwok (Creator Economy)",
+        "quality_rationale": "From inside OpenAI, the person building the products shares a concrete framework: high-frequency pain selection, data exhaust flywheels, adjacency potential for expansion. The contrarian insight is that speed without defensibility makes you the first target — directly relevant to existing insights about AI wrappers and feature-vs-product distinctions. Practitioner-level depth from the most important AI company.",
+        "estimated_yield": 8
+      },
+      {
+        "url": "https://www.mindtheproduct.com/the-2026-ai-product-strategy-huide-how-to-plan-budget-and-build-without-buying-into-the-hype/",
+        "title": "The 2026 AI Product Strategy Guide: How to Plan, Budget, and Build Without Buying Into the Hype",
+        "author": "Mind the Product editorial team",
+        "quality_rationale": "Contrarian framing: the risk is no longer missing the AI boat, it's boarding a boat that burns cash with every user interaction. Introduces the 3x value-to-compute-cost rule, AI P&L line discipline, and circuit breaker patterns for agentic systems. Fills gaps around unit economics and cost governance that the existing 5 insights don't cover at all.",
+        "estimated_yield": 7
+      },
+      {
+        "url": "https://www.lennysnewsletter.com/p/the-new-ai-growth-playbook-for-2026-elena-verna",
+        "title": "The New AI Growth Playbook for 2026: How Lovable Hit $200M ARR in One Year",
+        "author": "Elena Verna (growth advisor, ex-Miro/Amplitude/Dropbox) on Lenny's Podcast",
+        "quality_rationale": "Elena Verna argues the traditional growth playbook is completely rewritten for AI companies — Lovable focuses on innovation over optimization and gives away their product for free as their most powerful growth strategy. This is deeply contrarian: most product strategy assumes monetization gates, not free-as-growth-engine. Long-form podcast (~60+ min) with concrete examples from a $200M ARR case study.",
+        "estimated_yield": 8
+      },
+      {
+        "url": "https://a16z.com/momentum-as-ai-moat/",
+        "title": "In Consumer AI, Momentum Is the Moat",
+        "author": "Andreessen Horowitz (a16z) AI Apps team",
+        "quality_rationale": "a16z challenges their own earlier 'Empty Promise of Data Moats' thesis by arguing that in the current AI cycle, momentum itself — speed of iteration, user growth velocity, and category creation pace — is the real moat, not data or technology. Combined with their framework of three AI app categories (AI-native existing categories, labor-replacing new categories, proprietary-data closed-loop workflows), this provides strategic depth the existing insights lack.",
+        "estimated_yield": 7
+      }
+    ],
+    "created_at": "2026-03-25",
+    "status": "partially_ingested",
+    "resolved_at": "2026-03-25",
+    "resolution_notes": "Ingested MIT AI products report (3 insights). Remaining 4 sources available for future ingestion."
+  }
+]

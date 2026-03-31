@@ -1,0 +1,47 @@
+# Tag: persistence
+
+- `INS-260320-06EF` Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
+- `INS-260327-3FC7` Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
+- `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
+- `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
+- `INS-260329-A077` Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
+- `INS-260327-51C2` I can't go on. I'll go on. - Beckett's most important insight is that persistence doesn't require hope, meaning, or expectation of success.
+- `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
+- `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.
+- `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
+- `INS-260329-557C` The capacity to do the same unrewarding thing repeatedly without quitting is learnable and is the main thing separating successful people from everyone else.
+- `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
+- `INS-260326-8B81` Fluoride takes 20+ years to clear from bones, childhood attachment patterns take decades of therapy to rewire, and toxic organizational culture persists years after the people who created it leave.
+- `INS-260329-5FB5` Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
+- `INS-260327-7DBC` With zero credibility, the Diary of a CEO team messaged 1,000 people per week to book guests — pure numbers game persistence drove them from 8K to 13M subscribers.
+- `INS-260327-0004` Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
+- `INS-260329-4E70` The boring middle is a feature of ambitious paths, not a signal to pivot.
+- `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
+- `INS-260329-B34E` People fail by building many half-finished bridges rather than completing one — getting to 90% on multiple paths yields zero while 100% on one path yields everything.
+- `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
+- `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
+- `INS-260329-19F9` The 5-phase emotional cycle (uninformed optimism → informed pessimism → despair → informed optimism → achievement) explains why serial-starters never build wealth.
+- `INS-260329-E6C3` Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
+- `INS-260329-1FEE` Serial starters keep abandoning projects at the valley of despair and restarting with uninformed optimism — the fix is committing long enough for it to be unreasonable to still be bad.
+- `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
+- `INS-260329-EECD` Massive volume of attempts eliminates the need for luck because rejection costs nothing and one success changes everything.
+- `INS-260329-3FF3` Doing something enough times guarantees outcomes that individual attempts leave to chance.
+- `INS-260329-7C08` Commit to producing 400 long-form content pieces as the baseline strategy for audience building from zero.
+- `INS-260330-4314` Maintain an explicit investment thesis and use confidence direction — not absolute level — to decide persistence vs. pivot.
+- `INS-260323-2F50` Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
+- `INS-260329-9C20` When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
+- `INS-260323-3F56` Dirac rejected the Klein-Gordon equation not because it was wrong in practice but because it was ugly in principle — its second-order time derivative violated the philosophical symmetry between space and time — and his insistence on elegance led to the discovery of antimatter.
+- `INS-260329-CE86` Success and failure look identical during the middle years — the only differentiator is who keeps going.
+- `INS-260330-F1C8` Track confidence in your investment thesis bullets to know when to persist, adapt, or pivot.
+- `INS-260323-9770` LIGO scientists built a billion-dollar machine on Einstein's unproven prediction and waited 10 years of silence before their first detection.
+- `INS-260327-2F78` Learn to distinguish real conviction from stubbornness—the difference determines if you succeed or waste years.
+- `INS-260330-8CD4` Starting a company from genuine mission conviction creates durable advantages in persistence, team alignment, and external support that purely opportunistic ventures cannot replicate.
+- `INS-260329-DD06` If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
+- `INS-260323-D564` Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to melting — but persisted because he believed ice could have saved his brother's life.
+- `INS-260330-F348` Musk doesn't seek sources of strength — quitting simply isn't in his option set, which removes the need for ongoing motivation.
+- `INS-260329-AAE3` You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
+- `INS-260323-DEC3` The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
+- `INS-260329-D1B8` Entrepreneurs repeat the cycle of uninformed optimism → informed pessimism → crisis of meaning → restart, never reaching informed optimism and achievement.
+- `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
+- `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
+- `INS-260330-3AF9` Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.

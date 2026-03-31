@@ -1,0 +1,90 @@
+# Tag: learning
+
+- `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
+- `INS-260320-8632` The last generation of great engineers may already be born — AI creates a widening split between exceptional and average.
+- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260329-2B9A` Teaching programming effectively requires concrete visual feedback before abstract concepts.
+- `INS-260320-A745` Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
+- `INS-260329-92C3` Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
+- `INS-260321-1A0B` The biggest risk of AI adoption isn't that it fails — it's that it works so well that humans stop learning. Design AI systems where a key priority is the learning and improvement of the humans in the loop.
+- `INS-260320-5F14` "Even if an AI is always going to be better than you at something, you can still learn that thing. You can still enrich yourself intellectually."
+- `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
+- `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
+- `INS-260329-5C65` Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content.
+- `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
+- `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
+- `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
+- `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
+- `INS-260329-F969` Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
+- `INS-260329-03B5` Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
+- `INS-260329-8868` Reducing downside risk on first attempts lets people discover aptitude they would otherwise never explore.
+- `INS-260329-E86C` David Malan himself almost didn't take CS50 until he was allowed to enroll pass/fail, proving that stake reduction unlocks hidden talent.
+- `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
+- `INS-260329-72AC` Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
+- `INS-260329-72D5` Layer concepts incrementally through progressively harder problems rather than front-loading all theory before practice.
+- `INS-260329-0068` Project-based progressive learning embeds concepts in context, producing stronger recall and motivation than abstract-first teaching.
+- `INS-260329-A6FB` Syntax errors should be understood as Python saying 'I don't understand' rather than 'you're bad at this'.
+- `INS-260329-A077` Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
+- `INS-260329-5F37` Every CS50P example follows a pattern of intentionally broken code → diagnosis → fix, training students to see confusion as the precursor to understanding rather than evidence of inability.
+- `INS-260329-B214` Programming bugs are the learning mechanism itself, not obstacles to overcome before learning happens.
+- `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
+- `INS-260329-979B` CS50 starts with Scratch (visual blocks) before C to let students internalize programming concepts without fighting syntax simultaneously.
+- `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
+- `INS-260329-C1E1` Tight write-test-observe cycles teach abstract concepts faster than front-loaded theory because they catch misconceptions before they compound.
+- `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
+- `INS-260329-8986` CS50's enrollment data proves that perceived prerequisites are the real gatekeepers, not actual skill requirements.
+- `INS-260327-7DBF` A wrong intuition is better than no intuition—it gives you something to correct rather than building from nothing.
+- `INS-260330-0F71` Confusion about advanced topics is usually a symptom of weak prerequisite understanding, not genuine complexity of the topic itself.
+- `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
+- `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
+- `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
+- `INS-260329-25FC` Project-based progression creates natural 'need to know' hooks that make abstract programming concepts memorable.
+- `INS-260330-AE22` A practitioner who teaches from the ground up transfers more usable knowledge than an expert who skips foundations.
+- `INS-260329-49E6` Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
+- `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
+- `INS-260330-C8ED` Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.
+- `INS-260330-0143` Photosystem II was discovered before Photosystem I but acts first in the chain — explicitly flagging discovery-vs-logic order mismatches helps learners navigate confusing nomenclature.
+- `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
+- `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
+- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
+- `INS-260330-43F7` How-to's work for mechanical tasks but become traps when applied to creative mastery or internal freedom.
+- `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
+- `INS-260329-D3D9` You must tolerate being bad at something long enough to become good at it — most people quit in the incompetence phase.
+- `INS-260330-63B8` Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
+- `INS-260329-88AB` Tutorial consumption creates passive familiarity that masquerades as competence until tested by independent creation.
+- `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
+- `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
+- `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
+- `INS-260329-E6A1` Errors during learning are features, not bugs — they create the friction that makes correct patterns stick.
+- `INS-260325-B8D4` The optimal failure response is 'forgive and remember' -- psychological safety for admission plus systematic learning from mistakes.
+- `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
+- `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
+- `INS-260329-B6A6` Layering complexity one concept at a time onto familiar examples builds more durable understanding than front-loading complete explanations.
+- `INS-260329-27A3` Learning concepts layered on top of each other in context transfers better than learning them in isolation.
+- `INS-260329-F20E` Teaching building blocks without immediate practical context creates a stronger conceptual breakthrough when the payoff finally arrives.
+- `INS-260329-AC6E` Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
+- `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.
+- `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
+- `INS-260329-7A6A` Zero-based vs one-based indexing confuses programmers because it contradicts deeply ingrained mathematical counting conventions, and the problem compounds in fields like quantum computing that try to please multiple conventions simultaneously.
+- `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
+- `INS-260323-FCBB` Sweeney spent 10-15,000 hours on hobby programming projects between ages 10-20 with no structured plan -- building compilers, databases, bulletin boards -- and every one of those skills became essential when building Unreal Engine years later.
+- `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
+- `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
+- `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
+- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
+- `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
+- `INS-260329-5A47` Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
+- `INS-260325-3A24` Stoute started a beauty company knowing nothing about beauty — true fearlessness is seeing a solvable problem in an unfamiliar domain and entering it with open acceptance of what you do not know.
+- `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
+- `INS-260327-7DAA` Most innovations look borderline stupid in hindsight—the only real failure is not trying or not reflecting.
+- `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
+- `INS-260326-CA8C` Safety without standards is a comfort zone; standards without safety is an anxiety zone — you need both for high performance.
+- `INS-260323-8726` The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
+- `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
+- `INS-260329-939E` CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
+- `INS-260329-1741` CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
+- `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
+- `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.
+- `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
+- `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.

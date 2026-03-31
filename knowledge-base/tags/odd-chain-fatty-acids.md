@@ -1,0 +1,3 @@
+# Tag: odd-chain-fatty-acids
+
+- `INS-260327-52AA` Observational research consistently links higher C15 and C17 odd-chain fatty acid levels (from dairy fat) with better longevity outcomes, yet no one in the longevity space supplements them.

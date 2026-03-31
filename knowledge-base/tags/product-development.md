@@ -1,0 +1,22 @@
+# Tag: product-development
+
+- `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
+- `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
+- `INS-260325-FDF5` Anthropic CPO Krieger: build AI products bottom-up from individual user workflows, not top-down from enterprise requirements — adoption drives sales.
+- `INS-260327-42F0` Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
+- `INS-260323-AF7B` AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
+- `INS-260321-31B3` Ship product updates 6 days per week because AI model improvements reset the entire industry every month.
+- `INS-260327-0B69` Adding a GPT wrapper to your existing product is a dead end — you must rebuild the entire user experience around what AI models can now do.
+- `INS-260327-38D8` Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
+- `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
+- `INS-260327-3A71` In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.
+- `INS-260329-8299` CS50's success proves that designing for complete beginners captures the largest possible audience.
+- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
+- `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem.
+- `INS-260330-CCF0` Hardware teams learning speed from software and software teams learning deliberation from hardware creates better products than either discipline alone.
+- `INS-260330-83D5` Support staff who can interrupt developers with live bugs become the most effective QA and product intelligence system.
+- `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
+- `INS-260329-939E` CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
+- `INS-260322-3C3D` ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
+- `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
+- `INS-260330-178D` Treat 'I'd buy if you built X' as a soft rejection — either get them to sign a contract contingent on the feature, or wait until multiple customers request it.

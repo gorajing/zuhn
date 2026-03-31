@@ -1,0 +1,8 @@
+# Tag: maker-schedule
+
+- `INS-260329-9A30` A meeting that costs a manager one of 100+ time slots costs a maker one of only 10 weekly work blocks — a 10x asymmetric penalty.
+- `INS-260329-E44D` Meetings cost makers 10x more than managers because makers work in few large blocks while managers work in many small slots.
+- `INS-260329-4253` Protect maker time in three stages: off-hours when solo, morning-first with back-to-front scheduling at mid-stage, and full maker days at scale.
+- `INS-260329-24CE` Maker time protection evolves through three stages: stolen hours, half-day splits, then entire dedicated maker days as your business scales.
+- `INS-260329-8ABB` Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.
+- `INS-260330-1F41` Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.

@@ -1,0 +1,17 @@
+# Tag: incentive-alignment
+
+- `INS-260330-819E` Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
+- `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
+- `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
+- `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
+- `INS-260329-2EAA` Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
+- `INS-260330-DC0D` McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
+- `INS-260330-2A6A` When eBay switched affiliate payments from confirmed registrations to activated users, registrations dropped 20% but active user growth massively accelerated.
+- `INS-260330-3398` When eBay switched affiliate payments from confirmed registrations to activated users, registrations dropped 20% but active user growth massively accelerated.
+- `INS-260330-4553` When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
+- `INS-260330-9C48` When eBay switched from paying affiliates per confirmed registration to per activated user, registrations dropped 20% but active users only dropped 5% -- then growth accelerated.
+- `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.
+- `INS-260327-58AC` Whatever is your source of money, that is where the company will steer — if advertisers pay, you will build for advertisers, not users.
+- `INS-260330-E4DB` Rome's reliance on Germanic mercenaries loyal only to gold — not to Rome itself — directly caused the civil wars that destroyed the Western Empire.
+- `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
+- `INS-260330-5A4C` Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.

@@ -1,0 +1,105 @@
+# EpicHistoryTV — Top 100 Videos by Views (Batch Ingest Tracker)
+# Format: STATUS | VIDEO_ID | VIEWS | TITLE [| SRC_ID]
+# STATUS: PENDING / INGESTED / EXTRACTED / SKIP / FAILED
+# Generated: 2026-03-26
+# Source: https://www.youtube.com/@EpicHistoryTV/videos
+INGESTED | K7lb6KWBanI | 27568820 | The Greatest General in History? Alexander the Great (All Parts) | SRC-260325-8A55
+INGESTED | G1p6rlDCxq0 | 21367413 | World War 1 (All Parts) | SRC-260325-74AC
+INGESTED | w0Wmc8C0Eq0 | 16977277 | History of Russia - Rurik to Revolution | SRC-260325-72E3
+INGESTED | GG0LY8OLBG8 | 16407800 | World War One (All Parts) (age-restricted) | SRC-260326-CEE6
+INGESTED | vBSGSkIasRY | 15740327 | Napoleonic Wars: Downfall 1809 - 14 | SRC-260325-5BD4
+INGESTED | RlKJDwViNKs | 15428453 | The Greatest Speech in History? Alexander the Great and the Opis Mutiny | SRC-260326-5812
+INGESTED | 91OmO2YMiDM | 14104251 | Napoleonic Wars: March of the Eagles 1805 - 09 | SRC-260325-CFD3
+INGESTED | IpkBuI1FkpM | 8891968 | The Last Great Roman General? Belisarius and the Wars of Justinian (All Parts) | SRC-260325-694E
+INGESTED | byH2WhzXjcQ | 6964542 | Napoleonic Wars: The Invasion of Russia (All Parts) | SRC-260325-194B
+INGESTED | Syjg6PHYFBo | 6647577 | 3D Guide - How to Build the Perfect Medieval Castle | SRC-260325-3A66
+INGESTED | KUERUnx2lms | 6636713 | 3D Guide to an 18th century Ship-of-the-Line | SRC-260325-BA33
+INGESTED | bhQe2cjr5XQ | 6278641 | Napoleonic Wars: Battle of Austerlitz 1805 | SRC-260325-9BF7
+INGESTED | nDZGL1xsqzs | 6031690 | Napoleonic Wars: Battle of Waterloo 1815 | SRC-260325-83ED
+INGESTED | jiakD6Pm9eE | 4855073 | The First Crusade (All Parts) | SRC-260326-3C04
+INGESTED | lNReCCShKJQ | 4794359 | Napoleonic Wars: Retreat from Moscow 1812 | SRC-260325-9639
+INGESTED | DRUx61plsz4 | 4728100 | Napoleon's First Victory: The Siege of Toulon 1793 | SRC-260326-712B
+INGESTED | lLvqZ1ufLwk | 4628019 | Suez Crisis (All Parts): Causes, Conflict and Global Repercussions | SRC-260325-616B
+INGESTED | 61SYvhojGvg | 4173685 | HMS Victory in 3D: Total Guide (1/2) | SRC-260325-D8B5
+INGESTED | STK4GBaqItk | 4047289 | What made the Vikings so Dangerous? 5 Viking Deaths and What They Tell Us About the Viking Mindset | SRC-260325-DB73
+INGESTED | l0zRU35sovQ | 3977956 | Napoleonic Wars: Battle for France 1814 | SRC-260325-546A
+INGESTED | XqvALkpsfRo | 3928431 | Battle of the Somme 1916 | SRC-260325-1FC9
+INGESTED | P9hDA0u6FO0 | 3629541 | Napoleonic Wars: Battle of Leipzig 1813 | SRC-260325-8B2A
+INGESTED | PbwH1ZBnYds | 3511142 | World War 1 - 1914 | SRC-260325-58E0
+INGESTED | ydVFqpbIIwA | 3403436 | The First Crusade: The Bloody Road to Jerusalem (1/2) | SRC-260325-A258
+INGESTED | odPUHTJO8to | 3339369 | Napoleonic Wars: Battle of Jena-Auerstedt 1806 | SRC-260325-3812
+INGESTED | gJmaRZC2ROE | 3297281 | Nelson's Battles in 3D: The Nile | SRC-260325-1EDD
+INGESTED | 55Jas5HrzcQ | 3234733 | Apollo Program: Tragedy and Triumph (All Parts) | SRC-260325-FAC4
+INGESTED | Bm1RhjcdJek | 3166418 | Napoleon's Italian Campaign (All Parts) | SRC-260326-8CA8
+INGESTED | O8hhwSn1iaU | 3150000 | The Abbasids: Islam's Golden Age (All Parts) | SRC-260325-60D7
+INGESTED | _SMXT6dTwEo | 2916372 | Napoleonic Wars: Invasion of Spain 1808 | SRC-260325-C3B9
+INGESTED | mGAPEckPXzs | 2902968 | Napoleonic Wars: Battle of Borodino 1812 | SRC-260325-6DC9
+INGESTED | 03mCCwemhBA | 2876016 | Nelson's Battles in 3D: Cape St. Vincent | SRC-260325-AB29
+INGESTED | Hwz56hBW9KI | 2857243 | Salamis 480 BC: The Battle for Greece | SRC-260325-06A4
+INGESTED | cTy2Ghbt3Vs | 2700374 | Napoleonic Wars: Battle of Friedland 1807 | SRC-260326-9280
+INGESTED | FV-0f4NfQ60 | 2612007 | Nelson's Battles in 3D: Trafalgar | SRC-260325-291A
+INGESTED | _eyKPDsOyR8 | 2609218 | Blackbeard's Voyages Mapped | SRC-260325-6056
+INGESTED | TrC3yMMDsc8 | 2537540 | 3D Guide to Britain's Most Famous Warship (2/2) | SRC-260325-EA5D
+INGESTED | ky9xet0lmI8 | 2346125 | Napoleonic Wars: Battle for Germany 1813 | SRC-260325-85B8
+INGESTED | VXc1MDNTKAA | 2309965 | Napoleonic Wars: Battle of Salamanca 1812 | SRC-260325-BCFA
+INGESTED | -P4BvMZONE4 | 2199213 | Napoleonic Wars: Battle of Eylau 1807 | SRC-260325-D770
+INGESTED | E9VfahNloQA | 2147009 | Napoleonic Wars 1805 - 1814 (All Parts) | SRC-260325-AD7C
+INGESTED | cl7ElFROgts | 2126904 | Quick Guide to Napoleonic Infantry Tactics | SRC-260325-CA88
+INGESTED | GyTb2lqiJe0 | 2074870 | Napoleon's Marshals, Ranked (All Parts) | SRC-260325-CABC
+INGESTED | qw0X1f6-iqM | 1946674 | Napoleon in Italy: Battle of Lodi 1796 (1/5) | SRC-260325-7A7B
+INGESTED | 8ow6pq1Pp_M | 1901020 | Napoleonic Wars: The Peninsular War 1809 - 11 | SRC-260325-5FAA
+INGESTED | TU1N8KTxIJU | 1842571 | History of Russia Part 1: From Tribes to Tsars | SRC-260325-BF61
+INGESTED | 8TnOyaEBGqA | 1785437 | Napoleon's Greatest Comeback: The Battle of Marengo | SRC-260325-5AB7
+INGESTED | Aqs7EIqa3PU | 1783680 | Napoleon in Egypt: Battle of the Pyramids 1798 | SRC-260326-04D8
+INGESTED | q5SVWi9ZeB8 | 1761707 | American Presidents: A Complete Timeline - Washington to Cleveland (1/2) | SRC-260325-D946
+INGESTED | v_8NtmecHMA | 1701933 | The First Crusade: Jerusalem Falls (2/2) | SRC-260325-E0F8
+INGESTED | j-tICpleWLI | 1660531 | Days That Shook The World: Russia's Two Revolutions of 1917 | SRC-260326-1323
+INGESTED | sm9CJCcJrEc | 1578714 | Napoleonic Wars: Battle of Wagram 1809 | SRC-260325-A275
+INGESTED | f3zId15Q23M | 1568585 | Napoleonic Wars: Napoleon Invades Russia 1812 | SRC-260325-2931
+INGESTED | dPUVlVmwHc0 | 1561053 | Europe Ablaze: The 1848 Revolutions | SRC-260325-4F26
+INGESTED | 6xbvCJcjzFY | 1548420 | How did Christianity become the most popular religion on Earth? | SRC-260325-FDBA
+INGESTED | Um7wmlfwgWA | 1513066 | Napoleonic Wars: Battle of Vitoria 1813 | SRC-260325-C2EC
+INGESTED | 2qMYCpyy1LU | 1501843 | Napoleon Defeated: Aspern 1809 | SRC-260325-F558
+INGESTED | BARSrLpQ9VU | 1358417 | Napoleon - Path to Power (All Parts) | SRC-260325-3ADD
+INGESTED | a1iuxFHTJyU | 1294410 | A Complete History of Venice | SRC-260325-898F
+INGESTED | QOBH7hMh2Xs | 1276881 | Belisarius: The Emperor's Sword (1/6) | SRC-260325-1F6E
+INGESTED | 7B5J7nQEp0Y | 1227385 | Rise of the Abbasids: Islam's Mightiest Dynasty | SRC-260325-4B80
+INGESTED | WiwEwSdKh0c | 1225837 | Francis Drake Sails Around the World | SRC-260325-3835
+INGESTED | o4dLsPbBTbM | 1177188 | Napoleon in Italy: Battle of Castiglione (2/5) | SRC-260325-268F
+INGESTED | TtX5NvP0tF0 | 1169093 | How did China's 2,000-year empire collapse? | SRC-260325-760A
+INGESTED | yXx_jLEG4KU | 1163085 | Russia's First Revolutionaries: The Decembrists (All Parts) | SRC-260326-1267
+INGESTED | xxSVuNCzJEQ | 1148507 | Napoleon in Egypt (All Parts) | SRC-260325-5FB4
+INGESTED | zz0Wz-o4dTI | 1111879 | World War 1 - 1917 | SRC-260326-C07C
+INGESTED | q4LJyzMdvvM | 1111783 | Kolchak & Russia's Civil War (All Parts) | SRC-260325-0DC8
+INGESTED | zapbLqZUwrA | 1111378 | World War 1 - 1918 | SRC-260325-31E6
+INGESTED | YebUIUOCo94 | 1083864 | Napoleon's Marshals: Berthier, Lannes, Davout. | SRC-260325-3CF7
+INGESTED | fs3bDGwTAtY | 1071329 | Europe's Cataclysm: Thirty Years' War | SRC-260325-F5BD
+INGESTED | KakvuIRZGrY | 1068453 | Napoleon in Italy: Battle of Rivoli (5/5) | SRC-260325-CF10
+INGESTED | aMyxwFib0_M | 1060034 | The Greatest General in History? Alexander invades the Persian Empire | SRC-260326-8272
+INGESTED | -YDnzWFgS-4 | 978510 | Belisarius: Conquest of the Vandals (2/6) | SRC-260325-B4FF
+INGESTED | YpkaidgOHHg | 960689 | Napoleon in Egypt: Battle of Aboukir 1799 | SRC-260325-8B22
+INGESTED | cZjsO8p9FlU | 948663 | History of a Mediterranean Superpower: The Rise of Venice | SRC-260325-9B7C
+INGESTED | HNfSBCygXTg | 933279 | History of Russia Part 2: Birth of a European Power | SRC-260325-80B2
+INGESTED | mY8Ou7r913Y | 928945 | Napoleon Seizes Power - The Brumaire Coup | SRC-260325-9EAE
+INGESTED | mbdyrorDxSA | 927687 | American Presidents: A Complete Timeline - Harrison to Obama (2/2) | SRC-260325-F55D
+INGESTED | fwRFhmcfHgg | 923705 | The Brink of War: Suez Crisis: (1/2) | SRC-260325-8363
+INGESTED | HZSdYk3KJFc | 898697 | Napoleon's Marshals: Pérignon, Brune, Sérurier, Kellermann, Grouchy, Moncey, Poniatowski, Jourdan. | SRC-260325-EEB6
+INGESTED | hmyq99G5bfg | 887679 | Napoleon in Italy: Battle of Arcole (4/5) | SRC-260325-5BE4
+INGESTED | YSzHDW0IsoE | 874446 | World War 1 - 1915 | SRC-260325-D538
+INGESTED | bJnlFoLcigs | 872048 | American Revolution: Road to Rebellion | SRC-260325-F9E0
+INGESTED | l-b746J2SdI | 854693 | World War 1 - 1916 | SRC-260325-4B58
+INGESTED | 4EP1FI8goDo | 852873 | Belisarius: The Last Battle (6/6) | SRC-260325-5FA6
+INGESTED | nr_pFDbvz6A | 797371 | Napoleon's Marshals: Suchet, Ney, Soult. | SRC-260325-38E1
+INGESTED | oRmDd6Pzcf0 | 788403 | Napoleon in Italy: Battle of Bassano (3/5) | SRC-260325-6443
+INGESTED | AmW5YuJRO6M | 783024 | Rise of China - Battle for Survival | SRC-260325-1E14
+INGESTED | -7wwfGJXEZg | 782038 | Belisarius: The Battle of Rome (3/6) | SRC-260325-9313
+INGESTED | p-G6dZw3k_U | 729508 | How did Islam become a global religion? | SRC-260325-467F
+INGESTED | jLU9UnKbK3Q | 727056 | Napoleon Crosses the Alps: The Road to Marengo | SRC-260325-BA16
+INGESTED | BmdWe2YUVrc | 726288 | American Revolution: Battles of Lexington & Concord | SRC-260325-0D6D
+INGESTED | 2QH9WWxLPNQ | 705312 | History of Russia Part 3: Age of Glory | SRC-260325-7E6B
+INGESTED | -aPLahX0OaY | 660364 | American Revolution: Battle of Bunker Hill & Siege of Boston | SRC-260325-005C
+INGESTED | 8XuKHW9XBMg | 652296 | Napoleon's Marshals: Saint-Cyr, Oudinot, Victor, Murat. | SRC-260325-9EE5
+INGESTED | WwkKiv4AYVY | 631180 | A Global Flashpoint: Suez Crisis (2/2) | SRC-260325-E4F4
+INGESTED | q_gDfMaqO3s | 617214 | Battle of the Wabash 1791 | SRC-260325-3455
+INGESTED | J74SdkwX2l4 | 608120 | Napoleon's Marshals: Bernadotte, Augereau, Lefebvre, Mortier, Marmont. | SRC-260325-DF06
+INGESTED | 5xB6mqPt6i8 | 606486 | Rise of China - 'The Great Leap Forward' | SRC-260325-1DDE

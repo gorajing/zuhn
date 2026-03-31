@@ -1,0 +1,4 @@
+# Tag: educational-content
+
+- `INS-260329-B7F5` A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source.
+- `INS-260329-4CFD` Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years.

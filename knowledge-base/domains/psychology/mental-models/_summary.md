@@ -1,0 +1,67 @@
+# Topic: mental-models
+
+> 63 insights
+
+- `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
+- `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
+- `INS-260330-CAB3` [high] Bernoulli's principle unifies cavitation across wildly different domains: bullets, propellers, pipes, and arteries all create vacuum bubbles through the same mechanism.
+- `INS-260330-5670` [high] ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
+- `INS-260330-4E55` [high] The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.
+- `INS-260330-E786` [high] Oxygen was a toxic waste byproduct of early photosynthesis that became the foundation of all animal life — the 'most useful useless byproduct in history.'
+- `INS-260330-EDF4` [high] Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
+- `INS-260330-237E` [high] Calling some groups 'civilizations' implicitly frames all other social orders as uncivilized, creating a systematic bias in how we evaluate human achievement.
+- `INS-260330-4E5F` [high] Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
+- `INS-260330-6AB7` [high] The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
+- `INS-260330-49E9` [high] The thylakoid membrane stores energy by pumping protons to create a concentration gradient — the same principle behind batteries, dams, and information asymmetry in markets.
+- `INS-260330-FA36` [high] Thylakoids work like batteries — pumping protons to one side of a membrane creates a concentration gradient whose equalization drives ATP synthase, showing that useful work comes from engineered imbalances, not raw energy.
+- `INS-260330-3037` [high] Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.
+- `INS-260330-7FF3` [high] ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
+- `INS-260330-0C1B` [high] A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
+- `INS-260330-31A9` [high] Black shade balls absorb more solar energy than water would, yet the water beneath them is cooler because the air inside each ball acts as thermal insulation.
+- `INS-260330-1815` [high] Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
+- `INS-260330-2689` [high] The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
+- `INS-260330-AE66` [high] All real-world exponentials are actually the early phase of logistic curves bounded by some limiting factor.
+- `INS-260330-6DE0` [high] All exponential processes in the real world eventually hit resource limits and transition to logistic S-curves, meaning the key question is always where the ceiling lies.
+- `INS-260330-1AB0` [high] All real-world exponentials are logistic curves that saturate when the growth medium is exhausted, making the S-curve the true model for any bounded growth process.
+- `INS-260330-3591` [high] Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
+- `INS-260330-8544` [high] The discovery that tidal forces can substitute for solar energy in sustaining liquid water fundamentally expanded where we search for life — by questioning which variable (energy source) was truly fixed.
+- `INS-260330-8429` [high] Both Europa and dark matter show that the obvious energy source (sun, matter) isn't always the real driver — systematically questioning assumed sources expands the solution space.
+- `INS-260330-8FE7` [high] A growth factor near 1 feels like steady new additions, but it actually signals you're at the logistic inflection point — total will roughly double from current levels then plateau.
+- `INS-260330-6AA3` [high] The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
+- `INS-260330-42DE` [high] The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
+- `INS-260330-09DE` [high] Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
+- `INS-260330-C172` [high] Knowledge is best validated like a crossword puzzle: each answer must fit independently (evidence) AND be consistent with intersecting answers (coherence).
+- `INS-260330-B33F` [high] Susan Haack's crossword model says knowledge gains strength from answers interlocking and reinforcing each other, not from building on a single foundation.
+- `INS-260330-AA77` [high] If a new element can be expressed as a combination of existing ones, it adds no new capability.
+- `INS-260330-DEF7` [high] The linearity constraint — parallel lines stay parallel, origin stays fixed — eliminates most possible transformations, making the remaining ones tractable and powerful.
+- `INS-260330-E03A` [high] NASA used aerogel to catch comet dust at 6 km/s because the porous structure gradually absorbs kinetic energy instead of causing instantaneous vaporization.
+- `INS-260330-E068` [high] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
+- `INS-260330-B599` [high] Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
+- `INS-260330-CE2F` [high] JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
+- `INS-260330-64D8` [high] If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
+- `INS-260330-C02D` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
+- `INS-260330-814E` [high] WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
+- `INS-260330-4D0E` [high] PSII contains at least 99 chemicals coordinated to achieve a single task: transferring one excited electron to a carrier molecule.
+- `INS-260330-24B6` [high] A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.
+- `INS-260330-A260` [high] JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
+- `INS-260330-628D` [high] Asking 'what can I reach by combining these primitives?' reveals the true power and limits of any system.
+- `INS-260330-D795` [high] Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
+- `INS-260330-9BB7` [high] Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
+- `INS-260330-6844` [high] Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
+- `INS-260330-F5CF` [high] Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
+- `INS-260330-43D3` [high] Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
+- `INS-260330-16F0` [high] Replacing 30% of aerogel's OH groups with hydrophobic groups completely reverses it from water-absorbing to water-repelling.
+- `INS-260330-7511` [high] The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
+- `INS-260330-3698` [high] Mentally reversing roles in a conflict reveals whether both sides operate under the same ethical constraints.
+- `INS-260330-5779` [high] If reversing which side uses a tactic produces an absurd or unthinkable scenario, the two sides are not morally equivalent in that dimension.
+- `INS-260330-E2F5` [high] The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
+- `INS-260330-5DFF` [high] In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure.
+- `INS-260330-3C3C` [medium] Chloroplasts store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase — the same gradient-to-work pattern appears in batteries, pricing arbitrage, and information asymmetry.
+- `INS-260330-B38B` [medium] ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
+- `INS-260330-972B` [medium] The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
+- `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
+- `INS-260330-1953` [medium] Underwater bubbles oscillating and collapsing under Rayleigh-Plesset dynamics concentrate enough energy to produce light (sonoluminescence), demonstrating how oscillating collapse amplifies small inputs into extreme outputs.
+- `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260330-7ED0` [medium] Freud's unconscious and Darwin's natural selection both succeeded by proposing hidden mechanisms behind visible behavior, a recurring pattern in revolutionary science.
+- `INS-260330-E497` [medium] Plants' photosynthesis created the oxygen-rich atmosphere that now poisons their own RuBisCo enzyme, forcing them to compensate with volume and detox pathways rather than evolving a better enzyme.
+- `INS-260330-5958` [medium] 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.

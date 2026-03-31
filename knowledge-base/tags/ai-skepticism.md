@@ -1,0 +1,33 @@
+# Tag: ai-skepticism
+
+- `INS-260323-282F` Microsoft — the apex predator of enterprise software with 440M Office 365 users — has only 8M active paying AI Copilot users, generating roughly $2.9B/year against $200B+ in AI capex.
+- `INS-260323-3045` The widely accepted belief that AGI is inevitable and we're racing toward it is a community assumption masquerading as scientific consensus — the future is not yet written.
+- `INS-260323-99E0` Coordinated bot swarms using LLMs can now maintain persistent fake personas and manufactured consensus at unprecedented scale, threatening democratic elections.
+- `INS-260323-B029` When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.
+- `INS-260323-8D12` Hallucinations stem from how LLMs break information into tokens and reconstruct probable relationships — this is a fundamental design flaw, not a bug to be patched.
+- `INS-260323-539C` Humans interpret language by modeling the speaker's mind and intentions — when LLMs produce coherent text, we involuntarily project intelligence that isn't there.
+- `INS-260323-1BF7` Unlike human children who build world models from minimal data, LLMs require the entire internet as a crutch because they mimic rather than understand.
+- `INS-260323-D18D` LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
+- `INS-260323-7EEB` The leap from GPT-4 to GPT-5 was subtle enough to require benchmarks, unlike earlier leaps that were obvious in minutes — scaling has hit a wall.
+- `INS-260323-E520` Stanford and Princeton studies show sycophantic models degrade human reasoning by confirming wrong answers — political pressure toward compliant AI worsens this.
+- `INS-260323-EF23` The booster-doomer debate creates a false spectrum where the only question is whether powerful AI is good or bad — both camps share the unexamined premise that it works.
+- `INS-260323-3A98` No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
+- `INS-260323-F2BD` Whatever personal productivity you gain from AI comes at externalized costs of stolen training data, exploited Global South workers, and data centers extending the life of coal plants.
+- `INS-260323-1720` Oracle and the wider tech industry are applying the 'spend big, growth follows' playbook from the cloud era to AI, but the underlying economics are fundamentally different.
+- `INS-260323-F2C3` AI's strongest achievements (AlphaGo, AlphaFold) are in domains with verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate real occupations.
+- `INS-260323-9773` OpenAI's own research confirms hallucinations cannot be eliminated even with perfect training data because they are inherent to probabilistic generation — and reasoning models make it worse by multiplying the dice rolls.
+- `INS-260323-FE69` Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.
+- `INS-260323-7625` While per-token costs have decreased, reasoning models burn dramatically more tokens per task, so actual inference costs per useful output have increased — the opposite of what AI CEOs claim.
+- `INS-260323-F68A` Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
+- `INS-260323-784B` Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.
+- `INS-260323-7403` Viral AI doom/boom essays like Citrini Research move stock markets despite containing no concrete mechanism for how AI replaces jobs — they describe what happens after AI works, never how.
+- `INS-260323-1477` Companies like OpenAI are secretly integrating classical symbolic tools (code interpreters, Python) while telling investors they're just scaling neural networks.
+- `INS-260323-750A` Nvidia investing $30B in OpenAI while OpenAI buys Nvidia chips is circular financing — the market has remained irrational but 70% of fund managers now see AI as overvalued.
+- `INS-260323-FEAB` Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
+- `INS-260323-7F22` Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
+- `INS-260323-5C25` Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B negative free cash flow in 2026; if the best-positioned AI infrastructure borrower can't raise debt, smaller players are finished.
+- `INS-260323-F12F` AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
+- `INS-260323-114D` $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
+- `INS-260323-D288` When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
+- `INS-260323-C8AC` The SaaS selloff blamed on AI disruption is actually the end of a decade-long hypergrowth era — hundreds of billions in private-equity-held software companies are worth less than their acquisition price.
+- `INS-260323-35D4` Bain Capital estimates $2T in revenue needed to justify AI spending but only ~$55B exists — Deutsche Bank says continued parabolic spending is the only path, which they call 'very unlikely.'

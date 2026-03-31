@@ -1,0 +1,25 @@
+# Fireship — Top 20 Videos by Views (Batch Ingest Tracker)
+# Format: STATUS | VIDEO_ID | VIEWS | TITLE [| SRC_ID]
+# STATUS: PENDING / INGESTED / EXTRACTED / SKIP / FAILED
+# Generated: 2026-03-30
+# Source: https://www.youtube.com/@Fireship/videos
+INGESTED | pEfrdAtAmqk | 8145248 | God-Tier Developer Roadmap | SRC-260330-0BAD
+INGESTED | hdHjjBS4cs8 | 7885327 | Brainf**k in 100 Seconds | SRC-260330-EDCD
+INGESTED | ky5ZB-mqZKM | 5615558 | AI influencers are getting filthy rich... let's build one | SRC-260330-C120
+INGESTED | Nl7aCUsWykg | 3879437 | Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble? | SRC-260330-C28E
+INGESTED | 8PhdfcX9tG0 | 3754130 | I tried 10 code editors | SRC-260330-E16D
+INGESTED | U3aXWizDbQ4 | 3711357 | C in 100 Seconds | SRC-260330-FE30
+INGESTED | _k-F-MMvQV4 | 3516037 | 10 Programmer Stereotypes | SRC-260330-A25C
+INGESTED | -uleG_Vecis | 3164838 | 100+ Computer Science Concepts Explained | SRC-260330-7717
+INGESTED | m4-HM_sCvtQ | 3140244 | Java for the Haters in 100 Seconds | SRC-260330-2C74
+INGESTED | -2k1rcRzsLA | 3115548 | This free Chinese AI just crushed OpenAI's $200 o1 model... | SRC-260330-CAA9
+INGESTED | vqs_0W-MSB0 | 3095357 | How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9 | SRC-260330-82C8
+INGESTED | x7X9w_GIm1s | 3023109 | Python in 100 Seconds | SRC-260330-B32F
+INGESTED | Q7AOvWpIVHU | 3017268 | Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial | SRC-260330-98D4
+INGESTED | LKCVKw9CzFo | 2946744 | 100+ Linux Things you Need to Know | SRC-260330-51FA
+INGESTED | Sxxw3qtb3_g | 2939219 | How to OVER Engineer a Website // What is a Tech Stack? | SRC-260330-7419
+INGESTED | r6tH55syq0o | 2912209 | How programmers flex on each other | SRC-260330-1A8C
+INGESTED | NtfbWkxJTHw | 2902512 | How to Learn to Code - 8 Hard Truths | SRC-260330-CF8E
+INGESTED | lkIFF4maKMU | 2886165 | 100+ JavaScript Concepts you Need to Know | SRC-260330-DF92
+INGESTED | GyllRd2E6fg | 2874367 | This new AI is powerful and uncensored… Let’s run it | SRC-260330-AAAE
+INGESTED | cuHDQhDhvPE | 2809990 | I built the same app 10 times // Which JS Framework is best? | SRC-260330-0915

@@ -1,0 +1,31 @@
+# Tag: management
+
+- `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
+- `INS-260330-516E` YC considers how well founders handle employee termination to be one of the hallmarks of an effective startup founder.
+- `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
+- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
+- `INS-260330-8733` Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.
+- `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
+- `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
+- `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
+- `INS-260330-14CA` Delegate fully when consequences are low and your conviction is low; override only when consequences are catastrophic and your conviction is high.
+- `INS-260330-78B8` Demoting an executive preserves their over-sized equity package while stripping their authority, creating resentment among better-performing employees with less compensation.
+- `INS-260330-47FB` Critical decisions must be evaluated through the eyes of every employee, not just the people directly involved.
+- `INS-260330-3CD9` Critical decisions must be evaluated through every employee's eyes, not just the people directly involved.
+- `INS-260330-5B0C` Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.
+- `INS-260330-725C` Critical decisions must be evaluated through the eyes of every employee, not just the people in the conversation.
+- `INS-260330-EF51` The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
+- `INS-260330-625B` Hero mode — working 18+ hour days to lead by example — prevents managers from stepping back to hire, creating an escalating trap that ends in burnout.
+- `INS-260330-A476` When facing an important decision under pressure, explicitly telling people you need to pause and think it through produces better outcomes than projecting instant confidence.
+- `INS-260322-C6CE` Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.
+- `INS-260329-B4C8` Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.
+- `INS-260330-8E3C` What you say about a terminated employee at the company meeting becomes their reputation, because every person in your company will get a reference call about them.
+- `INS-260329-E45A` Punishment-based cultures cause employees to exert only the minimum effort needed to avoid being fired, forfeiting all discretionary effort above that bar.
+- `INS-260326-F3E0` Most leaders fail by being too nice, not too mean — ruinous empathy silently destroys performance and trust.
+- `INS-260323-E15B` After 20 years running Meta, Zuckerberg's biggest lesson is that a cohesive leadership team can accomplish almost anything, while strategic brilliance fails without it.
+- `INS-260323-3737` Ironic process theory means telling someone what they did wrong makes them repeat it — paint the future vision instead.
+- `INS-260323-D9CE` Expectations + Measurement x Reinforcement = Accountability — without reinforcement, expectations and measurement produce zero accountability.
+- `INS-260330-DB4B` When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
+- `INS-260330-5FED` Flat structure works until it suddenly doesn't — the failure mode is a cliff, not a slope.
+- `INS-260330-488B` Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.
+- `INS-260330-50A4` Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.

@@ -1,0 +1,63 @@
+# Topic: bubbles
+
+> 59 insights
+
+- `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
+- `INS-260330-4D05` [high] Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
+- `INS-260323-FEAB` [high] Traditional SaaS scales cheaply per user, but AI products have marginal costs that increase with usage — Anthropic spends $8-$135 per dollar of Claude Code subscription revenue.
+- `INS-260328-FDC8` [high] AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
+- `INS-260323-7F22` [high] Unlike Uber where subsidized-to-real price increases were 2-3x within the psychology of cab fares, AI would require 5-7x increases into a range users have never mentally budgeted for.
+- `INS-260327-4C26` [high] G-Class Mercedes, Rolexes, luxury handbags, and trading cards have all crashed after being marketed as 'investments' - the bubble popping reveals they were always consumption, not investment.
+- `INS-260326-6D53` [high] The opposite of fragile is not robust (indifferent to shocks) but antifragile (benefits from shocks), a distinction with massive implications for portfolio construction and system design.
+- `INS-260330-AD13` [high] Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
+- `INS-260330-F67A` [high] Beijing knows the housing bubble exists and broadly knows the fixes, but real estate is so intertwined with GDP that any correction risks economic slowdown.
+- `INS-260326-6B99` [high] Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
+- `INS-260325-3B28` [high] Leading digits in natural datasets follow a logarithmic distribution (30% start with 1, <5% start with 9) — deviations flag fabricated financial or electoral data.
+- `INS-260327-C79D` [high] In a market where Bitcoin, stocks, and Dogecoin only go up, people will convince themselves that anything - watches, sneakers, Pokemon cards - is an investment.
+- `INS-260329-7372` [high] College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
+- `INS-260329-191D` [high] College tuition has doubled in recent decades while starting salaries stayed flat, creating $1.76 trillion in student debt that exceeds most nations' GDP.
+- `INS-260329-F443` [high] College costs doubled in recent decades while median starting salaries remained flat, creating $1.76 trillion in student debt that cannot be discharged in bankruptcy.
+- `INS-260330-C1EA` [high] Chinese households save nearly 40% of disposable income but funnel 70% of wealth into real estate because domestic stocks are volatile and banks are distrusted.
+- `INS-260323-114D` [high] $178.5B in data center credit deals in 2025 alone, funded by junk-grade debt, for customers that are unprofitable AI startups — this is the financial crisis vector, not software disruption.
+- `INS-260325-51E6` [high] When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
+- `INS-260325-F0CE` [high] Philip Tetlock's research shows expert financial forecasts are no better than average person predictions, and no one predicted the major market-moving events of recent years.
+- `INS-260325-9F41` [high] Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
+- `INS-260326-0045` [high] Fat-tailed distributions mean most of the action comes from rare extreme events, making short historical windows dangerously misleading about true risk levels.
+- `INS-260325-039E` [high] High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
+- `INS-260325-803C` [high] Financial media does not sell content to viewers — it sells viewers to advertisers — which is why everything is presented as an existential threat designed to capture attention rather than inform decisions.
+- `INS-260330-E43F` [high] China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism.
+- `INS-260330-A98B` [high] Local governments funding themselves primarily through land sales creates a structural incentive to oversupply housing, inflating bubbles.
+- `INS-260325-0688` [high] The loser's game framework shows that investing success comes from minimizing errors, not maximizing returns.
+- `INS-260325-9DBB` [high] Like amateur tennis, investing is won not by brilliant plays but by making fewer mistakes than your opponent.
+- `INS-260325-13C2` [high] We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
+- `INS-260325-1407` [high] A high-cost portfolio generates 20% less value over 25-30 years than a low-cost one, and the Vanguard effect has saved investors roughly $2 trillion in fees since the 1970s.
+- `INS-260325-FF45` [high] Markets drop 5% twice a year and 10% every 18 months — but loss aversion (feeling losses 2x more than gains) makes these routine events feel catastrophic, driving panic selling.
+- `INS-260327-D522` [high] When headlines say trillions were 'wiped out', the money didn't go anywhere because it never existed as liquid capital in the first place.
+- `INS-260323-6351` [high] The two cardinal rules of investing: only use money you don't need short-term, and never leverage your portfolio — because black swan events can halve any stock overnight.
+- `INS-260327-D4D8` [high] Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
+- `INS-260330-06CD` [high] Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
+- `INS-260325-EF4C` [high] Bessembinder's research shows just 2% of stocks are responsible for all market gains, making stock picking a near-impossible game.
+- `INS-260325-195E` [high] Bessembinder's research shows just 2% of stocks account for all net market gains over 75 years.
+- `INS-260325-FDB3` [high] Less than half of professional fund managers beat their benchmark in any given year, dropping to under 10% at 10 years and virtually zero at 20.
+- `INS-260330-3B31` [high] Ponzi schemes are mathematically unsustainable because they need exponential growth in new investors to pay promised returns.
+- `INS-260324-72E8` [high] After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
+- `INS-260323-500B` [high] The stock market is a voting machine short-term but a weighing machine long-term — the edge comes from knowing the difference between price and value.
+- `INS-260323-C8AC` [high] The SaaS selloff blamed on AI disruption is actually the end of a decade-long hypergrowth era — hundreds of billions in private-equity-held software companies are worth less than their acquisition price.
+- `INS-260325-9AD4` [high] Instead of researching why you should buy an investment, research why you should not — if you cannot find a compelling reason against it, that is a stronger signal than all the confirming evidence combined.
+- `INS-260324-27E2` [high] Before AI it was big data, before that crypto/web3, before that VR/AR, before that IoT/wearables — Silicon Valley recycles the same pump-and-dump playbook with a new technology name every 3-5 years.
+- `INS-260327-1D23` [high] Markets crashed trillions in days then recovered almost immediately because reflexivity means expectations don't just predict reality - they change it, creating self-amplifying loops.
+- `INS-260330-44C7` [high] Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
+- `INS-260327-D7DD` [high] When real estate is unaffordable, bonds are unattractive, and savings accounts lose to inflation, stocks become the only game in town regardless of fundamentals.
+- `INS-260327-F9C3` [high] VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
+- `INS-260323-35D4` [high] Bain Capital estimates $2T in revenue needed to justify AI spending but only ~$55B exists — Deutsche Bank says continued parabolic spending is the only path, which they call 'very unlikely.'
+- `INS-260327-9638` [high] Everything from stocks to real estate to meme coins has experienced massive price increases fueled primarily by wealthy speculators running out of things to invest in.
+- `INS-260325-1911` [high] Like amateur tennis, amateur investing is won not by scoring brilliant points but by making fewer unforced errors — and indexing is the simplest way to stop making them.
+- `INS-260329-7B15` [high] Rich people buy things for zero dollars that can't go to zero, while poor people buy lottery tickets that almost certainly will.
+- `INS-260325-820C` [medium] Abstract mathematical results consistently become physically relevant decades or centuries later.
+- `INS-260327-5D13` [medium] If everybody has agreed the AI market is a bubble, then why are informed investors still piling billions into it every month - are they dumber than retail investors or do they see something different?
+- `INS-260323-5C25` [medium] Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B negative free cash flow in 2026; if the best-positioned AI infrastructure borrower can't raise debt, smaller players are finished.
+- `INS-260323-F12F` [medium] AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
+- `INS-260330-808B` [medium] When Standard Oil was broken into 34 companies, investors nearly tripled Rockefeller's share value because each independent company was valued higher than its fraction of the whole — the classic conglomerate discount in reverse.
+- `INS-260323-D288` [medium] When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
+- `INS-260324-5C53` [medium] OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).
+- `INS-260324-29D8` [medium] The microprocessor, PC, Wi-Fi, smartphones, and GPS all flourished through organic market demand — no one adopted them under threat of extinction. AI's adoption is driven by institutional fear-mongering, not pull.

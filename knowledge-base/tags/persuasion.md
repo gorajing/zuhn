@@ -1,0 +1,32 @@
+# Tag: persuasion
+
+- `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
+- `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
+- `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
+- `INS-260330-748E` Repeated exposure to extreme rhetoric triggers habituation, making previously shocking statements functionally invisible to audiences.
+- `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
+- `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
+- `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
+- `INS-260330-4E09` Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
+- `INS-260330-E3D3` Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
+- `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
+- `INS-260330-8B79` After years of global espionage, the most surprising finding about human nature is the universal painful longing for human connection across all socioeconomic brackets and cultures.
+- `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
+- `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
+- `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
+- `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
+- `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
+- `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
+- `INS-260329-E900` Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.
+- `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
+- `INS-260329-1621` Structure sales arguments as negative admission + 'but' + positive claim to amplify believability.
+- `INS-260329-57B3` Labels like 'you're a smart decision-maker' or 'you're clearly a family man' given during objection handling create identity commitments that can be referenced during the close to increase conversion.
+- `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
+- `INS-260329-0B1D` Label prospects with positive traits during objections so they later feel compelled to live up to those identities at close time.
+- `INS-260329-226C` Prospects trust their own conclusions over a salesperson's claims, so the best closers breadcrumb prospects toward self-discovery rather than making arguments.
+- `INS-260329-CBEB` The CLOSER framework uses sequential questions to let prospects talk themselves into buying rather than being pitched to.
+- `INS-260329-4D5E` Answer objections with questions about their questions to stay in control without damaging rapport.
+- `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
+- `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
+- `INS-260329-C430` 'I'll buy when I have money' inverts causation — the program creates the money, so waiting for money to buy the program is a logical impossibility.
+- `INS-260329-348D` Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
