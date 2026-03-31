@@ -328,7 +328,7 @@ All mechanisms run every ingestion via `npm run learn`. Flags are written to `me
 - **Empiricism over epistemology** — predictions and decisions close the loop so the system learns from real-world outcomes, not just structural coherence
 - **Local-first** — Ollama for embeddings, Whisper for transcription, SQLite for search. Zero cloud dependencies.
 
-## The Empirical Engine (Phase 15)
+## The Empirical Engine
 
 Most "second brain" tools stop at compression — they're beautifully organized graveyards of thought. Zuhn closes the loop:
 
@@ -347,7 +347,7 @@ Most "second brain" tools stop at compression — they're beautifully organized 
 - **Morning briefing** surfaces outcomes due for review — turning the knowledge base self-correcting
 - **Resolve pipeline** (mechanism 8) cascades confidence when predictions confirm/falsify — asymmetric depth (success cascades deep, failure stays shallow to protect facts from flawed synthesis), empirical_state guards prevent structural consensus from overriding reality
 
-## Autonomous Knowledge Metabolism (Phase 19)
+## Autonomous Knowledge Metabolism
 
 While you sleep, Zuhn's daemon continuously processes incoming content, stress-tests its own beliefs, and fills knowledge gaps:
 
