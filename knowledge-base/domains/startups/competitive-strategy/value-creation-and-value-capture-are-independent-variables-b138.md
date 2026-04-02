@@ -52,5 +52,9 @@ related:
   - INS-260330-228D
   - INS-260330-5B5E
   - INS-260330-5F7E
+evidence:
+  - id: INS-260330-5B5E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Thiel's central framework separates value creation from value capture. The US airline industry generates $195B in domestic revenue but has cumulative profits of approximately zero over its 100-year history. Google, with $50B in revenue from a smaller market, has vastly higher profits and market capitalization. This independence extends across all of innovation history: scientists capture 0% of the value they create, railroad pioneers went bankrupt, the Wright Brothers made no money from flight. The implication is that founders must evaluate not just whether their idea creates value, but whether the market structure allows them to capture it. A business in a perfectly competitive market will have all profits competed away regardless of how much value it generates.

@@ -60,6 +60,13 @@ related:
   - INS-260323-D41A
   - INS-260325-2B9F
   - PRI-260320-07A4
+evidence:
+  - id: INS-260323-D41A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-2B9F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Paperclip's creator uses the Memento analogy to explain the core agent challenge: agents wake up knowing how to code, reason, and execute, but have no idea who they are, what they're working on, or what happened yesterday. The solution is a 'heartbeat' system -- a checklist agents run on startup to reconstruct their identity and context.
 

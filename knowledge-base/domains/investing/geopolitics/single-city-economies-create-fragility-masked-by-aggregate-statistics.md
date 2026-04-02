@@ -55,6 +55,10 @@ related:
   - INS-260329-7EEF
   - INS-260329-2D0B
   - INS-260329-7E0A
+evidence:
+  - id: INS-260327-E2F2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The UK illustrates the danger of single-city economic concentration. London's financial sector, tech ecosystem, and property market generate impressive headline GDP while the rest of the country experiences sustained decline. National statistics average these two realities into a misleading middle.
 

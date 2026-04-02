@@ -54,5 +54,9 @@ related:
   - PRI-260328-99F0
   - PRI-260328-F0B4
   - PRI-260328-A589
+evidence:
+  - id: INS-260321-B85C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Two principles from different domains converge: the startups principle that market frequency and structural constraints are business model ceilings execution can't overcome, and the geopolitics principle that logistics and supply chains impose hard distance ceilings no amount of genius can overcome. Napoleon couldn't outrun his supply lines; a mattress startup can't make people buy mattresses more often. The synthesis: every business has physics-level constraints that are fundamentally different from execution problems. Execution problems yield to effort. Structural constraints don't. The highest-leverage strategic analysis is identifying which constraints are structural vs operational before committing resources, because operational thinking applied to structural problems wastes everything.

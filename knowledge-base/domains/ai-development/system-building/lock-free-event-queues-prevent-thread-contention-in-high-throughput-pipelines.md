@@ -51,6 +51,10 @@ related:
   - INS-260329-CD02
   - INS-260329-3243
   - INS-260330-A260
+evidence:
+  - id: INS-260329-71DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The event-driven pipeline at the heart of HFT systems is built around lock-free queues optimized for throughput and low contention. Standard mutex/lock-based concurrency introduces unpredictable latency spikes when threads contend for shared resources — even microsecond delays can invalidate a trading opportunity.
 

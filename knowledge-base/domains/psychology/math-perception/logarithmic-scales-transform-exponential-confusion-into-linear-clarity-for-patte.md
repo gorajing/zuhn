@@ -53,5 +53,9 @@ related:
   - INS-260330-FF5B
   - INS-260330-ED8A
   - INS-260330-8C80
+evidence:
+  - id: INS-260330-ED8A
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The video shows that on a standard linear plot, early exponential growth looks flat and then suddenly explodes — hiding the most important information (rate changes) in the region where the curve appears boring. Switching to a logarithmic y-axis transforms the exponential into a straight line where the slope directly encodes the growth rate. This means deviations from constant exponential growth — the exact signals you need to detect — become immediately visible as bends in an otherwise straight line. This principle applies universally: startup revenue, user adoption, infection curves, and compound returns all become interpretable when log-transformed. The key insight is that log scales don't distort reality — they correct for a distortion already present in human perception.

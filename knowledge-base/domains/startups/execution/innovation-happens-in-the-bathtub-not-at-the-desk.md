@@ -51,6 +51,10 @@ related:
   - INS-260330-DB4B
   - INS-260327-F014
   - INS-260330-2B3F
+evidence:
+  - id: INS-260327-6F11
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Utley quotes the history of innovation as 'the bed, the bus, and the bathtub'—moments when we're not actively thinking about work. Churchill was literally in the bathtub when dictating national addresses. The insight: creative breakthroughs happen during unfocused time, not during structured work sessions.
 

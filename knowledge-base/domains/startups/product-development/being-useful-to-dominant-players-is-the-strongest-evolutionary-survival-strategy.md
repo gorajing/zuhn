@@ -58,6 +58,10 @@ related:
   - INS-260330-66EF
   - INS-260325-DFA5
   - INS-260330-E17D
+evidence:
+  - id: INS-260330-413D
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The cow vs. elephant comparison is striking: cows are less intelligent, less powerful, and less socially complex than elephants, yet their population dwarfs elephants' by orders of magnitude. The difference is domesticability — cows inserted themselves into the human economic system. Elephants' 22-month gestation and independent nature made them poor candidates for integration, regardless of their superior individual capabilities.
 

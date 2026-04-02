@@ -59,5 +59,9 @@ related:
   - INS-260330-D63C
   - INS-260330-8A87
   - INS-260330-1608
+evidence:
+  - id: INS-260330-8A87
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Thiel reframes the 'first mover advantage' as 'last mover advantage' — you want to be the last company in a category. Microsoft was the last operating system for decades, Google the last search engine, Facebook (potentially) the last social network. When Thiel ran a discounted cash flow analysis at PayPal in 2001 (growing 100%/year, 30% discount rate), 75% of the company's value came from cash flows in 2011 and beyond. For any Y Combinator company analyzed today, 75-85% of value comes from cash flows far in the future. This reveals a critical blind spot: Silicon Valley systematically overvalues growth rates (measurable, immediate) and undervalues durability (qualitative, speculative). The four monopoly characteristics — proprietary technology, network effects, economies of scale, branding — must be evaluated not just as snapshot advantages but as time-dependent durability factors. Disk drive manufacturing had tremendous innovation but zero durability — every 10x breakthrough was superseded within two years.

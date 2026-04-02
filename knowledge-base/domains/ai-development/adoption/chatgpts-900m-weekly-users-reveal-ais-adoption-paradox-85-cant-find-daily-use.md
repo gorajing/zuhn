@@ -52,6 +52,10 @@ related:
   - PRI-260328-B2EA
   - INS-260327-5A72
 stance: ChatGPT has 900M weekly active users but only 10-15% use it daily
+evidence:
+  - id: INS-260321-38EC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Benedict Evans highlights a crucial signal: ChatGPT's usage data shows massive awareness but thin daily engagement. Only about 5% pay, 10-15% use it daily, and another 20-30% weekly. The remaining majority have accounts, understand the product, and simply can't think of what to do with it.
 

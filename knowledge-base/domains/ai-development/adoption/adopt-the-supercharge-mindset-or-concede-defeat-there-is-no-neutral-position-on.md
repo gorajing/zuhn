@@ -54,6 +54,13 @@ related:
   - PRI-260324-1134
   - INS-260325-2832
   - INS-260325-3FD3
+evidence:
+  - id: INS-260327-7B05
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-3FD3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi argues the choice between 'AI replaces me' and 'AI supercharges me' isn't just attitudinal — it's strategic. The replacement mindset leads to defensive behavior: avoiding AI tools, hoping regulation slows progress, or switching careers preemptively. The supercharge mindset leads to offensive behavior: learning to leverage AI as an amplifier for existing skills.
 

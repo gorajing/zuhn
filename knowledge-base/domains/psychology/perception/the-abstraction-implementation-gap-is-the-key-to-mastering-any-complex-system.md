@@ -60,6 +60,13 @@ related:
   - INS-260329-003B
   - INS-260329-0432
   - INS-260329-F556
+evidence:
+  - id: INS-260329-C031
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4F8C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course opens with a critical distinction: an abstract data type (ADT) defines what operations are available and what behavior to expect, while a data structure is the concrete implementation. A queue ADT can be implemented via arrays, singly linked lists, or doubly linked lists — each with different performance tradeoffs but identical external behavior.
 

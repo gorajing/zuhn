@@ -68,6 +68,10 @@ related:
   - INS-260328-7942
   - INS-260327-178E
   - INS-260323-104E
+evidence:
+  - id: INS-260322-3159
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Maggie shares one of OpenAI's boldest organizational decisions: they initially built separate go-to-market teams for the API and ChatGPT Enterprise products, recognizing each had a distinct sales motion. The dedicated ChatGPT Enterprise team helped launch what they believe was the fastest-growing enterprise application in history.
 

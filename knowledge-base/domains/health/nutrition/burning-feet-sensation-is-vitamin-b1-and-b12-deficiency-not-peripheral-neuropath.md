@@ -56,5 +56,9 @@ related:
   - INS-260325-3306
   - INS-260327-BA14
   - INS-260329-C4F5
+evidence:
+  - id: INS-260329-C4F5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The burning sensation in feet is often diagnosed as peripheral neuropathy (nerve damage), but in many cases it is a functional deficiency of B vitamins that support nerve function. B1 (thiamine) is depleted by carbohydrate consumption, alcohol, coffee, and metformin. B12 is depleted by PPIs, metformin, and poor absorption from aging. These vitamins are essential for myelin sheath maintenance (the insulation around nerves). Without them, nerves malfunction (burning, tingling, numbness) before actual structural damage occurs. Supplementing with benfotiamine (fat-soluble B1) and methylcobalamin (active B12) can reverse symptoms if caught before permanent damage. The feet are affected first because the longest nerves are most vulnerable.

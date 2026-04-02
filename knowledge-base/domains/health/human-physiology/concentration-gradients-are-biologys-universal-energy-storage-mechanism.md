@@ -60,6 +60,10 @@ related:
   - INS-260330-F2B6
   - INS-260330-8A2E
   - INS-260330-49E9
+evidence:
+  - id: INS-260330-9FAA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Both photosynthesis and cellular respiration use the same core trick: pump ions across a membrane to create a concentration gradient, then harvest energy as ions flow back through specialized channels (ATP synthase). The thylakoid accumulates protons from water-splitting and active transport, creating what the video describes as 'charging a battery.' ATP synthase then converts this stored potential energy into ATP.
 

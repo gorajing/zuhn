@@ -54,6 +54,13 @@ related:
   - INS-260330-41A5
   - INS-260330-AA4F
   - INS-260330-1C84
+evidence:
+  - id: INS-260330-71DE
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-5E09
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 When presented with exponential growth data, people instinctively project forward using the most recent rate of change rather than the compounding trajectory. A process doubling every few days looks like slow linear growth when you only examine recent absolute numbers. This is why epidemics, viral content, and compound interest all surprise people — the early phase of any exponential curve is locally indistinguishable from a gentle linear slope.
 

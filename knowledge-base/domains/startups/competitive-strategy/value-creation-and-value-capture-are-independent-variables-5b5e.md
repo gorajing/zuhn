@@ -51,5 +51,9 @@ related:
   - INS-260330-228D
   - INS-260330-B138
   - INS-260330-5F7E
+evidence:
+  - id: INS-260330-B138
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Thiel's core framework separates value creation from value capture using the airline vs Google comparison: US airlines generated $195B in revenue in 2012 but cumulative profits over 100 years are approximately zero, while Google's $50B revenue came with massive margins. This means founders must evaluate not just whether their idea creates value, but whether the market structure allows capture. Perfect competition drives Y% toward zero regardless of how large X is. The practical implication is that choosing an industry with favorable structural dynamics (proprietary tech, network effects, economies of scale, brand) matters more than the raw magnitude of the problem being solved. Scientists exemplify this — they create enormous X but historically capture 0% because knowledge diffuses freely without structural moats.

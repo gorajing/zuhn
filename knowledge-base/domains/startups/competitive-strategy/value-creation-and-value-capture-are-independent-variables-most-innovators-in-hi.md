@@ -60,6 +60,10 @@ related:
   - INS-260330-5B5E
   - INS-260330-228D
   - INS-260325-95A6
+evidence:
+  - id: INS-260330-5F7E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Thiel argues the most important business concept people don't understand is that value creation and value capture are completely independent. The US airline industry generated $195 billion in domestic revenue in 2012 but has cumulative profits of approximately zero over its entire 100-year history. Google, with just $50 billion in revenue, was worth 4x the entire airline industry combined.
 

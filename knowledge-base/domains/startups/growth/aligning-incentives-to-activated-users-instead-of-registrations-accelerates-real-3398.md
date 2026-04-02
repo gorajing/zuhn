@@ -50,5 +50,21 @@ related:
   - INS-260330-4553
   - INS-260330-E61E
   - INS-260330-21CC
+evidence:
+  - id: INS-260330-4553
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-9C48
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-70BC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2A6A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-14AE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In 2004 eBay changed its affiliate program from paying per confirmed registered user to paying per activated user who actually bid, bought, or listed. Registrations dropped roughly 20% but active users only dropped about 5%. The ratio improved and active user growth accelerated because affiliates were forced to deliver users to product pages instead of registration walls. The metric you incentivize distribution partners on determines user quality, which compounds into retention differences over time.

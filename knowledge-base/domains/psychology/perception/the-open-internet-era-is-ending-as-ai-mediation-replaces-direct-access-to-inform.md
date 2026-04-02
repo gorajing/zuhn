@@ -54,6 +54,10 @@ related:
   - PRI-260328-C006
   - PRI-260327-0D6E
   - INS-260325-FD0F
+evidence:
+  - id: INS-260321-9EBB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The early internet promised open access to humanity's collective knowledge. The current trajectory points toward AI-mediated information: instead of searching and reading sources directly, users will ask AI systems that synthesize, filter, and present curated answers. This changes the epistemic relationship fundamentally.
 

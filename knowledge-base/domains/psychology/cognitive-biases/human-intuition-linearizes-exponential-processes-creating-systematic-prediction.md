@@ -49,5 +49,12 @@ related:
   - INS-260330-AA4F
   - INS-260330-2F13
   - INS-260330-1C84
+evidence:
+  - id: INS-260330-71DE
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-FB66
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 When shown early exponential data, people intuitively draw a line through recent points rather than fitting a curve. This means that by the time an exponential trend 'feels' significant, the window for effective intervention has already narrowed dramatically. The bias applies universally — to epidemic curves, compound interest, technology adoption, and startup growth alike. The practical counter is to force yourself to reason about doubling times rather than absolute numbers: asking 'how long until this doubles?' reframes the problem in terms the brain can handle and reveals the urgency that raw numbers conceal.

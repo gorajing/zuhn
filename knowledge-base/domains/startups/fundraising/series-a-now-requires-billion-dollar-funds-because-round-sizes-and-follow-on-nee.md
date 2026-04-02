@@ -60,5 +60,12 @@ related:
   - INS-260329-CC75
   - INS-260327-B6B7
   - INS-260327-8D5D
+evidence:
+  - id: INS-260327-DFF1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-750D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The podcast title question — 'Why you need a $1B fund to do Series A' — reflects a structural shift in venture capital. Companies stay private much longer (10+ years), Series A round sizes have grown to $20-50M+, and portfolio construction requires significant follow-on reserves to maintain ownership through multiple rounds. Smaller funds can still invest but cannot lead or provide the support and signaling that winning companies need. This creates a barbell effect: seed-stage funds can stay small because round sizes are manageable, but Series A funds need massive scale. The implication for founders: the bar for Series A has risen because these mega-funds need bigger outcomes to return their fund, favoring companies targeting massive TAMs.

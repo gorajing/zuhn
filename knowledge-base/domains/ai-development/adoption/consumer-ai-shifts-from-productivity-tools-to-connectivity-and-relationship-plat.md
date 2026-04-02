@@ -54,6 +54,22 @@ related:
 stance: >-
   2026 marks when major consumer AI products shift from helping you work to
   helping you stay connected
+evidence:
+  - id: INS-260327-A814
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6D59
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-EBBB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-8D47
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-5650
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Brian Kim at a16z argues that 2026 is when consumer AI moves beyond productivity into connectivity — helping users see themselves clearly and build relationships with people they love. The core emotion being addressed is wanting to be seen by others.
 

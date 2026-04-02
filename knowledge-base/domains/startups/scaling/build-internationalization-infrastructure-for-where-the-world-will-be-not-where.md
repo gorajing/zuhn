@@ -63,6 +63,10 @@ related:
   - INS-260323-6414
   - INS-260329-14AE
   - INS-260328-0DFE
+evidence:
+  - id: INS-260329-14AE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Facebook internationalized late by Sheryl Sandberg's own admission, allowing clones like StudiVZ (which literally had 'fakebook.css' in its HTML) to establish footholds. When they did internationalize, they made two critical decisions: first, they built a scalable community translation platform (wrapping all strings in FBT) rather than hiring professional translators for each language. This got French translated in 12 hours and eventually covered 104 languages, 70 community-translated.
 

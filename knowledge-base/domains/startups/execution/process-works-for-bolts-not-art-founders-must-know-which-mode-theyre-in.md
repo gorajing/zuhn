@@ -52,5 +52,9 @@ related:
   - INS-260327-FCCF
   - INS-260327-E2BC
   - INS-260327-E7B8
+evidence:
+  - id: INS-260321-B85C
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Dalton and Michael's core mental model: an assembly line is a fantastic example of good process — it produces consistent, measurable, provably good bolts. But process applied to art or innovation produces the 'NBAification' problem — Hollywood licensing comic book IP and hiring Brad Pitt instead of creating something original. Founders need to constantly ask 'am I in bolt-making mode or art-making mode?' Fundraising paperwork is bolts. Customer service metrics should be measured like bolts. But inventing a new product or finding product-market fit requires the freedom to do unpopular, scary, expensive things that process tries to control for. The practical framework: pick the top 3 areas where you want to innovate, and treat everything else like bolt-making.

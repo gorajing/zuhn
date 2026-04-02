@@ -58,6 +58,19 @@ related:
   - INS-260327-C1A4
   - INS-260329-C33B
   - INS-260329-C996
+evidence:
+  - id: INS-260322-DAFB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-0A55
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1F41
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-C996
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The OpenAI team deliberately modeled ChatGPT Agent's interaction pattern on human-to-human delegation: you give instructions, they ask clarifying questions, start working, occasionally check back for approvals on destructive actions, and you can interrupt to redirect or add forgotten requirements. Both the human and agent can initiate communication at any time.
 

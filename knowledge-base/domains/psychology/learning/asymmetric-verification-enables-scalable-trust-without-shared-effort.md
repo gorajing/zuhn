@@ -49,5 +49,9 @@ related:
   - INS-260328-E410
   - PRI-260321-AD44
   - PRI-260322-94C4
+evidence:
+  - id: INS-260322-F891
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The proof-of-work mechanism embodies a powerful general pattern: creating the output requires billions of guesses, but verifying it requires running one hash function. This create-hard/verify-easy asymmetry appears throughout effective systems — peer review (years of research, hours to evaluate), code testing (complex implementation, simple assertion), and credentialing (years of training, instant certificate check). The insight for system designers is that scalable trust requires this asymmetry. If verification were as expensive as production, the system couldn't scale. Bitcoin works because millions of nodes can independently confirm work that took one miner enormous effort, without repeating that effort themselves.

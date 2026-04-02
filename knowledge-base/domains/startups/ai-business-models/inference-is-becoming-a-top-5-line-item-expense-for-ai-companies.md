@@ -53,6 +53,10 @@ related:
   - INS-260322-D079
   - INS-260329-0D70
   - INS-260329-C092
+evidence:
+  - id: INS-260322-0C28
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Ron from Open Router shared that after studying 100 trillion tokens of inference usage, they found that inference is rapidly becoming the dominant operating expense for AI companies. Companies that were spending $1,000/week on inference suddenly spend $1,000/hour when their apps go viral. Open Router estimates 60-80% of operating costs for their top-ranked companies come from inference.
 

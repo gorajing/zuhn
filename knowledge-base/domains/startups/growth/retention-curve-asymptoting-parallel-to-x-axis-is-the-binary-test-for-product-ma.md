@@ -55,6 +55,10 @@ related:
   - INS-260330-78B1
   - INS-260330-37F6
   - INS-260330-CB30
+evidence:
+  - id: INS-260330-78B1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Alex Schultz argues retention is the single most important thing for growth. The diagnostic is simple: plot the percentage of users who are monthly active against their days since acquisition. If this curve asymptotes to a line parallel to the x-axis, you have product-market fit for some market subset. If it slopes down and intercepts the x-axis, your product will eventually lose all users regardless of acquisition velocity.
 

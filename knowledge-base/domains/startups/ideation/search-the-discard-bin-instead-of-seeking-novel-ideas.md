@@ -53,6 +53,10 @@ related:
   - PRI-260328-04FA
   - INS-260325-0147
   - INS-260330-4EF8
+evidence:
+  - id: INS-260321-6BA7
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 With billions of people in the world, the odds of finding an idea nobody has ever thought of are effectively zero. Instead, the productive approach is to find ideas that have been widely considered and rejected — the 'discard bin.' Instacart and Airbnb are classic examples: ideas that seemed bad to most people but turned out to be massive opportunities. The key insight is that shared cognitive filters cause most people to discard the same ideas for the same reasons, creating systematic blind spots that founders can exploit.
 

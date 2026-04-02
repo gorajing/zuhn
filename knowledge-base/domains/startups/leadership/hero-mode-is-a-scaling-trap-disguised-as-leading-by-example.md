@@ -54,5 +54,9 @@ related:
   - INS-260329-1F4D
   - INS-260330-22A2
   - INS-260330-EF51
+evidence:
+  - id: INS-260322-FD23
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Altman describes hero mode as a common failure pattern where a manager (e.g., customer support lead) keeps absorbing more work rather than stepping back to hire. The trap is that stopping feels irresponsible — 'if I stop for one day, we fall behind.' The only escape is accepting a deliberate 2-3 week regression: go offline, hire three people, and plan ahead based on growth rate to avoid repeating the cycle. This is fundamentally about the difference between working IN the system versus working ON the system, and it requires making a counterintuitive trade-off that feels wrong in the moment.

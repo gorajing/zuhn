@@ -60,6 +60,10 @@ related:
   - INS-260330-FA4C
   - INS-260330-608C
   - INS-260330-CB30
+evidence:
+  - id: INS-260330-FA4C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Kevin Hale frames growth as the simple interaction between conversion rate and churn rate. While most founders and their 'A teams' obsess over conversion optimization—marketing, advertising, landing page tweaks—they assign their 'B team' to retention and support. Yet a 1% reduction in churn produces exactly the same growth curve as a 1% improvement in conversion. The critical difference: churn reduction is cheaper, more within your control, and compounds more reliably.
 

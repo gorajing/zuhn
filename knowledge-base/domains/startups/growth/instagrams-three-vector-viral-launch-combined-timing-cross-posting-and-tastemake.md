@@ -57,5 +57,9 @@ related:
   - INS-260330-8FD6
   - INS-260321-6437
   - INS-260323-2040
+evidence:
+  - id: INS-260329-14AE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Instagram's explosive launch (25K day-one, 1M in a month) wasn't accidental luck — it was three growth vectors firing simultaneously. First, timing: the iPhone 4 had just launched with a dramatically improved camera, creating demand for a mobile-first photo app. Second, built-in distribution: Instagram made it trivially easy to cross-post filtered photos to Facebook and Twitter, meaning every Instagram post advertised the app on existing platforms. Third, tastemaker seeding: the team recruited designers and photographers with large followings on other platforms to join early, establishing an aspirational artistic tone. The lesson is that breakout consumer launches rarely depend on a single factor — they compound multiple vectors. Founders should audit their launch plan for timing alignment, distribution through existing networks, and influencer seeding rather than optimizing just one channel.

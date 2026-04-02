@@ -56,6 +56,10 @@ related:
 stance: >-
   Companies adopt AI because competitors are adopting it, not because ROI is
   proven — employees are measured on chatbot usage, not actual productivity.
+evidence:
+  - id: INS-260322-D7B1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Alex Hanna cites 40+ years of organizational sociology showing companies are not fully optimized rational actors — they operate within fields of other firms and adopt practices because peers do. Financial Times analysis found most firms adopted AI tools not from proven productivity gains but because competitors in their sector were doing so. The mechanism is classic FOMO: if competitors might gain advantage, the cost of not adopting seems greater than the cost of adopting.
 

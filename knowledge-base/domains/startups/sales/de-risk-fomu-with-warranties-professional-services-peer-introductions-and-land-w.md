@@ -74,6 +74,10 @@ related:
   - INS-260323-4457
   - INS-260330-2B45
   - PRI-260328-0BE1
+evidence:
+  - id: INS-260327-B17E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Duffy provides a tactical toolkit for countering FOMU. Professional services: if you have a PS organization, include implementation services as part of the proposal — structure the deal as a win-win rather than giving services away free. This reduces the buyer's fear that deployment will fail.
 

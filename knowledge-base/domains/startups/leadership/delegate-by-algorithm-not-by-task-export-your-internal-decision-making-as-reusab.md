@@ -50,6 +50,10 @@ related:
 stance: >-
   Entry-level delegation assigns tasks; advanced delegation exports your
   internal preferences and decision criteria as repeatable algorithms.
+evidence:
+  - id: INS-260327-7F56
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Most people delegate by task ('help me plan this dinner party'), which produces mediocre results because the delegate lacks your implicit criteria. Advanced delegation means exporting your algorithm: 'I like 6-8 people, similar stage companies, similar capital raised.' Once the algorithm is fully exported from your head, execution becomes rinse-and-repeat.
 

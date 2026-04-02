@@ -50,5 +50,9 @@ related:
   - INS-260330-7B62
   - INS-260330-0EF6
   - INS-260330-0930
+evidence:
+  - id: INS-260330-617A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Destin's son had been riding a normal bike for 3 years (over half his life at that point) yet learned the backwards bicycle in just 2 weeks. Destin, an adult, required 8 months of daily practice for the same task. This 16:1 ratio provides a vivid, controlled demonstration of the neural plasticity difference between children and adults. The child's brain hadn't yet fully myelinated and consolidated its bike-riding algorithm, making it far easier to overwrite. This principle extends beyond motor skills to language acquisition, musical training, and potentially any domain where procedural competence must be built — the window of maximum plasticity closes progressively with age, making early exposure disproportionately valuable.

@@ -56,5 +56,9 @@ related:
   - INS-260330-228D
   - INS-260330-5B5E
   - INS-260330-B138
+evidence:
+  - id: INS-260330-A0AE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Thiel argues that the formula for a valuable company requires both creating value (X) and capturing a percentage of it (Y%), and these are completely independent variables. The US airline industry generated $195B in domestic revenue in 2012 but had approximately zero cumulative profit over its 100-year history, while Google with $50B revenue had enormous margins. This pattern repeats across history: the Wright Brothers captured nothing from aviation, railroad pioneers went bankrupt despite transforming society, textile mill operators during the Industrial Revolution saw 5-7% annual efficiency gains for 60 years yet most wealth stayed with the landed aristocracy. Scientists systematically capture 0% of value created. The practical implication is that founders must evaluate not just whether they're building something valuable, but whether the industry structure allows value capture — which depends on achieving monopoly-like positioning rather than operating in competitive markets.

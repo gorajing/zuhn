@@ -56,6 +56,16 @@ related:
 stance: >-
   AI voice agents in loan servicing and collections can speak 50 languages,
   maintain perfect UDAP compliance, and deliver better customer experiences
+evidence:
+  - id: INS-260327-DBAD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DFF0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-519D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 David Goldberg highlights a key reorientation in fintech investing: the addressable market has shifted from software budgets (which were small in financial institutions) to labor costs (which are enormous). Voice agents that can do welcome calls, payment reminders, and collections in 50 languages with full compliance tracking are unlocking markets that were never interesting for traditional software.
 

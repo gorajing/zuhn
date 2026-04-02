@@ -57,6 +57,10 @@ related:
   - PRI-260323-A3A3
   - INS-260323-97A1
   - INS-260327-DC4C
+evidence:
+  - id: INS-260327-DC4C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Bustamante dismantles the popular spy archetype: real espionage values the exact opposite of what Hollywood portrays. The ideal operative is someone who is overlooked everywhere — middle-aged, average build, ethnically ambiguous enough to blend in across Asia, Latin America, Canada, or Australia. They're the person you don't remember bumping into at a coffee shop.
 

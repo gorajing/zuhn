@@ -54,6 +54,10 @@ related:
   - INS-260330-C745
   - INS-260330-3E6F
   - INS-260330-F4C0
+evidence:
+  - id: INS-260330-C745
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 YC's internal data shows that none of their top companies (by valuation) had significantly unequal equity splits among co-founders. Disproportionate ownership signals deeper problems: founders not fully committed, one founder overvaluing past contributions (idea, prototype, credentials) over future execution, or a lack of honest conversation about expectations.
 

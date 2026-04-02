@@ -54,5 +54,9 @@ related:
   - INS-260330-7E58
   - INS-260330-EF51
   - INS-260330-4CA7
+evidence:
+  - id: INS-260322-FD23
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hero mode starts from a good impulse: leading by example instead of just telling people to work hard. But as the company grows and workload increases, the hero manager moves from 18 to 19 to 20 hours, refusing to stop because any pause means falling behind. The only escape is accepting a deliberate short-term cost: falling behind for 2-3 weeks while hiring. This requires calculating based on growth rate how long the gap will last and committing to that investment. The deeper lesson is that scaling leadership means shifting from doing the work yourself to building the capacity for work to get done — and that transition always involves a painful period where you're doing neither well.

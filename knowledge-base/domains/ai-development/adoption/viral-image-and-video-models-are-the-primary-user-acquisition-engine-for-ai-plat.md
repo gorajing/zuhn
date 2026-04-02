@@ -53,6 +53,22 @@ related:
   - INS-260329-FB3F
   - INS-260329-1ECA
 stance: The most viral consumer AI moments of 2025 were all image/video
+evidence:
+  - id: INS-260327-165D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-FEB7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-555D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-FB3F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-1ECA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The a16z team identifies that the most impactful consumer AI moments of 2025 were image and video models, not text capabilities. The Ghibli moment for ChatGPT, Nano Banana/Pro for Gemini, VO3 for Google, and Sora 2 for OpenAI all drove massive user spikes. Gemini grew desktop users 155% YoY largely on the strength of these visual model launches.
 

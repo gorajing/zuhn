@@ -55,6 +55,13 @@ related:
   - INS-260330-AA4F
   - INS-260330-41A5
   - INS-260330-2F13
+evidence:
+  - id: INS-260330-FB66
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-5E09
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 When confronted with exponential growth, humans instinctively project linearly from recent data points rather than recognizing the accelerating curve. This isn't a failure of intelligence but a deep cognitive bias — our evolved intuition handles linear change well because most survival-relevant phenomena in ancestral environments were linear or cyclical.
 

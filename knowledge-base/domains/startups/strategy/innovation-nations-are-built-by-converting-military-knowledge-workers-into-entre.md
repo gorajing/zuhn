@@ -58,6 +58,10 @@ related:
 stance: >-
   Netanyahu's formula for Israel's GDP growth from $17K to $54K per capita: free
   market reforms plus a permanent pipeline of knowledge workers from m...
+evidence:
+  - id: INS-260325-BC2A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Netanyahu describes Israel's economic transformation through two mechanisms. First, dozens of free market reforms that unleashed entrepreneurial energy. Second, and more uniquely, a permanent investment in conceptual products through military service — soldiers in intelligence units become knowledge workers who then become knowledge entrepreneurs after service.
 

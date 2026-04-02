@@ -45,6 +45,9 @@ Each level compresses the one below. Query cost scales logarithmically — ~800 
 # Install dependencies
 npm install
 
+# Set up Claude Code configuration (hooks, agents, settings)
+cp -r .claude.example .claude
+
 # Optional: Install Ollama for semantic search
 # https://ollama.com/download
 ollama pull nomic-embed-text
@@ -297,7 +300,7 @@ scripts/                           ← TypeScript tooling (40+ scripts)
 ├── extract-session.ts             ← Process queued session insights
 └── mcp-server.ts                  ← MCP server (10 tools: 6 read + 4 write)
 
-.claude/                           ← Claude Code project configuration
+.claude.example/                   ← Claude Code config templates (copy to .claude/ locally)
 ├── settings.json                  ← Hook registration + project settings
 ├── hooks/
 │   ├── block-kb-writes.sh         ← PreToolUse: enforces Golden Rule (no direct KB writes)
@@ -562,6 +565,10 @@ Skills: `ingest` · `extract` · `compress` · `search` · `learn` · `sleep-wak
 - Epistemic Quality Pipeline — LLM-graded IQS, composite KQ metric, Golden Eval Set for A/B prompt testing
 - System Health Sprint — tiered COMPRESS thresholds, dedup protection, novelty scorer fix, topic-level flag detection
 - Autonomous Knowledge Engine — phone→Zuhn pipeline (Tailscale + inbox server), autoknowledge integrated into daemon + post-ingest, concurrent process lock, `--auto-extract` for channel ingestion
+
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
 
 ---
 

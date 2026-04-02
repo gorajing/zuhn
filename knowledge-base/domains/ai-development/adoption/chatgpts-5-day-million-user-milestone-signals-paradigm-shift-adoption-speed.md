@@ -52,5 +52,27 @@ related:
   - INS-260330-3398
   - INS-260330-9C48
   - INS-260330-B437
+evidence:
+  - id: INS-260320-20F2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-560D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-9415
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-410A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3398
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-9C48
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-B437
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The comparison points are striking: Facebook took 2 years to reach 1 million users, Instagram took 2 years, Pinterest took 4 months, Angry Birds took 35 days, and ChatGPT did it in 5 days. This isn't just a faster version of normal technology adoption — the speed difference is qualitative, suggesting AI tools tap into a fundamentally different demand curve. When adoption happens this fast, it indicates the technology is solving a problem people already had but couldn't articulate, and that the barrier was access rather than need. For founders and investors, this adoption velocity pattern is a leading indicator that AI represents a platform shift on par with the internet, not an incremental improvement.

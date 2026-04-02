@@ -58,6 +58,10 @@ related:
   - INS-260325-5588
   - INS-260325-6571
   - INS-260330-F9C1
+evidence:
+  - id: INS-260330-BB0C
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Helen Fisher's fMRI research shows that intense romantic love activates the oldest brain regions linked with drive, craving, and motivation, while simultaneously shutting down more recently evolved cognitive regions in the prefrontal cortex responsible for decision-making and planning ahead. This explains why people in love make objectively irrational choices — falling for someone married, across the world, or from incompatible backgrounds — and genuinely believe 'we'll work it out.'
 

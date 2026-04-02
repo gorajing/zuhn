@@ -51,6 +51,10 @@ related:
   - INS-260330-4CA7
   - INS-260329-1F4D
   - INS-260323-5986
+evidence:
+  - id: INS-260330-C215
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Adora Cheung literally got a job at a cleaning company before building Homejoy. The training itself was useful, but the real payoff was understanding why local cleaning companies couldn't scale — their booking, scheduling, and operations were deeply inefficient in ways only visible from inside.
 

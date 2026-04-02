@@ -50,6 +50,10 @@ related:
   - INS-260327-0CBC
   - INS-260327-415B
   - INS-260327-4445
+evidence:
+  - id: INS-260322-0812
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is why the most viral foods are often mediocre eating experiences.
 

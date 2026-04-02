@@ -60,6 +60,10 @@ related:
   - INS-260330-3819
   - INS-260330-C8ED
   - INS-260330-6DEB
+evidence:
+  - id: INS-260322-3083
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video highlights a property that seems technical but is actually the entire reason the Fourier Transform is useful: if you transform signal A and signal B separately, then add the results, you get the same thing as transforming (A + B) together. This linearity means each frequency component produces an independent spike regardless of what other frequencies are present.
 

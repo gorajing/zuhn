@@ -55,6 +55,10 @@ related:
   - INS-260330-DF02
   - INS-260330-7241
   - INS-260330-B306
+evidence:
+  - id: INS-260322-A36C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 React dominates npm downloads (10M+ weekly) and hiring demand, but Svelte wins developer satisfaction surveys despite having a fraction of the community. This split reveals two distinct framework selection strategies: optimize for ecosystem safety (large community, abundant jobs, third-party libraries) or optimize for developer happiness (clean APIs, fewer abstractions, faster development).
 

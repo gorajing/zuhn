@@ -60,6 +60,13 @@ related:
   - PRI-260323-8E89
   - INS-260327-B93E
   - INS-260330-A44F
+evidence:
+  - id: INS-260327-B93E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-A44F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dan Lahav argues that traditional cybersecurity is reactive, but AI security must be proactive because model capabilities change quarterly. Skills that were impossible for models six months ago (like chaining multiple vulnerabilities across a network) are now feasible. The rate of improvement means that by the time you've built defenses against a model's current capabilities, the next release has already exceeded them.
 

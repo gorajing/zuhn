@@ -60,5 +60,9 @@ related:
   - INS-260329-FAE2
   - INS-260329-C7BF
   - INS-260330-72C2
+evidence:
+  - id: INS-260329-0F06
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course opens by distinguishing abstract data types (ADTs) from data structures: an ADT specifies what operations must exist (add, remove, query) without specifying how. A queue ADT can be implemented as a linked list, a circular buffer, or even two stacks. This pattern is isomorphic to interface/implementation separation everywhere in software: REST APIs define contracts that any backend can fulfill, MCP defines a protocol that any tool server can implement, and dependency injection lets you swap implementations without changing callers. The key insight is that this isn't just a programming convenience — it's what makes systems evolvable. When you couple to an interface rather than an implementation, you can optimize, replace, or scale the underlying structure without cascading changes. Every time you hardcode a specific data structure where an ADT would suffice, you're trading future flexibility for present convenience.

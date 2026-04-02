@@ -66,6 +66,10 @@ related:
   - INS-260325-4C92
   - INS-260329-74F9
   - INS-260329-808C
+evidence:
+  - id: INS-260322-3083
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kate Jensen shares specific ways Anthropic's own sales team uses Claude daily. First, account planning: feeding executive podcasts, published quotes, news mentions, and account context into Claude, then asking 'what should I ask this person? how should I position this?' This instantly elevates meeting preparation quality — the 'lowest common denominator just came up' across the entire team.
 

@@ -63,6 +63,16 @@ related:
 stance: >-
   Reframing businesses as collections of input-constrained processes (customer
   service, legal) and output-constrained processes (creative, engineerin...
+evidence:
+  - id: INS-260328-75B8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-6E7A
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260321-7D76
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Mike Cannon-Brookes argues that the 'system of record' mental model is as outdated as the floppy disk save icon. Modern knowledge businesses are actually collections of processes — some input-constrained and some output-constrained — and this distinction determines how AI transforms each.
 

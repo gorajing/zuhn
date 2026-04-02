@@ -53,6 +53,10 @@ related:
   - INS-260330-FFDB
   - INS-260330-0B79
   - INS-260330-2306
+evidence:
+  - id: INS-260330-0B79
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Adora warns against the 'Frankenstein approach' where founders talk to users, collect feature ideas, and rush to build all of them. The resulting product becomes a patchwork monster that doesn't coherently solve any problem well.
 

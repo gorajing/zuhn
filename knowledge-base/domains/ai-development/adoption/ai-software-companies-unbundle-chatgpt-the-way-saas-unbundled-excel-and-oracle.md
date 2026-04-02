@@ -54,6 +54,19 @@ related:
 stance: >-
   Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500
   dedicated apps per company, AI software companies will unbundle ChatGPT b...
+evidence:
+  - id: INS-260330-3E6B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-6B78
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-178E
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2043
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Evans draws a direct line from enterprise SaaS history to the AI future. The typical large company today uses 400-500 SaaS apps, all basically doing things you could do in Oracle, Excel, or email — but wrapped in industry-specific workflows with curated UI choices that encode institutional knowledge.
 

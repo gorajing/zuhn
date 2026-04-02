@@ -58,6 +58,16 @@ related:
 stance: >-
   Labs are merging previously separate text, image, and video capabilities into
   unified models that accept any input modality and produce any output
+evidence:
+  - id: INS-260321-CCD9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-105E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-178E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The a16z team identifies multimodal convergence as the defining model trend for 2026. The progression: initially models took text in and produced images/video out. Then image-to-image editing arrived (Nano Banana, Flux). Next comes video-in-to-video-out editing, and ultimately 'mega models' that merge text reasoning, image generation, and video production into unified systems.
 

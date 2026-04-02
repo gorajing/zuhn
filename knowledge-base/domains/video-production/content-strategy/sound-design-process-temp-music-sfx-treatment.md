@@ -29,7 +29,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The sound design workflow for video follows three steps: lay down temp
@@ -50,6 +50,10 @@ resolutions:
 stance: >-
   Video sound design follows a strict three-step sequence: temp music, then
   SFX/foley, then final mix
+evidence:
+  - id: INS-260322-B09B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 The recommended sound design process for video production follows a

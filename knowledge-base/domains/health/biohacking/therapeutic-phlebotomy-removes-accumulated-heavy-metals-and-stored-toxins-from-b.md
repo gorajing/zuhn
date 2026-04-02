@@ -44,5 +44,9 @@ related:
   - INS-260327-A7D0
   - PRI-260328-F804
   - INS-260325-4E88
+evidence:
+  - id: INS-260327-97AD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Regular blood donation or therapeutic phlebotomy can reduce accumulated heavy metals, stored seed oil metabolites, and excess iron that contribute to oxidative stress

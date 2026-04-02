@@ -60,6 +60,13 @@ related:
 stance: >-
   The best consumer AI companies achieve over 100% net revenue retention through
   usage-based pricing on top of subscriptions
+evidence:
+  - id: INS-260322-0C28
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-282F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 A paradigm-breaking metric has emerged in consumer AI: top companies achieve greater than 100% net revenue retention. This was previously considered impossible in consumer software, where churn always exceeded expansion. The mechanism is usage-based pricing layered on subscriptions — users can exceed their monthly quota and pay more, either by upgrading tiers or purchasing additional tokens/usage.
 

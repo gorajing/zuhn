@@ -57,6 +57,10 @@ related:
   - INS-260330-0EF6
   - INS-260330-0930
   - INS-260330-0B0B
+evidence:
+  - id: INS-260330-4A6A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The experiment provides a controlled comparison: father and son, similar genetics, same task, same daily practice regimen. The child succeeded in 2 weeks; the adult needed 8 months. This roughly 16x difference aligns with neuroscience literature on myelination and synaptic pruning — adult brains trade plasticity for efficiency, making established pathways fast but rigid.
 

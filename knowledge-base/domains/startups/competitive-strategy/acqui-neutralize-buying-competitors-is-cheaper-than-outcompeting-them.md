@@ -53,5 +53,9 @@ related:
   - INS-260330-930D
   - INS-260324-DB86
   - INS-260330-8326
+evidence:
+  - id: INS-260329-E193
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When Facebook acquired Instagram for $1B in 2012, the app was 18 months old, had 13 employees, and no revenue whatsoever. The deal was widely ridiculed. By 2019, Instagram generated $24B/year (~30% of Facebook's total revenue). But the financial return was only half the value — the acquisition also neutralized Instagram as the leading alternative to Facebook. Chris Hughes (Facebook co-founder) later called the deal an 'unprecedented' regulatory failure. The pattern reveals that incumbent platforms face a binary choice with fast-growing competitors: acquire them at prices that seem irrational today, or compete against them at costs that will seem catastrophic tomorrow. Zuckerberg explicitly told Systrom that if he didn't sell, Facebook would try to crush Instagram instead — making the acquisition a rational game-theoretic move for both sides.

@@ -49,6 +49,10 @@ resolutions:
 stance: >-
   Having Claude review its own code via a specialized review agent catches
   critical errors humans miss
+evidence:
+  - id: INS-260329-92E9
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 
 Create a specialized code review agent that reviews Claude's own output.

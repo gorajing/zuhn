@@ -54,5 +54,9 @@ related:
   - INS-260330-C95F
   - INS-260330-7D6D
   - INS-260322-750D
+evidence:
+  - id: INS-260322-750D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 While Apple optimized for the US/European market, competitors like Xiaomi, Oppo, and Samsung built products deeply localized for India: dual SIM support (essential for Indian consumers managing personal and work numbers), regional language keyboards, local payment integrations, and price points matching local purchasing power. Each individual localization seems trivial, but collectively they create a product that feels native versus foreign. This mirrors a broader competitive dynamics pattern: incumbent advantage in emerging markets isn't about technology leadership but about accumulated local knowledge embedded in the product. Global brands that attempt to enter with their standard product plus minor tweaks consistently underestimate this localization moat. The winning strategy requires either deep local R&D investment or acquisition of local players who already have this embedded knowledge.

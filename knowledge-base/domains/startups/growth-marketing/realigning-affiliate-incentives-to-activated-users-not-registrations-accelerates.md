@@ -58,6 +58,16 @@ related:
   - INS-260330-9C48
   - INS-260330-E61E
   - PRI-260328-6A8D
+evidence:
+  - id: INS-260330-3398
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2A6A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4553
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 In 2004, eBay changed its affiliate payment model from paying per confirmed registered user (CRU) to paying per activated confirmed registered user (ACRU) — meaning the user had to actually bid, buy, or list an item. Overnight, confirmed registrations driven by affiliates dropped ~20%, but activated users only dropped ~5%. The ratio of CRU to ACRU improved, and growth of active users massively accelerated.
 

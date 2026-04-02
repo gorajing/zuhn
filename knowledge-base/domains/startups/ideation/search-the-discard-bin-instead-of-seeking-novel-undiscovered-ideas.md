@@ -45,5 +45,9 @@ related:
 stance: >-
   Find ideas that have been discarded by others rather than trying to discover
   something no one has ever thought of.
+evidence:
+  - id: INS-260329-ABD9
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Most aspiring founders try to find ideas that are both good and never-been-thought-of, which is nearly impossible with billions of people on Earth. The better approach is to look at ideas that have already been considered and dismissed — the 'discard bin.' Instacart and Airbnb were both ideas that most people thought were bad or impractical. When your friends and family are worried about you because of your idea, that's actually a positive signal. The key insight is that unique ideas aren't undiscovered — they're ideas that others have discarded for reasons that may no longer apply or were never valid.

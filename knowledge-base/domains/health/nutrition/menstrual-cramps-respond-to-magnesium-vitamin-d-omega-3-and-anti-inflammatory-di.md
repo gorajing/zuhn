@@ -46,5 +46,9 @@ related:
   - INS-260330-2025
   - INS-260330-0804
   - INS-260327-F8BF
+evidence:
+  - id: INS-260327-6EB5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dysmenorrhea is driven by excess prostaglandins from inflammation; magnesium (relaxes smooth muscle), vitamin D (modulates inflammation), omega-3s (compete with pro-inflammatory omega-6), and reducing processed food address root causes

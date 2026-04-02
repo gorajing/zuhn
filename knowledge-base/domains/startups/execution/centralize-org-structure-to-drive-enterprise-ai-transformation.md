@@ -56,6 +56,13 @@ related:
   - INS-260330-C095
   - INS-260327-999C
   - INS-260322-B09B
+evidence:
+  - id: INS-260322-3159
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-B09B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Block's CTO describes a deliberate organizational restructuring: they moved from a GM structure (where Square, Cash App, and Tidal operated as independent units) to a centralized functional organization. This wasn't arbitrary; the GM structure kept valuable AI capabilities locked within silos and prevented the cross-pollination and unified policies needed for AI transformation.
 

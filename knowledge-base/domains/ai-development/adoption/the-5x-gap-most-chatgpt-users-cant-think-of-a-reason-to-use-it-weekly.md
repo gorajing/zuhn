@@ -55,6 +55,19 @@ related:
 stance: >-
   ChatGPT has 800-900M weekly active users, but only 5% pay — five times more
   people have accounts than can find a weekly use case.
+evidence:
+  - id: INS-260321-F0DF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-FEAB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9C48
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-BD20
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Power users who spend hours daily in AI tools should ask themselves why five times more people look at it, have accounts, know how to use it, and still can't think of anything to do with it this week. The gap is not ignorance — it's that many jobs don't map cleanly onto what LLMs do well. The spreadsheet analogy clarifies this: an accountant saw VisiCalc and immediately knew it could compress a month of work into 10 minutes; a lawyer saw it and thought 'maybe I'll use it for my billable hours table next week.'
 

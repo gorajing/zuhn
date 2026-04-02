@@ -61,5 +61,9 @@ related:
   - INS-260330-3B73
   - INS-260330-0C49
   - INS-260330-FB34
+evidence:
+  - id: INS-260330-0C49
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 After mastering the backwards bicycle, Destin discovered his new skill was extraordinarily fragile. Any momentary distraction — a cellphone ringing, a brief lapse in concentration — would cause his brain to 'jump back onto the old road' and he'd crash instantly. The new neural pathway required active, focused attention to maintain, while the old pathway (25 years of normal cycling) remained the default. This reveals a critical principle about skill acquisition and habit change: new patterns don't replace old ones, they compete with them. The old pattern remains intact and dominant, ready to reassert itself the moment attention wavers. This explains why behavior change is hardest in high-stress or high-distraction environments, and why relapse is most likely when cognitive resources are depleted. The practical implication is that newly acquired skills and habits need protected, low-distraction practice environments until the new pathway becomes robust enough to compete with the legacy pattern.

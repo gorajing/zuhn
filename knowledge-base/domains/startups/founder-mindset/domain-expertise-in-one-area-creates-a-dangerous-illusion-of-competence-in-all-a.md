@@ -63,6 +63,10 @@ related:
 stance: >-
   The biggest failure mode in Silicon Valley is assuming that being smart at
   building products means you're smart at negotiating contracts, managing ...
+evidence:
+  - id: INS-260321-8382
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Karp describes a universal failure mode among tech founders engaging with government and defense: because they're intelligent in one domain, they assume competence transfers to all domains. A brilliant engineer decides they should personally negotiate a defense contract. A product genius assumes they understand military operations.
 

@@ -54,6 +54,10 @@ related:
   - INS-260330-3B0A
   - INS-260328-4EA0
   - INS-260326-967C
+evidence:
+  - id: INS-260330-E170
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 YC has observed a recurring pattern in founder breakups: when the company hasn't been paying founders even minimum wage, the departing founder's lawyer identifies the wage violation and uses it as a bargaining chip. The fired founder offers to sign a release in exchange for vesting acceleration on shares they haven't earned. The remaining founders, wanting the situation resolved quickly, often agree — leaving a disgruntled ex-founder with equity while the remaining team builds all future value.
 

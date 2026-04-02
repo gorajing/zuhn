@@ -60,6 +60,10 @@ related:
 stance: >-
   When customers become partners invested in your success as much as you are in
   theirs, they introduce you to VCs, build on your platform, and active...
+evidence:
+  - id: INS-260322-7DD5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Linq's most powerful growth lever wasn't sales — it was customer-partner relationships. A customer introduced them to Bain Capital Ventures. Another customer (Tommo, built by just two people on Linq's platform) integrated their AI into a group chat to help pick a coffee shop during a meeting. The customer's founder added his AI assistant to a conversation with Linq's CEO in real time.
 

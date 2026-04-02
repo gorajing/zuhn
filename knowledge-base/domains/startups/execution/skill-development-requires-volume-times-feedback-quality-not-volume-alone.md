@@ -55,6 +55,10 @@ related:
   - PRI-260323-9D46
   - INS-260325-FDA9
   - INS-260329-33D4
+evidence:
+  - id: INS-260322-F891
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi observes that the 1% of people who actually do high volume (e.g., post content daily for a year) often plateau because they skip the review step. His framework: do high volume, then analyze the top 10% and bottom 10% of outcomes. Identify what the winners have in common that the losers don't. Pick one differentiating factor and incorporate it into every future rep. This builds a cumulative checklist that IS the skill.
 

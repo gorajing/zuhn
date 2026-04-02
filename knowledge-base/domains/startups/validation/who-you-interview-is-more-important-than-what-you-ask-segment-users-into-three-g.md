@@ -59,6 +59,10 @@ related:
   - INS-260330-D1C8
   - INS-260323-3D7D
   - INS-260330-CC49
+evidence:
+  - id: INS-260322-0C28
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Emmett Shear describes how Twitch's user research divided subjects into three groups: existing Justin TV broadcasters, broadcasters on competing platforms, and non-broadcasters (gamers who never streamed). Each group revealed completely different priorities. Existing users asked for chat features and UI polish — problems they tolerated anyway. Competitor users revealed dealbreakers like revenue sharing and video stability — problems so severe they refused to switch. Non-users revealed market expansion blockers like hardware limitations and fear of strategy exposure.
 

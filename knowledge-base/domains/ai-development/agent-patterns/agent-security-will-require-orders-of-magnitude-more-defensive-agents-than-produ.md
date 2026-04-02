@@ -57,6 +57,10 @@ related:
   - INS-260329-D6AA
   - INS-260330-BA13
   - INS-260330-D5CD
+evidence:
+  - id: INS-260330-BA13
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 At a Sequoia AI event, Jensen Huang argued there should be orders of magnitude more security agents than productive agents in an enterprise. Lahav agrees with the directional thesis: in a world of non-deterministic autonomous AI systems, you need continuous monitoring agents watching for behavioral anomalies, policy violations, and emergent misbehavior.
 

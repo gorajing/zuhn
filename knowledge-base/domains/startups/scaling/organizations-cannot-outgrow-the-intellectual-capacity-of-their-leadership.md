@@ -50,5 +50,9 @@ related:
   - INS-260330-98EA
   - INS-260329-ACE6
   - INS-260327-E9FC
+evidence:
+  - id: INS-260329-58E7
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Ramsey grew up in real estate sales — pure tactical execution. 'I couldn't spell strategic when we started.' His breakthrough insight was recognizing that his company's ceiling was his own intellectual capacity. When he hired MBAs, a productive exchange happened: they taught him to think strategically (seeing the maze from above) while he taught them to execute (the energy of hustle). He describes the difference as running into walls vs. finding doors. Jim Collins calls this 'calibrated cannonballs' — strategic aim combined with tactical energy. This maps to a common startup pattern: founders who are strong executors hit a ceiling around $10-30M because they've never developed the strategic planning muscle to allocate resources efficiently.

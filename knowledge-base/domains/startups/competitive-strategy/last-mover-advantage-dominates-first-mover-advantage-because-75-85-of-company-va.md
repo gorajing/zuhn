@@ -62,6 +62,10 @@ related:
   - INS-260330-8A87
   - INS-260330-3897
   - PRI-260328-43F1
+evidence:
+  - id: INS-260330-1608
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Thiel's DCF analysis of PayPal in March 2001 (27 months after founding, 100% annual growth, 30% discount rate) revealed that approximately 75% of the business value came from cash flows in years 2011 and beyond. He argues this math holds for essentially every tech company: 75-85% of value comes from cash flows a decade or more in the future.
 

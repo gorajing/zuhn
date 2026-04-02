@@ -53,6 +53,10 @@ related:
   - INS-260325-5F3B
   - INS-260322-CCAA
   - INS-260329-075C
+evidence:
+  - id: INS-260326-163A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Everyone who has tried to one-shot a startup with AI finds it falls apart after the first 30 minutes. Paperclip's approach mirrors real organizational design: a CEO agent decomposes goals, engineers execute, QA agents review, and approval gates prevent runaway work. OpenAI calls this 'harness engineering.'
 

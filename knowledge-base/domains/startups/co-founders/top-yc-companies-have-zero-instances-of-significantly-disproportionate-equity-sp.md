@@ -59,5 +59,9 @@ related:
   - INS-260330-C745
   - INS-260330-0B55
   - INS-260330-F4C0
+evidence:
+  - id: INS-260330-C745
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 YC's own data shows that among their top companies by valuation, there are zero instances of significantly disproportionate equity splits. The reasoning is that unequal splits are a symptom of deeper problems: one founder secretly viewing the startup as temporary, overvaluing prior work or credentials, or founders not trusting each other enough to have honest conversations about commitment. YC's mantra is that splits don't have to be exactly equal, but highly disproportionate splits are a 'huge red flag.' The key mental shift is looking forward (all founders committing 100% for the long haul) rather than backward (who had the idea, who built the prototype, who has the MBA). When everyone is equally committed to execution, pre-formation contributions become irrelevant — and the data suggests companies that internalize this outperform those that don't.

@@ -49,6 +49,10 @@ resolutions:
 stance: >-
   Shipping a product that sort-of-works and charging from day one beats waiting
   for perfection
+evidence:
+  - id: INS-260329-14AE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Get traction before perfecting anything. Coconote shipped a basic product

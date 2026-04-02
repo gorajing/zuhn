@@ -57,6 +57,25 @@ related:
 stance: >-
   Only 9% of consumers pay for more than one LLM assistant, and less than 10% of
   ChatGPT users even visit competitors
+evidence:
+  - id: INS-260322-B450
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-BEAC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3745
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1B7C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-6FFC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-C6A9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The a16z consumer team presents data showing the general LLM assistant market is trending toward winner-take-most. ChatGPT leads with 800-900M weekly active users. Gemini sits at roughly 35% of ChatGPT's scale on web, 40% on mobile (boosted by Android distribution). Claude, Grok, and Perplexity trail at 8-10% of usage each.
 

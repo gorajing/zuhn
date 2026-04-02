@@ -61,6 +61,10 @@ related:
   - INS-260327-B18F
   - INS-260329-3392
   - INS-260330-BCAF
+evidence:
+  - id: INS-260322-7DD5
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Most salespeople stop connecting after the credit card runs. This is a critical mistake. The moment after saying 'yes' is when buyer's remorse is highest. Shelby's technique: positively future-pace the customer by having them envision the transformation. 'A lot of people love texting me when they hit their first [milestone]. Would you mind keeping me in the loop?'
 

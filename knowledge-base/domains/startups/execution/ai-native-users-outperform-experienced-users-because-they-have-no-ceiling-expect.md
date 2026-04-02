@@ -52,6 +52,10 @@ related:
   - INS-260330-21CC
   - INS-260329-14AE
   - INS-260330-D1C8
+evidence:
+  - id: INS-260329-14AE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bent observed that people in Rwanda and India who are AI-native—using AI tools as their first technology beyond cell phones—use AI more powerfully than experienced tech workers. The reason: they have no preconceptions about what AI can't do. They see current capabilities clearly.
 

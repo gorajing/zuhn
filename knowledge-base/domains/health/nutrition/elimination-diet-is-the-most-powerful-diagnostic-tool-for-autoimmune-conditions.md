@@ -55,6 +55,10 @@ related:
   - PRI-260328-97E0
   - PRI-260328-AF97
   - INS-260327-A7F5
+evidence:
+  - id: INS-260327-584D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The protocol: eat only meat and fruit for 3-4 weeks, then reintroduce foods one at a time while monitoring symptoms. This works for gut issues, depression, sleep disturbance, skin conditions, joint pain, infertility, and low libido. The naturopathic principle -- remove impediments and the body will heal -- consistently produces results that pharmaceutical approaches cannot.
 

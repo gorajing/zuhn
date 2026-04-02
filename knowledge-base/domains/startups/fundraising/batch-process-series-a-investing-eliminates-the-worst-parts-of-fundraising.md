@@ -53,6 +53,10 @@ related:
   - INS-260330-DEBC
   - INS-260330-B09B
   - INS-260329-14AE
+evidence:
+  - id: INS-260329-14AE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dalton Caldwell's Standard Capital applied the YC batch model to Series A investing: a single application deadline, first interviews within a week, in-person second meetings, and final decisions two days later. The total founder time investment was roughly four hours (application plus two meetings), compared to the months-long traditional process of deck editing, back-channeling, and multiple VC pitches.
 

@@ -56,6 +56,16 @@ related:
 stance: >-
   Just as the internet ad industry needed companies like DoubleClick, Comscore,
   and Omniture before Google/Facebook could scale revenue, enterprise A...
+evidence:
+  - id: INS-260327-EBDF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-4440
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3E6B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Every major technology budget shift (TV to digital, client-server to cloud) required rebuilding the entire measurement stack. Google and Facebook's ad revenue wouldn't have grown as quickly without 15+ years of attribution infrastructure (DoubleClick, Comscore, Omniture, Nielsen's digital migration).
 

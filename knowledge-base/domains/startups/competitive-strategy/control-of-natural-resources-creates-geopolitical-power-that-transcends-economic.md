@@ -44,6 +44,10 @@ related:
   - INS-260330-2025
   - INS-260330-0804
   - INS-260327-F8BF
+evidence:
+  - id: INS-260327-6EB6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Nations and companies that control essential natural resources wield power disproportionate to the resources economic value because the resources are necessary for all other economic activity.
 

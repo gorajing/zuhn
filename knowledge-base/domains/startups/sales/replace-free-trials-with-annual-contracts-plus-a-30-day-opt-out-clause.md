@@ -55,6 +55,10 @@ related:
   - INS-260327-D25D
   - PRI-260328-43D8
   - INS-260330-6BAF
+evidence:
+  - id: INS-260327-4DE8
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When prospects ask for a 60-day free trial, Bosmeny's approach across every company he's worked at has been to refuse and instead offer annual agreements with a 30-day opt-out. The key insight is about defaults: with a free trial, the default state is 'not a customer' and you have to re-sell after the trial period. With an annual contract plus opt-out, the default is 'customer' and the buyer is protected from risk.
 

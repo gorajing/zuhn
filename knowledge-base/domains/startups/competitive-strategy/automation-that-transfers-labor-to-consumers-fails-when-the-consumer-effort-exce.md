@@ -44,6 +44,10 @@ related:
   - PRI-260328-97E0
   - PRI-260328-AF97
   - INS-260327-A7F5
+evidence:
+  - id: INS-260327-584E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficient convenience benefit to compensate for the effort.
 

@@ -52,6 +52,10 @@ related:
   - INS-260329-5257
   - INS-260322-A36C
   - INS-260329-3FA6
+evidence:
+  - id: INS-260322-A36C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi argues the passive vs active income distinction is a harmful false binary. Every dollar earned maps to time invested — the only question is the rate. He found himself spending money chasing 'passive' income streams while neglecting active work that paid 15x his average hourly rate. The fix: calculate your actual $/hr (annual income ÷ 2000 for work hours, or ÷ 8000 for all waking hours), then do more of anything that exceeds that number before seeking new streams.
 

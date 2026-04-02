@@ -60,5 +60,9 @@ related:
   - INS-260330-A33E
   - INS-260330-9E25
   - INS-260330-17C3
+evidence:
+  - id: INS-260330-17C3
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Functional MRI and neurochemical studies reveal that romantic love produces a neurochemical profile virtually identical to two clinical conditions. Dopamine surges mirror cocaine addiction — the same reward-seeking, craving, and withdrawal patterns — explaining why separation from a partner feels like drug withdrawal. Simultaneously, serotonin changes mirror obsessive-compulsive disorder, producing the characteristic rumination (thinking about the partner over and over) and obsessive focus. Vasopressin changes add a stress component, making passionate love a genuinely stressful physiological state. This reframing has practical value: recognizing early-stage love as a temporary neurochemical state (not a reliable signal about partner quality) enables better decision-making. It also explains why 'love bombing' and intense early courtship are such effective manipulation tactics — they exploit addiction circuitry.

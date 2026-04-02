@@ -50,6 +50,10 @@ related:
   - INS-260323-5609
   - INS-260322-0C28
   - INS-260321-33FC
+evidence:
+  - id: INS-260322-0C28
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Utley uses Winston Churchill dictating speeches from the bathtub as the ultimate example of context-rich assistance. Churchill's assistant knew his voice, his intent, his audience, and could produce drafts that needed only direction, not creation from scratch. This capability was previously available only to the most powerful people in the world.
 

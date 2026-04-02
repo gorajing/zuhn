@@ -52,5 +52,9 @@ related:
   - INS-260330-C9C6
   - INS-260330-391C
   - INS-260323-D679
+evidence:
+  - id: INS-260330-C9C6
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Thiel's most counterintuitive claim is that founders should target markets so small they appear valueless. PayPal captured 25-30% of eBay power sellers (just 20,000 people) within 2-3 months. Facebook went from 0 to 60% of Harvard in 10 days. Both markets were dismissed by conventional analysis as too tiny to matter. The key insight is that monopoly requires a large share of a market — the easiest way to achieve that is to start with a small market and dominate it completely, then expand concentrically. The opposite approach — starting in a huge market like 'energy' (as clean tech companies did in 2005-2008) — guarantees you're a minnow in a vast ocean with unknown competitors. Large existing markets signal intense competition, not opportunity.

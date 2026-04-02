@@ -55,6 +55,13 @@ related:
   - INS-260329-560D
   - INS-260322-EDA4
   - INS-260330-0871
+evidence:
+  - id: INS-260322-EDA4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-0871
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Base 44's acquisition by Wix for $80M is a market-structure signal, not just a funding event. It indicates that AI-powered app building is transitioning from the 'standalone tool' phase to the 'platform feature' phase — where the technology gets absorbed into existing platforms with established distribution and user bases.
 

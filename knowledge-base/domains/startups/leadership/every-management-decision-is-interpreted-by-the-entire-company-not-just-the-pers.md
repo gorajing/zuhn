@@ -53,5 +53,12 @@ related:
   - INS-260330-47FB
   - INS-260330-725C
   - INS-260330-DB4B
+evidence:
+  - id: INS-260330-725C
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-47FB
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Ben Horowitz argues this is the single concept CEOs mess up most consistently, from early stage to scale. When you demote someone, you're not just affecting that person — you're signaling to every engineer what it means to fail, what effort vs results is worth, and whether equity compensation is fair. When you give a raise to someone who asked, you're telling every quiet high-performer that advocacy matters more than output. The discipline required is to pause before any significant people decision and mentally simulate how it will be interpreted by the employees who aren't in the room. This is especially hard under pressure, which is exactly when these decisions arise.

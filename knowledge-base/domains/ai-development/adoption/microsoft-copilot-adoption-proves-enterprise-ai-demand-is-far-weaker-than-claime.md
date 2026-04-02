@@ -56,6 +56,16 @@ related:
 stance: >-
   Microsoft — the apex predator of enterprise software with 440M Office 365
   users — has only 8M active paying AI Copilot users, generating roughly $2...
+evidence:
+  - id: INS-260322-B450
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-2D77
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-3A00
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 This is the single most damning data point for the AI adoption narrative. Microsoft has the strongest possible position to sell AI features: a complete monopoly on business software, 440 million captive users, and the ability to bundle AI into existing subscriptions. Yet only 8 million — under 2% — are actively using Copilot.
 

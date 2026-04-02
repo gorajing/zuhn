@@ -57,5 +57,9 @@ related:
   - INS-260330-43CF
   - INS-260330-391C
   - INS-260323-6414
+evidence:
+  - id: INS-260330-43CF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Thiel presents a counterintuitive market entry strategy supported by multiple case studies. PayPal targeted eBay power sellers (~20,000 people) and reached 25-30% market penetration in 2-3 months, gaining lock-in and brand recognition before expanding. Facebook went from 0 to 60% market share among Harvard's 10,000 students in 10 days. Amazon started as an online bookstore. eBay started with Pez dispensers. In every case, business school analysis would have dismissed these initial markets as too small to be valuable — and they would have been right if the companies had stayed small. The key is that these small markets were beachheads for concentric expansion. By contrast, every clean tech company from 2005-2008 started with 'we're in the energy market' (hundreds of billions to trillions) and failed — being a minnow in a vast ocean means too many competitors you can't even identify. Going after a large market on day one is evidence of broken category definition and guarantees intense competition.

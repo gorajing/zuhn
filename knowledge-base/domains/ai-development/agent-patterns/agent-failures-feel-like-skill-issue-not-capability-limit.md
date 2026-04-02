@@ -48,5 +48,18 @@ related:
 stance: >-
   When agents fail, the instinct now is 'I gave bad instructions' not 'the AI
   can't do this'
+evidence:
+  - id: INS-260327-9F46
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-5023
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-E4BA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-20F8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Karpathy describes the current state where agent failures feel like skill issue rather than capability limits. You didn't give good enough instructions in the AGENTS.md file, you don't have a nice enough memory tool, etc. This framing is empowering because it means you can improve — but it also creates psychosis because the improvement space feels infinite.

@@ -55,6 +55,10 @@ related:
   - INS-260325-D680
   - INS-260330-0FBF
   - INS-260325-E19E
+evidence:
+  - id: INS-260330-F056
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Research shows that humans have disproportionately white scleras compared to other primates and especially predators. This isn't incidental — it's a vital piece of human eye morphology that makes gaze direction immediately readable at a glance. Predators benefit from hiding where they're looking, so their eyes tend to have less contrast between iris and sclera.
 

@@ -58,6 +58,19 @@ related:
   - PRI-260328-82BE
   - INS-260322-BBED
 stance: Agents will follow the same path as 'internet companies' in the 1990s
+evidence:
+  - id: INS-260327-6807
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-25D7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9346
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-BBED
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Olivia Moore draws a direct parallel between agents today and internet companies in 1990: initially, being a 'dot com company' was its own designator, but eventually every company became an internet company. Similarly, every AI company — and eventually every tech company — will be agentic because models are headed toward delivering outcomes rather than just inputs.
 

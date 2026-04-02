@@ -42,5 +42,12 @@ related:
   - INS-260330-CC7D
   - INS-260322-116B
 stance: Agent personality matters more than most tool builders realize
+evidence:
+  - id: INS-260321-C14C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-CC7D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Karpathy notes that Claude's personality is calibrated well — it gives proportional praise that feels earned, creating motivation to bring better ideas. Codex is technically capable but doesn't seem to care about what you're creating. Peter Steinberg's OpenClaw invested heavily in personality via the 'soul' document. This isn't cosmetic — it affects how long developers sustain engagement with the tool.

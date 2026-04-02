@@ -54,6 +54,16 @@ related:
 stance: >-
   Stop analyzing AI and start using it this weekend -- vibe coding, agent mode
   reports, and conversational problem-solving.
+evidence:
+  - id: INS-260327-D0F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4329
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-8FD4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Nobody learned to ride a bicycle by reading a bicycle encyclopedia. AI adoption works the same way: you must fall ten times before you ride. Professor Kim's concrete suggestions: try vibe coding this weekend (tell AI to build a cat Tetris game in 5 minutes), use Gemini's agent mode to generate 100-page business reports (takes 20-30 minutes, produces work better than graduate students), and use ChatGPT's agent mode for complex research tasks.
 

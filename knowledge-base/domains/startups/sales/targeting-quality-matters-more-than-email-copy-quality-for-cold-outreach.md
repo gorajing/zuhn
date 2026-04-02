@@ -60,6 +60,10 @@ related:
   - INS-260322-F891
   - INS-260329-882A
   - INS-260327-04D8
+evidence:
+  - id: INS-260322-F891
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Epstein illustrates with a real email he received: a shipping fulfillment company pitched him on faster order processing times. His company sold digital design assets -- downloadable from the internet, no physical shipping. This could have been the most perfectly crafted email in history and it would have converted exactly zero because the targeting was wrong.
 
