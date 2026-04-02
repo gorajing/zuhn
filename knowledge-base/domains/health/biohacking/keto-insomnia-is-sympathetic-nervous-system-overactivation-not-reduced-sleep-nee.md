@@ -56,6 +56,10 @@ related:
   - INS-260325-DC90
   - INS-260326-16A8
   - INS-260327-FD30
+evidence:
+  - id: INS-260326-16A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 A common claim in ketogenic communities is that the diet reduces sleep requirements. Saladino argues this is a misinterpretation: the sympathetic (fight-or-flight) nervous system becomes overactive on very low-carb diets due to elevated cortisol and catecholamines. People feel more wired, not more rested.
 

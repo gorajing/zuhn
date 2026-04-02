@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-02 | 2913 actionable insights
+Generated on 2026-04-02 | 2934 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -118,6 +118,8 @@ Generated on 2026-04-02 | 2913 actionable insights
 
 ## ai-development/architecture
 - [INS-260330-30FB] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
+- [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
+- [INS-260402-2879] Define program meaning independently of implementation, then layer optimization advice on top.
 
 ## ai-development/automation
 - [INS-260329-9EE4] Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
@@ -189,6 +191,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260329-72C1] AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.
 - [INS-260329-3489] Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - [INS-260330-0E6E] Programmers should deliberately shift from low-level code writing to natural-language system design as AI code generation improves.
+- [INS-260402-1FE9] Programmer time is the true scarce resource; burning machine cycles for simpler code is good waste.
 
 ## ai-development/human-ai-relationship
 - [INS-260322-2B2D] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
@@ -902,6 +905,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260330-4114] A phone ringing in Destin's pocket instantly crashed his backwards-bike riding because the new neural pathway required active attention the old one didn't.
 - [INS-260402-FE91] If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
 - [INS-260402-3737] Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
+- [INS-260402-3639] Obscure writing about big ideas creates a self-reinforcing trap: it attracts ambitious novices, repels critical thinkers, and has a built-in defense because you can't prove text is meaningless.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1034,6 +1038,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260330-9931] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - [INS-260402-2DCE] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.
 - [INS-260402-40D7] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
+- [INS-260402-B66A] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1348,9 +1353,12 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260330-6844] Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
 - [INS-260330-9BB7] Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
 - [INS-260330-6AA3] The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
+- [INS-260402-0F45] Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
+- [INS-260402-2C6B] Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
+- [INS-260402-7FCC] Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 
 ## psychology/perception
 - [INS-260323-5D23] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
@@ -1862,6 +1870,8 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260402-AEA1] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
 - [INS-260402-E470] Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - [INS-260402-8595] Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
+- [INS-260402-FFB2] Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.
+- [INS-260402-F4E5] Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2045,6 +2055,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260330-DC3B] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
 - [INS-260402-91B5] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - [INS-260402-92AE] Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
+- [INS-260402-841D] Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2241,6 +2252,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260330-206B] Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
 - [INS-260402-F5E0] Break vague reluctance into specific fears to discover most are unfounded.
 - [INS-260402-8C0E] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
+- [INS-260402-4B96] Startups are where gaming the system stops working because users only care if your product solves their problem.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -2281,6 +2293,10 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260402-4719] VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - [INS-260402-3FC5] Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.
 - [INS-260402-66A5] VCs select for founders who are best at performing certainty, not founders with the best businesses.
+- [INS-260402-E522] The only real leverage in fundraising is genuinely not needing the deal, which requires the kind of determination that can't be faked.
+- [INS-260402-421B] Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
+- [INS-260402-2E19] Being ramen profitable — earning just enough to cover living expenses — gives founders more fundraising leverage than almost any other signal.
+- [INS-260402-5974] Founders should fit investor meetings into gaps in their development schedule, not fit development into gaps between investor meetings.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2314,6 +2330,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260330-8817] Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
 - [INS-260330-A949] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - [INS-260402-7FF5] Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
+- [INS-260402-2632] Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -2508,6 +2525,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260402-9093] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - [INS-260402-D739] The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
 - [INS-260402-2CAF] Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
+- [INS-260402-EE6E] The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2620,6 +2638,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
 - [INS-260330-FE65] Every exponential growth curve is actually the early phase of a logistic (S-curve) that must eventually saturate, so the key question is always when and where the inflection point hits.
+- [INS-260402-BA91] Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.
 
 ## startups/problem-solving
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
@@ -2711,6 +2730,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260330-84F4] Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
 - [INS-260402-426C] Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
 - [INS-260402-E85D] The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously.
+- [INS-260402-0F36] The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -2998,6 +3018,7 @@ Generated on 2026-04-02 | 2913 actionable insights
 - [INS-260330-217C] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - [INS-260330-7ECB] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
 - [INS-260330-86CD] A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
+- [INS-260402-CCF4] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

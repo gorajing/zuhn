@@ -50,12 +50,12 @@ related:
   - INS-260325-55D8
   - PRI-260328-0AB1
   - INS-260329-5FB5
+  - INS-260402-7FCC
   - INS-260327-A75B
   - INS-260327-24F4
   - INS-260329-8868
   - INS-260329-87BA
   - INS-260329-8B1C
-  - INS-260329-6130
 ---
 Since failure is inherent in any new experiment -- new job, product, hobby, or relationship -- pre-commitment to failure scenarios is a practical skill. This means giving thought before starting to what you will do if it does not work out and how to minimize the downside while maximizing the upside.
 

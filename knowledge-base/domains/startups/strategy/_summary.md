@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 123 insights
+> 125 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
@@ -80,8 +80,10 @@
 - `INS-260330-B5DF` [high] The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
 - `INS-260330-391C` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.
 - `INS-260330-7B1C` [high] The real strategy stack is financing → distribution → product, not the other way around.
+- `INS-260402-CCF4` [high] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260328-6898` [high] Large companies are effectively always remote because the people you work with most closely are never at adjacent desks, but startups adopting the same practice gave up their in-person colocation advantage.
 - `INS-260330-D74A` [high] The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
+- `INS-260402-B0AB` [high] You cannot have technical imagination without political imagination — suppressing one suppresses both.
 - `INS-260402-8F1E` [high] Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
 - `INS-260402-CF0A` [high] Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
 - `INS-260330-E180` [high] Putin delayed pension reform for 13 years after vowing never to touch it, then was forced into a more extreme version that caused his worst-ever approval crisis.

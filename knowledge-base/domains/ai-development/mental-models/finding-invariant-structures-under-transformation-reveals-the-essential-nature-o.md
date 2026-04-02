@@ -60,6 +60,19 @@ related:
   - INS-260330-B4DA
   - INS-260330-4B84
   - INS-260330-4F49
+evidence:
+  - id: INS-260330-4E95
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4A16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B4DA
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4F49
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 An eigenvector stays on its own span during a transformation, only getting scaled. This means it reveals the 'natural axes' of the transformation — the directions along which the operation is simplest. Finding the eigenvectors of a 3D rotation, for example, immediately gives you the axis of rotation, collapsing a complex 3x3 matrix into a single direction plus an angle.
 

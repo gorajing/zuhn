@@ -60,6 +60,10 @@ related:
   - INS-260330-A59D
   - INS-260330-FCB7
   - INS-260330-AA6E
+evidence:
+  - id: INS-260330-AA6E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Helen Fisher's brain scanning research surprised even her: she expected to find romantic love linked to emotion circuits and cognitive processes. Instead, all subjects showed activity in the ventral tegmental area (VTA), a tiny factory near the base of the brain that produces dopamine. This region sits right next to the circuits that orchestrate thirst and hunger.
 

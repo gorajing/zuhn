@@ -55,6 +55,10 @@ related:
   - INS-260330-04F9
   - INS-260323-849E
   - INS-260330-D63D
+evidence:
+  - id: INS-260330-D63D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 If Earth were a flat disc, gravity wouldn't pull straight down everywhere as flat-Earth models assume. Near the edges, the gravitational vector would angle sharply toward the center of the disc because most of the mass is concentrated there relative to your position. This would create extreme lateral forces — walking near the edge would feel like climbing a steep hill, water would flow toward the center, and the periphery would be effectively uninhabitable.
 

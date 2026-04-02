@@ -49,6 +49,10 @@ related:
   - INS-260327-2F75
   - INS-260325-0172
 stance: The day-to-day quiet enjoyment of ordinary life
+evidence:
+  - id: INS-260327-2F75
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Paul Yu makes an observation that directly counters the highlight-reel culture: even listing his year's best moments (Vegas, Vancouver, German friend visiting), he notes these weren't the most special times. The quiet moments at home — watching YouTube on the couch, going to the gym, enjoying a bag of chips — were equally precious and far more numerous.
 

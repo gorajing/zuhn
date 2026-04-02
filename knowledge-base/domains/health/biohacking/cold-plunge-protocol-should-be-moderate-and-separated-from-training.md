@@ -50,6 +50,13 @@ related:
   - INS-260330-EBE9
   - INS-260330-6C6B
   - INS-260330-3E64
+evidence:
+  - id: INS-260329-3473
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-3E64
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Isolated cold plunging after resistance training has been associated with decreased muscle mass gains. If building muscle, cold exposure should be separated from training by 6-8 hours. Contrast therapy (alternating sauna and cold) has not been studied for this effect and may be a reasonable alternative.
 

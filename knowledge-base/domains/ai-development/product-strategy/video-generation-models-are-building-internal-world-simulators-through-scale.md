@@ -53,6 +53,10 @@ related:
   - INS-260327-9816
   - INS-260330-AC34
   - INS-260323-7A50
+evidence:
+  - id: INS-260330-AC34
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Sora team describes how scaling compute in video diffusion transformers produces emergent properties like object permanence, physics respect, and even agent-like behavior. At lower compute scales, models violate physics freely; at higher scales, they defer to physical laws even when it conflicts with the user's prompt. This parallels the emergence of world models in language models from GPT-1 through GPT-5.
 

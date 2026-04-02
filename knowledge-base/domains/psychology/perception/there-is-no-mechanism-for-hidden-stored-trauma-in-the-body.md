@@ -61,6 +61,12 @@ evidence:
   - id: INS-260327-684D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-5676
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2EAB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 One of Bonanno's three key myths to debunk is that people carry around hidden traumas that unconsciously cause difficulties. His response as a scientist is direct: where are they? We do not have biological mechanisms for trauma being stored and hidden in our bodies while continuing to cause harm.
 

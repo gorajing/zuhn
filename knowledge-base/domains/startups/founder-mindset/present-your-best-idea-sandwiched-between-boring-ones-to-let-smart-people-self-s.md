@@ -55,6 +55,10 @@ related:
 stance: >-
   Raibert deliberately made the top and bottom ideas on his project list boring
   and put 'pogo stick robot' in the middle
+evidence:
+  - id: INS-260323-6230
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When pitching potential projects to Ivan Sutherland (the father of computer graphics), Raibert deliberately sandwiched his real idea — the pogo stick robot — between two intentionally boring alternatives. Sutherland immediately spotted the interesting one and funded it. This $3,000 led to a $250,000 DARPA grant, which became the foundation of 40 years of robotics.
 

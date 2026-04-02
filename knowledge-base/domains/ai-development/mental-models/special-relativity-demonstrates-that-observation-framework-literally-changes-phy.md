@@ -62,6 +62,25 @@ related:
   - INS-260330-D63D
   - INS-260330-6EE2
   - INS-260330-C989
+evidence:
+  - id: INS-260330-6A65
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-AFE0
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6A9E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-80A2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-601A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6EE2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Special relativity shows that for an observer moving at near-light-speed, Earth would literally be a flat disc due to Lorentz contraction in the direction of motion. This isn't a perceptual trick or measurement artifact — in that reference frame, Earth genuinely has those dimensions. All physics experiments conducted within that frame would confirm the contracted measurements.
 

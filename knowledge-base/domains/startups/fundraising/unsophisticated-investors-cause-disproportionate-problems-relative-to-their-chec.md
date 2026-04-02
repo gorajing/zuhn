@@ -56,7 +56,7 @@ related:
   - INS-260330-9B90
   - INS-260330-478B
   - INS-260402-EA72
+  - INS-260402-EEDB
   - INS-260402-8424
-  - INS-260402-6BB6
 ---
 Kirsty Nathoo warns that unsophisticated investors — friends, family, neighbors investing $5-10K — cause disproportionate problems because they don't understand that startup investing is a long-term, illiquid game. They may want their money back for personal reasons ('I need a new kitchen'), creating pressure and potential legal friction for the company. The term 'accredited investor' exists partly to filter for people who can afford to lose their investment. The counter-intuitive lesson is that the easiest money to raise (from people who trust you personally) often becomes the hardest money to manage. Founders should prefer sophisticated investors even if it means a harder fundraising process, because the post-investment relationship matters as much as closing the round.

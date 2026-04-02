@@ -53,6 +53,10 @@ related:
 stance: >-
   AI creates the greatest period of business disruptability in history, making
   moat analysis the most critical and difficult skill for investors.
+evidence:
+  - id: INS-260325-5455
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ackman identifies AI as fundamentally changing the investment landscape because it enables rapid disruption of previously stable businesses. Two 19-year-olds can now raise capital, access infinite bandwidth, contract global engineers, and build virtual companies that threaten established incumbents.
 

@@ -64,6 +64,10 @@ related:
   - INS-260327-E68D
   - INS-260329-9A8B
   - INS-260330-6D49
+evidence:
+  - id: INS-260327-5CB0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Taco Bell's 15-year turnaround wasn't driven by a single visionary -- it was powered by two leaders with complementary skills deployed in the right sequence. Emil Brolick (2000-2006) was product-oriented: he mandated portable, on-the-go formats, ditched fork-and-knife entrees, launched iconic products, and optimized speed and accuracy in operations. He built the foundation.
 

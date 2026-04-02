@@ -55,5 +55,18 @@ related:
   - INS-260329-71DE
   - INS-260330-A260
   - INS-260329-D48B
+evidence:
+  - id: INS-260320-D3D5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-71DE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A260
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-D48B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The distinction between parallelism (multiple threads executing simultaneously on multiple CPU cores) and concurrency (a single thread managing multiple tasks by pausing/resuming) is critical for AI system design. Most AI applications are I/O-bound — waiting on API calls, database queries, or model inference — not CPU-bound. For these workloads, Node.js-style event loops or Python's asyncio deliver higher throughput than spawning threads, because they avoid lock contention, race conditions, and context-switching overhead. This is why serverless AI backends built on single-threaded runtimes can handle massive concurrent request loads. The counterintuitive lesson: doing things one-at-a-time but never blocking is often faster than doing things simultaneously.

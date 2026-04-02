@@ -58,6 +58,13 @@ related:
   - INS-260330-8AE8
   - INS-260330-D63D
   - INS-260330-13A8
+evidence:
+  - id: INS-260330-8AE8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D63D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 At relativistic speeds, you begin catching up to light that was previously traveling away from you, dramatically expanding your field of view to nearly 360 degrees. This floods your visual field with new information from the sides and behind, which compresses the forward-facing scene into a smaller apparent area — making your target look like it's shrinking away.
 

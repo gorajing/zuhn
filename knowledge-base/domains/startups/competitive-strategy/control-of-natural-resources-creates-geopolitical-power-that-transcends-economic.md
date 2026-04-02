@@ -48,6 +48,9 @@ evidence:
   - id: INS-260327-6EB6
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-2025
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Nations and companies that control essential natural resources wield power disproportionate to the resources economic value because the resources are necessary for all other economic activity.
 

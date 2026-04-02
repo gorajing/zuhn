@@ -58,6 +58,13 @@ related:
   - PRI-260328-D292
   - INS-260325-0F4F
   - INS-260327-A3A2
+evidence:
+  - id: INS-260325-0F4F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A3A2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Leyden argues that any one of these three breakthroughs would be historically significant, but their simultaneous convergence is what makes this moment extraordinary. AI amplifies mental capability; clean energy provides abundant power through technology-driven cost curves; bioengineering (enabled by CRISPR and dropping genome sequencing costs from $3 billion to $100) allows us to redesign biology itself.
 

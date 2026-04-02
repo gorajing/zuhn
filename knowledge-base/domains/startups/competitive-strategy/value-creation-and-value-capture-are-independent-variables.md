@@ -59,6 +59,10 @@ related:
   - INS-260330-B138
   - INS-260330-5F7E
   - INS-260330-F125
+evidence:
+  - id: INS-260329-F66E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Thiel contrasts the US airline industry ($195B revenue, ~zero cumulative profit over 100 years) with Google ($50B revenue, massive profits) to show that X (value created) and Y (percentage captured) are completely independent. Airlines create more value for society but capture none of it due to perfect competition, while Google captures enormous value through monopoly position.
 

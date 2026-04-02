@@ -67,6 +67,10 @@ related:
   - INS-260326-291C
   - INS-260327-734D
   - INS-260327-A8B6
+evidence:
+  - id: INS-260320-47FA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Peter An's coaching data from listening to over a thousand founder sales calls: nine out of ten founders open with 'I'll walk you through everything in the product today.' This is a harbor tour -- stop to stop to stop, overwhelming and impersonal. The prospect can watch a recorded video for that.
 

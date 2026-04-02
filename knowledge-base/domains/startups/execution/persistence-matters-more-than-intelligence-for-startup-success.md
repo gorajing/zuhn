@@ -46,6 +46,6 @@ related:
   - INS-260329-EF89
   - INS-260329-557C
   - INS-260402-F04F
-  - PRI-260328-B11D
+  - INS-260402-E140
 ---
 Across the survey, founders were surprised both by how much persistence was required and by how effectively persistence alone dissolved seemingly impossible obstacles—including problems outside their control like immigration issues. Several explicitly stated persistence mattered more than intelligence. This aligns with the cofounder finding: character (which encompasses persistence) predicts success better than ability. The practical takeaway is that founder selection and self-assessment should weight sustained determination heavily, and that many obstacles that appear structural will yield to sustained effort over months or years.

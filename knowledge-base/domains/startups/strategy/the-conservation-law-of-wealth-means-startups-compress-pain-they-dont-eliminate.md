@@ -58,6 +58,10 @@ related:
   - INS-260402-27A1
   - INS-260330-9470
   - INS-260330-883E
+evidence:
+  - id: INS-260323-E559
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Graham's 'conservation law' is a powerful corrective to romanticized startup narratives. If making a million dollars through a postal career means 50 years of steady stress, a startup compresses that same million-dollars-worth of pain into 3-4 years. You get a bulk discount but cannot evade the fundamental law. If starting a startup were easy, everyone would do it.
 

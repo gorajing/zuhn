@@ -59,6 +59,10 @@ related:
   - INS-260323-5199
   - INS-260330-2E54
   - PRI-260323-6644
+evidence:
+  - id: INS-260327-DCF8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Einstein's paradox was: if time freezes at the event horizon from an outside observer's perspective, how can anything ever cross it? The algebraic formulation made this seem like a genuine physical barrier. But the waterfall model reframes the situation: space itself flows inward toward the black hole, accelerating like water approaching a drain. Photons emitted near the horizon are 'swimming' against this flow. At the horizon, space flows at light speed - photons swim in place. Inside, space flows faster than light, dragging everything to the singularity.
 

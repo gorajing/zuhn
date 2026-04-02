@@ -47,6 +47,10 @@ related:
   - INS-260327-6742
   - INS-260327-A620
   - INS-260327-ABF8
+evidence:
+  - id: INS-260327-ABF8
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Products marketed as eco-friendly are evaluated based on visual cues (natural colors, kraft paper, leaf imagery) rather than verified environmental impact because consumers lack the knowledge to evaluate claims.
 

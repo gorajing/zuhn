@@ -55,5 +55,11 @@ evidence:
   - id: INS-260328-92BC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-112B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-B4D2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bruce contrasts starting a company in the early 2000s (buying servers, data centers) versus today (credit card charges on AWS, Stripe). The democratization of infrastructure means anyone can start quickly, but this same democratization means competitors can too. The implication: technology moats erode faster than ever. The startups that win are those that combine speed of execution with deep customer insight — knowing what to build matters more than being able to build it.

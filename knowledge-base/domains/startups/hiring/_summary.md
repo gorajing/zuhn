@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 21 insights
+> 22 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -15,6 +15,7 @@
 - `INS-260330-C7FF` [high] The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260402-AA3F` [high] Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly.
 - `INS-260330-B525` [high] PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
+- `INS-260402-9B06` [high] Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260330-BF00` [high] The Roman shift from citizen-soldiers to mercenary armies created a workforce with zero loyalty to the institution, directly accelerating collapse.
 - `INS-260330-B384` [high] Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
 - `INS-260330-9F1F` [high] Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.

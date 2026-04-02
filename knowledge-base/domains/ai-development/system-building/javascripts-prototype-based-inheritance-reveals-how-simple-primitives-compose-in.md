@@ -53,6 +53,13 @@ related:
   - INS-260329-E280
   - INS-260330-CE2F
   - INS-260327-7F56
+evidence:
+  - id: INS-260322-DAFB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-CE2F
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 JavaScript eschews classical inheritance in favor of prototype chains — objects delegate to other objects rather than instantiating from class blueprints. This design decision, while initially confusing to developers from Java/C++ backgrounds, reveals a deeper architectural principle: you can build remarkably complex systems from a small set of composable primitives.
 

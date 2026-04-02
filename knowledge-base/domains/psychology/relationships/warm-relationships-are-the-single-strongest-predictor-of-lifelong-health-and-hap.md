@@ -57,6 +57,10 @@ related:
   - INS-260329-4488
   - INS-260330-1A55
   - INS-260330-A2E7
+evidence:
+  - id: INS-260325-39FD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Harvard Study of Adult Development, now in its 85th year tracking over 2,000 people across 724 families, consistently finds that the quality of relationships is the strongest predictor of both happiness and physical health. People with the warmest relationships stayed healthy longest and lived longest.
 

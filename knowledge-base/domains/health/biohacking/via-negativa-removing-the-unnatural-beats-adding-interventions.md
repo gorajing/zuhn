@@ -59,6 +59,13 @@ related:
   - PRI-260323-A05E
   - INS-260323-8CA9
   - INS-260329-A90C
+evidence:
+  - id: INS-260326-AB92
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A90C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Taleb introduces via negativa as a core health principle: in complex systems, adding something creates multiplicative side effects that may not appear for decades (steroids, tamoxifen, and many pharmaceuticals showed hidden harms years later). By contrast, removing something unnatural — stopping smoking, eliminating processed food — carries virtually no long-term side effects because you're returning the system to its evolutionary baseline.
 

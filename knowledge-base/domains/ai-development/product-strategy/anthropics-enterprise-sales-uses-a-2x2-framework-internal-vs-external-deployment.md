@@ -68,6 +68,19 @@ related:
   - INS-260325-FDF5
   - INS-260330-13E8
   - INS-260327-8FD4
+evidence:
+  - id: INS-260327-6B78
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-760D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-13E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-8FD4
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Kate reveals how Anthropic handles the most common enterprise sales scenario: an excited customer arrives saying 'we have a thousand use cases, we're ready to rock.' Anthropic's response: 'Let's take three.' The prioritization framework is a 2x2 matrix: Is this internal or external? Is the goal to save money or make money?
 

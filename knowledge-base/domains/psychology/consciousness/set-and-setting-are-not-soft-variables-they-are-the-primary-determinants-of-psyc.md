@@ -63,6 +63,10 @@ related:
   - PRI-260325-2DE6
   - INS-260330-3748
   - INS-260330-88B0
+evidence:
+  - id: INS-260325-D7B1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Johnson emphasizes that the same molecule at the same dose can produce profoundly healing or deeply traumatic experiences depending entirely on non-pharmacological variables. 'Set' encompasses the patient's expectations, psychological preparation, relationship with guides, and current mental state. 'Setting' covers the physical environment — comfortable furniture, curated music, eyeshades, and the presence of trained facilitators who provide reassurance without directing the experience.
 

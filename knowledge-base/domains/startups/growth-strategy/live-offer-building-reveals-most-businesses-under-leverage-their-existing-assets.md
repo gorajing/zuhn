@@ -53,5 +53,9 @@ related:
   - PRI-260327-942E
   - INS-260329-9098
   - INS-260330-6EE1
+evidence:
+  - id: INS-260327-540D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi's live offer-building exercise demonstrates that most businesses are sitting on unrealized value. Entrepreneurs focus on acquisition (new customers, new markets) while neglecting the leverage multipliers already available: improving the offer to increase conversion, raising prices to match delivered value, deepening relationships with existing customers, and systematizing delivery. These internal improvements often require less capital and effort than external growth plays, yet produce outsized returns because they multiply against existing volume. The exercise reveals a consistent blind spot: entrepreneurs see their current business's flaws in high resolution but see new opportunities through rose-tinted fantasy.

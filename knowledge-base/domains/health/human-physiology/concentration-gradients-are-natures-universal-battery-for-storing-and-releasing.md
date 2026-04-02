@@ -62,6 +62,13 @@ related:
   - INS-260330-7E39
   - INS-260330-F2B6
   - INS-260330-24BA
+evidence:
+  - id: INS-260330-21A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3037
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In photosynthesis, the thylakoid membrane accumulates protons on one side through water-splitting and active pumping via the cytochrome complex. This concentration gradient — protons desperately wanting to equalize — drives ATP synthase like water through a turbine. The membrane doesn't store energy as a molecule; it stores energy as a difference in concentration.
 

@@ -57,5 +57,12 @@ related:
   - INS-260330-148C
   - INS-260330-BB53
   - INS-260330-CED2
+evidence:
+  - id: INS-260330-8638
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-BB53
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The longbow solves the archer's paradox by requiring the arrow itself to adapt — it must have the correct spine (stiffness) to flex around the riser and self-correct in flight. The compound bow takes the opposite approach: mechanical let-off and a release aid eliminate the paradox entirely so the arrow launches straight. This mirrors a core engineering decision in any system: do you design components that adapt to constraints (flexible architecture, eventual consistency, graceful degradation) or do you engineer away the constraint itself (rigid architecture, strong consistency, mechanical precision)? The longbow approach has fewer parts but demands more from each component and the operator. The compound approach adds mechanical complexity but reduces operator skill requirements. Neither is universally better — the choice depends on whether you can afford component-level sophistication or system-level complexity.

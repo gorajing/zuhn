@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-AE16
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-E6BB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial's structure — console output → variables → data types → control flow → methods → classes → inheritance — follows a strict 'each step builds on the last' principle. This mirrors research on cognitive load theory: learners retain more when new concepts are anchored to working knowledge rather than introduced abstractly.
 

@@ -53,5 +53,9 @@ related:
   - INS-260327-5D62
   - INS-260327-A608
   - INS-260328-D2EC
+evidence:
+  - id: INS-260327-5D62
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Ram challenges the common academic founder belief that you need to be first with novel technology. Instead, he advocates talking to as many potential customers as possible about their problems. His latest venture GridCARE landed 10 customers and raised M in just 8 months because he conducted 50+ customer interviews first. The counterargument that customers will steal your idea is addressed directly: if someone can replicate your solution just from hearing about it, it is not defensible enough to build a company around.

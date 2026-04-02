@@ -58,6 +58,10 @@ related:
   - INS-260330-4DBE
   - PRI-260328-BDC2
   - INS-260329-0935
+evidence:
+  - id: INS-260325-FC07
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi's job-search advice is actually a sales methodology in disguise. The framework: research 5 target companies deeply, message 4 people at each company on LinkedIn with personalized notes, submit a custom cover letter referencing specifics from their website, then physically show up to introduce yourself. This is consultative selling applied to employment.
 

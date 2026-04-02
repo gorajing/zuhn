@@ -73,6 +73,9 @@ evidence:
   - id: INS-260326-2D41
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-561F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Deutsch derives morality from epistemology: humans are fallible and mistakes are our normal condition. Given this, the most important thing is not making fewer mistakes (impossible) but maintaining the ability to correct them. 'Don't destroy the means of error correction' becomes the heart of morality. This applies at every scale — from personal relationships to political systems.
 

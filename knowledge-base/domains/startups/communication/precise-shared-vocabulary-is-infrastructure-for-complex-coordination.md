@@ -54,11 +54,15 @@ stance: >-
   domain.
 related:
   - INS-260330-B711
+  - INS-260402-2C6B
   - INS-260330-6494
   - INS-260330-3819
   - INS-260330-5676
-  - INS-260330-C8ED
   - INS-260330-A8F8
+evidence:
+  - id: INS-260330-5676
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Anatomists developed standardized terms (anterior/posterior, medial/lateral, proximal/distal, superior/inferior) not out of academic pretension but because imprecise language in surgery kills people. A doctor can't tell a surgeon the patient has an 'achey belly' — they need to specify 'posterior to the heart, anterior to the vertebrae, inferior to the collarbone, superior to the stomach' so the surgeon knows exactly where to cut.
 

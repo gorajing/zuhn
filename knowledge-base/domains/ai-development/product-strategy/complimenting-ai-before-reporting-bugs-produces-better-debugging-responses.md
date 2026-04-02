@@ -52,5 +52,15 @@ related:
   - INS-260329-5EE7
   - INS-260329-D2CA
   - INS-260329-F688
+evidence:
+  - id: INS-260329-F892
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-DFD1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5EE7
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Ross's debugging workflow is notable: 'I like to compliment my AI — everything looks great — and then say but when I restart the app it takes me back to welcome.' This isn't just social niceties applied to a machine. The positive framing serves a functional purpose: it tells the AI which parts of the codebase are correct and should NOT be touched, narrowing the search space for the bug. Compare this to just saying 'there's a bug' — the AI has no signal about what's working and might refactor functioning code. Ross also emphasizes providing specific reproduction steps rather than vague descriptions. The combination of positive anchoring + specific reproduction context produces tighter, more targeted fixes.

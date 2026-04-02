@@ -51,6 +51,13 @@ related:
   - INS-260330-D63D
   - INS-260330-8AE8
   - INS-260330-80A2
+evidence:
+  - id: INS-260330-8AE8
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D63D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 A shadow cast on the Moon can sweep thousands of kilometers in a fraction of a second, and scissor-blade intersection points on light-year-long blades could cross a light year in one second. Neither violates relativity because the speed-of-light limit applies to information and causal influence, not to geometric patterns or the absence of light.
 

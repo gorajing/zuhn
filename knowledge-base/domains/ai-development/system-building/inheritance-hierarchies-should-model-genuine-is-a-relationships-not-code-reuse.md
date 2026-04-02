@@ -54,7 +54,11 @@ related:
   - INS-260329-1277
   - INS-260329-BA12
   - INS-260329-18C9
-  - INS-260329-C401
+  - INS-260402-2D95
+evidence:
+  - id: INS-260329-C401
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial introduces inheritance with a Chef class and an ItalianChef subclass that inherits base cooking methods while adding specializations. This works because an Italian chef genuinely is-a chef. However, the tutorial's simplicity masks a crucial design tension: in real systems, inheritance hierarchies often grow to model relationships that aren't truly taxonomic (e.g., a FlyingCar inheriting from both Car and Aircraft).
 

@@ -56,6 +56,12 @@ evidence:
   - id: INS-260330-5F36
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-9C1E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E41B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Freud modeled the mind on steam engines: pressure builds, must be released. The 20th century modeled the mind on computers: logical, sequential, rational. Each metaphor elevated certain cognitive capacities (hydraulic catharsis, logical reasoning) while making others invisible (intuition, pattern recognition, embodied knowledge).
 

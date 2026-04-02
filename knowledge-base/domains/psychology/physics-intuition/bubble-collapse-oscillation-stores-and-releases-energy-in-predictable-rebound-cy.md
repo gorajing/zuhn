@@ -57,5 +57,15 @@ related:
   - INS-260330-CAB3
   - INS-260330-966E
   - INS-260330-C989
+evidence:
+  - id: INS-260330-C989
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-8BB4
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-A7C6
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The Rayleigh-Plesset equation describes how a gas bubble underwater doesn't simply expand and pop. After initial expansion, the bubble overshoots equilibrium — fluid momentum continues compressing it past the balance point, creating high internal pressure that triggers re-expansion and another shockwave. This cycle repeats, dissipating kinetic energy each round. The key insight is that inertia in the surrounding fluid acts as a storage mechanism: energy alternates between kinetic (fluid motion) and potential (pressure differential) forms, exactly like a mass on a spring. This oscillatory behavior appears across domains from sonar acoustics to medical ultrasound lithotripsy.

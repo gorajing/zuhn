@@ -55,5 +55,9 @@ related:
   - INS-260329-5DB9
   - INS-260329-C7B8
   - INS-260330-6AC1
+evidence:
+  - id: INS-260329-5DB9
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 TCP and UDP represent a fundamental reliability-versus-latency tradeoff at the transport layer. TCP establishes connections via a three-way handshake, tracks packet ordering with sequence numbers, and guarantees complete delivery — making it essential for financial transactions, file transfers, and web browsing where every byte matters. UDP skips connection establishment, doesn't guarantee delivery or ordering, and doesn't retransmit lost packets — making it faster but lossy. This makes UDP ideal for video calls, live streaming, and gaming where a dropped frame matters less than a delayed one. The key insight is matching the protocol to the application's tolerance: if losing data is worse than being slow, use TCP; if being slow is worse than losing data, use UDP. Many modern applications use both — TCP for control channels and UDP for data streams.

@@ -63,6 +63,10 @@ related:
   - INS-260327-8254
   - INS-260402-9075
   - INS-260327-3930
+evidence:
+  - id: INS-260328-896B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Parker Conrad and Ron Conway both independently confirm that board votes almost never matter in practice. Conrad observes that when things go well, founders have virtually unlimited power regardless of board composition or covenant structure — investors want to ride the rocket ship and will defer. When things go badly, no amount of legal protection saves the founder because they need to return to investors for more money, at which point all prior terms get renegotiated from a position of weakness.
 

@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 63 insights
+> 66 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -17,6 +17,7 @@
 - `INS-260330-FA36` [high] Thylakoids work like batteries — pumping protons to one side of a membrane creates a concentration gradient whose equalization drives ATP synthase, showing that useful work comes from engineered imbalances, not raw energy.
 - `INS-260330-3037` [high] Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.
 - `INS-260330-7FF3` [high] ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
+- `INS-260402-0F45` [high] Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
 - `INS-260330-0C1B` [high] A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
 - `INS-260330-31A9` [high] Black shade balls absorb more solar energy than water would, yet the water beneath them is cooler because the air inside each ball acts as thermal insulation.
 - `INS-260330-1815` [high] Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
@@ -57,6 +58,7 @@
 - `INS-260330-5779` [high] If reversing which side uses a tactic produces an absurd or unthinkable scenario, the two sides are not morally equivalent in that dimension.
 - `INS-260330-E2F5` [high] The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
 - `INS-260330-5DFF` [high] In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure.
+- `INS-260402-2C6B` [high] Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
 - `INS-260330-3C3C` [medium] Chloroplasts store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase — the same gradient-to-work pattern appears in batteries, pricing arbitrage, and information asymmetry.
 - `INS-260330-B38B` [medium] ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
 - `INS-260330-972B` [medium] The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
@@ -64,4 +66,5 @@
 - `INS-260330-1953` [medium] Underwater bubbles oscillating and collapsing under Rayleigh-Plesset dynamics concentrate enough energy to produce light (sonoluminescence), demonstrating how oscillating collapse amplifies small inputs into extreme outputs.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
 - `INS-260330-E497` [medium] Plants' photosynthesis created the oxygen-rich atmosphere that now poisons their own RuBisCo enzyme, forcing them to compensate with volume and detox pathways rather than evolving a better enzyme.
+- `INS-260402-1F58` [medium] The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse.
 - `INS-260330-5958` [medium] 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.

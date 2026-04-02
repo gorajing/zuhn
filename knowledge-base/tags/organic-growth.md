@@ -1,6 +1,7 @@
 # Tag: organic-growth
 
 - `INS-260327-4DDE` The best startups come from founders solving their own daily pain points, not from market analysis.
+- `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.
 - `INS-260327-C9A3` People share products not because you asked them to, but because recommending remarkable things makes THEM look good.
 - `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.

@@ -56,6 +56,13 @@ related:
   - INS-260330-14B1
   - INS-260330-54A3
   - INS-260330-1953
+evidence:
+  - id: INS-260330-54A3
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-C150
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Aerogel appears blue when viewed against a dark background and yellow-orange when held against blue sky. This is Rayleigh scattering at tabletop scale: the nanoscale silica structures (much smaller than visible light wavelengths) scatter shorter wavelengths proportional to 1/λ⁴, preferentially deflecting blue while transmitting red and yellow. It's the identical physics that makes the sky blue (scattered light) and sunsets orange (transmitted light after blue is removed).
 

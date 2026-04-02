@@ -57,6 +57,10 @@ related:
 stance: >-
   Frebel reframes the human smallness narrative: lying under the southern Milky
   Way, she doesn't feel small
+evidence:
+  - id: INS-260323-1B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When asked whether looking at the Milky Way makes her feel small, Frebel offers a reframe that challenges the default existential response. Instead of smallness, she feels awe and belonging: 'Yes I'm small, but there are many other small things and lots of small things make one big whole.' She describes lying under the southern Milky Way and feeling like she's sitting in a 'galactic merry-go-round,' orbiting the center.
 

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260329-9115
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-B4D2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Maurya's core thesis inverts the common startup narrative: the constraint was never building speed, and AI making building faster actually makes the real constraint more visible. What separates winners from the noise is contrarian insights about customers that nobody else sees.
 

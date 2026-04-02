@@ -57,5 +57,9 @@ related:
   - INS-260327-7B8E
   - INS-260327-8254
   - PRI-260328-B11D
+evidence:
+  - id: INS-260325-B1D8
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Transfer from ai-development principle: outsourcing cognitive exercise destroys the capacity it was designed to build. Applied to founders: the struggle of customer discovery, the pain of strategic reasoning under uncertainty, and the effort of synthesizing contradictory market signals are not obstacles to be automated away — they are the training regimen that builds founder judgment. A founder who uses AI to generate their pitch deck, write their strategy doc, and analyze their market will never develop the intuition that lets them make good decisions under ambiguity. The practical implication is that AI tools should be used to execute decisions, not make them — the cognitive work of deciding must remain with the founder.

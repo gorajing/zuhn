@@ -67,6 +67,18 @@ evidence:
   - id: INS-260330-B076
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-BC56
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B061
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1084
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4B45
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The light-dependent reactions begin when a photon — created by hydrogen fusion 93 million miles away — strikes chlorophyll and excites an electron. The entire elaborate machinery of Photosystem II, the Cytochrome Complex, and Photosystem I exists to systematically extract that photon's energy through a series of electron transfers, converting it into ATP and NADPH. These energy carriers then power the Calvin Cycle to fix carbon into organic molecules.
 

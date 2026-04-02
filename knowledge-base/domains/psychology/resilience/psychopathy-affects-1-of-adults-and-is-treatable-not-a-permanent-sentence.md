@@ -55,6 +55,10 @@ related:
   - INS-260322-F6C3
   - INS-260327-FB98
   - INS-260327-034A
+evidence:
+  - id: INS-260327-FB98
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Abigail Marsh debunks several persistent myths: psychopathy is not extremely rare (1% prevalence, same as schizophrenia or bipolar disorder), not exclusively male (men are roughly twice as likely but women are affected too), not purely genetic or purely environmental, and not untreatable.
 

@@ -56,6 +56,10 @@ related:
   - INS-260327-1B60
   - INS-260325-FDF5
   - INS-260330-85B8
+evidence:
+  - id: INS-260327-F417
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Lee Kuan Yew's Singapore is perhaps the purest real-world example of product-market fit applied to governance. With no natural resources, Singapore designed every institution — education (streaming children into tracks), healthcare (keeping workers productive), housing (integrating ethnic groups to prevent riots), and law (zero tolerance for instability) — around a single value proposition: the ideal environment for multinational corporations.
 

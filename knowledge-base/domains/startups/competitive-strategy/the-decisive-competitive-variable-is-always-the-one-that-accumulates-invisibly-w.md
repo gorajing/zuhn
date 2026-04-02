@@ -52,5 +52,6 @@ related:
   - INS-260330-9470
   - INS-260322-6C4B
   - PRI-260328-4CC0
+  - INS-260402-0DC9
 ---
 This pattern recurs across domains: in ML systems, data quality dominates model architecture because architectures converge while curated datasets compound. In markets, install base and data gravity beat elegant product design because design can be copied but accumulated switching costs cannot. The meta-pattern is that legible advantages (architecture, design, features) attract disproportionate investment because they are easy to evaluate, while illegible advantages (data quality, user habits, institutional knowledge) are systematically under-invested because their value is invisible until decisive. By the time the invisible variable reveals its dominance, it is too late for competitors to catch up — the accumulation gap is already insurmountable.

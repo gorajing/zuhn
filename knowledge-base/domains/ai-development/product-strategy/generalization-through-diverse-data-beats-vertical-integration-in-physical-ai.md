@@ -62,6 +62,31 @@ related:
   - INS-260328-02A0
   - INS-260330-38B9
   - INS-260330-9FCC
+evidence:
+  - id: INS-260322-7A2F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-1ACE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-91A1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8FD6
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-6A18
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-02A0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-38B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-9FCC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Wayve's approach demonstrates the power of generalization in physical AI: one foundation model trained on diverse global data can adapt to new countries, vehicles, and sensor configurations in months rather than years. They unveiled a Nissan vehicle driving in Tokyo just four months after first entering Japan, because their AI generalized from diverse training data rather than requiring city-specific HD maps and rules.
 

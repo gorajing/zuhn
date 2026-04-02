@@ -42,17 +42,20 @@ stance: >-
 related:
   - INS-260321-D01E
   - INS-260325-803C
-  - INS-260321-21BE
-  - INS-260322-88C3
   - PRI-260324-DE71
   - INS-260330-460D
-  - INS-260330-F22A
+  - INS-260322-88C3
+  - INS-260402-E2AF
+  - INS-260321-21BE
   - INS-260329-7CDE
+  - INS-260330-F22A
   - INS-260330-95F3
-  - INS-260330-4AC6
 evidence:
   - id: INS-260321-D01E
     type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-460D
+    type: SUPPORTS
     classified_at: '2026-04-02'
 ---
 When dominant platforms face genuine existential threats (Apples ATT, TikTok competition), they make desperate strategic pivots that consume billions while the core business deteriorates.

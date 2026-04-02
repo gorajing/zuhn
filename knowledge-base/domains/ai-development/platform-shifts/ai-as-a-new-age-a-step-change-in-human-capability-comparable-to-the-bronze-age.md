@@ -61,6 +61,22 @@ related:
   - INS-260327-A507
   - INS-260329-C4F5
   - INS-260330-5828
+evidence:
+  - id: INS-260323-1871
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-537A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-937E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-A507
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5828
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Leyden uses the term 'age' deliberately — like the Bronze Age or Iron Age, a fundamental breakthrough technology that permanently changes human capability. ChatGPT 3.5's arrival in November 2022 marks the starting gun of the Age of AI. The key analogy is to steam and mechanical engines: those technologies amplified human physical powers and created the prosperity and wealth of the modern industrial world.
 

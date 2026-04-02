@@ -59,5 +59,9 @@ related:
   - INS-260325-9C89
   - INS-260326-CAAB
   - INS-260323-3920
+evidence:
+  - id: INS-260329-8D70
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Suffix trees are the canonical structure for string processing, but they consume enormous memory. Suffix arrays, introduced in the early 1990s, store only an array of sorted indices — a radically compressed representation. By themselves, suffix arrays can't do everything suffix trees can. But paired with the Longest Common Prefix (LCP) array — a small auxiliary structure — they match suffix trees' capabilities for virtually all practical applications at a fraction of the memory cost. This pattern recurs throughout system design: you don't need the most general or most powerful structure if you can find a compressed alternative and augment it with targeted auxiliary data. In AI, this is analogous to how retrieval-augmented generation (RAG) pairs a compressed language model with an external knowledge index, achieving capabilities that would otherwise require a much larger model. The principle is: before scaling up the primary structure, ask whether a smaller structure plus the right auxiliary data can deliver equivalent results.

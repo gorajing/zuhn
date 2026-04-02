@@ -61,6 +61,13 @@ related:
   - INS-260330-C2C4
   - INS-260330-E5F7
   - INS-260330-AB62
+evidence:
+  - id: INS-260329-4870
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C2C4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 CS50's curriculum is itself an example of abstraction layering: binary and ASCII → C and memory management → Python and garbage collection → SQL and databases → HTML/CSS/JS and web frameworks. Each layer hides the complexity of the one below, but the course ensures students understand what's hidden. This is precisely how robust system architecture should work.
 

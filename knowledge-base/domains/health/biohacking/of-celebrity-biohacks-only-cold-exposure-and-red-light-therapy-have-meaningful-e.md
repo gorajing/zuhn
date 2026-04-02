@@ -44,5 +44,9 @@ related:
   - PRI-260328-F570
   - INS-260330-990F
   - PRI-260328-1545
+evidence:
+  - id: INS-260330-990F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Among popular biohacks, cold exposure has strong evidence for dopamine and metabolism, red light therapy shows promise for inflammation and skin, while expensive IV vitamin drips are unnecessary for anyone eating properly

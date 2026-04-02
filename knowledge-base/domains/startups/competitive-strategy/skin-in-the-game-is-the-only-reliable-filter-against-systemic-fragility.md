@@ -57,6 +57,10 @@ related:
   - INS-260330-C087
   - PRI-260328-37D8
   - PRI-260323-0F93
+evidence:
+  - id: INS-260327-561F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Taleb's final book section — and the one that 'made him the most enemies' — is about the ethical foundation of antifragility: skin in the game. Bankers who capture upside while socializing downside are 'long volatility at the expense of others.' Bureaucrats in Washington, economists with bogus models, and academics whose peer-reviewed papers face no real-world accountability all share the same structural flaw: they are not harmed by their mistakes.
 

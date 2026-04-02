@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-D3F5
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260325-BF84
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The pattern of taking simple, functional code and layering abstractions (abstract factory, singleton, adapter, decorator, proxy) is presented as satire but reflects a real engineering anti-pattern. Engineers gain status by making code that others cannot easily understand, creating artificial dependency on their expertise. This works because non-technical decision-makers (CTOs who don't code) conflate complexity with sophistication.
 

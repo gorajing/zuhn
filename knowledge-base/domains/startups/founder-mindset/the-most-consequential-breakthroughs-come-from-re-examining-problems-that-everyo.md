@@ -79,6 +79,9 @@ evidence:
   - id: INS-260323-7BA4
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-36A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 For 30 years after the EPR paper, the physics community treated the debate between Einstein and Bohr as settled philosophical navel-gazing. The consensus was: 'Shut up and calculate.' The Copenhagen interpretation works, who cares about interpretation? But John Bell, an undergraduate after WWII, refused to accept this. He re-examined the EPR setup and discovered something nobody had seen: local hidden variable theories and quantum mechanics actually make different, testable predictions.
 

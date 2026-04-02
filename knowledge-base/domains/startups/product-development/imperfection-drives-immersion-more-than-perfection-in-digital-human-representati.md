@@ -57,6 +57,10 @@ stance: >-
   The codec avatar system crosses the uncanny valley by preserving human
   imperfections like freckles, asymmetry, and wrinkles rather than smoothing
   t...
+evidence:
+  - id: INS-260323-C4EE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 A counterintuitive finding from Meta's codec avatar development: photorealism that feels authentic comes from preserving flaws, not eliminating them. Freckles, skin color variations, wrinkles, and facial asymmetry are what make a digital representation feel like a real person rather than a mannequin.
 

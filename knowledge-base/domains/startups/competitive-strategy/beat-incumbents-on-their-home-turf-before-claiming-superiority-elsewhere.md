@@ -48,11 +48,11 @@ stance: >-
   Disruptive products must outperform incumbents on the incumbents' own metrics
   before the market will take broader claims seriously.
 related:
+  - INS-260402-086D
   - INS-260322-3A00
   - INS-260321-CCE3
   - INS-260330-7E97
   - INS-260324-D5FE
-  - INS-260330-15AE
 ---
 When Centivax developed their universal flu vaccine, they didn't just demonstrate broad protection across 24 strains — they specifically proved it outperformed existing commercial vaccines against the incumbents' own guidance strains. This 'beat them on their home turf' strategy is critical for disruptive products entering established markets. If you only claim superiority on new dimensions (universality), incumbents and regulators can dismiss you. But if you also win on the metrics the market already cares about, the argument becomes undeniable.
 

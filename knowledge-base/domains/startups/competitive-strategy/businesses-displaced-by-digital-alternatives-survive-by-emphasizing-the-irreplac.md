@@ -45,6 +45,10 @@ related:
   - INS-260325-A1BC
   - INS-260327-C75F
   - INS-260327-57A4
+evidence:
+  - id: INS-260330-460D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Physical venues that were supposedly killed by digital alternatives survive by pivoting to the social experience dimension that digital cannot replicate.
 

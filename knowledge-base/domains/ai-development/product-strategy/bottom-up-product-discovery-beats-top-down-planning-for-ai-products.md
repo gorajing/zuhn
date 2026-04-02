@@ -54,7 +54,23 @@ related:
   - INS-260330-8AC8
   - INS-260329-4DBC
   - INS-260321-33FC
-  - INS-260327-30E4
+  - INS-260402-EE6E
+evidence:
+  - id: INS-260327-9641
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-8AC8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4DBC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260321-33FC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-30E4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Krieger contrasts his Instagram experience (top-down 3-6 month planning cycles) with Anthropic's approach: 'you just have to allow for much more bottom-up creativity because the best products are built very close to the model and you can only tell what they're capable of pretty late in the process.' Artifacts was a research prototype taken by a designer and engineer to production. MCP started from watching two completely different implementations of Google Drive and GitHub integrations and the third queuing up as yet another bespoke build.
 

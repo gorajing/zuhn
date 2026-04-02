@@ -60,6 +60,10 @@ related:
   - INS-260325-9C1E
   - INS-260325-568A
   - INS-260330-F2EB
+evidence:
+  - id: INS-260325-9C1E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dennis Gabor described his holography discovery as 'an exercise in serendipity — the art of looking for something and finding something else.' He was working on electron microscopy improvements when the fundamental holographic insight struck him during a tennis match. 3Blue1Brown draws the explicit lesson: 'luck favors a prepared mind, and the more that you engage with imagined rediscovery of the inventions that you find around you, the better prepared you are for moments of similar serendipity.'
 

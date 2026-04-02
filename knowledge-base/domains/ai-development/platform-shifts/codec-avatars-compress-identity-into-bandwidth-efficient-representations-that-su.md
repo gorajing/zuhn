@@ -57,6 +57,16 @@ related:
 stance: >-
   Meta's codec avatars encode facial expressions into a compact model rather
   than transmitting full video, achieving photorealism while using less ba...
+evidence:
+  - id: INS-260323-6908
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-22A8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-415B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Meta's codec avatar technology takes a fundamentally different approach to remote presence. Rather than transmitting video frames, it scans a person's face to build a computational model of their expressions, then sends only encoded expression data over the wire. The receiving device renders the photorealistic avatar in real-time.
 

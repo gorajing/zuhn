@@ -63,6 +63,10 @@ related:
   - INS-260325-B234
   - INS-260330-BBCF
 stance: Nickel superalloys get stronger when heated
+evidence:
+  - id: INS-260325-B234
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When engineers first added aluminum to nickel alloys in the 1940s, they noticed something that defied metallurgical intuition: the alloy got stronger as temperature increased, peaking around 800-900C before eventually declining. Steel, titanium, and every other engineering metal get weaker with heat. This 'anomalous yield strength' wasn't understood until electron microscopes improved enough in the 1950s to reveal the gamma-prime phase and its dislocation-locking mechanism.
 

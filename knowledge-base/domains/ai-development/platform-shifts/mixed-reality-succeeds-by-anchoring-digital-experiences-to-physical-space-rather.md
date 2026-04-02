@@ -59,6 +59,16 @@ stance: >-
   Quest 3's mixed reality breakthrough is making VR more comfortable and
   practical by layering digital objects onto the physical world rather than
   fu...
+evidence:
+  - id: INS-260330-14B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-415B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-3A71
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Zuckerberg identifies a key insight about VR adoption: many experiences don't need to be fully immersive, and forcing full immersion creates anxiety (hitting lamps, bumping into furniture) that limits usage. Mixed reality solves this by letting users see their physical environment while interacting with digital overlays.
 

@@ -57,6 +57,13 @@ related:
   - PRI-260328-DD90
   - INS-260323-7F36
   - INS-260330-4C31
+evidence:
+  - id: INS-260402-5242
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-7F36
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The course uses a memorable metaphor — a meteorite destroying your computer — to illustrate why cloud storage matters. But the deeper architectural insight is the difference between two paradigms: local-first with cloud backup (your computer is primary, cloud is a copy) versus cloud-first with local cache (cloud is primary, your device is just a viewport).
 

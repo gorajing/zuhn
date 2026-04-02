@@ -52,6 +52,10 @@ related:
 stance: >-
   The founder realized that when customers truly use a service, they ultimately
   pay -- saying 'it's good' without buying means it's not good enough.
+evidence:
+  - id: INS-260323-5CBE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 After years of chasing user growth, engagement metrics, and positive feedback, the Moddoc founder had a critical realization: 'I realized that when customers say they are genuinely using a service, they are ultimately paying for it. They don't just say the service is good; if they truly liked it, they would buy it.'
 

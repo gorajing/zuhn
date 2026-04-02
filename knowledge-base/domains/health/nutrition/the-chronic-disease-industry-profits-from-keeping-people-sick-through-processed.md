@@ -56,6 +56,10 @@ related:
   - INS-260325-040F
   - INS-260322-3A00
   - PRI-260328-7E58
+evidence:
+  - id: INS-260325-040F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The chronic disease epidemic is driven by a systemic feedback loop: food manufacturers use seed oils, processed sugars, and additives that are cheap, shelf-stable, and appetite-disrupting. These ingredients drive metabolic dysfunction, obesity, diabetes, and cardiovascular disease. Pharmaceutical companies then treat these conditions with lifetime medications rather than addressing root dietary causes.
 

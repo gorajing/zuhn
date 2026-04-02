@@ -54,6 +54,13 @@ related:
   - INS-260329-B6A6
   - INS-260329-2FEB
   - INS-260330-189F
+evidence:
+  - id: INS-260325-2832
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-9C1E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial deliberately introduces pointers — widely considered the most intimidating concept in C — by framing them as 'just another data type.' Rather than building up anxiety with warnings about complexity, it treats pointers as naturally as integers or strings, just ones that happen to store memory addresses instead of values.
 

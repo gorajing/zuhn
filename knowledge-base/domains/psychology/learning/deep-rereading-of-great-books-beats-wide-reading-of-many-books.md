@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-A862
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-85E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Naval confesses that most people who claim to have read difficult books like 'Gödel, Escher, Bach' or 'The Beginning of Infinity' haven't truly understood them. He quotes the principle: 'I don't want to read all the books — I just want to read the best 100 over and over again.' His own experience validates this — he initially read these books to say he'd read them, but only on careful rereading did they 'completely reform his worldview' and 'expand the repertoire of his reasoning.'
 

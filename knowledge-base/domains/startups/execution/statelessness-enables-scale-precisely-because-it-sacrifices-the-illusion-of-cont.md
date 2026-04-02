@@ -56,5 +56,15 @@ related:
   - INS-260330-C06E
   - INS-260329-F886
   - INS-260330-82B2
+evidence:
+  - id: INS-260329-8CC0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F886
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-C1A4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Engineers often treat statelessness as a limitation to work around (sessions, cookies, JWT). But statelessness is the enabling constraint: because no server needs to remember previous interactions, any request can go to any server, load balancers can distribute freely, and servers can be added or removed without migration. This pattern generalizes beyond HTTP: the things that feel like handicaps in system design (eventual consistency, cache misses, connection-less protocols) are often the precise properties that unlock scale. The meta-lesson for product builders: when a constraint feels annoying, check whether removing it would also remove a scaling property you need. Constraints are often load-bearing.

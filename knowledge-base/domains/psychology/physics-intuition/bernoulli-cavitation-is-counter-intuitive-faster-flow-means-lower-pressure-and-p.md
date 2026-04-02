@@ -52,5 +52,15 @@ related:
   - INS-260330-0DF9
   - INS-260330-FD7C
   - INS-260330-8BB4
+evidence:
+  - id: INS-260330-F76B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-8BB4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FD7C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Bernoulli principle states that where fluid velocity increases, pressure decreases. Inside the gun barrel, the bullet pushes water ahead of it at extreme speed. This velocity spike drops the local pressure below water's vapor pressure at 4°C, causing the water to flash-boil into a cavitation cloud — even though the water is near freezing. This is deeply counter-intuitive: most people associate fast-moving projectiles with compression, not with creating low-pressure voids. Understanding this inversion is key to grasping phenomena from propeller cavitation to why airplane wings generate lift.

@@ -53,5 +53,27 @@ related:
   - INS-260322-71E4
   - INS-260330-B966
   - INS-260330-8D27
+evidence:
+  - id: INS-260330-6E6A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7AE9
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-BCC7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-95A5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-71E4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B966
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-8D27
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Huberman's lab has studied 5-minute daily meditations with clear benefits, but the literature shows benefits emerging at the 3-minute mark. This matters enormously for habit formation: the biggest barrier to meditation isn't technique but consistency. A 3-minute daily practice done for months will outperform sporadic 30-minute sessions. The key is that as you improve, you actually need less time — unlike endurance training where you progressively increase volume, meditation skill means you can drop into beneficial brain states faster. Expert meditators can achieve in minutes what took them 30+ minutes as beginners. This inverted dose-response curve makes meditation uniquely accessible as a long-term practice.

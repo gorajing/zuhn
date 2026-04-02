@@ -56,6 +56,13 @@ related:
   - INS-260330-8AE8
   - INS-260323-849E
   - INS-260330-A149
+evidence:
+  - id: INS-260330-8AE8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D63D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Special relativity predicts that objects contract along the direction of motion at high speeds. A particle approaching Earth at 99.9999% the speed of light would genuinely measure Earth as flattened to about 11 meters thick. This isn't an illusion — it's a real physical measurement that would be confirmed by any instrument in that reference frame.
 

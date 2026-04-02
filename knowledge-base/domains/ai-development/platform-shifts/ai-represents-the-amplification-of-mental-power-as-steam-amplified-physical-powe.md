@@ -54,6 +54,19 @@ related:
   - INS-260325-B868
   - INS-260329-937E
   - INS-260330-30DE
+evidence:
+  - id: INS-260325-26C6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-B868
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-937E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-30DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Leyden frames AI not as another technology but as a civilizational step-change analogous to the steam engine. Mechanical engines amplified human physical power, creating the enormous prosperity of the industrial age. AI and digital computers amplify human mental power, and the prosperity this creates will dwarf what came before.
 

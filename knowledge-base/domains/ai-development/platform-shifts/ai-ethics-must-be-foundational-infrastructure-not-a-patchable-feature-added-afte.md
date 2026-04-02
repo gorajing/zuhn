@@ -57,6 +57,13 @@ related:
   - INS-260330-7E61
   - INS-260328-9B8A
   - INS-260326-2D41
+evidence:
+  - id: INS-260326-73F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-7E61
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The author draws an architectural analogy: ethics is the rebar, not the paint. You cannot pour the concrete of AI capability first and then thread the rebar through later. OpenAI's addition of a 'no U.S. civilian surveillance' clause after the boycott is exactly the kind of after-the-fact patch that fails -- notably, it says nothing about surveillance of non-U.S. citizens.
 

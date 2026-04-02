@@ -64,6 +64,13 @@ related:
 stance: >-
   LeCun argues the biggest AI danger is not existential risk but concentration
   of power
+evidence:
+  - id: INS-260327-482E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-CF30
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 LeCun frames AI safety differently from the doomer perspective: the real danger is not superintelligent AI destroying humanity but a small number of companies controlling everyone's 'information diet' through proprietary AI systems. If only 3-4 companies control the AI through which all information is filtered, they effectively control public discourse, knowledge access, and decision-making.
 

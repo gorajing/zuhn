@@ -66,6 +66,9 @@ evidence:
   - id: INS-260325-1B3E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-F21D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Al-Khalili argues against the standard view that the arrow of time derives from thermodynamic entropy increasing. Instead, he proposes that time-symmetric equations are idealizations that only apply to truly isolated systems — and the only truly isolated system is the entire universe. Everything within it interacts with its surroundings, and at the quantum level, this interaction produces entanglement and decoherence.
 

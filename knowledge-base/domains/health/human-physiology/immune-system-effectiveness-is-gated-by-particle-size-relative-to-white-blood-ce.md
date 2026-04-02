@@ -57,6 +57,13 @@ related:
   - INS-260330-2A6A
   - INS-260326-A7CB
   - INS-260330-078A
+evidence:
+  - id: INS-260330-08E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260326-A7CB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The immune system recognizes tattoo ink as foreign material from the moment it's injected and continuously attempts removal. However, the limiting factor isn't detection — it's the physical size mismatch between phagocytes and ink particles. Small particles get engulfed and transported through lymphatic channels to the liver for excretion. Large particles persist because white blood cells literally cannot fit them inside themselves.
 

@@ -62,6 +62,22 @@ related:
   - INS-260327-9562
   - INS-260325-2832
   - INS-260329-26BB
+evidence:
+  - id: INS-260325-7417
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-26C6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-5E5D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-9562
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-26BB
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Dara traces three eras: physical work dominated, then we built machines stronger than us. Mental work dominated, then we're building machines smarter than us. What remains is the heart, the energy, the authentic human connection that cannot be replicated. In this framework, a digital mind isn't a replacement for the real person; it's a top-of-funnel filter that handles the scalable interactions while preserving the person's scarce energy for the interactions that matter most.
 

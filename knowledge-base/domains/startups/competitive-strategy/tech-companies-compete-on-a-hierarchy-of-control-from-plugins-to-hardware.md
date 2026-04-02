@@ -58,6 +58,13 @@ related:
   - INS-260330-2601
   - INS-260330-3FCF
   - INS-260330-7B1C
+evidence:
+  - id: INS-260330-2601
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-3D7D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video presents a hierarchy of control that explains seemingly irrational tech company behavior. At the bottom sit plugins and extensions — fundamentally dependent on a larger company's indifference. Websites sit above, at the mercy of browsers. Apps depend on operating systems. OS depends on hardware. At the top, owning the hardware means owning everything above it.
 

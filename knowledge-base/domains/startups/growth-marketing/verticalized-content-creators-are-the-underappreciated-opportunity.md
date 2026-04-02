@@ -52,6 +52,10 @@ related:
   - INS-260320-9935
   - PRI-260326-DB67
   - PRI-260328-FD47
+evidence:
+  - id: INS-260327-112B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Cheung points out that everyone talks about verticalized AI SaaS (AI for law, AI for accounting) but nobody talks about verticalized content creators. Yet The Rundown AI grew to 2M+ subscribers with 50% open rates by becoming the definitive source for AI news—not tech news broadly, not startup news, specifically AI.
 

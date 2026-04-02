@@ -8,5 +8,5 @@
 - `INS-260330-80A7` Vine died because it couldn't pay creators — when top Viners demanded $1.2M each annually and Twitter refused, they left, triggering a death spiral that killed the platform within two years.
 - `INS-260330-0B50` ByteDance used a deliberate five-step playbook to solve the chicken-and-egg creator supply problem: lower barriers, create challenges, distribute fame, pay top creators, and assign account managers.
 - `INS-260320-446F` Hire content creators directly (Gmail in bio, 5-10K followers) — if their email is at an agency, the arbitrage is already gone.
-- `INS-260329-6B2C` Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.
 - `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
+- `INS-260329-6B2C` Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.

@@ -54,6 +54,10 @@ stance: >-
   The stock market is a voting machine short-term but a weighing machine
   long-term — the edge comes from knowing the difference between price and
   value.
+evidence:
+  - id: INS-260325-B234
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bill Ackman's investment philosophy centers on Benjamin Graham's distinction between price and value. In the short term, markets reflect speculative sentiment (voting machine), but over time they converge on intrinsic worth (weighing machine). The practical edge comes from building conviction about a business's long-term cash flows and buying when price diverges significantly from that estimate.
 

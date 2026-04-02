@@ -55,6 +55,10 @@ related:
 stance: >-
   The best thing about getting older is learning to trust the body's signals
   instead of using the analytical forebrain to override them
+evidence:
+  - id: INS-260325-E8BC
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Huberman describes how the greatest benefit of aging is accumulating enough data points to finally trust one's interoceptive signals — the deep nervous system responses that say 'this is not good' or 'this is great.' In his teens, 20s, and 30s, he invested enormous effort in overriding these signals, thinking it made him tougher or smarter.
 

@@ -58,6 +58,25 @@ related:
 stance: >-
   If your AI product is just a layer on top of an underlying AI platform, that
   platform can replicate it
+evidence:
+  - id: INS-260327-B5C9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-8D47
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-EBBB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260328-ACC3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260324-1CC8
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-7CDE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ash Maurya identifies the #1 AI startup death pattern: building capabilities that Google, Microsoft, Anthropic, or OpenAI can ship as a feature update. Jasper built an AI writing platform that exploded — then ChatGPT and Claude added writing capabilities and Jasper's value proposition evaporated overnight. The same pattern is hitting AI coding tools, email assistants, and scheduling apps.
 

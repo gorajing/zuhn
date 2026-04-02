@@ -54,6 +54,10 @@ related:
   - INS-260323-19A8
   - INS-260321-2D72
   - INS-260329-F0DD
+evidence:
+  - id: INS-260326-80B1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Traditional lean startup methodology preaches build-measure-learn, but the 'build' step still took weeks to months even for an MVP. AI app builders collapse this to minutes — you can generate a functional, shareable prototype in 10-15 minutes and put it in front of real users the same day.
 

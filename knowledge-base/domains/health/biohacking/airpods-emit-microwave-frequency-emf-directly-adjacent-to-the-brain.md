@@ -57,6 +57,15 @@ evidence:
   - id: INS-260323-EECF
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-EE7E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-4279
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B87C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Wireless earbuds operate on the same radiofrequency band as microwave ovens and cell phones. EMF detectors show comparable microwatts per square meter readings from AirPods when pinging or actively connected as from a microwave oven at a few feet distance. The critical difference is duration and proximity: AirPods sit directly adjacent to the brain for hours.
 

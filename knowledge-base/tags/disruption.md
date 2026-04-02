@@ -1,8 +1,8 @@
 # Tag: disruption
 
 - `INS-260321-807B` AI native marketing agencies go end-to-end with AI, bypassing tools like Adobe entirely, dramatically improving margins and delivering ads within days.
-- `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
+- `INS-260322-5678` Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
 - `INS-260327-EFA6` Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.
 - `INS-260327-40D5` Tech workers went from guaranteed careers with stock-option millionaires to mass layoffs and AI replacement, becoming everything they promised to disrupt.
 - `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
@@ -26,6 +26,7 @@
 - `INS-260322-F6AA` Industries whose profitability depends on making processes boring, difficult, and time-consuming are most vulnerable to LLM disruption — and many don't realize this is their actual business model.
 - `INS-260402-4605` Eminence constrains innovation more than obscurity constrains execution.
 - `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
+- `INS-260402-F4E5` Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.

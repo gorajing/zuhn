@@ -66,6 +66,9 @@ evidence:
   - id: INS-260327-A44E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-5D8A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Apple's iTunes shuffle used true randomness, users complained that songs from the same artist appeared consecutively — which is statistically expected from random sequences. Steve Jobs responded by making the shuffle 'less random to make it feel more random,' artificially spacing similar songs apart.
 

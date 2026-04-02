@@ -54,6 +54,10 @@ related:
 stance: >-
   Even if AGI never arrives, AI as an extension of human will and amplifier of
   human abilities is already a transformative outcome.
+evidence:
+  - id: INS-260325-2832
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Altman reframes the AGI question: maybe we never build AGI, but if AI makes humans dramatically more productive and creative, that's still an enormous win. He describes being excited about a world where AI is 'an extension of human will and an amplifier of our abilities.'
 

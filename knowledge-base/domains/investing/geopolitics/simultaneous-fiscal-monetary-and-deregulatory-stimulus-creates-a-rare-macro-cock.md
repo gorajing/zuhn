@@ -56,6 +56,10 @@ related:
 stance: >-
   Goldman's CEO identifies the current US macro environment as the sweetest spot
   in 40 years: fiscal stimulus, rate-cutting cycle, capital investment...
+evidence:
+  - id: INS-260325-F484
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 David Solomon describes a rare convergence of four stimulative forces: (1) continuing fiscal stimulus amplified by new legislation, (2) monetary stimulus from a rate-cutting cycle, (3) a capital investment super cycle where the four largest companies contributed 1% to GDP growth with $400 billion in spending, and (4) a deregulatory unwind from the previous administration's regulatory surge.
 

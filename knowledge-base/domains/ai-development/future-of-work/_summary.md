@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 40 insights
+> 41 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -31,6 +31,7 @@
 - `INS-260321-28FB` [high] Galileo didn't invent the telescope — the future of AI will be determined by the people who wield it, not the labs that built it.
 - `INS-260321-9A03` [high] Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
 - `INS-260321-99C0` [high] Share every major decision with AI daily, then monthly ask 'what was my biggest mistake in the past 6 months?' — accumulated context makes AI an increasingly powerful strategic advisor.
+- `INS-260402-1FE9` [high] Programmer time is the true scarce resource; burning machine cycles for simpler code is good waste.
 - `INS-260323-D2AA` [medium] AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad at distributed systems -- making the 'superhuman coder' milestone unreachable as a binary goal.
 - `INS-260327-DC0B` [medium] AI can synthesize across four Ikigai dimensions (passion, prowess, purpose, profit) to generate personalized career paths with specific waypoints, transforming a vague self-reflection exercise into an actionable planning tool.
 - `INS-260329-72C1` [medium] AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.

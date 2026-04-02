@@ -54,5 +54,9 @@ related:
   - PRI-260328-D5EB
   - INS-260321-B85C
   - INS-260322-7B61
+evidence:
+  - id: INS-260321-8D2B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The AI product operator owns dashboards tying feature usage to token spend and business value — they're the first to spot when a segment is driving outsized cost. The context engineer owns the retrieval layer: which data sources are used, how they're structured, and whether they're current. Messy context produces poor results regardless of model quality. The QA for non-deterministic systems uses evaluation sets (evals) rather than binary pass/fail tests — collections of realistic tasks scored against acceptable outcomes. All three roles connect directly to planning and budget; without them, teams make AI investment decisions with no visibility into cost-per-query, context quality, or output reliability.

@@ -56,6 +56,13 @@ related:
 stance: >-
   Rotating between heavy lifting and lighter/higher-rep training in 3-month
   cycles gives joints rest and changes hormonal cascades that directly affe...
+evidence:
+  - id: INS-260327-DF8B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-3473
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Huberman's training philosophy centers on cycling exercise modalities rather than sticking with one program. His base: lift 3 days/week, run 3 days/week (one long, one medium, one sprint), with 3-month rotations between heavy and lighter weights. He reports that his cognition is measurably better during higher-cardio, higher-rep phases.
 

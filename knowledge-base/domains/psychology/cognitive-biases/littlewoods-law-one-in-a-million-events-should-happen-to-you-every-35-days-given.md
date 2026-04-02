@@ -59,6 +59,10 @@ related:
   - INS-260327-6F94
   - INS-260329-9C20
   - INS-260327-E9F3
+evidence:
+  - id: INS-260327-6F94
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Littlewood's Law calculates that if you're awake about 8 hours a day and experience roughly one 'event' per second, you accumulate about a million events every 35 days. This means a genuinely one-in-a-million occurrence should happen to you monthly. David J. Hand extended this: with 7 billion people, the probability that a one-in-a-million event won't happen to someone today is vanishingly small (1 in 10^3040). As Persi Diaconis noted, 'the truly unusual day would be a day where nothing unusual happens.'
 

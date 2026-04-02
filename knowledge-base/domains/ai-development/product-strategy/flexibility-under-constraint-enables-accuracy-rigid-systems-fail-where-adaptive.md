@@ -54,5 +54,33 @@ related:
   - INS-260330-FA2D
   - INS-260330-148C
   - INS-260330-13A8
+evidence:
+  - id: INS-260323-0827
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6F6D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CED2
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-BF96
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2E34
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-181B
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-FA2D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-148C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-13A8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The archer's paradox reveals that an arrow must bend around the bow's riser to fly straight — a perfectly rigid arrow would deflect off the bow and miss. This principle transfers directly to system design: overly rigid architectures break under real-world constraints, while systems with controlled flexibility (circuit breakers, graceful degradation, elastic scaling) navigate obstacles that rigid designs cannot. The key insight is that flexibility isn't a compromise on precision — it's often a prerequisite for it. In software, this manifests as the difference between brittle exact-match systems and robust fuzzy-match systems that handle real-world input variance.

@@ -56,6 +56,13 @@ related:
   - INS-260330-1B64
   - INS-260329-0487
   - INS-260330-6C6B
+evidence:
+  - id: INS-260330-1B64
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-0487
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The carbon dioxide tolerance test works by measuring your ability to engage the parasympathetic (calming) nervous system through controlled diaphragm movement. Protocol: take 4 deep inhale-exhale cycles through the nose, then a 5th maximum inhale, and time how slowly you can release all air through the mouth. Under 20-25 seconds suggests incomplete recovery; 30-60 seconds is the green zone for training; 65-120 seconds indicates full nervous system recovery.
 

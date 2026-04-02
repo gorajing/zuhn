@@ -59,6 +59,16 @@ related:
   - INS-260330-F41D
   - INS-260330-8BB4
   - INS-260330-3170
+evidence:
+  - id: INS-260320-10E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F41D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-3170
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Art Winfree's research connected the spiral wave patterns observed in BZ chemical reactions to identical patterns found in fibrillating hearts. In a healthy heart, electrical signals synchronize muscle contractions to pump blood. In fibrillation, these signals fragment into rotating spiral waves — the heart muscle contracts chaotically, no blood is pumped, and death follows within minutes.
 

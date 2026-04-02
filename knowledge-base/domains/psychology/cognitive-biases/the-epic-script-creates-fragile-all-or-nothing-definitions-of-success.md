@@ -47,6 +47,6 @@ related:
   - INS-260330-B91E
   - INS-260329-764E
   - INS-260325-E9B1
-  - INS-260329-E900
+  - INS-260402-3639
 ---
 The Epic Script demands that everything you do be big, ambitious, and impactful — anything less is failure. It is an extreme version of 'follow your dreams' that has created stigma around having a small, simple life focused on presence and connection. The 700% surge in 'find your purpose' mentions in books over two decades shows how culturally dominant this script has become. The danger is twofold: putting all eggs in one basket means failure at one goal feels like failure at life, and the basket often becomes too heavy and gets dropped entirely. The Epic Script is amplified by survivorship bias — we see the entrepreneur who followed their passion and succeeded, not the thousands who tried identically and failed.

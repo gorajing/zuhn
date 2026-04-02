@@ -58,6 +58,10 @@ related:
   - INS-260330-FD7C
   - INS-260330-EEF3
   - INS-260330-078A
+evidence:
+  - id: INS-260327-97AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Laser tattoo removal is not a single-mechanism process. The laser shatters ink particles into sub-micron fragments, but those fragments don't disappear — they must be cleared by the immune system. Macrophages engulf the now-small-enough fragments and transport them through the lymphatic system to the liver for processing. This is why removal takes multiple sessions spaced weeks apart: each session fragments more particles, and the body needs time between sessions to clear the debris.
 

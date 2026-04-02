@@ -56,6 +56,10 @@ related:
   - INS-260330-7C24
   - INS-260329-560D
   - INS-260330-5747
+evidence:
+  - id: INS-260330-5747
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Base 44 (acquired by Wix for $80M) doesn't differentiate on code quality — its AI-generated code is comparable to competitors. The differentiator is that it owns the entire pipeline: plan mode for specification, code generation, managed PostgreSQL database, built-in authentication, hosting, and even app store submission. Each of these steps traditionally requires a separate service and connecting them requires significant technical knowledge.
 

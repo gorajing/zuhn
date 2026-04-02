@@ -62,6 +62,10 @@ related:
   - INS-260330-AB58
   - PRI-260328-7EA5
   - INS-260330-B8B0
+evidence:
+  - id: INS-260330-AB58
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Emperor Justinian commissioned the Corpus Juris Civilis, which compiled centuries of Roman legal precedent into a single, organized body of law. This codification outlived the Byzantine Empire itself — it became the foundation of European civil law and still influences legal systems today, nearly 1500 years later.
 

@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260330-2F13
   - INS-260323-DEC3
+  - INS-260402-3639
   - INS-260323-87F3
   - PRI-260323-0942
-  - INS-260330-2988
 stance: >-
   Socrates warned that writing would destroy memory; every new medium triggers
   the same fear, and humanity adapts every time.

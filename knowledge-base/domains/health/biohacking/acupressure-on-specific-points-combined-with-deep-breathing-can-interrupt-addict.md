@@ -45,5 +45,15 @@ related:
   - INS-260330-1B64
   - INS-260330-EC0F
   - INS-260322-E90F
+evidence:
+  - id: INS-260325-9F01
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B64
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-E90F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Stimulating acupressure points (between thumb and index finger, or under the collarbone) while performing slow deep breathing activates the parasympathetic nervous system, interrupting the sympathetic arousal driving addictive urges

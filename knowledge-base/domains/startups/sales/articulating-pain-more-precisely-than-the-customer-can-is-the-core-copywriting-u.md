@@ -48,7 +48,6 @@ stance: >-
   themselves, they will automatically believe you can solve it — no additional
   proof required.
 related:
-  - INS-260325-622D
   - INS-260325-7BE7
   - INS-260320-080B
   - PRI-260320-D2E1
@@ -58,6 +57,11 @@ related:
   - INS-260329-086B
   - INS-260329-EC98
   - PRI-260323-8EEA
+  - INS-260329-4FB2
+evidence:
+  - id: INS-260329-85E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi identifies a specific hack: extract reviews from books in your niche to find the exact quotes and language customers use to describe their pain. When your marketing mirrors their internal monologue, it creates an instant credibility transfer — 'pain and persuasion only exist in the specific, never the vague.'
 

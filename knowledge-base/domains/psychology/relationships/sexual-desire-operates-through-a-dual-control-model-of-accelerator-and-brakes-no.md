@@ -52,5 +52,9 @@ related:
   - INS-260330-D0E2
   - INS-260330-293E
   - INS-260327-B19E
+evidence:
+  - id: INS-260323-2DF2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Dual Control Model, developed by Erick Janssen and John Bancroft at the Kinsey Institute, describes sexual response as two independent systems: the Sexual Excitation System (accelerator) that notices sexually relevant stimuli, and the Sexual Inhibition System (brakes) that notices reasons not to be aroused. Most people who struggle with desire don't have a broken accelerator — they have overly sensitive brakes. This reframes intervention entirely: instead of trying harder to get turned on, reduce what's hitting the brakes (stress, body image issues, relationship tension, environmental factors). The dual system model also explains why the same touch can feel arousing in one context and irritating in another — the stimulus hasn't changed, but the brake/accelerator balance has.

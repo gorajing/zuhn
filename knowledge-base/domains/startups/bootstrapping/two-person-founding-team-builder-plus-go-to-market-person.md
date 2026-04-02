@@ -46,7 +46,6 @@ related:
   - INS-260322-A892
   - INS-260323-1B87
   - INS-260327-9830
-  - INS-260330-6900
 stance: >-
   The ideal AI startup founding team is one builder who ships in 24 hours and
   one go-to-market person with audience empathy.

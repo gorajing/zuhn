@@ -56,6 +56,16 @@ related:
   - PRI-260325-3A00
   - PRI-260328-5989
   - INS-260325-14DC
+evidence:
+  - id: INS-260325-14DC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-198E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-3F8B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Current gene therapies cost millions of dollars per dose, limiting them to diseases with large enough patient populations to justify commercial investment. But Wright's Law — every doubling of cumulative production yields a fixed percentage cost decrease — has driven 200x cost reductions in solar over five decades and similar curves in semiconductors.
 

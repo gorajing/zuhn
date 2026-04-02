@@ -53,5 +53,9 @@ related:
   - PRI-260328-7007
   - INS-260330-EEBD
   - INS-260330-81A7
+evidence:
+  - id: INS-260329-D1F2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Common language pairs like English-Spanish have billions of parallel training examples on the web. Rare pairs like French-Thai have almost none. Roblox solved this with iterative back-translation: translate French to Thai, then translate the Thai back to French. If the round-trip closely matches the original, the intermediate French-Thai pair is a good synthetic training example. This is repeated across multiple rounds, mixing synthetic and human-labeled data to progressively expand the training set. The critical constraint: too much synthetic data degrades quality because the model starts learning from its own mistakes. The ratio of synthetic to real data matters enormously.

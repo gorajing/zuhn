@@ -47,5 +47,12 @@ related:
   - INS-260327-0DFD
   - INS-260327-6F94
   - INS-260330-51AE
+evidence:
+  - id: INS-260330-BBEE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-51AE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 LED lights emit invisible flicker at frequencies that stress the nervous system and blue-dominant spectra that disrupt circadian rhythm, melatonin production, and hormone signaling when used after sunset

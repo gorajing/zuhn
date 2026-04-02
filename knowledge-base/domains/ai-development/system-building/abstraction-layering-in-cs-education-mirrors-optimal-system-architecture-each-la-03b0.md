@@ -62,6 +62,13 @@ related:
   - INS-260329-E015
   - INS-260329-D0B3
   - INS-260329-8D19
+evidence:
+  - id: INS-260329-9311
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8D19
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The course deliberately builds each week on the previous abstraction layer: Week 1 introduces variables and functions (hiding statement sequences behind names), Week 5 introduces libraries (hiding implementation behind APIs), Week 8 introduces classes (hiding data+behavior behind objects). Each layer is motivated by a concrete problem: functions solve code duplication, libraries solve wheel-reinvention, classes solve data validation scattered across unrelated functions.
 

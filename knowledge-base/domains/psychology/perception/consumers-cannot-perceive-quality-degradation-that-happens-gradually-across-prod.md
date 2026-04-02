@@ -47,6 +47,13 @@ related:
   - PRI-260328-0BE1
   - INS-260327-CB07
   - INS-260329-0320
+evidence:
+  - id: INS-260325-040F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8F98
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Incremental quality reduction across successive product versions is imperceptible to consumers who evaluate each purchase individually rather than comparing to products from years ago.
 

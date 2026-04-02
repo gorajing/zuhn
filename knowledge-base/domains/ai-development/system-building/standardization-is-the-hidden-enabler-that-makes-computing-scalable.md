@@ -52,8 +52,8 @@ related:
   - PRI-260328-5D9E
   - INS-260329-EDA2
   - INS-260327-2C5F
+  - INS-260402-9676
   - INS-260330-81D3
-  - INS-260329-7BAF
 ---
 Herbert Hoover championed industrial standardization in the early 20th century, arguing that standardized parts (even something as basic as interchangeable bolts) would dramatically increase the scale and reduce the cost of production. The same principle drove computing forward: standard calculation forms replaced individual methods, standard programming languages replaced bespoke code, and standard data formats enabled interoperability.
 

@@ -53,7 +53,7 @@ related:
   - INS-260330-843E
   - INS-260330-EF64
   - INS-260325-040F
-  - INS-260327-B12E
+  - INS-260402-4B96
 ---
 Shear makes a subtle survivorship-bias argument about user feedback: if someone is willing to ignore the fact that they can't edit ban lists, can't edit highlight titles, and can't effectively remove trolls — and they're still using your service — then those aren't actually the most important problems. The loudest complaints from your most engaged users can create a false sense of urgency around issues that don't actually drive churn or block growth.
 

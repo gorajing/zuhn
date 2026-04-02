@@ -58,6 +58,16 @@ related:
   - INS-260329-DDBC
   - INS-260330-304C
   - INS-260330-B28C
+evidence:
+  - id: INS-260320-E683
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B28C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-2B2D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Graham asks: would a basketball team trade one player for 100 random people? Would Apple's next product be better designed by a committee of 100 random people instead of Steve Jobs? The answer reveals that skill concentration produces nonlinear returns. A CEO or athlete may have only 10x the raw ability of an average person, but concentrating that ability in one individual 'makes all the difference.'
 

@@ -55,6 +55,22 @@ related:
   - INS-260330-3CD9
   - INS-260330-47FB
   - INS-260327-671E
+evidence:
+  - id: INS-260330-725C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-AB55
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-3CD9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-47FB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-671E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Nano Banana team discovered that character consistency evaluation is fundamentally personal: you can only judge whether an AI-generated version of someone looks right if you actually know that person's face. They built eval sets using team members' and executives' own faces because strangers would accept approximations that the subject would immediately reject.
 

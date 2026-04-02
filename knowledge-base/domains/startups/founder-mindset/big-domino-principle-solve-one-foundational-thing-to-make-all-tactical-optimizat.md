@@ -48,5 +48,9 @@ related:
   - INS-260326-BF32
   - PRI-260323-0F93
   - INS-260330-70F5
+evidence:
+  - id: INS-260326-BF32
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Hormozi describes choosing between doing 100 tiny dating hacks or solving the one big problem: becoming someone genuinely worth being with. This Big Domino thinking applies directly to startups — founders often optimize conversion funnels, ad copy, and onboarding flows when the core issue is product-market fit. If you solve the foundational problem, downstream optimizations become trivial or unnecessary. The principle is a forcing function against premature optimization: before tweaking tactics, ask whether there's a single upstream lever that would make them all irrelevant.

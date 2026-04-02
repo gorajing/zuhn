@@ -61,6 +61,19 @@ related:
   - INS-260330-41A5
   - INS-260323-636C
   - INS-260325-3A0E
+evidence:
+  - id: INS-260330-C8D7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1C84
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-41A5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-3A0E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In a naive model, people are randomly shuffled globally, producing clean exponential-then-logistic growth. But real populations are clustered in local communities with limited inter-cluster connections. Simulations show that even a small amount of travel between clusters produces growth that is not meaningfully different from the global model — because communities themselves function as 'individuals' in a higher-level exponential process. Each community has exposure to others and some probability of spreading, so the same multiplicative math applies at the meta-level.
 

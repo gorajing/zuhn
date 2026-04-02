@@ -50,12 +50,13 @@ stance: >-
   humans have deliberately engineered, which means searching this space is often
   more productive than designing from first principles.
 related:
+  - INS-260402-9676
   - INS-260327-A44E
   - INS-260330-112E
   - INS-260329-74E5
   - INS-260330-240A
-  - INS-260330-7DCF
   - INS-260327-7B0C
+  - INS-260330-7DCF
 evidence:
   - id: INS-260330-112E
     type: EXTENDS

@@ -56,6 +56,7 @@ related:
   - INS-260329-2DF2
   - INS-260322-32E3
   - INS-260330-9033
+  - INS-260402-BA91
 ---
 The holography explanation uses complex-number algebra to prove in a few lines that reconstruction works for any object wave — no matter how complex the scene. The proof is elegant and airtight: expand |R+O|² algebraically, and a scaled copy of O appears as a term in the reconstructed wave. But 3Blue1Brown explicitly states this proof alone would be 'very unsatisfying' because it reveals nothing about why film resolution matters, how viewing angle affects visibility, or what the conjugate image looks like physically.
 

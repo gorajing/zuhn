@@ -64,6 +64,10 @@ related:
   - INS-260329-19B3
   - INS-260330-A516
   - INS-260330-9FCF
+evidence:
+  - id: INS-260330-9FCF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Lane discusses UCL researcher Mark Thomas's work showing that cultural and technological complexity depends primarily on population density and the frequency of inter-group interactions. Groups that become isolated — like Easter Island's population — reliably lose cultural complexity over time, even when individual intelligence remains constant. Lane draws an explicit parallel to lateral gene transfer in bacteria: just as bacteria share genes between cells to maintain genetic diversity, human groups share expertise between communities to maintain cultural capability.
 

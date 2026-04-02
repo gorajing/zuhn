@@ -63,6 +63,19 @@ related:
   - INS-260330-40EC
   - INS-260330-3C3C
   - INS-260330-8A2E
+evidence:
+  - id: INS-260330-21A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C729
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-40EC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-3C3C
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 During photosynthesis, the thylakoid membrane accumulates protons through two mechanisms: water splitting (which releases H+ ions) and active pumping by the Cytochrome Complex. This creates a concentration gradient — high proton concentration inside the thylakoid, low outside. The protons naturally want to equalize, and the only exit is through ATP synthase, a turbine-like enzyme that converts the kinetic energy of proton flow into chemical energy (ATP).
 

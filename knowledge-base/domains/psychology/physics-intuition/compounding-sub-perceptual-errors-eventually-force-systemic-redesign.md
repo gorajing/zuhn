@@ -56,7 +56,7 @@ related:
   - INS-260330-8134
   - INS-260330-F31A
   - INS-260330-615D
-  - INS-260325-EB9E
+  - INS-260402-26B0
 ---
 The Julian calendar added one leap day every 4 years, overshooting the true solar year by roughly 11 minutes annually. This error is literally imperceptible in a human lifetime — yet over 1,582 years it accumulated to 10 full days of seasonal drift. The fix required Pope Gregory XIII to simply delete October 5-14 from existence, and it still took centuries for all countries to adopt the change.
 

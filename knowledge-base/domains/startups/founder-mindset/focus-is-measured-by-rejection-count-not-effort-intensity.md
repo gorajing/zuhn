@@ -45,11 +45,11 @@ stance: >-
   opportunities they decline, not how hard they work on what they accept
 related:
   - INS-260328-2CFF
+  - INS-260402-BA91
   - INS-260322-F128
   - INS-260329-EC01
   - INS-260330-849D
   - INS-260327-E833
-  - INS-260323-7E6F
   - INS-260402-D534
 ---
 Hormozi defines focus not as concentration intensity but as rejection rate. When he had nine businesses simultaneously (thinking 'seven income streams make you wealthy'), he was spread too thin despite working constantly. The shift came when he realized that multiple income streams are an outcome of concentrated wealth-building, not a strategy for creating it. You need focused cash generation first to later buy diversified assets.

@@ -46,10 +46,10 @@ resolutions:
     don't destroy morale — they're expected friction in an ongoing campaign.
 related:
   - INS-260329-EB4B
+  - INS-260402-FFB2
   - PRI-260328-FA83
   - INS-260327-D1B7
   - INS-260329-163B
-  - INS-260322-7276
   - INS-260326-286F
 stance: >-
   Even after a major win, assume your competitor has achieved the same advantage

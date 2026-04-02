@@ -55,5 +55,9 @@ related:
   - INS-260330-7DAA
   - INS-260330-7B1C
   - INS-260330-4DFA
+evidence:
+  - id: INS-260323-3D7D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Most founders think product is the fundamental strategic layer, but Hoffman argues there's a hierarchy: financing is the foundation (if you run out of money, nothing matters), distribution sits above it (no matter how good the product, if it doesn't reach customers you're dead), and product sits on top. This means that while raising the current round, you should already be establishing relationships and positioning for the next round. Your product decisions should be filtered through 'does this help or hurt our distribution strategy?' and distribution choices should consider 'does this keep us fundable?' This isn't about being mercenary — it's about architectural thinking where each strategic layer supports the one above it. PayPal's pivot from Palm Pilot payments to email payments wasn't just a product insight; it was recognizing the Palm Pilot distribution math was impossible (zero to one Palm Pilots per restaurant table).

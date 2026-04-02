@@ -59,6 +59,10 @@ related:
   - PRI-260328-7007
   - INS-260327-1652
   - INS-260329-2F63
+evidence:
+  - id: INS-260323-DDC2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Fan projects beyond current robotics to the 'Physical API' -- analogous to the LLM API but for manipulating atoms instead of bits. On top of this layer, he envisions physical prompting (instructing robots through language and demonstration), a physical app store, and a skill economy where a Michelin chef could teach a robot and deliver Michelin dinners as a service.
 

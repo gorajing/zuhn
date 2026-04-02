@@ -57,6 +57,13 @@ related:
   - INS-260327-C13D
   - INS-260327-7F1B
   - INS-260327-8E22
+evidence:
+  - id: INS-260327-C13D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-7F1B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Testing of popular bottled water brands reveals concerning levels of microplastics, heavy metals, and chemicals leached from plastic containers (antimony, BPA, phthalates). Water stored in plastic, especially in warm conditions during transport and storage, accumulates more contaminants over time.
 

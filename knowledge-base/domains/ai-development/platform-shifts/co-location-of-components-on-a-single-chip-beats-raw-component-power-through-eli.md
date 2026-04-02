@@ -58,6 +58,19 @@ related:
   - PRI-260328-06F1
   - INS-260329-FAE2
   - INS-260325-2BB0
+evidence:
+  - id: INS-260329-90F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-EA23
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-9D44
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-2BB0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Apple Silicon's M1 demonstrated that a system-on-chip (SoC) design — housing CPU, GPU, memory controller, ML engine, and I/O on a single die — outperforms Intel machines with individually more powerful discrete components. The key insight is that inter-component communication latency and energy cost dominate modern workloads more than raw component performance.
 

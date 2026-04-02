@@ -56,6 +56,10 @@ related:
   - INS-260327-768D
   - INS-260327-4081
   - INS-260330-007E
+evidence:
+  - id: INS-260330-460D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Facebook's Free Basics (offering 'free internet' to developing nations) and Google's AMP (offering 'faster web pages') both follow the same pattern: frame a market-capture strategy as a gift to users. Facebook's version gave access only to Facebook-approved sites — and the framing worked so well that 65% of surveyed Nigerians and 61% of Indonesians agreed 'Facebook is the internet.' Google's AMP ostensibly strips unnecessary code for speed, but requires adding Google's own tracking code and penalizes non-participating sites in search rankings.
 

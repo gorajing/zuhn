@@ -59,5 +59,9 @@ related:
   - INS-260327-9DA6
   - INS-260330-4553
   - INS-260330-C24F
+evidence:
+  - id: INS-260327-5A72
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Schultz's contrarian claim is that startups should NOT have a growth team — the entire company should be the growth team with the CEO as head of growth. The reason is organizational alignment: once you have more than one person, you lose direct control and must rely on influence. A North Star metric is the mechanism that aligns autonomous decision-making across the company. Zuckerberg chose monthly active users (not registered users like MySpace and Friendster published), WhatsApp chose messages sent (not just DAU, because a messaging app where users send one message is not primary), Airbnb chose nights booked (benchmarking against hotel chains), and eBay chose gross merchandise volume (not revenue, which understated their marketplace by 10x). The metric must be: (1) the deepest indicator of real value delivery, (2) published both internally and externally for accountability, and (3) correlated with mission. Most growth metrics are correlated anyway — DAU correlates with MAU correlates with content shared — so picking the one that resonates with the company's mission and sticking with it for years is more important than picking the theoretically optimal one.

@@ -51,5 +51,9 @@ related:
   - INS-260330-60A5
   - PRI-260328-024A
   - INS-260325-B50B
+evidence:
+  - id: INS-260325-B50B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Galpin's 3-to-5 concept elegantly collapses all the modifiable variables for strength and power into a single memorable heuristic. At minimum, this is 3 exercises for 3 sets of 3 reps, three times per week (a ~20 minute workout). At maximum, it is 5 exercises for 5 sets of 5 reps, five times per week. The only differentiator between strength and power is intensity: strength requires 85%+ of one-rep max, while power targets 40-70% with maximal intent to move fast. This framework eliminates analysis paralysis for intermediate trainees. Galpin also emphasizes that supersetting antagonist muscle groups (e.g., bench press with deadlift) is effective for non-competitive athletes, reducing workout duration by roughly 3x while sacrificing only a tiny amount of strength gain.

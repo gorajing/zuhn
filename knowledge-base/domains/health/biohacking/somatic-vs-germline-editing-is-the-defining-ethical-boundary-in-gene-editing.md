@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-D680
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-D631
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The most important distinction in gene editing is between somatic editing (non-reproductive cells, changes die with the individual) and germline editing (embryos, changes are inherited by all future generations). Somatic editing has safety concerns but is comparable to other medical treatments. Germline editing is qualitatively different — embryos cannot consent, changes are permanent and heritable, and errors propagate through entire population lineages.
 

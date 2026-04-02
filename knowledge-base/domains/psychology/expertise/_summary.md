@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 12 insights
+> 13 insights
 
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260402-8223` [high] Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
@@ -12,5 +12,6 @@
 - `INS-260330-F6B1` [high] Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260402-72EF` [high] Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260330-2666` [high] Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
+- `INS-260402-26B0` [medium] Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260330-C7B5` [medium] Making a tool part of your identity makes you worse at evaluating alternatives.
 - `INS-260402-30DC` [medium] Nasty little problems don't just waste time — they actively make you stupider because they lack the learnable patterns that build expertise.

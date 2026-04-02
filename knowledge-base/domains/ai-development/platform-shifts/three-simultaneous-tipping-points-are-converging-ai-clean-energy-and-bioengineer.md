@@ -56,6 +56,13 @@ related:
   - PRI-260328-D292
   - INS-260325-B315
   - INS-260330-30AB
+evidence:
+  - id: INS-260325-B315
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-30AB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Peter Leyden identifies three world-historic technologies all reaching their tipping points in the same period. Generative AI (since ChatGPT in November 2022) represents a step-change in mental amplification comparable to how mechanical engines amplified physical power. Clean energy is the first energy source that is purely a technology — not a commodity to be dug up — meaning its costs follow manufacturing learning curves and will keep dropping (doubling production yields roughly 20% cost reduction). Bioengineering via CRISPR allows cheap genome editing of any living thing, with genome sequencing costs plummeting from $3 billion to around $100.
 

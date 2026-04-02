@@ -56,5 +56,15 @@ related:
   - INS-260322-37EE
   - INS-260327-088E
   - INS-260330-A0AE
+evidence:
+  - id: INS-260322-37EE
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-088E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A0AE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 MIT's 2025 report based on 300+ disclosed AI initiatives and 52 organizational interviews found that US businesses invested $35-40B in generative AI with 95% of pilots producing no business impact. The core diagnosis is a 'learning gap': most GenAI systems do not retain feedback, adapt to context, or improve over time. They become static science projects. The 5% that succeed approach AI procurement differently — demanding deep customization, holding vendors accountable to business metrics, and treating it as partnership not purchasing. Disruption is only apparent in technology and media/telecom; all other industries remain at experimentation stage. This reframes the AI product challenge from 'build better models' to 'build systems that learn from workflows.'

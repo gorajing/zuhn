@@ -53,6 +53,13 @@ related:
   - INS-260327-027E
   - PRI-260325-663A
   - INS-260330-887A
+evidence:
+  - id: INS-260330-EE16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-887A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Grounding (earthing) -- maintaining electrical contact with the earth's surface -- has emerging research suggesting effects on cortisol regulation, inflammation, and sleep quality. Paul Saladino reports grounding mats as the single most effective relaxation tool for sleep he has found, more impactful than any supplement.
 

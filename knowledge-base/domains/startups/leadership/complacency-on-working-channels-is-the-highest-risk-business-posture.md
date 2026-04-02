@@ -49,6 +49,10 @@ related:
 stance: >-
   Businesses that become one-dimensional on currently-working channels almost
   always see revenue halve rather than double, because platform shifts ar...
+evidence:
+  - id: INS-260322-5678
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The pattern repeats across every marketing era: businesses that lock into what works today and refuse to experiment with what's emerging invariably decline. Gary's framing is blunt — '$6M businesses that refuse to adapt become $3M businesses, not $12M.' The Blackberry analogy illustrates how even passionate attachment to current tools (needing physical buttons) gets swept away by platform evolution.
 

@@ -62,6 +62,28 @@ related:
   - INS-260330-4D0E
   - INS-260330-2C71
   - INS-260330-0017
+evidence:
+  - id: INS-260330-07B1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9A83
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-85D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-09F8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F671
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4D0E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0017
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In photosynthesis, a photon excites an electron to a high energy state, but the plant doesn't try to harvest all that energy at once. Instead, the electron passes through a chain of protein complexes (PSII → Cytochrome Complex → PSI), losing energy at each step in controlled reactions that pump protons and generate ATP. By the end, the electron is depleted and must be re-energized by another photon at PSI.
 

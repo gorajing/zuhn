@@ -60,6 +60,19 @@ related:
   - PRI-260324-DE71
   - INS-260323-DE2B
   - INS-260328-9B8A
+evidence:
+  - id: INS-260327-1B4A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-473D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-DD9C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-DE2B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 PolyMatter argues that Facebook and Google are not merely competing within the internet but attempting to become the internet itself. Facebook's Instant Articles hosted content directly on Facebook rather than linking to external sites. Google's AMP project similarly cached and served web content through Google's infrastructure. Both reduce the open web to a content source for proprietary platforms.
 

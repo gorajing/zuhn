@@ -58,6 +58,19 @@ related:
   - INS-260325-2BB0
   - INS-260323-9EEC
   - INS-260330-6EF1
+evidence:
+  - id: INS-260323-9676
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-2BB0
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9EEC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6EF1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Miller inverts the intuitive assumption about complexity: chips are everywhere because they are cheap and tiny, making them seem easy to produce. Nuclear weapons are rare and controlled, seeming hard to make. The reality is reversed. Nuclear technology stagnated since the 1960s — it is relatively simple. Chip manufacturing requires placing billions of transistors at near-atomic precision, using materials purified to extraordinary levels (even a single atomic impurity causes defects).
 

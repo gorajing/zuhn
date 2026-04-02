@@ -64,6 +64,19 @@ related:
   - INS-260330-2601
   - INS-260330-09DE
   - INS-260330-3E3C
+evidence:
+  - id: INS-260330-2601
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-8538
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-81E0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2EAB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The human body demonstrates a clean hierarchy of organization: atoms combine into molecules, molecules into cells, cells into tissues, tissues into organs, organs into organ systems, and organ systems into a complete organism. At each level, new capabilities emerge that don't exist at the level below. A single cell can't digest food, but the digestive system — liver, stomach, intestines working together — can turn a burrito into usable energy.
 

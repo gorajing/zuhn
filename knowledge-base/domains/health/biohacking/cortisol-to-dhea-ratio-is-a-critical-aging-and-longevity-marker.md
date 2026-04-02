@@ -58,6 +58,10 @@ related:
   - INS-260327-5B5C
   - INS-260327-52AA
   - INS-260330-DC78
+evidence:
+  - id: INS-260325-9F4C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Research strongly links the cortisol-to-DHEA-S ratio with longevity and morbidity outcomes. Cortisol functions as an aging hormone -- published review papers specifically ask whether cortisol drives aging, and evidence supports this. Fasting and ketogenic diets tend to elevate cortisol between meals.
 

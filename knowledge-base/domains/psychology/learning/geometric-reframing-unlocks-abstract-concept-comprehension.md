@@ -54,5 +54,12 @@ related:
   - INS-260330-4D18
   - INS-260330-14B1
   - INS-260330-2689
+evidence:
+  - id: INS-260330-4B30
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E059
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown demonstrates that viewing coordinates not as abstract numbers but as scalars that stretch basis vectors transforms comprehension. When you see a coordinate pair like (3, -2), thinking of it as '3 times i-hat plus -2 times j-hat' grounds the abstraction in physical movement. This geometric reframing pattern applies broadly: any time an abstract concept resists understanding, look for a spatial or physical metaphor that preserves the mathematical structure while making operations visible. The key is that the reframing isn't a simplification — it's an isomorphic representation that happens to be more cognitively accessible.

@@ -65,6 +65,10 @@ related:
   - PRI-260328-F570
   - INS-260330-A33F
   - INS-260330-2EAB
+evidence:
+  - id: INS-260325-9F4C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The misconception that lactate causes fatigue originated from 19th-century observations that hunted stags had elevated lactate levels, creating a correlation-causation error that persisted for over a century. In reality, lactate is formed when pyruvate (a 3-carbon molecule from glycolysis) absorbs excess hydrogen ions that accumulate from ATP hydrolysis, making it an acid buffer that protects pH-sensitive metabolic enzymes.
 

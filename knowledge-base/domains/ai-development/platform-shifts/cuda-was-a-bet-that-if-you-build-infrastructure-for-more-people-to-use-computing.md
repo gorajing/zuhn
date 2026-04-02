@@ -55,6 +55,10 @@ related:
 stance: >-
   NVIDIA created CUDA to let any programmer use GPU parallel processing via
   familiar languages
+evidence:
+  - id: INS-260327-CFD5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Before CUDA, researchers who wanted to use GPUs for non-graphics work had to trick the hardware into thinking their problem was a graphics problem. CUDA removed that barrier by letting programmers use languages like C to control GPUs directly. Jensen described the philosophy: 'The optimist says if you don't build it, they can't come.'
 

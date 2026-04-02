@@ -51,5 +51,12 @@ related:
   - INS-260325-7FE6
   - PRI-260325-070D
   - INS-260330-615D
+evidence:
+  - id: INS-260325-8290
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-B6AF
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Cline notes the roughly 1500-year gap between the Bronze Age collapse and the fall of Rome, and another 1500 years to the present. While he explicitly avoids claiming we are 'due' for collapse, the structural parallels are striking: interconnected economies, resource dependencies, climate stress, mass migration, and internal political fragmentation. The value is not in the numerology but in recognizing that the mechanisms of fragility — tight coupling, resource dependency, inability to absorb compound shocks — are features of complex civilizations regardless of era. The question for modern decision-makers is not 'will collapse happen' but 'what are our specific fragility points and are we stress-testing against compound scenarios?'

@@ -46,5 +46,18 @@ related:
   - PRI-260328-F804
   - INS-260327-7F1B
   - INS-260327-5D71
+evidence:
+  - id: INS-260330-CA97
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-21C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7F1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-5D71
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Home health optimization priorities: reverse osmosis water filtration, WiFi timer for nighttime shutoff, replace non-stick cookware, use non-toxic cleaning products, and improve air quality with plants or filtration

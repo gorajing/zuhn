@@ -51,11 +51,11 @@ stance: >-
   tools better but from being forced to invent entirely new tools when current
   ones cannot solve the problem at hand
 related:
+  - INS-260402-26B0
   - INS-260330-F183
   - INS-260321-AE3F
   - INS-260330-4D18
   - INS-260323-72EB
-  - INS-260325-EBDD
   - INS-260330-137C
 evidence:
   - id: INS-260321-AE3F

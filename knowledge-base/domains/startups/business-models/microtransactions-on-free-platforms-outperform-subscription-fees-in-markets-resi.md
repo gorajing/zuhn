@@ -64,5 +64,9 @@ related:
   - INS-260330-931A
   - INS-260330-2ABC
   - INS-260330-48DE
+evidence:
+  - id: INS-260325-206C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Tencent tried multiple monetization strategies for QQ: banner ads, selling chat software to businesses, and charging a membership fee. All failed. The subscription fee was particularly disastrous—Chinese internet users hated paying for any internet service, and competitors gained market share by offering free alternatives. The breakthrough came when Tencent copied a Korean avatar customization feature and let users buy virtual clothing and accessories for pennies. Those microtransactions cost Tencent nothing to produce but added up fast across hundreds of millions of users. They applied the same model to gaming: instead of selling games upfront (which would just be pirated), they made games free and monetized through in-game purchases. This insight extends beyond China—it reflects a broader truth about digital markets where piracy or free alternatives exist. The key is that microtransactions work because they convert status signaling and small impulse decisions into revenue, rather than requiring users to make a deliberate, rational purchasing decision upfront. Tencent was among the first to prove this model at massive scale, and it became the template for free-to-play gaming worldwide.

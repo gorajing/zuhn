@@ -5,11 +5,11 @@
 - `INS-260330-0C1D` Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
 - `INS-260330-B2B8` Stuart Firestein argues science begins where facts run out — riding the wave beyond the circle of knowledge is more productive than bobbing within it.
 - `INS-260330-CC51` Stuart Firestein argues science begins where facts run out — riding the wave of ignorance outward is more productive than circling within known facts.
+- `INS-260323-D8DD` Both Planck's quantum of energy and Bohr's quantized angular momentum were 'acts of desperation' with no physical justification — they worked spectacularly before anyone understood why.
+- `INS-260330-9B16` Scientists created acoustic black holes (dumbholes) in labs using fluids at the speed of sound to study real black hole behavior through analog observation.
 - `INS-260323-7345` Bohr's social authority caused the physics community to dismiss the EPR paradox for 30 years — not because he refuted it, but because his response was so obscure nobody dared challenge it, and anyone who did was told 'Do you think you're smarter than Niels Bohr?'
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.
 - `INS-260323-C3FA` The Aharonov-Bohm effect required 27 years of progressively tighter experiments — from Chambers' iron whisker to Tonomura's superconducting donut — to eliminate every alternative explanation before consensus shifted.
 - `INS-260323-518A` The giant impact hypothesis became the leading Moon origin theory not because it was proven, but because it was 'the least bad' option — a pattern where scientific and business consensus defaults to the best available story even when it has known fatal flaws.
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
 - `INS-260323-DA13` Just as scientists never refuse to run an experiment because the result might be unpleasant, the marketplace of ideas must entertain all hypotheses — including hateful ones.
-- `INS-260323-D8DD` Both Planck's quantum of energy and Bohr's quantized angular momentum were 'acts of desperation' with no physical justification — they worked spectacularly before anyone understood why.
-- `INS-260330-9B16` Scientists created acoustic black holes (dumbholes) in labs using fluids at the speed of sound to study real black hole behavior through analog observation.

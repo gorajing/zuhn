@@ -55,5 +55,6 @@ related:
   - INS-260330-478B
   - INS-260330-D644
   - INS-260330-870B
+  - INS-260402-5974
 ---
 One of Uber's most devastating competitive tactics had nothing to do with product or pricing — it was capital denial. Travis would find out whenever Lyft had investor meetings to raise money, then immediately call those same investors afterward to announce that Uber would also be raising soon. Since investors couldn't back two direct competitors and Uber was the larger company, they routinely abandoned Lyft deals to wait for the Uber round. This weaponized the VC constraint of portfolio conflict. Travis amplified this with calculated showmanship: he'd dazzle investors with expansive visions of Uber delivering 'anything to anywhere,' then strategically delay follow-up communications to create artificial scarcity and FOMO. The combination of vision-selling, social proof ($258M from Google Ventures), and competitor capital denial created a self-reinforcing fundraising advantage that nearly crushed Lyft entirely.

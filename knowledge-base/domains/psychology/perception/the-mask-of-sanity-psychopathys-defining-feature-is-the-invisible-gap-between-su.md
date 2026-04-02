@@ -60,6 +60,9 @@ evidence:
   - id: INS-260322-4090
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260323-1B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hervey Cleckley's 'Mask of Sanity' concept captures psychopathy's core: these individuals appear completely normal, even 'super normal,' while concealing profound deficits in emotional experience and genuine caring. You cannot reliably identify psychopathy from brief interactions — claims about eye contact 'tells' don't hold up scientifically.
 

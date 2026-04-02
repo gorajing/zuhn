@@ -55,6 +55,10 @@ related:
   - INS-260323-F528
   - INS-260330-F6A2
   - INS-260329-24CE
+evidence:
+  - id: INS-260327-6F94
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Before time zones, every meridian had its own solar noon — technically the most accurate local time. But this meant people a few kilometers apart would disagree on the time, making train schedules and telegraph coordination impossible. The solution was time zones: deliberately rounding local solar time to the nearest hour, sacrificing accuracy for coordination.
 

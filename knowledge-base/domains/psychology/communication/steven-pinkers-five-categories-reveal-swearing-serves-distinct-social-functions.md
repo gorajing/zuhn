@@ -50,7 +50,6 @@ stance: >-
   dysphemistic, abusive, idiomatic, emphatic, and cathartic — each serving a
   different social or psychological purpose
 related:
-  - INS-260330-A8F8
   - INS-260330-3528
   - INS-260330-EA8B
   - INS-260330-24CD

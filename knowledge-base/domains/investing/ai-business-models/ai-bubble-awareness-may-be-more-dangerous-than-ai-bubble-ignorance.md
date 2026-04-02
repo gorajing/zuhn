@@ -54,6 +54,10 @@ related:
   - INS-260330-F67A
   - INS-260324-72E8
   - INS-260328-70D3
+evidence:
+  - id: INS-260330-8BB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bubble awareness creates a dangerous game of musical chairs: investors who 'know' it's a bubble stay invested hoping to exit before the crash, which sustains the bubble longer than ignorance would. When sentiment finally shifts, everyone tries to exit simultaneously because they were all waiting for the same signal.
 

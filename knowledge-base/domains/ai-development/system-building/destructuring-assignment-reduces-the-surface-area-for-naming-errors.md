@@ -54,6 +54,19 @@ related:
   - INS-260329-8F86
   - INS-260330-43E3
   - INS-260329-393C
+evidence:
+  - id: INS-260327-956D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-3763
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8F86
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-393C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The course covers ES6 destructuring — extracting values from objects and arrays directly into named variables (`const {name, age} = person`) rather than accessing them one by one (`const name = person.name; const age = person.age`). This isn't just syntactic sugar; it eliminates an entire class of copy-paste and typo errors that occur when manually creating intermediate variable assignments.
 

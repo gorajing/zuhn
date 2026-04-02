@@ -52,6 +52,13 @@ related:
   - INS-260327-F417
   - INS-260322-B8E6
 stance: Artemis builds permanent lunar presence through deliberate phased deployment
+evidence:
+  - id: INS-260327-F417
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-D65E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Artemis program follows a rigorous phased approach: Artemis 1 tested unmanned re-entry, Artemis 2 tests crewed orbit without landing, Artemis 3 attempts first landing in 55 years, Artemis 5 deploys a lunar rover (LTV), Artemis 7 sends a habitable mobility platform (Lunar Cruiser), and Artemis 8 installs a permanent base camp near the South Pole. Each odd-numbered mission delivers a major capability increase.
 

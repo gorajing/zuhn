@@ -58,6 +58,13 @@ related:
   - INS-260322-F46F
   - INS-260329-67CB
   - INS-260329-8F86
+evidence:
+  - id: INS-260329-83AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-920D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The sales database and car inventory projects demonstrate pivot tables as the culmination of the spreadsheet skill tree. After learning formulas, formatting, and charts, pivot tables represent the qualitative leap: they let you ask 'what are total sales by region and product category?' or 'what is average mileage by car manufacturer and year?' without writing any formula at all. You drag fields into rows, columns, and values, and the aggregation happens automatically.
 

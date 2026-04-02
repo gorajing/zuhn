@@ -58,6 +58,28 @@ related:
   - INS-260330-11EB
   - INS-260330-43CA
   - INS-260330-47CF
+evidence:
+  - id: INS-260330-0E1E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8BF6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F82A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-7B11
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-11EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-43CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-47CF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 RuBisCo evolved in a CO2-rich, oxygen-poor atmosphere where its inability to distinguish CO2 from O2 didn't matter. When photosynthesis itself flooded the atmosphere with oxygen, RuBisCo began fixing O2 instead of CO2 roughly half the time, producing toxic phosphoglycolate. Rather than evolving a better enzyme, plants went all-in on quantity — producing so much RuBisCo that even at 50% error rate, enough carbon fixation occurs. This is the biological equivalent of scaling a buggy system horizontally instead of fixing the bug.
 

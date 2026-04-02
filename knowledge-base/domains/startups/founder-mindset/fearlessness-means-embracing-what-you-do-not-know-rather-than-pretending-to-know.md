@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260325-A272
   - INS-260323-C4E2
+  - INS-260402-E2AF
   - INS-260330-70BF
   - PRI-260323-1B96
-  - INS-260323-73AB
 ---
 Stoute distinguishes productive fearlessness from blind recklessness. When he co-founded Carol's Daughter (later sold to L'Oreal), he knew nothing about the beauty industry but could clearly see a problem he could solve. The fearlessness was not ignoring his ignorance but openly accepting it: entering with a big open heart and a wealth of acceptance of what you do not know.
 

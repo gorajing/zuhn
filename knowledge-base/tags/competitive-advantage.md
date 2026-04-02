@@ -20,6 +20,7 @@
 - `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.
 - `INS-260330-D6D3` Harvard Business Review's three market dominance paths — best price (logistics), best product (R&D), best overall solution (customer intimacy) — only the third requires near-zero capital, making it uniquely accessible to startups.
 - `INS-260330-09E3` Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
+- `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
 - `INS-260330-DD10` Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
@@ -44,17 +45,17 @@
 - `INS-260327-4081` Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
 - `INS-260330-883E` The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate by hiring.
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260323-C0BD` GSP and Lex Fridman agree that in martial arts, skill level is by far the most important factor — it trumps strength, size, and even heart.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
-- `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
+- `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.

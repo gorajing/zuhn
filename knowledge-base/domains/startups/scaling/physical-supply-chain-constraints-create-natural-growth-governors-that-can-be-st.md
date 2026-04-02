@@ -55,6 +55,10 @@ related:
   - INS-260327-F417
   - PRI-260328-43F1
   - INS-260330-A1DB
+evidence:
+  - id: INS-260327-F417
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In-N-Out bakes buns daily, uses 100% dairy milkshakes, and operates zero freezers or microwaves. This means every location must be within a single day's drive (~500 miles) of a distribution center. Rather than compromising quality to remove this bottleneck, they treat it as a feature — each new distribution center unlocks a geographic region methodically.
 

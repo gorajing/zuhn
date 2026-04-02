@@ -50,5 +50,9 @@ related:
   - INS-260330-81E0
   - INS-260330-6411
   - INS-260325-51E6
+evidence:
+  - id: INS-260330-81E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi reframes reputation from a vague social concept into an economic asset. Every interaction either deposits or withdraws from a goodwill account. Overdelivering, being generous with time, and keeping promises are deposits. Short-term extraction, breaking trust, and underdelivering are withdrawals. The compounding nature means early deposits generate outsized returns years later through referrals, partnerships, and opportunities that wouldn't otherwise exist. This framework makes reputation management feel concrete rather than abstract — you can audit your goodwill balance and make deliberate investment decisions about which relationships to compound.

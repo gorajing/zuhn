@@ -61,6 +61,10 @@ related:
 stance: >-
   Destiny identifies a recurring pattern in conservative argumentation: every
   proposed incremental fix gets redirected to a root cause (like two-pare...
+evidence:
+  - id: INS-260323-6944
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Shapiro-Destiny education debate reveals a recurring pattern applicable far beyond politics. Destiny proposes minimum school funding for air conditioning and lunch programs. Shapiro redirects to the root cause: two-parent households are the primary predictor of educational outcomes. Destiny counters: you can't legislate marriage, so shouldn't we at least do the achievable thing? Shapiro responds: doing the achievable thing without addressing the root cause is 'hitting a gnat with a hammer.'
 

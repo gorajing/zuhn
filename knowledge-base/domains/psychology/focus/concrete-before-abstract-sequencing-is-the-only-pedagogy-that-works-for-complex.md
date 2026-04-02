@@ -59,5 +59,9 @@ related:
   - INS-260329-70F2
   - INS-260329-1075
   - INS-260329-E43B
+evidence:
+  - id: INS-260329-18C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 CS50's signature pedagogical move is introducing every concept through a concrete, physical demonstration before touching any code. Binary is taught with light bulbs. Search algorithms are taught by tearing a phone book. Sorting is taught by having students physically swap positions. Only after the physical intuition is established does Malan introduce the formal notation. This concrete-before-abstract sequencing works because human cognition builds new understanding by anchoring to existing mental models. Abstract-first teaching (the default in most university CS departments) fails because there's nothing to anchor to. This principle applies beyond education: when explaining any complex system — a product architecture, a business model, a scientific concept — always start with the most concrete, tangible version before layering on abstraction.

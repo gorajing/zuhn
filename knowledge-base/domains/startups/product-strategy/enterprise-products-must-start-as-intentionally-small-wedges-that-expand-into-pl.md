@@ -57,6 +57,13 @@ related:
   - INS-260330-7168
   - INS-260330-7AB8
   - PRI-260328-43F1
+evidence:
+  - id: INS-260327-EEBD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-540D
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Levie argues that enterprise startups must be 'intentionally small' — not accidentally small due to limited resources, but strategically small because that's where incumbents leave gaps. The wedge should be a discrete problem painful enough that customers adopt a standalone solution, yet positioned to expand into larger enterprise architecture over time.
 

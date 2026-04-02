@@ -51,6 +51,10 @@ resolutions:
 stance: >-
   Unit tests verify code works but spec audits are needed to verify code matches
   intent
+evidence:
+  - id: INS-260330-A3B7
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 91 unit tests all passed, but an automated spec audit found 12 issues —

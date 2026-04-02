@@ -52,5 +52,9 @@ related:
   - INS-260330-4746
   - INS-260330-5EAC
   - INS-260323-1B0B
+evidence:
+  - id: INS-260323-1B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Goggins observes that even the wealthiest, most externally successful people consistently report feeling like something is missing. His interpretation is that this feeling signals approximately 75% of a person's capacity remaining locked away — not because they lack resources or opportunities, but because they've never built willpower through sustained unwanted effort. The 'missing something' feeling isn't solved by more money, relationships, or experiences. It's solved by the process of self-examination and doing what you resist. Goggins himself, despite having fewer material comforts and a daily life that looks 'miserable' to outsiders, reports never feeling this emptiness. This reframes fulfillment as a byproduct of the willpower-building process itself rather than an outcome of achievement — a direct challenge to goal-oriented psychology.

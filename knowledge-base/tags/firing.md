@@ -4,6 +4,7 @@
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - `INS-260330-E4D9` Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved.
 - `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
+- `INS-260402-9B06` Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260330-A9CB` Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
 - `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
 - `INS-260330-25A8` You can take someone's job but you cannot take their dignity — every employee in your company will become an informal reference for that person.

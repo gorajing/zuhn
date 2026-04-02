@@ -63,6 +63,34 @@ related:
 stance: >-
   Founders who ask AI what customers want instead of talking to actual customers
   end up optimizing for the wrong problem
+evidence:
+  - id: INS-260330-FE9E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2C79
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-89C7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0BBA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2306
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-0FDA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-9172
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-A7F6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B0BA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Maurya describes founders feeding ChatGPT their startup idea and asking 'what do customers want?' then building exactly that — only to discover months later through actual interviews that they were solving the wrong problem entirely. One founder's AI-generated market analysis perfectly validated their scheduling tool; real customer interviews revealed people didn't have a scheduling problem but a 'too many pointless meetings' problem.
 

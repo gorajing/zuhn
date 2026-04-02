@@ -60,5 +60,15 @@ related:
   - INS-260327-5AFE
   - INS-260327-BF89
   - INS-260327-294E
+evidence:
+  - id: INS-260323-FEDF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-5AFE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-294E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Chase distinguishes prompt engineering (crafting the right instruction) from context engineering (assembling the right information for each step). For long-horizon agents that execute 10-100+ steps, the prompt is relatively stable — what changes is the context window contents at each decision point. Key context engineering patterns: 1) Dynamic retrieval — pulling relevant documents/data just-in-time for each step, 2) Memory management — deciding what to keep, compress, or discard as context grows, 3) Tool result integration — formatting tool outputs so the model can reason about them, 4) State tracking — maintaining a working representation of task progress. The shift from prompt engineering to context engineering mirrors the shift from writing SQL queries to building data pipelines — the skill becomes systems architecture, not linguistic craft.

@@ -51,5 +51,9 @@ related:
   - INS-260329-9BEF
   - INS-260329-693E
   - INS-260330-43E3
+evidence:
+  - id: INS-260329-693E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Ross uses Windsurf's chat mode to share all Figma screenshots and describe the entire app before switching to write mode for any screen. He explicitly says 'if I said go do it now, there's a million ways it could have gone and then we're spending the next couple hours just telling it undo that.' This 'warm-up' pattern treats the AI like a new team member who needs a project briefing before writing their first line of code. The non-obvious part is that the warm-up is not about prompt quality — it's about filling the AI's context window with constraints that narrow the solution space. Each piece of context eliminates possible interpretations, so when the AI finally writes code, it has fewer wrong paths to take.

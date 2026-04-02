@@ -44,9 +44,16 @@ stance: >-
   starting point than a broad but hypothetical market opportunity
 related:
   - INS-260327-3A71
+  - INS-260402-F4E5
   - INS-260327-63B5
   - INS-260323-FCC1
   - INS-260329-AC6E
-  - INS-260325-21D1
+evidence:
+  - id: INS-260327-63B5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-21D1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Graham argues that the best startup ideas come from founders solving their own genuine problems, no matter how specific those problems seem. Steve Wozniak built himself a computer without knowing others would want one. The key insight is that authenticity of need correlates with quality of solution — when you're your own user, you have perfect information about whether the product actually works. Broad hypothetical markets tempt founders into building things nobody urgently wants. The narrowness of a genuine need is actually an advantage: it provides a clear, testable starting point that can expand organically once the core is proven. This inverts conventional business wisdom that says to start with the largest addressable market.

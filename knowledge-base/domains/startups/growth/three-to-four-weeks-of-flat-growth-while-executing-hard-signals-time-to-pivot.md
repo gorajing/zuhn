@@ -55,6 +55,10 @@ related:
   - INS-260402-7FF5
   - INS-260330-CB30
   - INS-260330-78B1
+evidence:
+  - id: INS-260330-2025
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Adora provides one of the clearest pivot heuristics in startup literature: set an optimistic-but-realistic growth plan (e.g., doubling users weekly from 1→2→4→8), and if you hit 3-4 consecutive weeks of no growth or negative growth while executing hard, something fundamental is broken.
 

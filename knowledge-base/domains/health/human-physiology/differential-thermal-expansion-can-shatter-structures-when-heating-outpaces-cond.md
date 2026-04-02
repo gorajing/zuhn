@@ -55,6 +55,13 @@ related:
   - INS-260330-E3C0
   - INS-260330-E59F
   - INS-260330-966E
+evidence:
+  - id: INS-260330-E59F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-966E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The mechanism of laser tattoo removal hinges on a race condition between energy delivery and heat conduction. When a picosecond pulse hits an ink particle, it heats one face almost instantaneously. That face thermally expands while the opposite face remains cool and unchanged. The resulting internal stress gradient literally tears the particle apart from within.
 

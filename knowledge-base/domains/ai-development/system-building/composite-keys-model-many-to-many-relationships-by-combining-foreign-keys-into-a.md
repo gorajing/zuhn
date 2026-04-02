@@ -59,6 +59,10 @@ related:
   - INS-260329-EEA2
   - INS-260329-C401
   - INS-260329-6286
+evidence:
+  - id: INS-260329-C401
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When two entities have a many-to-many relationship (e.g., employees sell to clients), a junction table like Works_With uses a composite primary key made of both foreign keys (employee_id + client_id). This design simultaneously solves three problems: it prevents duplicate relationship entries, it allows additional attributes on the relationship itself (like total_sales), and it keeps both parent tables clean of relationship data.
 

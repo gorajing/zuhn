@@ -56,6 +56,10 @@ related:
   - INS-260330-E059
   - INS-260330-CCA2
   - INS-260330-9A83
+evidence:
+  - id: INS-260330-9A83
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 A 90-degree rotation has no real eigenvectors at all — no vector stays on its span. A shear has eigenvectors but not enough to span the full space. These are structurally different from diagonalizable transformations: they contain irreducible coupling between dimensions that no change of coordinates can eliminate.
 

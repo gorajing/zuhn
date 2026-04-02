@@ -60,8 +60,8 @@ related:
   - INS-260321-167A
   - INS-260330-50A4
   - PRI-260323-A3A3
+  - INS-260402-7FCC
   - INS-260327-A927
-  - PRI-260328-BEAB
 ---
 Flint describes a specific tactic from Trulia's 2008 crisis: after presenting the macro situation (economy, industry, company), they went person by person through the business model, showing each team which metric they owned and how moving it from X to Y would compound with everyone else's improvements to reach profitability. This transformed abstract fear ('will we survive?') into concrete agency ('if I move this number, we survive'). Flint reports that 98% of the time, people rise to this challenge—they go from 'deer in headlights' to 'commandos.'
 

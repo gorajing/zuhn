@@ -54,5 +54,9 @@ stance: >-
   Burger King fell from clear #2 to irrelevant because PE ownership
   oversimplified the business into quarterly numbers, while Wendy's with fewer
   reso...
+evidence:
+  - id: INS-260328-896B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Burger King's PE owners optimized for short-term metrics: cut costs, charge extra for cheese, slash product quality, run forgettable marketing. Meanwhile Wendy's — with significantly fewer locations and resources — maintained a coherent brand identity (fresh, never frozen) and consistent quality. Wendy's now clearly holds #2 behind McDonald's despite being much smaller. The pattern repeats across PE-owned fast food: simplify everything into numbers, tunnel vision on cost cutting, peanut-butter-spread resources instead of creating coherent long-term vision. Same dynamic as Kraft Heinz, same dynamic as the Moneyball insight from earlier.

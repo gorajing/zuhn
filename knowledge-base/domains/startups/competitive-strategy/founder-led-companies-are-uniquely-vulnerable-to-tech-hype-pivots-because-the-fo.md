@@ -63,6 +63,10 @@ related:
   - INS-260330-1266
   - INS-260327-1C7C
   - INS-260330-36DB
+evidence:
+  - id: INS-260327-1C7C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Under Armour was a founder-led company in every sense: Kevin Plank's voice was 'naturally the loudest, the most meaningful, and always correct.' This worked brilliantly when Kevin's instincts aligned with reality -- the premium positioning, the athlete-first strategy, the crawl-walk-run approach to footwear. But it became catastrophic when Kevin fell for Silicon Valley's big data and IoT hype.
 

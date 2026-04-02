@@ -61,6 +61,25 @@ related:
   - INS-260323-500B
   - INS-260323-8897
   - INS-260323-9BC8
+evidence:
+  - id: INS-260322-D079
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-75B8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-BBED
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-500B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-8897
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-9BC8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Miller corrects a common misconception: Moore's Law (transistor density doubling every ~2 years) is not a law of nature. It is an economic prediction that holds only because each shrinkage generation unlocks markets large enough to justify the billions in R&D. If the economics break, the technology immediately stalls.
 

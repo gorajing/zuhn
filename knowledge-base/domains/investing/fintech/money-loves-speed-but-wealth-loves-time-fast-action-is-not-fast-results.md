@@ -54,8 +54,8 @@ related:
   - PRI-260328-4810
   - INS-260325-3A54
   - INS-260327-5580
-  - INS-260329-A024
   - INS-260329-727B
+  - INS-260330-4A16
 stance: >-
   Speed is the shortest distance between seeing and acting on an opportunity;
   time is making a good decision and holding it

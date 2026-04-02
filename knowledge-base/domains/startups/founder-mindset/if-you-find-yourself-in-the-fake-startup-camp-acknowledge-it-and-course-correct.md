@@ -50,9 +50,13 @@ stance: >-
 related:
   - INS-260327-2684
   - INS-260327-0700
+  - INS-260402-E2AF
   - INS-260330-E39E
   - INS-260330-CFBF
-  - INS-260327-F95F
+evidence:
+  - id: INS-260327-F95F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The core message of the real-vs-fake framework isn't to shame anyone — it's a diagnostic tool. If you're not taking a real shot, you're guaranteed to lose because startups are extraordinarily hard even when you are fully committed. The problem with fake isn't that these founders lack talent or ambition; it's that their energy is directed at performing startup rather than doing startup.
 

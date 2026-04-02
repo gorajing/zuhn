@@ -63,6 +63,10 @@ related:
   - INS-260327-4419
   - INS-260327-0D82
   - INS-260327-4294
+evidence:
+  - id: INS-260328-896B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Suez Crisis was a moment of truth: Britain and France attacked Egypt successfully from a military standpoint. But the US, furious at not being consulted, threatened to sell British pound sterling reserves and block IMF loans. Britain, dependent on American financial support, was forced into humiliating withdrawal within days. The episode didn't cause British decline — it revealed and accelerated it by demonstrating that Britain could no longer act independently of American approval.
 

@@ -67,6 +67,9 @@ evidence:
   - id: INS-260329-6D3B
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260402-AEA1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Verdon frames the e/acc philosophy in terms of thermodynamics: life is a process that seeks out free energy and grows. The fundamental basis of the movement is that maintaining variance — in ideas, companies, products, cultures, governments, currencies — ensures the system remains adaptive. When variance is suppressed, the system loses its ability to discover optimal configurations.
 

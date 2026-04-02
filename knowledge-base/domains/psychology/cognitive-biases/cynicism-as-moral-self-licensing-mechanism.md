@@ -57,7 +57,6 @@ related:
   - INS-260330-4859
   - INS-260330-39D4
   - INS-260330-3899
-  - INS-260402-0A49
 ---
 Musk articulates a specific mechanism by which cynicism becomes dangerous: cynical individuals see bad behavior as universal human nature, which psychologically licenses them to engage in the same behavior without guilt. The reasoning follows that if 'everyone cheats,' then cheating isn't a moral failing but simply pragmatism.
 

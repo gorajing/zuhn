@@ -57,5 +57,11 @@ evidence:
   - id: INS-260320-A745
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-2FB8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-67CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When you shard by user ID, you're betting that most queries are user-scoped. When you shard geographically, you're betting that users mostly interact with local data. When you shard by time range, you're betting that hot data is recent data. Each choice optimizes one access pattern while making others cross-shard (expensive). The problem compounds: as data grows, resharding becomes a massive migration that must happen while the system is live. This makes sharding key selection one of the most consequential early technical decisions — comparable to choosing your core data model. The startup lesson: delay sharding as long as possible (vertical scaling, read replicas, caching), and when you must shard, choose the key that aligns with your most common query pattern, not the most elegant distribution.

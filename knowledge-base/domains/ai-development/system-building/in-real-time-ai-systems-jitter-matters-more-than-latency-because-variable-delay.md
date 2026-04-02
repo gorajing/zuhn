@@ -55,6 +55,13 @@ related:
   - INS-260329-33AA
   - INS-260330-C06E
   - INS-260329-4B07
+evidence:
+  - id: INS-260329-33AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4B07
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Tesla tracks latency from photon hitting camera sensor through neural net inference, C/C++ control code, and finally to actuator commands — roughly 150ms end-to-end. Fixed latency of 150ms is manageable because you can predict and compensate. But if you add 0-100ms of random jitter from timing tolerance stackups across the pipeline, you get 150-250ms of unpredictable delay that makes robust control decisions extremely difficult.
 

@@ -50,5 +50,12 @@ related:
   - INS-260330-64D8
   - INS-260329-BA12
   - INS-260323-6944
+evidence:
+  - id: INS-260323-6944
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-BA12
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video defines linear dependence as one vector being expressible as a combination of others — it's 'already in the span.' This is a powerful redundancy detector beyond math. When evaluating a new hire, ask: does this person bring skills outside the span of the current team, or are they a linear combination of existing capabilities? When adding a feature to a product, ask: does this expand what users can achieve, or is it reachable through existing features? When adding an insight to a knowledge base, ask: does this genuinely expand understanding, or is it a restatement of existing knowledge? The independence test — 'does this expand the span?' — is a crisp decision framework for any additive choice.

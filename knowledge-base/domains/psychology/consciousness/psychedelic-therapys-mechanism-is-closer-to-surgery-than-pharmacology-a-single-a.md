@@ -60,6 +60,16 @@ related:
   - PRI-260325-2DE6
   - INS-260325-6576
   - INS-260326-2582
+evidence:
+  - id: INS-260326-2582
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2C6A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-6576
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Most psychiatric drugs work by maintaining altered neurochemistry — you take SSRIs daily, and symptoms return when you stop. Psychedelic therapy inverts this entirely: a single session (or small number of sessions) produces changes that persist for months or years without ongoing drug administration. Johnson draws the analogy to surgery: you don't need to keep cutting to maintain the benefit of an operation.
 

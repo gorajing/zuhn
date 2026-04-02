@@ -59,6 +59,10 @@ related:
 stance: >-
   Malice identifies a toxic cultural pattern: people feel compelled to have and
   share opinions on everything, even topics they know almost nothing ab...
+evidence:
+  - id: INS-260327-E75F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When Malice mentions writing a book about North Korea, 90% of people immediately start telling him everything they know about the subject — despite knowing almost nothing. He describes a cultural norm where admitting 'I don't know anything about that, tell me more' feels like a social failure.
 

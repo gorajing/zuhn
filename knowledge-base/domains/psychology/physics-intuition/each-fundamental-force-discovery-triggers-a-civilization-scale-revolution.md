@@ -62,6 +62,10 @@ related:
   - INS-260323-DA1E
   - INS-260330-CA8E
   - INS-260330-466E
+evidence:
+  - id: INS-260328-6C9A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kaku traces a clear pattern across physics history: Newton's unraveling of gravity didn't just explain planetary motion — it gave us the mechanics (F=ma) that made steam engines, factories, and the entire Industrial Revolution possible, toppling feudalism across Europe. Faraday and Maxwell's electromagnetic unification didn't just explain light — it gave us electricity, radio, television, the internet, and the entire modern connected world.
 

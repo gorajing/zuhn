@@ -52,6 +52,13 @@ related:
   - INS-260329-438D
   - INS-260327-9BFD
   - INS-260323-1B0B
+evidence:
+  - id: INS-260323-1B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-66AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Research consistently shows self-perception diverges from others' perception in predictable ways. The spotlight effect means you vastly overestimate how much others notice your embarrassments and flaws. Meanwhile, you underestimate the impact of your consistent energy, reliability, and presence.
 

@@ -57,5 +57,12 @@ related:
 stance: >-
   Price AI products using three factors: value creation vs human cost, unit
   economics including hidden storage costs, and representative customer sur...
+evidence:
+  - id: INS-260325-8A61
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-4A93
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Young's pricing framework has three pillars: (1) Value creation benchmark — what do users currently pay for the same outcome? For Opus Clip, editing a viral-ready 1-minute clip takes humans 30-60 minutes at $25-50 per clip. (2) Unit economics — inference cost may drop over time but storage costs are the hidden elephant, starting at 5% of COGS but potentially reaching 50% after 3-5 years. (3) Experimentation — send thousands of surveys in early months, tweak pricing repeatedly. Use representative samples: 4 marketers, 5 creators, across different industries, geographies, and purchasing power. You don't need everyone happy with the price — say no to 70% of early users and focus on your ICP. Usage-based metrics beat seat-based pricing for solo creators.

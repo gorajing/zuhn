@@ -46,11 +46,11 @@ stance: >-
   irrational—the best founders honestly acknowledge the plan has changed and
   communicate the new plan to investors, board, employees, and themselves.
 related:
-  - INS-260323-7D01
   - INS-260325-7D50
+  - INS-260323-7D01
   - INS-260325-F451
   - INS-260325-17BF
-  - INS-260327-3574
+  - INS-260402-7FCC
 ---
 Neon started as a database-as-a-service but Shamgunov is now expanding the mission to platform-as-a-service because AI changed the landscape. His advice: ignoring that change and saying 'we set out to do X therefore we'll do X' makes no sense. Be honest with yourself when you're changing the plan, then communicate it to investors, board, employees, and 'yourself when you look in the mirror.'
 

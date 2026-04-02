@@ -59,5 +59,9 @@ related:
   - INS-260325-3A04
   - INS-260323-D4EC
   - INS-260330-1E12
+evidence:
+  - id: INS-260330-9FCF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The cascade: Austria-Hungary issues ultimatum to Serbia → Russia mobilizes to defend Serbia → Germany mobilizes against Russia → France mobilizes per Franco-Russian alliance → Germany invades Belgium (Schlieffen Plan) → Britain enters to defend Belgian neutrality. Each step was individually rational but collectively catastrophic. Railroad-dependent mobilization timetables meant that once started, the process could not be paused — armies had to follow pre-planned deployment schedules or lose their strategic position. No single leader wanted a world war, but the system's interconnections made it inevitable once triggered. The modern parallel: tightly coupled systems (financial markets, supply chains, nuclear arsenals) have the same property — a local failure cascades through connections faster than humans can intervene.

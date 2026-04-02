@@ -55,7 +55,6 @@ related:
   - INS-260325-72AE
   - INS-260326-CAAB
   - INS-260330-DECB
-  - INS-260330-881A
 evidence:
   - id: INS-260326-CAAB
     type: CHALLENGES

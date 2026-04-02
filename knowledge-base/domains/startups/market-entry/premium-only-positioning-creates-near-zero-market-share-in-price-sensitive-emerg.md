@@ -57,6 +57,10 @@ related:
   - INS-260330-D071
   - INS-260330-7479
   - INS-260330-975D
+evidence:
+  - id: INS-260322-E7E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Apple's experience in India demonstrates a hard ceiling on premium-only market entry. With 75% of Indian smartphones selling under $250 and 95% under $500, the cheapest iPhone at $1,100 addresses a tiny sliver of the addressable market. Even selling older models (iPhone 6, SE) at relatively high prices failed because consumers expect new devices at those price points, not 3-5 year old hardware.
 

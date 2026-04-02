@@ -48,10 +48,10 @@ stance: >-
   impossible.
 related:
   - INS-260330-2BB3
+  - INS-260402-EEDB
   - PRI-260328-5E58
   - INS-260330-B09B
   - INS-260322-C472
   - INS-260323-8893
-  - INS-260402-8424
 ---
 While underfunding obviously kills startups by running out of runway, overfunding creates a subtler but equally dangerous failure mode. When startups raise VC-scale money, they hire sales teams, move to real offices, and build organizational structure optimized for their current plan. If the market signals that a pivot is needed — say from B2B to consumer — the organizational mass makes changing direction nearly impossible. The sales force you hired for enterprise deals can't do consumer marketing. The culture shifts from founders to employees who need direction. Graham notes that raising VC money also consumes enormous time (potentially more than building the product), and the resulting investor control through board seats adds another constraint against pivoting. The practical advice is to raise the minimum needed to reach the next milestone, keep burn low, and take the first reasonable deal rather than optimizing valuation — because startups are all-or-nothing games where a 30% better deal means nothing if the company dies.

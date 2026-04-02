@@ -58,6 +58,12 @@ evidence:
   - id: INS-260323-BA00
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-42DE
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260323-76FE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The hierarchy of organization — atoms, molecules, cells, tissues, organs, organ systems, organisms — is not merely a convenient taxonomy. Each level produces genuinely new capabilities. Individual muscle cells contract, but only organized muscle tissue produces coordinated movement. Individual organs process specific inputs, but only organ systems accomplish complex tasks like digestion (liver + stomach + intestines converting food to energy).
 

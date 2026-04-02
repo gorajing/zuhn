@@ -59,6 +59,10 @@ related:
   - INS-260327-2C5F
   - INS-260330-4E68
   - INS-260330-AC7F
+evidence:
+  - id: INS-260327-2C5F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The tutorial carefully distinguishes between 'r' (read), 'w' (write/overwrite), 'a' (append), and 'r+' (read+write) modes. This is not just file I/O syntax — it is the first encounter with the principle of least privilege applied to data access. The cautionary example where running a write operation twice accidentally duplicates data illustrates why access control matters: without explicit mode selection, you can destroy data.
 

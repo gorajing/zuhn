@@ -55,5 +55,9 @@ related:
   - INS-260329-94E6
   - INS-260329-0CC5
   - INS-260330-1E5E
+evidence:
+  - id: INS-260329-0CC5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown demonstrates that the area of a circle — a non-trivial geometry problem — becomes elementary once you decompose it into infinitely many thin concentric rings, each approximated as a simple rectangle. The same pattern recurs across physics (distance from velocity), economics (consumer surplus), and engineering (stress analysis). The key insight is that decomposition isn't just a tactic — it's the fundamental move that makes calculus work. The practical application extends far beyond math: any time you face an overwhelming problem, ask 'can I slice this into many small versions of a simpler problem?' Whether you're estimating a project timeline, analyzing user behavior across segments, or debugging a complex system, the decomposition-then-aggregation pattern is often the path from intractable to solvable.

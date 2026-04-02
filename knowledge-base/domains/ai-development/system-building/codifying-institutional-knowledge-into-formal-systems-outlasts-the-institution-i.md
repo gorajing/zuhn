@@ -56,13 +56,37 @@ stance: >-
 related:
   - INS-260323-17B5
   - INS-260327-BA97
-  - INS-260327-4153
   - INS-260329-3FF4
   - INS-260330-1B8A
   - INS-260330-E2F5
   - INS-260330-3C4C
   - INS-260330-44BC
   - INS-260330-CA88
+evidence:
+  - id: INS-260323-17B5
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-BA97
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4153
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B8A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E2F5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3C4C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-44BC
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-CA88
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Justinian's Corpus Juris Civilis (534 CE) took centuries of accumulated Roman legal precedent and codified it into a structured, teachable system. This codification outlasted the Byzantine Empire itself — it became the foundation for European civil law systems that persist today, nearly 1500 years later.
 

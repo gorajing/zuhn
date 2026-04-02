@@ -61,5 +61,15 @@ related:
   - INS-260327-A680
   - INS-260326-9E23
   - INS-260327-2D68
+evidence:
+  - id: INS-260330-9733
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-5676
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-D2AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Health: the body sends visible distress signals (skin changes, nail ridges, hair loss, tongue coating) years before lab tests detect disease. Yet modern medicine dismisses these as cosmetic or subjective. Psychology: emotions are precision diagnostic instruments -- anxiety, anger, and sadness contain specific information about boundary violations, unmet needs, and loss. Yet the default cultural response is to suppress or medicate them. Organizations: employee disengagement, gossip patterns, and meeting dynamics signal structural dysfunction long before quarterly metrics move. The structural pattern: complex systems emit diagnostic information through 'soft' channels (physical appearance, feelings, cultural artifacts) that formalized measurement systems (lab tests, performance reviews, KPIs) are designed to ignore. The highest-leverage diagnostic skill in any domain is learning to read the channels that your professional framework tells you don't count.

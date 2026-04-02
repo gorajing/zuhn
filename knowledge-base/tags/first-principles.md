@@ -5,8 +5,12 @@
 - `INS-260329-7C59` CS50 treats computational thinking — decomposition, pattern recognition, abstraction, algorithms — as the foundational layer that all programming languages merely implement.
 - `INS-260323-36A8` The Feynman infinite-slit argument shows that if you accept the double-slit experiment, you must logically accept that particles explore all possible paths — infinite screens with infinite slits is just empty space.
 - `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
-- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
+- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
+- `INS-260330-0C1B` A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
+- `INS-260330-8544` The discovery that tidal forces can substitute for solar energy in sustaining liquid water fundamentally expanded where we search for life — by questioning which variable (energy source) was truly fixed.
+- `INS-260330-8429` Both Europa and dark matter show that the obvious energy source (sun, matter) isn't always the real driver — systematically questioning assumed sources expands the solution space.
+- `INS-260330-E2F5` The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
 - `INS-260330-B4DA` Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
 - `INS-260329-6773` The number e is defined by the property that d/dx(e^x) = e^x, illustrating how mathematical constants are constructed from desired functional properties rather than discovered empirically.
@@ -15,10 +19,9 @@
 - `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.
 - `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-B904` Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
-- `INS-260330-0C1B` A 4:1 mechanical advantage means you pull with 1/4 the force but must pull 4x the distance — you never get something for nothing, only redistribute the cost.
-- `INS-260330-8544` The discovery that tidal forces can substitute for solar energy in sustaining liquid water fundamentally expanded where we search for life — by questioning which variable (energy source) was truly fixed.
-- `INS-260330-8429` Both Europa and dark matter show that the obvious energy source (sun, matter) isn't always the real driver — systematically questioning assumed sources expands the solution space.
-- `INS-260330-E2F5` The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
+- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
+- `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
+- `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260323-189B` Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
 - `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
 - `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
@@ -26,14 +29,11 @@
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
 - `INS-260329-5398` The Squeeze Theorem shows that if a quantity is trapped between two bounds that converge to the same limit, the quantity must also converge to that limit — eliminating the need for direct computation.
 - `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.
-- `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
-- `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
-- `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260326-AB92` Evolution selects for stability not optimality, biology punishes radical intervention with cascading side effects, yet first-principles leaps succeed precisely because they bypass the system rather than trying to reform it.
-- `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
-- `INS-260402-5242` Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.
 - `INS-260327-1ACE` After nearly bankrupting by expanding to 10 nearby European cities, Bolt ranked the top few hundred cities worldwide by demand fundamentals and discovered African cities dominated the list.
 - `INS-260330-1D3B` An IRS tax inspector with no knowledge of Bitcoin or Tor cracked the Silk Road case through simple date-filtered Google searches, while FBI and DEA specialists with years of work and advanced tools hadn't identified Ross.
+- `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
+- `INS-260402-5242` Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.
 - `INS-260327-767B` In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
 - `INS-260330-A86C` Cybercriminal schemes evolve through rapid trial-and-error iteration — fail, diagnose, fix, repeat — the same process successful startups use to find product-market fit.
 - `INS-260330-5600` Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.

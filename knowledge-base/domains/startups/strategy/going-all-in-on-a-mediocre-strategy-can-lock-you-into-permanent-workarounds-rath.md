@@ -67,6 +67,10 @@ related:
   - INS-260330-54ED
   - INS-260330-ED9D
   - INS-260330-CC30
+evidence:
+  - id: INS-260330-CC30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Plants evolved RuBisCo in a high-CO2, low-O2 atmosphere where its limitations didn't matter. When the atmosphere changed (ironically due to plants' own oxygen production), RuBisCo started confusing O2 for CO2 roughly half the time, creating toxic byproducts. Rather than evolving a better enzyme, plants doubled down — producing massive quantities and developing secondary pathways to detoxify errors.
 

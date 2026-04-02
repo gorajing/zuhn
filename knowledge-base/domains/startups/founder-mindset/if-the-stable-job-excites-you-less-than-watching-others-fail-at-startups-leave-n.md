@@ -51,13 +51,13 @@ related:
   - INS-260327-1064
   - INS-260327-80A8
   - INS-260327-A75B
+  - INS-260402-E140
   - INS-260402-27A1
   - INS-260402-D739
   - INS-260402-9075
-  - INS-260326-967C
   - INS-260329-0014
-  - INS-260330-2CE5
   - INS-260330-5EB6
+  - INS-260402-ED85
 ---
 Wu describes working 9-10 hour days at a hedge fund and being miserable when called in on weekends. Now she works every waking second, 7 days a week, and has never been happier. The difference isn't the hours—it's ownership and alignment.
 

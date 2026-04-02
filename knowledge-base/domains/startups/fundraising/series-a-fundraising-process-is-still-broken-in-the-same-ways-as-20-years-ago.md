@@ -47,5 +47,9 @@ related:
   - INS-260325-8290
   - INS-260327-A458
   - INS-260330-9346
+evidence:
+  - id: INS-260325-8290
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dalton describes how his own Series A experience 20 years ago (multi-month courtships, silent ghosting, flowery rejection emails) is identical to what founders report today. While YC revolutionized seed funding with SAFEs, angel ecosystems, and fast timelines, Series A remains a relationship-based game where investors string founders along with ambiguous signals. Any words that aren't 'yes' is a 'no' wrapped in garnishes. This creates massive psychic damage and time waste — founders spend months fundraising instead of building product, and failed fundraises create reputational damage that forces a 6-month cooldown period.

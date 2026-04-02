@@ -55,6 +55,13 @@ related:
   - INS-260325-B5EF
   - INS-260327-FB98
   - INS-260327-0105
+evidence:
+  - id: INS-260327-FB98
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0105
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Neuroscience research shows that heavy social media users have both hypersensitive reward pathways and underdeveloped prefrontal cortex with fewer neural connections between the cortex and reward centers. This means the technology is not merely taking advantage of immature self-control — it is actively preventing that self-control from developing.
 

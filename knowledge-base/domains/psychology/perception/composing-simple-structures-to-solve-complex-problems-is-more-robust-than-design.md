@@ -60,6 +60,10 @@ related:
   - PRI-260323-F193
   - INS-260330-B3DD
   - INS-260330-AB3E
+evidence:
+  - id: INS-260329-FAE2
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Throughout the data structures course, every advanced structure is built by composing simpler ones: priority queues use heaps, heaps use arrays, hash tables use arrays plus linked lists or probing sequences, and balanced BSTs augment basic BSTs with rotation rules. None of these advanced structures are designed from scratch — they layer proven primitives.
 

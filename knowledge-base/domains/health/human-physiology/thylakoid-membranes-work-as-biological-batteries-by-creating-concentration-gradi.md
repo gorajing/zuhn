@@ -54,6 +54,16 @@ related:
   - INS-260330-7FF3
   - INS-260330-7E39
   - INS-260330-2E41
+evidence:
+  - id: INS-260330-666E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-7FF3
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2E41
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The light-dependent reactions don't directly create usable energy. Instead, they charge the thylakoid membrane like a battery: protons from water-splitting and the cytochrome complex accumulate inside, creating a concentration gradient. Protons then push through ATP synthase (driven by their desire to equalize concentration), and that mechanical force packs inorganic phosphate onto ADP to create ATP.
 

@@ -65,6 +65,16 @@ related:
   - INS-260330-1953
   - INS-260330-6FDF
   - INS-260330-CAB3
+evidence:
+  - id: INS-260330-F76B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8BB4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A7C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Rayleigh-Plesset equation describes how bubbles underwater oscillate — expanding and collapsing repeatedly. During the collapse phase, the gas inside gets compressed so rapidly and to such extreme density that it can reach temperatures hotter than the surface of the sun, producing visible light in a phenomenon called sonoluminescence. This emerges from nothing more exotic than a bubble in water.
 

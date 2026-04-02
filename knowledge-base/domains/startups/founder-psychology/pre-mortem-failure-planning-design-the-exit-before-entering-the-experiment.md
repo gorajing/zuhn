@@ -61,6 +61,9 @@ evidence:
   - id: INS-260321-C3E6
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260328-0932
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video argues that since failure is around every corner when trying anything interesting, the smart move is to plan for failure before it happens. Before starting a new job, product, hobby, or relationship, give thought to three things: what you will do if it does not work out, how to minimize the downside, and what feedback mechanisms will tell you whether things are going well.
 

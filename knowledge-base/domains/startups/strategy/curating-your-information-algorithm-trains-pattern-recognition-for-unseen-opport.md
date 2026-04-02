@@ -56,6 +56,13 @@ stance: >-
   Deliberately changing what content platforms show you — your YouTube
   algorithm, your feeds — rewires your brain to notice opportunities others
   miss.
+evidence:
+  - id: INS-260322-5678
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-E41B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Oh frames the YouTube algorithm as a mirror of your thinking patterns: if you spend time thinking about food, the algorithm serves food content, reinforcing the loop. By deliberately changing what you consume — seeking out unfamiliar industries, emerging trends, competitor moves — you train both the algorithm and your own pattern recognition to surface opportunities.
 

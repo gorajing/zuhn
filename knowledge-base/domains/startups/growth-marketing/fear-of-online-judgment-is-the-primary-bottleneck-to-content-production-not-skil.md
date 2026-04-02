@@ -53,6 +53,10 @@ related:
 stance: >-
   Most people who aren't creating content are stopped by fear of negative
   comments from anonymous strangers, not by lack of ability or time.
+evidence:
+  - id: INS-260327-112B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Gary distinguishes between two valid reasons not to create content: genuine self-awareness that video isn't your format (which is fine — written content exists too), versus insecurity about public judgment. The latter is far more common and far more costly. His reframe is powerful: anonymous commenters who spend time leaving nastiness are in a deeply unhappy place, and the appropriate response is compassion, not defensiveness.
 

@@ -59,6 +59,10 @@ related:
   - INS-260330-E0A7
   - INS-260330-43E8
   - INS-260330-1296
+evidence:
+  - id: INS-260327-CB82
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When external auditory input drops to near zero, the brain's perceptual system compensates by increasing gain — the same mechanism that lets your eyes adjust to darkness. In an anechoic chamber, this means you begin hearing sounds that were always present but masked: clothing rustling, saliva moving, breathing. The viral claim that nobody can survive 45 minutes in silence conflates discomfort with psychosis. Derek Muller stayed over an hour with no distress, and the BYU acoustics team who work in the chamber daily confirm it's uncomfortable but not dangerous.
 

@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-B539
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-4C31
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Apple Silicon's M1 chip demonstrated that co-locating CPU, GPU, memory controller, ML engine, and I/O on a single die (system-on-chip) consistently outperforms Intel machines where each component is individually more powerful but physically separated on a motherboard. The energy and latency costs of shuttling data between discrete components overwhelm the raw capability advantage of each individual part.
 

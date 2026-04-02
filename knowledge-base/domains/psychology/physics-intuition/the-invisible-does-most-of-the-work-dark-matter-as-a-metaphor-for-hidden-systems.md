@@ -58,6 +58,13 @@ related:
 stance: >-
   Dark matter — invisible yet five times more abundant than visible matter —
   drove galaxy formation and scaffolds the universe, mirroring how invisib...
+evidence:
+  - id: INS-260330-8538
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-1F27
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Lisa Randall explains that dark matter carries five times the energy of visible matter and was the primary driver of galaxy formation. Ordinary matter merely 'came along' with the dark matter scaffolding. She compares it to the unseen workers who build a building while we focus on the architect.
 

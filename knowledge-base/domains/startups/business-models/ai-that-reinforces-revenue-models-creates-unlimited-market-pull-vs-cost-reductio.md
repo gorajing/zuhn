@@ -58,6 +58,13 @@ related:
 stance: >-
   Companies where AI reinforces the business model by driving revenue — not just
   cutting costs — see dramatically stronger market pull and adoption.
+evidence:
+  - id: INS-260328-D826
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-FDF5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 David Haber at a16z identifies a critical distinction: AI that reinforces a business model (driving revenue) versus AI that merely reduces costs. When AI drives revenue, there's no ceiling on how much customers want to adopt it.
 

@@ -54,6 +54,19 @@ related:
 stance: >-
   Python's dominance in AI comes from being the glue that composes disparate
   systems, creating a viral ecosystem cycle — not from the language itself.
+evidence:
+  - id: INS-260330-3EE4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B8C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-09DE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0C10
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Lattner identifies Python's killer feature as being a 'universal connector' — it brings together C libraries, CUDA kernels, web APIs, and data processing into one composable layer. TensorFlow and PyTorch embracing Python created a virtuous cycle: more users meant more packages, which attracted more users. The language's readability lowered barriers to entry while the ecosystem handled performance-critical paths in C/C++ underneath.
 

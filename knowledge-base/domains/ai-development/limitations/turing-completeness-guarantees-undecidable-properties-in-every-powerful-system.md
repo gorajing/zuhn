@@ -45,8 +45,8 @@ stance: >-
 related:
   - INS-260325-ED75
   - INS-260330-47E0
+  - INS-260402-9676
   - INS-260329-7C59
   - INS-260329-7BAF
-  - INS-260323-6944
 ---
 Turing proved that no algorithm can determine whether an arbitrary program will halt, and this undecidability is not a bug but a structural feature of computational power. Every Turing-complete system inherits this limitation: Wang tiles can't decide if they'll tile the plane, quantum many-body systems can't always determine their spectral gap, and Conway's Game of Life can't predict whether a pattern will stabilize. This has direct implications for AI: any sufficiently powerful AI system will face analogous undecidable questions about its own behavior. You cannot build a perfect meta-reasoner that can always predict what a powerful system will do, because that meta-reasoner would need to be at least as powerful, triggering the same self-referential paradox Turing exploited.

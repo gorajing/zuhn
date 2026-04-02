@@ -54,6 +54,13 @@ related:
   - INS-260330-8638
   - INS-260330-2E34
   - INS-260330-9484
+evidence:
+  - id: INS-260330-6828
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8638
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Byron Ferguson's ability to hit an aspirin tablet mid-flight seems like magic but rests on rigorous input normalization. He spine-tests every arrow, measuring its stiffness under a standardized 2-pound weight at 26 inches. Arrows outside tolerance go into a reject box — he simply won't shoot them. This ensures every arrow wobbles identically, making the wobble predictable rather than random.
 

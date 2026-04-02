@@ -51,6 +51,10 @@ related:
   - INS-260325-0FED
   - INS-260327-B5C9
   - INS-260329-B4F5
+evidence:
+  - id: INS-260402-543E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi's core argument inverts the standard productivity narrative. Instead of optimizing morning routines, stacking habits, or adding tools, he achieved his biggest business breakthrough by entering a 'season of no' — systematically removing everything non-essential. He changed his phone number, stopped attending events and masterminds, blocked all meetings before noon, and deleted social media from his phone.
 

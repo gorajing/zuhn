@@ -61,6 +61,10 @@ related:
   - INS-260328-D826
   - INS-260329-C7BF
   - INS-260330-6AC1
+evidence:
+  - id: INS-260330-6AC1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Josh Tobin contrasts two agent-building approaches: the common pattern of constructing a graph of operations with LLM nodes (where humans define the sequence of steps), versus end-to-end RL training where the model learns its own strategies. From his startup experience, he found that graph-based agents 'fall down pretty quickly in the real world' because you can't anticipate all scenarios, and the models aren't trained to make those specific node decisions.
 

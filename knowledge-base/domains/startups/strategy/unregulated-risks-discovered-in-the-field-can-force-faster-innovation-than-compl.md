@@ -53,5 +53,9 @@ related:
   - INS-260330-2CFA
   - INS-260330-B061
   - INS-260325-1709
+evidence:
+  - id: INS-260330-B061
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Existing EPA regulations only required monitoring bromate at ozone treatment plants. LA's filtration plant always passed. But a beverage company customer detected high bromate levels, leading to the discovery that chlorine + bromide + sunlight produced even more bromate than ozone did — a reaction outside any regulatory scheme. This created a unique urgency: there was no compliance timeline to hide behind, no industry-standard solution to copy, and reputational risk of being the utility that knowingly served carcinogenic water. This 'discovered risk' dynamic — where you find a problem nobody else is tracking — often drives faster and more creative problem-solving than mandated compliance, because there's no playbook and the stakes are immediate.

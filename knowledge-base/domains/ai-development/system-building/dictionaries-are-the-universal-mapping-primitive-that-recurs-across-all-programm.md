@@ -57,6 +57,13 @@ related:
   - INS-260329-D868
   - INS-260329-4F8C
   - INS-260329-1277
+evidence:
+  - id: INS-260329-8F86
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-D868
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial introduces dictionaries through a month-abbreviation converter (JAN → January), but the real insight is how pervasive this pattern is. JSON — the lingua franca of web APIs — is nested dictionaries. Database rows are key-value pairs. HTTP headers are dictionaries. Environment variables are dictionaries. Configuration files are dictionaries. Cache systems are dictionaries.
 

@@ -55,5 +55,9 @@ related:
   - INS-260327-5C91
   - INS-260330-5D64
   - INS-260325-5F3C
+evidence:
+  - id: INS-260330-5D64
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dr. Paul Conti argues that across all demographics, religions, and socioeconomic backgrounds, people who are genuinely happy share two traits: they approach life through agency (empowerment to navigate the world effectively) and gratitude (humility about one's place in a larger ecosystem). These aren't just feelings but emergent properties sitting atop healthy psychological infrastructure — the 'structure of self' (unconscious mind, conscious mind, defense mechanisms, character structure) and 'function of self.' This framework makes mental health as concrete and assessable as physical health: just as a doctor checks blood pressure and heart rate, a clinician can systematically examine each layer of the self to identify where dysfunction lives. The implication is revolutionary for self-assessment — instead of vague introspection, you can ask: Do I feel empowered? Do I feel genuine humility? If not, which layer of my psychological structure needs attention?

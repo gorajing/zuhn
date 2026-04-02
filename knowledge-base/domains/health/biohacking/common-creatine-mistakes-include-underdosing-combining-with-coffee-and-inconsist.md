@@ -43,5 +43,9 @@ related:
   - INS-260330-B1F6
   - INS-260327-BBE3
   - INS-260329-2865
+evidence:
+  - id: INS-260329-2865
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Most people take creatine wrong by underdosing (only 3-5g when 10-20g provides additional benefits), combining with coffee (impairs absorption), and skipping days (requires daily consistent loading)

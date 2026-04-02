@@ -56,6 +56,10 @@ related:
   - INS-260330-E2F5
   - INS-260325-8290
   - INS-260330-1B8A
+evidence:
+  - id: INS-260325-8290
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 George Washington's most important act wasn't winning the Revolution or leading the government — it was voluntarily stepping down after two terms. This established an unwritten norm that was more powerful than any law. Every subsequent president respected the two-term limit as precedent (until FDR, after which it was formalized as a constitutional amendment). Washington's self-restraint created the institutional character of American democracy.
 

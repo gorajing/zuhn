@@ -54,6 +54,13 @@ related:
   - INS-260329-35F2
   - INS-260329-3441
   - INS-260329-4D24
+evidence:
+  - id: INS-260329-D8F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4D24
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial demonstrates a critical principle by showing the progression from no error handling (program crashes) → generic catch (all errors handled identically) → specific typed catches (DivideByZeroException vs FormatException handled differently). This progression illustrates that robust systems require enumerating known failure modes and handling each appropriately.
 

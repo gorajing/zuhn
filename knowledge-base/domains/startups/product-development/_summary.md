@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 118 insights
+> 119 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -32,6 +32,7 @@
 - `INS-260323-EBC3` [high] Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to ophthalmology patients -- then revenue tripled annually.
 - `INS-260327-289F` [high] Gamma's competitive moat is design taste encoded into building blocks: AI generates 10 layout options and picks the best, but the building blocks themselves were crafted by a team that was one-third designers.
 - `INS-260330-AB3E` [high] Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
+- `INS-260402-0F36` [high] The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
 - `INS-260330-1282` [high] Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
 - `INS-260327-C569` [high] Enterprises are on the hook for outcomes — AI will evolve as composite systems with checks and balances, not the AGI monolith that media hypes.
 - `INS-260329-693E` [high] Use Expo for iOS development — it handles App Store Connect, bundle IDs, builds, and TestFlight submission with two commands.

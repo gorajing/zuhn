@@ -58,6 +58,25 @@ related:
   - INS-260325-6A35
   - INS-260327-2958
   - INS-260328-D26B
+evidence:
+  - id: INS-260325-7FE6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-B315
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-79BD
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-6A35
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2958
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-D26B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Leyden identifies four American reinvention cycles, each roughly 80 years apart: the founding era (1787-1810) that created constitutional democracy, the post-Civil War era (1865-1890) that built the transcontinental railroad and industrial base, the post-WWII era (1945-1970) that produced the interstate highway system, GI Bill, and Great Society, and the current moment (2025+).
 

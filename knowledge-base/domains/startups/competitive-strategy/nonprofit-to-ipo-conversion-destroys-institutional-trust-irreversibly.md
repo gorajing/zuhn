@@ -53,6 +53,10 @@ related:
   - INS-260330-8998
   - INS-260328-896B
   - INS-260329-5346
+evidence:
+  - id: INS-260328-896B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 OpenAI's pivot from nonprofit to shareholder-focused IPO candidate represents a case study in irreversible trust destruction. The original nonprofit structure was specifically designed to signal that AI development would prioritize safety over profit. Converting this structure to pursue one of the biggest IPOs in history contradicts the founding promise at a fundamental level.
 

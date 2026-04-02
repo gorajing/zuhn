@@ -44,10 +44,10 @@ resolutions:
     masquerading as sensitivity is actually a form of intellectual cowardice.
 related:
   - INS-260323-FAD5
+  - INS-260402-3639
   - INS-260330-45FF
   - INS-260323-B497
   - INS-260327-9BA2
-  - PRI-260323-C49D
   - INS-260327-D76A
 stance: >-
   The argument that a word is too powerful to study in academic contexts is

@@ -62,6 +62,10 @@ related:
   - INS-260326-2582
   - PRI-260328-9F8C
   - INS-260329-70F2
+evidence:
+  - id: INS-260326-2582
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Peterson traces a fascinating developmental arc: behavioral patterns (wolves submitting) → dramatic rituals (human sacrifice) → psychologized concepts (delayed gratification, parental sacrifice for children's education). The key insight is that this isn't just moral progress — it's a map of how humans developed abstract thought. We first acted out patterns with survival significance, then became self-conscious enough to represent those patterns as stories, then abstracted the stories into psychological principles.
 

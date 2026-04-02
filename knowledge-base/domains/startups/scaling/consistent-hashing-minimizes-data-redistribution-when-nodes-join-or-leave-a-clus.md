@@ -53,5 +53,9 @@ related:
   - INS-260325-1519
   - INS-260329-0B55
   - INS-260330-D475
+evidence:
+  - id: INS-260329-A8D3
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In a standard hash-based distribution (hash(key) % N), changing the number of nodes N causes nearly all keys to remap — catastrophic for caches and distributed databases. Consistent hashing solves this by mapping both nodes and data keys onto a circular hash space (hash ring). Each key is assigned to the nearest node clockwise on the ring. When a node is added, only keys between it and its predecessor need redistribution. When a node is removed, only its keys move to the next node. This means cluster size changes affect only a fraction (roughly 1/N) of the data. This is fundamental to systems like Cassandra, DynamoDB, and CDN edge routing. The tradeoff: consistent hashing adds algorithmic complexity but transforms scaling from a 'stop the world and redistribute everything' event into a smooth, incremental operation.

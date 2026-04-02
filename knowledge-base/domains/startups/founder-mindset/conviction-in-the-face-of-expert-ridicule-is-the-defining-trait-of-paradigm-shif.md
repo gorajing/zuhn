@@ -57,6 +57,10 @@ related:
 stance: >-
   Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing
   EUV lithography
+evidence:
+  - id: INS-260325-14DC
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Kinoshita presented his x-ray lithography results in 1986 and the audience 'refused to believe it,' calling it a 'big fish story.' Hawryluk, after presenting at a conference, was 'literally laughed off the stage' by every person he looked up to in the field. He told his boss 'I will never speak of it again.' Three days later, the Executive VP of AT&T called and invited him to present at Bell Labs.
 

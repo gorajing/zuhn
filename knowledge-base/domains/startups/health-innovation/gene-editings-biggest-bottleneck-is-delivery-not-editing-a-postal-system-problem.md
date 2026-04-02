@@ -54,6 +54,13 @@ related:
 stance: >-
   We can now precisely edit DNA like a text editor, but we still lack the postal
   system to deliver those edits to specific cell types inside the body.
+evidence:
+  - id: INS-260323-3657
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-133A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Doudna uses a powerful analogy: CRISPR gives us the ability to cut and paste DNA, but we are still inventing the postal system to deliver those edits. Different organs contain many cell types, and diseases like Alzheimer's affect only specific cells within the brain. Getting CRISPR molecules to exactly those cells — and not bothering others — requires understanding each cell type's surface 'zip code' molecules.
 

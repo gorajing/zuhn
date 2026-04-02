@@ -52,6 +52,10 @@ related:
   - INS-260323-2FC3
   - INS-260330-8AE8
   - INS-260330-F9FB
+evidence:
+  - id: INS-260330-8AE8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In the sphere-to-cylinder projection proof, rectangles near the poles get their width stretched enormously but their height squished by the same factor. These two effects cancel perfectly because both scaling ratios equal R/d (radius over distance from axis), arising from similar triangles sharing the same geometric structure.
 

@@ -56,10 +56,10 @@ related:
   - INS-260327-473D
   - INS-260402-D9D0
   - INS-260325-1EB3
-  - INS-260320-630D
   - INS-260327-A4E3
   - INS-260327-E6B0
   - INS-260327-FFB5
+  - INS-260330-CDE1
 ---
 Ritholtz exposes the financial media business model: they are not selling information, they are selling your attention to advertisers. This creates perverse incentives: sensational headlines, decontextualized scary numbers, and constant urgency that triggers exactly the evolutionary threat-response biases that destroy investment returns.
 

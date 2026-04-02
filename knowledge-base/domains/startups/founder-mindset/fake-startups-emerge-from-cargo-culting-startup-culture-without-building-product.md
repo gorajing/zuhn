@@ -50,10 +50,10 @@ stance: >-
   while never shipping a real product.
 related:
   - INS-260327-FCCF
+  - INS-260402-E2AF
   - INS-260323-C4E2
   - INS-260327-80A8
   - INS-260327-E2BC
-  - INS-260322-C472
 ---
 The cartoonish extreme of a fake startup: no code written, no product shipped, no customers, but the founders are on 30-under-30 lists and have raised money. It's performance art — Hamilton on stage versus actually being there. The reason Google worked wasn't the pastel-colored balls and free lunch; it was that they built a really good search engine.
 

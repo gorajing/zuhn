@@ -54,6 +54,10 @@ related:
   - INS-260329-DAC4
   - INS-260329-788F
   - INS-260327-415B
+evidence:
+  - id: INS-260323-5C6F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Technical founders often model themselves after mythologized versions of companies like Google or Stripe — believing these companies succeeded purely on product quality with zero marketing effort. This myth is dangerous because it gives founders permission to skip distribution entirely.
 

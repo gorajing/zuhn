@@ -58,5 +58,9 @@ related:
   - INS-260327-289F
   - PRI-260328-AC85
   - INS-260327-F4DB
+evidence:
+  - id: INS-260327-289F
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Both founders show revealing attitudes toward the threat from OpenAI and Anthropic. Anton (Lovable) is remarkably un-paranoid: even if a foundation model company launched a competing product, it would be inferior on first launch because building a full product/engineering platform takes thousands of iteration steps that can't be skipped. Mati (ElevenLabs) acknowledges competition will intensify on research, but argues the moat is product, platform, brand, design, and taste — which require deep focus that foundation model companies, spread across many domains, structurally can't match. The corollary of their spread is their lack of focus. This suggests that in AI, the defensibility formula is: deep vertical focus + rapid iteration velocity + taste > horizontal model superiority. The window may close eventually, but the iteration gap is real and compounding.

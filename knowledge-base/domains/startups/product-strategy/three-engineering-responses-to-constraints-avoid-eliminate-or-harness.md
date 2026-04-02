@@ -52,6 +52,10 @@ related:
   - INS-260330-181B
   - INS-260330-56E0
   - INS-260330-CED2
+evidence:
+  - id: INS-260330-BB53
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The video shows three distinct engineering responses to the same constraint (bow riser blocking the arrow path). Toy bows avoid the problem entirely with offset rails — simple but limited. Compound bows eliminate it with cut-out risers and drop-away rests — engineered and precise. Longbow archers harness the arrow's flex to snake around the obstruction — elegant but requiring deep mastery.
 

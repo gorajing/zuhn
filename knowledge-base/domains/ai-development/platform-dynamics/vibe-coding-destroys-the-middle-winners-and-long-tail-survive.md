@@ -58,6 +58,19 @@ related:
   - INS-260327-3B91
   - INS-260320-DEAF
   - INS-260330-D52B
+evidence:
+  - id: INS-260327-D0F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260328-58B1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-3B91
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-D52B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Naval argues that when anyone can code via AI, the app market follows the same pattern as Amazon (bookstores) and YouTube (TV networks): one or two giant aggregators at the head, a massive long tail of niche apps filling every conceivable need, and the destruction of medium-sized firms in between. The 5-10-20 person software companies that served enterprise niches get either vibe-coded away or absorbed by the lead app expanding its scope.
 

@@ -53,6 +53,13 @@ related:
   - PRI-260325-070D
   - INS-260325-8290
   - PRI-260328-7EA5
+evidence:
+  - id: INS-260325-8290
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-B6AF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Leyden observes that at every civilizational inflection point, the people most invested in the dying system resist change with existential intensity. The Civil War is the most extreme example: the South fought to the death rather than abandon slavery when the manufacturing economy demanded free labor. The 1930s America First movement resisted the New Deal transformation.
 

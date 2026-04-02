@@ -64,6 +64,10 @@ related:
 stance: >-
   Unlike traditional cloud infrastructure that gets abstracted away, AI models
   resist disintermediation because users and developers form both emotio...
+evidence:
+  - id: INS-260329-9BC0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The conventional wisdom was that models would be interchangeable like cloud infrastructure — swap one for another behind an abstraction layer. This hasn't happened, for two reasons:
 

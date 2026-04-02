@@ -57,6 +57,13 @@ related:
   - INS-260330-FD7C
   - INS-260330-E3C0
   - INS-260325-2999
+evidence:
+  - id: INS-260330-08E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-2999
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The critical design parameter in laser tattoo removal is not the energy of the pulse but its duration. A picosecond pulse (10^-12 seconds) selectively shatters ink particles because heat doesn't have time to diffuse from the particle surface to its core. A nanosecond pulse (10^-9 seconds) would heat surrounding tissue along with the ink, causing burns. A millisecond pulse would uniformly warm everything, destroying nothing selectively.
 

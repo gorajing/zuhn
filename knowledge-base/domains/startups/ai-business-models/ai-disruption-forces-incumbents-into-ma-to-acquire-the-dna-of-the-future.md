@@ -46,16 +46,16 @@ resolutions:
     capability gap between AI-native startups and traditional incumbents is
     difficult to bridge through organic development alone.
 related:
+  - INS-260402-E2AF
+  - INS-260402-CCF4
   - PRI-260328-5E58
   - INS-260327-A927
   - INS-260322-CFB1
-  - INS-260330-3FCF
-  - INS-260327-473D
   - INS-260323-CB34
   - INS-260327-3136
   - INS-260327-EFA6
   - INS-260327-ACB3
-  - INS-260328-02A0
+  - INS-260327-473D
 stance: >-
   AI threatens every incumbent company simultaneously, driving a wave of M&A as
   corporations acquire startups to reconstruct how they work rather tha...

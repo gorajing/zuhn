@@ -62,6 +62,16 @@ related:
 stance: >-
   AI programming tools have a unique competitive dynamic where every model
   improvement creates new product possibilities, making iteration speed the ...
+evidence:
+  - id: INS-260328-91A1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D570
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B533
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Cursor team argues that AI programming is unlike previous tech waves because capability improvements arrive continuously with each new model generation. Being even a few months ahead in implementing features for new model capabilities makes your product dramatically more useful. Microsoft with Copilot has done 'fantastic things' but can't innovate at startup speed.
 

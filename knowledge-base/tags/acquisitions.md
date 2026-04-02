@@ -11,3 +11,4 @@
 - `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260330-7ECB` Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
+- `INS-260402-CCF4` Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.

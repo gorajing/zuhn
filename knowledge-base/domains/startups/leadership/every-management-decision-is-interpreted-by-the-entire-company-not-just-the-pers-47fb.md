@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-3CD9
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260327-66AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Ben Horowitz argues that the single most common CEO failure is making decisions by only considering their own perspective and the affected person's perspective, while ignoring how the rest of the company will interpret the decision. A demotion that seems compassionate to the CEO and the demoted executive looks deeply unfair to engineers earning 0.1% equity when the demoted person retains 1.5%. A raise given to someone who asked feels like a betrayal to the better performer who didn't ask. Every decision sends a cultural signal to the entire organization, and leaders must discipline themselves to model that signal before acting.
 

@@ -59,6 +59,10 @@ related:
   - INS-260326-E411
   - INS-260327-9F46
   - INS-260327-C935
+evidence:
+  - id: INS-260327-5CB0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Napoleon's response to Aspern-Essling was a masterclass in failure analysis. He identified every specific failure point: the bridges were too fragile (solution: multiple solid bridges with upstream protection), the force was too small (solution: summon reinforcements from Italy and Germany), the crossing point was predictable (solution: feint crossings to create uncertainty). At Wagram six weeks later, every single weakness had been addressed.
 

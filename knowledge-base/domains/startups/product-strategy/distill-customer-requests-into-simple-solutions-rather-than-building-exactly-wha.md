@@ -62,6 +62,10 @@ related:
   - INS-260329-FCC6
   - INS-260329-F2BB
   - INS-260330-8890
+evidence:
+  - id: INS-260323-5CBE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Levie draws a critical distinction between listening to customers and building what they tell you to build. Enterprise customers will generate massive feature request lists, but the product team's job is to distill those requests down to the underlying problems and build the simplest solution. He cites Palantir as an example: they take enormously complex intelligence and defense problems and distill them into simple, usable software that customers would never have known how to request.
 

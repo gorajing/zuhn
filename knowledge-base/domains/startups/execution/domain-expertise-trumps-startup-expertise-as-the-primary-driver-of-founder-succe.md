@@ -52,10 +52,10 @@ stance: >-
   Florida LLC
 related:
   - INS-260329-8386
+  - INS-260402-0F36
   - INS-260330-B09B
   - INS-260327-80A8
   - INS-260330-59DC
-  - INS-260330-21CC
   - INS-260330-E881
 ---
 Graham argues that startup knowledge is not only unnecessary but 'possibly somewhat dangerous' because it enables founders to perform the motions of a startup without building something valuable. Zuckerberg's Florida LLC incorporation was a rookie mistake, but it didn't matter because he understood his users deeply. Similarly, Airbnb's founders succeeded not through tech expertise but through design skill and ability to organize people.

@@ -46,5 +46,9 @@ related:
   - INS-260330-36DB
   - INS-260322-5678
   - PRI-260328-5F64
+evidence:
+  - id: INS-260322-5678
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dalton draws a direct parallel between mobile and AI disruption. Despite seeming best-positioned, none of the winning YC mobile companies were built by founders who worked on mobile before the iPhone. The same pattern applies to AI: existing SaaS companies with real revenue know they will be disrupted but cannot bring themselves to cannibalize what is working. Starting from scratch eliminates this tension entirely. Dalton frames his own VC firm as applying this lesson — rather than grafting AI onto YC's existing model, he started Standard Capital as an AI-native investment operation.

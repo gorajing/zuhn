@@ -59,6 +59,10 @@ related:
   - INS-260330-3748
   - INS-260325-3AE4
   - INS-260330-CF99
+evidence:
+  - id: INS-260325-3AE4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Sam Harris describes how his extensive meditation training helped him during a 5-gram psilocybin trip by enabling him to surrender to the experience through cutting through the sense of self. However, he emphasizes that at peak intensity, there was no recollection that mindfulness was even an option — the experience completely overwhelms all intentional practice.
 

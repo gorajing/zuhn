@@ -50,6 +50,13 @@ related:
 stance: >-
   Continuous 5.5-second nasal inhale/exhale cycles for 10-20 minutes resets the
   nervous system and produces deep relaxation comparable to a muscle re...
+evidence:
+  - id: INS-260322-E90F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B64
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Heart Rate Variability breath practice involves breathing through the nose only — inhale for 5.5 seconds, immediately exhale for 5.5 seconds, with no pause between cycles. Continue for 10-20 minutes. The key is the continuous rhythm with no gaps between inhale and exhale.
 

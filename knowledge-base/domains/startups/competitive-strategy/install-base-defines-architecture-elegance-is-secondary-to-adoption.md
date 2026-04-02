@@ -52,6 +52,13 @@ related:
   - PRI-260328-DD90
   - INS-260329-92FC
 stance: The install base is the single most important factor for a computing platform
+evidence:
+  - id: INS-260329-A461
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-92FC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Jensen explains NVIDIA's decision to put CUDA on every GeForce GPU, even though it consumed all gross profit and crashed their market cap from $8B to $1.5B. The reasoning: developers only come to platforms with large install bases. Many beautifully designed RISC architectures failed while x86 — widely criticized as inelegant — dominated because of its install base.
 

@@ -64,6 +64,13 @@ related:
   - INS-260330-2CFA
   - INS-260330-EACA
   - INS-260330-0E77
+evidence:
+  - id: INS-260330-B061
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-BA7F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Photosynthetic organisms created the oxygen-rich atmosphere through their own light-dependent reactions. This success directly undermined their carbon fixation mechanism — RuBisCo evolved in low-oxygen conditions and now confuses O2 for CO2 roughly half the time, producing toxic phosphoglycolate that must be broken down through additional enzymatic pathways. Plants compensate by producing massive quantities of RuBisCo and maintaining low oxygen levels inside leaves (which is why stomata regulation matters).
 

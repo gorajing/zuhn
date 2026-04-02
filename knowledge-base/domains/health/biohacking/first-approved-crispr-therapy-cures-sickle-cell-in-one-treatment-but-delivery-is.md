@@ -54,6 +54,16 @@ related:
 stance: >-
   Casgevy, the first FDA-approved CRISPR therapy, effectively cures sickle cell
   disease in a single treatment, but requires hospitalization and bone ...
+evidence:
+  - id: INS-260325-07FA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-1AB9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-EC93
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Victoria Gray became the first US patient to receive a CRISPR-based sickle cell treatment. The therapy activates fetal hemoglobin production, suppressing the disease-causing mutation. Patients who have received it have not had another sickle cell crisis since treatment — a life-transforming result.
 

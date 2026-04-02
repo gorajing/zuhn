@@ -55,5 +55,9 @@ related:
   - INS-260325-040F
   - INS-260327-F7C0
   - INS-260327-0D0B
+evidence:
+  - id: INS-260325-040F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Traditional SaaS charges per seat per month. But when AI agents do the work, there are no human seats to count. Bret Taylor (former Salesforce co-CEO, now CEO of Sierra) identifies the emerging pricing models: 1) Per-outcome pricing (charge per successful resolution, not per agent), 2) Per-action pricing (charge per task completed — invoice processed, email drafted, ticket resolved), 3) Value-share pricing (take a percentage of measurable value created). This mirrors the Ramp insight: their AI agent strategy specifically measures ROI per automated task. The transition is painful for incumbents because their revenue models depend on headcount growth at customer companies — AI agents shrink headcount. New entrants building AI-native products can price on outcomes from day one.

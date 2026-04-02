@@ -59,6 +59,31 @@ related:
   - INS-260330-FE65
   - INS-260330-FED6
   - INS-260330-8C80
+evidence:
+  - id: INS-260322-3DE2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-4CBB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-EA3A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-95EF
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4824
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FE65
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FED6
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-8C80
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 On a linear scale, exponential growth appears as a hockey stick where early stages look flat and late stages look vertical — both phases are equally uninformative for decision-making. A logarithmic scale fixes this by converting the exponential into a straight line whose slope equals the growth rate.
 

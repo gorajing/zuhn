@@ -59,6 +59,16 @@ related:
   - INS-260323-D7D0
   - INS-260327-7B16
   - INS-260330-6C3D
+evidence:
+  - id: INS-260327-2021
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-D7D0
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6C3D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Most people fixate on chronological age, but this number only matters because it correlates with biological aging -- the actual degradation of cellular and molecular systems. The critical insight is that biological aging rate varies enormously: two 50-year-olds can have dramatically different biological ages. A 10-year-old dog and 10-year-old human illustrate the same principle across species.
 

@@ -59,6 +59,10 @@ related:
   - INS-260330-8A65
   - INS-260329-7F02
   - PRI-260325-45A2
+evidence:
+  - id: INS-260330-8A65
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Wordle solver's biggest performance jump came not from better search algorithms but from replacing uniform word probabilities with a sigmoid function applied to word frequency rankings. The approach was surprisingly informal — the creator 'licked his finger and stuck it into the wind' to set the sigmoid cutoff point. Yet this rough prior, which merely separated 'plausible answers' from 'obscure words,' dropped the average from 4.124 to 3.6 guesses.
 

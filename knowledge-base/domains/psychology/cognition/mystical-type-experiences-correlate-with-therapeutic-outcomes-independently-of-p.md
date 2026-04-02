@@ -64,6 +64,22 @@ related:
   - INS-260330-1384
   - INS-260330-A5B0
   - INS-260330-81B1
+evidence:
+  - id: INS-260327-B987
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-3AFE
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-3AE4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-6576
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A5B0
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Across multiple Johns Hopkins studies, the degree to which participants report mystical-type experiences — unity, transcendence of time and space, sacredness, noetic quality — is the strongest predictor of positive therapeutic outcomes, even after controlling for dose. Two people receiving identical doses can have vastly different therapeutic results depending on the depth of their subjective experience.
 

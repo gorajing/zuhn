@@ -54,6 +54,10 @@ related:
   - INS-260402-C664
   - INS-260402-AA3F
   - INS-260402-3DBF
+evidence:
+  - id: INS-260327-680A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham identifies empathy as 'probably the single most important difference between a good hacker and a great one.' Many smart hackers are practically solipsists who cannot design great software because they cannot see things from the user's perspective. Users approach software with no preparation and will not read manuals — the software must do what they guess it will do. The original Macintosh succeeded precisely because it embodied this principle.
 

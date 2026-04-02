@@ -55,6 +55,10 @@ related:
   - INS-260329-8F98
   - INS-260321-807B
   - INS-260327-FDF4
+evidence:
+  - id: INS-260327-30E4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Krieger identifies two common mistakes in AI application building. First, products that add AI as a secondary surface (sidebar, chatbot) find it increasingly hard to make that surface full-featured as capabilities go agentic. Second, 'a shocking number of AI-native products don't expose the primitives of the application to the models enough' -- when a user asks something and gets 'sorry I can't do that,' it's because the model was never given access to that capability.
 

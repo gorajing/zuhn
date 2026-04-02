@@ -62,5 +62,11 @@ evidence:
   - id: INS-260330-F493
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-9FCF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-2EC0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown emphasizes that exponential models are only accurate in the early phase before saturation effects kick in. In epidemics, the 'susceptible pool' shrinks as more people get infected or change behavior, bending the exponential into a logistic curve. This S-curve mental model applies broadly: technology adoption follows S-curves (innovators → early adopters → mainstream → laggards), market penetration saturates, viral content peaks, and even personal skill acquisition shows diminishing returns. The critical practical question is never 'is this exponential?' but 'where on the logistic curve are we?' Being in the early steep phase means explosive growth ahead; being near the inflection point means growth is about to decelerate. Misidentifying your position on the S-curve leads to either complacency (early phase) or over-extrapolation (near saturation).

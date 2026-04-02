@@ -55,5 +55,9 @@ related:
   - INS-260330-E107
   - INS-260330-4D81
   - INS-260330-2304
+evidence:
+  - id: INS-260330-B360
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Huberman argues that the brain only changes when it encounters friction — when something is difficult. Before each meditation session, assess whether you naturally gravitate toward interoception (body awareness, eyes closed) or exteroception (external focus, eyes open). Then deliberately practice the opposite. If you're stuck in your head with looping thoughts, do an eyes-open external-focus meditation. If you're scattered and externally distracted, do a breath-focused internal meditation. This counterintuitive approach pushes against your default mode network rather than reinforcing it, creating the challenge signal that triggers neuroplasticity. The implication extends beyond meditation: any cognitive training is most effective at the edge of difficulty, not in the comfort zone.

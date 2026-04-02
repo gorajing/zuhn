@@ -63,5 +63,9 @@ related:
   - INS-260330-8BF6
   - INS-260330-F82A
   - INS-260330-D4CC
+evidence:
+  - id: INS-260330-68C8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Plants evolved RuBisCo when CO2 was abundant and oxygen was scarce. The enzyme wasn't great at carbon fixation, but it was better than nothing, so organisms compensated by producing massive quantities. Today there are an estimated 40 billion tons of RuBisCo on Earth — it's likely the most abundant protein on the planet. The parallel to technology and business is striking: early-stage companies often adopt 'good enough' solutions (languages, architectures, vendor contracts) and compensate for their limitations by building extensive tooling and workflows around them. By the time better alternatives emerge, the switching cost exceeds the performance gap. This is why legacy systems persist for decades — not because they're good, but because the organism (or organization) has built its entire metabolism around them. The lesson isn't to avoid commitment, but to recognize that the moment you scale a mediocre solution, you're likely stuck with it forever.

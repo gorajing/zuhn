@@ -41,13 +41,11 @@ stance: >-
   For deals above $10K, customers will always want to talk to a human before
   purchasing — product-led growth alone cannot close these deals.
 related:
-  - INS-260320-39A3
   - INS-260327-C083
   - INS-260329-27DF
   - PRI-260327-942E
   - INS-260330-C5FD
   - INS-260329-C36D
   - INS-260329-67D1
-  - INS-260330-0145
 ---
 Xiaoyin learned through painful trial that her virtual events platform needed a fundamentally different sales approach than she initially planned. With deals ranging $5K-$30K, customers refused to just pay by credit card — they needed at least one call. She initially tried product-led growth but discovered enterprise conference organizers needed trust-building conversations. The key insight: match your sales motion to your deal size. High-volume mid-market ($5K-$30K) needs inbound SDRs who can close in 3 calls, not enterprise AEs who cultivate Fortune 500 relationships over golf games.

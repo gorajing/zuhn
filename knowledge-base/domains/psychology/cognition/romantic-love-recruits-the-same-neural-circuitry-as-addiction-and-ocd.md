@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-10AA
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260327-E6FE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Gail Saltz describes the neurochemical profile of romantic love: dopamine surges (identical to the reward pathway activated by cocaine, producing addiction-like craving), serotonin changes (matching patterns seen in OCD, producing obsessive rumination about the partner), oxytocin release (especially post-orgasm, creating intense bonding), and vasopressin changes (elevating stress). The result is a cocktail that makes you simultaneously obsessed, addicted, bonded, and stressed.
 

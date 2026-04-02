@@ -59,6 +59,19 @@ related:
   - INS-260330-C607
   - INS-260330-656A
   - INS-260330-C7C2
+evidence:
+  - id: INS-260330-BA7F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-956F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-57E6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D070
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Photosynthesis evolved to produce ATP and NADPH for carbon fixation. Oxygen was literally waste — the leftover from splitting water molecules to replace electrons lost by chlorophyll. Early Earth organisms had no use for it; in fact, the Great Oxidation Event killed most anaerobic life. Yet this 'waste' product became the single most important atmospheric component for complex life.
 

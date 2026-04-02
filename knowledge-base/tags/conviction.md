@@ -2,8 +2,8 @@
 
 - `INS-260323-3F11` The Cursor founders saw the 2020 scaling laws papers as predictable progress, but early GPT-4 access in late 2022 made the theoretical gains concrete enough to bet their careers.
 - `INS-260327-F95F` When you can send Claude Code a TechCrunch article and get a working clone in an hour, the temptation to constantly pivot becomes almost irresistible — and that's exactly how startups die.
-- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course.
+- `INS-260322-06EA` Every round of Facebook, Stripe, and similar companies was called 'insane' by consensus — Yuri Milner invested at $5B because he'd run a social network and could do math others couldn't.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260329-4DBC` Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth.
 - `INS-260323-2F50` Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
@@ -13,10 +13,10 @@
 - `INS-260327-2F78` Learn to distinguish real conviction from stubbornness—the difference determines if you succeed or waste years.
 - `INS-260327-7F11` The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
 - `INS-260327-2520` Arora didn't even know cybersecurity was one word when he joined Palo Alto, but succeeded by learning furiously while projecting calm conviction — like a duck, serene on top but paddling furiously underneath.
+- `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
 - `INS-260330-5A82` Phil Knight failed at selling encyclopedias but effortlessly sold running shoes because customers sensed his genuine conviction in the product's superiority.
 - `INS-260329-2B04` Deep conviction in what you sell transfers more powerfully than any closing technique because prospects can sense authenticity and it makes the seller immune to rejection streaks.
 - `INS-260327-52C1` Sales is passing conviction from one person to another -- a convicted salesperson naturally sounds right, while even perfect technique rings hollow without genuine belief.
 - `INS-260329-4A96` Instead of training salespeople on tonal techniques, build their genuine conviction in the product — correct tone follows automatically.
 - `INS-260329-EF96` True conviction that the product helps people creates involuntary tonal authority that prospects detect and respond to, independent of the words spoken.
 - `INS-260327-5688` Sales is 80% the conviction of your voice and energy when discussing your product -- people buy your eyes, your passion, and your belief before they buy features.
-- `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.

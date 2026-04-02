@@ -63,6 +63,10 @@ related:
   - INS-260330-DE2B
   - INS-260330-760D
   - INS-260330-EEA9
+evidence:
+  - id: INS-260325-FDF5
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Levie initially feared the traditional enterprise sales model (hiring 'Chucks' with briefcases) but learned that consumer DNA and sales work together, not as alternatives. The shift from IT-led to user-led enterprise adoption — driven by mobile devices and cloud computing — means startups can get into enterprises through individual users on sales, marketing, or engineering teams. This bottom-up adoption is the initial wedge.
 

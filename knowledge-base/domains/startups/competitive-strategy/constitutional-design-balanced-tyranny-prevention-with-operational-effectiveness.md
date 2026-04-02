@@ -61,6 +61,10 @@ related:
   - INS-260330-AB58
   - PRI-260328-37D8
   - INS-260330-3C4C
+evidence:
+  - id: INS-260330-AB58
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Constitutional framers faced a sophisticated design problem: the Articles failed because government was too weak, but they also feared creating a new tyranny. Their insight was that tyranny can come from two directions — an autocratic government or an unchecked democratic majority redistributing property. The solution was structural: separation of powers (three branches checking each other), federalism (national vs state authority), and democratic dampening (Electoral College, appointed Senate, staggered terms).
 

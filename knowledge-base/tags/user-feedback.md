@@ -1,6 +1,7 @@
 # Tag: user-feedback
 
 - `INS-260327-2718` A thousand complaints from dedicated users is healthier than silence or universal satisfaction.
+- `INS-260402-2632` Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - `INS-260330-83D5` Support staff who can interrupt developers with live bugs become the most effective QA and product intelligence system.
 - `INS-260322-58B7` Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
 - `INS-260402-E85D` The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously.

@@ -55,6 +55,10 @@ related:
   - INS-260323-5CBE
   - INS-260322-683B
 stance: Successful brands ask fundamental questions and act fast on answers
+evidence:
+  - id: INS-260323-5CBE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kwak observes a clear pattern from 13 years of working with brand CEOs: successful companies ask very fundamental questions — 'I want to do X, what do I need?' When those same companies hit a turning point toward failure, the CEO has already decided the method and dictates it. The moment questions stall — when leaders are too certain of the answer to listen — it's a warning signal equivalent to platform-level alerts.
 

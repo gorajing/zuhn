@@ -46,5 +46,15 @@ related:
   - INS-260330-0C31
   - INS-260327-AD25
   - INS-260330-2F9F
+evidence:
+  - id: INS-260330-9E25
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-17C3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0C31
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Breaking addictive patterns requires 30-90 days of abstinence to upregulate depleted dopamine receptors, supported by B vitamins, zinc, omega-3s, and exercise to rebuild neurotransmitter production capacity

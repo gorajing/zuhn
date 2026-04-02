@@ -54,5 +54,9 @@ related:
   - INS-260320-7B4B
   - INS-260329-B408
   - INS-260329-F886
+evidence:
+  - id: INS-260330-CCF0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 CS50 demonstrates this with linked lists vs arrays: arrays give O(1) random access but can't grow dynamically; linked lists can grow freely but require extra memory for pointers and lose random access (O(n) lookup). The tradeoff is universal: caching trades memory for speed, compression trades CPU for storage, indexes trade write speed for read speed, denormalization trades storage for query performance. This mental model applies far beyond code — in business, hiring more people (space/cost) saves time, while being scrappy (less capital) costs time. The key insight is that there's rarely a 'best' solution — only the best tradeoff for your specific constraints. Experts don't eliminate tradeoffs; they identify which resource is cheapest to sacrifice in their context.

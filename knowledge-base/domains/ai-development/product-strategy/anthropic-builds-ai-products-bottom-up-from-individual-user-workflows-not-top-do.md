@@ -60,5 +60,27 @@ related:
   - INS-260323-0539
   - INS-260323-C90C
   - INS-260323-76B8
+evidence:
+  - id: INS-260330-760D
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-24A5
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260323-FEDF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-FCFC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-0539
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-C90C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-76B8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Mike Krieger (who built Instagram to 2B users) applies consumer product thinking to AI: observe how individuals actually use Claude, identify friction points and unmet needs, then build features that remove friction at the individual level. Enterprise sales follow naturally when enough individuals within an organization adopt the tool. This is the opposite of traditional enterprise software (build to a buyer's checklist, sell top-down). Key insight: in AI, the product experience IS the go-to-market — if individual users love it, they pull the product into their organizations. This explains Claude's growth pattern and aligns with Lovable's pure word-of-mouth growth to $36M ARR.

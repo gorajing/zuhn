@@ -51,6 +51,19 @@ related:
   - INS-260330-E68E
   - INS-260330-ED37
   - INS-260330-D4CC
+evidence:
+  - id: INS-260330-F82A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E68E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-ED37
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-D4CC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Homeostasis — the maintenance of stable internal conditions — is the single unifying requirement for life. Blood pressure, oxygen delivery, temperature, nutrient balance, and waste removal must all stay within narrow ranges. When any of these systems fails beyond recovery, the cascade is identical: cells lose access to energy processing, and death follows.
 

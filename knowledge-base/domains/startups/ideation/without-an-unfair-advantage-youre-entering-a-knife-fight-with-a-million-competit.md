@@ -47,7 +47,6 @@ resolutions:
     alone against a crowded field.
 related:
   - INS-260321-C5AA
-  - INS-260323-3BA4
   - INS-260323-0C3A
   - INS-260329-560D
   - INS-260323-8AA1
@@ -56,6 +55,7 @@ related:
   - INS-260322-750A
   - INS-260327-0F42
   - INS-260327-CECA
+  - INS-260327-10E0
 stance: >-
   Productivity apps are beginner-friendly to build but impossible to win because
   everyone else had the same idea
@@ -65,6 +65,9 @@ evidence:
     classified_at: '2026-04-02'
   - id: INS-260329-560D
     type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-460D
+    type: EXTENDS
     classified_at: '2026-04-02'
 ---
 Internet Made Coder's retrospective is blunt: productivity apps are where beginners tinker because the problem is obvious and the solution is approachable. That's precisely why there are 'a million bazillion productivity tools' — low barrier to entry means maximum competition. His next startup will only be in an area where he has personal domain expertise that gives him an unfair advantage.

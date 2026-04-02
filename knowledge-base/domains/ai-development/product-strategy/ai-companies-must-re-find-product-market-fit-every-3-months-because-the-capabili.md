@@ -53,5 +53,24 @@ related:
   - INS-260322-3E59
   - INS-260327-0E86
   - INS-260329-3E28
+evidence:
+  - id: INS-260325-17BF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C0E2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-6F89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-3E59
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0E86
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-3E28
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Elena Verna, head of growth at Lovable ($200M ARR in under a year with 100 employees), argues the traditional growth playbook is completely rewritten for AI. 60-70% of traditional growth tactics no longer apply. The core insight: product-market fit in AI is not a milestone you reach — it is a treadmill you run on. The capability frontier shifts so fast that you must re-find PMF every 3 months. Lovable focuses on innovation over optimization, has shifted activation responsibility to product teams (not growth teams), and uses free product access as their most powerful growth strategy. The 'minimum lovable product' replaces 'minimum viable product' as the standard.

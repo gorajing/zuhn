@@ -48,6 +48,10 @@ resolutions:
 stance: >-
   Sequential processing with queue-based skip logic is essential for respecting
   API rate limits
+evidence:
+  - id: INS-260330-3EFC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 When building n8n workflows that call external APIs (transcript

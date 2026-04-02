@@ -55,6 +55,13 @@ related:
   - INS-260329-35F2
   - INS-260329-3FC9
   - INS-260329-3441
+evidence:
+  - id: INS-260326-BF32
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-DABC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial demonstrates how unhandled exceptions (like converting non-numeric user input to an integer) crash the entire program. Try-catch blocks don't prevent the error — they intercept it and give the developer a chance to respond gracefully. The tutorial shows catching FormatException specifically when user input doesn't match expected types.
 

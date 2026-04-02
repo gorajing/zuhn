@@ -51,9 +51,9 @@ related:
   - INS-260323-6C84
   - INS-260322-5650
   - INS-260322-3646
+  - INS-260402-2632
   - INS-260330-CB30
   - PRI-260321-14D8
-  - INS-260327-8D5D
   - INS-260327-0C56
 ---
 Anderson describes the critical fork in the road as companies scale from 100 to 1,000 employees: do you make managers responsible for performance management, or do you draw on peer feedback? Choosing managers means choosing hierarchy. His model: with 25-50 direct reports per manager, traditional performance management is physically impossible. Instead, every 90 days, people get feedback from whoever they worked with most. Rating is simple: 1 means great job, 2 means off the charts, 0 means concerns. No annual reviews, no goals set by managers, no performance plans. End-of-year assessment happens in peer review sessions, not boss-to-subordinate meetings. The underlying philosophy: almost everyone is capable of missionary zeal — the question is whether you create an environment where that's normal, or one where you'd have to be weird to actually go all-in.

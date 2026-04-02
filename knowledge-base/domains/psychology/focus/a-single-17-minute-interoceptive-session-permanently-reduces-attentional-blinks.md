@@ -59,6 +59,19 @@ related:
   - INS-260329-A9C0
   - INS-260330-E823
   - INS-260330-EC0F
+evidence:
+  - id: INS-260327-FD92
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-EC0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-7D2E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A9C0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Attentional blinks are moments when the brain shuts off perception after detecting a target—like finding Waldo and then being unable to spot a second target right next to it. People with ADHD experience far more attentional blinks than average, and they increase with age as part of cognitive decline.
 

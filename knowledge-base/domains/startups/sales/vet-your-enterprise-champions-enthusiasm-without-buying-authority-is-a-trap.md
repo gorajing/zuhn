@@ -60,9 +60,9 @@ stance: >-
 related:
   - INS-260327-978B
   - INS-260327-D5CC
+  - INS-260402-0F36
   - INS-260323-DE2B
   - INS-260327-18D4
-  - INS-260327-FCCF
 ---
 In SMB, finding an enthusiastic champion who will test your product and show leadership what they've built is a winning strategy. In enterprise, the same approach can backfire catastrophically. The video describes a scenario where an ambitious mid-level person runs a demo, builds a proof of concept on their own, then goes to their CTO at a 40,000-person company and says 'I've been working on this for two months.' The CTO's response: 'Why were you working on this instead of your assigned projects? This wasn't approved by security and compliance. Stay in your lane.'
 

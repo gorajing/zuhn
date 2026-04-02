@@ -49,7 +49,7 @@ related:
   - INS-260327-D6C5
   - INS-260325-75C5
   - INS-260329-3FF3
-  - INS-260323-7D01
+  - INS-260402-7FCC
 ---
 Every business decision from hiring to building warehouses requires assumptions about the future. When tariffs are announced, cancelled, re-announced, raised, lowered, exempted, un-exempted, and litigated in rapid succession, businesses freeze. This uncertainty paralysis is often worse than simply implementing bad policy consistently, because at least consistent bad policy allows adaptation.
 

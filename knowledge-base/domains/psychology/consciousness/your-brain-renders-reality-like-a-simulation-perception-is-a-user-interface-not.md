@@ -59,6 +59,9 @@ evidence:
   - id: INS-260325-0E70
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-F21D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Donald Hoffman's user interface theory describes perception as an evolutionary design meant for survival rather than accuracy. Your senses do not reveal reality — they hide it behind icons useful enough to keep you alive. The brain processes billions of signals per second, sorting chaos into order and randomness into patterns, translating everything into a 3D hallucination that is just consistent enough to work.
 

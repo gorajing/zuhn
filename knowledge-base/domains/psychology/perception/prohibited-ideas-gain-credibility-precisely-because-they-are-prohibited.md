@@ -46,7 +46,6 @@ stance: >-
   and appeal.
 related:
   - INS-260323-EF23
-  - INS-260325-AC52
   - INS-260325-36F0
   - INS-260325-0147
   - INS-260327-80DC
@@ -55,6 +54,7 @@ related:
   - INS-260322-E06A
   - INS-260323-7C0E
   - INS-260322-A61A
+  - INS-260326-B10B
 evidence:
   - id: INS-260323-EF23
     type: SUPPORTS

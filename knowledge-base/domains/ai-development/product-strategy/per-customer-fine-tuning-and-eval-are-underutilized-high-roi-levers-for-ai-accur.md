@@ -62,6 +62,10 @@ related:
   - INS-260329-D357
   - INS-260329-F854
   - INS-260329-7F02
+evidence:
+  - id: INS-260327-0700
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Crosby's engineering team argues that the AI industry undervalues per-customer customization. Foundation models reach 90% accuracy almost for free on most tasks, but the gap from 90% to 99% (let alone 99.99%) is where the real product value lies. For enterprise customers with high ACVs, investing in customer-specific fine-tuning, custom evals, and tailored prompting delivers outsized returns.
 

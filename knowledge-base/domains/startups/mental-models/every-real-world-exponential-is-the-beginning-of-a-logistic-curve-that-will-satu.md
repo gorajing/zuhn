@@ -62,6 +62,10 @@ related:
   - INS-260330-FF5B
   - INS-260330-FED6
   - INS-260330-8817
+evidence:
+  - id: INS-260330-FF5B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The logistic curve is indistinguishable from a pure exponential during its early phase, but it eventually hits an inflection point where growth shifts from accelerating to decelerating, then levels off at some saturation limit. The inflection point occurs when you've reached roughly half the total addressable capacity — at that moment, the number of new additions per period maxes out and begins declining.
 

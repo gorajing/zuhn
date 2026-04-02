@@ -61,5 +61,8 @@ evidence:
   - id: INS-260323-03F4
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260329-2F63
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Baxley distinguishes between software-as-tool (purely functional, optimized for efficiency) and software-as-medium (expressive, crafted to create human connection). He notes that AI tools like ChatGPT produce impressive results but have never 'touched him at a human level' the way great software design has. This philosophy comes from Apple's DNA — the company was founded on making personal computing transformative for individuals, not organizations. The implication for founders is that technical capability alone doesn't create lasting products; emotional resonance requires treating software as a creative medium.

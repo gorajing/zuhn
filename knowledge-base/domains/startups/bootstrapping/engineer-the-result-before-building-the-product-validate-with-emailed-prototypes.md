@@ -46,9 +46,9 @@ resolutions:
 related:
   - INS-260320-105E
   - PRI-260323-8EEA
+  - INS-260402-2632
   - INS-260329-1ECA
   - PRI-260326-12C6
-  - PRI-260321-14D8
 stance: >-
   Opus Clip validated by manually engineering final video outputs and emailing
   them to potential customers, getting 60% positive feedback before writ...

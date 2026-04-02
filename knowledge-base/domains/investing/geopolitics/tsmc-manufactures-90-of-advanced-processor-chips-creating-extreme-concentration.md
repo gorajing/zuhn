@@ -60,6 +60,16 @@ related:
   - PRI-260328-06F1
   - INS-260330-A418
   - INS-260330-4C31
+evidence:
+  - id: INS-260325-BB13
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-76BD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4C31
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Taiwan Semiconductor Manufacturing Company produces approximately 90% of the world's most advanced processor chips — the chips in smartphones, computers, and AI training systems. This concentration has deepened because cutting-edge fabs cost $20 billion each, creating massive economies of scale that reward the largest producer. TSMC is both the largest and most advanced chipmaker precisely because it gathers more manufacturing data than anyone else.
 

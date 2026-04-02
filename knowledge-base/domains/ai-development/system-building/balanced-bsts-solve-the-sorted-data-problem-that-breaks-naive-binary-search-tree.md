@@ -53,5 +53,12 @@ related:
   - INS-260330-FCFA
   - INS-260330-CAE6
   - INS-260325-E23D
+evidence:
+  - id: INS-260329-8D70
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FCFA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 A naive BST degenerates to a linked list with O(n) operations when data arrives sorted or nearly sorted — which happens constantly in practice (timestamps, sequential IDs, alphabetical data). AVL trees solve this with rotation operations that maintain O(log n) height, at the cost of slightly slower insertions. The broader lesson is about defensive design: any data structure whose performance depends on input distribution needs a mechanism to handle adversarial or degenerate inputs. This applies beyond trees — hash tables need good hash functions to avoid clustering, skip lists need randomization, and distributed systems need load balancing. The pattern is: identify the degenerate case, then build in a mechanism that prevents it regardless of input characteristics.

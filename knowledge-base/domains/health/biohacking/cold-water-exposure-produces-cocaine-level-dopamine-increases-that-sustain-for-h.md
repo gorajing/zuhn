@@ -57,5 +57,18 @@ related:
   - INS-260330-0C31
   - INS-260330-9E25
   - INS-260330-968D
+evidence:
+  - id: INS-260327-6570
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0C31
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9E25
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-968D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 A study in the European Journal of Applied Physiology measured dopamine responses to water immersion at different temperatures. At 14°C (57°F), dopamine rose gradually to 250% above baseline — comparable to cocaine's peak — but unlike cocaine, this elevation sustained for up to three hours with a slow return to baseline rather than a crash below it. The mechanism appears to work through the norepinephrine pathway into the mesolimbic brainstem. This makes cold exposure unique among dopamine-increasing interventions: it raises the actual baseline rather than creating a spike-and-trough. Huberman notes the adrenaline response is immediate but the dopamine response builds gradually over 10-15 minutes of immersion. The key safety consideration is avoiding water cold enough to cause cold water shock; most people can safely use 50-60°F water, with colder temperatures for those who are adapted.

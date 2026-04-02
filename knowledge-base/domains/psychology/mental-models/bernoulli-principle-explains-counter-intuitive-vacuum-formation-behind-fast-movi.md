@@ -60,6 +60,10 @@ related:
   - INS-260330-24B6
   - INS-260330-6FDF
   - INS-260330-966E
+evidence:
+  - id: INS-260330-8BB4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When the AK-47 bullet exits the barrel underwater, the water rushing to fill the space behind it accelerates, and by Bernoulli's principle, faster-moving fluid has lower pressure. If the pressure drops below the water's vapor pressure, cavitation bubbles form. This is the same mechanism that damages ship propellers, erodes pipe fittings, and creates microbubbles in blood flowing through severely narrowed arteries.
 

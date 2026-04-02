@@ -52,5 +52,12 @@ related:
   - INS-260329-7255
   - INS-260329-CC79
   - INS-260329-B922
+evidence:
+  - id: INS-260329-818A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-CC79
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Open addressing stores everything in a contiguous array, giving excellent cache performance for lookups but making deletions complex (requiring tombstones or Robin Hood hashing). Separate chaining uses linked lists per bucket, making insertion and deletion trivial but sacrificing cache locality. This tradeoff — contiguous memory with complex state management vs. pointer-based flexibility with cache misses — recurs throughout systems design: arrays vs. linked structures, column stores vs. row stores, embedded vs. referenced documents. Understanding this as a fundamental axis of design (not just a hash table implementation detail) helps make faster architectural decisions. In modern hardware where cache misses dominate, the bias should generally favor contiguous layouts unless deletion/modification frequency is very high.

@@ -60,6 +60,10 @@ related:
   - INS-260330-86A7
   - INS-260330-09AB
   - INS-260330-B539
+evidence:
+  - id: INS-260323-36A8
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Deutsch and Hall use a vivid demonstration: draw two dots on paper and you feel absolutely certain only one straight line passes through them. But wrap the paper around a sphere and you can push a pen through both dots — a different straight line entirely. This overturns a 'certainty' held for centuries in Euclidean geometry, and the resolution (non-Euclidean geometry) directly enabled Einstein's general relativity.
 

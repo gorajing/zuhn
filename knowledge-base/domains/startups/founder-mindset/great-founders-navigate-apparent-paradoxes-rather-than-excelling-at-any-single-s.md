@@ -62,6 +62,10 @@ related:
   - INS-260325-57CA
   - INS-260402-F08D
   - INS-260330-9E26
+evidence:
+  - id: INS-260323-89C2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Reid Hoffman challenges the 'founder as superperson' myth by arguing that no one scores 10/10 on every entrepreneurial skill. Instead, great founders demonstrate the ability to navigate apparent paradoxes: being both persistent and flexible, holding both belief and fear, focusing both internally and externally. The key isn't resolving these tensions permanently but developing the judgment to know when to lean 90% one way versus 80% the other.
 

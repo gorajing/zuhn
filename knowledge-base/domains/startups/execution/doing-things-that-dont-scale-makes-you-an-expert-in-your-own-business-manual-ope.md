@@ -62,7 +62,7 @@ related:
   - INS-260330-7CC0
   - INS-260327-E2BC
   - INS-260330-5A0A
+  - INS-260402-0F36
   - INS-260327-4DDE
-  - INS-260330-0346
 ---
 Stanley Tang describes how doing things that don't scale served a dual purpose beyond survival: driving deliveries taught them how the delivery process actually worked, manually dispatching every driver revealed what the driver assignment algorithm should look like, and personally handling customer support gave real-time feedback that shaped the product. They emailed every new customer personally each night, personalizing messages based on what was ordered ('I love orange hummus, how were the chicken skewers?'). Walker Williams reinforces this — he still handles 12-20 customer service tickets daily and reads every tweet about Teespring, because 'you're never going to get a better sense for your product than actually listening to real users.' The lesson extends beyond startups: before automating any process, doing it manually builds the mental model that makes the automation effective. The manual phase isn't a cost to minimize — it's an investment in understanding that competitors who skip it can never recover.

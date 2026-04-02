@@ -52,6 +52,10 @@ related:
   - PRI-260328-B115
   - INS-260330-F374
   - INS-260327-0DFD
+evidence:
+  - id: INS-260326-16A8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The sleeping brain is highly active metabolically — consolidating memory, clearing waste products, processing emotions. Shortchanging sleep produces impairment equivalent to 0.08 blood alcohol concentration (legal intoxication). The common belief that you can stay up all night and 'catch up on weekends' is neurologically false.
 

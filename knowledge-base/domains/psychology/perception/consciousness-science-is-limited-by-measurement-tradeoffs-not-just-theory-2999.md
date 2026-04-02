@@ -58,6 +58,10 @@ related:
   - INS-260329-05BB
   - INS-260330-300D
   - INS-260330-EEF3
+evidence:
+  - id: INS-260330-EEF3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Seth describes consciousness research as facing a uniquely frustrating measurement problem. Unlike cosmology (things are far away) or particle physics (things are tiny), brains are accessible and human-sized — but overwhelmingly complex. With 86 billion neurons, no single technique captures the full picture.
 

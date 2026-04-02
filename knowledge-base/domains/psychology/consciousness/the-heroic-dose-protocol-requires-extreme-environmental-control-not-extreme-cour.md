@@ -62,6 +62,13 @@ related:
   - INS-260330-7C42
   - INS-260330-EE16
   - INS-260330-887A
+evidence:
+  - id: INS-260330-2C6A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A5B0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Johns Hopkins heroic dose protocol (30-40mg psilocybin, roughly equivalent to 5g dried mushrooms) produces experiences of profound ego dissolution and mystical-type experiences. Dr. Johnson emphasizes that the safety record of these sessions — zero serious adverse events across hundreds of sessions — is entirely attributable to the clinical framework, not pharmacological safety.
 

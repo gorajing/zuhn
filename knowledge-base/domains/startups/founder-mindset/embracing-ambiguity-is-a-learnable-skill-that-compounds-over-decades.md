@@ -52,6 +52,13 @@ related:
   - INS-260329-1D3B
   - INS-260325-8729
   - INS-260330-2025
+evidence:
+  - id: INS-260330-C367
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2025
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Thompson wasn't a storage expert when he joined DataCore as employee #20 to help them expand in Asia Pacific. He had to represent the company as a storage expert while honestly not being one. Through many uncomfortable moments of being slightly out of his element, he gradually became the expert.
 

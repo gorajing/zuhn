@@ -44,5 +44,9 @@ related:
   - PRI-260325-654D
   - INS-260327-E728
   - INS-260327-118C
+evidence:
+  - id: INS-260329-21C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 An animal-based diet of meat, fruit, and honey provides stable energy for endurance sports like surfing without the crashes associated with processed carbohydrate loading

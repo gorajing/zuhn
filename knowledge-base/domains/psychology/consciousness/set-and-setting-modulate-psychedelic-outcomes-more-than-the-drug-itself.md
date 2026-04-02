@@ -55,6 +55,10 @@ related:
   - INS-260330-8B24
   - INS-260325-436A
   - INS-260330-CA97
+evidence:
+  - id: INS-260330-CA97
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 While all drugs are shaped by context, Johnson emphasizes that psychedelics are 'particularly more so.' The Johns Hopkins protocol builds an elaborate contextual scaffold: hours of preparatory rapport-building, a warm welcoming room, eye shades, curated music, and trained guides. The instructions to participants — 'trust, let go, and be open' — are themselves a form of context engineering.
 

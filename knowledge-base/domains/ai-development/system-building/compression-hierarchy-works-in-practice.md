@@ -56,6 +56,19 @@ resolutions:
 stance: >-
   Hierarchical index navigation makes query cost logarithmic regardless of total
   insight count
+evidence:
+  - id: INS-260327-24D2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-E6AF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-8C1C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-FCA3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 The compression hierarchy — MASTER_INDEX (30 lines) to domain overview

@@ -49,5 +49,12 @@ related:
   - INS-260329-7BAF
   - INS-260329-18C9
   - INS-260330-3257
+evidence:
+  - id: INS-260329-1ACD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3257
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When vibe coding without a visual reference, developers prompt AI with vague ideas and then spend hours correcting the AI's interpretations. Ross demonstrates that spending 10-15 minutes designing all screens in Figma first actually saves time because each AI prompt becomes hyper-specific: 'build exactly this screen with the button at the bottom.' The insight is counterintuitive because the Figma step feels like overhead, but it functions as a constraint mechanism — the AI has fewer degrees of freedom to hallucinate into. This is analogous to how writing tests first (TDD) constrains implementation choices. The design artifact becomes a contract between human intent and AI execution.

@@ -60,6 +60,10 @@ related:
   - INS-260328-17D7
   - PRI-260322-8FD4
   - INS-260330-F0F2
+evidence:
+  - id: INS-260323-3D7D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Michael Treacy and Fred Wiersema's HBR framework identifies three paths to market dominance, each requiring a specific company organization: best price (logistics focus, like Walmart/Amazon), best product (R&D focus, like Apple), or best overall solution (customer intimacy). The first two require massive capital investment in logistics infrastructure or R&D capability.
 

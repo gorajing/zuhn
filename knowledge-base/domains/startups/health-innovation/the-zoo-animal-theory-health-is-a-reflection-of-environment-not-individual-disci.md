@@ -61,6 +61,10 @@ related:
 stance: >-
   Like zoo animals that develop diseases their wild counterparts never get,
   humans in modern environments develop chronic disease because the environ...
+evidence:
+  - id: INS-260330-CA97
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Animals in the wild rarely get chronic diseases. Put them in a zoo and they become obese, depressed, develop strange behaviors, and in some cases even kill themselves. The insight: an organism's health is a reflection of its environment's health, not the organism's willpower.
 

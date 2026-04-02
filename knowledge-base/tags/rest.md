@@ -7,6 +7,6 @@
 - `INS-260325-8EED` The Dutch practice of niksen — three minutes of staring out a window or watching trees — resets cognitive overload more effectively than pushing through fatigue.
 - `INS-260325-809A` Three minutes of deliberately doing nothing resets cognitive overload better than any productivity technique.
 - `INS-260330-909E` Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions.
-- `INS-260327-6F12` The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
 - `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
+- `INS-260327-6F12` The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
 - `INS-260329-0320` Always version APIs (e.g., /v2/products) so old clients continue working while new clients get updated behavior.

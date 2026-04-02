@@ -64,5 +64,8 @@ evidence:
   - id: INS-260323-C0BD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-FEA3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Karpathy describes the jaggedness problem: models trained via RL excel at anything with objective metrics (code, math) but stagnate in unverifiable domains (jokes, nuance, knowing when to ask clarifying questions). The same model that moves mountains on agentic tasks still tells the same atom joke from 4 years ago. This isn't improving with scale because RL only optimizes what it can measure. You're either on-rails (speed of light) or off-rails (everything meanders).

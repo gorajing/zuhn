@@ -61,6 +61,10 @@ related:
   - INS-260330-6165
   - INS-260330-81E0
   - INS-260330-4DC5
+evidence:
+  - id: INS-260330-81E0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When Yale researchers challenged Hoffman's fitness-beats-truth result by showing that with 20,000+ payoff functions, truth-seeing organisms could evolve, Hoffman's team found a crucial flaw: the Yale simulations didn't allow organisms to create objects. When organisms could hierarchically cluster similar fitness payoff functions into data structures (what we call 'objects'), truth-seeing organisms were once again eliminated.
 

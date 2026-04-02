@@ -58,6 +58,22 @@ related:
   - INS-260324-1216
   - INS-260327-F484
   - PRI-260324-3081
+evidence:
+  - id: INS-260327-C05A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7BF5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B09B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260324-1216
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F484
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Howard traces the full OpenAI governance arc: a nonprofit created to build societally beneficial AGI, which spun out a commercial entity after Elon Musk withdrew funding. Once staff had profit participation instruments worth millions, and Microsoft had invested billions, the nonprofit board's attempt to fire Sam Altman for mission misalignment was immediately reversed by financial pressure from employees, investors, and Microsoft.
 

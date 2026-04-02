@@ -60,5 +60,8 @@ evidence:
   - id: INS-260322-76B5
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260327-C5D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi's team trains 60 minutes per day, five days a week, split between talking practice and listening review. For talking: reps read the script aloud with correct tonality for 25 minutes — if they mess up, they restart. Then 5 minutes of rapid-fire objection overcomes. For listening: the team watches a recorded call together and answers three questions: what went right, what went wrong, what would you do differently. This mirrors elite sports teams watching game film. The critical insight is that reps should study their own recordings when they're on a hot streak — that's when their tone, pacing, and closing instincts are at peak. Capture that footage because it becomes the personalized training material. Most teams think this is 'too simple' which is exactly why they won't do it — and why those who do gain a massive edge.

@@ -66,5 +66,23 @@ evidence:
   - id: INS-260329-057F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-4F8C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8181
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B408
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-FAE2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-19EA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-AE09
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The course opens by establishing that an abstract data type (like a list, queue, or map) specifies an interface — what methods must exist — without dictating implementation. A queue can be built from arrays, singly linked lists, or even stacks. This mirrors the transportation analogy: the ADT is 'get from A to B' while implementations are walking, biking, or trains. The instructor explicitly states that the distinction between mediocre and excellent programmers is understanding when and how to choose the right data structure for a given abstract need. This is a meta-cognitive insight: the ability to think at the interface level before committing to implementation details produces cleaner, more adaptable code. It's also why every CS undergraduate is required to take data structures — not to memorize implementations, but to internalize this abstraction layer.

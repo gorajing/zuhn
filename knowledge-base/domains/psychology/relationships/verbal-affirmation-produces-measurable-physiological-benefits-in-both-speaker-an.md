@@ -57,6 +57,13 @@ related:
   - INS-260327-5943
   - INS-260327-E8D3
   - INS-260327-1DAB
+evidence:
+  - id: INS-260330-5D64
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-1DAB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Helen Fisher cites research showing that saying nice things to a partner doesn't just improve emotional climate — it produces measurable physiological changes: reduced cholesterol, reduced cortisol (stress hormone), and boosted immune function in the recipient. Critically, the speaker receives the same physiological benefits, making this a rare bidirectional health intervention.
 

@@ -71,6 +71,12 @@ evidence:
   - id: INS-260323-2AE2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-42F0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-BF84
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Karp describes his leadership philosophy as fundamentally artistic: each Palantir product, including the military systems deployed across the Middle East, was built by 'the one person in the world that could have done it.' These are people with outlier capabilities that function similarly to neurodivergence — they decompose problems in ways that normally-smart people simply cannot.
 

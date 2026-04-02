@@ -50,7 +50,6 @@ stance: >-
   as side projects nobody intended as businesses
 related:
   - INS-260320-E044
-  - INS-260321-3660
   - INS-260323-09E4
   - INS-260327-FCCF
   - INS-260327-D982
@@ -59,6 +58,7 @@ related:
   - PRI-260328-59DC
   - PRI-260328-04FA
   - INS-260328-A9D2
+  - INS-260330-B5DF
 ---
 Graham argues that making a deliberate effort to think of startup ideas is actively counterproductive—it produces ideas that are 'not only bad but bad and plausible sounding,' fooling both the founder and everyone around them. The best companies started as side projects: Yahoo, Google, Facebook, and Apple were never intended to be companies.
 

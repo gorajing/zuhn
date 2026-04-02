@@ -53,6 +53,16 @@ related:
   - INS-260330-D63D
   - INS-260330-A5C4
   - INS-260330-8AE8
+evidence:
+  - id: INS-260330-8AE8
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D63D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-E734
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 A shadow cast on the Moon can sweep thousands of kilometers in a fraction of a second if you move your finger a few centimeters. Scissor blades a light-year long would have an intersection point that crosses a light-year in one second. Destructive interference patterns between two wave sources race through the overlap zone faster than either wave travels.
 

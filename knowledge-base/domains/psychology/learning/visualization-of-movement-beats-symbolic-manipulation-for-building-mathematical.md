@@ -60,6 +60,12 @@ evidence:
   - id: INS-260330-4F10
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-BF2A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E059
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown's core pedagogical insight is that mathematical operations become intuitive when visualized as physical movements rather than taught as symbol-manipulation rules. Matrix-vector multiplication, when presented as 'scale and add the transformed basis vectors,' feels obvious — but when presented as 'multiply row by column and sum,' it feels arbitrary.
 

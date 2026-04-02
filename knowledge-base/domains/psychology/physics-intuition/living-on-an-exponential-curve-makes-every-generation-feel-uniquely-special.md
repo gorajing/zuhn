@@ -61,5 +61,8 @@ evidence:
   - id: INS-260330-F493
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-1F27
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 At Princeton, Tyson found the physical midpoint of the Astrophysical Journal collection (1895-present) and discovered it corresponded to just 18 years prior — meaning total published knowledge doubled every 15-18 years. He then read an 1890s astronomy textbook whose preface marveled at the unprecedented pace of solar discoveries, noting 'you guys have no clue what a great advance is yet.' The insight: when you're on an exponential growth curve, every single point feels like you're living in special times because the rate of change relative to your recent past is always accelerating. This is directly relevant to AI discourse today — every month feels like a paradigm shift, but that's mathematically guaranteed on any exponential curve. The practical takeaway is to benchmark against the curve itself, not against your recent subjective experience, when making predictions about whether current progress is truly exceptional or simply what exponential growth always feels like from inside.

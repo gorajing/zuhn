@@ -58,6 +58,10 @@ related:
   - INS-260330-697F
   - INS-260327-E1DD
   - INS-260329-E8EB
+evidence:
+  - id: INS-260325-722C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The M1's competitive position wasn't just 'faster' — it simultaneously delivered better performance, lower power consumption, no fan noise, longer battery life, and lower price. The Intel i9 won some raw benchmarks by a few seconds, but at the cost of higher temperatures, shorter battery life, more noise, and a significantly higher price point. The M1's efficiency advantage wasn't a single-dimension win — it compounded across every dimension users care about.
 

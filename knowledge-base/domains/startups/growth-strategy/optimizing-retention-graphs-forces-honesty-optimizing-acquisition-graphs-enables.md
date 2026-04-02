@@ -54,5 +54,9 @@ related:
   - INS-260330-59DC
   - INS-260327-0746
   - INS-260330-0371
+evidence:
+  - id: INS-260327-6D77
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Michael describes a personal pattern: whenever he optimized for top-line growth (DAUs, revenue, user acquisition), the user became someone to extract from — more push notifications, deceptive emails, dark patterns. But whenever he worked on retention, the work forced genuine user-serving behavior because you can't trick someone into staying. This creates a practical diagnostic for slop: if you're looking at graphs that let you take more from users than you give, you're losing. If you're looking at graphs that others don't want to look at (churn analysis, session quality, actual problem resolution), you're building real value. The insight is that metric selection isn't neutral — certain metrics structurally incentivize slop while others structurally prevent it.

@@ -10,6 +10,7 @@
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260402-4605` Eminence constrains innovation more than obscurity constrains execution.
+- `INS-260402-F4E5` Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
 - `INS-260322-1280` Some products are too cheap to bother replacing (janitorial services problem) — nobody optimizes a $50/month/person line item, which means competitors can't get in but incumbents can't be kicked out.
 - `INS-260321-C513` Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.

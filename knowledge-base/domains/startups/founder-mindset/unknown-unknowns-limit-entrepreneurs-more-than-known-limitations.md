@@ -47,5 +47,9 @@ related:
   - INS-260323-FE33
   - INS-260329-8261
   - INS-260322-E734
+evidence:
+  - id: INS-260322-E734
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi distinguishes between known limits ('I can't because X') and unknown unknowns — beliefs so deeply held they're invisible. A CrossFit competitor built a great fitness app but refused to market it because he placed 4th, not 1st, and genuinely believed he didn't deserve to promote it. One post 5x'd his revenue. The implication for founders: your biggest growth constraint is likely a belief you've never examined, not a skill you lack. The antidote is proximity to people operating at higher levels, which exposes your invisible assumptions by showing you what's possible.

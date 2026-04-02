@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-30CE
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-F95F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Lex Fridman asks Brett Johnson about his thinking process for solving criminal problems, Johnson's answer is strikingly startup-like: 'You do something and you fuck it up. You think back — how do I fix that? So you fix that aspect, commit the crime again, and it goes a little bit further and it screws up. How do I fix that?' He describes no grand planning phase — just rapid iteration against reality. Only later, once enough patterns were learned through this trial-and-error, could he apply design thinking to new schemes.
 

@@ -66,5 +66,11 @@ evidence:
   - id: INS-260320-9FD5
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-425B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8CC0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This tradeoff appears everywhere beyond system design. In product development: batching feature releases (sprints) increases team throughput but increases time-to-user for any individual feature. In communication: batching messages (daily digests) reduces interruptions but increases latency of information flow. In manufacturing: batch production reduces per-unit cost but increases inventory holding time. The system design framing makes the tradeoff mathematically precise, but the principle is universal: any time you aggregate work for efficiency, you add latency to individual items. The strategic question isn't 'which is better' but 'what does the user experience optimize for?' Real-time applications (trading, chat) optimize latency; data pipelines optimize throughput. Mismatching the optimization target to the use case is one of the most common system design errors.

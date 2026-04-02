@@ -56,7 +56,6 @@ stance: >-
   teaching this meta-pattern explicitly accelerates learning across all
   paradigms.
 related:
-  - INS-260323-AF96
   - INS-260329-03B0
   - INS-260329-9FE0
   - INS-260329-A461

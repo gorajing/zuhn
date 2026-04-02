@@ -60,6 +60,25 @@ related:
   - INS-260325-76BD
   - INS-260325-07FA
   - INS-260323-2F50
+evidence:
+  - id: INS-260325-3F8B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-9676
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9EEC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9B49
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-07FA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-2F50
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Every advanced chip in existence requires ASML's extreme ultraviolet (EUV) lithography machines. These $350 million devices use a tin ball dropped through a vacuum, struck twice by the most powerful commercial laser ever deployed, creating plasma at 40 times the temperature of the sun's surface. This plasma emits light at exactly 13.5 nanometers, bounced off the flattest mirrors ever manufactured, to carve transistors into silicon.
 

@@ -61,6 +61,10 @@ related:
   - INS-260330-8481
   - INS-260330-F9B4
   - INS-260330-1DCF
+evidence:
+  - id: INS-260323-3D7D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Most founders think product is the most fundamental strategic layer — get the product right and everything follows. Hoffman inverts this hierarchy: financing is the foundation because if you run out of money, nothing else matters. Distribution is the next layer because even great products die if they can't reach customers. Product sits on top, dependent on the other two. This means when raising money, you should already be thinking about the next fundraising round. When building product, you should be thinking about how distribution enables financing.
 

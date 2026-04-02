@@ -57,6 +57,16 @@ related:
   - INS-260327-6F94
   - INS-260330-D63D
   - INS-260329-A9C0
+evidence:
+  - id: INS-260330-D63D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-6F94
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-A9C0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 By lying on a beach, watching the sun set, then quickly standing to see it set again, you create a measurable time gap between two observations at different heights. Combined with the height of your eyes in each position, this gives you enough data to calculate the Earth's radius through basic geometry. No instruments, no technology — just your body and a timing device.
 

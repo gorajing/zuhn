@@ -59,5 +59,9 @@ related:
   - PRI-260323-A47C
   - INS-260330-D0E2
   - INS-260330-6D52
+evidence:
+  - id: INS-260327-CB82
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Dual Control Model's context-dependence is a specific instance of predictive processing — the brain's general strategy of interpreting sensory input based on predictions, priors, and internal state rather than raw signal. In sexuality, identical genital stimulation produces pleasure or discomfort depending on context. But this principle extends everywhere: the same email from your boss reads differently when you're confident vs. anxious. The same workout feels energizing or crushing depending on sleep and stress. The same feedback feels constructive or attacking depending on relationship trust. This means that optimizing the stimulus itself (better technique, better email wording, better workout programming) often has lower returns than optimizing the context in which the stimulus is received. It's a general-purpose insight about where to allocate effort when trying to change someone's experience — including your own.

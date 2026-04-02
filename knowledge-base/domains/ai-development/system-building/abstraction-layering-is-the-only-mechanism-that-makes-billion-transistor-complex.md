@@ -49,5 +49,12 @@ related:
   - INS-260322-54F3
   - INS-260329-E914
   - INS-260329-F211
+evidence:
+  - id: INS-260322-54F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-E914
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The entire computing stack from transistors to REST APIs works because each layer (hardware → OS kernel → shell → language → framework → application) hides the complexity below it. This is not simplification — the complexity still exists — it's encapsulation. The same principle applies to AI system building: successful AI products wrap model complexity behind well-defined interfaces rather than exposing it. Every time you're struggling with system complexity, the answer is almost always to introduce a clean abstraction boundary, not to make the underlying system simpler.

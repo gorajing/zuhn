@@ -56,6 +56,10 @@ related:
 stance: >-
   El-Kurd demonstrates how legal systems can be constructed to legitimize
   displacement, drawing parallels to Jim Crow laws that were technically lega...
+evidence:
+  - id: INS-260330-AB58
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 El-Kurd presents a crucial framework for understanding power structures: legal systems are not neutral arbiters of justice but tools that can be shaped by those in power. In the Palestinian context, the judge ruling on home demolitions is himself a settler, and 95% of Palestinian building permit applications are rejected by authorities with explicit political agendas.
 

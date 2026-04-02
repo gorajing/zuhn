@@ -64,6 +64,9 @@ evidence:
   - id: INS-260320-2058
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-0C4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rahman identifies cross-team communication as the single biggest ongoing challenge at Jawbone's 500-person, 7-office scale. His solution is deliberately tedious: 2.5-hour daily calls for the UP3 product with the entire team from materials, sourcing, manufacturing, design, sensor, firmware, and mechanical engineering all sitting through each other's updates. The point isn't efficiency — it's forcing everyone to hear how their trade-offs affect other disciplines.
 

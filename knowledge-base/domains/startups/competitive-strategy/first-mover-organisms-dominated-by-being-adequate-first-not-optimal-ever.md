@@ -59,6 +59,10 @@ related:
   - INS-260329-D37E
   - INS-260330-0C96
   - INS-260330-F0F2
+evidence:
+  - id: INS-260325-5455
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Photosynthesis is explicitly described as 'complicated, inefficient and confusing' — yet photosynthetic organisms conquered the planet. They didn't win by being optimal; they won by being adequate 450 million years ago, then literally changed the atmosphere (flooding it with oxygen) in ways that made their own enzyme (RuBisCo) work worse but simultaneously created barriers for competitors.
 

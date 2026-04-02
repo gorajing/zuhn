@@ -60,6 +60,9 @@ evidence:
   - id: INS-260322-1D52
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-F95F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Pincus's critique of MVP is specific: building even a minimum viable product still takes weeks or months, and it will still fail. The failure rate for new products is nearly 100% — 'all new fails' is his mantra. Instead of building products to test, founders should test ideas at the idea level: sketches, mockups, conversations, anything that can fail fast enough to try four shots on goal instead of one.
 

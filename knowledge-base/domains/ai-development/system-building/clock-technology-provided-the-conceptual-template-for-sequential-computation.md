@@ -61,6 +61,16 @@ related:
   - INS-260329-05BB
   - INS-260330-91EA
   - INS-260330-DBA4
+evidence:
+  - id: INS-260325-F306
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-91EA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-DBA4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Grier identifies the escapement clock as the crucial technological metaphor and practical foundation for computation. While Babbage tried to build his Difference Engine using steam-engine-scale brass gears (and failed), a Swedish father and son later succeeded using clock technology — smaller, lower energy, with abundant standardized parts.
 

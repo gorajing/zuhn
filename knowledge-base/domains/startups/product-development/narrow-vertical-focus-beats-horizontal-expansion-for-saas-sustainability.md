@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-89AE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-FDF5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When asked about expanding into project management territory (like Linear or Confluence), Heo firmly rejects horizontal expansion. His argument: as a PM's job title suggests project management, but their practical work involves front-end planning. Manifast must keep this vertical narrow for long-term success. A horizontal business covering many areas may generate short-term sales but is not sustainable.
 

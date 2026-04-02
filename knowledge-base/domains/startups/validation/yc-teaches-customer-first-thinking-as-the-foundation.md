@@ -53,5 +53,9 @@ related:
   - INS-260327-B12E
   - INS-260327-3A71
   - INS-260330-FE9E
+evidence:
+  - id: INS-260323-5CBE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Soohyun describes the fundamental mindset shift YC instills: when you say I have a cool idea or technology and want to build a business, YC responds with who are the customers? This customer-first orientation seems obvious but is deeply counterintuitive for technical founders who naturally start with what they can build. The insight extends beyond validation — it should inform every product decision, feature priority, and pivot. Soohyun spotted the AI evaluation bottleneck (engineers spending weeks manually evaluating AI models) by observing real customer pain, not by inventing technology looking for a problem.

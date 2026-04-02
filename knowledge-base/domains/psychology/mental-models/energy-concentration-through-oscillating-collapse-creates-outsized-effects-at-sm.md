@@ -62,6 +62,16 @@ related:
   - INS-260330-A7C6
   - INS-260330-966E
   - INS-260330-6FDF
+evidence:
+  - id: INS-260330-C989
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8BB4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A7C6
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Rayleigh-Plesset equation describes how an underwater bubble oscillates — expanding and contracting — with each cycle concentrating more energy into a smaller volume. At the moment of final collapse, temperatures can reach thousands of degrees, producing visible light from a microscopic bubble. The input energy (a shock wave) is modest; the output (photon emission) is extreme.
 

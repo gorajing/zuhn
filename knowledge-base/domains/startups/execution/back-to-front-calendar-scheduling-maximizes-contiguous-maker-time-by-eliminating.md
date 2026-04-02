@@ -47,12 +47,11 @@ stance: >-
   eliminates the dead 45-minute gaps between meetings that produce zero output.
 related:
   - INS-260327-FD15
-  - INS-260327-E9F3
   - INS-260329-4253
   - INS-260329-57D7
   - INS-260329-5306
-  - INS-260329-9A30
   - INS-260330-1C61
+  - INS-260327-E9F3
   - INS-260330-6A94
 ---
 Most people schedule meetings at the first available slot, which fragments the day into unusable gaps. A 10am meeting and a 2pm meeting create a dead zone of 45-60 minutes between them — too short for deep work, too long to waste, resulting in snacking and idle browsing. The back-to-front technique inverts this: when someone requests a meeting, you offer the latest possible slot (e.g., 4-5pm). The next request gets 3:30-4pm. This stacks all meetings into a contiguous block at the end of the day, preserving the morning as a single large maker block. While the Zeigarnik effect still applies (you know meetings are coming), you've maximized your uninterrupted creative window. This is the V2 intermediate strategy — not as powerful as full dedicated maker days (V3), but dramatically better than scattered scheduling.

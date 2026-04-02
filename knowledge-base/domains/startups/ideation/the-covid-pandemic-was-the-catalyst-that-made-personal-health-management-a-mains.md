@@ -68,6 +68,10 @@ related:
 stance: >-
   COVID triggered a permanent shift where consumers took responsibility for
   their own health
+evidence:
+  - id: INS-260322-D58A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Huberman traces the health awakening through a specific causal chain: (1) Fitness culture evolved from bodybuilders-only to mainstream acceptance through the 80s-2000s. (2) COVID forced everyone to ask 'what can I take to improve my immune system?' regardless of vaccine stance. (3) Vitamin D was the gateway supplement — doctors didn't oppose it, and sunlight exposure made it feel natural. (4) Resistance training mainstreamed, bringing protein supplementation and creatine. (5) Now magnesium is becoming the next universally accepted supplement.
 

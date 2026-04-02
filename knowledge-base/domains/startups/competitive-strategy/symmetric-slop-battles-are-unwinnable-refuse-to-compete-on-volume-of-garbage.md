@@ -47,5 +47,9 @@ related:
   - INS-260323-5C6F
   - PRI-260324-5F05
   - INS-260330-ABB1
+evidence:
+  - id: INS-260323-5C6F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When a competitor is spamming features or content, the instinctive response is to match their volume. Dalton and Michael argue this is historically a losing strategy across every platform era — SEO farms lost to Google algorithm updates, App Store slop lost to Apple curation, crypto ICOs collapsed. The pattern is consistent: the platform eventually punishes low-quality actors, and anyone competing on volume gets wiped out simultaneously. The winning move is to refuse the symmetric battle entirely and compete on dimensions the spammer cannot match — depth of user value, retention quality, or domain expertise that can't be one-shot cloned.

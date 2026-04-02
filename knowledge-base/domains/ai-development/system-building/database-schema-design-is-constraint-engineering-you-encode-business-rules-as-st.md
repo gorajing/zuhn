@@ -59,6 +59,10 @@ related:
   - INS-260329-0F06
   - INS-260329-83AA
   - INS-260329-D297
+evidence:
+  - id: INS-260329-0F06
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The tutorial's company database demonstrates a key principle: business rules like 'every employee belongs to exactly one branch' and 'every branch has exactly one manager' are encoded structurally through foreign key constraints, not enforced by application code. If the database schema requires a branch_id foreign key on every employee, it's impossible to create an orphan employee — the database itself prevents it.
 

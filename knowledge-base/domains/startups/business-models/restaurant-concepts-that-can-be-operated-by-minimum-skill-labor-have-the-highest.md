@@ -45,6 +45,10 @@ related:
   - PRI-260323-49F8
   - INS-260329-83AA
   - PRI-260320-BC72
+evidence:
+  - id: INS-260329-83AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Restaurant formats designed to minimize operator skill requirements (assembly-line processes, standardized techniques) achieve faster franchise growth because the talent bottleneck is eliminated.
 

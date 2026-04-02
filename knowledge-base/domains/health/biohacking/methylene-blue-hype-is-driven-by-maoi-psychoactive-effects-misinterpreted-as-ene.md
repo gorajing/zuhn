@@ -55,6 +55,10 @@ related:
   - INS-260327-E8D3
   - PRI-260328-F570
   - INS-260330-713C
+evidence:
+  - id: INS-260330-A18F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Methylene blue acts as a monoamine oxidase inhibitor (MAOI), which alters levels of serotonin, dopamine, and norepinephrine. This creates subjective feelings of altered mental state that users interpret as 'more energy' or 'better focus.' However, in people with healthy mitochondria, methylene blue actually reduces ATP production by short-circuiting the electron transport chain.
 

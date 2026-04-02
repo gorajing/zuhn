@@ -54,6 +54,10 @@ related:
   - INS-260327-CEE4
   - INS-260330-579B
   - INS-260327-B72F
+evidence:
+  - id: INS-260323-198E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The myth that psychopathy is untreatable causes enormous harm. The main barrier to treatment is not the condition itself but that people with psychopathy often do not believe they need treatment. When they do recognize that their behavior is damaging their own life, validated approaches can help.
 

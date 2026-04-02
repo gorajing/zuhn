@@ -62,6 +62,10 @@ related:
   - INS-260330-E107
   - INS-260330-A47D
   - INS-260330-6E6A
+evidence:
+  - id: INS-260330-B360
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The meditation follows a via negativa structure: start with breath, expand to body, notice sounds, then systematically drop each anchor until you're left with awareness itself. This subtractive approach — finding truth by removing what is false — is more reliable than additive approaches that pile on concepts, models, or frameworks.
 

@@ -57,6 +57,13 @@ related:
   - INS-260330-466E
   - INS-260330-97A0
   - INS-260330-A5C4
+evidence:
+  - id: INS-260330-8AE8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D63D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Special relativity's length contraction means that to a cosmic ray proton traveling at 99.9999999999991% the speed of light, Earth would appear only 17 metres thick in the direction of travel. This isn't an illusion or a measurement artifact — from that reference frame, Earth genuinely is 17 metres thick. The muon detection paradox confirms this: muons created in the upper atmosphere by cosmic ray collisions should mostly decay before reaching the surface, but we detect many of them because from the muon's reference frame, the distance to the surface is much shorter than we measure it.
 

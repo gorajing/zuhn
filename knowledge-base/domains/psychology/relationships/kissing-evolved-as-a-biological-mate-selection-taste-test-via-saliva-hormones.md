@@ -57,6 +57,12 @@ evidence:
   - id: INS-260330-A59D
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-AA6E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1E16
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Evolutionary psychologists argue that modern kissing descended from kiss-feeding — the mouth-to-mouth exchange of pre-chewed food between mothers and infants, still common in many primates. This behavior established mouth-to-mouth contact as an intimate, trust-laden act.
 

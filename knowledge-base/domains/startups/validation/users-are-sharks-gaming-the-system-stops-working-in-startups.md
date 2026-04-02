@@ -62,9 +62,9 @@ related:
   - INS-260327-BB4A
   - INS-260330-1A63
   - INS-260330-2200
+  - INS-260402-4B96
   - INS-260327-80A8
   - INS-260327-4DDE
-  - INS-260330-59DC
 ---
 Paul Graham draws a sharp distinction between environments where gaming works (school, large companies) and startups where it doesn't. In school, you optimize for exam questions rather than mastering material. In big companies, you can succeed by sending emails late at night or sucking up. But startups eliminate the intermediary — there's no boss to impress, no system to game. Users are 'like sharks: too stupid to fool. It's meat or no meat.'
 

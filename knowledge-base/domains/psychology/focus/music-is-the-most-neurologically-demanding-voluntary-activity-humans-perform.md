@@ -52,6 +52,10 @@ related:
   - PRI-260325-663A
   - PRI-260324-1134
   - INS-260327-CB82
+evidence:
+  - id: INS-260327-CB82
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Most activities engage specific brain regions: reading activates language areas, exercise activates motor systems, meditation activates attention networks. Music is unique in simultaneously engaging motor, auditory, visual, emotional, memory, and pattern recognition systems in coordinated real-time activity.
 

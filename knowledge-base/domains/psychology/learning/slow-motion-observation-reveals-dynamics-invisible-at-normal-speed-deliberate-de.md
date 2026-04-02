@@ -60,5 +60,12 @@ related:
   - INS-260330-13A8
   - INS-260330-CED2
   - INS-260330-9484
+evidence:
+  - id: INS-260330-6828
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8638
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 For centuries, archers knew arrows hit targets but couldn't explain how they navigated around the bow. It took high-speed cameras to reveal the flex dynamics that make archery physically possible. This is a powerful meta-lesson about analysis: many systems operate with critical dynamics that are invisible at their natural speed. In debugging, stepping through code line by line reveals race conditions invisible in real-time execution. In business, slowing down to map a customer journey step-by-step reveals friction points invisible in aggregate metrics. In learning, deliberately slowing down to explain each step of reasoning (as in Feynman's technique) reveals gaps in understanding that feel solid at conversational speed. The investment in deliberate deceleration — whether through slow-motion video, step debuggers, or journaling — consistently reveals the invisible mechanics that govern outcomes.

@@ -61,6 +61,10 @@ related:
   - INS-260330-0BBA
   - INS-260327-B12E
   - INS-260330-FE9E
+evidence:
+  - id: INS-260323-5CBE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Levie draws a critical distinction between listening to customer problems and building customer requests. Enterprise customers will generate large volumes of feature requests, but building those requests directly leads to bloated, complex software—the exact disease that makes legacy enterprise software terrible. Instead, the product team must distill many different requests into underlying problems and then design the simplest solution that addresses those problems.
 

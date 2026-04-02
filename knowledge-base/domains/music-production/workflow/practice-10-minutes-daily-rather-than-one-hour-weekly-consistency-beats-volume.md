@@ -59,6 +59,12 @@ evidence:
   - id: INS-260320-F78E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-2F75
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-A9C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rick Beato's advice to his son Dylan when learning guitar: 'It's better to practice 10 minutes a day, seven days a week than to practice one day for an hour.' While the total time is roughly equivalent, daily practice builds muscle memory and neural pathways more effectively than weekly sessions.
 

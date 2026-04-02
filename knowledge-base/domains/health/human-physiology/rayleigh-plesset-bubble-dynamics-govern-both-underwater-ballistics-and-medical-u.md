@@ -61,6 +61,28 @@ related:
   - INS-260330-966E
   - INS-260330-CAB3
   - INS-260330-A7C6
+evidence:
+  - id: INS-260330-C989
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-8773
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E59F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9BB5
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1953
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-966E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CAB3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Rayleigh-Plesset equation describes how a bubble in fluid oscillates and eventually collapses — the same mathematics applies to bubbles formed by an AK-47 bullet traveling through water and bubbles induced by focused ultrasound in medical treatments (lithotripsy for kidney stones, histotripsy for tissue ablation). In both cases, the collapsing bubble generates extreme local temperatures and pressures.
 

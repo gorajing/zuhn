@@ -57,6 +57,13 @@ related:
   - INS-260330-57E6
   - INS-260330-9231
   - INS-260330-E497
+evidence:
+  - id: INS-260330-9231
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E497
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The light-dependent reactions reveal a striking bottleneck: all atmospheric oxygen — and therefore all aerobic respiration — traces back to Photosystem II's ability to split H2O molecules, stealing electrons to replace those lost during photoexcitation. The byproducts are hydrogen ions and O2. This single reaction, occurring in the thylakoid membranes of every photosynthetic organism, is the sole source of the oxygen that sustains animal life.
 

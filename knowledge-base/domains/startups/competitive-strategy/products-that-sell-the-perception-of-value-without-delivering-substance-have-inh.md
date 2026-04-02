@@ -47,6 +47,10 @@ related:
   - INS-260329-16F0
   - INS-260330-A484
   - INS-260323-1930
+evidence:
+  - id: INS-260323-1B0B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement without substantive delivery — face rapid customer churn as the novelty fades and the gap between promise and reality becomes apparent.
 

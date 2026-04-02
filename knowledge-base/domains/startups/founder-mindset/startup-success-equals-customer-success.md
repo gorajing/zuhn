@@ -42,15 +42,15 @@ stance: >-
   The most reliable metric for whether a startup will succeed is whether its
   customers are succeeding — all other metrics are proxies.
 related:
-  - INS-260321-E654
   - INS-260322-683B
   - INS-260322-047D
   - INS-260326-870E
   - INS-260327-EAB0
-  - INS-260327-1064
   - INS-260327-200C
+  - INS-260402-E140
   - INS-260330-C391
-  - INS-260322-CFB1
-  - INS-260322-8D47
+  - INS-260402-0F36
+  - INS-260328-9FC0
+  - INS-260330-B5DF
 ---
 Ram cuts through the noise of startup metrics (revenue, valuation, user counts) with a simple heuristic: startup success equals customer success. If your customers are succeeding because of your product, everything else follows. The moment of seeing your first  customer payment is already pleasurable — whether you reach a billion depends on luck, trajectory, and problem set. But the foundation is always: are customers getting enough value to pay? This reframes the founder journey from chasing scale to obsessing over customer outcomes.

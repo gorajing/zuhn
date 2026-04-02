@@ -53,6 +53,10 @@ related:
 stance: >-
   Truemed built infrastructure that lets people use existing tax-free HSA/FSA
   dollars on lifestyle interventions, redirecting billions toward prevent...
+evidence:
+  - id: INS-260325-39FD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Rather than waiting for insurance companies to cover lifestyle interventions or lobbying for new legislation, Truemed identified an existing IRS mechanism — letters of medical necessity — that already allowed tax-free HSA/FSA spending on qualifying health interventions. They built telemedicine infrastructure to issue these letters at scale.
 

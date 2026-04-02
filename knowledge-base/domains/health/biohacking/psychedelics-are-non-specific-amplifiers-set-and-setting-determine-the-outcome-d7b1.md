@@ -59,6 +59,16 @@ related:
   - INS-260323-1930
   - INS-260330-43E8
   - PRI-260324-1134
+evidence:
+  - id: INS-260330-53F7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-1930
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-43E8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Johnson explains that psychedelics are fundamentally non-specific amplifiers of existing mental content. You could have a euphoric experience or a hellish one — the drug does not determine which. It amplifies whatever is present in the person's mind and life situation. This is why therapeutic protocols emphasize preparation (set) and a comfortable, supportive environment (setting).
 

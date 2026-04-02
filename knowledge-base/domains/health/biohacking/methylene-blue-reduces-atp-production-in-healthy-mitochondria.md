@@ -54,6 +54,13 @@ related:
   - INS-260330-4B45
   - INS-260327-C150
   - INS-260330-A18F
+evidence:
+  - id: INS-260330-2C71
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-A18F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Methylene blue shuttles electrons along the mitochondrial electron transport chain, which can help when the chain is broken (as in Alzheimer's). However, in healthy mitochondria, it actually decreases total ATP production by short-circuiting the normal process. This has been reproducibly demonstrated.
 

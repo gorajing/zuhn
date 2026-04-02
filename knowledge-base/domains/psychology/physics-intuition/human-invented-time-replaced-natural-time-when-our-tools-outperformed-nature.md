@@ -57,6 +57,13 @@ related:
   - INS-260325-2B76
   - INS-260323-3F56
   - INS-260330-9A34
+evidence:
+  - id: INS-260327-6F94
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-2B76
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 For most of human history, 'real time' meant solar time — the position of the sun determined noon. But solar days vary in length throughout the year due to Earth's elliptical orbit and axial tilt (the equation of time). When mechanical clocks proved more regular than the sun itself, humanity made a profound choice: we declared clock time to be 'real' and solar time to be the deviation. Vsauce calls this 'humanity growing up — like realizing you're stronger than your parents.'
 

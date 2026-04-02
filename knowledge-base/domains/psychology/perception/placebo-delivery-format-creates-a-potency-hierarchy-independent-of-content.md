@@ -55,6 +55,13 @@ related:
   - INS-260327-1C1B
   - INS-260330-203F
   - INS-260330-88B0
+evidence:
+  - id: INS-260327-5DB4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1C1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Research demonstrates a clear hierarchy in placebo effectiveness based purely on delivery format. A sugar pill prescribed by a doctor works better than the same pill from a friend. A capsule outperforms a pill because it 'looks more important.' An injection beats a capsule because it 'seems more serious and potent.' Sham surgeries produce the strongest effects of all. Even color encodes therapeutic suggestion: blue pills calm better than white ones, while red pills energize better than blue.
 

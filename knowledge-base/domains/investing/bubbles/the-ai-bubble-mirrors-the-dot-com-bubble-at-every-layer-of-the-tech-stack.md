@@ -49,5 +49,12 @@ stance: >-
   OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel
   seller), hyperscalers are Exodus Communications (building for demand that
   ha...
+evidence:
+  - id: INS-260325-5455
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-FBE5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The structural parallel: consumer AI startups (Webvan/Pets.com equivalents) sit on top of software gateways (OpenAI = Netscape), which depend on platform owners (Apple/Google/Microsoft = Windows), which run on proprietary hardware (Nvidia = Sun Microsystems + Cisco). Each layer has the same fragility as 1990s. The app layer will fall first — high burn, no margins, no control over underlying platforms. VCs learned from dot-com to keep companies private longer, inflate valuations through back-room deals, and dump profitability burden onto the public at IPO.

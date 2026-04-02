@@ -58,6 +58,13 @@ related:
   - INS-260330-0017
   - INS-260330-2C71
   - INS-260330-F671
+evidence:
+  - id: INS-260330-545E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4B45
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Photosynthesis doesn't convert sunlight to sugar in one step. It runs excited electrons through four sequential protein complexes, each extracting a portion of energy for different purposes — water splitting, proton pumping, ATP synthesis, NADPH creation. This staged approach captures far more total energy than any single-step conversion could.
 

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 372 insights
+> 376 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -60,6 +60,7 @@
 - `INS-260327-A763` [high] Markets where branding has inflated prices far beyond the underlying commodity value become vulnerable to value-focused 
 - `INS-260329-EF89` [high] Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260324-782C` [high] After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted to acquiring emerging brands because they'd lost the internal talent and muscle to invent new products.
+- `INS-260402-FFB2` [high] Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.
 - `INS-260327-7AB5` [high] Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
 - `INS-260330-95F3` [high] Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
 - `INS-260402-5E4E` [high] Computers slashed transaction costs, making networks of specialized companies outperform monolithic vertical integration.
@@ -93,6 +94,7 @@
 - `INS-260330-7DAA` [high] Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
 - `INS-260327-25D7` [high] Salesforce wasn't the first SaaS company, but by defining 'software is over' they became permanently associated with the cloud movement.
 - `INS-260330-9197` [high] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
+- `INS-260402-086D` [high] Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260402-AEA1` [high] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
 - `INS-260329-C092` [high] Specialists bypass gatekeepers to deliver expert analysis directly to niche audiences who fund the work through subscriptions
 - `INS-260328-D0F6` [high] Yahoo, HP, and Intel all looked invincible until they were not — the 'watermelon' pattern of green outside, red inside applies to today's tech giants too.
@@ -283,6 +285,7 @@
 - `INS-260330-43CF` [high] PayPal started with 20,000 eBay power sellers, Facebook with 10,000 Harvard students — markets dismissed as worthless that enabled 25-60% penetration in months before expanding outward.
 - `INS-260330-C9C6` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-568A` [high] Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
+- `INS-260402-F4E5` [high] Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260328-02A0` [high] Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time.
 - `INS-260322-7723` [high] AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
 - `INS-260330-EC76` [high] Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
@@ -317,6 +320,7 @@
 - `INS-260330-1D3B` [high] An IRS tax inspector with no knowledge of Bitcoin or Tor cracked the Silk Road case through simple date-filtered Google searches, while FBI and DEA specialists with years of work and advanced tools hadn't identified Ross.
 - `INS-260324-162B` [high] Under Armour's shoes were genuinely better in comfort and performance than Nike — but they looked like clown shoes, and in consumer fashion, aesthetics always wins.
 - `INS-260324-A046` [high] UNIQLO identifies trending pieces too expensive for the mass market, replaces natural fibers with proprietary synthetics, and proactively tweaks design to exceed expectations through merit — not just price.
+- `INS-260402-E2AF` [high] The real competitive threat to a startup is not Google but the unknown startup in a garage working on the same problem with equal desperation.
 - `INS-260330-5B5E` [high] The amount of value you create (X) and the percentage you capture (Y%) are completely independent — airlines create more value than Google Search but capture almost none of it.
 - `INS-260330-B138` [high] X (value created) and Y% (value captured) are completely independent — airlines create $195B in value but capture ~0% profit, while Google captures enormous profit from a smaller market.
 - `INS-260330-5F7E` [high] Creating enormous value doesn't guarantee capturing any of it — airlines created more value than Google but captured approximately zero cumulative profit over 100 years.

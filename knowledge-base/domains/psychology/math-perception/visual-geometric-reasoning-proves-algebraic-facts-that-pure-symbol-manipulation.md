@@ -67,6 +67,10 @@ related:
   - INS-260330-85AE
   - INS-260330-09AB
   - INS-260330-E059
+evidence:
+  - id: INS-260330-E059
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The proof compares three areas: a triangle inscribed in a unit circle (area = cos θ sin θ / 2), a circular sector (area = θ / 2), and a circumscribing triangle (area = tan θ / 2). The geometric containment relationship forces an inequality chain that, after algebraic manipulation, traps sin θ / θ between cos θ and 1/cos θ. The key insight — that these three regions are nested — is fundamentally visual. No amount of symbol manipulation would suggest comparing these specific areas.
 

@@ -54,6 +54,13 @@ related:
 stance: >-
   Instead of humans manually finding cache sizes, tile dimensions, and vector
   widths, the compiler runs your code on the target hardware and caches t...
+evidence:
+  - id: INS-260329-4842
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-BDCC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hardware optimization currently requires deep expertise — knowing your GPU's warp size, cache hierarchy, and optimal tile dimensions. Lattner's auto-tuning feature in Mojo flips this: you declare a search space of parameters, the compiler empirically benchmarks each variant on the actual target hardware, and caches the winner. The result is that code written once stays optimal as hardware changes, because recompilation re-runs the auto-tuning.
 

@@ -51,9 +51,7 @@ stance: >-
   revenues to themselves — a problem that makes dividend-based investing in
   private companies unworkable.
 related:
-  - INS-260322-C472
   - INS-260323-DD40
-  - INS-260321-E654
   - INS-260327-EA4E
   - INS-260327-3930
   - INS-260327-BA93
@@ -61,6 +59,8 @@ related:
   - INS-260327-19E5
   - INS-260328-F752
   - INS-260328-4EA0
+  - INS-260328-195E
+  - INS-260328-A417
 ---
 Graham raises a question most people skip: why isn't there a parallel VC industry investing in ordinary private companies for dividends? The answer is governance. People who control private companies can funnel revenues to themselves — buying overpriced components from suppliers they control while making the company look unprofitable. Monitoring this would require close attention to books, making it unscalable.
 

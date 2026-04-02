@@ -60,5 +60,8 @@ evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-5818
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Galpin calls hypertrophy programming 'idiot-proof' because the effective rep range is enormous (5-30 reps) and the literature shows roughly equal muscle growth across that spectrum. The catch is that sets must approach muscular failure. The three mechanisms driving hypertrophy are metabolic stress (the burn/pump), mechanical tension (heavy loads), and muscular damage (soreness) — you need at least one, not all three. The primary driver is total weekly volume: meta-analyses suggest 10 working sets per muscle group per week as a minimum threshold, with well-trained individuals needing 15-25 sets. This is why training frequency matters practically — it is very difficult to accumulate 20+ quality sets for a muscle in a single session. Galpin recommends 48-72 hours between training the same muscle for hypertrophy, because protein synthesis peaks in that window and returning too soon blunts the growth response. Importantly, soreness is a poor proxy for workout quality.

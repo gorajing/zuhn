@@ -60,6 +60,22 @@ related:
   - INS-260330-3748
   - INS-260330-EBF7
   - INS-260330-22F0
+evidence:
+  - id: INS-260326-24E6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-EE16
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3748
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-EBF7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-22F0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Johnson describes resting-state fMRI findings showing that under psychedelic influence, brain areas that normally operate independently suddenly show highly correlated activity. The brain's usual compartmentalization — 'you do your own thing, and you do your own thing' — breaks down, producing massive cross-talk.
 

@@ -58,6 +58,10 @@ related:
   - INS-260330-8A2E
   - INS-260330-8C6A
   - INS-260330-9FAA
+evidence:
+  - id: INS-260330-21A8
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The light-dependent reactions don't directly produce usable energy. Instead, they pump protons (H+ ions) into the thylakoid lumen — from water splitting and the cytochrome complex — creating a steep concentration gradient. This gradient is potential energy stored as chemical disequilibrium. When protons flow back through ATP synthase (the only exit), the enzyme harvests that flow to attach inorganic phosphate to ADP, producing ATP.
 

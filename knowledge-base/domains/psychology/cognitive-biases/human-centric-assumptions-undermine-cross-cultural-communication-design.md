@@ -56,6 +56,10 @@ related:
   - INS-260330-8638
   - PRI-260328-22EC
   - INS-260330-FA4D
+evidence:
+  - id: INS-260330-8638
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Pioneer plaque, designed by Drake and Sagan, was criticized by human scientists for being difficult to decipher — let alone aliens. The arrow indicating the probe's trajectory assumes familiarity with projectile-based hunting cultures. The use of a man and woman for scale assumes bipedal body plans. Even the pulsar map assumes the recipient shares our concept of spatial diagrams.
 

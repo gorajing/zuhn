@@ -61,6 +61,10 @@ related:
   - INS-260330-A44F
   - INS-260330-AA9D
   - INS-260330-EFFB
+evidence:
+  - id: INS-260325-060A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Apple's smartphone sales plateaued at ~200M units annually not because of competition but because its own products became too good. Two-year upgrade cycles stretched to three or four years as customers became 'mostly happy with what they have.' This creates a paradox: the better the product, the less reason to replace it.
 

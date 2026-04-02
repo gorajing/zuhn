@@ -58,6 +58,16 @@ related:
 stance: >-
   The same gene editing tools used for de-extinction can save living species
   from genetic bottlenecks, invasive species, and disease
+evidence:
+  - id: INS-260325-DFA5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-E81D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-2F1E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 De-extinction headlines focus on woolly mammoths and direwolves, but the most transformative application of the same technology is genetic rescue of living species. The black-footed ferret population crashed so severely that every living ferret is a first cousin — dangerously low genetic diversity. Scientists are using gene editing to introduce diversity from 100-year-old museum specimens back into the living population.
 

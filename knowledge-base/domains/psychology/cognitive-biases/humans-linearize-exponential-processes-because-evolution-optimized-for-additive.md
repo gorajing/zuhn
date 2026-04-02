@@ -52,5 +52,9 @@ related:
   - INS-260330-1C84
   - INS-260330-AA4F
   - INS-260330-FB66
+evidence:
+  - id: INS-260330-9FCF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown demonstrates that even after being told case counts were doubling every few days, most people's gut predictions undershot reality by orders of magnitude. This isn't ignorance — it's a deep perceptual default. Our brains evolved in environments where most change was additive (walking further, gathering more food), so we lack intuitive hardware for compounding. The practical implication extends far beyond epidemics: compound interest, viral content growth, technology adoption curves, and technical debt all exploit this same blind spot. The only reliable countermeasure is to replace intuition with explicit calculation — plugging numbers into the exponential formula rather than trusting your sense of what 'feels right.'

@@ -54,6 +54,9 @@ evidence:
   - id: INS-260320-93E1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-5CB0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ding's framework: 'A lot of people think if you come up with a really good idea, that's all you need. But you need to understand the competition—who has done this before, have they been successful, if not why not, and why would you be more successful.'
 

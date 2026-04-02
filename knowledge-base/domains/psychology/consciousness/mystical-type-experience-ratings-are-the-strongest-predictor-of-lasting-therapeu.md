@@ -68,6 +68,16 @@ related:
   - INS-260330-EE16
   - INS-260330-203F
   - INS-260330-3672
+evidence:
+  - id: INS-260327-B987
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-3AFE
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-A5B0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Across multiple Johns Hopkins studies on psilocybin for smoking cessation, depression, and end-of-life anxiety, the single strongest predictor of lasting therapeutic benefit is the patient's score on the Mystical Experience Questionnaire — a validated measure of unity, transcendence, sacredness, and noetic quality. This is striking because it means a subjective phenomenological variable outpredicts all objective clinical variables.
 

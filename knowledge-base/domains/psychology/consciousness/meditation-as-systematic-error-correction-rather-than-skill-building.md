@@ -53,5 +53,9 @@ related:
   - INS-260330-464E
   - INS-260323-3E21
   - INS-260323-2FC3
+evidence:
+  - id: INS-260323-1B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The structure of Harris's guided meditation reveals an implicit pedagogy: rather than training concentration as a muscle (the common framing), each instruction systematically removes a layer of misperception. First the sense of being lost in thought is removed by noticing thoughts. Then the sense of being a noticer is removed by looking for who is noticing. Then the sense of awareness having a location is removed by searching for its center. This 'subtractive' model has significant implications for how meditation should be taught—and for learning theory more broadly. Skill-building metaphors (practice makes perfect, 10,000 hours) may be precisely wrong for domains where the target state is already present but obscured. The parallel to debugging is striking: you don't build correct software by adding code, you find and remove bugs. Similarly, the 'natural state' of awareness is already complete; practice just removes the bugs in perception.

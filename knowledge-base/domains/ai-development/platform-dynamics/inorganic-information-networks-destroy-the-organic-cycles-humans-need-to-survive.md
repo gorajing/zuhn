@@ -55,6 +55,13 @@ related:
   - PRI-260327-0D6E
   - INS-260330-6D2E
   - INS-260330-13B2
+evidence:
+  - id: INS-260330-6D2E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-13B2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 All prior information networks were organic — run by human brains that needed sleep, rest, family time, and seasonal cycles. Even Wall Street operates Monday-Friday, 9:30-4:00. The Soviet KGB couldn't follow everyone because it didn't have enough organic agents.
 

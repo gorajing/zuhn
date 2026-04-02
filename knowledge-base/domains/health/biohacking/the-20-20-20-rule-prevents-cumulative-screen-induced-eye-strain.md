@@ -57,6 +57,28 @@ related:
   - INS-260330-E823
   - INS-260330-A256
   - INS-260330-F6A2
+evidence:
+  - id: INS-260323-0982
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-8EED
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-9F01
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B64
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-3473
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E823
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F6A2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The 20-20-20 rule is a simple ergonomic protocol: every 20 minutes of screen time, shift your focus to an object at least 20 feet away for 20 seconds. This works because prolonged near-focus causes the ciliary muscles in your eyes to lock up, leading to digital eye strain (asthenopia). The periodic refocusing forces these muscles to relax.
 

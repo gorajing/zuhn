@@ -57,6 +57,16 @@ related:
   - INS-260329-7C59
   - PRI-260328-8516
   - INS-260329-03B0
+evidence:
+  - id: INS-260329-03B0
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A461
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-FEF4
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The tutorial's progression from procedural code to classes and inheritance mirrors a cognitive shift: moving from thinking in sequences of actions to thinking in entities with behaviors and relationships. This shift — from 'what happens' to 'what exists and how does it interact' — is fundamentally about building mental models of complex systems.
 

@@ -49,5 +49,9 @@ related:
   - INS-260327-89C7
   - INS-260323-B4D2
   - INS-260329-3DD7
+evidence:
+  - id: INS-260323-B4D2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Tom Siegel uses a sequential four-filter framework from his experience evaluating opportunities at Google and now at Trust Lab. First: what value are we providing to customers and is it special? Second: can we actually build it technically? Third: how big is that market? Fourth: is there already 15 companies doing exactly the same thing and how are we differentiated? Critically, he starts with value rather than market size — a huge market with undifferentiated value is a trap. The framework works as a quick filter to kill bad ideas early before wasting months of exploration.

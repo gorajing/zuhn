@@ -63,6 +63,22 @@ related:
   - INS-260330-E5F7
   - INS-260329-40B6
   - INS-260330-1647
+evidence:
+  - id: INS-260330-2666
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-112E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-32DB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-40B6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1647
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 CS50P's progression from raw code to functions to classes to libraries traces a single arc: increasing levels of abstraction. Malan explicitly teaches students to recognize when repeated patterns should become functions, when related functions should become classes, and when classes should become libraries. This is not Python-specific — it's the universal programming skill.
 

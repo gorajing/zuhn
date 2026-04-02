@@ -50,7 +50,6 @@ stance: >-
   unchanged regardless of what appears within it, making it a more reliable
   reference point than any thought or emotion.
 related:
-  - INS-260322-5B1B
   - INS-260325-6BDE
   - INS-260330-8B24
   - PRI-260324-1134

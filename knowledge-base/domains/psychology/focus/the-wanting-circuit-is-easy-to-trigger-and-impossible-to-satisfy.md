@@ -52,6 +52,10 @@ related:
   - INS-260330-85D9
   - INS-260328-AE33
   - INS-260327-E41B
+evidence:
+  - id: INS-260327-E41B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The brain contains two distinct pleasure systems. The wanting/reward circuit is widely diffused throughout the brain, very easy to trigger, but impossible to satiate — this is the hedonic treadmill Aristotle noted. The opioid/liking system is smaller, harder to trigger, but CAN be satisfied.
 

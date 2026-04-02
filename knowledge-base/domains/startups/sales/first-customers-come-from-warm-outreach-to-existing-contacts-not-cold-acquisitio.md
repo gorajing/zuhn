@@ -58,6 +58,10 @@ related:
   - INS-260329-C36D
   - INS-260329-8386
   - INS-260327-89C7
+evidence:
+  - id: INS-260327-5D62
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Most founders default to building funnels, running ads, or cold emailing strangers when trying to get their first customers. Hormozi argues this is backwards — your existing network (phone contacts, email contacts, social media connections) already contains people who trust you enough to try something new. The key insight is that trust is the bottleneck for early sales, not awareness, and warm contacts have pre-existing trust.
 

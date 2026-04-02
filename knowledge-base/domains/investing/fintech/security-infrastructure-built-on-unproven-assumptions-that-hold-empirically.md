@@ -52,14 +52,18 @@ related:
   - INS-260330-7FFE
   - INS-260327-76B2
   - INS-260323-BA17
-  - INS-260330-4370
   - INS-260330-C7DB
+  - INS-260330-4370
+  - INS-260402-086D
 evidence:
   - id: INS-260327-76B2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
   - id: INS-260327-7F32
     type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-D6AA
+    type: SUPPORTS
     classified_at: '2026-04-02'
 ---
 A surprising foundation of modern digital security: there is no rigorous mathematical proof that cryptographic hash functions like SHA256 cannot be reversed. The entire system — from Bitcoin to HTTPS to banking — rests on the empirical fact that no one has yet discovered a shortcut. This is a striking example of pragmatic epistemology in critical infrastructure. The pattern recurs in complex systems: we often build on assumptions that work reliably without being provably true (market efficiency, physical constants, social contracts). The risk management implication is that such systems have a non-zero probability of catastrophic failure if the assumption breaks — in SHA256's case, if someone discovers a reversal algorithm, vast swaths of digital security collapse simultaneously.

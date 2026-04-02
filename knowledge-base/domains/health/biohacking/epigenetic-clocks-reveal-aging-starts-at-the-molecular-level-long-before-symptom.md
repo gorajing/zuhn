@@ -59,6 +59,10 @@ related:
   - INS-260326-A7CB
   - PRI-260325-638B
   - INS-260327-034A
+evidence:
+  - id: INS-260326-A7CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Every cell has the same DNA but functions differently because the epigenome — particularly DNA methylation patterns — determines which parts of the genome are accessible. Skin cells, brain cells, and liver cells all have distinct methylation patterns that give them their identity.
 

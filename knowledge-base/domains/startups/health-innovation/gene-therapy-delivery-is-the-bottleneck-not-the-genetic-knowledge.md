@@ -53,6 +53,16 @@ related:
   - INS-260325-3F8B
   - INS-260325-07FA
   - PRI-260328-5989
+evidence:
+  - id: INS-260323-198E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-9F5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-3F8B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Gene therapy has been a vision for over 50 years: deliver corrected DNA into cells for a one-time, permanent cure. The proof of concept exists — Zolgensma cures spinal muscular atrophy (previously the leading genetic cause of death in children) with a single treatment. But only a handful of gene therapies are FDA-approved despite knowledge of 7,000+ genetic diseases.
 

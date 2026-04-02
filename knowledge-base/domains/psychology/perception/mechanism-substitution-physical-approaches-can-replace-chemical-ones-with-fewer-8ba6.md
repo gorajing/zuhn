@@ -62,6 +62,10 @@ related:
   - INS-260330-5232
   - INS-260330-16F0
   - INS-260330-3BB5
+evidence:
+  - id: INS-260327-D070
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Traditional waterproofing relies on chemical coatings — waxes, silicones, fluoropolymers — that degrade over time and can have environmental or health side effects. Aerogel achieves waterproofing through physical structure: its nanoscale pores trap air, creating a physical barrier that prevents water from contacting the surface. The Cassie-Baxter state means water sits on trapped air rather than the material itself.
 

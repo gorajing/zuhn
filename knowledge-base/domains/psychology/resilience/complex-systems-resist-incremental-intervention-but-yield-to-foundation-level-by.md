@@ -63,5 +63,12 @@ related:
   - INS-260326-786D
   - INS-260330-F258
   - INS-260330-B468
+evidence:
+  - id: INS-260323-8CA9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-786D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Three principles from three domains form a coherent system: Psychology: survival selects for stability, not optimality -- what persists is what cannot easily be destroyed. Systems don't optimize for the best outcome, they optimize for resistance to disruption. Health: minimum viable edit -- in complex biological systems, each intervention carries unpredictable cascading risk. The system's interconnections turn small changes into large unintended consequences. Startups: first-principles audacity beats incremental optimization -- strip to physics, then leap. The synthesis: complex systems have two defense layers. The first (stability optimization) absorbs incremental changes. The second (cascading interconnection) punishes radical changes that operate within the system's framework. The only successful intervention strategy is to operate below the system's foundation -- changing the substrate it's built on rather than the structure it maintains. This is why diet changes work when supplements don't (health), why platform shifts succeed when feature competition fails (startups), and why paradigm shifts require abandoning frameworks rather than extending them (science).

@@ -60,6 +60,10 @@ related:
 stance: >-
   Peter Steinberger runs 4-10 parallel Claude Code agents simultaneously, rarely
   uses an IDE, and explicitly doesn't read 'boring' code (data transfo...
+evidence:
+  - id: INS-260330-A260
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Steinberger's workflow evolved from Claude Code + IDE to almost pure terminal-based multi-agent development. He ran 4-10 Claude Code instances in parallel, burning through multiple API subscriptions per day (7 at peak), and completed 6,600 commits in January alone. He rarely used an IDE except as a diff viewer.
 

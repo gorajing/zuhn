@@ -51,5 +51,9 @@ related:
 stance: >-
   Chuck-E-Cheese pivoted from pizza to arcade games in the 90s, nearly tripling
   margins because games are self-service with zero variable costs
+evidence:
+  - id: INS-260323-6230
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Chuck-E-Cheese started as a family pizza restaurant, lost to Domino's/Pizza Hut on food, and pivoted to entertainment. Arcade games had massive gross margins — self-service, no labor, no ingredients. This worked until home consoles provided infinite playtime for a one-time cost. The average Chuck-E-Cheese grosses less every year. The new generation of arcades survives by creating experiences not replicable at home (immersive VR, social drinking venues like Dave & Buster's, unique indie concepts). The lesson: margin improvement through business model pivots can be undone when technology makes the whole category accessible from home.

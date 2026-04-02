@@ -60,6 +60,10 @@ related:
   - INS-260327-8B5B
   - INS-260327-4669
   - INS-260330-8FD6
+evidence:
+  - id: INS-260323-6230
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 GoPro's collapse is a masterclass in the first-mover trap. They created the action camera category and dominated it completely, but that dominance bred complacency. They believed they could set the tempo because they owned the market, so they launched 20 models in 10 years. But improvements between generations became trivial, the use case never expanded beyond extreme sports, and there was no reason to buy the latest at full price.
 

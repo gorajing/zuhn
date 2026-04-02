@@ -63,6 +63,10 @@ related:
   - INS-260327-8389
   - PRI-260328-BF1E
   - INS-260328-D826
+evidence:
+  - id: INS-260328-D826
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Most entrepreneurs treat branding as a design exercise — logos, color palettes, taglines. Hormozi reframes it as a behavioral mechanism: branding is the deliberate pairing of your product/company with outcomes, people, or values that your ideal customer already likes. When Bud Light paired with Shane Gillis and UFC (values their core audience liked), sales recovered. When they paired with Dylan Mulvaney (values that clashed with their core audience), sales dropped. The logo is just the symbol that holds the accumulated pairings together — like a vase holding flowers. Without deliberate pairing, brand happens by accident, which means random associations that don't compound.
 

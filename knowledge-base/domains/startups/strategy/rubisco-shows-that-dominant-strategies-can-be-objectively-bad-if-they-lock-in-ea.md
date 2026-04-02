@@ -65,6 +65,10 @@ related:
   - INS-260330-F82A
   - INS-260330-D4CC
   - INS-260330-C134
+evidence:
+  - id: INS-260330-AB3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RuBisCo evolved when CO2 was abundant and oxygen was scarce, making it adequate for carbon fixation. As plants themselves increased atmospheric oxygen through photosynthesis, RuBisCo began confusing O2 for CO2 roughly half the time, producing toxic byproducts that require additional enzymatic cleanup. Despite this catastrophic failure rate, plants never evolved a replacement — they simply produce enormous quantities (estimated 40 billion tons globally) to brute-force the problem.
 

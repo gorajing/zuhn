@@ -63,6 +63,10 @@ related:
 stance: >-
   The most passionate (even abrasive) power users often make the best product
   builders
+evidence:
+  - id: INS-260323-5CBE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Jeff Kaplan was known on EverQuest for his passionate, detailed — and extremely profane — feedback rants to the developers. But buried in the profanity was deep product insight: specific, actionable suggestions from someone who had invested 6,000+ hours in the product and understood it better than most designers.
 

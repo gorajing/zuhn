@@ -52,6 +52,9 @@ evidence:
   - id: INS-260329-3739
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-C4FF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Dario Amodei argues that comparative advantage is "surprisingly powerful"

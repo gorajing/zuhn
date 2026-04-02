@@ -60,5 +60,8 @@ evidence:
   - id: INS-260330-A812
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-2832
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dostoevsky's novels (Crime and Punishment, Notes from Underground, The Brothers Karamazov) all explore the same pattern: characters who try to perfect themselves through sheer will end up worse than those who accept their flaws. The Underground Man's hyper-rational self-improvement leads to cruelty. Raskolnikov's attempt to transcend morality through will leads to collapse. The insight: willpower is a form of internal tyranny that strengthens what it suppresses. The shadow (Jung's term for the repressed self) does not disappear when denied — it accumulates power. Authentic transformation requires acknowledging and integrating the shadow, not defeating it.

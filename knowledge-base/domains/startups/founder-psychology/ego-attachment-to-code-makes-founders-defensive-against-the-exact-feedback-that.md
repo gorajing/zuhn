@@ -62,6 +62,9 @@ evidence:
   - id: INS-260322-F6B5
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-8555
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Tim describes a pattern where months of obsessive building made him feel personally attacked by negative feedback. Rather than treating criticism as useful data ('great, now I know what to fix'), he experienced it as an assault on his identity as a software engineer. This ego-code fusion is particularly dangerous because the people most capable of building are the ones most emotionally attached to what they built.
 

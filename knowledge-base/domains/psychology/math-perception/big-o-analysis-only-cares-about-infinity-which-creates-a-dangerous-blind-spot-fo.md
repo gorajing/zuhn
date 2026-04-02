@@ -74,5 +74,8 @@ evidence:
   - id: INS-260329-D8BC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-FDA9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The course teaches Big-O as the standard framework for comparing algorithms, but includes an important caveat that's often glossed over: 'this is all theoretical — in the real world, if your constant is 2 billion, that's going to have a substantial impact.' Big-O strips away multiplicative constants (3n becomes O(n)) and additive terms (n³ + 15n² becomes O(n³)) because it only cares about behavior as n approaches infinity. This creates a systematic blind spot: an O(n) algorithm with a constant factor of 1000 will be slower than an O(n²) algorithm for all inputs under n=1000. Practitioners who internalize Big-O without understanding its limitations make poor choices for real-world workloads where n is bounded. The key mental model is that Big-O is a classification tool for large-scale behavior, not a performance predictor for any specific input size.

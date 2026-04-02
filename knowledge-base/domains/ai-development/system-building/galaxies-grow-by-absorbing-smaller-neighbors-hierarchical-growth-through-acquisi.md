@@ -58,6 +58,16 @@ related:
 stance: >-
   Galaxies grow hierarchically — larger ones absorb smaller neighbors — and the
   evidence of those acquisitions persists in the chemistry and position...
+evidence:
+  - id: INS-260323-76FE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-DFA4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F6B5
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Frebel explains that the Milky Way grew through hierarchical mergers: larger proto-galaxies gravitationally attracted and absorbed smaller neighbors. The oldest stars — made from just hydrogen and helium — ended up at the galaxy's outskirts, debris from ancient acquisitions that were never fully integrated into the new structure.
 

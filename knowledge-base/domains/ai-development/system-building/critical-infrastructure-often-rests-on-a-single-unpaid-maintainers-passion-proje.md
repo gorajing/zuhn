@@ -53,6 +53,19 @@ related:
 stance: >-
   The XZ backdoor nearly succeeded because the entire Linux ecosystem depended
   on a compression tool maintained by one burned-out volunteer for 20 ye...
+evidence:
+  - id: INS-260330-5E47
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-50B3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-9A60
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-22C0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Lasse Collin maintained XZ Utils for nearly 20 years without pay. The tool became a dependency of OpenSSH, which secures virtually every Linux server on the internet — including Pentagon systems, nuclear submarines, and all 500 top supercomputers. When Lasse burned out due to mental health issues, the attacker Jia Tan offered to 'help,' eventually gaining full maintainer access.
 

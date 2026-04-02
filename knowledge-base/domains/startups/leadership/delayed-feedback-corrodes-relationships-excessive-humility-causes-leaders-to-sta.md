@@ -54,13 +54,16 @@ related:
   - INS-260326-8217
   - PRI-260328-1D0B
   - INS-260330-5A66
-  - INS-260323-8271
   - INS-260326-C657
   - INS-260327-66AC
   - INS-260330-775F
 stance: >-
   Leaders who stall on giving feedback to gather 'objective evidence' let
   emotional resentment compound
+evidence:
+  - id: INS-260327-66AC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Many novice leaders, especially in Korean cultural contexts, believe they need objective evidence before delivering difficult feedback. This creates a destructive cycle: they delay the conversation while searching for unchallengeable proof, meanwhile the discomfort compounds internally. By the time they finally speak up, they've accumulated so much resentment that the feedback explodes rather than lands constructively.
 

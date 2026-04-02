@@ -53,6 +53,10 @@ related:
   - INS-260322-E90F
   - INS-260329-A9C0
   - INS-260330-7AE9
+evidence:
+  - id: INS-260329-A9C0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Cytowic advocates for 'niksen' — the Dutch art of doing nothing. Unlike meditation, niksen isn't a structured practice. It's simply stopping, looking up, watching branches sway, listening to birds, for even three minutes. This throws the brain's 'circuit breaker' and lowers the engagement level from overload back to baseline.
 

@@ -52,6 +52,10 @@ related:
 stance: >-
   CRISPR-Cas9 uses RNA-guided proteins to make targeted DNA edits cheaply and
   quickly, unlike earlier one-off gene-editing tools.
+evidence:
+  - id: INS-260323-D631
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Before CRISPR, gene editing required bespoke protein tools (zinc-finger nucleases, TALENs) that were expensive and slow to produce — one custom tool per edit. CRISPR leverages a natural bacterial defense mechanism where RNA molecules guide a Cas9 protein to a specific DNA sequence and cut it. The RNA guide can be easily reprogrammed, making it a general-purpose text editor for the genome.
 

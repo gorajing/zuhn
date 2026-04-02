@@ -41,7 +41,6 @@ resolutions:
     you must be obsessed with winning the whole game or playing a different game
     entirely. Accepting a comfortable middle position is accepting a slow death.
 related:
-  - INS-260323-3CC2
   - INS-260329-1962
   - PRI-260323-81E9
   - INS-260330-3897

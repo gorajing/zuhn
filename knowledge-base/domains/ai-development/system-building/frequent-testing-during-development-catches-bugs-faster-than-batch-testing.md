@@ -53,5 +53,9 @@ related:
   - INS-260329-3441
   - INS-260329-3423
   - INS-260330-FBE1
+evidence:
+  - id: INS-260330-FBE1
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The course advises: 'If you've spent five hours coding and hadn't run it during that time period, it's going to be likely that at some point during that five hour code session, you messed up, and it's going to be even harder to figure out where you went wrong.' This is a first-principles argument for continuous testing — the bug search space equals the delta between your last known-good state and your current state. Minimizing that delta through frequent test runs makes debugging trivial. Combined with version control (backing up frequently), this creates a workflow where you always have a recent working state to compare against. This principle scales directly to AI system development: test each pipeline stage independently, validate intermediate outputs, and commit working states frequently rather than building complex multi-stage systems and testing only at the end.

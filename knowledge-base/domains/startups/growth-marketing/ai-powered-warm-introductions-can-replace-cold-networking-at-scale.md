@@ -56,6 +56,9 @@ evidence:
   - id: INS-260322-96D1
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-112B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Johnson identifies a real problem: access to opportunities (internships, funding, partnerships) is heavily gatted by warm networks. Someone with 'dad's golf buddy' gets the investment banking internship over equally qualified candidates without connections. Series uses AI agents to make warm introductions based on matching needs, removing the human bottleneck.
 

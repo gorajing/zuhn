@@ -56,5 +56,9 @@ related:
   - INS-260329-50D5
   - PRI-260323-0F93
   - INS-260330-CDF8
+evidence:
+  - id: INS-260329-5DB9
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Most engineers treat CAP theorem as trivia for interviews. Its actual utility is as a decision-forcing function: by proving you cannot have all three properties simultaneously, it demands you state which one you're willing to sacrifice. A banking system chooses CP (consistency + partition tolerance), accepting brief unavailability during network partitions. A social media feed chooses AP (availability + partition tolerance), accepting that users might briefly see stale data. The systems that fail worst are those that never made the choice explicitly — they assumed they could have all three, and during a partition event, the system behaves unpredictably because no one designed the degradation path. This pattern applies to product strategy: any three-variable constraint where you can only optimize two forces a declaration. Trying to be all things simultaneously produces a system that is unpredictably none of them under stress.

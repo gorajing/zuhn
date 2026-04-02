@@ -11,3 +11,4 @@
 - `INS-260323-2038` Lex Fridman argues that jiu-jitsu is humbling and that humility is a powerful tool for innovation and leadership, especially for tech leaders who rarely experience physical vulnerability.
 - `INS-260323-8726` The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
 - `INS-260327-91E7` Scaling requires hiring domain experts and having genuine humility to learn from them.
+- `INS-260402-E140` Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.

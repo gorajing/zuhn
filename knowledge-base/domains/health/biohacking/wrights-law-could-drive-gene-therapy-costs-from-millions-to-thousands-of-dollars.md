@@ -59,6 +59,19 @@ related:
   - INS-260325-1AB9
   - PRI-260328-5989
   - INS-260322-02A6
+evidence:
+  - id: INS-260325-14DC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-07FA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-1AB9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-02A6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Current gene therapies cost millions of dollars per dose, making them inaccessible for most patients and economically unviable for rare diseases with only a handful of patients worldwide. Kelsic argues that Wright's Law — with every doubling of cumulative production, costs decrease by a fixed percentage — will apply to gene therapy as it has to semiconductors (200x improvement) and solar (200-fold cost reduction over five decades).
 

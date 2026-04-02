@@ -49,7 +49,7 @@ related:
   - INS-260330-CFBA
   - INS-260330-AB6E
   - PRI-260328-59DC
-  - INS-260327-0F42
   - INS-260327-F9C3
+  - INS-260327-39D4
 ---
 Y Combinator's famous advice 'make something people want' got dramatically easier in the AI era. Instead of guessing what people want, founders can observe what people are already paying other humans to do — customer support, legal research, financial analysis, insurance adjusting. The TAM has expanded by 10-100x because you're no longer selling $20/month SaaS seats, you're capturing portions of the combined salaries companies spend on human labor for those tasks. This reframing transforms every professional service into a potential AI product opportunity.

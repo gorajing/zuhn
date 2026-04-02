@@ -1,9 +1,10 @@
 # Topic: decision-making
 
-> 33 insights
+> 35 insights
 
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
+- `INS-260402-B66A` [high] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260330-4BFD` [high] When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-6CB7` [high] Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
@@ -16,6 +17,7 @@
 - `INS-260330-2C57` [high] Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260330-9931` [high] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260330-FD28` [high] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
+- `INS-260402-8ACF` [high] Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260330-C9A6` [high] Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260402-40D7` [high] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260330-B444` [high] Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.

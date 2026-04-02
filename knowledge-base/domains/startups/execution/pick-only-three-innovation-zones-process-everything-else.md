@@ -47,5 +47,9 @@ related:
   - INS-260323-DE2B
   - INS-260321-69E1
   - INS-260327-F417
+evidence:
+  - id: INS-260327-F417
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Michael's practical framework for the process-vs-chaos debate: ask founders 'where are the top three places you want to innovate?' You can't innovate across 20 areas at once. If customer service is your differentiator, maybe don't hire the 20-year industry veteran — innovate there. But if it's not your differentiator, just hire the experienced person and apply standard process. This resolves the bolt-vs-art tension at the organizational level. Most of your company should run like a bolt factory (measurable, consistent, iteratively improved), and your 2-3 innovation zones get the freedom, chaos, and risk tolerance needed for genuine breakthroughs.

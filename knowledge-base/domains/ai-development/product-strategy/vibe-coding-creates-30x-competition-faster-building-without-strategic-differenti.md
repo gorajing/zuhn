@@ -58,6 +58,25 @@ related:
   - INS-260329-9115
   - INS-260329-A57B
 stance: 'If AI lets you build faster, it lets every other founder build faster too'
+evidence:
+  - id: INS-260323-E15F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-697F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-A61B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-FA43
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-EC45
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A57B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Founders see GitHub Copilot and ChatGPT writing functions and conclude they can prototype and ship in weeks. The fallacy: AI helps write code fast, but production-ready systems still require architecture, testing, security, scalability, and maintainability that vibe coding doesn't provide. Maurya has seen startups ship impressive demos in days then throw away the entire codebase because it wasn't fit for real users.
 

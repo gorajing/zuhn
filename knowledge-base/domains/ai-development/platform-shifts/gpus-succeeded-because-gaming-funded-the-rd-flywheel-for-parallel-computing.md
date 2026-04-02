@@ -56,6 +56,34 @@ related:
 stance: >-
   NVIDIA chose gaming as its first market because it was large enough to fund
   massive R&D, creating a flywheel between technology investment and mark...
+evidence:
+  - id: INS-260327-C1F6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260324-9E37
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-90E8
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-EDA4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260324-6345
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260324-468C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-0277
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-99DB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-CA82
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Jensen Huang's key strategic insight was that video games would become the largest entertainment market ever, and that market size would fund the R&D needed to build increasingly powerful parallel processors. The flywheel: large gaming market -> large R&D budget -> better GPU technology -> more applications -> larger market.
 

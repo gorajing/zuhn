@@ -50,6 +50,10 @@ related:
   - INS-260325-6F89
   - INS-260327-99CE
   - INS-260322-AAEA
+evidence:
+  - id: INS-260325-060A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bryk was at an OpenAI party arguing with Greg Brockman about the scaling hypothesis before it was accepted. Brockman was right that scaling transformers would keep working. The lesson Bryk took: the people who were earlier to the correct conclusion about AI's trajectory did better.
 

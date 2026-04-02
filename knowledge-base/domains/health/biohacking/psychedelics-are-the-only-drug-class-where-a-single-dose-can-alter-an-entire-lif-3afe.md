@@ -57,6 +57,19 @@ related:
   - INS-260330-EE16
   - INS-260330-887A
   - INS-260326-24E6
+evidence:
+  - id: INS-260330-1384
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-EE16
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-887A
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260326-24E6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Matthew Johnson, a Johns Hopkins professor who has studied psychedelics for nearly two decades, identifies what makes them pharmacologically unique: they are the only drug class where large numbers of people report that a single use had profound, lasting impact on their entire life trajectory. No one says they smoked pot once 20 years ago and it changed everything. With psychedelics, these stories are countless.
 

@@ -11,6 +11,7 @@
 - `INS-260329-D37E` The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
 - `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
+- `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260328-3959` A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
 - `INS-260330-070A` VCs who avoid flawed companies systematically miss the biggest winners because extreme outliers always have glaring weaknesses alongside their extraordinary strengths.

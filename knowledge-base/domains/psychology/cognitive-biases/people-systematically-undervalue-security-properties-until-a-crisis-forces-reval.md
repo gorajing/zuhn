@@ -56,6 +56,10 @@ related:
   - INS-260330-0371
   - PRI-260323-7BFA
   - PRI-260328-7A9C
+evidence:
+  - id: INS-260325-C59D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Both Naval and Vitalik observe that every bull market wave brings new users who gravitate toward 'minimum viable decentralization' — they don't care about security properties until the consequences become real. Naval puts it bluntly: 'People don't value privacy until somebody goes to jail over it.' This creates a predictable cycle where security features are undervalued during growth phases and suddenly demanded after incidents.
 

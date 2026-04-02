@@ -64,6 +64,10 @@ related:
 stance: >-
   Nearly 1 in 7 Americans already takes a GLP-1 drug, next-gen retatrutide
   enables a third of body weight loss with muscle sparing, and compounding p...
+evidence:
+  - id: INS-260325-39FD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Huberman draws an analogy to how auto credit democratized nice cars: GLP-1 drugs are democratizing healthy body weight. Retatrutide (GLP-3) passed Phase 3 at Eli Lilly with up to a third of body weight loss and some degree of muscle sparing, while bypassing side effects of earlier GLPs. But the real disruption is distribution: compounding pharmacies and gray market sources already sell it at much lower doses and costs than pharma pricing.
 

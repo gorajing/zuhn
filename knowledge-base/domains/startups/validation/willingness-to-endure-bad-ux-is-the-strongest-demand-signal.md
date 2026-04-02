@@ -48,7 +48,6 @@ stance: >-
   polished metrics from a smooth experience.
 related:
   - INS-260323-4DD9
-  - INS-260327-EBDF
   - INS-260327-38BC
   - INS-260328-C12D
   - INS-260330-82B5
@@ -56,6 +55,8 @@ related:
   - INS-260330-5ED4
   - INS-260330-4DFA
   - INS-260325-040F
+  - INS-260402-FFB2
+  - INS-260327-EBDF
 evidence:
   - id: INS-260330-82B5
     type: CONTRADICTS

@@ -60,6 +60,10 @@ related:
   - INS-260325-A66E
   - INS-260327-1DAB
   - INS-260323-3ED8
+evidence:
+  - id: INS-260325-A66E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Research from Duncan French at the UFC Performance Center identified a remarkably narrow optimal protocol for testosterone release: 6 sets of 10 repetitions on compound movements (squats, deadlifts, chin-ups) with strict 2-minute rest intervals, performed at most twice per week. The striking finding is that increasing to 10 sets of 10 — just 4 more sets — not only eliminated the testosterone benefit but actually shifted the hormonal response toward catabolic cortisol pathways.
 

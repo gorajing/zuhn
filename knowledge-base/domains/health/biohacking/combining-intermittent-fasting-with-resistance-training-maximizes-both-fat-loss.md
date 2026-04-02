@@ -48,5 +48,9 @@ related:
   - INS-260327-DB76
   - INS-260330-6C59
   - INS-260330-6377
+evidence:
+  - id: INS-260327-5833
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The combination of intermittent fasting (16-20 hours) with resistance training leverages elevated growth hormone and fat oxidation during the fast while the training stimulus preserves and builds muscle

@@ -54,6 +54,10 @@ related:
   - INS-260327-DC4C
   - INS-260327-A9D5
 stance: OpenAI doesn't treat agents as a separate category
+evidence:
+  - id: INS-260327-94FE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 There's a temptation to treat 'agents' as a wholly new product category requiring new playbooks for pricing, go-to-market, and ecosystem management. OpenAI's internal framing rejects this: agents are simply AI that takes actions on your behalf over long time horizons — one of many ways intelligence gets manifested.
 

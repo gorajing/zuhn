@@ -59,6 +59,10 @@ related:
   - INS-260322-0C91
   - INS-260323-8893
   - INS-260329-CDD1
+evidence:
+  - id: INS-260325-5455
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 A recurring theme in Hormozi's framework is that broke entrepreneurs fail by trying to start where successful entrepreneurs are now rather than where they started. They want to run ads before they have revenue, hire before they have consistent sales, and build systems before they understand the process. The correct sequence is inverted: start with the highest-effort, lowest-cost strategies (manual outreach, personal delivery, one-on-one service), then use the revenue generated to buy back your time through automation and hiring.
 

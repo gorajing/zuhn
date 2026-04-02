@@ -69,6 +69,16 @@ related:
   - PRI-260328-92EF
   - INS-260330-383F
   - INS-260330-DC78
+evidence:
+  - id: INS-260327-1DAB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-FC52
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-DC78
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bonanno describes the stress response as 'magnificent' — far more sophisticated than the simple fight-or-flight label suggests. When sensory signals match threat patterns, the amygdala and hypothalamus trigger a cascade: blood flow and glucose increase to extremities, pupils dilate, unnecessary functions go offline, and the brain shifts from reflective processing to automatic, survival-focused processing.
 

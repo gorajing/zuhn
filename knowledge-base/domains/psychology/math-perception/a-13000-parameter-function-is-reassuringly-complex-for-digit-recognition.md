@@ -51,8 +51,12 @@ related:
   - INS-260329-4F3F
   - INS-260330-4267
   - INS-260325-898A
+  - INS-260402-9676
   - PRI-260325-EEE9
   - INS-260323-085A
-  - INS-260330-579B
+evidence:
+  - id: INS-260330-4267
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The video makes an offhand but profound observation: the neural network function involves 13,000 parameters, iterated matrix multiplications, and nonlinear activation functions — and this complexity is 'reassuring' rather than concerning. If a simpler function could recognize handwritten digits, we should be suspicious. This reveals a useful calibration heuristic that applies far beyond neural networks. In any domain, the complexity of your solution should be roughly proportional to the complexity of the problem. A three-line script that claims to solve a hard optimization problem probably doesn't. A simple heuristic that claims to predict market movements is probably overfitting. This 'complexity calibration' intuition helps practitioners evaluate whether their solutions are likely to generalize — if the model is much simpler than the problem, it's probably underfitting; if it's vastly more complex, it's probably overfitting.

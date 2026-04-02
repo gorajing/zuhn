@@ -57,6 +57,31 @@ related:
 stance: >-
   The sense of presence in AR/VR is less about any single feature being great
   and more about no single flaw breaking the illusion.
+evidence:
+  - id: INS-260325-D82A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-BE4D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-AB5D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-A4A5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-BBD3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-671E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-A43C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-DA0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Zuckerberg describes presence as an illusion where the bar is set by absence of failure, not presence of excellence. A narrow field of view, latency, unrealistic physics, or any single broken element destroys the feeling. This is why it's a 10-year project -- you need every subsystem to be good enough simultaneously.
 

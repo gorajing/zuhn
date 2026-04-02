@@ -59,6 +59,13 @@ related:
 stance: >-
   EUV lithography took 30 years from Kinoshita's 1983 proof-of-concept to ASML's
   commercial machine because it required convergence of nuclear fusion...
+evidence:
+  - id: INS-260325-14DC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-76BD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kinoshita first demonstrated x-ray lithography in 1985, but was laughed off stage. Andy Hawryluk at Lawrence Livermore developed multilayer mirrors for nuclear fusion research and was similarly ridiculed when he proposed applying them to chip-making. The technology didn't become commercially viable until ASML combined: (1) multilayer mirror research from nuclear weapons labs, (2) laser-produced plasma from a completely different field, (3) tin droplet generation techniques, and (4) precision optics from Zeiss.
 

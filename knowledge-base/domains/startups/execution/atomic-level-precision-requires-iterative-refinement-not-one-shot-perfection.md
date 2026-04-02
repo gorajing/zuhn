@@ -59,6 +59,10 @@ related:
   - INS-260325-76BD
   - INS-260330-4FA3
   - PRI-260328-06F1
+evidence:
+  - id: INS-260325-76BD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 To create the roundest object ever made, scientists started with a sphere 2mm larger than needed and progressively ground it finer using increasingly delicate abrasives until they were 'massaging atoms.' The final sphere's surface deviations are so small that if scaled to Earth size, the highest mountain to lowest valley would be just 14 meters apart.
 

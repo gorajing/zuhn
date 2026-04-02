@@ -58,6 +58,19 @@ related:
   - INS-260330-100F
   - INS-260330-C729
   - INS-260330-8A2E
+evidence:
+  - id: INS-260330-8A2E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-100F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6E5F
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-EAA3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In the light-dependent reactions of photosynthesis, the thylakoid membrane accumulates protons on one side by splitting water and using the cytochrome complex to pump additional protons. This concentration gradient is essentially a charged battery — when protons flow back through ATP synthase to equalize, that flow drives the mechanical synthesis of ATP.
 

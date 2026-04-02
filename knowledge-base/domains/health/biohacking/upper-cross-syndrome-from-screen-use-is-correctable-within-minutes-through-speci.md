@@ -44,5 +44,9 @@ related:
   - INS-260330-6C6B
   - PRI-260328-1654
   - INS-260327-F8BF
+evidence:
+  - id: INS-260325-9B9A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Forward head posture and rounded shoulders from screen use (upper cross syndrome) can be rapidly corrected by activating weakened deep neck flexors and lower trapezius while stretching tight pectorals and upper traps

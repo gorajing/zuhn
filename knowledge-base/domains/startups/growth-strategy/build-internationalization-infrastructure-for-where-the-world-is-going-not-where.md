@@ -55,10 +55,9 @@ stance: >-
 related:
   - INS-260330-EEBD
   - INS-260330-B437
+  - INS-260402-C030
   - PRI-260328-1D90
   - INS-260329-B194
-  - INS-260327-9377
-  - INS-260402-E470
 evidence:
   - id: INS-260330-EEBD
     type: CONTRADICTS

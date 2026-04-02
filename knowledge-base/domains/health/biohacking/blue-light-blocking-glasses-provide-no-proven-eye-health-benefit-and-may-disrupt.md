@@ -65,6 +65,10 @@ related:
   - INS-260330-A7CB
   - INS-260330-72D9
   - INS-260330-51AE
+evidence:
+  - id: INS-260330-51AE
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The blue-light-blocking glasses industry exploded during the pandemic as screen time surged, but Dr. Goldberg finds no evidence that blocking blue light provides meaningful eye health benefits. The critical distinction is between UV light (genuinely harmful — accelerates cataract formation, damages the retina and ocular surface) and blue light (adjacent on the spectrum but without demonstrated eye damage at normal exposure levels).
 

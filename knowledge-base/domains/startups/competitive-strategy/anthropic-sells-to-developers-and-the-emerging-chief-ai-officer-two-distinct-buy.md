@@ -72,6 +72,12 @@ evidence:
   - id: INS-260322-3159
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-EEBD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-540D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Kate describes Anthropic's dual sales motion. The primary buyer has been developers consuming the API, which manifests through CPOs and CTOs who build with Claude. But a second buyer has emerged: the Chief AI Officer (or equivalent), who manages what Anthropic internally calls 'model gardens' — the portfolio of AI models an enterprise provisions and manages.
 

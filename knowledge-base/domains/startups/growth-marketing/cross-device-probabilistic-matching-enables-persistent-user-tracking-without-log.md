@@ -57,6 +57,10 @@ related:
   - INS-260327-415B
   - PRI-260320-097F
   - INS-260327-E41B
+evidence:
+  - id: INS-260327-E41B
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The course describes how browsing for shoes on one device leads to shoe ads appearing across all your devices. The mechanism is probabilistic matching — a technique where advertisers correlate devices belonging to the same person using signals like IP address, location patterns, browsing times, and device fingerprints, without requiring any explicit login or account linking.
 

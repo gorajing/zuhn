@@ -45,11 +45,11 @@ stance: >-
   Founders stay too long in failing ventures because they assume investors
   expect persistence, when investors often already see it's time to move on.
 related:
+  - INS-260402-7FCC
   - INS-260330-1002
   - INS-260330-A954
   - INS-260330-A38C
   - INS-260329-B0BA
-  - INS-260321-3521
 ---
 Krieger, who shut down Artifact (his AI news startup with Instagram co-founder Kevin Systrom), advises founders to proactively check in with investors when things aren't working. Many founders carry unnecessary guilt, assuming investors expect them to keep going. In reality, investors have seen many companies fail and often recognize when it's time to move on before the founder does.
 

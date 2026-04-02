@@ -55,6 +55,10 @@ related:
   - INS-260329-BE72
   - INS-260329-1277
   - INS-260329-C401
+evidence:
+  - id: INS-260329-C401
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 A single primary key can only model one-to-many relationships (one branch has many employees). But many real-world relationships are many-to-many: an employee sells to many clients, and a client buys from many employees. The solution is a junction table (like Works_With) where the primary key is a composite of both foreign keys.
 

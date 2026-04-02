@@ -46,12 +46,12 @@ related:
   - INS-260321-801C
   - INS-260325-4FF3
   - INS-260323-DD40
-  - INS-260321-AA91
-  - INS-260322-8299
   - INS-260327-07C9
   - INS-260329-644B
   - INS-260329-C754
   - INS-260329-AADB
   - INS-260329-4EF5
+  - INS-260321-AA91
+  - INS-260329-8F7C
 ---
 Most businesses follow the loss-leader model: lose money on customer acquisition and recoup through lifetime value. Hormozi's client-financed acquisition flips this by ensuring the first sale covers both the cost to acquire and fulfill that customer plus the cost to acquire and fulfill the next one. This creates a self-funding growth loop where a dollar invested returns two customers, who each fund two more. Hormozi used this model across all four businesses, calling it the key reason Gym Launch could outspend every competitor. The framework is especially powerful for bootstrapped companies because it eliminates the need for venture capital or debt financing to fuel growth, turning the customer base itself into the financing engine.

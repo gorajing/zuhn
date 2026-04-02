@@ -65,6 +65,10 @@ related:
   - INS-260330-10CF
   - INS-260327-9C00
   - INS-260329-100D
+evidence:
+  - id: INS-260327-1C7C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 At PolyAI, co-founder and CEO Nicola built the sales engine personally from scratch, and it remained fundamentally his creation even after hiring sales leaders. Wen explains why: when technology is genuinely novel and not yet a commodity, experienced sales hires 'don't necessarily know what your product is and what your technology is' — they still need to learn how to sell something that has no established category or buying pattern. Crucially, Nicola's deep technical background as a competitive programmer meant he could filter client requests himself, knowing what was technically feasible and what wasn't, preventing the classic founder-salesperson friction where sales promises things engineering can't deliver.
 

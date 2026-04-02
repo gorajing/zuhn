@@ -53,7 +53,6 @@ related:
   - INS-260327-8521
   - INS-260322-3CFB
   - INS-260327-47BA
-  - INS-260328-0345
 stance: >-
   You can only do your best work if you are doing what you want to do, the way
   you think it should be done, and you can take pride in it after.

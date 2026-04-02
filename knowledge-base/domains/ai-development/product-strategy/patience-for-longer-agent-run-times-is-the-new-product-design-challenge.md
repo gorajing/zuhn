@@ -53,6 +53,25 @@ related:
   - INS-260329-C56D
   - INS-260329-1F4D
   - INS-260327-2386
+evidence:
+  - id: INS-260327-1599
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-E9F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-75B6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-C56D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-1F4D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-2386
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Ng draws from his experience at Google where he failed to push for 'big box search' (long-prompt, slow-response search) because web search conditioned users to expect sub-second responses. The same challenge faces agentic workflows: humans instinctively want immediate feedback, but agents need time to iterate through reflection, tool use, and planning loops.
 

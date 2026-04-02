@@ -56,6 +56,13 @@ related:
   - INS-260325-FC52
   - PRI-260325-9258
   - INS-260325-11E0
+evidence:
+  - id: INS-260327-390A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-75B5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Homeostasis is the body's ability to maintain stable internal conditions — temperature, blood pressure, oxygen delivery, nutrient balance — regardless of external changes. When a person bleeds out from a wound, the actual mechanism of death is the loss of blood pressure preventing oxygen delivery to cells, which halts energy processing. The named cause (hemorrhage, hypothermia, organ failure) is just the pathway to the same endpoint: irreversible homeostatic collapse.
 

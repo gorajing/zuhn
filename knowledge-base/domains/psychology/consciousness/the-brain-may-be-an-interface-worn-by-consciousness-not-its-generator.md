@@ -57,6 +57,10 @@ related:
 stance: >-
   Across multiple quantum consciousness frameworks, the brain consistently
   appears as an interface or transceiver for consciousness rather than its o...
+evidence:
+  - id: INS-260325-F21D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Orch OR theory (Penrose-Hameroff) proposes that microtubules in neurons act as quantum information processors, with each objective reduction producing a discrete moment of experience — consciousness as a sequence of quantum events at roughly 40 frames per second. Anesthetics erase consciousness by disrupting microtubule function while leaving neural processing intact, suggesting consciousness depends on something beyond standard neural signaling.
 

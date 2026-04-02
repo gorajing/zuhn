@@ -45,5 +45,9 @@ related:
   - INS-260327-5943
   - INS-260327-7000
   - INS-260330-4B4F
+evidence:
+  - id: INS-260330-4B4F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The sauna benefit-risk threshold is 100C -- above this temperature dementia risk doubles; men should also protect testicular temperature to preserve hormone production

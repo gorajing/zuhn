@@ -62,5 +62,20 @@ evidence:
   - id: INS-260320-F872
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-03B0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B170
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-3177
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-AF96
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-7C59
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Throughout the 31-hour course, every concept follows the same structure: introduce the idea, type it in the editor, compile, observe the output, then deliberately break it to see the error. This isn't incidental — it's the most effective learning structure for abstract systems. The tight feedback loop (seconds between change and observation) lets the learner build causal mental models: 'when I do X, Y happens.' This maps directly to deliberate practice research: the fastest skill acquisition happens when feedback is immediate, specific, and tied to the learner's action. This principle applies beyond programming — any domain where you can create a rapid experiment-observe cycle (financial modeling, design prototyping, prompt engineering) benefits from structuring learning around this loop rather than passive consumption.

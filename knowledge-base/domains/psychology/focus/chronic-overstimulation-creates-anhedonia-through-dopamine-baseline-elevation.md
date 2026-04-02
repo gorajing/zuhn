@@ -52,6 +52,10 @@ related:
   - INS-260330-9E25
   - INS-260327-4279
   - INS-260330-1839
+evidence:
+  - id: INS-260330-2F9F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Pleasure is experienced as relative increase above dopamine baseline, not absolute levels. Chronic high-stimulation activities (social media, gaming, porn, rapid content consumption) elevate baseline dopamine. Normal activities that once produced pleasure (conversation, walks, reading) now produce insufficient relative increase to feel rewarding.
 

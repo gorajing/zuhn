@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260329-79D3
   - INS-260327-9EE4
+  - INS-260402-7FCC
   - INS-260327-C083
   - INS-260330-14CA
-  - INS-260327-5DD2
 ---
 Dave Ramsey's business derives 40% of its $300M revenue from endorsed partners (Ramsey Trusted). He discovered early that a single bad endorsement — a car lot that screwed customers, an advertiser that didn't deliver — didn't just lose that partnership's revenue; it eroded trust in all his other advice. His mentor's rule: 'Never risk the empire for a pot of gold.' The acid test is personal: would you send your mom, sister, or friend there? This principle explains why trust-based businesses can't optimize for short-term revenue. The compounding nature of trust means each endorsement either deposits or withdraws from a shared credibility account that funds every product line.

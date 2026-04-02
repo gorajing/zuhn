@@ -52,5 +52,15 @@ related:
   - INS-260329-ADCD
   - INS-260328-0932
   - INS-260329-49A4
+evidence:
+  - id: INS-260321-8D2B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-ADCD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-49A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The 2026 AI product strategy guide introduces critical budget discipline for AI features. Unlike traditional SaaS where marginal cost per click approaches zero, every AI query has a real cost (input tokens, output tokens, retrieval). The guide proposes the 3x rule: if an automated invoice review costs 15 cents in compute, it should save the user at least 45 cents in time or risk reduction. If you cannot make that case, the feature is research or brand marketing, not core product. The guide also mandates circuit breakers for agentic systems — hard limits on steps, model calls, and spend per run — because stuck agents can hammer your infrastructure in runaway loops.

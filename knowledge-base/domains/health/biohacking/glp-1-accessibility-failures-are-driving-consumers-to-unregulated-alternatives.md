@@ -51,6 +51,10 @@ related:
 stance: >-
   When insurance rejected a BMI-34.7 patient for Ozempic coverage at
   $1000/month, she turned to Chinese-sourced peptides at $15/vial
+evidence:
+  - id: INS-260330-660A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Tori Pastore story crystallizes how the unregulated peptide market grows: a doctor-prescribed, FDA-approved drug was denied by insurance over a 0.3 BMI technicality, making the legitimate path cost $1000/month. The gray-market alternative cost $15/vial. This isn't reckless behavior — it's rational economic response to a broken access system.
 

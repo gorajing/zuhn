@@ -64,5 +64,8 @@ evidence:
   - id: INS-260325-6150
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-A8D3
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 In the priority queue section, the course demonstrates a pattern that recurs throughout computer science: when one data structure has a performance bottleneck, layer another data structure on top to eliminate it. A standard binary heap supports O(log n) insertion and O(log n) root removal, but removing an arbitrary element requires O(n) linear scan to find it first. The 'hack' is to maintain a hash table that maps each value to its set of indices in the heap. Now lookup is O(1), and the total removal operation drops to O(log n) — the cost of bubbling up or down after the swap. This composition pattern (using one structure's strength to cover another's weakness) is a general problem-solving principle: don't optimize the operation itself, eliminate the prerequisite that makes it slow. The same principle appears in union-find with path compression, where amortized lookups become nearly O(1) by restructuring the tree during every find operation.

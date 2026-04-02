@@ -52,6 +52,22 @@ related:
   - INS-260323-2FC3
   - INS-260330-8538
   - INS-260325-0FED
+evidence:
+  - id: INS-260329-388E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-0ED2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-42DE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-2FC3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-0FED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The complementarity of structure and function is anatomy's central principle: heart valves allow one-directional blood flow because of their physical shape, bones protect soft tissue because of their hardness, and red blood cells are tiny because they need to squeeze through capillaries. This isn't coincidence — it's the result of evolutionary optimization where form and function co-evolved.
 

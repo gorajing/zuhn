@@ -60,5 +60,9 @@ related:
   - INS-260330-8326
   - INS-260330-7ECB
   - INS-260330-3FCF
+evidence:
+  - id: INS-260323-3D7D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Despite having more cash than almost any company in history, Apple consistently avoided large acquisitions like buying Netflix or Disney. Instead, it acquired small companies for their talent and specific technology (Siri, Touch ID, Face ID all came from acquisitions). This contrasts sharply with companies like Yahoo, HP, and AOL-Time Warner, whose large acquisitions destroyed enormous shareholder value. The underlying principle is that large acquisitions introduce cultural integration risk, management distraction, and strategic drift — all enemies of the operational focus that drives premium pricing power. Apple's approach shows that the best use of excess capital isn't always deploying it; sometimes returning it to shareholders (via buybacks and dividends) while maintaining laser focus on a narrow product line generates far more value than empire-building. For founders, this is a powerful counter-narrative to the 'grow at all costs' mentality.

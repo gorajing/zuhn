@@ -56,6 +56,19 @@ related:
   - PRI-260328-06F1
   - INS-260325-76BD
   - INS-260320-CDE4
+evidence:
+  - id: INS-260325-2BB0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9676
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-A19C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-CDE4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Advanced chip manufacturing requires ultra-purified materials, hugely complex equipment, specialized software, and intellectual property from dozens of companies across multiple countries. A typical smartphone processor is made in Taiwan using lithography tools from the Netherlands and the US, chemicals from Japan, and is assembled and packaged in Malaysia.
 

@@ -56,6 +56,10 @@ related:
   - INS-260329-0CC5
   - INS-260325-5FE9
   - INS-260330-62D6
+evidence:
+  - id: INS-260329-0CC5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The entire video demonstrates a single meta-strategy: approximate a hard problem with many small, manageable pieces, then observe what happens as the approximation gets finer. The circle's area becomes a sum of thin ring areas (2πr·dr), which becomes the area under a graph, which becomes a triangle — yielding πr² exactly.
 

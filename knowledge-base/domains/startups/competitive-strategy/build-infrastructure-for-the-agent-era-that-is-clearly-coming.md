@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-AB67
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-63B5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Bryk's thesis: in 5 years, GPT-5-level AI agents will be everywhere—navigating the web, doing tasks, managing workflows. Every single one of them will need search. Exa is building the search engine for this agent era, not for humans.
 

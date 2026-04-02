@@ -55,6 +55,10 @@ related:
   - INS-260327-91E7
   - INS-260327-6D77
 stance: Wikipedia's deepest ongoing challenge is notability
+evidence:
+  - id: INS-260327-6D77
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Wales reveals that the hardest question Wikipedia faces is not accuracy but scope: what deserves an article? The classic Bic pen example illustrates the spectrum — the Bic pen product line (yes, it has history and significance) versus Lex Fridman's specific Bic pen (no, it's one instance with no known history). The German Wikipedia metaphor of 'the rear nut of Ulifook's bicycle wheel' shows where the limit lies.
 

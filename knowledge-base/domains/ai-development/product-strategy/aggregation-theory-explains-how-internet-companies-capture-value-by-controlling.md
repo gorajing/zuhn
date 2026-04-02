@@ -52,5 +52,15 @@ related:
   - INS-260330-4F2A
   - INS-260321-4E98
   - INS-260329-88A4
+evidence:
+  - id: INS-260330-4F2A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260321-4E98
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-88A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Ben Thompson's Aggregation Theory explains how internet companies capture exponential value by controlling the user relationship and commoditizing supply. This framework is now essential for understanding the AI value chain. The commoditization of large language models by open-source competitors like DeepSeek threatens incumbents like OpenAI and Anthropic in the same way that aggregators commoditized content producers. The companies that own the user relationship (application layer) will capture value while model providers face margin compression. AI agents will structurally alter corporate labor economics by reducing the need for sprawling workforces, further concentrating value at the aggregation layer.

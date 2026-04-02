@@ -52,6 +52,10 @@ related:
   - INS-260325-CFC1
   - INS-260325-D2AA
   - INS-260330-8907
+evidence:
+  - id: INS-260330-8907
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Scientists have developed multiple measures of biological age — blood tests, grip strength, epigenetic clocks — that assess how old your body is versus your calendar age. Epigenetic clocks measure chemical modifications on top of DNA that change with aging. However, Steele cautions that correlation is not causation: we know these marks change with age, but not whether intervening on them would reverse aging.
 

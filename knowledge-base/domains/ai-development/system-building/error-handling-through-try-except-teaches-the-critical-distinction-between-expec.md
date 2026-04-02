@@ -57,6 +57,10 @@ related:
   - INS-260329-9010
   - INS-260329-7BAF
   - INS-260325-5023
+evidence:
+  - id: INS-260325-5023
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial's try-except section demonstrates catching ValueError when users enter non-numeric input for the calculator. This seemingly simple pattern encodes a deep principle: production software must explicitly decide which failures it handles and which it propagates. The act of writing an except clause forces you to answer 'what should happen when this goes wrong?' — a question that casual coding never asks.
 

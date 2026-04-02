@@ -58,6 +58,13 @@ related:
   - INS-260330-545E
   - INS-260330-4B45
   - INS-260330-2C71
+evidence:
+  - id: INS-260330-545E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4B45
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Photosynthesis doesn't convert photon energy to ATP in one step. Instead, it passes excited electrons through four protein complexes (PSII → Cytochrome → PSI → final carrier), each extracting a small amount of energy for different purposes — pumping protons, re-energizing electrons, producing NADPH. This staged approach captures far more usable energy than a single conversion could.
 

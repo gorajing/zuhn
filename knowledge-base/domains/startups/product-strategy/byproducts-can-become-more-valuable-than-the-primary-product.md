@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-B076
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-FF4D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen was literally a toxic waste byproduct that plants had to dump. Yet this 'useless' byproduct transformed Earth's atmosphere and enabled the entire animal kingdom.
 

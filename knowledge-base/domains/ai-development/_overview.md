@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 909 insights across 22 topics
+> 913 insights across 22 topics
 
 ## Topics
 
@@ -13,11 +13,11 @@
 | ai-capabilities | 97 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
 | ai-market-dynamics | 92 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
 | alignment | 46 | KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text. |
-| architecture | 3 | Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible. |
+| architecture | 6 | Libraries are reusable because they are language, not because they are object-oriented. |
 | automation | 9 | Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI. |
 | claude-code | 38 | Planning is king — always use planning mode before implementation; never let the builder start without plans. |
 | embeddings | 6 | Different basis choices make different operations trivial or impossible in vector spaces. |
-| future-of-work | 40 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
+| future-of-work | 41 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | human-ai-relationship | 47 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | limitations | 36 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
 | llm-costs | 10 | OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever. |

@@ -54,6 +54,10 @@ related:
 stance: >-
   Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from
   barbarity' warning mean that democratic freedoms degrade the moment each ge...
+evidence:
+  - id: INS-260323-BC61
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 RFK Jr synthesizes Jefferson ('the tree of liberty must be watered with the blood of each generation') with his father's belief that 'this is not a German problem — we're all inches away from barbarity.' The institutions of democracy are what keep us safe, not our nature. These institutions face constant pressure from forces that chip away at rights.
 

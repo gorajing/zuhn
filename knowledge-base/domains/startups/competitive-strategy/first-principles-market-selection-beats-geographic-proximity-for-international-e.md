@@ -63,6 +63,10 @@ related:
   - INS-260330-1DCA
   - INS-260330-7DA5
   - INS-260330-E43F
+evidence:
+  - id: INS-260327-F417
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bolt's initial expansion strategy was intuitive: nearby European countries. Launching in 10 cities simultaneously (Netherlands to Finland to Serbia) nearly bankrupted the company. The pivot was radical: throw away geographic biases and rank the world's top few hundred cities by population, availability of alternatives, unemployment rate, and tax/regulatory friendliness for drivers.
 

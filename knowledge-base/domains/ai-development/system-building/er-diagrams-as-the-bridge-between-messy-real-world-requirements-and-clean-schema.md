@@ -55,5 +55,15 @@ related:
   - INS-260329-F556
   - INS-260329-18C9
   - INS-260329-5B7B
+evidence:
+  - id: INS-260327-D794
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-C401
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5B7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial demonstrates that jumping straight to CREATE TABLE statements without first modeling entities, relationships, and cardinalities leads to schema redesigns and data integrity issues. The ER diagram phase forces explicit decisions about one-to-many vs many-to-many relationships, whether attributes belong on entities or relationships, and where foreign keys should live. This mirrors a broader system-building principle: the modeling/design phase that feels like 'not coding' is where the hardest problems actually get solved. For AI system builders, this same discipline applies to prompt architecture and data pipeline design — sketch the flow before writing the implementation.

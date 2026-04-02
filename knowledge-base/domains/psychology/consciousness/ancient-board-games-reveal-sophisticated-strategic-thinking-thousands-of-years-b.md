@@ -50,11 +50,15 @@ stance: >-
   demonstrating that sophisticated strategic and mathematical thinking predates
   formal mathematics by millennia.
 related:
+  - INS-260402-26B0
   - INS-260325-EBDD
   - INS-260323-6230
   - INS-260330-750A
   - INS-260330-3DB2
-  - INS-260327-BB4A
+evidence:
+  - id: INS-260323-6230
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Finkel's expertise in ancient board games reveals that complex strategic thinking - probability assessment, multi-move planning, risk management - was embedded in Mesopotamian culture over 4,000 years ago through games like the Royal Game of Ur. These games required mathematical intuition that wouldn't be formally codified for millennia.
 

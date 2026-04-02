@@ -64,6 +64,12 @@ evidence:
   - id: INS-260325-6A2C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-4996
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-21A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In photosynthesis, the thylakoid membrane accumulates protons to create a concentration gradient that drives ATP synthase — essentially charging and discharging a molecular battery. This exact same mechanism (chemiosmosis) appears in mitochondria during cellular respiration, and the broader pattern of concentration gradients across membranes powers neural action potentials, muscle contraction, and kidney filtration.
 

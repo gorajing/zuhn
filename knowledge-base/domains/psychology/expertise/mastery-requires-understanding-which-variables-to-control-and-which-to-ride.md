@@ -52,6 +52,10 @@ related:
   - INS-260330-6828
   - INS-260330-BF96
   - INS-260330-148C
+evidence:
+  - id: INS-260330-6828
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Byron Ferguson's archery mastery illustrates a pattern common across expert domains: he doesn't try to eliminate the arrow's wobble (impossible with a longbow), nor does he try to control every variable simultaneously. Instead, he identifies the one variable that determines where the wobble pattern intersects the target — arrow spine stiffness — and controls that with extreme precision. Everything else he 'rides' through practiced intuition.
 

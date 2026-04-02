@@ -56,6 +56,10 @@ related:
   - INS-260330-E3C0
   - INS-260330-BA54
   - INS-260330-E59F
+evidence:
+  - id: INS-260330-E59F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Laser tattoo removal works through an elegant physics mechanism: pulses so short (trillionths of a second) that heat only penetrates the surface layer of an ink particle before the pulse ends. The heated outer shell expands while the cool inner core does not, creating enormous mechanical stress that shatters the particle into fragments small enough for macrophages to engulf.
 

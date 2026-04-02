@@ -55,5 +55,9 @@ related:
   - INS-260327-BEB1
   - INS-260322-F6C3
   - INS-260330-09B5
+evidence:
+  - id: INS-260330-09B5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Anderson spent two decades watching managers 'bust bureaucracy' while things only got worse. His key insight: nobody wakes up wanting to be a bureaucrat. Bureaucracy is produced by 10-12 layers of hierarchy, functional org charts divorced from customer/product, annual budgets that trap money in thousands of cost centers, and performance reviews tied to budget compliance. Taking out two layers (the typical corporate reorg) does nothing if the basic operating model remains: decisions flow up and down hierarchical functions, money is pre-allocated and locked. The only solution is structural: flatten to 6-7 layers, expand spans to 20-90 direct reports (making command-and-control physically impossible), replace annual budgets with 90-day dynamic resource allocation, and shift performance management from managers to peer review. At 14+ average direct reports, managers physically cannot micromanage — they must shift to coaching and unblocking.

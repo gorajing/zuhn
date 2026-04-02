@@ -55,11 +55,11 @@ related:
   - INS-260330-2B42
   - PRI-260328-E921
   - INS-260323-810D
-  - INS-260325-3A24
   - INS-260327-CEA6
   - INS-260327-B034
   - INS-260329-59D2
   - INS-260329-9513
+  - INS-260330-09E3
 stance: >-
   Cuban identifies curiosity, agility, and the ability to sell as the three
   entrepreneurial essentials

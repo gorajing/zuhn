@@ -61,6 +61,13 @@ related:
   - INS-260325-D624
   - PRI-260328-5D9E
   - INS-260330-6C7F
+evidence:
+  - id: INS-260325-D624
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6C7F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Grier argues that computing's true origin is the Industrial Revolution's imperative to systematize production. The first 'computing' challenges were nautical almanacs and astronomical observations that generated massive data requiring reduction to absolute coordinates. The solution mirrored factory production: divide the labor, create repeatable processes, hire less-skilled workers who could follow instructions, and build error-correction mechanisms.
 

@@ -75,5 +75,8 @@ evidence:
   - id: INS-260326-97C9
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-5C25
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The video frames its entire programming language survey as an iceberg where 'each language has another iceberg within it, like a Mandelbrot set.' This is a powerful mental model for learning: the naive assumption is that mastery means reaching the bottom, but the fractal nature of knowledge means there is no bottom. The practical implication is that expertise is not about learning everything — it's about choosing which depths to pursue based on your goals. A web developer who goes deep on JavaScript and shallow on systems programming makes a rational depth allocation. This reframes the anxiety of 'not knowing enough' as a feature of all knowledge domains, not a personal failing.

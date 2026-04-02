@@ -60,6 +60,13 @@ related:
   - INS-260322-823B
   - INS-260322-55D8
   - PRI-260325-663A
+evidence:
+  - id: INS-260330-8048
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-823B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Open Evidence has reached a remarkable scale: 25% of US practicing physicians as monthly active users, with the average user engaging daily. This scale unlocks a unique opportunity: for every piece of medical knowledge written down in papers and guidelines, there's as much or more that 'only exists distributed across millions of wet brains.' Because of their scale, Open Evidence can now encode, aggregate, and redistribute this tacit collective wisdom.
 

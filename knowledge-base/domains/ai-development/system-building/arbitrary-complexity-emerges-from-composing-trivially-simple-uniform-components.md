@@ -66,6 +66,19 @@ related:
   - INS-260330-4F10
   - INS-260329-6727
   - INS-260330-367B
+evidence:
+  - id: INS-260325-B061
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4E95
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-6727
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-367B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Fourier series demonstration is a striking existence proof: 300 vectors, each doing nothing more complex than rotating at a constant integer frequency, combine tip-to-tail to draw arbitrarily complex shapes including sharp corners and discontinuities. No individual vector 'knows' about the target shape. The complexity lives entirely in the coefficients (initial sizes and angles), not in the components themselves.
 

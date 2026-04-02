@@ -55,6 +55,10 @@ related:
   - INS-260330-594E
   - INS-260325-5692
   - INS-260327-8E9D
+evidence:
+  - id: INS-260323-36A8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hilbert's Grand Hotel paradox illustrates how infinite sets violate every intuition about fullness and conservation. A hotel with countably infinite rooms, all occupied, can accommodate one new guest (shift everyone up one room), infinitely many new guests (move guest N to room 2N), or lose a guest without leaving any room empty (shift everyone down). The 'fully booked' concept simply doesn't apply.
 

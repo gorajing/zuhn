@@ -58,6 +58,13 @@ related:
 stance: >-
   Peptides represent a shift from pharmaceuticals designed to prevent death
   (statins) to compounds that enhance human performance
+evidence:
+  - id: INS-260325-39FD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-72B6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Current pharmaceuticals are largely 'don't die' interventions — take a statin to avoid a heart attack. Peptides represent a different category entirely: human enhancement compounds that increase energy, improve sex drive, reduce inflammation, and improve gut health. Early results from users are promising, though rigorous research is still needed.
 

@@ -61,6 +61,22 @@ related:
   - INS-260330-0017
   - INS-260330-498B
   - INS-260330-4B45
+evidence:
+  - id: INS-260330-85D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F671
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4D0E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0017
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-498B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When a photon excites an electron in PSII, that electron holds significant energy. If released all at once, most would dissipate as heat — useless to the organism. Instead, the electron passes through a chain of protein complexes (PSII → cytochrome complex → PSI), losing energy at each step in controlled amounts that drive useful work: pumping protons, generating ATP, producing NADPH.
 

@@ -76,6 +76,12 @@ evidence:
   - id: INS-260320-7682
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260330-CC30
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-425B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RuBisCo fails at its primary job roughly half the time, grabbing oxygen instead of CO2 and producing toxic waste. Plants' solution isn't to evolve a better enzyme — it's to produce staggering quantities (an estimated 40 billion tons on Earth at any time) and build cleanup systems for the toxic byproducts. The strategy works: photosynthesis powers virtually all life despite its core enzyme being terrible.
 

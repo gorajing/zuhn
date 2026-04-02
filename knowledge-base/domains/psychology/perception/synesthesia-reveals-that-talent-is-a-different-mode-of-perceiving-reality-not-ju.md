@@ -66,6 +66,12 @@ evidence:
   - id: INS-260321-80A9
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-680A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-D7B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Charlie Puth describes seeing the shape of chords and tasting notes. Other musicians describe tuning as having a taste, sharp notes as 'lemony zesty yellow,' and wrong pitches as a 'metallic penny in your mouth.' These aren't metaphors — they're descriptions of synesthetic cross-wiring where senses connect in ways the average brain doesn't.
 

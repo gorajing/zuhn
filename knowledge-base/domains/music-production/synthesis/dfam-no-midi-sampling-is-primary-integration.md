@@ -51,6 +51,10 @@ resolutions:
 stance: >-
   Sampling DFAM output into a MIDI device is the primary way to integrate it
   into broader production
+evidence:
+  - id: INS-260325-BB13
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 The Moog DFAM (Drummer From Another Mother) is an analog percussion

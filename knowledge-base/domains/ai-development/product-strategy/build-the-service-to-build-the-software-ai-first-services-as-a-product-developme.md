@@ -58,6 +58,22 @@ related:
   - INS-260330-56B2
   - INS-260330-8FD6
   - INS-260327-0700
+evidence:
+  - id: INS-260323-BF81
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-94F5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-56B2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8FD6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0700
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Crosby's founders made a counterintuitive strategic choice: instead of building legal software, they built an AI-first law firm where lawyers sit desk-by-desk with engineers. This creates a unique feedback loop that goes beyond traditional evals. When lawyers physically use AI tools in real contract negotiations, they generate qualitative signals about edge cases, semantic nuances (like 'commercially reasonable' vs 'reasonable'), and client-specific contexts that no benchmark captures.
 

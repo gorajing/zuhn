@@ -62,6 +62,16 @@ related:
   - INS-260329-148D
   - INS-260329-5F96
   - INS-260329-4696
+evidence:
+  - id: INS-260329-818A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-66BD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-4696
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Horizontal database scaling offers two complementary strategies. Sharding distributes different portions of data across multiple servers — strategies include range-based sharding (data split by key ranges), directory-based sharding (lookup service routes queries), and geographical sharding (data split by location). Sharding primarily improves write throughput and storage capacity by distributing the load.
 

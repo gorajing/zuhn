@@ -54,6 +54,10 @@ related:
 stance: >-
   Cardiologist Eric Topol warns that paying hundreds of dollars per shot creates
   strong confirmation bias
+evidence:
+  - id: INS-260330-8A5C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dr. Topol's critique is sharp: when someone invests hundreds of dollars monthly into an unproven substance, the psychological pressure to perceive benefits is enormous. Without double-blind clinical trials, there is no way to separate genuine pharmacological effects from placebo, expectation bias, and confirmation bias. 'Anything short of that is not science. It's just anecdotes.'
 

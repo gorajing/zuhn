@@ -53,6 +53,16 @@ related:
 stance: >-
   The Feynman infinite-slit argument shows that if you accept the double-slit
   experiment, you must logically accept that particles explore all possib...
+evidence:
+  - id: INS-260325-4677
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-DA1E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5263
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The elegant thought experiment attributed to Feynman: if a particle goes through both slits in a double-slit experiment (because you can't determine which one), what about three slits? Four? Infinite slits (making the screen disappear)? Then add another screen with infinite slits, and another. You've now described empty space — proving particles must explore all paths even with no barriers present.
 

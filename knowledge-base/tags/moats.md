@@ -16,6 +16,7 @@
 - `INS-260330-FCBC` Controlling access to essential inputs creates stronger lock-in than product quality.
 - `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.
 - `INS-260322-F8E4` Data network effects are like gravity — invisible at the atomic level, undeniable at planetary scale. Having 4 customers vs 3 means nothing; having 4 billion vs 1 billion is decisive.
+- `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260330-EEED` Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
 - `INS-260323-7F36` The install base is the single most important factor for a computing platform; elegant architectures like RISC failed while the 'barely aesthetic' x86 survived because install base trumps design purity.
 - `INS-260323-0EE2` ASML's monopoly exists because EUV requires solving dozens of 'impossible' problems simultaneously — mirrors smooth to 2.3 atoms, tin droplets hit 50,000 times/second with zero misses, and 13.5nm light generation — and no competitor can replicate the full stack.

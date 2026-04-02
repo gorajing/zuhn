@@ -54,6 +54,10 @@ related:
   - INS-260330-7DAA
   - PRI-260323-7B35
   - PRI-260328-6A8D
+evidence:
+  - id: INS-260330-28B1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Bing is widely mocked as inferior to Google, yet it generates roughly $5 billion per year in profit. The entire explanation is distribution: Bing is the default search engine on every Windows computer and Internet Explorer/Edge browser. Most users never change defaults — not because they prefer Bing, but because changing requires deliberate effort most people won't take.
 

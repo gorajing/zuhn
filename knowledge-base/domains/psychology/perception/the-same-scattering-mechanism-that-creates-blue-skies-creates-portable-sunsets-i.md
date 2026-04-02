@@ -59,6 +59,10 @@ related:
   - INS-260330-14B1
   - INS-260330-F6A2
   - INS-260330-80A2
+evidence:
+  - id: INS-260327-C150
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Aerogel's nanoscale structures scatter light according to Rayleigh scattering, where intensity scales as 1/wavelength^4. This preferentially scatters short (blue) wavelengths. Against a dark background, you see the scattered blue light (like looking at the sky). Against the blue sky, you see the transmitted light with blue removed — yellows and oranges, exactly like a sunset where atmosphere has scattered out the blue.
 

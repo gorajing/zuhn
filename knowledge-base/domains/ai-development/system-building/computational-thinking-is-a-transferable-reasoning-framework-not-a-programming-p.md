@@ -58,5 +58,21 @@ related:
   - INS-260329-E280
   - INS-260329-E4F6
   - INS-260329-8D19
+evidence:
+  - id: INS-260327-6CB7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-7A80
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5609
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-E4F6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8D19
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 CS50 teaches C, Python, SQL, HTML, and JavaScript, but Malan frames these as vehicles for the real curriculum: computational thinking. This means learning to decompose large problems into smaller ones, recognize patterns across instances, abstract away unnecessary detail, and design step-by-step algorithms. These are not programming skills — they are reasoning skills. The same decomposition that helps you write a sorting algorithm helps you structure a business strategy or debug a supply chain. In the AI era, where code generation is increasingly automated, computational thinking becomes more valuable, not less. The person who can precisely specify what needs to happen — even without writing the code — will outperform the person who can only code but can't think clearly about problems.

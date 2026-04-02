@@ -54,5 +54,15 @@ related:
   - INS-260329-94E6
   - INS-260329-CF48
   - INS-260327-DE27
+evidence:
+  - id: INS-260329-2612
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A86F
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260329-94E6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The course demonstrates a pivotal technique: when removing an arbitrary node from a binary heap, a naive linear scan is required to find the node's index (O(n)). By augmenting the heap with a hash table that maps node values to their index positions, lookups become O(1), making the overall removal O(log n). This is not a special-case trick — it's a general principle. Redis combines hash tables with skip lists for sorted sets. Databases combine B-trees with bloom filters to avoid unnecessary disk reads. The insight generalizes: when one data structure has a performance bottleneck, the fix is often not to replace it but to compose it with another structure that compensates for the weakness. This compositional thinking is equally applicable to AI system design — combining embedding stores with graph databases, or pairing vector search with traditional SQL indexes.

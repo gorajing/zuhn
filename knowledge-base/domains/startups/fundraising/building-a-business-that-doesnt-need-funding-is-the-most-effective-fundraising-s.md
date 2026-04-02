@@ -59,10 +59,10 @@ related:
   - INS-260327-125F
   - INS-260327-D2A6
   - INS-260328-D220
-  - INS-260328-3959
   - INS-260330-B09B
   - INS-260402-3D61
   - INS-260330-08FA
+  - INS-260402-E522
 ---
 Parker Conrad describes pitching 60 VC firms and getting rejected by all of them for his first company. The turning point came when a VC told him he needed to 'be the Twitter guys' — have something so compelling that the pitch doesn't matter. Conrad took this as motivation to start Zenefits specifically because it seemed like a business he could build without raising money at all, with enough inherent cash flow to be self-sustaining.
 

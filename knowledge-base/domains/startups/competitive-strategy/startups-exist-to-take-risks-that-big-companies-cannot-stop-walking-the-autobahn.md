@@ -51,5 +51,9 @@ related:
   - INS-260322-C472
   - INS-260327-F417
   - INS-260322-CFB1
+evidence:
+  - id: INS-260327-F417
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dalton uses a vivid metaphor: big companies get to walk a beautifully blazed, autobahn-style road. Startups are in the forest chopping down trees and blazing the path — you might have to bend some rules to create that path. If you walk the autobahn instead, incumbents will run you over every time. You ARE the risk in the economy. That is your job. Embrace it. The specific example: an edtech startup applying Google-style copyright carefulness when their entire value proposition was using AI to create content kids actually want (like Pokemon books). A startup whose sole job was to explore risky paths was instead applying big-company caution. Even when you walk the autobahn pretending to be safe, you're still the risk — you're just lying to yourself about it.

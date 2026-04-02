@@ -63,7 +63,6 @@ related:
   - INS-260321-3521
   - INS-260330-A14D
   - INS-260330-59FD
-  - INS-260330-9B90
 ---
 The SafeMoon case study illustrates how financial loss creates a self-reinforcing psychological trap. When holders have lost 99% of their investment value, two forces converge: ego protection (admitting you were scammed is psychologically devastating) and financial desperation (the only path to recovery requires the token to succeed). Together these create communities that actively suppress criticism, attack investigators like Coffeezilla, and interpret negative evidence as confirmation of external conspiracy.
 

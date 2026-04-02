@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-0C0C
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-E059
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Banach-Tarski proof begins by assigning every point on the sphere a unique name derived from the sequence of rotations that reach it. This naming scheme — which converts an uncountable surface into a structured, manipulable set — is what makes the entire paradox possible. Without names, the points are an undifferentiated continuum. With names, they become separable, groupable, and rearrangeable.
 

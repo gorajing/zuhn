@@ -53,6 +53,10 @@ related:
   - INS-260325-560A
   - INS-260327-5B13
   - INS-260330-2EAB
+evidence:
+  - id: INS-260330-2EAB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The most fundamental aspects of experience (that we are conscious, that things appear a certain way, that time seems to flow) are nearly invisible because they form the constant background of all experience. We notice changes and differences, not constants. Consciousness is the ultimate constant.
 

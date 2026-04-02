@@ -59,8 +59,12 @@ related:
   - INS-260321-2F09
   - INS-260325-3E9F
   - INS-260327-CD77
-  - INS-260328-982A
   - INS-260328-F301
+  - INS-260330-E170
+evidence:
+  - id: INS-260323-89C2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Standard Capital's model asks founders to name their own Series A valuation and then refuses to negotiate. Founders who matched their valuation to actual traction (high traction = higher acceptable valuation, lower traction = lower valuation) were the ones who got funded. Those who set unrealistic valuations based on competitor rounds or market hype were simply rejected without a counteroffer.
 

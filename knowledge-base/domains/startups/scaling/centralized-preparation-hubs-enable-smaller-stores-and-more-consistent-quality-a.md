@@ -57,6 +57,13 @@ related:
   - INS-260323-3D7D
   - INS-260330-DD63
   - INS-260324-8FB4
+evidence:
+  - id: INS-260323-3D7D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4C31
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 After overexpanding to 32 stores and accumulating $1.5 million in debt, Tom restructured Domino's operations around a centralized supply model. Instead of each store buying and preparing its own ingredients, a central hub handled all preparation and distributed to stores. This created three compounding advantages: bulk purchasing drove down ingredient costs, stores could be physically smaller (and thus cheaper in rent and operations) since they only needed to assemble/bake/deliver, and quality remained consistent across all franchises.
 

@@ -69,6 +69,9 @@ evidence:
   - id: INS-260323-9D6E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-040F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Historically, enterprise software was stickier than consumer software. AI reverses this. On the B2B side, developers buy raw model access via API calls that are trivially easy to switch — if a better coding model appears, companies switch immediately. On the consumer side, ChatGPT has become habitual for everyday users (including non-technical users like parents in Kentucky) who will not switch to a slightly better alternative.
 

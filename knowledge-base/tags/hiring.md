@@ -6,18 +6,18 @@
 - `INS-260322-AC23` ElevenLabs hired from non-traditional backgrounds by looking for proof of excellence — open-source projects, side projects, or standout achievements — rather than conventional credentials.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill.
+- `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - `INS-260329-62C1` As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
 - `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
-- `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
-- `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
-- `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
 - `INS-260320-F751` Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260321-C14C` The biggest failure mode in Silicon Valley is assuming that being smart at building products means you're smart at negotiating contracts, managing politics, or understanding war — 'if you don't know who the mark is, you're the mark.'
 - `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260323-9E37` Cuban recognized he was terrible at firing people because he wanted to see the best in everyone, so he always partnered with detail-oriented people who could make those hard calls.
 - `INS-260327-7349` Kaz extends Toby Lutke's trust battery concept: start at 75% trust to enable risk-taking, but deplete faster to quickly identify who belongs.
+- `INS-260330-7346` A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
+- `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-2691` Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.
@@ -26,6 +26,7 @@
 - `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
+- `INS-260402-9B06` Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260402-73D9` Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.
 - `INS-260402-33CA` Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
@@ -50,11 +51,6 @@
 - `INS-260323-9146` Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
 - `INS-260323-A7F6` The most passionate (even abrasive) power users often make the best product builders — Blizzard secretly interviewed Jeff Kaplan over six months of lunches before hiring the guild leader who publicly told their competitor's devs to 'pull their heads out of their asses.'
 - `INS-260330-7241` Framework popularity is a legitimate engineering constraint because it determines hiring pool size and ecosystem support.
-- `INS-260328-7942` A VP of Sales from Google knows how to run a team against an established playbook — they don't know how to create one from scratch.
-- `INS-260327-2430` At OpenAI, Maggie holds the hiring line even during hypergrowth from 200 to 1000 people because one exceptional hire beats three average ones, and a mishire costs $1M+ when you factor in full cycle costs.
-- `INS-260327-2608` Sales managers hiring SDRs look for hard work, coachability, and team orientation — candidates with zero experience but these traits consistently outperform experienced hires who lack them.
-- `INS-260329-89DA` The CLOSER framework structures sales calls into six repeatable steps that any trained person can execute, making the founder replaceable in sales.
-- `INS-260329-100D` Orient sales training around deep prospect understanding rather than product knowledge — reps shouldn't be talking much about the product anyway.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260322-7F88` At scale, your recruiting pipeline needs the same metrics-driven rigor as your customer pipeline: lead gen, nurture, conversion, onboarding, retention.
 - `INS-260329-A80B` Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
@@ -70,3 +66,8 @@
 - `INS-260330-E4DB` Rome's reliance on Germanic mercenaries loyal only to gold — not to Rome itself — directly caused the civil wars that destroyed the Western Empire.
 - `INS-260329-BC36` Pay teachers $50/hr to deliver your templatized curriculum while collecting $280/hr per group — keeping 80%+ gross margins and freeing yourself to focus on sales and recruitment.
 - `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
+- `INS-260328-7942` A VP of Sales from Google knows how to run a team against an established playbook — they don't know how to create one from scratch.
+- `INS-260327-2430` At OpenAI, Maggie holds the hiring line even during hypergrowth from 200 to 1000 people because one exceptional hire beats three average ones, and a mishire costs $1M+ when you factor in full cycle costs.
+- `INS-260327-2608` Sales managers hiring SDRs look for hard work, coachability, and team orientation — candidates with zero experience but these traits consistently outperform experienced hires who lack them.
+- `INS-260329-89DA` The CLOSER framework structures sales calls into six repeatable steps that any trained person can execute, making the founder replaceable in sales.
+- `INS-260329-100D` Orient sales training around deep prospect understanding rather than product knowledge — reps shouldn't be talking much about the product anyway.

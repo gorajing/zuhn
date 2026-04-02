@@ -59,6 +59,9 @@ evidence:
   - id: INS-260330-FED6
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-2EC0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 On a linear scale, exponential data creates a hockey stick curve where early variations are crushed into an invisible baseline and recent data dominates perception. A log scale maps each order of magnitude to equal visual distance, turning constant-rate exponential growth into a straight line. Any deviation from that straight line — acceleration, deceleration, inflection — becomes immediately visible as a bend.
 

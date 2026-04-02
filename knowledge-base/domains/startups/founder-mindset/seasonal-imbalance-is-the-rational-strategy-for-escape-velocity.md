@@ -54,6 +54,10 @@ related:
   - INS-260330-EAA3
   - PRI-260328-23B0
   - PRI-260323-0F93
+evidence:
+  - id: INS-260330-EAA3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The conventional wisdom of 'work-life balance' assumes a steady-state life. Hormozi argues this is wrong for people trying to escape constrained circumstances — balance is a luxury of the already-established. Instead, he proposes 'seasonal thinking': accept radical imbalance for a defined 36-month window, with the explicit understanding that this is temporary.
 

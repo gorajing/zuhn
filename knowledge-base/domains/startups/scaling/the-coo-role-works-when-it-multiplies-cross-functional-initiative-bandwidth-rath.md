@@ -59,5 +59,12 @@ related:
   - INS-260327-42F0
   - INS-260323-3D7D
   - INS-260325-FDF5
+evidence:
+  - id: INS-260323-3D7D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-42F0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Weinberg distinguishes between two COO models. The common one: CEO keeps product, COO runs everything else (especially GTM). His model: Katie Burke operates as a true partner across every function. She takes cross-functional initiatives off Weinberg's daily operating list, coordinates across engineering, product, design, GTM, and post-sales, and surfaces decisions rather than raw problems. Previously, Weinberg would wrangle all these functions himself for each initiative. Now he delegates the coordination and decides from options. The leverage is multiplicative — it's not just taking work off the CEO's plate, it's duplicating the capacity for the hardest type of work: initiatives that span every function. Her background as Chief People Officer makes her especially effective because hiring/retention/org design touches everything. Weinberg considers the number one priority at Harvey to be getting the right people in the right seats — and that's her core competency.

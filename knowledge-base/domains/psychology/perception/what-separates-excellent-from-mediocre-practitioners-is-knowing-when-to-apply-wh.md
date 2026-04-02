@@ -69,5 +69,11 @@ evidence:
   - id: INS-260329-92C3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-47E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-B408
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Early in the course, Fiset makes an observation from his experience at Google: the difference between mediocre and excellent programmers isn't knowledge of data structures — most competent developers know what a hash table or a tree is. The difference is the ability to recognize which data structure fits the current problem's constraints. This is a specific instance of a broader expertise pattern. Chess grandmasters don't calculate more moves than amateurs — they recognize more board patterns. Expert doctors don't know more diseases — they match symptom clusters to diagnoses faster. In AI development, the parallel is clear: the skill ceiling isn't knowing more prompting techniques or frameworks, it's recognizing which approach fits the current problem. A developer who defaults to the right tool for each situation will consistently outperform one who knows every tool but applies them haphazardly. This suggests that deliberate practice should focus on varied problem exposure (building pattern recognition for tool selection) rather than deep study of any single technique.

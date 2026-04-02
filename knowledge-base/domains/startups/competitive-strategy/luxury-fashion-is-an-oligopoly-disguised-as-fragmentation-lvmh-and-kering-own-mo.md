@@ -52,5 +52,9 @@ related:
 stance: >-
   Buy Alexander McQueen sneakers, a Gucci jacket, and a YSL bag from 3
   'different' brands — all your money goes to the same company (Kering)
+evidence:
+  - id: INS-260323-5C6F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Luxury fashion appears fragmented with dozens of independent houses. In reality, LVMH owns Dior, Fendi, Givenchy, Marc Jacobs, Louis Vuitton. Kering owns Gucci, Balenciaga, Bottega Veneta, Alexander McQueen, YSL. Brands that seem to be competitors are actually subsidiaries creating an illusion of choice. LVMH earns $54B annually, 4x Kering. The conglomerate model works because each brand maintains its identity while sharing back-office operations, supply chains, and retail networks. Same playbook as Regis in barbershops (blanketing malls with multiple brands) but executed at luxury scale.

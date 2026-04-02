@@ -55,6 +55,10 @@ related:
   - INS-260330-DEF7
   - INS-260330-C31B
   - INS-260330-4B84
+evidence:
+  - id: INS-260330-DEF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial uses coordinates as the canonical tuple example — (4, 5) represents a point that shouldn't change after creation. This is a profound design principle disguised as a beginner concept. When you choose a tuple over a list, you're encoding a business rule (this data is immutable) into the type system itself. Any attempt to violate it produces an immediate, clear error: 'tuple object does not support item assignment.'
 

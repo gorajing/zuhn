@@ -58,6 +58,10 @@ related:
 stance: >-
   Friedman's willingness to compromise and say 'I was wrong' gave him lasting
   policy influence, while Rand's philosophical purity made her schismatic...
+evidence:
+  - id: INS-260323-89C2
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Burns contrasts two approaches to winning the battle of ideas. Ayn Rand was a purist who demanded total alignment from followers, broke relationships over disagreement, and became angrier over time. Milton Friedman was 'the happy warrior' who debated with a smile, accepted half a loaf, and could say 'I was wrong' — even expressing doubts about globalization near the end of his life.
 

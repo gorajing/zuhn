@@ -60,6 +60,10 @@ related:
   - INS-260330-6C17
   - INS-260330-12F9
   - INS-260330-24B6
+evidence:
+  - id: INS-260330-A7C6
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When an AK-47 fires underwater, three separate bubble formations occur almost simultaneously: cavitation bubbles from the Bernoulli effect as the bullet exits the barrel, burnt gunpowder gas trailing behind the projectile, and vapor from the bullet's shock wave compressing surrounding water. To the naked eye, these appear as one chaotic cloud. Only at 27,450 fps do they separate into distinct phenomena with different origins, behaviors, and decay patterns.
 

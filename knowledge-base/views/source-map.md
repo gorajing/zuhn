@@ -238,9 +238,14 @@ Generated on 2026-04-02 | 2421 sources
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
+| 2024 Annual Letter | blog | 5 | 2026-03-30 |
+| 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
+| A Fundraising Survival Guide | blog | 5 | 2026-03-31 |
 | A Plan for Spam | blog | 5 | 2026-03-31 |
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
+| Are Software Patents Evil? | blog | 5 | 2026-03-31 |
+| Before the Startup | blog | 5 | 2026-03-31 |
 | Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
@@ -249,6 +254,7 @@ Generated on 2026-04-02 | 2421 sources
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
 | How to Do Great Work | blog | 5 | 2026-03-31 |
+| How to Do Philosophy | blog | 5 | 2026-03-31 |
 | How to Fund a Startup | blog | 5 | 2026-03-31 |
 | How to Get Startup Ideas | blog | 5 | 2026-03-31 |
 | How to Make Wealth | blog | 5 | 2026-03-31 |
@@ -266,6 +272,8 @@ Generated on 2026-04-02 | 2421 sources
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The Growth Loop Playbook Used by Top Startups | blog | 5 | 2026-03-30 |
 | The Hacker's Guide to Investors | blog | 5 | 2026-03-31 |
+| The Hardest Lessons for Startups to Learn | blog | 5 | 2026-03-31 |
+| The Hundred-Year Language | blog | 5 | 2026-03-31 |
 | The Network Effects Manual: 16 Different Network Effects (and counting) | blog | 5 | 2026-03-31 |
 | The Origins of Wokeness | blog | 5 | 2026-03-31 |
 | The Other Road Ahead | blog | 5 | 2026-03-31 |
@@ -279,6 +287,7 @@ Generated on 2026-04-02 | 2421 sources
 | What You'll Wish You'd Known | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
 | Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
+| Why Startups Condense in America | blog | 5 | 2026-03-31 |
 | Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
@@ -1419,14 +1428,12 @@ Generated on 2026-04-02 | 2421 sources
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
 | 2020 Year in Review | blog | 0 | 2026-03-31 |
 | 2023 Annual Letter | blog | 0 | 2026-03-30 |
-| 2024 Annual Letter | blog | 0 | 2026-03-30 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 0 | 2026-03-30 |
 | 2026 Tech Trends🔮, Startups That Win⚔️, Why Cambridge Associates Is Cautious⚠️ | blog | 0 | 2026-03-30 |
 | 234 Tech European Conferences in 2025 | blog | 0 | 2026-03-30 |
 | 25 proven tactics to accelerate AI adoption at your company | blog | 0 | 2026-03-31 |
 | 2,500+ Angel Investors for AI & SaaS Startups | blog | 0 | 2026-03-30 |
 | 26 Pitch Decks That Raised $393M (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
-| 28 Ways to Grow Supply in a Marketplace 📈 | blog | 0 | 2026-03-31 |
 | 3 Activities To Encourage Dynamic Strategic Thinking | blog | 0 | 2026-03-31 |
 | 3 mistakes CEOs and CFOs make when investing in innovation | blog | 0 | 2026-03-31 |
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 0 | 2026-03-31 |
@@ -1490,7 +1497,6 @@ Generated on 2026-04-02 | 2421 sources
 | A framework for PM skill development | Vikrama Dhiman (Gojek) | blog | 0 | 2026-03-31 |
 | A free year of Devin: the world’s most advanced autonomous AI software engineer | blog | 0 | 2026-03-31 |
 | "A full software engineering teammate": OpenAI product lead on getting the most out of Codex | Alexander Embiricos | blog | 0 | 2026-03-31 |
-| A Fundraising Survival Guide | blog | 0 | 2026-03-31 |
 | A guide to advanced B2B positioning | blog | 0 | 2026-03-31 |
 | A guide to AI prototyping for product managers | blog | 0 | 2026-03-31 |
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
@@ -1601,7 +1607,6 @@ Generated on 2026-04-02 | 2421 sources
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 0 | 2026-03-30 |
 | April Dunford on product positioning, segmentation, and optimizing your sales process | blog | 0 | 2026-03-31 |
 | Are Gains the Opposite of Pains? | blog | 0 | 2026-03-31 |
-| Are Software Patents Evil? | blog | 0 | 2026-03-31 |
 | Are we in the foothills of World War 3? | blog | 0 | 2026-03-30 |
 | ARM Business Model | blog | 0 | 2026-03-31 |
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
@@ -1620,7 +1625,6 @@ Generated on 2026-04-02 | 2421 sources
 | Be Good | blog | 0 | 2026-03-31 |
 | Beating the Averages | blog | 0 | 2026-03-31 |
 | Become an Innovation Expert at the 2020 Strategyzer Bootcamp | blog | 0 | 2026-03-31 |
-| Before the Startup | blog | 0 | 2026-03-31 |
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
 | Best Books for Founders: What Startup Leaders Actually Read | blog | 0 | 2026-03-30 |
@@ -1871,7 +1875,6 @@ Generated on 2026-04-02 | 2421 sources
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
 | How to Convince Investors | blog | 0 | 2026-03-31 |
 | How to Disagree | blog | 0 | 2026-03-31 |
-| How to Do Philosophy | blog | 0 | 2026-03-31 |
 | How to Do What You Love | blog | 0 | 2026-03-31 |
 | How to Evaluate a Startup Exit: Signs, Metrics & Red Flags | blog | 0 | 2026-03-30 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 0 | 2026-03-30 |
@@ -2157,11 +2160,9 @@ Generated on 2026-04-02 | 2421 sources
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 0 | 2026-03-30 |
 | The Go-To Pricing Guide for Early-Stage Founders + Toolkit | blog | 0 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 0 | 2026-03-30 |
-| The Hardest Lessons for Startups to Learn | blog | 0 | 2026-03-31 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
 | The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of "Quiet") | blog | 0 | 2026-03-31 |
 | The High-Res Society | blog | 0 | 2026-03-31 |
-| The Hundred-Year Language | blog | 0 | 2026-03-31 |
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 0 | 2026-03-31 |
 | The Insider Story of Waze | blog | 0 | 2026-03-31 |
@@ -2336,7 +2337,6 @@ Generated on 2026-04-02 | 2421 sources
 | Why Smart People Have Bad Ideas | blog | 0 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 0 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 0 | 2026-03-31 |
-| Why Startups Condense in America | blog | 0 | 2026-03-31 |
 | Why the Real AI Risk Isn’t Superintelligence: A Final Look | blog | 0 | 2026-03-30 |
 | Why the VC Secondary Market Is Booming in 2025 | blog | 0 | 2026-03-30 |
 | Why There Aren't More Googles | blog | 0 | 2026-03-31 |

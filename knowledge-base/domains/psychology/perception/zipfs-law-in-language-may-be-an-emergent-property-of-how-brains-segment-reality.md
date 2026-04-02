@@ -73,6 +73,9 @@ evidence:
   - id: INS-260330-B5D2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-F963
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video's most intellectually honest conclusion is that no single explanation suffices. Mandelbrot showed random typing produces Zipf distributions, but actual language isn't random — people asked to name fictional aliens still follow Zipf's law, suggesting it's built into cognition. The principle of least effort explains speaker-listener compromise. Preferential attachment explains why used words get reused. Critical points explain topic-switching behavior. Each mechanism alone is insufficient; together they produce the observed pattern.
 

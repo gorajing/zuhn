@@ -59,6 +59,10 @@ related:
   - INS-260330-11EB
   - INS-260330-EB48
   - INS-260330-E039
+evidence:
+  - id: INS-260330-AB3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RuBisCo evolved in an atmosphere with abundant CO2 and almost no oxygen. When plants' own light reactions flooded the atmosphere with O2, RuBisCo started binding oxygen instead of CO2 roughly half the time, creating toxic phosphoglycolate. Rather than evolving a replacement enzyme, plants went all-in: they produce ~40 billion tons of RuBisCo at any given time and evolved entire metabolic pathways (photorespiration) to recycle the toxic byproduct.
 

@@ -55,6 +55,16 @@ related:
 stance: >-
   Use tools like PostHog and RevenueCat experiments to A/B test onboarding
   screens, paywalls, and pricing in isolation
+evidence:
+  - id: INS-260325-95A6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-0932
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260321-AD95
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Arthur ran structured A/B tests across onboarding flows, paywall designs, pricing, and even App Store icons. His most striking finding: a 'less personal questions' variant that removed three onboarding screens drove zero conversions, while a 'no-pact' variant that removed a different screen significantly outperformed the control on both completion and conversion.
 

@@ -53,5 +53,15 @@ related:
   - INS-260330-BA13
   - INS-260330-7FFE
   - PRI-260322-94C4
+evidence:
+  - id: INS-260323-92AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-BA13
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7FFE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The tutorial's iframe section inadvertently teaches a deep systems principle: composability creates security surfaces. The ability to embed any website inside another website via iframes enables powerful composition patterns (embedding YouTube videos, maps, payment forms) but also creates a spoofing attack vector where a malicious site can pose as a legitimate one. Amazon and other major sites block iframe embedding specifically because the composability benefit doesn't outweigh the phishing risk. This tension between composability and security appears throughout system design — APIs that allow arbitrary code execution, plugins that can access host data, microservices that trust internal network traffic. The pattern teaches that production systems should default to restricting composition (X-Frame-Options: DENY, Content-Security-Policy) and selectively enable it, rather than the inverse. Security by default, composability by opt-in.

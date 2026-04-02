@@ -61,6 +61,10 @@ related:
 stance: >-
   Holocaust survivor Maior Meyer's observation: for a dominant group to
   dehumanize another, they must first dehumanize themselves
+evidence:
+  - id: INS-260323-D4B1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Youssef cites Holocaust survivor Maior Meyer's insight from Auschwitz: 'In order for a group of people to dehumanize another group, they need first to dehumanize themselves.' This framework explains how ordinary people participate in atrocities — the psychological cost of dehumanizing others requires numbing your own humanity first.
 

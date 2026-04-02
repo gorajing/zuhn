@@ -57,5 +57,9 @@ related:
   - INS-260327-25D7
   - INS-260328-58B1
   - INS-260330-808B
+evidence:
+  - id: INS-260330-7C24
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Public markets decided that since code is becoming free, every software company is going to zero — Rajaram calls this 100% an overreaction. Using his 8-moat framework: Atlassian scores ~3 (proprietary data on all checked-in code, workflow embedding, ecosystem of third-party tools) and is being massively oversold at -75%. Monday scores ~1 (basic workflow moat only) and may be fairly priced in this environment. The framework provides a systematic way to distinguish between software companies that will be disrupted and those that have structural defenses. For early-stage software investors, the two moats available to evaluate are data (does it get better with every interaction?) and workflow depth (how deeply embedded are you?).

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260327-C15B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-206C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Andreessen identifies pricing as one of the 'trillion dollar questions' in AI. The infrastructure layer (OpenAI, Anthropic, Google) prices tokens by the drink — which is excellent for startups because it means low fixed costs to get started. But application companies should not replicate this model. The core pricing principle: price by value, not by cost.
 

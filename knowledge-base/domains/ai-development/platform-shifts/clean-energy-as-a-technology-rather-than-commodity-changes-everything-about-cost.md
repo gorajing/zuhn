@@ -59,6 +59,19 @@ related:
   - INS-260330-1084
   - INS-260323-F528
   - INS-260330-DCE1
+evidence:
+  - id: INS-260330-BC56
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-1084
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-F528
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-DCE1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Leyden highlights a crucial distinction: for the first time in history, a primary energy source is 100% a technology rather than a commodity. Coal and oil must be dug up or tapped — their costs are subject to geological and geopolitical constraints. Solar panels and batteries are manufactured, meaning they follow manufacturing learning curves.
 

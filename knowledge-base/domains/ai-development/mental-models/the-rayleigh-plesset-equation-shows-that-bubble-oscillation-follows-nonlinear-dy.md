@@ -58,6 +58,19 @@ related:
   - INS-260330-1953
   - INS-260330-9BB5
   - INS-260330-8AE8
+evidence:
+  - id: INS-260330-3170
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-8BB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-1953
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9BB5
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The Rayleigh-Plesset equation describes how a bubble's radius changes over time in a fluid, accounting for surface tension, viscosity, and pressure differentials. A key feature is that expansion and collapse are not mirror images—bubbles grow gradually but collapse with extreme violence because the nonlinear inertial terms accelerate during contraction.
 

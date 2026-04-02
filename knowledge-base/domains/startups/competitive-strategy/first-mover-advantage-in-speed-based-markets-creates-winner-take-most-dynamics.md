@@ -51,6 +51,10 @@ related:
   - PRI-260328-82BE
   - INS-260330-6A47
   - INS-260325-51E6
+evidence:
+  - id: INS-260325-5455
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Financial markets exemplify a pure speed-based competitive dynamic: the first system to react to market data captures the arbitrage opportunity, and the second-fastest system finds nothing left. This creates an arms race where incremental speed improvements have outsized returns — shaving microseconds off latency can be worth millions in annual revenue.
 

@@ -69,6 +69,9 @@ evidence:
   - id: INS-260323-7625
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260325-B234
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Andreessen identifies a structural economic force: the price of AI per unit of intelligence is collapsing faster than Moore's law ever drove chip costs down. This is happening across the entire cost structure — chips, energy, model efficiency, serving costs — simultaneously.
 

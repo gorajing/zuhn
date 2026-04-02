@@ -49,5 +49,12 @@ related:
   - INS-260330-FED6
   - INS-260330-ED8A
   - INS-260330-1AB0
+evidence:
+  - id: INS-260330-2EC0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FF5B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 On a linear axis, exponential growth appears as a hockey stick where early data is compressed into a flat line and recent data dominates. This visual distortion makes it nearly impossible to spot changes in growth rate — the very signal that matters most. On a logarithmic scale, constant exponential growth becomes a straight line, and any deviation from that line (acceleration, deceleration, plateau) becomes immediately obvious. This is why epidemiologists, investors, and growth teams default to log-scale charts: the slope literally is the growth rate, and slope changes are the earliest warning signal available.

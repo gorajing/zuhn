@@ -58,6 +58,31 @@ related:
   - INS-260329-764E
   - INS-260327-019C
   - INS-260327-CA1C
+evidence:
+  - id: INS-260322-81CD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-4B63
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A61B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-D1C8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1F41
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-764E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-019C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-CA1C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Sora team discovered that when they made it trivially easy for users to create (via cameos and remixes), engagement patterns shifted dramatically from consumption to creation. The 'cameo' feature, which lets users insert themselves into AI-generated videos, produced immediate product-market fit internally before launch, with the team's entire feed becoming cameos.
 

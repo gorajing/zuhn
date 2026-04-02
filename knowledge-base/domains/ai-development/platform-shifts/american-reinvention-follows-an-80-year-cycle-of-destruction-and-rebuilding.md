@@ -54,6 +54,16 @@ related:
   - INS-260325-79BD
   - PRI-260325-070D
   - INS-260325-6A35
+evidence:
+  - id: INS-260325-7FE6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-79BD
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-6A35
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Leyden maps four American inflection points at roughly 80-year intervals. The Founding era (1787-1810) created democratic institutions. The post-Civil War period (1865-1890) built the transcontinental railroad, land-grant universities, and the Homestead Act. The post-WWII era (1945-1970) produced the interstate highway system, GI Bill, Great Society, and the golden age of capitalism with 90% top tax rates.
 

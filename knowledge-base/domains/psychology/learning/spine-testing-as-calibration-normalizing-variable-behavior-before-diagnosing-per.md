@@ -52,5 +52,9 @@ related:
   - INS-260330-BF96
   - INS-260330-6828
   - INS-260330-FA2D
+evidence:
+  - id: INS-260330-6828
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In the video, Byron Ferguson demonstrates spine testing — flexing each arrow to verify consistent stiffness — before any shooting. This ensures that when an arrow misses, the cause is technique rather than equipment variance. This principle generalizes powerfully: experts in any domain first normalize their tools and environment before diagnosing performance. A chef calibrates oven temperature before blaming a recipe. A developer runs tests in a clean environment before debugging. A trader checks data feed integrity before questioning a strategy. The failure mode of skipping calibration is misattributed causality — you 'fix' your technique when the problem was your equipment, or vice versa. The insight is that calibration isn't perfectionism; it's the prerequisite for accurate causal reasoning about your own performance.

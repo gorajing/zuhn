@@ -54,6 +54,10 @@ related:
   - PRI-260328-D292
   - INS-260325-EBDD
   - INS-260328-6C9A
+evidence:
+  - id: INS-260328-6C9A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Crawford counts five major revolutions between 1870-1920: the electrical industry (generators, motors, light bulbs), internal combustion (automobiles, airplanes), information technology (telephone, radio), synthetic chemistry (plastics, fertilizer), and public health (germ theory, sanitation, vaccines). The equivalent 50-year period from 1970-2020 produced just one clear revolution (computers and the internet) and arguably a second (genetic engineering).
 

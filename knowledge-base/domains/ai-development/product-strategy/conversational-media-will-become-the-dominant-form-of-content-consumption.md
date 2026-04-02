@@ -58,6 +58,16 @@ related:
   - INS-260329-EDA2
   - INS-260327-2C5F
   - PRI-260328-1654
+evidence:
+  - id: INS-260323-6BF4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-6807
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2C5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dara draws a historical pattern: the internet taught people to consume information through screens (leading to blogs), ChatGPT is teaching people to consume it through conversation (which will lead to conversational media). His thesis: conversation is the easiest and most natural way to consume information, so once the habit forms, the pendulum will swing toward wanting that conversational content to come from trusted human sources.
 

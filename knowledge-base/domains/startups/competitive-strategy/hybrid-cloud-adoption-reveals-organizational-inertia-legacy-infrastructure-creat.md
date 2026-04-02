@@ -60,5 +60,11 @@ evidence:
   - id: INS-260321-1749
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-A367
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-DD43
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The three cloud deployment models — full cloud, on-premise, and hybrid — reveal a strategic truth about organizational decision-making. Full cloud adoption is ideal for startups with no legacy baggage. On-premise persists in government, healthcare, and heavily regulated industries due to genuine compliance requirements. But hybrid cloud — used by banks, fintech companies, and large enterprises — is almost always a compromise driven by legacy infrastructure, not an optimal architecture choice. As Andrew Brown notes, 'it's totally possible that if they started from day one, they would just only use cloud.' This insight is valuable for competitive strategy: companies stuck in hybrid architectures face ongoing integration costs, slower deployment cycles, and split expertise across two paradigms. A cloud-native competitor has a structural speed advantage. For founders evaluating enterprise markets, the prevalence of hybrid setups in an industry signals both switching cost moats (hard for incumbents to move) and disruption opportunities (cloud-native solutions are inherently faster to iterate).

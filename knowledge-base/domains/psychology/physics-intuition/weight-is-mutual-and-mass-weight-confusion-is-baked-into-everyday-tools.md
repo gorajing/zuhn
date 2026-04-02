@@ -53,6 +53,13 @@ related:
   - INS-260330-5E03
   - INS-260330-E70C
   - INS-260330-C9A6
+evidence:
+  - id: INS-260327-6664
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5E03
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Weight is a force of mutual attraction: you pull Earth upward with exactly the same force that Earth pulls you down. A 180-pound person exerts 180 pounds of gravitational force on the planet. The asymmetry in motion exists because Earth's vastly greater mass makes it far more resistant to acceleration — the same force moves you dramatically more than it moves Earth.
 

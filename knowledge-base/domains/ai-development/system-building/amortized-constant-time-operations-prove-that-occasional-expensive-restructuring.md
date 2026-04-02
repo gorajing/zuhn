@@ -60,6 +60,13 @@ related:
   - INS-260330-F5A1
   - INS-260330-B7B1
   - INS-260329-8181
+evidence:
+  - id: INS-260329-4696
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B7B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When a dynamic array runs out of space, it doubles its internal static array and copies all elements — an O(n) operation. But this doubling happens so rarely (only at capacities 1, 2, 4, 8, 16...) that averaged across all appends, each one costs O(1). The course emphasizes that this 'seems strange' but is mathematically sound.
 

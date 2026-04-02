@@ -56,6 +56,10 @@ related:
   - INS-260330-464E
   - PRI-260320-3032
   - INS-260329-D0B3
+evidence:
+  - id: INS-260329-D0B3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Leonardo painted every individual leaf on the juniper bush behind Ginevra de Benci's head, even though it was just background framing. His effort on any part of a painting did not depend on how closely he expected anyone to examine it. The result: people walking by the portrait are immediately arrested by it before they even read the label. All those unseen details combine to produce something stunning.
 

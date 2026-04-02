@@ -51,6 +51,10 @@ related:
   - INS-260330-6D5C
   - INS-260330-2726
   - PRI-260325-663A
+evidence:
+  - id: INS-260330-E647
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The brain operates within a fixed energy limit fueled by ATP. Most of that energy goes to maintaining physical structure by pumping sodium and potassium ions across membranes, leaving very little for actual thought. Listening to one person speak consumes roughly half of available bandwidth. Listening to two simultaneously is impossible.
 

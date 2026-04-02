@@ -48,6 +48,10 @@ related:
   - INS-260330-233C
   - INS-260330-968D
   - INS-260327-FB98
+evidence:
+  - id: INS-260327-FB98
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wendy Wood's research at Duke found that approximately 45% of behaviors people perform in a day are habits, not conscious decisions. Habits are an evolutionary advantage: they allow us to execute complex behavior sequences without conscious attention, freeing mental bandwidth for other tasks.
 

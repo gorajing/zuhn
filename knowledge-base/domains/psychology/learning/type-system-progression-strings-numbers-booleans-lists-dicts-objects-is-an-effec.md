@@ -76,6 +76,9 @@ evidence:
   - id: INS-260323-B309
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-4B30
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The tutorial's type introduction sequence is not alphabetical or arbitrary — it follows a precise concrete-to-abstract gradient. Strings come first because they're directly visible ('Hello' is immediately inspectable). Numbers follow because arithmetic is pre-existing knowledge. Booleans are introduced through comparison operators on already-familiar types. Lists and dictionaries emerge as containers for the primitive types already understood. Finally, classes arrive as containers for both data and behavior.
 

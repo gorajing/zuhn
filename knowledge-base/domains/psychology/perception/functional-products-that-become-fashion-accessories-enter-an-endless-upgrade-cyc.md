@@ -48,6 +48,10 @@ related:
   - INS-260327-5D71
   - INS-260327-45BD
   - PRI-260328-909D
+evidence:
+  - id: INS-260327-24AA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Water bottles marketed as sustainable alternatives to disposable plastics have become fashion items with seasonal colors and limited editions, creating more consumption than the disposables they replaced.
 

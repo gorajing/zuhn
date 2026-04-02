@@ -53,5 +53,12 @@ related:
   - PRI-260328-0AB1
   - INS-260329-D8F2
   - INS-260329-8CC0
+evidence:
+  - id: INS-260329-8CC0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-F887
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The load balancer paradox is a specific instance of a general pattern: solutions to reliability problems introduce new reliability problems at a higher level of abstraction. You add a load balancer to prevent server overload, then need redundant load balancers, then need health monitoring for the load balancers, then need alerting for the health monitors. Each layer reduces one failure mode while creating another. This applies directly to organizational design too: the person hired to prevent process failures becomes a bottleneck, the backup plan needs its own backup plan. The practical takeaway is not to avoid redundancy, but to recognize that reliability degrades logarithmically — each additional nine of availability costs exponentially more, and the failure modes get progressively more exotic and harder to test for.

@@ -59,6 +59,13 @@ related:
 stance: >-
   Scientists pursuing de-extinction deliberately make the fewest genetic edits
   possible, because each change carries unpredictable risk
+evidence:
+  - id: INS-260326-AB92
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A47B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The direwolf project lead explicitly stated: 'Every time we change the sequence of DNA in a genetic background, there's a risk that something happens that we didn't predict. I want healthy animals in the end. Therefore, my goal is the fewest number of changes necessary.' The resulting animals are technically genetically modified grey wolves with select direwolf traits, not exact replicas.
 

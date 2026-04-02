@@ -49,14 +49,14 @@ stance: >-
   the entire field of programming
 related:
   - INS-260323-DB7B
-  - INS-260325-CACA
   - INS-260326-7995
   - PRI-260328-4144
   - INS-260329-44C9
-  - INS-260329-7C59
   - INS-260329-5F37
   - INS-260329-500E
   - INS-260329-E40B
+  - INS-260329-7C59
+  - INS-260402-9676
   - INS-260329-04FA
 evidence:
   - id: INS-260329-5F37

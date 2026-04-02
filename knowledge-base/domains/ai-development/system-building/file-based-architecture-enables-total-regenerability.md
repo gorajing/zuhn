@@ -53,6 +53,16 @@ resolutions:
 stance: >-
   Markdown files should be the source of truth while databases and indices
   remain disposable artifacts
+evidence:
+  - id: INS-260329-AB61
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-956D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-F46F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Markdown files are the source of truth. SQLite database, indices, mindmap,

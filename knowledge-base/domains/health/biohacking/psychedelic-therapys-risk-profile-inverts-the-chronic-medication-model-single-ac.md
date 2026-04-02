@@ -61,6 +61,22 @@ related:
   - INS-260330-7C42
   - INS-260330-C366
   - INS-260330-3672
+evidence:
+  - id: INS-260330-1384
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3748
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-7C42
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-C366
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3672
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Dr. Johnson highlights an underappreciated aspect of psychedelic therapy's risk profile: while a heroic dose session involves intense acute risk (which is managed through clinical protocol), it potentially replaces years or decades of daily psychiatric medication that carries its own substantial cumulative risks — weight gain, sexual dysfunction, emotional blunting, dependency, withdrawal syndromes.
 

@@ -59,5 +59,9 @@ related:
   - INS-260327-7690
   - INS-260327-ECDA
   - INS-260330-DA38
+evidence:
+  - id: INS-260325-060A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Winston Weinberg (Harvey, AI for lawyers) has built a systematic reinvention practice: every 4 months, he questions the fundamental assumptions behind the product, team structure, and GTM strategy. The rationale: AI model capabilities improve discontinuously (each new model generation can make entire product features obsolete or suddenly possible). A strategy optimized for GPT-4's capabilities may be wrong for GPT-5. This aligns with Elena Verna's insight (from FounderCoHo batch) that AI companies must re-find PMF every 3 months. The pattern: successful AI companies are not executing a fixed vision — they are running a continuous loop of capability assessment → strategy reset → rapid execution → repeat.

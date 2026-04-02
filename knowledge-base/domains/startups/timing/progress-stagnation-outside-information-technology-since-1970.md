@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-1B3E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-2B76
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Crawford identifies a stark contrast in innovation density across eras. The 1870-1920 period produced five simultaneous revolutions: electrical industry, internal combustion engine/automobiles/airplanes, information technology (telephone/radio), synthetic chemistry (plastics/fertilizer), and public health (germ theory/vaccines). The comparable 1970-2020 period produced one definitive revolution (computing/internet) and arguably one more (genetic engineering).
 

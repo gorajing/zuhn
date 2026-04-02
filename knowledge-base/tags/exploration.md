@@ -1,5 +1,6 @@
 # Tag: exploration
 
+- `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
 - `INS-260330-5641` The importance of a mathematical fact is proportional to how many other topics it connects to, making it discoverable from many starting points.

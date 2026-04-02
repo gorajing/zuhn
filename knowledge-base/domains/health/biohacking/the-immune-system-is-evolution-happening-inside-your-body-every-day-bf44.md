@@ -57,6 +57,15 @@ evidence:
   - id: INS-260325-D680
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-75A3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-DFA5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8F70
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Carroll reveals that the immune system is not just analogous to evolution — it IS evolution operating inside your body. When a pathogen enters, immune cells with surface molecules complementary to the invader activate and multiply from one cell to billions in about a week, producing antibodies.
 

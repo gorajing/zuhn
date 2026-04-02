@@ -51,6 +51,19 @@ related:
   - INS-260330-FCA3
   - INS-260329-613F
   - INS-260329-E900
+evidence:
+  - id: INS-260330-B91E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-FCA3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-613F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-E900
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 HFT systems maintain the entire order book — the live snapshot of all buy and sell orders — purely in-memory to eliminate disk I/O and database latency. They keep synchronized replicas (e.g., Replica A and Replica B) so the system can instantly fail over if one crashes or lags.
 

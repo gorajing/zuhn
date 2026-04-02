@@ -62,6 +62,13 @@ related:
   - INS-260330-203F
   - INS-260330-3672
   - INS-260330-887A
+evidence:
+  - id: INS-260330-2C6A
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-A5B0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Johns Hopkins protocol deliberately uses what Terence McKenna called a 'heroic dose' — 30-40mg of psilocybin, equivalent to roughly 5 grams of dried mushrooms. This is not arbitrary thrill-seeking but a calibrated clinical decision. At sub-heroic doses, patients experience enough perceptual disruption to trigger anxiety and resistance, but not enough to fully dissolve the ego structures that maintain pathological thought patterns.
 

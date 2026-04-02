@@ -54,5 +54,9 @@ related:
   - INS-260330-0DFC
   - INS-260330-B885
   - INS-260330-DE89
+evidence:
+  - id: INS-260327-DE4E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Joe Rogan describes his strategy for surviving the massive cancel culture attack in early 2022: brutal exercise routines, sauna sessions, cold plunge, and microdosing mushrooms. His core insight is that by voluntarily creating suffering harder than anything the external world throws at you, everything else becomes comparatively easy. This isn't just pain tolerance — it's a deliberate recalibration of your psychological baseline. The mushrooms alone wouldn't have worked, he says; it was the combination of physical hardship with the altered perspective. This maps to Stoic practices of voluntary discomfort (premeditatio malorum) but with a modern biohacking twist. The practical application is that people facing professional crises or public attacks should intensify their physical training rather than retreat into comfort, because the physiological stress response from extreme exercise creates genuine psychological resilience, not just distraction.

@@ -47,11 +47,11 @@ resolutions:
     because customers trust the badge, which drives more sales, which reinforces
     the position.
 related:
+  - INS-260402-FFB2
   - INS-260323-D621
   - PRI-260323-7B35
   - INS-260322-BFDE
   - INS-260327-1B60
-  - PRI-260328-0993
   - INS-260327-0D0B
 stance: >-
   Every dollar of profit not reinvested into growth is a dollar a competitor

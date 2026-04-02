@@ -73,6 +73,10 @@ related:
   - INS-260327-58AC
   - INS-260327-10E0
   - INS-260329-7CDE
+evidence:
+  - id: INS-260323-B4D2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Whyte corrects the most common misunderstanding of MEDDPICC's Competition element. Most sellers think competition = rival vendor. In reality, competition is any individual, initiative, or vendor competing for the same resources or budget. This includes: a CIO trying to build the solution internally ('we can do this ourselves'); another solution that provides positive ROI but serves a completely different function (competing for the same discretionary budget); and inertia/do-nothing (the most dangerous, because it means you haven't created enough urgency through pain implication).
 

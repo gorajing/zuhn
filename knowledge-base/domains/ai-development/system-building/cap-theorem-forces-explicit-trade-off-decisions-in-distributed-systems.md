@@ -56,6 +56,22 @@ related:
   - INS-260323-3F30
   - INS-260330-09BB
   - INS-260329-3CB6
+evidence:
+  - id: INS-260329-572E
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260329-422F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-50D5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-09BB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-3CB6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The CAP theorem (Brewer's theorem) establishes that any distributed system must sacrifice one of three properties: consistency (all nodes see the same data simultaneously), availability (system always responds to requests), or partition tolerance (system continues functioning despite network disruptions). This isn't a limitation to work around — it's a fundamental constraint that should drive design decisions upfront.
 

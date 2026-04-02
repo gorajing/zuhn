@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 174 insights
+> 175 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -108,6 +108,7 @@
 - `INS-260330-DC3B` [high] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
 - `INS-260327-DB8F` [high] PMF is not strategy—it's the volume of genuine user conversations you have.
 - `INS-260329-D1B0` [high] Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
+- `INS-260402-841D` [high] Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-8D5D` [high] Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
 - `INS-260327-0700` [high] Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260330-4F7B` [high] Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.

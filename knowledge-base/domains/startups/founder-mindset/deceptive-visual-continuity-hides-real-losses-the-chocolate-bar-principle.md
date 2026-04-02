@@ -52,6 +52,10 @@ related:
   - INS-260402-3FD8
   - INS-260330-FF5B
   - INS-260324-5B35
+evidence:
+  - id: INS-260330-FF5B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The chocolate bar illusion works because each piece along the cut is slightly shorter, but the cut itself makes the shrinkage hard to notice. The animation version actively conceals the loss during transitions. This is structurally identical to how organizations lose track of value.
 

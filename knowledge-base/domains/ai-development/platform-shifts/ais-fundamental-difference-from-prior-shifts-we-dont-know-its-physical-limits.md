@@ -59,6 +59,19 @@ related:
 stance: >-
   Unlike previous platform shifts where physical limits were known (modem
   speeds, battery life, fiber deployment), AI's theoretical limits are unknow...
+evidence:
+  - id: INS-260330-AFE0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-8261
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-40DC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-6117
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Evans identifies what genuinely distinguishes AI from every previous platform shift: with the internet, you knew telcos wouldn't deploy gigabit fiber next year; with iPhones, you knew battery life wouldn't last a year. You could build spreadsheets modeling bandwidth consumption and make bounded predictions. With AI, we can't.
 

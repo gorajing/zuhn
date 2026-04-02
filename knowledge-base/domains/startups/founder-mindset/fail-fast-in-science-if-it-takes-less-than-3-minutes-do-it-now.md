@@ -58,5 +58,8 @@ evidence:
   - id: INS-260320-47DC
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-C5D9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Le Cong adopted a principle from his CRISPR experience: failure is great but only if you fail fast. If an experiment or test takes less than 3 minutes and seems interesting, do it immediately. Do not schedule it, do not deliberate, just execute. This bias toward immediate action on small experiments compounds dramatically — you run 10x more experiments, learn 10x faster, and discover unexpected results that deliberation would never surface. The principle applies equally to startups: launch that experiment, send that email, test that feature. The cost of deliberation often exceeds the cost of failure for small bets.

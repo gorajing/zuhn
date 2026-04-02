@@ -56,6 +56,25 @@ related:
   - INS-260330-3037
   - INS-260330-3C3C
   - INS-260330-F671
+evidence:
+  - id: INS-260329-A6F0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B38B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FA36
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-3037
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3C3C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F671
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Photosynthesis stores energy by pumping protons into the thylakoid, creating a concentration gradient — essentially charging a biological battery. The protons then flow through ATP synthase (a constrained channel), and that controlled release produces ATP. The raw energy (photons) is never used directly; it's always converted through an intermediate gradient.
 

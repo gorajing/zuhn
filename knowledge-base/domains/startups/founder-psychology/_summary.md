@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 44 insights
+> 45 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -15,6 +15,7 @@
 - `INS-260330-9933` [high] Brian Acton left $850M on the table to escape Facebook's monetization of WhatsApp, then funded Signal to rebuild what WhatsApp was supposed to be — illustrating that values misalignment in acquisitions always surfaces.
 - `INS-260323-81F5` [high] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` [high] Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
+- `INS-260402-4B96` [high] Startups are where gaming the system stops working because users only care if your product solves their problem.
 - `INS-260330-206B` [high] Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
 - `INS-260323-F9AC` [high] Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260328-8DF8` [high] People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.

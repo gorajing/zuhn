@@ -54,5 +54,9 @@ related:
   - INS-260327-B302
   - INS-260327-D7AA
   - INS-260327-088E
+evidence:
+  - id: INS-260327-5D62
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi's software company Allen initially struggled to expand beyond its existing Gym Launch distribution base because SMBs would ask 'how do I get leads?' — a problem the scheduling software didn't solve. The breakthrough was selling to marketing agencies instead, who already had lead generation handled and controlled 50+ SMB clients each. Going one level higher, Hormozi pitched to people with large agency audiences, meaning one webinar could generate a thousand customers. Within 6 months, the company hit $1.7M/month. The pattern is a distribution leverage ladder: direct-to-customer → sell to aggregators → sell to people who influence aggregators. Each level up multiplies reach exponentially while reducing the number of sales conversations needed.

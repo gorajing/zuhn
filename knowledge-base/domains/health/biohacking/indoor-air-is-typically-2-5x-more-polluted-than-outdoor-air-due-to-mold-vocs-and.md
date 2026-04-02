@@ -44,5 +44,21 @@ related:
   - INS-260325-1709
   - INS-260327-7F1B
   - INS-260330-CA97
+evidence:
+  - id: INS-260330-85AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B6DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-1709
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-7F1B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CA97
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Indoor air quality is 2-5x worse than outdoor air due to off-gassing VOCs from furniture and paint, mold in HVAC systems, dust mites, and inadequate ventilation -- causing chronic fatigue, headaches, and respiratory issues

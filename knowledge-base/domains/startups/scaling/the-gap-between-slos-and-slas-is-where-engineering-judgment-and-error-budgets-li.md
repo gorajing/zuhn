@@ -58,5 +58,8 @@ evidence:
   - id: INS-260325-3B58
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-0CC5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 If your SLA promises 99.99% uptime and your SLO targets 99.99%, you have zero margin for deployments, experiments, or unexpected incidents — any degradation immediately breaches your contract. The practice of setting SLOs stricter than SLAs (e.g., SLO of 99.995% against an SLA of 99.99%) creates an error budget: a quantified amount of acceptable unreliability that can be 'spent' on feature deployments, infrastructure changes, or absorbed by incidents. This reframes reliability from 'never fail' to 'fail within budget.' When the error budget is exhausted, teams freeze feature work and focus on reliability. When there's budget remaining, teams can move fast. This is the operational equivalent of financial runway — and like runway, most teams don't track it until it's too late.

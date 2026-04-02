@@ -55,5 +55,9 @@ related:
   - INS-260330-3C2F
   - INS-260330-BCC7
   - PRI-260328-902C
+evidence:
+  - id: INS-260330-B360
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Harris's instruction to 'catch thoughts the moment they arise' implicitly reveals that self-attribution of thoughts is not instantaneous—there is a window between a thought appearing and the narrative machinery claiming it as 'mine.' This latency gap is consistent with neuroscience findings on readiness potentials (Libet experiments) showing neural activity precedes conscious intention by hundreds of milliseconds. The practical significance is that this gap is trainable: with practice, you can widen the window between stimulus and response, between thought and identification with thought. This has direct applications beyond meditation—in emotional regulation, decision-making under pressure, and breaking habitual reactions. The gap is also relevant to AI alignment: if human 'decisions' have this latency structure, the folk-psychological model of deliberate choice that alignment frameworks assume may need revision.

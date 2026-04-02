@@ -57,6 +57,10 @@ related:
   - INS-260327-E6BC
   - INS-260327-6916
   - INS-260330-FCB7
+evidence:
+  - id: INS-260330-FCB7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Carbohydrates serve as an evolutionary signal of abundance. Historically, fruit availability meant seasons of plenty -- time for reproduction and fertility. Without carbohydrates, the body interprets the situation as winter or famine, downregulating reproductive hormones including testosterone.
 

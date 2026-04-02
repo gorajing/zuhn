@@ -55,6 +55,10 @@ related:
   - INS-260330-233C
   - INS-260330-2311
   - INS-260330-B360
+evidence:
+  - id: INS-260330-B360
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The popular claim that habits take 21 days (or 30, or 60) to form is not supported by the peer-reviewed literature. Lally et al. (2010) studied a single health behavior — taking a walk after dinner — and found the range was 18 to 254 days across participants. The criterion for 'formed' was performing the behavior ~85% of the time with minimal conscious effort.
 

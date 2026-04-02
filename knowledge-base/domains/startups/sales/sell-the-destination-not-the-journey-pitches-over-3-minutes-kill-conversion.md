@@ -52,5 +52,9 @@ related:
   - INS-260328-D2EC
   - INS-260329-5B18
   - INS-260330-5D4F
+evidence:
+  - id: INS-260327-C5D9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi's 'sell the vacation, not the plane flight' principle means never discussing modules, macros, workout plans, support systems, or delivery mechanisms during the pitch. These all sound like work to the prospect. Instead, pitch exactly three outcome-oriented points with 30-second anecdotal stories for each. For fitness: it's not about calories and heart rate — it's about looking forward to the program like you look forward to your favorite TV show. The three-point structure works across industries (fitness: fitness + nutrition + accountability; mortgage leads: exclusive + timely + qualified). Multiple price tiers are just different vehicles to the same destination — 'swim to Maui vs. private jet to Maui.' The likelihood of arrival is assumed; the variables are speed and comfort.

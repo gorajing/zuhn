@@ -5,8 +5,8 @@
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
-- `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260323-2627` Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
+- `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
 - `INS-260330-F4DD` Press works like a sales funnel: get warm intros through recently-covered founders, memorize your bullet-point narrative, invest reporters' time via face-to-face meetings, and follow up with collateral before launch day.

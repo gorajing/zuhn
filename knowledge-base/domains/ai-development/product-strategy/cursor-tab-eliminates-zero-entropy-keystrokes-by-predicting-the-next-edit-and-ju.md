@@ -57,6 +57,13 @@ related:
 stance: >-
   Once a developer's intent is determined, all remaining keystrokes to express
   that intent are zero-entropy actions that AI should eliminate via next...
+evidence:
+  - id: INS-260323-8897
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-E2ED
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Cursor team frames their Tab feature through information theory: code has lower bits-per-byte than natural language, meaning many code tokens are highly predictable. Once a developer signals their intent, the remaining keystrokes to complete that intent carry near-zero information. Cursor Tab's goal is to eliminate all these zero-entropy actions — not just autocompleting the current line but predicting the next edit location, jumping 18 lines down, and showing the next change.
 

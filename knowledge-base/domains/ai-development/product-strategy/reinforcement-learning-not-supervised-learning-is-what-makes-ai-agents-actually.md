@@ -60,5 +60,9 @@ related:
   - INS-260327-EDF0
   - INS-260327-E07C
   - INS-260327-35C7
+evidence:
+  - id: INS-260325-47FE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The OpenAI Deep Research and IMO math teams converge on a key insight: supervised fine-tuning (showing the model good examples) produces competent but brittle systems. Reinforcement learning (rewarding the model for reaching correct answers regardless of path) produces systems that can reason through novel problems. The IMO team showed models solving elite-level math (problems that require multi-step creative reasoning) — this was only possible through RL training. For product builders: the implication is that the most capable AI products will incorporate RL-trained components for tasks requiring genuine reasoning (legal analysis, scientific discovery, complex debugging), while SFT-trained components handle routine pattern matching.

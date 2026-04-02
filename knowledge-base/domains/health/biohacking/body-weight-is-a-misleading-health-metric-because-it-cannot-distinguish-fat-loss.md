@@ -47,5 +47,12 @@ related:
   - INS-260330-31CC
   - INS-260330-0BC2
   - INS-260330-08E1
+evidence:
+  - id: INS-260330-0BC2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-08E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Scale weight conflates fat mass, muscle mass, water retention, and glycogen stores making it useless for tracking health progress; waist circumference, body composition scans, and how clothes fit are far more meaningful

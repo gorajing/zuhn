@@ -55,5 +55,21 @@ related:
   - INS-260330-BCD8
   - INS-260323-4AB5
   - INS-260330-4E68
+evidence:
+  - id: INS-260323-8AA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-94E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-8BD3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-BCD8
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-4AB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dalton and Michael redefine taste away from its artistic/aesthetic connotation. In the startup context, taste means: (1) The ability to honestly assess whether something is actually good — not self-deceiving, (2) High standards for what you release — you're proud of it and would stamp your name on it, (3) The user gets real value from the work — not just impressive demos. The irony: people who loudly insist they have great taste are 'definitionally' the ones who don't. Real taste is recognized by high standards and genuine care. The practical test: if you stand by your work but the user doesn't get value, that's art (fine, but not business). Value creation to the user is the non-negotiable baseline. They contrast this with the retention mindset: working on retention forces you to ask 'am I actually helping the user?' while working on topline growth lets you treat users as people to be extracted from.

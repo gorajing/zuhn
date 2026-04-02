@@ -62,6 +62,13 @@ related:
   - INS-260330-415C
   - INS-260330-7A69
   - INS-260330-2A6A
+evidence:
+  - id: INS-260330-2A6A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-6576
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Johnson argues that the public fixation on psychedelic 'hallucinations' (which technically are not true hallucinations — reality testing remains intact) obscures the actual mechanism of change. Visual effects are easy to describe, so they dominate lay understanding. But the therapeutic power comes from deeper effects on self-identification — how people define themselves and reality.
 

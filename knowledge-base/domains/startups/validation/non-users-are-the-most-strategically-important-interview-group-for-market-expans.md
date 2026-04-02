@@ -58,6 +58,10 @@ related:
   - INS-260330-F268
   - INS-260330-3745
   - INS-260330-EF64
+evidence:
+  - id: INS-260327-112B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Emmett Shear describes three groups Twitch interviewed: existing Justin TV broadcasters, competitor platform broadcasters, and non-broadcasters. The non-users surfaced entirely different blockers — computer performance, time constraints, strategic concerns about revealing practice sessions. These were the barriers preventing the market from growing.
 

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-A812
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-8CA9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Peterson draws a direct parallel between biological apoptosis (programmed cell death) and psychological growth. In biology, the failure to properly cull cells leads to cancerous outgrowths. Similarly, if you don't voluntarily let your stupid ideas and outdated identity constructs die, they accumulate until they destroy you entirely. He calls this 'the optimal bite of death' — the right amount of continuous self-correction.
 

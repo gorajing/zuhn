@@ -67,5 +67,8 @@ evidence:
   - id: INS-260327-1631
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-6576
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Johnson describes the neurological mechanism underlying psychedelic therapy: psilocybin temporarily suppresses the default mode network (DMN), the brain system responsible for self-referential thinking, rumination, and habitual thought patterns. When the DMN goes quiet, entrenched cognitive ruts — the narrowed repertoire that defines psychiatric illness — are temporarily disrupted. This creates a window of neuroplasticity where new patterns of thought and behavior can form. The key insight is that the therapeutic value may not come from the mystical or emotional content of the experience per se, but from the neural disruption itself. The subjective experience (ego dissolution, cosmic unity, emotional catharsis) may be a correlate of the mechanism rather than the mechanism itself. This has practical implications: it means the long-term benefits come from what you do with the window of flexibility, not from the trip narrative.

@@ -67,6 +67,13 @@ related:
   - PRI-260328-C581
   - INS-260325-95A6
   - INS-260330-C367
+evidence:
+  - id: INS-260325-95A6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C367
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Maggie created and ran OpenAI's pilot program, which became a critical competitive differentiator. When OpenAI built a dedicated pilot team that treated pilots as real customer engagements rather than 'flip the switch, good luck' free trials, deal sizes increased approximately 5x.
 

@@ -50,6 +50,10 @@ related:
 stance: >-
   Frame your content around a public if-then challenge ('If I get X followers,
   I'll do Y') to create narrative tension that keeps viewers coming back.
+evidence:
+  - id: INS-260327-112B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 James Hype describes a creator who posted daily reels starting with 'If I get 100K followers, my mom will let me drop out of college.' This if-then structure creates three powerful effects: curiosity (will they make it?), investment (viewers feel part of the outcome), and callback (they return to check progress).
 

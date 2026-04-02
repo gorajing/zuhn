@@ -60,6 +60,13 @@ related:
   - INS-260330-C095
   - INS-260330-EEA9
   - INS-260330-6611
+evidence:
+  - id: INS-260325-FDF5
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-EEBD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Levie initially feared enterprise sales as an 'intermediary' blocking the power of the internet, but learned the relationship is complementary. In a user-led enterprise model, individual users adopt the product bottom-up (like Box's freemium model attracting hundreds of thousands of signups monthly). But when an organization decides to standardize, they need help navigating security requirements, competitive alternatives, and deployment across thousands of employees.
 

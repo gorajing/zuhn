@@ -55,6 +55,22 @@ related:
   - INS-260327-CFD5
   - INS-260329-4DBC
   - INS-260330-2B42
+evidence:
+  - id: INS-260330-9A46
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-053D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-CFD5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4DBC
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2B42
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Nano Banana team was consistently surprised by how users creatively worked around model limitations to unlock use cases the team never imagined. One user created visual sketch notes of his chemist father's technical lectures, enabling father-son conversations about the work for the first time in decades, despite text rendering not being a model strength. Another unexpected use case: feeding Nano Banana outputs into video models to achieve cross-scene character consistency in filmmaking.
 

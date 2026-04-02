@@ -59,6 +59,10 @@ related:
   - PRI-260328-F6DE
   - PRI-260325-1C61
   - PRI-260328-E3A7
+evidence:
+  - id: INS-260323-8544
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The reference ranges on your blood test are constructed by cutting the low and high ends off a population bell curve. As the population becomes more overweight and metabolically impaired, these ranges silently expand. Three examples demonstrate the stakes: in 1997, diabetes diagnosis threshold dropped from 140 to 126 mg/dL (overnight creating 1.4 million new diabetics); in 2003, pre-diabetes threshold dropped from 110 to 100 (overnight creating 41 million pre-diabetics); cholesterol thresholds were similarly adjusted in the 80s.
 

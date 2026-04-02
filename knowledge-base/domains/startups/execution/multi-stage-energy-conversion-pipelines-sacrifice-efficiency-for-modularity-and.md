@@ -59,6 +59,16 @@ related:
   - INS-260330-545E
   - INS-260330-09F8
   - INS-260330-BC56
+evidence:
+  - id: INS-260330-BC56
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-1084
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-545E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Photosynthesis doesn't convert sunlight directly into glucose. Instead, it runs through a multi-stage pipeline: photons excite electrons in PSII, energy transfers through the cytochrome complex, re-energizes in PSI, produces intermediate energy carriers (ATP and NADPH), and only then feeds into the Calvin Cycle for carbon fixation. Each handoff loses energy, making the overall process notably inefficient.
 

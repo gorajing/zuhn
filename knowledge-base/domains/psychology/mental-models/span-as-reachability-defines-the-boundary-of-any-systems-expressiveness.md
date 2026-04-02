@@ -51,6 +51,6 @@ related:
   - INS-260325-2832
   - INS-260323-3F30
   - INS-260330-F183
-  - INS-260327-2C5F
+  - INS-260402-9676
 ---
 Span in linear algebra asks: given these vectors, what set of points can I reach through linear combinations? This question generalizes powerfully. For a startup's product, span asks: given our features, what use cases can customers reach? For a knowledge system, it asks: given these insights, what conclusions can be synthesized? For a programming language, what programs can be expressed? The video shows that two vectors might span a plane, a line, or just a point depending on their relationship. Similarly, adding a new capability to any system either expands the reachable space (like a linearly independent vector) or is redundant (linearly dependent). This reachability framing turns vague questions about 'completeness' into precise ones about span.

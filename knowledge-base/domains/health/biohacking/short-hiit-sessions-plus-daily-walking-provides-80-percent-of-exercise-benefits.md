@@ -49,5 +49,21 @@ related:
   - INS-260330-6C59
   - INS-260330-B173
   - INS-260330-60A5
+evidence:
+  - id: INS-260323-0982
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-4718
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-5833
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-3F64
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-AE33
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 For exercise-resistant people, two 15-minute HIIT sessions per week plus 30 minutes daily walking captures roughly 80% of exercise's health benefits including insulin sensitivity, cardiovascular fitness, and fat oxidation

@@ -54,6 +54,10 @@ related:
   - INS-260327-6A4B
   - INS-260323-E2DD
   - PRI-260328-AC85
+evidence:
+  - id: INS-260323-E2DD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Large companies deliberately decrease the standard deviation of design outcomes by separating design (product managers) from implementation (programmers). This protects them from disasters but also eliminates the possibility of breakthroughs. When you damp oscillations, you lose the highs along with the lows. Big companies don't win by making great products — they win by sucking less than other big companies.
 

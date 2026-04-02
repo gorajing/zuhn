@@ -55,5 +55,12 @@ related:
   - INS-260327-24D2
   - INS-260329-8DDF
   - INS-260330-4E68
+evidence:
+  - id: INS-260330-CAD2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-24D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course shows how private members are inaccessible even to derived classes, protected members are accessible to derived classes but not external code, and public members are accessible to everyone. This three-tier trust model appears everywhere in system design: internal implementation details (private), extension points for trusted integrators (protected), and the public API surface. Getting these boundaries wrong in C++ causes tight coupling and fragile inheritance hierarchies. Getting them wrong in API design causes breaking changes that cascade through ecosystems. Getting them wrong in organizational systems causes information leaks or bottlenecks. The course's concrete demonstrations — watching the compiler reject access violations — builds intuition for designing appropriate trust boundaries in any system, from microservice APIs to AI agent tool permissions.

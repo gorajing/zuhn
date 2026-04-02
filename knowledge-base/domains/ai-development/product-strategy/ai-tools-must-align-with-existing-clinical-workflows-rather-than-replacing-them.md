@@ -52,5 +52,15 @@ related:
   - INS-260329-2B52
   - INS-260330-C071
   - INS-260321-015B
+evidence:
+  - id: INS-260323-F15D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-0320
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-2B52
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The panel drew an analogy to wing foiling: when the wing, board, and foil are in alignment, you get lift and efficiency. Similarly, when an AI algorithm aligns with clinical workflows, the result is smooth adoption and efficiency gains. One concrete example: an AI-driven inventory management system reduced nursing staff travel to find devices by 50%, and the key was that it worked within existing processes rather than requiring new ones. Staff initially resisted the change but adapted quickly because the tool fit their existing mental model. This principle extends beyond healthcare — any AI product targeting complex institutional environments should optimize for workflow alignment over theoretical optimality.

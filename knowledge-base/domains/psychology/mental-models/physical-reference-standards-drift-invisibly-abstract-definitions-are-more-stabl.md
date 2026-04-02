@@ -59,6 +59,13 @@ related:
   - INS-260330-B869
   - INS-260329-CC79
   - INS-260330-4B30
+evidence:
+  - id: INS-260330-4B30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-F66E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The International Prototype Kilogram (Big K) and its 40 replicas were made of the same alloy and stored under virtually identical conditions, yet their masses diverged by up to 50 micrograms over decades — with no way to determine which one was 'right' since Big K was the definition by fiat. This is a universal pattern: any standard anchored to a physical thing inherits that thing's instability.
 

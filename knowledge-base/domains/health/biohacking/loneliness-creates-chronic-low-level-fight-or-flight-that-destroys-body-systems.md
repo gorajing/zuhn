@@ -57,6 +57,16 @@ related:
   - INS-260325-A66E
   - PRI-260328-97E0
   - INS-260330-09B5
+evidence:
+  - id: INS-260325-9F4C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-5F3C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-A66E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The mechanism linking relationships to health runs through stress biology. When stressful events occur, the body enters fight-or-flight mode — elevated heart rate, cortisol release, inflammation. Normally, sharing the stress with a trusted person literally calms the body back to equilibrium. MRI studies show that holding someone's hand during a stressful medical procedure keeps the body significantly closer to baseline.
 

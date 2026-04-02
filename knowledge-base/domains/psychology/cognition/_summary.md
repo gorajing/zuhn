@@ -1,11 +1,12 @@
 # Topic: cognition
 
-> 42 insights
+> 44 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
 - `INS-260330-8FF8` [high] The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
 - `INS-260330-D582` [high] Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
+- `INS-260402-9676` [high] Our programming languages limit what we can conceive as possible, making easier solutions feel surprising when discovered.
 - `INS-260330-EACA` [high] RuBisCo evolved when oxygen was rare; when plants produced oxygen, the enzyme started confusing O2 for CO2 half the time, creating toxic byproducts.
 - `INS-260330-F889` [high] Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
 - `INS-260330-4224` [high] Humans evolved uniquely white scleras not by accident but as a cooperation mechanism — making it easy for others to detect where we're looking, unlike predators who benefit from concealed gaze.
@@ -31,6 +32,7 @@
 - `INS-260330-8045` [high] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260330-7C58` [high] The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260402-3737` [high] Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
+- `INS-260402-3639` [high] Obscure writing about big ideas creates a self-reinforcing trap: it attracts ambitious novices, repels critical thinkers, and has a built-in defense because you can't prove text is meaningless.
 - `INS-260330-8134` [medium] After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
 - `INS-260330-0E86` [medium] Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-4F49` [medium] Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.

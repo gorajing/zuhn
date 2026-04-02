@@ -58,5 +58,9 @@ related:
   - INS-260326-24E6
   - INS-260325-2832
   - INS-260330-2EF0
+evidence:
+  - id: INS-260325-2832
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Greene distinguishes between real and false sublime experiences using a circle metaphor: every culture creates a circle of acceptable thoughts, experiences, and behaviors. The sublime lies just outside that circle — the word literally means 'on the threshold.' The real sublime is internally generated through deep engagement with one's purpose, creative work, or genuine transcendent experiences (near-death, deep love, childhood wonder). It transforms permanently — what Maslow called 'peak experiences.' The false sublime comes from external sources: drugs, alcohol, shopping, online rage, joining causes for aggression release. It mimics the feeling of transcendence but requires ever-increasing doses because it never satisfies the deep neurological wiring for genuine transcendent experience. This framework reframes addiction not as weakness but as misdirected sublime-seeking — the human brain is wired to need transcendence, and in a culture with few authentic avenues (religion historically filled this role), people grab for counterfeit versions.

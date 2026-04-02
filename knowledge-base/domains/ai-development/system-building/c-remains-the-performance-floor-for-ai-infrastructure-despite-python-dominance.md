@@ -57,6 +57,13 @@ related:
   - INS-260330-C2C4
   - INS-260330-AB62
   - INS-260330-EEBD
+evidence:
+  - id: INS-260327-2C5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C2C4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Despite Python's dominance as the AI developer interface, the actual computation happens in C++ (and increasingly CUDA C++). PyTorch, TensorFlow, ONNX Runtime, llama.cpp, vLLM's kernels — all have C++ at their core. This creates a persistent demand for C++ competency in AI infrastructure roles, even as most ML engineers never touch it directly.
 

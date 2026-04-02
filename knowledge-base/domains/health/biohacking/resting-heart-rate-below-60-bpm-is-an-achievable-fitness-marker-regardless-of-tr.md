@@ -64,6 +64,10 @@ related:
   - INS-260327-9693
   - INS-260330-6C6B
   - INS-260330-035C
+evidence:
+  - id: INS-260330-035C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Cardiac output (heart rate × stroke volume) stays constant at rest regardless of fitness level — what changes is the ratio. As endurance training strengthens the heart, stroke volume increases (more blood per pump), so the heart compensates by beating less frequently. Galpin considers anyone over 70 bpm at rest to be insufficiently physically fit, regardless of normative ranges that extend to 80+ bpm.
 

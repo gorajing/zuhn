@@ -58,6 +58,19 @@ related:
   - INS-260330-1953
   - INS-260330-6FDF
   - INS-260330-8BB4
+evidence:
+  - id: INS-260330-9BB5
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-966E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1953
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6FDF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Sonoluminescence occurs when a rapidly collapsing bubble compresses its interior gas so violently that temperatures exceed 10,000 Kelvin—hotter than the surface of the sun—producing a brief flash of light. This phenomenon, governed by the Rayleigh-Plesset equation for bubble dynamics, demonstrates that extreme energy concentration can emerge from ordinary fluid mechanics.
 

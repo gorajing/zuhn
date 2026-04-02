@@ -53,5 +53,9 @@ related:
   - INS-260330-CECB
   - INS-260330-27E8
   - INS-260323-78A5
+evidence:
+  - id: INS-260327-F95F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When Rocket Internet cloned Airbnb with $90M in funding and 400 employees (vs Airbnb's $7M and 40 people), the pragmatic move was acquisition — losing Europe would cripple a travel platform. Chesky refused because the clone's employees were mercenaries motivated by money, not missionaries motivated by the mission. He bet that missionaries would outlast mercenaries in a long war. Europe now generates over 50% of Airbnb's revenue. This framework — missionaries vs mercenaries — provides a clean decision heuristic for acquisition and hiring decisions: if integrating another team would dilute your cultural DNA, the short-term strategic gain is not worth the long-term cultural cost. The 'best revenge against a clone is making them run the company long-term' is a corollary — mercenaries don't have the stamina for sustained execution.

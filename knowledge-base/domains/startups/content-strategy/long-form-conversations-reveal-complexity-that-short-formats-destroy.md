@@ -53,5 +53,9 @@ related:
   - PRI-260321-5857
   - INS-260330-B360
   - INS-260330-87BD
+evidence:
+  - id: INS-260330-B360
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Lex reflects on why his podcast format works: 'I don't think it's just about needing the actual time of three hours to cover all the content. I think the longer form with a hypothetical skilled conversationalist relaxes things and allows people to go on tangents and to banter about the details because I think it's in the details that the beautiful complexity of the person is brought to light.' This is a mechanism claim about information density — duration isn't just more time for more topics, it fundamentally changes the quality of what's shared. Leaders who have been 'screwed over by clickbait gotcha journalism' are nervous in short formats and default to rehearsed talking points. Duration dissolves that defense. For content creators and founders doing customer/investor conversations, this suggests that scheduling longer sessions yields disproportionate insight gains, not merely proportional ones.

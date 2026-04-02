@@ -1,6 +1,7 @@
 # Tag: cognitive-biases
 
 - `INS-260330-CFEA` Before defending any position, write the four strongest opposing arguments and imagine a world where you're wrong — this creates the cognitive wiggle room for humility and empathy.
+- `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260330-F734` Even 4chan has a moderation policy — 'free speech absolutism' is an illusion because every platform necessarily makes curation decisions, and the real question is whether those decisions are responsible.

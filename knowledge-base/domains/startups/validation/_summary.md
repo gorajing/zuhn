@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 70 insights
+> 71 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -16,6 +16,7 @@
 - `INS-260329-34A9` [high] Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
 - `INS-260323-2726` [high] Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.
 - `INS-260330-5EA4` [high] If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
+- `INS-260402-E140` [high] Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.
 - `INS-260327-1E44` [high] Developers spend 60% of their time on non-coding activities — finding and automating those repetitive workflows is where AI startups should focus.
 - `INS-260330-48DE` [high] Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
 - `INS-260327-EC45` [high] Filter ideas through: (1) is the value to customers special, (2) can we build it, (3) is the market big enough, (4) how are we differentiated from 15 competitors?

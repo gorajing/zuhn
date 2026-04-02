@@ -43,6 +43,10 @@ resolutions:
 stance: >-
   Use consistent folder conventions: project/story/task/ with requirements.md,
   instructions.md, research.md, plan.md, code.md, review.md, findings.md.
+evidence:
+  - id: INS-260330-72C2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Standardize spec artifact locations using a hierarchical folder structure:

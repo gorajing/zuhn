@@ -59,6 +59,10 @@ related:
   - INS-260323-433B
   - INS-260329-8015
   - INS-260329-196E
+evidence:
+  - id: INS-260330-FF5B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The difference quotient — (f(x+h) - f(x))/h — computes average rate of change over an interval h. The derivative is what happens as h approaches zero: the average rate becomes the instantaneous rate. This conceptual move from discrete samples to continuous truth is the foundational idea of calculus, and it has deep epistemological implications.
 

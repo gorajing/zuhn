@@ -61,6 +61,10 @@ related:
   - INS-260327-5973
   - PRI-260328-BEDD
   - INS-260329-B2BE
+evidence:
+  - id: INS-260325-8A61
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Calculus 1 explicitly teaches marginal cost and marginal revenue as derivatives of total cost and total revenue functions. The profit-maximizing output is where marginal revenue equals marginal cost — the point where producing one more unit would cost more than it earns. This isn't abstract theory; it's the mathematical formalization of every scaling decision a founder makes.
 

@@ -58,5 +58,21 @@ related:
   - INS-260323-7B63
   - INS-260324-5C53
   - INS-260329-82B1
+evidence:
+  - id: INS-260330-6A47
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-DF50
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-7B63
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260324-5C53
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-82B1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Jaffer identifies a fundamental shift from SaaS: in traditional software, speed to market gave real edge because you could lock in customers before competitors arrived. In AI, anyone can copy your prompt template or wrap a model in a slick UI. Speed without defensibility just makes you the first target. The only 3 moats that matter: data flywheels (every interaction generates proprietary data), workflow integration (AI sits inside core workflows, not alongside them), and trust/governance (in regulated industries, never surprising regulators is itself a moat). The arena selection test requires high-frequency pain, data exhaust, and adjacency potential.

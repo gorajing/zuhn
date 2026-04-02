@@ -56,6 +56,13 @@ related:
   - INS-260329-25FC
   - INS-260329-04FA
   - INS-260329-CB03
+evidence:
+  - id: INS-260329-979B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-25FC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial introduces functions through a say_hi example where the function body is just one print statement — clearly not about code reuse since it's called only twice. The real lesson is that def say_hi(name) creates a named operation that can be reasoned about without reading its implementation. When you see say_hi('Mike'), you understand the program's intent without needing to trace through the print statement logic.
 

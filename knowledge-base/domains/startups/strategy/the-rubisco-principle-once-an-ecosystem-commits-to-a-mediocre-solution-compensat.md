@@ -52,7 +52,6 @@ stance: >-
   often outcompete those that wait for the optimal one, because the compensation
   strategies themselves become competitive advantages
 related:
-  - INS-260322-88C3
   - INS-260327-E4F1
   - INS-260328-3A00
   - INS-260330-A86C
@@ -62,6 +61,7 @@ related:
   - INS-260330-F9B4
   - INS-260330-EB48
   - INS-260330-47CF
+  - INS-260330-11EB
 ---
 The RuBisCo story from photosynthesis is a 450-million-year case study in strategic lock-in. Early organisms chose an enzyme that was merely better than nothing, then built the entire biosphere's carbon fixation around it. When oxygen levels rose and RuBisCo began failing 50% of the time, replacement was impossible — too many dependent systems. Instead, plants evolved compensatory mechanisms (photorespiration pathways, massive overproduction).
 
