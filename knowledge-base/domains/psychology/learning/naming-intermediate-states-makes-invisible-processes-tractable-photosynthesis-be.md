@@ -58,8 +58,8 @@ related:
   - INS-260330-EB48
   - INS-260330-30FB
   - INS-260329-E402
+  - INS-260402-4BC7
   - INS-260330-43CA
-  - INS-260329-9A58
 evidence:
   - id: INS-260330-30FB
     type: EXTENDS

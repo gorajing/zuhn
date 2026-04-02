@@ -8,8 +8,8 @@
 - `INS-260327-B387` Serve your core fans like a band plays its hits—sideline critics will never become users no matter what you change.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260327-DB8F` PMF is not strategy—it's the volume of genuine user conversations you have.
+- `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
 - `INS-260323-4A3D` In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
 - `INS-260328-982A` Zuckerberg chose founders (Doordash's Tony, Airbnb's Brian, Dropbox's Drew) for Meta's board over any investor — because operators in the trenches give better advice.
-- `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.
 - `INS-260323-D783` Cooking for others and sharing meals creates a uniquely powerful social bond — people become fundamentally different when sitting down together versus standing, drinking, or interacting online.
 - `INS-260330-B390` YC's batch model accidentally created a self-reinforcing ecosystem where startups became each other's customers, advisors, and support network.

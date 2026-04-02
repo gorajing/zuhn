@@ -1,8 +1,9 @@
 # Topic: business-models
 
-> 117 insights
+> 119 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
+- `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260322-FCFC` [high] Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
 - `INS-260327-07FC` [high] Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
 - `INS-260327-CCAE` [high] Esports drew audiences rivaling traditional sports and attracted Fortune 500 sponsors, but broadcast deals never materialized at meaningful scale -- no team or league has ever turned a profit, and the entire industry collapsed when the expected broadcast payday never arrived.
@@ -30,6 +31,7 @@
 - `INS-260323-5106` [high] Casper, built to disrupt retail mattress stores, found that retail sales grew 74% year-over-year with 15% higher average orders — the thing they disrupted became their only hope.
 - `INS-260324-D90C` [high] Casper, Warby Parker, and Dollar Shave Club promised that cutting out retailers would lower costs — but they replaced wholesale margins with massive advertising budgets and ended up spending more on customer acquisition than retailers spent on shelf space.
 - `INS-260327-130C` [high] In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end
+- `INS-260402-8170` [high] Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260329-2D77` [high] Spending $9M to acquire 10,000 permanent customers generating $12M ARR creates $120M in enterprise value — tax-free until exit.
 - `INS-260329-5514` [high] Revenue and profit grow enterprise value by a multiple (3-20x), making equity appreciation the dominant wealth creation lever over personal income.
 - `INS-260327-795D` [high] Modern arcades survive by stacking revenue streams: games, food, drinks, prizes, party bookings, creating per-visit reve

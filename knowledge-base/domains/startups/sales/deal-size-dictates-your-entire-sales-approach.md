@@ -47,5 +47,6 @@ related:
   - INS-260330-C5FD
   - INS-260329-C36D
   - INS-260329-67D1
+  - INS-260402-1436
 ---
 Xiaoyin learned through painful trial that her virtual events platform needed a fundamentally different sales approach than she initially planned. With deals ranging $5K-$30K, customers refused to just pay by credit card — they needed at least one call. She initially tried product-led growth but discovered enterprise conference organizers needed trust-building conversations. The key insight: match your sales motion to your deal size. High-volume mid-market ($5K-$30K) needs inbound SDRs who can close in 3 calls, not enterprise AEs who cultivate Fortune 500 relationships over golf games.

@@ -196,9 +196,9 @@ Generated on 2026-04-02 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -246,17 +246,22 @@ Generated on 2026-04-02 | 2421 sources
 | A playbook for fundraising | blog | 5 | 2026-03-31 |
 | A product manager’s guide to web3 | blog | 5 | 2026-03-31 |
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
+| A Version 1.0 | blog | 5 | 2026-03-31 |
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
 | Beating the Averages | blog | 5 | 2026-03-31 |
 | Before the Startup | blog | 5 | 2026-03-31 |
 | Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
+| Better Bayesian Filtering | blog | 5 | 2026-03-31 |
+| Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
+| Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
+| How Elad Gil Built a One-Person Multi-Billion Venture Machine | blog | 5 | 2026-03-30 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
 | How to Do Great Work | blog | 5 | 2026-03-31 |
 | How to Do Philosophy | blog | 5 | 2026-03-31 |
@@ -274,6 +279,8 @@ Generated on 2026-04-02 | 2421 sources
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
+| Superlinear Returns | blog | 5 | 2026-03-31 |
+| Taste for Makers | blog | 5 | 2026-03-31 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
 | The Age of the Essay | blog | 5 | 2026-03-31 |
 | The Best Essay | blog | 5 | 2026-03-31 |
@@ -1524,7 +1531,6 @@ Generated on 2026-04-02 | 2421 sources
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
 | A Three-Step Framework For Solving Problems 👌 | blog | 0 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 0 | 2026-03-31 |
-| A Version 1.0 | blog | 0 | 2026-03-31 |
 | A Way to Detect Bias | blog | 0 | 2026-03-31 |
 | A Word to the Resourceful | blog | 0 | 2026-03-31 |
 | A year free of PostHog ($16,500 value): The all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, LLM analytics platform | blog | 0 | 2026-03-31 |
@@ -1641,7 +1647,6 @@ Generated on 2026-04-02 | 2421 sources
 | Best innovation management software for your business | blog | 0 | 2026-03-31 |
 | Best Of Moltbook | blog | 0 | 2026-03-30 |
 | Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
-| Better Bayesian Filtering | blog | 0 | 2026-03-31 |
 | Beyond Smart | blog | 0 | 2026-03-31 |
 | Bill Gates's €1bn Climate fund🔋, Paths to Product-Market Fit🎯, State of AI investing📊 | blog | 0 | 2026-03-30 |
 | Billionaires Build | blog | 0 | 2026-03-31 |
@@ -1663,7 +1668,6 @@ Generated on 2026-04-02 | 2421 sources
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Building Confidence Networks In Latin America | blog | 0 | 2026-03-31 |
 | Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 0 | 2026-03-31 |
-| Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Evolution Using the Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Generation Book Summary | Strategyzer | blog | 0 | 2026-03-31 |
@@ -1811,7 +1815,6 @@ Generated on 2026-04-02 | 2421 sources
 | Free AI Hiring Kit for Startup Founders | blog | 0 | 2026-03-30 |
 | Free M&A Accretion Dilution Model 2026: Excel Template for EPS Analysis | blog | 0 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 0 | 2026-03-30 |
-| Friends & Family Funding: The Startup Founder’s Guide | blog | 0 | 2026-03-30 |
 | Frighteningly Ambitious Startup Ideas | blog | 0 | 2026-03-31 |
 | From 0 to 56,500: Celebrating One Year of The VC Corner 🚀🎉 | blog | 0 | 2026-03-30 |
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
@@ -1857,7 +1860,6 @@ Generated on 2026-04-02 | 2421 sources
 | How ChatGPT Prompts Are Becoming Startups: From Idea to MVP | blog | 0 | 2026-03-30 |
 | How Creandum Built a $2B VC Fund Backing Spotify and Lovable | blog | 0 | 2026-03-30 |
 |  How Do VCs Really Make Decisions?💡 | blog | 0 | 2026-03-30 |
-| How Elad Gil Built a One-Person Multi-Billion Venture Machine | blog | 0 | 2026-03-30 |
 | How Harry Stebbings Turned a Podcast Into a $400M Venture Fund | blog | 0 | 2026-03-30 |
 | How machines are becoming better investors than humans | blog | 0 | 2026-03-30 |
 | How Money Flows 🌊, Chamath’s $380M Loss🤯, VCs Eating PE with AI🔀 | blog | 0 | 2026-03-30 |
@@ -2097,13 +2099,11 @@ Generated on 2026-04-02 | 2421 sources
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
 | Succinctness is Power | blog | 0 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 0 | 2026-03-30 |
-| Superlinear Returns | blog | 0 | 2026-03-31 |
 | Support Your Local Collaborator | blog | 0 | 2026-03-30 |
 | Survivorship Bias Is Killing Founders' Judgment—Here’s the Fix | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 0 | 2026-03-30 |
 | Tariffs Are Reshaping Global Tech Startups | blog | 0 | 2026-03-30 |
-| Taste for Makers | blog | 0 | 2026-03-31 |
 | Term Sheets Demystified 📄🤝 | blog | 0 | 2026-03-30 |
 | Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 0 | 2026-03-30 |
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |

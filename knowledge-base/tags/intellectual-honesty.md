@@ -7,6 +7,6 @@
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260330-1118` Steel-manning works as an intellectual upgrade only when the person doing it genuinely risks being persuaded, not as performative fairness.
 - `INS-260327-48A5` Before arguing against any position, construct the strongest possible version of that position - this single practice does more for thinking quality than any other technique.
-- `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
 - `INS-260330-8E8A` New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
+- `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
 - `INS-260330-CDE1` Shapiro's practice of maintaining a public list of his own bad takes, combined with deliberately holding positions his audience dislikes, creates a structural defense against the audience capture that degrades most media platforms.

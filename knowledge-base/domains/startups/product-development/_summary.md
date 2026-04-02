@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 121 insights
+> 125 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -36,10 +36,13 @@
 - `INS-260402-7B69` [high] In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
 - `INS-260330-1282` [high] Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
 - `INS-260327-C569` [high] Enterprises are on the hook for outcomes — AI will evolve as composite systems with checks and balances, not the AGI monolith that media hypes.
+- `INS-260402-A94F` [high] Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260329-693E` [high] Use Expo for iOS development — it handles App Store Connect, bundle IDs, builds, and TestFlight submission with two commands.
 - `INS-260323-8AA1` [high] Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.
 - `INS-260330-C391` [high] YC finds that founders who hook PagerDuty to customer support tickets and respond within an hour at 3am correlate with startup success more than almost any other behavior.
 - `INS-260327-4754` [high] Arora warns that cybersecurity founders who form customer advisory councils too early get steered toward speeds-and-feeds features instead of building complete products.
+- `INS-260402-E36A` [high] Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
+- `INS-260402-4AB4` [high] Reframing the problem is often more valuable than optimizing the solution.
 - `INS-260327-12BE` [high] The largest Oracle cluster in a company grinding on queries ran 1000x faster on one-tenth the hardware when modeled as a graph in Neo4j.
 - `INS-260327-73BE` [high] Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.
 - `INS-260330-84F4` [high] Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
@@ -118,6 +121,7 @@
 - `INS-260323-4AB5` [medium] Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.
 - `INS-260329-1E81` [medium] CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260330-E5BE` [medium] Scroll-driven 3D camera movement transforms passive page consumption into active spatial navigation.
+- `INS-260402-C883` [medium] Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 - `INS-260327-C9BA` [medium] Apple never A/B tested the add-to-cart button color — a taste-based judgment call from one executive settled it.
 - `INS-260327-77E5` [medium] AI for science progresses through three levels: co-pilot assistance, autonomous AI scientists, and virtual research environments that make biology as fast as computer science.
 - `INS-260322-8D47` [medium] When customers become partners invested in your success as much as you are in theirs, they introduce you to VCs, build on your platform, and actively help your company grow.

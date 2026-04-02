@@ -1,6 +1,5 @@
 # Tag: ideation
 
-- `INS-260321-1A84` People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260402-EE6E` The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
 - `INS-260330-6C68` Deliberately brainstorming startup ideas produces plausible-sounding but fundamentally flawed ideas that no one urgently needs.
 - `INS-260328-A9D2` Dalton's core advice framework for pivots: every person has one perfect startup idea — the one where they have the most unfair advantages, best network, and deepest expertise.
@@ -12,4 +11,5 @@
 - `INS-260330-8AC8` Yahoo, Google, Facebook, and Apple all started as side projects — the best ideas are such outliers that your conscious mind rejects them as company ideas.
 - `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
 - `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
+- `INS-260321-1A84` People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.

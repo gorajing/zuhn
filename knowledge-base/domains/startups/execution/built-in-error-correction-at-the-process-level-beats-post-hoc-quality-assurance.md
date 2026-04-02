@@ -58,6 +58,7 @@ related:
   - PRI-260321-14D8
   - INS-260330-B7B1
   - INS-260330-FB5A
+  - INS-260402-BF2E
 ---
 DNA replication achieves an error rate of roughly 1 in 10 billion nucleotides. This isn't accomplished through a separate 'QA department' — DNA polymerase itself detects and removes mismatched bases during synthesis. The proofreading is embedded in the same enzyme doing the building. At the scale of 6 billion base pairs per cell across trillions of cells, no post-hoc review process could achieve this fidelity.
 

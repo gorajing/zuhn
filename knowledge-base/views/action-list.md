@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-02 | 2955 actionable insights
+Generated on 2026-04-02 | 2972 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -120,6 +120,7 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260330-30FB] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
 - [INS-260402-2879] Define program meaning independently of implementation, then layer optimization advice on top.
+- [INS-260402-0E46] Encoding domain structure into features (e.g., marking where tokens appear in email) can improve classification from 92% to 99.5%.
 
 ## ai-development/automation
 - [INS-260329-9EE4] Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
@@ -246,6 +247,7 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260329-3D3E] On imbalanced datasets, accuracy masks total failure on the minority class - precision and recall reveal whether the model actually learned the pattern you care about.
 - [INS-260329-7F02] On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
 - [INS-260329-5F96] Three-way data splitting (train/validate/test) prevents the subtle overfitting that occurs when you repeatedly evaluate and tune against the same held-out data.
+- [INS-260402-5034] Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.
 
 ## ai-development/mental-models
 - [INS-260330-2EC0] On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
@@ -384,6 +386,7 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260330-4E68] Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.
 - [INS-260330-EC22] Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
 - [INS-260330-CA97] RuBisCo was designed for a low-oxygen atmosphere and breaks in today's high-oxygen world — a direct analogy for software systems whose hidden environmental assumptions become bugs when conditions shift.
+- [INS-260402-8A7A] Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
 
 ## automation/content-creation
 - [INS-260320-D58E] An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
@@ -909,6 +912,7 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260402-89DE] Writing works as a discovery mechanism because committing to specific words forces vague ideas into falsifiable form, enabling iterative refinement.
 - [INS-260402-F853] Writing forces idea formation that pure thinking cannot achieve alone.
 - [INS-260402-A693] Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
+- [INS-260402-12D0] Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1330,6 +1334,8 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260330-0930] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - [INS-260402-D9D0] Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
 - [INS-260402-4451] You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
+- [INS-260402-4BC7] Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
+- [INS-260402-F772] Surprises aren't just new information — they're corrections to existing wrong beliefs, making them the highest-value knowledge unit.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1675,6 +1681,7 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260330-D556] When unit sales plateau, shift monetization from selling new devices to extracting recurring revenue from every device already in users' hands.
 - [INS-260330-8639] A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
 - [INS-260330-C7C2] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
+- [INS-260402-8170] Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -1879,6 +1886,7 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260402-FFB2] Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.
 - [INS-260402-F4E5] Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - [INS-260402-45FA] Choosing unfamiliar but powerful technology creates advantages competitors can't even diagnose, let alone copy.
+- [INS-260402-7E2A] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2344,6 +2352,7 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260402-2632] Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - [INS-260402-910C] Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
 - [INS-260402-D9AC] Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
+- [INS-260402-1436] Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -2658,6 +2667,7 @@ Generated on 2026-04-02 | 2955 actionable insights
 ## startups/problem-solving
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
 - [INS-260330-8D7C] LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
+- [INS-260402-3C79] Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
@@ -2748,6 +2758,10 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260402-0F36] The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
 - [INS-260402-7B69] In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
 - [INS-260402-4633] The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
+- [INS-260402-A94F] Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
+- [INS-260402-E36A] Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
+- [INS-260402-4AB4] Reframing the problem is often more valuable than optimizing the solution.
+- [INS-260402-C883] Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -2767,6 +2781,9 @@ Generated on 2026-04-02 | 2955 actionable insights
 - [INS-260330-DBE6] The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - [INS-260402-2FDF] Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
 - [INS-260402-F479] Gall's Law states that all complex working systems evolved from simple working systems — designing complexity from scratch always fails.
+- [INS-260402-EF63] Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
+- [INS-260402-3A0D] Simplicity forces you to face the real problem because you can't hide behind ornament.
+- [INS-260402-2074] Expect to discard 70-75% of initial output as the normal cost of producing quality work.
 
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'

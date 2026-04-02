@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 205 insights
+> 207 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -18,6 +18,7 @@
 - `INS-260329-425B` [high] Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
 - `INS-260329-8F98` [high] Always version APIs explicitly (e.g., /v1/products, /v2/products) rather than modifying existing endpoints, so old clients continue working while new clients get new features.
 - `INS-260330-E059` [high] 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
+- `INS-260402-8A7A` [high] Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
 - `INS-260323-6761` [high] Instead of humans manually finding cache sizes, tile dimensions, and vector widths, the compiler runs your code on the target hardware and caches the empirically fastest configuration.
 - `INS-260320-10CC` [high] 91 unit tests all passed, but an automated spec audit found 12 issues — unit tests verify code works, spec audits verify code matches intent.
 - `INS-260325-21D1` [high] Babbage built his computing machines like railroad engines — massive brass gears requiring cutting-edge machining — when the successful approach used clock technology with smaller, standardized parts.
@@ -93,6 +94,7 @@
 - `INS-260329-ACEB` [high] Using tuples for coordinates signals 'this data is fixed' at the type level, making the constraint impossible to violate rather than merely documented.
 - `INS-260329-85E9` [high] HFT order books are maintained entirely in-memory with replicated copies for fault tolerance, avoiding all disk I/O.
 - `INS-260330-D483` [high] Fixed latency is predictable and compensable; jitter (variable latency) is random and destroys control quality.
+- `INS-260402-BF2E` [high] When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
 - `INS-260323-36A8` [high] The Feynman infinite-slit argument shows that if you accept the double-slit experiment, you must logically accept that particles explore all possible paths — infinite screens with infinite slits is just empty space.
 - `INS-260329-BA12` [high] Inheritance (Chef is-a subclass of Person) seems elegant but creates rigid hierarchies — in practice, composition ('has-a') produces more flexible systems.
 - `INS-260329-6A26` [high] Inheritance should model genuine is-a relationships; using it purely for code reuse creates brittle hierarchies.

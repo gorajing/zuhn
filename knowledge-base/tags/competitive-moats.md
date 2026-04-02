@@ -1,5 +1,6 @@
 # Tag: competitive-moats
 
+- `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260330-F534` New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
 - `INS-260330-57BB` Son's strategy of offering 5x what companies asked for pressured them into unsustainable growth-at-all-costs playbooks while scaring away competitors.
 - `INS-260330-95F3` Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.

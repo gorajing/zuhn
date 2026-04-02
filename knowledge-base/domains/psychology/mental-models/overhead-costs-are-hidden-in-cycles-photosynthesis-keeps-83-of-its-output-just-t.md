@@ -49,12 +49,12 @@ stance: >-
   Cyclical processes conceal their true overhead because the cost of
   regeneration is invisible to observers who only see net output
 related:
-  - INS-260327-0D3C
   - INS-260330-EBFD
   - INS-260330-8E45
   - INS-260330-8C52
   - INS-260330-6AB7
   - INS-260330-CEAE
+  - INS-260402-2074
 ---
 In the Calvin Cycle, 3 molecules of RuBP are processed through carbon fixation and reduction to yield 6 molecules of G3P. But 5 of those 6 G3P molecules must be recycled to regenerate the starting RuBP. The net yield is just 1 G3P per full cycle turn — an 83% reinvestment rate that's invisible if you only look at gross production.
 

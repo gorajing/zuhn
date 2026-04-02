@@ -50,10 +50,11 @@ stance: >-
   impossible to displace even when objectively inferior, because the cost of
   switching exceeds the cost of compensating for flaws
 related:
-  - INS-260323-3ADC
   - INS-260327-7B05
+  - INS-260402-8170
   - INS-260330-3FCF
   - INS-260321-1A0B
+  - INS-260323-3ADC
   - INS-260326-AB92
 evidence:
   - id: INS-260323-3ADC

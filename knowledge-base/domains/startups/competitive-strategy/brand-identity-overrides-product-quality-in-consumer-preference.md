@@ -54,8 +54,8 @@ related:
   - INS-260327-2A59
   - INS-260329-2EB1
   - PRI-260328-AC85
+  - INS-260402-E11A
   - PRI-260328-BF1E
-  - PRI-260328-0BE1
 ---
 Coca-Cola's New Coke disaster is one of the clearest demonstrations that brand equity operates on emotional and identity layers independent of product quality. In blind taste tests, New Coke consistently beat both original Coke and Pepsi. Yet when launched, it triggered massive public outrage — thousands of angry calls daily, protests at stadiums, and letters comparing the change to 'making grass purple.'
 

@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260402-3639
   - INS-260322-5B1B
+  - INS-260402-12D0
   - INS-260402-0D16
   - INS-260329-A862
-  - INS-260330-748E
 ---
 Graham identifies a strange inversion: Darwin's essay on natural selection was arguably the best essay of 1844, but it would be unimpressive today precisely because it succeeded — everyone already knows about natural selection. The most impactful ideas destroy their own novelty through cultural assimilation. Bertrand Russell's 'trial marriage' proposals were revolutionary but now read as boring because they won; trial marriage became 'dating.'
 

@@ -51,8 +51,8 @@ related:
   - INS-260322-AD9B
   - INS-260325-05FC
   - INS-260326-E0E1
-  - INS-260326-2259
   - INS-260327-0E57
   - INS-260327-BF43
+  - INS-260330-579B
 ---
 Ram received two pieces of career advice that shaped everything: First, work on problems where the effort-to-reward ratio is disproportionate. This means finding areas where focused work produces outsized impact rather than grinding on incrementally improving well-explored domains. Second, look at traditional industries where standards are not yet set — things are starting out and the opportunity to define the playing field exists. These two filters together point founders toward emerging intersections of technology and legacy industries, where established players are slow and new entrants can define the rules. The AI infrastructure crisis (century-old grid meeting exponential compute demand) is exactly this kind of disproportionate opportunity.

@@ -60,9 +60,9 @@ related:
   - PRI-260328-59DC
   - INS-260330-8AC8
   - INS-260327-7F11
-  - INS-260327-23F8
   - INS-260327-6F11
   - INS-260327-6F12
+  - INS-260402-9D7B
 ---
 Analysis of YC's top 100 companies by valuation shows that at least 70% got their startup ideas organically — through work experience, personal frustration, or domain expertise — rather than by sitting down to deliberately brainstorm. The reason is structural: when people try to think of startup ideas from scratch, they tend to converge on the same superficially plausible tar pit ideas that thousands of others also generate.
 

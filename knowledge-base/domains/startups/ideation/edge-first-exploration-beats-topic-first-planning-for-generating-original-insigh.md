@@ -55,8 +55,9 @@ related:
   - INS-260402-8223
   - INS-260402-4451
   - INS-260402-D0F3
+  - INS-260402-F3D7
   - INS-260322-F65F
-  - INS-260330-DB4B
+  - INS-260402-A94F
 ---
 Graham draws a direct analogy to trading: professional traders won't enter a position without an edge — a convincing reason they'll win more than they lose. Similarly, attacking an important topic without a way in produces generic output. The edge can be surprisingly small: merely having questions about something other people take for granted can be enough.
 

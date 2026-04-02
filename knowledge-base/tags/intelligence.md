@@ -2,8 +2,6 @@
 
 - `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
 - `INS-260330-4634` Dinosaurs dominated for 300 million years without developing intelligence, and without their extinction asteroid, mammals would still be rodents — proving intelligence is not evolution's inevitable destination.
-- `INS-260327-97AD` Themistocles sent a false message to Xerxes saying the Greeks were about to flee, which Xerxes believed because it confirmed what he wanted to hear.
-- `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
 - `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
 - `INS-260329-FCD3` What appears as computer intelligence is actually extreme speed compensating for complete lack of understanding — the CPU asks 'what next' three billion times per second without comprehending any of it.
 - `INS-260330-A516` Tyson argues that the tiny DNA gap between chimps and humans suggests even a slightly more advanced alien would find our greatest intellects as unimpressive as we find chimps stacking boxes.
@@ -11,3 +9,5 @@
 - `INS-260328-68BA` The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-CF93` Intelligence is multi-dimensional — Bezos left theoretical physics when he saw people who could effortlessly do what was hard for him, then discovered his genius was lateral-thinking invention.
 - `INS-260330-04C0` Never attribute to conspiracy what can be explained by incompetence—executing complex lies exceeds most organizations' actual competency.
+- `INS-260327-97AD` Themistocles sent a false message to Xerxes saying the Greeks were about to flee, which Xerxes believed because it confirmed what he wanted to hear.
+- `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.

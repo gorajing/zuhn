@@ -47,10 +47,10 @@ stance: >-
   shrinking.
 related:
   - PRI-260328-5CDE
+  - INS-260402-70FD
   - INS-260330-B28C
   - PRI-260328-8317
   - INS-260330-217C
-  - INS-260402-5242
 evidence:
   - id: INS-260330-B28C
     type: SUPPORTS

@@ -7,7 +7,9 @@
 - `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260330-0BCC` DNA polymerase proofreads as it copies, catching errors in real-time rather than after the fact — a model for building quality into process rather than inspecting for it later.
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
+- `INS-260402-EF63` Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
 - `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - `INS-260402-E994` Unseen details accumulate into visible quality — great software, like great painting, requires fanatical devotion to parts no one is supposed to see.
+- `INS-260402-2074` Expect to discard 70-75% of initial output as the normal cost of producing quality work.
 - `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.

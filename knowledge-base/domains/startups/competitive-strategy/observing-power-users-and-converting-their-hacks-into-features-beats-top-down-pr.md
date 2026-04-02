@@ -57,6 +57,7 @@ related:
   - INS-260402-71A7
   - INS-260330-C24F
   - INS-260325-175B
+  - INS-260402-0E46
 ---
 Twitter's most enduring features were not designed in boardrooms. Hashtags were invented by users who organically started tagging tweets to organize conversations -- Jack Dorsey actually opposed them as 'too complicated for the average person.' Retweets formalized the copy-paste behavior users were already doing. @mentions codified how users were referencing each other. Lists emerged from users' need to organize who they followed.
 

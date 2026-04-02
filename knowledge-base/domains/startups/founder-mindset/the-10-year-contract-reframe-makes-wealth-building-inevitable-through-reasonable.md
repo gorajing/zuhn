@@ -49,13 +49,12 @@ stance: >-
   Committing to a 10-year wealth horizon transforms speculative gambling into
   inevitable compounding by enabling consistently reasonable bets.
 related:
-  - INS-260322-8F80
   - INS-260327-0833
-  - INS-260329-6514
   - INS-260329-8542
   - INS-260329-4488
   - INS-260330-AD13
   - INS-260329-CC75
+  - INS-260322-8F80
   - INS-260330-F909
 evidence:
   - id: INS-260330-AD13

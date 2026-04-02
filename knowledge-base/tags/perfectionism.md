@@ -6,4 +6,5 @@
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
 - `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
 - `INS-260323-543C` The breakthrough moment where all fears dissolve and clarity arrives will never come — if you don't choose to change, life will eventually force change when staying comfortable becomes unbearable.
+- `INS-260402-E36A` Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - `INS-260402-E85D` The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously.

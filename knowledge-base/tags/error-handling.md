@@ -4,6 +4,7 @@
 - `INS-260320-4ED6` The full hook pipeline runs in sequence: Claude responds, Prettier formats code, build checker catches errors, error reminder does a self-check — zero errors left behind.
 - `INS-260320-69CD` A Stop event hook analyzes edited files after Claude responds and shows gentle self-check reminders for error handling.
 - `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
+- `INS-260402-8A7A` Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
 - `INS-260329-3FC9` Try-except forces you to explicitly enumerate what can go wrong, transforming crashes into controlled responses — the foundation of production-grade software.
 - `INS-260329-35F2` Demonstrating program crashes from bad input before introducing try-catch makes error handling feel necessary rather than ceremonial.
 - `INS-260329-72E0` Specific exception catches force explicit failure mode enumeration, producing more robust error handling than generic catch-alls.

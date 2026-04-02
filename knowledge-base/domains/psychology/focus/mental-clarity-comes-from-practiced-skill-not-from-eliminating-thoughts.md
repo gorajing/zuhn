@@ -50,7 +50,6 @@ related:
   - INS-260330-6D5C
   - INS-260330-363D
   - INS-260330-E107
-  - INS-260330-DE69
 ---
 The popular interpretation of 'empty mind' as thought suppression is wrong. Musashi's mushin (no-mind) is achieved through such extensive practice that correct responses emerge automatically. The swordsman doesn't think about technique - technique flows from deeply ingrained patterns.
 

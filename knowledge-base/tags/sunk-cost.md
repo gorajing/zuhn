@@ -4,8 +4,6 @@
 - `INS-260402-9D7B` The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 - `INS-260330-A15F` Bad decisions trigger escalating rationalization rather than course-correction, especially when peer groups reward continued commitment.
 - `INS-260330-CECB` SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.
-- `INS-260327-B038` Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
-- `INS-260327-A4BB` The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.
 - `INS-260329-1B2A` Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
 - `INS-260325-636B` The Sequel Script makes people choose careers matching their degree and partners matching their ex — privileging narrative continuity over genuine fit.
@@ -15,3 +13,5 @@
 - `INS-260330-53A9` RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
 - `INS-260330-54ED` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
 - `INS-260323-F9E5` The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
+- `INS-260327-B038` Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
+- `INS-260327-A4BB` The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.

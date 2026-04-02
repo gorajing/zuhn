@@ -46,9 +46,9 @@ stance: >-
   outcomes than those who model how every employee will interpret the decision
 related:
   - INS-260323-6BF4
-  - INS-260329-87C2
+  - INS-260402-F3D7
   - INS-260330-725C
+  - INS-260329-87C2
   - INS-260325-803C
-  - INS-260330-47FB
 ---
 Ben Horowitz argues that the single most common CEO failure is making decisions optimized for the person in the room while ignoring how everyone else will interpret them. A demotion that seems compassionate to the executive signals to engineers that effort matters more than results — especially when the demoted person retains disproportionate equity compensation. A raise given to someone who asks teaches every other employee they have a fiduciary duty to their family to constantly lobby for raises. The discipline required is to pause before any consequential people decision and mentally model the interpretation from every constituency: the direct report, their peers, the high performers who stay quiet, and the company culture as a whole. This is emotionally difficult because the pressure to resolve the immediate situation is intense, but the second-order cultural effects of poorly considered decisions compound over months and years.

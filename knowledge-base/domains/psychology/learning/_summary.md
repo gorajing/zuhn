@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 204 insights
+> 206 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -77,6 +77,7 @@
 - `INS-260330-3B73` [high] Knowing how a bicycle's reversed steering works doesn't help you ride it — procedural competence requires separate neural pathways from declarative knowledge.
 - `INS-260330-7DE0` [high] Intellectual knowledge of a system's mechanics provides zero ability to execute the corresponding motor skill.
 - `INS-260330-B57C` [high] Knowing how a bike works doesn't help you ride one with reversed steering — knowledge and understanding are fundamentally different.
+- `INS-260402-4BC7` [high] Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260330-BEDC` [high] The Basel proof doubles circles repeatedly while preserving brightness, and the infinite limit of evenly-spaced lighthouses on a line yields the series sum.
 - `INS-260330-2EC4` [high] Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-70A8` [high] David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
@@ -129,6 +130,7 @@
 - `INS-260330-9484` [high] Byron Ferguson spine-tests every arrow to ensure consistent flex behavior before shooting, separating equipment variance from skill variance.
 - `INS-260329-65CD` [high] Use the simplest tool available when learning something new — complexity in the environment competes with complexity in the subject.
 - `INS-260329-294C` [high] Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
+- `INS-260402-F772` [high] Surprises aren't just new information — they're corrections to existing wrong beliefs, making them the highest-value knowledge unit.
 - `INS-260330-3170` [high] Synchronization in coupled oscillators occurs as a sudden phase transition at a critical coupling strength, not as a gradual convergence.
 - `INS-260329-DAD1` [high] Programming's instant syntax error feedback creates tighter learning loops than most disciplines where mistakes go undetected for weeks.
 - `INS-260329-6004` [high] Confronting misconceptions through cognitive dissonance teaches more effectively than stating correct answers directly

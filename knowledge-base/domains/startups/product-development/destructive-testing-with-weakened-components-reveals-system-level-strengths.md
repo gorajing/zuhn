@@ -51,10 +51,10 @@ stance: >-
   fully-assembled production version.
 related:
   - INS-260329-DFDB
+  - INS-260402-3C79
   - INS-260330-A9F8
   - PRI-260325-F9E1
   - INS-260330-CA62
-  - INS-260402-AC3D
 ---
 Steve the suppressor designer deliberately used acrylic casings instead of metal — not just for visibility, but as a diagnostic tool. When the acrylic shattered, it revealed exactly where stress concentrated: thread joints, flex points on monocore baffles, and axial stress from pressurization. With a full metal design, you'd never see these failure modes until catastrophic failure in the field.
 

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 378 insights
+> 380 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -352,10 +352,12 @@
 - `INS-260327-3DE7` [medium] AI will make it trivial to port data and clone product experiences, eroding brand as a meaningful B2B moat.
 - `INS-260327-D285` [medium] Don't just build a better product—build a business model that makes incumbents look exploitative.
 - `INS-260327-D570` [medium] The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
+- `INS-260402-D534` [medium] Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260330-BC21` [medium] Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
 - `INS-260330-8D0C` [medium] The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.
 - `INS-260329-CABE` [medium] Big and small goals require similar effort, but big goals face less competition because most people dismiss them as unrealistic.
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
+- `INS-260402-7E2A` [medium] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - `INS-260330-DCE1` [medium] Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
 - `INS-260330-F116` [medium] The early Islamic empire's rapid territorial expansion was enabled by centuries of Byzantine-Sassanian warfare that left both empires depleted — plus plague weakening the Sassanians further.
 - `INS-260327-263F` [medium] As the sneaker market crashed, shop reputations collapsed from widespread bait-and-switch tactics, making Leo's in-person convention presence and honest dealing his primary competitive moat for securing inventory.

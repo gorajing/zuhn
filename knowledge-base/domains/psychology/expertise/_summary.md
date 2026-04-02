@@ -1,7 +1,8 @@
 # Topic: expertise
 
-> 18 insights
+> 20 insights
 
+- `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260402-8223` [high] Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260402-4E59` [high] Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
@@ -16,6 +17,7 @@
 - `INS-260402-72EF` [high] Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260402-0D16` [high] Programming languages shape how practitioners think, making adoption a cognitive transformation rather than a simple tool swap — which is why features take decades to go mainstream.
 - `INS-260330-2666` [high] Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
+- `INS-260402-E11A` [high] If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
 - `INS-260402-26B0` [medium] Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260402-B12D` [medium] Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260330-C7B5` [medium] Making a tool part of your identity makes you worse at evaluating alternatives.

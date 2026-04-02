@@ -57,10 +57,10 @@ stance: >-
   clarifies most system design decisions.
 related:
   - INS-260329-7255
+  - INS-260402-4AB4
   - INS-260330-3591
   - PRI-260323-0654
   - INS-260330-70F5
-  - PRI-260324-12CF
 evidence:
   - id: INS-260330-3591
     type: CHALLENGES

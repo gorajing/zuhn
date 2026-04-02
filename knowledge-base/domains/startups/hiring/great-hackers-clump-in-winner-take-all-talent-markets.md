@@ -48,7 +48,7 @@ related:
   - INS-260402-46AD
   - INS-260402-FEA3
   - INS-260402-C664
-  - INS-260402-C4FF
+  - INS-260402-70FD
   - INS-260402-33CA
 ---
 Top programmers actively seek out other top programmers, creating a clumping effect where talent concentrates in roughly ten to twenty places at any given time. This means the relationship between environment quality and talent attracted isn't linear — it's closer to quadratic. If you're not one of those top destinations, you don't just get fewer great hackers; you get zero. This dynamic explains why some companies and cities develop seemingly unassailable talent advantages while others can't attract any top talent despite competitive compensation. The implication for startups is that incremental improvements to engineering culture are insufficient; you need to cross a threshold that makes you one of the places where great hackers actually want to be.

@@ -9,9 +9,6 @@
 - `INS-260402-A999` People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality.
 - `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
 - `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
-- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
-- `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
-- `INS-260323-B726` Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost millions) reveals his value hierarchy: loss of great power status and territorial unity outweighs loss of human life.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
@@ -23,3 +20,6 @@
 - `INS-260329-8BFC` Negative-before-positive sequencing leverages recency bias and earned credibility to make the same facts more persuasive.
 - `INS-260329-348D` Warning about extreme positive side effects makes the positive outcome feel inevitable rather than aspirational.
 - `INS-260330-DD9C` Facebook's Free Basics and Google's AMP are framed as philanthropy but function as internet centralization strategies.
+- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
+- `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
+- `INS-260323-B726` Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost millions) reveals his value hierarchy: loss of great power status and territorial unity outweighs loss of human life.

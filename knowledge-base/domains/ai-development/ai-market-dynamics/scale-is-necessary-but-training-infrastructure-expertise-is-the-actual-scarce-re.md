@@ -52,11 +52,11 @@ stance: >-
   talent rather than money the limiting resource.
 related:
   - INS-260323-35D4
-  - INS-260323-9A93
   - INS-260327-C962
   - PRI-260328-A82C
   - INS-260327-8997
-  - INS-260327-E63E
+  - INS-260402-70FD
+  - INS-260323-9A93
   - INS-260330-2BEC
 evidence:
   - id: INS-260323-35D4

@@ -45,11 +45,11 @@ stance: >-
   window, because model improvements and competitive dynamics shift faster than
   any development cycle can match.
 related:
-  - INS-260323-2559
   - INS-260329-50D5
+  - INS-260323-2559
   - INS-260330-5609
   - INS-260330-255F
-  - INS-260325-0FED
+  - INS-260402-3C79
 ---
 Zhang's product looked 'really rough' and was built in just two weeks. Within a day, over 100 people were using it. Then users doubled, revenue surged, and they knew they'd hit something. The lesson: in the AI era, things change every day. If you wait too long for perfection, you may never launch.
 

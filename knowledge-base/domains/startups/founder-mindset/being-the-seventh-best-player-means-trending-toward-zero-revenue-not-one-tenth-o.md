@@ -46,7 +46,6 @@ related:
   - INS-260330-3897
   - PRI-260328-0993
   - INS-260325-0688
-  - INS-260330-2BEC
 stance: >-
   Founders assume if the winner makes $500M and they make $50M, they're worth
   one-tenth

@@ -50,7 +50,6 @@ stance: >-
   the use case.
 related:
   - INS-260330-B08E
-  - INS-260330-00D5
   - INS-260330-2F13
   - PRI-260321-14D8
   - INS-260323-584D

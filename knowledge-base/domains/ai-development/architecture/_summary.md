@@ -1,9 +1,10 @@
 # Topic: architecture
 
-> 6 insights
+> 7 insights
 
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
 - `INS-260330-DE16` [high] Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
+- `INS-260402-0E46` [high] Encoding domain structure into features (e.g., marking where tokens appear in email) can improve classification from 92% to 99.5%.
 - `INS-260402-0DC9` [high] Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260402-2879` [high] Define program meaning independently of implementation, then layer optimization advice on top.
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.

@@ -51,10 +51,10 @@ stance: >-
   reliably solves problems that hours of conscious grinding cannot.
 related:
   - INS-260325-898A
+  - INS-260402-4AB4
   - INS-260330-FA9D
   - INS-260325-29D5
   - INS-260327-E7B8
-  - INS-260330-CCD8
 ---
 Fireship describes a universal programmer experience: grinding late into the night on an error, giving up, sleeping, then immediately solving it in the morning. This isn't anecdotal weakness — it maps directly to the neuroscience of focused vs. diffuse thinking modes. Conscious focus narrows your search space to known patterns, while rest activates diffuse-mode processing that explores wider associative networks.
 

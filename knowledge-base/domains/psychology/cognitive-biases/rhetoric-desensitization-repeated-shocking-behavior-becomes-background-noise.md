@@ -57,7 +57,6 @@ related:
   - INS-260330-63B8
   - PRI-260323-2C5C
   - INS-260402-116A
-  - INS-260402-7C15
 ---
 Ben Shapiro articulates a key psychological mechanism: when people first encounter shocking rhetoric, it produces a strong reaction, but years of repetition cause the brain to adjust — treating it as background noise, like tinnitus. This explains why Trump's divisive statements lost their political impact over time while Biden's comparatively milder rhetoric felt more jarring against his unity-branding baseline.
 

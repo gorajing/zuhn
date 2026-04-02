@@ -48,7 +48,6 @@ stance: >-
   seek tricks and shortcuts that are fundamentally incompatible with startup
   success
 related:
-  - INS-260330-5A13
   - INS-260330-5EA4
   - INS-260330-E8C6
   - INS-260402-DCC5

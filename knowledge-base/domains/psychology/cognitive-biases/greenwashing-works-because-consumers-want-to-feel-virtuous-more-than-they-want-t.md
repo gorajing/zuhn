@@ -48,11 +48,11 @@ stance: >-
   'sustainable' products are marginally better at best and sometimes worse than
   conventional alternatives.
 related:
+  - INS-260402-8170
   - INS-260327-99E5
   - INS-260327-5D71
   - INS-260327-CADA
   - INS-260327-F405
-  - INS-260323-E1BE
   - INS-260327-472A
   - INS-260327-6742
   - INS-260327-2B94

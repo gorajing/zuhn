@@ -2,6 +2,7 @@
 
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260330-16F7` McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.
+- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260330-1964` Attack incumbents where their own business model or architecture prevents them from responding, not where they simply haven't bothered yet.
 - `INS-260330-DD10` Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260330-6EE1` Find what incumbents structurally can't do — whether that's platform agnosticism against suite vendors or novel monetization like Zenefits getting paid by insurance companies instead of customers.

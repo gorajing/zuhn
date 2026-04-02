@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 179 insights
+> 181 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -46,6 +46,7 @@
 - `INS-260327-0595` [high] Sequoia's Pat Grady: 'Raise your hand if you have a data flywheel. Now what business metric does it move? Less certainty means your flywheel is fake.'
 - `INS-260329-2AB9` [high] Fast, imperfect decisions outperform slow, perfect ones because action generates information that analysis cannot.
 - `INS-260329-59A5` [high] For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
+- `INS-260402-E22E` [high] As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal.
 - `INS-260327-0004` [high] Nota AI started in 2015 but only generated significant revenue from 2023 -- they survived 7-8 years of market mismatch by maintaining conviction that their AI model optimization technology would eventually be needed.
 - `INS-260327-7CE9` [high] Build the hardest part first while you're most motivated—dancing around easy features kills momentum.
 - `INS-260330-8103` [high] Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
@@ -67,6 +68,7 @@
 - `INS-260330-258F` [high] Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - `INS-260329-62C1` [high] As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
 - `INS-260330-EBFD` [high] Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
+- `INS-260402-70FD` [high] Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.
 - `INS-260329-B34E` [high] People fail by building many half-finished bridges rather than completing one — getting to 90% on multiple paths yields zero while 100% on one path yields everything.
 - `INS-260330-ED04` [high] Nakamura's daily routine of modifying his MOCVD reactor each morning and testing each afternoon created an iteration cycle no well-funded lab could match.
 - `INS-260330-636E` [high] Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.

@@ -46,9 +46,9 @@ resolutions:
 related:
   - INS-260322-AB55
   - INS-260326-C692
+  - INS-260402-E36A
   - INS-260320-508F
   - INS-260322-4B63
-  - INS-260320-A1D3
 stance: >-
   Find 2-3 peers at a similar skill level who will give brutally honest
   feedback, and don't release anything until it passes their criticism.

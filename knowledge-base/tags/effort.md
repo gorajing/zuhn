@@ -6,3 +6,4 @@
 - `INS-260329-9C20` When you count progress in hundreds — hundreds of hours, hundreds of days — you automatically commit to the volume of effort that separates good from great.
 - `INS-260329-CBF3` The market rewards what is required, not what you tried — if your best isn't enough, the answer is to become better, not to feel good about falling short.
 - `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.
+- `INS-260402-EF63` Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.

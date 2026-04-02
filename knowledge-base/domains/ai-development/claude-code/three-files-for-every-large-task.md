@@ -20,19 +20,18 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
+  - INS-260321-0C99
   - INS-260320-06EF
   - INS-260320-8F12
-  - INS-260320-B210
   - INS-260320-0127
   - PRI-260321-D74F
   - INS-260320-EA19
-  - INS-260321-0C99
 date_extracted: '2026-03-20'
 last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Create three dev doc files (plan.md, context.md, tasks.md) for every large

@@ -44,9 +44,9 @@ related:
   - INS-260327-31A7
   - INS-260329-9F8D
   - INS-260329-6079
+  - INS-260402-C883
   - INS-260329-3DD7
   - INS-260321-AA91
-  - INS-260327-82AA
 ---
 When marketplace platforms allow suppliers to continuously increase pricing and add fees, they eventually price out the customer segment that created the demand, destroying the value proposition.
 

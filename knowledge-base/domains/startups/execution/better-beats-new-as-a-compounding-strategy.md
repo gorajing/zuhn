@@ -44,7 +44,7 @@ related:
   - INS-260329-3E28
   - INS-260329-E6C3
   - INS-260329-1435
+  - INS-260402-4BC7
   - INS-260330-BCAF
-  - INS-260329-6FAC
 ---
 The 'better beats new' principle captures why serial pivoting destroys wealth. Each iteration on an existing business deepens understanding of the customer, sharpens the offer, improves systems, and builds reputation — all forms of leverage that compound. Starting something new doesn't just pause this compounding; it actively resets it. The psychological trap is that the marginal improvement on attempt #47 feels boring compared to the excitement of attempt #1 on something fresh. But attempt #47 carries 46 iterations of accumulated leverage, while attempt #1 on a new thing carries none. The math overwhelmingly favors depth over breadth.

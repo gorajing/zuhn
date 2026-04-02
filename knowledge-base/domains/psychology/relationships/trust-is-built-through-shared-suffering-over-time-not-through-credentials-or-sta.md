@@ -56,7 +56,6 @@ stance: >-
   vetting or due diligence on new connections.
 related:
   - INS-260323-47B0
-  - INS-260323-A494
   - INS-260323-7AF7
   - INS-260330-423B
   - INS-260323-A430

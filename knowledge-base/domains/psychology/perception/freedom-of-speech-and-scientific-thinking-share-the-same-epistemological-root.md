@@ -47,9 +47,9 @@ resolutions:
 related:
   - INS-260323-0603
   - INS-260325-560A
+  - INS-260402-F3D7
   - PRI-260323-287B
   - INS-260329-72AC
-  - INS-260330-795D
   - INS-260330-F20D
 stance: >-
   Free speech and scientific inquiry are both rooted in the recognition that

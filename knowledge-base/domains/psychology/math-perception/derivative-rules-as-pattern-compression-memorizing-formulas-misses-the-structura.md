@@ -54,7 +54,6 @@ stance: >-
   enables flexible application to novel situations that rote memorization cannot
   handle.
 related:
-  - INS-260320-DDFE
   - INS-260323-FE33
   - INS-260329-04A5
   - INS-260329-9CBB

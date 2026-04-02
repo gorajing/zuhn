@@ -52,10 +52,10 @@ stance: >-
   step of choosing what to work on the key to the whole game
 related:
   - INS-260325-898A
+  - INS-260402-4AB4
   - INS-260327-CEE4
   - INS-260402-5522
   - INS-260327-E7A3
-  - INS-260330-64D8
 ---
 Graham observes that even brilliant people are surprisingly conservative in choosing what to work on — they follow fashion in problem selection while being creative in solutions. This is backwards: the greatest contributions come from originality in problem choice, not problem solving. Copernicus and Darwin didn't solve existing problems more cleverly; they identified entirely different problems to work on.
 

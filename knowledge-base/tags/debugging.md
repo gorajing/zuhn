@@ -29,3 +29,4 @@
 - `INS-260330-13A8` High-speed cameras reveal the arrow's mid-flight flex that explains how it navigates around the bow — without this visibility, the outcome seems impossible.
 - `INS-260329-5EE7` Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
+- `INS-260402-3C79` Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.

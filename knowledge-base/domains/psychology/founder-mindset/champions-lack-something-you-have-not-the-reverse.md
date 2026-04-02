@@ -50,6 +50,7 @@ related:
   - INS-260323-1930
   - INS-260322-5CBF
   - INS-260329-7C84
+  - INS-260402-EF63
 ---
 Hormozi reframes the comparison between average and elite performers. The conventional framing asks 'what do they do that I don't?' — implying you need to add something. The reframe is 'what do they not do that I do?' — implying you need to subtract something.
 

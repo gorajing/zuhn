@@ -48,7 +48,7 @@ related:
   - INS-260329-7F3D
   - INS-260330-5A13
   - INS-260402-4B96
-  - INS-260329-5F37
+  - INS-260402-3C79
 ---
 Graham observes that everyone he talked to felt English classes were pointless, yet none of them hypothesized at the time that the process was actually a mistake. Instead, they all assumed there was something they weren't getting. This is a general pattern: when institutions enforce practices that don't make sense, participants blame themselves rather than the institution.
 

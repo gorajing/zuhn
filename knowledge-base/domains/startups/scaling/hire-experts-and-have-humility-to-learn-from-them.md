@@ -51,10 +51,11 @@ related:
   - INS-260327-70DF
   - INS-260327-24D2
   - INS-260327-73BE
+  - INS-260402-2D7B
   - INS-260402-0F36
-  - INS-260323-DE2B
   - INS-260330-F3FF
   - INS-260330-B771
+  - INS-260402-0E46
 ---
 When Facebook needed to build data centers, Schroepfer didn't pretend the existing team could figure it out. He hired people with actual data center and network design experience. The approach wasn't 'we'll figure it out ourselves'—it was 'go hire a team to understand this new area and then help us get good.'
 

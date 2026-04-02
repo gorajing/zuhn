@@ -53,7 +53,6 @@ stance: >-
   The discriminating skill between average and expert performance is pattern
   recognition for tool selection, not breadth of tool knowledge.
 related:
-  - INS-260320-8632
   - INS-260323-FCC1
   - INS-260327-005D
   - INS-260327-47E9

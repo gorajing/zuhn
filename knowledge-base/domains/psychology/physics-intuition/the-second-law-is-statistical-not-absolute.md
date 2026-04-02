@@ -44,7 +44,6 @@ stance: >-
   probability, not physical impossibility — heat can flow from cold to hot, it's
   just astronomically unlikely at macroscopic scales
 related:
-  - INS-260323-2651
   - INS-260323-8897
   - INS-260323-9772
   - INS-260323-6C6F

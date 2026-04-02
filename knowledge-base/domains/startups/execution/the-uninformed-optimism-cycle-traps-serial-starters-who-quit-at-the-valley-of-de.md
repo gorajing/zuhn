@@ -54,10 +54,10 @@ stance: >-
   primary differentiator between success and perpetual poverty.
 related:
   - INS-260329-D1B8
+  - INS-260402-E36A
   - PRI-260323-2C5C
   - INS-260325-BE8A
   - INS-260325-0C4A
-  - PRI-260323-1B96
   - INS-260329-7F70
 ---
 The emotional arc of any new venture follows a predictable pattern: uninformed optimism (everything looks amazing), informed pessimism (you discover the hidden work), and the valley of despair (the work feels overwhelming relative to results). Most people bail at the valley and jump to a new opportunity, resetting to uninformed optimism. This creates a lifetime of half-built bridges.
