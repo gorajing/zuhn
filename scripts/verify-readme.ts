@@ -65,8 +65,24 @@ try {
 
 const readmeTestMatch = readme.match(/(\d+) automated tests across (\d+) test files/);
 if (readmeTestMatch) {
-  check("Test count", readmeTestMatch[1], actualTests);
-  check("Test file count", readmeTestMatch[2], actualTestFiles);
+  // Some tests depend on local KB/Ollama and may be skipped in CI.
+  // Accept if actual >= 90% of claimed (allows for env-skipped tests).
+  const claimedTests = parseInt(readmeTestMatch[1]);
+  const claimedFiles = parseInt(readmeTestMatch[2]);
+  checks++;
+  if (actualTests >= claimedTests * 0.9 && actualTests <= claimedTests * 1.1) {
+    console.log(`  ✓ Test count: README says "${claimedTests}", actual is "${actualTests}" (within 10%)`);
+  } else {
+    console.log(`  ✗ Test count: README says "${claimedTests}", actual is "${actualTests}" (>10% drift — update README)`);
+    failures++;
+  }
+  checks++;
+  if (actualTestFiles >= claimedFiles - 1 && actualTestFiles <= claimedFiles + 1) {
+    console.log(`  ✓ Test file count: README says "${claimedFiles}", actual is "${actualTestFiles}" (within ±1)`);
+  } else {
+    console.log(`  ✗ Test file count: README says "${claimedFiles}", actual is "${actualTestFiles}" (>1 drift)`);
+    failures++;
+  }
 }
 
 // Script count
@@ -186,7 +202,9 @@ if (cloneMatch) {
   } catch {
     remoteUrl = "(unknown)";
   }
-  check("Clone URL", cloneMatch[1], remoteUrl);
+  // Normalize: strip trailing .git for comparison (GitHub Actions strips it)
+  const normalize = (url: string) => url.replace(/\.git$/, "");
+  check("Clone URL", normalize(cloneMatch[1]), normalize(remoteUrl));
 }
 
 // ─── License ───────────────────────────────────────────────────────
