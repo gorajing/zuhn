@@ -18,6 +18,7 @@
     "ingest": "tsx scripts/ingest.ts",
     "extract": "tsx scripts/extract.ts",
     "compress": "tsx scripts/compress.ts",
+    "classify-edges": "tsx scripts/classify-edges.ts",
     "create-principles": "tsx scripts/create-principles.ts",
     "sleep": "tsx scripts/sleep.ts",
     "quality-score": "tsx scripts/quality-score.ts",
@@ -39,6 +40,7 @@
     "daemon:status": "tsx scripts/daemon.ts --status",
     "daemon:stop": "kill $(cat /tmp/zuhn-daemon.pid 2>/dev/null) 2>/dev/null || echo 'Daemon not running'",
     "daemon:logs": "tail -f knowledge-base/meta/daemon.log",
+    "extract-session": "tsx scripts/extract-session.ts",
     "red-team": "tsx scripts/red-team.ts",
     "scout": "tsx scripts/scout-predictions.ts && tsx scripts/scout-gaps.ts"
   },

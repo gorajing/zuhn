@@ -4,6 +4,28 @@ import { z } from "zod";
 
 const Confidence = z.enum(["pending", "low", "medium", "high", "very_high"]);
 
+// ─── Dual-Graph: Slow Memory (Semantic Graph) ─────────────────────────
+// Fast memory is related: string[] (vector similarity, no LLM).
+// Slow memory is evidence: EvidenceRelation[] (typed, LLM-classified,
+// written async by classify-edges.ts — never inside discoverConnections).
+
+export const RelationshipType = z.enum([
+  "SUPPORTS",     // B builds on / reinforces A
+  "CONTRADICTS",  // B opposes A (high surprise signal)
+  "EXTENDS",      // B broadens A's scope
+  "TRANSFERS_TO", // A principle applies in B's domain (cross-domain surprise)
+  "REFINES",      // B makes A more precise
+  "CHALLENGES",   // B questions assumptions in A (moderate surprise)
+]);
+
+export type RelationshipTypeValue = z.infer<typeof RelationshipType>;
+
+export const EvidenceRelation = z.object({
+  id: z.string(),
+  type: RelationshipType,
+  classified_at: z.string().optional(),
+});
+
 const Resolutions = z.object({
   one_line: z.string(),
   standard: z.string(),
@@ -39,7 +61,8 @@ export const InsightFrontmatter = z.object({
   // optional fields
   subtopic: z.string().optional(),
   stance: z.string().optional(),
-  related: z.array(z.string()).optional(),
+  related: z.array(z.string()).optional(),  // Fast Graph: vector similarity neighbors (never modify structure)
+  evidence: z.array(EvidenceRelation).optional(),  // Slow Graph: typed semantic relationships
   empirical_state: z.enum(["confirmed", "falsified"]).optional(),
 });
 
@@ -78,6 +101,17 @@ export type SourceData = z.infer<typeof SourceFrontmatter>;
 
 // ─── PrincipleFrontmatter ─────────────────────────────────────────────
 
+const PrincipleLineage = z.object({
+  compressed_at: z.string(),
+  source_insights: z.array(z.object({
+    id: z.string(),
+    relation: RelationshipType.optional(),
+  })),
+  surprise_score: z.number().optional(),
+  compression_trigger: z.string().optional(),
+  pagerank_seed: z.string().optional(),
+});
+
 export const PrincipleFrontmatter = z.object({
   id: z.string().regex(/^PRI-\d{6}-[A-F0-9]{4}$/i),
   domain: z.string(),
@@ -91,6 +125,7 @@ export const PrincipleFrontmatter = z.object({
   last_reviewed: z.string(),
   resolutions: Resolutions,
   empirical_state: z.enum(["confirmed", "falsified"]).optional(),
+  lineage: PrincipleLineage.optional(),
 });
 
 export type PrincipleData = z.infer<typeof PrincipleFrontmatter>;

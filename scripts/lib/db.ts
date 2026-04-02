@@ -126,6 +126,26 @@ export function initDb(dbPath?: string): Database.Database {
     );
   `);
 
+  // ── v2: Semantic Graph (Slow Memory / Typed Relationships) ──────────
+  // Populated async by classify-edges.ts — never by discoverConnections().
+  // related[] (Fast Graph) stays as-is; this table is the Slow Graph.
+  db.exec(`
+    CREATE TABLE IF NOT EXISTS connections (
+      from_id               TEXT NOT NULL,
+      to_id                 TEXT NOT NULL,
+      type                  TEXT NOT NULL,
+      confidence_score      REAL DEFAULT 1.0,
+      created_at            TEXT NOT NULL DEFAULT (datetime('now')),
+      last_confirmed        TEXT,
+      confidence_trajectory TEXT DEFAULT 'stable',
+      PRIMARY KEY (from_id, to_id)
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_connections_type ON connections(type);
+    CREATE INDEX IF NOT EXISTS idx_connections_from ON connections(from_id);
+    CREATE INDEX IF NOT EXISTS idx_connections_to   ON connections(to_id);
+  `);
+
   // ── Phase 19: Inbox Queue (state machine for autonomous processing) ──
   db.exec(`
     CREATE TABLE IF NOT EXISTS inbox_queue (
@@ -223,6 +243,39 @@ export function upsertInsight(
     access_count: insight.access_count,
     stance: insight.stance ?? null,
   });
+}
+
+// ─── getConnectionsForInsights ──────────────────────────────────────
+
+/**
+ * Fetch all connections where both endpoints are in the given insight ID set.
+ * Used by PageRank to build the subgraph for compression seed selection.
+ */
+export function getConnectionsForInsights(
+  db: Database.Database,
+  insightIds: string[]
+): Array<{ from: string; to: string; type: string }> {
+  if (insightIds.length === 0) return [];
+
+  // Use a temp table for efficient IN-clause on large sets
+  db.exec("CREATE TEMP TABLE IF NOT EXISTS _pr_ids (id TEXT PRIMARY KEY)");
+  db.exec("DELETE FROM _pr_ids");
+
+  const insertStmt = db.prepare("INSERT OR IGNORE INTO _pr_ids (id) VALUES (?)");
+  const insertMany = db.transaction((ids: string[]) => {
+    for (const id of ids) insertStmt.run(id);
+  });
+  insertMany(insightIds);
+
+  const rows = db.prepare(`
+    SELECT c.from_id AS "from", c.to_id AS "to", c.type
+    FROM connections c
+    WHERE c.from_id IN (SELECT id FROM _pr_ids)
+      AND c.to_id IN (SELECT id FROM _pr_ids)
+  `).all() as Array<{ from: string; to: string; type: string }>;
+
+  db.exec("DROP TABLE IF EXISTS _pr_ids");
+  return rows;
 }
 
 // ─── getInsightById ─────────────────────────────────────────────────
