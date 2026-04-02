@@ -176,10 +176,10 @@ npm run mcp                   # Start Zuhn MCP server (read-only knowledge acces
 npm run bench                 # Snapshot knowledge quality metrics
 npm run bench:check           # Regression detection (fails if quality drops)
 
-# Semantic Graph (v2)
+# Semantic Graph
 npm run classify-edges        # Classify relationship types for high-signal pairs
 
-# Session Pipeline (v2)
+# Session Pipeline
 npm run extract-session       # Process queued session insights (--dry-run to preview)
 
 # Testing
@@ -315,9 +315,9 @@ templates/                             ← Configuration templates (copy to loca
 └── ci.yml                         ← Tests + health check + benchmark regression + hook verification
 ```
 
-## Dual-Graph Architecture (v2)
+## Dual-Graph Architecture
 
-Zuhn v2 introduces a **Fast/Slow memory system** — two complementary graph layers that separate cheap structural discovery from expensive semantic classification:
+A **Fast/Slow memory system** — two complementary graph layers that separate cheap structural discovery from expensive semantic classification:
 
 ```
 FAST GRAPH (related: string[])          SLOW GRAPH (evidence: TypedRelation[])
@@ -352,7 +352,7 @@ npm run classify-edges -- --source cross-domain --limit 100
 
 All mechanisms run every ingestion via `npm run learn`. Flags are written to `meta/flags.md` (COMPRESS / DISCOVER / GAP / TRANSFER / SYNTHESIZE / LINK_PREDICT).
 
-### Additional v2 Features
+### Additional Features
 
 - **PageRank Seed Selection** — compression prompts sort insights by PageRank on the connections subgraph. The most load-bearing insight anchors the principle, not alphabetical by ID.
 - **Principle Provenance** — every principle tracks its `lineage`: which insights supported it, their relationship types, surprise score, and the compression trigger.
@@ -452,7 +452,7 @@ claude mcp add zuhn -s user -- npx tsx /path/to/zuhn/scripts/mcp-server.ts
 | `zuhn_queue_source` | Queue a URL or text for daemon processing |
 | `zuhn_submit_insights` | Submit pre-extracted insights (Zod-validated) |
 | `zuhn_flag_tension` | Flag a potential tension for human review |
-| `zuhn_queue_session_insight` | Queue a session observation for later extraction (Phase 8) |
+| `zuhn_queue_session_insight` | Queue a session observation for later extraction |
 
 ## Autonomous Knowledge Research Loop (autoknowledge)
 
@@ -546,7 +546,7 @@ Skills: `ingest` · `extract` · `compress` · `search` · `learn` · `sleep-wak
 
 ## Design Specs
 
-- [v2 Dual-Graph Architecture](docs/superpowers/specs/zuhn-v2-design-spec.md) — Fast/Slow memory, typed relationships, surprise-gated compression, PageRank seeds
+- [Dual-Graph Architecture](docs/superpowers/specs/zuhn-v2-design-spec.md) — Fast/Slow memory, typed relationships, surprise-gated compression, PageRank seeds
 - [Brain Engine Architecture](docs/superpowers/specs/2026-03-19-brain-engine-design.md) — the original design document
 - [Universal Ingestion Pipeline](docs/superpowers/specs/2026-03-20-universal-ingestion-design.md) — multi-format content fetching
 - [Learning Mechanisms 4-6](docs/superpowers/specs/2026-03-21-learning-mechanisms-4-6-design.md) — clustering, gap detection, cross-domain transfer
