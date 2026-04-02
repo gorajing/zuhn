@@ -77,7 +77,7 @@ To use Zuhn as your own knowledge OS (without the existing knowledge base):
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/gorajin/zuhn.git && cd zuhn
+git clone https://github.com/gorajing/zuhn.git && cd zuhn
 
 # 2. Install dependencies
 npm install
@@ -175,7 +175,7 @@ npx tsx scripts/scout-predictions.ts  # Scout evidence for active predictions
 npx tsx scripts/scout-gaps.ts    # Find sources for underdeveloped topics
 
 # Platform Tools
-npm run mcp                   # Start Zuhn MCP server (read-only knowledge access)
+npm run mcp                   # Start Zuhn MCP server (11 tools: 6 read + 5 write)
 npm run bench                 # Snapshot knowledge quality metrics
 npm run bench:check           # Regression detection (fails if quality drops)
 
@@ -298,7 +298,7 @@ scripts/                           ← TypeScript tooling (40+ scripts)
 ├── backfill-stances.ts            ← Backfill missing stances on insights
 ├── classify-edges.ts              ← Async semantic graph builder (Slow Graph)
 ├── extract-session.ts             ← Process queued session insights
-└── mcp-server.ts                  ← MCP server (10 tools: 6 read + 4 write)
+└── mcp-server.ts                  ← MCP server (11 tools: 6 read + 5 write)
 
 .claude.example/                   ← Claude Code config templates (copy to .claude/ locally)
 ├── settings.json                  ← Hook registration + project settings
@@ -442,7 +442,7 @@ Zuhn exposes its knowledge base as an MCP server, making it accessible from **an
 claude mcp add zuhn -s user -- npx tsx /path/to/zuhn/scripts/mcp-server.ts
 ```
 
-**10 tools (6 read + 4 write):**
+**11 tools (6 read + 5 write):**
 
 | Tool | Purpose |
 |------|---------|
@@ -455,6 +455,7 @@ claude mcp add zuhn -s user -- npx tsx /path/to/zuhn/scripts/mcp-server.ts
 | `zuhn_queue_source` | Queue a URL or text for daemon processing |
 | `zuhn_submit_insights` | Submit pre-extracted insights (Zod-validated) |
 | `zuhn_flag_tension` | Flag a potential tension for human review |
+| `zuhn_log_feedback` | Log user feedback on resurfaced insights |
 | `zuhn_queue_session_insight` | Queue a session observation for later extraction |
 
 ## Autonomous Knowledge Research Loop (autoknowledge)
@@ -508,10 +509,8 @@ npm run bench:check   # Regression detection — fails if KQ drops
 17 standalone SKILL.md files that any LLM agent can follow — not just Claude Code. Each skill is self-contained with exact commands, JSON formats, quality checklists, and constraints. See [Platform Adaptation Guide](docs/platform-adaptation.md) for Cursor and Codex equivalents.
 
 ```bash
-# Install into Claude Code
-cp -r skills/* ~/.claude/skills/
-
-# Or use with any LLM that reads markdown instructions
+# Skills are automatically loaded by Claude Code when working in this repo.
+# Or copy to any project and reference them from any LLM that reads markdown.
 ```
 
 Skills: `ingest` · `extract` · `compress` · `search` · `learn` · `sleep-wake` · `decide` · `predict` · `archive` · `bench` · `health` · `mcp` · `resurface` · `resurrect` · `backfill` · `tension-review` · `topic-management`
@@ -519,7 +518,7 @@ Skills: `ingest` · `extract` · `compress` · `search` · `learn` · `sleep-wak
 ## Capabilities
 
 - 300 automated tests across 23 test files
-- 45+ TypeScript scripts
+- 40+ TypeScript scripts
 - Hybrid search: keyword (FTS5 BM25) + semantic (L2-normalized 768-dim cosine) with Reciprocal Rank Fusion
 - 9 learning mechanisms + autonomous research loop (autoknowledge)
 - Epistemic Quality Pipeline: LLM-graded IQS + composite KQ metric + Golden Eval Set
@@ -556,7 +555,7 @@ Skills: `ingest` · `extract` · `compress` · `search` · `learn` · `sleep-wak
 - [Resolve Pipeline](docs/superpowers/specs/2026-03-22-resolve-pipeline-design.md) — empirical engine with asymmetric confidence cascade
 - [Autonomous Knowledge Metabolism](docs/superpowers/specs/2026-03-26-phase-19-autonomous-metabolism-design.md) — daemon, inbox, red team, scouts, bounty system
 - Ontology consolidation — merge-topics.ts, topic discipline rules
-- MCP Server — cross-project knowledge access via 6 read-only tools
+- MCP Server — cross-project knowledge access via 11 tools (6 read + 5 write)
 - Benchmark Harness — epistemic CI/CD with 15 quality metrics and regression gates
 - Skill Extraction — 17 portable SKILL.md files + platform adaptation guide
 - Batch Channel Ingest — `npm run ingest-channel` with yt-dlp, tracker files, resume, Whisper fallback
@@ -568,7 +567,7 @@ Skills: `ingest` · `extract` · `compress` · `search` · `learn` · `sleep-wak
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+ISC — see [LICENSE](LICENSE) for details.
 
 ---
 
