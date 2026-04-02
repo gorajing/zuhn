@@ -57,7 +57,6 @@ related:
   - INS-260329-19B3
   - INS-260327-1D3D
   - PRI-260327-0D6E
-  - INS-260330-E881
 ---
 Before writing, foraging societies were relatively egalitarian because knowledge was oral and distributed. Writing changed this fundamentally: it created a specialist class (scribes) who controlled information flow, enabling rulers to codify laws, track debts, and administer taxes. Mesopotamian society went from egalitarian foraging to a hierarchy that included slavery and sport-like entertainment where humans rode other humans.
 

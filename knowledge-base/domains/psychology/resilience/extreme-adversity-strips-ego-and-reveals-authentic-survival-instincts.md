@@ -58,12 +58,12 @@ related:
   - INS-260323-34B7
   - INS-260323-9369
   - INS-260323-4ADE
-  - INS-260325-4F06
   - INS-260327-60FB
   - INS-260327-375B
   - INS-260329-8B1C
   - INS-260325-3754
   - PRI-260324-1134
+  - INS-260330-8C54
 ---
 Paul Rosolie describes multiple near-death experiences — being lost in swamps for days, contracting MRSA far from medical help, encountering uncontacted tribes — and in each case reports that ego completely disappeared, replaced by calm acceptance and clear-headed problem-solving. He contrasts this with earlier adolescent bravado (going into the woods with a hunting knife), noting that the Amazon 'strips you down so completely' that only authentic survival instincts remain.
 

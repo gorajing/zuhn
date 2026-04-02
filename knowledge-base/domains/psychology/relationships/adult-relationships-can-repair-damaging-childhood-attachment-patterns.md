@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260325-1C7F
   - PRI-260325-496E
+  - INS-260402-A558
   - INS-260327-9447
   - INS-260325-3A54
-  - INS-260325-268F
   - INS-260330-38DA
 ---
 Childhood experience sets the stage for what people expect from the world and relationships. Those raised by warm, reliable caregivers develop secure expectations; those from troubled environments often enter adulthood expecting the world to be unsafe and people to be unreliable.

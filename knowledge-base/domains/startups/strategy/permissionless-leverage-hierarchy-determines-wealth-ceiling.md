@@ -46,7 +46,6 @@ stance: >-
   larger than those who rely on labor alone
 related:
   - INS-260323-70B9
-  - INS-260327-643C
   - INS-260329-34C0
   - INS-260329-9DF3
   - INS-260329-B424

@@ -48,10 +48,11 @@ resolutions:
 related:
   - INS-260327-E2BC
   - INS-260322-C472
+  - INS-260402-8424
   - INS-260322-A892
   - INS-260327-80A8
-  - INS-260330-B5DF
   - INS-260327-6A4B
+  - INS-260330-B5DF
 stance: >-
   Defense primes' advantage over startups is not inventiveness but production
   and manufacturing at scale

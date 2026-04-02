@@ -51,10 +51,10 @@ stance: >-
   make bets on education, opportunities, and inventory
 related:
   - PRI-260328-BD81
+  - INS-260402-40D7
   - INS-260329-8443
   - INS-260322-F128
   - INS-260325-75C5
-  - INS-260329-9F81
 ---
 Hormozi's frugality advice (no eating out, Goodwill clothes, free events only) isn't conventional budgeting wisdom — it's a psychological strategy. When you live paycheck-to-paycheck, you literally cannot think long-term because your cognitive resources are consumed by immediate survival. Building a cash stockpile shifts your psychology: knowing you have 20 months of expenses covered lets you take calculated risks — investing in education, buying inventory, starting a business.
 

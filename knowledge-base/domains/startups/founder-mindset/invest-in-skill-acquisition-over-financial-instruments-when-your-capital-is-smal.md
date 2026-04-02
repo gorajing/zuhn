@@ -52,7 +52,6 @@ stance: >-
   market return on that same $1,000.
 related:
   - INS-260328-33E8
-  - INS-260329-1CB0
   - INS-260329-D4BC
   - INS-260329-E76F
   - INS-260329-EFA8
@@ -61,6 +60,7 @@ related:
   - INS-260329-55DC
   - INS-260329-7FD6
   - INS-260329-C3DF
+  - INS-260329-7AAB
 ---
 Hormozi makes a compelling mathematical argument: if you earn $50K/year and invest $1,000 in the S&P 500 at 10% return, you gain $100. But if that $1,000 buys a course or mentorship that increases your skill by 50%, your income jumps to $75K — a $25,000 gain. The ROI difference is 250x. He calls this 'investing in the S&P You' — putting money into the asset that is yourself.
 

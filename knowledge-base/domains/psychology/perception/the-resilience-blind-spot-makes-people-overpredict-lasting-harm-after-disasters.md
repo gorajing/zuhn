@@ -56,7 +56,7 @@ related:
   - PRI-260325-F21B
   - INS-260325-DF82
   - INS-260329-5412
-  - INS-260330-E68E
+  - INS-260402-A558
   - INS-260330-DFC8
 ---
 Bonanno coined 'the resilience blind spot' to describe a phenomenon he observed after 9/11, Superstorm Sandy, COVID-19, and the Japan tsunami. During large-scale disasters, many people are affected simultaneously, creating shared anxiety amplified by social contagion, media coverage, and interpersonal conversations.

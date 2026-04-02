@@ -58,10 +58,10 @@ related:
   - INS-260327-0758
   - INS-260327-3675
   - INS-260327-479C
-  - INS-260327-2BAD
   - INS-260330-AFAD
   - INS-260330-4980
   - INS-260330-A192
+  - INS-260330-F9C9
 ---
 Britain's industrial capitalism was partly enabled by the 17th-century English Civil War, during which the crown could not enforce its complex licensing requirements and royal monopolies. This accidental deregulation persisted after the conflict, creating space for market experimentation that would not have occurred under stable authoritarian rule.
 

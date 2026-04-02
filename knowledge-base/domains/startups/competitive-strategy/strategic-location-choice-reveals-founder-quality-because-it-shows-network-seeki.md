@@ -54,7 +54,7 @@ related:
   - INS-260330-DD63
   - INS-260402-D739
   - PRI-260328-59DC
-  - PRI-260328-0C86
+  - INS-260402-66A5
   - INS-260330-8FC5
 ---
 Hoffman argues that location choice is a founder quality signal because it reveals whether someone understands that entrepreneurship is about assembling resources from networks, not solo heroics. Silicon Valley is optimal for mobile, marketplaces, and software networks — but Groupon required Chicago's sales talent ecosystem (floors of salespeople in a 25-story building would get laughed out of SV, which prizes capital efficiency). A fashion startup in Silicon Valley would be misguided. The underlying principle is that founding a company is 'jumping off a cliff and assembling an airplane on the way down' — you're default dead, so you maximize every advantage, including physically going where the relevant talent, capital, and domain expertise concentrate. This extends beyond geography to any resource-seeking behavior.

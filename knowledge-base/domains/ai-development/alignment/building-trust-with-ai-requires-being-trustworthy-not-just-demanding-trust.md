@@ -48,11 +48,11 @@ stance: >-
   genuine trust requires vulnerability from both parties.
 related:
   - INS-260323-8B22
-  - INS-260326-B10B
   - INS-260327-AC8E
   - INS-260322-627E
   - INS-260321-1A0B
-  - PRI-260328-6BC1
+  - INS-260402-3DBF
+  - INS-260326-B10B
   - INS-260330-BA13
 evidence:
   - id: INS-260323-8B22

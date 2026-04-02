@@ -55,7 +55,6 @@ stance: >-
   first.
 related:
   - INS-260323-4574
-  - PRI-260323-F193
   - INS-260329-C1E1
   - INS-260329-72D5
   - INS-260329-DD0F
@@ -64,6 +63,7 @@ related:
   - INS-260329-32DB
   - INS-260329-65CD
   - INS-260329-9A58
+  - INS-260329-27A3
 ---
 CS50 Python demonstrates a deliberate pedagogical pattern: every new concept is introduced by modifying a program the student already understands. Variables become conditionals become loops become functions — each lecture revisits the same hello-world seed at a higher level of abstraction. This mirrors how expert programmers actually think: not as a flat list of syntax rules, but as nested layers of pattern.
 

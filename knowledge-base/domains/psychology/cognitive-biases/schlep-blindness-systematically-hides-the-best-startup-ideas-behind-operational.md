@@ -54,11 +54,11 @@ stance: >-
 related:
   - INS-260327-8760
   - INS-260327-0B7C
+  - INS-260402-F08D
   - PRI-260328-04FA
   - INS-260326-291C
   - PRI-260328-E9B5
   - INS-260327-8254
-  - INS-260327-1064
 ---
 Graham identifies two mental filters that block founders from seeing good ideas: the schlep filter (avoiding tedious, messy work) and the unsexy filter (avoiding boring domains). The schlep filter is more dangerous because it operates unconsciously — founders don't reject these ideas, they literally don't see them.
 

@@ -50,11 +50,11 @@ related:
   - INS-260322-E22A
   - INS-260323-7866
   - INS-260323-9E37
+  - INS-260402-225A
   - INS-260402-2A1D
   - INS-260322-5831
   - INS-260326-F845
   - INS-260327-A4B1
-  - INS-260330-52C7
   - INS-260330-9B7B
 ---
 Dalton and Michael observe a striking asymmetry in co-founder breakups: they never hear 'my co-founder is an A-plus person, they just didn't have the right skills.' What they always hear is 'my co-founder is a living nightmare and I can't take it anymore.' Skill mismatch is an error but not a fatal one — because almost everything in startup life is learned on the job anyway.

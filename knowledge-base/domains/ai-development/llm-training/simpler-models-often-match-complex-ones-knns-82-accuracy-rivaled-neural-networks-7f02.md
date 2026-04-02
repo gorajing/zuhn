@@ -52,7 +52,6 @@ stance: >-
   frequently match or exceed neural network performance, making model complexity
   a poor default choice.
 related:
-  - INS-260329-5D48
   - INS-260329-F854
   - INS-260327-7A48
   - INS-260329-D357

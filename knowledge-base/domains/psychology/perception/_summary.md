@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 305 insights
+> 306 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -9,6 +9,7 @@
 - `INS-260325-C996` [high] Psychologist Sonja Lyubomirsky estimates 50% of happiness is biological set point, 10% is circumstances, and 40% is under our control through deliberate choices.
 - `INS-260330-2C4D` [high] People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
 - `INS-260327-7D75` [high] The worst outcome isn't failing at your goals - it's succeeding at goals that were never actually yours.
+- `INS-260402-86C4` [high] Adults hiding their flaws while enforcing high standards on children creates a generation that feels secretly, hopelessly inadequate compared to an illusion.
 - `INS-260327-9D51` [high] Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
 - `INS-260329-36D9` [high] Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260325-D033` [high] 75,000-year-old African beds used ash layers to repel ticks and aromatic leaves to deter mosquitoes, while ostrich egg canteens were self-cooling through micro-porous evaporation.

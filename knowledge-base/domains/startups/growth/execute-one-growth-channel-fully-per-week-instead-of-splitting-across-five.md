@@ -51,8 +51,8 @@ related:
   - INS-260322-ABA0
   - INS-260329-AF18
   - INS-260330-D487
+  - INS-260402-7FF5
   - INS-260330-4AE7
-  - INS-260329-776B
 ---
 Cheung's growth framework is deliberately sequential: pick one channel, execute fully for one week, evaluate. If it works, keep executing until it caps out. If it doesn't, move on. This stands in contrast to the common approach of running Google ads, content marketing, and partnerships simultaneously with fractional effort on each.
 

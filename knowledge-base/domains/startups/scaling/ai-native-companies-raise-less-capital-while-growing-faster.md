@@ -48,10 +48,10 @@ stance: >-
   equation.
 related:
   - INS-260326-870E
+  - INS-260402-8424
   - INS-260322-CFB1
   - INS-260330-3138
   - INS-260330-548B
-  - INS-260330-21CC
   - INS-260329-A01C
 ---
 Koning's AI Founder Sprint tracked 500+ entrepreneurs across Africa, Asia, Americas, and Europe. When founders systematically applied generative AI—not just chat, but vibe coding tools, multimodal tools, and agents—across their firms, they achieved measurably better outcomes: more customers, more revenue, higher product launch rates.

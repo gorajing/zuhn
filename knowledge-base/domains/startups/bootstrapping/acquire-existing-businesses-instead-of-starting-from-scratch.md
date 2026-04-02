@@ -47,10 +47,11 @@ stance: >-
   Buying an existing profitable business with seller financing is a faster and
   lower-risk path to wealth than building from zero.
 related:
-  - INS-260329-4EF5
   - INS-260329-0DA4
   - INS-260329-545B
   - INS-260330-6204
+  - INS-260329-4EF5
+  - INS-260402-8424
   - INS-260329-8B55
   - INS-260329-2A70
 ---

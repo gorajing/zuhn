@@ -239,10 +239,12 @@ Generated on 2026-04-02 | 2421 sources
 | Claude for Finance | pdf | 5 | 2026-03-22 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
+| A Plan for Spam | blog | 5 | 2026-03-31 |
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
 | Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
+| Great Hackers | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
@@ -252,12 +254,17 @@ Generated on 2026-04-02 | 2421 sources
 | How to Make Wealth | blog | 5 | 2026-03-31 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
+| Lies We Tell Kids | blog | 5 | 2026-03-31 |
+| Links For February 2026 | blog | 5 | 2026-03-30 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
 | OpenAI’s Product Lead on Winning AI Through Distribution | blog | 5 | 2026-03-30 |
+| Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
+| Startup = Growth | blog | 5 | 2026-03-31 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
 | The Brand Age | blog | 5 | 2026-03-31 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
+| The Growth Loop Playbook Used by Top Startups | blog | 5 | 2026-03-30 |
 | The Hacker's Guide to Investors | blog | 5 | 2026-03-31 |
 | The Network Effects Manual: 16 Different Network Effects (and counting) | blog | 5 | 2026-03-31 |
 | The Origins of Wokeness | blog | 5 | 2026-03-31 |
@@ -267,7 +274,9 @@ Generated on 2026-04-02 | 2421 sources
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | What I Worked On | blog | 5 | 2026-03-31 |
+| What Startups Are Really Like | blog | 5 | 2026-03-31 |
 | What You Can't Say | blog | 5 | 2026-03-31 |
+| What You'll Wish You'd Known | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
 | Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
 | Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
@@ -1491,7 +1500,6 @@ Generated on 2026-04-02 | 2421 sources
 | A new-parent gift guide | blog | 0 | 2026-03-31 |
 | A new perk for annual subscribers: A free year of some of the world's most beloved products (while supplies last) | blog | 0 | 2026-03-31 |
 | A New Venture Animal | blog | 0 | 2026-03-31 |
-| A Plan for Spam | blog | 0 | 2026-03-31 |
 | A playbook for fundraising | blog | 0 | 2026-03-31 |
 | A PM’s guide to influence | blog | 0 | 2026-03-31 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
@@ -1816,7 +1824,6 @@ Generated on 2026-04-02 | 2421 sources
 | Good and Bad Procrastination | blog | 0 | 2026-03-31 |
 | Good Writing | blog | 0 | 2026-03-31 |
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
-| Great Hackers | blog | 0 | 2026-03-31 |
 | GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
 | Guided AI Agents: Turbocharging the SMB | blog | 0 | 2026-03-31 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
@@ -1929,10 +1936,8 @@ Generated on 2026-04-02 | 2421 sources
 | Let the Chinese cars in | blog | 0 | 2026-03-30 |
 | Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
 | Let's save the human species! | blog | 0 | 2026-03-30 |
-| Lies We Tell Kids | blog | 0 | 2026-03-31 |
 | Life is Short | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
-| Links For February 2026 | blog | 0 | 2026-03-30 |
 | Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
 | LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 0 | 2026-03-30 |
@@ -2005,7 +2010,6 @@ Generated on 2026-04-02 | 2421 sources
 | Ramen Profitable | blog | 0 | 2026-03-31 |
 | RAQs | blog | 0 | 2026-03-31 |
 | Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 0 | 2026-03-30 |
-| Real Estate 3.0 – The Ownership Revolution | blog | 0 | 2026-03-31 |
 | Real Estate's Hidden AI Revolution | blog | 0 | 2026-03-31 |
 | Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved Medical Care | blog | 0 | 2026-03-30 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
@@ -2070,7 +2074,6 @@ Generated on 2026-04-02 | 2421 sources
 | Startup FP&A Model: Build a Real Operating Plan | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
 | Startup Fundraising Resources: Investor Lists 2026 | blog | 0 | 2026-03-30 |
-| Startup = Growth | blog | 0 | 2026-03-31 |
 | Startup Investing Trends | blog | 0 | 2026-03-31 |
 | Startup Location Strategy in 2025: Does It Still Matter Where You Build? | blog | 0 | 2026-03-30 |
 | Startup MIS Excel Template to Track KPIs | blog | 0 | 2026-03-30 |
@@ -2153,7 +2156,6 @@ Generated on 2026-04-02 | 2421 sources
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 0 | 2026-03-30 |
 | The Go-To Pricing Guide for Early-Stage Founders + Toolkit | blog | 0 | 2026-03-30 |
-| The Growth Loop Playbook Used by Top Startups | blog | 0 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 0 | 2026-03-30 |
 | The Hardest Lessons for Startups to Learn | blog | 0 | 2026-03-31 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
@@ -2300,7 +2302,6 @@ Generated on 2026-04-02 | 2421 sources
 | What Made Lisp Different | blog | 0 | 2026-03-31 |
 | What Makes a Good Product-Market Fit?🎯, Global Markets Snapshot📊, GDP Growth Projections📈 | blog | 0 | 2026-03-30 |
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
-| What Startups Are Really Like | blog | 0 | 2026-03-31 |
 | What the Bubble Got Right | blog | 0 | 2026-03-31 |
 | What to Do | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
@@ -2310,7 +2311,6 @@ Generated on 2026-04-02 | 2421 sources
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 0 | 2026-03-31 |
 | What We Look for in Founders | blog | 0 | 2026-03-31 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
-| What You'll Wish You'd Known | blog | 0 | 2026-03-31 |
 | When To Do What You Love | blog | 0 | 2026-03-31 |
 | Where does a liberal go from here? | blog | 0 | 2026-03-30 |
 | Where To Build Your Startup | blog | 0 | 2026-03-31 |

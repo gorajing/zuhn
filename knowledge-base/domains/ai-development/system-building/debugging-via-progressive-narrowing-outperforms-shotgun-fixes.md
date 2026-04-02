@@ -50,6 +50,6 @@ related:
   - INS-260330-541B
   - INS-260330-5609
   - INS-260330-64D8
-  - INS-260330-1E5E
+  - INS-260402-2CAF
 ---
 The course presents a debugging methodology that mirrors professional practice: first identify the symptom, then use print statements to verify variable states at key decision points, then use breakpoints to pause execution and inspect state. This progressive narrowing is more reliable than reading code and guessing because it forces you to confront what the computer actually computed vs. what you assumed. The same principle applies to debugging AI systems and pipelines — instrument first, hypothesize second. This is the 'scientific method applied to code' and transfers directly to debugging complex multi-step AI agent workflows where assumptions about intermediate state are the primary source of errors.

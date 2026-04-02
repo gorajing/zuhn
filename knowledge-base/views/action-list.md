@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-02 | 2899 actionable insights
+Generated on 2026-04-02 | 2913 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -901,6 +901,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-0C49] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
 - [INS-260330-4114] A phone ringing in Destin's pocket instantly crashed his backwards-bike riding because the new neural pathway required active attention the old one didn't.
 - [INS-260402-FE91] If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
+- [INS-260402-3737] Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1032,11 +1033,13 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-8FC5] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - [INS-260330-9931] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - [INS-260402-2DCE] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.
+- [INS-260402-40D7] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
 - [INS-260330-F6B1] Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - [INS-260402-46AD] The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
+- [INS-260402-30DC] Nasty little problems don't just waste time — they actively make you stupider because they lack the learnable patterns that build expertise.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1315,6 +1318,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-B047] Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
 - [INS-260330-0930] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - [INS-260402-D9D0] Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
+- [INS-260402-4451] You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1690,6 +1694,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-F4C0] Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
 - [INS-260330-3B0A] Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve.
 - [INS-260402-2A1D] College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
+- [INS-260402-225A] Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 
 ## startups/communication
 - [INS-260330-D511] Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
@@ -1856,6 +1861,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260402-4605] Eminence constrains innovation more than obscurity constrains execution.
 - [INS-260402-AEA1] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
 - [INS-260402-E470] Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
+- [INS-260402-8595] Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -1895,6 +1901,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-2200] GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - [INS-260330-19F1] Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss.
 - [INS-260402-7999] Great software is written by sketching and refining, not by executing a pre-completed blueprint.
+- [INS-260402-C664] Having great hackers build internal tools while less elite developers build applications retains top talent without exposing them to soul-crushing user requirements.
 
 ## startups/execution
 - [INS-260323-CB34] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
@@ -2205,6 +2212,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260402-8EED] A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier.
 - [INS-260402-27A1] A failed startup teaches more founder skills in one year than several years at a big company.
 - [INS-260402-9075] Most startups die not from bad decisions but from founders who never fully committed.
+- [INS-260402-ECB6] Don't let institutional roles define you — treat them as day jobs and reserve your identity for self-directed work.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2272,6 +2280,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260402-9288] Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
 - [INS-260402-4719] VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - [INS-260402-3FC5] Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.
+- [INS-260402-66A5] VCs select for founders who are best at performing certainty, not founders with the best businesses.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2304,6 +2313,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-05C7] Tiny growth rate differences compound into massive outcome gaps, making growth rate optimization the highest-leverage activity.
 - [INS-260330-8817] Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
 - [INS-260330-A949] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
+- [INS-260402-7FF5] Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -2457,6 +2467,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-E126] Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
 - [INS-260330-1C90] Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - [INS-260402-73D9] Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.
+- [INS-260402-33CA] Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -2496,6 +2507,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260402-237D] Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - [INS-260402-9093] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - [INS-260402-D739] The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
+- [INS-260402-2CAF] Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2600,6 +2612,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-36B4] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - [INS-260330-FF9A] Convert your survival plan into concrete metric targets for each team so every employee can see exactly how their work contributes to the company's path through the crisis.
 - [INS-260402-71A7] Glanville publicly recognizes when team members present better ideas than his own, sending a clear signal that the best idea wins regardless of org chart position.
+- [INS-260402-D2C9] You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -2709,6 +2722,7 @@ Generated on 2026-04-02 | 2899 actionable insights
 - [INS-260330-41F6] Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value.
 - [INS-260330-809A] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - [INS-260330-C95F] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
+- [INS-260402-3DBF] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

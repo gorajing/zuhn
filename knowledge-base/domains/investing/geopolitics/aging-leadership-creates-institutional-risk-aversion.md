@@ -46,11 +46,11 @@ stance: >-
   worldwide is creating systemic risk aversion that favors preservation of
   existing structures over innovation and adaptation.
 related:
+  - INS-260402-3F92
   - INS-260327-D77C
   - INS-260327-D480
   - INS-260327-1F6A
   - INS-260330-6C3D
-  - INS-260325-3CE2
 ---
 Global leadership has aged dramatically: public company CEOs average 58, directors 63, Congress members over 60. World leaders of the two most populous countries are 74 and 71. Many leaders are literally dying in power. This gerontocracy creates institutional risk aversion - older leaders naturally favor preserving existing systems that made them successful over embracing disruptive change.
 

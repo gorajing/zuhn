@@ -6,3 +6,4 @@
 - `INS-260327-DDC3` Costco enables complete animal-based nutrition for under $15/day: grass-fed ground beef, pasture-raised eggs, whole milk, and seasonal fruit in bulk.
 - `INS-260327-5E03` When consumers can't afford cars, automakers built more expensive cars with longer loan terms rather than more affordable alternatives.
 - `INS-260327-6900` Car companies responded to consumers who can't afford cars by making cars more expensive than ever - the fundamental constraint is affordability, not technology.
+- `INS-260402-5EDC` Affordability barriers don't suppress demand — they redirect it into entirely new market categories that serve the same underlying need through novel structures.

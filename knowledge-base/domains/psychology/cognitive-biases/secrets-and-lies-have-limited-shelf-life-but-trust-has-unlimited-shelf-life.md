@@ -50,11 +50,11 @@ stance: >-
   yields short-term gains but keeping them builds trust with unlimited
   compounding returns
 related:
+  - INS-260402-3737
   - INS-260330-D066
   - INS-260329-6FAC
   - INS-260327-9EE4
   - INS-260323-92AD
-  - INS-260322-627E
 ---
 CIA training teaches that secrets and lies behave like perishable goods—they have a limited shelf life and their value degrades over time. If you cash in on a secret while it's fresh, you capture short-term value before it spoils (someone else reveals it, circumstances change, etc.). However, the trust earned from NOT being the one who cashed in has no expiration date.
 

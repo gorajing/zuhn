@@ -48,8 +48,8 @@ related:
   - INS-260322-ABA0
   - INS-260329-AF18
   - INS-260330-323E
+  - INS-260402-7FF5
   - INS-260330-4AE7
-  - INS-260329-776B
 ---
 When you're a tiny team (1-2 people), the temptation is to try five growth strategies at once. Adora argues this produces false negatives — you'll conclude channels don't work when really you just didn't invest enough effort to find out. By concentrating a full week on one channel, you get a much cleaner signal.
 

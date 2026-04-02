@@ -57,6 +57,7 @@ related:
   - INS-260330-21CC
   - INS-260330-D1C8
   - INS-260330-1854
+  - INS-260402-1F41
 ---
 Graham argues that 'the most important part of design is redesign' and that users, while valuable for feedback, create powerful inertia against change. Every change risks breaking existing users, so the more users you have, the harder redesign becomes. Committees make this worse — even two people sharing an interface creates enough friction to freeze it.
 

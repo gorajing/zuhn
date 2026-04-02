@@ -52,10 +52,10 @@ related:
   - INS-260320-E044
   - INS-260321-6BA7
   - INS-260327-8DC5
-  - INS-260329-ABD9
   - INS-260329-1739
   - INS-260330-712D
   - INS-260330-4EF8
+  - INS-260402-FE91
 ---
 Beyond the attention-amplification of the Streisand Effect, there is a deeper psychological phenomenon: people may actually be more likely to believe ideas that are being suppressed. The act of suppression signals that the idea is threatening enough to require silencing, which paradoxically functions as an endorsement of its importance or truth value.
 

@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 11 insights
+> 12 insights
 
 - `INS-260330-72D0` [high] Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260330-40EC` [high] ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
@@ -13,3 +13,4 @@
 - `INS-260330-181B` [high] Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
 - `INS-260330-5747` [medium] Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260402-5242` [medium] Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.
+- `INS-260402-C664` [medium] Having great hackers build internal tools while less elite developers build applications retains top talent without exposing them to soul-crushing user requirements.

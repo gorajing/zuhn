@@ -49,7 +49,6 @@ stance: >-
   deeper understanding than concept-first lecture approaches because each
   project naturally motivates the next abstraction
 related:
-  - INS-260329-E6A1
   - INS-260329-30D7
   - INS-260329-2F63
   - INS-260329-CD38
@@ -59,6 +58,7 @@ related:
   - INS-260329-3263
   - INS-260329-AD3E
   - INS-260329-820D
+  - INS-260329-B2F4
 ---
 This 4.5-hour tutorial demonstrates a pedagogical pattern that scales well: start with the simplest possible output (Console.WriteLine), then layer variables, user input, control flow, and finally OOP — each new concept introduced through a practical mini-project. The calculator project teaches variables + input + type conversion simultaneously. The guessing game teaches loops + conditionals + random numbers together.
 

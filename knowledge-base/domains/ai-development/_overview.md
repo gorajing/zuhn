@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 907 insights across 22 topics
+> 909 insights across 22 topics
 
 ## Topics
 
@@ -27,4 +27,4 @@
 | platform-dynamics | 19 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
 | platform-shifts | 30 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
 | product-strategy | 66 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
-| system-building | 203 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |
+| system-building | 205 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |

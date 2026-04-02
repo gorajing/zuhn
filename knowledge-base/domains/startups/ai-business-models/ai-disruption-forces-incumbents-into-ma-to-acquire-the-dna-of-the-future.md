@@ -54,8 +54,8 @@ related:
   - INS-260323-CB34
   - INS-260327-3136
   - INS-260327-EFA6
-  - INS-260327-7F73
   - INS-260327-ACB3
+  - INS-260328-02A0
 stance: >-
   AI threatens every incumbent company simultaneously, driving a wave of M&A as
   corporations acquire startups to reconstruct how they work rather tha...

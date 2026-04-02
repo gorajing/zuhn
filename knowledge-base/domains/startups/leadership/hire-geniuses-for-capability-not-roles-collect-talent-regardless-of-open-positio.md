@@ -50,11 +50,11 @@ stance: >-
   rather than filling predefined positions with the best available candidate
   from a limited pool.
 related:
+  - INS-260402-F04F
   - INS-260328-FF2C
   - INS-260326-D8B9
   - INS-260321-33FC
   - INS-260330-CC7D
-  - INS-260402-2A1D
 ---
 Naval argues that trying to fill predefined roles is a trap borrowed from large company HR practices. When you interview marketing candidates and hire the best from that set, you're optimizing within a constrained pool rather than optimizing for genius. If you find someone truly exceptional who doesn't fit any current need, hire them anyway — great people identify problems and get involved regardless of their job description.
 

@@ -51,7 +51,7 @@ related:
   - INS-260323-BC61
   - INS-260327-3B91
   - INS-260322-019A
+  - INS-260402-8595
   - PRI-260323-F193
-  - INS-260329-CB6D
 ---
 Gokul Rajaram's 8-moat framework extends Hamilton Helmer's 7 Powers for the AI era: (1) Data — proprietary data nobody else has (Spotify's decade of listening behavior), (2) Workflow — depth of operational embedding (NetSuite runs your business vs Zendesk's lighter touch), (3) Regulatory — licenses and compliance requirements (Coinbase's state-by-state money transmission licenses), (4) Distribution — proprietary channels (Intuit trained CPAs to only use QuickBooks), (5) Ecosystem — third-party developer platform (Shopify's thousands of apps), (6) Network — marketplace density and liquidity (DoorDash), (7) Physical infrastructure — atoms-based barriers, (8) Scale — cost advantages from volume (Amazon, TSMC). Score each 0-1 and companies with 4+ are secure; below 2 signals real vulnerability.

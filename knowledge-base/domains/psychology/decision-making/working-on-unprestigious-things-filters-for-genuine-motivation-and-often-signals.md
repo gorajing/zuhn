@@ -53,9 +53,10 @@ stance: >-
 related:
   - INS-260330-1C90
   - INS-260329-F21F
+  - INS-260402-8223
   - INS-260402-9093
+  - INS-260402-4451
   - INS-260402-0392
-  - INS-260330-D61A
 ---
 Graham identifies a 'conspicuous pattern' across his life: still life painting (least prestigious painting form), Viaweb (seemed lame), Y Combinator (seemed lame), online essays (seemed like nutjob rants), and Lisp (intellectually respected but unhip) all turned out to be deeply valuable pursuits. The pattern works as a double filter.
 

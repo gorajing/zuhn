@@ -48,10 +48,10 @@ stance: >-
   by others, not ones nobody has ever thought of.
 related:
   - INS-260321-6BA7
+  - INS-260402-F08D
   - INS-260329-1739
   - INS-260327-E7A3
   - PRI-260328-04FA
-  - INS-260325-0147
   - INS-260330-4EF8
 evidence:
   - id: INS-260321-6BA7

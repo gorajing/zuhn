@@ -57,6 +57,7 @@ related:
   - INS-260330-C0B9
   - INS-260330-FE9E
   - INS-260327-CEE4
+  - INS-260402-4451
 ---
 Graham identifies a clean incentive trap: dedicated watchdog roles (compliance officers, inclusion administrators, security theater staff) pursue their designated problems as if their jobs depended on it — because they do. If no problems are found, the role has no justification. This creates a ratchet effect where the monitored problem appears to grow over time regardless of its actual trajectory.
 

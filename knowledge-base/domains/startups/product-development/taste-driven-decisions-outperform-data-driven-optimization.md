@@ -44,6 +44,6 @@ related:
   - INS-260330-1282
   - INS-260329-2EB1
   - INS-260330-725C
-  - INS-260330-3CD9
+  - INS-260402-D2C9
 ---
 At Apple, the color of the add-to-cart button on a $12B/year store was decided by a single email thread ending with Steve Jobs deferring to the head of marketing communications who made a taste-based judgment. No bucket testing, no conversion optimization. Baxley contrasts this with the data-obsessed culture at most tech companies. The philosophy was rooted in Apple's unstated vision: personal computing should have a transformative effect on the lives of individuals. Money was never discussed as a motivation — the focus was always on craft and user experience.

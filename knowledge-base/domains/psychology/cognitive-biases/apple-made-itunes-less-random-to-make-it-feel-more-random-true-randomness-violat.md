@@ -54,7 +54,6 @@ stance: >-
   pattern-detection machinery demands structured sequences, forcing product
   designers to fake disorder
 related:
-  - INS-260325-696D
   - INS-260325-B067
   - INS-260325-436A
   - INS-260329-5D8A

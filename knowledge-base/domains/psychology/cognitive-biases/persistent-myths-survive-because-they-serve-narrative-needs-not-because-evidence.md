@@ -56,7 +56,7 @@ related:
   - INS-260330-41DB
   - INS-260330-4FA3
   - INS-260330-CC51
-  - INS-260330-420B
+  - INS-260402-E76D
 ---
 The idea that Columbus set out to prove the Earth was round — and that people before him thought it was flat — is a fabrication popularized by Washington Irving in 1828. In reality, ancient Greeks had measured Earth's circumference with reasonable accuracy, and medieval scholars universally accepted a spherical Earth. The myth persists because it creates a satisfying narrative: brave explorer challenges ignorant masses.
 

@@ -55,5 +55,6 @@ related:
   - INS-260330-C172
   - INS-260330-9BB7
   - INS-260330-6844
+  - INS-260402-1CAD
 ---
 Susan Haack proposed that knowledge works like a crossword puzzle: each answer (belief) is supported both by its own clue (direct evidence) and by how well it interlocks with neighboring answers (other beliefs). A single crossing letter constrains weakly, but many crossings make an answer nearly certain. This 'foundherentism' rejects both pure foundationalism (needing one unshakeable base) and pure coherentism (any self-consistent story counts). The practical application is immediate: when evaluating any claim, count how many independent lines of evidence constrain it. A claim supported by physics, historical records, and direct observation simultaneously is far stronger than one supported by a single compelling argument, no matter how persuasive that argument seems.

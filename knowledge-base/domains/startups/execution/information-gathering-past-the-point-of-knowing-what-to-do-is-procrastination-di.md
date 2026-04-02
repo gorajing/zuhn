@@ -51,7 +51,7 @@ related:
   - INS-260325-14A9
   - INS-260328-FE38
   - INS-260330-14A1
-  - INS-260325-0A49
+  - INS-260402-8223
 ---
 Hormozi attended a mastermind, extracted what he needed, then didn't return for 18 months. When he came back, he was the success story — not because of ongoing learning, but because he spent that time executing on what he already knew. He identifies that most events and coaching programs primarily serve social needs, not informational ones.
 

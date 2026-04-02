@@ -50,6 +50,7 @@ related:
   - INS-260327-E75F
   - INS-260323-7A50
   - INS-260329-EDA2
+  - INS-260402-86C4
 stance: >-
   Unlike human children who build world models from minimal data, LLMs require
   the entire internet as a crutch because they mimic rather than underst...

@@ -47,8 +47,8 @@ related:
   - INS-260323-28FB
   - INS-260329-C089
   - INS-260323-9C11
+  - INS-260402-E76D
   - INS-260325-8729
   - INS-260330-DA0B
-  - INS-260329-0B76
 ---
 Hormozi distinguishes between sadness (feeling of no options) and ignorance (not yet knowing the options that exist). This reframe is powerful because it converts an emotional state that produces paralysis into a knowledge gap that produces action. Instead of 'I'm stuck and nothing will change,' the thought becomes 'I don't know the path yet, but paths exist and I can find them.' This connects to locus of control research — people who attribute outcomes to controllable factors (effort, knowledge) outperform those who attribute to uncontrollable ones (luck, circumstances). The practical application is catching yourself in despair and asking 'what don't I know?' instead of 'why is this happening to me?'

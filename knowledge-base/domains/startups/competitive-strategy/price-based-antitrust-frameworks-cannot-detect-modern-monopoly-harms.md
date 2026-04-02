@@ -51,7 +51,6 @@ stance: >-
   systematically fails to identify platform monopolies that harm markets through
   subsidization and data advantages.
 related:
-  - INS-260327-D480
   - PRI-260324-5F05
   - PRI-260328-33E5
   - INS-260327-CC35

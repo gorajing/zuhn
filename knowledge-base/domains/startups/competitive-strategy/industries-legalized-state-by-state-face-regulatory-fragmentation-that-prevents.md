@@ -43,8 +43,8 @@ related:
   - INS-260324-2244
   - INS-260327-5D01
   - INS-260330-174B
+  - INS-260402-B42C
   - PRI-260328-F0B4
-  - INS-260330-1183
 ---
 Cannabis businesses cannot achieve the scale economies that other industries enjoy because state-by-state legalization creates 50 separate regulatory environments that prevent national operations.
 

@@ -58,8 +58,8 @@ related:
   - INS-260320-8632
   - INS-260329-C45C
   - INS-260323-FCC1
+  - INS-260402-C664
   - INS-260328-68BA
-  - INS-260330-35E2
 evidence:
   - id: INS-260320-8632
     type: EXTENDS

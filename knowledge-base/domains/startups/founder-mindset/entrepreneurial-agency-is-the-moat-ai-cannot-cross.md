@@ -53,7 +53,6 @@ stance: >-
   that separate entrepreneurs from job-holders.
 related:
   - INS-260323-C4E2
-  - INS-260323-73AB
   - INS-260325-3A24
   - INS-260327-0053
   - INS-260329-6BE8
@@ -61,6 +60,8 @@ related:
   - INS-260329-723A
   - INS-260327-9C00
   - PRI-260323-1B96
+  - INS-260402-8424
+  - INS-260402-ED85
 ---
 Naval frames entrepreneurial agency as diametrically opposed to job-holding: entrepreneurs operate in unknown domains with extreme self-direction, making any helpful AI an ally rather than a threat. The key insight is structural — AI lacks its own desires, survival instinct, and replication drive, which means it cannot independently identify what problems to solve or why they matter.
 

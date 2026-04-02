@@ -1,6 +1,6 @@
 # Topic: system-building
 
-> 203 insights
+> 205 insights
 
 - `INS-260329-4F8C` [high] Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
 - `INS-260329-A93C` [high] Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable.
@@ -24,6 +24,7 @@
 - `INS-260330-206C` [high] Back-translation creates synthetic training data for rare language pairs, but too much synthetic data degrades quality
 - `INS-260329-5D8A` [high] Any tree-based data structure needs a balancing strategy because real-world data is rarely inserted in random order.
 - `INS-260330-4267` [high] A simple sigmoid-based prior over word frequencies improved the Wordle solver from 4.1 to 3.6 average — a bigger gain than algorithmic sophistication alone.
+- `INS-260402-7A1A` [high] Probabilities have clear semantics for combining evidence; arbitrary scores do not, making probabilistic systems more principled and debuggable.
 - `INS-260320-76D2` [high] Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260327-FF4D` [high] Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
 - `INS-260329-6A60` [high] Python is AI's interface language, but C++ is its execution language — the performance-critical layer underneath every major framework.
@@ -142,6 +143,7 @@
 - `INS-260325-5B7F` [high] Standards enabled computing at scale by allowing workers who didn't understand the underlying science to reliably execute their piece of a complex calculation.
 - `INS-260325-CACA` [high] From non-interchangeable bolts to standardized programming languages, the story of computing's power is inseparable from the story of standardization.
 - `INS-260320-8FFC` [high] Sequential IDs stored in a file would be hallucinated by the LLM — timestamp plus title hash made file creation completely stateless with zero collisions across 74 insights.
+- `INS-260402-3FD8` [high] Simple statistical approaches discover patterns humans miss and scale better than hand-crafted rules.
 - `INS-260329-6936` [high] Declaring types upfront (string, int, bool, double) catches mismatches at compile time — the same principle behind Zod schemas and validated JSON pipelines.
 - `INS-260329-EA2B` [high] Static type systems embody a fail-fast philosophy that catches errors at the earliest possible moment — compile time rather than runtime.
 - `INS-260320-63D3` [high] Each implementation task was dispatched to a fresh subagent with exactly the context it needed — no accumulated confusion from previous tasks.

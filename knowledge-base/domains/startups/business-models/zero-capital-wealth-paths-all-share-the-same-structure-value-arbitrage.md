@@ -48,7 +48,7 @@ related:
   - INS-260329-A6EA
   - INS-260328-A417
   - PRI-260328-2C4C
-  - INS-260329-B424
+  - INS-260402-B653
   - INS-260330-EEED
 ---
 Hormozi's 10 strategies (commission sales, earn-outs, options, real estate leverage, etc.) appear diverse on the surface but share identical underlying mechanics: identify a gap where value can be created or transferred, insert yourself as the delivery mechanism, and capture a fraction of the value created. This reframes the question from 'how do I make money?' to 'where is there a value gap I can fill?' The implication is that aspiring entrepreneurs should stop looking for 'the right business model' and instead develop pattern recognition for value asymmetries in any market they encounter.

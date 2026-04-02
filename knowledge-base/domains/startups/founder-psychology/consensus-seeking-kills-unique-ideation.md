@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260327-5AFE
   - INS-260327-8B1A
+  - INS-260402-33CA
   - INS-260330-0346
   - INS-260402-2A1D
   - INS-260328-A9D2
-  - INS-260329-4D06
 ---
 Nonconformist and 'weird' people have a natural advantage in startup ideation because they constantly generate ideas that diverge from consensus. Their bigger challenge is filtering which unique idea to pursue, not generating them. Conversely, people who excel at triangulating consensus — a skill rewarded in most institutional settings — find unique ideation hardest because that instinct has been systematically trained into them.
 

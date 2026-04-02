@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 149 insights
+> 150 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -105,6 +105,7 @@
 - `INS-260322-A892` [high] An early startup is like an egg (simple: find customers, build product, don't die) while a late-stage company is a full chicken (international, multi-product, M&A, compliance) — but three CEO responsibilities persist across all stages.
 - `INS-260327-F7BD` [high] Mati describes the CEO magic as being able to zoom out to strategy and zoom into product detail extremely quickly, switching between contexts in seconds.
 - `INS-260323-9146` [high] Finding a co-founder is as serious as choosing a spouse — the 'airport test' (who would you rather be stranded with for 48 hours) matters more than skills on paper.
+- `INS-260402-D2C9` [high] You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260325-75EA` [high] A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
 - `INS-260325-6F89` [high] The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
 - `INS-260330-654D` [high] The Mandate of Heaven principle — that rulers lose legitimacy when they stop delivering — maps directly to how founders and CEOs lose authority.

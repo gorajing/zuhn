@@ -56,6 +56,7 @@ related:
   - INS-260325-5F3B
   - INS-260327-4E8E
   - INS-260327-FDF4
+  - INS-260402-1F41
 ---
 Paperclip supports mixing different AI models across agent roles: a frontier model like Claude Opus as CEO for strategic thinking, a cheaper model via Open Router for routine tasks, and potentially free models for simple work. This reflects what practitioners have discovered -- different models genuinely have different 'personalities' and excel at different types of work.
 

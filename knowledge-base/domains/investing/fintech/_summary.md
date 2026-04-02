@@ -1,6 +1,6 @@
 # Topic: fintech
 
-> 71 insights
+> 72 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
@@ -23,6 +23,7 @@
 - `INS-260322-BC97` [high] The fintech industry has largely digitized traditional financial services (access), but hasn't yet made them excellent — better credit scoring, smarter risk models, and real financial intelligence are the next frontier.
 - `INS-260329-AA2C` [high] FPGAs execute trading logic at hardware speed, making sub-microsecond decisions before software-based systems can even begin processing.
 - `INS-260329-CD02` [high] FPGAs run trading logic in reconfigurable hardware, making decisions in sub-microsecond latency before a CPU thread could even spin up.
+- `INS-260402-B653` [high] Fractionalization turns capital-gated asset classes into accessible markets by lowering the minimum ownership unit to near-zero.
 - `INS-260330-4370` [high] Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
 - `INS-260329-C409` [high] HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
 - `INS-260327-FF64` [high] Financial professionals used to agree that above a certain income you could brute-force your way through dumb financial decisions and still get richer - that threshold has risen beyond most high earners' reach.

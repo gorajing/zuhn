@@ -49,6 +49,6 @@ related:
   - INS-260330-3A3E
   - INS-260330-FE9E
   - INS-260327-98DE
-  - INS-260329-D2CA
+  - INS-260402-C664
 ---
 At Viaweb, support staff sat 30 feet from programmers and could interrupt board meetings to report bugs. This inverted the typical hierarchy where support is a low-status buffer. The result: bugs were reproduced within minutes of being reported, support people became de facto QA and proxy focus groups, and they could accurately predict which features users wanted. When Yahoo moved support away from developers, Graham realized they had lost their QA department, their feature-prioritization oracle, and their early-warning system simultaneously. The insight is that the traditional separation of support from engineering isn't just an org-chart detail — it's an information-destruction mechanism that makes the product worse.

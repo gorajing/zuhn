@@ -52,10 +52,10 @@ stance: >-
   small minorities find each other and form merit-based communities
 related:
   - INS-260321-80A9
+  - INS-260402-AA3F
   - INS-260330-06E3
   - PRI-260328-0C86
   - INS-260329-C45C
-  - INS-260329-DDBC
 ---
 Graham identifies two structural differences that make the real world hospitable to nerds: actions have real effects (making correct answers valuable), and the world is large enough for small minorities to achieve critical mass. In school, intelligence is irrelevant because nothing has real consequences. In business, Bill Gates's social awkwardness is irrelevant because revenue is the real test.
 

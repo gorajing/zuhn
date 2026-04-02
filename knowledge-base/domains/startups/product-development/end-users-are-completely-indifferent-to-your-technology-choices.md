@@ -51,9 +51,9 @@ related:
   - INS-260330-B153
   - INS-260327-EF89
   - INS-260329-2EB1
+  - INS-260402-D2C9
   - INS-260322-116B
   - INS-260329-CEC5
-  - INS-260323-1930
 ---
 This is a simple truth that technical founders chronically forget: your users will never know and never care whether you chose PostgreSQL or MongoDB, whether you deployed on AWS or Firebase, or whether your frontend uses React or plain HTML. They care about speed, reliability, and whether the product solves their problem.
 

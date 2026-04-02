@@ -44,11 +44,11 @@ resolutions:
     the sweet spot between quality and speed to capture the majority who want
     'good enough, fast enough, fair price.'
 related:
+  - INS-260402-B42C
   - INS-260324-8FB4
   - INS-260327-7C23
   - PRI-260324-D701
   - INS-260323-104E
-  - INS-260323-0C3A
 stance: >-
   80% of US barbershops remain independent despite 40 years of corporate
   attempts because the core asset (barber talent) can walk out and open their

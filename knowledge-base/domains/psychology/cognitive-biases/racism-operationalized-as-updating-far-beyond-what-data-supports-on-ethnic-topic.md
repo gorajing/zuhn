@@ -61,7 +61,7 @@ related:
   - INS-260330-141E
   - INS-260330-237E
   - INS-260330-420B
-  - PRI-260325-45A2
+  - INS-260402-3FD8
 ---
 Alexander proposes a functional definition of racism that cuts through the usual definitional debates: racism is a bias that makes people update on racial topics far beyond what the data allow. If 0.1% of whites and 0.2% of blacks commit murder, racism is what takes that small difference and produces behavior like treating every black person as a potential murderer. The useful test is whether someone's conclusion is proportionate to their evidence — moving from '26% disagreed with a poll question' to 'an entire ethnic group of 30 million people is a hate group you should flee from' is exactly the kind of disproportionate leap this definition captures.
 

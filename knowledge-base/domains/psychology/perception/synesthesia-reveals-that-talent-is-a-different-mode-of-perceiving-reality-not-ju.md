@@ -50,7 +50,6 @@ resolutions:
 related:
   - INS-260325-D7B1
   - INS-260323-C10D
-  - INS-260321-80A9
   - INS-260322-6D1D
   - INS-260325-6BDE
   - INS-260322-BF4C
@@ -58,6 +57,7 @@ related:
   - INS-260330-2B3F
   - INS-260330-8B24
   - INS-260327-B59B
+  - INS-260327-680A
 stance: 'Musicians like Charlie Puth experience notes as colors, tastes, and shapes'
 evidence:
   - id: INS-260323-C10D

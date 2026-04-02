@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 116 insights
+> 117 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260322-FCFC` [high] Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
@@ -97,6 +97,7 @@
 - `INS-260330-9137` [high] Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
 - `INS-260327-4ED3` [high] Subscriptions have been forced onto products that don't need them — heated car seats, printer ink, software — creating consumer resentment that is now driving backlash against all subscription models.
 - `INS-260327-B9BB` [high] The difference between gardening as a hobby and gardening as income is planning density -- specifically, succession planting where beds are never empty and each crop has a replacement already growing weeks ahead.
+- `INS-260402-B2A2` [high] Tech industry phases are additive layers that compound value, not distinct eras that replace predecessors.
 - `INS-260324-157A` [high] Chinese merchants on Wish/Temu profit on $1-10 items because of low cost of living, cheap rural warehouses, and subsidized state-owned postal services — the platform takes a cut while owning zero inventory.
 - `INS-260327-C6A9` [high] Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards ear
 - `INS-260327-AFC7` [high] The French Intensive system generating six-figure incomes from small plots was abandoned not because it failed but because industrial agriculture needed farmers dependent on tractors, chemicals, and commodity markets.

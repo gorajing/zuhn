@@ -5,3 +5,4 @@
 - `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260402-A2F1` When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
+- `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.

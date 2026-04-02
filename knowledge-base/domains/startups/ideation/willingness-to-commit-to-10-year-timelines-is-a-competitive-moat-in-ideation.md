@@ -43,7 +43,7 @@ related:
   - PRI-260328-04FA
   - INS-260323-19A8
   - INS-260329-4DBC
-  - INS-260402-D739
+  - INS-260402-F08D
   - INS-260322-AAEA
 stance: >-
   Most founders filter out ideas requiring more than two years to work, so

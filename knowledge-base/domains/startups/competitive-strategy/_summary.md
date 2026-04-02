@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 368 insights
+> 372 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -66,6 +66,8 @@
 - `INS-260330-6088` [high] Extreme brand diversification neutralizes reputational risk by making the parent company invisible to consumers.
 - `INS-260330-E4B6` [high] Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260330-1B8A` [high] The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
+- `INS-260402-E2FF` [high] Make the adversary's business model unviable rather than trying to block every specific attack.
+- `INS-260402-B42C` [high] A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
 - `INS-260327-6900` [high] Car companies responded to consumers who can't afford cars by making cars more expensive than ever - the fundamental constraint is affordability, not technology.
 - `INS-260327-2BE1` [high] GoPro launched 9 generations and 20 models in 10 years but still collapsed because the action camera market was too small for a single-product company, while Nikon and Canon survived smartphones by diversifying into semiconductors, healthcare, and 3D printing.
 - `INS-260327-77C7` [high] When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
@@ -215,6 +217,7 @@
 - `INS-260330-11EB` [high] RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
 - `INS-260330-D4CC` [high] RuBisCo fails 50% of the time in today's atmosphere but remains life's only carbon-fixation enzyme because plants invested too heavily to switch.
 - `INS-260330-1650` [high] RuBisCo evolved for a high-CO2 world and now fails half the time with O2, but plants can't switch — they just cope with the toxic byproducts.
+- `INS-260402-1F41` [high] Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
 - `INS-260330-A25A` [high] Layer 2 and application layers innovate faster than Layer 1 because they don't require community-wide consensus to ship changes.
 - `INS-260330-007E` [high] M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260327-099A` [high] 95% of music downloads were pirated at peak, not because people refused to pay but because piracy was easier - streaming killed piracy by being more convenient, not cheaper.
@@ -361,6 +364,7 @@
 - `INS-260330-ACCD` [medium] China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
 - `INS-260327-EAB0` [medium] Nvidia's 'win-win' culture positions its success as customer success rather than competitor failure, creating ecosystem lock-in through expansion rather than extraction.
 - `INS-260323-BF81` [medium] Altman believes AI tools now enable a single person to build a company worth over a billion dollars, delivering products that previously required teams of hundreds.
+- `INS-260402-8595` [medium] Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - `INS-260327-7C23` [medium] Over 90% of independent NYC pizzerias survive a decade, but the true failure rate is hidden behind thousands of private backroom deals where new operators take over existing names and kitchens.
 - `INS-260322-0E41` [medium] Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model providers means AI startups face taxation risk, not existential platform risk.
 - `INS-260324-1C12` [medium] The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.

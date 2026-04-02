@@ -46,11 +46,11 @@ stance: >-
   A tiny minority of expert practitioners determines what tools everyone else
   uses because they write the best work and often directly manage others
 related:
+  - INS-260402-C664
   - INS-260402-46AD
+  - INS-260402-AA3F
   - INS-260323-7D3C
   - INS-260330-5036
-  - INS-260330-CAD2
-  - INS-260327-D8D1
 evidence:
   - id: INS-260323-B029
     type: CHALLENGES

@@ -55,8 +55,8 @@ related:
   - INS-260323-C814
   - INS-260327-AAFA
   - INS-260330-D61A
+  - INS-260402-8223
   - INS-260330-1F41
-  - INS-260328-E410
 ---
 Graham describes how the mediocrity of school bred a rebelliousness that actively drove kids away from learning. Years after high school, he couldn't bring himself to read anything that had been assigned. Worse, words like 'character' and 'integrity' were so debased by their institutional usage that he rejected the concepts entirely.
 

@@ -56,10 +56,10 @@ stance: >-
   more productive than trying to write elegant code from the start.
 related:
   - INS-260329-393C
+  - INS-260402-2CAF
   - INS-260329-1ACD
   - INS-260329-500E
   - INS-260329-E839
-  - INS-260329-7BAF
   - INS-260329-6D6C
 evidence:
   - id: INS-260329-E839

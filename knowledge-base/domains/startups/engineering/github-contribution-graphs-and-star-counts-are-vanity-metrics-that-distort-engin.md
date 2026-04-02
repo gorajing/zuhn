@@ -55,7 +55,7 @@ related:
   - INS-260330-E8C6
   - INS-260328-D0F6
   - INS-260327-BB4A
-  - INS-260323-1930
+  - INS-260402-AA3F
 ---
 The video satirizes developers who obsess over GitHub contribution graphs and star counts as proof of skill. This maps to a real failure mode in engineering hiring: using GitHub profiles as a screening signal. Contribution graphs can be trivially gamed (automated commits, documentation-only PRs), star counts reflect marketing ability more than code quality, and the entire metric set is biased against developers who work on proprietary codebases or simply have lives outside of coding.
 

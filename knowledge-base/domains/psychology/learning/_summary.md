@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 202 insights
+> 204 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -11,6 +11,7 @@
 - `INS-260330-74A0` [high] Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-FB5A` [high] Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-AC16` [high] Changing beliefs is like blazing a new trail next to a four-lane highway of old patterns — it works, but takes persistent effort over months or years, not weeks.
+- `INS-260402-4451` [high] You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260330-1298` [high] Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.
 - `INS-260330-1DDE` [high] Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-137C` [high] Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
@@ -63,6 +64,7 @@
 - `INS-260330-B7C6` [high] Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
 - `INS-260329-04CB` [high] Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
 - `INS-260330-6C09` [high] Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
+- `INS-260402-E76D` [high] Innocence is not ignorance — it's the open-mindedness required for continued learning, and premature cynicism permanently narrows intellectual horizons.
 - `INS-260330-FB50` [high] Newton invented calculus at age 23 because 1600s mathematics couldn't calculate a falling moon's trajectory — necessity of the problem forced creation of an entirely new mathematical discipline.
 - `INS-260330-D7CC` [high] Overconfidence in dangerous domains creates the conditions for the worst failures.
 - `INS-260330-35CB` [high] Seeing the answer and proving the answer are separate skills — undergraduate math training primarily builds the latter.

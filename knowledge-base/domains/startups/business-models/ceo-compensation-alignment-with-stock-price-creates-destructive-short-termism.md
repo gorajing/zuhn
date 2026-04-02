@@ -50,8 +50,8 @@ related:
   - INS-260330-808B
   - INS-260330-7E58
   - INS-260330-855A
+  - INS-260402-3F92
   - INS-260327-EAB9
-  - INS-260330-106F
 ---
 The 1970s introduced stock-based CEO compensation to 'align' executive and shareholder interests. CEO pay went from 20x average employee (1965) to 300x+ today, almost entirely in stock-linked compensation. This created a powerful incentive to maximize stock price by any means.
 
