@@ -22,9 +22,10 @@ jobs:
       - name: Run tests
         run: npm test
 
-      - name: Verify hook scripts are executable
+      - name: Verify hook templates are executable
         run: |
-          for f in .claude/hooks/*.sh; do
+          for f in .claude.example/hooks/*.sh templates/hooks/*.sh; do
+            [ -f "$f" ] || continue
             [ -x "$f" ] || { echo "FAIL: $f is not executable (run: chmod +x $f)"; exit 1; }
           done
-          echo "All hooks executable"
+          echo "All hook templates executable"
