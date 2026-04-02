@@ -10,6 +10,7 @@ import { initDb, type InsightRow } from "./lib/db";
 
 const KB_ROOT = join(__dirname, "../knowledge-base");
 const VIEWS_DIR = join(KB_ROOT, "views");
+const META_DIR = join(KB_ROOT, "meta");
 
 function today(): string {
   return new Date().toISOString().slice(0, 10);
@@ -90,6 +91,31 @@ function generateDigest(scored: ScoredInsight[]): string {
   return lines.join("\n");
 }
 
+// ─── Stale insight detection (Phase 7b) ────────────────────────────
+
+/**
+ * Detect insights whose shelf_life window has expired.
+ * - time-sensitive: stale after 6 months from extraction
+ * - evergreen: never stale (infinite shelf life)
+ */
+function detectStaleInsights(insights: InsightRow[], now: Date): InsightRow[] {
+  const STALE_THRESHOLD_DAYS: Record<string, number> = {
+    "time-sensitive": 180,  // 6 months
+    // "evergreen" is never stale
+  };
+
+  return insights.filter(insight => {
+    const threshold = STALE_THRESHOLD_DAYS[insight.shelf_life];
+    if (threshold == null) return false;  // evergreen or unknown
+
+    const refDate = insight.date_extracted;
+    if (!refDate) return false;
+
+    const ageDays = (now.getTime() - new Date(refDate).getTime()) / (1000 * 60 * 60 * 24);
+    return ageDays > threshold;
+  });
+}
+
 // ─── Main ────────────────────────────────────────────────────────────
 
 async function main(): Promise<void> {
@@ -131,6 +157,32 @@ async function main(): Promise<void> {
 
   // Print to stdout
   console.log(digest);
+
+  // 7b: Detect stale insights (shelf_life window expired)
+  const staleInsights = detectStaleInsights(activeInsights, now);
+  if (staleInsights.length > 0) {
+    console.log(`\n⚠ ${staleInsights.length} stale insight(s) detected (shelf_life window expired):`);
+    for (const s of staleInsights.slice(0, 10)) {
+      console.log(`  - ${s.id}: ${s.title} (${s.shelf_life}, extracted ${s.date_extracted ?? "unknown"})`);
+    }
+
+    // Write stale section to meta/stale-insights.json
+    await mkdir(META_DIR, { recursive: true });
+    const stalePath = join(META_DIR, "stale-insights.json");
+    await writeFile(stalePath, JSON.stringify({
+      generated_at: now.toISOString(),
+      count: staleInsights.length,
+      insights: staleInsights.map(i => ({
+        id: i.id,
+        title: i.title,
+        domain: i.domain,
+        topic: i.topic,
+        shelf_life: i.shelf_life,
+        date_extracted: i.date_extracted,
+      })),
+    }, null, 2), "utf-8");
+    console.log(`  Written: meta/stale-insights.json`);
+  }
 
   db.close();
 }

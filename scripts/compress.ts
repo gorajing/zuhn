@@ -4,6 +4,8 @@ import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import fg from "fast-glob";
 import matter from "gray-matter";
+import { initDb, getConnectionsForInsights } from "./lib/db";
+import { computePageRank } from "./lib/pagerank";
 
 const PROJECT_ROOT = join(__dirname, "..");
 const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
@@ -172,7 +174,8 @@ function printCompressionPrompt(
   domain: string,
   topic: string,
   insights: InsightEntry[],
-  principles: PrincipleEntry[]
+  principles: PrincipleEntry[],
+  pagerankSeed?: string | null
 ): void {
   const label = `${domain}/${topic}`;
   const pad = label.length + 20;
@@ -183,11 +186,15 @@ function printCompressionPrompt(
   console.log(`╚${border}╝`);
   console.log();
 
-  // Insights section
+  // Insights section (sorted by PageRank when connections data is available)
   console.log(`## Insights to Compress (${insights.length} total)`);
+  if (pagerankSeed) {
+    console.log(`PageRank seed (most connected insight): ${pagerankSeed}`);
+  }
   console.log();
   for (let i = 0; i < insights.length; i++) {
-    console.log(`${i + 1}. [${insights[i].id}] "${insights[i].oneLine}"`);
+    const marker = insights[i].id === pagerankSeed ? " ★" : "";
+    console.log(`${i + 1}. [${insights[i].id}] "${insights[i].oneLine}"${marker}`);
   }
   console.log();
 
@@ -228,10 +235,20 @@ function printCompressionPrompt(
         confidence: "high",
         supporting_insights: ["INS-XXXXXX-XXXX", "INS-XXXXXX-XXXX"],
         tags: ["tag1", "tag2"],
+        lineage: {
+          source_insights: [
+            { id: "INS-XXXXXX-XXXX", relation: "SUPPORTS" },
+            { id: "INS-XXXXXX-XXXX", relation: "CHALLENGES" },
+          ],
+          compression_trigger: "COMPRESS flag — N insights, M principle(s)",
+        },
       },
     ],
   }, null, 2));
   console.log("```");
+  console.log();
+  console.log("Lineage relations: SUPPORTS, CONTRADICTS, EXTENDS, TRANSFERS_TO, REFINES, CHALLENGES");
+  console.log("For each supporting insight, classify its relationship to the principle.");
 }
 
 // ─── Main ────────────────────────────────────────────────────────────
@@ -249,7 +266,7 @@ async function main(): Promise<void> {
       process.exit(0);
     }
 
-    console.log("Topics flagged for compression:\n");
+    console.log("Topics flagged for compression (sorted by surprise score):\n");
     for (let i = 0; i < targets.length; i++) {
       console.log(`  ${i + 1}. ${targets[i].domain}/${targets[i].topic}`);
     }
@@ -276,8 +293,27 @@ async function main(): Promise<void> {
 
   const principles = await loadPrinciples(domain);
 
+  // Run PageRank on the insight subgraph to find the seed insight
+  let pagerankSeed: string | null = null;
+  try {
+    const db = initDb();
+    const insightIds = insights.map(i => i.id);
+    const connections = getConnectionsForInsights(db, insightIds);
+    db.close();
+
+    if (connections.length > 0) {
+      const { scores, seed } = computePageRank(insightIds, connections);
+      pagerankSeed = seed;
+
+      // Sort insights by PageRank score descending (seed first)
+      insights.sort((a, b) => (scores.get(b.id) ?? 0) - (scores.get(a.id) ?? 0));
+    }
+  } catch {
+    // If connections table is empty or DB unavailable, fall back to default sort
+  }
+
   // Output the compression prompt
-  printCompressionPrompt(domain, topicName, insights, principles);
+  printCompressionPrompt(domain, topicName, insights, principles, pagerankSeed);
 }
 
 main().catch((err) => {

@@ -19,6 +19,9 @@ export interface EmergenceFlag {
   topic: string;
   insightCount: number;
   principleCount: number;
+  surpriseScore: number;    // (tensionCount * 2 + transferCount) / insightCount
+  tensionCount: number;     // CONTRADICTS + CHALLENGES edges within topic
+  transferCount: number;    // TRANSFERS_TO edges out of topic
 }
 
 export interface ConfidenceChange {
@@ -76,12 +79,20 @@ export interface EmpiricalChange {
   cascade: "direct" | "supporting";
 }
 
+export interface LinkPredictFlag {
+  fromId: string;
+  toId: string;
+  commonCount: number;
+  score: number;
+}
+
 export interface LearningFlags {
   compress: EmergenceFlag[];
   discover: ClusterFlag[];
   gaps: GapFlag[];
   transfers: TransferFlag[];
   synthesize: SynthesizeFlag[];
+  linkPredictions: LinkPredictFlag[];
 }
 
 interface NeighborRow {
@@ -221,6 +232,95 @@ async function updateFrontmatterRelated(
   return true;
 }
 
+// ─── Phase 7c: Confidence Trajectory Tracking ─────────────────────
+
+/**
+ * Update confidence_trajectory on connections based on whether the
+ * related[] graph (Fast Graph) still links the same pairs.
+ *
+ * If a typed connection's endpoints are still neighbors in related[],
+ * update last_confirmed and set trajectory to 'stable' or 'increasing'.
+ * If they're no longer neighbors, set trajectory to 'decreasing'.
+ */
+export function updateConnectionTrajectories(
+  db: Database.Database,
+  relatedGraph: Map<string, Set<string>>
+): { confirmed: number; decreasing: number } {
+  const now = new Date().toISOString();
+  let confirmed = 0;
+  let decreasing = 0;
+
+  // Get all non-PREDICTED connections
+  const connections = db.prepare(`
+    SELECT from_id, to_id, confidence_trajectory
+    FROM connections
+    WHERE type != 'PREDICTED'
+  `).all() as Array<{ from_id: string; to_id: string; confidence_trajectory: string | null }>;
+
+  const confirmStmt = db.prepare(`
+    UPDATE connections
+    SET last_confirmed = ?, confidence_trajectory = ?
+    WHERE from_id = ? AND to_id = ?
+  `);
+
+  const update = db.transaction(() => {
+    for (const conn of connections) {
+      const neighborsA = relatedGraph.get(conn.from_id);
+      const neighborsB = relatedGraph.get(conn.to_id);
+
+      // Check if still connected in either direction
+      const stillLinked =
+        (neighborsA?.has(conn.to_id) ?? false) ||
+        (neighborsB?.has(conn.from_id) ?? false);
+
+      if (stillLinked) {
+        const oldTrajectory = conn.confidence_trajectory ?? "stable";
+        const newTrajectory = oldTrajectory === "decreasing" ? "stable" : oldTrajectory === "stable" ? "stable" : "increasing";
+        confirmStmt.run(now, newTrajectory, conn.from_id, conn.to_id);
+        confirmed++;
+      } else {
+        confirmStmt.run(null, "decreasing", conn.from_id, conn.to_id);
+        decreasing++;
+      }
+    }
+  });
+
+  update();
+  return { confirmed, decreasing };
+}
+
+/**
+ * Build the related[] graph as a Map<id, Set<relatedIds>> by reading
+ * all insight files. Used by common neighbors link prediction.
+ */
+export async function buildRelatedGraph(
+  db: Database.Database,
+  kbRoot: string
+): Promise<Map<string, Set<string>>> {
+  const graph = new Map<string, Set<string>>();
+
+  const rows = db
+    .prepare("SELECT id, file_path FROM insights")
+    .all() as Array<{ id: string; file_path: string }>;
+
+  for (const row of rows) {
+    const filePath = row.file_path.startsWith("/")
+      ? row.file_path
+      : join(kbRoot, row.file_path);
+
+    try {
+      const raw = await readFile(filePath, "utf-8");
+      const { data } = matter(raw);
+      const related = Array.isArray(data.related) ? data.related as string[] : [];
+      graph.set(row.id, new Set(related));
+    } catch {
+      graph.set(row.id, new Set());
+    }
+  }
+
+  return graph;
+}
+
 // ─── Mechanism 2: Principle Emergence Detection ─────────────────────
 
 /**
@@ -228,7 +328,8 @@ async function updateFrontmatterRelated(
  * and principles == 0 (or ratio > 5:1), flags for compression.
  */
 export async function detectEmergence(
-  kbRoot: string
+  kbRoot: string,
+  db?: Database.Database
 ): Promise<EmergenceFlag[]> {
   // 1. Count insights per domain/topic by scanning domains/
   const insightFiles = await fg("domains/**/*.md", {
@@ -299,7 +400,43 @@ export async function detectEmergence(
     }
   }
 
-  // 3. Flag topics using tiered thresholds based on topic size
+  // 3. Query connections table for tension/transfer counts per topic (if db available)
+  const topicTensionCounts = new Map<string, number>();
+  const topicTransferCounts = new Map<string, number>();
+
+  if (db) {
+    // Count CONTRADICTS + CHALLENGES edges where both endpoints are in the same topic
+    const tensionRows = db.prepare(`
+      SELECT i1.domain || '/' || i1.topic AS topic_key, COUNT(*) AS cnt
+      FROM connections c
+      JOIN insights i1 ON c.from_id = i1.id
+      JOIN insights i2 ON c.to_id = i2.id
+      WHERE c.type IN ('CONTRADICTS', 'CHALLENGES')
+        AND i1.domain = i2.domain AND i1.topic = i2.topic
+      GROUP BY topic_key
+    `).all() as Array<{ topic_key: string; cnt: number }>;
+
+    for (const row of tensionRows) {
+      topicTensionCounts.set(row.topic_key, row.cnt);
+    }
+
+    // Count TRANSFERS_TO edges going OUT of each topic
+    const transferRows = db.prepare(`
+      SELECT i1.domain || '/' || i1.topic AS topic_key, COUNT(*) AS cnt
+      FROM connections c
+      JOIN insights i1 ON c.from_id = i1.id
+      JOIN insights i2 ON c.to_id = i2.id
+      WHERE c.type = 'TRANSFERS_TO'
+        AND (i1.domain != i2.domain OR i1.topic != i2.topic)
+      GROUP BY topic_key
+    `).all() as Array<{ topic_key: string; cnt: number }>;
+
+    for (const row of transferRows) {
+      topicTransferCounts.set(row.topic_key, row.cnt);
+    }
+  }
+
+  // 4. Flag topics using tiered thresholds based on topic size
   //    - Tiny topics (<15 insights): skip — not enough signal to compress
   //    - Small topics (15-49): flag if 0 principles
   //    - Medium topics (50-99): flag if ratio > 10:1
@@ -325,12 +462,18 @@ export async function detectEmergence(
     }
 
     if (shouldFlag) {
-      flags.push({ domain, topic, insightCount, principleCount });
+      const tensionCount = topicTensionCounts.get(key) ?? 0;
+      const transferCount = topicTransferCounts.get(key) ?? 0;
+      const surpriseScore = insightCount > 0
+        ? (tensionCount * 2 + transferCount) / insightCount
+        : 0;
+
+      flags.push({ domain, topic, insightCount, principleCount, surpriseScore, tensionCount, transferCount });
     }
   }
 
-  // Sort by insight count descending for consistent output
-  flags.sort((a, b) => b.insightCount - a.insightCount);
+  // Sort by surprise score descending, then insight count as tiebreaker
+  flags.sort((a, b) => b.surpriseScore - a.surpriseScore || b.insightCount - a.insightCount);
 
   return flags;
 }
@@ -1828,7 +1971,7 @@ export async function writeFlagsFile(
   lines.push(`Generated by learn.ts on ${now}`);
   lines.push("");
 
-  // COMPRESS section
+  // COMPRESS section (sorted by surprise score — topics with more tensions/transfers compress first)
   lines.push("## COMPRESS");
   if (flags.compress.length === 0) {
     lines.push("None.");
@@ -1838,8 +1981,11 @@ export async function writeFlagsFile(
         flag.principleCount === 0
           ? `${flag.insightCount}:0`
           : `${flag.insightCount}:${flag.principleCount}`;
+      const surprise = flag.surpriseScore > 0
+        ? ` | surprise: ${flag.surpriseScore.toFixed(2)} (${flag.tensionCount} tensions, ${flag.transferCount} transfers)`
+        : "";
       lines.push(
-        `- ${flag.domain}/${flag.topic}: ${flag.insightCount} insights, ${flag.principleCount} principles (ratio: ${ratio})`
+        `- ${flag.domain}/${flag.topic}: ${flag.insightCount} insights, ${flag.principleCount} principles (ratio: ${ratio})${surprise}`
       );
     }
   }
@@ -1898,6 +2044,21 @@ export async function writeFlagsFile(
     }
     lines.push("");
     lines.push("Review candidates: meta/synthesis-candidates.json");
+  }
+  lines.push("");
+
+  // LINK_PREDICT section
+  lines.push("## LINK_PREDICT");
+  if (flags.linkPredictions.length === 0) {
+    lines.push("None.");
+  } else {
+    for (const pred of flags.linkPredictions) {
+      lines.push(
+        `- ${pred.fromId} ↔ ${pred.toId}: ${pred.commonCount} common neighbors (score: ${pred.score.toFixed(2)})`
+      );
+    }
+    lines.push("");
+    lines.push("These are structurally predicted links — run classify-edges to confirm.");
   }
   lines.push("");
 

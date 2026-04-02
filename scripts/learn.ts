@@ -5,6 +5,8 @@ import { initDb } from "./lib/db";
 import { initVectorTable } from "./lib/vector-search";
 import {
   discoverConnections,
+  buildRelatedGraph,
+  updateConnectionTrajectories,
   detectEmergence,
   propagateConfidence,
   discoverClusters,
@@ -14,7 +16,9 @@ import {
   detectTensions,
   propagateEmpiricalConfidence,
   writeFlagsFile,
+  type LinkPredictFlag,
 } from "./lib/learning";
+import { predictLinks, writePredictedLinks } from "./lib/common-neighbors";
 
 const KB_ROOT = join(__dirname, "../knowledge-base");
 
@@ -42,17 +46,48 @@ async function main(): Promise<void> {
       `\nUpdated ${connectionResult.totalUpdated} insight(s) with related connections.\n`
     );
 
-    // 3. Mechanism 2: Principle Emergence Detection
+    // 2b. Link Prediction via Common Neighbors
+    console.log("── Link Prediction: Common Neighbors ──");
+    const relatedGraph = await buildRelatedGraph(db, KB_ROOT);
+    const predictedLinks = predictLinks(db, relatedGraph);
+    const linkPredictFlags: LinkPredictFlag[] = predictedLinks.map(p => ({
+      fromId: p.fromId,
+      toId: p.toId,
+      commonCount: p.commonCount,
+      score: p.score,
+    }));
+    if (predictedLinks.length > 0) {
+      const written = writePredictedLinks(db, predictedLinks);
+      console.log(`  ${predictedLinks.length} predicted link(s) found, ${written} new written to connections table.`);
+    } else {
+      console.log("  No predicted links found.");
+    }
+    console.log();
+
+    // 2c. Confidence Trajectory Tracking (Phase 7c)
+    console.log("── Trajectory Tracking ────────────────");
+    const { confirmed, decreasing } = updateConnectionTrajectories(db, relatedGraph);
+    if (confirmed > 0 || decreasing > 0) {
+      console.log(`  ${confirmed} connection(s) confirmed, ${decreasing} decreasing.`);
+    } else {
+      console.log("  No typed connections to track yet.");
+    }
+    console.log();
+
+    // 3. Mechanism 2: Principle Emergence Detection (with surprise scoring from connections)
     console.log("── Mechanism 2: Emergence Detection ───");
-    const compressFlags = await detectEmergence(KB_ROOT);
+    const compressFlags = await detectEmergence(KB_ROOT, db);
     if (compressFlags.length > 0) {
       for (const flag of compressFlags) {
         const ratio =
           flag.principleCount === 0
             ? `${flag.insightCount}:0`
             : `${flag.insightCount}:${flag.principleCount}`;
+        const surprise = flag.surpriseScore > 0
+          ? ` ⚡${flag.surpriseScore.toFixed(2)} (${flag.tensionCount}T/${flag.transferCount}X)`
+          : "";
         console.log(
-          `  COMPRESS: ${flag.domain}/${flag.topic} — ${flag.insightCount} insights, ${flag.principleCount} principles (${ratio})`
+          `  COMPRESS: ${flag.domain}/${flag.topic} — ${flag.insightCount} insights, ${flag.principleCount} principles (${ratio})${surprise}`
         );
       }
     } else {
@@ -167,6 +202,7 @@ async function main(): Promise<void> {
       gaps: gapFlags,
       transfers: transferFlags,
       synthesize: synthesizeFlags,
+      linkPredictions: linkPredictFlags,
     };
     await writeFlagsFile(KB_ROOT, allFlags);
     const totalFlags =
@@ -174,7 +210,8 @@ async function main(): Promise<void> {
       clusterFlags.length +
       gapFlags.length +
       transferFlags.length +
-      synthesizeFlags.length;
+      synthesizeFlags.length +
+      linkPredictFlags.length;
     console.log(`Wrote ${totalFlags} flag(s) to meta/flags.md.\n`);
 
     // 10. Summary
@@ -201,6 +238,9 @@ async function main(): Promise<void> {
     );
     console.log(
       `│  Synthesis flags:     ${String(synthesizeFlags.length).padEnd(14)}│`
+    );
+    console.log(
+      `│  Link predictions:    ${String(linkPredictFlags.length).padEnd(14)}│`
     );
     console.log(
       `│  Tensions created:    ${String(tensionResult.newTensions).padEnd(14)}│`

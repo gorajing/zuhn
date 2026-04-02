@@ -14,6 +14,17 @@ const KB_ROOT = join(PROJECT_ROOT, "knowledge-base");
 
 // ─── Schema ──────────────────────────────────────────────────────────
 
+const LineageInput = z.object({
+  compressed_at: z.string().optional(),
+  source_insights: z.array(z.object({
+    id: z.string(),
+    relation: z.enum(["SUPPORTS", "CONTRADICTS", "EXTENDS", "TRANSFERS_TO", "REFINES", "CHALLENGES"]).optional(),
+  })).optional(),
+  surprise_score: z.number().optional(),
+  compression_trigger: z.string().optional(),
+  pagerank_seed: z.string().optional(),
+}).optional();
+
 const PrincipleInput = z.object({
   domain: z.string(),
   title: z.string(),
@@ -21,6 +32,7 @@ const PrincipleInput = z.object({
   confidence: z.enum(["pending", "low", "medium", "high", "very_high"]),
   supporting_insights: z.array(z.string()),
   tags: z.array(z.string()),
+  lineage: LineageInput,
 });
 
 const PrinciplesFile = z.object({
@@ -148,6 +160,17 @@ export async function writePrinciples(
           standard: principle.summary,
         },
       };
+
+      // Add provenance lineage if provided
+      if (principle.lineage) {
+        frontmatter.lineage = {
+          compressed_at: principle.lineage.compressed_at ?? today,
+          source_insights: principle.lineage.source_insights ?? principle.supporting_insights.map(id => ({ id })),
+          ...(principle.lineage.surprise_score != null && { surprise_score: principle.lineage.surprise_score }),
+          ...(principle.lineage.compression_trigger && { compression_trigger: principle.lineage.compression_trigger }),
+          ...(principle.lineage.pagerank_seed && { pagerank_seed: principle.lineage.pagerank_seed }),
+        };
+      }
 
       // Write using gray-matter stringify
       const body = principle.summary;

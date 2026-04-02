@@ -443,6 +443,9 @@ describe("writeFlagsFile", () => {
           topic: "claude-code",
           insightCount: 27,
           principleCount: 0,
+          surpriseScore: 0,
+          tensionCount: 0,
+          transferCount: 0,
         },
       ],
       discover: [
@@ -483,6 +486,7 @@ describe("writeFlagsFile", () => {
           similarity: 0.85,
         },
       ],
+      linkPredictions: [],
     };
 
     await writeFlagsFile(kbRoot, flags);
@@ -515,6 +519,7 @@ describe("writeFlagsFile", () => {
       gaps: [],
       transfers: [],
       synthesize: [],
+      linkPredictions: [],
     };
 
     await writeFlagsFile(kbRoot, flags);
@@ -526,9 +531,10 @@ describe("writeFlagsFile", () => {
     expect(content).toContain("## GAP");
     expect(content).toContain("## TRANSFER");
     expect(content).toContain("## SYNTHESIZE");
+    expect(content).toContain("## LINK_PREDICT");
     // Each section should show "None."
     const noneCount = (content.match(/None\./g) || []).length;
-    expect(noneCount).toBe(5);
+    expect(noneCount).toBe(6);
   });
 });
 
