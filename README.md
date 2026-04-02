@@ -176,8 +176,14 @@ npm run mcp                   # Start Zuhn MCP server (read-only knowledge acces
 npm run bench                 # Snapshot knowledge quality metrics
 npm run bench:check           # Regression detection (fails if quality drops)
 
+# Semantic Graph (v2)
+npm run classify-edges        # Classify relationship types for high-signal pairs
+
+# Session Pipeline (v2)
+npm run extract-session       # Process queued session insights (--dry-run to preview)
+
 # Testing
-npm run test                  # Run all 294 tests
+npm run test                  # Run all 300 tests
 npm run test:watch            # Watch mode
 ```
 
@@ -243,7 +249,9 @@ scripts/                           ← TypeScript tooling (40+ scripts)
 │   ├── search.ts                  ← FTS5 keyword search + temporal decay
 │   ├── embeddings.ts              ← Ollama embedding client
 │   ├── vector-search.ts           ← Semantic search + RRF hybrid ranking
-│   ├── learning.ts                ← 9 learning mechanisms
+│   ├── learning.ts                ← 9 learning mechanisms + link prediction + trajectory tracking
+│   ├── pagerank.ts                ← Pure TS PageRank for compression seed selection
+│   ├── common-neighbors.ts        ← Link prediction via normalized common-neighbor scoring
 │   ├── ingest/                    ← Content type handlers
 │   │   ├── detect.ts              ← URL/path type classifier
 │   │   ├── slug.ts                ← Title → filesystem-safe slug
@@ -285,7 +293,9 @@ scripts/                           ← TypeScript tooling (40+ scripts)
 ├── scout-gaps.ts                  ← Source scout for underdeveloped topics
 ├── create-tensions.ts             ← Batch-create tension records from JSON
 ├── backfill-stances.ts            ← Backfill missing stances on insights
-└── mcp-server.ts                  ← MCP server for cross-project access
+├── classify-edges.ts              ← Async semantic graph builder (Slow Graph)
+├── extract-session.ts             ← Process queued session insights
+└── mcp-server.ts                  ← MCP server (10 tools: 6 read + 4 write)
 
 .claude/                           ← Claude Code project configuration
 ├── settings.json                  ← Hook registration + project settings
@@ -297,16 +307,41 @@ scripts/                           ← TypeScript tooling (40+ scripts)
     ├── kb-researcher.md           ← Searches KB for insights on a topic
     └── learning-auditor.md        ← Audits learning mechanism flag outputs
 
+templates/                             ← Configuration templates (copy to local .claude/)
+└── hooks/
+    └── session-end-remind.sh      ← SessionEnd hook for session insight queue
+
 .github/workflows/
 └── ci.yml                         ← Tests + health check + benchmark regression + hook verification
 ```
 
-## The 9 Learning Mechanisms
+## Dual-Graph Architecture (v2)
+
+Zuhn v2 introduces a **Fast/Slow memory system** — two complementary graph layers that separate cheap structural discovery from expensive semantic classification:
+
+```
+FAST GRAPH (related: string[])          SLOW GRAPH (evidence: TypedRelation[])
+  ↑ Rebuilt every learn.ts run            ↑ Built async by classify-edges.ts
+  ↑ Pure vector math, zero LLM calls     ↑ LLM micro-classifier, batched
+  ↑ Finds structural neighbors            ↑ Classifies WHY they're connected
+```
+
+**Relationship taxonomy:** `SUPPORTS` · `CONTRADICTS` · `EXTENDS` · `TRANSFERS_TO` · `REFINES` · `CHALLENGES` · `PREDICTED`
+
+```bash
+# Classify high-signal pairs (tension candidates + cross-domain connections)
+npm run classify-edges -- --source tensions --limit 50
+npm run classify-edges -- --source cross-domain --limit 100
+```
+
+## The Learning Mechanisms
 
 | # | Mechanism | What it Does |
 |---|-----------|-------------|
 | 1 | **Connection Discovery** | Finds top-5 semantically similar insights, populates `related[]` bidirectionally |
-| 2 | **Emergence Detection** | Flags topics with high insight-to-principle ratios for compression |
+| — | **Link Prediction** | Common neighbors algorithm finds structurally plausible connections the embedding model missed |
+| — | **Trajectory Tracking** | Monitors whether typed connections persist across runs (stable / increasing / decreasing) |
+| 2 | **Emergence Detection** | Flags topics for compression, **sorted by surprise score** — topics with tensions/transfers compress first |
 | 3 | **Confidence Propagation** | Increases confidence when independent sources corroborate (with echo chamber dampening) |
 | 4 | **Semantic Clustering** | Louvain community detection on pruned KNN graph — discovers cross-topic clusters |
 | 5 | **Gap Detection** | L2-normalized topic centroids find sparse areas adjacent to dense ones (sim > 0.83, 2+ shared tags) |
@@ -315,7 +350,14 @@ scripts/                           ← TypeScript tooling (40+ scripts)
 | 8 | **Empirical Propagation** | Cascades confidence changes when predictions/decisions resolve — asymmetric depth, processedIds guard, empirical_state blocks consensus override |
 | 9 | **Cross-Domain Synthesis** | Pairwise PRI↔PRI comparison across domains — finds structural parallels between compressed knowledge with zero tag overlap |
 
-All mechanisms run every ingestion via `npm run learn`. Flags are written to `meta/flags.md` (COMPRESS / DISCOVER / GAP / TRANSFER / SYNTHESIZE).
+All mechanisms run every ingestion via `npm run learn`. Flags are written to `meta/flags.md` (COMPRESS / DISCOVER / GAP / TRANSFER / SYNTHESIZE / LINK_PREDICT).
+
+### Additional v2 Features
+
+- **PageRank Seed Selection** — compression prompts sort insights by PageRank on the connections subgraph. The most load-bearing insight anchors the principle, not alphabetical by ID.
+- **Principle Provenance** — every principle tracks its `lineage`: which insights supported it, their relationship types, surprise score, and the compression trigger.
+- **Stale Insight Detection** — `resurface.ts` flags time-sensitive insights past their shelf-life window for revalidation.
+- **Session→KB Pipeline** — explicit-intent capture via `zuhn_queue_session_insight` MCP tool. See [Session Pipeline Setup](docs/session-pipeline-setup.md).
 
 ## Design Philosophy
 
@@ -397,19 +439,20 @@ Zuhn exposes its knowledge base as an MCP server, making it accessible from **an
 claude mcp add zuhn -s user -- npx tsx /path/to/zuhn/scripts/mcp-server.ts
 ```
 
-**9 tools (6 read + 3 write):**
+**10 tools (6 read + 4 write):**
 
 | Tool | Purpose |
 |------|---------|
 | `zuhn_search` | Hybrid keyword + semantic search (falls back to keyword if Ollama is offline) |
 | `zuhn_recall` | Full entity by ID (frontmatter + body) |
 | `zuhn_browse` | List insights/principles by domain/topic |
-| `zuhn_flags` | Current COMPRESS/DISCOVER/GAP/TRANSFER flags |
+| `zuhn_flags` | Current COMPRESS/DISCOVER/GAP/TRANSFER/LINK_PREDICT flags |
 | `zuhn_tensions` | Active unresolved tensions |
 | `zuhn_stats` | Full knowledge base overview |
 | `zuhn_queue_source` | Queue a URL or text for daemon processing |
 | `zuhn_submit_insights` | Submit pre-extracted insights (Zod-validated) |
 | `zuhn_flag_tension` | Flag a potential tension for human review |
+| `zuhn_queue_session_insight` | Queue a session observation for later extraction (Phase 8) |
 
 ## Autonomous Knowledge Research Loop (autoknowledge)
 
@@ -472,8 +515,8 @@ Skills: `ingest` · `extract` · `compress` · `search` · `learn` · `sleep-wak
 
 ## Capabilities
 
-- 294 automated tests across 22 test files
-- 40+ TypeScript scripts
+- 300 automated tests across 23 test files
+- 45+ TypeScript scripts
 - Hybrid search: keyword (FTS5 BM25) + semantic (L2-normalized 768-dim cosine) with Reciprocal Rank Fusion
 - 9 learning mechanisms + autonomous research loop (autoknowledge)
 - Epistemic Quality Pipeline: LLM-graded IQS + composite KQ metric + Golden Eval Set
@@ -503,6 +546,7 @@ Skills: `ingest` · `extract` · `compress` · `search` · `learn` · `sleep-wak
 
 ## Design Specs
 
+- [v2 Dual-Graph Architecture](docs/superpowers/specs/zuhn-v2-design-spec.md) — Fast/Slow memory, typed relationships, surprise-gated compression, PageRank seeds
 - [Brain Engine Architecture](docs/superpowers/specs/2026-03-19-brain-engine-design.md) — the original design document
 - [Universal Ingestion Pipeline](docs/superpowers/specs/2026-03-20-universal-ingestion-design.md) — multi-format content fetching
 - [Learning Mechanisms 4-6](docs/superpowers/specs/2026-03-21-learning-mechanisms-4-6-design.md) — clustering, gap detection, cross-domain transfer
