@@ -26,4 +26,6 @@ substack-*
 knowledge-base/meta/embeddings.db
 knowledge-base/meta/daemon-status.json
 knowledge-base/meta/.autoknowledge.lock
+knowledge-base/meta/activity.md
+knowledge-base/meta/autoknowledge-metrics.jsonl
 knowledge-base/zuhn.db
