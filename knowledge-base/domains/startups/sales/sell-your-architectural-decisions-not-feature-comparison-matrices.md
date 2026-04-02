@@ -60,6 +60,10 @@ related:
   - PRI-260328-4CC0
   - INS-260330-F527
   - PRI-260324-36BF
+evidence:
+  - id: INS-260329-5094
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Peter An argues that feature comparison charts are tragic because modern enterprise buyers see through them immediately. Instead, the most powerful sales tool is explaining the specific architectural or technical decisions that make your approach fundamentally different.
 

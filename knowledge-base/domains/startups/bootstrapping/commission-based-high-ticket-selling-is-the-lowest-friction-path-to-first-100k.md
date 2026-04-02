@@ -54,5 +54,9 @@ related:
   - INS-260330-66A0
   - INS-260328-4EA0
   - PRI-260328-6A8D
+evidence:
+  - id: INS-260329-C754
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Of all 10 strategies Hormozi presents, commission-based selling of high-value services has the fewest prerequisites: no capital, no product, no team, no infrastructure. You borrow someone else's product and reputation, then earn a percentage of closed deals. This is strategically valuable as a first move because it simultaneously builds sales skills (the most transferable business skill), generates income for future ventures, and gives you deep market knowledge about what buyers actually want. The counter-intuitive insight is that most people skip this step because it feels like 'working for someone else,' but the skill acquisition and capital accumulation make it a superior starting point compared to building a product from scratch.

@@ -54,5 +54,9 @@ related:
   - INS-260330-7EAA
   - INS-260330-7199
   - INS-260330-B6AD
+evidence:
+  - id: INS-260330-4830
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Apple's cash trap illustrates a deeper paradox in corporate finance: the company takes American loans to pay American bills using money it already has — just not in a jurisdiction the US recognizes. The offshore pile grows faster than Apple can deploy it domestically through borrowing. For shareholders, this is worse than having no cash at all, because idle capital earns less than what the market expects from Apple's invested capital. A dollar sitting offshore watching 'grass grow' represents opportunity cost — money not being reinvested to generate returns. This dynamic created an artificial debt market where the world's most cash-rich companies were also among its biggest corporate borrowers, driven entirely by regulatory arbitrage rather than genuine need for capital. The 2017 US corporate tax reform partially resolved this by lowering repatriation costs.

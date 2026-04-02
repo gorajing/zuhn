@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260327-E4F1
   - INS-260328-3A00
-  - INS-260330-A86C
   - INS-260330-A029
   - INS-260330-B468
   - INS-260330-EB1B
@@ -62,6 +61,11 @@ related:
   - INS-260330-EB48
   - INS-260330-47CF
   - INS-260330-11EB
+  - INS-260330-8BF6
+evidence:
+  - id: INS-260327-E4F1
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The RuBisCo story from photosynthesis is a 450-million-year case study in strategic lock-in. Early organisms chose an enzyme that was merely better than nothing, then built the entire biosphere's carbon fixation around it. When oxygen levels rose and RuBisCo began failing 50% of the time, replacement was impossible — too many dependent systems. Instead, plants evolved compensatory mechanisms (photorespiration pathways, massive overproduction).
 

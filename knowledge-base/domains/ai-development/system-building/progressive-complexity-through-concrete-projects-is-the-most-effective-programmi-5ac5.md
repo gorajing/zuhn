@@ -59,6 +59,34 @@ related:
   - INS-260329-A53C
   - INS-260329-975C
   - INS-260329-075F
+evidence:
+  - id: INS-260325-B50B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-72D5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-25FC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-153F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-0068
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-32DB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A53C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-975C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-075F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This tutorial demonstrates a highly effective pedagogical pattern: each new concept is introduced precisely when a project demands it. Variables appear when the mad libs game needs user input. Type conversion appears when the calculator concatenates instead of adding. Lists appear when the guessing game needs to track attempts. This 'just-in-time' concept introduction means learners never ask 'why do I need this?' because the project has already created the need.
 

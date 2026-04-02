@@ -55,6 +55,13 @@ related:
   - PRI-260325-D34E
   - INS-260323-B849
   - INS-260325-B067
+evidence:
+  - id: INS-260323-B849
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-B067
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Taleb uses the example of standing in early 1914 and observing recent peace to conclude war risk had diminished — right before the catastrophe of World War I. In fat-tailed domains, a small number of events explain most of the variance. The same concentration effect visible in internet traffic (Google dominates) and publishing (0.2% of authors generate half the income) applies to wars, market crashes, and pandemics.
 

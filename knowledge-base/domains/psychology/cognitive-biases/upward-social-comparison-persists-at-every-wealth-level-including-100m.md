@@ -55,6 +55,13 @@ related:
   - INS-260330-DA0B
   - INS-260330-B906
   - INS-260330-353B
+evidence:
+  - id: INS-260327-FF64
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B906
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The video describes a striking pattern: at $30-100M net worth — a level most people would consider 'set for life' — individuals report feeling inadequate. You buy a Ferrari, but your friend has a limited edition where only five were made. You dine with a governor, but your billionaire friend just dined with the president. The reference group shifts upward with wealth, maintaining a constant sense of relative deprivation.
 

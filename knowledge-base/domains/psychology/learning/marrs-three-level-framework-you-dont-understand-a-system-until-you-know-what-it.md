@@ -60,7 +60,6 @@ stance: >-
   knowledge.
 related:
   - INS-260320-2DDE
-  - INS-260326-87A1
   - INS-260327-77E5
   - INS-260327-F232
   - INS-260329-7C59
@@ -78,6 +77,9 @@ evidence:
     type: SUPPORTS
     classified_at: '2026-04-02'
   - id: INS-260329-7C59
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-F232
     type: SUPPORTS
     classified_at: '2026-04-02'
 ---

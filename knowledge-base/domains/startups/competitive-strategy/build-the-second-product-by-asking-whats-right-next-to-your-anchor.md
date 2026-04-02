@@ -58,5 +58,8 @@ evidence:
   - id: INS-260322-3010
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260324-6FC7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Goodarzi describes a deliberate sequencing discipline for multi-product expansion. Every company has an anchor product. The question is: what's the next problem you can solve for that customer that's right next to that anchor? For Intuit: accounting was the anchor. Service-based businesses who do accounting also need to create estimates, invoice, and get paid — that's right next to accounting. Then those businesses have employees who need payroll — harder (state/local taxes, country regulations) but right next to payments. Then Credit Karma for financial services beyond taxes. The principle is be very intentional about adjacency, make sure each expansion is a big enough problem worth solving, nail it before moving to the next. At certain points, decide whether to partner or acquire (Credit Karma would have taken 5+ years to replicate due to data and AI capabilities). This isn't peanut-buttering resources across seven new products — it's sequential anchor expansion with full commitment to each step.

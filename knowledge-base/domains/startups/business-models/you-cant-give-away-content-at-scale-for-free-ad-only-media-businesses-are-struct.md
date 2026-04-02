@@ -51,5 +51,9 @@ related:
 stance: >-
   BuzzFeed ($1.7B valuation to penny stock) and VICE (bankruptcy) prove that
   millions of views and hit shows are worth almost nothing without subscri...
+evidence:
+  - id: INS-260323-FEAB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Digital media startups were publications, not platforms — no different from Time or Reader's Digest. Moving online eliminated printing costs but didn't solve distribution and creation costs. Facebook initially boosted these publishers as engagement tools, then pulled the rug by deprioritizing publisher content in the News Feed. Buzzfeed and VICE couldn't pivot because their entire brand was built on free access. Meanwhile, legacy publishers aren't doing better — earnings and profits trend down across the entire ad-supported landscape. Disney offered to buy VICE for $3.5B; founders held out for more. VICE declared bankruptcy 7 years later.

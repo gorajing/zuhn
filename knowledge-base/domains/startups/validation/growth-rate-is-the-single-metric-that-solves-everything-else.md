@@ -57,6 +57,10 @@ related:
   - INS-260330-2347
   - INS-260330-4B16
   - INS-260330-C84C
+evidence:
+  - id: INS-260327-969D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Seibel is emphatic: for typical Silicon Valley investors, growth is the number one metric for determining whether you'll raise money. Not team, not past experience, not fancy investors — growth. He repeats this across fundraising, PR, and operations sections because it's the universal solvent.
 

@@ -58,6 +58,12 @@ evidence:
   - id: INS-260323-1F27
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-716C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FC6E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kipping presents a striking statistical argument: Earth-like planets around sun-like stars appear in only 1-10% of systems, but roughly 50% of sun-like stars have Neptune-to-Jupiter-sized planets in their habitable zones. If even one in five of those gas giants hosts an Earth-like or Mars-like moon, habitable moons would outnumber habitable planets in the universe.
 

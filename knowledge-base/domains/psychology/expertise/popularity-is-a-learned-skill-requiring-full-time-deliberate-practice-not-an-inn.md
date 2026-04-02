@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-C962
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-55DC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham's central reframe is that popularity is not something you are but something you make yourself, requiring constant (often unconscious) effort comparable to Navy SEAL training. Most people fail to recognize this because, like drawing ability, they perceive popularity as innate rather than practiced.
 

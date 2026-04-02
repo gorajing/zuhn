@@ -51,6 +51,13 @@ related:
   - INS-260327-EBDF
   - INS-260330-C06E
   - INS-260322-191F
+evidence:
+  - id: INS-260329-33AA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-EBDF
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 HFT systems run monitoring and metrics stacks in parallel with trading, capturing latency data, throughput, error rates, and queue depths for every component. Latency dashboards showing tick-to-trade times run in real-time, with alerts firing if any component slows down or behaves abnormally.
 

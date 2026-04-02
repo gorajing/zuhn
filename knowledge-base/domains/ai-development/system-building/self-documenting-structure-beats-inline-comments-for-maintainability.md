@@ -53,6 +53,16 @@ related:
   - INS-260330-B33F
   - INS-260327-4C73
   - INS-260320-5B49
+evidence:
+  - id: INS-260330-3C2F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B33F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-4C73
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The tutorial's advice to use semantic HTML elements (header, nav, main, footer) instead of generic divs with comments illustrates a broader principle: structure that encodes meaning is more maintainable than arbitrary structure plus explanatory annotations. Comments are a form of documentation debt — they require manual synchronization with the code they describe, and this synchronization always eventually fails.
 

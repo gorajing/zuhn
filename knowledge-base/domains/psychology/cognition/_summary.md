@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 44 insights
+> 48 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
@@ -30,9 +30,13 @@
 - `INS-260330-0C10` [high] Swearing uses a separate neural pathway from regular language, rooted in the emotional limbic system rather than cortical language areas.
 - `INS-260330-B87C` [high] The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
 - `INS-260330-8045` [high] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
+- `INS-260402-7C15` [high] Truly effective essays become culturally absorbed and thus lose their capacity to surprise future readers, creating a paradox where impact and timelessness are inversely related.
 - `INS-260330-7C58` [high] The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260402-3737` [high] Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260402-3639` [high] Obscure writing about big ideas creates a self-reinforcing trap: it attracts ambitious novices, repels critical thinkers, and has a built-in defense because you can't prove text is meaningless.
+- `INS-260402-89DE` [high] Writing works as a discovery mechanism because committing to specific words forces vague ideas into falsifiable form, enabling iterative refinement.
+- `INS-260402-F853` [high] Writing forces idea formation that pure thinking cannot achieve alone.
+- `INS-260402-A693` [high] Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - `INS-260330-8134` [medium] After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
 - `INS-260330-0E86` [medium] Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-4F49` [medium] Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.

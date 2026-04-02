@@ -45,6 +45,10 @@ related:
   - INS-260327-2695
   - PRI-260328-43F1
   - INS-260327-CFC5
+evidence:
+  - id: INS-260324-6FC7
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 BNPL services that grow by extending credit to consumers who were excluded from traditional credit face inevitable default spikes because the exclusion was based on real credit risk.
 

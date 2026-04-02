@@ -53,6 +53,13 @@ related:
   - INS-260330-669C
   - INS-260330-870B
   - INS-260402-E60E
+evidence:
+  - id: INS-260327-FF64
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-C45C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Paul Graham observes that even Y Combinator founders—who already have funding and a shot at wealth—get dramatically more productive when facing peer demos (Prototype Day). The financial outcome feels abstract most of the time; what actually drives daily effort is not wanting to look bad.
 

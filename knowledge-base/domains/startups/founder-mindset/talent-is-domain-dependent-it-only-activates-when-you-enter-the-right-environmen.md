@@ -53,6 +53,13 @@ related:
   - INS-260330-D27C
   - INS-260327-8DDE
 stance: Talent only reveals itself when the environment activates it
+evidence:
+  - id: INS-260325-A8E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-1709
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video frames the most tragic waste of potential not as laziness but as domain mismatch: 'Imagine how many musical prodigies are born without instruments. A mathematician that never encounters higher math. A strategist that never encounters complex systems.' Talent doesn't announce itself — it requires the right environment to activate.
 

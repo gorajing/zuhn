@@ -52,6 +52,10 @@ related:
 stance: >-
   When you account for size, value, profitability, and investment factors, most
   active fund managers who appeared to beat the market were simply main...
+evidence:
+  - id: INS-260323-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The original 1968 Jensen paper showed active managers couldn't beat the market on a single-factor (CAPM) basis. Fama-French's multi-factor model made this worse: funds that appeared to generate alpha under CAPM were often just holding small-cap or value-tilted portfolios. Once you account for all five factors, the 'skill' disappears.
 

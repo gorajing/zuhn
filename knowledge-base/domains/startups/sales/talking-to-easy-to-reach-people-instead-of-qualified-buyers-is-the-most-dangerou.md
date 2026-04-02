@@ -60,6 +60,10 @@ related:
   - INS-260327-60A0
   - INS-260329-3609
   - INS-260327-9C00
+evidence:
+  - id: INS-260323-1B42
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kazanjy identifies two specific anti-patterns: (1) selling enterprise software to startups because startups are easy to talk to, even though they don't have the problems your product solves at scale, and (2) going bottom-up with a product that requires top-down adoption (e.g., talking to individual doctors when you need the hospital CIO to sign off).
 

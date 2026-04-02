@@ -57,6 +57,13 @@ related:
   - INS-260327-33E0
   - INS-260327-6D57
   - INS-260327-4C26
+evidence:
+  - id: INS-260324-6345
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-6D57
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Bull market psychology extends the 'everything goes up' mental model to consumer purchases. When Bitcoin breaks records and Dogecoin exceeds Nintendo's market cap, the psychological barrier to calling a Rolex purchase an 'investment' disappears. The narrative serves a useful self-deception: it converts guilt about luxury spending into pride about financial sophistication.
 

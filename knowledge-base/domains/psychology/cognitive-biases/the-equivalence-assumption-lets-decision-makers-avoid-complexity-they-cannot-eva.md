@@ -55,6 +55,13 @@ related:
   - INS-260330-5779
   - INS-260329-0B76
   - INS-260329-A024
+evidence:
+  - id: INS-260329-5094
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-D6D7
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Graham identifies a specific cognitive bias mechanism: the pointy-haired boss believes all programming languages are equivalent because this belief reduces a multi-dimensional optimization problem (language power × programmer availability × library ecosystem × problem fit) to a simple popularity contest he can actually evaluate. The moment he admits languages differ, he faces simultaneous equations in domains he knows nothing about.
 

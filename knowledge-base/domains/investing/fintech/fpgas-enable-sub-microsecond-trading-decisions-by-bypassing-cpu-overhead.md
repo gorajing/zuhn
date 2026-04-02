@@ -55,6 +55,19 @@ related:
   - INS-260330-CCF0
   - INS-260329-90F4
   - INS-260329-71DE
+evidence:
+  - id: INS-260329-C991
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-3243
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-C7B8
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CCF0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Field Programmable Gate Arrays (FPGAs) are reconfigurable chips that run custom logic at hardware speed without CPU or OS overhead. In HFT, they enable tick-to-trade execution: the moment a market event arrives, the FPGA evaluates it and fires an order in sub-microsecond latency — faster than a CPU thread can even initialize.
 

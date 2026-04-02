@@ -52,6 +52,10 @@ related:
   - PRI-260328-386C
   - INS-260330-CB2E
   - INS-260327-BB67
+evidence:
+  - id: INS-260330-CB2E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 BlackRock limiting withdrawals on a $26B credit fund is the modern equivalent of early bank run signals. Private credit has grown to $2T, nearly double the subprime mortgage market in 2008. The parallels are alarming: opaque lending to borrowers who couldn't access traditional bank financing, illiquid assets backing supposedly liquid investment vehicles, and leverage amplifying returns.
 

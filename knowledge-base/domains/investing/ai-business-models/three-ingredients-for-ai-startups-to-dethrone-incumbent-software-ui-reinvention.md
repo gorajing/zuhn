@@ -64,6 +64,37 @@ related:
 stance: >-
   For AI startups to beat established software companies like Salesforce, they
   need all three: a reimagined proactive UI, access to new data sources ...
+evidence:
+  - id: INS-260322-CFB1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E2BC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3E6B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-A892
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260402-CCF4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260321-E654
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-3E59
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1E44
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260328-02A0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-D6D3
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 a16z's framework for evaluating whether AI startups can displace incumbent software companies requires three simultaneous innovations: (1) A completely reimagined UI/UX — instead of users inputting data into forms, the product proactively tells users what to do based on what it already knows. (2) Access to new data — replacing structured databases (Salesforce's real moat) with unstructured data lakes that AI can query. (3) Business model disruption — moving beyond seat-based pricing to value-based pricing tied to completed tasks.
 

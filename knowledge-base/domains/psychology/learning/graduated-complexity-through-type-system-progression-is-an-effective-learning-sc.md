@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-4B30
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-1075
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The tutorial follows a specific progression: variables/primitives → strings → arrays → functions → pointers → classes → inheritance. Each level adds exactly one new dimension of complexity — strings add variable length, arrays add indexing, functions add abstraction, pointers add indirection, classes add encapsulation, inheritance adds polymorphism.
 

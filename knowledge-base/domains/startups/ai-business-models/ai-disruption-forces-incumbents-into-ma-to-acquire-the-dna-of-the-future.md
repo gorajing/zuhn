@@ -59,6 +59,10 @@ related:
 stance: >-
   AI threatens every incumbent company simultaneously, driving a wave of M&A as
   corporations acquire startups to reconstruct how they work rather tha...
+evidence:
+  - id: INS-260327-EFA6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Horowitz predicts significant M&A activity driven by AI disruption. Unlike previous technology cycles where only certain sectors were disrupted, AI threatens every company and every incumbent simultaneously. The response is not primarily internal R&D but acquisition — companies need to 'acquire the DNA of the future' because they need to fundamentally reconstruct how they work to survive.
 

@@ -56,8 +56,8 @@ related:
   - INS-260327-7846
   - INS-260329-D357
   - INS-260329-EF89
+  - INS-260402-2B96
   - INS-260402-27A1
-  - PRI-260328-0AB1
 ---
 Hormozi's personal trajectory of nine failed businesses before building a $250M+ portfolio challenges the narrative that successful entrepreneurs either get it right quickly or should quit. The failures weren't wasted — each one built domain-specific pattern recognition that eventually combined into the judgment needed for the winning venture.
 

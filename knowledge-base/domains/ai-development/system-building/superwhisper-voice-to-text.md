@@ -45,6 +45,19 @@ resolutions:
 stance: >-
   Voice-to-text prompting reduces fatigue compared to keyboard-only interaction
   with AI
+evidence:
+  - id: INS-260329-C996
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F0C0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-B264
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-98A0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 SuperWhisper is a macOS voice-to-text tool that transcribes speech into

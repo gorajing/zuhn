@@ -55,6 +55,22 @@ related:
 stance: >-
   A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point
   at a time, relying on the scene replaying identically each time.
+evidence:
+  - id: INS-260325-2999
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-189B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A5C4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8B5B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E5BE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The trillion-FPS camera that captures light traveling through a scene uses only a single-pixel sensor — essentially the same LIDAR tech in modern phones. It achieves unlimited spatial resolution by scanning point by point across a grid, firing the laser repeatedly at the same spot. The critical requirement is repeatability: the scene must play out identically every time. If it does, a 4K video at a trillion FPS is just a matter of scanning a 4K grid of points.
 

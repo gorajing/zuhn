@@ -54,9 +54,9 @@ related:
   - INS-260320-E044
   - INS-260329-B0F4
   - INS-260330-3260
-  - INS-260330-7819
+  - INS-260402-D0F3
   - INS-260325-0147
-  - INS-260329-ABD9
+  - INS-260330-7819
 ---
 Hoffman distinguishes between being contrarian (easy) and being contrarian and right (hard). The test is whether a smart, informed person — not someone ignorant or crazy — would disagree with you. If no intelligent person would push back on your idea, it isn't actually contrarian. The critical follow-up question is: what specific thing do I know that the critics don't?
 

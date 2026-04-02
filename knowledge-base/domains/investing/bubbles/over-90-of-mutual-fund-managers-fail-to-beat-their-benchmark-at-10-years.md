@@ -48,6 +48,13 @@ related:
   - INS-260329-EF89
   - PRI-260323-9D46
   - INS-260327-F55C
+evidence:
+  - id: INS-260329-EF89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F55C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The data on active management is damning at every time horizon: fewer than 50% of mutual fund managers beat their benchmark in a single year, 80% fail over five years, over 90% fail at ten years, and virtually none outperform over twenty years — all net of fees and taxes.
 

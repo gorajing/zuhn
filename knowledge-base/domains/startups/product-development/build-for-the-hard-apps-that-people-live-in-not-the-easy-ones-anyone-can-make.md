@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-7C24
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-E0B5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Zach makes a sharp observation: the 10 apps in your Mac dock (Google Docs, Spotify, Notion, Figma) are all built by professional teams and are incredibly hard to build. Nobody spends their day using apps built with no-code or vibe-coding tools. The economic value of immersive, daily-use professional software far exceeds the value of quickly prototyped hobby apps.
 

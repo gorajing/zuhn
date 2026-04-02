@@ -51,5 +51,9 @@ related:
   - INS-260327-1E44
   - INS-260327-5297
   - INS-260327-F477
+evidence:
+  - id: INS-260322-C472
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The CaseText founder identifies three AI startup categories: (1) Assistance — helping professionals accomplish tasks faster (e.g., CoCounsel helping lawyers review documents), (2) Replacement — becoming the service provider powered by AI (e.g., an AI-powered law firm), and (3) Previously unthinkable — enabling work no one would have attempted because of cost (e.g., having AI read and categorize hundreds of millions of documents). Each category represents a different risk/reward profile and competitive dynamic. The 'unthinkable' category is especially interesting because it creates entirely new markets rather than disrupting existing ones.

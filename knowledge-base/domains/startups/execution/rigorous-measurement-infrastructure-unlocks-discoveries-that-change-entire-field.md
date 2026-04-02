@@ -62,7 +62,6 @@ stance: >-
   the original problem — creates optionality for paradigm-shifting discoveries
   in adjacent domains
 related:
-  - INS-260330-D950
   - INS-260330-96FE
   - INS-260330-99D1
   - INS-260330-BEF8

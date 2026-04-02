@@ -54,6 +54,10 @@ related:
   - INS-260323-E9E4
   - INS-260329-CC75
   - INS-260323-6351
+evidence:
+  - id: INS-260323-6351
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi's core mental model: people overestimate what they can accomplish in a year and underestimate what they can accomplish in a decade. He asks new employees: 'Would you sign a contract for zero income for 10 years if on year 10 you add two zeros to your net worth?' Almost everyone says yes. His response: 'Then act like it.' The shift from optimizing for fast money to making decade-scale bets changed his trajectory from twice-bankrupt to $100M.
 

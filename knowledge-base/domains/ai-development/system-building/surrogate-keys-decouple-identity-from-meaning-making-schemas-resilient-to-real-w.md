@@ -55,6 +55,13 @@ related:
   - INS-260329-2FB8
   - INS-260329-6286
   - INS-260329-B22B
+evidence:
+  - id: INS-260329-BE35
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-B22B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The distinction between surrogate keys (arbitrary IDs with no real-world meaning) and natural keys (like SSN or email) reveals a fundamental design principle: coupling your data model to external identifiers creates fragility. SSNs get reassigned, emails change, product SKUs get reformatted — when these are primary keys, every foreign key reference across every table must be updated.
 

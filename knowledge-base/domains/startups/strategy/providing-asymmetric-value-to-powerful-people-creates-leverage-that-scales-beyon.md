@@ -57,5 +57,12 @@ related:
   - INS-260330-27E8
   - INS-260323-92AD
   - INS-260330-7FFE
+evidence:
+  - id: INS-260327-4FAE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260320-B8B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Jho Low brokered a major Middle East investment deal for Malaysia's construction project, he deliberately let Deputy PM Najib take all the public credit despite doing all the work. This single act of strategic credit-giving had compounding returns: it boosted Najib's popularity (helping him become PM), created deep personal loyalty, and gave Low unquestioned access to the country's highest office. The insight generalizes beyond fraud — in any context where you're providing value to someone with more institutional power, letting them absorb the credit can be a rational strategy. The key asymmetry: public credit for a deal is worth far less to a dealmaker than the private trust and access it purchases from the credit-taker. This is essentially the 'kingmaker' strategy — positioning yourself as indispensable while remaining invisible to outside observers.

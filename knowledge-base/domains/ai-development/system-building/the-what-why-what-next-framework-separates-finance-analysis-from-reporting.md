@@ -45,5 +45,21 @@ related:
 stance: >-
   Finance has three jobs: explain what happened (the metric), why it happened
   (the business decision), and what to do next (the action with timeline)
+evidence:
+  - id: INS-260327-2627
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-9830
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-FF9A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-F451
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8254
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Fuelfinance/Taxwire CFO Advisor skill enforces a three-part framework for every financial output: (1) What happened — the metric with trend context. (2) Why it happened — the business decision or market shift that drove it (not 'revenue increased' but 'we hired 3 AEs who aren't fully ramped'). (3) What to do next — the specific action with timeline and expected impact. The 'what' lives in your ERP. The 'why' lives in hiring plans, reorg memos, strategic decisions buried in threads nobody tagged. Stale knowledge bases are worse than none — they give false confidence.

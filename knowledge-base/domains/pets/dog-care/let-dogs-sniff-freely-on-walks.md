@@ -48,6 +48,13 @@ resolutions:
 stance: >-
   Dogs should be allowed to sniff freely during walks because scent exploration
   is their primary cognition
+evidence:
+  - id: INS-260327-2A59
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E349
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 One of the most consistently cited ways to keep dogs happy is letting

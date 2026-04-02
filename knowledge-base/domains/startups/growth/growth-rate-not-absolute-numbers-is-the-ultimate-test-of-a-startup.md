@@ -52,7 +52,9 @@ related:
   - INS-260330-8FE7
   - INS-260330-548B
   - INS-260330-CB30
+  - INS-260402-D9AC
   - INS-260402-7FF5
+  - INS-260402-529F
 ---
 Viaweb had 70 stores at the end of 1996 and 500 at the end of 1997 — roughly 7x annual growth. Graham was stressed about the absolute number being small, but in retrospect says if he'd been advising himself at YC, he would have said: 'Stop being so stressed out, because you're doing fine. You're growing 7x a year. Just don't hire too many more people and you'll soon be profitable, and then you'll control your own destiny.'
 

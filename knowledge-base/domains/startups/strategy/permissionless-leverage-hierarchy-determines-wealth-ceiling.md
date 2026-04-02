@@ -52,5 +52,15 @@ related:
   - INS-260329-33D4
   - INS-260329-7691
   - INS-260329-4223
+evidence:
+  - id: INS-260329-34C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-70B9
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B424
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi presents Naval Ravikant's leverage framework as a pyramid: labor (permission required, how pyramids were built), capital (permission required, how Buffett built wealth), code (permissionless, how Mailchimp built billions), and content/media (permissionless, how Joe Rogan commands $100M deals). The key insight is that each level multiplies the ones below it. Bezos, Zuckerberg, and Dorsey use all four simultaneously. The practical application is to audit which leverage types you currently employ and deliberately add permissionless layers. Hormozi's own trajectory confirms this: employee (others' labor) → trainer (own labor) → gym owner (leveraging labor) → licenser (labor + media) → acquisition.com (labor + media + capital). Each jump 10x'd his income.

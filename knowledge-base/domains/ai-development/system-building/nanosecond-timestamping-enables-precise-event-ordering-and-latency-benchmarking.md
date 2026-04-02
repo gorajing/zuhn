@@ -52,6 +52,13 @@ related:
   - INS-260329-33AA
   - INS-260325-2999
   - INS-260330-3EFC
+evidence:
+  - id: INS-260329-33AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-2999
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Every event in an HFT pipeline — price changes, new bids, order executions — is stamped with nanosecond-precision clocks. This serves three purposes: maintaining exact sequence of market updates across distributed components, benchmarking internal component latencies to identify bottlenecks, and synchronizing with external systems like FPGA engines and exchanges.
 

@@ -52,7 +52,6 @@ stance: >-
   Experiencing and resolving bugs is the primary mechanism by which programming
   skills are acquired, not a barrier that slows learning down
 related:
-  - INS-260323-8D12
   - INS-260325-D25C
   - INS-260327-98DE
   - INS-260329-FC75

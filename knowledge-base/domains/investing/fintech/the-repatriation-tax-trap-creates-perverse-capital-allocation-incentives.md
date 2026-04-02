@@ -55,5 +55,21 @@ related:
   - INS-260330-137A
   - INS-260330-86CD
   - INS-260330-7EAA
+evidence:
+  - id: INS-260324-2244
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-9018
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-6F5B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4830
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-86CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Apple's offshore cash situation created a bizarre financial structure: the company borrowed billions in the US bond market to fund dividends and buybacks while simultaneously holding $285B overseas that it couldn't bring home without a ~35% tax hit. This is textbook capital misallocation driven by tax policy — the company was paying interest on debt it didn't need because the tax code made its own cash inaccessible. Even worse, companies in similar situations sometimes pursued foreign acquisitions not because they were the best use of capital, but because they were the only way to deploy trapped cash. This pattern shows how tax policy doesn't just affect government revenue — it actively distorts corporate strategy and capital allocation in ways that reduce overall economic efficiency.

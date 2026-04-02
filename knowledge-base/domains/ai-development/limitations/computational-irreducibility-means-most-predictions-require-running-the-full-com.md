@@ -55,7 +55,6 @@ related:
   - INS-260326-6D76
   - INS-260330-B5D2
   - INS-260330-B50A
-  - INS-260330-6DEB
 stance: 'For most complex systems, there is no shortcut to predicting outcomes'
 evidence:
   - id: INS-260330-C0D1

@@ -50,6 +50,10 @@ related:
   - INS-260329-07D3
   - INS-260329-3263
   - INS-260329-E402
+evidence:
+  - id: INS-260329-8330
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The freeCodeCamp tutorial structure interleaves three mini-projects (calculator, mad libs, guessing game) between concept blocks rather than saving all projects for the end. This mirrors research on interleaved practice — switching between concept acquisition and application forces the learner to retrieve and apply knowledge in context, strengthening encoding.
 

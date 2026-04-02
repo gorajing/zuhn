@@ -53,5 +53,12 @@ related:
   - INS-260329-812E
   - INS-260330-0B79
   - INS-260320-71C1
+evidence:
+  - id: INS-260320-C8CC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260320-71C1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 CDNs distribute content geographically to reduce latency, but the pull vs push model choice matters significantly. Pull-based CDNs automatically fetch content from the origin server on the first user request, then cache it — ideal for websites with regularly updated static content because the CDN keeps itself current with minimal management. Push-based CDNs require you to upload content explicitly, which then distributes to edge servers — better for large files (video, binaries) that change infrequently but need fast global delivery when updated. Pull-based reduces management overhead but means the first request per edge location hits the origin server. Push-based gives precise control but requires active content management. For most web applications, pull-based is the default; push-based is reserved for media-heavy or release-based distribution patterns.

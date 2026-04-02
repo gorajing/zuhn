@@ -51,5 +51,15 @@ related:
   - INS-260329-A9ED
   - INS-260330-CCF0
   - INS-260329-90F4
+evidence:
+  - id: INS-260329-3243
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-C7B8
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CCF0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Field Programmable Gate Arrays run custom trading logic — arbitrage detection, market making, quote stuffing — directly in reconfigurable silicon, achieving sub-microsecond tick-to-trade latency. The tradeoff is significant: FPGA code is written in Verilog or VHDL, every logic path must be deterministic, and development iteration is much slower than software. But when done right, it creates an unbridgeable speed advantage. Some firms push the entire decision-making pipeline into FPGAs, bypassing software completely. This represents a broader pattern: when software optimization hits diminishing returns, moving critical-path logic into hardware (custom ASICs, FPGAs, or GPUs) can deliver order-of-magnitude improvements.

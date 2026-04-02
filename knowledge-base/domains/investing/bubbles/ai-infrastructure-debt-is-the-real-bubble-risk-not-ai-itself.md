@@ -59,6 +59,10 @@ related:
   - INS-260327-A8DF
   - PRI-260328-386C
   - PRI-260321-2DF0
+evidence:
+  - id: INS-260327-A8DF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Michael draws a sharp distinction: AI as a technology is clearly creating real value, unlike the 2008 subprime crisis where the underlying assets were fundamentally worthless. But every major economic crisis has debt at its core -- margin lending caused 1929, mortgage debt caused 2008. The current AI cycle is generating significant debt issuance to finance data center construction and GPU purchases.
 

@@ -67,6 +67,27 @@ evidence:
   - id: INS-260325-DA83
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-4605
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-C370
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8AB8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-1B42
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-FC0B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-F0CE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D4D8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The speculator confuses boldness with restlessness: crypto, NFTs, day trading, new courses — never sticking with anything long enough for compounding to work. Codie Sanchez spent her 20s jumping from asset management to fashion startup to consulting to side hustles, building nothing. 'Shiny doesn't compound.'
 

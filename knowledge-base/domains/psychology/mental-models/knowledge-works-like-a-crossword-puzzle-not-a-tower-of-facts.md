@@ -59,6 +59,9 @@ evidence:
   - id: INS-260320-E6DD
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-3C75
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Susan Haack's foundherentism compares knowledge to a crossword puzzle: new answers interweave with old ones, all reinforcing each other. The clues are questions we ask, and the way answers fall into a grid represents our confidence we're on the right track. But there may never be a finished puzzle — a complete answer.
 

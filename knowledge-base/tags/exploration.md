@@ -8,5 +8,7 @@
 - `INS-260330-1E5E` On hard problems, stop trying to solve them directly — play with the structure until patterns emerge.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.
 - `INS-260323-A52F` The simplest solution to Einstein's equations already contained black holes, white holes, and parallel universes -- but only after mathematicians pushed the coordinate map to its full extent.
+- `INS-260402-1414` Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
 - `INS-260325-D624` GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
+- `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
 - `INS-260330-9A92` Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.

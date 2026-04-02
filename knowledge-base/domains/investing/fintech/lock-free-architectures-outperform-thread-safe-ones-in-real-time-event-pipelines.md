@@ -57,5 +57,11 @@ evidence:
   - id: INS-260330-3EFC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-A260
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-7D53
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The event-driven pipeline in HFT systems is built around lock-free queues optimized for throughput and low contention. Traditional thread synchronization with mutexes introduces unpredictable latency spikes — a few microseconds of lock contention can mean a missed trade worth thousands. Each event is stamped with nanosecond-precision clocks to maintain exact sequencing, benchmark internal latencies, and sync with external systems like FPGAs. This pattern applies to any system where timing precision matters more than data consistency guarantees — real-time gaming, autonomous vehicles, and live audio processing face similar constraints.

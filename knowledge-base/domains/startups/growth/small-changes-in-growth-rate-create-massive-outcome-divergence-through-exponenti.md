@@ -57,5 +57,9 @@ related:
   - INS-260330-9935
   - INS-260330-CB30
   - INS-260330-05C7
+evidence:
+  - id: INS-260330-AD13
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The video illustrates that reducing an epidemic's growth rate from 15% to 5% daily doesn't just cut outcomes by 3x — over weeks, the difference becomes thousands-fold. This mathematical reality has direct startup implications: the difference between 8% and 12% weekly growth seems trivial in any given week but produces a 10x divergence over a year. This is why growth rate is the single most important metric in any compounding system — whether user acquisition, revenue, learning, or content production. The practical consequence is that interventions targeting the rate (improving conversion funnels, reducing churn, increasing viral coefficient) have exponentially more impact than interventions targeting the current level (one-time campaigns, individual sales). This also explains why seemingly small competitive advantages compound into market dominance over time.

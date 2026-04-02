@@ -81,6 +81,9 @@ evidence:
   - id: INS-260325-B1D8
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-813B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial motivates classes by pointing out that you cannot represent a 'student' or a 'phone' with a single string or number. This is actually a deep insight about the gap between machine-level data primitives and human-level conceptual categories. Humans naturally think in terms of objects (a student has a name, GPA, and major) while computers think in terms of bytes.
 

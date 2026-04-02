@@ -61,6 +61,10 @@ related:
 stance: >-
   Kreischer and Segura's creative partnership survives because when money caused
   feelings to get involved, one said 'our feelings are more important ...
+evidence:
+  - id: INS-260324-1C84
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kreischer describes the turning point in his partnership with Tom Segura: a business deal where money was causing friction. One of them said 'our feelings are more important than the money, so let's just split it.' They operate their joint ventures on a handshake deal — no contracts, no lawyers.
 

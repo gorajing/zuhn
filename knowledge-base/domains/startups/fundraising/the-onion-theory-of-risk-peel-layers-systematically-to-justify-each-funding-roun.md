@@ -60,6 +60,10 @@ related:
   - INS-260402-3FC5
   - INS-260330-E414
   - INS-260329-27DF
+evidence:
+  - id: INS-260330-E414
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Andy Rachleff's onion theory frames a startup as a stack of risks on day one: founding team risk, product risk, technical risk, launch risk, market acceptance risk, revenue risk, cost-of-sale risk, viral growth risk. Each funding round should peel away specific layers. Seed money eliminates founding team and initial product risk. The A round tackles deeper product risk, recruiting risk, and first customer risk. The B round addresses the next set.
 

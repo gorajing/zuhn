@@ -55,6 +55,19 @@ related:
 stance: >-
   The principle of least action provides a single mathematical framework that
   generates all laws of physics
+evidence:
+  - id: INS-260325-0A81
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-BFA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B4DA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-EE1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Theoretical physicists don't approach problems through forces or energy — they write down a Lagrangian (kinetic energy minus potential energy) and the principle of least action generates the correct equations of motion. The same framework works for classical mechanics, special relativity, electrodynamics, and quantum field theory.
 

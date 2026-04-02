@@ -48,8 +48,10 @@ related:
   - INS-260323-043E
   - INS-260330-363D
   - INS-260330-DE69
+  - INS-260402-A693
   - INS-260330-3C2F
-  - INS-260330-4D81
+  - INS-260402-D0F3
   - INS-260330-AEE3
+  - INS-260330-4D81
 ---
 Harris makes a precise phenomenological claim: the sense of being the 'thinker' behind your thoughts is not an additional entity observing the stream of consciousness, but rather the felt quality of failing to notice thoughts as they arise. When you catch a thought at the moment of its arising — seeing it appear from nowhere and vanish — the sense of a thinker behind the thought disappears. This reframes the entire project of meditation: it's not about stopping thoughts or achieving a special state, but about closing the gap between a thought's arising and your recognition of it. The practical consequence is that the persistent 'engine of anxiety and self-criticism' Harris describes runs precisely because we identify with thoughts we haven't noticed arising. Metacognitive awareness — noticing the thought as a thought — is sufficient to break the identification.

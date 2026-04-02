@@ -51,6 +51,13 @@ related:
   - INS-260321-38EC
   - INS-260322-0E41
   - INS-260323-D6C7
+evidence:
+  - id: INS-260321-38EC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-0E41
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Prediction markets like Kalshi and Polymarket handle over $100B in trading volume, with users betting on elections, geopolitical events, and even the number of starving children in war zones. The theoretical justification - that markets aggregate information better than polls or experts - provides academic cover for what is functionally sports betting extended to everything.
 

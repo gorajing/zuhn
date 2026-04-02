@@ -70,6 +70,9 @@ evidence:
   - id: INS-260327-6D77
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-760A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Tim's team built 20 games, multiple features, a complex mobile app — all before getting real user feedback. Every feature added created more code to maintain, more surface area for bugs, and more distance from the core value proposition. The instinct to 'make it better by adding more' is backwards.
 

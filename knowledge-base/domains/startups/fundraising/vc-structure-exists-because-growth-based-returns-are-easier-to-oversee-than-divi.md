@@ -61,6 +61,16 @@ related:
   - INS-260328-4EA0
   - INS-260328-195E
   - INS-260328-A417
+evidence:
+  - id: INS-260329-196A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-EA4E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-7F73
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Graham raises a question most people skip: why isn't there a parallel VC industry investing in ordinary private companies for dividends? The answer is governance. People who control private companies can funnel revenues to themselves — buying overpriced components from suppliers they control while making the company look unprofitable. Monitoring this would require close attention to books, making it unscalable.
 

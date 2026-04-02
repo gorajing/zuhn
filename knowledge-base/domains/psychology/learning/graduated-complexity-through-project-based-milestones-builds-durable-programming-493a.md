@@ -57,6 +57,10 @@ related:
   - INS-260329-B6A6
   - INS-260329-D75D
   - INS-260330-45FF
+evidence:
+  - id: INS-260329-D75D
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The freeCodeCamp tutorial strategically places three projects at different points: a calculator (basic I/O and operators), mad libs (strings and user input), and a guessing game (loops, conditionals, and state). Each project requires all previously learned concepts plus the new ones just introduced, creating natural spaced retrieval practice.
 

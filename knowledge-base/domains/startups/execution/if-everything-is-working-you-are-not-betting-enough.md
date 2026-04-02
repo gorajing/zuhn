@@ -48,6 +48,10 @@ related:
   - INS-260325-CF3E
   - INS-260323-EDAD
   - INS-260327-9F46
+evidence:
+  - id: INS-260330-06CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Varun Mohan reframes failure from something to avoid into a diagnostic signal. If nothing is failing, the company isn't operating at its potential—it's playing too safe. For frontier technology companies especially, a steady stream of failures indicates the company is exploring the edges of what's possible.
 

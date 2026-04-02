@@ -60,6 +60,16 @@ related:
   - INS-260329-50BD
   - INS-260327-226A
   - INS-260325-1407
+evidence:
+  - id: INS-260329-49E6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5A47
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-50BD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The data Hormozi presents shows a textbook price-value divergence: college tuition has doubled in recent decades while the median starting salary for graduates has remained essentially flat. The result is $1.76 trillion in national student loan debt — more GDP than all but the top 10 countries. This debt is uniquely punitive because it cannot be discharged through bankruptcy, meaning 18-year-olds are making irreversible financial commitments they cannot comprehend.
 

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260329-BA12
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-DACC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The course teaches variables, then expressions, then conditionals, then loops, then functions, then files — each in isolation before combining them. This feels artificial (why learn loops without data to loop over?) but mirrors how children acquire language: individual words, then two-word combinations, then sentences, then paragraphs. At no point does a toddler understand why they're learning the word 'ball' in isolation — the composition comes later and retroactively gives meaning to each component.
 

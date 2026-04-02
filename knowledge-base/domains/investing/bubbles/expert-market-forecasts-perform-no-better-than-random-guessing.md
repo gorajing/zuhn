@@ -55,6 +55,13 @@ related:
   - INS-260327-D6C5
   - INS-260330-2F13
   - INS-260321-B7CB
+evidence:
+  - id: INS-260323-15F4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2F13
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ritholtz cites Philip Tetlock's research showing that thousands of expert market forecasts performed no better than average predictions. The specific, confident forecaster ('Dow will hit 53,575 next year') is psychologically persuasive but empirically less reliable than the honest analyst who says 'I don't know, but historically 8-10% is typical.'
 

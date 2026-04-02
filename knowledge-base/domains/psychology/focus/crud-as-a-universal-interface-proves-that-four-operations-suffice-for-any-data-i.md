@@ -50,13 +50,13 @@ stance: >-
   operations suggests that complex systems are best understood by reducing them
   to a minimal set of primitive operations.
 related:
-  - INS-260325-2F12
   - PRI-260328-8516
   - INS-260329-36D9
   - INS-260329-8181
   - INS-260329-FAE2
   - INS-260329-8F86
   - INS-260329-CC79
+  - INS-260402-F479
   - INS-260329-E4F6
   - INS-260329-057F
   - INS-260330-083D

@@ -45,6 +45,13 @@ related:
   - PRI-260328-0993
   - PRI-260328-2C4C
   - INS-260328-FDC8
+evidence:
+  - id: INS-260328-FDC8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-4C26
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Collectible product trends follow the same speculative bubble pattern as financial assets: early authentic collectors, followed by speculators, followed by market saturation and crash.
 

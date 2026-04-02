@@ -39,9 +39,9 @@ resolutions:
 related:
   - INS-260321-099E
   - PRI-260321-558C
+  - INS-260402-E148
   - INS-260330-F527
   - INS-260330-923F
-  - INS-260329-D37E
 stance: >-
   Write a proven format at the top of a grid, list all markets down the side,
   mark where the combination exists — empty cells are your blue ocean.

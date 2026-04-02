@@ -7,6 +7,7 @@
 - `INS-260329-783C` Ambitious people who can't stay consistent are misdiagnosing a frustration tolerance problem as a motivation problem.
 - `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
+- `INS-260402-529F` Starting small and growing incrementally lets you build things too ambitious to have planned upfront.
 - `INS-260322-AF17` Founders resist comping themselves to public companies because it feels like comparing yourself to astronauts — but the winners (DoorDash, Facebook) were always benchmarking against the biggest players, not other startups.
 - `INS-260321-C0A4` Your probability of success directly correlates with whether your closest friends care about and push you toward what you want to achieve.
 - `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.

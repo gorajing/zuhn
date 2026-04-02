@@ -54,5 +54,15 @@ related:
   - INS-260329-4986
   - INS-260329-8181
   - INS-260325-9C89
+evidence:
+  - id: INS-260329-4696
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-2612
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4986
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Union-Find starts with naive O(n) lookups but achieves near-O(1) amortized performance through path compression — flattening the tree lazily during find operations rather than eagerly maintaining a flat structure on every union. This lazy optimization pattern is powerful precisely because it defers expensive work to moments when it produces compound benefits: compressing a path speeds up all future queries traversing those nodes. The same principle applies broadly in software systems: write-heavy workloads benefit from lazy indexing, event systems benefit from batched processing, and caches benefit from lazy population. The counter-intuitive insight is that doing less work per operation — and doing it later — can yield dramatically better overall throughput.

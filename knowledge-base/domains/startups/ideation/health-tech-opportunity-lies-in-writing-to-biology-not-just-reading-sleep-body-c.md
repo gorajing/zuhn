@@ -61,10 +61,14 @@ related:
   - INS-260327-3A71
   - PRI-260325-663A
   - INS-260327-FCCF
-  - PRI-260328-5989
+  - INS-260402-45FA
 stance: >-
   Current health tech can read biology (wearables, CGMs, blood tests) but cannot
   write to it
+evidence:
+  - id: INS-260322-02A6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Huberman borrows from neuroscience the concept of 'reading vs writing' to biology. The read side is maturing rapidly: continuous glucose monitors, sleep sensors, blood tests, and soon AI systems like Function that aggregate all health data (EHRs, wearables, imaging) to diagnose issues before symptoms appear — the 1.0 version was COVID wearable detection.
 

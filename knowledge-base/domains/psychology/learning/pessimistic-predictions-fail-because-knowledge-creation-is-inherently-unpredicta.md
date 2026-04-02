@@ -88,6 +88,12 @@ evidence:
   - id: INS-260323-7403
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-BA17
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-9F41
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Naval and Brett articulate Deutsch's rational optimism: pessimistic forecasts (Malthusians, resource depletion, etc.) extrapolate current negative trends linearly while ignoring that positive trends mostly come through creativity and knowledge creation. The key logical argument is devastating in its simplicity — predicting the future growth of knowledge is impossible because if you could predict what we'll know, you'd already know it. Knowledge creation is genuinely creative, bringing something into existence that wasn't there before.
 

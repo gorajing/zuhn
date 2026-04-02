@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260329-1F4D
   - INS-260330-4CA7
+  - INS-260402-7182
   - INS-260330-625B
   - INS-260321-988C
-  - INS-260329-6204
   - INS-260329-EC33
 stance: Individual employees want to be lazier and richer
 evidence:

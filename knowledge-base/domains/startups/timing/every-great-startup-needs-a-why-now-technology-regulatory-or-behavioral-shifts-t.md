@@ -58,6 +58,9 @@ evidence:
   - id: INS-260325-060A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-C472
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Elad Gil identifies three types of 'why now': technology shifts (Uber couldn't exist before the iPhone eliminated $1-per-GPS-lookup carrier charges), regulatory shifts (Samsara grew because regulations forced in-cab cameras for trucking), and behavioral shifts (changes in how people work or consume). A common mistake from big-company alumni is building for the era of the company they came from rather than building for what's coming.
 

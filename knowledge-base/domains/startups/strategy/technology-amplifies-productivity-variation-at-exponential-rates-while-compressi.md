@@ -57,6 +57,16 @@ related:
   - INS-260330-B906
   - INS-260402-CF0A
   - INS-260330-7462
+evidence:
+  - id: INS-260325-EBC3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-B906
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-7372
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 As technology advances, it increases individual productive capacity at exponential rates, meaning the most skilled people can generate orders of magnitude more value. A high school student today can write software worth millions, while their peers scoop ice cream. This creates wider income variation.
 

@@ -59,5 +59,9 @@ related:
   - INS-260330-27E8
   - INS-260322-88C3
   - INS-260330-376E
+evidence:
+  - id: INS-260327-E1EB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 After years of being called a 'killer copycat' and facing public backlash, Tencent recognized that turning every entrepreneur into an enemy was unsustainable. A Tencent executive articulated the shift: 'There's a lot of great entrepreneurs outside, and if you turn every single one of them into your enemy, it's not a good thing.' The new strategy was to invest in promising companies, take equity, and then use Tencent's massive user base and infrastructure to help them succeed—essentially becoming a startup incubator. For example, rather than building their own e-commerce platform, they invested in JD.com and directed traffic to it. This approach simultaneously reduced operational complexity (they weren't doing everything themselves), created goodwill in the ecosystem, and generated investment returns. The lesson is that distribution power can be monetized through equity partnerships rather than direct competition, and this is often more sustainable once a platform has become dominant enough that copying feels predatory rather than scrappy.

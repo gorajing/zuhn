@@ -57,5 +57,15 @@ related:
   - INS-260322-2D57
   - INS-260323-F12F
   - INS-260330-4C5A
+evidence:
+  - id: INS-260322-2D57
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-D484
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-F12F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Ram Rajagopal, Stanford professor who directs the premier energy program and has built 3 companies, reveals that AI's biggest constraint is not chips or models but electricity. Data center power demand is growing faster than generation can scale. His shocking discovery: Stanford's 'green' electric buses actually created MORE emissions than diesel ones because the grid's carbon intensity at charging times was worse. His startup uses AI to optimize the grid itself — but the meta-insight is that without solving power infrastructure, AI scaling hits a hard physical ceiling. For founders: 'look where the standards are not set yet in traditional industries where the rewards are disproportionate' — energy grid optimization is that opportunity.

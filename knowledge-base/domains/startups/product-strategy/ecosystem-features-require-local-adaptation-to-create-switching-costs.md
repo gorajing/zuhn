@@ -57,6 +57,12 @@ evidence:
   - id: INS-260323-3ADC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-3AE5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-6411
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Apple's competitive moat in Western markets relies heavily on ecosystem lock-in: Apple Pay, iMessage, Siri, Maps, and seamless device integration create high switching costs. But in India, none of these services function adequately. Apple Pay wasn't available, Siri didn't understand local languages well, and Apple Maps lacked the granularity needed for Indian navigation.
 

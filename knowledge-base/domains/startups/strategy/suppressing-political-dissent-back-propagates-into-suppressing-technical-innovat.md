@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260325-AC52
   - INS-260325-36F0
+  - INS-260402-F853
   - PRI-260324-3AAE
   - INS-260323-C10D
-  - INS-260325-2832
 ---
 Graham observes that imagination is indivisible: it's hard to have odd ideas about technology without also having odd ideas about politics, and many technical ideas have inherent political implications. This means authoritarian regimes face a fundamental contradiction — they want the economic output of innovation but cannot tolerate the intellectual freedom that produces it. The 'back pressure' from political suppression propagates into technical fields.
 

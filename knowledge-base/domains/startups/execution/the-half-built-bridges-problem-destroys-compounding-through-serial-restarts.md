@@ -50,6 +50,10 @@ related:
   - INS-260329-1435
   - PRI-260328-49CB
   - INS-260330-AD13
+evidence:
+  - id: INS-260330-AD13
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi describes 'half-built bridges' — the pattern of starting a skill, business, or career path, getting 60-70% through the hard part, then abandoning it for something newer and shinier. Each restart throws away accumulated compound returns and forces you back to zero. The person who sticks with one path for 5 years almost always outperforms someone who did 5 different things for 1 year each.
 

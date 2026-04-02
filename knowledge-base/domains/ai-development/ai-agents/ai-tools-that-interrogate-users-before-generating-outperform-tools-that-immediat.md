@@ -55,7 +55,6 @@ related:
   - INS-260321-E2FC
   - INS-260329-8DC5
   - INS-260330-A370
-  - INS-260330-BE23
 evidence:
   - id: INS-260330-A370
     type: TRANSFERS_TO

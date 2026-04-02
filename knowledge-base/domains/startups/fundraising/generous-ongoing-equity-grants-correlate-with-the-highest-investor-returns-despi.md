@@ -57,5 +57,12 @@ related:
   - INS-260330-3E6F
   - INS-260330-0B55
   - INS-260330-F4C0
+evidence:
+  - id: INS-260402-180C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-17BE
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Altman cites YC's dataset showing that the most successful companies — where investors earn the highest returns — consistently give out large amounts of stock to employees year after year. He recommends planning for 3-5% annual dilution over 10 years through employee equity. This directly contradicts typical investor advice, which Altman explicitly calls 'bad advice' from all investors except YC. The mechanism is straightforward: equity aligns employees with long-term outcomes, reduces attrition of key talent, and the dilution is shared equally between founders and investors. Altman also recommends staying ahead of vesting schedules with refresher grants so employees never reach the danger zone of 3 years vested out of 4, where they start thinking about leaving.

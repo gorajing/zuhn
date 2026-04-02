@@ -51,6 +51,19 @@ related:
   - INS-260330-72D0
   - PRI-260328-99F0
   - INS-260329-F4E4
+evidence:
+  - id: INS-260330-2064
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F9FB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-72D0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F4E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The concept of a space elevator — a tethered structure extending from Earth's surface to geostationary orbit — is physically sound. The centrifugal force at the far end counterbalances gravitational pull, creating a stable tensile structure. However, no existing material can sustain the tensile stress required over ~36,000 km. Carbon nanotubes and graphene approach the theoretical threshold but cannot yet be manufactured at scale or in continuous lengths.
 

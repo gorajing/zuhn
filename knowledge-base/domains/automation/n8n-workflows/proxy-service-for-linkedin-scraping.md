@@ -44,6 +44,13 @@ resolutions:
 stance: >-
   Using proxy services for LinkedIn scraping eliminates ban risk for personal
   accounts
+evidence:
+  - id: INS-260330-CB2E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-B1F5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Instead of connecting directly to LinkedIn's API or scraping LinkedIn

@@ -60,6 +60,12 @@ evidence:
   - id: INS-260327-CBDF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-4B29
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5232
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Aerogel is 99.8% air by volume, yet it insulates better than a pure air gap. This violates the naive intuition that a material's thermal properties should approximate those of its dominant component. The Knudsen effect explains why: when pore diameter falls below the mean free path of gas molecules (~68nm at atmospheric pressure), molecules collide with pore walls more often than with each other, suppressing convective and conductive heat transfer through the gas phase.
 

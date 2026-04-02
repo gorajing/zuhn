@@ -53,8 +53,8 @@ related:
   - INS-260323-15F4
   - INS-260327-32F1
   - PRI-260328-22EC
+  - INS-260402-4E59
   - PRI-260323-81E9
-  - INS-260325-24D1
 evidence:
   - id: INS-260325-24D1
     type: REFINES

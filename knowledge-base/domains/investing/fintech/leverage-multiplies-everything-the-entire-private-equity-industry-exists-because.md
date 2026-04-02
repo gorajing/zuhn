@@ -66,6 +66,21 @@ evidence:
   - id: INS-260321-2F43
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-6F7B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-33D4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-CB6D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-AEC2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-9DF3
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Srivatsaa demonstrates leverage with a simple example: buying a $1M house all-cash and getting 10% appreciation = 10% return. Buying with $200K down and $800K loan on the same house = 50% return on your capital. This multiplier effect created the entire private equity industry and commercial real estate investing.
 

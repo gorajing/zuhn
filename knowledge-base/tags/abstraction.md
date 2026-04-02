@@ -73,10 +73,6 @@
 - `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
 - `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
 - `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
-- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
-- `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
-- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
-- `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260329-B6A6` Layering complexity one concept at a time onto familiar examples builds more durable understanding than front-loading complete explanations.
@@ -84,6 +80,10 @@
 - `INS-260329-B22B` The surrogate vs. natural key choice embodies a universal trade-off between meaningful identifiers and stable abstractions.
 - `INS-260329-AC6E` Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
 - `INS-260329-0F06` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
+- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
+- `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
+- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
 - `INS-260329-003B` Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.
 - `INS-260402-BA91` Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.

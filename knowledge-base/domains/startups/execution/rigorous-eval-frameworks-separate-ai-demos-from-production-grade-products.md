@@ -61,5 +61,8 @@ evidence:
   - id: INS-260327-7A48
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-D6D7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The biggest gap in AI product development is between impressive demos (60-70% accuracy, enough to raise VC money and get pilot customers) and production-quality systems (97%+ accuracy). The path between them is a grind: write objective evals (true/false, numeric scores), start with a dozen test cases, expand to 100, then 1000. Most founders give up when initial prompt tweaks only move accuracy from 60% to 61%. But with two weeks of dedicated prompt engineering — identifying predictable failure patterns, adding corrective instructions, providing examples — you can reach 97%+ where remaining errors are judgment calls even humans would debate. Customer complaints become your best eval source: real users will do things you never predicted.

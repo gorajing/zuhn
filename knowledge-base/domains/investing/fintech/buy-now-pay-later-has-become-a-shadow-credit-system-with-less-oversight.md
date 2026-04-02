@@ -53,6 +53,16 @@ related:
   - INS-260327-FCC4
   - INS-260327-0519
   - INS-260329-5A47
+evidence:
+  - id: INS-260327-FCC4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0519
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260329-5A47
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 BNPL was designed as short-term purchase financing (8-week payoff), but users treat it as revolving credit - a way to make their monthly budget stretch further. Companies aren't required to report to credit agencies or follow traditional lending regulations, creating a shadow credit system of unknown true size.
 

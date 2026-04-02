@@ -54,6 +54,16 @@ related:
   - INS-260330-3FCF
   - INS-260330-9933
   - INS-260330-4830
+evidence:
+  - id: INS-260330-3FCF
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9933
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4830
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Corporate debt approaching $14T was primarily used for financial engineering rather than productive investment. The playbook: borrow cheap money, buy back shares to reduce share count, which mechanically increases earnings-per-share even without actual earnings growth. Executives compensated in stock options directly benefit from this manipulation.
 

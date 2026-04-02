@@ -52,6 +52,13 @@ related:
   - INS-260327-004B
   - INS-260329-28B0
   - INS-260329-C4A4
+evidence:
+  - id: INS-260329-7C1D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-28B0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Australia's superannuation system demonstrates a pattern relevant globally: workers accumulate substantial retirement savings (average $250K per household) but housing costs are so extreme that many use their entire retirement pot to pay off their mortgage. This technically preserves net worth (retirement savings become home equity) but eliminates the income-generating purpose of retirement savings.
 

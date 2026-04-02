@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-2D1D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-4C09
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The theoretical prediction was published in 1959. Chambers' first experiment largely confirmed it, but critics noted stray magnetic fields from the finite whisker could explain the results. For 27 years, experimentalists iterated: longer solenoids, better shielding, more precise measurements. Each experiment closed some objections but left others open.
 

@@ -49,6 +49,10 @@ resolutions:
 stance: >-
   Obligation-free early twenties should be spent on ambitious personal projects
   not corporate tickets
+evidence:
+  - id: INS-260323-F12F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 The conventional "go to big tech first, then start a company" plan

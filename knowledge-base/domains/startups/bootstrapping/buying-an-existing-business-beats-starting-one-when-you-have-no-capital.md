@@ -50,5 +50,9 @@ related:
   - INS-260330-B09B
   - INS-260329-196A
   - INS-260329-545B
+evidence:
+  - id: INS-260329-196A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Starting a business from scratch requires capital for product development, marketing, hiring, and runway — all before generating a dollar of revenue. Acquiring an existing business inverts this: day-one cash flow exists, customers exist, and the purchase can be structured so the business's own profits service the acquisition debt. Hormozi argues this is especially true at the small business level where many owners want to exit but lack sophisticated buyers. The counterintuitive insight is that buying is actually the lower-risk, lower-capital path compared to building, because you're purchasing proof rather than betting on hypotheses.

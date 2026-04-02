@@ -57,6 +57,16 @@ related:
 stance: >-
   Anthropic has earned $5B revenue against $10B spent; OpenAI's ratio is even
   worse — both companies lose money on every user query.
+evidence:
+  - id: INS-260327-D0F4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2B62
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-930D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Marcus presents stark financial data: Anthropic has earned $5 billion in total revenue but spent $10 billion, losing $5 billion net. OpenAI's numbers are worse — perhaps $50-80 billion spent against $10-20 billion in revenue. Both companies fundamentally lose money every time a user poses a query. This is not a scaling problem to be solved later; it's a structural cost issue exacerbated by rising energy prices.
 

@@ -60,6 +60,10 @@ related:
   - INS-260327-8D82
   - INS-260327-1D23
   - INS-260327-375B
+evidence:
+  - id: INS-260327-1D23
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Duckworth acknowledges a significant gap: while grit is the strongest predictor of success, science knows remarkably little about how to build it. The best idea she's encountered is Carol Dweck's growth mindset — the belief that the ability to learn is not fixed but changes with effort.
 

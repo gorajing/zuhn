@@ -56,6 +56,10 @@ related:
   - INS-260330-984C
   - INS-260329-83AA
   - INS-260330-72C2
+evidence:
+  - id: INS-260329-CB03
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 David Deutsch improves on Popper's falsificationism by adding a crucial criterion: a good explanation must be hard to vary. Testable theories are 'a dime a dozen' — the grass-cure-for-colds example shows you can always adjust parameters (1.0 kg, 1.1 kg, 1.2 kg) to dodge refutation. The seasons example illustrates the difference: the Greek myth of Persephone could swap any god without changing predictions (easy to vary), while the 23-degree axial tilt explanation makes precise, narrow predictions that break if you change any component.
 

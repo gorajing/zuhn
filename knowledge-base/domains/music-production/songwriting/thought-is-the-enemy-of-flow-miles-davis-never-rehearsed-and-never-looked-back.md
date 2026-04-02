@@ -52,7 +52,7 @@ related:
   - INS-260321-6D01
   - INS-260330-6CA5
   - INS-260330-363D
-  - INS-260322-89A9
+  - INS-260402-A693
 stance: >-
   Miles Davis never rehearsed with his band, never told them they were being
   recorded, and never listened back to recordings

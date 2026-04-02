@@ -52,5 +52,9 @@ related:
   - INS-260329-825D
   - INS-260329-C754
   - INS-260327-7B2B
+evidence:
+  - id: INS-260329-C754
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi argues that the middle market is where businesses die — you either build for volume from day one (Amazon, Walmart) or you sell premium to a narrow niche. Premium customers have lower relative expectations per dollar spent, allowing you to over-deliver while maintaining healthy margins without needing massive infrastructure. Tesla started with the $250K Roadster before building the Model 3. Hormozi himself built acquisition.com (premium deals with $50M+ companies) before investing in School ($99/month for millions of users), because the premium business generated the capital needed to subsidize mass-market infrastructure that took 5+ years and tens of millions to build.

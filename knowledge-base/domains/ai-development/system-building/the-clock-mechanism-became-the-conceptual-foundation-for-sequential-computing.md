@@ -56,6 +56,13 @@ related:
   - INS-260325-5B7F
   - INS-260330-DBA4
   - INS-260330-91EA
+evidence:
+  - id: INS-260330-DBA4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-91EA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Clock technology provided computing with three critical contributions. First, a physical technology of standardized parts, small gears, and precise mechanisms that could be adapted for calculation. The Swedish father-and-son team that built the first working version of Babbage's difference engine used clock technology rather than Babbage's locomotive-scale approach. Second, clocks provided the conceptual model of stepping through operations in a controlled sequence. Third, clocks enabled the synchronized collaboration needed for divided labor — factories and computing offices both required people to arrive at the same time.
 

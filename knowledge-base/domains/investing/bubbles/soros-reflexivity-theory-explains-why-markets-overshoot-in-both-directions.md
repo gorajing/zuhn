@@ -54,6 +54,13 @@ related:
   - PRI-260324-F9CD
   - PRI-260323-2C5C
   - INS-260326-8E6D
+evidence:
+  - id: INS-260325-4300
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260326-8E6D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The August 2024 crash and next-day recovery perfectly illustrates Soros's reflexivity: falling prices triggered margin calls and stop-losses, which caused more selling, which further lowered prices. Then recovery created buying momentum that triggered more buying. Neither the crash nor the recovery reflected changes in fundamentals - they reflected changes in expectations that became self-fulfilling.
 

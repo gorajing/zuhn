@@ -53,6 +53,13 @@ related:
 stance: >-
   The Black-Scholes equation derives from a single powerful assumption: if you
   can construct a risk-free portfolio of options and stocks through dyna...
+evidence:
+  - id: INS-260329-F07A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-59FF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Black, Scholes, and Merton's breakthrough was combining Bachelier's random walk model with Thorpe's dynamic hedging insight. If you sell an option and continuously adjust your stock holdings (delta hedging) to eliminate risk, you've created a synthetic risk-free portfolio. In an efficient market, such a portfolio can only earn the risk-free rate.
 

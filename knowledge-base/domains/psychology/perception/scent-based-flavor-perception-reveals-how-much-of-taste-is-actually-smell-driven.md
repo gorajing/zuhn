@@ -49,6 +49,10 @@ related:
   - PRI-260328-BF1E
   - INS-260327-5688
   - INS-260327-690E
+evidence:
+  - id: INS-260320-9118
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Products that create flavor through scent alone demonstrate that a large percentage of what consumers perceive as taste is actually olfactory, making it possible to sell flavored nothing.
 

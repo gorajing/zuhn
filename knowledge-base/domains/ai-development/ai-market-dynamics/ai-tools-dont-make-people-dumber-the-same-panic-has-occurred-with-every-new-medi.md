@@ -51,6 +51,7 @@ related:
   - INS-260402-3639
   - INS-260323-87F3
   - PRI-260323-0942
+  - INS-260402-7C15
 stance: >-
   Socrates warned that writing would destroy memory; every new medium triggers
   the same fear, and humanity adapts every time.
@@ -63,6 +64,9 @@ evidence:
     classified_at: '2026-04-02'
   - id: INS-260330-2988
     type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260402-3639
+    type: CHALLENGES
     classified_at: '2026-04-02'
 ---
 Brain scientist Kim Dae-sik's perspective: Socrates argued that writing would make humans lazy and intelligence would regress. Europeans panicked when Latin stopped being taught in schools, claiming Western civilization would collapse. Koreans debated Chinese character education. Electronic calculators in schools caused the same uproar. Each time, the fear was about visible phenomena rather than underlying capability.

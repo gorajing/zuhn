@@ -57,5 +57,8 @@ evidence:
   - id: INS-260325-FBE5
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260324-5C53
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 a16z argues the consumer AI landscape evolves too fast for traditional moats. When models update weekly and infrastructure shifts monthly, building slowly or methodically (as in the mobile era) is fatal. The companies pulling away — Perplexity, Lovable, Replit, ElevenLabs — explicitly build for velocity. Each product iteration gives something new to show and share. Even after reaching 'mindshare air' (mainstream consciousness), you must keep flapping harder than competitors. Default distribution strategies no longer work — every marketing channel underperforms — forcing companies to break the mold with spectacle-based distribution.

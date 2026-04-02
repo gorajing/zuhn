@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 215 insights
+> 216 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -128,6 +128,7 @@
 - `INS-260330-2784` [high] The 'Fall of Rome' is a framing choice that erases 1000 years of Byzantine continuation, illustrating how dominant narratives shape what we consider real.
 - `INS-260326-A7CB` [high] The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
 - `INS-260323-821F` [high] Mathematicians who publicly rejected the axiom of choice were found to be unknowingly using it in their own proofs -- the most natural assumptions are the hardest to notice.
+- `INS-260402-AC3D` [high] You can see what's missing in weaker tools but are blind to what's missing in your own compared to more powerful ones.
 - `INS-260330-B2C5` [high] When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260330-41DB` [high] Ancient Greeks knew Earth was round 2000+ years before Columbus; the flat Earth myth was a 19th-century invention that became 'common knowledge' through repetition.
 - `INS-260330-3DB2` [high] Ancient Greeks knew Earth was round 2000+ years before Columbus — the myth that he proved it was invented in the 1800s to create a progress narrative.

@@ -50,5 +50,12 @@ related:
   - INS-260330-137A
   - INS-260330-B6AD
   - INS-260329-2A70
+evidence:
+  - id: INS-260330-4830
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-2A70
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Apple accumulated $285B in offshore cash that it couldn't easily repatriate without paying ~35% US corporate tax. While this sounds like a position of strength, it was actually a shareholder liability — idle cash sitting in low-yield instruments earns far less than what shareholders could earn by reinvesting dividends into index funds or other opportunities. The core insight applies broadly to any capital allocation decision: holding cash beyond what's needed for operations is a drag on returns. This is why Berkshire Hathaway's cash pile draws periodic criticism despite Buffett's reputation, and why activist investors pressure cash-rich companies to return capital. The lesson for investors is to scrutinize companies hoarding cash — it often signals a lack of compelling reinvestment opportunities rather than financial prudence.

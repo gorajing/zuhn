@@ -61,5 +61,12 @@ related:
   - INS-260325-9C89
   - INS-260329-8D70
   - INS-260325-6150
+evidence:
+  - id: INS-260329-4986
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8D70
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The union-find data structure tracks which elements belong to which groups using a forest of trees, where each element points to a parent and the root identifies the group. Without optimization, finding the root requires traversing up to n parent pointers — O(n) per query. Path compression transforms this: every time you traverse a path to find the root, you redirect every node along that path to point directly to the root. This means the act of querying permanently flattens the tree structure, making all future queries on those nodes O(1). Combined with union by rank (attaching smaller trees under larger ones), this achieves an amortized time complexity of O(α(n)) — the inverse Ackermann function — which is effectively constant for any practical input size. The elegance is that the data structure is self-optimizing: it gets faster the more you use it. This principle of 'every read improves future reads' appears in caching systems, JIT compilers, and adaptive algorithms. Kruskal's minimum spanning tree algorithm relies on this property — it needs to repeatedly check and merge groups, and union-find with path compression makes the entire algorithm nearly linear despite processing all edges.

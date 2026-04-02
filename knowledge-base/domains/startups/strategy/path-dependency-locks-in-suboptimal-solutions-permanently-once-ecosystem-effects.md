@@ -60,6 +60,10 @@ related:
   - INS-260330-4441
   - INS-260330-50B3
   - INS-260330-E497
+evidence:
+  - id: INS-260325-1709
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When early photosynthetic organisms evolved RuBisCo, atmospheric CO2 was abundant and O2 was scarce — the enzyme worked well. But the success of photosynthesis itself flooded the atmosphere with oxygen, creating the exact conditions that made RuBisCo fail. The organism's own dominance reshaped the environment in a way that permanently locked in the suboptimal design.
 

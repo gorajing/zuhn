@@ -56,6 +56,16 @@ related:
   - INS-260330-4B30
   - INS-260329-BDCC
   - INS-260330-FD28
+evidence:
+  - id: INS-260330-B599
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-BDCC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FD28
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The C++ tutorial dedicates significant time to pointers and pass-by-reference vs pass-by-value — concepts that most higher-level languages abstract away. But this abstraction creates a blind spot: developers building AI systems in Python often don't realize when they're mutating shared state vs creating copies, leading to subtle bugs in prompt chains, agent memory, and embedding caches.
 

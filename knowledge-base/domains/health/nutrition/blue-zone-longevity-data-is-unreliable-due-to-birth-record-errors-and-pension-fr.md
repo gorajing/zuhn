@@ -56,6 +56,10 @@ related:
   - INS-260330-0539
   - INS-260330-FABE
   - INS-260325-CFC1
+evidence:
+  - id: INS-260325-3B28
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Investigation of Blue Zone claims reveals significant data quality issues. Many purported centenarian populations come from regions with historically poor birth record documentation. Cases of pension fraud -- where families continue collecting deceased relatives' pensions by not reporting deaths -- inflate centenarian counts. When regions improve their record-keeping, centenarian populations often shrink dramatically.
 

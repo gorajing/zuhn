@@ -57,6 +57,12 @@ evidence:
   - id: INS-260330-F205
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-DFF1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DFF0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The AI economic paradox is self-referential: trillions in data center investment creates construction jobs, drives stock gains that boost consumer spending, and maintains economic activity. But this spending is building tools designed to automate the very workforce whose spending sustains the economy.
 

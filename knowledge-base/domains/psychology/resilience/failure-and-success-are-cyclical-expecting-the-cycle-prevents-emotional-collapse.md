@@ -56,6 +56,10 @@ related:
   - INS-260330-9BF3
   - INS-260329-DF07
   - INS-260329-4D24
+evidence:
+  - id: INS-260323-1811
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi observes that the most destructive aspect of failure isn't the failure itself but the surprise and emotional devastation that comes from not expecting it. When people frame success as the default state and failure as an anomaly, each setback triggers a disproportionate emotional response.
 

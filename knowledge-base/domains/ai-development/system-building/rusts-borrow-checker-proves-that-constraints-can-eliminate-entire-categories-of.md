@@ -61,5 +61,15 @@ related:
   - INS-260329-3423
   - INS-260329-7914
   - INS-260329-1ACD
+evidence:
+  - id: INS-260329-818A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4842
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-1ACD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video highlights Rust's borrow checking as a paradigm shift: it achieves memory safety without a garbage collector by making the compiler enforce ownership rules at compile time. This is a profound design principle that extends far beyond programming languages. The insight is that *constraints encoded into the system itself* are more reliable than *conventions enforced by discipline*. Garbage collectors solve memory safety at runtime cost. Manual memory management relies on developer vigilance. Rust's innovation is moving the check to compile time — zero runtime cost, zero possibility of the bug class existing. This principle applies to system design broadly: schema validation at the API boundary prevents invalid data more reliably than validation scattered through business logic. Type-safe SQL (like Prisma) prevents injection more reliably than parameterized queries that developers might forget. The pattern is: push invariant enforcement as early in the pipeline as possible, ideally making violations unrepresentable.

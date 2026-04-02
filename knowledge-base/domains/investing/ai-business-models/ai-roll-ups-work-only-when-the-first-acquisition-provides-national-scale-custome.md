@@ -59,6 +59,18 @@ evidence:
   - id: INS-260323-C316
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-CFB1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-7ECB
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-217C
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-CCC4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The naive AI roll-up thesis — buy 200 accounting firms and inject AI — fails because each local acquisition only gives local clients and requires 9 months of integration before buying the next. This is traditional PE territory where mid-market firms have done it 500 times.
 

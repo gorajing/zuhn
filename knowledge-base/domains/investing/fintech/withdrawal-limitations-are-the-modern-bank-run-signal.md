@@ -51,6 +51,13 @@ related:
   - INS-260330-2B4F
   - INS-260330-A1A4
   - INS-260327-9BE8
+evidence:
+  - id: INS-260322-A31D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-A1A4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Investment funds that accept daily or monthly withdrawals while holding illiquid multi-year loans face a fundamental duration mismatch. In normal times, inflows and outflows roughly balance. When sentiment shifts and more investors want out than in, the fund cannot sell illiquid assets fast enough. Limiting withdrawals is the only alternative to fire-sale liquidation.
 

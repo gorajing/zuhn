@@ -59,5 +59,9 @@ related:
   - INS-260330-7F62
   - INS-260327-7F73
   - INS-260330-B09B
+evidence:
+  - id: INS-260327-7F73
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 YC shares a cautionary tale of a company originally formed as a Connecticut LLC on advice from local lawyer friends. When they joined YC and converted to Delaware, the Connecticut lawyers made a 'simple but crucial' mistake — the company believed it was a Delaware Corporation for years but was actually still a Connecticut LLC. The error was only discovered during a major fundraising round, requiring four different law firms (two in Delaware, one in Connecticut, one in Silicon Valley) and a $500,000 bill to untangle. This illustrates a broader principle about startup infrastructure: deviations from standard defaults create invisible technical debt that compounds silently and surfaces at maximum-stress moments (fundraising, acquisition due diligence). The fix is to never get fancy — use standard Delaware C-Corp formation through established services like Clerky, which costs hundreds rather than thousands and eliminates an entire category of future risk.

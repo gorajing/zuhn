@@ -56,6 +56,13 @@ related:
   - INS-260330-B599
   - INS-260329-9CFE
   - INS-260329-B922
+evidence:
+  - id: INS-260330-B599
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-9CFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial's progression from variables (direct value storage) to pointers (storing memory addresses that reference values) teaches a fundamental computer science concept that extends far beyond C++. In AI system design, this same distinction appears everywhere: embedding vectors that reference semantic meaning, context windows that point to conversation history, RAG systems that store references to documents rather than documents themselves.
 

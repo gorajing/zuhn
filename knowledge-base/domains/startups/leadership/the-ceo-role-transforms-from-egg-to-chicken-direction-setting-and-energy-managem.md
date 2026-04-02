@@ -63,6 +63,9 @@ evidence:
   - id: INS-260322-B6DE
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260322-C472
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Despite the massive complexity increase from 5-person startup to multi-thousand-person organization, three CEO functions remain constant: (1) set direction for the company, (2) allocate resources and don't run out of money, and (3) serve as the chief psychologist — managing people's feelings, conflicts, and alignment. At early stage, the CEO handles this directly; at scale, they build management layers to handle it.
 

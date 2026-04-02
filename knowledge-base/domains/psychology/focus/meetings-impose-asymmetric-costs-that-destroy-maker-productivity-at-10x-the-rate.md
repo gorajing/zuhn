@@ -61,6 +61,9 @@ evidence:
   - id: INS-260325-DAD7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-7435
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The fundamental insight is that makers and managers operate on incompatible time currencies. A manager divides their day into 20+ small chunks (15-60 minutes each), so one meeting costs roughly 1/100th of their weekly capacity. A maker operates on 2-3 large blocks per day (~10 per week), meaning one meeting destroys 10% of their total weekly output — not just the meeting duration, but the entire block it sits in.
 

@@ -54,6 +54,10 @@ related:
   - INS-260325-7B58
   - INS-260322-EDA4
   - INS-260325-0688
+evidence:
+  - id: INS-260322-760A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi's approach inverts the default financial architecture most people have. Instead of money hitting one account and hoping for leftover savings, you pre-allocate investment money off the top and only interact with the spending remainder. This echoes behavioral economics research on choice architecture — the path of least resistance determines outcomes more than intention.
 

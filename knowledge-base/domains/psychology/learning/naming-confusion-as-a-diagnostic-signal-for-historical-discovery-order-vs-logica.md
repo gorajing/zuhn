@@ -58,8 +58,15 @@ related:
   - INS-260330-4329
   - INS-260330-3819
   - INS-260330-0143
+  - INS-260402-89DE
   - INS-260330-E47D
-  - INS-260325-0713
+evidence:
+  - id: INS-260325-69CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-40DC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Photosystem II was named second but acts first in the electron transport chain — the naming reflects discovery order, not functional order. This isn't just a biology trivia point; it's a meta-learning signal. Fields built through incremental discovery (biology, networking protocols, programming languages) accumulate naming debt where labels reflect historical accident rather than logical structure.
 

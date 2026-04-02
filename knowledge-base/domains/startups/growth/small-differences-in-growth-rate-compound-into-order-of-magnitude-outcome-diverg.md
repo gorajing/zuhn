@@ -47,7 +47,6 @@ stance: >-
   growth rate the highest-leverage variable in any exponential system.
 related:
   - INS-260328-D1B2
-  - INS-260329-AF18
   - INS-260329-CBF6
   - INS-260329-F2E1
   - INS-260330-CB30
@@ -56,6 +55,7 @@ related:
   - PRI-260328-C918
   - INS-260330-9935
   - INS-260330-6AA3
+  - INS-260330-FA4C
 evidence:
   - id: INS-260328-D1B2
     type: CONTRADICTS

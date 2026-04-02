@@ -64,6 +64,12 @@ evidence:
   - id: INS-260321-1A03
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-93F9
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-7B63
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The newspaper analogy reveals a pattern: newspapers thought their value was expertise, curation, and journalism, but they were actually a light manufacturing and local distribution company — and the internet disrupted the part they didn't think about. LLMs remove boring, time-consuming, mind-numbing tasks by nature. Any industry whose profitability or defensibility rests on complexity-as-moat (US health insurance is the cited example) faces existential risk from AI making that complexity trivially navigable.
 

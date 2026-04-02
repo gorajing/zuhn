@@ -56,6 +56,10 @@ related:
   - PRI-260328-4144
   - PRI-260323-0F93
   - PRI-260324-1A67
+evidence:
+  - id: INS-260325-DF82
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Taleb argues that the standard discourse only recognizes two categories: fragile (harmed by volatility) and robust (indifferent to it). But the true mathematical opposite of fragile is antifragile — things that actually improve when exposed to stressors, randomness, and disorder. A package marked 'fragile' means 'handle with care'; its true opposite would read 'please mishandle.'
 

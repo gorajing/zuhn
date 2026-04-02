@@ -61,6 +61,19 @@ related:
   - INS-260329-8F86
   - INS-260330-CE2F
   - INS-260329-4D03
+evidence:
+  - id: INS-260327-D794
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-0F06
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-003B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CE2F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The tutorial spends significant time on a seemingly simple bug: adding two user inputs produces '58.3' instead of 13.3 because Python treats input as strings by default. This is not a Python quirk — it is the fundamental lesson that data representation determines available operations. String concatenation and numeric addition use the same '+' operator but produce completely different results.
 

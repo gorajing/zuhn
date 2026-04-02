@@ -81,6 +81,9 @@ evidence:
   - id: INS-260321-6437
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260324-8D35
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In 2004, eBay changed its affiliate payment model from paying for confirmed registered users to paying for activated confirmed registered users (someone who confirmed their account AND bid, bought, or listed an item). Overnight, confirmed registrations from affiliates dropped ~20%, but activated users only dropped ~5%. The ratio of registered to active users improved, and then active user growth massively accelerated.
 

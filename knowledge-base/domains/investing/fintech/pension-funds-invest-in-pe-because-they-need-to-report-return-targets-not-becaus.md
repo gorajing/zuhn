@@ -58,6 +58,16 @@ related:
   - INS-260330-2AC0
   - INS-260330-77D1
   - INS-260330-7199
+evidence:
+  - id: INS-260330-855A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B357
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-77D1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Pension funds face a structural problem: they've promised 7-8% returns to retirees. Public markets deliver volatile returns that sometimes fall short. PE offers smoothed returns through infrequent valuations - they don't mark to market daily, so the portfolio never shows the volatility that pension boards would have to explain.
 

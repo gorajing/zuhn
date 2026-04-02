@@ -55,6 +55,25 @@ related:
   - INS-260330-C172
   - INS-260323-9AA5
   - INS-260330-B50A
+evidence:
+  - id: INS-260330-775F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6C09
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9BB7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-C172
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-9AA5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B50A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Graham contrasted Bayesian filtering with SpamAssassin's point-scoring approach: a probability of 0.97 for 'sex' has clear meaning and combines with other evidence via Bayes' Rule unambiguously, while a 'score' of some number of points is opaque to both users and developers. The probabilistic approach also naturally considers exculpatory evidence — words like 'though' and 'apparently' that decrease spam probability — while scoring systems typically only accumulate guilt.
 

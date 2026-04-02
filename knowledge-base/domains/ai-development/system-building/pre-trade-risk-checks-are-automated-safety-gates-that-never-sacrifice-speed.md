@@ -51,6 +51,19 @@ related:
   - INS-260329-CD02
   - INS-260329-C7B8
   - INS-260329-76EE
+evidence:
+  - id: INS-260329-A9ED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-AA2C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-CD02
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-76EE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Before any order reaches an exchange, it passes through automated pre-trade risk checks that verify position limits, order size, and strategy correctness — all in microseconds. If anything looks anomalous, the order is blocked before it ever hits the exchange. These checks prevent financial disasters from bugs, misfiring strategies, or runaway algorithms.
 

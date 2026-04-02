@@ -47,5 +47,9 @@ related:
 stance: >-
   Don't find a blue ocean — create one by taking a format proven in Market A and
   applying it to Market B where nobody has used it yet.
+evidence:
+  - id: INS-260325-A8E6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 YouTube content is two things: market (topic like finance, fitness, gaming) and format (the creative vessel — POV, animation style, ranking). Markets barely change but new formats emerge daily. Niche banding takes a format that's proven successful in one market and transplants it to another market where it's never been applied. Tim Danilov used this to build multiple channels generating 400M+ won in revenue. The strategy works because the format is already validated — you're only changing the audience.

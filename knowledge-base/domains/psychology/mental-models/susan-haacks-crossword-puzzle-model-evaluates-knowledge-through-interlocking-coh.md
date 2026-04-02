@@ -57,6 +57,7 @@ related:
   - INS-260330-C172
   - INS-260330-1815
   - INS-260330-9BB7
+  - INS-260402-89DE
 ---
 Philosopher Susan Haack proposed that knowledge works like a crossword puzzle: each entry (belief) is supported both by its own clue (evidence) and by how well it interlocks with crossing entries (other beliefs). A word that fits its clue but conflicts with three crossing words is probably wrong. Similarly, a claim supported by one piece of evidence but contradicting multiple established facts should be doubted.
 

@@ -63,6 +63,10 @@ related:
   - PRI-260327-5635
   - INS-260325-75C5
   - INS-260329-A6EA
+evidence:
+  - id: INS-260329-A6EA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hoffman's investment thesis framework transforms the vague advice of 'be persistent but know when to pivot' into a concrete decision system. The thesis is a list of specific beliefs about why your startup will succeed — for early LinkedIn: everyone benefits from public professional profiles, initial adoption comes from enthusiasts willing to experiment, mass market follows once the network delivers value, recruiting economics work. As you execute, you measure: is my confidence in each bullet increasing or decreasing?
 

@@ -70,6 +70,21 @@ evidence:
   - id: INS-260325-90C6
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260324-62A8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F22A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260324-782C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-DCFB
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-007E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 OpenAI faces the classic first-mover disadvantage: they funded the expensive research that proved AI capabilities were possible, but later entrants can build on published research and open-source foundations at dramatically lower cost. The 'random Swedish men in their bedroom' matching or exceeding OpenAI's capabilities represents the nightmare scenario for any pioneer.
 

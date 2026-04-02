@@ -66,6 +66,18 @@ evidence:
   - id: INS-260330-3EFC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-C991
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-CF48
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-71DE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260320-D3D5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The intuitive assumption is that handling multiple simultaneous operations requires multiple threads running in parallel. JavaScript's event loop disproves this: asynchronous operations (network requests, timers, file reads) are offloaded to a separate thread pool, but their callbacks are queued and executed one at a time on the main thread. This yields concurrency without parallelism.
 

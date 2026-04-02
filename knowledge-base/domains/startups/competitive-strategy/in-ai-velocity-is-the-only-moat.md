@@ -55,5 +55,8 @@ evidence:
   - id: INS-260325-FBE5
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-7B63
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 GenSpark achieved $36M ARR in 45 days with under 30 people by building faster than anyone. Wen argues there is fundamentally no moat in AI because the underlying models are improving so rapidly that any product advantage is temporary. Their AI agents write 80% of their own code, enabling extreme velocity. The strategic implication: rather than trying to build defensibility through data or network effects, AI startups should optimize for shipping speed. The team that integrates the latest model capabilities into products fastest wins the next cycle.

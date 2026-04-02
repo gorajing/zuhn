@@ -65,6 +65,12 @@ evidence:
   - id: INS-260321-1749
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-94F5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-4BF3
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The supply side of tech hype (startups producing narratives) is well understood. But the demand side is equally important and less discussed. Fortune 500 executives are terrified of being disrupted. During the big data era, no CEO wanted to be caught without a data strategy. Every Wall Street analyst asked how companies were going to stop tech from eating their lunch. The conversation devolved into a pissing match of who had the most data and best data culture.
 

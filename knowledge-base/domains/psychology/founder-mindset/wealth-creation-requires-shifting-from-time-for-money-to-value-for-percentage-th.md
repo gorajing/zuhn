@@ -58,5 +58,8 @@ evidence:
   - id: INS-260329-3489
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-B906
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi's overarching thesis across all 10 strategies is that wealth isn't built by optimizing hourly rates — it's built by decoupling income from time. Every strategy he presents shares one trait: income scales with value delivered, not hours worked. This requires a fundamental cognitive reframe from 'what is my time worth?' to 'how much value can I create and what percentage can I capture?' This is psychologically difficult because hourly thinking is deeply conditioned from employment, education, and social norms. The practical implication is that the first step isn't finding the right business — it's rewiring how you think about the relationship between effort, value, and compensation. People who never make this shift keep optimizing the wrong variable (hours) instead of the right one (value delta).

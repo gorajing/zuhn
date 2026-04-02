@@ -45,6 +45,10 @@ related:
   - PRI-260328-8284
   - PRI-260328-EAC4
   - INS-260329-C754
+evidence:
+  - id: INS-260329-C754
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs is inelastic and consumers trade down to them during downturns.
 

@@ -56,6 +56,10 @@ related:
   - INS-260402-EA72
   - INS-260328-195E
   - INS-260402-EEDB
+evidence:
+  - id: INS-260330-3B31
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 YC consistently sees that the investors who cause the most downstream problems are unsophisticated ones — friends, family, neighbors who invest small amounts ($5-10K) without understanding that startup investing is a long-term, high-risk game. These investors eventually want their money back for personal reasons (new kitchen, financial pressure), creating operational headaches and potential legal complications for the company.
 

@@ -53,6 +53,13 @@ related:
   - INS-260325-FC0B
   - INS-260327-CBBB
   - INS-260330-3994
+evidence:
+  - id: INS-260323-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-CBBB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When markets crash globally with simultaneous finger-pointing at Japan's yen carry trade, the Fed's rate decisions, and algorithmic trading, and then recover almost completely the next day, it reveals a fundamental truth: the interaction of modern market mechanisms (algorithmic trading, leveraged positions, global capital flows) has created a system more complex than any participant can model.
 

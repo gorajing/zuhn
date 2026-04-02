@@ -56,6 +56,12 @@ evidence:
   - id: INS-260327-684D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260402-3FD8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4329
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Traditional SETI searches for specific pre-defined patterns: narrow-band radio signals or short optical pulses. This approach carries an inherent bias — we are only looking for the kinds of signals we can imagine. Tarter describes a threshold moment where AI and machine learning can analyze SETI data in a bias-free way.
 

@@ -55,6 +55,10 @@ related:
   - INS-260329-E914
   - INS-260329-48FD
   - INS-260329-F211
+evidence:
+  - id: INS-260329-F211
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown teaches the Fourier Transform by first building an 'almost Fourier Transform' — a simplified winding machine that captures the core intuition. Only after the learner fully grasps this simplified version does he reveal the actual formula differs by just one detail (not dividing by the time interval). This progressive construction technique makes the full integral formula feel like a small modification to something already understood, rather than an intimidating expression dropped from the sky.
 

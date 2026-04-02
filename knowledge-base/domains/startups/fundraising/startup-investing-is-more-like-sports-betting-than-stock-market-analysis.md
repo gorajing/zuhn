@@ -58,6 +58,22 @@ related:
   - INS-260330-EE5E
   - INS-260402-8424
   - INS-260330-6204
+evidence:
+  - id: INS-260326-6B98
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-33E0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-039E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-6351
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-3B31
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Some founders expect startup capital allocation to work like public markets, where companies have P/E ratios and can be valued through quantitative analysis. Dalton points out this expectation breaks completely at the early stage: 'Where are the value investors in startups?' Finding the stuff with the lowest valuation and highest revenue is a demonstrably bad way to invest in startups.
 

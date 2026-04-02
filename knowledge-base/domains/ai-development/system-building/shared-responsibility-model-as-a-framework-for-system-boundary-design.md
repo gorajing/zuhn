@@ -58,6 +58,10 @@ related:
   - INS-260325-2BDB
   - INS-260327-FDF4
   - INS-260330-CA88
+evidence:
+  - id: INS-260330-CA88
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 AWS's shared responsibility model draws a clear line: AWS is responsible for security 'of' the cloud (physical data centers, hardware, networking, hypervisor), while customers are responsible for security 'in' the cloud (OS patching, application code, data encryption, IAM policies, network configuration). This division shifts depending on the service model — with EC2, the customer manages the OS; with Lambda, AWS manages everything except the code and IAM.
 

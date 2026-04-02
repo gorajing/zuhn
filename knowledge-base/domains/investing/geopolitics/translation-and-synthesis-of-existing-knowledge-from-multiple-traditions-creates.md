@@ -53,13 +53,13 @@ related:
   - INS-260323-2627
   - INS-260327-8BF6
   - INS-260330-9A46
+  - INS-260402-89DE
   - INS-260330-2783
   - INS-260327-CFD5
   - INS-260325-568A
-  - INS-260330-E89A
   - INS-260330-FCA3
+  - INS-260330-E89A
   - INS-260330-E54B
-  - INS-260330-3ECE
 ---
 The House of Wisdom's most enduring contribution was translation and synthesis: Greek philosophy, Persian administrative science, Indian mathematics, and Arab astronomy were combined into new frameworks that exceeded any individual tradition. Arabic numerals (originally Indian) and algebra (originally Greek concepts, formalized by al-Khwarizmi) were synthesis products, not original inventions.
 

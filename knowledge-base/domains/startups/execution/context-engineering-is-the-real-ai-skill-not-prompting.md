@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-E1FA
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-0F39
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Utley distinguishes between prompting ('write me a sales email') and context engineering ('write me a sales email using our brand voice guidelines, referencing this customer call transcript, pulling from our product specs'). Most people expect AI to read their mind, then complain the output sounds generic.
 

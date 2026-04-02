@@ -55,6 +55,10 @@ related:
   - INS-260325-F500
   - PRI-260325-A95E
   - INS-260328-AE33
+evidence:
+  - id: INS-260329-EC33
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi describes achieving his long-held goal of fully exiting the org chart while maintaining the same income — and finding it 'wildly boring and almost depressing.' This contradicts the dominant entrepreneurial narrative that passive income equals ultimate success. He argues that what people actually seek isn't freedom from work but rather options — the ability to choose what to work on, when, and with whom.
 

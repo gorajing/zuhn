@@ -50,9 +50,10 @@ related:
   - INS-260327-E2BC
   - INS-260327-D5CC
   - INS-260402-27A1
-  - INS-260402-8EED
+  - INS-260402-2B96
   - INS-260327-39D4
   - INS-260328-F303
+  - INS-260402-8EED
 ---
 Rakhmetzhanov identifies a destructive pattern among high school student founders: they build products and launch them but always with a safety net of university applications. This split focus prevents the total commitment that separates successful startups from side projects.
 

@@ -51,5 +51,9 @@ related:
   - INS-260327-9C3A
   - INS-260330-57BB
   - INS-260330-0998
+evidence:
+  - id: INS-260324-8D35
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Uber systematically offered free and discounted rides in new cities, knowing they'd lose money on every trip. The goal wasn't immediate profitability — it was building a user base large enough that shutting Uber down would trigger public backlash against politicians. Once critical mass was reached, Uber mobilized users through in-app petitions and pre-filled emails to flood regulators' inboxes. They even organized protests at city halls. This created a repeatable playbook: subsidize adoption → build dependency → convert users into political leverage → negotiate from strength. The strategy reframes regulatory compliance as a timing problem rather than a legal one — if you're big enough before enforcement catches up, the rules change to accommodate you rather than the other way around.

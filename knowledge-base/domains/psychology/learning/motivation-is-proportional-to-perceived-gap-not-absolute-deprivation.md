@@ -58,7 +58,6 @@ related:
   - INS-260330-CFEA
   - INS-260327-3574
   - INS-260330-24E0
-  - INS-260330-C7B5
 ---
 Physical deprivation (hunger, thirst, fatigue) creates motivation through physiological signals, but financial and professional motivation operates on a purely psychological mechanism: the perceived gap between current state and desired state. A person earning $5K/month wanting $10K is at 50% of their goal; a person earning $1M/month wanting $10M is at 10% of their goal — the wealthier person feels more deprived relative to their target.
 

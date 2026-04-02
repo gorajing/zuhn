@@ -51,6 +51,10 @@ related:
   - INS-260324-468C
   - INS-260323-3CD0
   - INS-260323-6258
+evidence:
+  - id: INS-260324-468C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Financial media routinely describes market declines as money being 'lost', 'destroyed', or 'wiped out', which implies real wealth disappearing. In reality, stock prices represent the marginal price of the last trade multiplied across all shares - a notional figure that was never available to be liquidated. A $10 trillion market cap doesn't mean $10 trillion of actual money exists in that market.
 

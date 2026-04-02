@@ -51,13 +51,13 @@ related:
   - INS-260325-24D1
   - INS-260323-BEF0
   - INS-260325-4C09
-  - INS-260323-9AA5
   - INS-260320-3798
   - INS-260329-A077
   - INS-260330-1718
   - INS-260330-B2C5
   - INS-260330-B2B8
   - INS-260402-E76D
+  - INS-260330-420B
 evidence:
   - id: INS-260330-B2B8
     type: SUPPORTS
@@ -67,6 +67,9 @@ evidence:
     classified_at: '2026-04-02'
   - id: INS-260323-BEF0
     type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-4C09
+    type: SUPPORTS
     classified_at: '2026-04-02'
 ---
 Columbia biologist Stuart Firestein reframes the relationship between knowledge and ignorance: rather than science being a march toward complete knowledge, it is a process of generating better questions. 'It is a mistake to bob around in the circle of facts, instead of riding the wave to the great expanse lying outside the circle.' Facts are like photos from a road trip — documentation of where you've been — while ignorance is the fuel propelling you forward.

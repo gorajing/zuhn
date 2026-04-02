@@ -52,5 +52,9 @@ related:
   - INS-260321-E654
   - INS-260402-8424
   - INS-260402-E2AF
+evidence:
+  - id: INS-260322-C472
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham advises Y Combinator startups to apply for patents not to sue competitors but because patents are part of the 'mating dance with acquirers.' Most startup acquisitions are build-vs-buy decisions, and a solid patent application on critical software helps tip the balance toward buying. Patents give acquirers an excuse to admit they couldn't replicate the technology—important because acquirer engineers systematically overestimate their ability to rebuild in-house. However, Graham emphasizes patents are secondary to having a great product with a large, growing user base. The practical takeaway: file patents early as cheap insurance for acquisition optionality, but never let patent strategy distract from the primary job of building something users love.

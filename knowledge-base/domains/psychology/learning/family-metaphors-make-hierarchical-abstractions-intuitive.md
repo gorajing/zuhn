@@ -55,6 +55,10 @@ related:
   - INS-260329-48FD
   - INS-260329-70F2
   - INS-260329-9CED
+evidence:
+  - id: INS-260329-1075
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The HTML tutorial teaches DOM nesting by calling elements 'parents,' 'children,' and 'siblings' rather than using abstract graph theory terminology. This works because family relationships are among the most deeply internalized conceptual structures humans possess — everyone understands that children belong to parents, siblings are peers, and nesting implies containment.
 

@@ -47,5 +47,10 @@ related:
   - INS-260322-C472
   - INS-260330-0346
   - INS-260402-EE6E
+  - INS-260402-F62B
+evidence:
+  - id: INS-260322-C472
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Nazo discovered that developers spend more than 60% of their time on non-coding activities: debugging, testing, monitoring, deploying, and supporting production. CloudAI automates these specific repetitive workflows. The broader principle: the best AI startup opportunities in 2025 are not flashy reasoning applications but boring, repetitive workflows that people do not enjoy. Ask yourself for any workflow: could we do this better, more efficiently, or automate it? If yes, there is a startup there. These may not be the most glamorous use cases, but they are perfect for AI agents and have clear, measurable ROI.

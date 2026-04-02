@@ -48,5 +48,15 @@ related:
   - PRI-260328-4144
   - INS-260325-05FC
   - PRI-260327-7A68
+evidence:
+  - id: INS-260322-AD9B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-21C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-05FC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi distinguishes between two investor archetypes: Bettors who seek outsized returns through timing, speculation, and asymmetric bets, versus Builders who create value through operational improvement, compounding, and long-term ownership. His portfolio strategy heavily favors Builder-type investments — buying into businesses where he can improve operations — because the returns are more predictable and less dependent on market timing. This framework is useful for anyone allocating capital: instead of asking 'what will go up?' ask 'where can value be built through better execution?'

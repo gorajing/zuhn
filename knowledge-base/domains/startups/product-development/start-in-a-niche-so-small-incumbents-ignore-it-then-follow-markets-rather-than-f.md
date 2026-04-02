@@ -60,6 +60,10 @@ related:
   - PRI-260328-FBB3
   - INS-260324-224B
   - INS-260330-E5BE
+evidence:
+  - id: INS-260323-22E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When the VR bubble burst in 2016-2017, every major player exited 360 video -- Nikon, LG, Kodak, Samsung all pulled out. Insta360 stayed. Their Nano product was a commercial flop as a 360 gadget, but they noticed something unexpected: skiers, cyclists, and athletes were using it for action sports despite the camera having no waterproofing, swappable batteries, or mounting capability. These users were fed up with GoPros and valued the ability to capture everything in one take and pick the best angles in post-production.
 

@@ -54,6 +54,10 @@ related:
   - PRI-260328-0E23
   - INS-260329-D0B3
   - PRI-260325-070D
+evidence:
+  - id: INS-260329-D0B3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Real Estate 1.0→2.0→3.0 framework illustrates a broader principle: technology evolution in industries follows a layering pattern, not an era-replacement pattern. Real Estate 3.0 (ownership innovation) requires Real Estate 2.0 (streamlined transactions) which requires 1.0 (information transparency). Each layer enables the next — you cannot fractionalize ownership without digital transactions, and you cannot digitize transactions without comprehensive data.
 

@@ -55,6 +55,13 @@ related:
   - INS-260330-C1EA
   - INS-260323-53FF
   - INS-260330-1B6E
+evidence:
+  - id: INS-260329-C4A4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-C1EA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The personal finance internet is dominated by investment optimization content — index funds vs. ETFs, tax-loss harvesting, Roth conversion ladders. Hormozi argues this is exactly backwards for people with little savings. If you have $5,000 invested, the difference between 7% and 10% annual returns is $150/year — completely irrelevant compared to the $12,000-$50,000+ annual impact of focused income growth.
 

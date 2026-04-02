@@ -58,6 +58,10 @@ related:
   - INS-260324-A046
   - INS-260327-5973
   - INS-260329-49A4
+evidence:
+  - id: INS-260322-D079
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Musk describes a specific analytical technique he calls the 'magic wand number': take any product, list its raw materials by weight, price them at commodity rates, and that gives you the theoretical minimum cost. The gap between that floor and your actual cost is entirely due to how you arrange the atoms — your manufacturing process, tooling, and design complexity. This reframes cost optimization from incremental supplier negotiations to fundamental design changes.
 

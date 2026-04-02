@@ -55,5 +55,9 @@ related:
   - INS-260322-837A
   - PRI-260323-7B35
   - INS-260330-AF2B
+evidence:
+  - id: INS-260330-8FEC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Double Irish Dutch Sandwich tax structure exploits a fundamental asymmetry: physical goods have market prices that regulators can verify, but intellectual property has no precise value. Apple assigns patents to an Irish subsidiary, which then charges Apple US licensing 'fees' — converting taxable American profit into a deductible expense owed to Ireland. The money then transits briefly through a Netherlands shell company (exploiting a Dutch loophole for nearly tax-free transfers) before landing in a Jersey-based Irish subsidiary. Every step is 100% legal. The key enabler is that IP valuation is inherently subjective — unlike transferring a $500 widget at $1 (obviously fraudulent), licensing a patent portfolio at any price is defensible. This makes IP-heavy businesses structurally advantaged for tax optimization compared to physical goods companies.

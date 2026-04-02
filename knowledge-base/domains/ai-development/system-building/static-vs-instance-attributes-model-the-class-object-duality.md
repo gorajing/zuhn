@@ -49,5 +49,12 @@ related:
   - INS-260329-0432
   - INS-260329-BA12
   - INS-260329-41BC
+evidence:
+  - id: INS-260330-CE2F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-41BC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial introduces a Song class with a static songCount that increments in the constructor. By printing songCount between object creations, students see it go from 0 to 1 to 2. The key conceptual leap: you access it via Song.songCount (the class), not holiday.songCount (an object). This distinction — that a class is itself an entity that can hold state — is one of the hardest OOP concepts for beginners. Most learners think of classes purely as templates. The static keyword breaks that mental model in a productive way, revealing the class-object duality that underlies patterns like singletons, factory methods, and dependency injection.

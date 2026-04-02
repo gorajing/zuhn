@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 119 insights
+> 121 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -33,6 +33,7 @@
 - `INS-260327-289F` [high] Gamma's competitive moat is design taste encoded into building blocks: AI generates 10 layout options and picks the best, but the building blocks themselves were crafted by a team that was one-third designers.
 - `INS-260330-AB3E` [high] Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
 - `INS-260402-0F36` [high] The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
+- `INS-260402-7B69` [high] In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
 - `INS-260330-1282` [high] Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
 - `INS-260327-C569` [high] Enterprises are on the hook for outcomes — AI will evolve as composite systems with checks and balances, not the AGI monolith that media hypes.
 - `INS-260329-693E` [high] Use Expo for iOS development — it handles App Store Connect, bundle IDs, builds, and TestFlight submission with two commands.
@@ -91,6 +92,7 @@
 - `INS-260323-257D` [high] Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.
 - `INS-260327-62CF` [high] YouTube's embed feature — built from day one — turned MySpace profiles into a free distribution channel: users embedded YouTube videos, the logo spread, and curiosity converted viewers into uploaders, all at zero marketing cost.
 - `INS-260330-0B79` [high] When users request a feature, don't build it — instead investigate the underlying problem driving the request.
+- `INS-260402-4633` [high] The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
 - `INS-260330-2119` [high] Oxygen — the gas that enabled all animal life — was originally just a toxic waste product of photosynthesis, making it history's most valuable accidental byproduct.
 - `INS-260330-8890` [high] Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
 - `INS-260322-3C3D` [high] ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.

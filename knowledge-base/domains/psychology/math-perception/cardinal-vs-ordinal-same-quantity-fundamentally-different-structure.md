@@ -50,7 +50,6 @@ stance: >-
   two collections of the same size can have completely different organizational
   properties.
 related:
-  - INS-260323-FAF0
   - INS-260325-C523
   - INS-260325-72AE
   - INS-260323-527B

@@ -55,6 +55,10 @@ related:
   - INS-260330-FEDD
   - INS-260330-03F7
   - INS-260325-7973
+evidence:
+  - id: INS-260325-7973
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video builds up nested layers of motion: Earth's spin (1,670 km/h at equator), orbit around the sun (108,000 km/h), solar system drift toward Vega (70,000 km/h), galactic orbit (792,000 km/h), and movement toward the Great Attractor (2.1 million km/h). Crucially, there is no absolute rest frame — 'the universe doesn't include a convenient sheet of graph paper at absolute rest.' The best we can do is measure against very distant stars that barely appear to move.
 

@@ -63,6 +63,13 @@ related:
   - INS-260324-224B
   - INS-260327-0004
   - INS-260327-90E8
+evidence:
+  - id: INS-260324-27E2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260324-29D8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Consumer electronics companies face a brutal treadmill: each generation must be compelling enough to justify full-price purchase, but R&D costs are front-loaded and each release devalues the previous generation. GoPro tried to set the tempo with 9 generations in 10 years, but improvements became trivial and the use case never evolved beyond extreme sports.
 

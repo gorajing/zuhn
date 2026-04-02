@@ -55,6 +55,10 @@ related:
   - INS-260327-D0F3
   - INS-260321-7C97
 stance: Text-only planning (markdown PRDs) is insufficient for vibe coding
+evidence:
+  - id: INS-260327-D0F3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Heo argues that a core reason vibe coding produces subpar results is that most people plan exclusively in text — dense markdown PRDs or one-line prompts. But complex software planning requires visualization: user flows showing how pages connect, tree views of functional hierarchies, and flowcharts showing decision logic. These visual artifacts help both the human decision-maker and the AI agent understand the full context.
 

@@ -55,6 +55,10 @@ related:
   - INS-260330-7E3F
   - PRI-260328-BD9B
   - INS-260323-1B42
+evidence:
+  - id: INS-260330-7E3F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Charlie Ellis's loser's game concept maps tennis to investing. Professional tennis players win by scoring points — aces, power shots, precision placement. Amateurs lose through unforced errors: double faults, hitting wide, hitting into the net. Similarly, a tiny elite of investors (Buffett, Lynch) can pick stocks successfully. The other 99.9% lose through emotional trading, ignoring costs, and market timing.
 

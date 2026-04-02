@@ -54,6 +54,10 @@ related:
 stance: >-
   Orion's design for reuse across multiple Artemis missions fundamentally
   changes space economics from disposable to durable infrastructure.
+evidence:
+  - id: INS-260330-2064
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Unlike Apollo's single-use capsules, the Orion spacecraft is designed to be returned and reused across multiple Artemis missions. This shift from disposable to reusable space hardware mirrors what SpaceX achieved with rocket boosters but extends it to the crewed vehicle itself. The economic implications are significant: amortizing development costs over many missions makes each subsequent mission dramatically cheaper.
 

@@ -50,6 +50,19 @@ resolutions:
 stance: >-
   Letting dogs make small choices builds confidence and reduces anxiety-driven
   behaviors
+evidence:
+  - id: INS-260330-293E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-0E1D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8848
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1845
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Giving dogs agency through small choices throughout the day is a

@@ -54,6 +54,13 @@ related:
   - PRI-260328-8993
   - INS-260329-49A4
   - INS-260329-E44D
+evidence:
+  - id: INS-260329-49A4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-E44D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The standard PE fee structure (2% annual management fee + 20% of gains above hurdle) guarantees substantial revenue regardless of performance. A $10B fund generates $200M annually in management fees before a single investment is made. This makes fundraising (increasing assets under management) more profitable than investing well.
 

@@ -23,6 +23,7 @@
 - `INS-260327-C4AC` Ask someone to explain their strongest belief and watch it dissolve - most convictions are adopted from environment rather than derived from reasoning.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
 - `INS-260323-0D51` When victory or success is never defined precisely, it is always a tell that there is deception at the heart of the claim -- this applies to geopolitics, business pitches, and any context where vague goals substitute for measurable ones.
+- `INS-260402-4F0E` People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.
 - `INS-260330-EDF4` Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
 - `INS-260330-1815` Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.

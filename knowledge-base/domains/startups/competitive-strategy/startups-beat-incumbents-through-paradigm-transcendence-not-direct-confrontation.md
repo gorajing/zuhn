@@ -51,5 +51,9 @@ related:
   - INS-260327-5CB0
   - INS-260323-DE2B
   - INS-260327-30E4
+evidence:
+  - id: INS-260327-5CB0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Graham identifies a key reason patents matter less in software: startups rarely attack big companies head-on. Instead of building a better desktop word processor, they build Writely (web-based). Big companies are 'extremely good at denial'—if you attack from an oblique angle, they'll actively maneuver to keep you in their blind spot. IBM sued mainframe competitors but ignored microcomputers; Microsoft couldn't see a world where Windows was irrelevant. This denial is a structural advantage for startups because being sued would require the incumbent to acknowledge the threat exists. The strategic implication is that the best defense against patent risk is also the best offense: choose a paradigm the incumbent doesn't want to believe in.

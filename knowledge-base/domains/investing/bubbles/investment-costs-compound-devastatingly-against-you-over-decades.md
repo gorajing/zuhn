@@ -55,6 +55,13 @@ related:
   - INS-260323-0DC4
   - INS-260329-191D
   - INS-260329-F443
+evidence:
+  - id: INS-260330-9470
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-CC75
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The math on investment fees is stark: over 25-30 years, a high-cost portfolio produces roughly 20% less value than an identical low-cost portfolio. The 'Vanguard effect' — the competitive fee pressure created by Vanguard's low-cost funds — saved investors approximately $1 trillion by 2016 and another trillion in the decade since.
 

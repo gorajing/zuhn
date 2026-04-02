@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-3ADC
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-F753
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Apple's implicit calculus — India generates minimal revenue today, so why adapt? — ignores the compounding dynamics of market entry timing. While Apple waits, Samsung, Xiaomi, and local players are acquiring hundreds of millions of users, building app ecosystems, establishing service integrations, and creating switching costs. Each year of absence makes future entry exponentially harder.
 

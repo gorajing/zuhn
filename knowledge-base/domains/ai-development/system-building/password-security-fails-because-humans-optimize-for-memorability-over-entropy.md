@@ -58,6 +58,13 @@ related:
   - INS-260325-BE3A
   - INS-260330-6C09
   - INS-260330-125E
+evidence:
+  - id: INS-260330-6C09
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-125E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 CS50's cybersecurity lecture reveals that the most common passwords in 2021 were variations of '123456', 'password', and 'qwerty' — all optimized for human memorability rather than cryptographic entropy. Malan also debunks the common 'clever substitution' defense (replacing 'e' with '3', 's' with '5') by noting that if many people independently discover the same 'clever' trick, adversaries will enumerate those substitutions too.
 

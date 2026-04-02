@@ -46,6 +46,10 @@ related:
   - INS-260327-4C26
   - INS-260327-86FE
   - INS-260327-A620
+evidence:
+  - id: INS-260327-4C26
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Reusable tote bags from trendy brands function primarily as visible virtue signals rather than practical shopping tools, which is why consumers own dozens while using few.
 

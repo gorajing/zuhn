@@ -56,6 +56,10 @@ related:
   - INS-260327-6F11
   - INS-260327-6F12
   - PRI-260328-59DC
+evidence:
+  - id: INS-260327-42F0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Paul Graham argues that conscious effort to generate startup ideas produces a uniquely dangerous category: ideas that are bad but plausible-sounding, causing founders to waste significant time before realizing the flaw. Apple, Yahoo, Google, and Facebook all started as side projects — none were originally meant to be companies.
 

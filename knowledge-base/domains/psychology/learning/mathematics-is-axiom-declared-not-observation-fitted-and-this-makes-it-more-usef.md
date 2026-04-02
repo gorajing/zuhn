@@ -67,6 +67,9 @@ evidence:
   - id: INS-260325-CC49
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-D8B9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Unlike science, where theories must explain and predict observations, mathematical axioms are simply declared to be true. Their consequences become what we observe within the mathematical universe. If axioms lead to contradictions, we modify or abandon them — but the selection criterion is internal consistency, not empirical fit.
 

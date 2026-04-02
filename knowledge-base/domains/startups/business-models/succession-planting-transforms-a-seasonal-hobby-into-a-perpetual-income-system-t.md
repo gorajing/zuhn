@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-54ED
   - INS-260327-A9D5
+  - INS-260402-9D7B
   - INS-260329-55C4
   - INS-260330-CC30
-  - INS-260329-FEA8
 evidence:
   - id: INS-260327-A9D5
     type: CONTRADICTS

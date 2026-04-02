@@ -69,6 +69,12 @@ evidence:
   - id: INS-260325-CC49
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-2FC3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-820C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video notes that the Banach-Tarski paradox may connect to sub-atomic particle physics, where high-energy collisions produce more particles than went in. This follows a long historical pattern: non-Euclidean geometry was pure abstraction until Einstein needed it for general relativity. Complex numbers were mathematical curiosities until they became essential for quantum mechanics. Group theory preceded particle physics by decades.
 

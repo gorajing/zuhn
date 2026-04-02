@@ -60,5 +60,8 @@ evidence:
   - id: INS-260322-642F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260322-6DFC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Arora joined Palo Alto, it was a single-product firewall company with 1.5% market share. The platform journey started almost accidentally: he found 7 of 37 planned features related to DNS security and redirected engineering to make it a complete solution rather than a free feature. This became the template: if customers already trust you to go inline with their network and buy 4 subscriptions, what other sliver feature industries can you eliminate with a 5th, 6th, 7th? Over seven years, they launched six additional subscriptions (11 total), each addressing a billion-dollar lateral market. Then they stitched these into three platforms where products work better together, creating a differentiated offering nobody could replicate without spending $8-10 billion. The key insight: you can't start at platform. You must start with an MVP that wins, earn trust, then expand laterally where 1+1=3.

@@ -54,6 +54,13 @@ related:
   - INS-260330-FFAB
   - PRI-260328-9FB6
   - INS-260325-02F2
+evidence:
+  - id: INS-260330-FFAB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-02F2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Kipping highlights Hart's Fact A as 'the strongest data point we have' in astrobiology: there are no aliens on Earth right now. While we cannot prove a distant exoplanet lacks civilization, we can be highly confident that no alien civilization cohabits our planet. This seemingly modest observation has profound implications.
 

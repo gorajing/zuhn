@@ -45,7 +45,6 @@ resolutions:
     cut through vendor hype by providing a concrete litmus test for where AI
     will actually deliver value.
 related:
-  - INS-260325-6FA7
   - INS-260325-EF79
   - INS-260327-94FE
   - INS-260327-70DF
@@ -55,6 +54,7 @@ related:
   - INS-260323-F282
   - INS-260323-F540
   - INS-260327-F55A
+  - INS-260327-A5CD
 stance: >-
   AI's strongest achievements (AlphaGo, AlphaFold) are in domains with
   verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate
@@ -77,6 +77,9 @@ evidence:
     classified_at: '2026-04-02'
   - id: INS-260327-F55A
     type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A5CD
+    type: SUPPORTS
     classified_at: '2026-04-02'
 ---
 Acemoglu draws a sharp distinction between tasks where AI thrives and where it struggles. AI excels in predictable, office-based cognitive tasks with clear right/wrong answers — protein folding, game playing, routine accounting. But most real-world occupations require tacit knowledge, contextual judgment, social intelligence, and interaction that AI cannot replicate.

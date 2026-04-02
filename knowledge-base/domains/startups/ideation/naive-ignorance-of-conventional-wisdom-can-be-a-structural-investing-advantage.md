@@ -47,5 +47,9 @@ related:
   - INS-260330-1002
   - INS-260330-B6AD
   - INS-260330-CECB
+evidence:
+  - id: INS-260330-B6AD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dalton and Michael note that as startup founders turned investors, they lacked the finance background that would have told them not to fund companies in India or other international markets. This ignorance turned into an advantage: while sophisticated investors avoided these markets based on historical return data, YC funded Groww, Razorpay, and Nishoo — companies that became decacorns. The principle generalizes: sometimes the best investments come from not knowing the conventional rules well enough to follow them. The key is distinguishing productive naivete (ignoring artificial constraints) from destructive naivete (ignoring real risks).

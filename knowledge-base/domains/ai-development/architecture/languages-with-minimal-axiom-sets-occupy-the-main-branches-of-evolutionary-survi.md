@@ -57,6 +57,16 @@ related:
   - PRI-260328-BD81
   - INS-260325-82E8
   - INS-260330-9DC9
+evidence:
+  - id: INS-260326-286F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-82E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-9DC9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Graham argues that programming languages form evolutionary trees analogous to biological species, with dead-end branches (Cobol, potentially Java) and main branches that persist. The key predictor of which branch a language occupies is the size and cleanliness of its fundamental operator set — its 'axioms.' Just as mathematicians prefer fewer axioms, language designers should ruthlessly eliminate redundant primitives. Having both strings and lists, for example, adds an axiom that provides no expressive power — only efficiency — and efficiency should be handled as compiler optimization advice rather than semantic complexity.
 

@@ -57,6 +57,22 @@ related:
 stance: >-
   The two cardinal rules of investing: only use money you don't need short-term,
   and never leverage your portfolio
+evidence:
+  - id: INS-260328-195E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-59FF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6204
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8542
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-072D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Ackman distills his investment advice for everyday investors into two non-negotiable rules. First, never invest money where a loss would force you to sell (e.g., money needed for housing). This ensures you can think long-term. Second, never borrow against securities — markets offer leverage, and in most environments it works, but nuclear events, wars, or crises can instantly halve even the best businesses.
 

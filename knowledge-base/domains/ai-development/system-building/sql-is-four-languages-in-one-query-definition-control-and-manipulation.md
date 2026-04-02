@@ -55,6 +55,13 @@ related:
   - INS-260327-2C5F
   - INS-260330-206C
   - INS-260329-CB6D
+evidence:
+  - id: INS-260327-2C5F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-CB6D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 SQL is not a single-purpose language but a hybrid of four: Data Query Language (SELECT — read-only, safe), Data Definition Language (CREATE/ALTER/DROP — schema changes, high risk), Data Control Language (GRANT/REVOKE — security configuration), and Data Manipulation Language (INSERT/UPDATE/DELETE — data changes, medium risk).
 

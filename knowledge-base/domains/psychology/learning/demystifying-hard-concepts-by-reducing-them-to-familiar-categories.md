@@ -54,6 +54,10 @@ related:
   - INS-260329-72D5
   - INS-260329-0F39
   - INS-260329-B6A6
+evidence:
+  - id: INS-260329-0F39
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial's approach to teaching C pointers is pedagogically notable: rather than building up pointers as a complex new abstraction, the instructor explicitly says 'a pointer is just a type of data, like an integer is a whole number, a double is a decimal number, a char is a character — a pointer is just a memory address.' This category-reduction technique works because it leverages existing schema (students already understand 'types of data') rather than requiring a new mental model from scratch.
 

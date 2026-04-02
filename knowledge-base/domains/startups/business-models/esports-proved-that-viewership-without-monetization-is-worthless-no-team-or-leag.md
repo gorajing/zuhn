@@ -59,5 +59,8 @@ evidence:
   - id: INS-260323-6230
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-D522
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The esports thesis: young audiences fleeing traditional media → concentrated engaged viewership → monetizable through tickets, merch, and media rights like NBA/NFL. Reality: viewership never translated to revenue. Twitch itself can't turn a profit despite being the primary distribution platform. Teams that IPO'd became penny stocks. Fortune 500 sponsors left. The only remaining sponsors are Saudi Arabia, crypto exchanges, online casinos, and fast food. The industry is now run by 'con artists, shell companies, and charlatans.' The core problem: unlike physical sports where stadium scarcity creates ticket economics, esports has infinite free-to-watch supply.

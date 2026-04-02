@@ -58,5 +58,11 @@ evidence:
   - id: INS-260327-63B5
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260320-C8CC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-4773
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Overly complex multi-feature prompts increase error rates because each feature introduces dependencies and potential conflicts. The more reliable path is to start with the basics — user login and one primary feature — deploy it, verify it works (login succeeds, data saves, forms submit), then add secondary features through follow-up prompts. Each new feature is layered on top of something already verified. This gives you control over how the app evolves and makes debugging dramatically easier. When something breaks, you know it was the last thing you added, not some interaction between five simultaneous features.

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260329-B408
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-F232
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dr. Chuck's Python for Everybody course deliberately begins not with Python syntax but with how computers physically work — CPU fetch-execute cycles, memory vs. storage, and input/output pathways. This is counterintuitive for a beginner course where students are eager to write code, but it builds a mental model that pays dividends throughout the learning journey.
 

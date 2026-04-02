@@ -60,5 +60,9 @@ related:
   - INS-260330-174B
   - INS-260330-420D
   - INS-260330-CC49
+evidence:
+  - id: INS-260327-E72F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Thiel identifies a powerful pattern recognition tool: monopolists use set-union framing (Google describes itself as a technology company competing in a $1T market — cars, phones, cloud, office — rather than a search engine with 66% market share), while non-monopolists use set-intersection framing (a restaurant pitches itself as 'the only British food in Palo Alto' to seem unique). The intersection narrative is a red flag — 'the Stanford of North Dakota' is one-of-a-kind but it's not Stanford. Similarly, stacking buzzwords (sharing + mobile + social + apps) creates fictitious uniqueness. When evaluating any business, the critical question is what the actual objective market is, not the narrative market. If the narrative requires combining multiple adjectives to define the category, or if the company describes itself as competing with everyone in a trillion-dollar market, the framing is likely a lie designed to obscure either monopoly power or competitive weakness.

@@ -51,10 +51,23 @@ stance: >-
 related:
   - INS-260329-59FF
   - INS-260329-5414
+  - INS-260402-43F9
   - INS-260329-9F81
   - INS-260329-1D8D
-  - PRI-260328-26AA
   - INS-260330-F1C8
+evidence:
+  - id: INS-260329-59FF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-9F81
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-1D8D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F1C8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi implicitly lays out a phase-based allocation framework: when your net worth is under ~$100K, the highest-return investment is nearly always in your own earning capacity (skills, relationships, reputation). Financial asset returns on a small base are mathematically insignificant compared to the potential increase in annual earnings. As your capital base grows and your earning potential approaches its ceiling, the equation gradually shifts toward traditional financial asset allocation.
 

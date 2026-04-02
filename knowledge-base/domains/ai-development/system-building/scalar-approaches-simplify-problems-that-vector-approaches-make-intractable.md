@@ -61,6 +61,22 @@ related:
 stance: >-
   Lagrange's breakthrough was converting the three-body problem from vectors
   (directional, hard to add) to scalars (magnitudes, trivially additive)
+evidence:
+  - id: INS-260323-CF93
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-2F12
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-B61B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-7DAE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-1302
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The three-body problem was unsolvable for hundreds of years because tracking three-dimensional force vectors between three bodies created an intractable mess of coupled equations. Lagrange's insight was to convert the problem from vectors to scalars: instead of tracking force vectors, track potential values (just numbers) at each point in space. Adding scalars is trivial — you just sum them. Then you can always derive the vectors back from the scalar field via the gradient.
 

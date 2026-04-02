@@ -58,6 +58,13 @@ related:
   - INS-260330-716C
   - INS-260325-5ACA
   - INS-260327-684D
+evidence:
+  - id: INS-260330-716C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-684D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Seager's conclusion after decades of searching for Earth twins is sobering: there is no planet B. Exoplanets are so far away that reaching them is infeasible with current or foreseeable technology. Even when habitable planets are found, they will likely differ significantly from Earth.
 

@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 274 insights
+> 275 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -176,6 +176,7 @@
 - `INS-260329-E078` [high] Career success follows a two-phase model: broad exploration to find your edge, then ruthless exploitation of that single edge.
 - `INS-260329-727B` [high] The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260325-B14B` [high] Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
+- `INS-260402-43F9` [high] Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260402-96E2` [high] Starting a company in mid-century America was rejected not as too risky but as too low-status compared to climbing institutional ladders.
 - `INS-260323-DA1E` [high] John Bell revolutionized physics by re-examining the EPR paradox that everyone had dismissed as 'settled' — his theorem proved that local hidden variables make different predictions than quantum mechanics, turning a philosophical debate into a testable experiment.
 - `INS-260328-FFC3` [high] Telling a great engineer to 'build better software' is useless — telling them to invest in sales is transformative.

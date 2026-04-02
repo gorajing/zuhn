@@ -50,6 +50,13 @@ related:
   - INS-260323-BA17
   - INS-260323-422B
   - INS-260327-D6C5
+evidence:
+  - id: INS-260323-15F4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wharton Professor Philip Tetlock's analysis of thousands of expert forecasts found they performed no better than the average person's predictions — which are themselves quite poor. Nobody predicted the pandemic crash and 69% recovery in 2020, Russia's invasion of Ukraine, or the Fed's 500-basis-point rate hikes sending both stocks and bonds down double digits in 2022.
 

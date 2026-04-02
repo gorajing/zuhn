@@ -54,6 +54,10 @@ related:
 stance: >-
   Unlike human children who build world models from minimal data, LLMs require
   the entire internet as a crutch because they mimic rather than underst...
+evidence:
+  - id: INS-260402-86C4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Marcus draws a sharp contrast between human and machine learning: his two children have seen perhaps a hundredth of a percent of the internet yet understand the world because they build models of how it functions. LLMs, by contrast, must memorize the entire internet to give the illusion of intelligence through pattern mimicry. This insatiable data hunger drives copyright violations, quality compromises, and the desperate ingestion of garbage sources.
 

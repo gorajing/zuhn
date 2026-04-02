@@ -59,6 +59,10 @@ related:
   - INS-260329-5346
   - PRI-260323-7BFA
   - INS-260322-F6AA
+evidence:
+  - id: INS-260323-D288
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Stripe practiced extreme transparency from the start — BCCing every employee on every outgoing email, copying each other on everything. This worked at small scale but broke in specific ways as they grew: Gmail literally broke from volume, new employees reported terrible onboarding experiences drowning in email, and people became reluctant to share ideas knowing 170+ people were watching.
 

@@ -50,6 +50,10 @@ related:
   - INS-260322-F6AA
   - PRI-260328-7E58
   - INS-260327-40D5
+evidence:
+  - id: INS-260322-F6AA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The demand destruction paradox: every job automated by AI eliminates both a cost (salary) and a revenue source (consumer spending). Individual companies benefit from automation but collectively they're destroying the demand that sustains business. Henry Ford understood this when he paid workers enough to buy his cars.
 

@@ -55,6 +55,10 @@ related:
   - INS-260329-9C20
   - INS-260329-6AF5
 stance: 'The 10,000-hour rule was misunderstood as ''practice creates excellence'''
+evidence:
+  - id: INS-260329-6AF5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Malcolm Gladwell corrects the record on his own theory: '10,000 hours' was about the insufficiency of talent alone and the duration of practice needed. It was never about practice making any excellence accessible. 'That's nonsense. Who would think that?' You can spend 10,000 hours on a golf course and never become Scottie Scheffler.
 

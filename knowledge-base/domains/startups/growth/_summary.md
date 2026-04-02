@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 46 insights
+> 48 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -8,6 +8,7 @@
 - `INS-260330-3398` [high] When eBay switched affiliate payments from confirmed registrations to activated users, registrations dropped 20% but active user growth massively accelerated.
 - `INS-260330-4553` [high] When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
 - `INS-260330-3084` [high] Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
+- `INS-260402-910C` [high] Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
 - `INS-260402-2632` [high] Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - `INS-260330-AE70` [high] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
 - `INS-260330-DE80` [high] Apple pivoted its growth narrative from iPhone unit sales to ecosystem ARPU (services, accessories, subscriptions) once smartphone saturation made unit growth impossible.
@@ -18,6 +19,7 @@
 - `INS-260330-A949` [high] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - `INS-260330-410A` [high] Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - `INS-260330-D968` [high] The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
+- `INS-260402-D9AC` [high] Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260330-0371` [high] Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
 - `INS-260330-0E4C` [high] One detractor cancels out ten champions, but customers who experience problems that get resolved often become the most passionate long-term advocates.
 - `INS-260330-072D` [high] One person saying 'don't use them' destroys more growth than ten champions create, so always make it right even when it's expensive.

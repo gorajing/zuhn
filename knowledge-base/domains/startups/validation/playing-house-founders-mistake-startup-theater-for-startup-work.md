@@ -62,6 +62,10 @@ related:
   - INS-260329-903B
   - INS-260330-7CC0
   - INS-260330-49C8
+evidence:
+  - id: INS-260327-F9C3
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Graham coined the term 'playing house' at YC for the pattern where founders come up with a plausible idea, raise funding at a good valuation, rent a nice office, hire friends — then gradually realize they're doomed because they never made something people want. This happens because founders have been trained their entire lives to succeed by performing rituals: extracurricular activities for college, artificial assignments for grades, laps for athletics.
 

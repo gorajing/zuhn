@@ -6,15 +6,13 @@
 - `INS-260327-45B4` A user created sketch notes of his chemist father's lectures using Nano Banana, enabling their first real conversation about the work in decades, a use case Google never anticipated.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1B47` Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.
-- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260327-CC35` Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260402-AEA1` Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
+- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260327-DECA` AI model capability is racing ahead but UX is the bottleneck—winning means solving the interface problem.
 - `INS-260329-BE50` Dr. Chuck's course succeeds with 7.6M views not by simplifying Python but by ruthlessly eliminating every prerequisite — no prior math, no command-line setup, no CS jargon — so the actual content can be taught at full depth.
 - `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
-- `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
-- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260330-FE9E` Your job is to listen to customer problems and translate them into the best simplest solution — not to build exactly what they tell you to build.
@@ -24,3 +22,5 @@
 - `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
 - `INS-260323-E797` Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius was making it controllable, not more powerful.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
+- `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
+- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.

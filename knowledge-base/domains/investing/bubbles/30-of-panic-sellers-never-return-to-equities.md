@@ -49,6 +49,16 @@ related:
   - INS-260330-CECB
   - INS-260321-347D
   - INS-260327-D4D8
+evidence:
+  - id: INS-260330-EF10
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260323-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CECB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Studies show that roughly 30% of people who sell during market lows never return to equities. Those who panic-sold in early 2009 and stayed out missed a 15-year bull run. This is the ultimate unforced error in the loser's game.
 

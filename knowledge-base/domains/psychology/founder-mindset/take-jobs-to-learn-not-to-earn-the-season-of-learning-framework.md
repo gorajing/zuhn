@@ -51,6 +51,10 @@ related:
   - INS-260329-E76F
   - INS-260329-9F81
   - INS-260329-55DC
+evidence:
+  - id: INS-260329-55DC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi illustrates this with a candidate who negotiated for an extra $3,000/year instead of recognizing the learning opportunity. The premium employers pay for experienced hires reflects accumulated knowledge — if a new role adds nothing to your skillset, you're selling your current abilities rather than building new ones.
 

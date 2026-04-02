@@ -54,6 +54,19 @@ related:
   - INS-260329-C430
   - INS-260327-33E0
   - INS-260327-C79D
+evidence:
+  - id: INS-260327-4D70
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-78CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-AC84
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-C430
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi observes a fundamental inversion in risk behavior between wealthy and poor people. Poor people consistently invest in high-downside, low-probability-upside opportunities (lottery tickets, speculative crypto), essentially guaranteeing losses with a tiny chance of windfall. Wealthy people do the opposite: they find assets with guaranteed small returns and zero risk of total loss, often acquiring them for nothing.
 

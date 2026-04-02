@@ -60,6 +60,9 @@ evidence:
   - id: INS-260329-92E9
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-3DBF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In the research agent demo, rejected results created a visibly different graph shape than accepted ones — a structural signal detectable through graph pattern matching alone. When a user searching for dog training advice about a non-terrier breed rejected cached terrier training results, that rejection was stored with a timestamp and relationship context.
 

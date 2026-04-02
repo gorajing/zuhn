@@ -57,6 +57,16 @@ related:
 stance: >-
   Track four quadrants — high eval + high views (validated winners), high eval +
   low views (false positives), low eval + high views (missed patterns)...
+evidence:
+  - id: INS-260330-CFEA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-3739
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-2AB9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Having an eval is necessary but not sufficient — you also need to validate that your eval actually predicts real-world performance. AI Andy's system correlates eval scores with actual view counts to create four categories: high eval + high views (validated winners — the prompt is working), high eval + low views (false positives — the eval needs fixing), low eval + high views (missed patterns — the eval is missing something important), and low eval + low views (confirmed failures).
 

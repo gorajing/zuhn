@@ -64,6 +64,12 @@ evidence:
   - id: INS-260329-B408
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-B922
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-7677
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 C++ tutorials invariably dedicate significant time to pointers and memory management because these concepts form the substrate that all higher-level abstractions are built upon. Python's reference semantics, JavaScript's garbage collection, Rust's ownership model — all become more intelligible when you understand what they're abstracting over. This is a case where learning a harder, lower-level concept first creates transferable mental models that accelerate learning of easier concepts later.
 

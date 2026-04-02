@@ -53,6 +53,13 @@ related:
   - INS-260330-6F36
   - INS-260330-4E10
   - PRI-260328-26AA
+evidence:
+  - id: INS-260323-70B9
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B424
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Paul Graham argues that every self-made wealthy person occupies a position with both measurement and leverage. Measurement without leverage is piecework — you can work faster but only improve earnings 2-3x. Leverage without measurement means your contribution gets averaged with everyone else's, eliminating the link between effort and reward.
 

@@ -51,6 +51,10 @@ related:
   - PRI-260328-43F1
   - PRI-260328-8284
   - INS-260327-0A6B
+evidence:
+  - id: INS-260327-0A6B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The AI investment cycle is currently self-reinforcing: companies spend $400B+ annually on data centers, creating construction and engineering jobs. Rising stock prices from AI hype create wealth effects that boost consumer spending. This keeps economic indicators positive, which justifies more AI investment.
 

@@ -56,5 +56,21 @@ related:
   - INS-260402-CF0A
   - INS-260329-3FED
   - INS-260330-68EF
+evidence:
+  - id: INS-260402-8F1E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260402-A999
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-CF0A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-3FED
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-68EF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 HowMoneyWorks consistently demonstrates that high earners and wealthy people operate in a different financial system: 1) Tax-advantaged structures (401k, IRA, HSA, real estate depreciation) shelter income from taxation, 2) Leverage (using borrowed money to buy assets that appreciate faster than interest costs), 3) Equity compensation (stock options, RSUs) that convert income into capital gains (taxed lower), 4) Business ownership (deducting expenses before taxation, unlike employees who are taxed first). A person earning $200K salary pays more effective tax than someone with $2M in assets earning $200K in capital gains and dividends. The gap compounds: the salary earner has no assets generating passive income, while the asset owner's wealth grows exponentially. Financial literacy — knowing these instruments exist and how to use them — is the primary differentiator.

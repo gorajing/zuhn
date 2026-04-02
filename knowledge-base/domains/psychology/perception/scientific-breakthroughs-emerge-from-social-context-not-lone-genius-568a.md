@@ -57,6 +57,10 @@ related:
   - INS-260323-F540
   - INS-260323-1EEA
   - INS-260327-98DE
+evidence:
+  - id: INS-260323-825F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Sean Carroll argues that the 'great man theory' of science is misleading. Newton's inverse square law was simultaneously explored by Huygens, Hooke, and Wren — Newton was simply the most mathematically adept. Quantum mechanics was built by over two dozen contributors across decades. Even general relativity, Einstein's most individual achievement, built on Maxwell, Minkowski, and others.
 

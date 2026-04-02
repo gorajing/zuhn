@@ -58,6 +58,13 @@ related:
   - INS-260330-01D5
   - PRI-260328-EAC4
   - INS-260330-9DCD
+evidence:
+  - id: INS-260330-0FF7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9DCD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 China's local governments were historically cut off from major tax revenues by the central government, leaving land sales as their primary funding mechanism. This created a perverse incentive loop: local officials rezoned agricultural land to residential, sold development rights at massive markups, and used the proceeds to fund infrastructure and operations. The result was construction far exceeding actual housing demand.
 

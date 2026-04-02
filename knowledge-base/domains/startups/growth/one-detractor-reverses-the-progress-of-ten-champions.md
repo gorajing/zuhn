@@ -53,6 +53,10 @@ related:
   - INS-260330-21CC
   - INS-260323-6351
   - INS-260327-C083
+evidence:
+  - id: INS-260323-6351
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Walker Williams shares Teespring's early experience where massive printing errors would cost half their monthly GMV to fix. The instinct was to rationalize — 'it's only slightly off' — but they learned to always bite the bullet and make it right. The asymmetry is stark: a frustrated customer who becomes a vocal detractor wields disproportionate influence compared to satisfied users who quietly advocate.
 

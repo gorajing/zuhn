@@ -73,6 +73,15 @@ evidence:
   - id: INS-260330-81A7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-6D6C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8896
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-9074
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 A consistent pattern throughout CS50 Python is Malan's discipline of changing exactly one thing between code examples. When introducing type conversion, he first shows string concatenation ('12' instead of 3), then adds int() while keeping everything else identical. When teaching loops, he first shows the concept with a while loop counting down, then shows the same concept counting up, then introduces the for loop syntax. He never changes the concept and the syntax at the same time.
 

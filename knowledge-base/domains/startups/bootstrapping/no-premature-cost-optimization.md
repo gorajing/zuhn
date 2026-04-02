@@ -55,6 +55,16 @@ resolutions:
 stance: >-
   LLM costs should not be optimized until you have the growth problem to justify
   the effort
+evidence:
+  - id: INS-260329-C754
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-3EB6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-8445
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 Coconote used startup credits for LLM API costs early on and did not

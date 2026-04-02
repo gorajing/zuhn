@@ -52,8 +52,6 @@ related:
   - INS-260327-454C
   - INS-260330-50D4
   - INS-260329-0B76
-  - INS-260327-6F11
-  - INS-260327-6F12
   - INS-260330-A476
 ---
 Most advice for overthinking focuses on thought management: mindfulness, journaling, cognitive reframing. Musashi's approach is fundamentally different: make action so absorbing that overthinking physically cannot occur. In swordsmanship, any moment spent in thought is a moment of vulnerability.

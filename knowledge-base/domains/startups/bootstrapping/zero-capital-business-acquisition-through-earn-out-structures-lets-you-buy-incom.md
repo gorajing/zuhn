@@ -55,5 +55,12 @@ related:
   - INS-260328-195E
   - INS-260329-CB10
   - INS-260330-7EAA
+evidence:
+  - id: INS-260330-7EAA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-5C25
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi describes a friend who combined four information businesses — each doing ~$1M/year — into a single entity doing $4M top-line and $1.5M profit, with zero money out of pocket. The mechanism: approach owners who've lost motivation and offer to pay them their expected income over 2 years from the business's own cash flow. The seller gets a clean exit without the hassle of finding a buyer or negotiating; the acquirer gets an income-producing asset for free. The combined entity is worth more than the sum of parts due to operational consolidation and higher valuation multiples. This is especially powerful in information businesses, consulting, and services where the 'asset' is largely customer relationships and processes, not physical infrastructure.

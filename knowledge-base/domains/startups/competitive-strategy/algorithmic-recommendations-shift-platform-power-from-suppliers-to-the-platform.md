@@ -57,5 +57,9 @@ related:
   - INS-260327-6E86
   - INS-260325-FD14
   - INS-260321-3312
+evidence:
+  - id: INS-260325-FD14
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Spotify's initial value proposition was simple access — find and play the music you already know. But when they shifted focus to personalized discovery (Discover Weekly, Release Radar), they fundamentally changed the power dynamics. Over a third of music listened to on Spotify now comes from Spotify's own recommendations and playlists. This means Spotify can subtly bias recommendations toward cheaper-to-license music, royalty-free tracks from services like Epidemic Sound, or artists willing to pay for playlist placement. The platform evolved from a neutral distributor to an active gatekeeper that can catapult unknown artists to success or suppress others. This pattern applies broadly: any platform that inserts an algorithmic layer between suppliers and consumers captures enormous leverage, because the algorithm's biases are opaque and the suppliers become dependent on algorithmic favor for reach.

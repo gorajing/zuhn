@@ -59,5 +59,12 @@ related:
   - INS-260325-E5EB
   - INS-260325-23E0
   - INS-260323-7D90
+evidence:
+  - id: INS-260325-E5EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-23E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The PFAS contamination story illustrates a critical threshold in externality economics: planetary saturation. By 2000, 100% of sampled American blood contained C8. Rain on the Tibetan Plateau contains PFAS. Every continent, including Antarctica, shows contamination. At this point, remediation becomes theoretically impossible at any reasonable cost — you cannot filter all rainwater on Earth. This creates an asymmetric risk calculus for any persistent substance: the cost of prevention is finite and frontloaded, but the cost of remediation after planetary saturation is effectively infinite. The same pattern has played out with leaded gasoline, Freon, and asbestos, and it suggests a general principle: for substances with high environmental persistence, the precautionary principle isn't just ethically preferable — it's economically rational. The carbon-fluorine bond's extreme stability (the strongest single bond carbon can form) is precisely what made PFAS commercially valuable and what makes cleanup impossible. This duality — where the property creating commercial value is identical to the property creating irreversible harm — is a pattern worth watching in emerging technologies like certain nanomaterials or synthetic biology outputs.

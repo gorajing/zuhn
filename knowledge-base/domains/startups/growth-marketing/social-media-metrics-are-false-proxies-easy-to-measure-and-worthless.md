@@ -61,5 +61,8 @@ evidence:
   - id: INS-260322-A36C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-C375
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Godin defines a 'false proxy' as a number that's easy to measure and worthless — and argues that every metric social media platforms surface is one. Likes don't mean anyone likes you, followers don't mean they're following you, friends don't mean they're your friend. He doesn't know his own social media numbers and doesn't read Amazon reviews. The meaningful metric is whether you changed someone enough that they want to tell somebody else. In hiring, a false proxy is 'did you go to my school?' In marketing, it's 'how many impressions did we get?' The danger is that optimizing for false proxies feels like progress but pulls you away from the hard work of creating genuine value worth talking about.

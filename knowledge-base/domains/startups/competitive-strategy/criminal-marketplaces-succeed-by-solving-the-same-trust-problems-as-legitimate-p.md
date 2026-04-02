@@ -68,6 +68,21 @@ evidence:
   - id: INS-260329-D6AA
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-A8B5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FC9F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4370
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-88FC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-BA13
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Brett Johnson explains that successful cybercrime requires three things working together: gathering data, committing the crime, and cashing out. No single person can do all three — you need specialists, often across geographic boundaries (e.g., Ukrainians had the data but couldn't cash out in the US). ShadowCrew's breakthrough was creating the institutional trust infrastructure that let these specialists cooperate: review systems, vouching, escrow, communication forums with searchable history, and screen-name reputation.
 

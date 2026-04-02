@@ -48,5 +48,24 @@ related:
   - INS-260323-1B42
   - INS-260330-22D6
   - INS-260330-56AA
+evidence:
+  - id: INS-260322-98D2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-24F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-9933
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-070A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-22D6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-56AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Masayoshi Son invested $3 billion across 800 tech startups by the late 1990s, with many failing. Yet his $20 million investment in Alibaba alone returned over $70 billion, dwarfing every loss combined. This illustrates the power-law distribution inherent in venture investing: returns are not normally distributed but concentrated in a few massive winners. The practical implication is that portfolio construction should optimize for upside capture (not loss avoidance), and the willingness to accept many small losses is a feature, not a bug, of the strategy.

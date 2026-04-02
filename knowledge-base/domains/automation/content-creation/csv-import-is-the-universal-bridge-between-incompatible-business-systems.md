@@ -59,6 +59,15 @@ evidence:
   - id: INS-260329-AE09
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-939E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-956D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-2F63
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The car inventory project reveals a fundamental pattern in business data work: you almost never start with clean spreadsheet data. You receive text files from fleet management systems, bank exports, Amazon seller accounts, or insurance companies — all in CSV or delimited format. The ability to import this data and then use text functions (LEFT to extract manufacturer codes, VLOOKUP to translate codes into readable names, CONCATENATE to reassemble fields) is what makes spreadsheets the universal adapter between incompatible systems.
 

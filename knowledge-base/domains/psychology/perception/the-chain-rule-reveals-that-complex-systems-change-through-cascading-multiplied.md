@@ -62,6 +62,10 @@ related:
   - INS-260329-196E
   - INS-260330-3C70
   - INS-260330-E4FA
+evidence:
+  - id: INS-260329-A67B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The chain rule is perhaps the most practically important result in differential calculus because real-world systems are almost always compositions. Temperature depends on altitude which depends on time; cost depends on quantity which depends on demand which depends on price. The chain rule says that to find how the outermost variable changes with respect to the innermost, you multiply all the intermediate rates together: dy/dx = dy/du × du/dx.
 

@@ -55,6 +55,9 @@ evidence:
   - id: INS-260327-6061
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-35D4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bosmeny argues that the most dangerous state for an early startup is having a large pipeline of 'maybe' prospects. A 'no' is actually better than a 'maybe' because it frees you to focus on someone who might say yes. Your time is your only resource as a founder.
 

@@ -49,9 +49,9 @@ related:
   - INS-260328-4EA0
   - PRI-260328-82BE
   - INS-260327-2E84
-  - INS-260327-643E
   - INS-260327-FA43
   - INS-260327-CD77
+  - INS-260330-80A7
 stance: >-
   Many AI founders fail because they build impressive demos that don't solve
   real painful jobs

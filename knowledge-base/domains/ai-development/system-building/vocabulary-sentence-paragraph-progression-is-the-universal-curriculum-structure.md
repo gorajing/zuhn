@@ -58,5 +58,15 @@ related:
   - INS-260329-F211
   - INS-260329-613F
   - INS-260330-0E6E
+evidence:
+  - id: INS-260329-9A58
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-48FD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-613F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Severance explicitly structures his Python course as a language course: 'We're going to start with a basic vocabulary. We're going to talk a little bit about lines or sentences. And then we're going to start talking about how to put those sentences together to make a coherent paragraph.' This maps programming onto the one learning process every human has already completed — learning their first language. The progression (reserved words → statements → scripts → programs) mirrors (vocabulary → sentences → paragraphs → essays). This same structure applies to teaching any formal system: music (notes → phrases → sections → compositions), mathematics (operations → equations → proofs → theories), or even AI prompting (tokens → instructions → workflows → agent architectures). The key insight is that learners already have the meta-skill of language acquisition — curriculum designers who map their domain onto this existing cognitive framework dramatically reduce the perceived difficulty of new material.

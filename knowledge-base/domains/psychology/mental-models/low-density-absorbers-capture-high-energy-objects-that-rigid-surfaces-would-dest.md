@@ -61,6 +61,13 @@ related:
   - INS-260330-FEDD
   - INS-260330-5232
   - INS-260330-16F0
+evidence:
+  - id: INS-260330-4B29
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5232
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In the Stardust mission, comet particles traveling at 6 kilometers per second were captured intact by aerogel. The particles entered the porous material, progressively breaking apart the silica network and losing energy until they stopped. A solid surface would have vaporized the same particles on impact — destroying the very thing you wanted to study.
 

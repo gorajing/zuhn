@@ -59,10 +59,12 @@ related:
   - INS-260329-A218
   - INS-260329-8896
   - INS-260329-E6A1
-  - INS-260330-0143
 evidence:
   - id: INS-260329-F84E
     type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-8896
+    type: SUPPORTS
     classified_at: '2026-04-02'
 ---
 The course repeatedly uses a pattern: attempt the naive solution, observe it fail, then introduce the correct concept. For overtime calculation, the simple formula (hours - 40) produces negative values for employees under 40 hours — the IF function is introduced as the rescue. For multi-week payroll, copy-pasting formulas silently produces absurd wage numbers ($3,300/week) because relative references shift the wage column — absolute references ($C4) are introduced as the fix. For the gradebook percentage, fill-down produces a #DIV/0! error because relative referencing moves the denominator away from the 'points possible' row.

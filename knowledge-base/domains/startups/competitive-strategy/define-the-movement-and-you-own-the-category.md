@@ -60,5 +60,8 @@ evidence:
   - id: INS-260330-77A2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-3B91
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 SaaS companies existed before Salesforce, but Marc Benioff simplified the shift into 'software is over' and named the alternative 'the cloud.' This narrative simplification made Salesforce synonymous with the entire movement. Andy's own company also rewrote their business plan from the arrogant doctor approach to a movement framing and successfully raised funding. The lesson: being first doesn't matter as much as being the one who names and simplifies the shift. Category creators own the narrative, and owning the narrative means owning the market.

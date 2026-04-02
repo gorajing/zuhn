@@ -44,10 +44,10 @@ resolutions:
     to the entire educational enterprise.
 related:
   - PRI-260323-2FEE
+  - INS-260402-D0F3
   - INS-260330-7819
   - PRI-260323-A33E
   - INS-260322-AB55
-  - PRI-260323-DA09
 stance: >-
   Just as scientists never refuse to run an experiment because the result might
   be unpleasant, the marketplace of ideas must entertain all hypotheses

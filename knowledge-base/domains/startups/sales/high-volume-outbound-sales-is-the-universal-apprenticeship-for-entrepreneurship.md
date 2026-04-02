@@ -58,6 +58,10 @@ related:
   - INS-260327-9C00
   - INS-260330-9F1F
   - INS-260330-049B
+evidence:
+  - id: INS-260323-4B09
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi observes that among his network of multi-millionaires and billionaires, every single one spent 3-5 years in a high-volume sales environment — door-knocking, cold-calling, or in-person selling — before becoming known. This wasn't glamorous work; they were faceless reps having hundreds of conversations with strangers daily.
 

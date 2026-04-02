@@ -53,11 +53,11 @@ stance: >-
   monolithic custom designs, and this compositional pattern transfers to any
   domain where systems must be built.
 related:
+  - INS-260402-F479
   - INS-260329-FAE2
   - INS-260330-E8BD
   - INS-260327-4A10
   - INS-260329-B6A6
-  - PRI-260323-F193
   - INS-260330-B3DD
   - INS-260330-AB3E
 evidence:

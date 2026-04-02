@@ -55,6 +55,13 @@ related:
 stance: >-
   The key to making knowledge computable is finding symbolic representations
   that match how humans conceptualize things while remaining formally mani...
+evidence:
+  - id: INS-260329-2DF2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-19B3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wolfram spent 45 years building symbolic programming systems and found that the critical challenge is bridging human conceptualization with computational possibility. Humans compress visual scenes into symbolic descriptions ('two chairs at a table'), and these symbolic representations happen to be computable in ways that raw pixel data or natural language are not.
 

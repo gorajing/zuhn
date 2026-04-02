@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 54 insights
+> 55 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
@@ -12,6 +12,7 @@
 - `INS-260402-D739` [high] The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
 - `INS-260330-2B42` [high] Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
 - `INS-260402-0727` [high] Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
+- `INS-260402-1414` [high] Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
 - `INS-260328-A9D2` [high] Dalton's core advice framework for pivots: every person has one perfect startup idea — the one where they have the most unfair advantages, best network, and deepest expertise.
 - `INS-260327-D982` [high] The exercise of picking a startup idea should be reframed from 'find a good startup idea' to 'find a good idea for your team' — founder-market fit is the single most predictive evaluation criterion.
 - `INS-260330-66A0` [high] The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-684D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-AEFA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In 2020, Seager's team reported trace amounts of phosphine gas in Venus's atmosphere. On Earth, phosphine occurs naturally in decaying organic matter. They presented 100 pages of chemistry demonstrating that known chemical processes on Venus cannot account for the detected phosphine. This does not prove life exists on Venus — it proves something unexplained is happening.
 

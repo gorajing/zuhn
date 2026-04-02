@@ -51,5 +51,9 @@ related:
   - INS-260329-5BB0
   - INS-260330-0A95
   - INS-260330-E8C6
+evidence:
+  - id: INS-260322-2D2F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rabois identifies a critical failure mode: when you give a team a single metric to optimize, they will hit that target by degrading something else you care about. His example from payments: a risk team told to lower fraud rate will start treating every user as suspicious, tanking customer satisfaction. The fix is 'pairing metrics' — measure fraud rate alongside false positive rate simultaneously. Similarly, pair recruiter hiring volume with quality-of-hire scores. This forces teams to innovate rather than simply shifting costs to an unmeasured dimension. The founder should personally draft the company dashboard that captures these paired metrics, and the success criteria is what fraction of employees use that dashboard daily.

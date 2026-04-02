@@ -51,5 +51,9 @@ related:
   - INS-260323-53FF
   - INS-260326-6B98
   - INS-260330-3899
+evidence:
+  - id: INS-260326-6B98
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi observes that broke people disproportionately buy lottery tickets, pursue get-rich-quick schemes, and make high-risk business bets — not because they're irrational, but because their situation makes small reliable gains feel meaningless against their debt or expenses. This creates a poverty trap: the optimal strategy (small, compounding, low-risk moves) feels emotionally inadequate, so they swing for the fences and usually miss. Wealthy people, by contrast, already have a base that makes small percentage gains meaningful, so they rationally optimize for expected value. The implication is that escaping this trap requires deliberately overriding the emotional pull of transformative outcomes in favor of boring, reliable cash-flow moves — exactly what business acquisition with seller financing represents.

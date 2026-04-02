@@ -50,6 +50,13 @@ related:
   - INS-260325-0A81
   - INS-260323-2FC3
 stance: 'In quantum mechanics, measurement doesn''t reveal pre-existing properties'
+evidence:
+  - id: INS-260323-2FC3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-0A81
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Classical physics assumes measurement is passive: a thermometer doesn't create temperature. Quantum mechanics breaks this assumption entirely. Before measurement, a particle's properties are not merely unknown — they are undefined. The wave function describes what could be happening, not what is happening. Observation doesn't reveal reality; it appears to create it.
 

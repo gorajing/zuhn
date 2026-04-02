@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-30CE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-F887
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The five stages — uninformed optimism, informed pessimism, valley of despair, informed optimism, and achievement — form a predictable emotional arc for any new endeavor. The critical failure point is stage 3 (valley of despair), where people abandon their current pursuit and jump to a new one that's still in stage 1. This creates an endless loop: uninformed optimism → informed pessimism → valley of despair → new uninformed optimism.
 

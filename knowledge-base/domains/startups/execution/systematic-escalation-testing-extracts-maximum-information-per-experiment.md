@@ -60,6 +60,9 @@ evidence:
   - id: INS-260320-10CC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-1811
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The team structures their experiment as a deliberate escalation: first fire at an unprotected dummy (baseline), then a single glove on the dummy, then a single glove on an I-beam, then compare two glove types, then stack 9 gloves. Each step answers a specific question and informs the next. The baseline showed the ball goes clean through a body. The single-glove test showed the glove fails but partially protects the body. The comparison showed H-weave deflects slightly while basket-weave doesn't. The stacked test showed that even 9 gloves can't stop the ball.
 

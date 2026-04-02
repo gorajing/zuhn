@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260325-DB82
   - INS-260329-0432
-  - INS-260329-BA12
   - INS-260329-E280
   - INS-260329-4D03
   - INS-260329-41BC
@@ -67,6 +66,15 @@ evidence:
     classified_at: '2026-04-02'
   - id: INS-260329-BA12
     type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-E280
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-0432
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-1075
+    type: EXTENDS
     classified_at: '2026-04-02'
 ---
 The tutorial teaches inheritance using a Chef base class that gets extended into an ItalianChef subclass — a pattern that maps directly onto how human cognition naturally categorizes knowledge. Cognitive science shows we build hierarchical category structures where specialized concepts inherit properties from general ones (a robin inherits 'can fly' from 'bird'). OOP directly encodes this same structure.

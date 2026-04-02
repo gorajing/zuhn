@@ -62,6 +62,31 @@ related:
   - INS-260330-D583
   - INS-260330-7D6D
   - INS-260330-D071
+evidence:
+  - id: INS-260322-98D2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-CC05
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-4440
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-9018
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-9408
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-3A0D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7D6D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D071
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The hard part of mobile payments isn't building the app — it's hitting critical mass. The US market illustrates this perfectly: Chase Pay, Google Pay, Square Wallet, PayPal, Apple Cash, Cash App, Zelle, and Venmo all compete for the same users, and none can achieve universal adoption because existing payment infrastructure is 'good enough.'
 

@@ -45,6 +45,13 @@ resolutions:
 stance: >-
   Clear specs defining what to build and what has been done enable new engineers
   to hit the ground running
+evidence:
+  - id: INS-260327-ACB3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-2726
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 
 SDD accelerates onboarding by giving new team members two things

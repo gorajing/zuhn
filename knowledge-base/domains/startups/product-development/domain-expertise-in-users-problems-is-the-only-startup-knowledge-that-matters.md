@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260323-0C3A
   - INS-260327-0F42
-  - INS-260327-80A8
   - INS-260327-91E7
   - PRI-260328-E9B5
   - INS-260328-0345
@@ -58,6 +57,7 @@ related:
   - INS-260329-882A
   - INS-260329-1DA3
   - INS-260330-49C8
+  - INS-260330-5036
 ---
 Graham draws a sharp distinction between two types of startup knowledge: mechanics (fundraising, legal structures, employee agreements) and substance (deep understanding of users and their problems). Zuckerberg succeeded despite being a 'complete noob at startups' because he understood his users deeply. An undergrad who knows about class FF stock and convertible notes actually triggers alarm bells — it signals someone focused on form over substance.
 

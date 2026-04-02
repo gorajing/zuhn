@@ -55,6 +55,13 @@ related:
   - INS-260329-2A5A
   - INS-260330-8FEC
   - INS-260330-A9CB
+evidence:
+  - id: INS-260330-8FEC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9A29
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi calls this 'wealth alchemy' — when a business earns an additional dollar of profit, enterprise value increases by that dollar times the market multiple (typically 3-20x depending on industry, growth rate, and business quality). This means $1M in additional annual profit can create $5-20M in equity value, and crucially, this appreciation is unrealized and therefore untaxed until a liquidity event.
 

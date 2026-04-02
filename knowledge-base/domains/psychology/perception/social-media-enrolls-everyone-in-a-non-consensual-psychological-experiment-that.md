@@ -62,6 +62,10 @@ related:
   - INS-260330-748E
   - INS-260330-CDE1
   - INS-260330-141E
+evidence:
+  - id: INS-260325-803C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Harris frames social media not as a communication tool but as an involuntary psychological experiment that fundamentally changes how humans process information. The key mechanism is that social media makes all communication performative — people speak to signal tribal allegiance rather than to reason toward truth. This transforms information from a shared resource into a weapon, where the goal is to win social points rather than to understand reality.
 

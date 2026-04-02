@@ -53,5 +53,12 @@ related:
   - INS-260402-3F92
   - PRI-260328-8284
   - INS-260329-A01C
+evidence:
+  - id: INS-260322-90E7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-40E3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi compares Business A (acquires 100, loses 100, doubles acquisition each year to reach 300) versus Business B (acquires 100 each year, retains all, reaches 300). Both have 300 customers but B is dramatically more valuable because time is on its side. Business A must perpetually increase marketing spend to maintain the same base, while B grows even if acquisition stays flat. He uses Starbucks ($14,000 LTV per customer) to show how reoccurring purchase behavior at commodity prices creates massive value. The practical takeaway: identify what makes a 'permanent customer' (2+ year retention), calculate what percentage of acquired customers become permanent, then optimize both the conversion rate to permanence and the targeting of permanent-customer profiles in acquisition.

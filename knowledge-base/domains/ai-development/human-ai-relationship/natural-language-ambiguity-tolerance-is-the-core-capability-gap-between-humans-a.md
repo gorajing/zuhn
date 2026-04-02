@@ -65,5 +65,8 @@ evidence:
   - id: INS-260329-E40B
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260402-9676
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Severance uses the Macarena example where a typographical error ('ham' instead of 'hand') is instantly corrected by humans but would crash a computer. He frames this as the fundamental reason programming is hard: 'It is much easier for us to learn to speak their language than it is for them to learn to speak our language.' This asymmetry — human tolerance of ambiguity versus machine literalism — is the exact problem that LLMs are now partially solving. The 40-50 years Severance references (teaching machines to understand human language) have culminated in the current LLM era. Understanding this historical context reframes AI progress: LLMs haven't made machines intelligent, they've made machines more tolerant of the ambiguity that was always the core friction point between humans and computers.

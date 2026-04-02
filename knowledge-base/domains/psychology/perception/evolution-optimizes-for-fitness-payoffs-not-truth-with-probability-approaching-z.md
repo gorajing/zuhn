@@ -68,6 +68,9 @@ evidence:
   - id: INS-260327-9DB0
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-82E8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Donald Hoffman and colleagues used evolutionary game theory to prove that the probability of natural selection shaping any sensory system to perceive true properties of objective reality is precisely zero. This is not an approximation — it's a mathematical limit computed across all possible fitness payoff functions for any generic world structure (total orders, topologies, metrics). The only exception is for probability measures (sigma algebras), which must be preserved for any science to be possible.
 

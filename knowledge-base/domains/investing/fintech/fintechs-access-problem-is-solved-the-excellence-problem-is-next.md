@@ -65,6 +65,15 @@ evidence:
   - id: INS-260327-DFF1
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260322-EDA4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DFF0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-DFC7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Plaid CEO Zach Perret frames fintech's trajectory in two phases. Phase 1 (2014-2022) solved access: getting loans online, opening bank accounts on mobile, digital remittances. This is largely complete.
 

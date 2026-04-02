@@ -65,6 +65,10 @@ related:
   - INS-260330-50B3
   - INS-260330-DF69
   - INS-260330-B3D5
+evidence:
+  - id: INS-260325-1709
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RuBisCo evolved in an atmosphere with abundant CO2 and minimal O2. Under those conditions, its tendency to bind oxygen instead of carbon dioxide was irrelevant — there was almost no oxygen to confuse it. The failure mode existed from the beginning but was completely invisible because the environment didn't trigger it. When plants' own success flooded the atmosphere with oxygen, the latent bug became a massive liability.
 

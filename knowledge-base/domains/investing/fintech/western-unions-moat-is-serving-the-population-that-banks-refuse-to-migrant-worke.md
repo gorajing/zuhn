@@ -48,5 +48,9 @@ related:
   - INS-260327-7681
   - INS-260322-88FC
 stance: 'Venmo, CashApp, and PayPal require bank accounts and only work domestically'
+evidence:
+  - id: INS-260327-7681
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The global financial system is incentivized to serve the wealthy. Banks chase affluent accounts with large balances. But migrant workers — the invisible backbone of every developed economy — are excluded: too little money, volatile employment, remote locations, language barriers, lack of documentation, or they simply trust cash. Western Union and MoneyGram enable immediate cash-to-cash transfers across borders. Fintech disruption (Venmo, Wise, PayPal) only works account-to-account. As long as a population exists that's unbanked or underbanked, Western Union's physical network is irreplaceable. The moat is serving the customers everyone else refuses.

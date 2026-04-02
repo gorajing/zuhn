@@ -51,5 +51,15 @@ related:
   - INS-260323-92AD
   - INS-260330-7FFE
   - INS-260330-BA13
+evidence:
+  - id: INS-260330-90C3
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-92AD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-7FFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bitcoin's double-spend protection isn't binary — it's a probability curve. After one confirmation, an attacker with significant hash power might succeed. After six confirmations (the common standard), the probability of successful fraud drops to near zero unless the attacker controls >50% of network hash power. Each new block compounds the difficulty because the attacker must produce blocks faster than the combined honest network for an ever-growing chain. This creates a fascinating security model: rather than a hard boundary between safe and unsafe, there's an exponential decay of risk over time. The pattern generalizes to any reputation or trust system — the longer consistent behavior persists, the exponentially harder it becomes to sustain a deception.

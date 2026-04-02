@@ -58,6 +58,10 @@ related:
   - PRI-260328-06F1
   - INS-260323-9676
   - INS-260325-2BB0
+evidence:
+  - id: INS-260327-65F9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The current policy focus on building semiconductor fabs in the US addresses only one of roughly 100,000 manufacturing steps required for high-end chips. Zeihan argues this is actually one of the lower value-added steps despite being the most capital-intensive. The US already controls the highest value-added parts — chip design and logistics — but does very little testing, packaging, and component integration, which are the immediate downstream steps after fabrication.
 

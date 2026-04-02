@@ -51,6 +51,16 @@ related:
   - PRI-260328-386C
   - PRI-260328-FD90
   - INS-260327-7018
+evidence:
+  - id: INS-260327-1555
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-BF93
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260324-6FC7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When debt products use consumer-friendly interfaces and millennial-targeted branding, they normalize borrowing as a lifestyle choice rather than a financial risk, increasing usage among populations least able to manage debt.
 

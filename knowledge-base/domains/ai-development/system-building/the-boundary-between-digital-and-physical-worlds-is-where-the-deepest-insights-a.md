@@ -54,6 +54,10 @@ related:
   - INS-260325-F21D
   - INS-260325-0E70
   - INS-260323-EECF
+evidence:
+  - id: INS-260330-833E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Gershenfeld claims to have 'learned the secret of life' by working at the boundary between digital information and physical matter. This isn't hyperbole: biological life IS the merger of digital information (DNA's discrete code) with physical matter (proteins, cells, organisms). Understanding this boundary reveals how nature solves problems that computing hasn't.
 

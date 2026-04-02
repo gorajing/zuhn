@@ -59,6 +59,10 @@ related:
 stance: >-
   Mark Pincus argues that founder control is worth more than valuation because
   losing control means losing the ability to make the risky, unpopular p...
+evidence:
+  - id: INS-260323-2FF9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Pincus was forced out of support.com by investors who brought in a 'real CEO' who had gray hair and an HP resume but no understanding of product or sales. Despite having negotiated a $25M quarterly subscription deal and seeing the future of the business clearly, he had to leave his own company. This painful experience made him prioritize control above everything when building Zynga.
 

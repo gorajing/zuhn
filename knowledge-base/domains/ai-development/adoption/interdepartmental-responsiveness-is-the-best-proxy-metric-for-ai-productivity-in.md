@@ -53,6 +53,7 @@ related:
   - PRI-260323-2E5A
   - INS-260323-DC99
   - INS-260327-9D50
+  - INS-260402-7182
 stance: >-
   Instead of measuring lines of code or contracts drafted, measure whether
   departments using AI tools become more responsive to other departments

@@ -56,8 +56,8 @@ related:
   - INS-260330-304C
   - INS-260330-F3A8
   - INS-260330-070A
+  - INS-260402-B12D
   - INS-260330-A484
-  - INS-260330-F800
 ---
 After years of hiring engineers, product managers, and designers, PolyAI discovered a pattern: their top performers were people who were exceptionally strong in one dimension, not people who scored well across the board. They restructured their interview process to optimize for this — they want at least one team member to feel strongly about a candidate ('fall in love') rather than settling for candidates where everyone gives a lukewarm positive score.
 

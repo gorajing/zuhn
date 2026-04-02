@@ -66,6 +66,9 @@ evidence:
   - id: INS-260320-DDFE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-A67B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Students who memorize the product rule (fg)' = f'g + fg' without understanding why it works — that it comes from expanding f(x+h)g(x+h) and adding/subtracting f(x+h)g(x) — hit a wall when encountering unfamiliar function compositions or when they need to derive rules for new operations. The chain rule is particularly illustrative: it encodes the idea that rates of change compose multiplicatively, which is why dy/dx = (dy/du)(du/dx) works.
 

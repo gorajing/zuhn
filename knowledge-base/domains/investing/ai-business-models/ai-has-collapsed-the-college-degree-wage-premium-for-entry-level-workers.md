@@ -49,6 +49,16 @@ related:
   - PRI-260328-D68F
   - INS-260327-5297
   - INS-260329-191D
+evidence:
+  - id: INS-260325-45BC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-D8C7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-5297
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The college wage premium was the primary economic justification for higher education costs. When entry-level unemployment for graduates matches non-graduates, the expected return on education investment has collapsed. AI accelerates this by commoditizing exactly the analytical skills that college was supposed to provide.
 

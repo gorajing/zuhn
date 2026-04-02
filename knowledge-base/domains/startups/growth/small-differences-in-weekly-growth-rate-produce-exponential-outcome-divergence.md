@@ -55,6 +55,13 @@ related:
   - INS-260330-8A87
   - INS-260330-9470
   - INS-260330-CB30
+evidence:
+  - id: INS-260327-40E3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-969D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham presents a table showing that 1% weekly growth compounds to 1.7x annually, while 5% weekly growth compounds to 12.6x and 10% weekly to 142x. A startup making $1000/month at 1% weekly will make $7,900/month after 4 years (less than a programmer's salary), while the same startup at 5% weekly will make $25 million/month.
 

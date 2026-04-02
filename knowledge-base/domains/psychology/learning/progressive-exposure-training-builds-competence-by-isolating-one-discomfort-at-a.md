@@ -64,6 +64,10 @@ related:
   - INS-260330-207D
   - PRI-260328-094A
   - INS-260330-BD3C
+evidence:
+  - id: INS-260320-9118
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The HUET training doesn't start with the helicopter. It starts with a simple tipping chair where you practice: (1) the rodeo grip, (2) finding the exit, (3) unbuckling. Then they add a hatch. Then they add the regulator. Then they add sinuses flooding with water. Only after mastering each component in isolation do trainees face the full simulated crash. Even Destin — an experienced scuba diver — was caught off guard by the sinus-flooding step because he'd never isolated that specific stressor before.
 

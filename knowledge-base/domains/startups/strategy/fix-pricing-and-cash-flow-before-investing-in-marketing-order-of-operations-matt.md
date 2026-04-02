@@ -54,6 +54,10 @@ related:
 stance: >-
   The correct sequence is pricing optimization -> freed cash flow -> attribution
   tracking -> paid ads -> content/thought leadership, not the reverse.
+evidence:
+  - id: INS-260402-2879
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 For the stuck chiropractor at $2.4M for 5 years: the first move isn't more ads, it's fixing pricing and packaging to free up cash flow. Then install attribution tracking to know if you're getting $5, $10, or $20 back per dollar spent. Then run ads with confidence because local businesses have a trust advantage that shortens the sales cycle. Finally, layer in content for long-term thought leadership that eventually expands your geographic radius.
 

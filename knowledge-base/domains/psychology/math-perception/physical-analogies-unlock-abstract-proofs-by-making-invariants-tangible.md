@@ -55,6 +55,10 @@ related:
   - INS-260330-BEDC
   - INS-260330-30E8
   - PRI-260325-EEE9
+evidence:
+  - id: INS-260323-9955
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The proof maps the abstract sum 1 + 1/4 + 1/9 + 1/16 + ... onto lighthouses at integer positions, where the inverse square law naturally produces the 1/n² terms as apparent brightness. This physical framing transforms the question from 'what does this series converge to?' into 'can we rearrange lighthouses without changing total brightness?' — a question with geometric tools available.
 

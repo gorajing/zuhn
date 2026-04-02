@@ -1,3 +1,5 @@
 # Tag: software-development
 
 - `INS-260327-CED9` Jeff Dean estimates AI operating at junior engineer level 24/7 is possible within about a year, requiring improvements beyond code generation into tool use, testing, and debugging.
+- `INS-260402-9D7B` The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
+- `INS-260402-529F` Starting small and growing incrementally lets you build things too ambitious to have planned upfront.

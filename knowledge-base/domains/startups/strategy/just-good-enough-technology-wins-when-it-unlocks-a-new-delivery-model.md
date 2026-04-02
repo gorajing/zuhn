@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260330-77A2
   - INS-260327-4669
+  - INS-260402-B12D
   - INS-260402-E994
   - INS-260327-A8B6
-  - INS-260327-555D
 evidence:
   - id: INS-260330-77A2
     type: SUPPORTS

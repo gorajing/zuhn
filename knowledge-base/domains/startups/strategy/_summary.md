@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 125 insights
+> 126 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
@@ -9,6 +9,7 @@
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260330-ABB1` [high] The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260330-73F3` [high] DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.
+- `INS-260402-2B96` [high] Since most startups fail, doing what most startups do is a strategy for failure — survival requires deliberate deviation from the norm.
 - `INS-260330-85C2` [high] Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260330-2332` [high] Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.
 - `INS-260323-BD2B` [high] JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.

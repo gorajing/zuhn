@@ -44,5 +44,9 @@ related:
   - INS-260328-7CA9
   - INS-260325-0688
   - INS-260329-B34E
+evidence:
+  - id: INS-260325-0688
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The 'arrival fallacy' is widespread among conventionally successful people. Goals adopted from parental expectations, social norms, and peer comparison rather than genuine internal values produce hollow achievement. The highest price is time: decades spent pursuing the wrong things cannot be recovered.

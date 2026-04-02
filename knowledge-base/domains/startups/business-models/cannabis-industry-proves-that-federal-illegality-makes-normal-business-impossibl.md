@@ -50,5 +50,9 @@ related:
 stance: >-
   Cannabis remains federally Schedule I, blocking companies from banking, tax
   deductions, and interstate commerce
+evidence:
+  - id: INS-260330-B6AD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Despite legalization in 24 states for recreational use, federal classification as Schedule I blocks cannabis companies from basic business infrastructure: banking, tax deductions (Section 280E), and interstate commerce. Tilray, the first cannabis company to IPO on a US exchange, hit $17B valuation at 600x revenue before insiders cashed out. Five years later it holds 13% Canadian market share and earns more from beer than cannabis. MedMen went from $3B to bankruptcy. Curaleaf (150 dispensaries) is built on debt. The pattern: VC-backed giants hemorrhage cash while local self-funded dispensaries survive because profit is their mandate, not a future goal.

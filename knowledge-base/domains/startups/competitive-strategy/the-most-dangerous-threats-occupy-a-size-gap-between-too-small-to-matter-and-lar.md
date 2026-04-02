@@ -57,5 +57,9 @@ related:
   - INS-260330-FEDD
   - INS-260325-7973
   - INS-260327-1ACE
+evidence:
+  - id: INS-260325-7973
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Asteroid threat assessment reveals a critical pattern in risk distribution. The largest asteroids (10km+, extinction-level) have been 100% cataloged — none threaten Earth for the next century. The smallest (under 20m, like Chelyabinsk) cause localized damage we accept as unavoidable. But the 100-800m range represents the most dangerous gap: large enough to obliterate entire cities or countries, yet small and dark enough that a significant fraction remain undetected. We're 'missing a lot of hundred meter size projectiles' according to Prof. Jewitt. This middle-threat pattern maps directly to competitive strategy and risk management. Organizations tend to monitor existential-scale threats (major competitors, regulatory changes) and accept trivial risks (minor bugs, small customer complaints). The blind spot is the mid-range threat: large enough to be devastating, but not dramatic enough to trigger systematic monitoring. In startups, this might be a mid-tier competitor quietly building in an adjacent space, or a technical architecture decision that won't kill you today but constrains you fatally at scale.

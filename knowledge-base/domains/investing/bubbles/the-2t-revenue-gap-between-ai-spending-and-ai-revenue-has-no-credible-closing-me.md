@@ -60,6 +60,15 @@ evidence:
   - id: INS-260327-6061
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-2BEC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-ADCD
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-2B62
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The numbers tell the entire story. Total AI compute revenue including Coreweave, Nebius, and all providers is approximately $55 billion. Bain Capital estimates $2 trillion in revenue is needed to justify current and planned AI infrastructure spending. That's a 36x gap. Deutsche Bank's analysis is blunt: the only way to sustain the AI investment thesis is continued parabolic spending increases, which they describe as 'very unlikely.'
 

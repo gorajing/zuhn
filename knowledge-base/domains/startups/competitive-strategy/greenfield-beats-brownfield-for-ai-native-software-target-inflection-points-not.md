@@ -66,6 +66,12 @@ evidence:
   - id: INS-260330-C071
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-90E7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-C472
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Mercury never stole a customer from Silicon Valley Bank until SVB failed. The canonical AI startup strategy is greenfield over brownfield: target new companies choosing their first system, or existing companies hitting inflection points (like outgrowing QuickBooks and needing multi-entity ERP). Trying to sell 'AI Mailchimp' to existing Mailchimp customers is extremely hard.
 

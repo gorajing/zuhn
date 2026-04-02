@@ -55,6 +55,10 @@ related:
   - INS-260327-4A5D
   - INS-260327-F26E
   - INS-260402-A999
+evidence:
+  - id: INS-260322-760A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Economic theory assumes rational actors maximizing utility. Real financial behavior shows panic selling during crashes (irrational), lottery ticket purchases (negative expected value), spending to impress strangers (no tangible return), and avoiding financial planning (harmful procrastination). The gap between assumed rationality and actual behavior is enormous.
 

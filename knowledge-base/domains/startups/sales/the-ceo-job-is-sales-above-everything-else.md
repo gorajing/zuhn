@@ -52,6 +52,10 @@ related:
   - PRI-260328-E921
   - INS-260330-6611
   - INS-260330-FE9E
+evidence:
+  - id: INS-260324-5C53
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Lynn is unambiguous: the most important CEO characteristic is salesmanship. CEOs are constantly selling—to customers (revenue), to employees (hiring and retention), to investors (funding), and to partners (distribution). The CEO who listens to customers and is a great sales leader defines the most successful companies in her portfolio.
 

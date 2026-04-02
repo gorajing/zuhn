@@ -48,5 +48,9 @@ related:
   - INS-260329-C031
   - INS-260327-4CB3
   - INS-260329-4D03
+evidence:
+  - id: INS-260329-0F06
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial's day-of-week switch statement maps integers 0-6 to day names with a default for invalid input. While the instructor notes you could do this with if-else chains, the switch makes the mapping explicit and scannable. This is actually teaching a more fundamental concept than syntax: the idea that you can map a value to a behavior. This pattern recurs everywhere in software — HTTP route handlers map paths to controllers, event systems map event types to handlers, and strategy patterns map configurations to algorithms. Teaching switch early plants the seed for understanding dispatch as a first-class design concept, not just a control flow convenience.

@@ -60,6 +60,10 @@ related:
   - INS-260329-7372
   - INS-260402-8F1E
   - INS-260329-04CB
+evidence:
+  - id: INS-260329-7372
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Hormozi cites research showing that when you control for SAT scores, socioeconomic status, and other differentiating factors, white and Asian students from higher socioeconomic backgrounds receive zero additional earning benefit from attending college. Yet paradoxically, these are exactly the families that most aggressively push, expect, and demand college attendance — it's treated as a box checked at birth. Meanwhile, first-generation college students from lower socioeconomic backgrounds and Latino/Black students see a genuine 30-40% increase in median earnings.
 

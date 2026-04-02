@@ -50,6 +50,10 @@ related:
   - INS-260327-B946
   - PRI-260328-7E58
   - INS-260330-6088
+evidence:
+  - id: INS-260323-D288
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When consumer trust in an entire category collapses due to widespread deception, brands that adopt radical transparency in pricing, sourcing, and manufacturing can capture disproportionate market share.
 

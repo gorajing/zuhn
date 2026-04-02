@@ -77,6 +77,12 @@ evidence:
   - id: INS-260327-540D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-C472
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DBAD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Levie argues that technology disruptions don't just affect the tech industry — they cascade into every vertical, forcing enterprises to rebuild their technology stacks. Retail needs multi-channel commerce software because consumers now shop across phone, web, and store. Healthcare needs telehealth and connected records as the business model shifts from procedure-based billing to wellness outcomes. Media companies need big data and marketing automation as distribution shifts from linear theatrical releases to on-demand targeting of specific audience segments.
 

@@ -53,6 +53,22 @@ related:
   - INS-260330-C825
   - INS-260327-DD1D
   - INS-260323-BC61
+evidence:
+  - id: INS-260322-88C3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-6900
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C825
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DD1D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-BC61
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The auto industry illustrates how simultaneous disruptions compound: electrification requires massive R&D investment, Chinese competitors undercut on price, self-driving technology threatens the ownership model, regulations tighten, and consumers can't afford current prices. Each disruption alone would be navigable. Together, they create strategic paralysis.
 

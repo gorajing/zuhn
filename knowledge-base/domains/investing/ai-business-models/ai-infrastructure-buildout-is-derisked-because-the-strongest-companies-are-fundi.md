@@ -57,6 +57,16 @@ related:
 stance: >-
   Unlike the dot-com broadband buildout funded by leveraged telecoms, today's
   $400B+ AI infrastructure buildout is funded by the most profitable comp...
+evidence:
+  - id: INS-260327-130C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-C1F6
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7B2B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The current AI infrastructure buildout looks superficially similar to the dot-com broadband overbuild, but the risk profile is fundamentally different. The companies bearing the burden — Google, Microsoft, Amazon, Meta — are arguably the most profitable companies ever created. They can absorb potential capacity overbuild in a way that leveraged 2000-era telecoms could not.
 

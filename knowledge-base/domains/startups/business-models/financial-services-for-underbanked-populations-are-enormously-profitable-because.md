@@ -45,6 +45,10 @@ related:
   - INS-260322-3259
   - INS-260322-B450
   - INS-260330-D824
+evidence:
+  - id: INS-260324-8C30
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Western Unions high fees are sustainable because its customers — immigrants sending remittances, unbanked populations — have no alternative infrastructure and price-insensitive demand.
 

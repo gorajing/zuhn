@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-D392
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-5094
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown highlights that the gradient of the cost function encodes two distinct pieces of information: direction (should each parameter go up or down?) and relative importance (which parameter changes matter most?). A gradient of [3, 1] means the first variable has 3x the impact of the second — nudging it produces proportionally more improvement.
 

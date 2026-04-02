@@ -59,6 +59,13 @@ related:
   - INS-260330-01D5
   - INS-260327-714F
   - INS-260330-1EAC
+evidence:
+  - id: INS-260330-E43F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A98B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Chinese local governments hold a monopoly on converting agricultural land to residential use. Since housing is socially mandatory (marriage prerequisite, primary savings vehicle), this monopoly position functions as a taxation mechanism with no rate ceiling. Unlike explicit taxes, which face political resistance and legal constraints, land sale revenue is extracted through market transactions that obscure the government's role as monopoly supplier.
 

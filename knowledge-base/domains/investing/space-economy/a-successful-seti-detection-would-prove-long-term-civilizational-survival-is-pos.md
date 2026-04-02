@@ -61,6 +61,18 @@ evidence:
   - id: INS-260323-38EC
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260330-FFAB
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-02F2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-0919
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D88C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Tarter identifies the deepest reason to pursue SETI: a successful detection would provide statistical proof that long-term civilizational survival is possible. The reasoning is elegant — we will only succeed in detecting alien technology if, on average, such technologies are very long-lived (long in cosmic time, not human time).
 

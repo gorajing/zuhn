@@ -52,5 +52,9 @@ related:
   - INS-260330-90C3
   - INS-260330-10CF
   - INS-260330-22D6
+evidence:
+  - id: INS-260330-FC9F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 At the peak of his scheme, Ponzi hired William McMasters as his publicist. McMasters was an honest man who, upon reviewing Ponzi's actual records, immediately recognized the fraud. His assessment was devastating: 'Ponzi is a financial idiot. He can hardly even add up.' McMasters took the evidence to the Boston Post and wrote a Pulitzer Prize-winning expose. This illustrates a fundamental tension in scaling any operation: growth requires delegation, but delegation means giving others access to operational reality. For legitimate businesses, transparency is a strength. For fraudulent ones, every competent hire is a potential whistleblower. The broader principle applies to organizational integrity — operations that cannot survive scrutiny from their own employees are structurally fragile.

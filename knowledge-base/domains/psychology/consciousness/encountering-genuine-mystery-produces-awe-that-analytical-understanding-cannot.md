@@ -48,11 +48,14 @@ related:
   - PRI-260325-1640
   - INS-260330-0AE2
   - INS-260321-AE3F
+  - INS-260402-D0F3
   - INS-260325-5ACA
-  - PRI-260325-EEE9
 evidence:
   - id: INS-260321-AE3F
     type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-5ACA
+    type: SUPPORTS
     classified_at: '2026-04-02'
 ---
 The drive to explain everything treats mystery as a deficiency to be corrected. But genuine engagement with irreducible mysteries (why anything exists, what consciousness is) produces a quality of experience - awe, wonder, humility - that explanation would eliminate rather than enhance.

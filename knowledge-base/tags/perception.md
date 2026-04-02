@@ -27,11 +27,6 @@
 - `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-FA2D` The arrow's flex is invisible to the naked eye but is the entire mechanism of accuracy — slow-motion cameras revealed what centuries of archery couldn't.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
-- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
-- `INS-260330-6EE2` Length contraction in special relativity means a sufficiently fast-moving observer would measure Earth as physically flat — shape depends on reference frame.
-- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
-- `INS-260330-5391` Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
-- `INS-260330-6D52` The same physical touch can feel arousing or irritating depending on context, proving that context — not technique — is the primary lever for sexual pleasure.
 - `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity.
 - `INS-260330-2C4D` People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
 - `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
@@ -57,5 +52,10 @@
 - `INS-260330-BBEE` Aerogel scatters blue light like the atmosphere does, appearing blue on dark backgrounds but yellow against blue sky — a handheld sunset.
 - `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
 - `INS-260330-80A2` Traveling at light speed toward the Sun would initially make it appear to recede because your field of view expands to include light from nearly behind you, compressing forward objects into a smaller apparent region.
+- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
+- `INS-260330-6EE2` Length contraction in special relativity means a sufficiently fast-moving observer would measure Earth as physically flat — shape depends on reference frame.
+- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
+- `INS-260330-5391` Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
+- `INS-260330-6D52` The same physical touch can feel arousing or irritating depending on context, proving that context — not technique — is the primary lever for sexual pleasure.
 - `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.
 - `INS-260322-9436` Notes a half step apart in pitch are worlds apart in feeling — degree 5 and sharp 4 are adjacent melodically but on opposite sides of the feeling circle.

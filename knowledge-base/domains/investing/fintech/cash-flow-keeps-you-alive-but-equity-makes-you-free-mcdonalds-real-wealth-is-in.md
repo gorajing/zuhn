@@ -57,6 +57,28 @@ related:
   - INS-260330-6411
   - INS-260330-353B
 stance: Cash flow funds your lifestyle today; equity creates wealth tomorrow
+evidence:
+  - id: INS-260324-0DC1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-16F7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5514
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-FCE6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F3E4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-388E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-353B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Srivatsaa distinguishes the two financial pillars: cash flow pays today's bills (salary, revenue, distributions), while equity builds tomorrow's wealth (ownership stakes, real estate, business value). Most people optimize only for cash flow — higher salary, more clients — while neglecting equity accumulation.
 

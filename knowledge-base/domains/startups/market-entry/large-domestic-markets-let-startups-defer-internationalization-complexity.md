@@ -55,6 +55,10 @@ related:
   - INS-260322-CFB1
   - INS-260330-548B
   - INS-260402-E470
+evidence:
+  - id: INS-260330-81A7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Paul Graham argues that American startups benefit enormously from a 300-million-person English-speaking domestic market. This lets founders build the simplest possible first version targeting local users, avoiding the complexity of internationalization that European startups face immediately. The most successful European startup he cites — Skype — notably worked on an intrinsically international problem, suggesting small-country startups must either pick globally-applicable problems or accept the overhead of multi-market launch from the start.
 

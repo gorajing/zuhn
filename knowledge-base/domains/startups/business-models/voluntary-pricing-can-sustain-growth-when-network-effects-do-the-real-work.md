@@ -54,6 +54,10 @@ related:
   - INS-260327-2B62
   - INS-260330-21CC
   - INS-260330-E61E
+evidence:
+  - id: INS-260330-F9CA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 WhatsApp's $1/year subscription was famously unenforced — users who didn't pay typically kept access anyway. This worked because the real value wasn't the dollar but the growing user base. Each new user made the app more valuable for everyone else through network effects, which attracted investors willing to fund operations.
 

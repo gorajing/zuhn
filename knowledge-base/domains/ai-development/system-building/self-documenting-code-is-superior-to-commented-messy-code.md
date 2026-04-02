@@ -51,5 +51,9 @@ related:
   - INS-260330-2C97
   - INS-260321-82FE
   - INS-260329-F362
+evidence:
+  - id: INS-260330-2C97
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The instructor makes a pointed argument against comment-heavy code: developers who write messy HTML and then add comments explaining what each section does are solving the wrong problem. The real fix is rewriting the code to be readable without commentary. Comments should be reserved for things that cannot be expressed through the code itself — the 'why' behind a decision, not the 'what' of the implementation. This principle scales beyond HTML to all programming: self-documenting code through clear naming, proper indentation, semantic structure, and logical organization is always preferable to a wall of explanatory comments sitting atop tangled logic. Comments that restate what code does actually create a maintenance burden because they can drift out of sync with the code they describe, creating misleading documentation that's worse than no documentation at all.

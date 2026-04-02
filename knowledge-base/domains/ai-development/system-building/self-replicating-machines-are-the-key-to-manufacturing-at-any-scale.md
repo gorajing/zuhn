@@ -57,6 +57,10 @@ related:
   - PRI-260328-C528
   - PRI-260328-4B40
   - INS-260330-5DCA
+evidence:
+  - id: INS-260323-DDC2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Gershenfeld's lab demonstrated robots that can construct copies of themselves from the same parts they assemble. This is the same principle biology uses: ribosomes are slow (one molecule per second) but ribosomes make ribosomes, so you get trillions of them, and that makes an elephant.
 

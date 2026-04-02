@@ -56,6 +56,16 @@ related:
   - INS-260329-1610
   - INS-260329-0F06
   - INS-260330-02A7
+evidence:
+  - id: INS-260329-DBFE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-0F06
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-02A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial introduces classes by highlighting a genuine limitation: you can't represent a phone or a book with just a string or integer. A phone has a make, model, screen size, and carrier — it's a composite entity. Classes solve this by letting you define custom data types that bundle related attributes together.
 

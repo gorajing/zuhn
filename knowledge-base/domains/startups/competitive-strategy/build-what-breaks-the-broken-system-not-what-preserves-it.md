@@ -44,10 +44,11 @@ stance: >-
   and break fundamentally broken systems like LeetCode interviews rather than
   working within them.
 related:
+  - INS-260402-AC3D
   - PRI-260321-7307
   - INS-260321-1A0B
+  - INS-260402-4F0E
   - PRI-260328-A1AA
-  - INS-260323-AF7B
   - INS-260330-464E
   - INS-260330-84F4
 evidence:

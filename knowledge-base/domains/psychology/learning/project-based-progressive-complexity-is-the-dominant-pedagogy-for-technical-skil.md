@@ -59,6 +59,13 @@ related:
   - INS-260329-07D3
   - INS-260329-65CD
   - INS-260329-294C
+evidence:
+  - id: INS-260329-8330
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-DACC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial's structure reveals a pedagogical pattern: introduce a concept cluster (variables, strings, arrays), then immediately challenge the learner to combine them in a mini-project before advancing. This interleaving forces retrieval practice and synthesis rather than passive consumption. The calculator project tests arithmetic and input handling, mad libs tests string manipulation, and the guessing game tests control flow and randomness — each project requires combining multiple recently-learned concepts.
 

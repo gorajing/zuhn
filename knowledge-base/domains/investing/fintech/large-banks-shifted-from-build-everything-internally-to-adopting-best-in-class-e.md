@@ -55,6 +55,19 @@ related:
 stance: >-
   Major banks like Goldman Sachs went from building their own email clients to
   adopting Cursor and GitHub Copilot
+evidence:
+  - id: INS-260321-801C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5346
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7FFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-4081
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 David Goldberg traces a cultural arc at large financial institutions: Goldman Sachs once built its own email client (Orbit) rather than use Outlook. Then came a period of trying to become fintech companies themselves (Marcus). After a humbling, they became more open to external technology.
 

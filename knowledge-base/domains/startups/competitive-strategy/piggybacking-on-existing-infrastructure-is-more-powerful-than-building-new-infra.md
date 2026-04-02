@@ -67,6 +67,15 @@ evidence:
   - id: INS-260327-6177
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-E1EB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-EFB8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-825F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 M-PESA's architecture reveals a powerful competitive strategy: instead of building banking infrastructure from scratch (branches, ATMs, card networks), it layered financial services on top of infrastructure that already had universal penetration — mobile phones and SIM cards. The expensive part (towers, equipment, carrier networks) was already built and paid for by telecom companies.
 

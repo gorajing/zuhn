@@ -56,6 +56,16 @@ related:
   - PRI-260328-06F1
   - INS-260330-A418
   - INS-260329-5346
+evidence:
+  - id: INS-260323-9B49
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A418
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-5346
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The fab lab network (over 2,000 labs worldwide) follows the same democratization pattern as computing: mainframes became PCs became smartphones. CNC machines, 3D printers, and laser cutters are following the same cost and accessibility curve.
 

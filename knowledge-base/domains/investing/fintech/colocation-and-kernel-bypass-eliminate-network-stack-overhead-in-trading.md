@@ -51,6 +51,10 @@ related:
   - INS-260329-CD02
   - INS-260329-3243
   - INS-260329-A9ED
+evidence:
+  - id: INS-260329-3243
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 HFT firms physically colocate their servers near exchange hardware to minimize signal propagation time. They use ultra-low-latency NICs with kernel-bypass mechanisms like DPDK or Solarflare OpenOnload that skip the OS network stack entirely, processing market data in microseconds rather than the milliseconds a standard TCP stack would require.
 

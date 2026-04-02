@@ -59,6 +59,10 @@ related:
   - INS-260326-6D53
   - INS-260330-383F
   - INS-260330-E1CA
+evidence:
+  - id: INS-260326-6D53
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bonanno insists on the language 'potentially traumatic event' rather than 'traumatic event' for a precise reason: the same event produces fundamentally different responses in different people. Since two-thirds show resilience, the event itself is not inherently traumatic — it is potentially traumatic depending on the individual's response.
 

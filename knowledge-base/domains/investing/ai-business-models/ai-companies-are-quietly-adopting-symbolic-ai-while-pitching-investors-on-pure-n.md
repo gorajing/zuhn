@@ -62,6 +62,12 @@ evidence:
   - id: INS-260330-6BBD
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260327-7F64
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-2DF2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Marcus reveals a significant disconnect between what AI companies do internally and what they pitch to investors. Internally, companies have quietly started integrating classical symbolic AI tools — code interpreters running Python, logic-based systems, structured reasoning modules. These System 2 additions are what's actually driving recent progress. But the investor pitch remains 'we're just scaling neural networks' because symbolic AI is a harder story to tell and doesn't support trillion-dollar valuations.
 

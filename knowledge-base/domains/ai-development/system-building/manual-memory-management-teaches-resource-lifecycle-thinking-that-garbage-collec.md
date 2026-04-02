@@ -55,5 +55,12 @@ related:
   - PRI-260327-942E
   - INS-260329-F886
   - INS-260329-BAB7
+evidence:
+  - id: INS-260329-BDCC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-818A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The course walks through how memory leaks occur: reassigning a pointer without freeing its target, double allocation without releasing the first block, and losing scope on dynamically allocated memory. These aren't just C++ problems — they're instances of a universal pattern. Every system has resources with lifecycles: database connections, file handles, GPU memory for AI inference, API rate limit tokens. Developers who learned resource management through manual memory allocation carry a mental model of 'who owns this resource and when does it get released' that transfers directly to designing connection pools, managing GPU memory in ML training, and preventing resource exhaustion in production systems. Garbage collection hides this complexity, which is fine until you hit scale constraints where understanding the lifecycle becomes essential.

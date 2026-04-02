@@ -61,6 +61,12 @@ evidence:
   - id: INS-260328-F05E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-5CB1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260320-C56D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Oracle exemplifies the data center trap: spending $100B+ on AI data centers with negative gross margins, funded by $100B+ in debt, for customers like OpenAI that burn billions annually. The timeline mismatch is fatal — data centers take years to build, GPUs must be bought upfront, and Nvidia's product cycle (Blackwell -> Vera Rubin -> Kyber) means hardware is outdated before deployment.
 

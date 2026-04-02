@@ -55,6 +55,10 @@ related:
   - INS-260402-2C6B
   - INS-260329-72AC
   - INS-260323-FAD5
+evidence:
+  - id: INS-260327-D9D6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Anatomy developed standardized directional terms (anterior/posterior, superior/inferior, medial/lateral, proximal/distal) because imprecise language like 'achey belly' is inadequate for surgical coordination. A doctor can pinpoint a swallowed toothpick as 'along the medial line, posterior to the heart, anterior to the vertebrae, inferior to the collarbone, superior to the stomach' — giving a surgeon a precise verbal map to the esophagus.
 

@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 35 insights
+> 36 insights
 
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
@@ -26,6 +26,7 @@
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
 - `INS-260330-3899` [high] People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error.
+- `INS-260402-9D7B` [high] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
 - `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260402-2DCE` [medium] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.

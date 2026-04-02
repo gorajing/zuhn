@@ -61,6 +61,10 @@ related:
   - INS-260330-5043
   - INS-260330-7AB8
   - INS-260330-D6ED
+evidence:
+  - id: INS-260323-7E6F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Levie identifies a repeatable pattern for spotting enterprise startup opportunities: monitor when underlying enabling technologies (cost of computing, storage costs, network speeds, new form factors like tablets/phones) change dramatically while existing practices remain stuck in the old paradigm. The opportunity exists at the maximum delta between what's now possible and how things currently work.
 

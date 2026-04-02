@@ -52,10 +52,10 @@ stance: >-
   and systematize repetitive work.
 related:
   - PRI-260328-5D9E
+  - INS-260402-F479
   - INS-260321-33FC
   - INS-260327-E63E
   - PRI-260328-C528
-  - INS-260327-42F0
   - INS-260325-2CC7
   - INS-260327-500C
   - INS-260327-3049

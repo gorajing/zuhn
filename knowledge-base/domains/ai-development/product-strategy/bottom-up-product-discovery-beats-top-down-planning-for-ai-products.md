@@ -48,7 +48,6 @@ stance: >-
   The best AI products emerge from researchers and engineers tinkering close to
   the model's capabilities, not from top-down product planning cycles.
 related:
-  - INS-260325-BF84
   - INS-260327-9641
   - PRI-260328-935A
   - INS-260330-8AC8
@@ -70,6 +69,9 @@ evidence:
     classified_at: '2026-04-02'
   - id: INS-260327-30E4
     type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260402-EE6E
+    type: SUPPORTS
     classified_at: '2026-04-02'
 ---
 Krieger contrasts his Instagram experience (top-down 3-6 month planning cycles) with Anthropic's approach: 'you just have to allow for much more bottom-up creativity because the best products are built very close to the model and you can only tell what they're capable of pretty late in the process.' Artifacts was a research prototype taken by a designer and engineer to production. MCP started from watching two completely different implementations of Google Drive and GitHub integrations and the third queuing up as yet another bespoke build.

@@ -58,6 +58,12 @@ evidence:
   - id: INS-260320-901C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-C4A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-FEAB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi identifies a death zone for service businesses targeting SMBs at $1500-3000/month: churn averages 4-6 months, CAC always increases, and margin compresses until you're running a nonprofit. The only two models that work are: (1) Go super cheap ($300-500/month) with near-zero delivery cost and automated fulfillment (SEO ranking, review management) achieving 30-40 month stick rates, or (2) Go premium with high-touch services targeting businesses that actually know their metrics and have proven models.
 

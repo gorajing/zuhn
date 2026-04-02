@@ -58,6 +58,22 @@ related:
   - INS-260330-DCFB
   - INS-260330-C870
   - INS-260325-A54F
+evidence:
+  - id: INS-260329-388E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-696D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-DCFB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C870
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-A54F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Vitalik argues that ETH the asset and Ethereum the ecosystem are synergistic: the stronger the application ecosystem, the stronger ETH as an asset, and vice versa. Naval reinforces this by noting that the biggest stores of value in the world aren't gold or currencies — they're factories, stocks, houses, and other productive assets. This challenges the Bitcoin-as-digital-gold narrative by suggesting that productive assets with usage-driven demand may be more durable stores of value than inert ones.
 

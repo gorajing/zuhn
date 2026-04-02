@@ -48,6 +48,10 @@ resolutions:
 stance: >-
   Daily automated content research across multiple platforms can operate for
   under $0.35 per day
+evidence:
+  - id: INS-260323-FEAB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 The content ideation automation runs daily for under $0.35 per run,

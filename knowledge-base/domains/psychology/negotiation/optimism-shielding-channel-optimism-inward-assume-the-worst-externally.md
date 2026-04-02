@@ -58,6 +58,10 @@ related:
   - INS-260330-0145
   - INS-260330-C8E1
   - INS-260330-FF9A
+evidence:
+  - id: INS-260327-F50E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Graham's nuclear reactor metaphor for startup optimism is unusually precise: optimism is the fuel that makes founding possible, but unshielded optimism creates dangerous dependencies. The practical failure mode isn't emotional — it's structural. When a founder believes a deal will close, they stop pursuing alternatives. The other party senses this dependence and exploits it in negotiation details.
 

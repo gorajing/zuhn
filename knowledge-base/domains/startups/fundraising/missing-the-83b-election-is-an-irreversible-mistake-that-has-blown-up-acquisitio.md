@@ -54,5 +54,9 @@ related:
   - INS-260330-95F3
   - INS-260329-AADB
   - INS-260330-7346
+evidence:
+  - id: INS-260324-8D35
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When founders purchase restricted stock in their startup, they must file an 83b election with the IRS within 30 days. This election affects both individual and company taxes. The critical danger is that there is literally no way to fix a missed 83b filing retroactively — no extension, no exception, no workaround. YC has seen deals completely collapse because founders couldn't prove they filed their 83b. Investors and acquirers during due diligence will walk away from a deal if proof of the 83b election is missing, because the tax liability exposure is too severe. The filing itself is simple paperwork, but the consequences of missing it are catastrophic and permanent. Always send it via certified mail and keep the receipt as proof.

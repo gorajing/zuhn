@@ -51,5 +51,9 @@ related:
   - INS-260329-AA2C
   - INS-260329-CD02
   - INS-260322-96F1
+evidence:
+  - id: INS-260329-3243
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Before any order reaches an exchange, it passes through automated pre-trade risk checks that verify position limits, order size constraints, and strategy behavior — all in microseconds. This is the critical safety layer that prevents scenarios like Knight Capital's $440M loss from a malfunctioning algorithm. The risk engine blocks suspicious orders before they hit the exchange. The insight extends to any high-speed automated system: safety checks must operate at the same speed as the system itself, not as an afterthought bolted on at human-reaction timescales. In AI agent systems, autonomous code execution, and automated deployments, the same principle applies — guardrails must be inline and instantaneous.

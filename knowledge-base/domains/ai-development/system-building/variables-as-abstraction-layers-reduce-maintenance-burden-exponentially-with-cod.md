@@ -55,6 +55,16 @@ related:
   - INS-260329-0154
   - INS-260323-AF7B
   - INS-260329-03B5
+evidence:
+  - id: INS-260329-7B1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-5747
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-03B5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial's story example (changing a character's name from George to John across multiple print statements) illustrates a fundamental software engineering principle: hardcoded values create O(n) maintenance burden where n is the number of occurrences. Variables reduce this to O(1). While this seems elementary, the same principle scales to configuration management, environment variables, and the entire concept of 'single source of truth' in distributed systems.
 

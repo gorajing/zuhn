@@ -47,5 +47,12 @@ related:
   - INS-260325-76E6
   - INS-260325-6874
   - INS-260327-AEFA
+evidence:
+  - id: INS-260325-A8E6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-76E6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 O'Connor's personal resolution to existential anxiety is neither confident meaning-making nor resigned nihilism but genuine agnosticism: 'I do not know the first thing about why any of this exists. Of course I don't.' He notes that people expect philosophers to have worked it out, but the honest position is shared bewilderment. This is consoling precisely because it releases the pressure to have an answer. Both the Ecclesiastes author and Camus attempted solutions (fear God / imagine Sisyphus happy), but O'Connor finds those unsatisfying. The meta-insight is that the demand for an answer may itself be the source of existential suffering — and that intellectual humility about ultimate questions is a viable psychological strategy.

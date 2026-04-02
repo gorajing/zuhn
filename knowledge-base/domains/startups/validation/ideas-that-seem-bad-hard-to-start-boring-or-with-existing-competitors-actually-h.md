@@ -59,9 +59,9 @@ related:
   - INS-260323-5F8A
   - INS-260321-5C24
   - INS-260330-66A0
+  - INS-260402-910C
   - INS-260402-E140
   - INS-260402-D739
-  - INS-260321-2F09
   - INS-260330-D644
 ---
 Three counterintuitive signals that an idea is actually good: First, it's hard to get started (Paul Graham's 'schlep blindness'). Stripe was obvious to thousands of developers who knew payment integration sucked, but none tried because you had to get a special bank deal and learn credit card infrastructure. This scared everyone off and left a $100B opportunity on the table.

@@ -55,6 +55,19 @@ related:
   - PRI-260328-0993
   - INS-260327-0488
   - INS-260327-747B
+evidence:
+  - id: INS-260327-CBBB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-EF10
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260329-3609
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-747B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Loss aversion — feeling losses approximately twice as intensely as equivalent gains — is perhaps the most destructive bias in investing. When markets dip 5% (which happens twice a year on average) or 10% (two out of every three years), the pain signal overwhelms rational assessment.
 

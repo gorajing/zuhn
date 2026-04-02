@@ -71,5 +71,8 @@ evidence:
   - id: INS-260329-C1A4
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-3B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Most teams think of caching as 'making things faster' without recognizing they're making an explicit tradeoff on a spectrum: write-around (safe, slow writes, cache misses on first read), write-through (safe, slower writes, cache always fresh), write-back (fast writes, risk of data loss on crash). The dangerous middle ground is teams that use write-back semantics without realizing it — any system that acknowledges a write before persisting to durable storage is implicitly write-back. This generalizes to product decisions: speed-to-user vs. durability-of-state is a tradeoff in every real-time system, from collaborative editors to payment processing. Making the tradeoff explicit prevents the worst outcome: thinking you have durability guarantees when you actually have a write-back cache.

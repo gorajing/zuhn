@@ -51,6 +51,10 @@ related:
   - INS-260330-31A9
   - INS-260330-06CD
   - INS-260330-F8E7
+evidence:
+  - id: INS-260330-06CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Before committing to covering a massive reservoir with 96 million shade balls at ~$0.34 each, the LA water department ran the simplest possible experiment: three inflatable kiddie pools filled with reservoir water — one in sunlight, one with a tarp, one with shade balls. The shade balls 'knocked out the problem immediately.'
 

@@ -56,6 +56,10 @@ related:
   - INS-260329-69F0
   - INS-260329-18BB
   - INS-260329-31A2
+evidence:
+  - id: INS-260329-6AF5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The tutorial spans 2 hours and covers HTML from first tag to complete webpage — long enough to be comprehensive but short enough for a single sitting. This format succeeds because it respects two competing psychological needs: the need for closure (finishing something produces satisfaction and motivation to continue) and the need for sufficient depth (skimming too fast produces the illusion of learning without real understanding).
 

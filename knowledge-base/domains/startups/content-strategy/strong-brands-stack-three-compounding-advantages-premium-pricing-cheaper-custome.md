@@ -61,6 +61,10 @@ related:
   - PRI-260324-90E8
   - INS-260330-809A
   - INS-260330-D6D3
+evidence:
+  - id: INS-260323-2FF9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi illustrates how brand advantages stack multiplicatively, not additively. A strong brand like Nike can: (1) charge 12x more for an identical white t-shirt ($60 vs $5), (2) get 6x higher click-through rates on the same ad (3% vs 0.5%), and (3) generate repeat purchases and resistance to competitor poaching (the Apple ecosystem effect). These three effects compound — you're making more per sale, spending less to acquire each customer, and keeping them longer. This is why Buffett says pricing power is the single most important business evaluation criterion.
 

@@ -52,6 +52,10 @@ related:
 stance: >-
   It IS faster to do it yourself the first time — but accepting that upfront
   cost is the only path to compounding leverage.
+evidence:
+  - id: INS-260329-33C7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The number one blocker to delegation is the belief that it will be faster or better to do it yourself. The insight is that this belief is actually true — but it's a trap. The only way to build leverage is by absorbing the activation energy of teaching someone else. The second mistake is churning assistants every 6-12 months instead of compounding the relationship.
 

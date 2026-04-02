@@ -51,6 +51,10 @@ related:
   - INS-260323-114D
   - INS-260321-F2C4
   - INS-260330-8A28
+evidence:
+  - id: INS-260330-8A28
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The 2025 bankruptcy wave (785 significant filings, 32 'mega-bankruptcies') occurred outside of an official recession, contradicting the normal pattern where business failures spike during downturns. Companies like Rite Aid going bankrupt a second time within 8 months of exiting first bankruptcy reveal that many businesses are structurally unviable.
 

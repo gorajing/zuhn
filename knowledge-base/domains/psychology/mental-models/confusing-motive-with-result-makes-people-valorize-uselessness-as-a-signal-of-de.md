@@ -53,6 +53,6 @@ related:
   - PRI-260324-F9CD
   - INS-260330-8E8A
   - INS-260330-3B05
-  - PRI-260328-E64D
+  - INS-260402-D0F3
 ---
 Graham identifies what he calls possibly the most important mistake in the history of philosophy: Aristotle observed that theoretical knowledge is often pursued out of curiosity rather than practical need, and concluded that the most noble knowledge is that which has no practical application. This confusion between motive and result sent philosophy down an unproductive path for millennia. The pattern repeats across domains — academics valorize impractical research, artists dismiss commercial success as selling out, and intellectuals treat accessibility as evidence of shallowness. The corrective is recognizing that curiosity-driven inquiry and practical utility are not opposed; the most general truths discovered through pure curiosity tend to become the most broadly applicable. Knowledge is power, and that is what makes theoretical knowledge prestigious in the first place.

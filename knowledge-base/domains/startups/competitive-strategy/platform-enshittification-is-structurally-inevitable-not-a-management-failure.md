@@ -59,6 +59,9 @@ evidence:
   - id: INS-260322-7B61
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-7ED0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Amazon's trajectory is the canonical enshittification pattern: offer incredible value below cost to build market dominance, then progressively degrade the experience to extract profit. This isn't incompetent management - it's the only viable path for platform businesses.
 

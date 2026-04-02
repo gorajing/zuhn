@@ -60,6 +60,10 @@ related:
   - INS-260330-EA56
   - PRI-260328-EAC4
   - INS-260330-4D05
+evidence:
+  - id: INS-260329-8443
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Chinese households save approximately 40% of their disposable income — roughly 10x the European rate. But with a volatile domestic stock market and banks perceived as unpredictable, real estate becomes the default store of value, accounting for 70% of all household wealth. A 0% property tax further incentivizes buying and holding indefinitely rather than renting or selling.
 

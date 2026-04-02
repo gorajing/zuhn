@@ -55,6 +55,13 @@ related:
 stance: >-
   The SaaS selloff blamed on AI disruption is actually the end of a decade-long
   hypergrowth era
+evidence:
+  - id: INS-260327-CBBB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-78A5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Between 2018-2022, 30-40% of private equity deals targeted software companies, based on the assumption perpetual growth would continue. That assumption was wrong. Software growth slowed after 2022 as the zero-interest-rate era ended, but PE firms had already loaded up on overvalued SaaS assets.
 

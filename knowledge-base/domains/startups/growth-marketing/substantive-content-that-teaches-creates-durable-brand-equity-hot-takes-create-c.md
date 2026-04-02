@@ -55,6 +55,10 @@ related:
 stance: >-
   Timeless how-to content (like 'Good Product Manager Bad Product Manager')
   compounds in value while opinion pieces about market bubbles are forgotte...
+evidence:
+  - id: INS-260327-5D13
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 a16z's content strategy revealed a clear hierarchy: substantive pieces on how to construct a company, manage people, and think about promotions generated lasting value and deep entrepreneur loyalty. Meanwhile, commentary pieces like 'are we in a bubble' generated temporary chatter but no lasting brand equity.
 

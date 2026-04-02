@@ -70,6 +70,18 @@ evidence:
   - id: INS-260325-B1D8
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260322-837A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-7282
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-229C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260402-8424
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The distinction between genuine and illusory data moats is critical for evaluating tech businesses. First-movers like Facebook, LinkedIn, Netflix, and Google had organic adoption and network effects -- users came for the product, generated data passively, and the data made the product better, attracting more users. This is a genuine flywheel.
 

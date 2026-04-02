@@ -66,5 +66,14 @@ evidence:
   - id: INS-260320-9FD5
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-4FF3
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-DFC7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-BB71
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The 20VC hosts describe building AI VPs of marketing and customer success that run on Claude Sonnet/Opus — agents that define daily marketing activities, run weekly team meetings, and manage 200+ sponsor relationships 24/7. After weeks of prompt tuning and QA, there is zero appetite to switch models. Token costs of $2-10K/month are trivial compared to the soft costs of requalifying outputs. This reveals two distinct AI markets: cost-sensitive applications (support, high-token-volume) where customers aggressively rotate between cheapest models via OpenRouter, and value-sensitive applications where the model is deeply embedded in workflows and switching costs are enormous. The latter category will be larger than most people think — and represents real lock-in for whichever model wins the initial deployment.

@@ -52,6 +52,19 @@ related:
   - INS-260329-50BD
   - INS-260327-FF64
   - INS-260329-62C1
+evidence:
+  - id: INS-260330-1D3B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-3FED
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-50BD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-62C1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Epstein case exposes a systemic vulnerability: the financial system allowed someone with no formal credentials (no CPA, no Series 7, no CFA, no college degree) to charge tens of millions in fees for services of unverifiable value. Ultra-wealthy clients either didn't perform due diligence or didn't care about credentials.
 

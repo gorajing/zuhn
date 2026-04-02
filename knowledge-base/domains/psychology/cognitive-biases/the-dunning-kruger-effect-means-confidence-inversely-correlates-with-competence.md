@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-24D1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-A5CD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dunning-Kruger operates through a metacognitive deficit: the skills required to produce correct judgments are the same skills required to recognize correct judgments. Someone who lacks understanding in a domain also lacks the ability to recognize their own lack of understanding.
 

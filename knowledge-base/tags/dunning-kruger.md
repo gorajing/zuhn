@@ -5,6 +5,7 @@
 - `INS-260330-BD04` Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
 - `INS-260330-5EAC` Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
+- `INS-260402-AC3D` You can see what's missing in weaker tools but are blind to what's missing in your own compared to more powerful ones.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260327-4367` The people most confident in their opinions are statistically likely to be the least informed, while genuine experts are plagued by awareness of how much they don't know.
 - `INS-260330-CC7D` You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.

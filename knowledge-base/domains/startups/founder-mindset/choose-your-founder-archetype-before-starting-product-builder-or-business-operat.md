@@ -51,6 +51,10 @@ related:
 stance: >-
   You must be either the tech/product founder or the business/revenue founder,
   then find a complementary co-founder for the other role.
+evidence:
+  - id: INS-260327-F9C3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The 'Zuckerberg or Jobs' framing forces a critical self-assessment most aspiring founders skip. You cannot be the person who builds the product AND the person who handles revenue, hiring, and investor relations — at least not well enough to compete. This means before you even have an idea, you need brutal self-knowledge about which role you're suited for.
 

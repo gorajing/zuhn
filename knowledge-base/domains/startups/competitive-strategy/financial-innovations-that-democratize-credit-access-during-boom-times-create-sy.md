@@ -45,6 +45,10 @@ related:
   - PRI-260328-43F1
   - PRI-260328-6136
   - INS-260324-6FC7
+evidence:
+  - id: INS-260324-6FC7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Every generation of consumer credit innovation follows the same pattern: expand access during prosperity, accumulate risk invisibly, then face cascading defaults during the next downturn.
 

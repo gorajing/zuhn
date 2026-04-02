@@ -62,6 +62,16 @@ related:
 stance: >-
   Ray Dalio's core insight: the #1 mistake is trying to increase returns without
   managing risk
+evidence:
+  - id: INS-260330-2413
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0E33
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Most people try to increase returns without paying attention to risk. Srivatsaa's friend bet $700K of life savings — 15 years of systematic saving — on a single oil and gas deal that collapsed. The lesson isn't about evaluating the deal; it's about sizing the bet. You don't risk the empire for a pot of gold.
 

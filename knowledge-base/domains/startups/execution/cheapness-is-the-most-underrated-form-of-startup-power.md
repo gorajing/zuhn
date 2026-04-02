@@ -51,6 +51,11 @@ related:
   - INS-260329-0B9D
   - INS-260330-4E10
   - INS-260330-B906
+  - INS-260402-C13F
+evidence:
+  - id: INS-260330-B906
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Graham frames cheapness not as austerity but as a form of power. High burn rates create constant time pressure, which has two destructive effects: (a) you don't have time for ideas to evolve naturally through user feedback and iteration, and (b) you're forced to accept unfavorable deals because you're negotiating from desperation. The rule is simple: spend little, work fast.
 

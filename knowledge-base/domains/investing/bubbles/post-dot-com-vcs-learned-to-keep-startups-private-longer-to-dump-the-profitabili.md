@@ -51,5 +51,15 @@ related:
   - INS-260327-7D0B
   - INS-260327-8773
 stance: 'After the dot-com crash, VCs stopped rushing to IPO'
+evidence:
+  - id: INS-260330-B3D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-CC05
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7D0B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The dot-com fallout taught VCs a 'smarter way to pump and dump.' Instead of quick IPOs, they keep startups private, using multiple late-stage rounds to control narratives and inflate valuations through backroom deals. By IPO, growth curves are spent, future potential is priced in, and profitability is the public's problem. AI startups pursue war chests that make 2010s blitzscaling look like seed rounds. Media appearances are choreographed to sustain hype, VCs evangelize portfolio companies to coordinate exits at peak valuations.

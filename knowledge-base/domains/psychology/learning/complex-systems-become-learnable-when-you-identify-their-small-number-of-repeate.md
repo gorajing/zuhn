@@ -53,7 +53,6 @@ stance: >-
   once you recognize they are just 8 types of matrix repeated thousands of
   times.
 related:
-  - INS-260326-6D76
   - INS-260329-DFDB
   - INS-260330-B50A
   - INS-260330-D3F5

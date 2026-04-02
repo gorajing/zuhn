@@ -64,6 +64,18 @@ evidence:
   - id: INS-260323-4D14
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-DFA4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CC51
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-C3FA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-538D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When Sara Seager was in graduate school in the mid-1990s, the first exoplanet around a sun-like star was reported. At the time, the field was considered fringe — people thought it was silly to spend time on it. Within 30 years, astronomers have confirmed thousands of exoplanets with several thousand more candidates awaiting confirmation.
 

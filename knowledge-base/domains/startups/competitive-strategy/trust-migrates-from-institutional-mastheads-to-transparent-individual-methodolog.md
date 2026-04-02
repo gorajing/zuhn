@@ -54,5 +54,12 @@ related:
   - INS-260330-06E3
   - INS-260330-D031
   - INS-260327-65F9
+evidence:
+  - id: INS-260327-65F9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-88FC
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 A fundamental transition in intellectual trust is underway. Historically, the public granted default trust to institutional mastheads — the BBC, NYT, academia. Today, trust is placed in the transparent methodology of the individual creator. Audiences trust Ezra Klein because they can observe the depth of his preparation and transparent ideological baseline. They trust Destin Sandlin because he shows his failures during testing. In an era of institutional decay and algorithmic manipulation, the rigorous, observable process has become the primary metric of authority. Consumers demand to see the work. This restructures competitive advantage in any knowledge-based business — credibility accrues to those who make their reasoning visible, not those who hide behind brand names.

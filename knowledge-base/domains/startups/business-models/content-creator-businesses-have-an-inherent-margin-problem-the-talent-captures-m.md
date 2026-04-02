@@ -64,6 +64,19 @@ related:
   - INS-260324-6C5F
   - INS-260323-BD20
   - INS-260327-9DA6
+evidence:
+  - id: INS-260323-F753
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F9CA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-FEAB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-35D4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 FaZe Clan exemplifies a structural problem in creator-aggregation businesses. To convince top streamers and content creators to band together under one exclusive brand, FaZe had to compensate them with a generous cut of every sponsorship deal. Cost of revenue sat above 70% every year -- meaning FaZe gave away at least 70 cents of every dollar to creators and players.
 

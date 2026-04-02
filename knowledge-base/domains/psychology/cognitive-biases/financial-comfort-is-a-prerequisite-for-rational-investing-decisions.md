@@ -59,6 +59,16 @@ related:
   - INS-260329-D38D
   - INS-260321-347D
   - INS-260327-A5F9
+evidence:
+  - id: INS-260329-D38D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-FC0B
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-FF45
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Ackman connects personal financial stability directly to investing psychology: investors who are financially stressed — carrying credit card debt, lacking emergency funds — cannot maintain the emotional discipline required during market panics. Even investors who intellectually understand they should 'buy when others are selling' will capitulate if they're worried about making rent. The 1987 crash example shows that many investors sold at the bottom precisely because they couldn't afford the psychological cost of watching their portfolio decline.
 

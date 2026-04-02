@@ -63,6 +63,12 @@ evidence:
   - id: INS-260320-0F7C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-F46F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2C5F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The car inventory project demonstrates importing external CSV data into Excel, then enriching it with VLOOKUP and summarizing with pivot tables. This workflow — export from system A as CSV, import into system B, transform and analyze — is how the vast majority of non-technical business data integration actually happens.
 

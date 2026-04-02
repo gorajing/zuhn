@@ -50,5 +50,12 @@ related:
   - PRI-260323-8EEA
   - INS-260327-7E3D
 stance: Using another company's funding as market validation is a false signal
+evidence:
+  - id: INS-260329-4605
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-9AD4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Founders frequently point to recently funded companies as validation for their own similar idea, saying 'YC funded X doing this, so the market is validated.' But Dalton reveals that as the person who funded those companies, he often funded the founder — not the idea — and many pivoted during the batch into something entirely different. Reading tea leaves from YC batches, seed rounds, or Series B announcements gives no real signal. The entire practice of derisking startup ideas by copying what got funded leads to extremely derivative, non-unique ideas that are the opposite of what creates breakout companies.

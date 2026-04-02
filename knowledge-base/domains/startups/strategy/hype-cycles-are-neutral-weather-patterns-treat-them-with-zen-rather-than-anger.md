@@ -49,5 +49,9 @@ related:
   - INS-260329-D1B8
   - INS-260329-19F9
   - INS-260326-8217
+evidence:
+  - id: INS-260327-7265
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Dalton draws on decades of experience from the dot-com boom through AI to argue that hype cycles are a permanent feature of the environment, not a bug. He recalls the Iomega zip drive stock during the dot-com era — it looked like the hottest thing in the world and went to zero. The emotional responses people have — anger, resentment, judgment — are counterproductive. The skill to develop is identifying what is on the way up and what is on the way down while maintaining emotional neutrality. Hype cycles have both positive and negative side effects, but they are neither good nor evil — just weather.

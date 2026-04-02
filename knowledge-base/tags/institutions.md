@@ -11,6 +11,7 @@
 - `INS-260323-CF30` Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from barbarity' warning mean that democratic freedoms degrade the moment each generation stops actively protecting them.
 - `INS-260330-2B4F` Morgan's two bailouts of the U.S. economy demonstrated that private financiers can fill institutional vacuums, but this concentrates dangerous power in unelected hands.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
+- `INS-260402-4F0E` People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260323-E1B6` Both liberal and conservative Supreme Courts agree on free speech because each recognizes they may be in the minority tomorrow and will need speech protections.
 - `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
 - `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.

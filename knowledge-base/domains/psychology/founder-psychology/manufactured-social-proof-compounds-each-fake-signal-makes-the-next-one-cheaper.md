@@ -59,5 +59,9 @@ related:
   - INS-260330-E9D4
   - INS-260330-0BD3
   - INS-260330-990F
+evidence:
+  - id: INS-260330-4370
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Jho Low systematically manufactured social proof from age 17: borrowing a yacht and swapping family photos, forging embassy letterheads for nightclub access, plagiarizing Wall Street reports to build a stock-picker reputation, and letting people assume he was Malaysian royalty. Each fabricated signal made the next one cheaper to produce because people anchored on his existing perceived status rather than independently verifying. By the time he approached Malaysia's Deputy PM, he had accumulated enough manufactured credibility that his proposals seemed trustworthy. This pattern reveals a dangerous vulnerability in how humans assess trustworthiness — we use social consensus as a proxy for verification, meaning someone who can seed initial false signals can exploit the compounding effect indefinitely until an external shock (whistleblower, audit) breaks the cycle.

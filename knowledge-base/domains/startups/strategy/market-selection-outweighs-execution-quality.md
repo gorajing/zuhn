@@ -52,6 +52,10 @@ related:
   - PRI-260328-F0B4
   - PRI-260324-12CF
   - INS-260323-422B
+evidence:
+  - id: INS-260327-CFE5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Warren Buffett's insight that 'it matters less how hard you row than what boat you're in' applies directly to entrepreneurship. Hormozi illustrates this with Buffett's Columbia Business School friend — equally smart, hardworking, and ethical — who chose the steel industry while Buffett chose investing. The divergence in outcomes was entirely attributable to market selection, not personal capability.
 

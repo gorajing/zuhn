@@ -52,6 +52,10 @@ related:
   - INS-260402-27A1
   - INS-260327-9431
   - INS-260329-F0DD
+evidence:
+  - id: INS-260327-9431
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Misra was pursuing a PhD in machine learning when he realized the startup he was building on the side had more potential. He dropped out despite social pressure to complete the degree. The curriculum he'd already covered in India made much of the US education redundant anyway.
 

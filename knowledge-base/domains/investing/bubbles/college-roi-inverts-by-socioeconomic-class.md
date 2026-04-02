@@ -46,5 +46,15 @@ related:
   - INS-260328-68BA
   - INS-260330-C1EA
   - INS-260402-8F1E
+evidence:
+  - id: INS-260329-3C67
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260328-68BA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260402-8F1E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi presents data showing that college provides the greatest earnings uplift for students from low-income backgrounds, where the credential opens doors otherwise closed. For wealthy families, the marginal return on a degree is far smaller because they already have network access, safety nets, and career pathways independent of credentials. Yet wealthy families are the strongest advocates for college attendance — a classic case where social signaling and status preservation override rational economic calculation. This inversion suggests education decisions are driven more by class identity than by ROI analysis.

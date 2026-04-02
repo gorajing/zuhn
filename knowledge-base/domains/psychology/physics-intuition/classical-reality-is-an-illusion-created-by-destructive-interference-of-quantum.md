@@ -45,11 +45,11 @@ resolutions:
     mechanics isn't fundamental — it's what emerges when quantum interference
     patterns converge on a single visible path.
 related:
+  - INS-260402-2FDF
   - PRI-260323-0F93
   - INS-260325-75A3
   - INS-260325-436A
   - INS-260330-56D6
-  - INS-260330-C8B4
   - INS-260329-4E70
 stance: >-
   Objects appear to follow single trajectories not because they do, but because

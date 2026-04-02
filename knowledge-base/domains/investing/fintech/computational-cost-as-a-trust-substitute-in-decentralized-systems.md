@@ -48,5 +48,21 @@ related:
   - INS-260330-74A0
   - INS-260322-627E
   - INS-260328-E410
+evidence:
+  - id: INS-260323-95FE
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-92AD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-74A0
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260322-627E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260328-E410
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bitcoin's core innovation is not the blockchain data structure but the insight that computational cost can substitute for institutional trust. By requiring miners to expend real resources (electricity, hardware) to propose new blocks, the protocol makes dishonest behavior economically irrational — a fraudulent actor would need >50% of the network's computing power to sustain an attack. This pattern generalizes: any system where honest participation is cheaper than fraud can achieve trustless coordination. The key design constraint is that verification must be asymmetrically cheaper than production — anyone can check a proof of work instantly, but producing one requires billions of guesses.

@@ -61,6 +61,10 @@ related:
   - INS-260328-4EA0
   - INS-260330-808B
   - INS-260330-ACE7
+evidence:
+  - id: INS-260330-808B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Nathoo illustrates the mechanics: $100K invested on a SAFE with a $5M cap, followed by a Series A at $20M valuation, means the early investor gets shares at roughly 1/4 the Series A price — buying approximately 4x more shares per dollar than Series A investors. This is the investor's reward for early-stage risk.
 

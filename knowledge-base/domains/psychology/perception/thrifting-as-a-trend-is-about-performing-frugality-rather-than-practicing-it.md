@@ -44,6 +44,10 @@ related:
   - INS-260327-415B
   - INS-260327-FCC4
   - INS-260325-51E6
+evidence:
+  - id: INS-260325-51E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending more on curated vintage pieces than fast fashion would cost.
 

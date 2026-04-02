@@ -55,6 +55,13 @@ related:
 stance: >-
   After Fama-French opened the door to factor research, academics published 316+
   distinct factors by 2016
+evidence:
+  - id: INS-260323-15F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6AA3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 John Cochrane's 2011 presidential address to the American Finance Association described the proliferation of asset pricing factors as a 'factor zoo.' A 2016 census confirmed 316 distinct published factors, with more since. This created a major data-mining problem: with enough slicing, you can find patterns that don't reflect real economic risks.
 

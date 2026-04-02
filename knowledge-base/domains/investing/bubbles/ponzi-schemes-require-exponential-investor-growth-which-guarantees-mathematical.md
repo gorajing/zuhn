@@ -48,5 +48,18 @@ related:
   - INS-260330-22D6
   - INS-260323-1B42
   - INS-260330-EE5E
+evidence:
+  - id: INS-260330-478B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-195E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-22D6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-EE5E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Charles Ponzi promised 50% returns in 45 days or 100% in 90 days. The scheme worked temporarily because early investors were paid with new investor money, creating apparent legitimacy. At peak, Ponzi collected $250,000/day. But Clarence Barron's investigation revealed Ponzi would have needed 160 million IRCs when only 27,000 existed worldwide. The math is always the fatal flaw: geometric growth in payouts requires geometric growth in new capital, which is physically impossible to sustain. This principle applies to any investment where returns depend on recruiting new participants rather than generating genuine economic value.

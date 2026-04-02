@@ -54,6 +54,10 @@ related:
   - INS-260327-51C2
   - PRI-260328-6189
   - INS-260327-0061
+evidence:
+  - id: INS-260325-76E6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Paradoxically, engaging with the darkest philosophical questions (Is existence worth it? Is meaning real?) often produces stronger life commitment than avoiding them. Unexamined optimism is fragile - it shatters when confronted with genuine suffering. Examined optimism, forged through confrontation with pessimistic arguments, is resilient because it has already absorbed the worst challenges.
 

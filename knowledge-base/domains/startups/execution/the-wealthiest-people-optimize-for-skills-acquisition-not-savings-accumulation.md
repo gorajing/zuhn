@@ -59,6 +59,10 @@ related:
   - INS-260329-0B9D
   - INS-260329-EC33
   - INS-260330-97F6
+evidence:
+  - id: INS-260329-EC33
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi distinguishes between stored energy (savings) and potential energy (income-generating capacity). He tracked monthly income rather than bank balance, and was willing to spend $2K from savings if it could turn his $5K/month income into $6K/month — because over a year that's an additional $12K. The wealthiest people he knows think exclusively in terms of skill acquisition.
 

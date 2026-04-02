@@ -56,6 +56,10 @@ related:
   - INS-260325-2AA0
   - INS-260325-4C09
   - INS-260330-B68F
+evidence:
+  - id: INS-260325-4C09
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Ese'Eja people in Rosolie's region possess detailed knowledge of thousands of plant species, animal behaviors, and ecological relationships that Western science has only partially catalogued. Their knowledge was accumulated through generations of direct observation - effectively a millennia-long empirical research program.
 

@@ -56,11 +56,11 @@ stance: >-
   together, they generate insights that neither would reach independently
 related:
   - INS-260323-246F
+  - INS-260402-607A
   - INS-260330-9A46
   - INS-260330-91EA
   - INS-260330-CA43
   - INS-260330-2B42
-  - INS-260330-4F7B
 ---
 During the experiment, father and son discovered things neither anticipated: the fuel surface dancing violently from mechanical oscillations, the debate about whether shaking was stroke-by-stroke or harmonic resonance, and the moment where operating choke and throttle simultaneously while a third person filmed created a 'vibing' collaborative flow state. The father's mechanical intuition ('It's sputtering — open the choke to lean the mixture') combined with Destin's engineering vocabulary ('converging-diverging nozzle — it's a rocket nozzle!') to produce understanding neither had alone.
 

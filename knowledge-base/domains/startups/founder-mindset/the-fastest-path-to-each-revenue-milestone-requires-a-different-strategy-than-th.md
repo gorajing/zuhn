@@ -56,6 +56,10 @@ related:
   - INS-260402-E60E
   - INS-260329-9115
   - INS-260329-06F2
+evidence:
+  - id: INS-260323-7E6F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Hormozi uses the slot machine analogy: three machines cost the same effort but pay out $100K, $10M, and $1B respectively — with the catch that higher payouts take longer to materialize. Most people line up at the $100K machine because it pays out immediately. The rational choice is the $1B machine, but human time-preference bias makes this psychologically nearly impossible.
 

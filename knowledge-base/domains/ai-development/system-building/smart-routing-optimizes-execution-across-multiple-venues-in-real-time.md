@@ -52,6 +52,19 @@ related:
   - INS-260329-50D5
   - INS-260329-AA2C
   - INS-260329-33AA
+evidence:
+  - id: INS-260329-CD02
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-50D5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-AA2C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-33AA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Rather than sending orders to a single exchange, HFT systems use smart order routers that evaluate multiple venues (NASDAQ, NYSE, etc.) in real-time. The router considers liquidity depth, latency to each venue, fill probability, and even rebate structures (exchanges pay for liquidity provision) to choose optimal execution.
 

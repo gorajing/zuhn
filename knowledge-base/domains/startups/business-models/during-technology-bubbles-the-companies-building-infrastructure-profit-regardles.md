@@ -45,6 +45,13 @@ related:
   - PRI-260321-05B5
   - INS-260322-BBED
   - INS-260321-CBD2
+evidence:
+  - id: INS-260322-6DFC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-BBED
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end-user applications succeed because all applications need the infrastructure.
 

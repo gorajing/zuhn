@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-E5F9
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-5AC5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 CIA uses a distinctive three-step training model: first educate (classroom instruction with 30-100 recruits learning a skill or concept), then exercise (immediate role-play practice after class), then experience (kicked into the real world to apply the skill immediately). The critical design element is that when operating alone in the field, only the individual knows whether they succeeded or failed.
 

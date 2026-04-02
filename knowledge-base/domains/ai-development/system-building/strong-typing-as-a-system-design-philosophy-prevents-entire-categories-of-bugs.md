@@ -54,6 +54,13 @@ related:
   - INS-260329-EA2B
   - INS-260323-AF96
   - INS-260329-8F86
+evidence:
+  - id: INS-260329-71AB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8F86
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 C# requires explicit type declarations for every variable (string, int, double, bool, char). This forces the programmer to think about what kind of data they're working with before they use it. The tutorial demonstrates how this catches errors early — you can't accidentally put text in an integer variable.
 

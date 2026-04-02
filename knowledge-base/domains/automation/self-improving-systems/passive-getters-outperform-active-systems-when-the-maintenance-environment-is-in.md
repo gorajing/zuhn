@@ -59,5 +59,17 @@ evidence:
   - id: INS-260330-E8CF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-B6DE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E03A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-1709
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-8BA6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 NASA's InSight Mars lander uses aerogel infused with zeolite particles as a passive vacuum maintenance system for its ultra-sensitive seismometers. The aerogel absorbs outgassing moisture and contaminants that would otherwise degrade the vacuum and dampen seismic readings. Crucially, this system requires zero power, zero maintenance, and zero active control — it works purely through the material's physical absorption properties. This principle extends far beyond space applications: in any system where the operating environment makes active intervention costly or impossible (remote infrastructure, embedded devices, autonomous systems), passive regulation mechanisms become disproportionately valuable. The design insight is to ask not 'how do we build a better active controller' but 'what material or structural property can passively maintain the desired state without any intervention at all.'

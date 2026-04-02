@@ -53,6 +53,10 @@ related:
   - INS-260327-9C3A
   - PRI-260328-5053
   - INS-260328-F3C4
+evidence:
+  - id: INS-260323-7F22
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Gig economy saturation follows basic supply-demand dynamics: each new driver entering the platform reduces the order flow for existing drivers. When the influx comes from displaced workers with no alternatives rather than people seeking supplemental income, the supply increase is permanent and price-insensitive.
 

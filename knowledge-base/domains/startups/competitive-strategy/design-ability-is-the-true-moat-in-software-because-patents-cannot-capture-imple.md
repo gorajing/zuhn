@@ -52,5 +52,9 @@ related:
   - INS-260325-59D4
   - INS-260402-4605
   - INS-260327-70DF
+evidence:
+  - id: INS-260330-BA13
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Graham argues that software is so subtle and unpredictable that assembling 'qualified experts' and telling them about a technique doesn't produce the same results—unlike in fields like metallurgy. A team of inspired nineteen-year-olds can beat a team of qualified experts building web-based email. This means a successful application is 'way more than the sum of its patents,' and what protects small companies from big competitors is the thousand little design decisions the big company will get wrong. The implication is that startups should invest in hiring exceptional designers rather than building patent portfolios, because design ability scales as a moat while patents in software rarely determine competitive outcomes.

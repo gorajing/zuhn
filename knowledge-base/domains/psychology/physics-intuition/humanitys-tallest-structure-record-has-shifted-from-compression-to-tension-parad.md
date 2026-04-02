@@ -57,6 +57,10 @@ related:
   - INS-260330-72D0
   - PRI-260328-99F0
   - INS-260321-7D7C
+evidence:
+  - id: INS-260330-AF2A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 For millennia, building tall meant stacking heavy materials — compression structures like pyramids and cathedrals. The tallest buildings remain compression-dominant (Burj Khalifa at 828m). But the tallest *structures* are guyed radio towers supported by tension cables, and the theoretical next leap — space elevators — is entirely tension-based.
 

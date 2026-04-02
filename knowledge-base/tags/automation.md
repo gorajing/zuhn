@@ -32,3 +32,4 @@
 - `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.
 - `INS-260330-BE23` Do every process manually first to learn which steps and questions actually matter before building software to automate them.
 - `INS-260322-F46F` AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
+- `INS-260402-F62B` Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.

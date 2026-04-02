@@ -53,6 +53,22 @@ related:
   - INS-260329-28B0
   - INS-260329-8443
   - INS-260330-EBF6
+evidence:
+  - id: INS-260322-8BC5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-CC75
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-28B0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-8443
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-EBF6
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Traditional savings advice focuses on percentages (save 20% of income) which feels abstract and disconnected from outcomes. Hormozi's reframe translates monthly savings into a concrete retirement number: each $250/month unit, invested over a working lifetime, compounds to approximately $1M. This makes the relationship between present sacrifice and future wealth viscerally real rather than theoretical.
 

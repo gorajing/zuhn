@@ -62,6 +62,10 @@ related:
   - INS-260330-1D3B
   - INS-260330-7E3F
   - INS-260330-AE22
+evidence:
+  - id: INS-260327-A5CD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi reframes failure as debt repayment: every mistake pays down 'ignorance debt' — the gap between your current knowledge and what's required to succeed. Unlike financial debt where you can avoid taking it on, ignorance debt accrues automatically from the moment you pursue a goal. The only question is whether you pay it down quickly through deliberate action and fast failure, or slowly through years of avoidance.
 

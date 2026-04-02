@@ -53,6 +53,10 @@ related:
   - INS-260329-CD38
   - INS-260329-9A58
   - INS-260329-3263
+evidence:
+  - id: INS-260329-8330
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial teaches each concept cluster through a small but complete project — a mad-libs story for string concatenation, a calculator for methods, a guessing game for loops and conditionals. Each project gives the learner a tangible artifact and a narrative context for the syntax they just learned.
 

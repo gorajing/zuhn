@@ -66,6 +66,13 @@ related:
   - INS-260330-3FCF
   - INS-260330-B09B
   - INS-260322-F6AA
+evidence:
+  - id: INS-260330-B6AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-5C25
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Sacks makes a counter-intuitive argument: when your market has fundamentally shifted (as 80% of startups experience during a major downturn), clinging to Series B headcount and burn while lacking Series B-level product-market fit is the worst possible configuration. You have the cost structure of a growth-stage company with the product certainty of a pre-seed company. The solution is to explicitly downshift—reduce to a small engineering team, cut burn dramatically, and treat the remaining capital as seed funding for whatever the absolute best new idea is.
 

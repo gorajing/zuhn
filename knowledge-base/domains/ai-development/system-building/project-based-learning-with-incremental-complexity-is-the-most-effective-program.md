@@ -59,6 +59,25 @@ related:
   - INS-260329-AD3E
   - INS-260329-820D
   - INS-260329-B2F4
+evidence:
+  - id: INS-260329-07D3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-656B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-E402
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-3263
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-AD3E
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260329-820D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This 4.5-hour tutorial demonstrates a pedagogical pattern that scales well: start with the simplest possible output (Console.WriteLine), then layer variables, user input, control flow, and finally OOP — each new concept introduced through a practical mini-project. The calculator project teaches variables + input + type conversion simultaneously. The guessing game teaches loops + conditionals + random numbers together.
 

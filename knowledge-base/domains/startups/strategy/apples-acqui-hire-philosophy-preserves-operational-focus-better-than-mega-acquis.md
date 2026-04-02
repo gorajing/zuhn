@@ -59,5 +59,9 @@ related:
   - INS-260330-217C
   - INS-260330-3FCF
   - INS-260327-C673
+evidence:
+  - id: INS-260322-90E7
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Despite sitting on hundreds of billions in cash, Apple consistently chose acqui-hires and small technology acquisitions over blockbuster deals like buying Netflix or Disney. This wasn't capital constraint — it was philosophical. Large acquisitions bring legacy culture, entrenched processes, and integration overhead that can permanently damage an acquirer's operational DNA. Apple's most valuable acquisitions (Siri, AuthenTec for Touch ID, P.A. Semi for custom chips) were small teams whose technology could be absorbed into Apple's existing operational machine. This stands in sharp contrast to companies like Yahoo or HP whose mega-acquisitions destroyed value. The lesson applies beyond Apple: operational focus is a fragile advantage that large acquisitions tend to shatter.

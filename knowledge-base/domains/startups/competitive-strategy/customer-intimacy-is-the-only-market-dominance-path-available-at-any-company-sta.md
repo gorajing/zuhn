@@ -52,7 +52,6 @@ stance: >-
   it the default strategy for resource-constrained startups
 related:
   - INS-260323-3D7D
-  - INS-260327-6AA0
   - INS-260329-C754
   - INS-260329-D5FF
   - INS-260330-09E3
@@ -63,6 +62,12 @@ related:
 evidence:
   - id: INS-260323-3D7D
     type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-C754
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-C472
+    type: EXTENDS
     classified_at: '2026-04-02'
 ---
 Michael Treacy and Fred Wiersema's HBR framework identifies three paths to market dominance, each requiring a specific company organization: best price (logistics focus, like Walmart/Amazon), best product (R&D focus, like Apple), or best overall solution (customer intimacy). The first two require massive capital investment in logistics infrastructure or R&D capability.

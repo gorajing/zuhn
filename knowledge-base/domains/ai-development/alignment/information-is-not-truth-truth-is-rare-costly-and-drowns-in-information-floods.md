@@ -57,9 +57,7 @@ related:
   - INS-260330-CC51
   - INS-260330-70B9
   - INS-260327-4367
-  - INS-260322-A61A
   - INS-260330-E5F2
-  - INS-260330-2838
   - INS-260402-1F58
 evidence:
   - id: INS-260330-1E6A
@@ -88,6 +86,9 @@ evidence:
     classified_at: '2026-04-02'
   - id: INS-260330-2838
     type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260402-1F58
+    type: SUPPORTS
     classified_at: '2026-04-02'
 ---
 Harari dismantles the assumption that information equals truth. Billions of portraits of Jesus have been created over 2,000 years, and not one is authentic — we have zero information about his appearance. Creating fiction requires no research, no evidence. Creating truth requires enormous institutional investment (academic research, investigative journalism, peer review).

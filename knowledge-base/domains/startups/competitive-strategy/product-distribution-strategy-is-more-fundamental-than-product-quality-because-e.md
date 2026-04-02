@@ -56,10 +56,10 @@ related:
   - INS-260327-C673
   - INS-260327-BEB1
   - INS-260327-FA43
-  - INS-260327-6F79
   - INS-260329-2EF9
   - INS-260329-8DE7
   - INS-260329-ACFF
+  - INS-260330-A9F0
 ---
 Hoffman presents a counterintuitive strategic hierarchy: financing is more fundamental than distribution, which is more fundamental than product. The logic cascades downward — if you run out of money, even a great product dies; if you can't reach customers, even a great product with funding fails. Only when financing and distribution are secured does product quality become the decisive factor.
 

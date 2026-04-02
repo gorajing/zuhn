@@ -59,6 +59,10 @@ related:
   - INS-260326-6B98
   - INS-260322-AF17
   - INS-260402-7DCC
+evidence:
+  - id: INS-260330-06CD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Marc Andreessen describes a fundamental tension in venture investing: the default approach is to check boxes (good founder, good idea, good product, good customers) and invest when everything looks reasonable. But these checkbox deals rarely produce outlier returns. The companies that generate 97% of all venture returns — roughly 15 per year out of 4,000 — almost always have one dimension of extreme strength paired with serious, visible flaws.
 

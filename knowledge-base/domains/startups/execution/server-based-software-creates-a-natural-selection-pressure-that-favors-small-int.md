@@ -53,6 +53,5 @@ related:
   - PRI-260328-5CDE
   - INS-260402-E140
   - INS-260402-E2AF
-  - INS-260330-5E47
 ---
 Graham (via Trevor Blackwell) articulates a fundamental economic insight: server-based software combines the stress of programming with the stress of system administration, creating a workload so demanding that only people with equity-level motivation will sustain it. Large companies can hire skilled people for comfortable work, or unskilled people for grueling work, but cannot hire highly skilled people to 'bust their asses.' Since server software no longer requires significant capital (Viaweb launched for under $10,000), big companies lose their main advantage — resources — while facing a motivation disadvantage they cannot solve with money. This explains why SaaS has been disproportionately built by startups despite large companies having more engineers, more servers, and more customers to start with.

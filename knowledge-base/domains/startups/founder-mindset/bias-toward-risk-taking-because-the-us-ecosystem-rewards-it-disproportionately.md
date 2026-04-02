@@ -54,6 +54,10 @@ related:
   - INS-260327-0E28
   - INS-260329-BEFB
   - INS-260402-6BB6
+evidence:
+  - id: INS-260329-5414
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Misra dropped out of a machine learning PhD to join a startup. People thought he was crazy. Looking back, it was the right decision. His insight: especially in the US, you can take risks and actually get rewarded for them. People don't bias enough toward risk.
 

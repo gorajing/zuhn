@@ -54,6 +54,10 @@ related:
   - INS-260330-CFEA
   - INS-260329-7BAF
   - INS-260323-DEEA
+evidence:
+  - id: INS-260329-FEA6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Harris references Murray's own 'flare' metaphor from the aftermath of October 7th — the idea that crisis events light up a landscape and show exactly where everyone is positioned. Harris then extends this to Trump's memecoin issuance, the Signal group chat scandal, and the Bukele Oval Office meeting, arguing each was a flare that revealed the moral positions of those nearby.
 

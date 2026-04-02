@@ -56,6 +56,10 @@ related:
   - INS-260329-67CB
   - INS-260329-F556
   - INS-260329-1277
+evidence:
+  - id: INS-260329-B22B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 A natural key like Social Security Number seems like a perfect primary key — it's already unique in the real world. But natural keys carry business assumptions that may change: SSNs can be reassigned, email addresses change, product SKUs get reformatted. When a natural key changes, every foreign key reference across the entire database must also change.
 

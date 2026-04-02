@@ -51,6 +51,10 @@ related:
   - INS-260323-BA17
   - PRI-260328-3FEF
   - INS-260328-988F
+evidence:
+  - id: INS-260328-988F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Professor Hendrik Bessembinder's research at Arizona State University found that approximately 2% of stocks account for all net market returns over the past 75 years. Most stocks cancel each other out — some up a little, some down a little, some flat, and a few catastrophic losers.
 

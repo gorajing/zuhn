@@ -46,6 +46,13 @@ related:
   - INS-260330-2332
   - INS-260327-6900
   - INS-260327-E52A
+evidence:
+  - id: INS-260323-7E6F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-7F22
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Micro-mobility businesses discovered that the distances too short to walk are also too short to generate fares that cover vehicle costs, maintenance, redistribution, and profit.
 

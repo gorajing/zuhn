@@ -51,6 +51,19 @@ related:
   - INS-260330-B138
   - PRI-260327-7A68
   - INS-260329-6079
+evidence:
+  - id: INS-260322-3259
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-60CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B138
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-6079
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 High-frequency trading systems target tiny market inefficiencies — price differences between exchanges, temporary order book imbalances, slow price updates — and profit by being first to exploit them. Individual profits are often sub-cent, but at thousands to millions of trades per second, they compound into significant returns.
 

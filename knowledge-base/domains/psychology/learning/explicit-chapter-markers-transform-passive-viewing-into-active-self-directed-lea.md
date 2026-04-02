@@ -58,6 +58,9 @@ evidence:
   - id: INS-260329-3FF4
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-5AC5
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The tutorial includes 31 chapters across its 4.5-hour runtime — roughly one chapter every 8-9 minutes. This granularity transforms the viewing experience: instead of passively watching a monolithic video, learners can jump to specific topics, revisit tricky sections, and skip material they already know.
 

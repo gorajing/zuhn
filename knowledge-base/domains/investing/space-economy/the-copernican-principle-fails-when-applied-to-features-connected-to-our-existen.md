@@ -61,6 +61,34 @@ related:
   - INS-260330-716C
   - INS-260330-E660
   - INS-260330-D385
+evidence:
+  - id: INS-260402-0DC9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-DFA5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6165
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-833E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-D304
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-8F70
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-716C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E660
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-D385
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kipping draws a crucial distinction in applying the Copernican/Mediocrity Principle. For features unconnected to our survival — like the presence of Neptune-sized planets — it works well. We have two Neptunes; other solar systems should too. And indeed, exoplanet surveys confirm Neptunes are common.
 

@@ -66,5 +66,8 @@ evidence:
   - id: INS-260329-A171
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-01F2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The course illustrates how a plain binary search tree performs beautifully on random data (O(log n) for insert, delete, search) but degenerates to a linked list on sorted input (O(n)). This gap — not the average case — is what motivated decades of research into AVL trees, red-black trees, B-trees, and splay trees. The pattern generalizes far beyond computer science. In finance, portfolio theory exists because average returns don't prevent catastrophic drawdowns. In product development, 99th-percentile latency matters more than median latency because a single bad experience drives churn. In AI alignment, average model behavior being good doesn't prevent catastrophic edge cases. The meta-lesson is that understanding where the worst case lurks — and specifically engineering against it — is often more valuable than optimizing the common path.

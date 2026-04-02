@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 27 insights
+> 29 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260330-3528` [high] English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
@@ -18,6 +18,8 @@
 - `INS-260330-B22D` [high] Political visibility creates a separating equilibrium where any slight lean gets amplified into full tribal membership through social pressure.
 - `INS-260402-B065` [high] Groups without external goals create toxic zero-sum status hierarchies where the game becomes the only game.
 - `INS-260330-9A34` [high] Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
+- `INS-260402-4F0E` [high] People inside broken systems assume they're missing something rather than that the system is wrong.
+- `INS-260402-FFCB` [high] Bret Weinstein's taxonomy — witch-hunters, followers, silent majority, and resisters who become the witches — describes a recurring social pattern where opposition to a movement gets recast as the very evil being hunted.
 - `INS-260330-0FAF` [high] Which words are 'worst' shifts historically: religious oaths were most taboo when the church held power, bodily words when Victorian propriety reigned, and identity slurs now that social equality is the dominant moral framework.
 - `INS-260330-F759` [high] Being adjacent to a political coalition imports reputational costs from its worst members.
 - `INS-260330-9E1B` [high] Developers form identity-based tribes around tools (Vim, Arch Linux, etc.) that function as social status markers independent of productivity.

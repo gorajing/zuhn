@@ -56,5 +56,9 @@ related:
   - INS-260327-8BFF
   - INS-260330-98EA
   - INS-260330-E9D4
+evidence:
+  - id: INS-260323-A8B5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Arora's approach to joining Palo Alto with zero domain knowledge was shaped by his early career as a buyside analyst, where he learned to maintain a thesis while dealing with constant uncertainty internally without making it visible. At Palo Alto, he called the founder or chief product officer every morning and evening, spoke to the predecessor regularly, and saw 300+ cybersecurity startups in his first six months — all to build a mental framework. Rather than studying cybersecurity specifically, he studied enterprise company math: below a billion dollars, 60-80% of revenue goes to sales, marketing, and support. He immediately invested 500 basis points more into growth by cutting operating margin from 20%+ to 17%. The eye-rolling happened, but results followed. The lesson for boards: having risk-taking venture capitalists on nomination committees produces better CEO hires than traditional box-checkers.

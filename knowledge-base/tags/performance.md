@@ -14,9 +14,9 @@
 - `INS-260329-B922` Understanding pointer ownership, memory leaks from lost references, and explicit deallocation builds mental models for any resource lifecycle — connections, file handles, GPU memory, API rate limits.
 - `INS-260330-F5A1` Store the result of expensive computations and reuse them instead of recomputing from scratch.
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
+- `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
 - `INS-260325-9693` Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.
 - `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
-- `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
 - `INS-260330-4D8B` Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.

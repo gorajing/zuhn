@@ -7,7 +7,7 @@
 - `INS-260327-ECDA` When the world changes, change the plan—and be transparent about it with investors, board, and employees.
 - `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
-- `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
 - `INS-260328-0C4C` Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
+- `INS-260323-7C0E` Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
 - `INS-260329-4531` Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.

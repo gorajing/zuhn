@@ -56,6 +56,13 @@ related:
   - INS-260329-20F8
   - INS-260329-7BAF
   - INS-260330-5609
+evidence:
+  - id: INS-260329-20F8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5609
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The tutorial deliberately walks into the string concatenation trap: the calculator receives user input as strings, so '5' + '8.3' produces '58.3' instead of 13.3. This is not an accident — it's the most powerful teaching moment in the entire course because it demonstrates three critical principles simultaneously: (1) computers execute instructions literally, not intentionally, (2) data types determine behavior even when values look identical, and (3) debugging starts with questioning your assumptions about what the data actually is.
 

@@ -56,5 +56,15 @@ related:
   - INS-260327-EAB0
   - INS-260329-3AE5
   - INS-260330-6411
+evidence:
+  - id: INS-260329-3AE5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-B641
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6411
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hildebrand analyzes Apple's ecosystem strategy: iMessage (green bubble stigma creates social pressure), AirDrop (seamless only Apple-to-Apple), iCloud (photos, passwords, data all trapped), Apple Watch (only works with iPhone), AirPods (degraded experience on Android). Each product individually is competitive but not dominant. Together, they create a web of convenience dependencies where leaving one product degrades all others. The psychological layer goes deeper: Apple has positioned its ecosystem as a lifestyle identity, not a technology choice. Switching to Android feels like a downgrade in social status, not just a product change. This is why Apple can charge premium prices for hardware that is technically matched by competitors — the price includes membership in a social group.

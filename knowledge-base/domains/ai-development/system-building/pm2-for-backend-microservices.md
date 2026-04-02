@@ -48,6 +48,16 @@ resolutions:
 stance: >-
   PM2 enables real-time per-service log access that Claude can read without
   manual intervention
+evidence:
+  - id: INS-260327-1599
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-917B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-C0D3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Instead of running microservices manually in terminal tabs, use PM2 to

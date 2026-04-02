@@ -51,7 +51,6 @@ stance: >-
   paradigms — unlearning is harder than learning.
 related:
   - INS-260329-D481
-  - INS-260330-6B7F
   - INS-260320-DEAF
   - INS-260329-7C59
   - INS-260329-E208

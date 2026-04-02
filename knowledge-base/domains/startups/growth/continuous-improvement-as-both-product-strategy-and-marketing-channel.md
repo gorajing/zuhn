@@ -54,6 +54,7 @@ related:
   - PRI-260328-0BE1
   - PRI-260328-9F8C
   - INS-260327-FEB7
+  - INS-260402-300A
 ---
 Graham frames continuous feature shipping not just as good engineering practice but as a compounding loop: implementing ideas generates more ideas (like daily running making tomorrow's run easier), while pausing creates inertia that's hard to overcome. Users who see a site that hasn't changed in two months start to perceive it as dead.
 

@@ -54,6 +54,10 @@ related:
   - INS-260330-6AFA
   - INS-260329-9CBB
   - PRI-260328-99F0
+evidence:
+  - id: INS-260323-D8B9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In set theory, an inaccessible cardinal is so large that no amount of addition, multiplication, exponentiation, replacement, or power-setting of smaller numbers can reach it. The conceptual jump from nothing to the first infinity (aleph-null) is comparable to the jump from aleph-null to an inaccessible cardinal. The only way forward is to declare a new axiom asserting its existence.
 

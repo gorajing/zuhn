@@ -63,5 +63,14 @@ evidence:
   - id: INS-260327-BE4E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-4109
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-085A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CCD4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 TurboQuant achieves superior vector search recall ratios against PQ and RabbiQ — methods that use large codebooks and dataset-specific tuning — despite being 'data-oblivious' (requiring no dataset-specific optimization). This is backed by theoretical proofs showing the algorithm operates near mathematical lower bounds. The business implication: companies whose competitive advantage rests on proprietary data-specific optimization are vulnerable to universal algorithmic breakthroughs. A single paper can obsolete years of hand-tuning overnight. This reinforces the principle that durable AI moats come from data network effects and workflow ownership, not from optimization engineering that can be leapfrogged by better math.

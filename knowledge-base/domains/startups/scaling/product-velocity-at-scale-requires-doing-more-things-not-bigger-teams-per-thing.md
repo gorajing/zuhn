@@ -53,8 +53,8 @@ related:
   - INS-260330-4B16
   - PRI-260328-C918
   - PRI-260328-5CDE
-  - INS-260329-776B
-  - PRI-260328-5B61
+  - INS-260402-529F
+  - INS-260402-910C
 ---
 Altman describes OpenAI's approach: relatively small teams with huge amounts of responsibility working on many parallel initiatives. The failure mode he identifies is companies that 'get big and don't do more things -- they just get bigger because you're supposed to get bigger and they still ship the same amount of product.' This creates 40-person meetings and fights over tiny parts of the product.
 

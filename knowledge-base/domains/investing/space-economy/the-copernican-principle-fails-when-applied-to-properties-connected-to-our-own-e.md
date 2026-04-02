@@ -67,6 +67,21 @@ evidence:
   - id: INS-260325-890D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-9955
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-1670
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A4A5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-C4A2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-4279
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Copernican (or Mediocrity) principle — the idea that we are typical observers in a typical location — is a powerful tool in astronomy. It correctly predicts that Neptune-like planets are common elsewhere. But Kipping identifies a critical failure mode: you cannot apply it to features connected to your own existence.
 

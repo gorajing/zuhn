@@ -57,6 +57,13 @@ related:
   - INS-260329-0B9D
   - INS-260329-4A55
   - INS-260329-B2D8
+evidence:
+  - id: INS-260327-D1BB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-EBC3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi recounts a pivotal moment: a speaker wrote $1M on a whiteboard, asked an audience member who earned $50K if they wanted to make $1M, then pointed out it was costing them $950K/year to not know how. This reframe treats the knowledge gap as a recurring liability — every year you don't know how to reach your goal, you're paying the difference.
 

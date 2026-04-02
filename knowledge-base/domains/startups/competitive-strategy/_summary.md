@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 376 insights
+> 378 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -59,6 +59,7 @@
 - `INS-260327-A8DF` [high] Collectible product trends follow the same speculative bubble pattern as financial assets: early authentic collectors, f
 - `INS-260327-A763` [high] Markets where branding has inflated prices far beyond the underlying commodity value become vulnerable to value-focused 
 - `INS-260329-EF89` [high] Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
+- `INS-260402-300A` [high] Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260324-782C` [high] After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted to acquiring emerging brands because they'd lost the internal talent and muscle to invent new products.
 - `INS-260402-FFB2` [high] Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.
 - `INS-260327-7AB5` [high] Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
@@ -318,6 +319,7 @@
 - `INS-260327-07C9` [high] Platforms like Temu sell products below cost as a customer acquisition strategy subsidized by investor capital, creating
 - `INS-260327-82AA` [high] Temu's impossibly cheap products don't just compete with premium brands — they degrade the entire e-commerce ecosystem by setting price expectations that quality products can't meet.
 - `INS-260330-1D3B` [high] An IRS tax inspector with no knowledge of Bitcoin or Tor cracked the Silk Road case through simple date-filtered Google searches, while FBI and DEA specialists with years of work and advanced tools hadn't identified Ross.
+- `INS-260402-45FA` [high] Choosing unfamiliar but powerful technology creates advantages competitors can't even diagnose, let alone copy.
 - `INS-260324-162B` [high] Under Armour's shoes were genuinely better in comfort and performance than Nike — but they looked like clown shoes, and in consumer fashion, aesthetics always wins.
 - `INS-260324-A046` [high] UNIQLO identifies trending pieces too expensive for the mass market, replaces natural fibers with proprietary synthetics, and proactively tweaks design to exceed expectations through merit — not just price.
 - `INS-260402-E2AF` [high] The real competitive threat to a startup is not Google but the unknown startup in a garage working on the same problem with equal desperation.

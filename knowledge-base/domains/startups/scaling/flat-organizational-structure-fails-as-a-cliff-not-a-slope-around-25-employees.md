@@ -49,5 +49,9 @@ related:
   - INS-260327-9F46
   - INS-260329-4D24
   - INS-260330-488B
+evidence:
+  - id: INS-260323-1811
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Sam Altman observes that startups with flat structures (everyone reports to founder) work perfectly until approximately 20-25 employees, then fail catastrophically — not gradually. This is a phase transition, not a linear degradation. The fix is simple: every employee must know exactly one manager, every manager must know their direct reports. Founders delay this because flat structure 'feels cool' and worked yesterday. The key insight is that the optimal structure for a 20-person company is disastrous for a 30-person company, and the transition gives no warning. Altman explicitly advises against innovating on management structure — innovate on product and business model instead.

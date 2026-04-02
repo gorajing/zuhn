@@ -52,6 +52,7 @@ related:
   - INS-260323-D2CF
   - INS-260323-A1FE
   - INS-260402-1F58
+  - INS-260402-45FA
 stance: >-
   State-sponsored espionage concentrates on technologies where incumbents hold
   multi-decade monopolies, particularly jet engines and aerospace

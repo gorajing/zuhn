@@ -58,6 +58,12 @@ evidence:
   - id: INS-260323-4EE4
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260323-7B63
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-643C
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Alex Rampell draws a critical distinction between differentiation and defensibility in AI applications. A voice agent speaking 50 languages is differentiated, but that capability alone is not defensible. The real moat comes from owning the end-to-end workflow — intake to outcomes — and becoming the system of record that the customer's entire business runs on.
 

@@ -62,8 +62,8 @@ related:
   - INS-260402-27A1
   - INS-260330-5EB6
   - INS-260327-18D4
-  - INS-260330-B525
   - INS-260330-304C
+  - INS-260330-725F
 ---
 Reflecting on eight years of building PolyAI, Wen identifies a clear pattern: whenever a department wasn't performing well, the root cause was that the founders hadn't personally gotten deep into that function before delegating. The temptation for technical founders is to hire experienced leaders for non-technical functions (sales, operations, HR) and trust them to figure it out. But without the founder's contextual understanding of what good looks like in that function for their specific company, the hired leader operates in a vacuum.
 

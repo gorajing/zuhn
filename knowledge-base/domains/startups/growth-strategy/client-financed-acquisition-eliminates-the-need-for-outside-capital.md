@@ -55,6 +55,10 @@ related:
   - INS-260329-CB2C
   - INS-260329-8B33
   - INS-260329-21AF
+evidence:
+  - id: INS-260329-196A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Client-financed acquisition means designing your offer and payment terms so that every customer you acquire generates enough cash within 30 days to fund acquiring the next one. This creates a self-sustaining growth engine that eliminates the traditional capital constraint on scaling.
 

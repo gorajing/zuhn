@@ -2,6 +2,7 @@
 
 - `INS-260330-3C2F` Direct observation reveals that thinking is punctuated by gaps of pure awareness, challenging the assumption that cognition is a continuous stream.
 - `INS-260330-6E6A` A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
+- `INS-260402-A693` Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - `INS-260330-363D` Feeling like the thinker of your thoughts is simply the experience of thinking without noticing thought as it arises.
 - `INS-260330-DE69` The feeling of authoring your thoughts is actually the absence of noticing their spontaneous arising.
 - `INS-260330-AEE3` The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns.

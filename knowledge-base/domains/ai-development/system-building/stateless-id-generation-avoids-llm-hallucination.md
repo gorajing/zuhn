@@ -53,6 +53,19 @@ resolutions:
 stance: >-
   Timestamp-plus-hash IDs are superior to sequential IDs because they are
   completely stateless
+evidence:
+  - id: INS-260327-4434
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-BE1F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-CA1F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-956D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 An external reviewer identified that sequential IDs stored in a counter

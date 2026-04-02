@@ -63,6 +63,10 @@ related:
   - INS-260330-4E9B
   - INS-260323-9F38
   - INS-260330-B69C
+evidence:
+  - id: INS-260322-3833
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kipping catalogs a chain of conditions that each had to be 'just right' for Earth to produce a space-faring civilization: (1) gravity low enough that chemical rocket propulsion can achieve escape velocity, (2) abundant fossil fuels enabling an Industrial Revolution, (3) chemical energy density in those fuels sufficient for rocket propulsion, (4) a large nearby Moon providing both a reachable first destination and tidal pools that may have enabled abiogenesis, (5) that Moon's formation impact thinning the lithosphere enough for plate tectonics.
 

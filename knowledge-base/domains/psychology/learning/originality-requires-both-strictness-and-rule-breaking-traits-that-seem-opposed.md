@@ -60,6 +60,7 @@ related:
   - PRI-260323-A33E
   - PRI-260328-1D0B
   - INS-260402-0F45
+  - INS-260402-4E59
 ---
 Graham argues that popular culture wrongly frames strictness and rule-breaking as opposites. In trivial matters they are, but in questions that truly matter, only rule-breakers can be genuinely strict. Einstein discovered special relativity not by seeking novelty but by being stricter than his peers about the implications of Maxwell's equations — he refused to look away from where established models bashed against reality.
 

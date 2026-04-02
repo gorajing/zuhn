@@ -54,6 +54,16 @@ related:
   - INS-260327-2C5F
   - INS-260402-9676
   - INS-260330-81D3
+evidence:
+  - id: INS-260327-2C5F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260402-9676
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-81D3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Herbert Hoover championed industrial standardization in the early 20th century, arguing that standardized parts (even something as basic as interchangeable bolts) would dramatically increase the scale and reduce the cost of production. The same principle drove computing forward: standard calculation forms replaced individual methods, standard programming languages replaced bespoke code, and standard data formats enabled interoperability.
 

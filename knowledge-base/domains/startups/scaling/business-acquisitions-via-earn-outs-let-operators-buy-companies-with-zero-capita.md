@@ -55,5 +55,9 @@ related:
   - INS-260329-196A
   - INS-260327-9C00
   - INS-260330-6611
+evidence:
+  - id: INS-260329-196A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 An earn-out acquisition means you negotiate to buy a business where the purchase price is paid over time from the business's own cash flow. The seller agrees because they get a higher total price and you agree because you need zero upfront capital. This strategy is particularly powerful for operators who have skills the current owner lacks — turnaround expertise, marketing, sales, or operational efficiency. The key insight is that many small business owners are tired and want to exit but can't find buyers with cash. An operator who can credibly demonstrate they'll grow the business can structure a win-win where the seller gets paid more over time than they'd get in a lump sum. This is an underutilized path because most people assume buying a business requires having money.

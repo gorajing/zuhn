@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-500E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260320-D4BD
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Tim's team raised money, started engineering immediately, and built an app with 20 different games before getting meaningful user feedback. The code editor is seductive because every line of code feels like measurable progress. But this is a trap: building without validation means you're optimizing something nobody asked for.
 

@@ -44,6 +44,7 @@
 - `INS-260329-68C8` We repeat behaviors that are reinforcing (aligned with deeper purpose), not just those that are rewarding (pleasurable).
 - `INS-260330-2D6D` Nakamura explicitly credited being shunned by PhD colleagues as the source of his 'fighting spirit' that sustained years of grueling daily work.
 - `INS-260326-4164` 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.
+- `INS-260322-E22A` When a colleague's casual remark about her 'declining directing skills' triggered depression, she channeled the resulting anger into accepting two simultaneously impossible K-pop MV projects — and won best MV awards for both.
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
 - `INS-260329-28B0` At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
@@ -58,6 +59,7 @@
 - `INS-260327-E992` The best cheat code for surviving founder grind is choosing a problem that genuinely excites you and your team.
 - `INS-260330-F348` Musk doesn't seek sources of strength — quitting simply isn't in his option set, which removes the need for ongoing motivation.
 - `INS-260329-EC98` Build for people like you — authentic understanding of customer pain produces better products and more resilient motivation than external market research.
+- `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260323-543C` The breakthrough moment where all fears dissolve and clarity arrives will never come — if you don't choose to change, life will eventually force change when staying comfortable becomes unbearable.
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
 - `INS-260323-3A54` Atlas discovered that his anger and street violence came from emotional poverty despite material comfort -- being a doctor's son with a disjointed family taught him that deprivation of connection drives destructive behavior regardless of economic status.
@@ -65,5 +67,4 @@
 - `INS-260329-B4C8` Discretionary effort is voluntary and only flows toward leaders who use praise over punishment.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260327-0E57` SMB: easy to motivate (direct access to power), hard to enable (limited resources). Enterprise: hard to motivate (risk-averse, slow, process-heavy), easier to enable once committed.
-- `INS-260322-E22A` When a colleague's casual remark about her 'declining directing skills' triggered depression, she channeled the resulting anger into accepting two simultaneously impossible K-pop MV projects — and won best MV awards for both.
 - `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.

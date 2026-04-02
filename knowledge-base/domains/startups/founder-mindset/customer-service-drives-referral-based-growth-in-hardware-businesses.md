@@ -47,5 +47,9 @@ related:
   - INS-260329-563F
   - INS-260327-DD5C
   - INS-260327-969D
+evidence:
+  - id: INS-260327-969D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Susan identifies customer service as the defining quality that keeps ChargePodX customers and generates referrals. In hardware/infrastructure businesses where switching costs are high and trust matters enormously, the quality of ongoing support becomes the primary differentiator. Each satisfied fleet customer refers an average of 10 others in their network. This organic referral growth is more sustainable and capital-efficient than paid acquisition in B2B hardware markets.

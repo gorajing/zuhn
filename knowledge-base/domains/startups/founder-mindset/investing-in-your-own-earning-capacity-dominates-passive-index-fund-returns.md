@@ -56,6 +56,16 @@ related:
   - INS-260329-55DC
   - INS-260329-5414
   - INS-260329-A6EA
+evidence:
+  - id: INS-260329-A6EA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-55DC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5414
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi illustrates with a snowblower analogy: invest $10K in the S&P and earn $1K (10% return). Or spend $10K on a snowblower that takes you from 3 driveways/day to 20, multiplying income far beyond 10%. His recommendation: allocate 15% of pre-tax income to market investments AND another 15% to education and skill development.
 

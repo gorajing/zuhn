@@ -53,6 +53,10 @@ related:
 stance: >-
   Even in a fully deterministic universe, the inability to predict the future
   from within the system makes free will functionally real
+evidence:
+  - id: INS-260325-0A81
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Al-Khalili subscribes to compatibilism: the philosophical position that free will and determinism are not mutually exclusive. His argument is pragmatic — even in Einstein's block universe where all of time already exists, we are embedded within the system and can never predict the future in advance. Since we cannot access deterministic outcomes before they occur, our experience of making choices is functionally real.
 

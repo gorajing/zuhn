@@ -53,6 +53,6 @@ related:
   - INS-260330-7BF5
   - INS-260330-B09B
   - INS-260402-27A1
-  - INS-260327-4DDE
+  - INS-260402-2B96
 ---
 The spectacular startup failures get all the press, but statistically the dominant failure mode is the side project that never gets enough effort to reach escape velocity. Paul Graham observes that most founders of failed startups don't quit their day jobs, while most founders of successful ones do. This creates a selection effect where the population of 'could-have-succeeded' founders who never went full-time is likely an order of magnitude larger than those who actually make it. The implication is that commitment itself — not cleverness, not timing, not market selection — is the primary bottleneck. For aspiring founders, the decision to go full-time is less about financial risk calculation and more about honest self-assessment of whether you have the determination to endure startup stress without the external spur of having no fallback.

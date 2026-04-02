@@ -53,7 +53,7 @@ related:
   - INS-260402-3639
   - PRI-260328-7A4D
   - PRI-260328-04FA
-  - PRI-260323-27D6
+  - INS-260402-D0F3
 ---
 Graham identifies a structural paradox in evaluating novel ideas: for an idea to be both good and novel, it almost certainly has to seem bad to most people. If it seemed obviously good, someone would already be doing it. This means the base rate of 'this seems like a bad idea' feedback is extremely high for both actually-bad ideas and potentially-great ones, making rejection signal nearly useless for distinguishing the two.
 

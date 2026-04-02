@@ -51,5 +51,9 @@ related:
   - INS-260330-8BA6
   - INS-260330-4B29
   - INS-260330-E03A
+evidence:
+  - id: INS-260330-4B29
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Silica aerogel is naturally hydrophilic — it absorbs up to 25 times its weight in water due to OH groups lining its enormous internal surface area. But replacing just 30% of those OH groups with non-polar hydrophobic groups creates an aerogel that perfectly repels water and can sit on water for months unchanged. This is a striking example of how complex systems often have nonlinear response curves — you don't need to change everything to flip the macro behavior. The principle transfers broadly: in organizations, markets, and habits, a minority of critical nodes or behaviors can determine the system's overall character. The key is identifying which surface-level properties are load-bearing for the behavior you want to change.

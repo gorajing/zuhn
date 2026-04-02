@@ -58,6 +58,13 @@ related:
   - INS-260330-7D6D
   - INS-260330-007E
   - INS-260330-7ED0
+evidence:
+  - id: INS-260330-7D6D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-007E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Africa's mobile money revolution demonstrates a counterintuitive pattern: lacking infrastructure can be an advantage. With only 20% banking penetration in sub-Saharan Africa versus 92% in advanced economies, countries like Kenya and Zimbabwe had no incumbent systems to displace. M-PESA launched in Kenya in 2007 by piggybacking on existing mobile networks (80% phone penetration), and Zimbabwe's EcoCash reached 6.7 million users versus only 2 million bank accounts by 2017.
 

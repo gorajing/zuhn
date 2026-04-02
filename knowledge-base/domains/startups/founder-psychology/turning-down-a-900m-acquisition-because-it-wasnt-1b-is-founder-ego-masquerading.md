@@ -60,6 +60,13 @@ related:
 stance: >-
   Casper rejected Target's $900M acquisition offer because it wasn't a billion
   dollars; the company IPO'd at $500M, then continued dropping
+evidence:
+  - id: INS-260330-808B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-C8AC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Target offered to acquire Casper for $900M. The founders refused because the price wasn't at least $1B — the magical unicorn threshold. Unable to buy, Target settled for just being an investor. One year later, Casper IPO'd at a slashed $500M valuation (50% cut from its $1.1B pre-IPO valuation), then dropped another $100M, shut down European operations, lost its COO/CFO, and laid off 21% of its workforce.
 

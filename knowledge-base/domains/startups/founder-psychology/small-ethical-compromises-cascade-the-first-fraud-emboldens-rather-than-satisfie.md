@@ -60,6 +60,16 @@ related:
   - INS-260330-A14D
   - INS-260330-D6EF
 stance: Cox's first fraud (whiting out a late payment) didn't satisfy the urge
+evidence:
+  - id: INS-260322-2D2F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-D6EF
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FC9F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Cox describes the classic escalation pattern: his manager encouraged him to white-out a borrower's 30-day late payment, assuring him the worst that could happen was getting fired. When it worked, rather than feeling relieved and stopping, he felt emboldened. Within weeks he was altering W-2s, pay stubs, and appraisals. Within months he was creating synthetic identities.
 

@@ -55,9 +55,22 @@ related:
   - INS-260329-A2D0
   - INS-260330-264B
   - INS-260330-5E67
-  - INS-260330-18F3
   - INS-260330-B5D2
   - PRI-260323-81E9
+  - INS-260330-C31B
+evidence:
+  - id: INS-260325-696D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-4CBB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5E67
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-18F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham spent six months writing hand-crafted spam rules before trying Bayesian filtering, only to find the statistical approach immediately outperformed his manual work. The filter discovered that 'ff0000' (HTML bright red) was as strong a spam indicator as any pornographic term — a pattern no human engineer would think to encode.
 

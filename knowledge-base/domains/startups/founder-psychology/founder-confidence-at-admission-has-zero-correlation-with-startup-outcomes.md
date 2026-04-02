@@ -58,6 +58,10 @@ related:
   - INS-260330-725F
   - INS-260402-E140
   - INS-260402-66A5
+evidence:
+  - id: INS-260327-4434
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 After nine years evaluating YC batches, Graham found that founders who arrived confident they would ace the program were no more likely to succeed than those who felt like impostors. He compares this to military recruitment data showing swaggering recruits aren't tougher than quiet ones. The reason is that startup challenges are so different from the academic and professional tests founders previously aced that prior self-assessment is meaningless.
 

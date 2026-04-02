@@ -58,6 +58,12 @@ evidence:
   - id: INS-260323-59C9
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-86CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-2A70
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Zitron identifies Coreweave as the key indicator precisely because it's the strongest borrower: backed by Nvidia (who bought $2B in shares), Blackstone, JP Morgan, Goldman Sachs, and others. If Coreweave has trouble raising debt, it signals that Nebius, Nscale, Iron, and every smaller data center company will face the same wall.
 

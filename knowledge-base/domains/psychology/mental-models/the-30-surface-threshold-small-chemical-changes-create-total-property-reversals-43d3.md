@@ -60,6 +60,10 @@ related:
   - INS-260330-16F0
   - INS-260330-4B29
   - INS-260330-8BA6
+evidence:
+  - id: INS-260330-4B29
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Aerogel is naturally hydrophilic — it absorbs water readily. But when roughly 30% of its surface hydroxyl groups are replaced with hydrophobic methyl groups, the entire material becomes superhydrophobic, repelling water completely. This is not a gradual transition; it's a phase flip triggered by a minority change.
 

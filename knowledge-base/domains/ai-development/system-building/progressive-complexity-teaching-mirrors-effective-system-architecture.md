@@ -55,6 +55,28 @@ related:
   - INS-260329-7A39
   - INS-260330-1B16
   - INS-260330-E6BB
+evidence:
+  - id: INS-260329-F20E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-27A3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-E914
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-32DB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-7A39
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B16
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This 4.5-hour tutorial succeeds because it follows a strict progressive complexity curve: first print 'hello world' (one instruction), then draw shapes (multiple instructions, order matters), then variables (data management), then control flow, then methods, then classes. Each step builds on the last and introduces exactly one new concept.
 

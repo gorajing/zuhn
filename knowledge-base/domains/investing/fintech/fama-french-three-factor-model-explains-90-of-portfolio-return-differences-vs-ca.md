@@ -56,6 +56,16 @@ related:
 stance: >-
   The 1993 Fama-French paper proved that adding size (SMB) and value (HML)
   factors to market beta jumps explanatory power from ~60% to ~90% of return...
+evidence:
+  - id: INS-260330-2413
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-548B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Before 1993, CAPM's single market beta explained about 60-80% of return differences between diversified portfolios. Fama and French's three-factor model (market + size + value) achieved R-squared values of 0.83-0.97 across 25 test portfolios, averaging ~0.93. Key findings: (1) All test portfolios had market betas near 1, proving that return variation must come from factors beyond market risk alone, (2) Near-zero alphas on almost all portfolios — meaning the model captured nearly everything, (3) Small-cap growth stocks were the one exception with unexplained low returns.
 

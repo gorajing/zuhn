@@ -57,6 +57,13 @@ related:
 stance: >-
   Robinhood succeeded by combining three bets that were each individually
   contrarian (zero commissions, mobile-first, populist brand) into a single o...
+evidence:
+  - id: INS-260330-7ED0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-06CD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Robinhood's founding combined three separately contrarian bets: (1) zero commissions when everyone charged $7-10 per trade, (2) mobile-first when people thought phones were only for games and putting your credit card on a computer seemed insane, and (3) a populist brand built on post-2008 financial disillusionment and the Occupy movement. Each bet was individually defensible, but together they created a compound advantage that incumbents needed 3-4 years to partially replicate.
 

@@ -49,6 +49,16 @@ resolutions:
 stance: >-
   PM2 provides the essential process management features for running backend
   microservices
+evidence:
+  - id: INS-260322-71E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-917B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F0DE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 PM2 is a production process manager for Node.js that provides several

@@ -52,6 +52,10 @@ related:
   - INS-260330-14CA
   - INS-260329-919F
   - INS-260327-6D77
+evidence:
+  - id: INS-260330-14CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video highlights that chmod 777 (granting read, write, and execute to all users) might seem convenient but violates the principle of least privilege: grant access only when necessary and trust no one. This principle extends far beyond Linux file permissions into every system design decision.
 

@@ -53,6 +53,13 @@ related:
   - INS-260330-F399
   - INS-260327-EDE4
   - INS-260330-D88C
+evidence:
+  - id: INS-260323-5955
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-23E0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The overview effect is one of psychology's most consistent findings: astronauts from every country, culture, and background report the same cognitive shift upon seeing Earth from space. National borders become invisible. Conflicts appear absurd. The fragility and unity of Earth becomes viscerally obvious.
 

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-40DA
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-EC22
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In head-to-head testing, Intel's i9 narrowly beat the M1 on the Fannkuch Redux CPU benchmark, but the M1 consistently matched or beat the i9 on real NativeScript/Nx workspace builds that developers actually run daily. The benchmark measured raw single-threaded CPU throughput in isolation, while real builds involve memory access patterns, I/O, thermal throttling, and component coordination.
 

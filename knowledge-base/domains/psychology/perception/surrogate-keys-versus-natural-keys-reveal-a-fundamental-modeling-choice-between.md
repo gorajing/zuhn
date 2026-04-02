@@ -56,6 +56,13 @@ related:
   - INS-260329-2FB8
   - PRI-260323-0F93
   - INS-260329-41BC
+evidence:
+  - id: INS-260329-D297
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-36DA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The tutorial explains that surrogate keys (employee_id = 100) have no real-world meaning while natural keys (SSN) do. Surrogate keys are more stable — they never change when real-world attributes change. Natural keys carry meaning but are fragile — if someone's SSN is corrected, every reference breaks.
 

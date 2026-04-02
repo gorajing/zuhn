@@ -59,6 +59,9 @@ evidence:
   - id: INS-260323-539C
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260329-3C75
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Searle's Chinese Room poses a direct challenge to strong AI: if a person can follow rules to produce perfect Chinese output without understanding Chinese, then a computer following rules to produce intelligent output may not understand anything either. The experiment separates behavior (outputs) from understanding (inner experience).
 

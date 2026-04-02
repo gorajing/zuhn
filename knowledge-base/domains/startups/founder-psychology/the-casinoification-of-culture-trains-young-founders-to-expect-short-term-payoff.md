@@ -56,6 +56,19 @@ related:
   - INS-260327-33E0
   - INS-260324-468C
   - INS-260329-9F81
+evidence:
+  - id: INS-260327-33E0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-4B09
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4348
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-9DBB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dalton identifies a cultural shift he calls the 'casinoification of modern capitalism.' Young people today are implicitly trained to believe wealth comes from sports gambling, crypto speculation, and zero-dated options. Many know more people who made real money from short-term bets than from long-term building.
 

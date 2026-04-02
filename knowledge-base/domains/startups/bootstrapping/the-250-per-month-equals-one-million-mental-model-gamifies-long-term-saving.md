@@ -49,5 +49,15 @@ related:
   - INS-260329-C4A4
   - INS-260330-44C7
   - INS-260327-DFF1
+evidence:
+  - id: INS-260329-C4A4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0AB0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-44C7
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi presents a powerful gamification framework: $250/month invested at 9% over 40 years compounds to approximately $1M. This means saving $1,000/month = $4M, $2,000/month = $8M. The genius is in the unit conversion — instead of tracking abstract dollar amounts in savings accounts, you're counting discrete 'million-dollar units.' Each $250/month increment becomes a scoreboard entry. This applies the same psychology that makes video games addictive (clear progress metrics, countable achievements) to the notoriously boring domain of long-term investing. The framework also enables instant cost-benefit analysis for any discretionary purchase: a $500/month car payment isn't just $500 — it's 2 million-dollar units you're choosing not to accumulate. This mental model has broad applicability for any long-horizon decision where compound effects are hard to intuit.

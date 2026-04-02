@@ -59,6 +59,13 @@ related:
   - INS-260330-73A2
   - INS-260329-72A5
   - INS-260330-FA4C
+evidence:
+  - id: INS-260329-C409
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-7F22
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi demonstrates the math: if a product costs $500 to deliver and sells for $1,000 (50% margin), doubling to $2,000 triples profit per sale from $500 to $1,500. Even with a 35% conversion drop, total profit doubles — and you serve fewer customers with lower operational costs. He routinely tests 4-5x price differences, not timid 10-20% increases, because pricing for non-commodity products is far more inelastic than founders assume.
 

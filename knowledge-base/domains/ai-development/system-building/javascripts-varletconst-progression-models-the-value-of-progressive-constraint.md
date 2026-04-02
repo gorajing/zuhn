@@ -55,6 +55,10 @@ related:
   - INS-260329-7914
   - INS-260402-9676
   - INS-260330-43E3
+evidence:
+  - id: INS-260402-9676
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 JavaScript originally had only `var`, which hoists variables to function scope — leading to subtle bugs from unintended variable sharing across blocks. The introduction of `let` (block-scoped) and `const` (block-scoped + immutable binding) in ES6 didn't add new capabilities; it added constraints that made incorrect code impossible to write.
 

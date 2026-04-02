@@ -56,5 +56,20 @@ evidence:
   - id: INS-260330-D483
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-C06E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-05BB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-C375
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-C7B8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4B07
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 HFT systems run parallel monitoring stacks that capture tick-to-trade latency, throughput, error rates, and queue depths for every component in real time. Alerts fire if any component slows down or behaves abnormally. This isn't just for compliance or debugging — it's a competitive necessity. A few microseconds of undetected latency degradation means systematically losing to faster competitors on every trade. The broader lesson: in any system where performance directly correlates with business outcomes (ad bidding, recommendation engines, real-time pricing), monitoring should be treated as a first-class product feature, not an afterthought. The monitoring system's own latency budget matters too.

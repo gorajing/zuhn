@@ -66,6 +66,31 @@ related:
   - INS-260327-94F5
   - INS-260330-2B42
   - INS-260327-BE1F
+evidence:
+  - id: INS-260320-8FFC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-229C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7DBC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-5EB6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B194
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-94F5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2B42
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-BE1F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Modern MBA traces a consistent pattern across tech hype cycles. A handful of genuine winners (Facebook, Google, Netflix, Amazon) achieve extraordinary results with a technology (data/algorithms). Their earnings snowball in ways the public markets have never seen. This creates irresistible social proof: if data was the moat for these leaders, why couldn't a nimbler startup apply the same playbook to a smaller industry?
 

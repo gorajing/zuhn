@@ -45,6 +45,10 @@ related:
   - INS-260327-B6D6
   - INS-260327-CBBB
   - PRI-260328-935B
+evidence:
+  - id: INS-260325-FF45
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Artificial urgency events like Cyber Monday show declining engagement as consumers learn that the same discounts are available year-round and the event is manufactured.
 

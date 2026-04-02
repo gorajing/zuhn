@@ -72,6 +72,9 @@ evidence:
   - id: INS-260330-BBDA
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260402-ECB6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harari argues that self-correcting mechanisms are the fundamental feature of functional systems at every scale, from a child learning to walk to an entire country. Elections are self-correcting mechanisms for governance. Constitutional amendments are self-correcting mechanisms for law. Peer review is the self-correcting mechanism for science. In contrast, dictatorships and religious texts lack mechanisms to identify and correct their own mistakes.
 

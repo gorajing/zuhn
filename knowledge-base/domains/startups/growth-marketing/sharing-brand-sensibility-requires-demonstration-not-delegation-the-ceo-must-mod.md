@@ -59,6 +59,10 @@ related:
   - INS-260329-96EC
   - INS-260330-DF02
 stance: 'When scaling, CEOs cannot just delegate customer-facing work'
+evidence:
+  - id: INS-260329-3EB6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 As brands grow, CEOs face the dilemma of sharing the brand sensibility they created. Simply telling employees 'handle customers this way' doesn't transfer the actual sense and philosophy. A famous fashion brand CEO solved this by personally handling customer service alongside new hires rather than just delegating. Employees witnessed firsthand how the CEO interacted with customers, and through shared experience, the brand's customer service became consistently praised.
 

@@ -60,6 +60,10 @@ related:
   - INS-260330-C7E6
   - INS-260327-40D5
   - INS-260323-BD2B
+evidence:
+  - id: INS-260327-40D5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rosolie describes Jungle Keepers' strategy of converting loggers and gold miners — people actively destroying the Amazon — into conservation rangers and ecotourism operators. The approach is purely economic: loggers making $15/day destroying ancient trees were offered $35/day plus health insurance and job security to protect those same trees. A gold miner whose equipment was destroyed by the Peruvian Navy was shown photos of ecotourism and built his own lodge within a year.
 

@@ -52,6 +52,10 @@ related:
   - PRI-260328-0E23
   - INS-260323-E74E
 stance: The Lunar Gateway is not just a moon station
+evidence:
+  - id: INS-260330-03F7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 NASA's Artemis program reveals that the Moon is not the final destination but a logistics node. The Lunar Gateway, a space station orbiting the Moon, will serve as the departure point for Mars missions because spacecraft can launch from lunar orbit with dramatically less fuel than from Earth's surface. This reframes the entire economics of space exploration: investment in lunar infrastructure is really investment in interplanetary capability.
 

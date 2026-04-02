@@ -11,7 +11,6 @@
 - `INS-260330-F183` The discovery that math is fundamentally incomplete led directly to the invention of computers, showing that limits catalyze breakthroughs.
 - `INS-260330-B7C6` Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
 - `INS-260330-8E8A` New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
-- `INS-260330-E89A` Gravity yielded the Industrial Revolution, electromagnetism produced the Electric Age, and nuclear forces created the Atomic Age — each fundamental force discovery reliably cascades into civilization-scale transformation.
 - `INS-260325-11E4` Finding children's and women's shoes at Roman army bases overturned the assumption that military posts were male-only — tiny artifacts reshaped understanding of an entire institution.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0556` Black holes were resisted for decades because they seemed 'too preposterous to be real,' with senior scientists publicly attacking younger ones for following the math.
@@ -19,6 +18,7 @@
 - `INS-260323-AEA7` Michelson and Morley built the most precise instrument of their era, found no evidence of the ether, and believed their own experiment had failed -- because the null result contradicted consensus so deeply.
 - `INS-260325-02F2` The Copernican revolution took centuries to be fully absorbed; discovering alien life will likely follow the same slow integration pattern.
 - `INS-260323-7F5D` Torricelli didn't just create a vacuum -- he reframed the entire question by showing that atmospheric pressure, not nature's horror of emptiness, explained all the phenomena.
+- `INS-260330-E89A` Gravity yielded the Industrial Revolution, electromagnetism produced the Electric Age, and nuclear forces created the Atomic Age — each fundamental force discovery reliably cascades into civilization-scale transformation.
 - `INS-260402-F4E5` Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.

@@ -53,6 +53,10 @@ related:
   - INS-260327-CFE5
   - INS-260329-793D
   - PRI-260328-8317
+evidence:
+  - id: INS-260327-CFE5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Brodeur-Urbas runs an automation platform processing 4M workflows daily and directly calls out the Twitter narrative of effortless AI automation. Most people claiming 'I work one hour a week and make $10M' are lying—they're selling hope, not truth. The actual path to building with AI is not shortcutting the hard work.
 

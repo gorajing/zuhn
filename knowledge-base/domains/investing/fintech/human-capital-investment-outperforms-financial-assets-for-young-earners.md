@@ -56,6 +56,31 @@ related:
   - INS-260330-B5D6
   - INS-260330-EBFD
   - INS-260402-72EF
+evidence:
+  - id: INS-260329-FC6D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-9F81
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-1D8D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-7AAB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-E76F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B5D6
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-EBFD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260402-72EF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi argues that a $500, two-day certification can triple someone's hourly rate from minimum wage to $25/hour — a permanent 3x multiplier on lifetime earnings. Meanwhile, $500 in an index fund at 10% annual returns takes roughly 11 years to double. The asymmetry is stark: skill investments can 2-10x earning capacity within months, while financial assets compound slowly.
 

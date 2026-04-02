@@ -55,6 +55,16 @@ related:
 stance: >-
   Energy is the current AI infrastructure bottleneck (driving renewed interest
   in nuclear), but once solved, cooling becomes the next constraint
+evidence:
+  - id: INS-260327-DECA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-5CB1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-257D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 AI infrastructure bottlenecks cascade in sequence: first compute (chip production capacity), then energy, then cooling. Chip production will scale to meet demand as it typically does, but energy is the binding constraint for the next ~5 years. Nuclear power is the most promising solution — Three Mile Island may be restarted, big tech is building data centers near nuclear plants, and natural gas in places like West Texas can power training clusters.
 

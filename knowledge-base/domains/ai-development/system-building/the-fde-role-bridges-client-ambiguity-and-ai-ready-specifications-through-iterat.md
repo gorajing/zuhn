@@ -59,6 +59,19 @@ related:
   - PRI-260328-EE04
   - INS-260329-7673
   - INS-260330-B711
+evidence:
+  - id: INS-260322-DAFB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-FE9E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2306
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B711
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 DIO's workflow demonstrates a critical enterprise pattern: clients say 'I need an ordering app' but through iterative meetings, the FDE discovers they actually need four apps (customer, driver, restaurant, admin). The meeting cadence (twice daily, morning and afternoon) with structured documentation outputs ensures nothing is lost.
 

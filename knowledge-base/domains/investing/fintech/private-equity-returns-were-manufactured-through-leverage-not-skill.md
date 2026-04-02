@@ -50,6 +50,10 @@ related:
   - INS-260329-60CF
   - PRI-260323-977A
   - INS-260329-196A
+evidence:
+  - id: INS-260329-60CF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Private equity pitched simple: superior analysts finding undervalued private companies. Reality was simpler: extreme leverage amplified returns and private market accounting smoothed volatility. A 10% return on a company bought with 70% debt becomes a 33% return on invested equity.
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-02 | 2934 actionable insights
+Generated on 2026-04-02 | 2955 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -906,6 +906,9 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260402-FE91] If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
 - [INS-260402-3737] Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - [INS-260402-3639] Obscure writing about big ideas creates a self-reinforcing trap: it attracts ambitious novices, repels critical thinkers, and has a built-in defense because you can't prove text is meaningless.
+- [INS-260402-89DE] Writing works as a discovery mechanism because committing to specific words forces vague ideas into falsifiable form, enabling iterative refinement.
+- [INS-260402-F853] Writing forces idea formation that pure thinking cannot achieve alone.
+- [INS-260402-A693] Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1039,12 +1042,15 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260402-2DCE] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.
 - [INS-260402-40D7] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - [INS-260402-B66A] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
+- [INS-260402-9D7B] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
 - [INS-260330-F6B1] Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - [INS-260402-46AD] The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
 - [INS-260402-30DC] Nasty little problems don't just waste time — they actively make you stupider because they lack the learnable patterns that build expertise.
+- [INS-260402-4E59] Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
+- [INS-260402-607A] Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1872,6 +1878,7 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260402-8595] Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - [INS-260402-FFB2] Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.
 - [INS-260402-F4E5] Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
+- [INS-260402-45FA] Choosing unfamiliar but powerful technology creates advantages competitors can't even diagnose, let alone copy.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2056,6 +2063,10 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260402-91B5] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - [INS-260402-92AE] Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - [INS-260402-841D] Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
+- [INS-260402-E148] Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
+- [INS-260402-529F] Starting small and growing incrementally lets you build things too ambitious to have planned upfront.
+- [INS-260402-C13F] Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
+- [INS-260402-7182] When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2331,6 +2342,8 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260330-A949] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - [INS-260402-7FF5] Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - [INS-260402-2632] Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
+- [INS-260402-910C] Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
+- [INS-260402-D9AC] Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -2526,6 +2539,7 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260402-D739] The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
 - [INS-260402-2CAF] Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - [INS-260402-EE6E] The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
+- [INS-260402-1414] Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2634,6 +2648,7 @@ Generated on 2026-04-02 | 2934 actionable insights
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
+- [INS-260402-15A7] Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -2731,6 +2746,8 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260402-426C] Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
 - [INS-260402-E85D] The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously.
 - [INS-260402-0F36] The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
+- [INS-260402-7B69] In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
+- [INS-260402-4633] The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -2748,6 +2765,8 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
 - [INS-260330-8FD6] Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
 - [INS-260330-DBE6] The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
+- [INS-260402-2FDF] Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
+- [INS-260402-F479] Gall's Law states that all complex working systems evolved from simple working systems — designing complexity from scratch always fails.
 
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
@@ -3019,6 +3038,7 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260330-7ECB] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
 - [INS-260330-86CD] A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
 - [INS-260402-CCF4] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
+- [INS-260402-2B96] Since most startups fail, doing what most startups do is a strategy for failure — survival requires deliberate deviation from the norm.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3095,6 +3115,7 @@ Generated on 2026-04-02 | 2934 actionable insights
 - [INS-260330-5A0A] Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
 - [INS-260330-E8C6] Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
 - [INS-260330-CFBA] Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
+- [INS-260402-F62B] Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

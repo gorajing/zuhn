@@ -51,6 +51,9 @@ evidence:
   - id: INS-260325-040F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-B641
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion that are more durable than any technological moat.
 

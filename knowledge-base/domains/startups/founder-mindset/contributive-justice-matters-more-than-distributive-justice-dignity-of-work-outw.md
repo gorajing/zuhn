@@ -59,6 +59,10 @@ related:
 stance: >-
   Even if we perfectly redistributed wealth, the deeper crisis is that society
   accords prestige to those who manage symbols and money rather than tho...
+evidence:
+  - id: INS-260330-B906
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Sandel distinguishes distributive justice (fair allocation of income/wealth) from contributive justice (recognition and esteem for contributions to common good). We could achieve perfect redistribution through taxation and still have a corrosive problem: a hierarchy of prestige where tech entrepreneurs and hedge fund managers sit at the top while care workers, teachers, and delivery workers are overlooked.
 

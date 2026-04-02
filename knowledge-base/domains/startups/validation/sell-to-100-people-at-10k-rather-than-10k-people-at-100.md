@@ -51,5 +51,9 @@ related:
   - INS-260330-C391
   - INS-260329-7B15
   - INS-260327-0E57
+evidence:
+  - id: INS-260329-7B15
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi argues that finding 100 people willing to pay $10,000 (or $200/month over 4 years) is dramatically easier than finding 10,000 people willing to pay $100. This mirrors Tesla's strategy of starting with the expensive Roadster before moving down-market. The math becomes tangible: 100 customers means just 2 new customers per week, which is achievable through warm outreach alone. This counterintuitive insight — that selling expensive is easier than selling cheap — stems from the fact that high-ticket businesses are supply-constrained (you control quality) while low-ticket businesses are demand-constrained (you need massive reach). For bootstrapped founders with no capital, starting premium and working down-market is the lowest-risk path because it requires fewer customers, generates more profit per unit, and positions you at the top of the market from day one.

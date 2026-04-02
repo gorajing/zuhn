@@ -51,6 +51,10 @@ related:
   - INS-260402-3D61
   - INS-260325-9AD4
   - INS-260323-CEA8
+evidence:
+  - id: INS-260325-9AD4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When Rakhmetzhanov had his mini office hour with Paul Graham, PG was leaving. Instead of accepting the end of the interaction, Arlan ran to his car yelling for 3-5 more minutes. PG was annoyed and said 'just email me.' Arlan emailed instantly with the subject line 'the kid who stopped you in the end.' The result: PG invested.
 

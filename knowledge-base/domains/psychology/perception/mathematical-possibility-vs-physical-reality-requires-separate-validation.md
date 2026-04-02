@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-B5D2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-2FC3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Traversable wormholes are mathematically valid solutions to Einstein's field equations, but they require exotic matter with negative energy density that likely doesn't exist. As one physicist put it: 'Einstein's theory is not just geometries, it's geometries plus field equations.' A solution that satisfies the geometry but violates the matter constraints isn't physically meaningful.
 

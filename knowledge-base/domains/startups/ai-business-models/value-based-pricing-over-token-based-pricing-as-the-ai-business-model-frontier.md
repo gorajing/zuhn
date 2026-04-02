@@ -67,6 +67,9 @@ evidence:
   - id: INS-260325-206C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-A22D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Eugene from ZDOT AI introduced an idea the panel found compelling: rather than charging per token, AI companies should develop pricing models where customers pay for value delivered. This concept was reinforced by Linda from Minimax who framed the long-term value capture question as 'where the GDP is' — whoever captures the economic output of agents captures the most value.
 

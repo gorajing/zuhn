@@ -59,6 +59,10 @@ related:
   - INS-260329-ADC4
   - INS-260328-FE38
   - INS-260329-F04B
+evidence:
+  - id: INS-260323-7E6F
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Hormozi presents timing as a visual model: plot opportunity windows on a timeline. People who try to time their effort to coincide with those windows almost always miss them. But someone who works continuously across the entire timeline hits every window by default. The conclusion: you can time everything perfectly if your intention is to never stop.
 

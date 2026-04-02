@@ -51,6 +51,16 @@ related:
   - INS-260329-60CF
   - INS-260330-4746
   - INS-260327-D1BB
+evidence:
+  - id: INS-260402-8C0E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-60CF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4746
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Historically, earning in the top 1% virtually guaranteed wealth accumulation: even with poor financial decisions, the sheer surplus income would build wealth over time. This is no longer true because the cost of maintaining a top-1% lifestyle has outpaced income growth in that bracket.
 

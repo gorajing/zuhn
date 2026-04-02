@@ -56,6 +56,10 @@ related:
   - INS-260330-3EDA
   - INS-260330-1B74
 stance: 'In deep sleep, experience ceases'
+evidence:
+  - id: INS-260320-8FFC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Deep sleep (delta wave state, below 4 cycles per second) represents the most ordinary yet mysterious state of consciousness. The world dissolves, the self vanishes, dreams do not exist. Yet a paradox remains: you wake up knowing you slept, which means some form of knowing persisted through the void.
 

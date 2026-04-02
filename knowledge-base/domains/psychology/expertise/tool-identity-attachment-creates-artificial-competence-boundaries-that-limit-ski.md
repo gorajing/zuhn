@@ -51,10 +51,10 @@ stance: >-
   alternatives, reducing their effective competence over time.
 related:
   - INS-260330-9E1B
+  - INS-260402-AC3D
   - INS-260323-64A4
   - PRI-260328-BF1E
   - INS-260327-A4FE
-  - INS-260329-438D
 ---
 The video's satire of Vim users, Arch Linux devotees, and language purists points to a deeper cognitive pattern: when a tool becomes part of your identity ('I'm a Vim developer'), evaluating alternatives becomes an ego threat rather than a technical assessment. This is the endowment effect applied to technical choices — you overvalue what you already use because abandoning it feels like losing part of yourself.
 

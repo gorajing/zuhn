@@ -56,6 +56,19 @@ related:
 stance: >-
   Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does
   the hook describe a result, not a feature?') to make optimization ma...
+evidence:
+  - id: INS-260329-2EB1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0700
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-92E9
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-D534
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The most common failure point in autoresearch loops is the eval. People make criteria like 'Is this engaging?' or 'Does it sound good?' — that's just vibes, and machines can't reliably optimize against vibes. The fix is binary yes/no questions with zero gray area.
 

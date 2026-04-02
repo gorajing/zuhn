@@ -59,6 +59,16 @@ related:
   - INS-260330-716C
   - INS-260330-F6B5
   - INS-260330-0027
+evidence:
+  - id: INS-260323-76FE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-716C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0027
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Over Tarter's career, two discoveries have transformed astrobiology. First, the discovery of exoplanets revealed that planets are ubiquitous — there are more planets than stars in the Milky Way Galaxy, whereas when SETI started, we only knew of nine planets (now eight) in our solar system. Second, extremophile biology discovered organisms thriving in environments that were taught as absolutely sterile — extreme temperatures, pressures, and chemical conditions.
 

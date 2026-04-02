@@ -53,9 +53,13 @@ stance: >-
 related:
   - INS-260325-82E8
   - INS-260326-DBEF
+  - INS-260402-AC3D
   - PRI-260323-DA09
   - INS-260330-237E
-  - INS-260330-FDC2
+evidence:
+  - id: INS-260325-82E8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The instinct to rank societies on a linear scale from primitive to advanced is a cognitive trap that appears everywhere — in how we evaluate competing technologies, business models, or even personal lifestyles. When we see a system lacking features we consider essential (writing, metal tools, formal hierarchies), we instinctively classify it as less evolved rather than differently optimized.
 

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-2B76
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-8E0D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When Huygens observed his two pendulum clocks spontaneously synchronizing in 1665, he systematically eliminated possible causes: it wasn't air currents (blocking with a board didn't help), and separation destroyed the effect. The coupling medium — the shared wooden beam — was the critical variable. The clocks' individual properties (slightly different frequencies) were secondary to the channel connecting them.
 

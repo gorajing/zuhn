@@ -58,6 +58,22 @@ related:
   - INS-260323-9770
   - INS-260330-7FFE
   - INS-260330-A14D
+evidence:
+  - id: INS-260330-636E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-95FE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-9770
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-7FFE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-A14D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Coffeezilla provides a concrete natural experiment in deterrence theory: when the DOJ released its first-ever NFT fraud indictment, several dead NFT projects immediately came 'back to life' because their founders realized law enforcement was now in the space. This reveals that many fraudsters are not ideological — they run an explicit cost-benefit calculation where prosecution probability is a key variable.
 

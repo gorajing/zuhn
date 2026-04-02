@@ -52,5 +52,9 @@ related:
   - INS-260330-63B8
   - INS-260330-3C2F
   - INS-260320-5F14
+evidence:
+  - id: INS-260320-5F14
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Graham reframes innocence not as a lack of knowledge but as a form of intellectual open-mindedness that enables continued learning. The jaded 10-year-old is disturbing not because he knows too much, but because he's foreclosed his growth by prematurely concluding he understands the world. Graham observes that 'very smart adults often seem unusually innocent' and suspects this is deliberate — they've strategically avoided certain kinds of knowledge that would calcify their thinking. This reveals a counterintuitive principle: some knowledge actively blocks other knowledge. If you learn early that the world is brutal and exploitative, you may stop bothering to learn anything else. The sequencing of knowledge acquisition matters enormously — learning that the world is harsh should come last, after you've built the intellectual foundation to do something about it.

@@ -55,6 +55,19 @@ related:
   - PRI-260328-6136
   - INS-260327-A478
   - INS-260330-6CB7
+evidence:
+  - id: INS-260330-18F3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-0595
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-A478
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6CB7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Collatz hailstone numbers follow Benford's law: 30% of numbers start with 1, about 17.5% start with 2, and the frequency decreases logarithmically through 9. This same distribution appears in company valuations, country populations, physical constants, and Fibonacci numbers. The pattern emerges whenever data spans several orders of magnitude.
 

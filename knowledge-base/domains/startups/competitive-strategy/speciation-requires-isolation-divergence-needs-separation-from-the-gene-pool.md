@@ -56,6 +56,10 @@ related:
   - INS-260322-F6C3
   - INS-260330-F056
   - INS-260330-4224
+evidence:
+  - id: INS-260325-4E20
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Carroll explains that speciation — the creation of genuinely new species — requires geographic or reproductive isolation. Island biology showed Darwin and Wallace that separated populations accumulate unique mutations over time until they become genetically incompatible. For large animals, this takes roughly 2 million years.
 

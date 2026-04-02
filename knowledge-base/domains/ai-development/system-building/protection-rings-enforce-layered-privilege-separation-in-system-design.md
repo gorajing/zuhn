@@ -53,6 +53,10 @@ related:
   - INS-260329-1277
   - INS-260329-BD83
   - INS-260326-87A1
+evidence:
+  - id: INS-260329-90F4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Linux's protection ring model (ring 0 for kernel, ring 3 for user space) enforces a hard boundary: no user-space process can directly manipulate hardware, memory, or other processes without making an explicit system call that transitions privilege levels. This isn't just OS trivia — it's a foundational security architecture pattern.
 

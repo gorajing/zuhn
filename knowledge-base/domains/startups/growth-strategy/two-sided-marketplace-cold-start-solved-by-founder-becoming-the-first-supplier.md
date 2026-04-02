@@ -48,8 +48,8 @@ stance: >-
 related:
   - INS-260330-2EC6
   - INS-260329-B194
+  - INS-260402-4633
   - INS-260322-92D7
   - INS-260330-24A5
-  - INS-260323-D679
 ---
 Silk Road faced the classic chicken-and-egg marketplace problem: no buyers without sellers, no sellers without buyers. Ross solved it with textbook bootstrapping: he personally grew mushrooms to create initial supply, then posed as a customer on niche forums (the Shroomery) to seed demand. He also added eBay-style ratings to build trust, took a 6.23% commission to align incentives, and leveraged his bookstore job for shipping infrastructure. This mirrors legitimate marketplace playbooks — Airbnb founders photographed apartments themselves, DoorDash founders delivered food personally. The pattern is universal: founders must do the unscalable, unglamorous work of being their own first supplier to overcome the cold-start problem. Once organic supply appeared (other dealers listing products), network effects took over and growth became self-sustaining.

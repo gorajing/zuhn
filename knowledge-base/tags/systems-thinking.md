@@ -7,14 +7,14 @@
 - `INS-260330-EAA3` Controlled imbalances released through constrained channels are the universal pattern for converting raw energy into useful work.
 - `INS-260329-BD83` File access modes (read, write, append) teach the universal principle that every system boundary needs explicit access control.
 - `INS-260329-A67B` When variables are linked by constraint equations, the chain rule reveals how change propagates through the system at rates that defy naive intuition.
+- `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely.
+- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260330-BC3E` Biology uses concentration gradients across membranes as universal batteries — the same mechanism powers photosynthesis, cellular respiration, nerve impulses, and kidney filtration.
 - `INS-260330-956F` All aerobic life depends on a single reaction — Photosystem II splitting water molecules to release oxygen and energized electrons.
 - `INS-260330-2EAB` In biology, what something looks like tells you what it does — heart valves prevent backflow because of their shape, bones protect because they're hard.
 - `INS-260330-E3C0` Tattoo removal requires both laser fragmentation and immune-mediated clearance working in sequence — the laser breaks particles below the phagocytic threshold, then macrophages transport fragments to the liver.
-- `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely.
-- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260330-293E` When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - `INS-260330-D582` Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
 - `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
@@ -55,13 +55,13 @@
 - `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260330-70A8` David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
 - `INS-260329-8D19` OOP's core discipline — decomposing complexity into objects with defined interfaces — transfers to organizational design, product architecture, and any domain requiring structured abstraction.
-- `INS-260330-C729` Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
 - `INS-260325-F8B8` The Roman toga was impossible to put on alone — its design literally encoded dependency on slave labor into the daily fabric of elite life.
 - `INS-260330-27CA` The Millennium Bridge wobble was caused by a positive feedback loop where the bridge's lateral sway synchronized pedestrians' gaits, which amplified the sway further.
 - `INS-260325-1F35` Quantum field theory underlies chemistry which underlies biology, but you cannot understand biology by studying quarks — each layer requires its own conceptual toolkit.
 - `INS-260329-0F06` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260325-7974` Western individualism is scientifically wrong: we are constantly being reshaped by the actions of people we will never meet.
+- `INS-260330-C729` Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
 - `INS-260330-946B` Trump demonstrated that democratic norms are insufficient guardrails — institutions need explicit laws and structural constraints designed to contain worst-case actors.
 - `INS-260325-A52D` Co-founder conflict is co-created from a systems perspective — one founder's withdrawal provokes the other's over-functioning, and vice versa.
 - `INS-260325-7D50` Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.

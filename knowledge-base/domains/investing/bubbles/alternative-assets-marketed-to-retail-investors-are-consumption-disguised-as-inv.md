@@ -59,6 +59,19 @@ related:
   - INS-260327-5D13
   - INS-260327-9638
   - INS-260327-45BD
+evidence:
+  - id: INS-260324-6345
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-A8DF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-C1F6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-45BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Over the last two years, values of luxury goods marketed as investments have crashed: watches, handbags, cars, and collectibles all saw significant declines. The 'it's an investment' narrative allowed consumers to justify luxury purchases as financially responsible, but these items lack the fundamental characteristics of investments: they don't generate cash flow, they depreciate physically, and their value depends entirely on finding a greater fool.
 

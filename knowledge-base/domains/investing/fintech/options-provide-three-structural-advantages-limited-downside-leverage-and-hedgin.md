@@ -54,6 +54,19 @@ related:
 stance: >-
   Options offer three distinct advantages over direct stock ownership: capped
   maximum loss (the premium paid), amplified returns through leverage, an...
+evidence:
+  - id: INS-260329-D5FF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-4C43
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-F07A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6204
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 A call option on a $100 stock bought for $10 illustrates all three: if the stock drops to $70, you lose only $10 (vs. $30 owning the stock). If it rises to $130, your $20 profit on a $10 investment is a 200% return (vs. 30% owning the stock). And airlines use oil call options to hedge fuel cost spikes.
 

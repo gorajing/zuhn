@@ -58,6 +58,22 @@ related:
   - INS-260323-E9E4
   - INS-260327-D77C
   - INS-260329-CC75
+evidence:
+  - id: INS-260328-C2CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-28B0
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-E9E4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D77C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-CC75
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Ackman shows that $10,000 invested at age 22 earning 10% annually becomes $600,000 by age 65, while the same investment starting at 32 yields only $232,000. The 10-year delay costs $368,000 on a $10,000 investment — a 37x penalty on the delayed capital. Meanwhile, boosting returns from 10% to 15% (starting at 22) increases the outcome from $600K to $4M, which is significant but requires dramatically more skill and risk.
 

@@ -56,5 +56,9 @@ related:
 stance: >-
   McDonald's franchisees pay ~$400K/year per store (4x Burger King/Wendy's), and
   the company's rent revenue is nearly double its food royalties
+evidence:
+  - id: INS-260323-9A29
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 McDonald's started buying land in the 1950s before anyone else. The average franchisee pays ~$400K/year, 4x competitors. Real estate is the highest-margin revenue stream, nearly double food royalties. This creates a structural misalignment: McDonald's profits from rent (opening more stores), but product quality depends on franchisees who set their own prices and revolt against complexity. Franchisees refused to make snack wraps because rolling tortillas was 'too tedious.' The company can't set prices, can't force product standards, and can't innovate when 95% of stores are independently operated mercenaries. Store-level margins are as low as 20 years ago despite higher prices.

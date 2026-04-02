@@ -51,5 +51,8 @@ evidence:
   - id: INS-260321-52EF
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-7ED0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Apple's India problem illustrates a fundamental market-entry trap: when 75% of smartphone buyers spend under $250 and your cheapest product costs $1,100+, no amount of brand prestige closes the gap. Unlike China where a growing middle class eventually reached iPhone price points, India's income distribution makes this ceiling structural, not temporary. This challenges the conventional wisdom that premium brands should never go downmarket — in markets with steep income pyramids, the choice is between a budget tier and near-zero penetration. The lesson applies to any premium product entering developing economies: brand halo means nothing if the price floor exceeds what 95% of the market can pay.

@@ -44,10 +44,10 @@ stance: >-
   wrong path but are inherent features of every high-value pursuit
 related:
   - PRI-260323-AEE6
+  - INS-260402-2FDF
   - INS-260323-5BEF
+  - INS-260402-D0F3
   - INS-260323-FAF0
-  - INS-260329-B34E
-  - INS-260330-9197
 ---
 Ambitious people frequently interpret boredom or frustration as evidence they're in the wrong field, triggering a cycle of starting and abandoning pursuits. Hormozi argues this misinterpretation is the primary mechanism behind inconsistency — the belief that the 'right' path should feel exciting consistently.
 

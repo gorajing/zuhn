@@ -56,6 +56,13 @@ related:
   - INS-260321-BFA3
   - INS-260402-2CAF
   - INS-260323-7EEB
+evidence:
+  - id: INS-260329-4986
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260402-2CAF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Wordle solver's progression tells a clear story about optimization depth: version 1 (greedy entropy, uniform priors) scored 4.124, version 2 (greedy entropy + frequency priors + exploit switch) scored 3.6, and the final version with two-step lookahead scored 3.43. The jump from no priors to good priors (0.5 improvement) dwarfed the jump from one-step to two-step search (0.17 improvement).
 

@@ -56,6 +56,10 @@ related:
   - INS-260329-656B
   - INS-260329-820D
   - INS-260330-984C
+evidence:
+  - id: INS-260329-8330
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The freeCodeCamp C++ tutorial structures learning by introducing a concept (e.g., conditionals, loops) and then immediately building a small project that uses it. This interleaving pattern — theory then application, repeated — is more effective than the traditional textbook approach of covering all syntax before any projects.
 

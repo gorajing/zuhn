@@ -57,6 +57,13 @@ related:
   - INS-260330-1B6E
   - INS-260330-F9CA
   - INS-260323-FEAB
+evidence:
+  - id: INS-260330-F9CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-C4A4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The video demonstrates that a person earning $400M annually experiences a $300K purchase the way a median earner experiences $30 — a 10,000x ratio that makes luxury items psychologically trivial. This is Weber's Law applied to financial decisions: perceived significance of a price is proportional to its ratio against total wealth, not its absolute value.
 

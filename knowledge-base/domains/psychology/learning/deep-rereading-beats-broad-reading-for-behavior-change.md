@@ -54,5 +54,8 @@ evidence:
   - id: INS-260329-85E9
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-FEC5
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Most people treat reading as consumption rather than integration. Hormozi argues the test of whether you've actually learned from a book is whether your behavior changes afterward — if it doesn't, you wasted your time. His method: skim many books quickly, identify the rare gems, then reread those 3-5 times until you can teach the concepts. He builds personal frameworks and presentations around key books to encode them into memory. This maps to the testing effect in cognitive science — retrieval and reformulation strengthen neural pathways far more than passive re-exposure. The implication is that knowledge acquisition should be measured by behavioral output, not input volume.

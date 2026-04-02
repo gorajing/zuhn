@@ -43,6 +43,13 @@ resolutions:
 stance: >-
   Research logs prevent teams from reinventing solutions that were already
   discovered
+evidence:
+  - id: INS-260330-1E5E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-C0D3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 When research logs and findings are committed as specs, they become

@@ -65,6 +65,12 @@ evidence:
   - id: INS-260321-E9B7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-8330
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-D75D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This tutorial structures its 30 chapters around a progression where each new concept (variables, if-statements, loops) is immediately applied in a small but complete project — a calculator, a mad libs game, a guessing game. Each project requires exactly the concept just introduced plus previously learned skills, creating a ratchet effect where knowledge compounds.
 

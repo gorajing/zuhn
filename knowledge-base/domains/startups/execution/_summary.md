@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 175 insights
+> 179 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -108,8 +108,11 @@
 - `INS-260330-DC3B` [high] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
 - `INS-260327-DB8F` [high] PMF is not strategy—it's the volume of genuine user conversations you have.
 - `INS-260329-D1B0` [high] Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
+- `INS-260402-E148` [high] Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
 - `INS-260402-841D` [high] Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-8D5D` [high] Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
+- `INS-260402-529F` [high] Starting small and growing incrementally lets you build things too ambitious to have planned upfront.
+- `INS-260402-C13F` [high] Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
 - `INS-260327-0700` [high] Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260330-4F7B` [high] Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
 - `INS-260330-A44F` [high] Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
@@ -136,6 +139,7 @@
 - `INS-260330-A78C` [high] YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
 - `INS-260329-E40B` [high] The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-19F9` [high] The 5-phase emotional cycle (uninformed optimism → informed pessimism → despair → informed optimism → achievement) explains why serial-starters never build wealth.
+- `INS-260402-7182` [high] When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - `INS-260329-E6C3` [high] Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
 - `INS-260329-66BD` [high] Load balancers prevent server failure but become the single point of failure themselves, requiring redundant load balancers — revealing that reliability is recursive, not additive.
 - `INS-260329-C881` [high] Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.

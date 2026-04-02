@@ -46,6 +46,16 @@ related:
   - INS-260330-86CD
   - INS-260330-7ED0
   - INS-260327-A462
+evidence:
+  - id: INS-260330-7ED0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B6AD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-137A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distribution in developing countries, not the digital transfer itself.
 

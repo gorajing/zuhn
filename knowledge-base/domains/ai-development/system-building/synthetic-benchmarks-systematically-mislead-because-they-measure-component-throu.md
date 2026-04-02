@@ -57,6 +57,10 @@ related:
   - INS-260327-33FA
   - PRI-260324-36BF
   - PRI-260321-14D8
+evidence:
+  - id: INS-260330-201F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Intel i9 beat the M1 on the CPU-intensive FanCook Redux benchmark, but lost on real-world developer workflows like NativeScript builds and Xcode compilation. This divergence between synthetic benchmarks and actual productivity is systematic, not accidental — benchmarks measure isolated component throughput, while real work involves memory access patterns, thermal management, I/O coordination, and sustained workloads that expose system-level bottlenecks.
 

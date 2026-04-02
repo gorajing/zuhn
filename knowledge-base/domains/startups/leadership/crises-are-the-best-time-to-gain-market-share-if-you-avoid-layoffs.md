@@ -58,6 +58,10 @@ related:
   - PRI-260328-BEAB
   - INS-260323-104E
   - INS-260327-40D5
+evidence:
+  - id: INS-260327-40D5
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 When COVID hit and ride-sharing revenue dropped 85%, competitors immediately raised emergency rounds and laid off 30-50% of staff, paralyzing them for 6-12 months. Bolt took a different gamble: flat 20% salary reduction with opt-in deeper cuts (founders and executives went to zero). Hundreds of employees voluntarily took 20-40% additional cuts, which paradoxically boosted morale by creating shared sacrifice.
 

@@ -51,8 +51,16 @@ related:
   - INS-260327-9EFE
   - INS-260327-7214
   - INS-260402-E470
+  - INS-260402-0D16
 stance: >-
   Natural language interfaces change who can program a robot, not just what it
   can do
+evidence:
+  - id: INS-260402-9676
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-E470
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 'Pick up the red block' sounds more expressive than running 'pick_red' preprogrammed task, but the boundary of what the model actually understands is opaque in a way that a fixed command vocabulary is not. The author proved this with counterfactual experiments: equivalent prompts produce similar actions (good), but spatial primitives ('up', 'away', 'stop') are unreliable because the model learned them as scene descriptions, not workspace commands. This is Karpathy's 'apps should become APIs' in reverse — sometimes explicit, constrained APIs are safer than flexible natural language. The tradeoff is expressivity vs predictability.

@@ -54,6 +54,13 @@ related:
 stance: >-
   Most of the world's most successful companies made their real money not from
   their core product but from a first derivative of it
+evidence:
+  - id: INS-260327-4434
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-EA4E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Nejatian discovered this pattern by studying company histories obsessively (he read the US Postal Service Act from the 1700s when assigned to run Shopify Shipping). Union Pacific Railway made more money selling land and homes along rail routes than carrying cargo. Google monetizes through ads served on search results. Shopify evolved from SaaS to a merchant services company (payments, tax, billing, ads).
 

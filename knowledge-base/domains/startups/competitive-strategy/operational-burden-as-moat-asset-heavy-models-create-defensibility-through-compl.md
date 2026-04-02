@@ -59,6 +59,13 @@ related:
   - PRI-260328-A589
   - PRI-260328-99F0
   - INS-260322-F6AA
+evidence:
+  - id: INS-260321-1A03
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-643C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Companies like Pacaso deliberately take on the burden of property management for fractional vacation homes, despite it being operationally intensive. This isn't a weakness — it's a moat. When a platform manages the physical asset (maintenance, scheduling, legal entities), it creates switching costs, accumulates proprietary operational knowledge, and deters competitors who want to stay asset-light.
 

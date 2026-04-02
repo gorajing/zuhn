@@ -52,8 +52,8 @@ related:
   - INS-260327-31A7
   - INS-260329-21AF
   - INS-260330-0C96
+  - INS-260402-15A7
   - INS-260330-6A47
   - INS-260330-D6D3
-  - INS-260330-D5BD
 ---
 Graham identifies a consistent pattern across technology history: cheap simple products gradually grow more powerful until they crush expensive 'high-end' competitors against the ceiling. Sun did this to mainframes, Intel to Sun, Microsoft Word to Interleaf/Framemaker, mass-market digital cameras to professional models, Avid to specialized video editing systems, Apple to Avid, Henry Ford to luxury carmakers. The mechanism is asymmetric: it's easier to make an inexpensive product more powerful than to make a powerful product cheaper. This creates a strategic imperative — if you own the low end, you control the trajectory. If you don't, you're in the crosshairs of whoever does. For startups, this means targeting smaller customers first (easier to sell to) while building the position that eventually lets you move upmarket. Corporate IT departments are especially ripe because companies spend enormous amounts on terrible software.

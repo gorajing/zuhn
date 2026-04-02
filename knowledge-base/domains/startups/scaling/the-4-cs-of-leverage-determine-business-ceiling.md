@@ -54,5 +54,8 @@ evidence:
   - id: INS-260321-2F43
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260323-70B9
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi frames leverage as the ratio between input and output, identifying four types: Collaboration (other people's time/skills), Capital (other people's money), Code (software that works while you sleep), and Content (media that reaches millions at zero marginal cost). Most businesses stall because they rely on only one lever — typically their own labor. The key insight is that these levers compound: a founder who adds code leverage to a service business, then layers content on top, creates exponential rather than linear returns. The sequence depends on the business model, but the principle is universal — stacking leverage types is what separates the 0.4% ($10M+) from the 90% (sub-$1M).

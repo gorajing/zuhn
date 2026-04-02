@@ -52,6 +52,10 @@ related:
   - INS-260327-325B
   - INS-260329-ACFF
   - INS-260322-1280
+evidence:
+  - id: INS-260329-7B15
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Labor force participation approaching generational lows while unemployment remains low creates an apparent paradox. The resolution is that jobs going unfilled typically have a clear pricing problem: below-market pay for the skill level required, unacceptable working conditions, or wages that don't cover local cost of living. Only 18% of Americans report feeling engaged at work.
 

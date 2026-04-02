@@ -59,13 +59,34 @@ related:
   - INS-260323-8F41
   - INS-260330-E89A
   - INS-260330-81E0
-  - INS-260330-AB5D
+  - INS-260330-6A65
 stance: >-
   The Aharonov-Bohm effect proved that potentials (once dismissed as mere
   mathematical shortcuts) directly influence physical reality
 evidence:
   - id: INS-260330-81E0
     type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4D18
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-3E21
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-367B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-4279
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8F41
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-E89A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-AB5D
+    type: TRANSFERS_TO
     classified_at: '2026-04-02'
 ---
 For nearly 200 years, physicists treated potentials as convenient mathematical tools — scaffolding that simplified calculations but had no physical reality of its own. The field (force) was real; the potential was just a trick. Then Aharonov and Bohm showed that electrons could be influenced by a potential even in regions where all fields were exactly zero. Feynman later wrote: 'A is as real as B, realer, whatever that means.'

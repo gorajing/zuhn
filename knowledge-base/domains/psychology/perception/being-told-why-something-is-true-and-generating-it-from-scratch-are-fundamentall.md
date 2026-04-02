@@ -55,7 +55,6 @@ related:
   - INS-260327-4C73
   - INS-260327-6021
   - INS-260329-7EFD
-  - INS-260330-C8ED
 ---
 Grant Sanderson frames the entire Essence of Calculus series around a specific aspiration: making viewers feel they could have invented calculus themselves. He draws a sharp distinction between being told why something is true and actually generating it from scratch. This maps to a broader principle about learning — passive reception of explanations creates the illusion of understanding, while active reconstruction from first principles creates genuine comprehension.
 

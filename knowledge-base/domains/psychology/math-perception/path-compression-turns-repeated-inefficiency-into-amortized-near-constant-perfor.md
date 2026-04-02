@@ -62,5 +62,14 @@ evidence:
   - id: INS-260325-9C89
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-01F2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-77E2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-0B55
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The union-find data structure starts as a naive tree where finding a root can require traversing O(n) parent pointers. Path compression adds a single modification to the find operation: after traversing to the root, repoint every node along that path directly to the root. This means every find operation simultaneously improves the structure for all future operations. The insight is deeply counter-intuitive — we're doing extra work during reads (not writes) to improve future reads. Without path compression, repeated finds on a chain of n elements costs O(n) each time. With it, the amortized cost drops to nearly O(α(n)), where α is the inverse Ackermann function — effectively constant for any conceivable input. The course calls this what makes union-find 'one of the most remarkable data structures.' The broader principle is that lazy restructuring during access — paying a small tax now to dramatically reduce future costs — is one of the most powerful patterns in algorithm design.

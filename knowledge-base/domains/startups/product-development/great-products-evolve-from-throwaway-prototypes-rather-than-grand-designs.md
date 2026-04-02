@@ -45,11 +45,11 @@ stance: >-
   The best large systems begin as quick throwaway programs that incrementally
   improve, not as ambitious projects designed big from the start
 related:
+  - INS-260402-529F
   - INS-260330-64D8
   - INS-260329-69F0
   - INS-260330-3FCF
   - INS-260327-D570
-  - INS-260330-66C7
 ---
 Paul Graham observes that most dominant technologies grew organically from small throwaway programs rather than being architected as grand systems from the start. Perl began as report-generation utilities before becoming a full language. Unix grew from a small project while the big-budget Multics stagnated.
 
