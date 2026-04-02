@@ -1,14 +1,15 @@
 #!/usr/bin/env npx tsx
 
 // ─── Zuhn MCP Server ────────────────────────────────────────────────
-// Read-only MCP server exposing Zuhn's knowledge base to any AI agent.
-// Tools: zuhn_search, zuhn_recall, zuhn_browse, zuhn_flags, zuhn_tensions, zuhn_stats
+// MCP server exposing Zuhn's knowledge base to any AI agent.
+// Read tools: zuhn_search, zuhn_recall, zuhn_browse, zuhn_flags, zuhn_tensions, zuhn_stats
+// Write tools: zuhn_apply, zuhn_feedback, zuhn_queue_session_insight
 
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
 import { join } from "node:path";
-import { readFileSync, readdirSync, existsSync } from "node:fs";
+import { readFileSync, readdirSync, existsSync, appendFileSync } from "node:fs";
 import matter from "gray-matter";
 
 import { initDb } from "./lib/db";
@@ -700,6 +701,47 @@ server.registerTool("zuhn_log_feedback", {
   require("fs").writeFileSync(feedbackPath, JSON.stringify(feedback, null, 2), "utf-8");
 
   return { content: [{ type: "text" as const, text: JSON.stringify({ logged: true }) }] };
+});
+
+// ─── Tool: zuhn_queue_session_insight ──────────────────────────────
+// Phase 8: Explicit-intent session insight capture
+// Claude calls this when it identifies something worth preserving.
+// Appends to /tmp/zuhn-session-queue.jsonl for later extraction.
+
+server.registerTool("zuhn_queue_session_insight", {
+  description:
+    "Queue a significant insight from this session for extraction into the " +
+    "knowledge base. Call this when you identify a genuinely new conclusion, " +
+    "decision, or principle worth preserving. Does NOT auto-extract — the " +
+    "user must run 'npm run extract-session' to process the queue.",
+  inputSchema: {
+    observation: z.string().describe("The insight or conclusion to preserve"),
+    domain: z.string().optional().describe("Target domain (e.g. ai-development, startups)"),
+    topic: z.string().optional().describe("Target topic within domain"),
+    stance: z.string().optional().describe("Directional claim (assertable as true or false)"),
+  },
+}, async (params) => {
+  const queuePath = "/tmp/zuhn-session-queue.jsonl";
+  const entry = {
+    observation: params.observation,
+    domain: params.domain ?? null,
+    topic: params.topic ?? null,
+    stance: params.stance ?? null,
+    queued_at: new Date().toISOString(),
+  };
+
+  appendFileSync(queuePath, JSON.stringify(entry) + "\n", "utf-8");
+
+  return {
+    content: [{
+      type: "text" as const,
+      text: JSON.stringify({
+        queued: true,
+        queue_path: queuePath,
+        message: "Insight queued. Run 'npm run extract-session' when ready to extract.",
+      }),
+    }],
+  };
 });
 
 // ─── Start Server ────────────────────────────────────────────────────
