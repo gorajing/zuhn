@@ -58,6 +58,31 @@ related:
   - INS-260323-4E23
   - INS-260330-F056
   - INS-260330-4224
+evidence:
+  - id: INS-260323-133A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-BF44
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-DFA5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-75A3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8F70
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-4E23
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F056
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4224
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Carroll frames cancer as truly an evolutionary disease — cancer cells mutate and those mutations that give cells a survival or replication advantage are selected for, exactly like the staircase of evolution. This means the same mechanism that built all the complexity of life can also destroy it from within.
 

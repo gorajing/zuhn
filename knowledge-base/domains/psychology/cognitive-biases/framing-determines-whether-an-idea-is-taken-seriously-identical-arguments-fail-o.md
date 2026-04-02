@@ -56,6 +56,10 @@ related:
   - INS-260330-7EFD
   - INS-260330-4FC5
 stance: Einstein presented the non-locality problem at least three times
+evidence:
+  - id: INS-260323-7BA4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Einstein's core argument was remarkably consistent across decades: quantum mechanics requires non-local influences, which contradicts relativity. He presented this at the 1927 Solvay Conference (where Bohr 'didn't understand what precisely is the point'), through the photon box thought experiment (where Bohr 'just misunderstood it' and drew a diagram missing the key mirror), and finally in the 1935 EPR paper. Despite being the same argument, each formulation was received differently based on context.
 

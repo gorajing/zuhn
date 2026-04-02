@@ -54,5 +54,12 @@ related:
   - INS-260320-232D
   - INS-260328-EA3A
   - INS-260330-81A7
+evidence:
+  - id: INS-260320-232D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-EA3A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The KV cache -- storing key/value embeddings from all previous tokens across all layers and attention heads -- is the primary memory bottleneck for long-context LLM inference. It scales linearly with context length and model size. TurboQuant compresses the KV cache from 16-bit to 3.5-bit per channel (4.5x) with no measurable quality loss on LongBench tasks including QA, summarization, few-shot, and code completion. On needle-in-a-haystack retrieval (4K-104K tokens), TurboQuant at 4x compression scores 0.997 vs 0.997 for full precision -- identical. At 2.5 bits (6.4x compression), quality degradation is marginal. Critically, this requires no fine-tuning or retraining -- it's applied at inference time. This means long-context capability is primarily a memory engineering problem, not a model architecture problem. A 128K-context model with TurboQuant effectively has the KV cache footprint of a 28K-context model.

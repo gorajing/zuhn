@@ -48,5 +48,12 @@ related:
   - INS-260327-0B69
   - INS-260330-4AD5
   - INS-260322-17B3
+evidence:
+  - id: INS-260330-4AD5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-17B3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dalton and Michael frame the current AI moment as comparable to early web or early mobile — a phase where nothing has firmed up yet. They draw on 25 years of tech history: Yahoo was declared the winner before Google existed, Palm seemed unassailable before iPhone. Dalton's key observation: it took years to squeeze maximum value from web browsers and mobile phones, yet people act as if each new AI model drop reveals permanent winners. His investment thesis in this phase: fund smart people and see what happens, because the variance in outcomes is extremely high and predicting winners is unreliable.

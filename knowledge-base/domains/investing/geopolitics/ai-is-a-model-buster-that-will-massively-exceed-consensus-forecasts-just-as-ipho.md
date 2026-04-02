@@ -85,6 +85,9 @@ evidence:
   - id: INS-260327-C962
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-CCE8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 David George introduces the 'model buster' concept: companies that grow faster and longer than anyone would have modeled in any scenario. The iPhone is the canonical example — consensus models for Apple were off by 3x over four years despite Apple being the most extensively covered public company at the time. He argues AI will produce many such model busters.
 

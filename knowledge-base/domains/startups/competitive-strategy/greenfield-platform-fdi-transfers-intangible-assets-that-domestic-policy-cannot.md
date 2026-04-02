@@ -64,6 +64,10 @@ related:
   - INS-260330-D460
   - INS-260330-EF74
   - PRI-260322-9E36
+evidence:
+  - id: INS-260322-0CE3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bank of Japan researchers identified 'intangible assets' — brand reputation, patents, software, management know-how, tacit technical knowledge, customer relationships — as the primary driver of Japan's productivity gap, yet found that Japanese companies spend heavily on R&D without getting comparable value to US firms. The mystery is that these assets are too heterogeneous and hard to measure for policy to directly address. Greenfield FDI provides an elegant workaround: when TSMC builds a fab in Kumamoto, it teaches Japanese suppliers what leading chip companies need. When employees eventually leave TSMC to work at Japanese companies, they carry tacit knowledge with them — the little tricks that make models or processes work better, plus personal connections to global research networks.
 

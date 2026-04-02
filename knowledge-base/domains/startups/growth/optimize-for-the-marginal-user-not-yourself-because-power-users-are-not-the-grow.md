@@ -54,5 +54,9 @@ related:
   - INS-260329-D3F6
   - INS-260330-D824
   - INS-260330-697F
+evidence:
+  - id: INS-260325-EE14
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Schultz identifies a systematic bias: founders optimize for themselves as power users rather than for the marginal user who has no reason to return. Facebook's growth accounting decomposes growth into new, resurrected, and churned users. After a couple of years the resurrected and churned numbers dominate. These marginal users had low friend counts and had not experienced the magic moment. Turning on first-like email notifications for low-engagement users only increased click-through rates across all channels without spamming power users.

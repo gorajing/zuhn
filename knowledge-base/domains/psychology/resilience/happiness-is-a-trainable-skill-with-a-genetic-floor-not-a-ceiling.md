@@ -51,6 +51,10 @@ related:
   - INS-260325-82E8
   - PRI-260323-0F93
   - INS-260330-240A
+evidence:
+  - id: INS-260330-C31B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Naval argues that while genetics may account for half or more of traits like strength and intelligence, the genetic set point for happiness is only about half the story — and the malleable portion is much larger than people assume. Unlike athletic performance where physical limits are hard, mood, temperament, and outlook respond dramatically to deliberate effort.
 

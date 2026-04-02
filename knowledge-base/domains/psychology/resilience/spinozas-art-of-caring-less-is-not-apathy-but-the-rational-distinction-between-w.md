@@ -54,9 +54,9 @@ related:
   - INS-260327-E833
   - INS-260327-F014
   - INS-260325-F500
-  - INS-260323-08E9
   - INS-260325-FF46
   - INS-260323-4D5E
   - INS-260326-3F06
+  - INS-260327-56B3
 ---
 Spinoza argued that the universe operates through necessary causation — everything that happens is the inevitable result of prior causes. This is not fatalism but liberation: once you understand that most events are determined by forces beyond your control, the emotional charge of anger, resentment, and worry dissipates naturally. You don't need willpower to stop caring about things you can't change — you need understanding. What remains is enormous emotional energy for the narrow band of things you can actually influence. This parallels the Stoic dichotomy of control but goes deeper: Spinoza provides the metaphysical WHY (causal determinism) while Stoics provide the practical HOW (focus on response, not events). The result is not cold detachment but warm engagement with the things that actually matter.

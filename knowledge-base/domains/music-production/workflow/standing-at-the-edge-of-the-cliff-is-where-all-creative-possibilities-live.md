@@ -56,6 +56,10 @@ related:
 stance: >-
   Tal Wilkenfeld deliberately performs at the edge of her abilities because
   playing safe limits expression
+evidence:
+  - id: INS-260322-13D6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Wilkenfeld's philosophy is to stand 'on the edge of the cliff' during every performance -- playing at the boundary of the unknown rather than retreating to safe, rehearsed patterns. She argues that playing safe turns you into 'a clown showing skills you studied in your bedroom' rather than creating genuine real-time expression.
 

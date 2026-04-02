@@ -54,6 +54,10 @@ related:
   - INS-260330-42DE
   - INS-260323-B309
   - INS-260323-3F30
+evidence:
+  - id: INS-260323-B309
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Carroll highlights a critical communication failure: the word 'theory' means the opposite in scientific versus everyday language. On the street, theory means 'my best guess.' In science, a theory is the highest category — assembled from hundreds of tested hypotheses and independent lines of evidence that cohere. Hypotheses are the guesses; theories are what survive rigorous testing.
 

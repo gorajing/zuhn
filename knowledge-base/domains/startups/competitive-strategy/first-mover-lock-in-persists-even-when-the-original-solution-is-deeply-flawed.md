@@ -58,6 +58,10 @@ related:
   - INS-260330-11EB
   - INS-260330-22C0
   - INS-260330-C02D
+evidence:
+  - id: INS-260323-BA00
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, confuses oxygen for CO2 roughly half the time, producing toxic byproducts plants must waste energy cleaning up. Yet it remains the foundation of nearly all life on Earth because early organisms went all-in on the RuBisCo strategy when atmospheric conditions were different. By the time oxygen levels rose and exposed the flaw, the entire biosphere depended on it.
 

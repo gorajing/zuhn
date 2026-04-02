@@ -54,5 +54,21 @@ related:
   - INS-260327-F405
   - INS-260323-F853
   - INS-260327-5688
+evidence:
+  - id: INS-260329-87C2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-61CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F405
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-F853
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-5688
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi's argument follows a logical chain: AI can learn optimal conversational patterns from millions of interactions, tune voice and personality to individual preferences, and provide unlimited emotional availability without fatigue or self-interest. When combined with physical robotics (even basic versions), these AI companions offer a package that is 'more attractive, more loving, more caring, more considerate, and cheaper than a spouse.' While provocative, the underlying logic is sound — if you reduce human emotional needs to input-response patterns (which neuroscience increasingly supports), then an AI optimized on millions of relationship interactions will outperform any individual human on those dimensions. The societal implications are profound: lower-tier dating markets face the most immediate disruption, but the effect scales upward as AI companions improve.

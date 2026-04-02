@@ -73,6 +73,9 @@ evidence:
   - id: INS-260324-160B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-4A06
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 a16z's first per-capita AI adoption heat map reveals surprising global patterns. Singapore ranks #1, followed by Hong Kong, UAE, and South Korea. The US sits at #20 despite being where the biggest AI products originate. Russia and China are sub-50 but have built entirely parallel AI ecosystems out of necessity (sanctions and censorship respectively).
 

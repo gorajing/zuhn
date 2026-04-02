@@ -55,5 +55,11 @@ evidence:
   - id: INS-260320-5A6F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-64A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-1631
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The conjunction 'but' creates an asymmetric attention effect in listeners: the clause following 'but' receives disproportionate cognitive weight while the preceding clause is discounted. This isn't just a rhetorical trick — it reflects how the brain processes contrastive conjunctions. When someone hears 'you'll have to work 5 hours a day, but you'll make more money than ever,' the work requirement fades and the income promise dominates. Critically, the order matters: positive-but-negative leaves people focused on the negative, while negative-but-positive leaves them focused on the positive. This gives communicators precise control over where prospect attention lands, making statement ordering a tactical decision rather than a stylistic one.

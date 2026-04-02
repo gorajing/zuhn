@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-8519
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-44EF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Oxman's project selection criteria requires that every new project be novel along multiple disciplinary axes simultaneously — synthetic biology AND robotics AND material science AND computational design. This multiplicative approach to novelty makes true innovation almost inevitable because the intersection of multiple frontiers is territory nobody has explored.
 

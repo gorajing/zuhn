@@ -55,6 +55,7 @@ related:
   - INS-260329-5414
   - INS-260330-B5D6
   - INS-260330-EBFD
+  - INS-260402-72EF
 ---
 Hormozi argues that a $500, two-day certification can triple someone's hourly rate from minimum wage to $25/hour — a permanent 3x multiplier on lifetime earnings. Meanwhile, $500 in an index fund at 10% annual returns takes roughly 11 years to double. The asymmetry is stark: skill investments can 2-10x earning capacity within months, while financial assets compound slowly.
 

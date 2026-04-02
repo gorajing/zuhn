@@ -54,5 +54,15 @@ related:
   - INS-260330-FD28
   - INS-260323-3F30
   - INS-260325-BA76
+evidence:
+  - id: INS-260325-D4F6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FD28
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-BA76
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Gödel's key insight was encoding mathematical statements as numbers so that mathematics could make statements about itself. This self-referential capability — a system reasoning about its own properties — is exactly what creates undecidability. Russell's set paradox (the set of all sets that don't contain themselves), Gödel's incompleteness (a statement saying 'I am unprovable'), and Turing's halting problem (a machine analyzing its own behavior) all exploit the same structural pattern. For AI development, this means self-referential architectures — agents that reason about their own reasoning, or systems that try to fully predict their own behavior — will always hit fundamental limits. The practical takeaway is to design around self-reference rather than trying to solve it: use external validators, bounded recursion, and separation of concerns between the system and its meta-reasoning.

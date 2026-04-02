@@ -48,10 +48,10 @@ stance: >-
   abstraction, and the cost of duplication compounds nonlinearly as systems grow
 related:
   - INS-260329-E839
+  - INS-260402-06DB
   - INS-260329-E333
   - INS-260329-CC79
   - INS-260330-F5A1
-  - INS-260330-E5F7
   - INS-260329-19EA
 evidence:
   - id: INS-260329-E839

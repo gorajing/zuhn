@@ -50,6 +50,10 @@ resolutions:
 stance: >-
   LLM pretraining consumes only 63% of total compute with 37% needed for
   ablations and debugging
+evidence:
+  - id: INS-260330-ED9D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 HuggingFace's SmolLM3 training revealed that the main pretraining run

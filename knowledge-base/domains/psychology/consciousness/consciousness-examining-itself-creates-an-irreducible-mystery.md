@@ -55,6 +55,13 @@ related:
   - INS-260330-5F9E
   - INS-260330-4D81
   - INS-260330-C7B5
+evidence:
+  - id: INS-260326-E5D3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-DE7F
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The 'hard problem' of consciousness isn't just that we don't understand it - it's that the instrument of understanding (consciousness) is the thing being understood. This creates a fundamental circularity that may not be resolvable through the methods that work for every other scientific question.
 

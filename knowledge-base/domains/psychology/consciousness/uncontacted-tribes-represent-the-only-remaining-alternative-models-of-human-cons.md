@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-11A6
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260327-8936
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Uncontacted tribes have developed languages, social structures, and ways of understanding reality entirely independently of modern civilization. Their consciousness has been shaped by direct ecological engagement rather than abstraction, technology, and social media.
 

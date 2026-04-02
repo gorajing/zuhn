@@ -57,7 +57,6 @@ related:
   - INS-260330-E6BB
   - INS-260329-A461
   - INS-260329-9FE0
-  - INS-260329-B170
-  - INS-260330-BE23
+  - INS-260402-E994
 ---
 CS50 moves from binary representation to assembly concepts to C to Python to web technologies, and this isn't arbitrary — it mirrors the actual abstraction layers of computing. Students who learn binary first understand why integers overflow. Students who learn C first understand why Python is slower but safer. Each layer in the curriculum hides the complexity of the layer below, exactly as the layers do in real systems. This isomorphism between pedagogical progression and architectural reality is not coincidental — it reflects a deep truth about how complex systems become comprehensible. You can only understand an abstraction layer fully if you've spent some time in the layer beneath it. This has direct implications for system design: the best architectures are those where each layer can be understood independently, with the option to drill down when needed. It also explains why developers who learned low-level languages first tend to write more efficient high-level code — they carry mental models from the layers below.

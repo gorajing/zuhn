@@ -50,6 +50,10 @@ related:
 stance: >-
   LIGO built two identical detectors 3,000 km apart so that any signal had to
   appear in both to count as real.
+evidence:
+  - id: INS-260329-8407
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When LIGO finally detected a gravitational wave chirp, the immediate question was whether it was just environmental noise -- a truck driving by, ravens pecking at pipes, or airplane vibrations. The answer was a second identical detector located 3,000 km away in a completely different environment. When both machines saw the same chirp, they could confidently distinguish a real signal from noise.
 

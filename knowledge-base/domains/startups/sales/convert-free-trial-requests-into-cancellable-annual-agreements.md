@@ -52,6 +52,10 @@ related:
   - INS-260320-9937
   - INS-260320-00C2
   - INS-260322-0247
+evidence:
+  - id: INS-260320-9937
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 When prospects ask for a free trial, Bosmeny recommends reframing: 'We don't do free trials, but we do annual agreements where you can opt out in the first 30-60 days if you're not happy.' This subtle change is night-and-day different in outcomes.
 

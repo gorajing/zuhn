@@ -58,6 +58,9 @@ evidence:
   - id: INS-260329-6CE8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-2069
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Three forces created a perfect storm: (1) Post-2021 mass layoffs proved companies could cut 20-30% of workforce and still function. (2) CS graduates have doubled or tripled in the past 10-15 years, flooding the market with supply. (3) AI tools made individual developers dramatically more productive, reducing headcount needs.
 

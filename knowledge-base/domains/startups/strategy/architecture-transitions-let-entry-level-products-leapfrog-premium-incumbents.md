@@ -52,7 +52,7 @@ related:
   - INS-260329-7CDE
   - INS-260329-9115
   - PRI-260321-14D8
-  - INS-260323-B4D2
+  - INS-260402-92AE
 ---
 Apple's $999 MacBook Air with M1 beat the $2,799 16-inch MacBook Pro with Intel i9 in most real-world developer build tests. The Air ran cooler (fanless), lasted longer on battery, and matched or exceeded build speeds. This wasn't because Apple made a better chip by the old rules — they changed the architecture entirely from discrete components to system-on-chip, making the old performance ceiling irrelevant.
 

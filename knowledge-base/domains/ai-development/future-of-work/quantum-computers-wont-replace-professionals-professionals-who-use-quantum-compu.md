@@ -52,6 +52,16 @@ related:
   - INS-260402-0392
   - INS-260327-3A81
   - INS-260325-5A2F
+evidence:
+  - id: INS-260327-41A9
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-0392
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-3A81
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Kaku uses the carpenter-hammer metaphor: a hammer does not replace the carpenter but increases the carpenter's power. Similarly, quantum computers will not replace doctors, chemists, and biologists but will make those who adopt them dramatically more capable than those who don't.
 

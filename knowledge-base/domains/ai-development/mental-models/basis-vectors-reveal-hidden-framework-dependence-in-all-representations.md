@@ -52,6 +52,16 @@ related:
   - INS-260330-4F49
   - INS-260330-3B6C
   - INS-260330-6494
+evidence:
+  - id: INS-260330-B4DA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4F49
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-6494
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When we write a vector as (3, -2), we're implicitly saying 'scale i-hat by 3 and j-hat by -2 and add.' Change the basis and the same geometric vector gets entirely different numbers. This principle extends beyond math: any metric, KPI, or feature representation in ML encodes assumptions about what dimensions matter. Recognizing basis-dependence is critical in AI development — choosing embedding dimensions, feature engineering, or even how you frame a problem space all constitute implicit basis choices that shape what patterns become visible or invisible.
 

@@ -58,6 +58,13 @@ related:
   - INS-260330-F183
   - INS-260325-BE3A
   - INS-260329-20F8
+evidence:
+  - id: INS-260330-F183
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-20F8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kaku argues that the current model of drug discovery -- creating hundreds of chemicals and testing them one-by-one in Petri dishes -- persists because digital computers fundamentally cannot model molecular behavior. Molecules operate through smooth electron probability waves, not binary zeros and ones. Digital computers can approximate this but cannot natively simulate it.
 

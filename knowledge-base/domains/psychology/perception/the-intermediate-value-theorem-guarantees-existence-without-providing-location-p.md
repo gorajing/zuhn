@@ -58,5 +58,9 @@ related:
   - INS-260329-5398
   - INS-260329-356A
   - INS-260329-F8AF
+evidence:
+  - id: INS-260325-ED75
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Intermediate Value Theorem states: if f is continuous on [a,b] and N is any value between f(a) and f(b), then there exists some c in [a,b] where f(c) = N. The course illustrates this with a polynomial where P(0) = 7 and P(1) = -3: since the polynomial is continuous and changes sign, it must cross zero somewhere in [0,1]. We know a root exists without knowing what it is. The castle wall example is even more striking: for a circular wall with continuously varying height, there must exist two diametrically opposite points with exactly the same height. This type of existence-without-location knowledge appears everywhere outside mathematics. In economics, the Nash equilibrium existence theorem guarantees equilibrium exists in certain games without computing it. In hiring, knowing that a qualified candidate must exist in a large enough pool (by continuity of skill distribution) justifies continued searching even when you haven't found them yet. Existence proofs change the question from 'does a solution exist?' to 'how do we find it?' — a fundamentally more productive framing.

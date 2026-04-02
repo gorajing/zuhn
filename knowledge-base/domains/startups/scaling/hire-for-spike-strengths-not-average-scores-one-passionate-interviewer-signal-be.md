@@ -54,10 +54,10 @@ stance: >-
   interviewers
 related:
   - INS-260323-475F
-  - INS-260330-F800
   - INS-260330-B525
   - INS-260323-F2C3
-  - INS-260329-EF89
+  - INS-260330-F800
+  - INS-260402-C4FF
 ---
 After eight years of hiring at PolyAI, Shawn Wen observed a clear pattern: their best performers were candidates where at least one interviewer had a strong, specific reason to hire them ('I really wanted to hire this person because of X'), rather than candidates who received average-good scores across all interviewers. The 'nice person nobody fell in love with' pattern correlates with mediocre performance.
 

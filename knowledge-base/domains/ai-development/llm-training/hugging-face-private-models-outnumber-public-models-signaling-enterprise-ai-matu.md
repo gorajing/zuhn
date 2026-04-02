@@ -59,6 +59,19 @@ related:
   - INS-260327-7A48
   - INS-260327-B561
   - INS-260327-E07C
+evidence:
+  - id: INS-260325-3CE2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-522A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-FADB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B561
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Jeff from Hugging Face revealed a striking statistic: while most people know Hugging Face for its 1 million public models, there are approximately as many private models hosted on the platform. These are created by 350,000 organizations doing custom fine-tuning, reinforcement learning, and model customization on proprietary data.
 

@@ -45,6 +45,16 @@ resolutions:
 stance: >-
   Batching inputs to amortize system prompt costs dramatically reduces total
   token consumption
+evidence:
+  - id: INS-260329-4696
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-A22D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-4FF3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 Every API call includes the full system prompt in the token count. With

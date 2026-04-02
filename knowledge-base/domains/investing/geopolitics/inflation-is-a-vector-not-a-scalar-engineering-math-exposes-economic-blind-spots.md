@@ -59,5 +59,9 @@ related:
   - INS-260322-AABB
   - INS-260322-CCE8
   - INS-260330-BFD0
+evidence:
+  - id: INS-260322-CCE8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Michael Saylor argues that economists fundamentally cripple their analysis by reducing inflation to a single number (CPI), when it should be treated as an n-dimensional vector — the same way aerospace engineers would never model fluid dynamics with a scalar. The government constructs a synthetic basket of consumer goods, applies 'hedonic adjustments' to shrink apparent price increases, and entirely excludes asset prices (housing, stocks, bonds). This means a 19% year-over-year housing price increase gets characterized as a benefit to society rather than inflation. By Saylor's calculation, using Miami real estate as the benchmark (a house that sold for $100K in 1930 is now worth $30.5M), the true inflation rate has been approximately 6.5-7% annually for 92 years — not the 2-3% governments claim. This framing has practical implications: it means the S&P 500's 10% annual return is really only 2-3% real growth once you subtract the ~7% monetary expansion, and that conventional retirement planning based on stated inflation rates dramatically underestimates what people actually need to maintain purchasing power.

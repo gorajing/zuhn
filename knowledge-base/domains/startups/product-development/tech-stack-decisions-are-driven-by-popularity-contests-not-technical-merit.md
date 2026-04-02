@@ -45,11 +45,15 @@ stance: >-
   rather than technical superiority, making popularity a rational engineering
   constraint.
 related:
+  - INS-260402-72EF
   - INS-260323-7D3C
   - INS-260327-2430
   - PRI-260328-5CDE
   - INS-260330-0A95
-  - INS-260325-4846
+evidence:
+  - id: INS-260325-4846
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When choosing React over Svelte, the decision isn't about which framework is technically superior — it's about which one gives you the largest pool of developers to hire and the richest ecosystem of libraries to leverage. This reframes 'popularity contest' from a negative to a rational constraint.
 

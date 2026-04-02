@@ -50,10 +50,10 @@ stance: >-
   assumptions.
 related:
   - INS-260321-7D76
+  - INS-260402-7999
   - INS-260321-4178
   - INS-260329-023F
   - INS-260329-EAFD
-  - INS-260329-D0B3
 evidence:
   - id: INS-260329-EAFD
     type: SUPPORTS

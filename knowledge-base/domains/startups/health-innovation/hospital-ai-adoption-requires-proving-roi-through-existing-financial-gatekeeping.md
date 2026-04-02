@@ -48,5 +48,15 @@ related:
   - INS-260321-1A0B
   - INS-260325-4846
   - INS-260324-29D8
+evidence:
+  - id: INS-260322-3D21
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260321-2241
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-4846
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 A hospital pharmacy director described presenting an AI product three times to leadership committees, each time facing skepticism despite projecting $3 million in annual savings. Hospitals are financially conservative institutions with formal technology review processes run by IT departments. The barrier is not technical skepticism but institutional risk aversion — they need proof of concept with measurable outcomes before committing. For AI startups targeting healthcare, this means the sales cycle requires navigating committee structures, demonstrating ROI in financial terms the C-suite understands, and accepting that even strong value propositions face multiple rounds of institutional scrutiny before approval.

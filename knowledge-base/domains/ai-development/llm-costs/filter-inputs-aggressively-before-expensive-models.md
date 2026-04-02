@@ -44,6 +44,10 @@ resolutions:
 stance: >-
   Aggressive input filtering before expensive models saves 80% of processing
   costs
+evidence:
+  - id: INS-260322-5790
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 Before sending data to expensive LLM calls, apply simple heuristic

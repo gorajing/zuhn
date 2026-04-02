@@ -54,6 +54,10 @@ related:
   - INS-260329-5DB9
   - INS-260330-47E0
   - INS-260323-6944
+evidence:
+  - id: INS-260329-C2E5
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 John Conway created FRACTRAN, a generalization of the 3x+1 operation, and proved it Turing-complete — meaning it can simulate any computation. Turing-completeness brings the halting problem: you cannot build a general algorithm to determine whether a FRACTRAN program halts. While this doesn't directly prove Collatz is undecidable, it establishes that problems in this family can be.
 

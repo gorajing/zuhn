@@ -59,5 +59,8 @@ evidence:
   - id: INS-260327-77E7
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260320-7B4B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 AI development: data quality dominates architecture in ML systems. A mediocre model trained on excellent data outperforms an elegant model on mediocre data. Business: install base and data gravity beat design elegance -- accumulation trumps architecture. A product with 10M users and messy code beats a beautiful product with 100 users because switching costs, network effects, and behavioral data compound. The structural pattern: in any complex system where inputs are heterogeneous and the environment shifts, the accumulated substrate (data, users, cultural norms, biological adaptations) is more load-bearing than the processing architecture. Architecture can be refactored; accumulated substrate cannot be replicated. This suggests the correct strategic priority in any domain is: accumulate first, organize later. Premature architecture optimizes a system that hasn't yet gathered enough raw material to know what organization it actually needs.

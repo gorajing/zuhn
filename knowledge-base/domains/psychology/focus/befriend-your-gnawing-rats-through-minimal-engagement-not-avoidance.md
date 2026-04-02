@@ -57,6 +57,10 @@ related:
   - INS-260323-846D
   - INS-260327-900A
   - INS-260330-293E
+evidence:
+  - id: INS-260323-64A4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Dutch Zen monk Paul Loomans describes chronically avoided tasks as 'gnawing rats' — they consume energy in the background even when we're not engaging with them. The solution isn't willpower-driven action but befriending: consciously acknowledging the task exists and building a psychological relationship with it.
 

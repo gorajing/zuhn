@@ -69,6 +69,9 @@ evidence:
   - id: INS-260320-DEAF
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-EE14
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When asked whether AI is in a bubble, Dalton says no, because current AI tools' actual impact on business is barely being felt. Adoption is so early in its cycle that even if all AI development stopped today, the existing technology would drive enormous improvements for years as businesses actually implement and integrate what already exists.
 

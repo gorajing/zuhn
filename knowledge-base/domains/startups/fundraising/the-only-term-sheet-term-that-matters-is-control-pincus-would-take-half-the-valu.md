@@ -54,8 +54,8 @@ related:
   - INS-260326-291C
   - INS-260327-2B75
   - INS-260323-E2ED
-  - INS-260323-1307
   - INS-260327-2A73
+  - INS-260327-8AE7
 stance: >-
   Mark Pincus argues that founder control is worth more than valuation because
   losing control means losing the ability to make the risky, unpopular p...

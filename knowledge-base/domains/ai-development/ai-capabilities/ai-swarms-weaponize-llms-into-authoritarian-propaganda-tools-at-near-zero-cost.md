@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-95F3
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-5F21
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Marcus co-authored a Science article with 23 authors including Nobel laureate Maria Ressa warning about AI swarms — coordinated networks of interacting bots that create artificial consensus. Unlike older bots that could only copy-paste talking points, LLM-powered bots maintain character over time, restate positions in different words, and are increasingly undetectable. Half of content on platforms like X may already be bot-generated.
 

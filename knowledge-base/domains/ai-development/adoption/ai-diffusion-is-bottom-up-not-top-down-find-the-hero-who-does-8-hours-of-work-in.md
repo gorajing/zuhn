@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-0762
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-4A06
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The anecdote of a 28-year-old at an investment bank who was so good at using ChatGPT that the bank did a global call for him to walk everyone through it — but that's an absurd way to diffuse world-changing technology. The real diffusion pattern: motivated individuals (driven by wanting to be 'lazier and richer') discover massive productivity gains organically.
 

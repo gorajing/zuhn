@@ -54,6 +54,10 @@ related:
   - PRI-260323-C49D
   - INS-260329-613F
 stance: Teachers get fired for teaching context about the N-word in literature
+evidence:
+  - id: INS-260322-DAA1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Kennedy documents a pattern: teachers are suspended for using his academic book to teach the history of a racial slur in context. Administrators abandon them. Students never learn to grapple with difficult realities. The result is not protection but fragility — people unequipped to engage with the actual complexity of American history and culture.
 

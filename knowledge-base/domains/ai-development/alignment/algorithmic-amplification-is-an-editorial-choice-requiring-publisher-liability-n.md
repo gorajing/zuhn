@@ -77,6 +77,9 @@ evidence:
   - id: INS-260330-ACDA
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-C49E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Harari makes a crucial distinction that reframes the free speech debate: the problem isn't that misinformation exists on platforms (just as the New York Times receives letters containing falsehoods), but that algorithms actively promote it. The editorial function — deciding what gets prominence — was historically one of the most important positions in society, held by figures like Lenin (editor of Iskra) and Mussolini (editor of Avanti) before they became dictators. This editorial role has now been fully automated by algorithms.
 

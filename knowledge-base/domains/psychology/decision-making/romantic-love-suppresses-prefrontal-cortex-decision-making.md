@@ -59,5 +59,8 @@ evidence:
   - id: INS-260330-92BB
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260323-9385
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Functional MRI studies show that early-stage romantic love activates the oldest brain regions linked with drive, craving, and motivation, while simultaneously deactivating prefrontal cortex regions responsible for decision-making and planning ahead. This explains why people in love make objectively irrational choices — pursuing partners who are married, geographically distant, or culturally incompatible — while genuinely believing 'we'll work it out.' Helen Fisher's recommendation: spend extended time with a partner before major commitments so these neurochemical effects can subside and cognitive evaluation can resume. This has direct applications beyond romance — any high-dopamine, high-stakes situation (new business partnerships, investment euphoria) likely triggers similar prefrontal suppression.

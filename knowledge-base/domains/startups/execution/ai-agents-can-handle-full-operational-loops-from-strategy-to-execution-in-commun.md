@@ -58,6 +58,10 @@ related:
   - INS-260325-8F49
   - PRI-260328-0BA6
   - INS-260320-A1D3
+evidence:
+  - id: INS-260325-8F49
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 GPTers demonstrates the practical ceiling of AI-augmented operations. Their agent Ppojjak handles: tracking members who haven't registered and sending SMS reminders, creating event thumbnails from descriptions, issuing coupons with full text message delivery, managing calendar entries, creating dashboards from partner contribution data, publishing lesson content with automated review loops, and handling CS handoffs with full context transfer.
 

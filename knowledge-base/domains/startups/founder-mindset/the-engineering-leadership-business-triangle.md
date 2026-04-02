@@ -51,5 +51,9 @@ related:
   - PRI-260321-7307
   - INS-260330-A3AF
   - INS-260329-AB9A
+evidence:
+  - id: INS-260323-784B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Bruce describes the 'triangle effect' of startup leadership: technology leadership (building the right thing), people leadership (hiring and motivating), and business leadership (finding customers, raising money, market positioning). Most technical founders overindex on technology and underinvest in the other two. His 9-year journey taught him that people skills and business acumen were the harder, more important competencies. The insight applies especially to repeat founders who can improve on all three dimensions with each venture.

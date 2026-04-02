@@ -44,7 +44,6 @@ stance: >-
   People develop passion for activities they become good at, rather than
   becoming good at things they are passionate about
 related:
-  - INS-260322-2B2D
   - INS-260325-95EB
   - INS-260325-636B
   - INS-260322-F128
@@ -54,6 +53,11 @@ related:
   - INS-260327-3A15
   - INS-260329-8868
   - INS-260329-88AB
+  - INS-260329-C66E
+evidence:
+  - id: INS-260322-2B2D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The cultural narrative of 'follow your passion' implies passion exists before skill, but Hormozi argues the causal arrow points the other direction. You develop passion for things you become proficient at because competence creates enjoyment, social validation, and flow states. This means the initial choice of what to pursue matters less than the willingness to push through the early incompetence phase where everything feels terrible.
 

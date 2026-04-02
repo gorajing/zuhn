@@ -54,10 +54,10 @@ stance: >-
   management.
 related:
   - INS-260323-6043
+  - INS-260402-71A7
   - INS-260323-6230
   - INS-260324-468C
   - INS-260320-A1D3
-  - INS-260327-94F5
 ---
 Paananen's founding insight came from observing that successful game companies tend to shift control from game developers to upper management over time, killing creative output. Supercell explicitly inverted this: individual game teams ('cells') own the vision, leadership exists to serve them, and the company name itself comes from these teams being 'super cells.'
 

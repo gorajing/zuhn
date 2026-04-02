@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-9115
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260321-2F43
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Game Neverending failed but its photo upload feature addressed a real 2002 problem (no easy photo sharing) and became Flickr, acquired by Yahoo for $20M. Glitch failed but its internal team communication tool addressed a real team problem and became Slack, acquired for $27B. In both cases, the founder's beloved product was the wrong bet — the accidental byproduct built to solve a genuine pain point was the real opportunity.
 

@@ -58,6 +58,7 @@ related:
   - PRI-260324-36BF
   - PRI-260328-7E58
   - INS-260322-0E41
+  - INS-260402-73D9
 stance: >-
   SaaS companies where seats are tied to work output (Zendesk) face existential
   risk from AI, those where seats are just a pricing trick unrelated to...

@@ -59,6 +59,19 @@ related:
   - INS-260325-E17F
   - INS-260322-2DBD
   - INS-260326-E5D3
+evidence:
+  - id: INS-260326-E5D3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-0E70
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-0961
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-DE7F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The standard assumption is that consciousness emerges from complex processing in brains. But Annaka Harris argues this assumption may be wrong — consciousness could be more like gravity, a basic feature of the universe that affects everything rather than arising only in special configurations of matter.
 

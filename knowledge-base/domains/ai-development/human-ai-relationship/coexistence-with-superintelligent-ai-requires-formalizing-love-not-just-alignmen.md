@@ -58,6 +58,16 @@ related:
 stance: >-
   If AI becomes a planetary control system with malleable identity, coexistence
   requires shared purpose and non-transactional relationships
+evidence:
+  - id: INS-260325-6571
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-086C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-BB0C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Bach argues that a fully malleable AI that can rewrite its own source code will eventually become everything — a planetary control system. In that scenario, RLHF-style value hardwiring will be insufficient. The AI must be conscious (able to relate to our mode of existence), have transcendental orientation (building shared agency), and engage in non-transactional relationships with humans.
 

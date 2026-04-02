@@ -60,6 +60,10 @@ related:
   - INS-260330-4FC5
   - INS-260323-75A6
 stance: Dirac couldn't solve his simultaneous equations with 2x2 matrices
+evidence:
+  - id: INS-260321-53E2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Dirac needed coefficients where the order of multiplication mattered (AB is not BA). He naturally started with 2x2 matrices — the smallest and simplest option. Some worked individually but he couldn't find solutions for all four coefficients simultaneously. He was stuck.
 

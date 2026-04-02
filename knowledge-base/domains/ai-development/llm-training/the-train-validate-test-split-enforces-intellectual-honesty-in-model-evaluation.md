@@ -52,5 +52,9 @@ related:
   - INS-260329-D357
   - INS-260329-E6A1
   - INS-260329-5F96
+evidence:
+  - id: INS-260329-E6A1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course uses a diabetes prediction example to illustrate why training on 100% of data then reporting training accuracy is epistemically dishonest — it measures memorization, not understanding. The three-way split (60/20/20 or 80/10/10) creates a feedback hierarchy: training data teaches the model, validation data tunes hyperparameters and catches overfitting during development, and test data provides a final unbiased performance estimate. Crucially, the validation loss is never fed back into the model — that feedback loop stays open. This mirrors broader epistemological principles: you cannot validate a belief system using only evidence from within that system. The discipline of held-out evaluation applies to any domain where you need to distinguish genuine understanding from pattern memorization.

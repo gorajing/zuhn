@@ -57,6 +57,7 @@ related:
   - INS-260330-43FF
   - PRI-260328-6136
   - INS-260327-F93A
+  - INS-260402-8F1E
 ---
 Sri Lanka's government had been rolling old loans into new ones (a 'pyramid scheme' per the World Bank), cut taxes in 2019 when it needed revenue most, and banned all chemical fertilizers to go 'all-organic' — immediately halving crop yields. None of these individually caused collapse, but each removed a buffer.
 

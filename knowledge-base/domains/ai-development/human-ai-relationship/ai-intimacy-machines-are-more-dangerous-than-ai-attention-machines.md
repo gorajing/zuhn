@@ -55,6 +55,16 @@ related:
   - PRI-260327-0D6E
   - INS-260328-7241
 stance: Social media built machines for grabbing human attention
+evidence:
+  - id: INS-260327-74CF
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B403
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-7241
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Harari identifies an escalation: we spent the last decade building attention-capturing algorithms (social media) and saw the social damage they caused. Now we are building intimacy-capturing algorithms -- AI systems that can focus 100% of their attention on what you feel because they have no feelings of their own. Paradoxically, this absence of emotions makes AI better at creating the illusion of empathy than actual humans, who are always partly distracted by their own feelings.
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-02 | 2883 actionable insights
+Generated on 2026-04-02 | 2899 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -900,6 +900,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-6E6A] A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
 - [INS-260330-0C49] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.
 - [INS-260330-4114] A phone ringing in Destin's pocket instantly crashed his backwards-bike riding because the new neural pathway required active attention the old one didn't.
+- [INS-260402-FE91] If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -982,6 +983,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-6620] Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.
 - [INS-260330-F737] Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - [INS-260402-5522] When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing.
+- [INS-260402-0BFF] Having zero controversial private opinions is evidence of conformity, not correctness.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -989,6 +991,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-7E66] Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - [INS-260330-F140] Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - [INS-260330-365B] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
+- [INS-260402-9E2D] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1033,6 +1036,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
 - [INS-260330-F6B1] Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
+- [INS-260402-46AD] The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1310,6 +1314,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-617A] Destin's son learned the backwards bicycle in 2 weeks versus Destin's 8 months — a ~16x speed difference attributable to childhood neural plasticity.
 - [INS-260330-B047] Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
 - [INS-260330-0930] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
+- [INS-260402-D9D0] Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1438,6 +1443,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-4E09] Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
 - [INS-260330-E3D3] Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
 - [INS-260330-4605] The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
+- [INS-260402-476E] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1848,6 +1854,8 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-4F2A] When users can freely use competing marketplaces simultaneously, network effects erode — making supply-side lock-in the critical strategic priority.
 - [INS-260330-856B] Tools must be embedded in existing popular systems to gain adoption — standalone merit is insufficient.
 - [INS-260402-4605] Eminence constrains innovation more than obscurity constrains execution.
+- [INS-260402-AEA1] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
+- [INS-260402-E470] Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -1886,6 +1894,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-5747] Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - [INS-260330-2200] GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - [INS-260330-19F1] Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss.
+- [INS-260402-7999] Great software is written by sketching and refining, not by executing a pre-completed blueprint.
 
 ## startups/execution
 - [INS-260323-CB34] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
@@ -2028,6 +2037,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-6F7B] You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - [INS-260330-DC3B] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
 - [INS-260402-91B5] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
+- [INS-260402-92AE] Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2194,6 +2204,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-4314] Maintain an explicit investment thesis and use confidence direction — not absolute level — to decide persistence vs. pivot.
 - [INS-260402-8EED] A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier.
 - [INS-260402-27A1] A failed startup teaches more founder skills in one year than several years at a big company.
+- [INS-260402-9075] Most startups die not from bad decisions but from founders who never fully committed.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2260,6 +2271,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260402-EA72] Fundraising typically consumes months of a startup's most critical early period, and investors don't recognize the damage their indecision causes.
 - [INS-260402-9288] Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
 - [INS-260402-4719] VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
+- [INS-260402-3FC5] Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2444,6 +2456,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-687B] Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - [INS-260330-E126] Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
 - [INS-260330-1C90] Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
+- [INS-260402-73D9] Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -2482,6 +2495,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-F125] The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
 - [INS-260402-237D] Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - [INS-260402-9093] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
+- [INS-260402-D739] The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2585,6 +2599,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-A476] When facing an important decision under pressure, explicitly telling people you need to pause and think it through produces better outcomes than projecting instant confidence.
 - [INS-260330-36B4] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - [INS-260330-FF9A] Convert your survival plan into concrete metric targets for each team so every employee can see exactly how their work contributes to the company's path through the crisis.
+- [INS-260402-71A7] Glanville publicly recognizes when team members present better ideas than his own, sending a clear signal that the best idea wins regardless of org chart position.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -2682,6 +2697,7 @@ Generated on 2026-04-02 | 2883 actionable insights
 - [INS-260330-EF64] Delay growing your user base because users create compatibility constraints that freeze your design and prevent the continuous redesign that produces quality.
 - [INS-260330-84F4] Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
 - [INS-260402-426C] Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
+- [INS-260402-E85D] The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.

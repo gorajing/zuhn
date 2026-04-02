@@ -58,5 +58,9 @@ related:
   - INS-260327-30E4
   - INS-260328-3446
   - INS-260329-0320
+evidence:
+  - id: INS-260322-CCE8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Rajaram draws a sharp line between bolt-on AI (adding GPT-powered features to existing UX) and AI-native rebuilds (reimagining every interaction). The key test: does AI change the experience and economics, or just improve the margin? Example: document processing. Six months ago you couldn't reliably extract structured data from unstructured legal contracts. Now you can. So document upload should instantly surface insights while the user uploads, not follow the same old upload flow. Companies must re-evaluate every single interaction and ask 'what has changed?' But model capabilities improve every 6 months, so roadmaps longer than that get blown up by the next model generation. Companies like Intercom and Podium that burned bridges on legacy products and built AI-native replacements grew to $100M+ in just a couple years.

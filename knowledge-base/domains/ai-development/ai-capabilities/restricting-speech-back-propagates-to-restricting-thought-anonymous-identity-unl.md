@@ -55,6 +55,7 @@ related:
   - INS-260330-E77D
   - INS-260330-C6A2
   - INS-260330-22F0
+  - INS-260402-116A
 stance: >-
   Social pressure on speech creates invisible constraints on thinking itself —
   anonymous communication can unlock broader parameter spaces of thought.

@@ -59,6 +59,10 @@ related:
   - INS-260329-4020
   - INS-260329-55D8
   - INS-260329-563F
+evidence:
+  - id: INS-260320-9937
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Rather than agonizing over the 'right' price before having any customers, Hormozi advocates a graduated approach: start at zero, then raise the price after each cohort. Customer 1-2 are free, customers 3-5 pay a low price, customers 6-10 pay more, and so on. Each price increase is justified by the growing body of proof (testimonials, case studies, results) from previous customers.
 

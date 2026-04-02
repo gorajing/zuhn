@@ -60,5 +60,8 @@ evidence:
   - id: INS-260327-D8D1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-2AE2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Severance frames the entire course not as 'learn Python syntax' but as a perspective shift: 'I want to turn this around, and I want you to be the person inside this looking out at the world.' The goal is moving someone from seeing technology as something built by others to seeing themselves as a builder. This identity shift has compounding effects — once someone sees themselves as a creator, they approach every system with 'I could build or modify this' rather than 'I must accept this as given.' In the AI era, this same identity shift applies to prompting and agent design: the gap between AI consumers and AI creators is not technical skill but the belief that you can shape AI behavior. Leaders who facilitate this identity shift in their teams unlock far more capability than those who merely train specific tools.

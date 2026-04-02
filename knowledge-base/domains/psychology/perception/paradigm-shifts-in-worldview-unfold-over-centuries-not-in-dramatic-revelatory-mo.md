@@ -50,5 +50,9 @@ related:
   - PRI-260328-9FB6
   - INS-260325-415A
   - INS-260330-C7CB
+evidence:
+  - id: INS-260327-684D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Seager draws a parallel between the potential discovery of extraterrestrial life and the Copernican revolution. There was no single moment when everyone agreed that the Earth orbits the Sun — it took centuries of gradual acceptance. This challenges the Hollywood narrative of dramatic paradigm shifts. The same pattern applies to how transformative ideas are adopted in any domain: AI's impact on work, climate change reality, fundamental shifts in business models. The insight for anyone trying to drive paradigm shifts is that acceptance is generational, not event-driven. Planning for adoption timelines measured in decades rather than product cycles is more realistic.

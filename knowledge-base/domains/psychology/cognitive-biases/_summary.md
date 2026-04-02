@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 210 insights
+> 213 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -131,11 +131,14 @@
 - `INS-260330-41DB` [high] Ancient Greeks knew Earth was round 2000+ years before Columbus; the flat Earth myth was a 19th-century invention that became 'common knowledge' through repetition.
 - `INS-260330-3DB2` [high] Ancient Greeks knew Earth was round 2000+ years before Columbus — the myth that he proved it was invented in the 1800s to create a progress narrative.
 - `INS-260330-4FA3` [high] Medieval educated people already knew Earth was spherical; the Columbus-proved-it-round story was invented in the 1800s by Washington Irving.
+- `INS-260402-0BFF` [high] Having zero controversial private opinions is evidence of conformity, not correctness.
 - `INS-260330-0F04` [high] Swapping the actor in a scenario while keeping the action identical exposes tribally-motivated reasoning.
+- `INS-260402-A999` [high] People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality.
 - `INS-260327-B0F2` [high] Orwell's deepest warning: the desire to be seen as good is the most effective way to stop actually being good, because performance replaces substance.
 - `INS-260325-E84D` [high] Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260327-4367` [high] The people most confident in their opinions are statistically likely to be the least informed, while genuine experts are plagued by awareness of how much they don't know.
 - `INS-260325-622D` [high] Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
+- `INS-260402-D534` [high] Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
 - `INS-260330-5263` [high] The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
 - `INS-260330-7ABB` [high] Two things don't have to literally match for our brains to see a connection — the 'law of near enough' plus selection and confirmation bias make any vague prediction seem prophetic.
 - `INS-260330-9FA5` [high] The Mandate of Heaven explained dynastic change through moral failure, creating an unfalsifiable narrative that persisted for 3,000 years.

@@ -62,5 +62,8 @@ evidence:
   - id: INS-260326-E0CB
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-2785
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The team faced inconsistent bullet collisions and had to methodically investigate multiple variables: gun vibration (a loose elevation nut moving during firings), powder consistency (long vs. short cartridges creating different burn patterns), bullet jump distance (gap between bullet and rifling), and timing synchronization. They initially got overconfident after early success, then 'got frustrated' and 'started missing things several times.' The breakthrough came from turning the high-speed camera on their own equipment to analyze variables they hadn't considered. This is directly analogous to debugging complex software systems: when behavior is inconsistent, the bug is usually in an assumption you haven't questioned, not in the code you're staring at. The loose nut on the 'datum' gun — the one they assumed was stable — is a perfect metaphor for bugs in the part of the system you trust most.

@@ -58,6 +58,10 @@ related:
   - INS-260329-0CDD
   - INS-260329-D1B0
   - INS-260330-5B0C
+evidence:
+  - id: INS-260329-0CDD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Hormozi extends the commonly cited Harvard study about the 'five people you spend the most time with' — the actual finding was about the five people you compare yourself to, which is a different and more powerful claim. He pushes further: it's really about the people you want to impress, because those are the voices in your head during major decisions.
 

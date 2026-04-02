@@ -59,6 +59,10 @@ related:
   - INS-260330-E990
   - INS-260330-86A7
 stance: Einstein showed that gravity is not a force at all
+evidence:
+  - id: INS-260323-2D1D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Newton described gravity as a force between masses. Einstein replaced this with a fundamentally different model: mass warps spacetime, and objects follow the straightest possible path through that curved geometry. Two people walking north from the equator converge not because a force pulls them together, but because Earth's surface is curved. Gravity works the same way — there is no force, only geometry.
 

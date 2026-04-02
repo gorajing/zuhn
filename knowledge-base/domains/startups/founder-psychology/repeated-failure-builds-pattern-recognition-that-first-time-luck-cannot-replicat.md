@@ -49,7 +49,7 @@ related:
   - PRI-260323-1B96
   - INS-260327-643E
   - INS-260323-19A8
-  - INS-260327-8254
+  - INS-260402-D739
   - INS-260329-ECB5
   - INS-260330-30CE
   - INS-260330-CD65
@@ -57,6 +57,10 @@ related:
 stance: >-
   Investors who back founders with 3-4 failures are buying battle-tested pattern
   recognition that lucky first-timers never develop.
+evidence:
+  - id: INS-260330-30CE
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Eman Venture Labs explicitly prefers founders who have failed three or four times because each failure compresses the learning curve toward success. The 95% startup failure rate means most founders will fail — the question is whether they extract signal from that failure.
 

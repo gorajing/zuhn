@@ -59,6 +59,13 @@ related:
 stance: >-
   In the AI era, the core educational skill shifts from producing correct
   answers to evaluating whether answers are correct.
+evidence:
+  - id: INS-260329-6004
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-70DF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Po-Shen Loh's formulation is sharp: 'People used to go to school to learn how to do the homework and do the exams. Today, everyone needs to learn how to grade the homework.' This captures the fundamental skill inversion that AI creates.
 

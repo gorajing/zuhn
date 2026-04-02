@@ -57,6 +57,16 @@ related:
 stance: >-
   Enterprise resource planning requires SOC-2 compliance, multi-currency
   handling, legal review, and ongoing maintenance
+evidence:
+  - id: INS-260329-903B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9C11
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-A653
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The claim that AI coding will let companies 'build their own Salesforce' ignores everything about enterprise software beyond code generation. SAP and similar ERP systems involve: interconnected databases requiring specific server hardware, SOC-2 compliance audits by accountancy firms, multi-currency handling (does the model know the French franc no longer exists?), legal liability when customers' money touches the system, and years of ongoing maintenance.
 

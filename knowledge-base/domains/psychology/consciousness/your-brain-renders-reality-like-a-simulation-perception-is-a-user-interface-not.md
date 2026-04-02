@@ -52,6 +52,13 @@ related:
   - INS-260325-0E70
   - INS-260330-6D5C
 stance: The brain is not recording reality
+evidence:
+  - id: INS-260326-E7BE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-0E70
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Donald Hoffman's user interface theory describes perception as an evolutionary design meant for survival rather than accuracy. Your senses do not reveal reality — they hide it behind icons useful enough to keep you alive. The brain processes billions of signals per second, sorting chaos into order and randomness into patterns, translating everything into a 3D hallucination that is just consistent enough to work.
 

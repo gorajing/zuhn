@@ -56,5 +56,8 @@ evidence:
   - id: INS-260322-B33E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260321-8567
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Anna Goldie studied linguistics and computer science at MIT, joined Google on AI benchmarking, shifted to deep learning when it started outpacing rule-based systems, and eventually co-led AlphaChip — applying RL to chip design with only 20 training examples. Each career move was driven by curiosity, not a strategic plan. The AlphaChip breakthrough specifically required someone who understood both ML and could appreciate the chip design problem space. This kind of novel intersection almost never emerges from optimized career planning.

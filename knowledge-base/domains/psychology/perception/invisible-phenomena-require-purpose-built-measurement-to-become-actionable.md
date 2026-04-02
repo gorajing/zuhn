@@ -56,6 +56,7 @@ related:
   - PRI-260323-2E5A
   - INS-260330-AB5D
   - INS-260323-D400
+  - INS-260402-E994
 ---
 The team suspected the baseball was supersonic based on sound and destruction, but couldn't confirm it or measure the Mach number until they set up Schlieren photography — a specialized optical technique that makes density changes in air visible. The Schlieren image revealed the detached bow shock and Mach cone angle, which provided both confirmation and precise velocity data. The 'indisputable two stick method' (measuring time between two known positions at 28,500 fps) gave a second independent verification.
 

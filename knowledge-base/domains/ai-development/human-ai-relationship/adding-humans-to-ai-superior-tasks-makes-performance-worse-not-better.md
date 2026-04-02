@@ -43,11 +43,17 @@ stance: >-
   produces medium-sized performance losses rather than gains.
 related:
   - INS-260321-3C8A
-  - INS-260320-E683
   - INS-260325-3EF4
   - INS-260325-4793
   - INS-260325-19E9
   - INS-260325-3223
   - INS-260323-F853
+evidence:
+  - id: INS-260325-3223
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-F853
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The relative performance of human and AI alone is the most powerful predictor of collaboration success. When humans are the stronger partner (g = +0.46, medium effect), they can intelligently select when to trust AI vs their own judgment. When AI is stronger (g = -0.54, medium effect), humans lack the meta-cognitive ability to know when to defer — they either overrely on AI suggestions as anchors or ignore them from automation aversion. This creates a paradox: the tasks where AI adds the most value are precisely the ones where human oversight is most likely to be harmful.

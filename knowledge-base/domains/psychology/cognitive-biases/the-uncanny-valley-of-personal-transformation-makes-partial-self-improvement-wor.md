@@ -56,6 +56,10 @@ related:
   - INS-260323-E81D
   - INS-260325-537A
   - INS-260323-99E0
+evidence:
+  - id: INS-260323-99E0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Every few months, bright nerds in San Francisco try to 'hack' themselves into becoming charismatic and persuasive, and the attempt almost invariably backfires. The problem is selection bias in techniques: methods that make you feel transformed are far more common than methods that actually transform you. And the most dangerous self-improvement parasites hijack your ability to distinguish real change from performed change.
 

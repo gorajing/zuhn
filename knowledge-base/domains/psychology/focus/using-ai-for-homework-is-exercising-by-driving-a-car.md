@@ -52,6 +52,13 @@ related:
   - PRI-260323-C49D
   - INS-260323-5D6D
   - INS-260327-DF8B
+evidence:
+  - id: INS-260322-5A0F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-DAA1
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Loh's analogy is devastatingly clear: using AI to do school writing is like driving a car for exercise. The output (traveling a mile) is achieved, but the purpose (building physical fitness) is completely defeated. School assignments exist not to produce the output but to develop the student's cognitive capabilities.
 

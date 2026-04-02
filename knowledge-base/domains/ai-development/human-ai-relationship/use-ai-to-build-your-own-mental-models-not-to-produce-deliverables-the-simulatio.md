@@ -61,6 +61,13 @@ related:
 stance: >-
   The highest-value use of AI is building richer internal world models for
   better decision-making, not outsourcing output production.
+evidence:
+  - id: INS-260323-FEDF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-30E4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Po-Shen Loh describes his AI usage pattern: when curious about Nashville's country music performance scene, he didn't ask AI to write a report. He asked for links, background on specific venues, competitive dynamics of getting performance spots — all to build a richer mental simulation of that world. The AI fed his understanding; he drew his own conclusions.
 

@@ -51,6 +51,13 @@ related:
 stance: >-
   In the AGI era, the critical skill shifts from executing tasks to evaluating
   outputs — from doing the homework to grading it.
+evidence:
+  - id: INS-260330-C4F1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F04B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The traditional education model trained people to perform tasks: solve problems, write essays, produce outputs. AI now handles execution at superhuman levels. The new bottleneck is evaluation — can you assess whether AI output is correct, complete, and aligned with the actual goal?
 

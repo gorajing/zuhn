@@ -62,5 +62,9 @@ related:
   - INS-260330-FE21
   - INS-260330-3737
   - INS-260330-3ADD
+evidence:
+  - id: INS-260330-3ADD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The 1960s survey team that discovered Göbekli Tepe's megaliths dismissed them as Byzantine remains because their training told them fine stonework couldn't exist in the Stone Age. It took Klaus Schmidt — who approached with different assumptions — to recognize the site's true significance. Similarly, the Alvarez asteroid impact hypothesis for dinosaur extinction came from a physicist and his geologist son, not paleontologists. Hancock himself, as a journalist rather than archaeologist, notices patterns in cross-cultural mythology that specialists studying single civilizations wouldn't connect. This maps to a general principle: expertise creates powerful but constraining perceptual frameworks. The same phenomenon explains why industry disruption typically comes from outsiders (Airbnb founders weren't hoteliers, Tesla wasn't founded by auto executives). The practical application is to deliberately seek perspectives from outside your domain when evaluating anomalous data, and to be suspicious when experts dismiss evidence primarily by saying 'that can't be right' rather than explaining why the specific data is wrong.

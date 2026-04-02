@@ -56,6 +56,10 @@ related:
   - PRI-260324-3B70
   - INS-260321-8C35
   - INS-260330-4DC5
+evidence:
+  - id: INS-260321-8C35
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Flat Earth theory requires separate ad-hoc explanations for why gravity works as observed, why time zones exist, why satellites appear to orbit, why ships disappear bottom-first at the horizon, and why circumnavigation works. Each individual patch might be remotely plausible in isolation, but requiring five or more independent patches is a strong signal of a fundamentally broken model.
 

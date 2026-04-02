@@ -59,6 +59,7 @@ related:
   - INS-260324-92E9
   - INS-260327-2BE1
   - INS-260321-B7CB
+  - INS-260402-92AE
 ---
 Nota's trajectory is a masterclass in timing endurance. Founded in 2015 around AI model lightweighting, they ran four beta services with cold market reception ('Do I really have to pay money to use it?'). The CEO describes 2022-2023 as the hardest period -- after making the product and feeling the market's indifference.
 

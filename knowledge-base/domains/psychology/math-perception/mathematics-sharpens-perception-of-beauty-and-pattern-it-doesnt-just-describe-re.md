@@ -64,6 +64,12 @@ evidence:
   - id: INS-260329-5427
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-1B9A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-8567
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Frenkel argues that mathematics 'explores the mind as much as it explores the physical world' and that learning mathematics 'makes our perception more sophisticated, our ability to perceive things such as beauty.' Just as understanding that Earth is round rather than flat expanded what was thinkable, mathematical concepts expand the space of patterns you can perceive. His 15-year-old self was converted to mathematics the moment he saw that the elementary particles he loved in physics had deep mathematical structures (representation theory of SU(3)) underlying them.
 

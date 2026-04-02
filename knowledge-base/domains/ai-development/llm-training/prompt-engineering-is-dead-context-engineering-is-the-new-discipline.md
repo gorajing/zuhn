@@ -54,6 +54,10 @@ related:
   - INS-260327-79E8
   - INS-260328-3446
 stance: The game has shifted from crafting clever prompts to context engineering
+evidence:
+  - id: INS-260328-3446
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In 2022, the prevailing belief was that prompt engineering wouldn't even be necessary — scaling laws would make models smart enough to mind-meld with users. That was wrong. But the field has evolved beyond basic prompt engineering into context engineering.
 

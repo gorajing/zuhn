@@ -51,6 +51,10 @@ related:
 stance: >-
   Filter for keywords under 10 difficulty with 1000+ monthly volume to find
   rankable free tool opportunities.
+evidence:
+  - id: INS-260320-9937
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The 7-step playbook: (1) Go to Ahrefs keywords explorer with blank search, (2) Add include filters for your niche terms like 'AI generator', (3) Filter keyword difficulty to under 10, (4) Set minimum volume to 1000, (5) List keywords in Notion with volume and KD, (6) Plan CTAs connecting each tool to your main product, (7) Prioritize by high volume + low KD + easy to build + high relevance.
 

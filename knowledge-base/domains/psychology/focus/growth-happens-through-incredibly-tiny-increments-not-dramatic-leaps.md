@@ -52,6 +52,10 @@ related:
   - PRI-260328-4313
   - INS-260325-C8D5
   - INS-260330-4AD5
+evidence:
+  - id: INS-260330-4AD5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Burkeman's practical method for overcoming intimidation is to ask: what version of this am I willing to do in this moment? If speaking to 1,000 people is terrifying, what about 10? If 10 is still too much, what about 3? There is almost always some level at which the next step becomes acceptable.
 

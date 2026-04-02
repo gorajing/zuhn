@@ -53,6 +53,10 @@ related:
   - INS-260330-FFAB
   - INS-260327-1AD8
   - INS-260325-CE25
+evidence:
+  - id: INS-260327-684D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kipping identifies a fundamental asymmetry in the search for extraterrestrial life: a single confirmed detection would answer the question, but no amount of negative results can prove we are alone. Even on the nearest planet, Mars, we can never check behind every rock, under every surface, inside every canyon.
 

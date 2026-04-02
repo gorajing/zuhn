@@ -46,6 +46,10 @@ related:
   - INS-260322-683B
   - INS-260323-47D8
   - INS-260327-A40E
+evidence:
+  - id: INS-260323-47D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Products durable enough to be passed between generations create brand loyalty that spans lifetimes because each generation associates the brand with family memory and tradition.
 

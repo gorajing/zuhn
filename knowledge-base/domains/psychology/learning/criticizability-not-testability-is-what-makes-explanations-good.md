@@ -57,6 +57,10 @@ related:
   - INS-260330-984C
   - INS-260329-B6A6
   - INS-260330-C172
+evidence:
+  - id: INS-260325-FA86
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Deutsch refines Popper's falsificationism: testability matters enormously in science, but the more general principle is criticizability. A good explanation is one that meets all criticisms currently available, has no viable rivals, and is hard to vary — meaning you can't swap out components without destroying the explanation. Testability is the gold standard within science, but even pre-testable theories (like Constructor Theory) can be evaluated as good or bad explanations based on whether they immunize themselves against criticism.
 

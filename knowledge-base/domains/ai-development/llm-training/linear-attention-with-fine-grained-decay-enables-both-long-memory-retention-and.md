@@ -56,6 +56,19 @@ related:
   - INS-260322-E90F
   - INS-260330-5F6C
   - INS-260330-2304
+evidence:
+  - id: INS-260329-A45D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-E90F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-5F6C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-2304
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Standard linear attention uses a single global decay factor, forcing a binary choice: either forget everything (no long-range memory) or retain everything (no ability to refresh with new information). KimiLinear introduces a diagonal matrix of per-channel decay rates, allowing some channels to decay slowly for long-context retention while others decay quickly to absorb new information.
 

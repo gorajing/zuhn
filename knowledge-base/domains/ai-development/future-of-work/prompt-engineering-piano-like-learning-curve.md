@@ -52,6 +52,19 @@ resolutions:
 stance: >-
   Prompt engineering is like playing piano — you can't just sit down and start;
   it requires practice and iteration to develop the skill.
+evidence:
+  - id: INS-260323-01A1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-7157
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-0982
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5DA6
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 Dario Amodei compares prompt engineering to playing piano: you can't

@@ -64,6 +64,19 @@ related:
 stance: >-
   The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus
   2x10^13 bytes of all internet text used to train LLMs
+evidence:
+  - id: INS-260330-189F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-CB82
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DF8B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B85B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 LeCun makes a striking quantitative argument: all the text on the internet that LLMs train on is roughly 2x10^13 bytes. It would take 170,000 years of reading 8 hours a day to get through it. But a 4-year-old who has been awake for only 16,000 hours has received approximately 10^15 bytes through their visual cortex alone -- 50x more data than the entire training set of the most powerful LLMs.
 

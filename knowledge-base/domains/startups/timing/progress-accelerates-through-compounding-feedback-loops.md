@@ -56,6 +56,10 @@ related:
   - PRI-260328-D292
   - INS-260330-30AB
   - PRI-260328-BF67
+evidence:
+  - id: INS-260325-3CB5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Crawford explains that progress over human history follows an accelerating pattern, not a constant growth rate. The mechanism is feedback loops: when a technology is fundamental enough, it improves the process of making more progress. The early Industrial Revolution illustrates this perfectly — coal, steam power, iron, and locomotives all reinforced each other. Coal powered steam engines that manufactured iron that built locomotives that transported coal and iron.
 

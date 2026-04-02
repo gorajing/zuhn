@@ -66,6 +66,21 @@ evidence:
   - id: INS-260329-0117
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-5AF9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-7B56
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-8BFC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D432
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-2838
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The speaker demonstrates this by showing his LinkedIn bio -- a polished narrative of progressive career success -- then revealing the messy reality: crying before his first day, periods of misery, collecting unemployment, and multiple career dead ends. The LinkedIn version isn't false, but it's rife with two biases that make it unteachable.
 

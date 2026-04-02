@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-41A9
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-0392
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The conventional wisdom held that AI would first replace low-skilled physical labor, then low-skilled white-collar work, then high-skilled programming, and finally creative jobs. The actual sequence was reversed: copywriters, designers, customer service, legal drafting, and medical diagnosis were disrupted before warehouse workers or construction crews.
 

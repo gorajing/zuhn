@@ -59,6 +59,15 @@ evidence:
   - id: INS-260321-2482
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-0A55
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F635
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-5A2F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The lecture's core analogy — programming as giving instructions to a 'less than intelligent friend' who speaks a different language — reveals a fundamental learning barrier. New programmers anthropomorphize computers, expecting them to 'understand' what they mean rather than what they literally wrote. This mental model mismatch causes the majority of beginner frustration.
 

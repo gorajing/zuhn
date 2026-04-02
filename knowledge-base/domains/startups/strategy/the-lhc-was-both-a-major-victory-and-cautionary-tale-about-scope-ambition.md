@@ -56,6 +56,10 @@ related:
 stance: >-
   The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old
   prediction) but failed to find supersymmetry, becoming a cautionary ...
+evidence:
+  - id: INS-260321-28FB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Randall describes the LHC as a dual outcome: a major victory in discovering the Higgs boson, but also a cautionary tale. The cancelled US Superconducting Super Collider would have had higher energy reach for more comprehensive discovery. Many physicists assumed supersymmetry was a certainty, making the LHC seem sufficient. When supersymmetry was not found, the field was left without the next-generation tool it needed.
 

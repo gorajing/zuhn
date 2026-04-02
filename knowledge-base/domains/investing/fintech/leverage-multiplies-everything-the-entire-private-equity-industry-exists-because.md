@@ -62,6 +62,10 @@ related:
 stance: >-
   A $200K down payment on a $1M house that appreciates 10% yields a 50% return
   instead of 10%
+evidence:
+  - id: INS-260321-2F43
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Srivatsaa demonstrates leverage with a simple example: buying a $1M house all-cash and getting 10% appreciation = 10% return. Buying with $200K down and $800K loan on the same house = 50% return on your capital. This multiplier effect created the entire private equity industry and commercial real estate investing.
 

@@ -53,5 +53,12 @@ related:
   - PRI-260328-C006
   - PRI-260327-0D6E
   - INS-260323-3F39
+evidence:
+  - id: INS-260325-922D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-767B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Two principles converge: the AI principle that frontier AI integration into information infrastructure creates structural threats no previous technology posed, and the psychology principle that algorithmic intermediaries are already replacing human epistemic autonomy at population scale. The synthesis: the AI safety community frames autonomy loss as a future risk from superintelligence, but algorithmic curation has already achieved partial epistemic capture — people's beliefs about politics, health, relationships, and reality are mediated by recommendation engines they don't control or understand. Frontier AI doesn't create this problem; it completes it. The practical implication is that AI safety research should study existing algorithmic curation effects as the current manifestation of the threat, not just model hypothetical superintelligence scenarios.

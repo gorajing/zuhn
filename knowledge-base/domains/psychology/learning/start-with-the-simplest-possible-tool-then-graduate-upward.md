@@ -56,5 +56,8 @@ evidence:
   - id: INS-260327-F608
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-D3F5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The instructor explicitly recommends beginners use Notepad or TextEdit rather than VS Code or Atom for learning HTML, despite those editors being objectively better tools. The reasoning is that a feature-rich editor introduces its own learning curve (themes, plugins, configuration) that competes for cognitive bandwidth with the actual subject matter. This mirrors a broader pedagogical principle: when learning a new domain, minimize environmental complexity so all cognitive load goes toward the core skill. The 'graduate upward' pattern — start with the bare minimum, then add sophistication once fundamentals are internalized — prevents the common trap of confusing tool mastery with subject mastery. A student configuring Atom themes isn't learning HTML.

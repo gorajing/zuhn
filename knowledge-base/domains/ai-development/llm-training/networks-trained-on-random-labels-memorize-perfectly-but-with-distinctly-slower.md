@@ -59,6 +59,10 @@ related:
   - INS-260329-5901
   - INS-260329-3D3E
   - INS-260323-584D
+evidence:
+  - id: INS-260329-5901
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 A key experiment showed that deep networks with millions of parameters can achieve perfect training accuracy on randomly-labeled data — pure memorization with no generalizable structure. However, the accuracy curve for random data descends slowly and almost linearly, while structured data produces a sharp initial drop to high accuracy.
 

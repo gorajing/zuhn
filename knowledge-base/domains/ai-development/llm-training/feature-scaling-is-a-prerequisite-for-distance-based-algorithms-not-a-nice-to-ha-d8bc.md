@@ -61,6 +61,25 @@ related:
   - INS-260325-03D5
   - INS-260329-9927
   - INS-260330-E4AD
+evidence:
+  - id: INS-260329-4870
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4109
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-CBF6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-03D5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-9927
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E4AD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The course explicitly demonstrates that algorithms computing distances between data points - KNN, SVM, K-Means, and neural networks - require feature scaling (normalization or standardization) as a mandatory preprocessing step. Without it, a feature measured in thousands (like income) will completely dominate a feature measured in single digits (like number of children), regardless of which feature actually matters for prediction.
 

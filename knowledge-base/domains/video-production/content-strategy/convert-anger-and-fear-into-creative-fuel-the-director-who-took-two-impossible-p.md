@@ -60,6 +60,10 @@ related:
 stance: >-
   When a colleague's casual remark about her 'declining directing skills'
   triggered depression, she channeled the resulting anger into accepting two ...
+evidence:
+  - id: INS-260322-F6B5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Yoon Seung-rim was already in psychological counseling for anxiety and depression when a close cinematographer casually said over drinks that staff were worried she was 'coming down.' The remark triggered a spiral — fear that her directing skills really were declining, that opportunities would dry up. But within that fear, anger surged: 'You're telling me my directing skills are ending?'
 

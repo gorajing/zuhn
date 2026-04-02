@@ -56,6 +56,10 @@ related:
   - INS-260329-B0BA
   - INS-260329-563F
   - INS-260329-AAD1
+evidence:
+  - id: INS-260320-9937
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Adora describes an 'honesty curve' where your mom will always praise your product, friends will be somewhat honest, and random free users won't bother giving real feedback. But when money is involved, the curve inverts: your mom feels guilty criticizing something she paid for, but random paying customers will absolutely tell you if they didn't get their money's worth.
 

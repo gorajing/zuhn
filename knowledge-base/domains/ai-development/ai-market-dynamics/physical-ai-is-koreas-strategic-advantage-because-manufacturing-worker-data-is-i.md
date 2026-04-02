@@ -59,6 +59,9 @@ evidence:
   - id: INS-260322-7282
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-E670
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 ChatGPT was trained on publicly available internet text and images. Physical AI (robots, autonomous systems) needs movement data that doesn't exist on the internet -- it must be created. American robots are trained by random part-time workers, but manufacturing robots need skilled workers' movement data: welding, assembly, precision tasks.
 

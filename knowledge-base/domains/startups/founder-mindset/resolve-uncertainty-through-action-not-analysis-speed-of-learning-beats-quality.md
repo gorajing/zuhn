@@ -61,6 +61,10 @@ related:
 stance: >-
   In high-uncertainty environments, executing quickly to gather real information
   beats prolonged analysis.
+evidence:
+  - id: INS-260327-BE4E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Pensive founder left a 10-year career at a recognized Korean educational institution to go to the US because he concluded that 'resolving uncertainty quickly is much more important than feeling anxious about it.' This manifested in concrete behaviors: going to meet property managers during rainstorms, waking at 5 AM to source food market ingredients, building and killing products in rapid succession.
 

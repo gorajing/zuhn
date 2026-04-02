@@ -57,11 +57,10 @@ related:
   - INS-260329-7255
   - INS-260329-AA2C
   - INS-260329-CD02
-  - INS-260330-9D44
   - INS-260330-F7B2
   - INS-260330-F08F
+  - INS-260402-5242
   - PRI-260321-14D8
-  - PRI-260328-9F8C
 ---
 When Jawbone combined hardware and software teams, it created significant friction: software teams were accustomed to rapid iteration and A/B testing, while hardware teams needed 16-week tooling cycles with no room for hacking. Rather than letting each team work in isolation, Rahman forced the friction to be productive. Hardware teams learned to move faster, and software teams learned to resolve experience decisions before shipping rather than just throwing things out and testing.
 

@@ -61,6 +61,13 @@ related:
   - INS-260330-53A9
   - INS-260330-54ED
   - INS-260330-488B
+evidence:
+  - id: INS-260320-901C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-5818
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rather than evolving a more efficient carbon-fixation enzyme, plants took the opposite approach: they produce staggering quantities of RuBisCo (estimated 40 billion tons globally at any given time), making it the most abundant protein on Earth. The per-unit efficiency is terrible, but the aggregate output sustains all plant life.
 

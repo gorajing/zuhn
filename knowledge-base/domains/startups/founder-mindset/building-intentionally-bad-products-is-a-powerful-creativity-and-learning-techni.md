@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-1B82
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260320-F78E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Giertz built her career on intentionally building robots that fail hilariously. This wasn't just comedy - it was a learning strategy. When the goal is 'make something that fails in an interesting way,' perfectionism paralysis disappears. You explore freely, learn from failures that are celebrated rather than feared, and develop mechanical intuition faster than formal engineering education provides.
 

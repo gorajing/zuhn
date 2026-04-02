@@ -55,6 +55,13 @@ related:
   - PRI-260323-2FEE
   - PRI-260328-1D0B
   - PRI-260321-14D8
+evidence:
+  - id: INS-260323-0865
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-3798
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In software, AI predictions can be verified near-instantly through compilers and unit tests, which is why AI has been so transformative there. But in experimental sciences like materials science, verifying a single AI-generated hypothesis about a new material system requires physical synthesis, characterization, and testing — processes that take days to months.
 

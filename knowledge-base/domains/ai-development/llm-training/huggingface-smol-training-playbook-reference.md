@@ -75,6 +75,10 @@ resolutions:
 stance: >-
   The Smol Training Playbook is the most comprehensive open guide for full LLM
   training pipelines
+evidence:
+  - id: INS-260330-2B45
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 The Smol Training Playbook by HuggingFaceTB is the most comprehensive

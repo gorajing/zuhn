@@ -48,5 +48,6 @@ related:
   - PRI-260328-C918
   - INS-260326-870E
   - INS-260320-8688
+  - INS-260402-B065
 ---
 Schultz argues startups should not have growth teams. The whole company should be the growth team with the CEO as head of growth. A single North Star metric creates alignment so autonomous decisions optimize for the right thing. Zuckerberg chose monthly active users over registered users. WhatsApp chose messages sent. Airbnb chose nights booked. eBay chose gross merchandise volume over revenue. The choice of which correlated metric to elevate shapes culture and decision-making at the margin.

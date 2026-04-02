@@ -58,6 +58,10 @@ related:
 stance: >-
   Offer lifetime free access at launch to generate initial downloads and App
   Store reviews, then turn on paid ads only after you have social proof an...
+evidence:
+  - id: INS-260320-9937
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Arthur's launch sequence was deliberate: first offer the app completely free with lifetime pro access to seed downloads and reviews. He got 900 downloads, 8 ratings (4/5 average), and organic traffic from WeChat, Reddit, and app referral sites — all before spending a dollar on ads. Only after establishing this base did he turn on TikTok ads.
 

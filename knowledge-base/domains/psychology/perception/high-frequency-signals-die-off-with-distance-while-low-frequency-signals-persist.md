@@ -55,6 +55,13 @@ related:
   - INS-260325-40DC
   - INS-260330-C8B4
   - INS-260329-D8BC
+evidence:
+  - id: INS-260329-D8BC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-8407
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The video draws an explicit analogy between ocean waves and sound: just as you can hear the bass but not the treble when walking away from a concert, ocean storms produce waves across many frequencies but only the low-frequency swell survives hundreds of miles of travel. High-frequency wind waves dissipate their energy more quickly.
 

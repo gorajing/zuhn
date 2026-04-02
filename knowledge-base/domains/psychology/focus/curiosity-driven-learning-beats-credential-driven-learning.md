@@ -55,6 +55,10 @@ related:
   - PRI-260328-D401
   - PRI-260328-E9B5
   - PRI-260328-9EC9
+evidence:
+  - id: INS-260323-C984
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Loh visited a high-poverty rural school where kids without phones or internet access showed extraordinary mathematical thinking—because they made their own games for fun. These kids, driven by authentic curiosity, developed problem-solving abilities that wealthy, well-resourced students often lack.
 

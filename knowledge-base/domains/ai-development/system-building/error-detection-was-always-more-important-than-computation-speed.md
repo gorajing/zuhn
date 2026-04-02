@@ -55,9 +55,9 @@ related:
   - INS-260330-F5A1
   - INS-260330-E282
   - INS-260323-0919
-  - INS-260327-680A
   - INS-260327-95D3
   - INS-260327-47E9
+  - INS-260329-4109
 ---
 Charles Babbage discovered a crucial principle: two calculations done the same way by different people tend to produce the same errors. This meant verification required approaching problems in fundamentally different ways, not just repeating them. The nautical almanac offices in London and Paris developed methods that could both compute and 'undo' calculations in different forms specifically to expose errors.
 

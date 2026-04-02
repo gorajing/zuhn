@@ -240,7 +240,10 @@ Generated on 2026-04-02 | 2421 sources
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
+| Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
+| "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
+| Hackers and Painters | blog | 5 | 2026-03-31 |
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
 | How to Do Great Work | blog | 5 | 2026-03-31 |
@@ -249,7 +252,10 @@ Generated on 2026-04-02 | 2421 sources
 | How to Make Wealth | blog | 5 | 2026-03-31 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
+| Mind the Gap | blog | 5 | 2026-03-31 |
 | OpenAI’s Product Lead on Winning AI Through Distribution | blog | 5 | 2026-03-30 |
+| Revenge of the Nerds | blog | 5 | 2026-03-31 |
+| The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
 | The Brand Age | blog | 5 | 2026-03-31 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The Hacker's Guide to Investors | blog | 5 | 2026-03-31 |
@@ -261,7 +267,9 @@ Generated on 2026-04-02 | 2421 sources
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | What I Worked On | blog | 5 | 2026-03-31 |
+| What You Can't Say | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
+| Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
 | Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
@@ -1607,7 +1615,6 @@ Generated on 2026-04-02 | 2421 sources
 | Before the Startup | blog | 0 | 2026-03-31 |
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
-| Being John Rawls | blog | 0 | 2026-03-30 |
 | Best Books for Founders: What Startup Leaders Actually Read | blog | 0 | 2026-03-30 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 0 | 2026-03-31 |
@@ -1773,7 +1780,6 @@ Generated on 2026-04-02 | 2421 sources
 | Filters that Fight Back | blog | 0 | 2026-03-31 |
 | Financial Modeling Examples for Founders: A Startup Guide with Templates | blog | 0 | 2026-03-30 |
 | Financial Modeling for Founders | blog | 0 | 2026-03-30 |
-| "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 0 | 2026-03-31 |
 | Five Founders | blog | 0 | 2026-03-31 |
 | Five Questions about Language Design | blog | 0 | 2026-03-31 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 0 | 2026-03-30 |
@@ -1813,7 +1819,6 @@ Generated on 2026-04-02 | 2421 sources
 | Great Hackers | blog | 0 | 2026-03-31 |
 | GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
 | Guided AI Agents: Turbocharging the SMB | blog | 0 | 2026-03-31 |
-| Hackers and Painters | blog | 0 | 2026-03-31 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 0 | 2026-03-30 |
 | Haters | blog | 0 | 2026-03-31 |
@@ -1945,7 +1950,6 @@ Generated on 2026-04-02 | 2421 sources
 | Meta Shrinks to Move Faster: Superintelligence Labs Explained | blog | 0 | 2026-03-30 |
 | Meta’s Multi-Billion, Multi-Year Nvidia Partnership | blog | 0 | 2026-03-30 |
 | Microsoft is Dead | blog | 0 | 2026-03-31 |
-| Mind the Gap | blog | 0 | 2026-03-31 |
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
 | Moltbook: After The First Weekend | blog | 0 | 2026-03-30 |
 | Monzo hits $5bn valuation 🚀, A Guide to Founder Salary 💵, Entrepreneurship in Africa 💡, & more! | blog | 0 | 2026-03-30 |
@@ -2009,7 +2013,6 @@ Generated on 2026-04-02 | 2421 sources
 | Resilient Businesses Compete Beyond Technology, Product & Price | blog | 0 | 2026-03-31 |
 | Resistance is necessary, but it's not enough | blog | 0 | 2026-03-30 |
 | Return of the Mac | blog | 0 | 2026-03-31 |
-| Revenge of the Nerds | blog | 0 | 2026-03-31 |
 | Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 0 | 2026-03-30 |
 | Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 0 | 2026-03-30 |
 | Reverse Imposter Syndrome: A Founder’s Visibility Gap | blog | 0 | 2026-03-30 |
@@ -2097,7 +2100,6 @@ Generated on 2026-04-02 | 2421 sources
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
 | The $100B Question: How SaaS Giants Are Rewriting the Rules of Value with AI in 2025  | blog | 0 | 2026-03-30 |
-| The 18 Mistakes That Kill Startups | blog | 0 | 2026-03-31 |
 | The $2 Trillion Founder Playbook: The Untold Story of How Larry Page Reclaimed Google | blog | 0 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
 | The 60-year-old code behind $5 trillion in healthcare | blog | 0 | 2026-03-30 |
@@ -2307,7 +2309,6 @@ Generated on 2026-04-02 | 2421 sources
 | What Venture Capitalists Look for in Startups | blog | 0 | 2026-03-30 |
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 0 | 2026-03-31 |
 | What We Look for in Founders | blog | 0 | 2026-03-31 |
-| What You Can't Say | blog | 0 | 2026-03-31 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
 | What You'll Wish You'd Known | blog | 0 | 2026-03-31 |
 | When To Do What You Love | blog | 0 | 2026-03-31 |
@@ -2325,7 +2326,6 @@ Generated on 2026-04-02 | 2421 sources
 | Why Hire Offshore?  | blog | 0 | 2026-03-30 |
 | Why It's Safe for Founders to Be Nice | blog | 0 | 2026-03-31 |
 | Why LatAm Is On The Rise | blog | 0 | 2026-03-31 |
-| Why Nerds are Unpopular | blog | 0 | 2026-03-31 |
 | Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 0 | 2026-03-31 |

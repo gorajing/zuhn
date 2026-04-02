@@ -60,5 +60,15 @@ related:
   - INS-260330-B5D2
   - INS-260330-4329
   - INS-260330-6DEB
+evidence:
+  - id: INS-260330-B5D2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-D3F5
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260326-6D76
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown's pedagogical approach to transformers demonstrates a universal learning principle: when facing a system with billions of elements, the path to understanding is categorization, not enumeration. GPT-3's 175 billion weights sound impossible to comprehend, but once you learn they fall into 8 categories of weight matrix, the system becomes tractable. This is fundamentally about chunking — the cognitive science principle that experts compress information into meaningful groups. The approach applies to any complex domain: a codebase with thousands of files becomes manageable once you identify its architectural patterns; a market with millions of transactions becomes analyzable once you categorize the types of participant behavior. The key insight is that apparent complexity often masks structural simplicity, and finding that structure is the highest-leverage learning activity.

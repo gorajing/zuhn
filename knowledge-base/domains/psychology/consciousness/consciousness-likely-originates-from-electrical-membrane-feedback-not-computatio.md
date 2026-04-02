@@ -69,6 +69,13 @@ related:
   - INS-260330-2E54
   - INS-260330-833E
   - INS-260330-8045
+evidence:
+  - id: INS-260326-E5D3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-0E70
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Lane rejects both panpsychism (everything is conscious) and pure emergence (consciousness appears at sufficient computational complexity). Instead, he proposes that consciousness originates from the electrical fields on cell membranes that provide real-time feedback about an organism's state relative to its environment. Even bacteria have electrical discharges associated with 'blind panic' responses, and these electrical states have been selected over billions of generations.
 

@@ -62,6 +62,10 @@ related:
   - INS-260329-D8BC
   - INS-260329-8A13
   - INS-260329-9927
+evidence:
+  - id: INS-260329-D8BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course meticulously shows how the same abstract interface can have wildly different performance characteristics depending on implementation. Removing from the tail of a singly linked list is O(n) because you must traverse the entire list to find the new tail — but removing from the tail of a doubly linked list is O(1) because each node has a back-pointer. Both are 'linked lists' and both support the same operations. The performance difference is invisible at small scale.
 

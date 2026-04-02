@@ -52,6 +52,10 @@ related:
   - INS-260323-FE69
   - PRI-260328-D68F
   - INS-260329-7C1D
+evidence:
+  - id: INS-260323-FE69
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Peak Boomer retirement wave is unprecedented in scale: 30 million Americans retiring by 2030, nearly a fifth of the total labor force. Over half have less than $250,000 in assets including home equity, making Social Security their primary or exclusive income source. Many are retiring not by choice but because age-related health issues and job market discrimination make continued employment impossible.
 

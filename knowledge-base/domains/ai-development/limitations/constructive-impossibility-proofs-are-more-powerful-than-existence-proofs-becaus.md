@@ -53,6 +53,16 @@ related:
   - INS-260330-76DA
   - INS-260327-48A5
   - INS-260330-DE16
+evidence:
+  - id: INS-260325-72AE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-76DA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-48A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Cantor's diagonal argument is a masterclass in productive failure. Given any proposed complete listing of real numbers, it mechanically constructs a number guaranteed to be missing. This isn't just proof by contradiction — it's a constructive impossibility proof that hands you the counterexample.
 

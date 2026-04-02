@@ -50,6 +50,10 @@ related:
   - INS-260326-E5D3
   - PRI-260323-1187
   - INS-260325-BA76
+evidence:
+  - id: INS-260326-E5D3
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Philosophical inquiry into fundamental assumptions (Is the self real? Is free will an illusion? Is consciousness produced by the brain?) produces perspective shifts that are irreversible in the sense that you cannot un-know the question even if you reject the answer.
 

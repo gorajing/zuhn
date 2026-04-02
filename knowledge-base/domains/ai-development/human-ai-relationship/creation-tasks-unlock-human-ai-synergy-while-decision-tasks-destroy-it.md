@@ -50,5 +50,12 @@ related:
   - INS-260322-38D8
   - PRI-260325-A95E
   - INS-260330-B38B
+evidence:
+  - id: INS-260322-38D8
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B38B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The task type is the strongest moderator of human-AI synergy. In decision tasks (85% of studied experiments) — choosing between predefined options — combining humans and AI produced losses. But in creation tasks (10% of experiments) — generating open-ended content — synergy was positive. The researchers hypothesize creation tasks naturally decompose: humans provide creative insight and contextual knowledge while AI handles routine content generation. Decision tasks fail because both partners make the same complete decision and humans make the final call, introducing overreliance or underreliance errors. The massive imbalance (85% decision vs 10% creation) means the field has barely studied where synergy actually works.

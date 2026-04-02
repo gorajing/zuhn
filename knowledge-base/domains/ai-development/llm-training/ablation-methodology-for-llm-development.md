@@ -52,6 +52,13 @@ resolutions:
 stance: >-
   Systematic ablation experiments at small scale prevent costly mistakes in full
   training runs
+evidence:
+  - id: INS-260330-B7B1
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-033A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 The Smol Training Playbook details a rigorous ablation methodology:

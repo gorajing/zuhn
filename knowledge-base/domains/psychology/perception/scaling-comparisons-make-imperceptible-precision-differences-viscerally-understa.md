@@ -62,6 +62,10 @@ related:
   - INS-260330-CBFD
   - INS-260325-CC49
   - INS-260325-5B7F
+evidence:
+  - id: INS-260329-8407
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video's most memorable moment is the comparison: if the silicon sphere were scaled to Earth's size, the difference between its highest and lowest points would be about 14 meters. This single analogy communicates more about the sphere's precision than any number of nanometer measurements could.
 

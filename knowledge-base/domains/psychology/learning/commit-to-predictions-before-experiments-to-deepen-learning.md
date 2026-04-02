@@ -53,6 +53,10 @@ related:
   - INS-260325-55D8
   - INS-260330-59CE
   - INS-260330-C0D1
+evidence:
+  - id: INS-260323-2785
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In the video, the team makes explicit predictions before each cannon shot — how many gloves the ball will penetrate, whether the dummy will survive, how the different weave patterns will perform. This transforms passive watching into active hypothesis testing. When Trent correctly predicts the ball will go through all 9 gloves while others predict 2-4, it reveals who has the best mental model of the physics involved.
 

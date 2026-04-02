@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-4D4E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260321-9A03
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Daniel admits his primary motivation was the fantasy of wealth, status, and the 'innovative founder' identity — not passion for healthcare technology. This lack of intrinsic motivation meant he never put everything into it. When startups hit inevitable friction (endless meetings, re-planning, slow progress), founders without genuine problem obsession lack the fuel to push through. This directly challenges the 'just start building' ethos — starting without authentic motivation is worse than not starting at all, because you burn savings and time on something you'll inevitably abandon.
 

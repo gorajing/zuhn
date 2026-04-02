@@ -59,6 +59,19 @@ related:
   - INS-260327-DECA
   - INS-260328-3446
   - INS-260328-0B99
+evidence:
+  - id: INS-260325-58F5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-4574
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DECA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-3446
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Naval takes a deliberately contrarian stance against the prompt engineering industry: he never bothers learning tips, tricks, or specialized AI workflows because their longevity is measured in weeks, not years. His argument is asymmetric adaptation — AI models are being trained on massive user data and tools are being built rapidly to make AI easier to use, so the system adapts to you faster than you can adapt to it.
 

@@ -59,6 +59,10 @@ related:
   - INS-260330-1B74
   - INS-260330-AEE3
 stance: 'In transcendental consciousness, thinking dissolves but ''I am'' remains'
+evidence:
+  - id: INS-260323-0961
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The video maps a progression from waking consciousness (where most people stop) through transcendental consciousness (pure awareness aware of itself), cosmic consciousness (the witness persists even during daily activity), and beyond. In each deeper level, something drops away — thoughts, the sense of separate self, the boundary between observer and observed — yet awareness itself remains.
 

@@ -54,6 +54,10 @@ related:
   - INS-260329-95EA
   - INS-260327-32F1
   - PRI-260324-2C9F
+evidence:
+  - id: INS-260327-32F1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi emphasizes that the same set of facts can produce opposite persuasive outcomes depending on order. 'We're expensive, but we guarantee results' lands differently than 'We guarantee results, but we're expensive.' Both contain identical information, yet the first builds toward the positive (leveraging the credibility earned by the admission), while the second deflates the positive with a lingering negative. The 'but' acts as a pivot that signals 'disregard what came before, here's what actually matters.'
 

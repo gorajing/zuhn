@@ -56,7 +56,6 @@ related:
   - PRI-260328-C528
   - INS-260325-1F35
   - INS-260323-A0CE
-  - INS-260327-77E5
 stance: >-
   The LLM paradigm applied to biological data — 'large molecule models' — could
   unlock nature's design intelligence across all five kingdoms of life.

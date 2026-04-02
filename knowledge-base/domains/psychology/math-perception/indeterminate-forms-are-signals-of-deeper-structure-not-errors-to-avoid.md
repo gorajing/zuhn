@@ -59,6 +59,10 @@ related:
   - INS-260329-6773
   - INS-260330-4D18
   - INS-260330-3C70
+evidence:
+  - id: INS-260325-CC49
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In calculus, every derivative computation from the definition produces the indeterminate form 0/0, because you're measuring the slope of a secant line as two points converge to the same location — both rise and run approach zero simultaneously. This isn't a bug; it's the entire point. The algebraic tricks needed to resolve 0/0 (factoring, conjugate multiplication, L'Hôpital's rule) are all techniques for extracting the meaningful ratio hiding inside the apparent paradox.
 

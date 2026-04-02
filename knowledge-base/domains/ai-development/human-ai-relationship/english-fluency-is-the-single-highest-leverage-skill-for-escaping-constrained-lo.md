@@ -55,11 +55,18 @@ related:
   - INS-260330-B28C
   - INS-260329-A937
   - INS-260320-DDD9
+  - INS-260402-C4FF
   - PRI-260328-1D90
-  - INS-260329-F21F
 stance: >-
   Learning English to high fluency gives access to global opportunity systems,
   breaking dependence on any single country's constrained job market.
+evidence:
+  - id: INS-260329-A937
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F21F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Loh's advice for people trapped in hyper-competitive national systems (Korean exam culture, Chinese gaokao, etc.) is surprisingly practical: learn English to a very high level of fluency. The logic is systems-based: 'If the only language you know is your native language, you only get opportunities in systems which use your native language. And if the system is designed in a way where most of the people will not have opportunity, it could be beneficial to be able to play in all the other systems.'
 

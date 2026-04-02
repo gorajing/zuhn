@@ -56,5 +56,9 @@ related:
   - INS-260326-7B2C
   - PRI-260328-23DB
   - INS-260330-E8BD
+evidence:
+  - id: INS-260330-E8BD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Wolfram's principle of computational equivalence states that once a system's behavior isn't fairly easy to analyze, the computation it performs is as sophisticated as it could possibly be — equivalent to a universal computer. This leads to computational irreducibility: our brains cannot outrun the computations happening inside the system. If computational reducibility existed, we could use our intelligence to jump ahead and predict outcomes without running every step. But computational irreducibility says this isn't the case for most interesting systems. The consequence is profound: for cellular automata, weather systems, markets, ecosystems, and AI systems alike, there is no shortcut to prediction. You must run the system to know what it will do. This is not a statement about our current ignorance — it is a fundamental limit that applies even with perfect knowledge of the rules.

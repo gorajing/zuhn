@@ -50,10 +50,15 @@ related:
   - PRI-260328-B4BD
   - INS-260323-4457
   - INS-260330-F125
+  - INS-260402-7999
 stance: >-
   Software engineers gravitate toward writing code because it feels like
   progress, but building without user validation is the most expensive form
   of...
+evidence:
+  - id: INS-260329-500E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Tim's team raised money, started engineering immediately, and built an app with 20 different games before getting meaningful user feedback. The code editor is seductive because every line of code feels like measurable progress. But this is a trap: building without validation means you're optimizing something nobody asked for.
 

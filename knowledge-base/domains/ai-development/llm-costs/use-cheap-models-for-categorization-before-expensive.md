@@ -42,6 +42,10 @@ resolutions:
 stance: >-
   Cheap models should pre-filter inputs before expensive models to reduce costs
   70-90%
+evidence:
+  - id: INS-260322-5790
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 Implement a tiered model pipeline: use an ultra-cheap model (e.g.,

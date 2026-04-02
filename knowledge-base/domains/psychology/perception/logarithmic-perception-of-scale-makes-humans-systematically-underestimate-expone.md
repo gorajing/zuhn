@@ -55,6 +55,10 @@ related:
   - INS-260330-ED8A
   - INS-260330-2EC0
   - INS-260330-FF5B
+evidence:
+  - id: INS-260329-8407
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Weber-Fechner law describes how human perception of magnitude scales logarithmically rather than linearly. When comparing structures, people perceive the difference between 100m and 200m as roughly equivalent to the difference between 500m and 1000m, even though the absolute gap differs by 5x. This means we systematically underestimate the engineering difficulty of each incremental height increase.
 

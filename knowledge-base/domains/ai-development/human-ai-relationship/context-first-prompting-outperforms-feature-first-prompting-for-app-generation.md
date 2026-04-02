@@ -53,6 +53,19 @@ related:
   - INS-260327-8FD4
   - INS-260402-543E
   - INS-260330-BC21
+evidence:
+  - id: INS-260327-DBAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-CECA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8FD4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-BC21
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Context-first prompting gives the AI a constraint satisfaction problem — it can infer features, prioritize UX decisions, and make structural choices that are coherent with the actual use case. Feature-first prompting gives it a shopping list with no organizing principle, leading to generic implementations that technically include everything requested but don't cohere as a product.
 

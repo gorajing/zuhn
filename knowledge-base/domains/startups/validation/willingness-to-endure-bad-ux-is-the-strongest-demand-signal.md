@@ -56,6 +56,10 @@ related:
   - INS-260330-5ED4
   - INS-260330-4DFA
   - INS-260325-040F
+evidence:
+  - id: INS-260330-82B5
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 DoorDash's first version was a static landing page with PDF menus and a phone number — users had to call in orders manually. Despite this terrible experience, orders grew from 1 to 2 to 5 to 10 daily through pure word of mouth. Stanley Tang identifies this willingness to tolerate friction as the moment they knew they had real demand.
 

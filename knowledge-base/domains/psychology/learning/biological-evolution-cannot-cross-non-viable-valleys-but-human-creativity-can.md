@@ -63,6 +63,10 @@ related:
   - INS-260330-240A
   - INS-260330-2492
   - INS-260330-2F13
+evidence:
+  - id: INS-260322-13D6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Deutsch draws a sharp line between biological evolution and human creative thought using the campfire example: billions of species over billions of years never produced fire-making, because there is no such thing as a partially functional campfire. Each evolutionary step must produce a viable organism, so evolution can only reach destinations connected by chains of viable intermediates. The bombardier beetle evolved boiling water because lukewarm water is still somewhat useful — there's a viable gradient.
 

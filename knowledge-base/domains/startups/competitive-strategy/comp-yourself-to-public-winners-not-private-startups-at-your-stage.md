@@ -50,7 +50,6 @@ stance: >-
   proven public winners systematically underestimate what winning actually
   requires
 related:
-  - INS-260322-B693
   - INS-260325-FDB3
   - INS-260322-AF17
   - INS-260323-85E7
@@ -58,7 +57,10 @@ related:
   - INS-260329-5FB5
   - INS-260330-070A
   - PRI-260323-81E9
-  - INS-260330-304C
+evidence:
+  - id: INS-260322-B693
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When founders choose comparison companies, they gravitate toward private startups at a similar stage rather than studying proven public-market winners. This is like studying a college basketball player instead of Michael Jordan because Jordan seems too distant. The problem is that private comparisons teach you what 'might work' while public winners teach you what actually worked at scale.
 

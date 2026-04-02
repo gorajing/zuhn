@@ -50,7 +50,6 @@ stance: >-
   operational risk than the capital is worth.
 related:
   - INS-260328-195E
-  - INS-260330-1002
   - INS-260330-A38C
   - INS-260330-3B31
   - INS-260330-9B90

@@ -56,5 +56,9 @@ related:
   - PRI-260323-1187
   - PRI-260324-2C9F
   - INS-260323-9773
+evidence:
+  - id: INS-260323-9774
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Transfer from psychology principle: perception is a survival rendering, not a truth window. Applied to AI: most AI interface design assumes humans want accurate information and the challenge is presenting it clearly. But evolutionary psychology shows human perception was optimized for fitness, not truth — we literally see a user interface rendered by evolution, not reality itself. This means AI systems that output calibrated probabilities, raw uncertainty ranges, or unfiltered data streams are fighting human architecture. The practical implication for AI product design: the translation layer between machine output and human consumption is not a presentation problem — it is a fundamental cognitive compatibility problem. Effective AI interfaces must model the user's perceptual architecture and translate accordingly.

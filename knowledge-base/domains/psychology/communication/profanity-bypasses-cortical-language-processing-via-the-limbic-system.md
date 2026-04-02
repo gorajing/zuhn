@@ -48,5 +48,9 @@ related:
   - INS-260327-DF8B
   - INS-260323-EECF
   - INS-260330-84C6
+evidence:
+  - id: INS-260323-EECF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Unlike ordinary vocabulary, swear words are stored and processed in the limbic system — the brain's emotional center — rather than in the left-hemisphere language areas (Broca's and Wernicke's). This explains the striking clinical observation that patients with severe aphasia, who cannot produce any voluntary speech, can still swear fluently and appropriately. The implication is that profanity functions more like an emotional vocalization (akin to a cry or laugh) than a semantic utterance. This has practical relevance for understanding why swearing is so reflexive and difficult to suppress — it literally bypasses the deliberate language circuits.

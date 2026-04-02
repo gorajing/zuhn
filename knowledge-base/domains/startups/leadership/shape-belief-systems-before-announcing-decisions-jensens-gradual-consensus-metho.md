@@ -62,6 +62,10 @@ related:
 stance: >-
   Leaders should shape the belief systems of employees, board, partners, and
   customers gradually over months so that by the time a major strategic de...
+evidence:
+  - id: INS-260321-9A03
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Jensen Huang describes his approach to major strategic decisions: rather than springing announcements, he spends months or years laying down conceptual bricks with different stakeholders. He shares insights, reasoning, and data step by step so that when the announcement finally comes — whether it was going all-in on deep learning, acquiring Mellanox, or launching a new architecture — everyone's reaction is 'what took you so long?' rather than confusion.
 

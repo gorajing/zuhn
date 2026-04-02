@@ -56,5 +56,9 @@ related:
   - INS-260329-EB4B
   - INS-260330-6F7B
   - PRI-260328-26AA
+evidence:
+  - id: INS-260321-2F43
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi includes options contracts and leveraged real estate among his zero-capital paths because both allow you to control assets worth far more than your initial outlay. A real estate investor can control a $500K property with $25K down; an options trader can control 100 shares with a fraction of the share price. The asymmetry is the key: your downside is capped at your small investment, but your upside scales with the full asset value. However, the critical caveat Hormozi implies is that these instruments amplify both skill and ignorance. They're viable wealth paths for those who deeply understand the mechanics, but they're destruction paths for those who don't. The pattern across all his strategies is consistent: leverage amplifies the operator, so the operator's skill is the binding constraint.

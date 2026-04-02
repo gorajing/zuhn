@@ -54,6 +54,13 @@ related:
   - INS-260321-B014
   - INS-260327-1631
   - INS-260330-EE25
+evidence:
+  - id: INS-260330-A660
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-D062
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kimi's Sarah revealed a recently published paper on 'attention residuals' that gained millions of views and was praised by Elon Musk. The core innovation: instead of traditional transformer layers that accumulate all information from previous layers, attention residuals let each layer choose what to optimize from prior layers.
 

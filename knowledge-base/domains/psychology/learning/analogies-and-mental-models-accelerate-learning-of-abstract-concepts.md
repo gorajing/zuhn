@@ -62,5 +62,8 @@ evidence:
   - id: INS-260329-2B9A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260326-97C9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Throughout the 2-hour course, every major concept is introduced via a concrete analogy before the formal definition: variables are cardboard boxes in a storage facility, programming languages are interpreters between you and a non-English-speaking friend, function arguments are food orders at Five Guys, recursion is stacking chores, and the call stack is a pile of stones (LIFO). This isn't just pedagogical sugar — it reflects how human cognition actually works. Cognitive science shows that new abstract concepts are learned by mapping them onto existing concrete schemas. The 10.9M views and broad accessibility of this video validate the approach. This insight applies directly to knowledge work: when explaining complex systems (AI architectures, business models, investment theses), leading with a concrete analogy before the abstraction dramatically improves retention and transferability.

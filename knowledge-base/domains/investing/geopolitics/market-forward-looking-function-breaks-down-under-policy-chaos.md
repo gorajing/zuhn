@@ -53,6 +53,10 @@ related:
   - INS-260327-99CE
   - INS-260323-BA17
   - PRI-260325-D34E
+evidence:
+  - id: INS-260323-7403
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Markets theoretically aggregate information about future economic conditions into current prices. This function requires participants to be able to form reasonable expectations. When tariffs are announced, cancelled, re-announced, and litigated within weeks, market moves stop reflecting economic fundamentals and instead reflect pure sentiment oscillation.
 

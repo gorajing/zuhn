@@ -54,6 +54,10 @@ related:
   - INS-260330-4FC5
   - INS-260330-7EFD
   - INS-260330-1222
+evidence:
+  - id: INS-260323-7BA4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When a phenomenon is fundamentally inaccessible — like the interior of a black hole — direct observation is impossible. Scientists solved this by building analog systems: acoustic black holes (dumbholes) that trap sound the way black holes trap light. These use special fluids traveling at the speed of sound to create regions from which sound cannot escape.
 

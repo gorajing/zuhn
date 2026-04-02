@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 363 insights
+> 368 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -26,6 +26,7 @@
 - `INS-260327-5E03` [high] When consumers can't afford cars, automakers built more expensive cars with longer loan terms rather than more affordable alternatives.
 - `INS-260327-584D` [high] Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficie
 - `INS-260324-6C83` [high] 80% of US barbershops remain independent despite 40 years of corporate attempts because the core asset (barber talent) can walk out and open their own shop with just scissors and a chair.
+- `INS-260402-0A49` [high] Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260327-6853` [high] Taco Bell was Yum Brands' overlooked third child behind KFC and Pizza Hut, but being excluded from the China arms race gave its leaders room to quietly build a domestic powerhouse without corporate interference or pressure to scale prematurely.
 - `INS-260330-E039` [high] RuBisCo is bad at its job but became the most abundant protein on Earth (40 billion tons) because early plants scaled it before alternatives evolved.
 - `INS-260327-0519` [high] BNPL succeeds because four payments doesnt feel like debt even though it is functionally identical to credit card borrowing.
@@ -90,6 +91,7 @@
 - `INS-260330-7DAA` [high] Bing earns $5B/year not from product quality but from being Windows' default — distribution through defaults beats product superiority.
 - `INS-260327-25D7` [high] Salesforce wasn't the first SaaS company, but by defining 'software is over' they became permanently associated with the cloud movement.
 - `INS-260330-9197` [high] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
+- `INS-260402-AEA1` [high] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
 - `INS-260329-C092` [high] Specialists bypass gatekeepers to deliver expert analysis directly to niche audiences who fund the work through subscriptions
 - `INS-260328-D0F6` [high] Yahoo, HP, and Intel all looked invincible until they were not — the 'watermelon' pattern of green outside, red inside applies to today's tech giants too.
 - `INS-260330-D108` [high] Photosynthesis 'rather sucks' — it's complicated, inefficient, and confusing — yet it powers all complex life because it was first and sufficient.
@@ -137,6 +139,7 @@
 - `INS-260330-E670` [high] Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
 - `INS-260328-75B8` [high] Some business constraints are physics — no execution can overcome a market that only buys once a year or a supply chain that can't reach the customer.
 - `INS-260327-26CF` [high] Products that gain market share through implied health benefits face consumer backlash when scrutiny reveals the health 
+- `INS-260402-E60E` [high] For most of human history, the fastest way to get rich was stealing — wealth creation as the dominant path only emerged with the Industrial Revolution.
 - `INS-260330-B284` [high] Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
 - `INS-260327-FC6F` [high] There is no moat in AI — the best defense is offense, constantly innovating and pushing out new products faster than anyone else.
 - `INS-260324-8C6F` [high] In LA's saturated taco market, the winning strategy isn't being the best — it's being the best for your specific neighborhood by showing up at the same spot, same time, rain or shine, year after year.
@@ -150,6 +153,7 @@
 - `INS-260327-ACB3` [high] Tech companies that empowered engineers to build disruption tools are now using those same tools to disrupt the engineers who built them.
 - `INS-260327-2BAD` [high] Cannabis businesses cannot achieve the scale economies that other industries enjoy because state-by-state legalization c
 - `INS-260327-290C` [high] Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t
+- `INS-260402-7DCC` [high] 'Industry best practice' in technology shields managers from blame but guarantees mediocre results that bolder competitors will exploit.
 - `INS-260327-4F94` [high] Health services promoted through influencer sponsorships face disproportionate backlash when problems emerge because fol
 - `INS-260330-8D4F` [high] DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
 - `INS-260327-0B3B` [high] American cities built around cars resist public transit investment because the car-centric infrastructure creates consti
@@ -162,6 +166,7 @@
 - `INS-260330-66C7` [high] Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
 - `INS-260327-6017` [high] Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
 - `INS-260324-6C5F` [high] Customers pay 2-5x more for Disney/Universal than Six Flags because branded attractions, $9 butterbeer, and character performers create emotional value that generic roller coasters can't match.
+- `INS-260402-E470` [high] Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260325-C29B` [high] Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.
 - `INS-260330-D63C` [high] At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
 - `INS-260330-8A87` [high] Silicon Valley overvalues growth rates and undervalues durability — 75-85% of a tech company's value comes from cash flows a decade or more in the future.

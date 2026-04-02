@@ -54,6 +54,10 @@ related:
 stance: >-
   Satisfied couples maintain approximately five positive interactions for every
   negative one, where positives include micro-moments like acknowledgin...
+evidence:
+  - id: INS-260325-19E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Gottman research across thousands of couples found that relationship satisfaction and longevity correlate strongly with maintaining a 5:1 ratio of positive to negative interactions. Critically, 'positive' doesn't mean grand romantic gestures -- it means responding to your partner's bids for connection: laughing at their joke, looking up from your screen, saying 'want to come with me?' These micro-moments of turning toward rather than away accumulate into the fabric of relationship health.
 

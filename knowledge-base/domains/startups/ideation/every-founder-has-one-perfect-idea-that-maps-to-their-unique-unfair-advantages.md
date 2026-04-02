@@ -46,9 +46,9 @@ related:
   - INS-260327-F95F
   - INS-260327-D982
   - INS-260327-D5CC
+  - INS-260402-D739
   - INS-260330-AB6E
   - INS-260330-6C68
-  - INS-260327-4DDE
   - INS-260329-11AB
 ---
 When advising on pivots, Dalton imagines the universe of ideas a founder could work on and asks where they have the most unfair advantages. He believes every person has a 'perfect idea for them' and his job is to pull it out. This is especially powerful when founders feel paralyzed by too many choices. The world is a really hard competition, so you want to play games you're good at. Dalton applied this same framework to himself: Standard Capital is specifically crafted for the founding team of himself, PB, and Brian Berg, playing to their collective unfair advantages in YC applications, software building, and founder advising.

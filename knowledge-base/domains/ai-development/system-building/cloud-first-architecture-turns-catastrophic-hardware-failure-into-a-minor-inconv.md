@@ -52,11 +52,11 @@ stance: >-
   than local-first with cloud backup are fundamentally more resilient because
   they eliminate the single point of failure rather than merely duplicating it
 related:
+  - INS-260402-5242
   - INS-260322-642F
   - PRI-260328-DD90
   - INS-260323-7F36
   - INS-260330-4C31
-  - INS-260330-051F
 ---
 The course uses a memorable metaphor — a meteorite destroying your computer — to illustrate why cloud storage matters. But the deeper architectural insight is the difference between two paradigms: local-first with cloud backup (your computer is primary, cloud is a copy) versus cloud-first with local cache (cloud is primary, your device is just a viewport).
 

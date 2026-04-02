@@ -58,6 +58,10 @@ related:
   - INS-260327-32F1
   - INS-260327-2A73
   - INS-260323-9867
+evidence:
+  - id: INS-260327-32F1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Carlson articulates a purely outcome-based leadership evaluation framework: Is life expectancy going up? Is the suicide rate declining? Are people having children? Is the standard of living improving? Will the next generation be more prosperous and free? He explicitly rejects personality-driven and moral-narrative evaluation as 'theater' that enables deception.
 

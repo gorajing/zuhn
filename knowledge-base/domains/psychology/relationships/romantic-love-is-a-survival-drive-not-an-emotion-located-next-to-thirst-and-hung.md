@@ -63,6 +63,10 @@ related:
   - INS-260330-10AA
   - INS-260330-BB0C
   - INS-260330-EA2E
+evidence:
+  - id: INS-260323-9385
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Fisher's fMRI studies consistently show that the neural signature of romantic love is not scattered across emotional brain regions (which vary person to person) but concentrated in the ventral tegmental area (VTA), a tiny factory near the base of the brain that produces dopamine. This region lies adjacent to circuits for thirst and hunger.
 

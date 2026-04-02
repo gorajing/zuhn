@@ -62,7 +62,6 @@ related:
   - INS-260330-16F7
   - INS-260327-EAB9
   - INS-260324-0DC1
-  - INS-260330-341D
 ---
 When McDonald's was stuck at 1.4% service fees with no path to profitability, Harry Sonneborn created Franchise Realty Corporation to buy property and lease it to operators. This single strategic move solved four problems simultaneously: (1) it circumvented the restrictive McDonald brothers' contract since it was a separate entity, (2) it gave McDonald's enforcement leverage through lease termination for quality violations, (3) it created an 8.5%-of-revenue income stream on top of the 1.4% fee, and (4) it generated balance sheet assets that enabled bank financing for further expansion — using operator security deposits as down payments.
 

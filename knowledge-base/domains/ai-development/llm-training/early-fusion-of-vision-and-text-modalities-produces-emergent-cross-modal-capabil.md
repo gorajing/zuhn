@@ -54,6 +54,16 @@ related:
   - INS-260329-70D5
   - INS-260323-D400
   - INS-260329-979B
+evidence:
+  - id: INS-260329-70D5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-D400
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-979B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Previous open models added vision capabilities as a post-training step on top of a text-only base (late fusion). Kimi K2.5 instead merged vision and text tokens from the start of pre-training. The surprising finding was bidirectional enhancement: vision RL (using only visual tasks) improved text reasoning benchmarks, and strong text training eliminated the need for vision SFT data entirely (zero vision SFT).
 

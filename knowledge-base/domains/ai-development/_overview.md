@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 906 insights across 22 topics
+> 907 insights across 22 topics
 
 ## Topics
 
@@ -13,7 +13,7 @@
 | ai-capabilities | 97 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
 | ai-market-dynamics | 92 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
 | alignment | 46 | KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text. |
-| architecture | 2 | Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible. |
+| architecture | 3 | Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible. |
 | automation | 9 | Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI. |
 | claude-code | 38 | Planning is king — always use planning mode before implementation; never let the builder start without plans. |
 | embeddings | 6 | Different basis choices make different operations trivial or impossible in vector spaces. |

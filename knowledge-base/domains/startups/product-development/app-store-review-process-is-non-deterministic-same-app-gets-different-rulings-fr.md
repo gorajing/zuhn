@@ -58,5 +58,8 @@ evidence:
   - id: INS-260320-1B10
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260402-5CF0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ross describes App Store review as non-deterministic: 'you might have someone from some other country reviewing it at the middle of the night and then someone local reviewing in the daytime and they might have completely different sets of beliefs on how the guidelines work.' He shares that he's been rejected, replied 'that's not true, try again,' and had the reviewer confirm and approve. This fundamentally changes the mental model for App Store submission — it's not a pass/fail exam against a rulebook, it's closer to a probabilistic gatekeeping system where persistence and politeness are strategies. For first-time app builders, this is critical: a rejection doesn't mean your app is broken, it might mean you got an inconsistent reviewer.

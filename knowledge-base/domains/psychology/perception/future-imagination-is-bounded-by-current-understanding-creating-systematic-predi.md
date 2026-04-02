@@ -57,6 +57,9 @@ evidence:
   - id: INS-260323-3045
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-CCE8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Every generation imagines the future as a modified present: flying cars, video phones, robot servants - all extensions of existing technology. The actually transformative changes (internet, smartphones, social media) were largely unimagined because they required conceptual leaps beyond existing frameworks.
 

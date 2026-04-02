@@ -47,5 +47,9 @@ related:
   - INS-260323-B029
   - INS-260327-BF89
   - INS-260330-FC4D
+evidence:
+  - id: INS-260327-94FE
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 A home health monitoring system paired one AI agent that gives patient advice with a second agent whose sole job is to evaluate and filter that advice for safety. The adversarial pairing — two agents working at cross-purposes — produced output quality comparable to the best human clinicians. This pattern is notable because it converts an unreliable generative system into a reliable one without requiring perfect training data. The architecture is generalizable: any domain where hallucination risk is high can benefit from a dedicated validation agent that gates the output of a generative one, rather than trying to make a single model perfectly safe.

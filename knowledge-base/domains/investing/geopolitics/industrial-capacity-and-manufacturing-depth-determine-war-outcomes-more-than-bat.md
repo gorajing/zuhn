@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-9D26
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260320-901C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 WW1 was history's first truly industrial war, and it was won in factories as much as on battlefields. The Entente's combined industrial capacity — British, French, Russian, and eventually American — dwarfed Germany's. This meant more shells, more guns, more trucks, more food, and more of everything needed to sustain modern warfare. Germany compensated through efficiency and innovation but couldn't overcome the fundamental production gap.
 

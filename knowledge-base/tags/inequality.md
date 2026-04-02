@@ -7,5 +7,6 @@
 - `INS-260327-1F6A` Americans aged 25-44 are 2.5x more likely to die than peers in other wealthy nations, with a 20-year life expectancy gap between the richest and poorest US counties.
 - `INS-260327-74CF` The most dangerous pattern in history is repeating: powerful entities restrict access to transformative technology to maintain their position, whether ancient priests hoarding literacy or modern companies hoarding AI.
 - `INS-260323-1338` Even if we perfectly redistributed wealth, the deeper crisis is that society accords prestige to those who manage symbols and money rather than those who produce real value.
-- `INS-260402-CF0A` Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
 - `INS-260402-9F35` Mid-century equality was produced by war and oligopoly, making it a poor baseline for modern policy goals.
+- `INS-260402-8F1E` Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
+- `INS-260402-CF0A` Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.

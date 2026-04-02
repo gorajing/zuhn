@@ -60,6 +60,10 @@ related:
   - INS-260325-C996
   - PRI-260325-A95E
   - INS-260330-61C3
+evidence:
+  - id: INS-260325-9C2F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Research by psychologist Sonja Lyubomirsky breaks happiness into three components: approximately 50% is a biological set point determined by genes (innate temperament), about 10% is driven by current life circumstances, and the remaining 40% is under voluntary control. This means there is substantial room to move the needle on personal happiness through intentional choices.
 

@@ -64,6 +64,10 @@ related:
   - INS-260330-053D
   - INS-260323-C10D
   - INS-260330-30DE
+evidence:
+  - id: INS-260325-ADF3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Rubin articulates a profound observation about human cognition: when we encounter something that doesn't make sense (a man running from a house), the brain instantly generates a plausible story ('he's chasing his dog') to resolve the ambiguity. This happens unconsciously and automatically. The critical insight is that we then treat this fabricated explanation as if it were observed fact — telling others later 'he was chasing his dog' with complete confidence, never realizing we invented the story.
 

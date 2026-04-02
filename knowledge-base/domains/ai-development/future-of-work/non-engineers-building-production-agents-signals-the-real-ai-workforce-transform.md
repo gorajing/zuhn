@@ -60,6 +60,22 @@ related:
   - INS-260323-BF81
   - INS-260327-0833
   - INS-260327-ACB3
+evidence:
+  - id: INS-260328-FFC3
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-F15D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-BF81
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0833
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-ACB3
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Ron from Open Router shared that at their company, non-engineering employees — people a few years out of college in sales roles, support specialists — are building agents to multiply themselves. These agents do in hours what previously took days. This is happening without any top-down mandate; individuals are simply recognizing the opportunity and acting on it.
 

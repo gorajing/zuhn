@@ -60,6 +60,22 @@ related:
 stance: >-
   Some people use AI to avoid thinking; others use it to think more deeply than
   ever before — the tool amplifies whatever intent you bring to it.
+evidence:
+  - id: INS-260325-36F0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-D9D8
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-AC52
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-1739
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A45D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Cleo Abram introduces the concept of 'cognitive time under tension' — borrowed from weightlifting, where squatting 100 pounds for 30 seconds builds more muscle than 3 seconds. She argues the best creative work requires sustained cognitive struggle, and AI tools could let people skip that struggle.
 

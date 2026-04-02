@@ -57,7 +57,7 @@ related:
   - INS-260330-F08F
   - INS-260330-2CE5
   - INS-260325-502D
-  - INS-260330-F800
+  - INS-260402-71A7
 ---
 Altman identifies the single best predictor of success at YC: whether the team has gotten new things done every time you talk to them. This is more predictive than the idea, the market, or the team's credentials. The mechanism is that huge things are accomplished through incremental pieces — if you keep knocking down small chunks, in a year you've done something amazing. Disappearing for a year to build something grand almost never works.
 

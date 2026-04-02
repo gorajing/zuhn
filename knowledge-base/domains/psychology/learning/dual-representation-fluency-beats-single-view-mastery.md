@@ -69,6 +69,9 @@ evidence:
   - id: INS-260323-2C19
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-5A2A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown's core thesis for linear algebra is that neither the geometric view (arrows in space) nor the numeric view (lists of numbers) is individually sufficient — the usefulness of the field comes from the ability to translate back and forth between them. The geometric view gives data analysts visual intuition for patterns; the numeric view lets programmers crunch numbers computationally. But the real leverage is in the translation skill itself.
 

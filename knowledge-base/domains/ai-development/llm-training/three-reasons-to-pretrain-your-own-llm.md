@@ -50,6 +50,13 @@ resolutions:
 stance: >-
   Pretraining your own LLM is only justified for research, specific production
   needs, or filling ecosystem gaps
+evidence:
+  - id: INS-260327-3A71
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-0346
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 The Smol Training Playbook's "Training Compass" section provides a

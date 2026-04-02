@@ -54,6 +54,13 @@ resolutions:
 stance: >-
   Data quality dominates architectural innovation as the key factor in LLM
   performance
+evidence:
+  - id: INS-260326-163A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5901
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 The Smol Training Playbook from HuggingFace's pre-training team --

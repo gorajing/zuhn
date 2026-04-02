@@ -59,6 +59,10 @@ related:
   - INS-260323-2FC3
   - PRI-260323-2FEE
   - PRI-260324-F9CD
+evidence:
+  - id: INS-260329-8226
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 There's a fundamental asymmetry in how AI accelerates different types of science. In theoretical fields — mathematics, theoretical physics, theoretical economics — the work consists of deriving logical implications from a set of assumptions. This is something machines excel at, and AI can often produce results in a near push-button manner (though checking the output remains a human task).
 

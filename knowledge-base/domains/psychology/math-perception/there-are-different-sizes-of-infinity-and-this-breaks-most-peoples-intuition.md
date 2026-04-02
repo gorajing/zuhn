@@ -58,6 +58,10 @@ related:
   - PRI-260325-5760
   - INS-260330-849D
   - INS-260325-EB9E
+evidence:
+  - id: INS-260325-1080
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Countable infinity is the size of the natural numbers — you can list them one by one and reach any specific element in finite time. Uncountable infinity (the reals) is fundamentally larger: Cantor's diagonal argument constructs a new real number that differs from every entry on any supposed complete list, proving no such list can exist.
 

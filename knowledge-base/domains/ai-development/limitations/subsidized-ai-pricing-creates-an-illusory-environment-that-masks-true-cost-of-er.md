@@ -56,6 +56,16 @@ related:
   - INS-260325-206C
   - INS-260323-7F22
 stance: Claude Code users spend $8-13.5x their subscription in compute
+evidence:
+  - id: INS-260323-FEAB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F9CA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-7F22
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Zitron's Hummer analogy is precise: if you never pay for gas, you'll drive a gas-guzzler everywhere and never think about efficiency. Claude Code subscribers operate in exactly this illusory environment. On a $20/month subscription, users may burn $150+ in actual compute. On $200/month, over $2,700.
 

@@ -55,6 +55,10 @@ related:
   - INS-260330-0B79
   - INS-260330-2F22
   - INS-260329-560D
+evidence:
+  - id: INS-260329-560D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Shear warns that asking about features creates a dangerous trap: a real person with a real problem asking for a specific feature is nearly impossible to say no to. But this produces the 'horseless carriage effect' — users describe incremental improvements to their current workflow rather than revealing the underlying problem that could lead to a transformative solution.
 

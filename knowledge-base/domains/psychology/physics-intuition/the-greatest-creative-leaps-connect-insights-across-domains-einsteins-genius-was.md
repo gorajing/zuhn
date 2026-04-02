@@ -59,6 +59,10 @@ related:
   - INS-260330-CA8E
   - INS-260330-7EFD
 stance: Einstein's greatest leap was not mathematical but conceptual
+evidence:
+  - id: INS-260323-2D1D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Carroll traces Einstein's path to general relativity through three distinct creative leaps: (1) realizing that gravity is undetectable in free fall (the happiest thought of his life), (2) reasoning that this means gravity isn't like other forces — it's a feature of spacetime itself, and (3) recognizing he needed new mathematical tools (differential geometry) and teaching them to himself.
 

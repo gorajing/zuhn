@@ -43,6 +43,19 @@ resolutions:
 stance: >-
   Production system costs can be reduced from $300/month to $10/month while
   processing 10x more data
+evidence:
+  - id: INS-260322-8BC5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-ED9D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-45A9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-D1B7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 The six LLM cost strategies — cheaper model testing, OpenRouter management,

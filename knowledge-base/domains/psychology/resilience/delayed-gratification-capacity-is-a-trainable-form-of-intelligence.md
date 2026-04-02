@@ -58,6 +58,10 @@ related:
   - INS-260329-9A7F
   - INS-260330-0149
   - INS-260329-DD06
+evidence:
+  - id: INS-260322-30A0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi frames delayed gratification through a biological lens: from primates upward, the sign of intelligence is the ability to abstract a reward back to the original action over increasingly longer delays. A monkey needs immediate feedback; a human can work for years toward an abstract goal.
 

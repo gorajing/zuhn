@@ -49,11 +49,10 @@ stance: >-
   unexploited positions on that curve.
 related:
   - INS-260322-5678
-  - INS-260329-393C
   - INS-260329-5C25
   - PRI-260328-5F64
   - INS-260329-E839
+  - INS-260402-06DB
   - INS-260329-8A13
-  - INS-260329-A461
 ---
 The iceberg structure reveals a consistent pattern: languages at each tier trade control for abstraction. Python/JavaScript maximize abstraction (dynamic types, GC, high-level APIs). C/C++ maximize control (manual memory, direct hardware access). The most successful modern languages — Go, Rust, TypeScript — found *gaps* in this curve. Go offers C-like performance with GC simplicity. Rust offers C-like control without pointer dangers via borrow checking. TypeScript adds type safety to JavaScript without abandoning its ecosystem. This framework predicts where the next successful languages will emerge: at unexploited positions on the curve where developers currently face painful trade-offs. It also explains why 'better versions' of existing languages (D vs C++, Nim vs Python) often fail — they don't occupy a genuinely new position on the curve.

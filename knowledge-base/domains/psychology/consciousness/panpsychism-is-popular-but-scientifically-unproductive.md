@@ -54,6 +54,10 @@ related:
   - INS-260330-2E54
   - INS-260330-EEAE
   - INS-260323-0961
+evidence:
+  - id: INS-260323-0961
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Panpsychism holds that consciousness is a fundamental property of the universe, like mass or electrical charge, present in all matter from the start. Seth acknowledges it might be right — but argues it is scientifically unproductive. Its main motivation is a suspicion that physicalist explanations will never suffice, leading to the move: if you cannot explain how consciousness arises from matter, just stipulate that it was always there.
 

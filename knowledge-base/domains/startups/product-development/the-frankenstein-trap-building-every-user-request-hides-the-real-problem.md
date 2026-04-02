@@ -59,6 +59,9 @@ evidence:
   - id: INS-260330-2F22
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260329-560D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Cheung warns against the 'Frankenstein approach': users give you feedback, you build every feature they suggest, and the product becomes a stitched-together monster that doesn't coherently solve anything. The antidote is to treat every feature request as a symptom, not a diagnosis.
 

@@ -54,6 +54,10 @@ related:
   - PRI-260328-0C15
   - INS-260330-1F7E
   - INS-260327-9D51
+evidence:
+  - id: INS-260330-1F7E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Drawing on his experience running Hacker News from 2007-2014, Graham provides a rare first-person data point: users were approximately three times more likely to upvote something if it outraged them. This wasn't caused by any particular ideology — it's an inherent feature of social media, or at least the current generation of it.
 

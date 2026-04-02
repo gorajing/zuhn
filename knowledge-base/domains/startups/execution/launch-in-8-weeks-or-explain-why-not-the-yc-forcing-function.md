@@ -52,6 +52,7 @@ related:
   - INS-260323-4457
   - INS-260330-5D4F
   - INS-260322-A892
+  - INS-260402-E85D
 ---
 Seibel frames launch speed as a non-negotiable forcing function. When he asks a company how long until launch, his follow-up is always 'why does it take longer than two months?' He doesn't care what the product is or where the team is in development — two months is the ceiling.
 

@@ -50,6 +50,10 @@ resolutions:
     because they either removed the user from the product entirely or
     eroded willingness to pay full price.
 stance: Offering trial extensions is the most effective cancellation retention tactic
+evidence:
+  - id: INS-260320-9937
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Coconote tested multiple approaches to save users during the cancellation

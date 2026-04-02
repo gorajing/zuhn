@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 200 insights
+> 202 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -40,6 +40,7 @@
 - `INS-260330-E982` [high] Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260329-047C` [high] The zip code you're born in predicts earnings better than IQ, race, or degree — college's real value is changing your social environment.
 - `INS-260330-A3EB` [high] RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
+- `INS-260402-D9D0` [high] Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
 - `INS-260330-5E67` [high] Finding an equivalent random process that's easier to analyze is the master key to probability problems.
 - `INS-260330-3737` [high] Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
 - `INS-260329-E43B` [high] Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
@@ -170,6 +171,7 @@
 - `INS-260330-CC51` [medium] Stuart Firestein argues science begins where facts run out — riding the wave of ignorance outward is more productive than circling within known facts.
 - `INS-260330-5DA6` [medium] Physics departments deliberately flunk most students in elementary physics, encouraged by engineering departments that don't want engineers building bridges that fall down — intentional difficulty filters for fundamental competence.
 - `INS-260330-233C` [medium] Certain enjoyable habits act as linchpins that neurochemically lower limbic friction for harder, unrelated habits throughout the day.
+- `INS-260402-F957` [medium] Hackers start original and get good; scientists start good and get original — requiring opposite educational models.
 - `INS-260330-8F91` [medium] Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
 - `INS-260329-438D` [medium] Motivation scales with the perceived gap between where you are and your reference point — change who you compare yourself to and you change your drive.
 - `INS-260330-C8ED` [medium] Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.

@@ -52,6 +52,7 @@ related:
   - INS-260329-2EB1
   - INS-260327-0700
   - INS-260329-92E9
+  - INS-260402-D534
 stance: >-
   Replace subjective 'rate 1-10' evals with binary yes/no questions (e.g., 'Does
   the hook describe a result, not a feature?') to make optimization ma...

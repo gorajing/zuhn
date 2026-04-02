@@ -47,8 +47,8 @@ related:
   - PRI-260323-2C5C
   - PRI-260328-B11D
   - INS-260327-3349
+  - INS-260402-9075
   - INS-260327-8254
-  - INS-260323-4C43
 stance: >-
   The founder's biggest regrets were moments he wasn't bold enough -- he learned
   that even the worst outcome of change is better than stagnation.

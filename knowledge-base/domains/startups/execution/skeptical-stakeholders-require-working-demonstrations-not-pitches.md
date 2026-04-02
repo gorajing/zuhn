@@ -42,11 +42,11 @@ stance: >-
   demonstrations that outperform existing methods are the only way to overcome
   deep institutional skepticism — no amount of pitching or explaining will work.
 related:
-  - INS-260327-CB1E
   - INS-260327-BE1F
   - INS-260327-CFD5
   - PRI-260328-1D0B
-  - PRI-260323-2FEE
+  - INS-260402-92AE
+  - INS-260327-CB1E
   - INS-260330-B882
 evidence:
   - id: INS-260327-CB1E

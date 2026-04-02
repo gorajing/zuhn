@@ -54,6 +54,10 @@ related:
   - INS-260325-D624
   - PRI-260328-82BE
   - INS-260402-D8E7
+evidence:
+  - id: INS-260325-4846
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham contrasts two technology introduction models: organic growth (small team, no marketing, fanatically devoted early users, word-of-mouth expansion) versus big bang (VC-backed, heavily marketed, rushing to large user base). Despite the big-bang founders appearing more successful — smooth, well-funded, celebrated — organic growth consistently produces better technology and wealthier founders.
 

@@ -65,6 +65,12 @@ evidence:
   - id: INS-260329-4F04
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-ADF5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-988C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Rometty initially pushed IBM employees to 'go faster, go faster' but discovered she was exhausting them without giving them the tools to actually move faster — like telling someone in hiking boots to run a marathon. The real unlock was changing how work got done: flattening management layers by half, training hundreds of thousands on agile methodology, and building small multi-disciplinary teams.
 

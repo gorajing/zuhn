@@ -62,6 +62,13 @@ related:
 stance: >-
   OpenAI's own research confirms hallucinations cannot be eliminated even with
   perfect training data because they are inherent to probabilistic gener...
+evidence:
+  - id: INS-260330-C9CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-3491
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 OpenAI published research confirming what critics have argued: hallucinations are an inherent property of probabilistic text generation, not a bug to be fixed with better data. Every output is a new generation, never identical, always carrying nonzero error probability.
 

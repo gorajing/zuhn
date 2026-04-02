@@ -58,6 +58,7 @@ related:
   - INS-260323-DE39
   - INS-260330-365B
   - INS-260402-2DCE
+  - INS-260402-B817
 ---
 Murray shares an anecdote about a UK politician who asked him to 'please don't forget to say when we've got something right' alongside inevitable criticism. Murray argues this dual posture — castigating failures AND acknowledging successes — is essential but extremely rare. Most commentators remember to do one or the other, almost never both.
 

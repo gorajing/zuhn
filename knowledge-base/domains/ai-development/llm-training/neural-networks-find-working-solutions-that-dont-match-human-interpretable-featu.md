@@ -55,6 +55,22 @@ related:
   - INS-260325-FD14
   - INS-260330-7DCF
   - INS-260325-B067
+evidence:
+  - id: INS-260330-0FCC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-3879
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-FD14
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7DCF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-B067
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The 3Blue1Brown MNIST network with two 16-neuron hidden layers achieves 96% accuracy on unseen images, yet when the learned weights are visualized, the second layer neurons show near-random patterns instead of the expected edge detectors. This demonstrates that gradient descent finds local minima that perform well but don't correspond to human-interpretable feature decompositions.
 

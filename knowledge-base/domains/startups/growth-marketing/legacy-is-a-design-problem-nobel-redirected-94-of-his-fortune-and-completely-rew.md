@@ -52,6 +52,10 @@ related:
   - INS-260323-F2C3
   - INS-260327-7F6A
 stance: Today almost no one associates Nobel with dynamite
+evidence:
+  - id: INS-260323-F2C3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Nobel read his premature obituary calling him 'the Merchant of Death,' he saw exactly how the world would remember him. His response was decisive: he redirected 94% of his fortune (equivalent to $340M today) to create prizes for those who 'conferred the greatest benefit on mankind.' The result was total legacy transformation.
 

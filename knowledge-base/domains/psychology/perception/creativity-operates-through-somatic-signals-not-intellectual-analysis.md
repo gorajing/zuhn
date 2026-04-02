@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-C10D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-44EF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Rubin describes the creative process as fundamentally non-intellectual: when something creatively valuable is happening, he experiences it as a physical 'surge of energy' rather than a thought. He compares creative decision-making to tasting two dishes and knowing which one you prefer — the body knows before the mind can articulate why. This aligns with emerging research on interoception and embodied cognition, suggesting that gut feelings encode pattern-matching computations the conscious mind cannot access directly.
 

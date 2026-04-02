@@ -50,6 +50,7 @@ related:
   - INS-260325-502D
   - PRI-260328-4CC0
   - INS-260329-6D3B
+  - INS-260402-AEA1
 stance: >-
   Healthy competition across ideas, companies, products, and cultures —
   maintaining variance — is what keeps complex systems adaptive and growing.

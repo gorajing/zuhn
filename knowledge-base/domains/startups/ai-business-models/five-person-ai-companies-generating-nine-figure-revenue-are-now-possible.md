@@ -56,6 +56,10 @@ related:
   - INS-260325-3CE2
   - PRI-260320-5D78
   - INS-260328-8B2C
+evidence:
+  - id: INS-260325-8F49
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ron from Open Router shared that some companies on their platform are doing $10-100M in revenue with just five people. This is possible because AI models now power the functions that previously required large teams — customer support, content creation, data processing, and even product development through coding agents.
 

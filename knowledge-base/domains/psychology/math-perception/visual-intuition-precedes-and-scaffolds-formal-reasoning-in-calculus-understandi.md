@@ -63,6 +63,10 @@ related:
   - INS-260330-E47D
   - INS-260330-B904
   - INS-260329-C401
+evidence:
+  - id: INS-260402-28BA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course consistently introduces concepts visually before algebraically: slopes of secant lines approaching tangent lines before the limit definition of derivatives, areas of rectangles approaching curves before Riemann sums, graphs of functions before analytic descriptions. This visual-first approach works because the geometric meaning provides a mental scaffold that makes the subsequent symbolic manipulation meaningful rather than arbitrary.
 

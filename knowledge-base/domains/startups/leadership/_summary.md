@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 148 insights
+> 149 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -60,6 +60,7 @@
 - `INS-260322-2ABB` [high] The misconception that leaders must be the most technically knowledgeable person on the team leads to hiring weaker people, which lowers talent density and increases the leader's workload.
 - `INS-260330-50D4` [high] When facing an important decision you haven't thought through from all perspectives, say 'I'm taking this seriously but I need to pause and think it through' rather than giving an immediate answer.
 - `INS-260330-A476` [high] When facing an important decision under pressure, explicitly telling people you need to pause and think it through produces better outcomes than projecting instant confidence.
+- `INS-260402-71A7` [high] Glanville publicly recognizes when team members present better ideas than his own, sending a clear signal that the best idea wins regardless of org chart position.
 - `INS-260322-2FAD` [high] Novice leaders often derive identity from being busy and indispensable, which prevents team members from growing and caps the team's overall capability.
 - `INS-260326-E0E1` [high] Deep work and genuine leadership both drain the same finite resource — you cannot maximize both on the same day.
 - `INS-260322-C6CE` [high] Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.

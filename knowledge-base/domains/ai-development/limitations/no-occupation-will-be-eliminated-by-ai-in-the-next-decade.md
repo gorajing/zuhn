@@ -57,6 +57,16 @@ related:
 stance: >-
   Acemoglu predicts only 5% of tasks will be profitably automated and no current
   occupation will disappear within 5-10 years, because every occupatio...
+evidence:
+  - id: INS-260323-4B1C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260321-F446
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-004B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The 5% automation / 1% GDP prediction stands in stark contrast to Silicon Valley's AGI-around-the-corner narrative. Acemoglu's reasoning: only ~20% of the economy is even in the crosshairs of AI automation, and within that, many tasks are in small companies where automation isn't profitable, or require the kind of judgment and social intelligence AI lacks.
 

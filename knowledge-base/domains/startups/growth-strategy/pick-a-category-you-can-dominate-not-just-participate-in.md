@@ -59,6 +59,10 @@ related:
 stance: >-
   The #1 strategic decision is choosing a category you can realistically become
   #1 in
+evidence:
+  - id: INS-260321-99C0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Physicians Choice initially launched with probiotics, turmeric, ashwagandha, collagen, and other products — the typical 'throw things at the wall' approach. They were competing against specialists in every category while spreading themselves thin. The turning point was asking 'where can we actually dominate?' and consolidating all resources into probiotics.
 

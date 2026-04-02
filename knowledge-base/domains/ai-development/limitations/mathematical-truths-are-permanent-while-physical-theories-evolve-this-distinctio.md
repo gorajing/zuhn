@@ -65,6 +65,31 @@ related:
 stance: >-
   Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity
   was superseded by Einstein's
+evidence:
+  - id: INS-260323-DA1E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-72EB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-820C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-849E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-7345
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-EB9E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-C3FA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-EBDD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Frenkel draws a crucial distinction: physical theories evolve (Newton superseded by Einstein), but mathematical truths are permanent. x^2 + y^2 = z^2 means the same thing to anyone in the world regardless of culture, religion, or era, and will still be true in a thousand years. This permanence comes from proof by logical deduction rather than empirical observation.
 

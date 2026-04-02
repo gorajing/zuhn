@@ -68,5 +68,8 @@ evidence:
   - id: INS-260321-6D01
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260402-2A1D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Gonzalez warns of a 'self-sufficiency spiral': AI enables people to do more work solo, colonizing tasks that previously required collaboration. Even remaining interdependent tasks (emails, presentations, meetings) get intermediated by AI. This erodes the interactive moments that build organizational culture and shared identity. He draws a direct parallel to social media, which promised connection but delivered fragmentation and polarization. The risk is that AI in the workplace produces the same outcome — technically more productive individuals who are collectively less cohesive, less aligned, and less capable of the emergent coordination that defines healthy organizations.

@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 271 insights
+> 273 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -80,6 +80,7 @@
 - `INS-260330-CC0F` [high] Great founders hold opposing strategies simultaneously and apply judgment about which to emphasize at each moment.
 - `INS-260330-52C7` [high] Great founders excel at switching between opposing modes contextually, not at mastering every individual skill.
 - `INS-260330-70F5` [high] Founder excellence is paradox navigation, not single-dimension optimization.
+- `INS-260402-9075` [high] Most startups die not from bad decisions but from founders who never fully committed.
 - `INS-260323-9770` [high] LIGO scientists built a billion-dollar machine on Einstein's unproven prediction and waited 10 years of silence before their first detection.
 - `INS-260320-07A2` [high] Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260328-EBBC` [high] The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
@@ -131,6 +132,7 @@
 - `INS-260323-C814` [high] Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
 - `INS-260328-68BA` [high] The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-7F3E` [high] True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.
+- `INS-260402-FEA3` [high] The real world rewards nerds because scale lets niches cluster and real stakes make competence trump charisma.
 - `INS-260325-17BF` [high] Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
 - `INS-260329-388E` [high] Goodwill functions like a financial asset that compounds over time and generates measurable returns.
 - `INS-260322-1A20` [high] In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.

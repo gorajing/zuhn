@@ -53,12 +53,12 @@ related:
   - INS-260325-7417
   - INS-260323-5D6D
   - INS-260327-B19E
-  - INS-260327-AAFA
   - INS-260327-F0C0
   - INS-260327-4279
   - INS-260327-2F75
   - PRI-260328-4000
   - PRI-260328-1654
   - PRI-260323-C49D
+  - INS-260329-6BFC
 ---
 Two principles describe complementary threats to cognitive capacity: the AI principle that outsourcing cognitive exercise destroys the capacity it was designed to build (using AI to skip hard thinking prevents developing judgment), and the psychology principle that deliberate boredom is the most reliable cognitive reset available (the brain requires periods of zero stimulation to consolidate, synthesize, and restore). The synthesis: cognitive capacity requires a use/rest cycle identical to physical muscle. Hard thinking (exercise) builds capacity. Deliberate boredom (rest) restores it. Modern life attacks both sides simultaneously — AI tools outsource the exercise while smartphones eliminate the rest. The practical implication: schedule both hard-thinking blocks (no AI assistance) AND boredom blocks (no digital input) into every day. The combination is what maintains the cognitive capacity that makes you irreplaceable.

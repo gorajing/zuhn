@@ -50,12 +50,12 @@ stance: >-
   Optimizing for speed to $1M/year often prevents reaching $10M/year because the
   strategies are fundamentally different at each scale
 related:
-  - INS-260323-7E6F
   - INS-260321-1992
   - INS-260326-A0B4
-  - INS-260329-06F2
+  - INS-260323-7E6F
+  - INS-260402-E60E
   - INS-260329-9115
-  - PRI-260328-4810
+  - INS-260329-06F2
 ---
 Hormozi uses the slot machine analogy: three machines cost the same effort but pay out $100K, $10M, and $1B respectively — with the catch that higher payouts take longer to materialize. Most people line up at the $100K machine because it pays out immediately. The rational choice is the $1B machine, but human time-preference bias makes this psychologically nearly impossible.
 

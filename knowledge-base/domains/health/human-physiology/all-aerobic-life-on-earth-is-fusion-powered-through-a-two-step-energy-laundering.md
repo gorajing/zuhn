@@ -70,6 +70,10 @@ related:
   - INS-260330-20FD
   - INS-260330-498B
   - INS-260330-E8CF
+evidence:
+  - id: INS-260330-B076
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The light-dependent reactions of photosynthesis begin when a photon — born from hydrogen fusion in the Sun's core and traveling 93 million miles — strikes a chlorophyll molecule and excites an electron. That electron's energy is then laundered through an elaborate transport chain: Photosystem II splits water (producing the oxygen we breathe), the Cytochrome Complex pumps protons to create a concentration gradient, ATP Synthase harvests that gradient to make ATP, and Photosystem I re-energizes electrons to make NADPH.
 

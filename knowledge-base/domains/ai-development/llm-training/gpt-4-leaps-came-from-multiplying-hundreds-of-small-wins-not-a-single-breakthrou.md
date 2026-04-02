@@ -53,6 +53,10 @@ related:
 stance: >-
   The jump from GPT-3.5 to GPT-4 came from hundreds of small improvements
   multiplied together across data, training, architecture, and optimization.
+evidence:
+  - id: INS-260323-F310
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Altman explicitly counters the narrative that major model leaps come from single breakthroughs. OpenAI's approach is finding many small wins — in data collection, data cleaning, training methods, optimizer design, architecture choices — and multiplying them together. Each individually may seem incremental, but the multiplicative impact produces dramatic leaps.
 

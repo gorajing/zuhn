@@ -57,5 +57,12 @@ related:
   - INS-260329-01F2
   - INS-260329-A86F
   - INS-260329-F886
+evidence:
+  - id: INS-260329-4842
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A86F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Google Research's TurboQuant algorithm compresses the key-value cache — the primary memory bottleneck in long-context LLM inference — from 32-bit to 3-bit precision without any training, fine-tuning, or accuracy degradation. On H100 GPUs, 4-bit TurboQuant achieves 8x speedup in computing attention logits compared to unquantized baselines. The algorithm combines PolarQuant (random rotation + polar coordinate quantization) with QJL (1-bit error correction). This is evidence that inference-layer optimization, not model scaling, is the dominant cost reduction vector for deployed AI systems. Presented at ICLR 2026 with rigorous theoretical proofs operating near theoretical lower bounds.

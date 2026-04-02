@@ -56,5 +56,9 @@ related:
   - INS-260329-FEC5
   - INS-260325-C7FA
   - INS-260327-2C5F
+evidence:
+  - id: INS-260327-2C5F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Dr. Chuck makes an observation that seems simple but has deep implications: 'It is much easier for us to learn to speak their language than it is for them to learn to speak our language.' He notes that despite 40-50 years of work on natural language understanding, computers are only beginning to understand human language. Meanwhile, a motivated beginner can learn to communicate with computers in Python within weeks. This asymmetry is profound for the AI era. Even as LLMs dramatically improve natural language interfaces, the precision gap remains: programming languages are unambiguous by design while human language is ambiguous by nature. When you need the computer to do exactly what you mean—not an approximation—speaking its language is still the reliable path. This suggests that even in an AI-saturated future, the ability to drop into precise, formal specification (code) when natural language fails will remain a critical skill. The humans who can switch between both modes—natural language for exploration and formal language for execution—will have a compound advantage.

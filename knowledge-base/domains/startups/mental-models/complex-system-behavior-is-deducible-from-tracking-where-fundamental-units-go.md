@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-3B6C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-2785
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The deepest insight from linear transformations is operational: you don't need to watch what happens to every vector. You only need to track where the basis vectors land, and linearity guarantees that every other outcome is determined. This is a powerful mental model beyond mathematics.
 

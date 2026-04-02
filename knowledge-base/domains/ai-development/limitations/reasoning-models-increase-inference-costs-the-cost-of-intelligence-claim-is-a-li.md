@@ -59,6 +59,16 @@ related:
 stance: >-
   While per-token costs have decreased, reasoning models burn dramatically more
   tokens per task, so actual inference costs per useful output have inc...
+evidence:
+  - id: INS-260325-BEAC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-D079
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-4FF3
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Sam Altman and others repeatedly claim 'the cost of intelligence is going down.' Zitron dismantles this: while the cost per individual token may decrease, reasoning models (introduced September 2024) evaluate multiple steps per query, with each step having its own hallucination risk. The total tokens consumed per useful output have exploded.
 

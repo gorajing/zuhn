@@ -48,5 +48,9 @@ related:
   - INS-260329-808C
   - INS-260327-D0F4
   - INS-260330-0871
+evidence:
+  - id: INS-260329-808C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kisson built a restaurant booking app in Hong Kong. She sold to restaurant owners, but the actual users were part-time front-of-house employees with high turnover who were never briefed on the app. When customers called to confirm reservations, employees said they'd never heard of it — customers deleted the app thinking it was a scam. The lesson is universal in B2B: the buying decision maker and the daily user are often different people with different needs. Products must be designed for adoption by the actual users, not just sold to the budget holder.

@@ -60,6 +60,10 @@ related:
   - PRI-260325-7A6B
   - INS-260330-45FF
   - INS-260330-EA94
+evidence:
+  - id: INS-260323-9385
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 De Botton presents a striking statistic: a person's life satisfaction is determined by up to 70% by the quality of their personal relationships. A rational response would be to dedicate proportional resources -- money, education, time -- to understanding relationships. Instead, we leave it entirely to chance, because romantic culture sees rational planning as antithetical to love.
 

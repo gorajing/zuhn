@@ -56,6 +56,10 @@ related:
   - INS-260322-AF17
   - INS-260327-D0F4
   - INS-260327-432E
+evidence:
+  - id: INS-260323-F62A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham makes a counterintuitive observation about the psychological barrier to entrepreneurship in mid-20th century America: it wasn't that starting a company seemed too ambitious or risky — it was that it didn't seem ambitious enough. Prestige derived from institutional affiliation. Your status was the status of the organization you belonged to. College trained people to join the professional classes, not to do the 'grubby menial work' that Carnegie or Ford started with. The ambitious plan was prestigious education followed by climbing a prestigious hierarchy.
 

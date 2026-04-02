@@ -56,6 +56,10 @@ related:
   - INS-260330-D7DF
   - INS-260327-F06B
   - INS-260323-9773
+evidence:
+  - id: INS-260323-9773
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dr. Palmer's index case — a 33-year-old man with schizoaffective disorder who had failed 17 medications — spontaneously reported resolution of auditory hallucinations and paranoid delusions 6-8 weeks into a ketogenic diet initially prescribed only for weight loss. He lost 160 pounds, completed a certificate program, performed improv publicly, and moved out of his father's home. Palmer had no expectation the diet would affect psychiatric symptoms since he'd only observed antidepressant effects previously.
 

@@ -57,6 +57,10 @@ related:
   - INS-260330-4E09
   - INS-260330-76DA
   - INS-260330-7E66
+evidence:
+  - id: INS-260325-1080
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The default mode of disagreement is strawmanning: arguing against the weakest version of an opposing position. This feels satisfying but teaches nothing. Steelmanning - constructing the strongest possible version of the opposing argument - is uncomfortable but transformative.
 

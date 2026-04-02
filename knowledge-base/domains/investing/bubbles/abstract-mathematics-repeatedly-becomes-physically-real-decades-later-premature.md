@@ -55,6 +55,13 @@ related:
   - INS-260330-5641
   - INS-260325-CC49
   - INS-260325-EBDD
+evidence:
+  - id: INS-260323-2D1D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-CC49
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Non-Euclidean geometry was pure abstraction until Einstein needed it for general relativity. Complex numbers were 'imaginary' until quantum mechanics made them indispensable. Group theory was recreational mathematics until it became the language of particle physics. The video notes that researchers have already published papers linking Banach-Tarski to sub-atomic particle collisions, where particles can collide and produce more particles than existed initially.
 

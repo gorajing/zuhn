@@ -53,6 +53,10 @@ resolutions:
 stance: >-
   The fastest path to the right idea is aggressively trying to disprove your
   current ones
+evidence:
+  - id: INS-260330-E282
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Max wasted 3 months hoping someone would validate his ideas. The

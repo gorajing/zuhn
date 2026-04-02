@@ -51,7 +51,6 @@ stance: >-
   competitor users combined, making them the most strategically important
   interview group for long-term growth
 related:
-  - INS-260322-4B63
   - INS-260327-560D
   - INS-260330-82B5
   - INS-260330-D1C8
@@ -60,6 +59,10 @@ related:
   - INS-260330-1854
   - INS-260402-426C
   - INS-260330-EF64
+evidence:
+  - id: INS-260330-82B5
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Shear makes the counterintuitive argument that non-users are often the most important people to interview. For most new products, the vast majority of potential users aren't using any solution — yours or competitors'. If you only talk to current users and competitor users, you optimize for a tiny slice of the total addressable market and never learn what prevents the rest from participating.
 

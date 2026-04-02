@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260325-F500
   - INS-260325-239C
+  - INS-260402-B065
   - INS-260325-05E4
   - INS-260323-E81D
-  - INS-260326-6CA3
 ---
 Naval argues that society trains us for the multiplayer game because society is a multi-user organism that optimizes for collective ends. Only the individual can discover the single-player frame. This reframe has three benefits: it removes the crutch of victimhood (even for real victims, the agency frame produces better outcomes), it forces you to create your own meaning rather than searching for an externally imposed one, and it makes adversity a feature rather than a bug — like a game with no obstacles would be boring, a life without challenges would be meaningless.
 

@@ -60,6 +60,34 @@ related:
 stance: >-
   Black holes existed in the Schwarzschild solution from 1917 but weren't
   recognized until the 1950s
+evidence:
+  - id: INS-260323-0556
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-A52F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7EFD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-DA1E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-9A46
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-61D4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-738D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2783
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9B16
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Carroll highlights an embarrassing episode in physics history: Karl Schwarzschild derived the solution describing black holes in 1917, just two years after general relativity. No one — including Einstein himself — recognized what the solution actually described for nearly 40 years. The greatest minds were focused elsewhere (quantum mechanics, particle physics) and nobody invested effort in understanding the implications of an existing solution.
 

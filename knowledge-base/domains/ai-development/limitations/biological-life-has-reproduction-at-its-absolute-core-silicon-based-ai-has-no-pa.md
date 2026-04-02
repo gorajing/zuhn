@@ -60,6 +60,16 @@ related:
 stance: >-
   The biological stack starts with reproduction at the cellular level; the
   silicon stack has no reproduction capability at all
+evidence:
+  - id: INS-260330-56D6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-8538
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-EB48
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hotz identifies a profound asymmetry between biological and silicon intelligence: biological life, from the first proto-RNA organisms, has reproduction as its foundational capability. Every cell can reproduce independently. But AI systems require semiconductor fabs — a 3D printer that prints 3D printers with atomic precision is impossibly hard because you need to dope silicon, etch nanometer features, etc. Even ants, seemingly simple, are made of individually-reproducing cells performing enormous computation we take for granted.
 

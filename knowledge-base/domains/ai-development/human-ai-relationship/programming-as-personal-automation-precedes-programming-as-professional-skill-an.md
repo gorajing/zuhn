@@ -61,6 +61,16 @@ related:
   - INS-260322-EDA4
   - INS-260329-30D7
   - INS-260330-579B
+evidence:
+  - id: INS-260320-6A9D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-EDA4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-579B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dr. Chuck explicitly positions Python not as a professional skill to acquire for employment but as a personal tool for automating tedious tasks you already face — downloading and organizing data, parsing log files, extracting information from websites. This framing choice is pedagogically powerful because it connects the difficulty of learning to program with an immediate, personal payoff.
 

@@ -49,5 +49,18 @@ related:
 stance: >-
   A worker saving 20% of their time is 'soft savings' — employers rarely
   productively reallocate that 20% immediately
+evidence:
+  - id: INS-260328-E410
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4CA7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-F15D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-7E6F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Companies initially measured gen AI value by labor savings (like RPA or robots). This proved incomplete. Individual productivity gains are hard to connect to the bottom line — faster task completion doesn't automatically mean less cost or more revenue. The most promising use cases aren't about speed — they're about unlocking capabilities that previous tools couldn't address: doctors summarizing notes (a longstanding pain), lawyers categorizing contracts with subtle differences. These succeed because workers already understood and were motivated to solve these problems. The lesson: measure AI value by capabilities unlocked, not time saved.

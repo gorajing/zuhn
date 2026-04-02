@@ -59,6 +59,10 @@ related:
 stance: >-
   Speed is the shortest distance between seeing and acting on an opportunity;
   time is making a good decision and holding it
+evidence:
+  - id: INS-260321-988C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Srivatsaa contrasts his own path (flipping 100 homes in 5 years for cash) with a friend who bought one property, then a fourplex, then a 20-unit complex. After 5 years, the friend's net worth was 5x larger because he was working on time while Srivatsaa was working on speed. Fast action is not equal to fast results.
 

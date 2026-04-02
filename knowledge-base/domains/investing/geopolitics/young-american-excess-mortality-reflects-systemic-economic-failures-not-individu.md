@@ -56,6 +56,7 @@ related:
   - INS-260330-6C3D
   - INS-260327-D77C
   - INS-260327-A478
+  - INS-260402-8F1E
 ---
 A comprehensive 40-year study across 22 countries found Americans aged 25-44 face 2.5x higher mortality than peers in other high-income countries. The causes aren't a single factor but a comprehensive list of systemic failures: healthcare tied to employment, economic stress driving substance abuse, geographic inequality creating 20-year life expectancy gaps between counties.
 

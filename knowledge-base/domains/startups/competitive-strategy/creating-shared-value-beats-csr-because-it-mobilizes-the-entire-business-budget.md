@@ -60,6 +60,10 @@ related:
   - INS-260327-B034
   - INS-260329-0B9D
   - INS-260327-8D5D
+evidence:
+  - id: INS-260320-2058
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Porter draws a sharp distinction between CSR (externally-driven, separate from profit, budget-constrained) and CSV (company-specific, integral to profit maximization, mobilizing the entire corporate budget). Traditional CSR responds to external pressure points and rarely moves the needle on social issues in measurable ways. CSV requires deep understanding of your specific value chain, products, and customers to find where business competitiveness and social conditions intersect.
 

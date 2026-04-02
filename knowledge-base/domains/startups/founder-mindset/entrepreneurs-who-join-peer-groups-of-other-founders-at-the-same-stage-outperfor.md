@@ -57,5 +57,9 @@ related:
   - INS-260330-C9C6
   - INS-260327-725F
   - INS-260329-27A7
+evidence:
+  - id: INS-260325-8F49
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 EO (Entrepreneurs' Organization) has 18,000+ members across 200+ chapters globally, all running businesses above $1M revenue. Their core mechanism is the Forum: 6-8 entrepreneurs who meet monthly to share challenges using a structured format (Gestalt protocol — share experience, don't give advice). The power: founders at similar stages face similar problems. A peer who solved your exact challenge 6 months ago provides more relevant guidance than a VC or board member who hasn't operated at your scale in years. The emotional benefit is equally important: entrepreneurship is lonely, and peers who understand the specific stress of your stage provide validation that family and friends cannot. Multiple EO members report that their Forum saved their business and/or their marriage.

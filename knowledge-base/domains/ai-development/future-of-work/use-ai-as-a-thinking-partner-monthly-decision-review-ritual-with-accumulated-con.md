@@ -53,5 +53,18 @@ related:
 stance: >-
   Share every major decision with AI daily, then monthly ask 'what was my
   biggest mistake in the past 6 months?'
+evidence:
+  - id: INS-260322-F128
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F007
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-DB4B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Young's daily practice: share every major decision with ChatGPT or Gemini — forward screenshots of group discussions, drop links to PRDs and specs, document decisions as they happen. Monthly ritual: ask AI 'what are my major decisions in the past month, give me feedback.' With 6+ months of accumulated context, you can ask powerful reflective questions: 'What was my biggest mistake in the past 6 months?' or 'What would you have suggested 3 months ago?' Mustafa Suleiman (Microsoft AI CEO) does the same with Copilot — talks about his day, his decisions, how they made him feel, so that when similar situations arise months later, the AI can reference past regrets and outcomes. The key skill is not one-line prompts but throwing maximum context and doing 20+ rounds of back-and-forth.

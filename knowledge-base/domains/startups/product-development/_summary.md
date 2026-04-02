@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 117 insights
+> 118 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -43,6 +43,7 @@
 - `INS-260330-84F4` [high] Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
 - `INS-260327-555D` [high] Gamma's founder dismissed GPT-3 in 2020 as inadequate for slides, but was captivated by Stable Diffusion in 2022 because visual AI output has an inherent virality and magic that text output lacks.
 - `INS-260322-58B7` [high] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
+- `INS-260402-E85D` [high] The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously.
 - `INS-260330-FE9E` [high] Your job is to listen to customer problems and translate them into the best simplest solution — not to build exactly what they tell you to build.
 - `INS-260330-2C79` [high] Translate customer problems into elegant solutions rather than implementing their proposed features.
 - `INS-260323-6C84` [high] Wikipedia's predecessor Nupedia had a 7-stage academic review process that produced almost nothing in 2 years — switching to open wiki editing produced more work in 2 weeks than 2 years of rigorous process.

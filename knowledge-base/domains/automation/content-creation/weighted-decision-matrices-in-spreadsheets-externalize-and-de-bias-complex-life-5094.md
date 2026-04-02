@@ -55,6 +55,7 @@ related:
   - INS-260329-EE04
   - INS-260329-0B76
   - INS-260330-BFD0
+  - INS-260402-D534
 ---
 The career decision matrix project assigns weighted scores to job criteria (salary, location, growth, culture) and computes a total for each option. This simple structure does something psychologically powerful: it separates the act of defining what matters from the act of evaluating specific options.
 

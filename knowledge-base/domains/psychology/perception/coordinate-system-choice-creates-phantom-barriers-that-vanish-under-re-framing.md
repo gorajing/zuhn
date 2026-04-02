@@ -50,6 +50,10 @@ related:
 stance: >-
   Problems that appear impossible often result from the wrong framing, not the
   wrong physics.
+evidence:
+  - id: INS-260325-CC49
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Schwarzschild metric produced a fake singularity at the event horizon that confused physicists for decades, including Einstein. The singularity vanished entirely when a different coordinate system was chosen. The underlying reality never changed -- only the map did.
 

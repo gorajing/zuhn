@@ -61,6 +61,13 @@ related:
   - INS-260329-AAD1
   - INS-260320-9937
   - INS-260327-5B47
+evidence:
+  - id: INS-260329-808C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260320-9937
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In the 1890s, Asa Candler pioneered what may be the first systematic free-trial customer acquisition program. He contacted every pharmacy, obtained their top customer lists, and sent free Coca-Cola coupons. The explicit logic was that a free trial would create 'customers for life' — aided by the drink's addictive chemicals (caffeine, sugar, and initially cocaine).
 

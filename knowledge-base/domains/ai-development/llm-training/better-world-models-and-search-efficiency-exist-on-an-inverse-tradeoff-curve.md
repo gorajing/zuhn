@@ -51,5 +51,9 @@ related:
   - INS-260322-5790
   - INS-260322-83D4
   - INS-260320-96C9
+evidence:
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hassabis illustrates this with a striking comparison across chess-playing systems: Deep Blue (no real model, millions of positions searched), AlphaZero (decent model, tens of thousands searched), and human grandmasters (rich mental model, hundreds of positions considered). This reveals a power law relationship — each order-of-magnitude improvement in model quality reduces search requirements by roughly two orders of magnitude. The practical implication for AI development is that investments in model quality may yield greater returns than investments in raw search compute. This also explains Einstein's approach to physics: he built such accurate mental models through visualization and intuition that he could reach revolutionary conclusions with minimal formal search. The principle suggests that the most compute-efficient path to capable AI systems is improving the underlying world model rather than scaling brute-force search.

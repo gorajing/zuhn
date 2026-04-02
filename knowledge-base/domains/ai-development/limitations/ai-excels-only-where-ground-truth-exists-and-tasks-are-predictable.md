@@ -59,6 +59,25 @@ stance: >-
   AI's strongest achievements (AlphaGo, AlphaFold) are in domains with
   verifiable ground truth, not in the tacit-knowledge-heavy tasks that dominate
   ...
+evidence:
+  - id: INS-260327-94FE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-70DF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-AC23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-F282
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-F540
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F55A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Acemoglu draws a sharp distinction between tasks where AI thrives and where it struggles. AI excels in predictable, office-based cognitive tasks with clear right/wrong answers — protein folding, game playing, routine accounting. But most real-world occupations require tacit knowledge, contextual judgment, social intelligence, and interaction that AI cannot replicate.
 

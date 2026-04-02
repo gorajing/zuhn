@@ -55,6 +55,10 @@ related:
   - INS-260321-9A03
   - INS-260323-9E30
   - INS-260329-DC86
+evidence:
+  - id: INS-260321-9A03
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Building on Shopify CEO Toby Lutke's 'trust battery' framework, Kaz inverts the conventional approach. Rather than starting cautious and slowly building trust, he starts at 75% to underwrite early risk-taking by new team members. The reasoning: if you join a hockey team and assume your center is bad, you'll overcompensate and never learn their true capability. Better to assume competence and let reality reveal itself quickly.
 

@@ -6,6 +6,7 @@
 - `INS-260330-5828` External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative.
 - `INS-260323-DA91` Camus's Sisyphus finds happiness not by winning but by embracing the insurmountable task with full commitment — meaning comes from service and duty, not from outcomes.
 - `INS-260325-13B9` We suffer doubly from problems — once from the problem itself and once from the false belief that we shouldn't have problems at all.
+- `INS-260402-D9D0` Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
 - `INS-260330-D006` Peterson argues that beauty — particularly in art and architecture — functions like empirical evidence pointing to deep structural truths, not unlike how scientific data points to natural laws.
 - `INS-260325-E9B1` Meaning is found when you reach a motivation so fundamental that asking 'but why?' feels like a category error — for parents it is their children, for the religious it is God, for others it is the pursuit of understanding.
 - `INS-260325-87FC` A nihilist still feels thirsty and still drinks water — nihilism does not remove desires but recognizes that all values trace back to groundless preferences rather than objective purpose.

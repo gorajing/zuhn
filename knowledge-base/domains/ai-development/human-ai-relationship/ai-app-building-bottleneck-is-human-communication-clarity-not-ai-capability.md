@@ -55,6 +55,22 @@ related:
   - INS-260323-197A
   - INS-260329-B4E7
   - INS-260330-FFDB
+evidence:
+  - id: INS-260323-DE2B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-8AA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-BCB7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-0B79
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FFDB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Most people blame the AI tool when their generated app is generic or unusable, but the actual constraint is the quality of human direction. Vague prompts like 'build me a social media app' produce vague results — not because the AI lacks capability, but because it lacks constraints to optimize against.
 

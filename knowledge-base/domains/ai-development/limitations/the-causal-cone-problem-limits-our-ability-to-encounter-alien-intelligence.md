@@ -60,6 +60,31 @@ related:
   - INS-260325-02F2
   - INS-260325-BBF1
   - INS-260323-1EEA
+evidence:
+  - id: INS-260325-696D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-23E0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-5ACA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-76E6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-1670
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-02F2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-BBF1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-1EEA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Even if life emerged independently on billions of planets, the vast distances and finite speed of light mean that most civilizations' causal cones (the regions of spacetime they can influence or observe) never intersect. We may be cosmically lonely not because life is rare but because the universe is too large for neighbors to meet.
 

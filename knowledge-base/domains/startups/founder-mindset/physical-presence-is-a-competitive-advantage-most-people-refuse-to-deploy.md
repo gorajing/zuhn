@@ -50,7 +50,7 @@ related:
   - INS-260325-3B2A
   - PRI-260328-0332
   - PRI-260328-59DC
-  - INS-260325-0147
+  - INS-260402-FE91
   - INS-260326-3CDE
 ---
 Steve Stoute built physical presence into a core company value he calls 'getting on the plane.' The principle: when you can call or email, instead fly to meet them in person, even if the meeting is only 15 minutes. The effort signal is so powerful that it has two effects: ideas that are not as strong go further because the in-person dialogue opens unexpected paths, and ideas that are already strong get prioritized over equally good competing ideas from people who did not make the trip.

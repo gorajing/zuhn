@@ -58,6 +58,10 @@ related:
 stance: >-
   Before ZZT shipped, Sweeney invited neighbors of all ages to play it while
   forcing himself not to explain anything
+evidence:
+  - id: INS-260321-2F43
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Sweeney's proto-UX testing was remarkably simple: invite people over, give them the game, and force yourself to stay silent. The temptation to explain and help is enormous, but the whole point is discovering whether the product is self-explanatory. He took notes on where people got stuck, what they enjoyed, and where they felt bored, then iteratively fixed those problems.
 

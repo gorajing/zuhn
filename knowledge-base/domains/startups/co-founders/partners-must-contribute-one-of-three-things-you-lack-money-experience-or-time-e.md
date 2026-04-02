@@ -56,6 +56,10 @@ related:
   - INS-260322-8D47
   - INS-260329-0CDD
   - INS-260329-B2D8
+evidence:
+  - id: INS-260329-0CDD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 After nine failed partnerships before finding one that worked, Hormozi distills his framework to three tests: does this potential partner have (1) money you don't have, (2) experience you don't have, or (3) time and energy you don't have? Critically, they must also clearly contribute that resource — having experience isn't enough if they're not actively deploying it.
 

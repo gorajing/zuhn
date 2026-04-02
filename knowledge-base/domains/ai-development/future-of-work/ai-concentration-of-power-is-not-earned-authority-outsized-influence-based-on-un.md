@@ -75,6 +75,9 @@ evidence:
   - id: INS-260330-C6A2
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-96E2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Acemoglu and Sandel's framework reveals a troubling pattern in AI governance: companies like OpenAI have spent tens of billions more than they've earned, yet wield enormous influence over society's future. OpenAI appears to have signed contracts enabling mass surveillance — a massive change to society — based not on demonstrated value but on the promise of future capability and the prestige we've accorded tech entrepreneurs.
 

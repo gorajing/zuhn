@@ -57,6 +57,22 @@ related:
 stance: >-
   Using AI to do learning-stage work (writing, reasoning) destroys the cognitive
   development the work was designed to build, creating a generation th...
+evidence:
+  - id: INS-260323-5D6D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-3B69
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260329-023F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-B497
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-2DB0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 LLMs are powerful precisely because they master language patterns, which means the biggest cheating vector is writing — the exact skill that develops logical thinking. Loh uses the analogy: using AI for school writing is like driving your car one mile instead of running it for exercise. You get zero benefit.
 

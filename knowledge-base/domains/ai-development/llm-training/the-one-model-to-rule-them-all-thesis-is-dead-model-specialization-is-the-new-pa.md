@@ -56,6 +56,22 @@ related:
 stance: >-
   Even within OpenAI, the original belief was one AGI model that subsumes
   everything
+evidence:
+  - id: INS-260322-54F3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-FD99
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-0B69
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260321-B7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-02A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 As recently as 2022-2023, the prevailing belief inside OpenAI was that there would be one model that 'rules them all' — which is why a fine-tuning API seemed unnecessary. This view has completely reversed.
 

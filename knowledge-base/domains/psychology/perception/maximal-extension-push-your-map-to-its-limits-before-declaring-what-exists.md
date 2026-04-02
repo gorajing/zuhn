@@ -53,6 +53,10 @@ related:
 stance: >-
   The simplest solution to Einstein's equations already contained black holes,
   white holes, and parallel universes
+evidence:
+  - id: INS-260323-7BA4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Schwarzschild only mapped the 'northern hemisphere' of his solution. It took decades for others to realize the math allowed negative coordinates -- a whole 'southern hemisphere' and beyond. The maximally extended diagram revealed white holes, wormholes, and parallel universes hidden inside the simplest possible case.
 

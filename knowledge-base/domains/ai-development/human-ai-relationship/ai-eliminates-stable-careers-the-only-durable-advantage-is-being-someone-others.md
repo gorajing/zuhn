@@ -59,6 +59,16 @@ related:
   - PRI-260323-50FE
   - INS-260327-015B
 stance: Neither white-collar nor blue-collar jobs are safe from AI
+evidence:
+  - id: INS-260323-D8A9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-6405
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-015B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Loh demolishes the 'safe job' myth systematically. White-collar knowledge work? AI already solves International Math Olympiad problems better than he can. Blue-collar trades like plumbing? Hyundai bought Boston Dynamics and will deploy humanoid robots in manufacturing plants within years. The conclusion: 'For everyone who wanted a stable life, good luck, because AI is going to take that.'
 

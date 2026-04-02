@@ -57,6 +57,10 @@ related:
   - PRI-260324-12CF
   - PRI-260323-F193
   - INS-260327-BE4E
+evidence:
+  - id: INS-260327-BE4E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Reid Hoffman argues that the 'superperson founder' myth is harmful because it suggests founders must score 10/10 on every skill. In reality, the distinguishing capability is navigating apparent paradoxes: being 90% persistent one week and 80% flexible the next, holding firm belief while genuinely listening to criticism, focusing internally on product while simultaneously building external networks. This is not about balance — it's about having the judgment to know which mode the current moment demands. The investment thesis serves as the compass: if confidence is increasing, stay persistent; if decreasing, shift to learning mode. This framework reframes founder evaluation from 'what are they good at' to 'can they dynamically recalibrate across opposing forces under uncertainty.'
 

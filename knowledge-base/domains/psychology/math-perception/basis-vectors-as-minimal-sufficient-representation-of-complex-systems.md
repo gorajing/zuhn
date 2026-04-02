@@ -54,5 +54,8 @@ evidence:
   - id: INS-260330-3B6C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-5A2A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In 2D linear algebra, any transformation that preserves gridline parallelism and the origin is completely determined by where two basis vectors (i-hat and j-hat) land — just 4 numbers capture infinite possible point movements. This is a powerful mental model beyond math: in any system governed by linear-like rules, you don't need to track every element. You need to identify the 'basis' — the minimal set of reference points whose behavior determines everything else. This connects to first-principles thinking in startups (find the few variables that determine outcomes) and to compression in AI (embeddings capture essential meaning in fewer dimensions).

@@ -57,5 +57,11 @@ evidence:
   - id: INS-260321-C3E6
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-5B28
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-BE4E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Double Irish Dutch Sandwich allowed tech companies to route intellectual property licensing through Irish and Dutch subsidiaries, exploiting mismatches in how different countries defined tax residency. Apple's $285B offshore pile was the poster child. But the structure's very success ensured its destruction — Ireland closed the arrangement to new entrants in 2015 under international pressure. This illustrates a broader pattern: tax arbitrage moats are self-undermining because the larger they grow, the more political capital accumulates to close them. Founders and investors should treat tax-optimized structures as temporary margin boosters, not durable competitive advantages.

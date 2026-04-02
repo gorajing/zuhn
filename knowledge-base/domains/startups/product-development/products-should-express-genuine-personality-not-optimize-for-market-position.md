@@ -60,6 +60,9 @@ evidence:
   - id: INS-260322-4090
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-0CDD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Giertz's product company (Yetch) competes in markets with established players by building products that express her specific sensibility: humor, imperfection, human warmth. In a market of optimized, anonymous products, personality becomes the differentiator that specifications cannot replicate.
 

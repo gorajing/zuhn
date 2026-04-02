@@ -43,6 +43,22 @@ resolutions:
 stance: >-
   OpenRouter provides the best unified dashboard for multi-provider LLM cost
   management
+evidence:
+  - id: INS-260327-2C46
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-EDA4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8D5D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-0E4B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-7D53
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 OpenRouter provides a single API endpoint to access models from multiple

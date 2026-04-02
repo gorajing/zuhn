@@ -50,11 +50,11 @@ resolutions:
     unreflective — arbiter of contribution value, but market prices are not
     moral truths.
 related:
+  - INS-260402-A999
   - INS-260330-EA56
   - INS-260327-C316
   - INS-260330-B906
   - INS-260327-4A5D
-  - INS-260329-577E
   - INS-260330-A1A4
 stance: >-
   Even if we perfectly redistributed wealth, the deeper crisis is that society

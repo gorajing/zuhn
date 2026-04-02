@@ -57,6 +57,13 @@ related:
   - INS-260325-0FED
   - PRI-260328-30C2
   - INS-260322-4B4A
+evidence:
+  - id: INS-260325-0FED
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-4B4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 David Deutsch argues that the hallmark of true AGI is not passing conversational tests or pattern-matching at scale, but genuine disobedience: a chess program that says 'I prefer checkers' without being told about checkers, or demands a body to play tennis. This is fundamentally different from simulated disobedience (which can be programmed). Current AI optimization actually moves in the opposite direction — better chess engines examine fewer possibilities per move, becoming more narrow and efficient, while AGI would need to examine possibilities that haven't been foreseen.
 

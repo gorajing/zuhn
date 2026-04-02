@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260329-03B5
   - INS-260329-1ECA
+  - INS-260402-71A7
   - INS-260321-2F09
   - INS-260327-679A
-  - PRI-260323-1B96
 ---
 Kazanjy reframes the demo from 'showing off your product' to 'scripting a great movie.' The structure: open by recapping who the main character is (the prospect's user) and the problem they face. This proves you listened during discovery. Then show a narrative where the main character solves their problem using your product -- with every feature appearing because it serves the story, not because it exists.
 

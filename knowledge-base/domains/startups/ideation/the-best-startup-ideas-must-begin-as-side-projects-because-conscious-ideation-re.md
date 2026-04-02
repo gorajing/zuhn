@@ -55,10 +55,10 @@ related:
   - INS-260327-FCCF
   - INS-260327-D982
   - INS-260327-CD36
-  - INS-260327-4DDE
   - INS-260327-D5CC
   - PRI-260328-59DC
   - PRI-260328-04FA
+  - INS-260328-A9D2
 ---
 Graham argues that making a deliberate effort to think of startup ideas is actively counterproductive—it produces ideas that are 'not only bad but bad and plausible sounding,' fooling both the founder and everyone around them. The best companies started as side projects: Yahoo, Google, Facebook, and Apple were never intended to be companies.
 

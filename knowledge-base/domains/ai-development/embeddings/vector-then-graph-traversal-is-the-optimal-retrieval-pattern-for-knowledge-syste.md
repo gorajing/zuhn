@@ -54,6 +54,13 @@ related:
   - INS-260402-5ACE
   - INS-260330-4B30
   - INS-260329-2DF2
+evidence:
+  - id: INS-260329-61E5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-2DF2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Pure vector search finds semantically similar content but misses structural relationships. Pure graph traversal requires knowing where to start. The demonstrated pattern combines both: use vector embeddings to 'land' near relevant content in the knowledge graph, then traverse graph edges to discover related entities, reasoning chains, and contextual information.
 

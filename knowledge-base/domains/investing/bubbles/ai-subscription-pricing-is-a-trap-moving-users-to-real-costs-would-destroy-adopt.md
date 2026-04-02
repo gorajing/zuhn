@@ -60,6 +60,10 @@ related:
 stance: >-
   Unlike Uber where subsidized-to-real price increases were 2-3x within the
   psychology of cab fares, AI would require 5-7x increases into a range use...
+evidence:
+  - id: INS-260323-F68A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Uber comparison that AI bulls love actually proves the bears' case. Uber's price hikes worked because users had an existing mental model for what a cab ride costs — the subsidized price was low but the real price was within the same order of magnitude. AI subscriptions have no such anchor.
 

@@ -58,6 +58,10 @@ related:
 stance: >-
   When learning guitar, start by learning songs you love rather than scales and
   theory
+evidence:
+  - id: INS-260320-F78E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rick Beato's recommended learning path for guitar: start with open chords in first position, learn to strum basic patterns, and immediately apply these to songs you love. Theory (scales, intervals, chord construction) should come later, after the student has fallen in love with playing.
 

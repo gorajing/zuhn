@@ -59,5 +59,8 @@ evidence:
   - id: INS-260323-539C
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-9BA2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Malan makes the claim that CS is really about problem solving, and that learning to program 'cleans up your thoughts' — teaching you to think more methodically, carefully, correctly, and precisely. The mechanism is that natural language tolerates ambiguity (we infer meaning from context), but code does not — a missing semicolon, an off-by-one error, or an unhandled edge case will break everything. This forces programmers to make their assumptions explicit, which is a transferable reasoning skill. The same dynamic explains why writing improves thinking (you can't write clearly about something you don't understand), why math proofs build logical rigor, and why debugging is one of the highest-leverage learning activities — it requires you to articulate exactly what you expected vs what happened, which is the core skill of analytical reasoning.

@@ -56,6 +56,10 @@ related:
   - PRI-260323-50FE
   - INS-260327-1845
   - INS-260330-AE70
+evidence:
+  - id: INS-260322-D2E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rosolie's work involves real physical danger: venomous snakes, jaguars, hostile poachers, river crossings, and tropical disease. Despite this (or because of it), he describes a quality of aliveness and purpose that people in comfortable careers report lacking.
 

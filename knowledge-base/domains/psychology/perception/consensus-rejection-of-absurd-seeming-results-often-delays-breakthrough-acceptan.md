@@ -54,6 +54,10 @@ related:
 stance: >-
   Black holes were resisted for decades because they seemed 'too preposterous to
   be real,' with senior scientists publicly attacking younger ones for...
+evidence:
+  - id: INS-260323-7BA4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Eddington publicly attacked 19-year-old Chandrasekhar for showing stars could collapse beyond the white dwarf limit, declaring 'there should be a law of nature to prevent a star from behaving in this absurd way.' Einstein himself couldn't believe Oppenheimer's collapse results. The pattern repeated: the math clearly said X, the establishment said X was absurd, and X turned out to be real.
 

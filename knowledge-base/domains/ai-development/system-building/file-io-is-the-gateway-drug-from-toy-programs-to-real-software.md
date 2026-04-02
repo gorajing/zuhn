@@ -55,7 +55,7 @@ related:
   - INS-260327-956D
   - INS-260329-3D28
   - INS-260329-7C59
-  - INS-260329-E015
+  - INS-260329-30D7
 ---
 In Dr. Severance's course structure, the transition from chapter 6 (strings) to chapter 7 (files) is the inflection point where students go from manipulating toy data to processing real information. Before file I/O, every program is a closed system — data exists only within the program's runtime. After file I/O, programs become tools that persist, transform, and analyze real-world data.
 

@@ -67,6 +67,13 @@ related:
 stance: >-
   When AI can perform any technical task, employers hire for trustworthiness and
   genuine care
+evidence:
+  - id: INS-260322-AC23
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-62C1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Po-Shen Loh describes his own hiring philosophy: when he meets someone with great intention and great learning capacity, he doesn't look for a specific role — he just finds a place for them. Conversely, he explicitly avoids hiring people trained for one particular task because 'one or two more years, I can use AI to do that task and it'll be way cheaper.'
 

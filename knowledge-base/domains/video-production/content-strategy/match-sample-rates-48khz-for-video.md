@@ -54,6 +54,10 @@ resolutions:
 stance: >-
   Mismatched sample rates between recording devices cause audio drift that
   worsens over time
+evidence:
+  - id: INS-260326-8201
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 The standard sample rate for video production audio is 48kHz (not

@@ -57,6 +57,10 @@ related:
   - INS-260327-691F
   - INS-260330-F6B5
   - INS-260330-0027
+evidence:
+  - id: INS-260327-684D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Over Tarter's career, two discoveries have fundamentally changed the search for life. First, we discovered exoplanets — moving from knowing only 9 planets in our solar system (then 8 after Pluto's demotion) to knowing that the Milky Way contains more planets than stars. Second, we discovered extremophiles — organisms living and thriving in environments previously taught to be absolutely sterile: extreme temperatures, pressures, and chemical conditions.
 

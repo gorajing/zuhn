@@ -75,6 +75,9 @@ evidence:
   - id: INS-260328-9C16
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-9DC9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Doug Leone, with decades of investing experience, argues that the AI value chain has three layers: foundation models (capital-intensive, consolidating to a few players), infrastructure tooling (threatened by foundation model companies moving up-stack), and vertical applications (the largest and most defensible opportunity). His thesis is that applied AI companies solving domain-specific problems will be the biggest value creators because they are furthest from the foundation model 'sun' and thus least likely to be subsumed.
 

@@ -61,6 +61,22 @@ related:
 stance: >-
   Humans conflate intelligence with consciousness because they co-evolved in us,
   but AI demonstrates that high intelligence can exist with zero consc...
+evidence:
+  - id: INS-260325-916B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-DD48
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-1D46
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-E17F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8289
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harari makes a foundational distinction: intelligence is the ability to solve problems and attain goals; consciousness is the ability to feel things like pain, pleasure, and love. In humans these go together, which is why we confuse them. But computers are already highly intelligent with (as far as we know) zero consciousness.
 

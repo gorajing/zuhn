@@ -56,6 +56,13 @@ related:
   - INS-260329-61E5
   - INS-260402-28BA
   - INS-260330-4B30
+evidence:
+  - id: INS-260327-73BE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-61E5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Vector databases excel at semantic similarity — finding content that points in the same direction in embedding space. But organizational decision-making depends on precedent: why a credit line was approved, why an M&A move was made, why a policy exists. This 'why' knowledge is often tacit — living only in employees' heads as institutional memory.
 

@@ -53,5 +53,27 @@ related:
 stance: >-
   Workers who see their employer as invested in them are more optimistic about
   AI
+evidence:
+  - id: INS-260323-9E30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-627E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-E410
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-760A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-A183
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-7D01
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7349
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 MIT's survey found trust is the key predictor of how workers perceive AI — not technical knowledge, which is less of a barrier than expected. Workers motivated by learning and career growth embrace AI; those motivated primarily by money are neutral. One company designed an AI decision support tool with top performers, but when rolling it out to the broader workforce, adoption was low because what works for enthusiastic early adopters doesn't work for skeptics. An alternative approach: build for the most skeptical workers first — if you can win them, you can win anyone. The deeper insight: different workers adopt for different reasons, and one-size-fits-all deployment fails.

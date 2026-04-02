@@ -58,6 +58,25 @@ related:
 stance: >-
   Using AI to rewrite emotional messages or generate personal speeches
   eliminates the meaningful human struggle from communication.
+evidence:
+  - id: INS-260330-1F41
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-2944
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-C9C2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-DEF0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-AFA7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-3C9C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Tegmark highlights a disturbing trend: people using ChatGPT to rewrite angry messages in nicer language, or Microsoft demoing a parent using GPT-4 to write a graduation speech for their child. While there are efficiency gains, this outsources the very friction that makes communication human.
 

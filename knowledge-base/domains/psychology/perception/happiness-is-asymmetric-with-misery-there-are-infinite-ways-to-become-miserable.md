@@ -62,10 +62,10 @@ related:
   - INS-260327-ECBB
   - INS-260329-7C1D
   - INS-260329-6B87
-  - INS-260329-BF96
   - INS-260329-89ED
   - INS-260329-348D
   - PRI-260323-A3A3
+  - INS-260329-A90C
 ---
 Keating frames happiness through the lens of thermodynamic entropy: there are vastly more disordered states (ways to be miserable) than ordered states (ways to be happy). Doubling your followers, money, or status produces diminishing returns via the hedonic treadmill. But losing a child, a relationship, or your health can devastate you in ways that no amount of gain can counterbalance.
 

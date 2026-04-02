@@ -60,6 +60,10 @@ related:
   - INS-260330-466E
   - INS-260330-52F6
 stance: Lunar rocks match Earth's isotope ratios at parts-per-million precision
+evidence:
+  - id: INS-260325-CC49
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The giant impact hypothesis elegantly explains the Moon's angular momentum, iron depletion, and evidence of being once-molten. But oxygen isotope analysis reveals Earth and Moon rocks are identical at 2-3 parts per million — and this identity extends across multiple elements. Since physics simulations predict a Moon made 70%+ from the impactor Theia, this isotopic match is essentially impossible unless Theia was an Earth twin.
 

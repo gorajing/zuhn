@@ -49,5 +49,12 @@ related:
   - INS-260329-F21F
   - INS-260329-6CE8
   - INS-260330-1C90
+evidence:
+  - id: INS-260329-6CE8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-2069
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Graham identifies default bias as 'the last and probably most powerful reason' people get regular jobs. Unlike the other 15 excuses he addresses, this one operates without conscious choice — people don't decide employment is optimal, they simply never consider alternatives. He frames this historically: employment itself is only about a hundred years old, having replaced farming as the default way to make a living. He draws a parallel to medieval serfs who couldn't imagine leaving their land for cities, not because guards stopped them, but because the risk of leaving the default seemed insane. This insight has broad application beyond startups: in any domain, the most powerful constraints on behavior are often not the obstacles people consciously identify, but the defaults they never question at all.

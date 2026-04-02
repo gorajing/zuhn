@@ -56,6 +56,10 @@ related:
   - INS-260329-27A3
   - INS-260330-026B
   - INS-260322-DAA1
+evidence:
+  - id: INS-260322-DAA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Grant Sanderson argues that if you effectively reinvent Euler's totient function before seeing it defined, or wonder about rational approximations before learning continued fractions, those topics become 'familiar friends, not arbitrary definitions' when formally encountered. The emotional and cognitive anchoring from personal discovery creates a scaffold that formal definitions can attach to.
 

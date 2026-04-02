@@ -55,8 +55,27 @@ related:
   - INS-260324-29D8
   - INS-260325-EE14
   - INS-260322-B641
-  - INS-260330-7241
   - INS-260402-4A06
+  - INS-260402-5242
+evidence:
+  - id: INS-260330-9346
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1266
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260324-29D8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-B641
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-7241
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260402-4A06
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Leyden draws on decades observing technology diffusion to argue that all successful technologies follow the same adoption curve: innovators try it, early adopters use it, early majority catches on, late majority follows, and finally laggards join when they have no choice. The internet, color TV, smartphones, and solar all followed this path.
 

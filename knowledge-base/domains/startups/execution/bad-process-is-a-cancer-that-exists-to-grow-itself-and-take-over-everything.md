@@ -52,5 +52,8 @@ evidence:
   - id: INS-260323-4945
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-03F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The test for good vs. bad process is simple: is the outcome good, consistent, and provably measurable? Good process (like an assembly line with a camera that detects bad bolts) produces reliably excellent output. Bad process exists to grow itself — it accumulates power, employs people to maintain the process itself, and requires someone to weigh in on every decision. You end up with a thousand process people and one person making bolts. The key insight is that process should always be treated skeptically — someone must be the devil's advocate for any new process, otherwise it will inevitably expand to take over. Even people who love process (like Michael) must love iterating and improving process, not just creating it.

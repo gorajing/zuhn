@@ -51,6 +51,10 @@ related:
   - INS-260327-A9D5
   - PRI-260328-27F7
   - INS-260327-33FA
+evidence:
+  - id: INS-260326-4F90
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Google DeepMind's Rabin noted that self-improving AI is already happening along multiple dimensions: AI is being used to build better AI systems (coding agents writing training infrastructure), models are being used to generate training data for better models, and in at least one demonstrated case, a system with intermediate GPU access improved itself autonomously.
 

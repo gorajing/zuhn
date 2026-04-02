@@ -53,7 +53,6 @@ related:
   - INS-260330-255F
   - INS-260330-C24F
   - INS-260329-6D3B
-  - INS-260329-ECB5
 stance: >-
   Browse top-grossing apps, find categories with identical competitors, then
   build the same concept with a differentiated angle for an underserved se...

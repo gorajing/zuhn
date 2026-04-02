@@ -65,6 +65,10 @@ related:
   - INS-260330-1815
   - INS-260330-6844
   - PRI-260324-2C9F
+evidence:
+  - id: INS-260325-FA86
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Philosopher Susan Haack proposed that knowledge works like a crossword puzzle rather than a logical chain. In a crossword, each answer is constrained by the clue (direct evidence) AND by intersecting letters from other answers (coherence with other beliefs). A word that fits its clue but conflicts with three crossing words is probably wrong. Similarly, a belief supported by one piece of evidence but contradicting multiple other well-supported beliefs should be suspect.
 

@@ -46,7 +46,6 @@ stance: >-
   is ultimately the same event: the body losing its ability to maintain stable
   internal conditions for energy processing.
 related:
-  - INS-260329-92FC
   - INS-260330-332E
   - INS-260330-F82A
   - INS-260330-E68E

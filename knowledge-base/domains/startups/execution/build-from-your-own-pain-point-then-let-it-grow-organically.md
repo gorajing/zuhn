@@ -50,11 +50,11 @@ related:
   - INS-260323-A2E5
   - PRI-260323-1B96
   - INS-260327-D982
-  - INS-260327-1064
+  - INS-260402-D739
   - INS-260330-DDF0
-  - INS-260330-AB6E
-  - PRI-260328-59DC
+  - INS-260402-9075
   - INS-260327-D2F3
+  - INS-260327-7B8E
 ---
 Dohmke and his co-founders built Hockey App because they needed it for their own freelance mobile development business. Before Hockey App, distributing beta builds required emailing files, dragging them into iTunes, and explaining complex installation steps. They built the tool for themselves, and it turned into a real company.
 

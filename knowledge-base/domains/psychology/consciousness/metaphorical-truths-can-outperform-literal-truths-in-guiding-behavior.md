@@ -60,6 +60,7 @@ related:
   - INS-260330-ECD8
   - INS-260330-39E4
   - INS-260330-78B8
+  - INS-260402-476E
 ---
 The gun safety analogy crystallizes this: 'treat every gun as if loaded' is literally false (you know it's unloaded) yet produces strictly better outcomes than acting on the literal truth. Sam Harris concedes this category exists but argues it's narrow and low-cost. Bret Weinstein proposes this as the reconciliation framework — religious traditions may encode metaphorical truths that outperform purely rationalist alternatives in domains where our causal understanding is incomplete.
 

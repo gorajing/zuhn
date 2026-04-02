@@ -47,6 +47,37 @@ resolutions:
 stance: >-
   OpenRouter provides genuinely free daily API requests that are permanent, not
   trial credits
+evidence:
+  - id: INS-260329-9F8D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-4020
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1D9D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-AAD1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-98AB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-00C2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-E8BA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-1435
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-BC21
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B8C5
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 
 OpenRouter provides permanently free tiers on select models with 50-1000

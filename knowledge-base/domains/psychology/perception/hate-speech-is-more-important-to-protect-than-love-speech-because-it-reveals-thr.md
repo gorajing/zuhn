@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Protecting hate speech is more important than protecting love speech because
@@ -51,6 +51,10 @@ related:
 stance: >-
   Protecting hate speech is more important than protecting love speech because
   knowing who harbors hostility toward you is more critical than knowing...
+evidence:
+  - id: INS-260323-87F3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Silverglate's provocative argument: 'I'm much more interested in knowing whom I should not turn my back on than I am interested in figuring out who loves me.' When hate speech is banned, hostility doesn't disappear — it goes underground where it becomes invisible and therefore more dangerous.
 

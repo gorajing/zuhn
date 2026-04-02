@@ -55,6 +55,10 @@ related:
   - INS-260328-AE33
   - INS-260327-3B69
 stance: Repetitive work that violates your values causes cognitive depletion
+evidence:
+  - id: INS-260322-DAA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The 'trapped employee' isn't lazy — they're cognitively depleted. Research on cognitive depletion shows that repetitive tasks that violate your values drain your brain's actual capacity. You can't learn new skills, execute long-term plans, or build on nights and weekends because you literally don't have the processing power left.
 

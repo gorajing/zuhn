@@ -56,6 +56,13 @@ related:
 stance: >-
   Donald Hoffman's interface theory argues that organisms evolved to perceive
   fitness-relevant simplifications, not objective reality
+evidence:
+  - id: INS-260325-0E70
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-0961
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hoffman's evolutionary argument is counterintuitively rigorous: natural selection rewards survival, not accuracy. If a species evolved to see reality as it truly is rather than as a simplified interface optimized for survival, it would be outcompeted and eliminated. 'Truth is expensive. Illusion is efficient.'
 

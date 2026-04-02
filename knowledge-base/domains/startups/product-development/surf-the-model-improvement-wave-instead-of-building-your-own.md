@@ -77,5 +77,8 @@ evidence:
   - id: INS-260320-DEAF
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-83D4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 GenSpark was built on the thesis that foundation models will keep improving and diversifying. Rather than building their own, they built a three-layer stack: model orchestration (routing tasks to the best model), tool layer (giving models arms and legs to do real work), and product layer (translating capabilities into user value). This lets them ride every model improvement automatically — when Claude gets better at coding, GenSpark products improve overnight. The analogy to early internet is apt: the winners were not internet protocol builders but application builders who leveraged the infrastructure.

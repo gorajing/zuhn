@@ -51,13 +51,14 @@ stance: >-
   Startups with one extraordinary strength and serious flaws outperform
   well-rounded companies that merely check every box
 related:
-  - INS-260325-8B36
   - INS-260329-EF89
   - INS-260330-06CD
   - INS-260330-A484
   - INS-260330-B525
+  - INS-260325-8B36
   - INS-260326-6B98
   - INS-260322-AF17
+  - INS-260402-7DCC
 ---
 Marc Andreessen describes a fundamental tension in venture investing: the default approach is to check boxes (good founder, good idea, good product, good customers) and invest when everything looks reasonable. But these checkbox deals rarely produce outlier returns. The companies that generate 97% of all venture returns — roughly 15 per year out of 4,000 — almost always have one dimension of extreme strength paired with serious, visible flaws.
 

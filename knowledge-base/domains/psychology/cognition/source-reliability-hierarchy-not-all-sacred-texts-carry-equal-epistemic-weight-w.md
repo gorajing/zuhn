@@ -59,6 +59,9 @@ evidence:
   - id: INS-260325-24D1
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260327-32F1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The hadith tradition includes a sophisticated source-criticism methodology (isnad analysis) that grades individual sayings by the reliability of their transmission chain. Well-sourced hadiths — where a close companion directly heard the Prophet — carry near-scriptural weight. Poorly-sourced ones are treated with skepticism or outright rejected by mainstream scholars.
 

@@ -51,6 +51,10 @@ related:
 stance: >-
   SLAC researchers get most excited when simulated electron behavior diverges
   from experimental measurements — the gap is where new physics lives.
+evidence:
+  - id: INS-260330-E282
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 At SLAC, researchers simulate how electron density should change in a molecule after X-ray ionization, then compare against actual attosecond measurements. The simulation matches reality for the first few femtoseconds, but around 5-10 femtoseconds, the prediction diverges from measurement. The researcher describes this as 'the most exciting time in science' — because disagreement between model and data means you have discovered something you could not have predicted.
 

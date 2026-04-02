@@ -59,7 +59,6 @@ related:
   - INS-260329-2FEB
   - INS-260329-B6A6
   - INS-260330-B784
-  - INS-260330-B882
 ---
 CS50P structures every concept introduction as: explain briefly, write 3-5 lines, run immediately, observe output, then iterate. Malan never lectures for more than a few minutes before returning to live code that students can run themselves. This pattern works because programming concepts like variables, loops, and recursion are fundamentally abstract — they don't correspond to physical objects students can manipulate. The feedback loop from typing code and seeing output creates a concrete anchor for each abstract concept.
 

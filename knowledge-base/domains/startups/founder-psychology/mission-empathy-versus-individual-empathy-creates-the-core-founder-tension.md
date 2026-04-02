@@ -53,14 +53,21 @@ related:
   - INS-260325-FBA0
   - INS-260323-6F94
   - INS-260323-F9AC
+  - INS-260402-46AD
   - INS-260327-F405
   - INS-260329-CD64
-  - INS-260327-70DF
   - INS-260323-46B2
   - INS-260323-D783
 stance: >-
   Founders like Musk have deep empathy for humanity's mission but can be callous
   to individuals in the room, while others like Ben Franklin excel at ...
+evidence:
+  - id: INS-260325-9C2F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-0CDD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Isaacson identifies a fundamental tension in leadership: empathy for the mission vs. empathy for the people in front of you. Musk, Gates, and Summers have enormous empathy for humanity-scale goals but can be clueless about the emotions of people sitting across from them. Franklin was the opposite -- overflowing with personal empathy, which critics called 'insinuating,' but this became his superpower for bringing people together at the Constitutional Convention.
 

@@ -65,6 +65,10 @@ related:
   - INS-260329-DABC
   - INS-260329-7BAF
   - INS-260329-A6FB
+evidence:
+  - id: INS-260329-7BAF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Malan's teaching method has a consistent structure: introduce a concept with a naive implementation that works, then show how it breaks with edge cases, then fix it, then show how the fix introduces new problems, then fix those. The calculator example is paradigmatic: 1+2 produces '12' (string concatenation), which leads to learning about type conversion, which leads to learning about error handling for non-numeric input. Each 'failure' is actually the learning event.
 

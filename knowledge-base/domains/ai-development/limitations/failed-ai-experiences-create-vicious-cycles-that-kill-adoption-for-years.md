@@ -57,6 +57,22 @@ related:
   - INS-260329-B0BA
   - INS-260330-677A
   - INS-260402-5CF0
+evidence:
+  - id: INS-260330-1A23
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-843E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-AB6F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B0BA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-677A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Shawn Wen describes how Siri, Google Assistant, and Alexa all suffered from the same vicious cycle: users tried a query, got 'I don't understand,' felt frustrated, and never came back to try again. Meanwhile, large engineering teams were constantly improving coverage based on usage data — but the users who would benefit from improvements had already churned. This creates a death spiral where the technology improves but adoption stagnates because first impressions are permanent.
 

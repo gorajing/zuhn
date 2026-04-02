@@ -54,7 +54,10 @@ related:
   - INS-260329-7D18
   - INS-260327-7846
   - INS-260327-7B16
-  - INS-260329-0117
+evidence:
+  - id: INS-260327-32F1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Media amplifies young success stories (tech founders, athletes, musicians) creating the impression that early achievement is the norm. Survivorship bias hides the vast majority of successful people who achieved significance later in life. Research consistently shows that peak creativity in most fields occurs in the 40s, not the 20s.
 

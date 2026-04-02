@@ -48,7 +48,8 @@ related:
   - INS-260327-D2F3
   - INS-260328-982A
   - INS-260330-CC0F
+  - INS-260402-8813
   - INS-260326-291C
-  - PRI-260328-B11D
+  - INS-260402-D739
 ---
 The 'superperson' founder myth suggests great founders score 10/10 on every skill — product, strategy, management, fundraising, etc. Reid Hoffman argues this is fundamentally wrong. The real differentiator is the ability to navigate apparent paradoxes: being persistent AND flexible, taking risks AND minimizing them, holding vision AND listening to data, doing the work AND delegating. The key is executing judgment on which mode the current problem demands — sometimes 90% one way, sometimes 80% the other. This reframes founder self-assessment from 'am I good at everything?' to 'can I dynamically adapt my approach to changing conditions while crossing uneven ground in a fog?'

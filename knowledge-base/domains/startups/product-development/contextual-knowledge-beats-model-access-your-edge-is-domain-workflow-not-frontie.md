@@ -68,6 +68,9 @@ evidence:
   - id: INS-260320-5F14
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-83D4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Coning argues that startups should stop chasing frontier model access and instead invest in earned insight — deep contextual knowledge of specific workflows, situations, or markets. Even last-generation models work fine when given the right context. The example is Claude Code skills: small snippets of context about how to do a task that dramatically improve model performance.
 

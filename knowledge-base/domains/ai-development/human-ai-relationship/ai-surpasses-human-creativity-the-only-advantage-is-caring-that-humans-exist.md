@@ -56,6 +56,22 @@ related:
   - INS-260326-2D41
   - INS-260330-1DDE
 stance: AI has already demonstrated creative problem-solving beyond human capability
+evidence:
+  - id: INS-260327-A507
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-DFA5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-FE33
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-FBA0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-1DDE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Google's AI solved 4 of 6 International Math Olympiad problems — problems specifically designed to be maximally original and never-before-seen. Po-Shen Loh, who coaches the US team and cannot solve that many himself, argues this proves AI creativity can surpass human creativity. The only unique thing about human intelligence, he says, is that 'we hopefully care that humans still exist.'
 

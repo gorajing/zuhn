@@ -52,6 +52,10 @@ related:
 stance: >-
   The argument that a word is too powerful to study in academic contexts is
   self-defeating — powerful words demand more engagement, not less.
+evidence:
+  - id: INS-260327-9BA2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kennedy inverts the censorship argument: it's precisely because the N-word is explosive, volatile, and part of the soundtrack of racial terrorism that people need to understand its history. Refusing to study something because it's powerful is the opposite of taking it seriously.
 

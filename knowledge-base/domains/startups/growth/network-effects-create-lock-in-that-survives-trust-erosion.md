@@ -57,6 +57,10 @@ related:
   - INS-260330-059C
   - INS-260329-8BD3
   - INS-260325-EE14
+evidence:
+  - id: INS-260325-EE14
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When WhatsApp updated its privacy policy to clarify years of data-sharing with Facebook, the backlash was enormous — yet most users stayed. As one Reddit user summarized: 'They don't trust WhatsApp. They just don't care enough about privacy.' But the real mechanism is network-effect lock-in: even users who deeply care about privacy can't switch if their entire social and professional circle remains on WhatsApp.
 

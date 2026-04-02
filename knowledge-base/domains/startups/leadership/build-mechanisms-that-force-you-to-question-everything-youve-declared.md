@@ -49,10 +49,10 @@ stance: >-
   day one, what would you do?' — which prevents the leadership team from
   protecting the status quo.
 related:
-  - INS-260323-CB34
   - PRI-260328-521E
+  - INS-260402-71A7
   - INS-260330-9575
   - INS-260322-88C3
-  - INS-260325-C5AE
+  - INS-260323-CB34
 ---
 Goodarzi describes three core operating mechanisms. The most powerful: a recurring session where the intent is 'question everything we've declared.' The framing is deliberately disarming — today is day one, you just took over as CEO, what would you do? By making the objective of the mechanism outside-in destruction of the status quo, leaders can't enter protecting their existing investments. This happens at least annually and situationally when conditions demand it (twice in the last two years due to AI disruption). The other two mechanisms are equally instructive: an Amazon-style input goals system that forces focus on leading indicators (not lagging output metrics), and customer experience reviews that surface what's working and what's not. Goodarzi emphasizes these aren't just meetings — they're entire processes with supporting structures. The input goals system in particular exposes prioritization, resource allocation, and talent issues that would otherwise remain hidden.

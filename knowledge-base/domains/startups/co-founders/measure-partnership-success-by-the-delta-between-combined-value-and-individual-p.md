@@ -50,12 +50,12 @@ related:
   - INS-260323-9EDC
   - INS-260323-8268
   - INS-260323-1FC1
-  - INS-260325-502D
   - INS-260329-61CF
   - INS-260329-B583
   - INS-260329-2460
   - INS-260329-8EF6
   - INS-260330-EA2E
   - INS-260327-A4B1
+  - INS-260330-6C0E
 ---
 Hormozi proposes a quantitative framework for evaluating partnerships: the success metric isn't 'are you happy' or 'are you still together' but 'how much more valuable is the whole than its parts.' He notes that most relationships have one person acting as a net liability — the other person would literally be better off alone. Applied to co-founder dynamics, this means evaluating whether a partnership creates genuine leverage (complementary skills toward shared goals) or just divides the work. The framework suggests choosing partners with contrasting capabilities but identical destination — the same mental model as building a founding team where technical and commercial skills combine to create something neither could build alone.

@@ -58,6 +58,10 @@ related:
   - INS-260329-78AE
   - PRI-260323-A47C
   - INS-260323-40AA
+evidence:
+  - id: INS-260323-87F3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Animals use distress vocalizations to startle attackers and alert others to danger. Human profanity serves the same function but with a cultural mechanism: words become effective alarms not through volume or pitch but through social taboo. Because using a bad word carries a social cost (disapproval, punishment, professional consequences), choosing to use one credibly signals that the speaker's emotional state is intense enough to accept that cost.
 

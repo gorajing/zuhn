@@ -1,7 +1,7 @@
 # Tag: defaults
 
-- `INS-260330-4E68` Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.
 - `INS-260327-1555` BNPL debt isn't counted in traditional consumer debt metrics, meaning actual consumer leverage is significantly higher than reported figures suggest.
+- `INS-260330-4E68` Default to restrictive permissions and explicitly grant access only when needed — chmod 777 is a red flag in any system.
 - `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260330-BCD8` Most users never change default settings — making ignorance and apathy the most reliable distribution channels in tech.
 - `INS-260321-347D` Private credit defaults reached 9.2% (Fitch) while funds gated redemptions at 5-14%, trapping investors — the retail expansion via 401k access amplifies panic.

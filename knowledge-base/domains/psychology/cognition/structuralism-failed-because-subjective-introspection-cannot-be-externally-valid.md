@@ -57,6 +57,10 @@ related:
   - INS-260330-EE16
   - INS-260323-9773
   - INS-260325-BA76
+evidence:
+  - id: INS-260323-9773
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wundt and Titchener's structuralism attempted to decompose consciousness into basic elements, mirroring how chemists broke matter into elements. But their primary tool — asking patients to introspect about how they felt during experiences — was fatally flawed. Two people experiencing the same stimulus could report entirely different internal states, with no way to verify or reconcile the differences.
 

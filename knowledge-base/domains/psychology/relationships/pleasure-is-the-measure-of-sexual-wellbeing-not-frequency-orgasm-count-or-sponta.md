@@ -55,5 +55,9 @@ related:
   - INS-260330-EC5E
   - INS-260329-B583
   - INS-260330-49AE
+evidence:
+  - id: INS-260323-7424
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Nagoski's core thesis — 'pleasure is the measure' — challenges deeply embedded cultural scripts about what good sex looks like. Society implicitly teaches that good sex is frequent, spontaneous, orgasm-producing, and looks like what media portrays. These metrics create anxiety and inadequacy when real experience doesn't match the script. The reframe is radical in its simplicity: the only question that matters is whether you liked it. This maps onto a broader principle about outcome measurement — many domains suffer from proxy metrics that don't track actual value. In fitness, people optimize for weight or reps instead of how their body feels. In careers, people optimize for title or salary instead of daily satisfaction. The 'pleasure is the measure' frame cuts through proxy metrics to ask the only question that matters in any domain: is this producing the outcome you actually care about?

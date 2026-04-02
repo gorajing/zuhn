@@ -50,10 +50,10 @@ stance: >-
   eliminates dependency on others for the complete value chain
 related:
   - INS-260329-21C0
+  - INS-260402-C4FF
   - INS-260329-55DC
   - INS-260330-0346
   - INS-260323-BF81
-  - INS-260329-32DB
   - INS-260329-7192
 ---
 Hormozi argues that individual skills have limited earning potential, but combinations of skills create exponential value. Someone who knows sales alone might earn well, but someone who knows sales AND finance can raise a billion-dollar fund. Someone who can code AND market can build software and distribute it to millions without depending on co-founders for the missing half.

@@ -55,6 +55,19 @@ related:
 stance: >-
   Galileo didn't invent the telescope — the future of AI will be determined by
   the people who wield it, not the labs that built it.
+evidence:
+  - id: INS-260325-D624
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-AEA7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9770
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-224F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Sankar argues that most technology revolutions are tool revolutions, not concept revolutions. Galileo used the telescope to discover planetary motion but didn't invent it. The microscope, the power loom, the personal computer — all were shaped by their wielders, not their inventors. Today, AI discourse is dominated by the inventors (the labs), who are incredibly smart but have 'jagged intelligence' — brilliance in model architecture doesn't translate to understanding societal implications.
 

@@ -53,11 +53,11 @@ related:
   - INS-260323-1975
   - INS-260329-2BCC
   - PRI-260328-7E6E
-  - INS-260327-3930
+  - INS-260402-8813
+  - INS-260402-D739
   - INS-260327-F9C3
   - INS-260327-DCA9
-  - INS-260327-6725
-  - INS-260327-200C
+  - INS-260327-3930
 ---
 Dalton observes that many founders want to come up with the idea first, maybe even raise money, and then add a co-founder. He argues this sequence creates structural problems: a co-founder added later will always feel like it's 'your company' in their mind, even if the time difference is just one extra month. This subtle psychological gap reduces their willingness to endure the hardest moments.
 

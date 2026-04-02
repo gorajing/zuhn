@@ -60,6 +60,10 @@ related:
 stance: >-
   Michelson and Morley built the most precise instrument of their era, found no
   evidence of the ether, and believed their own experiment had failed
+evidence:
+  - id: INS-260321-28FB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Michelson-Morley experiment was the 1880s equivalent of the Large Hadron Collider in precision and expense. It was designed to measure the ether's properties, not to disprove its existence. When it found light traveling at the same speed in all directions, the experimenters themselves believed the experiment had failed. It took Einstein two decades later to recognize the result's true significance: the ether doesn't exist.
 

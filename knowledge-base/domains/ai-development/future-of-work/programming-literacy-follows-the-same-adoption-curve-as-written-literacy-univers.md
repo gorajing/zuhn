@@ -56,6 +56,25 @@ related:
   - INS-260323-3E21
   - INS-260329-BE8E
   - INS-260330-B91E
+evidence:
+  - id: INS-260330-112E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-16B1
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2C5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-3E21
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-BE8E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B91E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The 'Python for Everybody' title and pedagogical approach — teaching programming to non-CS students as a general-purpose skill — reflects a broader trend where programming shifts from specialist craft to universal literacy. The course explicitly targets social scientists, biologists, and other non-technical professionals who need data processing capabilities.
 

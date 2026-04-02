@@ -58,6 +58,13 @@ related:
 stance: >-
   Whether LLM-generated synthetic data adds genuine new signal beyond its
   training data
+evidence:
+  - id: INS-260329-D1F2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-7282
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Andreessen frames a fundamental question: can LLM outputs serve as useful training data for the next generation? Information theory suggests no — the output cannot contain more signal than the input. But empirically, LLMs generate extraordinarily creative and novel-seeming content, especially on esoteric topics. Self-play in game domains has already proven that synthetic data can exceed human training data quality.
 

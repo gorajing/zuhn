@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260320-6CCE
   - INS-260327-DC65
+  - INS-260402-92AE
   - INS-260330-8BDA
   - INS-260329-5A24
-  - INS-260329-C1E1
 evidence:
   - id: INS-260320-6CCE
     type: SUPPORTS

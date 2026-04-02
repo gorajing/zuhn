@@ -51,6 +51,7 @@ related:
   - INS-260325-0E1D
   - INS-260329-541A
   - INS-260330-383F
+  - INS-260402-E85D
 ---
 Sonwalkar quit his job and spent a year and a half before launching Julius. He was scared, but calls that fear 'good.' In a comfortable place, fear breeds complacency and self-delusion about whether ideas will work. With all bridges burned, you start thinking differently—taking shots at goal, taking real risks.
 

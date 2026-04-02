@@ -53,6 +53,10 @@ related:
 stance: >-
   RFK Sr believed moral courage — standing by principle when it threatens your
   career and status — is the most important and rarest human quality.
+evidence:
+  - id: INS-260322-D2E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RFK Jr recounts his father's emphasis on moral courage as distinct from and harder than physical courage on battlefields or football fields. His book 'Profiles in Courage' documented politicians who chose principle over career, and most were destroyed by that choice.
 

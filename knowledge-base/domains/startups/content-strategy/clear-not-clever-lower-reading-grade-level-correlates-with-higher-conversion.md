@@ -54,6 +54,10 @@ related:
   - INS-260329-CBF6
   - INS-260329-E900
   - INS-260329-A862
+evidence:
+  - id: INS-260329-A862
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi observed that U.S. presidential candidates who spoke at the lowest grade level consistently won elections — framing campaigns as massive brand exercises where comprehension breadth determines reach. He applied this to his own marketing and saw a 50% increase in email conversion by simply lowering the reading grade level without changing the substance.
 

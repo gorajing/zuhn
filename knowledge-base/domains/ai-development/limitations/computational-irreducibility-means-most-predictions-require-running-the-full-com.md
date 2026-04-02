@@ -57,6 +57,22 @@ related:
   - INS-260330-B50A
   - INS-260330-6DEB
 stance: 'For most complex systems, there is no shortcut to predicting outcomes'
+evidence:
+  - id: INS-260330-C0D1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-DF2C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-75A3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B50A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6DEB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wolfram's principle of computational irreducibility states that for most programs and natural systems, the only way to find out what happens after N steps is to actually run all N steps. You cannot skip ahead. This is not a limitation of our knowledge -- it's a fundamental property of computation itself.
 

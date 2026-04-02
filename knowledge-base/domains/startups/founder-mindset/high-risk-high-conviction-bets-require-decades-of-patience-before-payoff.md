@@ -55,6 +55,9 @@ evidence:
   - id: INS-260323-758B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260321-28FB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 LIGO was considered a high-risk, high-reward bet when construction began in the 1990s, based entirely on Einstein's 75-year-old theoretical prediction. After building two enormous interferometers, they detected nothing for a full decade. Rather than abandoning the project, they kept improving the machine's sensitivity. Three days after turning on the upgraded Advanced LIGO in September 2015, they made their first detection -- almost exactly 100 years after Einstein's prediction.
 

@@ -61,6 +61,13 @@ related:
 stance: >-
   AI outputs are 'episodes' (trendy, replaceable, no pain) while human creative
   work builds 'narratives' (time-intensive, suffering-accumulated)
+evidence:
+  - id: INS-260322-7FA4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2784
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Choi Jang-soon draws on Walter Benjamin's concept of aura — 'the unique sense of presence, the existence of something far away no matter how close it is' — to explain what AI-generated content structurally lacks. Aura emerges from three types of distance: spatial (the original exists only here and now), temporal (connected to history and tradition), and symbolic (evoking awe and reverence).
 

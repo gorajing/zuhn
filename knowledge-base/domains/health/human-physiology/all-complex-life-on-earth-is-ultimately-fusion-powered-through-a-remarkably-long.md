@@ -71,6 +71,12 @@ evidence:
   - id: INS-260325-6A2C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-30FB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-B076
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The full energy chain powering human life runs: nuclear fusion in the sun → photon travels 93 million miles → photoexcitation of chlorophyll → electron transport chain → proton gradient → ATP/NADPH synthesis → Calvin Cycle produces glucose → cellular respiration converts glucose back to ATP. Each conversion step loses energy to entropy.
 

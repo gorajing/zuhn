@@ -44,5 +44,24 @@ related:
 stance: >-
   The name of the game is to increase your leverage — put in very few tokens
   once in a while and a huge amount of stuff happens on your behalf.
+evidence:
+  - id: INS-260329-33D4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B424
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-70B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-AB5F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-9DF3
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260323-C5D3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Karpathy's core thesis: to get the most out of AI tools, you must remove yourself as the bottleneck. You can't be there to prompt the next thing. Arrange systems to be completely autonomous. Auto-research is the practical example — define an objective, a metric, boundaries of what the agent can and cannot do, then hit go. The goal is maximum token throughput with minimum human involvement.

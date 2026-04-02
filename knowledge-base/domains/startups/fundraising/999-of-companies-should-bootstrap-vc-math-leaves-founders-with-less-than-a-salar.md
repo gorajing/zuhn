@@ -57,7 +57,6 @@ related:
   - INS-260329-8542
   - INS-260329-D159
   - INS-260330-44C7
-  - INS-260330-3B0A
 stance: >-
   Raising $20M and selling for $30M nets the founder less money over 10 years
   than a regular salary — bootstrap instead.

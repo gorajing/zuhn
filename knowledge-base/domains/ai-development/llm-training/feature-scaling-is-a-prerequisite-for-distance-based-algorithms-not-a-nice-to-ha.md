@@ -57,5 +57,27 @@ related:
   - INS-260330-FF94
   - INS-260330-E4AD
   - INS-260330-CBFD
+evidence:
+  - id: INS-260323-527B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-0919
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4824
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-649B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-FF94
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E4AD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-CBFD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course demonstrates that when features range from 0.03 to hundreds, algorithms that rely on distance metrics (KNN, SVM) effectively ignore small-scale features because their contribution to Euclidean distance is negligible. StandardScaler normalizes each feature relative to its mean and standard deviation, putting all features on equal footing. This is a specific instance of a general principle: when combining measurements of different types, you must normalize them to a common scale or the comparison is meaningless. The same principle applies in any multi-criteria decision system — salary vs. commute time vs. team size in job comparisons, for instance. The mathematical fix is simple (z-score normalization), but forgetting it is one of the most common beginner ML mistakes.

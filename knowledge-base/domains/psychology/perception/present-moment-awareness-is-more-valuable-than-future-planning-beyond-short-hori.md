@@ -56,6 +56,9 @@ evidence:
   - id: INS-260329-8DDF
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-4D4E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 If future prediction is systematically biased (and it is), then the optimal strategy shifts from planning specifically for predicted futures to building general adaptive capacity. The skills, relationships, and resources that remain valuable across many possible futures are more reliably useful than those optimized for one predicted scenario.
 

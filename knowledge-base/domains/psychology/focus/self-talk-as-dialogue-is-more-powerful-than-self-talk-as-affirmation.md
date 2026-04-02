@@ -56,6 +56,10 @@ related:
   - INS-260325-4868
   - INS-260328-0B42
   - INS-260329-812E
+evidence:
+  - id: INS-260323-87F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Most positive self-talk research focuses on declarative statements: 'I'll get through this,' 'I can cope.' These map to the flexibility mindset and serve a motivational purpose. But Bonanno identifies a more powerful mode: interrogative self-talk that walks through the flexibility sequence.
 

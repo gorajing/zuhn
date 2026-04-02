@@ -56,6 +56,10 @@ related:
   - INS-260321-38EC
   - INS-260329-B194
   - INS-260330-30CE
+evidence:
+  - id: INS-260330-30CE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Tyler Bosmeny references Everett Rogers' technology adoption lifecycle to reframe early-stage rejection. Only 2.5% of companies — the innovators segment — will even consider buying from an unproven startup with no revenue. This means reaching out to 200 companies to find roughly 5 potential buyers is normal, not a failure signal.
 

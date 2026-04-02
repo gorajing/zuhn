@@ -57,5 +57,21 @@ related:
   - INS-260330-09F8
   - INS-260330-30FB
   - INS-260330-41F6
+evidence:
+  - id: INS-260322-02A6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1084
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-BC56
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-09F8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-41F6
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The CrashCourse video makes an offhand but profound point: 'nearly all life on our planet is fusion-powered.' Every photon that kicks off photosynthesis originated from hydrogen fusion in the Sun. That energy cascades through electron transport chains into ATP and NADPH, then into glucose, then into every organism that eats plants or eats things that eat plants. The apparent diversity of life masks a single upstream energy dependency. This pattern recurs in technology: most AI systems depend on a handful of GPU architectures (NVIDIA), most internet services depend on a few cloud providers, most software depends on a small number of open-source maintainers. The lesson is that complex systems often have far less source diversity than their surface complexity suggests. When evaluating system resilience — whether biological, technological, or economic — trace the energy or value chain upstream until you find the single source, then assess what happens when it's disrupted.

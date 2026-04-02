@@ -56,6 +56,10 @@ related:
   - INS-260329-DAD1
   - PRI-260323-1CF9
   - INS-260330-264B
+evidence:
+  - id: INS-260329-DAD1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Musk identifies a fundamental architectural limitation of autoregressive language models: each token prediction introduces a small error vector, and these errors compound over long sequences. By the time the model is many tokens into a response, the accumulated drift can produce output that lacks internal consistency.
 

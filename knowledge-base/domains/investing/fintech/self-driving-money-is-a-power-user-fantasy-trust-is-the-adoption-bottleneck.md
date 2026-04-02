@@ -58,6 +58,9 @@ evidence:
   - id: INS-260322-2E33
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260321-9A03
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Plaid's CEO describes his ideal app: paycheck goes in, AI sweeps expenses to checking, excess to high-yield savings, invests a percentage in the market. But he immediately acknowledges he's a 'weird power user' — his mom would panic asking 'where's my money?'
 

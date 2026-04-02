@@ -60,6 +60,10 @@ related:
   - INS-260325-3754
   - INS-260325-5C03
   - INS-260325-75C5
+evidence:
+  - id: INS-260327-1631
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Derek's experience in the anechoic chamber followed a predictable arc: initial disorientation, followed by curiosity, then comfort, then even boredom. He lasted well beyond the supposed 45-minute limit with no distress. This pattern — alarm followed by rapid normalization — is the brain's default response to novelty, not its exception.
 

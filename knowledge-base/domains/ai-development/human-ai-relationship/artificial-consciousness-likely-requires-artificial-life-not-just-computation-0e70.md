@@ -58,6 +58,22 @@ related:
   - INS-260323-BA00
   - INS-260323-1D46
   - INS-260323-9774
+evidence:
+  - id: INS-260330-EEAE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-833E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-916B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-1D46
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9774
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Seth challenges the dominant metaphor of brain-as-computer. While it is a powerful map for exploring some brain functions, every era has used its dominant technology as a metaphor for the brain — and every time, assuming the metaphor IS the thing has caused scientists to stop looking for what else might be there.
 

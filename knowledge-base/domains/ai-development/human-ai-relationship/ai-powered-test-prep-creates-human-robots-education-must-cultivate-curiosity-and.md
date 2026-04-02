@@ -53,12 +53,25 @@ resolutions:
     finding pain points in others and solving them — becomes the natural output
     of people who are both curious and empathetic.
 related:
+  - INS-260402-F957
   - INS-260329-F969
   - INS-260327-A817
   - INS-260322-13D6
   - INS-260329-ACE6
-  - INS-260329-EF89
 stance: Using AI to optimize exam performance produces 'human versions of AI'
+evidence:
+  - id: INS-260329-F969
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A817
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-ACE6
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-EF89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 After visiting a Chinese school using AI to optimize student performance on standardized exams, Loh gave blunt feedback: 'You're just creating people who are human versions of AI. You're just making human robots.' The AI app helped students rank higher on standard problems — exactly the capability that AI itself already excels at, making the trained humans redundant by design.
 

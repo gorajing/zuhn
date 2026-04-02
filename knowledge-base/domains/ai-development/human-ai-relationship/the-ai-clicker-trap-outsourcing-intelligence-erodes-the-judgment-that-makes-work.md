@@ -60,6 +60,10 @@ related:
 stance: >-
   The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading,
   writing, design, and judgment to AI without building underlying skills — ...
+evidence:
+  - id: INS-260327-4EDE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Choi coins 'AI clicker' (AI 딸깍발이) to describe people who click through AI for everything without cultivating underlying skills — not reading books, not writing papers themselves, not studying design tools to develop aesthetic sensibility. He connects this to the broader intelligence outsourcing trend: consumers outsource purchasing decisions to reviews, then to algorithms, and now to AI.
 
