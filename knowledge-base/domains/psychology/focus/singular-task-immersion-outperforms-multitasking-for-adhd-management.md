@@ -52,5 +52,9 @@ related:
   - INS-260329-0935
   - PRI-260328-902C
   - PRI-260323-57AC
+evidence:
+  - id: INS-260327-B539
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rather than treating ADHD with medication, Goggins developed an extreme compartmentalization strategy: when studying, he cannot think about running; when running, he cannot recall study material. Each domain gets 100% of his attentional resources with zero bleed. This contradicts popular productivity advice about 'thinking about problems during walks' or 'letting the subconscious process.' For Goggins, the focus required to overcome his learning disability is so total that it cannot coexist with any other cognitive task. Huberman describes this as a 'V-shaped trench' — the attention can only move forward or backward within one domain, never sliding laterally. This self-taught attention training effectively built the focus capacity that ADHD impaired, suggesting that forced compartmentalization may be an underexplored non-pharmacological approach to attention disorders.

@@ -61,5 +61,9 @@ related:
   - INS-260322-A892
   - INS-260327-E2BC
   - PRI-260328-094A
+evidence:
+  - id: INS-260322-091C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 AWS maintains compliance certifications across dozens of programs — FedRAMP, HIPAA, PCI DSS, DoJ requirements, and more. GovCloud specifically provides isolated infrastructure operated only by screened US citizens on US soil. The strategic insight for startups is that building on a compliant cloud provider lets you inherit much of the compliance posture rather than building it from scratch. Without cloud providers handling infrastructure-level compliance (physical security, hardware encryption, network isolation), a startup would need millions in infrastructure investment just to be eligible to sell to government agencies or handle healthcare data. This effectively democratizes access to regulated markets. A two-person startup building on GovCloud can credibly pursue government contracts that previously required enterprise-scale compliance teams. The compliance gap shifts from 'do you own compliant infrastructure?' to 'did you configure the compliant infrastructure correctly?' — a much smaller and cheaper problem to solve.

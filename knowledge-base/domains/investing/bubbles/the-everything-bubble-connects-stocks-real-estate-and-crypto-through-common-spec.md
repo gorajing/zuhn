@@ -53,8 +53,8 @@ related:
   - INS-260327-4C26
   - PRI-260328-EAC4
   - INS-260327-C79D
+  - INS-260402-9288
   - INS-260330-4D05
-  - PRI-260328-2C4C
 ---
 The 'everything bubble' isn't multiple separate bubbles - it's one interconnected phenomenon. The same pool of excess capital, driven by wealth concentration and loose monetary policy, has inflated every asset class simultaneously. This means a correction in one market (stocks) can cascade into others (real estate, crypto) because the same investors and the same leverage connects them all.
 

@@ -62,6 +62,28 @@ related:
 stance: >-
   A leading psycholinguist confirms that LLMs have mastered the form (syntax,
   grammar, patterns) of language but not its meaning
+evidence:
+  - id: INS-260330-84C6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-ACE6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2666
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-9CED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-5CE3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6494
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-EA8B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Gibson identifies two components of language structure: form (syntax, word order, morphology) and meaning (what words and combinations refer to in the world). He states bluntly that LLMs are 'damn good at form' — and that's why they're impressive. But 'meaning's hard.' He sees a potentially large gap between mastering form and understanding meaning, though he acknowledges it's an open question how close the two actually are.
 

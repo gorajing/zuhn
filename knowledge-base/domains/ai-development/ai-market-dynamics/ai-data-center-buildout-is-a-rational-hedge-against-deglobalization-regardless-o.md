@@ -58,6 +58,16 @@ related:
   - INS-260327-95C6
   - INS-260327-16A1
   - INS-260328-F05E
+evidence:
+  - id: INS-260323-F12F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-95C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-16A1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Peter Zeihan argues that while the current AI investment wave is definitively a bubble, the underlying infrastructure buildout is still rational. His reasoning has two pillars: first, every data center requires power generation capacity, and the US needs to expand its power plant by roughly 50% regardless of AI's trajectory. Second, GPUs are the most complex chips humans manufacture and absolutely require a fully globalized supply chain. As globalization breaks down, new GPU production may become impossible.
 

@@ -54,6 +54,10 @@ related:
   - INS-260329-9F8D
   - INS-260329-788F
   - INS-260330-AB67
+evidence:
+  - id: INS-260330-AB67
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Hormozi describes earning $45K/month from a single personal training client — cash flow that freed him from needing any business revenue, allowing full reinvestment into growth. The counterintuitive insight is that 'it doesn't scale' is actually the point: the constraint (your limited time) is what creates the premium pricing power. Everyone has an hourly rate whether they acknowledge it or not — even Warren Buffett's investments represent time-denominated returns when you account for research and due diligence.
 

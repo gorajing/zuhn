@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Programming languages are middlemen between human intent and machine
@@ -50,13 +50,16 @@ stance: >-
   the same translation problem that prompt engineering attempts to solve — each
   layer trades precision for accessibility.
 related:
-  - INS-260320-2058
-  - INS-260327-50CE
-  - INS-260329-CEC5
-  - INS-260329-EBBB
-  - INS-260329-5B18
-  - INS-260329-D1A1
-  - PRI-260328-43F1
+  - INS-260321-82FE
+  - INS-260323-539C
+  - INS-260321-9906
+  - INS-260327-2C5F
+  - INS-260327-7F56
+  - INS-260327-7214
+  - INS-260327-5F10
+  - INS-260329-34C0
+  - INS-260329-6A60
+  - INS-260329-20F8
 ---
 The lecture describes programming languages as 'fundamentally a middleman for translating a program into machine code' — languages exist on a spectrum from low-level (closer to binary, more precise) to high-level (closer to English, more abstract). This is the exact same tradeoff in prompt engineering: natural language prompts are the highest-level 'programming language' for AI, trading precision for accessibility.
 

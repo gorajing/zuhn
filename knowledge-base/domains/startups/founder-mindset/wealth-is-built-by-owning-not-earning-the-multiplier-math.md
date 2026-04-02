@@ -58,8 +58,8 @@ related:
   - INS-260327-19E5
   - INS-260329-C409
   - INS-260329-5514
+  - INS-260402-9288
   - INS-260329-6079
-  - PRI-260328-26AA
 ---
 The math of earning vs owning reveals a stark asymmetry. Earning $200K/year requires a full decade of saving 100% of after-tax income to reach $1M liquid net worth — obviously impossible with living expenses. Meanwhile, building a business generating $250K/year in owner-independent profit can sell at a 4x multiple, achieving $1M net worth as soon as the business reaches that profitability threshold.
 

@@ -53,5 +53,15 @@ related:
   - PRI-260328-D292
   - INS-260330-9346
   - PRI-260328-BF67
+evidence:
+  - id: INS-260323-4945
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-1720
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-8FC9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Masayoshi Son articulated a 'time machine management theory': the US represents the technological future, and every other country will eventually go through the same adoption curve. By identifying what's already working in the US and investing in equivalent companies in markets that haven't caught up yet, you're effectively traveling back in time with knowledge of what succeeds. He applied this by bringing Yahoo to Japan, securing iPhone distribution rights before competitors understood mobile's trajectory, and backing Alibaba when Chinese e-commerce was nascent. The strategy's strength is its simplicity and repeatability, though it has limits — not all US patterns transfer due to regulatory, cultural, and infrastructure differences. The key insight is that technology adoption lag between markets is itself an investable pattern.

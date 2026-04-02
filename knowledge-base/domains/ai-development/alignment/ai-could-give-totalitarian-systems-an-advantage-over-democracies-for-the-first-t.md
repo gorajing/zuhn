@@ -57,6 +57,13 @@ related:
   - INS-260330-F258
   - INS-260330-7711
   - INS-260330-A812
+evidence:
+  - id: INS-260330-F258
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-7711
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In the 20th century, totalitarian systems collapsed because centralized human decision-makers were overwhelmed by information. The Soviet Union didn't have enough KGB agents to follow everyone or enough analysts to read millions of daily reports. Distributed democratic systems were more efficient because decisions were made locally by many actors.
 

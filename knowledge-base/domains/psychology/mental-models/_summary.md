@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 63 insights
+> 61 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -21,7 +21,6 @@
 - `INS-260330-1815` [high] Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
 - `INS-260330-2689` [high] The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260330-AE66` [high] All real-world exponentials are actually the early phase of logistic curves bounded by some limiting factor.
-- `INS-260330-6DE0` [high] All exponential processes in the real world eventually hit resource limits and transition to logistic S-curves, meaning the key question is always where the ceiling lies.
 - `INS-260330-1AB0` [high] All real-world exponentials are logistic curves that saturate when the growth medium is exhausted, making the S-curve the true model for any bounded growth process.
 - `INS-260330-3591` [high] Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
 - `INS-260330-8544` [high] The discovery that tidal forces can substitute for solar energy in sustaining liquid water fundamentally expanded where we search for life — by questioning which variable (energy source) was truly fixed.
@@ -62,6 +61,5 @@
 - `INS-260330-CA88` [medium] Confucius's Five Key Relationships defined mutual obligations at every level of society, creating a stable coordination framework that lasted millennia.
 - `INS-260330-1953` [medium] Underwater bubbles oscillating and collapsing under Rayleigh-Plesset dynamics concentrate enough energy to produce light (sonoluminescence), demonstrating how oscillating collapse amplifies small inputs into extreme outputs.
 - `INS-260330-9BC3` [medium] A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
-- `INS-260330-7ED0` [medium] Freud's unconscious and Darwin's natural selection both succeeded by proposing hidden mechanisms behind visible behavior, a recurring pattern in revolutionary science.
 - `INS-260330-E497` [medium] Plants' photosynthesis created the oxygen-rich atmosphere that now poisons their own RuBisCo enzyme, forcing them to compensate with volume and detox pathways rather than evolving a better enzyme.
 - `INS-260330-5958` [medium] 64% of Singaporeans said economic development matters more than democracy — revealing a transactional relationship where support is rented, not owned, and can be withdrawn when delivery falters.

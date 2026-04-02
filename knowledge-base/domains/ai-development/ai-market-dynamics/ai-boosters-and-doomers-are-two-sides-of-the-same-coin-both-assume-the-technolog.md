@@ -56,6 +56,19 @@ related:
 stance: >-
   The booster-doomer debate creates a false spectrum where the only question is
   whether powerful AI is good or bad
+evidence:
+  - id: INS-260325-59D4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7819
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E3D3
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7F11
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bender and Hanna argue the standard AI discourse frames boosters and doomers as extreme ends of a continuum, forcing everyone to find their position in between. But these aren't opposite ends — they're two sides of the same coin, both predicated on the idea that AI is a real, inevitable, imminent thing. They only diverge on implications. The real dissent isn't about whether powerful AI is good or bad, but whether it's actually powerful at all.
 

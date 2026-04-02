@@ -48,10 +48,10 @@ stance: >-
   'nobody wants to work for what you are offering.'
 related:
   - INS-260329-7B15
+  - INS-260402-EC9F
   - INS-260327-325B
   - INS-260329-ACFF
   - INS-260322-1280
-  - INS-260321-2F09
 ---
 Labor force participation approaching generational lows while unemployment remains low creates an apparent paradox. The resolution is that jobs going unfilled typically have a clear pricing problem: below-market pay for the skill level required, unacceptable working conditions, or wages that don't cover local cost of living. Only 18% of Americans report feeling engaged at work.
 

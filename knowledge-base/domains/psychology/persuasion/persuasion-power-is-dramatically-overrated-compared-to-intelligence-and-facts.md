@@ -21,8 +21,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Persuasion offers short-term advantages but cannot indefinitely substitute
@@ -50,6 +51,14 @@ stance: >-
   Persuasion without substance reliably fails in the long run because even the
   most charismatic manipulators (SBF, Holmes) eventually face reality-based
   consequences.
+related:
+  - INS-260329-2A5A
+  - INS-260330-ECD8
+  - INS-260321-2D72
+  - INS-260329-16F0
+  - INS-260327-89AE
+  - INS-260322-6C4B
+  - INS-260329-F20E
 ---
 Scott Adams built his brand around the claim that persuasion trumps facts and intelligence in determining life outcomes. But as Scott Alexander argues, this dramatically overstates the case. The 99.99th percentile persuader (Trump) and the 99.99th percentile nerd (Sutskever) both achieve extraordinary outcomes. Charismatic manipulators like Sam Bankman-Fried and Elizabeth Holmes ended up in prison because persuasion cannot permanently mask factual reality. Even Trump maintains only a 37% approval rating because making absurd claims sound plausible has hard limits.
 

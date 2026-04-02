@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Instead of seeking solutions to problems like anxiety, examine where the
@@ -52,13 +52,12 @@ stance: >-
   nature has embedded the resolution within the problem's own structure, and
   understanding the problem deeply IS the cure.
 related:
-  - INS-260321-13EA
-  - INS-260329-F0DE
-  - INS-260330-0B79
-  - INS-260321-2482
-  - INS-260330-2F22
-  - PRI-260328-2014
-  - INS-260330-F268
+  - INS-260327-E7B8
+  - INS-260329-5412
+  - INS-260329-0B76
+  - INS-260330-A3AF
+  - INS-260330-207D
+  - INS-260330-CCD8
 ---
 Gupta's central claim about anxiety (and all psychological problems): the person asking 'how do I get rid of anxiety?' will never resolve it as long as they seek a solution external to the anxiety itself. The cure is to go backwards — examine what anxiety actually is, when it arises, where in the body it manifests, what situations trigger it. Know its face rather than running from it.
 

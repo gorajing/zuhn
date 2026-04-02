@@ -59,6 +59,10 @@ related:
   - INS-260330-3888
   - INS-260330-D812
   - INS-260330-9351
+evidence:
+  - id: INS-260325-11E9
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Research shows that media descriptions of being alone are approximately 10 times more likely to frame the experience as negative than positive. This matters because exposure to positive vs negative framing of solitude directly shifts how people experience time alone. People who believe solitude is beneficial actually feel good during alone time. People who believe it is harmful feel lonelier.
 

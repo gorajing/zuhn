@@ -57,6 +57,10 @@ related:
   - INS-260330-6D13
   - INS-260330-059B
   - INS-260330-5A66
+evidence:
+  - id: INS-260322-2A3A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Moral thought experiments like the trolley problem aren't just philosophical puzzles - they're diagnostic tools that reveal the gap between how people think they'd behave and how they actually would. Most people simultaneously believe killing is wrong AND would pull the lever to kill one person to save five, revealing inconsistent moral frameworks.
 

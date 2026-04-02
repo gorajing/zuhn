@@ -61,6 +61,34 @@ related:
   - INS-260330-FBE1
   - INS-260330-FCFA
   - INS-260330-1319
+evidence:
+  - id: INS-260325-75A3
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-436A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-0C20
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-716C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-7DCF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-240A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FBE1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-FCFA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1319
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Assembly Theory makes explicit something often missed about evolution: it's not random search. It's a process that accumulates successful sub-assemblies (functional protein folds, regulatory mechanisms, body plan elements) and recombines them in new ways. Each successful assembly becomes a building block for more complex assemblies.
 

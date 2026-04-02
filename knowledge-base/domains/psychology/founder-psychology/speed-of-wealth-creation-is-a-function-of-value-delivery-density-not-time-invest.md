@@ -54,10 +54,14 @@ related:
   - INS-260323-1338
   - INS-260327-6D57
   - INS-260328-D1B2
+  - INS-260402-426C
   - INS-260321-C4CD
   - INS-260327-6E93
   - INS-260329-CB2C
-  - INS-260327-0595
+evidence:
+  - id: INS-260328-D1B2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi's title deliberately invokes the discomfort many founders feel when revenue accelerates rapidly. This psychological friction — the sense that fast money must be illegitimate — is a cognitive bias rooted in the labor theory of value: the belief that compensation should correlate with time and effort expended.
 

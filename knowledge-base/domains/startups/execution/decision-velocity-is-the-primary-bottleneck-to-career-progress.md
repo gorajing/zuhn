@@ -53,8 +53,12 @@ related:
   - INS-260329-59A5
   - INS-260330-B4F1
   - INS-260330-AA4F
+  - INS-260402-CCC3
   - INS-260325-0688
-  - INS-260326-4F90
+evidence:
+  - id: INS-260323-01F9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi identifies decision paralysis as the single largest drag on ambitious people's progress. Most decisions are two-way doors — reversible and low-consequence — yet people treat them as irreversible, spending weeks or months deliberating when the information needed to decide well only comes from acting.
 

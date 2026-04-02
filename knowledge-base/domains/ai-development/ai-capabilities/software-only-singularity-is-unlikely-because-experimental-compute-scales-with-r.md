@@ -63,6 +63,16 @@ related:
 stance: >-
   AI automating AI R&D won't produce runaway self-improvement because research
   requires proportional scaling of experimental compute, not just more r...
+evidence:
+  - id: INS-260330-B7B1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260320-9935
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-7D76
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Epoch AI argues against the software-only singularity (AI automating AI research to produce rapid recursive improvement) based on a key empirical observation: experimental compute — the compute needed to actually test ideas — is receiving similar or more investment than final training runs. This suggests you can't just throw more AI researchers at the problem without also scaling up the physical compute for experiments.
 

@@ -54,8 +54,12 @@ related:
   - INS-260323-FDB8
   - INS-260328-7942
   - INS-260327-7846
+  - INS-260330-A1AF
   - PRI-260323-81E9
-  - INS-260327-32F1
+evidence:
+  - id: INS-260322-AFE9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi identifies a subtle trap: aspirational modeling of the wrong time period. Young entrepreneurs see successful people flying private and try to replicate that lifestyle, missing that the current luxury is a result of decades of prior constraint. The correct model is what that person did when they were at your stage — which was likely living cheaply, learning aggressively, and investing in skills.
 

@@ -68,6 +68,10 @@ related:
   - INS-260330-0525
   - INS-260327-6058
   - INS-260330-85B8
+evidence:
+  - id: INS-260323-48AF
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Thiel identifies two historical categories where innovators actually captured value: software businesses (due to zero marginal cost and fast adoption) and vertically integrated complex monopolies (Second Industrial Revolution: Ford, Standard Oil). The second category is systematically underexplored today because our culture resists anything complicated that takes a long time to build.
 

@@ -57,6 +57,10 @@ related:
   - PRI-260323-1F9C
   - INS-260328-68BA
   - INS-260330-E3ED
+evidence:
+  - id: INS-260323-EF23
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Richter predicted 100K institutional blockchain nodes by 2020. Smart people laughed at him. Blockdaemon now runs 250K nodes alone. The pattern is consistent across breakthrough companies: the idea must be one that intelligent people reject, because if smart people agreed it was good, it would already be built.
 

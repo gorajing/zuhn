@@ -48,5 +48,9 @@ related:
 stance: >-
   Instead of 'write me X', ask 'what makes X work well?' then 'what principles
   apply here?' then 'now do it for my case'
+evidence:
+  - id: INS-260329-E208
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Direct commands cause models to go on autopilot and pattern-match to common responses. Socratic prompting — asking theoretical questions first, then exploring frameworks, then applying to your case — activates reasoning pathways from training data (Reddit discussions, Stack Overflow, forum conversations where humans reason through problems). Three-step structure: (1) Ask what makes this type of thing work well, (2) Explore what principles apply, (3) Apply to your specific case. The output is more polished because the model actually thought before writing. This mirrors the five-step reasoning pattern: Understand → Analyze → Reason → Synthesize → Conclude.

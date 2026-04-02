@@ -52,6 +52,13 @@ related:
   - INS-260323-70B9
   - INS-260322-1D52
   - INS-260329-9101
+evidence:
+  - id: INS-260322-1D52
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-0B52
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The video's API layer reveals something underappreciated: while developers agonize over React vs. Vue (a decision with marginal impact on shipping speed), the decision to use Stripe for payments, Auth0 for authentication, and Twilio for messaging each saves months of development time. These are 10x leverage decisions disguised as mundane integration work.
 

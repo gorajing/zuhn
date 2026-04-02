@@ -59,6 +59,16 @@ related:
 stance: >-
   The question of whether AI can be a moral patient is empirically testable
   through prolonged interaction
+evidence:
+  - id: INS-260325-C2BD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-71A5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-568F
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Shear challenges the substrate argument against AI consciousness with a precise epistemological test: if you hold a belief for which no possible observation could change your mind, you don't have a belief — you have an article of faith. Real beliefs are inferences from reality, and you can never be 100% confident about anything, so there should always be some observation that would update your position.
 

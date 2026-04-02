@@ -53,6 +53,25 @@ resolutions:
 stance: >-
   Basic critical thinking skills may be the most important factor for success in
   an AI-generative world
+evidence:
+  - id: INS-260321-33FC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C4F1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B5D6
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-DB4B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-4B1C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-C0BD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 Dario Amodei identifies critical thinking as the single most important

@@ -52,6 +52,10 @@ related:
 stance: >-
   Both liberal and conservative Supreme Courts agree on free speech because each
   recognizes they may be in the minority tomorrow and will need speech...
+evidence:
+  - id: INS-260325-C5AA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Silverglate observes that free speech is one of the few things liberal and conservative Supreme Courts consistently agree on. The reason is strategic self-interest: each side recognizes that while their group may be ascendant today, it may not be tomorrow, and they want objective, clear rules protecting speech when they're in the minority.
 

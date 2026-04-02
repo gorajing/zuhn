@@ -56,6 +56,7 @@ related:
   - PRI-260325-3F50
   - INS-260330-63B8
   - INS-260330-FE21
+  - INS-260402-F5E0
 ---
 The gap between inner experience and external expression is fundamental, not technical. No matter how articulate you are or how intimate a relationship becomes, your subjective experience of the world - the exact quality of your sensations, the texture of your thoughts, the feel of your memories - cannot be transmitted to another mind.
 

@@ -55,6 +55,10 @@ related:
   - INS-260328-EA3A
   - INS-260329-CBF6
   - INS-260330-A44F
+evidence:
+  - id: INS-260323-7EEB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Burkeman's practical technique: ask 'what version of this am I willing to do in this moment?' and keep lowering the bar. Not speaking to 1,000 people? How about 15 minutes in a small setting? Almost always, there exists some level at which you're genuinely willing to take the next step.
 

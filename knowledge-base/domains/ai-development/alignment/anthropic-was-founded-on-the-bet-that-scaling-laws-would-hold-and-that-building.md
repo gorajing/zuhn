@@ -70,6 +70,31 @@ related:
   - INS-260330-85B8
   - INS-260330-007E
   - INS-260327-1F4A
+evidence:
+  - id: INS-260324-1C84
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-3CD0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-EE1B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3138
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-39B0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-85B8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-007E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-1F4A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Dario explains Anthropic's origin story with unusual specificity: in 2019-2020, a group within OpenAI recognized scaling laws — the empirical finding that more computation and data with simple algorithms reliably improves cognitive task performance. They measured these trends when models cost $1K-$10K to train and predicted they'd hold at $100M, $1B, $10B — which they have.
 

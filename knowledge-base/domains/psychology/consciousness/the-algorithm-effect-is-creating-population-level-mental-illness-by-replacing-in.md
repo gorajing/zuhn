@@ -54,5 +54,12 @@ related:
   - PRI-260328-C006
   - INS-260329-3489
   - INS-260323-4D8D
+evidence:
+  - id: INS-260323-4D8D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-3489
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The algorithm effect describes how social media algorithms don't just show you content — they reshape your sense of self. The mechanism: algorithms optimize for engagement, which means they amplify whatever gets a reaction. Users unconsciously adapt their behavior, opinions, and even identity to match what the algorithm rewards. Over time, the internal compass (what do I actually value?) is replaced by an external one (what gets likes?). This creates population-level symptoms: identity confusion, chronic comparison, inability to enjoy experiences without documenting them, and anxiety when disconnected. The philosophical depth: this is not just a technology problem but a consciousness problem — when millions of people outsource their self-concept to an optimization function, the result is a society of people performing identities rather than having them.

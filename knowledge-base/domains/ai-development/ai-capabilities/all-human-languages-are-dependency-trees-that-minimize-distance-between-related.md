@@ -64,6 +64,16 @@ related:
 stance: >-
   Every sentence in every language forms a tree structure where each word
   connects to exactly one other word, and languages evolve to minimize the di...
+evidence:
+  - id: INS-260327-2C5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B8C6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-80AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Gibson presents a remarkable linguistic universal: all sentences in all languages have an underlying tree structure where every word depends on exactly one other word (technically called dependency grammar, going back to Tesniere in the 1930s and Panini in ancient India). Furthermore, languages optimize for short dependency distances — related words tend to be close together because it's easier to produce and comprehend. This explains why 95% of the world's ~1000 studied languages are 'harmonic' — either verb-initial with prepositions (like English) or verb-final with postpositions (like Japanese). Crossing these patterns creates longer dependencies, which languages avoid.
 

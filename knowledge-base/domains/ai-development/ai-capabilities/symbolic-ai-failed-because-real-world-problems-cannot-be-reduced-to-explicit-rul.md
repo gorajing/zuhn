@@ -53,6 +53,10 @@ related:
   - PRI-260328-D893
   - INS-260325-29D5
   - INS-260323-F2C3
+evidence:
+  - id: INS-260325-29D5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The original AI project at Dartmouth in the 1950s tried to reduce human intelligence into symbolic logic: if X then Y rules that a computer could execute. This worked for toy problems but failed catastrophically as complexity increased. Even defining 'is this email spam?' generates an infinite regress of exceptions and sub-definitions.
 

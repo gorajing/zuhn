@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 93 insights
+> 97 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -18,6 +18,7 @@
 - `INS-260325-5656` [high] Dyno trains ML models on petabytes of capsid performance data from primate experiments, then queries them billions of times in silico to find optimal sequences — replacing random mutation with AI-guided design.
 - `INS-260325-F20C` [high] Sequoia sizes AI at $10T+ because it replaces cognitive labor — every knowledge worker seat becomes a software purchase.
 - `INS-260323-F0A2` [high] Each major AI leap — next-word prediction learning anything, predictable improvement from scale, and RL teaching reasoning — seemed 'too simple to work' to experts before being proven right.
+- `INS-260330-E282` [high] AI can generate hypotheses far faster than labs can test them, making verification the true bottleneck in experimental sciences.
 - `INS-260321-BFA3` [high] AI solved 50 Erdős problems which looks amazing, but systematic studies show a 1-2% success rate per problem — scale and selection bias make it look like magic when you only see the wins.
 - `INS-260323-99E0` [high] Coordinated bot swarms using LLMs can now maintain persistent fake personas and manufactured consensus at unprecedented scale, threatening democratic elections.
 - `INS-260323-3920` [high] Every sentence in every language forms a tree structure where each word connects to exactly one other word, and languages evolve to minimize the distance between connected words.
@@ -62,6 +63,7 @@
 - `INS-260323-4D14` [high] Jensen Huang argues the last decade was about the science of AI; the next decade will be about applying AI to biology, climate, agriculture, robotics, logistics, and every other domain.
 - `INS-260325-EF79` [high] Nvidia's Jim Fan: the next AI frontier is the physical Turing test — proving competence in real-world tasks, not just conversation.
 - `INS-260329-FEBA` [high] Rather than perfecting one massive prompt, the effective workflow is: prompt, see the result, make a small adjustment, repeat — each cycle taking minutes.
+- `INS-260330-63DD` [high] Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing.
 - `INS-260323-29ED` [high] GPT-4's remarkable reasoning emerges from an incredibly simple feed-forward architecture trained on next-word prediction, not from replicating brain complexity.
 - `INS-260330-0C0C` [high] Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality.
 - `INS-260323-6134` [high] The most elegant and efficient robot movement comes from designing machines whose physics naturally want to do the right thing, then augmenting with control rather than overpowering.
@@ -77,7 +79,9 @@
 - `INS-260327-9DB0` [medium] Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-1563` [medium] Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260322-B33E` [medium] AI reasoning capabilities plus robot learning are converging to create autonomous labs that accelerate scientific discovery across life sciences, chemistry, and materials.
+- `INS-260330-B5D2` [medium] Human science depends on compressing nature into simple formulas, but many real patterns may be inherently too complex for human cognition yet perfectly tractable for AI.
 - `INS-260330-6BBD` [medium] Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260330-44EF` [medium] If invention is mostly high-dimensional recombination with taste rather than pure creation, then LLMs trained on all human knowledge are architecturally well-suited for it.
 - `INS-260330-4C5A` [medium] Tesla's autopilot, constrained to 100 watts, may pioneer more compute-efficient paths to AGI than data-center-scale LLMs using megawatts.
 - `INS-260328-60C7` [medium] Howard argues that widely distributing AI capabilities creates better defense than centralizing them, since most people use power for defense while centralization attracts power-seekers.
 - `INS-260323-B029` [medium] When you tally coding assistance against deepfake porn, education degradation, military errors killing innocents, and employment disruption, generative AI's net contribution to society is questionable.

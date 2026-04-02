@@ -47,6 +47,13 @@ resolutions:
 stance: >-
   Skill files should use progressive disclosure for 40-60% token efficiency
   improvement
+evidence:
+  - id: INS-260323-D288
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-33D4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Large SKILL.md files waste tokens by loading everything into context

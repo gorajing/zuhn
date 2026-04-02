@@ -22,8 +22,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     If invention is mostly high-dimensional recombination with taste rather than
@@ -50,6 +51,14 @@ stance: >-
   Most scientific breakthroughs are recombinations of existing ideas across
   fields, not creation from nothing, making AI architecturally suited for
   invention.
+related:
+  - INS-260323-A0CE
+  - INS-260327-7B0C
+  - INS-260323-C10D
+  - PRI-260328-AC85
+  - PRI-260328-C528
+  - INS-260321-7D7C
+  - INS-260330-2B3F
 ---
 There's a common assumption that fundamental scientific breakthroughs require a qualitatively different kind of cognition — rebuilding conceptual foundations rather than searching within existing frameworks. Grothendieck rebuilt algebraic geometry's foundations; Einstein replaced Newtonian ontology.
 

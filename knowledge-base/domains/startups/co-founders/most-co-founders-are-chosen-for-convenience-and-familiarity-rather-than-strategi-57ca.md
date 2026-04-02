@@ -55,11 +55,11 @@ related:
   - INS-260325-636B
   - PRI-260328-7E6E
   - INS-260326-967C
+  - INS-260402-2A1D
   - INS-260329-2BCC
   - INS-260327-8254
-  - INS-260328-982A
   - INS-260323-9146
+  - INS-260328-982A
   - INS-260328-6898
-  - INS-260329-B2D8
 ---
 Jones identifies a systematic selection bias in co-founder formation: founders typically partner with whoever is available and familiar (former colleagues, college friends, people in their network) rather than deliberately evaluating fit. The critical alignment dimensions most teams skip: (1) degrees of sacrifice — how much each person is willing to give up, (2) desired outcomes — what success means to each person (IPO vs lifestyle business vs impact), and (3) growth trajectory compatibility — whether both co-founders can keep pace as the company scales. The non-CEO co-founder often struggles to keep pace with growth, creating a painful divergence that most teams are unprepared for. Jones describes co-founding as 'a marriage without the sex' — requiring the same level of deliberate partner selection.

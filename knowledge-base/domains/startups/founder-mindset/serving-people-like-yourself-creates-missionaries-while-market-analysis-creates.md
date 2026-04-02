@@ -61,5 +61,9 @@ related:
   - INS-260327-9838
   - INS-260329-EC98
   - INS-260330-B5D6
+evidence:
+  - id: INS-260322-4090
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi draws a sharp distinction between two founder archetypes: missionaries who serve people like themselves, and mercenaries who pick markets purely by analyzing trends and opportunity size. The missionary advantage is multi-layered — you already know the customer's exact pain points without expensive research, you're demographically similar so marketing language comes naturally, and you care genuinely about outcomes because you remember what that struggle felt like. This caring translates into better products, better retention, and the emotional resilience to persist through the inevitable hard years. Hormozi reinforces this with the observation that many of the world's biggest companies started with a founder solving their own problem in a garage. The mercenary approach can work, but it requires more upfront research, produces less authentic marketing, and lacks the intrinsic motivation that carries founders through the trough of disillusionment. For first-time entrepreneurs specifically, the missionary path is safer because it minimizes the number of unknowns.

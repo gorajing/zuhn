@@ -62,6 +62,10 @@ related:
 stance: >-
   As AI-generated content commoditizes visual spectacle, the creator's durable
   advantage becomes narrative authenticity
+evidence:
+  - id: INS-260322-4090
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Yoon observes that a flood of dopamine-stimulating AI-generated imagery has already started — soon no one will be able to tell what's real and what's fake. But ironically, as bizarre and provocative content becomes commonplace, what creators can uniquely provide becomes incredibly clear: stories about emotions, values, meaning, and philosophy.
 

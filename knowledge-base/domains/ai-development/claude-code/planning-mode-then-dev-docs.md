@@ -47,6 +47,10 @@ resolutions:
 stance: >-
   Planning mode should always precede dev doc generation for structured
   development
+evidence:
+  - id: INS-260329-693E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 The optimal workflow is: first enter planning mode and have Claude create

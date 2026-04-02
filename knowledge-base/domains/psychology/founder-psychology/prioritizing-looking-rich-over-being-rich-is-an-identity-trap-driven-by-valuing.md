@@ -54,10 +54,10 @@ stance: >-
   others' approval more than your own self-assessment.
 related:
   - INS-260327-19E5
-  - INS-260329-0B9D
+  - INS-260402-8C0E
   - INS-260330-4746
+  - INS-260329-0B9D
   - INS-260330-353B
-  - INS-260330-B906
 ---
 Lifestyle inflation is typically framed as a financial problem, but Hormozi identifies it as an identity problem. The person who upgrades their car, wardrobe, and lifestyle with each raise is making a psychological trade: they're purchasing external validation at the cost of actual wealth accumulation. The root cause is valuing others' approval over your own self-assessment.
 

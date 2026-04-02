@@ -57,6 +57,19 @@ related:
   - INS-260328-92BC
   - INS-260330-7675
   - INS-260330-1FE2
+evidence:
+  - id: INS-260321-D01E
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260323-99E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-1F7E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-92BC
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Singapore demonstrates that the most durable form of dominance isn't eliminating competition but allowing it under heavily asymmetric conditions. The PAP permits free elections but controls boundaries, campaign duration (11 days in 50+ years), media licensing, and wields defamation law against opponents. This creates legitimacy that pure authoritarianism lacks — citizens technically have choice, which deflects criticism.
 

@@ -58,6 +58,10 @@ related:
   - INS-260327-D0F4
   - INS-260330-F800
   - INS-260327-EAB0
+evidence:
+  - id: INS-260321-807B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 McDonald's early international expansion into the Netherlands, Canada, and the Caribbean failed because they tried adapting the menu to local tastes. When Fred Turner took McDonald's to Japan, he reversed the approach: the American menu stayed identical, but local Japanese operators handled all marketing and positioning. The Japanese loved the authentic American experience and admired its efficiency.
 

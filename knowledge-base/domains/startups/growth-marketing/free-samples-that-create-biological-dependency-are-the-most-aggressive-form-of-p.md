@@ -50,5 +50,9 @@ related:
   - INS-260321-D01E
   - INS-260330-3EE4
   - INS-260330-82B5
+evidence:
+  - id: INS-260321-D01E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Nestlé's fake nurses distributed just enough free baby formula that mothers' natural milk production ceased, forcing permanent dependency on the paid product. This is an extreme case of a common PLG pattern: free tiers and trials designed so that by the time they expire, the user's workflow, data, or habits have shifted irreversibly. SaaS companies do this with data gravity (import easy, export hard), social platforms do it with network effects, and developer tools do it with ecosystem lock-in. The ethical version ensures switching costs come from genuine value delivery rather than artificial dependency creation. Founders should audit whether their free-to-paid conversion relies on value or on trapping users.

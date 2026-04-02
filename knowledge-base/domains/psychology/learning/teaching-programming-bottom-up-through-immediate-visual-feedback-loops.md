@@ -55,6 +55,10 @@ related:
   - INS-260329-B6A6
   - INS-260330-4D18
   - INS-260329-937E
+evidence:
+  - id: INS-260321-9824
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The freeCodeCamp C++ tutorial structures every concept introduction around producing visible output — printing hello world, displaying calculation results, running a guessing game. This mirrors research on feedback loops in learning: when beginners see the concrete effect of each line of code within seconds, they form stronger mental models than when concepts are introduced abstractly before application.
 

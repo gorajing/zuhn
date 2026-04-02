@@ -54,5 +54,18 @@ related:
   - INS-260329-D913
   - INS-260330-BE23
 stance: AI doesn't just automate procedures — it automates judgment calls
+evidence:
+  - id: INS-260325-E895
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-12EE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-D913
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-BE23
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Traditional software automates procedures: if X then Y. AI automates something different — judgment calls. Given ambiguous inputs, make a reasonable decision. That category of work used to scale linearly with headcount. Now you can encode pattern recognition, classification, and prioritization into systems that run around the clock. The rule of thumb: anywhere you're paying for human judgment applied repeatedly to similar-shaped problems, AI is a lever. AI also collapsed the skill barrier to code itself — the population of people who can produce it has expanded by orders of magnitude. Domain expertise just became dramatically more valuable relative to technical skill.

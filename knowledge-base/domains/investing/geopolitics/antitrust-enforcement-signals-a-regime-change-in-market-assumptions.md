@@ -52,6 +52,10 @@ related:
   - INS-260330-7D6D
   - INS-260330-AFAD
   - INS-260330-D0AB
+evidence:
+  - id: INS-260327-6177
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Every trillion-dollar company today operates with some form of monopolistic advantage, legal or otherwise. The market assumption was that regulators would continue looking the other way indefinitely. The Google antitrust ruling disrupted this assumption. When Judge Mehta ruled Google was a monopolist that acted to maintain its monopoly, it surprised nobody (the facts were obvious) but also everybody (because enforcement was unexpected).
 

@@ -48,8 +48,25 @@ related:
   - INS-260325-4C09
   - INS-260325-A72C
   - INS-260323-518A
+  - INS-260330-63DD
 stance: >-
   The biggest scientific advances came from deleting assumptions (Earth is at
   rest, species are static) rather than adding new theories
+evidence:
+  - id: INS-260330-4DC5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FB5A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-4C09
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-A72C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-518A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Tao observes that geocentrism persisted because of the Aristotelian assumption that objects naturally rest. Once Newton's laws replaced that assumption, heliocentrism made sense. Darwin's evolution required dropping the assumption that species are static. We're now in a cognitive Copernican revolution — dropping the assumption that human intelligence is the center. The challenge for AI: deleting assumptions can't be scored with a reward function, making it resistant to RL optimization. This may be 'forever the human side of science.'

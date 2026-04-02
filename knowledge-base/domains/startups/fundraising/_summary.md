@@ -1,11 +1,12 @@
 # Topic: fundraising
 
-> 53 insights
+> 56 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
 - `INS-260330-87BD` [high] The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260328-AB0C` [high] Much AI-era ARR is run-rate revenue from usage-based pricing, multiplied by 12, on customers who could leave tomorrow.
+- `INS-260402-6BB6` [high] Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260328-9415` [high] Standard Capital's YC-style batch process for Series A compressed the entire fundraising timeline to two weeks and roughly four hours of founder time.
 - `INS-260330-0AA7` [high] Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260330-B6FA` [high] Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
@@ -21,10 +22,11 @@
 - `INS-260330-CBF3` [high] Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
 - `INS-260328-3F19` [high] A funding announcement is not like a stock price going up -- it's an announcement of an illiquid bet that probably won't pay off, down to seed rounds with very low expected success rates.
 - `INS-260328-3959` [high] A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
+- `INS-260402-EA72` [high] Fundraising typically consumes months of a startup's most critical early period, and investors don't recognize the damage their indecision causes.
 - `INS-260330-855A` [high] YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
+- `INS-260402-9288` [high] Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
 - `INS-260330-070A` [high] VCs who avoid flawed companies systematically miss the biggest winners because extreme outliers always have glaring weaknesses alongside their extraordinary strengths.
 - `INS-260330-376E` [high] Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
-- `INS-260330-9900` [high] Investors who also want advisor shares are looking for a freebie — their investment already aligns their incentives to help.
 - `INS-260330-975D` [high] Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
@@ -43,6 +45,7 @@
 - `INS-260330-478B` [high] Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
 - `INS-260330-AF2B` [high] A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round.
 - `INS-260330-7220` [high] The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
+- `INS-260402-4719` [high] VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - `INS-260328-D220` [medium] If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260330-B09B` [medium] Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
 - `INS-260327-7E3D` [medium] The stark reality of fundraising differences between Boston and Silicon Valley comes down to fundamentally different investor risk cultures.

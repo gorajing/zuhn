@@ -56,6 +56,10 @@ related:
   - INS-260330-4711
   - INS-260320-B99F
   - INS-260323-9146
+evidence:
+  - id: INS-260320-B99F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Frankl borrows from his flying instructor: if you want to land at an airfield with a crosswind pushing you south, you must aim north of your target. Head straight for the airfield and you'll land short. This physical principle maps directly to human development. If you take a person as they currently are — with all their flaws and limitations — you make them worse by confirming their diminished self-image. But if you 'overestimate' them, treating them as if they're capable of more, you provide the aspirational target that compensates for the crosswinds of doubt, habit, and circumstance.
 

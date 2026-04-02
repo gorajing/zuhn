@@ -50,6 +50,13 @@ related:
 stance: >-
   Altman predicts compute becomes the world's most precious commodity,
   functioning as a new currency by end of decade.
+evidence:
+  - id: INS-260322-D079
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-ADB7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Altman opens with a bold claim: 'Compute is gonna be the currency of the future... maybe the most precious commodity in the world.' This frames the entire AI race as fundamentally an infrastructure and resource competition, not just an algorithms competition.
 

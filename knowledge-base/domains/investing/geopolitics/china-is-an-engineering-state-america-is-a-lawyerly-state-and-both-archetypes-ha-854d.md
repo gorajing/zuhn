@@ -60,6 +60,10 @@ related:
   - INS-260323-FCC1
   - INS-260328-68BA
   - INS-260330-35E2
+evidence:
+  - id: INS-260320-8632
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Dan Wang frames the US-China difference through professional culture: China's Politburo Standing Committee was entirely composed of engineering graduates who build compulsively — highways, housing, high-speed rail, and also social engineering projects like the one-child policy and zero-COVID. America's leadership pipeline runs through law school; every Democratic presidential nominee from 1980-2024 attended law school; 13 of the first 16 presidents were lawyers.
 

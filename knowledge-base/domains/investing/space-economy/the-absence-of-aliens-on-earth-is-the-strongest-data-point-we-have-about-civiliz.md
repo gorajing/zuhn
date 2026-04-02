@@ -55,6 +55,10 @@ related:
   - PRI-260328-9FB6
   - INS-260330-1DCA
   - INS-260330-B69C
+evidence:
+  - id: INS-260323-38EC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hart's Fact A is the observation that no alien civilization currently cohabits Earth with us. While we cannot conclusively say a distant exoplanet lacks life, we can be highly confident no alien civilization is on Earth. Even this seemingly weak claim has powerful implications.
 

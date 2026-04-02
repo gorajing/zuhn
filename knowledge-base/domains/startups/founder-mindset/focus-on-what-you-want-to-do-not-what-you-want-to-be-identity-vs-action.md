@@ -54,6 +54,13 @@ related:
 stance: >-
   Instead of asking 'what do you want to be?' (astronaut, writer, game
   designer), ask 'what do you want to do?'
+evidence:
+  - id: INS-260327-DC0B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4F3D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Jeff Kaplan, after 170 rejection letters as a fiction writer, deep depression, and throwing all his manuscripts in a dumpster, found his way to Blizzard through obsessively playing EverQuest. His advice distills this experience: society pressures young people to define themselves by career labels ('what do you want to be?'), which leads to performing a fake version of a role. Instead, focus on what you actually want to do — how you spend your time when no one's watching.
 

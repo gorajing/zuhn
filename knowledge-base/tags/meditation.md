@@ -7,7 +7,6 @@
 - `INS-260330-BE4D` Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
 - `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260330-EBF7` Meditation skills like dropping subject-object duality help navigate psychedelic peaks, though peak intensity renders all techniques temporarily inaccessible.
-- `INS-260330-BB53` Pay attention to what you're doing with your attention and notice the consequences — this meta-awareness is the universal solvent for unhappiness.
 - `INS-260330-E107` People who think meditation requires political passivity have confused an anodyne communication style with the actual goal of contemplative practice.
 - `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color.
 - `INS-260330-BCC7` Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.

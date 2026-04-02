@@ -56,6 +56,10 @@ related:
   - INS-260323-1BB4
   - INS-260327-D522
 stance: When Trump recognized Jerusalem as Israel's capital
+evidence:
+  - id: INS-260327-6177
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kushner describes how the Abraham Accords became possible only after Trump systematically violated diplomatic 'sacred cows' that everyone said would be catastrophic: recognizing Jerusalem as Israel's capital, moving the embassy, recognizing the Golan Heights. Each time, the predicted catastrophe didn't materialize — 'the next morning the sun rose, the next evening the sun set.'
 

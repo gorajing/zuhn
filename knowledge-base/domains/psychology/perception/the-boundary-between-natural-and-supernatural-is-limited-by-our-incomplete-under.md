@@ -46,11 +46,11 @@ resolutions:
     recognizing that today's supernatural may be tomorrow's science (as has
     happened repeatedly in physics).
 related:
+  - INS-260330-B5D2
   - INS-260325-916B
   - INS-260323-8F41
   - PRI-260325-08FB
   - INS-260325-0A81
-  - INS-260325-ADF3
 stance: Defining something as supernatural requires knowing what natural is
 ---
 The video's epistemological framing is powerful: synchronicity is unfalsifiable, existing 'less in the realm of science and more in that of the supernatural.' But this critique contains its own limitation — we cannot confidently define 'supernatural' because our understanding of 'natural' remains incomplete. 'No matter how deep we dig, we always hit the bedrock of our ignorance and fallibility.'

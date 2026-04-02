@@ -50,6 +50,13 @@ related:
   - INS-260329-7B1D
   - INS-260330-A25A
   - INS-260321-6437
+evidence:
+  - id: INS-260321-6437
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-9115
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Just as at YC, Standard Capital designs its process to reward repeat applicants. Founders can reuse most of their previous application and update only what has changed. Two data points separated by a few months make evaluation dramatically easier -- you can see the trajectory rather than a static snapshot.
 

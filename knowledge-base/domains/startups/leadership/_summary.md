@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 149 insights
+> 148 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -31,7 +31,6 @@
 - `INS-260330-14CA` [high] Delegate fully when consequences are low and your conviction is low; override only when consequences are catastrophic and your conviction is high.
 - `INS-260330-A9CB` [high] Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
 - `INS-260330-D5FB` [high] Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
-- `INS-260330-78B8` [high] Demoting an executive preserves their over-sized equity package while stripping their authority, creating resentment among better-performing employees with less compensation.
 - `INS-260327-3788` [high] Solomon credits being forced to rotate from credit trading to equity capital markets as essential preparation for the CEO role he never explicitly targeted.
 - `INS-260327-8521` [high] Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
 - `INS-260323-46B2` [high] The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.

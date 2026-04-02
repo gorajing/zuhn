@@ -63,6 +63,10 @@ related:
   - INS-260329-F892
   - INS-260329-D2CA
   - INS-260329-35F2
+evidence:
+  - id: INS-260329-D2CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Throughout CS50 Python, Malan deliberately writes buggy code, runs it, shows the error, and then fixes it — often multiple times per lecture. This isn't accidental or inefficient; it's a core pedagogical strategy. Students learn to read tracebacks, recognize common failure patterns (off-by-one, type mismatches, scope confusion), and develop the meta-skill of systematic debugging.
 

@@ -65,6 +65,10 @@ related:
   - PRI-260321-7307
   - PRI-260328-E9B5
   - INS-260327-1EC4
+evidence:
+  - id: INS-260321-FD14
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Connor shares a revelation from selling Oracle's cloud suite: you can spell out a perfect ROI case for migrating from on-premise to cloud, button up every financial metric, and still lose the deal. Why? Because the VP of IT who has been the on-premise expert for 20 years sees the migration as an existential career threat. If they move to cloud, their unique expertise becomes irrelevant.
 

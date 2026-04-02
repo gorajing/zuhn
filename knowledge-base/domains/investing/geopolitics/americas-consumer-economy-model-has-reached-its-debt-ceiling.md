@@ -56,6 +56,10 @@ related:
   - INS-260327-B064
   - INS-260327-0D3C
   - INS-260327-99E5
+evidence:
+  - id: INS-260327-DFF1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 America's consumer spending is 69% of GDP compared to China's 38%, funded by the lowest household savings rates ever and $1T+ in high-risk consumer lending (excluding mortgages, auto loans, and student loans). This consumption-driven model worked when wages grew with productivity and credit was expanding from a low base.
 

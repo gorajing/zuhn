@@ -49,6 +49,10 @@ resolutions:
 stance: >-
   Re-prompting with knowledge of what you dont want produces better results than
   first attempts
+evidence:
+  - id: INS-260329-917B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Iterative prompting produces better results than trying to craft the

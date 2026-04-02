@@ -63,6 +63,10 @@ related:
   - INS-260329-70D5
   - INS-260329-3177
   - INS-260329-E43B
+evidence:
+  - id: INS-260323-2C19
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Harvard's CS50 deliberately teaches C — a low-level language with manual memory management, pointers, and explicit data types — before introducing Python. David Malan's rationale is that students who understand what's happening 'underneath the hood' can think at a high level about any language they encounter later. The course proves this works at scale: students transition from writing C code with malloc and pointer arithmetic to Python in just a few weeks, and the conceptual foundation makes the high-level language feel almost trivial by comparison.
 

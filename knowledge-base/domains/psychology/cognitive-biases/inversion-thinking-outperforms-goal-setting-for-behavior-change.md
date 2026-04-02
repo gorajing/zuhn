@@ -22,7 +22,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Inversion — defining what to avoid — is more actionable than defining what
@@ -43,10 +43,15 @@ stance: >-
   outcomes than setting positive goals, because avoidance leverages stronger
   evolutionary neural circuits than aspiration.
 related:
-  - PRI-260328-C918
-  - INS-260328-EA3A
-  - INS-260330-3FCF
-  - PRI-260328-43F1
-  - PRI-260323-1B96
+  - INS-260325-B6AD
+  - INS-260325-D9D8
+  - INS-260323-C1B2
+  - INS-260326-786D
+  - INS-260327-482E
+  - INS-260327-E833
+  - INS-260327-1845
+  - INS-260327-015B
+  - INS-260329-64B8
+  - INS-260329-8067
 ---
 Charlie Munger's inversion principle suggests that instead of asking 'how do I get rich?', you should ask 'how do I guarantee I stay poor?' and then avoid those behaviors. This works because the human brain evolved stronger circuits for threat avoidance than for reward pursuit — we're wired to run from lions faster than we chase gazelles. In practice, this means a list of 'never do this' rules produces more consistent behavior change than a list of aspirational goals. The approach is particularly effective for wealth-building because most financial failure comes from a small set of repeatable mistakes, not from a lack of brilliant strategy.

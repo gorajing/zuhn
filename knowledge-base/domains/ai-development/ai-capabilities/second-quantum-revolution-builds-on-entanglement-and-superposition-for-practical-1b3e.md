@@ -55,6 +55,13 @@ related:
   - INS-260325-F21D
   - INS-260323-5199
   - INS-260325-F306
+evidence:
+  - id: INS-260323-5199
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-F306
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Al-Khalili distinguishes two quantum revolutions. The first (20th century) harnessed basic quantum mechanics to create lasers, transistors, integrated circuits, and essentially all modern electronics. The second revolution, now beginning, exploits deeper quantum phenomena — entanglement and superposition — for entirely new technology categories.
 

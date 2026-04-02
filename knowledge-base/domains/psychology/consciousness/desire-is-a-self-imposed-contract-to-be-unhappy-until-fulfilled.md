@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260330-9933
   - INS-260330-78B1
+  - INS-260402-9288
   - PRI-260328-6136
   - INS-260330-3FCF
-  - PRI-260321-0A4D
 ---
 Naval frames desire as a literal contract: you agree to be unhappy until you get what you want. The critical insight is what happens after fulfillment — you don't reach a blissful peak that persists. You revert to whatever state you were in before the desire arose. This is the hedonic treadmill described in clinical terms.
 

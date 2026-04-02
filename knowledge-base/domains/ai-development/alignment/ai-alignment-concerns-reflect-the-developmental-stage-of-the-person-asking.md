@@ -55,6 +55,22 @@ related:
   - INS-260329-116A
   - INS-260329-541A
 stance: People at stage 3 (social self) worry about AI having wrong opinions
+evidence:
+  - id: INS-260329-19F9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-7DBC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CFEA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-116A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-541A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Joscha Bach maps AI alignment concerns to Robert Keegan's developmental stages. At stage 3, where 85% of people reside, opinions are assimilated from groups — so the primary fear is that AI will spread wrong opinions (algorithmic bias, racism). At stage 4, people have rational agency over beliefs and worry about AI having wrong objective functions (paperclip problem). At stage 5, people understand identity is instrumental and worry about whether AI can develop shared purpose and non-transactional relationships with humans.
 

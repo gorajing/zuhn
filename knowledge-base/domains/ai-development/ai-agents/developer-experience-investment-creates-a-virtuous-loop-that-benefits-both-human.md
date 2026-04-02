@@ -59,6 +59,10 @@ related:
   - PRI-260328-8317
   - INS-260327-A9D5
   - INS-260325-E1FA
+evidence:
+  - id: INS-260327-1FA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Stripe's minion success is built on years of prior investment in developer productivity — hosted dev environments, comprehensive CI, internal documentation, and well-defined workflows for common tasks like adding API fields. The key insight is that this infrastructure serves agents equally well: agents read the same docs, run the same tests, and follow the same blessed paths that human engineers do. This creates a virtuous loop where improving DX for humans simultaneously improves agent success rates, and investing in agent tooling (MCP servers, better prompting infrastructure) simultaneously helps human developers.
 

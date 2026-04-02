@@ -56,6 +56,10 @@ related:
   - PRI-260324-36BF
   - PRI-260328-94D4
   - INS-260327-30E4
+evidence:
+  - id: INS-260327-30E4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Prime Intellect identifies a critical competitive pattern: Cursor built their own Composer model by using Cursor itself as the RL environment for post-training. This gives them models optimized specifically for their product's scaffolding and workflows, an advantage that grows as big labs have less incentive to optimize for competing coding startups.
 

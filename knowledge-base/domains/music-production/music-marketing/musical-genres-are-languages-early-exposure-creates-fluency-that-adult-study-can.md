@@ -57,6 +57,10 @@ related:
   - INS-260329-EDA2
   - INS-260323-2C19
 stance: 'Blues, bebop, and other musical styles are languages with their own syntax'
+evidence:
+  - id: INS-260323-2C19
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rick Beato draws a deep parallel between musical genres and spoken languages. Bebop jazz is one of the hardest styles to master because it has its own complete language — angular lines, chromaticism, specific harmonic vocabulary. Hearing it as a kid, even passively, enables learning it later in ways that first exposure as a teenager cannot.
 

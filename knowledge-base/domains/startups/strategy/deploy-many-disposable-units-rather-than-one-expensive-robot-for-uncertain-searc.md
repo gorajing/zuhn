@@ -59,6 +59,16 @@ related:
   - INS-260330-ED9D
   - PRI-260328-BD81
   - INS-260323-758B
+evidence:
+  - id: INS-260330-5DCA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1652
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-758B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In search and rescue scenarios with collapsed buildings, the traditional approach is to send in expensive, sophisticated robots or trained dogs. The vine robot approach inverts this: because each unit is essentially free (a length of plastic tubing and compressed air), you can deploy a hundred of them simultaneously into a rubble field. If 99 hit dead ends and one finds a survivor, that's a complete success.
 

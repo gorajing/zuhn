@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 47 insights
+> 49 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
@@ -14,12 +14,14 @@
 - `INS-260330-66A0` [high] The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260330-FBC0` [high] Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260330-9E91` [high] Resource scarcity predictions assume fixed knowledge, but knowledge creation continuously converts worthless things into resources — europium was essential for color TV until LCD screens made it irrelevant.
+- `INS-260402-237D` [high] Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260322-185B` [high] You cannot discover real customer pain points remotely — physical immersion in your users' environment reveals needs that surveys and interviews miss.
 - `INS-260329-9513` [high] Filter business ideas through three lenses — what pains you, what you do professionally, and what you care about — to find ideas grounded in authentic experience.
 - `INS-260329-5891` [high] Pick a business topic from your pain, profession, or passion — these three lenses ensure you have authentic knowledge and motivation.
 - `INS-260329-FE15` [high] Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260327-2661` [high] The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
 - `INS-260322-2155` [high] Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
+- `INS-260402-9093` [high] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260329-ABD9` [high] Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - `INS-260321-6BA7` [high] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
 - `INS-260322-EF20` [high] Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.

@@ -52,5 +52,12 @@ related:
 stance: >-
   Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more
   that producers shifted mass production lines to HBM
+evidence:
+  - id: INS-260321-52EF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-3B58
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Professor Kim explains why consumer computer prices are rising alongside AI semiconductor demand: production facilities for DRAM and NAND flash have fixed capacity. When AI demand exploded with extremely high prices for HBM (High Bandwidth Memory), manufacturers shifted their mass production lines to serve AI customers. This reduced supply for consumer-grade memory, pushing prices up across the board. A regular desktop computer now costs up to 10 million won (roughly $7,500). This is a classic supply reallocation problem — the same factories can make consumer or AI memory, but not both simultaneously, and AI pays dramatically more. It accounts for 30-40% of Korea's KOSPI market, making semiconductor stocks dominate the national economy.

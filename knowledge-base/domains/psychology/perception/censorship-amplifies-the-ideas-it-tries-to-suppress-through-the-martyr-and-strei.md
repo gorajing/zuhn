@@ -61,6 +61,16 @@ related:
   - INS-260325-0147
   - INS-260322-4B63
   - PRI-260323-287B
+evidence:
+  - id: INS-260322-F65F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-DE23
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-F48E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The historical pattern is robust: the Romans did not succeed in silencing Jesus — his crucifixion was instrumental in creating Christianity, which grew larger than Judaism. Athens executed Socrates, who became the most eminent philosopher of all time. Barbra Streisand's attempt to remove a photo of her mansion from the internet turned it from an obscure image into a viral phenomenon.
 

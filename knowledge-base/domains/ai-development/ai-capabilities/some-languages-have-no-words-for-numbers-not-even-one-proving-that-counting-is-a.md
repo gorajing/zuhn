@@ -57,6 +57,19 @@ related:
   - INS-260329-ACE6
   - INS-260325-C523
 stance: The Piraha language has zero words for counting
+evidence:
+  - id: INS-260327-2C5F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-B640
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-ACE6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-C523
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Gibson's research reveals that the Piraha people have no words for exact counting — not even for 'one.' You literally cannot ask 'I want two of those' in their language. This isn't a limitation they haven't gotten around to fixing; it's a fundamentally different cognitive toolkit. The finding proves that exact numerical reasoning is a cultural technology (like writing) rather than an innate human capability.
 

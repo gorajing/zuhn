@@ -61,6 +61,10 @@ related:
   - INS-260330-3B05
   - INS-260327-24D2
   - INS-260330-E0AA
+evidence:
+  - id: INS-260327-9DB0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Rosolie describes his guide JJ's ability to read the jungle with astonishing depth: from a set of jaguar tracks by water, JJ deduced the animal was leaning to drink (toe impressions deeper than heel), noted multiple scat deposits indicating repeated visits, observed vultures overhead indicating a nearby kill, and concluded the jaguar was within 30 feet — all from observations that Rosolie initially summarized as 'oh look, impressions in the sand.' JJ also identified a fish track Rosolie had tried to fake, knowing exactly how a fish's body drags through sand.
 

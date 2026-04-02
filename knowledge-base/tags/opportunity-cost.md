@@ -4,23 +4,23 @@
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
 - `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
-- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260325-0103` Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260329-19EE` Events, masterminds, and networking carry enormous hidden costs beyond their time slots — they fragment focus and create ongoing obligations.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260329-C3DF` Whether in college or a career, the first four years should maximize learning speed, not paycheck size.
 - `INS-260329-49E6` Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
 - `INS-260330-16B1` Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
 - `INS-260329-EBCA` When you skip social obligations, people punish you by inviting you less — which is exactly what you wanted, making it a win-win.
-- `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
 - `INS-260329-F0DD` Test prep can be run from free libraries with zero startup cost, reaching $1,100/day within six months — outearning most post-college professional salaries without the four-year opportunity cost.
+- `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
 - `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260327-5297` When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260329-B34E` People fail by building many half-finished bridges rather than completing one — getting to 90% on multiple paths yields zero while 100% on one path yields everything.
 - `INS-260329-50BD` The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.
 - `INS-260329-E6DB` Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
 - `INS-260330-7220` The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
-- `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
+- `INS-260402-8EED` A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier.
 - `INS-260329-C91D` Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260329-5A47` Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260329-595E` Depth in one area compounds returns faster than breadth across many.
@@ -35,6 +35,7 @@
 - `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
 - `INS-260329-A01C` The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260329-1669` The belief that pursuing multiple opportunities increases the odds of one succeeding is a fallacy—any single one could have succeeded with full focus, but none will with divided attention.
+- `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260329-7D18` Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
 - `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.

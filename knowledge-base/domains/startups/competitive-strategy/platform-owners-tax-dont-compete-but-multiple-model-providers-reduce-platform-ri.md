@@ -59,6 +59,10 @@ related:
 stance: >-
   Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model
   providers means AI startups face taxation risk, not existential platform...
+evidence:
+  - id: INS-260322-A14D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Historical pattern: platform owners either compete with you directly (Microsoft vs Lotus 123) or tax you at variable rates (Facebook changing its take rate at whim). The VisiCalc-to-Lotus-to-Excel progression shows that when a platform owner controls 95% of the market and your product is core to the platform's value prop, you're toast.
 

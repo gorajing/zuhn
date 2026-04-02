@@ -57,10 +57,10 @@ related:
   - INS-260323-7CA7
   - INS-260323-2B53
   - INS-260322-A928
-  - INS-260325-C2BD
   - INS-260323-C2F1
   - INS-260323-8B89
   - INS-260323-5B9F
+  - INS-260325-E895
 ---
 Taylor shares a pivotal moment as Facebook CTO at 29: Sheryl Sandberg told him he was trying to do everything himself instead of holding his team to his standards. Upon reflection, he realized he was conforming the job to his comfortable skills rather than doing what the job actually required each day. Entrepreneurs often become 'single-issue voters' who respond to every problem with their area of strength (product people redesign, sales people sell harder).
 

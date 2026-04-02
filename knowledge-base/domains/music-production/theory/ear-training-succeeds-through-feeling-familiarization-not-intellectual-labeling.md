@@ -53,6 +53,10 @@ related:
   - INS-260330-E47D
   - INS-260322-9436
 stance: Words describing scale degrees are temporary scaffolding
+evidence:
+  - id: INS-260323-4D8D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Konyi's pedagogical philosophy is explicit: 'The words are just to guide you about where to focus. But then as soon as you're there, just bathe in that feeling.' Descriptions like 'melancholy' or 'expansive' are pointers, not definitions. If a word doesn't resonate with your subjective experience, ignore it — the feeling state itself is the only accurate representation of itself.
 

@@ -55,7 +55,7 @@ related:
   - INS-260329-6D3B
   - INS-260330-50B5
   - INS-260330-7168
-  - PRI-260328-D5EB
+  - INS-260402-426C
 ---
 Many startups build a best-in-class product in one vertical and then agonize over whether to expand into a broader bundle. HR software is a classic example: no customer wants to buy 17 separate HR tools. The market structurally demands bundling. Companies like Slack and Zoom faced this same decision — they reached significant scale with a single product but then had to decide whether to build the suite.
 

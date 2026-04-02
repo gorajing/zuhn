@@ -63,6 +63,19 @@ related:
 stance: >-
   Yudkowsky warns of a 'boiling the frog' dynamic where early false sentience
   claims (Blake Lemoine) teach the public to dismiss all sentience signal...
+evidence:
+  - id: INS-260330-CC51
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B2B8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-031A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B74
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Yudkowsky identifies a dangerous social dynamic: because AI systems are trained through imitation, their displays of emotion and self-awareness are almost certainly just pattern-matching on training data. The first people to claim sentience (like Blake Lemoine) are likely wrong, and 999 out of 1000 observers correctly identify it as fake. But this teaches humanity the lesson that all AI sentience claims are fake — precisely as systems keep getting smarter and the probability of genuine sentience increases.
 

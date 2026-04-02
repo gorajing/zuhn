@@ -64,6 +64,19 @@ related:
 stance: >-
   The winning AI platforms will lock users in through accumulated context,
   memory, social graphs, and authentication layers
+evidence:
+  - id: INS-260327-7D53
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-473D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1A23
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-95F3
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 a16z's analysis shows that ChatGPT, Claude, and Gemini are diverging into distinct niches rather than competing head-to-head. ChatGPT dominates consumer breadth (2.7x bigger than Gemini on web, 30x bigger than Claude), Claude targets prosumer/professional use cases, and Gemini leads in creative tools. Their app stores have only 11% overlap.
 

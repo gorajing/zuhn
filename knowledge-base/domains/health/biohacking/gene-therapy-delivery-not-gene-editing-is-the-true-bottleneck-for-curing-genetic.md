@@ -55,6 +55,10 @@ related:
   - INS-260325-5656
   - INS-260325-0C20
   - INS-260325-1AB9
+evidence:
+  - id: INS-260325-5656
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 There are over 7,000 known genetic diseases but only a handful of FDA-approved gene therapies. The bottleneck is not understanding which genes to fix — genome sequencing has solved much of that. The bottleneck is delivery: getting therapeutic DNA inside the target cells where it can function. AAV (adeno-associated virus) capsids are the leading delivery vehicle because they are tiny, non-pathogenic, and can naturally enter cells and express DNA for the cell's lifetime.
 

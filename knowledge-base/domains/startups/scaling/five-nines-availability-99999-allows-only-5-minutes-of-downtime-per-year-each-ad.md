@@ -56,5 +56,9 @@ related:
   - INS-260322-1D52
   - INS-260329-C754
   - INS-260329-3DD7
+evidence:
+  - id: INS-260322-1D52
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The availability math is deceptive: 99.9% sounds almost identical to 99.999%, but the difference is 8.76 hours vs. 5.26 minutes of annual downtime. Achieving five nines requires redundant everything (load balancers, databases, regions), automated failover tested regularly, zero-downtime deployments, and an oncall team that can respond in seconds. For most startups, this level of reliability is wasteful — the engineering cost of going from three nines to five nines could fund an entire product team. The strategic insight: your availability target should match your business context, not your engineering ambition. A B2B SaaS tool used during business hours effectively gets 'free' downtime during nights and weekends. A payment processor needs five nines. An internal dashboard needs two. Over-engineering availability is one of the most expensive forms of premature optimization.

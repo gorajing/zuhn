@@ -58,6 +58,10 @@ related:
 stance: >-
   When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency
   will likely trigger a WeWork-style reassessment
+evidence:
+  - id: INS-260320-B210
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Zitron argues the most important catalyst for the AI bubble deflation may be forced transparency through IPO filings. Anthropic has leaked annualized revenue figures multiple times that, when summed, exceed their claimed $5B lifetime revenue — suggesting creative accounting. OpenAI's stated plan to burn $200+ billion even assuming they reach $200B/year revenue means no realistic IPO raise could cover the gap (the largest IPO ever was Saudi Aramco at $30B).
 

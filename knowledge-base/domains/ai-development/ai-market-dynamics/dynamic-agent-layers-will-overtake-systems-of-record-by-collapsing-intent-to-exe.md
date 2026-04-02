@@ -55,6 +55,10 @@ related:
   - INS-260321-2482
   - PRI-260323-7BFA
 stance: 'For the first time, a genuine threat exists to systems of record'
+evidence:
+  - id: INS-260330-D7CC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Sarah Wang at a16z argues that 2026 is when the dynamic agent layer overtakes traditional systems of record. Previous attempts (SaaS 2.0) failed because they merely offered better UI — a 20-50% improvement wasn't enough to overcome data gravity. AI agents are fundamentally different because they collapse the distance between intent and execution, delivering a 10x improvement.
 

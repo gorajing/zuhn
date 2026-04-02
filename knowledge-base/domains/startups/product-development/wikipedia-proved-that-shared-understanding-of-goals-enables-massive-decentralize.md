@@ -47,14 +47,18 @@ resolutions:
     sentence that everyone agrees with, your platform will struggle with
     coordination costs.
 related:
+  - INS-260402-2A1D
   - INS-260325-568A
   - INS-260329-E6AF
   - INS-260327-2C5F
   - PRI-260321-AD44
-  - INS-260327-91C7
 stance: >-
   Wikipedia works because everyone intuitively knows what an encyclopedia entry
   should look like
+evidence:
+  - id: INS-260327-91C7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wales identified the key precondition for Wikipedia's success: 'we all pretty much know what an encyclopedia entry should be like.' An entry on the Eiffel Tower should have pictures, history, location, something about the architect. This shared understanding meant contributors didn't need detailed coordination — they could independently chip in knowing their contribution would fit.
 

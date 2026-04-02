@@ -60,6 +60,19 @@ related:
   - INS-260330-240A
   - INS-260330-6165
   - INS-260330-CA62
+evidence:
+  - id: INS-260330-B68F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-240A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6165
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CA62
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Assembly Theory quantifies an object's complexity by finding the minimum number of steps required to construct it from basic parts, combined with the number of copies that exist. Objects that are both complex (high assembly index) and abundant (many copies) can only exist through evolutionary-like processes - random chance cannot produce them.
 

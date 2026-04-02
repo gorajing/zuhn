@@ -19,8 +19,8 @@
 - `INS-260330-106F` Since the 1970s, antitrust law has equated low prices with consumer benefit, creating a blind spot for companies like Amazon that maintain low prices while eliminating competition through cross-subsidization.
 - `INS-260330-C761` When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.
 - `INS-260330-D460` Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
-- `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260321-F446` If 50 unlikable people hold all the wealth while white-collar workers lose jobs, the bipartisan consensus won't be left vs right — it will be 'nationalize tech.'
+- `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260330-F23F` India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
 - `INS-260330-2332` Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.

@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 78 insights
+> 77 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -17,7 +17,6 @@
 - `INS-260330-966E` [high] When underwater cavitation bubbles collapse, the compression can generate temperatures hot enough to produce light (sonoluminescence), showing how mundane initial conditions can concentrate energy to extreme densities.
 - `INS-260330-9BB5` [high] Underwater gas bubbles oscillate through multiple collapse-rebound cycles because fluid momentum carries the bubble past equilibrium in both directions.
 - `INS-260323-5BEF` [high] Objects appear to follow single trajectories not because they do, but because the crazy paths cancel each other out — only paths near the least-action path constructively interfere and survive.
-- `INS-260330-1E6A` [high] Both very low and very high entropy states lack complexity; the richest structures emerge in the middle of entropy's increase.
 - `INS-260330-881A` [high] The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260330-C729` [high] Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
 - `INS-260330-85AA` [high] Aerogel insulates better than air despite being 99% air because its pores are smaller than air molecules' mean free path.

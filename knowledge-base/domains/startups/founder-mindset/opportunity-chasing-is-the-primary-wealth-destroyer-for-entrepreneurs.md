@@ -46,7 +46,14 @@ related:
   - INS-260329-D37E
   - INS-260330-6204
   - INS-260330-70BF
+  - INS-260402-27A1
   - PRI-260328-B11D
   - INS-260329-A01C
+  - INS-260402-EC9F
+  - INS-260330-D98E
+evidence:
+  - id: INS-260323-B07C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi argues that the entrepreneurial instinct to spot opportunities — the very trait that gets people started — becomes their biggest liability at scale. Each new pursuit resets the learning curve and abandons accumulated leverage. The pattern is insidious because each new opportunity genuinely looks better than grinding on the current one, but the comparison is between a fantasy projection and a known reality with visible flaws. The entrepreneurs who build real wealth are those who develop the discipline to say no to good opportunities in order to fully exploit great ones they've already committed to.

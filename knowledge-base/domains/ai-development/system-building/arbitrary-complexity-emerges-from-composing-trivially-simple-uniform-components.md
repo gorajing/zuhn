@@ -28,7 +28,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     300 rotating arrows, each performing the simplest possible motion
@@ -56,12 +56,16 @@ stance: >-
   can produce outputs of arbitrary complexity without any individual component
   being complex
 related:
-  - INS-260321-3312
-  - INS-260327-099A
-  - INS-260330-CCD4
-  - INS-260330-7882
-  - INS-260330-0998
-  - INS-260322-B392
+  - INS-260321-53E2
+  - INS-260325-B061
+  - INS-260330-798D
+  - INS-260330-BF2A
+  - INS-260330-D7CA
+  - INS-260330-DE16
+  - INS-260330-4E95
+  - INS-260330-4F10
+  - INS-260329-6727
+  - INS-260330-367B
 ---
 The Fourier series demonstration is a striking existence proof: 300 vectors, each doing nothing more complex than rotating at a constant integer frequency, combine tip-to-tail to draw arbitrarily complex shapes including sharp corners and discontinuities. No individual vector 'knows' about the target shape. The complexity lives entirely in the coefficients (initial sizes and angles), not in the components themselves.
 

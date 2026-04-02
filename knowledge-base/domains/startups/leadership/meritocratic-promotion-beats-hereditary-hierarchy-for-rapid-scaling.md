@@ -54,6 +54,10 @@ related:
   - INS-260327-8268
   - INS-260330-35E2
   - INS-260330-AE4B
+evidence:
+  - id: INS-260327-6177
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Genghis Khan broke from Mongol tradition by promoting commanders based on battlefield performance rather than clan lineage. This single organizational innovation — combined with absorbing skilled lower-class members of conquered tribes while stripping power from existing elites — allowed him to rapidly scale a loyal, competent fighting force from a relatively small tribal base.
 

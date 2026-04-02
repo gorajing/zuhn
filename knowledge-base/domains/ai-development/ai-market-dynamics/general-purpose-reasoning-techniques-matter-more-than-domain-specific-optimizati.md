@@ -53,6 +53,10 @@ related:
   - INS-260330-F183
   - INS-260325-FDA9
   - INS-260325-21D1
+evidence:
+  - id: INS-260330-F183
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The IMO team explicitly prioritized generality: all techniques for scaling thinking time, handling hard-to-verify tasks, and parallel compute were designed to work across domains, not just math. Alex Wey contrasts this with his prior work on AI for Diplomacy (Cicero), which took years of bespoke engineering for a single task. With AI progress accelerating, building domain-specific systems became an inefficient use of time.
 

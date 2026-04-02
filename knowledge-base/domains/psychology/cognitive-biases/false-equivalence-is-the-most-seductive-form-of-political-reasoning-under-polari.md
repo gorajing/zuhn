@@ -53,11 +53,11 @@ stance: >-
   devolved into looting represents a categorical error that feels like balanced
   thinking but destroys the ability to assess proportional threats.
 related:
+  - INS-260330-365B
   - PRI-260328-E1CE
   - INS-260327-7A27
   - INS-260330-AF47
   - INS-260330-3570
-  - INS-260330-3A3F
 ---
 Harris meticulously disassembles the right's primary rhetorical move: equating the Capitol attack with BLM riots to expose liberal hypocrisy. While acknowledging the media's failure to honestly cover BLM violence — CNN anchors asking 'whoever said protests need to be peaceful' while cities burned — he argues the analogy is categorically broken. A protest that devolves into looting is fundamentally different from a sitting president directing a mob against Congress to overturn an election he lost.
 

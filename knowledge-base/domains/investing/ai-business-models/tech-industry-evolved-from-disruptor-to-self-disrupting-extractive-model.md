@@ -52,6 +52,10 @@ related:
   - INS-260327-93F9
   - INS-260329-6CE8
   - INS-260330-AE70
+evidence:
+  - id: INS-260329-6CE8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tech bro arc was predictable: disrupt traditional industries, achieve monopolistic scale, then optimize for extraction. At peak, workers enjoyed endless career progression and options packages. Today they face return-to-office mandates, mass layoffs, and CEOs predicting AI will eliminate entry-level programming.
 

@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Longbows solve the archer's paradox through arrow flex while compound bows
@@ -48,12 +48,11 @@ stance: >-
   equally well, the constraint itself — not any single solution — is the
   essential insight to internalize.
 related:
-  - INS-260323-4ADE
-  - INS-260329-A45D
-  - INS-260330-61C3
-  - INS-260330-9743
-  - PRI-260328-39FA
-  - PRI-260325-A95E
-  - INS-260325-2944
+  - INS-260330-CED2
+  - INS-260330-56E0
+  - INS-260330-21C2
+  - INS-260330-2AA7
+  - INS-260330-148C
+  - INS-260330-181B
 ---
 The longbow solves the archer's paradox by requiring the arrow to flex around the riser, while the compound bow eliminates the problem entirely with a cutout shelf that lets the arrow pass without deflection. Both work. This pattern recurs throughout engineering: the existence of multiple valid solutions reveals that understanding the constraint is more valuable than any particular solution. In software architecture, monoliths and microservices both solve the scaling problem — one through vertical optimization, the other through horizontal decomposition. In AI, retrieval-augmented generation and fine-tuning both address knowledge gaps — through different mechanisms. Teams that fixate on a specific solution miss the deeper insight: deeply understanding the constraint space generates solutions naturally, while copying solutions without understanding constraints leads to misapplication.

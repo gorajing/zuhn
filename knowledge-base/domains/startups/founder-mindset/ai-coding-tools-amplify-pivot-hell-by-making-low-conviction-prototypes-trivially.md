@@ -55,5 +55,12 @@ related:
   - INS-260327-8C1C
   - INS-260327-2661
   - INS-260327-E7A3
+evidence:
+  - id: INS-260323-FAF2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D020
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Pre-AI, building a prototype required enough effort that founders naturally committed to their idea for a meaningful period. Now you can one-shot a Salesforce clone from a tweet. This dramatically lowers the activation energy for pivoting, which sounds efficient but actually accelerates the pivot hell cycle. The shiny new idea is always the one you know least about — you can see why your current thing is hard but can't yet see why the new thing is hard. AI tools make the grass look even greener by eliminating the 'build cost' signal that used to force commitment. The counter-strategy is to recognize that if you can clone something trivially, so can everyone else — the prototype is worth zero, only the hard work of finding product-market fit matters.

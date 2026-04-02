@@ -58,6 +58,10 @@ related:
   - INS-260323-197A
   - INS-260330-8890
   - INS-260322-4B4A
+evidence:
+  - id: INS-260323-197A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Jawbone's product development centers on what they call 'Whys' — explicit articulations of the user problem being solved that, once solved, people can't live without. For UP24, this distilled to five specific statements about real-time data flow, contextual guidance, and ongoing encouragement. These Whys then became the reference point for every trade-off decision: when hardware engineers debated electrode materials affecting reliability, sourcing, and signal performance, the Whys determined which trade-off won.
 

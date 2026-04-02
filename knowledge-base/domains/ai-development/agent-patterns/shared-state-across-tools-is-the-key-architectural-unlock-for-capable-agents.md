@@ -61,6 +61,19 @@ related:
   - INS-260329-AB61
   - INS-260330-77A2
   - INS-260330-ACDA
+evidence:
+  - id: INS-260327-2C5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-71C1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-AB61
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-ACDA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 OpenAI's ChatGPT Agent team found that the combination of deep research (efficient text browsing), operator (visual GUI interaction), and a terminal (code execution and APIs) with shared state produces dramatically more capable agents than any tool alone. The key is shared state: all tools have access to the same file system, allowing the agent to research with the text browser, interact with paid websites through the visual browser, analyze data in the terminal, and produce polished slides or spreadsheets, all within one continuous workflow.
 

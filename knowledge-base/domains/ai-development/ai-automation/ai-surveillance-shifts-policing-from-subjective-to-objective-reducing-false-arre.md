@@ -54,6 +54,16 @@ related:
 stance: >-
   Flock Safety's AI-matched license plate system has facilitated about 1 million
   arrests of the correct person, shifting policing from subjective pro...
+evidence:
+  - id: INS-260322-25B4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-059C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F258
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Flock Safety's technology creates a paradigm shift from subjective-based policing (officer pulls over someone matching a vague description) to objective-based policing (AI confirms the exact vehicle). This has profound implications for reducing false arrests and racial profiling.
 

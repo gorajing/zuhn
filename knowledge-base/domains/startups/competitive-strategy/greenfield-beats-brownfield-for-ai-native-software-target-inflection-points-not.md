@@ -59,6 +59,10 @@ related:
   - INS-260327-EAB0
   - INS-260327-80A8
 stance: AI-native startups win most reliably at greenfield moments
+evidence:
+  - id: INS-260321-807B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Mercury never stole a customer from Silicon Valley Bank until SVB failed. The canonical AI startup strategy is greenfield over brownfield: target new companies choosing their first system, or existing companies hitting inflection points (like outgrowing QuickBooks and needing multi-entity ERP). Trying to sell 'AI Mailchimp' to existing Mailchimp customers is extremely hard.
 

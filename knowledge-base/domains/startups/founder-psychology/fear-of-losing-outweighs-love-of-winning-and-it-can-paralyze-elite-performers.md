@@ -59,6 +59,10 @@ related:
 stance: >-
   Nicky Ryan admits fear of losing has made him less active as a competitor
   because his financial stability, brand, and identity are all tied to comp...
+evidence:
+  - id: INS-260323-3A98
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Nicky Ryan provides a candid admission that fear of losing has held him back from competing as actively as he should. His entire financial stability, teaching career, and brand identity depend on his competitive results, which means every match carries existential weight beyond the sport itself.
 

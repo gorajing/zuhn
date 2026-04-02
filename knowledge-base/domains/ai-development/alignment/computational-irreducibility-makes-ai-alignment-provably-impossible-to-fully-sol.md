@@ -59,5 +59,9 @@ related:
   - PRI-260327-8D8C
   - INS-260326-6D76
   - INS-260330-550F
+evidence:
+  - id: INS-260330-550F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Wolfram argues that once an AI system exhibits computational irreducibility — which any sufficiently powerful system will — it is mathematically impossible to prevent all unintended consequences. You can put constraints in a box, but the system's behavior outside those specific constraints is unpredictable without running the full computation. This means alignment is not an engineering problem with a solution but an ongoing process of patching: 'let's put in a patch here, let's put in a patch there.' This is not a failure of engineering but a consequence of fundamental computational theory — the same reason John Stuart Mill's utilitarian calculus doesn't work for ethics. The practical implication is that anyone promising provably safe AI is either limiting the system so severely it's not useful, or making claims that contradict computational theory.

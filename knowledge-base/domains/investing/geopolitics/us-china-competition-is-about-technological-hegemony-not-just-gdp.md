@@ -53,6 +53,13 @@ related:
 stance: >-
   The decisive factor in US-China competition is technological supremacy —
   particularly AI and standard-setting — not raw GDP growth.
+evidence:
+  - id: INS-260321-3C8A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-E2DD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Dr. Kim argues that among all forms of hegemony (financial, integration, military), technological hegemony plays the most decisive role. The current battleground is AI and whoever sets the technological standards first gains lasting advantage.
 

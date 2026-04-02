@@ -50,13 +50,19 @@ stance: >-
   across meetings provides the essential shared understanding layer that enables
   both human teams and AI models to produce aligned outputs.
 related:
-  - INS-260323-CD28
   - INS-260321-C513
   - INS-260327-7F56
   - INS-260327-D9D6
   - INS-260327-C69F
   - INS-260327-FDF4
   - INS-260329-0EAC
+evidence:
+  - id: INS-260323-CD28
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-C513
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Inspired by Palantir's internal MUD sessions, DIO adopted the CPS framework where every problem and solution is preceded by explicit context synchronization. As meetings generate new requirements and solutions, the context section continuously grows, creating a cumulative knowledge base.
 

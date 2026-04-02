@@ -23,8 +23,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Cultural appeal attracts entrepreneurs and talent, which drives economic
@@ -55,6 +56,12 @@ stance: >-
   can be deliberately leveraged to attract immigrant entrepreneurs, foreign
   capital, and skilled workers, creating a virtuous cycle of innovation and
   investment.
+related:
+  - INS-260329-5514
+  - INS-260329-D37E
+  - INS-260329-6BE8
+  - INS-260322-FCFC
+  - INS-260329-0014
 ---
 The global 'weeb' phenomenon demonstrates how organic cultural appeal translates into economic potential. 42% of American Gen Z watches anime weekly (vs 25% for NFL), Japanese food has become the most sought-after cuisine in major US cities, and Japan tops international brand perception rankings. This cultural magnetism is already driving concrete economic outcomes: Sakana AI's founders (Llion Jones, David Ha) moved to Japan partly because they loved the country; TSMC workers' desire to live in Japan may have influenced Kumamoto fab placement; and American tech workers increasingly discuss relocating to Japan.
 

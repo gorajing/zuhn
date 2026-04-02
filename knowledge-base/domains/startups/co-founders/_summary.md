@@ -1,6 +1,6 @@
 # Topic: co-founders
 
-> 36 insights
+> 37 insights
 
 - `INS-260325-9B73` [high] Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260326-D8B9` [high] No one ever says 'great person, wrong skills' when co-founders split — it's always 'brilliant person, impossible to work with.'
@@ -11,6 +11,7 @@
 - `INS-260327-A4B1` [high] A co-founder relationship is like a marriage — you will spend 7-10 years together, and without mutual respect it will fail.
 - `INS-260325-7D50` [high] Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.
 - `INS-260330-8DCE` [high] Vet co-founders through 20+ hours of deep conversation including explicit divorce scenarios, not just friendship duration.
+- `INS-260402-2A1D` [high] College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
 - `INS-260330-0B55` [high] Among the highest-valued YC companies, zero have significantly disproportionate founder equity splits.
 - `INS-260330-F4C0` [high] Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
 - `INS-260330-C745` [high] Among the highest-valued YC companies, there are zero instances of significantly disproportionate founder equity splits.

@@ -55,7 +55,6 @@ stance: >-
   are unavailable.
 related:
   - INS-260325-3611
-  - INS-260325-C724
   - INS-260329-E7A4
   - INS-260329-76B8
   - INS-260329-04A5

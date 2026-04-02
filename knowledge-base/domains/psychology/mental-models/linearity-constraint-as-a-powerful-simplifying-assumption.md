@@ -52,5 +52,12 @@ related:
   - INS-260330-B4DA
   - INS-260323-A52F
   - PRI-260325-EEE9
+evidence:
+  - id: INS-260330-DE16
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-3B6C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Linear transformations are a tiny subset of all possible spatial deformations, yet they capture an enormous range of useful operations (rotation, scaling, shearing, projection). The key insight is that imposing structural constraints — lines must remain parallel, the origin must stay fixed — doesn't just simplify the math; it makes the system compressible (4 numbers instead of infinite). This is a transferable principle for decision-making and system design: choosing the right constraints doesn't limit you — it makes the problem tractable. In startups, constraining your market (niche down) makes strategy compressible. In AI, architectural constraints (attention heads, convolution filters) make learning feasible. The art is choosing constraints that eliminate noise while preserving signal.

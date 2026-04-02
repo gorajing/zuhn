@@ -62,6 +62,25 @@ related:
 stance: >-
   Hotz argues humanity is more likely to be destroyed by AI-generated infinite
   TikTok that we can't look away from than by a hostile superintelligence
+evidence:
+  - id: INS-260325-DFA5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-2F13
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-7973
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-415A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-5955
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-E990
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 George Hotz's AI risk thesis diverges sharply from the Terminator narrative. His primary concern is wireheading: once generative AI can produce content with 100x human creative intelligence, it will create the equivalent of David Foster Wallace's 'Infinite Jest' tape — entertainment so perfectly optimized for the human dopamine system that people can't look away. Current TikTok is already approaching this with human-generated content and algorithmic recommendation. AI-generated content with superhuman understanding of human psychology completes the loop.
 

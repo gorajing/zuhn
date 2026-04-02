@@ -58,6 +58,13 @@ related:
   - INS-260325-436A
   - INS-260325-75A3
   - INS-260330-1319
+evidence:
+  - id: INS-260329-5ECD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-A44E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 To populate a 3D space scene with stars, the entire implementation is: create a function that generates a sphere with random x/y/z coordinates (using Three.js's randomFloatSpread helper to distribute values between -100 and +100), then call it 200 times via Array(200).forEach. This produces a visually rich, naturalistic star field that would take hours to place manually and would likely look worse due to human bias toward patterns.
 

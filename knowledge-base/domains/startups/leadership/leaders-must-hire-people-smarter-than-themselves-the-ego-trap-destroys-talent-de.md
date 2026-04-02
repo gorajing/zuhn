@@ -56,6 +56,10 @@ related:
 stance: >-
   The misconception that leaders must be the most technically knowledgeable
   person on the team leads to hiring weaker people, which lowers talent den...
+evidence:
+  - id: INS-260323-13C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 One of the most common traps for novice leaders is believing they need to know more technically than every team member. This drives two destructive behaviors: first, they spend excessive time studying to maintain technical superiority rather than leading; second, they unconsciously avoid hiring anyone smarter than themselves, which systematically lowers the team's talent density.
 

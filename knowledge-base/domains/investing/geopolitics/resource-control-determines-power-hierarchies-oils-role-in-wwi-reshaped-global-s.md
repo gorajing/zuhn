@@ -61,6 +61,10 @@ related:
   - INS-260327-A75C
   - INS-260327-E1DD
   - INS-260328-6C9A
+evidence:
+  - id: INS-260329-8DDF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 World War I introduced machine warfare that ran on oil -- tanks, planes, ships. Germany's relative oil poverty contributed to its defeat. The U.S., recognizing this, pivoted from westward territorial expansion to eastward resource acquisition. This single lesson drove American Middle East engagement for a century.
 

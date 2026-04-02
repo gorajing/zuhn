@@ -53,8 +53,8 @@ related:
   - INS-260325-C2BD
   - INS-260323-D8A9
   - PRI-260328-094A
+  - INS-260402-A2F1
   - PRI-260328-82A2
-  - INS-260327-764F
   - INS-260323-FBD9
 ---
 Bustamante draws a sharp distinction most people never consider: ethics are externally defined by professional codes (attorneys, doctors, teachers all have different ethical codes), while morals are internally held personal beliefs about right and wrong. Most people conflate the two.

@@ -50,10 +50,22 @@ related:
   - INS-260321-82FE
   - INS-260323-FEDF
   - INS-260323-A5EC
-  - INS-260327-7B0C
   - INS-260329-560D
   - INS-260330-C681
   - INS-260330-8D34
 stance: The winning AI skill isn't prompting
+evidence:
+  - id: INS-260329-EC01
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-FEDF
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7B0C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8D34
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kern identifies the skill separating the 5% who succeed from the 95% who fail: it's not prompting, and it's not tool selection. It's architectural thinking — working backwards from desired outcomes rather than forward from capabilities. The process: (1) Define the outcome/problem clearly, (2) Get AI to suggest an approach, (3) Get AI to interview YOU about your specific tech stack and constraints, (4) Get AI to produce a detailed step-by-step plan incorporating all those specifics, (5) Get AI to teach itself how to execute each step by writing its own prompts. The key insight: most people go to AI and say 'make me this thing' — the result is garbage. The architect instead says 'here's my problem, interview me, then write yourself a perfect plan.' This reframes AI from a tool you use to an entity you direct. The reason most people don't do it: they don't think in systems. They think in commands.

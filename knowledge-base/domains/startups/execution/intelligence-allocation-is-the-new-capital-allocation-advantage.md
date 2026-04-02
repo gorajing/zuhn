@@ -52,6 +52,10 @@ related:
   - INS-260324-62A8
   - INS-260330-AE4B
   - INS-260330-DD9C
+evidence:
+  - id: INS-260323-4EE4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Koning's research across 500+ entrepreneurs globally found that AI-native founders get 20% more done weekly, are more likely to get customers, launch products, and generate revenue. Most remarkably, they want to raise $250K less capital despite growing faster.
 

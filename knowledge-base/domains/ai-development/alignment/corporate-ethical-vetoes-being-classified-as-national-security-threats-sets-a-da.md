@@ -56,6 +56,13 @@ related:
   - INS-260327-FC68
   - INS-260327-561F
   - INS-260330-946B
+evidence:
+  - id: INS-260326-CA8C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-946B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Anthropic drew two red lines: no fully autonomous weapons and no large-scale civilian surveillance. The Pentagon's response was not negotiation but coercion -- labeling Anthropic a 'supply chain risk,' a designation normally reserved for foreign threats to military procurement. This effectively banned Anthropic products from government use.
 

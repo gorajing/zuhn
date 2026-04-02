@@ -54,6 +54,10 @@ related:
 stance: >-
   Free speech and scientific inquiry are both rooted in the recognition that
   humans are self-deceiving creatures of limited knowledge who need open d...
+evidence:
+  - id: INS-260323-0603
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Lukianoff traces the connection between freedom of speech and science to the Enlightenment — what Yuval Harari called 'the discovery of ignorance.' Both movements emerged from the realization that folk wisdom, intuition, and received authority are unreliable. Galileo's demonstration that our intuitions about falling objects are wrong parallels the broader insight that we need open debate to correct our systematic errors.
 

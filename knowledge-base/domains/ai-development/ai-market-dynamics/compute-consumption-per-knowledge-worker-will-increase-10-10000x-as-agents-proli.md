@@ -59,6 +59,10 @@ related:
   - INS-260321-B7CB
   - PRI-260328-8317
   - PRI-260324-12CF
+evidence:
+  - id: INS-260321-B7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Sequoia frames the new production function as flops per knowledge worker. Today a worker might use one AI assistant; tomorrow they might manage dozens or hundreds of AI agents, each consuming compute. Their portfolio survey shows minimum 10x compute increase per worker, with optimistic projections of 1,000-10,000x.
 

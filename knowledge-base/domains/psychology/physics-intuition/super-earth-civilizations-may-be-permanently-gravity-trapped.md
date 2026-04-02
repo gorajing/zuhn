@@ -55,6 +55,10 @@ related:
   - INS-260323-38EC
   - INS-260330-4E9B
   - INS-260323-849E
+evidence:
+  - id: INS-260323-38EC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 David Kipping describes research showing that on super-Earth planets (significantly more massive than Earth), the surface gravity is so high that the chemical potential energy of any conceivable rocket fuel is insufficient to reach escape velocity. The rocket equation demands that nearly all mass be fuel, requiring pyramid-sized rockets to launch tiny payloads — and even that may not work.
 

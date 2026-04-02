@@ -55,5 +55,18 @@ related:
   - INS-260327-79E8
   - INS-260327-D888
   - INS-260329-5901
+evidence:
+  - id: INS-260322-96D1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-68FE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-79E8
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-F8FD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Ross explicitly states that mobile user behavior is about 'understanding what they've already been used to and just mimicking that same experience but better.' This directly contradicts the startup ethos of disruption and novelty. In web apps, novel interaction patterns can be a differentiator. But mobile is different because users have deeply ingrained muscle memory from the apps they use daily. A mood tracker user expects a grid selection, a detail view, and swipe-to-delete — not because those are optimal, but because that's what their fingers have been trained to do. The competitor research phase isn't about finding gaps to exploit; it's about cataloguing the UX vocabulary that users already speak fluently.

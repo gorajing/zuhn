@@ -66,6 +66,19 @@ related:
   - INS-260325-DFA5
   - INS-260327-F608
   - INS-260330-E660
+evidence:
+  - id: INS-260327-9DB0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-A44E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0692
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F608
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Nick Lane presents a striking biological fact: bacteria have had 4 billion years of evolution, access to metagenomes larger than the human genome, and populations orders of magnitude greater than eukaryotes — yet they never evolved complexity beyond biofilms. The bottleneck wasn't information. E. coli's metagenome exceeds 30,000 genes (more than humans' 20,000), yet bacteria remain bacteria.
 

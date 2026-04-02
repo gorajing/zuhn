@@ -59,6 +59,10 @@ related:
 stance: >-
   Productivity apps are beginner-friendly to build but impossible to win because
   everyone else had the same idea
+evidence:
+  - id: INS-260321-C5AA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Internet Made Coder's retrospective is blunt: productivity apps are where beginners tinker because the problem is obvious and the solution is approachable. That's precisely why there are 'a million bazillion productivity tools' — low barrier to entry means maximum competition. His next startup will only be in an area where he has personal domain expertise that gives him an unfair advantage.
 

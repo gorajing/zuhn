@@ -52,5 +52,12 @@ related:
   - INS-260327-CED9
   - PRI-260328-5CDE
   - INS-260330-A1D2
+evidence:
+  - id: INS-260327-CED9
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260321-0CCD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Arora's framework for build-vs-buy is refreshingly simple. When his team said they could match browser startup capabilities with 60 engineers in 9 months, he pointed out the startup wouldn't freeze during those 9 months — they'd be 9 months further ahead with their own growing team. The question isn't whether you can build it; it's whether you can close the gap while the target is actively extending it. For Palo Alto's browser acquisition, buying brought the browser technology while they contributed premium security services the startup lacked. The combined offering created differentiation competitors would need $8-10 billion to match. This framing should be the default for any build-vs-buy discussion: model the gap trajectory, not just the static comparison.

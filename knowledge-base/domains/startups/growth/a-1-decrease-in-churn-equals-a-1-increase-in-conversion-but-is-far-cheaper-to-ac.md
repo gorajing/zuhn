@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Growth is the gap between conversion and churn; a 1% churn reduction has the
@@ -49,6 +49,16 @@ stance: >-
   Reducing churn is mathematically equivalent to increasing conversion for
   growth, yet consistently cheaper and more neglected — making it the
   higher-leverage growth investment for most startups
+related:
+  - INS-260327-1576
+  - INS-260329-6079
+  - INS-260329-1F17
+  - INS-260329-72A5
+  - INS-260330-D0AB
+  - INS-260330-73A2
+  - INS-260330-CB30
+  - INS-260330-608C
+  - INS-260330-05C7
 ---
 Hale frames growth as a simple interaction between two variables: conversion rate and churn. A 1% improvement in either produces identical growth effects, but reducing churn is consistently cheaper and easier — yet companies routinely assign their best people to conversion and their B-team to retention.
 

@@ -51,7 +51,6 @@ stance: >-
   of deal completion rather than cost reduction, because fast-growing customers
   value velocity over savings.
 related:
-  - INS-260322-3646
   - PRI-260328-C918
   - PRI-260327-942E
   - INS-260320-8688

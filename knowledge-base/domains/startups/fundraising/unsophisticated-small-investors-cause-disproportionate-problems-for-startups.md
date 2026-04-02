@@ -49,14 +49,14 @@ stance: >-
   Taking money from friends and family who invest $5-10K creates more
   operational risk than the capital is worth.
 related:
-  - INS-260323-F9E5
   - INS-260328-195E
   - INS-260330-1002
   - INS-260330-A38C
   - INS-260330-3B31
   - INS-260330-9B90
   - INS-260330-EE5E
-  - INS-260330-B09B
+  - INS-260402-EA72
+  - INS-260323-F9E5
 ---
 YC consistently sees that the investors who cause the most downstream problems are unsophisticated ones — friends, family, neighbors who invest small amounts ($5-10K) without understanding that startup investing is a long-term, high-risk game. These investors eventually want their money back for personal reasons (new kitchen, financial pressure), creating operational headaches and potential legal complications for the company.
 

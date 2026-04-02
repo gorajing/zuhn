@@ -1,6 +1,6 @@
 # Topic: fintech
 
-> 72 insights
+> 71 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
@@ -63,7 +63,6 @@
 - `INS-260330-137A` [high] Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
 - `INS-260324-1C84` [high] Visa was founded by Bank of America, Mastercard by smaller banks as a counterweight — every CEO in their history came from a big bank, and the unspoken harmony means neither side encroaches on the other.
 - `INS-260330-B906` [high] Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.
-- `INS-260330-4370` [high] Ramsey found that millionaires and billionaires overwhelmingly put money into things they deeply understood — dirt, cars, banks, businesses — not sophisticated instruments.
 - `INS-260329-C45C` [high] Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
 - `INS-260324-8C30` [high] Venmo, CashApp, and PayPal require bank accounts and only work domestically — Western Union handles cash-to-cash transfers for migrant workers who need to send money to countries where banking is unreliable.
 - `INS-260327-8374` [high] A fund limiting withdrawals is the institutional finance equivalent of a bank limiting ATM withdrawals - it signals that assets cannot be liquidated fast enough to meet redemption demands.

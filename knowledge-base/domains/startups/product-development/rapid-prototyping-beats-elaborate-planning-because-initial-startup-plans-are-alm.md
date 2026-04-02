@@ -56,5 +56,15 @@ related:
   - INS-260327-3C19
   - INS-260327-2387
   - INS-260327-B17D
+evidence:
+  - id: INS-260323-1C32
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-93E1
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-6CCE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham contrasts two approaches: rapid prototyping (ship fast, learn from users, iterate) versus the 'Hail Mary' strategy (elaborate plans, hire engineers, discover after a year and $2M that nobody wants it). The Hail Mary was common during the Bubble, especially among business-type founders who saw software development as something terrifying requiring careful planning. But in a startup, initial plans are almost certainly wrong — the only way to discover where is to start implementing. Viaweb itself pivoted from targeting web consultants to small merchants after discovering consultants hated their easy-to-use software. The lesson extends to customer understanding: watch users at trade shows, build real working stores with them, and let your first smart users — who found you by themselves — tell you exactly how to win.

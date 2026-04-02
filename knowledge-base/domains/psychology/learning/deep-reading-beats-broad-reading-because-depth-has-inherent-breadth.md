@@ -57,6 +57,10 @@ related:
   - INS-260325-05EC
   - INS-260327-9377
   - INS-260329-E6AF
+evidence:
+  - id: INS-260325-05EC
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Naval spent two years on Deutsch's 'The Beginning of Infinity' — not two years reading it (he's a fast reader), but two years understanding it. Single paragraphs sent him down months-long rabbit holes through videos, papers, and physics textbooks. The key insight from physicist Brett Hall: 'depth has inherent breadth' because the deeper the ideas, the more subjects they touch. Foundational principles in epistemology and physics connect to everything.
 

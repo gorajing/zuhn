@@ -46,6 +46,16 @@ resolutions:
 stance: >-
   Structure knowledge as a relational database (entities + relationships), not
   text blobs
+evidence:
+  - id: INS-260329-E6AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6494
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B33F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 For cross-instance context sharing (Claude Code, Web, Mobile), structure

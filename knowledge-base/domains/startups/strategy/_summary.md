@@ -51,6 +51,7 @@
 - `INS-260329-FC53` [high] Your results are mostly determined by which vehicle you operate in, not how hard you row.
 - `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
 - `INS-260329-3BEE` [high] The market you operate in constrains your upside more than your effort level does.
+- `INS-260330-9E26` [high] Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
@@ -81,7 +82,7 @@
 - `INS-260330-7B1C` [high] The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260328-6898` [high] Large companies are effectively always remote because the people you work with most closely are never at adjacent desks, but startups adopting the same practice gave up their in-person colocation advantage.
 - `INS-260330-D74A` [high] The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
-- `INS-260330-035C` [high] Photosynthesis produced oxygen that poisoned its own key enzyme RuBisCo, forcing plants to evolve detoxification pathways just to keep functioning.
+- `INS-260402-CF0A` [high] Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
 - `INS-260330-E180` [high] Putin delayed pension reform for 13 years after vowing never to touch it, then was forced into a more extreme version that caused his worst-ever approval crisis.
 - `INS-260330-5E47` [high] Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
 - `INS-260330-38B9` [high] Singapore explicitly designed its education, healthcare, housing, and legal system to attract multinational corporations — treating the entire nation as a product built for a specific customer segment.
@@ -94,7 +95,6 @@
 - `INS-260323-BD20` [high] 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
 - `INS-260324-40AA` [high] TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.
 - `INS-260323-2559` [high] Spending months making an app 'perfect' before releasing it means you're optimizing in the dark — every day of polish without user data is a day of self-deception.
-- `INS-260330-B384` [medium] DNA replication can only proceed 5' to 3', so the lagging strand requires an entirely different mechanism (Okazaki fragments) rather than simply running the same process backward.
 - `INS-260329-06F2` [medium] $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260322-5E5D` [medium] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
 - `INS-260323-1302` [medium] Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.

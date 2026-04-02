@@ -53,12 +53,22 @@ related:
   - INS-260321-9824
   - INS-260323-95BC
   - INS-260326-80B1
+  - INS-260330-E282
   - PRI-260328-4CC0
   - INS-260322-474A
   - INS-260323-7EEB
-  - INS-260328-0B99
   - INS-260327-12BE
   - INS-260330-201F
+evidence:
+  - id: INS-260323-95BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-12BE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-201F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Noam Brown provides a sobering perspective: models went from grade school math (seconds) to IMO problems (1.5 hours) in two years, but research math requires 1,500+ hours of thinking, and Millennium Prize problems have consumed entire lifetimes. Each evaluation at longer timescales itself takes that long, creating a fundamental speed bump on progress.
 

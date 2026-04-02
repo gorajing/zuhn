@@ -60,6 +60,19 @@ related:
 stance: >-
   The LLM paradigm applied to biological data — 'large molecule models' — could
   unlock nature's design intelligence across all five kingdoms of life.
+evidence:
+  - id: INS-260322-54F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-1F35
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-A0CE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-77E5
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Oxman draws a direct parallel: just as large language models compress human knowledge from the internet, 'large molecule models' could compress nature's design intelligence from biological data across all five kingdoms of life. The challenge is that we don't yet have the biological equivalent of the internet's text corpus — quantifying and digitizing nature's 'language' is the prerequisite.
 

@@ -2,9 +2,9 @@
 
 - `INS-260329-C4F5` Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
-- `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
 - `INS-260330-035C` Stanford research showed hotel workers told their daily movement met exercise guidelines lost significantly more fat and improved cardiovascular markers compared to uninformed controls, even without changing behavior.
 - `INS-260323-C2F1` After his father's death, McConaughey discovered that excessive reverence for dreams and people kept him from fully engaging — reducing reverence while maintaining respect enabled courage.
+- `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
 - `INS-260323-9C11` Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260329-9A5A` People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.
 - `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.

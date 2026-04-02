@@ -59,8 +59,8 @@ related:
   - INS-260330-2666
   - INS-260329-72AC
   - INS-260325-2C31
-  - INS-260328-FF2C
   - INS-260329-FCD3
+  - INS-260329-882A
 ---
 Yann LeCun frames current LLMs as 'encyclopedias that can talk' -- impressive in language manipulation but fundamentally lacking the ability to be inventive or approach novel situations creatively. What LLMs actually do is produce the most plausible answer based on massive collections of solved problems. Within the boundaries of their training data, this appears intelligent. But as soon as problems move outside those boundaries, the illusion breaks.
 

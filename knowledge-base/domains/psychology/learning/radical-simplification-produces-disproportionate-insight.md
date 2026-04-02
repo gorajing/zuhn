@@ -64,6 +64,10 @@ related:
   - INS-260323-72EB
   - PRI-260325-EEE9
   - PRI-260323-DA09
+evidence:
+  - id: INS-260325-8065
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Einstein published his field equations in 1915 but couldn't find an exact solution. The equations are coupled, differential, and encode the full complexity of spacetime geometry. Schwarzschild's breakthrough was radical simplification: imagine an eternal universe with nothing in it except a single, non-rotating, electrically neutral point mass. This 'standard physicist thing' of imagining the simplest possible scenario yielded the first exact solution - and that solution already contained black holes, white holes, parallel universes, and wormholes.
 

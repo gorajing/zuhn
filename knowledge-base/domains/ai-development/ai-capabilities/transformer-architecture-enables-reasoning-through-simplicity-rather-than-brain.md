@@ -55,6 +55,10 @@ related:
 stance: >-
   GPT-4's remarkable reasoning emerges from an incredibly simple feed-forward
   architecture trained on next-word prediction, not from replicating brai...
+evidence:
+  - id: INS-260330-3C2F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The transformer architecture achieves human-level performance on many tasks through a fundamentally simple mechanism: a feed-forward neural network trained to predict the next token. This is analogous to how airplanes fly using fixed wings and fuel rather than flapping like birds.
 

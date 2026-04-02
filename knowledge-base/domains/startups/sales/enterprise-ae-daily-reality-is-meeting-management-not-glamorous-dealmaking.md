@@ -62,6 +62,10 @@ related:
   - INS-260327-1573
   - INS-260327-9483
   - INS-260329-C56D
+evidence:
+  - id: INS-260322-B6DE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The vlog strips away the glamour: enterprise sales is 80% managing existing relationships and 20% new business pursuit. A typical day includes financial reviews of existing engagements, invoicing discussions with back-office teams, delivery team alignment meetings, customer check-ins on active projects, and new business meetings -- all conducted over Microsoft Teams from a home office or a commuter car.
 

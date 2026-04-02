@@ -49,9 +49,17 @@ related:
   - INS-260322-7282
   - INS-260329-2AB9
   - PRI-260328-935A
+  - INS-260402-AD42
 stance: >-
   Iterative public deployment of imperfect models surfaces discoveries — both
   positive and negative — that internal testing cannot.
+evidence:
+  - id: INS-260322-7282
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-2AB9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 OpenAI's strategy of deploying imperfect models publicly is deliberate: the collective intelligence of millions of users discovers capabilities and weaknesses that no internal team could find. The trade-off is public embarrassment from flaws, but making mistakes while stakes are low builds both the product and public understanding.
 

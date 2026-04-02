@@ -50,12 +50,18 @@ stance: >-
   studied on their own terms to be understood.
 related:
   - INS-260325-6A2C
-  - INS-260325-2069
   - INS-260330-6E61
   - INS-260323-8519
+  - INS-260330-B5D2
   - INS-260325-F21D
-  - INS-260330-42DE
   - INS-260327-77E5
+evidence:
+  - id: INS-260323-8519
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-6A2C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Carroll describes how the stability of a chair ultimately comes down to quantum field theory, which gives rise to chemistry, which gives rise to biology, and so on up the ladder. Each layer genuinely depends on the one below it — there is nothing magical happening.
 

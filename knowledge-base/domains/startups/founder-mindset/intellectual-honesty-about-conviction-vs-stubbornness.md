@@ -52,6 +52,7 @@ related:
   - PRI-260327-7924
   - INS-260327-C4AC
   - INS-260330-4314
+  - INS-260330-6A3A
 ---
 Simons spent 7 years building StackBlitz before Bolt's breakthrough. He candidly admits the company was about to go out of business. The question he constantly asked himself: 'Am I not giving up because people say you shouldn't, or because I actually have conviction?'
 

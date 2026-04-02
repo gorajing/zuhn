@@ -67,5 +67,8 @@ evidence:
   - id: INS-260321-9EBB
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260328-8FC9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Saylor illustrates the S-curve timing problem with multiple examples. Aviation went from impossible (thousands of years of dreaming) to walking on the moon in just 66 years (1903-1969), then hit a wall in the 1970s where jet engine and airframe design stagnated for 40+ years. The Gulfstream G5 used the same fuselage silhouette as the G2 because redesigning it was a $10B exercise. Google Glass (2013) showed another pattern: it could have been the start of the AR S-curve but turned out to be 'year zero' — and in 2022 we're still at year zero. The pattern requires two enabling technologies (for aviation: aluminum + internal combustion engines; for digital: CPUs + silicon) before the S-curve can begin. Once those prerequisites exist, progress is explosive. Moore's Law represents the rare case of stacked S-curves, where the next innovation arrives before the current one plateaus. The practical implication for entrepreneurs: you must find the S-curve in the first 5-10 years of your career, but humility demands acknowledging you might be Leonardo da Vinci designing flying machines centuries too early.

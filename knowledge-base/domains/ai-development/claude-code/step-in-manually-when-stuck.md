@@ -48,6 +48,19 @@ resolutions:
 stance: >-
   If Claude struggles more than 30 minutes on something you can fix in 2, just
   do it yourself
+evidence:
+  - id: INS-260329-2242
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2386
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-2306
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260322-C6CE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Not every task is best suited for Claude. When Claude gets stuck in a

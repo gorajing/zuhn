@@ -50,11 +50,11 @@ stance: >-
   be reversed when the power balance shifts back, because the humiliation
   ensures the terms are never accepted as legitimate.
 related:
+  - INS-260402-9F35
   - INS-260323-9E67
   - INS-260327-619F
   - INS-260327-A654
   - INS-260330-4E5F
-  - INS-260330-9FA5
 ---
 The treaties imposed on China after the Opium Wars — extraterritoriality, forced port openings, territorial concessions — were experienced as national humiliation. This humiliation became central to Chinese identity and a driver of policy: the determination to 'never again' be vulnerable to foreign powers shapes Chinese military buildup, economic strategy, and diplomatic assertiveness 175 years later.
 

@@ -22,7 +22,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Emotional engagement with a subject accelerates learning 3-4x compared to
@@ -44,11 +44,11 @@ stance: >-
   hours — emotionally connected learners acquire skills 3-4x faster than those
   going through the motions.
 related:
-  - INS-260324-4521
-  - INS-260327-D522
-  - INS-260330-2B4F
-  - INS-260330-85C2
-  - INS-260330-E585
-  - INS-260330-68EF
+  - INS-260323-A19F
+  - INS-260329-27A7
+  - INS-260329-0068
+  - INS-260329-9A58
+  - INS-260329-493A
+  - INS-260325-086C
 ---
 Robert Greene illustrates this with his own experience learning French: four years of university French produced near-zero practical ability, but one month in Paris — emotionally engaged with a girlfriend and survival necessity — produced more fluency than those four years combined. The mechanism is neurological: emotional engagement triggers neurochemical release (dopamine, norepinephrine) that signals the brain to rewire. Without agitation or excitement, the brain has no biological reason to change its neural architecture. This has direct implications for skill development strategy: rather than forcing discipline on topics that don't emotionally engage you, find the emotional hook first. The discipline follows naturally from genuine engagement, not the reverse.

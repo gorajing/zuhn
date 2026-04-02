@@ -54,6 +54,13 @@ related:
 stance: >-
   Zuckerberg identifies the scaling question as the single highest-stakes bet in
   AI: Llama training went from 10-20K GPUs to 100K+ GPUs, with hundred...
+evidence:
+  - id: INS-260327-E1EB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260326-6B99
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Previous AI architectures hit plateaus where more data and compute stopped helping. Transformers haven't hit that wall yet, which is why Meta is making massive infrastructure investments. If scaling continues, AI capabilities will advance rapidly for years. If it hits an asymptote, the industry pivots to building products around current capability levels while waiting for architectural breakthroughs.
 

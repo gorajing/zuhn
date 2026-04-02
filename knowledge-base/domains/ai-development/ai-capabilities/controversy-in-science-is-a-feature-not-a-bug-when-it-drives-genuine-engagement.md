@@ -55,6 +55,13 @@ related:
   - PRI-260323-27D6
   - PRI-260323-A33E
   - PRI-260323-2FEE
+evidence:
+  - id: INS-260323-DA1E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7994
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Assembly Theory's publication in Nature generated intense criticism from physicists, chemists, and complexity theorists. Cronin embraces this: the controversy forced hundreds of scientists to seriously engage with the ideas, find flaws, propose alternatives, and refine their own thinking. A paper that generates no controversy often generates no engagement.
 

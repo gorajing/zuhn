@@ -55,6 +55,10 @@ related:
   - INS-260323-7DAE
   - INS-260330-D7CD
 stance: 'When you cannot move an obstacle directly, change its angle with minimal force'
+evidence:
+  - id: INS-260321-B8E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Stevens faces a problem: the opponent's foot is planted in a stable position he cannot move. Instead of trying to move the foot directly, he uses his pinky at the right pressure point to rotate the opponent's entire body, changing the angle so the foot is no longer blocking the throw. 'I never had to move it.'
 

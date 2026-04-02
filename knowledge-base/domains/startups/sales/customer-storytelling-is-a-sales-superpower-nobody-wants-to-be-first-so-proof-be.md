@@ -70,6 +70,10 @@ related:
   - INS-260329-B194
   - INS-260327-EAB0
   - INS-260329-B77F
+evidence:
+  - id: INS-260327-CB1E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Maggie emphasizes that enterprise prospects are risk-averse — 'nobody wants to be the first.' Storytelling bridges this gap by converting early wins into industry-specific credibility. When OpenAI launched their Moderna partnership (estimating they could reduce time to FDA approval for cancer drugs), it unlocked the entire life sciences vertical. Morgan Stanley's wealth advisor use case unlocked financial services.
 

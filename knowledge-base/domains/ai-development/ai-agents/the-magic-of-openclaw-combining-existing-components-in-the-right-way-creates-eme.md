@@ -59,6 +59,19 @@ related:
 stance: >-
   OpenClaw's one-hour prototype was just WhatsApp hooked up to Claude Code CLI,
   yet it created a phase shift in AI integration
+evidence:
+  - id: INS-260327-F7BD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-AE4B
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-36DB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-22A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The core of OpenClaw started as the simplest possible architecture: WhatsApp message comes in, calls Claude Code CLI with -p flag, gets string back, sends to WhatsApp. Built in one hour. Yet this trivial integration created something qualitatively different from using an IDE or terminal — a phase shift in how AI integrates into life.
 

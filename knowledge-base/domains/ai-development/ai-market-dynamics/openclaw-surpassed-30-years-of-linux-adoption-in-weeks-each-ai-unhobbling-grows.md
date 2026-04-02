@@ -53,5 +53,12 @@ related:
 stance: >-
   OpenClaw became the most popular open-source project in history within weeks,
   surpassing Linux's 30-year adoption curve
+evidence:
+  - id: INS-260325-522A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A458
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 OpenClaw's adoption chart shows a vertical line that dwarfs both Facebook's and Linux's growth curves. Jensen called it 'the most popular open-source project in the history of humanity.' The pattern: each AI unhobbling (capability unlock) builds on the previous stack — OpenClaw builds on reasoning models which build on LLMs which build on chat interfaces. Because each new layer is technically stacked on everything before, adoption accelerates. Alex predicts that within 2 years, a new repo will go from zero to a billion stars in 5 minutes. Anthropic is already duplicating all OpenClaw elements. NVIDIA's NemoClaw optimizes it for enterprise with security, making it the biggest thing to hit the enterprise world in decades.

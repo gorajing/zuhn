@@ -56,6 +56,10 @@ related:
   - INS-260323-FAF2
   - INS-260325-D624
   - INS-260330-B138
+evidence:
+  - id: INS-260323-FAF2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Zipline initially thought they were building a cool autonomous aircraft. The crucible moment was realizing the vehicle was only 15% of the problem. A national-scale logistics system requires ordering systems (they had to build WhatsApp-based ordering because hospitals barely had cell coverage), weather management (Rwanda has some of Earth's most volatile weather), regulatory frameworks (they engaged NASA for low-altitude modeling and discovered nobody had data on flying low over mountains in storms), and service reliability at scale.
 

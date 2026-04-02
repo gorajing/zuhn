@@ -59,6 +59,7 @@ related:
   - INS-260329-818A
   - INS-260329-4842
   - INS-260330-C06E
+  - INS-260402-1D32
 ---
 System performance improves dramatically when caching is implemented at four distinct layers: browser caching (HTML/CSS/JS on user's machine via Cache-Control headers), server-side caching (frequently accessed data in Redis/Memcached), database query caching (result sets stored to avoid repeated expensive queries), and CDN caching (static assets served from geographically proximate edge servers). Each layer addresses different access patterns and latency sources.
 

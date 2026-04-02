@@ -56,6 +56,10 @@ related:
 stance: >-
   Linux dominates because anyone can tweak it for their specific use case —
   covering more applications than any proprietary system ever could.
+evidence:
+  - id: INS-260325-4C92
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Linux runs every top-500 supercomputer, powers 3 billion+ Android devices, dominates internet servers, and is used in the Pentagon and nuclear submarines. Not because it is technically superior in every dimension, but because its open-source model lets anyone adapt it to any use case without waiting on a vendor's roadmap or filing support tickets.
 

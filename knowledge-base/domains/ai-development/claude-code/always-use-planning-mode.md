@@ -45,6 +45,16 @@ resolutions:
 stance: >-
   Planning mode should always be used before implementation to prevent
   unstructured building
+evidence:
+  - id: INS-260330-2B45
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-10E0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-3C19
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 The single most impactful workflow improvement is to always use planning

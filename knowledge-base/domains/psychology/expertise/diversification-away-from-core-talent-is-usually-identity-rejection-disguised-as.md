@@ -23,8 +23,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Serial pivots away from proven talent usually signal identity rejection
@@ -50,6 +51,12 @@ stance: >-
   People who repeatedly abandon their proven talent to pursue unrelated ventures
   are driven more by discomfort with their identity than by genuine opportunity
   assessment
+related:
+  - INS-260330-BCC2
+  - INS-260329-F21F
+  - INS-260326-2259
+  - PRI-260327-5635
+  - INS-260330-4314
 ---
 Scott Adams was a world-historical talent at cartooning but spent decades on failed restaurants, food products, TV shows, and tech startups — not because these were good bets, but because 'just a cartoonist' felt insufficient. This pattern appears across domains: Michael Jordan leaving basketball for baseball, accomplished academics abandoning research for consulting. The key diagnostic is whether the person frames their core talent dismissively ('I'm just a cartoonist') while pursuing ventures they have no edge in.
 

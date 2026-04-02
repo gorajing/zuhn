@@ -7,5 +7,4 @@
 - `INS-260327-57CE` The entity that controls how AI presents information to billions of people controls what those people believe is true - a concentration of epistemic power unprecedented in history.
 - `INS-260327-74CF` The most dangerous pattern in history is repeating: powerful entities restrict access to transformative technology to maintain their position, whether ancient priests hoarding literacy or modern companies hoarding AI.
 - `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
-- `INS-260330-45FF` The Constitutional Convention only happened because wealthy bondholders and elites feared losing their investments under the Articles' inability to collect taxes and repay debts.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.

@@ -60,6 +60,16 @@ related:
 stance: >-
   The biggest US AI policy risk has shifted from federal overregulation to
   1,200+ state-level bills that could create a patchwork of incompatible AI ...
+evidence:
+  - id: INS-260321-C6C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260324-8D35
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-D74A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Andreessen reports that federal AI regulation risk has decreased substantially — bipartisan consensus in DC now prioritizes not losing to China over restricting AI. The danger has shifted to state legislatures, where a16z is tracking over 1,200 AI bills across all 50 states, from both blue and red states.
 

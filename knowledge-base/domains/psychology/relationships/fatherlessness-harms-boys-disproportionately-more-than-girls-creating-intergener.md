@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Boys in fatherless households suffer more than girls, creating an
@@ -51,16 +51,11 @@ stance: >-
   situation, creating a self-reinforcing cycle where struggling fathers produce
   struggling sons who become absent fathers themselves.
 related:
-  - INS-260325-CB41
-  - INS-260325-F6CD
-  - INS-260327-1064
-  - INS-260327-7DBF
-  - INS-260327-99CE
-  - PRI-260323-2C5C
-  - INS-260327-200C
-  - INS-260327-8254
-  - PRI-260328-0AB1
-  - INS-260323-5F8A
+  - INS-260325-45BC
+  - INS-260330-1BAC
+  - PRI-260325-697B
+  - INS-260330-AAE9
+  - INS-260330-BC1B
 ---
 Reeves identifies a 'dad deficit' where 1 in 4 fathers don't live with their children, and 1 in 3 children lose contact with their father entirely within a few years of parental separation. The critical finding is that this disproportionately harms boys—they suffer more from absent fathers than girls do.
 

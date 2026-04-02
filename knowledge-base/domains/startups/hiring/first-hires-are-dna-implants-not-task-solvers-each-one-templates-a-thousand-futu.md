@@ -55,5 +55,9 @@ related:
   - INS-260328-8B2C
   - INS-260330-1B37
   - INS-260322-116B
+evidence:
+  - id: INS-260321-0CCD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Brian Chesky describes spending four to five months and interviewing hundreds of people for Airbnb's first engineering hire. His reasoning: if the company succeeds, there will be a thousand people just like this person. The hire wasn't about shipping the next three features — it was about implanting DNA that would replicate. This reframes early hiring from a capacity problem (we need hands) to a cultural genetics problem (we need the right template). Chesky personally interviewed the first 300 employees at Airbnb, treating each as a culture-defining decision rather than a staffing one. The practical implication is that early-stage founders should optimize for cultural fit and long-term alignment over immediate productivity, accepting slower shipping velocity as the cost of durable culture.

@@ -54,6 +54,10 @@ related:
   - INS-260329-A90C
   - PRI-260323-F92B
   - INS-260329-B4C8
+evidence:
+  - id: INS-260330-30FB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi illustrates this with the teenager sneaking out: punishing them when they walk back in the door teaches them that coming home gets punished — so they stop coming home. The parent intended to punish sneaking out, but the temporal proximity of punishment to homecoming trained a completely different association.
 

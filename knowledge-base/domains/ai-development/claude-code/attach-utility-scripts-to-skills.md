@@ -46,6 +46,10 @@ resolutions:
 stance: >-
   Attaching proven utility scripts to skills prevents Claude from reinventing
   solutions
+evidence:
+  - id: INS-260327-B17E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 When a skill involves running tests, data migrations, or other scripted

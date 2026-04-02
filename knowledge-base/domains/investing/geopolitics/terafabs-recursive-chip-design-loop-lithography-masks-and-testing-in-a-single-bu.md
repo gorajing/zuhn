@@ -53,5 +53,9 @@ related:
 stance: >-
   The advanced technology fab in Austin will have lithography mask making, chip
   fabrication, and testing all in one building
+evidence:
+  - id: INS-260327-DE27
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The most underappreciated detail in the Terafab announcement isn't the scale — it's the iteration speed. By putting mask-making, chip fabrication, and testing in a single building, the design loop collapses from weeks/months to potentially days. This is the same principle that made SpaceX successful — rapid iteration with vertical integration. Musk explicitly plans to 'try a bunch of wild and crazy things' including new physics approaches to compute, which is only possible with this fast loop. The existing semiconductor industry separates these steps across companies and continents. If this loop works, the chokepoint shifts from TSMC manufacturing capacity to Tesla's willingness to experiment.

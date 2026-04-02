@@ -51,6 +51,10 @@ related:
   - INS-260327-2430
   - INS-260330-B28C
   - PRI-260328-E870
+evidence:
+  - id: INS-260330-B28C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The skills gap narrative: 8.2M openings, 7M seekers, therefore skills mismatch. The reality: most unfilled positions either pay below market for the skills required, demand unreasonable experience for the compensation offered, or are in locations where the wage doesn't cover living costs.
 

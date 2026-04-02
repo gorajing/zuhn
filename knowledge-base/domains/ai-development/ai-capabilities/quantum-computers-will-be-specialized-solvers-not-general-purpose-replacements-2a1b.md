@@ -53,6 +53,10 @@ related:
   - INS-260325-A1B9
   - PRI-260328-D2FB
   - INS-260323-085A
+evidence:
+  - id: INS-260330-F183
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Al-Khalili emphasizes that quantum computers are not faster classical computers — they are fundamentally different machines suited to specific problem types. Expected applications include drug discovery, climate modeling, financial transaction optimization, and simulating quantum systems in physics and chemistry.
 

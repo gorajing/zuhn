@@ -56,6 +56,16 @@ related:
   - INS-260325-6F7F
   - INS-260322-6088
   - INS-260323-9B68
+evidence:
+  - id: INS-260330-93F3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-6F7F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9B68
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Two hundred years ago, human values included acceptance of slavery, denial of women's rights, and colonial exploitation. Aligning AI to those values would have been catastrophic. Current values will likely appear similarly primitive to future generations. Aligning AI to a snapshot of current values freezes moral progress.
 

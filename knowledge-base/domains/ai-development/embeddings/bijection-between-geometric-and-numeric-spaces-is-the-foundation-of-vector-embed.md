@@ -56,6 +56,13 @@ related:
   - INS-260330-2689
   - INS-260330-CCA2
   - INS-260330-BF2A
+evidence:
+  - id: INS-260330-4F49
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2689
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown emphasizes that every pair of numbers gives exactly one vector, and every vector corresponds to exactly one pair of numbers. This bijection (one-to-one correspondence) between geometric space and numeric lists is not just a mathematical convenience — it's the foundational property that makes modern AI embedding systems possible.
 

@@ -51,5 +51,15 @@ related:
   - INS-260323-C3FA
   - INS-260330-B437
   - INS-260325-36F0
+evidence:
+  - id: INS-260323-C3FA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B437
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-36F0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When the same 268 prompts were tested a year apart across major chatbots, most models had become less restrictive in generating legal but controversial content. This suggests that market competition, user feedback, and public scrutiny are functioning as corrective mechanisms against over-censorship. Users who find one model too restrictive switch to another, creating incentive for permissiveness. However, this trend is fragile — it depends on there being multiple competing models and open source alternatives. If the market consolidated to one or two dominant providers, or if regulation mandated specific content restrictions, the corrective market pressure would disappear. The current trajectory is encouraging but not guaranteed to persist.

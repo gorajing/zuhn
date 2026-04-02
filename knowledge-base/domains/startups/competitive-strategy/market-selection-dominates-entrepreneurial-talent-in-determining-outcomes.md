@@ -53,5 +53,6 @@ related:
   - INS-260329-CBF3
   - INS-260330-6A47
   - INS-260330-118D
+  - INS-260330-D98E
 ---
 Hormozi recounts attending a mastermind where everyone made more than him despite not seeming smarter. The difference: they had picked better markets—mass market, expensive products, global targeting. Warren Buffett's story reinforces this: his equally talented Columbia classmate went into steel while Buffett went into investment partnerships, producing dramatically different outcomes. Buffett's lesson: 'It's far more important what boat you are in rather than how hard you row.' Hormozi's four criteria for market selection: (1) pain—they desperately need what you sell, (2) purchasing power—they can afford it, (3) easy to target—you can reach them tactically, (4) growing—the market has tailwinds. The practical takeaway is to ruthlessly evaluate your market before optimizing execution. Many entrepreneurs are rowing hard in sinking boats.

@@ -56,6 +56,10 @@ related:
 stance: >-
   At the self-authoring stage of development, you realize your values and
   identity are not terminal but instrumental
+evidence:
+  - id: INS-260323-BCCC
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Bach describes stage 5 (self-authoring) as the realization that identity in interpersonal interaction is a costume. Your values are not fixed endpoints but instruments for achieving a world you prefer. This is not fraudulence — it is the recognition that everyone is wearing a costume whether they know it or not, and wisdom is having agency over yours.
 

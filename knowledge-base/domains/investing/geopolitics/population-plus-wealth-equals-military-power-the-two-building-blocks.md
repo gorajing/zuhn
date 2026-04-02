@@ -52,6 +52,10 @@ related:
 stance: >-
   National power is fundamentally a function of population size and wealth —
   both are required to build the military capability that ensures survival.
+evidence:
+  - id: INS-260328-60C7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Mearsheimer identifies two material building blocks of power: population size and wealth. China was not considered a great power until recently despite its massive population because it lacked wealth. The US is powerful because it has both. This two-factor model explains why demographic decline and economic stagnation are existential threats to great power status.
 

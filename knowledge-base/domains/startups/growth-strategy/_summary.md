@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 52 insights
+> 53 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
@@ -47,6 +47,7 @@
 - `INS-260330-B0EB` [high] Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
 - `INS-260330-20F7` [high] Sean Parker's virality framework breaks viral potential into payload (people reached per blast), frequency (how often you hit them), and conversion rate — different products win on different axes.
 - `INS-260330-73C1` [medium] The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
+- `INS-260330-D98E` [medium] Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
 - `INS-260329-8E48` [medium] High-frequency daily posting compresses the iteration cycles needed to find what resonates, dramatically shortening time-to-traction.
 - `INS-260329-3818` [medium] Give the first session free as a half-assessment, half-pitch that delivers one visible improvement, then ask for the commitment.
 - `INS-260329-563F` [medium] Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.

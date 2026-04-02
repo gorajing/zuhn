@@ -61,6 +61,10 @@ related:
   - PRI-260328-4CC0
   - INS-260321-21BE
   - INS-260330-7220
+evidence:
+  - id: INS-260323-E2DD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Early-stage investors asking 'what if Google builds your thing' is rightly mocked as unsophisticated — it's unanswerable and irrelevant pre-PMF. But there is a definite stage where this becomes the central strategic question. Microsoft Dynamics quietly took CRM customers from Salesforce. Microsoft Teams damaged Slack enough to force an acquisition. AWS had a near-decade monopoly before Azure emerged as a serious competitor. These aren't hypotheticals.
 

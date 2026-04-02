@@ -59,6 +59,13 @@ related:
   - INS-260330-8B24
   - INS-260327-B59B
 stance: 'Musicians like Charlie Puth experience notes as colors, tastes, and shapes'
+evidence:
+  - id: INS-260323-C10D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-80A9
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Charlie Puth describes seeing the shape of chords and tasting notes. Other musicians describe tuning as having a taste, sharp notes as 'lemony zesty yellow,' and wrong pitches as a 'metallic penny in your mouth.' These aren't metaphors — they're descriptions of synesthetic cross-wiring where senses connect in ways the average brain doesn't.
 

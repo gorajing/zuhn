@@ -57,6 +57,13 @@ related:
   - INS-260323-8519
   - PRI-260325-3A00
   - INS-260320-7682
+evidence:
+  - id: INS-260325-9F5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-0C20
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Traditional directed evolution of proteins uses massive random mutation libraries — billions of variants — hoping to find a needle in a haystack. Kelsic's approach at Dyno Therapeutics replaces randomness with AI-guided design. They build programmed (not random) capsid libraries, test hundreds of thousands of variants per primate experiment via DNA multiplexing, then train machine learning models on the resulting petabytes of sequencing data.
 

@@ -54,6 +54,13 @@ related:
   - INS-260327-1FA1
   - INS-260327-A9D5
   - INS-260323-E2ED
+evidence:
+  - id: INS-260327-1FA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-E2ED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Redis Arc's Bama made a sharp observation from open-source maintenance experience: coding agents now generate decent-quality PRs, but they actually increase the review burden because maintainers must evaluate whether the PR is good for the codebase long-term — whether it fits the system design, maintains architectural consistency, and supports the project's health over time.
 

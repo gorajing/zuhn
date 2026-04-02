@@ -53,6 +53,13 @@ resolutions:
 stance: >-
   Bash commands bypass Read deny rules and can scan everything including
   node_modules
+evidence:
+  - id: INS-260329-D8F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-02C5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Claude Code has two separate permission systems that do not communicate

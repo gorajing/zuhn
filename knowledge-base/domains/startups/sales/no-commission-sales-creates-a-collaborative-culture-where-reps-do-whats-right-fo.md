@@ -74,6 +74,10 @@ related:
   - INS-260330-1F41
   - INS-260327-58AC
   - INS-260330-DE65
+evidence:
+  - id: INS-260327-5690
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Maggie articulates the logic cleanly: with commission, every hour closing a deal is money in your pocket, and every hour onboarding someone, testing a new strategy, or running a project is money you're NOT making. This creates a direct financial incentive against company-serving behavior. At OpenAI, they reorg constantly, pivot strategies, and shift teams — commission would make every change a comp fight.
 

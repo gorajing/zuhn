@@ -52,6 +52,10 @@ related:
   - INS-260330-45FF
   - INS-260322-31F8
   - INS-260325-3CE2
+evidence:
+  - id: INS-260322-31F8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Most service providers default to one-on-one because it feels like the premium option, but the math overwhelmingly favors semi-private groups. At $60/hr one-on-one, four hours produces $240. At $35/person in groups of eight, the same four hours produce $1,120. The client actually pays less per session, which lowers their barrier to entry, while the provider captures dramatically more value per hour.
 

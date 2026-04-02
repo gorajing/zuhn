@@ -61,6 +61,13 @@ related:
   - INS-260327-94FE
   - INS-260327-368D
   - INS-260330-AB67
+evidence:
+  - id: INS-260321-4E98
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-94FE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Constantine from Sequoia outlines three infrastructure requirements for agents to transact and collaborate at scale. Persistent identity means agents must maintain consistent personality and remember users across interactions -- current approaches (RAG, long context windows) haven't cracked this. Communication protocols like MCP are analogous to TCP/IP -- necessary but just the starting gun for a much richer protocol stack enabling value transfer, trust, and agent-to-agent transactions. Security becomes even more critical when you can't meet your business counterpart face-to-face.
 

@@ -45,6 +45,10 @@ related:
   - INS-260327-BEB1
   - INS-260329-1318
   - INS-260330-7FFE
+evidence:
+  - id: INS-260321-1A03
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The home security industry business model is contract lock-in rather than service quality, with sales commissions incentivizing aggressive conversion and multi-year commitments.
 

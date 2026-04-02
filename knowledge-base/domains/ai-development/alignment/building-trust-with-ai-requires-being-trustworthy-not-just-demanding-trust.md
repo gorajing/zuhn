@@ -54,6 +54,19 @@ related:
   - INS-260321-1A0B
   - PRI-260328-6BC1
   - INS-260330-BA13
+evidence:
+  - id: INS-260323-8B22
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260326-B10B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-627E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-BA13
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The current AI safety approach maintains unilateral human control: we can always shut down, retrain, or constrain AI systems. Kellis argues this is fundamentally incompatible with building genuine trust. An intelligent system that knows you can terminate it at will has no rational basis for trusting you.
 

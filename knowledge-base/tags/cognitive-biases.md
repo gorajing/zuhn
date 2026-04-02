@@ -2,6 +2,7 @@
 
 - `INS-260330-CFEA` Before defending any position, write the four strongest opposing arguments and imagine a world where you're wrong — this creates the cognitive wiggle room for humility and empathy.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
+- `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260330-F734` Even 4chan has a moderation policy — 'free speech absolutism' is an illusion because every platform necessarily makes curation decisions, and the real question is whether those decisions are responsible.
 - `INS-260330-70B9` The most likely outcomes feel least informative, but a strategy optimized for rare jackpots performs worse than one optimized for average information.
 - `INS-260329-F063` Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.

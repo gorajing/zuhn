@@ -52,6 +52,10 @@ related:
   - INS-260329-444F
   - INS-260330-0B50
   - INS-260323-FEDF
+evidence:
+  - id: INS-260322-AFE9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Founders commonly believe that once they've done a bit of sales, they can hire a VP of Sales to take over. This almost never works as expected. An executive from a successful company like Google was trained to run a team and hit quotas within an established machine. They were super effective in that environment.
 

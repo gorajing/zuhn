@@ -59,6 +59,8 @@ related:
   - PRI-260328-8317
   - INS-260327-D020
   - INS-260329-917B
+  - INS-260402-2342
+  - INS-260402-237D
 ---
 Rahul identifies the universal failure pattern of AI agents at mature companies: a small agent team tries to build tool APIs for each feature, always lagging behind the main frontend team. Users hit 'sorry I can't do that' on basic requests because the feature is far down the agent roadmap. Google Slides can't bold text. Siri can't check sleep data. The pattern is 'feature-incomplete, second-class experiences that frustrate users.'
 

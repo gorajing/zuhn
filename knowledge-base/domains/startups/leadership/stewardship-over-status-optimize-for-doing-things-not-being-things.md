@@ -52,6 +52,10 @@ related:
 stance: >-
   Optimizing for stewardship (what you do and serve) rather than status (titles
   and positions) produces both deeper fulfillment and better career out...
+evidence:
+  - id: INS-260327-4F3D
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Kaz Nejatian's core operating principle is stewardship over status — focusing on what you are doing and in service of what, rather than what title you hold. Early in his career, when asked what he wanted to do, he would name a job title. His mentor pointed out this was hollow.
 

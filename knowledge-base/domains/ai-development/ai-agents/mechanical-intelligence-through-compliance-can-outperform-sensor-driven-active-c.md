@@ -61,6 +61,16 @@ related:
   - INS-260327-0875
   - INS-260330-9A92
   - INS-260323-6134
+evidence:
+  - id: INS-260330-69C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-08D1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9A92
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The medical intubation application of the vine robot demonstrates a striking form of intelligence without computation. Traditional intubation requires a highly trained professional with a laryngoscope to visually identify the trachea and manually guide a tube into it — an active sensing and control problem. The vine robot version uses a branching design where the main body grows toward the esophagus while a side branch, being soft and compliant, passively finds and enters the trachea opening.
 

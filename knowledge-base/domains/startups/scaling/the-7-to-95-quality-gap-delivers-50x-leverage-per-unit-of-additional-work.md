@@ -55,6 +55,10 @@ related:
   - INS-260329-33D4
   - INS-260329-72C1
   - INS-260330-2952
+evidence:
+  - id: INS-260329-72C1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi illustrates that the difference between a 7/10 book and a 9.5/10 book is about 20x the work, but the difference in sales is about 1000x. This creates a 50x return per unit of additional input — the definition of leverage. The mechanism is word of mouth: a mediocre product generates negative word of mouth that invisibly works against you, making customer acquisition progressively more expensive. If your ad costs are rising faster than market CPMs, you likely have negative word of mouth.
 

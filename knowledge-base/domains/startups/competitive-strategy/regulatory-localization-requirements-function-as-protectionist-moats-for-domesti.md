@@ -62,6 +62,7 @@ related:
   - INS-260330-A1DB
   - INS-260330-F527
   - PRI-260328-0123
+  - INS-260330-E670
 ---
 India's requirement that single-brand retailers source 30% of goods locally effectively blocked Apple from opening retail stores for years. While framed as economic development policy, these regulations functionally serve as competitive moats for domestic and China-based manufacturers who already have local supply chains. The regulation forces foreign entrants into a choice: invest heavily in local manufacturing infrastructure before proving market demand, or operate through third-party retail with less control over the customer experience.
 

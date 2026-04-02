@@ -47,11 +47,10 @@ stance: >-
   Skipping the ER diagram step when designing databases leads to schema designs
   that encode implementation assumptions rather than business relationships
 related:
-  - INS-260327-D9D6
-  - INS-260327-73BE
   - INS-260329-C401
   - INS-260329-83AA
   - INS-260329-F556
   - INS-260329-18C9
+  - INS-260327-D9D6
 ---
 The tutorial presents a rigorous 5-step process for converting ER diagrams to relational schemas: (1) map regular entities to tables, (2) map weak entities with composite keys, (3) map 1:1 relationships by adding foreign keys favoring total participation, (4) map 1:N relationships by placing the foreign key on the N side, (5) map M:N relationships by creating junction tables with compound keys. This systematic conversion is powerful because it makes design decisions explicit and rule-based rather than intuitive. The ER diagram captures cardinality, participation constraints, and weak entity dependencies in a visual notation that stakeholders can review before any SQL is written. This mirrors the broader principle that intermediate representations between requirements and implementation (like architecture diagrams, type systems, or API contracts) catch design errors at the cheapest possible moment.

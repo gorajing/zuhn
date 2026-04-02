@@ -68,6 +68,9 @@ evidence:
   - id: INS-260322-B09B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-F65F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The a16z Top 100 data shows a clear pattern: standalone image generators are declining on the list because ChatGPT and Gemini now produce commodity images well enough. The survivors like Ideogram and Midjourney persist because they're either aesthetically opinionated or offer sophisticated workflows unavailable in general-purpose models.
 

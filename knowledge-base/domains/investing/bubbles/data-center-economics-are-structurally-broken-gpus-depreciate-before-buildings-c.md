@@ -54,6 +54,13 @@ related:
   - PRI-260328-5CDE
   - INS-260320-C56D
 stance: AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years
+evidence:
+  - id: INS-260330-F205
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260328-F05E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Oracle exemplifies the data center trap: spending $100B+ on AI data centers with negative gross margins, funded by $100B+ in debt, for customers like OpenAI that burn billions annually. The timeline mismatch is fatal — data centers take years to build, GPUs must be bought upfront, and Nvidia's product cycle (Blackwell -> Vera Rubin -> Kyber) means hardware is outdated before deployment.
 

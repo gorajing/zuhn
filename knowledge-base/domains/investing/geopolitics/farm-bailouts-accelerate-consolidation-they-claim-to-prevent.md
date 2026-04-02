@@ -53,6 +53,10 @@ related:
   - PRI-260328-6136
   - INS-260330-E068
   - INS-260330-7DA5
+evidence:
+  - id: INS-260323-59C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The USDA classifies 86% of farms as 'small family farms' but these only produce 17% of output. The real agricultural industry is dominated by multi-million dollar operations and institutional investors. Government bailout programs intended for struggling small farmers end up primarily benefiting large operations that have greater financial stability and more lobbying power. This creates a moral hazard cycle where crises become buying opportunities for institutional investors, with 10% fewer farms every 5 years as consolidation accelerates.
 

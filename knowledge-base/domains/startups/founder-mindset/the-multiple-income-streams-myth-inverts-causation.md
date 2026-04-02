@@ -55,6 +55,10 @@ related:
   - PRI-260323-81E9
   - PRI-260328-BD81
   - INS-260327-5AF9
+evidence:
+  - id: INS-260327-32F1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The widely-cited statistic that the average millionaire has 7 income streams is technically true but causally backwards. Hormozi argues people observe the end state (wealthy people with diversified holdings) and prescribe it as the starting strategy, when in reality those people concentrated intensely on one opportunity first.
 

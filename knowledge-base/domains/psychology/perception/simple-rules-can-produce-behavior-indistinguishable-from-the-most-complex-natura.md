@@ -53,9 +53,9 @@ stance: >-
   can produce infinite apparent sophistication.
 related:
   - INS-260325-890D
-  - INS-260325-48E4
   - INS-260325-486C
   - PRI-260325-5760
+  - INS-260330-B5D2
   - INS-260327-4A10
   - INS-260330-B8C6
   - INS-260329-02C5

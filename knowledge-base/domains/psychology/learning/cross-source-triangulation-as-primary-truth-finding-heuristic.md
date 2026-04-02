@@ -62,6 +62,10 @@ related:
   - INS-260330-CFEA
   - INS-260330-1815
   - INS-260330-3570
+evidence:
+  - id: INS-260322-F65F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Shapiro offers a deceptively simple heuristic for truth-finding: read sources from opposite ends of the ideological spectrum (e.g., New York Times and Breitbart, Daily Wire and Washington Post), and identify the nexus where they agree. That shared core is likely factual; everything else is extrapolated opinion built on different premises. He frames this using the blind-men-and-the-elephant metaphor — each source feels a different part, but the overlap reveals the actual shape.
 

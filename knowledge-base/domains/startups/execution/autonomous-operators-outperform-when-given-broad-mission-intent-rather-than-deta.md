@@ -53,5 +53,12 @@ related:
   - INS-260323-F62A
   - INS-260323-0603
   - PRI-260325-3F50
+evidence:
+  - id: INS-260323-0603
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-F62A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Captain Castellano explained that submarines receive broad tasking with a few discrete mission objectives, then operate completely autonomously - no communication back to headquarters because it would compromise their stealth advantage. The Captain described the decision-making process: 'I see A, B, and C happening. I think B is more important, so I'm going to go do B.' The Navy puts enormous trust in submarine commanders to make real-time prioritization decisions with incomplete information. This is essentially the military concept of Auftragstaktik (mission-type tactics) taken to its extreme - where communication is not just unnecessary but actively harmful. The parallel to startup teams is direct: micromanagement creates dependency, while mission-intent delegation with autonomous execution lets skilled operators adapt to ground truth faster than any centralized decision-maker could.

@@ -56,5 +56,12 @@ related:
 stance: >-
   90% of CXOs say their technology is best-in-class, yet 44% of their actual
   infrastructure is nearing end-of-life
+evidence:
+  - id: INS-260323-59C9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-F204
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kyndryl research reveals a devastating disconnect between executive perception and operational reality: 90% of top executives rate their technology as best-in-class, and 90% say modernization is their top priority. Yet 44% of actual enterprise infrastructure is approaching end-of-life. This 'readiness paradox' means leaders are making AI investment decisions based on a radically distorted understanding of their own technical foundations. You cannot build AI capabilities on crumbling infrastructure. This insight is a direct counterweight to the confidence with which executives announce AI transformation strategies — the foundation they're building on may be far weaker than they believe. For founders selling into enterprise, this gap between executive confidence and infrastructure reality is both a warning (projects will stall on legacy issues) and an opportunity (infrastructure modernization is a prerequisite sale).

@@ -49,5 +49,6 @@ related:
   - INS-260330-CECB
   - INS-260325-EF4C
   - INS-260323-104E
+  - INS-260402-180C
 ---
 Michael recounts a YC LP telling him that historically 97% of venture returns are generated in the US market. His instinct was to discard the opinion because it did not align with his thesis. Years later, he recognizes his own privilege blindness: living in the largest market made him assume it was equally easy to build billion-dollar companies elsewhere. It is not. The counterexample is India — companies like Groww and Razorpay became decacorns — but the broader pattern holds. Ironically, YC's naive willingness to fund international companies (because they did not get the memo that they should not) produced some of their best outcomes.

@@ -55,6 +55,10 @@ related:
   - PRI-260328-D401
   - INS-260323-05B5
   - PRI-260328-D292
+evidence:
+  - id: INS-260323-05B5
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The computing revolution was consistently underestimated by established institutions: IBM's 1943 prediction of a world market for 'maybe five computers' is the canonical example. Gershenfeld argues personal fabrication is in the same position: institutions dismiss it as hobbyist activity while the exponential capability curve continues accelerating.
 

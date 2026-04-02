@@ -57,5 +57,12 @@ related:
   - INS-260321-F864
   - INS-260327-9BA2
   - INS-260325-40DC
+evidence:
+  - id: INS-260320-76E7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-F864
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Severance makes an epistemologically interesting claim when explaining CPU architecture: 'We compensate for the lack of intelligence of this thing by us writing really good software that runs really fast. And so voice recognition on things like phones is possible because computers have so much storage and they run so fast and the algorithms that do voice recognition are finally starting to work.' This frames all AI capability as a speed-intelligence tradeoff — the machine understands nothing but processes so quickly that the output appears intelligent. This connects to the broader debate about whether LLMs truly understand language or merely simulate understanding through statistical pattern matching at scale. The practical implication: when evaluating AI capabilities, distinguish between genuine reasoning and brute-force approximation, because they have different failure modes and scaling characteristics.

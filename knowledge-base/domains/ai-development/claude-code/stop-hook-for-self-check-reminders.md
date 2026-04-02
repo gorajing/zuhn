@@ -47,6 +47,10 @@ resolutions:
 stance: >-
   Stop event hooks should analyze edited files and show self-check reminders for
   error handling
+evidence:
+  - id: INS-260322-24FB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 After Claude finishes responding and editing files, a Stop event hook

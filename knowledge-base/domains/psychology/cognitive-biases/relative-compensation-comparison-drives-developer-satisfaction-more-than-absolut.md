@@ -56,7 +56,7 @@ related:
   - INS-260323-9867
   - INS-260323-1930
   - INS-260330-0A95
-  - INS-260330-B906
+  - INS-260402-CF0A
 ---
 The video illustrates a compensation hierarchy where each level flexes on the one below: junior at $50K → negotiator at $225K → Netflix at $900K → early Uber engineer at $25M → crypto billionaire. Each person in the chain feels inadequate relative to the next, despite objectively high compensation.
 

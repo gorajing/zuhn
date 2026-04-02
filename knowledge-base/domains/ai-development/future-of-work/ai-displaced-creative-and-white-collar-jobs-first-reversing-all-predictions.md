@@ -47,10 +47,21 @@ stance: >-
   labor, the exact opposite of what experts predicted would happen.
 related:
   - INS-260327-40D5
-  - INS-260327-2627
   - INS-260329-B062
   - INS-260323-FE69
+  - INS-260327-2627
   - INS-260327-41A9
+  - INS-260402-0392
+evidence:
+  - id: INS-260327-40D5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2627
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-41A9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The conventional wisdom held that AI would first replace low-skilled physical labor, then low-skilled white-collar work, then high-skilled programming, and finally creative jobs. The actual sequence was reversed: copywriters, designers, customer service, legal drafting, and medical diagnosis were disrupted before warehouse workers or construction crews.
 

@@ -50,7 +50,6 @@ stance: >-
   bugs achieve more sustainable growth than those that optimize purely for speed
   of expansion
 related:
-  - INS-260327-5580
   - INS-260330-EA23
   - INS-260330-F23F
   - INS-260327-F417

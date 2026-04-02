@@ -51,8 +51,8 @@ related:
   - INS-260323-FA30
   - INS-260323-3A54
   - INS-260327-37C8
+  - INS-260402-8C0E
   - INS-260327-8521
   - INS-260325-5A93
-  - INS-260327-768D
 ---
 Ponzi's grandparents were successful merchants and officials; his father was a postman. This generational decline created deep resentment and an identity built around regaining lost status. He burned his inheritance on luxury, rejected clerk work as beneath him, and after every failure immediately sought the next big scheme rather than building incrementally. Even after prison, he tried the same fraud again in Florida with even larger promised returns (200% in 60 days). This pattern — where perceived status loss creates an identity incompatible with gradual progress — appears across domains. The psychological trap is that steady work feels like accepting diminished status, while schemes feel like reclaiming birthright, creating a cycle where each failure intensifies rather than corrects the behavior.

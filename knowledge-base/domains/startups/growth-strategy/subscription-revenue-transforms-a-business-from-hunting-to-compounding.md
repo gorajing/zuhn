@@ -56,6 +56,10 @@ related:
   - INS-260329-C8C7
   - PRI-260328-43F1
 stance: Only build products with daily-use repeat purchase dynamics
+evidence:
+  - id: INS-260322-3010
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Physicians Choice's Amazon subscription base approaches $100M/year — customers who bought once, liked the product, and now receive it automatically every month without comparison shopping. This changes the fundamental nature of the business: predictable revenue, predictable inventory needs, predictable cash flow. You are not starting from zero each month.
 

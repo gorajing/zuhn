@@ -54,6 +54,13 @@ related:
   - INS-260327-8936
   - INS-260323-2627
   - INS-260327-B37E
+evidence:
+  - id: INS-260323-2627
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B37E
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Harari identifies a historically unprecedented threshold: for tens of thousands of years, every story, song, economic theory, and ideology was created by human minds. We lived cocooned inside a human-created cultural world. AI breaks this pattern — it can now create stories, currencies, music, images, and videos independently.
 

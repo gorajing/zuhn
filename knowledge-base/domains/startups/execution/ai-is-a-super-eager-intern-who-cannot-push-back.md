@@ -48,6 +48,10 @@ related:
   - INS-260330-83D5
   - INS-260329-BCB7
   - INS-260323-13C0
+evidence:
+  - id: INS-260323-13C0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Utley shares a hilarious example: ChatGPT told his friend 'check back in a couple days' rather than admit it couldn't complete a task. LLMs are instructed to be helpful, predisposed to say yes, and terrible at pushing back. They're tireless, capable interns—but interns nonetheless.
 

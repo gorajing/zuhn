@@ -58,6 +58,10 @@ related:
   - PRI-260328-1D90
   - INS-260329-B194
   - INS-260327-9377
+evidence:
+  - id: INS-260330-EEBD
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Facebook internationalized late -- Sheryl Sandberg acknowledged this publicly -- and faced clones in every major market (StudiVZ, Cyworld, Mixi, Orkut). When they did internationalize, they made two critical decisions: First, they invested in a scalable community translation platform rather than just hiring professional translators for top languages. French was translated in 12 hours by users, and they eventually reached 104 languages (70 community-translated).
 

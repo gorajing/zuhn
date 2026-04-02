@@ -5,4 +5,5 @@
 - `INS-260324-861B` Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
 - `INS-260330-DD63` Innovation clusters geographically because innovators need complementary tech, talent, and early-adopter customers co-located.
 - `INS-260330-DDF0` Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
+- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.

@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 202 insights
+> 200 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -48,7 +48,6 @@
 - `INS-260330-09BB` [high] Gödel proved that in any consistent mathematical system, there exist true statements that cannot be proven within that system.
 - `INS-260330-0930` [high] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - `INS-260330-F183` [high] The discovery that math is fundamentally incomplete led directly to the invention of computers, showing that limits catalyze breakthroughs.
-- `INS-260330-E059` [high] Reframing matrix multiplication as spatial transformation makes the concept intuitive rather than mechanical.
 - `INS-260330-367B` [high] Reframing algebra as geometry makes abstract concepts tangible and intuitive.
 - `INS-260330-2C97` [high] Testability is necessary but insufficient — good explanations are ones whose internal details are load-bearing and cannot be swapped out arbitrarily.
 - `INS-260330-BFD0` [high] The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
@@ -83,7 +82,6 @@
 - `INS-260330-F7B2` [high] High-floor interfaces like Vim reward invested learning time with speed gains that low-floor tools cannot match.
 - `INS-260330-14A1` [high] Moderate procrastination enables subconscious incubation that produces more creative ideas than diving in immediately or waiting until the last minute.
 - `INS-260330-2BF4` [high] Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
-- `INS-260330-85E1` [high] A 6-year-old relearned reversed bicycle steering in 2 weeks versus 8 months for an adult, demonstrating the massive plasticity advantage of young brains.
 - `INS-260330-B047` [high] Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
 - `INS-260330-8E8A` [high] New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
 - `INS-260329-0487` [high] Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.

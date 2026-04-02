@@ -55,11 +55,11 @@ stance: >-
   shared characteristics alone — they require active struggle against an
   opposing force
 related:
+  - INS-260330-59A4
   - INS-260325-BA76
   - INS-260325-A52D
   - INS-260330-2EB0
   - PRI-260328-094A
-  - INS-260329-28A6
   - INS-260330-87A0
 ---
 Marx's theory of class struggle contains a psychological insight that extends far beyond economics: groups do not develop coherent identity from shared characteristics alone. It is the act of struggling against an opposing force that crystallizes group consciousness. Without conflict, shared traits remain latent and unorganized — workers don't think of themselves as 'the working class' until they collectively push back against capital.

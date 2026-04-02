@@ -58,6 +58,10 @@ related:
   - INS-260330-B869
   - INS-260325-33DA
   - INS-260323-1930
+evidence:
+  - id: INS-260322-5B1B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Harris's meditation guides practitioners to notice that while the contents of consciousness — sounds, sensations, emotions, thoughts — are in constant flux, the awareness that registers all of these is itself unchanging. You can be aware of pain or pleasure, boredom or excitement, and the quality of awareness itself does not change color based on its contents.
 

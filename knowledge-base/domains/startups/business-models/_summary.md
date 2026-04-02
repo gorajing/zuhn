@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 117 insights
+> 116 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260322-FCFC` [high] Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
@@ -117,5 +117,4 @@
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.
 - `INS-260330-DA4A` [medium] Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
 - `INS-260327-889F` [medium] Taco Bell's turnaround was powered by sequential complementary leaders -- Emil Brolick (product/operations, 6 years) laid the foundation, then Greg Creed (marketing/pricing, 9 years) built the house on top of it.
-- `INS-260330-E059` [medium] Spotify evolved from a consumer music library into a two-sided marketplace where both listeners pay for access and artists pay for playlist placement and promotion.
 - `INS-260330-1B47` [medium] Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.

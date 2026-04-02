@@ -46,5 +46,9 @@ related:
 stance: >-
   The current monoculture of one model for everything will give way to speciated
   models
+evidence:
+  - id: INS-260322-54F3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Karpathy argues labs currently train single monolithic models trying to be arbitrarily intelligent in all domains. This will shift to speciation: smaller models that retain the cognitive core but specialize for specific tasks (math in Lean, code generation, etc.). The analogy is biology — the animal kingdom has extremely diverse brains with overdeveloped cortices for different niches. The science of fine-tuning without losing capabilities isn't developed enough yet, but compute constraints will force it.

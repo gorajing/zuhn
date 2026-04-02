@@ -57,6 +57,10 @@ related:
   - INS-260323-72EB
   - INS-260325-EBDD
   - INS-260330-137C
+evidence:
+  - id: INS-260321-AE3F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 When Isaac Newton realized that existing mathematics couldn't calculate the motion of a falling moon under an inverse square force field, he didn't search for workarounds — he invented calculus. He created it at the same rate college freshmen learn it today, driven purely by the demands of his specific problem.
 

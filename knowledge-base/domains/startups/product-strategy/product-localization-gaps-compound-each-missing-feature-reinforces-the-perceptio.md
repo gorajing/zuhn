@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-519D
   - PRI-260328-1D90
+  - INS-260402-426C
   - PRI-260328-82BE
   - INS-260330-F527
-  - INS-260330-843E
 ---
 Apple's absence from India wasn't just about price — Apple Pay didn't work, Siri barely understood Indian English, Maps lacked local detail, and there were no retail stores. Each individual gap might be forgivable, but together they create a compounding perception: this company doesn't care about this market. The psychological effect is multiplicative — customers don't evaluate missing features independently, they construct a narrative.
 

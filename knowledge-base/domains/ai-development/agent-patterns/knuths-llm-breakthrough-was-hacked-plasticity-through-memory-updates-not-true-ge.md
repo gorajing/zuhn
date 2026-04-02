@@ -51,5 +51,15 @@ related:
 stance: >-
   Donald Knuth's viral LLM math result was achieved by making the LLM update its
   memory after each solution
+evidence:
+  - id: INS-260330-EBDC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-D21A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-DA1E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Donald Knuth's recent viral result using LLMs to find Hamiltonian cycles worked because he had the LLM update its memory with what it learned after solving each sub-problem — essentially hacking together plasticity without changing weights, just improving context. The LLMs efficiently explored the Shannon entropy space, finding solutions through brute combinatorial search across the existing mathematical manifold. But eventually the LLMs got stuck, and Knuth himself had to synthesize the solutions into a proof — creating the new Kolmogorov representation. This illustrates the optimal human-AI collaboration pattern: LLMs excel at efficient correlation search within existing knowledge manifolds, while humans provide the causal modeling and representation breakthroughs.

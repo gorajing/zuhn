@@ -56,5 +56,24 @@ related:
 stance: >-
   Cisco found 83% of companies plan to release AI agents but only 13% have the
   infrastructure to support them
+evidence:
+  - id: INS-260327-BB71
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-F2C4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-348F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-5C25
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-BD20
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-0D3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Cisco's 2025 AI readiness report reveals a terrifying gap: 83% of surveyed companies plan to deploy AI agents while only 13% have the actual preparedness to do so at scale. Every sloppy AI deployment without proper guardrails, human-in-the-loop systems, rollback procedures, and testing pipelines adds to 'AI infrastructure debt' — a term Cisco coined that's analogous to technical debt but compounds faster because AI systems interact with users in unpredictable ways. The smart play for leaders who don't yet know what they need AI for: invest in the infrastructure (data pipelines, evaluation frameworks, cultural readiness, vendor relationships) rather than rushing to deploy. Watch others in your industry prove use cases, and be ready to scale quickly when the time comes. Companies that partner with specialists are 2x more likely to successfully deploy AI than those who build from scratch in-house.

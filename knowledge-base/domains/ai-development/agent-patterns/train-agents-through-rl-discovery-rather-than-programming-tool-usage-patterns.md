@@ -58,6 +58,19 @@ related:
   - INS-260329-BCB7
   - INS-260329-979B
   - INS-260329-5901
+evidence:
+  - id: INS-260325-175B
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-BCB7
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-979B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-5901
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Rather than programming rules for when the agent should use each tool, the OpenAI team let the model discover optimal strategies through reinforcement learning across thousands of virtual machines. The model learned when text browsing is more efficient versus when visual browsing is necessary (e.g., for search filters, seeing product images, or accessing paywalled content).
 

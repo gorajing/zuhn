@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-9492
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260328-0DFE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 As users migrate from Google Search to AI assistants like ChatGPT, the remaining Google ad inventory shrinks. But competitors don't disappear — they bid more aggressively on what remains, driving cost-per-click upward. A business doesn't need to lose all its search traffic to be disrupted; a 20-30% reduction can make previously profitable campaigns uneconomical.
 

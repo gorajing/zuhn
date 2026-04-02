@@ -54,5 +54,9 @@ related:
   - INS-260323-95BC
   - INS-260325-809A
   - INS-260329-3818
+evidence:
+  - id: INS-260320-47DC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi identifies the urgency trap — nearly nothing in business is an existential crisis within hours, yet most entrepreneurs let everyone's demands consume their day. His framework: identify 'the one thing that if it were true, all other problems would go away,' then dedicate the first 4-6 uninterrupted hours to making it happen. He illustrates with a gym employee calling at 5:30 AM about a broken pipe — the employee already knew the answer (call a plumber, get a bucket) but defaulted to interrupting the owner. The Eleanor Roosevelt anecdote reinforces this: when told of a family death at 3 AM, she replied 'that could have waited till morning.' The month-end retrospective test is clarifying: you'll never remember the refund you processed or the chat outage, but you will remember whether the high-leverage project moved forward.

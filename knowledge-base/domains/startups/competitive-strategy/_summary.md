@@ -27,7 +27,6 @@
 - `INS-260327-584D` [high] Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficie
 - `INS-260324-6C83` [high] 80% of US barbershops remain independent despite 40 years of corporate attempts because the core asset (barber talent) can walk out and open their own shop with just scissors and a chair.
 - `INS-260327-6853` [high] Taco Bell was Yum Brands' overlooked third child behind KFC and Pizza Hut, but being excluded from the China arms race gave its leaders room to quietly build a domestic powerhouse without corporate interference or pressure to scale prematurely.
-- `INS-260329-A90C` [high] Chick-fil-A's quality-first approach outlasted Boston Market's growth-first strategy because quality compounds while bloat collapses.
 - `INS-260330-E039` [high] RuBisCo is bad at its job but became the most abundant protein on Earth (40 billion tons) because early plants scaled it before alternatives evolved.
 - `INS-260327-0519` [high] BNPL succeeds because four payments doesnt feel like debt even though it is functionally identical to credit card borrowing.
 - `INS-260327-176D` [high] Board seats pay hundreds of thousands for showing up to quarterly meetings, creating a professional director class incentivized to avoid rocking any boat.
@@ -62,6 +61,7 @@
 - `INS-260324-782C` [high] After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted to acquiring emerging brands because they'd lost the internal talent and muscle to invent new products.
 - `INS-260327-7AB5` [high] Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
 - `INS-260330-95F3` [high] Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
+- `INS-260402-5E4E` [high] Computers slashed transaction costs, making networks of specialized companies outperform monolithic vertical integration.
 - `INS-260330-6088` [high] Extreme brand diversification neutralizes reputational risk by making the parent company invisible to consumers.
 - `INS-260330-E4B6` [high] Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
 - `INS-260330-1B8A` [high] The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
@@ -132,9 +132,9 @@
 - `INS-260330-6D3B` [high] Letting a small but loud faction define your brand alienates the majority you need to win.
 - `INS-260323-3BA4` [high] OpenClaw beat every well-funded agentic AI startup because competitors 'all take themselves too seriously' — it's hard to compete against someone who's just there to have fun, with lobster memes, weird branding, and a soul.md that gives agents personality.
 - `INS-260327-0BDD` [high] When affluent consumers discover and popularize budget shopping channels (thrift stores, discount retailers), prices ris
-- `INS-260330-6A65` [high] Eurasia had cattle, horses, sheep, goats, wheat, and rice while the Americas had only llamas — this resource gap shaped 10,000 years of civilizational divergence.
 - `INS-260327-CADA` [high] The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
 - `INS-260322-CFB1` [high] AI-native startups win most reliably at greenfield moments — new company creation or inflection points where customers must switch systems anyway — rather than trying to displace incumbent software.
+- `INS-260330-E670` [high] Foreign companies physically operating in a country create knowledge spillovers through supplier interactions and employee job-switching that domestic policy alone cannot replicate.
 - `INS-260328-75B8` [high] Some business constraints are physics — no execution can overcome a market that only buys once a year or a supply chain that can't reach the customer.
 - `INS-260327-26CF` [high] Products that gain market share through implied health benefits face consumer backlash when scrutiny reveals the health 
 - `INS-260330-B284` [high] Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
@@ -205,6 +205,7 @@
 - `INS-260327-0E86` [high] Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260323-7D3C` [high] Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
 - `INS-260326-841D` [high] Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
+- `INS-260402-4605` [high] Eminence constrains innovation more than obscurity constrains execution.
 - `INS-260330-B468` [high] Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260330-11EB` [high] RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
 - `INS-260330-D4CC` [high] RuBisCo fails 50% of the time in today's atmosphere but remains life's only carbon-fixation enzyme because plants invested too heavily to switch.
@@ -341,7 +342,6 @@
 - `INS-260330-8D0C` [medium] The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.
 - `INS-260329-CABE` [medium] Big and small goals require similar effort, but big goals face less competition because most people dismiss them as unrealistic.
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
-- `INS-260330-B22D` [medium] After war destroyed his shop, Vuitton used the resulting glut of empty retail space to relocate next to a railway station and Grand Hotel in a wealthier district.
 - `INS-260330-DCE1` [medium] Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
 - `INS-260330-F116` [medium] The early Islamic empire's rapid territorial expansion was enabled by centuries of Byzantine-Sassanian warfare that left both empires depleted — plus plague weakening the Sassanians further.
 - `INS-260327-263F` [medium] As the sneaker market crashed, shop reputations collapsed from widespread bait-and-switch tactics, making Leo's in-person convention presence and honest dealing his primary competitive moat for securing inventory.

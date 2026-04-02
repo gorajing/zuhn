@@ -62,6 +62,10 @@ related:
   - INS-260329-163B
   - PRI-260328-B11D
   - INS-260329-DF07
+evidence:
+  - id: INS-260323-BCCC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi describes five predictable emotional phases every entrepreneur experiences: uninformed optimism (excitement about a new opportunity), informed pessimism (discovering hidden difficulties), the valley of despair (feeling hopeless and stuck), informed optimism (understanding the path forward), and achievement (reaching the goal). The critical insight is that most people quit during the valley of despair and jump to a new opportunity, which resets them to uninformed optimism.
 

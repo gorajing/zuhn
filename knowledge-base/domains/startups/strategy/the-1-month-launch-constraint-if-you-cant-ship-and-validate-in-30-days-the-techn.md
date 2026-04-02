@@ -59,6 +59,13 @@ related:
 stance: >-
   A product that takes months to reach a testable state is burning the founder's
   most scarce resource
+evidence:
+  - id: INS-260327-CED9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-1D52
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The productivity app was so technically complex that it took months before users could even try it. By the time they discovered nobody wanted it, they'd already invested 6 months of 70-hour weeks. A 1-month launch constraint would have forced them to either simplify the product (exposing the core value proposition faster) or reject the idea upfront as too complex to validate quickly.
 

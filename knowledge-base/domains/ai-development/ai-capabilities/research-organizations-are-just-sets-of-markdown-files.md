@@ -45,5 +45,15 @@ related:
 stance: >-
   A research organization is described by its program.md — you can imagine
   having a better research organization the same way you optimize code
+evidence:
+  - id: INS-260329-D062
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-55D8
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A660
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Karpathy describes the meta-layer of auto-research: the program.md file IS the research organization's operating system. Different program.mds would yield different research progress. You can imagine a contest where people write different program.mds for the same hardware budget and measure which produces the most improvement. Then feed all that data to a model to write an even better program.md. This is meta-optimization of the research process itself.

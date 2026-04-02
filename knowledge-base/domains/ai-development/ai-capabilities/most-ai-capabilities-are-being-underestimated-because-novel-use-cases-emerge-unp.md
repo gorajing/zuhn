@@ -55,6 +55,28 @@ related:
   - INS-260323-8AA1
   - INS-260327-8FD4
   - INS-260330-1D3B
+evidence:
+  - id: INS-260327-B17E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B17D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-7D3C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5EAC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-8AA1
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8FD4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1D3B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Google DeepMind's Rabin made a striking claim: 'almost everything is probably underestimated at this point.' His reasoning was experiential — even working at the frontier, he is regularly surprised by what users accomplish with models. OpenClaw becoming the biggest thing on the internet, people using models in combinations of technology that no one at the labs anticipated.
 

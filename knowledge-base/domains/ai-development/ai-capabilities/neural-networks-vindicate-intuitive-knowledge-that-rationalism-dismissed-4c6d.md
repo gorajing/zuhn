@@ -58,6 +58,28 @@ related:
   - INS-260323-9F61
   - INS-260323-61CD
   - INS-260330-5A4C
+evidence:
+  - id: INS-260330-6D2E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-5D22
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-19B3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-F8E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-9F61
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-61CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-5A4C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Since Socrates, Western culture has equated knowledge with explicit, articulable rules. If you cannot define something precisely, you do not truly know it. This framework produced extraordinary progress in physics and engineering but systematically devalued intuitive, tacit, pattern-based knowledge.
 

@@ -50,10 +50,10 @@ stance: >-
   choice produces more rational outcomes than intuitive gut-feel deliberation
 related:
   - INS-260329-5094
+  - INS-260402-CCC3
   - INS-260329-89E9
   - INS-260330-3BBC
   - INS-260330-487E
-  - INS-260325-FD14
 ---
 The course demonstrates a career decision framework where jobs are scored on factors (pay, job market, enjoyment, talents, schooling) then multiplied by personal importance weights. The critical insight is the two-pass approach: first scoring without weights shows engineering and NFL player ranking similarly, but adding weights (job market weighted 5x vs schooling at 2x) dramatically reshapes the ranking because it forces the decision-maker to confront which factors actually matter to them.
 

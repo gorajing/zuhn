@@ -52,6 +52,19 @@ related:
 stance: >-
   The fintech industry has largely digitized traditional financial services
   (access), but hasn't yet made them excellent
+evidence:
+  - id: INS-260329-8DDF
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-0B99
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-642F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DFF1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Plaid CEO Zach Perret frames fintech's trajectory in two phases. Phase 1 (2014-2022) solved access: getting loans online, opening bank accounts on mobile, digital remittances. This is largely complete.
 

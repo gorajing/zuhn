@@ -58,6 +58,10 @@ related:
 stance: >-
   Upgrading from Newton's to Einstein's model of gravity was not just
   philosophical
+evidence:
+  - id: INS-260323-7A50
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 A common objection to re-examining mental models is 'same same but different' — why does the description matter if the outcomes look similar? The gravity example disproves this forcefully. If we still used Newton's force-based model for GPS satellites, positioning would be off by kilometers. Uber could not find you on a street corner. Every satellite, plane, and navigation system depends on Einstein's spacetime curvature corrections.
 

@@ -50,5 +50,9 @@ related:
 stance: >-
   After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted
   to acquiring emerging brands because they'd lost the internal talent a...
+evidence:
+  - id: INS-260323-3A98
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The endgame of Moneyball-style optimization is acquisition dependency. Hershey bought Skinny Pop and Bark Thins. Kellogg bought RXBAR for $600M. General Mills pivoted to pet food. Kraft Heinz sold Planters because they couldn't compete anymore. These companies spend more on celebrity endorsements post-acquisition than they ever would have on R&D to invent something original. The creative atrophy is irreversible at organizational scale — the talent leaves, the processes die, and the institutional knowledge of how to take risks evaporates.

@@ -44,9 +44,9 @@ resolutions:
 related:
   - INS-260330-A69C
   - INS-260322-D5EB
+  - INS-260402-5522
   - INS-260326-7B2A
   - INS-260327-2430
-  - INS-260330-2306
   - INS-260327-BEEE
   - INS-260327-6061
   - INS-260329-CF70
@@ -54,6 +54,10 @@ related:
 stance: >-
   Only hire when you physically cannot meet demand, and hire people who do
   multiple people's worth of work.
+evidence:
+  - id: INS-260327-6061
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The author's framework: never hire because you raised money or have cash in the bank. Hire only when it's literally the only way to scale — when you're desperate and dying without this person. Then hire people who are obsessively committed and can do the work of multiple people.
 

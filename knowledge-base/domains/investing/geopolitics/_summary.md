@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 376 insights
+> 377 insights
 
 - `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
@@ -328,6 +328,7 @@
 - `INS-260330-4416` [medium] Louis XVI spending half of France's national budget on debt service was a leading indicator of regime collapse that no incremental reform could fix.
 - `INS-260330-8F72` [medium] Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260327-9CAD` [medium] Bunker Hill was technically a British victory but it taught the Americans they could fight regulars and taught the British nothing about how to actually win the war.
+- `INS-260330-0AD5` [medium] A stagnant developed country gains developing-country cost advantages while retaining first-world infrastructure and institutions, creating unique investment opportunity.
 - `INS-260323-5B36` [medium] El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260327-0048` [medium] Napoleon's Egyptian expedition was a military failure but the 160 scientists he brought produced the Description de l'Egypte, founding modern Egyptology and the Rosetta Stone discovery.
 - `INS-260327-3FC7` [medium] Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.

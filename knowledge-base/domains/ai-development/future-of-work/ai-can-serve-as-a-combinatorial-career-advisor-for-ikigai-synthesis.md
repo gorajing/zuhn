@@ -58,6 +58,22 @@ related:
   - PRI-260328-9EC9
   - INS-260329-5AC5
   - INS-260329-4C93
+evidence:
+  - id: INS-260325-636B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-7BB8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-C9AC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-3E21
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4C93
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The traditional Ikigai exercise asks vague questions like 'what do you love?' The speaker refines this with specific prompts: 'Where do you lose track of time?' 'What have you done for free and would keep doing?' 'What are you complimented on?' These concrete inputs feed an AI tool that uses combinatorial reasoning to find intersections across all four dimensions.
 

@@ -58,6 +58,22 @@ related:
 stance: >-
   The most elegant and efficient robot movement comes from designing machines
   whose physics naturally want to do the right thing, then augmenting wit...
+evidence:
+  - id: INS-260323-F7DB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7157
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-69C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-DDC2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FB9C
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Playter describes how early walking robots failed by fighting their own physics — constantly trying to prevent tipping. Dynamic stability means going with the fall, catching yourself with the next foot. When the physics of the machine inherently want to do the right motion, the result is more efficient, more stable, and more beautiful.
 

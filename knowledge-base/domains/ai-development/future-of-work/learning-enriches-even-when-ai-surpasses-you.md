@@ -48,6 +48,22 @@ resolutions:
     deskilling problem — maintaining active engagement with skills prevents
     cognitive atrophy even when AI handles the heavy lifting.
 stance: Learning skills AI can do better than you still enriches you intellectually
+evidence:
+  - id: INS-260325-1EAC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-FEDF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-51C2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-557C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-27DD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 Dario Amodei makes a philosophical argument that goes beyond pure

@@ -46,6 +46,10 @@ resolutions:
 stance: >-
   End-to-end lead generation pipelines from scraping to personalized outreach
   can be fully automated
+evidence:
+  - id: INS-260327-26BF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 An n8n workflow automates the full prospect pipeline: start with a search

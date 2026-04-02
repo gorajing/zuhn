@@ -50,5 +50,24 @@ related:
 stance: >-
   AI has artificial cleverness (trial and error at scale) but not artificial
   intelligence (building cumulatively from partial progress, adapting stra...
+evidence:
+  - id: INS-260327-DD48
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CC7D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-FBC0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-FCD3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1118
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-DBE6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Tao draws a sharp distinction: when he collaborates with a human, they adaptively modify strategies, systematically map what works and doesn't, and build cumulative understanding. AI tools jump and fail, jump and fail — brute force repetition. They can't reach a handhold, stay there, pull others up, then jump from the new position. They have no persistent understanding that grows through the work. Each session starts fresh. This cumulative, interactive building is what Tao calls 'intelligence' vs mere 'cleverness.'

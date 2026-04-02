@@ -57,5 +57,9 @@ related:
 stance: >-
   AI capabilities are 'jagged' -- superhuman at frontend/traditional ML but bad
   at distributed systems -- making the 'superhuman coder' milestone unr...
+evidence:
+  - id: INS-260327-7F64
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Nathan Lambert argues against the singularity-style AGI timeline from the AI27 report (originally 2027, revised to 2031 mean prediction). His key insight is that AI is 'jagged': already superhuman at frontend development, website building, and traditional ML, but quite bad at distributed ML training because there's so little training data for it. This jaggedness won't smooth out easily. Instead of a single moment of 'superhuman coding,' we'll see an expanding frontier where humans fill gaps the models can't handle, and the best AI researchers are those who enable this collaboration. Sebastian Raschka adds that senior developers ship more AI-generated code than juniors (contrary to intuition), suggesting expertise in reviewing AI output matters more than raw prompting. The deeper concern: if juniors never struggle through the learning process, they may never develop the expertise needed to effectively supervise AI systems.

@@ -51,5 +51,9 @@ related:
   - PRI-260323-00C6
   - INS-260327-68C1
 stance: 25% of business development company portfolios are in software companies
+evidence:
+  - id: INS-260323-59C9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Private credit has outsized exposure to software companies: business development companies hold ~25% of portfolios in software, and private credit CLOs hold ~20%. These are the exact companies most disrupted by AI. Software loans also carry the highest leverage and lowest coverage ratios across major sectors (historically justified by strong cash flows). Adding urgency: 31% of these debts come due in the next two years. Combined with floating-rate loans passing higher interest rates directly to borrowers, tariff uncertainty, and a sputtering labor market, this creates a convergence of risk. The structural parallel to 2008 — lax lending standards, questionable ratings, opacity — is concerning but the system is smaller and banks have less direct exposure.

@@ -65,6 +65,10 @@ related:
 stance: >-
   The MoltBook saga showed that human-prompted agents can create viral
   fearmongering content that even smart people believe is autonomous AI scheming
+evidence:
+  - id: INS-260325-A36F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The MoltBook incident — where agents posted on a Reddit-style network, with screenshots of 'scheming against humans' going viral — demonstrated a dangerous gap in public AI literacy. Steinberger received all-caps messages begging him to 'shut it down,' journalists calling about AGI, and genuine panic from intelligent people who believed the agents were autonomously plotting.
 

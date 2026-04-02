@@ -55,6 +55,13 @@ related:
   - INS-260327-7157
   - INS-260327-0875
   - INS-260323-DDC2
+evidence:
+  - id: INS-260327-7157
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-DDC2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Physical Intelligence makes a crucial distinction: when humans teleoperate robots, even simple grippers can perform complex tasks like cleaning houses, chopping vegetables, or cooking. Hardware may raise the ceiling on what's achievable, but the capability floor, what robots can actually do autonomously, remains constrained by intelligence. Even with today's most advanced dexterous hands, you're still bottlenecked by the robot's inability to reason about novel situations.
 

@@ -57,6 +57,25 @@ related:
 stance: >-
   Upload bank and credit card statements to an AI agent to identify SaaS
   subscriptions that can be replaced with custom AI-built modules
+evidence:
+  - id: INS-260327-DFF0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-FEAB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-C33D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B357
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-1435
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-8682
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 A powerful but underutilized AI agent capability is SaaS replacement auditing. By uploading 6 months of bank and credit card statements, an AI agent can identify all recurring SaaS subscriptions and evaluate which ones can be replaced by custom AI-built modules. In one demonstrated case, this identified over $1,000/month in replaceable subscriptions including a $500 GoHighLevel subscription and a $300 training platform.
 

@@ -43,5 +43,9 @@ related:
 stance: >-
   Custom apps are overproduction — everything should be exposed API endpoints
   with agents as the intelligent glue that tool-calls all the parts.
+evidence:
+  - id: INS-260323-DE2B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Karpathy replaced six separate smart home apps with a single agent (Dobby) that discovered APIs via network scanning, reverse-engineered endpoints, and unified everything under natural language control. The implication: the customer is no longer the human — it's agents acting on behalf of humans. The industry needs to reconfigure: make APIs available, let agents compose them. Bespoke UIs become unnecessary when agents handle orchestration.

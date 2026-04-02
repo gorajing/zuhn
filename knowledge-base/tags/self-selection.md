@@ -3,4 +3,3 @@
 - `INS-260329-5C65` Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content.
 - `INS-260329-8986` CS50's enrollment data proves that perceived prerequisites are the real gatekeepers, not actual skill requirements.
 - `INS-260329-E4BA` Pass/fail options remove the fear barrier that prevents capable people from attempting unfamiliar domains.
-- `INS-260329-0935` Skipping college self-selects for risk tolerance, which is the same trait that predicts entrepreneurial success.

@@ -53,6 +53,10 @@ related:
   - INS-260323-23B9
   - INS-260329-563F
   - INS-260322-34AE
+evidence:
+  - id: INS-260321-5DF8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Eric from Kilo Code explained that their competitive moat comes from three multiplied factors: speed of development, community engagement, and model freedom. Kilo Code is fully open-source/open-core and lets users log in with their Minimax, ZDOT AI, or other coding plans to access any model. They grew to 1.5 million users in under a year by encouraging community PRs and feature requests.
 

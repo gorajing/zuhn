@@ -52,13 +52,19 @@ stance: >-
   compression-as-learning mechanism produces genuine novel abstractions, not
   just pattern matching.
 related:
-  - INS-260325-E652
   - INS-260323-1477
   - INS-260330-5F36
   - INS-260330-189F
   - INS-260330-AE16
   - INS-260323-B309
   - INS-260323-813B
+evidence:
+  - id: INS-260323-1477
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-189F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Naval uses the circle analogy to illustrate a key mechanism in AI learning: show a model 5 circles and it memorizes them; show it 5 billion circles with limited parameters and it's better off discovering pi and what thickness means — forming algorithmic representations rather than storing instances. This compression pressure is what transforms training data into something novel.
 

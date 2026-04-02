@@ -48,6 +48,7 @@ resolutions:
 related:
   - INS-260325-E62D
   - INS-260325-05EC
+  - INS-260330-B5D2
   - INS-260329-19B3
   - INS-260329-71AB
   - PRI-260328-D893
@@ -55,7 +56,6 @@ related:
   - INS-260325-C6BB
   - INS-260326-E0CB
   - INS-260327-991D
-  - INS-260329-61E5
 stance: >-
   LLMs match statistical patterns from human-generated text (wide, shallow),
   while formal computational systems like Wolfram Alpha build deep chains ...

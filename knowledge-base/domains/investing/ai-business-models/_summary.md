@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 44 insights
+> 45 insights
 
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
 - `INS-260323-1477` [high] Companies like OpenAI are secretly integrating classical symbolic tools (code interpreters, Python) while telling investors they're just scaling neural networks.
@@ -45,4 +45,5 @@
 - `INS-260322-B641` [medium] In a reversal of the traditional software pattern where enterprise was stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B model access — because switching a family's habits is harder than switching an API call.
 - `INS-260330-6411` [medium] ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
 - `INS-260329-196A` [medium] Small business acquisitions offer cash-flow returns with negotiable terms that public markets cannot match.
+- `INS-260402-180C` [medium] Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
 - `INS-260330-F9CA` [medium] Facebook scrapped WhatsApp's $1/year fee because a user's behavioral data, contact graph, and cross-platform identity linkage is worth far more than $1 annually to an advertising network.

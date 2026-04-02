@@ -57,6 +57,10 @@ related:
   - PRI-260328-A1AA
   - PRI-260321-7307
   - PRI-260328-D401
+evidence:
+  - id: INS-260322-59B9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The economy faces a lose-lose dependency: AI capital expenditure ($400B+/year in data centers alone) provides construction jobs and stock market wealth effects that sustain consumer spending. If this spending stops (AI disappoints), those jobs and wealth effects vanish. If AI succeeds, it automates the remaining jobs.
 

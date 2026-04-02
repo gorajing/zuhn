@@ -53,5 +53,9 @@ related:
   - INS-260327-D5CC
   - INS-260327-E2BC
   - INS-260330-FF9A
+evidence:
+  - id: INS-260322-B6DE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Angela describes Nvidia internal culture as multiple startups: each division operates with startup-level urgency, must survive on its own merits with limited funding, and has full accountability for outcomes. Nothing is given or handed down — employees must be vocal, communicate directly, and fight for resources. This startup-within-a-company structure is how Nvidia maintained innovation speed even as it grew to a trillion-dollar company. The culture of direct communication (emails get immediate responses, no politics, just get things done) is a competitive advantage that attracted Angela 25 years ago and still defines the company. Jensen direct feedback style sets the tone from the top.

@@ -53,6 +53,10 @@ related:
 stance: >-
   Alfred Nobel made nitroglycerin safe to handle with dynamite, but that very
   safety made it accessible to terrorists
+evidence:
+  - id: INS-260323-FAF2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Nobel's life work was solving the safety problem of nitroglycerin. Raw nitroglycerin killed his brother Emil and hundreds of workers. By inventing dynamite (nitroglycerin absorbed in kieselguhr), he made it safe to transport and handle. But the twisted irony is that safety = accessibility. Once anyone could safely carry dynamite in a coat pocket, it enabled over 7,000 bombings in New York alone between the 1890s-1920s, and the birth of modern terrorism.
 

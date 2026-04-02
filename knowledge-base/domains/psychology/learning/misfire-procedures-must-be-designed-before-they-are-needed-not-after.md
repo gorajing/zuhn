@@ -52,5 +52,9 @@ related:
   - INS-260330-8BDA
   - INS-260329-5A24
   - INS-260329-C1E1
+evidence:
+  - id: INS-260320-6CCE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When the explosives experts insisted on misfire procedures for each possible scenario (one gun fires, the other doesn't), it seemed like theoretical thoroughness. But the very first shot of the zoomed-in camera phase produced a misfire — only the south gun fired. The pre-planned procedure allowed them to safely handle a live round pointed at their workspace. This validates the pre-mortem approach: planning for failure modes before they occur isn't paranoia, it's the only time you can think clearly about them. Under stress, improvisation degrades rapidly. The same principle applies to incident response runbooks in software, emergency procedures in medicine, and contingency planning in business. The cost of planning for a scenario that never happens is trivially small compared to the cost of facing that scenario unprepared.

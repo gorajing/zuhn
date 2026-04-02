@@ -24,8 +24,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Racism functions as an epistemic bias — taking real but small group-level
@@ -53,6 +54,14 @@ stance: >-
   The most useful definition of racism is not axiom-level hatred but a bias that
   makes people leap from small statistical differences to sweeping caricatures
   about entire ethnic groups.
+related:
+  - INS-260325-3B28
+  - PRI-260323-81E9
+  - INS-260327-9D51
+  - INS-260330-141E
+  - INS-260330-237E
+  - INS-260330-420B
+  - PRI-260325-45A2
 ---
 Alexander proposes a functional definition of racism that cuts through the usual definitional debates: racism is a bias that makes people update on racial topics far beyond what the data allow. If 0.1% of whites and 0.2% of blacks commit murder, racism is what takes that small difference and produces behavior like treating every black person as a potential murderer. The useful test is whether someone's conclusion is proportionate to their evidence — moving from '26% disagreed with a poll question' to 'an entire ethnic group of 30 million people is a hate group you should flee from' is exactly the kind of disproportionate leap this definition captures.
 

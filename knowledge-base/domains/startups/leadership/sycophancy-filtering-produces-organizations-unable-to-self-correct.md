@@ -57,6 +57,10 @@ related:
   - PRI-260328-E870
   - INS-260330-A69C
   - INS-260325-D19B
+evidence:
+  - id: INS-260325-D19B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Goldberg describes how Trump administration job interviews literally test for willingness to affirm falsehoods ('Who won the 2020 election?'). This creates a binary filter: candidates are either 'so lacking in integrity that they're willing to lie' or 'so deluded that they actually believe the correct answers.' Neither type can provide the honest feedback a leader needs.
 

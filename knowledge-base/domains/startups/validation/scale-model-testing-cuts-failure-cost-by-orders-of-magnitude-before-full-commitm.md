@@ -55,6 +55,10 @@ related:
   - INS-260325-73C0
   - INS-260329-D357
   - INS-260321-B7CB
+evidence:
+  - id: INS-260325-DAD7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Navy tests every ship design as a 1:46 scale model in their indoor ocean before committing to construction. As Miguel notes, 'that's why you cut your cost of doing a model test versus building the full thing and saying oh that didn't work.' This isn't just about saving money — the tumblehome hull design controversy shows that some failure modes (reduced restoring force in heavy seas) can only be discovered through physical testing, not theoretical analysis.
 

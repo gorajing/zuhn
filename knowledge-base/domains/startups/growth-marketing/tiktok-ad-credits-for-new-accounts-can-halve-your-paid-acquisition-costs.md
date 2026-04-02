@@ -51,6 +51,10 @@ related:
 stance: >-
   New TikTok Ads accounts get matched spending credits (spend $200, get $200
   free) plus recurring coupons, effectively halving your early ad costs.
+evidence:
+  - id: INS-260322-3010
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Arthur discovered that TikTok Ads offers generous credit matching for new accounts — spend $200 and receive $200 in ad credit. He received this twice ($210 + $150 in credits), meaning nearly half his total ad spend was covered by free credits. Apple Ads also offered $100 in promo credits for new accounts. Combined, he had $500 in total ad budget from only $200 out of pocket.
 

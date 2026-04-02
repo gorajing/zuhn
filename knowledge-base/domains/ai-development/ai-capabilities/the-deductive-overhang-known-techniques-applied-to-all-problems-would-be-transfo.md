@@ -52,5 +52,24 @@ related:
 stance: >-
   Most AI-solved math problems fell to known techniques that nobody had thought
   to apply
+evidence:
+  - id: INS-260330-F183
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4D18
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-B61B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-AEFA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-FB50
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5641
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Tao notes that the 50 Erdős problems solved by AI used existing techniques that nobody had written down as applicable to those specific problems. Top journal papers typically use existing methods for 80% of the solution, inventing something new only for the last 20%. AI is getting good at the 80% — systematically trying every known technique. The deductive overhang (what we'd learn by applying everything we know to everything we don't) could be transformative, but we don't have the data to quantify it yet. This is where AI breadth is most powerful.

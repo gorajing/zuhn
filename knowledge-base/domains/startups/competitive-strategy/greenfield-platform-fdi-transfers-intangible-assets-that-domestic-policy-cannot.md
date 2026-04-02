@@ -23,8 +23,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Foreign companies physically operating in a country create knowledge
@@ -57,6 +58,12 @@ stance: >-
   Foreign companies building operations in a country to produce exports transfer
   tacit knowledge, management techniques, and global market connections more
   effectively than any domestic training program or policy intervention.
+related:
+  - INS-260322-0CE3
+  - INS-260323-C90C
+  - INS-260330-D460
+  - INS-260330-EF74
+  - PRI-260322-9E36
 ---
 Bank of Japan researchers identified 'intangible assets' — brand reputation, patents, software, management know-how, tacit technical knowledge, customer relationships — as the primary driver of Japan's productivity gap, yet found that Japanese companies spend heavily on R&D without getting comparable value to US firms. The mystery is that these assets are too heterogeneous and hard to measure for policy to directly address. Greenfield FDI provides an elegant workaround: when TSMC builds a fab in Kumamoto, it teaches Japanese suppliers what leading chip companies need. When employees eventually leave TSMC to work at Japanese companies, they carry tacit knowledge with them — the little tricks that make models or processes work better, plus personal connections to global research networks.
 

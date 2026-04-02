@@ -55,6 +55,19 @@ related:
 stance: >-
   No business became an industry leader through cost-cutting alone — AI
   investments driven by competitive fear rather than strategic vision will fail.
+evidence:
+  - id: INS-260324-782C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260324-62A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E1EB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-CEA8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Acemoglu warns that most executives invest in AI blindly, driven by pressure from consultants and media telling them competitors are spending big. This fear-driven investment pattern produces waste, not innovation. He notes that historically, no business became the 'jewel of their industry' by just cutting costs.
 

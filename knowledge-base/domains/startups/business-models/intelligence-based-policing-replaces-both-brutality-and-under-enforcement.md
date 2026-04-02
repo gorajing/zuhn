@@ -56,6 +56,10 @@ related:
 stance: >-
   Technology-driven intelligence (cameras, drones, license plate readers, AI
   orchestration) creates a third path between harsh punishment and under-e...
+evidence:
+  - id: INS-260322-888D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ben Horowitz frames the crime problem as having only three real options: high crime (under-enforcement), harsh punishment (Singapore/El Salvador model), or intelligence-based deterrence. The third path uses technology — Flock cameras, drones, gunshot detection, AI orchestration — to make getting caught near-certain.
 

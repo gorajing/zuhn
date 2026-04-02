@@ -58,6 +58,19 @@ related:
 stance: >-
   Both tech optimism and tech pessimism are self-fulfilling prophecies —
   believing the future will be better increases the likelihood you build it.
+evidence:
+  - id: INS-260329-D1B8
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260323-A183
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-6F26
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-348D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Verdon introduces the concept of 'hyperstition' — ideas that, once believed, increase their own probability of becoming real. He argues that pessimism about technology is fundamentally destructive because it is hyperstitious: if you believe the future will be worse, you reduce investment, slow innovation, and make that worse future more likely.
 

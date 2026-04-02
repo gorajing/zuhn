@@ -54,5 +54,15 @@ related:
   - INS-260323-DA1E
   - INS-260329-C555
   - INS-260330-FEDD
+evidence:
+  - id: INS-260327-A3A2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-DA1E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-FEDD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Xiaoliang Qi, one of the world's most cited quantum physicists (84K+ citations), argues AI is not another technology wave but a fundamental expansion of human cognitive capacity. Just as language enabled abstract thought and civilization, AI enables every student to work like a professor and every researcher to access collective knowledge. He left his prestigious Stanford position to co-found TXYZ.ai because he believes we are at a once-in-civilization inflection point. His framework: previous tech revolutions (printing press, internet) expanded access to existing knowledge; AI expands the capacity to generate and connect knowledge itself.

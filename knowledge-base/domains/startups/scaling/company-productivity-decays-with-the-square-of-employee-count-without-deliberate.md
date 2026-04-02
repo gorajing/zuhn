@@ -52,5 +52,12 @@ related:
   - INS-260322-B6DE
   - INS-260322-AAEA
   - INS-260327-9830
+evidence:
+  - id: INS-260322-B6DE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-C935
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Altman argues productivity loss is quadratic, not linear, because every pair of employees adds communication overhead (n*(n-1)/2 connections). His diagnostic test: ask 10 random employees the company's top 3 goals. Despite founders being 100% confident everyone knows them, no two employees give the same answer. The antidote is aggressive, repetitive alignment: weekly management meetings, monthly all-hands reviewing results and roadmap, quarterly planning, and frequent offsites. Founders chronically under-communicate goals because they announced them once at an all-hands and assume everyone remembers. The key principle is that alignment is not a one-time event but a continuous forcing function that must be actively maintained.

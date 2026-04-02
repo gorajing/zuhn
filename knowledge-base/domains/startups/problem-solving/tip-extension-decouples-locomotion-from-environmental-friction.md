@@ -58,6 +58,10 @@ related:
   - INS-260323-F7DB
   - INS-260330-9A92
   - PRI-260328-7A4D
+evidence:
+  - id: INS-260330-5DCA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Mars InSight heat probe was designed to hammer itself deeper into Martian soil, relying on friction between the probe body and surrounding material to prevent it from bouncing back up. When the soil turned out to be more cohesive than expected, the probe just oscillated in place — wind up, pound down, bounce back, repeat forever. It never made progress because its locomotion was fundamentally coupled to environmental properties it couldn't control.
 

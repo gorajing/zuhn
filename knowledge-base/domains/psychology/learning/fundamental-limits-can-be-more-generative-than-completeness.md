@@ -52,5 +52,21 @@ related:
   - INS-260323-A52F
   - INS-260325-F306
   - INS-260327-95D3
+evidence:
+  - id: INS-260323-085A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-2A1B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-AE3F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-95D3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260321-9824
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hilbert's dream of a complete, consistent, decidable mathematics was shattered by Gödel and Turing. Yet the attempt to prove decidability forced Turing to formalize computation itself, creating the theoretical foundation for all modern computers. This pattern repeats across domains: encountering a hard boundary forces you to reframe the problem space entirely, often producing tools and insights far more valuable than the original goal. The lesson is that proving something impossible isn't a dead end — it's a redirection that can open entirely new fields. When you hit a fundamental limit, the productive move is not to keep pushing but to ask what new capabilities the limit implies.

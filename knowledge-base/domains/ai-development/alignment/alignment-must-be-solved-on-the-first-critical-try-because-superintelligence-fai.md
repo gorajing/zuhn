@@ -62,6 +62,13 @@ related:
   - INS-260327-7F64
   - INS-260326-73C0
   - INS-260329-E40B
+evidence:
+  - id: INS-260327-7F64
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-E40B
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Yudkowsky frames the alignment challenge as unprecedented in scientific history: it must be solved correctly on the first critical attempt. Normal scientific progress assumes unlimited time and retries — you run an experiment, observe what went wrong, adjust, and try again. With superintelligent AI, the failure mode is terminal. A system smart enough to be truly dangerous was 'meaningfully different from AI systems stupider than that,' meaning techniques that worked on weaker systems provide false confidence.
 

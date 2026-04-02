@@ -53,5 +53,9 @@ related:
 stance: >-
   The Department of War is replacing cost-plus contracts with 1000-requirement
   RFPs with simple firm-fixed-price requirements
+evidence:
+  - id: INS-260327-C15B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The traditional defense procurement model was broken: a thousand-requirement RFP where vendors checked 'yes' to everything (even physics-impossible claims), got cost-plus contracts, and then change-ordered for years and billions more. Emil Michael is pushing toward simple outcome-based requirements — 'I need a missile that goes this far with this payload' — and letting industry propose solutions on firm-fixed-price contracts. If vendors economize and achieve better margins, they keep the upside. This is explicitly modeled on why SpaceX succeeded. The shift also includes faster yeses and faster nos, which Michael considers critical for startup health — a quick rejection is more valuable than years of procurement limbo because it lets startups readjust strategy or move to the next partner.

@@ -49,6 +49,19 @@ resolutions:
 stance: >-
   Leading prompts produce dishonest feedback because Claude tells you what it
   thinks you want
+evidence:
+  - id: INS-260327-294E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-1C17
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-EBBC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-C13A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 When asking Claude for feedback or opinions on code, architecture, or

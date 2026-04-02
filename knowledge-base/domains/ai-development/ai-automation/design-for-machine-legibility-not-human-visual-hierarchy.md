@@ -54,6 +54,10 @@ related:
 stance: >-
   As agents become intermediaries between users and systems, optimization shifts
   from visual design to machine-readable structure and insight density.
+evidence:
+  - id: INS-260327-94FE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Stephanie Zhan identifies a fundamental shift: content and applications must now be optimized for agent consumption, not human attention. Agents don't need hooks or visual hierarchy — they read everything and extract relevance. The new optimization target is machine legibility.
 

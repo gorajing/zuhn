@@ -54,6 +54,13 @@ related:
   - INS-260327-422B
   - INS-260327-C4C8
   - INS-260328-8CCC
+evidence:
+  - id: INS-260321-B7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DECA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Redis Arc's Bama noted that the best open models lag behind closed models by roughly six months, and this distance has been remarkably steady — not closing or widening. The reason is a moving target: when open models master chat benchmarks, the frontier has moved to function calling; when they master function calling, it moves to coding agents and multi-turn agentic tasks.
 

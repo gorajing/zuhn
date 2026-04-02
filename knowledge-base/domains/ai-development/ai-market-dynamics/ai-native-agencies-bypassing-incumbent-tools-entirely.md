@@ -50,5 +50,21 @@ related:
 stance: >-
   AI native marketing agencies go end-to-end with AI, bypassing tools like Adobe
   entirely, dramatically improving margins and delivering ads within d...
+evidence:
+  - id: INS-260323-C90C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-9C16
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-CFB1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E615
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-DBEA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Starting June 2025, a new category of AI native marketing agencies exploded. These agencies go completely end-to-end with AI for content creation, intentionally bypassing incumbent tools like Adobe. While their capabilities were initially limited, they drastically improved their margin profiles and showed clients they could build ads within days. By December 2025, this new industry had completely exploded. Many brands want constant content flow on their socials and are eager to embrace AI — some customers with $100M+ marketing budgets now have 90% AI-generated ads.

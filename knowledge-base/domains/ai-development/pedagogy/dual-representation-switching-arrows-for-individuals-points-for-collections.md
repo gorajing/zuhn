@@ -51,7 +51,6 @@ stance: >-
   the same objects is a fundamental cognitive tool that improves reasoning about
   complex systems
 related:
-  - INS-260325-E652
   - INS-260329-E4F6
   - INS-260329-7677
   - INS-260329-71AB
@@ -61,6 +60,7 @@ related:
   - INS-260330-367B
   - INS-260329-70F2
   - INS-260329-FEF4
+  - INS-260402-5ACE
 ---
 3Blue1Brown introduces a subtle but powerful cognitive technique: think of a single vector as an arrow (direction + magnitude), but when considering a collection of vectors, collapse each to just the point at its tip. This isn't just a visualization trick — it's a principled abstraction switch that trades detail for tractability. You lose per-vector direction info but gain the ability to reason about the entire set as a geometric shape (line, plane, volume).
 

@@ -45,6 +45,10 @@ resolutions:
 stance: >-
   Be as specific as possible about desired results — vague prompts produce vague
   implementations.
+evidence:
+  - id: INS-260325-0FED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Specificity in prompts directly correlates with output quality. Instead

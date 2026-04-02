@@ -20,8 +20,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI can generate hypotheses far faster than labs can test them, making
@@ -45,6 +46,15 @@ resolutions:
 stance: >-
   The binding constraint on AI-driven scientific discovery is the speed of
   experimental verification, not the rate of hypothesis generation.
+related:
+  - INS-260325-FDA9
+  - INS-260323-0865
+  - INS-260320-3798
+  - INS-260327-40DA
+  - INS-260330-63DD
+  - PRI-260323-2FEE
+  - PRI-260328-1D0B
+  - PRI-260321-14D8
 ---
 In software, AI predictions can be verified near-instantly through compilers and unit tests, which is why AI has been so transformative there. But in experimental sciences like materials science, verifying a single AI-generated hypothesis about a new material system requires physical synthesis, characterization, and testing — processes that take days to months.
 

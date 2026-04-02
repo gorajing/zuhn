@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-03-31 | 2418 sources
+Generated on 2026-04-02 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -143,8 +143,8 @@ Generated on 2026-03-31 | 2418 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -198,8 +198,8 @@ Generated on 2026-03-31 | 2418 sources
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
@@ -233,9 +233,13 @@ Generated on 2026-03-31 | 2418 sources
 | Why BuzzFeed & VICE Went Extinct | youtube | 6 | 2026-03-24 |
 | Why fearlessness beats experience every time | Steve Stoute for Big Think+ | youtube | 6 | 2026-03-25 |
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
+| Code with claw | audio | 5 | 2026-03-31 |
+| SVAI   Panel | audio | 5 | 2026-03-31 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
+| 2022 Annual Letter | blog | 5 | 2026-03-30 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
+| A Student's Guide to Startups | blog | 5 | 2026-03-31 |
 | Being Popular | blog | 5 | 2026-03-31 |
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
@@ -245,14 +249,20 @@ Generated on 2026-03-31 | 2418 sources
 | How to Make Wealth | blog | 5 | 2026-03-31 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
+| OpenAI’s Product Lead on Winning AI Through Distribution | blog | 5 | 2026-03-30 |
 | The Brand Age | blog | 5 | 2026-03-31 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
+| The Hacker's Guide to Investors | blog | 5 | 2026-03-31 |
 | The Network Effects Manual: 16 Different Network Effects (and counting) | blog | 5 | 2026-03-31 |
+| The Origins of Wokeness | blog | 5 | 2026-03-31 |
 | The Other Road Ahead | blog | 5 | 2026-03-31 |
+| The Power of the Marginal | blog | 5 | 2026-03-31 |
+| The Refragmentation | blog | 5 | 2026-03-31 |
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | What I Worked On | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
+| Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
 | 100+ Computer Science Concepts Explained | youtube | 5 | 2026-03-30 |
@@ -1355,6 +1365,7 @@ Generated on 2026-03-31 | 2418 sources
 | You Are Taking Creatine Wrong (here's how to fix it) | youtube | 1 | 2026-03-26 |
 | You Will Never Wear AirPods Again | youtube | 1 | 2026-03-26 |
 | You'll Never Eat Sardines Again | youtube | 1 | 2026-03-26 |
+| SVAI   Keynote 2 | audio | 0 | 2026-03-31 |
 | @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 0 | 2026-03-30 |
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 0 | 2026-03-30 |
@@ -1390,7 +1401,6 @@ Generated on 2026-03-31 | 2418 sources
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
 | 2020 Year in Review | blog | 0 | 2026-03-31 |
-| 2022 Annual Letter | blog | 0 | 2026-03-30 |
 | 2023 Annual Letter | blog | 0 | 2026-03-30 |
 | 2024 Annual Letter | blog | 0 | 2026-03-30 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 0 | 2026-03-30 |
@@ -1482,7 +1492,6 @@ Generated on 2026-03-31 | 2418 sources
 | A Quick Guide To Asking Good Customer Questions | blog | 0 | 2026-03-31 |
 | A Scientific Approach to VC | blog | 0 | 2026-03-31 |
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
-| A Student's Guide to Startups | blog | 0 | 2026-03-31 |
 | A Three-Step Framework For Solving Problems 👌 | blog | 0 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 0 | 2026-03-31 |
 | A Version 1.0 | blog | 0 | 2026-03-31 |
@@ -1968,7 +1977,6 @@ Generated on 2026-03-31 | 2418 sources
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 0 | 2026-03-30 |
 | OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 0 | 2026-03-30 |
 | OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 0 | 2026-03-30 |
-| OpenAI’s Product Lead on Winning AI Through Distribution | blog | 0 | 2026-03-30 |
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 0 | 2026-03-30 |
 | Organic Startup Ideas | blog | 0 | 2026-03-31 |
 | Orthodox Privilege | blog | 0 | 2026-03-31 |
@@ -2144,7 +2152,6 @@ Generated on 2026-03-31 | 2418 sources
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 0 | 2026-03-30 |
 | The Go-To Pricing Guide for Early-Stage Founders + Toolkit | blog | 0 | 2026-03-30 |
 | The Growth Loop Playbook Used by Top Startups | blog | 0 | 2026-03-30 |
-| The Hacker's Guide to Investors | blog | 0 | 2026-03-31 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 0 | 2026-03-30 |
 | The Hardest Lessons for Startups to Learn | blog | 0 | 2026-03-31 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
@@ -2169,14 +2176,12 @@ Generated on 2026-03-31 | 2418 sources
 | The Next Era of Gaming and AI | blog | 0 | 2026-03-31 |
 | The Next Frontier for 2-Sided Marketplaces: How Fintech Will Unlock Enormous Value | blog | 0 | 2026-03-31 |
 | The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 0 | 2026-03-30 |
-| The Origins of Wokeness | blog | 0 | 2026-03-31 |
 | The Other Half of "Artists Ship" | blog | 0 | 2026-03-31 |
 | The Patent Pledge | blog | 0 | 2026-03-31 |
 | The Pentagon Threatens Anthropic | blog | 0 | 2026-03-30 |
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
 | The Pooled-Risk Company Management Company | blog | 0 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 0 | 2026-03-30 |
-| The Power of the Marginal | blog | 0 | 2026-03-31 |
 | The Pro-Rata Trap: How VCs Miss Out on Billion-Dollar Returns | blog | 0 | 2026-03-30 |
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |
@@ -2185,7 +2190,6 @@ Generated on 2026-03-31 | 2418 sources
 | The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 0 | 2026-03-30 |
 | The Real Reason to End the Death Penalty | blog | 0 | 2026-03-31 |
 | The Reddits | blog | 0 | 2026-03-31 |
-| The Refragmentation | blog | 0 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 0 | 2026-03-31 |
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 0 | 2026-03-30 |
 | The Rise of the AI Underground | blog | 0 | 2026-03-31 |
@@ -2337,7 +2341,6 @@ Generated on 2026-03-31 | 2418 sources
 | Why the VC Secondary Market Is Booming in 2025 | blog | 0 | 2026-03-30 |
 | Why There Aren't More Googles | blog | 0 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 0 | 2026-03-31 |
-| Why to Not Not Start a Startup | blog | 0 | 2026-03-31 |
 | Why to Start a Startup in a Bad Economy | blog | 0 | 2026-03-31 |
 | Why Too Much Funding Will Destroy Your Startup | blog | 0 | 2026-03-30 |
 | Why TV Lost | blog | 0 | 2026-03-31 |

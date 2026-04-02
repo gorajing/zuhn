@@ -55,6 +55,10 @@ related:
   - INS-260322-D8C3
   - INS-260321-C5AA
   - INS-260330-8F07
+evidence:
+  - id: INS-260327-1FA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Google DeepMind's Rabin shared his personal workflow: he uses multiple coding agents even within the Google stack, each specialized for different tasks — some for ideation, some for fixing unit tests, some for other purposes. He noted they each excel in different areas, and his workflow changes roughly every few months as models rapidly improve.
 

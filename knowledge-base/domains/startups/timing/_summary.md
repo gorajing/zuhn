@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 37 insights
+> 38 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -16,6 +16,7 @@
 - `INS-260323-60C1` [high] Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
 - `INS-260329-476D` [high] Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
 - `INS-260330-548B` [high] Prioritize market growth rate over current size when evaluating startup ideas, because a small fast-growing market offers better startup dynamics than a large stagnant one.
+- `INS-260402-9F35` [high] Mid-century equality was produced by war and oligopoly, making it a poor baseline for modern policy goals.
 - `INS-260328-58B1` [high] Name the 20 software companies you respect most — not one of them made it in a year.
 - `INS-260325-0F4F` [high] Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260325-B868` [high] Progress begets progress through feedback loops where inventions like computers and steam engines amplify the capacity to invent further.

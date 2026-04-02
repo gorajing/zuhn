@@ -58,6 +58,10 @@ related:
   - INS-260330-112E
   - INS-260330-81D3
   - INS-260329-7C59
+evidence:
+  - id: INS-260323-2C19
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bootcamps and tutorials teach syntax — loops, variables, functions — which feels like learning to code. But the salary premium in software engineering comes from computer science fundamentals: algorithm design, system architecture, debugging complex interactions, and decomposing ambiguous problems. Syntax is to programming what vocabulary is to writing novels — necessary but nowhere near sufficient.
 

@@ -61,6 +61,10 @@ related:
 stance: >-
   Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius
   was making it controllable, not more powerful.
+evidence:
+  - id: INS-260323-FAF2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Nitroglycerin existed for years before Nobel. It was 100x more powerful than gunpowder with blast pressure over 100x greater. The problem was never capability -- it was controllability. It would explode when bumped, dropped, or exposed to moisture, but wouldn't reliably detonate when you wanted it to.
 

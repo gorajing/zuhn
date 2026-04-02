@@ -55,6 +55,10 @@ related:
   - INS-260330-1243
   - INS-260330-4AC6
   - INS-260330-8CD4
+evidence:
+  - id: INS-260323-1452
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Germany and Japan both constructed elaborate ideological frameworks (racial superiority, co-prosperity) to justify what were fundamentally resource-acquisition campaigns. The ideology followed the strategy, not the other way around.
 

@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     G3P is photosynthesis's universal intermediate — one molecule convertible to
@@ -55,12 +55,29 @@ stance: >-
   that can be converted into multiple end products is more robust than
   optimizing for a single output
 related:
-  - INS-260325-0892
-  - PRI-260323-F92B
-  - INS-260329-7A7F
-  - PRI-260328-4313
-  - INS-260326-2582
-  - INS-260330-293E
+  - INS-260330-1298
+  - INS-260330-2BF4
+  - INS-260330-5DFF
+  - INS-260330-B076
+  - INS-260330-E8CF
+  - INS-260330-41F6
+  - INS-260330-2C71
+  - INS-260330-1084
+  - INS-260330-F2B6
+  - INS-260330-19C3
+evidence:
+  - id: INS-260325-0892
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-7A7F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260326-2582
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-293E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Calvin Cycle's ultimate product isn't glucose — it's G3P (Glyceraldehyde 3-Phosphate), a high-energy 3-carbon compound that plants can convert into glucose for short-term energy, cellulose for structure, or starch for long-term storage. The system doesn't optimize for one output; it optimizes for a flexible intermediate.
 

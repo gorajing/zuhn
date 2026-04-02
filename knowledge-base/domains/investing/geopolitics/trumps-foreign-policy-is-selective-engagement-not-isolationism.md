@@ -46,6 +46,7 @@ related:
   - PRI-260328-FADC
   - INS-260327-6058
   - INS-260330-6689
+  - INS-260330-9E26
 stance: Trump's NSS strategy is not isolationism but selective power projection
 ---
 Dr. Kim identifies three foreign policy camps within the Republican Party: Reagan-era world police, MAGA non-interventionism, and selective engagement (Elbridge Colby's approach). She places Trump squarely in the third camp.

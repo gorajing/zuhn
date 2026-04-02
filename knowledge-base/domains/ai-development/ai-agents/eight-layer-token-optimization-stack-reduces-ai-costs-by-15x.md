@@ -55,6 +55,13 @@ related:
   - INS-260327-DFF0
   - INS-260329-27A7
 stance: An eight-layer optimization stack
+evidence:
+  - id: INS-260327-DFF0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-27A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Token costs are the hidden tax on AI agent operations. An eight-layer optimization stack addresses this systematically. Layer 1: Kill thinking/extended reasoning mode — this is the single biggest hidden cost, generating thousands of reasoning tokens before each response for tasks that do not require deep reasoning. Layer 2: Cap context windows to prevent unbounded token accumulation. Layer 3: Model routing — use an expensive 'brain' model (like Opus) for orchestration and cheaper 'muscle' models (like smaller open-source models) for execution tasks.
 

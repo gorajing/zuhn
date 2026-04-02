@@ -61,6 +61,10 @@ related:
 stance: >-
   Shapiro's counter to the 'arc of history bends toward progress' narrative: the
   20th century produced communism, Nazism, and the Holocaust
+evidence:
+  - id: INS-260327-D24A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Destiny asserts that history moves in one direction — social progress is the default trajectory, and reverting to past norms (like shotgun marriages) is unrealistic. Shapiro pushes back hard: the entire 20th century was dominated by moral regression — Nazism, Stalinism, Maoism — all of which were regressions from the liberal democratic progress of the 19th century.
 

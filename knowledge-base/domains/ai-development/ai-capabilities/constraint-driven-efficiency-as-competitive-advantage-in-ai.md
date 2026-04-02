@@ -57,6 +57,13 @@ related:
   - INS-260322-474A
   - INS-260327-8358
   - INS-260321-7D76
+evidence:
+  - id: INS-260327-8358
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-7D76
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Musk draws a striking comparison: the human brain's thinking functions operate on roughly 10 watts, yet produce better novels than a 10-megawatt GPU cluster — a six-order-of-magnitude efficiency gap. Tesla's autonomous driving system, constrained to approximately 100 watts of onboard compute, was forced to develop extremely efficient approaches to world understanding.
 

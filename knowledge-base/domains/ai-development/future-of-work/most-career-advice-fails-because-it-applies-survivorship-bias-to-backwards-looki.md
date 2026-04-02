@@ -55,10 +55,17 @@ related:
   - PRI-260327-5635
   - INS-260327-5AF9
   - PRI-260328-604D
-  - INS-260329-444F
   - INS-260329-7B56
   - INS-260329-8BFC
   - INS-260330-D432
+  - INS-260330-2838
+evidence:
+  - id: INS-260323-85E7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-0117
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The speaker demonstrates this by showing his LinkedIn bio -- a polished narrative of progressive career success -- then revealing the messy reality: crying before his first day, periods of misery, collecting unemployment, and multiple career dead ends. The LinkedIn version isn't false, but it's rife with two biases that make it unteachable.
 

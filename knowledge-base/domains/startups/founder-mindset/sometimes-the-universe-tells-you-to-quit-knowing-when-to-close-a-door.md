@@ -54,6 +54,10 @@ related:
   - INS-260330-2492
   - INS-260329-7F70
 stance: The 'never give up' mantra can be destructive
+evidence:
+  - id: INS-260322-5B1B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Jeff Kaplan spent three years in solitary writing — eight hours a day, 170 rejection letters in one year, deepening depression and alcoholism. He describes the painful realization that our culture's emphasis on 'never give up' can become toxic. Sometimes a large group of people (in his case, literary magazine editors across the US) are telling you it's time to quit.
 

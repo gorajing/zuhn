@@ -54,12 +54,16 @@ related:
   - INS-260323-C4E2
   - INS-260323-DE2B
   - PRI-260323-1B96
+  - INS-260402-27A1
   - INS-260327-7226
-  - INS-260327-E2BC
   - INS-260323-979C
 stance: >-
   Confidence is necessary to start a business, but owners who think they can do
   it all and know it all fail at much higher rates than those who hire ...
+evidence:
+  - id: INS-260323-B07C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 VanDusen identifies founder hubris as a top-10 failure pattern: the confidence required to start a business becomes fatal when it prevents hiring expertise in marketing, consumer research, finance, sales, design, and customer service. 'Those who know what they don't know and hire or retain experts are much more likely to succeed.'
 

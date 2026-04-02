@@ -23,8 +23,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Asking 'what could go right?' instead of 'what went wrong?' shifts strategic
@@ -60,6 +61,13 @@ stance: >-
   The question 'what could go right?' produces fundamentally better development
   strategies than 'what went wrong?' because it shifts focus from blame and
   pessimism to actionable opportunity identification.
+related:
+  - INS-260325-788E
+  - INS-260325-0C4A
+  - INS-260327-9F46
+  - INS-260329-64B8
+  - INS-260325-5023
+  - PRI-260328-0AB1
 ---
 Books diagnosing Japan's decline (like Alex Kerr's 'Dogs and Demons') create two counterproductive outcomes: among believers, they generate despair and helplessness; among skeptics, they create siege mentality where any criticism is dismissed as 'anti-Japan.' Both reactions produce pessimism rather than action. The alternative framing — treating stagnation as an opportunity for catch-up growth rather than evidence of systemic failure — opens entirely different strategic possibilities. Instead of trying to fix what's broken in corporate culture or government bureaucracy, you ask what advantages the current situation creates: low costs attract foreign investment, wage stagnation makes skilled labor affordable, and falling behind the technological frontier means others have done the pioneering work.
 

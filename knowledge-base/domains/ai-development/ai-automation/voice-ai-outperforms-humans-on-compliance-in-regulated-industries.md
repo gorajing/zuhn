@@ -51,6 +51,16 @@ related:
 stance: >-
   In banking and financial services, voice AI actually outperforms humans
   because humans frequently violate compliance regulations while AI gets it r...
+evidence:
+  - id: INS-260327-B357
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-903B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-CE9A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Olivia Moore highlights a counterintuitive finding: regulated industries like banking, which you'd expect to resist voice AI due to compliance concerns, are actually prime adopters. The reason is that humans are surprisingly bad at following compliance rules consistently, while voice AI can maintain perfect compliance and provide trackable audit trails.
 

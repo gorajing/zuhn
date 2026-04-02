@@ -23,7 +23,7 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
+indexed: true
 embedded: false
 resolutions:
   one_line: >-
@@ -50,6 +50,13 @@ stance: >-
   Once sufficiently prominent, any slight political lean triggers a feedback
   loop where one side attacks and the other embraces, making true independence
   structurally impossible
+related:
+  - INS-260327-418E
+  - INS-260327-7D63
+  - INS-260323-5106
+  - INS-260327-CF72
+  - INS-260327-37E3
+  - INS-260327-8B9A
 ---
 Adams initially positioned himself as a neutral 'outside hypnosis expert' analyzing Trump's persuasion techniques. But prominence triggered the separating equilibrium: liberals piled on him as an enemy, MAGA embraced him as an ally, and the social pressure gradient pushed him inexorably rightward until he was recommending ivermectin for cancer. This isn't unique to Adams — the essay lists Jordan Peterson, Curtis Yarvin, Elon Musk, and others who underwent similar intellectual collapse after age ~55.
 

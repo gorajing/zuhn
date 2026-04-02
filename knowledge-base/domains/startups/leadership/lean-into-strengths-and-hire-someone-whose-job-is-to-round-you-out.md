@@ -57,6 +57,13 @@ related:
 stance: >-
   Instead of working on your weaknesses, ask whether being bad at something is
   the reason you're good at everything else
+evidence:
+  - id: INS-260320-47DC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-D19B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Nejatian openly says nobody thinks he's a great manager — not even the people who worked for him. But many would work for him again because he's a good leader. Throughout his career at Facebook, Shopify, and now Opendoor, he has always had a dedicated 'process person' — someone whose job is literally to round him out. At Facebook, this person kicked him under the table in his first meeting. At Opendoor, it's his COO Jung.
 

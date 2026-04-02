@@ -61,6 +61,13 @@ related:
 stance: >-
   Unlike normal engineering where you fail, learn, and try again, the first
   failure to align something much smarter than you could be a civilizationa...
+evidence:
+  - id: INS-260330-CC7D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-5DA6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Yudkowsky's core argument is that alignment cannot follow the normal engineering iteration cycle: 'we do not get 50 years to try and try again and observe that we were wrong and come up with a different theory... because the first time you fail at aligning something much smarter than you are, you die.' This is fundamentally different from other safety-critical engineering like bridges or aircraft, where catastrophic failures are local and the engineering community survives to learn from them.
 

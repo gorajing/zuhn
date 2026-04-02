@@ -70,6 +70,10 @@ related:
   - INS-260327-0595
   - INS-260327-BE1F
   - INS-260328-711E
+evidence:
+  - id: INS-260328-711E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kate's leadership approach at Anthropic reveals what the organization values in sales talent. She describes herself as 'very much in the details' and 'obsessed with dashboards,' looking at forecast, product metrics, and pipeline data daily. But her philosophy goes beyond analytics: she places deliberate bets and makes quick decisions on whether they're working.
 

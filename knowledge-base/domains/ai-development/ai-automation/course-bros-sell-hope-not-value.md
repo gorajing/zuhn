@@ -47,6 +47,19 @@ resolutions:
     rather than using the tool, the tool probably does not work as
     advertised.
 stance: Course sellers profit from selling hope rather than delivering genuine value
+evidence:
+  - id: INS-260320-630D
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260323-1494
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-6204
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-AA1F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 Every hype cycle (crypto, NFTs, AI) creates a vulnerable audience of

@@ -57,6 +57,13 @@ related:
   - INS-260327-4CCE
   - INS-260327-29F0
   - INS-260327-6C64
+evidence:
+  - id: INS-260321-3C8A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-E2DD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Stoute reframes conflict as a positive organizational signal: it arises when two high-performing people share the same goal but see different paths to achieve it. The key conditions are right intent (perfection, success, growth) and mutual respect (challenging ideas without disrespecting people).
 

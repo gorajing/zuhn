@@ -54,6 +54,10 @@ related:
   - INS-260323-9BAB
   - PRI-260328-7007
   - INS-260329-D1F2
+evidence:
+  - id: INS-260329-D1F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Unlike language models which benefited from massive internet text corpora, there is no internet-scale dataset of robot actions. Physical Intelligence frames deployment as the solution: robots performing valuable tasks in commercial settings generate training data as a byproduct. The cost of this data collection is effectively negative because the robots are already doing economically useful work.
 

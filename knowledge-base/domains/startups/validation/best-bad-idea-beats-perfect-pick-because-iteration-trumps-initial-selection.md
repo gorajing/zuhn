@@ -55,5 +55,9 @@ related:
   - INS-260323-4457
   - INS-260323-5986
   - INS-260330-C215
+evidence:
+  - id: INS-260322-76B5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Implicit in Hormozi's framework is the principle that the cost of inaction far exceeds the cost of picking a suboptimal idea. Broke entrepreneurs especially cannot afford the luxury of extended deliberation because their runway is measured in weeks, not years. The framework deliberately constrains choice to categories where you have existing advantages (pain, profession, passion), then pushes toward immediate execution through the outreach formula. This embodies a deeper truth about entrepreneurship: business models evolve so dramatically through customer contact that your starting point matters far less than your iteration speed. The entrepreneur who picks idea B and talks to 100 people this week will outperform the one who spends three months analyzing whether idea A or idea C has better unit economics. Real market data from actual customer interactions always dominates theoretical analysis.

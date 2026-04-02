@@ -56,5 +56,18 @@ related:
   - INS-260329-A171
   - INS-260329-01F2
   - INS-260329-A86F
+evidence:
+  - id: INS-260329-8D70
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-CBF6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4986
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-A86F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 AlphaProof introduces a fundamental insight about compute scaling: there are two orthogonal axes. Tree search (hours of TPU compute) explores more proof paths — analogous to breadth. TTRL (days of TPU compute) generates variants of the target problem, trains the model on them, then attempts the original — analogous to building depth through practice. TTRL boosted solve rates by 15 percentage points beyond tree search alone on both formal-imo and PutnamBench-test. This mirrors how human mathematicians learn: you do not just think harder about a problem (search), you study related problems to build intuition (adaptation). The distinction between thinking longer and learning more is emerging as a core axis of AI capability scaling.

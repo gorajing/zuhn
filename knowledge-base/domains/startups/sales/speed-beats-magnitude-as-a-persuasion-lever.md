@@ -59,6 +59,10 @@ related:
   - INS-260323-B4D2
   - INS-260330-D483
   - INS-260330-C06E
+evidence:
+  - id: INS-260322-191F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi claims 'latency beats magnitude 7 days a week and twice on Sunday' — meaning how fast you deliver results matters more than how big those results are. This is especially true for higher-value customers whose time has increasing marginal value relative to money. The tactical application: take your current delivery timeline and cut it by half or two-thirds for your premium tier. Promise priority access, first-in-line service, and immediate emergency response.
 

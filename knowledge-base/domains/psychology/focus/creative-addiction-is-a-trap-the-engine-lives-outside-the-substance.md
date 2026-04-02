@@ -55,6 +55,10 @@ related:
 stance: >-
   The most dangerous aspect of addiction for creative people is the false belief
   that substances are the source of creativity
+evidence:
+  - id: INS-260323-C10D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Callaghan describes how his early life with HPPD (hallucinogen-induced visual disorder) led to alcohol self-medication, which he then convinced himself was essential to his creative process — just as Hunter S. Thompson did. The addictive brain constructs a narrative that substance use has a 'symbiotic inspirational thing going on' with creativity.
 

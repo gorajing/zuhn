@@ -53,6 +53,10 @@ related:
   - INS-260330-2304
   - PRI-260327-0D6E
   - INS-260325-4C6D
+evidence:
+  - id: INS-260330-2304
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 All previous information networks were organic, running on human brains that require sleep, rest, and cycles. Even Wall Street closes on weekends. Even the Soviet KGB could not watch everyone all the time. These organic constraints inadvertently protected privacy and rest.
 

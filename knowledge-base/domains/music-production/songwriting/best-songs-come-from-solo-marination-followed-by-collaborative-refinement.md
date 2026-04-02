@@ -50,5 +50,9 @@ related:
 stance: >-
   Puth's best work follows a two-phase pattern: solo marination where the song
   develops in his head, then collaboration where others refine and const...
+evidence:
+  - id: INS-260325-11E9
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Charlie Puth identifies his optimal creative workflow: Phase 1 is writing alone, letting the song marinate in his head — something impossible with collaborators present because the pressure to perform takes over. Phase 2 is bringing in collaborators (like Cash, Joe, or Blood Pop) to 'check' him — preventing the music from getting 'too jazzed' for pop. The problem with his current fame: when he enters writing sessions, the focus shifts to him rather than the artist he's writing for. Everyone looks to him for answers, which kills the dynamic. His solution: become more selective about sessions and prioritize artists who maintain their own creative gravity rather than deferring to his reputation.

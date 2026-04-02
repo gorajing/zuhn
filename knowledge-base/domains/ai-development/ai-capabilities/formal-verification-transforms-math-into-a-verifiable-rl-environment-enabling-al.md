@@ -55,5 +55,15 @@ related:
   - INS-260323-3F30
   - INS-260329-4A69
   - INS-260330-BEAD
+evidence:
+  - id: INS-260330-9033
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4A69
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-BEAD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 AlphaProof's deepest insight is architectural: by using the Lean theorem prover as an RL environment, mathematical reasoning becomes a sequential decision-making problem with guaranteed correctness checking. Every proof step is verified by Lean's kernel, providing the same kind of ground truth that board game rules provide for AlphaZero. This enabled training on 80M auto-formalized problems across about 80,000 TPU-days. The agent discovers proof strategies that go far beyond imitating human-written proofs. The limitation is equally clear: this approach requires a formal verification environment. Domains without machine-verifiable correctness (strategy, creative writing, social reasoning) cannot be trained this way.

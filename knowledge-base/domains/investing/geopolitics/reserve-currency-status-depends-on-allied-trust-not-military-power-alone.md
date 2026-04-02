@@ -26,7 +26,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Allied trust in US commitments is the foundation of dollar reserve status,
@@ -54,16 +54,11 @@ stance: >-
   nations' willingness to participate in the US-led financial order, which
   erodes when the US demonstrates purely transactional behavior toward allies.
 related:
-  - INS-260327-1064
-  - INS-260327-200C
-  - INS-260328-4ED2
-  - INS-260330-D8D1
-  - INS-260330-BEE7
-  - INS-260330-1459
-  - INS-260330-E170
-  - INS-260330-687B
-  - INS-260330-75E2
-  - INS-260330-AB95
+  - INS-260322-96F1
+  - INS-260327-9BE8
+  - INS-260329-9EFA
+  - INS-260329-DFDD
+  - PRI-260324-2A76
 ---
 Goldberg makes the counterintuitive argument that the biggest threat to dollar reserve status isn't China's financial ambitions but rather the US alienating its own allies. He points out that 'China doesn't want the dollar to be the reserve currency' but 'Europeans and the Japanese go along with it because they're our allies and they're part of the international order we created.'
 

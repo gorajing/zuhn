@@ -51,5 +51,9 @@ related:
   - INS-260327-31A7
   - INS-260329-5F19
   - INS-260329-71DE
+evidence:
+  - id: INS-260321-D01E
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Alex observes that AWS pushes Anthropic, Google pushes Gemini, and Azure pushes OpenAI — each hyperscaler locks you into their AI stack. GMI Cloud offers all models from all providers plus open source, with zero-day support for new model releases. The competitive insight: no enterprise CTO has ever said their cloud bill is cheap, because hyperscalers build inflation into pricing knowing your data is trapped. GPU-native cloud providers can build from scratch without this legacy lock-in, offering genuinely differentiated multi-model access. This anti-lock-in positioning resonates strongly with enterprises burned by cloud vendor dependency.

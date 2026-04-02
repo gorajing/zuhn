@@ -59,6 +59,31 @@ related:
   - INS-260329-3FA6
   - INS-260329-EC78
   - INS-260330-60A5
+evidence:
+  - id: INS-260322-EE1B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-475F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260320-A1D3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-956E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-19B3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-3FA6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-EC78
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-60A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Michael Kagan explains that at 100,000+ GPU clusters, the probability of everything working perfectly is zero -- something is always broken. The critical differentiator is network latency distribution: a narrow, consistent latency allows splitting jobs across thousands of GPUs, while high jitter forces you to limit parallelism to perhaps 10 GPUs. This is why Mellanox's acquisition was transformative for Nvidia -- it enabled scaling from single-node to datacenter-scale computing as a single unit.
 

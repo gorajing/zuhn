@@ -48,9 +48,9 @@ stance: >-
 related:
   - PRI-260328-094A
   - INS-260330-C367
+  - INS-260330-593E
   - INS-260329-1D3B
   - INS-260325-8729
-  - PRI-260327-A7C5
   - INS-260330-2025
 ---
 Thompson wasn't a storage expert when he joined DataCore as employee #20 to help them expand in Asia Pacific. He had to represent the company as a storage expert while honestly not being one. Through many uncomfortable moments of being slightly out of his element, he gradually became the expert.

@@ -54,6 +54,13 @@ related:
   - INS-260329-F007
   - INS-260330-FC4D
 stance: A Bali-based cybersecurity consultant now works 30 minutes per day
+evidence:
+  - id: INS-260329-C56D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F007
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Matthew, running a cybersecurity firm from Bali, demonstrates the most radical AI agent productivity shift documented. His agents access client systems overnight, run security tests, discover vulnerabilities, and write complete reports with solutions. Previously one person could do one test every two weeks manually. Now multiple tests run daily.
 

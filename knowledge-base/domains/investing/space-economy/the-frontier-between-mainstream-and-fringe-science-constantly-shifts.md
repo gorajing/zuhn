@@ -54,6 +54,10 @@ related:
   - INS-260325-5635
   - INS-260330-DFA4
   - PRI-260328-9FB6
+evidence:
+  - id: INS-260323-4D14
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When Sara Seager began studying exoplanets in the mid-1990s, the field was considered fringe -- 'no one thought the field would go anywhere.' Now thousands of exoplanets have been confirmed and the field is thoroughly mainstream. The pattern repeats across science: ideas dismissed as crazy become accepted fields once evidence accumulates past a tipping point.
 

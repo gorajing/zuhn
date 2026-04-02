@@ -61,6 +61,10 @@ related:
   - INS-260327-B37E
   - INS-260327-6EFB
   - INS-260330-AFF8
+evidence:
+  - id: INS-260323-636C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Spanish deliberately exploited tribal differences among Pueblo peoples to prevent unified resistance. For decades this worked. But when Franciscan friars escalated religious suppression — destroying the cultural identity that defined each tribe — Popé united 2,000 warriors across tribal lines to drive out the Spanish in 1680. The population had collapsed from 60,000 to 17,000, creating the desperation needed for collective action.
 

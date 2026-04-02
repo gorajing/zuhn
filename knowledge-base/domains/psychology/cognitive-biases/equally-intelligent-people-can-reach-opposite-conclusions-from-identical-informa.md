@@ -49,10 +49,10 @@ related:
   - INS-260330-5BC4
   - INS-260330-CC51
   - INS-260323-D934
-  - INS-260327-924F
   - INS-260329-6004
   - INS-260330-2B33
   - INS-260330-7675
+  - INS-260330-0E49
 stance: >-
   Newcomb's Paradox shows smart people split 50/50 because they weigh evidence
   vs causation differently, not because one side is wrong.

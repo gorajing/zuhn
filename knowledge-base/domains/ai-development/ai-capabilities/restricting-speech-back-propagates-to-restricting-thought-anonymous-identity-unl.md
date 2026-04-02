@@ -58,6 +58,19 @@ related:
 stance: >-
   Social pressure on speech creates invisible constraints on thinking itself —
   anonymous communication can unlock broader parameter spaces of thought.
+evidence:
+  - id: INS-260323-D060
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E77D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C6A2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-22F0
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Verdon discovered that creating an anonymous account (Beff Jezos) felt like 'unclamping variables in his brain' — he could suddenly explore a much wider parameter space of thought. He didn't realize how much he was restricting his thinking until he had the opportunity to let go. Restrictions on speech back-propagate to restrictions on thought.
 

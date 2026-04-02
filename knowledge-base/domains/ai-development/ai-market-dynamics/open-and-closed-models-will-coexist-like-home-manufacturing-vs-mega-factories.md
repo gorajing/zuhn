@@ -50,6 +50,16 @@ related:
   - PRI-260324-36BF
   - INS-260323-62F3
   - INS-260329-E44D
+evidence:
+  - id: INS-260327-30E4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-38E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-E44D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Alibaba Cloud's Jeff offered a vivid economic analogy for the open vs closed model debate: closed models are like mega manufacturing plants where many customers share GPU capacity, achieving economies of scale. Open models are like home manufacturing — highly customizable to your specific needs, but you bear the full infrastructure cost alone.
 

@@ -53,7 +53,6 @@ stance: >-
   deliberate interactions, and preserving uninterrupted maker time.
 related:
   - INS-260321-E9B7
-  - INS-260325-11E9
   - INS-260323-87F3
   - INS-260322-BF4C
   - INS-260323-1FC1
@@ -62,8 +61,18 @@ related:
   - INS-260327-421F
   - INS-260327-7F56
   - INS-260327-112B
+  - INS-260330-E99F
 evidence:
   - id: INS-260327-7F56
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1563
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-E9B7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-11E9
     type: CONTRADICTS
     classified_at: '2026-04-02'
 ---

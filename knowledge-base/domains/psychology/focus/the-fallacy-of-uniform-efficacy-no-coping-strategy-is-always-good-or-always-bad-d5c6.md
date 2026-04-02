@@ -58,6 +58,10 @@ related:
   - INS-260327-439A
   - INS-260330-A812
   - INS-260330-2B5F
+evidence:
+  - id: INS-260330-A812
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bonanno coined the term 'fallacy of uniform efficacy' to describe the widespread belief that certain coping strategies are always good (mindfulness, social support, expression) while others are always bad (suppression, avoidance, impulsive behavior). His research shows this does not hold up.
 

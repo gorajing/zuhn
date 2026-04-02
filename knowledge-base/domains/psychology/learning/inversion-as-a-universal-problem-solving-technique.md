@@ -60,6 +60,13 @@ related:
   - INS-260329-87BA
   - PRI-260328-4144
   - INS-260327-9F46
+evidence:
+  - id: INS-260320-DDFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-E2FC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The inversion technique (attributed to Einstein, popularized by Charlie Munger) exploits a cognitive asymmetry: humans are evolutionarily programmed to detect threats and problems far more readily than to generate solutions. By asking 'What would guarantee I lose?' you engage this stronger neural pathway, producing a more comprehensive and honest list than asking 'What should I do to win?'
 

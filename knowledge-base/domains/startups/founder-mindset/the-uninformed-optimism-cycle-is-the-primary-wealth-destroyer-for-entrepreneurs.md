@@ -56,6 +56,10 @@ related:
   - PRI-260328-BF67
   - PRI-260324-2C9F
   - INS-260330-27A4
+evidence:
+  - id: INS-260323-4D4E
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Hormozi describes five stages: uninformed optimism (hearing highlights from others), informed pessimism (discovering the hidden difficulty), crisis of meaning (questioning whether it's worth it), informed optimism (finding what works), and achievement. Most entrepreneurs bail at the crisis of meaning and jump to uninformed optimism about something new.
 

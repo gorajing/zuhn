@@ -59,6 +59,10 @@ related:
   - INS-260329-0B76
   - INS-260330-207D
   - INS-260329-89E9
+evidence:
+  - id: INS-260323-BCCC
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi frames sadness and anxiety as mirror images of the same underlying problem: your relationship to options. Sadness feels like hopelessness because you perceive no paths forward — the cure is knowledge, which reveals options you didn't know existed. Anxiety feels like paralysis because you see too many paths and can't choose — the cure is making a decision, which collapses the option space.
 

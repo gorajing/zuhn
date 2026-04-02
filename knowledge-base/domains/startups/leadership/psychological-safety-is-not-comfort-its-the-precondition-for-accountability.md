@@ -53,6 +53,10 @@ related:
   - INS-260327-DCAF
   - INS-260325-DFC7
   - INS-260327-3A15
+evidence:
+  - id: INS-260327-DCAF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Edmondson's 2x2 maps psychological safety against accountability for excellence. Low safety + low standards = apathy zone. High safety + low standards = comfort zone (leaving money on the table). Low safety + high standards = anxiety zone (where the nurse, pilot, and executive all silenced themselves). Only high safety + high standards = the learning zone, which is also the high-performance zone.
 

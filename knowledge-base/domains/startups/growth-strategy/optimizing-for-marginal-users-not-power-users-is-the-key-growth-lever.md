@@ -55,5 +55,9 @@ related:
   - INS-260329-776B
   - INS-260329-8602
   - INS-260330-D824
+evidence:
+  - id: INS-260321-6437
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Schultz identifies a systematic cognitive bias in growth work: teams optimize for themselves — power users who find notifications annoying and features overwhelming. But power users are not the ones leaving. Facebook's growth accounting framework (new users + resurrected users - churned users) showed that resurrected and churned user numbers dominate new user acquisition after the first couple of years. The churning users consistently had low friend counts and had never experienced the product's magic moment. This led to counter-intuitive decisions: Facebook turned ON first-like email notifications for low-engaged users even while power users wanted fewer notifications. The result was increased click-through rates across email, SMS, and push — because what feels like spam to a power user is a magic moment trigger for someone who has not yet connected to the product's core value.

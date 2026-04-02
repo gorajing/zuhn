@@ -49,12 +49,16 @@ stance: >-
 related:
   - INS-260320-B99F
   - INS-260327-31BD
-  - INS-260327-4C94
   - INS-260323-F2C3
   - INS-260329-F21F
   - INS-260329-DDBC
   - INS-260330-112E
   - INS-260327-B410
+  - INS-260402-9093
+evidence:
+  - id: INS-260320-B99F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Loh argues that anyone who wanted a stable life should prepare for disruption—AI is coming for stability itself. The AI solved 4 of 6 International Math Olympiad problems, which are specifically designed to be problems nobody has seen before. If AI can be creative in mathematics, no structured domain is safe.
 

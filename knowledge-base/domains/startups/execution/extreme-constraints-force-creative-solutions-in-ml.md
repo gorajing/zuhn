@@ -46,6 +46,10 @@ related:
   - INS-260327-E63E
   - INS-260330-CBEF
   - INS-260326-97C9
-  - INS-260323-197A
+  - INS-260330-44EF
+evidence:
+  - id: INS-260323-197A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 AlphaChip faced seemingly impossible constraints: the training dataset had only 20 chip layout examples, the state space was approximately 10^9000 possible solutions, and the vast majority of those solutions were invalid. A mistake could cost M. Rather than abandoning the approach, the team designed creative solutions around the constraints — using the right reward structure for reinforcement learning and leveraging what limited data existed. This demonstrates that constraint-driven innovation often produces better architectures than having abundant data, because the team is forced to be fundamentally creative about the approach.

@@ -60,6 +60,10 @@ related:
   - INS-260325-78E9
   - INS-260327-538D
   - INS-260327-E82A
+evidence:
+  - id: INS-260323-05B5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Sam Kean describes how traditional archaeology excels at determining what the past looked like but misses every other sensory dimension -- what it sounded, tasted, and smelled like. Experimental archaeologists who actually build ancient tools, cook ancient recipes, and construct ancient structures discover insights invisible to armchair analysis. A hairdresser with no archaeology training rewrote the academic understanding of Roman hairstyling because she had the tacit knowledge professionals lacked.
 

@@ -48,6 +48,10 @@ resolutions:
 stance: >-
   Even doing 5% of a task with AI handling 95% produces 20x productivity through
   comparative advantage
+evidence:
+  - id: INS-260329-3739
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 Dario Amodei argues that comparative advantage is "surprisingly powerful"

@@ -56,5 +56,12 @@ related:
 stance: >-
   China is stealing American AI models, removing all guardrails, and potentially
   deploying them against the US
+evidence:
+  - id: INS-260330-A2D4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-ACB3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Emil Michael raises a critical asymmetry in the AI-for-defense debate: while the US agonizes over AI usage restrictions and model constitutions, adversaries like China are stealing American AI models, stripping all guardrails, and deploying them without constraint. This creates a perverse dynamic where the US military could be fighting against its own model technology but with more restrictions than the adversary using it. China's approach to AI in military is fundamentally different — they want to use computers to eliminate human decision-making, while the US wants to enhance it. Combined with China's massive military buildup since the mid-2000s and the outsourcing of critical supply chains (minerals, batteries), this represents a strategic vulnerability that transcends the technical debate about AI safety.

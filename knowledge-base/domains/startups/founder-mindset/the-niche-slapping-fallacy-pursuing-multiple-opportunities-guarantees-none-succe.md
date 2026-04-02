@@ -52,7 +52,7 @@ related:
   - INS-260329-AAE3
   - INS-260329-3FF3
   - INS-260329-EC01
-  - INS-260323-FDB8
+  - INS-260402-2A1D
   - INS-260330-51D1
 ---
 Hormozi confesses to running 9-10 businesses simultaneously (six gyms, a turnaround business, a chiropractor agency, a dental agency) while making no money. His wife's ultimatum forced him to pick one. He identifies this as a character trait deficiency (focus), not a skill or belief problem. His prescription is blunt: if you have multiple businesses and you're under seven figures a year, stop. One product, one avatar, one channel. The thought experiment that clarifies: imagine one of your businesses disappeared entirely—how easy would it be to make the remaining one win? The competitors beating you simply have one thing. This extends to his broader framework: under $1M the objective is simply to 'consistently sell something to people who actually want it,' and you cannot do that while split across ventures.

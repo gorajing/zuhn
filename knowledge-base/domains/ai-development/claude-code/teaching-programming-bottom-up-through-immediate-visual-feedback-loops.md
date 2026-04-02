@@ -50,6 +50,22 @@ related:
   - INS-260329-32DB
   - INS-260329-25FC
   - INS-260329-153F
+evidence:
+  - id: INS-260329-979B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-74E5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-32DB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-25FC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-153F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This 4-hour tutorial demonstrates a pedagogical pattern: every new concept (variables, loops, functions, classes) is introduced through a concrete, visual program first — drawing shapes with print statements, building a calculator, creating a guessing game. Only after the student sees the output does the tutorial explain the underlying abstraction.
 

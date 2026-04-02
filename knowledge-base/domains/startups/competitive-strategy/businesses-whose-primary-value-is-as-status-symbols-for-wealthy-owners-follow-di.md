@@ -48,6 +48,7 @@ related:
   - INS-260327-07C9
   - INS-260329-ACFF
   - INS-260330-8849
+  - INS-260402-9288
 ---
 When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tolerate operating losses creates valuation dynamics disconnected from fundamentals.
 

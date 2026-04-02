@@ -54,5 +54,12 @@ related:
   - INS-260329-FE15
   - INS-260329-9513
   - INS-260329-EC98
+evidence:
+  - id: INS-260322-E4D8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4F3D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi argues that broke entrepreneurs should not start with market analysis or trend research. Instead, they should look inward at three categories: Pain (problems you've personally solved), Profession (skills you already get paid for), and Passion (things you do obsessively without compensation). Each lens provides a different advantage — pain gives empathy with customers, profession gives competence, and passion gives endurance. The key insight is that lived experience creates an unfair advantage over competitors who entered a market purely through analysis. This framework eliminates the common trap of picking a 'hot market' you have no connection to, which leads to burnout and poor product-market intuition.

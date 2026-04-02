@@ -55,6 +55,10 @@ related:
 stance: >-
   AI roll-up strategies succeed when you buy one company with blue-chip clients
   as your entry point for national AI deployment, not when you serially...
+evidence:
+  - id: INS-260323-C316
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The naive AI roll-up thesis — buy 200 accounting firms and inject AI — fails because each local acquisition only gives local clients and requires 9 months of integration before buying the next. This is traditional PE territory where mid-market firms have done it 500 times.
 

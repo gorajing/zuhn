@@ -56,6 +56,13 @@ related:
 stance: >-
   Owning the full workflow from intake to outcome generates proprietary data
   that public models can't replicate
+evidence:
+  - id: INS-260323-01F9
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-0CE3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The deepest source of defensibility in AI applications comes from owning the end-to-end workflow and capturing outcome data that isn't publicly available. Eve's strategy in plaintiff law exemplifies this: by processing cases from intake through resolution, they accumulate outcome data (case characteristics mapped to settlement values) that no foundation model can train on because it simply doesn't exist on the public internet.
 

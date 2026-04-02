@@ -60,6 +60,7 @@ related:
   - PRI-260328-E921
   - INS-260329-4A69
   - INS-260329-A6DB
+  - INS-260330-6A3A
 ---
 Hormozi defines selling as 'a transference of belief over a bridge of trust' — requiring both genuine conviction and earned trust. Hot streaks in sales rarely come from suddenly remembering better scripts; they come from renewed belief in the product. Cold streaks happen when a refund request, bad review, or difficult customer erodes that belief.
 

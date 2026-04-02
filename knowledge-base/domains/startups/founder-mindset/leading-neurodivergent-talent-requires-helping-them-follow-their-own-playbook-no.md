@@ -58,12 +58,16 @@ related:
   - INS-260320-080B
   - INS-260321-C14C
   - INS-260327-E63E
-  - INS-260326-D8B9
   - INS-260327-42F0
   - INS-260327-B5C9
+  - INS-260327-6FFC
 stance: >-
   At Palantir, each critical product was built by the one person in the world
   who could have done it
+evidence:
+  - id: INS-260320-DDD9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Karp describes his leadership philosophy as fundamentally artistic: each Palantir product, including the military systems deployed across the Middle East, was built by 'the one person in the world that could have done it.' These are people with outlier capabilities that function similarly to neurodivergence — they decompose problems in ways that normally-smart people simply cannot.
 

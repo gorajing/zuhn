@@ -50,5 +50,9 @@ related:
 stance: >-
   LA's top nightcrawlers make 6-8 figures filming breaking news at night that
   local TV stations can't cover
+evidence:
+  - id: INS-260323-F62A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Local news stations can't afford nighttime crews but newsworthy incidents happen around the clock. Nightcrawlers fill this gap: they monitor police, fire, medical, and highway patrol radios, race to scenes, film footage, and sell to stations. The best make six to eight figures annually. The business model is feast-or-famine with zero visibility — no public credit, no recognition beyond a watermark. Success requires patience (waiting under highway bridges), skill (identifying newsworthy calls from scanner codes), and speed. It's a pure information arbitrage play: they know where the news is before anyone else.

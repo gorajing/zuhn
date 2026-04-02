@@ -62,6 +62,10 @@ related:
   - INS-260330-E349
   - INS-260329-D8F2
   - INS-260325-09AF
+evidence:
+  - id: INS-260323-FAF2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The HUET training never starts in the helicopter. Day one is classroom physics (Boyle's law, lung expansion). Then a simple tipping chair to practice the rodeo grip. Then adding a hatch. Then adding a regulator. Then the full simulator. A Marine noted: 'I'm kinda glad they're actually taking steps to show us how to do all these little things before we actually go to the helicopter.'
 

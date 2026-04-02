@@ -54,5 +54,15 @@ related:
   - INS-260325-FD0F
   - INS-260323-E1B6
   - INS-260330-F734
+evidence:
+  - id: INS-260325-FD0F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-E1B6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F734
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The speaker argues that the key structural protection is not banning proprietary models but ensuring that open source models can flourish. When 'essentially anyone can tinker with models, change them, and no one is a single choke point,' the risk of centralized information control is mitigated. This is analogous to how the open web prevented any single company from controlling internet information access (before the platform era). The encouraging finding was that most models became less speech-restrictive in a year-over-year test, suggesting competitive pressure and public scrutiny are working. The exception was DeepSeek, which remained highly restrictive on topics sensitive to the Chinese government — illustrating exactly the risk of models without open alternatives.

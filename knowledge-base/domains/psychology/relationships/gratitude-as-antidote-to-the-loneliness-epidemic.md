@@ -53,6 +53,10 @@ related:
   - INS-260330-3888
   - INS-260323-BBD3
   - INS-260323-8848
+evidence:
+  - id: INS-260325-11E9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In the context of a US loneliness epidemic declared by the Surgeon General, gratitude serves as a relational force that binds people to each other and to something bigger. When people feel genuine gratitude, they help others more and feel less isolated.
 

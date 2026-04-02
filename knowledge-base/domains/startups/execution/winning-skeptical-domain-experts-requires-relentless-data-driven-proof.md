@@ -57,6 +57,10 @@ related:
   - INS-260327-679A
   - INS-260327-CB1E
   - INS-260330-C7DB
+evidence:
+  - id: INS-260327-CB1E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Anna Goldie describes the adoption challenge: TPU designers each owned specific blocks and had to personally accept responsibility for choosing an AI-generated layout over their own work. The AI layouts looked alien (curved donut shapes vs. human-preferred aligned patterns), and the stakes were enormous -- a bad layout could mean a failed tape-out costing millions.
 

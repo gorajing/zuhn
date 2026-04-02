@@ -60,6 +60,13 @@ related:
   - INS-260329-E6A1
   - INS-260329-D2CA
   - INS-260330-3D7B
+evidence:
+  - id: INS-260323-8D12
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-D2CA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Malan explicitly normalizes making mistakes throughout the course, telling students to 'take comfort in knowing that over the coming weeks you're going to make so many mistakes' and framing bugs as 'problems for you to solve.' This isn't just motivational rhetoric — it reflects how programming skill actually develops. Each bug creates a micro-cycle: encounter unexpected behavior, form a hypothesis about what went wrong, test the hypothesis, and update your mental model. This frustration-breakthrough cycle is the same deliberate practice loop that builds expertise in any domain.
 

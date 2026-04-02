@@ -55,6 +55,13 @@ related:
   - PRI-260328-0123
   - INS-260322-A14D
   - INS-260330-E585
+evidence:
+  - id: INS-260322-C5BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-A14D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Articles of Confederation required a 9-of-13 supermajority for any congressional decision and unanimous consent for amendments. The result was predictable: zero amendments were ever passed, and the government could barely function. This is a textbook example of how consensus requirements scale inversely with group size.
 

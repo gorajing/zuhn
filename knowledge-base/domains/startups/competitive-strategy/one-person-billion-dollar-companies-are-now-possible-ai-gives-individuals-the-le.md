@@ -60,6 +60,10 @@ related:
 stance: >-
   Altman believes AI tools now enable a single person to build a company worth
   over a billion dollars, delivering products that previously required t...
+evidence:
+  - id: INS-260321-0CCD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When asked what he'd tell a 22-year-old graduating today, Altman says he'd 'feel like the luckiest kid in all of history.' His reasoning: AI tools now let individuals do what used to take teams of hundreds. He explicitly predicts one-person companies worth over a billion dollars — not just in valuation but in delivering 'amazing product and service to the world.'
 

@@ -59,6 +59,22 @@ related:
   - PRI-260324-36BF
   - INS-260327-30E4
   - INS-260330-5747
+evidence:
+  - id: INS-260322-E20E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-3BA8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-30E4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5747
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The coding tools market exemplifies a broader AI competitive dynamic: foundation model companies entering the application layer can subsidize their tools with model margin, creating pricing pressure that independent startups cannot survive through cost competition alone. Warp must compete on product differentiation, particularly in terminal-heavy workflows like DevOps, deployment, and incident response, where their terminal heritage gives them an advantage.
 

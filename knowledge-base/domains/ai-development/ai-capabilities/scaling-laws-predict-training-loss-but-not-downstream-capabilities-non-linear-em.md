@@ -55,5 +55,9 @@ related:
   - INS-260325-4E96
   - PRI-260323-8E89
   - INS-260329-D357
+evidence:
+  - id: INS-260330-2F13
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hassabis reveals a critical gap in scaling law predictions that is underappreciated: while core metrics like training loss follow smooth, predictable curves (as demonstrated in the GPT-4 technical report predicting loss from 10,000x less compute), the actual downstream capabilities those losses imply do not follow the same smooth curves. Performance on benchmarks like MMLU or mathematical reasoning can show step-function jumps, plateau unexpectedly, or fail to materialize despite loss improvements. This means you cannot simply extrapolate from smaller models to predict what a 10x larger model will be capable of. Hassabis notes this is why you need intermediate data points — you can't skip multiple orders of magnitude of scale because the capability landscape between checkpoints may be non-linear. Each new scale requires adjusting hyperparameters and recipes, making scaling more of an empirical art than a predictive science. This has practical implications for safety: you cannot reliably predict which dangerous capabilities might emerge at what scale.

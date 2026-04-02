@@ -54,14 +54,15 @@ stance: >-
   them of their own unexplored potential
 related:
   - INS-260323-D621
-  - INS-260327-200C
   - INS-260327-8B1A
   - INS-260328-7CA9
+  - INS-260327-200C
   - PRI-260328-604D
   - INS-260327-A75B
   - PRI-260328-3BEF
   - INS-260330-1C50
   - INS-260330-677A
+  - INS-260330-D98E
 ---
 Hormozi identifies a counterintuitive pattern in social support for entrepreneurs: the initial encouragement you receive when starting out isn't pure goodwill — it's partly because quitting a stable job to pursue something risky actually lowers your status relative to peers. You've stepped down in income and prestige, which makes them feel better about their own position. They're genuinely happy because your risk-taking effectively removes you from competition.
 

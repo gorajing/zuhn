@@ -55,6 +55,19 @@ resolutions:
 stance: >-
   Raw coding will be automated first while broader software engineering takes
   much longer to automate
+evidence:
+  - id: INS-260328-91A1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-30E4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8EC6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B771
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Dario Amodei distinguishes between "coding" (writing code) and "software

@@ -54,6 +54,10 @@ related:
   - INS-260330-C8ED
   - INS-260330-A4A5
   - INS-260330-4329
+evidence:
+  - id: INS-260325-2C31
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 SETI's name is a misnomer that Tarter openly acknowledges. We have no way to define intelligence rigorously, let alone detect it at interstellar distances. What we actually search for are technosignatures: electromagnetic signals that nature cannot produce but technology routinely does.
 

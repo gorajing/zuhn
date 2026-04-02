@@ -44,9 +44,9 @@ stance: >-
   practical intervention for breaking free of unconscious cognitive scripts.
 related:
   - INS-260330-DB4B
+  - INS-260330-7EDF
   - INS-260329-0F39
   - INS-260330-A151
   - INS-260327-3A71
-  - INS-260330-CFEA
 ---
 Le Cunff proposes a deceptively simple intervention: notice when you say 'I should do X' and replace it with 'I might do X.' The word 'should' is a reliable signal that a cognitive script is dictating your behavior rather than genuine preference. 'Might' opens possibility space — 'What might I want to explore? What might I want to experiment with?' This maps to three diagnostic questions: Am I following my past or discovering my path? (Sequel Script) Am I following the crowd or discovering my tribe? (Crowdpleaser Script) Am I following my passion or discovering my curiosity? (Epic Script). For founders especially, this reframe is powerful — the startup ecosystem is saturated with 'should' narratives about what success looks like.

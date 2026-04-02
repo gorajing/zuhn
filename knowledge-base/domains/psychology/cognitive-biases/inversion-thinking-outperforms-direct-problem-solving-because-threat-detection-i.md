@@ -55,13 +55,17 @@ related:
   - INS-260321-BFA3
   - INS-260323-EDAD
   - INS-260325-29D5
-  - INS-260325-A72C
   - INS-260320-3798
   - INS-260327-482E
   - INS-260327-9F46
   - INS-260329-E4BA
   - INS-260329-BFBF
   - INS-260329-D8F2
+  - INS-260329-87BA
+evidence:
+  - id: INS-260321-BFA3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Charlie Munger's inversion thinking works by exploiting an asymmetry in human cognition: we are evolutionarily designed to detect threats and problems far more readily than to envision positive outcomes. When you ask 'how would I destroy my marriage?' or 'how would I guarantee my business fails?', you generate a comprehensive threat map almost effortlessly. The reverse of that threat map becomes your strategy.
 

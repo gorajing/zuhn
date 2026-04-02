@@ -57,6 +57,13 @@ related:
   - INS-260329-7C59
   - INS-260329-153F
   - INS-260330-B599
+evidence:
+  - id: INS-260329-E839
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E016
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course's 100-chapter structure methodically builds from primitives (strings, numbers, booleans) through operators, conditionals, loops, functions, objects, and only then to ES6 abstractions like destructuring and spread operators. This mirrors cognitive science research on chunking — when basic operations become automatic, they consume less working memory, leaving capacity for higher-order reasoning.
 

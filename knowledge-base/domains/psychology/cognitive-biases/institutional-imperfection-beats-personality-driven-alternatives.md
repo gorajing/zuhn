@@ -54,6 +54,13 @@ related:
   - INS-260330-03A9
   - INS-260330-7E61
   - INS-260330-B7AB
+evidence:
+  - id: INS-260325-9A0F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-2B17
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Harris draws a sharp distinction between institutions that have journalistic, academic, or scientific standards (even when they violate them) versus personality-driven alternatives like Elon Musk's X or podcast interviews. The key asymmetry: institutions have error-correction pressure because they have 'intellectual and moral scruples' — reputations to protect among peers who can evaluate claims. Personalities like Trump or Musk never correct errors because they face no peer accountability.
 

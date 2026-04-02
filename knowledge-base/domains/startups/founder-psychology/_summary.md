@@ -1,10 +1,11 @@
 # Topic: founder-psychology
 
-> 42 insights
+> 44 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260329-11AB` [high] The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
+- `INS-260402-F5E0` [high] Break vague reluctance into specific fears to discover most are unfounded.
 - `INS-260328-7CA9` [high] Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
 - `INS-260325-CEE1` [high] Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
 - `INS-260323-CEA8` [high] Nicky Ryan admits fear of losing has made him less active as a competitor because his financial stability, brand, and identity are all tied to competitive results.
@@ -21,6 +22,7 @@
 - `INS-260323-F853` [high] Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
 - `INS-260323-3CC2` [high] Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
 - `INS-260323-979C` [high] Your passion can start a business, but continuing to run it on personal emotion instead of facts, metrics, and processes is the most common path to failure.
+- `INS-260402-8C0E` [high] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
 - `INS-260325-0C4A` [high] Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
 - `INS-260325-55D8` [high] Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260323-5F8A` [high] Investors who back founders with 3-4 failures are buying battle-tested pattern recognition that lucky first-timers never develop.

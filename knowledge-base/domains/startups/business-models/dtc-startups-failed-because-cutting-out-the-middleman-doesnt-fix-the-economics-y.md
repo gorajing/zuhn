@@ -55,5 +55,9 @@ related:
 stance: >-
   Casper, Warby Parker, and Dollar Shave Club promised that cutting out
   retailers would lower costs
+evidence:
+  - id: INS-260321-52EF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The DTC thesis: make quality product, cut out the retailer middleman, sell direct at lower prices. Reality: the retailer's margin was replaced by the cost of customer acquisition. Casper spent millions on podcast ads, YouTube sponsorships, and a 100-day return policy just to get people to buy mattresses online. Silicon Valley hyped DTC as 'technological innovation' but the economics were worse than wholesale. Traditional CPG companies get shelf space for relatively little; DTC startups pay exorbitant CAC for every single customer. The lesson: cutting out the middleman only works if you actually have a cheaper distribution channel. Advertising is not cheaper than retail shelf space.

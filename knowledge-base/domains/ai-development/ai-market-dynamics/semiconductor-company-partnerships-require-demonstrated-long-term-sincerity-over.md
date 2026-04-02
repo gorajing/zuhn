@@ -58,6 +58,25 @@ related:
   - INS-260327-969D
   - INS-260327-BE1F
   - INS-260327-DC65
+evidence:
+  - id: INS-260324-8656
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D7AA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8CD4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-969D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-BE1F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DC65
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Semiconductor companies operate on 5-8 year chip lifecycles. They need partners who will still exist and still care about the same problem in 5 years. Nota's proudest feedback: 'It's evident how much your company has done this work. It's visible in the product.' The semiconductor companies valued this 'dirt on the hands' signal more than any benchmark result.
 

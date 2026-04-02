@@ -55,6 +55,19 @@ related:
 stance: >-
   When companies replace interns and junior staff with AI, they destroy the
   training ground that produces the next generation of senior experts.
+evidence:
+  - id: INS-260326-7B2A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-2691
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-16B1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-F544
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bender identifies a critical blind spot in the 'AI replaces junior workers' narrative. The point of internships and junior positions isn't just cheap labor — it's the training ground where people gain experience to become senior professionals. When companies say 'we don't need that layer anymore because senior folks can just review AI output,' they create an unanswered question: where do the next senior folks come from?
 

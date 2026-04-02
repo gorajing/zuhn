@@ -52,6 +52,10 @@ related:
   - INS-260327-8521
   - INS-260329-58E7
   - INS-260321-4178
+evidence:
+  - id: INS-260321-4178
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Gawande expanded his coaching goals beyond personal technique to teaching, his coach identified a critical pattern: when trainees encountered bleeding, Gawande would immediately reach in and handle it himself. The fix was deceptively simple — count to 30 in your head before intervening.
 

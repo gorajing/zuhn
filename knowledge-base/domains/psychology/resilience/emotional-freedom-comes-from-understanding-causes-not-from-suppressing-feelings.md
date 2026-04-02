@@ -47,10 +47,9 @@ stance: >-
   but from understanding their causes, because understanding transforms reactive
   emotions into manageable responses.
 related:
-  - INS-260325-0713
   - INS-260323-B230
   - INS-260325-AE23
-  - INS-260327-7193
+  - INS-260325-0713
   - INS-260329-DD0F
   - INS-260327-4C73
   - PRI-260327-A7C5

@@ -54,6 +54,10 @@ related:
   - INS-260330-6C68
   - INS-260327-643E
   - INS-260330-4EF8
+evidence:
+  - id: INS-260323-EF23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Altman argues that the best startup ideas exist in a paradox: they must sound bad enough that most people dismiss them, yet actually be right. Google (the 13th search engine when portals were king), Facebook (the 10th social network limited to broke college students), and Airbnb (sleeping on strangers' couches) all sounded terrible at first. If an idea sounds obviously good, a big company or many startups will already be pursuing it.
 

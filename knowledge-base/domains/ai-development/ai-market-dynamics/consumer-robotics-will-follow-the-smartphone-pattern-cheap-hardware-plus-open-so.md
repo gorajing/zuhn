@@ -59,6 +59,10 @@ related:
   - PRI-260328-7007
   - INS-260330-9A92
   - INS-260327-BEFF
+evidence:
+  - id: INS-260330-9A92
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Thomas Wolf argues that previous consumer robot attempts (like Jibo) failed because they were too expensive and had fixed behaviors, maybe 5-10 tricks before the novelty wore off. The Hugging Face approach inverts this: ship a $100-300 robot as an open platform where the software is endlessly extensible through community-built behaviors, VLM integrations, speech models, and vibe-coded routines.
 

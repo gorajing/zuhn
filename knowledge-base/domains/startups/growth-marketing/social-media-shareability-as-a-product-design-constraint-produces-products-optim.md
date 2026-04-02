@@ -50,6 +50,10 @@ related:
   - INS-260327-FEB7
   - INS-260330-059C
   - PRI-260328-0BE1
+evidence:
+  - id: INS-260330-1F7E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When products are designed primarily to be shared on social media, they optimize for visual impact at the expense of the actual consumption experience, creating a gap between appearance and reality.
 

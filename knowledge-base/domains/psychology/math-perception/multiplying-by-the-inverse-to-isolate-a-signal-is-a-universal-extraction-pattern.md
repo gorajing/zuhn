@@ -61,6 +61,10 @@ related:
   - INS-260330-3819
   - INS-260329-D8F2
   - INS-260325-B61B
+evidence:
+  - id: INS-260325-D392
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Fourier coefficient extraction formula embodies a profound general technique: to isolate a specific component from a complex mixture, apply a transformation that neutralizes (freezes) your target while causing everything else to oscillate and average to zero. As the video describes it, multiplying by e^(-n·2πit) is 'sort of the mathematical equivalent of giving a smartphone to an overactive child' — it stills the nth vector while all others keep spinning.
 

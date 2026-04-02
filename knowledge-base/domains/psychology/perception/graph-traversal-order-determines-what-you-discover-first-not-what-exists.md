@@ -54,11 +54,15 @@ stance: >-
   orders, proving that your exploration strategy shapes your perception of a
   system's structure more than the system itself
 related:
+  - INS-260402-28BA
   - INS-260330-0143
   - INS-260323-B309
+  - INS-260402-5ACE
   - INS-260330-716C
-  - INS-260329-4986
-  - INS-260325-05EC
+evidence:
+  - id: INS-260325-05EC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course demonstrates two fundamental graph traversal strategies with a profound structural difference. BFS uses a queue and explores level by level — all neighbors first, then neighbors of neighbors. DFS uses a stack (or recursion) and plunges deep down one path before backtracking. Both visit every reachable node, but the order of discovery is completely different.
 

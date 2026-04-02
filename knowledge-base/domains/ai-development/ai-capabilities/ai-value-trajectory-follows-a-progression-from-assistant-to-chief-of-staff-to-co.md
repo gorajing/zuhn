@@ -62,6 +62,28 @@ related:
   - PRI-260328-5CDE
   - INS-260329-7192
   - INS-260330-B437
+evidence:
+  - id: INS-260322-D7B1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260321-5598
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-7AF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-A59A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-4CCE
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-7192
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B437
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Altman outlines a concrete progression for how AI amplifies individual capability: current chatbots (not very good) → personal chief of staff (next phase) → a team of 20-50 expert collaborators → a company of 10,000 domain experts working together for each person. He pairs this with the idea that abundant intelligence plus abundant energy are the two forces that will reshape the world.
 

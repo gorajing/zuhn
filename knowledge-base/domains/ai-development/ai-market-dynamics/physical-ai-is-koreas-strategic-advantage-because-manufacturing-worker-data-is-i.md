@@ -49,11 +49,16 @@ related:
   - INS-260323-F2BD
   - INS-260327-CFDC
   - INS-260322-7282
+  - INS-260330-E670
   - INS-260323-9BAB
   - PRI-260328-7007
 stance: >-
   Korea's surviving manufacturing workforce can generate proprietary physical AI
   training data that no other country can replicate.
+evidence:
+  - id: INS-260322-7282
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 ChatGPT was trained on publicly available internet text and images. Physical AI (robots, autonomous systems) needs movement data that doesn't exist on the internet -- it must be created. American robots are trained by random part-time workers, but manufacturing robots need skilled workers' movement data: welding, assembly, precision tasks.
 

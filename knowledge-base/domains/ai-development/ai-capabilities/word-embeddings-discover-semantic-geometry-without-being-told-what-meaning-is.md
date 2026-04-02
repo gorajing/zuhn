@@ -56,5 +56,15 @@ related:
   - INS-260329-70F2
   - INS-260326-0AB4
   - INS-260330-AE16
+evidence:
+  - id: INS-260325-B061
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-DD01
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-70F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When a model is trained to predict the next word, its embedding layer learns to position words in high-dimensional space such that directions correspond to semantic relationships. The classic example — king minus man plus woman approximates queen — demonstrates that the model independently discovered gender as a spatial direction. Italy minus Germany plus Hitler approximates Mussolini, showing it learned nationality and historical role as separate directions. This is profound because nobody programmed these relationships; they emerged purely from the objective of predicting text. The implication extends beyond AI: optimization pressure on a sufficiently flexible system can produce structured representations that capture the underlying logic of the domain, even when that logic was never specified.

@@ -1,15 +1,16 @@
 # Tag: growth
 
 - `INS-260323-1F27` Galaxies grow hierarchically — larger ones absorb smaller neighbors — and the evidence of those acquisitions persists in the chemistry and position of ancient stars at the galaxy's outskirts.
-- `INS-260327-A25E` Islam's universalist message — any person of any background could convert and be equal in the faith — enabled it to grow far faster than religions tied to specific ethnic or cultural identities.
 - `INS-260327-8DC5` If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
+- `INS-260327-A25E` Islam's universalist message — any person of any background could convert and be equal in the faith — enabled it to grow far faster than religions tied to specific ethnic or cultural identities.
 - `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
 - `INS-260325-58F5` Lower the bar of the first step until you find a version you are actually willing to do right now.
 - `INS-260330-A47B` Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.
 - `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
-- `INS-260329-A90C` Chick-fil-A's quality-first approach outlasted Boston Market's growth-first strategy because quality compounds while bloat collapses.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260330-8D6F` Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
+- `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
+- `INS-260323-4082` Many of your current problems are the result of achieving the dreams of your past self — the stress comes with the job you wanted, the arguments come with the relationship you sought.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260330-0E4C` One detractor cancels out ten champions, but customers who experience problems that get resolved often become the most passionate long-term advocates.
@@ -27,8 +28,6 @@
 - `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
 - `INS-260323-D6F2` Rella never runs ads on content created specifically for ads — they only boost posts that already performed well organically, using the algorithm as a free testing ground.
 - `INS-260323-E1BE` Find people on social media who publicly complain about the product you're replacing, build genuine trust, then offer your alternative — this direct approach converts better than any ad campaign.
-- `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
-- `INS-260323-4082` Many of your current problems are the result of achieving the dreams of your past self — the stress comes with the job you wanted, the arguments come with the relationship you sought.
 - `INS-260323-4DF1` Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
 - `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.

@@ -55,6 +55,10 @@ related:
   - PRI-260328-A82C
   - INS-260330-4AD5
   - INS-260330-EE25
+evidence:
+  - id: INS-260325-4E96
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The underlying AI capabilities are improving dramatically, but UX is not accelerating at the same rate. This gap between what AI can do and what users can effectively access through the interface is the biggest opportunity in AI product building.
 

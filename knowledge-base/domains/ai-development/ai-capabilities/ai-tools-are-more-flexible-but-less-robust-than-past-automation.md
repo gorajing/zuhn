@@ -52,5 +52,15 @@ related:
 stance: >-
   Generative AI can help with more tasks than past automation (more flexible)
   but takes over fewer tasks completely (less robust)
+evidence:
+  - id: INS-260329-6DED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-F15D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-C99D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 MIT research across ~20 companies found that generative AI adoption is task-based not job-based, consistent with past automation patterns. But unlike RPA or industrial robots which take over complete tasks with high reliability, gen AI can touch many more tasks while fully owning fewer. Half of all prompts come from just 5% of the workforce. Just because AI can perform a task doesn't mean workers will use it for that task. The impact depends entirely on how the tool is integrated into the workflow and how the human's job is redesigned around it.

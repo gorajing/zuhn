@@ -56,6 +56,10 @@ related:
   - INS-260325-1CE4
   - INS-260330-1609
   - INS-260330-35CB
+evidence:
+  - id: INS-260321-AE3F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Sanderson explicitly flags the transition from answer-seeking to tool-building: 'if you want to think like a mathematician here, you don't just care about finding the answer, you care about developing general problem-solving tools and techniques.' After deriving the circle's area, he immediately pivots to asking 'how do we find areas under OTHER graphs?' — extracting the integration concept as a general tool.
 

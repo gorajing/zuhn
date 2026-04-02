@@ -52,6 +52,10 @@ related:
 stance: >-
   LLMs training on AI-generated content creates a downward spiral of quality
   degradation that nobody is actively addressing.
+evidence:
+  - id: INS-260327-98F7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Gary Marcus describes model collapse as a degenerative disease of the internet. When LLMs ingest their own outputs — or outputs from other AI systems like Grokipedia — they absorb errors, biases, and hallucinations without any capacity to evaluate source quality. The system can identify Pravda network as Russian propaganda when asked directly, yet still metabolizes and spreads its content. This creates compounding degradation: each generation of training data is worse than the last.
 

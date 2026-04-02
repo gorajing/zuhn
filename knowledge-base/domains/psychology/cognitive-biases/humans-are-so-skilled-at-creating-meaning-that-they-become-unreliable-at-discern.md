@@ -55,6 +55,10 @@ related:
 stance: >-
   Our meaning-creation ability is so powerful that it generates false positives
   constantly
+evidence:
+  - id: INS-260323-C10D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video's most epistemologically honest observation: 'We are so good at creating meaning, we become really bad at discerning truth.' With billions of people generating trillions of thoughts and actions, statistically improbable alignments between internal states and external events are actually expected, not miraculous.
 

@@ -48,5 +48,15 @@ related:
   - INS-260329-FEBA
   - INS-260326-7F79
   - PRI-260328-F723
+evidence:
+  - id: INS-260325-5F3B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260326-7F79
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-FEBA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 When building AI products, the founder observed that most professional tasks are surprisingly deterministic — every time you do this task, you follow the same 5-7 steps. For these cases, you don't need LangChain or complex agent frameworks. Simple Python functions chained together (output of function A feeds function B feeds function C) work perfectly. Only reach for agentic architectures when how an expert approaches the problem genuinely varies based on circumstances. Additionally, use traditional deterministic code (math calculations, data transformations) wherever possible since prompts are slow and expensive. This 'boring architecture' approach ships faster and is easier to debug and eval.

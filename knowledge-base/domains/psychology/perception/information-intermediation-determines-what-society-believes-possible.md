@@ -54,6 +54,10 @@ related:
   - PRI-260328-7A9C
   - INS-260328-711E
   - INS-260330-03A9
+evidence:
+  - id: INS-260328-711E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Every era has information intermediaries: priests, publishers, broadcasters, search engines. Each controlled access to information and shaped public understanding. AI represents an unprecedented concentration of this power: a few models built by a few companies will mediate billions of people's access to knowledge.
 

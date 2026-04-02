@@ -49,6 +49,13 @@ resolutions:
 stance: >-
   The last generation of great engineers may already be born because AI widens
   the skill gap
+evidence:
+  - id: INS-260325-854D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-F51D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 AI is creating a bifurcation in engineering talent, not a uniform

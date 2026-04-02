@@ -52,6 +52,13 @@ related:
   - INS-260323-1CA4
   - INS-260327-294E
   - INS-260330-B711
+evidence:
+  - id: INS-260320-8DBD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260320-DCA0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Bent argues that early AI use was technical (specific prompt patterns and tricks), but effective AI use today is more like managing a capable colleague. You need to provide context, set expectations, check work, and know when to give latitude vs when to be prescriptive.
 

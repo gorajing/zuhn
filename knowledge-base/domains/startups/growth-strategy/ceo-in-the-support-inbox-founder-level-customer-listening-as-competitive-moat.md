@@ -57,6 +57,10 @@ related:
   - INS-260329-6E0F
   - INS-260330-2A73
 stance: Rella's CEO and co-founders still personally handle customer support
+evidence:
+  - id: INS-260322-091C
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Despite hitting $2M ARR, Natalie and her co-founders still personally manage customer support with a 15-minute response time standard. When users request a feature, it appears in the app the following week with a personal notification. This is their strongest competitive advantage — customers stay loyal because they feel heard.
 

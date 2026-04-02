@@ -63,6 +63,10 @@ related:
   - INS-260329-3C75
   - INS-260330-CFAD
   - INS-260330-026B
+evidence:
+  - id: INS-260323-29ED
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harris directs meditators to notice the space between thoughts — moments where no thought is present but awareness clearly persists. This challenges the default assumption that we are 'always thinking' and that consciousness equals thought. The gaps prove that awareness is more fundamental than the thinking process that intermittently appears within it.
 

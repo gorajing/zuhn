@@ -54,9 +54,9 @@ related:
   - INS-260330-6D3B
   - INS-260323-176B
   - INS-260330-ABBF
+  - INS-260402-EC9F
   - INS-260327-9DA6
   - PRI-260324-2A76
-  - INS-260327-A763
 ---
 Sam Harris argues that Douglas Murray's proximity to the right-of-center political ecosystem in America creates an unavoidable association with figures like Tucker Carlson, Candace Owens, and Laura Loomer — people Murray would not personally endorse. This illustrates a general principle: political coalitions are package deals. You cannot selectively associate with the parts you like without importing reputational costs from the parts you don't.
 

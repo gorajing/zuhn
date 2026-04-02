@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260330-4859
   - INS-260330-2030
+  - INS-260330-365B
   - INS-260325-AC52
   - PRI-260327-7924
   - INS-260327-52C1
-  - PRI-260323-8EEA
 ---
 Poe's Law, as discussed in the context of flat Earth communities, states that at their extremes, parody of extremism and sincere extremism are difficult to distinguish. When asked 'are these people for real?' about flat Earthers, the honest answer is 'probably not most of them' — but you genuinely cannot tell.
 

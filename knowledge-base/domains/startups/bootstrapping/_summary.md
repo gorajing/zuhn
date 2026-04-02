@@ -1,6 +1,6 @@
 # Topic: bootstrapping
 
-> 31 insights
+> 32 insights
 
 - `INS-260320-20F2` [very_high] Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
@@ -15,6 +15,7 @@
 - `INS-260321-FE91` [high] Opus Clip validated by manually engineering final video outputs and emailing them to potential customers, getting 60% positive feedback before writing a single line of product code.
 - `INS-260329-CC75` [high] At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
 - `INS-260322-82E8` [high] Senior executives are professional interviewers — get signal from their 360 reviews at previous companies and do enough references until answers converge.
+- `INS-260402-EC9F` [high] Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow.
 - `INS-260322-AC23` [high] ElevenLabs hired from non-traditional backgrounds by looking for proof of excellence — open-source projects, side projects, or standout achievements — rather than conventional credentials.
 - `INS-260320-39A3` [high] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260320-8688` [high] Don't worry about LLM costs or unit economics until you have the growth problem — use startup credits early, optimize later. Almost everything gets cheaper at scale.

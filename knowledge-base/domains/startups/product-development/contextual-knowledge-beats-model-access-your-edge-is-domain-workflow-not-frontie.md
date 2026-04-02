@@ -58,6 +58,16 @@ related:
 stance: >-
   You will never build better AI than OpenAI or Anthropic, but you can win with
   better contextual knowledge of a specific workflow or market.
+evidence:
+  - id: INS-260329-9115
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-197A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260320-5F14
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Coning argues that startups should stop chasing frontier model access and instead invest in earned insight — deep contextual knowledge of specific workflows, situations, or markets. Even last-generation models work fine when given the right context. The example is Claude Code skills: small snippets of context about how to do a task that dramatically improve model performance.
 

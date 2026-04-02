@@ -54,8 +54,8 @@ related:
   - INS-260323-7F5C
   - PRI-260324-1A67
   - PRI-260323-0F93
+  - INS-260402-62E3
   - INS-260326-2E56
-  - INS-260323-BC20
 ---
 Mearsheimer's offensive realism posits that the international system's lack of a higher authority (anarchy) forces all states — democracies and autocracies alike — to compete for power and prioritize survival. This is a structural argument, not a psychological one: states would behave the same way regardless of who leads them. Even Hitler's aggression, while amplified by his individual pathology, was largely driven by Germany's structural position in Europe.
 

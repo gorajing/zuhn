@@ -55,5 +55,27 @@ related:
   - INS-260321-CCD9
   - INS-260321-C513
   - INS-260327-0B69
+evidence:
+  - id: INS-260321-B8E8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-C246
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-89AE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7C69
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-C15B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-DAD7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-DEAF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 GenSpark was built on the thesis that foundation models will keep improving and diversifying. Rather than building their own, they built a three-layer stack: model orchestration (routing tasks to the best model), tool layer (giving models arms and legs to do real work), and product layer (translating capabilities into user value). This lets them ride every model improvement automatically — when Claude gets better at coding, GenSpark products improve overnight. The analogy to early internet is apt: the winners were not internet protocol builders but application builders who leveraged the infrastructure.

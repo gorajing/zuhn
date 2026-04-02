@@ -56,8 +56,13 @@ related:
   - INS-260321-015B
   - INS-260320-0063
   - PRI-260320-D5B7
+  - INS-260402-543E
   - INS-260325-5F3B
   - PRI-260328-3094
   - PRI-260328-D5EB
+evidence:
+  - id: INS-260320-0063
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Cuffe draws a sharp line between two product approaches. The prior generation of AI in enterprise operations used OCR/RPA to extract data from documents, maybe reason over it, then write back — individual nodes in a deterministic workflow. But BPO work exists precisely because the workflow was too hard to codify deterministically: there's human judgment at every step, countless edge cases, and processes that resist automation. Trying to shoehorn AI into tiny boxes with code layers around them misses what's now possible. Instead, Pace builds agents that take a standard operating procedure and run the entire process end-to-end: receiving a submission, extracting data, applying business logic, writing into underwriting platforms. The vast majority of their workflows have no human in the loop. This isn't just incrementally better — it transforms the economics from a 10-15% gross margin BPO business to an 80% gross margin AI business.

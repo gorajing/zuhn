@@ -57,6 +57,10 @@ related:
 stance: >-
   Censoring speech does not change opinions — it pushes people to share views
   only with those who already agree, accelerating group polarization.
+evidence:
+  - id: INS-260322-F65F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Lukianoff explains that when you tell people they can't express an opinion, you don't change their mind — you just encourage them to stop sharing it with people who might challenge it. They retreat to echo chambers where group polarization takes off. This is what Tim Kuran calls 'preference falsification': society ends up with an inaccurate picture of what people actually think.
 

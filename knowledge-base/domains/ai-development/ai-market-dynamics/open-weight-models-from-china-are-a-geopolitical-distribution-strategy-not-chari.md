@@ -55,5 +55,9 @@ related:
 stance: >-
   Chinese companies release open-weight models primarily to gain global
   distribution and influence, not out of altruism.
+evidence:
+  - id: INS-260321-B7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Nathan Lambert explains that Chinese AI companies like DeepSeek, Kimi, Z.ai, and MiniMax release open-weight models because top US/EU companies won't pay for Chinese API subscriptions due to security concerns. Open weights become the backdoor to global adoption. The Chinese government sees this building international influence, so incentives to keep releasing remain strong. Meanwhile these models carry friendlier licenses than Meta's Llama or Google's Gemma (no user-count reporting thresholds), which further drives adoption. The implication: the open-source AI landscape is shaped as much by geopolitical strategy as by technical merit. Several Chinese labs have filed IPO paperwork seeking Western mindshare, confirming this is a calculated distribution play.

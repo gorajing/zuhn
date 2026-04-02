@@ -48,6 +48,16 @@ resolutions:
 stance: >-
   Automating processes you dont deeply understand creates slot machines not
   efficiency
+evidence:
+  - id: INS-260329-882A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-FCD3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7DE0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 If you automate something you don't understand, you create uncertainty,

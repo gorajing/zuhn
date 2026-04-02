@@ -54,5 +54,12 @@ related:
   - INS-260325-0409
   - INS-260325-1519
   - INS-260323-2117
+evidence:
+  - id: INS-260330-4F49
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-1519
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 TurboQuant (Google Research, 2025) achieves near-optimal vector quantization through a deceptively simple insight: multiply any input vector by a random rotation matrix. After rotation, each coordinate follows a known Beta distribution (converging to Gaussian in high dimensions), and distinct coordinates become nearly independent -- a deeper property than mere decorrelation. This transforms the intractable problem of jointly quantizing 768+ dimensions into 768 independent 1D quantization problems, each solvable optimally via precomputed Lloyd-Max codebooks. The result: within a 2.7x constant factor of Shannon's information-theoretic lower bound, with zero data-dependent preprocessing. This is a profound example of how the right mathematical transformation dissolves apparent complexity -- the hard problem wasn't quantization, it was the coupling between dimensions.

@@ -57,5 +57,18 @@ related:
   - INS-260330-B8C6
   - INS-260327-26BF
   - INS-260327-E75F
+evidence:
+  - id: INS-260323-3920
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-042C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8E4D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-26BF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Professor Qi argues from information theory that humans are fundamentally information processors who communicate through language. Since language models can process language, there is no reserved place for human capability that AI cannot eventually reach. He compares the current moment to when humans first got language — the only comparable inflection point in civilization. His startup Path Integral Technology is built on this thesis, using AI to automate scientific discovery. The practical implication for founders: do not assume any cognitive task is permanently safe from AI automation. Build for a world where AI capabilities expand continuously and plan your company strategy around augmenting rather than replacing this trajectory.

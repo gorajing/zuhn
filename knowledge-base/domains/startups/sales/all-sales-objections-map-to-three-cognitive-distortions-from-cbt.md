@@ -51,5 +51,6 @@ related:
   - INS-260330-A151
   - INS-260329-4D5E
   - INS-260328-93F7
+  - INS-260402-2DCE
 ---
 Alex Hormozi adapted Dr. Albert Ellis's three core cognitive distortions from CBT into a universal objection framework. The three distortions are: (1) Circumstances — 'I must get what I want when I want it' — manifesting as time, money, and fit objections; (2) Others — 'People must treat me fairly' — manifesting as authority/spouse objections; (3) Self — 'I must do well or else I am no good' — manifesting as avoidance and stalling. These peel back like an onion: prospects start blaming external circumstances, then other people, then finally confront themselves. Recognizing which layer you're on tells you how close you are to the real decision. This framework replaces script memorization with principle understanding — you learn the logic behind each distortion so you can navigate any variant, not just the specific phrasings you've rehearsed.

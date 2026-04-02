@@ -56,6 +56,19 @@ related:
   - INS-260321-F864
   - INS-260323-0961
   - INS-260323-539C
+evidence:
+  - id: INS-260321-F864
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-539C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-2C31
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-1345
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Human intelligence evolved through billions of years of embodied biological experience: gravity, hunger, pain, social bonding, physical manipulation of objects. AI intelligence emerged from statistical patterns in text. Even if both produce similar outputs on benchmarks, the underlying processes may be fundamentally different.
 

@@ -54,6 +54,10 @@ related:
   - INS-260327-E052
   - INS-260328-23B4
   - INS-260330-3899
+evidence:
+  - id: INS-260326-E0CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Einstein used physical intuition to develop general relativity, but once the equations were written down, they became autonomous tools. Einstein himself thought no one would solve them, yet Schwarzschild solved them within months for the gravitational field around the sun. The equations predicted black holes, gravitational waves, and phenomena Einstein never anticipated.
 

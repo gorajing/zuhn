@@ -55,6 +55,10 @@ related:
   - INS-260330-C366
   - INS-260323-0603
   - INS-260325-3AE4
+evidence:
+  - id: INS-260323-0603
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Prior to Freud's psychoanalytic approach, people with mental disorders were confined to sanatoriums where they were given menial labor at best or shackled to bed frames at worst. The idea that simply talking — free associating, discussing dreams, surfacing repressed memories — could reduce symptoms was a radical departure from physical intervention.
 

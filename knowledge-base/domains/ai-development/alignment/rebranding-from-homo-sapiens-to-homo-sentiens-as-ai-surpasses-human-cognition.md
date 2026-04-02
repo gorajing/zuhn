@@ -54,6 +54,16 @@ related:
 stance: >-
   When AI exceeds human intelligence, our species' value shifts from information
   processing to subjective experience and consciousness.
+evidence:
+  - id: INS-260327-DD48
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-3B05
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A5C4
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Tegmark proposes that humans should rebrand from Homo sapiens (the wise ones) to Homo sentiens (the feeling ones), since intelligence will no longer be our distinguishing trait. This reframe has practical implications: if we anchor human value in subjective experience rather than cognitive superiority, it changes how we approach AI coexistence.
 

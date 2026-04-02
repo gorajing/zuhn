@@ -51,5 +51,9 @@ related:
   - INS-260322-5678
   - PRI-260328-1D90
   - INS-260322-B641
+evidence:
+  - id: INS-260320-5A6F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Blockbuster launched a copycat DVD-by-mail service in 2004, Netflix initially panicked and experimented with social networking (Netflix Friends), selling used DVDs, buying film rights from Sundance, and selling banner ads. None of these helped. Reed Hastings later said: 'In hindsight we realized when attacked we should retreat to do the core better and not try to broaden the surface of attack.' Netflix doubled down on its recommendation algorithm, streaming quality, and subscription experience. Meanwhile Blockbuster diversified into video game rentals and other services, diluting their focus. The counter-intuitive lesson: when outgunned, get narrower not wider. Your competitive moat comes from being irreplaceably good at one thing, not from having more features than the incumbent.

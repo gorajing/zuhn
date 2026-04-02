@@ -47,6 +47,10 @@ related:
   - INS-260321-2D72
   - INS-260321-E654
   - INS-260327-749F
+evidence:
+  - id: INS-260327-DE27
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone else, which in fashion is more valuable than producing great designs slowly.
 

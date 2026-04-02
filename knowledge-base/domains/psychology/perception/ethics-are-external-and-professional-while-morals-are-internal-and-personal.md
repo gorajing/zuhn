@@ -52,12 +52,19 @@ related:
   - INS-260323-44A9
   - INS-260325-BAA4
   - INS-260330-93F3
+  - INS-260402-A2F1
   - PRI-260328-82A2
   - INS-260327-764F
-  - INS-260327-8521
   - INS-260323-D8A9
   - INS-260327-C69F
   - INS-260327-399D
+evidence:
+  - id: INS-260327-C69F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-2A3A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 CIA draws a sharp distinction most people never consider: ethics are externally defined professional codes (attorney ethics, medical ethics, teaching ethics), while morals are internally held personal beliefs about right and wrong. CIA has a deliberately short code of ethics because it is an 'organization of last resort' that receives missions nobody else can do.
 

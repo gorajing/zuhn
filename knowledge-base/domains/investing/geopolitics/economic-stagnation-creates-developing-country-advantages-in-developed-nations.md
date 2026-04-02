@@ -21,8 +21,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     A stagnant developed country gains developing-country cost advantages while
@@ -56,6 +57,12 @@ stance: >-
   paradoxically create catch-up growth potential by combining low costs with
   existing high-quality infrastructure, skilled workforce, and institutional
   stability.
+related:
+  - PRI-260322-9E36
+  - INS-260327-E1EB
+  - PRI-260328-0E23
+  - INS-260330-7AB8
+  - INS-260330-757E
 ---
 Japan's post-2007 stagnation has created a paradox: a country with world-class infrastructure, a highly skilled workforce, efficient government, and strong rule of law now offers cost advantages typically associated with developing nations. Manufacturing costs have declined 30% for some operations due to the weak yen and stagnant wages. France's labor productivity is 61% higher than Japan's, meaning Japan has significant catch-up potential — if it could close this gap over three decades, living standards would grow at ~2.86% per year, approaching bubble-era rates. Companies like Korea's Cosmax are building their first Japanese plants specifically to exploit these cost advantages, and JVCKenwood has repatriated all US capacity to Japan.
 

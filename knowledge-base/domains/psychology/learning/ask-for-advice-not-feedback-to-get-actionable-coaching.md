@@ -57,6 +57,10 @@ related:
   - INS-260325-75EA
   - INS-260326-C692
   - INS-260329-B0BA
+evidence:
+  - id: INS-260320-508F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Meta-analysis by Kluger and DeNisi on 100 years of feedback research shows that feedback utility depends not on whether it's positive or negative, but whether it focuses on the task or the self. When you ask for feedback, you get cheerleaders (applauding your best self) or critics (attacking your worst self). Neither helps you improve. When you ask 'can you give me advice for next time,' people shift to future-oriented coaching and provide specific, actionable suggestions.
 

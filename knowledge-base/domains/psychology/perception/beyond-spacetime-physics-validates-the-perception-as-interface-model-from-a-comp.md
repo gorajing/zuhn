@@ -68,6 +68,10 @@ related:
   - PRI-260323-1187
   - INS-260330-0ED2
   - INS-260330-4BFD
+evidence:
+  - id: INS-260321-D959
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Two independent pillars of science — quantum field theory combined with gravity, and evolution by natural selection — have arrived at the same conclusion within the last 20 years: spacetime is not fundamental. Physicists like Nima Arkani-Hamed discovered that computing scattering amplitudes in spacetime requires billions of terms (Feynman diagrams enforcing locality and unitarity), but the same calculations reduce to a single term when done in deeper structures like the amplituhedron. The Parke-Taylor formula (1986) was an early hint: hundreds of pages of gluon scattering computations collapsed to one expression.
 

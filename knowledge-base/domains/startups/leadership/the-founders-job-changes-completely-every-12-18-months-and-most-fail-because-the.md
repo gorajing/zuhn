@@ -50,6 +50,7 @@ stance: >-
 related:
   - INS-260325-060A
   - INS-260322-70DD
+  - INS-260402-27A1
   - INS-260325-17BF
   - PRI-260328-5E58
   - INS-260327-2B75
@@ -57,6 +58,5 @@ related:
   - INS-260327-B605
   - INS-260327-7690
   - INS-260327-F544
-  - INS-260327-0E86
 ---
 The EO community consistently surfaces a pattern: the skills that get you to $1M revenue (hustle, doing everything yourself, direct customer relationships) actively harm you at $5M (you become the bottleneck). The $5M skills (hiring, delegating, building processes) harm you at $20M (you need to build culture and systems, not manage people). Each transition requires unlearning what made you successful. The hardest transitions: $1M→$5M (stop doing, start managing), $5M→$20M (stop managing, start leading), $20M→$100M (stop leading operations, start leading vision and culture). Most founders plateau because they refuse to unlearn — they keep trying to hustle their way through problems that require systems.

@@ -51,6 +51,10 @@ resolutions:
 stance: >-
   AI deskilling in coding is real but depends on usage patterns not AI
   capability itself
+evidence:
+  - id: INS-260329-BE35
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Dario Amodei reveals that Anthropic has conducted internal studies on

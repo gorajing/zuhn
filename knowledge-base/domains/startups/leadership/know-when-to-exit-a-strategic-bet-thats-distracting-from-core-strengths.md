@@ -62,6 +62,10 @@ related:
   - INS-260327-9DA6
   - INS-260327-CECA
   - INS-260330-95E8
+evidence:
+  - id: INS-260323-B07C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Solomon's consumer banking decision illustrates a pattern relevant to any scaling company. The Apple Card partnership and Marcus deposit platform were producing real value, but the regulatory environment changed, making organic scaling extremely difficult. More critically, the business consumed disproportionate attention, getting media and internal focus as though it were 40% of revenue when it was under 5%.
 

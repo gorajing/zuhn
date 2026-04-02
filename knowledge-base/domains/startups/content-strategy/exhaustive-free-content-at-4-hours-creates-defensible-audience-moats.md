@@ -56,6 +56,10 @@ related:
   - INS-260329-BCCB
   - INS-260329-31A2
   - INS-260329-9A42
+evidence:
+  - id: INS-260329-5427
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This single 4-hour tutorial has 13M+ views — roughly 2-3x what most paid C++ courses achieve in total enrollments. FreeCodeCamp's strategy of giving away exhaustive, high-quality content for free creates a paradox: by not charging, they build an audience asset more valuable than course revenue.
 

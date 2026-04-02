@@ -58,6 +58,10 @@ related:
   - INS-260323-FAF2
   - INS-260330-F08F
   - INS-260327-999C
+evidence:
+  - id: INS-260323-FAF2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Rather than spending months modeling stress distributions and material properties, the Mad Batter team took a fundamentally iterative approach: spin up, break something, diagnose the failure, redesign, and try again. Wooden bat snapped at the stress concentration point? Switch to aluminum. Aluminum bat flew off the shaft? Drill pins through the handles. Machine vibrated dangerously? Add a wobble switch kill relay.
 

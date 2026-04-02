@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260323-4457
   - INS-260325-B868
+  - INS-260402-4605
   - INS-260323-19A8
   - PRI-260328-9EC9
-  - INS-260330-30DE
 stance: >-
   True invention (not incremental improvement) requires permission to wander
   aimlessly

@@ -57,6 +57,19 @@ related:
   - INS-260327-DF8B
   - INS-260330-CAE6
   - INS-260330-B7AB
+evidence:
+  - id: INS-260330-0102
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-71E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-DF8B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B7AB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Prime Intellect draws a powerful analogy: would you rather have the smartest person in history or someone who's been at your company for 30 years? Sometimes domain expertise and institutional knowledge matter more than raw intelligence. In AI terms, a prompt is a fresh conversation every time; training is how institutional knowledge compounds.
 

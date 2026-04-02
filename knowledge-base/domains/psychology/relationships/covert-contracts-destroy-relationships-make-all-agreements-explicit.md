@@ -57,6 +57,10 @@ related:
 stance: >-
   Covert contracts — where one party secretly resents an agreement and begins
   taking compensation through indirect sabotage — are the root mechanism ...
+evidence:
+  - id: INS-260323-8D12
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Huberman draws a critical distinction between overt and covert contracts in all human relationships. An overt contract is explicit: we agree on terms and both honor them. A covert contract looks identical but involves hidden resentment — one party secretly takes compensation through verbal jabs, showing up late, building alliances behind your back, or feigning vulnerability.
 

@@ -48,5 +48,12 @@ related:
   - INS-260321-6437
   - INS-260325-5B7F
   - INS-260321-B7CB
+evidence:
+  - id: INS-260321-6437
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-40DA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Philip shares a dramatic example: the largest Oracle rack cluster in an entire company could not fulfill queries. The same data modeled in Neo4j ran 1000x faster on one-tenth the hardware. This is not an incremental improvement but a fundamental architectural mismatch — relational databases store data in tables, but the real world shows up as networks, hierarchies, and paths. When your data is inherently relational (social networks, supply chains, fraud detection, recommendation engines), forcing it into tables creates exponential performance degradation that more hardware cannot solve.

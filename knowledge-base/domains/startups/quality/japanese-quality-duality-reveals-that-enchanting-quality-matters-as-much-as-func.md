@@ -57,6 +57,10 @@ related:
   - INS-260323-2E49
   - INS-260329-EBBB
   - INS-260321-F864
+evidence:
+  - id: INS-260321-F864
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kevin Hale introduces the Japanese quality concepts of atarimae hinshitsu (taken-for-granted quality—basic functionality) and miryokuteki hinshitsu (enchanting quality—the emotional experience). A pen that writes is atarimae; a pen whose weight, ink flow, and aesthetic please both the writer and readers of the handwriting has miryokuteki quality. Most engineers focus exclusively on atarimae and treat delight as frivolous.
 

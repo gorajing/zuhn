@@ -57,7 +57,6 @@ related:
   - INS-260327-7E6F
   - INS-260323-FEDF
   - INS-260327-10E0
-  - INS-260330-5A13
 ---
 After building Atom at GitHub, which became the foundation for Electron and ultimately VS Code, Sobo hit a hard ceiling on performance. Opening Chrome's dev tools profiler showed optimizations he could never reach because the web browser abstraction layer imposed fundamental latency constraints. This led to the conviction that performance isn't a feature you add; it's an architectural choice that determines your ceiling.
 

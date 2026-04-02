@@ -54,5 +54,9 @@ related:
 stance: >-
   GoPro launched 9 generations and 20 models in 10 years, flooding the market
   with trivial improvements
+evidence:
+  - id: INS-260327-CB1E
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Consumer electronics is brutal: gross margins are half of SaaS, products depreciate on release, and each generation cannibalizes the last. GoPro's fatal mistake was believing that as market creator they could set the tempo — 20 models in 10 years made each upgrade trivial. Insta360 found the gap between smartphones and professional cameras, built a 360-degree camera category, and diversified use cases beyond extreme sports. Key lesson: in hardware, fewer better-differentiated releases beat frequent incremental ones. Nintendo is the only company to consistently create breakthrough products across generations (Game Boy → DS → Wii → Switch).

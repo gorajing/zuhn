@@ -49,10 +49,10 @@ resolutions:
     authentic connection and trust.
 related:
   - INS-260323-C4EE
+  - INS-260330-5F21
   - INS-260330-14B1
   - PRI-260323-1187
   - INS-260330-BE4D
-  - PRI-260322-94C4
 stance: >-
   The codec avatar system crosses the uncanny valley by preserving human
   imperfections like freckles, asymmetry, and wrinkles rather than smoothing

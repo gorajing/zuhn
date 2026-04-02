@@ -59,6 +59,16 @@ related:
   - INS-260325-537A
   - INS-260325-C9EB
   - INS-260325-D5C6
+evidence:
+  - id: INS-260330-A47B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-537A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-D5C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Musk raises a profound alignment-adjacent concern: wishing for world peace sounds unambiguously good, but the mechanisms required to enforce eternal peace might be worse than occasional war. A society with zero conflict could be ossified, stagnant, and totalitarian — requiring complete suppression of dissent, competition, and the creative destruction that drives progress.
 

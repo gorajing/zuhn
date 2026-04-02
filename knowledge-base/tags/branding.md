@@ -1,7 +1,6 @@
 # Tag: branding
 
 - `INS-260323-A55A` AI outputs are 'episodes' (trendy, replaceable, no pain) while human creative work builds 'narratives' (time-intensive, suffering-accumulated) — and only narratives carry the 'aura' of authenticity that Benjamin defined as presence born from spatial, temporal, and symbolic distance.
-- `INS-260330-7EAA` Good design converges on right answers like math; branding must diverge from those answers to be distinctive, creating an inescapable conflict.
 - `INS-260329-895D` Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion.
 - `INS-260330-F534` New Coke proved that blind taste tests favored the new formula, yet customers overwhelmingly rejected it — brand attachment overrode taste preference.
 - `INS-260329-B77F` Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.

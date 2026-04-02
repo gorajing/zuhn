@@ -47,10 +47,10 @@ stance: >-
   deliberate practice to shift your baseline contentment.
 related:
   - INS-260323-8F70
+  - INS-260330-C31B
   - INS-260325-82E8
   - PRI-260323-0F93
   - INS-260330-240A
-  - INS-260323-ACD9
 ---
 Naval argues that while genetics may account for half or more of traits like strength and intelligence, the genetic set point for happiness is only about half the story — and the malleable portion is much larger than people assume. Unlike athletic performance where physical limits are hard, mood, temperament, and outlook respond dramatically to deliberate effort.
 

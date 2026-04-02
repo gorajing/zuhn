@@ -58,6 +58,10 @@ related:
 stance: >-
   Professional CEOs trained to say nothing on stage now lose to founder CEOs
   interesting enough to fill 3 hours on Joe Rogan
+evidence:
+  - id: INS-260328-0DFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Andreessen describes 80 years of corporate communication as an aberration forced by narrow media channels. When you had limited broadcast time or newspaper column inches, companies compressed everything into minimal, inoffensive messaging. The 'corporate brand' became an abstraction detached from people — synthetic, plastic, boring. Professional CEOs trained to say absolutely nothing on stage and considered it mission accomplished.
 

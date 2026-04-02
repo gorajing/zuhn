@@ -60,6 +60,10 @@ related:
 stance: >-
   If 50 unlikable people hold all the wealth while white-collar workers lose
   jobs, the bipartisan consensus won't be left vs right
+evidence:
+  - id: INS-260327-1D37
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Alex Karp warns that Silicon Valley's biggest existential threat isn't competition or regulation — it's a political horseshoe effect. If AI simultaneously eliminates white-collar jobs (affecting educated, Democratic-leaning constituencies) while concentrating wealth among a small number of tech leaders who don't visibly support the military or the broader public, both parties will converge on one thing: nationalization.
 

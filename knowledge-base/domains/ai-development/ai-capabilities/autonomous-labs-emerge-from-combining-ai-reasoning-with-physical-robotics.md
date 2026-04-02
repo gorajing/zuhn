@@ -56,6 +56,19 @@ stance: >-
   AI reasoning capabilities plus robot learning are converging to create
   autonomous labs that accelerate scientific discovery across life sciences,
   c...
+evidence:
+  - id: INS-260327-77E5
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-CFD5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-A0CE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7F64
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The next wave of scientific acceleration comes from combining AI reasoning and experiment planning with physical lab automation. Near-term, this looks like human-AI collaboration where a scientist works alongside an AI system and robot — not fully self-driving science, which remains further out. Interpretability is critical: researchers need to understand why the AI plans experiments a certain way.
 

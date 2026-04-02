@@ -58,6 +58,10 @@ related:
 stance: >-
   Companies with proprietary data that previously sold raw access can now
   deliver finished AI-powered products, multiplying revenue by 5-100x.
+evidence:
+  - id: INS-260329-8DDF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 VLex, a 26-year-old Spanish legal data company, quintupled revenue after adding AI because it could deliver finished legal memos instead of raw database access. Open Evidence licenses exclusive medical journal data and delivers evidence-based answers doctors actually use — two-thirds of American doctors use it weekly. The key insight is that proprietary data sources, even when the underlying data is technically free or public, become enormously more valuable when AI converts raw material into finished products.
 

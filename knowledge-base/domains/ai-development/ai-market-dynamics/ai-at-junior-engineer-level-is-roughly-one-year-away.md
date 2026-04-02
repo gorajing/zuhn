@@ -54,6 +54,13 @@ related:
   - INS-260327-3E23
   - INS-260321-0CCD
   - INS-260323-4457
+evidence:
+  - id: INS-260327-9192
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-4457
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dean's assessment is notable for its specificity from someone who has overseen Google's AI infrastructure for over a decade. He notes the virtual junior engineer needs much more than code generation: it needs to run tests, debug performance issues, use development tools, and learn from documentation. He draws an analogy to how human junior engineers learn -- from experienced colleagues and reading documentation -- and believes AI will be 'pretty good at reading documentation and trying things out in virtual environments.'
 

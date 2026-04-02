@@ -53,5 +53,9 @@ related:
 stance: >-
   Visa was founded by Bank of America, Mastercard by smaller banks as a
   counterweight
+evidence:
+  - id: INS-260327-6177
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Credit cards generate 2-3% of every transaction. That fee goes to the issuing bank (not Visa/Mastercard) as compensation for credit risk. Visa and Mastercard charge a separate smaller fee as payment network middlemen. The system is stable because Visa was born from Bank of America and Mastercard from a coalition of smaller banks. Every Visa/Mastercard CEO has been a former big bank executive. Banks won't build competing networks; networks won't compete with banks. Fintech startups can't crack this because no major bank would join a network at the expense of Visa/Mastercard. Credit cards are the most profitable division of major banks — higher margins than investment banking, auto loans, or mortgages.

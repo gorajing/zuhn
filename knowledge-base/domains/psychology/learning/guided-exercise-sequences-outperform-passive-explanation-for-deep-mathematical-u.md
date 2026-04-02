@@ -56,6 +56,10 @@ related:
   - INS-260322-32E3
   - INS-260329-4A69
   - INS-260329-32DB
+evidence:
+  - id: INS-260325-9BBC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown explicitly pauses the second proof to restructure it as five guided exercises, acknowledging the tension: 'I know that's less fun, and it means you have to pull out some paper to do a little work, but I guarantee you will get more out of it this way.' This is significant coming from a channel built on elegant visual explanations.
 

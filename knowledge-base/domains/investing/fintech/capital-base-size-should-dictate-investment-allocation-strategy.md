@@ -49,7 +49,6 @@ stance: >-
   base — small bases demand earning-power investments while large bases favor
   asset allocation.
 related:
-  - INS-260329-FCE6
   - INS-260329-59FF
   - INS-260329-5414
   - INS-260329-9F81

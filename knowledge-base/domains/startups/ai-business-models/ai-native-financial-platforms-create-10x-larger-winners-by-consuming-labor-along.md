@@ -66,6 +66,15 @@ evidence:
   - id: INS-260329-E193
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-F20C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-642F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DFF1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Angela Strange at a16z makes the case that the next generation of financial services infrastructure winners will be 10x larger than current category leaders. The expansion comes from two sources: software categories themselves are merging (KYC + transaction monitoring + customer service become a unified risk platform), and software can now consume labor budgets that previously went to humans for tasks that were either undesirable or chronically understaffed.
 

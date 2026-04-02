@@ -31,12 +31,12 @@
 - `INS-260330-5DA6` Physics departments deliberately flunk most students in elementary physics, encouraged by engineering departments that don't want engineers building bridges that fall down — intentional difficulty filters for fundamental competence.
 - `INS-260330-83BC` Girls' prefrontal cortex develops 1-2 years earlier than boys', giving them a structural advantage in education systems built around executive function.
 - `INS-260329-6004` Confronting misconceptions through cognitive dissonance teaches more effectively than stating correct answers directly
-- `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
-- `INS-260325-1345` A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.
 - `INS-260329-E4BA` Pass/fail options remove the fear barrier that prevents capable people from attempting unfamiliar domains.
 - `INS-260323-A19F` The argument that a word is too powerful to study in academic contexts is self-defeating — powerful words demand more engagement, not less.
 - `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
+- `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
+- `INS-260325-1345` A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
 - `INS-260329-31A2` freeCodeCamp's strategy of publishing complete 4-hour tutorials for free has generated 13M+ views on a single video, demonstrating that exhaustive free content builds massive audiences.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.

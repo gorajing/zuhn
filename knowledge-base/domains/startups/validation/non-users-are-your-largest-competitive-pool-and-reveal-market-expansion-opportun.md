@@ -58,9 +58,8 @@ related:
   - INS-260330-F268
   - INS-260330-5EA4
   - INS-260330-1854
+  - INS-260402-426C
   - INS-260330-EF64
-  - INS-260327-112B
-  - INS-260330-C95F
 ---
 Shear makes the counterintuitive argument that non-users are often the most important people to interview. For most new products, the vast majority of potential users aren't using any solution — yours or competitors'. If you only talk to current users and competitor users, you optimize for a tiny slice of the total addressable market and never learn what prevents the rest from participating.
 

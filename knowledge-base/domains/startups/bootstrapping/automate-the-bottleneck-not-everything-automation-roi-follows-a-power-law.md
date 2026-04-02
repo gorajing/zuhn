@@ -50,13 +50,19 @@ related:
   - INS-260322-474A
   - INS-260330-4C5A
   - INS-260330-FCBC
-  - INS-260330-B4F1
   - INS-260330-B3DD
+  - INS-260330-BE23
 stance: >-
   A common mistake is automating wherever it's easiest rather than wherever the
   constraint actually is
 evidence:
   - id: INS-260321-B85C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4C5A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-474A
     type: SUPPORTS
     classified_at: '2026-04-02'
 ---

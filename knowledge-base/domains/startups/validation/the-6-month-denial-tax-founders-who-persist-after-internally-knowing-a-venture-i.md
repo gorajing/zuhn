@@ -45,16 +45,21 @@ resolutions:
     thousands of dollars.
 related:
   - INS-260322-1D52
+  - INS-260402-EA72
+  - INS-260402-27A1
   - INS-260330-EE5E
   - INS-260330-E39E
   - INS-260323-19A8
-  - INS-260330-478B
-  - PRI-260323-1B96
   - INS-260327-CD77
   - PRI-260328-2014
+  - INS-260330-478B
 stance: >-
   The most expensive period of a failing startup is not the building phase —
   it's the denial phase after the founder already knows it won't work.
+evidence:
+  - id: INS-260322-1D52
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Daniel knew for roughly 6 months that his startup was going nowhere before he could admit it to himself. This denial period is where the real damage compounds — not just financially (burning through remaining savings) but psychologically (erosion of self-confidence, embarrassment, inability to pivot). The persistence mindset that startup culture celebrates becomes pathological when it prevents honest assessment.
 

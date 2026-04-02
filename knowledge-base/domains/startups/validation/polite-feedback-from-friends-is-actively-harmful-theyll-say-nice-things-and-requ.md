@@ -59,6 +59,10 @@ related:
 stance: >-
   Friends and acquaintances will give positive feedback and feature requests not
   because they want your product, but because they want to be nice to ...
+evidence:
+  - id: INS-260321-7C97
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Internet Made Coder's team gave their productivity app to friends who responded with encouraging words and feature requests ('if it just had this one thing, I'd definitely use it'). The team built each requested feature, creating a massive feature list — but analytics showed users dropped off after the first day regardless. The friends' requests were social politeness, not genuine demand.
 

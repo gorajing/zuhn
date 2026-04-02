@@ -55,6 +55,10 @@ related:
   - INS-260329-D8BC
   - INS-260329-4109
   - INS-260325-FDA9
+evidence:
+  - id: INS-260326-CAAB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The course spends significant time explaining that 'most modern programming languages like JavaScript don't start counting at 1 like humans do — they start at 0, which is called zero-based indexing.' This isn't just a beginner's hurdle; off-by-one errors remain one of the most common bug categories across all experience levels.
 

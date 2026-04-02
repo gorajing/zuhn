@@ -57,7 +57,24 @@ related:
   - INS-260322-5F87
   - INS-260323-2DB0
   - INS-260330-C6A2
+  - INS-260402-96E2
 stance: AI companies have been given enormous power to shape society
+evidence:
+  - id: INS-260327-1B60
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260324-CBD3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-5F87
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-2DB0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C6A2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Acemoglu and Sandel's framework reveals a troubling pattern in AI governance: companies like OpenAI have spent tens of billions more than they've earned, yet wield enormous influence over society's future. OpenAI appears to have signed contracts enabling mass surveillance — a massive change to society — based not on demonstrated value but on the promise of future capability and the prestige we've accorded tech entrepreneurs.
 

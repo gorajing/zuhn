@@ -53,5 +53,15 @@ related:
   - INS-260326-841D
   - INS-260325-206C
   - INS-260327-1576
+evidence:
+  - id: INS-260325-BEAC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-841D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-1576
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Usage-based AI inference creates a fundamentally different cost structure than traditional SaaS. Every user interaction carries direct variable cost, unlike conventional software where marginal cost per user approaches zero after fixed development costs. This means profitability now depends on routing efficiency (sending queries to the cheapest capable model), reuse strategies (caching common responses), and strict per-request cost controls. Companies that treat AI integration like traditional SaaS scaling will face margin compression. The winners will be those who architect their AI stack for cost efficiency at the inference layer, not just capability at the model layer.

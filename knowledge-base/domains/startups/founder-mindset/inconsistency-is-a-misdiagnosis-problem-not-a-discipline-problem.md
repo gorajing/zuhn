@@ -51,6 +51,10 @@ related:
   - INS-260326-0AB4
   - INS-260330-1622
   - INS-260330-7DB7
+evidence:
+  - id: INS-260326-0AB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The standard framing treats inconsistency as a character flaw requiring more discipline, accountability systems, or motivation. Hormozi reframes it as a cognitive error: ambitious people encounter the inevitable difficulty of a pursuit and interpret it as evidence they're on the wrong path, when it's actually evidence they're on any path at all.
 

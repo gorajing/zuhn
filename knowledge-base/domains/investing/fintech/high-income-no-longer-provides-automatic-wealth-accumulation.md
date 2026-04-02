@@ -46,10 +46,10 @@ stance: >-
   education, and status goods have eliminated this automatic wealth building.
 related:
   - INS-260327-4348
+  - INS-260402-8C0E
   - INS-260329-C45C
   - INS-260329-60CF
   - INS-260330-4746
-  - INS-260328-FF2C
   - INS-260327-D1BB
 ---
 Historically, earning in the top 1% virtually guaranteed wealth accumulation: even with poor financial decisions, the sheer surplus income would build wealth over time. This is no longer true because the cost of maintaining a top-1% lifestyle has outpaced income growth in that bracket.

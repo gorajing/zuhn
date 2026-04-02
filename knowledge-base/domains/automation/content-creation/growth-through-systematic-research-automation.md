@@ -49,6 +49,10 @@ resolutions:
 stance: >-
   Automating content research and ideation produces more growth than automating
   content creation itself
+evidence:
+  - id: INS-260322-474A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Chase Hannegan's growth from 0 to 175K+ followers in under 12 months

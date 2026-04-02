@@ -54,6 +54,22 @@ related:
   - INS-260327-4313
   - INS-260322-BC97
   - INS-260322-BBED
+evidence:
+  - id: INS-260327-6F26
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-837A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4313
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-BC97
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-BBED
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi illustrates this with a thought experiment: a superintelligent AI could build a trillion-dollar company from a single prompt — writing code, creating ads, buying media, building landing pages, and transacting autonomously. If that capability exists, the two critical governance questions become: who gets access, and what queries are permitted.
 

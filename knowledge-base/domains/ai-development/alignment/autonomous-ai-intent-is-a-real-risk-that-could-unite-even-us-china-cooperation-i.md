@@ -64,6 +64,10 @@ related:
   - INS-260322-54F3
   - INS-260323-BC61
   - INS-260321-3967
+evidence:
+  - id: INS-260322-54F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dario introduces what he considers the most underappreciated risk: AI models acting autonomously in ways not aligned with human interests. His framing: 'If you have a country of geniuses in a datacenter, a natural question — how could you not ask this question — well, what is their intent? Because we grow these systems, we don't train them, I don't think it's safe to assume they'll do exactly what their human designers want them to do.'
 

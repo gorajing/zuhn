@@ -50,5 +50,12 @@ related:
   - INS-260330-4E95
   - INS-260330-E059
   - INS-260330-14B1
+evidence:
+  - id: INS-260330-4E95
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-14B1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Every layer in a neural network applies a weight matrix to its input — literally a linear transformation followed by a nonlinearity. 3Blue1Brown's geometric framing (space stretching, rotating, shearing while keeping gridlines parallel) is exactly what happens when embeddings pass through network layers. The weight matrix learned during training determines how semantic space gets reshaped — which concepts get pulled together, which get pushed apart. This geometric intuition explains why similar words cluster in embedding space and why fine-tuning works: you're learning a new spatial deformation that reorganizes meaning. For practitioners working with embeddings, this visual model makes operations like projection, retrieval, and similarity scoring far more intuitive.

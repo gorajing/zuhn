@@ -49,8 +49,13 @@ related:
   - INS-260327-2BE1
   - INS-260324-9586
   - INS-260330-2C57
+  - INS-260402-4A06
 stance: >-
   The microprocessor, PC, Wi-Fi, smartphones, and GPS all flourished through
   organic market demand — no one adopted them under threat of extinction
+evidence:
+  - id: INS-260321-2241
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The argument: every genuine tech revolution (PCs, internet, mobile) was supply-trailing-demand — products evolved through iteration and mass-market impact was earned, not declared. AI inverts this: billions poured into scaling a technology still searching for its form factor, with adoption driven by billionaire fear-mongering ('anyone not using AI will be a goldfish') rather than organic pull. Yesterday's crypto evangelists are today's AI champions. The counter-argument is that AI does have real utility in specific domains — the bubble is in the gap between actual utility and projected valuations.

@@ -52,6 +52,16 @@ related:
 stance: >-
   Some voice AI companies intentionally add latency and background noise to make
   agents sound more human, revealing that performance has outpaced use...
+evidence:
+  - id: INS-260322-B264
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4B07
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-DBAD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 An interesting signal from the voice AI space: accuracy and latency have improved so much that some companies are deliberately degrading their agents' performance — adding pauses and background noise — to make them sound more human. This reveals a gap between technical capability and user acceptance.
 

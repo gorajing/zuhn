@@ -59,6 +59,10 @@ related:
   - INS-260330-2E54
   - PRI-260324-1134
   - INS-260330-B85B
+evidence:
+  - id: INS-260323-2C19
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Harris describes language as 'the wrong tool for the job' when it comes to psychedelic experience — not merely insufficient but categorically inappropriate, like trying to describe music by snapping your fingers. He uses the metaphor of wading into a roiling ocean of meaning with a thimble: what you bring back can't begin to indicate the immensity even to yourself as an aid to memory.
 

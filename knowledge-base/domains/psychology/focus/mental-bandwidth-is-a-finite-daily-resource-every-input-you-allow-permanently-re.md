@@ -60,6 +60,13 @@ related:
 stance: >-
   Your total capacity to focus resets each day; every input (email, podcast,
   notification) you let in takes permanent space until the next reset
+evidence:
+  - id: INS-260321-6437
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-5E40
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Lucas discovered through experimentation that focus isn't just about willpower — it's about managing a finite resource he calls mental bandwidth. Each thing you focus on takes up space, and critically, those things don't leave when you stop actively thinking about them. When he checked his email mid-challenge, the business deal he read about stayed in the back of his mind all day, competing with his main work for bandwidth.
 

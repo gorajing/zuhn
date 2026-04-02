@@ -59,9 +59,13 @@ related:
   - INS-260329-3848
   - INS-260329-68C8
   - INS-260329-1F3F
-  - INS-260329-BF96
   - INS-260329-7A7F
   - INS-260330-28EF
+  - INS-260330-C33B
+evidence:
+  - id: INS-260330-30FB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Dual Control Model's most transferable insight is that in any system with both excitatory and inhibitory components, the default intervention (increase excitation) is usually wrong. In sexual desire, adding more stimulation while brakes are engaged just creates frustration. The same pattern appears across domains: adding productivity tools while burnout brakes are active, adding marketing spend while conversion friction exists, or adding study hours while test anxiety inhibits recall.
 

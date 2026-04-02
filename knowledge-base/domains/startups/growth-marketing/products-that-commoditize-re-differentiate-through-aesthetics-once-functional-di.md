@@ -46,6 +46,10 @@ related:
   - PRI-260328-AC85
   - INS-260324-A046
   - INS-260327-2EFD
+evidence:
+  - id: INS-260329-EC30
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Once functional features converge, commoditized products re-differentiate through aesthetics, limited editions, and brand collaborations, restarting the consumption cycle.
 

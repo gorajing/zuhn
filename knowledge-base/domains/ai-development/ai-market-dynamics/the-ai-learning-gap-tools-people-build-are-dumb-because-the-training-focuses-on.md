@@ -55,5 +55,21 @@ related:
 stance: >-
   MIT research shows $291B wasted on AI because the ecosystem trained people to
   sell AI services, not build AI that actually works reliably.
+evidence:
+  - id: INS-260330-930D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-EA4E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-95E8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B468
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C870
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 MIT's research on the 95% AI failure rate reveals a 'learning gap': the AI tools people built were fundamentally unreliable — they couldn't remember context, broke with minor changes, and the cost of correcting mistakes exceeded hiring humans to do the work manually. Frank Kern attributes this to a training ecosystem that teaches people how to sell AI services (get clients, close deals) while barely teaching how to make AI systems actually work reliably. It's like learning to sell martial arts training without learning to fight. This maps directly to the broader AI agency/consultant boom: thousands of AI agencies launched by people who completed a course on getting clients but never developed the discipline to deliver working systems. The 5% who succeed get $3.70-$10.30 return per dollar invested and up to 80% revenue growth — proving the technology works when built by skilled practitioners.

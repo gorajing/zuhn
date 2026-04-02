@@ -45,11 +45,11 @@ stance: >-
   tools can be exceptional at one thing—the same logic as hiring specialists vs
   generalists.
 related:
+  - INS-260402-2A1D
   - INS-260330-D61A
   - INS-260322-C6CE
   - INS-260326-7B2A
   - INS-260330-16B1
-  - INS-260330-FE9E
   - INS-260330-0CAD
 ---
 Julius AI focuses exclusively on data analysis and visualization. ChatGPT can do data analysis too, but the experience is much worse—insights aren't deep, charts don't look good, you can't collaborate with colleagues. Users start with ChatGPT, realize it falls short for real data analysis, Google 'AI data analysis,' and find Julius as the #1 result.

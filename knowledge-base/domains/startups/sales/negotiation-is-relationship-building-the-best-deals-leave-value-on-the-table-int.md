@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260329-8542
   - INS-260329-3D14
+  - INS-260330-9DC9
   - INS-260330-A3F2
   - INS-260330-8FEC
   - INS-260329-5514
-  - INS-260322-83D4
 ---
 Hormozi reframes negotiation from a zero-sum extraction game to a relationship-building exercise. The conventional wisdom of 'getting the best deal' optimizes for a single transaction, but business is a repeated game where the same counterparts show up again and again.
 

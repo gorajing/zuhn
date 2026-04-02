@@ -51,5 +51,9 @@ related:
   - INS-260323-085A
   - PRI-260323-DA09
   - INS-260330-DECB
+evidence:
+  - id: INS-260323-8E4D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Gödel's numbering scheme assigns unique integers to every symbol, equation, and proof in a formal system. Because the system can do arithmetic on these numbers, it can construct statements about its own proofs — including the statement 'this statement has no proof.' This isn't a trick or edge case; it's an inevitable consequence of a system being expressive enough to do basic arithmetic. The implication is profound: expressiveness and self-reference are inseparable. Any system rich enough to be useful for reasoning will be rich enough to reason about itself, which means it will contain truths it cannot prove. This is why you can't patch incompleteness by adding more axioms — each extension creates a more expressive system that generates new unprovable truths.

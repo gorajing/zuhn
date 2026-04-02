@@ -51,9 +51,9 @@ related:
   - INS-260325-9DBB
   - INS-260323-B849
   - INS-260322-7276
-  - INS-260323-FDB8
   - INS-260327-7D75
   - INS-260329-D37E
+  - INS-260329-2AB9
 ---
 Charlie Ellis's 'loser's game' concept draws an analogy between amateur tennis and amateur investing: professionals win by scoring points, but amateurs win by making fewer mistakes. In investing, this means avoiding emotional trading, market timing, stock picking, and high fees.
 

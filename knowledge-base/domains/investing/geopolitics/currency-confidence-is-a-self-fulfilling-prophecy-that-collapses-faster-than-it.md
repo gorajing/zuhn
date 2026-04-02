@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Zimbabwe's hyperinflation persisted because citizens' expectation of rising
@@ -54,11 +54,13 @@ stance: >-
   citizens expect prices to rise, their behavior accelerates the collapse
   regardless of monetary policy changes.
 related:
-  - INS-260330-1AB0
-  - INS-260330-AE66
-  - INS-260330-1C84
-  - INS-260330-FE65
-  - PRI-260328-99F0
+  - INS-260330-43FF
+  - INS-260330-F79F
+  - INS-260330-AACC
+  - PRI-260328-0993
+  - PRI-260328-1A2D
+  - INS-260322-D079
+  - INS-260329-6079
 ---
 Zimbabwe's experience reveals that currency value is fundamentally a collective belief system. When daily inflation hit 98%, prices kept rising largely because people expected them to. The government's attempts to restore confidence through redenomination — removing 10 zeros in 2008 and 12 more in 2009 — failed because the underlying trust was broken. The central bank spent $500,000 USD per week ordering new banknotes from Germany that were worthless by arrival.
 

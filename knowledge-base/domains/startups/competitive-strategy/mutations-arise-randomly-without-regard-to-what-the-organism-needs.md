@@ -56,6 +56,10 @@ related:
   - INS-260325-7B58
   - INS-260329-3FF3
   - INS-260330-E1CA
+evidence:
+  - id: INS-260327-A44E
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Carroll emphasizes that mutations are blind to the organism's needs. A color change might make one creature invisible to predators and another fatally visible. The same mutation that helps in warm climates hurts in cold ones. Even the external conditions — tectonic activity, volcanism — are largely random.
 

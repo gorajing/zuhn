@@ -55,6 +55,7 @@ related:
   - INS-260329-4DBC
   - INS-260329-F211
   - INS-260329-DACC
+  - INS-260330-9DC9
 ---
 Dr. Severance's Python course deliberately teaches variables, conditionals, loops, and functions as isolated building blocks that feel pointless in isolation. Students are told to 'suspend disbelief' until chapter 7, where file I/O suddenly makes everything click — loops process real data, conditionals filter real records, functions organize real workflows. This mirrors how mathematical education works: you learn algebra without knowing why until physics class retroactively justifies it.
 

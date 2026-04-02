@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260329-FCC6
   - INS-260329-3BEE
+  - INS-260402-426C
   - INS-260329-D37E
   - INS-260322-BFDE
   - INS-260330-D5BD
-  - INS-260323-FEDF
 ---
 'I tried my best' is a self-soothing narrative that the marketplace completely ignores. Customers, bosses, and competitive markets care about whether the required outcome was delivered, not about the effort curve that produced it. This creates an uncomfortable truth: if your best isn't sufficient, the only productive response is to raise your capacity until your best exceeds what is required.
 

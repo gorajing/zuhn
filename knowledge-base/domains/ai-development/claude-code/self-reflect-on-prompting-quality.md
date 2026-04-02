@@ -44,6 +44,10 @@ resolutions:
     prompts immediately restores output quality. The model is more consistent
     than your prompting habits.
 stance: Prompt quality should be examined before blaming the model for poor output
+evidence:
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 When Claude's output quality drops, the instinct is to blame the model.

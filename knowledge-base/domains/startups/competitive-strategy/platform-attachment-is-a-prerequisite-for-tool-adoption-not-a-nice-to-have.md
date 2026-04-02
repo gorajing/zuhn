@@ -46,12 +46,21 @@ stance: >-
   popular regardless of its intrinsic quality
 related:
   - INS-260323-F204
-  - INS-260321-2241
   - INS-260321-1A0B
   - INS-260323-7D3C
   - PRI-260321-7307
   - PRI-260323-00C6
   - INS-260325-FDF5
+evidence:
+  - id: INS-260323-F204
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260321-2241
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-1A0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Graham argues that programming languages don't exist in isolation — they become popular by being 'the scripting language of a popular system.' C rode Unix, Perl rode system administration, Java rode web browsers. Lisp, despite being arguably superior, failed to maintain popularity because it wasn't attached to any dominant platform after the MIT Lisp Machines died.
 

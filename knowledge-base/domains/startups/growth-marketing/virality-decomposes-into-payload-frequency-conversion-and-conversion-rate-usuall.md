@@ -58,6 +58,10 @@ related:
   - INS-260330-D21A
   - INS-260330-20F7
   - INS-260330-3363
+evidence:
+  - id: INS-260321-E59A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Sean Parker's framework decomposes virality into three factors: payload (how many people each viral blast reaches), frequency (how often you can hit the same person), and conversion rate (what percentage take action). This reveals why different viral products succeed for completely different reasons. Hotmail had low payload (one email at a time) but high frequency (emailing the same people daily) and high conversion (people wanted free email). PayPal had low payload and low frequency but near-perfect conversion (being told 'I'm sending you money' is irresistible).
 

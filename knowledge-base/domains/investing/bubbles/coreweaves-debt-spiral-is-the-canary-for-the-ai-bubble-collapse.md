@@ -54,6 +54,10 @@ related:
 stance: >-
   Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B
   negative free cash flow in 2026
+evidence:
+  - id: INS-260323-59C9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Zitron identifies Coreweave as the key indicator precisely because it's the strongest borrower: backed by Nvidia (who bought $2B in shares), Blackstone, JP Morgan, Goldman Sachs, and others. If Coreweave has trouble raising debt, it signals that Nebius, Nscale, Iron, and every smaller data center company will face the same wall.
 

@@ -53,13 +53,13 @@ related:
   - INS-260323-6BF4
   - INS-260327-8DDE
   - INS-260327-4C73
-  - INS-260329-8226
   - INS-260329-88AB
   - INS-260329-F9CD
   - INS-260330-748E
   - INS-260330-1718
   - INS-260330-3D7B
   - INS-260330-053D
+  - INS-260330-026B
 ---
 The Feynman technique—choose a concept, explain it to a 12-year-old, refine, simplify—works because teaching creates a tight feedback loop between understanding and gaps. When you try to explain something simply, every ambiguity in your mental model surfaces immediately. The author reports learning more about programming from running a YouTube channel than from years of solo work.
 

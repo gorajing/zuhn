@@ -56,6 +56,16 @@ related:
   - INS-260325-40DC
   - INS-260326-73C0
   - INS-260327-9BA2
+evidence:
+  - id: INS-260327-DD48
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-69CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-40DC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Harari proposes reframing AI from artificial to alien intelligence. Artificial implies an artifact we create and control. But AI increasingly thinks and behaves in fundamentally alien ways: AlphaGo discovered strategies that 2,000 years of human Go players never conceived, revealing that humanity had explored only a small island in the vast landscape of possible strategies.
 

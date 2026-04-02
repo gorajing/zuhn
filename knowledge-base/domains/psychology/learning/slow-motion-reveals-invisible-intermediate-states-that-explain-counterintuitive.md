@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     High-speed cameras reveal the arrow's mid-flight flex that explains how it
@@ -50,10 +50,12 @@ stance: >-
   slowing down observation is more productive than theorizing about endpoints.
 related:
   - INS-260330-E5BE
-  - INS-260329-4D06
-  - INS-260327-66AC
-  - INS-260327-4C73
-  - PRI-260323-F92B
-  - INS-260323-5609
+  - INS-260330-80A2
+  - INS-260330-FA2D
+  - INS-260330-5EFD
+  - INS-260330-8638
+  - INS-260330-CED2
+  - INS-260330-148C
+  - INS-260330-2E34
 ---
 The entire archer's paradox only seems paradoxical because the arrow's flex happens too fast to see. High-speed footage reveals a perfectly logical sequence: the string pushes the arrow, the arrow bends around the riser, oscillates, and dampens into straight flight. The 'paradox' dissolves entirely once you can observe the intermediate states. This principle applies broadly to debugging any counterintuitive outcome — in software (adding logging/tracing to reveal intermediate state), in learning (recording and reviewing your own performance), in business (instrumenting each step of a conversion funnel rather than just measuring endpoints). The instinct when facing a paradox is to theorize about why the endpoint is surprising, but the more productive approach is to slow down and observe what actually happens between input and output. The explanation is almost always in the invisible middle, not the visible endpoints.

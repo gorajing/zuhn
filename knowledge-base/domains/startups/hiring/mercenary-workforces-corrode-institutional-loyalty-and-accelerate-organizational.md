@@ -27,7 +27,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty
@@ -57,10 +57,9 @@ related:
   - INS-260327-178D
   - INS-260327-BE3F
   - INS-260327-7C60
-  - INS-260327-B3B3
   - INS-260330-E4DB
   - INS-260330-BF00
-  - INS-260327-64A5
+  - INS-260330-59FD
 ---
 The Roman Empire's military shift from citizen-soldiers to paid mercenaries is often cited as a key factor in its decline. Citizens fought because they had a stake in Rome's survival; mercenaries fought for pay and had no inherent loyalty to the institution. When external pressure mounted, mercenary armies fragmented rather than holding together.
 

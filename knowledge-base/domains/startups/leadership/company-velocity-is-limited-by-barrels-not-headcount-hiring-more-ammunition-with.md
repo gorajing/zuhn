@@ -50,5 +50,9 @@ related:
   - INS-260327-0D0B
   - INS-260325-FADB
   - INS-260322-D5EB
+evidence:
+  - id: INS-260327-0C4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Keith Rabois distinguishes between 'barrels' (people who can take an idea from conception through shipping, bringing others along) and 'ammunition' (talented people who need direction). Company velocity only increases when you add barrels — hiring more ammunition beyond a 1:10-20 ratio per barrel actually creates bottlenecks and frustration. The practical signal for identifying barrels: give someone a small task (like ordering smoothies for late-working engineers) and keep expanding scope until it breaks. Also watch who other employees spontaneously seek out for help — those organic magnets are your barrels. When you find them, promote aggressively and give equity generously because they're culturally specific and irreplaceable.

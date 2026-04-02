@@ -68,6 +68,10 @@ related:
 stance: >-
   Unlike the dot-com era, AI capex is financed by the most profitable companies
   in history and there are 'no dark GPUs' (every deployed GPU gets full...
+evidence:
+  - id: INS-260322-770D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 David George presents data showing the AI infrastructure buildout differs fundamentally from the dot-com bubble: capex is supported by cash flows (not speculation), capex as a percentage of revenue is considerably lower than dot-com levels, and public market multiples are priced on actual earnings growth rather than loss-making growth. The leading tech companies are described as 'the best businesses in the history of the world' based on their margin improvement trajectories.
 

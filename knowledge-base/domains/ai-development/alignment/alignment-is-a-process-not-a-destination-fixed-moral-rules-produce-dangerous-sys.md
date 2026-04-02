@@ -66,6 +66,16 @@ related:
 stance: >-
   Treating alignment as a one-time problem to solve (like writing commandments)
   rather than an ongoing learning process will produce AI systems that ...
+evidence:
+  - id: INS-260330-FDC2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-3585
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-DF02
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Emmett Shear argues that morality is a process of continuous learning, not a fixed set of rules. Historically, humanity made 'moral discoveries' — like realizing slavery was wrong — which means moral understanding evolves. If alignment is about being a morally good being, and moral goodness is a learning process, then any attempt to 'solve' alignment by encoding fixed values will produce a system that is frozen at one point in moral development.
 

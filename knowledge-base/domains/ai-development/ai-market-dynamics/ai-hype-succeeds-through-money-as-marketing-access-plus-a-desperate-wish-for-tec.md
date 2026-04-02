@@ -58,6 +58,16 @@ related:
 stance: >-
   The AI marketing machine works because massive capital buys corridor-of-power
   access, and people desperately want to believe technology can solve c...
+evidence:
+  - id: INS-260330-38C9
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-697F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260328-7241
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bender identifies three mechanisms driving AI hype acceptance. First, enormous money behind AI translates directly into marketing power and access to corridors of political power — the ability to shape narratives at the highest levels. Second, there's a deep human desire to believe that technology can solve existential crises: 'it would be lovely to think that with just a little bit more compute, climate crisis solved.' This desire for technological salvation makes people receptive to inflated claims.
 

@@ -50,11 +50,11 @@ stance: >-
   seeking reasons NOT to buy, because confirmation bias naturally drives us
   toward evidence that validates our existing beliefs.
 related:
+  - INS-260402-4719
   - INS-260321-3521
   - INS-260327-C79D
   - INS-260330-A954
   - INS-260329-C430
-  - INS-260330-3AF9
   - INS-260327-E3ED
 ---
 Confirmation bias drives investors to seek information that supports their existing view rather than challenges it. Ritholtz reframes proper investment research: for every position you want to take, actively seek the strongest arguments against it. What are the risks? What could go wrong? What alternatives exist?

@@ -54,6 +54,10 @@ related:
 stance: >-
   Private companies and individuals funding police technology (less than 1% of
   police budgets) can transform public safety because city budgets are t...
+evidence:
+  - id: INS-260323-F62A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 A striking pattern emerges: 100% of San Francisco's latest policing innovations were privately funded. In Atlanta, the police foundation contributes about $30 million per year. Ben Horowitz personally bought an ice machine and espresso machine for Vegas 911 dispatchers, cutting call wait times from 5 minutes to under 30 seconds.
 

@@ -61,5 +61,9 @@ related:
   - PRI-260328-EE02
   - INS-260325-160E
   - INS-260329-AB61
+evidence:
+  - id: INS-260329-AB61
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Chase strongly believes any long-horizon agent needs file system access, but not necessarily for the reasons you'd expect. The primary use isn't code execution — it's context management. When compacting context (necessary as long-running agents fill context windows), one strategy is to summarize but put full messages in the file system for retrieval if needed. When tool calls return large results, you can put them in the file system rather than passing everything to the model. A virtual file system backed by Postgres works for these patterns without actual code execution. But real file systems unlock additional capabilities: writing and running scripts, managing complex multi-file state. Chase notes this is hard to separate from model training — models are increasingly trained on file system interactions, creating a co-evolution between harness design and model capabilities. The open question he's grappling with: are coding agents a subcategory, or are all agents ultimately coding agents? If a computer's job is to do useful things and code is a good way to make computers do useful things, maybe every agent eventually needs to code.

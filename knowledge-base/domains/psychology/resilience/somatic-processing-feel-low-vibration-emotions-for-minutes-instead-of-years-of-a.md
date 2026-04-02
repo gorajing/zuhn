@@ -55,6 +55,10 @@ related:
 stance: >-
   When a low-vibration emotion surfaces, locate it physically in your body and
   feel it for a few minutes rather than bypassing it
+evidence:
+  - id: INS-260322-4090
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Unprocessed emotions keep cycling back as triggers because they were never properly metabolized. The common response is to reach for coffee, alcohol, phone, or screens to bypass the feeling. Somatic work offers an alternative: when a low-vibration feeling arises, physically locate where that emotion sits in your body and actually feel it for a few minutes.
 

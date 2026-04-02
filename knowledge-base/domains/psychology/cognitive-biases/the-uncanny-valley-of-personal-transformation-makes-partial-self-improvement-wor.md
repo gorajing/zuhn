@@ -23,8 +23,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Partially adopted personas trigger uncanny valley effects that repel rather
@@ -49,6 +50,12 @@ stance: >-
   Incompletely adopting a new persona (confidence, charisma, persuasion skills)
   produces worse outcomes than staying authentic because others detect the gap
   between performance and reality
+related:
+  - INS-260323-6908
+  - PRI-260325-3F50
+  - INS-260323-E81D
+  - INS-260325-537A
+  - INS-260323-99E0
 ---
 Every few months, bright nerds in San Francisco try to 'hack' themselves into becoming charismatic and persuasive, and the attempt almost invariably backfires. The problem is selection bias in techniques: methods that make you feel transformed are far more common than methods that actually transform you. And the most dangerous self-improvement parasites hijack your ability to distinguish real change from performed change.
 

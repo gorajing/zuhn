@@ -55,5 +55,9 @@ related:
   - INS-260330-76DA
   - INS-260330-CFEA
   - INS-260330-A151
+evidence:
+  - id: INS-260323-EF23
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Competitive debaters deliberately construct the best possible version of their opponent's argument before responding. This counterintuitive practice works for two reasons: First, the opponent (or audience) won't feel heard if you only address a distorted or partial version — they'll simply respond with 'that's not what I meant.' Second, after you finish speaking, the other side may have a breakthrough that strengthens their case — if you've already addressed that stronger version, you've preempted their best move. This is the opposite of strawmanning, where you attack the weakest version. In professional contexts, steelmanning builds credibility because observers see you engaging honestly rather than scoring cheap points. The practice also functions as an epistemic check: if you can't articulate the strongest version of the opposing view, you probably don't understand the issue well enough to argue about it.

@@ -64,6 +64,10 @@ related:
   - PRI-260328-E1CE
   - INS-260325-2B17
   - INS-260330-F8A2
+evidence:
+  - id: INS-260325-2B17
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Harari, self-identifying as conservative 'in the Burkean sense,' observes that conservative parties globally have abandoned their foundational insight: that institutions are flawed but take generations to build, humans lack the capacity to design perfect societies from scratch, and previous corrections from real historical events are baked into existing systems. The traditional conservative position held that institutions need amendment and improvement, not demolition.
 

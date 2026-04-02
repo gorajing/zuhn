@@ -51,5 +51,24 @@ related:
   - PRI-260328-8317
   - PRI-260328-D68F
   - INS-260330-D52B
+evidence:
+  - id: INS-260322-0D87
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-02CF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-3653
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-737B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-16B1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D52B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video identifies an ironic dynamic: when politicians and tech companies push 'everyone should code,' they frame it as expanding opportunity, but the economic effect is increasing labor supply in a specific market. Tech companies directly benefit from a larger pool of candidates competing for jobs, which puts downward pressure on salaries. The same pattern applies to any skill domain—when 'democratization' narratives are driven by the demand side of the market rather than the supply side, the primary beneficiary is the employer, not the new entrant. This has direct implications for evaluating any industry-backed 'skills initiative' or training program: ask who benefits from the expanded supply.

@@ -64,6 +64,10 @@ related:
 stance: >-
   Pre-RLHF models were well-calibrated on probabilities (80% meant 8/10 times),
   but human feedback training flattened this into the same vague probab...
+evidence:
+  - id: INS-260330-B08E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Yudkowsky reveals that early GPT models, before RLHF, were well-calibrated: when they said 80% probability, the event happened about 8 times out of 10. After applying RLHF, this nice calibration curve flattened into the same distribution humans use — where 'very improbable,' 'likely,' and 'probable maybe' all collapse to roughly 40%, with only 'certain' preserved. RLHF literally taught the model to be bad at probabilities in the exact same way humans are bad at probabilities.
 

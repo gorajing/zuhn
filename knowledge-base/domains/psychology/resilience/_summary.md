@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 134 insights
+> 136 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -75,6 +75,7 @@
 - `INS-260325-F707` [high] Lists of '3 traits of highly resilient people' are myths — research finds many factors with small effects, meaning resilience is not a fixed character trait but an emergent outcome of many interacting variables.
 - `INS-260325-CA88` [high] Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
 - `INS-260329-0B76` [high] Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
+- `INS-260330-59A4` [high] Self-awareness without self-acceptance makes the gap between who you are and who you want to be more painful, not less.
 - `INS-260329-3E3A` [high] The 'isms' you claim about yourself — I'm bad at X, I'm not a Y person — actively prevent you from becoming what you need to become.
 - `INS-260326-06A1` [high] Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
 - `INS-260329-4499` [high] Your self-respect degrades each time you break a promise to yourself, because you're the only one who knows your true capacity.
@@ -114,6 +115,7 @@
 - `INS-260330-E660` [medium] Happiness responds to deliberate practice more than most traits because the genetic constraint is looser than for physical or cognitive abilities.
 - `INS-260325-B4CB` [medium] Happiness is a feeling; joy is a story that says life is still worth loving even with all its brokenness.
 - `INS-260330-207D` [medium] Career anxiety is best addressed by channeling it into dedicated pursuit of your passion rather than retreating to safer options.
+- `INS-260330-593E` [medium] Nerds who can't accept their limitations either become crackpots (denial) or self-hating anti-nerds (reaction formation), while healthy acceptance enables actual productive work.
 - `INS-260327-7846` [medium] Late success isn't failed early success - the depth required for truly meaningful work often requires decades of development that early success shortcuts.
 - `INS-260329-BBF9` [medium] Reframe every purchase as 'would I work X hours for this item' to reveal its true cost.
 - `INS-260330-033A` [medium] Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.

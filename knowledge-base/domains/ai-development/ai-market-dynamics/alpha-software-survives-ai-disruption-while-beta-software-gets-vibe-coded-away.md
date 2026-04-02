@@ -58,6 +58,22 @@ related:
 stance: >-
   Software that makes you similar to everyone else (beta) will be replaced by
   AI/vibe-coding
+evidence:
+  - id: INS-260322-D58A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-D0F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-8AA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-40AA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-3D65
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Sankar introduces a rubric for evaluating which SaaS survives the AI wave: alpha vs beta software. Beta software made you more similar to everyone else — standardized ERP, generic project management, commodity CRM. The feedback loop was 'can I sell it?' not 'did it add value?' Alpha software expresses how you're different from competitors — it encodes your strategy, your unique workflows, your competitive advantage.
 

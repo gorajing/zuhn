@@ -53,6 +53,10 @@ related:
 stance: >-
   Korea's K-RAD CubeSat on Artemis 2 tests radiation effects on human tissue and
   Korean semiconductors
+evidence:
+  - id: INS-260325-EF79
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Korea's CubeSat (K-RAD Cube) deployed via Artemis 2 serves two strategic purposes: measuring cosmic radiation effects on simulated human tissue, and testing how Korean-manufactured semiconductors perform in the space environment. This dual-purpose design — getting biological and industrial data from a single small satellite — shows how smaller nations can participate meaningfully in the space economy through targeted, efficient missions.
 

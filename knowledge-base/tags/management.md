@@ -1,15 +1,13 @@
 # Tag: management
 
 - `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
-- `INS-260330-516E` YC considers how well founders handle employee termination to be one of the hallmarks of an effective startup founder.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
-- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260330-8733` Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.
+- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
 - `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
 - `INS-260330-14CA` Delegate fully when consequences are low and your conviction is low; override only when consequences are catastrophic and your conviction is high.
-- `INS-260330-78B8` Demoting an executive preserves their over-sized equity package while stripping their authority, creating resentment among better-performing employees with less compensation.
 - `INS-260330-47FB` Critical decisions must be evaluated through the eyes of every employee, not just the people directly involved.
 - `INS-260330-3CD9` Critical decisions must be evaluated through every employee's eyes, not just the people directly involved.
 - `INS-260330-5B0C` Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.

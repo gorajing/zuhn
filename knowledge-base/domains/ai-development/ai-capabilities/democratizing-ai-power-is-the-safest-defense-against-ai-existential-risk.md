@@ -60,6 +60,16 @@ related:
   - INS-260323-BC61
   - PRI-260323-57AC
   - INS-260330-4150
+evidence:
+  - id: INS-260323-8239
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-19B3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4150
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Howard frames the AI safety debate around two threat paths: (1) a human using superintelligence to destroy humanity, and (2) an agentic AI acting autonomously against human interests. He argues the human misuse scenario comes first chronologically, and centralizing AI power makes this worse, not better — the people who end up controlling centralized resources are precisely those most motivated by power accumulation.
 

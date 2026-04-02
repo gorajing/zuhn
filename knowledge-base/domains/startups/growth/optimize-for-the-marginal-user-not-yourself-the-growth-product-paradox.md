@@ -59,6 +59,10 @@ related:
   - INS-260327-472A
   - INS-260328-B57E
   - INS-260329-4696
+evidence:
+  - id: INS-260323-4945
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Schultz identifies a fundamental paradox: building an incredible product requires optimizing for power users, but driving growth requires optimizing for the marginal user — the person who doesn't get a notification, who has few friends, who is one bad experience away from churning. Facebook's growth accounting framework revealed that resurrected and churned user numbers dominate new user counts once you reach a few years of growth, and those users consistently had low friend counts and never found their magic moment.
 

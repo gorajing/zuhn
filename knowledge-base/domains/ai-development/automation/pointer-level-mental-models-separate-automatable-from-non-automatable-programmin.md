@@ -60,6 +60,16 @@ related:
   - INS-260329-A461
   - INS-260329-7C59
   - INS-260329-CC79
+evidence:
+  - id: INS-260329-393C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-E333
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-CC79
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial dedicates significant time to pointers — the concept where most beginners fail. Pointers require reasoning about indirection: a variable that holds not a value but a reference to where a value lives. This is fundamentally about maintaining a mental model of the memory layout, something that requires spatial reasoning about invisible state.
 

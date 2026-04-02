@@ -57,7 +57,11 @@ related:
   - INS-260330-E982
   - INS-260325-0688
   - PRI-260328-3FEF
-  - INS-260325-55D8
+  - INS-260402-CCC3
+evidence:
+  - id: INS-260325-24D1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In Wordle, getting all gray tiles feels deflating — no letters matched! But an all-gray result from a well-chosen word like SLATE (6% probability) still gives you 3.9 bits minimum, cutting possibilities dramatically. Meanwhile, a rare green-heavy pattern feels amazing but is too unlikely to bet on. This mirrors base-rate neglect: people overweight vivid, low-probability outcomes and underweight common-but-informative ones.
 

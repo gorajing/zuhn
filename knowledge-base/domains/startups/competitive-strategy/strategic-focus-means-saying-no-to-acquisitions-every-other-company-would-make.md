@@ -54,6 +54,6 @@ related:
   - INS-260330-0871
   - INS-260330-217C
   - INS-260330-930D
-  - INS-260330-DC0D
+  - INS-260402-9288
 ---
 While analysts regularly suggest Apple should buy Netflix, Tesla, or Activision to diversify its iPhone-dependent revenue, Apple's strategy is deliberately the opposite: acquire small companies for talent and specific technologies (Authentec for Touch ID, Siri for voice, NeXT for Steve Jobs), never for revenue diversification. Microsoft bought LinkedIn for 8x more than Apple's largest single acquisition. The implied criticism — that the world's most profitable company is 'bad with money' — misunderstands that absorbing a large company also means absorbing its culture, permanently diluting the extreme focus that makes Apple successful. The same philosophy explains why Apple makes few products and designs them minimally. Saying no to what every other company would say yes to is the strategy itself, not a failure to execute.

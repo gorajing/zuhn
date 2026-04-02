@@ -59,6 +59,13 @@ related:
 stance: >-
   Having a brilliant idea without an addressable market or distribution
   infrastructure turns you into free R&D for better-timed competitors.
+evidence:
+  - id: INS-260320-703F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260321-E4EB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Matt Hagger built Scatter, one of the first smartphone photo-sharing apps, before Instagram existed. Despite getting early Android access from Google and raising over $1M, the app stores were too new, the smartphone ecosystem was unstable, and distribution was nonexistent. Instagram later executed the same idea with perfect timing.
 

@@ -52,6 +52,10 @@ related:
 stance: >-
   Influencer marketing can deliver extraordinary or zero ROI — the variance
   comes from selection skill and creative direction, not the channel itself.
+evidence:
+  - id: INS-260330-264B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The same audience members who report influencer marketing failures also report successes. This proves the channel works — the variable is execution: which influencers you pick, what direction you give them, and what you're asking them to accomplish. This applies broadly: no marketing channel is inherently good or bad. The football analogy makes this concrete — a football generated billions in ROI for Messi but negative ROI (hamstring injury) for Gary.
 

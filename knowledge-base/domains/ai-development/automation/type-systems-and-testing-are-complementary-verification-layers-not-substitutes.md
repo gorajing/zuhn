@@ -62,6 +62,19 @@ related:
   - INS-260329-03B5
   - INS-260329-F688
   - INS-260329-0154
+evidence:
+  - id: INS-260329-5EE7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B214
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-A218
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-03B5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The CS50 course devotes significant time to both type hints and pytest, treating them as complementary verification layers. Type systems catch structural errors (wrong argument types, missing returns, incompatible interfaces) at write-time, while tests catch behavioral errors (wrong logic, edge cases, integration failures) at run-time. Neither subsumes the other.
 

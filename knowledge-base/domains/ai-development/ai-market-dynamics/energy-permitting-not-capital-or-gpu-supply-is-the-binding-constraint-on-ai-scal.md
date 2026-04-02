@@ -59,6 +59,13 @@ related:
   - INS-260330-F205
   - INS-260330-4C5A
   - INS-260323-5955
+evidence:
+  - id: INS-260323-F12F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-5955
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Zuckerberg outlined a progression of AI scaling bottlenecks: first GPU production constraints (now easing), then capital availability, but ultimately energy infrastructure. No one has yet built a single gigawatt training cluster — equivalent to a nuclear power plant dedicated solely to model training. The constraint isn't money or technology but the heavily regulated process of permitting new power plants and transmission lines, which involves years of lead time.
 

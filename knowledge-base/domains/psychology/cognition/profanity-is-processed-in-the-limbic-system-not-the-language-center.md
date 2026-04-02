@@ -52,6 +52,10 @@ related:
   - INS-260330-24CD
   - INS-260330-5A9E
   - INS-260323-2C19
+evidence:
+  - id: INS-260323-2C19
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Unlike regular vocabulary, which is processed in Broca's and Wernicke's areas in the left hemisphere, profanity is stored and retrieved by the limbic system — the brain's emotional processing center. This explains several otherwise puzzling phenomena: people with severe left-hemisphere damage who lose most language ability can still produce swear words fluently, and Tourette's syndrome (a limbic system condition) can produce involuntary coprolalia.
 

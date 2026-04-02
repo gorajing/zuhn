@@ -61,6 +61,13 @@ related:
 stance: >-
   Netanyahu's game-theoretic observation: no nation will voluntarily slow AI
   development to cooperate on regulation
+evidence:
+  - id: INS-260330-2EB0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-59FE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Netanyahu distills his AI conversations with Sam Altman and Elon Musk into a stark game-theoretic framework. Four conclusions: (1) no nation can avoid entering AI with full force, (2) regulation is needed, (3) global regulation is unlikely because no one will voluntarily stop competing, and (4) universal regulation may only become possible if AI itself comes to threaten human control universally.
 

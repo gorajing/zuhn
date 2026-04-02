@@ -50,12 +50,23 @@ related:
   - INS-260325-90C6
   - INS-260323-3A98
   - INS-260323-4D13
-  - INS-260324-782C
   - INS-260324-62A8
   - INS-260327-422B
   - INS-260330-F22A
+  - INS-260324-782C
   - INS-260330-DCFB
   - INS-260330-007E
+  - INS-260330-0AD5
+evidence:
+  - id: INS-260323-4D13
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-3A98
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 OpenAI faces the classic first-mover disadvantage: they funded the expensive research that proved AI capabilities were possible, but later entrants can build on published research and open-source foundations at dramatically lower cost. The 'random Swedish men in their bedroom' matching or exceeding OpenAI's capabilities represents the nightmare scenario for any pioneer.
 

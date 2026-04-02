@@ -54,5 +54,9 @@ related:
   - INS-260329-03B5
   - INS-260330-3B0B
   - INS-260330-202A
+evidence:
+  - id: INS-260330-0E6E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The course explicitly states that 'no good program has ever been written simply from the programmer sitting down and starting to write code' and compares coding without planning to driving to the Grand Canyon without a map. Three pseudocode methods are presented: flowcharts for visualizing function logic, chronological step-by-step descriptions, and combined approaches. This maps to broader cognitive science — externalizing your thinking before executing reduces working memory load and forces you to confront gaps in your mental model. The insight transfers beyond programming: any complex creative or analytical task benefits from a planning phase where you think in abstractions before committing to specific implementations.

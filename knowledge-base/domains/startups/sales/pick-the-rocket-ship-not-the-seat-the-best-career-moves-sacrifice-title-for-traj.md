@@ -73,6 +73,10 @@ related:
   - INS-260327-812B
   - INS-260328-00E8
   - INS-260330-90AD
+evidence:
+  - id: INS-260328-0DFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kevin Egan (CRO of Clickhouse, former CRO of Atlassian, VP Sales at Slack/Dropbox/Salesforce) gave Maggie a career-defining lesson: 'Pick the rocket ship, not the seat.' On a rocket ship, your career goes places you could never have imagined. If you fixate on the captain's seat, you miss the ride entirely. People want to know what you saw, what you built, what you learned — not what your title was.
 

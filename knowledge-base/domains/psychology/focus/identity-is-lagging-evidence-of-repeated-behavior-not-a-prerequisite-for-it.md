@@ -55,7 +55,6 @@ related:
   - INS-260329-3E3A
   - INS-260330-BA3A
   - PRI-260323-F92B
-  - INS-260330-B67C
 ---
 Hormozi inverts the common self-help framing of 'become the person who does X.' He argues identity is not a prerequisite for behavior but a consequence of it. You don't need to 'become a runner' before running — you run repeatedly and eventually the label 'runner' attaches to you as lagging evidence of accumulated reps.
 

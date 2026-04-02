@@ -60,6 +60,10 @@ related:
 stance: >-
   Kreischer's comedy lesson: the first spontaneous telling of a joke is almost
   always the best version
+evidence:
+  - id: INS-260329-FEBA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Kreischer describes a recurring pattern in his comedy craft: a joke told spontaneously for the first time lands perfectly, then he tries to 'razzle dazzle' it into a 15-minute bit, and the joke dies. His deaf child joke was simple and perfect — Louis CK loved it — but Kreischer's attempts to add gun control material and other layers destroyed it.
 

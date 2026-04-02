@@ -60,6 +60,10 @@ related:
 stance: >-
   Just as ChatGPT needed a language model, robots need a world foundation model
   that understands gravity, friction, inertia, and cause-and-effect
+evidence:
+  - id: INS-260323-C9B1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Huang draws a precise analogy between language AI and physical AI. ChatGPT's foundation model + retrieval/grounding = useful language AI. For robotics: Cosmos (a world foundation model that understands physical common sense) + Omniverse (physics simulation as ground truth) = physically grounded AI that can generate infinite training scenarios for robots.
 

@@ -47,6 +47,13 @@ resolutions:
 stance: >-
   Curated structured data enables reasoning about connections while vector
   memory only retrieves text blobs
+evidence:
+  - id: INS-260329-E6AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-7B2D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 There is a fundamental distinction between structured knowledge and

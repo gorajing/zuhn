@@ -59,5 +59,9 @@ related:
   - INS-260330-0317
   - INS-260327-07C9
   - INS-260329-AADB
+evidence:
+  - id: INS-260327-F4DB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Apple's acquisition history reveals a consistent pattern: every purchase fills a specific capability gap rather than adding a revenue stream. Authentec provided fingerprint sensor technology for Touch ID, Siri provided voice assistant capability, and NeXT provided both an operating system foundation and Steve Jobs himself. None were acquired for their existing revenue. This contrasts sharply with Microsoft's approach of buying LinkedIn or Activision for business diversification. The capability-acquisition model works because it preserves organizational focus — the acquired technology integrates into Apple's existing product vision rather than requiring Apple to manage an entirely new business with its own culture, customers, and competitive dynamics. For startups considering M&A strategy, this suggests that the question isn't 'what company can we afford?' but 'what specific capability gap would unlock our next product?'

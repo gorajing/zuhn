@@ -53,6 +53,25 @@ related:
   - INS-260329-577E
   - INS-260329-9C20
   - INS-260330-08E1
+evidence:
+  - id: INS-260330-C499
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-05C7
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-30AB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-577E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-9C20
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-08E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Howard points out that while LLM progress looked exponential in early 2023 (around GPT-4's release), by late 2023 all signs pointed to a sigmoid curve flattening out. The evidence: GPT-4 Turbo was worse than the original GPT-4, inference costs remained high, and each marginal improvement required disproportionately more compute investment.
 

@@ -1,6 +1,6 @@
 # Topic: ai-agents
 
-> 34 insights
+> 35 insights
 
 - `INS-260330-8F07` [high] AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster.
 - `INS-260330-EFFC` [high] AI agents' biggest impact is eliminating the friction between having an idea and starting work, not making coding faster.
@@ -32,6 +32,7 @@
 - `INS-260329-EAFD` [medium] Plan-mode AI that asks clarifying questions before building prevents the cascade of errors that come from premature generation.
 - `INS-260325-252D` [medium] Context rot in agents stems from poor context management design, not just model limits.
 - `INS-260325-F981` [medium] Month-long agents will need entirely new inference systems — current serving stacks cannot handle persistent execution.
+- `INS-260402-876A` [medium] A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 - `INS-260330-5DCA` [medium] The vine robot intubation device finds the trachea not through sensors or cameras but through passive compliance — its softness lets it naturally follow the correct anatomical path.
 - `INS-260322-3010` [medium] Upload bank and credit card statements to an AI agent to identify SaaS subscriptions that can be replaced with custom AI-built modules — one audit revealed $1000/month in replaceable subscriptions.
 - `INS-260320-E6DD` [medium] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.

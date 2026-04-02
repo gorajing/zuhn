@@ -58,6 +58,13 @@ related:
   - INS-260329-32DB
   - INS-260329-153F
   - INS-260329-70F2
+evidence:
+  - id: INS-260329-2B9A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-92C3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial structures 31 chapters around a deliberate complexity gradient: print statements → variables → data types → user input → calculator (combining all) → arrays → functions → return values → if statements → loops → guessing game (combining all) → pointers → classes → inheritance. Each project milestone integrates everything learned so far while creating motivation for the next concept.
 

@@ -53,5 +53,9 @@ related:
   - INS-260325-3A54
   - INS-260330-0149
   - INS-260330-B1A3
+evidence:
+  - id: INS-260323-4D14
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Hormozi told his YouTube vendor he was committed for 5-10 years, the vendor said no client had ever said that — they all wanted leads in 90 days. This reveals a structural market inefficiency: almost no one operates on decade timelines, which means anyone who does faces dramatically less competition in the long game. The emotional benefit is equally important: when your self-assessment is tied to activities you control over a decade, short-term fluctuations stop triggering identity crises. You feel the same at year one as year eight because the measurement criteria never changed. This emotional stability itself becomes a competitive advantage — you don't burn out, you don't panic-pivot, and you don't quit during the inevitable plateau years.

@@ -58,10 +58,12 @@ related:
   - PRI-260323-A33E
   - PRI-260323-CE34
   - INS-260330-3504
-  - INS-260330-420B
 evidence:
   - id: INS-260330-CC51
     type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-BEF0
+    type: TRANSFERS_TO
     classified_at: '2026-04-02'
 ---
 Columbia biologist Stuart Firestein reframes the relationship between knowledge and ignorance: facts are photographs from a road trip, but ignorance is the fuel driving the vehicle forward. 'It is a mistake to bob around in the circle of facts, instead of riding the wave to the great expanse lying outside the circle.'

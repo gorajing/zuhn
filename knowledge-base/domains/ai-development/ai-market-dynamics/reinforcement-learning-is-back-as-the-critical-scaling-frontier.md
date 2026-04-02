@@ -55,6 +55,10 @@ related:
   - INS-260327-E0B0
   - INS-260325-4E96
   - INS-260321-B7CB
+evidence:
+  - id: INS-260321-B7CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Josh Tobin invokes Yann LeCun's cake analogy: unsupervised learning is the cake, supervised learning is the frosting, and RL is the cherries on top. In 2015-2016, researchers were 'trying to add the cherries before we had the cake.' Now, with powerful pretrained models that follow instructions well, RL can tune those models for any use case with a definable reward function.
 

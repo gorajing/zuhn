@@ -51,5 +51,9 @@ related:
   - INS-260330-6A94
   - INS-260330-881A
   - INS-260327-FC21
+evidence:
+  - id: INS-260320-6CCE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rabois describes a diagnostic he uses with struggling CEOs: first ask them to rank their priorities on paper, then pull up their Google Calendar and manually tally hours against those priorities. The result never matches. The most common misalignment is recruiting — roughly half of CEOs claim it's their #1 priority, but it's almost never the largest block on their calendar. This technique works because it bypasses narrative self-deception. You can tell yourself recruiting matters most, but if you're spending 5% of your time on it, you've revealed your actual priorities through behavior. The fix is mechanical: reallocate calendar blocks to match stated priorities, and repeat the audit monthly.

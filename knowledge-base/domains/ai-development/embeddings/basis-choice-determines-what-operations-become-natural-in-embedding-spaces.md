@@ -53,5 +53,18 @@ related:
   - INS-260330-2689
   - INS-260330-3B6C
   - INS-260329-4109
+evidence:
+  - id: INS-260330-B4DA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4F49
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-2689
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4109
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The video emphasizes that basis vectors are a choice, not a given — different bases make different problems easy. This maps directly to embedding spaces in AI: the basis learned during training determines which semantic relationships become simple vector arithmetic (like the famous king - man + woman = queen) and which remain opaque. When nomic-embed-text or any embedding model trains, it's implicitly choosing a basis that makes certain similarity judgments natural. This explains why some semantic queries work beautifully in vector search while others fail — the trained basis didn't align with that particular semantic axis. Understanding this helps diagnose embedding search failures: the issue may be basis alignment, not model quality.

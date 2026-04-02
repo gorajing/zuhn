@@ -58,6 +58,16 @@ related:
 stance: >-
   The widely accepted belief that AGI is inevitable and we're racing toward it
   is a community assumption masquerading as scientific consensus
+evidence:
+  - id: INS-260330-0E86
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-C569
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-FD99
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When asked what widely accepted view in AI she disagrees with, Bender names AGI inevitability — the assumption that artificial general intelligence is a destination everyone is racing toward, with only the question of who arrives first. She argues this is not a scientific conclusion but a shared belief within a specific community (rooted in Effective Altruism and figures like Nick Bostrom) that has been elevated to unquestioned dogma.
 

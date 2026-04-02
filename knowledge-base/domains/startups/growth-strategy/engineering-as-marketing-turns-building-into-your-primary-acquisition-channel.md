@@ -49,6 +49,10 @@ related:
 stance: >-
   Build free tools targeting SEO keywords to drive organic traffic instead of
   doing traditional marketing.
+evidence:
+  - id: INS-260321-807B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 For builder-founders who hate marketing, 'engineering as marketing' flips the script: instead of writing content or doing cold outreach, you build small free tools that rank on Google for specific keywords. Banu built 50+ free tools for SiteGPT, driving 90% of their 50K monthly Google clicks. Each tool relates to the core product so users are potential customers.
 

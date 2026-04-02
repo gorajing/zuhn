@@ -50,5 +50,12 @@ related:
 stance: >-
   AI systems launch knowing only half of what they need — the rest must be
   learned through real-world usage and continuous human feedback.
+evidence:
+  - id: INS-260323-348F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-856B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When you deploy an AI agent for a specific business use case, expect it to know 50-60% of what it needs on day one. The remaining 40% comes through reinforcement learning — people actually using it, grading responses, correcting mistakes, and feeding back real-world data. This is why OpenAI leads: not because of better chips or smarter scientists, but because 100 million daily active users provide incomparable reinforcement data. For enterprise AI, this means launch is not the finish line — it's the starting line of a continuous improvement process that most organizations abandon too early. Evaluation pipelines and backtesting against historical data (e.g., running the last 1000 support tickets through your AI) are essential but routinely skipped.

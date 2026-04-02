@@ -61,6 +61,16 @@ related:
   - INS-260330-7E61
   - INS-260322-13D6
   - INS-260327-561F
+evidence:
+  - id: INS-260323-8897
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-0A81
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-7E61
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Russell's most counterintuitive insight is that the solution to AI safety comes from deliberately building in ignorance. His three principles are: (1) the machine's only objective is maximizing human values, (2) the machine is uncertain about what those values are, and (3) it learns about human values by observing human behavior. The critical mechanism is principle two.
 

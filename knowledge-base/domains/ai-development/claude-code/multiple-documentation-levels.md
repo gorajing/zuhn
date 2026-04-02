@@ -50,6 +50,10 @@ resolutions:
 stance: >-
   Multiple documentation levels are needed to help AI navigate large codebases
   effectively
+evidence:
+  - id: INS-260330-70A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 Large codebases need layered documentation for Claude to navigate

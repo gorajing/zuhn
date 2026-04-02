@@ -51,7 +51,6 @@ related:
   - INS-260327-7214
   - INS-260330-125E
   - PRI-260324-2C9F
-  - INS-260322-2DBD
   - INS-260330-D006
 ---
 We tend to dismiss practical, intuitive knowledge of AI as inferior to understanding the technical architecture. Shipper argues this is the Socratic bias at work: if you cannot explicitly define the rules, you do not really know it.

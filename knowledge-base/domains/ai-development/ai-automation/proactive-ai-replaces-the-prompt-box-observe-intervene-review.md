@@ -49,6 +49,19 @@ related:
 stance: >-
   The next generation of AI apps will observe user behavior and proactively
   suggest actions rather than waiting for prompts.
+evidence:
+  - id: INS-260329-BCB7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-3A71
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-AA76
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8AA1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Mark Andreesko argues the prompt box is dying as the primary AI interface. The best AI apps will behave like S-tier employees: they identify problems, research solutions, implement one, and only ask for final approval. This shifts AI software from a $300-400B software TAM to attacking the $13T US labor market.
 

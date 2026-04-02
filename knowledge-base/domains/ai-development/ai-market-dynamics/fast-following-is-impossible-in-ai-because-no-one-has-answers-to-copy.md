@@ -52,6 +52,19 @@ related:
 stance: >-
   AI application to specific industries has no proven playbook anywhere in the
   world, making benchmarking-based strategy obsolete.
+evidence:
+  - id: INS-260327-767B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-444F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-7942
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-960A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Korea's industrialization success came from fast-following: studying developed nations' proven approaches (open-book exam). Three conditions enabled this: (1) slow-moving heavy industry allowed catch-up, (2) globalization meant knowledge was shared freely, (3) the hungry spirit drove 150-hour work weeks. All three conditions are now gone.
 

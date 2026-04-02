@@ -57,6 +57,10 @@ related:
   - INS-260329-3EB6
   - INS-260329-D8BC
   - INS-260329-49A4
+evidence:
+  - id: INS-260325-9C89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi introduces the concept of a BOOM (Business Order of Magnitude change) to distinguish between incremental optimization and exponential growth levers. Conversion rate optimization — improving landing pages, email follow-ups, close rates — is inherently capped. You can only go from 0% to 100%. But advertising reach can scale 100x with no theoretical ceiling.
 

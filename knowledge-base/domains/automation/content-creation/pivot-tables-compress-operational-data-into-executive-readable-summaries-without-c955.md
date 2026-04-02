@@ -60,6 +60,10 @@ related:
   - INS-260329-83AA
   - INS-260322-F46F
   - INS-260329-8F86
+evidence:
+  - id: INS-260325-E23D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The car inventory project culminates in pivot tables that summarize hundreds of vehicle records by make, model, year, and price range. This is functionally identical to what a data analyst would write as SELECT make, AVG(price), COUNT(*) FROM cars GROUP BY make — but accessible to anyone who can drag and drop fields.
 

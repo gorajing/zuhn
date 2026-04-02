@@ -47,10 +47,10 @@ stance: >-
   it must have often lets you reverse-engineer the answer.
 related:
   - INS-260325-898A
+  - INS-260330-C31B
   - INS-260329-0CC5
   - INS-260330-579B
   - INS-260330-1E5E
-  - INS-260329-9CBB
   - INS-260328-12EE
 ---
 Sanderson demonstrates a powerful problem-solving pattern with the integral function A(x): 'We don't know what A(x) is, that remains a mystery. But we do know a property that this mystery function must have' — namely, that dA/dx ≈ x². By discovering this constraint (the derivative relationship), the unknown function becomes determinable through reverse-engineering.

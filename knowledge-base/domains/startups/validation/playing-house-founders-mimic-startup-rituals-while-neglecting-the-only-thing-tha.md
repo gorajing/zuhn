@@ -52,7 +52,6 @@ stance: >-
   office, hire friends) while skipping the essential act of making something
   people want
 related:
-  - INS-260327-5297
   - INS-260328-F303
   - INS-260328-D775
   - INS-260330-5A0A

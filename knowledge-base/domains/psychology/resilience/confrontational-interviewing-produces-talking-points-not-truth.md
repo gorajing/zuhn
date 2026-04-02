@@ -62,6 +62,10 @@ related:
   - INS-260329-4D5E
   - INS-260330-281A
   - PRI-260327-3BD9
+evidence:
+  - id: INS-260322-2A3A
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Both Carlson and Fridman articulate the same interviewing insight from different angles: confrontational questioning ('grilling') satisfies the audience's desire for drama but produces only rehearsed defensive responses. The subject shuts down and retreats to safe talking points. Conversely, letting someone talk at length in a non-threatening environment reveals their actual mental models and reasoning.
 

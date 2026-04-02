@@ -53,7 +53,6 @@ stance: >-
   consciousness than adding more frameworks or concepts about it.
 related:
   - INS-260323-8266
-  - INS-260323-BEE6
   - PRI-260328-902C
   - INS-260329-A45D
   - INS-260330-909E
@@ -62,6 +61,7 @@ related:
   - INS-260330-95A5
   - INS-260330-E107
   - INS-260330-A47D
+  - INS-260330-6E6A
 ---
 The meditation follows a via negativa structure: start with breath, expand to body, notice sounds, then systematically drop each anchor until you're left with awareness itself. This subtractive approach — finding truth by removing what is false — is more reliable than additive approaches that pile on concepts, models, or frameworks.
 

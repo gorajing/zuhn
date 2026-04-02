@@ -58,6 +58,10 @@ related:
 stance: >-
   The giant impact hypothesis became the leading Moon origin theory not because
   it was proven, but because it was 'the least bad' option
+evidence:
+  - id: INS-260321-D959
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Before the 1984 Hawaii conference, no scientist ranked any Moon origin theory as 'probable.' The giant impact hypothesis was not even on the survey. Yet it emerged as the consensus winner — not because evidence proved it, but because it failed less badly than alternatives at matching observable constraints like angular momentum and iron depletion.
 

@@ -45,5 +45,12 @@ related:
 stance: >-
   Karpathy's auto-research loop found hyperparameter improvements overnight that
   his two decades of ML experience missed
+evidence:
+  - id: INS-260325-9F12
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9471
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 After manually tuning his GPT model for months using his own expert intuition from two decades of ML research, Karpathy let auto-research run overnight. It found improvements he didn't see — specifically weight decay on value embeddings and insufficiently tuned Adam betas. The key insight is that these parameters interact jointly, so tuning one changes what's optimal for others. No human can efficiently search this joint space. If it works on a 'fairly well tuned' model, it works on anything.

@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 175 insights
+> 172 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -38,6 +38,7 @@
 - `INS-260330-9751` [high] Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
 - `INS-260329-4870` [high] A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
 - `INS-260323-53BF` [high] Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
+- `INS-260402-91B5` [high] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260330-2CE5` [high] YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
 - `INS-260327-294E` [high] Give AI all your implicit context explicitly—that's the real skill, not clever prompting.
 - `INS-260323-8392` [high] Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
@@ -63,7 +64,6 @@
 - `INS-260327-89E4` [high] Stop running surveys—face-to-face interviews reveal the real pain points that users can't articulate in forms.
 - `INS-260330-BEE7` [high] Successful founders personally handle customer support, obsess over tiny product details, and maintain the tightest possible feedback loop with users — especially in the first year.
 - `INS-260330-AB95` [high] Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
-- `INS-260330-516E` [high] YC considers how well founders handle employee termination to be one of the hallmarks of an effective startup founder.
 - `INS-260330-258F` [high] Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - `INS-260329-62C1` [high] As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
 - `INS-260330-EBFD` [high] Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
@@ -100,7 +100,6 @@
 - `INS-260327-7D0B` [high] Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
 - `INS-260327-1064` [high] The natural tendency of tech founders is to ignore operations, but for many businesses, operational execution determines success or failure.
 - `INS-260329-3FA6` [high] Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
-- `INS-260330-B15C` [high] The instinct to add Kubernetes, Redis caching, and GraphQL before having users is a predictable failure pattern that delays shipping.
 - `INS-260328-6A18` [high] Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
 - `INS-260328-6E7A` [high] The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
@@ -108,7 +107,6 @@
 - `INS-260327-DB8F` [high] PMF is not strategy—it's the volume of genuine user conversations you have.
 - `INS-260329-D1B0` [high] Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260327-8D5D` [high] Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
-- `INS-260330-45FF` [high] The Constitutional Convention only happened because wealthy bondholders and elites feared losing their investments under the Articles' inability to collect taxes and repay debts.
 - `INS-260327-0700` [high] Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260330-4F7B` [high] Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
 - `INS-260330-A44F` [high] Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
@@ -161,7 +159,6 @@
 - `INS-260329-7A3C` [medium] Fill your calendar from 5pm backward so meetings stack at the end of the day and mornings stay open for deep work.
 - `INS-260327-767B` [medium] In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
 - `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
-- `INS-260329-4605` [medium] Running a pre-mortem (listing all ways to fail) and building specific guardrails is higher-leverage than brainstorming growth strategies.
 - `INS-260327-5297` [medium] When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.

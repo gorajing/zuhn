@@ -65,6 +65,10 @@ related:
   - PRI-260328-0332
   - INS-260329-EF96
   - INS-260329-0CDD
+evidence:
+  - id: INS-260322-F65F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Shelby reframes sales from manipulation to emotional leadership: you're leading people through a hard decision that will genuinely improve their lives. The key distinction is whether you believe your solution actually helps. If you do, you have a duty to push through their hesitation. If you don't, it's manipulation.
 

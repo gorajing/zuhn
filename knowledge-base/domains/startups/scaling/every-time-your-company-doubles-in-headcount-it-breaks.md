@@ -52,6 +52,10 @@ related:
   - INS-260325-73C0
   - INS-260322-36E3
   - INS-260330-956E
+evidence:
+  - id: INS-260323-8D12
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Beller states that every time a company doubles in headcount, it breaks. The processes, communication patterns, and management structures that worked for 10 people don't work for 20. What worked for 20 doesn't work for 40. Postscript grew to 270+ people and experienced this repeatedly.
 

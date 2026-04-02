@@ -56,6 +56,16 @@ related:
   - INS-260323-AF7B
   - INS-260327-6A4B
   - INS-260329-A8D3
+evidence:
+  - id: INS-260323-9B49
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9D44
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-6A4B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Recursive Intelligence's thesis is that chips are the fuel for AI scaling laws, and there's a fundamental mismatch between how fast AI methods evolve (months) versus how long chips take to design (years). By dramatically accelerating chip design with AI, they can enable co-design and co-evolution of models and hardware together.
 

@@ -53,6 +53,10 @@ related:
 stance: >-
   Stan Lee tested Spider-Man in a dying magazine's last issue because nobody
   cared what went in it
+evidence:
+  - id: INS-260325-24D1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Stan Lee's publisher rejected Spider-Man on every dimension — wrong animal, wrong age, wrong level of personal problems — Lee found a workaround. Amazing Fantasy was being cancelled, and nobody cared what went in the last issue. So he put Spider-Man on the cover of a dying magazine. It became the highest-selling issue, and the publisher came running back claiming they both loved the character.
 

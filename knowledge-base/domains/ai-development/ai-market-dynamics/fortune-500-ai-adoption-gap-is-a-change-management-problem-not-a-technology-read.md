@@ -65,6 +65,19 @@ related:
 stance: >-
   Fortune 500 CEOs universally say they want to become AI companies, but actual
   deployment lags because change management across large organizations ...
+evidence:
+  - id: INS-260327-969D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7265
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-9BC0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A25A
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 a16z reports a significant disconnect between Fortune 500 CEO rhetoric ('we have to adapt, we're dying to understand AI tools, we're ready to change') and actual organizational change. The biggest barrier isn't technology readiness — it's change management. Getting thousands of employees to adopt AI tools, changing established business processes, and putting AI into production workflows is extremely hard.
 

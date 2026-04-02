@@ -57,6 +57,13 @@ related:
   - PRI-260324-36BF
   - INS-260321-CBD2
 stance: AI labs are already profitable on current models
+evidence:
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-CBD2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Epoch AI frames the bubble question precisely: if AI labs stopped developing new models today and just ran inference on existing ones, they would be profitable. The money being spent is on building even larger future models, which is the actual gamble. This means the 'bubble' framing is misleading — current AI is clearly generating real value (people are paying for it), but the massive capex on next-generation models could become a bubble if scaling returns diminish.
 

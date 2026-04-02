@@ -60,6 +60,10 @@ related:
 stance: >-
   If the Moon is necessary for complex life, then its improbable formation
   should be expected
+evidence:
+  - id: INS-260327-0692
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video ends with a powerful reframe: if our big weird Moon helped shield Earth's atmosphere, stabilize its axial tilt, and create tidal wet-dry cycles that facilitated the chemistry of first life, then we should expect to find ourselves orbiting a planet with an improbably large Moon. We are not sampling random Earth-Moon systems — we are sampling the subset that produced observers.
 

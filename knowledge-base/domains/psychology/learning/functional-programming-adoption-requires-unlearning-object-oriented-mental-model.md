@@ -56,5 +56,9 @@ related:
   - INS-260329-7C59
   - INS-260329-E208
   - INS-260329-2F63
+evidence:
+  - id: INS-260320-DEAF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video describes developers getting 'jaded with big heavy object-oriented languages and going searching for a better way' at the functional programming tier. The key insight is that functional programming (immutability, no side effects, functions as the primary abstraction) isn't inherently more difficult than OOP — Haskell's core concepts are arguably simpler than design pattern-heavy Java. The real barrier is *unlearning*. Developers who've internalized OOP patterns (classes, inheritance, mutable state) must actively suppress those instincts to think functionally. This is why monads are notoriously confusing — not because the concept is hard, but because developers keep trying to map it to OOP concepts it doesn't correspond to. This generalizes to any paradigm shift: the difficulty isn't the new thing, it's releasing the old thing. In AI development, the same dynamic plays out when engineers trained on deterministic systems struggle with probabilistic AI outputs.

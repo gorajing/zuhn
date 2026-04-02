@@ -58,6 +58,10 @@ related:
   - INS-260321-F864
   - PRI-260328-9F8C
   - INS-260327-9BA2
+evidence:
+  - id: INS-260321-F864
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Peterson makes an underappreciated point about steel-manning: as scientists, 'what we're actually trying to do is find out if there's something we're thinking that's stupid.' The goal isn't charitable representation for its own sake — it's stress-testing your own position by making the opposing argument maximally strong. If someone 'comes along and says you've made a mistake in this fundamental proposition — yes, great, that means I can make progress toward a more solid theory of being.'
 

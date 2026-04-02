@@ -48,6 +48,10 @@ resolutions:
     automations reproducible -- users can fork the repo, add their API
     keys, and have a working pipeline in minutes.
 stance: n8n workflows should be exported as JSON and shared openly on GitHub
+evidence:
+  - id: INS-260327-B9AD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 
 The business analysis workflow is fully open source on GitHub

@@ -62,6 +62,10 @@ related:
   - INS-260329-34EE
   - INS-260329-8233
   - INS-260329-1075
+evidence:
+  - id: INS-260325-E23D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The tutorial's progression from abstract concepts to ER diagram design reveals something important about how we think about complex systems. An ER diagram forces you to make explicit decisions that would otherwise remain implicit: Is this a one-to-many or many-to-many relationship? Does this entity need its own table or is it an attribute? Can this relationship have its own properties?
 

@@ -54,6 +54,10 @@ resolutions:
 stance: >-
   A sequential hook pipeline of format-build-check-remind leaves zero errors
   behind
+evidence:
+  - id: INS-260329-D48B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 The complete hook pipeline operates as a sequential quality gate after

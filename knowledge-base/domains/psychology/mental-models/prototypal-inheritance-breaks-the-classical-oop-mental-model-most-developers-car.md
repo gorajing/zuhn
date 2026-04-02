@@ -58,6 +58,10 @@ related:
   - INS-260329-41BC
   - INS-260329-DBFE
   - INS-260329-C33B
+evidence:
+  - id: INS-260329-4D03
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Most developers learn class-based OOP first (Java, C++, Python) and then project that mental model onto JavaScript's class keyword. But JS classes are syntactic sugar — underneath, every object has a private prototype property linking to exactly one other real, in-memory object. This is prototypal inheritance, not classical.
 

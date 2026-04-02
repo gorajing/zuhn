@@ -61,6 +61,22 @@ related:
 stance: >-
   AI model input costs have declined 99%+ in two years (faster than Moore's law)
   while quality doubles every 7 months
+evidence:
+  - id: INS-260328-0B99
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-770D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-C15B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-96C9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 a16z's growth fund evaluates AI companies differently from mature SaaS. Model input costs have declined over 99% in two years — a 100x decline exceeding Moore's law. Simultaneously, frontier model capabilities double every 7 months. This means AI application companies that have thin gross margins today will likely see dramatic margin expansion without raising prices, because they can deliver more value with cheaper, better models.
 

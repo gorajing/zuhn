@@ -54,6 +54,16 @@ related:
   - INS-260328-6C9A
   - INS-260329-4488
 stance: Jensen Huang argues the last decade was about the science of AI
+evidence:
+  - id: INS-260325-4C09
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-9CDC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4488
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 According to Huang, the fundamental science of AI — proving that deep neural networks can learn patterns from data, that they scale predictably, that they can process any modality (text, images, protein sequences, video, robot actions) — has been established. The transformative realization: you can go from text to text, text to images, images to text, amino acid sequences to protein structures, and words to robot action tokens. From the computer's perspective, they're all the same translation problem.
 

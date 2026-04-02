@@ -23,8 +23,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When exaggerated claims are excused as 'pointing in the right direction,'
@@ -53,6 +54,13 @@ stance: >-
   Tolerating claims defended as merely 'directionally correct' creates a ratchet
   effect where everyone exaggerates to the maximum they can plausibly walk back,
   eventually making political opponents seem like existential threats.
+related:
+  - INS-260330-2030
+  - INS-260330-E0ED
+  - INS-260330-AF47
+  - PRI-260324-8EE6
+  - INS-260402-D0F2
+  - INS-260330-ABBF
 ---
 Alexander identifies a specific mechanism by which public discourse degrades: the norm of 'directional correctness.' When someone makes an extreme claim ('Democrats will hunt and kill you') and faces pushback, they retreat to 'Well, it's directionally correct — Democrats do sometimes go overboard.' This creates a ratchet effect. If exaggeration is tolerated as long as it 'points to' something real, rational actors maximize their claims to the highest level they can plausibly walk back (classic motte-and-bailey). The result: 5% of the audience fully believes the extreme version, 50% absorb the connotation and update toward it, and gradually everyone treats politics as existential warfare.
 

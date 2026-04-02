@@ -61,6 +61,10 @@ related:
   - INS-260329-CEC5
   - PRI-260328-1D90
   - INS-260330-06E3
+evidence:
+  - id: INS-260322-888D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Traditional social media platforms like Facebook and YouTube are built around social graphs — you follow people and see their content. ByteDance inverted this by making the algorithm the product. Users don't need to follow, friend, or search for anything; they just open the app and swipe. Because short videos generate vastly more behavioral signals per session than long-form content (you might watch 100 TikToks vs. 5 YouTube videos), the algorithm learns preferences faster and creates a self-reinforcing loop: better recommendations → more usage → more data → even better recommendations.
 

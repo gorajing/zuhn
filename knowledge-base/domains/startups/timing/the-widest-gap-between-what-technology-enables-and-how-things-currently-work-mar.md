@@ -51,11 +51,12 @@ stance: >-
   versus current practice reaches its maximum width.
 related:
   - INS-260327-02CF
-  - INS-260330-7168
   - INS-260330-1F25
   - INS-260330-13E8
+  - INS-260402-426C
   - PRI-260328-A1AA
-  - INS-260326-80B1
+  - INS-260330-7168
   - INS-260330-D6ED
+  - INS-260330-0AD5
 ---
 Levie describes a repeatable pattern for identifying enterprise startup opportunities: look for changes in underlying enabling technologies (cost of computing, storage, bandwidth, new form factors like mobile) that create a widening gap between what is now possible and how things are still being done. Box was founded when storage costs were plummeting and browsers were improving, yet file sharing remained expensive and cumbersome. PlanGrid saw the iPad as the perfect form factor for construction blueprints, eliminating $4B/year in printing costs. Levie notes that many 'new' ideas are actually recycled from 10-20 years ago — the difference is that enabling technologies have finally made them economically and technically feasible. The practical advice is to look at technology articles from past decades, identify ideas that failed due to cost or usability constraints, and check whether those constraints have since been removed. The wider the gap between possibility and current practice, the larger the startup opportunity.

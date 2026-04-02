@@ -53,5 +53,15 @@ related:
   - INS-260330-AB67
   - INS-260321-4E98
   - INS-260327-A22D
+evidence:
+  - id: INS-260327-5661
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-4E98
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A22D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Stripe is building a 'machine payment protocol' (co-designed with Tempo) that enables agents to make micro-transactions with third-party services during task execution. In the demo, a Claude agent planning a birthday party paid BrowserBase for a browser session, Parallel AI for web search, and PostalForm for physical mail — all autonomously, with a total spend of about $5.47. The key shift is from agents that only consume LLM tokens to agents that transact across an economy of services. This creates a new category of 'ephemeral, API-first businesses' where the primary customer is an agent, not a human — no dashboard, no landing page, just a hyper-useful single API. The economics become very transparent: token costs and service costs sit side by side in an 'agent receipt,' making the true cost of agentic work visible.

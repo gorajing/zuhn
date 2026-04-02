@@ -59,6 +59,13 @@ related:
   - INS-260327-BE4E
   - INS-260330-4B30
   - INS-260325-26C6
+evidence:
+  - id: INS-260330-189F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-26C6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Tesla's autonomous driving stack evolved from single-frame image recognition on individual cameras, through a 'giant bag of points' architecture where neural nets output pixel-level classifications that C++ code assembles into vector space, to an end-to-end approach where neural nets directly output proper vectors (lane lines, curbs, drivable space, pedestrians). Each transition dramatically reduced code complexity while increasing capability.
 

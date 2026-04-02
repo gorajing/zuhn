@@ -22,8 +22,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Theoretical fields based on logical implications of assumptions can be
@@ -50,6 +51,14 @@ stance: >-
   AI can accelerate theoretical fields (math, theoretical physics, economics)
   far more easily than experimental fields because theoretical work only
   requires logical consistency, not physical verification.
+related:
+  - INS-260321-B014
+  - INS-260329-8226
+  - INS-260330-E282
+  - INS-260321-D959
+  - INS-260323-2FC3
+  - PRI-260323-2FEE
+  - PRI-260324-F9CD
 ---
 There's a fundamental asymmetry in how AI accelerates different types of science. In theoretical fields — mathematics, theoretical physics, theoretical economics — the work consists of deriving logical implications from a set of assumptions. This is something machines excel at, and AI can often produce results in a near push-button manner (though checking the output remains a human task).
 

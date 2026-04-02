@@ -50,6 +50,16 @@ resolutions:
 stance: >-
   Careers where AI is a tailwind will outperform careers that AI directly
   automates
+evidence:
+  - id: INS-260327-F55A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0346
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-3CDE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Dario Amodei's career advice centers on positioning AI as a tailwind

@@ -54,5 +54,12 @@ related:
   - PRI-260322-94C4
   - INS-260330-B38B
   - PRI-260321-14D8
+evidence:
+  - id: INS-260327-6A45
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B38B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 As generative AI rapidly commoditizes the basic synthesis of information, standard reporting and summary will approach zero economic value. The platforms that thrive are those offering what machines cannot replicate: idiosyncratic philosophical musings, empirical physical curiosity, empathetic dialectic, and original thought. Creators like Scott Alexander, Derek Muller, and Sam Harris provide not just data but human judgment, moral frameworks, and original connections between abstract data points and lived human experience. The future premium accrues to those who can do what AI cannot — connect disparate fields through genuine curiosity, apply ethical reasoning to novel situations, and produce insights that emerge from embodied human experience rather than pattern matching.

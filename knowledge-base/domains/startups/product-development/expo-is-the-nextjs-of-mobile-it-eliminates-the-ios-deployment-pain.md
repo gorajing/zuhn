@@ -52,5 +52,12 @@ related:
   - INS-260329-8DC5
   - INS-260330-8481
   - INS-260325-FDF5
+evidence:
+  - id: INS-260320-8F12
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260320-F872
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Expo abstracts away the most painful parts of iOS development: creating App Store Connect entries, generating bundle IDs, building iOS binaries, and submitting to TestFlight. Normally this requires navigating 10+ forms in App Store Connect and managing certificates manually. With Expo, it's `eas build` and `eas submit` — two commands that handle everything. The build took about 7 minutes. The developer compared Expo to Next.js for web development: it's the framework layer that makes the underlying platform (iOS/App Store) bearable. For anyone coming from web development with React/Next.js knowledge, Expo (React Native) is the natural bridge to mobile. The remaining pain point is the App Store review process itself, which can take 24-48 hours and involves inconsistent human reviewers.

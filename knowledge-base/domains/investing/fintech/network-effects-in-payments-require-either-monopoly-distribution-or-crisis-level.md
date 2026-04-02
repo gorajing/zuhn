@@ -25,7 +25,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start
@@ -52,14 +52,16 @@ stance: >-
   distribution monopoly or existential urgency that eliminates the cold-start
   problem.
 related:
-  - INS-260325-2F1E
-  - INS-260330-0FBF
-  - INS-260330-2783
-  - INS-260330-8538
-  - INS-260330-A47D
-  - INS-260325-75A3
-  - INS-260330-EEAE
-  - INS-260330-4224
+  - INS-260322-98D2
+  - INS-260327-CC05
+  - INS-260327-4440
+  - INS-260327-9018
+  - INS-260328-9408
+  - INS-260330-3A0D
+  - INS-260330-EFB8
+  - INS-260330-D583
+  - INS-260330-7D6D
+  - INS-260330-D071
 ---
 The hard part of mobile payments isn't building the app — it's hitting critical mass. The US market illustrates this perfectly: Chase Pay, Google Pay, Square Wallet, PayPal, Apple Cash, Cash App, Zelle, and Venmo all compete for the same users, and none can achieve universal adoption because existing payment infrastructure is 'good enough.'
 

@@ -47,6 +47,10 @@ related:
   - INS-260330-FA4C
   - INS-260330-C825
   - INS-260329-0D70
+evidence:
+  - id: INS-260329-0D70
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes table stakes, merchants negotiate rates down while default costs rise.
 

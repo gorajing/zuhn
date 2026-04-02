@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 306 insights
+> 305 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -111,7 +111,6 @@
 - `INS-260323-8F41` [high] Geometries allowed by equations don't automatically correspond to physical reality -- you must also check whether the required matter and energy actually exist.
 - `INS-260323-A52F` [high] The simplest solution to Einstein's equations already contained black holes, white holes, and parallel universes -- but only after mathematicians pushed the coordinate map to its full extent.
 - `INS-260323-AEA7` [high] Michelson and Morley built the most precise instrument of their era, found no evidence of the ether, and believed their own experiment had failed -- because the null result contradicted consensus so deeply.
-- `INS-260330-13A8` [high] Facial micro-expressions and body language cues are meaningless without first establishing each individual's unique behavioral baseline through dialogue.
 - `INS-260327-4A5D` [high] Your relationship with money isn't about money - it's about whatever psychological need (security, status, control) money has become a proxy for.
 - `INS-260327-032F` [high] The most dangerous people aren't those who know they're doing wrong but those who are absolutely certain they're doing right.
 - `INS-260327-1845` [high] Ask 'what would I do if I weren't afraid?' and notice how many of your current life choices are fear-avoidance rather than genuine pursuit.

@@ -55,6 +55,13 @@ related:
 stance: >-
   Bezos argues you can debate when humanity must expand into space but not
   whether
+evidence:
+  - id: INS-260323-38EC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260328-F05E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Bezos's space vision is rooted in a simple energetic argument: civilization benefits from growing energy usage per capita (antibiotics, literacy, lower infant mortality all correlate with energy access), but this is incompatible with living on a finite planet long-term. The solution is moving heavy industry to space while preserving Earth as a pristine gem.
 

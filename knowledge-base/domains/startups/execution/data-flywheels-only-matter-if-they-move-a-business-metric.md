@@ -53,7 +53,6 @@ related:
   - INS-260327-E3CA
   - INS-260327-EBDF
   - INS-260327-679A
-  - INS-260329-577E
 ---
 Sequoia partners challenge the room to connect their data flywheels to specific business metrics. When hands go up for 'having a data flywheel' but fewer can identify what metric it moves, the verdict is clear: 'Either you don't have a data flywheel or it just doesn't matter.'
 

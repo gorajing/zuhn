@@ -62,6 +62,12 @@ evidence:
   - id: INS-260330-B2B8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-24D1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-BEF0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Columbia biologist Stuart Firestein reframes the relationship between knowledge and ignorance: rather than science being a march toward complete knowledge, it is a process of generating better questions. 'It is a mistake to bob around in the circle of facts, instead of riding the wave to the great expanse lying outside the circle.' Facts are like photos from a road trip — documentation of where you've been — while ignorance is the fuel propelling you forward.
 

@@ -20,8 +20,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     AI's constraints on scientific discovery are a subset of human constraints —
@@ -48,6 +49,17 @@ stance: >-
   When data about a phenomenon is genuinely sparse, AI struggles just as much as
   humans, making AI's scientific advantage largest in data-rich, complexity-rich
   domains.
+related:
+  - INS-260325-C724
+  - PRI-260321-AD44
+  - INS-260329-47DD
+  - INS-260329-ACEB
+  - INS-260329-89E9
+  - INS-260330-FBE1
+  - INS-260330-E660
+  - INS-260330-B4F1
+  - INS-260330-B5D2
+  - INS-260323-B309
 ---
 Noah Smith argues that the constraints on AI science will be a subset of the constraints on human science. Whenever data about a natural phenomenon is sparse, both AI and humans are limited to generating conjectures and designing data-collection strategies. Neither can conjure knowledge from nothing.
 

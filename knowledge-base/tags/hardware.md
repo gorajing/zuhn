@@ -9,5 +9,4 @@
 - `INS-260330-F9B4` Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.
 - `INS-260323-DDC2` You can only iterate fearlessly on expensive robots if you can repair them yourself — the ability to 'just go make it' is the enabling condition for rapid learning.
 - `INS-260330-C0E2` Apple's improving phone quality extended upgrade cycles from 2 years to 3-4 years, flattening sales despite a growing installed base — a structural paradox for any durable goods company.
-- `INS-260330-FA4C` Connected products require treating hardware, software, and data as three equal co-dependent pillars, not a primary discipline with supporting ones.
 - `INS-260330-0E4B` At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.

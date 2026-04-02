@@ -13,7 +13,6 @@
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
-- `INS-260330-78B8` Demoting an executive preserves their over-sized equity package while stripping their authority, creating resentment among better-performing employees with less compensation.
 - `INS-260330-48A8` Formal raise cycles prevent the cultural damage of rewarding whoever asks loudest.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.

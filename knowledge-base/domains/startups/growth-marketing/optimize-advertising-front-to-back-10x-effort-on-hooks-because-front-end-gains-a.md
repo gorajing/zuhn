@@ -54,5 +54,9 @@ related:
   - INS-260321-6437
   - INS-260329-33D4
   - INS-260329-9101
+evidence:
+  - id: INS-260321-6437
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi spends 55 minutes on the first 5 seconds of an ad and 5 minutes on everything after. The math: click-through rates can realistically go from 1% to 4% (a 4x increase in funnel throughput), while backend metrics like show-up rates going from 50% to 75% represent 'only' a 50% gain. He shared a case study where simply changing a landing page headline — nothing else — increased booking rates by 62% while opt-in rates stayed flat, proving the frame of the promise matters more than the offer mechanics. His process: write 50 hooks per ad session (40 proven variations, 10 experimental), pair with 3-5 body angles and 1-3 CTAs. The 'kaleidoscope process' for winners: vary backgrounds, props, re-recordings, reordering, visual filters, fonts, pacing, and music to squeeze maximum life from proven ads rather than creating entirely new ones.

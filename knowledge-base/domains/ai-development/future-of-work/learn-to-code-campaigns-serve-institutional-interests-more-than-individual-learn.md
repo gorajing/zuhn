@@ -55,6 +55,13 @@ related:
   - INS-260330-C4F1
   - INS-260321-FD14
   - INS-260329-500E
+evidence:
+  - id: INS-260330-D52B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C4F1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Politicians promote coding education because tech workers generate high tax revenue and attract corporate investment to their districts. Tech companies amplify the message because increasing the supply of programmers suppresses wages through basic supply-and-demand dynamics. This creates an interesting incentive misalignment: the narrative is framed as empowering individuals, but the primary beneficiaries are institutions. The individual learner faces a saturated entry-level market precisely because the campaign succeeded at scale.
 

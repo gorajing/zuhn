@@ -51,5 +51,15 @@ related:
 stance: >-
   Organizations routinely assign their least technical person to 'train the AI'
   because they don't understand that this is actual data science work.
+evidence:
+  - id: INS-260322-2ABB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-1741
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-D888
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 A common failure pattern: the company decides to launch an AI support agent, and assigns it to 'Jim from IT' — the guy who installed Intercom once. But AI training requires understanding vector stores, embedding strategies, chunking methods, hallucination minimization, and reinforcement learning design. This is data science, not IT setup. The gap between installing a tool and making an AI system reliable is enormous, and it maps directly to why the 95% failure rate exists. Organizations confuse 'easy to access' with 'easy to implement well.' The tools have democratized access but not competence. This counterweights the optimistic narrative that AI-first means everyone can build with AI — the skill bar for deployment that actually works remains high.

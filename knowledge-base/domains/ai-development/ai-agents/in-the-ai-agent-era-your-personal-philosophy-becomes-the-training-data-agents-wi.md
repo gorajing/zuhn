@@ -59,6 +59,10 @@ related:
 stance: >-
   An individual's philosophy, experiences, and accumulated wisdom become the
   essential 'data' that makes AI agents useful
+evidence:
+  - id: INS-260325-BE19
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The documentary converges on a counterintuitive conclusion: in the age of AI agents, the most important investment is not in technology but in developing your own depth as a human. Kim Moon-jeong (elementary school teacher and AI content creator) articulates it precisely: 'An individual's philosophy is embedded in this agent. The data and concerns, thoughts, and experiences of many great figures — wouldn't these be truly important? Even if that technology improves significantly, if I don't have the data to use, it is nothing more than a useless shell.'
 

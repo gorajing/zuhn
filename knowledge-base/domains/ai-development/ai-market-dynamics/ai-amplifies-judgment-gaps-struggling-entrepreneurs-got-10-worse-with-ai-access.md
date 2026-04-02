@@ -54,6 +54,22 @@ related:
 stance: >-
   A Harvard study found that below-median entrepreneurs saw a 10% decline in
   profits from AI access because they lacked the judgment to filter good a...
+evidence:
+  - id: INS-260327-1B7C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-6BE8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D0F4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-422B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-0C3A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Coning's research gave ChatGPT via WhatsApp to Kenyan entrepreneurs. Below-median performers asked the AI many questions but could not distinguish good from bad advice — they lacked the mental models to filter, and their profits dropped 10%. Above-median performers asked similar questions but followed up selectively on good advice, improving their results.
 

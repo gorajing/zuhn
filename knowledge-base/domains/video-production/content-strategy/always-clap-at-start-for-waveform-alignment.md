@@ -51,6 +51,10 @@ resolutions:
 stance: >-
   A clap or clapboard at each take start is essential for reliable audio-video
   sync alignment
+evidence:
+  - id: INS-260321-E2FC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 When recording video and audio separately (external microphone, field

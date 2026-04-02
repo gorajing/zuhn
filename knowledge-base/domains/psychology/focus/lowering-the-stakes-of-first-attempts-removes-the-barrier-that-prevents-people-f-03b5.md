@@ -66,6 +66,10 @@ related:
   - INS-260329-A218
   - INS-260329-B214
   - INS-260329-D2CA
+evidence:
+  - id: INS-260329-D2CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Throughout CS50P, Malan repeatedly makes deliberate mistakes — forgetting closing parentheses, creating infinite loops, passing wrong types — and then works through debugging them live. He explicitly tells students 'take comfort in knowing that over the coming weeks you're going to make so many mistakes' and frames bugs as 'problems for you to solve' rather than failures. This is pedagogically strategic: the biggest dropout risk in intro CS courses is students who believe they're 'not smart enough' after their first error.
 

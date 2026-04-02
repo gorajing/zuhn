@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-03-31 | 2858 actionable insights
+Generated on 2026-04-02 | 2883 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -30,6 +30,9 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260327-D020] Goose's recipe-based approach, where successful workflows are baked into shareable scripts, outperforms pre-built tool integrations because agents find surprising solutions humans wouldn't encode.
 - [INS-260327-26BF] ChatGPT Agent unified deep research's text browser, operator's visual browser, and a terminal with shared file system, producing 1+1+1=5 capabilities because tools can pass state to each other.
 - [INS-260327-79E8] OpenAI trained ChatGPT Agent via RL across thousands of VMs, letting the model discover when to use text vs visual browsing rather than programming tool selection rules.
+- [INS-260402-2342] An agent given filesystem and MCP access spontaneously wrote its own memory skill and started using a graph database without explicit programming.
+- [INS-260402-5ACE] Context graphs store not just facts but the precedent and reasoning behind decisions, answering 'why' questions that vector similarity search alone cannot.
+- [INS-260402-5CF0] When users reject cached results, that negative signal shapes future retrieval quality more than successful matches do.
 
 ## ai-development/ai-agents
 - [INS-260320-E6DD] Structure knowledge as a relational database (entities + relationships), not text blobs. Every Claude instance reads/writes the same structured knowledge base.
@@ -52,6 +55,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-D5CD] When agents write 1,300 PRs per week, CI and test infrastructure become the primary trust mechanism replacing the confidence that comes from knowing a human wrote the code.
 - [INS-260330-77BB] Running multiple AI agents locally hits machine limits at 3-4 worktrees; cloud dev environments remove this ceiling entirely.
 - [INS-260330-6D43] Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
+- [INS-260402-876A] A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
 
 ## ai-development/ai-automation
 - [INS-260320-5A6F] AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.
@@ -112,6 +116,9 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260325-9A0F] What makes institutions functional is not perfection but self-correction — elections, peer review, and amendment processes that identify and fix mistakes over time.
 - [INS-260326-7B2C] Computational irreducibility guarantees that sufficiently complex AI systems will produce unintended consequences — alignment can be patched but never solved.
 
+## ai-development/architecture
+- [INS-260330-30FB] G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
+
 ## ai-development/automation
 - [INS-260329-9EE4] Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - [INS-260329-D2CA] Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
@@ -155,6 +162,10 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260327-B539] Claude Code's AutoDream periodically consolidates memory files in the background -- merging, pruning, and compacting -- creating a sleep-like cycle that keeps sessions feeling sharp rather than cluttered.
 - [INS-260327-E016] Long-running AI development workflows require periodic context pruning -- not just accumulation -- because bloated memory files reduce recall accuracy and waste context window tokens.
 - [INS-260327-91C7] The CPS (Context-Problem-Solution) framework ensures all meeting logs converge into a single document that accumulates shared context, enabling both humans and AI models to stay aligned across iterative development.
+
+## ai-development/embeddings
+- [INS-260402-1D32] Using tiered similarity thresholds (auto-accept above 0.8, offer with confirmation at 0.7-0.8, re-research below 0.7) balances cache hit rates against accuracy.
+- [INS-260402-28BA] Combining vector search to find a semantically close starting point with graph traversal to explore structured relationships yields better retrieval than either method alone.
 
 ## ai-development/future-of-work
 - [INS-260320-A745] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
@@ -293,6 +304,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260329-3D28] Interact with AI coding tools conversationally — warm them up with context, compliment good output, then describe problems naturally.
 - [INS-260329-8DC5] Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context.
 - [INS-260330-6828] Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
+- [INS-260402-543E] Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -361,6 +373,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260329-F887] Load balancers distribute traffic but become single points of failure — always deploy in redundant pairs with automatic failover.
 - [INS-260329-3243] HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - [INS-260329-C375] HFT firms treat latency dashboards and real-time alerts as competitive infrastructure, not optional observability tooling.
+- [INS-260330-81A7] Cache the encoder output once, run only the decoder per target language — critical for one-to-many translation at scale
 - [INS-260330-4267] A simple sigmoid-based prior over word frequencies improved the Wordle solver from 4.1 to 3.6 average — a bigger gain than algorithmic sophistication alone.
 - [INS-260330-3EFC] Single-threaded event loops can handle thousands of concurrent operations by pausing and resuming work rather than running in parallel.
 - [INS-260330-F5A1] Store the result of expensive computations and reuse them instead of recomputing from scratch.
@@ -670,6 +683,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-B76F] Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
 - [INS-260330-0804] Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
 - [INS-260330-B1F6] Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
+- [INS-260330-9900] Calorie math is broken: fiber blocks ~20% of almond calories for the microbiome, protein's thermic effect wastes ~25% of steak energy, and fructose routes directly to fat synthesis.
 - [INS-260330-F755] Fructose nitrates tight junction proteins in the intestinal lining, making the gut transiently permeable and allowing bacterial toxins into the bloodstream, driving systemic inflammation.
 - [INS-260330-E218] Fructose irreversibly inhibits three mitochondrial enzymes (AMP kinase, ACAD-L, CPT1), cumulatively degrading cellular energy production over years.
 - [INS-260330-C2C5] Dr. Palmer observed that psychiatric improvement tracked ketone levels: no ketosis meant no clinical benefit, with target thresholds of 0.8+ for depression and 1.5+ for psychotic disorders.
@@ -741,7 +755,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260329-C4A4] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - [INS-260329-55DC] Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
 - [INS-260329-5414] Young people with small capital bases get dramatically higher ROI from skill investment than from financial markets.
-- [INS-260330-4370] Ramsey found that millionaires and billionaires overwhelmingly put money into things they deeply understood — dirt, cars, banks, businesses — not sophisticated instruments.
 
 ## investing/geopolitics
 - [INS-260321-D183] If US wins the cold war: S&P returns 8-10% annually. If China wins: China gives the US a soft landing (they need US consumption market), S&P returns ~5% annually. Either way, S&P has the highest expected value.
@@ -911,6 +924,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260327-C4AC] Ask someone to explain their strongest belief and watch it dissolve - most convictions are adopted from environment rather than derived from reasoning.
 - [INS-260327-6C64] In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
 - [INS-260327-E07D] If you can't articulate the best argument against your own position, you don't actually understand your position well enough to hold it confidently.
+- [INS-260329-A90C] Inversion — defining what to avoid — is more actionable than defining what to pursue because threat-detection is neurologically stronger than reward-seeking.
 - [INS-260329-CCDE] The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - [INS-260329-55F7] People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
 - [INS-260329-F063] Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
@@ -967,12 +981,14 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-9471] Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - [INS-260330-6620] Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.
 - [INS-260330-F737] Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
+- [INS-260402-5522] When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - [INS-260330-A370] The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
 - [INS-260330-7E66] Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - [INS-260330-F140] Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
+- [INS-260330-365B] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -983,7 +999,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260327-5B13] There's a point where thinking deeper about life stops producing insights and starts producing paralysis - the curse of thinking too deeply is real.
 - [INS-260327-7711] The shadow isn't just your dark side - it includes every positive capacity you've suppressed because it threatened your comfortable self-concept.
 - [INS-260330-CFAD] Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine.
-- [INS-260330-BB53] Pay attention to what you're doing with your attention and notice the consequences — this meta-awareness is the universal solvent for unhappiness.
 - [INS-260330-E107] People who think meditation requires political passivity have confused an anodyne communication style with the actual goal of contemplative practice.
 - [INS-260330-544F] Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes.
 - [INS-260330-BE4D] Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.
@@ -1013,6 +1028,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-AA4F] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - [INS-260330-8FC5] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - [INS-260330-9931] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
+- [INS-260402-2DCE] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1146,6 +1162,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-1B64] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - [INS-260330-E823] Blinks function as scene breaks that reset time perception, and dopamine controls blink rate—explaining why ADHD (low dopamine) causes both poor time management and poor focus.
 - [INS-260330-F41D] Physical fidgeting like bouncing a knee or pulling a rubber band channels premotor neural activity away from disrupting focus, rather than 'releasing energy' as commonly believed.
+- [INS-260330-85E1] Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - [INS-260330-9E25] Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - [INS-260330-0C31] Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
 - [INS-260330-0149] Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
@@ -1169,6 +1186,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 ## psychology/group-dynamics
 - [INS-260330-FB9C] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
 - [INS-260330-4B55] Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
+- [INS-260402-62E3] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -1225,9 +1243,11 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260329-DE17] Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
 - [INS-260329-DDBC] Combining multiple top-20% skills creates rarer and more valuable professional profiles than deep specialization alone.
 - [INS-260330-AC16] Changing beliefs is like blazing a new trail next to a four-lane highway of old patterns — it works, but takes persistent effort over months or years, not weeks.
+- [INS-260330-13A8] High-speed cameras reveal the arrow's mid-flight flex that explains how it navigates around the bow — without this visibility, the outcome seems impossible.
 - [INS-260330-C13A] Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
 - [INS-260330-B5D6] Teaching people that both their skills AND their jobs are malleable building blocks produces a sustainable happiness boost that growth mindset about skills alone cannot achieve.
 - [INS-260330-14A1] Moderate procrastination enables subconscious incubation that produces more creative ideas than diving in immediately or waiting until the last minute.
+- [INS-260330-45FF] Emotional engagement with a subject accelerates learning 3-4x compared to detached, obligation-driven study.
 - [INS-260330-B5BF] Your most authentic purpose signals come from pre-puberty childhood inclinations before social conditioning buried them.
 - [INS-260330-F500] Shapiro's practical guide — read ideologically opposed sources and find where they cross — extracts the factual core from opinion more reliably than trusting any single source.
 - [INS-260330-70A8] David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.
@@ -1252,6 +1272,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-2DB0] Reinventing concepts through play before formal study turns them into 'familiar friends' rather than arbitrary definitions.
 - [INS-260330-3879] The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.
 - [INS-260330-BFD0] The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.
+- [INS-260330-78B8] Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - [INS-260330-1B16] Build understanding layer by layer so the final formula feels like a natural extension rather than an intimidating wall of symbols.
 - [INS-260330-BEAD] Vsauce makes the Banach-Tarski proof accessible by building a chain of named analogies — chocolate bar → Hilbert's Hotel → circle points → Hyperwebster → sphere decomposition — each one preparing the mental model for the next.
 - [INS-260330-189F] 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
@@ -1402,7 +1423,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260329-7B2D] Defining structure before content forces you to discover constraints and relationships you would otherwise miss.
 - [INS-260329-16F0] Brand can carry the perception of value beyond what the product alone delivers, as long as the product doesn't actively contradict the brand promise.
 - [INS-260330-206F] There are infinitely more ways to make your life worse than better, so protect what you have rather than chasing marginal gains.
-- [INS-260330-13A8] Facial micro-expressions and body language cues are meaningless without first establishing each individual's unique behavioral baseline through dialogue.
 - [INS-260330-2B3F] Rick Rubin identifies creativity as a bodily feeling — a 'surge of energy' — rather than an intellectual process, and uses taste-testing as the metaphor for creative decision-making.
 - [INS-260330-548E] Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
 - [INS-260330-30DE] Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
@@ -1663,6 +1683,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-64E1] Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - [INS-260330-F4C0] Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
 - [INS-260330-3B0A] Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve.
+- [INS-260402-2A1D] College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
 
 ## startups/communication
 - [INS-260330-D511] Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
@@ -1826,6 +1847,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-9197] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
 - [INS-260330-4F2A] When users can freely use competing marketplaces simultaneously, network effects erode — making supply-side lock-in the critical strategic priority.
 - [INS-260330-856B] Tools must be embedded in existing popular systems to gain adoption — standalone merit is insufficient.
+- [INS-260402-4605] Eminence constrains innovation more than obscurity constrains execution.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -1963,7 +1985,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260329-1FEE] Serial starters keep abandoning projects at the valley of despair and restarting with uninformed optimism — the fix is committing long enough for it to be unreasonable to still be bad.
 - [INS-260329-5818] In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.
 - [INS-260329-EB4B] Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
-- [INS-260329-4605] Running a pre-mortem (listing all ways to fail) and building specific guardrails is higher-leverage than brainstorming growth strategies.
 - [INS-260329-EECD] Massive volume of attempts eliminates the need for luck because rejection costs nothing and one success changes everything.
 - [INS-260329-3FF3] Doing something enough times guarantees outcomes that individual attempts leave to chance.
 - [INS-260329-E6DB] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
@@ -1977,8 +1998,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-5600] Compute the raw material cost of your product's constituent atoms — that's the asymptotic floor — then ask why your actual cost is higher.
 - [INS-260330-0102] Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - [INS-260330-637F] The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
-- [INS-260330-B15C] The instinct to add Kubernetes, Redis caching, and GraphQL before having users is a predictable failure pattern that delays shipping.
-- [INS-260330-516E] YC considers how well founders handle employee termination to be one of the hallmarks of an effective startup founder.
 - [INS-260330-C6A2] Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - [INS-260330-B50A] Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - [INS-260330-C33B] Don't just push harder — also remove friction on the other side of the equation.
@@ -2003,10 +2022,12 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-7F62] A YC company's Connecticut LLC-to-Delaware conversion was done incorrectly by local lawyers, requiring four law firms and $500K to fix years later during a major fundraise.
 - [INS-260330-258F] Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
 - [INS-260330-5036] Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
+- [INS-260330-C499] The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
 - [INS-260330-8103] Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
 - [INS-260330-9751] Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
 - [INS-260330-6F7B] You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - [INS-260330-DC3B] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
+- [INS-260402-91B5] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2144,6 +2165,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260329-BC6C] Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
 - [INS-260329-EFA8] Whether in college or career, the first four years should maximize learning speed — early income is a bonus, not the objective.
 - [INS-260329-DD01] Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
+- [INS-260329-0935] Sustained focus on one domain compounds returns far more than spreading effort across many.
 - [INS-260329-1D8D] Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
 - [INS-260329-8E79] Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
 - [INS-260329-6130] Low personal expenses buy you more shots on goal by letting you survive multiple business failures.
@@ -2166,11 +2188,12 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260329-32A4] Prioritize jobs that maximize learning over immediate compensation during skill-building years.
 - [INS-260329-4488] Set decade-long commitments to activities rather than short-term outcome targets to reduce emotional ups and downs while building compounding advantages.
 - [INS-260330-6A94] Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
-- [INS-260330-1AEA] Business instincts fail in startups but people instincts remain reliable—founders who ignore misgivings about partners always regret it.
 - [INS-260330-F800] Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
 - [INS-260330-F1C8] Track confidence in your investment thesis bullets to know when to persist, adapt, or pivot.
 - [INS-260330-70F5] Founder excellence is paradox navigation, not single-dimension optimization.
 - [INS-260330-4314] Maintain an explicit investment thesis and use confidence direction — not absolute level — to decide persistence vs. pivot.
+- [INS-260402-8EED] A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier.
+- [INS-260402-27A1] A failed startup teaches more founder skills in one year than several years at a big company.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2197,6 +2220,8 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260328-9574] People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
 - [INS-260328-8DF8] People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
 - [INS-260330-206B] Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
+- [INS-260402-F5E0] Break vague reluctance into specific fears to discover most are unfounded.
+- [INS-260402-8C0E] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -2212,7 +2237,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260328-D866] The most successful Standard Capital founders hadn't talked to any investors or built a deck -- they just applied and committed to the process if accepted.
 - [INS-260328-F301] Seed-stage funding is fairer than founders think: investors don't coordinate, there are many independent writers, criteria are public, and getting rejected by one investor doesn't poison the well with others.
 - [INS-260330-1002] Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
-- [INS-260330-9900] Investors who also want advisor shares are looking for a freebie — their investment already aligns their incentives to help.
 - [INS-260330-CBF3] Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
 - [INS-260330-B6FA] Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
 - [INS-260330-2BB3] Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
@@ -2233,14 +2257,17 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-C8E1] Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
 - [INS-260330-97F6] In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
 - [INS-260330-08FA] The strongest fundraising position is not needing the money — reach ramen profitability before raising.
+- [INS-260402-EA72] Fundraising typically consumes months of a startup's most critical early period, and investors don't recognize the damage their indecision causes.
+- [INS-260402-9288] Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
+- [INS-260402-4719] VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
 - [INS-260330-410A] Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
 - [INS-260330-33FF] Preferential attachment (rich-get-richer dynamics) is a mathematical inevitability that explains why small early leads in views, users, or market share compound into dominant positions.
 - [INS-260330-D0AB] Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
-- [INS-260330-2A6A] When eBay switched affiliate payments from confirmed registrations to activated users, registrations dropped 20% but active user growth massively accelerated.
 - [INS-260330-2347] When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
+- [INS-260330-FA4C] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - [INS-260330-072D] One person saying 'don't use them' destroys more growth than ten champions create, so always make it right even when it's expensive.
 - [INS-260330-CBEF] At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - [INS-260330-49A4] At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.
@@ -2335,7 +2362,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260328-ACC3] Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - [INS-260329-1ECA] Search TikTok for viral videos of competitor apps, study the hook sentence, then film your own app demo using the same format.
 - [INS-260329-69F0] freeCodeCamp's 48M-view Python tutorial demonstrates that one exhaustive tutorial can drive growth for years.
-- [INS-260329-0A55] Sell to entities that aggregate your target customers rather than pursuing end customers one by one.
 - [INS-260329-49A4] LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - [INS-260329-D062] Do more of what works, then optimize it, then try new things — in that strict order.
 - [INS-260329-6859] Put 80% of ad creation effort into the hook/headline — front-end CTR gains of 4x dwarf backend improvements.
@@ -2398,9 +2424,11 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-21CC] Power users stay anyway — growth comes from saving marginal users by getting them to the magic moment, not from reducing friction for heavy users.
 - [INS-260330-20F7] Sean Parker's virality framework breaks viral potential into payload (people reached per blast), frequency (how often you hit them), and conversion rate — different products win on different axes.
 - [INS-260330-1089] When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
+- [INS-260330-D98E] Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
 
 ## startups/hiring
 - [INS-260330-B525] PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
+- [INS-260330-B384] Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
 - [INS-260330-BF00] The Roman shift from citizen-soldiers to mercenary armies created a workforce with zero loyalty to the institution, directly accelerating collapse.
 - [INS-260330-7E58] In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - [INS-260330-1B37] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -2452,6 +2480,8 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-0346] Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
 - [INS-260330-6C68] Deliberately brainstorming startup ideas produces plausible-sounding but fundamentally flawed ideas that no one urgently needs.
 - [INS-260330-F125] The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
+- [INS-260402-237D] Build what you personally need, even if it seems niche — Wozniak built himself a computer.
+- [INS-260402-9093] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2527,7 +2557,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-9B7B] Hire geniuses when you find them regardless of whether you have a defined role, because great people create their own value.
 - [INS-260330-072C] Great recruiters are great sourcerers who find tinkerers and outliers before the market recognizes them.
 - [INS-260330-26E7] Loyalty-first hiring filters for liars or zealots, destroying an organization's capacity for honest self-assessment.
-- [INS-260330-78B8] Demoting an executive preserves their over-sized equity package while stripping their authority, creating resentment among better-performing employees with less compensation.
 - [INS-260330-7675] Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - [INS-260330-1647] Confucius prescribed that in every hierarchical relationship, the superior must earn respect through care and education — authority without reciprocal obligation erodes legitimacy.
 - [INS-260330-4045] Confucian governance worked because each level of the hierarchy had explicit obligations downward, not just authority — making compliance feel like reciprocity rather than submission.
@@ -2557,9 +2586,11 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-36B4] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - [INS-260330-FF9A] Convert your survival plan into concrete metric targets for each team so every employee can see exactly how their work contributes to the company's path through the crisis.
 
+## startups/market-entry
+- [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
+
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
-- [INS-260330-C499] RuBisCo evolved in a low-oxygen atmosphere and now wastes half its effort grabbing oxygen instead of CO2 — deep optimization for past conditions creates present-day liabilities.
 - [INS-260330-FE65] Every exponential growth curve is actually the early phase of a logistic (S-curve) that must eventually saturate, so the key question is always when and where the inflection point hits.
 
 ## startups/problem-solving
@@ -2626,7 +2657,6 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-1282] Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
 - [INS-260330-7241] Framework popularity is a legitimate engineering constraint because it determines hiring pool size and ecosystem support.
 - [INS-260330-B7B1] Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
-- [INS-260330-B38B] Oxygen — the molecule that enabled all animal life — was originally just a waste product of water-splitting during photosynthesis.
 - [INS-260330-C418] Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
 - [INS-260330-094B] Aerogel is extraordinary but shatters on impact — embedding it in fiberglass creates a flexible, practical blanket that NASA and industry actually use.
 - [INS-260330-EA94] Startups must choose depth of user love over breadth because weak enthusiasm cannot be upgraded to devotion, while intense love naturally expands.
@@ -2651,6 +2681,7 @@ Generated on 2026-03-31 | 2858 actionable insights
 - [INS-260330-2B45] Ship a prototype fast and refine based on user reactions — the 'Hail Mary' strategy of planning extensively before building wastes millions.
 - [INS-260330-EF64] Delay growing your user base because users create compatibility constraints that freeze your design and prevent the continuous redesign that produces quality.
 - [INS-260330-84F4] Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
+- [INS-260402-426C] Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.

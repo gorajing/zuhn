@@ -58,6 +58,31 @@ related:
 stance: >-
   Building powerful AI turned out to be far easier than building safe AI, just
   as building airplanes was far easier than replicating bird flight.
+evidence:
+  - id: INS-260323-E797
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0E57
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-BD3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-4DBC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-AEA5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-500C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8920
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-9367
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Max Tegmark draws a powerful analogy between AI and aviation: the Wright brothers succeeded by finding a simpler path to flight than replicating birds, and similarly, transformer models achieved remarkable intelligence through the simple task of next-token prediction rather than replicating the brain. This means capabilities advance faster than safety research.
 

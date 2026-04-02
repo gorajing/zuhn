@@ -58,6 +58,7 @@ related:
   - INS-260330-3E6F
   - INS-260330-0B55
   - INS-260330-855A
+  - INS-260402-91B5
 ---
 Carolynn Levy states explicitly that among YC's highest-valued companies, there are zero instances of significantly disproportionate equity splits. YC views unequal splits as a red flag signaling deeper problems: one founder may not be fully committed, may be overvaluing past contributions or credentials, or the team may lack honest communication about expectations.
 

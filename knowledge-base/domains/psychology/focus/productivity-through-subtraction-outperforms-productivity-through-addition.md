@@ -47,10 +47,10 @@ stance: >-
   adding new habits, routines, or systems.
 related:
   - INS-260329-4293
+  - INS-260402-543E
   - INS-260325-0FED
   - INS-260327-B5C9
   - INS-260329-B4F5
-  - INS-260325-CEE1
 ---
 Hormozi's core argument inverts the standard productivity narrative. Instead of optimizing morning routines, stacking habits, or adding tools, he achieved his biggest business breakthrough by entering a 'season of no' — systematically removing everything non-essential. He changed his phone number, stopped attending events and masterminds, blocked all meetings before noon, and deleted social media from his phone.
 

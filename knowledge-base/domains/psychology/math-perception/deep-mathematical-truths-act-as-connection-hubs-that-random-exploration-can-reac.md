@@ -56,6 +56,10 @@ related:
   - INS-260330-F183
   - INS-260325-2F12
   - INS-260322-32E3
+evidence:
+  - id: INS-260321-AE3F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown makes the observation that 'what it means for a piece of math to be important and deep is that it connects to many other topics,' so 'even an arbitrary exploration of numbers, as long as it's not too arbitrary, has a chance of stumbling into something meaningful.' A random visualization exercise led directly to Dirichlet's theorem, Euler's totient function, and continued fractions — all foundational results.
 

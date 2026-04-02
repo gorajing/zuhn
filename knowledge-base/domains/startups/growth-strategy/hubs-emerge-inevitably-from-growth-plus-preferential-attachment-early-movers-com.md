@@ -56,6 +56,10 @@ related:
 stance: >-
   Barabasi's model shows hubs form naturally when networks grow and new nodes
   preferentially attach to well-connected nodes
+evidence:
+  - id: INS-260325-4C6D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Barabasi and Albert showed that hubs (super-connectors like O'Hare airport, Google, or ATP in cellular metabolism) aren't designed -- they emerge inevitably from two simple rules: (1) networks grow by adding nodes over time, and (2) new nodes are slightly more likely to connect to already-connected nodes (preferential attachment).
 

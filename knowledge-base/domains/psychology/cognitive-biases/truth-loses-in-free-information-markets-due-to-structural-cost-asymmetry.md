@@ -26,7 +26,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Truth has three structural disadvantages against fiction: it's costly to
@@ -58,10 +58,12 @@ related:
   - INS-260325-24D1
   - INS-260325-DF66
   - INS-260322-E06A
-  - INS-260330-7FAC
-  - INS-260330-07B1
-  - INS-260323-2651
-  - INS-260330-240A
+  - INS-260330-6566
+  - PRI-260322-CF2B
+evidence:
+  - id: INS-260325-24D1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Harari identifies a fundamental asymmetry in the information marketplace that explains why more information doesn't automatically lead to better outcomes. Truth requires massive investment — historians study for 10+ years, evidence must be cross-referenced and fact-checked, and reality is irreducibly complex. Fiction, by contrast, requires only imagination, can be simplified to any desired level, and can be made as pleasant as the audience wants.
 

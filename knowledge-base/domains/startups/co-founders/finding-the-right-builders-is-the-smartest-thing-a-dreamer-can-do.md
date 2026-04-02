@@ -55,9 +55,14 @@ related:
   - INS-260323-246F
   - INS-260327-7157
   - INS-260330-CA43
+  - INS-260402-237D
 stance: >-
   Raibert describes himself as 'only the dreamer' and says the smartest thing he
   ever did was find excellent engineers who could actually make things...
+evidence:
+  - id: INS-260323-C10D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When asked about the early days, Raibert is self-effacing: 'Probably the smartest thing I ever did is to find the other people.' He describes himself as a dreamer and credits the engineering talent at Boston Dynamics for making robots that actually work. His first key hire, Ben Brown, brought complementary engineering skills that Raibert lacked.
 

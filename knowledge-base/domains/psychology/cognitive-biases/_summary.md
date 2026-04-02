@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 207 insights
+> 210 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -16,7 +16,6 @@
 - `INS-260330-AFF8` [high] Bigotry, political tribalism, and conspiracy theories all share the same cognitive root: attributing the actions of individuals to entire groups they belong to.
 - `INS-260327-D77C` [high] The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
 - `INS-260330-6D86` [high] Casualty numbers alone cannot capture moral reality because they erase the critical distinction between intentional targeting and inadvertent harm.
-- `INS-260330-7EAA` [high] Good design converges on right answers like math; branding must diverge from those answers to be distinctive, creating an inescapable conflict.
 - `INS-260329-BEFB` [high] Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-184C` [high] Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260330-14BD` [high] Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
@@ -31,6 +30,7 @@
 - `INS-260325-A08A` [high] The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
 - `INS-260327-56B3` [high] While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
 - `INS-260330-3BBC` [high] Crises force binary choices that expose where people truly stand, cutting through ambiguity.
+- `INS-260402-0392` [high] People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260325-537A` [high] Dostoevsky: forced goodness through willpower creates psychological backlash — suppressed darkness grows stronger until it erupts.
 - `INS-260330-BD04` [high] Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
 - `INS-260330-5EAC` [high] Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
@@ -66,6 +66,7 @@
 - `INS-260330-F6DB` [high] Facebook's own internal research found Instagram is 'toxic to a sizable percent of users' and worsens body image for 1 in 3 teen girls — a structural consequence of curated self-presentation at scale.
 - `INS-260330-BE91` [high] Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260330-790F` [high] Imperfect institutions that can self-correct beat unaccountable personalities who never correct errors.
+- `INS-260402-5522` [high] When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing.
 - `INS-260330-77D1` [high] Goldman Sachs earned ~200x their normal fees on 1MDB bond deals, creating an overwhelming financial incentive to suppress internal questions about fund legitimacy.
 - `INS-260327-E07D` [high] If you can't articulate the best argument against your own position, you don't actually understand your position well enough to hold it confidently.
 - `INS-260325-CB41` [high] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -195,6 +196,7 @@
 - `INS-260330-615D` [medium] The 'fall of Rome' in 476 CE is a misleading narrative — the empire continued for another 1000 years in the east, but our bias toward decline stories obscures ongoing transformation.
 - `INS-260330-FB34` [medium] Destin discovered he could not eliminate his steering bias but only re-designate it, suggesting cognitive biases are structural rather than removable.
 - `INS-260330-A484` [medium] People who appear unserious but deliver results are underestimated, while those who appear serious but underdeliver are overestimated.
+- `INS-260330-18F3` [medium] Racism functions as an epistemic bias — taking real but small group-level differences and exaggerating them into sweeping, dehumanizing caricatures far beyond what data supports.
 - `INS-260330-0DCA` [medium] Destiny identifies the 'conservative merry-go-round' where every problem is deflected to a root cause that cannot be directly addressed, preventing action on tractable improvements.
 - `INS-260329-8CA0` [medium] Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-AA9D` [medium] University of Chicago research shows iPhone ownership predicts high income with 70% accuracy, making the upgrade cycle a status maintenance ritual rather than a technology decision.
@@ -203,6 +205,7 @@
 - `INS-260323-1670` [medium] If the Moon is necessary for complex life, then its improbable formation should be expected — because we can only ask the question in universes where it happened, a form of selection bias that applies to evaluating any rare event.
 - `INS-260330-66EF` [medium] Fossil evidence shows foragers were healthier than early farmers, yet every independent civilization chose agriculture anyway.
 - `INS-260329-F063` [medium] Telling prospects 'answering without looking under the hood would be unethical' reframes information withholding as professional responsibility and discredits competitors who give easy answers.
+- `INS-260330-5F21` [medium] Partially adopted personas trigger uncanny valley effects that repel rather than attract.
 - `INS-260329-A45D` [medium] 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
 - `INS-260329-78A0` [medium] Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-4A55` [medium] A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.

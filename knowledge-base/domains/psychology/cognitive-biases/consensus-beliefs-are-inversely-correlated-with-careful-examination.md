@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260330-32E6
   - INS-260327-4367
+  - INS-260402-D0F2
   - INS-260330-0E86
   - INS-260330-FB5A
-  - INS-260323-9AA5
 ---
 Socrates was executed for demonstrating that Athens' most respected citizens held beliefs they couldn't defend under examination. The insight isn't that majority opinion is always wrong but that beliefs adopted through social conformity rather than individual examination tend to contain uncorrected errors.
 

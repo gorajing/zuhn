@@ -57,5 +57,9 @@ related:
   - INS-260330-C24F
   - INS-260323-DE2B
   - INS-260327-94F5
+evidence:
+  - id: INS-260323-48AF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When mobile internet began rising in 2010, Pony Ma was paranoid that a new startup could displace QQ's desktop dominance. Rather than incrementally adapting QQ for mobile, he created three separate internal teams competing against each other to build a new mobile messaging app—effectively betting against his own flagship product. Pony's philosophy: 'You either wait for someone else to kill you, or you do it yourself first.' Tencent's culture has been described as a 'shark womb,' referencing how unborn sharks cannibalize siblings to ensure survival. The winning team produced WeChat, which grew to 100 million users in just 433 days—the fastest social media growth in history—and eventually surpassed QQ entirely. This strategy worked because it removed the innovator's dilemma: no team was protecting the existing product since multiple teams were explicitly tasked with replacing it. The approach requires tolerance for internal resource duplication and political conflict, but it's far cheaper than losing your market to an external competitor.

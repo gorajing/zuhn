@@ -22,7 +22,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Perfect cancellation of opposing effects — like width-stretching and
@@ -47,11 +47,11 @@ stance: >-
   When two opposing geometric or physical effects exactly cancel each other, it
   signals a deep underlying symmetry rather than coincidence
 related:
-  - INS-260325-6262
-  - INS-260330-DA4A
-  - INS-260330-FEB0
-  - INS-260330-66EF
-  - INS-260330-3FF4
+  - INS-260325-1519
+  - INS-260330-D63D
+  - INS-260323-2FC3
+  - INS-260330-8AE8
+  - INS-260330-F9FB
 ---
 In the sphere-to-cylinder projection proof, rectangles near the poles get their width stretched enormously but their height squished by the same factor. These two effects cancel perfectly because both scaling ratios equal R/d (radius over distance from axis), arising from similar triangles sharing the same geometric structure.
 

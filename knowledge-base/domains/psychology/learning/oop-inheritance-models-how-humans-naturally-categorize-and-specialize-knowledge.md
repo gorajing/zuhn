@@ -58,6 +58,10 @@ related:
   - INS-260330-CE2F
   - INS-260329-1610
   - INS-260329-4D03
+evidence:
+  - id: INS-260329-4D03
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial's final sections on classes, constructors, getters/setters, and inheritance demonstrate a knowledge organization pattern: define a general 'Chef' class with shared behaviors, then create specialized subclasses that inherit those behaviors while adding their own. This maps directly to how human cognition organizes categories — we have a prototype 'bird' with general properties (flies, has feathers) and specialized instances (penguin inherits bird properties but overrides 'flies').
 

@@ -50,6 +50,10 @@ resolutions:
 stance: >-
   Framing products as solutions to problems converts far better than framing
   them as fun toys
+evidence:
+  - id: INS-260320-703F
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 
 Views and conversion are not the same thing. Coconote had a video

@@ -50,5 +50,9 @@ related:
   - INS-260330-EFFB
   - INS-260330-D808
   - INS-260330-9470
+evidence:
+  - id: INS-260325-DA83
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Researchers found that owning an iPhone and iPad are among the best predictors of wealth today (70% accuracy), replacing 1992's indicators of dishwashers and garage door openers. This transforms the purchase decision from rational cost-benefit analysis to social signaling behavior. Apple's design-change-every-other-year cadence exploits this: upgrades spike when the phone looks visibly different, not when internals improve. The functional difference between iPhone X and XS is negligible for most users (Twitter and WeChat work identically), yet visible design changes trigger upgrades. This explains why Apple's pricing power persists despite diminishing functional improvements—they're not selling technology, they're selling membership in a visible economic class.

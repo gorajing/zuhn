@@ -58,6 +58,16 @@ related:
   - INS-260330-C0D1
   - INS-260330-5A2A
   - INS-260330-CCA2
+evidence:
+  - id: INS-260330-B4DA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-DEF7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C0D1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In 2D, a linear transformation is fully captured by just 4 numbers: the coordinates of where i-hat and j-hat land. Any input vector, being a linear combination of basis vectors, must land at the same linear combination of the transformed basis vectors. This principle scales to higher dimensions — an n-dimensional linear transformation needs only n² numbers (the matrix entries).
 

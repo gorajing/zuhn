@@ -59,6 +59,13 @@ related:
   - INS-260327-C962
   - INS-260330-0A8D
   - INS-260330-3E3C
+evidence:
+  - id: INS-260322-54F3
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3E3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dean argues current MoE approaches are 'incredibly regular' and don't fully explore the design space. He envisions models where some paths through the model are 100-1000x more expensive than others, experts have different sizes and structures, the model can dynamically extend with new parameters, and a 'background garbage collectiony thing' runs distillation to compact underused regions and reallocate memory.
 

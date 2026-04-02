@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 65 insights
+> 66 insights
 
 - `INS-260325-95A6` [very_high] MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260325-206C` [very_high] AI Dungeon's near-death from token costs is the cautionary tale: variable-cost AI engines inside fixed-price subscriptions create margin erosion that grows with your best users.
@@ -14,6 +14,7 @@
 - `INS-260325-8A61` [high] Mind the Product's 2026 guide proposes the 3x rule: an AI feature must create measurable value at least 3x its direct compute cost, or treat it as research, not product.
 - `INS-260328-D826` [high] AI features in SaaS create an inverse relationship between user engagement and profitability unless usage caps and smart routing are in place.
 - `INS-260327-F4DD` [high] Products that start AI-light and go AI-heavy end up with AI in a sidebar that can't fully access the application; true AI-native products expose all primitives to models.
+- `INS-260402-543E` [high] Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
 - `INS-260327-13B3` [high] Ambient agents listen to event streams and act in the background at scale, but they're not fully autonomous -- they need inbox-style UX for human approval, editing, question-answering, and time-travel debugging.
 - `INS-260325-FDF5` [high] Anthropic CPO Krieger: build AI products bottom-up from individual user workflows, not top-down from enterprise requirements — adoption drives sales.
 - `INS-260327-EEBD` [high] When enterprise customers arrive with 'a thousand use cases,' Anthropic's sales team uses a 2x2 (internal/external x save money/make money) to prioritize — starting with internal cost savings as learning deployments before tackling external revenue generation.

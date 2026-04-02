@@ -58,9 +58,9 @@ stance: >-
 related:
   - INS-260325-95EB
   - INS-260330-5BC4
+  - INS-260330-9DC9
   - INS-260330-12DC
   - INS-260329-CCDE
-  - INS-260330-C172
 ---
 Peterson identifies what may be the most fundamental challenge to Harris's 'moral landscape' project: you cannot perceive the world without a priori structure, and that structure has an inherently dogmatic element. The antique analogy makes this concrete — you can disassemble an antique searching for where its 'value' resides, but value exists in the interpersonal hierarchy of meaning, not in the physical substrate. Harris concedes this partly by locating value in 'beliefs and desires and conscious states of all the people involved.'
 

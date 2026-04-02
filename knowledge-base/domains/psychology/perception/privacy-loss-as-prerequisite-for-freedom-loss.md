@@ -64,6 +64,10 @@ related:
   - INS-260323-BC61
   - INS-260325-C9EB
   - INS-260330-27DF
+evidence:
+  - id: INS-260325-C9EB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Carlson describes a specific mechanism by which surveillance destroys democratic function: the NSA accessed his Signal messages, knew about his Putin interview plans before he'd told anyone publicly, and intelligence agencies leaked his private meeting with Snowden to Semafor. The issue isn't the surveillance itself but the selective weaponization — agencies choose what to leak and to whom, effectively controlling narratives about specific individuals.
 

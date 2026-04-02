@@ -60,6 +60,10 @@ related:
   - INS-260326-2410
   - INS-260327-2101
   - INS-260327-D020
+evidence:
+  - id: INS-260327-2101
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Ng presents one of the most striking findings in practical AI: on the HumanEval coding benchmark, GPT-3.5 zero-shot scored 48%, GPT-4 zero-shot scored 67%, but GPT-3.5 with an agentic workflow achieved approximately 95%. The improvement from adding agentic workflows to a weaker model dwarfed the improvement from upgrading to a stronger model.
 

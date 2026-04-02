@@ -51,6 +51,10 @@ related:
   - INS-260327-3B91
   - INS-260330-7C24
   - INS-260322-1D52
+evidence:
+  - id: INS-260322-1D52
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 When a founder complains that their company isn't scaling fast enough, Michael asks them to name the 20 software companies they respect most and identify which one blew up in under a year. The answer is always: none. Palantir started in 2002 and was belittled as 'just a consulting company' for 10-15 years before becoming a cultural phenomenon. Even raising a Series A only means a 90% or higher chance of death.
 

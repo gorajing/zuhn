@@ -52,10 +52,10 @@ related:
   - INS-260323-9E67
   - INS-260323-9E75
   - INS-260330-27DF
+  - INS-260330-365B
   - PRI-260323-9928
   - PRI-260323-A5E8
   - PRI-260324-8EE6
-  - INS-260330-2EB0
 ---
 Harris observes that smart people on both left and right have become 'single issue thinkers' — each side can only see the other's failures. The right minimizes the Capitol attack by pointing to BLM riot hypocrisy; the left racializes a security failure instead of addressing the insurrection itself. He uses the analogy of having cancer and heart disease simultaneously: both are real problems with different causes and remedies, but most people's cognitive architecture collapses to tracking only one threat at a time.
 

@@ -50,10 +50,17 @@ related:
   - INS-260327-CFD5
   - INS-260330-30DE
   - INS-260322-B33E
-  - PRI-260328-C528
+  - INS-260330-44EF
 stance: >-
   If you combine genuine novelty in synthetic biology, robotics, material
   science, and computational design simultaneously, the output is guaranteed ...
+evidence:
+  - id: INS-260322-B33E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8519
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Oxman's project selection criteria requires that every new project be novel along multiple disciplinary axes simultaneously — synthetic biology AND robotics AND material science AND computational design. This multiplicative approach to novelty makes true innovation almost inevitable because the intersection of multiple frontiers is territory nobody has explored.
 

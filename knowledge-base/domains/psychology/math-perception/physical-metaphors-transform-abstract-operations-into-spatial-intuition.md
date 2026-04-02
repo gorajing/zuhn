@@ -48,7 +48,6 @@ stance: >-
   Mapping abstract mathematical operations to physical processes like
   center-of-mass tracking makes the math feel discoverable rather than arbitrary
 related:
-  - INS-260330-487E
   - INS-260330-1609
   - INS-260330-51D6
   - INS-260330-DECB
@@ -58,6 +57,7 @@ related:
   - INS-260330-C8ED
   - INS-260330-3504
   - INS-260330-D511
+  - INS-260330-4E95
 ---
 The standard Fourier Transform formula — an integral of a function multiplied by a complex exponential — looks impenetrable in symbolic form. But 3Blue1Brown maps each component to a physical operation: the exponential becomes rotation around a circle, the function scales the rotating vector's length, and the integral computes the center of mass. Suddenly the formula isn't a black box; it's a machine you can watch operate.
 

@@ -55,6 +55,10 @@ related:
   - PRI-260320-6847
   - INS-260327-84E6
   - INS-260327-38D8
+evidence:
+  - id: INS-260327-79E8
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 When asked how startups defend against commoditization in the AI app space, Ron from Open Router gave a concrete example: one of their leading apps is a Brazilian chat interface that looks like 'just another chat app' on the surface, but is deeply localized for the Brazilian market — taking into account regional preferences, what people search for, and model optimization tuned for that audience.
 

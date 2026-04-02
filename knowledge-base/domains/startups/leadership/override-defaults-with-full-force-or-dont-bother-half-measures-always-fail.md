@@ -51,6 +51,10 @@ related:
   - PRI-260323-2C5C
   - INS-260322-B641
 stance: Life defaults are like software defaults
+evidence:
+  - id: INS-260327-85E2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Nejatian's second core principle: defaults in life are as powerful as defaults in software. People accept nearly every default they're given, and if you start rejecting too many, you 'fire' your current life. He lasted 11 days at a private equity firm (the default career path from business school) before recognizing it wasn't what he wanted — and quit with full force.
 

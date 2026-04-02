@@ -52,5 +52,9 @@ related:
   - INS-260325-4FF3
   - PRI-260328-8317
   - INS-260330-AB67
+evidence:
+  - id: INS-260330-AB67
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Rajaram argues systems of record (Salesforce, NetSuite) face an existential strategic choice as AI agents proliferate. If the profit pool is in workflows, they should make data storage free and shift to outcome-based pricing on agentic workflows. If the profit pool is in the data, they should commoditize all the agentic UI companies building on top of them by building better products using their proprietary data and making those products free. The worst strategy is waiting for others to build on top of you — that's how you become a commodity. This 'commoditize a complement' framework (from Joel Spolsky/Gwern) applies broadly to any incumbent platform facing AI disruption.

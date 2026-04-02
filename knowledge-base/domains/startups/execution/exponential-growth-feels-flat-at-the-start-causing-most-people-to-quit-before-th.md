@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The early phase of exponential growth feels unrewarding because humans
@@ -47,6 +47,21 @@ stance: >-
   People systematically underestimate exponential growth in its early stages,
   which means most abandon compounding efforts precisely when persistence would
   yield outsized returns
+evidence:
+  - id: INS-260328-D1B2
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+related:
+  - INS-260328-D1B2
+  - INS-260330-9346
+  - INS-260330-864C
+  - INS-260330-8FE7
+  - INS-260330-FE65
+  - INS-260330-41A5
+  - INS-260330-AA4F
+  - INS-260330-1C84
+  - INS-260330-AE66
+  - INS-260330-1AB0
 ---
 Graham identifies a fundamental cognitive bias: we cannot intuitively grasp exponential curves, so we underrate compounding efforts in their early stages. Learning compounds (the more you know, the easier it is to learn more), audience growth compounds (fans bring fans), and skill compounds. Yet these all feel flat at the beginning.
 

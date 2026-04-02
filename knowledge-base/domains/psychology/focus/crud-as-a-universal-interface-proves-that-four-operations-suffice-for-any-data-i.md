@@ -60,6 +60,10 @@ related:
   - INS-260329-E4F6
   - INS-260329-057F
   - INS-260330-083D
+evidence:
+  - id: INS-260329-057F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The tutorial presents CRUD (Create, Read, Update, Delete) as the four fundamental database operations, and every SQL command maps to one of them. This isn't just a database concept — it's an example of finding the minimal operation set that spans an entire domain.
 

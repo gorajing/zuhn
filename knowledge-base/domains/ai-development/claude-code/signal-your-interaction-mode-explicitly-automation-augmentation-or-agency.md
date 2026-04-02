@@ -48,5 +48,12 @@ related:
 stance: >-
   Most prompting failures stem from mode mismatch — you intend augmentation
   (think together) but signal automation (just execute), or vice versa
+evidence:
+  - id: INS-260329-D8F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260320-10E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Three interaction modes: Automation (you instruct, model executes — best for well-defined tasks), Augmentation (you and the model think together iteratively — best for complex problems), Agency (you delegate goals, model determines approach — requires clear success criteria). 'Help me write a blog post about pricing' is ambiguous — it could mean brainstorm together (augmentation), write the complete post (automation), or research-outline-draft-edit (agency). Mode mismatch is the #1 cause of disappointing AI output. Explicit delegation signals prevent oscillation between hesitation and overreach.

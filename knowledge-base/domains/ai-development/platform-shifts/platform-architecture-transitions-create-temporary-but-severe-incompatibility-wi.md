@@ -51,10 +51,10 @@ stance: >-
   regressions in specific domains.
 related:
   - INS-260329-3489
+  - INS-260402-543E
   - INS-260322-CFB1
   - INS-260321-015B
   - INS-260330-AB62
-  - INS-260330-E5F7
 ---
 The M1 transition revealed a predictable pattern in platform shifts: native iOS/C++ builds saw 40-50% improvement, JavaScript/Node workloads were comparable, but Android development and .NET were essentially broken. Rosetta 2's translation layer handled most x86 software surprisingly well, but CPU-intensive workflows like Android emulation couldn't survive the translation overhead.
 

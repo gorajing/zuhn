@@ -62,6 +62,10 @@ related:
   - INS-260329-3383
   - INS-260330-C2C4
   - INS-260330-AB62
+evidence:
+  - id: INS-260330-C2C4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Karpathy frames the AI landscape using an operating systems analogy: the LLM/transformer is the CPU, text/images/audio are peripherals, and existing software 1.0 infrastructure connects to this new computational substrate. OpenAI and other providers will ship default apps (like browsers ship with operating systems), but this doesn't preclude a vibrant ecosystem of specialized applications tuned to specific niches of the economy.
 

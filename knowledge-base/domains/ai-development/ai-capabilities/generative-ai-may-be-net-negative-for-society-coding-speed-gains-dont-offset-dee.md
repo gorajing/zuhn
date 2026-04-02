@@ -58,9 +58,17 @@ related:
   - INS-260323-D2AA
   - INS-260330-23CD
   - INS-260330-E881
+  - INS-260402-876A
 stance: >-
   When you tally coding assistance against deepfake porn, education degradation,
   military errors killing innocents, and employment disruption, genera...
+evidence:
+  - id: INS-260330-23CD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E881
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Marcus makes a provocative cost-benefit argument: generative AI certainly helps coders write faster, but weighed against the full ledger of consequences — non-consensual deepfake porn, schools unable to educate students who outsource thinking to ChatGPT, misinformation from deepfakes, unreliable military applications potentially killing innocents, and mounting employment disruption — it's not obvious the technology is net positive for society.
 

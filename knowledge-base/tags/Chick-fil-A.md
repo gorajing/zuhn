@@ -1,3 +1,3 @@
-# Tag: chick-fil-a
+# Tag: Chick-fil-A
 
-- `INS-260329-A90C` Chick-fil-A's quality-first approach outlasted Boston Market's growth-first strategy because quality compounds while bloat collapses.
+- `INS-260327-4D54` Chick-fil-A chicken contains seed oils MSG and TBHQ despite simple chicken marketing

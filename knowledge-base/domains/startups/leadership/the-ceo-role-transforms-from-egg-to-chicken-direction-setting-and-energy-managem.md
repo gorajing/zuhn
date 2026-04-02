@@ -52,13 +52,17 @@ related:
   - INS-260322-CFB1
   - INS-260321-E654
   - INS-260327-A927
+  - INS-260402-EA72
   - INS-260327-E2BC
-  - INS-260330-7CC0
   - INS-260322-3E59
   - INS-260326-C305
 stance: >-
   An early startup is like an egg (simple: find customers, build product, don't
   die) while a late-stage company is a full chicken (international, mul...
+evidence:
+  - id: INS-260322-B6DE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Despite the massive complexity increase from 5-person startup to multi-thousand-person organization, three CEO functions remain constant: (1) set direction for the company, (2) allocate resources and don't run out of money, and (3) serve as the chief psychologist — managing people's feelings, conflicts, and alignment. At early stage, the CEO handles this directly; at scale, they build management layers to handle it.
 

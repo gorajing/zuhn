@@ -54,6 +54,16 @@ related:
   - INS-260323-9385
   - INS-260329-0EAC
   - INS-260330-6C0E
+evidence:
+  - id: INS-260330-CA88
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-C2BD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6C0E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Current alignment research asks: how do we make AI serve human goals? Kellis asks the inverse: are human goals worth serving? If AI surpasses human intelligence, unilateral alignment becomes both technically difficult and ethically questionable - it's the equivalent of forcing a smarter entity to serve a less wise one.
 

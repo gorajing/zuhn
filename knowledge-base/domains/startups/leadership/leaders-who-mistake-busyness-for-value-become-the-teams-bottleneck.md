@@ -45,7 +45,6 @@ resolutions:
     density is too low.
 related:
   - INS-260323-CB34
-  - INS-260323-BC20
   - INS-260322-2ABB
   - PRI-260323-9EAD
   - INS-260330-F08F

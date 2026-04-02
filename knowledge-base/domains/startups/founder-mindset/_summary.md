@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 270 insights
+> 271 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -22,6 +22,7 @@
 - `INS-260323-E874` [high] The XZ attacker succeeded specifically because the maintainer was burned out and desperate for help — burnout is an attack surface.
 - `INS-260329-EC01` [high] Champions win by saying no to everything except their singular focus, not by adding more skills or opportunities.
 - `INS-260322-750A` [high] Browse top-grossing apps, find categories with identical competitors, then build the same concept with a differentiated angle for an underserved segment.
+- `INS-260402-8EED` [high] A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier.
 - `INS-260329-C91D` [high] Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260322-AF17` [high] Founders resist comping themselves to public companies because it feels like comparing yourself to astronauts — but the winners (DoorDash, Facebook) were always benchmarking against the biggest players, not other startups.
 - `INS-260325-486C` [high] Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
@@ -153,6 +154,7 @@
 - `INS-260323-422B` [high] The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.
 - `INS-260323-95BC` [high] Instead of continuous improvement (74 days to 72), strip every problem back to first principles and ask what physics allows — you'll often find 6 days is possible, and then the conversation from 74 to 6 becomes surprisingly productive.
 - `INS-260329-A01C` [high] The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
+- `INS-260402-27A1` [high] A failed startup teaches more founder skills in one year than several years at a big company.
 - `INS-260327-80A8` [high] A startup success is your customer success — focus on whether they are getting value, not on vanity metrics.
 - `INS-260329-E0DE` [high] Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
 - `INS-260323-475F` [high] Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
@@ -172,6 +174,7 @@
 - `INS-260329-E078` [high] Career success follows a two-phase model: broad exploration to find your edge, then ruthless exploitation of that single edge.
 - `INS-260329-727B` [high] The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260325-B14B` [high] Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
+- `INS-260402-96E2` [high] Starting a company in mid-century America was rejected not as too risky but as too low-status compared to climbing institutional ladders.
 - `INS-260323-DA1E` [high] John Bell revolutionized physics by re-examining the EPR paradox that everyone had dismissed as 'settled' — his theorem proved that local hidden variables make different predictions than quantum mechanics, turning a philosophical debate into a testable experiment.
 - `INS-260328-FFC3` [high] Telling a great engineer to 'build better software' is useless — telling them to invest in sales is transformative.
 - `INS-260329-0117` [high] The '7 income streams' advice is survivorship bias — millionaires built wealth by going all-in on one stream, then diversified to preserve it.
@@ -191,7 +194,6 @@
 - `INS-260323-61CD` [high] The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260325-DFC7` [high] FlashIntel CEO Yi Shi: find industries where standards are not set, apply tech first — tokens are the new currency in the AI era.
 - `INS-260328-12EE` [high] Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
-- `INS-260330-1AEA` [high] Business instincts fail in startups but people instincts remain reliable—founders who ignore misgivings about partners always regret it.
 - `INS-260329-6117` [high] The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260329-5C7A` [high] Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
 - `INS-260322-A61A` [high] Stan Lee tested Spider-Man in a dying magazine's last issue because nobody cared what went in it — low-stakes channels are the perfect testing ground for ideas that gatekeepers rejected.
@@ -254,7 +256,6 @@
 - `INS-260327-DD1D` [medium] Quitting during a crisis reduces competition and can create better startup conditions than boom times.
 - `INS-260328-A46F` [medium] Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260330-95E8` [medium] OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
-- `INS-260329-0935` [medium] Skipping college self-selects for risk tolerance, which is the same trait that predicts entrepreneurial success.
 - `INS-260329-A6F0` [medium] Strategic imbalance for a defined period produces better lifetime outcomes than perpetual moderate balance that never breaks free of constraints.
 - `INS-260329-EC98` [medium] Build for people like you — authentic understanding of customer pain produces better products and more resilient motivation than external market research.
 - `INS-260329-CD64` [medium] Building for people who share your lived experience creates the emotional fuel to persist and the empathy to build exceptional products.

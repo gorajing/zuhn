@@ -56,6 +56,16 @@ related:
 stance: >-
   The Autoresearch loop (change a file, measure the result, keep or discard) can
   optimize any prompt-driven process with measurable outputs
+evidence:
+  - id: INS-260329-FEBA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-0D43
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-69CD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Karpathy's Autoresearch repo was designed for ML training script optimization: an AI agent tweaks code, runs it, checks if results improved, keeps changes if they did, discards if not, and repeats. He got 11% improvement running hundreds of experiments overnight. But the insight most people miss is that this pattern generalizes to anything with three components: a file to change (the prompt), instructions on what to optimize, and a way to measure whether it got better.
 

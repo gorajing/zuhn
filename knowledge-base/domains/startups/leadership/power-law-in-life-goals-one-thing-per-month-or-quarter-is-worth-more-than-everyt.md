@@ -49,6 +49,13 @@ related:
   - INS-260327-8521
   - INS-260327-6177
 stance: There's a power law in everything
+evidence:
+  - id: INS-260327-6177
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0C4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Swanson argues there's a power law in business, venture, and life. Each month or quarter, there's typically one thing that if accomplished is worth more than everything else combined. Most people set too many goals and use the long list to procrastinate on the most important one.
 

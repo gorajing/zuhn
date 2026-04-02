@@ -54,5 +54,9 @@ related:
   - PRI-260328-094A
   - PRI-260328-39FA
   - INS-260329-CA16
+evidence:
+  - id: INS-260320-F8FD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi argues that the distinction between 'hard' and 'soft' skills is misleading. Hard skills are simply easy to measure (typing speed, code output), while soft skills are hard to measure but equally trainable. 'People skills' decomposes into: greeting someone by name, not interrupting, smiling when someone enters, remembering details. Each micro-behavior can be individually trained through deliberate practice. This reframe has practical implications — instead of saying 'I'm not a people person' (a fixed identity claim), you identify which specific micro-behaviors to train. It also explains why soft skills are disproportionately valuable in organizations: they're rare precisely because people treat them as innate rather than trainable.

@@ -52,6 +52,13 @@ related:
 stance: >-
   Quantum computers can perform computations across superpositions but measuring
   collapses to one random result
+evidence:
+  - id: INS-260329-7A6A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-5E67
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The fundamental constraint of quantum computing is the measurement problem: a superposition encodes all answers simultaneously, but observation yields only one random result, destroying the rest. This means quantum speedup requires designing algorithms that funnel superposition states into a form where useful information survives measurement.
 

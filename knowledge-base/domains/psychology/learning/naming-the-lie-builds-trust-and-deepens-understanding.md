@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Flagging your own simplifications as 'kind of a lie, but in the direction of
@@ -49,12 +49,11 @@ stance: >-
   Explicitly telling learners 'this is a simplification and here's how it's
   wrong' increases rather than decreases their confidence in the material
 related:
-  - INS-260326-0C14
-  - INS-260327-D480
-  - INS-260330-F9C9
-  - INS-260330-A9CB
-  - INS-260330-E4D9
-  - INS-260330-D5FB
+  - INS-260330-12DC
+  - INS-260327-70DF
+  - INS-260329-4A69
+  - INS-260329-E914
+  - INS-260330-9BB7
 ---
 Multiple times in the video, 3Blue1Brown explicitly says things like 'this is a little bit of a lie, but it's in the direction of truth' or distinguishes his 'almost Fourier Transform' from the real one. Rather than confusing learners, this transparency does two things: it builds trust (the teacher isn't trying to sneak past the hard parts) and it creates productive tension (the learner knows a refinement is coming and is primed to receive it).
 

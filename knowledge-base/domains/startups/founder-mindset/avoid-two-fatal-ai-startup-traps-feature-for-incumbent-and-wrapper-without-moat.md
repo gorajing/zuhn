@@ -52,5 +52,12 @@ related:
 stance: >-
   Avoid building features that incumbents can bundle (like meeting notetakers
   for Zoom), and avoid pure prompt wrappers that next model releases will...
+evidence:
+  - id: INS-260328-C246
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-91C7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Young identifies two fatal traps for AI founders: (1) Building a feature for an existing ICP within an existing workflow built by an incumbent — like building a standalone meeting notetaker when Zoom or Google Meet can trivially add that feature and owns the distribution. You're targeting the same ICP, same use case, attached to their platform. (2) Being 'just a wrapper with some prompts' — if foundation models already do the job 80-90% well, the next release will do it 99-100%. Every AI founder should be 'AGI-pilled': predict what foundation models will release in the next few weeks or months and build above that line. Own the workflow end-to-end so AI is part of your solution, not all of it.

@@ -55,6 +55,16 @@ resolutions:
 stance: >-
   Claude won't reliably use skills on its own — build a hook system to inject
   skill reminders automatically.
+evidence:
+  - id: INS-260329-4D06
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-BCB7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-1D3B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Even with exact keyword matches in prompts, Claude does not reliably activate

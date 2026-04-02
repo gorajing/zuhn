@@ -59,6 +59,25 @@ related:
   - INS-260327-7214
   - INS-260327-6EFB
 stance: LLM hallucination and creativity are the same mechanism
+evidence:
+  - id: INS-260330-2B3F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-1930
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-38D8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-369C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-FCC1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-6EFB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Andreessen shares a revealing anecdote: his firm assumed law firms would want maximally truthful LLMs to avoid fake citations. Instead, the law firm wanted creative mode for generating novel legal arguments and case theories — they'd cross-check citations manually. The insight is that hallucination and creativity are the same underlying capability; the label depends on context.
 

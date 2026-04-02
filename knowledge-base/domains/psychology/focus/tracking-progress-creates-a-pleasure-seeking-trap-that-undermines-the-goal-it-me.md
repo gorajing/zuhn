@@ -57,6 +57,7 @@ related:
   - INS-260329-28A6
   - INS-260330-8D2C
   - INS-260330-06E3
+  - INS-260330-59A4
   - INS-260330-85E1
 ---
 Naval describes noticing that feeling 'more free than before' and recording progress becomes its own pleasure cycle. The excitement of progress is pleasure derived from a self-image ('I'm in a better place now'). This creates fragility: any setback — a moment of anger, anxiety, or perceived regression — withdraws that pleasure and produces suffering proportional to the investment in the progress narrative.

@@ -61,6 +61,10 @@ related:
 stance: >-
   Instead of continuous improvement (74 days to 72), strip every problem back to
   first principles and ask what physics allows
+evidence:
+  - id: INS-260327-40DA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Jensen describes a methodology he started 30 years ago called 'speed of light' thinking. The speed of light is his shorthand for the physical limits of what's possible — applied to memory speed, math speed, power, cost, time, manufacturing cycle time, everything. Every design decision at NVIDIA is tested against these theoretical limits.
 

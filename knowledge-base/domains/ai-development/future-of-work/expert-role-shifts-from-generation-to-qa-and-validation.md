@@ -47,5 +47,12 @@ related:
   - PRI-260321-14D8
   - INS-260323-F15D
   - INS-260329-B1A1
+evidence:
+  - id: INS-260323-F15D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-B1A1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 For domain experts, AI inverts the time allocation: what used to be 90% generation and 10% review becomes mostly QA and validation of machine-generated output. This doesn't eliminate the expert — it amplifies them. A lawyer who can review and approve 10 AI-drafted arguments per day is far more productive than one who manually drafts a single argument. The key insight is that domain expertise becomes more valuable in an AI world, not less, because the bottleneck shifts from production to judgment. Experts who embrace this role shift — treating themselves as quality controllers rather than producers — become dramatically more valuable to employers and clients.

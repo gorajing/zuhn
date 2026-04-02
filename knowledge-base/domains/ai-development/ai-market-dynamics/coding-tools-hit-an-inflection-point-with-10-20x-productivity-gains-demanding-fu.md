@@ -65,6 +65,19 @@ related:
 stance: >-
   A portfolio founder assigned two AI-native engineers with unlimited budgets on
   Claude Code, Codex, and Cursor and saw 10-20x faster progress
+evidence:
+  - id: INS-260330-63BA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-FFC3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-BF81
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-9192
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 David George describes a concrete case study: a pre-AI company founder, frustrated with a product, assigned two deeply AI-skilled engineers to rebuild it from scratch using Claude Code, Codex, and Cursor with unlimited tool budgets. Progress was 10-20x faster than their existing team. The tool bills were high enough that it forced the founder to reconsider what his entire org should look like — concluding he needs every product and engineering team working this way within 12 months.
 

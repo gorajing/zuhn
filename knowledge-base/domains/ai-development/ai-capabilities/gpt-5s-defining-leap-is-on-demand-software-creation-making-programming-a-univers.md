@@ -55,6 +55,13 @@ related:
 stance: >-
   Altman identifies GPT-5's most striking capability as generating working
   software instantly from natural language, transforming programming from a ...
+evidence:
+  - id: INS-260327-2C5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5975
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 While GPT-4 could answer hard questions, GPT-5's coding ability changes the relationship between ideas and software. Altman's example: he asked GPT-5 to recreate his childhood TI-83 Snake game — it did it perfectly in 7 seconds. But the transformative moment came after: he could rapidly iterate, adding features and expressing new ideas in real time. He went from worried about kids missing the struggle of learning to program to 'thrilled for them.'
 

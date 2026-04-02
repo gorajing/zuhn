@@ -61,6 +61,10 @@ related:
   - INS-260327-EC45
   - INS-260329-3DD7
   - INS-260329-3C25
+evidence:
+  - id: INS-260322-B6DE
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Bosmeny references Christoph Janz's 'five ways to build a $100M business' framework to illustrate that price point and sales motion are inextricably linked. If customers pay $100K/year, you need 1,000 of them and can afford high-touch enterprise sales. If they pay $10/year, you need 10 million and must invest in self-service, marketing funnels, and referral mechanisms instead.
 

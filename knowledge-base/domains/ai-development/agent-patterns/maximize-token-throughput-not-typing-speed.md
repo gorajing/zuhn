@@ -44,5 +44,9 @@ related:
 stance: >-
   Your bottleneck shifted from typing speed to token throughput — maximize how
   many agent sessions you can run in parallel, not how fast you code.
+evidence:
+  - id: INS-260329-4696
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Karpathy describes going from 80/20 writing code himself to 20/80 delegating to agents since December 2025. The new skill is parallelizing multiple agent sessions across repos, reviewing their work, and giving macro-level instructions. When your subscription has capacity left, you're not maximizing your throughput. Think of it like GPU utilization — idle tokens are wasted capability.

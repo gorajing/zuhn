@@ -59,6 +59,12 @@ evidence:
   - id: INS-260327-B17D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-4C92
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-A4BF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Unlike traditional products where features A, B, and C interact in predictable ways, AI products powered by large models have unbounded possibility spaces. Luma AI discovered that users generated content the team never imagined. There's no test suite that covers all possible uses of a generative model.
 

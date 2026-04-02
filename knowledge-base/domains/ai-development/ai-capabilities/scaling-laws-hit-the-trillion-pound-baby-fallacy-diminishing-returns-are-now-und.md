@@ -62,6 +62,19 @@ related:
 stance: >-
   The leap from GPT-4 to GPT-5 was subtle enough to require benchmarks, unlike
   earlier leaps that were obvious in minutes — scaling has hit a wall.
+evidence:
+  - id: INS-260328-EA3A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-C8D5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-E8CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-F310
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Marcus calls the scaling hypothesis the 'trillion-pound baby fallacy' — just because your baby doubles weight in month one doesn't mean it'll weigh a trillion pounds at college. The AI industry made this exact naive extrapolation: pour more data and GPUs, and intelligence emerges. Early leaps were dramatic — GPT-1 to GPT-2 to GPT-3 each showed obvious improvements within minutes of use. But GPT-5 vs GPT-4 required formal benchmarks to detect improvement.
 

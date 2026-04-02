@@ -56,6 +56,10 @@ related:
   - PRI-260324-7ED9
   - INS-260324-5B35
   - INS-260321-52EF
+evidence:
+  - id: INS-260321-52EF
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 When half of Tom Monaghan's staff didn't show up one evening, he was forced to limit the menu — and it turned out to be one of their most profitable nights. Data showed 80% of dorm orders were for 12-inch pizzas, so Domino's cut to just that size (later adding one more). They removed submarine sandwiches, reduced toppings to six, and offered only Coca-Cola. The result was counterintuitive: despite less choice, customers didn't order less food — they ordered more of the profitable items. The simpler menu also made production dramatically faster and more efficient, enabling the delivery-focused model that became their competitive moat.
 

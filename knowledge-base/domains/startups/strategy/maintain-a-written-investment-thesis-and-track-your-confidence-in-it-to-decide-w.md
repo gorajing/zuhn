@@ -49,7 +49,6 @@ stance: >-
   measure their confidence in it make better persist-or-pivot decisions than
   those who rely on gut feeling or external pressure alone.
 related:
-  - INS-260325-9AD4
   - INS-260330-F1C8
   - INS-260330-AB6E
   - INS-260327-80A8

@@ -61,6 +61,10 @@ related:
   - INS-260325-59D4
   - INS-260330-7D5F
   - PRI-260328-4144
+evidence:
+  - id: INS-260325-24D1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Harari draws a sharp contrast between the Ten Commandments and the US Constitution — both are foundational 'fictions' that organize society, but one claims divine authorship (precluding amendment) while the other starts with 'We the People' and includes explicit amendment procedures. The Ten Commandments still endorse slavery in the 10th Commandment with no mechanism for correction; the Constitution has been amended precisely because it acknowledges its human fallibility.
 

@@ -63,6 +63,13 @@ related:
   - INS-260323-DA4A
   - INS-260330-A44F
   - INS-260327-E0B0
+evidence:
+  - id: INS-260322-823B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-A44F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dario explains the ASL framework: ASL-2 (current level) means powerful models whose risks are comparable to other technologies. ASL-3 (which Anthropic's latest models are approaching) means models that could allow an unskilled person to do things requiring PhD-level expertise in dangerous domains like bioweapons — expanding the pool of potentially dangerous actors from tens of thousands to tens of millions.
 

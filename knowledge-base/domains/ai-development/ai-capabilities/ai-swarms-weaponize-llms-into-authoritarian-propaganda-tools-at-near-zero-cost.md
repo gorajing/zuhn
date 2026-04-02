@@ -52,9 +52,17 @@ related:
   - INS-260323-E492
   - INS-260330-95F3
   - PRI-260328-C006
+  - INS-260330-5F21
 stance: >-
   Coordinated bot swarms using LLMs can now maintain persistent fake personas
   and manufactured consensus at unprecedented scale, threatening democrat...
+evidence:
+  - id: INS-260322-2D2F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-95F3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Marcus co-authored a Science article with 23 authors including Nobel laureate Maria Ressa warning about AI swarms — coordinated networks of interacting bots that create artificial consensus. Unlike older bots that could only copy-paste talking points, LLM-powered bots maintain character over time, restate positions in different words, and are increasingly undetectable. Half of content on platforms like X may already be bot-generated.
 

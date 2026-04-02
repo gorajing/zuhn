@@ -55,6 +55,10 @@ related:
 stance: >-
   The Aharonov-Bohm effect required 27 years of progressively tighter
   experiments
+evidence:
+  - id: INS-260325-F48E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The theoretical prediction was published in 1959. Chambers' first experiment largely confirmed it, but critics noted stray magnetic fields from the finite whisker could explain the results. For 27 years, experimentalists iterated: longer solenoids, better shielding, more precise measurements. Each experiment closed some objections but left others open.
 

@@ -50,9 +50,14 @@ related:
   - PRI-260328-DD90
   - INS-260325-FDF5
   - INS-260330-956E
+  - INS-260330-E670
 stance: >-
   True AI-native companies embed AI directly into the product so it works with
   the customer without human involvement, scaling with compute instead o...
+evidence:
+  - id: INS-260321-807B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Coning distinguishes two types of AI value: process (using AI to code faster, handle support tickets) and product (embedding AI so it directly serves customers). Gamma exemplifies this — instead of hiring thousands of graphic designers, they let users write a few sentences and AI generates a deck. The core AI unlock was tiny but transformative.
 

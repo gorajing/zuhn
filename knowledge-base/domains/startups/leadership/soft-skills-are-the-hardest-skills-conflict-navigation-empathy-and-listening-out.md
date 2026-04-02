@@ -55,5 +55,9 @@ related:
 stance: >-
   With 44% of technical skills becoming obsolete within 10 years, the hardest
   and most durable leadership skills are the soft ones
+evidence:
+  - id: INS-260320-DDD9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wharton Dean Erica James makes a counterintuitive argument that directly challenges the tech-skills-first narrative: soft skills are actually the hardest skills. There's no answer in the back of the book for how to manage conflict — every individual is different and you have to relearn constantly. Meanwhile, 44% of technical skills will be obsolete within a decade. Graduates today may hold 7 careers, many in roles that don't exist yet. The most durable competitive advantage isn't learning the current tech stack — it's developing relationship skills, listening ability, empathy, and the capacity for difficult conversations. This counterweights the prevailing AI narrative that emphasizes technical fluency. Leaders who over-index on technical skills at the expense of human skills are building on a foundation with a 10-year shelf life.

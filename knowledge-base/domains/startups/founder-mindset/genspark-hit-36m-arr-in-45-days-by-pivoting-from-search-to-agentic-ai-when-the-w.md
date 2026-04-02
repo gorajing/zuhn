@@ -53,5 +53,9 @@ related:
   - INS-260329-22B6
   - PRI-260328-A1AA
   - INS-260327-BA8E
+evidence:
+  - id: INS-260321-6437
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wen Sang, co-founder of Genspark, spent 9 years building a parking data network before pivoting to AI. When ChatGPT launched, they recognized search was dead and pivoted to building an agentic AI platform for knowledge workers (presentations, spreadsheets, documents). Result: $36M ARR and 2M users in 45 days with pure word-of-mouth growth. Key insight: they explicitly believe there is no moat in AI except velocity. Their controversial stance: every AI product should expect to be disrupted and must outrun disruption through shipping speed. The pivot pattern: 9 years of domain expertise + willingness to throw it all away when the world changes = explosive growth.

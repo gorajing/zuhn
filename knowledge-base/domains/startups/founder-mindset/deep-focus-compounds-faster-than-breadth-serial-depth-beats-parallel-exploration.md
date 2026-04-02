@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Sustained focus on one domain compounds returns far more than spreading
@@ -45,6 +45,12 @@ stance: >-
   Entrepreneurs who go deep on one thing for years will outperform those who
   diversify early, because compounding returns require sustained concentration
   in a single domain.
+related:
+  - INS-260327-73CB
+  - INS-260329-595E
+  - INS-260330-4285
+  - INS-260325-05FC
+  - INS-260329-D1A1
 ---
 Hormozi argues that the biggest returns come from going deep rather than wide. The compounding effect of expertise, reputation, and systems only kicks in after sustained focus in a single area. Early diversification resets the compounding clock each time.
 

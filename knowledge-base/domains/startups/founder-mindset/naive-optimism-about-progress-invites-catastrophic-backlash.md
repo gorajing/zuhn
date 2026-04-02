@@ -51,6 +51,6 @@ related:
   - PRI-260328-D292
   - INS-260330-7E97
   - INS-260325-6F7F
-  - INS-260325-F306
+  - INS-260402-9F35
 ---
 By the late 1800s, technological optimism was so dominant that people genuinely believed expanding trade and industry would end war forever. The catastrophic world wars proved them spectacularly wrong — technology had made war more terrible, not obsolete. This created a generational crisis of confidence in progress itself. Crawford argues the mistake was not believing in progress but being naive about it — failing to acknowledge that progress is messy, has real costs (environmental damage, safety hazards, social disruption), and requires active steering. The modern equivalent is the AI discourse: techno-optimists who dismiss all risks create the conditions for a regulatory and cultural backlash that could be more damaging than the risks themselves.

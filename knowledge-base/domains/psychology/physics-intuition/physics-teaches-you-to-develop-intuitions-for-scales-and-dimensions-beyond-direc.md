@@ -62,6 +62,10 @@ related:
 stance: >-
   Physics forces you beyond the limitation of human senses to develop intuitions
   that apply at different distances, scales, and ways of thinking
+evidence:
+  - id: INS-260327-DC0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Randall emphasizes that physics' greatest gift is not specific knowledge but the meta-skill of reasoning beyond direct perception. Humans are limited to what we can see, but dark matter proves that what we cannot see is five-sixths of reality. Learning to reason about invisible forces, extreme scales, and counterintuitive dynamics is what physics training actually provides.
 

@@ -53,6 +53,10 @@ related:
   - INS-260329-4020
   - INS-260329-CBF3
   - INS-260330-0BBA
+evidence:
+  - id: INS-260322-A208
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi argues that if you could have only one advantage in business, it should be a 'starving crowd' — customers with acute, urgent pain who are actively seeking a solution. This is more valuable than a superior product, better marketing, or stronger execution. A mediocre hot dog stand outside a stadium after a game will outsell a gourmet restaurant in an empty neighborhood.
 

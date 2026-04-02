@@ -59,6 +59,13 @@ related:
   - INS-260330-9346
   - INS-260330-38C9
   - PRI-260328-E349
+evidence:
+  - id: INS-260330-9346
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-38C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In 2015, it felt like ubiquitous self-driving was imminent -- people pre-ordered Tesla FSD expecting it by 2017. The reality: what was predicted for 2017 is only now happening in 2025, and even then with significant human-operator involvement (TA operators managing Waymo fleets). The technical breakthrough required deleting hard-coded C++ rules and replacing them with ML approaches that hadn't been invented yet -- computer science had to catch up.
 

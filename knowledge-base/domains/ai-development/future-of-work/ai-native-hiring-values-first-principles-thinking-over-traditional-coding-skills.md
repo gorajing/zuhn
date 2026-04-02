@@ -58,6 +58,25 @@ related:
   - INS-260330-0346
   - INS-260322-AC23
   - INS-260330-26E7
+evidence:
+  - id: INS-260326-7B2A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-C6CE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A817
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0346
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-AC23
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-26E7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Linda from Minimax shared a sharp framework for AI-era talent: the people thriving are first-principles thinkers who are versatile and use AI to fortify themselves. Those being displaced are order-takers who execute predefined solutions. In Minimax job interviews, candidates can vibe-code their way through technical assessments — the method matters less than whether they solve the problem.
 

@@ -58,6 +58,10 @@ related:
   - INS-260329-5C65
   - INS-260329-1028
   - INS-260329-88B2
+evidence:
+  - id: INS-260329-5427
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This single C++ tutorial has accumulated over 13 million views since 2018. freeCodeCamp's model — giving away complete, high-quality tutorials with no paywall — creates an enormous top-of-funnel that drives donations, brand recognition, and community membership. The counter-intuitive insight is that comprehensive free content outperforms teaser content at audience building.
 

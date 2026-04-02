@@ -65,6 +65,10 @@ related:
   - INS-260329-5AC5
   - INS-260329-519E
   - INS-260329-075F
+evidence:
+  - id: INS-260321-9824
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 CS50P's structure reveals a powerful learning principle: Malan introduces variables through simple programs, then reintroduces them in the context of conditionals, then loops, then functions — each pass adding one new dimension of complexity while reinforcing prior concepts. This is scaffolded learning at its most effective. The student never encounters more than one unfamiliar concept at a time, which keeps cognitive load manageable while building interconnected mental models.
 

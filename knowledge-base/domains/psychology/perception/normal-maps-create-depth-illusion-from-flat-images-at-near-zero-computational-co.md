@@ -61,6 +61,10 @@ related:
   - INS-260330-80A2
   - INS-260330-FC6E
   - INS-260330-BBEE
+evidence:
+  - id: INS-260330-4F10
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Normal maps are purple-tinted images that encode surface angle information, telling the renderer how light should bounce off each pixel as if the surface had bumps and crevices that don't actually exist in the geometry. When applied to a smooth sphere (like a moon), a normal map creates the convincing illusion of craters and mountains without adding a single extra polygon.
 

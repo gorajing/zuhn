@@ -59,6 +59,37 @@ related:
 stance: >-
   AI outputs sound so complete and reasonable that users may believe they have
   the full picture on controversial topics
+evidence:
+  - id: INS-260327-5688
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-36F0
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3570
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F500
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-CFEA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-DEF0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-CCD9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-031A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CDE1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-F734
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Loh tunes his X feed to right-leaning viewpoints and his Facebook to left-leaning viewpoints, reading both every day. His goal isn't to find truth in either side but to identify where they disagree and understand why — using disagreement as the signal for underlying values differences.
 

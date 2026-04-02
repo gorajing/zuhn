@@ -57,6 +57,10 @@ related:
   - PRI-260328-37D8
   - INS-260330-DE16
   - INS-260330-8EC6
+evidence:
+  - id: INS-260330-DE16
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video demonstrates that even a simple to-do app in vanilla JS requires manually querying DOM elements, imperatively creating and appending nodes, and managing the disconnect between application state and UI. The HTML markup gives no indication of bound events or data flow. As Fireship puts it: 'what you'll end up doing is building your own shitty JavaScript framework.'
 

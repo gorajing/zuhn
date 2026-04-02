@@ -57,6 +57,25 @@ related:
 stance: >-
   Every AI employee should map to one of seven business operations stages:
   outreach, discovery, proposal, sales, onboarding, retention, and competiti...
+evidence:
+  - id: INS-260322-A892
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-CC57
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DD5C
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-A927
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4C93
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-3585
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Building AI agents without mapping them to business processes creates toys, not tools. The 7-stage business operations loop provides the structure: (1) Outreach — AI SDR scrapes leads from natural language descriptions, personalizes emails, and tracks engagement. (2) Discovery — meeting intelligence with access to historical transcripts. (3) Proposal — automated prototype and proposal generation after discovery calls. (4) Sales — phone agent for inbound/outbound calls with speed-to-lead automation. (5) Onboarding — automated client setup workflows. (6) Retention — ongoing engagement and upsell identification. (7) Competitive Intelligence — market monitoring and analysis.
 

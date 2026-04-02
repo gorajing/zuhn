@@ -60,6 +60,10 @@ related:
   - INS-260329-C4A4
   - INS-260329-D38D
   - INS-260330-44C7
+evidence:
+  - id: INS-260327-DFF1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi presents a mental model: $250/month at 9% compounding for 40 years equals approximately $1M. This creates a simple gamification layer — save $500/month and you're building toward $2M, save $1,000/month and it's $4M. The genius is in the simplicity: instead of complex financial planning, you have one number to optimize.
 

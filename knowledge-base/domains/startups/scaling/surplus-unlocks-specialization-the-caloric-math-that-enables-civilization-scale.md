@@ -55,6 +55,10 @@ related:
   - INS-260330-40DA
   - INS-260330-2B8F
   - INS-260329-9D26
+evidence:
+  - id: INS-260329-9D26
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Pre-agriculture, it took roughly 1,000 calories of work to produce 1,000 calories of food — a break-even existence where everyone had to forage. Agriculture broke this ratio, generating surplus that could support tradespeople. Those specialists then built better farming tools, further increasing surplus, enabling more specialization. This is the original compounding flywheel.
 

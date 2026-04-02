@@ -1,5 +1,6 @@
 # Tag: institutional-design
 
+- `INS-260402-5522` When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing.
 - `INS-260327-85DA` Evolution wired us for short-term thinking, and then we built institutions (elections, quarterly earnings, news cycles) that amplify exactly this bias at civilizational scale.
 - `INS-260330-946B` Trump demonstrated that democratic norms are insufficient guardrails — institutions need explicit laws and structural constraints designed to contain worst-case actors.
 - `INS-260330-F8A2` The British created separate Christian, Jewish, and Muslim institutions in Palestine specifically to prevent unified Palestinian opposition.

@@ -50,5 +50,9 @@ related:
   - INS-260329-7A39
   - PRI-260328-FBB3
   - INS-260329-180B
+evidence:
+  - id: INS-260322-68FE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Ross made a deliberate design choice: instead of creating separate onboarding tutorial screens, the onboarding IS the user's first mood tracking entry. The user learns the app by using it. This is counterintuitive because most mobile apps front-load explanation screens. But the insight is that tutorial screens add friction before the user has received any value, while action-as-onboarding delivers value immediately. The user completes their first mood entry and simultaneously understands the app's core loop. This pattern works especially well for single-feature apps where the core action is simple enough to be self-explanatory.

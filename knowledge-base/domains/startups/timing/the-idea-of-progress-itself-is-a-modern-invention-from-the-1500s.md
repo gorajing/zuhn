@@ -53,6 +53,10 @@ related:
   - INS-260327-2021
   - INS-260325-F306
   - INS-260327-D24A
+evidence:
+  - id: INS-260327-D24A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Through most of human history, societies viewed history as cyclical or declining from a golden age. The ancients were seen as intellectual giants who could never be surpassed. It took the voyages of discovery and thinkers like Francis Bacon in the late 1500s to argue that new knowledge and invention could exceed ancient achievements.
 

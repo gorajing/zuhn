@@ -47,5 +47,9 @@ related:
   - INS-260330-8D99
   - INS-260330-3C3C
   - INS-260330-AB3E
+evidence:
+  - id: INS-260327-9DB0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The popular description of entropy as 'disorder' misleads because it conflates spatial arrangement with energy distribution. A desk covered in papers looks disordered but says nothing about thermodynamic entropy. Clausius's original quantity measures how dispersed energy is across a system — concentrated energy (low entropy) can do work, while spread-out energy (high entropy) cannot. This reframing resolves common confusions: ice melting isn't about 'disorder' increasing, it's about thermal energy spreading from warm surroundings into the ice lattice. The 'energy spreading' mental model also makes the second law intuitive — energy spreads for the same reason a Rubik's cube gets scrambled with random turns: there are astronomically more spread-out configurations than concentrated ones.

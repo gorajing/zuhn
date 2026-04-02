@@ -56,6 +56,10 @@ related:
   - INS-260329-9101
   - INS-260329-7691
   - INS-260329-96EC
+evidence:
+  - id: INS-260329-72C1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi presents a leverage hierarchy where each level produces fundamentally different compounding dynamics. At the bottom, labor leverage trades time for money linearly. Capital leverage allows money to work independently but requires initial accumulation. Code leverage creates zero-marginal-cost replication. Content/media leverage combines zero-marginal-cost with network-effect distribution.
 

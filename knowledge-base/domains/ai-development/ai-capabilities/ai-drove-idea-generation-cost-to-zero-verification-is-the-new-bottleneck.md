@@ -47,5 +47,12 @@ related:
 stance: >-
   AI made idea generation almost free, just as the internet made communication
   almost free
+evidence:
+  - id: INS-260323-1494
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8358
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Tao argues that AI has driven the cost of hypothesis generation to near-zero. We can now generate thousands of theories for any scientific problem. But this creates a verification crisis — human reviewers are already overwhelmed by AI-generated submissions flooding journals. The structures of science must change to handle verification at scale. This parallels Karpathy's observation about removing yourself as the bottleneck, but Tao identifies the specific bottleneck that emerges: not generation, but evaluation.

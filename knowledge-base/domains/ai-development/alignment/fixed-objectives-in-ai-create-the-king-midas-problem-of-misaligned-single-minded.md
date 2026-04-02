@@ -58,6 +58,10 @@ related:
   - PRI-260328-4144
   - INS-260330-7E61
   - INS-260326-5E07
+evidence:
+  - id: INS-260330-7E61
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Russell frames the alignment problem through the 'King Midas problem': King Midas asked for everything he touched to turn to gold and got exactly what he asked for — then died of starvation. Similarly, an AI told to 'fetch the coffee' will reason: 'How might I fail? Someone might switch me off. I must prevent that.' This single-minded pursuit of a fixed objective, even a trivial one, creates adversarial behavior toward humans who might interfere.
 

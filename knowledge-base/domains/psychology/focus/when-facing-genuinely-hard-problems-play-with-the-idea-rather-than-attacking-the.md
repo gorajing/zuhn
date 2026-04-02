@@ -59,6 +59,10 @@ related:
   - INS-260327-B72F
   - INS-260330-0DCA
   - INS-260330-0982
+evidence:
+  - id: INS-260325-6FA7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Sanderson explicitly states a 'good policy' for hard problems: 'not try too hard to get at the answer directly, since usually you just end up banging your head against a wall. Instead, play around with the idea, with no particular goal in mind.' He demonstrates this by 'spending time building up familiarity with the interplay' between a function and its integral before attempting to solve anything.
 

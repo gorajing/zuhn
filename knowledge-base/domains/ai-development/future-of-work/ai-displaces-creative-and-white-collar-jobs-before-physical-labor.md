@@ -47,5 +47,12 @@ related:
   - INS-260329-6CE8
   - INS-260327-2627
   - INS-260325-E84D
+evidence:
+  - id: INS-260327-2627
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-E84D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Most people assumed AI would first replace low-skilled physical labor, then low-skilled white-collar work, then high-skilled programming, and finally creative jobs. The actual displacement happened in reverse order — copywriters, designers, customer service, and legal work were disrupted first. This is because language and image generation were the first capabilities to reach human-level quality, while physical robotics remains far behind. The implication is that knowledge workers and creatives face more immediate disruption than manual laborers, and should be the first to adapt their workflows around AI augmentation rather than assuming they are insulated by skill level.

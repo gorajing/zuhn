@@ -42,6 +42,10 @@ resolutions:
     downstream hooks would have no way to know what changed during a session.
     It is the foundation of the entire hook pipeline.
 stance: PostToolUse hooks should track file edits and feed downstream automation
+evidence:
+  - id: INS-260322-24FB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 The File Edit Tracker is a PostToolUse hook that fires after every tool

@@ -57,6 +57,22 @@ related:
   - INS-260327-B403
   - INS-260329-5975
   - INS-260330-E881
+evidence:
+  - id: INS-260321-3D65
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D0F3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-B403
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5975
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E881
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Thomas Wolf identifies a three-phase developer evolution: traditional software development, then AI-aware development (where most developers now understand LLMs and want to train models), and next, robotics-aware development. The LeRobot library bridges this gap: it's just Python code, so with vibe coding tools, even non-roboticists can control robots and create new behaviors.
 

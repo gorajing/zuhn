@@ -44,6 +44,25 @@ resolutions:
 stance: >-
   Thorough plan review before implementation catches silly mistakes and saves
   significant time
+evidence:
+  - id: INS-260330-1C61
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-3C19
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-2B45
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-7DAA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-B0BA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B882
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 After Claude generates a plan, do not immediately proceed to implementation.

@@ -60,6 +60,10 @@ related:
   - PRI-260323-A33E
   - INS-260329-ACE6
   - INS-260330-9BB7
+evidence:
+  - id: INS-260327-3F40
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The video's central thesis is that psychology is 'one of the most wildly diverse sciences' and that the human mind 'must be pried at from all sides.' Unlike physics or chemistry which converged on unified frameworks, psychology's maturation has involved maintaining structuralism's descendants, behaviorism, psychoanalysis, cognitive science, and neuroscience as complementary lenses.
 

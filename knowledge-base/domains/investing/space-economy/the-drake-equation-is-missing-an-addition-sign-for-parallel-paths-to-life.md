@@ -48,11 +48,11 @@ stance: >-
   when multiple independent biochemical pathways could exist, fundamentally
   changing the probability calculation.
 related:
+  - INS-260330-B5D2
   - INS-260325-1709
   - INS-260325-82E8
   - INS-260330-BC3E
   - INS-260325-0A81
-  - INS-260323-8F41
 ---
 The Rare Earth hypothesis stacks up hundreds of narrow conditions required for life (specific moon size, ocean chemistry, land fraction, etc.) and multiplies them into near-zero probability. Kipping's critique is elegant: this model assumes a single path to life. If there are multiple independent paths using different chemistry, the calculation needs addition, not just multiplication.
 

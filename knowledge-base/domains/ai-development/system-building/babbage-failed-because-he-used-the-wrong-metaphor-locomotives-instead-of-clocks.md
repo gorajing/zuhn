@@ -59,6 +59,7 @@ related:
   - INS-260330-CA43
   - INS-260327-95D3
   - INS-260330-91EA
+  - INS-260402-237D
 ---
 Babbage's difference engine concept was sound — chain together adding machines to fit curves to data. But he built it as a locomotive-scale machine with large brass gears, pushing the limits of contemporary machining. His lead engineer advanced British precision engineering but never produced a fully working machine. Decades later, a Swedish father and son built a working version using clock technology: smaller, cheaper, with standardized parts and lower energy requirements.
 

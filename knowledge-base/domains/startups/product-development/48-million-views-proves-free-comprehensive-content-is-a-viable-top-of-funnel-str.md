@@ -54,6 +54,10 @@ related:
   - INS-260329-9A42
   - INS-260329-69F0
   - PRI-260328-BDC2
+evidence:
+  - id: INS-260329-5427
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 This single 4.5-hour tutorial has accumulated 48 million views over 8 years — a sustained acquisition engine that costs nothing to maintain after creation. freeCodeCamp built its entire brand and community on this model: give away the most comprehensive version of educational content for free, and the resulting audience creates a self-sustaining ecosystem of contributors, donors, and brand recognition.
 

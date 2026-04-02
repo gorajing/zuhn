@@ -60,5 +60,12 @@ related:
   - INS-260323-E161
   - PRI-260328-D2FB
   - INS-260330-8FF8
+evidence:
+  - id: INS-260326-CAAB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-E161
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The instructor highlights that zero-based indexing 'confuses many, many intro computer science students' because 'most if not all mathematics is one-based while computer science is zero-based.' He then escalates the observation: quantum computing is 'a mess' because it tries to please mathematicians, computer scientists, and physicists simultaneously. This reveals something deeper than a beginner's stumbling block — it's an instance of how domain conventions create persistent cognitive friction at boundaries. When a programmer moves between mathematical notation and code, or between programming languages with different conventions, the translation overhead introduces subtle bugs. The broader insight is that convention mismatches between adjacent fields create a permanent tax on cross-domain work, and the cost is not eliminated by expertise — only managed through deliberate awareness.

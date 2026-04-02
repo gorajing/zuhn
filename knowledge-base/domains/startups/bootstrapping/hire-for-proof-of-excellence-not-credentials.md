@@ -50,6 +50,10 @@ related:
 stance: >-
   ElevenLabs hired from non-traditional backgrounds by looking for proof of
   excellence
+evidence:
+  - id: INS-260325-D19B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 ElevenLabs built a world-class team by deliberately hiring from non-traditional backgrounds. Their early hires included an astrophysicist, a White House staffer, and someone with a master's in an unrelated field who was building text-to-speech on the side. The common thread was proof of excellence: open-source contributions, passion projects, or any demonstration of exceptional ability outside conventional career paths.
 

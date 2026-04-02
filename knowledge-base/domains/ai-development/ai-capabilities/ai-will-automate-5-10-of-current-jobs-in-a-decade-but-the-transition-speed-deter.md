@@ -59,6 +59,19 @@ related:
 stance: >-
   The total percentage of jobs automated matters less than whether displacement
   happens gradually (manageable) or in a 6-month shock (potentially des...
+evidence:
+  - id: INS-260327-3A81
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E874
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A70C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-F4CB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Epoch AI's researchers converge on 5-10% of current jobs being automated away over the next decade, which is roughly comparable to what software already did. The critical variable is not the total magnitude but the speed of transition. A 5% increase in unemployment over 6 months would trigger massive political and social reactions — comparable to COVID-era responses with trillion-dollar stimulus packages in weeks.
 

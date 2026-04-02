@@ -61,6 +61,16 @@ related:
   - INS-260327-A61B
   - INS-260325-2BDB
   - INS-260330-95F3
+evidence:
+  - id: INS-260327-DF2F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-A61B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-95F3
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Howard distinguishes between regulating high-risk AI applications (health insurance denials, criminal justice) — which he supports — and regulating the creation of foundation models themselves. The latter was added to the EU AI Act through lobbying from 'AI safety nonprofits' funded by tech billionaire money, and would require government permission to build models exceeding current frontier capabilities.
 

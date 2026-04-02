@@ -58,6 +58,13 @@ related:
   - INS-260329-12EA
   - INS-260329-ECB5
   - INS-260330-8D34
+evidence:
+  - id: INS-260327-1795
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-4EE4
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Gamma differentiates from ChatGPT-generated slides through design taste. Their team was one-third designers at the early stage (4 of 12), which is highly unusual in Silicon Valley startups. These designers craft the building blocks (layouts, themes, diagrams, color palettes) that AI then orchestrates. The AI advantage is generating 10 variations and picking the best in three seconds, something a human could never do, but the quality of each variation depends on the taste encoded in the building blocks.
 

@@ -54,8 +54,13 @@ related:
   - PRI-260320-D5B7
   - INS-260325-5F3B
   - INS-260326-7F79
+  - INS-260402-543E
   - INS-260329-4DBC
   - INS-260327-63B5
+evidence:
+  - id: INS-260329-4DBC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Block's Goose agent embodies a philosophy of not over-engineering AI tool use. Rather than building elaborate integrations that tell the agent exactly how to interact with each tool, they let Goose learn from doing. When a workflow succeeds, users can bake it into a 'recipe' and share it with teammates. The team found that Goose is often more capable than hand-crafted tool-specific integrations because it figures out solutions in surprising ways that humans wouldn't think to encode.
 

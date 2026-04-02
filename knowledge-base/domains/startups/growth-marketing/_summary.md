@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 128 insights
+> 127 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -21,7 +21,6 @@
 - `INS-260327-7CAF` [high] Roomies created a comedic series about NYC apartment hunting instead of promoting their rental software — and it drove millions of views in their target demographic.
 - `INS-260322-9172` [high] Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
 - `INS-260320-A1D3` [high] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
-- `INS-260329-0A55` [high] Sell to entities that aggregate your target customers rather than pursuing end customers one by one.
 - `INS-260327-AC84` [high] Blind-box collectible products combine scarcity, gambling mechanics, and social media completionism to create purchasing
 - `INS-260327-CFC5` [high] The explosion of consumer credit — credit cards, BNPL, installment plans — doesn't just shift spending forward, it creates spending that would never happen if consumers could see the true price.
 - `INS-260327-7EFD` [high] Apple Stores aren't stores — they're temples designed to create an emotional experience that makes price irrelevant by the time you reach the checkout.

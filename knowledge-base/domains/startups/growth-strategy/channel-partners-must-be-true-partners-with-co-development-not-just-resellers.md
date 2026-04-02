@@ -58,5 +58,12 @@ related:
   - PRI-260328-BDC2
   - INS-260330-760D
   - INS-260327-17BE
+evidence:
+  - id: INS-260322-3010
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-091C
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Goodarzi is emphatic that before jumping into 'how do I build a channel,' founders should ask 'what problem am I trying to solve with a channel partner?' The Intuit accountant channel works because accountants are already deeply influential in what businesses use. When an accountant recommends a customer to use QuickBooks (especially mid-market), the sales cycle is 10x faster and the customer adopts more services (payments, payroll). But this required evolving from treating accountants as a channel to treating them as true partners: co-developing products, incorporating their input, helping them build their own practices. The parallel to HubSpot's agency channel is striking — both companies found that channel-acquired customers have better retention economics than direct customers. The key criteria for a successful channel: the partner must use, love, and recommend your product — not just sell it.

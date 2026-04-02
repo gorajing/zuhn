@@ -47,10 +47,11 @@ stance: >-
   that maximizes engagement at the cost of accurate worldviews.
 related:
   - PRI-260328-C006
+  - INS-260330-18F3
   - INS-260329-13D2
   - PRI-260324-8EE6
   - PRI-260323-DAB9
-  - INS-260327-112B
+  - INS-260402-C49E
 ---
 Recommendation algorithms optimize for engagement, which correlates with emotional intensity. The result is systematic amplification of outrage, fear, conflict, and extremity across billions of users. Each individual sees a curated reality that's more threatening, more polarized, and more hopeless than actual reality.
 

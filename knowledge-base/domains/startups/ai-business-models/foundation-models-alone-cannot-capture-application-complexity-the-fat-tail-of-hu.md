@@ -63,6 +63,31 @@ related:
 stance: >-
   The prediction that giant foundation models would be all-purpose brains has
   not materialized
+evidence:
+  - id: INS-260323-8519
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260321-3967
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4E8E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260322-8BD1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-89AE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1D37
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-299C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-EE5B
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Ben Horowitz notes that the expectation from 3-4 years ago was that big foundation models would be giant brains capable of doing anything better than anyone. Reality has been different. Cursor uses 13 different AI models, each handling different aspects of how people program and interact with code. The complexity lies in what Horowitz calls the 'fat tail of human behavior' — the enormous variety of real-world scenarios that must be modeled and understood for any particular use case.
 

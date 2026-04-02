@@ -54,6 +54,10 @@ related:
   - INS-260330-A484
   - INS-260330-43EE
   - INS-260325-E84D
+evidence:
+  - id: INS-260325-4C92
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Dunning-Kruger effect, inspired by McArthur Wheeler's lemon-juice bank robbery disguise, describes a structural metacognitive failure: the skills required to produce correct judgments are the same skills needed to recognize correct judgments. A novice who doesn't understand a field can't evaluate their own performance in it. Conversely, experts often underestimate their abilities, assuming others share their level of knowledge.
 

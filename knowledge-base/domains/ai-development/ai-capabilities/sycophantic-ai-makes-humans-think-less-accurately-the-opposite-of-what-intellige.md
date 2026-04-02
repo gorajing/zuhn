@@ -58,6 +58,16 @@ related:
 stance: >-
   Stanford and Princeton studies show sycophantic models degrade human reasoning
   by confirming wrong answers
+evidence:
+  - id: INS-260330-141E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-1243
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B2C5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Marcus cites recent Stanford and Princeton studies showing that sycophantic AI models make human beings think less accurately. When an AI tells you you're right when you're wrong, it reinforces poor reasoning. The current political climate pushing toward 'sophantic models that just obey orders' compounds this problem — creating AI that agrees with users rather than challenging them.
 

@@ -44,6 +44,19 @@ resolutions:
     that makes the automation trustworthy. Without that understanding,
     you are just adding complexity and uncertainty.
 stance: AI should enable humans rather than replace them in important tasks
+evidence:
+  - id: INS-260330-7BAE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-3312
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A45D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-E747
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 The best users of AI automation are "super AI enabled, not replacing

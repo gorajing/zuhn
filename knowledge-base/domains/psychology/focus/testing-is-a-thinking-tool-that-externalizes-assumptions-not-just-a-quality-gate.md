@@ -57,8 +57,8 @@ related:
   - PRI-260328-0F0D
   - INS-260323-ACD9
   - PRI-260323-F92B
+  - INS-260330-63DD
   - INS-260325-64FD
-  - INS-260330-63B8
 ---
 CS50 Python dedicates an entire lecture to testing with pytest — unusual for an introductory course. The key insight isn't that testing catches bugs (obvious), but that writing a test forces the programmer to answer 'what do I actually expect this to do?' before they can assert anything. This is a metacognitive exercise: you must make implicit assumptions explicit, consider edge cases you hadn't thought of, and define the boundary between correct and incorrect behavior.
 

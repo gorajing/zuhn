@@ -53,6 +53,10 @@ related:
 stance: >-
   Data network effects are like gravity — invisible at the atomic level,
   undeniable at planetary scale
+evidence:
+  - id: INS-260325-4C6D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The gravitational metaphor for data network effects: one atom technically exerts gravity on you, but you only notice it at the scale of the Earth or Jupiter. Similarly, data advantages at small scale ('I've seen 4 customers, my competitor has seen 3') are meaningless — there are 8 billion customers neither of you has seen.
 

@@ -55,6 +55,13 @@ related:
 stance: >-
   You can only iterate fearlessly on expensive robots if you can repair them
   yourself
+evidence:
+  - id: INS-260323-6134
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1B82
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Playter describes a core Boston Dynamics principle: it's okay — even good — to break stuff. But this fearless iteration is only possible because the team can repair what they break. If you're working with equipment you can't fix, you treat it with kid gloves and can't make progress.
 

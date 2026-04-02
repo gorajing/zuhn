@@ -56,6 +56,7 @@ related:
   - INS-260327-4E34
   - INS-260330-22D6
   - INS-260330-59FD
+  - INS-260402-96E2
 stance: >-
   Casper rejected Target's $900M acquisition offer because it wasn't a billion
   dollars; the company IPO'd at $500M, then continued dropping

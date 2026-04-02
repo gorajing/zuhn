@@ -54,6 +54,10 @@ related:
 stance: >-
   Asbestos companies funded Saranac Labs research with a clause giving them
   editorial control, then buried findings that showed cancer links.
+evidence:
+  - id: INS-260323-F62A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In the 1930s, Raybestos and Johns-Manville hired Saranac Laboratories to study asbestos effects on animals — but with an explicit contractual clause: 'the results will be considered the property of those who are advancing the required funds, who will determine whether, to what extent and in what manner they shall be made public.' When the lead researcher died, the companies edited the report, crossing out entire sections linking asbestos to cancer.
 

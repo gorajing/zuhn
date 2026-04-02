@@ -1,5 +1,6 @@
 # Tag: gatekeeping
 
+- `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260330-B8B0` Confucian scholars wrote that good emperors study Confucian classics — written by scholars — creating a circular dependency that sustained their institutional power for millennia.
 - `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260330-D0AB` Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.

@@ -51,5 +51,9 @@ related:
   - PRI-260328-8317
   - INS-260330-217C
   - PRI-260328-A1AA
+evidence:
+  - id: INS-260330-B28C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video notes that over 40% of banking systems still run on COBOL with 200+ billion lines of production code, making it a lucrative career choice despite being 'ancient.' This is a supply-demand arbitrage: as COBOL developers retire and no new graduates learn it, the remaining practitioners command premium rates for maintaining critical financial infrastructure. This pattern generalizes beyond COBOL — any technology that is (1) deeply embedded in critical systems, (2) unfashionable enough to discourage new entrants, and (3) too expensive to fully replace creates a contrarian career opportunity. The same dynamic applies to FORTRAN in scientific computing, Ada in defense, and mainframe systems generally. For startups, this suggests a business model: building modernization bridges (like compilers, translators, or wrapper APIs) for legacy stacks where talent is scarce.

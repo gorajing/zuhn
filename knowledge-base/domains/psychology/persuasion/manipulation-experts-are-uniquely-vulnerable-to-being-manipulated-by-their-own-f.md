@@ -24,8 +24,9 @@ sources:
 date_extracted: '2026-03-30'
 last_accessed: null
 access_count: 0
-indexed: false
-embedded: false
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Adams, the self-proclaimed expert on manipulation tactics, was ultimately
@@ -57,6 +58,16 @@ stance: >-
   manipulation that operates through their own framework, as demonstrated by
   Adams being destroyed by the exact 'say something inoffensive with secret
   offensive meaning' tactic he championed.
+related:
+  - INS-260323-FDB8
+  - INS-260323-BEE6
+  - INS-260327-0D82
+  - INS-260327-5E93
+  - INS-260329-444F
+  - INS-260330-4FED
+  - INS-260330-8733
+  - INS-260329-58E7
+  - INS-260327-9BA2
 ---
 Alexander observes a striking irony: 4chan's 'It's Okay To Be White' campaign was essentially an application of Adams' own persuasion playbook — say something completely inoffensive, ensure everyone knows it has a secret offensive meaning, then retreat to 'What? You can't be upset at our totally inoffensive thing!' when challenged. This tactic didn't fool woke critics at all (people wearing the t-shirts got treated exactly as if wearing swastikas). The only person it apparently fooled was Adams himself, 'the professional not-being-fooled-by-political-manipulation expert,' who took the resulting poll at face value and made career-ending comments based on it.
 

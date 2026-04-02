@@ -49,14 +49,39 @@ related:
   - INS-260323-19A8
   - INS-260323-F9E5
   - INS-260323-4457
+  - INS-260402-EA72
   - INS-260327-9830
-  - INS-260330-3E6B
   - INS-260328-58B1
   - INS-260329-A57B
   - INS-260330-2952
 stance: >-
   Unlike traditional software where nine women can't have a baby in one month,
   AI allows companies to throw money and GPUs at problems
+evidence:
+  - id: INS-260323-19A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-F9E5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-4457
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-9830
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3E6B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-58B1
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-A57B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-2952
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The 'mythical man-month' principle held for the entire history of software: you can't accelerate development by adding more people beyond a small optimal team. This meant startups that figured something out with 7-8 people had durable leads that even Google couldn't close by throwing 1,000 engineers at the problem.
 

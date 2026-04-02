@@ -56,6 +56,10 @@ related:
   - INS-260330-6D2E
   - INS-260325-4C6D
   - INS-260330-EF74
+evidence:
+  - id: INS-260325-4C6D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Vitalik makes a subtle but crucial distinction: technical feasibility of running a node is one aspect, but culture is equally important. People need to feel that independent verification is 'a very ingrained responsibility.' He notes this culture is difficult to cultivate and once lost is 'fairly difficult to try to get back.' The two reinforce each other: a culture that values running nodes will push for protocol changes that make it easier, and easy node operation makes that culture sustainable.
 

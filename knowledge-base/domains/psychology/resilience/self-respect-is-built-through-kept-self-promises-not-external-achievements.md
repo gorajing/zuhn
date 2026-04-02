@@ -49,11 +49,11 @@ stance: >-
   self-respect erodes specifically through broken self-promises because you are
   the only witness who knows exactly how hard you could have pushed.
 related:
+  - INS-260330-59A4
   - INS-260325-BA76
   - INS-260327-B64B
   - INS-260326-C692
   - INS-260327-CD49
-  - INS-260323-5B9F
   - INS-260330-24E0
 ---
 External reputation damage is visible and socially reinforced, but the most consequential reputation to lose is the one you hold with yourself. Every time you commit to an action — an extra gym session, more cold calls, a higher-quality deliverable — and then renege, you erode self-trust. Unlike external observers, you have perfect information about how hard you could have pushed.

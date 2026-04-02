@@ -22,7 +22,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Builder-investors who deploy templatized operational playbooks into
@@ -49,11 +49,14 @@ stance: >-
   The most reliable investment returns come from deploying proven operational
   playbooks into companies rather than trying to identify mispriced assets.
 related:
-  - PRI-260328-0AB1
-  - INS-260325-0C4A
-  - INS-260321-4178
-  - INS-260326-8E6D
-  - INS-260321-C14C
+  - INS-260323-960A
+  - INS-260323-422B
+  - INS-260326-6B98
+  - PRI-260328-3FEF
+  - INS-260330-2413
+  - INS-260325-0688
+  - INS-260321-3521
+  - INS-260402-6BB6
 ---
 Hormozi distinguishes two fundamental investing philosophies: Bettors (Buffett-style) who find companies trading below intrinsic value and wait for appreciation, versus Builders who have a specific operational hold code — templatized SOPs and playbooks — that they deploy into companies to directly create value. Most private equity combines both, but Hormozi's acquisition.com leans toward building.
 

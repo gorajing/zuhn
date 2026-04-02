@@ -50,6 +50,10 @@ related:
   - PRI-260328-386C
   - INS-260330-63B8
   - INS-260325-24D1
+evidence:
+  - id: INS-260325-24D1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi frames 'ignorance debt' as worse than financial debt because it's invisible and compounds in the wrong direction — the less you know, the worse your decisions, which keeps you poor in both money and knowledge. Financial debt at least has a known interest rate; ignorance debt has an unknown and often exponential cost.
 

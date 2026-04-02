@@ -48,6 +48,13 @@ resolutions:
 stance: >-
   Pre-injection hooks that analyze prompts and inject skill context before
   Claude reads them improve output quality
+evidence:
+  - id: INS-260327-5AFE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-294E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 
 The UserPromptSubmit hook fires before Claude processes a user message. It

@@ -57,6 +57,10 @@ related:
 stance: >-
   Synthetic peptides beyond GLP-1s are spreading through tech culture using the
   same early-adopter logic as beta-testing software
+evidence:
+  - id: INS-260321-7C97
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The peptide phenomenon reveals how Silicon Valley's risk-tolerance framework has migrated from software to biology. Users explicitly compare trying untested peptides to beta-testing a new app — accepting potential side effects as the cost of gaining an edge others don't have. The supply chain mirrors gray-market tech: Chinese factories selling via Discord, labeled 'for research purposes only,' with Bitcoin payments.
 

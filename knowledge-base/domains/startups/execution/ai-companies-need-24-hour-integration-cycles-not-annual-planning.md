@@ -56,5 +56,9 @@ related:
   - INS-260322-AAEA
   - INS-260321-E5C5
   - INS-260330-3585
+evidence:
+  - id: INS-260322-1D52
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Both founders describe minimal planning: Lovable has a lightweight 6-month product roadmap that's highly flexible, while ElevenLabs does quarterly planning with teams spending up to a day outlining initiatives. But the most revealing comment is about research: ElevenLabs gives no timelines on research initiatives. The reason is that research output is unpredictable, and the competitive advantage comes from speed of integration when something works. Mati says small teams of 5-10 people (30 teams total at ElevenLabs) are essential because when something comes out — internally or externally — you have 24 hours to start integrating it into the product. This is fundamentally different from traditional planning, where the cycle is plan-build-ship-measure. In AI, the cycle is detect-integrate-ship, with the detection-to-integration gap being the primary competitive battleground.

@@ -58,6 +58,7 @@ related:
   - PRI-260323-A33E
   - INS-260330-237E
   - INS-260330-EDF4
+  - INS-260402-9F35
 ---
 The pre-WWII Western world largely assumed that scientific, industrial, and technological progress naturally carried moral progress with it. Germany — the nation of Goethe, Beethoven, and cutting-edge science — used its industrial capacity for systematic genocide, proving these dimensions are orthogonal.
 

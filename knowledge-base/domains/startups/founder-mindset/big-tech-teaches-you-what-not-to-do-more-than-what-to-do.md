@@ -46,7 +46,6 @@ stance: >-
   helpful because the processes, speed, and culture of large companies are the
   exact opposite of what startups need.
 related:
-  - INS-260327-5297
   - PRI-260328-E9B5
   - PRI-260328-0C51
   - INS-260330-0346

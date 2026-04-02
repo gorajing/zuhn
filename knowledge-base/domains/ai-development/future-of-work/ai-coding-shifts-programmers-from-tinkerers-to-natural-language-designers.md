@@ -51,5 +51,12 @@ related:
   - INS-260329-500E
   - INS-260329-FEC5
   - INS-260329-7B1D
+evidence:
+  - id: INS-260329-1ACD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-7B1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Lex Fridman describes his personal workflow evolution: he now allocates significant time to 'designing with natural language first versus writing code from scratch,' using his programming understanding to edit LLM-generated code rather than authoring it directly. He frames this as riding the wave of improving code-generating LLMs by continuously switching to state-of-the-art tools (Emacs → VS Code → Cursor). The key insight is the specific career transformation strategy: don't compete with AI at code generation, instead develop the parallel skill of directing AI effectively. This is actionable because it prescribes a concrete behavioral change — spend more time on system design and prompt crafting, less on manual implementation. The underlying claim is that programming expertise becomes most valuable as an editing and quality-assurance layer over AI output rather than as a primary production skill.

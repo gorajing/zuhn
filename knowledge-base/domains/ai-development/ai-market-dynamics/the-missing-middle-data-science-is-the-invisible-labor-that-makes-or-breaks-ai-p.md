@@ -54,5 +54,15 @@ related:
 stance: >-
   Most AI projects fail because organizations skip the unglamorous data science
   work between raw data and AI value.
+evidence:
+  - id: INS-260327-956D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-F46F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-775F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Organizations see ChatGPT's polished interface and assume their own AI deployments will be equally effortless. But ChatGPT spent billions training on massive general datasets — your company data is messy, incomplete, siloed, and not structured for AI consumption. The 'missing middle' is data collection, cleaning, normalization, chunking, embedding, and ongoing evaluation. Companies that throw an FAQ doc into a chatbot and call it AI inevitably fail when real customer questions expose gaps. This directly contradicts the prevailing narrative that AI tools are democratizing — the tools may be accessible, but the data science discipline required to make them work is not. 95% of failed AI projects didn't fail because of bad models; they failed because nobody invested in the boring infrastructure work.

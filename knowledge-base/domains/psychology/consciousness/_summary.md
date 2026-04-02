@@ -1,6 +1,6 @@
 # Topic: consciousness
 
-> 98 insights
+> 94 insights
 
 - `INS-260327-CA82` [high] Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260327-1B60` [high] Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
@@ -14,7 +14,6 @@
 - `INS-260330-A47D` [high] Freud's key insight was that unconscious processes, while hidden, are accessible through structured techniques like free association and dream analysis.
 - `INS-260330-7C42` [high] Clinical psilocybin therapy uses 30-40mg doses because partial dissolution creates anxiety without breakthrough, while full doses enable the mystical-type experiences correlated with lasting therapeutic benefit.
 - `INS-260323-7DBC` [high] At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
-- `INS-260330-81A7` [high] The Darwinian logic of ideas means societies must tolerate the high cost of mostly-bad innovations to capture the vital few that prevent extinction.
 - `INS-260330-84C6` [high] The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
 - `INS-260326-24E6` [high] Embodied engagement accesses what intellect cannot, and psychedelics produce lasting change through a neuroplasticity window -- both show that the body is the primary transformation channel, not the thinking mind.
 - `INS-260330-61C3` [high] The Killingsworth & Gilbert study (Science, 2010) found that what you're thinking matters less for happiness than whether your thoughts match your current activity.
@@ -32,7 +31,6 @@
 - `INS-260330-203F` [high] Johnson argues set and setting are not soft variables but pharmacologically active factors that determine whether the same psilocybin dose produces healing or harm.
 - `INS-260330-43C9` [high] Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - `INS-260325-4C2E` [high] The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
-- `INS-260330-0764` [high] The Cain story reveals that resentment isn't just bitterness — it's an active creative force where the resentful person generates increasingly elaborate justifications for destroying what they secretly admire.
 - `INS-260325-F6AF` [high] The 'hard problem' is why felt experience exists at all, not which brain regions correlate with which feelings.
 - `INS-260330-3672` [high] High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors.
 - `INS-260327-8DC5` [high] If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
@@ -73,7 +71,6 @@
 - `INS-260330-AB5D` [medium] Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260330-EBF7` [medium] Meditation skills like dropping subject-object duality help navigate psychedelic peaks, though peak intensity renders all techniques temporarily inaccessible.
 - `INS-260330-12DC` [medium] Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
-- `INS-260330-BB53` [medium] Pay attention to what you're doing with your attention and notice the consequences — this meta-awareness is the universal solvent for unhappiness.
 - `INS-260325-E17F` [medium] Seth sees panpsychism as motivated by premature skepticism about physicalist explanations — it says consciousness is fundamental to avoid explaining how it arises, but this explanatory retreat is unproductive for science.
 - `INS-260330-BCC7` [medium] Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped.
 - `INS-260330-3888` [medium] Multi-week solo expeditions in the Amazon taught Rosolie that even the most independent people have been surrounded by others every day of their lives, and that true isolation fundamentally recalibrates appreciation for human connection.
@@ -94,7 +91,6 @@
 - `INS-260330-6D5C` [medium] The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete.
 - `INS-260330-1B74` [medium] Thoughts arise unbidden, last fractions of a second, and vanish completely — yet we build our entire sense of self on this flickering stream.
 - `INS-260325-FBA0` [medium] Gratitude aimed beyond the self — toward God, nature, or existence — delivers stronger psychological benefits than person-directed or private gratitude practices.
-- `INS-260330-30FB` [medium] Genuine insight into why a behavior harms you dissolves the behavior without willpower, whereas practice-based approaches maintain a permanent gap between you and the change.
 - `INS-260327-B37E` [medium] Uncontacted tribes are the only remaining examples of human minds shaped entirely by nature rather than civilization - once contacted, their unique perspective is permanently lost.
 - `INS-260327-4C73` [medium] A person following rules to produce perfect Chinese responses without understanding Chinese suggests that behavior and understanding are separable - with direct implications for AI.
 - `INS-260325-916B` [low] Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.

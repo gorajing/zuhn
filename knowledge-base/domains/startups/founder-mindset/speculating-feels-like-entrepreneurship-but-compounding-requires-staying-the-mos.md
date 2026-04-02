@@ -60,6 +60,13 @@ related:
 stance: >-
   The Barber & Odean study of 66,000 investors showed the most active traders
   underperformed the market by 7%/year while the least active performed b...
+evidence:
+  - id: INS-260323-B07C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-DA83
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The speculator confuses boldness with restlessness: crypto, NFTs, day trading, new courses — never sticking with anything long enough for compounding to work. Codie Sanchez spent her 20s jumping from asset management to fashion startup to consulting to side hustles, building nothing. 'Shiny doesn't compound.'
 

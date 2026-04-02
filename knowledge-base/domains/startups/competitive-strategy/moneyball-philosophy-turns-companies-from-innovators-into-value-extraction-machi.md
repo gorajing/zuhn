@@ -54,5 +54,9 @@ related:
 stance: >-
   The Moneyball mindset — data over instinct, singles over home runs — gave
   corporations intellectual cover to rebrand cost-cutting as innovation, sy...
+evidence:
+  - id: INS-260323-3A98
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 After the 2011 Moneyball film, consumer goods giants (Hershey, Kellogg, General Mills, Kraft Heinz) appointed 'numbers guys' as CEOs who dismantled R&D pipelines, diverted budgets to analytics, and focused exclusively on 3-5 core brands. All savings went to dividends and buybacks. This worked for 5-8 years until customers walked away. Kraft Heinz took a $15B writedown. The pattern: optimization as substitute for vision erodes the creative muscle until the company literally cannot invent anymore — they can only buy growth through acquisitions of brands others built.

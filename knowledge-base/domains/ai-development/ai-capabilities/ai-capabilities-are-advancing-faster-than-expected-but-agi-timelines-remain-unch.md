@@ -55,12 +55,21 @@ related:
   - INS-260323-4E12
   - INS-260322-BC97
   - INS-260327-1D37
-  - INS-260327-40DA
   - INS-260327-E0B0
   - INS-260322-5790
   - INS-260328-91A1
   - PRI-260328-A82C
   - INS-260330-4AD5
+evidence:
+  - id: INS-260322-BC97
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-91A1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dalton acknowledges that AI models improved faster than he expected as of January 2025, with a burst of strong new models from multiple providers in late 2025. But he notes a meta-problem: you can't just run a benchmark and know if a model is good -- it takes real-world usage time to assess quality. Despite faster capability gains, his AGI timeline estimates remain roughly unchanged.
 

@@ -54,5 +54,27 @@ related:
   - INS-260327-C7D5
   - INS-260327-2101
   - INS-260327-EB3E
+evidence:
+  - id: INS-260322-24FB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-809A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-4574
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-F15D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-C7D5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-2101
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-EB3E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The most effective AI development workflow isn't trying to get everything perfect in one prompt. It's a rapid cycle: prompt, test the result, refine what needs adjusting, repeat. Because each cycle takes minutes rather than days, you can experiment quickly without getting stuck waiting on long rebuilds. The conversational flow — describe what to adjust, see the change, describe the next adjustment — means you're not locked into your first version and don't need to plan every detail upfront. Over time, these small adjustments compound. Each cycle brings the app closer to what you actually need.

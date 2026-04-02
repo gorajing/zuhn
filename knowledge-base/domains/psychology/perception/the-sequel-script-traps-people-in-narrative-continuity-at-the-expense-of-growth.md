@@ -51,7 +51,13 @@ related:
   - INS-260329-F21F
   - INS-260330-06E3
   - INS-260329-F33F
-  - INS-260330-9863
   - INS-260330-1A55
+evidence:
+  - id: INS-260327-DC0B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-4F3D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Sequel Script is the pattern of making decisions that maintain narrative coherence with one's past. People choose careers aligned with their university major, date the same type of person repeatedly, or even reactively choose the 'opposite' of their last partner — which is still defined by the previous relationship. This script limits exploration by making every decision feel like it needs to 'make sense' in relation to what came before. The counter-question is: 'Am I following my past or discovering my path?' Recognizing the Sequel Script is particularly valuable for founders and career-changers who feel trapped by the sunk cost of previous identity investments.

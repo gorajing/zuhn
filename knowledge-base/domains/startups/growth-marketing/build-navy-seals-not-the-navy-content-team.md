@@ -53,6 +53,10 @@ resolutions:
 stance: >-
   A small elite content team of 5-10 people compounds quality while a large team
   dilutes it
+evidence:
+  - id: INS-260327-0C4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Coconote's content strategy was built around a small, tight team of

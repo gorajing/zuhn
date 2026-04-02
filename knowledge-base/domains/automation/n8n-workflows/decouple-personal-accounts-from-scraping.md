@@ -41,6 +41,10 @@ resolutions:
     principle applies broadly to LinkedIn, Twitter, Instagram, and any
     platform with anti-scraping measures.
 stance: Scraping tools should be decoupled from personal accounts to avoid ban risk
+evidence:
+  - id: INS-260329-30D7
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 The fundamental safety principle for any scraping operation: never connect

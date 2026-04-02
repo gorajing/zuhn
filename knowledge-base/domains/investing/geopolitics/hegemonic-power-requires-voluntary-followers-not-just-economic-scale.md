@@ -48,6 +48,10 @@ related:
   - INS-260323-636C
   - PRI-260323-9295
 stance: Becoming a hegemonic power requires other nations to voluntarily follow
+evidence:
+  - id: INS-260323-636C
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Dr. Kim makes a crucial distinction: hegemonic power is 'not something that happens alone — someone around you has to make it for you.' While many discuss the Global South's alignment with China, she notes the depth of these relationships is shallow — they are options, not commitments.
 

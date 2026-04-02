@@ -55,13 +55,17 @@ related:
   - INS-260320-47DC
   - INS-260323-5CBE
   - INS-260322-C6CE
-  - INS-260323-9A93
   - INS-260327-D9D6
   - INS-260327-BF43
   - INS-260327-A817
   - INS-260330-0B79
   - INS-260330-2F22
   - INS-260330-FE9E
+  - INS-260330-0BBA
+evidence:
+  - id: INS-260320-47DC
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Levie draws a critical distinction in enterprise product development: listen deeply to customer problems but never build exactly what they tell you to build. Customers describe solutions in terms of their current workflows and mental models — they'll ask for features that patch existing processes rather than reimagine them. Your job is to distill many complex requests down into the simplest, most elegant solution that addresses the underlying need.
 

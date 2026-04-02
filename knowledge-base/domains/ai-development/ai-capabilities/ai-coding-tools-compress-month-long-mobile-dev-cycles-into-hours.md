@@ -48,5 +48,18 @@ related:
   - INS-260330-410A
   - INS-260322-3083
   - INS-260329-180B
+evidence:
+  - id: INS-260323-2559
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D0F3
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-410A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-180B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video demonstrates building a complete iOS app — welcome screen, onboarding flow, emotion selection grid, journal entry, home screen with history, detail view with delete — in roughly 37 minutes of active development. The developer, who worked in production iOS code four years ago, noted this would have been a month-long project with a team. Key enablers: Windsurf for AI-assisted coding (one screen at a time from Figma screenshots), Expo for zero-config iOS builds and TestFlight deployment, and the iOS simulator for instant visual feedback. The caveat is this works for simple single-feature apps; complexity still scales non-linearly.

@@ -55,6 +55,13 @@ related:
 stance: >-
   GSP and Lex Fridman agree that in martial arts, skill level is by far the most
   important factor — it trumps strength, size, and even heart.
+evidence:
+  - id: INS-260321-80A9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260320-DDD9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When discussing Elon Musk's martial arts training, Lex and GSP's training partner agree: 'by far and away the most important thing when two people get into a contest — skill level trumps everything else in terms of what's going to turn the outcome.' They note Musk is strong, smart, and has 'a lot of heart,' but his opponent's two years of training experience is 'a big advantage' that creates 'an uphill battle.' Skill beats attributes.
 

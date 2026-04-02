@@ -49,5 +49,9 @@ related:
   - PRI-260328-A1AA
   - INS-260324-62A8
   - PRI-260324-DE71
+evidence:
+  - id: INS-260330-F205
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When China banned Bitcoin mining, Alex had no choice but to build data centers in the US. This forced pivot was painful — nobody wanted to talk to him, costs were extreme, and the business model was unclear. But building physical data center operations from scratch created capabilities (hardware optimization, power management, facility operations) that became the exact foundation needed when AI training demand exploded. The companies that had only done cloud computing could not easily replicate these physical operations capabilities. The lesson: forced pivots from external shocks, while devastating in the moment, can create unique competitive positions if the founder adapts rather than retreats.

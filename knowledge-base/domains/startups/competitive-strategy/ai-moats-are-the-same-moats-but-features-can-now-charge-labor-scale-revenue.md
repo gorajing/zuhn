@@ -54,6 +54,10 @@ related:
 stance: >-
   Traditional moats (system of record, network effects, workflow ownership)
   still apply in AI
+evidence:
+  - id: INS-260325-F20C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The fundamental moats haven't changed: owning the end workflow, becoming the system of record, deeply embedding within customers, and building network effects. What HAS changed is that software can now do the work — meaning the market opportunity is no longer just IT spend but the vastly larger labor market.
 

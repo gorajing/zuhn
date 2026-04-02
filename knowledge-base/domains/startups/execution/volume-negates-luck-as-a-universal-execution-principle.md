@@ -53,5 +53,9 @@ related:
   - INS-260330-8A0C
   - INS-260327-9F46
   - INS-260330-2BEC
+evidence:
+  - id: INS-260321-BFA3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi's core framework 'volume negates luck' reframes the success equation from probabilistic (hoping for a break) to deterministic (guaranteeing enough attempts that at least one succeeds). The key insight is asymmetric risk: a 'no' leaves you exactly where you started, but a 'yes' can change your entire trajectory. This applies universally — job applications, sales calls, investor pitches, partnership outreach. The practical implication is that most people fail not because they lack talent or luck, but because they quit after 5-10 attempts when the math requires 100-1000. By treating each rejection as skill-building (you learn and get less nervous), even the 'failures' compound into competence.

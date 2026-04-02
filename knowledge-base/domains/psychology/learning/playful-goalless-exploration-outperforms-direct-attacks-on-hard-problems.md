@@ -54,5 +54,9 @@ related:
   - INS-260325-C724
   - INS-260323-81F5
   - INS-260325-05FC
+evidence:
+  - id: INS-260325-8065
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Grant explicitly advises: when you encounter a genuinely hard question, 'a good policy is to not try too hard to get at the answer directly, since usually you just end up banging your head against a wall. Instead, play around with the idea, with no particular goal in mind.' He demonstrates this by exploring how the area function A(x) relates to x² through small nudges — not trying to compute the integral, but noticing the derivative relationship that falls out of playful investigation. This mirrors research on incubation effects in creativity: stepping back from goal-directed search allows pattern recognition systems to operate. The practical heuristic is powerful — when stuck, switch from 'solve this' mode to 'explore the neighborhood of this problem' mode.

@@ -79,6 +79,16 @@ related:
   - PRI-260328-A82C
   - INS-260328-0B99
   - INS-260328-0DFE
+evidence:
+  - id: INS-260322-54F3
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-0D87
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260321-F446
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dario is remarkably direct: 'AI is going to be better than almost all humans at almost all things. We have to reckon with that world as soon as possible.' His timeline: 2-4 years to models as intelligent as Nobel Prize winners across fields, able to do anything on a computer — 'any remote work that humans do, any modality, tasks that take days, weeks, months.'
 

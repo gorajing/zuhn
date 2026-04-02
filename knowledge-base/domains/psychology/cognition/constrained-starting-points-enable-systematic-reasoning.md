@@ -56,6 +56,19 @@ related:
   - INS-260330-BF2A
   - INS-260330-CCA2
   - INS-260330-5A2A
+evidence:
+  - id: INS-260325-D392
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260326-E1A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CCA2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4B84
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In physics, vectors can sit anywhere in space — maximum freedom. But in linear algebra, vectors are almost always rooted at the origin. This constraint seems limiting, but it's what enables the entire coordinate system to work: every vector gets a unique numeric representation, and operations like addition and scaling become simple arithmetic on coordinates.
 

@@ -1,6 +1,5 @@
 # Tag: emotional-regulation
 
-- `INS-260330-BB53` Pay attention to what you're doing with your attention and notice the consequences — this meta-awareness is the universal solvent for unhappiness.
 - `INS-260330-B869` Awareness is the one constant that never changes while everything observed within it fluctuates, making it a uniquely stable psychological anchor.
 - `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
 - `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.

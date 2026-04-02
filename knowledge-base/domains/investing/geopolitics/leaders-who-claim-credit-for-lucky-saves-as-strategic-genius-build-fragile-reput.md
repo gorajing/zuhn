@@ -54,13 +54,13 @@ related:
   - INS-260323-DE39
   - INS-260323-8B22
   - INS-260323-3982
-  - PRI-260324-8EE6
   - INS-260327-94CC
   - INS-260327-8760
   - INS-260327-E052
   - INS-260327-6058
   - INS-260327-0D82
-  - INS-260327-0FA9
+  - PRI-260324-8EE6
+  - INS-260330-A1AF
 ---
 Napoleon was actually losing at Marengo when Desaix arrived with fresh troops on his own initiative and launched a counterattack that reversed the battle. Napoleon then rewrote the official account to make it appear he had planned the whole thing. This self-serving attribution reinforced his belief in his own infallibility — a belief that would contribute to disastrous decisions in Spain and Russia.
 

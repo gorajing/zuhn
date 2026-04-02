@@ -59,6 +59,10 @@ related:
 stance: >-
   Separate AI agent work into three roles: the builder constructs platforms, the
   orchestrator manages workflows, and executors are specialized agents...
+evidence:
+  - id: INS-260327-BB71
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The most effective AI agent architecture separates concerns into three distinct roles. The Builder constructs platforms and tools (like Claude Code building applications). The Orchestrator (like OpenClaw) manages workflows, dispatches tasks, and reviews results. The Executors are specialized agents that perform specific work — email outreach, meeting prep, competitor analysis.
 

@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 118 insights
+> 117 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -17,7 +17,7 @@
 - `INS-260330-E263` [high] Concentrate on making a small group of users love your product rather than building something many people merely like.
 - `INS-260330-EA94` [high] Startups must choose depth of user love over breadth because weak enthusiasm cannot be upgraded to devotion, while intense love naturally expands.
 - `INS-260327-D0F3` [high] The apps you actually spend your day using are all built by professional developers; vibe-coded apps are empowering but represent a lower-value segment of the software economy.
-- `INS-260330-B38B` [high] Oxygen — the molecule that enabled all animal life — was originally just a waste product of water-splitting during photosynthesis.
+- `INS-260402-426C` [high] Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
 - `INS-260323-A0CE` [high] If you combine genuine novelty in synthetic biology, robotics, material science, and computational design simultaneously, the output is guaranteed to be novel.
 - `INS-260329-ECB5` [high] Screenshot top competitors from the App Store before designing — users expect familiar patterns, not novel ones.
 - `INS-260330-094B` [high] Aerogel is extraordinary but shatters on impact — embedding it in fiberglass creates a flexible, practical blanket that NASA and industry actually use.
@@ -41,7 +41,6 @@
 - `INS-260327-12BE` [high] The largest Oracle cluster in a company grinding on queries ran 1000x faster on one-tenth the hardware when modeled as a graph in Neo4j.
 - `INS-260327-73BE` [high] Enterprise AI requires explainability and guardrails — graph databases alongside LLMs provide the auditable knowledge network that pure LLMs lack.
 - `INS-260330-84F4` [high] Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.
-- `INS-260330-FA4C` [high] Connected products require treating hardware, software, and data as three equal co-dependent pillars, not a primary discipline with supporting ones.
 - `INS-260327-555D` [high] Gamma's founder dismissed GPT-3 in 2020 as inadequate for slides, but was captivated by Stable Diffusion in 2022 because visual AI output has an inherent virality and magic that text output lacks.
 - `INS-260322-58B7` [high] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
 - `INS-260330-FE9E` [high] Your job is to listen to customer problems and translate them into the best simplest solution — not to build exactly what they tell you to build.

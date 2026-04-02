@@ -51,5 +51,18 @@ related:
 stance: >-
   The hidden multiplier in AI building: have AI document everything it does so
   every project creates a reusable blueprint for the next one.
+evidence:
+  - id: INS-260329-21C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-33D4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-2952
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-3739
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 A small but powerful technique from Kern's architect method: include instructions for AI to document everything it does during the build process. This creates a detailed record that makes every project reusable. When Kern needs to build a similar system for another email address, he feeds the documentation back and says 'here's what we did last time — adapt it.' This transforms AI building from one-off projects into compounding capability. Each build produces not just a working system but also a blueprint that makes the next build faster and more reliable. This maps to a broader principle: the most valuable output of any AI project isn't the product — it's the documented process that makes the product repeatable. Yet most people treat each AI interaction as ephemeral, losing all the learning when the conversation ends.

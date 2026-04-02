@@ -48,5 +48,9 @@ related:
   - INS-260323-DE2B
   - INS-260329-1ECA
   - PRI-260328-0BE1
+evidence:
+  - id: INS-260329-200A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The mood tracker app had exactly one function: select a mood, pick sub-emotions, add an optional note. That's it. No charts, no AI analysis, no social features — even though competitors had all of those. The reasoning is that every feature you add before launch is time spent away from actual users who can tell you what to build next. The competitor app they studied (4.9 stars, 23K ratings, Apple Editor's Choice) started simple too. Build the smallest thing that delivers value, get it on TestFlight, collect feedback via screenshots, and let real users drive your feature roadmap.

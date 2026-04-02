@@ -53,5 +53,9 @@ related:
 stance: >-
   FanDuel and DraftKings are spending billions on advertising and sign-up
   bonuses to acquire users in newly legal states before the regulatory window...
+evidence:
+  - id: INS-260322-C5BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Sports betting was restricted to Nevada and a few locations until 2018. VCs poured billions into mobile-first betting apps. The house edge is baked into odds (sports books profit on every bet regardless of outcome). But FanDuel and DraftKings are still unprofitable — spending more on customer acquisition than they earn from the edge. The bet: once states legalize and competition shakes out, the survivors will own a duopoly with captive users. The regulatory dynamic: each state decides what gambling is legal, creating a patchwork where apps race to be first in each newly legal market. Same playbook as Uber — subsidize usage, capture territory, raise prices later.

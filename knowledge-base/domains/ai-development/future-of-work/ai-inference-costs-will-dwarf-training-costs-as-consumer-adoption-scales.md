@@ -57,6 +57,10 @@ related:
   - INS-260327-EE5B
   - INS-260321-B7CB
   - INS-260327-6061
+evidence:
+  - id: INS-260321-B7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 While training frontier LLMs on all of human knowledge requires massive GPU clusters, this is not where most compute will ultimately be spent. The dominant cost driver will be inference -- running AI systems that respond quickly to millions of users through phones, smart glasses, and other devices. This reframes the AI infrastructure buildout: the current focus on training clusters is a temporary phase, and the long-term infrastructure need is low-latency, high-throughput inference serving at consumer scale.
 
