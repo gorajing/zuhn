@@ -53,13 +53,13 @@ related:
   - INS-260325-BC2A
   - INS-260321-8414
   - PRI-260328-8317
+  - INS-260403-7B04
   - PRI-260328-43F1
   - INS-260330-24A5
   - PRI-260322-8FD4
   - INS-260327-E18C
   - INS-260327-EE5E
   - INS-260327-BB71
-  - INS-260329-7BA7
 stance: >-
   Horizontal consumer AI agents like Manus grow explosively but face acquisition
   by big tech because once agentic capabilities become commoditized, d...

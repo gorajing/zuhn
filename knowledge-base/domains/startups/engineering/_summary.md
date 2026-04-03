@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 21 insights
+> 22 insights
 
 - `INS-260330-72D0` [high] Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260330-40EC` [high] ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
@@ -14,6 +14,7 @@
 - `INS-260403-410A` [high] Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260330-4EC0` [high] RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme.
 - `INS-260330-BFA2` [high] RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
+- `INS-260403-F088` [high] RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.
 - `INS-260330-0017` [high] The electron transport chain extracts energy through 4 sequential protein complexes rather than one reaction — a pattern that applies to any complex value-extraction pipeline.
 - `INS-260330-181B` [high] Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
 - `INS-260403-F835` [medium] Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.

@@ -1,12 +1,13 @@
 # Topic: ai-market-dynamics
 
-> 92 insights
+> 93 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
 - `INS-260323-B07C` [high] A Harvard study found that below-median entrepreneurs saw a 10% decline in profits from AI access because they lacked the judgment to filter good advice from bad.
 - `INS-260323-EF23` [high] The booster-doomer debate creates a false spectrum where the only question is whether powerful AI is good or bad — both camps share the unexamined premise that it works.
 - `INS-260322-1D52` [high] Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
+- `INS-260403-36F4` [high] AI's commoditization cycle compressed from decades to months because of copy-paste, open-source, and API access.
 - `INS-260321-3C8A` [high] AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
 - `INS-260323-3A98` [high] No business became an industry leader through cost-cutting alone — AI investments driven by competitive fear rather than strategic vision will fail.
 - `INS-260323-4945` [high] The AI marketing machine works because massive capital buys corridor-of-power access, and people desperately want to believe technology can solve crises like climate change.

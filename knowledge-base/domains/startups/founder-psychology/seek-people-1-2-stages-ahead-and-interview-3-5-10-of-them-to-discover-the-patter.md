@@ -55,6 +55,7 @@ related:
   - INS-260329-F007
   - INS-260330-752E
   - INS-260330-C215
+  - INS-260403-402A
 stance: In fast-growing companies you cannot learn organically fast enough
 evidence:
   - id: INS-260321-B7CB

@@ -52,10 +52,11 @@ related:
   - INS-260323-1720
   - INS-260403-87AC
   - INS-260330-8A87
+  - INS-260403-7B04
   - INS-260403-D543
-  - INS-260330-EF74
   - INS-260327-130C
   - INS-260329-8DDF
+  - INS-260330-EF74
   - INS-260403-7BA1
 stance: >-
   AI's economic impact and design space exceeds the internet era, meaning more

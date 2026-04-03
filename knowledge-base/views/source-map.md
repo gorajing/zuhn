@@ -3,7 +3,7 @@ Generated on 2026-04-03 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 134 | 2026-03-30 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 138 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -62,6 +62,7 @@ Generated on 2026-04-03 | 2421 sources
 | Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI | youtube | 11 | 2026-03-21 |
 | Lecture 17 - How to Design Hardware Products (Hosain Rahman) | youtube | 11 | 2026-03-31 |
 | The surprisingly simple rules most investors break | Barry Ritholtz | youtube | 11 | 2026-03-25 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 10 | 2026-03-31 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
 | 13 Foods You Should NEVER Buy Organic | youtube | 10 | 2026-03-26 |
 | 14 Money Mistakes to AVOID in Your 20's | youtube | 10 | 2026-03-30 |
@@ -258,9 +259,10 @@ Generated on 2026-04-03 | 2421 sources
 | A Project of One's Own | blog | 5 | 2026-03-31 |
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
 | A Version 1.0 | blog | 5 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 5 | 2026-03-31 |
 | Achieve Product-Market Fit with our Brand-New Value Proposition Canvas | blog | 5 | 2026-03-31 |
+| After Credentials | blog | 5 | 2026-03-31 |
 | AI Agents Are Coming: The Agentic Revolution Explained | blog | 5 | 2026-03-30 |
+| AI Is Like Water | blog | 5 | 2026-03-31 |
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
 | AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
 | Airwallex: How an Outsider Built an $8B Fintech Empire | blog | 5 | 2026-03-30 |
@@ -316,6 +318,7 @@ Generated on 2026-04-03 | 2421 sources
 | How to Get Startup Ideas | blog | 5 | 2026-03-31 |
 | How to Make Pittsburgh a Startup Hub | blog | 5 | 2026-03-31 |
 | How to Make Wealth | blog | 5 | 2026-03-31 |
+| How to Prepare for Your First VC Intro Call (and Actually Impress Them) | blog | 5 | 2026-03-30 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
 | How to Start Google | blog | 5 | 2026-03-31 |
@@ -330,6 +333,7 @@ Generated on 2026-04-03 | 2421 sources
 | Inequality and Risk | blog | 5 | 2026-03-31 |
 | International financial anarchy | blog | 5 | 2026-03-30 |
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
+| Is the MVP Dead? Rethinking Lean Startup Strategies | blog | 5 | 2026-03-30 |
 | Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance | blog | 5 | 2026-03-30 |
 | Last Rights | blog | 5 | 2026-03-30 |
 | Let the Chinese cars in | blog | 5 | 2026-03-30 |
@@ -406,6 +410,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
 | The Verticalization of Everything | blog | 5 | 2026-03-31 |
+| The Wartime CEO: 9 Leadership Principles for Strong Startups | blog | 5 | 2026-03-31 |
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
@@ -667,6 +672,7 @@ Generated on 2026-04-03 | 2421 sources
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
+| Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
@@ -1670,7 +1676,6 @@ Generated on 2026-04-03 | 2421 sources
 | Addressing the Legal & Compliance Challenge | blog | 0 | 2026-03-31 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 0 | 2026-03-30 |
-| After Credentials | blog | 0 | 2026-03-31 |
 | After the Ladder | blog | 0 | 2026-03-31 |
 | AGI Is Closer Than You Think💡, Prompt Engineering Is Dead🧠, AI Will Eat Application Software⚠️ | blog | 0 | 2026-03-30 |
 | AGI Vibes Are Getting Weird, 2025 SaaS Valuations, Most Active Angels | blog | 0 | 2026-03-30 |
@@ -1689,7 +1694,6 @@ Generated on 2026-04-03 | 2421 sources
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
 | AI Is Eating VC📉, Most-Active US Investors💵, Longevity Tech Rebounds🧬 | blog | 0 | 2026-03-30 |
 | AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 0 | 2026-03-30 |
-| AI Is Like Water | blog | 0 | 2026-03-31 |
 | AI is Polytheistic⚖️, Where's My Moat?🏰, Index is the New Sequoia🚀 | blog | 0 | 2026-03-30 |
 | AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 0 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 0 | 2026-03-30 |
@@ -1756,7 +1760,6 @@ Generated on 2026-04-03 | 2421 sources
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 0 | 2026-03-31 |
 | Best Innovation Management Books: 20 Must-Reads for Leaders | blog | 0 | 2026-03-31 |
-| Best innovation management courses: level-up your innovation skills | blog | 0 | 2026-03-31 |
 | Best innovation management software for your business | blog | 0 | 2026-03-31 |
 | Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
 | Beyond Smart | blog | 0 | 2026-03-31 |
@@ -1980,7 +1983,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 0 | 2026-03-30 |
 | How to Lose Time and Money | blog | 0 | 2026-03-31 |
 | How to Model Mezzanine Financing End-to-End | blog | 0 | 2026-03-30 |
-| How to Prepare for Your First VC Intro Call (and Actually Impress Them) | blog | 0 | 2026-03-30 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
@@ -2001,7 +2003,6 @@ Generated on 2026-04-03 | 2421 sources
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 0 | 2026-03-30 |
 | Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 0 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 0 | 2026-03-30 |
-| Is the MVP Dead? Rethinking Lean Startup Strategies | blog | 0 | 2026-03-30 |
 | Is There Such a Thing as Good Taste? | blog | 0 | 2026-03-31 |
 | Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 0 | 2026-03-30 |
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
@@ -2278,7 +2279,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Venture Capital Apocalypse | blog | 0 | 2026-03-30 |
 | The Venture Capital Playbook | blog | 0 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 0 | 2026-03-31 |
-| The Wartime CEO: 9 Leadership Principles for Strong Startups | blog | 0 | 2026-03-31 |
 | The Word "Hacker" | blog | 0 | 2026-03-31 |
 | There isn't always a "long arc" of morality | blog | 0 | 2026-03-30 |
 | This Week #0: Advice on growth, product, and leadership | blog | 0 | 2026-03-31 |

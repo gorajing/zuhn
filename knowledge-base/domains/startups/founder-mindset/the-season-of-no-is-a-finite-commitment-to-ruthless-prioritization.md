@@ -45,11 +45,11 @@ stance: >-
   Entering a time-bounded period of saying no to everything non-essential is the
   highest-leverage mindset shift for founders
 related:
+  - INS-260403-3FF5
   - INS-260327-B410
   - INS-260327-3C19
   - INS-260322-F128
   - INS-260330-7A80
-  - INS-260323-A700
 evidence:
   - id: INS-260327-B410
     type: SUPPORTS

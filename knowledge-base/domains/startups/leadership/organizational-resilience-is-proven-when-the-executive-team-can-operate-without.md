@@ -53,9 +53,9 @@ related:
   - INS-260327-812B
   - PRI-260328-BEAB
   - INS-260330-341D
+  - INS-260403-7CAA
   - INS-260330-F800
   - INS-260330-B3D9
-  - INS-260323-E15B
   - INS-260330-D5FB
 ---
 During his brief ouster from OpenAI, Altman observed that his executive team operated the company effectively even when he couldn't communicate with them directly. He frames this as validation of the often-repeated CEO advice that your most important job is hiring and developing your team.

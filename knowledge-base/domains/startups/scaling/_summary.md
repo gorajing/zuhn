@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 111 insights
+> 112 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -105,6 +105,7 @@
 - `INS-260330-240A` [medium] Bacteria explored far more genetic sequence space than eukaryotes over 4 billion years yet never became complex — proving that more iteration on the same architecture cannot overcome structural energy constraints.
 - `INS-260330-B3D9` [medium] Netflix laid off a third of employees post-dot-com crash and got more done with fewer people by retaining only their best performers.
 - `INS-260329-96EC` [medium] Transitioning from doing the work to licensing the system for doing the work shifts you from linear to exponential scaling.
+- `INS-260403-16B4` [medium] Performance-based pay in startups and professional services forces legacy organizations to match market rates or lose their best young talent.
 - `INS-260329-9A8B` [medium] Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
 - `INS-260330-8C52` [medium] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260330-4830` [medium] When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.

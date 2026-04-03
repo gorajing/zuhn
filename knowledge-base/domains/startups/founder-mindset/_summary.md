@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 283 insights
+> 285 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -43,6 +43,7 @@
 - `INS-260329-0935` [high] Sustained focus on one domain compounds returns far more than spreading effort across many.
 - `INS-260321-13C6` [high] Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
 - `INS-260329-595E` [high] Depth in one area compounds returns faster than breadth across many.
+- `INS-260403-C9C2` [high] Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
 - `INS-260327-3F64` [high] Ruthless time discipline and daily exercise are the actual differentiators at the highest level.
 - `INS-260329-CBF3` [high] The market rewards what is required, not what you tried — if your best isn't enough, the answer is to become better, not to feel good about falling short.
 - `INS-260321-C14C` [high] The biggest failure mode in Silicon Valley is assuming that being smart at building products means you're smart at negotiating contracts, managing politics, or understanding war — 'if you don't know who the mark is, you're the mark.'
@@ -260,6 +261,7 @@
 - `INS-260327-98DE` [medium] AI breakthroughs that look like bugs will become common across all knowledge work.
 - `INS-260321-1A84` [medium] People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260327-D5B5` [medium] Exposure to product excellence creates the obsession that produces great founders—Meniri's Apple Store visit changed his life.
+- `INS-260403-F7F4` [medium] Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
 - `INS-260329-8B33` [medium] Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
 - `INS-260323-B374` [medium] High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260325-3B2A` [medium] Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.

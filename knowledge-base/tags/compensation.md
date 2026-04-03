@@ -16,3 +16,4 @@
 - `INS-260330-48A8` Formal raise cycles prevent the cultural damage of rewarding whoever asks loudest.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
+- `INS-260403-16B4` Performance-based pay in startups and professional services forces legacy organizations to match market rates or lose their best young talent.

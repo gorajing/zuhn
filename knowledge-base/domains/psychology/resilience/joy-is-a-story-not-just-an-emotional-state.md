@@ -49,7 +49,7 @@ related:
   - PRI-260325-A95E
   - INS-260323-DA91
   - INS-260323-FC5B
-  - INS-260323-9867
+  - INS-260403-F7F4
 ---
 Bowler's most striking claim is that happiness is an emotional state but joy is a story. It is a feeling in your spirit that it feels good to be alive, to be here, to be put together with whatever you have left. Joy binds broken pieces together and still makes you laugh at the same time.
 

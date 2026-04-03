@@ -1,7 +1,5 @@
 # Tag: mental-health
 
-- `INS-260325-600C` Chronic anxiety is often B1 deficiency impacting the autonomic nervous system — not a psychological disorder requiring SSRIs.
-- `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
 - `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260330-F6DB` Facebook's own internal research found Instagram is 'toxic to a sizable percent of users' and worsens body image for 1 in 3 teen girls — a structural consequence of curated self-presentation at scale.
 - `INS-260330-FDA9` Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target.
@@ -25,5 +23,7 @@
 - `INS-260325-A36F` Renaming psychopathy repeatedly makes life harder for affected families who cannot find consistent information about diagnosis and treatment.
 - `INS-260325-F6CD` When young men struggle, the instinct is to blame them for laziness and video games -- an instinct that is not applied to any other demographic group facing comparable challenges.
 - `INS-260325-1802` Men account for 80% of US suicides and 70% of drug poisoning deaths; since 2010, the rise in suicide has been almost entirely among young men under 30 — a crisis getting far less attention than teen girl mental health.
+- `INS-260325-600C` Chronic anxiety is often B1 deficiency impacting the autonomic nervous system — not a psychological disorder requiring SSRIs.
+- `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
 - `INS-260322-D059` Emerging research in metabolic psychiatry shows that conditions like depression, epilepsy, and even schizophrenia often have metabolic root causes — and interventions like ketogenic diets, gut health, and inflammation reduction can outperform traditional talk therapy and SSRIs.
 - `INS-260402-DCC5` FDA-cleared therapeutic video games match drug efficacy for ADHD with side effects limited to headaches and frustration.

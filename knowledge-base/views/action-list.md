@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3142 actionable insights
+Generated on 2026-04-03 | 3153 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1943,6 +1943,9 @@ Generated on 2026-04-03 | 3142 actionable insights
 - [INS-260403-2074] If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - [INS-260403-37FD] Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
 - [INS-260403-9442] Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
+- [INS-260403-7B04] AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
+- [INS-260403-943D] Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
+- [INS-260403-A0B0] Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2312,6 +2315,8 @@ Generated on 2026-04-03 | 3142 actionable insights
 - [INS-260403-12FD] Real users create a sense of obligation that keeps founders working through the emotional valleys that kill most startups.
 - [INS-260403-21AF] When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - [INS-260403-743D] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
+- [INS-260403-C9C2] Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
+- [INS-260403-F7F4] Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2663,6 +2668,9 @@ Generated on 2026-04-03 | 3142 actionable insights
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - [INS-260403-62B2] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
+- [INS-260403-5C74] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
+- [INS-260403-6AB5] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
+- [INS-260403-5BAD] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2773,6 +2781,9 @@ Generated on 2026-04-03 | 3142 actionable insights
 - [INS-260403-6731] CEO time allocation to innovation is the single strongest predictor of whether innovation programs produce results.
 - [INS-260403-8280] A design that represents one person's coherent vision will be coherent for the user; committee designs fragment into incoherence.
 - [INS-260403-A360] Tell talented people what to do at the highest level and let them own the details — they'll insist on it anyway.
+- [INS-260403-4102] Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
+- [INS-260403-3FF5] Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
+- [INS-260403-7CAA] Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

@@ -55,7 +55,6 @@ related:
   - INS-260330-BC1B
   - INS-260329-7F70
   - INS-260329-62E1
-  - INS-260329-DEE5
 stance: >-
   The martyr archetype wears exhaustion as a badge of honor, but burnout reduces
   productivity by 10%+ and early burnout can cost $300K/year in lost h...

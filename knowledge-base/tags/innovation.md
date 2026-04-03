@@ -9,21 +9,16 @@
 - `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
 - `INS-260327-7C4A` Senior French generals couldn't see the Toulon solution because their experience trained them to think in terms of infantry assault — Napoleon's artillery background gave him a completely different analytical framework.
 - `INS-260327-479C` Russia maintained serfdom until 1861 — centuries after Western Europe abandoned it — which suppressed industrialization, innovation, and economic growth despite Russia's enormous natural resources.
-- `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
-- `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
+- `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
+- `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260325-D033` 75,000-year-old African beds used ash layers to repel ticks and aromatic leaves to deter mosquitoes, while ostrich egg canteens were self-cooling through micro-porous evaporation.
 - `INS-260330-3BB5` Aerogel works as a physical insecticide by absorbing moisture from insect exoskeletons, achieving pest control without neurotoxins.
 - `INS-260323-E77E` Bohm and Aharonov, both academic outsiders — one exiled by McCarthyism, the other a student — overturned 200 years of physics consensus because their marginalization freed them from orthodoxy.
 - `INS-260325-568A` Every great scientific breakthrough, even those attributed to lone geniuses, arose from collaborative social contexts — and knowing this helps us create better conditions for future discovery.
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
 - `INS-260327-23F8` The first writing wasn't poetry or philosophy - it was accounting records tracking grain and livestock, revealing that economic necessity drives cognitive innovation more reliably than creative impulse.
-- `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
-- `INS-260324-782C` After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted to acquiring emerging brands because they'd lost the internal talent and muscle to invent new products.
-- `INS-260330-DC14` Innovation clusters emerge where multiple competing entities operate near an unexplored frontier — remove either decentralization or the frontier and innovation dies.
-- `INS-260402-4605` Eminence constrains innovation more than obscurity constrains execution.
-- `INS-260330-DC5E` The Cambrian explosion was triggered not by new resources but by predation — eyes, claws, and shells evolved as arms-race responses, producing more innovation in millions of years than billions of years of resource competition.
 - `INS-260403-D645` Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.
 - `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
@@ -31,8 +26,13 @@
 - `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
-- `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
+- `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
+- `INS-260324-782C` After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted to acquiring emerging brands because they'd lost the internal talent and muscle to invent new products.
+- `INS-260330-DC14` Innovation clusters emerge where multiple competing entities operate near an unexplored frontier — remove either decentralization or the frontier and innovation dies.
+- `INS-260402-4605` Eminence constrains innovation more than obscurity constrains execution.
+- `INS-260330-DC5E` The Cambrian explosion was triggered not by new resources but by predation — eyes, claws, and shells evolved as arms-race responses, producing more innovation in millions of years than billions of years of resource competition.
 - `INS-260403-363C` Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
@@ -40,8 +40,13 @@
 - `INS-260402-9093` The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260325-D624` GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
 - `INS-260403-74E5` Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
+- `INS-260403-5C74` Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
+- `INS-260403-402A` Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
+- `INS-260403-6AB5` Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
 - `INS-260403-17E1` Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses.
+- `INS-260403-0030` Cohort networks from innovation programs often outvalue the curriculum by providing ongoing diverse perspectives for context-dependent innovation challenges.
+- `INS-260403-5BAD` Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.
 - `INS-260330-F8E7` Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
 - `INS-260330-FC16` LA's shade balls were originally 'bird balls' for airports and mine ponds — repurposed to solve a completely different water chemistry problem.
 - `INS-260325-1160` Roman concrete contains lumps of quickite that were once considered manufacturing defects — MIT researchers discovered these lumps actually create self-healing concrete that gets stronger over time.
@@ -55,10 +60,10 @@
 - `INS-260325-F306` From 1870-1920 humanity had five major technological revolutions; from 1970-2020 we had only one definitive one (computing) and possibly two.
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
-- `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260323-1643` Netanyahu's formula for Israel's GDP growth from $17K to $54K per capita: free market reforms plus a permanent pipeline of knowledge workers from military intelligence who become technology entrepreneurs.
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.
 - `INS-260330-B27A` LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
+- `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.

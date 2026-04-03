@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 157 insights
+> 161 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -26,6 +26,7 @@
 - `INS-260330-1647` [high] Confucius prescribed that in every hierarchical relationship, the superior must earn respect through care and education — authority without reciprocal obligation erodes legitimacy.
 - `INS-260325-E895` [high] Gawande's coach taught him to count to 30 in his head before intervening when surgical trainees struggled with bleeding — breaking his instinct to grab the instruments and do it himself.
 - `INS-260326-3C9C` [high] Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
+- `INS-260403-4102` [high] Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
 - `INS-260323-AE9C` [high] Hawaiian and Polynesian soldiers instinctively built relationships with Iraqi locals -- pointing gun muzzles skyward, throwing shakas, sharing tea -- and this cultural empathy directly reduced casualties compared to the previous unit.
 - `INS-260322-AB55` [high] Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260322-DAFB` [high] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -86,6 +87,7 @@
 - `INS-260330-25A8` [high] You can take someone's job but you cannot take their dignity — every employee in your company will become an informal reference for that person.
 - `INS-260330-8E3C` [high] What you say about a terminated employee at the company meeting becomes their reputation, because every person in your company will get a reference call about them.
 - `INS-260330-AC36` [high] You can take someone's job but you don't have to take their dignity — what you say at the departure announcement becomes their professional reputation.
+- `INS-260403-3FF5` [high] Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260327-B5C9` [high] You are ultimately accountable for your product like a CEO, but to make things happen you sometimes need to sweep the floor because nobody else will.
 - `INS-260327-94CC` [high] Ev Williams built Twitter's best product era but was ousted because he lacked the political instincts to defend his position against Jack Dorsey's behind-the-scenes scheming.
 - `INS-260326-CA8C` [high] Safety without standards is a comfort zone; standards without safety is an anxiety zone — you need both for high performance.
@@ -130,6 +132,7 @@
 - `INS-260323-FA30` [high] Teddy Atlas's father never lectured about values -- he picked up homeless people on holidays, treated patients for free, and his son absorbed these values through proximity and observation rather than direct instruction.
 - `INS-260327-088D` [high] Vlad Tenev argues wartime should be the default state; any period of peacetime comfort means you probably weren't executing aggressively enough.
 - `INS-260323-8726` [high] The moment you decide you are too embarrassed to try something new, you stop learning — making willingness to be a beginner the most important skill for leaders.
+- `INS-260403-7CAA` [high] Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 - `INS-260330-36B4` [high] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - `INS-260327-482E` [high] Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260330-2F52` [medium] The primary barrier preventing successful business leaders from entering politics is communication ability under pressure, not strategic competence.
@@ -154,6 +157,7 @@
 - `INS-260322-627E` [medium] Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
 - `INS-260327-B7FC` [medium] When Rajat saw his early team members were willing to die for the company, he knew he had built something real — their dedication became his motivation.
 - `INS-260330-7675` [medium] Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
+- `INS-260403-3A49` [medium] Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.
 - `INS-260329-8ABB` [medium] Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.
 - `INS-260323-348F` [medium] 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.
 - `INS-260330-5B59` [medium] Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.

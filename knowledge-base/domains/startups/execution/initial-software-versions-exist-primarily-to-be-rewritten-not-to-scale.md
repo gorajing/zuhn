@@ -53,7 +53,7 @@ related:
   - INS-260330-ABB1
   - INS-260330-8A87
   - INS-260330-3FCF
-  - INS-260403-924B
+  - INS-260403-F088
 ---
 Graham argues that startups should deliberately ignore scalability, internationalization, and heavy-duty security in their first version. The reasoning is counterintuitive: the pain of retrofitting these later is real, but the bigger pain is building something too rigid to evolve into what users actually want.
 

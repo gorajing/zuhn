@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 920 insights across 22 topics
+> 921 insights across 22 topics
 
 ## Topics
 
@@ -11,7 +11,7 @@
 | ai-agents | 35 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 21 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
 | ai-capabilities | 97 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
-| ai-market-dynamics | 92 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
+| ai-market-dynamics | 93 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
 | alignment | 46 | KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text. |
 | architecture | 7 | Libraries are reusable because they are language, not because they are object-oriented. |
 | automation | 9 | Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI. |

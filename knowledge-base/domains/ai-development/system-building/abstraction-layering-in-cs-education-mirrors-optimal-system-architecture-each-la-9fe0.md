@@ -56,10 +56,11 @@ stance: >-
   concepts simultaneously
 related:
   - INS-260329-03B0
-  - INS-260329-D0B3
   - INS-260329-E015
   - INS-260329-A461
   - INS-260329-CD38
+  - INS-260329-D0B3
+  - INS-260403-0030
 ---
 The course deliberately introduces concepts in a dependency order that mirrors good system architecture: first functions (the smallest unit of abstraction), then variables and control flow, then error handling, then libraries (reusing others' abstractions), then unit testing (validating your abstractions), then file I/O (persisting state), then regular expressions (pattern matching), and finally object-oriented programming (creating your own abstractions). Each layer depends on but hides the complexity of the layers below.
 

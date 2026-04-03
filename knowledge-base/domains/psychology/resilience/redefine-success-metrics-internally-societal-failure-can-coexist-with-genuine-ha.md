@@ -49,7 +49,6 @@ resolutions:
     completely from external ones.
 related:
   - INS-260325-C830
-  - INS-260325-B4CB
   - PRI-260325-A95E
   - INS-260325-C996
   - PRI-260323-9D46
@@ -58,6 +57,7 @@ related:
   - INS-260325-3223
   - INS-260329-DD01
   - INS-260330-61C3
+  - INS-260330-B306
 stance: >-
   A person can be objectively 'failing' by society's standards (no career use of
   degree, living with mom, minimal income) while being genuinely happy

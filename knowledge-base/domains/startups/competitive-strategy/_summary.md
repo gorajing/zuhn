@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 399 insights
+> 405 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -12,6 +12,7 @@
 - `INS-260325-0895` [high] Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
 - `INS-260403-AC5E` [high] AI's software-only adoption curve means both attackers and incumbents can move faster than during the mobile shift, creating a speed-dependent competitive dynamic.
 - `INS-260327-EE5E` [high] Twitter makes AI agent competition feel intense, but the market is so huge companies rarely encounter actual competitors.
+- `INS-260403-7B04` [high] AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260327-2627` [high] Companies that fired teams and replaced them with AI are now begging workers to come back as they enter the 'find out' phase of discovering most jobs are more nuanced than AI can handle.
 - `INS-260325-73C0` [high] Bret Taylor: AI breaks per-seat SaaS — the new model charges for outcomes (tasks completed, problems solved), not users provisioned.
 - `INS-260403-D62F` [high] AI marketplace defensibility scales with the difficulty of organizing previously offline or fragmented supply, not model sophistication.
@@ -109,6 +110,7 @@
 - `INS-260330-EC7C` [high] Britain's enclosure movement privatized common fields, boosting agricultural output but impoverishing tenant farmers — a pattern that repeats in every platform economy shift.
 - `INS-260330-6050` [high] Build where incumbents face structural inability to compete, not just unwillingness.
 - `INS-260327-7F1B` [high] Glass bottles are better for the environment but lost to plastic and aluminum because transportation costs per unit are 
+- `INS-260403-3C2C` [high] Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.
 - `INS-260327-724D` [high] Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv
 - `INS-260327-F651` [high] Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than t
 - `INS-260330-1964` [high] Attack incumbents where their own business model or architecture prevents them from responding, not where they simply haven't bothered yet.
@@ -124,6 +126,7 @@
 - `INS-260327-FD18` [high] Let someone else prove the market exists and accumulate technical debt—then enter with a better product.
 - `INS-260330-39B0` [high] Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
 - `INS-260330-9A60` [high] Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
+- `INS-260403-962E` [high] RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
 - `INS-260330-3FF4` [high] RuBisCo evolved when CO2 was abundant and O2 scarce — when conditions changed, it became terrible, yet no alternative has displaced it in 450 million years because every plant depends on it.
 - `INS-260330-56D6` [high] RuBisCo is terrible at its job but irreplaceable — biology's ultimate lesson in path dependence and first-mover lock-in.
 - `INS-260330-E1B3` [high] RuBisCo proves that being first matters more than being good — plants produce 40 billion tons of a broken enzyme rather than evolving a replacement.
@@ -160,6 +163,7 @@
 - `INS-260323-07BE` [high] Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.
 - `INS-260330-9014` [high] Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260330-DCFB` [high] Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
+- `INS-260403-A0B0` [high] Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - `INS-260327-ACB3` [high] Tech companies that empowered engineers to build disruption tools are now using those same tools to disrupt the engineers who built them.
 - `INS-260327-2BAD` [high] Cannabis businesses cannot achieve the scale economies that other industries enjoy because state-by-state legalization c
 - `INS-260327-290C` [high] Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t
@@ -285,6 +289,7 @@
 - `INS-260330-3ECE` [high] Rosalind Franklin's open data-sharing with Watson and Crick directly enabled them to claim credit for the DNA double helix discovery.
 - `INS-260329-12EA` [high] Your competitive moat is not any single skill but the unique stack of skills from your specific life trajectory — replicating it requires living your life.
 - `INS-260326-73F4` [high] Taleb's ethics framework centers on one rule: never let someone harvest upside while transferring downside to others, because this creates systemic fragility that no regulation can compensate for.
+- `INS-260403-614D` [high] Credentials exist because large organizations can't measure individual performance; small companies and markets can, making credentials irrelevant.
 - `INS-260327-F2DF` [high] Lionsgate gained massive pricing power by producing hit shows (Mad Men, Orange is the New Black) that cable networks and streaming platforms used to differentiate themselves -- each platform's arms race for exclusive content made Lionsgate the indispensable supplier.
 - `INS-260324-C2B9` [high] Independent smashburger shops outperform burger chains on speed, consistency, and value — the things that used to differentiate Wendy's, BK, and McDonald's are now the baseline for any LA smashburger concept.
 - `INS-260327-4233` [high] Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
@@ -370,6 +375,7 @@
 - `INS-260403-CA1E` [medium] Large companies shift from user-serving to user-exploiting, creating predictable openings for startups that genuinely serve users.
 - `INS-260403-94AD` [medium] Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
 - `INS-260329-CABE` [medium] Big and small goals require similar effort, but big goals face less competition because most people dismiss them as unrealistic.
+- `INS-260403-943D` [medium] Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
 - `INS-260402-7E2A` [medium] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - `INS-260330-DCE1` [medium] Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.

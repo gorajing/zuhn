@@ -58,8 +58,8 @@ related:
   - INS-260330-19F1
   - INS-260330-2E58
   - INS-260327-7DAA
-  - PRI-260324-3081
-  - INS-260330-AE4B
+  - INS-260403-6AB5
+  - INS-260403-5BAD
 ---
 The Strategyzer Ecosystem Map framework categorizes innovation activities along two axes: value creation and cultural change. Activities that score low on both are 'innovation theater' — they look innovative but produce nothing. Common examples include standalone hackathons without follow-on investment, idea mailboxes without evaluation processes, idea contests as ends in themselves, and pirate-themed 'break the rules' initiatives.
 

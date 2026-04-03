@@ -54,7 +54,6 @@ related:
   - INS-260402-D739
   - INS-260327-4DDE
   - INS-260402-66A5
-  - INS-260330-52C7
 ---
 Doyle observes that some of his best founder investments came from people without domain experience. They bring fresh perspectives precisely because they don't have preformed ideas about what doesn't work. Google actively spends time preventing employees from making assumptions—asking 'do you realize there are two assumptions in your response? Why have you made those assumptions?'
 

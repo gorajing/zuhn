@@ -11,9 +11,9 @@
 - `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
 - `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
 - `INS-260329-C089` Interpreting hopelessness as 'I don't know enough yet' rather than 'I can't' converts despair into a solvable problem.
+- `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
 - `INS-260328-F60B` Agency over your calendar, your work, and your identity compounds into a better life trajectory than comfort does.
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
 - `INS-260402-ECB6` Don't let institutional roles define you — treat them as day jobs and reserve your identity for self-directed work.
-- `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
 - `INS-260325-4300` Progress depends on feedback loops of belief, investment, and results — if society stops believing, it stops building.

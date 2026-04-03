@@ -48,7 +48,6 @@ stance: >-
   connections that are actually available.
 related:
   - INS-260323-CF27
-  - INS-260327-8B1A
   - INS-260327-0017
   - INS-260329-EC98
   - INS-260323-7263

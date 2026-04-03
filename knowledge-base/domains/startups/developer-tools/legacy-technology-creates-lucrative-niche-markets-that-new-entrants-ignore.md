@@ -46,11 +46,11 @@ stance: >-
   niches precisely because the technology is unfashionable and talent supply is
   shrinking.
 related:
+  - INS-260403-16B4
   - PRI-260328-5CDE
   - INS-260403-F234
   - INS-260402-70FD
   - INS-260330-B28C
-  - PRI-260328-8317
 evidence:
   - id: INS-260330-B28C
     type: SUPPORTS

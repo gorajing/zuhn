@@ -46,10 +46,10 @@ stance: >-
   opiate rather than a collaboration tool.
 related:
   - INS-260322-FD23
+  - INS-260403-614D
   - INS-260322-A36C
   - INS-260329-3FA6
   - INS-260403-D022
-  - INS-260330-956E
 evidence:
   - id: INS-260322-A36C
     type: TRANSFERS_TO

@@ -1,6 +1,7 @@
-# Tag: atp
+# Tag: ATP
 
-- `INS-260330-E8CF` Light reactions produce ATP and NADPH as portable energy carriers; the Calvin Cycle then spends those carriers to fix carbon into G3P, the universal building block.
-- `INS-260330-3082` Nearly 90% of ATP yield comes from the electron transport chain, making mitochondrial health far more important than glucose availability for energy production.
-- `INS-260330-5C36` Cellular respiration uses three sequential stages where each feeds the next, with the electron transport chain producing the vast majority of ATP.
-- `INS-260330-1298` Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.
+- `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
+- `INS-260330-BC3E` Biology uses concentration gradients across membranes as universal batteries — the same mechanism powers photosynthesis, cellular respiration, nerve impulses, and kidney filtration.
+- `INS-260327-1C1B` Methylene blue bypasses parts of the electron transport chain, which helps broken mitochondria but reduces ATP in healthy ones; its MAOI effects confuse users into thinking they have more energy.
+- `INS-260330-4B45` The electron transport chain extracts energy from excited electrons through a series of decreasing-energy steps, each capturing a portion as useful ATP rather than losing it all as heat in one burst.
+- `INS-260327-FF4A` Linoleic acid from seed oils accumulates in mitochondrial membranes, causing proton leak across the electron transport chain and reducing ATP production -- the molecular root of metabolic dysfunction.

@@ -52,10 +52,10 @@ stance: >-
   architecture in both biology and engineering.
 related:
   - INS-260330-6E5F
+  - INS-260403-861A
   - INS-260330-B38B
   - INS-260330-3C3C
   - INS-260330-7FF3
-  - INS-260330-24BA
 evidence:
   - id: INS-260330-24BA
     type: TRANSFERS_TO

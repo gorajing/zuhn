@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 1675 insights across 20 topics
+> 1677 insights across 20 topics
 
 ## Topics
 
@@ -19,7 +19,7 @@
 | group-dynamics | 33 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
 | learning | 218 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 60 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
-| mental-models | 66 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
+| mental-models | 68 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
 | negotiation | 2 | Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse. |
 | perception | 309 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
 | persuasion | 17 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |

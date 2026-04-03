@@ -48,7 +48,6 @@ stance: >-
   information deficit than a character flaw, and reframing it this way restores
   the person's sense of control
 related:
-  - INS-260325-0172
   - INS-260325-CE25
   - INS-260329-A9B7
   - PRI-260403-88F5

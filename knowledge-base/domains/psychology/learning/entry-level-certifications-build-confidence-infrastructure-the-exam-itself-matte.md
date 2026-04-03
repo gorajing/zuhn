@@ -51,8 +51,9 @@ stance: >-
   psychological comfort with the testing process itself, reducing anxiety for
   harder future challenges
 related:
-  - INS-260325-E84D
   - INS-260329-8986
+  - INS-260325-E84D
+  - INS-260403-8A25
   - INS-260330-90C3
   - PRI-260327-5635
   - INS-260323-F2C3

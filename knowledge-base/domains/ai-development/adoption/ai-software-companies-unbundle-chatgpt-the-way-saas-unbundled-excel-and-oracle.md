@@ -49,8 +49,9 @@ related:
   - INS-260330-3E6B
   - INS-260330-7C24
   - INS-260327-6B78
-  - INS-260327-178E
+  - INS-260403-7B04
   - INS-260327-2043
+  - INS-260327-178E
 stance: >-
   Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500
   dedicated apps per company, AI software companies will unbundle ChatGPT b...
