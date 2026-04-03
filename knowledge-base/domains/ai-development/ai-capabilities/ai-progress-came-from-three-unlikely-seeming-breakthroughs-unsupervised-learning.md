@@ -49,12 +49,11 @@ resolutions:
     The meta-lesson: the aggregate of many messy U-turns has been 'remarkably
     smooth on the exponential.'
 related:
+  - PRI-260403-EA13
   - INS-260323-7EEB
   - INS-260330-2F13
   - INS-260323-29ED
   - PRI-260323-0654
-  - PRI-260321-14D8
-  - INS-260321-1F9F
   - INS-260327-35C7
 stance: >-
   Each major AI leap — next-word prediction learning anything, predictable

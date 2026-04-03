@@ -6,9 +6,9 @@
 - `INS-260330-8B24` Direct experience consistently overrides and corrects media-constructed mental models of people and places.
 - `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
 - `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
-- `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
 - `INS-260330-0DFC` Rogan survived his cancellation by refusing to read any negative coverage, telling his wife never to read negative articles to him, and continuing his normal work routine.
 - `INS-260325-C2DA` During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
+- `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
 - `INS-260330-B885` Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260323-7EDF` Pakman explicitly structures his show as a content pyramid — serious deep dives at the base, entertaining segments on top — deliberately adapting the ratio to each platform.
 - `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.

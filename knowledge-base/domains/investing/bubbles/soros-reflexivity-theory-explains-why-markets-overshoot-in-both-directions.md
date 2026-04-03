@@ -50,10 +50,10 @@ stance: >-
 related:
   - INS-260325-4300
   - PRI-260328-0AB1
+  - PRI-260403-EA13
   - PRI-260323-977A
   - PRI-260324-F9CD
   - PRI-260323-2C5C
-  - INS-260326-8E6D
 evidence:
   - id: INS-260325-4300
     type: TRANSFERS_TO

@@ -56,9 +56,9 @@ related:
   - INS-260329-04FA
   - INS-260323-085A
   - INS-260325-6FA7
-  - INS-260321-AE3F
   - INS-260323-A5EC
   - INS-260327-991D
+  - INS-260327-35C7
 stance: >-
   Math and formal reasoning are domains where RL-based AI training works
   especially well, making AI-driven proofs of major unsolved math problems

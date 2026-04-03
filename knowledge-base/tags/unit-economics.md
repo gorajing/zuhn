@@ -18,12 +18,12 @@
 - `INS-260402-E2FF` Make the adversary's business model unviable rather than trying to block every specific attack.
 - `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
-- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
-- `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
-- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260329-1085` Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
 - `INS-260329-3DD7` Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
+- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
+- `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
+- `INS-260321-8D2B` Price AI products using three factors: value creation vs human cost, unit economics including hidden storage costs, and representative customer surveys.
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.

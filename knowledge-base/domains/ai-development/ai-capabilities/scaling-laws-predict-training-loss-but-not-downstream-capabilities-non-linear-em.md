@@ -50,11 +50,11 @@ stance: >-
   specific capabilities will emerge or at what scale, because downstream
   capabilities follow non-linear and discontinuous patterns.
 related:
+  - PRI-260403-EA13
   - PRI-260328-A82C
   - INS-260330-2F13
   - INS-260325-4E96
   - PRI-260323-8E89
-  - INS-260329-D357
 evidence:
   - id: INS-260330-2F13
     type: SUPPORTS

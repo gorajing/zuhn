@@ -53,9 +53,9 @@ resolutions:
 related:
   - INS-260325-DB7D
   - INS-260322-30A0
+  - PRI-260403-FBA8
   - INS-260403-E9DD
   - INS-260329-6004
-  - PRI-260327-5635
 stance: >-
   In the AI era, the core educational skill shifts from producing correct
   answers to evaluating whether answers are correct.

@@ -52,11 +52,11 @@ resolutions:
     anthropological fieldwork, and invest in the painful processes that build
     genuine capability.
 related:
+  - PRI-260403-2376
   - PRI-260323-C49D
   - INS-260327-4EDE
   - PRI-260328-9F8C
   - PRI-260321-7307
-  - PRI-260323-50FE
 stance: >-
   The 'AI clicker' phenomenon — pursuing efficiency by outsourcing reading,
   writing, design, and judgment to AI without building underlying skills — ...

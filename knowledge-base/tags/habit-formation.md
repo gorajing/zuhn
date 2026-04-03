@@ -1,7 +1,7 @@
 # Tag: habit-formation
 
-- `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
 - `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration.
+- `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - `INS-260330-0C49` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly crash Destin back to the old steering algorithm.

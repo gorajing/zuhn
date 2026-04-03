@@ -36,6 +36,6 @@
 - `INS-260330-88DE` The Indus Valley maintained identical brick ratios and drainage standards across 1500km without any evidence of kings or central government.
 - `INS-260330-6BAF` The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
 - `INS-260330-B437` Facebook's community translation platform covered 104 languages (70 community-translated) and prepared them for explosive Hindi growth — which quadrupled in one year — while competitors who manually translated for 2007's top languages fell behind.
-- `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
 - `INS-260329-644B` Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
+- `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.

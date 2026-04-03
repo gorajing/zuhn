@@ -11,9 +11,9 @@
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
+- `INS-260326-8B81` Fluoride takes 20+ years to clear from bones, childhood attachment patterns take decades of therapy to rewire, and toxic organizational culture persists years after the people who created it leave.
 - `INS-260330-206F` There are infinitely more ways to make your life worse than better, so protect what you have rather than chasing marginal gains.
 - `INS-260330-7E3F` Non-experts in public discourse play 'tennis without a net' — they can swing as hard as they want with no penalty for errors, while real experts face career consequences for every mistake.
-- `INS-260326-8B81` Fluoride takes 20+ years to clear from bones, childhood attachment patterns take decades of therapy to rewire, and toxic organizational culture persists years after the people who created it leave.
 - `INS-260330-1964` Attack incumbents where their own business model or architecture prevents them from responding, not where they simply haven't bothered yet.
 - `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.
 - `INS-260330-73F3` DNA replication's lagging strand can't simply mirror the leading strand — it requires an entirely different mechanism with Okazaki fragments, multiple primers, and extra enzymes.

@@ -48,7 +48,6 @@ resolutions:
     that he was an observer, not an operator -- and that self-knowledge led to
     his actual superpower.
 related:
-  - INS-260325-9C2F
   - INS-260323-2874
   - INS-260325-FBA0
   - INS-260323-6F94
@@ -58,6 +57,7 @@ related:
   - INS-260329-CD64
   - INS-260323-46B2
   - INS-260323-D783
+  - INS-260326-F3E0
 stance: >-
   Founders like Musk have deep empathy for humanity's mission but can be callous
   to individuals in the room, while others like Ben Franklin excel at ...

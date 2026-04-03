@@ -49,7 +49,6 @@ stance: >-
   from tedious end-user problems while capturing 99% of their productivity for
   the product.
 related:
-  - INS-260323-D2AA
   - INS-260325-854D
   - INS-260330-83D5
   - INS-260330-E881

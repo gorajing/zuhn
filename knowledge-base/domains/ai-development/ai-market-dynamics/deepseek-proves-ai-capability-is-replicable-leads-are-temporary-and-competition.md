@@ -54,7 +54,7 @@ related:
   - INS-260327-E0B0
   - INS-260325-4E96
   - INS-260327-422B
-  - INS-260322-54F3
+  - PRI-260403-EA13
 stance: >-
   DeepSeek's surprise replication of frontier model capabilities from a hedge
   fund proves that AI leads are inherently temporary

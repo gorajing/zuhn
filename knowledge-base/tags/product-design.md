@@ -14,7 +14,6 @@
 - `INS-260327-D9C0` You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
-- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
 - `INS-260329-E208` CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260402-4AB4` Reframing the problem is often more valuable than optimizing the solution.
@@ -25,3 +24,4 @@
 - `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
 - `INS-260323-E797` Nitroglycerin was already 100x more powerful than gunpowder -- Nobel's genius was making it controllable, not more powerful.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
+- `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment.

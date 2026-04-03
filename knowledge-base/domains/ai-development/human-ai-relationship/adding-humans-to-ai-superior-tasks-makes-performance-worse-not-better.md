@@ -43,11 +43,11 @@ stance: >-
   produces medium-sized performance losses rather than gains.
 related:
   - INS-260321-3C8A
+  - PRI-260403-7E5E
   - INS-260325-3EF4
   - INS-260325-4793
   - INS-260325-19E9
   - INS-260325-3223
-  - INS-260323-F853
 evidence:
   - id: INS-260325-3223
     type: TRANSFERS_TO

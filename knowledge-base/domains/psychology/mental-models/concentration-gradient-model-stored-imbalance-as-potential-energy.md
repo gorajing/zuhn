@@ -48,7 +48,6 @@ stance: >-
   Creating and maintaining deliberate imbalance is the fundamental mechanism for
   doing useful work in both biological and social systems.
 related:
-  - INS-260325-3EF4
   - INS-260329-EC30
   - INS-260330-CA62
   - INS-260330-EAA3

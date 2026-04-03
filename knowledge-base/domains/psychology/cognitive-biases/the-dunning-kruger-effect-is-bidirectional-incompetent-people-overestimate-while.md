@@ -46,7 +46,6 @@ stance: >-
   competent have the lowest, because skill development simultaneously develops
   the ability to see how much more there is to learn.
 related:
-  - INS-260321-80A9
   - PRI-260327-5635
   - INS-260325-1EAC
   - INS-260327-4367
@@ -56,6 +55,7 @@ related:
   - INS-260323-15F4
   - INS-260323-8726
   - INS-260323-C0BD
+  - INS-260329-8868
 evidence:
   - id: INS-260329-C34B
     type: SUPPORTS

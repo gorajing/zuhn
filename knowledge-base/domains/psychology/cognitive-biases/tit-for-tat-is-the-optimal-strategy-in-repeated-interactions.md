@@ -47,10 +47,10 @@ stance: >-
   and pure defection.
 related:
   - INS-260325-47FE
+  - PRI-260403-7E5E
   - PRI-260323-0F93
   - INS-260325-502D
   - PRI-260328-FADC
-  - INS-260403-B73A
 evidence:
   - id: INS-260325-502D
     type: CHALLENGES

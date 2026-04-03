@@ -44,11 +44,11 @@ resolutions:
     relative to technical skill.
 related:
   - INS-260320-76E7
+  - PRI-260403-FBA8
   - INS-260320-F78E
   - INS-260325-E1FA
   - PRI-260323-50FE
   - INS-260322-116B
-  - PRI-260328-9F8C
   - INS-260325-E895
   - INS-260328-12EE
   - INS-260329-D913

@@ -46,10 +46,10 @@ stance: >-
   but significant losses on finite-choice decision tasks.
 related:
   - INS-260325-9C2F
+  - PRI-260403-7E5E
   - INS-260325-19E9
   - INS-260322-38D8
   - PRI-260325-A95E
-  - INS-260330-B38B
 evidence:
   - id: INS-260322-38D8
     type: EXTENDS

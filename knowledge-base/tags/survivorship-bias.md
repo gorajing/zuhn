@@ -20,6 +20,6 @@
 - `INS-260327-7C23` Over 90% of independent NYC pizzerias survive a decade, but the true failure rate is hidden behind thousands of private backroom deals where new operators take over existing names and kitchens.
 - `INS-260323-475F` Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
 - `INS-260323-FDB8` We only study winners, but losers often executed the same playbook — luck and timing separated them.
-- `INS-260328-58B1` Name the 20 software companies you respect most — not one of them made it in a year.
 - `INS-260330-5E47` Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
+- `INS-260328-58B1` Name the 20 software companies you respect most — not one of them made it in a year.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.

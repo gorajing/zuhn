@@ -1,10 +1,11 @@
 # Tag: architecture
 
+- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260325-160E` Persistent agents need hierarchical memory management like computer systems, not just bigger context windows.
 - `INS-260322-EAB6` Separate AI agent work into three roles: the builder constructs platforms, the orchestrator manages workflows, and executors are specialized agents that do actual work.
+- `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260327-1563` Attention Residue applies attention across the depth dimension rather than just temporal context, achieving 24% token efficiency improvement over standard residual connections.
 - `INS-260323-29ED` GPT-4's remarkable reasoning emerges from an incredibly simple feed-forward architecture trained on next-word prediction, not from replicating brain complexity.
-- `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience.
 - `INS-260320-2DDE` Maintain multiple documentation levels — broad architectural overview, specific service docs, API references — to help Claude navigate large codebases.
 - `INS-260330-EE25` Context window size, not model capability, is the binding constraint on transformer coherence in long interactions.
 - `INS-260320-7B4B` HuggingFace's 200-page training playbook concludes that data quality dominates architectural innovation as the key factor in LLM performance.
@@ -39,7 +40,6 @@
 - `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
 - `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified
 - `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture.
-- `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260326-163A` Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.

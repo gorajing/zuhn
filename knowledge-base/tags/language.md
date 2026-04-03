@@ -17,5 +17,5 @@
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
-- `INS-260323-181D` Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
 - `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
+- `INS-260323-181D` Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.

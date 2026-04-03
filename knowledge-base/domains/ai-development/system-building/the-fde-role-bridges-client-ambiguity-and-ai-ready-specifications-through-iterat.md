@@ -51,12 +51,11 @@ stance: >-
   the essential translation layer between human intent and AI-executable work.
 related:
   - INS-260320-E872
-  - INS-260322-DAFB
   - INS-260327-91C7
   - INS-260329-83AA
   - INS-260330-FE9E
   - INS-260330-2306
-  - PRI-260328-EE04
+  - PRI-260403-FBA8
   - INS-260329-7673
   - INS-260330-B711
 evidence:

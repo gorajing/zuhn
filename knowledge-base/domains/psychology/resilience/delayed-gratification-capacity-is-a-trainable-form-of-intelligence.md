@@ -50,7 +50,6 @@ stance: >-
   not fixed — it's a practicable skill that directly increases learning rate and
   long-term achievement.
 related:
-  - INS-260322-30A0
   - INS-260323-7E6F
   - INS-260325-5B08
   - INS-260330-85E1

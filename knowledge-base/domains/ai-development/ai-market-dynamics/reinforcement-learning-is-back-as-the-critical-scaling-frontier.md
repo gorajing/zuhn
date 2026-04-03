@@ -51,10 +51,10 @@ stance: >-
   previously lacked.
 related:
   - PRI-260328-A82C
+  - PRI-260403-EA13
   - PRI-260323-8E89
   - INS-260327-E0B0
   - INS-260325-4E96
-  - INS-260321-B7CB
 evidence:
   - id: INS-260321-B7CB
     type: TRANSFERS_TO
