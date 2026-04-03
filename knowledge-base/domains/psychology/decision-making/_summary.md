@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 44 insights
+> 45 insights
 
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
@@ -46,3 +46,4 @@
 - `INS-260403-6890` [medium] Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260330-F82A` [medium] Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260403-6602` [medium] Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation.
+- `INS-260403-7342` [medium] Visual strategic frameworks succeed because the brain processes visual information roughly 60,000 times faster than text, making pattern recognition in complex systems nearly instantaneous.

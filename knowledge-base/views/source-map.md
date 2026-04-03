@@ -253,9 +253,12 @@ Generated on 2026-04-03 | 2421 sources
 | A Plan for Spam | blog | 5 | 2026-03-31 |
 | A playbook for fundraising | blog | 5 | 2026-03-31 |
 | A product manager’s guide to web3 | blog | 5 | 2026-03-31 |
+| A Project of One's Own | blog | 5 | 2026-03-31 |
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
 | A Version 1.0 | blog | 5 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 5 | 2026-03-31 |
 | Achieve Product-Market Fit with our Brand-New Value Proposition Canvas | blog | 5 | 2026-03-31 |
+| AI Agents Are Coming: The Agentic Revolution Explained | blog | 5 | 2026-03-30 |
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
 | AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
 | Airwallex: How an Outsider Built an $8B Fintech Empire | blog | 5 | 2026-03-30 |
@@ -274,6 +277,7 @@ Generated on 2026-04-03 | 2421 sources
 | Billionaires Build | blog | 5 | 2026-03-31 |
 | build a Billion-Dollar Startup with a minimal team thanks to AI | blog | 5 | 2026-03-30 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
+| Business models: the toolkit to design a disruptive company | blog | 5 | 2026-03-31 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
@@ -418,7 +422,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why America's extremes will both fail | blog | 5 | 2026-03-30 |
 | Why does America feel worse than other countries? Crime. | blog | 5 | 2026-03-30 |
 | Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
+| Why Nvidia Paid $20B for a Small Startup | blog | 5 | 2026-03-30 |
 | Why Retention Breaks Startups and How to Fix It | blog | 5 | 2026-03-30 |
+| Why Smart People Have Bad Ideas | blog | 5 | 2026-03-31 |
 | Why Startups Condense in America | blog | 5 | 2026-03-31 |
 | Why the Real AI Risk Isn’t Superintelligence: A Final Look | blog | 5 | 2026-03-30 |
 | Why the VC Secondary Market Is Booming in 2025 | blog | 5 | 2026-03-30 |
@@ -426,6 +432,7 @@ Generated on 2026-04-03 | 2421 sources
 | Why Too Much Funding Will Destroy Your Startup | blog | 5 | 2026-03-30 |
 | Why Women-Led Startups Outperform Yet Lack Funding | blog | 5 | 2026-03-30 |
 | Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 5 | 2026-03-30 |
+| You Weren't Meant to Have a Boss | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
 | 100+ Computer Science Concepts Explained | youtube | 5 | 2026-03-30 |
@@ -1637,7 +1644,6 @@ Generated on 2026-04-03 | 2421 sources
 | A New Venture Animal | blog | 0 | 2026-03-31 |
 | A PM’s guide to influence | blog | 0 | 2026-03-31 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
-| A Project of One's Own | blog | 0 | 2026-03-31 |
 | A Quick Guide To Asking Good Customer Questions | blog | 0 | 2026-03-31 |
 | A Scientific Approach to VC | blog | 0 | 2026-03-31 |
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
@@ -1650,7 +1656,6 @@ Generated on 2026-04-03 | 2421 sources
 | a16z Raised $15B: Ben Horowitz on Scaling Venture Capital | blog | 0 | 2026-03-30 |
 | a16z Raises$7.2bn💵, Optimal VC Portfolio Construction🧮, AI Index🤖 | blog | 0 | 2026-03-30 |
 | a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise Startup Funding | blog | 0 | 2026-03-30 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 0 | 2026-03-31 |
 | Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 0 | 2026-03-31 |
 | Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 0 | 2026-03-30 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
@@ -1662,7 +1667,6 @@ Generated on 2026-04-03 | 2421 sources
 | After the Ladder | blog | 0 | 2026-03-31 |
 | AGI Is Closer Than You Think💡, Prompt Engineering Is Dead🧠, AI Will Eat Application Software⚠️ | blog | 0 | 2026-03-30 |
 | AGI Vibes Are Getting Weird, 2025 SaaS Valuations, Most Active Angels | blog | 0 | 2026-03-30 |
-| AI Agents Are Coming: The Agentic Revolution Explained | blog | 0 | 2026-03-30 |
 | AI Agents🤖, Founder Mode👨‍💻, Global IPOs📈 | blog | 0 | 2026-03-30 |
 | AI Agents🤖, Rise of “Venture Banks” 🏦, US Venture Capital Outlook 📅  | blog | 0 | 2026-03-30 |
 | AI and product management | Marily Nika (Meta, Google) | blog | 0 | 2026-03-31 |
@@ -1779,7 +1783,6 @@ Generated on 2026-04-03 | 2421 sources
 | Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 0 | 2026-03-31 |
 | Business Model Portfolio Part 3: The Business Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
-| Business models: the toolkit to design a disruptive company | blog | 0 | 2026-03-31 |
 | Business Strategy: The Business Model Patterns | blog | 0 | 2026-03-31 |
 | Can Sam Altman end up in jail?😮, “40% of startups die after a seed… 0.5-1% go IPO” 🏁 | blog | 0 | 2026-03-30 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 0 | 2026-03-31 |
@@ -2337,9 +2340,7 @@ Generated on 2026-04-03 | 2421 sources
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 0 | 2026-03-31 |
-| Why Nvidia Paid $20B for a Small Startup | blog | 0 | 2026-03-30 |
 | Why Pre-Empted Rounds Exist💰, Master Customer Interviews🗣️, Trump’s Nobel Odds🏛️ | blog | 0 | 2026-03-30 |
-| Why Smart People Have Bad Ideas | blog | 0 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 0 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 0 | 2026-03-31 |
 | Why There Aren't More Googles | blog | 0 | 2026-03-31 |
@@ -2368,7 +2369,6 @@ Generated on 2026-04-03 | 2421 sources
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 0 | 2026-03-30 |
 | YC's Handshake Deal Protocol🤝, The Generative AI Winners of 2025 🤖, Redefining Independent Media📰 | blog | 0 | 2026-03-30 |
 | You are no longer the smartest type of thing on Earth | blog | 0 | 2026-03-30 |
-| You Weren't Meant to Have a Boss | blog | 0 | 2026-03-31 |
 | Zero-sum economics keeps failing | blog | 0 | 2026-03-30 |
 | 10 Programmer Stereotypes | youtube | 0 | 2026-03-30 |
 | 6 ways to heal trauma without medication | Bessel van der Kolk | Big Think | youtube | 0 | 2026-03-30 |

@@ -52,11 +52,11 @@ related:
   - INS-260322-7F88
   - INS-260323-9A93
   - PRI-260403-7D1F
+  - INS-260403-C977
   - INS-260326-7B2A
   - INS-260330-A69C
   - INS-260327-1EC4
   - INS-260329-78CB
-  - INS-260329-723A
 stance: >-
   To scale without working more, accept lower short-term profitability to hire
   people whose capabilities pull the business up beyond what you could d...

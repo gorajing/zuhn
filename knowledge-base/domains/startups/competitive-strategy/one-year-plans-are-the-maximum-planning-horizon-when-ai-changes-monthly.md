@@ -45,11 +45,12 @@ stance: >-
   plans are nearly impossible, and five-year plans are completely meaningless
   because fundamental capabilities change monthly.
 related:
-  - INS-260325-060A
   - INS-260325-17BF
+  - INS-260325-060A
   - INS-260325-6F89
   - INS-260327-99CE
   - INS-260322-AAEA
+  - INS-260403-1000
 evidence:
   - id: INS-260325-060A
     type: SUPPORTS

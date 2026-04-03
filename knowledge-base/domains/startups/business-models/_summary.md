@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 124 insights
+> 127 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -10,6 +10,7 @@
 - `INS-260324-5B35` [high] Brisket shrinks to 40% yield after trimming and smoking, requires 10-18 hours of intuition-based cooking, and can't be made on demand — making BBQ the anti-franchise food category.
 - `INS-260327-1576` [high] BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260324-C33C` [high] Unlike most food trends, bubble tea innovation flows from Asia to the West — Chinese and Taiwanese chains invest millions in US franchising while Americans have the highest disposable income and lowest product familiarity.
+- `INS-260403-E642` [high] Innovating the business model itself—not just the product—is the primary driver of durable market disruption.
 - `INS-260325-B8CB` [high] BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
 - `INS-260330-C7C2` [high] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
 - `INS-260324-2244` [high] Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
@@ -109,6 +110,7 @@
 - `INS-260327-6E0E` [high] Movies monetize through sequential windows -- theatrical (highest price per viewer), DVD/VOD, streaming exclusives (Netflix pays premium for first window), cable TV, and syndication -- each capturing a different willingness-to-pay segment over a 4-6 year lifecycle.
 - `INS-260330-1B6E` [high] Sticker price misleads—iPhone's 45% annual depreciation vs Samsung's 62% and Google's 81% means the premium product costs less to own per month.
 - `INS-260330-8639` [high] A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
+- `INS-260403-1000` [high] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260324-861B` [high] Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
 - `INS-260330-D824` [high] WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260327-38BC` [high] Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
@@ -124,5 +126,6 @@
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.
 - `INS-260330-DA4A` [medium] Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
 - `INS-260327-889F` [medium] Taco Bell's turnaround was powered by sequential complementary leaders -- Emil Brolick (product/operations, 6 years) laid the foundation, then Greg Creed (marketing/pricing, 9 years) built the house on top of it.
+- `INS-260403-1C10` [medium] Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260403-57E7` [medium] Blockchain's real contribution to gaming is making virtual goods truly portable and user-owned, not turning games into income sources.
 - `INS-260330-1B47` [medium] Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.

@@ -7,6 +7,7 @@
 - `INS-260403-76C3` Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260326-967C` Co-founders who discover the idea together feel true ownership; co-founders recruited into someone else's idea always have one foot out the door.
+- `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
 - `INS-260402-D739` The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.
 - `INS-260402-1414` Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.

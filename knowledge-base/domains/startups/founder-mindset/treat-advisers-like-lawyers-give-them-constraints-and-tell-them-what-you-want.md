@@ -49,10 +49,10 @@ stance: >-
   guidance.
 related:
   - INS-260328-0345
+  - INS-260403-21AF
   - INS-260325-C724
   - INS-260330-E403
   - INS-260327-24D2
-  - INS-260321-4178
 evidence:
   - id: INS-260321-4178
     type: TRANSFERS_TO

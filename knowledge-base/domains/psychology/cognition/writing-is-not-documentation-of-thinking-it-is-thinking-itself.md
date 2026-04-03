@@ -44,10 +44,10 @@ stance: >-
 related:
   - INS-260330-6B7F
   - INS-260402-B0AB
+  - INS-260403-21AF
   - PRI-260328-FADC
   - INS-260402-2A1D
   - INS-260325-AC52
-  - INS-260326-291C
 evidence:
   - id: INS-260330-6B7F
     type: TRANSFERS_TO

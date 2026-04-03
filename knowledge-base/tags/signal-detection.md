@@ -3,3 +3,4 @@
 - `INS-260330-FF5B` Log scales convert exponential curves into straight lines, making growth rates, trend changes, and inflection points immediately visible to human perception.
 - `INS-260403-449A` If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
 - `INS-260403-6178` What you overhear and see through windows in a neighborhood reveals its true intellectual character and ambient message more reliably than any reputation or branding.
+- `INS-260403-743D` Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.

@@ -1,8 +1,8 @@
 # Tag: enterprise-sales
 
-- `INS-260402-4A06` Hospital AI adoption is gated by institutional review committees and strict financial ROI proof, not technical merit.
 - `INS-260327-6B78` Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260327-C54D` Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
+- `INS-260402-4A06` Hospital AI adoption is gated by institutional review committees and strict financial ROI proof, not technical merit.
 - `INS-260327-4754` Arora warns that cybersecurity founders who form customer advisory councils too early get steered toward speeds-and-feeds features instead of building complete products.
 - `INS-260327-1B7C` Data from MEDDIC CRM software shows over 80% of won deals had economic buyer engagement while 80% of lost deals lacked it — the correlation is overwhelming.
 - `INS-260327-FA43` Competition isn't just your rival vendor — it's the CIO who wants to build it internally, the adjacent solution competing for the same budget, the 'do nothing' option, and inertia (Whyte's least favorite because it means you haven't qualified well enough).

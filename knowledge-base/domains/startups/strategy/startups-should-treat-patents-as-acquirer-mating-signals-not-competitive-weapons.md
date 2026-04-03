@@ -47,15 +47,15 @@ stance: >-
   competitors or enabling lawsuits.
 related:
   - INS-260322-88C3
-  - INS-260322-CFB1
   - INS-260321-E654
   - INS-260402-E2AF
   - INS-260402-8424
+  - INS-260403-37FD
   - INS-260403-99B1
   - INS-260403-924B
-  - INS-260403-699B
   - INS-260403-1904
   - INS-260403-CA1E
+  - INS-260403-EF30
 evidence:
   - id: INS-260322-C472
     type: CHALLENGES

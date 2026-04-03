@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260325-AC52
   - INS-260325-36F0
+  - INS-260403-21AF
   - INS-260402-F853
   - PRI-260324-3AAE
-  - INS-260323-C10D
 evidence:
   - id: INS-260402-F853
     type: EXTENDS

@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260323-53BF
   - PRI-260328-7A4D
+  - INS-260403-21AF
   - INS-260402-2632
   - PRI-260403-6DD6
   - INS-260330-19F1
-  - INS-260402-71A7
 evidence:
   - id: INS-260327-77E7
     type: CONTRADICTS

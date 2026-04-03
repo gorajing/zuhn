@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 217 insights
+> 218 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -178,6 +178,7 @@
 - `INS-260330-B4F1` [medium] Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
 - `INS-260330-AE22` [medium] A practitioner who teaches from the ground up transfers more usable knowledge than an expert who skips foundations.
 - `INS-260330-9033` [medium] Presenting proofs as guided exercise sequences — even in a lecture format — forces the active engagement that produces genuine understanding.
+- `INS-260403-472E` [medium] The biggest killer of potentially successful projects is never starting them due to premature quality standards.
 - `INS-260330-1718` [medium] Deutsch argues you don't need to know every fact — understanding the deep underlying theories (quantum theory, computation, epistemology, evolution) lets a single person comprehend anything knowable.
 - `INS-260330-B2B8` [medium] Stuart Firestein argues science begins where facts run out — riding the wave beyond the circle of knowledge is more productive than bobbing within it.
 - `INS-260329-F9CD` [medium] Not knowing what you don't know is the most expensive form of debt because it silently compounds through repeated mistakes.

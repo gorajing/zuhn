@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 156 insights
+> 157 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -93,6 +93,7 @@
 - `INS-260326-C692` [high] Start by asking for criticism of yourself before criticizing others — it builds trust and credibility for harder conversations.
 - `INS-260323-D621` [high] If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260330-3A3F` [high] Revolutionary movements follow a predictable arc from moderate reform to radical takeover to radical self-destruction, ultimately landing near the original moderate position.
+- `INS-260403-A360` [high] Tell talented people what to do at the highest level and let them own the details — they'll insist on it anyway.
 - `INS-260326-F3E0` [high] Most leaders fail by being too nice, not too mean — ruinous empathy silently destroys performance and trust.
 - `INS-260403-2CA3` [high] Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.
 - `INS-260323-7D01` [high] Leaders should shape the belief systems of employees, board, partners, and customers gradually over months so that by the time a major strategic decision is announced, it feels obvious and inevitable rather than shocking.

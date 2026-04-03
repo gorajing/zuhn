@@ -53,7 +53,6 @@ stance: >-
   epiphenomenal to the real work of breaking default mode network rigidity.
 related:
   - INS-260325-042A
-  - INS-260327-1631
   - INS-260329-D481
   - INS-260330-4E50
   - INS-260330-4079

@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 281 insights
+> 283 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -17,6 +17,7 @@
 - `INS-260328-23B4` [high] Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.
 - `INS-260327-DAA4` [high] Most people dramatically under-invest in risk—the US ecosystem uniquely rewards those who take bold career bets.
 - `INS-260329-F4CD` [high] Find the single domino that, when toppled, makes every other optimization unnecessary.
+- `INS-260403-21AF` [high] When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260329-82B1` [high] When starting with no capital, embrace high-effort manual strategies first — automation and delegation come after you have revenue, not before.
 - `INS-260321-2F09` [high] Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260327-7157` [high] Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
@@ -123,6 +124,7 @@
 - `INS-260329-DD06` [high] If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
 - `INS-260323-D564` [high] Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to melting — but persisted because he believed ice could have saved his brother's life.
 - `INS-260329-6130` [high] Low personal expenses buy you more shots on goal by letting you survive multiple business failures.
+- `INS-260403-743D` [high] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - `INS-260325-0873` [high] Getting on the plane to see someone in person is an extreme effort signal that makes mediocre ideas go further and great ideas get prioritized over equally good remote pitches.
 - `INS-260327-E992` [high] The best cheat code for surviving founder grind is choosing a problem that genuinely excites you and your team.
 - `INS-260327-BA8E` [high] Your biggest regret will be not pivoting three months earlier, not the pivot itself.

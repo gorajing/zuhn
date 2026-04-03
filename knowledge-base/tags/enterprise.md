@@ -3,13 +3,13 @@
 - `INS-260322-3D21` AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
 - `INS-260325-3B58` B2B AI deployment is bottlenecked by accuracy needs; B2C by GPU capacity during peak demand.
 - `INS-260321-FD14` Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
-- `INS-260327-178E` Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260330-6050` Build where incumbents face structural inability to compete, not just unwillingness.
 - `INS-260330-DD10` Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260330-6EE1` Find what incumbents structurally can't do — whether that's platform agnosticism against suite vendors or novel monetization like Zenefits getting paid by insurance companies instead of customers.
 - `INS-260329-9BC0` Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
 - `INS-260330-50B5` Enter enterprise markets through a narrow, excellent wedge product that expands over time rather than competing head-on with incumbent suites.
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
+- `INS-260327-178E` Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260330-FE9E` Your job is to listen to customer problems and translate them into the best simplest solution — not to build exactly what they tell you to build.
 - `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
 - `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.

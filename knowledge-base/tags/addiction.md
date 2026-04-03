@@ -3,8 +3,8 @@
 - `INS-260327-FD92` Acupressure on specific points combined with deep breathing can interrupt addictive impulses within 60 seconds
 - `INS-260327-E6FE` Addiction recovery requires dopamine receptor upregulation through extended abstinence and nutrient support
 - `INS-260327-7099` Despite nicotine occurring naturally in the body as a neurotransmitter, exogenous nicotine via pouches raises blood pressure, increases heart rate, and is highly addictive.
-- `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
+- `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260330-17C3` Romantic love elevates dopamine (the same reward pathway as cocaine addiction) and alters serotonin in patterns matching OCD, producing obsessive rumination and addictive attachment.
 - `INS-260330-FDA9` Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target.
 - `INS-260330-8646` Dr. Johnson frames all psychiatric disorders as variations of narrowed mental repertoire, unifying depression, anxiety, OCD, and addiction under one mechanistic umbrella.
@@ -19,6 +19,6 @@
 - `INS-260325-9F01` A 30-minute screen time limit does not produce 30 minutes of impact — the craving and mental preoccupation persist all day.
 - `INS-260325-4CF9` The brain's wanting system is diffuse and insatiable; the liking system is small and satiable. Tech exploits the wanting system.
 - `INS-260325-7417` The brain's wanting circuit is easy to trigger but impossible to satisfy, creating the hedonic treadmill that technology exploits for engagement.
-- `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
 - `INS-260325-5A72` Men's higher risk appetite leads them to save lives in emergencies and to blow their savings on gambling -- the trait itself is neutral, and society needs both male and female approaches to risk.
+- `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
 - `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.

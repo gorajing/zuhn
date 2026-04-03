@@ -1,3 +1,4 @@
 # Tag: business-model-canvas
 
+- `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260403-5FBD` Value proposition fit and business model viability are independent variables — companies need both to survive.

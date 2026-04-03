@@ -1,7 +1,7 @@
 # Tag: information-theory
 
-- `INS-260326-E1A8` TurboQuant's core trick: rotate vectors randomly, coordinates become Beta-distributed and nearly independent, then optimal scalar quantizers handle each dimension separately.
 - `INS-260322-3537` The E8 lattice (8D) and leech lattice (24D) are used in real-world error-correcting codes because certain dimensions are supernaturally efficient at preserving order.
+- `INS-260326-E1A8` TurboQuant's core trick: rotate vectors randomly, coordinates become Beta-distributed and nearly independent, then optimal scalar quantizers handle each dimension separately.
 - `INS-260323-9BAB` Whether LLM-generated synthetic data adds genuine new signal beyond its training data — or is merely empty calories by information theory — will determine trillion-dollar outcomes in AI development.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260330-70B9` The most likely outcomes feel least informative, but a strategy optimized for rare jackpots performs worse than one optimized for average information.

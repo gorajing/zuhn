@@ -55,6 +55,7 @@ related:
   - INS-260323-B497
   - INS-260327-3B69
   - INS-260330-2DB0
+  - INS-260403-21AF
 stance: >-
   Using AI to do learning-stage work (writing, reasoning) destroys the cognitive
   development the work was designed to build, creating a generation th...

@@ -1,3 +1,4 @@
 # Tag: team-alignment
 
+- `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260330-478C` Playing recorded interviews for the team creates conviction that no summary or presentation can match.

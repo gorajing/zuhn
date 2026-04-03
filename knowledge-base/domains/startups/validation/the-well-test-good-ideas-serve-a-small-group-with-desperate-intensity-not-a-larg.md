@@ -51,11 +51,11 @@ stance: >-
   breadth of mild interest, because nearly all successful startups began as
   wells not broad shallow holes
 related:
-  - INS-260327-FCCF
+  - INS-260403-AEB3
   - PRI-260403-3906
+  - INS-260327-FCCF
   - INS-260330-6C68
   - INS-260330-AB6E
-  - INS-260403-AF27
   - INS-260402-B66A
 evidence:
   - id: INS-260402-B66A

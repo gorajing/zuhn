@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 32 insights
+> 33 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
@@ -9,6 +9,7 @@
 - `INS-260330-0FF7` [high] China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260330-6AC1` [high] Developer pecking orders reward complexity theater over actual delivery.
 - `INS-260330-6E4E` [high] Freedom is typically eroded through small, individually reasonable steps that each seem too minor to resist, not through dramatic confrontation.
+- `INS-260403-0C95` [high] Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260330-2B5F` [high] Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260403-76C3` [high] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260402-62E3` [high] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.

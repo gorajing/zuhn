@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 395 insights
+> 396 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -337,6 +337,7 @@
 - `INS-260330-5F7E` [high] Creating enormous value doesn't guarantee capturing any of it — airlines created more value than Google but captured approximately zero cumulative profit over 100 years.
 - `INS-260330-A0AE` [high] Creating enormous value (X) guarantees nothing about capturing it (Y%) — airlines created $195B in revenue but cumulative profits ≈ zero over 100 years, while Google captured far more from a smaller market.
 - `INS-260330-228D` [high] The amount of value you create for the world has no relationship to how much of that value you keep — industry structure determines capture.
+- `INS-260403-37FD` [high] Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
 - `INS-260328-F752` [high] VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
 - `INS-260327-94FE` [high] Companies like Expo (security), Traversal (DevOps), and Meter (networking) are showing agents that outperform top human specialists in their specific domains.
 - `INS-260330-6B18` [high] Spotify spent over $1 billion on podcast acquisitions specifically to reduce the record labels' leverage and own content that didn't require paying per-stream royalties.

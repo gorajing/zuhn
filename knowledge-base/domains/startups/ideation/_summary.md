@@ -1,9 +1,10 @@
 # Topic: ideation
 
-> 65 insights
+> 70 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
+- `INS-260403-294D` [high] The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
 - `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
 - `INS-260321-3521` [high] Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260321-CCD9` [high] Basic image generation is being absorbed by foundation models, but creative tools that are aesthetically opinionated (Midjourney) or own non-commoditized modalities (Suno for music, 11 Labs for voice) maintain defensible positions.
@@ -29,6 +30,7 @@
 - `INS-260329-FE15` [high] Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260327-2661` [high] The AtoB founders chose trucking as a fertile idea space, physically went to truck stops to talk to drivers, and systematically mapped the space until they found fuel cards — a method anyone can replicate.
 - `INS-260322-2155` [high] Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
+- `INS-260403-3442` [high] 20 years of schooling teaches problem-solving but never problem-choosing, which is the skill that determines startup success.
 - `INS-260402-9093` [high] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260329-ABD9` [high] Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - `INS-260321-6BA7` [high] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -44,6 +46,7 @@
 - `INS-260321-CCE3` [high] COVID triggered a permanent shift where consumers took responsibility for their own health — vitamin D was the gateway, resistance training brought protein and creatine, and now the supplement-to-peptide pipeline is a mainstream consumer journey.
 - `INS-260325-D624` [high] GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
 - `INS-260403-5441` [high] The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
+- `INS-260403-AA8F` [high] Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
 - `INS-260330-5043` [high] Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260321-7109` [high] SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260330-4EF8` [high] A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.
@@ -52,10 +55,12 @@
 - `INS-260322-F868` [high] Truemed built infrastructure that lets people use existing tax-free HSA/FSA dollars on lifestyle interventions, redirecting billions toward prevention without requiring new legislation or payer buy-in.
 - `INS-260321-3660` [high] Making startup decisions based on VC podcasts and content is literally the definition of generating non-unique ideas.
 - `INS-260330-F125` [high] The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
+- `INS-260403-AEB3` [high] Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
 - `INS-260321-E471` [high] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` [high] Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260322-A9DE` [high] Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
 - `INS-260403-363C` [medium] Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
+- `INS-260403-DF37` [medium] Big company jobs are the career equivalent of junk food—cheap, branded, immediately satisfying, but intellectually corrosive over time.
 - `INS-260330-69C6` [medium] The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260321-4B38` [medium] Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.
 - `INS-260328-6F5B` [medium] YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.

@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 109 insights
+> 110 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -83,6 +83,7 @@
 - `INS-260329-F4E4` [high] Stacking revenue quickly without fixing the product creates a fragile tower that can't grow past a certain height — sustainable scale requires going back to rebuild the foundation.
 - `INS-260325-A326` [high] Robinhood's Vlad Tenev: wartime CEOs make fast irreversible decisions with incomplete info — peacetime consensus-building will kill you in crisis.
 - `INS-260322-D5EB` [high] To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
+- `INS-260403-DB38` [high] Large orgs divide into small groups via hierarchy, but each person's freedom shrinks proportionally to total org size because each group must act as one virtual person to the layer above.
 - `INS-260330-0145` [high] Ramsey treats every endorsement as a trust liability — if a partner fails the 'would you send your sister there' test, the deal dies regardless of revenue.
 - `INS-260329-79D3` [high] Ramsey Solutions turns down advertisers that fail the 'would you send your sister there' test, even when the revenue is significant.
 - `INS-260329-D02E` [high] Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.

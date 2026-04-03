@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 184 insights
+> 185 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -133,6 +133,7 @@
 - `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
 - `INS-260329-E6DB` [high] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
 - `INS-260403-906E` [high] Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
+- `INS-260403-A14B` [high] Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260329-818A` [high] HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
 - `INS-260329-4293` [high] Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
 - `INS-260330-A3B7` [high] Testing baseline → single unit → stacked units in sequence reveals the failure mode at each stage, which a single end-state test would obscure.

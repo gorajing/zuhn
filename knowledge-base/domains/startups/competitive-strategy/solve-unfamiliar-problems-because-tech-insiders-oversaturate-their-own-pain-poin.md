@@ -49,7 +49,6 @@ stance: >-
   oversaturation while massive problems in boring industries go unsolved.
 related:
   - INS-260327-0F42
-  - INS-260327-F544
   - INS-260327-2684
   - INS-260402-D739
   - INS-260403-C610
@@ -58,6 +57,7 @@ related:
   - INS-260330-66A0
   - PRI-260328-E9B5
   - INS-260328-6A18
+  - INS-260328-A9D2
 ---
 Katz challenges Silicon Valley dogma: the popular belief that founders should solve their own problems creates a saturation of solutions for tech workers' problems while massive industries like insurance go untouched. Two outsiders with no insurance background built Commulate to 8-figure ARR.
 

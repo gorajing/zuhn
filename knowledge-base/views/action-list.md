@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3121 actionable insights
+Generated on 2026-04-03 | 3132 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1370,6 +1370,7 @@ Generated on 2026-04-03 | 3121 actionable insights
 - [INS-260403-2949] Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - [INS-260403-8190] You learn programming far faster building your own game than sitting in any classroom, which is why tech companies require coding tests regardless of degree pedigree.
 - [INS-260403-A51A] Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
+- [INS-260403-472E] The biggest killer of potentially successful projects is never starting them due to premature quality standards.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1722,6 +1723,8 @@ Generated on 2026-04-03 | 3121 actionable insights
 - [INS-260330-C7C2] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
 - [INS-260402-8170] Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - [INS-260403-7C60] Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
+- [INS-260403-1C10] Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
+- [INS-260403-1000] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -1936,6 +1939,7 @@ Generated on 2026-04-03 | 3121 actionable insights
 - [INS-260403-D62F] AI marketplace defensibility scales with the difficulty of organizing previously offline or fragmented supply, not model sophistication.
 - [INS-260403-97CA] Incumbents will always win the copilot game because they have the data and distribution; startups must leapfrog by eliminating workflows entirely.
 - [INS-260403-2074] If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
+- [INS-260403-37FD] Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2303,6 +2307,8 @@ Generated on 2026-04-03 | 3121 actionable insights
 - [INS-260403-805E] School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
 - [INS-260403-7C88] Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - [INS-260403-12FD] Real users create a sense of obligation that keeps founders working through the emotional valleys that kill most startups.
+- [INS-260403-21AF] When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
+- [INS-260403-743D] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2596,6 +2602,7 @@ Generated on 2026-04-03 | 3121 actionable insights
 - [INS-260402-33CA] Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - [INS-260403-6935] Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance.
 - [INS-260403-A136] Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
+- [INS-260403-C977] Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -2643,6 +2650,8 @@ Generated on 2026-04-03 | 3121 actionable insights
 - [INS-260403-5441] The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - [INS-260403-C610] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
 - [INS-260403-DDFD] Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
+- [INS-260403-AA8F] Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
+- [INS-260403-AEB3] Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
@@ -2756,6 +2765,7 @@ Generated on 2026-04-03 | 3121 actionable insights
 - [INS-260403-2CA3] Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.
 - [INS-260403-6731] CEO time allocation to innovation is the single strongest predictor of whether innovation programs produce results.
 - [INS-260403-8280] A design that represents one person's coherent vision will be coherent for the user; committee designs fragment into incoherence.
+- [INS-260403-A360] Tell talented people what to do at the highest level and let them own the details — they'll insist on it anyway.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -3286,6 +3296,7 @@ Generated on 2026-04-03 | 3121 actionable insights
 - [INS-260403-2718] Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
 - [INS-260403-F4F6] Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.
 - [INS-260403-99D1] Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
+- [INS-260403-DF7F] Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

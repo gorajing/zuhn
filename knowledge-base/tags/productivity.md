@@ -5,8 +5,8 @@
 - `INS-260321-18D0` Your bottleneck shifted from typing speed to token throughput — maximize how many agent sessions you can run in parallel, not how fast you code.
 - `INS-260322-76B5` A Bali-based cybersecurity consultant now works 30 minutes per day — reviewing agent-completed security tests and reports that previously took one person two weeks per test — while generating ~150M won monthly.
 - `INS-260329-9D26` Using AI as an input filter and output accelerator compounds into roughly 100x individual productivity gains.
-- `INS-260321-0C99` Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
 - `INS-260321-0CCD` A portfolio founder assigned two AI-native engineers with unlimited budgets on Claude Code, Codex, and Cursor and saw 10-20x faster progress — concluding his entire product and engineering organization needs restructuring within 12 months.
+- `INS-260321-0C99` Create three markdown context files (about-me.md, my-rules.md, my-templates.md) — this is the step most people skip and the one that makes the biggest difference.
 - `INS-260329-72C1` AI multiplies individual productivity 100x by compressing inputs 10x and expanding outputs 10x simultaneously.
 - `INS-260321-9824` Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
 - `INS-260320-E683` Even if you're only doing 5% of the task and AI does 95%, that 5% gets "super amplified" — you become 20x more productive through comparative advantage.
@@ -15,10 +15,9 @@
 - `INS-260320-76D2` Use BetterTouchTool for double-tap hotkeys (CMD+CMD = Claude, OPT+OPT = Browser) and relative URL copy from Cursor.
 - `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
-- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
+- `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260329-D481` Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
 - `INS-260322-BEA3` The first thing you focus on each day gets prime mental real estate with zero competition — so give that slot to your single most important task.
@@ -28,12 +27,14 @@
 - `INS-260330-A1D2` Leslie Perlow's experiment showed engineers who protected mornings from all interruptions on specific days achieved 65% above-average productivity.
 - `INS-260330-D61A` Doing your most exciting task first makes boring subsequent tasks feel worse and tanks performance on them — start with moderately interesting work instead.
 - `INS-260325-1AD3` We suffer doubly from problems: once from the problem itself, and again from indignation that problems should even exist in our lives.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260325-4868` Joy requires emotional openness and surprise, which means putting down the phone and being experientially surprisable.
 - `INS-260325-FA70` Joy's preconditions — emotional availability, surprise, and connection — are precisely what productivity optimization destroys.
 - `INS-260327-5833` Researching the perfect workout plan is more exciting than doing pushups, but only one of them builds muscle.
 - `INS-260403-EA2C` Programmer throughput is constant in lines/day, so more succinct languages directly multiply output.
 - `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
 - `INS-260329-3FA6` Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
+- `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260329-4293` Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
 - `INS-260402-7182` When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.

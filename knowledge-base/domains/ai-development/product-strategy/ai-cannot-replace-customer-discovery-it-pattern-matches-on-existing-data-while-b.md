@@ -59,7 +59,6 @@ related:
   - INS-260323-0FDA
   - INS-260322-9172
   - INS-260323-A7F6
-  - INS-260329-B0BA
 stance: >-
   Founders who ask AI what customers want instead of talking to actual customers
   end up optimizing for the wrong problem
