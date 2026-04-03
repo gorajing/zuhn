@@ -52,6 +52,10 @@ related:
   - INS-260330-39C6
   - PRI-260324-1A67
   - INS-260330-A192
+evidence:
+  - id: INS-260330-39C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Economic systems are often described as delicate clockwork, but the reality is that trillion-dollar economies have massive inertia. The US absorbed announced-then-cancelled tariffs multiple times, threatened allies and trading partners, fired and rehired government workers, changed immigration policy, and accumulated record debt - all simultaneously - without immediate collapse.
 

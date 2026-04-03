@@ -60,6 +60,25 @@ related:
 stance: >-
   In VC, waiting 10-15 years for portfolio outputs to evaluate GP performance is
   dangerously slow
+evidence:
+  - id: INS-260330-7C05
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-4457
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-421B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260402-EA72
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F55C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-93C8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Horowitz describes a framework for evaluating GP performance that avoids the classic VC trap of waiting for outputs that take 10-15 years to materialize. Instead, he evaluates 'at the point of attack': how good is the GP at finding opportunities, how good are they at winning those opportunities, and what is the perceived quality at the time of investment.
 

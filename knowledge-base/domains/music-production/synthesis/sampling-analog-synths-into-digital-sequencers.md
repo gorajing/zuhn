@@ -51,6 +51,13 @@ resolutions:
 stance: >-
   Sampling analog synths into digital sequencers combines warm timbre with
   precise digital control
+evidence:
+  - id: INS-260320-232D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4329
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 Recording single-hit samples from analog synthesizers into digital

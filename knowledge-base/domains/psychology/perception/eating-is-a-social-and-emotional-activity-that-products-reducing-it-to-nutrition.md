@@ -53,6 +53,9 @@ evidence:
   - id: INS-260329-C4F5
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-AEF6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Meal replacements fail to achieve mass adoption because they treat eating as a nutritional optimization problem when it is primarily a social, emotional, and sensory experience.
 

@@ -56,6 +56,13 @@ related:
   - INS-260327-7A27
   - PRI-260328-E1CE
   - PRI-260328-A4AC
+evidence:
+  - id: INS-260327-96A5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7A27
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The French Revolution illustrates a recurring pattern: the National Assembly began as moderate constitutional monarchists, but the Jacobins pushed toward increasingly radical republicanism. The radicals then consumed each other — Robespierre, architect of the Terror, was himself guillotined. The final outcome under Napoleon and subsequent monarchs landed close to the original 1789 vision of constitutional monarchy.
 

@@ -59,6 +59,10 @@ related:
   - INS-260327-BEB1
   - INS-260322-F6AA
   - PRI-260328-37D8
+evidence:
+  - id: INS-260330-F9C9
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Patek Philippe's artificial scarcity model reveals the hidden operational complexity behind luxury pricing. Buyers must spend years purchasing lower-tier models at a loss before qualifying for scarce top-tier pieces. Patek actively monitors secondary markets, traces serial numbers, rebuys hundreds of watches annually to identify sellers, and will cut off entire retailers whose customers leak too many pieces.
 

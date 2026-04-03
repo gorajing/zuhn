@@ -75,6 +75,9 @@ evidence:
   - id: INS-260330-7ED0
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-1F4A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 M-PESA's success in Kenya was enabled by Safaricom's dominant market position. In the US, the competitive telecom and fintech landscape means payment apps fragment across Chase Pay, Google Pay, Apple Cash, Venmo, Zelle, and others — the hard part isn't building the app, it's hitting critical mass. African telecom monopolies solved this coordination problem by default: one dominant carrier meant one dominant payment platform with near-universal reach.
 

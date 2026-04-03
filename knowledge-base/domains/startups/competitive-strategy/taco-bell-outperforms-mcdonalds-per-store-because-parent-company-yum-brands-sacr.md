@@ -56,5 +56,8 @@ evidence:
   - id: INS-260327-505A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-D1B7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Yum Brands (spun out of PepsiCo in the late 90s) owns Taco Bell, KFC, and Pizza Hut. Business is zero-sum: Taco Bell's rise correlates directly with KFC and Pizza Hut's decline within the same portfolio. Taco Bell's unique constraint — no meaningful international presence — forced it to compete domestically on product and innovation rather than using overseas expansion as a crutch like its siblings. Taco Bell achieved some of the highest store-level profit margins ever reported in fast food. The Yum Brands portfolio strategy: bet on the winner, harvest the losers. This is the same Moneyball dynamic (focus on 3 star brands) but applied to a restaurant portfolio.

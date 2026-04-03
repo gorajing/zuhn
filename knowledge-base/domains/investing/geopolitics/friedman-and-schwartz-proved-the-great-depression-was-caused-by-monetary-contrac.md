@@ -60,6 +60,13 @@ related:
 stance: >-
   Friedman and Schwartz's 12-year study proved the Great Depression was caused
   by a 30% drop in money supply due to Fed inaction
+evidence:
+  - id: INS-260330-F82A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-8C53
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The dominant post-Depression narrative was that capitalism had a fundamental flaw — its boom-bust cycles create social instability requiring permanent government intervention. Friedman and Anna Schwartz spent 12 years building an alternative explanation, literally going to banks and adding up their books to trace money flows. They found that the money supply dropped by a third during the Depression because the Federal Reserve failed to act as lender of last resort during the banking crisis.
 

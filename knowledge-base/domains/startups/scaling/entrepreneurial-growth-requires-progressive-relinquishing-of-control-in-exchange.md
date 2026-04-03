@@ -64,6 +64,9 @@ evidence:
   - id: INS-260329-7BA7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-EF98
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The control-freedom paradox explains why many entrepreneurs plateau: they start businesses for freedom but achieve total control (solopreneur), which is the opposite of freedom. Growth requires a deliberate, uncomfortable process of relinquishing control — extending trust to others to handle meetings, decisions, and coordination that previously required the founder.
 

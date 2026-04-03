@@ -47,6 +47,10 @@ related:
   - INS-260330-6C35
   - INS-260325-F5CA
   - INS-260327-E52A
+evidence:
+  - id: INS-260325-F5CA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse when subsidies are removed, because the natural equilibrium price may not support the platform.
 

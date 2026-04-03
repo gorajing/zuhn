@@ -55,5 +55,15 @@ related:
 stance: >-
   The Iran operation isn't about religion or revenge — it's about clearing the
   physical obstacle blocking a logistics highway
+evidence:
+  - id: INS-260330-FAB8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260324-0A26
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2B5F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Korean analyst argues every major US military action maps to infrastructure strategy. Iran funded Houthi rebels who attacked Red Sea shipping (disrupting the Suez Canal route), and backed Hamas/Hezbollah who attacked Israel (IMEC's final node before Europe). Biden announces IMEC in early 2023; Hamas attacks Israel in fall 2023. Coincidence? The US needs Iran neutralized to turn on IMEC — otherwise China's proxy (Iran) can cut the corridor at any time. This is not the 2003 Iraq invasion with democracy rhetoric; it's cold, capitalist, strategic infrastructure clearing. Saudi Arabia and Israel — historical sworn enemies — are aligning because both want to be core nodes on the IMEC corridor. Interests override ideology.

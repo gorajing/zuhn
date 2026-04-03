@@ -46,17 +46,18 @@
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
-- `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
-- `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260323-C0BD` GSP and Lex Fridman agree that in martial arts, skill level is by far the most important factor — it trumps strength, size, and even heart.
+- `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
+- `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
-- `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
 - `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
+- `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.
 - `INS-260330-8D99` Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
+- `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
 - `INS-260330-752E` Spend 1-2 months working inside your target industry to surface inefficiencies invisible from the outside.
 - `INS-260330-C215` Spend 1-2 months working inside your target industry to discover exploitable inefficiencies firsthand.

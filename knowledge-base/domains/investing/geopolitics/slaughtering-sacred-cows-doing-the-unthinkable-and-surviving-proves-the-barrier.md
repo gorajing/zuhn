@@ -60,6 +60,15 @@ evidence:
   - id: INS-260327-6177
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-4DE7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B5E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-1BB4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kushner describes how the Abraham Accords became possible only after Trump systematically violated diplomatic 'sacred cows' that everyone said would be catastrophic: recognizing Jerusalem as Israel's capital, moving the embassy, recognizing the Golan Heights. Each time, the predicted catastrophe didn't materialize — 'the next morning the sun rose, the next evening the sun set.'
 

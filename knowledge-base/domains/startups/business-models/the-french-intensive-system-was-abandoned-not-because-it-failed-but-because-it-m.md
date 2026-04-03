@@ -58,6 +58,19 @@ related:
   - INS-260330-EC7C
   - INS-260327-479C
   - INS-260327-BF95
+evidence:
+  - id: INS-260330-D429
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-479C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-BF95
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-25AD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Paris market gardeners (maraîchers) in the 1800s produced four times the food of conventional rows, maintained waiting lists of wealthy households, and generated six-figure equivalent incomes from 1-2 acres. The system was never disproven or outperformed at the per-square-foot level.
 

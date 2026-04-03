@@ -66,6 +66,30 @@ evidence:
   - id: INS-260323-D4B1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-A47B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-2EB0
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-DFA5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260328-D0F6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-EFF3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F6DB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-5F21
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260402-FFCB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Youssef cites Holocaust survivor Maior Meyer's insight from Auschwitz: 'In order for a group of people to dehumanize another group, they need first to dehumanize themselves.' This framework explains how ordinary people participate in atrocities — the psychological cost of dehumanizing others requires numbing your own humanity first.
 

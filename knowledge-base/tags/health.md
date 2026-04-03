@@ -1,7 +1,7 @@
 # Tag: health
 
-- `INS-260330-66EF` Fossil evidence shows foragers were healthier than early farmers, yet every independent civilization chose agriculture anyway.
 - `INS-260330-4D8B` Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper.
+- `INS-260330-66EF` Fossil evidence shows foragers were healthier than early farmers, yet every independent civilization chose agriculture anyway.
 - `INS-260325-9F4C` Loneliness keeps the body in chronic fight-or-flight mode, elevating cortisol and inflammation that wear away cardiovascular, metabolic, and brain systems.
 - `INS-260325-9E0C` The 85-year Harvard Study of Adult Development found that people with the warmest relationships stayed healthiest longest and lived longest.
 - `INS-260325-B4A8` Research suggests that chronic acrimony in an intimate relationship may be more harmful to health than splitting up, because it maintains the same chronic stress as loneliness.

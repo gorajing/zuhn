@@ -56,6 +56,13 @@ related:
   - INS-260327-9377
   - INS-260327-E9FC
   - INS-260323-FAD5
+evidence:
+  - id: INS-260327-E9FC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-9377
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video opens with a striking parallel: Roman coins called Augustus 'son of God' at the exact time Jesus was born. Both figures used identical divine framing, but for opposite audiences. Augustus's claim reinforced existing power structures — the emperor's divine mandate justified the status quo. Jesus's claim subverted them — a poor Jewish carpenter as God's son was a radical inversion that resonated with the powerless.
 

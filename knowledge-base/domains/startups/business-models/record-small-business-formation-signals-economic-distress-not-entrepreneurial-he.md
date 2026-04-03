@@ -55,6 +55,10 @@ related:
   - INS-260402-27A1
   - INS-260327-2684
   - INS-260327-FCCF
+evidence:
+  - id: INS-260327-3653
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Record small business creation (5.5M applications/year, double pre-pandemic levels) is celebrated by politicians as proof of economic health. In reality, necessity entrepreneurship - starting a business because you can't find adequate employment - produces very different outcomes than opportunity entrepreneurship. Most necessity businesses are sole proprietorships with no employees, competing in saturated markets.
 

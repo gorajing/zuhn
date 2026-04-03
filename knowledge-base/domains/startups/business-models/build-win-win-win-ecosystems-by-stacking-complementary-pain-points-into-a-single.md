@@ -66,6 +66,9 @@ evidence:
   - id: INS-260325-040F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-02A7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Po-Shen Loh's education business stacks three pain points into one ecosystem: (1) middle school students need engaging math education that teaches thinking, (2) math-talented high schoolers need EQ development and mentorship experience, (3) drama/acting graduates need flexible paid part-time work to support their creative careers. Each group's participation solves the others' problems.
 

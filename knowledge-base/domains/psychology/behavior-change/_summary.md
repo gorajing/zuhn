@@ -1,7 +1,8 @@
 # Topic: behavior-change
 
-> 9 insights
+> 10 insights
 
+- `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260330-8286` [high] Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment.
 - `INS-260330-81B1` [high] Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260330-1839` [high] Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.

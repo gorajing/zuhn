@@ -55,6 +55,10 @@ related:
 stance: >-
   Ice did not just preserve food — it launched the fish industry, meat packing,
   brewing, and fundamentally restructured American cities.
+evidence:
+  - id: INS-260327-8E45
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The cold chain transformed America far beyond keeping drinks cold. Refrigerated rail cars made it possible to ship prepared meat instead of live cattle, producing a 25-fold increase in beef shipments to NYC in just 4 years (2,400 to 63,000 tons, 1882-1886) and dropping urban meat costs 39%. Cities no longer needed local stockyards, freeing land for housing and offices — fundamentally creating the modern city structure. Iceberg lettuce got its name because it traveled on ice. Beyond food, the same refrigeration principles enabled vaccines, blood donations, insulin, MRIs, the Large Hadron Collider, and the James Webb Telescope.
 

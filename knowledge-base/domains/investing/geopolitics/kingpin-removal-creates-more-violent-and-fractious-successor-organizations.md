@@ -56,6 +56,13 @@ related:
   - INS-260327-4D1F
   - INS-260330-2E1E
   - INS-260330-8686
+evidence:
+  - id: INS-260330-2E1E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8686
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Sinaloa cartel under El Chapo operated like a business: bribing local law enforcement, minimizing visible violence, and maintaining stable territory. When US law enforcement successfully dismantled its leadership, the organization fractured into approximately a dozen competing factions. This power vacuum was filled by the Jalisco New Generation Cartel (CJNG), whose operating model centers on extreme public violence as a control mechanism — shooting mayors, police chiefs, and civilians to establish dominance.
 

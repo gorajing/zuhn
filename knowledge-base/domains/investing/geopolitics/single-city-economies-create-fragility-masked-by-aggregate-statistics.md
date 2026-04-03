@@ -59,6 +59,33 @@ evidence:
   - id: INS-260327-E2F2
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-B626
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-9542
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-B2E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-965A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-7EEF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-7E0A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-2D0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-D20D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-21C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The UK illustrates the danger of single-city economic concentration. London's financial sector, tech ecosystem, and property market generate impressive headline GDP while the rest of the country experiences sustained decline. National statistics average these two realities into a misleading middle.
 

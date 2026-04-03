@@ -54,6 +54,16 @@ related:
 stance: >-
   When victory or success is never defined precisely, it is always a tell that
   there is deception at the heart of the claim
+evidence:
+  - id: INS-260327-7D75
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-D9A4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-B583
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Carlson identifies a general-purpose heuristic: when someone pushing a major initiative refuses to define what success looks like precisely, deception is almost certainly involved. He applies this to Ukraine war policy ('victory was never defined precisely') but the principle is universal.
 

@@ -46,5 +46,9 @@ related:
   - INS-260327-118C
   - INS-260327-5E7F
   - INS-260327-E2F1
+evidence:
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Beef liver contains more bioavailable nutrients per gram than any other food: vitamin A (retinol), all B vitamins including B12, copper, iron (heme), folate, CoQ10, choline, and complete protein in extraordinary concentrations

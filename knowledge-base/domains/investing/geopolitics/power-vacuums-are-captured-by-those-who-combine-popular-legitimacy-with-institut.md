@@ -58,6 +58,19 @@ related:
   - INS-260330-35E2
   - INS-260330-B885
   - INS-260327-94CC
+evidence:
+  - id: INS-260327-6853
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-35E2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B885
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-94CC
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The Brumaire coup wasn't a military takeover — it was a coordinated institutional capture. Napoleon had two essential assets: mass popularity (which made opposing him politically dangerous) and insider allies in the Directory (Sieyes, Talleyrand, Fouche) who provided the legal mechanisms and political cover. Neither alone would have sufficed — popularity without institutional access would have made him a rebel, and insider support without popular legitimacy would have made him another palace conspirator easily replaced.
 

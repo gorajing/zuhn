@@ -55,5 +55,9 @@ related:
   - INS-260327-C54D
   - INS-260323-8893
   - PRI-260328-4810
+evidence:
+  - id: INS-260322-3646
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Graham's Viaweb had only 70 users by end of 1996, which felt embarrassingly small during the 'get big fast' era. But that year was effectively a laboratory for improving their software. By year's end they were so far ahead that competitors never caught up. The key mechanism: forced slow growth meant founders learned every job (writing software, sales, customer support), and all the hackers spent hours talking to users, giving them deeper understanding of online commerce than anyone else. Graham's customer support was legendary — he knew everything about the product, would apologize for bugs and fix them while on the phone. The first batch of users who find you by word of mouth are the most valuable: smart enough to discover you themselves, they'll tell you exactly how to build a winning product and pay you for the privilege. Google demonstrated the same principle — brand is nearly worthless in technology; you can arrive late and win purely by understanding the domain better than incumbents.

@@ -56,6 +56,10 @@ related:
   - INS-260327-BE3F
   - INS-260330-1183
   - INS-260325-6262
+evidence:
+  - id: INS-260327-AFC7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Russia's persistence of serfdom was the single greatest drag on its economic development. While Western Europe industrialized with free labor markets, Russian serfs were tied to the land, unable to move to factories, learn new skills, or participate in market economies. This meant Russia had vast natural resources and territorial advantages but couldn't convert them into economic power because its labor system prevented the reallocation of human capital.
 

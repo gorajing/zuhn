@@ -55,5 +55,12 @@ related:
 stance: >-
   When Ignacio told Rosolie 'you'd be an idiot to leave right now,' the decision
   to stay produced the historic first-contact encounter
+evidence:
+  - id: INS-260327-994B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-50B6
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Paul Rosolie and his team were about to leave the remote Amazon community the morning after arriving, having found no tribe. Ranger Ignacio -- who had been shot in the head by the tribe's arrow years earlier -- approached him and said: 'You're my director, right? I need to talk to you like a friend. You'd be an idiot to leave right now. They're coming.' Rosolie listened. They unpacked. Hours later, the tribe emerged onto the beach in what became the first documented peaceful encounter with this particular Mashco Piro clan. This pattern recurs in high-stakes environments: the person closest to the ground truth has information the decision-maker lacks. Rosolie's willingness to cancel plans, defer to frontline intelligence, and stay despite uncertainty produced a world-first outcome. The structural lesson: build relationships where your most experienced operators feel safe saying 'your plan is wrong' -- and build the reflex to listen.

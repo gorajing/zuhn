@@ -52,6 +52,10 @@ related:
   - INS-260327-4BC6
   - INS-260330-121C
   - PRI-260328-6136
+evidence:
+  - id: INS-260330-121C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Fast food companies historically thrived in recessions because they offered the cheapest caloric value in the market. When consumers tightened budgets, they traded down to fast food. But chains responded to inflationary cost pressures by raising prices, reducing portions, and degrading service - eliminating the exact value proposition that made them recession-proof.
 

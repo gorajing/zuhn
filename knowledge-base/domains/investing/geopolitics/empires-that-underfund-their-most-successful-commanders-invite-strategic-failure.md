@@ -57,6 +57,10 @@ related:
   - INS-260327-B038
   - INS-260327-236D
   - INS-260327-3528
+evidence:
+  - id: INS-260326-E411
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Belisarius won stunning victories but was chronically starved of reinforcements. Justinian, suspicious of his general's popularity and focused on other priorities, sent far fewer troops than needed to hold conquered territory. The result: Belisarius would conquer cities and provinces, but couldn't garrison them adequately. Enemies would regroup and retake territory, requiring another expensive campaign. The Byzantine treasury spent more on repeated reconquests than it would have on adequate initial forces.
 

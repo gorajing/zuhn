@@ -55,6 +55,10 @@ related:
   - INS-260322-AAEA
   - INS-260322-3646
   - INS-260327-3C19
+evidence:
+  - id: INS-260322-3646
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Michael identifies a critical failure mode in tech thinking: people who are directionally correct about a trend (self-driving, AGI) often fail to account for how much timeline uncertainty matters for practical decisions. A founder who believed self-driving would arrive in 2017 and one who believed it would arrive in 2025 both held 'correct' views -- but should have built entirely different companies.
 

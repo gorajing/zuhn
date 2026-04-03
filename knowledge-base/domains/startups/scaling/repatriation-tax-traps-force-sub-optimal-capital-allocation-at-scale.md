@@ -68,5 +68,11 @@ evidence:
   - id: INS-260330-137A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-AB46
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7199
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Apple's situation revealed a profound distortion: despite being the world's most cash-rich company, it was simultaneously one of the largest corporate bond issuers — borrowing money in the US at low interest rates rather than repatriating offshore cash at a 35% tax hit. This created an absurd situation where a company sitting on $285B was taking on debt. The 2017 Tax Cuts and Jobs Act partially resolved this with a one-time repatriation tax of ~15.5%, prompting Apple to bring back most of its offshore cash and fund a $100B buyback program. The broader lesson for scaling companies: tax structure decisions made early compound enormously at scale. What seems like clever optimization at $1M in profits becomes a structural trap at $100B. Founders should design corporate structures with eventual repatriation in mind, not just immediate tax minimization.

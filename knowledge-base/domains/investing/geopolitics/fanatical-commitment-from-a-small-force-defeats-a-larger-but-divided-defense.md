@@ -56,6 +56,16 @@ related:
   - INS-260327-32BA
   - INS-260327-0C9F
   - INS-260330-4ACF
+evidence:
+  - id: INS-260321-1A99
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F158
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4ACF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The crusaders who reached Jerusalem were a fraction of those who started — exhausted, starving, and outnumbered. But their commitment was total: they had sold everything, walked 3,000 miles, and believed God was on their side. Meanwhile, the Muslim world was fragmented between rival Seljuk Turkish factions and the Fatimid Caliphate of Egypt, who actually viewed each other as greater threats than the crusaders. This fragmentation meant no unified defense materialized.
 

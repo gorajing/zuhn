@@ -51,6 +51,13 @@ related:
   - PRI-260328-0174
   - INS-260327-BED6
   - INS-260330-F222
+evidence:
+  - id: INS-260330-3BB5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F222
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The dirty dozen list identifies produce with the highest pesticide residues when grown conventionally. Grapes and berries consistently rank among the worst. Thick-skinned fruits (avocados, bananas, oranges) are safer to buy conventional because the peel provides a barrier.
 

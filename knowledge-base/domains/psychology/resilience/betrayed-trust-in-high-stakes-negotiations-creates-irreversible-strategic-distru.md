@@ -62,6 +62,16 @@ related:
   - PRI-260323-9928
   - INS-260402-E2FF
   - INS-260325-A326
+evidence:
+  - id: INS-260330-3BBD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-D2CF
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-485B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Minsk Accords case reveals a devastating pattern: France's Hollande, Germany's Merkel, and Ukraine's Poroshenko all admitted they were never serious about the peace process — they used negotiations to buy time to build up Ukraine's military. Putin, who negotiated in good faith, was profoundly affected by these admissions. The result: Russia's trust in Western diplomatic commitments dropped to near zero, making every subsequent negotiation exponentially harder.
 

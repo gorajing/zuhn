@@ -56,6 +56,13 @@ related:
   - PRI-260328-65EC
   - INS-260327-8AF8
   - INS-260327-994B
+evidence:
+  - id: INS-260327-4CCE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-F158
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Austrian forces in Italy suffered from divided command: multiple generals of similar rank who needed to coordinate and agree. Their strategic debates consumed days. Napoleon, with unified command authority, could conceive and execute plans in hours. The Austrian coordination overhead was a structural disadvantage that no amount of troop quality could overcome.
 

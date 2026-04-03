@@ -74,6 +74,12 @@ evidence:
   - id: INS-260325-FC52
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-C19C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7981
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The biological mechanism connecting relationships to physical health operates through stress regulation. Daily stressors activate fight-or-flight responses — elevated heart rate, sweating, physiological arousal. Normally, when the stressor passes, the body returns to equilibrium. If you can talk to a trusted friend or partner, you literally feel your body calm down.
 

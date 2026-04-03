@@ -56,6 +56,10 @@ related:
   - INS-260327-DF8B
   - INS-260330-92BB
   - INS-260330-617A
+evidence:
+  - id: INS-260323-5EA1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The prefrontal cortex—the 'CEO of the brain' responsible for planning, impulse control, and long-term thinking—develops considerably earlier in girls than boys, with the biggest gap occurring during adolescence. This means education systems that reward turning in homework, maintaining GPA, and preparing for college structurally favor the group whose executive function matures first.
 

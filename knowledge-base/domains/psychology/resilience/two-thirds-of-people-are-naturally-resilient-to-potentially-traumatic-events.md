@@ -66,6 +66,10 @@ related:
   - INS-260325-A9E0
   - INS-260330-E68E
   - INS-260330-5F6C
+evidence:
+  - id: INS-260323-DA4E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Bonanno's decades of research reveals a finding that was initially met with indifference and pushback from the clinical community: approximately two-thirds of people exposed to potentially traumatic events (violence, life-threatening situations, sexual violation) show a resilient trajectory — they continue functioning relatively normally afterward. They may get upset in the moment, but they maintain the capacity to concentrate, work, and maintain intimate relationships.
 

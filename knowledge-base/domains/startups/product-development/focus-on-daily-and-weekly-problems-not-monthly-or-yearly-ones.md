@@ -51,6 +51,10 @@ related:
   - INS-260327-6900
   - INS-260329-4A55
   - INS-260329-727B
+evidence:
+  - id: INS-260327-B064
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Seibel draws a sharp distinction between problem frequency as a startup selection criterion. Daily and weekly problems create products people return to habitually — Uber solves a three-times-daily need. Monthly or yearly problems (like buying a car) create products people use briefly and forget. The frequency of the pain directly correlates with retention, word-of-mouth, and the ability to iterate quickly on feedback.
 

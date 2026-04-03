@@ -57,6 +57,16 @@ related:
   - PRI-260328-E1CE
   - INS-260330-AE4B
   - INS-260330-9367
+evidence:
+  - id: INS-260327-D25D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8F72
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-BF38
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 China was the first modern state — centralized government with a corps of bureaucrats who could execute the wishes of that government. This structure survived dozens of dynasty changes, foreign conquests (the Mongol Yuan), civil wars, and natural disasters. The key was that the bureaucratic apparatus persisted even when the ruling family changed.
 

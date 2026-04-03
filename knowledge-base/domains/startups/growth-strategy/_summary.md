@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 53 insights
+> 54 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
@@ -31,6 +31,7 @@
 - `INS-260330-1089` [high] When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - `INS-260330-999F` [high] Spotify's free ad-funded tier lost money but was the primary engine converting users to paid subscriptions, which competitors without free tiers couldn't match.
 - `INS-260323-2040` [high] Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
+- `INS-260403-36D1` [high] Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
 - `INS-260330-21CC` [high] Power users stay anyway — growth comes from saving marginal users by getting them to the magic moment, not from reducing friction for heavy users.
 - `INS-260329-CCC4` [high] Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
 - `INS-260322-F128` [high] The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.

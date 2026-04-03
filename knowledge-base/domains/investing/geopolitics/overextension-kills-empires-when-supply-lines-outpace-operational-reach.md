@@ -56,6 +56,10 @@ related:
   - PRI-260328-A589
   - INS-260327-377A
   - INS-260327-CB71
+evidence:
+  - id: INS-260325-11E4
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Napoleon invaded Russia with 600,000+ men, the largest army Europe had seen. But the fundamental problem was logistical: no army could be supplied across the vast distances of Russia using 19th-century technology. Disease, desertion, and starvation halved the army before any major battle. Napoleon waited in Moscow for a surrender that never came, hoping the enemy would capitulate before his logistics collapsed.
 

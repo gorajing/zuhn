@@ -61,6 +61,19 @@ related:
 stance: >-
   Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction
   that rallies Muslims worldwide
+evidence:
+  - id: INS-260330-5779
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260326-2E56
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-0017
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-ABBF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Musk's analysis of the Israel-Hamas conflict is game-theoretic: Hamas committed maximum atrocities specifically to provoke the most aggressive Israeli response possible, then leveraged that response to rally global Muslim support — 'which they have succeeded in doing.' The counterintuitive optimal strategy is not restraint alone but active, visible, unambiguous kindness (mobile hospitals, food, water, 24/7 webcams) that makes Hamas's counter-narrative ('it's a trick') untenable.
 

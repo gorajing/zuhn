@@ -77,6 +77,9 @@ evidence:
   - id: INS-260327-0D0B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-89DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Marcus anticipated hallucinations in his 2001 book 'The Algebraic Mind' before LLMs even existed. The mechanism is clear: LLMs break information into tokens, build statistical clusters of co-occurring concepts, then reconstruct outputs. Sometimes these reconstructions are wrong — Harry Shearer becomes 'British' because the system blurs him with statistically similar British voiceover actors. The system presents everything with encyclopedia-like confidence whether true or not.
 

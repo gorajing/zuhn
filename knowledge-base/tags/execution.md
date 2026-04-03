@@ -41,9 +41,9 @@
 - `INS-260323-E15B` After 20 years running Meta, Zuckerberg's biggest lesson is that a cohesive leadership team can accomplish almost anything, while strategic brilliance fails without it.
 - `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.
-- `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
 - `INS-260329-7B47` Send 100 personalized outreach messages daily using a compliment-plus-positioning formula to guarantee your first five customers through pure volume.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
+- `INS-260323-2C70` Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.
 - `INS-260330-8D99` Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
 - `INS-260323-A075` Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
 - `INS-260323-4457` A product that takes months to reach a testable state is burning the founder's most scarce resource — time to learn whether the idea even matters — on engineering before validation.

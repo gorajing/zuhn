@@ -58,6 +58,10 @@ related:
   - PRI-260321-14D8
   - INS-260330-FB5A
   - INS-260329-D48B
+evidence:
+  - id: INS-260330-B7AB
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 DNA polymerase doesn't just copy — it proofreads each nucleotide as it's added, immediately excising mismatches. This inline error-correction achieves roughly one error per billion base pairs, a rate no post-hoc inspection system could match at that scale.
 

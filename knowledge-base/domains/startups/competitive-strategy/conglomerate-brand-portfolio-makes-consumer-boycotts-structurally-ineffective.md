@@ -53,5 +53,9 @@ related:
   - INS-260330-3431
   - INS-260329-C0F1
   - INS-260323-104E
+evidence:
+  - id: INS-260322-2647
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Despite decades of scandals — baby formula deaths, water extraction, child labor — Nestlé's sales continued growing because consumers couldn't practically avoid their 2000+ brands spanning chocolate, coffee, water, pet food, and cosmetics. This reveals a counterintuitive competitive strategy: brand portfolio diversification serves not just as market coverage but as reputational insurance. When no single brand is synonymous with the parent company, scandals at the corporate level don't translate into purchase-level decisions. This is relevant for understanding why conglomerate structures persist despite theoretical diseconomies of scope — the reputational firewall alone has massive strategic value.

@@ -48,5 +48,9 @@ related:
   - PRI-260328-37F3
   - INS-260327-6EB6
   - INS-260327-98C7
+evidence:
+  - id: INS-260327-6EB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Synthetic cyanocobalamin blocks B12 receptors while providing minimal active methylcobalamin, and synthetic folic acid blocks folate receptors in people with MTHFR mutations -- both can worsen nerve pain and neuropathy rather than help

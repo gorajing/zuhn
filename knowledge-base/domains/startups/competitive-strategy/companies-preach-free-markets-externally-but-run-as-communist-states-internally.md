@@ -55,6 +55,10 @@ related:
   - INS-260330-19F1
   - INS-260402-71A7
   - INS-260327-77E7
+evidence:
+  - id: INS-260327-77E7
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Paul Graham observes that open source and blogging both operate like market economies — people produce what they want and Darwinian selection surfaces the best. Yet companies, despite rhetoric about free markets, run internally like centralized states: management assigns work, enforces quality through rules, and controls idea flow top-down.
 

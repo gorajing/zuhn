@@ -61,6 +61,10 @@ related:
   - INS-260330-6B18
   - INS-260330-DC0D
   - INS-260327-6E0E
+evidence:
+  - id: INS-260327-09D7
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Movies are inherently boom-bust: a few hits subsidize many flops, and the only way to survive is deep pockets and the ability to keep drawing lottery tickets. But Lionsgate found a structural hedge in library syndication. When they acquired Artisan Entertainment for $220M, they gained 8,000+ titles including Terminator 2, Total Recall, and Reservoir Dogs.
 

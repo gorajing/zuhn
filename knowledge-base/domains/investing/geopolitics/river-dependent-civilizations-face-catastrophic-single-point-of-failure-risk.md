@@ -56,6 +56,13 @@ related:
   - INS-260330-6AED
   - PRI-260325-6400
   - INS-260330-440E
+evidence:
+  - id: INS-260330-2E1E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-440E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 One leading theory for the Indus Valley Civilization's decline is that a massive earthquake altered river courses, drying up tributaries that sustained irrigation. Despite having advanced urban planning, trade networks, and sanitation superior to 18th-century Europe, the civilization couldn't survive the loss of its water infrastructure. The most calories-per-acre region on the planet became uninhabitable.
 

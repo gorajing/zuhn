@@ -63,6 +63,13 @@ related:
   - INS-260327-25C7
   - INS-260330-15AE
   - INS-260330-63FE
+evidence:
+  - id: INS-260323-A197
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-25C7
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Japan's decision to bomb Pearl Harbor was predicated on the theory that a dramatic show of force would convince the United States to remain neutral. This was a textbook mirror-imaging error — projecting your own decision-making framework onto an opponent with a fundamentally different one. Japan's military leadership, operating within a culture that respected decisive shows of force, assumed America would calculate that the cost of war exceeded the benefit and back down.
 

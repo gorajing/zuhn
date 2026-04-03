@@ -60,6 +60,10 @@ related:
   - INS-260327-C0AB
   - INS-260327-5DB4
   - INS-260327-DEE0
+evidence:
+  - id: INS-260322-3A00
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The therapeutic mechanism of fasting appears to be reduction of lipopolysaccharide (endotoxin) from undigested food fermenting in the colon, not the widely promoted autophagy narrative. Alternatives that achieve endotoxin reduction without fasting's hormonal costs: activated charcoal (binds endotoxin), insoluble fiber, reducing resistant starches, and eating simple carbohydrates (honey, fruit, juice) that don't feed pathogenic gut bacteria.
 

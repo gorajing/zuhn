@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-E8BC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-7B16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 While individual behavior is unpredictable, demographic groups behave with remarkable consistency. The number of 18-year-olds in 30 years is already determined by births today — no country has figured out how to 'manufacture' them. This makes population pyramids one of the most powerful forecasting tools available.
 

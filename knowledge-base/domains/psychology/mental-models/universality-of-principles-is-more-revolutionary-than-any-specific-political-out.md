@@ -63,6 +63,15 @@ evidence:
   - id: INS-260330-AB58
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-C4AD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-17B5
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2958
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Despite cycling through constitutional monarchy, republic, terror, directory, and empire, the French Revolution's most enduring contribution was the Declaration of Rights of Man's assertion that laws derive from the general will and must apply equally to all. Zhou Enlai's famous remark that it's 'too soon to say' what the revolution's effects were captures how paradigm-level ideas operate on timescales far beyond their originating events.
 

@@ -53,5 +53,9 @@ related:
   - INS-260327-1DAB
   - INS-260327-78E6
   - INS-260330-0233
+evidence:
+  - id: INS-260329-6204
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Caffeine works by blocking adenosine receptors (masking tiredness) and stimulating cortisol and adrenaline release (creating artificial energy). Over time, the adrenals become fatigued from constant stimulation, requiring more coffee for less effect. A 30-day elimination reveals: days 1-7 headaches and fatigue (withdrawal), days 7-14 energy stabilizes at true baseline, days 14-30 deeper sleep, more stable energy, reduced anxiety, lower blood pressure, and better hydration. After the reset, many people find they need far less coffee or none at all. If energy is still low after 30 days, it indicates an underlying issue (B vitamin deficiency, thyroid, or metabolic problem) that coffee was masking.

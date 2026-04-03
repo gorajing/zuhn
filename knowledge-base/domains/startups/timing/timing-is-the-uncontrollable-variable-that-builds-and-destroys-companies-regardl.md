@@ -61,6 +61,9 @@ evidence:
   - id: INS-260326-6B98
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-DA38
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Byju's rose to $22B during the pandemic when edtech demand exploded, then crashed to under $1B when in-person learning resumed. The founder Ravindran went from Forbes-featured billionaire to zero net worth. He didn't lose his industry knowledge or teaching expertise — the market timing that elevated him simply reversed.
 

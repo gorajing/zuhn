@@ -54,6 +54,10 @@ related:
 stance: >-
   Putin's framing of 1991 as a greater tragedy than WWII (where the Soviets lost
   millions) reveals his value hierarchy: loss of great power status an...
+evidence:
+  - id: INS-260330-814E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Plokhy provides crucial contextual analysis of Putin's famous statement. The timing — weeks before Victory Day celebrations — is key. WWII cost millions of Soviet lives but ended with the USSR as a world power controlling half of Europe. 1991 cost very few lives but meant loss of state, territory, and great power status. For Putin, the 'catastrophe' is the loss of unified Russian peoples and superpower standing, not human suffering.
 

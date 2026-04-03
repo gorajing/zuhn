@@ -56,6 +56,16 @@ related:
   - INS-260323-D479
   - INS-260325-A326
 stance: The entire nuclear arsenal can launch in seconds
+evidence:
+  - id: INS-260323-CB47
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-D479
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-A326
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Annie Jacobsen's investigation reveals the terrifying mechanics behind nuclear war. The US has 1,770 deployed nuclear weapons that can launch in 60 seconds. Russia has 1,674 on similar readiness. Satellites detect a launch within fractions of a second, and the president has exactly 6 minutes under 'sole presidential authority' to decide on a counter-strike — with no required approval from Congress, the Secretary of Defense, or anyone else.
 

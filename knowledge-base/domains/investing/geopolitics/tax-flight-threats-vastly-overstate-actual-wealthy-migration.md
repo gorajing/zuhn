@@ -49,6 +49,13 @@ related:
   - INS-260327-19E5
   - INS-260330-EA56
   - INS-260329-60CF
+evidence:
+  - id: INS-260327-19E5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-60CF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Capital flight dominates every tax policy debate. Headlines amplify high-profile moves to suggest mass exodus. However, most high-net-worth individuals have deep roots making relocation very costly. The Laffer Curve inflection point is much higher than anti-tax advocates claim.
 

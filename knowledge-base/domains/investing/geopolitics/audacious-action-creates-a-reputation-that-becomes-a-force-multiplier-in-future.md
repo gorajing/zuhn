@@ -55,6 +55,10 @@ related:
   - INS-260327-377A
   - INS-260327-C22F
   - INS-260327-1107
+evidence:
+  - id: INS-260330-B444
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 After Lodi, Arcole, Rivoli, and other Italian victories, Napoleon's name carried psychological weight. Future opponents approached battles against him with fear and caution, often making defensive errors they wouldn't have made against an unknown general. His reputation became a force multiplier — the enemy was partially defeated by their own expectations before fighting began.
 

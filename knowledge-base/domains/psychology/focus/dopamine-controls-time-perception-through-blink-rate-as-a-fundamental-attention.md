@@ -68,6 +68,9 @@ evidence:
   - id: INS-260329-A9C0
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-085E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Research published in Current Biology (Terhune et al., 'Time dilates after spontaneous blinking') demonstrates that blinks function as temporal resets—like scene breaks in a film. After each blink, the brain recalibrates its perception of time. Higher dopamine leads to less blinking, finer time-slicing (slow-motion perception), and overestimation of durations. Lower dopamine leads to more blinking, coarser time perception, and underestimation of durations.
 

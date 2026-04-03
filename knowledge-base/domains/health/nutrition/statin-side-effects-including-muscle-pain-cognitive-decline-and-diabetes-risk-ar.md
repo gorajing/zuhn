@@ -44,5 +44,9 @@ related:
   - INS-260329-8CA0
   - INS-260325-0BD7
   - INS-260330-443B
+evidence:
+  - id: INS-260329-8CA0
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Statin side effects affect 10-29% of users including myopathy, cognitive impairment, diabetes onset, and liver damage, but are systematically underreported in industry-funded trials

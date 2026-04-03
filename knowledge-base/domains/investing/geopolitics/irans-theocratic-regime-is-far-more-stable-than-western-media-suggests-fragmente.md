@@ -62,6 +62,19 @@ related:
 stance: >-
   Western media overestimates Iranian regime fragility because it amplifies
   diaspora voices
+evidence:
+  - id: INS-260330-795D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-27DF
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-03A9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-39E4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The journalist, himself a Kurd who grew up near Iran, pushes back on the common Western narrative that the Iranian regime is about to collapse. Key evidence: (1) Even the massive 2009 protests (the largest since 1979) were about election fraud within the theocratic system, not against it — Mousavi himself was a regime insider. (2) Anti-regime forces cannot unite: ethnic minorities fear territorial division, socialists distrust nationalists, and each faction refuses to cooperate. (3) After anti-regime protests, hundreds of thousands voluntarily attend Friday prayers the next day shouting 'Live long, our revolution.' (4) Killing Khamenei wouldn't collapse the system — it's held together by a worldview, not a personality.
 

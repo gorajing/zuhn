@@ -53,6 +53,16 @@ related:
   - PRI-260328-7F20
   - INS-260330-825F
   - INS-260325-5C03
+evidence:
+  - id: INS-260323-7866
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-2259
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-5C03
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Britain assembled the Third Coalition against Napoleon through diplomacy and gold, paying Austria, Russia, Sweden, and Naples to fight France. But the coalition suffered from misaligned incentives and poor coordination. Austria advanced prematurely without waiting for Russian support, allowing Napoleon to isolate and destroy each force separately. The coalition members each had different war aims and risk tolerances, which Napoleon exploited ruthlessly.
 

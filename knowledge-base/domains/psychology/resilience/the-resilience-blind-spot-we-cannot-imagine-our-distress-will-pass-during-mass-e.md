@@ -65,6 +65,13 @@ related:
   - INS-260327-4C5E
   - INS-260330-7DB6
   - INS-260402-A558
+evidence:
+  - id: INS-260323-DA4E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7DB6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bonanno coined the term 'resilience blind spot' to describe a phenomenon he observed after 9/11, Hurricane Sandy, the Japan tsunami, and COVID-19. During large-scale disasters, shared anxiety is amplified by media coverage, social conversations, and the visible distress of others. This creates social contagion where everyone's upset feeds everyone else's upset.
 

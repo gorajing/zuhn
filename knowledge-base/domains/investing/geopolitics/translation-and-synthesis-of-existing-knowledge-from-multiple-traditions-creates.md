@@ -60,6 +60,34 @@ related:
   - INS-260330-FCA3
   - INS-260330-E89A
   - INS-260330-E54B
+evidence:
+  - id: INS-260323-2627
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-9A46
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-89DE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-2783
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-CFD5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-568A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FCA3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-E89A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E54B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The House of Wisdom's most enduring contribution was translation and synthesis: Greek philosophy, Persian administrative science, Indian mathematics, and Arab astronomy were combined into new frameworks that exceeded any individual tradition. Arabic numerals (originally Indian) and algebra (originally Greek concepts, formalized by al-Khwarizmi) were synthesis products, not original inventions.
 

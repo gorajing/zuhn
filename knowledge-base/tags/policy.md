@@ -1,7 +1,7 @@
 # Tag: policy
 
-- `INS-260322-C5BD` The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
 - `INS-260327-FC68` Anthropic created ASL (AI Safety Level) ratings modeled on biosafety levels, requiring increasingly strict security and deployment measures as models approach dangerous capability thresholds.
+- `INS-260322-C5BD` The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
 - `INS-260330-0DCA` Destiny identifies the 'conservative merry-go-round' where every problem is deflected to a root cause that cannot be directly addressed, preventing action on tractable improvements.
 - `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.

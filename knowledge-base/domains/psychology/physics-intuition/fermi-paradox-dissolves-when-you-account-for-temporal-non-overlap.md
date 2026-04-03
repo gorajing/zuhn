@@ -70,6 +70,9 @@ evidence:
   - id: INS-260325-76E6
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-CF10
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kipping argues that if a typical civilization's technological lifetime is a few hundred to ten thousand years (from agriculture or AI-driven collapse), that's essentially nothing on cosmic timescales. The galaxy is 13 billion years old. Even if many civilizations have existed, the probability of two coexisting at the same time is extraordinarily low.
 

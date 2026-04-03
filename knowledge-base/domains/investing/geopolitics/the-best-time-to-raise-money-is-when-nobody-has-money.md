@@ -50,6 +50,19 @@ related:
 stance: >-
   a16z was criticized for raising their first fund in 2009 during the financial
   crisis, but it turned out that raising when nobody else has capital g...
+evidence:
+  - id: INS-260322-9DDD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-0C91
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260328-A417
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B6FA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When a16z launched in 2009 in the wake of the financial crisis, they faced widespread criticism: 'Why are you raising money now? What are you stupid?' The answer proved to be that raising capital when nobody else has it is structurally advantageous — less competition for deals, better pricing, and founders who are more serious about building.
 

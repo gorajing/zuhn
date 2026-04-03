@@ -2,9 +2,9 @@
 
 - `INS-260323-2785` For most complex systems, there is no shortcut to predicting outcomes -- you must run the computation step by step, and science progresses by finding rare pockets where you can jump ahead.
 - `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
-- `INS-260330-887A` Hopkins data shows that patients who rate their psilocybin session as a mystical-type experience show the strongest and most durable therapeutic improvements, regardless of diagnosis.
 - `INS-260330-3899` People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error.
 - `INS-260330-7ABB` Two things don't have to literally match for our brains to see a connection — the 'law of near enough' plus selection and confirmation bias make any vague prediction seem prophetic.
+- `INS-260330-887A` Hopkins data shows that patients who rate their psilocybin session as a mystical-type experience show the strongest and most durable therapeutic improvements, regardless of diagnosis.
 - `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
 - `INS-260330-2F13` You cannot predict future knowledge — if you could, you'd already have it — so linear extrapolations of doom ignore the most powerful variable: human creativity.
 - `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.

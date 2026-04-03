@@ -42,5 +42,12 @@ related:
   - INS-260330-BA54
   - INS-260330-99D1
   - INS-260327-97AD
+evidence:
+  - id: INS-260330-99D1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-97AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Small fish like sardines, while lower in mercury than large fish, still accumulate heavy metals and are unnecessary for omega-3 intake when animal fat provides sufficient conversion

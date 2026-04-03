@@ -58,6 +58,13 @@ stance: >-
   Tactical nuclear weapons — designed for battlefield use — are the most
   dangerous category because their use almost certainly triggers full
   strategi...
+evidence:
+  - id: INS-260323-CB47
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-AEA5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Jacobsen distinguishes between strategic nukes (ICBMs, submarine-launched missiles, bomber-delivered — the full arsenal) and tactical nukes (smaller warheads designed for battlefield use). Russia has been threatening tactical nuclear use in current conflicts, framing it as 'just an escalation.'
 

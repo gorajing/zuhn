@@ -58,6 +58,22 @@ related:
 stance: >-
   US crop subsidies for corn, soy, and wheat made these ingredients artificially
   cheap, causing food companies to systematically replace real ingredi...
+evidence:
+  - id: INS-260327-3014
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-D20D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8572
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-25AD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DBEB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The US government has spent close to $100 billion per decade on crop subsidies for corn, soy, and wheat. Because these inputs are artificially cheap, food companies systematically replaced real ingredients: sugar became high-fructose corn syrup, olive oil became inflammatory soybean oil. The average American now gets 20% of caloric intake from soybean oil alone — historically anomalous.
 

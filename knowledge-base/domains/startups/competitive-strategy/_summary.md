@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 380 insights
+> 381 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -288,6 +288,7 @@
 - `INS-260330-568A` [high] Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
 - `INS-260402-F4E5` [high] Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260328-02A0` [high] Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time.
+- `INS-260403-600C` [high] Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic.
 - `INS-260322-7723` [high] AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
 - `INS-260330-EC76` [high] Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
 - `INS-260330-8326` [high] Apple's refusal to make large acquisitions is its competitive advantage, not a missed opportunity.

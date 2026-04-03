@@ -44,5 +44,9 @@ related:
   - PRI-260328-1545
   - INS-260327-6A68
   - PRI-260328-97E0
+evidence:
+  - id: INS-260322-D051
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The FDA and USDA are captured by the industries they regulate, approving harmful additives and blocking dietary interventions that would reduce the chronic disease epidemic

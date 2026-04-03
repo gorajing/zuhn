@@ -55,6 +55,10 @@ stance: >-
   Johns-Manville systematically acquired companies with asbestos-free
   alternatives to eliminate anyone who could publicly denounce asbestos as
   danger...
+evidence:
+  - id: INS-260323-EA65
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When medical evidence of asbestos harm emerged in the 1920s, Johns-Manville did not pivot away from asbestos. Instead, they acquired the biggest rock wool company and firms holding key patents for calcium silicate insulation (an asbestos-free alternative). Companies that already had non-asbestos products were incentivized to create asbestos product lines. Each acquisition or inducement eliminated another potential critic, creating what investigators called a 'conspiracy of silence.'
 

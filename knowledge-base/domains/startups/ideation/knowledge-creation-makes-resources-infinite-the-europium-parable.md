@@ -54,5 +54,9 @@ related:
   - INS-260323-FE69
   - INS-260325-6262
   - INS-260330-3FF4
+evidence:
+  - id: INS-260325-6262
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The europium parable crystallizes the argument: scientists correctly calculated that Earth's europium supply was finite and would be exhausted by cathode ray tube manufacturing. They were right about the math but wrong about the conclusion — nobody uses cathode ray tubes anymore. LCD screens, plasma, and future technologies made europium irrelevant to color displays. This pattern repeats endlessly: coal wasn't a resource to cavemen, uranium was worthless before nuclear physics, and 'empty' space contains vast convertible matter and energy. The Malthusian frame ('finite Earth, finite resources, must conserve') implicitly draws an arbitrary boundary (why Earth and not the solar system?) and assumes knowledge creation has peaked. The practical insight for builders: the new oil is ideas. The wealthiest places create ideas, not extract physical resources. Silicon Valley's wealth came from intellectual property, not geography. Young ambitious people should enter idea space (programming, content, robotics) not resource extraction.

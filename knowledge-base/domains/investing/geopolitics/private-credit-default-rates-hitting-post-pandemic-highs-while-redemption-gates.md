@@ -54,5 +54,9 @@ related:
 stance: >-
   Private credit defaults reached 9.2% (Fitch) while funds gated redemptions at
   5-14%, trapping investors
+evidence:
+  - id: INS-260330-EF10
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Fitch reported private credit defaults hitting a new high of 9.2%, above pandemic levels. Major funds are gating withdrawals: Blackstone's $83B BCRED fund saw 7.9% redemptions, Cliffwater's $33B fund hit 14%, BlackRock and Morgan Stanley enforced 5% caps against ~10% withdrawal requests, Blue Owl completely halted redemptions in February. The gating mechanism is standard for illiquid investments — you can't easily sell private loans. But the problem intensified because private credit expanded into retail: Trump's 2025 executive order opened 401ks to alternative assets, and platforms like Robinhood pushed private investing. JP Morgan argues 80% of the investor base is institutional and elevated redemptions are sentiment-driven, but the stylistic mismatch between retail expectations and illiquid investments creates contagion risk.

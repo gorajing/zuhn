@@ -55,6 +55,10 @@ related:
   - INS-260327-E8D3
   - INS-260327-EB60
   - PRI-260328-AF97
+evidence:
+  - id: INS-260320-9118
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The conventional approach to bad breath focuses on killing oral bacteria with fluoride toothpaste and mouthwash. However, chronic halitosis is often a downstream signal of gut dysbiosis -- the same bacterial imbalance that drives metabolic dysfunction. Addressing gut health through proper diet (whole foods, avoiding processed sugars that feed pathogenic bacteria) resolves the root cause.
 

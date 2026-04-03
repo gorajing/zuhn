@@ -60,6 +60,13 @@ related:
   - INS-260330-A9CB
   - INS-260330-D801
   - INS-260330-1183
+evidence:
+  - id: INS-260330-A9CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-D801
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Harris argues that when individuals accumulate enough power to get their own regulators fired and reshape information ecosystems, traditional institutional checks fail. He positions consumer boycotts (specifically of Tesla) as the only remaining lawful mechanism to apply pressure, while explicitly condemning vandalism and violence as counterproductive and victimizing innocent people.
 

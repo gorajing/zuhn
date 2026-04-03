@@ -47,5 +47,9 @@ related:
   - PRI-260328-97E0
   - INS-260327-E8D3
   - INS-260327-3D1C
+evidence:
+  - id: INS-260321-CCE3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Three decades of clinical experience shows the highest-impact interventions are: fixing gut health (foundation of immune function), intermittent fasting (insulin sensitization), and vitamin D optimization (immune modulation) -- not pharmaceuticals or calorie restriction

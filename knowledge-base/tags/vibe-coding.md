@@ -1,8 +1,8 @@
 # Tag: vibe-coding
 
 - `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
-- `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
 - `INS-260329-200A` A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo.
+- `INS-260320-76E7` Only automate what you deeply understand — automating ignorance creates slot machines, not efficiency.
 - `INS-260327-D8D1` Just as software developers became AI researchers, they are now becoming roboticists as Python libraries and vibe coding make physical AI accessible to anyone who can code.
 - `INS-260321-FD14` Vibe coding won't replace enterprise SaaS because of comparative advantage and hidden edge cases — but it dramatically increases platform extensibility by letting non-developers build custom applications on top of existing systems of record.
 - `INS-260323-784B` Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.

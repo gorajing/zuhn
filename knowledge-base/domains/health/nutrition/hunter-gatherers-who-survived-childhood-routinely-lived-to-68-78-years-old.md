@@ -54,6 +54,22 @@ related:
   - INS-260327-5AF9
   - INS-260325-E8BC
   - INS-260330-6C3D
+evidence:
+  - id: INS-260326-8B81
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-9E0C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1F6A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-5AF9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-6C3D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The commonly cited 30-40 year life expectancy for ancestral humans is a mean average heavily skewed by high infant and childhood mortality (primarily from infections and trauma, not chronic disease). Studies of modern hunter-gatherer populations show that individuals surviving to adulthood routinely reach 68-78 years of age -- without diabetes, heart disease, cancer, or other chronic conditions.
 

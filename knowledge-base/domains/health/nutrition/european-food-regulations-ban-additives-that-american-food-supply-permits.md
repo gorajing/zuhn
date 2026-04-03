@@ -41,5 +41,9 @@ related:
   - INS-260327-868D
   - INS-260325-4599
   - INS-260327-AEF6
+evidence:
+  - id: INS-260324-5B35
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 European food regulations prohibit many seed oils, preservatives, artificial colors, and GMOs that are standard in the American food supply, contributing to better population health outcomes

@@ -53,5 +53,12 @@ related:
   - INS-260327-FD30
   - INS-260327-3520
   - INS-260330-A8F8
+evidence:
+  - id: INS-260330-75B5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-A8F8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Anti-diuretic hormone (ADH) prevents excessive nighttime urination. When disrupted, sleep destruction cascades into cortisol elevation, insulin resistance, visceral fat, brain fog, low testosterone, and mood disorders. Root causes: 1) Salt-potassium imbalance (fix with avocados and leafy greens), 2) Blood sugar instability (diabetics pee more because kidneys dump excess glucose with water), 3) Vitamin D deficiency (affects ADH regulation), 4) Magnesium deficiency. In cultures where people live into their 80s-90s, nighttime urination does not occur — it is not an inevitable aging problem. One in five US men and one in four US women get up at least once nightly.

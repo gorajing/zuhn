@@ -55,6 +55,16 @@ related:
   - INS-260330-E180
   - INS-260330-C477
   - INS-260328-C2CB
+evidence:
+  - id: INS-260330-0539
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-C477
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-FABE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 On June 14, 2018, while Russian soccer fans celebrated their World Cup opening match victory over Saudi Arabia, Putin quietly announced raising the retirement age from 60 to 65 for men and 55 to 63 for women. The timing was clearly strategic — maximize distraction, minimize immediate protest momentum.
 

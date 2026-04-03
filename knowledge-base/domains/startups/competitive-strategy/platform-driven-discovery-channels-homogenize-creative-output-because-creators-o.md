@@ -46,6 +46,10 @@ related:
   - INS-260322-ABA0
   - INS-260322-5E5D
   - PRI-260328-0C15
+evidence:
+  - id: INS-260322-B392
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When platforms become the primary discovery channel, creators optimize for platform algorithms rather than audience satisfaction, producing content that looks similar because it is all optimized for the same engagement signals.
 

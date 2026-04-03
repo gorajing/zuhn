@@ -62,6 +62,19 @@ related:
   - INS-260330-0233
   - INS-260330-233C
   - PRI-260325-663A
+evidence:
+  - id: INS-260325-9507
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-9B9A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-212A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-233C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Alcohol suppresses prefrontal cortex activity (top-down inhibition) acutely, which is the well-known disinhibition effect. But the less-discussed finding is that even people drinking just once a week experience structural neuroplastic changes: increased synaptic connections in circuits controlling habitual behavior and decreased synapses in circuits for deliberate, flexible decision-making. This means the 'every Friday night' drinker becomes measurably more impulsive and habitual in their daily sober life.
 

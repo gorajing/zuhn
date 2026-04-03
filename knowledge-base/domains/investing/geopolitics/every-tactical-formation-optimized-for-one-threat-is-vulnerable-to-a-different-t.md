@@ -59,6 +59,13 @@ related:
   - INS-260327-3F8B
   - PRI-260328-7F20
   - INS-260330-63FE
+evidence:
+  - id: INS-260326-1CB1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-63FE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Napoleonic infantry had four formations: line (maximum firepower but fragile), column (momentum for assault but narrow frontage), square (impervious to cavalry but vulnerable to artillery), and skirmish (flexible but weak). Each was optimized against one threat but vulnerable to others. The key tactical skill was transitioning between formations as threats changed — which required training, discipline, and quick decision-making.
 

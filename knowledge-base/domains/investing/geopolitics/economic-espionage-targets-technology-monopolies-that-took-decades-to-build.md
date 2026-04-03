@@ -56,6 +56,19 @@ related:
 stance: >-
   State-sponsored espionage concentrates on technologies where incumbents hold
   multi-decade monopolies, particularly jet engines and aerospace
+evidence:
+  - id: INS-260330-66C7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-A1FE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-1F58
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260402-45FA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Jet engine technology represents one of the hardest-to-replicate industrial capabilities, developed primarily during WWII with the US and Europe holding monopolies for decades. China's MSS intelligence apparatus specifically targets these irreplaceable technology gaps through systematic recruitment of students with technical backgrounds and clean travel visas.
 

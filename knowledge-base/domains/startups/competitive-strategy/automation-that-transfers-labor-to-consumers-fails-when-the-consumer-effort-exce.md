@@ -48,6 +48,12 @@ evidence:
   - id: INS-260327-584E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-A7F5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-F06B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficient convenience benefit to compensate for the effort.
 

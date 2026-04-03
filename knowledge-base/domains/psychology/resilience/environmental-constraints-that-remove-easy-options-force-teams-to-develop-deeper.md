@@ -54,5 +54,9 @@ related:
   - INS-260323-A197
   - INS-260330-D0B4
   - INS-260330-8E95
+evidence:
+  - id: INS-260323-A197
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Captain Castellano described how Arctic operations transform submarine culture: 'You don't have the option to just come to the surface or come to periscope depth, as you normally would if you had a fire or some kind of casualty, or needed to communicate. That option's gone, because you're covered with ice for weeks at a time. So that changes how I think about things.' Beyond the psychological pressure, the Arctic environment introduces technical challenges that don't exist elsewhere - rapidly changing water salinity creates density shifts of up to 10,000 pounds in a second, affecting both depth control and sonar propagation. The ICEX exercise exists specifically to learn how weapons and sonar systems behave differently under these conditions. This illustrates a broader principle: when you remove the safety net, you don't just add stress - you fundamentally change how people prepare, think, and operate. The constraints force a depth of mastery that comfortable environments never demand.

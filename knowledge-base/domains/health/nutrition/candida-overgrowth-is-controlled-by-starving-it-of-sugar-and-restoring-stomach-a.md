@@ -57,5 +57,9 @@ related:
   - INS-260327-DEE0
   - INS-260327-F2E2
   - INS-260327-7BB0
+evidence:
+  - id: INS-260327-97AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Candida albicans is a normal gut resident that becomes pathogenic when overfed (sugar, refined carbs) and unchecked (low stomach acid, depleted beneficial bacteria). Symptoms: brain fog, fatigue, sugar cravings, recurring yeast infections, white tongue coating, and digestive issues. The fix: 1) Zero sugar and minimal carbs for 2-4 weeks (starves candida), 2) Apple cider vinegar or betaine HCl (restores stomach acid which kills candida), 3) Oregano oil, caprylic acid, or garlic (natural antifungals), 4) Probiotics (competitive exclusion), 5) Biofilm disruptors (NAC or enzymes — candida hides in biofilms). Antifungal drugs alone fail because they do not address the dietary feeding pattern.

@@ -59,5 +59,9 @@ related:
   - INS-260330-4DBE
   - INS-260328-2BCF
   - INS-260329-D1A1
+evidence:
+  - id: INS-260327-8D7E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi presents an exhaustive taxonomy of customer acquisition: the Core Four (warm outreach = 1:1 to people who know you, cold outreach = 1:1 to strangers, content = 1:many to people who know you, paid ads = 1:many to strangers) plus four Lead Getters who multiply those activities (customers via referrals/reviews, employees doing the core four on your behalf, affiliates with reciprocal business relationships, agencies specializing in one of the four). The critical beginner insight is that you only need ONE of these to reach a million dollars, and the optimal starting pair is warm outreach + content because they're free and build on each other. His first content post came after a year of warm outreach to 13 customers — he published their results and offered spots. This framework eliminates the overwhelm of 'marketing' by reducing it to a 2x4 matrix where every possible tactic maps to one of eight cells.

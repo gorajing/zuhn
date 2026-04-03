@@ -55,6 +55,9 @@ evidence:
   - id: INS-260323-825F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-8BFF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 David Bohm was banned from the Manhattan Project, had his dissertation classified, was investigated by HUAC, lost his Princeton professorship, and was effectively exiled from US academia. Aharonov was his student in Bristol. From this position of complete institutional marginality, they proposed that potentials — something every physicist 'knew' was just a mathematical trick — could directly affect physical reality.
 

@@ -54,7 +54,7 @@ related:
   - INS-260330-CC7D
   - INS-260325-E84D
   - INS-260329-D3D9
-  - INS-260327-7846
+  - INS-260403-449A
 ---
 Graham identifies a key psychological barrier: beginners are reluctant to redo work because they feel lucky to have gotten that far and fear a redo will be worse. So they rationalize that the work is fine. Experts, by contrast, expect iteration — Leonardo drew five or six attempts to get a single line right, the Porsche 911's iconic back emerged from redesigning an awkward prototype, and Wright inverted half the Guggenheim's design.
 

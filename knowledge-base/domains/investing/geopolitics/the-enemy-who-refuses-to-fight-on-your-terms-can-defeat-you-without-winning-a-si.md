@@ -58,6 +58,10 @@ related:
   - INS-260327-1756
   - PRI-260328-43D8
   - INS-260330-3274
+evidence:
+  - id: INS-260330-3274
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Russia's strategy in 1812 was not to defeat Napoleon in battle but to deny him the decisive engagement he craved. Barclay de Tolly retreated, burning crops and supplies. When Kutuzov finally fought at Borodino, it was to satisfy Russian honor, not strategic necessity. The real war was fought by distance, disease, hunger, and eventually winter. Napoleon won every battle but lost the campaign because the enemy refused to play his game.
 

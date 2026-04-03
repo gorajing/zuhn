@@ -54,6 +54,10 @@ related:
   - INS-260330-14E1
   - INS-260327-A8C0
 stance: Every determinative defense innovation in history was a heretical idea
+evidence:
+  - id: INS-260327-A8C0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Shyam Sankar catalogs historical defense innovations and finds a universal pattern: every breakthrough — the Higgins boat, the F-16, nuclear submarines, Project Maven — was heretical. The institution fought it. The bureaucracy tried to kill it. What made these innovations survive was not just the heretic's persistence but the existence of a protector — a senior leader who recognized something special and shielded them.
 

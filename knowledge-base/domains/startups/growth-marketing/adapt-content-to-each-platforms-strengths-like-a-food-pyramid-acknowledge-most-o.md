@@ -57,6 +57,10 @@ related:
   - INS-260327-06A6
   - INS-260323-7AF7
 stance: Pakman explicitly structures his show as a content pyramid
+evidence:
+  - id: INS-260321-E529
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Pakman describes his content strategy as a deliberate pyramid: the base is serious policy analysis, the top is entertaining commentary on political absurdity. He's transparent with his audience that 'the vast majority of what I do is the top of that pyramid' — the junk food layer — because that's what builds the audience large enough to deliver the nutritious content to. What he posts on YouTube differs from TikTok differs from Twitter, each adapted to the platform's incentive structure.
 

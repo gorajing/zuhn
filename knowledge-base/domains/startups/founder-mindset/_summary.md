@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 275 insights
+> 277 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -36,6 +36,7 @@
 - `INS-260329-5A47` [high] Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260323-810D` [high] At 54 with grown children and strong convictions, Carlson finds that pure curiosity ('I was just interested') is the most sustainable and honest driver -- outlasting career anxiety, reputation management, and fear.
 - `INS-260323-F540` [high] JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
+- `INS-260403-0406` [high] Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
 - `INS-260329-0935` [high] Sustained focus on one domain compounds returns far more than spreading effort across many.
 - `INS-260321-13C6` [high] Every determinative defense innovation in history was a heretical idea — someone had to protect the heretic from the institution that tried to kill them.
 - `INS-260329-595E` [high] Depth in one area compounds returns faster than breadth across many.
@@ -138,6 +139,7 @@
 - `INS-260322-1A20` [high] In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
 - `INS-260323-7AF7` [high] Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.
 - `INS-260330-6A94` [high] Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
+- `INS-260403-805E` [high] School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
 - `INS-260328-A57D` [high] If you found the biggest problem and it seemed too hard, searching for four months for easier problems is almost always a worse use of time.
 - `INS-260329-62E1` [high] Deliberately choosing extreme work imbalance for a defined season (2-3 years) produces better lifetime balance than trying to maintain daily equilibrium from a losing position.
 - `INS-260330-8733` [high] Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.

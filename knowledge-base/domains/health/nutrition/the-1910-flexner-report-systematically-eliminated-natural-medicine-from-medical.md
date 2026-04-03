@@ -46,5 +46,9 @@ related:
   - INS-260327-8431
   - INS-260322-3A00
   - PRI-260325-E2D3
+evidence:
+  - id: INS-260322-3A00
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Flexner Report funded by Rockefeller and Carnegie foundations restructured medical education to eliminate nutrition, herbal medicine, and naturopathy, replacing them with pharmaceutical-focused curriculum -- creating the drug-dependent medical model that persists today

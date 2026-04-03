@@ -46,6 +46,10 @@ resolutions:
 stance: >-
   Hiring content creators directly through their email bypasses agency arbitrage
   and is far cheaper
+evidence:
+  - id: INS-260321-F0DF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 The alpha in creator-driven growth is working directly with individual

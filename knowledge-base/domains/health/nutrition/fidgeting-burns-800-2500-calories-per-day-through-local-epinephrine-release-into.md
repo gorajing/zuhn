@@ -60,5 +60,9 @@ related:
   - INS-260330-45D9
   - INS-260330-1078
   - INS-260327-C19C
+evidence:
+  - id: INS-260330-F41D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Research by Rothwell and Stock found that people who overeat without gaining weight are habitual fidgeters — knee bouncers, pacers, people with staccato movements. Studies from 2015 and 2017 confirmed these findings with modern metabolic tracking. The mechanism isn't traditional caloric expenditure from muscle work, but rather that these small movements trigger sympathetic neurons to release epinephrine directly into fat tissue, stimulating both mobilization (breaking fat from cells) and oxidation (burning it in mitochondria). This is distinct from adrenal gland adrenaline — it's a local neural process. The practical implication is that deliberately increasing fidgeting, pacing, standing up frequently, and making quick movements throughout the day can offset significant caloric intake, with overweight individuals seeing 20-30% increases in weight loss when incorporating deliberate fidgeting protocols.

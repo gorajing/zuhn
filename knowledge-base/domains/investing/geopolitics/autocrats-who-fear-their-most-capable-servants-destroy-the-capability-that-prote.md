@@ -57,6 +57,10 @@ related:
   - INS-260327-7D63
   - INS-260330-F158
   - INS-260327-E314
+evidence:
+  - id: INS-260330-F158
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Belisarius's fate illustrates the paradox of competence under autocracy: the more successful he became, the more Justinian feared him. The emperor repeatedly recalled Belisarius at moments of victory, underfunded his campaigns, and eventually accused him of treason. The empire lost its most capable commander not to enemy action but to its own ruler's insecurity. Without Belisarius, later military campaigns were led by inferior commanders and mostly failed.
 

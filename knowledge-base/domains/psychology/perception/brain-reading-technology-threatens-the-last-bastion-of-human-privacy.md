@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-C5AA
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-1439
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Seth distinguishes between measuring consciousness level (relatively easy: EEG can tell if someone is conscious or not) and reading consciousness content (much harder but advancing rapidly). Clinical brain-reading already helps paralyzed patients control robots and communicate by decoding movement intentions and speech intent.
 

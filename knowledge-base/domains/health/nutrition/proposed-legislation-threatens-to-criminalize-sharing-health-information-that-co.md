@@ -44,5 +44,18 @@ related:
   - INS-260325-36F0
   - INS-260327-EEEE
   - INS-260325-FD0F
+evidence:
+  - id: INS-260322-3A00
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-26CF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-36F0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-FD0F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Proposed bills could create legal liability for sharing health information online that contradicts official pharmaceutical-influenced guidelines, threatening health freedom of speech and independent health education

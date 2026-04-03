@@ -50,10 +50,10 @@ resolutions:
     talent pipelines, not one-time investments.
 related:
   - INS-260321-D183
+  - INS-260403-EEDF
   - INS-260325-BC2A
   - INS-260330-CB30
   - INS-260323-4D8D
-  - INS-260330-2B8F
   - INS-260329-88A4
 stance: >-
   Netanyahu's formula for Israel's GDP growth from $17K to $54K per capita: free
@@ -63,6 +63,9 @@ evidence:
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
   - id: INS-260323-4D8D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260321-D183
     type: SUPPORTS
     classified_at: '2026-04-02'
 ---

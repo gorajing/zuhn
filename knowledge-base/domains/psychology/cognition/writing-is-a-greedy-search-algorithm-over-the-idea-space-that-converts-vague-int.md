@@ -59,6 +59,16 @@ related:
   - INS-260330-0143
   - INS-260330-AB5D
   - INS-260330-6844
+evidence:
+  - id: INS-260323-8D12
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260320-E872
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-9377
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Paul Graham describes essay writing as traversing a tree of ideas where each response to a question generates further questions. The key mechanism is that writing converts ideas from vague to bad — and bad is better than vague because you can see what's broken and fix it. You follow whichever branch offers the most novelty and generality (a greedy algorithm), and you must be willing to cut entire subtrees that aren't working, even if they cost significant effort.
 

@@ -73,6 +73,10 @@ related:
   - INS-260329-CF70
   - INS-260330-7241
   - INS-260330-22A2
+evidence:
+  - id: INS-260327-3653
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Maggie frames hiring as the highest-leverage activity in scaling, citing Sam Altman: 'great companies will always have great people.' At OpenAI, even when they needed to scale from 200 to ~1000 people in one year, they held the bar. Her three principles: (1) Hire for clear, measurable objectives — candidates must articulate exactly how their skills advance the mission, not just express excitement about AGI; (2) Build teams, not just talent — 50 top performers who can't collaborate create bottlenecks, so hire like assembling puzzle pieces; (3) Maintain a high bar — one exceptional hire beats three average hires, and exceptional people refer other exceptional people.
 

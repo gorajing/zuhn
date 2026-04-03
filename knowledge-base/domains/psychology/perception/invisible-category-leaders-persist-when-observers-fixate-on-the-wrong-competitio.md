@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-FAF2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-EE23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 After the Empire State Building lost its record to a TV tower in the mid-1950s, every subsequent iconic skyscraper — the World Trade Center, Sears Tower, Petronas Towers, Taipei 101 — was celebrated as if it were the world's tallest structure. None of them ever were. There was always a radio or TV tower somewhere that was taller. The actual leaders were invisible because they didn't fit the mental category of 'impressive tall building.'
 

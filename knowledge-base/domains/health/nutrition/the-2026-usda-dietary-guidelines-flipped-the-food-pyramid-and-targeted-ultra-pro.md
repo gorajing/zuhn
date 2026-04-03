@@ -52,5 +52,12 @@ related:
   - PRI-260325-4FD3
   - INS-260322-D051
   - INS-260327-9B97
+evidence:
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-D051
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 After 40+ years of 6-11 daily grain servings as the pyramid base, the 2026 guidelines abandoned the carbohydrate-foundation model entirely. Ultra-processed foods were explicitly named as the primary driver of 90% of chronic disease. This affects institutional food supply chains for schools, hospitals, nursing homes, and the military. Berg credits RFK Jr and accumulating data that became impossible to ignore. The shift will require complete rewiring of institutional food procurement. For decades, ultra-processed food companies were protected by regulatory silence — that protection is now over.

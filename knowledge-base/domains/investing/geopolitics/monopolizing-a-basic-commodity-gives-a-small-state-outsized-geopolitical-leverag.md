@@ -56,6 +56,28 @@ related:
   - INS-260327-3586
   - INS-260330-19C3
   - INS-260330-E786
+evidence:
+  - id: INS-260325-A926
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-3586
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-60C1
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8544
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E039
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-19C3
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E786
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Before Venice dominated the spice trade, it dominated salt — 'the true foundation of our state' as Venetians called it. Salt was essential for food preservation in the pre-refrigeration world, had limited production sites, and Venice's lagoons were natural salt pans. This gave a tiny refugee settlement control over something every European kingdom needed. The salt monopoly funded Venice's first ships, which enabled the spice trade, which funded the navy, which enforced the monopoly.
 

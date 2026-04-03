@@ -58,6 +58,10 @@ related:
   - INS-260327-EE40
   - INS-260327-F3A5
   - INS-260327-515F
+evidence:
+  - id: INS-260324-358F
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The increasing availability of grass-fed beef, pasture-raised eggs, organic dairy, and quality butter at mainstream retailers like Target represents a significant market shift. Consumers no longer need specialty stores like Whole Foods or local farms to access nutrient-dense animal foods.
 

@@ -53,6 +53,13 @@ related:
   - PRI-260328-8284
   - PRI-260325-A95E
   - INS-260330-E68E
+evidence:
+  - id: INS-260330-207D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E68E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 There's a critical distinction between two framings of population decline. One is genuinely concerned about sustainability: who funds pensions, who provides eldercare, how does an economy adapt to fewer workers? The other is concerned about labor supply: maintaining a stream of available workers to keep wages low.
 

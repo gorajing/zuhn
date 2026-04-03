@@ -65,6 +65,18 @@ evidence:
   - id: INS-260327-5CB0
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-5E93
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-3D0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F389
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-3528
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ev Williams drove Twitter from 500K to 175M users, shipped hashtags, retweets, lists, and native advertising -- arguably the most productive era in Twitter's history. Yet he was ambushed and replaced because he failed to recognize that Jack Dorsey was systematically weaponizing employee frustrations, cultivating board relationships, and positioning himself as the visionary founder.
 

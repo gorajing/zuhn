@@ -56,6 +56,10 @@ related:
   - INS-260325-02F2
   - PRI-260328-BF67
   - INS-260330-9FA5
+evidence:
+  - id: INS-260330-D429
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Evidence from Franchthi Cave shows humans selectively breeding snails for size over 13,000 years ago — not to start a revolution, but because bigger snails meant more calories. Agriculture emerged the same way: plant more of what grows well, repeat. The 'revolution' label is retrospective; participants were just optimizing locally.
 

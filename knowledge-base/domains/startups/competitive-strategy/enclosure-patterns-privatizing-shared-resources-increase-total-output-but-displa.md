@@ -62,6 +62,16 @@ related:
   - PRI-260328-A1AA
   - INS-260330-01D5
   - PRI-260328-A4AC
+evidence:
+  - id: INS-260327-EE40
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-D429
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-01D5
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The British enclosure movement of the 16th-18th centuries privatized agricultural land that had been held in common by multiple tenants for centuries. The result was dramatically increased agricultural productivity — but at the cost of displacing tenant farmers who lost their livelihoods. This is one of history's clearest examples of a pattern that recurs in technology: aggregate value increases while the distribution of that value concentrates.
 

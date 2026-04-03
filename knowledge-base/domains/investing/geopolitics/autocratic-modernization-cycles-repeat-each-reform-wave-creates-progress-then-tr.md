@@ -56,6 +56,13 @@ related:
   - INS-260330-3A3F
   - INS-260327-39FB
   - INS-260330-ED04
+evidence:
+  - id: INS-260330-3A3F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-ED04
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Russian history exhibits a clear reform-reaction cycle: Peter the Great modernized, his successors retreated. Catherine expanded and reformed, Paul reversed course. Alexander II freed the serfs, Alexander III cracked down. Each modernizer had to restart because the previous wave's gains were partially rolled back by reactionaries threatened by change.
 

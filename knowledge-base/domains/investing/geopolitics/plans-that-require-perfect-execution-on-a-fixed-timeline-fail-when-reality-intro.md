@@ -58,6 +58,10 @@ related:
   - INS-260326-E411
   - INS-260327-70A4
   - INS-260327-485B
+evidence:
+  - id: INS-260326-E411
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Germany's Schlieffen Plan was a masterpiece of logistics on paper: sweep through Belgium, encircle Paris, defeat France in six weeks, then transfer the army east to face Russia. But it had zero margin for error. Belgian resistance delayed the advance by days. Supply lines couldn't keep up with the speed of march. Commanders made local errors that compounded. Each small deviation from the plan cascaded, and by the time the army reached the Marne, the timeline was hopelessly broken.
 

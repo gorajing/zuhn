@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 103 insights
+> 104 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -104,4 +104,5 @@
 - `INS-260330-DE65` [medium] Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
 - `INS-260329-9101` [medium] A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260327-9641` [medium] Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
+- `INS-260403-20BF` [medium] A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260323-2C70` [medium] Pincus hired anyone who said they knew PHP, kept less than half, and found gems like an 18-year-old savant living on his mom's couch — the early-stage hiring perfection myth costs more speed than it saves in quality.

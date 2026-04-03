@@ -57,6 +57,10 @@ related:
   - INS-260327-2DE8
   - INS-260327-EE40
   - INS-260327-F3A5
+evidence:
+  - id: INS-260324-D612
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Aldi's limited-selection, high-efficiency model delivers quality animal foods at significantly lower prices than Whole Foods, Sprouts, or even Costco for individual items. Their grass-fed ground beef, organic pasture-raised eggs, grass-fed butter (Kerrygold), and seasonal organic produce are available at 20-40% below competitor pricing.
 

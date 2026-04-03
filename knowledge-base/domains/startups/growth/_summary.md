@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 50 insights
+> 52 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -18,6 +18,7 @@
 - `INS-260402-7FF5` [high] Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260330-A949` [high] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
 - `INS-260330-410A` [high] Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
+- `INS-260403-EAC6` [high] Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-D968` [high] The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
 - `INS-260402-D9AC` [high] Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - `INS-260330-0371` [high] Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
@@ -44,6 +45,7 @@
 - `INS-260402-318B` [high] Superlinear returns arise from exponential compounding, winner-take-all thresholds, or their combination.
 - `INS-260330-8048` [high] Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
 - `INS-260330-4B16` [high] Startups should not have dedicated growth teams and the CEO should set and enforce a single North Star metric so every autonomous decision compounds toward the same goal.
+- `INS-260403-99B1` [high] Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260402-1436` [high] Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
 - `INS-260330-D21A` [high] Shawn Parker's virality model -- payload (people hit per blast) times frequency (times you hit them) times conversion rate -- reveals why Hotmail and PayPal grew virally despite low payloads.
 - `INS-260330-2347` [high] When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.

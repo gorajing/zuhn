@@ -48,6 +48,10 @@ related:
   - INS-260329-613F
   - PRI-260320-3032
   - INS-260330-CCD4
+evidence:
+  - id: INS-260322-B392
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When book discovery shifts from expert curation to algorithmic recommendation based on engagement metrics, the books that succeed are those that provoke the strongest immediate emotional reactions rather than the most rewarding reading experiences.
 

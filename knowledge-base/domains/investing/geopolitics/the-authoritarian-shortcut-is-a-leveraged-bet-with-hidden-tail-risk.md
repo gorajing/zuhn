@@ -58,6 +58,19 @@ related:
   - INS-260330-E585
   - INS-260330-654D
   - INS-260329-5A24
+evidence:
+  - id: INS-260323-D9CE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E585
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-654D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-5A24
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Singapore's success is essentially a leveraged bet that paid off. The absence of democratic accountability acted as leverage — amplifying the PAP's competent governance into world-class infrastructure, education, and healthcare delivered at unprecedented speed. But leverage works both ways. The same structural absence of checks that enabled rapid positive change also means a malevolent or incompetent successor could inflict catastrophic, irreversible damage.
 

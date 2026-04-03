@@ -53,6 +53,16 @@ related:
 stance: >-
   The fundamental driver of conflict in international politics is the inability
   to know another state's future intentions, making worst-case preparat...
+evidence:
+  - id: INS-260323-9E67
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-B1F5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-B40C
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Mearsheimer emphasizes that the deepest problem in international relations is not aggression itself but uncertainty. States cannot verify each other's intentions with certainty, so rational actors must prepare for worst-case scenarios. This uncertainty paradoxically makes realists more cautious — they advocate restraint precisely because they know how easily miscalculation leads to catastrophe.
 

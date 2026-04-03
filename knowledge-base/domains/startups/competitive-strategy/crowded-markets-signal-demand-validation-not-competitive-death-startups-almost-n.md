@@ -55,6 +55,10 @@ related:
   - INS-260330-F527
   - INS-260330-CC49
   - INS-260327-EE5E
+evidence:
+  - id: INS-260330-01D5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham makes a counterintuitive argument: inexperienced founders give competitors far too much credit. Startups are so rarely killed by competitors that you can 'almost discount the possibility.' A crowded market actually validates demand and proves no existing solution is adequate. The real requirement is having a thesis about what everyone else is overlooking.
 

@@ -53,5 +53,12 @@ related:
 stance: >-
   When Japan's GDP reached ~70% of US GDP, the US forced the Plaza Accord and
   Japan stagnated for 35 years
+evidence:
+  - id: INS-260330-F116
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-CC05
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The quant trader identifies a repeating geopolitical pattern: the dominant power acts when a rising economy reaches approximately 70% of their GDP. Japan was forced to sign the Plaza Accord, which effectively capped their growth. China triggered the same response at the same threshold. The lesson for investors: don't get lost in the details of specific economic policies (tariffs, currency pegs, bond restructuring). Put a black box over the event — the input is 'which country is more powerful' and the output is 'the more powerful country gets their way.' The strong eat the weak.

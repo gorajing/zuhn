@@ -55,6 +55,10 @@ related:
   - INS-260330-5779
   - INS-260330-43EB
   - INS-260327-7C94
+evidence:
+  - id: INS-260327-7C94
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Black Legend — English propagandists amplifying Spanish atrocities against Native Americans — wasn't born from humanitarian concern but from imperial rivalry. England used Spain's documented cruelty as justification for its own colonization: 'We must expand to save the Indians from the Spanish.' Yet English colonization proved equally devastating to indigenous populations.
 

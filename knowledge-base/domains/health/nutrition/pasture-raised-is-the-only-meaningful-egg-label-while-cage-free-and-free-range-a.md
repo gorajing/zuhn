@@ -55,6 +55,13 @@ related:
   - INS-260327-33F7
   - INS-260330-F37B
   - INS-260327-5C78
+evidence:
+  - id: INS-260330-EC7C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F37B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Egg label hierarchy from best to worst: Pasture-raised (108+ sq ft outdoor access per hen, natural foraging) > Free-range (technically outdoor access, usually a small door most hens never find) > Cage-free (no cages but densely packed indoor barns) > Conventional (battery cages, ~67 sq inches per hen). The nutritional difference is significant: pasture-raised eggs have more omega-3s, vitamin E, vitamin A, and beta-carotene (visible as deeper orange yolks).
 

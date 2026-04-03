@@ -57,5 +57,9 @@ stance: >-
   The Mashco Piro's default violence toward outsiders is a rational
   multigenerational strategy born from centuries of hostile contact with
   colonizers...
+evidence:
+  - id: INS-260330-51B1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Paul Rosolie explains that the uncontacted tribes have adopted violence as a first response to any contact -- not from irrationality but from centuries of evidence. Colonial missionaries in the 1600s-1700s, rubber barons in the late 1800s, and modern loggers have all brought destruction. Their grandparents' survival advice was literally 'when the outside world comes, shoot first.' Even Rosolie's ranger Ignacio, who was shot in the head by an arrow and survived, understands this logic. The tribe gave peace a chance during the October 2024 encounter -- laying down bows, accepting bananas, dancing with Ignacio -- but the very next day attacked a boat, putting a seven-foot arrow through a man named George. The lesson generalizes beyond tribes: when every data point in your history says a category of interaction is hostile, defaulting to aggression is statistically optimal. Trust requires breaking the pattern with repeated non-hostile encounters, which is exactly what JungleKeepers is attempting.

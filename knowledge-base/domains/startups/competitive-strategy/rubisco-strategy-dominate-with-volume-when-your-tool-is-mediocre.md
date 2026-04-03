@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-68C8
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-8048
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RuBisCo, the enzyme that fixes carbon in photosynthesis, is notoriously inefficient — it confuses oxygen for CO2 roughly half the time, creating toxic byproducts plants must clean up. Yet it became the most abundant protein on Earth (~40 billion tons) because early organisms compensated for poor quality with sheer volume.
 

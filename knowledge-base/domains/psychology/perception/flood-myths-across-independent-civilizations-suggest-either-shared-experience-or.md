@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-C10D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-793A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Finkel's discovery of a Mesopotamian tablet predating the biblical account describes a remarkably similar flood narrative: divine warning, boat construction, animal preservation, surviving couple. Similar stories appear independently across cultures worldwide. Two explanations compete: shared ancestral memory of a real catastrophic flood, or a deep cognitive pattern that generates apocalyptic narratives independently.
 

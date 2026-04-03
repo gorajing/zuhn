@@ -61,6 +61,25 @@ related:
   - INS-260327-E7AC
   - INS-260327-2964
   - INS-260327-3528
+evidence:
+  - id: INS-260327-60C6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4775
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-157B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8DAA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E382
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-32BA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Western Roman Empire's collapse was driven more by internal power vacuums than external barbarian pressure. After 200 CE, generals with personal armies fought each other for the throne in an endless cycle of civil wars. Meanwhile, the Eastern Empire survived another millennium partly because it solved the church-state power question through caesaropapism — the emperor clearly controlled the Patriarch, eliminating a competing power center.
 

@@ -52,6 +52,13 @@ related:
   - INS-260325-36EA
   - INS-260327-58ED
   - INS-260330-51B1
+evidence:
+  - id: INS-260330-51B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-DE39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Scott describes a predictable cycle: small teams start radically candid because they know each other well. Success leads to growth, which brings the gravitational pull of ruinous empathy — people stop giving direct feedback. Eventually, someone bursts out with harsh truth. Because it works (in a vacuum of honesty), that behavior gets rewarded and even promoted. Others rationalize: 'she didn't mean any harm.'
 

@@ -57,6 +57,16 @@ related:
   - INS-260330-B384
   - INS-260327-479C
   - INS-260327-1756
+evidence:
+  - id: INS-260326-44C9
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D661
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B384
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Decembrists were Russian army officers who defeated Napoleon and then spent months in France and Germany. They experienced constitutional governments, free press, educated citizenry, and modern institutions. Returning to autocratic Russia with its serfs, secret police, and illiterate masses was psychologically impossible — the contrast was too stark. Their attempted revolution in 1825 failed but planted the seeds for future reforms.
 

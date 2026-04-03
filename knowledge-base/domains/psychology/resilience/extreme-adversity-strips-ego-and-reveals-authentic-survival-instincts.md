@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-051F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-60FB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Paul Rosolie describes multiple near-death experiences — being lost in swamps for days, contracting MRSA far from medical help, encountering uncontacted tribes — and in each case reports that ego completely disappeared, replaced by calm acceptance and clear-headed problem-solving. He contrasts this with earlier adolescent bravado (going into the woods with a hunting knife), noting that the Amazon 'strips you down so completely' that only authentic survival instincts remain.
 

@@ -61,6 +61,10 @@ related:
 stance: >-
   Hawaiian and Polynesian soldiers instinctively built relationships with Iraqi
   locals
+evidence:
+  - id: INS-260327-8BFF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Gabbard describes how soldiers from Hawaii, Samoa, and Guam naturally adopted a relationship-first approach with Iraqi locals: pointing weapons skyward while driving through towns (rather than at pedestrians), throwing shakas, breaking bread, and sharing tea. The previous unit had operated from an assumption of suspicion. The result was measurable: a downward shift in casualties, because locals started proactively warning American soldiers about IEDs and weapons caches.
 

@@ -56,6 +56,10 @@ related:
   - INS-260330-C89D
   - PRI-260325-663A
   - INS-260330-B5BF
+evidence:
+  - id: INS-260330-C89D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Between ages 10 and 12, the brain undergoes a natural developmental shift where dopamine receptors in reward pathways multiply, making children more sensitive to social approval and peer feedback. This is an adaptive mechanism designed to help children expand beyond the family unit.
 

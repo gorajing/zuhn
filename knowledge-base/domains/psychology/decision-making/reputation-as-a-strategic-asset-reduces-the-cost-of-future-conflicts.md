@@ -54,6 +54,16 @@ related:
   - INS-260330-3274
   - INS-260327-1A9C
   - INS-260327-DC45
+evidence:
+  - id: INS-260327-048C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4A64
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-1A9C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Mongols occasionally slaughtered entire towns — a horrific practice, but one that created a strategic asset. Word spread that resistance was futile and suicidal, causing many cities to surrender immediately upon the Mongols' arrival. The initial brutality was costly in human terms but created a self-reinforcing deterrence loop: each surrender without battle preserved Mongol forces while reinforcing the reputation that caused the next surrender.
 

@@ -54,6 +54,10 @@ related:
   - INS-260330-3DC8
   - INS-260325-7EAC
   - INS-260327-A69D
+evidence:
+  - id: INS-260327-A69D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Many people who are lactose intolerant with pasteurized milk can drink raw milk without digestive problems. This is likely not due to a lactase enzyme in the milk itself, but rather the naturally occurring bacterial cultures in raw milk that modify gut microbiota to restore lactose-digesting capability.
 

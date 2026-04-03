@@ -60,6 +60,9 @@ evidence:
   - id: INS-260329-DACC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260322-3DE2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 3Blue1Brown argues that elegant geometric arguments requiring no calculus background serve as ideal preparation for new calculus students. By encountering the core ideas first — like rectangular approximations converging to true surface area — students already hold the conceptual scaffolding when they later meet formal limit definitions.
 

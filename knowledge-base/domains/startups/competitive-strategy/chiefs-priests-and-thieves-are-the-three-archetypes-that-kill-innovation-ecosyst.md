@@ -60,6 +60,10 @@ related:
   - INS-260327-74CF
   - PRI-260328-95A5
   - PRI-260324-DE71
+evidence:
+  - id: INS-260325-B115
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Ridley identifies a recurring historical pattern: innovation flourishes, then gets crushed by 'chiefs, priests, and thieves.' Ming China's authoritarian regime killed its innovation golden goose. Abbasid Arabia's scientific flowering was crushed by religious fundamentalist revival in the 1100s. Paris nearly lost the intellectual tradition entirely when Bernard of Clairvaux burned books. Only the Italian city-states kept the flame alive through Fibonacci and others.
 

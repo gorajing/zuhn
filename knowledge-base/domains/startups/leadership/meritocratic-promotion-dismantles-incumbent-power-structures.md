@@ -54,6 +54,19 @@ related:
   - INS-260330-C7E6
   - INS-260330-35E2
   - INS-260327-F3F0
+evidence:
+  - id: INS-260327-768D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-787C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-70EF
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B3B3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Genghis Khan's two-pronged organizational innovation — promoting based on competence rather than family position, and bringing lower-class conquered peoples into his tribe while dispossessing their former leaders — created an extremely loyal base. The peasants loved him because they gained status they never had; the old elites were neutralized because they lost their wealth and position.
 

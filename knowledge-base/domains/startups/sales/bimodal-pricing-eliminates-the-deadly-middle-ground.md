@@ -53,6 +53,10 @@ related:
   - INS-260330-4DFA
   - INS-260327-19E5
   - INS-260323-EBC3
+evidence:
+  - id: INS-260327-2B44
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The core economic arbitrage of any business is the spread between customer acquisition cost and customer lifetime value. Hormozi argues that the middle pricing tier is where businesses die because you get neither the fat margins of premium nor the volume economics of mass-market. Tesla exemplifies this: they started with a $250K Roadster for a select few, used those margins to fund the Model S, then worked down to the Model 3. The lesson is to start high and work down, not start in the middle hoping to go both directions.
 

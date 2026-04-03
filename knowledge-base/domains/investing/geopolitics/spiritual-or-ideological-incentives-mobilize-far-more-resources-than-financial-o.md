@@ -55,6 +55,13 @@ related:
   - PRI-260328-79DA
   - INS-260330-2737
   - INS-260330-230D
+evidence:
+  - id: INS-260330-2737
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-230D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Pope Urban offered crusaders something no temporal ruler could: complete remission of all sins — essentially a guaranteed ticket to heaven. This spiritual incentive mobilized not just soldiers but entire families, who sold their possessions and marched thousands of miles at their own expense. No amount of financial payment could have raised this army at this cost; the ideological incentive did what gold could not.
 

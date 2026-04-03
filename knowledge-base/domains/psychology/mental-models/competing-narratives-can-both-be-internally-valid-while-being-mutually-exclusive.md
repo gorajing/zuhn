@@ -58,6 +58,13 @@ related:
   - INS-260330-5C80
   - INS-260330-2EB0
   - INS-260330-E0AA
+evidence:
+  - id: INS-260323-9E67
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260327-1EC6
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The video explicitly states both narratives are 'true': Palestinians have been denied statehood for over a century and live under military occupation; Israelis need a homeland, were granted one by the UN, and face active threats from neighbors. Neither narrative is fabricated — both are supported by historical evidence. Yet they justify incompatible outcomes.
 

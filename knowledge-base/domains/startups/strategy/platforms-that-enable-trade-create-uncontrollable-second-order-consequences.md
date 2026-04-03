@@ -54,6 +54,13 @@ related:
   - INS-260330-912C
   - INS-260327-39FB
   - INS-260327-A25E
+evidence:
+  - id: INS-260327-39FB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A25E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Mongol Empire's revival of Silk Road trade created remarkable benefits: cross-cultural pollination, cuisine exchange, religious diversity, and economic prosperity. The 'Pax Mongolica' was so effective that a person could supposedly walk the empire's length with gold on their head without being robbed. But the same trade infrastructure that carried silk, rice, and ideas also carried fleas infected with Yersinia pestis — the Black Death that killed an estimated 75-200 million people.
 

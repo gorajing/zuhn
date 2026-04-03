@@ -61,6 +61,9 @@ evidence:
   - id: INS-260320-703F
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-06EA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dalton uses Whatnot as a case study: when YC funded it in Winter 2020, the reactions were dismissive -- 'I would never invest in this,' 'Why would this Pokemon trading card site raise VC?' People were infuriated that this 'obviously stupid' company got funded while their 'obviously better' startups didn't.
 

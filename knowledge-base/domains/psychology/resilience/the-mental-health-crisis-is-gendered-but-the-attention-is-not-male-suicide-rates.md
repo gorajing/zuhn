@@ -62,6 +62,12 @@ evidence:
   - id: INS-260327-FB98
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-20F4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1F6A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Reeves presents stark data: men account for 80% of US suicides and 70% of drug poisoning deaths. Since 2010, suicide rates among young men under 30 have risen by almost a third, representing a shift from the pre-2010 pattern where middle-aged men were the primary group affected. Drug poisoning deaths among men increased sixfold since 2001, with the excess deaths equaling exactly the 400,000 US deaths in World War II.
 

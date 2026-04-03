@@ -69,6 +69,10 @@ related:
   - INS-260322-96F1
   - PRI-260327-3BD9
   - PRI-260327-942E
+evidence:
+  - id: INS-260322-96F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Whyte explains why many organizations have evolved from MEDDIC to MEDDPICC — the 'P' for paper process addresses the most common source of forecast misses. Once you're the vendor of choice, the selling is ostensibly done, but the paper process (NDAs, security reviews, legal negotiations, procurement approval, contract signing) is where deals slip weeks or months.
 

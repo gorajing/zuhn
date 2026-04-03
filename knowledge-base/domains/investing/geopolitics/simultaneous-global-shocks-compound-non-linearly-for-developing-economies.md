@@ -56,6 +56,16 @@ related:
   - INS-260330-63FE
   - PRI-260324-8EE6
   - INS-260330-F116
+evidence:
+  - id: INS-260325-C2DA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-63FE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F116
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The UN described the 2022 developing-world crisis as a 'perfect storm' — three massive shocks arriving simultaneously. COVID eliminated tourism revenue and remittances (the buffers against trade deficits). Fed interest rate hikes increased the cost of servicing existing debt (forcing countries to choose between debt payments and domestic spending). The Ukraine war spiked food and energy prices (increasing the cost of essential imports precisely when foreign reserves were depleted).
 

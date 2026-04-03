@@ -45,6 +45,10 @@ related:
   - INS-260330-9575
   - INS-260327-EDBA
   - INS-260327-191B
+evidence:
+  - id: INS-260327-EDBA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Companies that tried to disrupt walking with scooters and segways failed because they competed against an activity that costs the user literally nothing.
 

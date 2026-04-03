@@ -63,6 +63,28 @@ related:
   - INS-260330-750A
   - INS-260330-4C67
   - INS-260327-B3A7
+evidence:
+  - id: INS-260323-97A1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-E77E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-AE9C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-2520
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-98EA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-750A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4C67
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Napoleon was Corsican, spoke French with an accent, and was bullied as an outsider at French military school. This outsider status drove him to master French culture deliberately: he read voraciously, studied military science obsessively, and analyzed French politics with the detachment of an observer. Native French officers absorbed these things passively; Napoleon studied them actively. The result was a more intentional, systematic mastery.
 

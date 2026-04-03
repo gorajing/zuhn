@@ -80,6 +80,9 @@ evidence:
   - id: INS-260330-FB9C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-F479
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The earliest computers were humans — groups of people performing divided calculation labor to produce nautical almanacs, survey nations, and track celestial objects. The first computation of Halley's Comet return (late 18th century) used divided labor: two people tracked Earth and Jupiter while a third tracked the comet. This division of labor is the same principle Adam Smith described for pin manufacturing.
 

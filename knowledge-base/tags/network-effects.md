@@ -4,8 +4,8 @@
 - `INS-260323-F963` Python's dominance in AI comes from being the glue that composes disparate systems, creating a viral ecosystem cycle — not from the language itself.
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260330-6D2E` Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
-- `INS-260330-C8D7` Research shows that population density and inter-group knowledge transfer — not individual brilliance — determine cultural complexity, with isolated groups like Easter Island reliably degenerating in capability.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
+- `INS-260330-C8D7` Research shows that population density and inter-group knowledge transfer — not individual brilliance — determine cultural complexity, with isolated groups like Easter Island reliably degenerating in capability.
 - `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260330-D824` WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
@@ -21,6 +21,7 @@
 - `INS-260329-D1B0` Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
 - `INS-260330-410A` Instagram hit 25K users on day one and 1M within a month by aligning iPhone 4 camera timing, cross-posting to Facebook/Twitter, and recruiting high-profile photographers as early adopters.
+- `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-0371` Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
 - `INS-260330-33FF` Preferential attachment (rich-get-richer dynamics) is a mathematical inevitability that explains why small early leads in views, users, or market share compound into dominant positions.
 - `INS-260330-7D6D` Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
@@ -30,9 +31,10 @@
 - `INS-260330-73C1` The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
 - `INS-260323-9F61` Barabasi's model shows hubs form naturally when networks grow and new nodes preferentially attach to well-connected nodes -- a tiny initial bias compounds into dominance.
 - `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
+- `INS-260403-36D1` Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
 - `INS-260330-3D0D` Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260323-7AF7` Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.
 - `INS-260329-DD01` Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
 - `INS-260402-15A7` Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.
@@ -40,6 +42,10 @@
 - `INS-260330-F7F4` Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
 - `INS-260330-B390` YC's batch model accidentally created a self-reinforcing ecosystem where startups became each other's customers, advisors, and support network.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
+- `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
+- `INS-260403-5BFB` Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
+- `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
+- `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260330-6411` ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
 - `INS-260327-EA4E` Facebook and Google built genuine data moats through organic adoption and network effects, but consumer startups that spent millions on paid acquisition to 'collect data' never achieved the same compounding advantage because their data was purchased, not earned.
 - `INS-260330-D583` Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption.

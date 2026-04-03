@@ -69,6 +69,10 @@ related:
   - PRI-260324-3AAE
   - PRI-260328-06F1
   - INS-260330-1B47
+evidence:
+  - id: INS-260330-1B47
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dario makes the strongest possible case for export controls: 'Whoever establishes dominance in this technology will have military and economic dominance everywhere.' The logic chain: Nvidia is ~4 years ahead of Huawei in chip capability. While that gap may close over 10-20 years, the next 10 years are the critical window for establishing AI dominance. During this window, preventing China from building datacenters with millions of frontier chips is both feasible (hard to smuggle at scale) and decisive.
 

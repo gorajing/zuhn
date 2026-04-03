@@ -56,11 +56,11 @@ related:
   - INS-260330-3E6B
   - INS-260322-A892
   - INS-260402-CCF4
-  - INS-260321-E654
   - INS-260322-3E59
   - INS-260327-1E44
   - INS-260328-02A0
   - INS-260330-D6D3
+  - INS-260402-3FC5
 stance: >-
   For AI startups to beat established software companies like Salesforce, they
   need all three: a reimagined proactive UI, access to new data sources ...

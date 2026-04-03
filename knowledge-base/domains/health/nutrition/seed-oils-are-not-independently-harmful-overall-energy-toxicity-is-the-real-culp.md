@@ -63,6 +63,10 @@ related:
   - INS-260327-4F53
   - INS-260327-4B8B
   - INS-260330-A84D
+evidence:
+  - id: INS-260330-A84D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The anti-seed-oil narrative rests on two pillars: epidemiology showing associations between seed oil consumption and negative health outcomes, and a plausible mechanism (polyunsaturated double bonds oxidizing under heat causing inflammation). However, when you control for confounding variables and look at human RCTs directly comparing polyunsaturated to saturated fat substitution, the effects on inflammation are neutral and effects on cardiovascular markers are neutral-to-positive.
 

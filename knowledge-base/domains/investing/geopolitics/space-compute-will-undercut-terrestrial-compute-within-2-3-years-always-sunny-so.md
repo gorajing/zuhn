@@ -65,5 +65,11 @@ evidence:
   - id: INS-260325-2906
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-2064
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-BC8E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Terafab announcement reframes the AI infrastructure bottleneck entirely. Currently all fabs on Earth produce ~20 GW/year of AI compute — only 2% of the terawatt target. Rather than fight for TSMC capacity and terrestrial power, Musk proposes putting compute in space where solar is 5x more efficient, there's no day/night cycle, no atmospheric attenuation, no NIMBYism, and costs decrease with scale (unlike Earth where costs increase as easy spots are used up). The critical enabler is SpaceX reducing cost-to-orbit. At 100 kW per ton and 10 million tons to orbit per year, a terawatt becomes feasible. This directly challenges the 'energy is the AI bottleneck' thesis — it's only the bottleneck if you stay on Earth.

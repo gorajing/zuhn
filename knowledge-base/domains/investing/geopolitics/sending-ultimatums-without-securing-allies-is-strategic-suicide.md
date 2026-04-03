@@ -53,6 +53,10 @@ related:
   - INS-260327-DC45
   - INS-260327-504C
   - INS-260327-377A
+evidence:
+  - id: INS-260323-1176
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Prussia's fatal error wasn't challenging Napoleon — it was the sequence. They issued an ultimatum with a deadline before coordinating with their coalition partners (Russia, Britain). When Napoleon called their bluff, Prussia had to fight alone because allied forces were weeks away. The emotional impulse to act (driven by the war party at court) overrode the strategic requirement to secure support first.
 

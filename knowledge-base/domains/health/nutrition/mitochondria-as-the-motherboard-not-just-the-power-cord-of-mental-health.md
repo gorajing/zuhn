@@ -58,6 +58,13 @@ related:
   - INS-260322-D059
   - INS-260330-E647
   - INS-260325-9F4C
+evidence:
+  - id: INS-260322-D059
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260325-9F4C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dr. Chris Palmer's metabolic theory of mental illness posits that mitochondria are not merely cellular batteries but function as the 'motherboard' of cell operations. Research shows mitochondria directly regulate serotonin, dopamine, glutamate, and acetylcholine production and release. They contain enzymes for synthesizing cortisol, estrogen, and testosterone. They control ~60% of gene expression in cells and regulate inflammatory responses. One study showed that even flooding synapses with ATP couldn't trigger neurotransmitter release without mitochondria present — they do something beyond just providing energy.
 

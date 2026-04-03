@@ -68,6 +68,9 @@ evidence:
   - id: INS-260325-2B17
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-6A05
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Harari identifies a surprising ideological convergence: both the extreme left (Marxism) and extreme right (Trumpism) share the view that all social interactions are fundamentally power struggles, all institutions are conspiracies, and asking 'is it true?' is naive — the only real question is 'who benefits?' This cynicism is not merely pessimistic; it's structurally destructive.
 

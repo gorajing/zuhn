@@ -50,5 +50,9 @@ related:
   - INS-260327-B064
   - INS-260321-1992
   - INS-260329-3FED
+evidence:
+  - id: INS-260327-B064
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi demonstrates a powerful reframing technique: convert fixed monthly expenses into working days. At $100/day post-tax income with 22 working days per month, a $600 car lease consumes 6 days and $1,200 rent consumes 12 days — leaving only 4 of 22 working days for everything else. This time-denominated framing bypasses the numerical abstraction of dollars and creates visceral understanding. The technique exploits a known cognitive bias: humans are loss-averse about time (a finite, non-renewable resource) more than money (which feels abstract and renewable). This mental model has cross-domain application — any recurring cost in business or personal life can be translated into time-units to reveal whether the expense truly justifies its ongoing temporal cost.

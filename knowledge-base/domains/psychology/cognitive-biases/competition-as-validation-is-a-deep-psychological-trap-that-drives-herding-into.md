@@ -56,5 +56,9 @@ related:
   - INS-260330-0D11
   - INS-260322-415E
   - INS-260330-3897
+evidence:
+  - id: INS-260322-415E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Thiel argues competition is not just an intellectual blind spot but a deep psychological one rooted in mimetic (imitative) human nature. The word 'ape' meant both primate and imitate in Shakespeare's time. This manifests in career choices: 20,000 people move to LA annually to become movie stars when ~20 succeed. Harvard Business School graduates systematically pile into whatever sector is peaking — Michael Milken's junk bonds in 1989, dotcom in 1999-2000, housing/private equity in 2005-2007. Kissinger's observation about Harvard faculty — 'the battles were so ferocious because the stakes were so small' — isn't just about academia, it's a structural consequence: when objective differences are tiny, you must compete ferociously to maintain any differentiation. Thiel's prescription is to 'go around the corner through the vast gate that no one's taking' rather than rushing through the tiny door everyone else targets. The first step is recognizing that this afflicts everyone, not just other people — like advertising, it works precisely because we believe we're immune.

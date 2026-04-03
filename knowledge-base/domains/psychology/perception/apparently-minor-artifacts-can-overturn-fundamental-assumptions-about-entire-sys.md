@@ -53,5 +53,9 @@ related:
   - INS-260330-1BAC
   - INS-260325-45BC
   - INS-260327-9D23
+evidence:
+  - id: INS-260327-9D23
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 At the Vindolanda army base near Hadrian's Wall, archaeologists found preserved shoes — many of them children's and women's shoes alongside soldiers' footwear. This small discovery 'kickstarted a whole new way of thinking about a Roman army base' — revealing that these were mixed communities with families, not just barracks of isolated soldiers. The principle extends far beyond archaeology: the most important signals in any system are often hiding in 'insignificant' details that challenge core assumptions. In business analysis, the equivalent is finding a small data point that reveals your fundamental model of how a market or customer segment works is wrong.

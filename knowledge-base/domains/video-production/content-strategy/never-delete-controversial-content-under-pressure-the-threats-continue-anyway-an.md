@@ -58,6 +58,16 @@ related:
 stance: >-
   Pakman deleted a controversial tweet under threat pressure, which he deeply
   regrets
+evidence:
+  - id: INS-260327-4A64
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-6ACA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-A048
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 After a sarcastic tweet about prayer and mass shootings went viral negatively, Pakman deleted it when threats reached his family. He deeply regrets this decision. The attacks escalated through Candace Owens, Fox News, and Donald Trump Jr regardless of the deletion. But by deleting, he lost the ability to let supporters see the original context. When thousands of supporters later said 'I wish you hadn't deleted it so we could still see the tide turning,' the lesson crystallized.
 

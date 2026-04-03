@@ -64,6 +64,10 @@ related:
   - INS-260330-10AA
   - INS-260330-544F
   - INS-260330-FDA9
+evidence:
+  - id: INS-260327-868D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Johnson reflects that cybercrime was an addiction, and like all addictions, it made real love impossible. He lied to his first wife every day for nine years. He couldn't stop committing crime even when it was destroying his relationships. He argues the mechanism is universal: addiction demands that everything else — love, friendship, honesty — be subordinated to feeding the addiction. You become 'truly a despicable human being' not through malice but through the progressive erosion of every value that competes with the addiction.
 

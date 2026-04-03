@@ -3,6 +3,7 @@
 - `INS-260320-06EF` Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
 - `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
 - `INS-260329-A077` Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
+- `INS-260327-7DBC` With zero credibility, the Diary of a CEO team messaged 1,000 people per week to book guests — pure numbers game persistence drove them from 8K to 13M subscribers.
 - `INS-260327-51C2` I can't go on. I'll go on. - Beckett's most important insight is that persistence doesn't require hope, meaning, or expectation of success.
 - `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
 - `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.
@@ -43,6 +44,5 @@
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260330-3AF9` Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
-- `INS-260327-7DBC` With zero credibility, the Diary of a CEO team messaged 1,000 people per week to book guests — pure numbers game persistence drove them from 8K to 13M subscribers.
 - `INS-260327-3FC7` Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
 - `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.

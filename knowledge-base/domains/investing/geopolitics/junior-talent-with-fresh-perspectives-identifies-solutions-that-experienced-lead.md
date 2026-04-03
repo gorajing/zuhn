@@ -53,6 +53,16 @@ related:
   - INS-260327-1BBF
   - INS-260327-7E6F
   - INS-260326-1CB1
+evidence:
+  - id: INS-260330-35E2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-E0A9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260326-1CB1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The experienced generals at Toulon thought in terms of their training: infantry assault, frontal attack, siege warfare. Napoleon, trained as an artillerist, thought in terms of fire positions and indirect effects. His different professional background gave him a completely different analytical lens that revealed solutions invisible to the infantry-trained generals.
 

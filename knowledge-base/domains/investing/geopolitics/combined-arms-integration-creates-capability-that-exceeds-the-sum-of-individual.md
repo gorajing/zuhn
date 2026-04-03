@@ -59,6 +59,13 @@ related:
   - INS-260327-3F8B
   - INS-260330-AE4B
   - INS-260327-191B
+evidence:
+  - id: INS-260326-1CB1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-AE4B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Belisarius's Byzantine army combined capabilities that no other force matched: heavy cataphract cavalry for shock action, mounted horse archers (adopted from Persian and Hunnic tactics) for ranged harassment, and disciplined Roman infantry for holding ground. Each component protected the others' weaknesses. Opponents who countered one element were vulnerable to the others. This combined-arms approach made his small forces disproportionately effective.
 

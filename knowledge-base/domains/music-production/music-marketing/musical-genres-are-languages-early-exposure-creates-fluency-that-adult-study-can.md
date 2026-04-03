@@ -64,6 +64,12 @@ evidence:
   - id: INS-260329-EDA2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-ACE6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-80AF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Rick Beato draws a deep parallel between musical genres and spoken languages. Bebop jazz is one of the hardest styles to master because it has its own complete language — angular lines, chromaticism, specific harmonic vocabulary. Hearing it as a kid, even passively, enables learning it later in ways that first exposure as a teenager cannot.
 

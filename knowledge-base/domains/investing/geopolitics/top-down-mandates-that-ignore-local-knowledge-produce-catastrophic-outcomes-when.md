@@ -57,6 +57,16 @@ related:
   - INS-260330-D429
   - INS-260330-43EB
   - INS-260330-A3D9
+evidence:
+  - id: INS-260322-D051
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-AFC7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-43EB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Great Leap Forward imposed uniform agricultural methods across all of China's diverse climates and soils, mandated steel production in backyard furnaces, and collectivized farming based on ideological goals rather than agricultural science. Local officials who reported poor results were punished, so they fabricated data showing success. The center, receiving only falsified reports, doubled down on failing policies. The result was history's worst famine.
 

@@ -52,6 +52,13 @@ related:
   - INS-260327-B038
   - INS-260327-3F8B
   - INS-260327-7750
+evidence:
+  - id: INS-260326-E411
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-E797
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 At Austerlitz, Napoleon faced a combined Austro-Russian force that, if fully coordinated, vastly outnumbered him. His strategic advantage was unity of command and speed of decision-making. While the Coalition required consensus among multiple monarchs and commanders, Napoleon could decide and act within hours. He force-marched the Grande Armee from the Channel coast to the Danube in weeks, catching the Austrians before the Russians arrived.
 

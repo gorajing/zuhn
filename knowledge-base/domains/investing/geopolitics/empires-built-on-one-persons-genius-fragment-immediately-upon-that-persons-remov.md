@@ -59,6 +59,16 @@ related:
   - INS-260327-64A5
   - INS-260330-0F55
   - INS-260330-88DE
+evidence:
+  - id: INS-260330-72BD
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-0F55
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-88DE
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Alexander conquered the largest empire in history by age 32. When he died at 32, it fragmented within years into four warring successor kingdoms. There were no institutions to maintain unity: no administrative system, no shared governance, no succession plan. The empire was held together by Alexander's personal presence alone. Without him, his generals immediately fought each other for pieces.
 

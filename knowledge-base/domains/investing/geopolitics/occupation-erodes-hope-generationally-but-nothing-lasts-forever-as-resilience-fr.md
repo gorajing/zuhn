@@ -54,6 +54,19 @@ related:
 stance: >-
   Third-generation refugees maintain resilience through the frame 'nothing lasts
   forever'
+evidence:
+  - id: INS-260327-51C2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-3754
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-C2DA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B410
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 A third-generation Palestinian refugee tells Lex that while he has no hope in his lifetime ('I'm 50, I have seven kids, no hope'), his neighbor frames resilience differently: 'Nothing lasts forever.' This historical perspective — that all occupations eventually end — provides psychological survival fuel even when present conditions offer no rational basis for optimism.
 

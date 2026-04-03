@@ -44,5 +44,9 @@ related:
   - INS-260330-420D
   - INS-260327-8EB7
   - INS-260327-515F
+evidence:
+  - id: INS-260330-420D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Farmers markets offer superior food quality through direct farmer relationships enabling questions about practices, plus access to raw dairy, heritage meats, and truly pasture-raised eggs unavailable in stores

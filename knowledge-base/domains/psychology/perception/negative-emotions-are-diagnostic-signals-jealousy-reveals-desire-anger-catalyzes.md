@@ -57,6 +57,10 @@ related:
   - INS-260329-5412
   - INS-260326-8217
 stance: Each negative emotion carries a specific diagnostic message
+evidence:
+  - id: INS-260323-C304
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Rather than suppressing or intellectualizing emotions, each trigger carries specific information: Regret says 'act now.' Anger provides the peak-state energy needed to override fear and take action — it is often the catalyst before major life changes. Jealousy reveals what you deeply want but haven't allowed yourself to pursue. Deep resistance to a topic (recoiling when someone mentions YouTube/business) often signals it matters to you — true disinterest produces no emotional reaction at all.
 

@@ -53,5 +53,15 @@ related:
   - INS-260330-419C
   - INS-260330-0BC2
   - INS-260330-08E1
+evidence:
+  - id: INS-260326-A7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0BC2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-08E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Weight fluctuates 2-5 lbs daily based on: water retention (sodium, carb intake, hormones), food volume in digestive tract, glycogen stores (each gram of glycogen holds 3g water), and bowel contents. When starting low-carb, initial rapid weight loss is primarily water (glycogen depletion releases stored water). Muscle gain from exercise can mask fat loss on the scale. Better indicators: waist circumference, how clothes fit, energy levels, sleep quality, blood sugar stability, and body composition measurements. The scale creates a destructive feedback loop — people abandon effective protocols because the number does not change despite real fat loss occurring alongside muscle gain.

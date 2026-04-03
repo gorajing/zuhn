@@ -61,6 +61,13 @@ related:
   - INS-260327-5DD7
   - INS-260330-0F49
   - INS-260330-1293
+evidence:
+  - id: INS-260330-0F49
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1293
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The American Revolution followed a textbook escalation spiral: Britain imposed taxes, colonists protested, Britain imposed harsher measures, colonists organized resistance, Britain sent troops, colonists formed militias. At each stage, moderates on both sides lost influence to hardliners. By 1775, the accumulated grievances and commitments on both sides made compromise politically impossible for either party.
 

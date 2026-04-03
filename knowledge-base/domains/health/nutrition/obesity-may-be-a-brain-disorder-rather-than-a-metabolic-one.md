@@ -64,6 +64,19 @@ related:
   - INS-260330-4D8B
   - INS-260330-E647
   - INS-260330-A84D
+evidence:
+  - id: INS-260325-1D95
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-16A8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-D059
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A84D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 A counter-intuitive hypothesis presented in the episode is that obesity may be primarily a brain disorder. The conventional model assumes metabolic dysfunction (insulin resistance, hormonal imbalance) causes weight gain, which then secondarily affects brain function and mental health. Palmer's clinical experience and metabolic theory suggest the causal arrow often runs in the opposite direction: dysfunctional mitochondria in the brain alter neurotransmitter signaling, hormone regulation, and appetite control, which then drives the metabolic and weight changes observed peripherally.
 

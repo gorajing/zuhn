@@ -53,6 +53,10 @@ related:
   - INS-260330-CB30
   - INS-260330-21CC
   - INS-260402-7FF5
+evidence:
+  - id: INS-260321-6437
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Founders dismiss manual user acquisition because the absolute numbers seem embarrassingly small — getting 10 users when you have 100 feels insignificant. But this reflects a failure to internalize compound growth: 10% weekly growth from 100 users yields 14,000 after one year and 2 million after two years. The math is unintuitive because humans think linearly.
 

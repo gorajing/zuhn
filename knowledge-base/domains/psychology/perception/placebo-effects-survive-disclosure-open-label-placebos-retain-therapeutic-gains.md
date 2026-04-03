@@ -60,6 +60,9 @@ evidence:
   - id: INS-260322-9095
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-C2C5
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 One of the most counter-intuitive findings in placebo research is that disclosure doesn't kill the effect. The McGill study found that children's symptom improvements — reduced migraines, less skin picking, calmer ADHD behavior — did not reverse when the placebo nature was eventually revealed. This aligns with broader open-label placebo research showing that what subjects learn about self-healing during placebo treatment becomes a durable skill.
 

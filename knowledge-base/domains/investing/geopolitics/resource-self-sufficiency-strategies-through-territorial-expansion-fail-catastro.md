@@ -59,6 +59,10 @@ related:
   - INS-260330-912C
   - INS-260321-3808
   - INS-260327-0876
+evidence:
+  - id: INS-260330-912C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Both Nazi Germany and Imperial Japan faced genuine food production challenges — Germany had inefficiently organized small farms, Japan couldn't keep agricultural output ahead of population growth. Both chose territorial expansion (Germany's Hunger Plan targeting Poland/Ukraine/Russia, Japan resettling farmers in Korea) rather than deeper trade integration as Britain had done.
 

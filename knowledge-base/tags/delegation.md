@@ -19,10 +19,10 @@
 - `INS-260325-6F89` The founder's job changes every 12-18 months — most fail because they keep using skills that worked at the previous stage.
 - `INS-260330-5B59` Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.
 - `INS-260322-B264` The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
+- `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260329-88A4` Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
-- `INS-260330-56B2` PolyAI's CEO built the entire sales engine from scratch because even seasoned sales leaders couldn't sell novel voice AI technology they didn't deeply understand.
 - `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
 - `INS-260327-3381` Davout was Napoleon's most valuable marshal because he could win battles independently — at Auerstedt he defeated the main Prussian army with a single corps while Napoleon fought a secondary force at Jena.

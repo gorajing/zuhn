@@ -58,6 +58,16 @@ related:
   - INS-260327-15E1
   - INS-260327-2958
   - INS-260330-946B
+evidence:
+  - id: INS-260327-94CC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-F258
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-946B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The February Revolution successfully removed the Tsar, but the Provisional Government that replaced him was paralyzed by indecision: it couldn't decide on land reform, couldn't end the unpopular war, and couldn't establish authority. Into this vacuum stepped Lenin's Bolsheviks — a small but extremely disciplined faction that knew exactly what it wanted and was willing to use force to get it. The moderates' failure to act created the opportunity for extremists to act.
 

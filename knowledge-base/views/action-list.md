@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-02 | 2972 actionable insights
+Generated on 2026-04-03 | 2989 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -889,6 +889,7 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260330-1839] Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - [INS-260330-0242] Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - [INS-260330-293E] When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
+- [INS-260403-D64B] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -996,6 +997,7 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260330-F737] Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - [INS-260402-5522] When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing.
 - [INS-260402-0BFF] Having zero controversial private opinions is evidence of conformity, not correctness.
+- [INS-260403-C5BA] Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1047,6 +1049,7 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260402-40D7] Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - [INS-260402-B66A] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - [INS-260402-9D7B] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
+- [INS-260403-B9E5] Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1336,6 +1339,8 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260402-4451] You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - [INS-260402-4BC7] Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - [INS-260402-F772] Surprises aren't just new information — they're corrections to existing wrong beliefs, making them the highest-value knowledge unit.
+- [INS-260403-449A] If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
+- [INS-260403-1448] The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1887,6 +1892,7 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260402-F4E5] Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - [INS-260402-45FA] Choosing unfamiliar but powerful technology creates advantages competitors can't even diagnose, let alone copy.
 - [INS-260402-7E2A] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
+- [INS-260403-600C] Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2243,6 +2249,8 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260402-27A1] A failed startup teaches more founder skills in one year than several years at a big company.
 - [INS-260402-9075] Most startups die not from bad decisions but from founders who never fully committed.
 - [INS-260402-ECB6] Don't let institutional roles define you — treat them as day jobs and reserve your identity for self-directed work.
+- [INS-260403-0406] Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
+- [INS-260403-805E] School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2353,6 +2361,8 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260402-910C] Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
 - [INS-260402-D9AC] Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
 - [INS-260402-1436] Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
+- [INS-260403-EAC6] Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
+- [INS-260403-99B1] Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -2486,6 +2496,7 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260330-20F7] Sean Parker's virality framework breaks viral potential into payload (people reached per blast), frequency (how often you hit them), and conversion rate — different products win on different axes.
 - [INS-260330-1089] When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - [INS-260330-D98E] Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
+- [INS-260403-36D1] Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
 
 ## startups/hiring
 - [INS-260330-B525] PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
@@ -2654,6 +2665,8 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260330-FF9A] Convert your survival plan into concrete metric targets for each team so every employee can see exactly how their work contributes to the company's path through the crisis.
 - [INS-260402-71A7] Glanville publicly recognizes when team members present better ideas than his own, sending a clear signal that the best idea wins regardless of org chart position.
 - [INS-260402-D2C9] You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
+- [INS-260403-E1AD] Leaders must delay their own questions and create space for others to question first to avoid turning inquiry into implicit commands.
+- [INS-260403-2CA3] Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -2774,6 +2787,7 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260330-809A] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - [INS-260330-C95F] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - [INS-260402-3DBF] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
+- [INS-260403-E69C] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3011,6 +3025,7 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260330-50A4] Flat org structures work perfectly until ~20 employees then fail all at once around 25-30, requiring proactive structure before the crisis.
 - [INS-260330-47CF] Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
 - [INS-260330-A69C] Hire only when someone can do something you need done but can't do yourself — never hire to fill an org chart or seem impressive.
+- [INS-260403-20BF] A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3056,6 +3071,8 @@ Generated on 2026-04-02 | 2972 actionable insights
 - [INS-260330-86CD] A disrupted Series B company with $5M in the bank should operate like a freshly funded seed company—small team, low burn, total freedom to pursue the absolute best idea.
 - [INS-260402-CCF4] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - [INS-260402-2B96] Since most startups fail, doing what most startups do is a strategy for failure — survival requires deliberate deviation from the norm.
+- [INS-260403-5BFB] Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
+- [INS-260403-9DC6] Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

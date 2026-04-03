@@ -57,6 +57,13 @@ related:
   - INS-260327-FF86
   - INS-260325-FD12
   - INS-260330-8A5C
+evidence:
+  - id: INS-260322-D059
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-8A5C
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 A key clinical observation from Palmer's practice is that psychiatric benefit from ketogenic diets is dose-dependent on ketone levels. Patients who attempted low-carb eating but failed to achieve measurable ketosis typically saw no psychiatric improvement. Once ketosis was achieved, clinical benefits emerged. For depression, Palmer targets blood ketone levels above 0.8 mmol/L minimum. For psychotic disorders (schizophrenia, bipolar), he targets levels above 1.5 mmol/L.
 

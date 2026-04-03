@@ -56,6 +56,22 @@ related:
 stance: >-
   Very new, very big, very exciting world-changing technologies
   deterministically lead to bubbles
+evidence:
+  - id: INS-260330-9346
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-8062
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-DFA4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-F306
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-2355
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Every major platform shift has produced bubble dynamics: everything goes up at once, everyone looks like a genius, leverage and circular revenue build up until the ratchet effect kicks in on the way down. Hyperscalers justify massive investment by arguing the downside of not investing exceeds the downside of overinvesting — but as Evans notes, Zuckerberg's claim that surplus capacity can be resold falls apart because if one company has overcapacity, everyone does simultaneously.
 

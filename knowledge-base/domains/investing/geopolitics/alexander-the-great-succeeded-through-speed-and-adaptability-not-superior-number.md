@@ -55,5 +55,9 @@ related:
   - INS-260327-EF8C
   - INS-260327-7750
   - INS-260327-0C9F
+evidence:
+  - id: INS-260326-E411
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Alexander crossed from Greece to India (4,500+ miles) in 11 years, defeating the Persian Empire (population 50M+ vs Macedonia's 2M). His advantages were not numbers or technology but: 1) Speed — his army marched faster than any contemporary force, arriving before enemies could prepare, 2) Adaptability — he fought pitched battles at Granicus, siege warfare at Tyre, guerrilla campaigns in Bactria, and elephant warfare at Hydaspes, modifying tactics for each, 3) Personal leadership — he led cavalry charges personally, creating morale and intelligence advantages, 4) Integration — he adopted local customs, married local women, and recruited conquered soldiers, turning enemies into allies. The pattern for founders: overwhelming resources are not required if you move faster and adapt more fluidly than incumbents.

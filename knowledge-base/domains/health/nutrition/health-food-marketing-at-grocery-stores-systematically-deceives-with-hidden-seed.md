@@ -61,6 +61,13 @@ related:
   - INS-260327-7EFD
   - INS-260327-FFB5
   - INS-260330-B76F
+evidence:
+  - id: INS-260327-7EFD
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-FFB5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Health food marketing is systematically deceptive. Products labeled as 'organic,' 'natural,' or 'healthy' at stores like Trader Joe's commonly contain: seed oils (canola, sunflower, soybean) as primary fat sources, added sugars under various names, 'natural flavors' (a catch-all for undisclosed additives), gums and emulsifiers, and processed protein isolates.
 

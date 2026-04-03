@@ -56,6 +56,16 @@ related:
   - INS-260327-157B
   - INS-260328-23B4
   - INS-260329-E6DB
+evidence:
+  - id: INS-260323-3982
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260328-23B4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-E6DB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Napoleon's plan to split Wellington and Blucher was strategically brilliant — defeat each in detail before they could unite. But execution failed at every delegation point: Ney was slow at Quatre Bras, allowing Wellington to consolidate. Grouchy failed to prevent Blucher's army from marching to Waterloo, pursuing a phantom force instead. Neither marshal showed the independent judgment Napoleon's strategy required.
 

@@ -61,6 +61,18 @@ evidence:
   - id: INS-260323-E2DD
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-1D15
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-D6B8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-7CDE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260402-45FA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dr. Kim argues that among all forms of hegemony (financial, integration, military), technological hegemony plays the most decisive role. The current battleground is AI and whoever sets the technological standards first gains lasting advantage.
 

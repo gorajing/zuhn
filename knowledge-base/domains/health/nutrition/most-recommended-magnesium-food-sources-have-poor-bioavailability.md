@@ -54,6 +54,10 @@ related:
   - INS-260325-69E8
   - INS-260327-F9F7
   - INS-260327-8E45
+evidence:
+  - id: INS-260327-8E45
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 ChatGPT and most dietary guides recommend spinach, nuts, beans, and grains as top magnesium sources. However, the magnesium in these foods is largely non-bioavailable. Spinach contains oxalates that bind magnesium, almonds and grains contain phytic acid that chelates it, and beans have similar antinutrient issues.
 

@@ -51,5 +51,12 @@ related:
 stance: >-
   America has 50,000 self-storage facilities and 2 billion sq ft of extra
   storage for 300M people — Europe has 5,000 facilities for 750M people
+evidence:
+  - id: INS-260327-B6B7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2B44
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Self-storage is uniquely American: customers literally pay rent every month for buildings to hold their excess stuff, doing all the heavy lifting themselves. The business is a dream for investors: minimal staff (1-2 per facility), no inventory, customers self-serve, recurring revenue, and recession-proof (people downsize but don't throw away). The scale comparison is staggering: 50K US facilities vs 5K for all of Europe (2.5x the population). It's a direct monetization of suburban consumerism — the same cultural forces that created car-centric sprawl and the American Dream also created the need for extra storage.

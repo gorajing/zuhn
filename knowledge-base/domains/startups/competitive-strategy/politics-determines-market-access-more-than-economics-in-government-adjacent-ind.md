@@ -51,5 +51,9 @@ related:
 stance: >-
   In firearms, the US government decides which foreign manufacturers can sell to
   American civilians
+evidence:
+  - id: INS-260323-D6BD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The highest-grossing manufacturers (Beretta, Glock, H&K) earn 30-90% of revenue from American civilians. Chinese and Russian manufacturers dominated the AK market before being banned in the 1990s and 2010s. Pre-ban rifles tripled in value from scarcity. Companies allowed to sell to US civilians grow significantly more than those who can't. Government contracts provide steady cash flow and prestige, but the real money is in the American civilian market — spending surpasses even what the US military spends on its troops.

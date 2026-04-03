@@ -50,6 +50,10 @@ related:
   - PRI-260328-E3A7
   - INS-260327-4046
   - INS-260330-2332
+evidence:
+  - id: INS-260330-2332
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The American system of employment-tied healthcare means that every economic disruption - layoffs, gig economy transitions, career changes - creates healthcare gaps. During the exact periods when people face the most stress (job loss, financial uncertainty), they also lose medical coverage.
 

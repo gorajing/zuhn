@@ -57,6 +57,9 @@ evidence:
   - id: INS-260322-4090
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-1930
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Konyi's core framework redefines how to understand scale degrees: instead of thinking of them as pitch intervals or note names, treat them as distinct feeling states. Degree 1 feels 'perfect, complete, whole, resolved.' Degree 5 feels 'pure, expansive, neutral.' Degree 3 feels 'sweet, warm, glowing, vital.' Flat 3 defines 'minorness' — somber and serious. Flat 2 is 'hopeless, desperate, intense.'
 

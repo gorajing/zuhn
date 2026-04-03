@@ -62,6 +62,10 @@ related:
   - INS-260323-73AB
   - PRI-260322-8FD4
   - INS-260328-17D7
+evidence:
+  - id: INS-260321-A3A1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Michael Treacy and Fred Wiersema's Harvard Business Review framework identifies three paths to market dominance, each requiring a specific organizational structure: best price (logistics focus, e.g., Walmart/Amazon), best product (R&D focus, e.g., Apple), and best overall solution (customer intimacy, e.g., luxury brands and hospitality). Kevin Hale argues the third path is uniquely suited to startups because it requires almost no money—just humility and good manners.
 

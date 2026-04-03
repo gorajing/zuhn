@@ -63,6 +63,10 @@ related:
   - INS-260330-CC49
   - INS-260330-420D
   - PRI-260324-A608
+evidence:
+  - id: INS-260323-E214
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Thiel identifies a systematic distortion in how businesses describe their markets. Google, with 66% search market share, reframes itself as an 'advertising company' (3.5% of $500B global ad market) or a 'technology company' (tiny slice of $1T). Meanwhile, a restaurant in Palo Alto describes itself as 'the only British food restaurant in Palo Alto' — a fictitiously narrow intersection that ignores the reality of competing with all restaurants.
 

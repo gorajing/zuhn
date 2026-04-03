@@ -62,6 +62,10 @@ related:
   - INS-260330-27E8
   - INS-260323-104E
   - INS-260330-0DFC
+evidence:
+  - id: INS-260327-DBEB
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Tom Monaghan used the Domino's Foundation to donate $110,000 to anti-abortion causes and made public pledges on TV. The National Organization for Women called a nationwide boycott of Domino's. The critical dynamic was that Tom's personal convictions — expressed through a foundation bearing the company name — directly threatened thousands of franchisees and employees who had no voice in those decisions. As a spokesperson admitted, 'You couldn't keep him quiet.'
 

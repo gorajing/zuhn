@@ -64,6 +64,10 @@ related:
   - INS-260330-84BD
   - PRI-260321-2DF0
   - PRI-260328-EAC4
+evidence:
+  - id: INS-260330-84BD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Before the Federal Reserve existed, the U.S. had no central bank to act as lender of last resort during financial crises. Morgan filled this vacuum twice: organizing a private gold bond syndicate in 1895 and orchestrating a bank bailout from his private library in 1907. Both times he succeeded where the government couldn't act alone, but both times he also profited handsomely from the rescue.
 

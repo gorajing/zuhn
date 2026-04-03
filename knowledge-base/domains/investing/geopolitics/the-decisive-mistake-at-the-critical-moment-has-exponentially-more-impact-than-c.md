@@ -61,6 +61,10 @@ related:
   - INS-260327-719D
   - INS-260327-23FA
   - INS-260330-39D4
+evidence:
+  - id: INS-260330-39D4
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Grouchy was a competent but uninspired commander. His career was largely unremarkable. But his single decision at Waterloo �� to continue pursuing a retreating Prussian force rather than marching to the sound of the guns where Napoleon desperately needed him — was catastrophic. If Grouchy had arrived at Waterloo instead of Blucher, Napoleon might have won. One decision at one critical moment defined his entire legacy and changed European history.
 

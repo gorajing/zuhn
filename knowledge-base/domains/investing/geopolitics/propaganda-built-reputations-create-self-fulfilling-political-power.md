@@ -56,6 +56,19 @@ related:
   - INS-260330-4088
   - INS-260330-1B5E
   - INS-260330-2737
+evidence:
+  - id: INS-260326-E411
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4088
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B5E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2737
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Napoleon's Egyptian expedition was far from the glorious success portrayed in French newspapers. He abandoned his army, the fleet was destroyed at the Nile, and the campaign achieved none of its strategic objectives. Yet through careful propaganda — controlling dispatches, commissioning heroic paintings, suppressing bad news — Napoleon returned to France as a conquering hero. This manufactured reputation became real political capital.
 

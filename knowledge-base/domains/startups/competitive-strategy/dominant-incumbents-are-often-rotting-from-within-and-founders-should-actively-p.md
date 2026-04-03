@@ -56,5 +56,8 @@ evidence:
   - id: INS-260330-CA97
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-E81D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Michael introduces the 'watermelon' metaphor from a founder: companies that look green (healthy) on the outside but are red (rotting) on the inside. Yahoo was declared the winner before Google overtook it. Intel was an institution until Nvidia replaced it. HP looked strong as it declined. The pattern repeats across every technology cycle — there are no permanent winners except arguably Microsoft, which reinvented itself through cloud and developer tools. For startup founders, this is actionable: actively investigate whether the incumbents in your space are more vulnerable than their valuations suggest. The best time to attack is when they look strongest but are decaying internally.

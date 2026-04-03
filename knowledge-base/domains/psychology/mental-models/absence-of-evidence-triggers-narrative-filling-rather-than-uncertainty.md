@@ -61,6 +61,10 @@ related:
   - INS-260330-6AED
   - INS-260330-18F3
   - INS-260323-8966
+evidence:
+  - id: INS-260330-6AED
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Indus Valley Civilization's decline has generated three major theories — Aryan invasion, river course change, and earthquake-induced flooding — each presented with conviction despite the fundamental problem that the writing system remains undeciphered and direct evidence is sparse. The same archaeological gaps support mutually exclusive narratives, and each theory reflects the intellectual fashions of the era that produced it.
 

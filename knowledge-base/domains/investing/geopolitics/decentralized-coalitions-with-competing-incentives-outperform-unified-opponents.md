@@ -53,5 +53,12 @@ related:
   - INS-260327-B3A7
   - PRI-260328-79DA
   - INS-260330-00AA
+evidence:
+  - id: INS-260325-BE8A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-00AA
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The First Crusade (1095-1099) was a coalition of feudal lords with directly competing interests -- Bohemond wanted Antioch, Baldwin wanted Edessa, Raymond wanted Jerusalem. They constantly argued, split forces, and betrayed agreements. Yet they conquered a 2,000-mile path through hostile territory and took Jerusalem against overwhelming odds. Two things made this work: (1) the narrative of spiritual salvation was powerful enough to override self-interest at critical moments, and (2) the Muslim world was equally fragmented and couldn't coordinate a unified response. This maps directly to open-source ecosystems, decentralized protocols, and multi-stakeholder alliances -- competing incentives are fine as long as the shared narrative is strong enough, and the opposition is more fragmented than you are.

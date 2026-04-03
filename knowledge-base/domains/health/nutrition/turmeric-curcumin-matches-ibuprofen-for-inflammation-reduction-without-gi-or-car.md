@@ -44,5 +44,9 @@ related:
   - INS-260327-244B
   - INS-260327-E8D3
   - INS-260322-3A00
+evidence:
+  - id: INS-260322-3A00
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Studies show curcumin at therapeutic doses reduces inflammatory markers comparable to ibuprofen without the gastrointestinal bleeding and cardiovascular risks of NSAIDs

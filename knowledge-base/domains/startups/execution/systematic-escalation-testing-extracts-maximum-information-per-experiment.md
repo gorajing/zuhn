@@ -50,7 +50,6 @@ stance: >-
   Testing against progressively harder conditions in sequence reveals failure
   modes and thresholds that a single ambitious test would miss entirely
 related:
-  - INS-260320-10CC
   - INS-260329-4D24
   - INS-260323-1811
   - INS-260329-D8F2

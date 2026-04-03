@@ -50,5 +50,9 @@ related:
 stance: >-
   Diners have survived unchanged since the 1940s because their customers don't
   want artisan bread and organic eggs
+evidence:
+  - id: INS-260327-33F7
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 While the restaurant industry gravitates toward small menus, fast casual, automation, and originality, diners have stayed the same: huge menus, 24/7, human service with pen and paper, basic comfort food, and a no-judgment atmosphere. Customers actively want predictable mediocrity — drunk college students and blue-collar workers are equally satisfied. There are no reservations, VIPs, or minimums. Diners source cheap ingredients (frozen hash browns, premixed salads, processed cheese) but sustain profits through high volume and breadth. The rare business where refusing to innovate IS the competitive advantage.

@@ -52,5 +52,9 @@ related:
   - INS-260327-17BE
   - INS-260323-70B9
   - INS-260330-4830
+evidence:
+  - id: INS-260330-4830
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When the EU ruled Apple owed Ireland billions in back taxes, Ireland actively fought against collecting — passing up roughly 5% of its entire GDP. This counterintuitive behavior reveals that tax shelter relationships create stable symbiotic equilibria: what countries lose in tax revenue, they gain back from the jobs, infrastructure investment, and economic activity these corporations bring. Ireland's economy runs not despite being a tax shelter but because of it. This explains why regulatory crackdowns on corporate tax avoidance face resistance not just from corporations but from the shelter countries themselves — both parties benefit from the arrangement, making it a stable Nash equilibrium rather than a market failure waiting to be corrected.

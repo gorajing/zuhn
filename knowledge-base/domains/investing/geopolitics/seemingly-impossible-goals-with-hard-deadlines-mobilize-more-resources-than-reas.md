@@ -57,6 +57,25 @@ related:
   - INS-260323-BF81
   - INS-260330-49A4
   - INS-260328-FE38
+evidence:
+  - id: INS-260321-C292
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C658
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-F1D2
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260323-BF81
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-49A4
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260328-FE38
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Kennedy's Moon goal was audacious (most experts thought it was impossible), specific (the Moon, not 'space exploration'), and had an immovable deadline (before 1970). This combination forced NASA to invent solutions rather than iterate, hire aggressively rather than grow organically, and make decisions rapidly rather than deliberate. The deadline itself was the catalyst — without it, the same resources would have produced incremental advances rather than transformative ones.
 

@@ -58,6 +58,13 @@ related:
   - PRI-260328-B11D
   - PRI-260328-BEAB
   - INS-260330-4416
+evidence:
+  - id: INS-260330-4416
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-C68B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Morgan twice rescued the U.S. economy from collapse: in 1895 when gold reserves dropped to $9M (he organized a private syndicate to purchase $65M in gold bonds), and in 1907 when he corralled bankers into his private library and literally locked them in until they agreed to inject capital into failing banks. In both cases, the U.S. government, lacking a central bank, had no alternative but to rely on one private citizen.
 

@@ -49,6 +49,16 @@ related:
   - INS-260330-E3ED
   - INS-260327-B7C4
   - PRI-260322-DC5E
+evidence:
+  - id: INS-260327-AD0D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-B7C4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-D5DD
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Otwell uses a brilliant music analogy: if Metallica starts catering to Taylor Swift fans, they lose their core fans. If Swift changes her sound, she loses hers. The same applies to software products. Sideline critics who shout suggestions will always dangle another carrot—'oh thanks for that, but I also don't like this'—and never actually become users.
 

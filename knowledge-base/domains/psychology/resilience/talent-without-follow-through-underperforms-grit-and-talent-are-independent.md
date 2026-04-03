@@ -59,6 +59,10 @@ related:
   - INS-260328-F782
   - INS-260327-A00A
   - INS-260329-DD01
+evidence:
+  - id: INS-260327-A00A
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 One of Duckworth's most striking findings is that grit and talent are essentially independent dimensions. In her data, grit is 'usually unrelated or even inversely related to measures of talent.' This means that knowing someone is highly talented tells you almost nothing about whether they will sustain the effort needed to achieve long-term goals.
 

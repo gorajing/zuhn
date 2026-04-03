@@ -56,6 +56,13 @@ related:
   - INS-260330-4181
   - INS-260327-A75C
   - INS-260330-4ACF
+evidence:
+  - id: INS-260327-088D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4ACF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The 1914 alliance system was a catastrophe machine: Austria's conflict with Serbia automatically activated Russia's Slavic solidarity, which activated Germany's alliance with Austria, which activated France's alliance with Russia, which activated Britain's guarantee to Belgium. Each commitment was individually rational, but the system as a whole meant that any crisis anywhere would cascade into total war. No individual decision-maker intended world war — the system produced it.
 

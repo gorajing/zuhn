@@ -63,6 +63,16 @@ related:
   - INS-260330-0881
   - INS-260330-74AC
   - INS-260330-1AEA
+evidence:
+  - id: INS-260330-B4BD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-74AC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1AEA
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In agrarian economies, children were the ultimate productivity hack — before tractors, they were the labor force. But industrialization inverts the equation entirely: urban children generate costs (education, housing, student loans) rather than economic returns. As the saying goes, 'the best contraceptive is economic development.' China's fertility would have declined substantially even without the one-child policy — the policy merely accelerated an inevitable transition.
 

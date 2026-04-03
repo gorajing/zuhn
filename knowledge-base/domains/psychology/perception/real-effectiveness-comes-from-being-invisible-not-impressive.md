@@ -53,6 +53,10 @@ related:
   - INS-260323-97A1
   - INS-260323-D41A
   - INS-260328-68BA
+evidence:
+  - id: INS-260323-D41A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Real espionage is the inverse of its Hollywood portrayal. The most operationally useful person is someone who disappears in any setting — not attractive, not memorable, not the center of attention. The 'gray man' that CIA, MI6, and Mossad seek is someone who values the comfort of anonymity and uses advanced skills to become even more invisible.
 

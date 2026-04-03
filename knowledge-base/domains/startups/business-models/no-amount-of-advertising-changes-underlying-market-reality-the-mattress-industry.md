@@ -55,6 +55,13 @@ related:
   - INS-260330-C0E2
   - INS-260330-A192
 stance: Americans replace mattresses every 9-10 years
+evidence:
+  - id: INS-260323-DA6F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-A192
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The mattress industry's 10-year replacement cycle creates a structural ceiling that no amount of marketing can overcome. Casper's growth decelerated from 43% (2017-2018) to 23% (2018-2019) to 18% (2019-2020) despite continued aggressive advertising. With first customers arriving in 2015, true retention wouldn't be measurable until 2025.
 

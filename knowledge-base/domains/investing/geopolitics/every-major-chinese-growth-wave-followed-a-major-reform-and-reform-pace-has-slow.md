@@ -61,6 +61,16 @@ stance: >-
   China's growth has historically been reform-driven: every major reform
   produced a decade of strong growth, and the current slowdown correlates
   dire...
+evidence:
+  - id: INS-260325-A46E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D808
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-5A96
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Jin identifies a clear pattern in Chinese economic history: reform produces growth, growth slows, new reform produces the next wave. Agricultural reforms in the 1980s, special economic zones, WTO accession in 2001 — each triggered a decade of expansion. The current challenge is that reform pace has slowed in the last 15 years, with political security priorities increasingly overriding economic optimization.
 

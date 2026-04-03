@@ -21,8 +21,8 @@
 - `INS-260324-1C12` The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
 - `INS-260330-85D7` Photosynthesis uses a four-complex electron transport chain because staged extraction captures energy that a single-step conversion would waste as heat.
 - `INS-260323-71B3` GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
-- `INS-260321-822B` The fastest AI companies reach $100M revenue significantly faster than SaaS predecessors, with top performers growing 693% YoY — driven by product demand, not sales spend — and running at $500K-1M ARR per FTE versus the old SaaS benchmark of $400K.
 - `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
+- `INS-260321-822B` The fastest AI companies reach $100M revenue significantly faster than SaaS predecessors, with top performers growing 693% YoY — driven by product demand, not sales spend — and running at $500K-1M ARR per FTE versus the old SaaS benchmark of $400K.
 - `INS-260323-D621` If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260329-393C` Whenever you find yourself copy-pasting code or repeating a manual process, you've found a missing abstraction that will cost more to fix later.
 - `INS-260330-2F74` RuBisCo is terrible at its job but there are 40 billion tons of it on Earth — brute-force quantity as the scaling strategy when unit quality can't improve.

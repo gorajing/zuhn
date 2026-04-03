@@ -55,6 +55,16 @@ related:
 stance: >-
   The biggest misconception about China's economy is that it is centrally
   commanded
+evidence:
+  - id: INS-260330-174B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-420D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-73C1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Keyu Jin argues that China's economy is actually more decentralized than the US. While political power is centralized, economic power is distributed to local mayors and provincial governors who compete fiercely for results. Successful local reforms get rolled out nationally, and the reforming mayor gets promoted. This creates a tournament-style incentive structure that drove decades of rapid growth.
 

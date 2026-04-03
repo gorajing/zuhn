@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-332E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-9C40
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The common understanding that fidgeting helps because it 'moves energy out of the body' is mechanistically wrong. The actual mechanism involves premotor circuits—neural commands to move that reverberate through the nervous system. People with ADHD have elevated reverberatory activity, making stillness itself cognitively expensive.
 

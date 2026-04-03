@@ -56,6 +56,10 @@ stance: >-
   Systematic music discovery follows three layers: listen to as much as
   possible, then dig by genre to understand sonic categories, then trace
   artist...
+evidence:
+  - id: INS-260330-CCD4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Music digging has a three-layer methodology that builds progressively. Layer 1 is pure volume — listen to as much as possible across platforms, following magazine recommendations and algorithm suggestions, collecting songs that resonate without overthinking. This builds raw taste. Layer 2 is genre-based — once you find music you love, identify its genre, search for DJ live mix sets in that genre on YouTube, and immerse until the sonic signature becomes recognizable. Layer 3 is artist-centered — trace credits, explore discographies, read interviews, and follow the creative lineage of artists you connect with.
 

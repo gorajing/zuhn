@@ -60,6 +60,19 @@ related:
   - INS-260326-E411
   - INS-260329-58E7
   - INS-260330-E54B
+evidence:
+  - id: INS-260330-35E2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260326-E411
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-58E7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-E54B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Marshal Berthier was neither a great strategist nor a brilliant battlefield commander. But he was the indispensable translator between Napoleon's mind and the army's execution. He converted Napoleon's rapid-fire ideas into precise written orders, managed the movement of 200,000+ men across a continent, and ensured the logistics worked. When Berthier was absent (as at Waterloo), the army's execution quality noticeably degraded.
 

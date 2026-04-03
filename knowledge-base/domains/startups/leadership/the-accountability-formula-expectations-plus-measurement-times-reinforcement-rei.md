@@ -55,6 +55,10 @@ related:
 stance: >-
   Expectations + Measurement x Reinforcement = Accountability — without
   reinforcement, expectations and measurement produce zero accountability.
+evidence:
+  - id: INS-260330-59BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Most leaders stop at expectations (job descriptions, SOPs) and maybe measurement (KPIs, reports). But reinforcement is the multiplier — without it, the equation zeroes out. Reinforcement means: what happens AFTER you receive the measurement? Do you applaud, high-five, redirect, or ignore?
 

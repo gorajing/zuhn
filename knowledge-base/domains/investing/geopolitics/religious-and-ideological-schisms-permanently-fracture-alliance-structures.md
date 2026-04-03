@@ -63,6 +63,13 @@ related:
   - INS-260327-A75C
   - INS-260330-E474
   - INS-260330-CA88
+evidence:
+  - id: INS-260330-E474
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-CA88
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Great Schism of 1054 between Eastern Orthodox and Roman Catholic Christianity wasn't just a theological dispute — it created a permanent geopolitical fault line. Western Europe oriented toward Rome and the Pope; Eastern Europe and the Middle East oriented toward Constantinople and the Patriarch. This division shaped alliance structures, trade patterns, and conflict lines for the next millennium, and its echoes are visible in modern geopolitics (NATO vs. Russian sphere of influence roughly traces the old Orthodox-Catholic boundary).
 

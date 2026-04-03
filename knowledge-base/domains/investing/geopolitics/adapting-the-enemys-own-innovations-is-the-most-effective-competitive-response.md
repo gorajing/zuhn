@@ -58,6 +58,13 @@ related:
   - INS-260327-3675
   - INS-260327-BF38
   - INS-260327-1BBF
+evidence:
+  - id: INS-260326-8189
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260326-E411
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 After years of humiliating defeats, Austria didn't try to invent a novel counter-strategy to Napoleon. Archduke Charles simply copied what worked: he reorganized the Austrian army along French lines, adopting Napoleon's corps system, new infantry tactics, and merit-based command principles. This fast-following approach closed the capability gap enough to win at Aspern-Essling — Austria's first victory against Napoleon.
 

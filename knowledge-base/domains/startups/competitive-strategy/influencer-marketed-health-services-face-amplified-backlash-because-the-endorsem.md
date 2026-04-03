@@ -45,6 +45,10 @@ related:
   - INS-260327-26CF
   - INS-260330-629E
   - INS-260328-2BCF
+evidence:
+  - id: INS-260327-EEEE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Health services promoted through influencer sponsorships face disproportionate backlash when problems emerge because followers feel personally betrayed by someone they trusted.
 

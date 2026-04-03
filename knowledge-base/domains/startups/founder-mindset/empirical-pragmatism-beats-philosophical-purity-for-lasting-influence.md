@@ -62,6 +62,18 @@ evidence:
   - id: INS-260323-89C2
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260327-768D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E052
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-6058
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-5E93
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Burns contrasts two approaches to winning the battle of ideas. Ayn Rand was a purist who demanded total alignment from followers, broke relationships over disagreement, and became angrier over time. Milton Friedman was 'the happy warrior' who debated with a smile, accepted half a loaf, and could say 'I was wrong' — even expressing doubts about globalization near the end of his life.
 

@@ -61,5 +61,42 @@ related:
   - INS-260327-1BBF
   - INS-260327-7750
   - INS-260327-3528
+evidence:
+  - id: INS-260327-787C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-3381
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-7C4A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-1756
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2964
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-B3A7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-891F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-F389
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1BBF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7750
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-3528
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-E9FC
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Horowitz uses Toussaint L'Ouverture's slave revolution as the ultimate management case study. After defeating the British, Spanish, and French armies, Toussaint didn't purge the enemy — he made their best officers generals in his own army. His reasoning was multi-perspective: his slave army had been shaped by a brutally degraded culture, and he needed European military expertise and cultural sophistication to build the world-class country he envisioned. The business parallel is clear: when you defeat or acquire a competitor, the instinct is to install your own people everywhere. But if the conquered organization has capabilities you lack, incorporating their talent — even giving them leadership positions — can leapfrog your culture forward. Toussaint's results speak for themselves: the only successful slave revolution in history, a booming economy, and Haiti briefly having more export revenue than the United States.

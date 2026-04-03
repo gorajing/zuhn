@@ -16,8 +16,6 @@
 - `INS-260323-53BF` Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260330-39D7` Sweating details that users never see installs a culture of precision that makes excellence self-reinforcing across the organization.
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain.
-- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
-- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-2691` Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
@@ -25,6 +23,8 @@
 - `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company.
 - `INS-260330-BF00` The Roman shift from citizen-soldiers to mercenary armies created a workforce with zero loyalty to the institution, directly accelerating collapse.
 - `INS-260330-B384` Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
+- `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
+- `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
 - `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
 - `INS-260325-8B36` Conflict between high performers with the same goal but different approaches produces better decisions — but only when the company, not ego, is at the center.
 - `INS-260325-7B58` Progress does not happen automatically — it happens when people choose to make it happen and believe it is both possible and desirable.
@@ -45,3 +45,4 @@
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260330-912C` Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
 - `INS-260330-A69C` Hire only when someone can do something you need done but can't do yourself — never hire to fill an org chart or seem impressive.
+- `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.

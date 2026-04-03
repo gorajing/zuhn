@@ -55,6 +55,16 @@ related:
   - INS-260330-AAE9
   - INS-260330-AD61
   - INS-260330-C477
+evidence:
+  - id: INS-260330-912C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-230D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7462
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Canada demonstrates how aggregate economic metrics mislead: GDP grew because population grew through high immigration, but GDP per capita didn't improve for a decade. This creates a political problem where leaders cite GDP growth while citizens experience stagnation or decline.
 

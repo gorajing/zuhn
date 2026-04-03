@@ -59,6 +59,16 @@ related:
   - INS-260327-B65A
   - INS-260327-A462
   - INS-260330-1B5E
+evidence:
+  - id: INS-260326-E411
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A462
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-1B5E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The colonists had a comprehensive intelligence network: every British troop movement was observed and reported by sympathetic civilians. Paul Revere's ride was just the most famous link in a chain of riders, signals, and watchers that tracked the British expedition in real time. Meanwhile, the British marched blind — the hostile population told them nothing, and their own intelligence was nonexistent.
 

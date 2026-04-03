@@ -57,5 +57,9 @@ related:
   - INS-260327-6916
   - INS-260330-29CE
   - INS-260330-968D
+evidence:
+  - id: INS-260330-968D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Growth hormone is the primary anti-aging hormone and releases in its largest pulse during the first 90 minutes of deep sleep. Seven habits that suppress it: 1) Eating within 3 hours of bed (insulin suppresses GH), 2) Blue light from screens (delays melatonin which triggers GH), 3) Alcohol (destroys deep sleep architecture despite sedation), 4) Insufficient room darkness (any light suppresses melatonin), 5) Sleeping on stomach (restricts breathing, reduces oxygen), 6) Caffeine after 2pm (half-life of 6 hours means bedtime residual), 7) Stressful content before bed (cortisol directly antagonizes GH). Fixes cost nothing: eat earlier, dim screens, blackout curtains, sleep on side or back.

@@ -44,5 +44,12 @@ related:
   - INS-260327-22E8
   - INS-260327-8EB7
   - INS-260327-33F7
+evidence:
+  - id: INS-260324-D612
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260324-C2B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Local butcher shops specializing in grass-fed, grass-finished meat provide full source traceability, fresher product, and access to organs and specialty cuts unavailable at grocery stores

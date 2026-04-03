@@ -52,5 +52,12 @@ related:
   - PRI-260322-DC5E
   - INS-260330-6B18
   - INS-260321-3312
+evidence:
+  - id: INS-260327-09D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260321-3312
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Spotify faced a classic cold-start problem: they couldn't convince record labels to license music without a working product, but couldn't build a working product without the music. Their solution was to illegally download hundreds of thousands of songs to create a compelling prototype. This pattern appears across platform businesses — you sometimes need to simulate the marketplace before you can legitimately build it. The key insight is that the prototype's purpose wasn't to operate illegally at scale, but to de-risk the negotiation by proving the concept worked. Once deals were signed, they ran 'the big clean' to remove pirated content. The willingness to operate in a gray area during the proof-of-concept phase, while having a clear path to legitimacy, distinguished Spotify from pure piracy services.

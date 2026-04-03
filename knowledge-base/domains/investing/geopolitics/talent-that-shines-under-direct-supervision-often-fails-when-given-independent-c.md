@@ -59,6 +59,13 @@ related:
   - INS-260327-3381
   - INS-260327-7C60
   - INS-260327-E9FC
+evidence:
+  - id: INS-260326-1CB1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-9E37
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Napoleon's marshals present a natural experiment in delegation: the same men performed brilliantly under Napoleon's personal direction but often failed in independent command. Soult was a capable corps commander under Napoleon but lost repeatedly to Wellington in Spain. Bernadotte was effective in combined operations but unreliable independently. Only Davout and Suchet consistently succeeded without Napoleon's oversight.
 

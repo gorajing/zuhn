@@ -52,5 +52,21 @@ related:
   - PRI-260328-AF97
   - INS-260330-EDDD
   - INS-260330-0149
+evidence:
+  - id: INS-260330-9E25
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E823
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0C31
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-EDDD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0149
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 All addictions share one mechanism: overstimulation causes dopamine receptor downregulation, requiring more stimulus for the same effect. Willpower fails because it fights the symptom, not the cause. The fix is dopamine fasting — extended periods without the stimulus allow receptors to upregulate (resensitize). For porn: 90-day reboot period. For sugar: strict elimination for 2-3 weeks. Supporting the process: exercise (produces natural dopamine), cold exposure (massive dopamine spike that lasts hours), adequate sleep, and B vitamins for dopamine synthesis. The key insight is that boredom and discomfort during fasting are signs of healing, not problems to solve.

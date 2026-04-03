@@ -49,5 +49,9 @@ related:
   - PRI-260328-FA83
   - INS-260329-C409
 stance: 'If US wins the cold war: S&P returns 8-10% annually'
+evidence:
+  - id: INS-260323-1643
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The trader's core thesis: US-based investing has positive expected value in both outcomes. If the US maintains hegemony, you get the historical 8-10%. If China supplants the US, China is pragmatic and business-oriented — they'd want a soft landing for the US consumption market (precedent: UK's transition to US hegemony, the FTSE still returns ~5%). Chinese stock markets are unreliable for foreign investors because the CCP can unilaterally intervene (Jack Ma/Ant Financial), dilute shares, or create state champions. US multinationals already give international exposure (Starbucks, McDonald's, Coca-Cola are in every country). International diversification funds historically underperform S&P 500 because money flows upward to the most powerful country.

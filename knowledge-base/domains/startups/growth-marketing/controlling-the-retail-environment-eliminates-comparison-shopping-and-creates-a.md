@@ -54,6 +54,10 @@ related:
   - INS-260327-7BE4
   - INS-260327-2437
   - INS-260327-0755
+evidence:
+  - id: INS-260327-2437
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Apple Stores eliminate everything that undermines premium pricing: no competitor products for comparison, no discount signage, no high-pressure sales. Instead, they create an experience — the Genius Bar, the open tables, the natural light, the staff who 'educate' rather than sell. The purchase becomes a ritual rather than a transaction. By the time the customer decides to buy, they've had an emotional experience that makes the price feel justified.
 

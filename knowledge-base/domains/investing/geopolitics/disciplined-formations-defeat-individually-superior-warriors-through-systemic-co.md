@@ -57,6 +57,10 @@ related:
   - INS-260327-2964
   - INS-260327-067D
   - INS-260327-19D2
+evidence:
+  - id: INS-260326-1CB1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Mamluk warriors trained from childhood to be the world's finest individual horsemen. In single combat, they were unmatched. But they charged as individuals against disciplined French infantry squares — organized formations where every soldier covered his neighbor. The system defeated the individuals decisively. Mamluk martial excellence was irrelevant against a coordinated system designed to neutralize it.
 

@@ -59,6 +59,10 @@ related:
   - INS-260326-E411
   - INS-260327-3F8B
   - INS-260327-80AD
+evidence:
+  - id: INS-260330-35E2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Belisarius conquered the Vandal kingdom in North Africa with just 15,000 men against a kingdom with 80,000+ warriors. He later fought the Gothic kingdom in Italy with similarly tiny forces. His key advantages were professional training, unified command, and personal loyalty of his household troops (bucellarii). His opponents had larger numbers but divided leadership, inconsistent training, and tribal politics that prevented unified action.
 

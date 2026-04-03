@@ -56,6 +56,13 @@ related:
   - INS-260327-768D
   - INS-260327-A75C
   - PRI-260328-79DA
+evidence:
+  - id: INS-260327-768D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-E30A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The video notes that Hamas gained support 'partly because of its militancy, but mostly because of its social welfare projects in Gaza — it built and staffed schools, mosques, and clinics.' This illustrates a pattern seen across movements worldwide: tangible service provision creates reciprocity and dependency that ideological commitment alone cannot match. People support organizations that visibly improve their daily lives.
 

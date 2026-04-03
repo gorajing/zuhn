@@ -58,6 +58,10 @@ related:
   - INS-260327-B038
   - INS-260330-35E2
   - INS-260327-7C60
+evidence:
+  - id: INS-260330-35E2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Marshal Davout was unique among Napoleon's marshals: he could command an independent force and win against the odds without Napoleon's guidance. At Auerstedt, his single corps (27,000) defeated the main Prussian army (50,000) on the same day Napoleon fought the secondary Prussian force at Jena. This level of independent competence was extraordinarily rare — most marshals needed Napoleon's direct oversight to perform well.
 

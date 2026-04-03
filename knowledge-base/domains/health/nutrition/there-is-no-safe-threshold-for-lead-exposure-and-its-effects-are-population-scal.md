@@ -67,6 +67,22 @@ related:
   - INS-260330-4F7B
   - INS-260330-BA54
   - INS-260327-61F5
+evidence:
+  - id: INS-260326-8B81
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8D4F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-99D1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-BEF8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4F7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Lead's danger mechanism is uniquely insidious: it mimics calcium in the body, so there's no efficient elimination pathway, and it accumulates in bones where it can continue poisoning for years. It breaks down myelin sheaths around axons and prevents neurotransmitter release, causing permanent cognitive and behavioral damage — especially in children.
 

@@ -55,6 +55,10 @@ related:
 stance: >-
   The Danaher Death Squad split — the most talented grappling team in history
   breaking apart — illustrates that no amount of collective talent surviv...
+evidence:
+  - id: INS-260327-A00A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The B-Team members describe the DDS split with a mix of fondness and clear boundaries. Craig Jones misses specific aspects — John Danaher's behind-the-scenes humor, the depth of training partners — but acknowledges that 'the negative things outweighed all of those things.' The split happened because personal problems became intolerable, not because the team lacked talent or results.
 

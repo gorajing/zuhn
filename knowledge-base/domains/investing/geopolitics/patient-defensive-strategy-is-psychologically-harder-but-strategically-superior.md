@@ -59,6 +59,10 @@ related:
   - PRI-260328-43D8
   - INS-260327-3F8B
   - INS-260327-719D
+evidence:
+  - id: INS-260327-088D
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Wellington's Peninsular strategy was deeply unpopular in London. Politicians and the press demanded aggressive action and decisive battles. But Wellington understood that his small Anglo-Portuguese army couldn't afford heavy losses far from reinforcement, while the French could. His strategy was deliberately defensive: force the French to attack prepared positions, deny them supply, and let attrition do the work. It took years, but it worked — French armies in Spain were gradually bled white.
 

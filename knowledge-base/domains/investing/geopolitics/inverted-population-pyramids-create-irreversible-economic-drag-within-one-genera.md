@@ -62,6 +62,13 @@ related:
   - INS-260323-DA6F
   - INS-260327-F93A
   - INS-260325-A46E
+evidence:
+  - id: INS-260330-777A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-A46E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 China's one-child policy created an extreme version of the dependency ratio problem: a massive cohort of elderly parents supported by a much smaller cohort of working-age children. By 2050, China is projected to have roughly 2 retirees for every 3 workers, compared to the 1:5 ratio it enjoyed during its economic boom. This isn't just a budget problem — it fundamentally constrains economic output, savings rates, and innovation capacity.
 

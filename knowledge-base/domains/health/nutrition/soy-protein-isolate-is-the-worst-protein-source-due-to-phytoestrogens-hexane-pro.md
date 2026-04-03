@@ -44,5 +44,18 @@ related:
   - INS-260330-E039
   - INS-260330-EB48
   - INS-260330-7B11
+evidence:
+  - id: INS-260330-0B4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E039
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-EB48
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-7B11
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Soy protein isolate undergoes hexane extraction, contains concentrated phytoestrogens that disrupt hormonal function, and is almost entirely from GMO soybeans -- making it the worst commercial protein source

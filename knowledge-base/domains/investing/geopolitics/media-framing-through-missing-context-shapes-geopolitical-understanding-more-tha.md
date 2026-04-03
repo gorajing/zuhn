@@ -54,6 +54,10 @@ related:
 stance: >-
   El-Kurd shows that media coverage of geopolitical conflicts misleads not
   through fabrication but through systematic omission of essential context.
+evidence:
+  - id: INS-260330-795D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 El-Kurd identifies a pattern in media coverage that extends far beyond the Palestinian conflict: the most effective form of narrative control is not lying but selectively omitting context. Headlines about 'Palestinians living in homes built illegally' omit that 95% of building permits are rejected by design. Reports about 'Palestinians living in firing zones' omit that those zones were deliberately classified to enable displacement.
 

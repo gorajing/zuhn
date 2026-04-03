@@ -48,5 +48,21 @@ related:
   - INS-260327-FEB7
   - INS-260322-3A00
   - INS-260327-1439
+evidence:
+  - id: INS-260324-988E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-4F94
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-415B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-FEB7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260322-3A00
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Drug companies spend millions paying health influencers to create seemingly organic content promoting pharmaceuticals, with disclosure requirements frequently violated or buried in fine print

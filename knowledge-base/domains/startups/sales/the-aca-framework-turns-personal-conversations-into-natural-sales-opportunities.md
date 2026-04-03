@@ -63,5 +63,8 @@ evidence:
   - id: INS-260320-26B1
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-72EF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The ACA framework structures warm conversations into three phases: acknowledge something specific about the person (e.g., 'you have two kids'), compliment them on it ('you must be a super mom balancing work and family'), then ask a question that ties to your service ('how do you find time to eat right and work out?'). The critical insight is that you never directly sell — you ask if they know anyone who might benefit. This referral-first approach removes the psychological friction of soliciting friends. When someone says 'actually, I'd like to know more,' they've self-selected from lead to engaged lead, making the subsequent conversation about your service feel like their idea rather than your pitch.

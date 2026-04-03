@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-64A4
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-3675
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Historical and modern evidence consistently shows censorship is self-defeating. The Romans' execution of Jesus was instrumental in creating Christianity, which grew larger than Judaism. Athens' execution of Socrates cemented his status as the most eminent philosopher of all time. Barbra Streisand's attempt to remove a photo of her mansion turned it from hundreds of viewers into millions.
 

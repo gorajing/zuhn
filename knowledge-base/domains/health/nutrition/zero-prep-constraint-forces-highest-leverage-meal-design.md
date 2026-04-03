@@ -50,5 +50,9 @@ related:
   - INS-260329-21C6
   - INS-260330-EBE9
   - INS-260325-0A8A
+evidence:
+  - id: INS-260329-21C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi ate the same zero-prep meals daily for years (salmon on Ezekiel bread for 2+ years, egg whites with Hershey syrup repeatedly). The key insight is that the binding constraint on nutrition isn't knowledge or even willpower — it's friction. By reducing meal prep to literally opening containers and mixing (Greek yogurt + Crystal Light + cereal, egg whites + chocolate syrup, canned tuna + yogurt + mustard), he removed the decision fatigue and time cost that causes most people to default to fast food. This is a constraint-driven design pattern: by making the 'zero prep' rule non-negotiable, you force creative solutions that happen to be sustainable. The parallel to software engineering's 'convention over configuration' is striking — rigid constraints produce more consistent outcomes than flexible-but-complex systems.

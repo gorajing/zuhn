@@ -54,6 +54,10 @@ related:
   - INS-260327-C834
   - PRI-260321-0A4D
   - INS-260327-99DF
+evidence:
+  - id: INS-260323-5A96
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Peter Zeihan highlights that the Trump administration made 600+ tariff changes since January 20, creating an environment where no business can predict tomorrow's policy landscape. Industrial construction spending turned negative not primarily because tariffs are high, but because they are unpredictable. Businesses need some minimum planning horizon to justify putting capital into the ground for projects that take years to complete.
 

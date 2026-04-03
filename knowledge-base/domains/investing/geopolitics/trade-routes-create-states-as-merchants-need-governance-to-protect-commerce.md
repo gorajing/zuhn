@@ -53,6 +53,10 @@ related:
   - INS-260327-0876
   - INS-260330-DA4A
   - INS-260327-38B8
+evidence:
+  - id: INS-260330-DA4A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Rurikid dynasty that founded Russia started as Viking merchants trading along the river routes from the Baltic to Constantinople. They established fortified posts to protect their trade, which attracted settlers, which required governance, which created the first Russian states (Novgorod, Kiev). The state literally grew out of commerce infrastructure.
 

@@ -55,5 +55,8 @@ evidence:
   - id: INS-260327-33E0
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-03DD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When PG started YC, critics called it a 'baseball team of the worst players' that would fund all the bad startups. His counter was that success is not zero-sum — there is not a fixed number of successful startups per year. More funding creates more abundance. He was proven right: Reddit, Twitch, and many others wouldn't exist without YC — there's no parallel universe where another investor funded them. Dalton applies this same thesis to Standard Capital: funding more great founders at Series A will create more wealth, not cannibalize other VC firms. The zero-sum mindset is 'disappointing' given that positive-sum thinking is literally why tech exists.

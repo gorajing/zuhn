@@ -53,6 +53,16 @@ related:
 stance: >-
   W.R. Grace lobbied regulators to define asbestos contamination below 1% as
   'asbestos-free'
+evidence:
+  - id: INS-260323-07BE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C761
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-AFAD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The 'Grace Rule' established that products with less than 1% asbestos would not be regulated. This single definitional victory meant that contaminated vermiculite insulation — used in the World Trade Center and millions of homes — was legally marketed as 'asbestos-free.' The detection method (PLM) was also conveniently unable to detect fibers below the 1% threshold.
 

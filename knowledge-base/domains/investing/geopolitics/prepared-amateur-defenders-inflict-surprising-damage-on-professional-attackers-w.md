@@ -57,6 +57,10 @@ related:
   - INS-260327-8BFF
   - INS-260327-C0C5
   - INS-260327-B9BA
+evidence:
+  - id: INS-260326-8189
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 British generals at Bunker Hill dismissed the colonial militia as untrained rabble and ordered frontal assaults up a fortified hill. The result was devastating: over 1,000 British casualties including a disproportionate number of officers, against defenders with minimal military training. The colonists' advantages — prepared positions, high ground, knowledge of the terrain, and fighting for their homes — compensated for their lack of professional training.
 

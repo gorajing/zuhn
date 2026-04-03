@@ -56,6 +56,10 @@ related:
   - INS-260330-E6B7
   - INS-260330-C391
   - INS-260329-75B6
+evidence:
+  - id: INS-260321-13EA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Stanley Tang describes DoorDash's origin: after interviewing 150-200 small business owners about delivery pain points, they built paloaltodelivery.com in about an hour — a static page with PDF menus and their personal cell phone number. No backend, no drivers, no dispatch system. When the first call came, they personally drove to pick up and deliver the food. They used Square for payments, Google Docs for order tracking, and Apple's Find My Friends to track drivers.
 

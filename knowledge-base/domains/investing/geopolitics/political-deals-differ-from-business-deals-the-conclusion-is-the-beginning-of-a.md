@@ -53,6 +53,19 @@ related:
   - INS-260329-3D14
   - INS-260330-CCD8
 stance: In business you solve a problem and move on
+evidence:
+  - id: INS-260325-898A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-E7B8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-3D14
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-CCD8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Kushner identifies a fundamental difference between business and political deal-making that most people miss. In business, you negotiate, buy or sell, and the transaction is complete. In political deals (especially foreign policy), the signing ceremony is not the end — it's the beginning of a new paradigm. You have to think about what happens the day after the signing and design the deal to create positive momentum.
 

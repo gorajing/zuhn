@@ -58,6 +58,16 @@ related:
   - INS-260327-E2F2
   - PRI-260325-654D
   - INS-260329-565E
+evidence:
+  - id: INS-260327-34EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-565E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video contains surprisingly specific micro-techniques for food texture: sprinkle cereal on top of yogurt in layers so it stays crunchy rather than mixing it in where it gets soggy. Keep cream cheese cold and separate from hot toast so neither becomes lukewarm. Mash salmon into bite-sized pieces so it doesn't tear off the bread in one sheet.
 

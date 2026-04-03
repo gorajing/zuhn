@@ -57,6 +57,10 @@ related:
   - INS-260330-B966
   - INS-260330-968D
   - INS-260330-2311
+evidence:
+  - id: INS-260330-C89D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Huberman introduces 'linchpin habits' — behaviors you already enjoy that make a cascade of other, harder habits easier to execute. The mechanism is not motivational or psychological willpower; it's neurochemical. Exercise, for example, elevates norepinephrine and dopamine, which directly reduces the limbic friction barrier for subsequent behaviors like healthy eating, focused work, or good sleep hygiene.
 

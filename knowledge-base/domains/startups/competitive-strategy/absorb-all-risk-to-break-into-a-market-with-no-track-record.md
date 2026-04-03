@@ -51,5 +51,13 @@ related:
   - INS-260323-E9E4
   - INS-260330-049B
   - INS-260330-43CF
+  - INS-260403-0406
+evidence:
+  - id: INS-260327-978B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-2DF7
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 At 19, with no investors and no customers, this founder couldn't convince advertisers to pay upfront for his ad tech platform. His breakthrough: offering performance-based pricing where advertisers only paid for results. The startup absorbed all the risk. This counterintuitive move — accepting maximum downside — was the fastest path to proving value and acquiring customers. Once the performance data proved the model worked, the power dynamic flipped from 'begging for money' to 'them begging me to take their money.' The principle applies broadly: when you have zero credibility, absorb the customer's risk to get the first foothold.

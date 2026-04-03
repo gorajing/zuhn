@@ -53,5 +53,8 @@ evidence:
   - id: INS-260321-2241
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-7DA5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Conventional business wisdom says avoid competition. But across BBQ markets, more competitive states have lower failure rates because deep demand sustains more businesses. Texas (7.3 spots per 100K) has exactly 33% failure. California, New York, and Florida — less crowded but with lower cultural demand — have higher failure rates. Outside the South, BBQ is a treat not tradition, meaning lower baseline demand. The insight generalizes: entering a market with deep, established demand gives you better survival odds than entering an 'empty' market where demand hasn't been proven.

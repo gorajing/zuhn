@@ -60,6 +60,10 @@ related:
   - INS-260327-E4A1
   - INS-260327-99DF
   - INS-260327-65E7
+evidence:
+  - id: INS-260330-F5D1
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 After Trafalgar, no nation seriously challenged British naval supremacy for a century. This single capability — control of the seas — compensated for every other British weakness: small army, limited continental influence, vulnerability to invasion. Naval supremacy enabled global trade, colonial expansion, and the ability to project power anywhere. One overwhelming advantage created a century of dominance.
 

@@ -49,5 +49,12 @@ related:
   - INS-260325-E538
   - INS-260327-4CF4
   - INS-260329-4161
+evidence:
+  - id: INS-260327-4CF4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-E538
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When yogurt stores accidentally ran out of small cups, they discovered sales jumped 20-30%. The mechanism is twofold: first, people anchor to the default container size and fill proportionally — a small amount in a large cup 'looks weird,' so they add more. Second, by removing the small option entirely, the business shifts the choice from 'small vs medium vs large' to 'medium vs large,' eliminating the cheapest anchor point. This is pure choice architecture: the power of the default option means that whatever you present as standard becomes the baseline. Hormozi connects this to broader sales psychology — assumed closes, presenting only premium options, and structuring choices to exclude the minimum. The tactic works in any self-serve context where the container or package frames the purchase.

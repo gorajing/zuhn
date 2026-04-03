@@ -54,12 +54,12 @@ stance: >-
   formation, and your city determines the menu of jobs, partners, friends, and
   ideas available to you.
 related:
-  - INS-260330-DD63
   - INS-260330-ACCD
   - INS-260330-73C1
   - INS-260330-BBE7
+  - INS-260403-5BFB
+  - INS-260330-DD63
   - INS-260330-DDF0
-  - INS-260327-F417
 ---
 The article presents converging evidence that geographic location is the single most actionable network variable. Cities exhibit nonlinear scaling — as population grows, citizens get 15% more income, ideas, and stimulation while infrastructure costs 15% less per capita. Physical proximity drives network formation frequency, and most people end up working and living near their college geography.
 

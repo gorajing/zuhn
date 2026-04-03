@@ -60,6 +60,10 @@ related:
   - INS-260330-B284
   - INS-260327-1EC6
   - INS-260330-3BBD
+evidence:
+  - id: INS-260330-B284
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 A California oil company's speculative drilling in Saudi Arabia in 1938 cascaded into the most consequential geopolitical entanglement of the 20th century. The sequence: oil discovery led to American worker communities, which led to military base requests, which led to the oil-for-security bargain with the Saudi royal family. Each step made the next inevitable.
 

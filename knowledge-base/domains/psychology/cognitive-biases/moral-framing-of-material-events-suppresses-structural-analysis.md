@@ -60,6 +60,16 @@ related:
   - INS-260330-B8B0
   - INS-260330-14E1
   - INS-260330-5BEB
+evidence:
+  - id: INS-260325-793A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-6AD5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-25AD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When the Mandate of Heaven framework encounters a natural disaster followed by a peasant uprising, it concludes: the emperor behaved immorally, so Heaven sent floods, which caused rebellions. A structural analysis would reverse the causation: floods caused famine, famine caused uprisings, uprisings caused regime change. The moral framing makes the individual emperor the unit of analysis rather than the system.
 

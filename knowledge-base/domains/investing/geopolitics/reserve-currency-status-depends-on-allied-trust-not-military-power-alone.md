@@ -59,6 +59,13 @@ related:
   - INS-260329-9EFA
   - INS-260329-DFDD
   - PRI-260324-2A76
+evidence:
+  - id: INS-260329-9EFA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-DFDD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Goldberg makes the counterintuitive argument that the biggest threat to dollar reserve status isn't China's financial ambitions but rather the US alienating its own allies. He points out that 'China doesn't want the dollar to be the reserve currency' but 'Europeans and the Japanese go along with it because they're our allies and they're part of the international order we created.'
 

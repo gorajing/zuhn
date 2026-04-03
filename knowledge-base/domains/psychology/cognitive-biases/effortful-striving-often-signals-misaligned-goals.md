@@ -55,6 +55,7 @@ related:
   - INS-260328-F1D2
   - INS-260328-A57D
   - INS-260330-9197
+  - INS-260403-449A
 ---
 The cultural assumption is that difficulty means you're not trying hard enough. Dostoevsky suggests an alternative: persistent extreme difficulty may signal misalignment rather than insufficient effort. The right path isn't always easy, but the wrong path is consistently and unsustainably hard.
 

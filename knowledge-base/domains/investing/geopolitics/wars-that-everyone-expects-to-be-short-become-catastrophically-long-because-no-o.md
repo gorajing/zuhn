@@ -58,6 +58,13 @@ related:
   - INS-260327-A072
   - PRI-260328-FA83
   - INS-260327-FA38
+evidence:
+  - id: INS-260327-088D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-5C69
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In August 1914, every government and general staff expected a short war — 'home by Christmas.' No nation had stockpiled for a multi-year industrial conflict. When the war didn't end quickly, armies ran out of ammunition, economies couldn't pivot to war production fast enough, and populations weren't psychologically prepared for years of sacrifice. The failure to plan for endurance multiplied every subsequent problem.
 

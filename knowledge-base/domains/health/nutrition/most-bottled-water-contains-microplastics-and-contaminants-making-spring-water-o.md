@@ -53,5 +53,12 @@ related:
   - INS-260327-C13D
   - INS-260330-242E
   - INS-260327-8E22
+evidence:
+  - id: INS-260327-7F1B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-C13D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Studies find that bottled water contains 10-100x more microplastic particles than tap water due to plastic packaging degradation. Additional contaminants include BPA/BPS from plastic, PFAS (forever chemicals), and disinfection byproducts. Saladino's water hierarchy: 1) Natural spring water in glass bottles (e.g., Mountain Valley Spring Water), 2) Home reverse osmosis system with remineralization (removes 99% of contaminants but also removes minerals — must add back), 3) Filtered tap water (carbon block filters remove chlorine and some contaminants but not all). Avoid: all plastic-bottled water, alkaline water (artificially alkalinized, no proven benefit), and unfiltered tap water (chlorine, fluoride, pharmaceutical residues).

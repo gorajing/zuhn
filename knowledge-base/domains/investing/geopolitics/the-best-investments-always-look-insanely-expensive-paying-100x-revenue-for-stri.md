@@ -58,6 +58,31 @@ related:
 stance: >-
   Every round of Facebook, Stripe, and similar companies was called 'insane' by
   consensus
+evidence:
+  - id: INS-260330-007E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-94F5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1002
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-4440
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-10CF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-2040
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-7AF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260328-AA1F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 At each funding round, consensus declared the valuations were insane: Facebook at $100M was crazy, at $500M Greylock was 'stupid,' and Yuri Milner investing at $5B in common stock was 'dumb.' In hindsight, all were brilliant. Paying 100x revenue for Stripe in 2011-2012 seemed absurd. The best companies always look like you're paying too far ahead.
 

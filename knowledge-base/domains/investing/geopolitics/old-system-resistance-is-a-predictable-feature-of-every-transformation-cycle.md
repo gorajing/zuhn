@@ -50,6 +50,16 @@ related:
   - INS-260326-2C4E
   - INS-260330-D661
   - PRI-260328-7EA5
+evidence:
+  - id: INS-260325-6A35
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260326-2C4E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D661
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In every 80-year cycle, those who benefit from the old system resist its replacement with extreme intensity. Southern slaveholders seceded and fought a civil war rather than accept economic transformation. 1930s America First movements fought the New Deal. Today, oil economies and carbon-dependent regions resist clean energy transition.
 

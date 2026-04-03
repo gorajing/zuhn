@@ -56,6 +56,10 @@ related:
   - INS-260327-DC45
   - INS-260326-E411
   - INS-260327-B038
+evidence:
+  - id: INS-260326-E411
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Desaix wasn't ordered to march toward the battle. He heard the guns, assessed the situation, and made the decision to march toward the fighting on his own initiative. This independent judgment — acting on the commander's probable intent rather than waiting for explicit orders — saved Napoleon's army and won the battle. In the time it would have taken to send for orders and receive a reply, the battle would have been lost.
 

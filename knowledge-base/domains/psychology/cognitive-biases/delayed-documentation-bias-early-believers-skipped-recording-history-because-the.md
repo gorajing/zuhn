@@ -57,6 +57,10 @@ related:
   - INS-260327-F7FE
   - INS-260330-2784
   - PRI-260328-E1CE
+evidence:
+  - id: INS-260327-F7FE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The video notes that no one bothered to document Jesus's life for several decades after his death, because followers expected the new everlasting kingdom to arrive imminently. When it became clear the timeline was longer, the Gospels were written — but by then, decades of oral transmission had shaped the narrative through selection, emphasis, and interpretation.
 

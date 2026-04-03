@@ -55,5 +55,8 @@ evidence:
   - id: INS-260323-DA85
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-4046
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Soohyun draws a sharp distinction: joining a company is career development, but founding one is a career reset. Everything you built — title, salary, network position, domain expertise recognition — gets wiped clean. You start from zero with a new identity. This framing helps potential founders make honest assessments about their readiness. It also explains why many successful employees fail as founders — they expect their previous career capital to transfer, but founding requires building entirely new capital from scratch.

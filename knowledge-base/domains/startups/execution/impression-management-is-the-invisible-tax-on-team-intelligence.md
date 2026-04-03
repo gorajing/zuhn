@@ -47,11 +47,11 @@ stance: >-
   incompetent, intrusive, or negative — this silent self-protection
   systematically suppresses the information teams need most.
 related:
+  - INS-260403-2CA3
   - INS-260322-AB55
   - INS-260327-9BFD
   - INS-260330-141E
   - INS-260327-4367
-  - INS-260323-6BF4
 ---
 Edmondson identifies four fears that drive workplace silence: looking ignorant (don't ask questions), looking incompetent (don't admit mistakes), looking intrusive (don't offer ideas), and looking negative (don't challenge the status quo). This impression management is learned in grade school and becomes second nature by adulthood.
 

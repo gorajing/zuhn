@@ -55,6 +55,13 @@ related:
 stance: >-
   Tracing performer credits — guitarist, drummer, mixing engineer — through
   Discogs, Genius, and artist Instagram feeds uncovers hidden creative netw...
+evidence:
+  - id: INS-260322-5E5D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-CCD4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When you hear a guitar tone, drum pattern, or production texture you love, the next step is credit tracing: finding who performed it, then exploring everything else they have played on. This uncovers creative networks that no algorithm can surface because it follows human collaboration patterns rather than sonic similarity.
 

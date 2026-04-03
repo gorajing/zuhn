@@ -60,6 +60,25 @@ related:
   - INS-260330-13EE
   - INS-260330-4088
   - INS-260330-DD9C
+evidence:
+  - id: INS-260323-3982
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-58B9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260325-5A93
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-13EE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4088
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-DD9C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Marshal Bernadotte was Napoleon's most politically ambitious marshal: he maintained relationships with republicans, royalists, and Napoleonists simultaneously. This hedging strategy frustrated Napoleon but made Bernadotte invaluable to everyone — no one wanted him as an enemy. When Sweden needed a new heir, Bernadotte's reputation for being independent of Napoleon (while still being a capable French marshal) made him the perfect candidate. He became King of Sweden and founded a dynasty that still reigns today.
 

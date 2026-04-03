@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 119 insights
+> 120 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -25,6 +25,7 @@
 - `INS-260327-4F8C` [high] Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
 - `INS-260327-B715` [high] Cruise lines earn higher margins than airlines because the ship is a captive-market platform where all spending occurs w
 - `INS-260324-E785` [high] A flight from NYC to Barcelona takes 8 hours; by ship it's 8-10 days — so cruises compete on spectacle: restaurants, water parks, casinos, Broadway shows, unlimited drinks, and bottomless pizza.
+- `INS-260403-C681` [high] Waze's CEO argues data is only worth what you sold it for — the widespread startup belief that 'having a lot of data is valuable' is fundamentally wrong without a specific value-creation mechanism.
 - `INS-260324-358F` [high] Diners have survived unchanged since the 1940s because their customers don't want artisan bread and organic eggs — they want processed cheese, fake butter, and frozen hash browns served consistently at any hour.
 - `INS-260327-0A6B` [high] Diner businesses survive market cycles because they serve fundamental human needs (affordable food, community gathering,
 - `INS-260327-048B` [high] Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.

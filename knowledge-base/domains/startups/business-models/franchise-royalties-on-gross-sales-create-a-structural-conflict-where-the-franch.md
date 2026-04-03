@@ -60,6 +60,10 @@ related:
   - INS-260329-2EAA
   - INS-260330-EDAC
   - INS-260330-A561
+evidence:
+  - id: INS-260327-1F4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The franchiser-franchisee dynamic contains a structural conflict that most analyses overlook. Burger King corporate collects royalties as a percentage of gross sales -- they're incentivized to maximize the top line regardless of margins. Franchisees, however, live and die on net income. When Burger King mandated $1 Whopper Jrs and $1 double cheeseburgers during the Great Recession, corporate maintained its royalty stream while franchises bled money on every sale.
 

@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 55 insights
+> 56 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
@@ -49,6 +49,7 @@
 - `INS-260321-E471` [high] Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` [high] Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260322-A9DE` [high] Real pain points only surface through direct immersion with users in their actual environment — traveling to parks, teaching in schools, and riding overnight buses reveals what desk research never will.
+- `INS-260403-363C` [medium] Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260330-69C6` [medium] The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260321-4B38` [medium] Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.
 - `INS-260328-6F5B` [medium] YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.

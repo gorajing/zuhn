@@ -61,6 +61,9 @@ evidence:
   - id: INS-260328-E410
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-7182
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 If you're not going to fire lawyers (and most CFOs don't want to), the question becomes: what DID the AI investment buy? The most promising metric is interdepartmental responsiveness — a behavioral SLA measuring whether departments that adopted AI tools respond faster and handle more requests from other departments.
 

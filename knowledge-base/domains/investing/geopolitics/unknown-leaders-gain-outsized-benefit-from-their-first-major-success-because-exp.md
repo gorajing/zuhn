@@ -57,6 +57,22 @@ related:
   - INS-260327-18D4
   - INS-260323-2040
   - INS-260329-B194
+evidence:
+  - id: INS-260327-0F42
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-E093
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-18D4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-2040
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-B194
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When Napoleon took command in Italy, he was an unknown 26-year-old appointed through political connections. His army was demoralized and the campaign was a sideshow to the main effort in Germany. Nobody expected anything. When he then won a string of spectacular victories, the surprise factor amplified the impact enormously. If a famous general had achieved the same results, it would have been impressive but expected. From an unknown, it was revolutionary.
 

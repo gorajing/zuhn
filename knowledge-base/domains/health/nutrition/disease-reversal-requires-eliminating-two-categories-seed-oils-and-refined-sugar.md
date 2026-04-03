@@ -61,6 +61,10 @@ related:
   - INS-260327-A7D0
   - INS-260327-D17A
   - INS-260327-584E
+evidence:
+  - id: INS-260327-584D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The disease reversal blueprint reduces to two core eliminations and one addition. Eliminate: (1) Seed oils, which damage mitochondria through linoleic acid accumulation causing proton leak and reduced ATP. (2) Refined sugar/HFCS, which causes gut dysbiosis and endotoxemia driving inflammatory insulin resistance.
 

@@ -51,8 +51,8 @@ related:
   - INS-260329-3392
   - INS-260330-5036
   - INS-260330-59DC
+  - INS-260403-99B1
   - INS-260329-4EF5
-  - INS-260322-8D47
 ---
 At the earliest stage of a business, referrals from happy users have an outsized impact compared to any other growth channel. Hormozi's framework treats the first few free customers not just as users but as distribution nodes. Each one who has a genuinely good experience becomes a warm introduction to their network, which carries the same trust advantage as your original warm outreach but at one degree of separation.
 

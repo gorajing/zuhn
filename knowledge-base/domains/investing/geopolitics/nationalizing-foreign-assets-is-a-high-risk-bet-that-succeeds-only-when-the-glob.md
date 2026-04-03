@@ -57,6 +57,13 @@ related:
   - INS-260325-AC52
   - INS-260327-E9FC
   - INS-260330-1183
+evidence:
+  - id: INS-260324-0A26
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260325-AC52
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Nasser's nationalization was a calculated gamble: he seized the Canal knowing Britain and France would be furious, but betting that the Cold War dynamics would prevent them from responding effectively. He was right — the superpowers had their own interests in limiting European colonial power, and neither would support British military action. Nasser read the shifting power balance correctly and acted in the window where the old powers were weakened but hadn't yet fully adjusted to their new reality.
 

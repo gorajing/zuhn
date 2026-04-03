@@ -60,6 +60,13 @@ related:
   - PRI-260328-A4AC
   - PRI-260328-8284
   - INS-260330-DD10
+evidence:
+  - id: INS-260327-C834
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-26D3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Levie describes a pattern-matching framework for startup timing: track the raw enabling technologies (cost of computing, storage, bandwidth, device form factors) and compare them against how industries currently operate. When the gap between what's technically possible and what's actually being done is at its widest, that's the window for a startup.
 

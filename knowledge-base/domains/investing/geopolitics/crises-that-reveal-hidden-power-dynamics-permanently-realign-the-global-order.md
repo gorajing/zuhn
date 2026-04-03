@@ -48,11 +48,27 @@ stance: >-
   hold power) create permanent realignments because they destroy the fiction
   that maintained the old order.
 related:
+  - INS-260403-6428
   - INS-260323-1871
   - INS-260330-3A0D
   - INS-260330-CB2E
   - INS-260330-E2F5
-  - INS-260330-ACE7
+evidence:
+  - id: INS-260323-1871
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3A0D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CB2E
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-E2F5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-ACE7
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Before Suez, Britain maintained the fiction of being a first-rank power. Everyone suspected otherwise, but the fiction had institutional momentum. Suez shattered that fiction publicly: the whole world watched Britain submit to American financial pressure. After that, no one — including the British themselves — could pretend otherwise. The power transition was already real; Suez just made it undeniable.
 

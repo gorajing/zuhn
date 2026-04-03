@@ -53,6 +53,16 @@ related:
   - PRI-260328-26AA
   - INS-260330-09DE
   - INS-260330-4746
+evidence:
+  - id: INS-260330-3E6F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-09DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4746
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Australia's median household is twice as wealthy as America's, but this impressive figure conceals dangerous fragility. The country ranks 102nd out of 146 in economic complexity - lower than Uganda - because its exports are almost exclusively unprocessed natural resources and livestock. This has fallen from the top 30 in the 1950s.
 

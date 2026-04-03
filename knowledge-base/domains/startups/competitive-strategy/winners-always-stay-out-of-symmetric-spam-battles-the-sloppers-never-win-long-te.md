@@ -62,5 +62,8 @@ evidence:
   - id: INS-260324-72E8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260321-3808
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dalton and Michael trace the 'slop playbook' across every major tech wave: Web 2.0 SEO spam farms (gamed Google, made money briefly, then algorithm changed and they died), early App Store crap (lightsaber apps, subscription scams that end activity after 30 days), crypto ICOs (companies that had real product seeds but chose to dump on retail instead of building). Each followed what they call a 'turkey graph' — steady improvement then sudden death, like the life of a turkey that thinks things are getting better every day until Thanksgiving. The current AI slop war has the same dynamics: if your competitor is spamming features and your response is to 'spam harder,' you're in an arms race to create the most garbage. Historical back-testing shows winners in every space stayed out of symmetric spam battles. The platform sellers (Facebook in social, Apple in apps, Google in search) always won, not the sloppers.

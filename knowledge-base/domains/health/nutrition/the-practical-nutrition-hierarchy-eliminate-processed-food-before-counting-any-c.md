@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-E2F1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-21C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The 4-step hierarchy matters because most people 'argue about the roof when the foundation is cracking.' Step 1: Cut the crap (one-ingredient rule). Step 2: Lock in protein (most satiating nutrient, triggers GLP-1 fullness signal naturally). Step 3: Adjust carb/fat ratio based on activity level. Step 4: Fill gaps with targeted supplements based on blood work.
 

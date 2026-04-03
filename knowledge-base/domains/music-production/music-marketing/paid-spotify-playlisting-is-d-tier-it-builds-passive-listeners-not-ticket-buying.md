@@ -56,5 +56,18 @@ related:
   - PRI-260322-DC5E
   - INS-260327-6D58
   - INS-260327-B387
+evidence:
+  - id: INS-260320-DADA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-F2DF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-6D58
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B387
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The DJ gives Spotify playlisting services his only D-tier rating based on personal experience across multiple companies and budget levels. The problems: (1) Rampant scams with botted listeners from other countries visible in your data, (2) Even legitimate placements produce passive listeners who won't buy tickets or merch, (3) No way to verify playlist quality reliably, (4) Songs that truly succeed always catch on organically first. The exceptions: record label-owned playlists that place your song in top spots (these have real, engaged listeners), and organic playlist swaps with DJ/musician peers whose audiences you trust. His ranking philosophy throughout: strategies are scored by how well they build real, organic, loyal fans who will buy tickets and come to shows — not just inflate stream counts.

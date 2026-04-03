@@ -65,5 +65,8 @@ evidence:
   - id: INS-260329-3CB6
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-F479
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Wolfram makes a profound point: if we want to make the most efficient use of computational resources, we will inevitably run into computational irreducibility. This means the systems that are most useful are precisely the ones we cannot fully understand or predict. We manage this already — we use materials, biological systems, and chemical processes without fully understanding their internal operations. The AI parallel is that insisting on full interpretability before deployment is like insisting on understanding every molecular interaction before using a new material. The main point is that computational irreducibility guarantees we will be using things where we don't know and can't know how they work inside. The question is not whether to accept black-box systems, but how to build robust practices around systems we cannot fully explain.

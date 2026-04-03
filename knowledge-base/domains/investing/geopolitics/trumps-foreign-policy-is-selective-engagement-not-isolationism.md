@@ -39,7 +39,6 @@ resolutions:
     resources to project power in the Indo-Pacific, where the US most wants
     'nothing to happen' — which requires credible deterrence against China.
 related:
-  - INS-260321-9E91
   - PRI-260324-3AAE
   - INS-260330-217C
   - INS-260327-C7BF
@@ -48,6 +47,16 @@ related:
   - INS-260330-6689
   - INS-260330-9E26
 stance: Trump's NSS strategy is not isolationism but selective power projection
+evidence:
+  - id: INS-260330-217C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6689
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-9E26
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dr. Kim identifies three foreign policy camps within the Republican Party: Reagan-era world police, MAGA non-interventionism, and selective engagement (Elbridge Colby's approach). She places Trump squarely in the third camp.
 

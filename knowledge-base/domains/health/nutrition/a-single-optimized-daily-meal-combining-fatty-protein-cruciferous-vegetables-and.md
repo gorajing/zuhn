@@ -51,5 +51,9 @@ related:
   - INS-260327-BBE3
   - INS-260327-584D
   - INS-260327-584E
+evidence:
+  - id: INS-260327-584D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The optimal metabolic-reversal meal: grass-fed beef or salmon for protein and fat, large serving of cruciferous vegetables for sulforaphane and fiber, avocado or olive oil for fat-soluble vitamin absorption, all within a time-restricted feeding window

@@ -60,6 +60,10 @@ related:
   - INS-260327-F484
   - INS-260327-8B9A
   - INS-260327-6058
+evidence:
+  - id: INS-260323-E874
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Napoleon's genius at Friedland was not just tactical but positional: he attacked when the Russian army had crossed to the west bank of the Alle River with limited bridges for retreat. When the French assault broke the Russian lines, there was nowhere to go. Thousands drowned attempting to cross the river. The result was not just a victory but the complete collapse of Russian willingness to fight.
 

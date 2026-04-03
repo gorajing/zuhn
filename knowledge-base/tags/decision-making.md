@@ -10,14 +10,12 @@
 - `INS-260329-FEA6` Spreadsheet-based weighted decision matrices force explicit priority ranking that reveals preferences hidden from intuitive reasoning.
 - `INS-260321-167A` Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
-- `INS-260323-C4A2` Even in a fully deterministic universe, the inability to predict the future from within the system makes free will functionally real — a stance called compatibilism.
-- `INS-260323-3C7F` Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
-- `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
+- `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
+- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260330-A151` Destiny's two mental safeguards — argue both sides convincingly, and name what would change your mind — are more effective than claiming objectivity.
 - `INS-260329-BEFB` Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-D432` Judge leaders exclusively by measurable population outcomes like life expectancy and prosperity rather than moral rhetoric or personality.
@@ -31,12 +29,10 @@
 - `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
-- `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
-- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
-- `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
-- `INS-260329-FD7F` Maximum and minimum values in optimization problems occur precisely where the derivative equals zero — where change momentarily stops.
-- `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
-- `INS-260329-9CBB` The squeeze theorem proves limits by showing a quantity is trapped between two converging bounds, teaching a general strategy of establishing upper and lower bounds when direct computation is impossible.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
+- `INS-260323-C4A2` Even in a fully deterministic universe, the inability to predict the future from within the system makes free will functionally real — a stance called compatibilism.
+- `INS-260323-3C7F` Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
+- `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
 - `INS-260325-4A01` Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260325-95EB` Cherry-picking from Stoicism, Epicureanism, and Buddhism feels open-minded but produces a framework that contradicts itself at every genuine decision point.
@@ -44,11 +40,15 @@
 - `INS-260323-846D` The most powerful thing you can do right now is not adding something to your life but cutting — options, information, commitments, and obligations you said yes to without thinking.
 - `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260323-D7D0` The best thing about getting older is learning to trust the body's signals instead of using the analytical forebrain to override them — every time Huberman overrode his gut, he regretted it.
+- `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
+- `INS-260329-FD7F` Maximum and minimum values in optimization problems occur precisely where the derivative equals zero — where change momentarily stops.
+- `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
+- `INS-260329-9CBB` The squeeze theorem proves limits by showing a quantity is trapped between two converging bounds, teaching a general strategy of establishing upper and lower bounds when direct computation is impossible.
+- `INS-260330-AA77` If a new element can be expressed as a combination of existing ones, it adds no new capability.
 - `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260330-B4F1` Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
 - `INS-260329-04CB` Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
-- `INS-260330-AA77` If a new element can be expressed as a combination of existing ones, it adds no new capability.
 - `INS-260325-BCA6` Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.
 - `INS-260323-44A9` The ideal moral framework balances rational analysis of impact with genuine compassion for well-being — neither alone is sufficient.
 - `INS-260325-BAA4` Ethics are defined externally by professions; morals are internal beliefs — CIA training teaches that moral flexibility (adapting personal convictions to mission requirements) is essential for high-stakes effectiveness.
@@ -69,6 +69,10 @@
 - `INS-260329-0B76` Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260327-8F76` When two partners with strong opinions disagree, a third co-founder provides the tiebreaker perspective that prevents gridlock.
 - `INS-260402-7DCC` 'Industry best practice' in technology shields managers from blame but guarantees mediocre results that bolder competitors will exploit.
+- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
+- `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
+- `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
+- `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260327-3C19` As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
@@ -76,10 +80,6 @@
 - `INS-260329-59A5` For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
 - `INS-260329-B2BE` Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.
 - `INS-260327-DCA9` Weinberg says almost every problem at Harvey traces back to having six DRIs on something instead of one — shared ownership is no ownership, just like asking two friends to water your plant guarantees it dies.
-- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
-- `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
-- `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
-- `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
@@ -114,9 +114,9 @@
 - `INS-260330-8D34` A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.
 - `INS-260330-7241` Framework popularity is a legitimate engineering constraint because it determines hiring pool size and ecosystem support.
 - `INS-260330-8890` Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
+- `INS-260329-C430` 'I'll buy when I have money' inverts causation — the program creates the money, so waiting for money to buy the program is a logical impossibility.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
-- `INS-260329-C430` 'I'll buy when I have money' inverts causation — the program creates the money, so waiting for money to buy the program is a logical impossibility.
 - `INS-260330-F258` Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260330-201F` The Intel i9 beat M1 on a CPU-intensive JavaScript algorithm benchmark but lost on actual project build times, showing benchmarks mislead real-world decisions.

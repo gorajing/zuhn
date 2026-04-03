@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-1452
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-F9C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When an executive fails due to skill gaps rather than effort, demotion feels like a compassionate middle ground—they keep their job, you solve the competency problem. But the demoted executive retains VP-level equity (e.g., 1.5% of the company) while individual contributors earn 0.1-0.2%. Every engineer doing the math sees someone who failed at their job being compensated 10x more. Meanwhile, the demoted person loses authority—former peers now outrank them, and direct reports question why they should take direction from someone the company itself deemed inadequate.
 

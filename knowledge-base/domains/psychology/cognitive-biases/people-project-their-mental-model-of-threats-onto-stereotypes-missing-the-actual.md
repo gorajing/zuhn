@@ -58,6 +58,16 @@ related:
 stance: >-
   Everyone expected a spy to look like James Bond; the actual spy was a goofy,
   church-going college kid who talked to everyone
+evidence:
+  - id: INS-260323-D41A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8BFF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-D2CF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Ji's friends, church community, and even casual acquaintances universally described him as goofy, happy-go-lucky, and genuinely warm. One friend said 'if he was born here, he'd be my neighbor — a great American and probably a patriot.' The FBI prosecutor explicitly warned against 'preconceived notions about what a spy looks like.'
 

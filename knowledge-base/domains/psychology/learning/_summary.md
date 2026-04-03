@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 206 insights
+> 209 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -11,6 +11,7 @@
 - `INS-260330-74A0` [high] Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260330-FB5A` [high] Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-AC16` [high] Changing beliefs is like blazing a new trail next to a four-lane highway of old patterns — it works, but takes persistent effort over months or years, not weeks.
+- `INS-260403-449A` [high] If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
 - `INS-260402-4451` [high] You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260330-1298` [high] Cells cannot use glucose energy directly — it must first be converted to ATP, a universal intermediary, just as economies need standardized currency to function.
 - `INS-260330-1DDE` [high] Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
@@ -138,7 +139,9 @@
 - `INS-260330-63B8` [high] Teaching forces you to confront exactly what you don't know, encoding knowledge far deeper than passive consumption.
 - `INS-260330-026B` [high] Teaching a concept to others reveals precise knowledge gaps that self-study masks.
 - `INS-260329-2FEB` [high] Immediate output from each new concept (printing, calculations, simple games) cements understanding faster than abstract theory.
+- `INS-260403-5C1D` [high] Authority-imposed tests are hackable proxies; market tests honestly measure only what they actually test.
 - `INS-260330-D2D2` [high] 'Almost all' has a precise mathematical meaning that excludes infinitely many cases — perfect squares are 'almost none' of all numbers yet there are infinitely many of them.
+- `INS-260403-1448` [high] The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
 - `INS-260330-CC7D` [high] You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
 - `INS-260330-053D` [high] Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
 - `INS-260330-16B1` [high] Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.

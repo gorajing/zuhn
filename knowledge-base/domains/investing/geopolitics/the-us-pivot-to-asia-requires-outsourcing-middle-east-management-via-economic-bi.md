@@ -46,9 +46,9 @@ resolutions:
 related:
   - INS-260321-10FF
   - INS-260323-A3DB
+  - INS-260403-600C
   - PRI-260322-9E36
   - INS-260327-768D
-  - INS-260323-822B
   - INS-260327-F84E
 stance: >-
   The US has wanted to pivot to Asia since the 2000s but keeps getting stuck in

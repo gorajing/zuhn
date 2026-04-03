@@ -73,6 +73,9 @@ evidence:
   - id: INS-260324-8D35
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-A4CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Maggie shares a counterintuitive observation: she changed her mind on the assumption that large enterprises can't move fast. OpenAI now sells to oil, gas, energy, airlines, and government — sectors traditionally seen as slow. The UK Ministry of Justice piloted and bought within a couple of months.
 

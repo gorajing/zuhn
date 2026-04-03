@@ -48,7 +48,6 @@ stance: >-
   is as valid as explicit rule-based reasoning, overturning 2,000 years of
   rationalist bias.
 related:
-  - INS-260325-042A
   - INS-260330-6D2E
   - INS-260322-5D22
   - PRI-260328-0C86
@@ -58,6 +57,7 @@ related:
   - INS-260323-9F61
   - INS-260323-61CD
   - INS-260330-5A4C
+  - INS-260330-2154
 evidence:
   - id: INS-260330-6D2E
     type: TRANSFERS_TO

@@ -53,5 +53,12 @@ related:
   - INS-260327-B2E3
   - INS-260323-F9FD
   - INS-260327-940C
+evidence:
+  - id: INS-260321-9AB5
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-F9FD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 GLP-1 agonists suppress appetite so aggressively that patients lose significant muscle mass (30-40% of total weight lost). Since muscle drives basal metabolic rate, losing it means fewer calories burned at rest. When patients stop the drug (and most do due to cost or side effects), they regain weight — but regain primarily as fat, not muscle. This creates a worse metabolic state than before. Berg argues the natural alternative (intermittent fasting + protein-adequate low-carb diet) preserves muscle while burning fat because fasting triggers growth hormone which is muscle-protective. Exercise during fasting further amplifies this effect.

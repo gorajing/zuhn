@@ -55,6 +55,10 @@ related:
   - INS-260325-F1BC
   - INS-260327-A75C
 stance: The 1947 UN partition of Palestine
+evidence:
+  - id: INS-260325-F1BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The 1947 UN partition resolution attempted to solve the problem of two irreconcilable national communities by creating two states. The pattern that emerged — international body proposes compromise, one side accepts, other rejects, war follows — has recurred in multiple contexts. Even the Soviet Union's Gromyko initially supported a one-state solution but acknowledged that if the two communities couldn't coexist, partition was necessary.
 

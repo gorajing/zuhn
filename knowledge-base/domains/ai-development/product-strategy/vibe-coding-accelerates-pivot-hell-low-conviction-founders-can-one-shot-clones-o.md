@@ -78,5 +78,8 @@ evidence:
   - id: INS-260330-59FD
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-2B96
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Pre-AI, there was already a high rate of founders falling into 'pivot hell' — constantly switching ideas without deeply committing to any. AI coding tools make this dramatically worse because you can one-shot a plausible prototype of anything: 'Hey, build a Salesforce clone' — done. Now what? Try to get three startups to use it. They don't like it. Maybe build something else. And if it was that easy for you to clone, why won't someone clone you? The additional trap: in pivot hell, the next shiny thing is always the thing you know the least about, because you understand why things you're familiar with are hard to build. With vibe coding, you can go much further astray from things you actually understand. The antidote is measuring retention and real user value instead of topline graphs — because if you optimize for 'can I take more from users than I give,' that's how you lose.

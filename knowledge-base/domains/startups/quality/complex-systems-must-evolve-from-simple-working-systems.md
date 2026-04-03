@@ -55,6 +55,34 @@ related:
   - INS-260327-F608
   - INS-260327-4A10
   - INS-260329-D0B3
+evidence:
+  - id: INS-260327-9EFE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-87A1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-6FA7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-F608
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260326-6D76
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D3F5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-D0B3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-BF84
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-BA12
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 John Gall's observation that 'a complex system designed from scratch never works and cannot be made to work' is one of the most consistently validated principles in engineering and organizational design. The implication is profound for builders: you must ship a simple version that actually works before layering on complexity. This contradicts the instinct to architect everything upfront.
 

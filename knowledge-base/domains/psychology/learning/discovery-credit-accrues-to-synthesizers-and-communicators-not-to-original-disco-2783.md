@@ -59,6 +59,9 @@ evidence:
   - id: INS-260323-7BA4
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-9377
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Friedrich Miescher first isolated 'nuclein' (DNA) from white blood cells in 1869 — nearly a century before Watson and Crick's 1953 double helix model. Yet Miescher is virtually unknown outside biology history. The credit went to those who assembled the puzzle pieces into a coherent, communicable narrative: Watson and Crick's model, built on Franklin's X-ray data, Chargaff's base-pairing rules, and decades of biochemistry.
 

@@ -50,6 +50,10 @@ related:
   - INS-260325-FF45
   - INS-260330-7462
   - PRI-260328-D68F
+evidence:
+  - id: INS-260330-7462
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Fast food is traditionally the last consumer category to decline because it represents the cheapest prepared food option. When McDonald's posts its biggest US sales decline in 5 years during a period of economic uncertainty, it means consumers have exhausted their ability to trade down. There's nowhere cheaper to go.
 

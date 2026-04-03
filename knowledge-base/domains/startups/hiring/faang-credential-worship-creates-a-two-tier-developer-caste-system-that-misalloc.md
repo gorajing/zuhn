@@ -57,6 +57,10 @@ related:
   - INS-260327-1D3D
   - INS-260330-5747
   - INS-260328-3A00
+evidence:
+  - id: INS-260327-8BF6
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The video mocks the ultimate programmer flex: having worked at a FAANG company. This satirizes a real structural problem in tech hiring — FAANG experience functions as a credential that opens doors regardless of what the person actually did there. A developer who maintained a minor internal tool at Google for two years is treated as more credible than someone who built and scaled a startup's entire technical infrastructure from zero.
 

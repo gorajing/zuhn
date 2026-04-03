@@ -57,6 +57,10 @@ related:
   - INS-260327-3381
   - INS-260330-58B9
   - INS-260327-E9FC
+evidence:
+  - id: INS-260330-58B9
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Not all of Napoleon's 26 marshals were created equal. Some were elevated for outstanding military merit (Davout, Lannes). Others received the rank as political rewards for loyalty, to represent specific factions, or to honor past service. The result was that 'Marshal of France' ranged from meaning 'one of the greatest military minds in Europe' to 'politically useful retired general.' The title became unreliable as a capability signal.
 

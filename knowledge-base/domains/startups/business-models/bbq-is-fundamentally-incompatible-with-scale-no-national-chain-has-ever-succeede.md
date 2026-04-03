@@ -56,5 +56,9 @@ related:
 stance: >-
   Brisket shrinks to 40% yield after trimming and smoking, requires 10-18 hours
   of intuition-based cooking, and can't be made on demand
+evidence:
+  - id: INS-260327-BF59
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 BBQ is uniquely high labor, high skill, and high food costs. Brisket (the signature Texas cut) loses 60% of weight after trimming and smoking, requiring 10-18 hours of feel-based cooking where temperature, humidity, and smoke color all matter. Production can't be abstracted to assembly lines or timers. National chains like Dickey's solve this by pre-cooking at central kitchens and reheating in bags — enabling scale at the expense of quality. The result: Dickey's has closed nearly half its locations in a decade, grossing under $500K/year per store. Texas has the highest BBQ concentration (7.3 per 100K residents) but also the most demand, giving it a 33% failure rate — lower than less competitive markets.

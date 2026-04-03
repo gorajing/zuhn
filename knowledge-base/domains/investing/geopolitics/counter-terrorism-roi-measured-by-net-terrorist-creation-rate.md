@@ -57,6 +57,10 @@ related:
   - PRI-260324-8EE6
   - PRI-260328-7F20
   - INS-260330-2B5F
+evidence:
+  - id: INS-260330-2B5F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Musk frames counter-terrorism through a simple but powerful metric: for every Hamas member killed, how many new ones were created? If the ratio exceeds 1:1, the operation has failed strategically regardless of tactical success. Killing someone's child in Gaza creates 'at least a few' people willing to die to kill an Israeli — a compounding cycle of violence.
 

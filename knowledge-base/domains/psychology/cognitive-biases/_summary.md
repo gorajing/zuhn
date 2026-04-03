@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 216 insights
+> 218 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -48,6 +48,7 @@
 - `INS-260327-C316` [high] People treat money as the most rational domain of their lives while making consistently irrational financial decisions driven by fear, status anxiety, and emotional needs.
 - `INS-260330-CCD8` [high] Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
 - `INS-260330-870B` [high] Ponzi deliberately targeted people with more dreams than financial knowledge, avoiding sophisticated investors who could spot the scheme.
+- `INS-260403-C5BA` [high] Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn.
 - `INS-260325-8DF7` [high] Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.
 - `INS-260330-4859` [high] Claiming extremists only act because the West 'pushed them to it' paradoxically denies non-Western people moral agency — a form of inverted orientalism.
 - `INS-260330-A01C` [high] Groups never admit failure because consensus-maintenance requires compromise, which destroys the truth-seeking mechanism — only individuals can genuinely update their beliefs.
@@ -85,6 +86,7 @@
 - `INS-260330-5A66` [high] The feeling of moral outrage masquerades as evidence, making people certain they understand situations they haven't actually analyzed.
 - `INS-260330-4441` [high] RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260325-B067` [high] We evolved to over-detect patterns because false positives are survivable but false negatives are fatal, so we see meaning in randomness.
+- `INS-260403-393C` [high] Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.
 - `INS-260323-97A1` [high] Everyone expected a spy to look like James Bond; the actual spy was a goofy, church-going college kid who talked to everyone — our threat models are shaped by fiction, not reality.
 - `INS-260330-13B2` [high] People don't value privacy or decentralization until someone goes to jail or gets deplatformed, creating a predictable cycle of complacency and panic.
 - `INS-260330-3851` [high] The Columbus flat-Earth myth persists because the hero-vs-ignorance narrative is more compelling than the boring truth that educated people already knew Earth was round.

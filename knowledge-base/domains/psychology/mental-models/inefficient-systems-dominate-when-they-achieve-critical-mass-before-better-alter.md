@@ -66,6 +66,9 @@ evidence:
   - id: INS-260323-F963
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-F4B8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video opens by calling photosynthesis a process that 'rather sucks — complicated, inefficient and confusing.' Yet this inefficient process powers virtually all life on Earth. RuBisCo fails half the time. The Calvin Cycle requires elaborate regeneration phases. Plants waste energy processing toxic byproducts. None of this matters because photosynthesis achieved escape velocity first.
 

@@ -48,5 +48,12 @@ related:
   - INS-260323-1D15
   - PRI-260328-E9B5
   - INS-260323-748A
+evidence:
+  - id: INS-260323-748A
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-FFE8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Viaweb used Lisp when every competitor used C++ or Perl, enabling them to duplicate competitor features within days of press releases. The advantage was compounded by competitors' inability to understand the source of Viaweb's speed — they couldn't copy what they couldn't comprehend. This is the 'secret weapon' dynamic: the best competitive advantages are ones your opponents don't even recognize as advantages. The principle extends beyond programming languages to any unconventional tooling choice — the key is that the median approach in any field lags 10-20 years behind what's possible, creating enormous room for startups willing to deviate from consensus.

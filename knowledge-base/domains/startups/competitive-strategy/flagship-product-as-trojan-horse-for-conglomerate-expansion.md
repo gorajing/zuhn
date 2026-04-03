@@ -64,6 +64,10 @@ related:
   - PRI-260328-5464
   - INS-260330-7B1C
   - INS-260330-8F91
+evidence:
+  - id: INS-260321-13EA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 ByteDance's strategy reveals that TikTok was never meant to be a standalone product. It's a user-acquisition engine for a much broader empire. The Chinese version already demonstrated the playbook: in-app e-commerce generated $30M in sales in a single day, food delivery was being tested, and ByteDance launched enterprise software (Lark), gaming studios, education apps, cloud hosting, search, and even a streaming competitor to Netflix (Watermelon Video, with BBC/PBS licensing deals and Disney+'s former head).
 

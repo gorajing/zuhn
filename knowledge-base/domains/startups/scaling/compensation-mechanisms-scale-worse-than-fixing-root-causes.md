@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-68C8
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-E218
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When RuBisCo grabs oxygen instead of CO2, it produces phosphoglycolate — a toxic compound that interferes with the Calvin Cycle. Rather than evolving a better RuBisCo, plants evolved entirely separate enzymatic pathways (photorespiration) to convert this waste into usable amino acids. They also compensate by simply producing massive quantities of RuBisCo.
 

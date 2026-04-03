@@ -53,6 +53,16 @@ related:
   - INS-260325-17BF
   - INS-260325-922D
   - INS-260323-F5EF
+evidence:
+  - id: INS-260325-17BF
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-922D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-F5EF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 China's demographic crisis illustrates a pattern common to slow-moving systemic risks: the problem is visible decades in advance but feels abstract until the tipping point arrives. The large worker cohorts currently generating high tax revenue will 'in a single day' shift from peak tax contributors to pension collectors, creating a fiscal cliff rather than a gradual slope.
 

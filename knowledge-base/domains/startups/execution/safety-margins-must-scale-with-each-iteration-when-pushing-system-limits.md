@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-FC68
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-BBCF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Mad Batter team's approach to safety scaled in lockstep with their ambition. At low speed: stand behind the backstop. At 50% power: add plexiglass shields. After a bat flies off: drill mounting pins, add a wobble switch kill relay, and build steel barriers. At 100% power: everyone behind steel with multiple kill switches. This progressive approach — never increasing capability without proportionally increasing safety — is what enabled them to reach 696 feet without injury.
 

@@ -56,6 +56,13 @@ related:
   - INS-260327-F484
   - INS-260327-5E93
   - INS-260327-DC45
+evidence:
+  - id: INS-260330-3084
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-A1AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Britain and France could have simply intervened in Suez openly, citing their canal interests. Instead, they secretly colluded with Israel: Israel would attack Egypt, then Britain and France would intervene as supposed 'peacekeepers.' This theatrical pretense was transparent to everyone, and its exposure added the charge of dishonesty to the charge of aggression. The cover-up was worse than the act.
 

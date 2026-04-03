@@ -57,6 +57,10 @@ related:
   - INS-260330-B384
   - INS-260327-B3B3
   - PRI-260328-79DA
+evidence:
+  - id: INS-260330-B384
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Emperor Alexius wanted a few thousand Western mercenaries to help fight the Seljuk Turks — a limited military request. Pope Urban saw an opportunity and reframed it spectacularly: instead of sending mercenaries, he launched a holy crusade to reclaim Jerusalem, with himself as spiritual leader of the entire enterprise. The result was far larger than Alexius requested, served Urban's agenda of asserting papal authority, and created a movement that transformed European geopolitics for two centuries.
 

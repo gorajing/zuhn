@@ -61,6 +61,10 @@ related:
   - PRI-260321-0A4D
   - INS-260330-A192
   - INS-260402-9F35
+evidence:
+  - id: INS-260402-9F35
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 An 18th-century ship of the line was the most expensive and complex technology in the world: thousands of mature oak trees, hundreds of specialized craftsmen, years of construction, and enormous ongoing maintenance costs. Only Britain, France, Spain, and the Netherlands could afford significant battle fleets. Naval power was inherently concentrated among wealthy states because the capital barriers to entry were astronomical.
 

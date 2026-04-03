@@ -61,6 +61,10 @@ related:
   - PRI-260328-1A2D
   - INS-260322-D079
   - INS-260329-6079
+evidence:
+  - id: INS-260329-6079
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Zimbabwe's experience reveals that currency value is fundamentally a collective belief system. When daily inflation hit 98%, prices kept rising largely because people expected them to. The government's attempts to restore confidence through redenomination — removing 10 zeros in 2008 and 12 more in 2009 — failed because the underlying trust was broken. The central bank spent $500,000 USD per week ordering new banknotes from Germany that were worthless by arrival.
 

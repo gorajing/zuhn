@@ -57,6 +57,10 @@ related:
   - INS-260330-B384
   - INS-260327-23FA
   - INS-260327-E314
+evidence:
+  - id: INS-260330-B384
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When Napoleon was exiled in 1814, his marshals revealed where their true loyalties lay: most immediately transferred allegiance to the restored Bourbons or simply retired. When Napoleon returned for the Hundred Days, some rejoined him and others stayed loyal to the new regime. The army's cohesion was entirely dependent on Napoleon's personal charisma and patronage — there was no institutional loyalty to sustain it in his absence.
 

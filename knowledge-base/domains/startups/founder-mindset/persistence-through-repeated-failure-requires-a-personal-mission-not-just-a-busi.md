@@ -54,6 +54,10 @@ related:
 stance: >-
   Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to
   melting
+evidence:
+  - id: INS-260327-E052
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Frederic Tudor's early ice ventures were catastrophic failures. Investors laughed. His first Caribbean shipment earned only $50. He accumulated $40,000 in debt (over $1M in today's money), was hounded by creditors, hid from sheriffs on his own ships, and went to debtor's prison twice. He described this period as 'the winter of my discontent.'
 

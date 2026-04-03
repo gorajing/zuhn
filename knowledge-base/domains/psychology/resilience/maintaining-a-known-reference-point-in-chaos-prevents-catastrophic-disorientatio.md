@@ -60,6 +60,10 @@ related:
   - INS-260330-2EB0
   - INS-260329-A90C
   - INS-260325-3A0E
+evidence:
+  - id: INS-260325-3A0E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In helicopter underwater escape training, the single most important lesson is: stay in your seat. When the aircraft flips and sinks, unbuckling feels like the obvious survival move — your body naturally wants to right itself toward the surface. But unbuckling makes you a 'loose sock in the dryer' — you lose all spatial orientation, don't know where exits are, and can't navigate out.
 

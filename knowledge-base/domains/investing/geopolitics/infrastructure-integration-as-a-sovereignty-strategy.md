@@ -56,6 +56,10 @@ related:
   - PRI-260321-0A4D
   - PRI-260323-9295
   - INS-260330-0AD5
+evidence:
+  - id: INS-260330-6689
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 China's Greater Bay Area plan demonstrates a pattern where physical connectivity — bridges, high-speed rail, shared campuses — creates economic interdependence that makes political separation increasingly impractical. The Hong Kong-Zhuhai-Macau Bridge and the 14-minute train to Shenzhen are framed as economic conveniences, but each project normalizes mainland authority within Hong Kong territory (e.g., mainland immigration controls inside downtown Hong Kong stations).
 

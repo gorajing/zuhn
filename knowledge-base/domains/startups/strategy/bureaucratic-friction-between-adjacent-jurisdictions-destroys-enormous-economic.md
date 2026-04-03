@@ -57,6 +57,10 @@ related:
   - INS-260330-7220
   - INS-260330-035C
   - INS-260327-10E8
+evidence:
+  - id: INS-260327-10E8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Pearl River Delta illustrates how regulatory fragmentation between adjacent regions creates compounding friction. A 14-minute train ride between Hong Kong and Shenzhen requires immigration, customs, separate visas, different currencies, and incompatible professional licenses. The $19 billion Hong Kong-Macau-Zhuhai Bridge requires three separate insurance policies with wildly different coverage minimums ($18K vs $12.7M).
 

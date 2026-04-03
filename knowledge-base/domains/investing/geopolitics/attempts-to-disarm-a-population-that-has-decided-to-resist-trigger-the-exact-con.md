@@ -57,6 +57,10 @@ related:
   - INS-260327-842F
   - INS-260327-8AF8
   - INS-260327-CF72
+evidence:
+  - id: INS-260321-13C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 General Gage sent troops to Concord to seize colonial weapons and supplies, believing that disarming the colonists would prevent rebellion. Instead, the march triggered the very uprising he feared: militias mobilized, shots were fired at Lexington, and by the end of the day British troops were retreating under heavy fire from thousands of armed colonists. The attempt to remove the means of resistance became the catalyst for active resistance.
 

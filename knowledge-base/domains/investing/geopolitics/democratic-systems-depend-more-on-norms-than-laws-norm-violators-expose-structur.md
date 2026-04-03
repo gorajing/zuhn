@@ -56,6 +56,19 @@ related:
 stance: >-
   Much of democracy's stability relies on unwritten norms rather than
   enforceable laws
+evidence:
+  - id: INS-260330-946B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4D9D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-12FB
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-F258
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harris makes a crucial observation: the Trump era revealed that enormous institutional damage can happen through norm violations alone, without technically breaking laws. The peaceful transfer of power was not legally mandated in all the ways we assumed. Our system relies on civility, custom, and mutual restraint far more than enforceable rules.
 

@@ -53,6 +53,10 @@ related:
   - INS-260329-1669
   - INS-260329-AAE3
   - INS-260325-436A
+evidence:
+  - id: INS-260327-99CE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The principle 'volume negates luck' reframes success from a probabilistic event into an engineering problem. If each cold outreach has a 1% success rate, doing 10 attempts gives you a 10% chance — but doing 1,000 makes success virtually certain. This applies across domains: job applications, sales calls, investor pitches, content creation.
 

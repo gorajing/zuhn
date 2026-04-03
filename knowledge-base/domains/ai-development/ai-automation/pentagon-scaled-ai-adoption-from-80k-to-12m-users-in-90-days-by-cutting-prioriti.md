@@ -84,5 +84,8 @@ evidence:
   - id: INS-260329-6859
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-D9AC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When Emil Michael took the CTO role at the Department of War, they had 14 critical priority areas that hadn't changed in a decade. He cut them to 6, made applied AI number one, and moved the chief digital and AI office into his group. The result: AI usage went from 80,000 to 1.2 million of the department's 3 million people in 90 days. The AI use cases split into three buckets: enterprise/corporate efficiency (mundane tasks), intelligence analysis (using decades of satellite imagery for anomaly detection, increasing analyst throughput 1000x), and warfighting (logistics planning, wargaming, operations simulation). The lesson generalizes: even the largest, most bureaucratic organization on Earth can move fast when priorities are ruthlessly focused.

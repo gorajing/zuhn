@@ -50,6 +50,13 @@ related:
   - PRI-260328-D68F
   - INS-260330-4E01
   - INS-260327-8997
+evidence:
+  - id: INS-260330-4E01
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8997
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Male labor force participation has been declining steadily since the 1960s at approximately 0.1% per month. This predates COVID, social media, and most commonly blamed factors. Over 10 million men are now not working, not studying, not retired, and not institutionalized.
 

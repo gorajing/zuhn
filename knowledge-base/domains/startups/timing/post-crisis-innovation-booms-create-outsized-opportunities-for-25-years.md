@@ -56,6 +56,12 @@ evidence:
   - id: INS-260325-CED9
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-3C17
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-7FE6
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 After each 80-year crisis, America experienced roughly 25 years of extraordinary innovation and growth. Post-Revolution (1789-1815): built the nation, financial capitalism, land grants. Post-Civil War (1865-1890): 175,000 miles of rail, land-grant universities, industrial production. Post-WWII (1945-1970): interstate highways, GI Bill, suburbs, Great Society.
 

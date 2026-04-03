@@ -25,12 +25,12 @@
 - `INS-260329-C6BB` Start premium to fund the infrastructure needed for eventual mass-market scale.
 - `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
 - `INS-260329-C754` Cloud's on-demand/spot/reserved pricing tiers create an economic moat for startups that can optimize compute costs without upfront capital.
+- `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
 - `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
 - `INS-260330-EFB8` The absence of legacy banking infrastructure in Africa enabled direct adoption of mobile payments, bypassing checks and credit cards entirely.
 - `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
 - `INS-260322-B8E6` Orion's design for reuse across multiple Artemis missions fundamentally changes space economics from disposable to durable infrastructure.
 - `INS-260330-AF2A` Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
-- `INS-260328-FDC8` AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
 - `INS-260327-B064` 92% of Americans depend on cars for daily life because of car-centric infrastructure, but cars have become so expensive that responsible ownership is beyond reach for growing millions.
 - `INS-260321-A3A1` IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics highway routing goods from India through UAE, Saudi Arabia, and Israel to Europe — designed to completely bypass China's Belt and Road Initiative.
 - `INS-260330-757E` States can use infrastructure projects to gradually absorb autonomous regions by making economic integration irreversible before political integration follows.

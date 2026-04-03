@@ -51,5 +51,9 @@ related:
 stance: >-
   IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics
   highway routing goods from India through UAE, Saudi Arabia, and Israel t...
+evidence:
+  - id: INS-260330-09E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Proposed during the Biden administration in 2023, IMEC sweeps goods from India into the UAE, runs trains through Saudi Arabia to Israel, then crosses the Mediterranean to Europe. It includes not just container shipping but oil pipelines, hydrogen pipelines, internet cables, data cables, and data centers — the full infrastructure for the future economy. Combined with India's massive FTAs with both EFTA and the EU (tariff-free access for Indian manufacturing), this creates a complete alternative supply chain that doesn't touch China. The US strategy: bind India, Middle East, and Europe with economic incentives so they manage their own region while the US pivots to Asia for direct competition with China.

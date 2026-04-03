@@ -56,6 +56,10 @@ related:
   - PRI-260325-697B
   - INS-260330-AAE9
   - INS-260330-BC1B
+evidence:
+  - id: INS-260330-AAE9
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Reeves identifies a 'dad deficit' where 1 in 4 fathers don't live with their children, and 1 in 3 children lose contact with their father entirely within a few years of parental separation. The critical finding is that this disproportionately harms boys—they suffer more from absent fathers than girls do.
 

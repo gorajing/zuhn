@@ -54,6 +54,10 @@ related:
   - INS-260327-3F8B
   - INS-260323-FDB8
 stance: Adams never thought losing was possible
+evidence:
+  - id: INS-260327-3F8B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Adams reveals a particular quality of elite mental preparation: he didn't just hope to win or plan to win — he genuinely could not conceive of losing. This isn't bravado or self-deception. His record supported it: he never lost a European title across seven golds, and his only losses were Olympic and World Championship finals decided by split decisions.
 

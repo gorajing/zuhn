@@ -58,6 +58,11 @@ related:
   - INS-260330-A01C
   - INS-260330-F258
   - PRI-260323-2C5C
+  - INS-260403-2CA3
+evidence:
+  - id: INS-260330-51B1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham identifies a specific vulnerability in consensus-driven organizations: they operate on 'best practices' with no higher authority. When a new practice reaches critical mass, they must adopt it. Worse, they can't use their usual uncertainty strategy — delay — because they might be committing improprieties right now. This urgency asymmetry means a small group of zealots who define new improprieties can force rapid organizational change.
 

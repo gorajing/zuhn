@@ -59,6 +59,16 @@ related:
   - INS-260330-8950
   - INS-260330-7E97
   - INS-260330-A2D4
+evidence:
+  - id: INS-260330-A2D4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-AC1B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260323-B726
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 WWII killed 60+ million people not because the animosities were uniquely intense — comparable ethnic and territorial tensions existed throughout history — but because industrialized nations had unprecedented capacity to project force. The same factories that produced consumer goods produced tanks, bombs, and the infrastructure of genocide.
 

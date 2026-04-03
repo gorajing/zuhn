@@ -53,6 +53,13 @@ related:
   - INS-260330-A4A5
   - INS-260323-3E21
 stance: Notes a half step apart in pitch are worlds apart in feeling
+evidence:
+  - id: INS-260330-A4A5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-3E21
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 This is perhaps the most counterintuitive insight in Konyi's framework: what sounds close is not what feels close. Degree 5 (pure, neutral, expansive) and sharp 4 (strange, alien, intensely bright) are only a half step apart in pitch, but occupy completely different emotional worlds. Conversely, degrees 3, 6, and 7 share a 'warmth/sweetness' dimension despite being spread across the pitch range.
 

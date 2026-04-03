@@ -51,6 +51,10 @@ related:
   - INS-260330-EEED
   - PRI-260328-0993
   - INS-260330-6DE0
+evidence:
+  - id: INS-260330-EEED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Sri Lanka's central bank maintained an artificial exchange rate (e.g. 150 rupees per USD when the market rate was 200) to keep imports affordable. This created a predictable arbitrage: migrant workers stopped sending remittances through official bank channels because they'd get 25% less value. As official reserves shrank, maintaining the peg became even harder, which widened the gap further.
 

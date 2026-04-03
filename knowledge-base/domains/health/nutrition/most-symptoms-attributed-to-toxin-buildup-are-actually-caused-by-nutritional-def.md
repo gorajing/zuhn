@@ -47,5 +47,9 @@ related:
   - INS-260327-1F6E
   - INS-260327-B1A8
   - INS-260327-FD30
+evidence:
+  - id: INS-260326-A7CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Fatigue, brain fog, joint pain, and skin issues commonly attributed to toxin accumulation are more often caused by deficiencies in B vitamins, magnesium, zinc, vitamin D, and omega-3s -- making nutritional correction more effective than detox protocols

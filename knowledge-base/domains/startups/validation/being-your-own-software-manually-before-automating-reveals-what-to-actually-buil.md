@@ -56,6 +56,10 @@ related:
   - INS-260402-E994
   - INS-260321-A56C
   - INS-260327-1E44
+evidence:
+  - id: INS-260329-206D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Stripe delivered 'instant' merchant accounts by having founders manually sign up merchants behind the scenes. Viaweb built online stores for merchants by hand to learn how the software should work. This 'be your software' approach lets you launch faster and builds deep understanding of the problem space that you can't get any other way.
 

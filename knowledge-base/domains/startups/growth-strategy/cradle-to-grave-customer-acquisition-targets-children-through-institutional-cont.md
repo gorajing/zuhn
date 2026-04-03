@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260320-70FA
   - INS-260330-0998
+  - INS-260403-393C
   - INS-260330-57BB
   - INS-260330-391C
-  - INS-260327-2B62
 ---
 Coca-Cola's internal 'Cradle to grave' strategy explicitly aimed to make children into lifetime customers. They paid schools approximately $1 per student annually for exclusive vending contracts, with bonuses for higher sales volumes. Schools, often underfunded, actively promoted Coke products to students. A Coke marketing chief stated it's 'far easier to get them at a young vulnerable age' than convert adults later.
 

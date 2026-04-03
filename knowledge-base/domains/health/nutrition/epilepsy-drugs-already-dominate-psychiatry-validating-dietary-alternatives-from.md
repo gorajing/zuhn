@@ -60,6 +60,10 @@ related:
   - INS-260327-FF86
   - INS-260325-FD12
   - INS-260330-C9CA
+evidence:
+  - id: INS-260322-D059
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Palmer makes a compelling institutional-logic argument: if psychiatry already borrows freely from epilepsy pharmacology — Depakote, Tegretol, Lamictal, Topamax, gabapentin, Valium, Klonopin, Xanax are all anticonvulsants repurposed for psychiatric use in tens of millions of patients, often off-label without rigorous psychiatric RCTs — then using the ketogenic diet, which has a century of evidence as an epilepsy treatment with 85% efficacy rates, is merely extending an existing pattern.
 

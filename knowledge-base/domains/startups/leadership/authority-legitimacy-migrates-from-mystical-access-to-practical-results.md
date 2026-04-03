@@ -54,6 +54,13 @@ related:
   - INS-260330-F158
   - INS-260327-1756
   - INS-260327-787C
+evidence:
+  - id: INS-260327-787C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-B3B3
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 In early Mesopotamian city-states, priests held power because they claimed direct communication with capricious gods — an unfalsifiable credential. Over roughly a thousand years, power migrated to kings who could point to concrete results: military victories, economic growth, and territorial expansion.
 

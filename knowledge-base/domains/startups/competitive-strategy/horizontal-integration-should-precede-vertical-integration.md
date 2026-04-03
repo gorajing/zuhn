@@ -55,6 +55,10 @@ related:
   - INS-260330-0525
   - PRI-260328-43F1
   - PRI-260328-37D8
+evidence:
+  - id: INS-260327-A654
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Rockefeller's sequencing was deliberate: he spent over a decade achieving 90% control of oil refining before attempting vertical integration. This order mattered enormously. His refining monopoly gave him leverage over every adjacent part of the supply chain — oil miners had to sell to him, railroads needed his business, and distributors depended on his product.
 

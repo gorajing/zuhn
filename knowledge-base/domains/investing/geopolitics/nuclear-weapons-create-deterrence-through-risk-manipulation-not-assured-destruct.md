@@ -62,6 +62,13 @@ related:
   - INS-260330-487E
   - INS-260330-97B3
   - INS-260330-5A0B
+evidence:
+  - id: INS-260323-CB47
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-487E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Mearsheimer explains Thomas Schelling's manipulation of risk theory: in a MAD world, nuclear weapons aren't used for destruction but for signaling. NATO's Cold War doctrine was to use a handful of nuclear weapons — possibly in remote areas — not to destroy Soviet forces but to demonstrate resolve and put both sides on the 'slippery slope.' The message: 'The last clear chance to avoid Armageddon rests with you.'
 

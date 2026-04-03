@@ -57,6 +57,10 @@ related:
 stance: >-
   Cuban recognized he was terrible at firing people because he wanted to see the
   best in everyone, so he always partnered with detail-oriented people...
+evidence:
+  - id: INS-260327-42BA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Cuban describes himself as a 'ready, fire, aim' entrepreneur who always partnered with anal perfectionists who would keep him inside the baselines. He wanted to hire 99% of people he interviewed because he could always imagine how to make them work. His teams would tell him 'Mark, you suck at this.'
 

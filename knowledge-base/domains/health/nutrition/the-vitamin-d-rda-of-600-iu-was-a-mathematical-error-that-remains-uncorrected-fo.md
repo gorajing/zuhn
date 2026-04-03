@@ -51,5 +51,9 @@ related:
   - INS-260327-037A
   - INS-260325-A003
   - INS-260325-EB9E
+evidence:
+  - id: INS-260325-EB9E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In 2014 researchers reanalyzed the same data the Institute of Medicine used and found a statistical error — they averaged study-level data instead of analyzing individual responses. The corrected figure of 8895 IU/day was confirmed by independent research but never adopted. The IoM (now National Academy of Medicine) is a private org funded by Coca-Cola, Nestle, PepsiCo, and pharma companies including $19M+ from opioid manufacturers. Berg argues the pattern of delay and protect industry matches their handling of Agent Orange, asbestos in baby powder, and silicone implants. Only 3 minutes of sun exposure produces 600 IU, suggesting the threshold is absurdly low.

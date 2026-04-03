@@ -57,5 +57,12 @@ related:
   - INS-260323-EA65
   - INS-260330-0B8D
   - INS-260325-36F0
+evidence:
+  - id: INS-260325-3488
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-EA65
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 DuPont's replacement of PFOA (C8) with GenX (C6) exemplifies 'regrettable substitution' — a pattern where companies facing regulatory pressure on a toxic substance make minimal molecular changes to create a nominally different chemical. GenX was simply PFOA with two fewer carbons, yet because regulation targets specific chemical identities rather than classes of compounds, all prior evidence of harm became legally irrelevant. The replacement caused identical testicular, liver, and pancreatic tumors in rats, and its shorter chain actually made it more mobile in the environment. This creates a structural 'Whac-A-Mole' dynamic where regulators spend decades building evidence against one substance only to see it replaced overnight. The pattern applies beyond chemicals — any domain where regulation targets specific implementations rather than harmful mechanisms is vulnerable to this exploit. The PFAS family contains over 14,000 variants, making substance-by-substance regulation essentially unwinnable.

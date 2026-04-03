@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 49 insights
+> 50 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
@@ -41,6 +41,7 @@
 - `INS-260330-8134` [medium] After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
 - `INS-260330-0E86` [medium] Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-4F49` [medium] Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
+- `INS-260403-A27F` [medium] Living in multiple countries trains you to question assumptions by default because your existing mental models repeatedly fail in unfamiliar contexts.
 - `INS-260330-5F6C` [medium] The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260330-0764` [medium] Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.
 - `INS-260330-EE16` [medium] Johns Hopkins research shows that the intensity of mystical-type experiences, not just drug dose, predicts whether patients achieve lasting therapeutic benefits from psilocybin.

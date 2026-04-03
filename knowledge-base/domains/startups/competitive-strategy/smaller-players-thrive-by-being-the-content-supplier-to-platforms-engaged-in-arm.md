@@ -66,6 +66,10 @@ related:
   - INS-260327-F229
   - INS-260330-7251
   - INS-260330-9014
+evidence:
+  - id: INS-260327-B7C4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Lionsgate's television strategy reveals a powerful positioning: be the supplier to warring platforms. When cable networks (AMC, Showtime, HBO) and later streaming platforms (Netflix, Hulu, Amazon) entered an arms race for original programming, Lionsgate was the production studio that could deliver award-winning, audience-building content. Mad Men put AMC on the map. Orange is the New Black brought thousands of subscribers to Netflix. Each hit enhanced Lionsgate's reputation and pricing power.
 

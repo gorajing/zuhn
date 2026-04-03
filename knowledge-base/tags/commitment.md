@@ -10,10 +10,10 @@
 - `INS-260329-9EFA` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value what you receive more than what you give up.
 - `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
 - `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
+- `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260329-E6C3` Repeatedly starting over in new domains destroys the compounding effect that only kicks in after sustained effort.
 - `INS-260329-1FEE` Serial starters keep abandoning projects at the valley of despair and restarting with uninformed optimism — the fix is committing long enough for it to be unreasonable to still be bad.
-- `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260327-CA72` With no fallback options, fear stops paralyzing you and starts driving productive action.
 - `INS-260329-C91D` Commitment equals the elimination of alternatives — you prove commitment by what you stop doing, not by what you start.
 - `INS-260402-9075` Most startups die not from bad decisions but from founders who never fully committed.

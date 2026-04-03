@@ -55,6 +55,16 @@ related:
   - INS-260327-1F4A
   - INS-260323-EA65
   - INS-260330-F23F
+evidence:
+  - id: INS-260327-1F4A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1183
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-EA65
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When Nike's growth threatened American incumbents Converse and Keds, they didn't respond by making better shoes. Instead, they sent lobbyists to Washington to enforce the 'American Selling Price' rule — a Depression-era regulation requiring import duties of 20% on foreign-made shoes that competed with domestic alternatives. They deliberately manufactured expensive copies of Nike shoes to maximize the duty Nike would owe, then got the duties backdated three years, generating a $25M bill designed to bankrupt Nike.
 

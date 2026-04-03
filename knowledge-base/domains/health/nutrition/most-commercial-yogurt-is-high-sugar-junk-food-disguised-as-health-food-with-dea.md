@@ -50,5 +50,12 @@ related:
   - PRI-260325-B4FA
   - INS-260329-4161
   - INS-260329-D267
+evidence:
+  - id: INS-260329-4161
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-D267
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Many commercial yogurts contain 20-30g sugar per serving (comparable to soda), are pasteurized after fermentation (killing the beneficial bacteria), and use thickeners like modified food starch. The health halo of yogurt is marketing. Truly beneficial yogurt must be: unsweetened (zero added sugar), full-fat (low-fat versions add sugar to compensate), ideally raw/unpasteurized, and contain live active cultures. Greek yogurt is better (strained, higher protein, lower sugar) but still often sweetened. Bulgarian yogurt and homemade L. reuteri yogurt are the best options.

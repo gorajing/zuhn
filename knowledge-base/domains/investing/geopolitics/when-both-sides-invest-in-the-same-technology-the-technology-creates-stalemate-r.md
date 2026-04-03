@@ -58,6 +58,10 @@ related:
   - INS-260327-7C94
   - INS-260327-3B25
   - INS-260330-63FE
+evidence:
+  - id: INS-260330-63FE
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Somme exemplified technological stalemate: machine guns made defense lethal, artillery made positions untenable, and barbed wire made movement impossible. Both sides had identical technology, so neither could gain advantage. The result was mutual attrition with no breakthrough — hundreds of thousands of casualties for negligible territorial gains. Technology hadn't created advantage; it had created mutual destruction.
 

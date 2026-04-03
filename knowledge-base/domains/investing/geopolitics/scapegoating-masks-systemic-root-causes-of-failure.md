@@ -51,5 +51,12 @@ related:
   - INS-260323-DF0F
   - INS-260327-77A0
   - INS-260330-84BD
+evidence:
+  - id: INS-260330-43EB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-84BD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 For over a century, the Sea Peoples served as the monocausal explanation for the Bronze Age collapse — mysterious invaders who destroyed everything. Cline argues they were 'as much victims as oppressors,' comparing them to Dust Bowl migrants or Syrian refugees fleeing systemic breakdown. This pattern of scapegoating visible actors while ignoring structural causes repeats throughout history and in modern contexts: blaming immigrants for economic problems, blaming short sellers for market crashes, blaming specific leaders for systemic institutional failures. The insight is that whenever a narrative centers on a single villain for a complex systemic failure, the real causes are almost certainly being obscured.

@@ -66,6 +66,12 @@ evidence:
   - id: INS-260327-5E40
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-790F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0BCC
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 DNA polymerase's proofreading catches most errors, but the ones that slip through can accumulate across replications. For years or decades, these mutations may be silent — until a critical threshold triggers cancer or genetic disease. The system appeared healthy because normal conditions never stressed the error-laden regions.
 

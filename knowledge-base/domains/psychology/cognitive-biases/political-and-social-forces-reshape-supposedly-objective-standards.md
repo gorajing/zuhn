@@ -59,6 +59,10 @@ related:
   - INS-260330-C9A6
   - INS-260330-3528
   - INS-260327-E314
+evidence:
+  - id: INS-260327-E314
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The original metric unit of mass was called the 'grave' (from Latin gravitas). It was renamed during the French Revolution because it sounded like the aristocratic title 'graf' — incompatible with the revolutionary cry of equality. Scientists first shrank to the 'gramme' (1/1000th), then realized it was too small and invented the 'kilogram' — making it the only SI base unit with a prefix in its name.
 

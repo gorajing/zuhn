@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-F963
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-EE8B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Swearing appears to be neurologically distinct from regular speech. People with aphasia—damage to cortical language centers—often lose the ability to form coherent sentences but retain full fluency in swearing. Conversely, people with coprolalia can control normal language perfectly but involuntarily produce profanity. This dissociation strongly suggests that profanity is stored and processed in the limbic system alongside emotions, not in Broca's or Wernicke's areas where grammar and vocabulary live.
 

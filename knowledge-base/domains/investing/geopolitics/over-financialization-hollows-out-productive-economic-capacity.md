@@ -50,6 +50,13 @@ related:
   - INS-260330-2B4F
   - PRI-260328-EAC4
   - INS-260323-8C53
+evidence:
+  - id: INS-260330-570F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-8C53
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The UK demonstrates financial Dutch Disease: when one sector (finance) offers outsized returns, investment flows away from manufacturing, technology, and other productive sectors. The finance sector grows by extracting value from existing assets rather than creating new ones.
 

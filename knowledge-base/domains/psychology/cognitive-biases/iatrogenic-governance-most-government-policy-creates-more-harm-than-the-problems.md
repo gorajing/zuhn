@@ -61,5 +61,12 @@ related:
   - INS-260330-EEED
   - INS-260327-9BE8
   - PRI-260325-262C
+evidence:
+  - id: INS-260330-EA56
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-9BE8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Saylor uses the medical metaphor of George Washington being bled to death by well-meaning physicians to describe government economic policy. He identifies a three-layer failure cascade: (1) Primary — governments attempt to do good through policies (trade, energy, labor, manufacturing, medical) that each interfere with free market efficiency and must be paid for. (2) Secondary — since they can't fund these policies through transparent taxation (the public would reject the true cost), they expand the currency supply, collapsing their own currency without realizing it. (3) Tertiary — they mismeasure how badly they're collapsing the currency, reporting a 95% loss over 100 years when the real figure is 99.7% over 80 years. The key insight is that this isn't malevolence but a lack of humility — overestimating what can be accomplished while underestimating costs and side effects. Saylor notes his own business mistakes followed the same pattern: 'My mistakes were always my good ideas that I enthusiastically pursued to the detriment of my great ideas that required 150% of my attention.' This maps to Nassim Taleb's concept of iatrogenics — the tendency of interventions to cause more harm than the original condition.

@@ -51,5 +51,9 @@ related:
   - INS-260327-2D68
   - INS-260326-A7CB
   - INS-260325-D02E
+evidence:
+  - id: INS-260326-A7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Seven signs of liver distress: 1) Right shoulder pain or tightness under right rib cage (referred pain from bile duct congestion), 2) Spider angiomas (small red spider-web blood vessels on skin), 3) Palmar erythema (red palms), 4) Jaundice (yellowing of skin and eyes from bilirubin backup), 5) Ascites (fluid accumulation in abdomen), 6) Easy bruising (liver produces clotting factors), 7) Dark urine with pale stools (bile not reaching intestines). The liver can lose up to 75% of function before blood tests become abnormal. Fatty liver (affecting 1 in 3 adults) is the precursor and is completely reversible with low-carb diet, intermittent fasting, and avoiding alcohol and fructose.

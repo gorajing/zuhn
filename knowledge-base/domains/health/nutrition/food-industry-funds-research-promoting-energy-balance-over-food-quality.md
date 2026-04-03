@@ -55,6 +55,13 @@ related:
   - INS-260327-B2E3
   - PRI-260325-4FD3
   - INS-260330-A84D
+evidence:
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-A84D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Coca-Cola has funded hundreds of research studies and given hundreds of millions of dollars to universities promoting the narrative that junk food is acceptable as long as energy balance is maintained. This 'Global Energy Balance Network' approach deliberately shifts focus from food quality to calorie counting.
 

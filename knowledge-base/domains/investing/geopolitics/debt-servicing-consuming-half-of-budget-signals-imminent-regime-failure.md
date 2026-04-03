@@ -55,6 +55,10 @@ related:
   - INS-260327-15E1
   - INS-260327-B6B7
   - INS-260330-85C2
+evidence:
+  - id: INS-260330-85C2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 By 1789, France allocated roughly 50% of its national budget to servicing existing debt — a ratio that made meaningful reform mathematically impossible. Every finance minister Louis XVI appointed failed not from incompetence but from arithmetic: when half your resources go to past obligations, you can't fund current operations or invest in structural change. The hailstorm that destroyed crops was the external shock, but the vulnerability was entirely self-created.
 

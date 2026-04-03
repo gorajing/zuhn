@@ -60,5 +60,15 @@ related:
   - INS-260330-35E2
   - INS-260330-4C67
   - INS-260327-2356
+evidence:
+  - id: INS-260327-2356
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-BE3F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-5E9B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Toussaint L'Ouverture led history's only successful slave revolution, but his most counter-intuitive management decision was what he did after winning: he incorporated the best enemy officers as generals in his own army. His reasoning was multi-perspective: his soldiers wanted to pillage and kill, but he recognized that the culture born from slavery — obedience through brutality — was insufficient to build a first-class nation. He needed European military expertise, administrative knowledge, and cultural sophistication. The results validated his approach: Haiti under Toussaint had more export revenue than the United States. He applied the same logic to slave owners — ending slavery but letting them keep their land, requiring paid labor, and lowering their taxes to fund the transition. This is the management concept at its most extreme: subordinating the entirely justified emotional response of his constituency to a larger strategic vision that required seeing the situation through every stakeholder's eyes, including the enemy's.

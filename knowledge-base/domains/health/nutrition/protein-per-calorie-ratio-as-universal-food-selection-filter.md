@@ -47,5 +47,9 @@ related:
   - INS-260327-E728
   - INS-260329-965A
   - INS-260327-E2F1
+evidence:
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi uses whey protein scoops as a calibration benchmark: if a food delivers roughly 24g protein per 120 calories, it's in the 'pure protein' tier. Foods that deviate significantly (higher calories per gram of protein) are fattier or carb-heavy sources. This creates a fast mental shortcut for grocery shopping and meal assembly — instead of calculating percentages, you simply ask 'is this as lean as a protein scoop?' String cheese (200cal/24g protein) passes; most protein bars fail. The heuristic is especially useful when traveling or shopping unfamiliar stores, because you can evaluate any product in seconds without detailed label analysis.

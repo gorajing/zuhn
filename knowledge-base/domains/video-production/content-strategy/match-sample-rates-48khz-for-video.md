@@ -58,6 +58,15 @@ evidence:
   - id: INS-260326-8201
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260321-A6A6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260320-CDE4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260320-77C2
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 
 The standard sample rate for video production audio is 48kHz (not

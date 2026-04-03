@@ -59,6 +59,13 @@ related:
 stance: >-
   Rella tried to serve everyone on social media, built a confused Frankenstein
   product, nearly died
+evidence:
+  - id: INS-260322-06EA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-978B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Natalie's biggest mistake was modeling after Notion's 'for everyone' positioning before having the resources to support it. Trying to serve influencers, talent managers, in-house teams, and content creators simultaneously created feature confusion, high churn, and no clear identity. Influencers said 'love it' but never paid.
 

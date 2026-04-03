@@ -55,6 +55,10 @@ related:
   - INS-260325-2AA0
   - INS-260327-B37E
   - INS-260330-CF10
+evidence:
+  - id: INS-260330-CF10
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Finkel emphasizes that surviving cuneiform tablets represent a tiny fraction of what was written. Clay tablets survived by accident (often by being baked in fires that destroyed the buildings housing them). The selection is non-random: administrative records survive better than literature, public monuments better than private correspondence.
 

@@ -61,6 +61,10 @@ related:
   - INS-260330-6D49
   - INS-260330-615D
   - INS-260327-8912
+evidence:
+  - id: INS-260327-8268
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When Constantine moved the capital from Rome to Constantinople in 330 CE, he was making a brutal strategic calculation: the western half of the empire was in structural decline (depleted farmland, overextended borders, weakening tax base), while the east had thriving trade routes, defensible geography, and economic vitality. Rather than pouring resources into defending a declining position, he repositioned toward where growth was happening.
 

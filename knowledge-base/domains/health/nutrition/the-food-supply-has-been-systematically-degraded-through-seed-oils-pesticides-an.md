@@ -48,5 +48,9 @@ related:
   - INS-260327-BF59
   - INS-260327-5961
   - INS-260327-B87B
+evidence:
+  - id: INS-260322-D051
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The modern food supply contains over 10,000 additives approved by the FDA through industry self-regulation (GRAS status), including seed oils, artificial colors banned in Europe, glyphosate residues, and emulsifiers that damage gut lining -- a systematic poisoning enabled by regulatory capture

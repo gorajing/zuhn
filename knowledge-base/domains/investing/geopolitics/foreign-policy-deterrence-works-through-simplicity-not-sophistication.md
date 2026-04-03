@@ -60,6 +60,13 @@ related:
   - PRI-260324-8EE6
   - PRI-260323-9928
   - INS-260330-ABBF
+evidence:
+  - id: INS-260323-CB47
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-ABBF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Shapiro makes the counterintuitive argument that foreign policy 'is not all that complex and not all that nuanced—very often it amounts to if you cross this line I'll punch you in the face.' He contrasts Trump's Abraham Accords success with the Biden-Harris administration's Middle East conflagration, arguing that the supposedly unsophisticated approach produced better outcomes.
 

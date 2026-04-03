@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-4DE7
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-6BAF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Lenin's October Revolution involved surprisingly few people. The Bolsheviks didn't need to fight a civil war to seize power — they just needed to capture the critical nodes of the system: the telegraph office (communications), the bridges (movement), the railway stations (logistics), and the banks (finance). Once those were controlled, the Provisional Government was cut off from the rest of the country and collapsed almost without a fight.
 

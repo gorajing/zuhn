@@ -23,13 +23,14 @@
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
+- `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
+- `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
+- `INS-260403-363C` Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260330-9E91` Resource scarcity predictions assume fixed knowledge, but knowledge creation continuously converts worthless things into resources — europium was essential for color TV until LCD screens made it irrelevant.
 - `INS-260402-9093` The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
 - `INS-260325-D624` GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
-- `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
-- `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
 - `INS-260330-F8E7` Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.
 - `INS-260330-FC16` LA's shade balls were originally 'bird balls' for airports and mine ponds — repurposed to solve a completely different water chemistry problem.
 - `INS-260325-1160` Roman concrete contains lumps of quickite that were once considered manufacturing defects — MIT researchers discovered these lumps actually create self-healing concrete that gets stronger over time.
@@ -39,6 +40,7 @@
 - `INS-260330-656A` Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.
 - `INS-260330-DE65` Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
+- `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260323-1643` Netanyahu's formula for Israel's GDP growth from $17K to $54K per capita: free market reforms plus a permanent pipeline of knowledge workers from military intelligence who become technology entrepreneurs.
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.

@@ -54,5 +54,9 @@ related:
   - INS-260330-544F
   - INS-260330-121C
   - PRI-260328-A4AC
+evidence:
+  - id: INS-260330-121C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hildebrand traces subscription evolution: Phase 1 (genuine value — Netflix replaced $100/month cable), Phase 2 (proliferation — every service unbundled into its own subscription), Phase 3 (extraction — subscriptions for previously one-time purchases like software, hardware features, and even physical products). The average American now has 12+ active subscriptions. Companies discovered that most subscribers don't cancel even when they stop using the service — the friction of cancellation exceeds the pain of the recurring charge. This is not accidental: dark patterns make cancellation deliberately difficult (call to cancel, multi-step processes, retention offers). The result: subscription fatigue where consumers pay for services they don't use but feel trapped by the convenience of not having to re-subscribe.

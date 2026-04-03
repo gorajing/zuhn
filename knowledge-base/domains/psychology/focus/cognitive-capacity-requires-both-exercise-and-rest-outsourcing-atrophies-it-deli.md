@@ -51,7 +51,6 @@ stance: >-
   restores the capacity outsourcing and overstimulation destroy.
 related:
   - INS-260325-7417
-  - INS-260323-5D6D
   - INS-260327-B19E
   - INS-260327-F0C0
   - INS-260327-4279
@@ -60,6 +59,7 @@ related:
   - PRI-260328-1654
   - PRI-260323-C49D
   - INS-260329-6BFC
+  - INS-260330-9351
 evidence:
   - id: INS-260327-2F75
     type: SUPPORTS

@@ -55,5 +55,12 @@ related:
   - INS-260327-3014
   - INS-260325-6088
   - INS-260330-09B5
+evidence:
+  - id: INS-260326-CA66
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-A2E5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The medical system treats chronic diseases as separate conditions: cardiologists for heart disease, endocrinologists for diabetes, hepatologists for fatty liver, neurologists for Alzheimer's. But they share one root cause: insulin resistance. When cells become resistant to insulin, glucose cannot enter cells efficiently. The body compensates with more insulin. Chronically elevated insulin causes: fat storage (especially visceral and liver fat), arterial inflammation, brain cell starvation (Alzheimer's), hormonal disruption (PCOS, testosterone issues), kidney damage, and cancer cell proliferation (insulin is a growth factor). The unified treatment: low-carb diet + intermittent fasting to restore insulin sensitivity. This single intervention addresses the root cause that spans all these 'different' diseases.

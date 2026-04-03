@@ -54,5 +54,8 @@ evidence:
   - id: INS-260327-9638
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-2647
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Graham argues that valuations are largely fictional—derived from how much money a startup needs and how much equity the VC wants, not from any intrinsic company value. A $10M premoney valuation means VCs will push for a $100M+ exit to get acceptable returns, but the number of companies that can write a $100M check is tiny compared to those that could do $20M. Since startup outcomes for founders are essentially pass/fail (you either get life-changing money or you don't), optimizing for probability of a good outcome matters more than optimizing for ownership percentage. The counterintuitive move is to take less money at lower valuations, preserving more exit paths. Founders chase high valuations out of ego and peer comparison, not rational self-interest.

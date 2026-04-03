@@ -56,6 +56,10 @@ related:
   - INS-260327-AB93
   - INS-260327-1270
   - INS-260327-5E7F
+evidence:
+  - id: INS-260323-F9FD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Erling Haaland's publicly discussed diet includes organ meats (liver, heart), grass-fed beef, and ancestral eating principles. This represents a growing trend among elite athletes returning to nutrient-dense whole-food approaches rather than relying solely on synthetic supplements and processed sports nutrition.
 

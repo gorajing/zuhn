@@ -59,6 +59,16 @@ related:
   - INS-260330-58B9
   - INS-260330-4AAD
   - INS-260330-FA07
+evidence:
+  - id: INS-260330-58B9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4AAD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-FA07
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The First Crusade was launched as a holy mission to liberate Jerusalem. Once achieved, the crusaders established permanent states — the Kingdom of Jerusalem, the County of Tripoli, the Principality of Antioch — that quickly evolved into conventional feudal polities. Their rulers' primary concern became maintaining their own power, not the spiritual mission that brought them there. The crusading infrastructure (military orders, papal taxation, pilgrimage routes) became self-perpetuating institutions.
 

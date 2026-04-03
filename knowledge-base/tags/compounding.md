@@ -57,23 +57,23 @@
 - `INS-260329-8542` Writing yourself a 10-year contract to add 1-2 zeros to your net worth transforms your decision-making from gambling to inevitable compounding.
 - `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
+- `INS-260327-7BFA` In your 20s with fewer responsibilities, work 7am to 7pm then prospect until 10pm -- the repetitions compound into skills and relationships that let your 40-year-old self have a family, coach kids' sports, and still earn top-tier income.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-8C52` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260323-F310` LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
 - `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
-- `INS-260327-7BFA` In your 20s with fewer responsibilities, work 7am to 7pm then prospect until 10pm -- the repetitions compound into skills and relationships that let your 40-year-old self have a family, coach kids' sports, and still earn top-tier income.
 - `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260325-B868` Progress begets progress through feedback loops where inventions like computers and steam engines amplify the capacity to invent further.
-- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
-- `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
 - `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
 - `INS-260325-039E` High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
 - `INS-260325-1407` A high-cost portfolio generates 20% less value over 25-30 years than a low-cost one, and the Vanguard effect has saved investors roughly $2 trillion in fees since the 1970s.
 - `INS-260330-44C7` Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
+- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
+- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
+- `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.

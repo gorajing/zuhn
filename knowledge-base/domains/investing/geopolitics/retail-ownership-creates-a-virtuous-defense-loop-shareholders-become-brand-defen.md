@@ -57,6 +57,25 @@ related:
 stance: >-
   Companies with broad retail investor bases trade at higher multiples and
   benefit from organic brand defense because owners have skin in the game.
+evidence:
+  - id: INS-260330-6088
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-C0F1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-9288
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260329-D5FF
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F512
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0E28
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Robinhood's IPO access product evolved from a favor-asking exercise (begging companies to allocate 1-2% to retail) to a sought-after feature (companies like Bullish allocating 20% to retail). The reason: stocks with retail followings were rewarded with higher multiples. Palantir and Tesla demonstrate the virtuous cycle — many Tesla stock bulls also own the car, creating organic brand advocacy.
 

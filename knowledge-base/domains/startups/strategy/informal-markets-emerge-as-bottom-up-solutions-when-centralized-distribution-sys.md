@@ -55,5 +55,12 @@ related:
   - PRI-260328-A4AC
   - INS-260325-6AD5
   - INS-260323-104E
+evidence:
+  - id: INS-260330-2B4F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-6AD5
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 After the Soviet Union's collapse in 1991, North Korea's centralized food distribution fell from 450g/day rations in 1994 to 128g by 1997, with only 6% of the population receiving any government food. The system never recovered, and 62% of defectors report working unofficial gray-market jobs. The regime tolerates this because the activity is material rather than political - people seek survival and luxury, not regime change. The government even created the 'August 3rd Rule' allowing citizens to pay a fee to skip official work. This pattern appears across many domains: when centralized systems fail to serve basic needs, decentralized alternatives emerge organically, and incumbents eventually accommodate rather than fight them because suppression would create more instability than tolerance.

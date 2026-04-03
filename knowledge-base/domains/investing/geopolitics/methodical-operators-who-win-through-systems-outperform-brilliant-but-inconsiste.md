@@ -58,6 +58,16 @@ related:
   - INS-260327-E30A
   - INS-260327-8BFF
   - INS-260330-4AAD
+evidence:
+  - id: INS-260326-E411
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-35E2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4AAD
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 While other marshals in Spain pursued dramatic campaigns and fought spectacular battles (and mostly lost), Suchet methodically pacified his sector of Spain through a systematic approach: fair treatment of civilians, reliable administration, consistent enforcement, and careful military operations. He was the only French marshal to sustainably control Spanish territory. His success wasn't exciting, but it was real and durable.
 

@@ -60,6 +60,22 @@ related:
   - INS-260330-0FF7
   - INS-260330-AAE9
   - INS-260330-2C57
+evidence:
+  - id: INS-260330-B4BD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-22A2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-74AC
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-0FF7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2C57
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When families are limited to one child in a culture that strongly prefers sons, sex-selective abortion and abandonment of female infants create severe gender imbalances. China's sex ratio at birth reached 120 boys per 100 girls in some provinces (natural ratio: ~105:100). The aggregate result is an estimated 30-40 million 'surplus' men who cannot find domestic partners.
 

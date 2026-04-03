@@ -52,6 +52,16 @@ related:
   - INS-260327-EF98
   - INS-260327-AEF6
   - INS-260327-9508
+evidence:
+  - id: INS-260327-AEF6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-76DA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-9508
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 GDP counts every dollar spent regardless of whether it came from income or borrowed money. When consumer spending drives 69% of GDP and household debt is at record highs while savings are at record lows, GDP growth is partially measuring debt accumulation rather than economic health.
 

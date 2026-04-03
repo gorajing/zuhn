@@ -49,5 +49,9 @@ related:
   - INS-260327-6EB5
   - INS-260327-E121
   - INS-260327-6EB6
+evidence:
+  - id: INS-260327-6EB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Magnesium deficiency symptoms appear long before blood levels drop because only 1% of body magnesium is in blood; muscle cramps, insomnia, anxiety, and heart palpitations are early warning signs

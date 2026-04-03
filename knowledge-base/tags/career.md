@@ -1,6 +1,7 @@
 # Tag: career
 
 - `INS-260322-116B` When AI can perform any technical task, employers hire for trustworthiness and genuine care — the qualities visible in someone's eyes, not their resume.
+- `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260323-7CA7` Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.
 - `INS-260327-73CB` The most meaningful work combines multiple domains rather than maximizing one - the person who connects their varied interests often contributes more than the pure specialist.

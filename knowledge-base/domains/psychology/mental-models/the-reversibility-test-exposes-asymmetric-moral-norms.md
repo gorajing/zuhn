@@ -55,6 +55,10 @@ related:
   - INS-260330-C451
   - INS-260330-6D13
   - INS-260330-5779
+evidence:
+  - id: INS-260323-E204
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harris proposes a simple but powerful moral reasoning tool: imagine the roles reversed. When you picture Israel using its own civilians as human shields against Hamas, the scenario becomes absurd — not because of capability differences, but because the ethical norms governing each side's behavior are fundamentally different. This reversibility test cuts through complex political arguments by isolating the variable that matters most: what each side considers acceptable behavior toward its own people and toward non-combatants.
 

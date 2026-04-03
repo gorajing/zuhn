@@ -55,9 +55,14 @@ related:
   - INS-260327-7BFA
   - INS-260330-8907
   - INS-260323-4B1C
+  - INS-260403-0406
 stance: >-
   As you age, competing on individual technical skill puts you against younger
   rivals
+evidence:
+  - id: INS-260323-FFE8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Developers who focus exclusively on individual technical mastery face a structural disadvantage over time: younger competitors with fresher skills enter the market constantly. Whether you choose a management track or stay as an individual contributor, you need influence to be recognized and advance.
 

@@ -51,13 +51,16 @@ stance: >-
   without a community culture that values and practices independent
   verification, the system will centralize under economic pressure.
 related:
+  - INS-260403-6428
   - INS-260322-5D22
   - INS-260329-E45A
   - INS-260330-6D2E
   - INS-260325-4C6D
-  - INS-260330-EF74
 evidence:
   - id: INS-260325-4C6D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-EF74
     type: CHALLENGES
     classified_at: '2026-04-02'
 ---

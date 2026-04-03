@@ -60,6 +60,10 @@ related:
   - INS-260327-842F
   - PRI-260324-8EE6
   - INS-260327-F484
+evidence:
+  - id: INS-260327-842F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harris challenges the dominant liberal narrative that Capitol police would have responded with overwhelming force had the mob been Black. He presents specific counter-evidence: black officers were among those struggling to defend the building, a white woman was shot and killed (while no BLM protesters were shot by police over months of rioting), and extensive footage exists of cops standing idle during BLM looting. He also notes the security failure may have partly resulted from DC's mayor resisting heavy-handed policing after the BLM federal response.
 

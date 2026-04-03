@@ -44,5 +44,9 @@ related:
   - INS-260326-CA66
   - PRI-260325-9258
   - INS-260327-FC60
+evidence:
+  - id: INS-260326-CA66
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Insulin resistance is not just a diabetes precursor but the metabolic dysfunction underlying obesity, cardiovascular disease, neurodegeneration, and most cancers -- making it the single most important health metric

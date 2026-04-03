@@ -51,6 +51,10 @@ resolutions:
 stance: >-
   Viral organic content repurposed as paid ads underperforms compared to
   purpose-built performance creatives
+evidence:
+  - id: INS-260327-B7C4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 
 A common assumption is that viral organic content will perform well

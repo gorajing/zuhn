@@ -57,5 +57,9 @@ related:
   - INS-260329-A57C
   - INS-260329-12EC
   - INS-260329-913C
+evidence:
+  - id: INS-260327-8D7E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi's customer acquisition formula is deliberately simple: greet someone, mention something specific about them as a compliment, insert your one-sentence positioning statement (from the 'I help [who] get [good stuff] without [bad stuff]' framework), then ask if they know anyone who could benefit. Do this for 4 hours per day or until you hit 100 contacts. The power of this approach is that it removes skill as a bottleneck — even with terrible conversion rates, the math works at sufficient volume. It also creates a feedback loop: each conversation teaches you how real people respond to your positioning, what objections arise, and what language resonates — feeding back into improving your offer. The ask-for-referrals step is subtle but critical: it lets the contact say 'actually, that's me' without the pressure of being directly sold to, and even if they don't buy, they become a distribution node. This approach is specifically designed for broke entrepreneurs who have time but no money for advertising.

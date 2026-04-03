@@ -53,6 +53,16 @@ related:
 stance: >-
   Ji got 8 years and his handler Xu got 20, but both were returned to China in a
   spy swap late in the Biden administration
+evidence:
+  - id: INS-260330-5C69
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-4EE9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-97A1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The FBI explicitly wanted to 'set an example' with severe sentences. Yet both convicted spies were ultimately returned to China in a prisoner swap for three Americans held by Beijing. China publicly denied all allegations while privately lobbying for their return. This dual-track behavior — public denial, private negotiation — is the standard playbook.
 

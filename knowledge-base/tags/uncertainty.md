@@ -3,8 +3,8 @@
 - `INS-260326-2D41` Russell's second principle — that the AI should not know what human values are — creates a provably beneficial property: the machine's incentive to allow shutdown is directly proportional to its uncertainty about human objectives.
 - `INS-260322-5932` Unlike previous platform shifts (internet, mobile), AI lacks a known theoretical ceiling, making deterministic predictions uniquely unreliable.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
-- `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
+- `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
 - `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
 - `INS-260323-581C` The fundamental driver of conflict in international politics is the inability to know another state's future intentions, making worst-case preparation rational.

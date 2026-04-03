@@ -59,6 +59,16 @@ related:
   - INS-260327-FC4F
   - PRI-260328-1545
   - INS-260327-0D7C
+evidence:
+  - id: INS-260325-1585
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-470B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-FC4F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Lustig presents an elegant cross-domain argument using economics to prove sugar addiction. Price elasticity measures how consumption responds to price changes: eggs are highly elastic (0.32 — consumption drops significantly when price rises). The most price-inelastic foods are fast food (0.81), soft drinks (0.79), and juice (0.77) — all sugar-laden. Consumers will pay almost any price for them.
 

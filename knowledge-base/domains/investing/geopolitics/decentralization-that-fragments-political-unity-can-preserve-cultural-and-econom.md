@@ -55,6 +55,10 @@ related:
   - INS-260330-F158
   - PRI-260325-6400
   - INS-260327-8912
+evidence:
+  - id: INS-260330-F158
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The Abbasid Caliphate's political fragmentation into independent dynasties (Fatimids, Buyids, Samanids, etc.) didn't destroy Islamic civilization — it actually accelerated cultural production. Multiple independent courts competed to attract the best scholars, creating a competitive marketplace for intellectual talent. The underlying Islamic commercial and cultural networks persisted regardless of political boundaries.
 

@@ -58,6 +58,25 @@ related:
   - INS-260330-35E2
   - INS-260330-4C67
   - INS-260330-1226
+evidence:
+  - id: INS-260322-0D87
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-2CCA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E0A9
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-35E2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4C67
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-1226
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Before the Revolution, the French army's officer corps was reserved for the aristocracy. Napoleon, as a minor Corsican noble, could never have risen above junior rank. But the Revolution purged the aristocratic officer class — through emigration, execution, and dismissal — creating massive vacancies. A talented 24-year-old who would normally wait decades for promotion became a general in months because there was nobody else.
 

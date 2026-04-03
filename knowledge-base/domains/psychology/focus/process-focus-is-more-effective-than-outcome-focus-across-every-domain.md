@@ -52,6 +52,7 @@ related:
   - INS-260323-DA91
   - INS-260328-E410
   - INS-260329-B4F5
+  - INS-260403-D64B
 ---
 The process-over-outcome principle appears across domains: athletes perform better when focused on technique than score, writers produce better work when focused on daily practice than bestseller lists, entrepreneurs build better companies when focused on customer value than valuation.
 

@@ -51,5 +51,9 @@ related:
   - INS-260327-B93E
   - INS-260325-B393
   - INS-260325-FCF1
+evidence:
+  - id: INS-260326-A7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Key visible signs: 1) Foamy or bubbly urine (protein leaking), 2) Ankle/leg swelling (fluid retention), 3) Puffy eyes especially morning, 4) Dark circles under eyes, 5) Metallic taste in mouth, 6) Ammonia breath, 7) Itchy skin (phosphorus buildup), 8) Changes in urine color or frequency, 9) Lower back pain (kidney area), 10) Fatigue and brain fog. The two biggest kidney destroyers are uncontrolled blood sugar (diabetes is the #1 cause of kidney failure) and chronic NSAID use (ibuprofen, naproxen). Prevention: control blood sugar through low-carb diet, avoid NSAIDs, stay hydrated, monitor potassium intake if already impaired.

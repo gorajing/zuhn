@@ -51,8 +51,8 @@ related:
   - INS-260323-DE2B
   - INS-260329-1ECA
   - INS-260330-255F
+  - INS-260403-EAC6
   - INS-260330-C24F
-  - INS-260329-6D3B
 stance: >-
   Browse top-grossing apps, find categories with identical competitors, then
   build the same concept with a differentiated angle for an underserved se...

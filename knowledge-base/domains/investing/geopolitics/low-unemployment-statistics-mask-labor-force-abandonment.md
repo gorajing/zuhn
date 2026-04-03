@@ -55,6 +55,9 @@ evidence:
   - id: INS-260322-59B9
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-4E01
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Official unemployment only measures people actively seeking work. Someone who gives up job searching entirely drops out of the statistic, making unemployment look better precisely when conditions for some groups are worst. Mississippi's labor force participation rate of 54% tells a far different story than its unemployment rate.
 

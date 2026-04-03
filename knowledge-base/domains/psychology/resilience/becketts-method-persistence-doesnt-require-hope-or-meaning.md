@@ -59,6 +59,9 @@ evidence:
   - id: INS-260320-5F14
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-DA4E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Most motivation frameworks require positive expectations: persist because it will pay off, because you'll succeed, because things will improve. Beckett removes this requirement entirely. 'I can't go on. I'll go on.' acknowledges simultaneously that the situation is impossible AND that you'll continue anyway.
 

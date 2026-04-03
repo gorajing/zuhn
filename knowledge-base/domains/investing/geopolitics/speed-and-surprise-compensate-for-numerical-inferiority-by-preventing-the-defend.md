@@ -59,6 +59,13 @@ related:
   - INS-260327-EF8C
   - INS-260327-A072
   - INS-260327-377A
+evidence:
+  - id: INS-260326-E411
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-4DE7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Belisarius landed in North Africa and immediately advanced on Carthage, the Vandal capital. King Gelimer's forces were dispersed — part of the army was in Sardinia suppressing a revolt. Belisarius attacked before Gelimer could recall these forces or organize a coordinated defense. The Vandals fought piecemeal battles with whatever forces were locally available, each of which Belisarius defeated. The entire kingdom fell in weeks.
 

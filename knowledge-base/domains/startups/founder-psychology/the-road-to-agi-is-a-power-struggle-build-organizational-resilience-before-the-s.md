@@ -53,6 +53,10 @@ related:
 stance: >-
   As stakes increase, power struggles intensify — resilient governance
   structures must be built early, before the pressure peaks.
+evidence:
+  - id: INS-260323-C304
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Altman describes the board crisis as 'a preview of what's going to happen as the stakes get higher and higher.' He explicitly expected power struggles on the road to AGI. The key lesson: nonprofit board structures without shareholder accountability create dangerous power vacuums. Boards that 'don't answer to anyone but themselves' are structurally fragile.
 

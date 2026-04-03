@@ -54,6 +54,9 @@ evidence:
   - id: INS-260322-0812
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-EEEE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is why the most viral foods are often mediocre eating experiences.
 

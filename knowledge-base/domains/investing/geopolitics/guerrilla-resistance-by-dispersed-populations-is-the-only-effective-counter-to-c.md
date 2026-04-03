@@ -59,6 +59,10 @@ related:
   - INS-260327-377A
   - INS-260330-B490
   - INS-260330-E4DB
+evidence:
+  - id: INS-260330-E4DB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Spanish guerrilleros invented modern insurgency: avoiding pitched battles, attacking supply lines, assassinating couriers and collaborators, and melting back into the population. No individual guerrilla action was militarily significant. But the cumulative effect was devastating: French forces couldn't concentrate because every garrison needed protection, supply lines required massive escorts, and intelligence was impossible to gather in a hostile population.
 

@@ -58,6 +58,10 @@ related:
   - INS-260327-7B16
   - INS-260325-268F
   - INS-260330-A2E7
+evidence:
+  - id: INS-260327-7B16
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Harvard Study of Adult Development, the longest study of adult life ever conducted, has tracked 724 men and their families since 1938 across dramatically different socioeconomic backgrounds — Harvard sophomores and boys from Boston's poorest families. The central finding is unambiguous: the quality of relationships is the strongest predictor of both physical health and life satisfaction.
 

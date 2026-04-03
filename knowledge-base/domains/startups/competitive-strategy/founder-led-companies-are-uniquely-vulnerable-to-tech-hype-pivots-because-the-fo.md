@@ -58,9 +58,9 @@ related:
   - INS-260322-06EA
   - INS-260327-7265
   - INS-260327-4434
+  - INS-260403-EAC6
   - INS-260330-2B42
   - INS-260328-3A00
-  - INS-260330-1266
   - INS-260327-1C7C
   - INS-260330-36DB
 evidence:
@@ -74,6 +74,9 @@ evidence:
     type: SUPPORTS
     classified_at: '2026-04-02'
   - id: INS-260324-27E2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260322-06EA
     type: EXTENDS
     classified_at: '2026-04-02'
 ---

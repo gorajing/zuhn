@@ -54,7 +54,6 @@ stance: >-
   escape is adjacent-category expansion.
 related:
   - INS-260324-27E2
-  - INS-260324-29D8
   - INS-260324-9586
   - INS-260324-179B
   - INS-260324-8656
@@ -63,6 +62,7 @@ related:
   - INS-260324-224B
   - INS-260327-0004
   - INS-260327-90E8
+  - PRI-260328-82BE
 evidence:
   - id: INS-260324-27E2
     type: EXTENDS

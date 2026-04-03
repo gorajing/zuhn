@@ -54,5 +54,6 @@ related:
   - INS-260330-43EE
   - INS-260325-E84D
   - INS-260329-C81C
+  - INS-260403-6E76
 ---
 Harvard CS50 consistently reports that approximately two-thirds of its students have never taken a computer science course before. This is remarkable for what has become the most popular course at Harvard — it means the majority of students in an elite university's flagship CS class are complete beginners. The implication is profound: the barrier to entry for computer science is almost entirely psychological. People self-select out because they believe they need prior experience, mathematical aptitude, or a certain type of mind. CS50's success with beginners proves these beliefs are unfounded. This pattern generalizes beyond CS — in any domain where perceived prerequisites discourage newcomers, the actual skill floor is likely much lower than assumed. The practical takeaway is to lower the stakes of first attempts (as CS50 does with pass/fail enrollment) to bypass the self-selection filter.

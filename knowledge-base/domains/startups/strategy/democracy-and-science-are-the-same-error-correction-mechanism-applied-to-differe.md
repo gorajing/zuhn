@@ -73,5 +73,11 @@ evidence:
   - id: INS-260325-2B17
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-6357
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-3D0F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Plato framed democracy as 'who should rule?' — philosopher kings vs the mob. Popper reframed it entirely: democracy is the system that lets you remove bad policies and rulers most efficiently without violence. This reframe is powerful because it shifts evaluation criteria. Instead of asking 'did we elect the best leader?', you ask 'can we get rid of a bad one quickly?' This maps directly to how science works — no method guarantees finding the true theory, but falsification reliably eliminates false ones. The same framework applies to startups and organizations: the best systems aren't the ones that make perfect decisions upfront, but the ones that detect and correct errors fastest. This is why authoritarian systems fail at innovation despite appearing efficient — they optimize for selection quality while destroying the error-correction mechanism.

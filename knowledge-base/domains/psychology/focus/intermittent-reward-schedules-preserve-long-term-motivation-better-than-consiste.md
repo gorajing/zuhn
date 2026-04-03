@@ -55,5 +55,9 @@ related:
   - INS-260325-085E
   - INS-260330-0C31
   - INS-260330-E823
+evidence:
+  - id: INS-260325-085E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Huberman argues that the same intermittent reinforcement principle that keeps gamblers returning to casinos can be deliberately applied to sustain motivation for beneficial activities. The key insight is that consistently layering maximum dopamine-enhancing conditions (pre-workout drinks, music, social elements) onto an activity creates an escalating requirement for stimulation. Instead, randomly varying these enhancements — sometimes exercising with all your favorite conditions, sometimes with none — prevents the progressive narrowing of what brings pleasure. He suggests a practical tool: flip a coin to decide whether to include dopamine-enhancing elements like music or caffeine before exercise. This feels counterproductive but actually serves both short-term and long-term motivation by preventing baseline dopamine depletion.

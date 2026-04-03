@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-82B2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-10C9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video makes a nuanced point often lost in antitrust debates: Apple's closed ecosystem is simultaneously anticompetitive AND genuinely beneficial. Because Apple controls both iOS and the App Store, iPhones are more secure, more private, and more coherent than they would be with open distribution. Breaking up this integration would reduce Apple's market power but also degrade the product experience millions of users chose specifically for those qualities.
 

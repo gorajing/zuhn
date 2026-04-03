@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-2D1D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-024F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Every number up to 2^68 (roughly 295 quintillion) satisfies the Collatz conjecture. This sounds overwhelmingly convincing until you learn that the Polya conjecture was similarly verified for an enormous range before a counterexample was found at approximately 1.845 × 10^361 — roughly 10^340 times larger than the Collatz search space.
 

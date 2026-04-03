@@ -54,6 +54,10 @@ related:
   - INS-260327-9D23
   - INS-260327-FFE8
   - INS-260326-E411
+evidence:
+  - id: INS-260326-E411
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Every Austrian attempt to relieve Mantua required marching through Alpine passes with long, vulnerable supply lines. Napoleon positioned his army to threaten these supply routes, forcing the Austrians to divert forces for protection. His own supply lines, running through friendly territory in northern Italy, were shorter and more secure.
 

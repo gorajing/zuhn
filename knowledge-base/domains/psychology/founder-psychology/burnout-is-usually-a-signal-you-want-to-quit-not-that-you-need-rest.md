@@ -53,8 +53,8 @@ related:
   - INS-260327-E7FF
   - INS-260327-B19E
   - INS-260328-3FCE
+  - INS-260403-449A
   - INS-260325-0A49
-  - INS-260329-4F67
 ---
 Naval challenges the common narrative that burnout is solved by rest and recharging. His claim is that when someone says they're burned out, the honest translation is usually 'I want to quit' — even if they don't consciously realize it. If you genuinely enjoy your work, it gives you more energy and motivation rather than depleting it. The feeling of burnout points to a deeper misalignment: either the work itself isn't succeeding, or the person doesn't enjoy the fundamental nature of what they're doing.
 

@@ -56,6 +56,10 @@ related:
   - INS-260327-E7AC
   - INS-260327-B038
   - INS-260327-F484
+evidence:
+  - id: INS-260323-1BB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 After Leipzig, the Coalition offered Napoleon generous terms: keep his throne, keep France's natural borders (Rhine, Alps, Pyrenees). For a man who had lost Germany, Spain, and most of his army, this was remarkably favorable. But Napoleon couldn't psychologically accept a diminished position. He delayed, haggled, and refused — believing he could still win militarily. Within months, Paris fell, and he was exiled with nothing.
 

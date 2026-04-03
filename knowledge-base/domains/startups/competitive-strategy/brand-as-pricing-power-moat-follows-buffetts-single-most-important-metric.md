@@ -55,5 +55,9 @@ related:
   - INS-260327-82AA
   - INS-260327-65F6
   - INS-260327-6A45
+evidence:
+  - id: INS-260322-2647
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi demonstrates that a $5 white t-shirt becomes a $60 Nike t-shirt purely through accumulated brand pairings — a 12x price premium on an identical physical product. He anchors this in Buffett's metric: 'The single most important decision in evaluating a business is pricing power. If you've got the power to raise prices without losing business to a competitor, you've got a very good business.' Brand compounds three advantages simultaneously: premium pricing (higher margins), improved advertising efficiency (6x click-through rates on branded vs generic), and customer loyalty (repeat purchases without considering competitors). This triple stacking is why branded companies outperform commodity businesses in every industry over long time horizons.

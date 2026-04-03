@@ -45,6 +45,10 @@ related:
   - INS-260327-E52A
   - INS-260327-5E03
   - INS-260327-6900
+evidence:
+  - id: INS-260327-B064
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 American cities built around cars resist public transit investment because the car-centric infrastructure creates constituencies that oppose any reallocation of road space or funding.
 

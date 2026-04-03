@@ -49,11 +49,11 @@ stance: >-
   access superlinear returns, but this also means greater inequality as
   institutional dampening disappears.
 related:
+  - INS-260403-6E76
   - PRI-260323-FA42
   - PRI-260325-262C
   - PRI-260328-C006
   - PRI-260323-8E89
-  - PRI-260324-36BF
 ---
 Graham argues that organizations historically dampened variation in returns for performance — your prestige was your institution's prestige, and working outside institutions was nearly impossible. Technology has eroded this: ambitious projects now require less initial funding, and individuals can learn, earn, find collaborators, and reach audiences without institutional backing.
 

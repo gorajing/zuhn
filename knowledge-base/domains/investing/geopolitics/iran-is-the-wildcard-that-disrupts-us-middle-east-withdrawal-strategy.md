@@ -50,6 +50,10 @@ related:
 stance: >-
   Iran's nuclear ambitions and proxy network (Hezbollah, Houthis) create an
   emergency risk that prevents the US from cleanly delegating Middle East p...
+evidence:
+  - id: INS-260323-BC61
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 While the US strategic goal is to have Middle Eastern countries bear primary regional responsibility, Iran represents a persistent wildcard. The risk of Iran acquiring nuclear weapons extends beyond Iran itself — the concern is proliferation to Hezbollah and the Houthis.
 

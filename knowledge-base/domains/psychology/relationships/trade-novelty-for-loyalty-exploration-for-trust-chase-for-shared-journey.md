@@ -56,5 +56,8 @@ evidence:
   - id: INS-260329-DFDD
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-516E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hormozi reframes the commitment decision as an explicit trade-off matrix rather than a romantic inevitability. Loyalty is defined as predictability of behavior, trust as the dividend of sustained time investment, and shared journey as directional alignment replacing individual pursuit. This framework is useful because it makes commitment a rational evaluation rather than an emotional leap. Someone who values novelty above loyalty shouldn't get married — not because they're flawed but because the trade doesn't make sense for their utility function. This also applies to co-founder relationships and business partnerships: you're trading optionality for compounding returns on a shared bet.

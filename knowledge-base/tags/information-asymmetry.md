@@ -5,6 +5,7 @@
 - `INS-260330-C7DB` Rosalind Franklin's unpublished X-ray crystallography data was shown to Watson and Crick without her knowledge, enabling their model — a cautionary tale about sharing proprietary data without structural protection.
 - `INS-260328-3959` A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
 - `INS-260329-4F3F` When everyone knows the numbers, you spend less time convincing them why the new priority matters.
+- `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260325-51E6` When a financial product reaches retail investors through social media, institutions have already captured the easy returns — what's left is mostly risk.
 - `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
 - `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.

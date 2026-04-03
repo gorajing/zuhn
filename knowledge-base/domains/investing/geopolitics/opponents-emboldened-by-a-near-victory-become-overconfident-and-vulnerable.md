@@ -60,6 +60,10 @@ related:
   - INS-260327-377A
   - INS-260327-5452
   - INS-260326-E411
+evidence:
+  - id: INS-260326-E411
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Eylau had been a near-victory for Russia — the closest anyone had come to defeating Napoleon in open battle. This emboldened Bennigsen to take greater risks in the 1807 summer campaign, advancing aggressively and crossing the Alle River at Friedland. Napoleon exploited this overconfidence, catching the Russian army with a river at their back and no room to maneuver. The near-miss at Eylau had paradoxically made the Russians more vulnerable, not less.
 

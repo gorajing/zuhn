@@ -60,5 +60,15 @@ related:
   - INS-260402-A999
   - INS-260330-247C
   - INS-260330-C1EA
+evidence:
+  - id: INS-260323-1338
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260402-A999
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-247C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Saylor identifies a critical structural flaw in how inflation is measured: conventional economics has no term for 'asset inflation' and deliberately excludes assets from the consumer price index. During March 2020, when interest rates dropped to near zero, the cost of a risk-free retirement income ($50K/year) jumped from $1M to $10M — a 10x increase that no inflation metric captured. The K-shaped recovery showed Wall Street recovering in weeks while Main Street remained shut down. This isn't accidental; it's structural. When governments print money, the velocity of that money through different asset classes varies enormously — it moves through crypto at 7,000x per year, through stocks at ~100x, through consumer goods at ~6x, and through gold at 0.1x. The new money inflates assets first and fastest, benefiting those who already own assets. First-time homebuyers face 19% year-over-year price increases that economists characterize as 'wealth creation.' The result is a massive, continuous, largely invisible transfer of purchasing power from wage earners to asset holders, enabled by the scalar simplification of a vector phenomenon.

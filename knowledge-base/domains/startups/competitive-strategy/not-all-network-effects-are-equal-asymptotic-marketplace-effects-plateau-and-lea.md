@@ -61,6 +61,7 @@ related:
   - INS-260330-6D2E
   - PRI-260328-A4AC
   - PRI-260328-99F0
+  - INS-260403-5BFB
 ---
 Not all network effects create equal defensibility. In asymptotic marketplaces like ridesharing, the value curve flattens rapidly — the difference between a 4-minute and 2-minute wait is negligible to users, even though doubling driver supply is enormously expensive. This means a competitor with half the supply can deliver comparable perceived value.
 

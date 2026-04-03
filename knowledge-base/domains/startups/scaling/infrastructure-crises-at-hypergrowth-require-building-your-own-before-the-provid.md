@@ -59,5 +59,9 @@ related:
   - INS-260327-95C6
   - INS-260330-2E1E
   - INS-260330-9014
+evidence:
+  - id: INS-260325-3C17
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 YouTube's infrastructure story is a masterclass in growth-driven crises. They started on a small hosting provider called Server Beach that offered 2,000GB of data transfer per machine, never imagining anyone would use it all. YouTube's model: approach 2,000GB, spin up another machine, repeat. The provider was freaking out — this seven-person startup was consuming not just their primary bandwidth but their backup connections. The team proactively built their own data center (Colin Corbett joined in January, had it accepting traffic by March), negotiating their own bandwidth, server, and networking equipment prices. They used open source software to drive costs down and literally unloaded servers from trucks on weekends. The forced migration came when their managed hosting provider's equipment failed: what was supposed to be a gradual transition became 'the website is down, the database won't be fixed for days, we need to cut tonight.' They had the infrastructure ready because they'd anticipated the crisis — but the timing was forced, not chosen.

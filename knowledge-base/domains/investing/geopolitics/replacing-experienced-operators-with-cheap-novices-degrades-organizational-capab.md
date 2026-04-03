@@ -60,6 +60,16 @@ related:
   - INS-260327-7315
   - INS-260327-2356
   - INS-260330-E0A9
+evidence:
+  - id: INS-260323-2CCA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-35E2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E0A9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 After the Russian catastrophe, Napoleon raised a new army of 200,000+ through mass conscription. On paper, these numbers looked impressive. But the young conscripts lacked the stamina, battlefield awareness, and tactical flexibility of the veterans lost in Russia. They could execute drills but couldn't adapt when plans broke down. Crucially, Napoleon's cavalry — which required years of training — was devastated and never recovered, blinding his army to enemy movements.
 

@@ -60,6 +60,10 @@ related:
 stance: >-
   The Soviet Union didn't collapse primarily from ideological or economic
   failure
+evidence:
+  - id: INS-260330-440E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Plokhy distinguishes three intertwined but separate processes commonly conflated: the collapse of communism as ideology, the end of the Cold War, and the end of the Soviet Union as a state. The third is best understood as the continuation of Russian imperial disintegration that started in 1917, was temporarily arrested by Bolshevik internationalist ideology, and resumed in the late 1980s.
 

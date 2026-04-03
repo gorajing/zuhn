@@ -45,6 +45,13 @@ related:
   - INS-260329-7E0A
   - INS-260323-4574
   - PRI-260324-D701
+evidence:
+  - id: INS-260329-7E0A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-2D0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The smashburger format succeeded because the cooking technique is simpler and more consistent than traditional methods, reducing training time and enabling faster franchise expansion.
 

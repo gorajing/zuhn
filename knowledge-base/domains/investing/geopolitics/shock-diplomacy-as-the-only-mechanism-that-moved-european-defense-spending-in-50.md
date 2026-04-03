@@ -60,6 +60,10 @@ related:
   - INS-260327-A654
   - INS-260321-3808
   - PRI-260321-0A4D
+evidence:
+  - id: INS-260330-5C69
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Every US president since Nixon attempted to get European NATO allies to increase defense spending to agreed-upon levels. All failed using conventional diplomatic channels — speeches, bilateral pressure, summit declarations. European defense budgets barely moved, and in some cases (Italy) didn't move at all. Leaders gave enthusiastic speeches about 'strategic autonomy' that produced no action.
 

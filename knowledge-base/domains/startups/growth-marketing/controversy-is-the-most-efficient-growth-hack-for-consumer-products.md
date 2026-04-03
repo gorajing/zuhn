@@ -45,10 +45,14 @@ stance: >-
   marketing campaign could.
 related:
   - INS-260330-629E
+  - INS-260403-99B1
   - INS-260329-776B
   - INS-260327-4F94
   - INS-260327-CE05
-  - INS-260330-BE91
+evidence:
+  - id: INS-260327-CE05
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Roy Lee got expelled from Columbia for building Interview Coder—and that story became the foundation of Cluely's brand. The controversy wasn't manufactured; it was a genuine consequence of building something that challenged the status quo. But the resulting media attention and word-of-mouth drove Cluely to nearly $5M ARR within a month of launch.
 

@@ -45,6 +45,10 @@ related:
   - INS-260327-714F
   - INS-260324-6C5F
   - INS-260327-9C3A
+evidence:
+  - id: INS-260327-714F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Theme parks compete through a capital expenditure arms race where each new ride must be bigger and more expensive than the last, creating an escalating investment cycle with diminishing returns.
 

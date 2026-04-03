@@ -58,6 +58,10 @@ related:
   - INS-260327-7A27
   - INS-260330-AF47
   - INS-260330-3570
+evidence:
+  - id: INS-260327-7A27
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harris meticulously disassembles the right's primary rhetorical move: equating the Capitol attack with BLM riots to expose liberal hypocrisy. While acknowledging the media's failure to honestly cover BLM violence — CNN anchors asking 'whoever said protests need to be peaceful' while cities burned — he argues the analogy is categorically broken. A protest that devolves into looting is fundamentally different from a sitting president directing a mob against Congress to overturn an election he lost.
 

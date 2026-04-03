@@ -59,6 +59,13 @@ related:
   - INS-260322-DAF2
   - PRI-260328-E349
   - INS-260330-E811
+evidence:
+  - id: INS-260322-DAF2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E811
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Wang argues that China's breakneck construction is not just economic — it builds political resilience for the Communist Party. People who were born in 1993 went from zero highways to an America's worth by driving age. Shanghai doubled its parks since 2020. Air got cleaner. Subway systems appeared. This visible, tangible progress creates a sense of rising wealth and momentum.
 

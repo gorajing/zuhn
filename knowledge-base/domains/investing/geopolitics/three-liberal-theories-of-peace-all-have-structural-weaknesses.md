@@ -55,6 +55,10 @@ stance: >-
   Democratic peace theory, economic interdependence theory, and liberal
   institutionalism each offer optimistic views of international relations but
   a...
+evidence:
+  - id: INS-260330-984C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Mearsheimer outlines the three main liberal theories: (1) democratic peace theory — democracies don't fight each other, (2) economic interdependence — trade makes war too costly, and (3) liberal institutionalism — international rules constrain aggression. He argues all three underestimate the structural imperatives of an anarchic system where states cannot fully trust each other's intentions.
 

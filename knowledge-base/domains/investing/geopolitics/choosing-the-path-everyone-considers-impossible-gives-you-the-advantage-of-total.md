@@ -55,6 +55,10 @@ related:
   - INS-260327-504C
   - INS-260327-31B8
   - INS-260326-E411
+evidence:
+  - id: INS-260326-E411
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Conventional wisdom said an army couldn't cross the Alps in spring: snow, ice, narrow passes, no supply possibilities. Napoleon did it anyway, disassembling his artillery and dragging it over the mountains piece by piece. He arrived in the Po Valley behind the Austrian army, which was completely surprised because they considered an Alpine crossing impossible.
 

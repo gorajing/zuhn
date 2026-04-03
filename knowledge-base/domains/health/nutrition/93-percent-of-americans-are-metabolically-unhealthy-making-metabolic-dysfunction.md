@@ -45,5 +45,9 @@ related:
   - INS-260322-D059
   - INS-260327-D21C
   - INS-260327-FA0B
+evidence:
+  - id: INS-260322-D059
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 93% of Americans have at least one marker of metabolic dysfunction, making insulin resistance the common root cause underlying obesity, diabetes, heart disease, and most cancers

@@ -54,5 +54,12 @@ related:
 stance: >-
   Independent smashburger shops outperform burger chains on speed, consistency,
   and value
+evidence:
+  - id: INS-260327-2DE8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-2D0B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Smashburgers started in LA driveways during the pandemic and grew into multi-million dollar brick-and-mortar concepts. They thrive on low overhead and small menus while delivering what chains used to: fresh beef, quality ingredients, speed. McDonald's can't compete because franchisees revolt against complexity. Wendy's and Burger King lean into limited-time gimmicks and brand partnerships (Spongebob, Adams Family) while slashing product quality. All three chains have declining store-level margins. The disruption is bottom-up: a few extra dollars gets customers a genuinely better product from a local smashburger, and retention at the big chains is plummeting.

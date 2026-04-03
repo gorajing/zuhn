@@ -58,6 +58,19 @@ related:
   - INS-260327-D25D
   - INS-260327-787C
   - INS-260327-E30A
+evidence:
+  - id: INS-260327-D25D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-787C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-E30A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A052
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Paul didn't build his own distribution network — he used Rome's. As a Roman citizen, he had legal protections, freedom of movement across provinces, and access to the empire's road and shipping infrastructure. He essentially used the incumbent platform to distribute the insurgent product. Rome couldn't easily block this without undermining its own citizenship framework.
 

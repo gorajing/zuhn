@@ -58,6 +58,10 @@ related:
   - INS-260327-6C54
   - INS-260329-F6E1
   - INS-260329-12EC
+evidence:
+  - id: INS-260327-8D7E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Aaron Epstein from YC walks through a realistic B2B cold email funnel: 800 sent emails produce 400 opens (50%), which produce 40 responses (10%), which produce 10 demos (25%), which produce 1 customer (10%). This means if you're sending 'a handful of emails every week,' you're not even in the game.
 

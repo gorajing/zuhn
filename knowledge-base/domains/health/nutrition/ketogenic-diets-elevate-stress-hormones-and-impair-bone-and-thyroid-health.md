@@ -54,6 +54,10 @@ related:
   - INS-260327-0EA8
   - INS-260330-D7DF
   - INS-260330-C2C5
+evidence:
+  - id: INS-260322-D059
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Multiple studies show ketogenic diets elevate cortisol, epinephrine (adrenaline), and glucagon. While cortisol and epinephrine may partially attenuate over time, glucagon remains chronically elevated on low-carb diets. A paper on short-term ketogenic diets showed impaired markers of bone remodeling.
 

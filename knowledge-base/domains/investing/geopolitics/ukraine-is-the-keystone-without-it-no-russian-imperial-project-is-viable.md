@@ -50,6 +50,10 @@ related:
   - INS-260327-4294
   - INS-260327-4419
 stance: Ukraine's departure made the Soviet Union structurally non-viable
+evidence:
+  - id: INS-260330-72BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Plokhy traces a direct causal chain: Ukraine's December 1991 independence referendum led one week later to the dissolution of the Soviet Union. Yeltsin explained to Bush: without Ukraine, Russia would be culturally and demographically outnumbered by Muslim republics, making the Soviet project unattractive to Russia itself. Ukraine was the second-largest republic in population, economy, and the closest culturally to Russia.
 

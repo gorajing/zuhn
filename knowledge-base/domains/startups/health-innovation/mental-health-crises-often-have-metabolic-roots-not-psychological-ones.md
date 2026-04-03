@@ -57,6 +57,31 @@ related:
 stance: >-
   Emerging research in metabolic psychiatry shows that conditions like
   depression, epilepsy, and even schizophrenia often have metabolic root causes
+evidence:
+  - id: INS-260327-9E9D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-034A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-D7DF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C9CA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-FF86
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-C2C5
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-7981
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-443B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The field of metabolic psychiatry suggests that many conditions classified as mental health problems — including depression, epilepsy, schizophrenia, and bipolar disorder — have metabolic root causes. Studies show that a functional medicine approach (fixing sleep, gut health, inflammation through diet and exercise) can outperform talk therapy for depression.
 

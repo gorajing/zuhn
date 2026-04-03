@@ -48,5 +48,9 @@ related:
   - INS-260327-9EBA
   - INS-260325-5F3C
   - INS-260325-A8E3
+evidence:
+  - id: INS-260325-5F3C
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The endothelial layer is a single-cell-thick lining inside arteries. When damaged nitric oxide drops causing loss of blood pressure control, increased clotting risk (90% of heart attacks involve clots), inflammation cascade, arterial wall thickening and plaque deposition (calcium + cholesterol + protein as repair material). Reverse cholesterol transport (RCT) can reverse existing plaque aided by niacin (B3) HDL cholesterol exercise fasting and low-carb diets. Low-carb removes 40% of liver fat in 14 days. Refined sugar is converted to cholesterol by the liver and creates the endothelial inflammation that starts the cascade.

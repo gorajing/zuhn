@@ -51,6 +51,16 @@ related:
   - INS-260327-A70C
   - PRI-260328-D68F
   - INS-260327-8997
+evidence:
+  - id: INS-260327-F544
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-41A9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8997
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The job market has entered a frozen state: low hiring, low quitting, low internal mobility. This appears stable but is actually fragile. Workers stay in suboptimal positions because alternatives have disappeared. Companies maintain staff because replacement is uncertain. Nobody advances, innovates, or takes risks.
 

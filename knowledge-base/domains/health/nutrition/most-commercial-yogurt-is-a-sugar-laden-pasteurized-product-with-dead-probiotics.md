@@ -48,5 +48,9 @@ related:
   - INS-260325-A8E3
   - INS-260327-8F45
   - INS-260329-D267
+evidence:
+  - id: INS-260329-D267
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Commercial yogurt typically contains 15-30g added sugar per serving, uses pasteurized milk killing beneficial bacteria, and adds probiotics after pasteurization that may not survive stomach acid -- making it a dessert marketed as health food

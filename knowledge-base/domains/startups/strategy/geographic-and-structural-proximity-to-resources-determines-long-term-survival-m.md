@@ -60,6 +60,19 @@ related:
   - INS-260327-65E7
   - INS-260327-8268
   - INS-260330-E17D
+evidence:
+  - id: INS-260327-FA38
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2964
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E382
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-65E7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Constantine moved his capital east for structural reasons: the eastern provinces were wealthier, more urbanized (inheriting Greek city-states), and more compact — making them easier to administer and tax. The Eastern Empire's survival for a millennium after the West's collapse wasn't about superior military strategy; it was about better positioning relative to trade routes, agricultural wealth, and defensible geography.
 

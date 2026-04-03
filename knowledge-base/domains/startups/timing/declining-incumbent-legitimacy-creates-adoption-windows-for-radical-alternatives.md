@@ -57,6 +57,16 @@ related:
   - PRI-260328-0993
   - PRI-260328-79DA
   - INS-260330-F116
+evidence:
+  - id: INS-260327-F93A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A052
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-A25E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Roman state religion offered transactional gods and no afterlife — a value proposition that works when the empire delivers prosperity. As Rome declined and life worsened for ordinary people, the implicit promise broke: worship the gods, and things go well. Christianity offered an alternative value proposition (eternal afterlife, justice for the meek) that specifically addressed what the incumbent couldn't deliver.
 

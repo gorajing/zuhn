@@ -49,5 +49,9 @@ related:
   - INS-260402-A693
   - INS-260330-3C2F
   - INS-260323-8289
+evidence:
+  - id: INS-260323-043E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Harris identifies a precise mechanism for the illusion of self: 'the feeling that you are authoring your thoughts or that you're identical to them — that is what it's like to be thinking without noticing that you're thinking.' This is a testable claim. When you catch a thought arising, the sense of a thinker momentarily dissolves. The self isn't a persistent entity discovered through introspection — it's the absence of introspection. This has implications beyond meditation: in high-stakes decision-making, the 'voice in your head' that feels authoritative is just unexamined cognition, not a reliable narrator.

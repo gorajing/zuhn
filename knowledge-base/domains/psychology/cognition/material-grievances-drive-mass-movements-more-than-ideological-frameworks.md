@@ -54,6 +54,16 @@ related:
   - INS-260330-9BC4
   - INS-260327-77A0
   - INS-260327-CF72
+evidence:
+  - id: INS-260330-9BC4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-77A0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-BF95
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The video emphasizes that while Enlightenment thinkers like Kant provided intellectual scaffolding for the revolution, the actual mass mobilization came from food shortages and economic pain. The Women's March on Versailles was triggered by rumors of Marie Antoinette hoarding grain, not by Article 6 of the Declaration of Rights of Man.
 

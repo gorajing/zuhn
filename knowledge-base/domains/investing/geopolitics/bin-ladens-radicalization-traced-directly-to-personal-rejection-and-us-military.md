@@ -62,6 +62,13 @@ related:
   - INS-260327-4419
   - INS-260327-178D
   - INS-260327-A048
+evidence:
+  - id: INS-260323-3614
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B444
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The documentary reveals that Osama bin Laden was not born radical. He was the son of Mohammed bin Laden, a construction magnate who built America's oil infrastructure in Saudi Arabia. His radicalization followed a specific sequence: growing discomfort with American presence on holy land, battle-hardening in Afghanistan against the Soviets, offering to defend Saudi Arabia against Saddam's invasion ('We will fight them with our faith'), being personally rejected by Prince Sultan ('There are no caves in Kuwait'), and watching Dick Cheney take his place.
 

@@ -47,5 +47,9 @@ related:
   - INS-260327-62AA
   - INS-260322-3A00
   - PRI-260328-AF97
+evidence:
+  - id: INS-260322-3A00
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Progressive cardiologists and heart surgeons are shifting focus from LDL cholesterol to metabolic health markers like fasting insulin, triglyceride/HDL ratio, and CAC scores for cardiac risk assessment

@@ -58,6 +58,10 @@ related:
   - INS-260330-E0A7
   - INS-260330-EE7E
   - INS-260330-43E8
+evidence:
+  - id: INS-260321-A6A6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 In an anechoic chamber, people report hearing their own heartbeat, blood flowing, and even a faint ringing. This isn't the brain malfunctioning — it's the auditory system doing exactly what it's designed to do: adjusting its sensitivity to match the environment. The mechanism is analogous to a camera raising its ISO in low light, or your eyes adapting to darkness.
 

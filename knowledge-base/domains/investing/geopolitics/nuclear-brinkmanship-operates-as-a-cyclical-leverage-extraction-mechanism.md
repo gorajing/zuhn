@@ -50,5 +50,12 @@ related:
   - PRI-260325-D34E
   - INS-260323-BC61
   - PRI-260324-8EE6
+evidence:
+  - id: INS-260330-1243
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-BC61
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 North Korea follows a repeatable pattern: escalate threats, attract attention, negotiate concessions (food aid, sanction relief), de-escalate, then repeat 6-18 months later. The fundamental strategic insight is that the regime cannot permanently surrender nuclear capability without becoming irrelevant, but cannot thrive under the sanctions that come with active threats. This creates a permanent oscillation that functions as a survival mechanism rather than a path toward any resolution. The pattern mirrors how weaker parties in any negotiation can use the threat of chaos as leverage against stronger parties who value stability, extracting ongoing concessions without ever resolving the underlying conflict.

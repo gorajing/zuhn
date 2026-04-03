@@ -51,5 +51,24 @@ related:
   - INS-260327-2964
   - INS-260327-42BA
   - INS-260327-7C4A
+evidence:
+  - id: INS-260327-AA2C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B9BA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-19D2
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7C4A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-2964
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-42BA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 At the Battle of the Pyramids (1798), the Mamluks were elite warriors -- trained from childhood, armed with multiple weapons, superb horsemen. Individually, each Mamluk was far superior to a French infantryman. Yet they couldn't penetrate Napoleon's disciplined infantry squares. The French system -- men holding formation, firing in coordinated volleys, bayonets braced -- made individual talent irrelevant. The Mamluks suffered 5,000+ casualties; the French lost fewer than 300. This pattern repeats endlessly: individually talented but uncoordinated teams lose to systematically organized but individually average ones. The startup parallel is that process, culture, and coordination beat hiring superstars who can't work as a unit.

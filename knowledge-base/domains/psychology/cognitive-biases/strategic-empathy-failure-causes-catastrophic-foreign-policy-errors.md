@@ -57,6 +57,13 @@ related:
   - INS-260327-6058
   - INS-260330-E0F5
   - INS-260327-A75C
+evidence:
+  - id: INS-260321-10FF
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-B1F5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Mearsheimer identifies a recurring pattern where US policymakers fail to understand how their actions appear from an adversary's perspective. The US ambassador told Putin not to worry about NATO expansion because America is a 'benign hegemon' — but what matters is not what Americans think of themselves, but what Putin thinks. Similarly, Americans invoke the Monroe Doctrine (no foreign powers in our hemisphere) while failing to see that Russia applies identical logic to NATO on its borders.
 

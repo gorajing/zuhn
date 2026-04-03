@@ -55,13 +55,13 @@ related:
   - INS-260330-EE5E
   - INS-260322-EF20
   - INS-260328-195E
+  - INS-260403-805E
   - INS-260321-3521
-  - INS-260330-1002
   - INS-260327-6725
   - INS-260328-3FA4
   - INS-260328-3F19
   - INS-260328-F301
-  - INS-260330-4AB1
+  - INS-260330-1002
 stance: >-
   At pre-seed and seed stage, investors and early customers are betting on the
   founder's story and character, not the product.

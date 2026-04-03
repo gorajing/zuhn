@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-B882
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-203C
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 For most of human history, the worst a person or group could do was limited by physical scale. Now nuclear weapons, AI systems, bioengineering, and climate impact give small groups unprecedented destructive capacity. Our institutions, moral frameworks, and decision-making processes evolved for village-scale problems.
 

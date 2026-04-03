@@ -57,6 +57,10 @@ related:
   - INS-260330-8E95
   - INS-260327-CE65
   - INS-260327-65E7
+evidence:
+  - id: INS-260330-8E95
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The Viking longship was a revolutionary technology: shallow draft for river navigation, ocean-capable for sea voyages, fast under sail and oar, and beachable on any shore. This mobility meant Vikings could appear without warning at any point along thousands of miles of coastline, raid wealthy but undefended monasteries and towns, and disappear before slow-moving defending armies could respond.
 

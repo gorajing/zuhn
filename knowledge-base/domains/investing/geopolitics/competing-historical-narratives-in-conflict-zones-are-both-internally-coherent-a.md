@@ -58,6 +58,16 @@ related:
 stance: >-
   In deep geopolitical conflicts, each side constructs an internally coherent
   narrative from the same historical facts
+evidence:
+  - id: INS-260330-4E5F
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-E0ED
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-581C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Israel-Palestine debate reveals a pattern common to all deep geopolitical conflicts: both sides draw from overlapping historical records but construct incompatible narratives. Finkelstein quotes Morris's own scholarship to argue that Zionism was inherently expansionist, while Morris contextualizes his own words to argue that transfer only became necessary because of Arab rejection of partition.
 

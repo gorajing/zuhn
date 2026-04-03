@@ -69,6 +69,12 @@ evidence:
   - id: INS-260327-F996
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260321-21BE
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260326-3E19
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Historical pattern: platform owners either compete with you directly (Microsoft vs Lotus 123) or tax you at variable rates (Facebook changing its take rate at whim). The VisiCalc-to-Lotus-to-Excel progression shows that when a platform owner controls 95% of the market and your product is core to the platform's value prop, you're toast.
 

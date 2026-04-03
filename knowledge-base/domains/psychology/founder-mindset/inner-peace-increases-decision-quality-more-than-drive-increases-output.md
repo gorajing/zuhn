@@ -58,6 +58,10 @@ related:
   - INS-260330-6F7B
   - INS-260330-FCBC
   - INS-260330-9751
+evidence:
+  - id: INS-260329-A4CA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Naval makes the counter-intuitive case that becoming happier actually increases effectiveness even if it reduces raw drive. The mechanism is decision quality: a peaceful mind has fewer extraneous threads, sleeps better, avoids emotionally impetuous choices, and can prioritize clearly. In a leveraged world — where code, capital, media, and community multiply each decision — the quality of judgment matters far more than hours worked.
 

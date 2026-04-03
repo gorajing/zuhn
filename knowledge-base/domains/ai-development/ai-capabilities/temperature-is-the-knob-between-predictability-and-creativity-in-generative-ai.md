@@ -65,5 +65,8 @@ evidence:
   - id: INS-260322-5CBF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-9D7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The temperature parameter in softmax sampling directly controls how much weight lower-probability tokens receive. At temperature zero, the model always picks the most likely next token, producing safe but derivative output (the Goldilocks story example). Higher temperatures distribute probability more evenly, enabling surprising word choices that can produce more original text but risk degenerating into nonsense. This maps to a broader principle in decision-making and creative work: there is always a tension between exploitation (doing what's most likely to work) and exploration (trying unlikely options). The optimal temperature depends entirely on context — customer-facing factual responses want low temperature, while brainstorming wants high. Understanding this tradeoff is immediately actionable for anyone building AI products or using LLM APIs.

@@ -56,6 +56,10 @@ related:
   - INS-260327-A00A
   - PRI-260328-27F7
   - INS-260330-5F6C
+evidence:
+  - id: INS-260327-A00A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Bonanno's research program reveals a paradox: over 100 studies confirm that most people are resilient after trauma, and many individual factors (positive thinking, problem-solving, social support) correlate with resilience. But each factor has only small effects — none strongly predicts who will actually be resilient in the next adverse event.
 

@@ -50,7 +50,6 @@ stance: >-
   social pressure, the resulting trust damage is disproportionately larger than
   the original controversy
 related:
-  - INS-260327-76DA
   - INS-260330-E3ED
   - INS-260330-141E
   - INS-260330-654D

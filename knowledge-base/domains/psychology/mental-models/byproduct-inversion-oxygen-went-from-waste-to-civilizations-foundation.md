@@ -57,6 +57,10 @@ related:
   - INS-260330-0CFF
   - INS-260330-656A
   - INS-260330-13A1
+evidence:
+  - id: INS-260327-8E45
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When photosynthesis first evolved, oxygen was genuinely a waste product — it was toxic to the anaerobic organisms that dominated Earth. The Great Oxidation Event caused a mass extinction. Yet this 'waste' eventually enabled the entire branch of aerobic life, including every animal that has ever existed.
 

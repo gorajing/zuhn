@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260322-6AF5
   - INS-260323-D6F2
+  - INS-260403-EAC6
   - PRI-260328-6CEC
   - INS-260402-E148
-  - PRI-260322-8FD4
 ---
 When the first 4-8 results are paid placements visually indistinguishable from organic results, consumers learn that top results dont mean best products. This destroys the platform's core value as a recommendation engine.
 

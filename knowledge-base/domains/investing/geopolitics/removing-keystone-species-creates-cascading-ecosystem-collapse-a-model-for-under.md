@@ -59,6 +59,25 @@ related:
 stance: >-
   When humans hunted the Tasmanian tiger to extinction, the loss of this apex
   predator triggered cascading failures
+evidence:
+  - id: INS-260325-DFA5
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-2F1E
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4634
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-C418
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-F6C3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-0027
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Tasmanian tiger was Tasmania's only apex predator — a keystone species with outsized ecosystem impact. After humans drove it extinct, the consequences cascaded: wallabees and kangaroos exploded in population, overgrazing shrubs and bushes, which impacted bird populations and changed the landscape. Without an apex predator to cull sick animals, the Tasmanian devil developed a transmissible facial cancer that now threatens its own survival.
 

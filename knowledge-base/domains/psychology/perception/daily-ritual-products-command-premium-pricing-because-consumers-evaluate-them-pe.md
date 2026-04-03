@@ -45,6 +45,10 @@ related:
   - INS-260330-121C
   - INS-260327-875C
   - INS-260323-FEAB
+evidence:
+  - id: INS-260330-121C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Products consumed daily benefit from per-use price evaluation that makes even expensive items feel cheap, which is why coffee can sustain 500% markups that consumers would reject in other categories.
 

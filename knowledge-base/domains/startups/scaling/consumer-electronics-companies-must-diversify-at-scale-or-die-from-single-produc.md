@@ -53,5 +53,9 @@ related:
 stance: >-
   Apple, Dell, HP, and Dyson use flagship profits to expand into adjacent
   categories because betting everything on getting a single product release r...
+evidence:
+  - id: INS-260327-09D7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Every consumer electronics product peaks at launch and depreciates when replaced. R&D costs are front-loaded, and more frequent releases mean less time to innovate. When products hit their ceiling, the only way to reignite growth is creating a breakthrough — which almost never happens. Samsung expanded from electronics to appliances; Toshiba went the other direction. GoPro failed precisely because they never diversified beyond action cameras. The generation cycle creates a treadmill: you accelerate commoditization of your own products while trying to surpass them.

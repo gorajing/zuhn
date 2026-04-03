@@ -60,6 +60,12 @@ evidence:
   - id: INS-260325-803C
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260321-21BE
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4AC6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When dominant platforms face genuine existential threats (Apples ATT, TikTok competition), they make desperate strategic pivots that consume billions while the core business deteriorates.
 

@@ -66,6 +66,10 @@ stance: >-
   Jet engine turbine blades must simultaneously optimize for temperature
   resistance (1,500C), centripetal force (20 metric tons per blade),
   oxidation...
+evidence:
+  - id: INS-260323-748A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 A turbine blade operates in one of the harshest environments humans have ever engineered: 1,500C gas stream, 12,500 RPM rotation (creating 20-ton centripetal force per 300g blade), oxidative atmosphere, dust erosion, and tens of thousands of hours of required service life. You could use tungsten for its 3,400C melting point, but it's 2.5x denser than steel and brittle. You could use titanium for weight, but it fails at lower temperatures.
 

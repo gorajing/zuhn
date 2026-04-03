@@ -3,10 +3,10 @@
 - `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
 - `INS-260329-F04B` Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
 - `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
+- `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
-- `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
 - `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
 - `INS-260328-F1D2` Be insanely impatient to start and push the world to move fast, while accepting that solving hard problems takes years.
 - `INS-260329-8B33` Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.

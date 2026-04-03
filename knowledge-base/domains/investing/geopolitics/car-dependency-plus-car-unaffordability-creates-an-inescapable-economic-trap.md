@@ -53,6 +53,25 @@ related:
   - INS-260327-B6B7
   - INS-260327-0B3B
   - INS-260329-4A55
+evidence:
+  - id: INS-260325-4A01
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260326-A0B4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-5E03
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-6900
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-0B3B
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-4A55
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The Federal Aid Highway Act of 1956 made American cities car-centric by design, with 92% of households now dependent on personal vehicles. Simultaneously, vehicle costs have escalated through larger sizes, more features, longer loans, and higher insurance to the point where responsible car ownership is beyond many households' means.
 

@@ -5,8 +5,8 @@
 - `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
-- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
+- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
 - `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
@@ -32,5 +32,6 @@
 - `INS-260327-A927` Nvidia feels like working for multiple startups — each division has its own survival pressure, P&L accountability, and startup mentality.
 - `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
+- `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.

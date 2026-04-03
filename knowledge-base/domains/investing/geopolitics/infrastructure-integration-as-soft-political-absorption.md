@@ -55,6 +55,10 @@ related:
   - INS-260322-5D22
   - INS-260321-D4D0
   - PRI-260328-7A9C
+evidence:
+  - id: INS-260322-5D22
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 China's Greater Bay Area plan demonstrates how infrastructure investment can serve dual purposes: genuine economic efficiency and political absorption. By connecting Hong Kong and Macau to the mainland via high-speed rail and bridges, China creates economic dependencies that make the regions' separate legal and political systems increasingly inconvenient rather than protective.
 

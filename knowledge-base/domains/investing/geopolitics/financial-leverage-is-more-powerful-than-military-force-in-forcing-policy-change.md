@@ -57,6 +57,13 @@ related:
   - INS-260327-CF72
   - INS-260327-F3F0
   - INS-260330-3084
+evidence:
+  - id: INS-260323-3614
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-3084
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Eisenhower didn't need to threaten military action against Britain. He simply indicated the US would sell its sterling reserves and block British access to IMF emergency funding. With the pound already under pressure, this was an existential threat to the British economy. Within days, Britain capitulated completely. Financial pressure achieved what no military threat could have.
 

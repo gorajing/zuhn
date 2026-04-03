@@ -13,8 +13,9 @@
 - `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
 - `INS-260330-9055` General-purpose editors win breadth but specialized IDEs win depth for committed platform developers.
 - `INS-260330-73C1` The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
-- `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260329-0935` Sustained focus on one domain compounds returns far more than spreading effort across many.
+- `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260330-4A1F` Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
+- `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260325-6262` No Bronze Age civilization was self-sufficient — each depended on others for critical resources like tin, copper, gold, and grain.

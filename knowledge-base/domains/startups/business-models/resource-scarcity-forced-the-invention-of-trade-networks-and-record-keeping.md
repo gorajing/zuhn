@@ -54,6 +54,13 @@ related:
   - INS-260327-7C1A
   - INS-260327-E63E
   - INS-260330-98EA
+evidence:
+  - id: INS-260325-6262
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7C1A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Fertile Crescent was agriculturally productive but resource-poor — no metal, limited stone, scarce wood. This forced Mesopotamians into extensive trade networks, which in turn created the need for record-keeping (cuneiform was invented to track wheat-for-goat transactions, not for literature). Trade complexity then drove the formation of the world's first territorial kingdoms to secure trade routes.
 

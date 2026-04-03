@@ -58,6 +58,10 @@ related:
   - PRI-260320-A2C7
   - PRI-260328-935A
   - PRI-260328-0BE1
+evidence:
+  - id: INS-260323-AF7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Centivax initially outsourced vaccine testing to CROs. But once the technology showed promise and needed rapid optimization, they brought those capabilities in-house. The reasoning: outsourcing iteration cycles is slower, more expensive per cycle, and produces a less polished final product. Meanwhile, GMP manufacturing and clinical trials — established, commoditized processes — were kept with CROs.
 

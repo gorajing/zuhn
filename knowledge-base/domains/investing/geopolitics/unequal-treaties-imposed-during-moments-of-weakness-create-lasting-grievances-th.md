@@ -55,6 +55,13 @@ related:
   - INS-260327-619F
   - INS-260327-A654
   - INS-260330-4E5F
+evidence:
+  - id: INS-260402-9F35
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4E5F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The treaties imposed on China after the Opium Wars — extraterritoriality, forced port openings, territorial concessions — were experienced as national humiliation. This humiliation became central to Chinese identity and a driver of policy: the determination to 'never again' be vulnerable to foreign powers shapes Chinese military buildup, economic strategy, and diplomatic assertiveness 175 years later.
 

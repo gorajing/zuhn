@@ -53,6 +53,10 @@ related:
 stance: >-
   Valuing expert knowledge is fundamentally different from blind deference to
   authority — but public confusion between the two erodes trust in both.
+evidence:
+  - id: INS-260323-11FF
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harris identifies a paradox in how we value authority in science and expertise. People confuse respecting expert knowledge with blind credentialism or establishment loyalty. This confusion fuels both anti-expert populism ('they're all shills') and expert arrogance ('trust us without question').
 

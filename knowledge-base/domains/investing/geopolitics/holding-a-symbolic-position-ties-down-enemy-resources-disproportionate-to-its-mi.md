@@ -59,6 +59,13 @@ related:
   - INS-260327-FDD0
   - INS-260327-E4A1
   - INS-260330-B444
+evidence:
+  - id: INS-260326-8189
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-B444
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Rome had limited military significance in the 6th century — it wasn't a major production center or strategic crossroads. But its symbolic importance was immense: whoever held Rome had a claim to legitimacy over Italy. This forced the Goths to commit their entire field army to besieging it, tying down 50,000 men for over a year against a garrison of 5,000. The resource ratio was 10:1 in Belisarius's favor.
 

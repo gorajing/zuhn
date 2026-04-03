@@ -47,5 +47,21 @@ related:
   - INS-260327-7315
   - INS-260327-067D
   - INS-260327-8B9A
+evidence:
+  - id: INS-260327-7315
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-8B9A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-1A9C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-E7AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-067D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 At the Siege of Toulon (1793), one forward battery was so exposed to enemy fire that soldiers refused to serve there. Napoleon, then 24, didn't increase pay or threaten punishment. He renamed it 'La batterie des hommes sans peur' -- the Battery of Men Without Fear. Volunteers appeared immediately. The insight: identical objective risk, reframed as an identity marker ('you're the kind of person who...'), converts avoidance into aspiration. This applies directly to startup recruitment for hard roles, positioning unglamorous work as elite assignments, and marketing dangerous or unusual products. People don't avoid risk -- they avoid meaningless risk.

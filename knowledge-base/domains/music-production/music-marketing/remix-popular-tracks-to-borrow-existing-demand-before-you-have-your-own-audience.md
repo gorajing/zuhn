@@ -53,6 +53,16 @@ related:
 stance: >-
   Make remixes of trending songs in your own style to leverage existing search
   demand and get discovered before you have original fans.
+evidence:
+  - id: INS-260327-165D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-CCD4
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-B387
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 When you have zero followers, original music has no built-in audience. But remixing a popular track — say, making a tech house version of a trending hip-hop song — piggybacks on existing demand. People are already searching for that song, and your remix can surface through that attention. James Hype got signed by a manager after his Drake remix went viral among top DJs, before he'd ever released an original.
 

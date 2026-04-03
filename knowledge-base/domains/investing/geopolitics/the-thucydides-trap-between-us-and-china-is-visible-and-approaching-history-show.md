@@ -63,6 +63,10 @@ related:
 stance: >-
   Musk warns that China's economy will be 2-3x the US economy, creating the same
   Athens-vs-Sparta dynamic that led to the Peloponnesian War
+evidence:
+  - id: INS-260325-5A68
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Musk draws directly on the Thucydides trap — the historical pattern where a rising power threatens an incumbent, leading to conflict even when both sides recognize the trajectory. Athens and Sparta saw war coming and couldn't avoid it. The US has been the world's largest economy since ~1890, longer than anyone alive can remember. China's economy is on track to be 2-3x larger. This creates the 'biggest kid on the block suddenly meets someone twice their size' dynamic.
 

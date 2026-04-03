@@ -60,6 +60,19 @@ related:
   - INS-260327-B3B3
   - INS-260330-2737
   - INS-260330-FA07
+evidence:
+  - id: INS-260330-58B9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-35E2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2737
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-FA07
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Murat was a magnificent cavalry leader — brave, charismatic, inspiring on the battlefield. But Napoleon also made him King of Naples, a role requiring political sophistication he entirely lacked. Similarly, Napoleon's brothers were placed on European thrones not for their capability but for family loyalty. Joseph in Spain was completely out of his depth. The pattern: family loyalty guaranteed compliance but capped the quality of leadership at each position.
 

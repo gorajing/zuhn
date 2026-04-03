@@ -61,6 +61,13 @@ related:
   - INS-260327-A4BB
   - INS-260327-EDC6
   - INS-260330-3274
+evidence:
+  - id: INS-260323-2CCA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-3274
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Britain 'won' Bunker Hill by taking the position after three costly assaults. But the battle's real impact was psychological: Americans learned they could stand against professional soldiers, while the British leadership learned nothing useful — they attributed the high casualties to bad luck rather than the structural advantages of prepared defenders. This misreading of early signals (treating a costly victory as validation rather than warning) set up future failures.
 

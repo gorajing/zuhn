@@ -58,6 +58,16 @@ related:
   - INS-260327-1756
   - INS-260327-1BBF
   - INS-260330-D661
+evidence:
+  - id: INS-260330-E0A9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260326-E411
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-D661
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Alexander's conquests extended across multiple cultures: Greek, Persian, Central Asian, Indian. Each step further from Macedonia increased the difficulty of governance, the resistance of local populations, and the homesickness of his troops. At the Hyphasis River in India, his veteran army simply refused to march further. The cultural distance between Greek Macedonia and the Indian subcontinent was too great for any one organizational system to span.
 

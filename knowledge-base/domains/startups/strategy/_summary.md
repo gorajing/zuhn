@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 126 insights
+> 131 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
@@ -16,6 +16,7 @@
 - `INS-260330-90B6` [high] Oxygen — the molecule enabling all animal life — is literally a waste product of photosynthesis, not its purpose.
 - `INS-260330-C607` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260330-7462` [high] Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
+- `INS-260403-EEDF` [high] Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260329-644B` [high] Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260330-B3DD` [high] Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
@@ -32,6 +33,7 @@
 - `INS-260324-DC98` [high] UNIQLO, Zara, and H&M transformed fashion from a creativity contest into a speed-and-curation game, driving GAP to irrelevance and J.Crew to bankruptcy.
 - `INS-260322-8299` [high] The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.
 - `INS-260323-8893` [high] Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
+- `INS-260403-5BFB` [high] Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - `INS-260330-8E45` [high] Glycolysis invests 2 ATP to break glucose apart, then earns 4 ATP back — a net gain that requires spending resources before generating them.
 - `INS-260330-53A9` [high] RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
 - `INS-260330-54ED` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
@@ -77,8 +79,10 @@
 - `INS-260330-CBF8` [high] Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
 - `INS-260330-4489` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
 - `INS-260329-C6BB` [high] Start premium to fund the infrastructure needed for eventual mass-market scale.
+- `INS-260403-6428` [high] Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
 - `INS-260323-8966` [high] The Shapiro-Destiny debate demonstrates that two intelligent people with different foundational priors will interpret identical data points in opposite directions — shared evidence does not produce convergence.
 - `INS-260330-B5DF` [high] The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
+- `INS-260403-9DC6` [high] Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260330-391C` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.
 - `INS-260330-7B1C` [high] The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260402-CCF4` [high] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
@@ -124,6 +128,7 @@
 - `INS-260330-777A` [medium] Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
 - `INS-260323-4457` [medium] A product that takes months to reach a testable state is burning the founder's most scarce resource — time to learn whether the idea even matters — on engineering before validation.
 - `INS-260323-8B90` [medium] Destiny identifies a recurring pattern in conservative argumentation: every proposed incremental fix gets redirected to a root cause (like two-parent households) that neither side can directly engineer, creating a policy paralysis loop.
+- `INS-260403-6E76` [medium] The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins.
 - `INS-260323-224F` [medium] The Large Hadron Collider discovered the Higgs boson (confirming a 50-year-old prediction) but failed to find supersymmetry, becoming a cautionary tale about building a machine optimized for the expected rather than the unknown.
 - `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260330-3FCF` [medium] Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.

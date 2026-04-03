@@ -57,6 +57,10 @@ related:
   - INS-260327-B626
   - INS-260327-A7D0
   - INS-260330-45D9
+evidence:
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 While caloric deficit drives weight loss mathematically, the experience and sustainability differ dramatically based on food quality. Eating donuts in a calorie deficit is technically possible but creates constant hunger and misery. Nutrient-dense whole foods like raw milk, with its balanced protein, fat, carbohydrate, and micronutrient profile, create strong satiety signals.
 

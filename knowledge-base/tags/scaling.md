@@ -2,11 +2,11 @@
 
 - `INS-260330-7E4F` Running multiple AI agents in parallel requires cloud development environments because local machines hit physical limits at 3-4 concurrent worktrees.
 - `INS-260325-F981` Month-long agents will need entirely new inference systems — current serving stacks cannot handle persistent execution.
-- `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
 - `INS-260321-BFA3` AI solved 50 Erdős problems which looks amazing, but systematic studies show a 1-2% success rate per problem — scale and selection bias make it look like magic when you only see the wins.
 - `INS-260323-D56E` Yudkowsky publicly acknowledges that GPT-4 exceeded what he thought stacking transformer layers could achieve, which means he can't predict what GPT-5 will do.
 - `INS-260322-474A` AI automating AI R&D won't produce runaway self-improvement because research requires proportional scaling of experimental compute, not just more researchers.
 - `INS-260325-9C89` AlphaProof's TTRL adds 15 percentage points to solve rates beyond tree search scaling, enabling solutions to problems that exhaustive search at any budget cannot crack.
+- `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
 - `INS-260327-CFDC` Robots performing economically useful tasks in the real world will produce training data as a byproduct, creating a data flywheel unavailable from internet scraping.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
@@ -49,11 +49,11 @@
 - `INS-260329-AF18` Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-75A3` Facebook built a community translation platform covering 104 languages instead of just translating the top 4, which prepared them for explosive growth in markets like Hindi that didn't matter at launch.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
+- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
 - `INS-260329-CBF6` Prioritize scaling advertising reach over optimizing conversion rates because reach has no ceiling while optimization maxes out at 100%.
 - `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260329-49A4` LTV-to-CAC ratio (using gross profit, not revenue) determines scaling ceiling — aim for 3:1 minimum, and pour fuel when you see 30:1+.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
-- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people.
 - `INS-260330-F800` Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
 - `INS-260329-58E7` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
@@ -108,6 +108,7 @@
 - `INS-260330-4830` When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
 - `INS-260330-696D` Agriculture's key unlock was producing surplus calories that freed people to specialize, creating a compounding flywheel of efficiency.
 - `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
+- `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-4793
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-3A0E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 In Watts' real-world prisoner's dilemma experiments, he discovered that in clustered networks, outcomes were on a 'knife edge' -- one person choosing to cooperate could cascade cooperation through the entire network, but equally, one person defecting could cascade universal defection. These two effects canceled out on average, making it seem like structure didn't matter. But the underlying dynamic was extreme sensitivity to individual choices.
 

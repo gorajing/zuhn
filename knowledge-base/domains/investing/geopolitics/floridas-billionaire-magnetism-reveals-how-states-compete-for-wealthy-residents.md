@@ -58,6 +58,22 @@ related:
   - INS-260329-60CF
   - INS-260327-F651
   - INS-260330-9DCD
+evidence:
+  - id: INS-260323-BD2B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-16F7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-60CF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-F651
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9DCD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Florida's billionaire attraction strategy goes beyond zero state income tax: homestead exemption protects primary residences from creditors (unlimited value), friendly regulatory environment, and political leaders personally courting wealthy relocations. The mayor of Miami personally courted Elon Musk.
 

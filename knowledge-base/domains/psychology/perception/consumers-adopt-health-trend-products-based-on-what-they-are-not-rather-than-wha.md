@@ -45,6 +45,10 @@ related:
   - INS-260330-318C
   - INS-260327-F723
   - INS-260327-7B05
+evidence:
+  - id: INS-260327-EB60
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Plant-based milk adoption was driven primarily by avoiding dairy rather than positive attributes of the alternatives, creating shallow loyalty vulnerable to the next avoidance trend.
 

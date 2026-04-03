@@ -57,6 +57,16 @@ related:
   - INS-260330-6C3D
   - INS-260330-E180
   - INS-260330-C477
+evidence:
+  - id: INS-260327-A478
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-777A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E180
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Between 1991 and 2021, Russia's pension system went from 'easy mode' (large contributor base, small recipient pool) to a 44% increase in recipients with slightly fewer contributors. The post-Soviet birth rate collapse created a demographic wave that is now hitting the pension system with mathematical certainty — fewer teenagers today means fewer contributors tomorrow.
 

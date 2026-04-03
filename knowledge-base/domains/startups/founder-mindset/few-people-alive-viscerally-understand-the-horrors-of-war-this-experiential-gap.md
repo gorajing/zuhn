@@ -59,6 +59,19 @@ related:
 stance: >-
   Musk's WWII veteran grandfather had next-level PTSD but never bragged about
   his medals
+evidence:
+  - id: INS-260327-9CAD
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-2964
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-891F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1BBF
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Musk shares that his grandfather served nearly six years in WWII, lost all his friends, had severe PTSD, never talked about it, and never once mentioned his medals (Musk found them in online military records). That generation would have said 'no way in hell do you want to do that again.' But they're dead — and the current generation making decisions about escalation has no visceral understanding of what war actually means. People on the front lines in Ukraine understand, but Western leaders and commentators don't.
 

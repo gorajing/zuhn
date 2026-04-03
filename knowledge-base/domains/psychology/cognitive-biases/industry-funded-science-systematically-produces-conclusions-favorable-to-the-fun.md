@@ -67,6 +67,16 @@ related:
   - INS-260330-BEF8
   - PRI-260328-22EC
   - INS-260330-19E1
+evidence:
+  - id: INS-260327-B8E7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-61F5
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-96FE
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The Ethyl Corporation's defense strategy created a template still used today: fund scientists who conclude your product is safe, then cite those conclusions as 'the science.' Their researchers claimed environmental lead was natural and therefore harmless. This framing was demolished by Clair Patterson's independent measurements showing lead concentrations were 10x higher near ocean surfaces (indicating recent contamination, not natural baseline) and that modern Americans had 1,000x more bone lead than ancient mummies.
 

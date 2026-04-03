@@ -53,6 +53,13 @@ related:
   - INS-260327-DF2F
   - INS-260327-96BB
   - INS-260329-ACFF
+evidence:
+  - id: INS-260324-4ACD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-ACFF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The 'just build more houses' solution fails on composition: record new construction is almost entirely luxury properties because rising costs make affordable housing unprofitable to build. This creates a paradox: hundreds of thousands of luxury units sit empty while an estimated 4 million affordable homes are needed.
 

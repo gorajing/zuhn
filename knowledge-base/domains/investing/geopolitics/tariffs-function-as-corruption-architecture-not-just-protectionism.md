@@ -55,6 +55,10 @@ related:
   - PRI-260321-5BF1
   - PRI-260323-7805
   - INS-260330-1183
+evidence:
+  - id: INS-260330-D460
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Goldberg argues that tariffs are historically the biggest driver of political corruption because they force every industry to either seek exemptions or request that competitors be tariffed. This creates a system of 'special pleading' where access to executive power becomes the primary determinant of business success.
 

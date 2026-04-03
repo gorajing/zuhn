@@ -57,6 +57,10 @@ related:
   - INS-260330-21CC
   - INS-260327-DD5C
   - INS-260321-6437
+evidence:
+  - id: INS-260327-3918
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 Walker Williams describes how Teespring's CTO duplicated the entire codebase and database to serve enterprise customers in 3-4 days rather than spending a month building it properly. The site crashed nightly for months, with the whole team sleeping with phones under their pillows to restart servers. Yet this was the right call — speed to product-market fit mattered more than clean architecture.
 

@@ -68,6 +68,9 @@ evidence:
   - id: INS-260327-6664
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-0C45
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dr. Lappert's closing advice — 'think it through because it's a lot harder to get a tattoo off than it is to put it on' — illustrates a fundamental decision-making principle. Tattoo application is a single session measured in hours. Removal requires multiple laser treatments spaced weeks apart, each session painful, with full removal taking 1-2 years and costing 5-10x the original tattoo. The effort asymmetry between creation and reversal is roughly 10:1 to 50:1.
 

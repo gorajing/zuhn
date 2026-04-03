@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-808B
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-725F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The 1970s introduced stock-based CEO compensation to 'align' executive and shareholder interests. CEO pay went from 20x average employee (1965) to 300x+ today, almost entirely in stock-linked compensation. This created a powerful incentive to maximize stock price by any means.
 

@@ -62,6 +62,16 @@ related:
   - INS-260326-16A8
   - INS-260330-45D9
   - INS-260327-DF8B
+evidence:
+  - id: INS-260325-CDEA
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260326-16A8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-DF8B
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 While creatine is universally associated with muscle building, emerging research suggests its cognitive benefits may be equally or more significant. The brain's astrocytes require phosphocreatine to provide energy for neural function, particularly in the prefrontal cortex — the region responsible for executive function, rule-switching, context-dependent thinking, and anxiety suppression. Creatine supplementation at 3-7g/day of monohydrate has shown associations with improved memory, executive function, and mood, with research exploring benefits for neurodegenerative conditions like Alzheimer's and Parkinson's.
 

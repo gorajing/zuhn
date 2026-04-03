@@ -51,6 +51,10 @@ related:
   - PRI-260328-6136
   - INS-260327-0B3B
   - INS-260327-1403
+evidence:
+  - id: INS-260327-B064
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The rational market response to declining affordability would be producing cheaper vehicles. Instead, automakers pursued higher margins per unit: larger SUVs, more technology, premium trims. This strategy works in a credit-rich environment because longer loan terms (7+ years) keep monthly payments manageable while increasing total cost.
 

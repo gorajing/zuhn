@@ -56,6 +56,10 @@ related:
 stance: >-
   Despite popular mythology, the US actively tried to keep the Soviet Union
   together through 1991
+evidence:
+  - id: INS-260321-1A99
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Plokhy provides documentary evidence that the US government, far from engineering the Soviet collapse, actively tried to prevent it. George H.W. Bush gave his infamous 'Chicken Kiev' speech in August 1991 warning Ukrainians against independence. The reasons were pragmatic: Gorbachev had become a useful junior partner, unaccounted nuclear weapons were a nightmare scenario, and the stable Cold War framework was preferable to chaos.
 

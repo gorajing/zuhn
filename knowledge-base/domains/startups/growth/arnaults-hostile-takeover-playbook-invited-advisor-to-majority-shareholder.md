@@ -55,6 +55,13 @@ related:
   - INS-260330-9BF5
   - INS-260330-341D
   - INS-260327-6ACA
+evidence:
+  - id: INS-260327-6ACA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-0D82
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 After the Louis Vuitton-Moet Hennessy merger in 1987, Henry Racamier (LV's leader) clashed with the Moet Hennessy president. Racamier invited Bernard Arnault — a property developer, not a fashion executive — to help mediate. Arnault used the access to secretly acquire 43% of LVMH shares and allied with the Moet Hennessy families to gain majority control. The courts sided with Arnault, and for the first time in nearly 100 years, no Vuitton family member was involved with the brand.
 

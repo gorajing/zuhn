@@ -56,6 +56,10 @@ related:
   - INS-260327-377A
   - INS-260327-5452
   - INS-260327-157B
+evidence:
+  - id: INS-260323-1176
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 British naval doctrine required ships to maintain their position in the line of battle. Nelson, seeing the Spanish fleet was about to escape, broke formation and sailed directly into the enemy line without orders. His improvisation cut off the Spanish retreat and turned an indecisive engagement into a decisive victory. If he had followed procedure, the enemy would have escaped.
 

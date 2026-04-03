@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-AF2A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-F528
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Philip Ragan's analysis suggests the first country to deploy a space elevator would enjoy a 95% cost advantage in space access — reducing per-pound orbital delivery from $11,000 to roughly $100. At that ratio, competing with conventional rockets becomes economically impossible, giving the deployer effective control over space-related activities.
 

@@ -53,6 +53,10 @@ related:
   - INS-260327-F7FE
   - INS-260327-D25D
   - INS-260325-793A
+evidence:
+  - id: INS-260327-F7FE
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
 ---
 The Indus Valley Civilization achieved something remarkable: perfectly standardized brick dimensions (ratio 4:2:1) and uniform urban drainage systems across a territory spanning over 1500 kilometers — larger than contemporary Mesopotamia or Egypt. Yet archaeologists have found zero evidence of kings, palaces, or centralized government.
 

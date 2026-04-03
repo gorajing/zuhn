@@ -59,6 +59,16 @@ related:
 stance: >-
   Rick Beato believes all children are born with perfect pitch and lose it
   around nine months (when they become 'culturally bound listeners')
+evidence:
+  - id: INS-260330-83BC
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-87BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-4279
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Rick Beato draws a direct parallel between musical pitch and language acquisition, citing Patricia Kuhl's research on linguistic development. Just as babies can distinguish phonemes of all 6,500 languages at birth but become 'culturally bound listeners' by nine months, Beato theorizes that perfect pitch follows the same trajectory.
 

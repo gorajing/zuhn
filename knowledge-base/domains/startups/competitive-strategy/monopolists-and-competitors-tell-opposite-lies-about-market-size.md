@@ -59,5 +59,12 @@ related:
   - INS-260327-38F0
   - INS-260330-D99D
   - INS-260330-C825
+evidence:
+  - id: INS-260327-22E8
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-E214
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Thiel identifies a systematic distortion in how businesses describe their markets. Google, with 66% search market share, never calls itself a search engine — instead framing itself as an advertising company (3.5% of $500B global ad market) or a technology company (tiny slice of $1T). This makes the monopoly invisible. Conversely, a restaurant in a hyper-competitive industry will claim an impossibly narrow niche — 'British food in Palo Alto' — to fabricate uniqueness. The startup version is combining buzzwords ('sharing mobile social apps') to create a fictional intersection. The pattern recognition is: 'the something of somewhere is mostly the nothing of nowhere.' When evaluating any business, strip away the narrative and ask what the actual, objective market is. The real differences between monopolies and competitive businesses are enormous, but the narratives make them appear similar.

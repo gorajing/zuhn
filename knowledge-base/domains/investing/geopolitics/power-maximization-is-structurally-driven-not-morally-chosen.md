@@ -55,6 +55,13 @@ related:
 stance: >-
   States pursue power not because they are inherently aggressive but because the
   anarchic structure of international politics leaves them no alternat...
+evidence:
+  - id: INS-260330-8D0C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-581C
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Mearsheimer's offensive realism argues that the international system is anarchic — there is no higher authority states can turn to when threatened. In this structure, states must maximize their relative power to ensure survival. This is not a moral choice but a structural imperative: even peaceful democracies behave aggressively when the balance of power demands it.
 

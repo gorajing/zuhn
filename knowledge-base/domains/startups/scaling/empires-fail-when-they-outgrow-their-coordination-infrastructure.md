@@ -57,6 +57,28 @@ related:
   - INS-260330-E585
   - INS-260330-570F
   - INS-260330-CCE7
+evidence:
+  - id: INS-260327-D25D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-8912
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-C68B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-B490
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-15E1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-CCE7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-5140
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The neo-Assyrian Empire's downfall wasn't primarily military — it was administrative. They extended control beyond what their road and communication infrastructure could support. Combined with a tax-and-labor burden that made subjects welcome invaders ('Hey nomadic invaders! Come on in; you seem better than the last guy'), the empire became ungovernable.
 

@@ -60,5 +60,18 @@ related:
   - INS-260330-4C67
   - INS-260330-D661
   - INS-260327-B3A7
+evidence:
+  - id: INS-260327-A048
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-B3A7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-B3B3
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-E314
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Toussaint L'Ouverture, leading history's only successful slave revolution, made a counterintuitive choice: he incorporated the best French, Spanish, and British officers into his own army after defeating them. His reasoning was that slave culture — built on violence and coercion — needed to be replaced with something world-class, and the conquered Europeans had expertise and cultural practices he wanted to absorb. He applied the same logic to slave owners: end slavery but let them keep their land, require paid labor, and lower their taxes to fund the transition. The result was Haiti briefly having more export revenue than the United States. The business parallel is clear: when acquiring competitors or hiring from rivals, the goal isn't to punish the defeated but to absorb what made them formidable. This requires the discipline to separate the enemy's capabilities from the conflict itself — a form of the multi-stakeholder thinking Horowitz advocates throughout.

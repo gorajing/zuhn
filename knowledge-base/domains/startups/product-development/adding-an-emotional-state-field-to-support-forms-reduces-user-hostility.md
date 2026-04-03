@@ -51,6 +51,10 @@ related:
   - INS-260330-383F
   - INS-260323-C304
   - PRI-260323-8EEA
+evidence:
+  - id: INS-260323-C304
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Wufoo added an 'emotional state' dropdown to their support form, expecting no one would use it. Instead, it was filled out 75.8% of the time — nearly matching the browser type field at 78.1%. Users were saying: how I feel about this problem is as important as the technical details.
 

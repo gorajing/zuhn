@@ -49,12 +49,16 @@ stance: >-
 related:
   - INS-260325-B4D1
   - INS-260320-70FA
+  - INS-260403-393C
   - INS-260327-E039
   - INS-260330-70BF
   - INS-260324-8FB4
   - INS-260322-C9AC
-  - INS-260327-FCC4
   - INS-260327-9560
+evidence:
+  - id: INS-260327-9560
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When told he should do 'normal kid life,' Goldstein's response is simply 'just build.' He has a group of friends who share the entrepreneurial spirit—they launch weather balloons together, experiment with projects, and support each other's ventures. His family wasn't surprised when he launched an AI product because they knew his nature.
 

@@ -52,5 +52,9 @@ related:
   - INS-260325-F306
   - INS-260323-9B68
   - INS-260325-66BE
+evidence:
+  - id: INS-260327-203C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Crawford emphasizes that the idea of progress is historically novel and culturally specific. Most civilizations throughout history saw time as cyclical (rise and fall of empires) or declining (fall from a golden age). Even in the early modern West, there was serious debate about whether contemporary people could ever surpass the achievements of the ancient Greeks and Romans. Bacon was radical in arguing that there was more to discover. This matters because it means the cultural infrastructure supporting progress — the assumption that tomorrow can be better than today through deliberate effort — is not a default human belief. It must be actively maintained. When that cultural belief erodes (as it did after the world wars), material progress slows with it.

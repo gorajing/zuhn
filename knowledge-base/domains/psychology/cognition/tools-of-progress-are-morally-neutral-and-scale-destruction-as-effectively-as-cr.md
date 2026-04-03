@@ -63,6 +63,13 @@ related:
   - INS-260327-203C
   - INS-260330-2EF0
   - INS-260330-EDF4
+evidence:
+  - id: INS-260325-6262
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-203C
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The Holocaust is uniquely horrifying not because of its scale alone, but because it deployed the signature achievements of the Enlightenment and Scientific Revolution — meticulous bureaucratic record-keeping, industrial mass production, advanced transportation technology — in service of systematic murder. The death camps were, in a grotesque sense, optimized factories.
 

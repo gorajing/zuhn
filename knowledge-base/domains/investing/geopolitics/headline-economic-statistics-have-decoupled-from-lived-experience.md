@@ -50,6 +50,10 @@ related:
   - INS-260327-D7DD
   - INS-260330-39C6
   - PRI-260328-6136
+evidence:
+  - id: INS-260330-39C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When people say 'the economy is great but I'm struggling,' this isn't cognitive dissonance - it's a measurement gap. GDP counts financial transactions, stock markets reflect corporate profitability (enhanced by layoffs), and unemployment excludes people who've stopped looking. All three can be positive while the median person is worse off.
 

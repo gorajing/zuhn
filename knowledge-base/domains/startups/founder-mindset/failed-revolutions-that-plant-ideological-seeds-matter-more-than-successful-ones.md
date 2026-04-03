@@ -53,5 +53,15 @@ related:
   - INS-260327-8152
   - INS-260327-BE3F
   - PRI-260328-43D8
+evidence:
+  - id: INS-260327-BE3F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-7A27
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8152
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In December 1825, a group of young Russian army officers -- educated, idealistic, radicalized by what they'd seen in Europe during the Napoleonic Wars -- attempted to overthrow the Tsarist autocracy. The revolt collapsed within hours. Five leaders were executed, hundreds exiled to Siberia. By any operational measure, total failure. Yet the Decembrists became the founding mythology of all subsequent Russian revolutionary movements -- the Populists, the Social Democrats, and eventually the Bolsheviks. Herzen's famous declaration 'We are their heirs' cemented their legacy. The Decembrists' real output wasn't regime change -- it was proving that opposition to autocracy was thinkable for Russia's elite. For founders: a failed product that establishes a category or proves a concept can matter more than a successful product that doesn't shift thinking.

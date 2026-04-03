@@ -1,8 +1,8 @@
 # Tag: learning
 
 - `INS-260322-3083` Stop analyzing AI and start using it this weekend -- vibe coding, agent mode reports, and conversational problem-solving.
-- `INS-260320-8632` The last generation of great engineers may already be born — AI creates a widening split between exceptional and average.
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260320-8632` The last generation of great engineers may already be born — AI creates a widening split between exceptional and average.
 - `INS-260329-2B9A` Teaching programming effectively requires concrete visual feedback before abstract concepts.
 - `INS-260320-A745` Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260329-92C3` Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.

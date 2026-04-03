@@ -57,6 +57,13 @@ related:
   - INS-260327-E7AC
   - INS-260330-E585
   - INS-260330-4181
+evidence:
+  - id: INS-260330-2E1E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E585
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 At Salamanca, Marmont's army was overextended — his divisions too spread out to support each other. When Wellington attacked the lead division, it broke before the next division could react. That division's collapse exposed the next one, creating a domino effect. The French army didn't gradually retreat — it shattered, with each piece unable to save the next because they were too far apart.
 

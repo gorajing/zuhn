@@ -64,6 +64,10 @@ related:
   - INS-260330-54ED
   - INS-260330-3FCF
   - PRI-260324-12CF
+evidence:
+  - id: INS-260327-D1B7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When RuBisCo first evolved, it wasn't good at fixing carbon, but it was the only game in town. The evolutionary solution was simple: make a ton of it. This brute-force approach worked so well that RuBisCo-based organisms took over the entire planet. Scientists estimate 40 billion tons of it exist at any given time.
 

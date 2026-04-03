@@ -62,6 +62,10 @@ related:
   - INS-260330-F41D
   - INS-260330-43E8
   - INS-260330-EE7E
+evidence:
+  - id: INS-260327-BA14
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The common assumption is that G-force tolerance is purely cardiovascular — blood pools in the legs, brain loses oxygen, you black out. But Destin's actual failure point was his vestibular system. When the split-S maneuver caught him off guard and his head bobbled, the fluid in his semicircular canals was already spinning in one axis. The head movement introduced rotation in a second axis, creating a Coriolis cross-coupling effect where the brain receives conflicting rotational signals from multiple canals simultaneously.
 

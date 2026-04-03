@@ -54,6 +54,10 @@ related:
   - INS-260327-B950
   - INS-260327-7C1A
   - INS-260330-24A5
+evidence:
+  - id: INS-260330-24A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Islam's spread was inseparable from Arabic commerce. Muslim merchants traded across the Indian Ocean, the Silk Road, and sub-Saharan Africa. Their commercial relationships created trust and cultural exchange. Conversion followed trade because people adopted the religion of their most important trading partners. The existing commercial infrastructure became the channel for religious expansion.
 

@@ -54,6 +54,16 @@ related:
   - INS-260330-1647
   - INS-260330-CA88
 stance: Chinese deference to authority is a thousands-year-old implicit contract
+evidence:
+  - id: INS-260323-86FA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-1647
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-CA88
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Jin explains that the Chinese relationship with authority is paternalistic but transactional, rooted in Confucian philosophy. Citizens give deference in exchange for stability and prosperity. This is fundamentally different from Western projections of totalitarian submission. The proof is in China's radical entrepreneurism — you cannot have millions of ambitious self-driven entrepreneurs in a culture of blind obedience.
 

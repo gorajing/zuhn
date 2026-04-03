@@ -48,5 +48,9 @@ related:
   - INS-260322-5650
   - INS-260329-EBBB
   - PRI-260328-2014
+evidence:
+  - id: INS-260321-13EA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Alice emphasizes that holding high standards while also shipping quickly is not contradictory. Her startup became profitable in year one because she got the MVP to market fast and iterated based on real customer feedback. She warns against the common founder trap of polishing endlessly: without customer feedback, your assumptions about what needs improving are unreliable. The key mindset shift is viewing the initial launch not as a final product but as the start of the learning cycle.

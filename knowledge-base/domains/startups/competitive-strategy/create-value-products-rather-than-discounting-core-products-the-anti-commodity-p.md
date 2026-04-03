@@ -61,6 +61,10 @@ related:
   - INS-260323-104E
   - INS-260327-DBEB
   - INS-260328-F3C4
+evidence:
+  - id: INS-260327-DBEB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Greg Creed articulated one of the most powerful pricing frameworks in fast food: 'If we need a $1 price point, we create products at $1. We don't discount core menu items.' This seems simple but is the exact opposite of what McDonald's (discounted Big Macs), Burger King (discounted Whoppers), and KFC (discounted buckets) all did throughout the 2000s and 2010s.
 

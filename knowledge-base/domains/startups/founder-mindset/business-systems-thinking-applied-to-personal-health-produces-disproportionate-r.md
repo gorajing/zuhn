@@ -66,6 +66,21 @@ evidence:
   - id: INS-260327-ABF8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-965A
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E2F2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260329-6CCC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-C34C
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The meta-pattern in this video is a business operator applying operational frameworks to nutrition. Every technique maps to a business concept: zero-prep meals = reducing customer friction. Single protein target = North Star metric. Eating the same meals daily = standard operating procedures. Portable snacks available everywhere = supply chain resilience.
 

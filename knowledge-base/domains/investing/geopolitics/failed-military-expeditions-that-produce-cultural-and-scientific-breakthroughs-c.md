@@ -56,6 +56,22 @@ related:
   - INS-260330-E89A
   - INS-260330-8733
   - INS-260330-9A46
+evidence:
+  - id: INS-260323-AEA7
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-EBDD
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-E89A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-8733
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9A46
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Napoleon brought 160 scientists to Egypt alongside his army. The military expedition failed — the army was stranded and eventually surrendered. But the scientific expedition produced extraordinary results: the Description de l'Egypte (a comprehensive survey of Egyptian civilization), the discovery of the Rosetta Stone, and the founding of modern Egyptology. The venture that failed militarily succeeded intellectually.
 

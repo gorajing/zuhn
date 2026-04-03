@@ -57,6 +57,10 @@ related:
   - INS-260327-7A27
   - PRI-260328-79DA
   - INS-260330-F229
+evidence:
+  - id: INS-260330-F229
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Peter the Great's modernization was a conscious copy of Western European best practices: he traveled to Holland and England to learn shipbuilding, hired foreign experts, reorganized the army along European lines, built a new capital (St. Petersburg) as a 'window to Europe,' and even banned traditional Russian beards. The result was dramatic capability improvement — Russia went from a backward kingdom to a great power within a generation. But the forced pace created lasting cultural tensions.
 

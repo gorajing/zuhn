@@ -45,7 +45,6 @@ stance: >-
   living is invisible because resignation in a comfortable society looks
   identical to contentment from the outside.
 related:
-  - INS-260325-B4D1
   - INS-260327-3E6F
   - INS-260329-3848
   - INS-260325-F500

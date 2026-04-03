@@ -47,5 +47,9 @@ related:
   - PRI-260328-40CA
   - INS-260327-F06B
   - INS-260327-97AE
+evidence:
+  - id: INS-260327-97AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The gallbladder concentrates bile 5-10x for fat digestion; removal causes chronic fat malabsorption, deficiency of fat-soluble vitamins (A, D, E, K), and digestive issues -- making preservation through dietary changes preferable

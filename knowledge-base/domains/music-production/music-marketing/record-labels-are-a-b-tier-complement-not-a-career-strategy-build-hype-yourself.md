@@ -54,5 +54,15 @@ related:
   - INS-260324-1275
   - INS-260327-442D
   - INS-260330-7882
+evidence:
+  - id: INS-260324-1275
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-442D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-7882
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Despite launching his career through labels like OWSLA (Skrillex) and Revealed (Hardwell), the DJ rates record label releases as B-tier. The math: labels take 50-80% of master royalties, meaning you need double the streams to earn what you'd make independently. Only a tiny handful of currently hot labels (his example: John Summit's Experts Only) can genuinely change a song's trajectory through the owner's direct support. His song Rave Tool had massive organic hype before being shopped to any label — proving the hype didn't need institutional support. The worst aspects: you can't control your destiny (send demos and pray), it's not accessible to most artists, and a label can't save a song that isn't connecting organically. The best strategy: build hype yourself through organic content and direct outreach, then use a label as optional amplification.

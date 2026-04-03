@@ -57,6 +57,10 @@ related:
   - INS-260327-AB3D
   - INS-260330-FEB0
   - PRI-260328-FA83
+evidence:
+  - id: INS-260330-FEB0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 British and French naval design philosophies reflected different strategic priorities. French ships were larger, faster, and more maneuverable — optimized for speed and single-engagement performance. British ships were heavier built, with stronger hulls and more robust construction — optimized for sustained combat and damage absorption. In prolonged fleet actions, British ships could take punishment that would cripple French ships.
 

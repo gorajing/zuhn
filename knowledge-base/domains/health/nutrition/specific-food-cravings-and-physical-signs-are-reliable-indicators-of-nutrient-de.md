@@ -47,5 +47,9 @@ related:
   - INS-260327-0D7C
   - INS-260327-FD30
   - INS-260327-A680
+evidence:
+  - id: INS-260326-A7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Chocolate cravings indicate magnesium deficiency, ice cravings suggest iron deficiency, white spots on nails signal zinc deficiency, and dry cracked lips indicate B vitamin deficiency -- the body communicates nutritional needs through specific physical signs

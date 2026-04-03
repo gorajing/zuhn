@@ -1,5 +1,6 @@
 # Tag: intrinsic-motivation
 
+- `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.

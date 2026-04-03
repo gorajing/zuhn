@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-F887
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-7E6F
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Hormozi uses the metaphor of a bridge with 30 bricks: you must lay all 30 before the first dollar can cross. At 28 bricks, you've invested 93% of the effort but captured 0% of the return. Many people abandon at this stage and start a new bridge, accumulating half-built bridges that each represent sunk costs with zero return.
 

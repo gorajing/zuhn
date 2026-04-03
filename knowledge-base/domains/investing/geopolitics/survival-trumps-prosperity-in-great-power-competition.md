@@ -56,6 +56,10 @@ related:
   - PRI-260324-2A76
   - PRI-260323-9928
   - INS-260330-2EB0
+evidence:
+  - id: INS-260330-2EB0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Mearsheimer argues that liberal theories of economic interdependence fostering peace are fundamentally flawed because they place prosperity as the core variable, while the realist framework places survival above all else. The pre-WWI European economy was deeply integrated with enormous cross-border trade, yet the July Crisis of 1914 demonstrated that when security competition intensifies, states will destroy economic relationships to protect themselves.
 

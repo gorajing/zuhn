@@ -50,7 +50,7 @@ related:
   - PRI-260328-0C51
   - INS-260330-0346
   - INS-260328-6E7A
-  - INS-260327-E2BC
+  - INS-260403-99B1
 ---
 Brodeur-Urbas worked at Microsoft and found it actively unhelpful for his startup. The only value was the logo on his resume providing default credibility. Everything he does at Gumloop is the exact opposite of how big tech works.
 

@@ -54,5 +54,9 @@ related:
   - INS-260330-8BA6
   - INS-260330-2E41
   - INS-260322-F6C3
+evidence:
+  - id: INS-260327-0C29
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Traditional insecticides are cholinesterase inhibitors — the same mechanism as nerve gas — sprayed on crops despite known systemic risks. Aerogel's massive surface area (half a football field per ice-cube-sized piece) enables a fundamentally different approach: physically absorbing oils and moisture from insect exoskeletons until they desiccate. The mechanism works like salt on a slug rather than poison in a nervous system. This illustrates a powerful mental model: when a chemical or informational solution has unacceptable side effects, look for a physical or structural mechanism that achieves the same goal through a completely different causal pathway. In business and life, many problems labeled 'hard' are only hard because we're stuck in one mechanistic paradigm — switching the mechanism class entirely can bypass constraints that seemed fundamental.

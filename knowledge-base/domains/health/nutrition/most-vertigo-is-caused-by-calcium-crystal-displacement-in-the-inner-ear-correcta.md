@@ -46,5 +46,9 @@ related:
   - INS-260327-1F6E
   - INS-260330-4D8B
   - INS-260325-3FD3
+evidence:
+  - id: INS-260330-779C
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Benign paroxysmal positional vertigo (BPPV) from displaced otoconia (calcium crystals) in semicircular canals is the most common cause of vertigo, correctable through Epley maneuver; vitamin D deficiency increases recurrence by impairing calcium metabolism

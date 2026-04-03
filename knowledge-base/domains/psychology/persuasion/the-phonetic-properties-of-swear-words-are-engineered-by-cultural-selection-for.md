@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-3920
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-5CE3
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 There's a non-random pattern in the phonetic shape of profanity: swear words tend to be monosyllabic, feature plosive consonants (p, t, k, b, d, g), and can be shouted quickly. This isn't coincidence — it's cultural selection at work. Words that function as emotional weapons need to be deployable in the heat of the moment (short), carry percussive acoustic energy (plosives), and be unmistakable even in noisy environments.
 

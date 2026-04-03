@@ -54,6 +54,10 @@ related:
   - INS-260327-65F6
   - INS-260330-8481
   - INS-260321-C902
+evidence:
+  - id: INS-260320-CDE4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The video draws a direct parallel between Zipf's law in language and how human memory works: we remember some things very well and most things hardly at all. Out of ~11,000 days lived, most cannot be recalled in any detail. This isn't a bug — it mirrors the same statistical inevitability that governs word frequency. If our brains naturally process and discuss the world in Zipf-ian patterns, it follows that memory consolidation would favor the same distribution.
 

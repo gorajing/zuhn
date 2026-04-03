@@ -54,6 +54,10 @@ related:
   - INS-260325-A1BC
   - INS-260330-C7E6
 stance: 'After the movie 300, Navy SEAL recruitment spiked'
+evidence:
+  - id: INS-260327-3918
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Sankar draws a direct line between entertainment and national capability. His own assimilation as a Nigerian immigrant happened through 80s/90s movies — Hunt for Red October, Red Dawn, Rambo. He 'knew what it felt like to be American before he knew civics.' After 300, Navy SEAL recruitment spiked even though it was about Spartans. Top Gun Maverick reminded an entire generation what American confidence felt like.
 

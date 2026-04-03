@@ -54,6 +54,13 @@ related:
   - INS-260329-9F81
   - INS-260402-8424
   - INS-260330-B5D6
+evidence:
+  - id: INS-260329-A6EA
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-5414
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Graham argues the employer-employee relationship retains 'master-servant DNA' that creates resentment on both sides — employees feel infantilized, bosses find it easier to do things themselves. His controlled experiment (doing identical work at Yahoo post-acquisition vs. his own startup) proved the relationship structure itself changed his behavior, pushing buttons he'd 'forgotten he had.'
 

@@ -52,6 +52,10 @@ related:
   - PRI-260328-EAC4
   - INS-260330-9367
   - INS-260327-DF2F
+evidence:
+  - id: INS-260330-9367
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The US is building housing at record rates while still short 4 million homes. The resolution: virtually all new construction is luxury because only luxury units generate sufficient margins at current construction costs. The market reliably produces what's profitable, not what's needed.
 

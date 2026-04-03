@@ -60,6 +60,10 @@ related:
 stance: >-
   a16z's platform model worked because its founders had been VC customers
   (entrepreneurs), giving them a perspective that career VCs structurally cou...
+evidence:
+  - id: INS-260322-03DD
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 The existing VCs couldn't conceive of the platform model because they had never been entrepreneurs — they had never been customers of their own product. They looked at VC from the provider side and saw a perfectly functioning business (the sushi boat analogy), while entrepreneurs experienced a fundamentally broken relationship with information asymmetry and lack of support.
 

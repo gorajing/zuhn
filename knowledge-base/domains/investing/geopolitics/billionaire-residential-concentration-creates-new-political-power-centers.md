@@ -50,6 +50,10 @@ related:
   - INS-260327-714F
   - INS-260329-C45C
   - INS-260327-F4B8
+evidence:
+  - id: INS-260327-1ACE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 When Bezos, Griffin, Musk, and dozens of other billionaires concentrate in a single metropolitan area, they create a political power center that can influence policy at state and national levels. Their combined economic weight exceeds many countries' GDP.
 

@@ -61,6 +61,13 @@ related:
   - INS-260327-5452
   - INS-260330-63FE
   - INS-260330-5BEB
+evidence:
+  - id: INS-260330-63FE
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-5BEB
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Conventional naval doctrine called for parallel engagement: lines of ships firing at each other in long exchanges that rarely produced decisive results. Nelson attacked perpendicularly, cutting through the Franco-Spanish line at two points. This exposed his ships to murderous fire during the approach (including the shot that killed him), but once through the line, his ships could engage from both sides while the enemy was fragmented and couldn't coordinate. The result was the most decisive naval victory in history.
 

@@ -1,8 +1,8 @@
 # Tag: competition
 
+- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260322-299C` DeepSeek's surprise replication of frontier model capabilities from a hedge fund proves that AI leads are inherently temporary — once capability is demonstrated, others catch up quickly with far fewer resources.
 - `INS-260323-E2DD` Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
-- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
 - `INS-260330-2355` Harvard Business School's largest graduating cohorts systematically chase the last wave — junk bonds in 1989, tech in 1999, housing in 2006 — because competition feels like validation.
 - `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.

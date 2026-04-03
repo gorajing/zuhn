@@ -5,8 +5,8 @@
 - `INS-260325-568A` Every great scientific breakthrough, even those attributed to lone geniuses, arose from collaborative social contexts — and knowing this helps us create better conditions for future discovery.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260327-5AFE` Using AI well is a social skill—coaching, delegating, providing context—not a technical prompting skill.
-- `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260322-8F3F` Tight-knit groups of early employees at breakout companies go on to found and lead the next generation of billion-dollar companies, creating collaborative networks that compound over decades.
+- `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
 - `INS-260323-6C84` Wikipedia's predecessor Nupedia had a 7-stage academic review process that produced almost nothing in 2 years — switching to open wiki editing produced more work in 2 weeks than 2 years of rigorous process.
 - `INS-260323-CD28` Wikipedia works because everyone intuitively knows what an encyclopedia entry should look like — shared understanding of the goal enables collaboration without centralized control.
 - `INS-260323-1EEA` Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.

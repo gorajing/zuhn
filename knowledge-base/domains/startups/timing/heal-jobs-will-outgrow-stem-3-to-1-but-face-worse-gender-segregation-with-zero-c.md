@@ -59,6 +59,16 @@ related:
   - INS-260327-C4E8
   - PRI-260328-D68F
   - INS-260323-FE69
+evidence:
+  - id: INS-260327-004B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-F4CB
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-C4E8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Reeves introduces the HEAL acronym (Health, Education, Administration, Literacy) as the mirror image of STEM. While massive investment promotes women in STEM, the HEAL sector—which is growing far faster—has no equivalent effort to attract men. Only 24% of HEAL workers are male, with the number declining. In psychology specifically, only 5% of practitioners under 30 are male.
 

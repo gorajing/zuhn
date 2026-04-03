@@ -57,6 +57,9 @@ evidence:
   - id: INS-260327-EFA6
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-C68B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Dohmke quit his job at Bosch during the height of the 2008 financial crisis. This seems crazy, but the timing worked in his favor: while everyone else was focused on stability, he had less competition for freelance development work as the iPhone SDK had just launched and only Apple could build native apps.
 

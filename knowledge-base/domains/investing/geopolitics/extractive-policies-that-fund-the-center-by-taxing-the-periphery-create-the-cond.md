@@ -57,6 +57,10 @@ related:
   - INS-260330-1183
   - INS-260327-99DF
   - PRI-260328-43D8
+evidence:
+  - id: INS-260330-5C6E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Britain's American colonies were taxed to pay for the Seven Years' War and ongoing imperial costs, but had no representation in the Parliament that set those taxes. The colonies were expected to fund the center's priorities without any say in how the money was spent. Once the colonists calculated that they were paying more in taxes and trade restrictions than they received in benefits (military protection), independence became economically rational.
 

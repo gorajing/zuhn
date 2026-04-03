@@ -52,6 +52,10 @@ related:
   - INS-260329-21C6
   - INS-260327-E2F1
   - INS-260327-E2F2
+evidence:
+  - id: INS-260329-21C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Every recipe in Hormozi's system requires literally zero cooking: Greek yogurt + Crystal Light + cereal is mixed in the container it comes in. Lox goes on pre-toasted bread. Jerky and string cheese are grab-and-go. Even dishes are eliminated by eating from the yogurt container.
 

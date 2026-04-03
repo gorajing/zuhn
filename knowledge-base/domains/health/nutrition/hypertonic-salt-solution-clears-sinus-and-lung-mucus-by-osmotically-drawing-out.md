@@ -50,5 +50,12 @@ related:
   - INS-260327-24AA
   - INS-260330-8BA6
   - INS-260327-8E45
+evidence:
+  - id: INS-260330-8BA6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8E45
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Hypertonic saline (higher salt concentration than body fluids) draws fluid out of swollen tissues through osmosis, thinning mucus and reducing inflammation. Methods: neti pot irrigation for sinuses, nebulizer with saline for lungs. The salt also creates an inhospitable environment for bacteria and viruses. This is one of the oldest and most effective remedies — used clinically for cystic fibrosis patients. For chronic sinus issues, daily neti pot use with warm hypertonic saline provides more sustained relief than decongestant sprays which cause rebound congestion. Adding a drop of iodine enhances antimicrobial effect.

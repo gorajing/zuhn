@@ -60,6 +60,10 @@ related:
   - INS-260330-56B2
   - INS-260330-636E
   - INS-260330-4FA3
+evidence:
+  - id: INS-260322-06EA
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Phil Knight's early Nike story is a masterclass in strategic overstatement. He invented the company name 'Blue Ribbon Sports' mid-meeting when asked by Onitsuka executives. Later, when they required an East Coast presence for a national distribution deal, he immediately claimed to have offices there — then scrambled to make it real after the meeting. Each bluff secured a deal that provided the revenue and credibility to build what he'd claimed.
 

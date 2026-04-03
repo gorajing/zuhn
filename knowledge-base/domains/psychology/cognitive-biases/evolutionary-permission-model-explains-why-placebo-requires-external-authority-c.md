@@ -63,6 +63,10 @@ related:
   - INS-260325-A66E
   - INS-260325-5F3C
   - INS-260330-0FBF
+evidence:
+  - id: INS-260325-EE8B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The video proposes an evolutionary model for the placebo effect: when a child is hurt, symptoms like pain and crying serve dual purposes — keeping the child still (protective) and signaling adults for help. When help arrives, even without active treatment, the brain receives a signal that it's safe to redirect resources from distress-signaling to actual healing. The placebo essentially mimics the 'help has arrived' signal.
 

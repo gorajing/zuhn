@@ -57,6 +57,10 @@ related:
   - INS-260327-CE65
   - INS-260330-B559
   - INS-260330-D711
+evidence:
+  - id: INS-260330-D711
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Drake attacked Spanish treasure ships on the Pacific coast of the Americas — routes that were completely undefended because Spain assumed no enemy could reach them. The plunder from a single voyage generated returns that exceeded the entire investment many times over. Spain's vast empire couldn't defend every trade route simultaneously, and the ones it left unguarded were the most profitable targets.
 

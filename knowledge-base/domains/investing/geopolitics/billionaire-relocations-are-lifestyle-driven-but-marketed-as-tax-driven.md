@@ -49,6 +49,10 @@ related:
   - INS-260327-714F
   - INS-260327-4E10
   - INS-260330-4830
+evidence:
+  - id: INS-260330-4830
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 When billionaires move to Florida, the zero state income tax narrative dominates. Analysis of actual migration patterns reveals lifestyle factors - climate, social networks, business ecosystems - drive most decisions. Tax savings provide convenient rational justification.
 

@@ -56,5 +56,12 @@ related:
   - PRI-260325-9258
   - PRI-260323-1B96
   - INS-260330-677A
+evidence:
+  - id: INS-260327-B51F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-11E0
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Health: insulin resistance is the unified root cause behind heart disease, type 2 diabetes, obesity, dementia, and dozens of other conditions. Yet each is treated as a separate disease by separate specialists. Startups: companies misidentify their actual business model, then interpret the downstream failures (churn, pricing resistance, sales cycle length) as independent problems requiring independent solutions. Psychology: cognitive distortions present as anxiety, procrastination, relationship conflict, and career stagnation -- but share common roots in distorted threat perception. The structural pattern: in complex systems with many output channels, a single hidden cause produces diverse visible symptoms. The default human response is to treat each symptom independently because symptoms are visible and causes require inference. The fix in every domain is the same: stop treating branches, find the trunk.

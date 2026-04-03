@@ -70,6 +70,12 @@ evidence:
   - id: INS-260323-BA00
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-C528
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-8048
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RuBisCo, the enzyme that fixes carbon in photosynthesis, was evolved in a low-oxygen atmosphere and now fails up to 50% of the time by grabbing oxygen instead of CO2. Plants compensate by producing ~40 billion tons of it and evolving separate pathways to neutralize its toxic byproducts. They cannot replace it because every downstream process depends on its specific outputs.
 

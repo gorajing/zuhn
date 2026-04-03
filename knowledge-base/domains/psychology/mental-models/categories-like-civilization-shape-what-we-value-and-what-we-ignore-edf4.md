@@ -56,6 +56,10 @@ related:
   - INS-260330-CF10
   - INS-260330-7C58
   - INS-260330-7E97
+evidence:
+  - id: INS-260327-203C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The standard markers historians use to identify 'civilizations' — monumental architecture, written records, military conquests, named rulers — systematically disadvantage the Indus Valley, which excelled in areas we don't typically celebrate: urban sanitation, standardized infrastructure, and apparently egalitarian social organization. Their writing remains undeciphered partly because we've invested far less effort in understanding it compared to Egyptian hieroglyphics or Mesopotamian cuneiform.
 

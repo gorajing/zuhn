@@ -55,6 +55,10 @@ related:
   - INS-260327-842F
   - INS-260327-8152
   - INS-260330-D968
+evidence:
+  - id: INS-260330-D968
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The Umayyad Caliphate alienated multiple groups: non-Arab Muslims were treated as second-class, Persians resented Arab dominance, Shia Muslims were persecuted, and even some Arab tribes felt marginalized. The Abbasid movement brilliantly united all these discontented factions under a vague but inclusive revolutionary banner. Each group projected their own hopes onto the movement, and together they overwhelmed the Umayyads.
 

@@ -52,6 +52,16 @@ related:
   - INS-260327-8473
   - INS-260327-08E7
   - INS-260327-485B
+evidence:
+  - id: INS-260327-8473
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-08E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-485B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 After navigating crises that most CEOs never face once, let alone annually, Tenev concludes that wartime mentality should be the permanent operating mode. When he looks back at rare moments of peace ('there's really not too many problems right now'), he realizes the team wasn't executing aggressively enough. The ideal is internally created urgency, because externally imposed crises are unpredictable and uncontrollable.
 

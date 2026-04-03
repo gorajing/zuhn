@@ -56,6 +56,9 @@ evidence:
   - id: INS-260327-24AA
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-8AB8
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Glass bottles are better for the environment but lost to plastic and aluminum because transportation costs per unit are dramatically higher due to weight and breakage.
 

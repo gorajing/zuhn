@@ -54,6 +54,10 @@ related:
   - INS-260327-4DE7
   - INS-260327-4DE8
   - INS-260327-D25D
+evidence:
+  - id: INS-260327-4DE8
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Mohenjo Daro and Harappa — cities hundreds of miles apart — used identically sized bricks, perpendicular street layouts, and centralized drainage systems. This level of standardization across a geographically dispersed civilization implies powerful coordination mechanisms, yet archaeologists have found no palaces, no monumental royal architecture, and no clear evidence of kings or authoritarian rule.
 

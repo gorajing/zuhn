@@ -52,5 +52,9 @@ related:
 stance: >-
   Nightclubs make money from men buying $1,000 tables and $100 bottles to
   impress women
+evidence:
+  - id: INS-260327-EEEE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The nightclub business model: without women there's no one to flex on → no men → no spenders → empty club. Promoters are assigned tables and fill them with women to create energy and social proof. When the club sells all its tables ($1K+), promoters give theirs up and move to the next venue. The core economics: private tables and bottle service are the profit center (massive markup on $20 bottles sold for $100+), the dance floor is loss-leader entertainment, and promoters work on commission/table allocation. This is a two-sided marketplace where one side (women) is subsidized to attract the paying side (men). Same dynamic as free-to-play gaming, dating apps, and media.

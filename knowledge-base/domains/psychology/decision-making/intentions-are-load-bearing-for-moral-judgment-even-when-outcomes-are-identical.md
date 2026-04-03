@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-051F
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-CF10
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Harris draws a sharp line between 'collateral damage' — civilian deaths that are inadvertent, regretted, and sometimes prosecuted — and intentional massacre designed to maximize horror and broadcast it for propaganda. Pure outcome-based moral accounting (consequentialism taken to its extreme) treats these as equivalent because the dead are equally dead. But this collapses a distinction that is foundational to moral progress: the development of rules of war, prosecution of war crimes, and the very concept of civilian immunity all depend on treating intention as morally relevant.
 

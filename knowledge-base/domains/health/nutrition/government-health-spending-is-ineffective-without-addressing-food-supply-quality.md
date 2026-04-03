@@ -44,5 +44,12 @@ related:
   - INS-260327-CE05
   - INS-260327-BF59
   - PRI-260328-1545
+evidence:
+  - id: INS-260327-7B05
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-CE05
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Government health initiatives spending billions fail to address the root cause: a food supply dominated by seed oils and processed ingredients requires policy-level intervention not just healthcare spending

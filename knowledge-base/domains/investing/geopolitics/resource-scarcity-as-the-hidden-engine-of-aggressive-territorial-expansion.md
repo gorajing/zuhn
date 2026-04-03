@@ -52,6 +52,22 @@ related:
   - INS-260330-FAB8
   - INS-260330-570F
   - INS-260327-473D
+evidence:
+  - id: INS-260330-8D0C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-13EE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-FAB8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-570F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-473D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Both Nazi Germany and Imperial Japan pursued territorial expansion primarily to secure food and raw materials, not just to fulfill ideological ambitions. Germany's Lebensraum doctrine and Japan's Greater East Asia Co-Prosperity Sphere were fundamentally resource-acquisition strategies dressed in ideological language.
 

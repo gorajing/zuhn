@@ -67,6 +67,9 @@ evidence:
   - id: INS-260327-42F0
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260321-6D01
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Graham argues that conscious effort to generate startup ideas activates a filter that selects for plausibility over quality. The resulting ideas fool both the founder and others, wasting significant time before revealing themselves as bad. The alternative is to 'turn your brain into the type that has startup ideas unconsciously' through three steps: learn a lot about things that matter, work on problems that interest you, with people you like and respect.
 

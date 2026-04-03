@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-E520
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-5A0B
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Harris makes a crucial distinction: Trump is 'not ideological—Trump is in the Trump business' wanting 'wealth and fame' rather than to 'create the Thousand-Year Reich.' Yet both supporters and critics consistently analyze Trump through ideological frameworks (fascism, populism, nationalism) that assume coherent beliefs driving behavior. This produces failed predictions because the actual decision function is transactional self-interest, not ideological commitment.
 

@@ -60,6 +60,16 @@ related:
   - INS-260330-E4DB
   - INS-260330-BF00
   - INS-260330-59FD
+evidence:
+  - id: INS-260327-BE3F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-7C60
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-178D
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The Roman Empire's military shift from citizen-soldiers to paid mercenaries is often cited as a key factor in its decline. Citizens fought because they had a stake in Rome's survival; mercenaries fought for pay and had no inherent loyalty to the institution. When external pressure mounted, mercenary armies fragmented rather than holding together.
 

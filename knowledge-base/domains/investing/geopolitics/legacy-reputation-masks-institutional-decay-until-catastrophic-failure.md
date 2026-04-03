@@ -59,6 +59,19 @@ related:
   - INS-260330-FEB0
   - INS-260330-35E2
   - INS-260327-BF38
+evidence:
+  - id: INS-260326-1CB1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-2CCA
+    type: CONTRADICTS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FEB0
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-35E2
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In 1806, the Prussian army still operated on Frederick the Great's playbook from the Seven Years' War (1756-63). Its officers were aristocrats promoted by birth, not merit. Its tactics were rigid. Its organizational structure hadn't adopted Napoleon's flexible corps system. The reputation alone had deterred challengers for decades. But when finally tested at Jena-Auerstedt, the entire Prussian military collapsed in one day — not a gradual decline, but instant catastrophic failure.
 

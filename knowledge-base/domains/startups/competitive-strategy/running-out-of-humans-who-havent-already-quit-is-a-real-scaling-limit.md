@@ -57,6 +57,12 @@ evidence:
   - id: INS-260327-6061
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-4046
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-C4E8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Amazon's labor model relied on high turnover as a feature: constantly refreshing the workforce prevented unionization and kept wages low. But in many markets, they've literally exhausted the local labor pool of people who haven't already worked there and left.
 

@@ -59,5 +59,8 @@ evidence:
   - id: INS-260325-195E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-BBCF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Silicon Valley systematically overvalues growth rates and undervalues durability. Thiel demonstrates this with PayPal's 2001 DCF analysis: with 100% annual growth discounted at 30%, three-quarters of the company's value came from cash flows in 2011 and beyond. This pattern holds across tech — for any Y Combinator company in 2014, 80-85% of value was projected from 2024+. The implication is that the question 'why will this still be the leading company 10-20 years from now?' is more important than current growth metrics. Google wasn't the first search engine but was the last one that mattered. Facebook wasn't the first social network (Reid Hoffman's SocialNet launched in 1997) but was the first with real identity — the dimension that made it the last. Capablanca's chess principle applies: you must begin by studying the endgame.

@@ -48,5 +48,12 @@ related:
   - INS-260330-9575
   - INS-260330-F8A2
 stance: Saudi Arabia and Israel were sworn enemies for decades
+evidence:
+  - id: INS-260330-9575
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-F8A2
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The IMEC corridor forces historical enemies into alliance through shared economic interest. Saudi Arabia needs revenue diversification beyond oil (and can't always ship through the Strait of Hormuz due to Iran). Israel is perfectly positioned in the Mediterranean to supply Europe. Both want to be critical nodes on the IMEC train network. The analyst describes this as 'chess pieces arranging themselves' — countries that were once enemies join the same camp because interests align. This is the same principle as the Plaza Accord insight: put a black box over the event, the input is 'which arrangement makes more money,' the output is 'that's what happens regardless of ideology.'

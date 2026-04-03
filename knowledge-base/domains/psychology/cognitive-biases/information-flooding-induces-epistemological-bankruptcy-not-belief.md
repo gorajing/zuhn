@@ -59,6 +59,10 @@ related:
   - PRI-260325-262C
   - INS-260330-12DC
   - INS-260323-6A05
+evidence:
+  - id: INS-260323-6A05
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Harris references Hannah Arendt's insight from 'The Origins of Totalitarianism': sustained lying at scale is not designed to get people to believe specific falsehoods — it's designed to get people to believe nothing. The target state is epistemological bankruptcy, where citizens conclude that understanding reality is impossible or not their responsibility. This is Steve Bannon's 'flood the zone with shit' strategy made explicit.
 

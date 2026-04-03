@@ -56,6 +56,16 @@ related:
   - INS-260330-1B8A
   - INS-260330-FEB0
   - INS-260330-F158
+evidence:
+  - id: INS-260330-1B8A
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-FEB0
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-F158
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Venice's republican system elected doges who served for life but couldn't establish hereditary succession. This meant power transferred institutionally rather than dynastically. While kingdoms around Venice collapsed due to succession crises — wars over who inherits the throne — Venice maintained continuity through its institutional structures: the Great Council, the Senate, the Council of Ten. The state outlived every individual leader.
 

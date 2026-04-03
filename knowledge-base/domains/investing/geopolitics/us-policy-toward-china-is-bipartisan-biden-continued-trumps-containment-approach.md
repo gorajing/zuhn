@@ -52,6 +52,10 @@ related:
 stance: >-
   Despite appearing ideologically opposed, Biden barely cut any tariffs on China
   and maintained aggressive semiconductor export controls
+evidence:
+  - id: INS-260324-C1B8
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Dr. Kim emphasizes that Biden and Trump's China policies were 'almost the same' — Biden kept tariffs, maintained export controls on semiconductors, and continued strategic containment. The key difference is theatrics: Trump makes it a show with dramatic swings between hostility and friendliness toward China.
 

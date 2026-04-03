@@ -55,6 +55,16 @@ related:
   - INS-260321-13C6
   - INS-260330-4150
 stance: 'After the Cold War, defense consolidated from 51 primes to 5'
+evidence:
+  - id: INS-260327-8DAA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4150
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-7185
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The conventional explanation for defense industry decline is that consolidation killed competition. Sankar argues the real damage was subtler: consolidation bred conformity. The 'Last Supper' drove financialization — these companies stopped thinking about growth and started thinking about dividends, buybacks, and cash flow. The heretics were expelled. The founders left for tech. In 1989, only 6% of major weapon system spending went to defense-only companies. By 2025, it's 86%.
 

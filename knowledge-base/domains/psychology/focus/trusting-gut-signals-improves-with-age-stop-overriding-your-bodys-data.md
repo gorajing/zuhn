@@ -59,6 +59,9 @@ evidence:
   - id: INS-260325-E8BC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-2DF7
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Huberman describes how the greatest benefit of aging is accumulating enough data points to finally trust one's interoceptive signals — the deep nervous system responses that say 'this is not good' or 'this is great.' In his teens, 20s, and 30s, he invested enormous effort in overriding these signals, thinking it made him tougher or smarter.
 

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-7F22
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-B064
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The auto industry's core problem isn't technology - it's affordability. Americans can't responsibly afford car ownership but also can't afford not to own cars in car-centric infrastructure. The industry responded to this squeeze by building more expensive vehicles with higher margins rather than affordable alternatives.
 

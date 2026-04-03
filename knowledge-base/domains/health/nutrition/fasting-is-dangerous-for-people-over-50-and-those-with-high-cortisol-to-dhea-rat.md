@@ -61,6 +61,10 @@ related:
   - INS-260327-1DAB
   - INS-260330-5D64
   - INS-260330-D38F
+evidence:
+  - id: INS-260330-D38F
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The cortisol-to-DHEA ratio is now recognized as the best predictor of both longevity and morbidity. When this ratio exceeds 0.5 (cortisol-dominant), fasting further elevates cortisol, suppressing DHEA and accelerating aging. No cancer patient in one study had a ratio below 1.5. DHEA naturally declines with age while cortisol does not, making older adults inherently more vulnerable.
 

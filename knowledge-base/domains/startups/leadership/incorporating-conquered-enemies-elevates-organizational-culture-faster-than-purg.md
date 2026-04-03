@@ -58,5 +58,18 @@ related:
   - INS-260330-4C67
   - INS-260330-35E2
   - INS-260330-D661
+evidence:
+  - id: INS-260327-2356
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-7C4A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-891F
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-1BBF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Toussaint L'Ouverture, leading history's only successful slave revolution, faced a defining decision after defeating European armies: his soldiers wanted to kill the conquered and pillage their possessions. Instead, Toussaint made the best French, British, and Spanish officers into generals in his own army. His reasoning was multi-perspective: slave culture, born of brutality, needed upgrading to compete as a world-class nation. The conquered Europeans had military expertise, administrative knowledge, and cultural sophistication that his army lacked. The result was an army of unprecedented loyalty — the conquered generals were so shocked at being spared (they expected execution from a 'savage army') that they became more loyal than they'd ever been to their home countries. He borrowed this from Julius Caesar, whom he'd studied extensively. The business parallel is clear: when acquiring competitors or hiring from rivals, integrating their best talent rather than treating them as conquered enemies creates a stronger organization.

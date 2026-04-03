@@ -55,5 +55,9 @@ related:
   - INS-260329-C56D
   - INS-260330-8D27
   - INS-260327-BF43
+evidence:
+  - id: INS-260323-5EA1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Michael Seibel argues that founders waste time practicing 10-30 minute pitches when everything an investor needs fits in 2 minutes. The 30-second version has three sentences: (1) what your company does in language your mom would understand — no jargon, no 'marketplace for X'; (2) how big the market is with a specific dollar figure from basic research; (3) your traction or speed of execution. The 2-minute version adds: unique insight (the aha moment in 2 sentences), business model (one sentence, don't hedge), team (2-4 founders, technical ratio, how long you've known each other), and the ask (specific instrument, cap, amount, minimum check). The key principle is 'the more you talk, the more opportunity to say something people don't like' — brevity signals clarity of thought and confidence.

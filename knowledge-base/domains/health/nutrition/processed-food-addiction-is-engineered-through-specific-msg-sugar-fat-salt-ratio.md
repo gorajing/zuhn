@@ -49,5 +49,9 @@ related:
   - INS-260327-3C60
   - INS-260330-A33E
   - INS-260327-0D7C
+evidence:
+  - id: INS-260330-A33E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Food manufacturers deliberately engineer addiction through the bliss point (optimal sugar-fat-salt ratio), MSG and its variants (glutamate excitotoxicity), and artificial sweeteners (that paradoxically increase cravings) -- making willpower insufficient against biochemical manipulation

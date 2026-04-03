@@ -57,6 +57,13 @@ related:
   - INS-260327-2964
   - INS-260330-85B8
   - INS-260330-2D53
+evidence:
+  - id: INS-260330-85B8
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-2D53
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The corps system — self-contained combined-arms units of 15,000-30,000 men that could march independently and fight together — was Napoleon's key organizational innovation. It allowed faster movement, greater operational flexibility, and the ability to concentrate overwhelming force at the decisive point. For roughly a decade (1805-1813), no other European army had equivalent organizational capability, giving France an apparently unbeatable advantage.
 

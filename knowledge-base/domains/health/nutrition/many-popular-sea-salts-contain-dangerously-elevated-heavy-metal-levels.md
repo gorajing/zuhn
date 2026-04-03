@@ -54,6 +54,10 @@ related:
   - PRI-260328-DD93
   - INS-260330-BA54
   - INS-260330-96FE
+evidence:
+  - id: INS-260330-99D1
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Independent heavy metal testing of popular salt brands reveals surprisingly high levels of lead, mercury, cadmium, and arsenic in many sea salts. The contaminants come from ocean pollution concentrating in evaporated salt. This is particularly concerning given that optimal hydration requires 8-9 grams of salt daily.
 

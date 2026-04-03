@@ -53,6 +53,13 @@ related:
   - INS-260327-E2F2
   - INS-260329-7EEF
   - INS-260329-21C6
+evidence:
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-21C6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Hormozi structures every meal around a single constraint: maximize protein per calorie. Breakfast is 94g protein from Greek yogurt in 500 calories. Lunch is open-face lox sandwiches targeting 90g protein with minimal bread. Snacks are jerky (60g protein per bag) and string cheese.
 

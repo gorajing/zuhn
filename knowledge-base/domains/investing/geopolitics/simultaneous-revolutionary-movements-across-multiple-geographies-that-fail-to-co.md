@@ -57,6 +57,10 @@ related:
   - INS-260327-ABE5
   - INS-260327-5DD7
   - PRI-260328-79DA
+evidence:
+  - id: INS-260326-44C9
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 In 1848, revolutions erupted almost simultaneously across France, Germany, Austria, Italy, and Hungary. The speed and breadth of the upheaval stunned established governments. But the revolutionaries in each country had different goals (liberal constitution, national unification, social reform) and couldn't coordinate across borders. Once the initial shock wore off, conservative governments regrouped and defeated each revolution individually.
 

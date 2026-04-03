@@ -57,5 +57,21 @@ related:
 stance: >-
   Google's TPU (Tensor Processing Unit) is already competitive for AI workloads,
   but NVIDIA's software ecosystem moat delays competitors
+evidence:
+  - id: INS-260322-0E41
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-930D
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-473D
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260329-6D3B
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-4F2A
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Professor Kim outlines the competitive landscape: Google developed TPUs (Tensor Processing Units) specifically for AI matrix calculations, and they work well — Google uses them internally for their own AI services. AMD is developing competing GPUs. Korean startups are building NPUs (Neural Processing Units) for smaller, edge-device AI applications. However, two factors protect NVIDIA: (1) their massive software ecosystem (CUDA) means even good hardware fails if software doesn't support it, and (2) vertical integration — Google keeps TPUs for internal use, not selling them broadly. Professor Kim believes the 90% monopoly era will gradually diminish as competitors mature, but it will take time for software ecosystems to catch up.

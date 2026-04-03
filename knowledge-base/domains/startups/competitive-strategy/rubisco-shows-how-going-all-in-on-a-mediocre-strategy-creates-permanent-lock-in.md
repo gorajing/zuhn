@@ -59,6 +59,10 @@ related:
   - INS-260330-4489
   - INS-260330-6ECA
   - INS-260330-8B93
+evidence:
+  - id: INS-260330-E218
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 RuBisCo, the enzyme that fixes carbon in photosynthesis, is so inefficient that it confuses oxygen for CO2 roughly half the time, creating toxic byproducts plants must waste energy processing. Yet plants produce 40 billion tons of it at any given moment because they went 'all-in' on this strategy 450 million years ago.
 

@@ -52,5 +52,9 @@ related:
   - INS-260329-0487
   - INS-260327-0105
   - INS-260327-E8A4
+evidence:
+  - id: INS-260329-0487
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 The conventional approach of stretching the chest and front muscles fails because the root cause is weakness in the posterior chain. Key exercises: face pulls (rear deltoids), chin tucks (deep neck flexors), wall angels (scapular retraction), and rows (rhomboids and mid-traps). The imbalance comes from sitting and screen use which shortens anterior muscles while posterior muscles atrophy from disuse. Corrective exercises done consistently for even 5-10 minutes daily produce visible posture changes rapidly. Berg also emphasizes that vitamin D deficiency weakens postural muscles and that magnesium prevents the chronic tension that locks poor posture in place.

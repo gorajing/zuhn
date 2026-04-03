@@ -52,6 +52,10 @@ related:
   - INS-260330-9471
   - INS-260330-F737
   - INS-260327-5E93
+evidence:
+  - id: INS-260327-5E93
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 When asked about OpenAI's master plan, Altman is blunt: 'There is no master plan beyond making great models and shipping good products.' He describes having 'unwavering confidence' in their ability to build products people love and great models, but takes tactical steps only one or two at a time. The products they'll build next year they're 'probably not even thinking about right now.'
 

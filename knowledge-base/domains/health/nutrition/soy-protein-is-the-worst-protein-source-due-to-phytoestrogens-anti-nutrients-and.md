@@ -51,5 +51,18 @@ related:
   - INS-260330-E039
   - INS-260330-EB48
   - INS-260330-0B8D
+evidence:
+  - id: INS-260330-0B4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-E039
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-EB48
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-0B8D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Soy protein isolate problems: 1) Phytoestrogens (isoflavones) mimic estrogen and can disrupt thyroid function, testosterone levels, and menstrual cycles, 2) Phytic acid blocks absorption of zinc, iron, calcium, and magnesium, 3) Trypsin inhibitors impair protein digestion, 4) 94% of US soy is GMO with glyphosate residues (glyphosate disrupts gut bacteria), 5) Soy protein isolate is heavily processed with hexane (a neurotoxic solvent). Fermented soy (tempeh, miso, natto) is less problematic because fermentation neutralizes many anti-nutrients. The best protein sources: eggs, grass-fed beef, wild fish, and collagen — all with higher bioavailability and no anti-nutrient concerns.

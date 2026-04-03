@@ -75,6 +75,10 @@ related:
   - INS-260330-63BA
   - INS-260327-1996
   - INS-260327-31BD
+evidence:
+  - id: INS-260327-978B
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Maggie's most revealing hiring story: her first OpenAI hire was an SDR. She wanted someone with years of experience and an MBA, so she scouted Stanford and Harvard. She talked to 50 candidates. 49 said 'I don't want to be an SDR at OpenAI.' One — Molly, with 8 years at Google and top of her Stanford GSB class — said 'Is being an SDR ideal? No. But I believe in myself and will crush it.' Within months, Molly was leading a global sales dev org. Now she's one of OpenAI's top sellers globally.
 

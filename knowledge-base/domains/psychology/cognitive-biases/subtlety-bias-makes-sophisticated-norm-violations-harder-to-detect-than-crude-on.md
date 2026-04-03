@@ -58,6 +58,10 @@ related:
   - INS-260330-4D9D
   - PRI-260325-45A2
   - INS-260330-C8B4
+evidence:
+  - id: INS-260323-6357
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 Shapiro's argument that Democrats' institutional excesses are 'no less dangerous for being more subtle' points to a general cognitive bias: humans are calibrated to detect loud, obvious threats while systematically underweighting quiet, sophisticated ones. This maps directly to organizational dynamics where a loud dissenter gets fired while a politically skilled operator who subtly undermines culture goes undetected for years.
 

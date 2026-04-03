@@ -74,6 +74,9 @@ evidence:
   - id: INS-260330-240A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-F479
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Assembly Theory's key insight is that complexity is a historical property, not a structural one. Two objects can look similar but have very different assembly indices if one required more steps to construct. A randomly arranged pile of blocks might look complex but has low assembly index (few steps needed). A precisely arranged circuit might look simple but has high assembly index.
 

@@ -59,6 +59,13 @@ related:
 stance: >-
   Pentagon officials write defense contracts, leave for defense contractor board
   seats, then return to government positions
+evidence:
+  - id: INS-260325-A326
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-3698
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Gabbard describes the structural mechanics of war profiteering: defense contractors like KBR/Halliburton made trillions while paying imported workers $500/month and charging $35 per soldier per meal. The deeper systemic issue is the revolving door -- Pentagon officers and DoD civilians rotating between government and defense contractor positions, and Congressional staffers doing the same. The people writing contracts are the same people who later collect from those contracts.
 

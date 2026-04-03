@@ -64,5 +64,8 @@ evidence:
   - id: INS-260330-2F9F
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260325-085E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Huberman explains that dopamine operates on a tonic (baseline) and phasic (peak) system where every peak is followed by a trough that drops below the prior baseline. The magnitude of the drop is proportional to the peak height. This means that even a balanced lifestyle of exercise, socializing, food, and occasional drinking can progressively lower baseline dopamine if multiple dopamine-spiking activities are layered across the week — because dopamine is a single shared currency across all pleasurable activities. The practical implication is that people attributing declining motivation to aging or circumstances may actually be experiencing cumulative dopamine baseline erosion from too many high-stimulation activities. Understanding this mechanism reframes burnout as a neurochemical phenomenon with a specific fix: reducing the frequency and intensity of dopamine peaks to allow baseline recovery.

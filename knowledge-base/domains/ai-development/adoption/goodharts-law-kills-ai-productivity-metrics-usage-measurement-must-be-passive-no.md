@@ -67,6 +67,9 @@ evidence:
   - id: INS-260329-E2D0
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-7182
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Goodhart's Law: 'When a measure becomes a target, it is no longer accurate as a measure.' If you judge engineers by lines of code, they write gobbledygook. If you survey employees about whether Harvey (legal AI) made them productive, they'll say yes because their boss bought it.
 

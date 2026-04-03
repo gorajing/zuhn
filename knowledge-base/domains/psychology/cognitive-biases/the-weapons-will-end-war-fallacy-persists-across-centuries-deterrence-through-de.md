@@ -54,6 +54,10 @@ related:
 stance: >-
   Nobel believed his explosives would 'put an end to war sooner than peace
   congresses' by making mutual destruction too horrifying
+evidence:
+  - id: INS-260323-3864
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Nobel wrote to Bertha Kinsky: 'Perhaps my factories will put an end to war sooner than your congresses. On the day that two army corps can mutually annihilate each other in a second, all civilized nations will surely recoil with horror and disband their troops.' This is the exact same logic later applied to nuclear weapons, and now being applied to autonomous AI weapons.
 

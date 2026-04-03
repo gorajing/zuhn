@@ -57,6 +57,10 @@ related:
   - INS-260327-98B1
   - INS-260327-65E7
   - INS-260330-DCE1
+evidence:
+  - id: INS-260330-DCE1
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 By 1915, WW1 had become an attrition contest. Neither side had tactical superiority. But the Entente had fundamental advantages in total resources: more population (including colonial manpower), more industrial capacity (especially with American supply), and control of the seas (enabling global supply while blockading Germany). Equal rates of attrition mathematically favored the side with deeper reserves.
 

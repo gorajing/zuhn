@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-A8B5
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-5E93
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Altman describes his life philosophy of defaulting to trust: accept getting screwed occasionally in exchange for living with your guard down. The board firing was so shocking it fundamentally changed his orientation, and he explicitly worries about becoming 'less of a default trusting person' rather than cynical.
 

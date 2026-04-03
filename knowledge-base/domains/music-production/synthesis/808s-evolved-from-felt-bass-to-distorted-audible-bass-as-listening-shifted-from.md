@@ -49,5 +49,15 @@ related:
   - PRI-260326-12C6
   - INS-260320-232D
 stance: 808 bass was originally untuned and felt through car Alpine systems
+evidence:
+  - id: INS-260330-1296
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260329-EF96
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260320-232D
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Puth and host Ross Goolan trace the evolution of 808 bass in hip-hop production. In the Run-DMC era, 808s were toneless booms meant to be felt through car subwoofer systems (Alpine). DJ Mustard didn't even tune 808s diatonically — when Puth suggested tuning them to D-flat major, Mustard looked at him confused. But as listening shifted to laptop speakers and phones, you can no longer feel sub-bass — you have to hear it. This created a requirement to distort 808s so they're audible on small speakers. Puth even demonstrates his 'mouth phone' trick — putting a phone speaker in your mouth to physically feel 32Hz and below — showing how producers adapt to modern listening constraints.

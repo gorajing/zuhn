@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-02 | 2421 sources
+Generated on 2026-04-03 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -196,9 +196,9 @@ Generated on 2026-04-02 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -238,6 +238,7 @@ Generated on 2026-04-02 | 2421 sources
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
+| 2023 Annual Letter | blog | 5 | 2026-03-30 |
 | 2024 Annual Letter | blog | 5 | 2026-03-30 |
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
@@ -249,6 +250,7 @@ Generated on 2026-04-02 | 2421 sources
 | A Version 1.0 | blog | 5 | 2026-03-31 |
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
+| Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
 | Beating the Averages | blog | 5 | 2026-03-31 |
 | Before the Startup | blog | 5 | 2026-03-31 |
 | Being John Rawls | blog | 5 | 2026-03-30 |
@@ -265,6 +267,7 @@ Generated on 2026-04-02 | 2421 sources
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
 | How to Do Great Work | blog | 5 | 2026-03-31 |
 | How to Do Philosophy | blog | 5 | 2026-03-31 |
+| How to Do What You Love | blog | 5 | 2026-03-31 |
 | How to Fund a Startup | blog | 5 | 2026-03-31 |
 | How to Get Startup Ideas | blog | 5 | 2026-03-31 |
 | How to Make Wealth | blog | 5 | 2026-03-31 |
@@ -279,6 +282,7 @@ Generated on 2026-04-02 | 2421 sources
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
+| Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
 | Taste for Makers | blog | 5 | 2026-03-31 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
@@ -290,6 +294,8 @@ Generated on 2026-04-02 | 2421 sources
 | The Hacker's Guide to Investors | blog | 5 | 2026-03-31 |
 | The Hardest Lessons for Startups to Learn | blog | 5 | 2026-03-31 |
 | The Hundred-Year Language | blog | 5 | 2026-03-31 |
+| The Insider Story of Waze | blog | 5 | 2026-03-31 |
+| The Lesson to Unlearn | blog | 5 | 2026-03-31 |
 | The Network Effects Manual: 16 Different Network Effects (and counting) | blog | 5 | 2026-03-31 |
 | The Origins of Wokeness | blog | 5 | 2026-03-31 |
 | The Other Road Ahead | blog | 5 | 2026-03-31 |
@@ -303,7 +309,9 @@ Generated on 2026-04-02 | 2421 sources
 | What You Can't Say | blog | 5 | 2026-03-31 |
 | What You'll Wish You'd Known | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
+| Where To Build Your Startup | blog | 5 | 2026-03-31 |
 | Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
+| Why Retention Breaks Startups and How to Fix It | blog | 5 | 2026-03-30 |
 | Why Startups Condense in America | blog | 5 | 2026-03-31 |
 | Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
@@ -1444,7 +1452,6 @@ Generated on 2026-04-02 | 2421 sources
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
 | 2020 Year in Review | blog | 0 | 2026-03-31 |
-| 2023 Annual Letter | blog | 0 | 2026-03-30 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 0 | 2026-03-30 |
 | 2026 Tech Trends🔮, Startups That Win⚔️, Why Cambridge Associates Is Cautious⚠️ | blog | 0 | 2026-03-30 |
 | 234 Tech European Conferences in 2025 | blog | 0 | 2026-03-30 |
@@ -1625,7 +1632,6 @@ Generated on 2026-04-02 | 2421 sources
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |
 | Ask Me Anything session with Alex & Yves | blog | 0 | 2026-03-31 |
-| Asking great questions: a conversation with Hal Gregersen | blog | 0 | 2026-03-31 |
 | Assess & Design Your Innovation Portfolio | blog | 0 | 2026-03-31 |
 | Assess how your Innovation Programs are Performing | blog | 0 | 2026-03-31 |
 | At BioCity, Customer Obsession Fuels The Next Generation Of Healthcare | blog | 0 | 2026-03-31 |
@@ -1882,7 +1888,6 @@ Generated on 2026-04-02 | 2421 sources
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
 | How to Convince Investors | blog | 0 | 2026-03-31 |
 | How to Disagree | blog | 0 | 2026-03-31 |
-| How to Do What You Love | blog | 0 | 2026-03-31 |
 | How to Evaluate a Startup Exit: Signs, Metrics & Red Flags | blog | 0 | 2026-03-30 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 0 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 0 | 2026-03-30 |
@@ -2098,7 +2103,6 @@ Generated on 2026-04-02 | 2421 sources
 | Subject: Airbnb | blog | 0 | 2026-03-31 |
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
 | Succinctness is Power | blog | 0 | 2026-03-31 |
-| Superintelligence is already here, today | blog | 0 | 2026-03-30 |
 | Support Your Local Collaborator | blog | 0 | 2026-03-30 |
 | Survivorship Bias Is Killing Founders' Judgment—Here’s the Fix | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
@@ -2166,12 +2170,10 @@ Generated on 2026-04-02 | 2421 sources
 | The High-Res Society | blog | 0 | 2026-03-31 |
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 0 | 2026-03-31 |
-| The Insider Story of Waze | blog | 0 | 2026-03-31 |
 | The Island Test | blog | 0 | 2026-03-31 |
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
 | The Lean Revenue Dashboard Every Startup Should Use | blog | 0 | 2026-03-30 |
 | The Lean Startup is Dead⚰️, AGI Delusion?🤖, Top Leadership Books📚 | blog | 0 | 2026-03-30 |
-| The Lesson to Unlearn | blog | 0 | 2026-03-31 |
 | The List of N Things | blog | 0 | 2026-03-31 |
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Must-Read Tech, VC, SaaS, AI, and Startup Reports of 2024 📊 | blog | 0 | 2026-03-30 |
@@ -2314,7 +2316,6 @@ Generated on 2026-04-02 | 2421 sources
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
 | When To Do What You Love | blog | 0 | 2026-03-31 |
 | Where does a liberal go from here? | blog | 0 | 2026-03-30 |
-| Where To Build Your Startup | blog | 0 | 2026-03-31 |
 | Where to See Silicon Valley | blog | 0 | 2026-03-31 |
 | Where VCs Are Betting on AI in 2025 | blog | 0 | 2026-03-30 |
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
@@ -2333,7 +2334,6 @@ Generated on 2026-04-02 | 2421 sources
 | Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 0 | 2026-03-31 |
 | Why Nvidia Paid $20B for a Small Startup | blog | 0 | 2026-03-30 |
 | Why Pre-Empted Rounds Exist💰, Master Customer Interviews🗣️, Trump’s Nobel Odds🏛️ | blog | 0 | 2026-03-30 |
-| Why Retention Breaks Startups and How to Fix It | blog | 0 | 2026-03-30 |
 | Why Smart People Have Bad Ideas | blog | 0 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 0 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 0 | 2026-03-31 |

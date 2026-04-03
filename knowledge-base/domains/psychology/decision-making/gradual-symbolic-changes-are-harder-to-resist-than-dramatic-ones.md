@@ -56,6 +56,13 @@ related:
   - INS-260330-9E26
   - INS-260330-1293
   - INS-260330-6E4E
+evidence:
+  - id: INS-260330-757E
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260323-822B
+    type: REFINES
+    classified_at: '2026-04-02'
 ---
 The Greater Bay Area case study illustrates a fundamental pattern in decision-making and resistance: gradual, individually reasonable changes are far harder to oppose than dramatic singular shifts. Each element — a train station with mainland immigration controls, a bridge with unified toll systems, shared professional licensing — has a legitimate efficiency argument. Opposing any single step appears unreasonable.
 

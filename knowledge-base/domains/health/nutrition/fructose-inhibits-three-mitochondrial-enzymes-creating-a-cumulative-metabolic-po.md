@@ -58,6 +58,22 @@ related:
   - INS-260330-72E1
   - INS-260330-43CA
   - INS-260330-6ECA
+evidence:
+  - id: INS-260330-47CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-4C3A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-72E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-43CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-6ECA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Dr. Lustig identifies three specific enzymatic pathways fructose disrupts: (1) AMP kinase — the liver's fuel gauge that signals mitochondrial biogenesis, irreversibly inhibited when fructose metabolite methylglyoxal binds to arginines in its active site; (2) ACAD-L (acyl-CoA dehydrogenase long-chain) — needed to cleave fatty acids for metabolism; (3) CPT1 (carnitine palmitoyltransferase 1) — the shuttle mechanism for getting fatty acids into the inner mitochondrial membrane for beta-oxidation.
 

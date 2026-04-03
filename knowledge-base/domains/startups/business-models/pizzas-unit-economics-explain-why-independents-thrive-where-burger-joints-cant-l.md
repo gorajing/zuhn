@@ -51,5 +51,12 @@ stance: >-
   Pizza has the lowest food costs in fast food (flour, canned tomatoes,
   subsidized cheese), needs minimal space, and 50% of US pizza shops are still
   ...
+evidence:
+  - id: INS-260327-8EB7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-2DE8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Pizza is 'more factory than restaurant' — assembly lines built to produce one product with minor variations. Core ingredients face less inflation than meat and fresh produce. Pizzerias take up substantially smaller real estate than competitors. This creates a uniquely level playing field: 1 in 2 US pizza spots is independent (vs 1 in 10 for burgers). The big three (Domino's, Pizza Hut, Papa John's) trade margins for volume with $10 large pizza deals that no burger chain can match. Domino's averages only 11% margin but scales through franchises; it's really a logistics company that sells ingredients at markup to franchisees.

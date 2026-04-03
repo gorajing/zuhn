@@ -56,6 +56,10 @@ related:
   - INS-260330-B71B
   - INS-260330-F5CF
   - INS-260330-4441
+evidence:
+  - id: INS-260327-0C29
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Photosynthesis produces oxygen as its most celebrated byproduct, yet plants must actively minimize oxygen concentration inside their own leaves. The reason: RuBisCo, the enzyme driving carbon fixation, confuses oxygen for CO2 roughly half the time, producing toxic phosphoglycolate that requires additional enzymatic cleanup. This creates a paradox where the system's most valuable external output is simultaneously its most dangerous internal contaminant.
 

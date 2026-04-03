@@ -54,5 +54,12 @@ related:
   - INS-260330-1183
   - PRI-260328-37D8
   - INS-260330-C761
+evidence:
+  - id: INS-260330-1183
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-C761
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Before 1910, American medical schools included naturopathy, homeopathy, herbal medicine, and eclectic medicine alongside conventional approaches. The Flexner Report, funded by Carnegie and Rockefeller foundations (who had financial interests in pharmaceutical companies), evaluated every medical school and recommended closing those not focused on drug-based interventions. Approximately half of all medical schools were shut down. This created the pharmaceutical-centric model where nutrition, herbal medicine, and lifestyle interventions are marginalized. The AMA gained control over medical licensing, ensuring only drug-oriented physicians could practice. Understanding this history explains why mainstream medicine undervalues nutrition.

@@ -62,6 +62,7 @@ related:
   - INS-260323-BF81
   - INS-260327-9192
   - INS-260327-CED9
+  - INS-260403-20BF
 stance: >-
   A portfolio founder assigned two AI-native engineers with unlimited budgets on
   Claude Code, Codex, and Cursor and saw 10-20x faster progress

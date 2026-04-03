@@ -60,5 +60,18 @@ related:
   - INS-260322-88C3
   - INS-260330-4315
   - INS-260330-01D5
+evidence:
+  - id: INS-260330-9BC4
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260323-B40C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-4AC6
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-01D5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Tyson presents his favorite Fermi paradox resolution: whatever psychological or biological drive compels a species to colonize planets with abandon — the sheer aggression, risk tolerance, and territorial imperative required — carries within it the seeds of self-destruction. When colonizable planets become scarce, that same drive turns into interstellar warfare over limited real estate. Harris connects this to the broader 'great filter' concept (attributed to Nick Bostrom): any sufficiently advanced technology necessarily includes the capacity for self-destruction. Tyson maps this directly onto European colonial history — Spain, Portugal, England, and the Netherlands all wanted to conquer the world, but when they encountered each other's empires, the entire system imploded. This pattern transfers directly to competitive business strategy: hypergrowth companies driven by aggressive market capture often self-destruct when they collide with equally aggressive competitors in a maturing market, because the very culture that enabled their expansion prevents cooperation or consolidation.

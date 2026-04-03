@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 150 insights
+> 152 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -61,6 +61,7 @@
 - `INS-260330-50D4` [high] When facing an important decision you haven't thought through from all perspectives, say 'I'm taking this seriously but I need to pause and think it through' rather than giving an immediate answer.
 - `INS-260330-A476` [high] When facing an important decision under pressure, explicitly telling people you need to pause and think it through produces better outcomes than projecting instant confidence.
 - `INS-260402-71A7` [high] Glanville publicly recognizes when team members present better ideas than his own, sending a clear signal that the best idea wins regardless of org chart position.
+- `INS-260403-E1AD` [high] Leaders must delay their own questions and create space for others to question first to avoid turning inquiry into implicit commands.
 - `INS-260322-2FAD` [high] Novice leaders often derive identity from being busy and indispensable, which prevents team members from growing and caps the team's overall capability.
 - `INS-260326-E0E1` [high] Deep work and genuine leadership both drain the same finite resource — you cannot maximize both on the same day.
 - `INS-260322-C6CE` [high] Instead of working on your weaknesses, ask whether being bad at something is the reason you're good at everything else — then hire a dedicated 'process person' to compensate.
@@ -90,6 +91,7 @@
 - `INS-260323-D621` [high] If your competitor's team member supports $400K in revenue and yours supports $200K, accountability is the gap — not talent or strategy.
 - `INS-260330-3A3F` [high] Revolutionary movements follow a predictable arc from moderate reform to radical takeover to radical self-destruction, ultimately landing near the original moderate position.
 - `INS-260326-F3E0` [high] Most leaders fail by being too nice, not too mean — ruinous empathy silently destroys performance and trust.
+- `INS-260403-2CA3` [high] Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.
 - `INS-260323-7D01` [high] Leaders should shape the belief systems of employees, board, partners, and customers gradually over months so that by the time a major strategic decision is announced, it feels obvious and inevitable rather than shocking.
 - `INS-260323-D783` [high] Cooking for others and sharing meals creates a uniquely powerful social bond — people become fundamentally different when sitting down together versus standing, drinking, or interacting online.
 - `INS-260323-4B1C` [high] With 44% of technical skills becoming obsolete within 10 years, the hardest and most durable leadership skills are the soft ones — conflict resolution, empathy, listening.

@@ -51,5 +51,15 @@ related:
   - INS-260327-58AC
   - INS-260327-B387
   - INS-260327-62CF
+evidence:
+  - id: INS-260327-58AC
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260327-B387
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-62CF
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The DJ ranks organic short-form content as S-tier with literally zero downsides. Artists like Disco Lines and Murf built entire careers since 2020 using this approach: simple iPhone-style content (B-roll, studio footage, daily life) with official audio. The key advantages: (1) Zero cost, (2) No middlemen or gatekeepers, (3) Unlimited daily volume, (4) Builds genuinely organic fans who will buy tickets and come to shows. The only con is personal discomfort being on camera, which he considers a learnable skill. This should be the first and foremost strategy in any music marketing plan. The core principle is that organic fans built through direct content are fundamentally more valuable than passive listeners acquired through paid channels.

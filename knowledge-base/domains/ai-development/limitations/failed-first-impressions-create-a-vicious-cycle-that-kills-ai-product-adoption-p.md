@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-A86C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-2B96
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Shawn Wen describes the vicious cycle that plagued Siri, Google Assistant, and Alexa: when a user asks something and gets 'I don't understand,' they become frustrated and stop trying. Meanwhile, the engineering teams are monitoring common queries and fixing them — but by the time the fix ships, users have already abandoned the product. This is especially devastating for broad-domain assistants where the long tail of possible queries is enormous.
 

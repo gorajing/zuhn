@@ -70,6 +70,9 @@ evidence:
   - id: INS-260325-76BD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-2F50
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 There is exactly one company in the world that can make EUV lithography machines: ASML, located in Veldhoven, Netherlands. Every advanced chip — from AI accelerators to smartphone processors — requires these machines. The mirrors come from one supplier (Zeiss), and each mirror system takes months to produce. This means the entire global technology supply chain funnels through a single geographic and corporate chokepoint.
 

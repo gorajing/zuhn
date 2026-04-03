@@ -45,6 +45,10 @@ related:
   - INS-260325-7EAC
   - INS-260325-F50C
   - INS-260327-7B05
+evidence:
+  - id: INS-260325-F50C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Plant-based meat alternatives that position themselves as replacements for meat face rejection when taste comparison inevitably disappoints, because the ethical positioning raises taste expectations rather than lowering them.
 

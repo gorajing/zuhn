@@ -51,6 +51,22 @@ related:
   - INS-260327-D0F4
   - INS-260330-13EE
   - INS-260330-8998
+evidence:
+  - id: INS-260327-F6BA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260322-D051
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260327-D0F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-13EE
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-8998
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Food security is a non-negotiable priority for governments - the old adage that stable empires are only three missed meals from chaos remains true. When trade wars threaten food imports, countries invest immediately in alternatives. China, typically America's largest soybean buyer, purchased zero American soybeans and strengthened Brazilian trade ties instead. These supply chain shifts are sticky - once alternatives are established, they don't reverse easily even when trade tensions ease.
 

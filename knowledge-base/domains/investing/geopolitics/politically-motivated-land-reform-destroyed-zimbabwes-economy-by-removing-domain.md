@@ -57,6 +57,16 @@ related:
   - INS-260327-25AD
   - INS-260330-EC7C
   - INS-260330-C7CB
+evidence:
+  - id: INS-260327-AFC7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-EC7C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
+  - id: INS-260330-C7CB
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Zimbabwe's 2000 land reform forcibly seized farms from experienced white farmers and redistributed them to political supporters. The stated goal was colonial justice; the actual purpose was buying political loyalty. The results were catastrophic: total agricultural output halved between 2000 and 2009, with some farms producing only a tenth of previous yields. By destroying its two largest crops (corn and tobacco), the policy simultaneously wrecked the economy and the food supply.
 

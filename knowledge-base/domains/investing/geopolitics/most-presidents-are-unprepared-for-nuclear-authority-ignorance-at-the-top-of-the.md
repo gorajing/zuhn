@@ -59,6 +59,19 @@ related:
 stance: >-
   Former Defense Secretary Leon Panetta revealed that President Clinton avoided
   engaging with nuclear issues, and Reagan publicly misstated that subm...
+evidence:
+  - id: INS-260330-39D4
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260325-A326
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260323-CB47
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-66F7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Jacobsen uncovered a disturbing pattern: most presidents enter office understanding deterrence as a concept but avoiding the operational reality of nuclear command. Clinton, according to Panetta, didn't want to deal with nuclear issues because he had too many other priorities. Reagan stated in a 1983 press conference that submarine-launched ballistic missiles could be recalled — they cannot, nor can ICBMs once launched.
 

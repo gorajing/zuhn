@@ -58,6 +58,12 @@ evidence:
   - id: INS-260323-F2C3
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-5B36
+    type: SUPPORTS
+    classified_at: '2026-04-02'
+  - id: INS-260327-8BF6
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 When Jackie asked JFK about his greatest quality, everyone expected him to say courage (he was a war hero who wrote 'Profiles in Courage'). He said curiosity. RFK explains this was the quality that let JFK resist the military establishment during both Bay of Pigs and the Cuban Missile Crisis — by putting himself in Khrushchev's and Castro's shoes, he could see solutions invisible to 11 of 13 advisors who wanted to bomb and invade.
 

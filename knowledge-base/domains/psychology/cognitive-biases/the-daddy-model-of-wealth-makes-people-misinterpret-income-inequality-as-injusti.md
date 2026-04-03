@@ -58,6 +58,9 @@ evidence:
   - id: INS-260325-EBC3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-EA56
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Children learn a model of wealth where it flows from parents — a central authority who distributes it equally. This 'Daddy Model' persists into adulthood and shapes how people evaluate economic outcomes. When someone says a type of work is 'underpaid,' they're implicitly saying people want the wrong things — which is lamentable but not unjust in a market context.
 

@@ -59,6 +59,10 @@ related:
   - INS-260324-1216
   - INS-260327-F389
   - INS-260330-3084
+evidence:
+  - id: INS-260327-F389
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Yum Brands under David Novak was laser-focused on beating McDonald's in China. KFC and Pizza Hut were the chosen warriors for this international arms race -- Taco Bell was excluded because Mexican food was a hard sell even to Americans, let alone Chinese consumers. This omission lowered expectations and pressure on Taco Bell to produce massive profits or rapidly scale.
 

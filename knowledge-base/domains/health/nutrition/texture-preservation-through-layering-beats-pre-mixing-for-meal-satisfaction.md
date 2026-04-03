@@ -50,5 +50,15 @@ related:
   - INS-260327-E2F1
   - INS-260327-E2F2
   - INS-260324-C2B9
+evidence:
+  - id: INS-260327-34EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260327-E2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260324-C2B9
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Across multiple recipes, Hormozi independently discovered the same principle: never pre-mix textures. Cereal goes on yogurt in small sprinkles per bite (not dumped in to get soggy). Chips stay separate from chili and sour cream for dipping. Cream cheese stays cold while bread stays hot-toasted, combined only at the moment of eating. Salmon gets chopped into bite-sized pieces so it doesn't tear off bread in one pull. This pattern reveals that texture contrast — crunchy vs. creamy, hot vs. cold — is the primary driver of whether a simple high-protein meal feels satisfying or punishing. It's a form of sensory design that costs zero extra calories but dramatically changes the eating experience, explaining why some people thrive on 'boring' diets while others abandon them.

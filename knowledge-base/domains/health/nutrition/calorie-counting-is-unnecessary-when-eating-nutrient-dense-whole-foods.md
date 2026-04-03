@@ -57,6 +57,10 @@ related:
   - INS-260327-868D
   - INS-260330-121C
   - INS-260330-40DA
+evidence:
+  - id: INS-260330-40DA
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 The calorie-counting paradigm promoted by Coca-Cola-funded research treats all calories as equivalent. In reality, food quality determines hormonal signaling (insulin, leptin, ghrelin), gut microbiome health, and satiety. Nutrient-dense whole foods (meat, organs, fruit, dairy) provide signals of nutritional sufficiency that naturally reduce appetite.
 

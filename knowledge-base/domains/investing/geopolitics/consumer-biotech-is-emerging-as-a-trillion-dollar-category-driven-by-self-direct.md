@@ -67,6 +67,9 @@ evidence:
   - id: INS-260322-D58A
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260321-CCE3
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 Multiple signals point toward consumer biotech as a major emerging market: GLP-1 drugs normalized self-injection for millions, distrust of the medical establishment is rising, and tech culture has made 'biohacking' aspirational rather than fringe. Superpower co-founder Max Marchione predicts peptides alone will become a $1T category.
 

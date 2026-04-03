@@ -60,6 +60,19 @@ related:
   - INS-260330-9DCD
   - INS-260330-8D0C
   - INS-260330-923F
+evidence:
+  - id: INS-260330-EC7C
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260330-9DCD
+    type: REFINES
+    classified_at: '2026-04-02'
+  - id: INS-260330-8D0C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
+  - id: INS-260330-923F
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 China's 50 million empty homes represent not just unused housing but a systemic failure of price signals. In a normal market, rising vacancy would suppress prices, discouraging new construction. But when local governments need land sale revenue to operate, they actively intervene to prevent price declines — restricting resales, subsidizing purchases, or simply continuing to build regardless.
 

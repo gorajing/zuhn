@@ -59,8 +59,8 @@ related:
   - INS-260330-EFFB
   - INS-260330-D556
   - INS-260330-D808
+  - INS-260403-EAC6
   - INS-260330-C0E2
-  - INS-260327-2BE1
 ---
 Apple's deliberate decision to stop reporting unit sales marked a strategic narrative shift: the company reframed its value proposition from 'we sell more phones each year' to 'each user generates more revenue over time.' This was necessary because public markets price stocks on growth expectations — flat unit sales, even at 200M+ premium devices, signal stagnation to investors.
 

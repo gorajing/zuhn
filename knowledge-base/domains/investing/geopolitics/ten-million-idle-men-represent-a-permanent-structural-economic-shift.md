@@ -52,6 +52,13 @@ related:
   - PRI-260328-D68F
   - INS-260330-0FF7
   - INS-260325-1802
+evidence:
+  - id: INS-260330-0FF7
+    type: EXTENDS
+    classified_at: '2026-04-02'
+  - id: INS-260325-1802
+    type: SUPPORTS
+    classified_at: '2026-04-02'
 ---
 The scale of male labor force dropout defies conventional explanations: 10 million men in their prime working years (25-55) completely disconnected from economic participation. The trend has been consistent since the 1960s, long predating commonly blamed factors like social media or pandemic effects.
 

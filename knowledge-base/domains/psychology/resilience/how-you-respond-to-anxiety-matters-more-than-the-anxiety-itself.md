@@ -49,6 +49,10 @@ related:
   - INS-260325-0E1D
   - INS-260325-600C
   - INS-260329-541A
+evidence:
+  - id: INS-260325-600C
+    type: CHALLENGES
+    classified_at: '2026-04-02'
 ---
 Kierkegaard's insight that how you respond to anxiety changes your life is empirically supported: anxiety-sensitive people who develop avoidance patterns see their world shrink progressively, while those who develop engagement patterns see capability expand.
 

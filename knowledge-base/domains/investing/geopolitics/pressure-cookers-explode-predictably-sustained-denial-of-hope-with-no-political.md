@@ -54,6 +54,10 @@ related:
 stance: >-
   When a population is given no hope, no political agency, and increasing
   aggression for decades, violent escalation is not surprising
+evidence:
+  - id: INS-260330-440E
+    type: EXTENDS
+    classified_at: '2026-04-02'
 ---
 Suleiman frames October 7th not as an unprovoked shock but as the predictable explosion of a pressure cooker: expanding settlements (13,000 units in 2023 alone), the most extremist Israeli government in history, Palestinians absent from their own peace negotiations (Abraham Accords), and systematic erasure in both peace and war.
 

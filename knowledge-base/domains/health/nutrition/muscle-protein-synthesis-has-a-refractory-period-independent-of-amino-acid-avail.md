@@ -64,6 +64,10 @@ related:
   - INS-260329-6204
   - INS-260327-DF1D
   - INS-260330-6270
+evidence:
+  - id: INS-260329-6204
+    type: TRANSFERS_TO
+    classified_at: '2026-04-02'
 ---
 Norton's PhD research revealed a counterintuitive finding: after feeding whey protein, muscle protein synthesis peaked between 45-90 minutes and returned to baseline by 180 minutes — yet plasma leucine levels and mTOR signaling (4E-BP1, RPS6 phosphorylation) remained fully elevated at 3 hours. This 'muscle full' or refractory period suggests the system runs for a defined duration then shuts off regardless of substrate availability.
 
