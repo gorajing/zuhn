@@ -45,10 +45,10 @@ stance: >-
   build a billion-dollar company elsewhere.
 related:
   - INS-260328-F752
+  - INS-260403-04FF
   - INS-260321-3521
   - INS-260330-CECB
   - INS-260325-EF4C
-  - INS-260323-104E
   - INS-260402-180C
 evidence:
   - id: INS-260402-180C

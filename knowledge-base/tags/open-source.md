@@ -1,7 +1,7 @@
 # Tag: open-source
 
-- `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260328-60C7` Howard argues that widely distributing AI capabilities creates better defense than centralizing them, since most people use power for defense while centralization attracts power-seekers.
+- `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate.
 - `INS-260327-1652` Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
 - `INS-260322-299C` DeepSeek's surprise replication of frontier model capabilities from a hedge fund proves that AI leads are inherently temporary — once capability is demonstrated, others catch up quickly with far fewer resources.

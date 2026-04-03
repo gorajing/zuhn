@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3094 actionable insights
+Generated on 2026-04-03 | 3106 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1076,6 +1076,8 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260403-B6FD] False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - [INS-260403-0C33] If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
 - [INS-260403-7093] Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
+- [INS-260403-83E2] Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
+- [INS-260403-AAE4] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1367,6 +1369,7 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260403-41BC] Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 - [INS-260403-2949] Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - [INS-260403-8190] You learn programming far faster building your own game than sitting in any classroom, which is why tech companies require coding tests regardless of degree pedigree.
+- [INS-260403-A51A] Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1717,6 +1720,7 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260330-8639] A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
 - [INS-260330-C7C2] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
 - [INS-260402-8170] Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
+- [INS-260403-7C60] Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2424,6 +2428,7 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260402-1436] Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
 - [INS-260403-EAC6] Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - [INS-260403-99B1] Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
+- [INS-260403-C161] Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -2631,6 +2636,7 @@ Generated on 2026-04-03 | 3094 actionable insights
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
+- [INS-260403-62B2] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2766,6 +2772,7 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260403-1A08] Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
 - [INS-260403-22EE] Bad comments set the tone for entire threads and attract more bad comments, while bad submissions exist in isolation — requiring different moderation strategies.
 - [INS-260403-66AE] User-voted platforms must actively suppress low-effort-to-judge content or it will inevitably dominate the feed.
+- [INS-260403-EF20] BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
@@ -2865,6 +2872,7 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260403-2A44] Good design requires diagnosing user needs rather than implementing stated requests.
 - [INS-260403-C3DF] Looking down on your users, however benevolently, inevitably corrupts the design.
 - [INS-260403-9C60] The quality of a tool is measured by the journey it enables, not the destination it displays.
+- [INS-260403-0CA8] Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -2881,6 +2889,7 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260403-9681] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - [INS-260403-B73A] When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
 - [INS-260403-204E] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
+- [INS-260403-3656] Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3121,6 +3130,7 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260330-A69C] Hire only when someone can do something you need done but can't do yourself — never hire to fill an org chart or seem impressive.
 - [INS-260403-20BF] A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - [INS-260403-DC6E] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
+- [INS-260403-7227] Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3259,6 +3269,8 @@ Generated on 2026-04-03 | 3094 actionable insights
 - [INS-260403-7E27] Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
 - [INS-260403-C228] A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - [INS-260403-4CE7] Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.
+- [INS-260403-04FF] Technology-focused ventures must invest equal rigor in validating market assumptions as they do in technical R&D.
+- [INS-260403-BF09] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

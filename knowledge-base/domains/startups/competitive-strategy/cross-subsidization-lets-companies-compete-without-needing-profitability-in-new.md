@@ -53,7 +53,6 @@ stance: >-
   cannot overcome.
 related:
   - INS-260327-EFA6
-  - INS-260327-1576
   - INS-260327-0710
   - INS-260330-420D
   - PRI-260328-F0B4

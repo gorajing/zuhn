@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 31 insights
+> 34 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
@@ -8,11 +8,13 @@
 - `INS-260402-8223` [high] Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260402-4E59` [high] Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
 - `INS-260402-607A` [high] Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
+- `INS-260403-AAE4` [high] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260330-790A` [high] Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260402-46AD` [high] The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
 - `INS-260403-A8B1` [high] Across wildly different fields, Graham's heroes shared exactly two traits: excessive care about their work and absolute refusal to pander.
 - `INS-260330-FE49` [high] Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260330-E881` [high] Expert hackers are a tiny minority, but their tool choices cascade to the majority through influence, authority, and the software they create.
+- `INS-260403-2B63` [high] Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
 - `INS-260403-DE28` [high] Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
 - `INS-260402-D0F3` [high] Dishonesty in thinking doesn't just produce biased conclusions — it produces boring ones by preventing the discovery of surprising ideas.
 - `INS-260403-A06E` [high] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
@@ -26,6 +28,7 @@
 - `INS-260403-7093` [high] Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 - `INS-260403-A1DF` [high] Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-D022` [high] Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
+- `INS-260403-83E2` [medium] Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260402-26B0` [medium] Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260403-AB5C` [medium] Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260402-B12D` [medium] Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.

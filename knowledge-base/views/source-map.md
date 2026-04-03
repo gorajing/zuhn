@@ -144,8 +144,8 @@ Generated on 2026-04-03 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -199,8 +199,8 @@ Generated on 2026-04-03 | 2421 sources
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
@@ -236,8 +236,8 @@ Generated on 2026-04-03 | 2421 sources
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
 | 18 Lessons from Harry Stebbings That Every Founder Should Know | blog | 5 | 2026-03-30 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
@@ -259,6 +259,7 @@ Generated on 2026-04-03 | 2421 sources
 | "All Lawful Use": Much More Than You Wanted To Know | blog | 5 | 2026-03-30 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
 | Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
+| At BioCity, Customer Obsession Fuels The Next Generation Of Healthcare | blog | 5 | 2026-03-31 |
 | At least five interesting things: Buy Local edition (#74) | blog | 5 | 2026-03-30 |
 | Be Good | blog | 5 | 2026-03-31 |
 | Beating the Averages | blog | 5 | 2026-03-31 |
@@ -337,6 +338,7 @@ Generated on 2026-04-03 | 2421 sources
 | Roundup #77: The Fix-Everything Button | blog | 5 | 2026-03-30 |
 | Roundup #78: Roboliberalism | blog | 5 | 2026-03-30 |
 | Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
+| SaaS Financial Model Guide (+ Free Excel Template) | blog | 5 | 2026-03-30 |
 | Save us, Digital Cronkite! | blog | 5 | 2026-03-30 |
 | See New Marketplaces Where Others See Crowds: The Inside Story of A.Team | blog | 5 | 2026-03-31 |
 | Series A & B Cap Table Guide + Free Excel Template | blog | 5 | 2026-03-30 |
@@ -354,10 +356,12 @@ Generated on 2026-04-03 | 2421 sources
 | The $100B Question: How SaaS Giants Are Rewriting the Rules of Value with AI in 2025  | blog | 5 | 2026-03-30 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
 | The $2 Trillion Founder Playbook: The Untold Story of How Larry Page Reclaimed Google | blog | 5 | 2026-03-30 |
+| The 9 Habits of Ultra-Fast Iterations | blog | 5 | 2026-03-31 |
 | The Age of the Essay | blog | 5 | 2026-03-31 |
 | The AI-First Marketplace | blog | 5 | 2026-03-31 |
 | The Best Essay | blog | 5 | 2026-03-31 |
 | The Brand Age | blog | 5 | 2026-03-31 |
+| The Bus Ticket Theory of Genius | blog | 5 | 2026-03-31 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
 | The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
@@ -377,6 +381,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Power of the Marginal | blog | 5 | 2026-03-31 |
 | The Pro-Rata Trap: How VCs Miss Out on Billion-Dollar Returns | blog | 5 | 2026-03-30 |
 | The Refragmentation | blog | 5 | 2026-03-31 |
+| The SaaS Reset: Why the 10x ARR Club Is Now a Ghost Town | blog | 5 | 2026-03-30 |
 | The Second-Time Founder Effect: How Experience Shapes Startup Success | blog | 5 | 2026-03-30 |
 | The Secret Strategy of Stealth Startups | blog | 5 | 2026-03-30 |
 | The Story of Replit: From Internet Cafes to AI Sovereignty | blog | 5 | 2026-03-30 |
@@ -406,8 +411,10 @@ Generated on 2026-04-03 | 2421 sources
 | Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
 | Why Retention Breaks Startups and How to Fix It | blog | 5 | 2026-03-30 |
 | Why Startups Condense in America | blog | 5 | 2026-03-31 |
+| Why the Real AI Risk Isn’t Superintelligence: A Final Look | blog | 5 | 2026-03-30 |
 | Why the VC Secondary Market Is Booming in 2025 | blog | 5 | 2026-03-30 |
 | Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
+| Why Too Much Funding Will Destroy Your Startup | blog | 5 | 2026-03-30 |
 | Why Women-Led Startups Outperform Yet Lack Funding | blog | 5 | 2026-03-30 |
 | Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 5 | 2026-03-30 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
@@ -1722,7 +1729,6 @@ Generated on 2026-04-03 | 2421 sources
 | Ask Me Anything session with Alex & Yves | blog | 0 | 2026-03-31 |
 | Assess & Design Your Innovation Portfolio | blog | 0 | 2026-03-31 |
 | Assess how your Innovation Programs are Performing | blog | 0 | 2026-03-31 |
-| At BioCity, Customer Obsession Fuels The Next Generation Of Healthcare | blog | 0 | 2026-03-31 |
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 0 | 2026-03-31 |
 | B2B Sales Playbook: Tech Capabilities to Clear Value Props | blog | 0 | 2026-03-31 |
@@ -2083,7 +2089,6 @@ Generated on 2026-04-03 | 2421 sources
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 0 | 2026-03-30 |
-| SaaS Financial Model Guide (+ Free Excel Template) | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 0 | 2026-03-30 |
 | SaaS MRR Projection Model + Excel Template | blog | 0 | 2026-03-30 |
@@ -2144,7 +2149,6 @@ Generated on 2026-04-03 | 2421 sources
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
 | The 60-year-old code behind $5 trillion in healthcare | blog | 0 | 2026-03-30 |
-| The 9 Habits of Ultra-Fast Iterations | blog | 0 | 2026-03-31 |
 | The Acceleration of Addictiveness | blog | 0 | 2026-03-31 |
 | The Agrifoodtech Effect 🍽️ | blog | 0 | 2026-03-30 |
 | The AI Spectrum for Founders | blog | 0 | 2026-03-31 |
@@ -2158,7 +2162,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating Giants | blog | 0 | 2026-03-30 |
 | The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
 | The Brutally Honest 10-Year Startup Journey Map | blog | 0 | 2026-03-30 |
-| The Bus Ticket Theory of Genius | blog | 0 | 2026-03-31 |
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
 | The Case for Big Action to Regulate Artificial Intelligence | blog | 0 | 2026-03-30 |
 | The Citrini post is just a scary bedtime story | blog | 0 | 2026-03-30 |
@@ -2225,7 +2228,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Ronco Principle | blog | 0 | 2026-03-31 |
 | The SaaS Financial Model Most Founders Get Wrong | blog | 0 | 2026-03-30 |
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
-| The SaaS Reset: Why the 10x ARR Club Is Now a Ghost Town | blog | 0 | 2026-03-30 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 0 | 2026-03-31 |
 | The Secrets of Stealth Startups 🔒🤐 | blog | 0 | 2026-03-30 |
 | The Sequoia Playbook: How VC Discipline Compounds Returns | blog | 0 | 2026-03-30 |
@@ -2340,11 +2342,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why Smart People Have Bad Ideas | blog | 0 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 0 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 0 | 2026-03-31 |
-| Why the Real AI Risk Isn’t Superintelligence: A Final Look | blog | 0 | 2026-03-30 |
 | Why There Aren't More Googles | blog | 0 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 0 | 2026-03-31 |
 | Why to Start a Startup in a Bad Economy | blog | 0 | 2026-03-31 |
-| Why Too Much Funding Will Destroy Your Startup | blog | 0 | 2026-03-30 |
 | Why TV Lost | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |

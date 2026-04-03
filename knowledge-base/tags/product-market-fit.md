@@ -9,15 +9,15 @@
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260327-DB8F` PMF is not strategy—it's the volume of genuine user conversations you have.
 - `INS-260327-1996` Conrad says Rippling took two years to start working, but he had zero doubt it would — so his entire job was preventing the team from quitting before they got there.
+- `INS-260330-3E0B` Plot percent monthly active vs days-from-acquisition; if the curve slopes to zero, fix the product before investing in growth.
+- `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
+- `INS-260330-37F6` Plot percent monthly active vs days-since-acquisition by cohort; if the curve flattens you have PMF, if not stop all growth tactics and fix the product.
+- `INS-260330-D41A` A retention curve that flattens proves product-market fit; one that slopes to zero means growth tactics are premature.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260329-FCC6` Sell to people who desperately need what you offer rather than trying to convince people they need it.
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
-- `INS-260330-3E0B` Plot percent monthly active vs days-from-acquisition; if the curve slopes to zero, fix the product before investing in growth.
-- `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
-- `INS-260330-37F6` Plot percent monthly active vs days-since-acquisition by cohort; if the curve flattens you have PMF, if not stop all growth tactics and fix the product.
-- `INS-260330-D41A` A retention curve that flattens proves product-market fit; one that slopes to zero means growth tactics are premature.
 - `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.

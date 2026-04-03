@@ -11,6 +11,7 @@
 - `INS-260329-8F7C` Allen unlocked 4x pricing power by running pricing surveys and repackaging its charging model, not by changing the product itself.
 - `INS-260329-27A7` Charging $35/session to 8 students yields $280/hr versus $60/hr in a 1-on-1 model — a 4.5x increase for the same time block.
 - `INS-260330-9137` Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
+- `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260327-6900` Car companies responded to consumers who can't afford cars by making cars more expensive than ever - the fundamental constraint is affordability, not technology.
 - `INS-260330-F0F2` Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.

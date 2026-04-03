@@ -39,6 +39,7 @@
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
 - `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
 - `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
+- `INS-260403-A51A` Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - `INS-260329-25FC` Project-based progression creates natural 'need to know' hooks that make abstract programming concepts memorable.
 - `INS-260330-AE22` A practitioner who teaches from the ground up transfers more usable knowledge than an expert who skips foundations.
@@ -75,11 +76,11 @@
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
 - `INS-260329-5A47` Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260325-3A24` Stoute started a beauty company knowing nothing about beauty — true fearlessness is seeing a solvable problem in an unfamiliar domain and entering it with open acceptance of what you do not know.
 - `INS-260402-27A1` A failed startup teaches more founder skills in one year than several years at a big company.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260325-B50B` CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260327-7DAA` Most innovations look borderline stupid in hindsight—the only real failure is not trying or not reflecting.

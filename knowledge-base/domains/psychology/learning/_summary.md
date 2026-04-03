@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 216 insights
+> 217 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -165,6 +165,7 @@
 - `INS-260330-E47D` [medium] Teaching core intuitions before precise definitions helps learners build mental scaffolding that makes formalism meaningful.
 - `INS-260329-9AE9` [medium] A single continuous learning resource from basics to advanced topics exploits completion bias to push learners further than multi-resource paths.
 - `INS-260330-F500` [medium] Shapiro's practical guide — read ideologically opposed sources and find where they cross — extracts the factual core from opinion more reliably than trusting any single source.
+- `INS-260403-A51A` [medium] Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
 - `INS-260329-DE17` [medium] Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
 - `INS-260330-BEAD` [medium] Vsauce makes the Banach-Tarski proof accessible by building a chain of named analogies — chocolate bar → Hilbert's Hotel → circle points → Hyperwebster → sphere decomposition — each one preparing the mental model for the next.
 - `INS-260330-B91E` [medium] Naval advocates reading the best books over and over rather than maximizing book count, because deep understanding compounds while shallow reading doesn't.

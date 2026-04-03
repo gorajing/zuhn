@@ -1,6 +1,8 @@
 # Tag: jobs-to-be-done
 
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
+- `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260402-C883` Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 - `INS-260403-B87D` Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - `INS-260330-48DE` Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
+- `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.

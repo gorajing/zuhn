@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 26 insights
+> 27 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -16,6 +16,7 @@
 - `INS-260403-B198` [high] Revolutionary framing creates a false dichotomy; the winning strategy is evolving what already works with new capabilities layered on top.
 - `INS-260330-2E34` [high] The arrow hits the target precisely because it bends — rigidity would cause it to deflect off course.
 - `INS-260330-2306` [high] Your job is to hear the problem behind the request and build the simplest solution to that problem.
+- `INS-260403-3656` [high] Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 - `INS-260403-EC8A` [high] Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral.
 - `INS-260403-5FBD` [high] Value proposition fit and business model viability are independent variables — companies need both to survive.
 - `INS-260330-118D` [high] Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.

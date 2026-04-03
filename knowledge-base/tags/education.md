@@ -27,6 +27,7 @@
 - `INS-260327-3B69` AI-assisted schoolwork destroys the cognitive muscles that school is designed to build.
 - `INS-260402-4F0E` People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
+- `INS-260403-A51A` Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
 - `INS-260330-FDC2` Education systems explicitly aim to transmit knowledge faithfully and produce behavioral conformity — the opposite of the creative knowledge generation that defines human uniqueness.
 - `INS-260329-047C` The zip code you're born in predicts earnings better than IQ, race, or degree — college's real value is changing your social environment.
 - `INS-260402-D9D0` Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.

@@ -51,7 +51,6 @@ stance: >-
   will be disrupted by challengers who study the creator's mistakes and build
   better solutions.
 related:
-  - INS-260323-6230
   - INS-260324-179B
   - INS-260321-021B
   - INS-260324-224B

@@ -1,6 +1,7 @@
 # Tag: mastery
 
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
+- `INS-260403-2B63` Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
 - `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260327-454C` The empty mind isn't about thinking nothing - it's about having practiced so thoroughly that the right response arises without deliberation.
 - `INS-260323-7CA7` Kaplan's 6,000+ hours of EverQuest — which looked like addiction and time-wasting — became the foundation for designing World of Warcraft and Overwatch; deep immersion in something you love creates expertise that formal training cannot replicate.

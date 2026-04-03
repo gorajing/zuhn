@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 52 insights
+> 53 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -9,6 +9,7 @@
 - `INS-260330-4553` [high] When eBay switched affiliate payouts from confirmed registrations to activated users, registrations dropped 20% but active users only dropped 5% — then growth accelerated.
 - `INS-260330-3084` [high] Henry Racamier invited Bernard Arnault to help manage an internal dispute; Arnault secretly acquired 43% of shares and seized control of LVMH.
 - `INS-260402-910C` [high] Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.
+- `INS-260403-C161` [high] Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
 - `INS-260402-2632` [high] Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - `INS-260330-AE70` [high] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
 - `INS-260330-DE80` [high] Apple pivoted its growth narrative from iPhone unit sales to ecosystem ARPU (services, accessories, subscriptions) once smartphone saturation made unit growth impossible.

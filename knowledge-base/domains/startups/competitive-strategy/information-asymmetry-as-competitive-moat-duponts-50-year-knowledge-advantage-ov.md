@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260330-C761
   - INS-260330-BEF8
+  - INS-260403-BF09
   - INS-260330-19C3
   - INS-260330-656A
-  - INS-260330-96FE
 evidence:
   - id: INS-260330-96FE
     type: SUPPORTS

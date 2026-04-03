@@ -50,6 +50,7 @@ related:
   - INS-260327-5EEA
   - INS-260327-4CB3
   - INS-260327-5F10
+  - INS-260403-EF20
 stance: >-
   As agents become intermediaries between users and systems, optimization shifts
   from visual design to machine-readable structure and insight density.

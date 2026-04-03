@@ -48,7 +48,6 @@ stance: >-
   directions, a centralized command structure becomes a liability because no
   single leader can respond to all fronts at once.
 related:
-  - INS-260323-97DB
   - INS-260327-AA2C
   - INS-260327-C7BF
   - INS-260327-B038
@@ -58,6 +57,7 @@ related:
   - INS-260326-E411
   - INS-260327-8473
   - INS-260327-7750
+  - INS-260327-80AD
 evidence:
   - id: INS-260323-97DB
     type: CHALLENGES

@@ -9,6 +9,7 @@
 - `INS-260327-B387` Serve your core fans like a band plays its hits—sideline critics will never become users no matter what you change.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
 - `INS-260327-DB8F` PMF is not strategy—it's the volume of genuine user conversations you have.
+- `INS-260403-C161` Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
 - `INS-260323-4A3D` In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
 - `INS-260328-982A` Zuckerberg chose founders (Doordash's Tony, Airbnb's Brian, Dropbox's Drew) for Meta's board over any investor — because operators in the trenches give better advice.
 - `INS-260323-6414` Manifast reached 4,000 users and 50 paid customers by combining building-in-public on LinkedIn/Threads, sponsoring niche communities, recruiting ambassadors, and personally going offline to hand out flyers.

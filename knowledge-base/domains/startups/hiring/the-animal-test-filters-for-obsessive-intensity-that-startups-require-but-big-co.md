@@ -45,11 +45,11 @@ stance: >-
   Startup hiring should select for people who are obsessively intense about
   their craft, not merely competent professionals.
 related:
+  - INS-260403-2B63
   - INS-260403-A8B1
   - INS-260323-A183
   - INS-260322-116B
   - INS-260323-F853
-  - PRI-260323-50FE
 evidence:
   - id: INS-260322-116B
     type: CHALLENGES

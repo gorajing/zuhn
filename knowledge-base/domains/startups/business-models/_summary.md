@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 121 insights
+> 123 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -103,6 +103,7 @@
 - `INS-260402-B2A2` [high] Tech industry phases are additive layers that compound value, not distinct eras that replace predecessors.
 - `INS-260324-157A` [high] Chinese merchants on Wish/Temu profit on $1-10 items because of low cost of living, cheap rural warehouses, and subsidized state-owned postal services — the platform takes a cut while owning zero inventory.
 - `INS-260327-C6A9` [high] Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards ear
+- `INS-260403-7C60` [high] Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260327-AFC7` [high] The French Intensive system generating six-figure incomes from small plots was abandoned not because it failed but because industrial agriculture needed farmers dependent on tractors, chemicals, and commodity markets.
 - `INS-260327-E874` [high] People starting Uber driving or Etsy shops after losing their jobs show up as 'new businesses' in statistics rather than as unemployed, masking the true scale of economic displacement.
 - `INS-260327-6E0E` [high] Movies monetize through sequential windows -- theatrical (highest price per viewer), DVD/VOD, streaming exclusives (Netflix pays premium for first window), cable TV, and syndication -- each capturing a different willingness-to-pay segment over a 4-6 year lifecycle.
@@ -116,6 +117,7 @@
 - `INS-260324-C496` [high] BuzzFeed ($1.7B valuation to penny stock) and VICE (bankruptcy) prove that millions of views and hit shows are worth almost nothing without subscription revenue.
 - `INS-260327-6A4B` [high] Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone 
 - `INS-260329-59FF` [high] All zero-capital wealth strategies are variations of value arbitrage — delivering more value than you capture.
+- `INS-260403-4E71` [medium] Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.
 - `INS-260322-AABB` [medium] The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.

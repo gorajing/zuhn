@@ -49,7 +49,6 @@ stance: >-
   narratives that serve ideological purposes rather than historical accuracy
 related:
   - INS-260325-EBDD
-  - INS-260327-CA82
   - INS-260330-4F7B
   - INS-260330-1D61
   - INS-260330-41DB

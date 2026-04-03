@@ -12,3 +12,4 @@
 - `INS-260327-EB3E` Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260330-EF64` Delay growing your user base because users create compatibility constraints that freeze your design and prevent the continuous redesign that produces quality.
 - `INS-260329-393C` Whenever you find yourself copy-pasting code or repeating a manual process, you've found a missing abstraction that will cost more to fix later.
+- `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.

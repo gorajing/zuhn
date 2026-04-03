@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 79 insights
+> 81 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -24,6 +24,7 @@
 - `INS-260327-EC45` [high] Filter ideas through: (1) is the value to customers special, (2) can we build it, (3) is the market big enough, (4) how are we differentiated from 15 competitors?
 - `INS-260329-9C6B` [high] Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.
 - `INS-260326-870E` [high] Silicon Valley investors rank growth above team, experience, or pedigree — having growth solves every single startup problem.
+- `INS-260403-04FF` [high] Technology-focused ventures must invest equal rigor in validating market assumptions as they do in technical R&D.
 - `INS-260327-643E` [high] Ideas that seem bad — boring (Gusto/payroll), hard to start (Stripe/bank deals), or crowded (Dropbox/20 competitors) — systematically outperform because most founders avoid them.
 - `INS-260323-3436` [high] Everyone recognizes desktop clutter as a problem, but nobody's in enough pain to adopt a tool to solve it — recognizable problems and painful problems are completely different categories.
 - `INS-260327-CBCB` [high] Rajat worked as a waiter for a year — 16 hours a day inside restaurants — coding, testing the product with real users, and learning the industry from the inside.
@@ -46,6 +47,7 @@
 - `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
 - `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
+- `INS-260403-BF09` [high] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260329-78CB` [high] High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260329-180B` [high] Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260323-E15F` [high] When every founder can build fast with AI tools, the bottleneck shifts permanently from execution speed to insight discovery speed.

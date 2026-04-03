@@ -48,10 +48,10 @@ stance: >-
   survival strategy.
 related:
   - INS-260325-F21D
+  - INS-260403-BF09
   - INS-260327-41A9
   - INS-260402-0392
   - INS-260327-3A81
-  - INS-260325-5A2F
 evidence:
   - id: INS-260327-41A9
     type: CONTRADICTS

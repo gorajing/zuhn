@@ -10,5 +10,6 @@
 - `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260330-843E` Non-users reveal the barriers preventing market expansion — problems that existing user feedback will never surface.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
+- `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260323-1B87` Most founders talk to 3-5 customers per week and think that's enough; Kim insists on 3-5 per day with 24-hour follow-up cycles during the PMF search phase.
 - `INS-260330-3745` Interview three distinct groups — your users, competitors' users, and non-users — because each reveals different strategic insights.

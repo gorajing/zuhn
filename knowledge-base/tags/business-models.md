@@ -27,6 +27,7 @@
 - `INS-260327-38BC` Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
 - `INS-260327-6A4B` Zara competitive advantage is supply chain speed, not design quality — they produce mediocre designs faster than anyone 
 - `INS-260329-59FF` All zero-capital wealth strategies are variations of value arbitrage — delivering more value than you capture.
+- `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
 - `INS-260325-73C0` Bret Taylor: AI breaks per-seat SaaS — the new model charges for outcomes (tasks completed, problems solved), not users provisioned.
 - `INS-260327-4431` When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
 - `INS-260327-1B4A` Physical venues that were supposedly killed by digital alternatives survive by pivoting to the social experience dimensi
@@ -45,7 +46,6 @@
 - `INS-260327-E153` Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
 - `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
-- `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260329-97C1` Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.

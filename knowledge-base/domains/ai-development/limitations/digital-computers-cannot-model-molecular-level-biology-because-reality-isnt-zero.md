@@ -51,7 +51,6 @@ stance: >-
   making quantum computers the natural computational substrate for biological
   simulation.
 related:
-  - INS-260325-2069
   - INS-260325-F21D
   - INS-260325-A1B9
   - PRI-260328-4B40

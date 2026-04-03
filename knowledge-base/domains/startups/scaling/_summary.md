@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 108 insights
+> 109 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -24,6 +24,7 @@
 - `INS-260324-1275` [high] Apple, Dell, HP, and Dyson use flagship profits to expand into adjacent categories because betting everything on getting a single product release right year after year is suicidal.
 - `INS-260330-D272` [high] Chesky argues that if you want to build and sell a company in one year, the best advice is to skip culture entirely — culture's ROI is exclusively long-term.
 - `INS-260330-4A16` [high] Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
+- `INS-260403-7227` [high] Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 - `INS-260323-9A93` [high] Only hire when you physically cannot meet demand, and hire people who do multiple people's worth of work.
 - `INS-260330-0E4B` [high] At scale, force daily multi-hour cross-functional calls where every discipline shares trade-offs and hears how their decisions affect others.
 - `INS-260329-97C1` [high] Ramsey Solutions' diverse product mix (radio, books, courses, coaching, app, endorsements) prevented stair-step growth by having different products peak at different times.

@@ -1,5 +1,6 @@
 # Tag: side-projects
 
+- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260327-E546` Spending 40 hours at work and 40 more on side projects reveals what you actually want to build.
 - `INS-260403-C610` The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
 - `INS-260402-EE6E` The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.

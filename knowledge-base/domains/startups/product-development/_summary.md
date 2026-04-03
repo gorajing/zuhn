@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 132 insights
+> 133 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -83,6 +83,7 @@
 - `INS-260330-B7B1` [high] Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
 - `INS-260403-7732` [high] Selection from a large open pool surfaces better top-end quality than editorial curation, which dampens extremes.
 - `INS-260329-BE35` [high] Your sharding key is a frozen prediction about usage patterns — choose wrong, and resharding a live database is one of the hardest problems in production engineering.
+- `INS-260403-0CA8` [high] Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 - `INS-260323-6043` [high] Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.
 - `INS-260327-4669` [high] Insta360 discovered that 70%+ of action camera users had content sitting on hard drives collecting dust because editing was too hard -- investing in mobile-first editing software became their primary competitive moat over GoPro.
 - `INS-260323-0AF3` [high] Creating mycelium leather is pointless if assembling the shoe still requires toxic glue — true sustainability demands solving the entire production chain from CO2 to compostable end product.
