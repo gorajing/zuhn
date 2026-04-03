@@ -11,7 +11,6 @@
 - `INS-260330-5828` External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative.
 - `INS-260330-544F` Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes.
 - `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
-- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260325-C830` Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260325-B5EF` Brain imaging shows behavioral addictions from tech activate the same areas as drug addictions.
 - `INS-260323-369C` The most dangerous aspect of addiction for creative people is the false belief that substances are the source of creativity — Callaghan proved the creative engine survives intact after sobriety.
@@ -19,6 +18,7 @@
 - `INS-260325-9F01` A 30-minute screen time limit does not produce 30 minutes of impact — the craving and mental preoccupation persist all day.
 - `INS-260325-4CF9` The brain's wanting system is diffuse and insatiable; the liking system is small and satiable. Tech exploits the wanting system.
 - `INS-260325-7417` The brain's wanting circuit is easy to trigger but impossible to satisfy, creating the hedonic treadmill that technology exploits for engagement.
+- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
 - `INS-260325-5A72` Men's higher risk appetite leads them to save lives in emergencies and to blow their savings on gambling -- the trait itself is neutral, and society needs both male and female approaches to risk.
 - `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.

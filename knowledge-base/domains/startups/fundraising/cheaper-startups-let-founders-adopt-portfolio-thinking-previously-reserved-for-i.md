@@ -58,6 +58,10 @@ related:
   - INS-260330-64E1
   - INS-260402-8424
   - INS-260403-3CD0
+evidence:
+  - id: INS-260403-3CD0
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Investors have always preferred risky, high-upside strategies because they hold portfolios — any single failure is absorbed by winners elsewhere. Founders, betting their one shot, rationally play conservative. Graham argues this misalignment dissolves when startups become cheap enough that a founder can start many companies across a career. At that point, founders effectively build their own portfolio and can rationally pursue the moonshot strategies investors want.
 

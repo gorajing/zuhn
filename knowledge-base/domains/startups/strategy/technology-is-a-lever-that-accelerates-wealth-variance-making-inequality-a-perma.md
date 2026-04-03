@@ -77,6 +77,12 @@ evidence:
   - id: INS-260327-1D3D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-420A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-CF54
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham frames technology as a lever whose length grows at an accelerating rate. In a world where one person can build software used by billions while another performs manual labor, the variation in value created per person is enormous. The mid-20th century masked this by forcing everyone into large organizations that couldn't measure or reward individual contributions — salaries were flat because there was no market mechanism to differentiate.
 

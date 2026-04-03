@@ -52,6 +52,10 @@ related:
   - INS-260327-70DF
   - PRI-260323-50FE
   - INS-260402-8223
+evidence:
+  - id: INS-260328-E410
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham's most striking claim is that working hard is not about maximizing hours or intensity but about tuning a complex system correctly — and that self-honesty is the only tool that makes this tuning possible. You need honesty to detect laziness, honesty to detect overwork, honesty to evaluate whether your results justify continued effort, and honesty to distinguish genuine interest from status-seeking or parental expectations.
 

@@ -29,8 +29,8 @@
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
-- `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260403-363C` Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.

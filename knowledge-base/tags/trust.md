@@ -13,6 +13,7 @@
 - `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
 - `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
+- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
@@ -20,7 +21,6 @@
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
-- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
 - `INS-260323-176B` Covert contracts — where one party secretly resents an agreement and begins taking compensation through indirect sabotage — are the root mechanism of relationship destruction.

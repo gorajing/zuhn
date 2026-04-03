@@ -47,13 +47,11 @@ stance: >-
   The proton motive force — not ATP itself — is the fundamental energy storage
   mechanism that unifies respiration and photosynthesis.
 related:
-  - INS-260330-5C36
-  - INS-260330-BC3E
   - INS-260330-7E39
+  - PRI-260403-70D0
   - INS-260330-8A2E
   - INS-260330-7FF3
   - INS-260330-C729
-  - INS-260330-24BA
   - INS-260330-30FB
 evidence:
   - id: INS-260330-30FB

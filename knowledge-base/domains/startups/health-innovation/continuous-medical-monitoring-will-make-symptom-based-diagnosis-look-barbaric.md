@@ -56,6 +56,16 @@ related:
   - INS-260327-B93E
   - PRI-260323-A47C
   - INS-260325-8729
+evidence:
+  - id: INS-260330-5676
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-B93E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-8729
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham uses Bill Clinton's 2004 heart surgery as a striking example: even with the best medical care available, Clinton didn't learn his arteries were 90% blocked until he had symptoms. Graham argues we'll eventually know health metrics like arterial blockage as routinely as we know our weight, and cancer will 'show up on some sort of radar screen immediately.'
 

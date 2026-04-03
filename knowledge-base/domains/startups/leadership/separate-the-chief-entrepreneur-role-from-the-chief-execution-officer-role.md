@@ -58,6 +58,13 @@ related:
   - INS-260330-70BF
   - INS-260327-6B78
   - INS-260327-540D
+evidence:
+  - id: INS-260322-EAB6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-540D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The explore-exploit tradeoff is one of the most fundamental tensions in business strategy. Osterwalder proposes a structural solution: redefine the CEO as 'chief execution officer' focused on optimizing the proven business model, and create a parallel 'chief entrepreneur' role at the same organizational level focused 100% on innovation. This isn't just delegation — it's architectural separation of two fundamentally different operating modes.
 

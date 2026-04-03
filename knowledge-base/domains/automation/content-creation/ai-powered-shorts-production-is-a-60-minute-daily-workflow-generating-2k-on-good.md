@@ -67,5 +67,8 @@ evidence:
   - id: INS-260329-C56D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-D022
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The creator outlines a complete AI-powered production pipeline: (1) Find trending video and get its transcript, (2) Rewrite script with your own spin (or use ChatGPT), (3) Generate voiceover with Google AI Studio (free, unlimited), (4) Extract character images and convert to 3D style with ChatGPT, (5) Generate scene-specific visual prompts, (6) Create images with Whisk/NanoBanana Pro using character reference + scene prompts, (7) Convert images to 9:16 video with Grok (free, ~10 generations/day), (8) Edit in CapCut — adjust voice pacing, arrange clips, add sound effects, transitions, captions, and background music. Total time: ~60 minutes. The monetization model relies on RPM (revenue per mille), which is heavily influenced by viewer geography — English-speaking audiences generate much higher RPMs. Never use VPN for uploads (it changes upload location, not viewer location). Key editing insight: the purpose of editing isn't just joining clips but adding enough value that YouTube doesn't flag content as inauthentic.

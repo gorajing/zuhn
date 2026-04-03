@@ -53,6 +53,10 @@ related:
   - INS-260330-63B8
   - INS-260329-C0F1
   - INS-260323-1CA4
+evidence:
+  - id: INS-260330-63B8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Traditional marketplaces only capture steps 2-3 of the buying cycle (consideration and intent) — users arrive already knowing what they want. AI allows marketplaces to embed the earlier awareness stage ('you have this problem') and consideration stage ('here are your options analyzed against your specific context') directly into the platform experience.
 

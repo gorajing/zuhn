@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-9A7F
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-D022
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Malcolm Gladwell corrects the record on his own theory: '10,000 hours' was about the insufficiency of talent alone and the duration of practice needed. It was never about practice making any excellence accessible. 'That's nonsense. Who would think that?' You can spend 10,000 hours on a golf course and never become Scottie Scheffler.
 

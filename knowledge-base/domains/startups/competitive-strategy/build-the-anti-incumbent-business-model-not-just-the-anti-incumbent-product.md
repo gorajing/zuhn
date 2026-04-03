@@ -56,6 +56,10 @@ related:
   - INS-260330-EC76
   - INS-260330-D801
   - INS-260402-E2FF
+evidence:
+  - id: INS-260325-FDF5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Patel observed that many consumer electronics startups with excellent products still failed. The problem wasn't the product—it was the business model. Framework's innovation isn't just modular hardware; it's a business model where the product belongs to the user, not the company. Users can repair, upgrade, and customize their laptops.
 

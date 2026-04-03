@@ -58,6 +58,16 @@ related:
   - INS-260330-AC16
   - INS-260323-244C
   - INS-260402-0D16
+evidence:
+  - id: INS-260402-0D16
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-AC16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260326-8B81
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When asked about transformation timelines for mid-sized companies, Osterwalder refuses to give a universal answer but identifies leadership commitment as the single variable that matters most. With full CEO and board commitment, significant cultural transformation is achievable in 3-5 years. Ping An, a Chinese banking and insurance conglomerate, transformed from a top-500 to a top-10-15 global company within a decade through sustained commitment to innovation culture.
 

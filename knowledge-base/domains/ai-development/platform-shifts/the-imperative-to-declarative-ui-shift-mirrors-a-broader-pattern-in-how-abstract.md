@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-C2C4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-AC5E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Vanilla JavaScript requires imperative DOM manipulation: query an element, mutate it, listen for events, manually update dependent elements. This works but creates an implicit state synchronization problem — the developer must ensure the DOM always reflects the true application state, and every missed update is a bug.
 

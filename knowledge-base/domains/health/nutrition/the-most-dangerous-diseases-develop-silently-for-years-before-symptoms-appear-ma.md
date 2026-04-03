@@ -54,5 +54,8 @@ evidence:
   - id: INS-260326-A7CB
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-DFBC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Fatty liver disease, insulin resistance, early cancer, and cardiovascular plaque accumulate for 10-20 years without symptoms; by the time symptoms appear, significant damage has occurred -- making proactive blood work and imaging essential

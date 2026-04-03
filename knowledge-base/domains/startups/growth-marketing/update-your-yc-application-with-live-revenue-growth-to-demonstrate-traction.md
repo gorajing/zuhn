@@ -51,6 +51,10 @@ related:
   - PRI-260328-0993
   - PRI-260328-C918
   - INS-260328-A46F
+evidence:
+  - id: INS-260403-87AC
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 After filing their YC application, Beller went back every few days and updated it with their latest revenue number. When YC reviewers logged in, they saw: on this date, revenue was X. On this date, higher. On this date, higher still. Revenue was going from $200/month to $800 to $2,000 to $3,000.
 

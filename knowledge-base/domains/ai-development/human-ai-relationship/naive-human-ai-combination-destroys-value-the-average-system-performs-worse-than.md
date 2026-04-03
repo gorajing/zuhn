@@ -60,5 +60,8 @@ evidence:
   - id: INS-260323-7212
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-B73A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 MIT's preregistered meta-analysis across 370 effect sizes found a statistically significant negative pooled effect (g = -0.23, p = 0.005) for human-AI synergy — the combined system versus whichever partner performs better alone. However, human augmentation exists (g = 0.64): adding AI helps humans individually. The devastating implication is that in most studied configurations, you would have been better off just using whichever was stronger. The 97.7% heterogeneity in effect sizes means this is not a universal law — it is an indictment of how teams are currently designed, not of complementarity itself. Only 3 of 100+ experiments tested intentional subtask delegation, and those hinted at synergy.

@@ -72,6 +72,12 @@ evidence:
   - id: INS-260330-A44F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-D543
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260403-5D89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Ferguson highlights a single statistic that reframes the entire geopolitical picture: in 2001 when China entered the WTO, American manufacturing value-added was more than twice China's. Today, China's manufacturing value-added is more than twice that of the United States. On a purchasing power parity basis, China's economy has been larger than the US economy for at least eight years.
 

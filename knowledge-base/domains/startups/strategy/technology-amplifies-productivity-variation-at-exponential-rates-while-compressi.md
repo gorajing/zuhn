@@ -73,6 +73,9 @@ evidence:
   - id: INS-260329-3C67
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-420A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 As technology advances, it increases individual productive capacity at exponential rates, meaning the most skilled people can generate orders of magnitude more value. A high school student today can write software worth millions, while their peers scoop ice cream. This creates wider income variation.
 

@@ -57,6 +57,10 @@ related:
   - INS-260330-4AB1
   - INS-260330-F4DD
   - INS-260330-B09B
+evidence:
+  - id: INS-260330-870B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham observes that the skills needed to convince investors (smooth confidence, salesmanship) are inversely correlated with the skills needed to build great products. He notes that the amount of selling required in an industry is always inversely proportional to the judgment of the buyers — a devastating indictment of venture capital's evaluation process.
 

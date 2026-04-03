@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-464E
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260321-1A0B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Roy Lee identified that LeetCode-style coding interviews are a broken system—candidates memorize 300-600 riddles that have nothing to do with actual engineering work. Instead of accepting this, he built a tool that exposed the absurdity by making the memorization game trivially easy to cheat.
 

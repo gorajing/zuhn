@@ -80,6 +80,9 @@ evidence:
   - id: INS-260321-6437
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-A06E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi describes his own evolution from thinking a day of work was impressive, to a week, to a month, to sustaining focus on a single project for years. His shorthand for this shift: start counting in hundreds. Hundreds of minutes, hundreds of hours, hundreds of days toward a specific goal. The mental frame of 'hundreds' automatically prevents premature satisfaction and forces a volume of effort that matches what ambitious outcomes actually require.
 

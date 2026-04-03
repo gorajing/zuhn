@@ -57,6 +57,9 @@ evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-A06E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi argues the conventional 'outwork everyone' mentality teaches the wrong lesson. Work should be measured by outputs, not inputs. Output = Volume × Leverage, where volume is how many times you move the lever and leverage is how much you get from each action. Warren Buffett earned 10x what Coca-Cola's CEO earned while spending less time — because his leverage (ownership) massively amplified output per unit of effort.
 

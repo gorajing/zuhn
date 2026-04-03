@@ -50,7 +50,6 @@ stance: >-
   semantics remain significantly harder to automate than tasks operating at
   higher abstraction levels
 related:
-  - INS-260323-2DF2
   - PRI-260328-D401
   - PRI-260328-8516
   - INS-260329-8A13
@@ -60,6 +59,7 @@ related:
   - INS-260329-A461
   - INS-260329-7C59
   - INS-260329-CC79
+  - INS-260330-D3F5
 evidence:
   - id: INS-260329-393C
     type: TRANSFERS_TO

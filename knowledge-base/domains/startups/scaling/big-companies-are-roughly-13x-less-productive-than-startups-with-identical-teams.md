@@ -54,6 +54,10 @@ related:
   - INS-260327-D1B7
   - PRI-260324-12CF
   - INS-260330-956E
+evidence:
+  - id: INS-260327-D1B7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham cites a founder who measured his team's lines of code (same programmers, same work) before and after being acquired by a large — and not particularly dysfunctional — company. Productivity dropped to one-thirteenth. Graham argues this measures the inherent cost of bigness itself: coordination overhead, political friction, approval chains, and the energy-sapping effect of large organizational structures.
 

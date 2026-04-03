@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-AF2A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-87AC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's tower analogy distinguishes between building for speed (stacking boxes vertically in 10 seconds) and building for height (laying bricks with a wide foundation over 10 days). Many entrepreneurs hit $1M and can't reach $10M because they built vertically — acquiring customers through marketing without making the product genuinely excellent.
 

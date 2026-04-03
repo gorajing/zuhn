@@ -54,6 +54,9 @@ evidence:
   - id: INS-260329-F04B
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-D022
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Organizations need to provide both space for failure and recovery space after failure. The link between 'creation' and 'recreation' is not just etymological but functional: recovery periods contribute directly to creativity, productivity, and happiness in the long term. This means rest after failure is not an indulgence but a productive investment.
 

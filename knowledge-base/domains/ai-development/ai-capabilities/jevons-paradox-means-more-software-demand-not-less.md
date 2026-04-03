@@ -78,5 +78,8 @@ evidence:
   - id: INS-260403-B6A0
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-5D89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Karpathy argues cautiously optimistic about software engineering jobs. The classical example: ATMs were expected to replace bank tellers, but they made branch operations so much cheaper that more branches opened, creating more teller jobs. Similarly, AI making software development 10x cheaper unlocks enormous latent demand — code becomes ephemeral, customizable, and available for problems that were never economical to solve before. Digital information processing will see enormous activity.

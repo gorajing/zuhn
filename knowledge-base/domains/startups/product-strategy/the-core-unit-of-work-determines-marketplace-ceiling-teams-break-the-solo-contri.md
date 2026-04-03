@@ -62,6 +62,19 @@ related:
   - INS-260330-5600
   - INS-260330-1F41
   - INS-260330-217C
+evidence:
+  - id: INS-260321-3C8A
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-4793
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-47FE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-6C64
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In solo-contributor marketplaces, each new participant competes with existing ones for the same tasks, driving prices down and creating an asymptote where additional supply adds no value. A.Team's insight was that by making the team the atomic unit, the competitive dynamic inverts: a designer joining the platform doesn't compete with existing designers — they complement engineers and product managers to unlock higher-complexity work that no individual could tackle alone.
 

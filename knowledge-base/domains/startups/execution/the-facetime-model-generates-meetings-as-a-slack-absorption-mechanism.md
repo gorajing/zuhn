@@ -60,6 +60,9 @@ evidence:
   - id: INS-260322-FD23
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-D022
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies a causal chain: companies can't measure knowledge worker productivity, so they enforce physical presence as a proxy. This creates hours of neither-working-nor-fun time. Meetings become the primary mechanism for absorbing this slack — they count as work but require minimal effort, functioning like 'an opiate with a network effect.'
 

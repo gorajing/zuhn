@@ -57,7 +57,6 @@ related:
   - INS-260330-19C3
   - INS-260330-E786
   - INS-260330-41F6
-  - INS-260330-57E6
   - INS-260330-9231
 evidence:
   - id: INS-260330-57E6

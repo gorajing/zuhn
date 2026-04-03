@@ -53,5 +53,8 @@ evidence:
   - id: INS-260320-9935
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-7846
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's podcast took 6 years of 1-3 episodes per week to crack the top 10 in its category. The first 150 episodes were narrowly focused on gym operations before he found broader appeal. This maps to a predictable progression: year one builds delivery skill (speaking, teaching, entertaining), years two through four expand subject matter as your expertise grows, and only then does compound growth kick in. The implication is that anyone planning content with a 90-day horizon is structurally guaranteed to quit before the inflection point. Budget for years, not quarters.

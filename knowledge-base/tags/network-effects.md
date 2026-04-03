@@ -10,8 +10,8 @@
 - `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260330-6D2E` Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
-- `INS-260330-C8D7` Research shows that population density and inter-group knowledge transfer — not individual brilliance — determine cultural complexity, with isolated groups like Easter Island reliably degenerating in capability.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
+- `INS-260330-C8D7` Research shows that population density and inter-group knowledge transfer — not individual brilliance — determine cultural complexity, with isolated groups like Easter Island reliably degenerating in capability.
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260330-D824` WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
@@ -35,7 +35,6 @@
 - `INS-260330-7D6D` Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
 - `INS-260323-7AF7` Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.
 - `INS-260329-DD01` Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260330-059C` ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260327-B357` Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
@@ -44,6 +43,7 @@
 - `INS-260330-1089` When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - `INS-260403-36D1` Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
 - `INS-260330-3D0D` Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - `INS-260403-CC4E` Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.

@@ -56,6 +56,13 @@ related:
   - INS-260327-91E7
   - INS-260329-DDBC
   - INS-260325-3CE2
+evidence:
+  - id: INS-260329-DDBC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-C45C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham's search engine example illustrates a counterintuitive market entry strategy: a search engine used only by the top 10,000 hackers would be in a 'very powerful position despite its small size.' This echoes how Google itself started — as the search engine technical users preferred. The mechanism is that expert users are taste-makers; their adoption signals quality to the broader market and creates organic word-of-mouth that money can't buy.
 

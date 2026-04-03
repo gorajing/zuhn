@@ -80,6 +80,9 @@ evidence:
   - id: INS-260402-F5E0
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260402-7E2A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Brian Keating describes how the BICEP2 team announced detection of primordial gravitational waves — exactly the signal they had been designed to find — only to discover the signal was actually galactic dust. He cites Isaac Asimov's insight that the most important reaction in science is not 'eureka' (I found it) but 'that's weird' (something unexpected). When you find exactly what you're looking for, the emotional reward of confirmation suppresses the critical scrutiny needed to rule out alternative explanations.
 

@@ -53,7 +53,6 @@ stance: >-
   will outcompete those waiting for an optimal solution, even when the mechanism
   fails half the time
 related:
-  - INS-260330-AB3C
   - INS-260330-43CA
   - INS-260330-6ECA
   - INS-260330-11EB

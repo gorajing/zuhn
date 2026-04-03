@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-F2C3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-5D18
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Culture celebrates specialists: the world's best violinist, the top neurosurgeon, the most successful trader. But ikigai suggests that purpose lives at intersections, not extremes. The person who combines moderate skill in technology with deep understanding of healthcare and genuine passion for accessibility might create more value than a pure technologist or pure clinician.
 

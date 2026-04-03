@@ -47,5 +47,9 @@ related:
   - INS-260329-5FB5
   - INS-260323-5F8A
   - INS-260330-5EB6
+evidence:
+  - id: INS-260329-5FB5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 In one YC batch, 9 of ~75 companies added a co-founder they didn't know well between the interview and batch start. All 9 teams fell apart within a year. Meanwhile, the top 20 most valuable YC companies all have at least 2+ founders who knew each other beforehand. The pattern is clear: co-founder relationships need years of shared history to survive the stress of a startup. Altman argues it's better to be a solo founder than to pick a random co-founder, despite solo founding being suboptimal. The implication is that co-founder selection should be treated with more gravity than any hire, yet most founders — especially students — treat it more casually than hiring.

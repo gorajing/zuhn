@@ -40,7 +40,6 @@ stance: >-
   production, and hormone signaling when used after sunset
 related:
   - INS-260327-827C
-  - INS-260327-1C1B
   - PRI-260328-B115
   - INS-260330-54A3
   - INS-260330-BBEE

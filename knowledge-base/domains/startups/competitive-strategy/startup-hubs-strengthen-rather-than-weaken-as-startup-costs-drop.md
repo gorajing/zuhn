@@ -56,6 +56,13 @@ related:
   - INS-260402-910C
   - INS-260403-5BFB
   - INS-260327-E2BC
+evidence:
+  - id: INS-260327-F417
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-7DA5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The intuitive prediction is that cheap startups should decentralize entrepreneurship — if you only need a laptop and rent money, why be in Silicon Valley? Graham argues the opposite: cheaper startups mean smaller, more mobile teams (two 22-year-olds vs. ten people with families), and mobile particles flow toward the strongest magnets. The competitive framing is key — it's not whether you need a hub, but whether not being in one gives competitors an advantage.
 

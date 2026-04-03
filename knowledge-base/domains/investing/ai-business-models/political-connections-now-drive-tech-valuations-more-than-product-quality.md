@@ -55,6 +55,9 @@ evidence:
   - id: INS-260324-A9DF
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-5D89
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Oracle gained more market cap in 8 hours than McDonald's total value despite reporting lower-than-expected earnings. The surge wasn't driven by product innovation but by AI promises, control of TikTok's US operations, and deep connections to political power.
 

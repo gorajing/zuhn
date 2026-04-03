@@ -71,6 +71,9 @@ evidence:
   - id: INS-260322-BBED
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-87AC
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Olivia Moore draws a direct parallel between agents today and internet companies in 1990: initially, being a 'dot com company' was its own designator, but eventually every company became an internet company. Similarly, every AI company — and eventually every tech company — will be agentic because models are headed toward delivering outcomes rather than just inputs.
 

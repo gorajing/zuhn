@@ -58,6 +58,13 @@ related:
   - INS-260323-4AB5
   - INS-260323-D6C7
   - INS-260323-4457
+evidence:
+  - id: INS-260325-8A61
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-D6C7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 A common objection to democratizing innovation is that it creates chaos — too many projects, no focus, wasted resources. Strategyzer's answer is an evidence-based investment process: anyone can start, but within three months innovators must demonstrate evidence that customers actually face the problem they're solving. No evidence, project terminated. This combines startup speed and flexibility with corporate structure and accountability.
 

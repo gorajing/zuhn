@@ -54,5 +54,15 @@ related:
   - INS-260402-CF0A
   - INS-260403-420A
   - PRI-260328-26AA
+evidence:
+  - id: INS-260325-EBC3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-1338
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-CF0A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Humans grow up in environments where resources genuinely are fixed (allowances, classroom supplies), which hardwires a zero-sum intuition about wealth. This 'pie fallacy' persists into adulthood and shapes how people interpret economic statistics — when they see one quantile's share rising, they instinctively assume another's must be falling. Graham argues this conflation is the root error in inequality discourse: it makes people unable to distinguish a woodworker creating chairs (positive-sum) from a high-frequency trader extracting rents (zero-sum). The practical consequence is that policy proposals aimed at 'reducing inequality' often target wealth creation alongside wealth extraction, because the pie fallacy makes them look identical in aggregate statistics. Recognizing this bias is prerequisite to productive conversation about which specific causes of inequality to address.

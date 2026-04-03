@@ -50,12 +50,11 @@ stance: >-
   dependency makes replacement impossible once the ecosystem depends on the flaw
 related:
   - INS-260327-B9BB
-  - INS-260330-B7B1
   - INS-260330-54ED
   - INS-260330-C02D
+  - PRI-260403-40D7
   - INS-260330-22C0
   - INS-260330-53A9
-  - INS-260330-BFA2
 evidence:
   - id: INS-260327-B9BB
     type: CONTRADICTS

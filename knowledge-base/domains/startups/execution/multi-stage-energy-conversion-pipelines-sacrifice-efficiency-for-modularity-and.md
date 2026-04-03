@@ -54,7 +54,6 @@ stance: >-
   significant efficiency cost
 related:
   - INS-260330-1084
-  - INS-260330-20FD
   - INS-260330-2C71
   - INS-260330-545E
   - INS-260330-09F8

@@ -59,5 +59,15 @@ related:
   - INS-260402-6D5E
   - INS-260402-8E29
   - INS-260402-C030
+evidence:
+  - id: INS-260329-8329
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-AB46
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-0AD5
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham argues that startup founders are both highly mobile and highly motivated, which makes national wealth-suppression policies self-defeating. If Country A makes it impossible to get rich by creating wealth, ambitious founders will move to Country B. Country A gets a lower Gini coefficient but loses the economic engine that was producing innovation, jobs, and tax revenue. This dynamic has accelerated since Graham wrote the essay — remote work, global capital markets, and startup-friendly visa programs in places like Dubai, Singapore, and Estonia mean the friction of relocation is lower than ever. The strategic implication for countries is that competing for entrepreneurial talent requires maintaining a permissive environment for wealth creation, which means accepting higher inequality as the cost of retaining economic dynamism. For founders, it means jurisdiction shopping is a legitimate strategic consideration when building a company.

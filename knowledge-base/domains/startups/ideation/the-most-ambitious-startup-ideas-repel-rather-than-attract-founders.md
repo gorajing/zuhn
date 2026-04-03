@@ -57,6 +57,10 @@ related:
   - INS-260330-AB6E
   - INS-260330-66A0
   - INS-260330-6C68
+evidence:
+  - id: INS-260403-6890
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham observes that the relationship between startup idea quality and founder attraction is inverted at the top end. While moderately good ideas feel exciting, the truly massive opportunities — replacing email, building new search engines, transforming education — actively repel people. This happens because such ideas threaten the founder's identity: they force you to confront whether you're actually capable of executing something that enormous.
 

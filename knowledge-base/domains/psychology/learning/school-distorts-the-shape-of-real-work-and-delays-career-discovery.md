@@ -53,6 +53,13 @@ related:
   - INS-260329-9CED
   - INS-260402-8223
   - INS-260323-B497
+evidence:
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-B497
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham identifies two layers of fakeness that obscure real work: the distortion of subjects when adapted for classroom teaching, and the existence of entire fields that are inherently bogus or mere busywork. Students who only experience the school version of a subject may reject it entirely or pursue it for wrong reasons, never encountering the 'solidity' of real work.
 

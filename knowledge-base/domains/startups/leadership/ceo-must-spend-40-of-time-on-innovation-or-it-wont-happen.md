@@ -57,6 +57,13 @@ related:
   - INS-260329-24CE
   - INS-260325-0F4F
   - INS-260327-9830
+evidence:
+  - id: INS-260329-F04B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-7E6F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Alex Osterwalder argues that the CEO's time commitment to innovation is the primary bottleneck for corporate innovation success. This is fundamentally a power and symbolic question — if the most powerful person in the organization doesn't visibly prioritize innovation, middle managers will rationally deprioritize it too. The recommendation is explicit: 40% of CEO time on innovation, with someone in the C-suite at 100%. Companies like Logitech under Racken Darrell and Best Buy under Hubert Joly demonstrate that CEO-level commitment transforms innovation from theater into a growth engine. Without it, even well-funded programs become decorative.
 

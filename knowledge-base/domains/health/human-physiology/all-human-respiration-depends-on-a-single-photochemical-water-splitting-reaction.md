@@ -53,10 +53,10 @@ stance: >-
   path-dependent than it appears
 related:
   - INS-260330-956F
+  - PRI-260403-181B
   - INS-260330-B061
   - INS-260330-57E6
   - INS-260330-9231
-  - INS-260330-E497
 evidence:
   - id: INS-260330-9231
     type: EXTENDS

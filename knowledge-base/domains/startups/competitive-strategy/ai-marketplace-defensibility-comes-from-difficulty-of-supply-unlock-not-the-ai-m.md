@@ -50,6 +50,10 @@ related:
   - INS-260402-8595
   - PRI-260328-A4AC
   - PRI-260328-7E58
+evidence:
+  - id: INS-260325-040F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When AI capabilities are widely accessible through foundation model APIs, the AI itself cannot be a moat. The article uses Moov as an example — their defensibility comes from locating and evaluating manufacturing equipment condition, a process that was previously offline and inaccessible. The harder it is to bring supply online, the greater the barrier to replication.
 

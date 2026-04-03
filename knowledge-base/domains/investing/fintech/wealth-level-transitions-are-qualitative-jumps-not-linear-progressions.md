@@ -80,6 +80,9 @@ evidence:
   - id: INS-260330-9751
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-830F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The video maps five distinct wealth tiers, each with fundamentally different characteristics. At $200K income you're top 1% globally but still working and budget-conscious. At $10-30M your needs are met and no financial emergency can destroy you. At $30-100M you gain staff, multiple residences, and elite social access. At $100M-1B you can buy experiences and exclusivity that money alone can't access (private Louvre tours, celebrity tennis matches). At $1B+ you buy access, influence, time, and impact.
 

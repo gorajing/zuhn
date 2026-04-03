@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-5DD4
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260402-C4FF
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Jin describes a fundamental difference in competitive dynamics: in the US, if someone opens a coffee shop, the neighbor opens a bagel shop (differentiation). In China, if the coffee shop works, everyone opens the same coffee shop (replication). This creates extraordinarily intense competition on execution, price, and speed rather than positioning.
 

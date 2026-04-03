@@ -58,6 +58,19 @@ related:
   - INS-260325-8B36
   - INS-260325-11E9
   - INS-260327-7846
+evidence:
+  - id: INS-260325-11E9
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-73CB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-636B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-7846
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham dismantles the movie-plot version of career discovery where everyone has a calling they just need to find. He contrasts Mozart (early convergence) with Newton (restless exploration across math, physics, alchemy, and theology), arguing that attributing a single calling to Newton is hindsight bias. For people whose lives don't converge quickly, figuring out what to work on isn't a prelude to hard work but an ongoing, integral part of it.
 

@@ -56,6 +56,10 @@ related:
   - INS-260327-643E
   - INS-260330-BCC2
   - INS-260403-94C4
+evidence:
+  - id: INS-260403-94C4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 A.Team's biggest insight was that the best potential supply — top engineers, designers, and product people — weren't just passively absent from gig marketplaces. They were actively refusing to participate. The standard marketplace playbook of offering better rates or lower fees wouldn't have worked because the barrier wasn't economic — it was structural. The work was boring, solo, and unchallenging. No amount of better pricing fixes that.
 

@@ -19,11 +19,11 @@
 - `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
-- `INS-260330-4D8B` Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper.
-- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260327-7581` Focus on doing the work well rather than achieving the result, and the result takes care of itself.
+- `INS-260330-4D8B` Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper.
+- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260327-9447` Most people have never been adults - they've learned to perform the social behaviors associated with adulthood while remaining emotionally and psychologically undeveloped.
 - `INS-260330-202A` Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes.

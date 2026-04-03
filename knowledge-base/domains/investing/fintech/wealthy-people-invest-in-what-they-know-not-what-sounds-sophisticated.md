@@ -64,5 +64,8 @@ evidence:
   - id: INS-260402-FEA3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-710A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Ramsey's research into millionaires and billionaires revealed a counterintuitive pattern: wealthy people don't use sophisticated investment strategies — they invest heavily in what they already understand. A car dealer invests in classic cars, a farmer buys land, a business operator acquires businesses. This directly influenced Alex Hormozi's post-liquidity-event strategy, where he chose to invest in businesses (his domain) rather than real estate despite conventional wisdom. The practical implication is that the 'invest in what you know' principle isn't about simplicity for its own sake — it's about maintaining an information advantage that lets you correctly assess risk, which is the actual driver of risk-adjusted returns. 67% of Forbes 400 billionaires are first-generation, and over 90% of those built their wealth through business, not diversified portfolios.

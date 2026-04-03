@@ -66,5 +66,8 @@ evidence:
   - id: INS-260330-96FE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-6061
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Health: toxin elimination has a multi-year biological half-life -- fluoride in bones takes 20+ years to clear, heavy metals persist for decades, and endocrine disruptors bioaccumulate. A year of exposure can take a decade to undo. Psychology: early attachment programming runs silently beneath every adult relationship -- patterns installed in the first 3 years of life take decades of conscious work to modify, if they can be modified at all. Organizations: toxic culture persists long after the toxic leaders leave -- the behavioral norms, trust deficits, and learned helplessness they installed become self-reinforcing. The structural pattern: complex adaptive systems encode negative inputs into slow-changing substrates (bone, neural pathways, cultural norms) that persist far longer than the inputs themselves. This creates a fundamental asymmetry: damage accumulates fast and clears slowly. The practical implication across all domains: prevention is categorically more valuable than remediation, because the remediation timeline is orders of magnitude longer than the damage timeline.

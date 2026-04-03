@@ -56,6 +56,9 @@ evidence:
   - id: INS-260329-7192
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-710A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi advocates for skill stacking — developing proficiency (not mastery) across multiple complementary skills rather than pursuing extreme depth in one area. Someone who is top-20% in sales, writing, and data analysis occupies a much rarer niche than someone who is top-5% in just sales. The combinatorial math makes multi-skill profiles exponentially scarcer.
 

@@ -53,5 +53,9 @@ related:
 stance: >-
   Shrinkflation generates 3-5% revenue growth for years even as volumes decline,
   but there's a ceiling
+evidence:
+  - id: INS-260403-87AC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The mechanics: raise prices 6% annually, shrink portions, reformulate cheaper ingredients, kill niche products, harvest legacy brands on maintenance mode. This sustains revenue growth despite declining volumes for 5-8 years. But it's a one-way ratchet — you can't un-shrink once customers notice. Hershey's prices up 6% annually for a decade with no volume growth. General Mills boasts algorithms that calculate the exact threshold before customers defect. Kraft Heinz went furthest and broke first. The pattern is consistent across all four companies studied.

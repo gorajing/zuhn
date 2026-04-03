@@ -51,11 +51,11 @@ stance: >-
   consequential chemical reaction in Earth's biosphere, and understanding energy
   dependency chains reveals hidden fragility points
 related:
+  - PRI-260403-181B
   - INS-260330-BA7F
   - INS-260330-57E6
   - INS-260330-B061
   - INS-260330-9231
-  - INS-260330-BC56
 evidence:
   - id: INS-260330-9231
     type: SUPPORTS

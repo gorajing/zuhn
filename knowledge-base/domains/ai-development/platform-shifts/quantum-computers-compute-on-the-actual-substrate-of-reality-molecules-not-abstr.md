@@ -53,7 +53,6 @@ stance: >-
   processes like disease, chemistry, and biology that digital computers can only
   approximate.
 related:
-  - INS-260325-6A2C
   - INS-260325-1B3E
   - INS-260325-2069
   - INS-260325-0E70
@@ -63,6 +62,7 @@ related:
   - INS-260323-9774
   - INS-260323-0897
   - INS-260323-5199
+  - INS-260325-1F35
 evidence:
   - id: INS-260323-9774
     type: CHALLENGES

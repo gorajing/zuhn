@@ -7,8 +7,8 @@
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
-- `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
+- `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
 - `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
 - `INS-260323-581C` The fundamental driver of conflict in international politics is the inability to know another state's future intentions, making worst-case preparation rational.

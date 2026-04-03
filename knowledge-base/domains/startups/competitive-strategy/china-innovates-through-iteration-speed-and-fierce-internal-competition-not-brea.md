@@ -61,6 +61,10 @@ related:
   - PRI-260328-94D4
   - INS-260323-4457
   - INS-260322-5790
+evidence:
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Wang reframes Chinese innovation: the Silicon Valley model is Steve Jobs in a garage producing an Apple computer. The Chinese model treats the production process itself as innovation. With 50+ major automotive makers and 6-7 smartphone brands competing fiercely, the iteration speed is the advantage. American automakers take 6 years from concept to street; Chinese competitors do it in 18 months.
 

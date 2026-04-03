@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-D511
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-DFBC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 For centuries, human dissection was taboo across many societies. Galen (2nd century) had to perform vivisections on pigs to infer human anatomy. Da Vinci studied cadavers secretly until the pope stopped him. It wasn't until the 17th-18th centuries that regulated dissections were permitted, and they became so valued that grave-robbing became lucrative — until Britain's 1832 Anatomy Act provided legal cadavers.
 

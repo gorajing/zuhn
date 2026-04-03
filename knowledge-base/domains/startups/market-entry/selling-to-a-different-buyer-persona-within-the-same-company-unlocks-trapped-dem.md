@@ -61,6 +61,22 @@ related:
   - INS-260321-3BA8
   - INS-260322-8299
   - INS-260327-CC35
+evidence:
+  - id: INS-260321-52EF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-2EC6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-712D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-505A
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-BBCF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The entire outsourcing industry was built around a CFO mental model: contract workers save money. This created a race to the bottom on pricing and a self-fulfilling prophecy where only low-value work got outsourced. A.Team recognized that the same companies had a completely different mental model in their CEO and product leadership: they would pay premium prices for exceptional talent that accelerates innovation.
 

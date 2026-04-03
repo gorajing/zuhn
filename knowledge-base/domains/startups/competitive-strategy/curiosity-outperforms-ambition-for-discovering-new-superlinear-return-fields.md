@@ -54,6 +54,10 @@ related:
   - INS-260327-CFD5
   - INS-260330-0AE2
   - INS-260402-A94F
+evidence:
+  - id: INS-260330-0AE2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham distinguishes between ambition and curiosity as drivers of superlinear returns. Ambition tends to direct you toward climbing existing status hierarchies — known peaks with known competition. Curiosity, by contrast, pulls you toward interesting unsolved questions that may grow into entirely new fields. The most extreme superlinear returns come from expanding the territory of superlinear returns itself — discovering new fields rather than winning in established ones.
 

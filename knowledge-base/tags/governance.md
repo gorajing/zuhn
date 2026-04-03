@@ -9,8 +9,8 @@
 - `INS-260327-E382` Venice endured as a republic for over 1,000 years with 117 successive doges, while surrounding monarchies rose and fell with their dynasties.
 - `INS-260330-2AC0` Sovereign wealth funds combine massive capital pools with minimal oversight, making them uniquely exploitable for large-scale fraud.
 - `INS-260327-7C1A` Russia was founded by Viking traders who established fortified trading posts along rivers connecting the Baltic to Constantinople — the trade route became the state.
-- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
+- `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260330-7511` The Mandate of Heaven made political legitimacy conditional on moral performance, creating a recursive loop where failure itself became proof of illegitimacy.
 - `INS-260327-D480` In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
 - `INS-260326-0C14` Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.

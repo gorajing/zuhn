@@ -56,5 +56,12 @@ related:
   - INS-260402-CF0A
   - INS-260402-E60E
   - INS-260402-6D5E
+evidence:
+  - id: INS-260403-420A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-B906
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham makes a behavioral prediction: people driven to get rich are driven by the goal, not by any particular vehicle. If finance becomes less lucrative due to regulation, these same people will start companies instead — and they'll succeed because determination is the primary factor in startup success. This creates a paradox for inequality reduction: the more you close off zero-sum paths to wealth, the more talent flows into positive-sum wealth creation, which has no natural ceiling. A hedge fund has bounded upside; a technology company that creates a new market does not. The implication for startup strategy is that periods of regulatory tightening in traditional industries should produce a surge of high-quality founders entering the startup ecosystem, because the talent supply is being redirected rather than reduced.

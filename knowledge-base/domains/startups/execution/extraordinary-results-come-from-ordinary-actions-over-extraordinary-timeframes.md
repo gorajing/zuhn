@@ -60,5 +60,8 @@ evidence:
   - id: INS-260329-2B52
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-A06E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi describes his younger self as constantly seeking shortcuts and secret strategies, assuming successful people were hiding their real methods. The realization: they were telling the truth — they do basic things, just for decades. One workout set isn't impressive; 23 years of consistent training is. One sales call isn't extraordinary; thousands over years compound into mastery. This maps to the compounding curve — early returns look indistinguishable from zero, which is why most people quit during the flat part. The practical trap is that new opportunities constantly tempt you to reset your compounding clock. The discipline isn't in the action itself but in refusing to abandon it for something shinier.

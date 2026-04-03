@@ -196,9 +196,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -363,6 +363,7 @@ Generated on 2026-04-03 | 2421 sources
 | Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
 | Why Retention Breaks Startups and How to Fix It | blog | 5 | 2026-03-30 |
 | Why Startups Condense in America | blog | 5 | 2026-03-31 |
+| Why the VC Secondary Market Is Booming in 2025 | blog | 5 | 2026-03-30 |
 | Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
 | Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 5 | 2026-03-30 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
@@ -2339,7 +2340,6 @@ Generated on 2026-04-03 | 2421 sources
 | Why Starting With Solutions Always Fails | blog | 0 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 0 | 2026-03-31 |
 | Why the Real AI Risk Isn’t Superintelligence: A Final Look | blog | 0 | 2026-03-30 |
-| Why the VC Secondary Market Is Booming in 2025 | blog | 0 | 2026-03-30 |
 | Why There Aren't More Googles | blog | 0 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 0 | 2026-03-31 |
 | Why to Start a Startup in a Bad Economy | blog | 0 | 2026-03-31 |

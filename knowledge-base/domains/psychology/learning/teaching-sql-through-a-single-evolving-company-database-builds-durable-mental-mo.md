@@ -80,5 +80,8 @@ evidence:
   - id: INS-260329-4CFD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-26AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Rather than teaching SELECT with a fruit table, JOINs with a different pet table, and triggers with yet another example, this tutorial builds one company database (employees, branches, clients, suppliers) that accumulates complexity. Each new SQL concept is motivated by a real question about that company. This pedagogical approach works because learners build a rich mental model of one domain and see how SQL concepts layer on top of each other — JOINs aren't abstract set operations, they're 'which employee sold to which client.' The same principle applies to teaching any technical skill: a single evolving project teaches both the tools and how they compose, while isolated examples teach only syntax.
