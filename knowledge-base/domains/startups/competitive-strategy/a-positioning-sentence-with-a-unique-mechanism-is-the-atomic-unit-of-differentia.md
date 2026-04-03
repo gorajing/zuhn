@@ -58,7 +58,7 @@ related:
   - INS-260329-9098
   - INS-260329-EBBB
   - INS-260329-CEC5
-  - INS-260403-EF30
+  - INS-260403-D375
 ---
 Hormozi teaches that differentiation for a new business should be compressed into a single positioning sentence structured as: 'I help [specific avatar] achieve [specific outcome] in [specific timeframe] through [unique mechanism].' The unique mechanism is the critical differentiator — it is your proprietary name for your method, process, or framework that makes your approach feel distinct even if the underlying tactics are similar to competitors.
 

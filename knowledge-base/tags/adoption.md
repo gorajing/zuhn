@@ -10,6 +10,6 @@
 - `INS-260402-543E` Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
 - `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260325-02F2` The Copernican revolution took centuries to be fully absorbed; discovering alien life will likely follow the same slow integration pattern.
-- `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260330-D0AB` Paul's decision to drop circumcision and Jewish law requirements for converts removed the single biggest friction point and opened Christianity to the entire Roman world.
+- `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.

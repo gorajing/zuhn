@@ -44,11 +44,11 @@ resolutions:
     rigged. The structural moat isn't brand or product — it's physical
     infrastructure control built over 50+ years.
 related:
+  - INS-260403-8E25
   - INS-260327-B715
   - PRI-260328-5F64
   - PRI-260328-4CC0
   - INS-260330-0294
-  - INS-260323-9F61
 stance: >-
   Low-cost carriers (Southwest, JetBlue, Spirit) outperformed legacy airlines
   for a decade, but legacy carriers reclaimed dominance because hub-and-s...

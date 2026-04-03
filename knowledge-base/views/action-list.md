@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3115 actionable insights
+Generated on 2026-04-03 | 3121 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1505,6 +1505,7 @@ Generated on 2026-04-03 | 3115 actionable insights
 - [INS-260402-476E] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - [INS-260403-B12E] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - [INS-260403-0F95] Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
+- [INS-260403-3421] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1761,6 +1762,7 @@ Generated on 2026-04-03 | 3115 actionable insights
 - [INS-260330-76DA] Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - [INS-260403-280B] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
 - [INS-260403-EF30] Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
+- [INS-260403-D375] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2393,6 +2395,9 @@ Generated on 2026-04-03 | 3115 actionable insights
 - [INS-260403-17A3] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
 - [INS-260403-9D89] Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies.
 - [INS-260403-36DD] Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
+- [INS-260403-FF86] Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
+- [INS-260403-4337] In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
+- [INS-260403-AF27] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2766,6 +2771,7 @@ Generated on 2026-04-03 | 3115 actionable insights
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
 - [INS-260330-FE65] Every exponential growth curve is actually the early phase of a logistic (S-curve) that must eventually saturate, so the key question is always when and where the inflection point hits.
 - [INS-260402-BA91] Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.
+- [INS-260403-A6AF] A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.
 
 ## startups/problem-solving
 - [INS-260330-F8E7] Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch.

@@ -46,11 +46,11 @@ stance: >-
   Candidly explaining why previous investors rejected you is more effective than
   evasion because the best investors already expect most VCs to miss outliers
 related:
-  - INS-260325-9AD4
   - INS-260321-3521
   - INS-260327-5B30
+  - INS-260325-9AD4
+  - INS-260403-4337
   - INS-260330-1002
-  - INS-260330-A38C
 evidence:
   - id: INS-260325-9AD4
     type: TRANSFERS_TO

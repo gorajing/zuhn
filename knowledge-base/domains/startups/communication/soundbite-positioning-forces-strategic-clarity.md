@@ -48,12 +48,13 @@ stance: >-
   your plans are likely insufficiently focused—the exercise of finding the
   soundbite is itself a strategic diagnostic.
 related:
-  - INS-260329-5B18
   - INS-260330-3AF9
   - INS-260403-82CC
+  - INS-260403-AF27
   - INS-260327-D982
   - INS-260403-699B
   - INS-260402-CCF4
+  - INS-260403-D375
 ---
 Graham recommends launching a descriptive phrase early in your pitch that sticks in investors' heads—patterns like 'the X of Y' (Viaweb was 'the Microsoft Word of ecommerce'). Professional investors hear so many pitches that they blur together; the first cut is simply being remembered.
 

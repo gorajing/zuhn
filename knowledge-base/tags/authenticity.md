@@ -28,10 +28,10 @@
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260403-AC74` Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
+- `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
+- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
 - `INS-260322-BD0D` You can't market a company without a character, but the character must be real and sustainable — manufactured personas always collapse over time.
 - `INS-260321-5598` Professional CEOs trained to say nothing on stage now lose to founder CEOs interesting enough to fill 3 hours on Joe Rogan — the 80-year reign of synthetic corporate communication is over.
-- `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
-- `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward.
 - `INS-260327-F405` Giertz's products succeed not because they're technically superior but because they express genuine personality that creates emotional connection with users.
 - `INS-260330-5A82` Phil Knight failed at selling encyclopedias but effortlessly sold running shoes because customers sensed his genuine conviction in the product's superiority.
 - `INS-260327-4E36` 99% of salespeople sound the same -- the pattern interrupt (doing something genuinely different, specific, and human) is what makes prospects actually pay attention and remember you.

@@ -1,6 +1,6 @@
 # Topic: space-economy
 
-> 28 insights
+> 30 insights
 
 - `INS-260325-415A` [high] Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales.
 - `INS-260322-7A2F` [high] Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
@@ -13,6 +13,7 @@
 - `INS-260325-69CF` [high] SETI should technically be called SETT — Search for Extraterrestrial Technology — because we detect technology (narrow-band radio signals, laser pulses), not intelligence.
 - `INS-260325-40DC` [high] SETI is a misnomer — we search for technology (frequency-compressed radio signals or time-compressed optical pulses) because we cannot define or detect intelligence at interstellar distances.
 - `INS-260330-AF2A` [high] Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities.
+- `INS-260403-34A6` [high] Space launch cost reductions mirror containerization's 36x collapse, and Starship targets 500x — a magnitude that historically reshapes entire economies.
 - `INS-260325-9677` [high] The fact that Earth is not colonized by aliens proves no galaxy-spanning civilization exists, despite 13 billion years being more than enough time to colonize the Milky Way even at current spacecraft speeds.
 - `INS-260325-7973` [high] Hart's Fact A — no aliens cohabit Earth — rules out aggressive galaxy-spanning civilizations despite 13 billion years being enough to colonize everything even at Voyager speeds.
 - `INS-260325-82E8` [high] The Copernican principle works for features unrelated to life (like Neptune) but fails for life-dependent features due to anthropic selection bias.
@@ -28,5 +29,6 @@
 - `INS-260323-5955` [medium] Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
 - `INS-260327-969D` [medium] SpaceX doesn't grow like a software company — it accomplishes massive technical milestones every 5-7 years, each unlocking hundreds of billions in new value.
 - `INS-260325-4996` [medium] The Drake equation only multiplies narrowing filters, but the real calculation should also add up alternative paths to life that use different chemistry.
+- `INS-260403-CAE5` [medium] On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
 - `INS-260325-5ACA` [medium] The Venus phosphine discovery illustrates that detecting alien life will be forensic, not definitive — unexplained chemistry is a clue, not a conclusion.
 - `INS-260325-1709` [low] Phosphine detected in Venus's atmosphere cannot be explained by known chemistry, potentially indicating life in an environment previously considered impossible.

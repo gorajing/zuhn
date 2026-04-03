@@ -30,6 +30,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | youtube | 16 | 2026-03-30 |
 | Why Apple Fails in India (& Why it Matters) | youtube | 16 | 2026-03-30 |
 | GTC panel 2 | audio | 15 | 2026-03-25 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 15 | 2026-03-31 |
 | 14 Life Lessons I Wish I Knew Earlier | youtube | 15 | 2026-03-30 |
 | Brutally Honest Advice to My Younger Poorer Self | youtube | 15 | 2026-03-30 |
 | Fall of The Roman Empire...in the 15th Century: Crash Course World History #12 | youtube | 15 | 2026-03-30 |
@@ -61,7 +62,6 @@ Generated on 2026-04-03 | 2421 sources
 | Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI | youtube | 11 | 2026-03-21 |
 | Lecture 17 - How to Design Hardware Products (Hosain Rahman) | youtube | 11 | 2026-03-31 |
 | The surprisingly simple rules most investors break | Barry Ritholtz | youtube | 11 | 2026-03-25 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 10 | 2026-03-31 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
 | 13 Foods You Should NEVER Buy Organic | youtube | 10 | 2026-03-26 |
 | 14 Money Mistakes to AVOID in Your 20's | youtube | 10 | 2026-03-30 |
@@ -197,9 +197,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -333,6 +333,7 @@ Generated on 2026-04-03 | 2421 sources
 | Onion Theory of Risk for Startup Valuation and Funding | blog | 5 | 2026-03-30 |
 | OpenAI’s Product Lead on Winning AI Through Distribution | blog | 5 | 2026-03-30 |
 | Plentiful, high-paying jobs in the age of AI | blog | 5 | 2026-03-30 |
+| Ports, Rails, Roads, and Orbits | blog | 5 | 2026-03-31 |
 | Quotes | blog | 5 | 2026-03-31 |
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Real Estate's Hidden AI Revolution | blog | 5 | 2026-03-31 |
@@ -2064,7 +2065,6 @@ Generated on 2026-04-03 | 2421 sources
 | Persuade xor Discover | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
 | Political Backflow From Europe | blog | 0 | 2026-03-30 |
-| Ports, Rails, Roads, and Orbits | blog | 0 | 2026-03-31 |
 | Post-Medium Publishing | blog | 0 | 2026-03-31 |
 | Power | blog | 0 | 2026-03-31 |
 | Practice Safe Stablecoins | blog | 0 | 2026-03-31 |

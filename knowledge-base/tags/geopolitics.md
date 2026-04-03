@@ -14,6 +14,7 @@
 - `INS-260321-10FF` Saudi Arabia and Israel were sworn enemies for decades. Now they're aligning because both want to be core hub stations on IMEC. When economic interests change, the colors beneath the board change on their own.
 - `INS-260321-3EC0` When you invest in a country's stock market, you're placing a geopolitical bet on that country's future economic power relative to rivals — not just on individual companies.
 - `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
+- `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
 - `INS-260330-757E` States can use infrastructure projects to gradually absorb autonomous regions by making economic integration irreversible before political integration follows.
 - `INS-260323-17B5` El-Kurd demonstrates how legal systems can be constructed to legitimize displacement, drawing parallels to Jim Crow laws that were technically legal but morally bankrupt.
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.

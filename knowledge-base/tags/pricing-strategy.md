@@ -1,7 +1,7 @@
 # Tag: pricing-strategy
 
-- `INS-260322-E20E` AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
 - `INS-260320-00C2` When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
+- `INS-260322-E20E` AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
 - `INS-260327-470B` Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260324-DB86` Shrinkflation generates 3-5% revenue growth for years even as volumes decline, but there's a ceiling — Kraft Heinz hit it in 2019 with a $15B loss when customers stopped buying entirely.
 - `INS-260330-1B6E` Sticker price misleads—iPhone's 45% annual depreciation vs Samsung's 62% and Google's 81% means the premium product costs less to own per month.

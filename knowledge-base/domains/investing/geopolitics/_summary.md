@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 377 insights
+> 378 insights
 
 - `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
@@ -335,6 +335,7 @@
 - `INS-260327-E4A1` [medium] HMS Victory was enormously expensive to build and maintain but as Nelson's flagship at Trafalgar, it became a symbol of British naval power that generated value far beyond its material contribution.
 - `INS-260330-9BC4` [medium] Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
 - `INS-260330-97B3` [medium] Clear, credible 'cross this line and I'll hit you' deterrence often outperforms nuanced diplomatic strategies in preventing adversary escalation.
+- `INS-260403-8E25` [medium] The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
 - `INS-260327-1A9C` [medium] Rome's symbolic importance forced the Goths to commit their entire army to besiege it for over a year, while Belisarius needed only a small garrison to tie down 50,000 troops.
 - `INS-260327-70EF` [medium] Napoleon created many marshals for political reasons — rewarding loyalty, balancing factions — which diluted the rank and made it unreliable as an indicator of capability.
 - `INS-260321-A3A1` [medium] IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics highway routing goods from India through UAE, Saudi Arabia, and Israel to Europe — designed to completely bypass China's Belt and Road Initiative.

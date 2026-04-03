@@ -55,7 +55,6 @@ related:
   - INS-260330-478B
   - INS-260330-D644
   - INS-260330-870B
-  - INS-260403-F447
 evidence:
   - id: INS-260330-870B
     type: TRANSFERS_TO

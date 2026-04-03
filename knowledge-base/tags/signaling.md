@@ -7,4 +7,5 @@
 - `INS-260402-A2F1` When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
 - `INS-260403-0F95` Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.
+- `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.

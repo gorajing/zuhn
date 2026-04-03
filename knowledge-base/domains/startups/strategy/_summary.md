@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 147 insights
+> 148 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -89,6 +89,7 @@
 - `INS-260330-6ECA` [high] RuBisCo is a terrible enzyme that dominates Earth because plants committed to it before oxygen made it fail half the time, compensating with 40 billion tons of production instead of evolving a replacement.
 - `INS-260330-CBF8` [high] Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
 - `INS-260330-4489` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
+- `INS-260403-7BA1` [high] The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
 - `INS-260329-C6BB` [high] Start premium to fund the infrastructure needed for eventual mass-market scale.
 - `INS-260403-6428` [high] Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
 - `INS-260323-8966` [high] The Shapiro-Destiny debate demonstrates that two intelligent people with different foundational priors will interpret identical data points in opposite directions — shared evidence does not produce convergence.

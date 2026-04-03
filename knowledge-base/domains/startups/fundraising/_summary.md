@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 97 insights
+> 100 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -14,10 +14,12 @@
 - `INS-260330-0AA7` [high] Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260330-B6FA` [high] Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
 - `INS-260403-C625` [high] Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
+- `INS-260403-FF86` [high] Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
 - `INS-260403-1217` [high] Low startup costs align founder and investor risk appetites by letting founders diversify across multiple ventures over time.
 - `INS-260402-E522` [high] The only real leverage in fundraising is genuinely not needing the deal, which requires the kind of determination that can't be faked.
 - `INS-260330-DEBC` [high] Email all investors simultaneously but schedule meetings three weeks out during the same week — this creates deal heat, signals you're not desperate, and keeps fundraising from dragging on.
 - `INS-260330-6900` [high] Tell investors you're too busy building to meet for 2-3 weeks, then schedule all meetings in one concentrated week to create competition and signal confidence.
+- `INS-260403-4337` [high] In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260403-AC74` [high] Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - `INS-260322-8F80` [high] Flying to a city and stacking every investor and customer meeting into 2-3 days creates a forcing function where FOMO compounds — meetings multiply, terms improve, and nobody wants to miss the deal.
 - `INS-260403-1904` [high] Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
@@ -52,6 +54,7 @@
 - `INS-260403-4423` [high] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
 - `INS-260403-78B7` [high] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
+- `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-F3FF` [high] Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260403-86DB` [high] Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
 - `INS-260403-17A3` [high] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.

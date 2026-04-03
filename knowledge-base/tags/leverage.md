@@ -16,14 +16,14 @@
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
 - `INS-260327-178D` Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
 - `INS-260330-59BC` Singapore's lack of accountability let the PAP implement excellent policies efficiently, but the same lack of checks means a less benevolent successor could do permanent, lethal damage with no mechanism for removal.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260329-2242` Block your first 4-6 hours for the one thing that would make all other problems disappear.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260330-9BC3` A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260325-B206` When two operations turn out to be inverses (like integration and differentiation), knowing how to do one gives you the other for free.
 - `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
@@ -48,22 +48,23 @@
 - `INS-260329-FC6D` Two complementary skills compound disproportionately — sales + finance lets you raise billions; coding + marketing lets you build and distribute software solo.
 - `INS-260329-BC6C` Instead of 100 tactical optimizations, find the one big domino that makes them all irrelevant.
 - `INS-260327-CEE4` Work on problems where the effort you put in and the reward you get is disproportionate — not the hardest problems, the highest-leverage ones.
-- `INS-260330-CB30` A small reduction or increase in daily/weekly growth rate compounds into order-of-magnitude differences in outcomes, making growth rate the single highest-leverage metric.
-- `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
-- `INS-260330-05C7` Tiny growth rate differences compound into massive outcome gaps, making growth rate optimization the highest-leverage activity.
 - `INS-260330-B6FA` Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
 - `INS-260330-6204` Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
 - `INS-260330-376E` Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
 - `INS-260330-08FA` The strongest fundraising position is not needing the money — reach ramen profitability before raising.
-- `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
-- `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
+- `INS-260330-CB30` A small reduction or increase in daily/weekly growth rate compounds into order-of-magnitude differences in outcomes, making growth rate the single highest-leverage metric.
+- `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
+- `INS-260330-05C7` Tiny growth rate differences compound into massive outcome gaps, making growth rate optimization the highest-leverage activity.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
 - `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
+- `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
+- `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
 - `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
 - `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
 - `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
 - `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
+- `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260329-545B` Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
@@ -76,7 +77,6 @@
 - `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
-- `INS-260329-B194` Allen's breakthrough came from selling to agencies (who each had 50+ SMB clients) rather than individual small businesses, turning one pitch into a thousand customers.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.

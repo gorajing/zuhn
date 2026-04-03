@@ -1,5 +1,6 @@
 # Tag: historical-patterns
 
+- `INS-260403-34A6` Space launch cost reductions mirror containerization's 36x collapse, and Starship targets 500x — a magnitude that historically reshapes entire economies.
 - `INS-260330-4150` Great powers that spend more servicing debt than funding defense consistently lose their dominant position within a generation.
 - `INS-260325-7FE6` American history shows 80-year cycles of systemic collapse followed by 25-year innovation booms.
 - `INS-260323-874F` The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.

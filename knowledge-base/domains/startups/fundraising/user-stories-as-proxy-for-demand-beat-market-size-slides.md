@@ -49,11 +49,11 @@ stance: >-
   address the biggest early-stage fear: that nobody actually wants what you've
   built.
 related:
+  - INS-260403-3421
   - INS-260321-38EC
   - INS-260330-548B
   - INS-260323-8AB8
   - PRI-260321-558C
-  - INS-260330-1854
 ---
 Sequoia's Greg Mcadoo coined the concept of 'proxy for demand'—what are people doing now, using inadequate tools, that proves they need what you're making? This reframes validation from abstract market sizing to concrete behavioral evidence.
 

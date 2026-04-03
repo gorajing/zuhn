@@ -71,6 +71,9 @@
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
 - `INS-260329-7A6A` Zero-based vs one-based indexing confuses programmers because it contradicts deeply ingrained mathematical counting conventions, and the problem compounds in fields like quantum computing that try to please multiple conventions simultaneously.
 - `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.
+- `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.
+- `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
+- `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260323-FCBB` Sweeney spent 10-15,000 hours on hobby programming projects between ages 10-20 with no structured plan -- building compilers, databases, bulletin boards -- and every one of those skills became essential when building Unreal Engine years later.
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
@@ -92,6 +95,3 @@
 - `INS-260329-939E` CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
 - `INS-260329-1741` CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
 - `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
-- `INS-260323-5CE3` Blues, bebop, and other musical styles are languages with their own syntax; hearing bebop as a child (like Rick from his non-musician dad, or Flea from his jazz-bassist stepfather) creates fluency that teenage exposure cannot replicate.
-- `INS-260323-01A1` When learning guitar, start by learning songs you love rather than scales and theory — the struggle of figuring out songs by ear builds skills faster than abstract exercises, and keeps motivation alive.
-- `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.

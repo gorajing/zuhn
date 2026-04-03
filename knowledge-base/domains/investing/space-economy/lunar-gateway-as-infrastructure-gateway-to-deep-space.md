@@ -48,9 +48,9 @@ resolutions:
 related:
   - INS-260322-7A2F
   - INS-260330-03F7
+  - INS-260403-CAE5
+  - INS-260403-8E25
   - INS-260322-B8E6
-  - PRI-260328-0E23
-  - INS-260323-E74E
 stance: The Lunar Gateway is not just a moon station
 evidence:
   - id: INS-260330-03F7

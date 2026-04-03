@@ -55,12 +55,12 @@ related:
   - INS-260323-2AE2
   - INS-260325-BF84
   - INS-260323-FCC1
-  - INS-260320-080B
   - INS-260321-C14C
   - INS-260327-E63E
   - INS-260327-42F0
   - INS-260327-B5C9
   - INS-260327-6FFC
+  - INS-260327-D5B5
 stance: >-
   At Palantir, each critical product was built by the one person in the world
   who could have done it

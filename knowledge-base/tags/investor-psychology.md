@@ -2,6 +2,8 @@
 
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
+- `INS-260403-FF86` Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
+- `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.

@@ -44,13 +44,12 @@ resolutions:
     model (high cost, infrequent trips) to an operations model (amortized cost,
     regular activity).
 related:
-  - INS-260322-7A2F
   - INS-260322-3833
+  - INS-260403-CAE5
   - PRI-260328-0E23
   - INS-260323-F528
   - INS-260328-8445
   - INS-260330-2064
-  - INS-260330-6411
 stance: >-
   Orion's design for reuse across multiple Artemis missions fundamentally
   changes space economics from disposable to durable infrastructure.

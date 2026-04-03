@@ -15,3 +15,4 @@
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
+- `INS-260403-7BA1` The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.

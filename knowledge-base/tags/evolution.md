@@ -19,10 +19,10 @@
 - `INS-260330-4634` Dinosaurs dominated for 300 million years without developing intelligence, and without their extinction asteroid, mammals would still be rodents — proving intelligence is not evolution's inevitable destination.
 - `INS-260325-CB41` Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
 - `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
-- `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
+- `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-12D5` Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
 - `INS-260325-75A3` Evolution works like a staircase: random mutations create the rise, natural selection creates the run, and cumulative steps produce complexity humans struggle to intuit.
 - `INS-260330-F056` Humans evolved uniquely white scleras to make gaze direction obvious — a cooperative trade-off that predators cannot afford.

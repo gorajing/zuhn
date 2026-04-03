@@ -53,13 +53,12 @@ related:
   - INS-260327-5B30
   - INS-260328-F752
   - INS-260402-5974
-  - INS-260403-6F52
   - INS-260403-EE10
   - INS-260403-600F
+  - INS-260403-FF86
   - INS-260328-195E
   - INS-260321-3521
   - INS-260402-EEDB
-  - PRI-260403-26B9
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong and would change three times—the founders were experienced with prior exits, and their model was still crap. He invested anyway because that's expected at this stage.
 

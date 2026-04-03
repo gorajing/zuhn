@@ -48,10 +48,10 @@ resolutions:
     things are just a snack and snacks should remain snacks.
 related:
   - PRI-260322-DCDB
+  - INS-260403-D375
   - INS-260327-5D13
   - PRI-260321-558C
   - PRI-260328-1A2D
-  - PRI-260328-2E23
 stance: >-
   Timeless how-to content (like 'Good Product Manager Bad Product Manager')
   compounds in value while opinion pieces about market bubbles are forgotte...
