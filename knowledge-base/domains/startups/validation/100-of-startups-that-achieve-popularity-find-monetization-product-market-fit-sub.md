@@ -47,10 +47,10 @@ stance: >-
   success; business model sophistication without user love is worthless
 related:
   - INS-260403-99B1
+  - INS-260403-924B
   - INS-260327-FCCF
   - INS-260327-4434
   - INS-260330-1266
-  - INS-260327-80A8
 evidence:
   - id: INS-260327-4434
     type: CHALLENGES

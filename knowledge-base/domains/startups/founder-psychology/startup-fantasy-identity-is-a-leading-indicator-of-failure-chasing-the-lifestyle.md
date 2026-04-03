@@ -45,11 +45,11 @@ resolutions:
     BEFORE committing resources is a prerequisite that most startup advice skips
     entirely.
 related:
+  - INS-260403-9F9F
   - INS-260321-9A03
   - INS-260321-F446
   - INS-260327-A653
   - PRI-260328-E53E
-  - INS-260323-4D4E
   - INS-260330-E126
 stance: >-
   Founders who fantasize about being a tech billionaire rather than obsessing

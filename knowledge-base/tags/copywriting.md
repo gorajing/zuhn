@@ -6,3 +6,4 @@
 - `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
 - `INS-260329-E900` Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.
 - `INS-260327-04D8` Write each email to one specific person, put their actual name in the 'to' field, use emotional language ('I'd love to,' 'it would mean a lot'), then read it aloud -- anything you wouldn't say face-to-face should be rewritten.
+- `INS-260403-F4F6` Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.

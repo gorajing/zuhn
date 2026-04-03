@@ -48,7 +48,6 @@ stance: >-
   rarely killed by competitors that you can almost discount the possibility
   entirely
 related:
-  - INS-260321-141B
   - INS-260323-1494
   - INS-260330-01D5
   - INS-260330-D5BD

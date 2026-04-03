@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 1668 insights across 20 topics
+> 1669 insights across 20 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | decision-making | 44 | What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result. |
 | expertise | 34 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
 | focus | 159 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
-| founder-mindset | 14 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
+| founder-mindset | 15 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 18 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
 | group-dynamics | 32 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
 | learning | 217 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |

@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 183 insights
+> 184 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -77,6 +77,7 @@
 - `INS-260326-C657` [high] Teams lose critical information every day because members silently manage impressions rather than risk appearing ignorant or negative.
 - `INS-260327-FFA7` [high] In AI, waiting for perfection guarantees missing the window—launch rough and iterate with the technology.
 - `INS-260329-6020` [high] After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
+- `INS-260403-EFAF` [high] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 - `INS-260327-6F12` [high] The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
 - `INS-260327-4081` [high] Allocating AI intelligence effectively across your org is the new moat, like capital allocation was for Berkshire Hathaway.
 - `INS-260330-9A83` [high] Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.

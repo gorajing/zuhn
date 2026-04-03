@@ -50,12 +50,12 @@ stance: >-
   A team or organization's achievable outcomes are bounded by the span of its
   independent capabilities, not by the count of its resources
 related:
-  - INS-260321-E654
   - INS-260329-A57B
+  - INS-260403-924B
+  - INS-260321-E654
   - INS-260327-80A8
   - INS-260327-E2BC
   - INS-260322-CFB1
-  - INS-260330-AB6E
 ---
 In linear algebra, the span of vectors defines every point reachable through their combinations. Two vectors pointing the same direction span only a line, no matter how large they are — while two independent vectors span the entire plane. This maps directly to organizational strategy: hiring three people with identical skills gives you a line of capability, while three people with independent skills span a volume of possible outcomes.
 

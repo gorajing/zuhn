@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 81 insights
+> 85 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -29,6 +29,7 @@
 - `INS-260323-3436` [high] Everyone recognizes desktop clutter as a problem, but nobody's in enough pain to adopt a tool to solve it — recognizable problems and painful problems are completely different categories.
 - `INS-260327-CBCB` [high] Rajat worked as a waiter for a year — 16 hours a day inside restaurants — coding, testing the product with real users, and learning the industry from the inside.
 - `INS-260330-56AA` [high] LA validated shade balls with three $5 kiddie pools before spending $34M on 96 million balls — the cheapest test that could falsify the hypothesis.
+- `INS-260403-F4F6` [high] Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.
 - `INS-260403-58BB` [high] Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - `INS-260403-7E27` [high] Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
 - `INS-260330-D5BD` [high] Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
@@ -73,6 +74,8 @@
 - `INS-260402-D8E7` [medium] Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260323-A2E5` [medium] Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
 - `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
+- `INS-260403-3569` [medium] Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
+- `INS-260403-2718` [medium] Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
 - `INS-260329-6B2C` [medium] Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.
 - `INS-260403-508D` [medium] Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - `INS-260330-22D6` [medium] Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
@@ -80,6 +83,7 @@
 - `INS-260403-C228` [medium] A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260328-372B` [medium] Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.
 - `INS-260329-DFD1` [medium] TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.
+- `INS-260403-99D1` [medium] Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
 - `INS-260403-4CE7` [medium] Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.
 - `INS-260329-FB3F` [medium] TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
 - `INS-260323-09E4` [medium] When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.

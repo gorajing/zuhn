@@ -48,7 +48,6 @@ stance: >-
   at $30-100M net worth, people feel inadequate because their reference group
   shifts upward proportionally.
 related:
-  - INS-260327-FF64
   - INS-260327-D77C
   - INS-260329-5B3D
   - INS-260330-DA0B

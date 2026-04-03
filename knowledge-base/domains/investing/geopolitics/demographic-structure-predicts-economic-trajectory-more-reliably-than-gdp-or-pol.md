@@ -50,7 +50,6 @@ stance: >-
   year economic trajectory than current GDP growth, military power, or political
   leadership.
 related:
-  - INS-260327-725F
   - INS-260327-1F6A
   - INS-260327-7B16
   - INS-260330-0539

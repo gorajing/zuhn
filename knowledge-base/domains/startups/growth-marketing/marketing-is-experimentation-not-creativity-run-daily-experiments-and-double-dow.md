@@ -46,10 +46,10 @@ resolutions:
     experimentation beats planning.
 related:
   - PRI-260328-BDC2
+  - INS-260403-3569
   - INS-260329-AADB
   - INS-260329-AAD1
   - INS-260329-F6E1
-  - INS-260329-C8C7
 stance: >-
   Run daily marketing experiments, calculate cost-per-customer for each, and
   pour everything into the cheapest acquisition channel.

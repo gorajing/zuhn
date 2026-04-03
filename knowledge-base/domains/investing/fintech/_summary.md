@@ -1,9 +1,10 @@
 # Topic: fintech
 
-> 73 insights
+> 74 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
+- `INS-260403-14C7` [high] Better ML models achieving greater accuracy from smaller datasets allow startup marketplaces to match incumbent underwriting capabilities without decades of historical data.
 - `INS-260322-2D2F` [high] Financial fraud is growing 18-20% per year because AI-powered fraud (deepfakes, pig butchering, automated scams) is outpacing defensive AI tools.
 - `INS-260327-BB67` [high] Auto lending has become so fragmented across leases, subprime loans, buy-here-pay-here, and cross-collateralized products that even regulators admit they can't track total exposure.
 - `INS-260327-E72F` [high] Prediction markets threaten Robinhood and Coinbase because betting on elections and world events delivers the same dopamine hit as day trading but with more engaging narratives.

@@ -1,0 +1,68 @@
+---
+id: INS-260403-EB97
+domain: startups
+topic: fundraising
+title: Revenue growth slowdowns expose all accounting manipulation simultaneously
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - accounting
+  - financial-metrics
+  - growth
+  - due-diligence
+sources:
+  - type: blog
+    title: "How to Trick Investors & VCs \U0001F92B\U0001F4B0"
+    author:
+      - '@type': Person
+        name: OnlyCFO
+        url: 'https://substack.com/@onlycfo'
+        description: 'Finance, tech, and startups'
+        identifier: 'user:114529177'
+        sameAs:
+          - 'https://twitter.com/OnlyCFO'
+        image:
+          '@type': ImageObject
+          contentUrl: >-
+            https://substackcdn.com/image/fetch/$s_!i1Yq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85f91b83-2953-4631-9406-3534fba36bd4_546x442.jpeg
+          thumbnailUrl: >-
+            https://substackcdn.com/image/fetch/$s_!i1Yq!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85f91b83-2953-4631-9406-3534fba36bd4_546x442.jpeg
+    url: 'https://www.thevccorner.com/p/how-to-trick-investors-and-vcs'
+date_extracted: '2026-04-03'
+last_accessed: null
+access_count: 0
+indexed: false
+embedded: false
+resolutions:
+  one_line: >-
+    Revenue growth deceleration simultaneously exposes capitalized commissions,
+    deferred expenses, and inflated efficiency metrics that were hidden during
+    high-growth periods.
+  standard: >-
+    When companies grow fast, capitalized commissions and deferred R&D expenses
+    create an ever-widening gap between true costs and reported GAAP expenses.
+    New commissions on growing revenue get pushed to future periods, making
+    current CAC and efficiency metrics look artificially good. But when growth
+    slows, the pipeline reverses — old capitalized expenses keep flowing through
+    while new capitalization shrinks, causing a sudden and dramatic
+    deterioration in reported metrics.
+
+
+    This creates a dangerous asymmetry for investors: the faster a company grew,
+    the worse the snap-back when growth decelerates. Companies that appeared
+    most efficient during hypergrowth may actually have been accumulating the
+    largest hidden cost overhang. The practical implication is that due
+    diligence on fast-growing companies should always model what metrics would
+    look like at various growth deceleration scenarios, not just at current
+    trajectory.
+stance: >-
+  A slowdown in revenue growth is the single most reliable trigger that exposes
+  capitalized commission tricks, inflated efficiency metrics, and other
+  accounting shenanigans — meaning fast-growing companies can hide problems for
+  years until growth decelerates.
+---
+When companies grow fast, capitalized commissions and deferred R&D expenses create an ever-widening gap between true costs and reported GAAP expenses. New commissions on growing revenue get pushed to future periods, making current CAC and efficiency metrics look artificially good. But when growth slows, the pipeline reverses — old capitalized expenses keep flowing through while new capitalization shrinks, causing a sudden and dramatic deterioration in reported metrics.
+
+This creates a dangerous asymmetry for investors: the faster a company grew, the worse the snap-back when growth decelerates. Companies that appeared most efficient during hypergrowth may actually have been accumulating the largest hidden cost overhang. The practical implication is that due diligence on fast-growing companies should always model what metrics would look like at various growth deceleration scenarios, not just at current trajectory.

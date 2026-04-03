@@ -48,11 +48,10 @@ stance: >-
   equation.
 related:
   - INS-260326-870E
+  - INS-260403-9D89
   - PRI-260403-E097
   - INS-260403-498A
   - INS-260403-1217
-  - INS-260403-160A
-  - INS-260329-A01C
   - INS-260330-3138
 evidence:
   - id: INS-260330-3138

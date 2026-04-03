@@ -54,10 +54,10 @@ related:
   - INS-260327-3049
   - INS-260327-CF53
   - INS-260330-D6ED
+  - INS-260403-924B
   - INS-260330-1F25
   - INS-260403-DDFD
   - INS-260330-0346
-  - INS-260327-3A71
 ---
 Levie's core framework for spotting enterprise opportunities is measuring the gap between technological possibility and current practice. When Box launched, storage was plummeting in cost, browsers were advancing rapidly, and internet speeds were increasing — yet enterprises were still printing documents and using cabinets. That widening gap was the signal.
 

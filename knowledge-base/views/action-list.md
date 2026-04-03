@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3106 actionable insights
+Generated on 2026-04-03 | 3115 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1933,6 +1933,7 @@ Generated on 2026-04-03 | 3106 actionable insights
 - [INS-260403-8011] When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - [INS-260403-D62F] AI marketplace defensibility scales with the difficulty of organizing previously offline or fragmented supply, not model sophistication.
 - [INS-260403-97CA] Incumbents will always win the copilot game because they have the data and distribution; startups must leapfrog by eliminating workflows entirely.
+- [INS-260403-2074] If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2127,6 +2128,7 @@ Generated on 2026-04-03 | 3106 actionable insights
 - [INS-260402-C13F] Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
 - [INS-260402-7182] When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - [INS-260403-5514] The critical question for aspiring founders is not which technology to learn but whether they are producing things or just consuming them.
+- [INS-260403-EFAF] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2389,6 +2391,8 @@ Generated on 2026-04-03 | 3106 actionable insights
 - [INS-260403-600F] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - [INS-260403-F3FF] Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - [INS-260403-17A3] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
+- [INS-260403-9D89] Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies.
+- [INS-260403-36DD] Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2429,6 +2433,7 @@ Generated on 2026-04-03 | 3106 actionable insights
 - [INS-260403-EAC6] Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - [INS-260403-99B1] Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - [INS-260403-C161] Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
+- [INS-260403-D2A9] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -3271,6 +3276,10 @@ Generated on 2026-04-03 | 3106 actionable insights
 - [INS-260403-4CE7] Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.
 - [INS-260403-04FF] Technology-focused ventures must invest equal rigor in validating market assumptions as they do in technical R&D.
 - [INS-260403-BF09] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
+- [INS-260403-3569] Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
+- [INS-260403-2718] Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
+- [INS-260403-F4F6] Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.
+- [INS-260403-99D1] Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

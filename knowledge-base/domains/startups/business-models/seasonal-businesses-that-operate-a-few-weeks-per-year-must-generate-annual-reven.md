@@ -41,10 +41,10 @@ stance: >-
   or low attendance.
 related:
   - INS-260324-748A
+  - INS-260403-458A
   - INS-260327-A5F9
   - INS-260329-2EAA
   - PRI-260403-1D59
-  - INS-260327-889F
 ---
 Haunted house operators must generate an entire years revenue in 4-6 weeks, creating extreme operational intensity and high fixed-cost risk from weather or low attendance.
 

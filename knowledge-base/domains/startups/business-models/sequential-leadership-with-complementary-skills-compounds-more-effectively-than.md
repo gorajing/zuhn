@@ -54,14 +54,13 @@ stance: >-
   leader who does everything, because the foundation must be laid before the
   house can be built.
 related:
-  - INS-260324-8656
   - PRI-260328-EC3F
+  - INS-260324-8656
   - INS-260330-8156
   - INS-260327-5CB0
   - INS-260327-32B8
   - INS-260327-C900
   - INS-260327-968C
-  - INS-260327-E68D
   - INS-260329-9A8B
   - INS-260330-6D49
 evidence:

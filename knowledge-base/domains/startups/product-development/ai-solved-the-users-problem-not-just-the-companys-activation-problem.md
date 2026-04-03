@@ -56,7 +56,6 @@ related:
   - INS-260330-3A3E
   - INS-260329-4DBC
   - INS-260327-8C1C
-  - INS-260330-BF8F
 ---
 Gamma spent two years pre-AI with middling traction because 95% of users dropped off at the blank page. They initially saw AI as solving their activation metric problem by filling the blank page. But the deeper insight was that AI didn't just help users get started with Gamma; it solved the universal problem that makes presentations intimidating: the daunting process of outlining, structuring, designing, and formatting from scratch.
 

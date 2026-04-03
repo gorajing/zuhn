@@ -49,7 +49,6 @@ stance: >-
   permissive jurisdictions, lowering domestic Gini coefficients while losing
   economic dynamism.
 related:
-  - INS-260327-BA93
   - INS-260327-AB46
   - INS-260328-A417
   - INS-260330-D98E
@@ -59,6 +58,7 @@ related:
   - INS-260402-C030
   - INS-260403-0530
   - INS-260403-57FF
+  - INS-260403-830F
 evidence:
   - id: INS-260329-8329
     type: EXTENDS

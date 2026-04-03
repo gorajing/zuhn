@@ -50,7 +50,6 @@ stance: >-
   If your cohort retention curve does not flatten to a horizontal asymptote, no
   amount of growth tactics or virality will save the business.
 related:
-  - INS-260327-A5F9
   - INS-260330-D41A
   - INS-260330-78B1
   - INS-260330-37F6

@@ -53,9 +53,9 @@ related:
   - INS-260330-E670
   - INS-260402-4605
   - INS-260330-DD63
+  - INS-260403-924B
   - INS-260325-0F4F
   - INS-260324-C33C
-  - PRI-260328-A4AC
   - INS-260403-3F9C
 ---
 In heavily regulated industries with powerful incumbents (like real estate with the NAR), startups cannot attack the core head-on. Instead, innovation begins in underserved niches — vacation homes, commercial rent-to-own, micro-fractional investing — where incumbents have little presence and regulatory scrutiny is lighter. Over time, as these peripheral models prove viable and build network effects, they migrate inward toward the industry's core transactions.

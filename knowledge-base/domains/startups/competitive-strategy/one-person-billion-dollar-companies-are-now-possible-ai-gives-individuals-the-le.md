@@ -47,7 +47,6 @@ resolutions:
     now, the opportunity cost of not learning to leverage AI tools is growing
     exponentially.
 related:
-  - INS-260321-0CCD
   - INS-260325-ADF5
   - INS-260325-FADB
   - INS-260327-ACB3
@@ -57,6 +56,7 @@ related:
   - INS-260327-999C
   - INS-260327-63B5
   - INS-260327-1C7C
+  - INS-260327-9610
 stance: >-
   Altman believes AI tools now enable a single person to build a company worth
   over a billion dollars, delivering products that previously required t...

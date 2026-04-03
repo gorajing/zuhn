@@ -49,7 +49,6 @@ stance: >-
   Being embedded in a community of talented people working on related problems
   matters more than individual genius for producing great work
 related:
-  - INS-260320-8632
   - INS-260322-2B2D
   - INS-260323-2651
   - INS-260323-A494
@@ -59,6 +58,7 @@ related:
   - INS-260330-C8D7
   - INS-260330-E660
   - INS-260330-737B
+  - INS-260402-AA3F
 evidence:
   - id: INS-260320-8632
     type: CHALLENGES

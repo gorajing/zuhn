@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 20 insights
+> 21 insights
 
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
 - `INS-260403-CC4E` [high] Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
@@ -11,6 +11,7 @@
 - `INS-260402-C030` [high] A large single-language domestic market lets startups ship simpler MVPs by deferring internationalization.
 - `INS-260403-8A8B` [high] Top talent actively avoided gig platforms not because of low pay but because the work structure itself was fundamentally unappealing — boring solo tasks with no creative fulfillment.
 - `INS-260403-B6A0` [high] Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
+- `INS-260403-1284` [high] Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260330-3431` [high] Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-D071` [high] Apple's refusal to make cheaper phones caps India market share at ~1% despite massive demand.
 - `INS-260330-660A` [high] Apple's refusal to offer affordable tiers in India resulted in ~1% market share despite massive demand, showing premium-only strategies fail in price-sensitive markets.

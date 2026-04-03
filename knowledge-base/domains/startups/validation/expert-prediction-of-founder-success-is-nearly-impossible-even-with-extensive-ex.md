@@ -50,7 +50,6 @@ stance: >-
   and prior achievement have almost zero correlation with startup outcomes
 related:
   - INS-260323-3BA4
-  - INS-260321-E654
   - INS-260322-AF17
   - INS-260325-BE8A
   - INS-260326-870E
@@ -59,6 +58,7 @@ related:
   - INS-260327-E3D5
   - INS-260327-200C
   - INS-260327-3349
+  - INS-260328-982A
 evidence:
   - id: INS-260402-ED85
     type: SUPPORTS

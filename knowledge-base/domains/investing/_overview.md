@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 586 insights across 6 topics
+> 588 insights across 6 topics
 
 ## Topics
 
@@ -8,7 +8,7 @@
 | ----- | -------- | ------- |
 | ai-business-models | 46 | Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management. |
 | bubbles | 61 | About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains. |
-| fintech | 73 | Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential. |
+| fintech | 74 | Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential. |
 | geopolitics | 377 | The Bolsheviks seized power with a tiny force by capturing Petrograd's key infrastructure — the telegraph office, bridges, railway stations, and banks — rather than fighting the entire city. |
 | space-economy | 28 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
-| venture-capital | 1 | Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing. |
+| venture-capital | 2 | Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate. |

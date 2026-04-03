@@ -45,11 +45,11 @@ stance: >-
   regardless of how good their idea sounds.
 related:
   - INS-260320-93E1
+  - INS-260403-2074
   - INS-260327-A61B
   - INS-260323-FEDF
   - INS-260327-FA43
   - INS-260323-DE2B
-  - INS-260327-5CB0
 evidence:
   - id: INS-260320-93E1
     type: SUPPORTS

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 393 insights
+> 395 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -67,6 +67,7 @@
 - `INS-260402-FFB2` [high] Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.
 - `INS-260327-7AB5` [high] Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
 - `INS-260330-95F3` [high] Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
+- `INS-260403-2074` [high] If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260402-5E4E` [high] Computers slashed transaction costs, making networks of specialized companies outperform monolithic vertical integration.
 - `INS-260330-6088` [high] Extreme brand diversification neutralizes reputational risk by making the parent company invisible to consumers.
 - `INS-260330-E4B6` [high] Morgan's 'morganization' strategy turned fragmented railroads into profitable monopolies by merging competitors rather than outcompeting them.
@@ -369,6 +370,7 @@
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
 - `INS-260402-7E2A` [medium] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - `INS-260330-DCE1` [medium] Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
+- `INS-260403-6412` [medium] Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
 - `INS-260330-F116` [medium] The early Islamic empire's rapid territorial expansion was enabled by centuries of Byzantine-Sassanian warfare that left both empires depleted — plus plague weakening the Sassanians further.
 - `INS-260327-263F` [medium] As the sneaker market crashed, shop reputations collapsed from widespread bait-and-switch tactics, making Leo's in-person convention presence and honest dealing his primary competitive moat for securing inventory.
 - `INS-260330-8481` [medium] TikTok is not ByteDance's endgame — it's a distribution channel for expansion into e-commerce, gaming, streaming, enterprise software, education, fintech, and cloud services.

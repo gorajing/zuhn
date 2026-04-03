@@ -57,6 +57,7 @@ related:
   - INS-260330-6C35
   - INS-260330-CC49
   - PRI-260403-5DEA
+  - INS-260403-81BD
 ---
 Most founders see crowded marketplaces and assume the opportunity is gone. But network effects can asymptote — each new Uber driver barely reduces wait times, each new Upwork freelancer barely improves buyer experience. When this happens, the incumbent's original framing becomes a cage. A.Team saw that Fiverr and Upwork had asymptoted because their 'solo worker doing small tasks' model couldn't differentiate new entrants from existing ones, driving value toward zero.
 

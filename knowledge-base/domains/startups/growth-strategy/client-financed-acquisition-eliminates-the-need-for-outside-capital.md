@@ -45,7 +45,6 @@ stance: >-
   Businesses that recover customer acquisition cost within 30 days can scale
   indefinitely without external funding
 related:
-  - INS-260322-8F80
   - INS-260323-8165
   - INS-260327-07C9
   - INS-260329-E884
@@ -55,6 +54,7 @@ related:
   - INS-260329-CB2C
   - INS-260329-8B33
   - INS-260329-21AF
+  - INS-260329-196A
 evidence:
   - id: INS-260329-196A
     type: SUPPORTS

@@ -52,7 +52,7 @@ related:
   - INS-260402-B653
   - INS-260402-8424
   - INS-260403-160A
-  - INS-260403-1217
+  - INS-260403-CF7C
 ---
 Graham traces a causal chain: cheaper startups → founders need less money → founders have leverage → investors get less equity and control. Series A ownership has already crept from 40% to 20%, and he predicts the line will collapse further.
 

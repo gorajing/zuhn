@@ -49,7 +49,6 @@ stance: >-
   and when startup wealth is capped, founders rationally choose tenure-track or
   large-org careers instead
 related:
-  - INS-260329-C45C
   - INS-260402-8C0E
   - INS-260403-0530
   - INS-260402-E140

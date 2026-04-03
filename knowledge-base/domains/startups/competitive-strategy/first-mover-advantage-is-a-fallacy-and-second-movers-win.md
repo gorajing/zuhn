@@ -46,11 +46,11 @@ stance: >-
   learn from their mistakes and enter with better products and no legacy
   baggage.
 related:
-  - INS-260324-8FB4
   - INS-260330-255F
   - PRI-260323-1B96
+  - INS-260403-EFAF
   - INS-260323-4457
-  - PRI-260328-82BE
+  - INS-260324-8FB4
 evidence:
   - id: INS-260330-255F
     type: SUPPORTS
