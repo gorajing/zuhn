@@ -48,10 +48,10 @@ stance: >-
   reasoning and produces stronger learning than passive observation alone
 related:
   - INS-260323-2785
+  - INS-260403-9EB1
   - INS-260330-2F13
   - PRI-260327-5635
   - INS-260325-55D8
-  - INS-260330-59CE
   - INS-260330-C0D1
 evidence:
   - id: INS-260323-2785

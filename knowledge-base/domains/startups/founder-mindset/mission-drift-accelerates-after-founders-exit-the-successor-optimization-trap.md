@@ -47,8 +47,8 @@ stance: >-
 related:
   - INS-260322-047D
   - INS-260327-2A73
+  - INS-260403-7C88
   - INS-260327-3930
   - INS-260327-2B75
-  - INS-260327-1EC4
 ---
 Henry Nestlé created baby formula in his 50s to solve infant mortality — a genuine humanitarian problem. After he retired and sold the company, successive owners transformed the same product from life-saving supplement into an aggressively marketed replacement that caused infant deaths. This pattern — founder builds something good, exits, successors extract maximum value from the brand's goodwill — recurs across industries. The principal-agent problem intensifies when managers are incentivized on growth rather than mission fidelity. For founders planning exits, this argues for structural safeguards (mission-locked governance, benefit corp status, or golden shares) rather than trusting cultural continuity alone.

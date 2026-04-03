@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 2989 actionable insights
+Generated on 2026-04-03 | 2997 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -761,6 +761,7 @@ Generated on 2026-04-03 | 2989 actionable insights
 - [INS-260329-C4A4] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - [INS-260329-55DC] Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
 - [INS-260329-5414] Young people with small capital bases get dramatically higher ROI from skill investment than from financial markets.
+- [INS-260403-3CD0] Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
 
 ## investing/geopolitics
 - [INS-260321-D183] If US wins the cold war: S&P returns 8-10% annually. If China wins: China gives the US a soft landing (they need US consumption market), S&P returns ~5% annually. Either way, S&P has the highest expected value.
@@ -1050,6 +1051,7 @@ Generated on 2026-04-03 | 2989 actionable insights
 - [INS-260402-B66A] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - [INS-260402-9D7B] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 - [INS-260403-B9E5] Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
+- [INS-260403-34E0] Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1893,6 +1895,7 @@ Generated on 2026-04-03 | 2989 actionable insights
 - [INS-260402-45FA] Choosing unfamiliar but powerful technology creates advantages competitors can't even diagnose, let alone copy.
 - [INS-260402-7E2A] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - [INS-260403-600C] Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic.
+- [INS-260403-FE00] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2251,6 +2254,7 @@ Generated on 2026-04-03 | 2989 actionable insights
 - [INS-260402-ECB6] Don't let institutional roles define you — treat them as day jobs and reserve your identity for self-directed work.
 - [INS-260403-0406] Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
 - [INS-260403-805E] School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
+- [INS-260403-7C88] Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2324,6 +2328,7 @@ Generated on 2026-04-03 | 2989 actionable insights
 - [INS-260402-421B] Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
 - [INS-260402-2E19] Being ramen profitable — earning just enough to cover living expenses — gives founders more fundraising leverage than almost any other signal.
 - [INS-260402-5974] Founders should fit investor meetings into gaps in their development schedule, not fit development into gaps between investor meetings.
+- [INS-260403-1904] Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2560,6 +2565,8 @@ Generated on 2026-04-03 | 2989 actionable insights
 - [INS-260402-2CAF] Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - [INS-260402-EE6E] The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
 - [INS-260402-1414] Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
+- [INS-260403-699B] Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
+- [INS-260403-C9DC] The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2671,6 +2678,7 @@ Generated on 2026-04-03 | 2989 actionable insights
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - [INS-260402-15A7] Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.
+- [INS-260403-B6A0] Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.

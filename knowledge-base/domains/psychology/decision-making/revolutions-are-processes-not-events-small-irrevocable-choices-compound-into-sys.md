@@ -47,11 +47,11 @@ stance: >-
   Most transformative changes emerge from incremental, locally-rational
   decisions rather than deliberate revolutionary acts
 related:
+  - INS-260403-34E0
   - INS-260329-2AB9
   - PRI-260323-DC25
   - INS-260325-F500
   - INS-260323-7C3A
-  - INS-260330-4A16
 ---
 The agricultural revolution wasn't a conscious choice to transform civilization — it was thousands of independent communities making locally rational decisions to grow more food. No single farmer intended to create cities, inequality, or environmental destruction. This pattern recurs throughout history: individually sensible choices aggregate into irreversible systemic shifts.
 

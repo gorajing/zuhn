@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260327-7C67
   - INS-260327-DF8C
+  - INS-260403-FE00
   - PRI-260324-5F05
   - PRI-260328-F0B4
   - PRI-260328-BD81
-  - PRI-260324-DE71
 ---
 Graham draws a direct parallel between IBM's inability to fully commit to PCs (which threatened mainframes) and Microsoft's inability to fully commit to web-based software (which threatened Windows). Both companies saw the threat clearly — Microsoft was founded by someone who had personally exploited IBM's blind spot. Yet seeing the threat wasn't enough. The 'cash cow' creates gravitational pull: every strategic discussion bends toward protecting existing revenue. Graham calls it 'a damned heavy monkey on your back.' This is not a failure of intelligence but of organizational psychology — the very single-mindedness that built the monopoly becomes the constraint that prevents adapting away from it. For startups, this means incumbent awareness of your threat is not the danger; their ability to act on it is structurally limited.

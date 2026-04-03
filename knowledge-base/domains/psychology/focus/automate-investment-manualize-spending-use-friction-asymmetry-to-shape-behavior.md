@@ -50,10 +50,10 @@ stance: >-
   outperforms willpower-based budgeting.
 related:
   - INS-260329-FCE6
+  - INS-260403-34E0
   - INS-260322-760A
   - INS-260325-7B58
   - INS-260322-EDA4
-  - INS-260325-0688
 evidence:
   - id: INS-260322-760A
     type: SUPPORTS

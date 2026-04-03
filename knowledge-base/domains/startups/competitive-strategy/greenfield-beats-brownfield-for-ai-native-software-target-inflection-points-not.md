@@ -56,8 +56,8 @@ related:
   - INS-260330-66A0
   - INS-260402-CCF4
   - INS-260322-A892
-  - INS-260322-3E59
   - INS-260327-EAB0
+  - INS-260327-BA93
 stance: AI-native startups win most reliably at greenfield moments
 evidence:
   - id: INS-260321-807B

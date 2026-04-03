@@ -52,8 +52,8 @@ related:
   - PRI-260327-3BD9
   - INS-260329-EAFD
   - INS-260329-0F39
+  - INS-260403-699B
   - INS-260325-2944
-  - PRI-260328-27F7
 ---
 Gregersen's 'question burst' technique has two strict rules: no answering questions, and no explaining why you're asking them. These constraints are the mechanism, not a limitation. When people are freed from the obligation to justify or resolve their questions, they bypass the cognitive shortcut of anchoring on familiar solutions.
 

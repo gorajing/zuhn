@@ -51,14 +51,14 @@ stance: >-
 related:
   - INS-260321-6BA7
   - INS-260321-E471
-  - INS-260327-2661
   - INS-260327-E7A3
   - INS-260327-0B7C
   - INS-260327-6725
   - PRI-260328-04FA
   - INS-260329-ABD9
   - INS-260330-870B
-  - INS-260330-CC0F
+  - INS-260330-725F
+  - INS-260330-F737
 ---
 Graham argues that the space of startup ideas has been so thoroughly picked over that a startup generally has to work on something everyone else has overlooked. But this doesn't happen through conscious effort. Usually successful startups happen because the founders are sufficiently different from other people that ideas few others can see seem obvious to them. The innovation is unconscious at the moment of founding.
 

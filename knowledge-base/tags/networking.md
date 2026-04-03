@@ -1,13 +1,13 @@
 # Tag: networking
 
 - `INS-260327-0C4A` Network quality, not just GPU power, determines how many GPUs can effectively work together on a single AI workload.
-- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
-- `INS-260329-19EE` Events, masterminds, and networking carry enormous hidden costs beyond their time slots — they fragment focus and create ongoing obligations.
-- `INS-260327-019C` AI agents making warm intros via iMessage could democratize the 'who you know' advantage that privileged networks provide.
-- `INS-260320-F751` Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
-- `INS-260328-3FA4` Dalton was typecast as the 'music/consumer guy' when his real expertise was hiring, firing, growth, developer tools, and open source — founders should look at portfolios and operating history, not bios.
-- `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
-- `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
-- `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
 - `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds.
 - `INS-260329-90F4` HFT systems use kernel bypass (DPDK) and exchange co-location to eliminate OS-level network overhead and achieve microsecond latency.
+- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
+- `INS-260329-19EE` Events, masterminds, and networking carry enormous hidden costs beyond their time slots — they fragment focus and create ongoing obligations.
+- `INS-260320-F751` Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
+- `INS-260328-3FA4` Dalton was typecast as the 'music/consumer guy' when his real expertise was hiring, firing, growth, developer tools, and open source — founders should look at portfolios and operating history, not bios.
+- `INS-260327-019C` AI agents making warm intros via iMessage could democratize the 'who you know' advantage that privileged networks provide.
+- `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
+- `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
+- `INS-260330-CB2E` Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.

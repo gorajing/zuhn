@@ -46,6 +46,5 @@ related:
   - INS-260330-D5BD
   - PRI-260328-7E58
   - INS-260322-5790
-  - INS-260330-A9F0
 ---
 When iPhones retain 55-68% of their value, rational consumers face a genuine choice between buying new or buying last year's model at a steep discount. This creates a paradox: the better Apple makes the iPhone, the harder it is to sell next year's model. Every quality improvement to the current generation becomes a competitive threat to the next one. This dynamic applies to any company selling durable goods with strong brand loyalty—luxury cars, high-end appliances, enterprise hardware. The strategic response is either planned obsolescence (which erodes brand trust) or pivoting revenue models away from unit sales entirely.

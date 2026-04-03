@@ -46,11 +46,11 @@ resolutions:
     an API for mobile location services (future). The company that Twitter
     acquired was the future-facing one.
 related:
+  - INS-260403-699B
   - INS-260322-A892
   - INS-260322-C472
   - INS-260330-548B
   - INS-260325-060A
-  - INS-260322-CFB1
 stance: >-
   The 'why now' question — what has changed that makes this company relevant
   today when it couldn't exist before — separates viable startups from ide...

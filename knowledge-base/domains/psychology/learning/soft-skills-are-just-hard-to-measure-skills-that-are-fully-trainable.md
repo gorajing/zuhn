@@ -45,7 +45,6 @@ stance: >-
   discrete micro-behaviors that can be systematically trained, not innate
   personality traits.
 related:
-  - INS-260320-F8FD
   - INS-260327-BEC7
   - INS-260327-BE49
   - PRI-260328-4313

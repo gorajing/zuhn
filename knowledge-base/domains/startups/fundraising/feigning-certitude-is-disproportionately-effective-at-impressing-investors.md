@@ -45,10 +45,10 @@ related:
   - INS-260328-982A
   - INS-260328-03BB
   - INS-260330-2CE5
-  - INS-260330-DDF0
   - INS-260330-725F
   - INS-260330-5EB6
   - INS-260402-E140
   - INS-260327-D982
+  - INS-260402-D739
 ---
 YC alumni were unanimous that fundraising success depended on investor psychology rather than business fundamentals. The degree to which feigning certitude impressed investors was the single most surprising finding for some founders. Graham identifies a recursive confidence game: LPs give money to VCs who seem confident, and VCs give money to founders who seem confident—creating two random linkages between actual startup quality and funding outcomes. This explains why luck plays such an outsized role in deals and why founders should assume they won't get money, taking any offered capital immediately rather than optimizing for better terms later.

@@ -52,9 +52,9 @@ related:
   - INS-260327-0519
   - INS-260329-C345
   - INS-260329-B1D0
+  - INS-260403-34E0
   - INS-260329-EB4B
   - INS-260325-0688
-  - INS-260329-18BB
 ---
 The mathematically optimal debt payoff strategy (avalanche method — highest interest first) saves more money in pure interest calculations. But Hormozi argues, consistent with behavioral economics research, that the debt snowball (smallest balance first) produces better real-world outcomes because it generates early wins that sustain motivation.
 

@@ -1,5 +1,5 @@
 # Tag: talent-attraction
 
+- `INS-260327-8BF6` The Abbasid Golden Age attracted scholars from every religion and ethnicity — Muslim, Christian, Jewish, Persian, Greek, Indian — because Baghdad was uniquely tolerant and welcoming of talent.
 - `INS-260330-D98E` Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
 - `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
-- `INS-260327-8BF6` The Abbasid Golden Age attracted scholars from every religion and ethnicity — Muslim, Christian, Jewish, Persian, Greek, Indian — because Baghdad was uniquely tolerant and welcoming of talent.

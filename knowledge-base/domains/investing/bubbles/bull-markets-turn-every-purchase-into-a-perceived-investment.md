@@ -49,7 +49,6 @@ stance: >-
 related:
   - INS-260323-750A
   - INS-260325-51E6
-  - INS-260325-9DBB
   - INS-260323-500B
   - INS-260325-9AD4
   - INS-260321-3EC0
@@ -57,6 +56,7 @@ related:
   - INS-260327-33E0
   - INS-260327-6D57
   - INS-260327-4C26
+  - INS-260402-EEDB
 evidence:
   - id: INS-260324-6345
     type: SUPPORTS

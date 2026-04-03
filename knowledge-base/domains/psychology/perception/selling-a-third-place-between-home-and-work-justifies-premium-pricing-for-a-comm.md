@@ -49,10 +49,10 @@ stance: >-
   paying for the experience and environment, not the product.
 related:
   - INS-260327-7EFD
+  - INS-260403-B6A0
   - INS-260327-F7C0
   - INS-260327-B772
   - INS-260322-1280
-  - INS-260327-8389
 ---
 Starbucks's pricing has nothing to do with coffee quality. The $6 latte is a $0.50 coffee with a $5.50 experience premium: comfortable seating, wifi, ambient music, the social permission to occupy space, and the ritual of a customized order. Starbucks sells belonging and routine, not caffeine.
 

@@ -54,11 +54,11 @@ stance: >-
   than explicit taxation because it faces no democratic accountability or
   rate-setting constraints.
 related:
-  - INS-260330-E43F
   - INS-260330-A98B
   - INS-260330-01D5
+  - INS-260403-FE00
   - INS-260327-714F
-  - INS-260330-1EAC
+  - INS-260330-E43F
 evidence:
   - id: INS-260330-E43F
     type: SUPPORTS

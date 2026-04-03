@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 277 insights
+> 278 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -135,6 +135,7 @@
 - `INS-260323-7F3E` [high] True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.
 - `INS-260402-FEA3` [high] The real world rewards nerds because scale lets niches cluster and real stakes make competence trump charisma.
 - `INS-260325-17BF` [high] Harvey's CEO reinvents the company every 4 months because AI capability shifts make any fixed plan obsolete within a quarter.
+- `INS-260403-7C88` [high] Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260329-388E` [high] Goodwill functions like a financial asset that compounds over time and generates measurable returns.
 - `INS-260322-1A20` [high] In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
 - `INS-260323-7AF7` [high] Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.

@@ -48,12 +48,12 @@ related:
   - INS-260325-BE8A
   - INS-260323-1307
   - INS-260327-0B7C
-  - INS-260327-D2F3
   - INS-260327-E3D5
   - PRI-260328-B11D
   - INS-260402-E140
   - INS-260326-291C
   - PRI-260328-3169
+  - INS-260403-7C88
 ---
 JC started Fuse at 19 and never went to college. His argument: being young provides naivete (you don't know enough to be discouraged) and stamina (you have the energy to sustain extraordinary intensity). Both of these advantages naturally decline with age and experience.
 

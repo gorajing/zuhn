@@ -50,8 +50,8 @@ related:
   - INS-260326-291C
   - INS-260330-CC0F
   - INS-260327-4DDE
+  - INS-260403-7C88
   - INS-260327-8254
-  - PRI-260323-1B96
 ---
 Richter describes a 'psychological fallacy' where founders must switch off their logical brain because they're working on problems nobody else sees. This isn't recklessness—it's a deliberate cognitive strategy. Rational analysis of novel markets will always conclude 'this won't work' because the evidence doesn't exist yet.
 

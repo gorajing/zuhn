@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260328-982A
   - INS-260402-E140
+  - INS-260403-C9DC
   - INS-260402-910C
   - INS-260330-5EB6
-  - INS-260326-967C
 ---
 The founders who were most successful in Standard Capital's process were those who hadn't yet entered the traditional fundraising game at all. They hadn't built pitch decks, hadn't started back-channeling with VCs, and hadn't run any competitive process. They simply applied and said 'if we get in, we're doing it.'
 

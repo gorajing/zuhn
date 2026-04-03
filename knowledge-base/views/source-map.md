@@ -196,9 +196,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -265,22 +265,28 @@ Generated on 2026-04-03 | 2421 sources
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
 | How Elad Gil Built a One-Person Multi-Billion Venture Machine | blog | 5 | 2026-03-30 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
+| How to Be an Angel Investor | blog | 5 | 2026-03-31 |
 | How to Do Great Work | blog | 5 | 2026-03-31 |
 | How to Do Philosophy | blog | 5 | 2026-03-31 |
 | How to Do What You Love | blog | 5 | 2026-03-31 |
+| How to Evaluate a Startup Exit: Signs, Metrics & Red Flags | blog | 5 | 2026-03-30 |
 | How to Fund a Startup | blog | 5 | 2026-03-31 |
 | How to Get Startup Ideas | blog | 5 | 2026-03-31 |
 | How to Make Wealth | blog | 5 | 2026-03-31 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
+| Ideas for Startups | blog | 5 | 2026-03-31 |
+| If AI is a weapon, why don't we regulate it like one? | blog | 5 | 2026-03-30 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
+| Onion Theory of Risk for Startup Valuation and Funding | blog | 5 | 2026-03-30 |
 | OpenAI’s Product Lead on Winning AI Through Distribution | blog | 5 | 2026-03-30 |
 | Plentiful, high-paying jobs in the age of AI | blog | 5 | 2026-03-30 |
 | Quotes | blog | 5 | 2026-03-31 |
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
+| Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
@@ -301,6 +307,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Other Road Ahead | blog | 5 | 2026-03-31 |
 | The Power of the Marginal | blog | 5 | 2026-03-31 |
 | The Refragmentation | blog | 5 | 2026-03-31 |
+| The Second-Time Founder Effect: How Experience Shapes Startup Success | blog | 5 | 2026-03-30 |
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | What Business Can Learn from Open Source | blog | 5 | 2026-03-31 |
@@ -1879,7 +1886,6 @@ Generated on 2026-04-03 | 2421 sources
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
 | How technology has already changed the world in my lifetime | blog | 0 | 2026-03-30 |
-| How to Be an Angel Investor | blog | 0 | 2026-03-31 |
 | How to Be an Expert in a Changing World | blog | 0 | 2026-03-31 |
 | How to Be Silicon Valley | blog | 0 | 2026-03-31 |
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 0 | 2026-03-30 |
@@ -1888,7 +1894,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
 | How to Convince Investors | blog | 0 | 2026-03-31 |
 | How to Disagree | blog | 0 | 2026-03-31 |
-| How to Evaluate a Startup Exit: Signs, Metrics & Red Flags | blog | 0 | 2026-03-30 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 0 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
@@ -1916,8 +1921,6 @@ Generated on 2026-04-03 | 2421 sources
 | How Venture Capital Became a Consensus Machine | blog | 0 | 2026-03-30 |
 | How Y Combinator Started | blog | 0 | 2026-03-31 |
 | How You Know | blog | 0 | 2026-03-31 |
-| Ideas for Startups | blog | 0 | 2026-03-31 |
-| If AI is a weapon, why don't we regulate it like one? | blog | 0 | 2026-03-30 |
 | Inequality and Risk | blog | 0 | 2026-03-31 |
 | Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 0 | 2026-03-30 |
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 0 | 2026-03-30 |
@@ -1984,7 +1987,6 @@ Generated on 2026-04-03 | 2421 sources
 | Novelty and Heresy | blog | 0 | 2026-03-31 |
 | NVIDIA and the $1T AI Buildout for the Agent Era | blog | 0 | 2026-03-30 |
 | One Year of The VC Corner: From 0 to 62,000 🚀 | blog | 0 | 2026-03-30 |
-| Onion Theory of Risk for Startup Valuation and Funding | blog | 0 | 2026-03-30 |
 | Open Hidden Open Thread 423.5 | blog | 0 | 2026-03-30 |
 | Open Thread 417 | blog | 0 | 2026-03-30 |
 | Open Thread 418 | blog | 0 | 2026-03-30 |
@@ -2039,7 +2041,6 @@ Generated on 2026-04-03 | 2421 sources
 | Roundup #76: Great Powers acting stupid | blog | 0 | 2026-03-30 |
 | Roundup #77: The Fix-Everything Button | blog | 0 | 2026-03-30 |
 | Roundup #78: Roboliberalism | blog | 0 | 2026-03-30 |
-| Roundup #79: The revenge of macroeconomics | blog | 0 | 2026-03-30 |
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 0 | 2026-03-30 |
@@ -2207,7 +2208,6 @@ Generated on 2026-04-03 | 2421 sources
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
 | The SaaS Reset: Why the 10x ARR Club Is Now a Ghost Town | blog | 0 | 2026-03-30 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 0 | 2026-03-31 |
-| The Second-Time Founder Effect: How Experience Shapes Startup Success | blog | 0 | 2026-03-30 |
 | The Secret Strategy of Stealth Startups | blog | 0 | 2026-03-30 |
 | The Secrets of Stealth Startups 🔒🤐 | blog | 0 | 2026-03-30 |
 | The Sequoia Playbook: How VC Discipline Compounds Returns | blog | 0 | 2026-03-30 |

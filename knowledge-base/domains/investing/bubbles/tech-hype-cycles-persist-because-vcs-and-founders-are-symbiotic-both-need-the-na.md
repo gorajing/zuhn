@@ -55,10 +55,10 @@ stance: >-
   upside of one massive win justifies tolerating hundreds of failures.
 related:
   - INS-260323-1975
+  - INS-260403-7C88
   - INS-260326-967C
   - INS-260327-FCCF
   - INS-260330-5A0A
-  - INS-260402-D739
 evidence:
   - id: INS-260323-1975
     type: CHALLENGES

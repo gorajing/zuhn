@@ -54,7 +54,6 @@ stance: >-
   strategic error.
 related:
   - INS-260321-E5C5
-  - INS-260321-3660
   - INS-260322-92D7
   - INS-260330-AB6E
   - INS-260330-66A0
@@ -63,6 +62,7 @@ related:
   - PRI-260323-1B96
   - INS-260327-E992
   - INS-260328-A9D2
+  - INS-260402-66A5
 ---
 Among the 10 evaluation questions for startup ideas, the speaker singles out founder-market fit as the single most important. The example is PlanGrid: Tracy knew construction, Ralph was an excellent developer — the team was obviously right for building an iPad app for construction blueprints.
 

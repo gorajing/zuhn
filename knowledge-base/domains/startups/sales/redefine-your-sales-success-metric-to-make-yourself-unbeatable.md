@@ -58,7 +58,7 @@ related:
   - INS-260329-E96A
   - INS-260327-B18F
   - INS-260328-B233
-  - PRI-260328-E921
+  - INS-260403-3CD0
 ---
 Hormozi argues that the highest-performing salespeople redefine what winning means: instead of measuring 'did they buy,' they measure 'did I help them make a decision and own their power.' This means you can win every single sales conversation because the metric is fully within your control.
 

@@ -60,6 +60,7 @@ related:
   - INS-260327-484F
   - PRI-260328-82BE
   - INS-260330-D5BD
+  - INS-260403-B6A0
 ---
 When asked why Jawbone hadn't made headphones, Rahman outlined a disciplined framework for category entry: the market must be ready, the technology base must be ready, and the company must have the right capabilities to synthesize everything. Missing any one of these means waiting, even if the opportunity looks attractive. The bar for entry is making the experience 'an order of magnitude or two orders of magnitude' better than what exists.
 
