@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 2445 insights across 33 topics
+> 2450 insights across 33 topics
 
 ## Topics
 
@@ -14,7 +14,7 @@
 | competitive-strategy | 391 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 30 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
-| engineering | 12 | Building height is capped by when base materials crush under their own weight, making material science the true bottleneck. |
+| engineering | 17 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
 | execution | 182 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 280 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
 | founder-psychology | 45 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |

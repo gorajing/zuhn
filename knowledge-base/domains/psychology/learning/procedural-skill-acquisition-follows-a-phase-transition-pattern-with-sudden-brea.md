@@ -46,9 +46,9 @@ stance: >-
   breakthroughs rather than gradual linear improvement
 related:
   - INS-260330-0B0B
+  - PRI-260403-35FE
   - INS-260330-8134
   - INS-260330-7B62
   - INS-260330-0EF6
-  - INS-260330-9471
 ---
 Destin practiced 5 minutes daily for 8 months with essentially no improvement. Then one day, without any identifiable change in approach, he could suddenly ride the backwards bike. He describes feeling a 'pathway in his brain that was now unlocked.' This matches the phase-transition model of learning: the brain is building neural infrastructure below the threshold of observable performance until a critical mass is reached, at which point capability emerges suddenly. This has practical implications for anyone learning complex skills — progress is invisible for extended periods, and the temptation to quit during the plateau phase is immense. The breakthrough, when it comes, feels instantaneous and binary rather than gradual.

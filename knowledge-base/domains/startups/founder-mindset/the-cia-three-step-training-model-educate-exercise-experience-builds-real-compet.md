@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260325-B50B
   - INS-260323-D400
+  - PRI-260403-0509
   - INS-260329-656B
   - INS-260329-9A58
-  - INS-260403-CBB0
 evidence:
   - id: INS-260323-D400
     type: SUPPORTS

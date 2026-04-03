@@ -2,8 +2,8 @@
 
 - `INS-260329-5094` Spreadsheet decision matrices force you to name your criteria and weights before evaluating options, which counteracts gut-feel bias.
 - `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
-- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
 - `INS-260330-2EF0` Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
+- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
 - `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260325-33DA` Each person constructs their own unique perceptual world, but consciousness feels so transparent that we assume others experience the same reality we do.
@@ -44,6 +44,6 @@
 - `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
 - `INS-260329-D913` Everyone who has ever handled an unexpected bill has proven they can be resourceful — they just choose not to be when the beneficiary is themselves.
 - `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
-- `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260330-697F` Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.
+- `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260330-FFDB` When real users request specific features, the feedback feels overwhelmingly compelling but leads to building the wrong things.

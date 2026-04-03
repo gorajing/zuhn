@@ -196,9 +196,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -320,6 +320,7 @@ Generated on 2026-04-03 | 2421 sources
 | SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
 | Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save or Sink Your Company | blog | 5 | 2026-03-30 |
+| Succinctness is Power | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
 | Survivorship Bias Is Killing Founders' Judgment—Here’s the Fix | blog | 5 | 2026-03-30 |
@@ -362,6 +363,7 @@ Generated on 2026-04-03 | 2421 sources
 | What You Can't Say | blog | 5 | 2026-03-31 |
 | What You'll Wish You'd Known | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
+| Where does a liberal go from here? | blog | 5 | 2026-03-30 |
 | Where To Build Your Startup | blog | 5 | 2026-03-31 |
 | Why does America feel worse than other countries? Crime. | blog | 5 | 2026-03-30 |
 | Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
@@ -2120,7 +2122,6 @@ Generated on 2026-04-03 | 2421 sources
 | Stuff | blog | 0 | 2026-03-31 |
 | Subject: Airbnb | blog | 0 | 2026-03-31 |
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
-| Succinctness is Power | blog | 0 | 2026-03-31 |
 | Support Your Local Collaborator | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 0 | 2026-03-30 |
@@ -2318,7 +2319,6 @@ Generated on 2026-04-03 | 2421 sources
 | What We Look for in Founders | blog | 0 | 2026-03-31 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
 | When To Do What You Love | blog | 0 | 2026-03-31 |
-| Where does a liberal go from here? | blog | 0 | 2026-03-30 |
 | Where to See Silicon Valley | blog | 0 | 2026-03-31 |
 | Where VCs Are Betting on AI in 2025 | blog | 0 | 2026-03-30 |
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |

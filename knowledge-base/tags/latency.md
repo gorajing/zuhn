@@ -12,6 +12,6 @@
 - `INS-260329-90F4` HFT systems use kernel bypass (DPDK) and exchange co-location to eliminate OS-level network overhead and achieve microsecond latency.
 - `INS-260329-71DE` HFT event pipelines use lock-free queues because even minimal thread locking creates latency spikes that cost money.
 - `INS-260329-4696` Batching operations increases total system throughput by amortizing overhead, but each individual request waits longer — you cannot optimize both simultaneously.
+- `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
 - `INS-260329-1DE0` Cut delivery time in half or add priority access to create a premium tier that wealthy buyers prefer over larger promises.
 - `INS-260329-4B07` Cut delivery time rather than increase promised results — latency reduction is the strongest purchase motivator.
-- `INS-260329-50D5` TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).

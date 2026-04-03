@@ -1,11 +1,11 @@
 # Tag: persistence
 
 - `INS-260320-06EF` Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
+- `INS-260327-7DBC` With zero credibility, the Diary of a CEO team messaged 1,000 people per week to book guests — pure numbers game persistence drove them from 8K to 13M subscribers.
 - `INS-260327-3FC7` Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
 - `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
 - `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
 - `INS-260329-A077` Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
-- `INS-260327-7DBC` With zero credibility, the Diary of a CEO team messaged 1,000 people per week to book guests — pure numbers game persistence drove them from 8K to 13M subscribers.
 - `INS-260327-51C2` I can't go on. I'll go on. - Beckett's most important insight is that persistence doesn't require hope, meaning, or expectation of success.
 - `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
 - `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.

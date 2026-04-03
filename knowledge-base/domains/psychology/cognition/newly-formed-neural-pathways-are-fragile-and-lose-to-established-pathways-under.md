@@ -50,11 +50,9 @@ stance: >-
   instantly overridden by older established neural pathways whenever attention
   is divided or cognitive load increases.
 related:
-  - INS-260327-6017
   - INS-260330-27CA
   - INS-260330-FE49
   - INS-260330-B047
-  - INS-260330-8134
   - INS-260330-0930
   - INS-260330-6620
   - INS-260330-885C

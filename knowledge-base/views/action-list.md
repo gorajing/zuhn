@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3047 actionable insights
+Generated on 2026-04-03 | 3049 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1955,6 +1955,8 @@ Generated on 2026-04-03 | 3047 actionable insights
 - [INS-260330-19F1] Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss.
 - [INS-260402-7999] Great software is written by sketching and refining, not by executing a pre-completed blueprint.
 - [INS-260402-C664] Having great hackers build internal tools while less elite developers build applications retains top talent without exposing them to soul-crushing user requirements.
+- [INS-260403-EA2C] Programmer throughput is constant in lines/day, so more succinct languages directly multiply output.
+- [INS-260403-410A] Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 
 ## startups/execution
 - [INS-260323-CB34] Founders who try to be every team member stifle company growth and drain energy from the entire organization.

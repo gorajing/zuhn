@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260330-4C26
   - INS-260330-8134
+  - PRI-260403-35FE
   - INS-260330-7B62
   - INS-260330-0EF6
-  - INS-260330-617A
 ---
 Destin practiced 5 minutes daily for 8 months with consistent failure, then one day 'a pathway unlocked' and he could ride. His son showed the same pattern — struggling for two weeks, then a visible 'click' moment captured on camera. This is consistent with neural network learning theory where weight adjustments accumulate below a performance threshold until a tipping point creates a new stable attractor state. The practical implication is that skill plateaus are misleading — the absence of visible progress doesn't mean learning isn't happening. This has direct applications to any complex skill acquisition: language learning, musical instruments, programming paradigms. The key is sustained practice through the plateau rather than abandoning when progress appears to stall.

@@ -48,12 +48,12 @@ stance: >-
   and retention than presenting the concept first and then showing applications
 related:
   - INS-260322-A9DE
-  - INS-260327-BF43
   - INS-260329-2349
   - INS-260329-153F
+  - PRI-260403-0509
   - INS-260329-72D5
+  - INS-260327-BF43
   - INS-260329-5AC5
-  - INS-260329-9A58
 evidence:
   - id: INS-260329-5AC5
     type: SUPPORTS

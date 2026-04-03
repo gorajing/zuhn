@@ -10,6 +10,7 @@
 - `INS-260330-D63D` At near-light speeds, Lorentz contraction literally flattens Earth into a disc, demonstrating that 'objective shape' depends on the observer's reference frame — a physical fact, not mere perspective.
 - `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
+- `INS-260327-62AB` Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - `INS-260327-F4CB` Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
 - `INS-260327-02CF` A hospital can't fill a doctor role at $80K and calls it a 'skills gap' when the actual gap is between what they're offering and what the market demands.
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
@@ -24,7 +25,6 @@
 - `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
 - `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
 - `INS-260330-0BC2` Scales measure force but display mass units, and weight is mutual — Earth weighs 180 pounds on you just as you weigh 180 pounds on Earth.
-- `INS-260327-62AB` Instagram told Andrews her reel was 'overperforming in follows' — but she measured success by conversation quality, which was poor, so it was a failure.
 - `INS-260323-189B` Edgerton's single-frame strobe technique from the 1930s produces sharper images than a modern 20,000 FPS camera because it sacrifices all temporal resolution for maximum spatial resolution.
 - `INS-260325-2999` fMRI gives spatial detail but loses time; EEG captures millisecond timing but low resolution; direct electrode recording is precise but covers tiny fractions of 86 billion neurons.
 - `INS-260330-464E` You can't improve what you can't make visible — invest in measurement tools matched to your specific phenomenon.

@@ -50,11 +50,11 @@ stance: >-
   being inherently difficult.
 related:
   - INS-260329-9CCF
+  - PRI-260403-F981
   - INS-260329-32DB
   - INS-260329-B6A6
   - INS-260327-24D2
   - INS-260329-72D5
-  - INS-260329-9A58
 evidence:
   - id: INS-260327-24D2
     type: TRANSFERS_TO

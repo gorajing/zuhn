@@ -48,7 +48,6 @@ stance: >-
 related:
   - INS-260320-A4BF
   - INS-260323-042C
-  - INS-260325-EF79
   - INS-260325-AEF5
   - INS-260327-9C56
   - INS-260327-B403
@@ -56,6 +55,7 @@ related:
   - INS-260329-3D28
   - INS-260329-7C59
   - INS-260329-30D7
+  - INS-260329-25FC
 evidence:
   - id: INS-260325-AEF5
     type: TRANSFERS_TO

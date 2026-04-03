@@ -1,8 +1,8 @@
 # Tag: mental-models
 
-- `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
+- `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260322-83D4` The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260330-5A2A` All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
 - `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
@@ -28,14 +28,17 @@
 - `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
-- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
-- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
+- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
+- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
+- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
+- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
+- `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260329-8067` Inversion thinking leverages evolutionary threat-detection to make behavior change stick.
@@ -48,9 +51,6 @@
 - `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
-- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
-- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
-- `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-91DD` CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
@@ -134,6 +134,8 @@
 - `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
 - `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
 - `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
+- `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
+- `INS-260329-28B0` At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260329-36D9` Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
@@ -164,8 +166,6 @@
 - `INS-260329-C089` Interpreting hopelessness as 'I don't know enough yet' rather than 'I can't' converts despair into a solvable problem.
 - `INS-260329-541A` Sadness is a knowledge deficit (no perceived options); anxiety is a prioritization deficit (too many options).
 - `INS-260329-0B76` Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
-- `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
-- `INS-260329-28B0` At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.

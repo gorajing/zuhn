@@ -9,4 +9,6 @@
 - `INS-260329-B2F4` Minimizing the gap between 'I want to learn' and 'I see my code do something' is the single highest-leverage optimization in programming education because most abandonment happens during setup, not during learning.
 - `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.
 - `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
+- `INS-260403-F9F0` When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.
+- `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - `INS-260330-C2C4` Web components promise framework-agnostic reusable elements, but the underlying browser API is so difficult that entire frameworks (Lit, Stencil) exist solely to make them palatable — revealing a gap between standard availability and standard usability.

@@ -20,10 +20,10 @@
 - `INS-260330-CBEF` At 10 users worry about reaching 100, not a million — necessity at each breaking point will force the right architectural decisions.
 - `INS-260330-B7B1` Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
 - `INS-260329-BE35` Your sharding key is a frozen prediction about usage patterns — choose wrong, and resharding a live database is one of the hardest problems in production engineering.
-- `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
 - `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
 - `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
 - `INS-260330-C658` Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
+- `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.
 - `INS-260330-48F2` RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260330-53A9` RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
 - `INS-260330-54ED` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.

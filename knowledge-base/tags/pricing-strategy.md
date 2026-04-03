@@ -21,6 +21,6 @@
 - `INS-260330-660A` Apple's refusal to offer affordable tiers in India resulted in ~1% market share despite massive demand, showing premium-only strategies fail in price-sensitive markets.
 - `INS-260330-7479` Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
 - `INS-260330-1D9D` Charge for your product as early as possible because paying customers give brutally honest feedback that free users won't.
+- `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260327-4DE7` Instead of free trials that provide no commitment or revenue, offer annual agreements with a 30-day satisfaction guarantee — the default becomes 'customer' rather than 'prospect.'
-- `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.

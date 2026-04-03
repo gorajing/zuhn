@@ -1,9 +1,9 @@
 # Tag: economics
 
-- `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
-- `INS-260321-52EF` Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-8637` Altman predicts compute becomes the world's most precious commodity, functioning as a new currency by end of decade.
 - `INS-260325-DAD7` Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
+- `INS-260322-59B9` The total percentage of jobs automated matters less than whether displacement happens gradually (manageable) or in a 6-month shock (potentially destabilizing).
+- `INS-260321-52EF` Software was scarce and expensive — AI making it cheaper unlocks massive latent demand (Jevons paradox). Like ATMs creating more bank branches and more tellers, not fewer.
 - `INS-260323-6C6F` Scaling laws hold across 13 orders of magnitude and won't stop, but inference-time scaling currently offers better ROI than making models bigger.
 - `INS-260325-F484` Moore's Law is sustained by a virtuous economic cycle where smaller transistors create bigger markets that fund more R&D — AI demand is currently renewing this cycle.
 - `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.

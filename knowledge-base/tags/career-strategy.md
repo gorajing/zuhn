@@ -3,9 +3,9 @@
 - `INS-260323-825F` The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
 - `INS-260327-768D` Bernadotte maintained connections across French political factions and eventually became King of Sweden by being useful to everyone without being fully committed to anyone.
 - `INS-260402-40D7` Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
+- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260330-2355` Harvard Business School's largest graduating cohorts systematically chase the last wave — junk bonds in 1989, tech in 1999, housing in 2006 — because competition feels like validation.
 - `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
-- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260329-C66E` Passion is a byproduct of getting good at something, not the prerequisite for starting.
 - `INS-260329-04CB` Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
 - `INS-260329-DDBC` Combining multiple top-20% skills creates rarer and more valuable professional profiles than deep specialization alone.
@@ -26,6 +26,6 @@
 - `INS-260327-CEE4` Work on problems where the effort you put in and the reward you get is disproportionate — not the hardest problems, the highest-leverage ones.
 - `INS-260327-31BD` Kisson wrote unsolicited internal case studies at Facebook that caught Zuckerberg's CPO's attention and got her promoted to HQ strategy.
 - `INS-260323-4DF1` Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
+- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
 - `INS-260329-B8C4` Provide tremendous unrequested value to 100 people and 1-5 will respond with opportunities — no transactional framing needed.
 - `INS-260327-A59A` Maggie left a senior director role at Webflow to become an individual contributor at 7-person OpenAI GTM because Kevin Egan's principle is true: if you get on a rocket ship, your career goes places you never imagined.
-- `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.

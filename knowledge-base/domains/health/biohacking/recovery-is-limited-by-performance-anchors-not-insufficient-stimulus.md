@@ -49,7 +49,6 @@ stance: >-
   capacity, making the first intervention removing brakes rather than pressing
   the accelerator.
 related:
-  - INS-260323-3ED8
   - INS-260330-293E
   - INS-260330-6C6B
   - INS-260325-5F3C

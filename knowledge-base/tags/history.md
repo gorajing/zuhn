@@ -1,7 +1,7 @@
 # Tag: history
 
-- `INS-260327-F608` You can't determine how complex something is by looking at it - you have to figure out the minimum number of steps it took to create it, which encodes its evolutionary history.
 - `INS-260322-5B1B` Socrates warned that writing would destroy memory; every new medium triggers the same fear, and humanity adapts every time.
+- `INS-260327-F608` You can't determine how complex something is by looking at it - you have to figure out the minimum number of steps it took to create it, which encodes its evolutionary history.
 - `INS-260330-2B4F` Morgan's two bailouts of the U.S. economy demonstrated that private financiers can fill institutional vacuums, but this concentrates dangerous power in unelected hands.
 - `INS-260330-B559` Germany and Japan chose land conquest over trade to solve food insecurity, and both were destroyed — trade integration consistently outperforms autarky.
 - `INS-260327-11AB` The 1910 Flexner Report systematically eliminated natural medicine from medical education to benefit pharmaceutical interests

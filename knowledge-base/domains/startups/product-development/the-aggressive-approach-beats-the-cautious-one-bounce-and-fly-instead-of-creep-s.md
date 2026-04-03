@@ -54,7 +54,7 @@ related:
   - INS-260323-7DAE
   - PRI-260328-9EC9
   - INS-260330-8304
-  - PRI-260323-0654
+  - PRI-260403-35FE
   - INS-260330-08D1
 stance: >-
   Boston Dynamics' breakthrough came from rejecting the safe, slow, static
