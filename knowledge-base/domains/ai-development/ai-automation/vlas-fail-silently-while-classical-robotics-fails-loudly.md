@@ -53,5 +53,9 @@ related:
 stance: >-
   Classical robotics systems fail loudly (joint limit hit, object not detected,
   planner infeasible)
+evidence:
+  - id: INS-260402-3C79
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 End-to-end training eliminates the explicit interfaces that make failure detection possible. In classical robotics, you can unit-test each stage: calibrate cameras → verify detection overlay → check actuators. With VLAs, camera extrinsics and joint parameters aren't isolated — the network learns spatial transforms end-to-end. The failure boundary is defined implicitly by the training distribution, not explicitly by an engineer. You can't issue recovery commands ('stop', 'move away') and expect them to override the trained behavioral prior. This is the same 'jaggedness' problem Tao describes for math AI — VLAs are either on-rails or producing confident nonsense.

@@ -46,6 +46,10 @@ related:
   - PRI-260328-7E58
   - INS-260329-C36D
   - INS-260327-0FD9
+evidence:
+  - id: INS-260329-C36D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpredictable and concentrated in spikes that are impossible to plan for operationally.
 

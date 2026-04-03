@@ -50,6 +50,10 @@ related:
   - INS-260323-BC61
   - INS-260323-47B0
   - INS-260325-36F0
+evidence:
+  - id: INS-260323-47B0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Orwell feared governments would ban information. Huxley feared people would be so overwhelmed with entertainment that they'd voluntarily stop seeking information. The social media age has proven Huxley right: nobody banned books, but reading rates have plummeted. Nobody restricted conversation, but meaningful dialogue has been replaced by content consumption.
 

@@ -58,5 +58,8 @@ evidence:
   - id: INS-260323-748A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-0BD3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Uber developed multiple covert intelligence systems: Greyball shadow-banned regulators and law enforcement from the app by cross-referencing location data, credit cards, and social media profiles. Hell tracked all Lyft drivers' positions using thousands of fake Lyft accounts, feeding data into targeted poaching campaigns. Heaven provided a god-view of all Uber drivers. They even recruited ex-CIA, NSA, and FBI employees to build corporate espionage capabilities. These systems gave Uber decisive information asymmetry — they knew exactly where competitors' drivers were, which drivers were dual-platform, and when regulators were trying to catch them. The lesson is uncomfortable: proprietary intelligence infrastructure can create enormous competitive advantages, but the eventual discovery of such systems creates equally enormous reputational and legal liabilities. Uber's tactics worked for years before exposure in 2017, by which point they were already legally operating in most cities.

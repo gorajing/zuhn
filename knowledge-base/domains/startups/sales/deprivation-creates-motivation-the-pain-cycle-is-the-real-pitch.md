@@ -59,6 +59,10 @@ related:
   - INS-260330-5ED4
   - INS-260328-C12D
   - INS-260330-D644
+evidence:
+  - id: INS-260330-D644
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Behavioral psychology principle: deprivation creates motivation. If you're hungry, you're motivated to eat. In sales, expanding the prospect's awareness of their deprivation -- what they've tried, what failed, how much they've spent, and the ongoing daily cost of inaction -- creates urgency that product features never can.
 

@@ -59,6 +59,9 @@ evidence:
   - id: INS-260330-A4A5
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-D8C7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Konyi reveals that the 12 feeling states aren't 12 independent qualities — they decompose into combinations of two fundamental dimensions. The 'five dimension' is clean, pure, neutral, sterile — present in degrees 1, 5, 2, and 4. The 'three dimension' is warm, sweet, glowing, vital — present in degrees 3, 6, and 7. Complex degrees blend both: degree 6 is 'three mixed with four' (warmth plus inward contraction); degree 7 is 'five plus three' (purity plus sweetness) with melancholic tension.
 

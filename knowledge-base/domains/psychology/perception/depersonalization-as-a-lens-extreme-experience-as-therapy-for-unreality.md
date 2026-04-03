@@ -56,6 +56,10 @@ related:
 stance: >-
   Callaghan uses gonzo journalism as a therapeutic mechanism for
   depersonalization disorder
+evidence:
+  - id: INS-260323-CD03
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Callaghan's HPPD causes persistent depersonalization (feeling you're not real) and derealization (feeling reality is an illusion). He discovered that immersive journalism — being on the front lines of riots, entering extreme subcultures, confronting dangerous situations — serves as therapy by confirming his existence through intensity of experience.
 

@@ -55,6 +55,10 @@ related:
   - INS-260330-D071
   - INS-260327-82AA
   - INS-260330-3431
+evidence:
+  - id: INS-260330-EBF6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Apple's experience in India demonstrates that premium brand positioning has hard limits in price-sensitive markets. With 75% of Indian smartphones selling under $250, the iPhone's $1,100+ price point makes it structurally inaccessible to the vast majority of consumers. Unlike China where a growing middle class could stretch for aspirational purchases, India's income distribution creates a ceiling that no amount of marketing or brand cachet can penetrate.
 

@@ -59,6 +59,10 @@ related:
   - INS-260330-17C3
   - INS-260330-49AE
   - INS-260330-A9DD
+evidence:
+  - id: INS-260325-1585
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Naval upgrades Miyamoto Musashi's ancient advice ('do not pursue pleasure for its own sake') for the modern context. The key difference is availability: Musashi didn't face unlimited processed food, internet pornography, or on-demand alcohol. Today's superstimuli are engineered to hijack reward circuits, creating desensitization that makes normal life feel inadequate.
 

@@ -53,6 +53,19 @@ related:
 stance: >-
   The most powerful thing you can do right now is not adding something to your
   life but cutting
+evidence:
+  - id: INS-260323-7C3A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-C91D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-A8D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260328-0345
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Manson observes we are drowning in options, information, commitments, and obligations — most of which we accepted without deliberation. The reflex is always to add: add a morning routine, add a supplement, add a course. But the highest-leverage move is subtraction.
 

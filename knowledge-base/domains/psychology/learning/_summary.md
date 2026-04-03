@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 209 insights
+> 213 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -117,6 +117,7 @@
 - `INS-260329-7A7F` [high] Delayed punishment or reward trains the behavior closest to the consequence, not the behavior you intended to shape.
 - `INS-260329-3CB6` [high] Master an existing system by exact replication first — earn the right to iterate by proving you can duplicate the original results.
 - `INS-260330-BCAF` [high] Extend your positive anticipation to encompass the full habit envelope — before, during, and after — rather than only celebrating completion.
+- `INS-260403-B7FA` [high] Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - `INS-260330-B904` [high] Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
 - `INS-260330-27A4` [high] Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.
 - `INS-260330-0B0B` [high] After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — a discrete phase transition.
@@ -148,6 +149,7 @@
 - `INS-260329-88AB` [high] Tutorial consumption creates passive familiarity that masquerades as competence until tested by independent creation.
 - `INS-260329-023F` [high] Real learning happens when you build projects without following a tutorial, forcing yourself to problem-solve independently.
 - `INS-260330-4E95` [high] Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
+- `INS-260403-41BC` [high] Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 - `INS-260329-A937` [medium] Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
 - `INS-260329-975C` [medium] Granular chapter structure gives learners constant progress signals and easy re-entry points, reducing the intimidation of long-form content.
 - `INS-260330-FE14` [medium] Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
@@ -179,6 +181,7 @@
 - `INS-260330-5DA6` [medium] Physics departments deliberately flunk most students in elementary physics, encouraged by engineering departments that don't want engineers building bridges that fall down — intentional difficulty filters for fundamental competence.
 - `INS-260330-233C` [medium] Certain enjoyable habits act as linchpins that neurochemically lower limbic friction for harder, unrelated habits throughout the day.
 - `INS-260402-F957` [medium] Hackers start original and get good; scientists start good and get original — requiring opposite educational models.
+- `INS-260403-CBB0` [medium] Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
 - `INS-260330-8F91` [medium] Memory operates on a Zipf-like distribution — a few experiences are retained strongly while most are forgotten entirely.
 - `INS-260329-438D` [medium] Motivation scales with the perceived gap between where you are and your reference point — change who you compare yourself to and you change your drive.
 - `INS-260330-C8ED` [medium] Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.
@@ -195,6 +198,7 @@
 - `INS-260330-B5BF` [medium] Your most authentic purpose signals come from pre-puberty childhood inclinations before social conditioning buried them.
 - `INS-260330-423B` [medium] Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260330-B784` [medium] Goggins compensates for ADHD by writing material repeatedly until each page becomes a retrievable visual image during tests.
+- `INS-260403-E9DD` [medium] Traditional education's emphasis on obedience and standardization produces wisdom at the expense of intelligence by suppressing the idiosyncratic interests that drive peak performance.
 - `INS-260330-2DB0` [medium] Reinventing concepts through play before formal study turns them into 'familiar friends' rather than arbitrary definitions.
 - `INS-260329-18BB` [medium] Marathon-format tutorials exploit commitment psychology — once a learner invests 30+ minutes, sunk cost and flow state reduce the probability of abandonment compared to a series where each video is a natural exit point.
 - `INS-260329-2ECE` [medium] Hormozi's call recording requirement reveals that reviewing your own recorded performance creates a feedback loop that live practice alone cannot match.

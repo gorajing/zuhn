@@ -50,6 +50,10 @@ related:
   - INS-260323-64A4
   - INS-260327-1845
   - INS-260323-9C11
+evidence:
+  - id: INS-260325-D9D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham argues that simplicity should be the default but rarely is, because creators instinctively add ornament to mask the absence of substance. Beginning writers adopt pompous tones, designers resort to swooshes, painters discover they're expressionists — all evasion. When you strip away decoration, you're forced to deliver substance.
 

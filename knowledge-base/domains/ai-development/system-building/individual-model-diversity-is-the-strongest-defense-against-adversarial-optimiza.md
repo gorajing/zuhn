@@ -55,6 +55,13 @@ related:
   - PRI-260328-0BE1
   - PRI-260321-14D8
   - INS-260402-1F41
+evidence:
+  - id: INS-260330-3AF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-1F41
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identified that network-level filters create a static obstacle that spammers can efficiently optimize against — companies like Assurance Systems already offered services to test spam against SpamAssassin. But individual filters trained on each user's actual mail create a fundamentally different adversarial landscape: there's no single filter to reverse-engineer.
 

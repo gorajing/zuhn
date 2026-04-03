@@ -58,5 +58,9 @@ related:
   - INS-260330-E263
   - INS-260327-50CE
   - INS-260329-8602
+evidence:
+  - id: INS-260329-8602
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Goodarzi explains why VCs are allergic to SMB and why so few companies succeed there. The magic, created by founder Scott Cook decades ago, starts with a counterintuitive reframing: SMB customers behave like consumers, act like consumers, and should be treated like consumers. The moment you label them 'business,' teams start thinking enterprise — complex features, enterprise sales, enterprise pricing. Instead, Intuit obsesses over narrow problems that two-three person shops actually face: getting customers, knowing which are profitable, getting paid, managing cash flow. Success requires the obsessive focus on consumer-grade simplicity for these narrow problems. The go-to-market corollary: CAC control comes from word of mouth and accountant referrals (the channel partner), not enterprise sales motions. Where they've built network effects (US, Canada, UK), CAC stays under control. New markets without network effects have high CAC until the flywheel starts.

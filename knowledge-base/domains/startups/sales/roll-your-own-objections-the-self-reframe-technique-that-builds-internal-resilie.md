@@ -66,6 +66,10 @@ related:
   - INS-260329-B604
   - INS-260329-E598
   - INS-260329-116A
+evidence:
+  - id: INS-260327-E07D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Shelby identifies a powerful meta-skill: when you practice reframing other people's objections in sales (turning 'I can't afford it' into 'what's the cost of not solving this?'), you develop the ability to reframe your own limiting beliefs. The internal dialogue becomes: 'I hear you, internal voice saying I'm not good enough. Can I challenge that belief for a second?'
 

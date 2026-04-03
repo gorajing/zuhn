@@ -55,6 +55,13 @@ related:
   - INS-260330-41DB
   - INS-260330-4FA3
   - INS-260402-26B0
+evidence:
+  - id: INS-260325-EBDD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-4F7B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The popular story that Columbus proved Earth was round by sailing west is a fabrication. Eratosthenes calculated Earth's circumference around 240 BC with remarkable accuracy. Medieval scholars universally accepted a spherical Earth. The flat-Earth Columbus myth was largely popularized by Washington Irving's 1828 fictionalized biography.
 

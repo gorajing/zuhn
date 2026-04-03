@@ -52,6 +52,16 @@ related:
   - INS-260327-3049
   - INS-260325-4C6D
   - INS-260330-E794
+evidence:
+  - id: INS-260322-F8E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-3049
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-4C6D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The article argues that the options you perceive and the math behind each option (rewards, costs, probabilities) are put on your 'life dashboard' by your network. Daily decisions feel important but are constrained to the menu your network presents. The real leverage points are the rare crossroads where you select which networks to join — these have nonlinear, compounding effects because each new network adds 'mass' that increases gravitational pull toward a particular life trajectory.
 

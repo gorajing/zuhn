@@ -65,6 +65,9 @@ evidence:
   - id: INS-260328-8445
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-22D0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 
 Coconote used startup credits for LLM API costs early on and did not

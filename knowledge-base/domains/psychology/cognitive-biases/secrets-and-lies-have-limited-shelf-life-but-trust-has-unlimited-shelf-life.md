@@ -55,6 +55,16 @@ related:
   - INS-260329-6FAC
   - INS-260327-9EE4
   - INS-260323-92AD
+evidence:
+  - id: INS-260329-6FAC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-9EE4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-92AD
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 CIA training teaches that secrets and lies behave like perishable goods—they have a limited shelf life and their value degrades over time. If you cash in on a secret while it's fresh, you capture short-term value before it spoils (someone else reveals it, circumstances change, etc.). However, the trust earned from NOT being the one who cashed in has no expiration date.
 

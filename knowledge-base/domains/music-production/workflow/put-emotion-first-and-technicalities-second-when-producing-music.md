@@ -48,6 +48,16 @@ related:
 stance: >-
   Listeners connect to how a song makes them feel, not how technically
   impressive the production is.
+evidence:
+  - id: INS-260323-475F
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-5391
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-F405
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Producers are storytellers, not sound designers. Nobody in a nightclub or on a long drive appreciates your multiband mid-range compression. They connect to emotional arc, melody, rhythm, and groove. Spending years mastering sound design while ignoring emotional impact is building the wrong skill.
 

@@ -63,5 +63,8 @@ evidence:
   - id: INS-260327-F389
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-3614
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 During the coordinated attempt to cancel Rogan in early 2022, involving CNN loops, compilation videos, and institutional pressure, his podcast didn't just survive — it grew faster than ever, gaining 2 million subscribers. Rogan identifies the mechanism: what makes an independent creator 'dangerous' to institutions is precisely that they have maximum reach while being completely detached from any system that can be compromised. The attack itself proved this independence to the audience. When legacy media coordinates against someone, it reveals the 'wiring under the machine' — the narrative-driven, non-objective nature of institutional media. For the audience watching, this becomes evidence that the creator is genuinely independent, not controlled opposition. This is a structural dynamic, not specific to Rogan: any coordinated institutional attack on a creator who continues producing content unchanged will likely accelerate their growth, because the attack is more convincing proof of independence than anything the creator could say about themselves.

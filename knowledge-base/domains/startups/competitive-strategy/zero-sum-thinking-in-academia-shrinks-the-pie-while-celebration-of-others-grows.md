@@ -63,6 +63,13 @@ related:
   - INS-260327-3A15
   - INS-260328-7CA9
   - INS-260329-0014
+evidence:
+  - id: INS-260329-0014
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-3A15
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Keating contrasts the zero-sum culture of academic science — where celebrating a colleague's achievement feels like diminishing your own chances for funding and recognition — with Joe Rogan's approach in the comedy world, where genuinely promoting others' success grew the entire podcast ecosystem. Scientists are uniquely positioned to explain why a discovery matters, yet ego and credit anxiety prevent them from doing so publicly.
 

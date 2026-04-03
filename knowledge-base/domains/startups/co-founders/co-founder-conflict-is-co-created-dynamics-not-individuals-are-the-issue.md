@@ -52,5 +52,9 @@ related:
   - INS-260325-93A9
   - INS-260327-8F76
   - INS-260330-B67C
+evidence:
+  - id: INS-260330-B67C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Jones applies narrative therapy's core principle to co-founders: 'The problem is the problem. The person is not the problem.' Founders enter coaching convinced that if only their co-founder would change, everything would improve. But from a systems perspective, conflict is co-created. One founder's withdrawal provokes the other's over-functioning. A founder's perfectionism inadvertently invites micromanagement. Restructuring roles (a common band-aid) falls into Bowenian triangulation — bringing in a third party who becomes an emotional crutch while the original conflict intensifies. The solution is addressing the dynamic, not replacing the people.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 2997 actionable insights
+Generated on 2026-04-03 | 3006 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1202,6 +1202,7 @@ Generated on 2026-04-03 | 2997 actionable insights
 - [INS-260329-8329] The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
 - [INS-260329-D9A4] Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
 - [INS-260330-4E10] Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
+- [INS-260403-94C4] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 
 ## psychology/founder-psychology
 - [INS-260329-1A64] When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
@@ -1343,6 +1344,8 @@ Generated on 2026-04-03 | 2997 actionable insights
 - [INS-260402-F772] Surprises aren't just new information — they're corrections to existing wrong beliefs, making them the highest-value knowledge unit.
 - [INS-260403-449A] If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong.
 - [INS-260403-1448] The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
+- [INS-260403-B7FA] Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
+- [INS-260403-41BC] Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1896,6 +1899,7 @@ Generated on 2026-04-03 | 2997 actionable insights
 - [INS-260402-7E2A] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - [INS-260403-600C] Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic.
 - [INS-260403-FE00] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
+- [INS-260403-8011] When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2329,6 +2333,9 @@ Generated on 2026-04-03 | 2997 actionable insights
 - [INS-260402-2E19] Being ramen profitable — earning just enough to cover living expenses — gives founders more fundraising leverage than almost any other signal.
 - [INS-260402-5974] Founders should fit investor meetings into gaps in their development schedule, not fit development into gaps between investor meetings.
 - [INS-260403-1904] Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
+- [INS-260403-F447] When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
+- [INS-260403-AC74] Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
+- [INS-260403-07C6] Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2523,6 +2530,7 @@ Generated on 2026-04-03 | 2997 actionable insights
 - [INS-260330-1C90] Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
 - [INS-260402-73D9] Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.
 - [INS-260402-33CA] Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
+- [INS-260403-6935] Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3081,6 +3089,7 @@ Generated on 2026-04-03 | 2997 actionable insights
 - [INS-260402-2B96] Since most startups fail, doing what most startups do is a strategy for failure — survival requires deliberate deviation from the norm.
 - [INS-260403-5BFB] Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - [INS-260403-9DC6] Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
+- [INS-260403-7DEC] Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

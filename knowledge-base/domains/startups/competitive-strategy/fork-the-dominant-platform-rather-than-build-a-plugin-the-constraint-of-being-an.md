@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-8F98
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-22D0
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The Cursor team's most consequential decision was forking VS Code rather than building an extension. Their reasoning: 'these models are going to get much better... and it's going to entirely change how you build software.' An extension is constrained by the host editor's plugin API — you can only do what the API allows. But if AI is going to fundamentally change the act of programming, you need to control the entire editing surface to implement features the original designers never imagined.
 

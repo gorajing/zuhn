@@ -58,6 +58,9 @@ evidence:
   - id: INS-260324-72E8
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-DFC8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Seven years after Rwanda agreed to work with Zipline, the minister revealed the backstory: that very morning, an email had circulated about a mother who died because it took 9 hours to get a blood transfusion to her. That afternoon, Keller walked in with the pitch. Every investor thought the pivot to logistics was 'extremely stupid.' Most investors had 'largely written the company off.' Team members left because it 'didn't seem very promising.'
 

@@ -60,6 +60,10 @@ related:
   - INS-260329-C26B
   - INS-260330-E615
   - INS-260330-067C
+evidence:
+  - id: INS-260323-4E23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Kagan articulates Nvidia's cultural philosophy: 'We are not after taking a bigger piece of existing pie. We are after baking a bigger pie for everybody.' This manifested concretely in the Intel partnership, where Nvidia's accelerated computing fuses with Intel's general-purpose x86 architecture to expand addressable markets for both companies.
 

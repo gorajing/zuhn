@@ -51,6 +51,16 @@ related:
   - INS-260325-E8BC
   - INS-260330-C658
   - INS-260330-206F
+evidence:
+  - id: INS-260329-1CB0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-E8BC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C658
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Paul Graham draws an explicit analogy between premature optimization in software engineering and premature commitment in life planning. Just as optimizing code before understanding the problem leads to brittle, wrong solutions, optimizing your life trajectory before understanding your own interests and the landscape of possibilities leads to suboptimal outcomes.
 

@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-8544
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-B849
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Zipf's law is a discrete form of the continuous Pareto distribution, and the video catalogs its appearance across wildly different domains: 80% of land owned by 20% of Italians, 80% of Windows crashes from 20% of bugs, 80% of healthcare costs from 20% of patients, 80% of profits from 20% of customers. The key insight is that these aren't coincidences — power-law distributions arise from multiple independent mechanisms (preferential attachment, least effort, criticality, random segmentation).
 

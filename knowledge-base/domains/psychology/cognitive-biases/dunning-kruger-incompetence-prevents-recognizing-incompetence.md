@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-02CF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260322-2ABB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The McArthur Wheeler bank robbery case — where a man used lemon juice as a disguise because he vaguely knew it made invisible ink — exemplifies the extreme end of the Dunning-Kruger effect. Wheeler didn't just lack knowledge about chemistry and cameras; he lacked the knowledge needed to recognize that he lacked knowledge.
 

@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-32BA
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-43EB
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Pre-revolutionary France was one of Europe's wealthiest nations yet couldn't service its debt because the nobility and clergy — those with the most resources — were tax-exempt. King Louis XVI tried multiple reform ministers but couldn't overcome the structural resistance of those who benefited from the status quo.
 

@@ -58,5 +58,9 @@ related:
   - INS-260330-2355
   - INS-260330-1608
   - INS-260323-422B
+evidence:
+  - id: INS-260330-2355
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Using discounted cash flow analysis of PayPal (March 2001, 27 months old, 100% annual growth, 30% discount rate), Thiel showed that approximately 75% of the company's value came from cash flows in 2011 and beyond. This pattern holds for all tech companies: 75-85% of value comes from cash flows a decade or more out. The implication is that Silicon Valley's obsession with growth rates is misplaced — growth is measurable in the here and now, but the qualitative question of whether a company will still exist and dominate a decade from now is what actually dominates valuation. Microsoft was the last operating system, Google the last search engine. Using Capablanca's chess maxim ('you must begin by studying the end game'), Thiel reframes first-mover advantage as worth only about one-third of a pawn — the real question is who makes the last move. This means monopoly characteristics (network effects, proprietary tech, economies of scale, brand) must be evaluated not just as point-in-time moats but as structures that strengthen over time.

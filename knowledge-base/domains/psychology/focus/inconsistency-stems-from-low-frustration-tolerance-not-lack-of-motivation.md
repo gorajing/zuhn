@@ -55,6 +55,12 @@ evidence:
   - id: INS-260330-C367
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-9A5A
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260327-CEE4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a specific failure mode: people with high ambition but low consistency who keep switching directions. The conventional diagnosis is that they haven't found the right thing yet, but the actual problem is their threshold for tolerating boredom, confusion, and slow progress is too low. Every new pursuit feels exciting at first, then becomes grinding work, and they interpret the discomfort as a signal to try something else.
 

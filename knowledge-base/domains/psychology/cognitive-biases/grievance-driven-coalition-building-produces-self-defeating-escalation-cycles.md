@@ -54,6 +54,10 @@ related:
   - INS-260327-A75C
   - INS-260323-6BF4
   - PRI-260328-521E
+evidence:
+  - id: INS-260327-A75C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Harris warns that Trump's reelection could cause Democrats to double down on the exact identity politics that cost them the election, because Trump himself is such a provocation to the left that he triggers defensive escalation rather than strategic recalibration. He notes this is 'exactly what Trump and the MAGA cult want because it will be politically suicidal.'
 

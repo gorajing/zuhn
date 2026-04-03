@@ -58,6 +58,10 @@ related:
   - INS-260327-A815
   - INS-260322-A892
   - INS-260322-A02C
+evidence:
+  - id: INS-260323-CD03
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Justin Kan lays out a tactical press playbook that demystifies media coverage. The key mechanism: ask founders who were recently covered to introduce you to their reporter. This works because the entrepreneur has nothing to lose (they don't need anything more from that reporter), and the reporter trusts the source's judgment by transitive property. Kan would write his ideal story as bullet points, memorize them, then steer the conversation to hit every point.
 

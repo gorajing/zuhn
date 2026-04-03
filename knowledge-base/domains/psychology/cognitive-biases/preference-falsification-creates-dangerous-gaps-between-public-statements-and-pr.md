@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-E520
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260326-C657
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Harris identifies preference falsification — saying what's politically acceptable while privately believing something different — as a critical distortion mechanism in polarized environments. He notes that polls showed Trump trailing badly, yet people's behavior in private (like voting booths) diverged significantly from their public statements.
 

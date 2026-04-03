@@ -65,6 +65,18 @@ evidence:
   - id: INS-260327-D24A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-F8B6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-5C80
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-14E1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8950
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Destiny asserts that history moves in one direction — social progress is the default trajectory, and reverting to past norms (like shotgun marriages) is unrealistic. Shapiro pushes back hard: the entire 20th century was dominated by moral regression — Nazism, Stalinism, Maoism — all of which were regressions from the liberal democratic progress of the 19th century.
 

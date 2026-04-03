@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-3CD0
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-F37B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When Piers Morgan invited Youssef to discuss the Israel-Palestine conflict, Youssef initially hesitated because speaking about Israel risks career consequences. Then he had a moment of clarity: 'I left Egypt. I came to the United States, the land of the free where I can say anything I want. And yet I have limitations on what to say. I thought we left that behind.'
 

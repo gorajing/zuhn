@@ -60,5 +60,9 @@ related:
   - INS-260329-F063
   - INS-260330-F3A8
   - INS-260330-3A7B
+evidence:
+  - id: INS-260329-F063
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Horowitz describes the cultural chasm between engineers and salespeople. Ask an engineer a question: they try to give the correct answer. Ask a good salesperson: their first thought is 'why are you asking me that?' because the question itself is a clue. When evaluating products, engineers answer 'does your product have this feature?' with yes or no. Salespeople think about which competitor planted that trap and how to redirect. This means engineer-CEOs interviewing sales candidates will be upset by good candidates (who don't answer questions directly) and comfortable with bad ones (who answer straightforwardly). The Okta story illustrates: Todd wanted to hire the enthusiastic candidate over the one who was qualifying the company — but as Horowitz explains, you WANT the sales leader who qualifies you, because that's exactly what they'll do with customers. Blind references from people who owe you favors (not the candidate) and asking 'who are you bringing with you?' are the real signals. Any great sales leader has followers; mediocre ones have nobody willing to follow them.

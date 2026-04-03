@@ -56,6 +56,10 @@ related:
   - INS-260326-6CA3
   - PRI-260325-663A
   - PRI-260324-2A76
+evidence:
+  - id: INS-260330-5F6C
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Neurons are among the longest-lived cells in the body but lose the ability to divide once they take on specialized roles. This creates an asymmetric risk profile: the most valuable components in the system are also the ones that cannot be replaced. The body compensates with extreme protective measures (blood-brain barrier, cerebrospinal fluid cushioning, glial immune cells), but fundamental irreplaceability remains.
 

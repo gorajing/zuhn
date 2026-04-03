@@ -57,6 +57,10 @@ related:
   - INS-260330-178D
   - INS-260327-C083
   - INS-260329-577E
+evidence:
+  - id: INS-260329-577E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Crosby crystallized their value proposition as 'deal velocity' rather than cheaper legal services. Their fastest-growing customers like Cursor and Clay are signing dozens of contracts daily. The cost of slow contract review isn't the legal fee; it's delayed revenue from deals stuck in negotiation. Crosby's approach of predicting which terms to concede upfront can eliminate entire negotiation rounds, saving weeks per deal.
 

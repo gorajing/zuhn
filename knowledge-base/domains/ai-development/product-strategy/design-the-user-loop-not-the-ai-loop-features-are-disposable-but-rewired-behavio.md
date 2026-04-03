@@ -78,5 +78,8 @@ evidence:
   - id: INS-260327-24A5
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-8CA0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 OpenAI product leader Miqdad Jaffer argues the biggest trap in AI product strategy is optimizing the AI loop (prompt → inference → eval) instead of the user loop. Users do not care about eval score improvements — they care whether their life got easier. The defensible loop is: pain → relief → behavior change → habit → switching cost. Granola (AI meeting notepad) illustrates this: transcription alone is copyable, but becoming the system of record for all meeting history creates data no competitor can replicate. The test: Does your product relieve a pain felt at least weekly? Is the relief visible and measurable? Does it cause behavior change? Can the loop generate switching costs over time?

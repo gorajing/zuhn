@@ -52,5 +52,15 @@ related:
   - INS-260325-33DA
   - INS-260330-A075
   - INS-260402-9E2D
+evidence:
+  - id: INS-260402-9E2D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-8DDE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-33DA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi describes joining a mastermind of internet entrepreneurs while running six gyms. Despite having no overlap with the other members (no gym owners, no brick-and-mortar), the exposure shattered his assumption that gyms were the only path. He went from 'I want to be America's next gym chain' to building a portfolio of $10M+ businesses across different models. The mechanism is specific: higher performers operate with a different set of assumptions about what's possible, and proximity forces collision with those assumptions. Self-reflection can only examine known beliefs — you need external input to surface the ones you don't know you have. This makes strategic networking not optional but structurally necessary for growth.

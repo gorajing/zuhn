@@ -66,6 +66,12 @@ evidence:
   - id: INS-260330-EA56
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-C316
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-A999
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Sandel distinguishes distributive justice (fair allocation of income/wealth) from contributive justice (recognition and esteem for contributions to common good). We could achieve perfect redistribution through taxation and still have a corrosive problem: a hierarchy of prestige where tech entrepreneurs and hedge fund managers sit at the top while care workers, teachers, and delivery workers are overlooked.
 

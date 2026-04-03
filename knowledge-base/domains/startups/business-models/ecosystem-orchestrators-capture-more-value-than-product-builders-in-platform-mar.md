@@ -63,6 +63,13 @@ related:
   - INS-260330-D5BD
   - PRI-260328-82BE
   - INS-260325-040F
+evidence:
+  - id: INS-260323-365A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-8DF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Taobao's insight was not building a better e-commerce store — it was recognizing that SMEs and individual sellers lacked an entire infrastructure stack: discovery, payments, logistics, trust mechanisms, and customer engagement tools. By providing all of these as an integrated ecosystem, Taobao created a virtuous cycle where more sellers attracted more buyers, which attracted more partners, which improved the ecosystem.
 

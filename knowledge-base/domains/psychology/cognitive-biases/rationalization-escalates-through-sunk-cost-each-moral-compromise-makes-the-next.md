@@ -52,5 +52,9 @@ related:
   - INS-260330-A15F
   - INS-260330-3698
   - PRI-260323-9928
+evidence:
+  - id: INS-260329-59A5
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Tim Miller describes how people who rationalized supporting Trump after January 6th cannot then selectively criticize individual hypocrisies, because engaging with any one hypocrisy puts them on a 'slippery slope to being Liz Cheney.' The brain treats each new compromise as cheaper than the first because the identity cost of reversal keeps growing. This matches escalation of commitment research — the more you've invested in a wrong position, the more painful it becomes to admit the initial error. The insight applies beyond politics: in business, relationships, and organizational loyalty, early rationalizations create a ratchet effect where each subsequent compromise feels smaller relative to what's already been conceded, even as the cumulative departure from one's values grows enormous.

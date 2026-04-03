@@ -57,6 +57,10 @@ related:
   - INS-260325-A79E
   - INS-260330-C172
   - INS-260330-4329
+evidence:
+  - id: INS-260330-8FF8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The scientific community pursued two entirely different methods to redefine the kilogram: (1) counting silicon atoms in a perfect sphere to fix Avogadro's constant, and (2) using a Watt Balance to fix Planck's constant. Neither approach alone would be sufficient — each provides a check on the other. Only when both converge within ~20 micrograms of agreement would the redefinition proceed.
 

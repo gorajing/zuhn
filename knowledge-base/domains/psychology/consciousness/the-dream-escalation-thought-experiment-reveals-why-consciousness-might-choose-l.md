@@ -62,6 +62,19 @@ related:
   - INS-260329-5924
   - INS-260330-84C6
   - INS-260330-206B
+evidence:
+  - id: INS-260323-BDC1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-0961
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-5924
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-206B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Watts constructs a thought experiment: if you could dream any dream for any duration, you'd start with pleasure, then adventure, then increasingly dangerous scenarios, until eventually pressing the button labeled 'dream without knowing I'm dreaming.' The escalation is inevitable because complete control is complete boredom -- like making love to a plastic figure.
 

@@ -58,6 +58,18 @@ evidence:
   - id: INS-260327-D8D1
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-C664
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-AA3F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-7D3C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-5036
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham observes that most programmers don't choose their own tools — they use whatever expert hackers use, either through influence (wanting to emulate the best) or through direct command (experts are often the bosses or advisors who dictate tool choices). This means the popularity of any tool is determined not by majority vote but by winning over a small expert minority.
 

@@ -60,6 +60,10 @@ related:
   - INS-260403-5BFB
   - INS-260330-8FC5
   - INS-260402-580C
+evidence:
+  - id: INS-260330-8FC5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Silicon Valley's dominance isn't just about talent — it's a triple network effect. Innovators need: (1) neighboring companies producing complementary technologies and components, (2) a concentrated talent pool of tinkerers and thinkers, and (3) thousands of innovative companies willing to be early adopters of each other's products. This same pattern explains Renaissance Italy, Victorian Britain, Song Dynasty China, and ancient Greece.
 

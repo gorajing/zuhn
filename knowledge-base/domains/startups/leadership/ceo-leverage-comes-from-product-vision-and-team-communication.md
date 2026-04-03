@@ -53,5 +53,8 @@ evidence:
   - id: INS-260327-6F12
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-D0F3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 After building four companies across multiple countries, this founder identifies two CEO activities that provide maximum leverage. First: understanding the technological path and building a product roadmap that positions the company to win over 5-10 years. Second: communicating that vision clearly to the team, because building a great product isn't about doing it yourself but building a world-class team aligned around a shared vision. Cross-cultural leadership experience (Chinese, German, Japanese, American) taught him that communicating vision across different cultural contexts requires understanding how different people process information.

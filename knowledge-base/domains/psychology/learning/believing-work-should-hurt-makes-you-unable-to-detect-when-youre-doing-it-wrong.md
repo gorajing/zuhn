@@ -59,9 +59,9 @@ related:
   - INS-260402-E36A
   - INS-260403-D64B
   - INS-260329-640C
+  - INS-260403-94C4
   - INS-260322-C6CE
   - INS-260327-B72F
-  - INS-260327-8521
 ---
 Graham captures this in one devastating sentence about graduate school: 'If you think something's supposed to hurt, you're less likely to notice if you're doing it wrong.' This is a signal-detection problem. Pain during work is ambiguous — it could mean you're pushing through a hard problem (good) or that you're misaligned with the work entirely (bad). The cultural narrative that all worthwhile work requires suffering collapses this distinction, causing people to interpret misery as evidence they're on the right track.
 

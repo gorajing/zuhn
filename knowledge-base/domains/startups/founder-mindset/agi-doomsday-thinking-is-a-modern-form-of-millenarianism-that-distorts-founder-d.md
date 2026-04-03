@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-8773
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-C4AC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 A growing number of founders believe they have a short window to make money before AGI makes everything obsolete. This manifests as dropping out of school, abandoning long-term learning, and pivoting away from anything that doesn't scale to $100M in revenue within a year. Dalton points out this pattern rhymes uncomfortably with millenarianism — the recurring human tendency to believe you happen to be alive at the exact moment the world is ending.
 

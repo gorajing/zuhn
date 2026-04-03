@@ -61,5 +61,9 @@ related:
   - INS-260330-DD91
   - INS-260323-4574
   - INS-260323-47B0
+evidence:
+  - id: INS-260323-47B0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Rogan describes starting comedy at 21 as a 'moron with no information' who could only do impressions and talk about sex. He had no philosophy, no unique perspective, no life experience. But the repeated cycle of bombing on stage — and the forced introspection that follows each failure — is what actually built his worldview. Every bomb forces you to ask yourself hard questions: What's missing? Why aren't you connecting? What do you actually believe? This is a specific mechanism for how performance failure drives intellectual development. Unlike academic study where you can passively absorb others' ideas, stage failure demands you develop your OWN perspective because borrowed ideas don't land authentically. The audience is a merciless feedback mechanism that rewards genuine conviction and punishes inauthenticity. This maps to broader learning theory: the most effective learning happens through repeated failure with immediate feedback in high-stakes environments, not through passive consumption. The comedy stage is essentially a crucible for developing authentic thinking.

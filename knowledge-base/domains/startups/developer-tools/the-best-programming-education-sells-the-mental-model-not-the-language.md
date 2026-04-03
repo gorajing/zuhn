@@ -80,6 +80,15 @@ evidence:
   - id: INS-260323-5CE3
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-7994
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-0D16
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9CED
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 CS50 Python has 8M+ views not because it teaches Python better than alternatives, but because it teaches programming thinking through Python. Malan explicitly frames concepts in language-agnostic terms — 'a function is an abstraction that takes input and produces output' rather than 'def keyword creates a function in Python.' This means graduates can pick up JavaScript, Rust, or whatever comes next without relearning fundamentals.
 

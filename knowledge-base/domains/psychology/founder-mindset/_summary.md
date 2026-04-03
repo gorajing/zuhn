@@ -1,7 +1,8 @@
 # Topic: founder-mindset
 
-> 12 insights
+> 13 insights
 
+- `INS-260403-94C4` [high] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260329-D9A4` [high] Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
 - `INS-260330-4E10` [high] Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260329-444F` [high] Study what successful people did at your stage, not what they do now, to find the right playbook.

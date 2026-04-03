@@ -53,6 +53,10 @@ related:
   - INS-260330-ABBF
   - INS-260323-9AA5
   - INS-260330-5BC4
+evidence:
+  - id: INS-260323-9AA5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video surfaces a deeply counter-intuitive strategic insight: the PAP's suppression of opposition may actually be eroding its support. Because the opposition is so heavily disadvantaged, voters give them outsized credit for small achievements — a sympathy effect that artificially inflates their appeal. If elections were fair, citizens would likely evaluate alternatives more harshly and find them wanting.
 

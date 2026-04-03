@@ -54,7 +54,6 @@ related:
   - INS-260327-FA62
   - INS-260329-023F
   - INS-260327-70DF
-  - INS-260327-4C94
   - INS-260330-AEF1
 ---
 Stoute illustrates this with his entry into the beauty business through Carol's Daughter (later sold to L'Oreal). He knew nothing about beauty as an industry, but he identified a problem he could solve. The fearless move was entering the space despite not understanding all its elements, embracing ignorance rather than being paralyzed by it.

@@ -60,5 +60,8 @@ evidence:
   - id: INS-260325-FF45
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-318B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi defines selling as 'a transference of belief over a bridge of trust,' requiring two components: genuine belief in the product and trust from the prospect. He observes that salespeople go from hot streaks to cold streaks not because they forgot techniques, but because something shook their conviction — a refund request, a difficult customer, a negative text. The bridge of trust might be intact, but there's nothing to transfer across it. This means the highest-leverage activity for improving sales performance isn't technique training but conviction building. If you get someone to genuinely believe in what they're selling, they'll sell correctly because they're motivated by helping rather than closing. Practical application: record all sales calls during hot streaks so you can study what conviction looks like in practice (pacing, jokes, timing, objection handling), and replay them during cold streaks to restore the feeling rather than trying to intellectually reconstruct what went wrong.

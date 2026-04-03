@@ -54,5 +54,9 @@ related:
   - INS-260327-165D
   - INS-260330-410A
   - INS-260329-F0DE
+evidence:
+  - id: INS-260327-165D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 YouTube's first version as a dating site launched in May 2005 and achieved literally zero video uploads in a week. Rather than iterating on the dating concept, they made the broader bet: open it up to any video. But even that didn't immediately work. Steve Chen describes tailing the access logs and seeing zero hits for 24-hour periods — not even the founders were visiting. The response was to create an atmosphere where anyone could present an idea and they'd try it. Features were built overnight: auto-play on page load (seeming trivial but removing friction), video responses (eventually removed but worth trying), embeds everywhere. The consumer product insight is that 95% of notes need to be correct for a piece of music to sound right — and it's the same with consumer products, where all the little things sum up into a delightful experience. Each experiment was a brush stroke; the masterpiece emerged from the accumulation of many small, rapid experiments.

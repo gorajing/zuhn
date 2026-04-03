@@ -51,6 +51,10 @@ related:
   - INS-260324-1275
   - INS-260330-4DFA
   - INS-260330-AB6F
+evidence:
+  - id: INS-260322-22D0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 As iPhone quality improved and resale values climbed, a thriving secondary market emerged on Amazon and eBay. Each new iPhone now competes not just against Samsung and Google, but against last year's still-excellent iPhone at a steep discount. The average upgrade cycle stretched from 2 years to 4 years between 2018-2019.
 

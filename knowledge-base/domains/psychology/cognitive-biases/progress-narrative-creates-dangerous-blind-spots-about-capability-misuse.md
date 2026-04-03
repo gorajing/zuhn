@@ -54,6 +54,10 @@ related:
   - INS-260330-814E
   - PRI-260328-E349
   - INS-260330-2EF0
+evidence:
+  - id: INS-260323-9B68
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The pre-WWII Western world largely assumed that technological and industrial advancement was synonymous with civilizational and moral progress. The war shattered this assumption — the most industrially advanced nations used their capabilities for unprecedented destruction, culminating in the atomic bomb.
 

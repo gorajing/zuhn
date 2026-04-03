@@ -65,6 +65,13 @@ related:
   - INS-260330-7D5F
   - INS-260330-90C3
   - INS-260402-AD42
+evidence:
+  - id: INS-260329-95EA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-04C0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Sam Harris draws a crucial distinction between two types of lying using the Lance Armstrong vs. Trump comparison. Armstrong-style lying is deceptive — the liar tries to avoid getting caught, manages information carefully, and hopes to be believed. Trump-style lying is transparent — claiming a building is 10 stories taller when anyone can count the floors. The transparent lie functions as a loyalty test: repeating an obviously false claim signals in-group membership. This is why harder-to-believe lies are paradoxically more effective in authoritarian contexts — the greater the cognitive sacrifice required to publicly affirm the lie, the stronger the signal of loyalty.
 

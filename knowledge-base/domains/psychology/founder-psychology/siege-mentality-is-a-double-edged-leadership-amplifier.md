@@ -55,5 +55,15 @@ related:
   - INS-260330-625B
   - INS-260330-2691
   - PRI-260323-A3A3
+evidence:
+  - id: INS-260330-FAB8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-625B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2691
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Travis Kalanick deliberately cultivated a siege mentality at Uber, positioning every external challenge — regulators, competitors, taxi cartels — as an existential threat that demanded total commitment. This was extraordinarily effective at generating employee dedication: people worked 12-hour days, skipped therapy appointments, and felt they were part of history. Travis gave small teams city-level autonomy and told them to win 'using whatever tactics or budget they deemed necessary.' But war cultures don't stay external. The same competitive aggression turned inward — teams backstabbed each other, sexual harassment was dismissed because perpetrators were 'valuable,' and the intensity produced widespread burnout requiring therapy. The pattern reveals a fundamental tension in founder psychology: the siege mentality that enables startups to outperform incumbents against impossible odds is the same force that produces toxic cultures when there's no external enemy to absorb the aggression.

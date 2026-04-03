@@ -56,6 +56,10 @@ related:
   - INS-260330-14CA
   - INS-260329-A6F0
   - INS-260330-8C54
+evidence:
+  - id: INS-260330-8C54
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Kaz draws a powerful parallel between software defaults and life defaults. Just as users accept almost every default in software (and fire the product if forced to change too many), people accept the defaults of their circumstances, career paths, and cultural expectations. The key insight is that you cannot accidentally overwrite a default. Half-hearted attempts to change course will fail because the gravitational pull of the status quo is enormous.
 

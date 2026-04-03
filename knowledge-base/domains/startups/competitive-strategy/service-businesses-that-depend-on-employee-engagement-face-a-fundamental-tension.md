@@ -45,6 +45,10 @@ related:
   - INS-260329-825D
   - INS-260329-D8C7
   - INS-260330-3A7B
+evidence:
+  - id: INS-260329-D8C7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Starbucks premium experience depends on employee emotional engagement, but union demands for higher wages threaten the margin structure that makes the experience profitable.
 

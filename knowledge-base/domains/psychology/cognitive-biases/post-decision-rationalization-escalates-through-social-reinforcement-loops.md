@@ -57,6 +57,13 @@ related:
   - PRI-260323-2C5C
   - INS-260323-ACD9
   - INS-260330-AA25
+evidence:
+  - id: INS-260329-59A5
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-AA25
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Goldberg describes a pattern among Trump voters and intellectual supporters where rather than admitting miscalculation, people 'look for new reasons to convince themselves first and then others that they were right.' This goes beyond simple cognitive dissonance — it's a socially reinforced escalation where the intellectual class constructs increasingly sophisticated post-hoc justifications.
 

@@ -56,6 +56,10 @@ related:
   - INS-260329-5306
   - INS-260329-7A3C
   - INS-260325-27ED
+evidence:
+  - id: INS-260325-27ED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Most productivity advice focuses on what to add — new tools, systems, habits. Hormozi's meeting audit discipline focuses on what to remove, which has compounding returns. The practice is simple: after every meeting, ask two questions — (1) does this meeting need to happen again, and (2) is there a person or process that can replace my attendance? Hormozi describes immediately canceling a recurring meeting after attending it and realizing it was no longer needed.
 

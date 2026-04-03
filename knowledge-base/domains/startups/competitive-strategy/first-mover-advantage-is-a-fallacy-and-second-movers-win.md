@@ -51,6 +51,10 @@ related:
   - PRI-260323-1B96
   - INS-260323-4457
   - PRI-260328-82BE
+evidence:
+  - id: INS-260330-255F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Lynn invested in Lending Club, which became the largest US tech IPO of 2014. But Lending Club wasn't the first mover—Prosper had proven the market first. Lending Club learned from Prosper's mistakes and entered with a better product, better marketing, and no technical debt.
 

@@ -52,11 +52,19 @@ stance: >-
   motives that lead ambitious people astray.
 related:
   - INS-260330-1C90
+  - INS-260403-94C4
   - INS-260329-F21F
   - INS-260402-8223
   - INS-260402-9093
-  - INS-260402-4451
   - INS-260402-0392
+  - INS-260402-4451
+evidence:
+  - id: INS-260330-1C90
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-9093
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies a 'conspicuous pattern' across his life: still life painting (least prestigious painting form), Viaweb (seemed lame), Y Combinator (seemed lame), online essays (seemed like nutjob rants), and Lisp (intellectually respected but unhip) all turned out to be deeply valuable pursuits. The pattern works as a double filter.
 

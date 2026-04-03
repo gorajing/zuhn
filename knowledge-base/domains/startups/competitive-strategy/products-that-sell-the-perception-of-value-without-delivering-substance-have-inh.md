@@ -51,6 +51,12 @@ evidence:
   - id: INS-260323-1B0B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-A484
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-AB5D
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement without substantive delivery — face rapid customer churn as the novelty fades and the gap between promise and reality becomes apparent.
 

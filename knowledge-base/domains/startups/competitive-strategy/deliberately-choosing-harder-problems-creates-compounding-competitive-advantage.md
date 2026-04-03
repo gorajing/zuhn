@@ -56,6 +56,11 @@ related:
   - INS-260330-579B
   - INS-260327-B72F
   - INS-260402-2FDF
+  - INS-260403-875B
+evidence:
+  - id: INS-260327-B72F
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Graham's 'run upstairs' principle is a concrete competitive strategy: when a small startup is chased by a large incumbent, it should seek difficult technical terrain where the incumbent's size becomes a liability rather than an advantage. At Viaweb, when choosing between two equally valuable features, they always built the harder one — not despite the difficulty but because of it.
 

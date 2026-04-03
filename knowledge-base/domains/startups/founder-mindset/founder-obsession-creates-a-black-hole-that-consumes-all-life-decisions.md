@@ -48,5 +48,9 @@ related:
   - INS-260327-8254
   - INS-260327-3349
   - INS-260402-F08D
+evidence:
+  - id: INS-260330-F737
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Wen spent 9 years building Smarking and describes the founder mission as a black hole that consumed his attention completely. He and his wife delayed every major life decision because of the startup. When he finally sold and picked up his head, he was shocked at how much the world had changed. The insight is a warning: the hidden costs of founder obsession are not just professional burnout but the compounding of deferred personal milestones. Meditation and executive coaching eventually helped him regain perspective, but he wishes he had invested in personal sustainability earlier.

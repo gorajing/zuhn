@@ -53,5 +53,12 @@ related:
   - INS-260323-40AA
   - INS-260326-2E56
   - INS-260327-B2CC
+evidence:
+  - id: INS-260326-F3E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-40AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Orwell and Dostoevsky both warned about performative goodness. The paradox: truly nice people don't think of themselves as nice — they simply act from authentic values. People who identify as 'nice' are performing a role designed to elicit approval, avoid conflict, and control how others see them. This creates a hidden transaction: 'I am nice to you, therefore you owe me niceness back.' When the debt isn't paid, resentment builds. Others sense the inauthenticity and feel manipulated, even if they can't articulate why. The alternative is what the Stoics called 'honest benevolence' — doing good because it aligns with your values, with zero expectation of reciprocation.

@@ -52,5 +52,9 @@ related:
   - INS-260327-B410
   - INS-260327-4739
   - INS-260328-F60B
+evidence:
+  - id: INS-260327-4739
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi argues for 'seasonal balance' over 'daily balance' — the idea that life should be balanced over decades, not days. During a building season, extreme sacrifice (80+ hour weeks, minimal spending, limited family time) is rational if it produces escape velocity from poverty. He extends this to family units: one partner sacrificing career for childcare while the other sacrifices family time for income is balanced at the household level even though each individual is highly imbalanced. This directly challenges the cultural default of seeking work-life balance at every moment. The framework has two critical constraints that make it non-toxic: (1) it must be for a defined season with a clear end date, and (2) it must be voluntary and agreed upon with affected family members. Without these constraints, it becomes rationalized workaholism.

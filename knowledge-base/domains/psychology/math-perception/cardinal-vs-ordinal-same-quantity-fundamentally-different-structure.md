@@ -58,6 +58,10 @@ related:
   - INS-260327-9DB0
   - PRI-260323-6644
   - INS-260325-0A81
+evidence:
+  - id: INS-260323-527B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 In finite mathematics, counting and ordering are essentially the same — a set of 5 things has cardinality 5 and its natural ordering has order type 5. But at infinity, these concepts split apart dramatically. You can rearrange an infinite collection (adding one element after all of omega) without changing its cardinality at all, yet the ordinal (arrangement label) changes from omega to omega+1.
 

@@ -58,6 +58,16 @@ related:
   - INS-260325-36F0
   - PRI-260323-287B
   - INS-260329-D1B0
+evidence:
+  - id: INS-260323-64A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-B0F4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-D1B0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham argues against both conformity and reckless honesty. Full conformity cripples thinking because the habit of self-censoring speech eventually infects thought itself. But saying everything you think turns you into Noam Chomsky — so consumed by fighting battles over forbidden ideas that you have no time for productive work. The optimal strategy, borrowed from Sir Henry Wootton's advice to Milton ('pensieri stretti & il viso sciolto' — closed thoughts and an open face), is to maintain absolute freedom inside your own head while being strategically selective about what you voice publicly.
 

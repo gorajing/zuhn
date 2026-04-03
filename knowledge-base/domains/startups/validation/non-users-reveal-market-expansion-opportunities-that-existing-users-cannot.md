@@ -60,6 +60,10 @@ related:
   - INS-260402-426C
   - INS-260330-EF64
   - INS-260402-1436
+evidence:
+  - id: INS-260330-E403
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Emmett Shear describes three tiers of user interviews at Twitch: existing users, competitor users, and non-users. Existing users' complaints (edit ban lists, edit highlight titles) were the least strategically important because those users were already tolerating the issues. Competitor users revealed switching barriers (revenue sharing, video stability). But non-users — people who'd never streamed — revealed the fundamental blockers to market expansion: computers too slow, broadcasting software too complex, fear of revealing competitive strategies.
 

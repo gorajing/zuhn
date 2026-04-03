@@ -57,6 +57,13 @@ related:
   - INS-260325-5692
   - INS-260323-4574
   - INS-260330-2784
+evidence:
+  - id: INS-260321-FB3F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-4574
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Jonathan Basile's Library of Babel website deterministically generates every possible 3200-character combination of English letters, commas, spaces, and periods — 10^5000 pages compared to 10^80 atoms in the observable universe. Every truth, lie, poem, and description already 'exists' in it. Yet the video highlights a deep intuition: there's a categorical difference between a program permuting symbols and a person meaning something.
 

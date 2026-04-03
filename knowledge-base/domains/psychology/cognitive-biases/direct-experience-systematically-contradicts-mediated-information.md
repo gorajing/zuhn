@@ -60,6 +60,13 @@ related:
   - INS-260330-AB38
   - INS-260330-2988
   - INS-260330-43C9
+evidence:
+  - id: INS-260321-AACC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-7FA4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Tucker Carlson describes being repeatedly shocked when direct experience contradicted his media-shaped expectations — Moscow was not a smoldering ruin, Slavic culture was rich rather than backward, and most people he meets are 'way better than you think.' Lex Fridman corroborates this with his Ukraine visit, where he found a functioning, clean, resilient society despite active war.
 

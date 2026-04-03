@@ -68,6 +68,9 @@ evidence:
   - id: INS-260323-22E8
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-527B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The AK-47 underwater footage at 27,450 fps reveals phenomena that occur in microseconds — bubble formation, oscillation, and collapse happen far below human perceptual thresholds. At normal speed, the entire sequence appears as a single explosive event. The slow-motion footage doesn't just clarify what happens; it reveals an entirely different level of physical reality that is permanently invisible to unaided human observation.
 

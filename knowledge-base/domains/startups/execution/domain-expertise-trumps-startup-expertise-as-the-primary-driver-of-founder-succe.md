@@ -57,6 +57,10 @@ related:
   - INS-260330-B09B
   - INS-260327-80A8
   - INS-260330-E881
+evidence:
+  - id: INS-260330-E881
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham argues that startup knowledge is not only unnecessary but 'possibly somewhat dangerous' because it enables founders to perform the motions of a startup without building something valuable. Zuckerberg's Florida LLC incorporation was a rookie mistake, but it didn't matter because he understood his users deeply. Similarly, Airbnb's founders succeeded not through tech expertise but through design skill and ability to organize people.
 

@@ -53,6 +53,13 @@ related:
   - INS-260327-52C1
   - INS-260329-1621
   - INS-260330-318B
+evidence:
+  - id: INS-260330-318B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-55F7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 A fundamental asymmetry exists in sales psychology: prospects believe almost nothing the salesperson says but believe almost everything they themselves say. This means the goal is never to tell prospects they're a good fit — it's to ask questions that lead them to conclude it themselves.
 

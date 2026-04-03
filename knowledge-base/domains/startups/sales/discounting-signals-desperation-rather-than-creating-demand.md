@@ -50,6 +50,10 @@ related:
   - INS-260324-5B35
   - INS-260327-CC35
   - INS-260329-67D1
+evidence:
+  - id: INS-260329-67D1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 One of the most common early-stage sales mistakes is reaching for discounts as a primary weapon. Founders think that if the customer isn't buying, the price must be too high. But if a customer doesn't understand why your product would help them, a lower price doesn't create understanding — it creates suspicion.
 

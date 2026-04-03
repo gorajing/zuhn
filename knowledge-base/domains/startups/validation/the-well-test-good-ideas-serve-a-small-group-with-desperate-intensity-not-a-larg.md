@@ -57,6 +57,10 @@ related:
   - INS-260330-66A0
   - PRI-260328-59DC
   - INS-260402-B66A
+evidence:
+  - id: INS-260402-B66A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham introduces a powerful visual framework: plot all potential users on the x-axis and intensity of need on the y-axis, then invert. Companies are holes in this surface. Startups must choose between digging broad and shallow (many people, mild interest) or narrow and deep (few people, desperate need). Nearly all good startup ideas are narrow and deep — 'wells.'
 

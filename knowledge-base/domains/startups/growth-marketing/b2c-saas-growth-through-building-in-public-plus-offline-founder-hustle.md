@@ -59,6 +59,10 @@ stance: >-
   Manifast reached 4,000 users and 50 paid customers by combining
   building-in-public on LinkedIn/Threads, sponsoring niche communities,
   recruiting am...
+evidence:
+  - id: INS-260323-FF23
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Heo transitioned from B2B agency sales (corporate networking, new business venture team visits) to a multi-channel B2C SaaS approach. His growth strategy combines: (1) building in public on LinkedIn and Threads — sharing hiring updates, beta launches, team stories; (2) sponsoring open chat rooms, study groups, and conferences where target customers gather; (3) recruiting ambassadors to test and promote the product; (4) personal offline hustle including going to tech hubs like Pangyo to hand out flyers.
 

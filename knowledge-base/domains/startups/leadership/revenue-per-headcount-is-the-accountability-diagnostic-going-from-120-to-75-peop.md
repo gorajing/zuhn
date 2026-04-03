@@ -62,6 +62,10 @@ related:
 stance: >-
   If your competitor's team member supports $400K in revenue and yours supports
   $200K, accountability is the gap — not talent or strategy.
+evidence:
+  - id: INS-260329-0014
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Revenue per headcount is the single most diagnostic metric for accountability in a company. Leila's example: one team member supporting $400K vs another company's at $200K. The high-accountability company can outspend in the marketplace, invest more per employee, and compound advantages. People are the only appreciating asset in business — products degrade, marketing channels decay, market opportunities shrink. But people get better over time if you invest in them through accountability.
 

@@ -67,6 +67,9 @@ evidence:
   - id: INS-260327-768D
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260323-9E30
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The most important character trait for a spy is not independence, courage, or intelligence — it is the need for external validation from a single source. Intelligence agencies seek people who can become so focused on earning approval from the institution that they subordinate all other loyalties — to parents, spouse, even children.
 

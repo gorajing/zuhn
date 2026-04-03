@@ -59,6 +59,9 @@ evidence:
   - id: INS-260325-2B17
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-28A6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham's 'day job' reframe is a psychological technique for maintaining agency within constraining systems. A musician who waits tables doesn't identify as a waiter; similarly, treating school (or any institutional obligation) as a day job means doing it competently without letting it define you. This orthogonal positioning — neither rebellion nor obedience — preserves psychological resources for genuine work.
 

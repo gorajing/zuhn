@@ -60,6 +60,9 @@ evidence:
   - id: INS-260329-7E0A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-A03D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi casually mentions eating the same lunch 'for like 2 years' and sticking with meals 'for a really long time until one day I decide I'm going to have something different.' This isn't laziness — it's deliberate cognitive load management, the same pattern seen in Steve Jobs' black turtleneck and Zuckerberg's gray t-shirt.
 

@@ -48,6 +48,19 @@ related:
   - INS-260402-2A1D
   - INS-260325-AC52
   - INS-260326-291C
+evidence:
+  - id: INS-260330-6B7F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-B0AB
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-2A1D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260326-291C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Montaigne's key discovery was that expressing ideas helps form them — but 'helps' drastically understates it. Most of what ends up in essays only gets thought of during the writing process itself. This inverts the common model where you first think, then write to communicate. Instead, writing is the thinking tool.
 

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-A25E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-5C6E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When Christianity was still a Jewish sect, conversion required circumcision, dietary laws, and adoption of Jewish cultural identity — enormous barriers for adult Gentile men especially. Paul's radical move to declare these requirements unnecessary didn't just lower the bar; it fundamentally redefined the product from 'become Jewish first, then follow Jesus' to 'follow Jesus directly.' This is the ancient equivalent of removing a mandatory account creation step from a signup flow.
 

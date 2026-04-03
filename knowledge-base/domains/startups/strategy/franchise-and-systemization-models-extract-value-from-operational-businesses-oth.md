@@ -59,5 +59,8 @@ evidence:
   - id: INS-260325-E538
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-D267
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's implicit lesson is that the real money in frozen yogurt isn't in running stores — it's in creating the brand, playbook, and supply chain that others pay to use. A single store generates $93K for its operator, but a franchise system with 100 locations generates millions in franchise fees and supply markups with minimal marginal labor. This illustrates a fundamental principle of business leverage: operational businesses trade time for money linearly, while system businesses scale non-linearly. The pattern repeats across industries — the gym operator vs. the gym franchise creator, the restaurant owner vs. the restaurant consulting firm, the freelancer vs. the agency platform. Entrepreneurs seeking wealth rather than income should ask: 'Can I build the system instead of being inside it?' This reframing shifts the question from 'How do I run this better?' to 'How do I make this runnable by anyone?'

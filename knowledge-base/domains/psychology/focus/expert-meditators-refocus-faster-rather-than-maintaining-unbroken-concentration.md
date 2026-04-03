@@ -59,5 +59,8 @@ evidence:
   - id: INS-260330-B360
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260323-422C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Neuroimaging studies of experienced meditators (including a classic Japanese study with repeated tones) show that experts don't maintain a perfectly steady attentional state. Instead, their attention exits and re-enters focus just like beginners — but the recovery cycle is dramatically faster. This reframes the entire experience of meditation: every time your mind wanders and you bring it back, that's not a failure but an essential repetition that strengthens the refocusing circuit. Huberman calls this 'ascending a staircase of refocusing.' This insight has direct application to any sustained attention task — deep work, studying, creative flow. The goal isn't preventing distraction but minimizing recovery time.

@@ -50,11 +50,11 @@ stance: >-
   but rather 51-49 calls where judgment from having seen similar situations is
   irreplaceable.
 related:
+  - INS-260403-A1DF
   - INS-260330-DB4B
   - PRI-260328-E9B5
   - INS-260402-9093
   - INS-260329-F21F
-  - INS-260325-A272
 ---
 David Solomon pushes back on Silicon Valley's bias toward slope over experience, arguing that Goldman Sachs' management committee succeeds because of deep judgment forged through decades of practice. His framework: intelligence must clear a 'smart enough' threshold, but beyond that, the human elements (connection, resilience, determination) and battle-tested judgment matter far more.
 

@@ -68,6 +68,12 @@ evidence:
   - id: INS-260325-DA83
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-7E86
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1319
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Columbia sociologist Duncan Watts created an artificial music market with 14,000 participants and 48 songs by unknown bands. In the independent control group, people rated songs purely on quality. But in socially-influenced groups where download counts were visible, the same song could rank anywhere from #1 to #40 depending on random early momentum.
 

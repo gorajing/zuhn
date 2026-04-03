@@ -64,6 +64,18 @@ evidence:
   - id: INS-260327-7F32
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-8A7A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-78AE
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-AD42
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-46AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham observed that missing legitimate email is 'an order of magnitude worse' than receiving spam, comparing false positives to 'an acne cure that carries a risk of death.' He deliberately biased his algorithm by doubling the count of legitimate-email tokens, sacrificing some spam detection to ensure near-zero false positives.
 

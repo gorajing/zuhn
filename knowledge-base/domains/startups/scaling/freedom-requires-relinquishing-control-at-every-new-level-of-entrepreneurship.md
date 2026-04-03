@@ -55,5 +55,12 @@ related:
   - INS-260330-C087
   - INS-260330-2EC6
   - INS-260330-F37B
+evidence:
+  - id: INS-260330-2EC6
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-F37B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The control-freedom paradox: solopreneurs have total control over every decision but zero freedom — they are the bottleneck for everything. As you scale, you must extend trust to people, which means accepting that some decisions will be made differently than you would make them. Hormozi frames this as progressive, not binary — you extend trust with guardrails (measurable outputs, deadlines), and tighten the reins only when outputs aren't met. His COO Leila exemplifies the operational side: she audits all recurring meetings quarterly, deletes unnecessary ones, removes attendees who aren't adding value, and combines redundant syncs. This relentless pruning of organizational overhead is itself a form of relinquishing control over information flow. The pattern mirrors Elon Musk and Bezos' stated preference for normalizing meeting walk-outs when someone stops adding value — a cultural signal that presence isn't productivity.

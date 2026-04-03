@@ -60,6 +60,15 @@ evidence:
   - id: INS-260323-C984
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-3C7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-810D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2B42
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Loh visited a high-poverty rural school where kids without phones or internet access showed extraordinary mathematical thinking—because they made their own games for fun. These kids, driven by authentic curiosity, developed problem-solving abilities that wealthy, well-resourced students often lack.
 

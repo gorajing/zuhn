@@ -52,6 +52,13 @@ related:
   - INS-260329-78A0
   - INS-260329-BBF9
   - INS-260329-5257
+evidence:
+  - id: INS-260329-E2D0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-5257
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi describes a simple reframing: if you earn $20/hour, a $100 shirt actually costs 6 hours of work after taxes. Asking 'would I work all day for this shirt?' changes the emotional calculus of purchasing decisions. He observed this pattern at Smoothie King where coworkers earning $43/shift would spend $15 on lunch — effectively working 6 hours for only $20 of actual take-home.
 

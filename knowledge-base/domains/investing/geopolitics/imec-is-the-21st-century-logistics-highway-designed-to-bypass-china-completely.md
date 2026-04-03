@@ -44,10 +44,10 @@ resolutions:
     to Asia for direct competition with China.
 related:
   - INS-260321-D4D0
+  - INS-260403-8011
   - INS-260330-09E3
   - PRI-260321-5BF1
   - INS-260330-A2D4
-  - PRI-260323-A5E8
 stance: >-
   IMEC (India-Middle East-Europe Economic Corridor) is a US-backed logistics
   highway routing goods from India through UAE, Saudi Arabia, and Israel t...

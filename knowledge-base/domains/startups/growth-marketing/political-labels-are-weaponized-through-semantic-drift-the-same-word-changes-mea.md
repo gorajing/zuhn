@@ -54,6 +54,10 @@ related:
   - INS-260327-A458
   - INS-260329-28A6
 stance: Terms like 'liberal' and 'progressive' evolve rapidly in meaning
+evidence:
+  - id: INS-260329-28A6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Pakman traces how 'liberal' used to mean what 'progressive' means now, but was weaponized into a smear, forcing him to adopt 'progressive' as his self-descriptor. Meanwhile, the socialist-leaning left now uses 'liberal' to mean 'not left enough.' The term 'leftist' is currently transitioning from neutral to negative. These labels evolve month-by-month and are used strategically to either start or stop conversation.
 

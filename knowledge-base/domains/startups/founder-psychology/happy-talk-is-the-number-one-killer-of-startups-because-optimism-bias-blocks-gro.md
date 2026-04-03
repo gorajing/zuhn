@@ -57,6 +57,10 @@ related:
   - INS-260327-0133
   - INS-260323-8289
   - INS-260325-33DA
+evidence:
+  - id: INS-260327-0133
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Sacks identifies a specific pathology: meetings that start with everything wonderful and end with the revelation that there are only three months of runway left. The founder's survival mechanism—optimism in the face of constant rejection—becomes a trap when it prevents honest assessment of burn rate, churn, and competitive position. The best founders hold what Sacks calls a 'dual state': deep optimism about the company's ultimate vision combined with ruthless clarity about today's problems.
 

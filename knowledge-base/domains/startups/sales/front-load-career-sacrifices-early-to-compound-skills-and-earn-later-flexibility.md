@@ -64,6 +64,10 @@ related:
   - INS-260327-E546
   - INS-260329-7AAB
   - INS-260328-C2CB
+evidence:
+  - id: INS-260329-7AAB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The AE reflects on his career arc: in his early years, he worked 7am to 7pm in the office, hit the gym for 90 minutes, went home, and prospected on LinkedIn until bed. No family, no kids, maximum available hours poured into building skills and pipeline. Now at 42 with two kids, he cannot work that schedule -- but he doesn't need to because those early investments compounded.
 

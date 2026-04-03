@@ -65,5 +65,17 @@ evidence:
   - id: INS-260330-F493
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-96EC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-2AB9
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-C0D1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-C499
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 3Blue1Brown's COVID example shows a pattern that repeats across domains: when cases were in the hundreds and intervention was most effective, people dismissed the threat because linear intuition said 'it's small.' When cases exploded into the thousands, people panicked, but by then the trajectory was largely locked in. This asymmetry — cheap-action-window vs. emotional-response-window — is a fundamental feature of exponential processes. In startups, founders ignore early traction signals when a pivot would be easy, then desperately try to fix product-market fit when burn rate makes it expensive. In investing, people ignore early compounding because the absolute numbers seem trivial, then pile in after the obvious growth phase. In technical debt, small architectural issues are cheap to fix early but ignored until they become crises. The meta-lesson: if you can identify an exponential process early, act on the math before your emotions catch up to the reality.

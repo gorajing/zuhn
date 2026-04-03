@@ -45,6 +45,10 @@ related:
   - INS-260327-2A59
   - INS-260329-4F67
   - INS-260330-C9C2
+evidence:
+  - id: INS-260320-9118
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Scented candle purchases are really purchases of emotional states — calm, romance, coziness — using scent as the delivery mechanism for a psychological experience.
 

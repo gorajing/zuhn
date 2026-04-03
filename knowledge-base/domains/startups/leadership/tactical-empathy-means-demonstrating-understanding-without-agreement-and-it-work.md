@@ -56,6 +56,13 @@ related:
   - INS-260327-4C73
   - INS-260328-6A8C
 stance: Empathy is not sympathy or agreement
+evidence:
+  - id: INS-260402-2DCE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-4C73
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Chris Voss redefines empathy as pure understanding without agreement, liking, or compassion. He demonstrated this with Egyptian Muslim witnesses in terrorism trials — by stating 'you believe there's been a succession of American governments for 200 years that are anti-Islamic' without agreeing or disagreeing, he built enough trust for every single witness to testify. The key insight: being unafraid to articulate someone's worldview signals strength, not weakness.
 

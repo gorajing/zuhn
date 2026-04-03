@@ -51,6 +51,10 @@ related:
   - INS-260327-4367
   - INS-260330-66E6
   - INS-260330-BD04
+evidence:
+  - id: INS-260323-86FA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 As knowledge deepens, awareness of edge cases, exceptions, and interconnections grows faster than the knowledge itself. The expert sees complexity invisible to the novice. This is why 'it's complicated' is often more accurate than 'it's simple' - and why people who claim simple answers to complex problems are usually demonstrating ignorance rather than insight.
 

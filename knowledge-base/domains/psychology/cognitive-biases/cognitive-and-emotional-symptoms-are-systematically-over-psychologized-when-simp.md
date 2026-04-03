@@ -53,5 +53,9 @@ related:
   - PRI-260325-638B
   - INS-260329-5412
   - INS-260330-D5DD
+evidence:
+  - id: INS-260323-4D5E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Transfer from health principle: most chronic symptoms are nutrient deficiencies masquerading as diseases. Applied to cognitive biases: there is a systematic tendency to over-psychologize symptoms that have physiological roots. Anxiety might be magnesium deficiency. Brain fog might be B12. Fatigue might be iron. Depression might be vitamin D. The bias exists because psychological explanations feel sophisticated and physiological explanations feel reductive — but sophistication preference is itself a cognitive bias. The practical implication is diagnostic: when experiencing cognitive or emotional symptoms, the rational first step is blood work and supplementation, not therapy and medication. Test the $20 fix before the $200/hour fix.

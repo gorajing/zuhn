@@ -50,5 +50,9 @@ related:
   - INS-260330-4E10
   - INS-260330-CBF8
   - INS-260321-7D76
+evidence:
+  - id: INS-260330-4E10
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Nestlé's water strategy — extracting community water supplies, bottling it, and selling it back at markup — illustrates how controlling an essential resource creates near-unbreakable vendor lock-in. Unlike product differentiation which competitors can copy, resource-level control removes the free alternative entirely. This pattern appears across industries: cloud providers locking in data, platforms controlling API access, and aggregators gatekeeping distribution. The ethical line is whether you're creating genuine value or manufacturing artificial scarcity. Founders should recognize this pattern both as a strategic lever and as a red flag when evaluating partnerships with dominant players.

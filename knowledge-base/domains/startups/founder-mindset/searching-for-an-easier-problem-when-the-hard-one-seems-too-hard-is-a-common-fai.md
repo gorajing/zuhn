@@ -55,6 +55,10 @@ related:
   - INS-260327-B72F
   - INS-260330-579B
   - INS-260329-2242
+evidence:
+  - id: INS-260327-B72F
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Michael describes a B2B founder who used AI to identify a company's biggest problem, decided it was too hard to solve, then spent four months searching for easier problems — and found nothing important. This pattern maps to SAT test-taking advice: if the problem seems too hard, you're probably doing it wrong, skip it and find an easy one. But startups are not SATs.
 

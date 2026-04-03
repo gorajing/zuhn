@@ -53,6 +53,10 @@ related:
   - INS-260323-F15D
   - INS-260330-AA4F
   - INS-260322-D57C
+evidence:
+  - id: INS-260330-AA4F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi illustrates this with his own trajectory: from running individual gyms to licensing his gym launch playbook to hundreds of operators. The direct service model caps out at operator bandwidth and geographic constraints. The licensing model removes both — you package the system, methodology, and brand into a replicable unit that others execute.
 

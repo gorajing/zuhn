@@ -50,5 +50,12 @@ related:
   - INS-260323-CF93
   - INS-260330-F31A
   - INS-260329-1669
+evidence:
+  - id: INS-260323-CF93
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-1669
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 David Hand's 'probability lever' principle explains why seemingly impossible personal coincidences are actually expected. The average person's lightning strike probability is about 1 in a million per year, but an outdoor sportsman like Walter Summerford has dramatically higher exposure. When you combine elevated individual probability with the law of truly large numbers (billions of people across thousands of years), it would be surprising if nobody had Summerford's experience. This principle applies broadly: what seems rare on average can be common for specific subpopulations. It's a crucial correction to the base-rate neglect fallacy — we compute surprise using population averages rather than the conditional probability given that specific person's circumstances.

@@ -53,6 +53,12 @@ evidence:
   - id: INS-260327-B47E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-8849
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-5B3D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tolerate operating losses creates valuation dynamics disconnected from fundamentals.
 

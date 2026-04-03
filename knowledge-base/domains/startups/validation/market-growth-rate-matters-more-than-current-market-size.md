@@ -60,6 +60,16 @@ related:
   - INS-260330-548B
   - PRI-260328-C918
   - PRI-260322-8FD4
+evidence:
+  - id: INS-260329-8602
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-255F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-C36D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Altman identifies what he calls one of the biggest systemic mistakes investors make: evaluating market size as a snapshot rather than a trajectory. He argues that a small but rapidly growing market is preferable to a large but slow-growing one for two reasons. First, customers in rapidly growing markets are desperate for solutions and will tolerate imperfect but improving products — this gives startups the breathing room to iterate. Second, a growing market provides a structural tailwind that compounds with your own growth.
 

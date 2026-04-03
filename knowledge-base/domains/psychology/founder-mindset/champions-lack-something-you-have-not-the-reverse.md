@@ -51,6 +51,19 @@ related:
   - INS-260322-5CBF
   - INS-260329-7C84
   - INS-260402-EF63
+evidence:
+  - id: INS-260325-8B36
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-3F64
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-5CBF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-EF63
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi reframes the comparison between average and elite performers. The conventional framing asks 'what do they do that I don't?' — implying you need to add something. The reframe is 'what do they not do that I do?' — implying you need to subtract something.
 

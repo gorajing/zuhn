@@ -55,6 +55,15 @@ evidence:
   - id: INS-260330-C367
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-D0B4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-7AE9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260326-8E6D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Wilkenfeld's evolution as a performer tracks a clear arc: early in her career, she sat on a road case crying over one bad note at Montreux Jazz Festival. Now she doesn't get depressed about performances at all. The change wasn't that she stopped making mistakes -- it's that she became so fast at recovery that mistakes became invisible to the audience.
 

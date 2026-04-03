@@ -55,5 +55,9 @@ related:
   - INS-260323-7D3C
   - INS-260323-3436
   - INS-260330-8890
+evidence:
+  - id: INS-260330-A3AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Dr. Chuck makes an important distinction between programming for yourself versus programming for others. He argues that the primary goal should be writing programs that solve your own problems—analyzing your own data, automating your own workflows—not building products for millions of users. This is pedagogically powerful because it strips away enormous complexity: no need for error handling of unpredictable user input, no UI/UX concerns, no scalability requirements, no documentation. You just need code that works for your specific case. This principle extends beyond learning. In the startup context, the most successful developer tools often start as internal tools that founders built for themselves (Stripe, Slack, Basecamp). The 'scratch your own itch' approach naturally produces something with at least one confirmed user and genuine product-market fit. Dr. Chuck frames this as liberating: 'If it works for you, then we're happy.' This lowers the psychological barrier to shipping by eliminating the perfectionism that comes with imagining external users.

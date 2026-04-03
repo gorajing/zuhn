@@ -51,6 +51,10 @@ related:
   - INS-260323-DA1E
   - PRI-260323-CE34
   - INS-260330-0AE2
+evidence:
+  - id: INS-260323-DA1E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Multiple quotes in this collection converge on the same insight: Asimov's observation that breakthroughs come from 'That's funny...' rather than 'Eureka!', Darwin's systematic attention to exceptions, and Townes noting that great ideas seem obvious in retrospect. The pattern is that discovery is less about raw intelligence and more about a specific attentional discipline.
 

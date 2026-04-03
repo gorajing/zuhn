@@ -55,6 +55,10 @@ related:
 stance: >-
   The tension between dreaming and pragmatism is not a contradiction to resolve
   but a dance to maintain
+evidence:
+  - id: INS-260327-0133
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 McConaughey critiques both extremes: 'dream it, you can do it' is a half-assed horrible thing to tell someone if not paired with practical action. Equally, 'hope means nothing' misses that dreams provide necessary direction. The key insight is that siloing either one fails — if you only dream, you live in illusion; if you only grind, you lack direction.
 

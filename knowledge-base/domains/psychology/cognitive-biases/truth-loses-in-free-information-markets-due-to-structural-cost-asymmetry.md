@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-24D1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-E06A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Harari identifies a fundamental asymmetry in the information marketplace that explains why more information doesn't automatically lead to better outcomes. Truth requires massive investment — historians study for 10+ years, evidence must be cross-referenced and fact-checked, and reality is irreducibly complex. Fiction, by contrast, requires only imagination, can be simplified to any desired level, and can be made as pleasant as the audience wants.
 

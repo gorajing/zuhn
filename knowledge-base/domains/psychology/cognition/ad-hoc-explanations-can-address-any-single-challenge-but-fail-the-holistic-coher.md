@@ -69,6 +69,9 @@ evidence:
   - id: INS-260323-F4FA
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-3737
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Flat Earth proponents have surprisingly good explanations for individual pieces of evidence: circumnavigation is a flat circle path, lunar eclipse shadows could come from a disc, time zones work with a spotlight sun, and apparent gravity is just upward acceleration. Each explanation, in isolation, is internally consistent. Yet they are predominantly ad hoc — excuses made up on the spot that only address one issue and don't fit together into a coherent whole.
 

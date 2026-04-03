@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-D63D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260320-232D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Ordinary photography captures only the amplitude (intensity) of light at each pixel, discarding all phase information. A hologram uses a reference beam of the same frequency to create an interference pattern on film — regions where the object and reference beams are in phase get heavily exposed, while out-of-phase regions stay transparent. This interference pattern encodes both amplitude and phase of the entire light field. When the reference beam alone is later shone through the developed film, the diffraction effect reconstructs the original object wave, creating a complete 3D illusion viewable from a continuum of angles.
 

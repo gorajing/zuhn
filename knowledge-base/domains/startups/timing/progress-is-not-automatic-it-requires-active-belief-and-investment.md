@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-C477
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-B1A3
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Jason Crawford documents that progress outside of information technology has largely stalled since the 1970s. We still use the same fundamental energy sources, transportation modes, and manufacturing processes as the 1960s. Compare this to the explosive 1870-1920 period that delivered five simultaneous revolutions: electrical power, internal combustion, telecommunications, synthetic chemistry, and public health.
 

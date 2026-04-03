@@ -58,5 +58,11 @@ evidence:
   - id: INS-260329-5094
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-59A5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-5C64
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi observes that people who endlessly optimize their choice of path — which business, which skill, which market — never build momentum. The act of choosing eliminates the ongoing cognitive drain of evaluating alternatives. A committed wrong choice teaches you faster than an uncommitted search for the perfect choice, because execution generates real feedback while deliberation generates only hypothetical scenarios. This connects to the depth-over-breadth principle: the person who commits to one path for three years, even a suboptimal one, typically outperforms someone who spent those three years evaluating options. The key insight is that clarity comes from commitment, not before it.

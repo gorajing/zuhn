@@ -57,6 +57,10 @@ related:
   - INS-260325-C884
   - INS-260325-0FED
   - INS-260330-F6B1
+evidence:
+  - id: INS-260325-0FED
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Urban's core revelation is that procrastination has two forms. The first — deadline-based — is dramatic but self-correcting because the Panic Monster eventually intervenes. Papers get written at 3am, talks get prepared the week before. It's messy but functional.
 

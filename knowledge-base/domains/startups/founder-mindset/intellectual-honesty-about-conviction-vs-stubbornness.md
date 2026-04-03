@@ -46,6 +46,7 @@ stance: >-
   stubbornness—asking whether you're persisting because you truly believe, or
   just because giving up feels like losing.
 related:
+  - INS-260403-AC74
   - INS-260327-52C1
   - INS-260329-557C
   - INS-260327-51C2
@@ -53,6 +54,10 @@ related:
   - INS-260327-C4AC
   - INS-260330-4314
   - INS-260330-6A3A
+evidence:
+  - id: INS-260327-C4AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Simons spent 7 years building StackBlitz before Bolt's breakthrough. He candidly admits the company was about to go out of business. The question he constantly asked himself: 'Am I not giving up because people say you shouldn't, or because I actually have conviction?'
 

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260323-B07C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-144E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 VanDusen identifies founder hubris as a top-10 failure pattern: the confidence required to start a business becomes fatal when it prevents hiring expertise in marketing, consumer research, finance, sales, design, and customer service. 'Those who know what they don't know and hire or retain experts are much more likely to succeed.'
 

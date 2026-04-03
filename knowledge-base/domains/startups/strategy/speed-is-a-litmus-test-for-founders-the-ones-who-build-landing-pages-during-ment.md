@@ -53,6 +53,10 @@ related:
 stance: >-
   Founder speed is not just about iteration velocity — it's a behavioral signal
   that predicts fundraising success, user acquisition, and survival.
+evidence:
+  - id: INS-260329-B1D0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Cain's example of 'Captain Brian' — who literally rebuilt landing pages and rewrote messaging during mentoring calls — demonstrates that speed is not a tactic but a personality trait of successful founders. Brian shipped code quickly, tested feedback quickly, killed non-working ideas quickly, and closed his fundraising round before the accelerator ended. His startup sold within 2 years of launch.
 

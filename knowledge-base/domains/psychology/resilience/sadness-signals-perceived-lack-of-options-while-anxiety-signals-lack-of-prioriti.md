@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-5094
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260402-D534
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi presents a diagnostic framework for two commonly conflated emotional states. Sadness feels like hopelessness because the person perceives no available paths forward — the cure is acquiring knowledge that reveals options (e.g., someone laid off who discovers five job offers isn't sad). Anxiety feels like paralysis because the person sees many possible paths but can't prioritize — the cure is making a decision, even imperfectly, to collapse the option space into action.
 

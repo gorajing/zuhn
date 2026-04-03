@@ -63,6 +63,25 @@ related:
   - INS-260330-1C50
   - INS-260330-677A
   - INS-260330-D98E
+evidence:
+  - id: INS-260323-D621
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260328-7CA9
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-200C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-A75B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1C50
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-D98E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a counterintuitive pattern in social support for entrepreneurs: the initial encouragement you receive when starting out isn't pure goodwill — it's partly because quitting a stable job to pursue something risky actually lowers your status relative to peers. You've stepped down in income and prestige, which makes them feel better about their own position. They're genuinely happy because your risk-taking effectively removes you from competition.
 

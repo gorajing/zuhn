@@ -51,6 +51,13 @@ related:
   - INS-260325-502D
   - PRI-260328-FADC
   - INS-260323-0EE2
+evidence:
+  - id: INS-260325-502D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-0EE2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Robert Axelrod's game theory tournaments demonstrated that tit-for-tat - cooperate on the first move, then copy whatever the opponent did last - outperforms every sophisticated strategy in repeated interactions. It's simple, transparent, retaliatory (punishes defection), and forgiving (returns to cooperation immediately).
 

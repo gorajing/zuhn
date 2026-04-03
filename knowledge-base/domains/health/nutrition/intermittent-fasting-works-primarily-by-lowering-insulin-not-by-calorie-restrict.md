@@ -55,5 +55,9 @@ related:
   - INS-260327-56D0
   - INS-260327-BEF6
   - INS-260327-AF60
+evidence:
+  - id: INS-260329-565E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Berg dropped from 211 to 185 lbs after adopting intermittent fasting. The mechanism: every time you eat, insulin rises. Frequent snacking keeps insulin chronically elevated, preventing fat burning (ketosis). Most perceived hunger between meals is actually low blood sugar from glucose dependency, not true hunger. Puffy face, fluid retention around eyes, and swelling are insulin-driven. The body cannot enter fat-burning mode while constantly fueled by glucose. Two meals per day is the recommended baseline; some benefit from one meal a day. Never do a cleanse or fast with juice — the sugar prevents ketosis conversion.

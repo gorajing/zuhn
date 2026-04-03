@@ -64,6 +64,13 @@ related:
   - INS-260330-6C17
   - INS-260330-CBA5
   - INS-260330-0DF9
+evidence:
+  - id: INS-260330-6C17
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-CBA5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 At 30fps, an AK-47 firing underwater looks like a single violent event. At 27,450fps, it separates into three distinct phenomena with different physical causes, different spatial patterns, and different temporal signatures. The jump in temporal resolution didn't add detail to a known phenomenon — it revealed entirely new phenomena that could not be inferred from lower-resolution observation.
 

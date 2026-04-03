@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-8389
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-67D1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Sequoia's data shows AI apps falling far short of mobile peers on DAU/MAU ratio and one-month retention. The primary reason users cite for not sticking is the gap between expectations (set by impressive demos) and reality (the model isn't reliable enough for the promised task). This creates a specific strategic implication: as base model intelligence rises (Sora, Claude 3, etc.), product-market fit should accelerate because the reliability gap narrows.
 

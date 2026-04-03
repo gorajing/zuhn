@@ -60,6 +60,16 @@ related:
   - INS-260327-4313
   - INS-260327-ABE5
   - INS-260327-08E7
+evidence:
+  - id: INS-260330-4088
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-E0F5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-9575
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The war started as a genuine religious conflict between Catholic and Protestant states. But within a decade, the ideological lines blurred completely: Catholic France funded and allied with Protestant Sweden to weaken Catholic Austria. The war's later phases were entirely about power balance, territorial control, and dynastic ambition — religion became a convenient label for alliances that were actually geopolitical.
 

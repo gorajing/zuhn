@@ -55,5 +55,12 @@ related:
   - INS-260329-55F7
   - INS-260329-F063
   - INS-260330-7D07
+evidence:
+  - id: INS-260329-55F7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-F063
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Tyler Bosmeny observed that the top 1% of salespeople spend only 30% of a call talking, with 70% spent listening. They ask questions like 'Why did you agree to take my call?' and 'How do you solve this problem today?' rather than pitching features. This is counterintuitive because founders are proud of their product and want to demonstrate every feature. But the data is clear — at Clever, they could predict deal likelihood just by looking at the talk ratio from call analytics. The mechanism is that listening surfaces the prospect's actual pain points, letting you position your product as the solution to their specific problem rather than a generic pitch.

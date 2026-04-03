@@ -50,5 +50,12 @@ related:
   - INS-260323-A075
   - PRI-260328-EC3F
   - INS-260329-22B6
+evidence:
+  - id: INS-260323-A075
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-22B6
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Despite the mathematical case for paying highest-interest debt first, Hormozi recommends the psychological approach: pay off whichever debt you can eliminate fastest. This mirrors Dave Ramsey's 'debt snowball' method and is grounded in behavioral psychology — each eliminated debt creates a dopamine hit that reinforces the saving behavior. The key insight is that you'll pay all debts off eventually regardless of order, so the variable that matters most is whether you sustain the behavior long enough to finish. This principle generalizes beyond finance: when facing multiple parallel challenges, optimizing for early wins that build momentum often outperforms optimizing for theoretical efficiency. The person who follows through on a psychologically satisfying plan beats the person who abandons a mathematically optimal one.

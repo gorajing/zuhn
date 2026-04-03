@@ -65,6 +65,13 @@ related:
   - INS-260330-59E3
   - INS-260330-6FDF
   - INS-260330-CBA5
+evidence:
+  - id: INS-260330-6C17
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-CBA5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When an AK-47 fires underwater, what appears as a single explosive event actually contains three independent physical mechanisms: cavitation behind the bullet from the Bernoulli principle creating a low-pressure void, burnt gunpowder gas trailing the projectile as a separate bubble system, and shock-wave-induced vapor from the pressure pulse hitting surrounding water. At normal speed these are indistinguishable — one big splash. At 27,450 fps they separate into clearly distinct phenomena with different origins, timings, and behaviors.
 

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260322-96F1
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-990F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Robinhood's GameStop crisis crystallized a fundamental asymmetry in crisis communication: 'Robinhood is stealing from the poor and giving to the rich' is a simple lie that writes itself and takes seconds to spread. The truth — involving DTCC collateral requirements, T+2 settlement mechanics, and Dodd-Frank solvency rules — takes an order of magnitude more time to explain than the lie takes to produce.
 

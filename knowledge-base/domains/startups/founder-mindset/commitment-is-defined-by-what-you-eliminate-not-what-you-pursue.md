@@ -59,6 +59,13 @@ related:
   - INS-260329-9EFA
   - INS-260329-1435
   - INS-260330-F348
+evidence:
+  - id: INS-260325-27ED
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-846D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi defines commitment as 'the elimination of alternatives,' using marriage as the clearest analogy: you eliminate all other potential partners. Applied to business, if you enter a partnership agreeing to pursue no other ventures, that constraint is the commitment. The insight reframes the common failure mode where people 'commit' to a new goal while keeping all their old options alive.
 

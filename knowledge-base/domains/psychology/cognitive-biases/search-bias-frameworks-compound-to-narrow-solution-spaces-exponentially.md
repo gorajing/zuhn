@@ -74,5 +74,8 @@ evidence:
   - id: INS-260325-5635
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-684D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Neil deGrasse Tyson systematically catalogs the biases embedded in how we search for extraterrestrial life: carbon bias (why not silicon?), planet bias (life could exist on moons, in atmospheres, or on rogue planets), habitable zone bias (energy sources beyond stellar radiation exist, like tidal forces and geothermal heat), and intelligence bias (assuming alien intelligence resembles ours). Each bias independently seems reasonable — carbon IS 5-10x more abundant than silicon — but they stack multiplicatively. The broader principle applies to any search problem: product development, hiring, research methodology. When you layer 'reasonable' constraints, the compounding effect can eliminate the vast majority of your actual solution space. The antidote is periodically auditing each constraint independently and asking whether it's load-bearing or merely inherited from the last person who framed the question.

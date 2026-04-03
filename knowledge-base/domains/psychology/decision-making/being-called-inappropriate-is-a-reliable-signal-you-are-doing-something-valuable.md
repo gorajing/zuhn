@@ -59,6 +59,16 @@ related:
   - INS-260330-3570
   - INS-260330-ABBF
   - INS-260329-B604
+evidence:
+  - id: INS-260323-8271
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-116A
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-B604
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham argues that criticism should be evaluated by its specificity. If people say your work doesn't function, that's a real problem. But if the worst they can say is that you're unqualified or that what you're doing is inappropriate, they've implicitly conceded that the work itself is good — they're attacking your credentials rather than your output. 'Pointing out that someone is unqualified is as desperate as resorting to racial slurs.'
 

@@ -62,6 +62,13 @@ related:
   - INS-260325-DF82
   - INS-260325-A66E
   - INS-260330-16CD
+evidence:
+  - id: INS-260327-CA72
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-16CD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Peterson proposes a heuristic for evaluating crisis leaders: separate the question of whether the dragon (threat) is real from whether the person fighting it is qualified. If someone responds to a genuine threat by becoming paralyzed with fear and willing to use tyrannical compulsion to force others into action, they fail the leadership test — not because the threat isn't real, but because their reaction demonstrates they lack the psychological capacity to address it effectively.
 

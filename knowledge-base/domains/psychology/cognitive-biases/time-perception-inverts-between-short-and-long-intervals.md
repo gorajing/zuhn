@@ -55,6 +55,10 @@ related:
 stance: >-
   Active engagement makes short intervals feel fast but long periods feel slow,
   while boredom does the opposite
+evidence:
+  - id: INS-260329-22B6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Al-Khalili highlights a counter-intuitive inversion in how we perceive time at different scales. Over long periods (years/decades), being active and laying down new experiences makes time feel like it flew by — hence why childhood felt endless but adulthood races. Yet over short intervals (minutes/hours), the same active engagement makes time pass quickly, while boredom and inactivity make time drag.
 

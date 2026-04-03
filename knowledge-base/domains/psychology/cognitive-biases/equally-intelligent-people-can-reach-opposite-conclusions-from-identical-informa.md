@@ -51,7 +51,6 @@ related:
   - INS-260323-D934
   - INS-260330-2B33
   - INS-260330-7675
-  - INS-260330-0E49
   - INS-260402-7A1A
 stance: >-
   Newcomb's Paradox shows smart people split 50/50 because they weigh evidence
@@ -60,6 +59,21 @@ evidence:
   - id: INS-260402-7A1A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-8966
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-5BC4
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-D934
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-7675
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-0E49
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The Guardian poll of 31,000+ people showed a near-even split (53.5% one-boxers vs 46.5% two-boxers) on Newcomb's Paradox. Each side finds the other's position obviously wrong. The divide stems from a hidden assumption: one-boxers rely on evidential decision theory (prior accuracy of the predictor), while two-boxers rely on causal decision theory (your current choice cannot change what is already in the box).
 

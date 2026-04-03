@@ -50,6 +50,10 @@ resolutions:
 stance: >-
   Marketing should target the person who pays, not just the person who uses the
   product
+evidence:
+  - id: INS-260329-8B10
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 
 When the user and the buyer are different people, your marketing

@@ -48,7 +48,6 @@ stance: >-
   quitting — is a learnable skill and the primary differentiator in long-term
   success
 related:
-  - INS-260320-5F14
   - INS-260325-27ED
   - INS-260323-8B89
   - INS-260327-2F78
@@ -58,6 +57,7 @@ related:
   - PRI-260328-094A
   - INS-260329-0F10
   - INS-260402-9681
+  - INS-260327-8521
 evidence:
   - id: INS-260320-5F14
     type: SUPPORTS

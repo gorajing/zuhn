@@ -57,6 +57,13 @@ related:
   - INS-260330-F20D
   - INS-260330-6D86
   - INS-260323-4D5E
+evidence:
+  - id: INS-260322-AB55
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-4D5E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Harris makes the subtle but critical point that 'your capacity to be offended isn't something that anyone needs to respect — it's something you should be on your guard for.' He argues that moral outrage functions as a cognitive shortcut that bypasses analytical reasoning: when you feel viscerally offended, that feeling presents itself as proof that injustice has occurred, even when the actual evidence is ambiguous.
 

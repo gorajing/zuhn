@@ -58,6 +58,13 @@ related:
   - INS-260329-1DA3
   - INS-260330-49C8
   - INS-260330-5036
+evidence:
+  - id: INS-260329-882A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-1DA3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham draws a sharp distinction between two types of startup knowledge: mechanics (fundraising, legal structures, employee agreements) and substance (deep understanding of users and their problems). Zuckerberg succeeded despite being a 'complete noob at startups' because he understood his users deeply. An undergrad who knows about class FF stock and convertible notes actually triggers alarm bells — it signals someone focused on form over substance.
 

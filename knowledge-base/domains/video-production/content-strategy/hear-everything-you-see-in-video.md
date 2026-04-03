@@ -48,6 +48,13 @@ resolutions:
 stance: >-
   Every visual element on screen must have corresponding audio for immersive
   video sound design
+evidence:
+  - id: INS-260330-1296
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-EE7E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 
 The core principle of sound design for video is that every visual

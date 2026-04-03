@@ -48,6 +48,10 @@ related:
   - INS-260323-5BEF
   - INS-260402-D0F3
   - INS-260323-FAF0
+evidence:
+  - id: INS-260402-D0F3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Ambitious people frequently interpret boredom or frustration as evidence they're in the wrong field, triggering a cycle of starting and abandoning pursuits. Hormozi argues this misinterpretation is the primary mechanism behind inconsistency — the belief that the 'right' path should feel exciting consistently.
 

@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-6061
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-5522
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The author's framework: never hire because you raised money or have cash in the bank. Hire only when it's literally the only way to scale — when you're desperate and dying without this person. Then hire people who are obsessively committed and can do the work of multiple people.
 

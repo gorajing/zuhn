@@ -53,6 +53,10 @@ related:
   - INS-260320-3798
   - INS-260330-8E8A
   - INS-260330-3570
+evidence:
+  - id: INS-260320-3798
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Surprises are not merely things you didn't know but things that contradict what you thought you knew. This makes them uniquely valuable — like food that doesn't just nourish but counteracts unhealthy things you've already eaten. The process of collecting surprises compounds: the more anomalies you've noticed, the more easily you spot new ones, meaning life should become more surprising as you age.
 

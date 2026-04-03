@@ -49,7 +49,6 @@ stance: >-
   perspiration of turning ideas into practical products matters far more than
   the 1% inspiration of the original idea.
 related:
-  - INS-260321-F864
   - INS-260323-4E23
   - INS-260325-75A3
   - INS-260325-568A
@@ -61,6 +60,12 @@ evidence:
   - id: INS-260321-F864
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-4E23
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8304
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Matt Ridley draws a critical distinction between invention (creating a prototype) and innovation (turning that prototype into something practical, affordable, and reliable). Edison captured this as 1% inspiration, 99% perspiration. The 'lone genius' narrative is a myth reinforced by patents and Nobel Prizes — even Norman Borlaug's Green Revolution was a chain of contributions spanning Japan, Oregon, Mexico, and India.
 

@@ -69,5 +69,8 @@ evidence:
   - id: INS-260329-7B15
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-CCDE
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 The when-then fallacy states 'when I have X, then I will do Y' but flips the causal sequence. Examples: 'I'll invest in the program when I have more money' (the program generates money), 'I'll join the gym when I'm in better shape' (the gym creates the shape), 'I'll save money when I'm rich' (saving creates wealth). Hormozi learned this framework from Jason Flatley and uses it as one of his most powerful objection overcomes. Rather than arguing with the prospect, you simply name the pattern and give two absurd examples so they recognize the distortion themselves. The framework works because it's not an attack — you share that you suffered from the same fallacy and describe the epiphany, stepping into their shoes and walking them through the realization from the inside out. This is a cross-domain principle that applies beyond sales to any decision-making context where people defer action until conditions that the action itself would create.

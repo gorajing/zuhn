@@ -55,6 +55,22 @@ related:
   - INS-260327-005D
   - INS-260330-F3A8
   - INS-260329-CBEB
+evidence:
+  - id: INS-260329-086B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-5F35
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-005D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-F3A8
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-CBEB
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 When prospects push for specific answers (certifications, pricing details, timelines), providing answers puts the salesperson in a lose-lose position: the prospect becomes judge of whether the answer is acceptable, and salespeople are rarely as knowledgeable as the delivery team. Hormozi's 'mechanic frame' solves this: 'It would be unethical for me to answer without looking under the hood first.'
 

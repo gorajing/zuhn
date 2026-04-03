@@ -70,5 +70,8 @@ evidence:
   - id: INS-260329-8F86
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-91DD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The course repeatedly demonstrates that advanced data structures like indexed priority queues, union-find with path compression, and balanced BSTs are built by composing simpler primitives — arrays backing heaps, trees augmenting hash maps, etc. This compositional approach is more maintainable, easier to reason about correctness, and often performs as well as or better than bespoke solutions. The same principle applies to system design broadly: favor composition of proven components over novel monolithic designs. When facing a complex problem, the first question should be 'which simpler structures can I combine?' rather than 'what new structure do I need to invent?'

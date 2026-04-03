@@ -53,6 +53,10 @@ related:
   - INS-260330-8D2C
   - INS-260330-BA3A
   - PRI-260323-A3A3
+evidence:
+  - id: INS-260323-4DF1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Burkeman describes a pattern he reluctantly identified: the material that provokes the strongest cringe response is often the most relevant. When self-compassion feels yucky, when a practice seems too corny, that is frequently a defense mechanism protecting something vulnerable. The sardonic dismissal of earnest advice is a way of maintaining distance from material that has actually landed.
 

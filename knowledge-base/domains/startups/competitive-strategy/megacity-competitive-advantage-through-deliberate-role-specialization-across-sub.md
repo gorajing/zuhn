@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-EF74
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-8FC5
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The Greater Bay Area plan explicitly assigns economic roles: Hong Kong serves as the international finance and trade gateway, Shenzhen as the technology and innovation center (home to DJI, Tencent, BYD), Macau as the entertainment and tourism hub, and Guangzhou as the administrative capital. This deliberate specialization prevents destructive internal competition and creates complementary capabilities.
 

@@ -58,6 +58,16 @@ related:
   - INS-260328-217C
   - INS-260325-77B1
   - INS-260325-14A9
+evidence:
+  - id: INS-260327-3C19
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-ADC4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-6020
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham distinguishes two forms of procrastination: per-day (putting off today's work) and per-project (putting off starting the ambitious project you should be pursuing). Per-day procrastination triggers obvious alarm bells — you're visibly idle. But per-project procrastination is insidious because you appear productive: you're working hard on something else. You can procrastinate in units of years without noticing because you're never sitting idle.
 

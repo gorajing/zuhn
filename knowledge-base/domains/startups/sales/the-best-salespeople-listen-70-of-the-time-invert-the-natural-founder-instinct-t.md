@@ -58,6 +58,10 @@ related:
   - INS-260328-0C87
   - INS-260329-3036
   - INS-260330-D644
+evidence:
+  - id: INS-260330-D644
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Bosmeny shares that after shadowing world-class salespeople, he found they were soft-spoken, world-class listeners — nothing like the Don Draper stereotype. They spent 70% of calls listening and asking questions like 'tell me about your problem' and 'what would your ideal solution look like,' leaving only 30% for their own talking.
 

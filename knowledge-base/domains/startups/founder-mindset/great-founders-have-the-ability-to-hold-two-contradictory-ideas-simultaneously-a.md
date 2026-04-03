@@ -67,5 +67,8 @@ evidence:
   - id: INS-260326-6C36
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-A01C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Horowitz's framework for what makes founders great goes beyond the usual answers (vision, grit, execution). The key trait is managing paradox: 1) Total conviction + radical openness to being wrong, 2) Long-term vision + willingness to pivot everything tomorrow, 3) Deep empathy for the team + ability to make brutal decisions that hurt individuals, 4) Confidence in pitches + genuine uncertainty in private. This echoes Fitzgerald's test of a first-rate intelligence: 'the ability to hold two opposing ideas in mind at the same time and still retain the ability to function.' Most people resolve paradox by picking a side (optimist OR pessimist, visionary OR pragmatist). Great founders hold both simultaneously, deploying whichever frame the moment requires.

@@ -58,6 +58,10 @@ related:
   - INS-260329-F21F
   - INS-260327-F55A
   - INS-260325-8B36
+evidence:
+  - id: INS-260330-31B5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham distinguishes two types of insider rejection: ideas dismissed as impossible (which insiders have usually thought about carefully) and ideas dismissed as undignified (which they haven't examined at all). HP passed on the Apple II partly because it used a TV as a monitor — not because it couldn't work, but because it seemed low-class. Durer made masterpieces in engraving, a medium considered suitable only for devotional images.
 

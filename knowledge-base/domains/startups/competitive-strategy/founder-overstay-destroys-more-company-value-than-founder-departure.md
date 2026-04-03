@@ -50,6 +50,10 @@ related:
   - INS-260329-60CF
   - INS-260323-4C43
   - INS-260327-3930
+evidence:
+  - id: INS-260327-D77C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The billionaire retirement paradox has a corporate governance dimension: leaders who refuse to step down often block necessary strategic pivots. They optimize for the business environment they mastered rather than the one that exists. Boards are reluctant to push out iconic founders/leaders even when performance suffers.
 

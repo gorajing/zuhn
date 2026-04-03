@@ -56,6 +56,10 @@ related:
   - INS-260402-A558
   - INS-260326-B10B
   - PRI-260328-521E
+evidence:
+  - id: INS-260325-A326
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Harris highlights how figures who saw January 6th clearly in its immediate aftermath have since 'reformatted their hard drives' to treat it as a non-issue — crucially, 'with no new discoveries about January 6th.' This is not a case of new evidence changing minds; it's pure motivated reasoning overwriting genuine perception.
 

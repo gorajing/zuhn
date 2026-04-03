@@ -57,5 +57,15 @@ related:
   - INS-260329-BF51
   - INS-260329-1B2A
   - INS-260330-059B
+evidence:
+  - id: INS-260330-059B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-BF51
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-1B2A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Buy Now Pay Later services exploit a well-documented cognitive bias: payment pain is felt at the moment of transaction, not when the bill comes later. By splitting payments into 4 installments, BNPL reduces perceived cost by 75% at the moment of decision. Hildebrand shows that BNPL users spend 30-50% more per transaction than cash/card buyers. The generational risk: young consumers who grew up with BNPL have internalized the idea that affording something means being able to make the first payment, not having the full amount. This is creating a cohort with normalized micro-debt across dozens of simultaneous BNPL obligations. The companies profit regardless of whether users can actually afford the purchases — late fees are a revenue center, not a warning sign.

@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-A92A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-2DB0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When mounting evidence linked sugary drinks to obesity and diabetes (one study showed a single daily soft drink increased childhood obesity risk by 60%), Coca-Cola adopted the same strategy the tobacco industry had pioneered: manufacturing doubt. Rather than contest specific findings, they funded hundreds of thousands of dollars worth of studies designed to cast doubt on the connection, then used those industry-funded studies without disclosing the funding source.
 

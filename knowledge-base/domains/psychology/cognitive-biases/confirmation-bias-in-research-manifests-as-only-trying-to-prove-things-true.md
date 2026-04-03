@@ -52,6 +52,10 @@ related:
   - PRI-260328-1D0B
   - INS-260330-9471
   - INS-260330-32E6
+evidence:
+  - id: INS-260330-32E6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Alex Kontorovich describes his paradigm shift after two decades on the problem: 'It's very hard to prove a theorem that's false.' He recounts a separate problem he spent three years trying to prove before finding a counterexample, which immediately clarified the correct statement and led to a proof within a month.
 

@@ -50,6 +50,10 @@ related:
   - INS-260327-875C
   - INS-260322-E20E
   - INS-260324-A046
+evidence:
+  - id: INS-260330-707D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The iPhone X cost $999 at launch but retained $679 of value after a year — a real cost of just $320 ($26/month). Meanwhile, a OnePlus One lost 94% of its value and a Google Pixel lost 82%. This means the 'expensive' iPhone was actually cheaper to own than many 'budget' alternatives.
 

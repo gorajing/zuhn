@@ -48,6 +48,13 @@ resolutions:
 stance: >-
   Follower count is irrelevant in short-form video because distribution is
   algorithmic not follower-based
+evidence:
+  - id: INS-260327-94E6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-5C65
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 
 Social media has shifted from a follower graph (you see posts from people

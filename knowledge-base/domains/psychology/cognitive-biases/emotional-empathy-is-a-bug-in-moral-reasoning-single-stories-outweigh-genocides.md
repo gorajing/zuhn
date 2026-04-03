@@ -55,6 +55,10 @@ related:
 stance: >-
   Emotional contagion empathy makes one identified victim more compelling than
   500,000 statistical victims
+evidence:
+  - id: INS-260323-F853
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Harris distinguishes two forms of empathy: cognitive empathy (understanding another's perspective, essentially a form of reason) and emotional contagion (feeling what others feel). Drawing from Paul Bloom's 'Against Empathy,' he argues emotional contagion is often a bad moral guide — we'll donate everything for one girl in a well while changing the channel on a genocide.
 

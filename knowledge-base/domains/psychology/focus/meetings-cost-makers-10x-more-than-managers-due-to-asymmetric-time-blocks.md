@@ -47,5 +47,18 @@ related:
   - INS-260329-5306
   - INS-260322-8F80
   - INS-260402-5974
+evidence:
+  - id: INS-260327-176D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-5306
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260322-8F80
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-5974
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Managers divide their day into 20+ small chunks (15-60 minutes each), so a single meeting costs roughly 1/100th of their weekly capacity. Makers work in 4-6 hour blocks and typically have only two per day — about 10 per week. When a manager schedules a 30-minute meeting with a maker, the actual cost isn't 30 minutes but the entire block: the Zeigarnik effect means the maker can't enter flow before the meeting (anticipation) or after it (recovery). This 10x cost asymmetry explains why makers feel devastated by 'quick' meetings that managers consider trivial. Organizations that don't account for this asymmetry systematically destroy their highest-leverage work.

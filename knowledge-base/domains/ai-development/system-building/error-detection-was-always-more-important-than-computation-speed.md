@@ -68,6 +68,9 @@ evidence:
   - id: INS-260329-4109
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-8FF8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Charles Babbage discovered a crucial principle: two calculations done the same way by different people tend to produce the same errors. This meant verification required approaching problems in fundamentally different ways, not just repeating them. The nautical almanac offices in London and Paris developed methods that could both compute and 'undo' calculations in different forms specifically to expose errors.
 

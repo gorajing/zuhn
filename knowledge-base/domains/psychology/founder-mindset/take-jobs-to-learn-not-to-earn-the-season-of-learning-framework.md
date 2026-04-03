@@ -55,6 +55,21 @@ evidence:
   - id: INS-260329-55DC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-4DF1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-7BFA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-32A4
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-E76F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9F81
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Hormozi illustrates this with a candidate who negotiated for an extra $3,000/year instead of recognizing the learning opportunity. The premium employers pay for experienced hires reflects accumulated knowledge — if a new role adds nothing to your skillset, you're selling your current abilities rather than building new ones.
 

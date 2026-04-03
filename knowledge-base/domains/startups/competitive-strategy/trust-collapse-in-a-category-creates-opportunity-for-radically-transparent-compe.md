@@ -54,6 +54,12 @@ evidence:
   - id: INS-260323-D288
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-84E6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-F909
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When consumer trust in an entire category collapses due to widespread deception, brands that adopt radical transparency in pricing, sourcing, and manufacturing can capture disproportionate market share.
 

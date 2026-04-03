@@ -57,5 +57,8 @@ evidence:
   - id: INS-260326-786D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-482E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Charlie Munger's inversion principle suggests that instead of asking 'how do I get rich?', you should ask 'how do I guarantee I stay poor?' and then avoid those behaviors. This works because the human brain evolved stronger circuits for threat avoidance than for reward pursuit — we're wired to run from lions faster than we chase gazelles. In practice, this means a list of 'never do this' rules produces more consistent behavior change than a list of aspirational goals. The approach is particularly effective for wealth-building because most financial failure comes from a small set of repeatable mistakes, not from a lack of brilliant strategy.

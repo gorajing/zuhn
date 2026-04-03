@@ -53,5 +53,9 @@ related:
   - INS-260323-0683
   - INS-260330-3138
   - INS-260402-E85D
+evidence:
+  - id: INS-260330-3138
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Matt Jones identifies a dangerous myth: founders tell themselves that growth will fix interpersonal issues. During high-growth phases, roles evolve rapidly. One founder scales with the company while the other may lag. Imposter syndrome, shifting power dynamics, and increased visibility add pressure. Communication bottlenecks amplify disconnection. This 'bull in a china shop' phase of moving fast and breaking trust is where most co-founder relationships fracture. The preventive measure is regular co-founder dates — dedicated time for meta-communication with one question: 'how are we doing?'

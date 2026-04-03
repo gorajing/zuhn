@@ -64,6 +64,13 @@ related:
   - INS-260330-9E25
   - PRI-260328-F570
 stance: There are no true focus-enhancing drugs
+evidence:
+  - id: INS-260330-EDDD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-9E25
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Huberman makes an important pharmacological distinction: there are no drugs that increase focus per se — all current options (Adderall, modafinil, Wellbutrin, caffeine, nicotine) increase alertness, which gates focus. Sleep gates alertness. So stimulants are essentially a bypass for inadequate sleep, and they always exact a cost — either disrupted sleep (creating a vicious cycle) or cardiac strain from chronic sympathetic nervous system activation.
 

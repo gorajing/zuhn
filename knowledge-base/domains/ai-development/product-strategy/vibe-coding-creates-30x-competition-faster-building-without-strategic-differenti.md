@@ -49,14 +49,14 @@ resolutions:
 related:
   - INS-260325-DD43
   - INS-260323-E15F
+  - INS-260403-8011
   - PRI-260328-D5EB
   - INS-260330-697F
   - PRI-260321-14D8
-  - INS-260327-A61B
   - INS-260327-FA43
+  - INS-260327-A61B
   - INS-260327-EC45
   - INS-260329-9115
-  - INS-260329-A57B
 stance: 'If AI lets you build faster, it lets every other founder build faster too'
 evidence:
   - id: INS-260323-E15F

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-4E12
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-71E4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 LIGO's original design could detect gravitational waves from only a relatively small volume of space and found nothing. Through iterative improvements to laser power, mirror quality, suspension systems, and noise reduction, it now reaches over 1,000 times more space than the original. They detect events roughly once every 3 days, having logged 294 detections.
 

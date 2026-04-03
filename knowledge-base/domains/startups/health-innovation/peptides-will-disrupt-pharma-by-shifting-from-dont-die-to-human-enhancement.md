@@ -92,6 +92,9 @@ evidence:
   - id: INS-260321-9AB5
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-1384
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Current pharmaceuticals are largely 'don't die' interventions — take a statin to avoid a heart attack. Peptides represent a different category entirely: human enhancement compounds that increase energy, improve sex drive, reduce inflammation, and improve gut health. Early results from users are promising, though rigorous research is still needed.
 

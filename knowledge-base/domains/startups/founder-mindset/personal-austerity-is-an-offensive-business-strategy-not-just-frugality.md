@@ -50,5 +50,9 @@ related:
   - INS-260329-0B9D
   - INS-260327-A75B
   - INS-260323-EDAD
+evidence:
+  - id: INS-260323-EDAD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi frames personal austerity not as a path to wealth through saving alone, but as a strategic enabler of business risk-taking. He lived on under $15K/month while earning $1M/month, and earlier shared a bedroom with a roommate while making $2K/month — not because he couldn't spend more, but because low personal burn meant he could survive nine failed businesses and seven failed partnerships without going into debt. The key insight is that saving money won't make you money, but it allows you to think further out and make bigger bets. Each of his major business milestones (gym → gym turnaround → Gym Launch → Prestige Labs → Acquisition.com) required the financial runway from the previous phase's austerity. This reframes the frugality conversation from 'deny yourself pleasures' to 'buy yourself unlimited retry attempts at entrepreneurship.'

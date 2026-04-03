@@ -58,5 +58,11 @@ evidence:
   - id: INS-260322-0812
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-165D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-5C65
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The marketing playbook is specific and repeatable: (1) search TikTok for existing popular apps in your category, (2) find their viral videos, (3) study the opening hook — e.g., 'Stop scrolling if you have a hard time expressing your emotions,' (4) film a 20-30 second clip with that same hook structure but demoing your app, (5) put a download link in your TikTok bio. This works because the viral video has already proven the hook resonates with the target audience. You're not guessing what messaging works — you're reusing validated emotional triggers with your own product. The key insight is that TikTok is both your market research tool and your primary distribution channel for mobile apps.

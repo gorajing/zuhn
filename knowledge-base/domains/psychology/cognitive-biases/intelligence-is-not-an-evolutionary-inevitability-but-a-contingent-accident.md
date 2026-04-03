@@ -67,5 +67,20 @@ evidence:
   - id: INS-260323-7D90
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-E19E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-DC5E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-0961
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-C418
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-413D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Tyson makes a compelling case that intelligence is not an inevitable product of evolution. Dinosaurs thrived for 300 million years as a dominant community without developing anything resembling technological intelligence. Without the specific asteroid impact 65 million years ago, they'd still be here — and mammals would still be rodent-sized prey animals. Meanwhile, cockroaches thrive without big brains, proving that intelligence is clearly not required for evolutionary success. Humans went from rodents to civilization in just 65 million years — a vanishingly small fraction of Earth's 4-billion-year biological history. This challenges two common assumptions: (1) that AI development is 'inevitable' given sufficient computational substrate, and (2) that technological progress follows a deterministic path. Both may be as contingent as the asteroid that cleared the ecological niche for mammals. The practical lesson: don't confuse 'it happened once' with 'it was bound to happen.' Survivorship bias makes contingent outcomes look inevitable in retrospect.

@@ -60,6 +60,16 @@ related:
   - PRI-260323-9928
   - INS-260329-9A5A
   - PRI-260328-A805
+evidence:
+  - id: INS-260330-04C0
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-502D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A5A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Ferguson identifies a central rift within the Trump administration: one faction (Rubio, Waltz, DOD appointments, NSC members) sees an 'axis of authoritarians' led by China that must be confronted collectively. The other faction (Trump's inner circle, including informal advisors like Tucker Carlson) believes the axis is too powerful and advocates detente — particularly with China and Russia. The resulting policy oscillates between hawkish appointments and conciliatory presidential behavior.
 

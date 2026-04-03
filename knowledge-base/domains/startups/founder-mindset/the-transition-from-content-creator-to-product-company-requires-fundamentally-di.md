@@ -61,6 +61,13 @@ related:
   - INS-260327-165D
   - INS-260327-6D58
   - INS-260327-7CAF
+evidence:
+  - id: INS-260323-FF23
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-165D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Giertz's transition from YouTube creator to product company founder required developing skills almost entirely unrelated to content creation: supply chain management, manufacturing quality control, customer service, financial planning, and team management. YouTube success provided brand awareness but not business capability.
 

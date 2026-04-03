@@ -67,6 +67,15 @@ evidence:
   - id: INS-260330-96FE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-8D4F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-19E1
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4F7B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Benjamin Franklin wrote in 1786 about lead's known dangers: 'You will observe with concern how long a useful truth may be known and exist before it is generally received and practiced on.' Despite this, Thomas Midgley Jr. chose to add tetraethyl lead to gasoline in 1921, and it took until 2021 for Algeria — the last country — to ban leaded fuel.
 

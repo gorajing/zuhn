@@ -68,5 +68,8 @@ evidence:
   - id: INS-260329-F4CD
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260402-3C79
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Transfer from psychology principle: survival selects for stability, not optimality. Applied to biohacking: the body's default systems exist because they survived selection pressures that eliminated fragile-but-optimal alternatives. When a biohacker aggressively optimizes one parameter — pushing testosterone to the top of range, minimizing body fat, maximizing VO2max — they may destabilize the broader homeostatic web that evolution spent millions of years calibrating. The hormone system, immune function, and metabolic regulation are all interconnected stability systems. Pushing one to its theoretical optimum can crash neighboring systems that depended on the suboptimal-but-stable default. The practical implication: the best biohacking strategy is gentle nudging of multiple parameters toward their stable-zone centers, not aggressive optimization of any single metric.

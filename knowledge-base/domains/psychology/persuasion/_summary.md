@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 12 insights
+> 13 insights
 
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
 - `INS-260330-9DC9` [high] Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
@@ -13,4 +13,5 @@
 - `INS-260330-6A3A` [medium] The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260330-A1AF` [medium] Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
+- `INS-260403-6E11` [medium] The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260330-80AF` [medium] Swear words across languages tend to be short with hard consonants because cultural selection favors words that can be deployed rapidly and with maximum percussive impact.

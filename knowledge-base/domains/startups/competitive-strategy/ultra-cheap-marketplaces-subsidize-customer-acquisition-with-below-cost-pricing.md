@@ -48,6 +48,10 @@ related:
   - INS-260328-A666
   - INS-260329-4B45
   - INS-260330-809A
+evidence:
+  - id: INS-260330-D644
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Platforms like Temu sell products below cost as a customer acquisition strategy subsidized by investor capital, creating a market presence that will collapse when subsidies end.
 

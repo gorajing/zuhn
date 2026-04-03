@@ -60,6 +60,16 @@ related:
   - INS-260330-90C3
   - INS-260330-D066
   - PRI-260323-9D46
+evidence:
+  - id: INS-260330-0BD3
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1622
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-D066
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Intelligence professionals follow two complementary razors: Occam's (simplest answer is usually correct) and what might be called the 'competency razor'—never prescribe to conspiracy what can be explained through incompetence. Bustamante calls this a principle backed by 'ages of experience' in intelligence work. The reasoning is that carrying out a complex coordinated lie requires a level of organizational competency that most groups simply don't possess.
 

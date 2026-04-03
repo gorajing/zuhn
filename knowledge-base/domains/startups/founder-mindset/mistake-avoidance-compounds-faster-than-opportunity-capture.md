@@ -48,6 +48,13 @@ related:
   - INS-260402-6D5E
   - INS-260402-A999
   - INS-260329-8329
+evidence:
+  - id: INS-260402-A999
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-8329
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The mathematical asymmetry of losses versus gains means a 50% loss requires a 100% gain to recover. This makes mistake-avoidance disproportionately powerful for wealth accumulation — each avoided catastrophic behavior preserves the base on which future returns compound.
 

@@ -72,6 +72,9 @@ evidence:
   - id: INS-260327-D9D6
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-5522
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Levie draws a critical distinction in enterprise product development: listen deeply to customer problems but never build exactly what they tell you to build. Customers describe solutions in terms of their current workflows and mental models — they'll ask for features that patch existing processes rather than reimagine them. Your job is to distill many complex requests down into the simplest, most elegant solution that addresses the underlying need.
 

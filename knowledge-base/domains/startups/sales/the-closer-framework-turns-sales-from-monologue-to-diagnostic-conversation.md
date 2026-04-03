@@ -53,5 +53,9 @@ related:
   - INS-260327-A815
   - INS-260329-89DA
   - INS-260329-DF36
+evidence:
+  - id: INS-260330-DC8B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's CLOSER framework reframes sales as diagnosis rather than persuasion. The critical insight is in the sequence: Clarify why the prospect is there, Label them with their problem (establishing the gap between current and desired state), Overview past pain (expanding that gap through deprivation awareness), Sell the vacation (describe the destination, not the journey — 'talk about Maui, not TSA'), Explain away concerns (6 categories: time, money, authority, fit, others' experiences, avoidance), and Reinforce the decision through immediate onboarding promises. The 'sell the vacation' step is where most salespeople fail — they launch into product monologues instead of painting the desired outcome. The framework is transferable because it was specifically designed to be teachable to employees, making it a system rather than dependent on charisma.

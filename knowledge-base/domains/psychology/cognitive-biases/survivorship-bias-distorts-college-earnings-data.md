@@ -55,5 +55,14 @@ evidence:
   - id: INS-260327-9431
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-4B37
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-9924
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-50BD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When people cite the statistic that college graduates earn significantly more than non-graduates, they commit a selection bias error. Students who complete college tend to be more conscientious, higher-IQ, better-networked, and from wealthier families — all traits that independently predict higher earnings. The degree itself may contribute only a fraction of the observed premium. Hormozi argues this is one of the most consequential statistical fallacies in personal finance, because it leads millions to take on debt for a credential whose value is largely a proxy for pre-existing advantages. Proper analysis requires comparing similar individuals who did and didn't attend college, which dramatically shrinks the premium.

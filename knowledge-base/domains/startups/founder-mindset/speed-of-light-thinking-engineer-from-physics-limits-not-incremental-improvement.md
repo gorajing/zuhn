@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-40DA
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-ECA9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Jensen describes a methodology he started 30 years ago called 'speed of light' thinking. The speed of light is his shorthand for the physical limits of what's possible — applied to memory speed, math speed, power, cost, time, manufacturing cycle time, everything. Every design decision at NVIDIA is tested against these theoretical limits.
 

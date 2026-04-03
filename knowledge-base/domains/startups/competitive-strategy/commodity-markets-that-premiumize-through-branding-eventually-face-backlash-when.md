@@ -45,6 +45,10 @@ related:
   - PRI-260328-70D9
   - INS-260329-16F0
   - INS-260330-707D
+evidence:
+  - id: INS-260330-707D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Markets where branding has inflated prices far beyond the underlying commodity value become vulnerable to value-focused disruptors and consumer backlash.
 

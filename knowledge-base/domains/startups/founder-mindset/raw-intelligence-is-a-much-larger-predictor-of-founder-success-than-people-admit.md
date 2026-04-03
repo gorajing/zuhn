@@ -63,5 +63,8 @@ evidence:
   - id: INS-260325-854D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-8B10
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Dalton pushes back on the cultural narrative that intelligence does not matter or is just one factor among many. His observation from decades of working with founders: the most ambitious and smartest people consistently do better across tech, law, medicine, and finance. Many of these people were not cool in high school or college — the population of 'cool people' completely swaps as life progresses. Intelligence can even overcome disadvantages like not growing up wealthy. The insight extends beyond investing: even in basketball, high IQ is what separates the best players. LeBron James described running plays that teammates simply could not visualize.

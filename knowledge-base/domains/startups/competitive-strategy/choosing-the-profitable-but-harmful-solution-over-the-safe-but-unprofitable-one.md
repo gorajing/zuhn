@@ -67,6 +67,13 @@ related:
   - INS-260322-3A00
   - INS-260330-99D1
   - INS-260323-518A
+evidence:
+  - id: INS-260330-99D1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-BEF8
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Thomas Midgley's anti-knock additive search illustrates a pattern in competitive strategy: when two solutions exist — one safe but low-margin (ethanol at 10% mixture) and one dangerous but highly profitable (tetraethyl lead at 0.1% concentration) — the profit-maximizing choice creates catastrophic externalities that dwarf the original gains. The Ethyl Corporation generated roughly $3 billion (inflation-adjusted), while the global death toll from lead-related cardiovascular disease alone may approach 100 million.
 

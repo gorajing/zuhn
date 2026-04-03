@@ -55,6 +55,28 @@ related:
   - INS-260329-3392
   - INS-260330-D5BD
   - INS-260327-89C7
+evidence:
+  - id: INS-260320-07A2
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-5DD2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-FC5D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-4431
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-3392
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-D5BD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-89C7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's framework implicitly reveals that the 10-step process is simple enough that anyone could execute it — the real barrier is emotional. Founders avoid reaching out to their warm network because it feels vulnerable, salesy, or presumptuous. They'd rather build a website, create content, or run ads because those channels create emotional distance between them and potential rejection.
 

@@ -68,5 +68,8 @@ evidence:
   - id: INS-260323-70B9
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-EC78
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's core equation (Output = Volume × Leverage) reframes how entrepreneurs should think about growth. Most default to increasing volume — more leads, more products, more markets — which scales linearly and burns out. Increasing leverage instead — better conversion, better systems, better offers — multiplies everything already in motion. A 2x improvement in leverage on existing volume doubles output without doubling work. This is why 'better beats new': iterative improvement compounds leverage on a stable base, while launching something new resets leverage to 1x and demands fresh volume from scratch.

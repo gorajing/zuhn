@@ -65,5 +65,8 @@ evidence:
   - id: INS-260327-3918
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260402-40D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Walker Williams describes a concrete example: enterprise customers needed features that would take a month to build properly. Instead, his CTO duplicated the entire codebase and database to build a separate product in 3-4 days — ugly, unsustainable, but fast. They learned which features mattered, then integrated them into the core product. The broader principle is that at each order of magnitude (10→100→1000→10k), different problems emerge that you cannot predict from the previous stage. Teespring's site crashed every single night for months, with the entire team sleeping with phones under their pillows to restart servers. This was worth it because speed to product-market fit matters more than clean architecture. The breaking points themselves reveal what needs to be built — premature planning wastes time solving problems that may never materialize.

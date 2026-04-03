@@ -50,5 +50,9 @@ related:
   - INS-260327-723A
   - INS-260324-5481
   - INS-260321-86E7
+evidence:
+  - id: INS-260321-86E7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's approach to content is to self-publish prolifically across channels he controls rather than seeking traditional publishing or media gatekeepers. The key insight is that owned-channel content compounds: each piece builds the archive, trains the algorithm, and attracts new audience — creating a flywheel that accelerates with volume. Traditional publishing through gatekeepers (publishers, media outlets) may offer credibility signals, but you trade ownership and compounding potential for a one-time distribution boost. For founders and operators, this means the optimal strategy is high-volume self-publishing with iterative quality improvement, not waiting for permission from gatekeepers.

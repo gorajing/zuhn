@@ -53,6 +53,13 @@ related:
 stance: >-
   The perceived tension between empathy and assertiveness is a sequencing
   illusion — empathy first puts you in position to assert effectively.
+evidence:
+  - id: INS-260330-CFEA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-46AD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Voss references Bob Mnookin's 'Beyond Winning' which titles a chapter 'The Tension Between Empathy and Assertiveness' — then reveals the entire chapter argues there is no tension. Empathy puts you in a position to assert. It's a sequencing issue, not a tradeoff. Voss applies this in hostage negotiation: 'I want you to live, I want to see you survive this' (empathy) → then negotiate the tactical details (assertion).
 

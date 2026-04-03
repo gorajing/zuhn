@@ -52,6 +52,16 @@ related:
 stance: >-
   Feeling uncomfortable in a role signals growth opportunity, not inadequacy —
   systematically seek discomfort rather than avoiding it.
+evidence:
+  - id: INS-260329-7AAB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-4FD0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-243C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Rometty nearly turned down a major promotion because she felt she wasn't ready. Her husband's observation — 'do you think a man would have answered it that way?' — combined with the principle that growth and comfort never coexist became a career-defining reframe. She learned to look for nervousness as evidence of learning rather than a signal to retreat.
 

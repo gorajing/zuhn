@@ -61,6 +61,16 @@ related:
   - INS-260328-68BA
   - INS-260329-047C
   - INS-260329-D8C7
+evidence:
+  - id: INS-260320-70FA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-4B99
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260328-68BA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a counterintuitive pattern: families with the highest socioeconomic status are the most insistent that their children attend college, yet research controlling for SAT scores and socioeconomic factors shows these students receive zero marginal value-add from attending. The box is 'already checked at birth' — they already possess the networks, reference groups, and behavioral models that college provides to first-generation students.
 

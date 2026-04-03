@@ -57,6 +57,10 @@ related:
   - PRI-260328-1A2D
   - INS-260323-6C84
 stance: The NYT's 24-hour editorial cycle is an OODA loop
+evidence:
+  - id: INS-260325-A08A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Andreessen applies John Boyd's OODA loop (Observe-Orient-Decide-Act) to media competition. The framework says: whoever gets through their decision-making cycle faster wins. But there's a devastating second-order effect — if you're sustainably faster, the slower side never completes their cycle. They're perpetually interrupted, forced to restart, and eventually suffer psychological breakdown.
 

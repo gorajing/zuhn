@@ -60,5 +60,14 @@ evidence:
   - id: INS-260330-4E68
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-8C54
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-C4AC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-CCDE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Rabois borrows from Peter Thiel a 2x2 matrix: one axis is your conviction level (high to low), the other is consequence magnitude (catastrophic to trivial). Low-conviction, low-consequence decisions should be fully delegated — let people make mistakes and learn. High-conviction, high-consequence decisions require you to override, but you must explain your reasoning thoroughly. The radical implication of Andy Grove's 'task-relevant maturity' concept is that a good manager should NOT have one consistent management style — they should micromanage low-maturity employees on new tasks and delegate heavily to high-maturity ones. If reference checks on you produce a mixed picture (half say micromanager, half say hands-off), that's a feature, not a bug.

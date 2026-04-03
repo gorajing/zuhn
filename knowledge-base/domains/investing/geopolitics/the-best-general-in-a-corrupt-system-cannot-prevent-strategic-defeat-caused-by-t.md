@@ -73,6 +73,9 @@ evidence:
   - id: INS-260330-35E2
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-43EB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Belisarius won nearly every battle he fought. But the Byzantine system worked against him at every turn: court rivals undermined his funding, jealous colleagues sabotaged his campaigns, Justinian recalled him at moments of victory, and corrupt officials diverted resources meant for his armies. His tactical genius couldn't compensate for systemic dysfunction — he would conquer territory that the empire couldn't hold because the system wouldn't provide the resources.
 

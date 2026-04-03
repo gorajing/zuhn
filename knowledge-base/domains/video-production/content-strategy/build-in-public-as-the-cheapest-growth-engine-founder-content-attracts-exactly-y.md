@@ -54,6 +54,16 @@ related:
 stance: >-
   Every business needs a creator — build in public, show the behind-the-scenes
   journey, and your content will naturally attract your ideal customer p...
+evidence:
+  - id: INS-260327-735A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-6414
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-58AC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Natalie shifted her personal content from generic lifestyle to founder-focused content and saw a transformation: 100% of new followers became founders or people interested in entrepreneurship — exactly her ICP. Before, her audience was broad and brands working with her saw poor conversion. After, every follower was a potential Rella customer.
 

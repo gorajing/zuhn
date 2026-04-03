@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-3AFE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-3A00
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Dr. Matthew Johnson notes that psychedelics are the only drug class he knows of where not just one or two, but many people report a single experience profoundly altering the course of their entire life. This is categorically different from antidepressants, anxiolytics, or other psychiatric medications that require ongoing dosing and titration.
 

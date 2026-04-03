@@ -51,6 +51,16 @@ related:
   - INS-260327-194D
   - PRI-260323-6A93
   - PRI-260328-FD90
+evidence:
+  - id: INS-260330-33FF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-B8CB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-194D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a subtle trap: when an activity becomes part of your identity ('I'm a runner,' 'I'm a coder'), you stop evaluating it on its merits and start defending it as an extension of self. This creates a hidden sunk-cost effect where you continue investing time and energy not because the returns justify it, but because stopping would feel like losing part of who you are.
 

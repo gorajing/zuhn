@@ -44,7 +44,6 @@ stance: >-
   Foreign companies without local production face multiplicative regulatory
   friction that makes market entry exponentially harder over time, not linearly
 related:
-  - INS-260330-9FCC
   - INS-260330-F23F
   - INS-260330-D460
   - PRI-260322-8FD4

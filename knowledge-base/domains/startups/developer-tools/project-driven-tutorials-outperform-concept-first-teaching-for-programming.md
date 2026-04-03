@@ -50,7 +50,6 @@ stance: >-
   creates a motivation loop that pulls the learner through increasing
   complexity.
 related:
-  - INS-260323-D400
   - INS-260325-7080
   - INS-260325-001B
   - INS-260329-9CED
@@ -60,6 +59,7 @@ related:
   - INS-260329-B6A6
   - INS-260329-27A3
   - INS-260329-CD38
+  - INS-260329-F211
 evidence:
   - id: INS-260329-F211
     type: SUPPORTS
@@ -73,6 +73,12 @@ evidence:
   - id: INS-260329-FEC5
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-9CED
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-48FD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 This 48-million-view tutorial demonstrates a pedagogical pattern: introduce a concept (variables), immediately build something with it (madlibs game), then layer the next concept on top. Each section follows the pattern of: explain → demonstrate → build a mini-project → extend. This creates what cognitive scientists call 'desirable difficulty' — the learner encounters each concept in a context where they need it to accomplish something they care about.
 

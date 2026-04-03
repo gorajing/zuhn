@@ -70,6 +70,9 @@ evidence:
   - id: INS-260327-8D7E
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260329-882A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Epstein illustrates with a real email he received: a shipping fulfillment company pitched him on faster order processing times. His company sold digital design assets -- downloadable from the internet, no physical shipping. This could have been the most perfectly crafted email in history and it would have converted exactly zero because the targeting was wrong.
 

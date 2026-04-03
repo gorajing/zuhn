@@ -55,6 +55,19 @@ related:
   - INS-260330-0E86
   - PRI-260325-08FB
   - INS-260328-70D3
+evidence:
+  - id: INS-260327-2F78
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-14CA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-0E49
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260328-70D3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Socratic method's power comes from a simple observation: most people cannot articulate coherent justifications for their most deeply held beliefs. When pressed with genuine questions (not adversarial debate but curious inquiry), the foundations of conviction reveal themselves as social conformity, authority acceptance, or emotional preference rather than reasoned conclusion.
 

@@ -63,7 +63,10 @@ related:
   - INS-260330-A075
   - INS-260327-F7BC
   - INS-260329-4499
-  - INS-260330-DE89
+evidence:
+  - id: INS-260323-9E30
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Shelby's personal story is the proof: she started with extreme anxiety, couldn't handle basic social interactions, and stuttered when asked 'how's your day.' Someone told her 'sales will make you confident.' She went into door-to-door sales, got doors slammed, cops called, neighborhood watch alerts. But each rejection survived became a data point: 'I deserve to be confident because I did this.'
 

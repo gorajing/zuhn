@@ -60,6 +60,13 @@ related:
   - INS-260330-207D
   - INS-260330-A476
   - INS-260330-50D4
+evidence:
+  - id: INS-260330-A476
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-50D4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Destin's reflection distills the training into a universal decision framework: 'Take one decision after another, slowly thinking it through, that gets you closer and closer to the light.' This isn't motivational language — it's describing the actual cognitive strategy that works underwater in zero visibility.
 

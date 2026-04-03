@@ -69,6 +69,10 @@ related:
 stance: >-
   Enterprise customers resist AI credit-based pricing because credits are opaque
   (unlike transferable units like gigabytes), vendors can silently inc...
+evidence:
+  - id: INS-260329-67D1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Cannon-Brookes reveals that when you talk to enterprise customers about AI pricing, they actively prefer seats — not because seats are economically optimal, but because seats are understandable and controllable. AI credits fail the 'casino chip' test: customers can't compare credits across vendors (unlike gigabytes), they can't control consumption (vendors add features that consume credits without customer action), and there's no portability.
 

@@ -62,6 +62,10 @@ related:
   - INS-260329-6BE8
   - INS-260322-FCFC
   - INS-260329-0014
+evidence:
+  - id: INS-260329-0014
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The global 'weeb' phenomenon demonstrates how organic cultural appeal translates into economic potential. 42% of American Gen Z watches anime weekly (vs 25% for NFL), Japanese food has become the most sought-after cuisine in major US cities, and Japan tops international brand perception rankings. This cultural magnetism is already driving concrete economic outcomes: Sakana AI's founders (Llion Jones, David Ha) moved to Japan partly because they loved the country; TSMC workers' desire to live in Japan may have influenced Kumamoto fab placement; and American tech workers increasingly discuss relocating to Japan.
 

@@ -53,6 +53,15 @@ evidence:
   - id: INS-260329-8407
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-649B
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-A5C4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-849D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The video's structure is a masterclass in making incomprehensible scale tangible. Rather than stating a single large number, Smifter builds a ladder of comparisons: 25,000km (smaller than Earth) to Earth-Moon distance to Alpha Centauri to 142 solar systems to Hitler's radio signal to the observable universe. Each step is grounded in something the audience already understands.
 

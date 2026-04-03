@@ -59,5 +59,8 @@ evidence:
   - id: INS-260330-F79F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-247C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Apple routed profits through Irish subsidiaries (which had no tax residency), then through the Netherlands (exploiting EU royalty flow rules), and finally to a Caribbean shell company — legally reducing its effective tax rate to near zero on international profits. This 'Double Irish Dutch Sandwich' structure was used by Google, Facebook, and many tech giants. However, Ireland closed the structure to new entrants in 2015 and fully phased it out by 2020, and OECD global minimum tax efforts further eroded such strategies. The pattern repeats across industries: regulatory arbitrage provides a temporary cost advantage, attracting copycats, which attracts legislative attention, which closes the loophole. For startups and investors, the lesson is clear — strategies built on regulatory gaps are time-sensitive advantages, not durable moats. Build on product differentiation and network effects instead.

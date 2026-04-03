@@ -59,5 +59,15 @@ related:
   - INS-260323-7AF7
   - INS-260323-CEA8
   - INS-260327-94CC
+evidence:
+  - id: INS-260323-7AF7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-CEA8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-94CC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Multiple observers noted that Jho Low exhibited paradoxical behavior at his own lavish events: he'd watch from the periphery rather than participate, repeatedly ask guests if they were having fun, and struggle to sustain conversations beyond small talk. One attendee described it as 'fake — as if we were just there to go through the motions.' His nickname 'Panda' (plump and cuddly) and his compulsive gift-giving suggest someone using material generosity as a substitute for genuine connection. Despite having more liquid cash than virtually anyone on Earth — $85 million on partying in eight months — he reportedly became increasingly anxious and paranoid over time. Jordan Belfort (the real Wolf of Wall Street) immediately recognized the pattern: 'You wouldn't spend money you worked for like that — this has got to be stolen.' The insight: unsatisfiable psychological needs drive increasingly extreme behavior, which itself becomes a detectable signal. People who spend recklessly aren't just burning money — they're revealing that no amount is enough, which is a reliable indicator of either fraud or deep psychological dysfunction.

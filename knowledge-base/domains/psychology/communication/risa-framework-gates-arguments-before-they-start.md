@@ -62,6 +62,18 @@ evidence:
   - id: INS-260329-EAFD
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-DD0F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-E7FF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-CBEB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-8C69
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Bo Seo's RISA framework asks four sequential questions before engaging in any disagreement: (1) Is this disagreement real, or just a misunderstanding? (2) Is it important enough to justify the conflict? (3) Is the topic specific enough to make progress on? (4) Are both parties aligned on why they want to engage?
 

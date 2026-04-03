@@ -51,6 +51,13 @@ resolutions:
 stance: >-
   Hiring former customers produces employees with conviction you cannot
   interview for
+evidence:
+  - id: INS-260330-A14D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-C36D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 
 Multiple Gumloop hires followed the same pattern: a customer from

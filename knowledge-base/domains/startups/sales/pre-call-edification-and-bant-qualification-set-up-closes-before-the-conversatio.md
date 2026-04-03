@@ -61,6 +61,10 @@ related:
   - INS-260329-89DA
   - INS-260330-A370
   - PRI-260328-E921
+evidence:
+  - id: INS-260330-A370
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Everything between a prospect's first touchpoint and the sales conversation either builds or erodes buying intent. The setter's job isn't just scheduling -- it's qualifying (BANT: do they have Budget, Authority, Need, and Timing?) and edifying the closer ('You're going to love talking to Shawn, he's helped 400 people just like you achieve exactly what you described').
 

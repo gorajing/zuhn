@@ -51,5 +51,9 @@ related:
   - INS-260330-D26B
   - INS-260325-C2DA
   - INS-260325-3754
+evidence:
+  - id: INS-260323-8848
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham describes how calming lies — told to soothe frightened children — have a downstream societal cost: they train entire generations to feel no urgency about problems they were explicitly taught not to worry about. His personal example of being alarmed by a pollution documentary at age 10, then reassured by his mother, illustrates how individual acts of comforting produce collective complacency. The mechanism is insidious because each instance seems benign (calming a frightened child is good parenting), but the aggregate effect is a population systematically desensitized to real threats. This connects to why societies tolerate obviously terrible conditions for so long — it's not that adults can't see the problems, but that they were literally trained in childhood to classify alarm about these problems as childish overreaction that adults grow out of.

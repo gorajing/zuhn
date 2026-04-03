@@ -53,11 +53,11 @@ stance: >-
   persuasion but through credible threats to dissenters, causing even principled
   members to self-censor.
 related:
+  - INS-260403-D531
   - INS-260330-4045
   - INS-260323-9D6E
   - INS-260323-8B22
   - INS-260326-2C4E
-  - PRI-260328-7F20
 evidence:
   - id: INS-260323-9D6E
     type: TRANSFERS_TO

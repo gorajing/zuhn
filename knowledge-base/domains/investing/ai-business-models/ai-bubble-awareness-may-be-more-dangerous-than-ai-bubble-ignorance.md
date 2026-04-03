@@ -49,10 +49,10 @@ stance: >-
   rather than avoiding the exposure.
 related:
   - INS-260327-5D13
+  - INS-260403-F157
   - INS-260330-9BB5
   - INS-260330-8BB4
   - INS-260330-F67A
-  - INS-260324-72E8
   - INS-260328-70D3
 evidence:
   - id: INS-260330-8BB4

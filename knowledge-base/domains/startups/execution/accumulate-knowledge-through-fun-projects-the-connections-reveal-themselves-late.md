@@ -61,6 +61,10 @@ related:
 stance: >-
   Sweeney spent 10-15,000 hours on hobby programming projects between ages 10-20
   with no structured plan
+evidence:
+  - id: INS-260323-7CA7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Sweeney's path to building one of the most important game engines in history was not planned. He built a text editor that became a game. He learned vector calculus in engineering school without knowing he'd use it for 3D graphics. He built a compiler for fun. He learned about eigenvalues without seeing the connection to search algorithms. Each piece of seemingly unrelated knowledge became a 'karate kid' moment when the real challenge arrived.
 

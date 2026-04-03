@@ -82,6 +82,15 @@ evidence:
   - id: INS-260330-5C36
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-85D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-0017
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-2C71
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 In photosynthesis, excited electrons don't release all their energy at once. Instead, they pass through a transport chain (PSII → Cytochrome Complex → PSI → NADPH) where energy is extracted in controlled, incremental steps — each reaction capturing a small amount of useful work. If the energy were released all at once, most would dissipate as heat (like burning glucose with a match versus metabolizing it through glycolysis and the Krebs cycle).
 

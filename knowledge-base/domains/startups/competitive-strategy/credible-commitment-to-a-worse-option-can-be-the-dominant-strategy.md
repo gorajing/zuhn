@@ -70,6 +70,9 @@ evidence:
   - id: INS-260323-493D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-D479
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Mutually Assured Destruction works not because retaliation is rational after an attack (it isn't — it just kills everyone), but because the pre-commitment to retaliate prevents the attack from ever happening. The 'Dr. Strangelove' doomsday device and the game of chicken's 'throw the steering wheel out the window' illustrate the same principle: removing your own ability to back down forces the other party to accommodate you.
 

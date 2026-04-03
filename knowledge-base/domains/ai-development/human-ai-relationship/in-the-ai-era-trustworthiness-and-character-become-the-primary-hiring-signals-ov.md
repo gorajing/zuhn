@@ -54,7 +54,6 @@ resolutions:
     traits that make someone 'pluggable into anything' — the quality that hiring
     managers in an AI world will pay premium for.
 related:
-  - INS-260321-8382
   - INS-260325-D19B
   - INS-260321-4178
   - INS-260320-B99F
@@ -64,6 +63,7 @@ related:
   - PRI-260328-E870
   - INS-260322-AC23
   - INS-260329-62C1
+  - INS-260323-F2C3
 stance: >-
   When AI can perform any technical task, employers hire for trustworthiness and
   genuine care

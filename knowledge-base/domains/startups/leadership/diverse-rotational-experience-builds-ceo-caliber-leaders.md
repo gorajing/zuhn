@@ -58,6 +58,9 @@ evidence:
   - id: INS-260329-B424
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-FB34
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Solomon's path to CEO was shaped by being moved across Goldman's businesses against his preferences. Hank Paulson overruled his desire to stay in credit trading and pushed him into equity capital markets. This pattern of diverse rotational experience built the broad judgment needed for the top job. Importantly, Solomon never explicitly targeted the CEO seat; he focused on developing skills and let serendipity and timing play their role.
 

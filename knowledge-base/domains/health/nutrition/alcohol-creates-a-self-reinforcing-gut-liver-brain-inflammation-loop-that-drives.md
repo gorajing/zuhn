@@ -65,6 +65,10 @@ related:
   - INS-260327-B218
   - INS-260327-E8D3
   - INS-260327-EB60
+evidence:
+  - id: INS-260330-4B22
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Huberman describes a 'two-hit model' of alcohol's effect on the gut-liver-brain axis. First hit: alcohol indiscriminately kills beneficial gut microbiota (the same antiseptic property that makes it useful for sterilization). Second hit: the resulting gut wall disruption (leaky gut) allows harmful bacteria from partially digested food to escape into the bloodstream. Simultaneously, alcohol metabolism in the liver produces proinflammatory cytokines (IL-6, TNF-alpha). These inflammatory signals reach the brain via neuroimmune pathways and specifically disrupt the neural circuits that regulate alcohol intake — causing increased consumption.
 

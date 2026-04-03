@@ -60,6 +60,10 @@ related:
   - INS-260330-1854
   - INS-260330-843E
   - INS-260330-7168
+evidence:
+  - id: INS-260329-577E
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies two missing elements in class projects that distinguish them from real startups: iterative problem discovery and intensity. In school, proving your initial plan was wrong earns a bad grade, so students build every line of code toward demonstrating effort. In startups, the first six months of building often exist solely to prove the initial idea was mistaken—and that's extremely valuable.
 

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-C79D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-577E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The Starbucks cashier metaphor perfectly captures how pricing should be delivered. When you order a latte, the cashier says 'that'll be $7' and turns around to do something else. No negotiation energy, no apologetic tone, no 'is that okay?' You scramble for your card because the assumption of payment is absolute.
 

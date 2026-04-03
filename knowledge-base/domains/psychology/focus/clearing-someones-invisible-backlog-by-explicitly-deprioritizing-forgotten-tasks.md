@@ -61,6 +61,9 @@ evidence:
   - id: INS-260321-A56C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-ADC4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi describes a practice of pulling up a team member's full task list before assigning a new priority, then explicitly crossing off old items: 'Oh, I forgot I even asked you to do that' or 'We solved that in another department already.' Even tasks people aren't actively working on consume attention because they know they should be working on them, creating a background anxiety tax on their cognitive capacity.
 

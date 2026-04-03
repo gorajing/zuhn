@@ -53,5 +53,8 @@ evidence:
   - id: INS-260323-F9FD
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-F6DB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 GLP-1 agonists like Ozempic cause 30-40% of weight loss from muscle tissue rather than fat, worsening body composition and metabolic rate, which drives severe rebound weight gain upon discontinuation

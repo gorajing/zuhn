@@ -55,6 +55,9 @@ evidence:
   - id: INS-260329-B424
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-4E10
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's third pillar is that 'better is leverage' — since leverage = getting more from what you put in, improving quality of existing activities directly increases leverage. Split-testing landing pages weekly, role-playing with sales teams daily, taking 10 more interviews for the same role, making your lead magnet better — all boring, all high-leverage.
 

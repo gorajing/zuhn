@@ -62,5 +62,8 @@ evidence:
   - id: INS-260324-29D8
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-0D16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 MIT identifies three automation failure modes: disuse (not adopting beneficial tools), misuse (deploying with poor results), and overuse (works well but causes unintended consequences). Overuse is the most insidious — when AI handles tasks perfectly, processes become rigid, people stop developing skills, and organizations lose the ability to innovate. Workers using AI for software engineering report building programs without understanding how they work. An IT team solved this by reorganizing around problem-solving rather than tool domains — AI extended their capabilities into new areas instead of narrowing their existing ones. The principle: choose a lower level of automation than is possible to ensure humans stay engaged and build expertise.

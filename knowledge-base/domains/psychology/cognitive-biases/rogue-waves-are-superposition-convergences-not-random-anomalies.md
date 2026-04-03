@@ -52,6 +52,10 @@ related:
   - INS-260330-F60B
   - INS-260330-FCFA
   - INS-260325-436A
+evidence:
+  - id: INS-260325-436A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The common narrative around rogue waves is that they 'come out of nowhere' — mysterious anomalies that defy prediction. But as the Navy's ocean engineers demonstrate, rogue waves are simply multiple wave trains converging at the same point, with their amplitudes adding via superposition to create a wave far larger than any individual component.
 

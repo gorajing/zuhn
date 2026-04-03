@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-684D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-7994
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Frebel describes writing papers with simulation-focused colleagues who study the same phenomena she observes. Despite both being astronomers with shared interests, 'it was almost like we're speaking two different languages.' Theorists and observers approach problems with different mental models, different vocabularies, and different standards of evidence.
 

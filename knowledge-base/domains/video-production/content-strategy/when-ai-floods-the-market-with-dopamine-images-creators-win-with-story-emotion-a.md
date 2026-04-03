@@ -69,6 +69,18 @@ evidence:
   - id: INS-260323-A55A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-8DFE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-E039
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-B1A1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8B24
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Yoon observes that a flood of dopamine-stimulating AI-generated imagery has already started — soon no one will be able to tell what's real and what's fake. But ironically, as bizarre and provocative content becomes commonplace, what creators can uniquely provide becomes incredibly clear: stories about emotions, values, meaning, and philosophy.
 

@@ -1,3 +1,3 @@
 # Tag: cross-domain-transfer
 
-- `INS-260330-1D94` John Gottman's four horsemen of relationship failure (criticism, contempt, defensiveness, stonewalling) map onto customer support failures, with stonewalling — simply not responding — being the biggest early-stage churn driver.
+- `INS-260403-CBB0` Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.

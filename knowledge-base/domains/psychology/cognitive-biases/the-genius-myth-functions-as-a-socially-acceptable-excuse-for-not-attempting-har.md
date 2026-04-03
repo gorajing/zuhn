@@ -54,6 +54,19 @@ related:
   - INS-260326-8E6D
   - INS-260402-9681
   - INS-260323-FCC1
+evidence:
+  - id: INS-260330-9B7B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260326-8E6D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-9681
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-FCC1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham identifies a specific cognitive bias: when choosing between two theories — one that implies you should work harder and one that gives you an excuse for being lazy — the lazy-excuse theory is almost certainly wrong. The genius narrative (Shakespeare and Einstein were simply born different) is psychologically comforting because it means our own mediocrity isn't our fault.
 

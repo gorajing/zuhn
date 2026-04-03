@@ -28,6 +28,7 @@
 - `INS-260330-E349` The crawl-walk-run method of isolating individual stressors before combining them builds genuine competence in high-stakes scenarios far more effectively than throwing people into the deep end.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260329-3CB6` Master an existing system by exact replication first — earn the right to iterate by proving you can duplicate the original results.
+- `INS-260403-B7FA` Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - `INS-260330-27A4` Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.
 - `INS-260329-2ECE` Hormozi's call recording requirement reveals that reviewing your own recorded performance creates a feedback loop that live practice alone cannot match.
 - `INS-260329-4D06` 'People skills' isn't a trait — it's a hundred micro-skills like greeting by name, not interrupting, and smiling when someone enters.

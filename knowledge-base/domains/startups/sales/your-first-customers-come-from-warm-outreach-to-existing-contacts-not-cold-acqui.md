@@ -53,5 +53,8 @@ evidence:
   - id: INS-260327-8D7E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-6042
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Most new entrepreneurs underestimate the size of their existing network. By combining email contacts, social media followers across all platforms, and phone contacts, most people have thousands of warm leads. The key is reaching out to 100 people per day with personalized messages that reference something specific about the person — a recent life event, shared interest, or mutual connection. This personalization transforms what would feel like spam into a genuine human interaction. The volume matters because conversion rates on warm outreach are still single-digit percentages, so you need the numbers to find your first five customers.

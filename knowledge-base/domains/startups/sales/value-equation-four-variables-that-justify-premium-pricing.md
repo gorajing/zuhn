@@ -50,6 +50,10 @@ related:
   - INS-260329-CEC5
   - INS-260330-0AA7
   - INS-260329-4B07
+evidence:
+  - id: INS-260327-0133
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's Value Equation has four levers: increase the dream outcome, increase perceived likelihood of achievement, decrease time delay, and decrease effort and sacrifice required. When all four are optimized, the gap between what you charge and what the customer perceives they receive widens dramatically — making even high prices feel like a bargain.
 

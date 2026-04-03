@@ -52,11 +52,15 @@ stance: >-
   original shock response.
 related:
   - INS-260330-795D
+  - INS-260403-6E11
   - PRI-260324-8EE6
   - INS-260330-CDE1
   - INS-260330-63B8
-  - PRI-260323-2C5C
   - INS-260402-116A
+evidence:
+  - id: INS-260330-CDE1
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Ben Shapiro articulates a key psychological mechanism: when people first encounter shocking rhetoric, it produces a strong reaction, but years of repetition cause the brain to adjust — treating it as background noise, like tinnitus. This explains why Trump's divisive statements lost their political impact over time while Biden's comparatively milder rhetoric felt more jarring against his unity-branding baseline.
 

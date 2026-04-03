@@ -56,5 +56,12 @@ related:
   - INS-260323-C814
   - INS-260328-8DF8
   - INS-260329-6BFC
+evidence:
+  - id: INS-260323-C814
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260328-8DF8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The paradox of boredom: the more you flee it, the more boring everything becomes. Each escape (phone, social media, snacking, shopping) raises the baseline stimulation threshold. Over time, normal activities (reading, walking, conversation) feel unbearably dull because the brain has adapted to constant high-stimulation input. The opposite path: those who sit with boredom develop the capacity for deep focus — the same capacity required for creative work, deep relationships, and meaningful achievement. The most boring-seeming people often have the richest inner lives because they haven't outsourced their mental engagement to external stimulation. This is Musashi's principle of presence: the warrior who can be still is more dangerous than one who is always moving.

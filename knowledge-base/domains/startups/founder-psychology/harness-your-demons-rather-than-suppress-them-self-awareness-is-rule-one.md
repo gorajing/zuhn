@@ -57,6 +57,10 @@ stance: >-
   Great achievers across history share one trait: they know their demons
   intimately and channel them into drive rather than letting those demons
   dest...
+evidence:
+  - id: INS-260325-537A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Isaacson draws from biographies of Musk, Jobs, Da Vinci, Einstein, and Franklin to identify a universal pattern: difficult childhoods and personal demons are not prerequisites for greatness, but when present, the difference between destruction and achievement is self-awareness. Musk knows his 'demon mode' exists. Da Vinci knew he was a procrastinator. The key isn't eliminating these traits -- it's harnessing them.
 

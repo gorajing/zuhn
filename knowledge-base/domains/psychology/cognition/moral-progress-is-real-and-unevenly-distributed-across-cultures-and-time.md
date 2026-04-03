@@ -54,6 +54,10 @@ related:
   - INS-260330-93F3
   - INS-260330-ED37
   - INS-260330-F20D
+evidence:
+  - id: INS-260323-9B68
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Harris draws a direct line from American lynch mobs in the early 20th century — where thousands gathered in festive celebration to watch torture and murder — to modern Western norms that treat such behavior as monstrous. This isn't about permanent differences between peoples; it's about the power of ideas and ethical frameworks that emerge in specific times and places.
 

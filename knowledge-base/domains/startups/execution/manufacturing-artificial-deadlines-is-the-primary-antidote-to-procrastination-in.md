@@ -71,6 +71,18 @@ evidence:
   - id: INS-260329-9745
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260328-FE38
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-14A9
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-77B1
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-2B52
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The entire procrastination system Urban describes has one lever: the Panic Monster. If you can wake it up, you can get things done. The implication for unstructured work is clear — you must build deadline infrastructure that creates genuine consequences.
 

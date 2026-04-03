@@ -57,5 +57,8 @@ evidence:
   - id: INS-260323-BEF0
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-1871
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Harris uses a rapid-fire exercise — 'think of the Eiffel Tower, now a red bus, now the first president' — to make visceral the sheer transience and involuntary nature of thought. Each image appears from nowhere, occupies consciousness briefly, then disappears completely, replaced by the next. His argument is that identifying with something this ephemeral and uncontrollable is structurally incoherent: you can't be something that didn't exist a moment ago and won't exist a moment from now. Yet this identification — mistaking the flickering stream for a stable self — is what drives the 'engine of anxiety and self-criticism' that dominates most waking life. The practical takeaway is that the transience itself is therapeutic: once you directly perceive how quickly thoughts arise and pass, the grip of any individual thought (especially ruminative or anxious ones) loosens, because you can see it will be gone in seconds regardless of its content.

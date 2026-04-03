@@ -57,5 +57,9 @@ related:
 stance: >-
   Rosolie's real-time recognition of 'Am I entering a one-way door?' during the
   tribal encounter demonstrates how framing a situation's reversibility...
+evidence:
+  - id: INS-260323-1176
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 As the Mashco Piro warriors walked down the beach with seven-foot bows pointed at them, Rosolie describes his internal process: 'Am I entering a moment that is -- is this a one-way door? Is this an irreversible situation?' He immediately began mapping escape routes: where he could find cover from arrows, whether jumping in the river was viable (he had a can of tuna and a flashlight but was days upriver), and which team members needed to be protected. Meanwhile, the anthropologist Romel was doing the opposite calculation -- walking into the river unarmed toward armed warriors. Both were making decisions through the same framework but reaching opposite conclusions based on their roles. Amazon's Jeff Bezos famously distinguishes one-way and two-way door decisions. Rosolie is doing this in real time under lethal threat. The practice of explicitly asking 'is this reversible?' before high-stakes moments -- whether in business, relationships, or survival -- consistently produces better decisions because it forces you to map consequences before acting.

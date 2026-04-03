@@ -57,5 +57,8 @@ evidence:
   - id: INS-260327-0048
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-90AD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Nakamura received repeated written orders and phone calls from Nichia's CEO Eji Ogawa to stop working on gallium nitride. He crumpled them up and threw them away every time. He later wrote: 'I had been successful because I didn't listen to company orders and trusted my own judgment.' This wasn't reckless - the original founder Nobuo Ogawa had approved and funded the research, but the successor CEO wanted to kill it. Nakamura's selective disobedience was enabled by two factors: the founding chairman's implicit protection, and the fact that no one else at Nichia understood his work enough to physically stop him. This pattern - where breakthrough corporate innovation requires a researcher who ignores management plus a senior patron who provides cover - appears repeatedly in innovation history (Skunk Works, Gmail at Google, PlayStation at Sony).

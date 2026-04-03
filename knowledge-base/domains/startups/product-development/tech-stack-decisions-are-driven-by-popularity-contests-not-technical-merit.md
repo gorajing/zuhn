@@ -54,6 +54,9 @@ evidence:
   - id: INS-260325-4846
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-72EF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When choosing React over Svelte, the decision isn't about which framework is technically superior — it's about which one gives you the largest pool of developers to hire and the richest ecosystem of libraries to leverage. This reframes 'popularity contest' from a negative to a rational constraint.
 

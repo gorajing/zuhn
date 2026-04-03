@@ -50,6 +50,10 @@ related:
   - INS-260330-F9B4
   - INS-260327-E833
   - INS-260329-6D8B
+evidence:
+  - id: INS-260329-6D8B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 After 7 years building StackBlitz's core technology without effective monetization, Bolt exploded to $40M ARR in 5 months. Simons attributes this to one thing: talking to users. He hired people whose entire job was talking to users, and invested heavily in community from day one.
 

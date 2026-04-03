@@ -53,6 +53,13 @@ related:
   - INS-260329-E20C
   - INS-260329-3332
   - INS-260329-88B2
+evidence:
+  - id: INS-260329-3332
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-88B2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The course's 24-chapter structure across 820 minutes averages ~34 minutes per chapter — short enough to complete in one sitting with a sense of accomplishment. This exploits the completion effect: each finished chapter triggers a small dopamine hit that fuels continuation. Compare this to courses with 4-5 massive modules where the next completion signal is hours away.
 

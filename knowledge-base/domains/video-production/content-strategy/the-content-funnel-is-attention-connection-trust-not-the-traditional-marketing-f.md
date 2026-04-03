@@ -54,5 +54,21 @@ related:
   - INS-260322-6AF5
   - INS-260322-5E5D
   - INS-260327-9EE4
+evidence:
+  - id: INS-260325-175B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260322-D7B1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-6AF5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-5E5D
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-9EE4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Andrews explains why the traditional awareness -> consideration -> conversion funnel is broken: discoverability is everywhere (Instagram clips, YouTube algorithm, friend's WhatsApp message). The replacement is a content funnel with three layers: (1) Attention — capturing people's notice through entertaining, trend-relevant content across multiple platforms, (2) Connection — someone sees your content multiple times, resonates, converts to a follow, (3) Trust — built over time through consistent delivery, which finally enables purchase conversion. The critical insight: you can't target trust at the top of the funnel because trust takes multiple touchpoints to build. The first time someone sees your content, they'll scroll past in 2 seconds. But if they see it again on another platform, a friend mentions it, they see the founder talking behind-the-scenes — eventually the purchase feels inevitable.

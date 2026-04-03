@@ -61,6 +61,31 @@ related:
   - PRI-260328-82BE
   - INS-260330-D5BD
   - INS-260403-B6A0
+evidence:
+  - id: INS-260323-4AB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260322-750A
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-FFA7
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-3A71
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-FD18
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-4E34
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-484F
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-D5BD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When asked why Jawbone hadn't made headphones, Rahman outlined a disciplined framework for category entry: the market must be ready, the technology base must be ready, and the company must have the right capabilities to synthesize everything. Missing any one of these means waiting, even if the opportunity looks attractive. The bar for entry is making the experience 'an order of magnitude or two orders of magnitude' better than what exists.
 

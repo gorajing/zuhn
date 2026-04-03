@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-AD13
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-F909
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's core insight is that people overestimate what they can do in a year and underestimate what they can accomplish in a decade. The practical exercise: write yourself a contract — 'I will add a zero (or two) to my net worth in 10 years' — then act like it. This isn't motivational fluff; it changes which bets you take. With a 10-year horizon, you stop chasing quick wins and start making reasonable, compounding investments in skills and businesses.
 

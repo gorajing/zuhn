@@ -56,6 +56,10 @@ related:
   - INS-260330-E695
   - INS-260330-636E
   - INS-260330-90C3
+evidence:
+  - id: INS-260330-90C3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Jack Dorsey's behavior at Twitter represents an extreme case of founder mythologizing gone toxic. He told Vanity Fair the idea came to him at age 8, told CBS it was inspired by trains and maps, told the LA Times he presented it to childhood classmates in 1984 -- each story more grandiose than the last. He monitored every newspaper article and demanded corrections to include his name as 'the founder.'
 

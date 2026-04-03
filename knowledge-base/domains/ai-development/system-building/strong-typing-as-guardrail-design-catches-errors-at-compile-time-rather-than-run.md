@@ -72,6 +72,9 @@ evidence:
   - id: INS-260325-5023
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-3C79
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 C#'s type system (string, int, double, bool, char) forces developers to declare what kind of data a variable holds before using it. This means type mismatches are caught at compile time, not when a user hits the bug in production. The tutorial shows this through examples like needing Convert.ToInt32() to transform user input strings into numbers.
 

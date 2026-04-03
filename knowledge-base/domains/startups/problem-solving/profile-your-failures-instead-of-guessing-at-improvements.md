@@ -58,6 +58,19 @@ related:
   - INS-260330-ABB1
   - INS-260330-201F
   - INS-260330-AB3E
+evidence:
+  - id: INS-260321-D370
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260320-DDFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-EA2B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260326-BF32
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham explicitly draws the analogy between code profiling and filter improvement: 'Don't try to guess where your code is slow, because you'll guess wrong. Look at where your code is slow, and fix that.' Applied to spam filtering, this meant ignoring theoretically interesting problems (like spammers misspelling words) in favor of examining the actual spams that got through.
 

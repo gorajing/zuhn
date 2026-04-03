@@ -49,5 +49,9 @@ related:
   - INS-260323-C1B2
   - INS-260329-FC53
   - INS-260325-F707
+evidence:
+  - id: INS-260329-FC53
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Trump observes from decades of proximity to sports champions (Tiger Woods, Michael Jordan, Jack Nicklaus, Arnold Palmer) that there is no single personality type among winners. Palmer was extraordinarily nice; others were laser-focused and unapproachable. Yet the universal commonality is being 'driven beyond' — a level of internal motivation that transcends normal ambition. Talent-wise, you sometimes can't distinguish champions from near-champions, but at the end of the weekend the driven ones win. This challenges the popular narrative that champions must be obsessive, disagreeable loners. The insight suggests that drive intensity is the irreducible trait, while personality is merely the wrapper — meaning aspiring high-performers should focus on cultivating relentless drive rather than mimicking any particular champion's temperament.

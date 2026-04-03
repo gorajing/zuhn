@@ -49,5 +49,8 @@ evidence:
   - id: INS-260329-FEBA
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-7CA7
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Bob Baxley ran Apple's $12B online store with just 6 designers using a weekly cadence: Monday table read, Tuesday team review, Wednesday heads-down, Thursday dress rehearsal, Friday executive show. This SNL-like rhythm meant no designer went 48 hours without showing work. The goal was to reach a point where nobody could think of how to make it better. Baxley tried replicating this at Pinterest and ThoughtSpot but couldn't match the pace, suggesting the cadence requires both cultural buy-in and founder-level taste at the top.

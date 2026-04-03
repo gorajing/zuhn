@@ -65,5 +65,8 @@ evidence:
   - id: INS-260402-7A1A
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260322-AB55
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Throughout the conversation, Hancock describes a pattern where archaeological establishment responses to his hypotheses focus on his lack of formal credentials ('he's just a journalist') rather than engaging with specific evidence like the Younger Dryas boundary layer proxies, the precession numbers in global mythology, or the water erosion on the Sphinx. This pattern — attacking the messenger when the message is uncomfortable — appears across many domains. The Younger Dryas impact hypothesis itself, proposed by 60+ credentialed scientists, was dismissed with papers titled 'A Requiem for the Younger Dryas Impact Hypothesis' before the evidence was fully examined. The practical lesson is that when you encounter credential-based dismissal of an idea, it often signals that the evidence is genuinely ambiguous and threatening, not that it's been conclusively refuted. In any domain, the strength of ad hominem response often inversely correlates with the strength of the counter-evidence.

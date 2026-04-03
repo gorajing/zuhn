@@ -50,6 +50,10 @@ related:
 stance: >-
   The true measure of a leader is the quality of decisions they make on ordinary
   days, not how they perform in dramatic crises.
+evidence:
+  - id: INS-260330-D432
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Altman emphasizes that while crisis moments get attention, what he truly values in leaders like Mira Murati is how they show up at 9:46am on a boring Tuesday — the quality of routine decisions, presence in meetings, day-to-day judgment. The dramatic board saga weekend was not what defines OpenAI; the other seven years of consistent work are.
 

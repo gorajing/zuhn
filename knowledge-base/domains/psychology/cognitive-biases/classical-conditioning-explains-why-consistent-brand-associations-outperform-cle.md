@@ -50,5 +50,12 @@ related:
   - INS-260330-09A2
   - INS-260330-D066
   - INS-260330-58B9
+evidence:
+  - id: INS-260329-20E8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-58B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi applies classical conditioning theory directly to brand building: just as Pavlov's dogs associated a bell with food, customers associate brand touchpoints with emotional states through repeated exposure. This means the consistency and frequency of brand-emotion pairing matters far more than any individual clever campaign. The practical implication is that marketers should obsess over maintaining consistent emotional associations across every touchpoint rather than optimizing individual messages. This also explains why brand-building feels slow — conditioning requires many repetitions — but produces durable, hard-to-displace loyalty once established.

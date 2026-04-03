@@ -63,6 +63,15 @@ evidence:
   - id: INS-260327-940C
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260327-26CF
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-348D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-040F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi uses Viagra as a paradigmatic example: its extensive warning label ('may cause heart attacks, four-hour erections') inadvertently became its strongest marketing asset. Consumers reasoned that a product dangerous enough to require such warnings must be powerfully effective — the risk signal served as indirect proof of efficacy. This is the risk-as-signal heuristic: when people see genuine downsides attached to a claim, they infer the upside must be proportionally real.
 

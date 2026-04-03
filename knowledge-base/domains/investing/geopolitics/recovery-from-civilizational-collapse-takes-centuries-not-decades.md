@@ -64,5 +64,8 @@ evidence:
   - id: INS-260327-8B34
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-615D
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The Late Bronze Age network collapsed around 1177 BC and it took roughly 400 years before comparable levels of Mediterranean interconnection returned. This challenges the modern assumption that disrupted systems bounce back quickly. The 'V-shaped recovery' narrative that dominates modern economic thinking may be dangerously optimistic when applied to truly systemic disruptions. When the connective tissue of a network — shared protocols, trust relationships, infrastructure, institutional knowledge — is destroyed, rebuilding requires not just material reconstruction but the slow re-establishment of trust and shared norms between previously connected parties.

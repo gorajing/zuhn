@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-AB3C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-4441
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Lane opens with a remarkable fact: mixing hydrogen and CO2 in a tube produces nothing, yet thermodynamically those two gases are less stable than living cells. Life isn't improbable in an energetic sense — it's the thermodynamically favored outcome. The barrier is purely kinetic: the activation energy required to get the reaction started. Hydrothermal vents provided the continuous electrical charge (the 'spark') that overcame this barrier.
 

@@ -62,7 +62,7 @@ related:
   - INS-260330-3E64
   - INS-260327-70DF
   - INS-260327-8521
-  - INS-260327-CD49
+  - INS-260403-D531
   - INS-260330-E180
 ---
 Destin explicitly reflected that being forced to tap out — having maneuvers 'left on the table' — created a different quality of humility than he'd experienced before. He described it as 'humility forced upon you' that is qualitatively different from chosen humility. Despite being someone who makes educational content about approaching things with curiosity and openness, he still entered the F-16 with bravado ('I ran a half marathon, I can carry all the groceries in one trip').

@@ -53,6 +53,10 @@ related:
   - INS-260329-7AAB
   - INS-260329-E76F
   - INS-260330-4341
+evidence:
+  - id: INS-260329-7AAB
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that early-career workers often make the mistake of optimizing for salary when they should be optimizing for learning. He illustrates this with a candidate who demanded an extra $3,000/year for a YouTube editor role, missing that the skills and network gained from the position would far exceed any salary premium available elsewhere.
 

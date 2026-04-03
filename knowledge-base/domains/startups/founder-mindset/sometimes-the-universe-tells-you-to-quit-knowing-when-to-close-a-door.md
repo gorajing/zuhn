@@ -58,6 +58,9 @@ evidence:
   - id: INS-260322-5B1B
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-E22A
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Jeff Kaplan spent three years in solitary writing — eight hours a day, 170 rejection letters in one year, deepening depression and alcoholism. He describes the painful realization that our culture's emphasis on 'never give up' can become toxic. Sometimes a large group of people (in his case, literary magazine editors across the US) are telling you it's time to quit.
 

@@ -49,5 +49,9 @@ related:
   - INS-260330-A370
   - INS-260330-DB4B
   - INS-260330-A151
+evidence:
+  - id: INS-260330-DB4B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Bo Seo's RISA framework asks four sequential questions before engaging: Is the disagreement real (not a misunderstanding)? Is it important enough to justify the cost? Is the topic specific enough to make progress on? Are both parties aligned in their objectives for the conversation? The framework acts as a circuit breaker — most bad arguments fail at least one gate. The alignment gate is especially powerful: forcing someone to articulate *why* they want to argue often reveals bad-faith motives (contrarianism, emotional venting) that would doom the conversation. In practice, this means opening with 'What are we actually disagreeing about, and what do we both want from this conversation?' — creating an explicit contract that can be referenced when the argument drifts.

@@ -67,6 +67,15 @@ evidence:
   - id: INS-260323-584D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-B849
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260326-841D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-6D41
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Kipping's Bayesian analysis of the simulation hypothesis challenges Elon Musk's 'billion to one' claim by making the conditional explicit. Musk's number assumes we will definitely develop and choose to use simulation technology — but that's an unproven conditional. When you assign 50/50 prior odds between 'simulation technology is developed and used' versus 'it isn't,' then apply Bayesian model averaging, the probability of being in a simulation always falls below 50%.
 

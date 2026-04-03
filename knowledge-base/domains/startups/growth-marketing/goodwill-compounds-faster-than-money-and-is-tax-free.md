@@ -58,5 +58,8 @@ evidence:
   - id: INS-260330-E414
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-577E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi frames goodwill as an economic asset with superior compounding properties to money. If one person shares your content and creates goodwill with someone new, you can 10x your goodwill in 12 weeks — something nearly impossible with financial capital. Critically, audience growth is tax-free until you choose to monetize (the 'conversion event'). This creates an arbitrage: invest in the faster-compounding vehicle (goodwill/audience) and defer the conversion to money until strategically optimal. The insight has cross-domain application — it explains why creators who delay monetization often out-earn those who monetize early, and why brand equity is consistently undervalued by short-term financial thinking.

@@ -58,6 +58,10 @@ related:
   - INS-260330-93F3
   - INS-260330-F8B6
   - INS-260330-4E5F
+evidence:
+  - id: INS-260323-9B68
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The CrashCourse video highlights how early Chinese historians — particularly Sima Qian and the tradition that followed — framed 2,000 years of dynastic history through a Confucian moral lens. Virtuous founders received the Mandate; decadent last emperors lost it. This wasn't neutral record-keeping — it was deliberate narrative construction that made Confucian philosophy appear to be validated by centuries of evidence.
 

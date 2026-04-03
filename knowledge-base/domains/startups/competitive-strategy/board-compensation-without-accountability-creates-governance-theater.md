@@ -51,6 +51,10 @@ related:
   - INS-260323-BD20
   - INS-260329-C92A
   - INS-260329-BC36
+evidence:
+  - id: INS-260329-9A30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Board membership pays extremely well for minimal time commitment - often hundreds of thousands for quarterly meetings. This compensation structure attracts and retains directors who are incentivized to maintain smooth relationships rather than exercise challenging oversight.
 

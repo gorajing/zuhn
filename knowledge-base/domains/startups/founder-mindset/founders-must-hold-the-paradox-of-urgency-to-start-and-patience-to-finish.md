@@ -56,6 +56,9 @@ evidence:
   - id: INS-260327-3918
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260327-B72F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 This is the fundamental tension in all startup advice: you must simultaneously be impatient and ambitious — feel like your hair is on fire — while also holding the idea that doing great work takes a long time. Founders constantly struggle with this apparent contradiction, and many give up because they can't reconcile the two.
 

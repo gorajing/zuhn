@@ -52,5 +52,18 @@ related:
   - INS-260323-92AD
   - INS-260330-2B42
   - INS-260329-E6DB
+evidence:
+  - id: INS-260329-58E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-92AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-2B42
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-E6DB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 David Malan — who went on to become one of the most influential CS educators in history — nearly didn't take CS50 as a student. What changed his mind was being allowed to enroll pass/fail. This anecdote is a perfect case study in how perfectionism and fear of failure prevent capable people from even attempting challenging domains. The pass/fail option didn't change the difficulty of the material or the quality of instruction; it simply removed the perceived downside risk. This principle applies broadly: when you want people to try something difficult, the most effective intervention isn't making the thing easier — it's making failure less costly. Startups use this with free trials, gyms with no-commitment memberships, and open source with permissive licenses. The mechanism is the same: reduce the stakes of the first attempt and participation rates jump.

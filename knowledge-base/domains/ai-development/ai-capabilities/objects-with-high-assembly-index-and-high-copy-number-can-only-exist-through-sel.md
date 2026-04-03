@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-240A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-70FD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Random processes can occasionally produce complex objects (high assembly index) but cannot reliably produce many identical copies of them. Selection processes can produce many copies of simple objects but that's unremarkable. The combination of high complexity AND high copy number is the signature of evolution/selection.
 

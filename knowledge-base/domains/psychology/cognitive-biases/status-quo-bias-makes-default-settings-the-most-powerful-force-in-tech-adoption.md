@@ -63,6 +63,15 @@ evidence:
   - id: INS-260327-6D77
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-4F7A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-7DAA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-7D3C
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Microsoft's strategy with Bing reveals that status quo bias isn't just a minor cognitive quirk — it's the single most profitable behavioral pattern in consumer technology. Microsoft explicitly acknowledges that 'ignorance and apathy are on their side.' Users don't know how to change defaults, or don't care enough to do so, making the default option the de facto choice for hundreds of millions of people.
 

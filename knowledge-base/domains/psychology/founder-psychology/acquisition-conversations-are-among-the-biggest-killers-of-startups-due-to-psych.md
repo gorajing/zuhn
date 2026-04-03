@@ -56,5 +56,27 @@ related:
   - INS-260330-A38C
   - INS-260327-60A0
   - INS-260327-643E
+evidence:
+  - id: INS-260320-39A3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-B64E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-0E33
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-07C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-A38C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-60A0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-643E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Altman identifies acquisition conversations as one of the biggest company killers, working through multiple psychological mechanisms. First, they distract the founder from building. Second, the founder mentally checks out — imagining wealth and freedom — which degrades decision-making. Third, if the offer comes in low (which it usually does), the founder is demoralized because they've already mentally exited. Fourth, because they've already psychologically committed to being done, they accept the low offer. Altman's rule: never start acquisition talks unless you'd sell for a 'pretty low number.' If a truly extraordinary offer exists, you'll know because they'll make it unsolicited before you even meet. This connects to his broader point that the ultimate cause of startup death is founders giving up, and acquisition conversations are one of the most insidious paths to that outcome.

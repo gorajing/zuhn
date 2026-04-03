@@ -64,6 +64,9 @@ evidence:
   - id: INS-260326-7B2C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260322-0AA6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Adding sine waves together is trivially easy — you just sum the values. But reversing the process feels like unmixing paint, which our physical intuition says is impossible. 3Blue1Brown uses this framing deliberately: he names the perceived impossibility, then shows the Fourier Transform doesn't actually unmix anything. Instead, it builds a detection machine — sweeping through possible frequencies and checking which ones cause the wound-up signal to become lopsided.
 

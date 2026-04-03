@@ -52,6 +52,13 @@ related:
   - INS-260402-CF0A
   - INS-260402-A999
   - INS-260328-A417
+evidence:
+  - id: INS-260402-A999
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-8329
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham presents a natural experiment spanning centuries: Northern Italy 800 (off, warlords steal it) vs 1100 (on). England 1800 (on) vs 1974 (off, 98% tax on investment income). West Germany (on) vs East Germany (off). In every case, wealth creation appears and disappears based on retention incentives.
 

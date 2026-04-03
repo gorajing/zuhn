@@ -52,6 +52,16 @@ related:
   - PRI-260323-DC25
   - INS-260325-F500
   - INS-260323-7C3A
+evidence:
+  - id: INS-260329-2AB9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-7C3A
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4A16
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The agricultural revolution wasn't a conscious choice to transform civilization — it was thousands of independent communities making locally rational decisions to grow more food. No single farmer intended to create cities, inequality, or environmental destruction. This pattern recurs throughout history: individually sensible choices aggregate into irreversible systemic shifts.
 

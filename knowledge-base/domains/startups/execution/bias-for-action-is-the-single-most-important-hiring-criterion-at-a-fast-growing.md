@@ -56,5 +56,9 @@ related:
   - INS-260402-EA72
   - INS-260325-6F89
   - INS-260327-3788
+evidence:
+  - id: INS-260330-FB34
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Weinberg draws a sharp distinction: he doesn't penalize wrong decisions, he penalizes inaction. People at Harvey sometimes thought they were being punished for making the wrong call. Not true — they were being punished for taking six months to make the decision, by which point the market had changed and the decision was irrelevant. His interview technique for executives crystallizes this: he asks them to draw out what their org would look like in 3, 6, and 12 months. It's 'insane how many people can't do that' — they can describe needing a VP of this region but can't map every hire, what they'd do, and who would be a good fit. The leaders who don't scale are the ones who fail to create leverage quickly by building their own teams. At Harvey's speed, the cost of inaction dwarfs the cost of wrong action.

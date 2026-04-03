@@ -62,6 +62,16 @@ related:
   - PRI-260328-9EC9
   - PRI-260328-E64D
   - INS-260327-A59A
+evidence:
+  - id: INS-260330-8733
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CFD5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-A59A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Keating was fired from his postdoc at Stanford because he was sketching plans for his own ambitious experiment instead of doing the work his advisor was paying him for. Rather than being a setback, this forced exit led directly to his working at Caltech with Andrew Lange, which led to the BICEP experiment — the defining work of his career. He describes it as 'possibly the best thing that could ever happen to me.'
 

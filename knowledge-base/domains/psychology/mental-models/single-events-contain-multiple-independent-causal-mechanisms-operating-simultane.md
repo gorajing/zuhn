@@ -59,6 +59,10 @@ related:
   - INS-260330-6C17
   - INS-260330-0DF9
   - INS-260330-6FDF
+evidence:
+  - id: INS-260330-6C17
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 When an AK-47 fires underwater, what appears as one explosion is actually three separate physical processes happening simultaneously: barrel cavitation from the Bernoulli principle as the bullet accelerates through water, burnt gunpowder gas trailing behind the projectile, and vapor created by the shock wave expanding outward. Each is governed by entirely different physics.
 

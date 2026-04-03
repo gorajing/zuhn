@@ -60,6 +60,10 @@ related:
   - INS-260322-BF4C
   - INS-260321-CCD9
   - INS-260327-8521
+evidence:
+  - id: INS-260322-BF4C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Rubin makes a sharp distinction between commercial skill (crafting something to please others) and artistic skill (expressing authentic personal vision). He argues that if everyone says 'A' but you feel 'B,' the artist's job is to say 'to me, it's B' — not defiantly, but with honest ownership. Undermining personal taste for commercial considerations 'defeats the whole purpose' of creative work. Huberman reinforces this with his mentor's observation that the one thing he couldn't teach was taste, and that perfectionists who filter through others' feedback were the ones who never developed it.
 

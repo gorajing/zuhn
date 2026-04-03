@@ -51,6 +51,13 @@ related:
   - INS-260330-24E0
   - INS-260330-87A0
   - INS-260327-D7E6
+evidence:
+  - id: INS-260330-24E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-D7E6
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Many people protect their beliefs by avoiding opposing arguments, creating a fragile confidence that shatters upon first contact with serious challenge. Genuine confidence requires understanding the strongest counter-arguments and having coherent responses.
 

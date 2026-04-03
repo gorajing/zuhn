@@ -60,6 +60,13 @@ related:
   - INS-260323-95BC
   - INS-260330-BCAF
   - INS-260330-6A94
+evidence:
+  - id: INS-260330-FA9D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-8304
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Tarter describes the psychological framework required for SETI work: you cannot wake up expecting to find a signal today, because you'll go to bed disappointed. Instead, you wake up saying 'today I'm going to figure out how to do this better — something we couldn't do last week.' The satisfaction comes from methodological improvement, not outcome achievement.
 

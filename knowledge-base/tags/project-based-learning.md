@@ -15,5 +15,6 @@
 - `INS-260329-8830` Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
 - `INS-260329-E402` Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
 - `INS-260329-820D` Alternating between concept explanation and mini-projects creates natural retrieval practice and motivation loops.
+- `INS-260403-B7FA` Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - `INS-260329-2FEB` Immediate output from each new concept (printing, calculations, simple games) cements understanding faster than abstract theory.
 - `INS-260329-023F` Real learning happens when you build projects without following a tutorial, forcing yourself to problem-solve independently.

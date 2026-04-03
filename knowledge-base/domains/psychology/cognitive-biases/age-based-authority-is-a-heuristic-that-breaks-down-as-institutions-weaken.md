@@ -57,6 +57,12 @@ evidence:
   - id: INS-260325-E8BC
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-6F7F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-7D18
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Age-based authority evolved when the world changed slowly: an elder's life experience was directly relevant to a younger person's challenges. In a rapidly changing world, accumulated experience can be accumulated irrelevance - deeply held intuitions about how things work may be artifacts of a world that no longer exists.
 

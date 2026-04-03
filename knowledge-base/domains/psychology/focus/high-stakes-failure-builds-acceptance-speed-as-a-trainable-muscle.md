@@ -56,6 +56,19 @@ related:
 stance: >-
   Repeatedly putting yourself in high-stakes situations where failure is likely
   trains you to accept setbacks faster and redirect energy toward the n...
+evidence:
+  - id: INS-260325-0C4A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260326-8E6D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-24F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-6130
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Jordan Jonas describes missing a moose with his only arrow on Alone and noticing how quickly he accepted the failure rather than dwelling on it. He attributes this to years of putting himself in uncomfortable situations — from Siberian wilderness to competitive survival — which built a muscle for rapid failure acceptance.
 

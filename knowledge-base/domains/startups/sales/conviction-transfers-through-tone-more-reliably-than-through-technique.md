@@ -58,11 +58,14 @@ related:
   - INS-260329-A80B
   - INS-260329-2B04
   - INS-260327-9C00
-  - PRI-260328-E921
+  - INS-260403-AC74
   - INS-260327-2F78
   - INS-260329-226C
   - INS-260329-D215
-  - INS-260330-AF47
+evidence:
+  - id: INS-260330-AF47
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi discovered that his gym's sales team had absurdly high close rates on one specific day: weigh-out day, when customers came in to show their transformation results. After watching 20 people lose 20-30 pounds, the sales reps had absolute conviction that the program worked. That conviction transferred to every prospect they spoke to.
 

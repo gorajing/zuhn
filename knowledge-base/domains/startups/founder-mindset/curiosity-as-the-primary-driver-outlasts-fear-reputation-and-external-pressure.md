@@ -59,6 +59,10 @@ related:
 stance: >-
   At 54 with grown children and strong convictions, Carlson finds that pure
   curiosity ('I was just interested') is the most sustainable and honest dr...
+evidence:
+  - id: INS-260327-4EDE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Carlson describes sitting in Molotov's old office in the Kremlin, 'blown away' not by the political significance but by the raw historical reality of the place. His motivation for the entire endeavor was 'to bring more information' -- not to score points, not to advance a career, not to prove anything. He explicitly notes he wasn't nervous because 'I'm 54, my kids are grown, I believe in God.'
 

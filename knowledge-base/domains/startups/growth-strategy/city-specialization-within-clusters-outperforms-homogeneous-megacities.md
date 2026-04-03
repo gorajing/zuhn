@@ -57,6 +57,9 @@ evidence:
   - id: INS-260323-E214
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-8FC5
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 China's plan deliberately preserves each city's comparative advantage: Hong Kong as the international financial gateway, Shenzhen as the innovation/tech hub (DJI, Tencent, BYD), Macau as the entertainment center, and Guangzhou as the political-administrative capital. This mirrors how Silicon Valley's sub-regions specialize (Sand Hill Road for VC, SF for startups, South Bay for hardware) rather than each trying to be everything.
 

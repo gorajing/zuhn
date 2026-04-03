@@ -59,5 +59,8 @@ evidence:
   - id: INS-260323-A8B5
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-90C3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The Silk Road case demonstrates that operational security failures compound rather than cancel out. Each individual mistake — posting on the Shroomery forum as 'altoid,' including rossulbricht@gmail.com in a Bitcoin job posting, asking a Tor-related coding question under his real name on Stack Overflow before hastily changing it to 'frosty' — seemed minor in isolation. But IRS agent Gary Alford connected them all through simple Google searches filtered by date. The lesson extends beyond illegal enterprises: any founder operating in a sensitive space (regulated industries, competitive stealth-mode startups, whistleblower platforms) must assume every digital breadcrumb persists forever and can be correlated. The 'digital parking ticket' metaphor is powerful — it's never the sophisticated attack that gets you, it's the mundane oversight you didn't think anyone would check.

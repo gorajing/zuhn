@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-CF10
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-7C58
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Musk draws a precise analogy between regulatory accumulation and software bloat: rules and regulations are lines of code for operating civilization, but we have functions for creating them and no functions for removing them. The result is 'archaic bloatware' — like Gulliver tied down by thousands of little strings. Wars historically served as a reset function (a crude garbage collector), but in peaceful times, regulations only grow.
 

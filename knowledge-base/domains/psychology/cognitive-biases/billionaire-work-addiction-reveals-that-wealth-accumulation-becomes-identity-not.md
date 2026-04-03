@@ -68,6 +68,12 @@ evidence:
   - id: INS-260327-1F6A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-8AE7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-0117
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Donald Trump would be worth $13B if he'd passively invested his $400M inheritance in 1988 - nearly double his current estimated wealth. Yet he and most billionaires continue working. The average billionaire age is 63 and rising. No self-made billionaires are under 30.
 

@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-06CD
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-A029
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 WhatsApp's founders were privacy activists who left Yahoo over disagreements about advertising. They built WhatsApp explicitly as an anti-ad, pro-privacy product. Then they sold to Facebook — the world's largest advertising-driven data company — for $19B with promises of independence. Brian Acton quit two years later, forfeiting $850M in unvested stock, and funded Signal as a direct competitor.
 

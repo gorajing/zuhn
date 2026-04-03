@@ -49,5 +49,9 @@ related:
   - INS-260327-EE5E
   - INS-260327-02DF
   - INS-260330-F527
+evidence:
+  - id: INS-260330-ACDA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham observed that everything on a competitor's website could be stock photos and marketing fluff, but job listings had to be accurate or they'd attract the wrong candidates. He developed a reliable heuristic: companies hiring for Oracle experience were no threat, C++/Java was safe, but Perl/Python postings signaled real hackers were running the technical side. This principle remains applicable — job listings reveal the actual technology stack, the caliber of engineer being sought, and by extension the company's technical ambition. It's a form of competitive intelligence hiding in plain sight that most founders overlook in favor of analyzing product features or funding rounds.

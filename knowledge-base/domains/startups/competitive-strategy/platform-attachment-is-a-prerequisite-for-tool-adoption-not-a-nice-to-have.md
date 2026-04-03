@@ -61,6 +61,9 @@ evidence:
   - id: INS-260321-1A0B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-72EF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham argues that programming languages don't exist in isolation — they become popular by being 'the scripting language of a popular system.' C rode Unix, Perl rode system administration, Java rode web browsers. Lisp, despite being arguably superior, failed to maintain popularity because it wasn't attached to any dominant platform after the MIT Lisp Machines died.
 

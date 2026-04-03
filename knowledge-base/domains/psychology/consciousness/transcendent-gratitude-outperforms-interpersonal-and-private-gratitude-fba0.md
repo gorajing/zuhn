@@ -56,6 +56,9 @@ evidence:
   - id: INS-260322-13D6
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-F853
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Research randomly assigned participants to three gratitude conditions: prayer to a deity, self-help journaling, or expressing gratitude to another person. Prayer-based gratitude produced the strongest health and well-being outcomes.
 

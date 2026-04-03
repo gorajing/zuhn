@@ -53,6 +53,13 @@ related:
   - INS-260330-5B0C
   - INS-260402-1414
   - INS-260330-63B8
+evidence:
+  - id: INS-260330-5B0C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-1414
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham notes a specific failure mode in private writing: when he hits difficulties, he tends to 'conclude with a few vague questions and then drift off to get a cup of tea.' He compares the audience effect to how inviting people over forces you to clean your apartment. The audience doesn't tell you what to think — it forces you to finish thinking.
 

@@ -60,6 +60,10 @@ related:
   - INS-260329-3CB6
   - INS-260330-BEDC
   - INS-260330-901B
+evidence:
+  - id: INS-260330-5263
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The entire Banach-Tarski proof hinges on a naming convention: label each point by the rotation sequence that reaches it. Without this naming scheme, the sphere is just an undifferentiated surface with uncountably many points and no obvious structure to exploit. With it, the Hyperwebster-like self-similarity becomes visible, and the 'impossible' doubling becomes a straightforward consequence of how strings combine.
 

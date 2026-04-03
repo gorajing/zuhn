@@ -56,6 +56,19 @@ related:
   - INS-260323-7F3E
   - INS-260330-8AC8
   - INS-260329-4DBC
+evidence:
+  - id: INS-260325-0873
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-7F3E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8AC8
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-4DBC
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham draws an analogy between physical stretching and intellectual boundary-testing. A runner who stretches into extreme positions before a race finds the actual running positions comfortable. Similarly, a thinker who habitually entertains truly radical, socially unacceptable ideas will find that conventional 'innovative thinking' requires almost no effort — those ideas are well within their already-expanded range of motion.
 

@@ -58,5 +58,17 @@ evidence:
   - id: INS-260327-6F94
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-24CE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-8E48
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-9C20
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-D21A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Littlewood's Law provides a simple but powerful reframe for coincidences: if we experience roughly one event per second during our ~8 waking hours daily, that's about 30,000 events per day or roughly one million per month. A one-in-a-million event should therefore happen about once every 35 days. David Hand extends this to Earth's population: with 7+ billion people, the probability that a one-in-a-million event won't happen to someone today is essentially zero (1 in 10^3040). As Persi Diaconis put it, 'the truly unusual day would be a day where nothing unusual happens.' This framework is useful for evaluating any claim of extraordinary coincidence — the base rate of surprising events is far higher than intuition suggests.

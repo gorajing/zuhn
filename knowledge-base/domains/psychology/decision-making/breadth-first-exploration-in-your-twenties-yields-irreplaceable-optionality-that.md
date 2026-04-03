@@ -56,6 +56,16 @@ related:
   - INS-260402-F08D
   - INS-260330-AB6E
   - PRI-260328-82BE
+evidence:
+  - id: INS-260330-CFBA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-F08D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-AB6E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham frames the startup timing decision using search algorithms: startups are a 'brutally fast depth-first search' while people in their early twenties should still be searching breadth-first. Activities like plunging into projects on a whim and traveling cheaply have a narrow window — they become impossible once a successful startup takes over your life irrevocably.
 

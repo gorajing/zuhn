@@ -50,6 +50,9 @@ evidence:
   - id: INS-260322-2647
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-27DF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewelry, because while individual brands cycle in and out of fashion, the desire for luxury is permanent.
 

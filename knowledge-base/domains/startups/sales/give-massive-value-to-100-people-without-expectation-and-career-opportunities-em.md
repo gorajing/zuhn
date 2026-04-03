@@ -57,6 +57,10 @@ related:
   - INS-260330-CBEF
   - INS-260330-49A4
   - INS-260329-12EC
+evidence:
+  - id: INS-260327-7DBC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi describes how most people offering value sabotage themselves by framing it transactionally ('I'll do X in exchange for Y'), which signals low status and delusional self-assessment. The correct approach is to make your best guess at what someone ahead of you needs, execute it at high quality, and give it freely with zero expectation. Three outcomes result: most likely nothing happens, second most likely they notice your work ethic and offer a different opportunity, and least likely they want exactly what you gave.
 

@@ -51,5 +51,9 @@ related:
   - PRI-260327-0AA2
   - INS-260329-1D08
   - PRI-260325-A95E
+evidence:
+  - id: INS-260329-976E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Contrary to the expectation that success reduces stress, Altman warns that the psychological oscillation of being a founder intensifies with growth. The highs improve but the lows deepen. Compounding this, success transforms public perception from underdog (rooted for) to target (hated on), starting with internet commenters and escalating to journalists. This expanding emotional swing, combined with the temptation of acquisition conversations and loss of focus, creates the conditions where founders give up — which Altman identifies as the ultimate cause of startup death. The prescription is proactive psychology management: take vacations, commit to long-term thinking (10+ year horizon), and avoid gratification traps like conferences and premature M&A conversations.

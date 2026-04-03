@@ -56,6 +56,13 @@ related:
   - PRI-260323-27D6
   - PRI-260328-1D0B
   - PRI-260323-A33E
+evidence:
+  - id: INS-260327-76DA
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-654D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Harris highlights how public health officials who had insisted lockdowns were medically necessary then signed letters endorsing mass protests as acceptable — a visible contradiction that undermined public health messaging far beyond the immediate context. He argues the damage from this hypocrisy was disproportionate: it didn't just weaken trust on that one issue, it called into question the entire framework of expert authority.
 

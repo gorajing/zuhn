@@ -54,5 +54,11 @@ evidence:
   - id: INS-260320-EF3A
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260330-707D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-EBF6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The iPhone X retained 68% of its value after a year ($679 of $999), costing roughly $26/month to own. Samsung flagships lost 58% and Google Pixel lost 82% in the same period. This reframes the competitive landscape: a $999 iPhone with strong resale is cheaper to own than a $600 Android that's worth $108 after a year. The insight applies beyond phones—any product category where resale value is significant (cars, luxury goods, enterprise software licenses) should be evaluated on total cost of ownership rather than purchase price. Companies that build durable, desirable products create an accidental moat through secondary market dynamics.

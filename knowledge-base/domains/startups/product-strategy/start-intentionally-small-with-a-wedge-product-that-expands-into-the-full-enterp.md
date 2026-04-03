@@ -60,6 +60,10 @@ related:
   - INS-260325-3611
   - INS-260330-541B
   - INS-260325-898A
+evidence:
+  - id: INS-260330-0DCA
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Levie argues that enterprise startups must resist the temptation to build full solutions from day one. Instead, they should find a narrow wedge—a specific pain point that falls between the gaps of existing solutions—and make the user experience on that sliver exceptional. The incumbents will dismiss the wedge as 'too small' or 'only for small businesses,' which is exactly the desired response.
 

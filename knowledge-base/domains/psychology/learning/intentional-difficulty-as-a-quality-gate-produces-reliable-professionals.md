@@ -55,10 +55,10 @@ stance: >-
   advanced work
 related:
   - INS-260323-649B
+  - INS-260403-875B
   - INS-260323-A14D
   - PRI-260325-EEE9
   - INS-260330-012D
-  - INS-260320-F78E
 evidence:
   - id: INS-260323-649B
     type: CHALLENGES

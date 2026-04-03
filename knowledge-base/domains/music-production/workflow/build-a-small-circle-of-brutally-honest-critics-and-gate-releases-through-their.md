@@ -56,6 +56,18 @@ evidence:
   - id: INS-260320-508F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260322-AB55
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260326-C692
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-E36A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-4B63
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Friends and family give useless feedback ('yeah, it's good') because they don't want to hurt you. What you actually need is someone who says 'your kick drum is too loud' or 'your bass pattern is garbage.' James Hype built relationships with other DJs/producers who exchanged brutally honest critiques, which accelerated his ability to distinguish good work from bad.
 

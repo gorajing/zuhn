@@ -55,6 +55,10 @@ related:
   - INS-260330-2C79
   - INS-260330-FE9E
   - INS-260330-0F52
+evidence:
+  - id: INS-260329-55F7
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi presents a specific research method: extract reviews from books in your niche and pull quotes that articulate customer pain in their own language. The principle is that 'pain and persuasion only exist in the specific, never the vague.' Generic problem descriptions ('struggling with your business?') have zero persuasive power compared to specific articulations that make the prospect think 'that's exactly my situation.'
 

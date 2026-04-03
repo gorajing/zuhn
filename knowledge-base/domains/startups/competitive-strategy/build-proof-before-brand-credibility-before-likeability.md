@@ -53,6 +53,10 @@ related:
   - INS-260323-D621
   - INS-260330-90C3
   - INS-260329-4A69
+evidence:
+  - id: INS-260330-90C3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that the business leaders with the strongest personal brands (Musk, Bezos, Jobs, Buffett) all built massive businesses first and became thought leaders as a byproduct. They built credibility before likeability. In contrast, entrepreneurs who start with personal branding are building on promises that anyone can copy.
 

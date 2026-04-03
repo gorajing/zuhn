@@ -48,5 +48,9 @@ related:
 stance: >-
   Ship product updates 6 days per week because AI model improvements reset the
   entire industry every month.
+evidence:
+  - id: INS-260325-A08A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Higgsfield shipped new product releases 6 days a week throughout 2025. The reason: roughly five leading research labs each push major model updates every quarter, meaning some months see two major capability shifts. Each update requires substantially rebuilding the product around the new models. The perfect interface between simplicity and configuration remains unsolved, which is another reason to embrace daily iteration. Product builders in AI are in a constant race to highlight the best possibilities of new models to customers.

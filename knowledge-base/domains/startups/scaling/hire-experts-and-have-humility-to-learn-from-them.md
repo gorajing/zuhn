@@ -56,6 +56,10 @@ related:
   - INS-260330-F3FF
   - INS-260330-B771
   - INS-260402-0E46
+evidence:
+  - id: INS-260402-0E46
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When Facebook needed to build data centers, Schroepfer didn't pretend the existing team could figure it out. He hired people with actual data center and network design experience. The approach wasn't 'we'll figure it out ourselves'—it was 'go hire a team to understand this new area and then help us get good.'
 

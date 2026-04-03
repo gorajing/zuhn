@@ -60,6 +60,10 @@ related:
   - INS-260330-0930
   - INS-260330-D582
   - INS-260320-10E8
+evidence:
+  - id: INS-260320-10E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Engineers designed the Millennium Bridge to avoid vertical resonance at human walking frequency (2 Hz), but missed that lateral forces at 1 Hz (half the walking frequency, matching left-foot-only cadence) could trigger wobble. Once the bridge moved slightly sideways, pedestrians instinctively adjusted their gait to stabilize themselves — inadvertently synchronizing their lateral forces and pumping more energy into the bridge. The system underwent a phase transition at exactly 166 people.
 

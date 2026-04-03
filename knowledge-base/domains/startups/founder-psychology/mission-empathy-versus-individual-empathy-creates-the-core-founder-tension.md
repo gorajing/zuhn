@@ -68,6 +68,15 @@ evidence:
   - id: INS-260329-0CDD
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-2874
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-46AD
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260325-FBA0
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Isaacson identifies a fundamental tension in leadership: empathy for the mission vs. empathy for the people in front of you. Musk, Gates, and Summers have enormous empathy for humanity-scale goals but can be clueless about the emotions of people sitting across from them. Franklin was the opposite -- overflowing with personal empathy, which critics called 'insinuating,' but this became his superpower for bringing people together at the Constitutional Convention.
 

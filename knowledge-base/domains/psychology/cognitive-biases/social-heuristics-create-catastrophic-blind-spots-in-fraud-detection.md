@@ -67,6 +67,12 @@ evidence:
   - id: INS-260327-A5CD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-E791
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-E5F2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Coffeezilla identifies a specific failure mode in fraud detection: social heuristics compound. If someone went to MIT, worked at Jane Street, has both parents as Harvard lawyers, runs a billion-dollar exchange, and has Tom Brady endorsements — each heuristic reduces the perceived need for deep investigation. Sequoia, BlackRock, and Fortune Magazine all rubber-stamped SBF without adequate due diligence because enough 'rules of thumb' were satisfied.
 

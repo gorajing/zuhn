@@ -67,5 +67,11 @@ evidence:
   - id: INS-260323-3CD0
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-D624
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-F2C3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Murray makes a striking comparative observation: America is unique in generating conspiracy theories about its own successes, not just its failures. Significant portions of the American public don't believe America landed on the moon — one of its greatest engineering achievements. He contrasts this with Soviet citizens who, despite living under a regime that lied about everything ('this year's crops are particularly good — always a lie'), never doubted that Gagarin went to space because they were proud of it. This suggests conspiracy thinking in America isn't driven by rational distrust of institutions but by a deeper cultural pattern — perhaps related to anti-establishment identity, algorithmic incentive structures, or what Murray calls an 'encouraged' tendency to doubt. The implication for information ecosystems is that merely providing evidence or transparency may not counteract conspiracy thinking if the psychological drivers are identity-based rather than evidence-based.

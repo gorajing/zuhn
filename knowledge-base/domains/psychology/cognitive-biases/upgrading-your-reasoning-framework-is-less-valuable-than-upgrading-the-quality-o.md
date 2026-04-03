@@ -62,5 +62,11 @@ evidence:
   - id: INS-260329-8896
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-5C7A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-2AB9
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Transfer from ai-development principle: data quality dominates architecture in ML systems. Applied to cognition: people invest disproportionately in better analytical frameworks (mental models, decision frameworks, reasoning techniques) when they should invest in better information sources (curating their media diet, diversifying their social circle, seeking disconfirming evidence). Just as a mediocre ML architecture trained on excellent data outperforms a sophisticated architecture trained on noisy data, a simple thinker with high-quality inputs will make better decisions than a sophisticated thinker consuming information junk food. The practical implication: before buying another book on thinking better, audit where your information comes from.

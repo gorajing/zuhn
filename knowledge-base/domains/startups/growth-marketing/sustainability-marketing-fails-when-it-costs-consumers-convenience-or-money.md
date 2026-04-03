@@ -49,6 +49,9 @@ evidence:
   - id: INS-260327-B6B7
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-8DF7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Surveys show 80%+ want sustainable products. Purchasing data shows sustainable options capture under 5% of most categories. The intention-action gap is driven by price and convenience — values lose to wallet every time.
 

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260323-3ADC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-62AB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Wen draws a clear contrast between research labs that commercialized successfully versus those that didn't. OpenAI succeeded because despite being a research lab, it needed to find revenue to fund its compute-intensive research — creating genuine pressure to build products people would pay for. Meanwhile, Google Brain and DeepMind did 'fantastic research' but didn't commercialize effectively because Google's existing revenue made commercialization optional rather than existential.
 

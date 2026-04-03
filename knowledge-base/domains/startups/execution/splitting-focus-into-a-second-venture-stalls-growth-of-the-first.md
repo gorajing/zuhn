@@ -58,5 +58,8 @@ evidence:
   - id: INS-260323-043E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-E86C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Despite Prestige Labs being a solid business that hit $1.7M in its first operational month, Hormozi identifies it as his biggest strategic mistake. Gym Launch stopped growing the year he launched Prestige Labs because he became CEO of two companies instead of one. The insight is counterintuitive because Prestige Labs looked like an obvious win — it leveraged existing distribution, had a clear value proposition, and generated immediate revenue. But founder attention is a zero-sum resource, and the opportunity cost of not deepening the primary business exceeded the gains from the new one. This applies broadly: the best next move for a growing company is almost always to make the current thing better, not to start a parallel thing.

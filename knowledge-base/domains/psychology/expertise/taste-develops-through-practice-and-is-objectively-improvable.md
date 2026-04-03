@@ -53,7 +53,16 @@ related:
   - PRI-260328-AC85
   - INS-260329-2EB1
   - INS-260402-D2C9
-  - INS-260403-B9E5
+evidence:
+  - id: INS-260330-F534
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-2EB1
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260402-D2C9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham makes an elegant logical argument against taste relativism: as you design more, your taste changes. Since you know you're getting better at your job, your old tastes were not merely different but worse. This destroys the axiom that taste can't be wrong. The cultural norm of 'taste is subjective' originates not from philosophical truth but from parents trying to stop siblings from bickering.
 

@@ -51,5 +51,9 @@ related:
   - INS-260327-E68D
   - INS-260329-3E28
   - INS-260330-EF10
+evidence:
+  - id: INS-260330-EF10
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Alice learned that B2B sale cycles are roughly 10x those of consumer businesses. A B2B founder can invest months into a deal and come away with nothing. Her advice for B2B founders: diversify revenue streams so a single failed deal does not become existential. This is especially critical for bootstrapped or capital-efficient startups where a few months without revenue can be fatal. The management mindset she advocates means proactively planning for this variability rather than hoping each deal closes.

@@ -49,6 +49,10 @@ related:
   - INS-260329-C91D
   - INS-260330-F348
   - INS-260328-00E8
+evidence:
+  - id: INS-260325-27ED
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Kausas frames the persistence question with brutal simplicity: if you feel like you should stop, you probably should. The only founders who should continue are those who literally can't stop themselves—there's something nagging inside that won't let them quit.
 

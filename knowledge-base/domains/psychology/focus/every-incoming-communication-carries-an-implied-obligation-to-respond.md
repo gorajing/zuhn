@@ -53,6 +53,19 @@ related:
   - INS-260326-C692
   - INS-260325-2944
   - INS-260323-40AA
+evidence:
+  - id: INS-260329-F0DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-C996
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260326-C692
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-40AA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi reframes incoming communication as an implied take: every text, email, or meeting request is actually asking you to do something (reply, attend, give attention). People conflate having the time to reply with being obligated to reply. His thought experiment makes this vivid: if 500,000 people texted you, you clearly couldn't reply to all — proving the obligation never existed. You only feel obligated because you happen to have the time.
 

@@ -55,5 +55,9 @@ related:
   - INS-260330-E0A7
   - INS-260330-39D4
   - INS-260325-4F06
+evidence:
+  - id: INS-260327-7D0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When the Chelyabinsk asteroid exploded 30km above ground in 2013, the flash was brighter than the sun but produced no immediate sound or shockwave. This 90-second delay between visual event and physical impact caused people to gather at windows to watch — and when the shockwave arrived, it blew out those windows, sending glass into the faces and eyes of 1500 people. The injuries were worse precisely because of the delay. This pattern — where a gap between warning signal and consequence causes people to move toward danger rather than away — appears across many domains: financial bubbles where early warnings don't produce immediate pain, health risks with long latency periods, and security threats with delayed consequences. The bias isn't just complacency; it's active movement toward the threat during the silent period.

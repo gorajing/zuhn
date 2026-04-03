@@ -54,6 +54,13 @@ related:
   - INS-260326-7B2A
   - INS-260329-FE15
   - INS-260402-0392
+evidence:
+  - id: INS-260402-0392
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-31B5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The article argues that prevailing wisdom about first jobs — optimize for income, passion, skills, or brand — is 'flat wrong.' Instead, the primary criterion should be working alongside people whose career path you want to emulate. High achievement is communicable through network proximity, and innovation is contagious — the PayPal Mafia produced multiple billionaires not by coincidence but through network clustering effects.
 

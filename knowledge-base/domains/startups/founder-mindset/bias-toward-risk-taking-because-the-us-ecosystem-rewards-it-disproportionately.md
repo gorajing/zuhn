@@ -58,6 +58,12 @@ evidence:
   - id: INS-260329-5414
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-BEFB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-27DF
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Misra dropped out of a machine learning PhD to join a startup. People thought he was crazy. Looking back, it was the right decision. His insight: especially in the US, you can take risks and actually get rewarded for them. People don't bias enough toward risk.
 

@@ -47,7 +47,6 @@ stance: >-
   People become humble after achieving success and encountering true experts,
   rather than humility being a prerequisite strategy for achieving success.
 related:
-  - INS-260322-CC69
   - INS-260323-F2C3
   - INS-260323-8B89
   - INS-260323-2038
@@ -57,6 +56,7 @@ related:
   - INS-260327-FA62
   - INS-260327-B2CC
   - INS-260327-91E7
+  - PRI-260327-5635
 evidence:
   - id: INS-260322-CC69
     type: CHALLENGES

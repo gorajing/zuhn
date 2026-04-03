@@ -57,6 +57,9 @@ evidence:
   - id: INS-260329-EA2B
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-19A8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hilbert's Hotel demonstrates that infinity defies subtraction, addition, and division simultaneously. It's not that one rule breaks — every arithmetic intuition fails at the same time. This is qualitatively different from a situation where one heuristic is wrong and the others hold.
 

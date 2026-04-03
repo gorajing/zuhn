@@ -51,5 +51,24 @@ related:
   - INS-260327-5DD2
   - INS-260321-AA91
   - INS-260329-39E1
+evidence:
+  - id: INS-260327-8388
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-8389
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260328-F3C4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-5DD2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260321-AA91
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-39E1
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Frozen yogurt stores pioneered weight-based self-serve pricing that flipped the traditional cup-size model. When a customer fills their own cup and sees $7 at the register, the internal reaction is 'I put too much in' rather than 'this place is expensive.' This is a fundamental reframe: the same $7 transaction feels like personal accountability rather than merchant greed. Hormozi identifies this as applicable far beyond food — any business where usage-based pricing lets customers control their own spend (cloud computing, metered services, pay-per-minute models) benefits from this transferred accountability. The key insight is that perceived control over spending reduces price sensitivity even when the total cost is identical.

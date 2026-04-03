@@ -55,6 +55,9 @@ evidence:
   - id: INS-260327-2F75
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-F3F0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Lucy Guo's routine is extreme: wake at 5:30am, gym, work until 8-9pm, dinner, more work until 11pm-1am. She chose her house for proximity to the gym and office (5 minutes each). She doesn't scroll TikTok, watch TV, or watch movies.
 

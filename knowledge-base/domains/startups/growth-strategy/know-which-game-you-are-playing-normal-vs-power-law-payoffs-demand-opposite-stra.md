@@ -83,6 +83,15 @@ evidence:
   - id: INS-260325-0688
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-B08E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-70B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-E4FA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The video presents three casino games that perfectly illustrate the strategic shift between distribution types. Game 1 (additive coin flips) produces a normal distribution where expected value is reliable and you should pay up to $50. Game 2 (multiplicative coin flips) produces a log-normal distribution where the median ($0.61) diverges dramatically from the expected value ($1). Game 3 (the St. Petersburg paradox) produces a power law with infinite expected value.
 

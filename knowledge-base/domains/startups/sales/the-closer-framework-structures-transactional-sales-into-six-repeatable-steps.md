@@ -59,6 +59,13 @@ related:
   - INS-260329-4F67
   - INS-260330-DC8B
   - INS-260327-29F0
+evidence:
+  - id: INS-260330-A370
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-DC8B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's CLOSER framework is designed for one-call or two-call closes but the principles apply to any sales conversation. Clarify forces the prospect to articulate why they showed up (reminding them of their own motivation). Label establishes the gap between current state and desired state. Overview past pain uses the deprivation principle -- expanding awareness of what they've already tried and failed at to increase urgency.
 

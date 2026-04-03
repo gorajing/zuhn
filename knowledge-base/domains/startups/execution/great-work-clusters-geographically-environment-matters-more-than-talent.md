@@ -59,6 +59,22 @@ related:
   - INS-260330-C8D7
   - INS-260330-E660
   - INS-260330-737B
+evidence:
+  - id: INS-260320-8632
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-0692
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-6061
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-2B2D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-2651
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham's Florence argument is striking: fifteenth-century Florence had Brunelleschi, Ghiberti, Donatello, Masaccio, Botticelli, Leonardo, and Michelangelo. Milan was equally large but produced almost no comparable artists. With roughly 1,000x Florence's population, the modern US should statistically contain a thousand Leonardos — yet we don't see proportional output. The variable isn't DNA but environment.
 

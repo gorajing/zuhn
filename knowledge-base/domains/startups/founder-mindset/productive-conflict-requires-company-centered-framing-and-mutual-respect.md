@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-1452
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-F3F0
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Stoute reframes conflict as a positive organizational value rather than a symptom of dysfunction. Productive conflict arises when high-performing people share the same goal but see different paths to achieving it. The key conditions are: the company is placed at the center (not individual egos), challenges are directed at ideas rather than people, and disagreement is treated as evidence of engagement rather than poor performance.
 

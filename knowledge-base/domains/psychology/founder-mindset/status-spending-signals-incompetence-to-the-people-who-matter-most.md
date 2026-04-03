@@ -53,6 +53,13 @@ related:
   - INS-260329-F3F0
   - INS-260402-8C0E
   - INS-260327-B0F2
+evidence:
+  - id: INS-260330-BCC2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-8C0E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi makes a counterintuitive social dynamics argument: the people whose opinion actually matters for your career advancement — those ahead of you — are actively repelled by status spending. They want to see you 'eating shit, living poor, learning and hustling.' A $200K watch impresses nobody in that circle.
 

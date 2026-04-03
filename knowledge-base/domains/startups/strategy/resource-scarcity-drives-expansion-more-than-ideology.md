@@ -72,6 +72,12 @@ evidence:
   - id: INS-260327-DBEB
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-4088
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-6418
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 World War II's expansion by both Axis powers was driven more by desperate resource needs than ideological conviction. Germany needed agricultural land and raw materials; Japan needed food and fuel that its island geography couldn't provide. The ideological frameworks (Lebensraum, Greater East Asia Co-Prosperity Sphere) were constructed around these material needs, not the other way around.
 

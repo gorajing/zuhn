@@ -54,6 +54,10 @@ related:
   - INS-260321-C0A4
   - INS-260327-439A
   - INS-260330-9BF3
+evidence:
+  - id: INS-260330-9BF3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi proposes three measurable axes for brand: (1) Influence — does seeing your brand change someone's behavior at all? (2) Direction — does that behavior change move them toward you (buying, clicking, sharing) or away? (3) Reach — how many people does this affect? This framework makes brand discussions concrete rather than vibes-based. A strong positive brand like Taylor Swift or Apple scores high on all three: lots of people recognize it, it changes behavior, and most of that change is toward purchase.
 

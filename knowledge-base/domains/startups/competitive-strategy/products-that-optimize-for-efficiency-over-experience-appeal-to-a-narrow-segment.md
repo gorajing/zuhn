@@ -46,6 +46,10 @@ related:
   - INS-260330-697F
   - PRI-260328-0BE1
   - INS-260327-99E5
+evidence:
+  - id: INS-260325-8DF7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Meal replacement products appeal to efficiency-maximizing consumers who are vocal online but represent a tiny fraction of actual food purchasing, creating a misleading market size signal.
 

@@ -58,6 +58,7 @@ related:
   - INS-260402-12D0
   - INS-260330-CC7D
   - PRI-260323-C49D
+  - INS-260403-6E11
 ---
 Graham proposes that creative ideation works like doodling: just as trained artists unconsciously make characteristic gestures when their hand wanders, trained minds unconsciously apply domain-specific 'functions' to random 'arguments.' A metaphor is literally a function applied to an argument of the wrong type. This explains why you must work in a field for a while before having ideas in it—you need to develop habits of mind to invoke.
 

@@ -60,6 +60,7 @@ related:
   - INS-260325-CF3E
   - INS-260327-7DAA
   - INS-260330-2F52
+  - INS-260403-6935
 stance: >-
   The biggest failure mode in Silicon Valley is assuming that being smart at
   building products means you're smart at negotiating contracts, managing ...

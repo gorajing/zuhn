@@ -54,11 +54,11 @@ stance: >-
   persuasion are uniquely vulnerable to being captured by the very forces they
   claim to see through
 related:
+  - INS-260403-AC74
   - INS-260327-D7E6
   - INS-260327-2F78
   - INS-260329-2B04
   - INS-260323-71B3
-  - INS-260326-B10B
 ---
 Adams built his entire post-Dilbert identity around the thesis that 'people don't respond to logic and evidence, so the world is ruled by catchy slogans and charismatic manipulation.' He positioned himself as the rare person who could see through the matrix. Yet this worldview became the vector for his own capture: if you believe rationality is fake and persuasion is everything, you lose the very tool (rational evaluation of evidence) that might protect you from bad ideas. His final act — treating terminal cancer with ivermectin recommended by a fellow contrarian — is the logical endpoint.
 

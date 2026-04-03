@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-6262
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-A1BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Indus Valley Civilization is one of history's most striking examples of a cooperative system that lacked defensive infrastructure. Across 1500+ archaeological sites, researchers found almost no evidence of warfare or weapons — yet the civilization disappeared around 1750 BCE, with conquest being one of three leading theories for its decline.
 

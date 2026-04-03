@@ -58,6 +58,10 @@ related:
   - INS-260330-2F52
   - INS-260330-8D6F
 stance: 'Netanyahu identifies the core AI leadership challenge: most people'
+evidence:
+  - id: INS-260330-D432
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Netanyahu makes a deceptively simple observation that cuts to the heart of why most institutions fail to prepare for technological disruption: 'In political life and in life in general, people don't have an intuitive grasp of geometric growth. You understand things basically in linear increments, and the idea that you're coming up a ski slope is very foreign to people.'
 

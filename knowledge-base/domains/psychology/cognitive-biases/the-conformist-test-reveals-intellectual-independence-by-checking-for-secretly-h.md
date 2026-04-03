@@ -53,6 +53,13 @@ related:
   - INS-260330-7E66
   - INS-260330-A01C
   - INS-260330-7D5F
+evidence:
+  - id: INS-260322-F65F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-5BC4
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Graham proposes a simple self-diagnostic: if every opinion you hold is one you're 'supposed to' hold, the odds of arriving at that position through independent thought are vanishingly small — like a mapmaker reproducing another map's deliberate errors. Just as cartographers embed intentional mistakes to detect copying, every era's moral consensus contains errors. Someone who independently evaluated every question would inevitably diverge from the consensus on at least a few points.
 

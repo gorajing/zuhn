@@ -54,5 +54,9 @@ related:
   - INS-260330-24B6
   - INS-260330-CAB3
   - INS-260330-6C17
+evidence:
+  - id: INS-260330-6C17
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 High-speed footage reveals that what looks like a single turbulent bubble trail is actually three superimposed phenomena. First, cavitation from the Bernoulli effect creates a turbulent white cloud as the bullet pushes water through the barrel at extreme speed. Second, burnt gunpowder gas follows the bullet as a dark column visible tracking the projectile. Third, the bullet's supersonic shock wave creates a low-pressure region that produces a smooth, glass-like vapor envelope distinct from the turbulent barrel cavitation. Recognizing that a seemingly unified visual event decomposes into multiple independent mechanisms is a transferable analytical skill — complex outcomes in any domain often stack several distinct causal processes that only become visible with the right observational tools.

@@ -49,5 +49,18 @@ related:
   - INS-260330-341D
   - INS-260329-4488
   - INS-260327-B410
+evidence:
+  - id: INS-260328-C2CB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-A46E
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-341D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-4488
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 From an early age, Masayoshi Son mapped out a 50-year life plan with clear phases: start a company in his 20s, build wealth in his 30s, deploy capital in his 40s, tie up loose ends in his 50s, and transition to the next generation after 60. This long-arc planning created a psychological anchor that allowed him to absorb the biggest personal financial loss in history ($70B in the dot-com crash) and keep going. The mechanism is that when your identity is tied to a multi-decade vision rather than quarterly results, individual setbacks become expected variance rather than existential threats. This contrasts with founders who optimize year-to-year, where a single major loss can trigger a fundamental strategy change or emotional collapse.

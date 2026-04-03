@@ -59,5 +59,11 @@ evidence:
   - id: INS-260330-6828
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-6F6D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-7D21
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The video's most revealing moment is Byron Ferguson's spine tester and his box of rejected arrows. A master archer who can hit an aspirin tablet mid-air doesn't rely solely on reflexes and aim — he normalizes a critical variable (arrow stiffness) before he ever draws the bow. Every arrow in his quiver has been tested to the same spine specification. Arrows outside tolerance are discarded entirely, not compensated for. This is a powerful model for any precision-dependent work. The instinct is to attribute exceptional results to exceptional skill in the moment of execution. But the reality is often that exceptional results come from ruthless standardization of inputs beforehand. In software, this looks like investing in test fixtures, linting, and type systems rather than relying on careful coding. In hiring, it looks like standardized interview rubrics rather than 'gut feel.' The preparation-side normalization removes variables so that skill during execution can actually compound rather than fighting noise.

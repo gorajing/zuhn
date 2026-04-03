@@ -69,5 +69,17 @@ evidence:
   - id: INS-260325-600C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-3436
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-A653
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-AB9A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-E0DE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When patients report lacking confidence, Conti's first diagnostic question is whether it's global or state-dependent. Almost always, it's domain-specific — someone confident professionally but paralyzed romantically, or confident socially but not academically. This distinction is therapeutically powerful because it means the person already possesses the full 'machinery of confidence' — the predispositions, potentialities, and character structure that produce confidence. They just can't deploy it in one specific context. This reframes the problem from 'I lack confidence' (an identity statement requiring personality change) to 'something specific is blocking my existing confidence here' (a localized problem requiring investigation). The investigation then follows the standard framework: is it an unconscious trauma? A conscious thought pattern? A defense mechanism like avoidance? This state-dependence insight also applies to phenomenology — Conti checks not just whether someone feels confident, but why. Feeling confident because you can think on your feet is healthy; feeling confident because you believe you're better than everyone is narcissistic reaction formation masking deep insecurity.

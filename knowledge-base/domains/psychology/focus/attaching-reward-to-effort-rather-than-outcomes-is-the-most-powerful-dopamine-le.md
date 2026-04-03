@@ -60,5 +60,12 @@ related:
   - INS-260330-BA3A
   - INS-260328-E410
   - INS-260403-D64B
+evidence:
+  - id: INS-260326-8E6D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260328-E410
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Huberman connects Carol Dweck's growth mindset research to dopamine neuroscience: when rewards come only at the end of effort, dopamine's time-perception properties cause the brain to dissociate pleasure from the activity itself, making each subsequent attempt require more external stimulation. The Stanford nursery study showed children who received gold stars for drawing subsequently drew less when stars were removed — the extrinsic reward destroyed intrinsic motivation. The alternative is to consciously attach dopamine release to the friction itself during moments of maximum strain. This isn't positive thinking — it's engaging the prefrontal cortex component of the mesolimbic pathway to reframe effort as reward. Huberman cites David Goggins as someone who has mastered this. The critical rules: don't spike dopamine before effort (pre-workout stimulants), don't spike it after effort (reward treats), and instead learn to generate it during effort. This capacity, once developed, generalizes across all types of hard work.

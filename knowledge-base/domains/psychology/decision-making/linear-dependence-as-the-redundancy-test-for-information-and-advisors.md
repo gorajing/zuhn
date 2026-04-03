@@ -53,6 +53,16 @@ related:
   - INS-260330-1854
   - INS-260322-B3D0
   - INS-260330-63B8
+evidence:
+  - id: INS-260328-12EE
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1854
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-B3D0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 A vector that lies in the span of existing vectors adds nothing — it's linearly dependent. This maps precisely to information gathering and advisory: reading five articles that all derive from the same source, or consulting three advisors with identical backgrounds, gives the illusion of thoroughness while spanning no new ground. The mathematical test is clean: can this new input be expressed as a combination of what I already have? If yes, it's redundant.
 

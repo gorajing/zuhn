@@ -53,6 +53,10 @@ related:
   - INS-260325-29D5
   - INS-260330-579B
   - INS-260321-AACC
+evidence:
+  - id: INS-260321-AACC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 David Chalmers distinguished the 'hard problem' of consciousness from the 'easy problems.' The easy problems involve mapping correlations between brain states and mental states — difficult neuroscience, but methodologically tractable. The hard problem asks why there is any felt experience at all — why physical processing gives rise to subjective awareness rather than proceeding 'in the dark.'
 

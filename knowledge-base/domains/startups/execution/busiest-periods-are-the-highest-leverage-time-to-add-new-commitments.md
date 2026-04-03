@@ -56,6 +56,16 @@ related:
   - INS-260329-DD06
   - INS-260325-809A
   - INS-260329-D3F6
+evidence:
+  - id: INS-260330-F6B1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-6DED
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-809A
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's final pillar — 'when to start' — is counterintuitively 'now, especially when busy.' The conventional wisdom is to wait for a clear schedule before taking on new challenges. Hormozi argues this is a trap because free time expands to fill available space with low-value activities. You'll never feel 'ready' because Parkinson's Law ensures your current commitments will always fill your available bandwidth.
 

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-1EC6
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-7E97
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Paul Graham argues that the relative economic equality and cultural cohesion of mid-20th century America were produced by two extraordinary forces: World War II (which flattened wages via military socialism, 93% marginal tax rates, and shared sacrifice) and the rise of giant oligopolistic corporations (which overpaid labor through union deals and underpaid executives through career illiquidity). These forces were historically anomalous — a Duplo economy of a few big blocks that compressed both ends of the income spectrum.
 

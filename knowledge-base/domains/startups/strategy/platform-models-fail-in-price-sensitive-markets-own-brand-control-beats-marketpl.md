@@ -61,6 +61,10 @@ related:
 stance: >-
   Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable
   EBITDA by killing the marketplace and going own-brand only.
+evidence:
+  - id: INS-260330-2EC6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 After Series B, Open Secret tried to become 'Whole Foods for India' by onboarding 150+ better-for-you brands across online and offline. The result: 50 crores revenue at -47% EBITDA, burning cash rapidly. The pivot to a Trader Joe's own-brand model transformed the business: 2 years later, 170+ crores revenue at 4% profitable EBITDA — a 3x revenue growth with a 51-point EBITDA swing.
 

@@ -90,6 +90,12 @@ evidence:
   - id: INS-260325-EBDD
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-8625
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-26B0
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Frenkel draws a crucial distinction: physical theories evolve (Newton superseded by Einstein), but mathematical truths are permanent. x^2 + y^2 = z^2 means the same thing to anyone in the world regardless of culture, religion, or era, and will still be true in a thousand years. This permanence comes from proof by logical deduction rather than empirical observation.
 

@@ -58,6 +58,22 @@ related:
 stance: >-
   Jon Stewart's advice to Bassem Youssef when he was afraid to satirize the
   Egyptian military: make fun of your own fear, and the audience's recognit...
+evidence:
+  - id: INS-260325-09AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-1845
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-DD91
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-80DC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-423B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When the Egyptian military seized power and people were threatening Youssef not to speak against them, he called Jon Stewart in panic. Stewart gave him the most important creative advice of his career: 'If you're afraid of something, make fun of the fact that you're afraid of it.'
 

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260325-085E
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260321-08AC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 One of the most counter-intuitive aspects of ADHD is that sufferers can achieve laser-focus on things they find genuinely interesting or exciting—sometimes exceeding the focus capacity of neurotypical people. This hyper-focus exists because dopamine is released naturally when someone encounters stimuli they find rewarding or curious, temporarily normalizing the default-mode/task-network anti-correlation.
 

@@ -59,6 +59,10 @@ related:
 stance: >-
   The breakthrough moment where all fears dissolve and clarity arrives will
   never come
+evidence:
+  - id: INS-260330-8304
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Many aspiring founders wait for a moment of perfect clarity, motivation, or readiness that never arrives. This waiting is itself a form of self-sabotage. The reality: most people don't change until they hit rock bottom — when the pain of staying the same exceeds the fear of change.
 

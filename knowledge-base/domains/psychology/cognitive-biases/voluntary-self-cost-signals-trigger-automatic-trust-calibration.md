@@ -60,6 +60,19 @@ related:
   - INS-260330-C9C2
   - INS-260330-90C3
   - INS-260402-3DBF
+evidence:
+  - id: INS-260322-627E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-EF96
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-DC86
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-3DBF
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The damaging admission technique works because it exploits costly signaling theory from evolutionary biology. In competitive environments, signals that are expensive to produce are more reliable indicators of truth — a peacock's tail is credible precisely because it's metabolically costly. Similarly, when a salesperson admits a genuine weakness, they incur a real cost (lost sales from the admitted flaw), which makes the subsequent positive claim more credible because only someone confident in their product would risk the admission.
 

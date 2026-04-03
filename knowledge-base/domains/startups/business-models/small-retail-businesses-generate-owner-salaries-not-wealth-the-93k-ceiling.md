@@ -52,5 +52,9 @@ related:
   - INS-260324-0DC1
   - INS-260327-EAB9
   - INS-260327-048B
+evidence:
+  - id: INS-260329-D267
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's breakdown of frozen yogurt economics reveals a pattern common across small retail: $800K in revenue sounds impressive, but after rent, labor, COGS, and other operating expenses consume 85-90% of revenue, the owner takes home roughly $93K. This is a decent salary but represents no meaningful wealth creation — the owner has essentially bought themselves a demanding job. This math applies broadly to most owner-operated retail businesses in the $500K-$1M revenue range: restaurants, boutiques, service shops. The implication for entrepreneurs is that small retail should be evaluated as a lifestyle choice (autonomy, community involvement) rather than a wealth-building strategy. True wealth creation in retail requires either massive scale, a franchise model that extracts rent from operators, or a differentiated brand that commands premium margins well above the 10-15% industry standard.

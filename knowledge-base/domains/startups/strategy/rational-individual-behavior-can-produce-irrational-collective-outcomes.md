@@ -50,6 +50,10 @@ related:
 stance: >-
   What is rational for one person can be irrational for the group — rational
   societies are built from cooperators, not defectors.
+evidence:
+  - id: INS-260323-9AA5
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The prisoner's dilemma demonstrates that defection is individually rational in a single round, but cooperation dominates in iterated play. Gibbard and Harper's 1978 paper admits two-boxing is 'rational' while acknowledging two-boxers fare worse — then calls the game 'rigged.' But the real insight is that rationality at one level (individual) can be incompatible with rationality at another level (society).
 

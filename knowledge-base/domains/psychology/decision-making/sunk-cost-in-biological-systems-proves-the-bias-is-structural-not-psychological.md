@@ -71,6 +71,18 @@ evidence:
   - id: INS-260323-6258
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-11EB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-0E1E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8BF6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-6ECA
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Evolution has no psychology, no ego, no feelings — yet plants exhibit textbook sunk-cost behavior by continuing to invest in RuBisCo despite its catastrophic error rate. They produce 40 billion tons of a half-broken enzyme and evolved entire metabolic pathways just to clean up its toxic waste, rather than starting over with a better carbon-fixation strategy.
 

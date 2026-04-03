@@ -57,7 +57,7 @@ related:
   - INS-260330-6F2F
   - INS-260330-B2B8
   - INS-260325-2F12
-  - INS-260326-DBEF
+  - INS-260403-AB5C
   - INS-260330-CBFD
 ---
 Einstein illustrated that knowledge is like a circle — as it expands, so does the circumference of darkness surrounding it. The field of agnotology (the study of ignorance) formalizes this: the set of things we know we don't know grows faster than the set of things we've answered. Leeuwenhoek's discovery of microorganisms is a perfect case — it answered why food spoiled, but simultaneously revealed an entire realm of biology nobody knew existed.

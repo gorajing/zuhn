@@ -64,6 +64,18 @@ evidence:
   - id: INS-260327-DC0B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-1AD8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-ED84
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-DA91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-E78D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Pensive's founder went through 8 pivots — from voice cloning to food market logistics to property management AI — before landing on AI-powered education. What sustained him through serial failure was not attachment to any single idea but a deeply personal mission around education rooted in his own experience navigating Korean and American education systems.
 

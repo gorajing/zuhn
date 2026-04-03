@@ -66,6 +66,9 @@ evidence:
   - id: INS-260320-9937
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-7DBC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi distinguishes between two approaches to early-career value creation. The wrong way: offering free work 'in exchange for' something (testimonial, introduction, opportunity) — this signals delusion and undervalues the recipient's time. The right way: do exceptional work, give it freely without conditions, and accept that the most likely outcome is nothing. But across 100 attempts, a few recipients will recognize your work ethic and create unexpected opportunities.
 

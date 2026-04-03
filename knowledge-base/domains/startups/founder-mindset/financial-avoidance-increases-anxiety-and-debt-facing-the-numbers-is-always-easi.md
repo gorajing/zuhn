@@ -61,6 +61,16 @@ related:
 stance: >-
   People who score high in financial avoidance save less, carry more
   high-interest debt, and have higher financial stress
+evidence:
+  - id: INS-260329-BEFB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-C316
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-870B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The avoider can't look at their bank account. Research from Sages & Grayel shows people scoring high in financial avoidance save less, carry more high-interest debt, delay retirement planning, and experience higher financial stress. Saying 'finances aren't my thing' is self-handicapping — an ego protector, not an honest assessment.
 

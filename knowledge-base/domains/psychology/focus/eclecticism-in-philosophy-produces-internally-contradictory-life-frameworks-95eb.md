@@ -58,6 +58,10 @@ related:
   - INS-260330-F500
   - INS-260330-775F
   - INS-260330-ECD8
+evidence:
+  - id: INS-260329-8C69
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Pigliucci explains why philosophical eclecticism — borrowing bits from Stoicism, Epicureanism, Buddhism, etc. — often fails. These traditions are internally coherent because people have worked on them for thousands of years. Mixing them creates contradictions that surface at critical moments.
 

@@ -56,6 +56,9 @@ evidence:
   - id: INS-260325-2B17
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-5D22
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Humans evolved cognitive biases favoring immediate over delayed rewards. These biases are tolerable in individual decision-making. They become dangerous when amplified by institutions: elections every 2-4 years punish politicians for long-term investments, quarterly reporting punishes companies for multi-year R&D, and 24-hour news cycles reward reaction over reflection.
 

@@ -50,6 +50,13 @@ related:
   - PRI-260321-14D8
   - INS-260330-6AB7
   - INS-260330-E068
+evidence:
+  - id: INS-260327-0D3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-9D7B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham reveals that he writes three to four words for every one that survives in a final essay, with heavier cutting at the beginning where he hasn't yet found direction. This rewrite ratio isn't a sign of failure — it's the standard cost of quality.
 

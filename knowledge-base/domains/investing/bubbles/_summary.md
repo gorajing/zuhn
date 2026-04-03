@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 59 insights
+> 60 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260330-4D05` [high] Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
@@ -13,6 +13,7 @@
 - `INS-260330-F67A` [high] Beijing knows the housing bubble exists and broadly knows the fixes, but real estate is so intertwined with GDP that any correction risks economic slowdown.
 - `INS-260326-6B99` [high] Taleb's barbell strategy — 80% ultra-safe assets plus 20% highly speculative bets — is mathematically superior to medium-risk allocation because it creates a convex payoff that benefits from volatility rather than being destroyed by it.
 - `INS-260325-3B28` [high] Leading digits in natural datasets follow a logarithmic distribution (30% start with 1, <5% start with 9) — deviations flag fabricated financial or electoral data.
+- `INS-260403-F157` [high] Major bubbles form around real innovations, not pure fiction, which is why smart people get fooled.
 - `INS-260327-C79D` [high] In a market where Bitcoin, stocks, and Dogecoin only go up, people will convince themselves that anything - watches, sneakers, Pokemon cards - is an investment.
 - `INS-260329-7372` [high] College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260329-191D` [high] College tuition has doubled in recent decades while starting salaries stayed flat, creating $1.76 trillion in student debt that exceeds most nations' GDP.

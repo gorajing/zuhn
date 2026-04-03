@@ -47,5 +47,9 @@ related:
   - INS-260327-7CE9
   - INS-260330-8103
   - INS-260329-C36D
+evidence:
+  - id: INS-260329-C36D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Bruce draws a parallel to Netflix's early days: they discovered that making DVD selection easier was the key driver of usage and retention. The insight wasn't obvious — it came from watching customer behavior. Bruce emphasizes that especially for consumer products, the spark that creates the aha moment is very hard to find internally. You find it by watching what users do (not what they say), particularly looking at behaviors correlated with retention and willingness to pay.

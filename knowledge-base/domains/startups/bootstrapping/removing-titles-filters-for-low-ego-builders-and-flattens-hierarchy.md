@@ -50,6 +50,13 @@ related:
 stance: >-
   ElevenLabs removed all titles, which simultaneously filtered out ego-driven
   candidates and eliminated implicit bias in idea-sharing and collaboration.
+evidence:
+  - id: INS-260330-9471
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-FB34
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 ElevenLabs made the deliberate decision to remove all titles from the organization. This served two purposes: first, it acted as a natural filter against candidates who prioritize status (e.g., demanding VP titles), selecting instead for people motivated by the work itself. Second, it removed implicit hierarchy that inhibits junior people from proposing ideas, asking questions, or giving feedback to senior colleagues.
 

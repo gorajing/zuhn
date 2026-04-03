@@ -59,6 +59,13 @@ related:
   - INS-260330-3DB2
   - INS-260330-10CF
   - INS-260330-9A46
+evidence:
+  - id: INS-260330-6EF1
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-10CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The idea that Columbus bravely sailed against flat Earth consensus is fiction, largely traceable to Washington Irving's 1828 biography. In reality, ancient Greeks calculated Earth's circumference with remarkable accuracy, and medieval scholars universally accepted a spherical Earth. The actual debate was about the size of the ocean — Columbus's critics correctly argued the distance was too far for his ships.
 

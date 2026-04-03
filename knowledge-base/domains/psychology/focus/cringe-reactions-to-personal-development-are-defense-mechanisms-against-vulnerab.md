@@ -55,6 +55,13 @@ related:
   - INS-260326-06A1
   - PRI-260324-2A76
   - INS-260323-4DF1
+evidence:
+  - id: INS-260326-20C8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-4DF1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Burkeman describes learning that his sardonic dismissal of 'corny' self-help concepts (like self-compassion) was consistently a defense mechanism. The feeling of 'I don't want to go there, that's not my kind of thing' protects against the vulnerability that the material has exposed.
 

@@ -68,5 +68,8 @@ evidence:
   - id: INS-260325-085E
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260321-08AC
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Huberman cites a 2015 study by Volkow et al. showing that regular caffeine intake increases the density of D2 and D3 dopamine receptors — the G protein-coupled receptors through which dopamine exerts its effects. This is mechanistically opposite to what stimulants like Adderall, cocaine, and amphetamine do (which cause massive dopamine release followed by depletion and receptor downregulation). By increasing receptor density, caffeine makes whatever dopamine is naturally released more effective, which is why Huberman considers it the one exception to his rule against using stimulants before dopamine-evoking activities. He particularly highlights yerba mate, which contains caffeine plus compounds shown to be neuroprotective specifically for dopaminergic neurons. The caveat: caffeine combined with MDMA can increase neurotoxicity precisely because the upregulated receptors amplify MDMA's already-potent dopamine effects.

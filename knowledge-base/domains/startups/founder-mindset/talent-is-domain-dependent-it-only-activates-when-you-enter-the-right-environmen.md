@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-1709
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-8DDE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video frames the most tragic waste of potential not as laziness but as domain mismatch: 'Imagine how many musical prodigies are born without instruments. A mathematician that never encounters higher math. A strategist that never encounters complex systems.' Talent doesn't announce itself — it requires the right environment to activate.
 

@@ -50,5 +50,15 @@ related:
   - INS-260329-882A
   - INS-260327-26CF
   - INS-260329-3609
+evidence:
+  - id: INS-260329-226C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-26CF
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-3609
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Nestlé hired commission-based saleswomen to dress as nurses and visit maternity wards to promote formula over breastfeeding. Mothers trusted the medical advice because it came from someone wearing a nurse's uniform — the costume, not the credentials, carried the persuasive weight. This is a textbook demonstration of Milgram-adjacent authority bias: people defer to perceived authority figures even when the advice contradicts established evidence (WHO recommending breastfeeding). The pattern appears in modern contexts with 'thought leaders,' verified accounts, and branded content that mimics editorial. Defense requires evaluating the incentive structure behind advice, not just the authority signals of the advisor.

@@ -56,6 +56,10 @@ related:
   - INS-260327-CEE4
   - INS-260402-5522
   - INS-260327-E7A3
+evidence:
+  - id: INS-260402-5522
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham observes that even brilliant people are surprisingly conservative in choosing what to work on — they follow fashion in problem selection while being creative in solutions. This is backwards: the greatest contributions come from originality in problem choice, not problem solving. Copernicus and Darwin didn't solve existing problems more cleverly; they identified entirely different problems to work on.
 

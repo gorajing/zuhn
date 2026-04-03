@@ -62,6 +62,28 @@ related:
   - INS-260330-F5CF
   - INS-260330-6ECA
   - INS-260330-0E77
+evidence:
+  - id: INS-260325-0895
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-B71B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-48F2
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-43CA
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C134
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-6ECA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-0E77
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 RuBisCo was perfectly adapted to an early Earth atmosphere rich in CO2 and nearly devoid of oxygen. But plants' own success — flooding the atmosphere with oxygen as a photosynthesis byproduct — changed the environment that RuBisCo was optimized for. Now the enzyme confuses oxygen for carbon dioxide roughly half the time, producing toxic phosphoglycolate that plants must spend energy to neutralize.
 

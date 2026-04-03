@@ -62,6 +62,12 @@ evidence:
   - id: INS-260330-8F72
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260321-13C6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-9B68
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Early Chinese historians like Sima Qian didn't just record events — they shaped narratives to demonstrate that virtuous rulers prospered and corrupt ones fell, reinforcing Confucian moral philosophy. Each new dynasty commissioned histories of the previous one that conveniently proved the old regime deserved to fall.
 

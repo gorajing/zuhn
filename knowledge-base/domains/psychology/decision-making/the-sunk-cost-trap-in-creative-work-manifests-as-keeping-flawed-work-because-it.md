@@ -56,13 +56,28 @@ related:
   - INS-260329-B1A1
   - INS-260402-2074
   - PRI-260328-F0B4
+  - INS-260403-94C4
   - INS-260327-CD36
   - INS-260330-264B
-  - INS-260330-2492
 evidence:
   - id: INS-260330-264B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-B9BB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-AEC2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-B1A1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-2074
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CD36
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham reports cutting a 17-paragraph subtree from this very essay, plus countless shorter ones, and advocates being quick to cut in general. The sunk cost fallacy takes a specific form in creative work: you keep a flawed section not because of pure cost-already-invested reasoning, but because it contains a few genuinely good fragments embedded in a broken structure. This makes it feel wasteful to discard.
 

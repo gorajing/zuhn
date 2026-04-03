@@ -51,5 +51,9 @@ related:
   - INS-260329-1ECA
   - INS-260327-735A
   - INS-260327-165D
+evidence:
+  - id: INS-260327-165D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Grace Andrews argues the blueprint for brands across all industries is treating yourself as a media business that happens to sell a product. Her key example: Roomies (a rental software platform — inherently boring) created a separate Instagram account with comedic, relatable content about people moving in together in NYC. No logo pushing, no feature explanations, no sales messaging — pure entertainment. The result: millions of views in their exact target demographic. When people need a rental platform, Roomies is top of mind because viewers spent minutes (sometimes hours) consuming their content. Salt ST (UK electrolyte brand) built 20K followers before even revealing their product through entertaining content alone — product launches now sell out overnight. People are allergic to being sold to on social media; they're looking for relief.

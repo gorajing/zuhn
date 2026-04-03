@@ -51,5 +51,15 @@ related:
   - INS-260330-C7B5
   - INS-260328-9C16
   - INS-260327-E3DE
+evidence:
+  - id: INS-260327-D570
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260328-9C16
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-E3DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham's Blub Paradox describes a fundamental asymmetry in tool evaluation: a programmer using a mid-level language can easily see why lower-level languages are inferior (they lack features she uses daily), but when looking at more powerful languages, she sees only 'weird' syntax rather than recognizing superior capabilities. This is because the more powerful features require new ways of thinking that she literally doesn't have yet. The paradox generalizes beyond programming — in any domain with a hierarchy of tools or frameworks, practitioners at any given level are structurally blind to the advantages of levels above them. Only those at the top of the power continuum can accurately assess the full landscape. This creates a systematic bias toward the status quo in tool selection.

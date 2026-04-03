@@ -52,6 +52,13 @@ related:
 stance: >-
   Teams that default to 'more meetings and re-strategizing' instead of shipping
   are using planning as emotional avoidance of the market test they fear.
+evidence:
+  - id: INS-260329-6D8B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8C58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Over 2.5 years, Daniel's team held discussions, meetings, and re-planned repeatedly, but 'things never really actually got off the ground.' This pattern — where planning replaces execution — is particularly dangerous because it feels productive. Every strategy session gives a dopamine hit of progress without the painful reality check of putting something in front of users.
 

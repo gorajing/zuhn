@@ -49,6 +49,16 @@ related:
 stance: >-
   Start on cheap beginner gear at home and rent professional equipment (e.g.,
   Pioneer CDJs at Pirate Studios) for practice sessions instead of buying.
+evidence:
+  - id: INS-260329-C66E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-0C3A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-F0F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The barrier to entry for DJing or music production is not expensive gear — it's the belief that you need expensive gear. James Hype recommends starting on an affordable controller like the DDJ-FLX4 and renting professional setups at studios like Pirate Studios when you need to practice on club-level equipment. He did exactly this before his first paid club gig, renting a room with Pioneer CDJs for 3 hours to practice.
 

@@ -56,5 +56,8 @@ evidence:
   - id: INS-260330-7DCF
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-475F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When Apple launched iTunes shuffle, users complained that songs from the same artist appeared consecutively — which is exactly what true randomness produces. Our brains are wired to detect patterns, so statistically normal clustering feels like a broken algorithm. Apple introduced 'smart shuffle' that artificially spread out similar songs, making the output less random but more satisfying. Steve Jobs summarized: 'We're making it less random to make it feel more random.' This is a direct product design lesson: when building systems involving randomness, you must account for human pattern bias and engineer outputs that feel random rather than being mathematically random.

@@ -52,5 +52,12 @@ related:
   - INS-260329-023F
   - INS-260329-64B8
   - INS-260327-CEE4
+evidence:
+  - id: INS-260322-C6CE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CEE4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham draws a crucial distinction between hard problems that teach you something (like writing a compiler, which teaches you what a compiler is) and nasty little problems that are random and patternless (like interfacing with buggy software where the bugs are arbitrary). The former build expertise because they contain signal — structured challenges where solutions generalize. The latter are pure noise — random obstacles that teach nothing transferable. Graham argues this isn't mere fastidiousness but self-preservation: working on patternless problems actively degrades your cognitive abilities. The analogy is that good hackers avoid nasty little problems 'for the same reason models avoid cheeseburgers.' This has implications beyond programming — in any field, the quality of problems you work on shapes your capabilities over time. Choosing to work on interesting, structured challenges isn't a luxury; it's an investment in maintaining and developing your cognitive capital.

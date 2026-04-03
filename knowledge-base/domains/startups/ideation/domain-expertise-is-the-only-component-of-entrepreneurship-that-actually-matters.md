@@ -71,6 +71,12 @@ evidence:
   - id: INS-260327-4434
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-4EDE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-E86C
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Graham makes the case that startup expertise is not what makes startups succeed — user expertise is. Zuckerberg succeeded 'despite being a complete noob at startups' because he understood his users. He incorporated Facebook as a Florida LLC (a rookie mistake), but it didn't matter. The mechanics of angel rounds, term sheets, and growth hacking are noise compared to deep understanding of the problem domain.
 

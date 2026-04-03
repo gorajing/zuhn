@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-B218
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-690E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 
 One of the most consistently cited ways to keep dogs happy is letting

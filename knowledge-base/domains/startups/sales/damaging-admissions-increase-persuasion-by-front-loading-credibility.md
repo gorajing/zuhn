@@ -58,6 +58,10 @@ related:
   - INS-260329-7B56
   - INS-260330-D066
   - INS-260329-8BFC
+evidence:
+  - id: INS-260330-D066
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The 'damaging admission' technique structures claims as negative-then-'but'-positive: 'Our onboarding takes 6 weeks, but clients who complete it see 3x ROI.' The negative portion signals that the speaker is willing to sacrifice self-interest for truth, which triggers a credibility halo over whatever follows the 'but.' This works because audiences instinctively discount pure positive claims as self-serving, but when a speaker voluntarily damages their own position first, the audience lowers their skepticism filter. The technique is most effective when the admitted weakness is genuine and relevant — fabricated or trivial admissions backfire because they feel manipulative rather than honest.
 

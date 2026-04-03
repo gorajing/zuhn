@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-8388
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-67D1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Starbucks offers 170,000+ possible drink combinations through its customization system. This creates a powerful psychological effect: customers feel their specific order is an expression of their unique identity. 'I'm a venti oat milk iced shaken espresso with two pumps vanilla' becomes a self-description, not just an order. Each customization also adds cost, systematically increasing average order value.
 

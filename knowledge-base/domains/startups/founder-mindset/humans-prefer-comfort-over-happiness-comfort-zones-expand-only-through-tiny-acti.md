@@ -61,6 +61,9 @@ evidence:
   - id: INS-260320-8B06
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-A558
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Brianna Wiest's insight: 'Human beings are guided by comfort — they reject what doesn't feel familiar, even if objectively better.' This explains why founders stay in draining jobs, keep bad clients, or endlessly polish portfolios instead of cold-pitching. The brain interprets any unfamiliar situation as a threat, even positive ones.
 

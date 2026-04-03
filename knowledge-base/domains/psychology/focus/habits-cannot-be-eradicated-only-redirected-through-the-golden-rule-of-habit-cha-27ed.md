@@ -52,6 +52,16 @@ related:
   - INS-260329-557C
   - INS-260330-233C
   - INS-260329-57D7
+evidence:
+  - id: INS-260329-C91D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-7FDA
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-57D7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The habit loop consists of three parts: a cue (trigger), a routine (behavior), and a reward. Once these neurological pathways form, they persist permanently. Willpower-based approaches try to suppress the entire loop, which study after study shows fails.
 

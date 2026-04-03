@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-DE39
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-D534
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Harris's most striking argument is a thought experiment: imagine Israel using its own women and children as human shields against Hamas. The scenario is immediately absurd — not only because Israel wouldn't treat its civilians that way, but because it would be strategically useless since Hamas would not be deterred. This 'reversibility test' is a general-purpose reasoning tool: when someone claims two actors are equivalent, try swapping their behaviors and see if the scenario remains coherent.
 

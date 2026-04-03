@@ -53,6 +53,19 @@ related:
   - INS-260330-A15F
   - INS-260330-5779
   - INS-260329-EE04
+evidence:
+  - id: INS-260330-A15F
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-C548
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4E10
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-EE04
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Most entrepreneurial decisions are reversible — you can sell the car, pivot the product, change the vendor. The real cost isn't making the wrong choice; it's the opportunity cost of not deciding. If fixing a mistake takes 10 minutes but deliberating takes 2 hours, the math is clear. Hormozi argues you can move at 7x the rate of peers simply by compressing decision timelines from end-of-week to end-of-day to right now.
 

@@ -58,6 +58,10 @@ related:
 stance: >-
   Delay checking email, social media, and other non-essential inputs for as long
   as possible each day because once you let them in, they occupy menta...
+evidence:
+  - id: INS-260329-A57C
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Lucas's Thursday stumble crystallized this insight: after a morning of focused work, he opened his laptop to order something for a thumbnail and ended up checking email, YouTube stats, and responding to a business deal. Twenty minutes of 'quick checks' destroyed his focus for the rest of the day. The thoughts didn't go away — they competed with his main work for the rest of the afternoon.
 

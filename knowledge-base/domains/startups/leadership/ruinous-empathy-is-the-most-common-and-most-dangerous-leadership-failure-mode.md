@@ -52,6 +52,10 @@ related:
   - INS-260323-F853
   - INS-260329-B4C8
   - PRI-260328-BEAB
+evidence:
+  - id: INS-260325-36EA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Kim Scott's 2x2 framework maps leadership behavior along two axes: caring personally and challenging directly. The sweet spot is radical candor (high on both). But the vast majority of mistakes happen in the 'ruinous empathy' quadrant — where leaders genuinely care but avoid giving hard feedback because they don't want to hurt feelings.
 

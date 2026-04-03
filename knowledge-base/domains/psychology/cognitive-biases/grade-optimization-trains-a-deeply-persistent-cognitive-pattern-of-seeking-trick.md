@@ -49,11 +49,12 @@ stance: >-
   becomes so deeply ingrained through years of schooling that most people never
   consciously identify or overcome it.
 related:
+  - INS-260403-41BC
   - INS-260330-0102
+  - INS-260403-E9DD
   - PRI-260324-12CF
   - INS-260330-A660
-  - INS-260402-CCC3
-  - INS-260326-0AB4
+  - INS-260403-875B
 ---
 Graham makes the striking observation that he himself didn't recognize this pattern until decades after college, despite having lived as if he understood it (avoiding big companies, gravitating toward startups). The pattern is so deeply camouflaged because it's the water we swim in — everyone takes it for granted that this is how the world works. Students spend 16+ years in systems where the optimal strategy is explicitly not to learn deeply but to figure out what will be on the test.
 

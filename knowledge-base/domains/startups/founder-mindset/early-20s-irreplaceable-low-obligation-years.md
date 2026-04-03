@@ -53,6 +53,9 @@ evidence:
   - id: INS-260323-F12F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-0103
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 
 The conventional "go to big tech first, then start a company" plan

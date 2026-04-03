@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-4AD5
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-2294
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kreischer describes a recurring pattern in his comedy craft: a joke told spontaneously for the first time lands perfectly, then he tries to 'razzle dazzle' it into a 15-minute bit, and the joke dies. His deaf child joke was simple and perfect — Louis CK loved it — but Kreischer's attempts to add gun control material and other layers destroyed it.
 

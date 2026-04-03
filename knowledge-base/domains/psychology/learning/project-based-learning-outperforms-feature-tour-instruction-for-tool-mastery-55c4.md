@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-0CAD
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-01A1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The tutorial teaches Excel entirely through 6 escalating projects — payroll calculation, gradebook, career decision matrix, sales database, car inventory with CSV/VLOOKUP/pivot tables, and challenge problems. Each project introduces new features only when they solve a concrete problem the learner already cares about.
 

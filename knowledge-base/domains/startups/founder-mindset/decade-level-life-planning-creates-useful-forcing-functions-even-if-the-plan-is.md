@@ -54,5 +54,8 @@ evidence:
   - id: INS-260330-44C7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-B1A3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 At 21, Seibel wrote a brutally simple life plan: money in his 20s, family in his 30s, government in his 40s, then teach. Twenty years later, life awkwardly followed the plan. The plan did not prescribe specifics — it just kept alternative passions alive in the background when tech demanded 97% of his attention. Each phase transition required a leap without safety, not a mapped-out path. The value was not in the detail but in the reminder that the current phase is just one chapter, preventing him from identifying too completely with any single role.

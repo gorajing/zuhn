@@ -52,7 +52,7 @@ related:
   - PRI-260323-D475
   - INS-260325-916B
   - INS-260327-DD48
-  - INS-260325-0E70
+  - INS-260403-41BC
   - INS-260323-DE7F
   - INS-260323-1D46
   - INS-260325-E17F
@@ -77,6 +77,15 @@ evidence:
   - id: INS-260323-8289
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-4634
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-0133
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-6D5C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Harari makes a foundational distinction: intelligence is the ability to solve problems and attain goals; consciousness is the ability to feel things like pain, pleasure, and love. In humans these go together, which is why we confuse them. But computers are already highly intelligent with (as far as we know) zero consciousness.
 

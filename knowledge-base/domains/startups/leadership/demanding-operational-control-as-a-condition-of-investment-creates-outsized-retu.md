@@ -61,6 +61,10 @@ related:
   - INS-260402-3D61
   - INS-260330-3084
   - INS-260330-85C2
+evidence:
+  - id: INS-260330-B1A3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Morgan distinguished himself from other financiers by refusing to be a passive investor. When struggling railroads came to him for financing, he would only help if given full operational control, including the power to reshuffle leadership and direct corporate strategy. This wasn't ego for its own sake; it was a mechanism to ensure his capital was deployed according to his vision.
 

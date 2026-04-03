@@ -59,6 +59,10 @@ related:
   - INS-260329-1F4D
   - INS-260329-6204
   - INS-260329-5306
+evidence:
+  - id: INS-260329-E44D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The evolution of maker time protection maps directly to entrepreneurial growth stages. V1 (bootstrapping): You have no leverage, so maker time must be carved from mornings before 9am, evenings, and weekends — Hormozi describes getting 9 maker blocks per week this way while running a gym. V2 (growth): You have some team support, so the first half of every day is maker time, with meetings scheduled back-to-front from 5pm backward. This back-to-front technique is key — it prevents dead time between meetings and maximizes the contiguous morning block.
 

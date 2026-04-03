@@ -68,6 +68,9 @@ evidence:
   - id: INS-260327-0F4E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-C0BD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Adams admits that at the 1980 Olympics, he had world-class judo training, exceptional conditioning, and had beaten everyone in the world that year — but his nutrition was 'appalling.' He had excellent coaching for fitness and technical judo but hadn't sorted out the basic science of fueling his body during a weight cut.
 

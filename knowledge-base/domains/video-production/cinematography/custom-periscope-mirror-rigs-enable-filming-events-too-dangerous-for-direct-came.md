@@ -57,6 +57,22 @@ related:
   - INS-260330-0DF9
   - INS-260330-12F9
   - INS-260330-6C17
+evidence:
+  - id: INS-260330-5EFD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-1222
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-59E3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-0DF9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-12F9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When filming extreme events—explosions, underwater ballistics, industrial processes—the camera itself is rarely the bottleneck. The critical engineering challenge is building an optical relay system that places the sensor's perspective where no physical camera can survive. SmarterEveryDay's periscope rig redirected the optical path 90 degrees, keeping a Phantom high-speed camera dry and safe while capturing the underwater bullet at 27,450 fps.
 

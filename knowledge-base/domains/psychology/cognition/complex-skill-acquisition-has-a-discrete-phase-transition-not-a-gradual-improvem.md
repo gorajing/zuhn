@@ -54,5 +54,9 @@ related:
   - INS-260330-7B62
   - INS-260330-0EF6
   - INS-260330-0C49
+evidence:
+  - id: INS-260327-BA8E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Destin describes the learning breakthrough as binary: 'One day I couldn't ride the bike, and the next day I could.' He felt a pathway in his brain 'unlock.' This matches research on perceptual learning and motor skill acquisition where improvement follows a punctuated equilibrium pattern — long plateaus followed by sudden jumps. The brain appears to require extensive below-threshold practice before a new neural circuit achieves sufficient strength to take over from the old one. The practical lesson is that extended periods of apparent failure during complex skill learning are not wasted — they're building sub-threshold neural pathways that will eventually consolidate. Quitting during a plateau means abandoning a partially-built circuit. The fragility of the new pathway (any distraction like a phone ringing would crash him) also suggests newly formed neural circuits need a consolidation period before they're robust.

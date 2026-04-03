@@ -62,6 +62,16 @@ related:
   - INS-260330-7A80
   - INS-260329-87BA
   - INS-260330-ECD8
+evidence:
+  - id: INS-260325-7B58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-C430
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-14CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a logical fallacy he calls 'when-then': the belief that conditions must improve before you can take action, when the action itself is what creates the improved conditions. 'I'll invest in the program that makes me money once I have money.' 'I'll start the fitness plan once I'm in shape.' 'I'll save money once I'm rich.'
 

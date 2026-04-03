@@ -51,6 +51,10 @@ related:
   - INS-260330-697F
   - INS-260329-D062
   - PRI-260328-D5EB
+evidence:
+  - id: INS-260322-0AA6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi describes a pattern he's seen repeatedly: a billionaire friend producing 7 pieces of content per week wondered why growth was slow, while Hormozi was producing 450. The insight wasn't new to the billionaire — he'd applied 100x thinking to build a billion-dollar company — but the lesson was domain-specific and had to be relearned for content creation.
 

@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-C5D9
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-ECA9
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Bosmeny distinguishes between giant consumer conferences (CES, E3) and the small industry-specific conferences — executives in a hotel in Milwaukee for a couple days — that are actual sales goldmines. The key is preparation: get the attendee list weeks or months in advance, email every potential buyer to schedule meetings, and arrive with your entire day booked in 30-minute blocks.
 

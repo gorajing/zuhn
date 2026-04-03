@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-F3F0
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-2EC6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 During WWII, Coca-Cola positioned itself as essential to soldier morale, promising every serviceman a 5-cent Coke 'wherever he is.' While losing money per unit, this created enormous goodwill and — critically — justified government funding for 64 overseas bottling plants. The technicians installing Coke plants were given military-equivalent priority status.
 

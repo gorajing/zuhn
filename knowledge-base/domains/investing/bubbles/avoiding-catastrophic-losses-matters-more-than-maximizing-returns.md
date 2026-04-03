@@ -76,6 +76,9 @@ evidence:
   - id: INS-260330-608C
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260402-318B
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Ackman demonstrates that $10,000 compounded at 20% for 43 years yields $25 million, but if you lose 50% every 12 years, the result drops to just $1.8 million. Meanwhile, a steady 15% return yields $4 million with no catastrophic risk. This asymmetry exists because losses require disproportionate gains to recover — a 50% loss needs a 100% gain just to break even.
 

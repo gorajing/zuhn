@@ -55,6 +55,19 @@ related:
   - INS-260330-90C3
   - INS-260330-007E
   - INS-260330-66C7
+evidence:
+  - id: INS-260323-92AD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-04C0
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-007E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-66C7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Coffeezilla articulates a powerful fraud detection heuristic: the 'incompetence defense' can be tested against organizational complexity. SBF claimed he was naive and didn't understand what Alameda was doing, yet FTX had ~50 companies and subsidiaries, deliberately designed one-way information walls (Alameda could see FTX accounts but not vice versa), and hired a general counsel whose primary qualification was covering up fraud at Ultimate Bet.
 

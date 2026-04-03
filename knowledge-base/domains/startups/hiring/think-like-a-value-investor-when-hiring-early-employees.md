@@ -55,6 +55,13 @@ related:
   - INS-260326-7B2A
   - INS-260330-790A
   - INS-260329-F21F
+evidence:
+  - id: INS-260330-790A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-7C84
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 John Collison draws an explicit analogy between early hiring and value investing: look for human capital that's significantly undervalued by the market. Stripe's first designer was 18 and in high school in Sweden; their CTO was still in college. These people were extraordinary but hadn't been 'discovered' yet by the broader market.
 

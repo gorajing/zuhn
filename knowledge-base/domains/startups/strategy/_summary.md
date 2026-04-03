@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 131 insights
+> 132 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
@@ -54,6 +54,7 @@
 - `INS-260329-FC53` [high] Your results are mostly determined by which vehicle you operate in, not how hard you row.
 - `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
 - `INS-260329-3BEE` [high] The market you operate in constrains your upside more than your effort level does.
+- `INS-260403-7DEC` [high] Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
 - `INS-260330-9E26` [high] Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.

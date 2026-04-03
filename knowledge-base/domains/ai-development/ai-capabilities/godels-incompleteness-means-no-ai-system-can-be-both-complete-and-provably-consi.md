@@ -71,5 +71,11 @@ evidence:
   - id: INS-260330-BA13
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-184C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-821F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hamkins explains Godel's incompleteness in context of Hilbert's program: Hilbert wanted a strong formal system (set theory) to answer all mathematical questions, plus a proof in weak arithmetic that the strong system was safe. Godel shattered both dreams. The first incompleteness theorem shows that any consistent system powerful enough to express basic arithmetic contains true statements it cannot prove -- by constructing a self-referential sentence equivalent to 'I am not provable in this system.' The second theorem shows the system cannot prove its own consistency. Hamkins emphasizes this was 'when mathematical logic first became sophisticated.' For AI development, this sets a permanent theoretical boundary: no AI system based on formal reasoning can guarantee its own correctness. This doesn't mean AI can't be useful or powerful -- it means claims of 'provably safe' or 'complete' AI reasoning are mathematically impossible for sufficiently complex systems. The gap between truth and provability is not a bug to be fixed but a fundamental feature of any powerful formal system.

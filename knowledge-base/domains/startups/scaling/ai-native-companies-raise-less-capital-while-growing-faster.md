@@ -54,6 +54,10 @@ related:
   - INS-260330-548B
   - INS-260329-A01C
   - INS-260402-2E19
+evidence:
+  - id: INS-260330-3138
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Koning's AI Founder Sprint tracked 500+ entrepreneurs across Africa, Asia, Americas, and Europe. When founders systematically applied generative AI—not just chat, but vibe coding tools, multimodal tools, and agents—across their firms, they achieved measurably better outcomes: more customers, more revenue, higher product launch rates.
 

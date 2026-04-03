@@ -57,6 +57,12 @@ evidence:
   - id: INS-260330-E282
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-64B8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-4E59
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 
 Max wasted 3 months hoping someone would validate his ideas. The

@@ -54,5 +54,8 @@ evidence:
   - id: INS-260323-0D51
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-067C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi describes a friend who would create content, get sales, then stop creating because the outcome was achieved — only to restart when money dried up. The fix was reframing: you are not successful because you made money, you are successful because you maintained the activities. This is a deeper point than 'be consistent' — it's about which metric your self-esteem is attached to. When self-worth tracks controllable inputs (posts made, outreach done), emotional volatility decreases and the feast-famine oscillation disappears. When it tracks uncontrollable outputs (revenue, followers), every dip triggers identity crisis and activity collapse.

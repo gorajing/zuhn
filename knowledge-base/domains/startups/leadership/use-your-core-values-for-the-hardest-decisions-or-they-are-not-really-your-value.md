@@ -56,6 +56,13 @@ related:
   - INS-260327-C316
   - INS-260323-846D
   - INS-260329-8E89
+evidence:
+  - id: INS-260327-C316
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-846D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When LucidLink faced a funding crisis with dried-up capital markets and a short runway, every advisor told Thompson to lay off everyone except core people and protect the IP. Instead, he and his co-founder looked at each other and realized that advice didn't align with their core values. If they didn't use their values for the hardest decision of their lives, those values were meaningless.
 

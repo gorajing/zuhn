@@ -64,6 +64,9 @@ evidence:
   - id: INS-260323-822B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-6689
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Japan's postwar miracle was driven by both government-directed big corporations (Johnson's thesis) and freewheeling private entrepreneurs (Johnstone's thesis) — neither alone explains the success. Similarly, America's most valuable companies include both recent startups (Apple, Nvidia, Google) and century-old incumbents (Eli Lilly, P&G, GE). The two types complement rather than primarily compete: startups create new markets and provide crucial inputs to older firms, while established companies offer scale, stability, and research budgets. Ricardo Hausmann and César Hidalgo's research confirms that economic complexity — the variety of goods and services produced — predicts national growth, suggesting that strategy diversification directly enables prosperity.
 

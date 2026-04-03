@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-493D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-D479
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Nobel's life work was solving the safety problem of nitroglycerin. Raw nitroglycerin killed his brother Emil and hundreds of workers. By inventing dynamite (nitroglycerin absorbed in kieselguhr), he made it safe to transport and handle. But the twisted irony is that safety = accessibility. Once anyone could safely carry dynamite in a coat pocket, it enabled over 7,000 bombings in New York alone between the 1890s-1920s, and the birth of modern terrorism.
 

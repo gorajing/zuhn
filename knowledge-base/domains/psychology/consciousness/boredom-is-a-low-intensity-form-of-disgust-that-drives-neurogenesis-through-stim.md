@@ -54,6 +54,16 @@ related:
   - INS-260330-56D6
   - PRI-260325-A95E
   - INS-260327-684D
+evidence:
+  - id: INS-260330-3DC8
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-56D6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-684D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Robert Plutchik's emotion wheel places boredom on the same spoke as disgust and loathing — they are different intensities of the same fundamental emotion. This reframes boredom from a trivial nuisance to an evolutionary signal: it pushes organisms away from low-stimulus environments because variety and stimulation literally produce neurogenesis (brain cell growth). Humans developed increasingly complex brains precisely because boredom made staying in simple environments feel aversive.
 

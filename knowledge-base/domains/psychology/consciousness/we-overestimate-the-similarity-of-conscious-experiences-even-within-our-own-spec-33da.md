@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-DE7F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-D1B0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Anil Seth argues that conscious experience has a deceptive quality: it feels like the world is simply 'there' — objective, shared, unmediated by the brain. But neuroscience reveals that every brain constructs its own version of reality. Even within a species, individual differences in perception, attention, and neural wiring mean no two people experience quite the same world.
 

@@ -48,5 +48,9 @@ related:
   - INS-260325-040F
   - INS-260322-B641
   - INS-260329-67D1
+evidence:
+  - id: INS-260329-67D1
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Frozen yogurt stores exemplify a powerful pricing psychology: by letting customers fill their own cups and charging by weight, the business avoids the friction of setting fixed prices. When a customer sees a $9 charge, they blame themselves for filling the cup too high rather than blaming the store for expensive yogurt. This principle transfers far beyond food service — any business model where customers configure their own purchase (SaaS tiers, cloud computing usage-based pricing, build-your-own products) benefits from the same dynamic. The key insight is that perceived agency in pricing decisions dramatically reduces purchase regret and complaint rates, even when the final price is higher than a fixed alternative would have been.

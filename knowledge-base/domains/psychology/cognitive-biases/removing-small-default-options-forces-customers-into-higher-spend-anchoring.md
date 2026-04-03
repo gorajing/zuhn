@@ -54,5 +54,14 @@ evidence:
   - id: INS-260323-7F22
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-B034
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-21CC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-D5BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi highlights a counter-intuitive pricing tactic: instead of trying to upsell customers to larger sizes, simply remove the smallest option. When a frozen yogurt store eliminates the small cup, the medium becomes the new default minimum. Customers who would have chosen small now choose medium, and many medium customers upgrade to large because medium feels like the 'cheap' option. This exploits anchoring bias — people evaluate options relative to what's available, not in absolute terms. The principle applies broadly: SaaS companies removing free tiers, restaurants eliminating small portions, and service businesses dropping entry-level packages all see average transaction increases. The removal strategy is psychologically easier to implement than aggressive upselling because it requires no sales skill — the choice architecture does the work.

@@ -59,5 +59,12 @@ related:
   - INS-260330-0C49
   - INS-260330-FB34
   - INS-260330-14BD
+evidence:
+  - id: INS-260327-8760
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-6017
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The backwards bicycle is a powerful demonstration that certain biases are not correctable through awareness. Every audience member, every engineer, every person who tried knew the single rule — left means right. Yet conscious knowledge provided zero override capability. This challenges the common assumption that knowing about a cognitive bias helps you avoid it. For procedural biases — those embedded in automatic, fast-thinking systems — awareness is necessary but radically insufficient. The only path to change was 8 months of deliberate practice, essentially building a new neural pathway rather than modifying the existing one. This has profound implications for debiasing efforts in decision-making, prejudice reduction, and habit change: if the bias is procedural rather than declarative, education alone will fail. You need structured practice that builds alternative pathways, not just metacognitive awareness.

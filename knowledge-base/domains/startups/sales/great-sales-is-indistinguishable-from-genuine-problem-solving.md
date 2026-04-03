@@ -55,6 +55,10 @@ related:
   - INS-260329-2B60
   - INS-260329-55F7
   - INS-260329-226C
+evidence:
+  - id: INS-260329-55F7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Founders often carry a cartoonish mental model of sales — the used car salesman, the insurance pitch, the high-pressure time share. This aversion causes them to either avoid sales entirely or approach it with the wrong energy. The reality is that the best sales experiences are ones where you email someone with a problem, they understand you, and they help you solve it. Both sides walk away better off.
 

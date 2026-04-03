@@ -57,6 +57,13 @@ related:
 stance: >-
   Boxing saved Atlas from self-destruction by providing structure and discipline
   that redirected violent anger into mastery
+evidence:
+  - id: INS-260329-58E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-3A54
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Atlas was headed toward prison or death through street violence when boxing provided the structure to redirect his destructive energy. The key wasn't eliminating the anger -- it was giving it a form, a discipline, and a purpose. Cus D'Amato's training philosophy was about making someone 'mentally stronger, making them face things' -- converting raw aggression into controlled, purposeful action.
 

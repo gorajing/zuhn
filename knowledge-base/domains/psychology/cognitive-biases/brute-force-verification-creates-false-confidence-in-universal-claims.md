@@ -49,5 +49,12 @@ related:
   - INS-260325-CC49
   - INS-260323-3F30
   - INS-260330-09BB
+evidence:
+  - id: INS-260325-CC49
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-3F30
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Collatz conjecture has been verified for every number up to 2^68 (about 300 quintillion), yet this provides surprisingly weak evidence. The Polya conjecture, which seemed equally well-supported by computation, was disproven by a counterexample at 1.845 × 10^361 — a number roughly 10^340 times larger than everything tested for Collatz. As mathematician Alex Kontorovich notes, '2^60 is not a lot of evidence.' This pattern appears everywhere humans rely on empirical testing: passing all unit tests doesn't mean no bugs exist, a business model working for 1,000 customers doesn't guarantee it works at 1,000,000, and a drug trial with no adverse events doesn't prove safety. The lesson is that verification and proof are fundamentally different epistemic categories, and conflating them leads to dangerous overconfidence.

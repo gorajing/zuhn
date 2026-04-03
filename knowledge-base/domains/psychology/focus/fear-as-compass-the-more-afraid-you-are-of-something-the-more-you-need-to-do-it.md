@@ -53,6 +53,10 @@ related:
 stance: >-
   Fear occurs in proportion to importance — the intensity of your resistance
   signals the significance of the action you are avoiding.
+evidence:
+  - id: INS-260323-71B3
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Manson argues that most time-management problems are actually fear-management problems. You are not procrastinating because you don't know what to do — you are procrastinating because the thing you need to do scares you. Fear kills more dreams than failure ever will, because most people rehearse failure so many times in their head that it feels real, then use that imaginary failure as an excuse to never try.
 

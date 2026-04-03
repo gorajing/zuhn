@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-0D70
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-B08E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Taleb simulated a competition between two people: one with knowledge and one with convexity (asymmetric payoff where gains exceed losses). The convexity bias — the advantage of the option-holder over the knowledge-holder — is enormous. This explains a historical puzzle: trial and error has produced most of the world's technology, not top-down theoretical knowledge.
 

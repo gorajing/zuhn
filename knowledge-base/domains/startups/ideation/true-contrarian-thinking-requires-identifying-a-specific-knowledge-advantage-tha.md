@@ -49,10 +49,17 @@ stance: >-
   you know that smart, expert critics don't — the test is whether an intelligent
   person can reasonably disagree with you
 related:
-  - INS-260323-9AA5
   - INS-260327-C4AC
   - INS-260330-5BC4
+  - INS-260403-AC74
   - INS-260330-3570
   - INS-260323-8966
+evidence:
+  - id: INS-260323-9AA5
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-C4AC
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hoffman distinguishes real contrarian thinking from performative contrarianism. The test: can a smart, expert person reasonably disagree with your idea? If not, it isn't actually contrarian. More importantly, you must be able to articulate the specific knowledge gap — what do you know that they don't? When 2/3 of Hoffman's network (including very smart people) said LinkedIn wouldn't work because network products need 500K+ users to deliver value, his specific knowledge advantage was understanding multiple mechanisms by which early adopters would join before the network delivered its core value proposition (believing in the vision, willingness to experiment, etc.). This transforms idea validation from 'do people think this is good?' into 'do I have a specific, articulable insight that my informed critics are missing?' It also means being contrarian is always relative to a specific audience — what consumer internet experts think is impossible, not what random people think.

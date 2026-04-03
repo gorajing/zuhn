@@ -61,6 +61,15 @@ evidence:
   - id: INS-260323-01F9
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-3DBF
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-F258
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-5A24
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham introduces the concept of 'anti-tests' — selection mechanisms so corrupt they actively filter out the best candidates. High school popularity contests reward political maneuvering that thoughtful people can't stomach. Corporate hierarchies demand attention to politics that someone like Bill Gates could never sustain. The test doesn't just fail to identify talent; it specifically repels it.
 

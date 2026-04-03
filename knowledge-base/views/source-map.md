@@ -196,9 +196,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -258,6 +258,7 @@ Generated on 2026-04-03 | 2421 sources
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
+| Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
@@ -266,6 +267,7 @@ Generated on 2026-04-03 | 2421 sources
 | How Elad Gil Built a One-Person Multi-Billion Venture Machine | blog | 5 | 2026-03-30 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
 | How to Be an Angel Investor | blog | 5 | 2026-03-31 |
+| How to Convince Investors | blog | 5 | 2026-03-31 |
 | How to Do Great Work | blog | 5 | 2026-03-31 |
 | How to Do Philosophy | blog | 5 | 2026-03-31 |
 | How to Do What You Love | blog | 5 | 2026-03-31 |
@@ -277,6 +279,7 @@ Generated on 2026-04-03 | 2421 sources
 | How to Start a Startup | blog | 5 | 2026-03-31 |
 | Ideas for Startups | blog | 5 | 2026-03-31 |
 | If AI is a weapon, why don't we regulate it like one? | blog | 5 | 2026-03-30 |
+| Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
@@ -310,9 +313,12 @@ Generated on 2026-04-03 | 2421 sources
 | The Second-Time Founder Effect: How Experience Shapes Startup Success | blog | 5 | 2026-03-30 |
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
+| Undergraduation | blog | 5 | 2026-03-31 |
 | What Business Can Learn from Open Source | blog | 5 | 2026-03-31 |
+| What Happened With Bio Anchors? | blog | 5 | 2026-03-30 |
 | What I Worked On | blog | 5 | 2026-03-31 |
 | What Startups Are Really Like | blog | 5 | 2026-03-31 |
+| What the Bubble Got Right | blog | 5 | 2026-03-31 |
 | What You Can't Say | blog | 5 | 2026-03-31 |
 | What You'll Wish You'd Known | blog | 5 | 2026-03-31 |
 | When combinations of humans and AI are useful: A systematic review and meta-analysis - Nature Human Behaviour | blog | 5 | 2026-03-26 |
@@ -1805,7 +1811,6 @@ Generated on 2026-04-03 | 2421 sources
 | Europe to US: The Expansion Playbook Every Founder Needs | blog | 0 | 2026-03-30 |
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
 | Every Debate On Pausing AI | blog | 0 | 2026-03-30 |
-| Everything You Knew About VC Math Is Wrong | blog | 0 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 0 | 2026-03-30 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
@@ -1892,7 +1897,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to Build AI Product Strategy (By OpenAI’s Product Lead) | blog | 0 | 2026-03-30 |
 | How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 0 | 2026-03-30 |
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
-| How to Convince Investors | blog | 0 | 2026-03-31 |
 | How to Disagree | blog | 0 | 2026-03-31 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 0 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 0 | 2026-03-30 |
@@ -1930,7 +1934,6 @@ Generated on 2026-04-03 | 2421 sources
 | Investor Herd Dynamics | blog | 0 | 2026-03-31 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 0 | 2026-03-30 |
-| Is It Worth Being Wise? | blog | 0 | 2026-03-31 |
 | Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 0 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 0 | 2026-03-30 |
 | Is the MVP Dead? Rethinking Lean Startup Strategies | blog | 0 | 2026-03-30 |
@@ -2268,7 +2271,6 @@ Generated on 2026-04-03 | 2421 sources
 | Trolls | blog | 0 | 2026-03-31 |
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Two Kinds of Judgement | blog | 0 | 2026-03-31 |
-| Undergraduation | blog | 0 | 2026-03-31 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
 |  | blog | 0 | 2026-03-31 |
 | Updated thoughts on AI risk | blog | 0 | 2026-03-30 |
@@ -2293,7 +2295,6 @@ Generated on 2026-04-03 | 2421 sources
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
 | What Great Startups Do Differently to Find Product-Market Fit | blog | 0 | 2026-03-30 |
 | What Happened to Yahoo | blog | 0 | 2026-03-31 |
-| What Happened With Bio Anchors? | blog | 0 | 2026-03-30 |
 | What happens if the world pulls its money out of America? | blog | 0 | 2026-03-30 |
 | What I Did this Summer | blog | 0 | 2026-03-31 |
 | What I Read This Week… | blog | 0 | 2026-03-30 |
@@ -2305,7 +2306,6 @@ Generated on 2026-04-03 | 2421 sources
 | What Made Lisp Different | blog | 0 | 2026-03-31 |
 | What Makes a Good Product-Market Fit?🎯, Global Markets Snapshot📊, GDP Growth Projections📈 | blog | 0 | 2026-03-30 |
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
-| What the Bubble Got Right | blog | 0 | 2026-03-31 |
 | What to Do | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
 | What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook | blog | 0 | 2026-03-30 |

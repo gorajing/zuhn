@@ -56,6 +56,10 @@ related:
   - INS-260326-F845
   - INS-260327-A4B1
   - INS-260330-9B7B
+evidence:
+  - id: INS-260322-E22A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Dalton and Michael observe a striking asymmetry in co-founder breakups: they never hear 'my co-founder is an A-plus person, they just didn't have the right skills.' What they always hear is 'my co-founder is a living nightmare and I can't take it anymore.' Skill mismatch is an error but not a fatal one — because almost everything in startup life is learned on the job anyway.
 

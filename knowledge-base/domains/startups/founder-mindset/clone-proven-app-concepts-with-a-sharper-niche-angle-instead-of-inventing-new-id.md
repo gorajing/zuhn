@@ -56,6 +56,10 @@ related:
 stance: >-
   Browse top-grossing apps, find categories with identical competitors, then
   build the same concept with a differentiated angle for an underserved se...
+evidence:
+  - id: INS-260330-255F
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Arthur didn't invent a new category. He scrolled the App Store's top grossing list, noticed affirmation apps were everywhere with identical features, and built the same thing targeted at Nordic countries with seasonal depression — warm UI, cozy mascot, quotes acknowledging dark winters. The top three competitors were literally identical (same quotes, same design, same everything), meaning there was proven demand with no differentiation.
 

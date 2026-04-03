@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-35CB
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260330-B444
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 The Mongols' willingness to occasionally slaughter entire cities created a reputation so fearsome that many cities surrendered immediately upon their arrival. This is a brutal but instructive example of how early costly signals create compounding returns: each act of extreme demonstration reduced the cost of every subsequent conquest.
 

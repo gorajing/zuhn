@@ -57,6 +57,13 @@ related:
   - INS-260330-5779
   - INS-260329-0B76
   - INS-260329-A024
+evidence:
+  - id: INS-260330-5779
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-0B76
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Greg Bernarda's concluding emphasis on the iterative nature of business model development is the thread connecting all three case studies. Airbnb started with air mattresses during a conference — not a grand vision of global hospitality disruption. Michelin's Guide was a marketing tactic that evolved into a cultural institution. Taobao's ecosystem grew through continuous addition of partnership services, not from a pre-designed master plan.
 

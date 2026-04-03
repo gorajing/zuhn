@@ -65,6 +65,15 @@ evidence:
   - id: INS-260321-8433
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-F609
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8760
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-6017
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The most surprising finding in the experiment is what happened in Amsterdam: after months of backwards-bike mastery, Destin initially couldn't ride a normal bike — but after 20 minutes, the old algorithm 'clicked back.' The old pattern was never erased; it was suppressed by the new one. He describes this as 're-designating' bias rather than eliminating it.
 

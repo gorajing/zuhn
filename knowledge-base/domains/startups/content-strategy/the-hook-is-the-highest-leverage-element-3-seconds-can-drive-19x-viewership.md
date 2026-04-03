@@ -54,6 +54,10 @@ related:
   - INS-260329-CBF6
   - PRI-260328-6A8D
   - INS-260327-77C7
+evidence:
+  - id: INS-260327-94E6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi's team found that simply cutting the first three seconds of a video — removing the preamble before the real hook — took it from 40,000 views to 780,000 views (19x improvement). This echoes David Ogilvy's principle that writing the headline spends 80 cents of your advertising dollar.
 

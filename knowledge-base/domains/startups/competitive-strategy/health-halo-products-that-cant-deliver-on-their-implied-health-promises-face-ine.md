@@ -51,6 +51,12 @@ evidence:
   - id: INS-260327-1439
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-318B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-8CA0
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Products that gain market share through implied health benefits face consumer backlash when scrutiny reveals the health claims are exaggerated or the products contain their own problematic ingredients.
 

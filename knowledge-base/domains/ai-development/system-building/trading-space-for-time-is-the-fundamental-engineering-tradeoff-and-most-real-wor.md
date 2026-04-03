@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-70F5
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-4AB4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hash tables achieve O(1) lookup by allocating extra memory for an array and a hash function. Fenwick trees store prefix sums to enable O(log n) range queries instead of O(n) summation. Suffix arrays precompute sorted suffixes to enable fast string matching. AVL trees store balance factors at each node to avoid degenerate O(n) search paths. In every case, the optimization is the same: precompute and store something so you don't have to recompute it later.
 

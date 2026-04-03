@@ -59,6 +59,13 @@ related:
 stance: >-
   ASML's monopoly exists because EUV requires solving dozens of 'impossible'
   problems simultaneously
+evidence:
+  - id: INS-260327-6C64
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-47FE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 ASML's EUV machine is the most complicated commercial product ever built, costing $400M per unit. Its monopoly doesn't come from any single breakthrough but from the compounding of dozens of engineering challenges that each seemed impossible on their own. The mirrors must be atomically smooth (if scaled to Germany, the largest bump would be 1mm). The laser must hit 50,000 tin droplets per second without a single miss. The light source must generate 13.5nm wavelength photons from plasma at 220,000 Kelvin.
 

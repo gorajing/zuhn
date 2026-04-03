@@ -54,6 +54,10 @@ related:
   - INS-260323-D400
   - INS-260327-B403
   - INS-260330-B5BF
+evidence:
+  - id: INS-260329-895D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi describes the full conditioning chain: a reader gets value from his book, associates the reward with the book, associates the book with Hormozi, associates Hormozi with his brand logo from content. Eventually the intermediate links (Hormozi, the book) can be removed and the logo alone carries the positive association. This is why someone wearing his merch at an event gets treated like a celebrity — the shirt triggers all the accumulated positive associations.
 

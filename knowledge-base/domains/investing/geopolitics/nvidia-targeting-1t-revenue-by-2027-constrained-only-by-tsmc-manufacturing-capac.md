@@ -48,8 +48,8 @@ related:
   - INS-260325-3B58
   - INS-260325-5CB1
   - INS-260327-DECA
+  - INS-260403-8011
   - INS-260323-758B
-  - INS-260326-80B1
   - INS-260330-ADB7
 stance: >-
   Jensen predicts $1T in NVIDIA bookings through 2027, but TSMC manufacturing is

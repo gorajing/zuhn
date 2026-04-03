@@ -59,6 +59,9 @@ evidence:
   - id: INS-260325-AC85
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-D511
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Language has a dual-channel property: words can point to the same real-world referent while simultaneously encoding the speaker's emotional relationship to it. 'Defecation' and its four-letter equivalent refer to the identical biological process, but choosing the vulgar form signals that the speaker's emotional state matters more to them than social propriety. This is dysphemism—the deliberate selection of a harsher term to amplify emotional charge.
 

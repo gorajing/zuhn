@@ -60,5 +60,14 @@ evidence:
   - id: INS-260330-82B2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-6908
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-EBBB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-CEC5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Harris makes a specific structural claim: the consciousness aware of happiness and the consciousness aware of sadness is not actually ever taking the form of those moods. This is not a metaphor about detachment — it's a claim about the architecture of experience. A mirror reflects without being altered. If you can experientially verify this, negative emotional states lose their ability to define your identity. The practical implication is that 'I am sad' is a misattribution — there is sadness appearing in awareness, but awareness itself has no emotional valence. This reframe doesn't suppress emotions but changes your relationship to them fundamentally.

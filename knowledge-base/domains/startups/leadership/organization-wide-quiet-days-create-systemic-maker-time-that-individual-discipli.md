@@ -58,6 +58,10 @@ related:
   - INS-260329-7A3C
   - INS-260329-8ABB
   - INS-260329-24CE
+evidence:
+  - id: INS-260329-9A30
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Individual maker time protection has a fundamental flaw: every declined meeting carries a social cost. The maker either offends the manager by saying no (risking career consequences, lost goodwill, reduced collaboration) or accepts and destroys their block. This is a lose-lose proposition that no amount of personal discipline can solve because the cost is relational, not just temporal.
 

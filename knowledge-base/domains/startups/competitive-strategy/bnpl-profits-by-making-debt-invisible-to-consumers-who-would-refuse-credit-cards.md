@@ -51,6 +51,9 @@ evidence:
   - id: INS-260327-BF93
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260329-A231
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 BNPL services grew by reaching consumers who specifically avoid credit cards. Four interest-free payments feels like budgeting, not borrowing. The economic reality is identical to short-term credit but the psychological framing bypasses resistance.
 

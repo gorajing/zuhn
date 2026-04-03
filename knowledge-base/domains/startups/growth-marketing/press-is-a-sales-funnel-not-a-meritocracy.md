@@ -60,6 +60,10 @@ related:
   - INS-260330-4AB1
   - INS-260330-F4DD
   - INS-260328-0C87
+evidence:
+  - id: INS-260323-CD03
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Justin Kan dismantles the myth that press coverage happens through journalistic meritocracy. His tactical framework treats it as a conversion funnel: identify a newsworthy story type (product launch, fundraising, milestone, stunt), get warm introductions through entrepreneurs who were recently covered by your target reporters, invest the reporter's time through face-to-face meetings (leveraging sunk cost), and prepare memorized bullet points that structure the conversation into the story you want written.
 

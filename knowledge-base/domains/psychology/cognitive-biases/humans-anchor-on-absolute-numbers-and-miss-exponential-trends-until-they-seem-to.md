@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-2EC0
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-C499
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 When presented with an exponential sequence, humans process absolute values rather than ratios. A country with 60 cases feels '100x better' than one with 6,000 — but on an exponential curve, 60 is just a month behind 6,000. The gap between 'small' and 'catastrophic' is purely a matter of time, not trajectory.
 

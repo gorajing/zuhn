@@ -54,5 +54,8 @@ evidence:
   - id: INS-260323-4D4E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-8CA0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Viagra's famous 'if an erection lasts longer than four hours' warning is a masterclass in persuasion through adverse-effect framing. By warning customers about the extreme consequences of the product working too well, the underlying efficacy becomes an assumed premise rather than a claim to be evaluated. The same pattern applies in business: warning a client that 'we're not liable for the tax burden from how much money you'll make' reframes revenue growth from a hope to a given. This technique works because the human brain processes warnings differently from promises — warnings feel like facts, while promises feel like marketing. When the 'risk' is actually a desirable extreme outcome, you get credibility and desire amplification simultaneously.

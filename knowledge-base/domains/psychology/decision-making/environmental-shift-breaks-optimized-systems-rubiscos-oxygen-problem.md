@@ -60,6 +60,25 @@ related:
   - INS-260330-3FF4
   - INS-260330-F222
   - INS-260330-1650
+evidence:
+  - id: INS-260325-0895
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-B71B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-DF69
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-3FF4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-F222
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1650
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 RuBisCo was designed in an atmosphere with abundant CO2 and almost no oxygen. It worked well enough in that environment. But as photosynthesis itself increased atmospheric oxygen, RuBisCo began grabbing oxygen molecules instead of CO2 roughly half the time, producing phosphoglycolate — a toxic compound that interferes with the Calvin Cycle. Plants evolved elaborate photorespiration pathways just to clean up this mess.
 

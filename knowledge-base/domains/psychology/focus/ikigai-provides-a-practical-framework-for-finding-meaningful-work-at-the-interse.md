@@ -50,6 +50,7 @@ stance: >-
 related:
   - INS-260322-A928
   - INS-260327-4F3D
+  - INS-260403-94C4
   - INS-260403-449A
   - INS-260322-4B4A
   - INS-260327-73CB
@@ -58,6 +59,9 @@ evidence:
   - id: INS-260327-4F3D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-62E1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 'Follow your passion' fails because passion without skill, market need, or compensation isn't sustainable. Ikigai identifies four necessary conditions for meaningful work: love it (provides energy), be good at it (provides confidence), the world needs it (provides purpose), and get paid for it (provides sustainability).
 

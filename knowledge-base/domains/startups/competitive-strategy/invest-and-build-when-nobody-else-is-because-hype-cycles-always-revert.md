@@ -52,6 +52,16 @@ related:
   - INS-260330-9471
   - INS-260330-0930
   - INS-260330-0C49
+evidence:
+  - id: INS-260330-0C49
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-9471
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-6620
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Doyle has been investing since 1999 and has seen multiple technology cycles. In 2022, when everyone was investing in AI, he deliberately was not, because he recognized the hype curve pattern. His rule: if everybody's investing in the same thing, you probably shouldn't be.
 

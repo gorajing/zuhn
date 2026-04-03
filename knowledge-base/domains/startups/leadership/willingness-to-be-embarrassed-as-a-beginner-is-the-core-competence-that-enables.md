@@ -58,6 +58,10 @@ related:
 stance: >-
   The moment you decide you are too embarrassed to try something new, you stop
   learning
+evidence:
+  - id: INS-260325-E84D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Zuckerberg articulates a profound leadership principle through his jiu-jitsu experience: the thing that stops most successful adults from growing is refusing to be a beginner again. After building an identity and expertise, people resist looking stupid. But every meaningful new capability — whether in martial arts, business, or technology — requires starting from zero.
 

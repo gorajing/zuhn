@@ -52,6 +52,13 @@ related:
   - INS-260325-0FED
   - INS-260329-6020
   - INS-260330-14A1
+evidence:
+  - id: INS-260325-0FED
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-6020
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Urban's provocative claim is that non-procrastinators don't exist. Someone who excels at deadline-driven work may still procrastinate on health, relationships, or creative pursuits that lack external structure. The Monkey's sneakiest trick is operating in deadline-free zones.
 

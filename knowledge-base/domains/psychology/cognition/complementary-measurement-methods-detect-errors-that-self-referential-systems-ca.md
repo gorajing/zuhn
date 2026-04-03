@@ -58,6 +58,13 @@ related:
   - INS-260330-649B
   - INS-260325-FDA9
   - INS-260330-466E
+evidence:
+  - id: INS-260330-901B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-FDA9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The kilogram redefinition pursued two completely independent approaches simultaneously: the Avogadro project (counting silicon atoms to fix Avogadro's constant) and the Watt Balance (fixing Planck's constant via electromagnetic measurement). These approaches use different physics, different equipment, and different teams — so if they agree, confidence is high that both are correct. If they disagree, at least one has a hidden systematic error.
 

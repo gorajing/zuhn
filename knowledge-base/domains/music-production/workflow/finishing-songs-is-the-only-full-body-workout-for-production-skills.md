@@ -50,6 +50,10 @@ related:
 stance: >-
   Finishing complete songs develops all production muscles simultaneously, while
   making loops only trains one.
+evidence:
+  - id: INS-260327-4279
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The gym analogy is precise: making 8-bar loops is like only doing bicep curls. You develop one skill (drops, sound design, beat-making) while everything else atrophies -- arrangement, transitions, automation, mixing full tracks. The producer who spent 2 years never finishing a song ended up with a hard drive full of 15-second ideas but couldn't arrange, automate, or mix.
 

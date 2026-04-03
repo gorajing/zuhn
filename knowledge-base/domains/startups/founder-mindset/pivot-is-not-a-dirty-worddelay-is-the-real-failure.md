@@ -49,6 +49,10 @@ related:
   - INS-260403-600C
   - INS-260330-4AE7
   - INS-260330-8134
+evidence:
+  - id: INS-260330-8134
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Windsurf pivoted from GPU virtualization (with a couple million in revenue) to AI-powered code after GPT-3.5 launched in 2022. Mohan's biggest regret isn't the pivot—it's not doing it three months earlier. Many founders hate the word 'pivot,' but Mohan calls it 'awesome.'
 

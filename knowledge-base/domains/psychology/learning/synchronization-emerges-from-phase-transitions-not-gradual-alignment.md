@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-332E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260320-10E8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Kuramoto model demonstrates that when you increase coupling between oscillators (metronomes, fireflies, neurons), synchronization doesn't emerge gradually. Instead, the system remains disordered until coupling crosses a critical threshold, at which point it snaps into coherence — analogous to water freezing at a critical temperature.
 

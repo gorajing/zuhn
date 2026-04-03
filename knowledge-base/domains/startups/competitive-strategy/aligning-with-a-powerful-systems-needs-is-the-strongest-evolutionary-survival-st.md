@@ -66,6 +66,12 @@ evidence:
   - id: INS-260327-FF4D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-4634
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-66EF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video contrasts cow and elephant populations to make a striking point: cows are neither smart nor strong, but their usefulness to humans (meat, milk, leather, labor) made them one of the most 'successful' large mammals on earth by population. Elephants are smarter, stronger, and more capable — but their 22-month gestation and independence from human systems left them endangered.
 

@@ -50,5 +50,12 @@ related:
   - INS-260325-0C4A
   - INS-260329-96BA
   - INS-260329-F21F
+evidence:
+  - id: INS-260325-55D8
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-0C4A
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 David Malan almost didn't take CS50 — the class that defined his career — until the professor allowed him to enroll pass/fail. This removed the GPA risk that was preventing him from trying something unfamiliar. The insight generalizes beyond academia: when people face a new domain (coding, music, startups), the fear of visible failure often kills exploration before aptitude can emerge. By structurally lowering the stakes of the first attempt — whether through pass/fail, free trials, sandbox environments, or 'no commitment' framing — you let people discover capabilities they'd never have tested otherwise. This is why free tiers convert better than discounted tiers: the psychological barrier isn't cost, it's commitment.

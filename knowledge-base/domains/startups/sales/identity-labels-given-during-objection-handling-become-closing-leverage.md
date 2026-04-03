@@ -52,6 +52,10 @@ related:
   - INS-260330-DB4B
   - PRI-260324-E8C6
   - INS-260330-A151
+evidence:
+  - id: INS-260330-A151
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When a salesperson says 'that's a really smart question' or 'you must be a great family man' during the associate phase, they're not just building rapport — they're creating an identity label the prospect will try to live up to. This is a deliberate setup for the close: if earlier you labeled someone as a 'smart decision-maker,' you can later frame the purchase as what smart decision-makers do.
 

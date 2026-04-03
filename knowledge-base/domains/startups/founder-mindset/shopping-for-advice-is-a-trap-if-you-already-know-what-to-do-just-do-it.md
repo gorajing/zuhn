@@ -52,5 +52,11 @@ evidence:
   - id: INS-260322-A208
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-58F5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-846D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 YC calls this 'shopping for advice' — when a founder has already decided on a course of action but seeks out multiple advisers until they find one who validates their decision. The core problem is that this creates an illusion of due diligence while actually just delaying execution. Dalton's approach is to surface this dynamic immediately: 'Have you already decided? Do you just want me to be excited for you?' This honesty saves both parties' time. The flip side is equally important: sometimes founders present filler content because they're dancing around the core topic, like showing up with an agenda about renaming the company when the real issue is they're running out of money.

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-7FAC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260402-70FD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When Hotz says 'GPT-12 will not be AGI,' his argument is specific: cross-entropy loss as a training objective produces outputs that converge to the statistical middle of the training distribution. His concrete example: ChatGPT writes raps that sound like YouTube comment raps — technically competent but 'mid.' The loss function optimizes for average plausibility, not excellence or originality. He argues you need 'probably RL, fancy environments' to get something considered AGI — rich interaction loops that go beyond predicting the next token.
 

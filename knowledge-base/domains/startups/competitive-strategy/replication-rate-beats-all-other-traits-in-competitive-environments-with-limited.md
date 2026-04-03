@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-0692
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-B08E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Veritasium's evolutionary simulations show that in environments with limited resources, the replicators that dominate consistently share the same traits: high replication rate (20% vs 17% average), low death rate, and low mutation rate (1% vs 3.73% average). The winning strategy isn't the most complex or innovative -- it's the one that copies itself most faithfully and most quickly.
 

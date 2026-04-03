@@ -52,6 +52,10 @@ related:
   - PRI-260322-8FD4
   - INS-260330-1DCF
   - PRI-260323-7B35
+evidence:
+  - id: INS-260330-BCD8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Bing proves that distribution power overwhelms product quality in platform markets. Despite being culturally dismissed, Bing captures a third of US searches and generates $5 billion annually — matching YouTube's 2016 revenue while actually turning a profit. The entire difference between a $5B business and bankruptcy is a single default setting.
 

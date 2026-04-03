@@ -57,5 +57,9 @@ related:
   - INS-260330-990F
   - INS-260330-CC7D
   - INS-260330-7E3F
+evidence:
+  - id: INS-260323-86FA
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Murray identifies a specific rhetorical pattern he calls the 'shape-shifter' move: a commentator asserts authoritative claims about a complex topic (like foreign conflicts or history), but when challenged on factual errors, retreats to 'I'm just a comedian/podcaster.' This creates an asymmetric debate where the person can make strong claims with zero accountability. The pattern was exemplified by both Dave Smith and Russell Brand — Brand would announce the need for revolution on BBC, then when shown data would say 'I ain't got time for no chart, I'm a comedian.' Harris calls this 'tennis without the net.' The practical implication is that this trick should be treated as a red flag for intellectual dishonesty: anyone who routinely alternates between authority-claiming and expertise-disclaiming should have their substantive claims scrutinized more heavily, not less.

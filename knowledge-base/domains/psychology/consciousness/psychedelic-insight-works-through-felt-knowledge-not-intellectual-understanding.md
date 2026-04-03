@@ -63,6 +63,25 @@ related:
   - INS-260327-98DE
   - INS-260329-7EFD
   - INS-260330-FBC0
+evidence:
+  - id: INS-260323-F7DB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-F540
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-543C
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-8D66
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-98DE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-FBC0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Johnson describes what he calls 'duh moments' — experiences where people feel they've learned something at a fundamental level that they already knew cognitively. Cancer patients who knew intellectually that fear was limiting them suddenly feel it in their bones and hearts. 'They knew it up here, they could tell you the words, but now they feel it in their heart.'
 

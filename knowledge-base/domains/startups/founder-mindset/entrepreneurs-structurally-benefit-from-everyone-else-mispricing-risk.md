@@ -60,6 +60,13 @@ related:
   - INS-260329-6130
   - INS-260330-059B
   - INS-260330-5E47
+evidence:
+  - id: INS-260330-059B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-0014
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kaz offers a nuanced formulation: the pain of any single failure is overestimated (you will recover), but the total volume of things that go wrong is underestimated (everything is more painful collectively than you think). This asymmetry is the structural advantage of entrepreneurship. Most people's risk calibration evolved for a world where a single lion bite meant death, so they treat every potential failure as existential.
 

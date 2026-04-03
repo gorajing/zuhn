@@ -67,6 +67,12 @@ evidence:
   - id: INS-260329-9010
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-7F3D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-5A24
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Malan's teaching style is distinctive in how much time he spends on errors. He deliberately writes buggy code, shows the error messages, and walks through the debugging process live. This isn't pedagogical sloppiness — it's a calculated strategy. Students who only see correct code develop fragile understanding that collapses at the first unexpected output. Students who've seen and resolved errors develop mental models that include failure modes.
 

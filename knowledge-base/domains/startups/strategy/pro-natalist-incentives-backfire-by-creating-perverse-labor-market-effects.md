@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-0881
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-74AC
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Sweden offers one of the world's most generous parental leave policies — 480 days of paid leave per child. While this has supported fertility rates, it created a significant second-order effect: employers became more hesitant to hire young women, who are statistically more likely to take extended leave. The intended beneficiaries of the policy became its victims in the labor market.
 

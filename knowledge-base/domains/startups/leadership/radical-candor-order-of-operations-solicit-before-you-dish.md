@@ -53,6 +53,19 @@ related:
   - INS-260329-3E3A
   - INS-260329-A7E2
   - INS-260329-4499
+evidence:
+  - id: INS-260322-1C17
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-CFEA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-CD7A
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-812E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Scott prescribes a specific order of operations for radical candor: (1) solicit feedback — ask what you could do or stop doing, (2) give praise that is specific and genuine, not a head-fake, (3) deliver criticism directly, (4) gauge how your feedback landed by watching the listener's reaction.
 

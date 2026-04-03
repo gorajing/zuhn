@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-0D7C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-66EF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Fossil evidence shows foragers had healthier bones and teeth and worked fewer hours than early farmers. Yet agriculture was independently adopted across every inhabited continent. The reason: farming's 'worse' individual outcomes were offset by its ability to generate caloric surplus, which unlocked specialization of labor, which enabled toolmakers, which improved farming efficiency in a compounding loop.
 

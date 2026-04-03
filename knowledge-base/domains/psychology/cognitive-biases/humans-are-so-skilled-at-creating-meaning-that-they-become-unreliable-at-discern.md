@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-3EF4
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260328-031A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video's most epistemologically honest observation: 'We are so good at creating meaning, we become really bad at discerning truth.' With billions of people generating trillions of thoughts and actions, statistically improbable alignments between internal states and external events are actually expected, not miraculous.
 

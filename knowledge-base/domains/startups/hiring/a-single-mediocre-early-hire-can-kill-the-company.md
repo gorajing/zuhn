@@ -56,5 +56,8 @@ evidence:
   - id: INS-260323-DA85
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-7D83
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Altman argues that mediocre employees at big companies merely cause inefficiency, but in startups every person sets the cultural tone. A bad early hire creates compounding damage — lowered standards, cultural drift, and team demoralization. Airbnb spent 5 months interviewing their first employee and only hired 2 people in year one, yet became one of YC's most successful companies. When forced to choose between hiring a suboptimal person and losing customers to a competitor, Altman recommends losing the customers for the first ~5 hires. The Airbnb approach of writing down cultural values before the first hire and testing for missionary-level commitment (Brian Chesky's 'would you take this job with 10 years to live?' question) creates a founding team where early employees feel like co-founders rather than staff.

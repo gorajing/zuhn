@@ -50,5 +50,9 @@ related:
   - PRI-260328-386C
   - INS-260323-4C71
   - INS-260330-3C2F
+evidence:
+  - id: INS-260323-4C71
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham introduces the concept of 'truth debt' — analogous to oxygen debt in sprinting — where the lies told during childhood accumulate as unexamined assumptions that persist into adulthood. Most people never systematically audit these inherited beliefs, walking around with 'bits of packing material adhering to their minds.' The key insight is that clearing even one lie tends to cause cascading clarification: 'whenever I've been able to undo a lie I was told, a lot of other things fell into place.' This suggests childhood lies aren't isolated falsehoods but load-bearing assumptions that prop up entire worldview structures. The practical implication is that epistemological hygiene — actively questioning beliefs you've held since childhood — has outsized returns compared to acquiring new knowledge. The first step is recognizing that even self-identified skeptics still carry enormous unexamined debris from their upbringing.

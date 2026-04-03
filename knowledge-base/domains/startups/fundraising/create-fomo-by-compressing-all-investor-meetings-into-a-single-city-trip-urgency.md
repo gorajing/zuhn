@@ -60,6 +60,10 @@ related:
 stance: >-
   Flying to a city and stacking every investor and customer meeting into 2-3
   days creates a forcing function where FOMO compounds
+evidence:
+  - id: INS-260329-9A30
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 With two payrolls left in the bank, Linq's CEO Elliot flew to San Francisco and compressed all investor activity into a 48-hour window. The results cascaded: two scheduled meetings became seven. Overnight emails brought new meeting requests. The biggest customer signed on the spot ('We're ready to buy'). A VC at Bain Capital said 'Can you come back later?' after one handshake — fully convinced.
 

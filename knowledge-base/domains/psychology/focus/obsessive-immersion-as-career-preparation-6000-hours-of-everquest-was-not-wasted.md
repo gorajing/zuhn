@@ -59,6 +59,28 @@ related:
   - INS-260327-CBCB
   - INS-260329-B1A1
 stance: 'Kaplan''s 6,000+ hours of EverQuest'
+evidence:
+  - id: INS-260323-E3FD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-9C20
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8521
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-FCBB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-EB3E
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CBCB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-B1A1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Jeff Kaplan logged 272 played days (6,500+ hours) in EverQuest over three years. By any conventional measure, this looked like an escapist coping mechanism for depression and failed writing ambitions. Yet this period gave him: deep understanding of MMO mechanics and player psychology, real leadership experience running an uber guild, a network that led directly to his Blizzard hire, and even his wife.
 

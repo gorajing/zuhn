@@ -58,6 +58,10 @@ related:
   - PRI-260328-0AB1
   - PRI-260328-2C6A
   - INS-260330-A15F
+evidence:
+  - id: INS-260330-A15F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Harris traces Trump's 'never apologize, never admit error' approach to Roy Cohn's explicit advice. The SignalGate incident illustrates this: a simple acknowledgment ('we made a mistake, we'll fix it') would have been costless, yet the administration chose denial. Harris notes even right-wing commentators recognized this as an easy win that was refused.
 

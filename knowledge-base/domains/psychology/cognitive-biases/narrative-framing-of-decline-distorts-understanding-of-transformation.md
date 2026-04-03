@@ -62,6 +62,19 @@ related:
   - INS-260325-79BD
   - INS-260325-3C17
   - INS-260330-0F55
+evidence:
+  - id: INS-260330-F5D1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-DF0F
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-79BD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-3C17
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The standard Western narrative places the 'fall of Rome' at 476 CE when the last western emperor was deposed. But the Roman Empire — its laws, institutions, culture, and governance — continued thriving in the east as the Byzantine Empire until 1453. The 'fall' narrative persists because humans are biased toward clean decline-and-collapse stories over messy transformation-and-continuation realities.
 

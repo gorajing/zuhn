@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-9377
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-9FA5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Burns reveals that while Rand thought of herself as purely rational, her actual power came from mythic storytelling. People wrote fan letters saying 'I read The Fountainhead and now I'm getting a divorce' or 'Ayn Rand is the reason I went to medical school.' Friedman never got such letters. Rand reached into people's psyche, created an emotional and psychological experience, and then fused it to an intellectual and political worldview.
 

@@ -57,5 +57,8 @@ evidence:
   - id: INS-260320-6CCE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-F6B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Nazo identifies prioritization as the CEO constant struggle. With limited resources and unlimited possibilities, every prioritization decision has massive opportunity cost. Build the wrong feature for 3 months and you may miss your market window. The challenge is compounded in AI where the technology landscape shifts weekly. His approach: evaluate ruthlessly whether each initiative delivers real customer value, and kill projects fast when they are not. Speed as a small startup is your primary advantage over enterprises — do not squander it on wrong priorities.

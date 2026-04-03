@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-0881
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-318C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 No individual farmer decided to 'start the agricultural revolution.' Each made a locally rational choice: plant more of what grows, breed bigger snails, settle near fertile land. But these choices accumulated into an irreversible transformation that brought patriarchy, inequality, war, famine, and environmental destruction alongside cities, technology, and abundance.
 

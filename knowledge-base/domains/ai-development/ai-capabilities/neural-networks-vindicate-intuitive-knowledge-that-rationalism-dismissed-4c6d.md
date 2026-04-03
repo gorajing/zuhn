@@ -80,6 +80,9 @@ evidence:
   - id: INS-260330-5A4C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-9931
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Since Socrates, Western culture has equated knowledge with explicit, articulable rules. If you cannot define something precisely, you do not truly know it. This framework produced extraordinary progress in physics and engineering but systematically devalued intuitive, tacit, pattern-based knowledge.
 

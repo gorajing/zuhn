@@ -50,11 +50,11 @@ stance: >-
   trying hard enough or not reflecting on why things failed.
 related:
   - INS-260320-6CCE
-  - INS-260321-C14C
   - INS-260330-2E58
+  - INS-260403-F157
+  - INS-260321-C14C
   - INS-260323-19A8
   - PRI-260323-2C5C
-  - INS-260321-1A0B
 evidence:
   - id: INS-260320-6CCE
     type: CHALLENGES

@@ -61,6 +61,10 @@ related:
   - INS-260330-E68E
   - INS-260330-7987
   - INS-260325-09AF
+evidence:
+  - id: INS-260323-422C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Every human instinct screams to unbuckle and swim upward when a helicopter inverts in water. But unbuckling causes your buoyant body to 'right itself' — which in an inverted aircraft means floating to what is now the ceiling, away from exits, completely disoriented. The trained response (stay in seat, grab reference point, breathe, then methodically exit) contradicts every survival instinct.
 

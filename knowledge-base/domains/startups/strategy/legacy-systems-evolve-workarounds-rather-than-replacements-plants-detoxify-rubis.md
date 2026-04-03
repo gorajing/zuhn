@@ -62,6 +62,10 @@ related:
   - INS-260330-EACA
   - INS-260330-E497
   - INS-260330-50B3
+evidence:
+  - id: INS-260330-EACA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 RuBisCo's oxygen-fixation error produces phosphoglycolate, which interferes with Calvin Cycle enzymes. Rather than evolving a more selective enzyme, plants developed an entire secondary metabolic pathway (photorespiration) to convert this toxic waste into usable compounds like glycine. This is strictly less efficient than fixing the root cause but was evolutionarily cheaper because RuBisCo is so deeply integrated into carbon fixation.
 

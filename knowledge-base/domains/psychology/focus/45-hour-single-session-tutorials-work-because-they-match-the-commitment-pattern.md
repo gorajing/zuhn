@@ -58,6 +58,25 @@ related:
   - INS-260329-88B2
   - INS-260329-31A2
   - INS-260330-8D27
+evidence:
+  - id: INS-260320-A467
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-1ECA
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-63DD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-88B2
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-31A2
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8D27
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Conventional content wisdom says shorter is better for attention spans. Yet this 4.5-hour tutorial has 48M+ views, suggesting a large market for marathon-format learning. The mechanism is self-selection: anyone who clicks on a 4.5-hour video has already committed mentally to deep learning. They've pre-filtered themselves as serious, which means they're more likely to engage deeply, complete exercises, and retain knowledge.
 

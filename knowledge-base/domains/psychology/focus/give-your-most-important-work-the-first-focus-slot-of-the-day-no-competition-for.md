@@ -53,6 +53,13 @@ related:
 stance: >-
   The first thing you focus on each day gets prime mental real estate with zero
   competition — so give that slot to your single most important task.
+evidence:
+  - id: INS-260322-F128
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-BB71
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 After a week of deliberate focus experimentation, Lucas's top recommendation was: don't work on anything before your most important work. The first thing you devote focus to gets absolute prime real estate in your brain with no competition from other inputs or contexts.
 

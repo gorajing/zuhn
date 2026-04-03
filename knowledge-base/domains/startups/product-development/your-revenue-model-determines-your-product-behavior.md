@@ -61,5 +61,8 @@ evidence:
   - id: INS-260321-3312
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-FF23
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Vlada argues that business model determines company DNA. Ad-supported companies optimize for maximum time-on-app and clicks because that is what advertisers pay for. Even with good intentions, the economic gravity pulls product decisions toward attention capture. Marco Polo chose a freemium subscription model specifically so their revenue comes directly from users, aligning product incentives with user well-being. They actively study design dark patterns and choose not to use them. The insight: choose your business model before you build, because it will determine every product decision downstream.

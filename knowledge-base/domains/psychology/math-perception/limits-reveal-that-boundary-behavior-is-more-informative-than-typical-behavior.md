@@ -61,6 +61,9 @@ evidence:
   - id: INS-260322-E734
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-FE33
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Calculus begins with limits — the study of what happens as you approach a point, not what happens at the point. This is a profound epistemological principle: the most informative observations often come from edges and extremes, not from the comfortable middle. A function can be well-behaved everywhere except at a single point, and that single point reveals its true character.
 

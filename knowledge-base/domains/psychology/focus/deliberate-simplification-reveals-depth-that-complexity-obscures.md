@@ -49,6 +49,10 @@ related:
   - INS-260325-2F1E
   - INS-260327-8521
   - INS-260323-C2F1
+evidence:
+  - id: INS-260327-8521
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Modern culture equates a rich life with a complex one: busy schedules, active social lives, frequent travels, elaborate goals. Thoreau's Walden experiment challenged this by stripping life to essentials. What he found was that complexity obscures rather than reveals meaning.
 

@@ -61,5 +61,17 @@ evidence:
   - id: INS-260321-9906
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-E208
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-ACE6
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260321-1A0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-2C5F
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Graham traces specific Lisp innovations through their adoption timeline: garbage collection (invented ~1960, mainstream ~2000), lexical closures (early 1970s, barely mainstream in 2001), macros (mid 1960s, still not mainstream). The pattern shows a consistent 20-40 year lag. The explanation is that languages aren't just tools — they're cognitive frameworks that determine how programmers conceptualize problems. Switching languages therefore requires rewiring thought patterns, not just learning syntax. This 'half technology, half religion' nature means that technically superior approaches can remain underused for decades because adoption requires cognitive transformation, not just education. The same dynamic likely applies to any domain where tools shape thinking: design methodologies, analytical frameworks, management philosophies.

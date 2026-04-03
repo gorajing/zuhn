@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-0881
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-22A2
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 China's fertility rate dropped from ~6 to ~2.7 between the 1960s and 1979, before the one-child policy was implemented. The policy then 'accelerated' the decline to below replacement. Yet the dominant narrative credits the policy itself with China's demographic transformation. This is a textbook case of confusing correlation with causation — the policy rode an existing wave and claimed credit for the tide.
 

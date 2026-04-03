@@ -51,6 +51,10 @@ related:
   - INS-260327-900A
   - INS-260325-0147
   - INS-260329-B0F4
+evidence:
+  - id: INS-260329-B0F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Comfortable ideas confirm existing beliefs and self-concept. Transformative ideas threaten them. This creates a systematic bias against the most valuable insights: the mind's defense mechanisms resist ideas that would require fundamental self-revision.
 

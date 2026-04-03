@@ -64,6 +64,21 @@ evidence:
   - id: INS-260321-6D01
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-7263
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-B403
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-1930
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1F41
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-548E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 After her career crisis and pregnancy forced a reset, Yoon decided to openly use AI in K-pop MV production at a time when the industry was reluctant to reveal AI usage (because the subjects being 'branded' were artists, not products). Her mental model was key: she treated AI the same way she'd treat a promising new artist she discovered — someone to get to know, become friends with, and develop together.
 

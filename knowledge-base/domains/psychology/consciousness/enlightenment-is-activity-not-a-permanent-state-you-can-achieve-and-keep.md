@@ -51,5 +51,12 @@ related:
   - INS-260322-C9AC
   - INS-260327-8521
   - INS-260325-1EAC
+evidence:
+  - id: INS-260322-C9AC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-8521
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Waldinger shares Shunryu Suzuki's teaching: 'There is no such thing as an enlightened person. There is only enlightened activity.' No one lives in a permanent altered state. Another Zen teacher's book was titled 'After the Ecstasy, the Laundry' — peak experiences are temporary, and ordinary life always returns. This reframes the entire self-improvement project: instead of pursuing an end state of 'being enlightened/successful/fixed,' the goal is to pursue 'enlightened activity in as many moments as I can string together.' This maps directly to productivity, leadership, and creative work — consistency of good practice matters more than any peak performance moment.

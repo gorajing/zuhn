@@ -60,6 +60,10 @@ related:
   - INS-260327-5690
   - INS-260329-E7A4
   - INS-260330-DF02
+evidence:
+  - id: INS-260330-B539
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham observes that when eminent people delegate, they lose direct contact with the medium — and the medium is a crucial source of ideas. Dale Chihuly hadn't blown glass in 27 years; the resistance of the material that makes oil paintings different from watercolors was no longer informing his work. In software, programming languages and applications are usually built by different people, which is 'responsible for a lot of the worst flaws in programming languages.'
 

@@ -57,6 +57,16 @@ related:
   - INS-260330-63B8
   - INS-260330-FE21
   - INS-260402-F5E0
+evidence:
+  - id: INS-260323-A64F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-D1B0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-F5E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The gap between inner experience and external expression is fundamental, not technical. No matter how articulate you are or how intimate a relationship becomes, your subjective experience of the world - the exact quality of your sensations, the texture of your thoughts, the feel of your memories - cannot be transmitted to another mind.
 

@@ -57,6 +57,13 @@ related:
 stance: >-
   We only study winners, but losers often executed the same playbook — luck and
   timing separated them.
+evidence:
+  - id: INS-260329-444F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-97DB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The Stasa vs OYO example is instructive: Stasa entered the homestay market first, raised capital, expanded aggressively, and still died by 2017 while OYO became a $2.5B company. Both executed similar strategies. Media covers winners and creates case studies from them, while failed startups disappear quietly. This creates a systematic distortion in how we learn about entrepreneurship — we reverse-engineer success from survivors and assume the playbook caused the outcome, when in reality the same playbook produced both winners and losers.
 

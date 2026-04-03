@@ -55,6 +55,13 @@ related:
   - INS-260330-6C17
   - INS-260330-CBA5
   - INS-260330-59E3
+evidence:
+  - id: INS-260330-6C17
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-CBA5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 At normal playback speed, an AK-47 firing underwater appears as a single chaotic explosion. At 27,450 frames per second, three cleanly separated physical processes become visible, each with distinct timing, geometry, and governing equations. The phenomena were always there — only the observer's temporal resolution changed.
 

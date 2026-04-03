@@ -58,6 +58,22 @@ related:
   - INS-260330-F493
   - INS-260330-71DE
   - INS-260402-4BC7
+evidence:
+  - id: INS-260330-F493
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-33C7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-AD13
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-3B31
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-71DE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham identifies two root causes behind all superlinear returns: exponential growth (where current performance improves future performance, creating compounding) and thresholds (where crossing a bar captures disproportionate reward). The most powerful domains combine both — learning compounds exponentially AND has threshold breakthroughs where mastering one field unlocks entirely new ones.
 

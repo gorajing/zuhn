@@ -67,6 +67,9 @@ evidence:
   - id: INS-260322-F65F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-E06A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Seo argues that arguments are 'easy to start and hard to end' because any number of differences between two people can flood in once conflict begins. The solution is that every disagreement should start with a moment of agreement: explicitly naming what the disagreement is about, thereby excluding everything else.
 

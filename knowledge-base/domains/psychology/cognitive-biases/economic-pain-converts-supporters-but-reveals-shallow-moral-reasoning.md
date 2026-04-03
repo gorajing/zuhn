@@ -58,6 +58,13 @@ related:
   - PRI-260328-E53E
   - INS-260325-B8CB
   - INS-260327-A75B
+evidence:
+  - id: INS-260325-B8CB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-A75B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Harris identifies an uncomfortable pattern: many Trump supporters who tolerate documented ethical failures, conspiracy theorist advisors, and dismantled institutional norms only begin questioning their support when their 401k drops. He argues this reveals a hierarchy where personal economic impact outweighs moral and institutional concerns in political reasoning.
 

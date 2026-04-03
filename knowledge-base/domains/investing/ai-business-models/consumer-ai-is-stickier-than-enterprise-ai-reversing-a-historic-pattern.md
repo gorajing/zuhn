@@ -48,7 +48,6 @@ resolutions:
     million paying out of 1 billion+ users, there is far more upside in
     monetizing the base than risk of price pressure.
 related:
-  - INS-260323-9D6E
   - INS-260325-040F
   - PRI-260328-C581
   - PRI-260328-935B
@@ -58,6 +57,7 @@ related:
   - INS-260327-A22D
   - INS-260327-4ED3
   - INS-260327-290C
+  - INS-260329-39E1
 stance: >-
   In a reversal of the traditional software pattern where enterprise was
   stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B

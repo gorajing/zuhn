@@ -55,5 +55,15 @@ related:
   - INS-260330-0EF6
   - INS-260330-885C
   - INS-260330-0930
+evidence:
+  - id: INS-260322-F609
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-B605
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-3788
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 After successfully learning the backwards bicycle, Destin attempted to ride a normal bike in Amsterdam and couldn't — for 20 minutes. He realized he hadn't freed himself from bias but had merely swapped one automatic response for another. This reveals something profound about debiasing: the brain requires automatic pattern-matching to function in real-time, so eliminating all bias isn't possible. You can only choose which biases to install. The old pathway persisted underneath and eventually reasserted itself (the 'click' moment), suggesting that deeply trained neural pathways are never truly deleted — they're suppressed by competing pathways. This has implications for anyone trying to change habits, overcome prejudices, or retrain intuitions: the old patterns remain dormant and can resurface under cognitive load or distraction.

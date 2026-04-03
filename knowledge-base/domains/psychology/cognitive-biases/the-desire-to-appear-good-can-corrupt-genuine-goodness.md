@@ -52,6 +52,10 @@ related:
   - INS-260327-8521
   - INS-260323-1930
   - INS-260329-7C84
+evidence:
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Orwell observed that the most dangerous corruption isn't greed or cruelty but moral vanity: the desire to appear good. When goodness becomes performative - signaling virtue through correct opinions, public generosity, and moral condemnation of others - the performance substitutes for the substance. The person who has signaled goodness feels they've fulfilled the obligation without actually doing anything good.
 

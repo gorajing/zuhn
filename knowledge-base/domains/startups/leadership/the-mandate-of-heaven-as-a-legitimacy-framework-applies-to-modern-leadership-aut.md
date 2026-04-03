@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-59BC
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-BE91
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Chinese concept of the Mandate of Heaven held that rulers governed by divine permission, but that mandate could be withdrawn when a dynasty became corrupt or incompetent. Natural disasters, famines, and social unrest were interpreted as signs that Heaven had revoked its approval, legitimizing revolution.
 

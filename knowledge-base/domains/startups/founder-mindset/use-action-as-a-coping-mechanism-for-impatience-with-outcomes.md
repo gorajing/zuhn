@@ -51,6 +51,13 @@ related:
   - INS-260329-EECD
   - INS-260326-4F90
   - INS-260330-70B9
+evidence:
+  - id: INS-260330-70B9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260326-4F90
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi distinguishes between patience with outputs (results you can't control) and impatience with inputs (actions you can control). When entrepreneurs feel anxious that things aren't happening fast enough, the instinct is to question the strategy or seek validation. Instead, the productive response is to increase the volume and quality of inputs — more calls, more content, more reps.
 

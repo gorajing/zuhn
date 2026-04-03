@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 382 insights
+> 383 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -309,6 +309,7 @@
 - `INS-260326-286F` [high] What wins long-term is always the thing that accumulates invisibly, because the impressive-looking variable commoditizes.
 - `INS-260322-1280` [high] Some products are too cheap to bother replacing (janitorial services problem) — nobody optimizes a $50/month/person line item, which means competitors can't get in but incumbents can't be kicked out.
 - `INS-260328-57CF` [high] Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.
+- `INS-260403-8011` [high] When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260330-0C96` [high] Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260324-160B` [high] Texas has the most BBQ spots per capita but a 33% failure rate — lower than less competitive states like California and New York where failure rates are even higher.
 - `INS-260330-1DCA` [high] We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.

@@ -50,5 +50,12 @@ related:
   - INS-260329-8C69
   - INS-260330-A370
   - INS-260329-F063
+evidence:
+  - id: INS-260330-A370
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-F063
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Hormozi's CLOSER framework structures sales conversations as a series of diagnostic questions rather than a product pitch. Each letter represents a phase: Clarify (why they're there), Label (the problem), Overview (past attempts), Sell the vacation (desired outcome), Explain concerns, and Reinforce the decision. The key insight is that when prospects articulate their own pain, failed attempts, and desired future state through guided questions, they build an internal case for buying that's far more persuasive than any external pitch. This inverts the traditional sales dynamic — the salesperson talks less and the prospect convinces themselves. The approach works because people trust their own conclusions more than someone else's assertions, making it applicable beyond sales to negotiation, leadership, and any persuasion context.
