@@ -56,6 +56,10 @@ related:
   - INS-260327-2718
   - INS-260327-F405
   - INS-260329-764E
+evidence:
+  - id: INS-260329-764E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Altman introduces a 'conservation of happiness' framework: with limited resources, your first product can either spread thin approval across many users or concentrate deep love among a few. YC's data across 720+ companies shows that expanding from intense love to broad love is dramatically easier than converting mild approval into deep enthusiasm. This maps directly to the concept of product-market fit — when a small group truly loves your product, they become organic evangelists, creating word-of-mouth growth that no marketing budget can replicate.
 

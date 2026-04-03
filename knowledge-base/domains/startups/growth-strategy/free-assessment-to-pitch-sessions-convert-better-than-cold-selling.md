@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-18BB
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-03B5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The free session isn't charity — it's a structured sales process. You open with a diagnostic to understand the student's current level, deliver one concrete win so they feel progress, then transition: 'This is how I teach. Did you like that?' The prospect has already experienced the value, making the close natural rather than adversarial.
 

@@ -68,6 +68,15 @@ evidence:
   - id: INS-260325-AC85
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-E0DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-1F6E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-3E3B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Dual Control Model from the Kinsey Institute describes sexual response as a pairing of an excitation system (accelerator — noticing sex-related stimuli) and an inhibition system (brakes — noticing reasons not to be aroused). Both operate unconsciously. The counterintuitive finding is that most sexual difficulties stem from excessive brake activation rather than insufficient accelerator stimulation. The brakes respond to stress, body image concerns, trauma history, and relationship conflict — factors often unrelated to the sexual encounter itself.
 

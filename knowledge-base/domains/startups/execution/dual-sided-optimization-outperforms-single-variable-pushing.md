@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-0827
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-30F0
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 The supersonic baseball cannon achieves Mach 1.38 not by maximizing pressure alone, but by simultaneously pressurizing behind the ball (750+ PSI nitrogen) AND pulling a vacuum ahead of it in the barrel. This dual-sided approach is what makes supersonic velocity achievable with manageable pressures. A single-variable approach — just more pressure — would require dangerously high PSI and still fight atmospheric drag.
 

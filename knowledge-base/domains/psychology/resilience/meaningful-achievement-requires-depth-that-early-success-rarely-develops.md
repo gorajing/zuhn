@@ -56,6 +56,19 @@ related:
   - INS-260327-5AF9
   - INS-260329-F04B
   - INS-260329-E078
+evidence:
+  - id: INS-260329-EFA8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-9681
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-E078
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260403-9EB1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Early achievers often optimize for the specific skills that produced early results, creating narrow expertise. Late bloomers who spent years exploring, failing, and developing across domains often produce more integrative and original work because they have broader foundations.
 

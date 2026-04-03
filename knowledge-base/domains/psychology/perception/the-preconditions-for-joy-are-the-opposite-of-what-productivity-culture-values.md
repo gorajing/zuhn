@@ -53,6 +53,10 @@ related:
   - INS-260327-F0C0
   - INS-260325-2944
   - INS-260325-FA70
+evidence:
+  - id: INS-260329-C996
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Bowler identifies the key preconditions for joy: emotional availability, connection, and openness to being surprised. A person who wants to be surprised is much more likely to find joy. But these preconditions are the direct opposite of what our machine selves optimize for: control, efficiency, predictability, screen engagement.
 

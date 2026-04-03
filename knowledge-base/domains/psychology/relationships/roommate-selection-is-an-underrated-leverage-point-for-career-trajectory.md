@@ -55,6 +55,15 @@ evidence:
   - id: INS-260327-77A0
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-57CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-BEEE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-61CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies three tiers of roommates: destructive (irresponsible, distract from goals), neutral (responsible but different goals, will project limiting beliefs), and aligned (pursuing similar ambitions, creating mutual encouragement). The worst tier isn't the irresponsible roommate — it's the responsible one with smaller goals who subtly undermines your ambition through social pressure.
 

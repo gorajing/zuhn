@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-AD3E
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-07D3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The tutorial's 6-project arc deliberately escalates: Project 1 (payroll) teaches cell references and basic formulas. Project 2 (gradebook) reuses formulas but adds conditional formatting. Project 3 (decision matrix) reuses formatting but adds weighted scoring. Each project introduces exactly one new layer while recycling the mechanical skills from previous projects.
 

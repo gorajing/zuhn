@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-814E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-3F9C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Before the Mongol invasion of 1237-40, Russia's major cities were Kiev, Novgorod, and Vladimir. The Mongols destroyed Kiev and devastated most of Russia. But Moscow — a tiny, insignificant settlement — rose from the ashes by becoming the Mongols' chief tax collector, using the invaders' authority to accumulate wealth and power over other Russian princes. Without the Mongol catastrophe, Moscow would never have risen above its rivals.
 

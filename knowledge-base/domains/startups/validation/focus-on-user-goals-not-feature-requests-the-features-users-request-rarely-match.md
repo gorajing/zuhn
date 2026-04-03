@@ -61,6 +61,10 @@ related:
   - PRI-260328-6A8D
   - INS-260329-C8C7
   - INS-260327-58AC
+evidence:
+  - id: INS-260326-4164
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Twitch broadcasters asked for polls, scrolling text, chat personalization, and ban list management. Competitor broadcasters asked for multi-person channels and specific video features. But when Shear's team analyzed the underlying goals, they found three themes: broadcasters wanted to make money, they wanted stable high-quality video worldwide, and they wanted universal viewer access. Twitch then built a subscription program, invested heavily in video infrastructure, and expanded international CDN coverage — features almost no one explicitly requested.
 

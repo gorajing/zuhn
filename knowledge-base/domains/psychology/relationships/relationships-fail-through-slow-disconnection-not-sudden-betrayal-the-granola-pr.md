@@ -57,6 +57,16 @@ related:
 stance: >-
   Marriages fail like bankruptcy — very slowly and then all at once — through
   accumulated small disconnections, not through the dramatic event that f...
+evidence:
+  - id: INS-260327-2386
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A8B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-50A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Sexton's core insight from two decades of divorce law: cheating, financial betrayal, and substance abuse are the 'all at once' events, but they're symptoms, not causes. The real failure began much earlier — when someone stopped buying their partner's favorite granola, when small acts of care became 'inefficient.' The disconnection happens so gradually that neither person notices until a dramatic event forces the question.
 

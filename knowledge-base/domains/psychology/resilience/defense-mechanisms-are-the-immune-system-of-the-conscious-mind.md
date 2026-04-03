@@ -63,5 +63,12 @@ related:
   - INS-260330-9743
   - INS-260330-D5DD
   - INS-260330-2EC4
+evidence:
+  - id: INS-260330-206B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8718
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Conti describes the conscious mind as the exposed tip of an iceberg, vulnerable to fear, confusion, and despair. Defense mechanisms — projection, displacement, avoidance, projective identification — grow up from the unconscious to protect it, like tendrils shielding the exposed surface. Projection makes you attribute your anger to traffic or coworkers. Displacement redirects frustration to safe targets (the proverbial 'kicking the dog'). Projective identification makes others feel your anxiety contagiously. These aren't pathologies in themselves — altruism is also a defense mechanism, channeling negative experiences into positive action. The critical insight is that defense mechanisms become destructive precisely when they remain unconscious. The therapeutic intervention is making the unconscious conscious: once you notice you're projecting, you can choose differently. This maps directly to practical self-improvement — catalog your reflexive reactions in stressful situations, and you've identified your defense mechanism profile.

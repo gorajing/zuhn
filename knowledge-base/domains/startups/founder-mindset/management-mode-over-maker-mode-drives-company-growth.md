@@ -50,5 +50,9 @@ related:
   - INS-260327-BB4A
   - INS-260329-C92A
   - INS-260330-EF51
+evidence:
+  - id: INS-260325-FDF5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Alice explicitly states she believes in management mode for growth. Many founders hold onto maker responsibilities too long because making feels productive. But the transition from doing the work to building systems and teams that do the work is what allows the company to scale beyond the founders capacity. The growth she always talks about requires delegating and trusting people — which is uncomfortable for founders who built everything initially.

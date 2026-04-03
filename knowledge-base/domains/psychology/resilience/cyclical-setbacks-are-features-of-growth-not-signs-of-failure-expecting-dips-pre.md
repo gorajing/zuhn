@@ -50,5 +50,12 @@ related:
   - INS-260330-4AE7
   - INS-260329-163B
   - INS-260329-19F9
+evidence:
+  - id: INS-260330-4AE7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-19F9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Most people interpret the first significant dip after initial success as a signal they chose the wrong path. Hormozi argues these dips are predictable, recurring features of any compounding trajectory — not bugs but expected behavior. The people who succeed aren't those who avoid dips but those who persist through them because they expected them. This reframe is actionable: before starting any venture, mentally pre-committing to weathering 3-5 significant downturns changes the emotional response when they arrive. Instead of 'Is this the wrong path?' the question becomes 'Is this dip #2 or #3?' — a completely different psychological frame that preserves momentum.

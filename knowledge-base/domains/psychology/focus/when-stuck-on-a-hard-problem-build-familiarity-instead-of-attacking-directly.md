@@ -63,6 +63,18 @@ evidence:
   - id: INS-260402-4AB4
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-8358
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-05FC
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C0B9
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-E7A3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When introducing the integral of x-squared, 3Blue1Brown explicitly advises: 'A good policy is to not try too hard to get at the answer directly, since usually you just end up banging your head against a wall. Instead, play around with the idea, with no particular goal in mind.' The derivative relationship emerges from this playful nudging.
 

@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-F540
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-4942
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Abbasid caliphate's golden age coincided with its most tolerant period: Baghdad attracted the finest scholars from across the known world regardless of religion or ethnicity. The House of Wisdom translated Greek, Persian, and Indian texts. Christian and Jewish scholars worked alongside Muslims. This concentration of diverse talent produced extraordinary advances in mathematics, astronomy, medicine, and philosophy.
 

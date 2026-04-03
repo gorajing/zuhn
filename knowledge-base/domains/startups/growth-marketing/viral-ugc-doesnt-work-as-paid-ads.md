@@ -55,6 +55,9 @@ evidence:
   - id: INS-260327-B7C4
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-E695
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 
 A common assumption is that viral organic content will perform well

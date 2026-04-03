@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-FABE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-DE89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In 2005, Putin publicly vowed on television to never raise the retirement age. For 13 years, he papered over the growing demographic imbalance with subsidies, bloated state employment, and pension increases (pensions more than doubled between 2012-2022). When the math finally forced his hand in 2018, the change had to be far more aggressive than gradual reform would have required — jumping retirement age by 5-8 years in a compressed timeline, versus the US approach of raising it 2 years over two decades.
 

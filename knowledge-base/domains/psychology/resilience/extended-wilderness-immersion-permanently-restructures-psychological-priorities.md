@@ -57,6 +57,9 @@ evidence:
   - id: INS-260330-AB58
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260330-9A60
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Rosolie's transformation from suburban American to jungle conservationist involved psychological changes that only direct extended nature immersion produces. The sensory richness, constant danger, and ecological interconnection of primary rainforest create a lived understanding of humanity's place in nature that conceptual knowledge cannot provide.
 

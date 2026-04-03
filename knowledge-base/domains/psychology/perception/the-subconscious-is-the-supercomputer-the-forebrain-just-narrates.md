@@ -60,6 +60,13 @@ stance: >-
   Paul Conti's framework: 90% of our decision-making is driven by the
   subconscious, and only by exploring it can we stop making the same destructive
   ...
+evidence:
+  - id: INS-260323-7C3A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4A16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Huberman describes psychiatrist Paul Conti's contrarian view that the subconscious — not the forebrain — is the true supercomputer of the brain. Most people think conscious analytical thinking drives their decisions, but in reality the subconscious is generating feelings and biases that the forebrain merely rationalizes after the fact.
 

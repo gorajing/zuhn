@@ -76,6 +76,12 @@ evidence:
   - id: INS-260330-2737
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-88DE
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-6BAF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Christianity's spread was inseparable from Roman infrastructure: it traveled along Roman roads, organized around Roman cities, adopted Roman administrative geography (bishoprics matching Roman provinces), and eventually became the Roman state religion. When Rome collapsed, the Church inherited the entire administrative infrastructure, becoming the only institution with continent-wide reach.
 

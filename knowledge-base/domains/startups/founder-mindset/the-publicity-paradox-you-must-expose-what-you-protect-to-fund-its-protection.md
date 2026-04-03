@@ -61,5 +61,8 @@ evidence:
   - id: INS-260325-59D4
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260330-E77D
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 JungleKeepers faces a genuine paradox: the Mashco Piro want to be left alone, but without public awareness and funding, their rainforest will be logged and they'll cease to exist. Rosolie consulted anthropologists and ethicists before going public, because telling the world about uncontacted tribes risks attracting 'crazy hippie gringos' wanting to join the 'coolest commune on Earth' or tourists who want to see them. Yet the tribe itself is speaking out -- communicating 'stop cutting our trees' -- and their survival depends on JungleKeepers' ability to raise funds and buy land. The resolution: show the footage, tell the story, then leave them alone. This is the same tension every mission-driven startup faces: you must market the very thing whose essence resists commercialization. The solution isn't to avoid the paradox but to navigate it with clear ethical boundaries -- consult stakeholders, control the narrative, and use publicity as a finite instrument rather than an ongoing spectacle.

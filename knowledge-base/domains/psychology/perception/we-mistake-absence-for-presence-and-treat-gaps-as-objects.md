@@ -52,6 +52,10 @@ related:
   - INS-260323-849E
   - INS-260323-1B0B
   - INS-260330-14B1
+evidence:
+  - id: INS-260323-1B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The shadow blister effect — where two shadows appear to bulge toward each other before touching — demonstrates how readily we perceive absence as a positive entity with behavior. Shadows don't travel; they are cross-sections of three-dimensional regions where light is blocked. The 'motion' we see is actually new light filling or vacating gaps at the speed of light.
 

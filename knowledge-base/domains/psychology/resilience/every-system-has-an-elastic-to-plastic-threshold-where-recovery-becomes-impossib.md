@@ -57,6 +57,10 @@ related:
   - INS-260330-0FBF
   - PRI-260324-1A67
   - INS-260330-AB3E
+evidence:
+  - id: INS-260330-AB3E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Golf balls elastically deform and fully recover at impacts up to ~300 mph, but somewhere between 300–500 mph they cross into plastic deformation where the internal structure permanently breaks. This threshold is invisible from below — the ball looks fine at 290 mph and destroyed at 400 mph.
 

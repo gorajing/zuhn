@@ -64,6 +64,15 @@ evidence:
   - id: INS-260327-08E7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-CA88
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-176B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2EB0
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Between 1915 and 1917, the British promised Palestine to Sharif Hussein of Mecca (for leading an Arab revolt), to France (in the secret Sykes-Picot agreement), and to the Zionist movement (via the Balfour Declaration). Each promise made sense in its immediate diplomatic context, but together they were mutually exclusive. The result wasn't just one broken promise — it was a cascading trust collapse where every party felt betrayed.
 

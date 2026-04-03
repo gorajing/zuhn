@@ -64,6 +64,10 @@ related:
   - INS-260327-325B
   - INS-260327-85EB
   - INS-260327-0755
+evidence:
+  - id: INS-260327-0755
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Pizza Hut built its brand in the 1980s around a unique sit-down dining experience with pan pizza as the centerpiece for family dinners, parties, and buffets. Forty years later, that dining model is a structural liability. Pizza Hut lacks the customer base to compete on quality (upscale attempts have flopped), lacks the network density to compete on speed or price (rivals sell for less from smaller, cheaper storefronts), and is stuck with oversized, underused physical spaces.
 

@@ -57,6 +57,10 @@ related:
 stance: >-
   Gabbard's daily task of reading every combat injury list name by name never
   became routine
+evidence:
+  - id: INS-260323-B811
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Every day in Iraq, Gabbard read through casualty lists name by name, checking if any of her 3,000 Hawaiian soldiers were injured. She explicitly notes this 'never became a routine task' -- the daily confrontation with real names and real injuries kept the cost visceral and prevented the bureaucratic normalization that allows distant decision-makers to send people into harm's way without feeling the weight of it.
 

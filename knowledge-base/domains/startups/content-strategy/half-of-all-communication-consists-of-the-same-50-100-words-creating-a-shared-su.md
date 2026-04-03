@@ -62,6 +62,12 @@ evidence:
   - id: INS-260330-80AF
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260325-5692
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-FAD5
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The video presents a striking statistic: the top 100 words account for roughly half of everything written or said, whether in Plato's Complete Works, the Bible, or a summer comedy film. The other half is dominated by hapax legomena — words that appear only once. This creates a bimodal structure in communication: a shared, predictable substrate of common words that carry grammatical structure, and a sparse, information-dense layer of rare words that carry meaning.
 

@@ -69,6 +69,15 @@ evidence:
   - id: INS-260322-B369
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-1D08
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-9515
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-7FE6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Chinese dynastic history follows a remarkably consistent pattern: a vigorous founder establishes order, successors enjoy prosperity, later generations become complacent and corrupt, and eventually the system collapses and is replaced. This cycle repeated across the Shang, Zhou, Qin, Han, and subsequent dynasties over two millennia.
 

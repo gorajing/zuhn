@@ -67,5 +67,8 @@ evidence:
   - id: INS-260327-66AC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-87C2
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Ben Horowitz identifies this as the single management concept CEOs mess up most consistently, from earliest stage to largest scale. When making any critical decision — demotions, raises, policy changes — you must model how it will be interpreted by everyone in the company, including people not in the room. A demotion that seems compassionate to the CEO and the affected executive looks deeply unfair to engineers earning 0.1% equity when the demoted exec keeps 1.5%. A raise given to someone who asked for it tells every other employee that lobbying is rewarded over performance. The skill is seeing the company through the eyes of the employees as a whole, not just through the lens of the immediate conversation. Bill Campbell, widely regarded as Silicon Valley's greatest executive coach, was exceptional precisely at this skill — seeing the company through the eyes of all employees simultaneously.

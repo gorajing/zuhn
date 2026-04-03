@@ -45,6 +45,19 @@ related:
   - INS-260403-EAC6
   - PRI-260328-6CEC
   - INS-260402-E148
+evidence:
+  - id: INS-260322-6AF5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-D6F2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-EAC6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-E148
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When the first 4-8 results are paid placements visually indistinguishable from organic results, consumers learn that top results dont mean best products. This destroys the platform's core value as a recommendation engine.
 

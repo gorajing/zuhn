@@ -59,6 +59,22 @@ related:
   - INS-260329-1741
   - INS-260329-7192
   - INS-260330-B8CC
+evidence:
+  - id: INS-260329-5975
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-735A
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-1741
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-7192
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-B8CC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The video's climax describes a programmer who 'blows up his computer and joins the Amish,' becoming 'invincible to all the flexes' because 'his identity is no longer tied to these superficial things like code quality, GitHub stars, likes, followers, and even money.' This frames professional detachment as the ultimate competitive advantage.
 

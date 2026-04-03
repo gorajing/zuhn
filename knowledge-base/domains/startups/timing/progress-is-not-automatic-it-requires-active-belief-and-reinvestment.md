@@ -59,6 +59,12 @@ evidence:
   - id: INS-260327-1D23
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-647D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260321-1A0B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Crawford identifies a virtuous cycle at the heart of progress: making progress leads to believing progress is possible, which leads to investing in more progress, which produces more results. This cycle can run in reverse — when skepticism about progress grows (as it did after the world wars, environmental concerns, and technological risks of the 20th century), investment and ambition decline, producing the very stagnation that reinforces pessimism.
 

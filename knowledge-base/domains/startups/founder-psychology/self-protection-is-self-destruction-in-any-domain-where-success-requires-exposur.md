@@ -58,5 +58,8 @@ evidence:
   - id: INS-260325-4FD0
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260326-06A1
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Two principles reveal the same structural pattern across domains: in startups, ego protection manifests as avoiding financial reality, refusing to fire underperformers, and burnout martyrdom — all of which kill companies. In relationships, strategic emotional safety (hiding needs, performing strength, avoiding repair) destroys genuine connection. The common mechanism: the person believes they are protecting something valuable (their identity, their emotional safety), but the protected thing (the business, the relationship) can only survive through the exposure the defensive system prevents. This is not a metaphor — it is the same psychological structure operating in different contexts. The practical implication is that founders who cannot be emotionally vulnerable in relationships are likely running the same protective subroutine in their business decisions.

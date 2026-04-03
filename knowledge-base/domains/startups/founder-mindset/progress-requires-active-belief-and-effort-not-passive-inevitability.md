@@ -63,5 +63,8 @@ evidence:
   - id: INS-260327-8C58
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-6992
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Crawford's core thesis is that progress is a choice, not a destiny. The idea of progress itself only emerged in the West around the 1500-1600s — most human societies saw history as cyclical or declining from a golden age. Francis Bacon argued in the early 1600s that new discoveries were possible, but it took 200 years for that vision to become the Industrial Revolution. The 20th century shattered naive optimism about automatic progress through world wars, environmental damage, and totalitarianism. The lesson for founders and builders is that believing in and actively working toward progress is not naive — but expecting it to happen without deliberate effort and course-correction is.

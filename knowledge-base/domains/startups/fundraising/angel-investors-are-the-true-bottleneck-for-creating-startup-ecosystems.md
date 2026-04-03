@@ -54,5 +54,8 @@ evidence:
   - id: INS-260329-4605
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-E185
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham points out that 50-75% of companies raising Series A rounds have already taken outside angel investment, meaning angels are the critical bridge that gets companies to the point where VCs will engage. Google itself—the canonical Silicon Valley success story—was fundamentally angel-funded; its famous Kleiner/Sequoia round was a Series B at a $75M premoney valuation when the company was already successful. Angels take risks VCs won't because they invest their own money (no LPs to embarrass themselves in front of) and many are former founders who can evaluate technology directly. This creates a self-reinforcing cycle: successful startups create wealthy founders who become angels who fund the next generation, making startup hubs a marketplace effect shifted in time.

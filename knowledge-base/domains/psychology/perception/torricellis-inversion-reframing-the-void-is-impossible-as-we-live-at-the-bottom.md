@@ -54,6 +54,10 @@ related:
   - INS-260323-DA1E
   - INS-260330-9BC3
 stance: Torricelli didn't just create a vacuum
+evidence:
+  - id: INS-260323-DA1E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The straw collapsing, gravity seeming to be suspended, air rushing into empty spaces -- all these phenomena that 'proved' nature abhors a vacuum were actually just atmospheric pressure at work. Torricelli's mercury tube experiment didn't just disprove Aristotle; it provided a completely new framework where the vacuum is nature's default state and it's the presence of air that requires explanation.
 

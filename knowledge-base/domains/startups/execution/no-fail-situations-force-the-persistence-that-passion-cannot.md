@@ -55,6 +55,12 @@ evidence:
   - id: INS-260330-293E
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260329-3848
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-207D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi credits his gym success partly to having signed a lease with all his savings — he literally couldn't quit when the passion faded. Phil Knight's principle reinforces this: 'You're not out of business when your bank runs out; you're out when there are padlocks on your door.' The constraint wasn't psychological but structural.
 

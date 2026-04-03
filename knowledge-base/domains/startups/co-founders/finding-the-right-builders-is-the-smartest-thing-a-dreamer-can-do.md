@@ -69,6 +69,12 @@ evidence:
   - id: INS-260402-F04F
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-CA43
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-F51D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When asked about the early days, Raibert is self-effacing: 'Probably the smartest thing I ever did is to find the other people.' He describes himself as a dreamer and credits the engineering talent at Boston Dynamics for making robots that actually work. His first key hire, Ben Brown, brought complementary engineering skills that Raibert lacked.
 

@@ -60,5 +60,15 @@ related:
   - INS-260329-E0B0
   - INS-260330-49AE
   - INS-260325-6571
+evidence:
+  - id: INS-260325-9B73
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-61CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-E0B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Helen Fisher's brain-scanning research identifies three neurologically distinct systems that underpin lasting partnerships, each requiring its own maintenance protocol. Sex drive is sustained by regular sexual activity, which drives up testosterone (creating desire for more) and oxytocin (deepening attachment). Romantic love is sustained by novelty — new restaurants, new activities, new conversations — which drives up dopamine and can rekindle the same neurochemistry as early-stage love. Attachment is sustained by physical touch — sleeping in each other's arms, holding hands, cuddling — which drives the oxytocin system. Brain scans of couples married 21+ years who were still deeply in love showed activity in three specific regions: empathy, emotional self-regulation, and 'positive illusions' (the ability to overlook flaws and focus on strengths). This maps to a maintenance framework: novelty for romance, touch for attachment, sex for drive, empathy and emotional control for longevity.

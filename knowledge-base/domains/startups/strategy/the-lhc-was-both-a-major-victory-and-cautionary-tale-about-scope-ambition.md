@@ -66,6 +66,9 @@ evidence:
   - id: INS-260323-AEA7
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260330-FEDD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Randall describes the LHC as a dual outcome: a major victory in discovering the Higgs boson, but also a cautionary tale. The cancelled US Superconducting Super Collider would have had higher energy reach for more comprehensive discovery. Many physicists assumed supersymmetry was a certainty, making the LHC seem sufficient. When supersymmetry was not found, the field was left without the next-generation tool it needed.
 

@@ -65,6 +65,12 @@ evidence:
   - id: INS-260323-7C0E
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260322-A61A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-086D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Beyond the attention-amplification of the Streisand Effect, there is a deeper psychological mechanism at work. When people learn that an idea is being suppressed, they often infer that the idea must contain some threatening truth — otherwise, why would anyone bother to censor it?
 

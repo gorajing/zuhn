@@ -52,5 +52,15 @@ related:
   - INS-260402-7C15
   - INS-260402-D0F3
   - INS-260403-A136
+evidence:
+  - id: INS-260323-2FC3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260321-1A84
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-A136
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Schools test and rank intelligence constantly but almost entirely ignore independent-mindedness — or actively suppress it. This means people reach adulthood with well-calibrated self-assessments of intelligence but poorly calibrated assessments of their independent-mindedness. The result is a systematic inversion: conventional-minded people genuinely believe they think for themselves because it feels like they make up their own minds (it's just a coincidence their beliefs match their peers'), while independent-minded people often don't realize how different their ideas are until they state them publicly. This miscalibration has career consequences — people who are naturally conventional may choose work requiring originality, and vice versa, leading to persistent misfit and frustration.

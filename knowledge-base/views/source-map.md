@@ -143,8 +143,8 @@ Generated on 2026-04-03 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -196,10 +196,10 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
@@ -235,8 +235,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
+| 18 Lessons from Harry Stebbings That Every Founder Should Know | blog | 5 | 2026-03-30 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
 | 2023 Annual Letter | blog | 5 | 2026-03-30 |
 | 2024 Annual Letter | blog | 5 | 2026-03-30 |
@@ -295,6 +296,7 @@ Generated on 2026-04-03 | 2421 sources
 | If AI is a weapon, why don't we regulate it like one? | blog | 5 | 2026-03-30 |
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
 | Last Rights | blog | 5 | 2026-03-30 |
+| Let the Chinese cars in | blog | 5 | 2026-03-30 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
@@ -305,6 +307,7 @@ Generated on 2026-04-03 | 2421 sources
 | Quotes | blog | 5 | 2026-03-31 |
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
+| Roundup #77: The Fix-Everything Button | blog | 5 | 2026-03-30 |
 | Roundup #78: Roboliberalism | blog | 5 | 2026-03-30 |
 | Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
 | Save us, Digital Cronkite! | blog | 5 | 2026-03-30 |
@@ -312,9 +315,12 @@ Generated on 2026-04-03 | 2421 sources
 | Slightly Against The "Other People's Money" Argument Against Aid | blog | 5 | 2026-03-30 |
 | SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
+| Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save or Sink Your Company | blog | 5 | 2026-03-30 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
+| Survivorship Bias Is Killing Founders' Judgment—Here’s the Fix | blog | 5 | 2026-03-30 |
 | Taste for Makers | blog | 5 | 2026-03-31 |
+| The $100B Question: How SaaS Giants Are Rewriting the Rules of Value with AI in 2025  | blog | 5 | 2026-03-30 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
 | The $2 Trillion Founder Playbook: The Untold Story of How Larry Page Reclaimed Google | blog | 5 | 2026-03-30 |
 | The Age of the Essay | blog | 5 | 2026-03-31 |
@@ -342,7 +348,9 @@ Generated on 2026-04-03 | 2421 sources
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
+| Web3 Gaming Is An Evolution, Not A Revolution - NFX | blog | 5 | 2026-03-31 |
 | What Business Can Learn from Open Source | blog | 5 | 2026-03-31 |
+| What Great Startups Do Differently to Find Product-Market Fit | blog | 5 | 2026-03-30 |
 | What Happened With Bio Anchors? | blog | 5 | 2026-03-30 |
 | What I Worked On | blog | 5 | 2026-03-31 |
 | What Startups Are Really Like | blog | 5 | 2026-03-31 |
@@ -1490,7 +1498,6 @@ Generated on 2026-04-03 | 2421 sources
 | 153 Startups Fundraising Right Now (and Their Decks) | blog | 0 | 2026-03-30 |
 | $1.5T Bet On America, Google's AI Biology Breakthrough, And More. | blog | 0 | 2026-03-30 |
 | 16 Unicorn Pitch Decks: The Slides Before the Billions | blog | 0 | 2026-03-30 |
-| 18 Lessons from Harry Stebbings That Every Founder Should Know | blog | 0 | 2026-03-30 |
 | 2 Changes to Virtual Goods in Web3 Gaming | blog | 0 | 2026-03-31 |
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
@@ -1969,7 +1976,6 @@ Generated on 2026-04-03 | 2421 sources
 | Learning from Founders | blog | 0 | 2026-03-31 |
 | Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 0 | 2026-03-30 |
 | Lessons from 140+ angel investments | blog | 0 | 2026-03-31 |
-| Let the Chinese cars in | blog | 0 | 2026-03-30 |
 | Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
 | Let's save the human species! | blog | 0 | 2026-03-30 |
 | Life is Short | blog | 0 | 2026-03-31 |
@@ -2056,7 +2062,6 @@ Generated on 2026-04-03 | 2421 sources
 | Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank Lessons for Founders | blog | 0 | 2026-03-30 |
 | Roundup #75: Checking in on the Bad Guys | blog | 0 | 2026-03-30 |
 | Roundup #76: Great Powers acting stupid | blog | 0 | 2026-03-30 |
-| Roundup #77: The Fix-Everything Button | blog | 0 | 2026-03-30 |
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 0 | 2026-03-30 |
@@ -2103,7 +2108,6 @@ Generated on 2026-04-03 | 2421 sources
 | Startup Investing Trends | blog | 0 | 2026-03-31 |
 | Startup Location Strategy in 2025: Does It Still Matter Where You Build? | blog | 0 | 2026-03-30 |
 | Startup MIS Excel Template to Track KPIs | blog | 0 | 2026-03-30 |
-| Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save or Sink Your Company | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
 | Startup Valuation Methods: 8 Approaches Investors Use | blog | 0 | 2026-03-30 |
 | Startups in 13 Sentences | blog | 0 | 2026-03-31 |
@@ -2117,7 +2121,6 @@ Generated on 2026-04-03 | 2421 sources
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
 | Succinctness is Power | blog | 0 | 2026-03-31 |
 | Support Your Local Collaborator | blog | 0 | 2026-03-30 |
-| Survivorship Bias Is Killing Founders' Judgment—Here’s the Fix | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 0 | 2026-03-30 |
 | Tariffs Are Reshaping Global Tech Startups | blog | 0 | 2026-03-30 |
@@ -2125,7 +2128,6 @@ Generated on 2026-04-03 | 2421 sources
 | Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 0 | 2026-03-30 |
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
-| The $100B Question: How SaaS Giants Are Rewriting the Rules of Value with AI in 2025  | blog | 0 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
 | The 60-year-old code behind $5 trillion in healthcare | blog | 0 | 2026-03-30 |
 | The 9 Habits of Ultra-Fast Iterations | blog | 0 | 2026-03-31 |
@@ -2288,14 +2290,12 @@ Generated on 2026-04-03 | 2421 sources
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
 | Was Brex's Acquisition A Failure? | blog | 0 | 2026-03-30 |
 | Web 2.0 | blog | 0 | 2026-03-31 |
-| Web3 Gaming Is An Evolution, Not A Revolution - NFX | blog | 0 | 2026-03-31 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | Welcome to Chaos World | blog | 0 | 2026-03-30 |
 | What a liberal immigration enforcement policy might look like | blog | 0 | 2026-03-30 |
 | What Can Quantum Computers Actually Do | blog | 0 | 2026-03-30 |
 | What Comes Next Is Bigger Than SaaS Ever Was | blog | 0 | 2026-03-31 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
-| What Great Startups Do Differently to Find Product-Market Fit | blog | 0 | 2026-03-30 |
 | What Happened to Yahoo | blog | 0 | 2026-03-31 |
 | What happens if the world pulls its money out of America? | blog | 0 | 2026-03-30 |
 | What I Did this Summer | blog | 0 | 2026-03-31 |

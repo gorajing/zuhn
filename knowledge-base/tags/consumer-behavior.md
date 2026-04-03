@@ -3,9 +3,9 @@
 - `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260322-E7E9` When insurance rejected a BMI-34.7 patient for Ozempic coverage at $1000/month, she turned to Chinese-sourced peptides at $15/vial — the access gap is creating the gray market.
-- `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
 - `INS-260329-67D1` Letting customers choose their own quantity shifts price blame from the business to the buyer.
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
+- `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
 - `INS-260327-4D3A` Even consumers who cognitively recognize that limited drops are manufactured scarcity still experience genuine urgency a
 - `INS-260327-134F` When addictive substances are packaged in clean modern branding with lifestyle marketing, consumers perceive them as wel
 - `INS-260327-6742` Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers 

@@ -58,6 +58,12 @@ evidence:
   - id: INS-260330-1243
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-0017
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-5C69
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham framed spam as fundamentally an economic problem: spammers are businessmen who send spam because it works at ~15 responses per million at near-zero cost. Filtering 95% of spam effectively multiplies the spammer's cost-per-reached-audience by 20x, destroying their margins. More powerfully, forcing spammers to strip sales language from their pitches reduces response rates, attacking both sides of the economics simultaneously.
 

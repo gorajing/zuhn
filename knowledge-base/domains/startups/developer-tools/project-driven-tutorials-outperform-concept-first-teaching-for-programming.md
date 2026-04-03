@@ -133,6 +133,12 @@ evidence:
   - id: INS-260329-27A3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-B7FA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-7080
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 This 48-million-view tutorial demonstrates a pedagogical pattern: introduce a concept (variables), immediately build something with it (madlibs game), then layer the next concept on top. Each section follows the pattern of: explain → demonstrate → build a mini-project → extend. This creates what cognitive scientists call 'desirable difficulty' — the learner encounters each concept in a context where they need it to accomplish something they care about.
 

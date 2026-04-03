@@ -60,6 +60,12 @@ evidence:
   - id: INS-260326-80B1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-F6AA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-9EB1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Bowler identifies the preconditions that consistently produce joy: emotional availability and connection, openness to being surprised, and willingness to put down the phone and be 'experientially surprisable.' These are the direct opposite of the optimized, controlled, efficient 'machine self' that productivity culture demands.
 

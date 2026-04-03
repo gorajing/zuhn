@@ -61,6 +61,12 @@ evidence:
   - id: INS-260323-97DB
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-E695
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-7FD6
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 When Hormozi sold his gyms and invested the proceeds into his next venture, he lost everything. But he immediately generated $100,000 the following month by maxing out a credit card and applying his skills. This moment crystallized a key insight: he thought the gyms were what he'd built, but the skills were the actual asset. The gyms were a temporary vehicle; the skills were permanent and portable.
 

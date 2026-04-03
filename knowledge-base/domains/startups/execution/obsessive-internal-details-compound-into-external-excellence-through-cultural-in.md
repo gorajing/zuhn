@@ -55,5 +55,9 @@ related:
   - INS-260329-E45A
   - PRI-260328-E9B5
   - PRI-260328-0C51
+evidence:
+  - id: INS-260327-70DF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Rabois draws on Bill Walsh's philosophy from 'The Score Takes Care of Itself': Walsh took the 49ers from 2-14 to three Super Bowls, and his first act was writing a three-page memo on how receptionists should answer the phone. The logic: if the organization does everything precisely, receivers will run routes at exactly 7.5 yards instead of roughly 7 or 8 — and that precision compounds across every function. Applied to startups: food quality matters because bad food drives gossip instead of serendipitous brainstorming. Office design dictates culture (glass conference rooms eliminate paranoia, own your space to build cult-like identity). The CEO must personally handle office selection. The key insight is that this detail obsession is a cultural installation strategy — once established early, it becomes self-selecting (precision-oriented people get hired, others don't) and self-enforcing, so the CEO eventually stops needing to personally intervene.

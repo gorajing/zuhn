@@ -62,5 +62,20 @@ evidence:
   - id: INS-260320-5F14
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-24D2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-ACE6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-3A71
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-8726
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-6CB7
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Waldinger applies Shunryu Suzuki's famous teaching to relationships: beginner's mind means approaching a person you have known for years and asking 'what haven't I seen before about this person?' This brings 'freshness and openness to relationships that can otherwise easily get stale.' The principle extends beyond relationships. In any domain, accumulated expertise creates the illusion that you know what is happening, narrowing your ability to perceive novel signals. The paradox is that the more expert you become, the more actively you need to cultivate beginner's mind to remain open to surprise. The 'older I get and the more people call me an expert, the more aware I am of how little I know.'

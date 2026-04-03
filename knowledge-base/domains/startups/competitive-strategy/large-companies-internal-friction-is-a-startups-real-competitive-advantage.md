@@ -55,6 +55,10 @@ related:
   - PRI-260328-C918
   - INS-260322-BFDE
   - PRI-260328-43F1
+evidence:
+  - id: INS-260321-B7CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When an audience member asked how startups defend against big companies building the same product, Linda from Minimax — a former VC — gave a reframing that cut through the usual answers. The 'big company threat' question is not really about competition but about how deeply founders understand their own market. Large companies have massive internal friction: decision-makers distant from technology, procurement cycles, legal reviews, and organizational politics that create what she called an 'internal decay curve.'
 

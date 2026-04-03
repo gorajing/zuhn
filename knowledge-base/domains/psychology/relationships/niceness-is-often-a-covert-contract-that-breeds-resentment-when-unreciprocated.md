@@ -54,6 +54,16 @@ related:
   - INS-260327-58ED
   - INS-260328-EBBC
   - INS-260329-EBCA
+evidence:
+  - id: INS-260323-40AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-C996
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260328-EBBC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The 'nice person' often operates on implicit expectations: be nice and people will like you, accommodate you, reciprocate your efforts. When this unspoken contract is violated - someone takes advantage, doesn't reciprocate, or doesn't show sufficient gratitude - the nice person experiences profound resentment.
 

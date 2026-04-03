@@ -75,5 +75,14 @@ evidence:
   - id: INS-260323-C0BD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-8299
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-E36A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-A6DB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The Dunning-Kruger effect is not just that stupid people think they're smart. It's a bidirectional metacognitive failure: 1) Low-skill individuals lack the meta-cognitive ability to recognize their incompetence — they literally cannot see what they don't know, 2) High-skill individuals assume others share their knowledge and underestimate their own relative expertise. This creates a perverse social dynamic: the most confident voice in the room is often the least qualified, while the most qualified person is hedging and qualifying. In practical terms: if you feel certain about a complex topic, you probably don't understand it well enough. If you feel uncertain despite deep study, you're probably closer to genuine expertise than you think.

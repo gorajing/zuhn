@@ -53,6 +53,25 @@ related:
   - INS-260330-593E
   - INS-260402-8223
   - INS-260403-D64B
+evidence:
+  - id: INS-260323-9C11
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-979C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-0E57
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260328-E410
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CEE4
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-6935
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Most people who struggle with consistency misdiagnose the problem as lacking passion when the real bottleneck is frustration tolerance. Every worthwhile pursuit includes prolonged stretches of boring, painful, unrewarding work. The people who succeed aren't the ones who found work they love every day — they're the ones who learned to keep working through the periods they hated.
 

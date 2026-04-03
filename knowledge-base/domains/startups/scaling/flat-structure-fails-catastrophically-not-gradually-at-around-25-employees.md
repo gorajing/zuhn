@@ -48,5 +48,9 @@ related:
   - PRI-260328-5B61
   - INS-260323-42A7
   - INS-260330-FF9A
+evidence:
+  - id: INS-260323-42A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Altman observes that flat organizational structure is optimal for productivity under 20 employees but becomes disastrous at 30. The failure mode is binary, not gradual — what works at 20 is catastrophic at 30. This means founders can't wait for signs of trouble; they must install basic management structure (clear reporting lines, every employee knows their one manager) before it breaks. Altman emphasizes that management structure is not where to innovate — keep it simple, avoid matrix structures, and focus innovation on product and business model instead.

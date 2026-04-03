@@ -64,5 +64,11 @@ evidence:
   - id: INS-260330-FC6E
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-FEDD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-D7CD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Prof. Jewitt served on a committee evaluating all proposed asteroid deflection strategies: nuclear weapons (fragments reassemble via gravity), attached rockets (insufficient thrust over centuries), laser ablation (no lasers powerful enough), and reflective wrapping (no delivery mechanism). Every approach failed. Even city evacuation was ruled out because freeway bottlenecks make it impossible to move millions of people. The committee's conclusion: focus entirely on detection — build telescopes, catalog orbits, and identify specific threats early enough to focus all resources on them. This mirrors a pattern in business strategy: when you can't solve a problem reactively, the exponentially higher-value investment is in early detection. Startups face analogous situations where competitive threats, market shifts, or technical debt can't be addressed once they're imminent. The planetary defense lesson suggests that when response options are fundamentally limited, the rational allocation of resources shifts overwhelmingly toward monitoring and early warning rather than building response capabilities that won't work at scale.

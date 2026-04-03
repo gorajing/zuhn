@@ -57,6 +57,10 @@ related:
   - PRI-260325-7A6B
   - INS-260325-66BE
   - INS-260330-A2E7
+evidence:
+  - id: INS-260325-66BE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Alain de Botton argues that the romantic revolution of the late 18th century — the idea that individuals should choose partners by the movements of their own heart — has been a beautiful but catastrophic experiment. We are not appreciably happier than when marriages were arranged for dynastic reasons.
 

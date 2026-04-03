@@ -54,6 +54,10 @@ related:
   - INS-260328-F303
   - INS-260330-883E
   - INS-260403-6890
+evidence:
+  - id: INS-260403-6890
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham observes that startups consistently misallocate their fear budget — worrying about Google building a competitor while ignoring the far more dangerous threat of unknown startups. Big companies are slower, less motivated (one failed product won't kill Google), and burdened by bureaucracy. Another startup has all the same survival pressure you do.
 

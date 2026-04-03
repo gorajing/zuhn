@@ -62,5 +62,8 @@ evidence:
   - id: INS-260323-A494
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260323-A430
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Godin distinguishes tension from stress: stress is wanting two things you can't have (bad), tension is productive uncertainty — 'this might not work, I might get left behind, what will my friends think?' Tension is the only reason standup comedy works: blurt out the punchline before the joke and there's no laugh. Patagonia creates tension (am I the kind of person who cares about sustainability?). Taylor Swift creates tension (tickets won't be there tomorrow). An off-brand clothing company has zero tension ('you need clothes, we have clothes, cheaper') and accordingly has no pricing power. The strategic question for any brand: if it's for everyone, it's not for anybody. Seek the smallest viable audience and create tension that some people eagerly embrace and others eagerly run away from.

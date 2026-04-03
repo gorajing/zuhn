@@ -54,5 +54,8 @@ evidence:
   - id: INS-260323-AF7B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-33D4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi frames partner selection through a 'big domino' lens borrowed from business strategy: rather than executing 100 small tactical optimizations (profile photos, texting strategies, posturing), invest in becoming genuinely worthy of the partner you want. Dating hacks are fundamentally about deception and short-term impression management that collapses on a long enough timeline when the real person is revealed. The compounding returns of genuine self-improvement — fitness, career, emotional maturity, values — create authentic attraction that requires zero tactical gaming. This mirrors his business philosophy where solving one root-cause problem eliminates dozens of downstream symptoms.

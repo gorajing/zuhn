@@ -81,6 +81,9 @@ evidence:
   - id: INS-260329-5EE7
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-C881
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Ng describes how traditional supervised ML required months of data collection, training, and deployment. Generative AI can replace this with a prompt written in days and deployed in days. Applications that took top AI teams 6-12 months can now be prototyped in roughly 10 days. This enables a new development pattern: build 20 prototypes, see what sticks, discard the 18 that don't work.
 

@@ -60,6 +60,13 @@ related:
   - INS-260330-5779
   - INS-260323-849E
   - INS-260323-0827
+evidence:
+  - id: INS-260323-F5EF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-6C7F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Tyson calculated that a Cincinnati Bengals overtime field goal that bounced off the left upright and in was aided by approximately a third of an inch of rightward drift from the Coriolis force — Earth's rotation deflecting northward-moving objects to the right in the northern hemisphere. The same force that creates hurricane circulation patterns operated at football scale.
 

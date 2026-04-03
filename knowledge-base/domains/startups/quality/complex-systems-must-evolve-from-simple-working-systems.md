@@ -98,6 +98,15 @@ evidence:
   - id: INS-260327-4A10
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260325-D037
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260326-3B43
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-B8C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 John Gall's observation that 'a complex system designed from scratch never works and cannot be made to work' is one of the most consistently validated principles in engineering and organizational design. The implication is profound for builders: you must ship a simple version that actually works before layering on complexity. This contradicts the instinct to architect everything upfront.
 

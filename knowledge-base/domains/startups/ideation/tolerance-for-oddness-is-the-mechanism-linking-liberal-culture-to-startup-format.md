@@ -56,6 +56,16 @@ related:
   - INS-260325-0147
   - PRI-260328-04FA
   - PRI-260323-400D
+evidence:
+  - id: INS-260402-7C15
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-6BF4
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-0147
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham connects the observation that all high-tech US cities are liberal with a causal mechanism: most good startup ideas seem crazy initially ('Who needs a computer at home? Another search engine?'). In culturally conservative environments, social pressure filters out these ideas before they can be tested. Liberal cities don't produce startups because liberals are smarter—they produce startups because they tolerate the kind of oddball thinking that generates novel ideas.
 

@@ -53,5 +53,12 @@ related:
   - INS-260323-0961
   - INS-260323-1D46
   - INS-260330-C8D7
+evidence:
+  - id: INS-260327-684D
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-0961
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Tyson presents a thought experiment: the ~0.5% DNA difference between humans and chimpanzees produces the gap between stacking boxes to reach a banana and deriving black hole physics. Now imagine an alien species just 5% further along that same intelligence vector. Our smartest human — Stephen Hawking deriving theories — would look to them like a toddler completing a simple task. Their simplest ideas would transcend our greatest capacity to comprehend, just as 'Do you want coffee from Starbucks?' is incomprehensible to a chimp despite being our simplest daily sentence. This has profound implications for SETI (which assumes aliens would want to communicate with us) and for how we think about AI capability thresholds: small quantitative improvements in cognitive capacity can produce qualitative leaps that look like magic from below the threshold.

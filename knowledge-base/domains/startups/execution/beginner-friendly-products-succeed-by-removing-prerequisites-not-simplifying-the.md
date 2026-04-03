@@ -69,6 +69,9 @@ evidence:
   - id: INS-260329-B7F5
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260322-32E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 With 7.6 million views, Python for Everybody is one of the most successful programming courses ever created. Its success isn't from dumbing down Python — Dr. Chuck teaches real concepts including object-oriented programming, regular expressions, SQL databases, and web APIs. Instead, it succeeds by systematically eliminating every barrier that stops beginners before they reach the actual content: no assumed math background, no command-line prerequisites, no CS degree jargon, and a tone that normalizes confusion.
 

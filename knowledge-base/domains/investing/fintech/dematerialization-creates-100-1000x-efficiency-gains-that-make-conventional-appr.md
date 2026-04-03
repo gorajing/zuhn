@@ -97,5 +97,8 @@ evidence:
   - id: INS-260329-9C20
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-E89A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Saylor distinguishes two waves of digital transformation: (1) Digital information — dematerializing books, music, maps, education into bits that can be delivered to billions at near-zero marginal cost. Carnegie spent his entire fortune building libraries; today a better library can be given to every 6-year-old for free. His Saylor Academy provides MIT-quality physics lectures to over a million students worldwide at zero cost. He argues the US government could provide 100x more education at 1/100th the cost by shifting 1% of the Department of Education budget to digital delivery. (2) Digital energy — Bitcoin represents the dematerialization of monetary energy itself. A human can produce about 1 kilowatt-hour per day of physical labor, worth $0.11 retail. Putting $100K in a house in 1930 yielded 305x returns over 92 years; putting it in currency yielded a 99.7% loss. The insight is that dematerialization doesn't just improve things incrementally — it creates entirely new possibility spaces. A dematerialized map doesn't just show roads; it incorporates real-time telemetry, restaurant reviews, and eventually drives your car. Each layer of dematerialization compounds into something qualitatively different from the original.

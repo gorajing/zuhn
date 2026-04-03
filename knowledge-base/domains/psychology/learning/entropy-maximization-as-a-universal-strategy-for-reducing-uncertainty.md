@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-55D8
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-508D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In Wordle, guessing a word with uncommon letters like W feels great when it hits, but the expected information is lower because hits are rare. The mathematically optimal strategy is to maximize entropy — the expected bits of information across all possible outcomes. This principle generalizes beyond word games: when navigating any uncertain space (debugging, research, hiring), choose actions that reduce uncertainty most on average, not actions that would be most satisfying if they happened to work. A flat distribution of possible outcomes (where no single result dominates) indicates high entropy and therefore a high-quality exploratory action.
 

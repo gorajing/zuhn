@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-5901
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-003B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 
 The Smol Training Playbook from HuggingFace's pre-training team --

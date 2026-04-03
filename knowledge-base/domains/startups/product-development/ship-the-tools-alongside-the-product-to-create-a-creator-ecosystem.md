@@ -52,8 +52,8 @@ related:
   - PRI-260328-FD47
   - INS-260327-99DB
   - INS-260330-0B50
+  - INS-260403-57E7
   - PRI-260328-9C71
-  - PRI-260328-82BE
   - INS-260323-C5D3
 stance: >-
   Sweeney shipped the game editor alongside ZZT, empowering players to become

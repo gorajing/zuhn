@@ -54,6 +54,13 @@ related:
   - INS-260330-9751
   - INS-260330-217C
   - INS-260330-C31B
+evidence:
+  - id: INS-260323-7E6F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C31B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The F-14 chief engineer's formula ('gather a tight group of people, give them very little money, and very little time') echoes across the collection: Ford's obsession with value ('the public should always be wondering how it is possible to give so much for the money'), Bentley and McIlroy's 'the key to performance is elegance, not battalions of special cases', and Steve Jobs' 'focusing is about saying no.'
 

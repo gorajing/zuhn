@@ -62,6 +62,12 @@ evidence:
   - id: INS-260330-DA38
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-7C3A
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-976E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Klaas makes a fundamental distinction between control and influence. Control implies predictable outcomes from our actions. Influence means our actions matter enormously but in ways we cannot predict or direct. Kids kicking a soccer ball off a cliff 80 miles away saved a drowning man 10 days later. One person infected with COVID changed the trajectory of 8 billion lives.
 

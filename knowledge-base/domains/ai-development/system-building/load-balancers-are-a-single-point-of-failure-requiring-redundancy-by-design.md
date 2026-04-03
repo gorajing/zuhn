@@ -68,6 +68,9 @@ evidence:
   - id: INS-260329-D8F2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-8011
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Load balancers solve traffic distribution across servers but introduce an ironic vulnerability: they become the single point of failure for the entire system. When a load balancer goes down, all servers behind it become unreachable to clients, regardless of how healthy those servers are. This makes the load balancer the highest-priority component for redundancy.
 

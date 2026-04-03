@@ -60,5 +60,8 @@ evidence:
   - id: INS-260327-165D
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-FEB7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Ross's mood tracker idea came from a TikTok-viral app (How We Feel) that got Apple Editor's Choice and 23K ratings. The non-obvious insight is that a TikTok viral moment for an app provides three data points at once: (1) proven user demand for the concept, (2) a working hook sentence you can adapt for your own TikTok marketing, and (3) evidence that the App Store category has room for new entrants. A bootcamp student saw a TikTok about organizing saved cooking videos and built an app that got 2.8M views and 10K downloads. The strategy collapses market research, competitive analysis, and go-to-market planning into a single activity — watching what goes viral on TikTok in your target category.

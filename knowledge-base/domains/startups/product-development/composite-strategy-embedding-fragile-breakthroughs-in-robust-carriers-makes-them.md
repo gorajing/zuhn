@@ -54,5 +54,12 @@ related:
   - INS-260330-8F0F
   - INS-260330-8BA6
   - INS-260330-85AA
+evidence:
+  - id: INS-260330-85AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-8BA6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Pure silica aerogel is the world's lightest solid with thermal conductivity 2-3x better than styrofoam, but it shatters with minimal force. Rather than trying to make aerogel itself less fragile (which would compromise its insulating properties), scientists embedded aerogel particles into fiberglass composites. The result trades some thermal performance (from 15 to 20-26 mW/m·K) for enormous gains in practicality — it can be wrapped around pipelines, sewn into suits, and handled without breaking. This maps directly to product development: breakthrough technologies often fail not because they don't work, but because they're too fragile for real-world use. The winning strategy is usually to composite your breakthrough with established, robust delivery mechanisms rather than perfecting the breakthrough in isolation. Accept the trade-off between peak performance and practical usability.

@@ -56,6 +56,13 @@ related:
   - INS-260330-C8D7
   - INS-260330-CAD2
   - INS-260330-B8CC
+evidence:
+  - id: INS-260402-CF0A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-B8CC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Arthur C. Clarke's observation that sufficiently advanced technology is indistinguishable from magic has a darker corollary: sufficiently advanced technology creates the same social dynamics as perceived divine power. When users can't understand how their tools work, they develop relationship patterns of faith, dependence, and deference identical to religious dynamics.
 

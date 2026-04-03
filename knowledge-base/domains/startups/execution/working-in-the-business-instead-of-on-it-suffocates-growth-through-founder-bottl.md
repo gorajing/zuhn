@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-E0D5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-9BFD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hagger distinguishes between good and great founders: good founders build products, great founders build missions that others adopt as their own. Working IN the business means trying to control every function — which creates a bottleneck at the founder and 'sucks the energy from everyone in the company.'
 

@@ -54,5 +54,18 @@ related:
   - INS-260403-41BC
   - INS-260323-0961
   - INS-260403-2702
+evidence:
+  - id: INS-260321-F864
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260320-5F14
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-4C94
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-0961
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham proposes that wisdom and intelligence are best understood not as separate abilities but as different shapes of the same performance curve. If you plot situations on the x-axis and quality of decisions on the y-axis, a wise person has a high average while a smart person has dramatic peaks. This reframes the ancient wisdom-vs-intelligence debate: you judge intelligence at its best and wisdom by its average. The model elegantly explains why smart people are often unwise (optimizing for peaks sacrifices average) and why wise people may not seem brilliant (high average doesn't require spikes). It also explains why ancient thinkers conflated the two—when the number of situations was small, average and peak naturally converged.

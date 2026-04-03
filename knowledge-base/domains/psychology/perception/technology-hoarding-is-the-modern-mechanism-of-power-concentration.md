@@ -61,6 +61,12 @@ evidence:
   - id: INS-260323-03F4
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-BC61
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-23CD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Zelazny's Lord of Light depicted original colonists using technology hoarding to establish themselves as gods over later generations. The parallel to modern tech concentration is direct: AI capabilities concentrated in a few companies, data access restricted by platforms, algorithmic power wielded without transparency.
 

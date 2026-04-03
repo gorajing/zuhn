@@ -63,6 +63,9 @@ evidence:
   - id: INS-260321-8433
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-DE89
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Atul Gawande, a surgeon and author of 'The Checklist Manifesto,' describes hitting a mid-career plateau around 10-12 years into practice. Despite assiduously tracking his surgical complications, improvements had flatlined. He invited a former professor to observe him during a thyroidectomy he considered excellent.
 

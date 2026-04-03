@@ -73,6 +73,9 @@ evidence:
   - id: INS-260330-255F
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260325-1EAC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 This challenges the canonical product development advice. The argument: AI capabilities are advancing so fast that customers can't imagine what's possible. Starting with customer needs leads to incremental improvements on existing workflows. Starting with capabilities leads to entirely new categories of products.
 

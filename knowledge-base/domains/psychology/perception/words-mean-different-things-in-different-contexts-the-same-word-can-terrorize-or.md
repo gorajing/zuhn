@@ -60,6 +60,10 @@ related:
 stance: >-
   The N-word demonstrates that identical words carry radically different
   meanings in different contexts
+evidence:
+  - id: INS-260330-B65B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Kennedy makes a rigorous case that words do not have fixed meanings independent of context. The same word used by a white supremacist to terrorize, by Dick Gregory to hold up a mirror to society, by Richard Pryor for comedic brilliance, and by a law professor reading a court opinion, carries fundamentally different meanings and moral weight.
 

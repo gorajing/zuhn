@@ -58,5 +58,11 @@ evidence:
   - id: INS-260327-C69F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-E0B0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-3D14
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Sam Harris describes a deliberate triage approach to navigating political disagreement: some relationships are simply too important to sacrifice to politics, and you know that going in. This creates a clear boundary — you stop short of the conversation-ending point and redirect. However, he draws a sharp distinction for people with public platforms doing demonstrable harm — there, the ethical responsibility shifts and the relationship becomes secondary to the civic consequences. The key insight is that this isn't avoidance or weakness — it's a conscious decision about where political disagreement is and isn't worth the cost. You pre-commit to the relationship's primacy before the heat of the argument, which prevents emotional escalation from destroying something you value more than being right.

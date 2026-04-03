@@ -54,6 +54,16 @@ related:
   - INS-260403-3F9C
   - INS-260329-047C
   - INS-260323-B426
+evidence:
+  - id: INS-260329-EFA8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-3F9C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-B426
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Graham identifies a specific temporal window when geographic environment has maximum impact on career trajectory. College students exist in a sufficiently rich micro-environment of a few thousand people, and late-career people have already found their problems and peers. The critical phase is the transition after formal education when you face the hardest challenge: discovering what problems to work on.
 

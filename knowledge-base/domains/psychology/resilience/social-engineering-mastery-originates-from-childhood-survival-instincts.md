@@ -56,6 +56,10 @@ related:
   - PRI-260323-50FE
   - PRI-260328-22EC
   - INS-260325-031F
+evidence:
+  - id: INS-260325-031F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Brett Johnson describes becoming a social engineer as a child out of pure survival necessity — he had to know exactly what the abusive adults in his environment were thinking and manipulate their behavior to protect himself. He observes this same pattern across many expert cybercriminals: they develop extraordinary empathy and people-reading skills as children, then later weaponize those same skills to victimize others.
 

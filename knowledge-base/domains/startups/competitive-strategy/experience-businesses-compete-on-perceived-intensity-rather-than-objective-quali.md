@@ -46,6 +46,10 @@ related:
   - INS-260323-979C
   - INS-260327-F405
   - INS-260327-9924
+evidence:
+  - id: INS-260323-1930
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objective quality metrics, making marketing and reputation critical.
 

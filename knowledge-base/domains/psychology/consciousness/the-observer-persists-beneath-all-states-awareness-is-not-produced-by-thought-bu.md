@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-0961
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-206B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The video maps a progression from waking consciousness (where most people stop) through transcendental consciousness (pure awareness aware of itself), cosmic consciousness (the witness persists even during daily activity), and beyond. In each deeper level, something drops away — thoughts, the sense of separate self, the boundary between observer and observed — yet awareness itself remains.
 

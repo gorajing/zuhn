@@ -69,6 +69,10 @@ related:
   - PRI-260328-95E3
   - INS-260329-C0F1
   - INS-260325-FDF5
+evidence:
+  - id: INS-260325-FDF5
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Sudheesh proposes four universal buyer archetypes that transcend specific titles. Gatekeepers (InfoSec, compliance) are measured on protecting the business — they buy efficiency (doing the same thing at lower cost), not new capabilities. Business users (revenue drivers, customer support) are directly responsible for moving the business needle — they can find new dollars if you demonstrate productivity or ROI gains. Enablers (HR, IT) make others productive — they value learning and improvement above all. Leaders (2-3 levels from frontline) are measured on growth — they care about efficiency in the denominator.
 

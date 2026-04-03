@@ -66,5 +66,8 @@ evidence:
   - id: INS-260325-05EC
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260329-FEBA
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Professor Xu defines two AI integration patterns. Deep AI: a single prompt triggers a complex multi-step execution (like booking a flight end-to-end). Shallow AI: humans maintain the structural workflow but AI assists at each step (formatting data, making recommendations). Deep AI is more impressive but expensive and less reliable. Shallow AI is cheaper, more controllable, and already massively valuable — AI as data format lubricant alone is mind-blowingly convenient. For startups, this framework clarifies the build: if your task requires reliability and auditability, shallow AI with structured workflows wins. If the task is creative and error-tolerant, deep AI unlocks more value.

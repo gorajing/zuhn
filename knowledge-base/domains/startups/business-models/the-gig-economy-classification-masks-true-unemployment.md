@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-A70C
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260327-3A81
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 A person who loses their corporate job and starts driving Uber the next week appears in three positive economic statistics simultaneously: they reduce official unemployment, they increase new business formation, and they add to labor force participation. None of these reflect their actual economic situation, which may be significantly worse than before.
 

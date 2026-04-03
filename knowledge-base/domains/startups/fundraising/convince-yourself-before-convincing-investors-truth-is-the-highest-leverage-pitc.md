@@ -53,6 +53,13 @@ related:
   - INS-260330-0E49
   - INS-260330-AF47
   - INS-260330-6A3A
+evidence:
+  - id: INS-260330-AF47
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-6A3A
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Most founders approach fundraising as a presentation problem — how to make the best case regardless of substance. Paul Graham argues this is backwards. The real work is convincing yourself, through genuine domain-expert evaluation, that your startup is worth investing in. Once you've done that, explaining it to investors becomes straightforward because you're telling the truth, and truth produces natural confidence that investors can sense.
 

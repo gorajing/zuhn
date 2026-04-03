@@ -6,6 +6,8 @@
 - `INS-260327-8DC5` If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives.
+- `INS-260327-D77C` The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
+- `INS-260330-C548` Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260330-CC9E` Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
 - `INS-260329-5B3D` Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
@@ -15,8 +17,6 @@
 - `INS-260330-6D2E` Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
 - `INS-260329-1B2A` Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
 - `INS-260329-28A6` You don't need to 'become' a certain person before acting — identity is just the trailing indicator of repeated behavior.
-- `INS-260327-D77C` The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
-- `INS-260330-C548` Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.
 - `INS-260330-B5BF` Your most authentic purpose signals come from pre-puberty childhood inclinations before social conditioning buried them.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260330-C451` People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.

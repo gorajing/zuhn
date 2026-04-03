@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-5E67
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260325-75A3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Traditional directed evolution randomly mutates capsid sequences and screens huge libraries, but roughly 80% of single changes break the most essential function (assembly and packaging). Multi-mutation improvements are exponentially harder to find randomly. Dyno's approach uses DNA multiplexing to test 100,000 to 1,000,000 capsid variants in a single animal experiment, generating petabytes of data about which sequences work in which tissues.
 

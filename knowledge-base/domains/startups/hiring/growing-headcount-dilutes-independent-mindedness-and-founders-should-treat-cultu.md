@@ -50,5 +50,15 @@ related:
   - INS-260323-244C
   - INS-260327-DAE5
   - INS-260330-3C2F
+evidence:
+  - id: INS-260403-FE91
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260403-41BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-3C2F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 As startups grow, the ratio of independent-minded to conventional-minded employees inevitably shifts because conventional thinkers vastly outnumber independent ones in the general population. This dilution creates the paradox where founders can speak more freely with founders of other companies than with their own employees. Graham suggests three mitigations: consciously hiring only independent-minded people, creating structural policies that disrupt conformism (like Lockheed's Skunk Works physical separation), or most radically, growing revenue without growing headcount through automation and outsourcing non-core work. The implication is that the 'cheap' junior hire's real cost includes their effect on the average level of independent-mindedness in the company.

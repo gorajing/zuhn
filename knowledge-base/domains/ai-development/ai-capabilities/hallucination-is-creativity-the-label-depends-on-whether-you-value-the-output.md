@@ -78,6 +78,12 @@ evidence:
   - id: INS-260327-6EFB
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-125E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-B0AB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Andreessen shares a revealing anecdote: his firm assumed law firms would want maximally truthful LLMs to avoid fake citations. Instead, the law firm wanted creative mode for generating novel legal arguments and case theories — they'd cross-check citations manually. The insight is that hallucination and creativity are the same underlying capability; the label depends on context.
 

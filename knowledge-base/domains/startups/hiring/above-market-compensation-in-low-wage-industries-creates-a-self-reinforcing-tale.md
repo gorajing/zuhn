@@ -56,6 +56,10 @@ related:
   - INS-260327-2430
   - INS-260323-FE69
   - INS-260327-2608
+evidence:
+  - id: INS-260323-FE69
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 In-N-Out's compensation strategy inverts fast-food industry norms. All employees — even part-time — receive 401k plans, dental/vision coverage, and paid vacation. Managers average $160,000/year, with some exceeding $250,000 for a single location. The result is 14-year average tenure in an industry where annual turnover typically exceeds 150%.
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3043 actionable insights
+Generated on 2026-04-03 | 3044 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -3070,6 +3070,7 @@ Generated on 2026-04-03 | 3043 actionable insights
 - [INS-260330-47CF] Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
 - [INS-260330-A69C] Hire only when someone can do something you need done but can't do yourself — never hire to fill an org chart or seem impressive.
 - [INS-260403-20BF] A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
+- [INS-260403-DC6E] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.

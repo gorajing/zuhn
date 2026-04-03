@@ -53,6 +53,13 @@ related:
   - INS-260402-9093
   - INS-260322-116B
   - PRI-260328-E870
+evidence:
+  - id: INS-260329-F21F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260322-116B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Haseeb articulates a pattern across generations: poker, fantasy sports, crypto, DeFi liquidity mining, NFT trading — each was a domain where smart, aggressive people who weren't afraid of looking dumb could make outsized returns. The key insight is that these opportunities have a lifecycle: they start subversive (parents raise eyebrows), attract hungry early movers, then professionalize until the alpha disappears, at which point the next weird thing emerges.
 

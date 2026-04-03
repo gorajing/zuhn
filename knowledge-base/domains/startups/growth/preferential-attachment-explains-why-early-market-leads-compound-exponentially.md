@@ -64,6 +64,12 @@ evidence:
   - id: INS-260330-E794
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260325-88DF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-8A0C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The paperclip experiment demonstrates preferential attachment elegantly: randomly linking paperclips naturally produces Zipf-ian distributions where a few chains contain most of the clips. No deliberate choice is needed — larger chains simply have higher surface area for being selected again. This maps directly to startup dynamics: more users attract more users (network effects), more views trigger algorithmic recommendation (attention compounding), more revenue enables more investment (capital compounding).
 

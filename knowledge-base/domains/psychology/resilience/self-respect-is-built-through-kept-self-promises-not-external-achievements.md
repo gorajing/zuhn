@@ -55,6 +55,13 @@ related:
   - INS-260326-C692
   - INS-260327-CD49
   - INS-260330-24E0
+evidence:
+  - id: INS-260326-C692
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-24E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 External reputation damage is visible and socially reinforced, but the most consequential reputation to lose is the one you hold with yourself. Every time you commit to an action — an extra gym session, more cold calls, a higher-quality deliverable — and then renege, you erode self-trust. Unlike external observers, you have perfect information about how hard you could have pushed.
 

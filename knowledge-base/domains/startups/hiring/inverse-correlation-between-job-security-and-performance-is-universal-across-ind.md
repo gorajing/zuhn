@@ -58,6 +58,13 @@ related:
   - INS-260323-F2C3
   - INS-260325-502D
   - INS-260327-F6B2
+evidence:
+  - id: INS-260326-6870
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-F2C3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham identifies a universal pattern: actors, directors, junior professors, and professional athletes — all of whom can be fired easily — consistently deliver high performance. Auto workers, civil servants, and tenured schoolteachers — who are nearly impossible to fire — do not. This inverse correlation between security and performance is so clear he argues you'd have to be willfully blind to miss it.
 

@@ -53,5 +53,12 @@ related:
   - INS-260327-1B09
   - INS-260329-C472
   - INS-260330-14CA
+evidence:
+  - id: INS-260327-B5C9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-14CA
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a structural coupling between blame and power: saying 'I can't succeed because of X' literally makes X the controller of your success. This isn't just motivational rhetoric — it's a feedback loop. The more evidence you gather that X is holding you back, the more confirmed you feel, but the more powerless you become. The only way to reclaim agency is the two words 'my fault,' which relocates the source of power back to yourself. Hormozi experienced this personally when writing a college essay about his mother's perspective — by understanding her circumstances, he stopped giving her power over his relationships and emotional life. The practical test: can you find a single instance where blaming something external made you better? The answer is always no, because blame is fundamentally incompatible with improvement.

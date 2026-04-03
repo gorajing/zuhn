@@ -56,6 +56,10 @@ related:
 stance: >-
   Carlson initially tried to control his Putin interview, then realized that
   letting the subject talk freely
+evidence:
+  - id: INS-260330-568F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Carlson describes a pivot mid-interview with Putin: he started by trying not to 'get rolled,' interrupting Putin's history lecture. Then he realized 'I'm not here to prove I'm a great interviewer -- I want to know who this guy is.' By letting Putin talk freely, even through what seemed like a tiresome history recitation, Carlson got the actual answer: Putin's worldview, his framework, his reasoning.
 

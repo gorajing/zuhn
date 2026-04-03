@@ -72,6 +72,10 @@ related:
   - PRI-260328-37F3
   - INS-260402-DCC5
   - INS-260330-BC21
+evidence:
+  - id: INS-260327-6188
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Sudheesh challenges one of sales' most sacred axioms: 'sell painkillers, not vitamins.' He points out the US painkiller market is ~$7B while vitamins are ~$36B and candy is ~$70-80B. The axiom is reductive.
 

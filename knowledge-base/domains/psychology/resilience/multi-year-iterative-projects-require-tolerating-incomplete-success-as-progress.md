@@ -58,5 +58,8 @@ evidence:
   - id: INS-260320-7682
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-8BF6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The team worked for years on this project, achieved bullet-on-bullet collisions relatively quickly, but never achieved full fusion of two bullets. Yet the near-fusion (a 22-gram fused mass from two 14-gram bullets) and the discovery that the aluminum wallet may have slowed bullets enough to partially fuse taught them more about the physics than a clean success would have. Destin explicitly says 'this is not over' and 'we have ideas.' The psychological pattern here is that ambitious projects rarely deliver the exact outcome you planned, but the iterative failures create a richer understanding than success would. This maps to startup pivots, research programs, and creative work — the willingness to declare 'it doesn't count' on a partial success while still extracting the learning is a hallmark of genuine practitioners vs. people optimizing for narrative.

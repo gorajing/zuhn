@@ -72,6 +72,12 @@ evidence:
   - id: INS-260330-912C
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-F5D1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-72BD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Catherine the Great expanded Russia to its greatest territorial extent: conquering Crimea, partitioning Poland, pushing into Central Asia. But the domestic institutions remained fundamentally medieval: serfdom, autocratic governance, limited industrialization, and an agrarian economy. The result was a vast empire held together by force rather than institutional cohesion — impressive from the outside but structurally fragile.
 

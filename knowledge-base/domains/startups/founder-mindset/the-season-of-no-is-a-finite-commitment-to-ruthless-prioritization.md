@@ -50,6 +50,13 @@ related:
   - INS-260322-F128
   - INS-260330-7A80
   - INS-260323-A700
+evidence:
+  - id: INS-260327-B410
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-7A80
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi introduces the concept of a 'season of no' — not a permanent lifestyle change, but a finite period where you say no to everything that isn't the single priority. This framing matters psychologically: telling yourself 'this is just for right now' makes extreme focus sustainable in a way that 'I must always be disciplined' does not.
 

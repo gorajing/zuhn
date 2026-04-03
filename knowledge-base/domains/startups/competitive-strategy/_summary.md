@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 390 insights
+> 391 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -148,6 +148,7 @@
 - `INS-260327-26CF` [high] Products that gain market share through implied health benefits face consumer backlash when scrutiny reveals the health 
 - `INS-260402-E60E` [high] For most of human history, the fastest way to get rich was stealing — wealth creation as the dominant path only emerged with the Industrial Revolution.
 - `INS-260330-B284` [high] Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
+- `INS-260403-F519` [high] The best web3 gaming teams pair experienced web2 game designers with blockchain-native engineers, rather than building teams of pure crypto specialists.
 - `INS-260327-FC6F` [high] There is no moat in AI — the best defense is offense, constantly innovating and pushing out new products faster than anyone else.
 - `INS-260324-8C6F` [high] In LA's saturated taco market, the winning strategy isn't being the best — it's being the best for your specific neighborhood by showing up at the same spot, same time, rain or shine, year after year.
 - `INS-260330-F0F2` [high] Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.

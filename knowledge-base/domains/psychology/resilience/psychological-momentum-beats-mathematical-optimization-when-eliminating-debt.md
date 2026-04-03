@@ -54,6 +54,13 @@ related:
   - INS-260329-B1D0
   - PRI-260328-FD90
   - INS-260325-0688
+evidence:
+  - id: INS-260327-0519
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-0688
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi explicitly recommends paying debts in reverse order of payoff speed rather than interest rate, despite acknowledging the math favors the opposite. His reasoning: 'You've been dealing with all three of them for years — get a win faster.' The quick psychological payoff of eliminating a balance entirely reinforces the saving behavior.
 

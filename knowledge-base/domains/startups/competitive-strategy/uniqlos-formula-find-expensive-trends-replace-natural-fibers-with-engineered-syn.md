@@ -63,5 +63,8 @@ evidence:
   - id: INS-260327-2EFD
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-45BD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 UNIQLO's breakthrough was a low-cost synthetic fleece in the late 1990s during Japan's lost decade. The formula: identify 'latent consumer needs' (trending items priced out of mass market), replace natural fibers with synthetic for lower cost, but add enough design tweaks to differentiate on quality. Sales doubled then quadrupled. The key distinction from H&M and Zara: UNIQLO competes on engineered basics (HeatTech, AIRism) rather than chasing fashion trends. This produced Japan's richest person. Every company goes through 3 stages: surviving, scaling, sustaining — UNIQLO spent 1990-2004 in survival, focused on $1B domestic revenue before going international.

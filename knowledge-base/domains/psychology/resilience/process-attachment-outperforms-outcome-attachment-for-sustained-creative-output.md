@@ -61,5 +61,26 @@ evidence:
   - id: INS-260322-81CD
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260322-4B63
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260320-A467
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260320-446F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-E263
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260320-A1D3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-127F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-E089
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a specific psychological trap: creators who monitor metrics daily experience a motivational death spiral when numbers don't grow fast enough. The antidote is process attachment—finding satisfaction in the daily act of creating regardless of results. This maps directly to research on intrinsic vs. extrinsic motivation: extrinsic motivators (follower counts, views) produce fragile motivation that collapses under disappointment, while intrinsic motivators (enjoying the craft) sustain effort through plateaus. The practical application is designing your content workflow so the creation process itself is rewarding, not just the publishing-and-checking-metrics loop.

@@ -58,6 +58,22 @@ related:
   - INS-260330-7819
   - INS-260327-7F11
   - INS-260330-CDE1
+evidence:
+  - id: INS-260322-F609
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-B387
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-7819
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-7F11
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-CDE1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Peterson argues that the primary mechanism of corruption through fame is the elimination of honest feedback. When people stop pushing back against you — laughing at all your jokes, opening all your doors, always wanting something — you lose the social friction that forces continuous self-improvement. He compares this to biological systems where the balance between growth and death (apoptosis) is essential; without proper 'dying' of bad ideas through honest criticism, tyrannical patterns grow unchecked like cancer.
 

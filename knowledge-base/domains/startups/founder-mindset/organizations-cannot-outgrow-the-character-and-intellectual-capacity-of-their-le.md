@@ -75,5 +75,8 @@ evidence:
   - id: INS-260330-A1AF
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-8BFF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Dave Ramsey identifies his key growth inflection point not as a product launch or market shift, but as a personal intellectual upgrade. Coming from a sales and real estate background, he was purely tactical — 'just run into the wall enough times and it will fall down.' Hiring MBAs created a symbiotic exchange: they taught strategic thinking (seeing the maze from above) while he taught execution intensity. This mirrors Jim Collins' concept of 'calibrated cannonballs' — combining the energy of hustle with the precision of strategy. The practical lesson for founders is that 'the organization won't outgrow the leader' means you must systematically identify and fill your own competency gaps, not just hire around them. The leader still needs to understand strategy even if others execute it.

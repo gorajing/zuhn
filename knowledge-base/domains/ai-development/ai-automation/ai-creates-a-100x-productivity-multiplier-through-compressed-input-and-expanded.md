@@ -71,5 +71,8 @@ evidence:
   - id: INS-260330-696D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-4935
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi frames AI productivity as a two-sided multiplier: on the input side, AI summarizes books, emails, and Slack messages so you consume information 10x faster. On the output side, AI predicts and drafts your responses, generating work product 10x faster. The compound effect is roughly 100x. This framework is useful because it separates the two distinct leverage points — information consumption and content production — and shows that maximizing both simultaneously creates exponential rather than linear gains. The practical application is to treat AI as a filter layer for all information you consume and all output you produce, not just one or the other.

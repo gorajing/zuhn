@@ -66,6 +66,9 @@ evidence:
   - id: INS-260327-540D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-DA91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Altman identifies three distinct structural advantages of mission-driven founding beyond mere motivation. First, founder persistence: startups take ~10 years, and without genuine belief in the mission, founders give up during the inevitable painful stretches. Second, team intensity: achieving the extreme focus and productivity startups require is nearly impossible without a compelling mission — derivative companies can't generate enough psychic energy. Third, external support: outsiders (advisors, investors, press, potential hires) are more willing to help with hard, important problems than derivative ones.
 

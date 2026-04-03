@@ -60,5 +60,11 @@ evidence:
   - id: INS-260329-2B52
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-2B94
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-6B95
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Philip tells new PMs: you are the CEO of your product (accountable for outcomes) but also the janitor (willing to do whatever unglamorous work needs doing). In startups, there are always gaps between defined roles where work falls through the cracks. The best PMs and founders notice these gaps and fill them proactively. This extends his personal philosophy of noticing the big picture, seeing where there is a need, and jumping in whether invited or not. Product management at a startup is about understanding the big picture, identifying obstacles, and removing them — however unglamorous the removal method.

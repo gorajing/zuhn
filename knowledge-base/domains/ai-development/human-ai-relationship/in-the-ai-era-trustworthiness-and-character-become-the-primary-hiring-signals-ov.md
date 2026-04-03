@@ -77,6 +77,60 @@ evidence:
   - id: INS-260323-D41A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-3C96
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-D8A9
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-63BA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1C90
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-E126
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-25A8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-AC36
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-3CFB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-26E7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-1282
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-FA62
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-A69C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-6405
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-02DF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-4C93
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-2608
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-9863
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-B87D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Po-Shen Loh describes his own hiring philosophy: when he meets someone with great intention and great learning capacity, he doesn't look for a specific role — he just finds a place for them. Conversely, he explicitly avoids hiring people trained for one particular task because 'one or two more years, I can use AI to do that task and it'll be way cheaper.'
 

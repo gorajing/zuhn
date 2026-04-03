@@ -55,6 +55,16 @@ related:
 stance: >-
   The strongest relationships Sexton has seen are where partners are each
   other's unconditional advocates
+evidence:
+  - id: INS-260325-9B73
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-E0B0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-A4B1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 After seeing thousands of marriages from the inside, Sexton identifies the pattern that distinguishes lasting relationships: the partners are 'thickest thieves' who never publicly criticize each other. Culture encourages the opposite — the eye-rolling wife, the castrated husband tropes — and this normalization of partner-bashing is toxic.
 

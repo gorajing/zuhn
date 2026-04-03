@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-CA88
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260330-2EB0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Muhammad's community explicitly replaced tribal identity with religious identity — the umma. This was radical because Arabian society was intensely tribal, and tribal loyalty was the primary social organizing principle. By making the umma trump all other ties, Islam created a single in-group that could absorb members from any tribe, ethnicity, or geography.
 

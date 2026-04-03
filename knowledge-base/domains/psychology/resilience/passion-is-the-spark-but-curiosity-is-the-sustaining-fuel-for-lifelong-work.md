@@ -58,6 +58,10 @@ related:
   - INS-260330-FEDD
   - INS-260330-3B05
   - INS-260330-E03A
+evidence:
+  - id: INS-260325-D624
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Keating draws a sharp distinction between passion and curiosity as motivational forces. Passion is like the spark that ignites a rocket — exciting and necessary but ephemeral. It's the dopamine hit of imagining a Nobel Prize or a breakthrough discovery. But passion alone cannot sustain the decades of tedious work — soldering equipment, managing logistics, dealing with bureaucracy — that scientific (or entrepreneurial) achievement requires.
 

@@ -82,6 +82,9 @@ evidence:
   - id: INS-260330-2C97
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-47E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Angular requires TypeScript, enforces a module system, splits components into three files, and provides the most powerful CLI for code generation. This upfront rigidity is why Angular dominates enterprise adoption — every Angular project looks structurally similar, making onboarding and code review predictable. React's minimal design philosophy requires teams to make dozens of architectural decisions (state management, routing, file structure) that Angular makes for you.
 

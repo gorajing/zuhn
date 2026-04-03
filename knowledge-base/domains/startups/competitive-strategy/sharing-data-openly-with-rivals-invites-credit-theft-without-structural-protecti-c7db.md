@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-BA13
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-8D12
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Rosalind Franklin's Photo 51 — the X-ray diffraction image that revealed DNA's helical structure — was shown to Watson by Maurice Wilkins without Franklin's consent. Watson and Crick used this critical data to build their double helix model and won the Nobel Prize. Franklin died in 1958 and was never credited in the award.
 

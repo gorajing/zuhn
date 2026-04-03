@@ -91,6 +91,9 @@ evidence:
   - id: INS-260330-6A65
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-FE91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 For nearly 200 years, physicists treated potentials as convenient mathematical tools — scaffolding that simplified calculations but had no physical reality of its own. The field (force) was real; the potential was just a trick. Then Aharonov and Bohm showed that electrons could be influenced by a potential even in regions where all fields were exactly zero. Feynman later wrote: 'A is as real as B, realer, whatever that means.'
 

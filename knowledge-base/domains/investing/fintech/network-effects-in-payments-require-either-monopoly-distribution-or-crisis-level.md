@@ -87,6 +87,9 @@ evidence:
   - id: INS-260330-D071
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-0525
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The hard part of mobile payments isn't building the app — it's hitting critical mass. The US market illustrates this perfectly: Chase Pay, Google Pay, Square Wallet, PayPal, Apple Cash, Cash App, Zelle, and Venmo all compete for the same users, and none can achieve universal adoption because existing payment infrastructure is 'good enough.'
 

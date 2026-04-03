@@ -60,6 +60,12 @@ evidence:
   - id: INS-260330-4C5A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-F183
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-898A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Loh visited a high-poverty, predominantly African-American elementary school in rural South Carolina. Kids without phones or internet demonstrated extraordinary mathematical thinking because they made their own games for fun. Their authentic curiosity produced problem-solving abilities that surpassed many affluent, well-resourced students.
 

@@ -50,6 +50,16 @@ related:
   - INS-260402-72EF
   - INS-260323-CB34
   - INS-260330-CC9E
+evidence:
+  - id: INS-260322-DAF2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260326-C657
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-CB34
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The spotlight effect is one of psychology's most robust findings: people consistently overestimate how much others notice and remember about their appearance, behavior, and mistakes. In experiments, people estimated 50% of observers noticed their embarrassing t-shirt when only 25% actually did.
 

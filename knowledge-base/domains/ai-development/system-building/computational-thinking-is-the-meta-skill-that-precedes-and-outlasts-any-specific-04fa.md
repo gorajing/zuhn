@@ -95,5 +95,14 @@ evidence:
   - id: INS-260329-19B3
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-CBB0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-AC6E
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-7B1D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 CS50's curriculum architecture reveals an important pedagogical insight: it begins with computational thinking before touching any programming language, and moves through multiple languages (Scratch, C, Python, SQL, JavaScript) precisely to demonstrate that the underlying reasoning patterns transfer across all of them. This design choice embodies the claim that computational thinking — decomposition, pattern recognition, abstraction, and algorithmic design — is the actual skill being taught, with languages serving as interchangeable expression media. In the AI era, this becomes even more relevant: specific language syntax is increasingly automatable, but the ability to decompose problems, identify patterns, and design abstractions remains fundamentally human. The practical implication is that when learning or teaching technical skills, invest disproportionately in the meta-cognitive framework rather than the specific tool.

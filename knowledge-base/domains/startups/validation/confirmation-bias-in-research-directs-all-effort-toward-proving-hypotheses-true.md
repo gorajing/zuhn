@@ -60,5 +60,8 @@ evidence:
   - id: INS-260327-924F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260402-D0F3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Mathematician Alex Kontorovich spent 20 years on 'team 3x+1' trying to prove the conjecture true before realizing the difficulty itself might be evidence against it: 'It's very hard to prove a theorem that's false.' He recounts spending three years trying to prove a statement, finding a counterexample, then proving the correct statement within a month. This maps directly to startup validation — founders overwhelmingly seek confirming evidence for their ideas rather than actively trying to disprove their core assumptions. The Collatz parallel suggests that systematically seeking disconfirming evidence (talking to non-customers, stress-testing unit economics at scale, identifying the specific conditions under which the model breaks) is the faster path to truth than accumulating more positive signals.

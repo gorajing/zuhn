@@ -52,5 +52,12 @@ related:
   - INS-260329-3ED9
   - INS-260323-9C11
   - INS-260327-ECBB
+evidence:
+  - id: INS-260323-28FB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-9C11
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi frames the core poverty trap as an inversion of the delayed gratification principle. Rather than taking small pain today for large gain later, people in poverty take small comfort today for guaranteed large loss later — the same structure as never investing. If you never invest, you never risk a short-term loss, but you guarantee you'll never build wealth. He visualizes life as a glass rope in tug-of-war: the early period is bloody and painful, but it gradually smooths out and gets sweeter. Most people's hands get too cut to keep holding on. The practical implication is that every 'I'll start Monday' is not neutral — it's actively choosing the guaranteed-loss path. Today is always yesterday's tomorrow, and the pain you deferred is now your present reality.

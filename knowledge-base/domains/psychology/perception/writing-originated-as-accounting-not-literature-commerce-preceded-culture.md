@@ -53,6 +53,10 @@ related:
   - INS-260330-DA4A
   - INS-260402-3639
   - PRI-260328-59DC
+evidence:
+  - id: INS-260330-DA4A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The earliest known writing (circa 3500 BC in Mesopotamia) consisted of accounting records: how much barley was stored, how many livestock were traded. Literature, law, and philosophy came later, built on systems originally designed for commerce. The initial cognitive leap - representing sounds with symbols - was driven by the need to track economic transactions.
 

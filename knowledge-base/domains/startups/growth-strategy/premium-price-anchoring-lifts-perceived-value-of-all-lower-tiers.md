@@ -59,6 +59,10 @@ related:
   - INS-260329-B28C
   - INS-260330-660A
   - INS-260327-0A48
+evidence:
+  - id: INS-260327-875C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that having a $10,000/hour rate listed — even if rarely purchased — transforms the narrative around a $100 product: 'I took my private client lessons and put them in a scalable format for everyone.' This works through two mechanisms: the classic anchoring effect (the high number makes the lower number seem reasonable) and brand association (the existence of ultra-premium service implies expertise and exclusivity that transfers to all offerings).
 

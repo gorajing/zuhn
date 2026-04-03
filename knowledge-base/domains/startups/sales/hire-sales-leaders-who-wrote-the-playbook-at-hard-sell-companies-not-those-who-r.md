@@ -58,5 +58,9 @@ related:
   - INS-260329-CF70
   - INS-260330-072C
   - INS-260402-E148
+evidence:
+  - id: INS-260322-116B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Horowitz uses PTC as the gold standard for sales discipline, and notably, part of what made PTC sales people great was that the product wasn't great — particularly the 'windshield' didn't work well. This forced extreme discipline: systematically laying competitive traps, building comprehensive technical and business cases, charting every person in the decision process. The transferable insight: at companies where customers are already predisposed to buy (like selling AI right now, or Google AdWords), you can skip steps and get away with sloppy selling. That doesn't translate to a startup where nobody knows your name. The Data Bricks first head of sales came from a public company literally selling secure FTP — the discipline forced upon you by selling something that boring is exactly what you want. The key interview question: did they write the playbook or merely run one that was set up for them? VMware on fire and PTC clawing for every deal produce very different sales leaders.

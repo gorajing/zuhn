@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-6134
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-0875
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Dr. Elliot Hawkes didn't invent the vine robot through systematic R&D or by iterating on existing soft robots. He watched an actual vine in his office slowly grow around a shelf edge toward sunlight over the course of a year, and that single observation became the core mechanism — tip-based growth that navigates obstacles by growing around them rather than pushing through them.
 

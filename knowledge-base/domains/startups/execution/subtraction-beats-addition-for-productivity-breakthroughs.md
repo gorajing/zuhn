@@ -57,6 +57,9 @@ evidence:
   - id: INS-260330-D61A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260321-A56C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Most productivity advice centers on adding habits — morning routines, journaling, meditation, exercise regimens. Hormozi argues this is exactly backwards. The people he knows at nine-figure net worth don't have secret routines; they lack things most people have. Champions in any domain often lack an 'off switch' — the ability to stop and context-switch is what holds most people back.
 

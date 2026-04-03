@@ -62,6 +62,9 @@ evidence:
   - id: INS-260326-E411
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-8733
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 After winning at Bassano, Napoleon didn't pause to consolidate. He immediately pursued the retreating Austrians, keeping constant pressure that prevented them from reforming. Each day of pursuit further disorganized the Austrian force until it effectively ceased to exist as a fighting unit. The pursuit created more strategic value than the battle itself.
 

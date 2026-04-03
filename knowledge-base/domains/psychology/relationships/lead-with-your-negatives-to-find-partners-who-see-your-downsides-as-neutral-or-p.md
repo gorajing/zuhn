@@ -52,5 +52,12 @@ related:
   - INS-260329-7B56
   - INS-260325-55D8
   - INS-260330-206F
+evidence:
+  - id: INS-260329-7B56
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-55D8
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi borrows a real estate arbitrage concept: just as the best property deals come from features that scare away most buyers but don't bother you (noisy neighborhood, rougher area), the best relationship matches come from traits that bother most people but don't bother your partner. Instead of leading with strengths like everyone else, lead with perceived negatives — 'I work too much, I'm particular about what I eat, I'm not home much.' If someone genuinely doesn't mind those things or even values them, the relationship starts from a position of authentic acceptance rather than managed expectations. This inverts the default dating strategy of impression management and creates a natural filter for deep compatibility.

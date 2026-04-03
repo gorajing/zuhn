@@ -79,5 +79,8 @@ evidence:
   - id: INS-260330-1FA8
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-D531
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Sebastian Raschka and Nathan Lambert reveal a universal pattern in how ML researchers (and by extension power users) choose their AI tools. You fall in love with a model when it does something impressive for one particular query -- Gemini's long-context needle-in-haystack, Claude's philosophical depth, Grok's real-time Twitter search. You then stick with it through muscle memory and recommendation flywheels until it does something noticeably wrong. Then you switch. Nobody types the same query into multiple models to compare; you only explore alternatives when something breaks. This maps to how people use browsers, text editors, and operating systems. The practical implication: for AI product builders, avoiding catastrophic failures matters more than marginal benchmark improvements. For users, maintaining fluency across 2-3 models provides resilience when your primary tool fails on a critical task.

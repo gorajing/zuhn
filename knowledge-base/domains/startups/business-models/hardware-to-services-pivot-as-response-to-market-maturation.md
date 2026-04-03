@@ -51,5 +51,9 @@ related:
   - INS-260322-B450
   - PRI-260328-6A8D
   - INS-260323-FEAB
+evidence:
+  - id: INS-260323-FEAB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Apple's counterintuitive response to declining iPhone sales was to make devices last longer, not shorter. This works because the revenue model shifted: every active iPhone user buys apps, subscribes to Apple Music/iCloud, and generates indirect revenue (Google pays ~$9B/year just for default search placement). Used iPhones expand the user base without Apple spending on manufacturing or marketing. The iPhone becomes an 'in-app purchase model applied to hardware'—the device is the acquisition channel, services are the monetization layer. This pattern is now standard in tech (gaming consoles, smart home devices, printers) but Apple executed it at unprecedented scale, maintaining both hardware margins and services growth simultaneously.

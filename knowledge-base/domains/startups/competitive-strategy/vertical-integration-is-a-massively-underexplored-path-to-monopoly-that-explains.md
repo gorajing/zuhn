@@ -63,6 +63,10 @@ related:
   - INS-260402-5E4E
   - INS-260329-B194
   - INS-260330-7ED0
+evidence:
+  - id: INS-260330-7ED0
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Thiel identifies two broad categories in 250 years of innovation history where creators actually captured value: vertically integrated complex monopolies (Second Industrial Revolution) and software businesses. The first category — exemplified by Ford and Standard Oil historically, and Tesla and SpaceX today — requires assembling many pieces in precisely the right way to create a tremendous integrated advantage.
 

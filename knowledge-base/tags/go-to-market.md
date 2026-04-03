@@ -10,6 +10,7 @@
 - `INS-260325-175B` Ron from Open Router cited a Brazilian chat app that looks generic on the surface but succeeds because it is deeply localized for Brazilian preferences, search patterns, and model optimization.
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260330-13E8` Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time.
+- `INS-260403-B198` Revolutionary framing creates a false dichotomy; the winning strategy is evolving what already works with new capabilities layered on top.
 - `INS-260330-118D` Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.
 - `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
 - `INS-260329-903B` AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.

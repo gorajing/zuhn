@@ -59,6 +59,19 @@ related:
   - PRI-260328-7F20
   - INS-260330-CC7D
   - INS-260327-8521
+evidence:
+  - id: INS-260321-C292
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-D5FB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260328-E410
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham frames morale not as a psychological nicety but as the physical and emotional basis of all ambitious work. It compounds via work: high morale produces better output, which further raises morale. But the cycle runs in reverse too — poor work demoralizes you, making it harder to produce good work.
 

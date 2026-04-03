@@ -53,6 +53,13 @@ related:
   - INS-260329-C91D
   - PRI-260328-E53E
   - INS-260327-0061
+evidence:
+  - id: INS-260329-1435
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-0061
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Meniri came from Algeria, where geopolitical restrictions meant he couldn't even travel. When he finally reached NYC, he had no education, no network, and no option to fail. He learned design by using the free 24-hour computers at the Apple Store. Every decision he doubts, but a 'stubborn persona' keeps him going.
 

@@ -52,6 +52,10 @@ related:
   - INS-260330-78B1
   - INS-260329-7FD6
   - PRI-260328-6A8D
+evidence:
+  - id: INS-260329-7FD6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Seibel's operations advice is blunt: the number one problem companies have is spending too much money. His prescription is equally direct — pay yourself less, get a crappier office, and download your bank statement every month to review every line item. If you're the CEO and you don't know your expenses, you're not doing your job.
 

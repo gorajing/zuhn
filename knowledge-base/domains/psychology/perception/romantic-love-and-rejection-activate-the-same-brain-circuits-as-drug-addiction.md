@@ -61,6 +61,10 @@ related:
   - INS-260330-A33E
   - INS-260323-DEC3
   - INS-260330-4605
+evidence:
+  - id: INS-260323-DEC3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Fisher's brain scanning of people rejected in love revealed activity in three critical regions: the VTA (they still love the person), a physical pain center (the same region activated by toothaches, but the pain persists for months), and most importantly the nucleus accumbens — the brain region central to addiction to cocaine, heroin, alcohol, cigarettes, and gambling.
 

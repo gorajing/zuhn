@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-257C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-8268
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When a bad pairing occurs — a PR disaster, a failed collaboration, a tone-deaf ad — the instinct is to address it directly: issue an apology, take down the content, publicly distance yourself. Hormozi argues the better strategy is to simply flood the channel with positive pairings until the bad one shrinks into irrelevance. He uses Kanye as an example: after controversial statements, Kanye didn't issue extended apologies — he released products people loved (shoes, albums, a Super Bowl ad) until the positive associations overwhelmed the negative ones and people bought again.
 

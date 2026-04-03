@@ -63,6 +63,25 @@ related:
   - INS-260327-735A
   - INS-260330-1002
   - INS-260330-0FB9
+evidence:
+  - id: INS-260320-DADA
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CB72
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-BBBE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-735A
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1002
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-0FB9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Rosolie's career illustrates a stark contrast between manufactured and authentic content. His calculated attempt at publicity — the Discovery Channel 'Eaten Alive' special where he agreed to be swallowed by an anaconda — resulted in career damage, death threats, scientific community rejection, and six months of exile. Discovery manipulated his words, changed the message, and turned a conservation effort into a sideshow.
 

@@ -78,6 +78,9 @@ evidence:
   - id: INS-260330-B8C5
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260330-8B52
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 
 OpenRouter provides permanently free tiers on select models with 50-1000

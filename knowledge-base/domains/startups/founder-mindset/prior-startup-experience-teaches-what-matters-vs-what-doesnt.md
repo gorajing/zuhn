@@ -50,5 +50,12 @@ related:
   - INS-260326-8E6D
   - INS-260330-DB4B
   - INS-260329-163B
+evidence:
+  - id: INS-260327-9F46
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-163B
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Conrad is blunt: he didn't learn anything useful from Zenefits failing ('it failed for dumb reasons'). What serial founding gives you is the slow accumulation of pattern recognition about what matters and what doesn't. First-time CEOs find the job overwhelming because everything feels like it could be the thing that kills the company. Experienced founders can look at most problems and say 'this probably doesn't matter' — and then recognize the rare ones that do. For Rippling, getting strategy right and getting the right people on the team were the things that really mattered. Most other things could fall by the wayside. This calibration is the actual superpower of repeat founders: not domain expertise or connections, but the psychological ability to ignore noise and focus on signal.

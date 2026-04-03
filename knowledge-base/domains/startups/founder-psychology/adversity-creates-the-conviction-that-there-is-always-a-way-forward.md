@@ -66,6 +66,33 @@ evidence:
   - id: INS-260325-13B9
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260325-EC93
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-78DA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-51C2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-640C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-BC1B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-D913
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-B011
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-A9B7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-C089
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Rometty grew up with a father who abandoned the family, leaving her mother homeless with four kids and no work experience. She went on to become the 9th CEO of IBM. She observed that many successful CEOs share a background of adversity, and that the core lesson is not that suffering is required but that it teaches you 'there is always a way forward, always, and it's in your control.'
 

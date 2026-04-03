@@ -60,5 +60,11 @@ evidence:
   - id: INS-260322-760A
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-9C11
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-92AD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi presents a powerful reframe for the 'I can't afford it' objection that applies far beyond sales. He asks: have you ever had an unexpected bill? (Everyone has.) Are you still alive? (Everyone is.) Did you find the money? (Everyone did.) The conclusion: you have the ability to be resourceful when it's for someone else (landlord, IRS, employer) but not for yourself. This reveals that 'I can't afford it' is not a statement about financial capacity but about self-prioritization. The deeper psychological insight is that people choose to be powerful when external forces demand it but choose powerlessness when the investment is self-directed. This maps to the broader pattern that self-made billionaires started with the same nothing as everyone else — the difference was resourcefulness, not resources. The cross-domain application extends to any context where someone claims inability: the question isn't whether they can, but whether they've decided they're worth being resourceful for.

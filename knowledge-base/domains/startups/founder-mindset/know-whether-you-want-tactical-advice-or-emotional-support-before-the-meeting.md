@@ -52,5 +52,9 @@ related:
   - INS-260402-8813
   - INS-260328-0345
   - INS-260329-93AE
+evidence:
+  - id: INS-260329-93AE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Dalton has learned to ask founders upfront: 'What kind of office hours is this? What advice do you want to hear from me?' The classic pattern: a founder says 'we got an acquisition offer, what should we do?' but they've already decided — they either want excitement or a pep talk to decline. Problems arise when founders present tactical agendas ('let's discuss the front page design') when they really want to say 'I'm thinking about shutting down.' They'll drop the real issue in the final two minutes: 'Oh by the way, three of four founders are leaving.' Having a personal goal for the meeting outcome — even if that goal is 'I've been having a really hard time and just want to talk things through' — produces dramatically better sessions.

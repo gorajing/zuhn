@@ -52,6 +52,10 @@ related:
   - INS-260327-8521
   - INS-260330-0149
   - INS-260330-293E
+evidence:
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi distinguishes reinforcement from reward using the shock analogy: taking electric shocks to spare your family is punishing but reinforcing. This explains why successful entrepreneurs persist through years of painful work — the work isn't rewarding in itself, but it reinforces their identity and values. A farmer thousands of years ago wasn't passionate about rice but felt pride in providing.
 

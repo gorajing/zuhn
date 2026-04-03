@@ -53,6 +53,10 @@ related:
   - PRI-260324-3081
   - INS-260323-8C53
   - INS-260323-42A7
+evidence:
+  - id: INS-260323-42A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The implicit lesson from Hormozi's timeline is that he didn't pivot his business model, find a new market, or learn a new skill during this 18-month period. The business itself stayed roughly the same. What changed was the allocation of his time and attention — he concentrated everything on execution rather than spreading across social obligations, networking, and information consumption.
 

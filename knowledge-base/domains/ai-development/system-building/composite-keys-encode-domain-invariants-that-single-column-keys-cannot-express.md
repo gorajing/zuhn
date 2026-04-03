@@ -61,5 +61,8 @@ evidence:
   - id: INS-260329-BE35
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-B22B
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The tutorial demonstrates how a Works_With junction table uses a composite key of (emp_id, client_id) where both components are themselves foreign keys. This design enforces at the database level that one employee-client pair can only have one sales record — a domain invariant. If you replaced this with a surrogate auto-increment ID, the database would happily accept duplicate employee-client pairs, pushing constraint enforcement up to application code where it's more fragile. Similarly, the Branch_Supplier table uses (branch_id, supplier_name) as a composite key because neither column alone uniquely identifies a row. The choice between surrogate keys, natural keys, and composite keys is fundamentally a decision about where domain constraints live — in the schema (enforced automatically) or in the application (enforced by developer discipline). This parallels the strong-typing-as-guardrail principle: push constraints as close to the data layer as possible.

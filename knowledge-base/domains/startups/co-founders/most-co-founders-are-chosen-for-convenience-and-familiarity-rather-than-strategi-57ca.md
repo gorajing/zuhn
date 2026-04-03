@@ -65,5 +65,11 @@ evidence:
   - id: INS-260324-1C84
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-636B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-B2D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Jones identifies a systematic selection bias in co-founder formation: founders typically partner with whoever is available and familiar (former colleagues, college friends, people in their network) rather than deliberately evaluating fit. The critical alignment dimensions most teams skip: (1) degrees of sacrifice — how much each person is willing to give up, (2) desired outcomes — what success means to each person (IPO vs lifestyle business vs impact), and (3) growth trajectory compatibility — whether both co-founders can keep pace as the company scales. The non-CEO co-founder often struggles to keep pace with growth, creating a painful divergence that most teams are unprepared for. Jones describes co-founding as 'a marriage without the sex' — requiring the same level of deliberate partner selection.

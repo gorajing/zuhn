@@ -52,6 +52,10 @@ related:
   - INS-260326-3F06
   - INS-260325-25A2
   - INS-260325-922D
+evidence:
+  - id: INS-260330-14CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi articulates a precise mechanism for how blame operates: when you say 'I can't succeed because of X,' you are literally giving X power over your life. This creates a self-fulfilling prophecy — you accumulate more evidence that X is blocking you, which confirms your belief, which keeps you stuck. The antidote is the two words 'my fault,' which repositions you as the source of both the problem and the solution.
 

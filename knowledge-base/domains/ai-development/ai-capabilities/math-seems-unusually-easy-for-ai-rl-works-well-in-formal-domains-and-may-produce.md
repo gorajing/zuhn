@@ -79,6 +79,18 @@ evidence:
   - id: INS-260329-9CCF
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-AE9C
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-BE50
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-A94F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-4A69
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Epoch AI notes that math appears to be 'unusually easy' for AI, defying earlier intuitions that mathematical reasoning would require deep intelligence. RL (reinforcement learning) techniques work particularly well in formal mathematical domains because they have verifiable outcomes. Current AI is already at the point where mathematicians report it being genuinely helpful during proofs.
 

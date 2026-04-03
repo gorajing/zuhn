@@ -75,6 +75,9 @@ evidence:
   - id: INS-260322-D8C3
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-DC4C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Sequoia identifies a clear pattern: vertical agents trained end-to-end on domain-specific tasks using RL and synthetic data are achieving superhuman performance. Expo's AI outperformed every human hacker on HackerOne. Traversal's AI troubleshooter beats the best human troubleshooters. Meter's networking agent exceeds human networking engineers.
 

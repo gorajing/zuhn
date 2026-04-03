@@ -67,6 +67,18 @@ evidence:
   - id: INS-260327-004B
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-4341
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-7E58
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-9E91
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4E01
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The 5% automation / 1% GDP prediction stands in stark contrast to Silicon Valley's AGI-around-the-corner narrative. Acemoglu's reasoning: only ~20% of the economy is even in the crosshairs of AI automation, and within that, many tasks are in small companies where automation isn't profitable, or require the kind of judgment and social intelligence AI lacks.
 

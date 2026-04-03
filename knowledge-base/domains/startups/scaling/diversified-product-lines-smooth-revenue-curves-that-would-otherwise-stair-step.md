@@ -55,5 +55,9 @@ related:
   - INS-260324-C33C
   - INS-260325-FDF5
   - PRI-260328-0C15
+evidence:
+  - id: INS-260325-FDF5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Most businesses experience stair-step growth — rapid expansion followed by plateaus until a breakthrough unlocks the next level. Ramsey Solutions avoided this pattern by maintaining a portfolio of products (Financial Peace University, publishing, live events, coaching, every dollar app, Ramsey Trusted endorsements) that each grew at different rates and peaked at different times. When FPU plateaued due to declining church distribution, the budgeting app caught fire due to smartphone demographics and macroeconomic anxiety. The key strategic insight is that product diversification isn't just about revenue maximization — it's about growth-curve smoothing. Each product emerged organically from adjacent customer needs rather than top-down strategic planning, following a pattern of 'hear about a need that's a finger off of what we already do.' This organic adjacent-need approach to product expansion is lower risk than blue-sky diversification.

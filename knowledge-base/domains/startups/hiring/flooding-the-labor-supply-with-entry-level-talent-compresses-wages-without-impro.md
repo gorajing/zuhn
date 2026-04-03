@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-C4F1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-B2F4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When governments and corporations push mass coding education, the result is a glut of entry-level programmers who learned syntax but lack deep problem-solving skills. This suppresses wages at the bottom of the market through supply-side pressure. Meanwhile, the actual shortage — experienced engineers who can architect systems and solve novel problems — remains unaffected because those skills take years of deliberate practice, not a 12-week bootcamp.
 

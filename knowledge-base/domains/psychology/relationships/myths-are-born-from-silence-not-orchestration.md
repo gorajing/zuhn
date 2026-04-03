@@ -60,6 +60,12 @@ evidence:
   - id: INS-260323-0603
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-7C0E
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-4A69
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 General Petraeus taught CIA officer Bustamante that the way to maintain his legendary fitness mythology among troops was simple: never talk about it. He never exaggerated, never orchestrated the myth—he just performed and let troops talk. When the myth ran in favor of discipline and loyalty, he let it run. When it got destructive, his leadership team intervened.
 

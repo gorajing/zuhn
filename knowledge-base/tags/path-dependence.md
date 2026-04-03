@@ -1,11 +1,11 @@
 # Tag: path-dependence
 
+- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.
 - `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
-- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.
 - `INS-260330-DBAD` The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
 - `INS-260330-E039` RuBisCo is bad at its job but became the most abundant protein on Earth (40 billion tons) because early plants scaled it before alternatives evolved.

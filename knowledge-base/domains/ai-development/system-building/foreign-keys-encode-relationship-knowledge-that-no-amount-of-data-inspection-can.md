@@ -60,6 +60,10 @@ related:
   - INS-260329-D297
   - INS-260329-AE09
   - INS-260330-AC7F
+evidence:
+  - id: INS-260402-2D7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The tutorial's progression from single tables to multi-table designs with foreign keys reveals a critical insight: the relationship between an employee and their branch cannot be inferred from looking at the data in isolation. You need the foreign key constraint to declare that branch_id in the employee table references the primary key of the branch table.
 

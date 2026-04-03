@@ -58,6 +58,19 @@ related:
   - INS-260330-C7DB
   - INS-260327-9377
   - INS-260325-568A
+evidence:
+  - id: INS-260330-9A46
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-4434
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-9377
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-568A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Rosalind Franklin shared critical findings with Watson and Crick — correcting their triple-helix theory and providing X-ray diffraction images — without protective agreements. Her images were shown to Watson without her knowledge, and their published papers only 'hinted' at her contribution. This pattern recurs in startups: sharing proprietary insights during partnerships, pitch meetings, or collaborations without NDAs, patents, or simultaneous publication creates asymmetric outcomes where the party with better distribution or institutional backing captures the credit.
 

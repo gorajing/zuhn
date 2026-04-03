@@ -50,6 +50,10 @@ related:
   - PRI-260323-DA09
   - INS-260323-DA1E
   - INS-260323-C1D7
+evidence:
+  - id: INS-260323-DA1E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Planck introduced energy quantization (E=hf) in 1900 as a purely mathematical trick to solve the ultraviolet catastrophe, calling it an 'act of desperation.' He spent years afterward trying to find a theoretical justification. Bohr similarly quantized angular momentum 'for no good reason' in 1913, yet perfectly reproduced the hydrogen spectrum.
 

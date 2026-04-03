@@ -55,6 +55,9 @@ evidence:
   - id: INS-260329-5C65
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260329-764E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 
 Social media has shifted from a follower graph (you see posts from people

@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 120 insights
+> 121 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -121,4 +121,5 @@
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.
 - `INS-260330-DA4A` [medium] Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
 - `INS-260327-889F` [medium] Taco Bell's turnaround was powered by sequential complementary leaders -- Emil Brolick (product/operations, 6 years) laid the foundation, then Greg Creed (marketing/pricing, 9 years) built the house on top of it.
+- `INS-260403-57E7` [medium] Blockchain's real contribution to gaming is making virtual goods truly portable and user-owned, not turning games into income sources.
 - `INS-260330-1B47` [medium] Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.

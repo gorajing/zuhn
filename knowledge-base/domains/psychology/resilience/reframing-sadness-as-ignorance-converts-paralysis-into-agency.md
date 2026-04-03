@@ -55,6 +55,10 @@ related:
   - INS-260323-9C11
   - INS-260327-51C2
   - INS-260330-BC1B
+evidence:
+  - id: INS-260323-9C11
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's reframe — 'this is ignorance, not sadness' — is a cognitive intervention that shifts the locus of control from external circumstances to internal capability. When someone feels hopeless, they typically believe their situation is fixed. Reframing the emotion as an information gap implies a clear next action: learn more.
 

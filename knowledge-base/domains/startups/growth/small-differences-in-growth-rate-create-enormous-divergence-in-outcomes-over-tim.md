@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-6AA3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-1C84
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 In epidemic modeling, the difference between a transmission rate that produces a growth factor of 1.15 versus 1.05 seems marginal — both are 'growing.' But 1.15^30 is about 66x while 1.05^30 is about 4.3x. Over the same period, a 10-percentage-point difference in daily growth rate produces a 15x difference in outcome. This extreme parameter sensitivity is a defining property of exponential systems.
 

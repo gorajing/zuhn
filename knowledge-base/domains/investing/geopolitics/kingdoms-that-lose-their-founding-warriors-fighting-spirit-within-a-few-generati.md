@@ -65,6 +65,15 @@ evidence:
   - id: INS-260330-35E2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-FA07
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-F158
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-912C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Vandals who conquered North Africa were formidable Germanic warriors. But a century of comfortable Mediterranean living — Roman baths, villas, easy wealth — transformed their descendants into an ineffective military force. When Belisarius arrived with 15,000 professional Byzantine soldiers, the Vandal army of 80,000+ collapsed quickly because its fighting spirit and discipline had atrophied through generations of comfort.
 

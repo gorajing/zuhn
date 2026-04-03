@@ -67,5 +67,11 @@ evidence:
   - id: INS-260330-1B5E
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-F157
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-633F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Seager highlights that GPS emerged from people experimenting with rocketry, not from anyone designing a location system. Similarly, astronomical data processing techniques became foundational to medical imaging. Nobody planned these outcomes. The 'random walk through science' produces breakthroughs that purposeful, directed research cannot predict. This has direct implications for how organizations should allocate resources between directed product development and undirected exploration. The most transformative innovations are often byproducts of curiosity-driven work with no obvious commercial application — Google's 20% time and Bell Labs' pure research model being modern echoes of this principle.

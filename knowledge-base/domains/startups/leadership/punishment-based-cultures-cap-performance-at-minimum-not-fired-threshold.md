@@ -58,6 +58,10 @@ related:
   - INS-260330-687B
   - INS-260330-5A4C
   - INS-260330-39D7
+evidence:
+  - id: INS-260326-2E56
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In punishment-driven organizations like McKinsey or Goldman Sachs, the performance floor is raised through fear — only anxiety-driven high performers survive, but even they operate below their potential. The alternative is reinforcement-based culture where the law of least effort still applies, but the discretionary effort gap (everything above not-getting-fired level) is captured because people feel psychologically safe.
 

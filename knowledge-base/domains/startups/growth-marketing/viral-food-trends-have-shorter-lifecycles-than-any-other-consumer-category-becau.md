@@ -48,6 +48,10 @@ related:
   - INS-260327-FEB7
   - PRI-260328-AC85
   - INS-260327-38F0
+evidence:
+  - id: INS-260327-FEB7
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycles because once everyone has tried it, there is no reason to buy again.
 

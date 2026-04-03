@@ -62,5 +62,8 @@ evidence:
   - id: INS-260325-D033
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-E606
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When LA discovered that sunlight + chlorine + bromide created carcinogenic bromate in their reservoir, they explored novel solutions: floating tarps, PVC trampolines, pipe debris fields. Each custom invention had fatal flaws (bird perches, petri dish conditions, structural problems). The winning solution was bird balls — an existing product designed to keep waterfowl off toxic ponds — repurposed as 'shade balls' to block UV light. This pattern repeats across industries: the best innovations often come from transplanting proven solutions across domains rather than inventing from zero. The constraint wasn't engineering novelty but finding something that already worked at scale, was food-safe, and could survive years of UV exposure.

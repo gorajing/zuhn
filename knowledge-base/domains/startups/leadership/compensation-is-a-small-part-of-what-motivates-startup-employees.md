@@ -49,5 +49,15 @@ related:
   - INS-260323-1FC1
   - INS-260322-4B4A
   - INS-260329-B2D8
+evidence:
+  - id: INS-260322-4B4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-B2D8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260326-2259
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Tom learned through 14 years managing Googles trust and safety organization (growing from 1 to 1000+ people) that compensation is often only a small part of what motivates people. Understanding individual motivations — purpose, learning, autonomy, recognition, impact — and then rewarding people specifically for what motivates them is far more effective than blanket compensation increases. This insight is especially relevant for startups that cannot compete on salary but can offer purpose, ownership, and growth opportunities that large companies cannot.

@@ -50,6 +50,9 @@ evidence:
   - id: INS-260323-7F22
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-1403
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Uber proved enormous demand for ride-hailing at subsidized prices but has struggled to demonstrate that demand persists at prices necessary for profitability.
 

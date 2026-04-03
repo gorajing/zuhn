@@ -53,5 +53,9 @@ related:
   - INS-260330-59A4
   - INS-260329-1A64
   - INS-260329-03C1
+evidence:
+  - id: INS-260329-D1B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Brown defines shame not as guilt about behavior but as a fear about identity: 'Is there something about me that, if other people know it or see it, would make me unworthy of connection?' Three properties make shame particularly destructive: (1) it is universal — the only people who don't experience it lack the capacity for empathy or connection, (2) nobody wants to talk about it, and (3) the less you talk about it, the more power it has. This creates a silence trap where the very thing that would dissolve shame (bringing it into the light through conversation) is the thing shame prevents. The underpinning of all shame is the excruciating experience of vulnerability — the recognition that connection requires being truly seen, and being seen means risking rejection of your authentic self.

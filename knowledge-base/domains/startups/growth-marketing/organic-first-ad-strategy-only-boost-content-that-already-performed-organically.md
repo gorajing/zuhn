@@ -52,6 +52,10 @@ related:
   - INS-260329-CBF6
   - INS-260327-58AC
 stance: Rella never runs ads on content created specifically for ads
+evidence:
+  - id: INS-260327-6F79
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Rella's approach inverts the typical ad strategy: instead of creating ad-specific content and spending money to test it, they post everything organically first and let the algorithm tell them what resonates. Only content that performs well organically gets paid amplification behind it. This eliminates wasted ad spend on untested creative.
 

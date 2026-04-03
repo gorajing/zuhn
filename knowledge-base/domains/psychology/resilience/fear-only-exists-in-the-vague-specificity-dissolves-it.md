@@ -53,6 +53,10 @@ related:
   - INS-260330-D7CC
   - INS-260330-E68E
   - PRI-260323-2C5C
+evidence:
+  - id: INS-260325-0C4A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi spent six months paralyzed before quitting his consulting job, pacing his condo nightly telling friends he'd quit. The breakthrough came when he played out Plan B specifically: worst case, he'd couch-surf, apply for his old job back, or have an interesting story for business school interviews. The amorphous fear collapsed into a series of manageable steps.
 

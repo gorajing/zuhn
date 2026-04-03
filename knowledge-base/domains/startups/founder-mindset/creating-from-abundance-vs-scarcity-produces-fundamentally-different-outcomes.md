@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-E26D
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260327-2B94
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi relays a conversation with a friend who sold his company for $200 million, who observed that '99% of people are plugged into the matrix' — operating from lack and desire to extract money from others. The rare alternative is creating 'just for the sake of making it, like art,' which produces qualitatively different results. Hormozi cites his own book as an attempt to create from this space.
 

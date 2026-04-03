@@ -70,6 +70,21 @@ evidence:
   - id: INS-260329-FEF4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-F1BC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-A326
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-DEE5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-50D4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-E85D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The instructor's core message: 'Take one decision after another, slowly thinking it through, that gets you closer and closer to the light.' This reframes panic not as fear (everyone was afraid) but as the breakdown of sequential processing. The marines who failed didn't fail because they were more scared — they failed because they tried to do everything at once (unbuckle AND remove flak jacket AND find exit), losing their reference point in the process.
 

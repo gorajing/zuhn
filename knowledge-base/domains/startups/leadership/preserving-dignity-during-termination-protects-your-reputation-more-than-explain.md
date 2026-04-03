@@ -57,5 +57,9 @@ related:
   - INS-260330-8E3C
   - INS-260322-116B
   - INS-260330-687B
+evidence:
+  - id: INS-260322-116B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Bill Campbell's principle, relayed by Horowitz: the firing conversation requires honesty about the mismatch (usually a hiring process failure on the CEO's part, not a character flaw), but the company announcement should preserve dignity. The temptation is either to trash-talk ('I capped his ass') or be dishonestly mushy ('it's not you, it's me'). Neither works. The honest private framing is: 'here's what I didn't recognize about our needs and your fit when I hired you.' The public framing is: thank them for their work, acknowledge they're moving on, skip the personal details. Every employee in your company will get a reference call about this person — what you say at that meeting IS their reputation. Destroying it gains you nothing and signals to remaining employees that they could be next to be publicly humiliated.

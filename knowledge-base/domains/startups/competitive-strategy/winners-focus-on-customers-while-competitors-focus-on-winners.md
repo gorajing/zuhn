@@ -56,6 +56,9 @@ evidence:
   - id: INS-260322-F891
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-B462
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that competitive focus is fundamentally misallocated attention. When a competitor copies you, they've already lost because they need you as a reference point while you don't need them. Their attention flows toward mimicking your moves rather than listening to their own customers, which is the only data source that drives real differentiation.
 

@@ -58,6 +58,9 @@ evidence:
   - id: INS-260330-BA13
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-572E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The seemingly impossible feat of storing a 3D scene on 2D film works because electromagnetic waves satisfy differential equations (Maxwell's equations) regular enough that the wave state on a 2D boundary uniquely determines the wave throughout 3D space beyond that boundary. This is why a hologram can recreate the full object wave in all of 3D space — not just at the film plane — from the interference pattern recorded on the film.
 

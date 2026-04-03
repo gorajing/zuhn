@@ -53,5 +53,9 @@ related:
   - INS-260329-4A09
   - INS-260329-5FB5
   - INS-260329-8E79
+evidence:
+  - id: INS-260329-5FB5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham's strongest evidence is the Kiko founders, who started right out of college, failed when Google Calendar crushed them, yet became 'extremely formidable' by the time they started Justin.TV a year later. He contrasts this with the alternative: had they spent that year at Microsoft or Google, they'd still be 'diffident junior programmers.' The mechanism is that startups force founders into the full decision space — hiring, product, fundraising, failure — while corporate jobs deliberately narrow scope. Corporate experience may even be counterproductive, creating what Graham calls 'tame animals' who need offices and product managers. This suggests that for people considering the startup path, delaying to gain experience at big companies is not just inefficient but actively harmful to developing the autonomy and judgment that founders need.

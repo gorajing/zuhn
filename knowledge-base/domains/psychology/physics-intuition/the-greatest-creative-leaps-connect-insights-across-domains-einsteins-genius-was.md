@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-2D1D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-CF93
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Carroll traces Einstein's path to general relativity through three distinct creative leaps: (1) realizing that gravity is undetectable in free fall (the happiest thought of his life), (2) reasoning that this means gravity isn't like other forces — it's a feature of spacetime itself, and (3) recognizing he needed new mathematical tools (differential geometry) and teaching them to himself.
 

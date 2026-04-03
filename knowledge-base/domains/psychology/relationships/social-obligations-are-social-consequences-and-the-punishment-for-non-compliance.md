@@ -56,5 +56,9 @@ related:
   - INS-260327-58ED
   - INS-260327-52CF
   - INS-260329-8CA3
+evidence:
+  - id: INS-260323-C5D3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a logical contradiction in social obligation anxiety. If you feel obligated to attend an event, it means you don't want to go. The punishment for not going is that people talk to you less and invite you less. But if you didn't want to go in the first place, less invitations means you save time today and tomorrow — a win-win by any rational analysis. The emotional noise people make (guilt trips, disappointed faces) obscures the actual outcome, which is favorable. This connects to his broader framework of second and third-order thinking: the first-order consequence of 'breaking up' with a friend feels painful, but the second-order consequence is more time for skill-building, and the third-order consequence is getting closer to your goals. He applies a simple filter to friendships: does this person increase or decrease the probability that I hit my goal? If decrease, the relationship is functionally a debuff — like a slow spell in a video game halving your effectiveness.

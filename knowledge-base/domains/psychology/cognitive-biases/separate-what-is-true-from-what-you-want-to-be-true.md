@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-C569
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-508D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Naval identifies a pattern where people get excited about a legitimate business trend (in this case web3/crypto) and then start projecting all their other fantasies onto it — believing it will automatically lead to raised consciousness, social transformation, world peace, etc. This is dangerous because it produces businesses that don't make sense in the real world.
 

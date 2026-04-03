@@ -56,6 +56,12 @@ evidence:
   - id: INS-260321-9906
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-EDA2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-9676
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham argues from direct experience at Viaweb that language power differences create multiplicative development speed advantages — ITA Software's Lisp codebase let them search orders of magnitude more fare possibilities than competitors using mainframe-era techniques. The key insight is that this advantage compounds: if one line of Lisp replaces 20 lines of C, and Brooks's Law means you can't compensate with headcount, the gap widens with every feature cycle. A three-month Lisp feature becomes a five-year C project that likely never ships at all.
 

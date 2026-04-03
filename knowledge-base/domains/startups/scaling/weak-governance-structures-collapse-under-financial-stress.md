@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-59BC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-F484
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Articles of Confederation deliberately created a weak central government as a reaction to British tyranny. Congress could declare war and make treaties but could not collect taxes — it had to ask states politely for money. This design worked during wartime unity but collapsed when peacetime financial stress hit: states racked up debt, trade became nightmarish without unified tariffs, and farmers revolted (Shays' Rebellion).
 

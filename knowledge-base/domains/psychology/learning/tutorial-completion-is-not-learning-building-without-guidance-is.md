@@ -78,6 +78,12 @@ evidence:
   - id: INS-260329-CD38
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-6935
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-BE23
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The course instructor explicitly states that after completing a tutorial, the next step is building projects on your own — not finding another tutorial. This reflects the well-documented 'tutorial hell' problem where learners consume endless instructional content without developing the ability to solve novel problems.
 

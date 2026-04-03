@@ -58,6 +58,15 @@ evidence:
   - id: INS-260330-AF2A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-F9FB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-E70C
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260328-EA3A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Every structure must support its own weight. As height increases, the load on the base grows until the material's compressive strength is exceeded and it crushes under itself. For steel, this theoretical limit is roughly 6 km; for advanced composites, somewhat higher. This means no amount of clever engineering can bypass the fundamental material constraint.
 

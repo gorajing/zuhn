@@ -47,5 +47,9 @@ related:
   - INS-260329-0F10
   - INS-260329-764E
   - PRI-260322-DCDB
+evidence:
+  - id: INS-260329-764E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that the fundamental mistake aspiring creators make is thinking in months when they should be thinking in years. His own podcast took 6 years to reach top-10 status, and his friend's breakout came only after 6 months of daily posting—a timeline most people never reach. The implication is that audience building is a survivorship game: the primary competitive advantage is simply not quitting. This reframes content strategy from 'how do I go viral?' to 'how do I sustain output long enough for compounding to work?' Most tactical advice about hooks, thumbnails, and algorithms is secondary to the raw question of whether you'll still be posting in year three.

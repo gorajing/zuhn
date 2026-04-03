@@ -57,5 +57,8 @@ evidence:
   - id: INS-260323-3D7D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-66F7
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 On the USS Toledo, the command structure is explicitly divided into three roles: the Captain sets objectives and makes strategic decisions, the Executive Officer (XO) handles day-to-day operations and accountability, and the Chief of the Boat (COB) manages people problems and serves as the bridge between officers and enlisted personnel. The COB described himself as 'everybody's dad' while the XO called himself 'the teeth.' What makes this notable is how the Captain noted he spends more time in the Chiefs' quarters than most captains would - breaking hierarchy norms to stay informed. The crew remarked this was unusual but produced one of the best command teams they'd seen. This suggests the triad works best when the strategic leader actively crosses boundaries to maintain situational awareness, rather than staying isolated at the top.

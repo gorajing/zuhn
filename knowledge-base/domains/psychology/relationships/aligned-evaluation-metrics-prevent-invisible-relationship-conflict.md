@@ -49,5 +49,15 @@ related:
   - INS-260325-FDA9
   - INS-260330-1A63
   - INS-260325-0688
+evidence:
+  - id: INS-260325-FDA9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-1A63
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-0688
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a subtle failure mode: both partners may be working hard but evaluating each other against completely different criteria. One partner optimizes for career achievement while the other scores on time spent together — both feel they're giving 100% but both feel underappreciated. The fix is making evaluation criteria explicit upfront: 'What does a 10/10 spouse look like to you?' If their answer matches what you already do or plan to do, the relationship becomes effortless — your natural trajectory fulfills their expectations. If the metrics diverge, no amount of effort bridges the gap because you're playing different games on the same field. This maps directly to the business concept of ensuring your team's KPIs align with company strategy.

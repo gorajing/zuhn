@@ -68,6 +68,9 @@ evidence:
   - id: INS-260323-D8A9
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-E99F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 CIA draws a sharp distinction most people never consider: ethics are externally defined professional codes (attorney ethics, medical ethics, teaching ethics), while morals are internally held personal beliefs about right and wrong. CIA has a deliberately short code of ethics because it is an 'organization of last resort' that receives missions nobody else can do.
 

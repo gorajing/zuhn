@@ -60,6 +60,13 @@ related:
   - INS-260323-9C11
   - INS-260329-C089
   - INS-260330-1AEA
+evidence:
+  - id: INS-260323-A700
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-9C11
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Deaths of despair from suicide, overdose, and alcohol are three times higher among men than women, with suicide rates rising sharply among middle-aged and younger men. Reeves cites Fiona Chan's research finding that the most common self-descriptions men used before suicide attempts were 'worthless' and 'useless'—language of purposelessness rather than poverty.
 

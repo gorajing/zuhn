@@ -54,5 +54,11 @@ evidence:
   - id: INS-260327-8DDE
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-4367
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-1845
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham observes that most people who hesitate about starting a startup have roughly eight different reasons tangled together in their heads. Because they can't distinguish which fears are justified from which are bogus, the overall feeling registers as a monolithic 'no.' By decomposing the reluctance into discrete components — age, experience, intelligence, ideas, family obligations, etc. — each can be evaluated independently. Most turn out to be either completely unfounded or much smaller than imagined. This technique applies broadly: any time someone faces a complex decision with mixed emotions, itemizing the individual concerns and rating each separately reveals the true signal buried in emotional noise.

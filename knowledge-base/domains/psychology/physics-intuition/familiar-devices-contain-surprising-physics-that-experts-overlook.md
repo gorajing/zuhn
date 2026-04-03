@@ -63,6 +63,12 @@ evidence:
   - id: INS-260325-21D1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-FCC1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-5B7F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Destin is a mechanical engineer who 'thought he had an understanding of carburetors' — a device that has existed for over a century and appears in millions of small engines. Yet direct observation revealed phenomena he hadn't anticipated: the violence of mechanical oscillations, the laminar-to-turbulent flow transition at the Venturi throat, fuel droplets suspended in air before being shattered by intake suction, and the runaway feedback loop where engine vacuum pulls the throttle progressively more open.
 

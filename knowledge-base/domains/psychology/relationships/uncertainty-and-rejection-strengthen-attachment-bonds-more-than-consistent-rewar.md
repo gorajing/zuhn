@@ -59,6 +59,16 @@ related:
   - INS-260330-EAAE
   - INS-260330-09A2
   - INS-260330-BE46
+evidence:
+  - id: INS-260329-EECD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-20E8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-33FF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Fisher's puppy studies and Harlow's wire mother experiments converge on a counterintuitive finding: organisms that experience intermittent reinforcement — alternating reward and rejection — form stronger attachment bonds than those receiving consistent positive feedback. This is the Polarity Principle.
 

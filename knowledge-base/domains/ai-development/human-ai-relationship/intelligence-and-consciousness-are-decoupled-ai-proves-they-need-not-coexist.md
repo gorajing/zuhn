@@ -86,6 +86,15 @@ evidence:
   - id: INS-260330-6D5C
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-41BC
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260403-A1DF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-A516
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Harari makes a foundational distinction: intelligence is the ability to solve problems and attain goals; consciousness is the ability to feel things like pain, pleasure, and love. In humans these go together, which is why we confuse them. But computers are already highly intelligent with (as far as we know) zero consciousness.
 

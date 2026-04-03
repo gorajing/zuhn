@@ -57,6 +57,15 @@ evidence:
   - id: INS-260327-8B1A
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260325-05E4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-7263
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-BBE7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kimbal discovered at age 11 that cooking for his family was the only thing that could get busy, intense people (Elon, his mother, his sister) to sit down together and be present. He's built his entire life philosophy around this: his restaurants feature community tables, and his definition of a good party is 'people laugh and cry.' He contrasts this with nightclubs where you 'pay to shout small talk in the dark.'
 

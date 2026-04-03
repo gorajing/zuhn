@@ -54,6 +54,19 @@ related:
   - INS-260329-640C
   - INS-260321-C14C
   - INS-260329-023F
+evidence:
+  - id: INS-260321-8382
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260403-B7FA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-640C
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-023F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham describes actively recruiting people who'd been kicked out of Harvard for neglecting studies in favor of personal projects. One such hire 'had more fun than he'd had in school, and made more that year from stock options than any of his professors did in salary.' The conventional signal (GPA) was anti-correlated with the trait they actually wanted (obsessive builder energy).
 

@@ -55,6 +55,10 @@ related:
   - INS-260322-5650
   - INS-260330-8103
   - PRI-260328-6A8D
+evidence:
+  - id: INS-260329-BBF9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Cheung describes a 'honesty curve' where feedback quality varies by relationship distance and whether the product is paid. For free products, your mom lies the most (proud of you regardless), friends are moderately honest, and strangers don't care enough to give useful feedback. But for paid products, the curve inverts at the stranger end — people who paid money and feel it wasn't worth it will tell you exactly why.
 

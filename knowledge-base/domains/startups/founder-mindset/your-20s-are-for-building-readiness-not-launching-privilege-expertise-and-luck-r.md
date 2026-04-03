@@ -53,6 +53,10 @@ related:
 stance: >-
   Spend your 20s building skills, network, and industry expertise so you're
   equipped when you do start.
+evidence:
+  - id: INS-260403-14D5
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 The video argues that successful founding requires three prerequisites: privilege (financial cushion, network access, educational advantages), expertise (deep industry knowledge, not just enthusiasm), and luck readiness (being positioned to capitalize on timing). Most 20-somethings have enthusiasm but lack all three.
 

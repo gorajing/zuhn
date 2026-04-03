@@ -75,6 +75,9 @@ evidence:
   - id: INS-260402-92AE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-906E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Cursor team argues that AI programming is unlike previous tech waves because capability improvements arrive continuously with each new model generation. Being even a few months ahead in implementing features for new model capabilities makes your product dramatically more useful. Microsoft with Copilot has done 'fantastic things' but can't innovate at startup speed.
 

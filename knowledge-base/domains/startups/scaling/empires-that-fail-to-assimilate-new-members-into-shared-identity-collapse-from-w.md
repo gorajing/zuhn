@@ -74,6 +74,12 @@ evidence:
   - id: INS-260330-B559
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-DF0F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-1756
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Rome's early republic thrived by converting conquered peoples into genuine Romans — teaching them Latin, granting citizenship, and enrolling them in shared institutions. This integration worked for centuries. But by the 3rd-4th centuries, the empire was absorbing people faster than it could acculturate them, creating armies of soldiers who didn't speak Latin and had never seen Rome.
 

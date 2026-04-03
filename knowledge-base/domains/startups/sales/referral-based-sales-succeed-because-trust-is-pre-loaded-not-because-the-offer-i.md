@@ -50,5 +50,9 @@ related:
   - INS-260329-2B04
   - INS-260327-C083
   - INS-260325-E84D
+evidence:
+  - id: INS-260325-E84D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 In any sales interaction, the prospect must believe three things: that the system works, that it will work for them, and that the seller is trustworthy. With referrals, the referring person has already vouched for all three — they've essentially pre-loaded the trust that would otherwise need to be built during the sales process. This is why referral leads close at dramatically higher rates: it's not that these prospects are inherently better fits, but that the trust barrier has already been cleared. The practical implication is that sales processes should be designed to replicate the trust-transfer effect of referrals — through case studies, social proof, and damaging admissions — rather than focusing solely on logical argumentation about the offer's merits.

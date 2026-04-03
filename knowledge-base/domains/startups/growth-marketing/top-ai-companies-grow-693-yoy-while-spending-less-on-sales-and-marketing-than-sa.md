@@ -63,6 +63,10 @@ related:
 stance: >-
   The fastest AI companies reach $100M revenue significantly faster than SaaS
   predecessors, with top performers growing 693% YoY
+evidence:
+  - id: INS-260321-B7CB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 a16z's internal data analysis across their portfolio and prospects reveals that 2025 reversed the 2022-2024 revenue growth slowdown. AI companies are growing 2.5x faster than non-AI companies, and the top AI performers hit 693% year-over-year growth. Critically, this isn't fueled by burning cash on sales and marketing — the best AI companies are actually spending less on GTM than their SaaS counterparts while growing much faster.
 

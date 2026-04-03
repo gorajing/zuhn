@@ -65,5 +65,11 @@ evidence:
   - id: INS-260327-8DC5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-3E3A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-36F0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi distinguishes between known limits ('I can't do X because of Y') and unknown unknowns — beliefs so deeply held they're invisible. He illustrates with a CrossFit athlete who built an excellent fitness app but wouldn't market it because he placed 4th, not 1st, in competitions. The athlete had all the necessary skills but a hidden belief ('I don't deserve to market this unless I'm #1') kept him at $20K/month. One post later, he was at $100K/month. Hormozi's own story mirrors this: he was running six gyms when a mentor told him he had 'level 10 skills in a level 2 opportunity.' He didn't know licensing, franchising, or B2B models existed as options. The fix for unknown unknowns isn't self-reflection (you can't question what you can't see) — it's exposure to people operating at higher levels who can see your blind spots. This is why Hormozi values paid access to advanced entrepreneurs: the ROI isn't the information, it's having someone identify what you don't know you don't know.

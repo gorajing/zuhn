@@ -48,6 +48,16 @@ related:
   - INS-260329-78A0
   - INS-260330-EBF6
   - INS-260330-8639
+evidence:
+  - id: INS-260327-0519
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-825D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-8639
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Research shows partitioning prices reduces perceived cost by 40-60%. The brain evaluates each payment individually rather than summing. BNPL exploits this to increase average order values by 30-50%.
 

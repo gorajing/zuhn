@@ -65,5 +65,8 @@ evidence:
   - id: INS-260329-BEFB
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-070A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Two principles from different domains — the $2T AI revenue gap (ai-development) and AI companies as model-busters (investing) — appear contradictory but are simultaneously true. The aggregate AI capex burn rate has no clear revenue path, yet individual leaders like OpenAI grew 693% YoY with 40% operating margins. This means sector-level analysis is misleading in both directions: bears are right about the aggregate math, bulls are right about the top performers. The investable insight is the distribution shape — a power law where the median AI company destroys capital while the top decile generates returns that make the capex look cheap. The correct strategy is extreme concentration on the winners, not broad sector exposure.

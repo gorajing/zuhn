@@ -54,6 +54,10 @@ related:
   - INS-260327-4C73
   - PRI-260327-A7C5
   - INS-260327-8521
+evidence:
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Spinoza's approach to emotions is fundamentally different from suppression: rather than fighting emotions, you trace them to their causes. Anger at a coworker, understood as frustration about your own lack of control, transforms from a reactive emotion into an information signal. Fear about the future, understood as uncertainty about specific variables, transforms from paralysis into a list of things to investigate.
 

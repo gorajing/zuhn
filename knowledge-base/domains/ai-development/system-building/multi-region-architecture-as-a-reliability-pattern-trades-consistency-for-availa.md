@@ -66,6 +66,9 @@ evidence:
   - id: INS-260329-572E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-8011
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 AWS's global infrastructure operates at three levels: Regions (independent geographic areas like us-east-1), Availability Zones (isolated data centers within a region, connected by low-latency links), and Edge Locations (CDN endpoints for caching). Each level provides increasing fault tolerance but increasing complexity. Multi-AZ deployments protect against data center failures. Multi-region deployments protect against regional disasters but require solving cross-region data replication.
 

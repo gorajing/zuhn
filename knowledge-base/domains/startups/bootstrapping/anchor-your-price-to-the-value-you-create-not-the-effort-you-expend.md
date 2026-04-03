@@ -57,5 +57,8 @@ evidence:
   - id: INS-260329-8329
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260323-DA91
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 When you sell a $1M service, you're not selling effort — you're selling a measurable outcome to someone for whom that outcome is worth $5-10M. Hormozi's example: rewriting emails and landing pages for a $100M e-commerce store to get a 5% conversion lift, then taking 1% of the incremental revenue. The key insight is that you don't need to be extraordinary — you need to find clients where even modest improvements create massive dollar impact due to their existing scale. This flips the bootstrapping mindset from 'how do I charge more per hour' to 'whose business is large enough that a small percentage of improvement pays me disproportionately.' The constraint isn't capital — it's learning the skill that creates the value.

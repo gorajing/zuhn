@@ -51,5 +51,8 @@ evidence:
   - id: INS-260323-87F3
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-2D6D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 At the Opis mutiny, Alexander's army of 10 years refused to march further. His response was not to threaten but to enumerate his personal costs: every wound, every night on watch, every meal shared. 'If you've got scars, strip and show them -- I'll show you mine. There is not one part of my body, the front at least, that doesn't bear a wound.' The mutiny collapsed. This works because credibility-through-cost is unfakeable -- it's a costly signal that positions authority as earned rather than inherited. Founders who have been in the trenches with their teams during crises build a fundamentally different kind of loyalty than those who delegate suffering.

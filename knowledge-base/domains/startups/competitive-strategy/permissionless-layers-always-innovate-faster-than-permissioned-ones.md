@@ -64,6 +64,9 @@ evidence:
   - id: INS-260329-8F98
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-5678
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Vitalik explains why Ethereum's application and Layer 2 ecosystem moves much faster than its base protocol: building at those layers is permissionless. You don't need to coordinate with anyone to build a Layer 2 or an application. But changing the Ethereum protocol itself is 'one of the most permissioned things out there' — you need to get an entire community to buy in.
 

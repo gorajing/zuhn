@@ -53,6 +53,10 @@ related:
 stance: >-
   Selling frozen dumplings below cost on a recipe-sharing social platform proved
   market demand existed before investing in infrastructure
+evidence:
+  - id: INS-260327-FEB7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Oh Jeong-hun's journey from selling golf balls (failed — kicked out of communities for self-promotion) to selling frozen dumplings (succeeded — organic audience on Kakao Story/Naver Band) demonstrates the 'pre-prototype' concept from The Law of Fire. The key insight: he didn't test the product, he tested the demand hypothesis using minimal resources.
 

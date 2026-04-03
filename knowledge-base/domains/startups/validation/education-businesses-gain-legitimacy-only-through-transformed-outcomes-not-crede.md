@@ -60,5 +60,8 @@ evidence:
   - id: INS-260329-8329
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-E9DD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Dave Ramsey identifies the key differentiator between legitimate and illegitimate education businesses: transformed lives, not content quality. His core insight — 'personal finance is 80% behavior, 20% head knowledge' — led Ramsey Solutions to build accountability systems (coaching, community, structured programs) rather than just information products. The gym analogy is precise: even if the gym is well-equipped, if a member doesn't lose weight, the gym feels illegitimate regardless of whose fault it is. This has direct implications for any education or coaching business: the product isn't the information, it's the behavior change system. Financial Peace University succeeded not because it taught better budgeting math but because it combined community accountability, structured commitment (9-week program), and emotional engagement to drive actual behavior change. 10 million people going through the program with measurable results IS the brand, not the curriculum itself.

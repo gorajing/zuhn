@@ -56,6 +56,10 @@ related:
   - INS-260325-E19E
   - INS-260330-A59D
   - INS-260330-4315
+evidence:
+  - id: INS-260325-E19E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Fisher traces the evolution of human romantic love to 4.4 million years ago when our ancestors were forced out of disappearing trees onto dangerous open grasslands. Walking on two legs meant females had to carry babies in their arms instead of on their backs (as chimpanzees do), while also carrying sticks and stones for protection.
 

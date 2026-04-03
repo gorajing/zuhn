@@ -61,5 +61,8 @@ evidence:
   - id: INS-260323-874F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-7A80
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Psychologist Matt Jones, who works exclusively with co-founding teams, identifies containment as the critical differentiator. Uncontained conflict — firing off angry messages right after an incident — contaminates execution across the entire company. The containment protocol: (1) acknowledge you are having a reaction, (2) request a specific time to process it ('Can we meet Friday at 2pm to debug and realign?'), (3) in that meeting, stay on your side of the net ('When you interrupted me, I felt frustrated because...'), (4) propose a structural fix rather than a behavioral demand. This gives both parties time to center, enter dialogue with intention, and produce solutions rather than escalation. The productive teams Jones sees never lack conflict — they have learned to have it effectively.

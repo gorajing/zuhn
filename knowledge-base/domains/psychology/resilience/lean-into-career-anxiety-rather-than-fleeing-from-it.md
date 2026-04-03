@@ -61,5 +61,20 @@ evidence:
   - id: INS-260327-60FB
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-F274
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-5F94
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CA72
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1C50
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-1F3F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Responding to a 27-year-old considering a PhD in biomedical engineering despite significant anxiety, Lex shares his own parallel experience: taking the long path through Drexel while training judo, writing poetry, and exploring broadly — all while financially stressed and pressured to focus. His prescription is specific: 'not to run away from the anxiety but to lean into it and channel it into pursuing with everything you got the things you're passionate about.' The counter-intuitive element is that anxiety isn't pathological here — it's informational, indicating you care deeply about the outcome. The practical implication is that when facing a high-stakes career fork, the presence of anxiety should not be interpreted as a reason to choose the safer path. Instead, it signals emotional investment that can fuel the harder, more meaningful pursuit.

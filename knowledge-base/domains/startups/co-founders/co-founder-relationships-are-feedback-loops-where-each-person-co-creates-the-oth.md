@@ -56,5 +56,9 @@ related:
   - INS-260403-1217
   - INS-260327-ECDA
   - INS-260330-C4D4
+evidence:
+  - id: INS-260403-6890
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Perel's deepest insight is that co-founder dynamics are feedback loops, not fixed personality traits. If you want your partner to take fewer risks, your controlling behavior may be pushing them toward riskier moves as rebellion. If you want them to step up, you need to take on less. The pursuer-distancer pattern is universal: the more one person pushes, the more the other withdraws, which triggers more pushing. The therapeutic move is to change your own input to the loop first. A person is not just who they are — that same person paired with someone else may act entirely differently. This reframes co-founder problems from character flaws to system dynamics.

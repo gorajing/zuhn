@@ -58,5 +58,8 @@ evidence:
   - id: INS-260327-70DF
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260322-116B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The CaseText team's biggest advantage was that the founder and 30-40% of employees (including coders) were lawyers who lived the problems they were solving. Domain expertise enables two critical capabilities: (1) Breaking professional workflows into the exact steps an expert would take, which becomes the blueprint for prompts and agent architectures, and (2) Defining rigorous evals — you can only test if AI output is correct if you deeply understand what correct means in that domain. Founders without domain expertise should either find domain-expert co-founders or go 'undercover' to learn what professionals actually do, rather than guessing from the outside.

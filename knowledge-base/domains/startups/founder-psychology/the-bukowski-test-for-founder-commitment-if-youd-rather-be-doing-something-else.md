@@ -55,6 +55,10 @@ related:
 stance: >-
   Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd
   rather make YouTube content
+evidence:
+  - id: INS-260403-6890
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Fireship frames the passion test explicitly: if Bukowski's poem about going all the way doesn't describe how you feel about your project, it might not be worth your time. Then he immediately confesses: 'I'd much rather spend my time making content on fireship than I would trying to build up this half-assed voice cloning tool.'
 

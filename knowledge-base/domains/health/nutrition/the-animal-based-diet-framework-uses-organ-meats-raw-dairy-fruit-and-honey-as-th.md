@@ -58,5 +58,9 @@ related:
   - INS-260327-9A23
   - INS-260327-EB60
   - INS-260327-118C
+evidence:
+  - id: INS-260327-CCD0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Saladino MD's animal-based framework differs from both carnivore (no plants at all) and keto (minimal carbs). His hierarchy: 1) Organ meats (liver, heart, kidney — the most nutrient-dense foods on earth), 2) Muscle meat (grass-fed, pasture-raised), 3) Raw dairy (unpasteurized — retains enzymes and beneficial bacteria), 4) Fruit and honey (the carbohydrate sources humans evolved eating — fructose in whole fruit context is metabolized differently than industrial fructose), 5) Animal fats (tallow, butter, ghee). He explicitly excludes: seed oils, grains, legumes, and most vegetables (arguing their anti-nutrients like oxalates, lectins, and phytates cause more harm than their fiber provides). This is more permissive than carnivore but more restrictive than paleo.

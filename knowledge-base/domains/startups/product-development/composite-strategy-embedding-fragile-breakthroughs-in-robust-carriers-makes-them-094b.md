@@ -56,6 +56,10 @@ related:
   - INS-260324-A046
   - INS-260330-8BA6
   - INS-260325-1160
+evidence:
+  - id: INS-260330-8BA6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Pure silica aerogel is 99.8% air, an incredible insulator, but so fragile it crumbles under light pressure. This made it a lab curiosity for decades. The breakthrough wasn't improving aerogel itself — it was embedding it into fiberglass blankets, creating a composite that preserved the insulating properties while adding the structural robustness needed for real-world deployment. NASA uses these composites on Mars rovers and spacesuits.
 

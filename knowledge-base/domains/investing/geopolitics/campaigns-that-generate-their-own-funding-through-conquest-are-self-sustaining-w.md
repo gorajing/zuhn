@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-E4DB
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260330-58B9
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Napoleon's Italian campaign was financially self-sustaining: defeated Italian states paid enormous war indemnities, and captured wealth funded the army. He sent millions back to Paris, making him politically invaluable to the Directory. This self-funding model meant he didn't depend on government funding (which was unreliable) and could maintain operational tempo indefinitely.
 

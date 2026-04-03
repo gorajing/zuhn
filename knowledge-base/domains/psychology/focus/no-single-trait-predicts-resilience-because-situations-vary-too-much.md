@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-1CB0
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-F1C8
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Over 100 research studies have confirmed the resilience trajectory — most people recover well from adverse events. But the resilience paradox is that no single trait strongly predicts who will be resilient. Positive thinking, problem-solving, distraction — each correlates with resilience but only weakly predicts it for any individual in any specific future situation.
 

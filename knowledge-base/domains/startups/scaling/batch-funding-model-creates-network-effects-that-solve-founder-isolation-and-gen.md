@@ -59,6 +59,10 @@ related:
   - INS-260330-3FCF
   - INS-260330-DCFB
   - INS-260327-EA4E
+evidence:
+  - id: INS-260327-EA4E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The YC batch model was born from ignorance — Graham and his co-founders wanted to 'practice being investors' and thought funding many startups simultaneously was the fastest way to learn. They even framed the first Summer Founders Program as semi-fake: 'We wouldn't feel guilty for being in a sense fake investors, because they would in a similar sense be fake founders.' But this accidental structure created three compounding advantages.
 

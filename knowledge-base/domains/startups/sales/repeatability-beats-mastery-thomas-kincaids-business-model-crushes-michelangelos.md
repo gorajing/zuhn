@@ -80,6 +80,12 @@ evidence:
   - id: INS-260325-EC7A
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260403-8391
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-2492
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Sudheesh's Michelangelo vs Thomas Kincaid analogy is a powerful framework for evaluating deal strategy. The Michelangelo trap: a marquee customer gets all your resources, bespoke pricing, complex agreements, 12 months of legal wrestling, and planets aligning to close. The result is a masterpiece you can talk about forever — but nothing about it is repeatable.
 

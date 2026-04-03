@@ -58,6 +58,16 @@ related:
   - PRI-260324-D701
   - INS-260328-D0F6
   - INS-260402-9B06
+evidence:
+  - id: INS-260330-A78C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260328-D0F6
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-9B06
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Duckworth's research spans remarkably diverse contexts: West Point Military Academy (who survives training), the National Spelling Bee (who advances furthest), inner-city schools (who graduates), rookie teachers (who stays and improves outcomes), and private company sales teams (who earns most). In every case, one characteristic emerged as the strongest predictor: grit — defined as passion and perseverance for very long-term goals.
 

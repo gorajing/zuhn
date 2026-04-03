@@ -1,8 +1,8 @@
 # Tag: adaptability
 
 - `INS-260323-E2DD` Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
-- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260325-4C16` Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
+- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260330-750A` The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
 - `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
 - `INS-260327-F55A` Adaptability to novel situations, not deep expertise in any domain, is the only AI-proof career strategy.

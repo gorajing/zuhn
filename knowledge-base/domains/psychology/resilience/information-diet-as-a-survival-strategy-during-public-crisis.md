@@ -61,5 +61,14 @@ evidence:
   - id: INS-260323-3614
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260330-B885
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8733
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-8998
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 During the height of attempts to cancel him, Rogan adopted a total information blackout on criticism: he read none of it, told his wife never to relay negative articles, and continued doing shows and stand-up as if nothing was happening. His reasoning reveals a key asymmetry: you're supposed to calibrate your behavior based on feedback from small groups of people you actually encounter, not from millions of strangers with distorted narratives. Written opinions don't gain relevance just because they're published. The result was striking — he gained 2 million subscribers during the controversy period. This suggests that for public figures, the instinct to 'address the narrative' or 'set the record straight' is often counterproductive. The people consuming the negative narrative are largely unreachable anyway, while your existing audience interprets your continued output as evidence of authenticity and resilience. The key distinction: this isn't denial — Rogan knew the attacks were happening — it's a deliberate refusal to absorb unactionable negativity at scale.

@@ -50,5 +50,12 @@ related:
   - INS-260323-3858
   - INS-260327-F397
   - INS-260330-6A94
+evidence:
+  - id: INS-260326-8217
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-6A94
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Waldinger rates impermanence as 'the greatest hit of Zen Buddhism.' The practical application: when caught in relationship conflict, anger, or unhappiness, the awareness that 'it is not gonna feel this way an hour from now, certainly not a day from now' creates immediate relief. This works because most emotional suffering is amplified by the implicit assumption of permanence — we react to a feeling as though it will last forever. Even the self is impermanent: 'Bob has no fixed self or identity. Bob is always fluid.' This is initially scary but ultimately liberating because it means the stories we tell about who we are and must be can be released.

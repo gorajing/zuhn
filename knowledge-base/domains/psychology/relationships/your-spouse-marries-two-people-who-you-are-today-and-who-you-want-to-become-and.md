@@ -53,5 +53,18 @@ related:
   - INS-260330-EA2E
   - INS-260329-E0B0
   - INS-260327-A4B1
+evidence:
+  - id: INS-260323-4082
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-61CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-E0B0
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-A4B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi draws a critical distinction between growth and change in relationships. Growth means becoming more of who you already are in the direction you're already heading — your partner supports and accelerates this trajectory. Change means someone wants you to become a fundamentally different person toward a different end goal — this is the 'project partner' failure mode where one person treats the other as raw material to reshape. The test is whether your partner's vision of your 'better self' aligns with your own vision. If their definition of 'better you' is really just 'different you that suits me better,' the relationship creates permanent friction. True partnership means both people reinforce each other toward becoming better versions of their authentic selves, creating a virtuous cycle where both people's growth is additive rather than competitive.

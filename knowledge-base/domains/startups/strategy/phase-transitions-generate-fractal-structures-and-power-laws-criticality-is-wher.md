@@ -63,6 +63,12 @@ evidence:
   - id: INS-260330-3170
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-7FAC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-7212
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In a magnet below the Curie temperature, each atom influences only its immediate neighbors — effects die out within a few atoms. But at the critical temperature, local influences chain together: one spin nudges its neighbor, which nudges the next, creating correlations that span the entire material. The system becomes scale-free (domains of all sizes, from atoms to millions), fractal, and its size distribution follows a power law.
 

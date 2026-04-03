@@ -57,6 +57,10 @@ related:
   - INS-260330-EAAE
   - INS-260330-33FF
   - INS-260330-BE46
+evidence:
+  - id: INS-260330-33FF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 De Botton introduces attachment theory (Bowlby and Ainsworth, 1950s UK) through its origin: during WWII, children evacuated from London to escape bombing began exhibiting cataclysmic distress — bed-wetting, rage, inability to eat. Researchers realized the emotional damage of separation exceeded the physical danger of bombs. Children were sent home, averting a generational catastrophe.
 

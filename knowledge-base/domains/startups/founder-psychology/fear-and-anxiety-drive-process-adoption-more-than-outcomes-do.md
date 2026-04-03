@@ -60,5 +60,8 @@ evidence:
   - id: INS-260325-2052
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260321-A56C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Michael identifies two triggers for reaching for process: (1) a recurring problem that keeps happening, and (2) personal fear and anxiety about doing something new. Process gives comfort — 'Have I made a plan?' — similar to looking up a recipe when cooking for the first time. But critically, reducing anxiety doesn't mean the output will be good. Chaos might be comforting when the result is good, but it's rarely comforting during the chaos itself, especially for certain personality types. This explains why organizations over-process: every bout of anxiety layers on another process, and the biggest innovations always start with something breaking and having to abandon the plan.

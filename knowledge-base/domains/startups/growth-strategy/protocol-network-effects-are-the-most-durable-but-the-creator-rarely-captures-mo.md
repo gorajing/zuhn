@@ -59,6 +59,10 @@ related:
   - PRI-260322-94C4
   - INS-260325-DFC7
   - PRI-260328-37D8
+evidence:
+  - id: INS-260330-6D2E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Protocol network effects demonstrate a paradox: they're among the most defensible network effects (fax protocol and TCP/IP persist despite superior alternatives existing) yet the protocol creator usually captures very little of the value generated. Ethernet's creator 3Com built a successful company, but the vast majority of value flowed to the ecosystem of Ethernet-compatible product manufacturers.
 

@@ -51,6 +51,10 @@ related:
   - INS-260323-F853
   - INS-260326-2E56
   - INS-260329-EBCA
+evidence:
+  - id: INS-260323-F853
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 People-pleasing appears selfless but functions as environmental control: by anticipating and meeting everyone's needs, the pleaser prevents negative emotions in others that would cause them discomfort. This isn't generosity - it's anxiety management through external control.
 

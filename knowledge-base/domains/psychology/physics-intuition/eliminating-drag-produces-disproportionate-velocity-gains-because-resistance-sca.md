@@ -61,6 +61,16 @@ related:
   - PRI-260320-A2C7
   - PRI-260328-4810
   - INS-260330-9A83
+evidence:
+  - id: INS-260330-C33B
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-F2E1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-9A83
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The vacuum cannon achieves extreme velocities not primarily through more force, but by removing air resistance from the barrel. As Mark Rober explicitly notes, drag is proportional to velocity squared — at high speeds, most of your energy fights air rather than accelerating the projectile. Pulling a vacuum eliminates this entirely, converting nearly all pressure energy into kinetic energy.
 

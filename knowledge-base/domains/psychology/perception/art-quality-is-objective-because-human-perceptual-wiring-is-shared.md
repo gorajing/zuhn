@@ -52,6 +52,10 @@ related:
   - INS-260330-AE16
   - INS-260330-14B1
   - INS-260403-B462
+evidence:
+  - id: INS-260330-AE16
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The relativist claim that 'taste is subjective' collapses once you recognize that humans share deep perceptual responses — face recognition is literally in our DNA, primary color sensitivity is an artifact of eye mechanics, and edge-finding makes defined shapes more engaging than blur. These aren't cultural preferences; they're hardware-level responses shared across all humans.
 

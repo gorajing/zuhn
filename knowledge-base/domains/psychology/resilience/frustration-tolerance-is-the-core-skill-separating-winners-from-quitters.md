@@ -62,6 +62,21 @@ evidence:
   - id: INS-260320-5F14
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-8B89
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-2F78
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-0F10
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-9681
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-8521
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a specific skill deficiency behind most failures: frustration tolerance, defined as the number of times you can be rejected and try again. Unlike grit (a trait), he frames this as a trainable skill — you build it by deliberately sitting in discomfort without escaping. The young man who quit sales at $80K didn't lack passion; he lacked the ability to persist through boredom.
 

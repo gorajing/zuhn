@@ -73,6 +73,9 @@ evidence:
   - id: INS-260330-6AC1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-B8C6
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The lecture describes programming languages as 'fundamentally a middleman for translating a program into machine code' — languages exist on a spectrum from low-level (closer to binary, more precise) to high-level (closer to English, more abstract). This is the exact same tradeoff in prompt engineering: natural language prompts are the highest-level 'programming language' for AI, trading precision for accessibility.
 

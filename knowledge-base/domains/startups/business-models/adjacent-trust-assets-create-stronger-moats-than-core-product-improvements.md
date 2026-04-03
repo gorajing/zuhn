@@ -55,6 +55,10 @@ related:
   - INS-260329-1277
   - INS-260323-1D15
   - INS-260327-24D2
+evidence:
+  - id: INS-260329-1277
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Michelin's Guide is the canonical example: a tire company became the world's most prestigious restaurant rating authority. This wasn't random diversification — it was strategic. The guide increased automobile travel (selling more tires) while building a trust asset so powerful it became more culturally significant than the core product.
 

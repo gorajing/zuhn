@@ -63,6 +63,12 @@ evidence:
   - id: INS-260325-B61B
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260403-2949
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-898A
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 After deriving the circle's area, 3Blue1Brown pivots: 'If you want to think like a mathematician, you don't just care about finding the answer — you care about developing general problem-solving tools and techniques.' The circle problem was a vehicle for discovering integration, which solves an infinite class of problems.
 

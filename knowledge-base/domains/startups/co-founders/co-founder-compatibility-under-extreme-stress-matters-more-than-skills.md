@@ -48,5 +48,12 @@ related:
   - INS-260322-116B
   - INS-260330-88B0
   - INS-260323-9C11
+evidence:
+  - id: INS-260330-88B0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260322-116B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Ram emphasizes that startups are delicate setups where any little thing can derail the whole venture. People always think money is the biggest issue, but Ram disagrees — the real risk is co-founder relationships under stress. Breakdowns in communication, people showing sides you did not know existed, and the pressure of high-stakes decisions all test the relationship. His advice: the co-founder relationship is like a marriage and needs a resolution algorithm for disagreements, not necessarily agreement on everything.

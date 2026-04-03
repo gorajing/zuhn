@@ -51,6 +51,16 @@ related:
   - INS-260323-F310
   - INS-260330-2F74
   - INS-260330-72D0
+evidence:
+  - id: INS-260323-F310
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-2F74
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-72D0
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Human intuition about force is calibrated to small contact areas — a finger pressing, a nail point. We equate high force with high pressure. But force equals pressure times area, so an inflatable pillow at just 1-2 PSI over a square meter can lift a person or a car while feeling like a cushion.
 

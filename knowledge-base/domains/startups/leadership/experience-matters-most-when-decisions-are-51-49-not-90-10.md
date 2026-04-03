@@ -55,6 +55,13 @@ related:
   - PRI-260328-E9B5
   - INS-260402-9093
   - INS-260329-F21F
+evidence:
+  - id: INS-260403-A1DF
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-F21F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 David Solomon pushes back on Silicon Valley's bias toward slope over experience, arguing that Goldman Sachs' management committee succeeds because of deep judgment forged through decades of practice. His framework: intelligence must clear a 'smart enough' threshold, but beyond that, the human elements (connection, resilience, determination) and battle-tested judgment matter far more.
 

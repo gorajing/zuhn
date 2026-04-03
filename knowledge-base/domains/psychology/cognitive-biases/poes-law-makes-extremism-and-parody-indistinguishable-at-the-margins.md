@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-52C1
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260403-AC74
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Poe's Law, as discussed in the context of flat Earth communities, states that at their extremes, parody of extremism and sincere extremism are difficult to distinguish. When asked 'are these people for real?' about flat Earthers, the honest answer is 'probably not most of them' — but you genuinely cannot tell.
 

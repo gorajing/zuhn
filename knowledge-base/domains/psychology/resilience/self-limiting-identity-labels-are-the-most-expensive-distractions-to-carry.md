@@ -55,6 +55,19 @@ related:
   - INS-260322-C6CE
   - INS-260329-28A6
   - INS-260323-53FF
+evidence:
+  - id: INS-260326-C692
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-B0F4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-C6CE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-53FF
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi shares his own example: he believed he was bad at math from ninth grade onward due to a bad teacher. In his 20s, he decided this label no longer served him and stopped using calculators entirely, forcing mental math for years. The people around him now consider him exceptionally good with numbers. The identity was entirely constructed and entirely dismantlable.
 

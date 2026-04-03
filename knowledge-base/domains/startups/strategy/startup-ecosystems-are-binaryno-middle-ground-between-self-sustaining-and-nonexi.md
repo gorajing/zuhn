@@ -55,6 +55,10 @@ related:
   - INS-260402-8170
   - PRI-260325-070D
   - PRI-260328-D292
+evidence:
+  - id: INS-260330-3170
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham observes that Chicago, the third-largest US metro area, is negligible as a startup source compared to Seattle at number 15. This isn't a smooth gradient—it's a phase transition. The mechanism is that startups beget startups: founders leave to start their own companies, successful founders become investors, and this creates a self-reinforcing cycle with a minimum viable threshold.
 

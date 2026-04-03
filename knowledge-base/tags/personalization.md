@@ -7,8 +7,8 @@
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260323-5609` Glasses positioned on the face can see what you see and hear what you hear, making them the natural endpoint for personalized AI that needs continuous context.
 - `INS-260402-BF2E` When every user's filter has different probabilities, spammers can't optimize against a single target — their edit-compile-test cycle becomes appallingly slow.
-- `INS-260330-CFAD` Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine.
 - `INS-260327-A048` British PM Eden personally despised Nasser and compared him to Hitler, making the Suez response about personal vendetta rather than calculated national interest.
+- `INS-260330-CFAD` Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine.
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
 - `INS-260402-1F41` Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
 - `INS-260327-A903` Don't say 'love what you're doing at [Company]' -- find specific things you uniquely have in common with the recipient (same college building, used their specific product feature, niche shared interest) to create real connection.

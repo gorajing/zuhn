@@ -54,6 +54,10 @@ related:
   - INS-260403-6F52
   - INS-260327-D7DD
   - INS-260323-DE2B
+evidence:
+  - id: INS-260327-D7DD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham identifies two critical qualities of effective startup investors: (a) deep personal experience in technology business that helps them pick winners and provide useful advice, and (b) personal financial stake that ensures genuine attention and engagement. Bureaucrats are structurally the opposite on both dimensions—they lack domain expertise and bear no personal financial risk from bad investments.
 

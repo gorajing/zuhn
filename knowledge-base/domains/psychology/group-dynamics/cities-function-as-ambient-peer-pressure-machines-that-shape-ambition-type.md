@@ -58,6 +58,25 @@ related:
   - INS-260329-047C
   - INS-260329-DD01
   - INS-260329-5B3D
+evidence:
+  - id: INS-260328-711E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-E41B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-F9AC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260328-68BA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-DD01
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-8C0E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham argues that cities are not neutral backdrops but active shapers of ambition. New York's message is 'make more money,' Cambridge's is 'be smarter,' and Silicon Valley's is 'have more power over the world.' These messages are transmitted through hundreds of subtle channels — what you overhear, what you see through windows, who gets treated with respect.
 

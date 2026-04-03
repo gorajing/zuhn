@@ -53,6 +53,10 @@ related:
   - PRI-260327-3BD9
   - INS-260327-294E
   - INS-260326-C692
+evidence:
+  - id: INS-260327-7F56
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hal Gregersen's research reveals a counterintuitive dynamic: when a leader asks a question in a group setting, the power differential transforms that question into a perceived directive. Team members hear 'the boss wants us to think about X' rather than 'here's an open exploration.' This effectively narrows the solution space to whatever the leader's question implies.
 

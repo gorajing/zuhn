@@ -53,5 +53,9 @@ related:
   - INS-260323-B4D2
   - INS-260330-DDF0
   - PRI-260328-3BEF
+evidence:
+  - id: INS-260323-B4D2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi illustrates with two examples: a media company with 40M subscribers asking how to optimize their SOPs when they had no product to sell, and a sales expert asking about closing frameworks when his 40% close rate wasn't the constraint. In both cases, founders sought information about what they already knew rather than addressing the actual bottleneck. The pattern is predictable: marketing entrepreneurs assume they need more marketing, product entrepreneurs assume they need better product. The business grows to the limit of the founder's strongest skill, then stalls at a weakness they're avoiding. Strategy is simply prioritization of limited resources — current state, desired state, obstacle — and most stuck entrepreneurs can't clearly articulate all three.

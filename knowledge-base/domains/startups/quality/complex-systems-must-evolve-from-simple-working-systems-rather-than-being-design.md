@@ -54,6 +54,10 @@ related:
   - INS-260329-B34E
   - PRI-260328-9EC9
   - INS-260330-9197
+evidence:
+  - id: INS-260323-5BEF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham contrasts two creation modes: the 'defend a position' approach (start with a thesis, argue for it) versus the 'river' approach (at each step, flow toward what's most interesting). The river metaphor is precise — the Meander river winds all over the place, but its path is the most economical route to the sea. Similarly, an essay that meanders is actually finding the optimal path through idea-space.
 

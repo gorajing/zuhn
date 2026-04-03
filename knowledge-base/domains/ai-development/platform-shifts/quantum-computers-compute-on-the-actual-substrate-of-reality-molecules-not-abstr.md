@@ -73,6 +73,9 @@ evidence:
   - id: INS-260323-5199
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-1F35
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kaku makes a fundamental philosophical point: digital computers compute on abstractions — zeros and ones. But the real world — molecules, diseases, chemical reactions — is not made of zeros and ones. It is made of electrons that can exist in multiple states simultaneously. Quantum computers compute on atoms and electrons directly, making them native to the substrate of reality.
 

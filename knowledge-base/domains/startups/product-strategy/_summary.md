@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 23 insights
+> 25 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -12,8 +12,10 @@
 - `INS-260330-C870` [high] Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
 - `INS-260330-F7F4` [high] Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
 - `INS-260330-13E8` [high] Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time.
+- `INS-260403-B198` [high] Revolutionary framing creates a false dichotomy; the winning strategy is evolving what already works with new capabilities layered on top.
 - `INS-260330-2E34` [high] The arrow hits the target precisely because it bends — rigidity would cause it to deflect off course.
 - `INS-260330-2306` [high] Your job is to hear the problem behind the request and build the simplest solution to that problem.
+- `INS-260403-EC8A` [high] Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral.
 - `INS-260403-5FBD` [high] Value proposition fit and business model viability are independent variables — companies need both to survive.
 - `INS-260330-118D` [high] Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.
 - `INS-260330-62D6` [high] Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.

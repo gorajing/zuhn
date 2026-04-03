@@ -60,6 +60,10 @@ related:
 stance: >-
   When casualties become 'averaging 10,000 a month' instead of named individuals
   with stories, moral weight evaporates
+evidence:
+  - id: INS-260323-5737
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Suleiman makes explicit the mechanism: 'they've made them faceless, they can't make us voiceless.' Reducing people to numbers — 30,000 dead — strips moral urgency. The journalist Wael Al-Dahdouh embodies the counter-strategy: he gets back on camera after losing his wife, children, grandson, cameraman, and another son, because individual stories restore the humanity that statistics erase.
 

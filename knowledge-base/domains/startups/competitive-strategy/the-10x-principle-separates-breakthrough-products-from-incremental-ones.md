@@ -55,6 +55,9 @@ evidence:
   - id: INS-260329-72D5
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-9F46
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Senkut was Google's first PM and helped launch Gmail. The core principle: Gmail wasn't slightly better than Hotmail—it was 10X better with vastly more storage, better search, and a fundamentally different approach. This 10X principle became Felicis Ventures' investment thesis across 45+ unicorns.
 

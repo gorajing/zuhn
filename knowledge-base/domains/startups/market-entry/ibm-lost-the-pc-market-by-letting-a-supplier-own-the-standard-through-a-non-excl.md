@@ -61,6 +61,9 @@ evidence:
   - id: INS-260321-1A03
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-67CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham uses the IBM-Microsoft story as the canonical example of how disruption works in a post-oligopoly world. IBM dominated computing so thoroughly that entering the microcomputer market seemed like merely reaching out to pick ripe fruit. Their mistake was structural: accepting a non-exclusive license for DOS because no competitor had ever outsold them. The result was an explosion of cheap PC clones, with Microsoft owning the standard and the customer relationship. As Graham puts it: 'Apple bumped IBM and then Microsoft stole its wallet.'
 

@@ -50,6 +50,16 @@ related:
   - INS-260329-DFDD
   - INS-260323-1CA4
   - INS-260323-8271
+evidence:
+  - id: INS-260329-DFDD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-9EFA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-59D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The very concept of trade that sales derives from is that by exchanging goods, both sides end up better off. When a founder sells something to a customer that doesn't produce any real benefit but collects money anyway, that's not trade — it's closer to extraction. You might hit your 15% month-over-month growth target, but your customer didn't win.
 

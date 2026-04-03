@@ -62,6 +62,13 @@ related:
   - INS-260330-8BDA
   - INS-260330-12F9
   - INS-260330-1222
+evidence:
+  - id: INS-260330-9A83
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8BDA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The entire premise of this video is that suppressors are opaque — engineers design them using theory, simulation, and external measurements, but nobody had directly watched what happens inside during firing. When they finally could see it (acrylic casing + 110,000 fps camera), even Steve — the expert designer — said 'I've never seen anybody do that before.' The visualization revealed the reverse mushroom pressure wave, the asymmetric gas expansion, and the baffle flex patterns.
 

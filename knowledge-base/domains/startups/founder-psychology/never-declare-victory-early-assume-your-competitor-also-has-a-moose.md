@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-D1B7
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-163B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 After killing the moose — a massive competitive advantage on Alone — Jonas never assumed he had won. Instead, he immediately reframed: 'It's going to be me against somebody else that gets a moose now, and we're going to be here 6-8 months.' When the wolverine stole his fat reserves, this paranoid framing protected him psychologically because he'd never stopped producing.
 

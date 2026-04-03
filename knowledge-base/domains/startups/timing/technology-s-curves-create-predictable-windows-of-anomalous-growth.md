@@ -67,6 +67,9 @@ evidence:
   - id: INS-260330-AA9D
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-A458
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 From 2007 to roughly 2016, smartphones improved so dramatically each year that frequent upgrades felt necessary. PolyMatter argues this was a perfect storm: 'technology was moving incredibly quickly but still always left enough to be desired for next year.' Once phones became 'good enough' for most users' needs (checking social media, messaging), the growth phase ended and upgrade cycles lengthened from 2 to 4+ years.
 

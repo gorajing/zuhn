@@ -13,6 +13,7 @@
 - `INS-260330-4DFA` Distribution beats product in the strategic hierarchy because running out of customers or money kills you before a mediocre product does.
 - `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
+- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260321-C902` New AI products follow a predictable distribution ladder: X small communities then AI news pages then Instagram news then creators then Telegram.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260321-4E98` Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.
@@ -20,7 +21,6 @@
 - `INS-260321-ADB4` Allocate 80% of content to evergreen material (guides, frameworks, reference) and 20% to timely pieces. Every piece should exist in at least five formats: audio, video, short clips, newsletter, social thread.
 - `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
 - `INS-260330-0FB9` TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok.
-- `INS-260323-61CD` The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260330-C7E6` Coca-Cola used WWII patriotism to get government-funded bottling plants in 64 countries, turning the US military into a de facto sales force.
 - `INS-260330-2737` Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260330-9FCC` In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.

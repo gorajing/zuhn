@@ -55,6 +55,13 @@ related:
   - PRI-260328-7EA5
   - INS-260330-44BC
   - INS-260327-3528
+evidence:
+  - id: INS-260330-44BC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-3528
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Chinese historians were trained in Confucian classics that emphasized moral behavior as the key to maintaining power. They then wrote histories that proved this thesis, which became the curriculum for the next generation of historians. The circularity is elegant: scholars define what good governance looks like, train rulers in their framework, then evaluate rulers by that same framework.
 

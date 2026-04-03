@@ -63,6 +63,9 @@ evidence:
   - id: INS-260325-47FE
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260325-5023
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When you tell a salesperson 'your calls suck,' they walk away knowing what you don't want but having no idea what you do want or how to get there. Ironic process theory predicts they'll actually think more about the bad behavior, not less — like telling an anxious person to stop worrying. They regress.
 

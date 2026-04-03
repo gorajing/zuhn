@@ -57,6 +57,10 @@ related:
 stance: >-
   50% of businesses fail in 2 years because leaders cannot hold teams
   accountable — the failure is internal culture, not external markets.
+evidence:
+  - id: INS-260329-5FB5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The default narrative is that businesses fail because of market conditions, bad timing, or lack of funding. Leila Hormozi's counterweight: most businesses fail from the inside out. Shitty teams, shitty leaders, shitty accountability. The symptoms are measurable: low revenue per headcount (half that of competitors with high accountability), unclear metrics, hidden expenses, low conversion rates despite high demand, and high employee turnover.
 

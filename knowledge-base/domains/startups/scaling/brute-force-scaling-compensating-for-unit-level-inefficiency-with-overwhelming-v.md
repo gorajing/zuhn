@@ -70,6 +70,9 @@ evidence:
   - id: INS-260325-C523
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-E70C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 RuBisCo is one of the slowest enzymes in biology and confuses its substrate (CO2) with oxygen roughly half the time. Despite this, it is the most abundant protein on Earth — an estimated 40 billion tons at any given moment. Plants compensated for RuBisCo's per-unit inefficiency by simply manufacturing enormous quantities of it.
 

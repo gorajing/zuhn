@@ -57,6 +57,16 @@ related:
   - INS-260330-DBB3
   - INS-260329-48FD
   - INS-260329-04FA
+evidence:
+  - id: INS-260329-FEF4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-001B
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-04FA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham distinguishes between needing math (knowing tricks for differentiating formulas) and benefiting from math (having a rich library of mental models). He argues most hackers need very little formal math, but math is 'a valuable source of metaphors for almost any kind of work.' Eric Raymond specifically names set theory, combinatorics, and graph theory as the richest sources.
 

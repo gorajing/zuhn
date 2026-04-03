@@ -78,6 +78,9 @@ evidence:
   - id: INS-260327-A9E8
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-52CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Internet Made Coder's team gave their productivity app to friends who responded with encouraging words and feature requests ('if it just had this one thing, I'd definitely use it'). The team built each requested feature, creating a massive feature list — but analytics showed users dropped off after the first day regardless. The friends' requests were social politeness, not genuine demand.
 

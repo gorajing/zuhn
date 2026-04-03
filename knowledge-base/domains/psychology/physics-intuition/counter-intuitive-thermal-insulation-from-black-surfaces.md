@@ -52,6 +52,19 @@ related:
   - INS-260330-012D
   - INS-260330-659D
   - INS-260330-56AA
+evidence:
+  - id: INS-260330-FC16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-012D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-659D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-56AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The intuitive assumption — black balls absorb more heat, therefore they heat the water — is wrong. The balls get hot on top but the air inside acts as thermal insulation (like a double-paned window), preventing heat transfer to the water below. Measurements showed water is actually cooler under black shade balls than under direct sunlight.
 

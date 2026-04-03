@@ -60,6 +60,9 @@ evidence:
   - id: INS-260329-8407
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-6EF1
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The video's most memorable moment comes from a simple reframe: rather than stating the sphere's deviation in nanometers (which means nothing to most people), the scientist says 'if this were the Earth, the highest mountain to the lowest valley would be about 14 meters apart.' This single analogy conveys both the scale of the achievement and makes the audience feel genuine awe.
 

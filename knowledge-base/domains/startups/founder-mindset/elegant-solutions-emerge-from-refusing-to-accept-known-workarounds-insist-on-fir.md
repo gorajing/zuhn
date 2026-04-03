@@ -78,6 +78,9 @@ evidence:
   - id: INS-260323-7345
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-DBA4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Klein-Gordon equation was a perfectly functional relativistic wave equation that other physicists accepted. It made reasonable predictions. But Dirac rejected it because its second-order time derivative treated time differently from space — violating the symmetry that relativity demands. His colleagues thought he was being needlessly picky.
 

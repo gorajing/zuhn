@@ -63,6 +63,10 @@ related:
 stance: >-
   Cuban identifies curiosity, agility, and the ability to sell as the three
   entrepreneurial essentials
+evidence:
+  - id: INS-260329-59D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Cuban's hierarchy of entrepreneurial traits places curiosity at the foundation: you must be a voracious consumer of information because the world changes constantly. His father's saying — 'we don't live in the world we were born into' — captures why. No matter how good your current skills are, they become obsolete if you stop learning.
 

@@ -59,5 +59,9 @@ related:
   - INS-260323-8B89
   - INS-260327-0017
   - INS-260329-8CA3
+evidence:
+  - id: INS-260323-8B89
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Kennedy identifies the automatic conflation of behavior with identity as the root dysfunction in parenting, management, and relationships. When a child hits, we label them 'a hitter.' When someone is late, we label them 'lazy.' This conflation happens because behavior is observable and identity is not — so our mind takes the shortcut of equating them. The result is shame, which universally makes behavior worse. The alternative is to maintain a gap: 'You are a good kid having a hard time.' This is not permissiveness — it enables more effective intervention because it positions you as a coach working with someone rather than a judge condemning them. The same principle applies in management: treating an underperforming employee as fundamentally deficient versus a capable person facing specific obstacles leads to radically different outcomes.

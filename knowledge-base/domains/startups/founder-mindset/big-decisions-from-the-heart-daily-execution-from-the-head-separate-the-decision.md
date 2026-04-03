@@ -65,6 +65,12 @@ evidence:
   - id: INS-260323-846D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260323-DEEA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-922D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Ahana's framework for irreversible decisions (leaving the US, starting a company, pivoting the business model): make the big decision with your heart — find what truly fulfills you. But once that decision is made, put your heart aside entirely. It's all brain, discipline, and data from there. You cannot allow yourself to re-question the decision on bad days.
 

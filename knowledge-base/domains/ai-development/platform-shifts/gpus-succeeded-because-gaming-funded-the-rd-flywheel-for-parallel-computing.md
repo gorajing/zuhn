@@ -43,11 +43,11 @@ resolutions:
     builders: find the largest possible initial market that naturally demands
     your core capability, even if your ultimate vision extends far beyond it.
 related:
+  - INS-260403-57E7
   - PRI-260328-82BE
   - INS-260327-C1F6
   - INS-260324-9E37
   - INS-260327-90E8
-  - INS-260322-EDA4
   - INS-260324-6345
   - INS-260324-468C
   - INS-260323-0277
@@ -84,6 +84,9 @@ evidence:
   - id: INS-260327-CA82
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-58BB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Jensen Huang's key strategic insight was that video games would become the largest entertainment market ever, and that market size would fund the R&D needed to build increasingly powerful parallel processors. The flywheel: large gaming market -> large R&D budget -> better GPU technology -> more applications -> larger market.
 

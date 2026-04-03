@@ -55,5 +55,8 @@ evidence:
   - id: INS-260330-F5A1
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-5B7F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The six advantages of cloud computing reveal a structural shift in how companies manage infrastructure costs. By trading capital expense for variable expense, companies eliminate the need to guess capacity upfront — no more paying for idle servers or scrambling when demand spikes. This is particularly powerful for startups: instead of raising capital to build data centers, they can start with minimal spend and scale linearly with revenue. The economics of scale from shared infrastructure across hundreds of thousands of customers creates pricing that no single company could achieve on-premise. This shifts the competitive advantage from 'who has the deepest pockets for infrastructure' to 'who builds the best product on top of commoditized infrastructure.'

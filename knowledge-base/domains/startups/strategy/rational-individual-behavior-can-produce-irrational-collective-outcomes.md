@@ -57,6 +57,15 @@ evidence:
   - id: INS-260330-C8D7
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260325-7974
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260326-7F56
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-7212
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The prisoner's dilemma demonstrates that defection is individually rational in a single round, but cooperation dominates in iterated play. Gibbard and Harper's 1978 paper admits two-boxing is 'rational' while acknowledging two-boxers fare worse — then calls the game 'rigged.' But the real insight is that rationality at one level (individual) can be incompatible with rationality at another level (society).
 

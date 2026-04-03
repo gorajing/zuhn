@@ -60,6 +60,12 @@ evidence:
   - id: INS-260325-B115
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-9BFD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-48BA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When hiring, competence feels like the safe bet — pick the person with the most experience. But Han Gi-yong learned through painful experience that attitude matters just as much. In a rapidly changing world, every strategic pivot requires persuading the team to follow. Team members who are expensive to persuade — who resist change, need extensive justification, or passively resist new directions — become a compounding tax on the leader's time and energy.
 

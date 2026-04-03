@@ -53,5 +53,12 @@ related:
   - INS-260327-A458
   - INS-260330-D21A
   - INS-260323-A2E5
+evidence:
+  - id: INS-260328-EA3A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-A458
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Andrews identifies a critical nuance in the common advice to 'be consistent': consistency alone leads to a plateau because you're not learning or developing. The actual formula is consistency x experimentation. If you just keep posting your batched content calendar without adapting, you flatline. You only get the hockey-stick compounding growth graph by obsessively trying new things every week — leaning into new platform features when they launch, jumping on relevant trends, and analyzing what didn't work (more important than what did). Meanwhile, virality is explicitly a sugar rush: you get the buzz, then the comedown when nobody stays. She can list 10 things that would go viral tomorrow — but that should almost never be the goal. The goal is consistently getting in front of your desired audience and building relationship over time.

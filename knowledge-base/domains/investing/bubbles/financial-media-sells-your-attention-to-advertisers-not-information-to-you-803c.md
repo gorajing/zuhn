@@ -88,6 +88,9 @@ evidence:
   - id: INS-260330-CDE1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-5B0C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Ritholtz exposes the financial media business model: they are not selling information, they are selling your attention to advertisers. This creates perverse incentives: sensational headlines, decontextualized scary numbers, and constant urgency that triggers exactly the evolutionary threat-response biases that destroy investment returns.
 

@@ -51,6 +51,13 @@ related:
 stance: >-
   Just as scientists never refuse to run an experiment because the result might
   be unpleasant, the marketplace of ideas must entertain all hypotheses
+evidence:
+  - id: INS-260330-7819
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-AB55
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Silverglate applies the scientific method beyond science to all discourse: you entertain different views, hear all sides, and make decisions about which are accurate. No scientist says 'don't do that experiment because the outcome would be bad' — yet in social and political discourse, we routinely suppress ideas deemed uncomfortable.
 

@@ -59,6 +59,9 @@ evidence:
   - id: INS-260402-F04F
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-CC7D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Naval argues that trying to fill predefined roles is a trap borrowed from large company HR practices. When you interview marketing candidates and hire the best from that set, you're optimizing within a constrained pool rather than optimizing for genius. If you find someone truly exceptional who doesn't fit any current need, hire them anyway — great people identify problems and get involved regardless of their job description.
 

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260329-E7A4
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-8011
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Alibaba Cloud's Jeff identified a clean split in enterprise AI deployment bottlenecks based on customer type. For B2B (Salesforce, SAP integrations), the blocker is accuracy — enterprise business processes require extremely high reliability, so teams must carefully select 'risk-tolerant' scenarios where occasional failures are acceptable. The deployment challenge is finding the right use cases, not scaling compute.
 

@@ -46,10 +46,10 @@ stance: >-
 related:
   - INS-260323-FBD9
   - INS-260327-5CB6
+  - INS-260403-F519
   - INS-260330-CCF0
   - INS-260324-468C
   - INS-260330-E8C6
-  - INS-260320-A1D3
   - INS-260330-2200
 ---
 Junestrand competed seriously in Dota 2 (5-player competitive game) and credits gaming with developing his leadership style. In Dota, you must collaborate with 4 other players who may be much smarter than you in specific areas. The team must work seamlessly to achieve goals together. Sound familiar?

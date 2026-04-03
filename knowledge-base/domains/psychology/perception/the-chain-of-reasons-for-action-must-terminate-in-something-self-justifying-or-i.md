@@ -52,5 +52,9 @@ related:
   - PRI-260328-6189
   - INS-260327-6021
   - INS-260329-2349
+evidence:
+  - id: INS-260323-4D5E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 O'Connor traces the 'why chain': Why get out of bed? To go to work. Why? To make money. Why? To provide for family. Why? Eventually this chain must terminate somewhere — in God for the religious, in relational meaning (like raising children) for most secular people, or in the nihilist's recognition that the chain simply stops with no ultimate grounding. The philosophical value is in recognizing where your own chain terminates. Most people have never traced it to its end. For founders and builders, this is relevant because the 'why' behind a company or project faces the same regress — and the most resilient motivations are the ones that are genuinely self-justifying rather than instrumental.

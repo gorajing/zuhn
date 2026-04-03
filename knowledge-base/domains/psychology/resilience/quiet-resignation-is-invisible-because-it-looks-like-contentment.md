@@ -50,6 +50,13 @@ related:
   - INS-260325-F500
   - INS-260327-1AD8
   - INS-260327-8997
+evidence:
+  - id: INS-260327-3E6F
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8997
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Active rebellion is visible and gets attention. Quiet resignation is invisible because it produces the same observable behavior as contentment: going to work, consuming media, maintaining routines, not causing problems. The difference is entirely internal - the resigned person has abandoned any expectation that life could be more meaningful.
 

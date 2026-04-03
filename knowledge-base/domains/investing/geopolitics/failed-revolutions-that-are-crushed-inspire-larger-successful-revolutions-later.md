@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-3A3F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-C7CB
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Nicholas I crushed the Decembrist revolt and imposed severe repression. But the Decembrists became martyrs and their ideas became foundational texts for future reformers. Each subsequent generation was more radical: the Decembrists wanted constitutional monarchy, the 1860s radicals wanted democracy, the 1905 revolutionaries wanted socialism, and the 1917 Bolsheviks wanted total transformation. Suppressing moderate demands created extremist ones.
 

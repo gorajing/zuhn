@@ -60,6 +60,10 @@ related:
   - INS-260327-6B78
   - PRI-260327-117F
   - INS-260330-F4DD
+evidence:
+  - id: INS-260325-FDF5
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The video identifies a common enterprise paradox: you have a champion who is genuinely excited and wants to buy, but they keep having the same high-level value conversations call after call without progressing. The problem isn't interest -- it's that they don't know what the next steps actually are because they've never bought software at this organization before.
 

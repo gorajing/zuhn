@@ -70,6 +70,10 @@ related:
   - INS-260327-F26E
   - INS-260323-1CA4
   - PRI-260328-7E58
+evidence:
+  - id: INS-260327-F26E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Whyte redefines the 'I' in MEDDPICC as three progressive levels. Level 1 (Identify): even bad sellers can spot a problem — they identify pain then jump straight into a 50-slide deck about their solution. Level 2 (Indicate): good sellers quantify the pain — 'this is costing you $X in lost revenue or Y hours of inefficiency' — and build it into an ROI document. Level 3 (Implicate): elite sellers understand that pain is a mindset, not a metric.
 

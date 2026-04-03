@@ -59,6 +59,13 @@ related:
   - INS-260330-85D9
   - PRI-260328-F804
   - PRI-260328-DD6A
+evidence:
+  - id: INS-260323-A64F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Gupta argues that the human internal environment responds to inputs like a tuning fork — if exposed to truth on a regular basis, something inside internalizes it and it becomes the new norm. The brain literally rewires itself based on exposure without any deliberate work, psychotherapy, or medication required. Naval extends this to wealth creation: hang around Silicon Valley or entrepreneurs long enough and you'll be in the tech business.
 

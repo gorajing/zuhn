@@ -57,5 +57,8 @@ evidence:
   - id: INS-260329-B7F5
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260323-F2C3
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 CS50 is not the only introductory CS course available for free online. MIT, Stanford, and dozens of other institutions offer similar content. Yet CS50 has 13+ million views on a single upload. The differentiator is not the curriculum — it's the production. Malan's lectures feature professional lighting, music, live demonstrations, audience interaction, and emotional storytelling (his own origin story of almost not taking the course). This production value creates a perception of authority and quality that makes students trust the content more and engage longer. The lesson for anyone creating educational or explanatory content: expertise is table stakes. Production quality — pacing, visuals, emotional hooks, narrative structure — is the actual competitive advantage. A mediocre expert with great production will outperform a brilliant expert with a webcam recording.

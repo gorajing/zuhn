@@ -55,5 +55,9 @@ related:
   - INS-260330-8E3C
   - PRI-260323-50FE
   - INS-260402-ECB6
+evidence:
+  - id: INS-260322-116B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Bill Campbell taught Horowitz a critical distinction: when firing someone, you must be brutally honest with the person directly about why they're being let go (typically a hiring mismatch, not a personal failing), but when communicating to the company, you must preserve their dignity. The temptation is to signal decisiveness by publicly explaining the failure, but this backfires in two ways. First, every employee in the company will eventually receive a reference-check call about the departed person — so whatever narrative you set at the all-hands effectively becomes their professional reputation. Second, remaining employees don't feel inspired by watching a colleague get publicly humiliated; they feel threatened, wondering if they'll be next. The right approach is to thank the person for their contributions, acknowledge the transition, and avoid detailing personal shortcomings. Be honest in private, be dignified in public — this is a two-audience communication problem that most CEOs collapse into one.

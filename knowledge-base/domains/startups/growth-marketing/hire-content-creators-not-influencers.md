@@ -50,6 +50,9 @@ evidence:
   - id: INS-260321-F0DF
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-764E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 
 The alpha in creator-driven growth is working directly with individual

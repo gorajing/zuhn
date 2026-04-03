@@ -69,6 +69,12 @@ evidence:
   - id: INS-260325-E9B1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260325-AE23
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-25A2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Voss argues that there is no such thing as pure reason separated from emotion. His proof: in kidnapping negotiations, FBI leadership would ask 'when is this going to be over?' and the answer was always 'when the bad guys feel like they've gotten everything they can.' The word 'feel' is doing all the work — even in high-stakes mercenary calculations, it's the subjective feeling of satisfaction, not objective measurement, that ends negotiations.
 

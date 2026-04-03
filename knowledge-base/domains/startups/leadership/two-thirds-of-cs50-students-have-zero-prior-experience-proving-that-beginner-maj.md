@@ -52,5 +52,9 @@ related:
   - INS-260329-4C4C
   - INS-260329-B194
   - INS-260325-E84D
+evidence:
+  - id: INS-260325-E84D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 CS50 is Harvard's largest course, and 2/3 of its students have never written a line of code. This is not despite the beginner focus — it's because of it. The insight generalizes to product strategy: in any skill domain, the beginner population dwarfs the intermediate and advanced populations combined. Yet most technical products are built by experts who unconsciously design for their own skill level. CS50 succeeds because Malan explicitly designs every lecture assuming zero background. The lesson for founders and educators: if you want maximum reach, design for the person who has never done the thing before. The intermediates and experts will self-serve — the beginners need you.

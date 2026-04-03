@@ -64,6 +64,10 @@ related:
   - INS-260330-072C
   - INS-260330-7E58
   - INS-260330-625B
+evidence:
+  - id: INS-260322-116B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 From conducting over 100 SDR interviews, the speaker observed that candidates without cold calling experience but with strong character traits quickly surpass those with extensive experience but weaker traits. The three traits that constitute a 'slam dunk candidate' are: being a hard worker (showing up early, staying late, high effort), being coachable (taking feedback and visibly applying it), and being a team player (helping others succeed when you start performing well).
 

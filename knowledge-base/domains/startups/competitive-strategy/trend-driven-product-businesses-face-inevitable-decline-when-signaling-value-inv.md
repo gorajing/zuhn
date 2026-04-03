@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-A69D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-A458
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Once Stanley tumblers reached mass saturation, owning one shifted from signaling in-group membership to signaling conformity. The cultural narrative flipped from 'smart choice' to 'mindless consumerism.' The same social media that amplified desire amplified backlash. The trend cycle has an inherent reversal mechanism: ubiquity destroys signaling value.
 

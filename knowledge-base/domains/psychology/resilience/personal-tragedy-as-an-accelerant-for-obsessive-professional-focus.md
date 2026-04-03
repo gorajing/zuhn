@@ -61,6 +61,15 @@ evidence:
   - id: INS-260327-891F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-1996
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-B7FC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-049B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Morgan's wife Amelia died of tuberculosis just four months after their wedding, leaving him a widower at 24. According to historical accounts, he never fully recovered emotionally, but the loss triggered an obsessive immersion in his work that persisted for the rest of his life. This pattern of channeling grief into professional intensity appears repeatedly in the biographies of transformational figures.
 

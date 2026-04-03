@@ -65,6 +65,42 @@ evidence:
   - id: INS-260327-7E6F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-887D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-CF3E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-AB5F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8D82
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-E747
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-24F4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-EECD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C8E1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-AAE3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-7EDF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-5A24
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-5FED
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Fear of failure prevents more achievement than failure itself. Beckett's reframe - failure isn't something that happens despite your efforts but IS the method by which you progress - eliminates this fear by changing the relationship to failure.
 

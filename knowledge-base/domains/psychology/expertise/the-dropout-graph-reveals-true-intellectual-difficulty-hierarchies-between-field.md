@@ -55,6 +55,10 @@ related:
   - INS-260330-9197
   - INS-260403-C5BA
   - PRI-260328-E64D
+evidence:
+  - id: INS-260330-9197
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham proposes a heuristic: observe the direction of switches between fields. Many people move from math to CS because math is too hard, but nobody moves the other way. This creates a directed graph where edges point from harder to easier fields, and the bottom of the graph contains subjects with the least intellectual content.
 

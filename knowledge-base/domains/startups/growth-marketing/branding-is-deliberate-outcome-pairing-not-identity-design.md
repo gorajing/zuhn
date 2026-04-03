@@ -70,5 +70,8 @@ evidence:
   - id: INS-260329-16F0
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-59D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi redefines branding away from vague notions of 'gut feeling' or 'emotional shorthand' into a concrete mechanism: deliberately pair your product with people, experiences, and values your ideal customer already likes, then let the positive outcome cement the association. Nike pairs with LeBron (winning/competition), Dolce & Gabbana pairs with Kim Kardashian (fame/luxury). The logo is just the symbol that encodes all prior pairings — it has no inherent meaning until associations accumulate. This reframe makes branding actionable: instead of agonizing over brand identity documents, focus on choosing what to pair with and ensuring the outcome is positive for the majority of your target audience.

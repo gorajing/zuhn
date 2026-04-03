@@ -57,6 +57,16 @@ related:
   - INS-260327-8B9A
   - INS-260327-E7AC
   - INS-260330-488B
+evidence:
+  - id: INS-260323-DF0F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8B9A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-E7AC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Rome's military transition from citizen-soldiers to paid mercenaries is one of history's clearest examples of how outsourcing core functions to people with no institutional stake destroys organizations from within. Mercenaries fought for pay, not for Rome — so when better offers came or situations got difficult, they defected or underperformed.
 

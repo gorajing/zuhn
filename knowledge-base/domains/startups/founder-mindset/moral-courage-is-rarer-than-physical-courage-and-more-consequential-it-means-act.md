@@ -66,6 +66,9 @@ evidence:
   - id: INS-260325-BAA4
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260322-116B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 RFK Jr recounts his father's emphasis on moral courage as distinct from and harder than physical courage on battlefields or football fields. His book 'Profiles in Courage' documented politicians who chose principle over career, and most were destroyed by that choice.
 

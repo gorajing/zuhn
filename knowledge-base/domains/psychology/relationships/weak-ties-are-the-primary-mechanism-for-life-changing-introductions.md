@@ -52,6 +52,16 @@ related:
   - INS-260329-A7E2
   - INS-260330-8FC5
   - PRI-260328-0C86
+evidence:
+  - id: INS-260323-D783
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260321-C0A4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-A7E2
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Drawing on Granovetter's Strength of Weak Ties theory, the article explains why your closest friends are poor sources of novel introductions — tight network clusters have near-complete overlap, so everyone already knows everyone. Acquaintances bridge between clusters, providing access to entirely different pools of people, ideas, and opportunities.
 

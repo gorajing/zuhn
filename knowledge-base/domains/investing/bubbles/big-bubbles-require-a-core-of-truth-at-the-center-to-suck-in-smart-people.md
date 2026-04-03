@@ -53,6 +53,19 @@ related:
   - INS-260330-125E
   - INS-260325-D624
   - INS-260325-0147
+evidence:
+  - id: INS-260327-7DAA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-125E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-D624
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-0147
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Paul Graham argues that the dot-com Bubble, like the South Sea Bubble and Mississippi Bubble before it, was anchored to a genuinely transformative trend — the Internet, or organized public finance in earlier cases. Isaac Newton and Jonathan Swift both lost money in the South Sea Bubble, not because they were stupid, but because the underlying innovation was real enough to make extreme valuations seem plausible.
 

@@ -66,6 +66,9 @@ evidence:
   - id: INS-260402-BF2E
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260322-B641
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham's key architectural insight was that each user should maintain their own spam probability database trained on their personal mail. A word like 'Lisp' functioned as an effective password in his filter because it appeared constantly in his legitimate mail but never in spam. Spammers who tuned messages to bypass the seed filter had no guarantee of passing through any individual user's trained filter.
 

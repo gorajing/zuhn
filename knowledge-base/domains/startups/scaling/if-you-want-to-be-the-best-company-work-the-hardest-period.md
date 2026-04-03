@@ -57,6 +57,9 @@ evidence:
   - id: INS-260322-A928
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260323-DA91
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Song's philosophy is unambiguous: if you want to be the best company in the world, you have to work the hardest. She draws a direct parallel to athletics and music—elite performers practice non-stop, and tech startups are no different.
 

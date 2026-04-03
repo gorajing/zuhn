@@ -58,5 +58,9 @@ related:
   - INS-260329-F6E1
   - INS-260323-B4D2
   - INS-260329-6079
+evidence:
+  - id: INS-260323-B4D2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies 8 specific ways to increase what each customer is worth: (1) raise price, (2) decrease costs, (3) increase purchase frequency (subscriptions), (4) cross-sell complementary products, (5) increase quantity per purchase (bulk), (6) upgrade to higher quality version, (7) downsell to convert nos into smaller yeses, and (8) offer economy tier. The key insight is that these levers are multiplicative, not additive — a business that pulls all 8 can make each customer worth 5-10x more than one that only sells a single product at a single price. The easiest starting point for beginners is the '5-to-5-to-5' pricing model: sell to 5 customers, raise price 20%, repeat until conversion drops. This creates a data-driven pricing ceiling rather than guessing. The second easiest lever is simply asking existing customers to buy again or buy something additional — requiring zero new customer acquisition.

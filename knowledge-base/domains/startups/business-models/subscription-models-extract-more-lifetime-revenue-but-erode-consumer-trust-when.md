@@ -60,6 +60,9 @@ evidence:
   - id: INS-260322-B641
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-1403
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The subscription model has been applied to increasingly inappropriate products: BMW charging monthly for heated seats, printer companies locking cartridges behind subscriptions, formerly one-time software purchases converting to SaaS. Each conversion extracts more revenue short-term but erodes consumer trust. The cumulative effect — subscription fatigue — is now causing consumers to reject subscriptions even for products where they make sense.
 

@@ -51,6 +51,19 @@ related:
   - PRI-260328-4313
   - INS-260329-ADC4
   - INS-260330-E61E
+evidence:
+  - id: INS-260329-9115
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-7B1D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-ADC4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-E61E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's 28-item list works because each item is a concrete behavior to eliminate, not a vague aspiration to pursue. Stopping a behavior (spending impulsively, blaming others, avoiding discomfort) requires only the decision to stop — no new skill, no practice period, no learning curve. Starting a behavior (investing wisely, taking ownership, embracing discomfort) requires both the decision AND capability development.
 

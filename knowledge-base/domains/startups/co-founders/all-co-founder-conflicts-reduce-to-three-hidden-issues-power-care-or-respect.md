@@ -57,5 +57,12 @@ related:
   - INS-260327-8F76
   - INS-260330-EA2E
   - PRI-260328-7E6E
+evidence:
+  - id: INS-260323-9EDC
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-EA2E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Perel, drawing on Howard Markman's research and decades of couples/organizational therapy, argues that co-founder fights about strategy, equity, or decisions are always proxies for deeper relational needs. Power and control manifests as blame/defense language and unilateral decisions. Care and closeness manifests as exclusion fears and trust breakdowns. Respect and recognition manifests as credit-hogging and devaluation. The diagnostic question: 'What hurts more — that they did it, or that they did it without you?' If the former, it is power; if the latter, it is care. 65% of startups fail from interpersonal tensions, making this the highest-leverage diagnostic framework available for founding teams.

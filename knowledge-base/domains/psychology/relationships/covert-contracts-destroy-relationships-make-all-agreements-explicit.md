@@ -61,6 +61,12 @@ evidence:
   - id: INS-260323-8D12
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-4C71
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4ACF
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Huberman draws a critical distinction between overt and covert contracts in all human relationships. An overt contract is explicit: we agree on terms and both honor them. A covert contract looks identical but involves hidden resentment — one party secretly takes compensation through verbal jabs, showing up late, building alliances behind your back, or feigning vulnerability.
 

@@ -51,6 +51,10 @@ related:
   - INS-260329-B0BA
   - INS-260330-BEE7
   - INS-260323-CE9A
+evidence:
+  - id: INS-260323-B4D2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Kevin Hale's core practice at Wufoo was making every team member do customer support shifts. The mechanism is simple: after the second or third time an engineer gets the same support call, they stop what they're doing and fix the underlying bug. This eliminates the broken feedback loop where engineers are divorced from the consequences of their code.
 

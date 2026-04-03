@@ -56,6 +56,10 @@ related:
 stance: >-
   Wikipedia's predecessor Nupedia had a 7-stage academic review process that
   produced almost nothing in 2 years
+evidence:
+  - id: INS-260322-5790
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Wales's key experiment: Nupedia was designed to be more rigorous than traditional encyclopedias to earn respect. It had a 7-stage review process, prestigious academic reviewers, and the result was almost no output in 2 years. Worse, the first published article had to be pulled for plagiarism — the rigorous process didn't even catch quality issues. Wales himself found the process so intimidating that he couldn't bring himself to write an entry about a topic he knew well (Robert Merton's option pricing).
 

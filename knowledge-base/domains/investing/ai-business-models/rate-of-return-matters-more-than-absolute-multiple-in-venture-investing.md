@@ -48,5 +48,18 @@ related:
   - INS-260330-809A
   - INS-260402-6BB6
   - INS-260323-1B42
+evidence:
+  - id: INS-260403-298E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260403-E9C6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-809A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-6BB6
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 VCs dismiss $30M acquisitions as failures, but for an angel who invested at a $3M valuation, that's a 10x return in perhaps one year. To match that annualized rate of return over a 6-year hold period, a VC would need a million-x multiple—far beyond even Google's returns. This explains why super-angels care about entry valuations while VCs don't: super-angels optimizing for quick flips need low entry prices to generate meaningful multiples on small exits. The insight generalizes beyond venture capital—in any investment context, comparing absolute multiples without adjusting for time horizon leads to systematically undervaluing fast-compounding strategies and overvaluing slow large exits.

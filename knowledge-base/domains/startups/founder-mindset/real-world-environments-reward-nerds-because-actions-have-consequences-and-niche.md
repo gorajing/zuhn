@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-C45C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-AB5C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies two structural differences that make the real world hospitable to nerds: actions have real effects (making correct answers valuable), and the world is large enough for small minorities to achieve critical mass. In school, intelligence is irrelevant because nothing has real consequences. In business, Bill Gates's social awkwardness is irrelevant because revenue is the real test.
 

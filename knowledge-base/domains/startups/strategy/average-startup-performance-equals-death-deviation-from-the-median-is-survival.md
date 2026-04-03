@@ -60,5 +60,8 @@ evidence:
   - id: INS-260327-F95F
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-5FB5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham makes a statistical argument that is deceptively simple but profound: if the median startup fails, then performing at median level guarantees failure. Big companies can safely follow the median because 10% annual growth is survivable for them. Startups cannot. This reframes 'best practices' as potentially lethal for startups — adopting the same tools, processes, and strategies as every other startup mathematically converges toward the same (failing) outcome. The implication is that startups must be deliberately contrarian somewhere meaningful, not just in their product idea but in how they build, what tools they use, and how they operate. The 'odd' choice isn't a luxury; it's a survival requirement.

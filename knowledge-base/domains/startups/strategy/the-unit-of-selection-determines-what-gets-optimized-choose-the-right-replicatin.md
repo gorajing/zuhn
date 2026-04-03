@@ -63,6 +63,12 @@ evidence:
   - id: INS-260325-82E8
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-E660
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-DFA5
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The video explains why the gene, not the individual or species, is the unit of natural selection. A unit must satisfy three criteria: (1) it makes near-identical copies of itself, (2) it exhibits traits affecting environmental interaction, and (3) those traits affect survival probability. A single nucleotide is too small (no selectable trait). A chromosome is too large (gets broken up during reproduction). The gene is the sweet spot.
 

@@ -61,6 +61,12 @@ evidence:
   - id: INS-260325-537A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-BDE0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-5A93
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Isaacson draws from biographies of Musk, Jobs, Da Vinci, Einstein, and Franklin to identify a universal pattern: difficult childhoods and personal demons are not prerequisites for greatness, but when present, the difference between destruction and achievement is self-awareness. Musk knows his 'demon mode' exists. Da Vinci knew he was a procrastinator. The key isn't eliminating these traits -- it's harnessing them.
 

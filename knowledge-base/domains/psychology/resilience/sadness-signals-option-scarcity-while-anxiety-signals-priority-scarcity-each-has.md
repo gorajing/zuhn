@@ -67,6 +67,9 @@ evidence:
   - id: INS-260325-600C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-E0DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi proposes a diagnostic framework: sadness arises when you perceive zero options (hopelessness), while anxiety arises when you perceive too many options but lack clear priorities (paralysis). The solve for sadness is knowledge — learning opens new possibilities you didn't know existed, like having five job offers waiting when you get laid off. The solve for anxiety is decision — committing to a single path collapses the overwhelming option space into action.
 

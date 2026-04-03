@@ -62,6 +62,10 @@ related:
   - INS-260323-7263
   - INS-260329-CEC5
   - INS-260329-CD64
+evidence:
+  - id: INS-260323-7263
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Epstein introduces the concept of 'uncommon commonalities' -- things that are genuinely unique connections between you and the recipient, not obvious shared traits. 'We're both men' is too common. 'We both took classes in Van Munching Hall at UMD' is uncommon and immediately creates a sense of kinship.
 

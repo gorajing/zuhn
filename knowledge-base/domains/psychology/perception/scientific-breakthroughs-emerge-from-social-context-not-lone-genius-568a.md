@@ -64,6 +64,33 @@ evidence:
   - id: INS-260327-9377
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-2A1D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-FBC0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CFD5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-CD28
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-F540
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-1EEA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-98DE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-3ECE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-AEF1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Sean Carroll argues that the 'great man theory' of science is misleading. Newton's inverse square law was simultaneously explored by Huygens, Hooke, and Wren — Newton was simply the most mathematically adept. Quantum mechanics was built by over two dozen contributors across decades. Even general relativity, Einstein's most individual achievement, built on Maxwell, Minkowski, and others.
 

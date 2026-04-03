@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-12DC
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-6B87
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Applying the damaging admission principle to social proof reveals why overly polished testimonials underperform. When a customer says 'The first month was honestly rough and the learning curve was steep, but by month three my revenue doubled,' this converts better than 'Amazing product, my revenue doubled!' The negative portion inoculates the reader against the skepticism they'd otherwise apply to the positive claim. It also makes the testimonial feel authentic rather than curated.
 

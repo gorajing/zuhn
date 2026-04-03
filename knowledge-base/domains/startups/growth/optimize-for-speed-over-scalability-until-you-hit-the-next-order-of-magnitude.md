@@ -55,6 +55,10 @@ related:
   - INS-260330-C658
   - INS-260330-EF64
   - INS-260323-B4D2
+evidence:
+  - id: INS-260323-B4D2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Teespring's CTO faced a choice: build enterprise features 'the right way' in a month, or duplicate the entire codebase and database to ship in 3-4 days. They chose the hack, onboarded the enterprise customers, learned which features actually mattered, then integrated the winners into the core product. The month they saved was existentially important — in startup time, a month is a year.
 

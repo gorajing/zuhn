@@ -63,6 +63,12 @@ evidence:
   - id: INS-260325-4E20
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-E19E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-6D41
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Carroll quantifies evolutionary speed: a mutation conferring a 3% advantage (103 surviving for every 100 without it) takes roughly 1,000 generations to sweep through a population. For humans with 25-year generations, that is 25,000 years. For bacteria reproducing every 20 minutes, the same process completes in about two weeks.
 

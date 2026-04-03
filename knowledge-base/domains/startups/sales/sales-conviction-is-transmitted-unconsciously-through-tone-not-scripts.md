@@ -62,5 +62,8 @@ evidence:
   - id: INS-260402-116A
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260325-36F0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that the biggest lever in sales conversion isn't the script — it's the salesperson's genuine belief that the prospect would be making a mistake by not buying. This conviction manifests through hundreds of micro-signals: tone of voice, pacing, certainty in responses to objections, and willingness to challenge the prospect's hesitation. When a salesperson truly believes the prospect needs the product, they unconsciously adopt the tone of a doctor prescribing medicine rather than a vendor hawking wares. This has a cross-domain implication for any persuasion context: authentic conviction is nearly impossible to fake at scale because it's transmitted through unconscious channels that the speaker can't manually control. The practical takeaway is that improving what you sell (so you genuinely believe in it) may outperform improving how you sell it.

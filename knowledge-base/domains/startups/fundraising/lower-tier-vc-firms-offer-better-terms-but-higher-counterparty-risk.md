@@ -53,6 +53,10 @@ related:
   - INS-260329-9115
   - INS-260330-7220
   - INS-260329-1DE0
+evidence:
+  - id: INS-260329-9115
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The VC industry has extreme power-law performance: of roughly 1,000 US VC funds, only about 50 consistently make money. This creates a two-tier dynamic. Top-tier firms get the best deal flow through reputation (success is self-perpetuating), while lower-tier firms are left with rejected deals. However, their desperation makes them more founder-friendly on terms—better valuations, more founder control, and willingness to let founders stay as CEO.
 

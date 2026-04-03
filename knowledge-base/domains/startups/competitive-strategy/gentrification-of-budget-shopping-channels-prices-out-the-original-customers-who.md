@@ -45,6 +45,10 @@ related:
   - PRI-260324-90E8
   - PRI-260328-FD90
   - INS-260327-82AA
+evidence:
+  - id: INS-260327-7018
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 When affluent consumers discover and popularize budget shopping channels (thrift stores, discount retailers), prices rise and selection degrades for the low-income customers who were the original user base.
 

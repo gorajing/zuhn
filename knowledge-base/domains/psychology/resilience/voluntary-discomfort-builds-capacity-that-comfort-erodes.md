@@ -50,6 +50,10 @@ related:
   - INS-260327-5C91
   - INS-260329-B011
   - INS-260402-EC9F
+evidence:
+  - id: INS-260402-EC9F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Thoreau's choice to live simply when he could have lived comfortably wasn't asceticism for its own sake - it was training. Voluntary discomfort builds appreciation for what you have, resilience against loss, and freedom from dependency on material comfort.
 

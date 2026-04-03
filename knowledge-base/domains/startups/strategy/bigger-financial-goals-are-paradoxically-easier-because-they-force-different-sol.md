@@ -57,6 +57,10 @@ related:
   - INS-260327-0E57
   - INS-260328-E410
   - INS-260329-727B
+evidence:
+  - id: INS-260330-579B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi uses an analogy: if told to go one block, you run and optimize form. If told to go five blocks, the smart person gets a car and arrives at block five before the runner finishes block one. The $100K income ceiling exists because most people assume the only solution is trading time at hourly/salary rates, consuming all available hours. The $1M target breaks that assumption and forces exploration of leverage-based solutions: building systems, hiring, creating scalable assets.
 

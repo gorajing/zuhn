@@ -53,6 +53,13 @@ related:
   - INS-260330-0E86
   - INS-260330-FBC0
   - PRI-260323-A33E
+evidence:
+  - id: INS-260323-D934
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-FBC0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Klaas argues that Western modernity has an obsession with the delusion of individualism: the comforting belief that we are in charge of our lives and that outcomes reflect our choices. Eastern philosophy, which emphasizes relational interconnection, is closer to scientific fact.
 

@@ -87,6 +87,12 @@ evidence:
   - id: INS-260321-C14C
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-9B7B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-E36A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The author describes the emotional trajectory: total incompetence → feeling like a genius after your first program → realizing you suck again → repeating forever. This maps to the Dunning-Kruger curve but extends it into an infinite series rather than a single peak-and-valley. Each new skill level brings a new 'peak of mount stupid' followed by a new 'valley of despair.'
 

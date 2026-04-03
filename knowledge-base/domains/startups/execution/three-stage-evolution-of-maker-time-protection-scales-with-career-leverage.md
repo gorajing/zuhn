@@ -61,5 +61,8 @@ evidence:
   - id: INS-260330-F31A
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-BC8E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Stage V1 (solo/early entrepreneur): You have no leverage to protect your time, so maker work happens in off-hours — early mornings before the business opens, evenings, and weekends. Hormozi did this as a gym owner, waking early to write ad copy before stepping into manager mode at 9am. Stage V2 (intermediate): You have enough organizational support to protect half your day. Use the back-to-front calendar technique — schedule meetings starting from 5pm backward so mornings stay open. This still suffers from the Zeigarnik effect but preserves large uninterrupted blocks. Stage V3 (scaled): Entire days are designated maker or manager. Hormozi runs 3-4 maker days and 1 manager day per week; his COO inverts this ratio (1 maker day, 4 manager days). The key insight is that both operators still need both modes — the ratio shifts, not the need. Entrepreneurs who stay stuck at V1 never build the systems that let their business scale.

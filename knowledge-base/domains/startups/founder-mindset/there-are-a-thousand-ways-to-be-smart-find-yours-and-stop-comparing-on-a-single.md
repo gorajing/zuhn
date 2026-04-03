@@ -67,6 +67,12 @@ evidence:
   - id: INS-260330-51D1
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260323-089E
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-72EB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Bezos wanted to be a theoretical physicist at Princeton but realized he'd be mediocre at it — there were people who could effortlessly solve problems that took him hours. His key insight wasn't defeat but redirection: 'there are a thousand ways to be smart.' His intelligence was in invention — generating a hundred atypical solutions where 99 don't survive scrutiny but one might work.
 

@@ -55,5 +55,14 @@ evidence:
   - id: INS-260325-F484
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-1160
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-C0E2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-8A28
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The anterior mid-cingulate cortex exhibits neuroplasticity in both directions: it grows with sustained unwanted effort but shrinks rapidly when that effort stops. This explains why many people who achieve extraordinary things (Navy SEAL graduation, weight loss milestones, career peaks) often regress — they treat willpower as a permanent acquisition rather than a daily practice. Goggins describes studying 4+ hours daily on material he's already passed exams on, not because he needs to, but because stopping would cause the knowledge and the discipline to decay. This 'no days off' philosophy isn't motivational rhetoric — it's a neurobiological reality. The structure that enables willpower is like a muscle that atrophies without constant loading, and the loading must come from things you actively resist doing.

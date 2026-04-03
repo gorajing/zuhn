@@ -48,5 +48,12 @@ related:
   - INS-260327-165D
   - INS-260329-4DBC
   - INS-260329-9513
+evidence:
+  - id: INS-260330-30DE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-165D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 As a college student, Masayoshi Son developed a disciplined five-minutes-per-day invention practice using three distinct lenses: (1) identify problems in daily life and design solutions (rolling pencil → hexagonal pencil), (2) invert a property of something existing (big→small, red→white), and (3) combine two existing things into something new (radio + tape recorder). This produced 250 ideas in a year, one of which — a pocket translator — he sold to Sharp for $1.7M at age 19. The framework's power is that it's mechanistic and teachable, not dependent on inspiration. Each lens forces a different cognitive mode, reducing the chance of getting stuck in one pattern of thinking.

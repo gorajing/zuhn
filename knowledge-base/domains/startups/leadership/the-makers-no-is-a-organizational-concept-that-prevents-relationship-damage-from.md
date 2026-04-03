@@ -53,5 +53,9 @@ related:
   - INS-260325-0FED
   - PRI-260323-2C5C
   - INS-260325-5023
+evidence:
+  - id: INS-260325-5023
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Without shared language, makers who decline meetings face a lose-lose: accept and destroy a work block, or decline and damage the relationship with the requesting manager. The manager sees an empty calendar and interprets decline as laziness or insubordination. Hormozi's solution is to make maker/manager language organizational canon — when a maker declines with 'that's a maker's no,' everyone understands it means 'I'm protecting my highest-leverage commitment to the company, not refusing to help you.' This extends to proactive communication: makers announce which days/blocks are maker time, and managers learn that a full calendar isn't the only sign of productivity. The concept also applies to the maker's obligation — if you claim maker time, you must actually produce during it, or you confirm the manager's suspicion that empty calendars mean no work.

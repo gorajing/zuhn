@@ -56,6 +56,10 @@ related:
   - INS-260403-5AAC
   - INS-260403-B462
   - PRI-260324-90E8
+evidence:
+  - id: INS-260327-AEC2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham makes a sharp distinction between two modes of engaging with art that split apart in the twentieth century. In Paris, looking through windows at dusk, you see people who genuinely care about what paintings look like — art as stuff. In New York, the center of the art business, buyers primarily evaluate art as brand — requiring only a 'sufficiently identifiable style' to anchor value, with actual visual quality being secondary.
 

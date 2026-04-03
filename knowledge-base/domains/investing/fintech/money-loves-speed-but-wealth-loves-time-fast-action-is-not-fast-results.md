@@ -87,6 +87,12 @@ evidence:
   - id: INS-260330-4A16
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-C13F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-D6ED
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Srivatsaa contrasts his own path (flipping 100 homes in 5 years for cash) with a friend who bought one property, then a fourplex, then a 20-unit complex. After 5 years, the friend's net worth was 5x larger because he was working on time while Srivatsaa was working on speed. Fast action is not equal to fast results.
 

@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-B5D2
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-7DAE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Carroll explains that physics is hard precisely because its subject matter permits radical simplification. Frictionless surfaces, point particles, and spherical cows are absurd in the real world but enormously productive in physics because the underlying systems actually are simple enough that the idealizations converge on truth.
 

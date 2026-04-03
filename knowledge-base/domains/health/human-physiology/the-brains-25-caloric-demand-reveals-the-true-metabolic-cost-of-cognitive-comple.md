@@ -73,6 +73,9 @@ evidence:
   - id: INS-260326-16A8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-3E3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Neurons have disproportionately high metabolic rates, requiring constant supplies of glucose and oxygen. The brain consumes approximately 25% of your daily caloric intake despite representing only about 2% of body mass. This 12.5x metabolic density means that any disruption to energy supply (fasting, blood sugar crashes, poor sleep reducing metabolic efficiency) impacts cognitive function before it impacts muscular or other organ function.
 

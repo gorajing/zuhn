@@ -18,10 +18,10 @@
 - `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260330-3C70` The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
+- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
 - `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
 - `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
-- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260325-0921` The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
 - `INS-260327-4A10` Standing in primary Amazon rainforest reveals that everything we call 'complex' in human systems is trivially simple compared to what evolution has produced.

@@ -54,5 +54,9 @@ related:
   - INS-260403-E1AD
   - INS-260330-568F
   - PRI-260327-3BD9
+evidence:
+  - id: INS-260330-568F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Most salespeople lose deals by answering prospect questions directly — this puts the prospect in the judge position where any answer can be rejected. The 3A framework (Acknowledge, Associate, Ask) redirects by first restating what the prospect said (buying thinking time and showing active listening), then making a positive association, then asking a question that reframes the conversation. This keeps the salesperson in control without creating confrontation. The technique works because prospects often don't know what they're really asking — their questions are reflexive rather than substantive, and asking about the question reveals the real concern underneath.

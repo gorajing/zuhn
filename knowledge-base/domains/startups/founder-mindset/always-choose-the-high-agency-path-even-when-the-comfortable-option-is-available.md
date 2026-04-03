@@ -49,5 +49,9 @@ related:
   - INS-260323-4082
   - INS-260323-8848
   - INS-260329-62E1
+evidence:
+  - id: INS-260327-F397
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Dalton frames his decision to leave YC and start Standard Capital as choosing agency — over his calendar, his focus, and his identity as a founder rather than an employee. He and Michael note this is the same advice they have given founders for years: opt for doing your own thing even when it is hard, because you will like yourself more. Dalton's life philosophy distills to: stay at the redline of your skill set, do great work with interesting people, and trust that compounding effort over time produces an interesting life.

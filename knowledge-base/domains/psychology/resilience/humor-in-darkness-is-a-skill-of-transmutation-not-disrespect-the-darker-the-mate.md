@@ -56,6 +56,13 @@ related:
   - INS-260323-A494
   - INS-260330-DD91
 stance: Dark humor requires more skill than light humor
+evidence:
+  - id: INS-260323-4574
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-A4E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Malice draws a culinary analogy for comedy: it's easy to make bacon taste good, but making obscure, bitter ingredients palatable takes real skill. Similarly, making people laugh about emotionally charged or dark subjects requires more craft than safe comedy. Joan Rivers (quoting possibly Churchill) said that making people laugh is giving them a 'little vacation.'
 

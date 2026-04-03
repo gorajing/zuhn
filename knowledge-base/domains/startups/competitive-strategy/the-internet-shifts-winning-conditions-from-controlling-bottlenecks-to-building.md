@@ -61,6 +61,43 @@ related:
   - INS-260329-148D
   - INS-260329-F887
   - INS-260329-90F4
+evidence:
+  - id: INS-260325-3B58
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-B4D2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-F887
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260321-801C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-148D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-5CB1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-90F4
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260320-CDE4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260321-A3A1
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260321-D484
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-4980
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8F91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham observes that in the pre-Internet economy, winning depended on controlling narrow, expensive distribution channels — 'the channel.' This applied not just to corporations but to labor unions, traditional media, and artistic establishments. Power came from gatekeeping, not from quality of output.
 

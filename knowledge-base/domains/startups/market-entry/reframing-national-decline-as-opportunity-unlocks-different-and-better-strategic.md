@@ -68,6 +68,19 @@ related:
   - INS-260327-9F46
   - INS-260329-64B8
   - INS-260325-5023
+evidence:
+  - id: INS-260403-B12E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-9F46
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-64B8
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-5023
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Books diagnosing Japan's decline (like Alex Kerr's 'Dogs and Demons') create two counterproductive outcomes: among believers, they generate despair and helplessness; among skeptics, they create siege mentality where any criticism is dismissed as 'anti-Japan.' Both reactions produce pessimism rather than action. The alternative framing — treating stagnation as an opportunity for catch-up growth rather than evidence of systemic failure — opens entirely different strategic possibilities. Instead of trying to fix what's broken in corporate culture or government bureaucracy, you ask what advantages the current situation creates: low costs attract foreign investment, wage stagnation makes skilled labor affordable, and falling behind the technological frontier means others have done the pioneering work.
 

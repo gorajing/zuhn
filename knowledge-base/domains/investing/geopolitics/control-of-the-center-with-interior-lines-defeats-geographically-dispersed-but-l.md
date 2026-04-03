@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-B22D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-7DEC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Reds controlled Moscow and Petrograd — the center of Russia's railway network and industrial capacity. This allowed them to shift forces rapidly from one front to another as threats materialized. The White armies, scattered around Russia's periphery (Siberia, Ukraine, the Baltic, the Caucasus), had no way to coordinate timing or share resources. The Reds defeated each in turn, using the same forces moved between fronts by rail.
 

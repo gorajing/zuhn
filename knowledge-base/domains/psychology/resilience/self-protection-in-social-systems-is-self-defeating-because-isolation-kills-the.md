@@ -57,5 +57,9 @@ related:
   - INS-260326-20C8
   - PRI-260328-3BEF
   - PRI-260328-604D
+evidence:
+  - id: INS-260326-20C8
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Startups: ego protection is the silent founder-killer -- self-sabotage, burnout martyrdom, and familiarity bias share one root. Founders who protect their ego avoid hard feedback, delegate to comfortable lieutenants, and reframe failures as noble suffering. Psychology: vulnerability is the mechanism of genuine connection -- strategic safety destroys bonds. People who present curated versions of themselves get curated relationships that lack the depth needed for real support. The shared mechanism: self-protection reduces information flow. In a founder context, ego defense filters out the signals (customer complaints, team dissatisfaction, market shifts) needed to adapt. In a relationship context, strategic safety filters out the emotional signals (needs, fears, desires) needed to build trust. In both cases, the protection strategy that feels safe in the short term creates fragility in the long term, because adaptation requires exposure to exactly the information that hurts. The antidote in both domains is the same: structured vulnerability -- deliberately exposing yourself to uncomfortable feedback within a container safe enough to process it.

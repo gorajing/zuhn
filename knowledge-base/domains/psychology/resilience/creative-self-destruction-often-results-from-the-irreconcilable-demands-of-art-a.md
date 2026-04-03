@@ -60,6 +60,15 @@ evidence:
   - id: INS-260322-F6B5
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-FFAC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260322-BD0D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260321-33FC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The pattern of creative self-destruction (Thompson, Hemingway, Cobain, Winehouse) isn't coincidental. The irreconcilable demands of authentic creation (which requires vulnerability and risk) and commercial production (which requires reliability and consistency) create a tension that many creative people resolve through substances that temporarily bridge the gap.
 

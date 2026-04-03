@@ -91,6 +91,9 @@ evidence:
   - id: INS-260330-AE22
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-48C6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 CS50 is Harvard's most popular course, and two-thirds of its students have never written a line of code. This data point demolishes the common myth that programming requires a specific type of mind or early exposure. The course succeeds because it provides proper scaffolding: visual tools like Scratch before C, conceptual frameworks before syntax, and a progression that builds confidence through incremental challenge.
 

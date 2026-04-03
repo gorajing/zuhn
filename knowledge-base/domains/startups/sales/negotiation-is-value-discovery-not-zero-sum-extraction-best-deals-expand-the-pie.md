@@ -58,5 +58,14 @@ evidence:
   - id: INS-260323-4473
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-6C0E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-DFDD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-9EFA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi challenges the common negotiation frame where one side 'wins' at the other's expense. In reality, the best negotiations discover value neither party initially saw — creative deal structures, bundled services, longer time horizons, or non-monetary exchanges. This shifts the negotiator's job from extracting maximum concessions to asking better questions about what the other party actually values. A founder who discovers their client values speed over cost can restructure a deal that's more profitable for both sides. This approach also compounds with the goodwill framework: negotiations that leave both parties better off build the reputation asset rather than depleting it.

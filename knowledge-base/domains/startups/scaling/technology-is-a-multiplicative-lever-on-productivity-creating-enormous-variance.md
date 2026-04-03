@@ -58,6 +58,16 @@ related:
   - INS-260329-9D26
   - INS-260329-72C1
   - PRI-260328-5D9E
+evidence:
+  - id: INS-260329-9D26
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-72C1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260320-E683
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham reframes the Bubble-era claim that technology would increase productivity. The analysts were right about the principle but wrong about it being uniform. Technology doesn't add a constant — it multiplies what's already there. This means the range of productivity outcomes expands dramatically rather than shifting upward uniformly.
 

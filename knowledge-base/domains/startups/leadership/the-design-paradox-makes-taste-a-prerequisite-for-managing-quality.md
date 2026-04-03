@@ -55,5 +55,8 @@ evidence:
   - id: INS-260402-E11A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260323-1930
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies a fundamental paradox in managing creative and technical work: if you don't have good taste yourself, you can't recognize good taste in others. You can't evaluate a designer's portfolio if you lack design sense, and awards and credentials are driven more by fashion and networking than actual ability. This paradox extends to technical hiring — non-technical managers can't distinguish great hackers from mediocre ones because the output differences are subtle and require domain expertise to evaluate. Graham's solution is blunt: if you're not a hacker yourself, 'give up' trying to manage hackers directly. The practical implication is that companies must ensure technical leadership has genuine technical taste, not just management credentials. Steve Jobs succeeded partly because he was the most demanding user of his own products, making satisfying his taste the kind of challenge great people wanted to solve.

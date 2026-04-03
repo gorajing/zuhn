@@ -57,6 +57,13 @@ related:
 stance: >-
   The popular narrative that Einstein couldn't keep up with quantum mechanics is
   'almost 180 degrees wrong'
+evidence:
+  - id: INS-260323-DA1E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-CF93
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Carroll challenges the comforting narrative that Einstein was left behind by younger quantum physicists. In reality, Einstein understood quantum mechanics as well as anyone through the 1930s, his philosophical objections to the Copenhagen interpretation are now seen as largely correct, and his work thinking through those objections basically discovered quantum entanglement — 'kind of important these days.'
 

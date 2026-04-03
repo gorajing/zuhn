@@ -97,6 +97,15 @@ evidence:
   - id: INS-260330-10CF
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-3ECE
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-D21A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-D8E7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Modern MBA traces a consistent pattern across tech hype cycles. A handful of genuine winners (Facebook, Google, Netflix, Amazon) achieve extraordinary results with a technology (data/algorithms). Their earnings snowball in ways the public markets have never seen. This creates irresistible social proof: if data was the moat for these leaders, why couldn't a nimbler startup apply the same playbook to a smaller industry?
 

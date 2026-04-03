@@ -55,6 +55,10 @@ related:
   - INS-260330-21CC
   - INS-260330-E61E
   - INS-260322-B641
+evidence:
+  - id: INS-260322-B641
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Waze hit a crisis where MAU grew but driven kilometers stayed flat — new users churned while a small cohort remained loyal. When they stopped all development to investigate, surveys and data showed perfect consistency: churned users understood the product vision as well as power users did. The differentiator was patience, not comprehension.
 

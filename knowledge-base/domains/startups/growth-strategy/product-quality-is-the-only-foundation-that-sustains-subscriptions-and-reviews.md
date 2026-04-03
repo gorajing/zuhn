@@ -64,6 +64,9 @@ evidence:
   - id: INS-260322-7DD5
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-6188
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Most brands treat product quality as a checkbox rather than a competitive advantage. In 2026, this is fatal: customers review everything instantly, graders and reviewers will call out bad products publicly, and on Amazon, poor reviews destroy rankings permanently. The subscription business model only works if the product actually delivers — no one keeps auto-ordering something that does not work.
 

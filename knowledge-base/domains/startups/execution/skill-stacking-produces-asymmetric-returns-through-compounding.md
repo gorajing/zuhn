@@ -68,5 +68,8 @@ evidence:
   - id: INS-260330-35CB
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260330-5609
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi demonstrates that 1+1+1+1 in skill acquisition equals far more than 4—it equals 'a zillion' because skills compound. His example: math → bookkeeping → accounting → tax strategy → insurance → deal negotiation → capital markets mastery. A bookkeeper who learns tax strategy becomes a controller; add deal negotiation and they become a CFO; add capital markets and they become a rainmaker. His personal stack: fitness → nutrition → sales → local marketing → operations → sales team management → B2B national marketing. Each skill unlocked asymmetric returns on all previous skills. The implication is that entrepreneurs should be intentional about which skill they learn next, choosing the one that most multiplies their existing stack rather than the one that seems most urgent.

@@ -62,6 +62,12 @@ evidence:
   - id: INS-260330-6300
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-647D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-6BF4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Lukianoff defines cancel culture precisely: not just criticism, but the uptick starting around 2014 of successful campaigns to get people fired, expelled, or deplatformed for speech that would normally be protected by the First Amendment — plus the resulting climate of fear. The key distinction is between criticism (healthy) and campaigns to destroy livelihoods over opinions (destructive).
 

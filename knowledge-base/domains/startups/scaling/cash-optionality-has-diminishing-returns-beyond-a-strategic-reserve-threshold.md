@@ -55,5 +55,8 @@ evidence:
   - id: INS-260327-8374
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-541A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The conventional wisdom that 'cash is king' breaks down at extreme scale. Apple's $285B offshore pile wasn't providing 285x the strategic optionality of $1B — it was mostly sitting idle while creating political liability, shareholder pressure, and perverse incentives around capital allocation. The company needed perhaps $20-30B for strategic flexibility; the rest was deadweight. This has implications for how founders and executives think about cash management: there's a curve where cash transitions from strategic asset to liability. The optimal cash position provides enough runway for opportunistic moves and downturns without creating the drag of idle capital. Companies that accumulate far beyond this threshold are implicitly admitting they can't find productive uses for their capital — which itself is a signal worth paying attention to.

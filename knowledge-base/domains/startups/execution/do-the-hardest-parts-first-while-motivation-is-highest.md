@@ -53,6 +53,9 @@ evidence:
   - id: INS-260330-D61A
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260330-579B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Otwell observes that most web developers building new products get this wrong: they start with easy parts while most motivated, then run out of energy when facing the hard challenges. As a solo founder, he'd much rather fail after 2 weeks on the hard part than waste 3 months on easy features before discovering the core challenge is unsolvable.
 

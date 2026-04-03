@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-189F
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-E647
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In the nervous system, neurons get all the credit for thinking and decision-making, but glial cells outnumber them roughly 10 to 1 and constitute about half the brain's mass. These support cells anchor neurons to blood supply, provide immune defense, create cerebrospinal fluid, and insulate signal pathways with myelin sheaths. Without this support infrastructure, neurons cannot function at all.
 

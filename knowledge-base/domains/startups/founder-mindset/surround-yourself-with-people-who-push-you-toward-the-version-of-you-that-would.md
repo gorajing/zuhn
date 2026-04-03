@@ -49,5 +49,9 @@ related:
 stance: >-
   Your probability of success directly correlates with whether your closest
   friends care about and push you toward what you want to achieve.
+evidence:
+  - id: INS-260330-BBE7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 MrBeast's top advice for aspiring creators: start with who you surround yourself with. If your closest friends don't care about social media or being successful in your chosen field, your probability of succeeding is definitively lower. Find people who push you to be the version of yourself that would actually be successful. Second: find something you deeply enjoy doing because YouTuber is now the #1 most coveted job in developed societies. With tens of millions of people competing, it took MrBeast over a decade and iShowSpeed years — if the thought of doing it for 10 years without anyone watching makes you want to quit, it's probably not for you.

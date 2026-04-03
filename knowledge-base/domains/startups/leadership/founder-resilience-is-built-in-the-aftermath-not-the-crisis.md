@@ -50,6 +50,13 @@ related:
   - INS-260330-207D
   - INS-260323-543C
   - PRI-260323-A3A3
+evidence:
+  - id: INS-260330-207D
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-5F3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Drawing from his own experience (the OpenAI board crisis), Altman distinguishes between the crisis itself -- where you get support, adrenaline, and can function under pressure -- and the 'fallout after.' He notes that 'the emotional toll gets easier as you go through more bad things' even though the challenges get objectively harder and higher stakes.
 

@@ -52,5 +52,12 @@ related:
   - PRI-260325-7A6B
   - PRI-260325-A95E
   - PRI-260325-F6F7
+evidence:
+  - id: INS-260325-086C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260321-7D7C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Altman presents what he calls a 'law of conservation of happiness' for V1 products: the total area under the curve is roughly fixed, so you choose between many users who like your product a little or few users who love it intensely. The counterintuitive finding from YC's 720+ companies is that these are NOT equivalent paths. Love expands — users who love a product evangelize it, creating organic word-of-mouth growth that pulls in more users who also come to love it. But mild approval is a dead end — you cannot upgrade 'like' into 'love' by iterating, because you never get the passionate feedback loop that drives rapid improvement. The practical test: if your product isn't generating organic word-of-mouth growth, it's not good enough yet, and no growth hack or partnership will fix that.

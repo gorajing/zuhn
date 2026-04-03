@@ -74,6 +74,15 @@ evidence:
   - id: INS-260330-B784
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-AE9C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-E77D
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-32E3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that promises function as approximations of likelihood of results, while proof directly demonstrates results. The four elements of compelling proof are: (1) recency — last week beats five years ago, (2) visual richness — video of weighing in/out beats text claiming weight loss, (3) high volume — screenshot every review across every platform and display them overwhelmingly, and (4) pain-first framing — testimonials that begin with the customer's pain state convert significantly higher because prospects relate to where they currently are.
 

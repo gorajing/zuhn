@@ -58,6 +58,10 @@ related:
   - PRI-260328-4313
   - INS-260327-1B09
   - INS-260329-976E
+evidence:
+  - id: INS-260329-976E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The modern interpretation of 'not caring' is apathy or nihilism. Spinoza's version is surgical: identify what is within your sphere of influence and direct all emotional energy there. Everything outside that sphere receives intellectual attention (understanding) without emotional investment (worry, anger, anxiety).
 

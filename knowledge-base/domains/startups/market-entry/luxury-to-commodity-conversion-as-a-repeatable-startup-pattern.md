@@ -72,6 +72,9 @@ evidence:
   - id: INS-260327-FC4F
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-0755
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham identifies luxury-to-commodity conversion as one of the oldest and most reliable startup patterns, tracing it from Roman water mills through Henry Ford to personal computers. The key insight is that dramatic cost reduction doesn't just sell more units of the same thing—it causes qualitative changes in usage. When computers became cheap enough for individuals, they transformed into communication devices, a use case no one anticipated.
 

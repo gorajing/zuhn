@@ -64,6 +64,12 @@ evidence:
   - id: INS-260327-CA72
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260402-F5E0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-3A0D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Most people's career, relationship, and lifestyle choices are substantially shaped by fear: fear of failure, judgment, financial ruin, social rejection, or uncertainty. These fears operate below conscious awareness, presenting as 'practical considerations' or 'being realistic.' The question 'what would I do if I weren't afraid?' strips away these disguises.
 

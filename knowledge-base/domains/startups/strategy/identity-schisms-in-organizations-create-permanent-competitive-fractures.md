@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-4E55
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-A75C
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The Great Schism of 1054 between the Orthodox and Catholic churches wasn't primarily about resources, territory, or power — it was about identity: the nature of the Trinity, the authority of the Pope, liturgical language. These identity-level disagreements proved far more durable than any territorial dispute. Nearly 1000 years later, the split persists.
 

@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-90C3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-37C8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Cox's most powerful admission is that his rationalization narrative — 'I'm helping people who can't otherwise get homes' — scaled perfectly with his crimes. Small fraud: helping one family. Large fraud: helping many families. Synthetic identities: creating opportunities that wouldn't otherwise exist. The self-deception was never shattered by the magnitude of the crime because the story always kept pace.
 

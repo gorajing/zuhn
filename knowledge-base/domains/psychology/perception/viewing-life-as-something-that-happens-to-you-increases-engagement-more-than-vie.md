@@ -55,6 +55,13 @@ related:
   - INS-260325-0E1D
   - INS-260327-3A15
   - INS-260328-F60B
+evidence:
+  - id: INS-260323-543C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260328-F60B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The control orientation treats life as a project to manage: plan, execute, optimize. This creates constant anxiety about whether you're managing correctly. The experiential orientation treats life as something to be present for: observe, respond, appreciate. This creates engagement because each moment is interesting rather than evaluated.
 

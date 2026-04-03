@@ -67,6 +67,12 @@ evidence:
   - id: INS-260330-CA88
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260403-E9DD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-70DF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Confucius identified five key hierarchical relationships, with father-son as the model. The son owes filial piety, but critically, the father must earn it by caring for and educating the son. A neglectful father doesn't lose the right to respect in theory, but the system only functions when both sides fulfill their obligations. The emperor, as 'father to the whole country,' must model the same reciprocal behavior.
 

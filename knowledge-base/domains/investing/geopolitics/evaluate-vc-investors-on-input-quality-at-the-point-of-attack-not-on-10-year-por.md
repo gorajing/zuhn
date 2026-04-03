@@ -80,6 +80,9 @@ evidence:
   - id: INS-260328-93C8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-6F52
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Horowitz describes a framework for evaluating GP performance that avoids the classic VC trap of waiting for outputs that take 10-15 years to materialize. Instead, he evaluates 'at the point of attack': how good is the GP at finding opportunities, how good are they at winning those opportunities, and what is the perceived quality at the time of investment.
 

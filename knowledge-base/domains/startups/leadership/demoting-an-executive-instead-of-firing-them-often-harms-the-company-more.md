@@ -52,5 +52,9 @@ related:
   - PRI-260328-BEAB
   - INS-260328-4ED2
   - INS-260330-B625
+evidence:
+  - id: INS-260330-B625
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When an executive is in over their head but works extremely hard and is well-liked, the CEO's instinct is to demote rather than fire — it feels humane and avoids a difficult conversation. But from the company's perspective, the demoted executive retains their executive-level equity package (e.g., 1.5% vs engineers' 0.1-0.2%) while no longer performing at that level. Engineers observe someone with 10x their equity doing a lower-level job, which signals that results don't actually matter — effort and tenure do. Additionally, the demoted person loses authority with peers who remember their former title, creating awkward power dynamics. The person reporting to them may be the rising star who now resents taking direction from someone who was publicly downgraded. Horowitz's framework forces the CEO to evaluate not just how the affected executive feels, but how every engineer with less equity will interpret the decision.

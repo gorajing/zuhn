@@ -58,6 +58,13 @@ related:
   - INS-260329-31A2
   - INS-260330-E695
   - INS-260327-165D
+evidence:
+  - id: INS-260330-E695
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-165D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Most platforms discourage content leaving their ecosystem. TikTok did the opposite — they made sharing to other platforms frictionless, with every exported video carrying a TikTok watermark. The ByteDance team even created fake accounts on other platforms to repost the best TikTok content. This worked because TikTok's built-in editing tools meant people created content on TikTok first (it was easier), then distributed everywhere else. Every repost was a free ad.
 

@@ -51,5 +51,9 @@ related:
   - INS-260327-5827
   - INS-260327-7BB0
   - INS-260327-A680
+evidence:
+  - id: INS-260330-75B5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Chronic anxiety has strong nutritional roots: vitamin B1 (thiamine) deficiency impairs autonomic nervous system function, gut dysbiosis drives inflammation affecting the brain via the vagus nerve, and blood sugar instability triggers adrenaline -- all addressable through nutrition

@@ -56,6 +56,13 @@ related:
   - INS-260323-AF7B
   - INS-260327-C673
   - INS-260325-0F4F
+evidence:
+  - id: INS-260403-B7FA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-AF7B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham describes a then-emerging shift in what 'startup' meant: from a small company hoping to grow big, to a vehicle for developing technology on spec for acquisition. His own company Viaweb was explicitly built this way, designed from the start to slot easily into a larger company.
 

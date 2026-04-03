@@ -63,6 +63,9 @@ evidence:
   - id: INS-260322-7DD5
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-FDF5
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Jawbone's approach to product roadmapping uses what Rahman calls the 'experience continuum' — a three-horizon framework mapping where the product is today, where it goes tomorrow, and what becomes possible in the future. The Jambox started as a Bluetooth speaker (today), evolved toward seamless multi-room audio (tomorrow), and aimed at being the media hub for the connected home (future). This framework directly influenced trade-off decisions: features not included in the current product were explicitly planned for the next generation, with confidence that users would be ready for them.
 

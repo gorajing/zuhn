@@ -59,6 +59,9 @@ evidence:
   - id: INS-260320-DEAF
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-5678
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The video's most striking contrast is the backend simplification: the maximalist stack requires MySQL + Redis + Node.js + Nginx + Docker + Kubernetes + Terraform + GitHub Actions, while the Firebase stack replaces all of it with a script tag and Cloud Functions. This isn't just fewer tools — it's an entire eliminated category of expertise (DevOps) that early-stage teams no longer need to hire for.
 

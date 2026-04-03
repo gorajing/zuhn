@@ -75,6 +75,9 @@ evidence:
   - id: INS-260323-76B8
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-91B5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Bret Taylor identifies a paradigm shift from selling productivity tools to selling outcomes. Traditional SaaS companies like Salesforce and ServiceNow sell enhanced productivity to attorneys or customer service agents, creating a TAM limited by the number of workers and software budgets. Vertical AI agents sell the work itself: not a tool to help attorneys do antitrust review faster, but the antitrust review itself at a fraction of the labor cost.
 

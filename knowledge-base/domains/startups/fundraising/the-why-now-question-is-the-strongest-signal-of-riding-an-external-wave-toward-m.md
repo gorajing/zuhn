@@ -53,6 +53,10 @@ related:
   - INS-260330-9DC9
   - INS-260330-548B
   - INS-260329-69F0
+evidence:
+  - id: INS-260330-9DC9
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham observes that every company that achieves massive scale is 'lucky' in the sense of riding some external wave. The 'why now' question forces founders to identify that wave explicitly: what changed recently that makes this idea viable, and why hasn't anyone else noticed yet? The ideal answer is that some shift — technological, regulatory, behavioral — has just created an opening.
 

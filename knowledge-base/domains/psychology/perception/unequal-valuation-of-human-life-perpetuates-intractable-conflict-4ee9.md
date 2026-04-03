@@ -57,6 +57,9 @@ evidence:
   - id: INS-260323-D2CF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-3274
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Wright's pivotal question came from a concrete event: Israel traded 1,000 Palestinian prisoners for one captured Israeli soldier, Gilad Shalit. This led him to ask: how does one life come to equal a thousand? He argues this devaluation and overvaluation of human life is at the root of why the conflict endures.
 

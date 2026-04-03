@@ -68,5 +68,11 @@ evidence:
   - id: INS-260325-890D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-486C
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-F479
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Wolfram's Rule 30 is a one-dimensional cellular automaton with only two states and the simplest possible rule structure, yet it produces behavior so complex it has been used as a random number generator. This demonstrates a fundamental principle: the complexity we observe in weather, biology, markets, and social systems does not necessarily require complex underlying mechanisms. The computational universe shows that sophistication emerges from simplicity given enough iterations. This has implications for how we explain the world: the instinct to match observed complexity with complex explanations (multiple interacting causes, feedback loops, hidden variables) may be systematically wrong. Sometimes the correct explanation is a simple rule running for a long time — which is computationally irreducible, meaning the only way to verify this explanation is to run the rule and see if it matches.

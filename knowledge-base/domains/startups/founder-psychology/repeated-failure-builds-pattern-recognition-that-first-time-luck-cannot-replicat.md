@@ -61,6 +61,9 @@ evidence:
   - id: INS-260330-30CE
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260329-5FB5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Eman Venture Labs explicitly prefers founders who have failed three or four times because each failure compresses the learning curve toward success. The 95% startup failure rate means most founders will fail — the question is whether they extract signal from that failure.
 

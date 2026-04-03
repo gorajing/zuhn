@@ -57,6 +57,9 @@ evidence:
   - id: INS-260323-DE39
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-E2FF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When victimhood becomes a strategic position rather than a genuine state, it creates an unfalsifiable dynamic. Confronting the behavior? 'You're attacking me.' Setting boundaries? 'You're abandoning me.' Expressing frustration? 'This proves how much you hurt me.'
 

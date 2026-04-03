@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-E492
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-3A54
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Marsh argues against the proliferation of terms (sociopath, antisocial personality disorder, psychopath) for what is essentially one condition. The term sociopathy has no scientific definition and no mentions in scientific literature. It emerged from a belief that all antisocial traits result from social experiences, which is now known to be incomplete.
 

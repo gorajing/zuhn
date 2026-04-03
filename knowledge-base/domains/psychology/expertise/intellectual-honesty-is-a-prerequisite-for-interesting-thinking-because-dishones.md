@@ -75,6 +75,15 @@ evidence:
   - id: INS-260329-4E70
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260402-1414
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4EF8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-32E6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham makes a counterintuitive connection between honesty and interestingness: gaps between your written claims and the truth are where new ideas hide. When you force yourself to be strict in rereading — asking 'is this correct and complete?' — you sometimes discover that a roughly correct answer can't be made exactly right because it rests on a false assumption. Discarding that assumption reveals a completely different answer.
 

@@ -76,6 +76,12 @@ evidence:
   - id: INS-260330-39D4
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-191B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-DC45
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Soviet 'hugging' tactic at Stalingrad is a masterclass in asymmetric strategy. The Germans had overwhelming air superiority and were dropping massive tonnage on the city. Rather than retreating (which would cede ground) or fighting conventionally (where air power would devastate them), the Russians stayed as close to German front lines as possible. This made German air strikes equally dangerous to their own troops, effectively neutralizing a decisive advantage.
 

@@ -56,6 +56,16 @@ related:
   - INS-260330-548E
   - INS-260323-1B0B
   - INS-260403-A5FF
+evidence:
+  - id: INS-260329-277B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-E994
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-1B0B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham uses the Mona Lisa as a case study: shown anonymously among other paintings, labeled as a portrait by an unknown fifteenth-century artist, most people would walk by without a second look. The painting's fame — not its visual qualities — drives the crowd. This is a compass-next-to-a-magnet problem: the error signal (brand, social proof, cultural authority) is so strong that any popular vote on art quality measures only the error, not genuine aesthetic response.
 

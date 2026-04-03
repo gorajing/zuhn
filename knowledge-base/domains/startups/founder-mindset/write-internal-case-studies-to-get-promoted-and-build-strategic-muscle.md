@@ -48,5 +48,9 @@ related:
   - INS-260327-F55A
   - INS-260330-F800
   - INS-260330-4FED
+evidence:
+  - id: INS-260327-F55A
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 At Facebook, Kisson started as a partner manager but wanted to be closer to product. She began writing internal case studies and blog posts analyzing Facebook's strategy. These caught the attention of the CPO and led to her promotion to headquarters strategy. The insight has a dual benefit: it builds visibility for career advancement and simultaneously develops the strategic analysis muscle that's essential for entrepreneurship. For aspiring founders working in big tech, this is a low-risk way to build both reputation and capability.

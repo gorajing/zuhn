@@ -64,5 +64,11 @@ evidence:
   - id: INS-260323-47B0
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260323-7AF7
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-4574
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Rogan identifies two trust-building mechanisms that actually work: time (old friends who've been through things together) and shared suffering in a craft (comedians and martial artists). The comedy path is particularly revealing because it involves years of public humiliation, bombing in front of audiences, and psychological torture that strips away pretense. He notes there are fewer than 1,000 professional comedians on earth, and among those who've endured the full gauntlet, there's a baseline of honesty and mutual understanding that transcends surface-level personality flaws. Someone might be a 'surface bullshitter' but on important things they're trustworthy because the craft has humbled them. This parallels his observation about martial arts — jiu-jitsu humbles people similarly. The counter-pattern he identifies is 'islands': successful comedians who aren't connected to the community, who travel with one opening act and no comedy friends, and who are invariably miserable. The lesson extends beyond comedy: trust networks built through shared difficult experiences are more durable than those built through proximity to success or status.

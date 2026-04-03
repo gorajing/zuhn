@@ -54,5 +54,9 @@ related:
   - INS-260330-FC16
   - INS-260330-E606
   - INS-260330-F8E7
+evidence:
+  - id: INS-260330-E606
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 At $0.33 each, 96 million shade balls cost roughly $34.5 million. The primary justification was preventing carcinogenic bromate formation — a non-negotiable water safety issue. But the secondary effects compound: 80-90% evaporation reduction saves water in drought-prone LA, algae elimination removes the need for heavy chlorination (chemical cost savings), reduced chlorine means better-tasting water, and the balls have salvage value as recyclable HDPE. The engineering team estimates these secondary benefits pay back at least half the total cost. This pattern — where a solution chosen for one critical reason generates a portfolio of secondary returns — is common but undervalued in cost-benefit analysis. Decision-makers who account for second-order effects make better capital allocation choices.

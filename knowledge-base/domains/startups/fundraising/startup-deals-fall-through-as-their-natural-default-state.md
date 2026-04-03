@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-B8D4
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-9F46
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham makes a striking claim: 'Birds fly; fish swim; deals fall through.' This isn't just colorful language—it reflects a structural feature of startup investing. Investors making high-risk bets are prone to extreme buyer's remorse. They don't fully grasp the risk they're taking until the deal is about to close, and then they panic. This happens at every level, from individual angels ghosting founders to billion-dollar acquisitions collapsing.
 

@@ -49,6 +49,10 @@ related:
   - PRI-260323-57AC
   - INS-260326-80B1
   - PRI-260325-D34E
+evidence:
+  - id: INS-260326-80B1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi frames his elimination phase not as a permanent lifestyle but as a deliberate, time-bounded season. This is an important distinction — it makes the strategy more actionable because it has a defined start and end, reducing the psychological resistance of permanent sacrifice.
 

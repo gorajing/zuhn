@@ -49,6 +49,10 @@ related:
   - PRI-260325-A95E
   - INS-260323-9C11
   - INS-260323-08E9
+evidence:
+  - id: INS-260323-9C11
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Most resilience frameworks aim to endure suffering or recover from it. Nietzsche's amor fati goes further: not just accepting fate but loving it, including its worst elements. The eternal recurrence test - would you live this exact life infinite times? - is the ultimate measure of whether you've achieved genuine alignment with your existence.
 

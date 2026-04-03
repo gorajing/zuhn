@@ -49,5 +49,9 @@ related:
   - INS-260329-F21F
   - INS-260325-8B36
   - INS-260402-AA3F
+evidence:
+  - id: INS-260329-F21F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When a company chooses a programming language or platform, they're not just making a technical decision — they're selecting which community of developers they'll recruit from. Business types prefer popular languages as safe standards, but languages are mediums of expression, not just interchange formats. The best programmers gravitate toward expressive, powerful tools. Choosing Java or Windows NT for perceived safety actually filters out the top tier of talent who refuse to work with tools they consider inferior. Graham observed that a startup choosing Windows NT effectively doomed itself because no first-rate hacker would voluntarily use NT, and even a good CTO couldn't attract talent to that stack. The implication is that technology conservatism, which feels prudent, is actually a high-risk talent strategy.

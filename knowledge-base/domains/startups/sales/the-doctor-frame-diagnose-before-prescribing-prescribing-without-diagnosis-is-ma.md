@@ -62,6 +62,10 @@ related:
   - INS-260329-DF36
   - INS-260323-1CA4
   - INS-260327-B18F
+evidence:
+  - id: INS-260330-568F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The doctor frame is the most powerful frame in sales because it inverts the normal power dynamic. Instead of the salesperson chasing the buyer, the buyer is a patient seeking expert diagnosis. The language: 'Is it okay if I ask you a few questions to see where you're at, so I can figure out what might help you? I want to make sure I prescribe the right solution.'
 

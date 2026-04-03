@@ -65,6 +65,12 @@ evidence:
   - id: INS-260329-27DF
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260325-5A72
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-1B42
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that the biggest mistake ambitious young people make is risk-aversion when their actual downside is zero — you can always get another job, move back home, or start over. The math is simple: if the downside is returning to your current baseline and the upside is life-changing, every bet is positive expected value.
 

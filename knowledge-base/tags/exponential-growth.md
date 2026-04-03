@@ -13,10 +13,10 @@
 - `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
 - `INS-260330-FED6` Log-scale plots turn exponential curves into straight lines, making growth rate changes and inflection points visible to human linear-pattern-matching intuition.
 - `INS-260330-8C80` A log-scale plot turns exponential curves into straight lines, making growth rate changes immediately visible.
+- `INS-260402-4BC7` Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260330-1C84` Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
 - `INS-260330-1AB0` All real-world exponentials are logistic curves that saturate when the growth medium is exhausted, making the S-curve the true model for any bounded growth process.
 - `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
-- `INS-260402-4BC7` Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260330-DFA4` Tyson's experiment at Princeton showed astrophysical publications double every 15-18 years, meaning every generation on the exponential curve genuinely feels like they're living in special times.
 - `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.

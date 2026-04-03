@@ -69,6 +69,9 @@ evidence:
   - id: INS-260329-882A
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260323-87F3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Epstein's seven principles of effective cold email copy center on one meta-principle: be human. Use emotional language ('I'd love to,' 'thanks, you have no idea how much this helped'). Be informal ('hey' not 'Hello Mr. Epstein'). Even typos and no capitalization can help because they signal a real human wrote this. The read-aloud test is the final filter: if you'd feel awkward saying something to someone's face, rewrite it.
 

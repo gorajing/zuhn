@@ -79,6 +79,15 @@ evidence:
   - id: INS-260323-EDAD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-51C2
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-375B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-163B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Duckworth acknowledges a significant gap: while grit is the strongest predictor of success, science knows remarkably little about how to build it. The best idea she's encountered is Carol Dweck's growth mindset — the belief that the ability to learn is not fixed but changes with effort.
 

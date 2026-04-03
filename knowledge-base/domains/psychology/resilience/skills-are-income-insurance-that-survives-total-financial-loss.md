@@ -55,6 +55,25 @@ related:
   - INS-260327-3A81
   - INS-260329-9F81
   - INS-260329-E76F
+evidence:
+  - id: INS-260326-8798
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-D4BC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-BBBE
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260327-3A81
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-9F81
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-E76F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi describes losing his entire nest egg from selling his gyms when his next venture failed. But immediately after, he was able to generate $100,000 the following month by maxing out a credit card and applying his skills. This moment crystallized that the gyms weren't the asset he had built — the skills were. He frames skill investment as 'income insurance': regardless of what currency exists or what happens to markets, the ability to create value through skill is always tradeable.
 

@@ -67,6 +67,9 @@ evidence:
   - id: INS-260329-EE04
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260329-0B76
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video highlights a subtle but powerful mechanism: nobody consciously 'chose' to be locked into Apple's ecosystem. They chose to buy an iPhone, which required choosing an App Store, which led to buying apps, which created switching costs, which made leaving increasingly expensive. Each subsequent choice feels voluntary but is actually constrained by the initial decision.
 

@@ -90,6 +90,18 @@ evidence:
   - id: INS-260329-C81C
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260329-62C1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-461A
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-9B06
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-304C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Acemoglu draws a sharp distinction between tasks where AI thrives and where it struggles. AI excels in predictable, office-based cognitive tasks with clear right/wrong answers — protein folding, game playing, routine accounting. But most real-world occupations require tacit knowledge, contextual judgment, social intelligence, and interaction that AI cannot replicate.
 

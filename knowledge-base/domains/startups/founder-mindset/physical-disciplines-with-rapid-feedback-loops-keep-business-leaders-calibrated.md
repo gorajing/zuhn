@@ -56,6 +56,10 @@ related:
 stance: >-
   High-turnaround physical activities like jiu-jitsu and surfing teach leaders
   the crucial lesson that some things cannot be forced, a lesson busines...
+evidence:
+  - id: INS-260325-B11F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Zuckerberg identifies a fundamental problem in business: the feedback cycle is so long (months to years for products, especially hardware) that leaders lose calibration on what can be forced through with grit versus what requires finesse or redirecting.
 

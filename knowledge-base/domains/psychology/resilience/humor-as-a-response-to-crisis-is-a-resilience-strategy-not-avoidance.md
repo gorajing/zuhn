@@ -54,6 +54,10 @@ related:
   - PRI-260328-39FA
   - INS-260326-8E6D
   - INS-260330-E68E
+evidence:
+  - id: INS-260326-8E6D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Giertz maintained her characteristic humor throughout brain tumor treatment, naming the tumor and joking about brain surgery. This wasn't avoidance - it was an active coping strategy that served multiple functions: creating psychological distance from overwhelming fear, maintaining identity continuity through crisis, and enabling social support (people could engage with humor more easily than with raw tragedy).
 

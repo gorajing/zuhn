@@ -64,6 +64,9 @@ evidence:
   - id: INS-260323-8555
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-7FAC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Oxman's team keeps returning to a core insight when asking 'what does nature want?': nature wants to increase information while finding order (decreasing entropy). This maps to biological systems that grow increasingly complex and organized over time.
 

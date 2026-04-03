@@ -54,5 +54,9 @@ related:
   - INS-260330-3084
   - INS-260330-8686
   - INS-260330-2347
+evidence:
+  - id: INS-260327-F484
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Facebook promised Instagram would remain independent post-acquisition, and for the first few years largely honored this. But autonomy eroded gradually: suppressing competitor hashtags (Vine), integrating Facebook's unvetted ad system over Systrom's objections, removing Instagram navigation links from Facebook's app, and capping team growth at 8%. No single interference was resignation-worthy. But the pattern reveals a predictable arc: acquired founders tolerate individual compromises because each seems small, until a threshold is crossed where the accumulated losses contradict their identity as the product's creative director. Systrom's extended vacation before resigning is a classic signal — physical withdrawal preceding formal departure. This pattern suggests acquirers who want to retain founders should monitor the autonomy-erosion gradient, not just individual decisions, because the resignation trigger is cumulative, not event-driven.

@@ -55,6 +55,13 @@ related:
   - INS-260402-E994
   - INS-260330-D006
   - INS-260402-2632
+evidence:
+  - id: INS-260402-E994
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-2632
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham's compass-and-magnet metaphor captures a general evaluation principle: when systematic biases (fame, social pressure, tricks) are stronger than the genuine signal, aggregating more opinions doesn't help — it just gives you a more precise measurement of the error. This is why democratic votes on art quality fail even though 'appeal to humans' is the correct test. The solution isn't better aggregation but error elimination: strip away brand effects, learn to detect manipulation, correct for cultural conditioning.
 

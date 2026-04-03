@@ -52,6 +52,15 @@ evidence:
   - id: INS-260325-ADF5
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-421F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-6FAC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-8F80
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Guo explicitly does not 'sit still'—no TikTok, no TV, no movies. Her free time goes into angel investing (100+ companies) and building new ventures. This isn't about work-life balance; it's about ensuring every waking hour contributes to long-term compounding.
 

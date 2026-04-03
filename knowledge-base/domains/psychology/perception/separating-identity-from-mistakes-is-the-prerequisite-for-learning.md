@@ -70,6 +70,21 @@ evidence:
   - id: INS-260329-EA2B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-CF3E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-887D
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-3737
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-7EDF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-8ABB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Cognitive dissonance intensifies when mistakes threaten self-image -- especially when reputation, money, or time has been invested. The conflation of 'I did something wrong' with 'I am a person who gets things wrong' triggers defensive responses that block learning. The first step in any constructive failure response is recognizing you can be a person who made a mistake without being a person who will always make mistakes.
 

@@ -59,6 +59,10 @@ related:
   - PRI-260325-1640
   - INS-260330-FEDD
   - INS-260330-833E
+evidence:
+  - id: INS-260325-1160
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 For decades, archaeologists found large undigested lumps of quickite in Roman concrete and assumed the Romans had failed to mix their concrete properly -- like finding raw flour in bread. MIT researchers who actually recreated Roman concrete discovered these 'defects' were in fact the key feature: when water infiltrated cracks, it reacted with these quickite deposits to fill the gap, creating self-healing concrete that strengthened over time.
 

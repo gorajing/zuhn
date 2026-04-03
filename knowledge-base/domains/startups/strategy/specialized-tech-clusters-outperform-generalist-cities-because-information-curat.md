@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-ACDA
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260325-4C6D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The common assumption is that the internet has equalized information access, making geographic clusters obsolete. The essay argues this fundamentally misunderstands the problem: in a world of superabundant information, access isn't the bottleneck—knowing which information to pay attention to is. Human networks serve as the best knowledge curation filters, and the most valuable insider information is never published publicly.
 

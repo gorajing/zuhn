@@ -57,6 +57,9 @@ evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-764E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 
 Coconote's content strategy was built around a small, tight team of

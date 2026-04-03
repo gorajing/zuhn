@@ -60,6 +60,39 @@ evidence:
   - id: INS-260327-165D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260324-5952
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-2155
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-C9A3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-555D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-9CB1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-0CBC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-415B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-4445
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-2632
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-20F7
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-FB3F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Food products that go viral on social media are optimized for visual impact and shareability rather than taste, which is why the most viral foods are often mediocre eating experiences.
 

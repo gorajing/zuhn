@@ -51,6 +51,13 @@ related:
   - INS-260330-0F52
   - INS-260327-F26E
   - INS-260330-8639
+evidence:
+  - id: INS-260330-0F52
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-8639
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi's Smoothie King example crystallizes this: coworkers earning $43 for a 6-hour shift would spend $15 on lunch, effectively working 2+ hours just to eat next door. A $100 shirt at $20/hour (after 20% payroll tax) costs 6 hours of labor. The reframe — 'would I work all day for this shirt?' — makes the trade-off visceral.
 

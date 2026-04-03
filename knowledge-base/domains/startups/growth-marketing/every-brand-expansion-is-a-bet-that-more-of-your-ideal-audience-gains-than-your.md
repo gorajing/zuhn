@@ -62,6 +62,10 @@ related:
   - INS-260330-21CC
   - INS-260322-8D47
   - INS-260329-0F10
+evidence:
+  - id: INS-260323-8268
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi uses the small-town band analogy: when a local band goes mainstream, some original fans say 'they sold out.' That audience loss is real and unavoidable. But the band made a calculated bet that the broader audience gained would exceed the niche audience lost. Every brand expansion — new content topic, new collaboration, new product line — carries this same risk calculus. Going from 'taco content' to 'food content' to 'restaurant content' widens reach but dilutes specificity.
 

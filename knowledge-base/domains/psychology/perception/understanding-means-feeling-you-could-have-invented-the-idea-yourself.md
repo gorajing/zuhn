@@ -49,6 +49,10 @@ related:
   - PRI-260323-27D6
   - INS-260329-2FEB
   - INS-260329-9A58
+evidence:
+  - id: INS-260329-9A58
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Grant Sanderson frames the entire Essence of Calculus series around one litmus test: could you have stumbled onto these truths yourself? This reframes learning from passive reception to active reconstruction. Being told why something is true and actually generating it from scratch are fundamentally different cognitive experiences.
 

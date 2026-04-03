@@ -45,6 +45,10 @@ related:
   - INS-260329-1318
   - INS-260330-3431
   - INS-260402-5EDC
+evidence:
+  - id: INS-260327-690E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Despite near-zero barriers to entry and trivial production costs, established candle brands maintain premium pricing because emotional associations with specific scents create switching costs.
 

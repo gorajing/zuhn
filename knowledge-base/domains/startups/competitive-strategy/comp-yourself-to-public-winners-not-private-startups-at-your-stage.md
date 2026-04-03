@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-FDB3
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-5FB5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When founders choose comparison companies, they gravitate toward private startups at a similar stage rather than studying proven public-market winners. This is like studying a college basketball player instead of Michael Jordan because Jordan seems too distant. The problem is that private comparisons teach you what 'might work' while public winners teach you what actually worked at scale.
 

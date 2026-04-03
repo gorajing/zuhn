@@ -51,6 +51,10 @@ related:
   - INS-260329-8E89
   - INS-260330-228D
   - INS-260325-F500
+evidence:
+  - id: INS-260330-228D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 This thought experiment forces confrontation with the gap between stated and actual values. Most people, when imagining everything stripped away, don't miss what they spend most of their time and energy on (status markers, career advancement, social media presence). What they do miss (specific relationships, creative expression, physical experiences) often receives the least attention.
 

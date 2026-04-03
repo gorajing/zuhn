@@ -51,6 +51,10 @@ related:
   - INS-260330-C9C6
   - INS-260323-6230
   - INS-260330-D5BD
+evidence:
+  - id: INS-260323-6230
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham introduces the concept of 'larval markets' — markets that are small but contain the seeds of massive growth. Apple in 1976, Facebook at Harvard, and Google's early web search all started as things a tiny group wanted that eventually everyone would want.
 

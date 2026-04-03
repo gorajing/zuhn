@@ -56,6 +56,10 @@ related:
   - INS-260330-752E
   - INS-260330-C215
 stance: In fast-growing companies you cannot learn organically fast enough
+evidence:
+  - id: INS-260321-B7CB
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Kim's growth framework is concrete: when your company is growing quickly, you don't have time to organically learn the skills you need. The solution is Bezos-style working backwards — define what your company needs to look like in 12-24 months, then find 3-5-10 people who have already navigated that transition and interview them to find the general pattern of greatness.
 

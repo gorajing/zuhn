@@ -51,5 +51,9 @@ related:
   - INS-260327-18D4
   - INS-260329-DD06
   - INS-260330-1226
+evidence:
+  - id: INS-260330-1226
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Conrad describes Rippling's first two years as an exercise in begging the team not to leave until things started working. But unlike a typical founder groping in the dark, he had seen what worked and why at Zenefits, giving him 'unshakable conviction' that the approach would work. He readily acknowledges this conviction could have been misplaced — and for most founders, it probably is. But when you genuinely know there's land over the horizon, the CEO's job shifts from searching for product-market fit to a retention and morale challenge. The insight is that the CEO's relationship to uncertainty fundamentally changes the company's strategy: if you're exploring, you iterate fast; if you're certain, you endure and keep the team together.

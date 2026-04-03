@@ -66,6 +66,12 @@ evidence:
   - id: INS-260329-B214
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260325-568A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-30DE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 AlphaGo's Move 37 appeared to be a mistake—commentators and even the opposing grandmaster thought it was a bug. It turned out to be a strategy so advanced no human had conceived it. Laskin argues we'll see these moments across mathematics, science, engineering, and business.
 

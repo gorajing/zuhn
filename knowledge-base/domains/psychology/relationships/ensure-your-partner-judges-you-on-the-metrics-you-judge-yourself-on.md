@@ -47,5 +47,12 @@ related:
   - INS-260329-E0B0
   - INS-260330-1A55
   - INS-260325-FDA9
+evidence:
+  - id: INS-260329-E0B0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-FDA9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi frames this as a management alignment problem: if you're optimizing for career ambition but your partner scores you on quality time, you'll perpetually feel like you're failing despite performing well by your own standards. The insight goes beyond 'communicate expectations' — it's about ensuring the fundamental evaluation frameworks are compatible before committing. This mirrors OKR alignment in organizations: individual contributors who optimize for metrics their manager doesn't care about will always feel underappreciated. The fix isn't working harder but ensuring both parties agree on what 'winning' looks like.

@@ -59,5 +59,8 @@ evidence:
   - id: INS-260321-D484
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260325-3C17
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 RCA's Herbert Maruska created a gallium nitride blue LED prototype in 1972, but it was dim and RCA slashed the budget, calling it a 'dead end.' By the late 1980s, the entire industry had abandoned gallium nitride in favor of zinc selenide. Nichia's biggest customer Matsushita publicly declared 'gallium nitride has no future' in 1990. Yet the material's fundamental physics was sound - it had the right band gap for blue light. What was missing were engineering solutions (better crystal growth, p-type doping, active layers) that required tooling innovation rather than new science. The pattern is that premature technology deaths often reflect engineering limitations of the era rather than fundamental impossibility. When new enabling techniques emerge (Nakamura's two-flow MOCVD, thermal annealing), the 'dead' technology can suddenly become viable, and the lack of competition means first movers capture enormous value.

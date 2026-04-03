@@ -61,5 +61,8 @@ evidence:
   - id: INS-260329-4696
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-8011
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 High-frequency trading systems don't use standard API or WebSocket feeds. They receive multicast data through ultra-low-latency NICs with kernel bypass mechanisms like DPDK or Solarflare's OpenOnload, skipping the regular OS network stack entirely. Combined with physical co-location inside exchange data centers, this reduces data travel time to microseconds. The insight generalizes beyond finance: any system where latency directly equals revenue should evaluate whether the OS itself is the bottleneck, not just the application code.

@@ -65,6 +65,9 @@ evidence:
   - id: INS-260326-E411
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-72BD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The coalition's Trachenberg Plan was specifically designed to neutralize Napoleon's core advantage: the ability to concentrate force against isolated opponents. Instead of engaging Napoleon directly, allied armies would retreat from him while other armies advanced. This forced Napoleon to respond to threats from all directions simultaneously. His centralized command structure — which was his greatest strength in simpler engagements — became a bottleneck when he needed to make decisions on four fronts at once.
 

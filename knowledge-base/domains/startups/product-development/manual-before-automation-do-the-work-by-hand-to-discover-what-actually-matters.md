@@ -61,6 +61,9 @@ evidence:
   - id: INS-260321-4178
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-023F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 At Homejoy, Cheung's team initially interviewed every cleaning professional candidate by phone and in person, with a 3-5% acceptance rate. This was extremely labor-intensive, but over time they discovered which specific questions were reliable predictors of on-platform performance. Only then did they build an online application form with those validated questions.
 

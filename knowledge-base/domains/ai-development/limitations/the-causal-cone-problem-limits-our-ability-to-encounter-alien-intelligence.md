@@ -94,6 +94,15 @@ evidence:
   - id: INS-260330-4B22
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260330-A516
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-691F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-8B79
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Even if life emerged independently on billions of planets, the vast distances and finite speed of light mean that most civilizations' causal cones (the regions of spacetime they can influence or observe) never intersect. We may be cosmically lonely not because life is rare but because the universe is too large for neighbors to meet.
 

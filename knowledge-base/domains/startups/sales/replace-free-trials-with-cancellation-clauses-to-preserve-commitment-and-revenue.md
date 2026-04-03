@@ -55,5 +55,9 @@ related:
   - INS-260330-B8C5
   - INS-260320-9937
   - INS-260329-AADB
+evidence:
+  - id: INS-260320-9937
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 When prospects ask for a free trial, founders feel pressure to comply because it seems reasonable. But free trials produce none of what early startups need: revenue, validation, commitment, or real usage data. Worse, at the end of the trial you have to sell them all over again from scratch. Tyler's reframe is elegant: 'We don't do free trials, but we do annual agreements where you can opt out in the first 30-60 days for any reason.' This gives the buyer the same psychological safety of a trial while giving the startup a signed agreement, real commitment, and actual revenue from day one. The structural insight is that the difference between a free trial and a cancellable agreement is tiny for the buyer but transformative for the startup.

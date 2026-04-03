@@ -52,6 +52,13 @@ related:
   - INS-260327-37E3
   - INS-260327-D1B7
   - INS-260330-F23F
+evidence:
+  - id: INS-260327-37E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-D1B7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham identifies a recurring pattern across technology waves: investors take big trends too literally, investing in the most 'Internettish' companies (like Pets.com) when the real money flows to adjacent players. During the railroad boom, Carnegie's steelworks (which made the rails) and Standard Oil (which used railroads for distribution) captured far more value than most railroad companies.
 

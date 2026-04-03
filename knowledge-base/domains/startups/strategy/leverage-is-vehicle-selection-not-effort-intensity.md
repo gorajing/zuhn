@@ -60,5 +60,8 @@ evidence:
   - id: INS-260330-BA71
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260329-B583
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi illustrates this with Warren Buffett's story: Buffett's Columbia classmate was smarter and harder-working but went into the steel business while Buffett went into investing. Decades later, the steel friend 'did okay' while Buffett became one of the wealthiest people alive. The difference wasn't effort — it was that investing had structural tailwinds while steel had headwinds from globalization. Similarly, Hormozi's own career trajectory shows each vehicle switch (gyms → turnarounds → licensing → investment firm) yielded higher returns per unit of input. The implication is that entrepreneurs should regularly audit whether their current vehicle has sufficient leverage, rather than defaulting to 'work harder.' However, switching vehicles resets you to zero, so the pace advantage of the new vehicle must be disproportionately higher to justify the reset cost.

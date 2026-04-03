@@ -54,5 +54,9 @@ related:
   - INS-260330-0998
   - INS-260322-B450
   - INS-260323-FEAB
+evidence:
+  - id: INS-260323-FEAB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Netflix's early rental model charged per DVD, identical to Blockbuster but online. Mark Randolph's insight was to eliminate return dates, late fees, and per-item charges entirely — a flat $20/month for 4 DVDs at a time, swap whenever you want. On the first day of offering the subscription plan, 90% of people who saw it signed up. The psychological shift is profound: once you're subscribed, every movie feels 'free' at the moment of consumption. There's no mental accounting per rental, no anxiety about late fees, no friction to overcome each time you want to watch something. This also solved the convenience gap with Blockbuster — subscribers always had movies at home ready to watch instantly. The broader principle: per-transaction pricing creates a micro-decision (and potential rejection) at every usage point, while subscriptions front-load the decision and make ongoing usage feel costless.

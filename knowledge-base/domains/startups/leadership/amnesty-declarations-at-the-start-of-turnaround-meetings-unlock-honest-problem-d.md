@@ -74,6 +74,9 @@ evidence:
   - id: INS-260325-B8D4
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-9F46
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When Hormozi runs prioritization meetings for struggling business units, he opens by explicitly stating that no one is accountable for anything that happened before today, and that any questions about who did what are diagnostic, not punitive. This amnesty declaration is a deliberate psychological safety mechanism that transforms the meeting dynamic from defensive posturing to collaborative problem-solving.
 

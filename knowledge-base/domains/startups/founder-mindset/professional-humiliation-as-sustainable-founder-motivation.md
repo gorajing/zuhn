@@ -55,5 +55,8 @@ evidence:
   - id: INS-260327-A048
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-2D6D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Conrad describes how being publicly blamed and character-assassinated after leaving Zenefits created a singular motivation: build a multi-hundred-billion-dollar outcome in the exact same space, doing everything the opposite way. His Series A investor told him these motivations were 'dark,' but when an exec coach interviewed his direct reports, they all said 'I hope he never loses it.' The pattern is instructive: while positive motivations (loving the team, solving customer problems) eventually become the primary driver, the chip-on-shoulder provides irreplaceable fuel during the darkest early days when the company isn't yet working. Conrad notes that no matter how bad things got at Rippling, they never came close to how bad the Zenefits aftermath was — and that psychological baseline made everything else manageable.

@@ -56,6 +56,22 @@ related:
   - INS-260330-712D
   - INS-260330-4EF8
   - INS-260402-FE91
+evidence:
+  - id: INS-260403-F157
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260320-E044
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-1739
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-4EF8
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260403-74E5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Beyond the attention-amplification of the Streisand Effect, there is a deeper psychological phenomenon: people may actually be more likely to believe ideas that are being suppressed. The act of suppression signals that the idea is threatening enough to require silencing, which paradoxically functions as an endorsement of its importance or truth value.
 

@@ -69,5 +69,8 @@ evidence:
   - id: INS-260330-DBE6
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-A1DF
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Tao draws a sharp distinction: when he collaborates with a human, they adaptively modify strategies, systematically map what works and doesn't, and build cumulative understanding. AI tools jump and fail, jump and fail — brute force repetition. They can't reach a handhold, stay there, pull others up, then jump from the new position. They have no persistent understanding that grows through the work. Each session starts fresh. This cumulative, interactive building is what Tao calls 'intelligence' vs mere 'cleverness.'

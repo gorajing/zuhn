@@ -58,6 +58,13 @@ related:
   - INS-260330-50B3
   - INS-260329-D8F2
   - PRI-260328-A4AC
+evidence:
+  - id: INS-260330-9BB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-D8F2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Steve explains that suppressor design has two distinct stages: first, capture the expanding gases in a volume large enough to absorb the initial energy burst; second, restrict the flow so gases exit slowly rather than explosively. Neither stage alone is sufficient — a large chamber without restriction just delays the noise, while restriction without expansion creates dangerous backpressure.
 

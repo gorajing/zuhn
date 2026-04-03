@@ -71,5 +71,8 @@ evidence:
   - id: INS-260403-A27F
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260402-A94F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Tao observes that geocentrism persisted because of the Aristotelian assumption that objects naturally rest. Once Newton's laws replaced that assumption, heliocentrism made sense. Darwin's evolution required dropping the assumption that species are static. We're now in a cognitive Copernican revolution — dropping the assumption that human intelligence is the center. The challenge for AI: deleting assumptions can't be scored with a reward function, making it resistant to RL optimization. This may be 'forever the human side of science.'

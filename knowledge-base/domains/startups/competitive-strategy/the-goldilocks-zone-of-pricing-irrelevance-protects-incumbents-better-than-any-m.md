@@ -56,6 +56,10 @@ related:
   - INS-260327-E359
   - INS-260327-0755
 stance: Some products are too cheap to bother replacing (janitorial services problem)
+evidence:
+  - id: INS-260327-0755
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The 'janitorial services problem': if you tell a CEO you can get their toilets 9% cleaner and save 1% on spend, they won't even exercise the mental energy to find the person who cares. This Goldilocks zone of irrelevance is actually more protective than any technical moat.
 

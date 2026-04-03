@@ -60,6 +60,9 @@ evidence:
   - id: INS-260320-6CCE
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-F157
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Bornich's framework for innovation culture: most things you do that have never been done before will be 'plain wrong' or even 'borderline stupid' in hindsight. That's not failure—that's the nature of innovation. The only two things that are unacceptable are: (1) not really trying, and (2) not reflecting on why it failed.
 

@@ -58,5 +58,8 @@ evidence:
   - id: INS-260329-04FA
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-B374
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Kennedy draws a sharp distinction between compliance and skill development. A child punished for hitting may stop hitting out of fear, but they never learn to manage the jealousy or frustration that caused the hitting. Fast forward 20 years: they still lack the emotional regulation skills, and those unmanaged feelings emerge as toxic adult behavior. The swimming analogy is powerful: nobody would try to punish a child into being a swimmer — you teach the skill, accepting it takes time. Yet with emotional regulation (a more important life skill), the default approach is punishment and rewards. The same principle applies in organizations: compliance-based management (rules, penalties, surveillance) produces people who avoid getting caught, not people who develop genuine capability.

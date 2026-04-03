@@ -64,6 +64,12 @@ evidence:
   - id: INS-260327-7F64
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-523E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-23CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The panel identified three distinct eras of agentic coding. The first era was GUI-based copilots like Cursor and GitHub Copilot — humans supervising AI like an intern. The second era is CLI-based agents like Claude Code and OpenCode where humans trust the agent to run autonomously and cannot inspect every step. The third era, emerging with OpenClaw (a protocol for agent networks), has agents commanding sub-agents on the user's behalf — humans actually get in the way.
 

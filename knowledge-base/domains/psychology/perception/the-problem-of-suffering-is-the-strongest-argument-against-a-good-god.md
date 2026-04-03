@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-7D90
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-E19E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 O'Connor frames the problem of suffering not as a logical disproof of God but as an argument from expectation. If a loving, omnipotent God designed the universe to produce human life, the mechanism chosen — evolution by natural selection — requires survival of the fittest, which is identical to the destruction, suffering, and death of the weakest. For billions of years, 99.9% of all species were wiped out, usually miserably.
 

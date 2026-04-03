@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-1AD3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-2460
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Manson reframes the relationship between success and struggle: you wanted the job, now you have the stress; you wanted the relationship, now you have the arguments. This does not mean something went wrong — it means you leveled up and have a new problem set.
 

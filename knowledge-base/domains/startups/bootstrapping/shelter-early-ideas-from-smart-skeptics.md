@@ -50,6 +50,10 @@ resolutions:
 stance: >-
   Early-stage ideas need shelter from smart skeptics whose conventional wisdom
   applies to different products
+evidence:
+  - id: INS-260325-0147
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 
 Smart, experienced people will tell you why your idea will not work.

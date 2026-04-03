@@ -56,5 +56,8 @@ evidence:
   - id: INS-260330-790A
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260323-1B42
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Hoffman's core decision framework for founders is the investment thesis — a set of explicit beliefs about why this idea will work and what you know that others don't. The critical practice is continuously tracking whether incoming data (customer feedback, market signals, competitive moves) increases or decreases your confidence in each thesis bullet. Decreasing confidence doesn't mean immediate pivot — PayPal had months of 'why did we think this was a good idea' while burning $12M/month — but it triggers an immediate action plan to address the gap. This converts the abstract 'should I persist or pivot?' into a concrete measurement: is my confidence in the specific thesis going up or down, and do I have a plan for what's declining? It also makes contrarian conviction testable rather than dogmatic.

@@ -53,5 +53,9 @@ related:
   - INS-260325-3B2A
   - INS-260326-3CDE
 stance: Finding a co-founder is as serious as choosing a spouse
+evidence:
+  - id: INS-260326-3CDE
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Doi compares choosing a co-founder to getting married: 'Go on a few dates. Be together for a while before you really commit, because starting a business together is going to be up and down like a roller coaster.' His co-founder selection framework: (1) The airport test — given two equally skilled candidates, which one would you rather be stranded at an airport with for 48 hours? This filters for human compatibility over credentials. (2) Complementary skills — Doi was the 'noisy mouthpiece' and salesperson; his partner was the developer and straight-shooter who would say '99 of those ideas suck, but this one is good.' Doi explicitly states that if he'd partnered with 'another me,' the business would have failed completely. The counterweight here: the startup ecosystem romanticizes solo founders and 'technical co-founders' as a checklist item. The real requirement is someone you can endure a marathon with who sees the world differently than you do.

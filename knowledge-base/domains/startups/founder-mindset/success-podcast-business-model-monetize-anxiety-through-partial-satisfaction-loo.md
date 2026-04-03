@@ -55,6 +55,10 @@ related:
 stance: >-
   Success podcasts follow a 4-step loop: create/exploit anxiety, promise the
   solution, deliver partial satisfaction, repeat
+evidence:
+  - id: INS-260330-207D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Barry maps the business model: (1) Create or exploit an anxiety — you are not successful enough, healthy enough, optimized enough. (2) Promise the solution — this guest has the formula. (3) Deliver partial satisfaction — you feel inspired but nothing changes. (4) Repeat until burnout. The product is not your success; it is your continued consumption.
 

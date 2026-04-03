@@ -66,5 +66,8 @@ evidence:
   - id: INS-260327-540D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-FDF5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Levie identifies the shift from IT-led to user-led enterprise adoption as perhaps the most profound change enabling enterprise startups. In the old model, incumbents won because they had existing relationships with CIOs and IT spending power. In the user-led model, individuals on sales, marketing, and finance teams bring in their own tools — which means startups with consumer-grade UX can enter enterprises through the front door without IT approval. You then sell to the enterprise when they want better control, security, and scalability. However, Levie explicitly warns against the trap of thinking this eliminates the need for sales entirely. Your product should sell itself through great design and user experience, but you still need consultative, domain-oriented salespeople who help customers navigate the product, the competitive landscape, and organizational deployment. The product is the entry point; sales is the expansion mechanism. Mixpanel exemplifies this: developers adopt it bottom-up, then inside sales converts the organization.

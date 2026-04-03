@@ -51,5 +51,12 @@ related:
   - INS-260329-2BCC
   - PRI-260328-3BEF
   - INS-260329-2460
+evidence:
+  - id: INS-260323-9EDC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-2460
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Nazo compares the co-founder relationship to marriage because of the duration and intensity of the commitment. You will spend 7-10 years with this person through extreme stress, disagreements, and pivots. The foundational requirement is mutual respect — not agreement on everything, but respect for each other s judgment and character. Without that respect foundation, the relationship will crack under pressure. His advice to founders evaluating potential co-founders: assess respect and stress compatibility first, complementary skills second.

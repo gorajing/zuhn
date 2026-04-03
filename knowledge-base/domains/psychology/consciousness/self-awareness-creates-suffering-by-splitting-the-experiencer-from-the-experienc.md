@@ -60,5 +60,8 @@ evidence:
   - id: INS-260330-47E0
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-206B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Fernando Pessoa (5M+ views) created 75+ heteronyms (fully realized alternate identities with different writing styles, philosophies, and biographies) because his self-awareness was so extreme he could not exist as a single unified self. His Book of Disquiet, found in a trunk after his death, explores how consciousness watching itself creates an unbridgeable gap between living and observing life. The more aware you become of your own experience, the less you can simply have the experience. This is not a disorder but the logical endpoint of deep self-reflection — and it explains why many highly intelligent, introspective people feel permanently alienated from ordinary happiness.

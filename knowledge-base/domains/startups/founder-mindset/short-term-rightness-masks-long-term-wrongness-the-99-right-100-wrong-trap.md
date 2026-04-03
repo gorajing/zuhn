@@ -58,5 +58,8 @@ evidence:
   - id: INS-260327-7D75
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-9F46
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi borrows Dr. Kashey's framework: '99% right but 100% wrong.' Every person you date except the one you marry — critics are right that 'this isn't the one.' Every business you start except the one that works — skeptics are right that 'this won't succeed.' They're confirmed over and over by short-term outcomes, which makes the pattern feel safe and intelligent. But on a long enough timeline, they're completely wrong because one of those attempts would have been the breakthrough. This applies to the victim frame too: every time you say 'it won't work because of X,' you get confirmed, you feel right, but you guarantee the macro loss. The deception is that short-term rightness feels like intelligence when it's actually a guaranteed-loss strategy dressed up as wisdom.

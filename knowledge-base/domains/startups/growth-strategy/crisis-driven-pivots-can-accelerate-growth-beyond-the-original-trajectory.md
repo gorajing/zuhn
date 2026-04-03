@@ -53,6 +53,10 @@ related:
 stance: >-
   When COVID canceled 120 fully-booked rooms and left 2 months of runway,
   pivoting share houses to quarantine facilities and building a university qu...
+evidence:
+  - id: INS-260330-3E64
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Facing -3,000 operating profit with only 2 months of runway, Oh didn't despair — he reframed the empty share houses as potential quarantine facilities and partnered with Sogang University's international student office. The pivot wasn't just survival: the quarantine solution (handling payments, pickup, meals) built institutional relationships and operational capabilities that accelerated the platform's growth beyond what the original share-house model could have achieved.
 

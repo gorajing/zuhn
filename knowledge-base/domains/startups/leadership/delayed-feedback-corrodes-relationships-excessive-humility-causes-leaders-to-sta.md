@@ -76,6 +76,9 @@ evidence:
   - id: INS-260330-5A66
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260323-DA13
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Many novice leaders, especially in Korean cultural contexts, believe they need objective evidence before delivering difficult feedback. This creates a destructive cycle: they delay the conversation while searching for unchallengeable proof, meanwhile the discomfort compounds internally. By the time they finally speak up, they've accumulated so much resentment that the feedback explodes rather than lands constructively.
 

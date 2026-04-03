@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-A862
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-74E5
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham identifies a strange inversion: Darwin's essay on natural selection was arguably the best essay of 1844, but it would be unimpressive today precisely because it succeeded — everyone already knows about natural selection. The most impactful ideas destroy their own novelty through cultural assimilation. Bertrand Russell's 'trial marriage' proposals were revolutionary but now read as boring because they won; trial marriage became 'dating.'
 

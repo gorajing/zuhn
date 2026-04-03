@@ -2,8 +2,8 @@
 
 - `INS-260327-1652` Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
 - `INS-260327-FDF4` Karpathy's LLM OS framework: models are the CPU, modalities are peripherals, existing software infrastructure connects in, and there will be both default apps and a thriving third-party ecosystem.
-- `INS-260326-3D8D` Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
 - `INS-260330-F9CA` Facebook scrapped WhatsApp's $1/year fee because a user's behavioral data, contact graph, and cross-platform identity linkage is worth far more than $1 annually to an advertising network.
+- `INS-260326-3D8D` Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
 - `INS-260327-2B62` FaZe Clan's cost of revenue exceeded 70% every year because content creators demanded generous revenue-sharing to stay exclusive -- the company captured the least value while still spending beyond its means.
 - `INS-260324-157A` Chinese merchants on Wish/Temu profit on $1-10 items because of low cost of living, cheap rural warehouses, and subsidized state-owned postal services — the platform takes a cut while owning zero inventory.
 - `INS-260330-413D` Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.

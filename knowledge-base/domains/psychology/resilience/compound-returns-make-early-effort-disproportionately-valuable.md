@@ -56,6 +56,22 @@ related:
   - INS-260329-E6C3
   - INS-260329-C91D
   - INS-260330-F348
+evidence:
+  - id: INS-260327-3E6F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-6514
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-E6C3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-C91D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-F348
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi frames persistence through the lens of compound returns: outcomes are not linearly proportional to effort but exponentially so. Early effort appears unrewarded because you're in the flat part of the exponential curve. Most people quit here, interpreting slow initial results as evidence the approach doesn't work.
 

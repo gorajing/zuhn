@@ -64,6 +64,9 @@ evidence:
   - id: INS-260324-8D35
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-FEAB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Arthur discovered that TikTok Ads offers generous credit matching for new accounts — spend $200 and receive $200 in ad credit. He received this twice ($210 + $150 in credits), meaning nearly half his total ad spend was covered by free credits. Apple Ads also offered $100 in promo credits for new accounts. Combined, he had $500 in total ad budget from only $200 out of pocket.
 

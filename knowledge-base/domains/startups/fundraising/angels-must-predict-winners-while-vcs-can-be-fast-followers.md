@@ -65,6 +65,12 @@ evidence:
   - id: INS-260330-DF2C
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260325-FA70
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-7846
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham draws a sharp distinction between angel and VC investing that maps to different cognitive skills. VCs can afford to be 'fast followers' — they have enough capital and deal flow to invest after a startup has demonstrated product-market fit. Angels, by definition, invest before clear traction exists, which requires predictive judgment rather than reactive pattern-matching.
 

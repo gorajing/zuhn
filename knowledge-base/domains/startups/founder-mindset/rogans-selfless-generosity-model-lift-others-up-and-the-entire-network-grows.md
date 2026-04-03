@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-CC9E
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-DD91
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Kreischer provides a detailed analysis of what makes Joe Rogan's approach unprecedented in comedy. Before Rogan, nobody shared their audience with other comedians — bringing someone on the road meant putting them in bad scenarios. Rogan did the opposite: he wanted every guest to be the funniest and smartest person in the room, gave people careers through his podcast, and taught others how to build their own paths.
 

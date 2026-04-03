@@ -65,6 +65,15 @@ evidence:
   - id: INS-260330-B882
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-D1A1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-D357
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2F13
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Before each test, Steve predicted exactly where failure would occur — the thread joint on the .308, the capacity mismatch on the smaller-diameter design. His predictions were correct because he had accumulated hundreds of design-test-fail cycles. Dustin's engineering professor taught the theory of stress concentration, but Steve's intuition went further: he could predict failure modes on novel configurations he'd never tested before.
 

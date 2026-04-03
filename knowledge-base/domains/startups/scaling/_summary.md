@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 107 insights
+> 108 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -59,6 +59,7 @@
 - `INS-260330-2737` [high] Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260329-BB8F` [high] When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
 - `INS-260330-E4DB` [high] Rome's reliance on Germanic mercenaries loyal only to gold — not to Rome itself — directly caused the civil wars that destroyed the Western Empire.
+- `INS-260403-DC6E` [high] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 - `INS-260330-C658` [high] Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
 - `INS-260330-4FED` [high] Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking, and he taught them execution — a deliberate skill trade.
 - `INS-260330-1A63` [high] Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.

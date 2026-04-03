@@ -77,5 +77,8 @@ evidence:
   - id: INS-260329-B0F4
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-24E0
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 World-class debaters perform 'side-switch exercises' in the final moments before going on stage: they take a fresh sheet of paper and write the four best arguments for the opposing side, review their own case through a hostile critic's eyes to find flaws, and imagine a world in which they lost and articulate why. This isn't just preparation — it's a deliberate debiasing practice. After weeks of deepening certainty through research, these exercises force the debater to feel the 'subjective reasonableness' of opposing beliefs. The technique transfers directly to decision-making: before committing to a strategy, write the four strongest reasons it will fail. Before publishing an opinion, articulate the best case against it. The mechanism works because certainty is partly a feeling, and side-switching disrupts that feeling just enough to create space for updating. Bo Seo argues this practice is most urgently needed in political and ideological contexts where identity fusion makes perspective-taking hardest.

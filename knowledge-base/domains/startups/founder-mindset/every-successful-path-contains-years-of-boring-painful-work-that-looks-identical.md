@@ -53,6 +53,13 @@ related:
   - PRI-260325-070D
   - INS-260329-AAE3
   - INS-260330-8156
+evidence:
+  - id: INS-260329-1D08
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-163B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Drawing from his journey to a $46M exit, Hormozi emphasizes that the glamorous outcome obscures years of unglamorous work. The dangerous misconception is that successful people found a path that was consistently exciting or rewarding. In reality, every viable path includes extended stretches where progress is invisible, the work is monotonous, and quitting feels rational.
 

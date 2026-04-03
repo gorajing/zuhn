@@ -59,6 +59,10 @@ related:
   - INS-260330-BBE7
   - INS-260326-C692
   - INS-260328-FF2C
+evidence:
+  - id: INS-260330-BBE7
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Hormozi proposes a ruthlessly simple framework: for every person in your life, ask whether they increase or decrease the probability that you reach your goal. There's no neutral — it's binary. If three friends each decrease your odds by 30%, your compounded probability drops dramatically. Many people keep 'friends' who are really just people who have always been there, not people who help them get where they want to go.
 

@@ -55,5 +55,17 @@ evidence:
   - id: INS-260327-A048
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260326-3C9C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-8521
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-A675
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-B7FC
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Nakamura's PhD-holding lab mates in Florida dismissed him as a 'lowly technician' because he lacked academic credentials or publications. Rather than being demoralized, he wrote: 'I feel resentful when people looked down on me. I developed more fighting spirit.' This resentment sustained him through 18 months of 7am-7pm daily work with no weekends. Psychologically, this is a controlled channeling of status threat into task persistence - converting a negative social emotion into productive energy. The key distinction is that Nakamura channeled resentment into mastery of his craft rather than into social competition or revenge. He didn't try to prove his colleagues wrong through politics; he proved them wrong through results. This pattern appears in many breakthrough innovators who use perceived disrespect as long-duration fuel.

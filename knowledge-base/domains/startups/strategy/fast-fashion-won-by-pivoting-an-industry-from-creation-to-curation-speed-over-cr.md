@@ -52,5 +52,9 @@ related:
 stance: >-
   UNIQLO, Zara, and H&M transformed fashion from a creativity contest into a
   speed-and-curation game, driving GAP to irrelevance and J.Crew to bankru...
+evidence:
+  - id: INS-260403-76C3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Fast fashion's playbook: watch what's popular, produce it cheaply in small quantities, sell while demand exists, reposition for the next trend. What they lose in quality and originality they make up in value and volume. Even luxury fashion houses shifted catalogs toward synthetic limited-run products in response. The three leaders execute differently: Zara optimizes for speed (design-to-store in 2 weeks), H&M for volume (massive global presence), and UNIQLO for engineered basics (proprietary fabrics). Legacy brands like GAP, Ralph Lauren, Abercrombie, and American Eagle couldn't adapt and became afterthoughts.

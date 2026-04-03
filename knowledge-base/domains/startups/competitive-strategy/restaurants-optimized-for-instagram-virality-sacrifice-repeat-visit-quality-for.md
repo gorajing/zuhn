@@ -45,6 +45,10 @@ related:
   - INS-260327-E9F3
   - PRI-260328-F497
   - INS-260329-8299
+evidence:
+  - id: INS-260327-FEB7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the expense of the food quality that drives repeat visits.
 

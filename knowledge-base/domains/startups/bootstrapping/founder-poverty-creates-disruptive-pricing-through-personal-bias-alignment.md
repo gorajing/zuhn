@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-F759
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-ECBB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham illustrates this with both Apple (Woz designed for himself because he couldn't afford more) and Viaweb (priced at $300/month, an order of magnitude below competitors, because that felt expensive to the founders). The pattern recurs across industries: someone builds something at 1/10th the cost, and incumbents can't follow because they don't want to think about a world where that price point is viable.
 

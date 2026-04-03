@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-0876
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-2964
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 While the Mongol military conquests dissolved within 80 years, their infrastructure innovations had centuries-long impact. They revived the thousand-year-old Silk Road trade routes, built the yam system (a pony express-like relay network with bronze passports facilitating travel), and created conditions where cuisine, religion, and administrative practices flowed freely across Eurasia. The empire's security guarantee was so strong that 'a man could walk from one end to the other with a gold plate on his head without fear of robbery.'
 

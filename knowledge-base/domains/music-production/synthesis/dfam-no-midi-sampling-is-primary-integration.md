@@ -64,6 +64,9 @@ evidence:
   - id: INS-260320-232D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-8011
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 
 The Moog DFAM (Drummer From Another Mother) is an analog percussion

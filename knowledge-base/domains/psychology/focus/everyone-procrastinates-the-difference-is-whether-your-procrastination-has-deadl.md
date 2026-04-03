@@ -66,6 +66,12 @@ evidence:
   - id: INS-260325-0FED
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260329-6020
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-DD06
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Urban's key insight is that procrastination is universal, not a character flaw of a subset of people. Those who appear disciplined often simply work in environments rich with external deadlines — the Panic Monster does their self-regulation for them. Remove the deadlines and everyone is vulnerable.
 
