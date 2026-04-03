@@ -51,13 +51,12 @@ stance: >-
   versus current practice reaches its maximum width.
 related:
   - INS-260327-02CF
+  - PRI-260403-C337
   - INS-260330-1F25
   - INS-260330-13E8
   - INS-260402-426C
   - PRI-260328-A1AA
-  - INS-260330-7168
   - INS-260330-D6ED
-  - INS-260330-0AD5
 evidence:
   - id: INS-260330-0AD5
     type: TRANSFERS_TO

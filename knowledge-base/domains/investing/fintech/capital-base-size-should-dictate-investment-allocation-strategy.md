@@ -50,10 +50,10 @@ stance: >-
   asset allocation.
 related:
   - INS-260329-59FF
+  - PRI-260403-C229
   - INS-260329-5414
   - INS-260402-43F9
   - INS-260329-9F81
-  - INS-260329-1D8D
   - INS-260330-F1C8
 evidence:
   - id: INS-260329-59FF

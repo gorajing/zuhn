@@ -256,6 +256,7 @@ Generated on 2026-04-03 | 2421 sources
 | "All Lawful Use": Much More Than You Wanted To Know | blog | 5 | 2026-03-30 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
 | Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
+| At least five interesting things: Buy Local edition (#74) | blog | 5 | 2026-03-30 |
 | Beating the Averages | blog | 5 | 2026-03-31 |
 | Before the Startup | blog | 5 | 2026-03-31 |
 | Being John Rawls | blog | 5 | 2026-03-30 |
@@ -295,7 +296,9 @@ Generated on 2026-04-03 | 2421 sources
 | How to Work Hard | blog | 5 | 2026-03-31 |
 | Ideas for Startups | blog | 5 | 2026-03-31 |
 | If AI is a weapon, why don't we regulate it like one? | blog | 5 | 2026-03-30 |
+| International financial anarchy | blog | 5 | 2026-03-30 |
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
+| Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance | blog | 5 | 2026-03-30 |
 | Last Rights | blog | 5 | 2026-03-30 |
 | Let the Chinese cars in | blog | 5 | 2026-03-30 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
@@ -1683,7 +1686,6 @@ Generated on 2026-04-03 | 2421 sources
 | Assess & Design Your Innovation Portfolio | blog | 0 | 2026-03-31 |
 | Assess how your Innovation Programs are Performing | blog | 0 | 2026-03-31 |
 | At BioCity, Customer Obsession Fuels The Next Generation Of Healthcare | blog | 0 | 2026-03-31 |
-| At least five interesting things: Buy Local edition (#74) | blog | 0 | 2026-03-30 |
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 0 | 2026-03-31 |
 | B2B Sales Playbook: Tech Capabilities to Clear Value Props | blog | 0 | 2026-03-31 |
@@ -1954,7 +1956,6 @@ Generated on 2026-04-03 | 2421 sources
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
-| International financial anarchy | blog | 0 | 2026-03-30 |
 | Investor Herd Dynamics | blog | 0 | 2026-03-31 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 0 | 2026-03-30 |
@@ -1968,7 +1969,6 @@ Generated on 2026-04-03 | 2421 sources
 | It's Charisma, Stupid | blog | 0 | 2026-03-31 |
 | Japan can be America's arsenal | blog | 0 | 2026-03-30 |
 | Java's Cover | blog | 0 | 2026-03-31 |
-| Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance | blog | 0 | 2026-03-30 |
 | Jessica Livingston | blog | 0 | 2026-03-31 |
 | Keep Your Identity Small | blog | 0 | 2026-03-31 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 0 | 2026-03-30 |

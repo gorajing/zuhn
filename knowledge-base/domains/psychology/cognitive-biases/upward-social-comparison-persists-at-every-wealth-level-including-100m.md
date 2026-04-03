@@ -49,12 +49,11 @@ stance: >-
   shifts upward proportionally.
 related:
   - INS-260327-FF64
-  - INS-260327-F4B8
   - INS-260327-D77C
   - INS-260329-5B3D
   - INS-260330-DA0B
-  - INS-260330-B906
   - INS-260330-353B
+  - INS-260330-B906
 evidence:
   - id: INS-260327-FF64
     type: EXTENDS

@@ -12,6 +12,6 @@
 - `INS-260329-4FB2` Hormozi 20x'd his podcast reviews simply by asking listeners to share — the barrier to referrals is prompting, not willingness.
 - `INS-260327-6E33` Find 10 perfect people. If it doesn't work for them, make something better. If it does work, perhaps they'll tell the others.
 - `INS-260327-C9A3` People share products not because you asked them to, but because recommending remarkable things makes THEM look good.
-- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260329-A6DB` Referrals close easily because the referrer has already solved the trust problem, not because the prospect is more qualified.
+- `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260328-372B` Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.

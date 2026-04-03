@@ -48,11 +48,11 @@ stance: >-
   returns than index fund investing for people under 30
 related:
   - INS-260329-FC6D
-  - INS-260329-9F81
   - INS-260329-1D8D
-  - INS-260329-7AAB
   - INS-260329-E76F
+  - PRI-260403-C229
   - INS-260329-5414
+  - INS-260329-9F81
   - INS-260330-B5D6
   - INS-260330-EBFD
   - INS-260402-72EF

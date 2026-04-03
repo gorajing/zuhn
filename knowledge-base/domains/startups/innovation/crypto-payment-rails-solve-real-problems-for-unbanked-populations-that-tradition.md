@@ -59,9 +59,9 @@ stance: >-
 related:
   - INS-260327-7681
   - INS-260330-EFB8
+  - PRI-260403-C337
   - INS-260321-AA91
   - INS-260322-88FC
-  - INS-260327-D52B
 ---
 New Story's Bitcoin-based mortgage program in El Salvador demonstrates a non-speculative crypto use case: families making digital mortgage payments via Lightning Network from their phones, with transparent blockchain-recorded payment history that builds creditworthiness. The traditional alternative is physically walking to make cash payments, tracked manually over 10+ years with no transparency and extremely high interest rates to cover servicing costs.
 

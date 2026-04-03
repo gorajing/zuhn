@@ -47,6 +47,7 @@ stance: >-
   requirements for competitive HFT, not optional optimizations.
 related:
   - INS-260329-90F4
+  - PRI-260403-2024
   - INS-260329-AA2C
   - INS-260329-CD02
   - INS-260329-3243

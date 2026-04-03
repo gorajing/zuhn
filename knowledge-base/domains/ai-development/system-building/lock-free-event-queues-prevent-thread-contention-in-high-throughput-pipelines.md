@@ -47,10 +47,10 @@ stance: >-
   guarantees.
 related:
   - INS-260329-71DE
+  - PRI-260403-2024
   - INS-260330-3EFC
   - INS-260329-CD02
   - INS-260329-3243
-  - INS-260330-A260
 evidence:
   - id: INS-260329-71DE
     type: TRANSFERS_TO

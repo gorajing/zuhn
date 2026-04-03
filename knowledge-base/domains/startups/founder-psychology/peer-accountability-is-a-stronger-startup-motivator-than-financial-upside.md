@@ -46,7 +46,6 @@ stance: >-
 related:
   - INS-260327-FF64
   - INS-260328-68BA
-  - INS-260329-C45C
   - INS-260329-0B9D
   - INS-260329-5B3D
   - INS-260329-7C84
@@ -54,6 +53,7 @@ related:
   - INS-260330-870B
   - INS-260403-830F
   - INS-260403-BDE0
+  - INS-260402-E60E
 evidence:
   - id: INS-260327-FF64
     type: EXTENDS

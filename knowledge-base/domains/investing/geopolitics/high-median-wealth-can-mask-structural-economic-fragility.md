@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260327-A4D1
   - INS-260329-7372
+  - PRI-260403-C229
   - INS-260330-3E6F
   - PRI-260328-26AA
   - INS-260330-09DE
-  - INS-260330-4746
 evidence:
   - id: INS-260330-3E6F
     type: TRANSFERS_TO

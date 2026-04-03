@@ -47,10 +47,10 @@ stance: >-
   degradation directly cost money.
 related:
   - INS-260329-33AA
+  - PRI-260403-2024
   - INS-260330-D483
   - INS-260327-EBDF
   - INS-260330-C06E
-  - INS-260322-191F
 evidence:
   - id: INS-260329-33AA
     type: SUPPORTS

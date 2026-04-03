@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260322-88FC
   - INS-260330-EFB8
+  - PRI-260403-C337
   - INS-260330-7D6D
   - INS-260330-7ED0
-  - INS-260321-52EF
 evidence:
   - id: INS-260321-52EF
     type: TRANSFERS_TO

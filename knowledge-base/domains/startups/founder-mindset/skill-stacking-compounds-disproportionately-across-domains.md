@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260329-21C0
   - INS-260402-C4FF
+  - PRI-260403-C229
   - INS-260329-55DC
   - INS-260330-0346
-  - INS-260323-BF81
   - INS-260329-7192
 evidence:
   - id: INS-260329-55DC

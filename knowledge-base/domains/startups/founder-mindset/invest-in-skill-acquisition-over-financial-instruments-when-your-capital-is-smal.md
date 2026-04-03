@@ -51,16 +51,16 @@ stance: >-
   increases your earning power by 50% dramatically outperforms any financial
   market return on that same $1,000.
 related:
-  - INS-260328-33E8
   - INS-260329-D4BC
+  - PRI-260403-C229
   - INS-260329-E76F
   - INS-260329-EFA8
   - INS-260329-5414
   - INS-260329-1D8D
-  - INS-260329-55DC
   - INS-260329-7FD6
   - INS-260329-C3DF
   - INS-260329-7AAB
+  - INS-260329-55DC
 evidence:
   - id: INS-260329-A6EA
     type: SUPPORTS
