@@ -47,7 +47,6 @@ stance: >-
   The act of writing is constitutive of rigorous thought, not merely a record of
   it; thinking without writing is self-deception about cognitive clarity.
 related:
-  - INS-260323-043E
   - INS-260325-DF66
   - INS-260327-454C
   - INS-260327-23F8

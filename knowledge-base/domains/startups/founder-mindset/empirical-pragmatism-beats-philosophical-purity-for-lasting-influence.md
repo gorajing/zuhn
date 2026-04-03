@@ -52,8 +52,8 @@ related:
   - INS-260323-89C2
   - INS-260330-9575
   - INS-260327-6058
+  - INS-260403-0479
   - INS-260327-768D
-  - INS-260327-5E93
   - INS-260327-E052
 stance: >-
   Friedman's willingness to compromise and say 'I was wrong' gave him lasting

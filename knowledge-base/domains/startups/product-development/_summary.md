@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 129 insights
+> 132 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -30,14 +30,17 @@
 - `INS-260329-B1A1` [high] Audiences eagerly consume hours of complex content when production quality and intellectual respect are high
 - `INS-260327-C99D` [high] Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
 - `INS-260323-EBC3` [high] Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to ophthalmology patients -- then revenue tripled annually.
+- `INS-260403-2A44` [high] Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260327-289F` [high] Gamma's competitive moat is design taste encoded into building blocks: AI generates 10 layout options and picks the best, but the building blocks themselves were crafted by a team that was one-third designers.
 - `INS-260403-D2B1` [high] Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform.
 - `INS-260403-A5B8` [high] The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users.
+- `INS-260403-C3DF` [high] Looking down on your users, however benevolently, inevitably corrupts the design.
 - `INS-260330-AB3E` [high] Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
 - `INS-260402-0F36` [high] The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
 - `INS-260402-7B69` [high] In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
 - `INS-260330-1282` [high] Users judge products by experience quality, never by whether you used React or Vue, MySQL or MongoDB.
 - `INS-260327-C569` [high] Enterprises are on the hook for outcomes — AI will evolve as composite systems with checks and balances, not the AGI monolith that media hypes.
+- `INS-260403-9C60` [high] The quality of a tool is measured by the journey it enables, not the destination it displays.
 - `INS-260402-A94F` [high] Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260329-693E` [high] Use Expo for iOS development — it handles App Store Connect, bundle IDs, builds, and TestFlight submission with two commands.
 - `INS-260323-8AA1` [high] Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.

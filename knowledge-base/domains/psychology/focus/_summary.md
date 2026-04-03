@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 158 insights
+> 159 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -121,6 +121,7 @@
 - `INS-260325-29D5` [high] For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` [high] Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
 - `INS-260325-C8D5` [high] For any feared activity, keep lowering the scale until you find a version you're willing to do right now — that minimum viable increment bypasses resistance entirely.
+- `INS-260403-FFF0` [high] Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
 - `INS-260329-5C65` [medium] Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content.
 - `INS-260325-C830` [medium] Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260325-B6AD` [medium] Turn toward avoided tasks by acknowledging them psychologically, and action will follow naturally.

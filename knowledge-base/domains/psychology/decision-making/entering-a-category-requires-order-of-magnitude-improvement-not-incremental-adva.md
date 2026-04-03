@@ -51,7 +51,6 @@ stance: >-
   readiness, and internal capabilities align to deliver a 1-2 order of magnitude
   improvement over the status quo
 related:
-  - INS-260323-4AB5
   - INS-260322-750A
   - INS-260327-FFA7
   - INS-260327-3A71

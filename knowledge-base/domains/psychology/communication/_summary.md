@@ -1,8 +1,9 @@
 # Topic: communication
 
-> 15 insights
+> 16 insights
 
 - `INS-260330-365B` [high] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
+- `INS-260403-0479` [high] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-3570` [high] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-7E66` [high] Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - `INS-260402-9E2D` [high] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.

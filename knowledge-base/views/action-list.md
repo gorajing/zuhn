@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3075 actionable insights
+Generated on 2026-04-03 | 3088 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1010,6 +1010,7 @@ Generated on 2026-04-03 | 3075 actionable insights
 - [INS-260330-365B] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 - [INS-260402-9E2D] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - [INS-260403-1A96] The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
+- [INS-260403-0479] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1072,6 +1073,8 @@ Generated on 2026-04-03 | 3075 actionable insights
 - [INS-260403-A06E] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
 - [INS-260403-D022] Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - [INS-260403-B6FD] False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
+- [INS-260403-0C33] If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
+- [INS-260403-7093] Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1205,6 +1208,7 @@ Generated on 2026-04-03 | 3075 actionable insights
 - [INS-260330-9E25] Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - [INS-260330-0C31] Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
 - [INS-260330-0149] Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
+- [INS-260403-FFF0] Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -1496,6 +1500,7 @@ Generated on 2026-04-03 | 3075 actionable insights
 - [INS-260330-4605] The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
 - [INS-260402-476E] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - [INS-260403-B12E] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
+- [INS-260403-0F95] Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1750,6 +1755,7 @@ Generated on 2026-04-03 | 3075 actionable insights
 - [INS-260330-D511] Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
 - [INS-260330-76DA] Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - [INS-260403-280B] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
+- [INS-260403-EF30] Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2371,6 +2377,9 @@ Generated on 2026-04-03 | 3075 actionable insights
 - [INS-260403-1BD8] Investors who wait for others to commit first will be pushed to last place in line, missing hot deals entirely.
 - [INS-260403-4423] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - [INS-260403-78B7] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
+- [INS-260403-C625] Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
+- [INS-260403-86DB] Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
+- [INS-260403-D7DF] Replace market size arguments with specific user stories that demonstrate proxy for demand.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2722,6 +2731,7 @@ Generated on 2026-04-03 | 3075 actionable insights
 - [INS-260403-E1AD] Leaders must delay their own questions and create space for others to question first to avoid turning inquiry into implicit commands.
 - [INS-260403-2CA3] Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.
 - [INS-260403-6731] CEO time allocation to innovation is the single strongest predictor of whether innovation programs produce results.
+- [INS-260403-8280] A design that represents one person's coherent vision will be coherent for the user; committee designs fragment into incoherence.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -2844,6 +2854,9 @@ Generated on 2026-04-03 | 3075 actionable insights
 - [INS-260402-C883] Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
 - [INS-260403-A5B8] The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users.
 - [INS-260403-EE38] Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
+- [INS-260403-2A44] Good design requires diagnosing user needs rather than implementing stated requests.
+- [INS-260403-C3DF] Looking down on your users, however benevolently, inevitably corrupts the design.
+- [INS-260403-9C60] The quality of a tool is measured by the journey it enables, not the destination it displays.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.

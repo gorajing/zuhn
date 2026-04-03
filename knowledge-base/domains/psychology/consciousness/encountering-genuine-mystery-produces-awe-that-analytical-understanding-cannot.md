@@ -43,7 +43,6 @@ stance: >-
   consciousness is, why these physical laws) produce a genuine sense of awe and
   wonder that complete understanding would eliminate.
 related:
-  - INS-260325-CE25
   - INS-260325-A006
   - PRI-260325-1640
   - INS-260330-0AE2

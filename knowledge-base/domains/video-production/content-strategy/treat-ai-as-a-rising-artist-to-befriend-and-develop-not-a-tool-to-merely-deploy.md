@@ -56,6 +56,7 @@ related:
   - INS-260323-1930
   - INS-260330-1F41
   - INS-260330-548E
+  - INS-260403-7093
 stance: 'Approaching AI as a new artist to discover, befriend, and develop'
 evidence:
   - id: INS-260321-3312

@@ -52,10 +52,10 @@ stance: >-
   genuinely interest you.
 related:
   - INS-260402-8223
+  - INS-260403-FFF0
   - INS-260402-5522
   - INS-260403-2949
   - INS-260402-1414
-  - INS-260327-4EDE
 evidence:
   - id: INS-260402-1414
     type: SUPPORTS

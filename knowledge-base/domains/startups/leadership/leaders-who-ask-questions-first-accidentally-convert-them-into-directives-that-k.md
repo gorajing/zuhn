@@ -49,10 +49,10 @@ stance: >-
   diversity of thought the leader was trying to unlock.
 related:
   - INS-260329-4D5E
+  - INS-260403-FFF0
   - INS-260327-7F56
   - PRI-260327-3BD9
   - INS-260327-294E
-  - INS-260326-C692
 evidence:
   - id: INS-260327-7F56
     type: TRANSFERS_TO

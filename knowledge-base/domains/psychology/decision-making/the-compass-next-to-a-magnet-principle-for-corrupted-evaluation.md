@@ -51,10 +51,10 @@ stance: >-
   attempting to judge quality, not aggregate more opinions.
 related:
   - INS-260403-A5FF
+  - INS-260403-9C60
   - INS-260403-8391
   - INS-260402-E994
   - INS-260330-D006
-  - INS-260402-2632
 evidence:
   - id: INS-260402-E994
     type: CHALLENGES

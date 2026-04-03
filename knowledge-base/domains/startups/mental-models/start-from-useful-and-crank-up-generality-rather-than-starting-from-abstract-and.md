@@ -50,10 +50,10 @@ stance: >-
   with the most abstract questions and work down.
 related:
   - INS-260329-A024
+  - INS-260403-FFF0
   - PRI-260403-F981
   - INS-260330-AE9C
   - INS-260327-48A5
-  - INS-260330-8890
 evidence:
   - id: INS-260327-48A5
     type: SUPPORTS

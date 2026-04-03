@@ -49,11 +49,11 @@ stance: >-
   justifications allowed — produces deeper problem reframing than traditional
   brainstorming because it disrupts the brain's habitual rush to solution mode.
 related:
+  - INS-260403-FFF0
   - INS-260403-2949
   - PRI-260327-3BD9
   - INS-260329-EAFD
   - INS-260329-0F39
-  - INS-260403-699B
 evidence:
   - id: INS-260329-EAFD
     type: SUPPORTS

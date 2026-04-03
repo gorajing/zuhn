@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 154 insights
+> 156 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -17,6 +17,7 @@
 - `INS-260327-6F11` [high] The two things that give a CEO the biggest leverage are having the right product vision and communicating that vision to the team.
 - `INS-260327-24D2` [high] Parker Conrad argues CEOs must develop firsthand understanding of every area rather than delegating to domain experts and trusting them to figure it out.
 - `INS-260403-6731` [high] CEO time allocation to innovation is the single strongest predictor of whether innovation programs produce results.
+- `INS-260403-8E4D` [high] Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
 - `INS-260323-F15D` [high] When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
 - `INS-260325-B50B` [high] CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260330-956E` [high] A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
@@ -48,6 +49,7 @@
 - `INS-260330-8998` [high] Tom Monaghan's public anti-abortion activism through the 'Domino's Foundation' triggered a nationwide boycott that ultimately forced him to sell the company to protect franchisees and employees from his personal political positions.
 - `INS-260327-5F94` [high] The acute crisis gets adrenaline and support; the real challenge is the psychological rebuilding on day 60 that nobody talks about.
 - `INS-260327-A3E9` [high] Do the job yourself first to understand what 'good' looks like before you hire a leader for that function.
+- `INS-260403-8280` [high] A design that represents one person's coherent vision will be coherent for the user; committee designs fragment into incoherence.
 - `INS-260323-BC20` [high] The true measure of a leader is the quality of decisions they make on ordinary days, not how they perform in dramatic crises.
 - `INS-260323-4DF1` [high] Feeling uncomfortable in a role signals growth opportunity, not inadequacy — systematically seek discomfort rather than avoiding it.
 - `INS-260330-EF51` [high] The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
