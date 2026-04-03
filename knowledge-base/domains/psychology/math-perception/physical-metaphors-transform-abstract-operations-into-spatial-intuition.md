@@ -58,6 +58,10 @@ related:
   - INS-260330-3504
   - INS-260330-D511
   - INS-260330-4E95
+evidence:
+  - id: INS-260330-D511
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The standard Fourier Transform formula — an integral of a function multiplied by a complex exponential — looks impenetrable in symbolic form. But 3Blue1Brown maps each component to a physical operation: the exponential becomes rotation around a circle, the function scales the rotating vector's length, and the integral computes the center of mass. Suddenly the formula isn't a black box; it's a machine you can watch operate.
 

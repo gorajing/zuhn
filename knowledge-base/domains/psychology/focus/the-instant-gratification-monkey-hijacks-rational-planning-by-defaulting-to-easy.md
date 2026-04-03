@@ -58,6 +58,12 @@ evidence:
   - id: INS-260327-47E9
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-CF3E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-14CA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Tim Urban frames the procrastinator's brain as containing two agents: a Rational Decision-Maker who can visualize the future and make long-term plans, and an Instant Gratification Monkey who only cares about what's easy and fun right now. The Monkey seizes control during key decision moments, dragging the person into Wikipedia spirals and YouTube binges instead of productive work.
 

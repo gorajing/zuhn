@@ -51,5 +51,14 @@ evidence:
   - id: INS-260322-A208
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260322-F128
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-DB8F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-DB4B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Productivity culture focuses on execution: how to achieve goals faster. This assumes the goals are correct. But choosing the wrong goals and executing them perfectly is far worse than choosing the right goals imperfectly. The most important exercise isn't goal-setting but goal-auditing: regularly asking if this goal is genuinely mine.

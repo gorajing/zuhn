@@ -59,6 +59,12 @@ evidence:
   - id: INS-260330-B3D5
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-C02D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-F5CF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 RuBisCo is the enzyme that fixes carbon in photosynthesis, and it evolved when atmospheric CO2 was abundant and O2 was scarce. When plants themselves changed the atmosphere by producing oxygen, RuBisCo started confusing O2 for CO2 roughly half the time, creating a toxic byproduct (phosphoglycolate) that plants must spend additional energy breaking down.
 

@@ -84,6 +84,9 @@ evidence:
   - id: INS-260330-8C80
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-9935
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 On a linear scale, exponential growth appears as a hockey stick where early stages look flat and late stages look vertical — both phases are equally uninformative for decision-making. A logarithmic scale fixes this by converting the exponential into a straight line whose slope equals the growth rate.
 

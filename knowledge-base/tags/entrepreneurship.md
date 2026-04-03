@@ -28,5 +28,5 @@
 - `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems.
 - `INS-260402-4633` The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
-- `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260329-3036` Hormozi claims every wealthy person he knows started with years of high-volume sales conversations with strangers — it's the universal entrepreneurial apprenticeship.
+- `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.

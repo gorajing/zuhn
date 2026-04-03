@@ -74,5 +74,11 @@ evidence:
   - id: INS-260329-F362
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-939E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-2F63
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 CS50's decision to begin with Scratch — a visual, block-based programming language — before transitioning to C is a deliberate pedagogical technique that separates two distinct learning challenges: understanding programming concepts (loops, conditionals, variables) and learning language syntax. By letting students build working programs with drag-and-drop blocks first, they experience the satisfaction of creation and internalize computational concepts before encountering the frustration of semicolons, pointers, and compilation errors. This scaffolding principle applies far beyond programming education. In any domain with both conceptual and syntactic complexity — music theory, mathematics, legal reasoning — separating concept acquisition from notation mastery reduces cognitive load and prevents the common failure mode where students abandon the conceptual learning because they're overwhelmed by the representational layer.

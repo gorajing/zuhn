@@ -65,5 +65,8 @@ evidence:
   - id: INS-260325-A1BC
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-57A4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Krispy Kreme's production lines could make 780-12,000 donuts per hour but stores couldn't sell that fast. They aggressively expanded wholesale channels (supermarkets, gas stations, airports) to fill capacity. Revenue surged then regressed as novelty wore off from ubiquity. Retailers received stale leftover inventory. Franchisees made less as saturation and cannibalization increased. Private equity acquired in 2016 and implemented hub-and-spoke: one factory produces all donuts, smaller stores became fulfillment centers without kitchens. The fix: be strategic with hub placement, build everything around it, maintain quality through centralized production. The lesson: production capacity is not demand — don't let supply-side economics drive distribution strategy.

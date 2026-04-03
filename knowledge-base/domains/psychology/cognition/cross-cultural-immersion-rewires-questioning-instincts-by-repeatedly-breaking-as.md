@@ -56,6 +56,13 @@ related:
   - INS-260321-D959
   - PRI-260324-2C9F
   - INS-260323-584D
+evidence:
+  - id: INS-260321-D959
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-584D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Gregersen's 30-year research journey began with a personal observation: living and working in Finland, England, France, the UAE, and the US taught him that assuming knowledge in unfamiliar contexts leads to grave misunderstandings. Each cultural context broke his existing mental models, forcing him into a questioning posture.
 

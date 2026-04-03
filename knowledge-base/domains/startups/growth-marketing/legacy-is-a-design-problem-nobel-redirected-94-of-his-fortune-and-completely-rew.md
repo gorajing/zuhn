@@ -59,6 +59,9 @@ evidence:
   - id: INS-260323-D479
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-7F6A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When Nobel read his premature obituary calling him 'the Merchant of Death,' he saw exactly how the world would remember him. His response was decisive: he redirected 94% of his fortune (equivalent to $340M today) to create prizes for those who 'conferred the greatest benefit on mankind.' The result was total legacy transformation.
 

@@ -62,6 +62,12 @@ evidence:
   - id: INS-260330-AB58
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-E2F5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-BA97
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Emperor Justinian's single greatest achievement wasn't military conquest — it was compressing 1,528 Latin law books into the Digest (533 CE), accompanied by the Institutes as a teaching curriculum. This codification allowed Roman legal principles to survive the fall of both halves of the empire and become the foundation of European civil law that persists today.
 

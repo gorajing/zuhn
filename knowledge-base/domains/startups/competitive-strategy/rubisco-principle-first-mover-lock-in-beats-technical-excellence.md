@@ -66,6 +66,12 @@ evidence:
   - id: INS-260330-4315
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-C02D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-A54F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 RuBisCo, the most abundant protein on Earth (~40 billion tons), is objectively bad at its core job — it confuses oxygen for carbon dioxide roughly half the time, producing a toxic byproduct plants must waste energy to neutralize. Yet no plant has evolved a replacement in 450 million years because the entire metabolic architecture depends on it.
 

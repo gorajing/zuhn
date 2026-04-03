@@ -45,6 +45,10 @@ related:
   - INS-260327-F405
   - INS-260329-CD64
   - INS-260327-FEB7
+evidence:
+  - id: INS-260327-E039
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, creating a market where brand loyalty has zero correlation with product quality.
 

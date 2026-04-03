@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-4B29
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-8D7C
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 When you evaporate liquid from a gel, surface tension at the liquid-gas interface pulls the solid structure inward, destroying it. Samuel Kistler's 1931 breakthrough wasn't to find a gentler way to evaporate — it was to eliminate the liquid-gas boundary entirely by pushing the fluid past its critical point, where the distinction between liquid and gas ceases to exist. No interface means no surface tension means no structural collapse.
 

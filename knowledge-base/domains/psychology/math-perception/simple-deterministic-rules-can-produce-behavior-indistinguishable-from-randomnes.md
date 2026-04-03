@@ -52,5 +52,12 @@ related:
   - INS-260329-9391
   - INS-260402-318B
   - INS-260323-B849
+evidence:
+  - id: INS-260402-318B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-B849
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The Collatz conjecture uses only two rules (multiply by 3 and add 1 if odd, divide by 2 if even), yet the resulting sequences are statistically indistinguishable from random walks. When plotted on a logarithmic scale, hailstone sequences exhibit geometric Brownian motion — the exact same mathematical structure underlying stock market price movements. This is a profound demonstration of emergence: knowing the complete rules of a system provides zero predictive power over its behavior. The number 26 reaches a maximum of 40 in 10 steps, while 27 (just one integer away) climbs to 9,232 over 111 steps. This sensitivity to initial conditions appears across domains — small differences in startup execution, market timing, or biological systems can produce wildly divergent outcomes despite identical underlying mechanics.

@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 219 insights
+> 220 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -184,6 +184,7 @@
 - `INS-260330-BBDA` [medium] Modern conservative parties mirror Bolshevism's structure: declaring all institutions rotten and demanding total destruction rather than incremental reform.
 - `INS-260330-1B5E` [medium] America is the only country whose citizens generate conspiracy theories about their own greatest achievements, like the moon landing — even Soviet citizens under total propaganda didn't doubt Gagarin.
 - `INS-260330-2911` [medium] The brain's evolved pattern-detection system generates conspiracy theories when applied to politics because assuming stupidity feels unsatisfying compared to finding hidden plans.
+- `INS-260403-FE91` [medium] A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260327-764F` [medium] Nietzsche's most controversial insight: conventional morality may protect the weak but it also constrains the strong, functioning as a cage disguised as virtue.
 - `INS-260330-15AE` [medium] Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260329-A231` [medium] The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.

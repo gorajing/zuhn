@@ -53,6 +53,10 @@ related:
   - INS-260330-41F6
   - INS-260330-3AB4
   - INS-260330-9231
+evidence:
+  - id: INS-260330-E786
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Photosynthesis evolved to produce glucose for energy storage. Oxygen was literally waste — a toxic byproduct of splitting water molecules to harvest electrons. Yet this 'waste' product oxygenated Earth's atmosphere and enabled the evolution of all aerobic life, making it arguably the most consequential chemical output in biological history.
 

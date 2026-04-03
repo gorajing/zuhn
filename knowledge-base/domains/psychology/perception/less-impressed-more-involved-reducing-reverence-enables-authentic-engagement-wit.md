@@ -56,6 +56,13 @@ related:
 stance: >-
   After his father's death, McConaughey discovered that excessive reverence for
   dreams and people kept him from fully engaging
+evidence:
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-FA30
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 McConaughey describes a pivotal shift after losing his father: the world became 'flat.' Things he had placed on pedestals — fame, success, important people — came down to eye level. Simultaneously, things he had been condescending toward rose up to eye level. Everything became approachable.
 

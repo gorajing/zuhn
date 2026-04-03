@@ -54,5 +54,14 @@ evidence:
   - id: INS-260329-F443
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-3FED
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-F9CD
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-49E6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi quantifies ignorance not as a one-time missed opportunity but as a recurring cost. If you don't know how to run ads and that knowledge would generate $50K/month, you're not losing $50K once — you're losing $50K every single month you remain ignorant. Over a year that's $600K, over five years it's $3M. This reframes learning and skill acquisition from a 'nice to have' into an urgent financial imperative. The compounding nature means that the earlier you close knowledge gaps, the greater the lifetime value of that learning. It also explains why proximity to high-performers is so valuable — each belief or skill gap they help you close stops a compounding bleed.

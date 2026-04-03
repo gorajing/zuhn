@@ -66,6 +66,31 @@ related:
   - INS-260330-0E77
   - INS-260330-1650
   - INS-260330-DF69
+evidence:
+  - id: INS-260330-B71B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-D4CC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-50B3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-F222
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2CFA
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-0E77
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-1650
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-DF69
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 RuBisCo was designed for a low-oxygen world. Photosynthesis itself flooded the atmosphere with oxygen, creating the very conditions that make RuBisCo malfunction via photorespiration — grabbing O2 instead of CO2 roughly half the time, producing toxic phosphoglycolate. Rather than evolving a better enzyme, plants evolved detoxification pathways (converting phosphoglycolate to glycine and usable Calvin cycle compounds), C4 photosynthesis (physically separating RuBisCo from oxygen), and CAM photosynthesis (temporal separation).
 

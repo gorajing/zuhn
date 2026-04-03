@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 278 insights
+> 279 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -11,6 +11,7 @@
 - `INS-260330-4314` [high] Maintain an explicit investment thesis and use confidence direction — not absolute level — to decide persistence vs. pivot.
 - `INS-260330-049B` [high] Louis Vuitton spent 17 years as an apprentice boxmaker serving wealthy travelers before launching his own brand, giving him deep customer intuition.
 - `INS-260329-F07A` [high] When you have nothing to lose, the rational move is maximum risk-taking because any upside is pure gain.
+- `INS-260403-E6A7` [high] Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260321-C513` [high] Avoid building features that incumbents can bundle (like meeting notetakers for Zoom), and avoid pure prompt wrappers that next model releases will obsolete.
 - `INS-260322-7276` [high] Founders assume if the winner makes $500M and they make $50M, they're worth one-tenth — but the actual pattern is the seventh player trends toward zero revenue, not a stable fraction.
 - `INS-260328-23B4` [high] Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.

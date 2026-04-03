@@ -49,5 +49,9 @@ related:
   - PRI-260324-F9CD
   - PRI-260323-DA09
   - INS-260323-DEEA
+evidence:
+  - id: INS-260327-3049
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Cognitive scripts are internalized behavioral patterns first identified in a seminal 1979 study. They work brilliantly for routine tasks — you know how to behave at a doctor's office without thinking. The danger is that these same scripts silently take over major decisions: career choices, relationship patterns, life goals. You follow the script instead of asking 'is this what I actually want?' The key signal that a script is operating is the word 'should' — whenever you hear yourself saying 'I should do X,' there is likely a cognitive script running rather than genuine deliberation. Replacing 'should' with 'might' creates the space for authentic choice.

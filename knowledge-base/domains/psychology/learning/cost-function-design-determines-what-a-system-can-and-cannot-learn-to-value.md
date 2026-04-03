@@ -68,6 +68,12 @@ evidence:
   - id: INS-260330-2154
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260322-1A20
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-61CD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When fed random noise images, the trained MNIST network confidently outputs a digit classification rather than expressing uncertainty. As 3Blue1Brown explains: 'its cost function never gave it any incentive to be anything but utterly confident in its decisions.' The network's entire universe was cleanly labeled digits, so it never learned that some inputs should produce low-confidence outputs.
 

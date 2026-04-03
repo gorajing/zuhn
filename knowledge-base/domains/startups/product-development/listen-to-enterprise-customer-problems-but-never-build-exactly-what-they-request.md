@@ -69,5 +69,8 @@ evidence:
   - id: INS-260402-5522
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-A817
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Levie draws a critical distinction in enterprise product development: customers will generate a large volume of requests, and your job is to distill those into the ultimate product. This does not mean building what they literally ask for. Customers are experts at identifying their problems but not at designing software solutions. The founder must translate pain points into what will build the best and simplest solution. Palantir exemplifies this — they work with extremely complex intelligence and data problems, then distill those into simple solutions the customer would never have known how to request. The complementary principle is to modularize rather than customize: build a platform with open APIs that enable vertical or custom experiences, rather than baking custom features directly into the product. This keeps the core product clean and simple while still serving diverse enterprise needs. Salesforce's platform approach is the canonical example of this modularization strategy.

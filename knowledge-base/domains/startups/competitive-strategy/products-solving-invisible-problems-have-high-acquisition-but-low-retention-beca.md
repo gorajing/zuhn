@@ -47,6 +47,10 @@ related:
   - INS-260330-0BBA
   - INS-260329-8BD3
   - INS-260330-550F
+evidence:
+  - id: INS-260330-550F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is working, leading to subscription cancellation and buyer doubt.
 

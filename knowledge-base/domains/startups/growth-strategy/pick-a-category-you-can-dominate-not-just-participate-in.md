@@ -69,6 +69,12 @@ evidence:
   - id: INS-260322-BEA3
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260402-B065
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-E833
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Physicians Choice initially launched with probiotics, turmeric, ashwagandha, collagen, and other products — the typical 'throw things at the wall' approach. They were competing against specialists in every category while spreading themselves thin. The turning point was asking 'where can we actually dominate?' and consolidating all resources into probiotics.
 

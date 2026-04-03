@@ -68,6 +68,9 @@ evidence:
   - id: INS-260323-7D2E
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-3473
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Borrowed from Riend Doris's focus protocol, wall staring sounds absurd but Lucas found it genuinely effective. The process: set a timer, stare at a wall, do nothing. On day one it felt gimmicky. By day three, 20 minutes of wall staring reliably produced hours of locked-in flow state. He described a progression — initial throbbing/discomfort, then deep relaxation, then a half-conscious state where thoughts dull to almost-dreams.
 

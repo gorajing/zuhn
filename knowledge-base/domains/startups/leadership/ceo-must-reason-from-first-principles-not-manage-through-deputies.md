@@ -65,5 +65,14 @@ evidence:
   - id: INS-260329-1DA3
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-0F71
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-1718
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-B68F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Conrad formalized this into Rippling's leadership principle called 'go and see.' When tax operations were failing — an existential threat to a payroll company — the only thing that worked was Conrad, his COO, and the team lead clearing their calendars for a week to literally work as tax ops agents, picking from the queue and reverse-engineering what was broken. The diagnosis was impossible without sitting in the seat. This extends to his practice of being Rippling's only full admin: he runs payroll for the entire company across dozens of countries, approves every expense reimbursement over $10, and uses the product exactly as a diligent controller would. He knows the CEOs of ADP have never run payroll in their lives — and that ground-level understanding is a competitive advantage that compounds over time.

@@ -53,11 +53,16 @@ related:
   - INS-260325-B868
   - INS-260329-D48B
   - INS-260329-DAD1
-  - INS-260330-DF31
 evidence:
   - id: INS-260323-D18D
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-D48B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-DAD1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Cheung was a college dropout sitting in a psychology lecture when he realized he couldn't learn in traditional settings. So he self-taught by building websites, creating graphics, and posting on Twitter. When ChatGPT launched, his first thread went viral because he'd already built the muscle of learning-by-doing.
 

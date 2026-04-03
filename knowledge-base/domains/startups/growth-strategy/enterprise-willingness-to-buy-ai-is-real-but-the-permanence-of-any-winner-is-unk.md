@@ -53,5 +53,9 @@ related:
   - INS-260323-3239
   - INS-260328-ACC3
   - INS-260330-809A
+evidence:
+  - id: INS-260327-BDD5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 On one hand, the growth is real: OpenAI is number one in the app store, B2B AI tool revenue is genuine, and big companies are willing to buy in ways that used to be extremely hard to unlock. On the other hand, Dalton explicitly states he cannot predict what will be sticky — even Cursor vs Claude Code is an open question. He draws the parallel to early YC where Stripe and Teespring looked equally promising. The lesson from web and mobile: we have never known how to extract maximum value from new tools at the moment they appear. This means founders should stay in the game rather than assuming winners are declared.

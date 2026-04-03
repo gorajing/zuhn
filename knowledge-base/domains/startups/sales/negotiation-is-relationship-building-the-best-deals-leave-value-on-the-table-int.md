@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-8FEC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-9DC9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi reframes negotiation from a zero-sum extraction game to a relationship-building exercise. The conventional wisdom of 'getting the best deal' optimizes for a single transaction, but business is a repeated game where the same counterparts show up again and again.
 

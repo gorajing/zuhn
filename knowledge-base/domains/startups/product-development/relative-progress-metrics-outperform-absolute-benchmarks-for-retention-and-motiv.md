@@ -57,6 +57,16 @@ related:
   - INS-260327-E833
   - INS-260330-6F2F
   - INS-260330-D6ED
+evidence:
+  - id: INS-260329-C5C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-6F2F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-438D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 David Malan explicitly tells CS50 students that their performance should be measured by personal delta, not by comparison to classmates. This is particularly powerful in a course where two-thirds of students have never programmed before — without this reframing, beginners would constantly feel behind the minority who arrived with prior experience.
 

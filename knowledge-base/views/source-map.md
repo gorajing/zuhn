@@ -143,8 +143,8 @@ Generated on 2026-04-03 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -196,10 +196,10 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
@@ -235,8 +235,8 @@ Generated on 2026-04-03 | 2421 sources
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
 | 2023 Annual Letter | blog | 5 | 2026-03-30 |
 | 2024 Annual Letter | blog | 5 | 2026-03-30 |
@@ -258,6 +258,7 @@ Generated on 2026-04-03 | 2421 sources
 | Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
+| Billionaires Build | blog | 5 | 2026-03-31 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
@@ -266,6 +267,7 @@ Generated on 2026-04-03 | 2421 sources
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
+| Hidden VC Fund Secrets Every Founder Should Know | blog | 5 | 2026-03-30 |
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
 | How Art Can Be Good | blog | 5 | 2026-03-31 |
 | How Elad Gil Built a One-Person Multi-Billion Venture Machine | blog | 5 | 2026-03-30 |
@@ -282,9 +284,11 @@ Generated on 2026-04-03 | 2421 sources
 | How to Make Wealth | blog | 5 | 2026-03-31 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
+| How to Think for Yourself | blog | 5 | 2026-03-31 |
 | Ideas for Startups | blog | 5 | 2026-03-31 |
 | If AI is a weapon, why don't we regulate it like one? | blog | 5 | 2026-03-30 |
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
+| Last Rights | blog | 5 | 2026-03-30 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
@@ -296,6 +300,7 @@ Generated on 2026-04-03 | 2421 sources
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
 | Roundup #78: Roboliberalism | blog | 5 | 2026-03-30 |
 | Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
+| Save us, Digital Cronkite! | blog | 5 | 2026-03-30 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
@@ -305,6 +310,9 @@ Generated on 2026-04-03 | 2421 sources
 | The Best Essay | blog | 5 | 2026-03-31 |
 | The Brand Age | blog | 5 | 2026-03-31 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
+| The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
+| The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
+| The Go-To Pricing Guide for Early-Stage Founders + Toolkit | blog | 5 | 2026-03-30 |
 | The Growth Loop Playbook Used by Top Startups | blog | 5 | 2026-03-30 |
 | The Hacker's Guide to Investors | blog | 5 | 2026-03-31 |
 | The Hardest Lessons for Startups to Learn | blog | 5 | 2026-03-31 |
@@ -335,6 +343,7 @@ Generated on 2026-04-03 | 2421 sources
 | Why Retention Breaks Startups and How to Fix It | blog | 5 | 2026-03-30 |
 | Why Startups Condense in America | blog | 5 | 2026-03-31 |
 | Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
+| Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 5 | 2026-03-30 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
 | 100+ Computer Science Concepts Explained | youtube | 5 | 2026-03-30 |
@@ -1674,7 +1683,6 @@ Generated on 2026-04-03 | 2421 sources
 | Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
 | Beyond Smart | blog | 0 | 2026-03-31 |
 | Bill Gates's €1bn Climate fund🔋, Paths to Product-Market Fit🎯, State of AI investing📊 | blog | 0 | 2026-03-30 |
-| Billionaires Build | blog | 0 | 2026-03-31 |
 | Bio | blog | 0 | 2026-03-31 |
 | Biz4Kids - a business model for kids | blog | 0 | 2026-03-31 |
 | Biz4Kids - Join Our Business Comic For Kids | blog | 0 | 2026-03-31 |
@@ -1874,7 +1882,6 @@ Generated on 2026-04-03 | 2421 sources
 | Hidden Open Thread 424.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 425.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
-| Hidden VC Fund Secrets Every Founder Should Know | blog | 0 | 2026-03-30 |
 | High Resolution Fundraising | blog | 0 | 2026-03-31 |
 | Higher Rates Will Lead to the Next Generation of Great Tech Startups | blog | 0 | 2026-03-30 |
 | Holding a Program in One's Head | blog | 0 | 2026-03-31 |
@@ -1913,7 +1920,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Start Google | blog | 0 | 2026-03-31 |
-| How to Think for Yourself | blog | 0 | 2026-03-31 |
 | How to Trick Investors & VCs 🤫💰 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 0 | 2026-03-30 |
@@ -1951,7 +1957,6 @@ Generated on 2026-04-03 | 2421 sources
 | Jessica Livingston | blog | 0 | 2026-03-31 |
 | Keep Your Identity Small | blog | 0 | 2026-03-31 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 0 | 2026-03-30 |
-| Last Rights | blog | 0 | 2026-03-30 |
 | Learn With Me | blog | 0 | 2026-03-30 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Learning from Founders | blog | 0 | 2026-03-31 |
@@ -2057,7 +2062,6 @@ Generated on 2026-04-03 | 2421 sources
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 0 | 2026-03-30 |
 | San Francisco's urban revival is in danger | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
-| Save us, Digital Cronkite! | blog | 0 | 2026-03-30 |
 | Schlep Blindness | blog | 0 | 2026-03-31 |
 | See New Marketplaces Where Others See Crowds: The Inside Story of A.Team | blog | 0 | 2026-03-31 |
 | See Randomness | blog | 0 | 2026-03-31 |
@@ -2154,11 +2158,9 @@ Generated on 2026-04-03 | 2421 sources
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 0 | 2026-03-30 |
 | The Equity Equation | blog | 0 | 2026-03-31 |
-| The Evolution of Growth Hacking in 2025 | blog | 0 | 2026-03-30 |
 | The Fall of the Nerds | blog | 0 | 2026-03-30 |
 | The Fatal Pinch | blog | 0 | 2026-03-31 |
 | The First On-Chain Yield Engine Bringing Institutional Yield Opportunities to Everyday Investors | blog | 0 | 2026-03-30 |
-| The Founder Operating System: Best Startup Resources 2026 | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Founders Fund Story🔥, YC Investing Patterns📊, AI in the Enterprise🔍 | blog | 0 | 2026-03-30 |
 | The Four Quadrants of Conformism | blog | 0 | 2026-03-31 |
@@ -2169,7 +2171,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Future of Web Startups | blog | 0 | 2026-03-31 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 0 | 2026-03-30 |
-| The Go-To Pricing Guide for Early-Stage Founders + Toolkit | blog | 0 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 0 | 2026-03-30 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
 | The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of "Quiet") | blog | 0 | 2026-03-31 |
@@ -2347,7 +2348,6 @@ Generated on 2026-04-03 | 2421 sources
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why Women-Led Startups Outperform Yet Lack Funding | blog | 0 | 2026-03-30 |
 | Why YC | blog | 0 | 2026-03-31 |
-| Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 0 | 2026-03-30 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |
 | WIRTW: China's minerals, AI financing, Nobel winners, robotics... | blog | 0 | 2026-03-30 |
 | WIRTW: Deepseek Breakthrough | blog | 0 | 2026-03-30 |

@@ -55,6 +55,10 @@ related:
   - INS-260328-8DF8
   - INS-260329-177E
   - INS-260330-14A1
+evidence:
+  - id: INS-260328-8DF8
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Urban identifies a specific psychological state he calls the Dark Playground — a zone where leisure activities happen when they shouldn't be. The critical insight is that this leisure isn't actually fun. The air is filled with guilt, dread, anxiety, and self-hatred.
 

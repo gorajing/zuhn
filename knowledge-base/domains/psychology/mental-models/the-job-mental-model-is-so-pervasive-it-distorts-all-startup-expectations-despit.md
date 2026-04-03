@@ -51,5 +51,21 @@ related:
   - INS-260402-E140
   - INS-260327-FCCF
   - INS-260402-D739
+evidence:
+  - id: INS-260327-200C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-C9DC
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-E140
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-FCCF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-D739
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham's meta-finding—the super-pattern across all 100+ founder responses—is that every surprise maps to one root cause: founders unconsciously model all work as employment. The job model explains why cofounder intensity surprises them (you don't manage coworker relationships that carefully), why emotional extremes shock them (jobs have dampening mechanisms), and why freedom feels unexpectedly good (jobs cap autonomy). Despite being explicitly warned about each of these differences, founders still couldn't internalize them in advance. This suggests that deeply embedded mental models can only be updated through direct experience, not instruction—a finding with implications far beyond startups for anyone trying to prepare others for genuinely novel situations.

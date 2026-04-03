@@ -61,6 +61,15 @@ evidence:
   - id: INS-260322-2B2D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-32A4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-E76F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260320-DDD9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's prescription of 4 hours per day for roughly 5 days (20 hours total) to learn enough of a skill to start applying for better jobs aligns with Josh Kaufman's research on rapid skill acquisition. The claim isn't mastery — it's reaching a functional threshold where you can credibly compete for entry-level roles in a new field.
 

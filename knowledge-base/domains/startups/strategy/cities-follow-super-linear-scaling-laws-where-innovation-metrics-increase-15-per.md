@@ -57,6 +57,16 @@ related:
   - INS-260323-6C6F
   - INS-260330-9935
   - INS-260323-4D8D
+evidence:
+  - id: INS-260323-4D8D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-6C6F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-9935
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Geoffrey West's research in 'Scale' identified a striking mathematical regularity: knowing only a city's population, you can predict average wages, GDP, patent output, and other innovation metrics with 80-90% accuracy. These metrics increase approximately 15% per capita each time the city population doubles—a super-linear scaling law consistent across cities worldwide.
 

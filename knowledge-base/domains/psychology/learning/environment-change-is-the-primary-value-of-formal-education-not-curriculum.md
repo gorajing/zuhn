@@ -56,6 +56,10 @@ related:
   - INS-260329-D8C7
   - INS-260403-BDE0
   - INS-260403-14D5
+evidence:
+  - id: INS-260329-DD01
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Research shows that birth zip code is the single strongest predictor of lifetime earnings — stronger than IQ, race, or gender. Hormozi's theory is that college functions primarily as a mechanism to change your figurative zip code: it shifts your reference group, which shifts your behavior and aspirations. When controlled for SAT scores and socioeconomic status, white and Asian students show zero value-add from college, while Latino and Black students see 30-40% earnings increases — suggesting college matters most for those whose environment changes most dramatically.
 

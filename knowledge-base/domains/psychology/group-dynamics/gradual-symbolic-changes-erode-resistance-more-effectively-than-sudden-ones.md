@@ -55,6 +55,10 @@ related:
   - PRI-260328-4313
   - INS-260327-0017
   - INS-260323-71B3
+evidence:
+  - id: INS-260323-71B3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The video documents a sequence of individually defensible actions — mainland immigration controls in a Hong Kong train station, election rule changes, anthem-insult laws, extradition proposals — none of which alone constitutes a dramatic breach of the 'one country, two systems' agreement, but which cumulatively shift the balance of power. Each change can be rationalized ('it's just for convenience,' 'protestors are overreacting') which makes organized resistance difficult.
 

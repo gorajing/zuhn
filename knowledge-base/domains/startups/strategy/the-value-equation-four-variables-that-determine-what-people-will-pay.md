@@ -63,6 +63,16 @@ related:
   - INS-260330-FA4C
   - INS-260330-C33B
   - INS-260329-196E
+evidence:
+  - id: INS-260329-196E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-6773
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-04A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi's value equation breaks down why identical services can be priced 100x differently. A $50 weight-loss ebook and $5,000 personal training target the same dream outcome, but differ dramatically in perceived likelihood, time, and effort required. The training wins on perceived likelihood (more believable) and arguably demands more effort — yet commands 100x the price because the perceived guarantee of results outweighs the cost.
 

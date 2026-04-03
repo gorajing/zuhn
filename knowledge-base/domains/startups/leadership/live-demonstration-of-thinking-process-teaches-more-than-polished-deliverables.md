@@ -58,6 +58,13 @@ related:
   - INS-260330-DB4B
   - PRI-260328-902C
   - INS-260329-DAD1
+evidence:
+  - id: INS-260329-D48B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-DAD1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Malan's signature move is coding live in front of 800 students, narrating his thought process as he goes — including moments where he pauses, reconsiders, or makes mistakes. This 'thinking out loud' approach lets students see the cognitive process behind programming, not just the product. They learn that experienced programmers also encounter confusion, try approaches that don't work, and iterate toward solutions.
 

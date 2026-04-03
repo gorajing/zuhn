@@ -49,11 +49,21 @@ stance: >-
   justifications allowed — produces deeper problem reframing than traditional
   brainstorming because it disrupts the brain's habitual rush to solution mode.
 related:
+  - INS-260403-2949
   - PRI-260327-3BD9
   - INS-260329-EAFD
   - INS-260329-0F39
   - INS-260403-699B
-  - INS-260325-2944
+evidence:
+  - id: INS-260329-EAFD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-0F39
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-699B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Gregersen's 'question burst' technique has two strict rules: no answering questions, and no explaining why you're asking them. These constraints are the mechanism, not a limitation. When people are freed from the obligation to justify or resolve their questions, they bypass the cognitive shortcut of anchoring on familiar solutions.
 

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-415A
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-AEA7
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 When LIGO finally detected a gravitational wave chirp, the immediate question was whether it was just environmental noise -- a truck driving by, ravens pecking at pipes, or airplane vibrations. The answer was a second identical detector located 3,000 km away in a completely different environment. When both machines saw the same chirp, they could confidently distinguish a real signal from noise.
 

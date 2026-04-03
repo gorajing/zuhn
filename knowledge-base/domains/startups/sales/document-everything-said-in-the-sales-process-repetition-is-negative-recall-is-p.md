@@ -72,6 +72,9 @@ evidence:
   - id: INS-260320-4773
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-2ECE
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The veteran identifies a common failure: sales reps don't document what was said during the call. When the deal is handed to onboarding or customer success, the customer has to repeat everything from scratch. This is a binary swing: making a customer repeat themselves is extremely negative, but recalling what they told a previous rep is extremely positive.
 

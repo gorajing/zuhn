@@ -66,6 +66,10 @@ related:
   - INS-260330-1078
   - INS-260330-9C40
   - INS-260327-B2E3
+evidence:
+  - id: INS-260330-035C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Dr. Andy Galpin reframes fat loss as 'carbon in, carbon out' rather than 'calories in, calories out.' All body fat and carbohydrates are carbon chains. When you break carbon bonds for energy (ATP), the freed carbon must be exhaled as CO2. This means the only two levers for fat loss are: ingest less carbon or expel more carbon. The specific exercise modality — steady-state cardio, HIIT, weight training — doesn't matter for fat loss as long as total energy expenditure is matched, because all exercise increases respiration rate equally. The 'fat-burning zone' is a percentage trick: lower intensity burns a higher percentage of fuel from fat, but total fuel expenditure is very low. Sleep is technically the highest percentage fat-burning activity, which demonstrates the absurdity of optimizing for fat-burning percentage rather than total carbon output.
 

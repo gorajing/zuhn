@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3017 actionable insights
+Generated on 2026-04-03 | 3023 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1220,6 +1220,7 @@ Generated on 2026-04-03 | 3017 actionable insights
 - [INS-260330-FB9C] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
 - [INS-260330-4B55] Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
 - [INS-260402-62E3] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
+- [INS-260403-76C3] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -1351,6 +1352,7 @@ Generated on 2026-04-03 | 3017 actionable insights
 - [INS-260403-1448] The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
 - [INS-260403-B7FA] Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - [INS-260403-41BC] Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
+- [INS-260403-2949] Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1484,6 +1486,7 @@ Generated on 2026-04-03 | 3017 actionable insights
 - [INS-260330-E3D3] Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
 - [INS-260330-4605] The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
 - [INS-260402-476E] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
+- [INS-260403-B12E] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2343,6 +2346,7 @@ Generated on 2026-04-03 | 3017 actionable insights
 - [INS-260403-AC74] Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - [INS-260403-07C6] Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
 - [INS-260403-6A65] Super-angel competition gave founders 13% dilution angel rounds versus 30-40% series A rounds, plus retained board control and faster closes.
+- [INS-260403-6F52] In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2538,6 +2542,7 @@ Generated on 2026-04-03 | 3017 actionable insights
 - [INS-260402-73D9] Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.
 - [INS-260402-33CA] Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - [INS-260403-6935] Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance.
+- [INS-260403-A136] Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3178,6 +3183,7 @@ Generated on 2026-04-03 | 3017 actionable insights
 - [INS-260403-B87D] Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - [INS-260403-508D] Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - [INS-260403-3E3B] Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
+- [INS-260403-58BB] Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

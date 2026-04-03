@@ -58,6 +58,9 @@ evidence:
   - id: INS-260327-C4AC
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-6A3A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Simons spent 7 years building StackBlitz before Bolt's breakthrough. He candidly admits the company was about to go out of business. The question he constantly asked himself: 'Am I not giving up because people say you shouldn't, or because I actually have conviction?'
 

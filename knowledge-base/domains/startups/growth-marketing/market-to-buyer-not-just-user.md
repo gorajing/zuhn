@@ -54,6 +54,9 @@ evidence:
   - id: INS-260329-8B10
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260327-E039
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 
 When the user and the buyer are different people, your marketing

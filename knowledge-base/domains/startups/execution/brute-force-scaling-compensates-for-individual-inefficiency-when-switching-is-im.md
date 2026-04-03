@@ -56,6 +56,10 @@ related:
   - INS-260330-ED9D
   - INS-260330-C02D
   - INS-260330-22C0
+evidence:
+  - id: INS-260330-E068
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Rather than evolving a more efficient carbon-fixation enzyme, plants simply manufacture enormous quantities of RuBisCo — an estimated 40 billion tons exist on the planet at any time. This brute-force approach works because the cost of producing more enzyme is lower than the cost of re-architecting the entire photosynthetic pathway.
 

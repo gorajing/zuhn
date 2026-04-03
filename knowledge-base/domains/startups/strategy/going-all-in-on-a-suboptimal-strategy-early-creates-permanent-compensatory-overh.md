@@ -68,6 +68,9 @@ evidence:
   - id: INS-260330-CC30
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-C02D
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and oxygen scarce, making its poor selectivity irrelevant. As plants themselves changed the atmosphere by producing oxygen, RuBisCo began confusing O2 for CO2 roughly half the time, creating toxic byproducts. But by then, every plant on Earth had built its entire carbon fixation pathway around this one enzyme.
 

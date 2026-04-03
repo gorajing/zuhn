@@ -45,6 +45,19 @@ related:
   - INS-260330-175F
   - INS-260327-9838
   - INS-260330-4A89
+evidence:
+  - id: INS-260330-2339
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-175F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-9838
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4A89
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspirational association that cannot be replicated by functionally equivalent newcomers.
 

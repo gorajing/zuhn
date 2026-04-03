@@ -70,5 +70,8 @@ evidence:
   - id: INS-260330-CECB
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260330-A954
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When Tencent was nearly out of money and couldn't find a buyer, Pony Ma pitched IDG Capital with an approach that contradicted conventional fundraising wisdom. He told them directly: 'If you don't fund us right now, Tencent will probably die. And even if you do give us the money, the future is still uncertain.' He admitted they didn't know how to monetize their chat software. Years later, an IDG decision-maker revealed that Pony's total honesty—rather than the typical overconfidence and false promises founders offer—is what made them trust him enough to invest $2.2 million for 40% of the company. This is a counterintuitive finding: in a market flooded with hyped pitches, vulnerability and candor can function as a differentiation signal. It signals that the founder has good judgment about reality (a prerequisite for navigating uncertainty) and won't hide problems until they become catastrophic. The caveat is that this only works when the underlying product has clear traction—Tencent had millions of users, just no revenue model.

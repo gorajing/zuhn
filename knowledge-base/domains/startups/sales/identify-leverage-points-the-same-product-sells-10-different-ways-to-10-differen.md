@@ -64,12 +64,14 @@ related:
   - INS-260327-8521
   - INS-260329-075F
   - INS-260329-086B
-  - INS-260330-87BD
   - INS-260403-3E3B
 evidence:
   - id: INS-260327-4F3D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-075F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Shelby's core framework: leverage means the specific pain points that will motivate each individual to buy. The same fitness program can be sold as weight loss, muscle gain, health recovery, or prevention -- and using the wrong leverage with the wrong person means the pitch fails even though the product is identical.
 

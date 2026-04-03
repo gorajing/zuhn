@@ -47,6 +47,13 @@ related:
   - PRI-260328-909D
   - PRI-260328-7E58
   - INS-260330-067C
+evidence:
+  - id: INS-260327-7498
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-067C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Artisanal cultural products follow a predictable degradation path when adopted by mass markets: authentic versions are discovered, aestheticized for social media, mass-produced at lower quality, and eventually the mass version replaces the authentic one in consumer perception.
 

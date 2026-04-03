@@ -66,5 +66,8 @@ evidence:
   - id: INS-260330-F5A1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-CC79
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Malan shows students a program with three identical 'play sound meow' blocks and asks: what's wrong? The answer is that changing any behavior requires changing it in three places, creating bug surface area that grows with every copy. The fix is creating a reusable function. This principle transfers directly to business operations: if your team copy-pastes the same Slack message to onboard each customer, that's a missing automation. If three different dashboards show revenue calculated slightly differently, that's a missing single source of truth. The compounding cost is the key insight — at 3 copies, duplication is annoying. At 30, it's a liability. At 300, it's technical debt that can paralyze an organization. The discipline of 'don't repeat yourself' is really about recognizing patterns early and creating the right abstraction before duplication compounds.

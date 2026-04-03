@@ -55,5 +55,9 @@ related:
   - INS-260330-BD3C
   - INS-260327-91E7
   - PRI-260323-50FE
+evidence:
+  - id: INS-260327-91E7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The submarine's 'dolphins' qualification requires every crew member - officer and enlisted alike - to learn every system on the boat before earning their warfare qualification pin. As the Captain explained, 'if you ask any guy onboard that has dolphins, hey, what's that? They should know.' Enlisted members typically complete this in 6-8 months, officers in about a year (after already completing 12 months of nuclear power school and 3 months of submarine school). Destin observed that 'people learning and teaching everywhere I went' was one of the most surprising aspects of submarine culture. Officers submit themselves to enlisted specialists to learn, and everyone is expected to train the person below them. This creates a culture where knowledge flows bidirectionally across hierarchy. The insight for any organization: when the environment is unforgiving (submarine, startup, etc.), cross-training isn't a nice-to-have - it's survival infrastructure. A single point of failure in knowledge is as dangerous as a single point of failure in hardware.

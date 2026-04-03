@@ -65,5 +65,8 @@ evidence:
   - id: INS-260330-B490
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-814E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Travis Kalanick embodied a paradox that recurs across tech history: the founder whose personality is perfectly suited to building a company from zero becomes perfectly unsuited to running it at scale. Travis's refusal to follow rules, his win-at-all-costs mentality, and his ability to inspire fanatical loyalty were precisely what Uber needed to break into regulated markets, outmaneuver competitors, and grow at unprecedented speed. But these same traits produced systematic regulatory evasion, toxic workplace culture, and an endless cycle of scandals that eroded public trust. The board's decision to force him out — and the subsequent IPO underperformance — illustrates the dilemma: without Travis's 'relentless drive for rapid expansion and merciless desire to win,' Uber became steadier but potentially stagnant. The comparison to Apple without Steve Jobs is apt. This pattern suggests that the most impactful founders should plan their own succession rather than waiting to be forced out, preserving their legacy and the company's momentum through a deliberate transition rather than a crisis-driven one.

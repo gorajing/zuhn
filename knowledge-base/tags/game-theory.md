@@ -5,12 +5,12 @@
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260330-C9C2` Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
 - `INS-260327-23FA` During the Battle of Leipzig, Saxon and other German troops switched sides mid-battle to join the coalition, accelerating Napoleon's defeat.
 - `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
 - `INS-260330-97B3` Clear, credible 'cross this line and I'll hit you' deterrence often outperforms nuanced diplomatic strategies in preventing adversary escalation.
 - `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
 - `INS-260323-DE39` Musk argues Hamas's strategy was explicitly to provoke Israeli overreaction that rallies Muslims worldwide — meaning the game-theoretically optimal response is 'conspicuous acts of kindness' that deny the narrative.
+- `INS-260330-C9C2` Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
 - `INS-260330-39D4` Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
 - `INS-260327-6C64` In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.

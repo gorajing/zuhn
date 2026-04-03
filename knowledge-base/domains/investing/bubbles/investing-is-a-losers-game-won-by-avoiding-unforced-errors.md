@@ -57,6 +57,9 @@ evidence:
   - id: INS-260328-33E8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-34E0
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Charlie Ellis's 'loser's game' concept reveals that investing mirrors amateur tennis: professionals win by scoring points, but amateurs win by making fewer unforced errors. The vast majority of investors — including professionals — underperform simple index funds over time.
 

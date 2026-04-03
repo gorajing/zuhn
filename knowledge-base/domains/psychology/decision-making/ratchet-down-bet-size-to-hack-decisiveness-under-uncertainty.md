@@ -55,6 +55,16 @@ related:
   - INS-260330-4A16
   - INS-260330-4E10
   - INS-260325-0688
+evidence:
+  - id: INS-260325-9DBB
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4A16
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-0688
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies a practical hack for the core angel investing problem: you have very little information but must decide quickly, and indecisiveness is worse than a wrong decision. His solution is to reduce the investment size until the downside is psychologically manageable — for someone with $5M, that might be $15,000 per startup. At that level, the fear of loss doesn't paralyze judgment.
 

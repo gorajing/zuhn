@@ -62,6 +62,13 @@ related:
   - PRI-260328-BF1E
   - INS-260330-6D3B
   - INS-260330-6088
+evidence:
+  - id: INS-260327-86FE
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8E9B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Apple's ~1% market share in India despite 1.3 billion potential customers illustrates how premium positioning can become a structural trap. When 75% of smartphone sales in a market happen below $250, a company whose cheapest product costs $1,100+ has no viable entry point without fundamentally compromising its brand. This isn't a marketing problem — it's an identity problem. The same brand coherence that commands 80%+ margins in wealthy markets becomes an impenetrable barrier in price-sensitive ones.
 

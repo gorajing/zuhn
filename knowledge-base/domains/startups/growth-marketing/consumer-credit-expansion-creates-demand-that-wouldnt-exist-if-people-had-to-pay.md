@@ -67,6 +67,9 @@ evidence:
   - id: INS-260329-BF51
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-3377
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When consumers can spread payments across months or years, they systematically purchase products they wouldn't buy with cash. The psychological pain of a single $1,200 payment for a phone is replaced by 24 painless payments of $50. The total cost is often higher (interest), but the reduced immediate pain drives the purchase. BNPL services amplified this further by bringing credit to smaller purchases where even credit cards felt excessive.
 

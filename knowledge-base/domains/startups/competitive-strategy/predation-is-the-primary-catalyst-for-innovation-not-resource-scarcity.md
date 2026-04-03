@@ -65,6 +65,12 @@ evidence:
   - id: INS-260330-4634
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-814E
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1DDE
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Lane describes how for 2+ billion years, life existed in a 'gentle but limited world' of filter feeders and passive organisms. The Cambrian explosion — the most creative burst in evolutionary history — was driven by predation, not by new resources becoming available. When organisms started eating each other, the resulting arms race produced eyes (evolvable in ~500,000 years), shells, locomotion, and nervous systems.
 

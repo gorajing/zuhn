@@ -52,6 +52,13 @@ related:
   - INS-260330-A3AF
   - INS-260323-4082
   - INS-260330-75B5
+evidence:
+  - id: INS-260329-E0DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-4082
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Burkeman identifies a dual-layer suffering in everyday life. The first layer is the actual problem. The second, often larger layer is the background expectation that we should have reached a stage where problems do not exist. We thought we would have our lives figured out by now. We think our jobs would be great if not for all these problems.
 

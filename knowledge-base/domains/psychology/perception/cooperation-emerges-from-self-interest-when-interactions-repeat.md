@@ -51,6 +51,10 @@ related:
   - INS-260323-CF27
   - INS-260325-502D
   - PRI-260324-2A76
+evidence:
+  - id: INS-260325-502D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Game theory's most important finding: cooperation emerges from self-interest in repeated games. When people know they'll interact again, defection's short-term gain is outweighed by future cooperation's long-term benefits. This explains why anonymous one-shot interactions (internet comments, tourist traps) produce more antisocial behavior than communities where people know each other.
 

@@ -56,6 +56,9 @@ evidence:
   - id: INS-260325-C5AA
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-BE78
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Silverglate observes that free speech is one of the few things liberal and conservative Supreme Courts consistently agree on. The reason is strategic self-interest: each side recognizes that while their group may be ascendant today, it may not be tomorrow, and they want objective, clear rules protecting speech when they're in the minority.
 

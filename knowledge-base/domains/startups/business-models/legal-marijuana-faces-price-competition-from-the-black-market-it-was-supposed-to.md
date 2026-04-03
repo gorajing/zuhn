@@ -45,6 +45,10 @@ related:
   - INS-260330-6C35
   - INS-260330-1293
   - INS-260330-174B
+evidence:
+  - id: INS-260330-1293
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Legal cannabis businesses face the paradox of competing with the illegal market on price while bearing the compliance costs that the illegal market avoids.
 

@@ -47,6 +47,22 @@ related:
   - PRI-260328-FD90
   - INS-260327-CFC5
   - INS-260327-8389
+evidence:
+  - id: INS-260325-B8CB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-C6A9
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8388
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-CFC5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8389
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Credit card rewards create a psychological illusion of getting something for free that causes consumers to spend more overall, generating far more in interest and fees than the rewards cost to provide.
 

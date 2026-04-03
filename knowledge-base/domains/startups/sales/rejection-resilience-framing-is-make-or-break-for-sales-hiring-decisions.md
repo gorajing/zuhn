@@ -53,6 +53,10 @@ related:
   - INS-260327-B18F
   - INS-260328-93F7
   - INS-260330-C13A
+evidence:
+  - id: INS-260330-C13A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Every sales interview includes some variant of 'tell me about a time you faced rejection' or 'how do you handle losing a deal.' The question isn't really about the rejection — it's a proxy for coachability, self-awareness, and long-term durability in a high-rejection role.
 

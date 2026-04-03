@@ -64,6 +64,12 @@ evidence:
   - id: INS-260330-051F
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-F5CF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-5DFF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 RuBisCo evolved when Earth's atmosphere had almost no oxygen, making it an effective carbon-fixation enzyme. As photosynthesis itself raised oxygen levels, RuBisCo began confusing O2 for CO2 roughly half the time, producing a toxic byproduct (phosphoglycolate). Rather than evolving a better enzyme, plants compensated by producing massive quantities of RuBisCo (estimated 40 billion tons on Earth at any time) and evolving secondary pathways to neutralize the toxic byproduct.
 

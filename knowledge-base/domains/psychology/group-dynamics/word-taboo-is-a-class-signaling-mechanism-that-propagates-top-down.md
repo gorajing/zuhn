@@ -57,5 +57,15 @@ related:
   - INS-260330-534C
   - INS-260330-0FAF
   - INS-260402-FFCB
+evidence:
+  - id: INS-260323-181D
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-FCA7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-B497
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The 'euphemism treadmill' explains how perfectly neutral descriptive words become offensive over time. When a word becomes associated with lower-class usage or with a stigmatized referent, higher-status speakers abandon it for a new term to signal social distance. The abandoned word then accumulates negative connotations through its remaining association with lower-status contexts, eventually becoming a slur or vulgarity. This cycle repeats endlessly — each replacement term eventually suffers the same fate. This mechanism reveals that word taboo is fundamentally about social positioning rather than inherent word properties. It has direct implications for content moderation, brand communication, and understanding why language policing efforts tend to create an ever-expanding list of forbidden terms rather than solving the underlying status dynamics.

@@ -75,6 +75,9 @@ evidence:
   - id: INS-260402-D739
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260403-7C88
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Modern MBA identifies the structural reason why tech hype cycles are self-perpetuating: VCs and founders are symbiotic organisms. VCs need radical ideas to generate outsized returns. Founders want to build businesses with other people's money. Both sides must maintain the narrative to reach the same payday -- an IPO or acquisition. The inspirational speeches, generous salaries, magazine spreads, and motivational essays aren't accidental; they're designed to keep the talent pipeline flowing.
 

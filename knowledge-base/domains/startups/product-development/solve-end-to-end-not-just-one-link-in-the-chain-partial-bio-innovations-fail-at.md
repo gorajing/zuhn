@@ -54,6 +54,13 @@ related:
 stance: >-
   Creating mycelium leather is pointless if assembling the shoe still requires
   toxic glue
+evidence:
+  - id: INS-260330-E786
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-C13D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Oxman critiques the common pattern in sustainable materials: companies solve one link in the chain (grow leather from mycelium, make textile from cellulose) but the final assembly still requires conventional glue, water-resistant coatings, and non-biodegradable components. The product ends up neither fully natural nor fully sustainable.
 

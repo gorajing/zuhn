@@ -75,6 +75,12 @@ evidence:
   - id: INS-260327-8254
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-805E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-7C88
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies two mental filters that block founders from seeing good ideas: the schlep filter (avoiding tedious, messy work) and the unsexy filter (avoiding boring domains). The schlep filter is more dangerous because it operates unconsciously — founders don't reject these ideas, they literally don't see them.
 

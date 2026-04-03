@@ -58,6 +58,21 @@ evidence:
   - id: INS-260330-6AED
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-E474
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-DF0F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-3C17
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8B9A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-793A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Assyrian imperial ideology held that the god Ashur sustained the world through continuous conquest; if conquest stopped, apocalypse would follow. This created a system with zero tolerance for failure — a single military loss didn't just mean territorial retreat, it undermined the entire legitimacy framework.
 

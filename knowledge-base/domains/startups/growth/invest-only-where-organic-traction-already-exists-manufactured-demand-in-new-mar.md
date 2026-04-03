@@ -62,6 +62,13 @@ related:
   - INS-260327-94F5
   - INS-260327-38D8
   - INS-260327-D0F4
+evidence:
+  - id: INS-260327-EA4E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260324-29D8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Waze repeatedly tried to open specific cities or countries through deliberate investment and business development, and it never worked. Meanwhile, markets that showed organic adoption responded explosively to additional investment. France became one of Waze's strongest markets by accelerating organic trends; Germany, despite being a comparable market with similar investment, never gained traction because there was no organic foundation.
 

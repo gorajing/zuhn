@@ -50,6 +50,16 @@ related:
   - INS-260328-FE38
   - INS-260330-DC3B
   - INS-260402-E85D
+evidence:
+  - id: INS-260325-0FED
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-DC3B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-E85D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In Urban's model, the Panic Monster is dormant most of the time but wakes up when a deadline gets close or public embarrassment looms. It's the only thing the Monkey fears. This explains the classic procrastinator pattern: weeks of paralysis followed by a burst of miraculous productivity.
 

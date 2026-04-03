@@ -61,6 +61,18 @@ evidence:
   - id: INS-260327-62AB
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-A6FB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-EF66
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-476E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-B8D4
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 When people fail at something important — where they have invested reputation, money, and time — their self-image comes under threat. The natural cognitive dissonance response is to conflate the act ('I did something wrong') with identity ('I am the kind of person who gets things wrong'). This conflation prevents admission of the mistake and blocks all learning.
 

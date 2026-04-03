@@ -77,6 +77,21 @@ evidence:
   - id: INS-260330-4181
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260322-EE1B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-D968
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1647
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-4045
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-72C2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Confucius proposed five key relationships — ruler/subject, father/son, husband/wife, elder/younger brother, friend/friend — each with defined mutual obligations. The ruler owed benevolence; subjects owed loyalty. This wasn't merely top-down authority but a web of reciprocal duties that created predictable behavior across millions of people without centralized enforcement.
 

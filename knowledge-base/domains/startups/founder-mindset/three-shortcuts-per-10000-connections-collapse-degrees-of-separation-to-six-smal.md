@@ -57,6 +57,9 @@ evidence:
   - id: INS-260325-4C6D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-3879
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Watts and Strogatz's groundbreaking 1998 paper showed that in a network of 8 billion nodes where everyone knows their 100 nearest neighbors, the average path between any two people would be 40 million steps. But rewiring just 3 out of every 10,000 connections to be random shortcuts drops the average to six steps -- while preserving the local clustering that makes communities functional.
 

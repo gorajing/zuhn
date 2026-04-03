@@ -61,6 +61,10 @@ related:
   - INS-260330-BE0A
   - INS-260330-8544
   - INS-260330-1801
+evidence:
+  - id: INS-260330-8D7C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Across Tyson's three examples, a pattern emerges: we assume the obvious source powers the observed effect, and this assumption blinds us. Life needs sunlight (wrong — tidal heating works). Gravity needs matter (maybe wrong — could be a property of spacetime itself). A football flies straight (wrong — Earth's rotation deflects it).
 

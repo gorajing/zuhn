@@ -61,5 +61,14 @@ evidence:
   - id: INS-260329-0CC5
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-2CAF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-4AB4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-84F4
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 In the Putnam problem, drawing lines through the circle's center was initially just a helper construction. But the breakthrough came from completely reframing the question: instead of 'choose 3 random points,' think 'choose 2 random lines through center, then flip coins for endpoints.' This reframing transforms a continuous probability problem into a discrete combinatorial one (4 equally likely coin outcomes, exactly 1 favorable). The meta-lesson is powerful: when you find an auxiliary construction that simplifies part of a problem, don't just use it as a tool — rebuild the entire question around it. The scaffold becomes the new foundation. This applies to debugging (if logging reveals the issue, restructure around observability), business strategy (if a side feature gets traction, pivot to center it), and any domain where intermediate constructs illuminate the core structure.

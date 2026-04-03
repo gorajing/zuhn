@@ -63,6 +63,22 @@ stance: >-
   Math and formal reasoning are domains where RL-based AI training works
   especially well, making AI-driven proofs of major unsolved math problems
   pla...
+evidence:
+  - id: INS-260330-5641
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-BEAD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-9033
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-35CB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-9CCF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Epoch AI notes that math appears to be 'unusually easy' for AI, defying earlier intuitions that mathematical reasoning would require deep intelligence. RL (reinforcement learning) techniques work particularly well in formal mathematical domains because they have verifiable outcomes. Current AI is already at the point where mathematicians report it being genuinely helpful during proofs.
 

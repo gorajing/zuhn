@@ -55,5 +55,9 @@ related:
   - INS-260330-3A7B
   - INS-260328-D220
   - INS-260330-4A89
+evidence:
+  - id: INS-260327-A40E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When a great employee asks for a raise, every instinct says yes — they deserve it, you want to retain them, and the immediate goodwill feels like a win. But the employee who didn't ask — possibly performing better — now learns that self-advocacy, not performance, determines compensation. The cultural conclusion propagates: every employee develops a fiduciary responsibility to their family to ask for raises constantly. Horowitz's solution is mandatory formality: periodic evaluation cycles where all inputs are gathered, all performance is assessed, and raises are determined systematically. No off-cycle adjustments, no matter how aggressive the lobbying. Paradoxically, this process makes employees more comfortable because they know evaluation is fair and comprehensive rather than dependent on political behavior or personal relationships with the CEO.

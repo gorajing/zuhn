@@ -43,7 +43,6 @@ stance: >-
   selection effects — the same traits that get people into college would produce
   above-average earnings regardless.
 related:
-  - INS-260322-4B37
   - INS-260327-9431
   - INS-260327-9924
   - INS-260329-8B10

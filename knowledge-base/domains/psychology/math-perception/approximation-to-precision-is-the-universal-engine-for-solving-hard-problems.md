@@ -55,6 +55,9 @@ evidence:
   - id: INS-260329-D8BC
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-2CAF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The entire derivation of the circle's area proceeds by accepting an imperfect approximation (treating curved rings as rectangles) and then showing the error vanishes as the slices get thinner. This approximate-then-refine pattern is the conceptual core of calculus and applies far beyond mathematics.
 

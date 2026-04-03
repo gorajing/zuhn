@@ -56,6 +56,25 @@ related:
   - INS-260329-3332
   - INS-260329-88B2
   - INS-260329-31A2
+evidence:
+  - id: INS-260329-461A
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-BE50
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A42
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-3332
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-88B2
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-31A2
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Conventional content wisdom says shorter is better for attention spans, yet this 13+ hour course has 7.6M views. The key differentiator is trust signaling: 'Full University Python Course' plus Dr. Severance's academic credentials give viewers confidence that the time investment will pay off. They're not watching a random tutorial — they're getting a real university education for free.
 

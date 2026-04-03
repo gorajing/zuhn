@@ -32,12 +32,12 @@
 - `INS-260325-0C4A` Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
 - `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260330-A44F` Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
-- `INS-260330-2BB3` Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
-- `INS-260329-8DE7` New brand pairings always lose some existing audience — the strategic question is whether you net-gain more than you lose.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
 - `INS-260329-BF96` Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
 - `INS-260329-6130` Low personal expenses buy you more shots on goal by letting you survive multiple business failures.
 - `INS-260329-BBBE` After losing everything, Hormozi made $100K the next month — proving the skills, not the business, were the real asset he'd built.
+- `INS-260330-2BB3` Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
+- `INS-260329-8DE7` New brand pairings always lose some existing audience — the strategic question is whether you net-gain more than you lose.
 - `INS-260329-79D3` Ramsey Solutions turns down advertisers that fail the 'would you send your sister there' test, even when the revenue is significant.
 - `INS-260329-F2E1` When something works, scale it by doing more rather than trying to make it better, because more has guaranteed returns while optimization risks breaking what works.
 - `INS-260330-7462` Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.

@@ -62,5 +62,8 @@ evidence:
   - id: INS-260330-CED2
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260330-56E0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video reveals two fundamentally different approaches to the same constraint. The longbow accepts the obstacle and relies on the arrow's natural flex to navigate around it — elegant but requiring deep skill and careful arrow selection. The compound bow engineers the problem away entirely: the riser is cut out so the arrow travels straight, and a drop-away rest eliminates contact. This maps directly to product development philosophy. You can either build systems that work gracefully with constraints (like designing for eventual consistency in distributed systems) or invest upfront to eliminate the constraint entirely (like choosing a strongly consistent database). The compound bow approach has 'more things that can go wrong' as the video notes, but when working, produces more predictable results. Neither is universally better — the choice depends on whether you can afford the upfront complexity and whether the constraint is likely to change.

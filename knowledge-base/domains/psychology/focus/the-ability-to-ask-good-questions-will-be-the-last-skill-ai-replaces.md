@@ -53,6 +53,7 @@ related:
   - INS-260330-FE9E
   - INS-260321-7D7C
   - INS-260402-BA91
+  - INS-260403-2949
 evidence:
   - id: INS-260321-7D7C
     type: REFINES
@@ -63,6 +64,18 @@ evidence:
   - id: INS-260322-B693
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260326-98A0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2306
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-FE9E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-BA91
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Anandkumar argues that even as AI tools get dramatically better at execution, you still need to tell AI what to do. The ability to describe tasks, define problems, and ask the right questions remains a human skill. She begins classes by asking questions, not writing equations—because the ability to question is more fundamental than the ability to compute.
 

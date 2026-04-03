@@ -56,6 +56,15 @@ evidence:
   - id: INS-260323-8E4D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-A949
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-2F74
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-4F3F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Most people's intuition about infinity treats it as 'a really big number,' which produces systematic errors. Infinity is not on the number line at all. It describes the cardinality (size) of sets that have no end. This distinction matters because operations on infinity violate rules that hold for all finite numbers: infinity minus one is still infinity, infinity divided by two is still infinity, and a 'fully booked' infinite hotel can always accommodate more guests.
 

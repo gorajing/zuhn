@@ -56,6 +56,10 @@ related:
   - INS-260330-BCAF
   - INS-260325-17E0
   - INS-260325-8D66
+evidence:
+  - id: INS-260330-BCAF
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Naval presents a hierarchy of freedom milestones: escape parents' basement → escape roommates → escape commute → escape alarm clock → escape calendar → escape email. He's currently working on eliminating email (checking once every three days). Each stage requires active sacrifice and willingness to disappoint people.
 

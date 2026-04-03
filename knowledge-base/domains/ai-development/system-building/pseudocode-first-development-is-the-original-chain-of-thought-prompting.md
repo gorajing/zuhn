@@ -70,6 +70,9 @@ evidence:
   - id: INS-260329-519E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-1448
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The lecture advocates writing pseudocode before coding — sketching logic in plain English before translating to a programming language. This is the exact same technique as chain-of-thought (CoT) prompting: break the problem into steps in natural language before generating the formal output. Both work because they separate problem decomposition from syntax/format concerns.
 

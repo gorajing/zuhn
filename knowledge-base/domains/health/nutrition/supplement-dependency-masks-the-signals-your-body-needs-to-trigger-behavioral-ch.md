@@ -72,6 +72,9 @@ evidence:
   - id: INS-260327-6EB5
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-38DA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Galpin's coaching philosophy treats supplements as temporary symptom management while hunting for root causes — never as permanent solutions. The key insight is about signal masking: if you're constantly tired and rely on Alpha-GPC and caffeine to function, you've eliminated the discomfort that would otherwise force you to address poor sleep hygiene, inadequate hydration, or chronic stress. Remove the supplements and the pain returns — but that pain is information your body needs you to act on.
 

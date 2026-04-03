@@ -51,5 +51,8 @@ evidence:
   - id: INS-260329-12D1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-C9A7
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Apple's core competitive advantage — the tightly integrated ecosystem of hardware, software, and services — becomes a non-factor in markets where initial adoption never happened. In India, missing Apple Pay, weak Siri Hindi support, and absent Apple Maps data mean the ecosystem offers less value even to the few who can afford it. This reveals an underappreciated asymmetry: ecosystem lock-in is powerful for retention but nearly useless for acquisition in new markets. The switching cost argument assumes there's something to switch from. For startups building platform strategies, this means ecosystem investment should follow initial penetration, not precede it — you need users inside the walls before the walls matter.

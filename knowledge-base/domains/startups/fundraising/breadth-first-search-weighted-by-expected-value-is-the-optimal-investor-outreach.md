@@ -46,8 +46,12 @@ stance: >-
 related:
   - INS-260327-DBA1
   - INS-260329-5924
+  - INS-260403-6F52
   - INS-260323-ACD9
   - INS-260328-03BB
-  - INS-260325-55D8
+evidence:
+  - id: INS-260323-ACD9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Paul Graham frames investor outreach as a distributed systems problem: talking to investors serially is too slow and removes competitive pressure, while treating them all equally wastes time on low-probability prospects. The solution is breadth-first search weighted by expected value — probability of yes multiplied by how good the deal would be. This naturally handles flaky investors (you drift away from them at the same rate they drift from you) and prevents the common trap of over-investing in prestigious but unlikely investors. The key discipline is separating how much you want an investor from your honest estimate of how likely they are to invest.

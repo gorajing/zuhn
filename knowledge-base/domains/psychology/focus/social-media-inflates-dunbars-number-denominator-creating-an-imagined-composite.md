@@ -65,6 +65,12 @@ evidence:
   - id: INS-260327-E41B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-4A3D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-A57C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Robin Dunbar's research shows our hardware supports roughly 5 intimate relationships, 15 close friends, 50 casual friends, and 150 meaningful contacts. This hasn't changed in 10,000 years. But social media exploded the denominator of loose connections into the thousands.
 

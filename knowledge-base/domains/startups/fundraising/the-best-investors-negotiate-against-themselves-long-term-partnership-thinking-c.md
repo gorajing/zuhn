@@ -59,6 +59,10 @@ related:
 stance: >-
   The best investors will offer founders terms that hurt themselves in the short
   run because they know being a great partner now means the founder wo...
+evidence:
+  - id: INS-260330-9DC9
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 During the Series A process, one investor literally helped Elliot negotiate against the investor's own interests — coaching him on what terms to ask for. The investor offered a term sheet knowing it was generous because 'the best people in business have a long-term mindset. Anybody who tries to make short-term gains at the expense of others is not going to be successful in the long run.'
 

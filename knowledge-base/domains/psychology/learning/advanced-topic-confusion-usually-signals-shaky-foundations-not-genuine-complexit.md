@@ -55,6 +55,13 @@ related:
   - INS-260327-24D2
   - INS-260329-72D5
   - INS-260329-9A58
+evidence:
+  - id: INS-260327-24D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 3Blue1Brown observes that confusion about eigenvectors and eigenvalues — a topic students find particularly unintuitive — almost never stems from the concept being inherently complex. Instead, it requires solid understanding of matrices as linear transformations, determinants, linear systems, and change of basis. A shaky foundation in any one of these creates the illusion that the advanced topic is impossibly abstract.
 

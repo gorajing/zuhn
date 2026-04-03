@@ -55,6 +55,16 @@ related:
   - PRI-260324-12CF
   - INS-260330-A660
   - INS-260403-875B
+evidence:
+  - id: INS-260330-0102
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-A660
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260326-0AB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham makes the striking observation that he himself didn't recognize this pattern until decades after college, despite having lived as if he understood it (avoiding big companies, gravitating toward startups). The pattern is so deeply camouflaged because it's the water we swim in — everyone takes it for granted that this is how the world works. Students spend 16+ years in systems where the optimal strategy is explicitly not to learn deeply but to figure out what will be on the test.
 

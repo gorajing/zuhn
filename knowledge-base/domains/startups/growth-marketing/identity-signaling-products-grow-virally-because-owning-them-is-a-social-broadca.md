@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-C89D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-C13D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Stanley tumbler was functionally identical to cheaper alternatives. Its explosive growth came from becoming an identity marker: carrying a Stanley signaled membership in a specific social tribe. Each visible tumbler was a walking advertisement that triggered imitative purchase among social peers. Growth was driven by social signaling, not product superiority.
 

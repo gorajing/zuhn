@@ -61,6 +61,12 @@ evidence:
   - id: INS-260328-0DFE
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-DDBC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-16B1
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Hormozi traces a skill progression: videography → editing → social media → copywriting → branding → management → operations → leadership. Each skill alone has modest market value, but the combination creates someone who can run an entire marketing function. This is the 'skill stack' concept popularized by Scott Adams — being in the top 25% of two or three complementary skills makes you rare and valuable, even if you're not world-class in any single one.
 

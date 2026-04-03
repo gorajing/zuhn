@@ -57,6 +57,13 @@ related:
   - INS-260327-1B09
   - INS-260323-CB34
   - INS-260323-5D6D
+evidence:
+  - id: INS-260323-CB34
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-5D6D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Epictetus's role ethics recognizes that we simultaneously occupy many roles: parent, child, spouse, friend, professional, citizen. None can be suspended — even while working, you remain a parent and spouse. The critical insight is that physical and emotional energy are finite resources shared across all roles.
 

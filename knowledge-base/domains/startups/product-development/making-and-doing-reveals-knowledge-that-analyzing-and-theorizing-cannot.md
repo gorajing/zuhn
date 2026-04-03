@@ -60,6 +60,16 @@ related:
   - PRI-260325-1640
   - PRI-260328-22EC
   - INS-260325-78E9
+evidence:
+  - id: INS-260325-2AA0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-A006
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-B974
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kean draws a sharp line: traditional archaeology is excellent at determining what the past looked like — walls, buildings, materials. But it cannot access what the past sounded, tasted, or smelled like. Experimental archaeology fills this gap by physically recreating ancient practices: cooking ancient recipes, building ships, making stone tools, constructing mummies.
 

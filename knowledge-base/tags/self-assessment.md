@@ -1,5 +1,6 @@
 # Tag: self-assessment
 
+- `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260330-5EAC` Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
 - `INS-260402-0BFF` Having zero controversial private opinions is evidence of conformity, not correctness.

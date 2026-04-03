@@ -54,6 +54,10 @@ related:
   - INS-260330-CF10
   - INS-260330-18F3
   - INS-260327-B37E
+evidence:
+  - id: INS-260330-CF10
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video opens with a critical epistemological point: 'civilization' is an intellectual construct that privileges certain traits (surplus production, cities, writing, centralized government) while implicitly devaluing societies organized differently. The Greek origin of 'barbarian' — meaning anyone who didn't speak Greek — illustrates how categorization schemes encode the values of whoever creates them.
 

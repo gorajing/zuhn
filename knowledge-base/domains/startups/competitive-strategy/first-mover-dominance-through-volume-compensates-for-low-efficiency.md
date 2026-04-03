@@ -64,6 +64,12 @@ evidence:
   - id: INS-260327-6177
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-42DE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-09DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video describes photosynthesis as 'complicated, inefficient, and confusing' — yet this process enabled early photosynthetic organisms to take over the entire planet. The inefficiency didn't matter because no competitor existed with a better alternative, and the sheer volume of output (flooding the atmosphere with oxygen) reshaped the environment to favor organisms that had already adapted to it.
 

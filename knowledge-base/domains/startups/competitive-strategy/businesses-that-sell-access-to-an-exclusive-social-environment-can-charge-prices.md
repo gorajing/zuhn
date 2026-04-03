@@ -46,6 +46,10 @@ related:
   - INS-260327-BEB1
   - INS-260329-CEC5
   - INS-260327-57A4
+evidence:
+  - id: INS-260327-57A4
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 When a business sells membership in an exclusive social group rather than a product or service, pricing is determined by willingness to pay for status rather than any cost-based calculation.
 

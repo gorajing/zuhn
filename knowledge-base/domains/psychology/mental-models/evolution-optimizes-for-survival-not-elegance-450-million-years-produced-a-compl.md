@@ -62,6 +62,12 @@ evidence:
   - id: INS-260329-5B50
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-4AB4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-E7A3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Photosynthesis converts sunlight to glucose through a Byzantine chain of four protein complexes, electron carriers, proton gradients, and a three-phase carbon fixation cycle. After 450 million years of evolutionary pressure, it's still described by biologists as inefficient and confusing. This isn't a failure of evolution — it's a fundamental property of systems optimized by selection rather than design.
 

@@ -56,5 +56,11 @@ evidence:
   - id: INS-260320-232D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-74F9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-1599
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 A non-obvious element of Hormozi's sales scaling system is the mandatory recording and review of every sales call. This maps directly to deliberate practice research: elite performers in music, sports, and chess improve not just through volume of practice but through reviewing their own performance against a standard. In sales, most reps do hundreds of calls but never hear themselves — they repeat mistakes unconsciously. Recording creates a feedback loop where the practitioner can observe their own patterns from an outside perspective. This principle transfers to any skill domain: engineers reviewing their own code after a cooldown period, writers reading their drafts aloud, or presenters watching their own recordings. The key is that self-observation from a detached perspective reveals patterns invisible during live performance.

@@ -64,6 +64,12 @@ evidence:
   - id: INS-260323-87F3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-8D6F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-8271
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Lukianoff explains that when you tell people they can't express an opinion, you don't change their mind — you just encourage them to stop sharing it with people who might challenge it. They retreat to echo chambers where group polarization takes off. This is what Tim Kuran calls 'preference falsification': society ends up with an inaccurate picture of what people actually think.
 

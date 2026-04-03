@@ -61,6 +61,10 @@ related:
   - INS-260330-F759
   - INS-260330-8048
   - INS-260330-A1DB
+evidence:
+  - id: INS-260330-F759
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 At Twitter's peak, 20-30% of users accessed the platform through third-party clients like TweetDeck, LaunchBar Pro, and Seesmic. These clients had driven early adoption by offering power users richer experiences than the official product. When Ev Williams pushed to funnel all users into first-party clients for a 'consistent and unified' experience, it seemed logical -- but it destroyed the innovation ecosystem.
 

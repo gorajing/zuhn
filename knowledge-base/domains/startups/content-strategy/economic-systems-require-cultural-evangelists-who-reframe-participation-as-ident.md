@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-F6DB
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-BA3A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Industrial capitalism required a cultural precondition: people had to believe that risk-taking, investment, and consumption were natural expressions of human identity rather than morally suspect activities. Writers employed by entities like the English East India Company actively publicized the idea that economies were controlled by markets and that humans were naturally rational economic actors. Even language shifted — 'individuals' didn't refer to persons until the 17th century, and 'career' only meant a horse's racing life until the 18th century.
 

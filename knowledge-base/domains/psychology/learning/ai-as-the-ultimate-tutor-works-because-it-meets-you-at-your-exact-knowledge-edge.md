@@ -64,6 +64,18 @@ evidence:
   - id: INS-260320-5F14
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-D76A
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-D159
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-BE50
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-69F0
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Naval identifies the key differentiator of AI as a learning tool: not that information is abundant (it already was), but that AI can adaptively match the level of explanation to your current understanding. If you have eighth grade vocabulary but fifth grade mathematics, it speaks to you at precisely that intersection. This eliminates the two failure modes of traditional learning — incomprehension (too advanced) and boredom (too basic).
 

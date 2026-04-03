@@ -64,6 +64,12 @@ evidence:
   - id: INS-260326-8189
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-B22D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-4E55
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The French at Vitoria were not defeated by superior force in direct combat — they collapsed when Wellington's flanking columns threatened their retreat route to France. The psychological impact was devastating: instead of fighting an orderly retreat, French units broke and fled, abandoning King Joseph's entire baggage train, millions in gold, and irreplaceable artillery. A force that could have maintained an organized withdrawal instead disintegrated.
 

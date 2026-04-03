@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-59FE
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-CA88
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Confucianism structured society through five key relationships (ruler-subject, father-son, husband-wife, elder-younger, friend-friend), each with reciprocal obligations. The ruler owed benevolence and competence to subjects; subjects owed loyalty in return. This bidirectional contract made the hierarchy feel legitimate because subordinates received tangible value from their position in it.
 

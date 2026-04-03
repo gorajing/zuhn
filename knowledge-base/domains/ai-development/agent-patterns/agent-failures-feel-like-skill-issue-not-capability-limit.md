@@ -61,5 +61,8 @@ evidence:
   - id: INS-260329-20F8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-D7CC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Karpathy describes the current state where agent failures feel like skill issue rather than capability limits. You didn't give good enough instructions in the AGENTS.md file, you don't have a nice enough memory tool, etc. This framing is empowering because it means you can improve — but it also creates psychosis because the improvement space feels infinite.

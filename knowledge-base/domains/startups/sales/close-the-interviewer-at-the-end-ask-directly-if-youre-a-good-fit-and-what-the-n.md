@@ -63,6 +63,10 @@ related:
   - PRI-260328-E921
   - INS-260330-5F35
   - INS-260328-41C9
+evidence:
+  - id: INS-260330-A954
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The speaker identifies the end-of-interview questions as the second most important moment (after the opening 2-3 minutes). Having five questions prepared but asking only three prevents going over time and seeming like someone who will pepper the manager with questions all day.
 

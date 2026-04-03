@@ -55,6 +55,10 @@ related:
   - PRI-260328-E921
   - INS-260327-52C1
   - INS-260329-A80B
+evidence:
+  - id: INS-260330-E3D3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Sometimes salespeople must challenge a prospect's beliefs directly (e.g., 'I don't have time' is really a priorities question). Saying this directly risks breaking rapport. Hormozi's three straw man variants solve this: (1) 'Someone earlier today asked the same thing — can I share what I told them?' lets you be brutal about a third party without insulting the prospect; (2) referencing a successful past customer ('Sarah had a similar business and crushed it') creates aspirational association; (3) appealing to a CEO or authority figure ('Alex just told me this') borrows credibility without claiming personal authority.
 

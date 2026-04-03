@@ -66,6 +66,12 @@ evidence:
   - id: INS-260325-1080
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260402-2C6B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-E3D3
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Seo distinguishes between intelligence (ability to respond to any argument) and wisdom (knowing which arguments to respond to). Elite debaters apply two filters to every potential point of contention: (1) Is this disagreement necessary to resolve in order to make progress on the larger issue? (2) Even if not necessary, would challenging it help advance the overall dispute?
 

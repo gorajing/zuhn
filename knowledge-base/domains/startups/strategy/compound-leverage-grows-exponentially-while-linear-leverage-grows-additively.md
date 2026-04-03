@@ -49,6 +49,13 @@ related:
   - INS-260329-DFDB
   - INS-260321-7D76
   - PRI-260328-49CB
+evidence:
+  - id: INS-260330-0C1B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-DFDB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In a block and tackle system, each additional rope adds one unit of force — linear growth. In a compound pulley system, each stage doubles the previous stage's output: 1→2→4→8. Both achieve the same 8:1 mechanical advantage, but the compound system does it with fewer pulleys.
 

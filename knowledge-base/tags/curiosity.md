@@ -5,6 +5,7 @@
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260327-A817` AI can execute defined tasks, but asking the right questions—knowing what to solve—remains uniquely human.
+- `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - `INS-260330-B2B8` Stuart Firestein argues science begins where facts run out — riding the wave beyond the circle of knowledge is more productive than bobbing within it.
 - `INS-260330-CC51` Stuart Firestein argues science begins where facts run out — riding the wave of ignorance outward is more productive than circling within known facts.
 - `INS-260403-E9DD` Traditional education's emphasis on obedience and standardization produces wisdom at the expense of intelligence by suppressing the idiosyncratic interests that drive peak performance.

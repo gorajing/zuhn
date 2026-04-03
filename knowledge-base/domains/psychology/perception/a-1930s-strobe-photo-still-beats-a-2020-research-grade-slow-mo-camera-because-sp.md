@@ -58,6 +58,9 @@ evidence:
   - id: INS-260323-22E8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-9EEC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video compares a research-grade slow-mo camera (2020, 20,000 FPS) against Edgerton's strobe technique (1930s, single frame) by shooting a bullet through a playing card. The strobe photo is dramatically sharper. The reason: spatial resolution and temporal resolution are fundamentally traded off in hardware. A fast sensor must read pixels quickly, so at higher frame rates you lose pixel count (at 1M FPS, you get 16x128 pixels). A strobe shoots one frame with the entire sensor, maximizing sharpness.
 

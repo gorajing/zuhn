@@ -64,6 +64,9 @@ evidence:
   - id: INS-260325-9F4C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-5670
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The body has two fuel systems: glucose (from recent food) and fat (from stored body fat). When you eat, blood sugar rises and insulin activates, putting the body in 'storage mode' focused on processing incoming fuel. Only when insulin drops (after the glucose is processed) does the body switch to fat burning mode.
 

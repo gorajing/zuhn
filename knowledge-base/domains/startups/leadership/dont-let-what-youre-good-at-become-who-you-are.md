@@ -83,6 +83,27 @@ evidence:
   - id: INS-260323-7CA7
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260323-2B53
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-177E
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-449A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-FBF0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-BCAF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260322-A928
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-C2F1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Taylor shares a pivotal moment as Facebook CTO at 29: Sheryl Sandberg told him he was trying to do everything himself instead of holding his team to his standards. Upon reflection, he realized he was conforming the job to his comfortable skills rather than doing what the job actually required each day. Entrepreneurs often become 'single-issue voters' who respond to every problem with their area of strength (product people redesign, sales people sell harder).
 

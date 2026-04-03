@@ -59,6 +59,10 @@ related:
   - INS-260322-683B
   - INS-260327-3DE7
 stance: A brand is established in the realm of fulfilling customer deficiency
+evidence:
+  - id: INS-260329-16F0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kwak reframes branding through a deficiency-satisfaction lens. K-pop's global success isn't about music consumption — it stems from a lack of desire to connect, and albums, merch, and fan culture are the process of filling that gap. The brand IS the completion of the value exchange cycle: identifying what the customer lacks, demonstrating how you resolve that deficiency, and showing how resolution leads to expectation and satisfaction.
 

@@ -61,6 +61,9 @@ evidence:
   - id: INS-260402-FE91
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260402-1F58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Bezos distinguishes sharply between incremental improvement (important but predictable) and real invention (lateral thinking that creates genuinely new solutions). Real invention requires wandering — if you knew where you were going, you'd already have the answer. He doesn't know how long a problem-solving meeting will take because there's no straight line to the solution.
 

@@ -49,6 +49,9 @@ evidence:
   - id: INS-260322-0C28
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-3377
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards earned by the majority who pay in full, creating a regressive wealth transfer.
 

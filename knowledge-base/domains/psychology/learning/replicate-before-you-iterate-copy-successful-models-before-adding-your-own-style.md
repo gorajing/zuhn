@@ -60,6 +60,12 @@ evidence:
   - id: INS-260329-5DB9
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-A79E
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-3F30
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi advocates becoming 'the number one student' by doing exactly what a mentor says before adding personal modifications. This mirrors deliberate practice research: novices who copy expert form before developing personal style reach mastery faster than those who immediately improvise.
 

@@ -61,6 +61,9 @@ evidence:
   - id: INS-260327-004B
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-206F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 After losing his entire nest egg from selling his gym chain, Hormozi immediately generated $100K the next month by maxing out a credit card and deploying his skills. This experience crystallized a key insight: the gyms weren't the real asset he'd built — his skills were. Financial assets can go to zero, but competence in sales, marketing, operations, and leadership persists through any market condition.
 

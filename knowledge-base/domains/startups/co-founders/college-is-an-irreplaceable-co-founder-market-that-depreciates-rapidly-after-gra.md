@@ -67,6 +67,9 @@ evidence:
   - id: INS-260402-F853
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260329-19EE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham identifies co-founder discovery as the single most common question at Y Combinator ('Where can I find a co-founder?'), and notes it's the one question they have no good answer for—except school. By 30, potential co-founders are either lost to time or locked into jobs they won't leave. The better someone is, the more likely they're already committed to something.
 

@@ -82,6 +82,12 @@ evidence:
   - id: INS-260327-F232
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-77E5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-04FA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hoffman's mentor David Marr proposed that understanding any information-processing system requires three levels: (1) computational theory — what is being computed and why, (2) algorithm — what procedure achieves it, and (3) hardware — how is it physically implemented. Marr's key insight was that his own rigorous neuroscience work on the cerebellum left him unsatisfied because he only had the hardware level — he didn't know what the cerebellum was for.
 

@@ -53,5 +53,9 @@ related:
 stance: >-
   The US has wanted to pivot to Asia since the 2000s but keeps getting stuck in
   the Middle East
+evidence:
+  - id: INS-260403-600C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The US strategy isn't to maintain military presence in the Middle East forever — it's to create an economic community (IMEC) that self-manages. If Israel, Saudi Arabia, UAE are bound by a massive financial lifeline, they'll defend their territory and move forward together on their own, like Reagan's neoliberal theory: bind economies together and interests align. This frees the US to finally execute its pivot to Asia and face China directly. The tariffs, IMEC, Venezuela, Iran operations, and the China summit at end of March — they're all one interconnected chessboard. For Korea specifically: if IMEC succeeds, European buyers have no reason to ship expensive parts from Asia's far end when cheap Indian goods arrive tariff-free by rail.

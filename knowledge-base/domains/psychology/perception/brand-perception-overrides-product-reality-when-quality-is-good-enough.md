@@ -55,5 +55,30 @@ related:
   - INS-260329-EBBB
   - INS-260329-C0F1
   - INS-260330-9DC9
+evidence:
+  - id: INS-260322-5A72
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8F03
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-EF89
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-A763
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-A43C
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-CEC5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-EBBB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-C0F1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi distinguishes between pre-purchase branding (external associations with celebrities, values, experiences) and post-purchase branding (the product experience itself). He argues that if the product is 'good enough' — no obvious flaws — then brand associations carry the customer's perception the rest of the way to a premium experience. However, this has an asymmetric failure mode: one bad product experience (a hole in an expensive Nike shirt) can unravel accumulated brand equity and even transfer negative sentiment backward to the endorser. This maps to Kahneman's negativity bias — negative experiences are weighted more heavily than positive ones, which means the 'good enough' threshold is non-negotiable even if brand is strong.

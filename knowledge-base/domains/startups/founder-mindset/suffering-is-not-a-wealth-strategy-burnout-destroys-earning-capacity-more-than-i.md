@@ -59,6 +59,10 @@ related:
 stance: >-
   The martyr archetype wears exhaustion as a badge of honor, but burnout reduces
   productivity by 10%+ and early burnout can cost $300K/year in lost h...
+evidence:
+  - id: INS-260329-7F70
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Grind culture tells you that if you're not bleeding, you're not trying hard enough. The martyr says 'I'm doing this for my family' when really they can't let go of control, or they're scared to stop because stopping means what they're doing might not be working. Codie Sanchez lived this — bragging about 80-hour weeks in finance until her back gave out.
 

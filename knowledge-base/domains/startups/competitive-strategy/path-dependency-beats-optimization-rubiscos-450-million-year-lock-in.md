@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-3ADC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-7B05
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 RuBisCo is objectively bad at its job — it confuses oxygen for CO2 roughly half the time, producing toxic byproducts that plants must spend additional energy to neutralize. Yet it remains the sole carbon-fixation enzyme on Earth after 450 million years because plants 'went all-in' on the RuBisCo strategy early.
 

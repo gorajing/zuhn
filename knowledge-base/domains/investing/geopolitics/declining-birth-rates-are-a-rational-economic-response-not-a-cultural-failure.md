@@ -62,6 +62,9 @@ evidence:
   - id: INS-260330-74AC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-393C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The baby boom coincided with cheap housing, stable employment, and expanding social support. Today's birth rate decline mirrors the reversal of each: homes are unaffordable, jobs are insecure, and childcare exceeds rent. People aren't choosing not to have children because of cultural shift - they're making rational economic calculations.
 

@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260323-BC61
   - INS-260323-E492
+  - INS-260403-B12E
   - INS-260330-D7CC
   - INS-260321-2482
-  - PRI-260323-7BFA
 stance: 'For the first time, a genuine threat exists to systems of record'
 evidence:
   - id: INS-260330-D7CC

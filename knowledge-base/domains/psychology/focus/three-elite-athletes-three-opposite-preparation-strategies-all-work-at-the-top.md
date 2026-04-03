@@ -58,6 +58,10 @@ related:
 stance: >-
   Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact
   warm-up routines until competition feels like 'another Tuesday,' and Craig ...
+evidence:
+  - id: INS-260327-0826
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The B-Team conversation reveals that there is no single 'correct' mental preparation strategy for peak performance. Nicky Ryan practices intense visualization for weeks, putting himself in competition scenarios repeatedly so that game time feels like the thousandth repetition. Nicky Rod does the exact same warm-up routine for weeks until competition day feels identical to practice. Craig Jones takes the opposite approach — he pushes competition completely out of his mind, does no visualization, no rituals, no warm-ups.
 

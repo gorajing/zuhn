@@ -58,6 +58,12 @@ evidence:
   - id: INS-260327-EF98
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-1B7C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-B116
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Singapore reveals a mental model where political consent operates more like a subscription than a commitment. When 64% of citizens explicitly prioritize economic development over democracy, they are revealing that their support is conditional and transactional. The PAP's 2015 decision to prioritize housing maintenance for its voters made this exchange explicit.
 

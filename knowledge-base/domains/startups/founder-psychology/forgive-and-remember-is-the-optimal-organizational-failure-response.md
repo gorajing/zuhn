@@ -52,6 +52,10 @@ related:
   - PRI-260328-0AB1
   - INS-260325-CF3E
   - INS-260327-9F46
+evidence:
+  - id: INS-260325-B8D4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Three organizational failure patterns emerge. 'Forgive and forget' creates no accountability or learning — mistakes repeat. The 'Silicon Valley standard' of blame, stigmatize, and humiliate creates cover-your-ass culture where people hide mistakes. 'Forgive and remember' — validated by research on hospitals that learn from medical errors — provides psychological safety to admit failures while preserving institutional memory.
 

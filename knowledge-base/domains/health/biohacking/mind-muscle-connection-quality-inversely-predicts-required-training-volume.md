@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-4AE7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-9EB1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Henneman size principle explains that motor units are recruited from low to high threshold in a staircase pattern. The 'mind-muscle connection' — your ability to voluntarily isolate and contract a specific muscle hard enough to almost cramp it — directly indicates how efficiently you recruit high-threshold motor units. This has a counterintuitive practical implication: if you're excellent at isolating a muscle, you need fewer sets (perhaps 5-8) because each set generates sufficient neural drive. If you struggle to isolate a muscle, you need more volume (10-15+ sets) because each set is less neurally efficient.
 

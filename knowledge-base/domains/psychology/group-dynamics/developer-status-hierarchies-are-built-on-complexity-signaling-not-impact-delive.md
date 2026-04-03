@@ -56,6 +56,18 @@ evidence:
   - id: INS-260327-4CB3
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-50D5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-0A55
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8389
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-8388
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Programming culture has developed elaborate status hierarchies based on superficial technical signals — using Vim over VS Code, writing in Rust over Python, deploying on Arch Linux over Ubuntu. These signals function identically to luxury goods in mainstream culture: they communicate in-group membership and technical sophistication without correlating to actual output quality.
 

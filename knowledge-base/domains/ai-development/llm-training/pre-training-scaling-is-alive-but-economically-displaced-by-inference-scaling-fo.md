@@ -63,5 +63,8 @@ evidence:
   - id: INS-260330-7FAC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-EEDF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Sebastian Raschka frames the scaling tradeoff as a financial decision, not a technical wall. Pre-training is a fixed cost that gives permanent capabilities; inference scaling is a per-query recurring cost. With model lifespans of ~6 months before replacement, spending $100M more on pre-training may not be worth it when inference scaling (letting models think longer) can extract more capability from the same base model. Claude Opus 4.5 proved this: a smaller model with better post-training and inference scaling outperformed simply scaling up pre-training. Nathan Lambert adds that gigawatt-scale Blackwell clusters coming online in 2026 will enable testing larger scales, but serving costs (billions/year for hundreds of millions of users) dwarf training costs ($2-5M). The prediction: we'll see $2,000/month AI subscriptions this year as companies offer cutting-edge inference to fewer, higher-paying users.

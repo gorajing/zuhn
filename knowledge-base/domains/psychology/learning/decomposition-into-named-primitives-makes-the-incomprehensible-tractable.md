@@ -63,6 +63,15 @@ evidence:
   - id: INS-260325-9BBC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-4CBB
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-A79E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-32E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video's pedagogical structure is itself an insight. The Banach-Tarski proof is graduate-level mathematics, yet millions of people follow it because each conceptual leap is bridged by a concrete, named analogy: the chocolate bar illusion introduces the idea of hidden loss, Hilbert's Hotel makes infinite arithmetic tangible, the circle point-shift demonstrates geometric application, and the Hyperwebster shows how decomposition of an infinite set can reconstruct the whole.
 

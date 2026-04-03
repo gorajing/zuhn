@@ -62,6 +62,21 @@ evidence:
   - id: INS-260322-7FA4
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260320-70FA
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-0053
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-0CBC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-F405
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-B8CB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Disney doesn't just sell entertainment — it systematically inserts itself into the most emotionally formative experiences of childhood: first movie in a theater, birthday parties, family vacations, bedtime stories. These associations create neural pathways that connect Disney products with safety, joy, and family. Adults raised on Disney spend irrationally on Disney parks, merchandise, and subscriptions because they're purchasing emotional experiences, not products.
 

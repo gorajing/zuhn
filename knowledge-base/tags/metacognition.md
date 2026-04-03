@@ -8,6 +8,7 @@
 - `INS-260330-AEE3` The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns.
 - `INS-260330-6CA5` The feeling of being the thinker is not evidence of a thinker — it's the phenomenological signature of thinking without noticing you're thinking.
 - `INS-260330-1B74` Thoughts arise unbidden, last fractions of a second, and vanish completely — yet we build our entire sense of self on this flickering stream.
+- `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260330-5EAC` Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.

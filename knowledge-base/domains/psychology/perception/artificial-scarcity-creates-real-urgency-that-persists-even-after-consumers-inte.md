@@ -45,6 +45,19 @@ related:
   - PRI-260328-7E58
   - INS-260330-5ED4
   - INS-260330-D5BD
+evidence:
+  - id: INS-260327-4431
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-36FF
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-5ED4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-D5BD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Even consumers who cognitively recognize that limited drops are manufactured scarcity still experience genuine urgency and anxiety, because the emotional response operates faster than rational evaluation.
 

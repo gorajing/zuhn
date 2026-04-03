@@ -54,5 +54,14 @@ evidence:
   - id: INS-260330-BB53
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-21C2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-181B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-2AA7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The archer's paradox is only paradoxical if you model the arrow as a rigid rod. The moment you allow the arrow to flex, the 'impossible' result becomes inevitable physics. This is a general pattern in learning and reasoning: paradoxes are diagnostic signals that your mental model is missing a degree of freedom. The Monty Hall problem feels paradoxical until you account for the host's knowledge. The twin paradox in relativity resolves once you track acceleration, not just relative velocity. When you encounter something that seems contradictory or impossible, the productive response isn't confusion — it's to ask 'what variable am I holding fixed that actually varies?' This reframe turns paradoxes from obstacles into the most efficient learning signals available, because they point directly at the gap in your model.

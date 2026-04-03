@@ -54,6 +54,10 @@ related:
   - INS-260330-629E
   - INS-260322-683B
   - INS-260330-F759
+evidence:
+  - id: INS-260330-F759
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Sam Harris argues the Democratic Party allowed trans activists (~0.5% of adults) and other far-left factions to define party positioning on cultural issues, costing them millions of votes including record losses among Latinos and Black voters who nominally aligned with Democratic economic interests. The mechanism is that organizations optimize for the loudest internal voices rather than the largest external audience.
 

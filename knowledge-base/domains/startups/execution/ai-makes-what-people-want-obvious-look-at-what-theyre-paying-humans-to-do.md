@@ -58,5 +58,8 @@ evidence:
   - id: INS-260327-1B60
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260402-ED85
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Y Combinator's famous advice 'make something people want' got dramatically easier in the AI era. Instead of guessing what people want, founders can observe what people are already paying other humans to do — customer support, legal research, financial analysis, insurance adjusting. The TAM has expanded by 10-100x because you're no longer selling $20/month SaaS seats, you're capturing portions of the combined salaries companies spend on human labor for those tasks. This reframing transforms every professional service into a potential AI product opportunity.

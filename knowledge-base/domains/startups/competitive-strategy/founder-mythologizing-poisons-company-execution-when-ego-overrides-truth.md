@@ -52,10 +52,10 @@ stance: >-
   outcomes.
 related:
   - PRI-260328-604D
+  - INS-260403-7563
   - INS-260330-10CF
   - INS-260330-E695
   - INS-260330-636E
-  - INS-260330-90C3
 evidence:
   - id: INS-260330-90C3
     type: TRANSFERS_TO

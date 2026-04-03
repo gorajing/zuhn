@@ -58,5 +58,9 @@ related:
   - INS-260327-F405
   - INS-260327-7193
   - INS-260327-8DFE
+evidence:
+  - id: INS-260327-7193
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The framework implies a deeper principle: when your target customer is essentially a past version of yourself, you possess intuitive knowledge that no amount of customer interviews can replicate. You know the exact language they use, the emotional triggers that drive purchasing decisions, and the objections they'll raise — because you lived them. This creates a compounding advantage: your marketing resonates more deeply, your product decisions are more accurate, and your motivation is intrinsic rather than purely financial. Mercenary founders who pick markets based on TAM calculations often build adequate products but lack the conviction to push through the inevitable difficult periods. Missionary founders who serve their own tribe treat customer problems as personal affronts, producing disproportionate effort and creativity.

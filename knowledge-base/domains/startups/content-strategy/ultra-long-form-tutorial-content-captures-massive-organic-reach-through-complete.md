@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-5C65
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-BCCB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 This single 3.5-hour video has accumulated over 20 million views since 2018 — roughly 8 years of compounding organic traffic. The strategy contradicts the prevailing short-form content wisdom: rather than optimizing for algorithmic feed placement, ultra-long-form tutorials optimize for search intent satisfaction. When someone searches 'learn JavaScript,' a complete course that covers everything ranks higher and retains viewers longer than a 10-minute snippet.
 

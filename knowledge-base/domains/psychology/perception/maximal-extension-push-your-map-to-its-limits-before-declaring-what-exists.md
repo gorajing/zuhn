@@ -57,6 +57,9 @@ evidence:
   - id: INS-260323-7BA4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-1302
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Schwarzschild only mapped the 'northern hemisphere' of his solution. It took decades for others to realize the math allowed negative coordinates -- a whole 'southern hemisphere' and beyond. The maximally extended diagram revealed white holes, wormholes, and parallel universes hidden inside the simplest possible case.
 

@@ -55,6 +55,10 @@ related:
   - INS-260402-F772
   - INS-260329-AA30
 stance: In old media you could never correct a misinterpretation
+evidence:
+  - id: INS-260402-F772
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Ben Horowitz describes a16z's existential crisis: the NYT leaked early fund results, misinterpreted them, and there was no way to correct the record. That experience made a16z hyper-defensive about information control for years. But the physics of media have completely changed. In the old world, 8 channels (NYT, WSJ, CNN, etc.) had permanent monopoly on narrative. What they published was top of Google, uncorrectable, and permanent.
 

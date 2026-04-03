@@ -59,6 +59,9 @@ evidence:
   - id: INS-260323-9955
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-CA88
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Swanson argues there's a power law in business, venture, and life. Each month or quarter, there's typically one thing that if accomplished is worth more than everything else combined. Most people set too many goals and use the long list to procrastinate on the most important one.
 

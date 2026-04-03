@@ -59,6 +59,21 @@ evidence:
   - id: INS-260327-0D3C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-EBFD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8E45
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8C52
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-CEAE
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260402-2074
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In the Calvin Cycle, 3 molecules of RuBP are processed through carbon fixation and reduction to yield 6 molecules of G3P. But 5 of those 6 G3P molecules must be recycled to regenerate the starting RuBP. The net yield is just 1 G3P per full cycle turn — an 83% reinvestment rate that's invisible if you only look at gross production.
 

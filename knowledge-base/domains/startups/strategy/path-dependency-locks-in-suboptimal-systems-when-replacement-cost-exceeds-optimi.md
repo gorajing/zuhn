@@ -58,6 +58,10 @@ related:
   - INS-260330-C02D
   - PRI-260323-00C6
   - INS-260325-3C17
+evidence:
+  - id: INS-260330-C02D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 RuBisCo, the enzyme that fixes carbon in photosynthesis, evolved in a low-oxygen atmosphere and fails roughly half the time now that oxygen is abundant — grabbing O2 instead of CO2 and producing a toxic byproduct. Yet plants are so deeply committed to RuBisCo-based photosynthesis that they maintain ~40 billion tons of it on Earth and evolved entire secondary pathways just to clean up its mistakes.
 

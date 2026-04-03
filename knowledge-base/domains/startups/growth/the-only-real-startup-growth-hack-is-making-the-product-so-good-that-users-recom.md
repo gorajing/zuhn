@@ -59,6 +59,10 @@ related:
   - INS-260330-548B
   - INS-260330-E263
   - INS-260330-3AF9
+evidence:
+  - id: INS-260320-9935
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham repeatedly found that founders wanted to discuss launch timing, getting influential people to talk about them, and securing media exposure — all of which are test-hacking approaches to growth. The actual answer, which founders found shockingly simple, is that you get lots of users by making the product genuinely great, at which point users recommend it to friends and growth becomes exponential.
 

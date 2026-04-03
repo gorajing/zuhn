@@ -53,5 +53,8 @@ evidence:
   - id: INS-260327-96A5
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-A1D2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Nakamura's 18-month routine - modify the reactor in the morning, experiment in the afternoon, every single day with no weekends - was his core competitive advantage over labs with far more resources. His competitors at major universities and corporations used off-the-shelf MOCVD reactors they couldn't modify. Because Nakamura had spent 10 months assembling a reactor from scratch in Florida, he could customize it freely: adding a second nozzle for his two-flow design, adjusting it to brute-force indium gallium nitride growth. This mirrors the startup principle that iteration speed trumps initial resources. The 10 months of unglamorous reactor assembly that his PhD colleagues dismissed as 'technician work' became the foundation of three Nobel Prize-worthy breakthroughs.

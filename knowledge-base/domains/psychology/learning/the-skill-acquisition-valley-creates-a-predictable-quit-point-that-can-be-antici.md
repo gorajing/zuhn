@@ -52,6 +52,16 @@ related:
   - INS-260323-A700
   - INS-260323-DEC3
   - INS-260329-163B
+evidence:
+  - id: INS-260329-1FEE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-A700
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-DEC3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi describes the pattern where initial enthusiasm gives way to a period of feeling worse than when you started — you know enough to see how bad you are but not enough to be competent. This is where most people quit because they interpret the discomfort as evidence they chose wrong. But the valley is a universal feature of skill acquisition, not a signal about fit.
 

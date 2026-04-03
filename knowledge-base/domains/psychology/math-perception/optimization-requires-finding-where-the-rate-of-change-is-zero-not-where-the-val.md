@@ -57,6 +57,10 @@ related:
   - INS-260329-F4B2
   - INS-260329-7510
   - INS-260329-BC6C
+evidence:
+  - id: INS-260329-BC6C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The central technique of calculus-based optimization is counterintuitive: to find a maximum or minimum, you don't compare values — you find where the rate of change equals zero. This flips the naive approach (try everything, pick the best) into an analytical one (find the structural points where growth stops). First derivative test identifies candidates; second derivative test classifies them as peaks or valleys.
 

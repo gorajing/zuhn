@@ -44,6 +44,6 @@ related:
   - INS-260330-AA8B
   - INS-260402-27A1
   - INS-260402-D739
-  - INS-260327-8254
+  - INS-260403-7563
 ---
 YC's survey of 100+ founders found that failed startups overwhelmingly pointed to cofounder character—flaking, misaligned commitment—rather than ability gaps. Successful founders emphasized how much ongoing work the cofounder relationship requires, comparing it to a marriage rather than a work partnership. This is why YC's application weights commitment and relationship questions more heavily than technical ability. The implication is that cofounder selection should screen for stress-tested loyalty and shared sacrifice tolerance, not résumé optimization.

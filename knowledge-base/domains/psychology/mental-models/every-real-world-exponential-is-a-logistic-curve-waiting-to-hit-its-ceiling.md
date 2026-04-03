@@ -51,5 +51,12 @@ related:
   - INS-260330-1C84
   - INS-260330-1AB0
   - INS-260330-C499
+evidence:
+  - id: INS-260330-FE65
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C499
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Pure exponential growth requires infinite resources. In reality, every growth process encounters constraints — susceptible population in epidemics, total addressable market in business, available capital in investing, physical limits in technology. The logistic model captures this: growth starts exponential, inflects at the midpoint, then decelerates as it approaches the carrying capacity. The practical implication is that when you see exponential growth, the most important analytical question is not 'how fast is it growing?' but 'what is the limiting factor and how close are we to it?' Identifying the ceiling early lets you predict the inflection point — the moment growth starts slowing — which is invisible on linear charts but clear on logarithmic ones.

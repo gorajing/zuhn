@@ -49,6 +49,19 @@ related:
   - INS-260327-134F
   - INS-260327-B528
   - INS-260327-45BD
+evidence:
+  - id: INS-260327-E6B0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-7498
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-3431
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-78A0
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing the movement by converting it into another consumption opportunity.
 

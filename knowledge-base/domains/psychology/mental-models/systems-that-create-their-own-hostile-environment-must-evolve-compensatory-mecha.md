@@ -71,6 +71,27 @@ evidence:
   - id: INS-260330-BA7F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-0895
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-B71B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-48F2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-C134
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-F222
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2CFA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-0E77
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Photosynthetic organisms created the oxygen-rich atmosphere through their own light-dependent reactions. This success directly undermined their carbon fixation mechanism — RuBisCo evolved in low-oxygen conditions and now confuses O2 for CO2 roughly half the time, producing toxic phosphoglycolate that must be broken down through additional enzymatic pathways. Plants compensate by producing massive quantities of RuBisCo and maintaining low oxygen levels inside leaves (which is why stomata regulation matters).
 

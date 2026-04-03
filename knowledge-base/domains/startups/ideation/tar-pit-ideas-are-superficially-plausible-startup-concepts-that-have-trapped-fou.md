@@ -63,6 +63,10 @@ related:
   - INS-260329-ABD9
   - INS-260330-3591
   - INS-260330-C0B9
+evidence:
+  - id: INS-260330-3591
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 YC has seen the same set of startup ideas applied batch after batch for decades. These 'tar pit ideas' share a common pattern: they center on a widespread problem that lots of potential founders encounter, and the solution seems obviously buildable. The classic example is 'app to coordinate plans with friends' — everyone has this problem, you can immediately imagine the app, yet in 20 years nobody has made it work.
 

@@ -56,6 +56,10 @@ related:
   - INS-260329-90C3
   - INS-260330-64D8
   - INS-260330-AA77
+evidence:
+  - id: INS-260329-21C0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In ordinary arithmetic, 2+1 equals 1+2. But with transfinite ordinals, placing one element before omega just uses up all the naturals and leaves order type omega — the element gets absorbed. Placing one element after omega requires all natural labels plus one more, giving order type omega+1. The operation is identical (adding one element), but the position matters fundamentally.
 

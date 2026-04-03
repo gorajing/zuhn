@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-B3D5
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-E497
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Carroll's icefish example is a powerful illustration of conditional advantage. These fish evolved antifreeze proteins and eliminated red blood cells entirely to survive in sub-freezing Antarctic waters. Losing red blood cells reduced blood viscosity in extreme cold — a net positive there. But in any other ocean, the same adaptation is instantly lethal.
 

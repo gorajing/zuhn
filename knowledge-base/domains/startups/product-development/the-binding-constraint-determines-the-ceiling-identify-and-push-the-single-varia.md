@@ -72,6 +72,9 @@ evidence:
   - id: INS-260322-2D57
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-A3EB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The Carnot efficiency equation reveals that jet engine efficiency equals 1 minus (cold temperature / hot temperature). Since you can't control the outside air temperature much (you already fly at 35,000 feet where it's -55C), the only lever is raising combustion chamber temperature. But the maximum temperature is set by what the turbine blades can survive. This makes turbine blade metallurgy the binding constraint for the entire $800B+ aviation industry.
 

@@ -68,6 +68,9 @@ evidence:
   - id: INS-260329-D75D
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 CS50 Python doesn't teach functions, then separately teach file I/O, then separately teach OOP. Instead, it builds a single expanding mental model where each new concept layers onto and transforms understanding of previous ones — functions become methods, variables become attributes, scripts become modules. This layering means every new concept is learned in the context of all previous ones.
 

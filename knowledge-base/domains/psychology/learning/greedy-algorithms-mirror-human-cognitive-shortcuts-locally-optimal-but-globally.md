@@ -56,5 +56,11 @@ evidence:
   - id: INS-260330-C31B
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-2AB9
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-3C79
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Greedy algorithms make the locally best choice at each step without backtracking — like Dijkstra's shortest path. Humans do the same thing with cognitive biases: we pick the option that looks best right now without considering the full problem space. The CS insight is that greedy approaches work well when the problem has 'optimal substructure' (local optima lead to global optima), but fail catastrophically when they don't. Applied to decision-making: greedy is fine for routine decisions with predictable outcomes, but for high-stakes choices with complex dependencies (career moves, architecture decisions, investment strategies), you need the equivalent of dynamic programming — break the problem down, consider sub-problems, and factor in future states.

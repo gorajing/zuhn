@@ -78,5 +78,14 @@ evidence:
   - id: INS-260323-19A8
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-D61A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-F7B2
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-55C4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Ross notes that 'with Cursor after a certain point it gets really messy and the hallucinations get more frequent' while Windsurf 'could be slow to start but then it does a better job later on.' This suggests AI coding tools have different context window management strategies that produce distinct degradation curves. For a 37-minute app build with multiple screens, a 'late-strength' tool like Windsurf is better than an 'early-strength' tool like Cursor. The practical implication is that tool selection should depend on session length and project complexity, not just raw capability. This is an underappreciated dimension of AI tool evaluation that most benchmarks miss entirely.

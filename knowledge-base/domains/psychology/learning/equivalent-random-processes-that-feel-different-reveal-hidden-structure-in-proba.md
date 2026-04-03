@@ -61,5 +61,8 @@ evidence:
   - id: INS-260402-3FD8
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-0C20
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Putnam problem's solution hinges on recognizing that 'choosing a random point on a circle' is equivalent to 'choosing a random line through the center and flipping a coin for which endpoint.' These produce identical distributions, but the second framing transforms continuous probability into discrete coin flips. Once reframed, the answer falls out immediately: 4 equally likely outcomes, exactly 1 favorable, probability = 1/4. This technique — finding equivalent random processes — is arguably the most powerful tool in probability theory. It's how you solve the Monty Hall problem (equivalent game with 100 doors), birthday paradox (reframe as sequential non-collision), and countless others. The broader principle: when a system's behavior is hard to analyze, find an equivalent system that exposes the combinatorial structure. The difficulty is never in the math — it's in seeing the equivalence.

@@ -52,6 +52,10 @@ related:
   - INS-260330-D2D2
   - INS-260325-486C
   - PRI-260325-5760
+evidence:
+  - id: INS-260325-486C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Terry Tao proved that 'almost all' Collatz sequences eventually reach an arbitrarily small value — the strongest result to date, and he called it 'as close as one can get without actually solving it.' Yet this doesn't prove the conjecture. The video illustrates why with perfect squares: 10% of numbers up to 100 are perfect squares, 3.1% up to 1,000, trending to 0% — so 'almost all' numbers are not perfect squares. Yet there are infinitely many perfect squares and we know exactly where they all are.
 

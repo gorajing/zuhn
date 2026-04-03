@@ -92,6 +92,12 @@ evidence:
   - id: INS-260329-D75D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-04FA
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 This 48M-view Python tutorial structures its entire 4.5 hours around progressively complex projects rather than isolated concept lectures. Variables are introduced through a mad-libs project, control flow through a guessing game, data structures through a translator, and OOP through a quiz system. Each project naturally requires the learner to combine newly introduced concepts with previously learned ones.
 

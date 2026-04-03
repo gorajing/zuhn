@@ -59,6 +59,9 @@ evidence:
   - id: INS-260326-6C36
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-E2F5
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Jesus never ran a country; Muhammad did almost from the beginning. This founder-era difference created a permanent structural divergence: Christianity developed separate traditions of civic and religious law, while Islam's sharia encompasses both domains. The pattern wasn't an accident of theology — it was a consequence of the founder's lived role.
 

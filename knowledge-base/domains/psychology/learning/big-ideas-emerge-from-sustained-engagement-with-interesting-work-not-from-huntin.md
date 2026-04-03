@@ -51,11 +51,15 @@ stance: >-
   breakthroughs congeal naturally from deep engagement with problems that
   genuinely interest you.
 related:
-  - INS-260330-31B5
   - INS-260402-8223
   - INS-260402-5522
+  - INS-260403-2949
   - INS-260402-1414
   - INS-260327-4EDE
+evidence:
+  - id: INS-260402-1414
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham argues that big ideas appear as a byproduct of deep familiarity with a domain, not from top-down searching. Einstein, Ford, and Beckenbauer all 'knew their work like a piano player knows the keys,' and this deep familiarity is what allowed them to notice when something seemed amiss. The great question emerges from the anomaly, not from the search.
 

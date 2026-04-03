@@ -54,6 +54,10 @@ related:
   - INS-260330-2119
   - INS-260330-41F6
   - INS-260330-E786
+evidence:
+  - id: INS-260330-E786
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Photosynthesis splits water molecules to replace electrons lost during photoexcitation of chlorophyll. The oxygen released is, from the plant's perspective, a useless waste product — a 'useless byproduct' as the source puts it. Yet this waste product is what enabled the entire animal kingdom, aerobic respiration, and complex multicellular life.
 

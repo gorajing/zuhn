@@ -63,6 +63,12 @@ evidence:
   - id: INS-260329-50C0
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260329-E20C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-B7F5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 This 4.5-hour video has accumulated 8.9 million views since 2018 — roughly 1.1M views per year sustained over 8 years. This longevity comes from search dominance: when someone searches 'C# full course for beginners,' a single comprehensive result wins over a 20-part playlist because it requires zero navigation decisions from the viewer.
 

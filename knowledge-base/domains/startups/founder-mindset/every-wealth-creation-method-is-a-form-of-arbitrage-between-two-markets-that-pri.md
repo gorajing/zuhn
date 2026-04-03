@@ -58,5 +58,8 @@ evidence:
   - id: INS-260323-3D7D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-0921
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi explicitly names arbitrage at the end but the pattern runs through every example: a real estate flipper buys a building in a market of unmotivated sellers and sells to a market of motivated buyers. An options trader locks in today's price and profits from tomorrow's higher market. A commission salesperson bridges a seller's asset to a buyer's willingness to pay. Even affiliate marketing is information arbitrage — you've done the research the audience hasn't, and they pay (via your affiliate link) for the shortcut. Recognizing this meta-pattern is useful because it tells you where to look for opportunity: find any asset, skill, or information that's priced differently in two accessible markets. The bigger the pricing gap and the lower the friction to bridge it, the larger the profit.

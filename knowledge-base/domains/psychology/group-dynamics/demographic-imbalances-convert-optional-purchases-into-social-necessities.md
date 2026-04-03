@@ -69,6 +69,9 @@ evidence:
   - id: INS-260327-20F4
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260324-4ACD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 China's One Child Policy produced approximately 35 million more men than women (roughly Canada's entire population). In this competitive marriage market, men are expected to own at least one property before being considered as partners. This transforms real estate from an economic investment into a social necessity — families pool resources across generations to help sons purchase homes, regardless of price-to-income ratios that would be considered absurd elsewhere (Shenzhen's average income is $7,500 vs. property prices exceeding LA).
 

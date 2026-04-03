@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-E093
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-0406
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Napoleon arrived in Italy as a 26-year-old unknown commanding a demoralized army. He had no reputation to protect and everything to gain. His Austrian opponents were experienced but cautious commanders who feared the career consequences of defeat. This asymmetry — risk-taker vs. reputation-protector — gave Napoleon repeated tactical advantages. He could gamble on speed and surprise because failure cost him little (he was nobody), while his opponents played conservatively because failure would end distinguished careers.
 

@@ -75,6 +75,24 @@ evidence:
   - id: INS-260327-0D82
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-FDB8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-BEE6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-4FED
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-8733
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-58E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-9BA2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Alexander observes a striking irony: 4chan's 'It's Okay To Be White' campaign was essentially an application of Adams' own persuasion playbook — say something completely inoffensive, ensure everyone knows it has a secret offensive meaning, then retreat to 'What? You can't be upset at our totally inoffensive thing!' when challenged. This tactic didn't fool woke critics at all (people wearing the t-shirts got treated exactly as if wearing swastikas). The only person it apparently fooled was Adams himself, 'the professional not-being-fooled-by-political-manipulation expert,' who took the resulting poll at face value and made career-ending comments based on it.
 

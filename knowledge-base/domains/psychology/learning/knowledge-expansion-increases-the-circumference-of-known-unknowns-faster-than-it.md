@@ -61,6 +61,13 @@ related:
   - INS-260330-0102
   - INS-260402-E76D
   - INS-260403-AB5C
+evidence:
+  - id: INS-260329-1E81
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-0102
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Einstein illustrated this with geometry: if knowledge is a circle's area, then ignorance is its circumference. Area grows as πr², but circumference grows as 2πr — so while both expand, the ratio of circumference to area (known-unknowns per unit of knowledge) actually decreases, yet the absolute frontier of darkness always outpaces any single learner's ability to fill it. The field of agnotology formalizes this, studying how ignorance is produced and maintained.
 

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260327-C5D9
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-2242
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi worked from 4am to noon with zero meetings during his breakthrough period. The rationale is stage-dependent: at the zero-to-$5M stage, you don't have enough team leverage for delegation to outproduce your personal output. You need to be doing, not directing. His current routine is different because he has 20 people who can execute — their combined output exceeds what he could do alone, so his time is better spent directing.
 

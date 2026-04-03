@@ -49,6 +49,12 @@ evidence:
   - id: INS-260325-F50C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-A69D
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-7B05
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Plant-based meat alternatives that position themselves as replacements for meat face rejection when taste comparison inevitably disappoints, because the ethical positioning raises taste expectations rather than lowering them.
 

@@ -55,6 +55,19 @@ related:
   - INS-260329-87BA
   - INS-260329-5A24
   - INS-260330-C8E1
+evidence:
+  - id: INS-260325-887D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-CF3E
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-5A24
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C8E1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Three failure response frameworks exist: 'forgive and forget' (no accountability, no learning), the 'Silicon Valley standard' of blame and stigmatize (creates cover-your-ass culture, kills admission of mistakes), and 'forgive and remember' (drawn from hospitals that learn from medical errors). The third approach works because forgiveness creates the psychological safety needed for people to admit mistakes, while remembering ensures systematic extraction of lessons.
 

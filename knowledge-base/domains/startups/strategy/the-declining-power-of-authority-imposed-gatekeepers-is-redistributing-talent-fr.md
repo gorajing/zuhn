@@ -56,6 +56,10 @@ related:
   - INS-260402-C664
   - INS-260329-8986
   - INS-260402-AA3F
+evidence:
+  - id: INS-260329-8986
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham identifies a macro trend: the link between work and authority is eroding across many domains. Writers no longer need publishers, founders can reach customers directly, and making cool things can now make you rich — something that wasn't true in the mid-twentieth century oligopoly economy. This erosion starves test-hacking fields of talent while creating an influx of ambitious people into fields where genuine work wins.
 

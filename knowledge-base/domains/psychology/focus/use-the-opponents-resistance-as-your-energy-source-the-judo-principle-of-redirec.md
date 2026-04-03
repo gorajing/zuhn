@@ -52,6 +52,16 @@ related:
   - INS-260323-CE39
   - INS-260330-E3D3
 stance: 'In judo, you press until the opponent presses back'
+evidence:
+  - id: INS-260323-71B3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-BEE6
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-CE39
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Travis Stevens demonstrates his signature seonagi technique: press the opponent until they resist, and the moment they push back, redirect that energy into the throw. 'I press them until they press back hard enough where we go from this angle to up, and then I can slide.' The key is that the opponent's own force creates the conditions for the throw.
 

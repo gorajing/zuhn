@@ -56,6 +56,13 @@ related:
   - INS-260330-47CF
   - INS-260330-8C52
   - INS-260330-696D
+evidence:
+  - id: INS-260330-E068
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1298
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Glycolysis perfectly illustrates the bootstrap paradox: you need ATP to make ATP. The cell must invest 2 ATP molecules to destabilize glucose enough to split it, only then earning 4 ATP for a net gain of 2. This mirrors startup economics where you must spend capital (hiring, infrastructure, marketing) before generating revenue.
 

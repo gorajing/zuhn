@@ -60,6 +60,9 @@ evidence:
   - id: INS-260320-D4BD
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-A1D2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The tech industry reveals a general principle: industries built on efficiency and automation will eventually apply those principles to their own operations. When CEOs announce AI can replace entry-level programmers, they apply the same logic that disrupted taxi drivers and retailers.
 

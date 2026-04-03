@@ -66,5 +66,11 @@ evidence:
   - id: INS-260402-E11A
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260330-2B3F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-8E9B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The conventional understanding of 'taste' focuses on aesthetics — dark mode, button placement, visual polish. Dalton and Michael redefine it as something more fundamental: the ability to honestly assess whether your product actually helps users. Slop is fundamentally self-deception — knowing deep down that your product isn't good but convincing yourself otherwise because the tools make building feel productive and the graphs go up. The test is simple: after sleeping on it and looking with fresh eyes, would you genuinely stand behind the work? People who insist loudly about their great taste are definitionally the ones who lack it. Real taste manifests as high standards, genuine care about what you release, and willingness to stamp your name on the output.

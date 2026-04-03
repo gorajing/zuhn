@@ -57,6 +57,13 @@ related:
   - INS-260329-E208
   - INS-260329-E900
   - PRI-260325-E41B
+evidence:
+  - id: INS-260329-E208
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-E900
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In the 1960s, Aaron Beck and Albert Ellis developed cognitive behavioral therapy after reading Stoic philosophers. Both cited Marcus Aurelius and Epictetus as direct influences. CBT has since become the most empirically validated form of psychotherapy, with extensive studies demonstrating its efficacy.
 

@@ -55,6 +55,9 @@ evidence:
   - id: INS-260330-A3B7
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-5C1D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 
 91 unit tests all passed, but an automated spec audit found 12 issues —

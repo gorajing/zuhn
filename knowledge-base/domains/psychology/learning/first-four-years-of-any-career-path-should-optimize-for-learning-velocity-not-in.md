@@ -57,6 +57,25 @@ related:
   - INS-260329-9F81
   - INS-260329-9A58
   - INS-260330-4341
+evidence:
+  - id: INS-260329-EFA8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-50BD
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-32A4
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-9F81
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4341
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that both college and career paths share the same fundamental objective in the first four years: becoming a professional learner. The difference is merely the direction money flows — you either pay to learn (college) or get paid while learning (career). People who optimize for early income miss the compounding effect of skill acquisition. Someone who spends four years learning sales, operations, or a trade while getting paid will be dramatically better positioned than someone who optimized for a slightly higher starting salary but learned less.
 

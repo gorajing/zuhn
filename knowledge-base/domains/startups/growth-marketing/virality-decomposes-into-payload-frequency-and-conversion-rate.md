@@ -47,5 +47,9 @@ related:
   - INS-260330-20F7
   - INS-260329-FB3F
   - INS-260329-7510
+evidence:
+  - id: INS-260329-7510
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Sean Parker's virality framework decomposes viral growth into three variables: payload (people reached per blast), frequency (how often it repeats), and conversion rate (percentage who convert). Hotmail had low payload but high frequency and conversion. PayPal had low payload and frequency but near-perfect conversion on the seller side. Facebook was not viral through any product mechanism but grew through pure word-of-mouth. The K-factor calculation shows even optimistic assumptions often yield K below 1, making retention the more reliable growth engine.

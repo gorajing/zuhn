@@ -69,5 +69,11 @@ evidence:
   - id: INS-260329-02B3
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260326-841D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-FFA7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The entire calculus derivation hinges on a specific cognitive move: accept an approximation (ring ≈ rectangle), then show that the error vanishes as you refine. 3Blue1Brown emphasizes this: 'the way we transitioned from something approximate to something precise is actually pretty subtle and cuts deep to what calculus is all about.' Most people treat approximation as a lesser form of knowing — a concession when you can't get the exact answer. But the video reveals it as the primary epistemic strategy: you REACH precision THROUGH approximation. This transfers directly to estimation in business (Fermi estimation), iterative development in software (MVP → refined product), and even decision-making under uncertainty. The key is holding two things simultaneously: the approximation IS wrong, AND it converges to truth as you refine. This tolerance for productive imprecision is a trainable skill.

@@ -56,6 +56,7 @@ related:
   - INS-260403-0907
   - PRI-260327-3BD9
   - INS-260323-0603
+  - INS-260403-6F52
 ---
 Graham identifies a subtle but powerful mechanism: years of writing ten-page papers when you have one page of ideas trains everyone to treat communication as filling a fixed container rather than conveying truth. This training is so deep that most founders don't even consider whether what they're saying is actually convincing — they treat the need to present as a given and spread whatever truth they have as thinly as needed.
 

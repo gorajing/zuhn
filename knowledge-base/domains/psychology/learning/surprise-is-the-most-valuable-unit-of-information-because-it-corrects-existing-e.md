@@ -54,6 +54,13 @@ related:
   - INS-260402-E76D
   - INS-260330-12DC
   - INS-260330-5BC4
+evidence:
+  - id: INS-260321-2564
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-5BC4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham distinguishes between facts you didn't know and facts that contradict things you thought you knew. Surprises fall in the second category, which makes them 'like a food that's not merely healthy, but counteracts the unhealthy effects of things you've already eaten.' He even developed a practical technique: asking travelers 'what surprised you?' to extract information they didn't know they were recording.
 

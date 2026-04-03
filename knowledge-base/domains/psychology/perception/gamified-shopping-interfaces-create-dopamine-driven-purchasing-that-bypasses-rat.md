@@ -55,6 +55,13 @@ related:
   - PRI-260328-FD90
   - INS-260330-4605
   - INS-260328-C12D
+evidence:
+  - id: INS-260327-AC84
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260328-C12D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Temu's app uses classic gambling mechanics: spinning wheels with random rewards, countdown timers creating urgency, flash deals creating scarcity, and achievement badges for purchasing. These mechanics activate the brain's reward system — the same dopamine pathways that make slot machines addictive — bypassing the rational product evaluation that would normally prevent frivolous purchases.
 

@@ -61,6 +61,12 @@ evidence:
   - id: INS-260323-2785
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-4329
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-E8BD
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Steven Strogatz argues that while reductionism has been phenomenally successful across every branch of science, the great frontier is reassembling parts to understand wholes. We don't understand the immune system, consciousness, or the economy well precisely because their important properties emerge from interactions between components, not from the components themselves.
 

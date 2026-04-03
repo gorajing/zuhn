@@ -51,6 +51,13 @@ related:
   - INS-260330-A38C
   - INS-260329-B0BA
   - INS-260403-F447
+evidence:
+  - id: INS-260402-7FCC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-A954
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Krieger, who shut down Artifact (his AI news startup with Instagram co-founder Kevin Systrom), advises founders to proactively check in with investors when things aren't working. Many founders carry unnecessary guilt, assuming investors expect them to keep going. In reality, investors have seen many companies fail and often recognize when it's time to move on before the founder does.
 

@@ -56,6 +56,10 @@ related:
   - INS-260327-8E9B
   - INS-260330-C7B5
   - INS-260403-6428
+evidence:
+  - id: INS-260403-6428
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The video catalogs a hierarchy of tool-based identity: VS Code users < Vim users < Ubuntu users < Red Hat users < Arch users. The humor works because these preferences genuinely function as tribal identity markers in developer culture — 'I use Arch btw' is both meme and real social signaling.
 

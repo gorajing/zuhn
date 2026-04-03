@@ -73,6 +73,9 @@ evidence:
   - id: INS-260330-4441
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260330-E497
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Early photosynthetic organisms evolved RuBisCo to fix carbon in an atmosphere with almost no oxygen. The light-dependent reactions produced oxygen as a 'useless byproduct.' But as photosynthetic organisms dominated Earth, they fundamentally changed the atmosphere — filling it with oxygen. This environmental shift caused RuBisCo to malfunction, grabbing oxygen instead of CO2 roughly half the time and producing a toxic byproduct (phosphoglycolate) that plants then had to evolve elaborate detoxification pathways to handle.
 

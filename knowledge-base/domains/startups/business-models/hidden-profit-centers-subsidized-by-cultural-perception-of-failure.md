@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-D9A4
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-CB07
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The gap between Bing's cultural reputation (a punchline) and its financial reality ($5B/year profit) reveals a systematic bias in how people evaluate business success. The default mental model is that market share equals success, but Bing demonstrates that a product with minority market share can be enormously profitable when it occupies a strategic position in a larger ecosystem.
 

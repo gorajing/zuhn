@@ -53,6 +53,10 @@ related:
   - INS-260330-6C09
   - PRI-260328-3FEF
   - INS-260329-64A3
+evidence:
+  - id: INS-260329-64A3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When you take the logarithm of a Collatz sequence and remove the linear trend, the residual fluctuations are statistically indistinguishable from a random coin flip — geometric Brownian motion, the same model underlying stock market behavior. Yet the underlying rule (multiply by 3 and add 1, or divide by 2) is completely deterministic.
 

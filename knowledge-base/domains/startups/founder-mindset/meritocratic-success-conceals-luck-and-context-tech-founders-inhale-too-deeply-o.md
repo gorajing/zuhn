@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-32F1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260402-C4FF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Sandel argues meritocracy has a dark side that persists even when chances are truly equal. The successful 'inhale too deeply of their own success,' forgetting two forms of luck: first, having the talents you have is not your doing; second, living in a society that happens to prize your particular talents is historical contingency. Had LeBron James lived during the Italian Renaissance, his athletic gifts would earn him nothing — they cared about fresco painters.
 

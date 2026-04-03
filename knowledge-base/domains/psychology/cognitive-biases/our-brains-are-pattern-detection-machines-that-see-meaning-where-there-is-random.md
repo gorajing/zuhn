@@ -71,6 +71,9 @@ evidence:
   - id: INS-260325-436A
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260402-3FD8
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Prehistoric survival favored over-detection of patterns. If rustling grass might be a saber-tooth tiger, the cost of a false positive (unnecessary caution) is much lower than a false negative (death). Through natural selection, our brains became hyper-attuned to pattern detection.
 

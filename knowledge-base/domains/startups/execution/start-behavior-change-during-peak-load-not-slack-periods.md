@@ -56,6 +56,13 @@ related:
   - INS-260330-968D
   - INS-260330-BCAF
   - INS-260330-E61E
+evidence:
+  - id: INS-260330-968D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-BCAF
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The conventional wisdom is to wait for a calm period to introduce new behaviors, but this creates a fragile habit that collapses the moment conditions worsen. If a behavior change is contingent on having free time, then the moment you get busy again, the habit stops. This is the 'when-then fallacy' — believing you need conditions X before you can do Y, when actually doing Y under current conditions is what creates durable change.
 

@@ -69,6 +69,9 @@ evidence:
   - id: INS-260323-FE33
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-6117
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The course opens its treatment of limits with the sushi bar example: food costs $10/pound, except exactly 1 pound is free. The price function has a limit of $10 as weight approaches 1 pound, even though the actual price at exactly 1 pound is $0. This immediately establishes a counterintuitive principle: the limit is about the trend, not the destination. A function can have a hole, a jump, or even be completely undefined at a point, and still have a well-defined limit there.
 

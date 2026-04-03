@@ -60,6 +60,9 @@ evidence:
   - id: INS-260329-A9C0
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260321-EE05
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The fundamental flaw with screen time limits is that they assume the harm is proportional to minutes of use. In reality, even brief sessions on social media trigger dopamine spikes followed by dopamine deficits that drive persistent craving and mental preoccupation throughout the day.
 

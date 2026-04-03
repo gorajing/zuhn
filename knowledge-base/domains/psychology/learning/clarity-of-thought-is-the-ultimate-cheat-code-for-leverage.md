@@ -53,6 +53,19 @@ related:
   - INS-260323-DEEA
   - INS-260330-3CD9
   - INS-260330-47FB
+evidence:
+  - id: INS-260330-DB4B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-6F7B
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-3CD9
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-47FB
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Naval claims that 99% of effort in life is effectively wasted — not that you learn nothing, but that the outcomes are inconsequential. Only about 1% of decisions actually matter. Clear thinking improves your ratio from 99:1 to perhaps 80:20, which is a 5x improvement in life outcomes. The mechanism is that modern leverage (code, media, capital, labor) magnifies the impact of good decisions, so judgment quality has nonlinear returns.
 

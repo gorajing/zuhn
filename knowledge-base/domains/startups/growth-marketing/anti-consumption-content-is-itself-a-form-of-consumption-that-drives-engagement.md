@@ -60,6 +60,12 @@ evidence:
   - id: INS-260325-803C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-86FE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-D832
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The rise of 'underconsumption core,' 'anti-haul,' and decluttering content appears to be a rejection of consumerism. But these movements generate enormous engagement and, paradoxically, drive their own form of commerce: minimalist products, capsule wardrobe brands, sustainable alternatives. The anti-consumption identity becomes just another consumable identity, with its own required products and signals.
 

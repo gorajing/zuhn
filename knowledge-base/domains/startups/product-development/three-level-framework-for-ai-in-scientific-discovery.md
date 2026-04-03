@@ -60,5 +60,11 @@ evidence:
   - id: INS-260323-8519
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260402-F957
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-70A8
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Le Cong proposes a three-level framework. Level 1: AI co-pilots that help researchers write papers, analyze data, and design experiments (like CRISPR-GPT). Level 2: autonomous AI scientists that can independently run experiments and iterate — imagine 200 AI scientists working for the cost of GPU compute. Level 3: virtual research environments that model entire cells, genomes, or diseases computationally, making the feedback loop as fast as writing code. The vision: what if biology could be as fast as computer science? Each level represents a 10x acceleration in scientific discovery speed. For startups, the immediate opportunity is Level 1 (co-pilots for specific scientific domains), with Level 2 emerging and Level 3 as the long-term moonshot.

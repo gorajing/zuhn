@@ -86,6 +86,9 @@ evidence:
   - id: INS-260323-C8AC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-747B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Richard Duffy presents stark data from Ebsta and Pavilion across millions of sales interactions: pipeline dropped 47% quarter-on-quarter, average deal value dropped 32%, win rates decreased significantly, sales cycles lengthened 32%, and the number of people involved in deals increased 33% on both sides. CFOs are now the de facto economic buyer even for non-financial purchases.
 

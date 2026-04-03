@@ -47,6 +47,6 @@ related:
   - INS-260329-9E6C
   - INS-260325-05FC
   - INS-260329-E8EB
-  - INS-260321-7D7C
+  - INS-260403-2949
 ---
 Hormozi argues that the instinct to diversify — multiple businesses, side projects, income streams — is counterproductive for most people. Compounding only works when effort feeds back into the same system over time. Switching domains resets the compounding clock. This applies beyond business: skills, relationships, and reputation all compound faster with sustained depth. The lesson is particularly relevant for founders who feel pressure to diversify early rather than doubling down on what's already working. The math of compounding means even small advantages in one domain, maintained over years, dramatically outperform large but scattered efforts.

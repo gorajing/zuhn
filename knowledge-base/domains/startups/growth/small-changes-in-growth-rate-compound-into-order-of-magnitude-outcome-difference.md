@@ -61,6 +61,19 @@ related:
   - INS-260330-78B1
   - INS-260330-37F6
   - INS-260330-4B16
+evidence:
+  - id: INS-260330-9935
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8FE7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-6AA3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260402-4BC7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In epidemic modeling, reducing the transmission rate from 1.15 to 1.05 per day doesn't just make the curve slightly gentler — it can reduce total infections by an order of magnitude or more. The same math applies to any compounding system: startup revenue, content virality, user adoption, or investment returns.
 

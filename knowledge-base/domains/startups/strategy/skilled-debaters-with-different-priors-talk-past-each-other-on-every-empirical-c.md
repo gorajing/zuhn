@@ -69,6 +69,9 @@ evidence:
   - id: INS-260323-9AA5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-420B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Throughout the 2.5-hour debate, Shapiro and Destiny agree on many factual premises (education matters, two-parent households correlate with outcomes, marriage rates are declining) but consistently reach opposite conclusions. Shapiro interprets declining marriage as a moral regression requiring cultural restoration. Destiny interprets it as an economic consequence of delayed career starts and rising costs, requiring systemic intervention.
 

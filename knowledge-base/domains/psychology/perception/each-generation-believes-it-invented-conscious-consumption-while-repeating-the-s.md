@@ -49,6 +49,13 @@ related:
   - INS-260327-B528
   - PRI-260328-909D
   - PRI-260328-BF67
+evidence:
+  - id: INS-260325-A46E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-194D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 From 1970s environmentalism to 2020s underconsumption-core, each generation believes it has uniquely discovered overconsumption. Each launches movements and declares change. Each eventually resumes consuming because the psychological drivers — status signaling, hedonic adaptation, identity construction — are deeper than any cultural movement can override.
 

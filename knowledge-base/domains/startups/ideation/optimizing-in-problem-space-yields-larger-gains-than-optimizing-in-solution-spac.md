@@ -58,5 +58,11 @@ evidence:
   - id: INS-260330-77E2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-03D5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-64D8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham highlights a critical asymmetry: when something is hard, the default advice is to work harder, but in startups the right move is often to find a different problem that's easier for you to solve. Pure determination without flexibility is a greedy algorithm that converges on a local maximum. The founders who succeeded learned to treat their idea as a hypothesis and iterate rapidly in problem-space rather than solution-space. This reframes pivoting not as failure but as the highest-leverage activity available—and explains why fast iteration speed correlates with startup success more than initial idea quality.

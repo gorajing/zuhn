@@ -80,6 +80,9 @@ evidence:
   - id: INS-260330-3DB2
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-9A46
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Clair Patterson's journey illustrates how investment in measurement infrastructure compounds in unexpected ways. His original goal was narrow: measure the ratio of uranium to lead in meteorites to determine Earth's age. But his lead measurements were contaminated by environmental lead from decades of leaded gasoline use. Rather than work around the problem, he built extreme infrastructure — tearing out lead-soldered electrical cables, cleaning daily with ammonia, requiring plastic bunny suits, essentially inventing the cleanroom.
 

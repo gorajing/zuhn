@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-9524
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-0102
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 CS50 deliberately introduces common mistakes (off-by-one errors, mutable default arguments, variable shadowing) and walks through the debugging process rather than presenting only correct code. This mirrors research on desirable difficulties in learning — when learners encounter and resolve confusion, they form more durable mental models than when spoon-fed correct answers.
 

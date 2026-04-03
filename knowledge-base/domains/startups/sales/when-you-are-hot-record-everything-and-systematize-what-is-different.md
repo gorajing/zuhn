@@ -58,6 +58,10 @@ related:
   - INS-260330-A78C
   - PRI-260327-7A68
   - INS-260323-334D
+evidence:
+  - id: INS-260323-334D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Every salesperson experiences hot streaks where everything seems to click. Most attribute it to luck or superstition ('my lucky socks'). But hot streaks aren't magic -- they're periods where your tone, pacing, transitions, question timing, and frame control are all slightly but measurably different from your baseline.
 

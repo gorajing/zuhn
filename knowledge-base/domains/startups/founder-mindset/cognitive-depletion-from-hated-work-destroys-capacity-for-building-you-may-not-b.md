@@ -62,6 +62,15 @@ evidence:
   - id: INS-260328-AE33
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260325-E0D5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-3B69
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260403-449A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The 'trapped employee' isn't lazy — they're cognitively depleted. Research on cognitive depletion shows that repetitive tasks that violate your values drain your brain's actual capacity. You can't learn new skills, execute long-term plans, or build on nights and weekends because you literally don't have the processing power left.
 

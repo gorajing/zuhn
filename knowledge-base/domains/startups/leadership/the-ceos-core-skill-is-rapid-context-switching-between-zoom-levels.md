@@ -58,5 +58,8 @@ evidence:
   - id: INS-260323-48AF
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-2B3F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Mati identifies three CEO archetypes: always in the details, always at high altitude, or 'spelunkers' who go deep in one thing then surface. He aspires to a fourth mode: the rapid zoom. You need to understand the product better than most, stay extremely detailed about what's shipping and how, but then zoom out to the next strategic problem in the next second. His co-founder, who leads research, needs the opposite: sustained deep focus for long periods. They frequently discuss their fundamentally different approaches — one is all about context switching, the other about going as deep as possible. The tension between these modes is healthy for the company: the CEO scans and prioritizes across all fronts while the technical co-founder maintains depth. This division of cognitive labor may be the real reason co-founder pairs are more effective than solo founders.

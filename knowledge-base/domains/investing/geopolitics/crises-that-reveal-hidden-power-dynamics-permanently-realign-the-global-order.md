@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-ACE7
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-6428
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Before Suez, Britain maintained the fiction of being a first-rank power. Everyone suspected otherwise, but the fiction had institutional momentum. Suez shattered that fiction publicly: the whole world watched Britain submit to American financial pressure. After that, no one — including the British themselves — could pretend otherwise. The power transition was already real; Suez just made it undeniable.
 

@@ -56,6 +56,10 @@ related:
   - INS-260325-2AA0
   - PRI-260328-22EC
   - INS-260327-AEFA
+evidence:
+  - id: INS-260325-A070
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kean notes that experimental archaeology has not solved the pyramid construction mystery, but it has made a crucial contribution by ruling out the most popular theory. When researchers actually tried building ramps and using log rollers, they failed completely. Log rollers are non-uniform, slip everywhere, and can't be practically managed while pushing five-ton blocks uphill. Scale calculations show ramps would need to be over a mile long and contain more material than the pyramid itself.
 

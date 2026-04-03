@@ -56,6 +56,13 @@ related:
 stance: >-
   Losing his father sobered McConaughey up to the 'mendacities' consuming his
   daily emotional energy, making him realize most anxieties are insignifi...
+evidence:
+  - id: INS-260323-FA30
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-3A54
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 McConaughey describes how confronting death — specifically losing his father — created a brutal clarity about what matters. He suddenly saw how much emotional energy he was spending on things that didn't deserve it: petty social dynamics, minor disappointments, imagined obstacles. Death strips the pretense away.
 

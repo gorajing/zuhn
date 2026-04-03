@@ -50,7 +50,6 @@ stance: >-
   narrative, and the recent value crash reveals the distinction.
 related:
   - INS-260323-750A
-  - INS-260324-6345
   - PRI-260328-2C4C
   - INS-260327-C79D
   - PRI-260328-1A2D
@@ -59,6 +58,7 @@ related:
   - INS-260327-5D13
   - INS-260327-9638
   - INS-260327-45BD
+  - INS-260329-FCE6
 evidence:
   - id: INS-260324-6345
     type: REFINES

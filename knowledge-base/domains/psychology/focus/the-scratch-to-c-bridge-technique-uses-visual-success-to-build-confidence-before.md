@@ -71,6 +71,9 @@ evidence:
   - id: INS-260329-DACC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-939E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 CS50's first week uses Scratch — MIT's block-based visual programming language — where students build games and animations by dragging blocks. The next week switches to C, one of the most syntactically demanding languages. This isn't random: the Scratch week serves a precise psychological function. It lets students experience the creative power of programming (loops, conditionals, events) without the cognitive overhead of syntax. That early success creates a motivational reservoir that carries them through C's steep learning curve.
 

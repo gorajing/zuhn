@@ -70,6 +70,30 @@ evidence:
   - id: INS-260330-2666
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260329-9CFE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-CC79
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-3763
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8EC6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-8D19
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-81D3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C4F1
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-71AB
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 CS50 opens with computational thinking before writing a single line of code. This framing — that programming is a tool for expressing solutions, not the skill itself — reorients the learning process. Decomposition (breaking problems into parts), pattern recognition, abstraction, and algorithmic thinking are language-agnostic skills that transfer across every domain.
 

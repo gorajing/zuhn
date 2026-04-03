@@ -56,6 +56,13 @@ related:
   - PRI-260328-39FA
   - INS-260327-E992
   - INS-260328-9574
+evidence:
+  - id: INS-260327-E992
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260328-9574
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Bonanno's flexibility sequence has three steps drawn from research. Step 1 — Context Sensitivity: stop and identify the specific problem in this moment, not the broad catastrophe. 'My life is ruined' is too big to solve; 'I am not sleeping well' is solvable. Step 2 — Repertoire: choose one strategy from your personal toolbox of coping mechanisms. Step 3 — Feedback: monitor whether it is working.
 

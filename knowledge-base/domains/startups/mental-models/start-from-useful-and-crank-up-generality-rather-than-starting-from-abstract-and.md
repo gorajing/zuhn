@@ -58,5 +58,8 @@ evidence:
   - id: INS-260327-48A5
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-A817
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Graham proposes inverting Aristotle's approach: rather than starting with the most abstract questions and hoping to stumble on something useful, start with concrete useful observations and gradually generalize. His test of utility is whether reading something causes people to do anything differently afterward. The examples he gives — controlled experiments, evolution, the lying-versus-bullshitting distinction — are ideas that started specific and proved broadly applicable. This maps directly to startup thinking: the best frameworks emerge bottom-up from solving real problems, not top-down from abstract theorizing. It also applies to writing, teaching, and product development. 'Joe's has good burritos → What makes a good burrito? → What makes good food? → What makes anything good?' You can take as long as you want, and you don't have to reach the top of the mountain.

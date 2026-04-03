@@ -50,11 +50,11 @@ stance: >-
   truth-seeking, making it structurally impossible for groups to admit failure —
   only individuals can genuinely error-correct
 related:
+  - INS-260403-B12E
   - INS-260330-8E8A
   - INS-260330-7D5F
   - INS-260325-BE8A
   - PRI-260323-A33E
-  - INS-260330-7A80
   - INS-260330-BCD8
   - INS-260402-62E3
   - INS-260402-0BFF

@@ -62,6 +62,21 @@ evidence:
   - id: INS-260330-8638
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-71B3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-BEE6
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C33B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-CE39
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-7DAE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Stevens faces a problem: the opponent's foot is planted in a stable position he cannot move. Instead of trying to move the foot directly, he uses his pinky at the right pressure point to rotate the opponent's entire body, changing the angle so the foot is no longer blocking the throw. 'I never had to move it.'
 

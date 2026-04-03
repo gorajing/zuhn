@@ -44,9 +44,9 @@ resolutions:
 related:
   - INS-260327-C79D
   - INS-260327-AC84
+  - INS-260403-58BB
   - INS-260327-FCC4
   - INS-260323-6230
-  - INS-260327-4C26
 stance: 'The Pokemon card market is part hobby, part investment, part cultural revival'
 evidence:
   - id: INS-260323-6230
@@ -58,5 +58,8 @@ evidence:
   - id: INS-260327-C79D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-FCC4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Pokemon cards operate on engineered scarcity, randomized distribution, and pack-based sales. Chase card pull rates range from 1-3% for holographic rares to below 1% for ultra-rares. But the current boom is driven by nostalgia and aesthetics, not competitive play. The secondary market concentrates in singles where buyers bypass the lottery model. What distinguishes Pokemon from other collectibles (sneakers, Labu dolls) is community spirit — information circulates openly, veterans teach newcomers, and vendors operate as long-term enterprises rather than short-term flippers. The culture of camaraderie has persisted even as money flooded in.

@@ -68,6 +68,15 @@ evidence:
   - id: INS-260327-0048
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-9770
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-0919
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260323-224F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The Michelson-Morley experiment was the 1880s equivalent of the Large Hadron Collider in precision and expense. It was designed to measure the ether's properties, not to disprove its existence. When it found light traveling at the same speed in all directions, the experimenters themselves believed the experiment had failed. It took Einstein two decades later to recognize the result's true significance: the ether doesn't exist.
 

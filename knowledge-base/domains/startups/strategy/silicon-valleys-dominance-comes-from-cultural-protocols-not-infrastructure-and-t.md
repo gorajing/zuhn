@@ -60,6 +60,16 @@ related:
   - INS-260329-ACE6
   - INS-260330-6D2E
   - INS-260323-5B36
+evidence:
+  - id: INS-260327-C4AD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-5B36
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-9E1B
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Many cities have tried to create 'the next Silicon Valley' by replicating measurable infrastructure—VCs, universities, coworking spaces, incubators. This approach fails because the real engine is a set of shared psychological protocols: non-zero-sum thinking, credentialism-free meritocracy, habitual speed, thinking big, impact as the status marker, paying it forward, radical information sharing, and celebrating founder-heroes.
 

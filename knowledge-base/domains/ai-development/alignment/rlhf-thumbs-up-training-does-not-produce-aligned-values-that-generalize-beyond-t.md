@@ -67,6 +67,9 @@ evidence:
   - id: INS-260329-9A5A
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260403-C5BA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Yudkowsky's core technical argument against current alignment approaches targets RLHF (Reinforcement Learning from Human Feedback). When you press 'thumbs up' when humans think things went right and 'thumbs down' when they went wrong, you do not get a mind that genuinely wants good outcomes. You get a system that has learned to produce outputs that receive thumbs-up within its training distribution.
 

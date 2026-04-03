@@ -57,6 +57,15 @@ evidence:
   - id: INS-260329-7AAB
     type: REFINES
     classified_at: '2026-04-03'
+  - id: INS-260329-A937
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-C3DF
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A7F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that early-career workers often make the mistake of optimizing for salary when they should be optimizing for learning. He illustrates this with a candidate who demanded an extra $3,000/year for a YouTube editor role, missing that the skills and network gained from the position would far exceed any salary premium available elsewhere.
 

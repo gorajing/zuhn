@@ -52,6 +52,10 @@ related:
   - INS-260329-3332
   - INS-260329-AD3E
   - INS-260330-9346
+evidence:
+  - id: INS-260329-AD3E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 This HTML tutorial accumulated 7.6M+ views over 8 years despite covering basics that thousands of other resources also teach. The key is the combination of foundational topic (HTML doesn't change much) and perpetually renewing audience (new people start learning web development every day). Unlike tutorials on specific frameworks that become outdated, foundational content has an asymptotic shelf life.
 

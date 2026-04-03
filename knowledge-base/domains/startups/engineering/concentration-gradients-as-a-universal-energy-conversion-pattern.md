@@ -63,6 +63,15 @@ evidence:
   - id: INS-260330-6E5F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-3C3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-B38B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-7FF3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In the light-dependent reactions, the thylakoid membrane accumulates protons on one side, creating a concentration gradient. Protons then flow through ATP synthase, and that controlled release drives ATP production. The chloroplast is literally 'charged like a battery.'
 

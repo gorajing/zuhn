@@ -70,5 +70,11 @@ evidence:
   - id: INS-260323-D8B9
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-A79E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-CC49
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Before Gödel, mathematicians assumed that every true mathematical statement could eventually be proven — truth and provability were thought to be the same thing. Gödel's first incompleteness theorem shattered this: in any consistent formal system capable of basic arithmetic, there are statements that are true but unprovable. His second theorem went further, showing such a system can't even prove its own consistency. This has deep epistemological implications beyond mathematics. It means that certainty and truth are different things. You can have justified confidence in a system's consistency based on centuries of use, but you can never have a proof of that consistency from within the system. For practical reasoning and AI alignment, this means verification from within a system is fundamentally limited — external validation and empirical testing are not just convenient but logically necessary.

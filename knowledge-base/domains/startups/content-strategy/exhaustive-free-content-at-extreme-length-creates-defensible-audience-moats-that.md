@@ -75,6 +75,9 @@ evidence:
   - id: INS-260329-C34B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-B7F5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 freeCodeCamp's strategy of publishing complete, multi-hour tutorials for free has accumulated 48M+ views on this single Python tutorial. The counterintuitive insight is that extreme length is a competitive advantage, not a liability. Short tutorials are easily replicated — anyone can make a 15-minute Python basics video. But a well-structured, complete, 4.5-hour course represents weeks of production effort and deep pedagogical design that creates a natural monopoly on audience attention.
 

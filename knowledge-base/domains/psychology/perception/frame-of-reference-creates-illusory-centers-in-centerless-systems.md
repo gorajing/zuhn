@@ -52,6 +52,10 @@ related:
   - INS-260327-EDE4
   - PRI-260323-D475
   - INS-260323-12F2
+evidence:
+  - id: INS-260325-0A81
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The universe's expansion has no center — like dots on an inflating balloon's surface, every point moves away from every other point at the same rate. But the moment you choose any single dot as your frame of reference, it immediately appears to be the center of all expansion. The 'center' is entirely an artifact of observation.
 

@@ -61,6 +61,18 @@ evidence:
   - id: INS-260330-0982
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260325-898A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-FD7F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-3591
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-64D8
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham illustrates this with the stove dial example: arranging four dials in a row is the simplest answer to 'how do I arrange these dials?' but it's answering the wrong question. The right question is 'how does a human match dials to burners?' — which demands a square layout matching the burner arrangement. Similarly, sans-serif fonts solve for pure letterforms but miss that legibility requires letters to be easily distinguishable.
 

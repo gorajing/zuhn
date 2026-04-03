@@ -66,6 +66,9 @@ evidence:
   - id: INS-260325-ADF3
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-A620
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Peterson makes the case that beauty is not subjective decoration but evidence of something fundamental about reality's structure. He uses the burning bush metaphor: the fire that doesn't consume the tree represents the optimal balance between transformation and structure, and what attracts Moses to it is precisely its beauty. Great art, like great cathedrals built atop plague bones, compresses layers of meaning that 'reach into the back tendrils of your mind at levels you can't even comprehend.'
 

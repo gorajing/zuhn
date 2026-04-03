@@ -56,6 +56,19 @@ related:
 stance: >-
   You can only do your best work if you are doing what you want to do, the way
   you think it should be done, and you can take pride in it after.
+evidence:
+  - id: INS-260327-F6B2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-8521
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260322-3CFB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-47BA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Stan Lee's distillation of creative fulfillment has three components: doing what you want to do, doing it the way you think it should be done, and being able to look at it afterward and say 'I did that and I think it is pretty damn good.' This is not about ignoring feedback or being stubborn — Lee was responsive to what worked. It is about the starting point being internal conviction rather than external validation.
 

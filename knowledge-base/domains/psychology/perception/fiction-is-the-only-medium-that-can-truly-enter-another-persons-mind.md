@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-CD03
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260323-2627
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Wright, a veteran investigative journalist and New Yorker staff writer, found himself unable to understand the Israeli-Palestinian conflict's durability through reporting alone. As a reporter, he could look into people's eyes and evaluate what they were saying, but could never truly enter their brain. The novel, he argues, is the only artistic form that permits this.
 

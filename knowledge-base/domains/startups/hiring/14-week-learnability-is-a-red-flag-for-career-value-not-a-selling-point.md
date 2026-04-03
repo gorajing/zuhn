@@ -49,5 +49,9 @@ related:
   - INS-260329-C3DF
   - INS-260329-32A4
   - INS-260323-4B1C
+evidence:
+  - id: INS-260329-C3DF
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The video makes a sharp observation: coding bootcamps advertise that you can become a developer in 14 weeks, which should logically raise alarm rather than excitement. Either companies massively overpay for a simple skill (unlikely in competitive markets), or the bootcamp teaches a shallow version of what's actually valued. The distinction maps to programming (syntax memorization) versus computer science (algorithmic thinking, system design, creative problem-solving). For hiring managers, this means bootcamp graduates may have the vocabulary but not the underlying capability. For career planners, any skill that can be acquired in weeks faces rapid commoditization. The defensible career investment is always in the harder-to-acquire layer beneath the surface skill.

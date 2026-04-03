@@ -1,5 +1,6 @@
 # Tag: conformity
 
+- `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness.
 - `INS-260327-764F` Nietzsche's most controversial insight: conventional morality may protect the weak but it also constrains the strong, functioning as a cage disguised as virtue.
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260330-141E` People systematically misrepresent their beliefs under social pressure, making public opinion appear more uniform than it actually is.

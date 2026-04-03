@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-AF96
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-1ACD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Traditional frameworks like React and Vue ship a virtual DOM runtime to the browser that diffs a JavaScript representation of the UI against the real DOM on every state change. Svelte and Solid take a fundamentally different approach: they compile your declarative component code into imperative DOM operations at build time, so no diffing runtime is needed at all.
 

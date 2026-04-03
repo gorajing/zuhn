@@ -66,5 +66,11 @@ evidence:
   - id: INS-260325-5E9B
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-C569
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-1FA8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Two principles from different domains converge: the health principle that each intervention in a complex biological system carries unpredictable cascading risk, and the psychology principle that what persists is what cannot easily be destroyed. The synthesis: the reason minimum viable edits work in complex systems is not epistemic humility (we do not understand enough to intervene aggressively) but ontological reality (the system's current state represents a stability equilibrium that actively resists perturbation because fragile optimums were already eliminated by selection). This reframes intervention philosophy: aggressive redesign fails not because we lack knowledge, but because we are fighting a selection filter that has already rejected exactly the kind of fragile-but-optimal configurations we are trying to impose. The practical implication is that sustainable change must work with the stability grain, not against it.

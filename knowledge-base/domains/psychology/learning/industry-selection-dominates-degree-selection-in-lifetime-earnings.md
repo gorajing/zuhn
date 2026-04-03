@@ -47,5 +47,15 @@ related:
   - INS-260325-8B36
   - INS-260329-4B99
   - INS-260329-3C67
+evidence:
+  - id: INS-260327-FA62
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-8B36
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-4B99
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Hormozi highlights that most education debates focus on the wrong variable. People agonize over school rankings and major selection, but the data shows industry choice is the dominant factor in lifetime earnings. A mediocre performer in a high-growth, high-margin industry (tech, finance, specialized services) will out-earn a top performer in a low-margin industry over a career. This reframes the education decision: instead of optimizing for the best possible credential, optimize for the fastest path into the highest-value industry. The implication is that trade schools, bootcamps, or direct entry into growing industries may produce better outcomes than prestigious degrees aimed at stagnant sectors.

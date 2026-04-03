@@ -47,6 +47,10 @@ related:
   - INS-260327-CADA
   - INS-260330-5958
   - INS-260402-C883
+evidence:
+  - id: INS-260330-5958
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Nightclub economics are driven by selling status through bottle service, VIP areas, and exclusivity rather than the actual entertainment experience.
 

@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-BBDA
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-1293
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 British colonial administration in Palestine deliberately established separate institutions for each religious community, making it structurally difficult for Palestinian Christians and Muslims to cooperate. This classic divide-and-rule tactic worked precisely because institutional boundaries create different incentive structures, communication channels, and identity reinforcement for each group.
 

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260327-8BFF
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-750A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Mongols had never seen a castle before their conquests began, yet they became expert siege warfare practitioners by interrogating prisoners. They adopted gunpowder (likely introducing it to Europe), built naval fleets to attack Japan, and forcibly relocated administrators, artists, and specialists throughout their empire to fill capability gaps.
 

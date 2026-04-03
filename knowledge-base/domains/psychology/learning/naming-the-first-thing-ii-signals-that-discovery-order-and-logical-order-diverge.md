@@ -57,6 +57,10 @@ related:
   - INS-260402-89DE
   - INS-260329-DACC
   - INS-260330-9A46
+evidence:
+  - id: INS-260329-DACC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The video highlights that Photosystem II is confusingly named because it was discovered second but acts first in the light-dependent reactions. This pattern — where historical naming obscures logical sequence — appears throughout technical fields (JavaScript's prototype chain, HTTP status codes, CPU ring 0 being the most privileged).
 

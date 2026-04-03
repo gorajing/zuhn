@@ -45,6 +45,10 @@ related:
   - INS-260330-207D
   - INS-260329-5412
   - PRI-260327-A7C5
+evidence:
+  - id: INS-260329-36FF
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Artificial scarcity combined with social media visibility converts the psychological experience from desire to anxiety, making purchases feel like necessities rather than choices.
 

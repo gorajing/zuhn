@@ -55,6 +55,10 @@ related:
   - INS-260323-AB5F
   - INS-260330-F268
   - INS-260330-3A3E
+evidence:
+  - id: INS-260402-4F0E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies 'playing house' — founders who raise money, rent cool offices, and hire people while neglecting to make something people want. This happens because the education system trains students to optimize for artificial metrics (grades, extracurriculars, exam tricks) rather than genuine mastery. When these students start companies, they instinctively seek the equivalent tricks.
 

@@ -51,6 +51,10 @@ related:
   - INS-260403-805E
   - PRI-260328-B11D
   - INS-260325-2052
+evidence:
+  - id: INS-260325-2052
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Bornich built 1X (humanoid robots) and says the grind narrative is real—there will be many dark days. But the founders who survive are the ones who chose a problem exciting enough to make the dark days worth it. His specific cheat code: 'pick a problem that really excites people. We do humanoid robots. It's really freaking cool.'
 

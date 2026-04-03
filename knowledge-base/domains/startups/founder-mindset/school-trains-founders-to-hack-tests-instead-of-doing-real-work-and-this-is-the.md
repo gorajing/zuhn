@@ -57,6 +57,10 @@ related:
   - INS-260329-6BE8
   - INS-260330-DE1D
   - INS-260330-52C7
+evidence:
+  - id: INS-260330-F737
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham observed at Y Combinator that young founders consistently overcomplicated startups by treating fundraising as the test to hack rather than focusing on making a great product. They would ask about tricks for impressing VCs, optimal launch days, and ways to get exposure — all test-hacking behaviors learned in school where the way to win was to game the grading system rather than deeply learn the material.
 

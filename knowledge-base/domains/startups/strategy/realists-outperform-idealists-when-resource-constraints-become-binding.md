@@ -66,6 +66,9 @@ evidence:
   - id: INS-260327-E07D
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260329-438D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Ferguson draws a parallel between Trump and Nixon — both entered office with a keen sense of American weakness rather than strength. Nixon's realism (opening China, detente with USSR) was motivated by recognizing the limits of American power during Vietnam. Similarly, Trump's behavior — however offensive in style — may reflect a rational assessment that the US cannot simultaneously contend with conflicts in the Middle East, Eastern Europe, and the Far East.
 

@@ -51,5 +51,8 @@ evidence:
   - id: INS-260321-3312
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260329-BCCB
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Evergreen content compounds like a savings deposit — it retains and converts over years. Timely content spikes and decays. The 80/20 split ensures your back catalog works harder than you do. A library of 200 quality pieces generates a floor through compounding discovery: old posts get shared, resurface in search, get cited by others. A creator with 300 solid posts and zero viral moments will outperform one with 5 viral posts because the library creates thousands of entry points. The work of thinking is the expensive part. Distribution is almost free. So distribute widely.

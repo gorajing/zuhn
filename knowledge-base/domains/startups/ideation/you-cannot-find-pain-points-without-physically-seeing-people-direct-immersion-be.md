@@ -56,6 +56,10 @@ related:
 stance: >-
   Real pain points only surface through direct immersion with users in their
   actual environment
+evidence:
+  - id: INS-260329-075F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Loh's biggest product breakthrough came not from analysis but from physically visiting 50+ cities, giving math talks in public parks, carrying his own AV equipment. This direct contact with thousands of parents and students revealed the win-win-win ecosystem he built (middle schoolers learning to think, high schoolers building EQ through teaching, drama students finding stable part-time work).
 

@@ -58,5 +58,11 @@ evidence:
   - id: INS-260329-F635
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-CF3E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-7F3D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Dr. Chuck explicitly addresses the emotional relationship beginners develop with error messages. He recalls his own early experience with punch cards where the computer seemed to personally reject him, creating an adversarial relationship. His reframe is powerful: syntax errors are not Python telling you that you're an inadequate programmer—they're Python's admission that it doesn't understand what you're trying to say. This reframe matters because the emotional response to errors is the single biggest dropout factor in programming education. When learners interpret errors as personal judgment, they develop learned helplessness. When they interpret errors as a communication problem to solve, they develop debugging skill. The practical application extends beyond programming—any domain where feedback feels like rejection (writing critiques, sales rejections, failed experiments) benefits from reframing the feedback source as confused rather than critical.

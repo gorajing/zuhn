@@ -42,17 +42,20 @@ resolutions:
     something he wished existed as a founder. The tech world's increasing
     attractiveness to non-weird people may be making this dynamic worse.
 related:
+  - INS-260403-FE91
   - INS-260327-4367
   - INS-260403-74E5
   - PRI-260323-A33E
   - PRI-260323-27D6
-  - INS-260327-7F11
 stance: >-
   People who are naturally quirky and nonconformist constantly generate strange
   ideas on their own, while those skilled at reading consensus find it ...
 evidence:
   - id: INS-260327-4367
     type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-FDC2
+    type: SUPPORTS
     classified_at: '2026-04-03'
 ---
 There's a personality-level division in startup ideation: naturally nonconformist, quirky people don't need help coming up with unique ideas — society actually tells them to shut up about their ideas, and their problem is filtering which unique idea to pursue. Meanwhile, people who excel at calibrating and triangulating consensus — a skill that serves well in most careers — have the hardest time with unique ideation because conformity has been trained into them. Paul Graham exemplifies this: he was a weird guy with no investor training who built YC from first principles because he made something he wished existed as a founder. The tech world's increasing attractiveness to non-weird people may be making this dynamic worse.

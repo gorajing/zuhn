@@ -50,5 +50,9 @@ related:
   - PRI-260323-27D6
   - INS-260323-87F3
   - INS-260323-244C
+evidence:
+  - id: INS-260323-DEF0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Altman identifies momentum as the 'prime directive' of startup management. When momentum stalls, a predictable doom spiral begins: growth slows, people get unhappy, disagreements about direction emerge, key employees quit, which causes further slowdown. Most founders try to fix this with vision speeches, but employees who see the company losing don't want inspiration — they want evidence of winning. The correct intervention is to find achievable small wins and execute them rapidly. Facebook's 2008 growth group is the canonical example: when growth slowed, Zuckerberg didn't give speeches — he created a team focused on small growth improvements that individually seemed trivial but collectively restored the growth curve. The growth group became Facebook's most prestigious team. The broader principle is 'sales fix everything' — concrete forward motion resolves interpersonal conflicts that stagnation creates.

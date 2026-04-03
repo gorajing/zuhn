@@ -64,6 +64,12 @@ evidence:
   - id: INS-260330-30FB
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-EB48
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-43CA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The video walks through a process with dozens of chemical transformations, yet makes it tractable by naming every intermediate: Photosystem II, cytochrome complex, ATP synthase, Photosystem I, RuBisCo, RuBP, 3-Phosphoglycerate, G3P. Each name converts an anonymous chemical state into a discrete, memorable entity that can be reasoned about independently. Without these names, the process would be an undifferentiated chain of electron movements impossible to hold in working memory.
 

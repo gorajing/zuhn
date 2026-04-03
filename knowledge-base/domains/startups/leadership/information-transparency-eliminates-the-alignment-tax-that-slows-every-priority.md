@@ -57,6 +57,13 @@ related:
   - INS-260330-8A65
   - INS-260329-89E9
   - INS-260327-3C19
+evidence:
+  - id: INS-260330-8A65
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-C523
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi describes a common entrepreneurial fear of sharing financials and detailed metrics with the team, then points out that the largest companies in the world are publicly traded with all information visible — and they still function. The fear is irrational. The practical benefit of transparency is that it eliminates the alignment tax: the time and energy spent bringing people up to speed every time priorities shift.
 

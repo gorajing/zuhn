@@ -55,5 +55,9 @@ related:
   - INS-260329-541A
   - INS-260330-5EAC
   - INS-260323-CE39
+evidence:
+  - id: INS-260323-CE39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Miyamoto Musashi, history's most famous swordsman (undefeated in 61 duels), wrote The Book of Five Rings as a strategic philosophy that transcends combat. His core insight on overthinking: in a sword fight, the moment you consciously analyze your opponent's movement, you're already dead. The trained warrior perceives and responds as one motion — perception-action with no gap for doubt. The modern application: overthinking is not caused by having too many thoughts but by the space between perceiving what needs to be done and actually doing it. In that gap, the analytical mind generates infinite objections, scenarios, and fears. Musashi's training: reduce the gap through practice until action follows perception directly. This is also the psychological state of flow — where self-consciousness dissolves because there is no space between seeing and doing.

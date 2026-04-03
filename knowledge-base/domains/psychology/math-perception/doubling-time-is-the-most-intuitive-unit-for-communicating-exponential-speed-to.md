@@ -61,6 +61,21 @@ evidence:
   - id: INS-260330-F493
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-FF5B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-608C
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-CB30
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-05C7
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260403-EEDF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When COVID-19 cases were growing at 20% per day, most people couldn't translate that into a concrete expectation. But 'cases double every 3-4 days' immediately communicates urgency in human-scale terms. This isn't just a communication trick — it's a cognitive bridge between the mathematical representation (percentage rate) and the experiential reality (observable doublings).
 

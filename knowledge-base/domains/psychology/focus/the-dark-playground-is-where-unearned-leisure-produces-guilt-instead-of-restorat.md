@@ -54,6 +54,10 @@ related:
   - INS-260329-177E
   - INS-260330-DC8B
   - INS-260328-8DF8
+evidence:
+  - id: INS-260328-8DF8
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Urban's concept of the Dark Playground captures a specific psychological state: engaging in leisure activities when you know you should be working. The leisure isn't restorative because it's unearned. Instead of relaxation, you experience guilt, dread, anxiety, and self-hatred simultaneously with the 'fun' activity.
 

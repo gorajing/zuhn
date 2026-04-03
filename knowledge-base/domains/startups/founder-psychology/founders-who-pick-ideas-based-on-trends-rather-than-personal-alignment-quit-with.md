@@ -53,6 +53,10 @@ related:
 stance: >-
   If you cannot imagine yourself working on this problem for 10 years, you will
   abandon it when the inevitable 2-3 year difficulty spike hits.
+evidence:
+  - id: INS-260330-1E5E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 John Kim identifies the most common first-time founder mistake: choosing ideas based on market trends or opportunity rather than personal alignment with the problem. The result is predictable — after 2-3 years, founders realize 'whatever you do is harder than you think, it will take longer, it will be harder' and they quit because the motivation was external.
 

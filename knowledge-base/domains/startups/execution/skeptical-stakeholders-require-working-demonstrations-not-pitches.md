@@ -52,5 +52,8 @@ evidence:
   - id: INS-260327-CB1E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-B882
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When AlphaChip showed early results to Google chip designers, they were not just unimpressed — they were actually angry at being shown something they considered useless. The chip design team had decades of expertise and initially saw ML-generated layouts as insulting. Only when AlphaChip produced layouts that genuinely outperformed human designs did skepticism convert to adoption. The lesson for anyone bringing radical innovation to established domains: stakeholders will resist until they see undeniable results. Budget time and resources for iteration until your demonstration is overwhelming.

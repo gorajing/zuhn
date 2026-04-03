@@ -53,7 +53,6 @@ related:
   - INS-260329-CCDE
   - INS-260329-C472
   - INS-260329-6B95
-  - INS-260330-0145
   - INS-260330-4E68
   - INS-260330-8C54
 evidence:
@@ -67,6 +66,9 @@ evidence:
     type: CHALLENGES
     classified_at: '2026-04-03'
   - id: INS-260329-CCDE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-EF66
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
 ---

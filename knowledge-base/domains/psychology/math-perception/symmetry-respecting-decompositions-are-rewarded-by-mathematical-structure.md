@@ -49,5 +49,9 @@ related:
   - INS-260325-28AD
   - PRI-260325-EEE9
   - INS-260330-BEAD
+evidence:
+  - id: INS-260329-2612
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When decomposing the circle's area, 3Blue1Brown explicitly notes that concentric rings 'should seem promising because it respects the symmetry of the circle, and math has a tendency to reward you when you respect its symmetries.' This is a profound meta-principle: the choice of HOW to decompose matters as much as the decision TO decompose. Cutting a circle into concentric rings leverages radial symmetry, making each piece identical in form (just scaled). Cutting it into random polygons would technically work but creates unnecessary complexity. This principle transfers to system design and analysis: decompose along the natural joints of the problem. In software, this manifests as designing abstractions that align with domain boundaries rather than arbitrary technical seams.

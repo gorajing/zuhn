@@ -56,6 +56,22 @@ related:
   - INS-260329-783C
   - INS-260329-0F10
   - INS-260402-E36A
+evidence:
+  - id: INS-260322-C6CE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-8726
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260328-8DF8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-0F10
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-E36A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Every skill follows a learning curve where the early phase involves high effort and low results. Hormozi's point is that ambitious people are particularly vulnerable to quitting during this phase because the gap between their standards and their current performance feels intolerable. They'd rather start something new (where expectations are low) than endure visible incompetence.
 

@@ -64,5 +64,8 @@ evidence:
   - id: INS-260330-9FAA
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-2E41
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In photosynthesis, the thylakoid membrane acts as a battery: protons are pumped inside to create a concentration gradient, and when they flow back out through ATP synthase, that potential energy is converted into ATP. This is not unique to biology — it's a universal pattern. Batteries store energy as electrochemical potential difference. Dams store energy as gravitational potential from water height differential. Even in economics, information asymmetry and price differentials across markets represent stored 'energy' that traders extract. The mental model is: energy is rarely stored as a thing; it's stored as a difference between two states separated by a barrier. To store energy, create asymmetry. To release it, let the system equalize. This framework applies when evaluating any system that claims to store or release value — ask: where is the gradient, and what is the barrier?

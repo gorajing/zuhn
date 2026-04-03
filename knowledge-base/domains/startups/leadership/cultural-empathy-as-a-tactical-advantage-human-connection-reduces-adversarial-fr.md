@@ -65,6 +65,15 @@ evidence:
   - id: INS-260327-8BFF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-2EB0
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-750A
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-11E4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Gabbard describes how soldiers from Hawaii, Samoa, and Guam naturally adopted a relationship-first approach with Iraqi locals: pointing weapons skyward while driving through towns (rather than at pedestrians), throwing shakas, breaking bread, and sharing tea. The previous unit had operated from an assumption of suspicion. The result was measurable: a downward shift in casualties, because locals started proactively warning American soldiers about IEDs and weapons caches.
 

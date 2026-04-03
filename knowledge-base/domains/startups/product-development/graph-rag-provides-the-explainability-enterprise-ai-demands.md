@@ -55,5 +55,11 @@ evidence:
   - id: INS-260402-5ACE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-2DF2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-E6AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Philip argues that enterprise AI will evolve as composite systems, not monolithic AGI. Companies are on the hook for what their AI systems do and need checks, balances, and controls. Graph RAG creates a digital twin of the knowledge network the AI operates on, providing explainable reasoning paths. When the AI makes a recommendation, the graph can show exactly which relationships and facts led to that conclusion. This composability — LLM for generation, graph for structured knowledge and explainability — is how enterprise AI will actually be deployed at scale.

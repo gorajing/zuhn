@@ -56,6 +56,16 @@ related:
 stance: >-
   In prisoner's dilemma simulations, adding just a few shortcut connections to a
   clustered network destroys cooperation entirely
+evidence:
+  - id: INS-260327-9562
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-6D2E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-7212
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Watts and Strogatz simulated the prisoner's dilemma on different network structures. In a clustered network (local communities), cooperation spread naturally -- exactly as Axelrod's tournament predicted. But when they added just a few shortcut connections (making it a small-world network), cooperators were crushed and the world filled with defectors.
 

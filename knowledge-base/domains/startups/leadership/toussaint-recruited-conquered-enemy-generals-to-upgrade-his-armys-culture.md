@@ -69,6 +69,9 @@ evidence:
   - id: INS-260327-891F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-750A
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Toussaint L'Ouverture led history's only successful slave revolution, but his genius was in what he did after winning battles. Rather than killing or imprisoning conquered European officers—which his soldiers expected and wanted—he recruited the best of them as generals in his own army. He recognized that slave culture, shaped by brutality and oppression, lacked the organizational sophistication needed to run a world-class country. The conquered Europeans brought military expertise, administrative knowledge, and cultural practices he wanted to import.
 

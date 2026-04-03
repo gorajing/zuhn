@@ -63,6 +63,9 @@ evidence:
   - id: INS-260323-E559
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-C02D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, frequently grabs oxygen instead of CO2 — failing at its core job up to 50% of the time. Yet plants produce an estimated 40 billion tons of it rather than evolving a better alternative, because the entire metabolic architecture depends on it.
 

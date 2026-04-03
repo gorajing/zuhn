@@ -73,6 +73,24 @@ evidence:
   - id: INS-260325-C59D
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260322-F8E4
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260323-9F61
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260322-5D22
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-4A3D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-5A4C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-F08F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Most network effects operate through passive value contribution — an Uber driver doesn't intend to make the platform more valuable; they just want to earn money. But tribal network effects are fundamentally different. Members of tribes (alumni networks, military units, fraternities, YC alumni) consciously invest in other members' success, defend the tribe's reputation against outsiders, and actively recruit new members.
 

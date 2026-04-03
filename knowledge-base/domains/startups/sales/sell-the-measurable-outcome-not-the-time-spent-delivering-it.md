@@ -50,6 +50,10 @@ related:
   - INS-260330-27DD
   - INS-260322-B3D0
   - INS-260330-6204
+evidence:
+  - id: INS-260330-27DD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When you sell time (tutoring by the hour), the client anchors on the hourly rate and comparison-shops against every other tutor. When you sell the outcome — a specific score improvement that unlocks admission to a better school — you anchor on the lifetime earnings differential, which can be $100K+ per year. This reframe justifies prepayment packages and makes price objections irrelevant because the ROI dwarfs the cost.
 

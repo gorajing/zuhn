@@ -56,6 +56,9 @@ evidence:
   - id: INS-260330-D644
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260402-7FCC
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 
 Coconote was acquired by Quizlet, and the founders learned a hard lesson

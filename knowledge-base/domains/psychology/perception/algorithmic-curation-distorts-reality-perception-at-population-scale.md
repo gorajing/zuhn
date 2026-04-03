@@ -52,6 +52,13 @@ related:
   - PRI-260324-8EE6
   - PRI-260323-DAB9
   - INS-260402-C49E
+evidence:
+  - id: INS-260329-13D2
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-C49E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Recommendation algorithms optimize for engagement, which correlates with emotional intensity. The result is systematic amplification of outrage, fear, conflict, and extremity across billions of users. Each individual sees a curated reality that's more threatening, more polarized, and more hopeless than actual reality.
 

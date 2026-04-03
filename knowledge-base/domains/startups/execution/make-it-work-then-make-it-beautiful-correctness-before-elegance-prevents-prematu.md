@@ -71,6 +71,9 @@ evidence:
   - id: INS-260329-6D6C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-1ACD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 A recurring pattern in CS50 Python is Malan writing a naive, ugly-but-working solution first, then progressively refactoring it — extracting functions, adding error handling, improving naming, introducing classes. He explicitly teaches students to resist the urge to write perfect code on the first pass. This 'make it work, make it right, make it fast' progression (attributed to Kent Beck) is demonstrated dozens of times across the course.
 

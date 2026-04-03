@@ -54,5 +54,15 @@ related:
   - INS-260329-04FA
   - INS-260323-D400
   - INS-260325-B61B
+evidence:
+  - id: INS-260329-21C0
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260322-32E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-04FA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 3Blue1Brown explicitly notes that 'having the key insight and understanding is one thing, but having the relevant background to articulate that understanding more formally is almost a separate muscle entirely.' The visual-intuitive coin-flip argument solves the problem, but writing it up rigorously in linear algebra is a different exercise. This distinction matters beyond math: in startups, seeing a market opportunity (intuition) vs. building a convincing pitch deck (articulation) are different skills. In engineering, sensing that a design is wrong (pattern recognition) vs. explaining why via formal analysis (proof) require different training. Most education systems conflate these, penalizing students who have genuine understanding but lack formal articulation, or rewarding those who can manipulate formalisms without deep comprehension. Knowing which muscle you're training — and which you're weak in — is critical for targeted improvement.

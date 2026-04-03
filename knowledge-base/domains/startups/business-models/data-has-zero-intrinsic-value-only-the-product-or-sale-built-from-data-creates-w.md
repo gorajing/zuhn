@@ -59,6 +59,16 @@ related:
   - PRI-260328-B2EA
   - INS-260328-195E
   - PRI-260328-D5EB
+evidence:
+  - id: INS-260320-703F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-4434
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-EA4E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Bardin observed that 'data is one of the most misused terms in the startup world.' Founders frequently claim data collection as a strategic asset without answering: valuable to whom? Sold how? Could the same value be achieved through manual work or hard-coded rules instead? At Waze, data was valuable only because it fed a real-time traffic product that users directly consumed — not because data existed in quantity.
 

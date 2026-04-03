@@ -53,6 +53,13 @@ related:
   - INS-260325-568A
   - INS-260330-053D
   - INS-260325-A272
+evidence:
+  - id: INS-260330-FBF0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-053D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The video highlights a recurring pattern: the person who actually understands how pulleys work — not theoretically, but practically enough to rig a system on the spot — becomes 'the smart person that everybody wants to be.' When Jeff stopped to help with the broken-down truck, he instantly understood the pulley arrangement and started working. Destin's reaction: 'Jeff is the kind of guy I wanna be when I grow up.'
 

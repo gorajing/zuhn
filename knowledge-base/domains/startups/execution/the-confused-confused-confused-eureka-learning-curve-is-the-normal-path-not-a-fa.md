@@ -67,5 +67,11 @@ evidence:
   - id: INS-260329-B2F4
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-7EFD
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-5F37
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Severance explicitly describes his own learning trajectory: 'it went from me confused, confused, confused, confused, confused, holy mackerel, this is awesome.' He then tells students to expect this same pattern and asks them to 'suspend disbelief' for six or seven chapters. This maps to a well-documented phenomenon in skill acquisition — the plateau-breakthrough cycle — but Severance's contribution is making the pattern itself part of the curriculum. By naming the experience before students encounter it, he inoculates against premature quitting. This applies directly to any complex skill domain including startups: the period where nothing makes sense isn't a signal to pivot, it's often the compression phase before insight crystallizes. The pedagogical technique of pre-announcing the confusion curve is underused in founder education and AI tool onboarding.

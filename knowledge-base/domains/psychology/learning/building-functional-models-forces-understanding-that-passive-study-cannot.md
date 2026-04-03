@@ -54,6 +54,10 @@ related:
   - INS-260330-63B8
   - INS-260329-B214
   - INS-260327-4C73
+evidence:
+  - id: INS-260329-B2F4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Destin, a mechanical engineer who thought he understood carburetors, discovered fundamental gaps in his knowledge only when he attempted to build a transparent working model. The act of construction forced him to resolve every ambiguity — how the float regulates fuel level, why the throttle needs friction to prevent runaway, how the choke creates rich vs lean mixtures. Each assembly step became a test of understanding.
 

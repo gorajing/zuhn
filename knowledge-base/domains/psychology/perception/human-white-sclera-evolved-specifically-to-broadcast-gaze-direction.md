@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-D680
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-E19E
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Most predators have camouflaged eyes that hide where they're looking — visible gaze direction would betray their hunting strategy. Humans evolved the opposite: conspicuously white scleras that make the direction of our gaze instantly readable to others. This is paired with dedicated neural networks containing individual neurons that fire specifically when someone is looking directly at us and stop firing with just one or two degrees of deviation.
 

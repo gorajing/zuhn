@@ -59,6 +59,10 @@ related:
   - INS-260325-BE8A
   - INS-260325-0C4A
   - INS-260329-7F70
+evidence:
+  - id: INS-260329-7F70
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The emotional arc of any new venture follows a predictable pattern: uninformed optimism (everything looks amazing), informed pessimism (you discover the hidden work), and the valley of despair (the work feels overwhelming relative to results). Most people bail at the valley and jump to a new opportunity, resetting to uninformed optimism. This creates a lifetime of half-built bridges.
 

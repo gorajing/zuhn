@@ -57,6 +57,9 @@ evidence:
   - id: INS-260325-71DE
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260402-D9D0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Playter credits Marc Raibert's most lasting lesson: pursue your curiosity, do something because you love it, don't worry if it's going to make money. This philosophy translated into a company with remarkably low attrition — people come and stay because the pursuit itself is fulfilling.
 

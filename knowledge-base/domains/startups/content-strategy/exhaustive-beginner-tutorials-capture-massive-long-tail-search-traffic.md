@@ -53,6 +53,10 @@ related:
   - INS-260329-63DD
   - INS-260329-69F0
   - INS-260329-9DEE
+evidence:
+  - id: INS-260329-E6AF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 This single video accumulated 18M+ views over 8 years by being the definitive answer to 'C programming tutorial for beginners' — a high-intent, evergreen search query. Rather than splitting content into a 30-part playlist that fragments discovery, the monolithic format becomes a one-click commitment for motivated learners.
 

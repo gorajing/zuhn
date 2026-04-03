@@ -49,6 +49,10 @@ related:
   - INS-260330-D7CC
   - PRI-260328-3169
   - INS-260322-627E
+evidence:
+  - id: INS-260322-627E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Orwell's work consistently shows that the most destructive acts are committed by people convinced of their own moral righteousness. Moral certainty eliminates the self-questioning that prevents excess: if you're absolutely sure you're right, any means becomes justified by the righteous end.
 

@@ -58,6 +58,15 @@ evidence:
   - id: INS-260322-DAA1
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-6300
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-613F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-A19F
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kennedy documents a pattern: teachers are suspended for using his academic book to teach the history of a racial slur in context. Administrators abandon them. Students never learn to grapple with difficult realities. The result is not protection but fragility — people unequipped to engage with the actual complexity of American history and culture.
 

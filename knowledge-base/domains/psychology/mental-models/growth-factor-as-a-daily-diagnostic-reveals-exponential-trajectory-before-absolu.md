@@ -64,6 +64,18 @@ evidence:
   - id: INS-260323-D6C7
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-484F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-CB30
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-8817
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-05C7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In any exponential process N(t) = c * (1+p)^t, the growth factor — the ratio of successive deltas — directly measures (1+p). When this ratio hovers around 1.15, cases double roughly every 5 days. When it drops below 1.0, the process is decaying. This single number compresses all the information about trajectory into a dimensionless ratio that humans can actually reason about.
 

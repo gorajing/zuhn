@@ -54,6 +54,10 @@ related:
   - INS-260329-4A69
   - INS-260329-E914
   - INS-260330-9BB7
+evidence:
+  - id: INS-260329-4A69
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Multiple times in the video, 3Blue1Brown explicitly says things like 'this is a little bit of a lie, but it's in the direction of truth' or distinguishes his 'almost Fourier Transform' from the real one. Rather than confusing learners, this transparency does two things: it builds trust (the teacher isn't trying to sneak past the hard parts) and it creates productive tension (the learner knows a refinement is coming and is primed to receive it).
 

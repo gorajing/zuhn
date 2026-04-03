@@ -49,9 +49,9 @@ related:
   - INS-260323-1811
   - INS-260329-72E0
   - INS-260329-D8F2
+  - INS-260403-B12E
   - INS-260325-0C4A
   - INS-260329-C689
-  - INS-260327-9F46
   - INS-260330-A3B7
   - INS-260330-5FED
 evidence:
@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-1811
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-D8F2
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 The failure space for any endeavor is more enumerable than the success space — there are finite ways things break but infinite ways things could work. By listing 28 specific poverty behaviors, Hormozi demonstrates that exhaustive failure enumeration is tractable in a way that exhaustive success enumeration is not.
 

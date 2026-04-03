@@ -55,5 +55,14 @@ evidence:
   - id: INS-260330-CAD2
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260330-27DD
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-B91E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-A19F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Xiaoliang Qi grew up in a village in northeast China with no access to books. When he moved to a small city for high school and discovered a library, it changed everything. Reading physics books and biographies of Einstein made him fall in love with physics, and he became the top scorer in his entire province (37M population) at age 16. Both he and the interviewer independently credit libraries as the pivotal intervention in their careers. The modern implication: AI agents and open knowledge platforms can serve as the library for the next generation. Making advanced knowledge freely accessible to talent everywhere is perhaps the highest-leverage philanthropic and business investment possible.

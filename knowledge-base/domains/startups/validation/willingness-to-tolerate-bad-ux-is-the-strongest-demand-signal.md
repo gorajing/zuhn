@@ -55,6 +55,13 @@ related:
   - INS-260330-AB6F
   - PRI-260328-7E58
   - PRI-260323-1B96
+evidence:
+  - id: INS-260327-4D3A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-2EFD
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 DoorDash's first version was a static landing page with PDF menus and a personal phone number — no app, no backend, no dispatch system. Yet orders grew from 1 to 10+ per day organically. Stanley Tang's key realization was that when people willingly tolerate a terrible user experience (calling a phone number, browsing PDF menus), it proves the underlying need is so strong that execution details become secondary.
 

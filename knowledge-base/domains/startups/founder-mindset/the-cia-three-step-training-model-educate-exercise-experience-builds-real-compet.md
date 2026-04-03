@@ -55,6 +55,16 @@ related:
   - INS-260329-656B
   - INS-260329-9A58
   - INS-260403-CBB0
+evidence:
+  - id: INS-260323-D400
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-656B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-023F
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 CIA's training model follows three steps in rapid succession. First, classroom education of a skill or concept. Second, immediately after, exercises and role-plays to practice the skill in controlled conditions. Third, students are deployed into the real world to apply the skill where they operate alone and are the only ones who know if they succeeded or failed.
 

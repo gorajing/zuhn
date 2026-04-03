@@ -53,6 +53,10 @@ related:
 stance: >-
   Negative role models teach what kind of human not to be and what actions not
   to take
+evidence:
+  - id: INS-260327-70DF
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Kimbal Musk describes his father as a 'train wreck' of intentional cruelty and verbal abuse, but frames the experience as deeply educational: 'He taught me what not to do.' This is via-negativa learning — defining your path by eliminating what you know is wrong rather than following a positive example.
 

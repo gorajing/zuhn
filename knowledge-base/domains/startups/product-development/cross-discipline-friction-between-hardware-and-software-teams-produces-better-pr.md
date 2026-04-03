@@ -71,6 +71,9 @@ evidence:
   - id: INS-260329-CD02
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-F7B2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When Jawbone combined hardware and software teams, it created significant friction: software teams were accustomed to rapid iteration and A/B testing, while hardware teams needed 16-week tooling cycles with no room for hacking. Rather than letting each team work in isolation, Rahman forced the friction to be productive. Hardware teams learned to move faster, and software teams learned to resolve experience decisions before shipping rather than just throwing things out and testing.
 

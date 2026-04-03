@@ -57,6 +57,10 @@ related:
   - INS-260327-EF89
   - INS-260327-A608
   - INS-260322-5A72
+evidence:
+  - id: INS-260327-24A5
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Steve Jobs' 'insanely great' meant obsessive product design and manufacturing at Apple's scale. But for early-stage startups, the same principle morphs into something different: the total experience of being a user matters more than the product itself. A buggy, incomplete product paired with extraordinary personal attentiveness can deliver a better experience than a polished product with no human touch.
 

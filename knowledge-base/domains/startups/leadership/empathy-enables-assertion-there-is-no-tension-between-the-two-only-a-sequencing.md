@@ -60,6 +60,9 @@ evidence:
   - id: INS-260402-46AD
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260323-6F94
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Voss references Bob Mnookin's 'Beyond Winning' which titles a chapter 'The Tension Between Empathy and Assertiveness' — then reveals the entire chapter argues there is no tension. Empathy puts you in a position to assert. It's a sequencing issue, not a tradeoff. Voss applies this in hostage negotiation: 'I want you to live, I want to see you survive this' (empathy) → then negotiate the tactical details (assertion).
 

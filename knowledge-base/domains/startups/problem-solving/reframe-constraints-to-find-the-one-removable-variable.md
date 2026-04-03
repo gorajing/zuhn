@@ -51,6 +51,13 @@ related:
   - INS-260330-D795
   - INS-260330-026F
   - INS-260330-8429
+evidence:
+  - id: INS-260330-8429
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-D795
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 When LA discovered bromate forming in their reservoir, they faced three interacting variables: naturally occurring bromide (impossible to remove), chlorine (legally required for disinfection), and sunlight (the reservoir was open). Rather than attacking the most chemically obvious variable, they systematically eliminated options until they identified sunlight as the only removable input.
 

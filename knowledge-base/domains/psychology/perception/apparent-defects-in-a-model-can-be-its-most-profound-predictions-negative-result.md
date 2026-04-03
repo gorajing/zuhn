@@ -65,6 +65,9 @@ evidence:
   - id: INS-260323-7BA4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-3F56
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When Dirac presented his equation in 1928, the negative energy solutions provoked a crisis. Heisenberg called it 'the saddest chapter in modern physics' and tried to abandon quantum physics entirely. Pauli left physics to write a utopian novel. The entire establishment viewed these solutions as a fatal flaw proving the equation was wrong.
 

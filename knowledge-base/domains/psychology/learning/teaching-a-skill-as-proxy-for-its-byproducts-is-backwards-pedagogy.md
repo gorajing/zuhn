@@ -72,5 +72,17 @@ evidence:
   - id: INS-260329-3D28
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-04FA
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-B2F4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-7C59
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-D52B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 A common justification for universal coding education is that it teaches problem-solving, logical thinking, and creativity. PolyMatter identifies the logical flaw: if those are the actual target skills, we should find the most effective way to teach them directly rather than assuming coding is the best vehicle. The video suggests debate, personal finance, and media literacy as potentially higher-impact alternatives for developing critical thinking. This principle extends beyond education: any time a complex activity is justified primarily by its secondary benefits, you should ask whether those benefits could be achieved more directly. It's the difference between 'coding teaches thinking' (coding as means) and 'coding is valuable' (coding as end)—conflating the two leads to suboptimal resource allocation.

@@ -57,6 +57,13 @@ related:
   - PRI-260325-1640
   - INS-260325-2AA0
   - PRI-260328-22EC
+evidence:
+  - id: INS-260325-2AA0
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-B974
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Sam Kean describes Janet Stevens, a Baltimore hairdresser who noticed intricate Roman hairstyles on museum busts and tried to recreate them. Despite being an expert professional stylist, she could not reproduce them with modern tools. This led her to the archaeological literature, where she discovered the ancient technique used a single needle and thread — a method no academic had considered because they lacked hands-on hairdressing experience.
 

@@ -59,6 +59,13 @@ related:
   - INS-260402-DCC5
   - INS-260330-EE16
   - INS-260325-D994
+evidence:
+  - id: INS-260330-0804
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260402-DCC5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The McGill study tested accessory-assisted placebo on children with real clinical conditions. A 12-year-old with dermatillomania showed dramatic skin improvement and stopped picking. A boy with daily post-concussion migraines became completely migraine-free for the first time in nearly two years. A child with ADHD and impulse control disorder showed immediate behavioral improvements — sleeping during the day (unusual for him), thinking before acting, and staying off medication all summer.
 

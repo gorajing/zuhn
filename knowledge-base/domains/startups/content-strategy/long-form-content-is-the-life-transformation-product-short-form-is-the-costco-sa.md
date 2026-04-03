@@ -53,5 +53,9 @@ related:
   - INS-260329-88B2
   - INS-260329-31A2
   - INS-260328-2BCF
+evidence:
+  - id: INS-260329-DE17
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Ramsey Solutions runs a deliberate media funnel: radio (megaphone/lead gen) → live events (conversion) → Financial Peace University, books, coaching (life transformation). Short-form content like YouTube Shorts (only 1.5 years old at interview time) gets heavy investment in editing and production, but the team never confuses the purpose. 'We would not only do YouTube Shorts because they don't change lives.' Almost no short-form content is originally created — it's 'sawdusted' from existing long-form shows. This approach scales efficiently: 12-15 hours of weekly recording across 10 shows generates an enormous volume of clippable moments. Resource allocation follows results: pour gas on what's working, maintain presence elsewhere, and never bet the entire media strategy on one platform because 'betting the whole thing on one delivery mechanism — woo, dumb.'

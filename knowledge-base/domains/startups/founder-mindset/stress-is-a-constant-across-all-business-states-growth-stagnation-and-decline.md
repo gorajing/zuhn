@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-13B9
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260325-1AD3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi nearly killed multiple businesses early on because he mistook stress for a signal that something was wrong. The reframe: growth is stressful (new problems, scaling pains), stagnation is stressful (frustration, uncertainty), and decline is stressful (existential threat). There is no stress-free state in business — or in life. Problems you had two years ago seem trivial now, and future-you will feel the same about today's problems.
 

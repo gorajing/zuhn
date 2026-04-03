@@ -71,6 +71,9 @@ evidence:
   - id: INS-260327-3528
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-750A
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Nitroglycerin existed for years before Nobel. It was 100x more powerful than gunpowder with blast pressure over 100x greater. The problem was never capability -- it was controllability. It would explode when bumped, dropped, or exposed to moisture, but wouldn't reliably detonate when you wanted it to.
 

@@ -58,5 +58,8 @@ evidence:
   - id: INS-260330-CBA5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-012D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In Part 1, the aquarium setup constrained what could be observed: the camera captured the gun's action but not the bullet's exit into water. Rather than incrementally improving the same setup, Destin inverted the constraint — instead of an aquarium holding water in, he built a dry periscope chamber that kept water out, using mirrors to see into the pool. This constraint inversion is a powerful problem-solving pattern: when you can't improve within existing boundaries, flip which side of the boundary you're on. The same pattern appears in engineering (clean rooms keep contamination out, not products in), business (instead of finding customers for your product, find products for your customers), and research design generally.

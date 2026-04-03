@@ -59,6 +59,10 @@ related:
   - INS-260325-14A9
   - INS-260325-0A49
   - INS-260330-FA9D
+evidence:
+  - id: INS-260329-6020
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Research by Ji Hae Shin and Adam Grant found an inverted U-curve between procrastination and creativity. People who procrastinate moderately are rated as more creative than both pre-crastinators (who dive in immediately) and chronic procrastinators. The mechanism is dual: immediate starters get stuck with first ideas and miss reframing opportunities, while chronic procrastinators rush to implement the easiest idea under extreme time pressure. Moderate procrastinators keep the problem active in their subconscious while doing other things, enabling unexpected connections and more novel solutions.
 

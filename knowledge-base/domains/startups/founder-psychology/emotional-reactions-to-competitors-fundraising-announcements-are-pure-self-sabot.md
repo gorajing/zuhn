@@ -63,6 +63,9 @@ evidence:
   - id: INS-260329-0014
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260327-7D75
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Dalton and Michael identify a pervasive founder failure mode: spiraling after reading a fundraising announcement on Twitter. The spiral takes multiple forms -- sadness ('why not us?'), rage ('how dare this terrible product raise money?'), magical thinking ('if they can raise, we can too'), or pivot impulse ('we should do what they're doing'). All of these are self-defeating.
 

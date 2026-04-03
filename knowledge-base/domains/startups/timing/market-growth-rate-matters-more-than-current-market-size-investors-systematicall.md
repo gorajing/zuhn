@@ -63,5 +63,8 @@ evidence:
   - id: INS-260323-8AB8
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260403-3CD0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Altman identifies what he calls one of the biggest systemic mistakes investors make: obsessing over current market size while ignoring growth trajectory. He argues you should prefer a small but rapidly growing market for three reasons. First, desperate customers in emerging markets tolerate imperfect products, giving you room to iterate. Second, students and young founders have better intuition about which markets will grow rapidly than older investors do, creating an information asymmetry advantage. Third, you cannot create a market that doesn't want to exist — the market is the one thing you can't change in a startup. The practical framework is Sequoia's 'why now?' question: why is this the perfect time for this idea, why couldn't it have been done two years ago, and why will two years from now be too late? Every successful YC company had a compelling answer.

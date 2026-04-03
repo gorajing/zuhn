@@ -60,6 +60,9 @@ evidence:
   - id: INS-260323-F540
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-6428
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 El-Kurd describes how his family's 2020 advocacy campaign achieved what decades of legal battles could not: they demystified the situation by making the asymmetry of power visually obvious. When images of armed soldiers evicting families matched the rhetoric of occupation, international audiences could finally understand what had been obscured by framing as a 'real estate dispute.'
 

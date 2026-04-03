@@ -49,6 +49,10 @@ related:
   - INS-260323-CB34
   - INS-260327-27DA
   - INS-260322-F6AA
+evidence:
+  - id: INS-260330-3BB5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Song and her co-founder Tony ran a 24-hour service as a two-person team: Tony stayed up until 4am, Song woke up at 4am. They handled all customer success, support tickets, and sales themselves. This extreme approach let them deeply understand what customers needed and were willing to pay for.
 

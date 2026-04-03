@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-55DC
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260402-C4FF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that individual skills have limited earning potential, but combinations of skills create exponential value. Someone who knows sales alone might earn well, but someone who knows sales AND finance can raise a billion-dollar fund. Someone who can code AND market can build software and distribute it to millions without depending on co-founders for the missing half.
 

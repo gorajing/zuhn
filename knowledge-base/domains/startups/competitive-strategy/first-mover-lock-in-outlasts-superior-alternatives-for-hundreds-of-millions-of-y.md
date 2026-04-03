@@ -75,6 +75,9 @@ evidence:
   - id: INS-260330-4315
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260325-D033
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 RuBisCo was fit-for-purpose in its original environment (high CO2, low O2) but became deeply problematic when plants themselves changed the atmosphere by producing oxygen. Despite this, no alternative carbon fixation enzyme has displaced RuBisCo across the plant kingdom.
 

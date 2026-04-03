@@ -61,6 +61,18 @@ evidence:
   - id: INS-260330-0CAD
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-D1F2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-CD38
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-69F0
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 This 2.5-hour Excel course teaches through 6 projects of increasing complexity — payroll, gradebook, decision matrix, sales database, car inventory, and challenge problems. Each project introduces new concepts (formulas, IF statements, absolute references, VLOOKUP, pivot tables) in context where the learner immediately sees why they matter. The payroll project alone spans 3 iterations, each adding complexity (basic formulas → IF for overtime → absolute references for multi-week tracking). This spiral approach means learners encounter the same concepts multiple times in progressively harder contexts.
 

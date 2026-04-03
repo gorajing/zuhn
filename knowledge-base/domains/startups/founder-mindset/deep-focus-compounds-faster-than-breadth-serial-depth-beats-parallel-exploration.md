@@ -51,6 +51,13 @@ related:
   - INS-260330-4285
   - INS-260325-05FC
   - INS-260329-D1A1
+evidence:
+  - id: INS-260327-73CB
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-4285
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that the biggest returns come from going deep rather than wide. The compounding effect of expertise, reputation, and systems only kicks in after sustained focus in a single area. Early diversification resets the compounding clock each time.
 

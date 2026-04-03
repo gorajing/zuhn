@@ -47,6 +47,10 @@ related:
   - INS-260323-D679
   - INS-260327-9838
   - INS-260330-8F91
+evidence:
+  - id: INS-260330-8F91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Products distributed freely as brand promotions generate more usage and loyalty than identical products sold at any price because the gift dynamic creates psychological reciprocity.
 

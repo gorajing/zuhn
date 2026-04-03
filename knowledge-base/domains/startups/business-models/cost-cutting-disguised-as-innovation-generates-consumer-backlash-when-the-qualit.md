@@ -49,6 +49,10 @@ related:
   - INS-260327-46F6
   - INS-260327-7AB5
   - INS-260327-86FE
+evidence:
+  - id: INS-260327-86FE
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded experience and resent the dishonesty more than the cost-cutting itself.
 

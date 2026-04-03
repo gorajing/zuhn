@@ -62,6 +62,25 @@ related:
   - INS-260402-D9D0
   - INS-260327-F0C0
   - INS-260329-9115
+evidence:
+  - id: INS-260323-8726
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-7CE9
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-E3DE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-D062
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-4293
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-9115
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Research by Ji Hae Shin and Adam Grant demonstrated that the more passionate you are about task one, the more your performance suffers if task two is boring. This is a contrast effect — like how your least favorite food tastes worse after eating something delicious. Grant changed his own behavior: instead of doing his most interesting work first thing in the morning (which made grading hellish afterward), he now starts with a moderately interesting warm-up task, keeps an exciting task to look forward to, and sequences boring-but-important tasks where contrast won't sabotage them.
 

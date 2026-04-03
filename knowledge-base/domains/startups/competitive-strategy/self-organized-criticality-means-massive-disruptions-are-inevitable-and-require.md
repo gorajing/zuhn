@@ -67,6 +67,9 @@ evidence:
   - id: INS-260325-3A0E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-7212
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Forest fires follow a power law: most burn a few trees, some burn acres, and occasionally one burns 1.4 million acres (the 1988 Yellowstone fire — 70x the previous record). The key insight from self-organized criticality is that there was nothing special about the 1988 fire's trigger — it was the same lightning strike as always. What made it a megafire was the state of the forest: decades of fire suppression had created dense, interconnected fuel loads.
 

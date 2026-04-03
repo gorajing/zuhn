@@ -57,6 +57,10 @@ related:
   - PRI-260328-EC3F
   - PRI-260328-0993
   - INS-260327-D0F4
+evidence:
+  - id: INS-260321-9E91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When Google Maps launched free navigation in 2009, Waze panicked and tried to anticipate Google's next moves based on their historical patterns (open APIs, US-UK-Germany rollout). Waze pivoted to Latin America to build assets where Google hadn't yet expanded. This cost them a full year of lost focus on the US market.
 

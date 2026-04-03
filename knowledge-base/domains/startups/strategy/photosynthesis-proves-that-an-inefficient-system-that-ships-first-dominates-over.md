@@ -58,6 +58,10 @@ related:
   - INS-260330-39B0
   - INS-260330-D108
   - INS-260330-0E1E
+evidence:
+  - id: INS-260330-09DE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Photosynthesis converts only about 1-2% of incoming solar energy into chemical energy — an objectively terrible conversion rate. RuBisCo fails half the time. The whole system requires elaborate workarounds for its own byproducts. Yet this 'complicated, inefficient and confusing' system has been the dominant energy platform on Earth for 450 million years with no competitor displacing it.
 

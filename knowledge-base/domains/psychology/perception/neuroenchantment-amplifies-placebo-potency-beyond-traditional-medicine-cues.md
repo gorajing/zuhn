@@ -58,6 +58,10 @@ related:
   - INS-260322-3A00
   - PRI-260328-1545
   - INS-260326-24E6
+evidence:
+  - id: INS-260322-3A00
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 McGill researchers coined 'neuroenchantment' to describe how neuroscience's cultural prestige magnifies the placebo effect. By layering credibility cues — a university neurological institute, lab coats, realistic sound effects, calibration procedures — they created a sham MRI experience that produced real symptom relief in children with ADHD, migraines, and dermatillomania. The mechanism parallels religious healing rituals: cultural cognitive systems assign healing power to objects and settings that a society venerates. In modernity, neuroscience has become one of the most trusted institutions, so its props carry outsized suggestive power.
 

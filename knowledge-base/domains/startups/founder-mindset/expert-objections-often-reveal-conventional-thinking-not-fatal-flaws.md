@@ -60,6 +60,12 @@ evidence:
   - id: INS-260330-1E6A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-E54B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-59D4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Stan Lee's publisher gave three specific objections to Spider-Man: (1) people hate spiders so you can't name a hero after one, (2) teenagers can only be sidekicks, and (3) superheroes don't have personal problems. Each objection was 'logical' — backed by industry convention and prior experience. And each one was completely wrong. The elements that were supposedly fatal flaws became exactly what made Spider-Man revolutionary and beloved.
 

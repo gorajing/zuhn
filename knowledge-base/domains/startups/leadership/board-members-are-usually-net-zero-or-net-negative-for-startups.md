@@ -47,5 +47,9 @@ related:
   - INS-260329-A7E2
   - INS-260325-C996
   - INS-260330-0B55
+evidence:
+  - id: INS-260325-C996
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Dalton and Michael describe the board member scoring system they've observed: +1 (rare, genuinely helpful), 0 (doesn't help but doesn't hurt), or -1 (actively harmful). There are only a handful of +1s in the whole world, so the practical advice is to aim for a zero. The fundamental problem is that founders are begging for money from someone who can fire them, with no time to pressure-test the relationship. Standard Capital's approach — no board seats, replaced by quarterly peer group sessions — addresses this by removing the principal-agent conflict entirely. Michael, who sits on boards at Reddit and Dropbox, acknowledges that even at the highest levels, the best advice a board can offer is usually just 'keep going.'

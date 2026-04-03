@@ -46,6 +46,13 @@ related:
   - PRI-260328-BF1E
   - PRI-260328-909D
   - INS-260327-86FE
+evidence:
+  - id: INS-260327-86FE
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-CB07
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 When Western markets adopt cultural products, they systematically remove the cultural context that creates authentic value and replace it with Instagram-friendly aesthetics.
 

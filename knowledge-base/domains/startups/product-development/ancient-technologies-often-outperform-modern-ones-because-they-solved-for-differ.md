@@ -61,6 +61,10 @@ related:
   - INS-260329-3263
   - PRI-260325-1640
   - INS-260330-094B
+evidence:
+  - id: INS-260329-3263
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Kean reveals that what archaeologists considered a defect in Roman concrete — undigested lumps of quicklime — was actually a key feature. MIT researchers recreated Roman concrete and discovered that when water seeps into cracks, it reacts with these quicklime lumps to produce a substance that fills the crack. The concrete literally heals itself, which is why Roman structures have stood for two millennia while modern concrete cracks and degrades.
 

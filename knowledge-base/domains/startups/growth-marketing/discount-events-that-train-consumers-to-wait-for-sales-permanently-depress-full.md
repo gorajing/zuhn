@@ -45,6 +45,10 @@ related:
   - INS-260327-CC35
   - INS-260327-82AA
   - INS-260329-CB2C
+evidence:
+  - id: INS-260327-747B
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Frequent promotional events train consumers to never pay full price, permanently depressing margins and creating a dependency on promotions to drive any sales volume.
 

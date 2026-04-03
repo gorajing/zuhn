@@ -59,6 +59,10 @@ related:
   - INS-260330-7AB8
   - INS-260323-7E6F
   - INS-260329-C5C6
+evidence:
+  - id: INS-260329-C5C6
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Levie frames startup timing as gap detection: look for moments when underlying technology factors (storage cost, network speed, device capability, computing cost) have shifted dramatically, but existing solutions haven't yet adapted. Box succeeded because storage was plummeting in cost and internet speeds were rising, yet file sharing remained stuck in expensive, cumbersome on-premise paradigms. The gap between what was technologically possible and how things actually worked was enormous.
 

@@ -57,6 +57,10 @@ related:
   - INS-260402-EA72
   - INS-260402-3FC5
   - INS-260402-421B
+evidence:
+  - id: INS-260327-C79D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Unlike public markets where fear and greed create stabilizing counter-pressures (bargain hunters buy when others panic), startup investing has no such dampening mechanism. No investor wants the 'bargain' startup that everyone else passed on. With only ~10 relevant investors for any given startup, and each heavily influenced by the others' opinions, the system resembles a primitive organism that contracts violently when any part is irritated.
 

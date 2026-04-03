@@ -60,6 +60,9 @@ evidence:
   - id: INS-260328-AA1F
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-C681
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 
 Every hype cycle (crypto, NFTs, AI) creates a vulnerable audience of

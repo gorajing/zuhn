@@ -55,6 +55,10 @@ related:
   - INS-260330-30E8
   - INS-260330-85AE
   - INS-260325-A79E
+evidence:
+  - id: INS-260325-A79E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The proof's core move is brilliant in its simplicity: start with one lighthouse on a circle, use the inverse Pythagorean theorem to split it into two on a larger circle while preserving total brightness, and repeat. At each step you have evenly-spaced lighthouses on a circle with known total brightness π²/4. In the limit, the circle becomes a flat line with infinite evenly-spaced lighthouses.
 

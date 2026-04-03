@@ -60,6 +60,9 @@ evidence:
   - id: INS-260330-0C0C
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-047C
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Hormozi cites research showing that zip code of birth is the single strongest predictor of lifetime earnings — stronger than IQ, race, or gender. His theory is that environment works through social comparison: poor people feel rich when surrounded by other poor people, but when placed in a room where everyone earns 10x more, behavior changes dramatically. This is why college adds measurable value for first-generation students — it literally changes their 'zip code' by exposing them to higher-earning peer groups and different expectations.
 

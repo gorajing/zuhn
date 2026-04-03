@@ -60,6 +60,21 @@ evidence:
   - id: INS-260323-C1B2
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260323-61FE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-6E4E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2B5F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-6A3A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-0827
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 GSP demonstrates that when driving through on a takedown against a strong opponent who sprawls: 'don't force it, don't waste your energy — turn the corner.' When the opponent commits their weight to defending one direction, they open up on the other side. The principle: 'try to be as economic as you can.' He explicitly teaches going elbow-deep on the double leg for leverage advantage, and if the direct path is blocked, immediately redirecting rather than forcing.
 

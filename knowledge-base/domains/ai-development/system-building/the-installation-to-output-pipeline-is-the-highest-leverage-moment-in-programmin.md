@@ -86,6 +86,12 @@ evidence:
   - id: INS-260329-FA1C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-3D7B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-C4F1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 This tutorial dedicates its opening segment to getting Python installed and a 'Hello World' printed as fast as possible, deferring all conceptual explanation. This mirrors a well-established pattern across successful programming education: the installation-to-first-output pipeline is where the majority of potential learners are lost. Every additional step, configuration, or error in this pipeline has outsized negative impact.
 

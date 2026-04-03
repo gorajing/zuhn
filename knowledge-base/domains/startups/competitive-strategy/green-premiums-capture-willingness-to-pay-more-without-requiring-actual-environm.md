@@ -49,6 +49,9 @@ evidence:
   - id: INS-260325-8DF7
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-6742
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actual cost of sustainable production.
 

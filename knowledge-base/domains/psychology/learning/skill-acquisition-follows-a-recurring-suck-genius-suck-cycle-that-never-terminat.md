@@ -55,6 +55,10 @@ related:
   - INS-260329-1D08
   - INS-260329-D1B8
   - INS-260329-557C
+evidence:
+  - id: INS-260329-D1B8
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Most learners expect a linear trajectory: struggle, then mastery, then comfort. The reality is a repeating oscillation — you feel like a genius after your first program, then realize how much you don't know, then feel brilliant again after a breakthrough, then crash again at the next level. This pattern is identical across domains (music, sports, programming) and never terminates.
 

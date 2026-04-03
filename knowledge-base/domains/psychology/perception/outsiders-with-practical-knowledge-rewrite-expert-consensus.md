@@ -56,6 +56,13 @@ related:
   - INS-260325-78E9
   - PRI-260328-22EC
   - INS-260325-A070
+evidence:
+  - id: INS-260325-78E9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-A070
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kean describes how Janet Stevens, a professional hairdresser with no archaeology training, proved that academic theories about Roman hairstyling were wrong by actually trying to recreate the styles. Despite being an expert stylist, she couldn't do it with modern tools -- which led her to discover that the Romans used sewing needles and a completely different technique. Similarly, indigenous communities and 'grouchy survivalists' have rewritten archaeological understanding through practical knowledge passed down through generations.
 

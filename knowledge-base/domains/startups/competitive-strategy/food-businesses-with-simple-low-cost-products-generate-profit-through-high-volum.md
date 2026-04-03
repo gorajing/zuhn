@@ -46,6 +46,10 @@ related:
   - INS-260329-ADCD
   - INS-260329-36D9
   - INS-260330-5600
+evidence:
+  - id: INS-260329-36D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume highly profitable if overhead is controlled.
 

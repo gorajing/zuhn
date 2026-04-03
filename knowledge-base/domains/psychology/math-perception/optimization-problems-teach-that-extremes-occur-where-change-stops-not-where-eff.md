@@ -57,6 +57,10 @@ related:
   - INS-260402-4AB4
   - INS-260329-356A
   - INS-260329-F4B2
+evidence:
+  - id: INS-260402-4AB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 One of the most practically useful results in Calculus 1 is that to find the highest or lowest value of a function, you look for points where the derivative is zero (critical points). This is deeply counter-intuitive: the peak of a mountain is the one place where the ground is momentarily flat. The maximum profit point is where marginal gain has dropped to zero. The fastest moment in a trajectory is where acceleration crosses zero.
 

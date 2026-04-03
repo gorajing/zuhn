@@ -82,6 +82,12 @@ evidence:
   - id: INS-260330-D304
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-F5CF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-A3EB
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The enzyme RuBisCo evolved when Earth's atmosphere had minimal oxygen. It was mediocre at its job (fixing carbon), but was far better than nothing, so early organisms produced massive quantities to compensate. Then plants themselves increased atmospheric oxygen through photosynthesis, and RuBisCo started grabbing oxygen instead of CO2 roughly half the time, producing a toxic byproduct.
 

@@ -61,6 +61,33 @@ evidence:
   - id: INS-260327-8E45
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-0AF3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-19C3
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C607
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-2119
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-3AB4
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C7C2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-0CFF
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-656A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-13A1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When photosynthesis first evolved, oxygen was genuinely a waste product — it was toxic to the anaerobic organisms that dominated Earth. The Great Oxidation Event caused a mass extinction. Yet this 'waste' eventually enabled the entire branch of aerobic life, including every animal that has ever existed.
 

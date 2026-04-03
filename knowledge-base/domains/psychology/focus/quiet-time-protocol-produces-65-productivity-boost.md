@@ -64,6 +64,21 @@ evidence:
   - id: INS-260329-9D26
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260327-9192
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-EB3E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-ED04
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-5B7F
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-ACB3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Leslie Perlow's quiet time experiment with engineers established a simple protocol: no meetings, no interruptions, no Slack, no emails before noon on specific days (e.g., Thursday and Friday). The result was 65% above average productivity during those protected blocks. The average person checks email 72 times per day (per Gloria Mark's pre-COVID data), creating what Brigid Schulte calls 'time confetti' — meaningful blocks sliced into tiny, unusable dots that erode both accomplishment and joy.
 

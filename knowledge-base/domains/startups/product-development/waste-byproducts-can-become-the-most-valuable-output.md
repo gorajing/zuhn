@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-8E45
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-E786
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When photosynthesis first evolved, oxygen was literally waste — a dangerous byproduct that early anaerobic organisms had to tolerate. Over geological time, this 'waste' became the single most important atmospheric gas for complex life, enabling the entire animal kingdom.
 

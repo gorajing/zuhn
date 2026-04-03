@@ -56,6 +56,15 @@ evidence:
   - id: INS-260330-4C23
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260323-1FC1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-1338
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-0B9D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Financial behaviors that appear irrational (overspending despite anxiety, hoarding despite wealth, refusing to earn despite capability) make sense when you identify the psychological need money represents. For some, spending provides temporary relief from inadequacy. For others, saving provides illusion of control over uncertainty.
 

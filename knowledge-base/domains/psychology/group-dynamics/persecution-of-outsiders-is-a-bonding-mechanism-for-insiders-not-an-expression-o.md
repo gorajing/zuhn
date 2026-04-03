@@ -56,6 +56,10 @@ related:
   - PRI-260324-2A76
   - INS-260330-814E
   - INS-260330-ABBF
+evidence:
+  - id: INS-260323-F853
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham argues that bullying is fundamentally a coalition-building tool: nothing brings people closer than a common enemy, and if no real enemy exists, one must be manufactured. The worst bullying comes from groups rather than individuals because the social bonding function requires witnesses and participants. The victims are essentially interchangeable — it's nothing personal, they just need something to chase.
 

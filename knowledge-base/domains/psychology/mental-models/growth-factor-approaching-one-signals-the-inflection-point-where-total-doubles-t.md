@@ -57,6 +57,22 @@ related:
   - INS-260330-CB30
   - INS-260330-A949
   - INS-260330-C499
+evidence:
+  - id: INS-260327-4E34
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-FE65
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-CB30
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-A949
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C499
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The growth factor — the ratio of new additions today to new additions yesterday — is a powerful real-time diagnostic. When it's consistently above one (say 1.15), you're on the exponential part and orders of magnitude of growth may still lie ahead. When it drops to approximately one, you've hit the inflection point of the logistic curve, meaning the total will roughly double from wherever you are now and then flatten.
 

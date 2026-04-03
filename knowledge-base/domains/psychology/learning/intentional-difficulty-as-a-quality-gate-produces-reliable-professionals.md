@@ -66,6 +66,9 @@ evidence:
   - id: INS-260320-F78E
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-012D
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Kaku states bluntly that physics departments flunk most students in elementary physics, and are encouraged to do so by engineering departments. The reasoning is stark: if you can't master friction, levers, pulleys, and gears, you shouldn't be designing bridges or skyscrapers. Before you can work with Einstein's elegant equations, you must master Newton's mechanical fundamentals.
 

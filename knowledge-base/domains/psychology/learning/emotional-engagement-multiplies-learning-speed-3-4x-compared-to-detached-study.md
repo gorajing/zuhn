@@ -50,5 +50,12 @@ related:
   - INS-260329-0068
   - INS-260329-9A58
   - INS-260329-493A
+evidence:
+  - id: INS-260329-27A7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Robert Greene illustrates this with his own experience learning French: four years of university French produced near-zero practical ability, but one month in Paris — emotionally engaged with a girlfriend and survival necessity — produced more fluency than those four years combined. The mechanism is neurological: emotional engagement triggers neurochemical release (dopamine, norepinephrine) that signals the brain to rewire. Without agitation or excitement, the brain has no biological reason to change its neural architecture. This has direct implications for skill development strategy: rather than forcing discipline on topics that don't emotionally engage you, find the emotional hook first. The discipline follows naturally from genuine engagement, not the reverse.

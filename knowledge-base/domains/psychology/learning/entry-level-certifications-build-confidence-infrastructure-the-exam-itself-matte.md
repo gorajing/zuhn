@@ -56,5 +56,9 @@ related:
   - INS-260330-90C3
   - PRI-260327-5635
   - INS-260323-F2C3
+evidence:
+  - id: INS-260323-F2C3
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The course's most counter-intuitive advice is about the certification's value proposition: Andrew Brown explicitly says the CCP 'is not recognized as an important certification for developers on resume' and 'won't help you get a job.' Instead, its primary value is psychological — it builds familiarity with the testing environment, reduces anxiety, and creates a confidence foundation for harder associate and professional certifications. This is a transferable learning principle: when facing a high-stakes challenge, insert a low-stakes rehearsal first. The rehearsal's content matters less than the experiential familiarity it builds. You learn logistics (arriving on time, understanding the environment), manage performance anxiety in a low-consequence setting, and build a success reference point. This applies to job interviews (do mock interviews at companies you care less about first), public speaking (start with small audiences), and any domain where performance anxiety can undermine competence.

@@ -57,6 +57,15 @@ evidence:
   - id: INS-260330-A812
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-4B16
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260322-F128
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-CEE1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Paul Graham observes that when rankings must be created without meaningful criteria, the situation degenerates into a popularity contest — rank depends on one's ability to increase one's rank, not on any external measure of skill or contribution. This mirrors court dynamics where there is no external opponent, so members become each other's opponents.
 

@@ -58,6 +58,13 @@ related:
   - PRI-260325-262C
   - INS-260330-654D
   - INS-260330-4A89
+evidence:
+  - id: INS-260330-654D
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260330-4A89
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Mandate of Heaven is a governance mental model where authority is granted by a transcendent force (Heaven) conditional on the ruler's moral conduct. Unlike European divine right, which was unconditional and hereditary, the Mandate could be revoked — and the proof of revocation was the dynasty's collapse itself. This creates a tautological but powerful legitimacy framework: if you succeeded in overthrowing a dynasty, that success proved Heaven had withdrawn its mandate.
 

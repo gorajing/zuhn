@@ -85,6 +85,9 @@ evidence:
   - id: INS-260327-40E3
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-5958
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Whyte cites data from iSEEit (a MEDDIC implementation SaaS) showing that over 80% of deals that were won had direct engagement with the economic buyer, while over 80% of deals that were lost or slipped did not. He states bluntly: 'If you aren't engaged with the economic buyer, you are order-taking, not selling.'
 

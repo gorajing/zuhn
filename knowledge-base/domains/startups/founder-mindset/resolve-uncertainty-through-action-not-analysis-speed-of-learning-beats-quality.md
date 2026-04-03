@@ -65,6 +65,12 @@ evidence:
   - id: INS-260327-BE4E
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-3879
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-E982
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 The Pensive founder left a 10-year career at a recognized Korean educational institution to go to the US because he concluded that 'resolving uncertainty quickly is much more important than feeling anxious about it.' This manifested in concrete behaviors: going to meet property managers during rainstorms, waking at 5 AM to source food market ingredients, building and killing products in rapid succession.
 

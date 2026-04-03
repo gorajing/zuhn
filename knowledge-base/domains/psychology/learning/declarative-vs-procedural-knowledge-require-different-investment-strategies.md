@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-B2F4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-9A58
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies two distinct knowledge types that require different acquisition strategies. Declarative knowledge — learning that something exists (tax strategies, business models, Facebook ads) — comes from exposure to people operating at higher levels. This is where masterminds and paid rooms deliver value: they surface 'unknown unknowns.' Procedural knowledge — learning how to execute — requires structured skill transfer: document, demonstrate, duplicate.
 

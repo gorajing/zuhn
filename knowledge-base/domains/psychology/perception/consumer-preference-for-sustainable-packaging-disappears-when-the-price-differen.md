@@ -48,6 +48,19 @@ related:
   - INS-260321-8D2B
   - INS-260327-5D71
   - INS-260327-7D27
+evidence:
+  - id: INS-260327-CADA
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-99E5
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260321-AA91
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260321-8D2B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Stated preference for sustainable packaging evaporates when the price premium is visible on the shelf because consumers evaluate packaging and pricing together at point of purchase.
 

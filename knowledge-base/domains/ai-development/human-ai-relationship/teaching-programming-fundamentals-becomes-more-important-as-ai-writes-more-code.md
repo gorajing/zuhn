@@ -76,6 +76,9 @@ evidence:
   - id: INS-260329-E333
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-1ACD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 CS50P teaches the fundamentals — variables, control flow, functions, OOP, testing, debugging — that many assume AI will make obsolete. But the opposite is true. When AI generates code, someone must verify it works correctly, debug it when it doesn't, and understand its behavior at the edges. This requires exactly the mental models CS50P builds: understanding how data flows through a program, what side effects functions can have, why certain patterns lead to bugs.
 

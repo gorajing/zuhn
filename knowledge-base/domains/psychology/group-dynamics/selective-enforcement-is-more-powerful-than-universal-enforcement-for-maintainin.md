@@ -64,5 +64,17 @@ evidence:
   - id: INS-260327-842F
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-5D01
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1183
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-F8A2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-84BD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 North Korea's approach to its illegal capitalist economy reveals a sophisticated control mechanism: rather than eliminate all private markets, the regime selectively enforces laws, simultaneously managing markets and sometimes encouraging them. This creates a system where the newly wealthy depend on regime tolerance for their prosperity - they seek luxury, not political change. The 2009 currency redenomination (limiting exchanges to 100,000 Won per person) demonstrated what happens when enforcement becomes too universal: it triggered the closest thing to a protest North Korea has seen. The lesson generalizes to any authority structure - total enforcement is both impossible and counterproductive. Selective enforcement creates a web of mutual dependency where rule-breakers are co-opted rather than radicalized, making them invested in the continuation of the system they technically violate.

@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-2C57
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260327-A69D
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The standard technology adoption curve assumes users weigh costs against benefits and gradually adopt. Zimbabwe's mobile money adoption shattered this model. When the alternative to EcoCash was waking at 2 AM to queue at ATMs for a maximum withdrawal of one or two US dollars — or making a dangerous multi-day journey to send money to family — the 'consideration phase' collapsed to zero.
 

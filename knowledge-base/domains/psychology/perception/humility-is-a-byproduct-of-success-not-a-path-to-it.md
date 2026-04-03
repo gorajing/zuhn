@@ -64,6 +64,24 @@ evidence:
   - id: INS-260323-F2C3
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-8B89
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-2038
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-A272
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-D8A9
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-FA62
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-91E7
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The conventional wisdom says 'be humble and you'll succeed,' but observation suggests the causal arrow runs the other direction. As you succeed, three forces naturally produce humility: (1) you intersect with genuinely world-class people who make your limitations obvious, (2) you no longer need self-promotion to get opportunities so you stop burning energy on it, and (3) as you age, younger generations with better tools and training surpass your peak abilities in specific skills.
 

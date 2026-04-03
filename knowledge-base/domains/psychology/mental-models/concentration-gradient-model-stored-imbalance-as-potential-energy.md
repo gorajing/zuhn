@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-EAA3
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-40EC
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 In photosynthesis, the thylakoid membrane is deliberately 'charged' by pumping protons to one side, creating a concentration gradient. This stored imbalance is then released through ATP synthase in a controlled way to produce ATP — usable energy. The energy isn't in the protons themselves but in the *difference* between the two sides.
 

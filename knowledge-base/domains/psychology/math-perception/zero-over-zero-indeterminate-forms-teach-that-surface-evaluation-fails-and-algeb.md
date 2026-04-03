@@ -57,6 +57,10 @@ related:
   - INS-260329-1F17
   - INS-260329-02C5
   - INS-260329-579D
+evidence:
+  - id: INS-260329-1F17
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Throughout Calculus 1, the single most repeated pattern is encountering a limit that yields 0/0 when you try direct substitution, then applying an algebraic trick — factoring, conjugate multiplication, common denominator manipulation — to cancel the problematic term and reveal the actual answer. This is not a quirk of calculus; it's a fundamental epistemological pattern. The 'obvious' approach (just plug in the number) fails precisely because the interesting behavior happens at a boundary where two quantities vanish simultaneously. The real information is in their ratio as they vanish, which requires restructuring to see.
 

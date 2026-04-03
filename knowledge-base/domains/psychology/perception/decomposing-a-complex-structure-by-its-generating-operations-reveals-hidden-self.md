@@ -63,6 +63,12 @@ evidence:
   - id: INS-260326-E1A8
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260325-A79E
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-2612
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Banach-Tarski proof's key move is a naming scheme: assign every point on the sphere a unique name based on the sequence of rotations (Up, Down, Left, Right) that reaches it from a starting point. This creates a structure analogous to the Hyperwebster dictionary — every possible finite string over a 4-letter alphabet.
 

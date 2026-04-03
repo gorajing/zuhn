@@ -55,6 +55,9 @@ evidence:
   - id: INS-260323-0603
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-EF96
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham observes that truly confident, dominant groups don't need taboos — nobody gets in trouble for mocking Americans or the English. Conversely, completely marginal groups lack the power to enforce prohibitions. The sweet spot for taboo creation is groups that have recently gained power but still feel threatened. Copernicus published freely because the Church was secure; Galileo was persecuted because the Counter-Reformation Church was anxious.
 

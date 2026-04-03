@@ -56,6 +56,13 @@ related:
 stance: >-
   African-Americans, Jewish Americans, gay Americans, and Soviet emigres are all
   overrepresented in comedy not from innate talent but from the outsid...
+evidence:
+  - id: INS-260327-A4E3
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260402-70FD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Malice identifies a pattern across multiple marginalized groups: those on the outside looking in develop sharper perspective than those in the comfortable middle. This isn't about innate group characteristics — it's about the cognitive effect of occupying a position where you can see what the majority cannot.
 

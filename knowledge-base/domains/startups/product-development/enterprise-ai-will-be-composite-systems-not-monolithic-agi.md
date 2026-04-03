@@ -59,5 +59,8 @@ evidence:
   - id: INS-260330-712D
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260326-2C4E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Philip argues that enterprise AI fundamentally diverges from the consumer AGI narrative. Enterprises need checks, balances, and controls because they are legally and financially accountable for system outcomes. This means AI will be deployed as composite systems: LLMs for generation, graph databases for structured knowledge, retrieval systems for grounding, and human oversight for critical decisions. The monolithic AGI model where one system does everything is incompatible with enterprise requirements for explainability, auditability, and control. Startups building for enterprise should architect composite systems from day one.

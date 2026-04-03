@@ -73,6 +73,9 @@ evidence:
   - id: INS-260330-B7B1
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-A1D2
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Grier traces how standardization was the critical enabler for scaling computation. Early nautical almanac calculations were done by individuals using idiosyncratic personal methods — one computer even had cramped handwriting that made his calculations nearly indecipherable to others. By the early 20th century, calculations were done on standardized graph paper with operations identified line by line.
 

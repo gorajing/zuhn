@@ -68,6 +68,12 @@ evidence:
   - id: INS-260329-DACC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-4574
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-9A58
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 CS50 Python demonstrates a deliberate pedagogical pattern: every new concept is introduced by modifying a program the student already understands. Variables become conditionals become loops become functions — each lecture revisits the same hello-world seed at a higher level of abstraction. This mirrors how expert programmers actually think: not as a flat list of syntax rules, but as nested layers of pattern.
 

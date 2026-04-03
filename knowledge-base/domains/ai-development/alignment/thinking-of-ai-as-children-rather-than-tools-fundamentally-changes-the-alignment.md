@@ -62,6 +62,9 @@ evidence:
   - id: INS-260325-B11F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-393C
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The dominant AI alignment paradigm treats AI as a tool to be constrained: RLHF, constitutional AI, and safety guardrails all assume the correct relationship is human control over AI behavior. Kellis proposes a fundamentally different frame: AI as children we're responsible for raising.
 

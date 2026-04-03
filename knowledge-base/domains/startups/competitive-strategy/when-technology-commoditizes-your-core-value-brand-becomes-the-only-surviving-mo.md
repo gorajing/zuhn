@@ -57,6 +57,10 @@ related:
   - PRI-260328-82BE
   - INS-260327-C083
   - PRI-260328-A1AA
+evidence:
+  - id: INS-260330-9A34
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The Swiss watch industry's quartz crisis illustrates a universal pattern: when technology commoditizes a product's core function, companies that compete on performance alone are destroyed. Omega responded to Japanese competition by making even more accurate movements — the 'nerd' response — and went insolvent by 1981. Patek Philippe instead redesigned cases to maximize brand surface area, shifting from 8 square millimeters of brand (the name on the dial) to 800 (the entire case).
 

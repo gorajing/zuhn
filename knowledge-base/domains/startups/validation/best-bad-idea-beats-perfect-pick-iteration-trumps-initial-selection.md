@@ -66,5 +66,8 @@ evidence:
   - id: INS-260323-5CBE
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-C13A
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi explicitly breaks the belief that you need to pick the perfect business on the first try. His argument is structural: with zero customer conversations and zero feedback, you have the least information you'll ever have — so any attempt at perfection is delusional. Instead, the goal is to arrive at your 'best bad idea' as quickly as possible, then enter the iteration loop where real customer feedback progressively makes it less wrong. This reframes business selection from a high-stakes single decision into an ongoing refinement process. The psychological shift matters enormously for first-time entrepreneurs paralyzed by analysis paralysis — it lowers the activation energy required to start. People who appear to have 'picked right on the first try' actually went through many invisible iterations. The framework reduces entrepreneurial risk by decoupling the quality of the initial idea from the quality of the eventual business.

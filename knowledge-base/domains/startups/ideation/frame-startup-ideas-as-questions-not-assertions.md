@@ -57,6 +57,13 @@ related:
   - INS-260330-AB6E
   - INS-260330-6C68
   - PRI-260328-59DC
+evidence:
+  - id: INS-260329-EAFD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260403-1448
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Paul Graham argues that the initial startup idea is not a blueprint but a question to explore. Saying 'could one make a collaborative web-based spreadsheet?' instead of 'I'm going to build a collaborative web-based spreadsheet' transforms the psychological dynamic entirely. Assertions provoke objections—from critics and from your own inner skeptic—while questions invite experimentation.
 

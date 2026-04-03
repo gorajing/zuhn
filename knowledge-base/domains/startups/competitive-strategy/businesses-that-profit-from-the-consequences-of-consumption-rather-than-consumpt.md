@@ -49,6 +49,9 @@ evidence:
   - id: INS-260327-CE05
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-FCC4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Companies that service the downstream effects of consumer behavior (storage, waste management, debt collection) have more stable demand than the consumption they depend on.
 

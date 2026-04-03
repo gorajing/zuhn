@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-F493
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-1F17
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The course presents three equivalent facts about e: (1) e = lim(1 + 1/n)^n as n→∞, (2) lim(e^h - 1)/h = 1 as h→0, and (3) the derivative of e^x is e^x. Any one of these can serve as the definition, and the others follow as theorems. This reveals something profound about how mathematics works: e isn't a number that was found in nature and then turned out to have nice properties. It was constructed because mathematicians needed a base whose exponential function would be its own derivative.
 

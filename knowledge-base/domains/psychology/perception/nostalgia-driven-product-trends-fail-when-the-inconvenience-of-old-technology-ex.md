@@ -46,6 +46,22 @@ related:
   - INS-260330-5ED4
   - INS-260329-B6DF
   - INS-260327-6A45
+evidence:
+  - id: INS-260327-A620
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260324-A046
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-5ED4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-B6DF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-6A45
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds the inconvenience cost, but collapses when daily friction makes the inconvenience intolerable.
 

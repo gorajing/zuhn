@@ -57,6 +57,13 @@ related:
   - INS-260330-175F
   - INS-260330-48A8
   - INS-260330-2339
+evidence:
+  - id: INS-260330-7511
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-A40E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When a great employee asks for a raise, the natural instinct is to say yes—they deserve it, you want to retain them, and it creates immediate goodwill. But the employee who didn't ask and may be performing better now learns that negotiation skill matters more than work quality. They either become a perpetual raise-asker or leave for a company that evaluates performance fairly. Word travels fast: every employee develops a 'fiduciary responsibility to their family' to ask for raises constantly.
 

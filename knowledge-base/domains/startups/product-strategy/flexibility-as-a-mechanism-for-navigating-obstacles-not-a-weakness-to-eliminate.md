@@ -72,6 +72,12 @@ evidence:
   - id: INS-260330-CED2
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-FA2D
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-13A8
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The archer's paradox demonstrates that an arrow's flexibility is not a deficiency but the exact mechanism enabling accuracy. A perfectly rigid arrow striking the bow's riser would deflect unpredictably. Instead, the arrow's ability to flex allows it to snake around the obstruction while maintaining its trajectory toward the target.
 

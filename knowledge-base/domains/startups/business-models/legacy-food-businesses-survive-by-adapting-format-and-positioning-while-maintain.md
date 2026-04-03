@@ -46,6 +46,13 @@ related:
   - INS-260330-B22D
   - PRI-260328-1D90
   - INS-260327-57A4
+evidence:
+  - id: INS-260330-B22D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-57A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Donut shops that survived evolved from simple bakeries to premium experiences, coffee destinations, and social media attractions while the core product remained essentially unchanged.
 

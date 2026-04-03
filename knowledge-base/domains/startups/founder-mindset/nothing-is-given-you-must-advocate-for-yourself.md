@@ -49,5 +49,9 @@ related:
   - INS-260323-4DD9
   - INS-260329-FCC6
   - INS-260330-3A7B
+evidence:
+  - id: INS-260322-A928
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Angela learned that at Nvidia, producing great work is necessary but not sufficient. You must also be vocal about your contributions, advocate for your projects resources, and communicate proactively with leadership. This advice runs counter to the meritocratic ideal where work speaks for itself, but reflects reality in fast-paced organizations where managers have limited attention. The immigrant experience amplified this lesson — coming from a culture where humility was valued, Angela had to learn that self-advocacy in American business culture is not arrogance but a survival skill.

@@ -69,6 +69,9 @@ evidence:
   - id: INS-260402-28BA
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-B309
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The course demonstrates two fundamental graph traversal strategies with a profound structural difference. BFS uses a queue and explores level by level — all neighbors first, then neighbors of neighbors. DFS uses a stack (or recursion) and plunges deep down one path before backtracking. Both visit every reachable node, but the order of discovery is completely different.
 

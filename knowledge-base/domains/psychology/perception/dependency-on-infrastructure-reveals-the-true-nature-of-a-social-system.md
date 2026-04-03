@@ -55,5 +55,11 @@ evidence:
   - id: INS-260325-6262
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-D661
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-E63E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Beard points out that the toga — the official Roman male citizen garment — was physically impossible to put on by yourself. It required another person, which in Roman society meant a slave. Women's elaborate hairstyles were 'literally stitched onto' them. These are not trivial fashion details but structural revelations: Roman elite daily life was architecturally dependent on slavery at the most basic level. The general principle is that you can understand the true nature of any system by examining what its routine operations literally require. In modern organizations, the equivalent is identifying what your daily workflows actually depend on — which reveals real power structures and dependencies far more accurately than org charts or stated values.

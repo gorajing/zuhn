@@ -64,6 +64,12 @@ evidence:
   - id: INS-260330-BE23
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-699B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260403-1448
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Base 44's 'plan mode' switches the AI from builder to interviewer — it asks structured questions about the app type, intended users, and feature priorities before generating a single line of code. This seemingly slower approach actually accelerates the overall process because it prevents the expensive rework cycle that comes from building on wrong assumptions.
 

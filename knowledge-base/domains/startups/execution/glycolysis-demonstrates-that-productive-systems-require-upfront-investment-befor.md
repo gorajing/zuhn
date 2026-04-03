@@ -59,6 +59,12 @@ evidence:
   - id: INS-260329-55DC
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-6AB7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-E068
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Glycolysis requires the cell to spend 2 ATP molecules before the process can generate 4 ATP, yielding a net profit of 2 ATP. This 'you gotta spend money to make money' principle operates at the most fundamental level of biology — even single cells cannot generate energy without first investing energy.
 

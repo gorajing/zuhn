@@ -66,6 +66,9 @@ evidence:
   - id: INS-260323-9D21
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260323-B230
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Teddy Atlas grew up as a doctor's son but ran with street kids, did robberies, and got into constant fights. He realized that 'you don't have to be poor to be poor' -- his father's total dedication to medicine meant emotional absence at home, and the resulting hunger for family and belonging drove Teddy toward dangerous substitutes.
 

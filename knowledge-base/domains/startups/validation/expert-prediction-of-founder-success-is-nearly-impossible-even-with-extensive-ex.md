@@ -59,6 +59,10 @@ related:
   - INS-260327-E3D5
   - INS-260327-200C
   - INS-260327-3349
+evidence:
+  - id: INS-260402-ED85
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 After nine years running Y Combinator and evaluating thousands of founders, Graham concludes that predicting startup success is nearly impossible. Intelligence clears a threshold, but the hard part — predicting toughness and ambition under novel conditions — defeats even deep expertise. Confident founders who aced every prior test fail at the same rate as uncertain ones who wondered how they got in.
 

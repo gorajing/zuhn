@@ -64,6 +64,10 @@ related:
   - INS-260323-1D15
   - PRI-260323-F193
   - INS-260330-E4AD
+evidence:
+  - id: INS-260323-1D15
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 The heat equation reveals that when you decompose a temperature distribution into frequency components, each decays exponentially but at rates proportional to the square of their frequency. This means jagged high-frequency detail vanishes almost instantly while broad low-frequency patterns persist. 'All of the complexity in the evolution of this heat distribution is captured by this difference in the decay rates for the different pure frequency components.'
 

@@ -60,6 +60,12 @@ evidence:
   - id: INS-260330-669C
     type: CONTRADICTS
     classified_at: '2026-04-03'
+  - id: INS-260323-B230
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-C2F1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Atlas's father was a doctor who built hospitals for people who couldn't afford care, did house calls until age 80 for $3, and picked up homeless people before holidays to put them in hospital beds so they wouldn't be alone. He never explained why in moral terms. Young Teddy absorbed it through osmosis -- watching, riding along on house calls, piecing together the logic only later.
 

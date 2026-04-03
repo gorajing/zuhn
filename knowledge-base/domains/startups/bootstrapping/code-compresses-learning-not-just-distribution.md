@@ -65,5 +65,14 @@ evidence:
   - id: INS-260320-9935
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-0C1B
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-9DC9
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-36D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 A physical business gets maybe two to four major iterations per year. A software team can run hundreds of experiments per month. Your competitive advantage in code isn't just that you can serve the next user for free — it's that you can learn faster than anyone operating in atoms. This gives you better feedback loops. Before automating anything, do the math: multiply time saved per occurrence by frequency, stretch over five years. If it exceeds build time, automate. But the XKCD chart is conservative — it ignores that automated processes don't make typos at 2 AM, that context switches cost 30 minutes of focus, and that every automation makes the next one cheaper.

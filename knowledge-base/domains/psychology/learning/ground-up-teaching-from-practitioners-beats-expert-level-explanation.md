@@ -55,6 +55,13 @@ related:
   - INS-260329-ACE6
   - INS-260329-1DA3
   - INS-260329-1741
+evidence:
+  - id: INS-260329-ACE6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-1741
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Destin explicitly chose to learn from his dad — a skilled mechanic but not a professional educator — over 'a person paid to work on small engines.' His dad's 45-minute lesson built understanding layer by layer: bowl holds fuel, float controls level, Venturi creates vacuum, choke adjusts mixture. Each concept anchored to the previous one.
 

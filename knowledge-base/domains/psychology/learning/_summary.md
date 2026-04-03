@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 213 insights
+> 214 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -26,6 +26,7 @@
 - `INS-260330-3879` [high] The MNIST network confidently classifies random noise because its cost function never incentivized uncertainty — what you optimize for defines the ceiling of what you learn.
 - `INS-260330-91EA` [high] Huygens discovered that his pendulum clocks synchronized not because of their internal mechanisms but because they shared a wooden beam that transmitted mechanical vibrations between them.
 - `INS-260330-7CFB` [high] Good explanations are defined by being criticizable and hard to vary, with scientific testability being one form of criticizability rather than the fundamental criterion.
+- `INS-260403-2949` [high] Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - `INS-260329-3763` [high] The structured debugging process taught in programming — isolate, reproduce, trace, fix — is a universal diagnostic framework applicable far beyond code.
 - `INS-260329-FA1C` [high] Distinguish between paying to learn WHAT exists (declarative — networks, masterminds) vs HOW to do it (procedural — coaching, training), and buy the right type for your current gap.
 - `INS-260330-541B` [high] Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.

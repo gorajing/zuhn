@@ -61,5 +61,8 @@ evidence:
   - id: INS-260329-03B5
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-B784
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Ross reveals that TestFlight has a feature where users can take a screenshot, annotate it with feedback, and it goes directly to the developer's project settings. He shows real examples of users sending competitive app screenshots with suggestions and detailed UX feedback. The non-obvious value is that this captures feedback at the moment of frustration — not in a survey 3 days later when the user has forgotten the specifics. Ross explicitly says 'this is exactly how I made my next update.' For solo developers and small teams building with AI tools, this creates a tight feedback loop: build with AI → deploy to TestFlight → get annotated screenshots from users → feed those screenshots back to AI code editor for fixes.

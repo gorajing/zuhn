@@ -63,6 +63,9 @@ evidence:
   - id: INS-260330-57E6
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-E786
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 In photosynthesis, when Photosystem II needs to replace an electron that's been excited away, it splits water (H2O) and steals an electron. The leftover hydrogen ions and oxygen are literally waste products. Yet oxygen became the foundation for all aerobic life on Earth — arguably the most consequential 'byproduct' in history.
 

@@ -59,6 +59,15 @@ evidence:
   - id: INS-260327-9560
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260403-393C
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-B4D1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-E039
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 When told he should do 'normal kid life,' Goldstein's response is simply 'just build.' He has a group of friends who share the entrepreneurial spirit—they launch weather balloons together, experiment with projects, and support each other's ventures. His family wasn't surprised when he launched an AI product because they knew his nature.
 

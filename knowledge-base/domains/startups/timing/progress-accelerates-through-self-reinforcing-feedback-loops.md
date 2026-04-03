@@ -59,6 +59,9 @@ evidence:
   - id: INS-260325-9C1E
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-26C6
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The fundamental driver of accelerating progress is feedback loops. In the early industrial revolution, coal powered steam engines that transported coal and iron that built more steam engines. Today, computers design better computers. More population means more brains working on problems, which supports more population.
 

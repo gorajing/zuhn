@@ -56,6 +56,16 @@ related:
   - PRI-260328-A589
   - INS-260330-B3DD
   - INS-260330-9BC3
+evidence:
+  - id: INS-260321-2D72
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-DCE1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-B3DD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The video repeatedly emphasizes that mechanical advantage is not free: 'I'm getting four times the force, but I'm only moving it 1/4th as far.' When pulling the truck onto the trailer with ratchet straps, the force multiplication was enormous but 'it was taking forever' because distance had to be covered in tiny increments.
 

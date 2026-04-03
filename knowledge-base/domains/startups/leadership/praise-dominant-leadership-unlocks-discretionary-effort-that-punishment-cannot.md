@@ -48,5 +48,9 @@ related:
   - INS-260329-7A7F
   - INS-260323-9C11
   - INS-260323-DA91
+evidence:
+  - id: INS-260329-7A7F
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that the most important variable in team output is discretionary effort — the delta between the minimum someone must do to keep their job and the maximum they could do if fully motivated. This effort is entirely voluntary and cannot be extracted through fear or punishment. Leaders who default to praise and positive reinforcement create environments where people choose to give their maximum, while punishment-oriented managers only ever get the minimum. The compounding effect across an entire organization means praise-dominant cultures dramatically outperform fear-based ones over time.

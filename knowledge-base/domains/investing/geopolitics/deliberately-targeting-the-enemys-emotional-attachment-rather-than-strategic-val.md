@@ -64,6 +64,9 @@ evidence:
   - id: INS-260330-6418
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-B22D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Falkenhayn's Verdun strategy was brilliant in concept: attack a fortress of such symbolic importance to France that they would commit unlimited resources to defend it. Verdun had no critical strategic value, but its historical significance meant France would fight for every meter. The goal was to 'bleed France white' — not to capture Verdun but to inflict unsustainable casualties on its defenders.
 

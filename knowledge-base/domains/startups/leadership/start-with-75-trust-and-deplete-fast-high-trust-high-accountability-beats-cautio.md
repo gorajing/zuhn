@@ -73,6 +73,12 @@ evidence:
   - id: INS-260329-78AE
     type: TRANSFERS_TO
     classified_at: '2026-04-03'
+  - id: INS-260330-9A34
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260327-032F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Tobi Lutke (Shopify CEO) famously starts new hires at a 50% trust battery that builds over time. Nejatian inverts this: he starts at 75% trust but depletes it much faster. The reasoning is that starting with low trust means you learn too slowly about what people are capable of. If you assume a new teammate is bad, you'll overcompensate and never see their real capacity.
 

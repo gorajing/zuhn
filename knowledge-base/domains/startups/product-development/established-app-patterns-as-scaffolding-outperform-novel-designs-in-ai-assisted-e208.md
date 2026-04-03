@@ -82,6 +82,12 @@ evidence:
   - id: INS-260402-0D16
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260325-7BE7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-8EC6
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Throughout the course, Malan consistently uses established conventions rather than inventing pedagogically 'better' alternatives: command-line arguments follow Unix conventions, API interaction uses standard JSON/REST patterns, testing uses pytest's real-world conventions. When a student asks 'why use command line arguments when they're less user-friendly?', Malan explains that the productivity gain from convention familiarity outweighs the initial learning cost — the same argument applies to automate commands and reuse them.
 

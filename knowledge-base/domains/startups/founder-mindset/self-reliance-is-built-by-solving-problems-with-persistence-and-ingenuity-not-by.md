@@ -57,6 +57,9 @@ evidence:
   - id: INS-260327-7E6F
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-D950
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Bezos traces his problem-solving mentality directly to his grandfather's ranch in Texas, where he spent every summer from age 4 to 16. His grandfather was 'so resourceful' that he made his own veterinary needles from wire, bought a broken $5,000 D6 bulldozer and spent an entire summer fixing it, and never 'picked up the phone and called somebody.' Every problem was solved with persistence and ingenuity.
 

@@ -53,6 +53,16 @@ related:
 stance: >-
   Committing in advance to principled behavior yields better outcomes than
   optimizing each decision in isolation.
+evidence:
+  - id: INS-260325-55D8
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-D062
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-0AA7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Newcomb's Paradox reveals that the best long-term strategy is not to maximize each individual decision, but to be the kind of person who pre-commits to cooperative, principled behavior. The one-boxer wins because their character — not their in-the-moment calculation — determines the outcome. This maps directly to iterated games: in the prisoner's dilemma, cooperators dominate over time even though defectors win any single round.
 

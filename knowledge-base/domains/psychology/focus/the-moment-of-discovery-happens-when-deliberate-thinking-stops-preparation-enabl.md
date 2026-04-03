@@ -59,6 +59,16 @@ related:
   - INS-260323-543C
   - INS-260403-9EB1
 stance: Einstein would whistle and breakthroughs came
+evidence:
+  - id: INS-260325-8D66
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-543C
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260403-9EB1
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Frenkel describes how Einstein would think intensely, then go for walks and whistle, and the breakthroughs came during the whistling — not the thinking. This isn't coincidence: 'the moment of discovery is the moment when thinking stops... you kind of almost become that truth that you're seeking.' When you're fully absorbed in creation, time stands still — two hours feel like seconds. Frenkel argues this timeless state may be closer to fundamental truth than our normal time-bound consciousness.
 

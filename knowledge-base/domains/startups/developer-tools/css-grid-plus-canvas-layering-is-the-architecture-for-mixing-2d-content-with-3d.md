@@ -59,6 +59,9 @@ evidence:
   - id: INS-260329-44C9
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-9CFE
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The architectural pattern for combining 3D backgrounds with readable web content is deceptively simple: give the canvas element fixed positioning pinned to top-left (making it a persistent background layer), then position the content container with position: absolute so it floats above the canvas. Use CSS Grid with 12 fractional-unit columns on the content layer to precisely align text and images with the 3D elements behind them.
 

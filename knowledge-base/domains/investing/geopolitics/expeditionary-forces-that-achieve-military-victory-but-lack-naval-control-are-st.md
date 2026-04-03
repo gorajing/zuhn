@@ -61,6 +61,10 @@ related:
   - INS-260327-AB3D
   - INS-260327-B65A
   - INS-260327-B038
+evidence:
+  - id: INS-260330-B22D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Napoleon's Egyptian campaign achieved brilliant tactical success — he conquered Egypt rapidly. But Nelson's destruction of the French fleet at the Battle of the Nile cut off the entire army from France. Napoleon was stranded with no reinforcements, no supplies, and no way home. The military conquest was strategically meaningless because he couldn't maintain the position without sea control.
 

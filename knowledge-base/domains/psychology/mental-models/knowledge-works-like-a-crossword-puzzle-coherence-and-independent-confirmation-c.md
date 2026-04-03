@@ -69,6 +69,9 @@ evidence:
   - id: INS-260402-7A1A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260330-901B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Susan Haack's crossword puzzle metaphor resolves a classic epistemology debate. Foundationalists say knowledge must rest on bedrock axioms; coherentists say beliefs just need to be mutually consistent. Haack's 'foundherentism' says both are partially right: like a crossword, each entry needs independent clues (evidence/foundation) AND must be consistent with crossing entries (coherence).
 

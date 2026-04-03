@@ -61,6 +61,9 @@ evidence:
   - id: INS-260323-9FCA
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260323-BC61
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Wright identifies a critical pattern: the most dangerous phase of any conflict is when it collapses into pure binary thinking. Israel and Palestine, he says, are in a very black-and-white situation — it is all good or all evil. Both sides become deaf to hearing any explanations for the other's behavior.
 

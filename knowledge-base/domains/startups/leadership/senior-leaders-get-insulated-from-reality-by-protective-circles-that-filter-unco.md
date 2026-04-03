@@ -55,6 +55,10 @@ related:
   - INS-260322-2ABB
   - PRI-260323-9EAD
   - INS-260402-62E3
+evidence:
+  - id: INS-260402-62E3
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 As leaders rise in an organization, they encounter a paradox: their need for unfiltered information increases while the information they receive becomes increasingly curated. Staff members, often with good intentions, shield leaders from awkward, surprising, or uncomfortable data. This creates a progressively distorted view of organizational reality.
 

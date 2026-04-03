@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-9FAA
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-2E41
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 During the light-dependent reactions, the thylakoid membrane accumulates protons on its interior through water-splitting and active pumping via the cytochrome complex. This creates a concentration gradient — high proton concentration inside, low outside. When protons flow back through ATP synthase to equalize, that flow drives the mechanical synthesis of ATP. The energy isn't stored in any single molecule but in the asymmetry itself.
 

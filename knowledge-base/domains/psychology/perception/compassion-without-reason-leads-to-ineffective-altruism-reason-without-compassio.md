@@ -52,6 +52,10 @@ related:
 stance: >-
   The ideal moral framework balances rational analysis of impact with genuine
   compassion for well-being — neither alone is sufficient.
+evidence:
+  - id: INS-260326-73F4
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Harris argues that pure empathy-driven ethics fails at scale (we ignore genocides while obsessing over individuals), while pure rational calculation risks losing touch with human welfare. The synthesis is compassion guided by reason: genuinely wishing people well while using rational frameworks to decide where attention and resources go.
 

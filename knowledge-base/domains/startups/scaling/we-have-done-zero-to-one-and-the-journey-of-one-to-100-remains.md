@@ -54,6 +54,9 @@ evidence:
   - id: INS-260330-255F
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260330-8FE7
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Legor grew from zero to unicorn valuation ($5.5B) in 2 years, but Junestrand frames this as merely completing the 0-to-1 phase. He describes being 'still on the starting line' because the legal work market is so enormous that 750+ clients and billions in valuation barely scratches the surface.
 

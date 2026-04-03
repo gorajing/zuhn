@@ -60,6 +60,12 @@ evidence:
   - id: INS-260327-F608
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-F479
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-9A60
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The Amazon contains more species in a single hectare than most countries contain in total. The interconnections between species, the chemical warfare between plants, the symbiotic networks underground - all represent a complexity that human engineering has never approached. Rosolie's repeated emphasis on this isn't romantic idealism but empirical observation.
 

@@ -52,6 +52,10 @@ related:
   - INS-260323-D9CE
   - INS-260327-B4C0
   - INS-260402-B065
+evidence:
+  - id: INS-260402-B065
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Urban specifically calls out self-starter careers — arts, entrepreneurship — as the domains most vulnerable to non-deadline procrastination. Nothing happens until you've gone out and done the hard work to get momentum going. There are no deadlines at first because nothing's happening.
 

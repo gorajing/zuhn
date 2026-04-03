@@ -55,5 +55,8 @@ evidence:
   - id: INS-260321-2482
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260327-CA72
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 David Malan — now the most famous CS professor in the world — almost didn't take CS50 because he was intimidated. Only the pass/fail option gave him permission to try. This pattern generalizes far beyond academia: whenever stakes feel too high, capable people self-select out. The insight is that reducing commitment risk at the entry point (trials, reversible decisions, low-stakes first attempts) unlocks a talent pool that would otherwise never show up. The same principle applies to startup hiring (trial projects over interviews), product adoption (freemium over paid-only), and skill acquisition (play before study). The people who need the safety net most are often the ones who end up not needing it at all.

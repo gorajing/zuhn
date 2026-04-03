@@ -61,5 +61,11 @@ evidence:
   - id: INS-260330-8638
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-E5BE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-2E34
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The entire archer's paradox only seems paradoxical because the arrow's flex happens too fast to see. High-speed footage reveals a perfectly logical sequence: the string pushes the arrow, the arrow bends around the riser, oscillates, and dampens into straight flight. The 'paradox' dissolves entirely once you can observe the intermediate states. This principle applies broadly to debugging any counterintuitive outcome — in software (adding logging/tracing to reveal intermediate state), in learning (recording and reviewing your own performance), in business (instrumenting each step of a conversion funnel rather than just measuring endpoints). The instinct when facing a paradox is to theorize about why the endpoint is surprising, but the more productive approach is to slow down and observe what actually happens between input and output. The explanation is almost always in the invisible middle, not the visible endpoints.

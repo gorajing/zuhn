@@ -62,6 +62,9 @@ evidence:
   - id: INS-260323-9D6E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260326-2C4E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Harris describes how Republican Congress members who privately wanted to impeach Trump after January 6th didn't because they feared physical violence against themselves and their families. JD Vance and Elon Musk 'bending the knee' by asserting belief in claims they likely don't hold illustrates how loyalty tests function: the point isn't the belief itself but the public demonstration of submission.
 

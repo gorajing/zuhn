@@ -59,5 +59,9 @@ related:
 stance: >-
   Hamkins proves every natural number is interesting via contradiction: if
   boring numbers existed, the smallest boring number would be interesting fo...
+evidence:
+  - id: INS-260329-4E70
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When Lex asks Hamkins for his favorite number, Hamkins instead proves that every number is interesting. Assume some numbers are boring. Then there must be a smallest boring number. But being the smallest boring number is an extremely interesting property. Contradiction. Therefore no numbers are boring. This elegant proof-by-contradiction works because the property 'boring' is self-defeating when combined with the well-ordering of natural numbers. It's a playful illustration of how self-reference creates paradoxes (connecting to Godel and Russell). But it also contains a genuine cognitive insight: the act of looking closely at anything -- declaring it unremarkable, asking 'what's special about this one?' -- often reveals something remarkable. The proof suggests that interestingness is not an inherent property of objects but emerges from the act of investigation. This applies to creative work, research, and product development: the 'boring' problem space often contains the most interesting opportunities precisely because no one is looking there.

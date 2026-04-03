@@ -88,5 +88,8 @@ evidence:
   - id: INS-260330-D3AA
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-6A65
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Special relativity's length contraction means that a spacecraft passing Earth at 99.9% the speed of light would measure Earth as genuinely flat — compressed along the direction of travel. This isn't an illusion or measurement error; it's physical reality in that reference frame. The insight challenges naive realism: the assumption that objects have one true set of properties independent of how they're observed. In AI and data systems, this has a direct parallel — the 'shape' of a dataset, the 'structure' of a problem, or the 'meaning' of a signal can be genuinely different depending on the frame of reference (the model architecture, the embedding space, the evaluation metric). Acknowledging observer-dependence as physical fact rather than philosophical hand-waving leads to better system design: you build for multiple valid perspectives rather than assuming one ground truth that all observers must converge on.

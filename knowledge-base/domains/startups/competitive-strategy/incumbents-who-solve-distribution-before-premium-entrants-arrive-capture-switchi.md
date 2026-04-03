@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-6411
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260325-A54F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 While Apple deliberated on India, Xiaomi and Samsung flooded the market with affordable smartphones, capturing hundreds of millions of users. These users then built digital lives — apps, payment methods, habits, accessory ecosystems — around Android and specific manufacturers' software layers. By the time Apple considered serious India investment, the switching costs weren't just financial (buying a $1,100 phone) but behavioral and ecosystem-based.
 

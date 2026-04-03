@@ -50,5 +50,9 @@ related:
   - INS-260329-127F
   - INS-260329-D3D9
   - INS-260330-2F52
+evidence:
+  - id: INS-260329-D3D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi reframes audience building as a selection problem rather than an optimization problem. The vast majority of aspiring creators never reach the threshold where compounding returns kick in—not because they lack skill, but because they abandon the effort. His 6-year podcast timeline illustrates this: most people who started podcasts in the same period quit within the first year. By year six, the competitive field has thinned dramatically, and the survivors benefit disproportionately. This has a counterintuitive implication for strategy: rather than optimizing content quality or distribution tactics, the highest-leverage intervention is designing systems and psychology that prevent quitting. The meta-skill isn't content creation—it's sustaining effort through the long, unrewarding middle.

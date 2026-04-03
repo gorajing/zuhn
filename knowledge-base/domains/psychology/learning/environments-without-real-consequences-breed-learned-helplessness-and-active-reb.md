@@ -64,6 +64,15 @@ evidence:
   - id: INS-260322-81CD
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260322-4B63
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-C814
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-1F41
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham describes how the mediocrity of school bred a rebelliousness that actively drove kids away from learning. Years after high school, he couldn't bring himself to read anything that had been assigned. Worse, words like 'character' and 'integrity' were so debased by their institutional usage that he rejected the concepts entirely.
 

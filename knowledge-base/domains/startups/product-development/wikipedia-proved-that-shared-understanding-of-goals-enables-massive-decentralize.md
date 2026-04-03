@@ -59,6 +59,9 @@ evidence:
   - id: INS-260327-91C7
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-E6AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Wales identified the key precondition for Wikipedia's success: 'we all pretty much know what an encyclopedia entry should be like.' An entry on the Eiffel Tower should have pictures, history, location, something about the architect. This shared understanding meant contributors didn't need detailed coordination — they could independently chip in knowing their contribution would fit.
 

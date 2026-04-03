@@ -50,6 +50,13 @@ related:
   - INS-260327-7A5A
   - INS-260330-1282
   - INS-260330-766D
+evidence:
+  - id: INS-260329-16F0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-24A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Franchise brands face an inherent quality control problem because brand perception depends on the operational quality of independent operators whose economic incentives diverge from brand standards.
 

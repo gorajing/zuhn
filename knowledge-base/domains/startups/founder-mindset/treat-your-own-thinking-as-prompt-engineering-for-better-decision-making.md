@@ -46,5 +46,9 @@ related:
   - INS-260322-B3D0
   - INS-260327-8521
   - INS-260326-98A0
+evidence:
+  - id: INS-260325-2944
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Dalton suggests that the skill of writing good LLM prompts transfers directly to self-coaching. By formulating your situation with explicit constraints and context — just as you would in a prompt — you activate a more analytical, less emotional reasoning mode. His specific version: 'If I were doing office hours with myself, what would I say?' This works because the advisor framing forces you to be more objective about your own situation than you naturally would be. The key insight is that curating your own thoughts as if they were prompts is a practical decision-making technique.

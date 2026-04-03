@@ -1,0 +1,61 @@
+---
+id: INS-260403-0661
+domain: startups
+topic: strategy
+title: Bypass incumbents by finding reform paths that don't require their consent
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - institutional-reform
+  - incentive-design
+  - bypass-strategy
+  - gatekeepers
+sources:
+  - type: blog
+    title: Last Rights
+    author:
+      - '@type': Person
+        name: Scott Alexander
+        url: 'https://substack.com/@astralcodexten'
+        description: null
+        identifier: 'user:12009663'
+        image:
+          '@type': ImageObject
+          contentUrl: >-
+            https://substackcdn.com/image/fetch/$s_!HTBd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+          thumbnailUrl: >-
+            https://substackcdn.com/image/fetch/$s_!HTBd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7b500d22-1176-42ad-afaa-5d72bc36a809_44x44.png
+    url: 'https://www.astralcodexten.com/p/last-rights'
+date_extracted: '2026-04-03'
+last_accessed: null
+access_count: 0
+indexed: false
+embedded: false
+resolutions:
+  one_line: >-
+    Incumbent institutions won't vote to dismantle the systems that keep them in
+    power — reformers must find mechanisms that bypass incumbent consent
+    entirely.
+  standard: >-
+    The article identifies a fundamental paradox of institutional reform: every
+    proposed fix to Congress requires an act of Congress, but members have no
+    incentive to vote against gerrymandering, donor influence, or other systems
+    that benefit them. The solution — ratifying a dormant Constitutional
+    amendment through state legislatures — bypasses Congress entirely.
+
+
+    This pattern generalizes beyond politics. In any system where incumbents are
+    gatekeepers to their own disruption, reform must find an alternate path.
+    Startups succeed against entrenched competitors not by asking permission but
+    by finding market entry points the incumbents can't or won't block. The key
+    strategic insight is to map the full set of available mechanisms, not just
+    the obvious ones controlled by those who benefit from the status quo.
+stance: >-
+  Systemic reform succeeds only when it routes around the incumbents who benefit
+  from the broken system, not through them.
+---
+The article identifies a fundamental paradox of institutional reform: every proposed fix to Congress requires an act of Congress, but members have no incentive to vote against gerrymandering, donor influence, or other systems that benefit them. The solution — ratifying a dormant Constitutional amendment through state legislatures — bypasses Congress entirely.
+
+This pattern generalizes beyond politics. In any system where incumbents are gatekeepers to their own disruption, reform must find an alternate path. Startups succeed against entrenched competitors not by asking permission but by finding market entry points the incumbents can't or won't block. The key strategic insight is to map the full set of available mechanisms, not just the obvious ones controlled by those who benefit from the status quo.

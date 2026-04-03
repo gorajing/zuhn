@@ -53,5 +53,9 @@ related:
   - INS-260330-BE4D
   - INS-260403-B462
   - INS-260330-9FA5
+evidence:
+  - id: INS-260327-AEC2
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Beard emphasizes that Greek and Roman statues were regularly painted in vivid colors — red lips, blue details, colorful clothing. This has been known for over a hundred years, with modern technology detecting pigment traces. Yet the 'white, shiny marble' image persists and has been culturally influential, shaping aesthetic ideals and even racial narratives about classical civilization. A rich Roman commissioning a statue of their spouse would have seen something 'full of color' and 'radiant,' not austere. The meta-insight is about how decay artifacts become perceived as intentional design — how the accidental loss of information (paint fading) becomes mistaken for the original signal (a culture valued austerity). This happens constantly in business: institutional knowledge decays and the remaining fragments are mistaken for the complete picture.

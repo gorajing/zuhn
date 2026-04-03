@@ -60,5 +60,8 @@ evidence:
   - id: INS-260329-DACC
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-E40B
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Dr. Chuck explicitly warns students that comprehension will not arrive gradually. He describes his own learning experience as 'confused, confused, confused, confused, confused, holy mackerel, this is awesome.' He tells students they won't understand the big picture until chapter seven, and to simply trust the process of learning individual building blocks even when they seem pointless in isolation. This maps to research on skill acquisition in complex domains: there's a critical mass of interconnected concepts that must all be in place before the system 'clicks.' Each individual concept seems useless until enough are present to form a working mental model. The practical implication is that any learning curriculum for complex domains should explicitly set expectations about the plateau-then-breakthrough pattern. Without this meta-knowledge, learners interpret the plateau as evidence of personal inadequacy rather than as a normal phase. Dr. Chuck returns to this message repeatedly—'you will understand this in a few weeks'—as deliberate psychological scaffolding.

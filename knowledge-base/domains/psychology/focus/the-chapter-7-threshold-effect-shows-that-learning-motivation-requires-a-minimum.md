@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-B2F4
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-8726
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Python course's structure reveals a fundamental pattern in skill acquisition: chapters 1-6 feel abstract and pointless to many students, but chapter 7 (file I/O) transforms everything into obviously useful capability. This 'chapter 7 threshold' is the point where accumulated knowledge reaches critical mass and becomes self-motivating. Before it, learners rely entirely on external motivation (grades, instructor encouragement, faith). After it, intrinsic motivation kicks in because the learner can see what they're building toward.
 

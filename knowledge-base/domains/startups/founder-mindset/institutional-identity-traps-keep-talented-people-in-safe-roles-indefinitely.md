@@ -45,5 +45,9 @@ related:
   - INS-260327-C9A7
   - INS-260330-AC36
   - INS-260329-87C2
+evidence:
+  - id: INS-260327-C9A7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Dalton describes two failure modes: the unaware who confuse institutional prestige with personal worth and are shocked when they leave, and the self-aware who understand the distinction but stay specifically because they fear losing the 'juice.' Both groups are trapped. The only way to get a real grade on your abilities is to step outside the institution where people no longer have to say yes to you. This mirrors the founder journey — you only know your true capability when nobody owes you anything.

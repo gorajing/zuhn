@@ -55,6 +55,13 @@ related:
 stance: >-
   For neurodivergent people who bypassed the social self stage, empathy can be
   retroactively built through deliberate practice
+evidence:
+  - id: INS-260323-F853
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260323-46B2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Bach shares his personal experience of skipping stage 3 (social self) due to neurodivergence, feeling profoundly alone until finding fellow nerds at a math school. He describes eventually building empathy in his 20s through deliberate practice: meditation, physical closeness, vulnerability, and simply paying deep attention to other humans.
 

@@ -66,6 +66,24 @@ evidence:
   - id: INS-260329-72EF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260329-6514
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-6253
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260327-A814
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260325-8D66
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260327-8521
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-6A94
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Reward prediction error governs learning: expected rewards that arrive maintain behavior, unexpected rewards amplify it, and expected rewards that fail to arrive cause dopamine to drop below baseline. Huberman's 'dopamine spotlighting' technique leverages this by broadening the time window you associate with reward. Instead of only feeling good after completing a habit, you consciously anticipate and appreciate the entire bracket — the preparation, the leaning into friction, and the post-completion state.
 

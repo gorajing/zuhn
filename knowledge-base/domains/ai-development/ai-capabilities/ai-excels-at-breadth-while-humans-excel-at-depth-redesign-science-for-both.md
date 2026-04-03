@@ -65,5 +65,11 @@ evidence:
   - id: INS-260327-A817
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260330-628D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-B91E
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Tao describes AI tools as jumping machines that can leap higher than any human but can't build cumulative handholds. They either succeed or fail — they're bad at partial progress. Humans excel at depth: building up understanding incrementally, holding intermediate positions, and pulling others up. The future of science is very complementary: use AI breadth to map out entire fields and identify islands of difficulty, then bring human experts to work on those specific hard spots. We need practice with breadth — we don't even have the paradigms yet.

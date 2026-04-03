@@ -56,6 +56,19 @@ related:
 stance: >-
   GSP uses his jab to plant a seed of pain in the opponent's memory, creating a
   flinch response that opens the path for a completely different attack...
+evidence:
+  - id: INS-260323-61FE
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-FE14
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-A1AF
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260323-0827
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 GSP describes his signature strategy: use the jab — his longest weapon — as a 'decoy' and 'distraction.' After tagging the opponent once or twice, their 'short-term memory' makes them flinch at the jab, creating an opening for the takedown. He starts the jab deliberately low and outside the opponent's field of vision, creating a false sense of security about the distance. The key insight: 'you plant a seed in your mind and then I can get in easier.'
 

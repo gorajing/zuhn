@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-2B29
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260403-34E0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Patrick Collison frames culture not as values on a wall but as a solution to a fundamental bandwidth problem. As headcount grows, the fraction of decisions a founder can be involved in diminishes almost exponentially. Culture encodes the 'strands' or invariants you want maintained when you can't be in the room.
 

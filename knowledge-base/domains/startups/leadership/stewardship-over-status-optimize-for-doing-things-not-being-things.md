@@ -59,6 +59,9 @@ evidence:
   - id: INS-260323-DA91
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260322-A928
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Kaz Nejatian's core operating principle is stewardship over status — focusing on what you are doing and in service of what, rather than what title you hold. Early in his career, when asked what he wanted to do, he would name a job title. His mentor pointed out this was hollow.
 

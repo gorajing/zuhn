@@ -54,6 +54,10 @@ related:
   - INS-260330-3AB4
   - INS-260330-E786
   - INS-260330-C7C2
+evidence:
+  - id: INS-260330-E786
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen was literally waste — the video calls it 'the most useful useless byproduct in the history of useless byproducts.' Yet oxygen became the foundation for all aerobic life, including every animal on Earth. The byproduct dwarfed the original product in planetary impact.
 

@@ -50,6 +50,10 @@ related:
   - INS-260329-69F0
   - INS-260403-8011
   - INS-260330-3FCF
+evidence:
+  - id: INS-260330-64D8
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Paul Graham observes that most dominant technologies grew organically from small throwaway programs rather than being architected as grand systems from the start. Perl began as report-generation utilities before becoming a full language. Unix grew from a small project while the big-budget Multics stagnated.
 

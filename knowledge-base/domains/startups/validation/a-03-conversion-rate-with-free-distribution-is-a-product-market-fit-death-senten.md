@@ -63,6 +63,9 @@ evidence:
   - id: INS-260327-7DBC
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260329-DE17
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Fireship's side hustle is a perfect case study in distribution-masked failure. With a YouTube channel as a free marketing engine, he got thousands of signups. But at 0.3% conversion to a $6.90 product, the unit economics are fatal: you need 300 free users for every $6.90 sale. Without the free YouTube distribution, customer acquisition costs would immediately exceed lifetime value.
 

@@ -61,6 +61,13 @@ related:
   - INS-260330-91EA
   - INS-260330-CA43
   - INS-260330-2B42
+evidence:
+  - id: INS-260323-246F
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-2B42
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 During the experiment, father and son discovered things neither anticipated: the fuel surface dancing violently from mechanical oscillations, the debate about whether shaking was stroke-by-stroke or harmonic resonance, and the moment where operating choke and throttle simultaneously while a third person filmed created a 'vibing' collaborative flow state. The father's mechanical intuition ('It's sputtering — open the choke to lean the mixture') combined with Destin's engineering vocabulary ('converging-diverging nozzle — it's a rocket nozzle!') to produce understanding neither had alone.
 

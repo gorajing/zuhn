@@ -57,6 +57,10 @@ related:
   - INS-260330-FB50
   - INS-260330-4FC5
   - INS-260323-3F56
+evidence:
+  - id: INS-260323-3F56
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Fourier's breakthrough illustrates a meta-pattern in intellectual progress: the transformative move wasn't solving the heat equation for cosine-shaped initial conditions (which was straightforward), but asking whether a discontinuous step function — 'so obviously different from a sine wave' — could also be expressed as a sum of sine waves. As Grant Sanderson notes, 'progress in math looks more like asking a new question rather than simply answering old ones.'
 

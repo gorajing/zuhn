@@ -54,6 +54,13 @@ related:
   - PRI-260328-6CEC
   - PRI-260323-FA42
   - INS-260322-37EE
+evidence:
+  - id: INS-260320-10CC
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260322-37EE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham draws a sharp distinction between two categories of tests. Authority-imposed tests (grades, college admissions, performance reviews) are proxies — they claim to measure something beyond themselves like 'learning' or 'potential.' Because they're proxies created without much effort to prevent gaming, they're consistently hackable. Market tests (does your product have users? did your team win?) are not proxies — they measure exactly what they measure and nothing more.
 

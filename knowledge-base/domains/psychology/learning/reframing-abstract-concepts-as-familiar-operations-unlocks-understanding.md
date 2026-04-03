@@ -64,5 +64,8 @@ evidence:
   - id: INS-260323-EECF
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-3E3C
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The video demonstrates a powerful pedagogical pattern: instead of building up to neural networks through new terminology and formalism, it reframes the entire network as 'just a function' — something any math student already understands. A neuron becomes 'a thing that holds a number.' The sigmoid becomes 'a squishification function.' Weighted sums become 'dials and knobs.' This isn't dumbing down — it's connecting new concepts to existing mental infrastructure. The technique works because human learning is fundamentally associative: new knowledge sticks when it attaches to existing knowledge. This has direct implications for anyone explaining technical concepts — start with what the audience already knows, then reveal that the intimidating new thing is actually a composition of familiar pieces. The 'it's just X' reframe is one of the most reliable tools for making complex ideas accessible.

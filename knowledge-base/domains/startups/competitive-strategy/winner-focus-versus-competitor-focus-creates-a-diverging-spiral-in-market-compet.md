@@ -62,6 +62,10 @@ related:
   - INS-260323-1D15
   - INS-260327-C673
   - INS-260329-6E0F
+evidence:
+  - id: INS-260327-2EFD
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Hormozi identifies a structural asymmetry in competitive dynamics: the market leader looks at customers (the primary data source), while competitors look at the leader (a secondary, lagging data source). This creates a diverging spiral. The leader gets real-time signal from customer needs and iterates. The copier gets delayed, filtered signal from the leader's visible outputs — missing the reasoning, failed experiments, and customer conversations that informed those outputs.
 

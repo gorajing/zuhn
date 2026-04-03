@@ -58,5 +58,11 @@ evidence:
   - id: INS-260323-748A
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260402-086D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260323-7F3E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham reframes the patent debate using a powerful mental model: the choice is never between a flawed system and perfection, but between a flawed system and its actual historical alternative. Before patents, Venice forbade glassblowers from leaving and sent assassins after defectors. Medieval guilds hoarded knowledge in 'mysteries.' The 'need to know' principle destroys cross-pollination of ideas because you can't predict who needs to know what. This framing applies broadly—when evaluating any institution (police, patents, regulations), the relevant comparison is not the ideal but the historical default that preceded it. The mental model guards against naive abolitionism: tearing down imperfect systems without understanding what they replaced often produces something worse.

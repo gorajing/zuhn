@@ -61,6 +61,13 @@ related:
   - INS-260323-085A
   - INS-260330-B2B8
   - INS-260330-63B8
+evidence:
+  - id: INS-260327-24D2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-085A
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Deutsch's framework identifies four foundational theories — quantum theory, theory of computation, epistemology, and evolution by natural selection — that together form a lens through which a single person can understand anything that can be understood. This is 'jaw-droppingly powerful' because it counters the modern assumption that knowledge has grown too vast for any individual to grasp reality comprehensively.
 

@@ -60,6 +60,12 @@ evidence:
   - id: INS-260322-1C17
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260402-D9D0
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260325-36F0
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Gary distinguishes between two valid reasons not to create content: genuine self-awareness that video isn't your format (which is fine — written content exists too), versus insecurity about public judgment. The latter is far more common and far more costly. His reframe is powerful: anonymous commenters who spend time leaving nastiness are in a deeply unhappy place, and the appropriate response is compassion, not defensiveness.
 

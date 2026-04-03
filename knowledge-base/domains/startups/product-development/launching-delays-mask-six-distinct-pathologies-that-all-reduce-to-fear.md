@@ -52,5 +52,9 @@ related:
   - INS-260327-CA72
   - INS-260330-7A80
   - INS-260325-EC85
+evidence:
+  - id: INS-260325-D797
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Graham identifies that 'software is always 85% done' — a permanent state that requires deliberate willpower to push through. But the real insight is his decomposition of launch delays into six specific failure modes: working too slowly, not truly understanding the problem, fear of having to deal with users, fear of being judged, working on too many things, and excessive perfectionism. Each is a distinct pathology, but they share a single cure: forcing yourself to launch something quickly. This works because launching serves two critical functions beyond shipping — it forces you to finish a concrete quantum of work (nothing is truly done until released), and it's the only way to fully understand your idea by bouncing it off real users. The asymmetry is stark: launching too slowly has killed probably a hundred times more startups than launching too fast. Early adopters are forgiving; they don't expect a new product to do everything, it just has to do something useful that can be incrementally expanded.

@@ -65,6 +65,9 @@ evidence:
   - id: INS-260330-4441
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260330-E497
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 RuBisCo's story is a parable about environmental disruption. The enzyme was well-adapted to its original environment (high CO2, low O2). But photosynthesis was so successful that it transformed the atmosphere — raising oxygen levels dramatically. RuBisCo, unable to distinguish O2 from CO2, began fixing oxygen instead of carbon roughly half the time, producing phosphoglycolate — a toxic compound plants must actively detoxify.
 

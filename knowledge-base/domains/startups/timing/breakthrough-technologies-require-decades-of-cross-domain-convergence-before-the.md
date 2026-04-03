@@ -66,6 +66,9 @@ evidence:
   - id: INS-260325-76BD
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260323-189B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Kinoshita first demonstrated x-ray lithography in 1985, but was laughed off stage. Andy Hawryluk at Lawrence Livermore developed multilayer mirrors for nuclear fusion research and was similarly ridiculed when he proposed applying them to chip-making. The technology didn't become commercially viable until ASML combined: (1) multilayer mirror research from nuclear weapons labs, (2) laser-produced plasma from a completely different field, (3) tin droplet generation techniques, and (4) precision optics from Zeiss.
 

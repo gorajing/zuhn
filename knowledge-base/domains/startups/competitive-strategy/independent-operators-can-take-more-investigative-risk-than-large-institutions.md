@@ -70,6 +70,9 @@ evidence:
   - id: INS-260330-990F
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-7711
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Coffeezilla explains a counter-intuitive structural advantage of being small: large media organizations like Netflix, the New York Times, and major networks are actually MORE conservative about exposing ongoing fraud than independent journalists. The reason is asymmetric legal risk — if a fraudster sues Netflix, they know Netflix has deep pockets to pay judgments, and even winning a lawsuit increases Netflix's liability insurance costs significantly. Small independent operators, by contrast, are less attractive lawsuit targets.
 

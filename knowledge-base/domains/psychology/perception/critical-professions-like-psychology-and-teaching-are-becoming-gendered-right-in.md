@@ -62,6 +62,9 @@ evidence:
   - id: INS-260327-9431
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-4E01
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Reeves tracks a dramatic shift: in 1971, men were 56% of psychology undergraduates — a gender-balanced field. Now the figure is 20% and still falling. Similar collapses are occurring in social work and teaching. Only 1 in 5 psychologists and social workers are men, with numbers more than halving in recent decades.
 

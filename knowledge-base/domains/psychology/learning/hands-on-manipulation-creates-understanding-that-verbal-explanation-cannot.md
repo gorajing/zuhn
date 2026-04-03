@@ -52,6 +52,13 @@ related:
   - PRI-260328-9F8C
   - INS-260327-8521
   - INS-260330-AEF1
+evidence:
+  - id: INS-260327-8521
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-AEF1
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The video demonstrates a deliberate pedagogical progression: watch kids lift blocks → see the real system → then 3D-print a flattened model you can manipulate and measure with a scale. Destin's admission — 'I understand things a lot better if I can work with it with my hands' — reflects embodied cognition research showing that physical manipulation builds spatial and causal mental models that passive observation cannot.
 

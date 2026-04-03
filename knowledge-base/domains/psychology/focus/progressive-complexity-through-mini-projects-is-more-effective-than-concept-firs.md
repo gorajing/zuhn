@@ -64,6 +64,9 @@ evidence:
   - id: INS-260329-D75D
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-9A58
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 The freeCodeCamp tutorial structures its 4.5 hours as a series of mini-projects that each introduce 2-3 new concepts within a working application. A mad libs game teaches string concatenation and input, a guessing game teaches while loops and conditionals, a translator teaches dictionaries and functions. Each project is completable in minutes, providing frequent dopamine hits of accomplishment.
 

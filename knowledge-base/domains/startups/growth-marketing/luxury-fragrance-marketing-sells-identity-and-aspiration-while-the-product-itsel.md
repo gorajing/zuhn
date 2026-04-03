@@ -48,6 +48,10 @@ related:
   - PRI-260328-BF1E
   - INS-260327-D832
   - INS-260327-0755
+evidence:
+  - id: INS-260327-D832
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The fragrance industry exemplifies maximum value capture through branding: production costs are under 5% of retail price, with the remaining 95% being brand positioning, packaging, and aspirational marketing.
 

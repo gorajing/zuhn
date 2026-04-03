@@ -59,6 +59,13 @@ related:
   - INS-260323-144F
   - INS-260322-627E
   - INS-260330-A5C4
+evidence:
+  - id: INS-260330-9DE6
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260322-627E
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Graham identifies a subtle but important transformation in how quality functions once brand takes over. In the golden age, quality (accuracy, thinness) was the primary selling point — more quality meant more sales in a roughly linear relationship. In the brand age, quality transforms into a threshold: it must be 'good enough' to maintain the brand's credibility, but exceeding that threshold provides no additional value.
 

@@ -66,6 +66,15 @@ evidence:
   - id: INS-260329-8181
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260327-5973
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260321-2D72
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-ADCD
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Dynamic arrays occasionally double in size — an O(n) operation that looks catastrophic in isolation. But amortized analysis reveals each insertion costs O(1) on average, because the expensive resize prepays for many future cheap insertions. Union-find with path compression similarly does expensive flattening work that makes all future lookups nearly instant, achieving an amortized near-O(1) per operation despite individual worst cases of O(log n).
 

@@ -52,6 +52,10 @@ related:
   - INS-260330-CCF0
   - INS-260330-6D2E
   - INS-260328-E410
+evidence:
+  - id: INS-260330-6D2E
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Graham's galley metaphor reveals why large companies structurally cannot reward exceptional performance: when 1,000 rowers contribute to the same boat, no individual's extra effort is visible or attributable. The averaging effect means a top-1% performer gets compensated at roughly the average rate. A 10-person team puts you within a factor of 10 of measuring individual contribution.
 

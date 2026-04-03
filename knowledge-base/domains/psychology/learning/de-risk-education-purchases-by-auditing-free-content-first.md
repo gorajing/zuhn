@@ -52,6 +52,25 @@ related:
   - INS-260323-D679
   - INS-260330-1D9D
   - INS-260330-9CC6
+evidence:
+  - id: INS-260329-6B2C
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-88B2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-31A2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-D679
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-1D9D
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-9CC6
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Hormozi recommends a simple heuristic for education purchases: consume someone's free content first. If their free YouTube videos, podcasts, or blog posts teach you useful things and resonate with your learning style, their paid content is very likely worth the investment. If their free content is thin or hype-driven, paying more won't fix that.
 

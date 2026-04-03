@@ -56,5 +56,18 @@ related:
   - INS-260330-F8E7
   - INS-260330-56AA
   - INS-260330-85AA
+evidence:
+  - id: INS-260330-FC16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-012D
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-F8E7
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-56AA
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Our intuition says black objects get hot and heat their surroundings, so black balls on water should increase evaporation. In reality, shade balls reduce evaporation by 80-90%. The mechanism: while the ball tops absorb solar energy and heat up, the air inside acts as a thermal insulator (like double-paned windows), preventing heat transfer to the water below. Meanwhile, they block direct solar radiation from reaching the water surface, reduce exposed surface area for molecular escape, and limit air flow that would carry away moisture. This is a powerful mental model: an intervening layer that absorbs energy can paradoxically protect what's beneath it, as long as it has poor thermal conductivity. The principle applies to building insulation, clothing design, and thermal engineering broadly.

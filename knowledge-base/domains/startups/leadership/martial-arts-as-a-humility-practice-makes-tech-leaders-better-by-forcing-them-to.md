@@ -60,6 +60,9 @@ evidence:
   - id: INS-260326-5E07
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-70DF
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Lex frames jiu-jitsu as more than a sport for tech leaders like Zuckerberg — it's a humility practice. When you run a company used by billions, very few experiences genuinely humble you. Jiu-jitsu does this efficiently: no amount of wealth or status protects you on the mat. A smaller, more skilled practitioner will submit you every time.
 

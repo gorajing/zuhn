@@ -82,6 +82,9 @@ evidence:
   - id: INS-260327-85DA
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260330-6D2E
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Loh — a network theorist by training — proposes that high-trust personal networks will replace centralized credentialing systems as the primary economic infrastructure. His mechanism: pair people from developed and developing countries (US/Korea/China with Rwanda/Ethiopia) through his coaching program. Over 5-10 years, they build genuine trust through shared work. When the developed-country partner starts a company, they hire the person they know and trust from the developing country via remote work.
 

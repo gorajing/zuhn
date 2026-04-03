@@ -56,6 +56,12 @@ evidence:
   - id: INS-260327-9BA2
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-B497
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-D76A
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Kennedy inverts the censorship argument: it's precisely because the N-word is explosive, volatile, and part of the soundtrack of racial terrorism that people need to understand its history. Refusing to study something because it's powerful is the opposite of taking it seriously.
 

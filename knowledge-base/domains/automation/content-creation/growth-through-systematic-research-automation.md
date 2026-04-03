@@ -65,6 +65,9 @@ evidence:
   - id: INS-260327-CA1C
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260403-99B1
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 
 Chase Hannegan's growth from 0 to 175K+ followers in under 12 months

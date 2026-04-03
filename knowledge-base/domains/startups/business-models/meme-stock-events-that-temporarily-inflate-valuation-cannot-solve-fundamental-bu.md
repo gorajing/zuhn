@@ -45,6 +45,10 @@ related:
   - PRI-260328-1A2D
   - INS-260327-747B
   - INS-260325-C2DA
+evidence:
+  - id: INS-260327-747B
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address underlying business model obsolescence.
 

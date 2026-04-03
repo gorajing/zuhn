@@ -54,5 +54,9 @@ related:
   - INS-260329-2ECE
   - INS-260330-0E4B
   - PRI-260328-C918
+evidence:
+  - id: INS-260329-2ECE
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The 6C framework (Calibrate, Compete, Celebrate, Certify, Cut, Commit) addresses the core problem of scaling sales: quality degrades as you add people. Calibrate means daily review of recorded calls against a scoring rubric. Compete creates structured leaderboard cycles (weekly/monthly) so reps benchmark against each other. Celebrate publicly rewards top performers to reinforce desired behavior. Certify requires reps to pass scripted role-plays before handling live calls. Cut removes underperformers on defined timelines. Commit locks remaining reps into improvement plans. The insight is that sales skill is perishable — it requires daily maintenance like athletic training, not quarterly workshops. This daily-repetition-with-feedback model applies broadly to any skill-based team (customer support, coaching, even engineering code review culture).

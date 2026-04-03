@@ -61,6 +61,9 @@ evidence:
   - id: INS-260329-5427
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260329-DE17
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 Hormozi argues that free content serves as a reliable signal for paid content quality: if someone provides high-value, tactical information for free, the probability that their paid offering is worse is low. This creates a practical due diligence framework: follow multiple educators in a space, compare the density and applicability of their free content over seven days, then purchase from the one whose style and substance resonate most.
 

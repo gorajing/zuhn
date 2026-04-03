@@ -60,6 +60,16 @@ related:
   - INS-260330-6D2E
   - INS-260330-0294
   - PRI-260328-A4AC
+evidence:
+  - id: INS-260323-9F61
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-33FF
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-0294
+    type: REFINES
+    classified_at: '2026-04-03'
 ---
 The article connects several mathematical phenomena — Zipf's Law, preferential attachment (Matthew Effect), and power-law distributions — to show that network advantages compound over time. A node that is 'ahead' gets picked more often because being ahead reduces friction and increases benefit for connecting nodes. This repeats across many interactions, systematically directing more resources to already-advantaged nodes.
 

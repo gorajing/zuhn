@@ -55,6 +55,10 @@ related:
   - INS-260330-C7C2
   - INS-260330-13A1
   - INS-260330-90B6
+evidence:
+  - id: INS-260330-E786
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 When early photosynthetic organisms evolved water-splitting to replenish electrons, oxygen was literally garbage — a 'useless byproduct' as the video frames it. Yet this waste product transformed Earth's atmosphere and enabled the entire animal kingdom. The original 'product' (glucose for the plant) matters far less to the planet than the 'waste.'
 

@@ -77,6 +77,21 @@ evidence:
   - id: INS-260322-24FB
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260327-1787
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-2387
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-98F7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-0102
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-4531
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Throughout CS50 Python, Malan repeatedly writes code, runs it immediately, encounters an error, diagnoses it, and fixes it — often deliberately introducing bugs to demonstrate the debugging process. This tight feedback loop (often under 30 seconds from writing to seeing results) is what makes programming uniquely effective for learning systematic thinking. Unlike essays graded days later or math homework checked next class, the computer gives you an unambiguous signal — correct or incorrect — within seconds.
 

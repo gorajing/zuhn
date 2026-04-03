@@ -58,6 +58,15 @@ evidence:
   - id: INS-260325-71DE
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260328-3FCE
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260325-0A49
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260329-D3D9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Dalton's closing advice ties the patience-urgency paradox together: you need to have fun. He hasn't seen people sustain effort on hard challenges over many years when they're not enjoying the work. Conversely, founders having fun do literally crazy things — sustained intensity that looks unsustainable from the outside but works because intrinsic motivation carries it.
 

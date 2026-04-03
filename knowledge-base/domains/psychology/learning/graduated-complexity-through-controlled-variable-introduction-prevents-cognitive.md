@@ -63,6 +63,15 @@ evidence:
   - id: INS-260329-8330
     type: REFINES
     classified_at: '2026-04-02'
+  - id: INS-260329-7B1D
+    type: REFINES
+    classified_at: '2026-04-03'
+  - id: INS-260329-7A39
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260329-9DEE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The tutorial's 31-chapter structure follows a strict pattern: each chapter introduces exactly one new concept (e.g., pointers, inheritance) while using only previously mastered constructs in examples. This mirrors cognitive load theory — working memory can only handle ~4 novel chunks at once.
 

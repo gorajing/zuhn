@@ -60,6 +60,16 @@ related:
   - INS-260330-C02D
   - INS-260330-54ED
   - INS-260330-E1B3
+evidence:
+  - id: INS-260330-6AB7
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-E068
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-C02D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The Calvin Cycle's economics look terrible on paper: for every 3 turns of the cycle consuming 9 ATP and 6 NADPH, only one G3P molecule escapes as net product. The other five must be recycled to regenerate the 3 RuBP molecules needed to restart the cycle. That's an 83% reinvestment rate.
 

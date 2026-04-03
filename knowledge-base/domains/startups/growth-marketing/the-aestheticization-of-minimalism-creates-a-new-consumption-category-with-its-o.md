@@ -48,6 +48,16 @@ related:
   - INS-260327-5D71
   - INS-260327-45BD
   - INS-260330-3257
+evidence:
+  - id: INS-260330-D006
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260327-5D71
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260327-2EFD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that are often more expensive than the maximalist alternatives they replace.
 

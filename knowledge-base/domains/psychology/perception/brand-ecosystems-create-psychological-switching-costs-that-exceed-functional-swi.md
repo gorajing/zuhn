@@ -57,6 +57,28 @@ related:
   - INS-260330-930D
   - INS-260328-2854
   - INS-260330-F7F4
+evidence:
+  - id: INS-260323-1BB4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-21CC
+    type: CHALLENGES
+    classified_at: '2026-04-03'
+  - id: INS-260330-0371
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-7F3D
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260330-930D
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260328-2854
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
+  - id: INS-260330-F7F4
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Apple's most powerful lock-in isn't technical (iMessage, AirDrop, ecosystem integration). It's psychological: Apple products have become part of users' self-identity. Switching to Android feels like changing who you are, not just changing phones. The brand has successfully associated itself with values (creativity, sophistication, good taste) that users want to embody.
 

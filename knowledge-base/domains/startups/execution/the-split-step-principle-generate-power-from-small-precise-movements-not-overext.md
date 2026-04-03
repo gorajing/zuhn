@@ -58,6 +58,15 @@ evidence:
   - id: INS-260323-FE33
     type: CHALLENGES
     classified_at: '2026-04-03'
+  - id: INS-260323-61FE
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260323-0827
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260325-3589
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Stevens explains that the fundamental movement in his throws is a small, controlled hip split that generates power without overextension. 'A lot of people try to go here and they overcommit and now this foot can't take that step.' The key is that power comes from precision, not effort — a controlled split where one leg generates force while the other maintains balance.
 

@@ -60,6 +60,9 @@ evidence:
   - id: INS-260325-11E0
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260325-3A04
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Misti Cain's framework is deliberately reductive: every failure autopsy she's seen as an investor and mentor traces back to either building a solution the founder loved rather than solving a problem the market had, or moving too slowly to discover the mismatch. Co-founder conflict, funding failure, and recession impact are symptoms that compound these two root causes, not independent failure modes.
 

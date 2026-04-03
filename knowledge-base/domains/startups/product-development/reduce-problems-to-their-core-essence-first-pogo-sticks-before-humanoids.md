@@ -55,6 +55,9 @@ evidence:
   - id: INS-260323-2117
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260323-0827
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Marc Raibert's foundational insight was that the fundamental problems of legged locomotion — balance, dynamic stability, energy efficiency — could be studied with a single-legged pogo stick. If you solve balance for a spring-mass system, you can extrapolate to machines that gallop like horses.
 

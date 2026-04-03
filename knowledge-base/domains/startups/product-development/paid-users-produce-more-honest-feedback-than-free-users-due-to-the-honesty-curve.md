@@ -60,6 +60,9 @@ evidence:
   - id: INS-260320-9937
     type: CONTRADICTS
     classified_at: '2026-04-02'
+  - id: INS-260329-DE17
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Adora describes an 'honesty curve' where your mom will always praise your product, friends will be somewhat honest, and random free users won't bother giving real feedback. But when money is involved, the curve inverts: your mom feels guilty criticizing something she paid for, but random paying customers will absolutely tell you if they didn't get their money's worth.
 

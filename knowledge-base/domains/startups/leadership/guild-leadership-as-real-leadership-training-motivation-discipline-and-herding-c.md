@@ -60,6 +60,10 @@ stance: >-
   Leading an MMO guild of 30+ anonymous players with mixed motivations
   (loot-seekers, lonely escapists, competitive achievers) teaches real
   leadership
+evidence:
+  - id: INS-260325-BAA4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Jeff Kaplan's rise from guild member to leader of Legacy of Steel, the top guild on his EverQuest server, was his first real leadership experience. Organizing raids of 30+ people meant dealing with diverse motivations (some wanted loot, some wanted social connection, some were escaping depression), repeating instructions endlessly, and learning when to force vs encourage people.
 

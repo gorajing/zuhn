@@ -79,6 +79,9 @@ evidence:
   - id: INS-260330-EACA
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260330-2BF4
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 RuBisCo evolved when atmospheric oxygen was negligible, optimized for a world that no longer exists. Once oxygen levels rose (ironically due to photosynthesis itself), RuBisCo started binding oxygen instead of CO2 roughly half the time, creating toxic byproducts plants must actively detoxify. Despite this catastrophic inefficiency, plants compensate by simply producing massive quantities — an estimated 40 billion tons globally at any time — rather than evolving a better enzyme.
 

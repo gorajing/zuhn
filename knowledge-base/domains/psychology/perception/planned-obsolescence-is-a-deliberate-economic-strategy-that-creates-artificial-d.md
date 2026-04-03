@@ -56,6 +56,10 @@ related:
   - PRI-260324-8EE6
   - PRI-260323-0F93
   - INS-260330-2B45
+evidence:
+  - id: INS-260330-2B45
+    type: CONTRADICTS
+    classified_at: '2026-04-03'
 ---
 Planned obsolescence wasn't an accident of cost-cutting — it was a deliberate economic strategy. In the 1930s, Bernard London proposed mandatory obsolescence as a solution to the Depression: products would have legally enforced expiration dates to create continuous demand. While the legal mandate was rejected, the principle was widely adopted: products designed to break, fashion cycles designed to make clothes 'outdated,' and technology designed to slow down with updates.
 

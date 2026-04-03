@@ -1,6 +1,6 @@
 # Topic: co-founders
 
-> 39 insights
+> 40 insights
 
 - `INS-260325-9B73` [high] Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized.
 - `INS-260326-D8B9` [high] No one ever says 'great person, wrong skills' when co-founders split — it's always 'brilliant person, impossible to work with.'
@@ -17,6 +17,7 @@
 - `INS-260330-F4C0` [high] Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
 - `INS-260330-C745` [high] Among the highest-valued YC companies, there are zero instances of significantly disproportionate founder equity splits.
 - `INS-260326-0C14` [high] Near-equal equity avoids resentment and one extra CEO share prevents the 50/50 deadlocks that YC sees kill companies regularly.
+- `INS-260403-7563` [high] Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside.
 - `INS-260323-1FC1` [high] Kreischer and Segura's creative partnership survives because when money caused feelings to get involved, one said 'our feelings are more important than the money — so let's just split it.'
 - `INS-260323-FCC1` [high] Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260325-EC85` [high] Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.

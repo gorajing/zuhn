@@ -61,6 +61,10 @@ related:
   - INS-260325-A03D
   - INS-260330-B173
   - INS-260330-6C59
+evidence:
+  - id: INS-260330-035C
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Multiple randomized controlled trials show taurine supplementation (1-6g/day) improves: fasting glucose, fasting insulin, blood pressure (systolic and diastolic), endothelial function in diabetics, and multiple metabolic syndrome markers. For exercise, 1-6g pre-workout extends time to exhaustion by 10%+, lowers blood lactate 16.5%, and attenuates body temperature rise.
 

@@ -63,6 +63,10 @@ related:
   - INS-260329-02C5
   - INS-260329-579D
   - INS-260330-B7C6
+evidence:
+  - id: INS-260329-E7A4
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 The geometric proof that lim(sin θ/θ) = 1 is a masterclass in indirect reasoning. Instead of computing the limit directly, the proof bounds sin θ/θ between cos θ and 1/cos θ using area comparisons of triangles and circular sectors. Since both bounds approach 1 as θ→0, the trapped quantity must also approach 1. No direct calculation of sin θ/θ was ever needed.
 

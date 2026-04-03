@@ -61,6 +61,10 @@ related:
 stance: >-
   Casper, built to disrupt retail mattress stores, found that retail sales grew
   74% year-over-year with 15% higher average orders
+evidence:
+  - id: INS-260330-B22D
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 The ultimate irony of Casper's story: the company that proudly declared you'd never need to visit a mattress store found its fastest-growing sales channel was... retail stores. Retail sales grew 74% year-over-year, accounting for 20% of revenue, with average orders 15% higher ($820 vs online). Meanwhile, DTC online sales grew only 20%.
 

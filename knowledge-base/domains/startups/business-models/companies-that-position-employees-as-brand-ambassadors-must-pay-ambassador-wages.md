@@ -46,6 +46,10 @@ related:
   - INS-260329-16F0
   - INS-260322-D57C
   - INS-260327-9924
+evidence:
+  - id: INS-260329-16F0
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enthusiasm is genuine, or the customer-facing facade eventually breaks down.
 

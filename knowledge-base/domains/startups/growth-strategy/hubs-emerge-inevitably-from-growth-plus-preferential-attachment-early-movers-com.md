@@ -60,6 +60,12 @@ evidence:
   - id: INS-260325-4C6D
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260330-E794
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260330-6D2E
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Barabasi and Albert showed that hubs (super-connectors like O'Hare airport, Google, or ATP in cellular metabolism) aren't designed -- they emerge inevitably from two simple rules: (1) networks grow by adding nodes over time, and (2) new nodes are slightly more likely to connect to already-connected nodes (preferential attachment).
 

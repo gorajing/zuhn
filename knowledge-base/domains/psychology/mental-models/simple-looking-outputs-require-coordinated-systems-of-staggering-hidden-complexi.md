@@ -69,6 +69,9 @@ evidence:
   - id: INS-260330-5C36
     type: EXTENDS
     classified_at: '2026-04-02'
+  - id: INS-260330-2C71
+    type: CHALLENGES
+    classified_at: '2026-04-03'
 ---
 Photosystem II is often described simply as 'the thing that absorbs light,' but it contains at least 99 distinct chemicals — including over 30 individual chlorophyll molecules — all coordinated to accomplish what appears to be a single, simple task: capturing a photon's energy and transferring it to a mobile electron carrier. The apparent simplicity of the input-output relationship (photon in, energized electron out) conceals enormous molecular coordination.
 

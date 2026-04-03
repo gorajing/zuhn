@@ -51,6 +51,9 @@ evidence:
   - id: INS-260329-1B2A
     type: SUPPORTS
     classified_at: '2026-04-03'
+  - id: INS-260327-D129
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The organizing industry profits by creating products to manage overconsumption rather than addressing the overconsumption itself, adding a consumption layer on top of consumption.
 

@@ -69,6 +69,12 @@ evidence:
   - id: INS-260325-C6BB
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-6C09
+    type: EXTENDS
+    classified_at: '2026-04-03'
+  - id: INS-260329-61E5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Wolfram frames LLMs as systems that forage from what humans have already written, producing outputs that are 'like what's been said on the web.' This is fundamentally different from computation that can derive new results through deep logical chains. LLMs perform shallow computation on vast training data; formal systems perform deep computation on carefully structured knowledge.
 

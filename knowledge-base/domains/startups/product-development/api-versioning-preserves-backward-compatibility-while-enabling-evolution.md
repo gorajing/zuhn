@@ -60,5 +60,8 @@ evidence:
   - id: INS-260402-543E
     type: TRANSFERS_TO
     classified_at: '2026-04-02'
+  - id: INS-260327-24A5
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 When modifying API endpoints, backward compatibility is critical — changes must not break existing clients. The standard practice is introducing new API versions (e.g., /v1/products continues serving old clients while /v2/products serves current clients). For GraphQL, the equivalent is adding new fields without removing old ones, allowing gradual client migration. Additional best practices include rate limiting to prevent abuse and DDoS, CORS settings to control which domains can access the API, and making GET requests idempotent (calling them multiple times produces the same result). The deeper principle: APIs are contracts. Breaking a contract destroys trust and forces all consumers to update simultaneously, which in practice means some break silently. Versioning makes evolution possible without forcing coordinated migrations.

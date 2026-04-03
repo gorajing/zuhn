@@ -68,6 +68,9 @@ evidence:
   - id: INS-260327-0875
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260329-023F
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Playter describes a core Boston Dynamics principle: it's okay — even good — to break stuff. But this fearless iteration is only possible because the team can repair what they break. If you're working with equipment you can't fix, you treat it with kid gloves and can't make progress.
 

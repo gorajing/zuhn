@@ -54,6 +54,10 @@ related:
   - INS-260330-31A9
   - INS-260330-656A
   - INS-260330-56AA
+evidence:
+  - id: INS-260330-31A9
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Before discovering shade balls, LA's water department explored increasingly complex novel solutions: floating tarps, PVC pipe trampolines, shredded pipe debris fields. Each custom solution introduced new problems (bird perches, petri dish conditions, structural challenges). The breakthrough came when Dr. Bryan White found an existing product — 'bird balls' — already manufactured for keeping waterfowl off mine tailings ponds and airport retention ponds.
 

@@ -45,6 +45,10 @@ related:
   - INS-260327-F651
   - INS-260325-4677
   - PRI-260328-F497
+evidence:
+  - id: INS-260325-4677
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Theme parks must continuously invest in new rides because each new attraction generates declining visitor impact over time as novelty wears off, creating an unsustainable capex treadmill.
 

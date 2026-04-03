@@ -66,6 +66,9 @@ evidence:
   - id: INS-260330-206C
     type: CHALLENGES
     classified_at: '2026-04-02'
+  - id: INS-260329-8830
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 The course culminates in web scraping and API consumption — skills that let students immediately extract, process, and analyze real data from the internet. This is a deliberate pedagogical choice: the final projects produce artifacts the student actually wants (scraped datasets, API-driven analyses) rather than toy programs nobody cares about.
 

@@ -71,6 +71,9 @@ evidence:
   - id: INS-260330-0DCA
     type: EXTENDS
     classified_at: '2026-04-03'
+  - id: INS-260323-E1B6
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Destiny argues that conservatives' decision to demonize and disengage from universities — rather than critically engaging with them — created a self-reinforcing cycle: fewer conservatives participate, the remaining population skews further left, which validates the narrative that the institution is irredeemable, driving further disengagement. Shapiro partially agrees but traces the timeline back to the 1960s, citing Shelby Steele's account of liberal administrators who lacked the 'spiritual strength' to push back against radical demands.
 

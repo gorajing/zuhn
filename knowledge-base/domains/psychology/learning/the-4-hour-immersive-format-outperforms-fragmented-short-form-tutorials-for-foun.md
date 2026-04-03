@@ -55,6 +55,19 @@ related:
   - INS-260329-88B2
   - INS-260329-69F0
   - INS-260329-63DD
+evidence:
+  - id: INS-260321-ADB4
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-88B2
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-69F0
+    type: SUPPORTS
+    classified_at: '2026-04-03'
+  - id: INS-260329-63DD
+    type: SUPPORTS
+    classified_at: '2026-04-03'
 ---
 With 13M+ views, this 4-hour tutorial demonstrates strong demand for comprehensive, single-sitting learning experiences. Each section builds on previous ones — you can't understand inheritance without classes, can't understand classes without functions, can't understand functions without variables. This cumulative dependency makes long-form the natural structure.
 

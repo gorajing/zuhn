@@ -59,6 +59,10 @@ related:
   - INS-260402-ED85
   - INS-260402-EE6E
   - INS-260403-7C88
+evidence:
+  - id: INS-260402-ED85
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 Apple started because Wozniak wanted to build microcomputers and HP wouldn't let him. Yahoo began as Filo's personal link collection. Lotus originated from a program Kapor wrote for a friend. Graham argues that measured by total market cap, this 'build stuff for yourself' model may be more fruitful than deliberate ideation.
 

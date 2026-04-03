@@ -51,6 +51,10 @@ related:
   - INS-260328-A57D
   - INS-260327-CEE4
   - INS-260330-AC16
+evidence:
+  - id: INS-260330-AC16
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Lang and his co-founders spent an entire year just looking for different opportunities, visiting 32 states on a road trip before deciding on salon and spa software. The deliberate search for a problem they could be passionate about for 10-20 years was the most important decision they made.
 

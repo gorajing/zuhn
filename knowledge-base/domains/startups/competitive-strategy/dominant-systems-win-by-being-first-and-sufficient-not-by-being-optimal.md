@@ -61,6 +61,10 @@ related:
   - INS-260330-9A60
   - INS-260330-39B0
   - INS-260330-0E1E
+evidence:
+  - id: INS-260330-09DE
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The video opens by noting photosynthesis is 'complicated, inefficient, and confusing' and was developed 450 million years ago. Despite its inefficiency (converting only ~1-2% of solar energy to chemical energy), it became the foundation for all complex life on Earth. No alternative carbon-fixation pathway ever displaced it because every organism and ecosystem evolved to depend on its specific outputs.
 

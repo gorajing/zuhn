@@ -58,6 +58,10 @@ related:
   - INS-260330-4E50
   - INS-260330-C89D
   - INS-260330-2304
+evidence:
+  - id: INS-260330-C89D
+    type: EXTENDS
+    classified_at: '2026-04-03'
 ---
 The dorsolateral striatum, a subdivision of the basal ganglia, becomes active at the onset and offset of habitual behaviors but is relatively quiet during the behavior itself. This 'task-bracketing' mechanism is what determines habit strength — specifically context-independence and resistance to limbic friction. The implication is profound: to build stronger habits, you should focus on strengthening the transitions into and out of the behavior (the getting-started ritual and the post-completion state) rather than obsessing over perfecting the behavior during execution. This explains why morning routines and wind-down rituals are so effective — they're training the bracketing circuits.
 

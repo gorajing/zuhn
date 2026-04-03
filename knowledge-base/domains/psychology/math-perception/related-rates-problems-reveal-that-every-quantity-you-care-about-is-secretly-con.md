@@ -65,6 +65,9 @@ evidence:
   - id: INS-260329-A67B
     type: SUPPORTS
     classified_at: '2026-04-02'
+  - id: INS-260330-3363
+    type: TRANSFERS_TO
+    classified_at: '2026-04-03'
 ---
 Related rates problems in Calculus 1 take a geometric or physical setup — a ladder sliding down a wall, a balloon inflating, water filling a cone — and ask: if one quantity changes at a known rate, how fast does another change? The method requires identifying the hidden equation connecting the quantities, then differentiating implicitly with respect to time.
 
