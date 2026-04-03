@@ -17,10 +17,10 @@
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
 - `INS-260330-2B5F` Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260325-47FE` Tit-for-tat wins repeated game theory: cooperate first, then mirror — simplicity and consistency beat complex manipulation.
+- `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260330-4D9D` When people expect norm compliance from one party but not the other, the norm is already destroyed regardless of what happens next.
 - `INS-260327-BBC2` People cooperate not because they're good but because they expect to meet again - the shadow of future interactions is the real engine of ethical behavior.
 - `INS-260330-6165` Hoffman's fitness-beats-truth theorem mathematically proves that natural selection shapes senses to track fitness payoffs, not objective truth, with probability zero of evolving truth-seeing.
 - `INS-260323-ACD9` Committing in advance to principled behavior yields better outcomes than optimizing each decision in isolation.
-- `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260323-D934` What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.

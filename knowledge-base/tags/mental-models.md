@@ -1,13 +1,12 @@
 # Tag: mental-models
 
-- `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
+- `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260322-83D4` The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260330-5A2A` All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
 - `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260330-C989` Bubbles expand slowly but collapse violently because the Rayleigh-Plesset equation's nonlinear terms dominate during contraction, creating a canonical example of asymmetric dynamics from symmetric-seeming initial conditions.
-- `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260329-E015` Every programming construct — functions, classes, libraries, APIs — is the same abstraction operation applied at different scales.
 - `INS-260329-5C25` Programming mastery is not syntax fluency but knowing when and how to create the right abstraction.
 - `INS-260329-B170` The C++ compilation pipeline (source → preprocessor → compiler → linker → executable) mirrors how LLM systems process prompts through tokenization, attention, and decoding stages.
@@ -26,11 +25,13 @@
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260329-8896` Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.
 - `INS-260329-7677` C++ pointer/reference semantics force you to think explicitly about whether you're copying data or pointing to shared data — a distinction that prevents entire categories of AI system bugs.
-- `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
-- `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
+- `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
+- `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
+- `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
+- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260329-8067` Inversion thinking leverages evolutionary threat-detection to make behavior change stick.
@@ -134,6 +135,12 @@
 - `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
 - `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
 - `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
+- `INS-260329-6B95` Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
+- `INS-260329-C472` Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
+- `INS-260329-BBF9` Reframe every purchase as 'would I work X hours for this item' to reveal its true cost.
+- `INS-260329-C089` Interpreting hopelessness as 'I don't know enough yet' rather than 'I can't' converts despair into a solvable problem.
+- `INS-260329-541A` Sadness is a knowledge deficit (no perceived options); anxiety is a prioritization deficit (too many options).
+- `INS-260329-0B76` Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260329-36D9` Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
@@ -158,19 +165,11 @@
 - `INS-260323-12F2` The fundamental realization from vacuum physics: emptiness is the default state of the universe, and the presence of matter is what needs explaining.
 - `INS-260323-7F5D` Torricelli didn't just create a vacuum -- he reframed the entire question by showing that atmospheric pressure, not nature's horror of emptiness, explained all the phenomena.
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match.
-- `INS-260329-6B95` Wherever you assign blame for your situation, you simultaneously assign power over your future outcomes to that same thing.
-- `INS-260329-C472` Whatever you cast blame to is where you also cast power — blaming your mom, the economy, or politics makes those things your master.
-- `INS-260329-BBF9` Reframe every purchase as 'would I work X hours for this item' to reveal its true cost.
-- `INS-260329-C089` Interpreting hopelessness as 'I don't know enough yet' rather than 'I can't' converts despair into a solvable problem.
-- `INS-260329-541A` Sadness is a knowledge deficit (no perceived options); anxiety is a prioritization deficit (too many options).
-- `INS-260329-0B76` Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
-- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
 - `INS-260329-28B0` At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
-- `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
-- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
+- `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260329-3FA6` Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
 - `INS-260323-CE39` Stevens generates maximum throwing power from a small precise hip split rather than a big lunging movement — overextending leaves you vulnerable and off-balance.
 - `INS-260322-AF17` Founders resist comping themselves to public companies because it feels like comparing yourself to astronauts — but the winners (DoorDash, Facebook) were always benchmarking against the biggest players, not other startups.
@@ -179,7 +178,8 @@
 - `INS-260329-E2D0` Replace the passive/active income binary with a single metric: your effective dollars per hour across all activities.
 - `INS-260329-D1B8` Entrepreneurs repeat the cycle of uninformed optimism → informed pessimism → crisis of meaning → restart, never reaching informed optimism and achievement.
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
-- `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
+- `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
+- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260403-3A49` Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.
 - `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.

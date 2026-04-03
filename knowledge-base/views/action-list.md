@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3153 actionable insights
+Generated on 2026-04-03 | 3157 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1236,6 +1236,7 @@ Generated on 2026-04-03 | 3153 actionable insights
 - [INS-260402-62E3] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
 - [INS-260403-76C3] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - [INS-260403-DB0A] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
+- [INS-260403-97D6] Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -2671,6 +2672,7 @@ Generated on 2026-04-03 | 3153 actionable insights
 - [INS-260403-5C74] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
 - [INS-260403-6AB5] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
 - [INS-260403-5BAD] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.
+- [INS-260403-F87C] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2930,6 +2932,7 @@ Generated on 2026-04-03 | 3153 actionable insights
 - [INS-260403-204E] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
 - [INS-260403-3656] Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 - [INS-260403-B5C0] Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
+- [INS-260403-9AB5] Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3318,6 +3321,7 @@ Generated on 2026-04-03 | 3153 actionable insights
 - [INS-260403-F4F6] Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.
 - [INS-260403-99D1] Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
 - [INS-260403-DF7F] Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
+- [INS-260403-DD95] Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

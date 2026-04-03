@@ -1,5 +1,6 @@
 # Tag: team-dynamics
 
+- `INS-260403-97D6` Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 - `INS-260326-2E56` When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
 - `INS-260327-3C96` You need to know whether you can work with people in extremely stressful situations — skills matter less than stress compatibility.
 - `INS-260323-7866` The Danaher Death Squad split — the most talented grappling team in history breaking apart — illustrates that no amount of collective talent survives unresolved personal conflicts.

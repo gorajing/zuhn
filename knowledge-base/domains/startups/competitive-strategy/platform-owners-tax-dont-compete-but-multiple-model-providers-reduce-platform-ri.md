@@ -46,7 +46,6 @@ resolutions:
     pursue opportunities that are '100 feet away' when they have gold bricks at
     their feet.
 related:
-  - INS-260322-A14D
   - INS-260321-21BE
   - INS-260326-3E19
   - INS-260325-FADB
@@ -56,6 +55,7 @@ related:
   - INS-260327-3B91
   - PRI-260324-DE71
   - INS-260327-7D53
+  - INS-260327-F996
 stance: >-
   Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model
   providers means AI startups face taxation risk, not existential platform...

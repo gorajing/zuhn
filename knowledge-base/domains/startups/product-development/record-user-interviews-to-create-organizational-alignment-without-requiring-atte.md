@@ -51,12 +51,11 @@ stance: >-
   more effective at creating product alignment than summarizing findings in a
   report or presentation
 related:
-  - INS-260330-DAAD
   - INS-260330-281A
   - INS-260330-A6BE
+  - INS-260403-DD95
   - INS-260327-89E4
   - INS-260330-9F1F
-  - INS-260328-0C87
 ---
 Shear describes recorded interviews as 'magic' for organizational buy-in — a word he uses twice. The challenge with user research in a startup is that the person who conducted the interviews has deep conviction about what to build, but translating that to the rest of the team through secondhand summaries loses the emotional and contextual weight. When you play back the actual recording of a user describing their frustrations, the team hears the hesitations, the emphasis, the specific language — and forms their own conviction.
 

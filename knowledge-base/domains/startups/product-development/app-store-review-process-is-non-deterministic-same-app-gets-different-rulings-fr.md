@@ -46,7 +46,6 @@ stance: >-
   rejections as probabilistic events to be retried rather than definitive
   judgments to be solved.
 related:
-  - INS-260322-D6D7
   - INS-260330-178D
   - PRI-260323-8EEA
   - INS-260323-8AA1

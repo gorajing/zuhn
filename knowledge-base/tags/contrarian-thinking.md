@@ -8,9 +8,9 @@
 - `INS-260323-0556` Black holes were resisted for decades because they seemed 'too preposterous to be real,' with senior scientists publicly attacking younger ones for following the math.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
+- `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
 - `INS-260329-AAE3` You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
 - `INS-260327-7F11` The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
-- `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260329-ABD9` Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - `INS-260321-6BA7` Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.

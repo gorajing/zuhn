@@ -7,7 +7,6 @@
 - `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260326-2E56` When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.
 - `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
-- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
 - `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260326-F3E0` Most leaders fail by being too nice, not too mean — ruinous empathy silently destroys performance and trust.
@@ -16,3 +15,4 @@
 - `INS-260325-9F12` Gawande tracked his surgical complications for a decade, saw steady improvement, then hit a plateau at year 10-12 — a former professor observing him found 20 minutes of feedback after a single operation he thought went perfectly.
 - `INS-260326-8217` When someone reacts with anger to your feedback, shift from defensive mode to curiosity — ask why they're upset instead of matching their energy.
 - `INS-260323-40AA` Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
+- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.

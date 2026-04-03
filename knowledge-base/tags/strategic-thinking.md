@@ -4,4 +4,5 @@
 - `INS-260330-9575` Americans' failure to put themselves in Russia's or China's shoes leads to policies that provoke the exact conflicts they aim to prevent.
 - `INS-260327-CA82` Complex strategic board games existed 4,000+ years ago in Mesopotamia, demonstrating sophisticated mathematical and strategic thinking thousands of years before formal game theory.
 - `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
+- `INS-260403-9AB5` Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
 - `INS-260330-4FED` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking, and he taught them execution — a deliberate skill trade.

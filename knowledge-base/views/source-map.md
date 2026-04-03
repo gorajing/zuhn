@@ -240,6 +240,7 @@ Generated on 2026-04-03 | 2421 sources
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
+| 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
 | 1,000,000 | blog | 5 | 2026-03-31 |
 | 12 Ruthless CEO Emails Every Founder Should Study | blog | 5 | 2026-03-30 |
@@ -267,6 +268,7 @@ Generated on 2026-04-03 | 2421 sources
 | AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
 | Airwallex: How an Outsider Built an $8B Fintech Empire | blog | 5 | 2026-03-30 |
 | "All Lawful Use": Much More Than You Wanted To Know | blog | 5 | 2026-03-30 |
+| America's chip export controls are working | blog | 5 | 2026-03-30 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
 | Are we in the foothills of World War 3? | blog | 5 | 2026-03-30 |
 | Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
@@ -278,6 +280,7 @@ Generated on 2026-04-03 | 2421 sources
 | Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
 | Best Books for Founders: What Startup Leaders Actually Read | blog | 5 | 2026-03-30 |
+| Best Innovation Management Books: 20 Must-Reads for Leaders | blog | 5 | 2026-03-31 |
 | Best Of Moltbook | blog | 5 | 2026-03-30 |
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
 | Billionaires Build | blog | 5 | 2026-03-31 |
@@ -297,9 +300,11 @@ Generated on 2026-04-03 | 2421 sources
 | Five Questions about Language Design | blog | 5 | 2026-03-31 |
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
+| Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology and Comfort Are Rewiring a Generation | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
 | Hidden VC Fund Secrets Every Founder Should Know | blog | 5 | 2026-03-30 |
+| Higher Rates Will Lead to the Next Generation of Great Tech Startups | blog | 5 | 2026-03-30 |
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
 | How Art Can Be Good | blog | 5 | 2026-03-31 |
 | How ChatGPT Prompts Are Becoming Startups: From Idea to MVP | blog | 5 | 2026-03-30 |
@@ -359,6 +364,7 @@ Generated on 2026-04-03 | 2421 sources
 | Roundup #78: Roboliberalism | blog | 5 | 2026-03-30 |
 | Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
 | SaaS Financial Model Guide (+ Free Excel Template) | blog | 5 | 2026-03-30 |
+| SaaS MRR Projection Model + Excel Template | blog | 5 | 2026-03-30 |
 | Save us, Digital Cronkite! | blog | 5 | 2026-03-30 |
 | See New Marketplaces Where Others See Crowds: The Inside Story of A.Team | blog | 5 | 2026-03-31 |
 | Series A & B Cap Table Guide + Free Excel Template | blog | 5 | 2026-03-30 |
@@ -1560,7 +1566,6 @@ Generated on 2026-04-03 | 2421 sources
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 0 | 2026-03-31 |
 | 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
-| 10 Questions to Expect During a First Call With a VC | blog | 0 | 2026-03-30 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
 | $1,000 Head Start For America's Youth | blog | 0 | 2026-03-30 |
 | 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 0 | 2026-03-30 |
@@ -1713,7 +1718,6 @@ Generated on 2026-04-03 | 2421 sources
 | Amazon spends $2.75 billion on AI startup Anthropic💸, The Founders Guide to Optimizing Your Fundraise📘, The Pulse of SaaS☁️ & more! | blog | 0 | 2026-03-30 |
 | Amazon's Value Proposition: Never Run Out Of Toilet Paper! | blog | 0 | 2026-03-31 |
 | America must embrace the Electric Age, or fall behind | blog | 0 | 2026-03-30 |
-| America's chip export controls are working | blog | 0 | 2026-03-30 |
 | An AI Glossary | blog | 0 | 2026-03-31 |
 | An Alternative Theory of Unions | blog | 0 | 2026-03-31 |
 | An exclusive inside look at GPT-5 | blog | 0 | 2026-03-31 |
@@ -1759,7 +1763,6 @@ Generated on 2026-04-03 | 2421 sources
 | Being a Noob | blog | 0 | 2026-03-31 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 0 | 2026-03-31 |
-| Best Innovation Management Books: 20 Must-Reads for Leaders | blog | 0 | 2026-03-31 |
 | Best innovation management software for your business | blog | 0 | 2026-03-31 |
 | Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
 | Beyond Smart | blog | 0 | 2026-03-31 |
@@ -1927,7 +1930,6 @@ Generated on 2026-04-03 | 2421 sources
 | Gaming Superpowers for Non-Game Founders with Gabi Shalel (Plarium) & Gigi Levy-Weiss | blog | 0 | 2026-03-31 |
 | Gangster affordability | blog | 0 | 2026-03-30 |
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
-| Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology and Comfort Are Rewiring a Generation | blog | 0 | 2026-03-30 |
 | General and Surprising | blog | 0 | 2026-03-31 |
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
 | Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 0 | 2026-03-30 |
@@ -1954,7 +1956,6 @@ Generated on 2026-04-03 | 2421 sources
 | Hidden Open Thread 425.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | High Resolution Fundraising | blog | 0 | 2026-03-31 |
-| Higher Rates Will Lead to the Next Generation of Great Tech Startups | blog | 0 | 2026-03-30 |
 | Holding a Program in One's Head | blog | 0 | 2026-03-31 |
 | How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 0 | 2026-03-30 |
 | How Creandum Built a $2B VC Fund Backing Spotify and Lovable | blog | 0 | 2026-03-30 |
@@ -2101,7 +2102,6 @@ Generated on 2026-04-03 | 2421 sources
 | SaaS Cohort Analysis Model + Excel Template | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 0 | 2026-03-30 |
-| SaaS MRR Projection Model + Excel Template | blog | 0 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 0 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 0 | 2026-03-30 |
 | San Francisco's urban revival is in danger | blog | 0 | 2026-03-30 |

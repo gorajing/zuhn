@@ -48,11 +48,11 @@ stance: >-
   dimensions, not trade-offs — combining both creates the learning zone where
   teams actually perform best.
 related:
+  - INS-260403-97D6
   - PRI-260328-2C6A
   - INS-260330-C9A6
   - INS-260403-1A08
   - INS-260327-DCAF
-  - INS-260325-DFC7
 evidence:
   - id: INS-260327-DCAF
     type: CHALLENGES

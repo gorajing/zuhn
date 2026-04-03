@@ -2,6 +2,7 @@
 
 - `INS-260330-82B5` One bad AI interaction permanently destroys user willingness to retry, creating a vicious cycle of declining engagement and improvement.
 - `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
+- `INS-260322-E7E9` When insurance rejected a BMI-34.7 patient for Ozempic coverage at $1000/month, she turned to Chinese-sourced peptides at $15/vial — the access gap is creating the gray market.
 - `INS-260329-67D1` Letting customers choose their own quantity shifts price blame from the business to the buyer.
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
@@ -23,10 +24,18 @@
 - `INS-260327-7D27` All-inclusive pricing environments increase total spending because individual consumption decisions carry zero marginal 
 - `INS-260327-6188` When therapy is marketed like a subscription service, consumers expect consumer-grade UX, responsiveness, and satisfacti
 - `INS-260327-7018` Affluent consumers who thrift for social media content are performing frugality as an identity signal while spending mor
-- `INS-260322-E7E9` When insurance rejected a BMI-34.7 patient for Ozempic coverage at $1000/month, she turned to Chinese-sourced peptides at $15/vial — the access gap is creating the gray market.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260330-8639` A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
+- `INS-260327-7AB5` Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
+- `INS-260327-77C7` When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
+- `INS-260327-CADA` The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
+- `INS-260327-290C` Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t
+- `INS-260327-2A58` Analog products can sustain premium niche markets among enthusiasts but cannot recapture mass-market share because the c
+- `INS-260327-06A6` When platforms become the primary discovery channel, creators optimize for platform algorithms rather than audience sati
+- `INS-260327-0746` Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is 
+- `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho
+- `INS-260327-9EE4` When consumer trust in an entire category collapses due to widespread deception, brands that adopt radical transparency 
 - `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260327-B6D6` Frequent promotional events train consumers to never pay full price, permanently depressing margins and creating a depen
 - `INS-260327-65F6` Products distributed freely as brand promotions generate more usage and loyalty than identical products sold at any pric
@@ -40,12 +49,3 @@
 - `INS-260327-415B` When products are designed primarily to be shared on social media, they optimize for visual impact at the expense of the
 - `INS-260327-99E5` 80% of consumers say they want sustainable products; less than 5% actually buy them when they cost more.
 - `INS-260327-A620` Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that 
-- `INS-260327-7AB5` Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
-- `INS-260327-77C7` When streaming services fragment content and raise prices simultaneously, they cross a threshold where the total cost and friction exceeds consumers' tolerance, driving them back to piracy.
-- `INS-260327-CADA` The eco-premium business model profits from the gap between consumer willingness to pay for sustainability and the actua
-- `INS-260327-290C` Businesses that make consumers so accustomed to effortless consumption create switching costs based on effort aversion t
-- `INS-260327-2A58` Analog products can sustain premium niche markets among enthusiasts but cannot recapture mass-market share because the c
-- `INS-260327-06A6` When platforms become the primary discovery channel, creators optimize for platform algorithms rather than audience sati
-- `INS-260327-0746` Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is 
-- `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho
-- `INS-260327-9EE4` When consumer trust in an entire category collapses due to widespread deception, brands that adopt radical transparency 

@@ -44,9 +44,8 @@ stance: >-
   comprehensive context engineering—providing all implicit expectations, brand
   voice, documents, and specifications explicitly.
 related:
-  - INS-260320-508F
-  - INS-260327-5AFE
   - INS-260321-82FE
+  - INS-260327-5AFE
   - INS-260320-DCA0
   - INS-260325-E1FA
   - INS-260329-0F39

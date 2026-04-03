@@ -2,8 +2,8 @@
 
 - `INS-260329-5094` Spreadsheet decision matrices force you to name your criteria and weights before evaluating options, which counteracts gut-feel bias.
 - `INS-260325-13C2` We know average equity returns, inflation rates, and economic ranges — the only unsolved variable in investing is our own behavior.
-- `INS-260330-2EF0` Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
 - `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
+- `INS-260330-2EF0` Whether you view the Mongols as progressive or barbaric depends on whether you prioritize religious tolerance and trade over artistic output and human life.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
 - `INS-260330-14BD` Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
@@ -38,11 +38,11 @@
 - `INS-260329-D8F2` Use inversion — enumerate failure modes first, then flip them — because our threat-detection circuits are stronger than our solution-finding circuits.
 - `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
+- `INS-260329-D913` Everyone who has ever handled an unexpected bill has proven they can be resourceful — they just choose not to be when the beneficiary is themselves.
 - `INS-260330-28BE` The cosmological principle shows that every point in the expanding universe appears to be the center of expansion — the 'center' is an artifact of the observer's frame of reference, not a real property of the system.
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260327-9BFD` You're spending enormous energy managing an impression that others aren't even forming - they're too busy managing their own.
 - `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
-- `INS-260329-D913` Everyone who has ever handled an unexpected bill has proven they can be resourceful — they just choose not to be when the beneficiary is themselves.
 - `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260330-697F` Building great product means optimizing for power users, but driving growth means optimizing for the marginal user who barely engages.

@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 33 insights
+> 34 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
@@ -19,6 +19,7 @@
 - `INS-260402-B817` [high] Groups persecute outsiders not from hatred but because shared enemies create the strongest internal bonds.
 - `INS-260330-DBAD` [high] The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.
 - `INS-260330-B22D` [high] Political visibility creates a separating equilibrium where any slight lean gets amplified into full tribal membership through social pressure.
+- `INS-260403-97D6` [high] Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 - `INS-260402-B065` [high] Groups without external goals create toxic zero-sum status hierarchies where the game becomes the only game.
 - `INS-260330-9A34` [high] Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
 - `INS-260402-4F0E` [high] People inside broken systems assume they're missing something rather than that the system is wrong.

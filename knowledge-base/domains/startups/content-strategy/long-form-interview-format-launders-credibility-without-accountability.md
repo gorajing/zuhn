@@ -53,7 +53,7 @@ related:
   - INS-260330-8D27
   - PRI-260321-5857
   - INS-260327-6AB1
-  - INS-260330-478C
+  - INS-260403-DD95
 ---
 Harris argues that podcasters who interviewed Trump claimed their long-form format was superior to mainstream media because it let people 'make up their mind,' but then took zero journalistic responsibility for fact-checking or challenging obvious falsehoods. The format itself — relaxed, conversational, lengthy — created a parasocial sense of authenticity that made the content seem more trustworthy than it was.
 

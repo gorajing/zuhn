@@ -1,7 +1,7 @@
 # Tag: platform-strategy
 
-- `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
 - `INS-260323-6230` NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
+- `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share.
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise.
 - `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible.
 - `INS-260322-EDA4` New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
@@ -11,7 +11,6 @@
 - `INS-260330-CAAB` Apple embraced longer device lifecycles because every iPhone user—new or used—still generates services revenue through apps, subscriptions, and licensing deals like Google's $9B search default payment.
 - `INS-260330-D556` When unit sales plateau, shift monetization from selling new devices to extracting recurring revenue from every device already in users' hands.
 - `INS-260327-9DA6` Twitter's decision to restrict its API and push users away from third-party clients (which served 20-30% of users) became one of the company's most costly strategic mistakes.
-- `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
 - `INS-260327-8682` Intuit's expansion playbook: after accounting (the anchor), the next problem was invoicing and getting paid (right next to accounting), then payroll, then credit — each one right next to the last.
 - `INS-260330-8481` TikTok is not ByteDance's endgame — it's a distribution channel for expansion into e-commerce, gaming, streaming, enterprise software, education, fintech, and cloud services.
 - `INS-260323-0539` Cursor forked VS Code rather than building an extension because plugin APIs limit what you can build — when AI changes how software is built, you need full control of the editing surface.
@@ -21,6 +20,7 @@
 - `INS-260330-007E` M-PESA's genius was piggybacking on existing phone networks and SIM cards rather than building new financial infrastructure, achieving massive scale at minimal cost.
 - `INS-260330-856B` Tools must be embedded in existing popular systems to gain adoption — standalone merit is insufficient.
 - `INS-260327-F0B2` Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.
+- `INS-260321-69E1` A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has its own vibe, taste, and spirit — crossposting one idea everywhere fails to appreciate what each platform rewards.
 - `INS-260402-3196` IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability.
 - `INS-260323-6043` Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.

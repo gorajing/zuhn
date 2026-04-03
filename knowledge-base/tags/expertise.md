@@ -27,8 +27,8 @@
 - `INS-260330-9484` Byron Ferguson spine-tests every arrow to ensure consistent flex behavior before shooting, separating equipment variance from skill variance.
 - `INS-260330-CC7D` You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
 - `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
-- `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
 - `INS-260323-089E` The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
+- `INS-260325-1EAC` Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
 - `INS-260330-B68F` JJ, an indigenous guide, can draw 19 conclusions from a single set of animal tracks that a trained Western naturalist sees as just impressions in sand.
 - `INS-260323-15F4` Philip Tetlock's 20-year study of 284 experts and 80,000 predictions found that the most confident, framework-driven experts (hedgehogs) were the least accurate — often worse than random chance.
 - `INS-260327-C571` Finkel can read cuneiform scripts that perhaps only a handful of people alive can read - when these scholars die, the ability to directly access thousands of ancient texts may die with them.
