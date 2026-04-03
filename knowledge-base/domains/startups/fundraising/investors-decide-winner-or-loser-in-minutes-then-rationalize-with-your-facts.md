@@ -46,9 +46,9 @@ related:
   - INS-260327-DBA1
   - INS-260330-3AF9
   - INS-260327-D982
+  - INS-260403-64D0
   - INS-260403-EF30
   - INS-260402-421B
-  - INS-260327-80A8
   - INS-260403-6F52
 ---
 The same startup characteristic — say, a rich market with a slow sales cycle — gets framed as a positive by investors who like you and a dealbreaker by those who don't. This isn't intentional deception; investors are genuinely unclear about why they like or dislike startups. The formidable-founder impression acts as a lens that colors everything that follows.

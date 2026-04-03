@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 114 insights
+> 115 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -54,6 +54,7 @@
 - `INS-260327-F6B2` [high] Being the best company requires working the hardest—same as being the best athlete or musician.
 - `INS-260322-BFDE` [high] Andy Grove's lesson to Ben Horowitz: if you lead an industry, its growth depends on you — you must expand the entire market, not just compete for existing share.
 - `INS-260327-8B34` [high] YouTube consumed 40% of the internet's bandwidth and maxed out their hosting provider's entire capacity including backup connections — then their provider's equipment failed, forcing an emergency overnight migration to self-built infrastructure.
+- `INS-260403-B8A3` [high] Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
 - `INS-260330-8718` [high] Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.
 - `INS-260324-FF33` [high] Krispy Kreme expanded into supermarkets, gas stations, and airports to fill production capacity — but ubiquity killed the novelty that made people line up in the first place.
 - `INS-260329-33D4` [high] Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.

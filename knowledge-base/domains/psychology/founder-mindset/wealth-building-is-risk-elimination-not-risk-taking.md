@@ -42,13 +42,12 @@ stance: >-
   rich requires bold risk-taking.
 related:
   - INS-260321-7109
-  - PRI-260327-117F
   - INS-260327-5DD2
   - INS-260327-DAA4
   - INS-260327-0E28
   - INS-260329-F07A
   - INS-260402-7FCC
-  - INS-260330-2BB3
+  - PRI-260327-117F
   - INS-260403-9627
 evidence:
   - id: INS-260321-7109

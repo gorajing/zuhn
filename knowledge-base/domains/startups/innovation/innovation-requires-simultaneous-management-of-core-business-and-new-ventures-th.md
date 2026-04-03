@@ -45,7 +45,6 @@ stance: >-
   management will fail to scale it — portfolio-based approaches that manage both
   simultaneously produce better outcomes than siloed innovation labs.
 related:
-  - INS-260403-FB8E
   - INS-260403-ACA8
   - INS-260403-924B
   - INS-260403-9AB5

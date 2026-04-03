@@ -1,17 +1,17 @@
 # Tag: product-development
 
-- `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
 - `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
+- `INS-260329-808C` Telling AI 'I run a dental practice and patients need to book appointments and fill intake forms' outperforms 'build me a booking app with forms and reminders.'
 - `INS-260325-FDF5` Anthropic CPO Krieger: build AI products bottom-up from individual user workflows, not top-down from enterprise requirements — adoption drives sales.
 - `INS-260327-42F0` Artifacts, MCP, and Anthropic's best products all started as bottom-up prototypes from engineers working close to the model, not planned features.
 - `INS-260323-AF7B` AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
 - `INS-260321-31B3` Ship product updates 6 days per week because AI model improvements reset the entire industry every month.
-- `INS-260327-0B69` Adding a GPT wrapper to your existing product is a dead end — you must rebuild the entire user experience around what AI models can now do.
-- `INS-260327-38D8` Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
 - `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260403-EFAF` Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
 - `INS-260402-841D` Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-3A71` In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.
+- `INS-260327-0B69` Adding a GPT wrapper to your existing product is a dead end — you must rebuild the entire user experience around what AI models can now do.
+- `INS-260327-38D8` Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260329-8299` CS50's success proves that designing for complete beginners captures the largest possible audience.
 - `INS-260403-6CE6` Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.

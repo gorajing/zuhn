@@ -1,9 +1,9 @@
 # Tag: epistemology
 
 - `INS-260325-4C6D` Neural networks succeed precisely because they work like human intuition rather than like explicit logical rules.
-- `INS-260325-890D` LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
 - `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
+- `INS-260325-890D` LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
 - `INS-260330-984C` Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-8FF8` The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
 - `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
@@ -16,6 +16,7 @@
 - `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
 - `INS-260330-7E61` Since humans inevitably make mistakes, the core moral imperative is preserving mechanisms that allow errors to be detected and corrected — destroying these mechanisms is the deepest immorality.
 - `INS-260330-24DD` The same psychedelic experience would be interpreted as proof of the Holy Spirit by a Christian, but the experience itself is pre-doctrinal and carries no inherent theological content.
+- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-FBE1` Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses.
 - `INS-260330-184C` Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260330-1B5E` America is the only country whose citizens generate conspiracy theories about their own greatest achievements, like the moon landing — even Soviet citizens under total propaganda didn't doubt Gagarin.
@@ -29,7 +30,6 @@
 - `INS-260330-5263` The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
 - `INS-260330-6566` The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
-- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260329-8015` The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
 - `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1815` Susan Haack's crossword metaphor shows beliefs are justified by mutual support among independent evidence lines, not by any single foundation or coherent story alone.
@@ -62,5 +62,5 @@
 - `INS-260323-DA13` Just as scientists never refuse to run an experiment because the result might be unpleasant, the marketplace of ideas must entertain all hypotheses — including hateful ones.
 - `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
 - `INS-260323-8966` The Shapiro-Destiny debate demonstrates that two intelligent people with different foundational priors will interpret identical data points in opposite directions — shared evidence does not produce convergence.
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
 - `INS-260325-76E6` Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.

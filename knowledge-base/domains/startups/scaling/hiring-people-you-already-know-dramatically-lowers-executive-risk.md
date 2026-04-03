@@ -45,10 +45,10 @@ stance: >-
   advice to 'uplevel the team' with external senior hires.
 related:
   - INS-260322-D2E9
+  - INS-260403-1DC9
   - PRI-260328-E870
   - INS-260326-7B2A
   - INS-260322-116B
-  - INS-260323-2C70
 evidence:
   - id: INS-260322-D2E9
     type: CHALLENGES

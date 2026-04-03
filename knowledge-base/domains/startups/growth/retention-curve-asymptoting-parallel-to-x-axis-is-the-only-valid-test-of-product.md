@@ -53,6 +53,7 @@ related:
   - INS-260330-37F6
   - INS-260330-FE65
   - PRI-260328-C918
+  - INS-260403-B9E6
 ---
 Alex Schultz argues the single most diagnostic chart for any startup is percent monthly active vs. days since acquisition. If this curve asymptotes parallel to the x-axis, you have product-market fit for some market subset. If it slopes down and intercepts the x-axis, no amount of virality or growth hacking will save you. Facebook used this same methodology for its self-serve advertiser product — predicting one-year advertiser value to 97% accuracy within 90 days of launch using only ~10,000 data points.
 

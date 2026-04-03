@@ -1,12 +1,15 @@
 # Topic: innovation
 
-> 13 insights
+> 16 insights
 
+- `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
 - `INS-260403-9627` [high] Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
+- `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260403-F87C` [high] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
+- `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-CACE` [high] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.

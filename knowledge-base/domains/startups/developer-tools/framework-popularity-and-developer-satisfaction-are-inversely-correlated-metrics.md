@@ -49,10 +49,10 @@ stance: >-
   different adoption decisions.
 related:
   - INS-260322-A36C
+  - INS-260403-1DC9
   - INS-260328-E410
   - INS-260330-1A63
   - PRI-260323-9D46
-  - INS-260330-DF02
   - INS-260330-B306
 evidence:
   - id: INS-260322-A36C

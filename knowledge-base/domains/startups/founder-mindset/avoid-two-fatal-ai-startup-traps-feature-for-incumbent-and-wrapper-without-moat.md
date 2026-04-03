@@ -45,10 +45,10 @@ resolutions:
     is part of your solution, not all of it.
 related:
   - INS-260327-0B69
+  - INS-260403-1B15
   - INS-260330-1964
   - INS-260327-30E4
   - INS-260327-91C7
-  - INS-260328-C246
 stance: >-
   Avoid building features that incumbents can bundle (like meeting notetakers
   for Zoom), and avoid pure prompt wrappers that next model releases will...

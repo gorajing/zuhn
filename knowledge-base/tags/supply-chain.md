@@ -2,9 +2,9 @@
 
 - `INS-260322-8147` The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
+- `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
-- `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260330-B284` Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
 - `INS-260330-570F` Germany and Japan's drive for resource autarky revealed strategic weakness and led to fatal overextension.

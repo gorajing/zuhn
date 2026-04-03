@@ -51,10 +51,10 @@ stance: >-
   for and essentially unrecruitable at startup compensation levels.
 related:
   - INS-260323-D41A
+  - INS-260403-1DC9
   - INS-260326-7B2A
   - INS-260327-02DF
   - INS-260403-C37D
-  - INS-260327-2608
   - INS-260330-9863
 evidence:
   - id: INS-260323-D41A

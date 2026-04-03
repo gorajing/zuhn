@@ -10,11 +10,11 @@
 - `INS-260323-97DB` Adams never thought losing was possible — he entered every contest expecting to win, which meant his only losses were Olympic and World Championship finals on split decisions.
 - `INS-260323-F9FD` Adams lost the 1980 Olympic final after cutting weight poorly with bad nutrition — a fundamental failure that mattered more than the opponent's skill at the highest competitive level.
 - `INS-260323-2B53` Neil Adams describes his desire to win as something 'as much a part of me as my arms and legs' — deeply rooted rather than learned, persisting from childhood competitions through to casual games of pool decades after retirement.
+- `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260323-B230` Losing his father sobered McConaughey up to the 'mendacities' consuming his daily emotional energy, making him realize most anxieties are insignificant in the larger scheme.
 - `INS-260323-C2F1` After his father's death, McConaughey discovered that excessive reverence for dreams and people kept him from fully engaging — reducing reverence while maintaining respect enabled courage.
 - `INS-260323-A494` African-Americans, Jewish Americans, gay Americans, and Soviet emigres are all overrepresented in comedy not from innate talent but from the outsider perspective that comes with marginalization.
 - `INS-260323-6BF4` Malice identifies a toxic cultural pattern: people feel compelled to have and share opinions on everything, even topics they know almost nothing about.
-- `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260323-FFAC` Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.
 - `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260323-C4E2` When someone emails Cuban asking what kind of business to start, that question itself reveals they are not ready — real entrepreneurs already know because they cannot stop thinking about the problem.

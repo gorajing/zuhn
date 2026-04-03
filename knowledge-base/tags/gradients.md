@@ -12,9 +12,9 @@
 - `INS-260330-972B` The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260403-861A` ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
 - `INS-260330-7FF3` ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
-- `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260330-C729` Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
 - `INS-260330-D17A` Near a black hole singularity, it's not the strength of gravity that kills you but the difference in gravitational pull between your head and feet — the gradient stretches you apart.
 - `INS-260330-21A8` Thylakoid membranes store energy by pumping protons to create concentration gradients that drive ATP synthase, functioning like a rechargeable battery.
+- `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
 - `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.

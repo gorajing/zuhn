@@ -1,3 +1,4 @@
 # Tag: intrapreneurship
 
 - `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
+- `INS-260403-B8A3` Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.

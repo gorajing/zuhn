@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3174 actionable insights
+Generated on 2026-04-03 | 3179 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1374,6 +1374,7 @@ Generated on 2026-04-03 | 3174 actionable insights
 - [INS-260403-8190] You learn programming far faster building your own game than sitting in any classroom, which is why tech companies require coding tests regardless of degree pedigree.
 - [INS-260403-A51A] Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
 - [INS-260403-472E] The biggest killer of potentially successful projects is never starting them due to premature quality standards.
+- [INS-260403-62AF] A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -2627,6 +2628,7 @@ Generated on 2026-04-03 | 3174 actionable insights
 - [INS-260403-6935] Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance.
 - [INS-260403-A136] Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - [INS-260403-C977] Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
+- [INS-260403-7F6F] Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -2684,6 +2686,8 @@ Generated on 2026-04-03 | 3174 actionable insights
 - [INS-260403-6AB5] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
 - [INS-260403-5BAD] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.
 - [INS-260403-F87C] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
+- [INS-260403-0701] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
+- [INS-260403-CF09] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3192,6 +3196,7 @@ Generated on 2026-04-03 | 3174 actionable insights
 - [INS-260403-7227] Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 - [INS-260403-B387] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - [INS-260403-E1EB] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
+- [INS-260403-B8A3] Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.

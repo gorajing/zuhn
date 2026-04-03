@@ -6,8 +6,8 @@
 - `INS-260321-D370` Classical robotics systems fail loudly (joint limit hit, object not detected, planner infeasible). VLAs fail silently — producing plausible-looking but wrong trajectories with no mechanism to detect out-of-distribution inputs.
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible.
 - `INS-260320-96C9` If output quality seems worse, self-reflect on how you're prompting before blaming the model.
-- `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
 - `INS-260330-2154` When you understand what weights and biases represent (pixel patterns and activation thresholds), network failures become diagnosable problems rather than mysterious black-box behavior.
+- `INS-260329-F635` Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
 - `INS-260329-F84E` Lead with what the AI got right before describing the bug — this anchors it on working code and narrows the fix scope.
 - `INS-260329-9157` Python's class system with properties and raise statements demonstrates how design-time constraints prevent entire categories of bugs that runtime checks would miss.
 - `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.

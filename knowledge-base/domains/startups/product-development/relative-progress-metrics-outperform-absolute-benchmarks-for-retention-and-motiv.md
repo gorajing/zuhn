@@ -53,10 +53,10 @@ stance: >-
   benchmarks produces higher engagement and lower churn.
 related:
   - INS-260329-C5C6
+  - INS-260403-62AF
   - INS-260329-438D
   - INS-260327-E833
   - INS-260330-6F2F
-  - INS-260403-420A
 evidence:
   - id: INS-260329-C5C6
     type: TRANSFERS_TO

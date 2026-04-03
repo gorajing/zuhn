@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 222 insights
+> 224 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -44,6 +44,7 @@
 - `INS-260330-B224` [high] Every physics textbook states the universe is mainly atoms, but 96% is actually dark matter (23%) and dark energy (73%) — the most basic 'fact' in the field is wrong.
 - `INS-260330-F734` [high] Even 4chan has a moderation policy — 'free speech absolutism' is an illusion because every platform necessarily makes curation decisions, and the real question is whether those decisions are responsible.
 - `INS-260327-5547` [high] In any field, the person who says 'it's complicated' probably knows more than the person who says 'it's simple' - expertise produces humility, not certainty.
+- `INS-260403-1CB1` [high] Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches.
 - `INS-260330-2030` [high] The comparison between BLM riots and the Capitol insurrection feels like balanced analysis but collapses a critical categorical distinction between protest-gone-wrong and president-directed assault on democratic certification.
 - `INS-260330-EF10` [high] Pay off high-interest debt and build 6-12 months of emergency savings before investing, because financial stress causes panic selling that destroys returns.
 - `INS-260327-C316` [high] People treat money as the most rational domain of their lives while making consistently irrational financial decisions driven by fear, status anxiety, and emotional needs.
@@ -210,6 +211,7 @@
 - `INS-260330-A484` [medium] People who appear unserious but deliver results are underestimated, while those who appear serious but underdeliver are overestimated.
 - `INS-260330-18F3` [medium] Racism functions as an epistemic bias — taking real but small group-level differences and exaggerating them into sweeping, dehumanizing caricatures far beyond what data supports.
 - `INS-260330-0DCA` [medium] Destiny identifies the 'conservative merry-go-round' where every problem is deflected to a root cause that cannot be directly addressed, preventing action on tractable improvements.
+- `INS-260403-C1B7` [medium] People who didn't attend elite schools suffer more from imagining what they missed than from any actual educational gap.
 - `INS-260329-8CA0` [medium] Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-AA9D` [medium] University of Chicago research shows iPhone ownership predicts high income with 70% accuracy, making the upgrade cycle a status maintenance ritual rather than a technology decision.
 - `INS-260330-12FB` [medium] Crude norm violations trigger alarm while sophisticated ones fly under the radar, creating a dangerous detection gap.

@@ -57,6 +57,7 @@ related:
   - INS-260403-E319
   - INS-260403-FF86
   - INS-260328-195E
+  - INS-260403-0701
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong and would change three times—the founders were experienced with prior exits, and their model was still crap. He invested anyway because that's expected at this stage.
 

@@ -51,7 +51,6 @@ stance: >-
   startups, not just performance drags
 related:
   - INS-260323-2C70
-  - INS-260327-2608
   - INS-260327-18D4
   - PRI-260403-7BEC
   - INS-260330-63BA

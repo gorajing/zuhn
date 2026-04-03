@@ -1,6 +1,5 @@
 # Tag: discovery
 
-- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
 - `INS-260402-89DE` Writing works as a discovery mechanism because committing to specific words forces vague ideas into falsifiable form, enabling iterative refinement.
 - `INS-260402-4E59` Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
 - `INS-260402-607A` Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
@@ -11,6 +10,7 @@
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
 - `INS-260323-0865` SLAC researchers get most excited when simulated electron behavior diverges from experimental measurements — the gap is where new physics lives.
+- `INS-260322-F781` Systematic music discovery follows three layers: listen to as much as possible, then dig by genre to understand sonic categories, then trace artists through credits and discographies.
 - `INS-260330-CCD4` Spotify's shift from search-based music access to algorithmic recommendations gave it unprecedented control over which artists succeed.
 - `INS-260327-B64E` Asking about everything a prospect has already tried and failed at surfaces deprivation, which creates the psychological urgency that drives buying decisions.
 - `INS-260327-E3CA` Lead with proof-point metrics from similar customers (M1) to build trust, then unlock the prospect's specific value metrics (M2) through discovery.

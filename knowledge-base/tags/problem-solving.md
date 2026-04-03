@@ -31,6 +31,7 @@
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
 - `INS-260330-64D8` If you add something that makes a problem easier, redefine the entire problem in terms of what you added.
 - `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
+- `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260329-3763` The structured debugging process taught in programming — isolate, reproduce, trace, fix — is a universal diagnostic framework applicable far beyond code.
 - `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
@@ -43,7 +44,6 @@
 - `INS-260330-4FC5` Schwarzschild solved Einstein's impossibly complex coupled differential equations by imagining the simplest possible universe - one point mass, no rotation, no charge - and still found black holes, white holes, and wormholes.
 - `INS-260330-B904` Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
-- `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260323-A14D` Problems that appear impossible often result from the wrong framing, not the wrong physics.
 - `INS-260329-61E5` Breadth-first search (using a queue) explores all neighbors before going deep, while depth-first search (using a stack) goes deep before exploring broadly — same graph, completely different discovery sequences.

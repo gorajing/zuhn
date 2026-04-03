@@ -48,7 +48,6 @@ stance: >-
   your plans are likely insufficiently focused—the exercise of finding the
   soundbite is itself a strategic diagnostic.
 related:
-  - INS-260330-3AF9
   - INS-260403-82CC
   - INS-260403-FE37
   - INS-260403-AF27

@@ -5,9 +5,9 @@
 - `INS-260329-CB03` Comments should explain why, not what — if code needs a comment to explain what it does, the code itself should be rewritten.
 - `INS-260327-D10B` Thoreau went to the woods to live deliberately - reducing life to its essentials revealed more depth than the complexity he left behind.
 - `INS-260329-294C` Reducing toolchain complexity for beginners removes failure modes unrelated to the skill being learned, keeping focus on core concepts.
-- `INS-260326-3B43` Complexity in nature does not require complex causes — Rule 30 shows that trivially simple rules produce infinitely complex behavior.
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260325-F500` Thoreau: deliberate simplicity strips away everything that is not life — the 'loser' who chooses less experiences more.
+- `INS-260326-3B43` Complexity in nature does not require complex causes — Rule 30 shows that trivially simple rules produce infinitely complex behavior.
 - `INS-260403-59F4` Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
 - `INS-260327-2101` Default to deterministic prompt-chain workflows over agentic systems — most professional tasks follow the same steps every time.
 - `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.

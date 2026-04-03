@@ -7,8 +7,8 @@
 - `INS-260402-2879` Define program meaning independently of implementation, then layer optimization advice on top.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
-- `INS-260330-BF2A` Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
 - `INS-260330-4B30` Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload.
+- `INS-260330-BF2A` Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260330-AB62` Declarative UI frameworks won adoption by making UI a function of state, eliminating manual DOM synchronization bugs rather than improving raw performance.
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.
@@ -60,6 +60,10 @@
 - `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
+- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
+- `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
+- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
 - `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
@@ -73,10 +77,6 @@
 - `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
 - `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
 - `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
-- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
-- `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
-- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
-- `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260329-B6A6` Layering complexity one concept at a time onto familiar examples builds more durable understanding than front-loading complete explanations.

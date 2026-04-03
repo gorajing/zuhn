@@ -44,13 +44,13 @@ stance: >-
   near-term longevity interventions because it targets a root cause of multiple
   age-related diseases simultaneously.
 related:
-  - INS-260325-39FD
   - INS-260325-FEDF
   - PRI-260325-2800
   - INS-260325-C394
   - INS-260322-3A00
   - INS-260325-5501
   - INS-260325-785D
+  - INS-260403-E492
 evidence:
   - id: INS-260322-3A00
     type: SUPPORTS

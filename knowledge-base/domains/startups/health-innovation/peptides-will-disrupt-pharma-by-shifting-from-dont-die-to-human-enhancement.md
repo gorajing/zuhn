@@ -45,7 +45,6 @@ resolutions:
     toward cheap, unpatentable compounds — a threat the pharmaceutical industry
     has strong incentives to suppress.
 related:
-  - INS-260325-39FD
   - INS-260325-72B6
   - INS-260321-9AB5
   - PRI-260328-E3A7
@@ -55,6 +54,7 @@ related:
   - INS-260327-E8D3
   - INS-260321-4B38
   - INS-260321-08AC
+  - INS-260321-CCE3
 stance: >-
   Peptides represent a shift from pharmaceuticals designed to prevent death
   (statins) to compounds that enhance human performance

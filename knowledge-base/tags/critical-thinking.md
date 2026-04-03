@@ -1,8 +1,8 @@
 # Tag: critical-thinking
 
 - `INS-260320-703F` Course bros sell hope, not value — if the magic solution worked, they wouldn't be selling it on Twitter.
-- `INS-260322-F65F` AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
 - `INS-260322-5B1B` Socrates warned that writing would destroy memory; every new medium triggers the same fear, and humanity adapts every time.
+- `INS-260322-F65F` AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260322-5A0F` Students using AI to complete writing homework are skipping cognitive exercise, producing adults who cannot think logically or resist manipulation.
 - `INS-260329-500E` AI writing code makes understanding programming fundamentals more critical, not less, because humans must verify AI output.
@@ -10,6 +10,7 @@
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
 - `INS-260403-A408` Step beyond asking 'is this true?' to asking 'why is this topic being written about at all?' — the selection of subject matter is itself a form of manipulation.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
+- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-FBE1` Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses.
 - `INS-260327-924F` If everyone believes it, it's probably wrong - not because the majority is always wrong but because beliefs adopted without examination accumulate errors that questioning would catch.
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
@@ -21,7 +22,6 @@
 - `INS-260330-0F04` Swapping the actor in a scenario while keeping the action identical exposes tribally-motivated reasoning.
 - `INS-260327-C4AC` Ask someone to explain their strongest belief and watch it dissolve - most convictions are adopted from environment rather than derived from reasoning.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
-- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260402-4F0E` People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260329-8226` Tests force you to externalize implicit assumptions about behavior, making testing a thinking discipline rather than just a quality assurance step.

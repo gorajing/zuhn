@@ -51,7 +51,6 @@ stance: >-
   Startups with one extraordinary strength and serious flaws outperform
   well-rounded companies that merely check every box
 related:
-  - INS-260329-EF89
   - INS-260330-06CD
   - INS-260330-A484
   - INS-260330-B525

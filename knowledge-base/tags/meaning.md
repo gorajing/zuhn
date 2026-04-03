@@ -7,14 +7,14 @@
 - `INS-260323-DA91` Camus's Sisyphus finds happiness not by winning but by embracing the insurmountable task with full commitment — meaning comes from service and duty, not from outcomes.
 - `INS-260325-13B9` We suffer doubly from problems — once from the problem itself and once from the false belief that we shouldn't have problems at all.
 - `INS-260402-D9D0` Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
+- `INS-260330-D812` After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
+- `INS-260327-015B` Rosolie faces genuine mortal danger regularly from poachers, animals, and the jungle itself - and reports a depth of meaning that safe career optimization cannot provide.
+- `INS-260330-48C6` The video's punchline — a programmer who becomes a farmer — illustrates that exiting status competition requires decoupling identity from professional achievement entirely.
+- `INS-260330-DA0B` Successful people who feel 'something is missing' are sensing their undeveloped willpower and unexplored potential, not lacking external achievements.
+- `INS-260326-4164` 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.
 - `INS-260330-D006` Peterson argues that beauty — particularly in art and architecture — functions like empirical evidence pointing to deep structural truths, not unlike how scientific data points to natural laws.
 - `INS-260325-E9B1` Meaning is found when you reach a motivation so fundamental that asking 'but why?' feels like a category error — for parents it is their children, for the religious it is God, for others it is the pursuit of understanding.
 - `INS-260325-87FC` A nihilist still feels thirsty and still drinks water — nihilism does not remove desires but recognizes that all values trace back to groundless preferences rather than objective purpose.
 - `INS-260330-647D` Secular culture has won the argument against religion but failed to build replacement institutions for community, ethical instruction, and the sacred — leaving a genuine void.
 - `INS-260325-AE23` Ask 'why' enough times about any action and you reach either God, a self-justifying value like family, or the uncomfortable realization that reasons simply run out.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
-- `INS-260330-D812` After 72 hours alone, Michael realized he didn't just miss people — he discovered that experiences literally feel incomplete without someone to share them with.
-- `INS-260327-015B` Rosolie faces genuine mortal danger regularly from poachers, animals, and the jungle itself - and reports a depth of meaning that safe career optimization cannot provide.
-- `INS-260330-48C6` The video's punchline — a programmer who becomes a farmer — illustrates that exiting status competition requires decoupling identity from professional achievement entirely.
-- `INS-260330-DA0B` Successful people who feel 'something is missing' are sensing their undeveloped willpower and unexplored potential, not lacking external achievements.
-- `INS-260326-4164` 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.

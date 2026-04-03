@@ -50,11 +50,12 @@ stance: >-
   flow from harder to easier fields, never the reverse.
 related:
   - INS-260330-5DA6
+  - INS-260403-62AF
   - INS-260403-D56B
   - INS-260330-579B
   - INS-260330-9197
   - INS-260403-C5BA
-  - PRI-260328-E64D
+  - INS-260403-C1B7
 evidence:
   - id: INS-260330-9197
     type: TRANSFERS_TO

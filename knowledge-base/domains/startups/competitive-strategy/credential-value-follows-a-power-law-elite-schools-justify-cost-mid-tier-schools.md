@@ -53,10 +53,10 @@ stance: >-
   schools offer negative risk-adjusted returns.
 related:
   - INS-260329-8B10
+  - INS-260403-62AF
   - INS-260330-391C
   - PRI-260403-5DEA
   - INS-260327-4440
-  - INS-260330-43CF
   - INS-260329-BC36
 evidence:
   - id: INS-260329-8B10

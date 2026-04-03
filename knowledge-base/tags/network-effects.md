@@ -10,16 +10,6 @@
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260330-D824` WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
-- `INS-260330-D108` Photosynthesis 'rather sucks' — it's complicated, inefficient, and confusing — yet it powers all complex life because it was first and sufficient.
-- `INS-260403-6412` Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
-- `INS-260330-9A60` Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
-- `INS-260403-962E` RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
-- `INS-260327-7C67` For an alarming number of major companies, becoming a monopoly isn't just profit maximization - it's the only way they can make a profit at all.
-- `INS-260330-DD63` Innovation clusters geographically because innovators need complementary tech, talent, and early-adopter customers co-located.
-- `INS-260330-4F2A` When users can freely use competing marketplaces simultaneously, network effects erode — making supply-side lock-in the critical strategic priority.
-- `INS-260330-0294` Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.
-- `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
-- `INS-260403-C381` Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration.
 - `INS-260402-70FD` Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.
 - `INS-260329-D1B0` Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260403-C161` Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
@@ -31,6 +21,16 @@
 - `INS-260330-7D6D` Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
 - `INS-260323-7AF7` Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.
 - `INS-260329-DD01` Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
+- `INS-260330-D108` Photosynthesis 'rather sucks' — it's complicated, inefficient, and confusing — yet it powers all complex life because it was first and sufficient.
+- `INS-260403-6412` Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
+- `INS-260330-9A60` Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
+- `INS-260403-962E` RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
+- `INS-260327-7C67` For an alarming number of major companies, becoming a monopoly isn't just profit maximization - it's the only way they can make a profit at all.
+- `INS-260330-DD63` Innovation clusters geographically because innovators need complementary tech, talent, and early-adopter customers co-located.
+- `INS-260330-4F2A` When users can freely use competing marketplaces simultaneously, network effects erode — making supply-side lock-in the critical strategic priority.
+- `INS-260330-0294` Asymptotic network effects plateau in value quickly, making companies with this structure vulnerable to well-funded competitors who only need to match a fraction of the supply.
+- `INS-260330-C24F` Tencent's WeChat achieved dominance by bundling payments, social media, gaming, and mini-programs into one app, making it impossible for users to leave even when forced to choose between WeChat and a competitor's product.
+- `INS-260403-C381` Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration.
 - `INS-260330-059C` ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260327-B357` Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
@@ -41,8 +41,8 @@
 - `INS-260330-3D0D` Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.
 - `INS-260403-2759` Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260403-1904` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260403-CC4E` Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 - `INS-260402-15A7` Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.
@@ -57,10 +57,10 @@
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260403-7C67` Startup ecosystems exhibit phase-transition behavior: they either reach critical mass and become self-sustaining or remain negligible.
-- `INS-260330-6411` ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
-- `INS-260327-EA4E` Facebook and Google built genuine data moats through organic adoption and network effects, but consumer startups that spent millions on paid acquisition to 'collect data' never achieved the same compounding advantage because their data was purchased, not earned.
+- `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
 - `INS-260330-D583` Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
-- `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
+- `INS-260330-6411` ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
+- `INS-260327-EA4E` Facebook and Google built genuine data moats through organic adoption and network effects, but consumer startups that spent millions on paid acquisition to 'collect data' never achieved the same compounding advantage because their data was purchased, not earned.
 - `INS-260327-D25D` Christianity spread across the Roman Empire's road network, administrative structure, and urban hierarchy — then outlasted the empire itself by inheriting its institutional infrastructure.
 - `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.

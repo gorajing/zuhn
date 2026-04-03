@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260403-5FBD
   - INS-260403-62B2
+  - INS-260403-0701
   - PRI-260323-8EEA
   - INS-260323-4457
-  - INS-260403-FF86
 ---
 The Business Model Canvas organizes its 9 blocks into four validation dimensions: Desirability (customer segments, value props, channels, relationships), Viability (revenue streams, cost structure), Feasibility (key resources, activities, partnerships), and Adaptability (industry forces, market forces, key trends, macroeconomic forces). Most startups obsess over desirability—product-market fit—while treating the other three as afterthoughts.
 

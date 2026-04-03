@@ -3,13 +3,13 @@
 - `INS-260330-3570` Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
-- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
 - `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
+- `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260329-8B55` Negotiate price and terms separately — agree on price first, then structure seller financing so you pay from the business's own cash flow.
-- `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260323-F540` JFK's greatest quality was not courage but curiosity — the ability to see the world from adversaries' perspectives enabled breakthroughs like the Cuban Missile Crisis resolution.
+- `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260330-DEBC` Email all investors simultaneously but schedule meetings three weeks out during the same week — this creates deal heat, signals you're not desperate, and keeps fundraising from dragging on.
 - `INS-260330-6900` Tell investors you're too busy building to meet for 2-3 weeks, then schedule all meetings in one concentrated week to create competition and signal confidence.

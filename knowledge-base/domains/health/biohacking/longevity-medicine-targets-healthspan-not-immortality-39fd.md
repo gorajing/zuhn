@@ -46,10 +46,10 @@ stance: >-
   is both more accurate and more persuasive to mainstream adoption.
 related:
   - INS-260325-90C6
+  - INS-260403-CA5A
   - PRI-260325-2800
   - INS-260325-5501
-  - INS-260322-3A00
-  - INS-260325-72B6
+  - INS-260403-E492
   - INS-260321-9AB5
   - INS-260325-3A54
   - INS-260322-F868

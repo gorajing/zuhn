@@ -5,5 +5,5 @@
 - `INS-260322-054E` The largest AI opportunity is not replacing existing software but replacing labor tasks where the cost-to-value equation was previously inverted.
 - `INS-260322-837A` Companies with proprietary data that previously sold raw access can now deliver finished AI-powered products, multiplying revenue by 5-100x.
 - `INS-260322-FCFC` Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
-- `INS-260322-90E7` AI roll-up strategies succeed when you buy one company with blue-chip clients as your entry point for national AI deployment, not when you serially acquire local businesses.
 - `INS-260325-696D` Instead of asking 'is there this specific pattern?' AI lets SETI ask 'is there any pattern other than noise?' — removing human assumptions about what alien signals should look like.
+- `INS-260322-90E7` AI roll-up strategies succeed when you buy one company with blue-chip clients as your entry point for national AI deployment, not when you serially acquire local businesses.

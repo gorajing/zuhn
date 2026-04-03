@@ -46,11 +46,11 @@ stance: >-
   compute increases yield only marginal quality gains, making the technology
   more like a normal competitive market than a winner-take-all exponential race.
 related:
+  - INS-260403-1CB1
   - INS-260330-C499
   - INS-260330-FF5B
   - INS-260330-05C7
   - INS-260330-30AB
-  - PRI-260403-E097
   - INS-260329-577E
   - INS-260329-9C20
   - INS-260330-08E1

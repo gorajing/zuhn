@@ -12,6 +12,7 @@
 - `INS-260330-323E` Test one growth channel at a time with full dedication for a week; only move on when you have a clear signal it works or doesn't.
 - `INS-260328-23B4` Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.
 - `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
+- `INS-260403-CF09` Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.

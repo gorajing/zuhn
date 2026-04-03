@@ -1,10 +1,9 @@
 # Tag: relationships
 
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
-- `INS-260327-56B3` While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
 - `INS-260329-0014` Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
+- `INS-260327-56B3` While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
 - `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
-- `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260325-3223` Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control.
 - `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
 - `INS-260325-88DF` Attachment theory research estimates that caregivers let down about 50% of children — meaning on any given date, there is a 50% chance the other person has an attachment wound operating unconsciously.
@@ -47,6 +46,7 @@
 - `INS-260329-2460` A partner must love both your current self and the person you are actively working to become.
 - `INS-260327-B767` Learning to enjoy being alone transforms every relationship into a choice rather than a dependency.
 - `INS-260330-A075` Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward.
+- `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260325-7D50` Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
 - `INS-260325-3B2A` Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.

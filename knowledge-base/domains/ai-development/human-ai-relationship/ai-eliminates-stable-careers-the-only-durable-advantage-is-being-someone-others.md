@@ -54,10 +54,10 @@ resolutions:
     are a bad partner and people will not want to team with you.'
 related:
   - INS-260322-116B
+  - INS-260403-1DC9
   - INS-260323-D8A9
   - INS-260327-6405
   - PRI-260323-50FE
-  - INS-260327-015B
 stance: Neither white-collar nor blue-collar jobs are safe from AI
 evidence:
   - id: INS-260323-D8A9

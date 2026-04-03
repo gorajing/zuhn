@@ -54,7 +54,6 @@ stance: >-
   than ad-hoc testing because each type targets a specific assumption layer.
 related:
   - INS-260323-8165
-  - INS-260403-62B2
   - INS-260327-D982
   - INS-260323-5F8A
   - INS-260402-E140

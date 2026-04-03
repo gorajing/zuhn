@@ -2,12 +2,11 @@
 
 - `INS-260320-7682` Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes.
 - `INS-260330-DF2C` Committing to a prediction before seeing results forces you to engage with the underlying model, not just the outcome.
+- `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
 - `INS-260325-2AA0` Experimental archaeologists who physically recreate ancient technologies discover knowledge that decades of artifact analysis missed entirely.
 - `INS-260325-A006` Experimental archaeology hasn't solved how the pyramids were built, but it has definitively ruled out ramp theories -- the ramps would require more material than the pyramids themselves.
 - `INS-260323-AEA7` Michelson and Morley built the most precise instrument of their era, found no evidence of the ether, and believed their own experiment had failed -- because the null result contradicted consensus so deeply.
-- `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
-- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
@@ -16,7 +15,9 @@
 - `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
 - `INS-260329-2EF9` A failed ad, store, or product isn't back to zero — it's your current position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
+- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
+- `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-99D1` Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.

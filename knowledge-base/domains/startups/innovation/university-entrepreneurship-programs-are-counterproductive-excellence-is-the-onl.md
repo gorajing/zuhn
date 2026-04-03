@@ -54,8 +54,8 @@ related:
   - INS-260327-5297
   - INS-260327-2684
   - INS-260403-6553
+  - INS-260403-7F6F
   - INS-260403-C610
-  - INS-260327-D5CC
 ---
 Graham argues that innovation programs at universities pursue the wrong targets — you get innovation by aiming at specific problems like better batteries, not by aiming at 'innovation' as an abstract goal. The empirical evidence supports this: both Microsoft and Facebook started as side projects during Harvard's Reading Period, when students had unstructured time on campus.
 

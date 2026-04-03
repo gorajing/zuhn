@@ -47,10 +47,11 @@ stance: >-
   antibiotics, NSAIDs, PPIs, artificial sweeteners, and low fiber diets rather
   than from aging itself.
 related:
-  - INS-260325-5501
   - INS-260327-F2E2
   - PRI-260325-2800
   - INS-260325-E8BC
+  - INS-260325-5501
   - PRI-260325-200C
+  - INS-260403-E492
 ---
 The 8 gut mistakes: 1) Antibiotic overuse without probiotic recovery (each course kills beneficial bacteria permanently unless restored), 2) PPIs (proton pump inhibitors) suppress stomach acid needed for digestion and pathogen defense, 3) NSAIDs damage gut lining directly, 4) Artificial sweeteners kill beneficial bacteria (especially sucralose and saccharin), 5) Insufficient fermented food intake (probiotics need constant replenishment), 6) Low fiber diet (starves butyrate-producing bacteria), 7) Stress (cortisol destroys gut lining integrity), 8) Eating too frequently (no time for gut repair between meals — the migrating motor complex only activates during fasting). The fix: fasting windows, fermented foods daily, avoiding unnecessary medications.

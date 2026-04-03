@@ -1,7 +1,7 @@
 # Tag: deterrence
 
-- `INS-260323-D479` Nobel believed his explosives would 'put an end to war sooner than peace congresses' by making mutual destruction too horrifying -- the same argument made for nuclear weapons decades later.
 - `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
+- `INS-260323-D479` Nobel believed his explosives would 'put an end to war sooner than peace congresses' by making mutual destruction too horrifying -- the same argument made for nuclear weapons decades later.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260330-3274` Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
 - `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
