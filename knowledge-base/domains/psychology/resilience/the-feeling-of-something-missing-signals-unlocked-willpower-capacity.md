@@ -47,11 +47,11 @@ stance: >-
   and successful people — is a signal of undeveloped willpower and unexplored
   identity, not a lack of external achievement
 related:
-  - INS-260329-A9B7
   - INS-260327-B19E
   - INS-260330-4746
+  - PRI-260403-88F5
+  - INS-260329-A9B7
   - INS-260330-5EAC
-  - INS-260323-1B0B
 evidence:
   - id: INS-260323-1B0B
     type: TRANSFERS_TO

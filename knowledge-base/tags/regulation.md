@@ -6,6 +6,11 @@
 - `INS-260322-C5BD` The biggest US AI policy risk has shifted from federal overregulation to 1,200+ state-level bills that could create a patchwork of incompatible AI regulations across 50 states.
 - `INS-260322-A14D` a16z's AI policy framework: don't regulate mathematical models themselves, regulate their applications — and prevent 50 states from creating incompatible AI laws that would make innovation impossible for startups.
 - `INS-260327-D65E` OpenAI frames iterative deployment as essential for building societal readiness for the long-term vision of autonomous AI agents.
+- `INS-260327-BF93` BNPL companies have $500B+ in debt not recorded like traditional credit, with users treating what should be 8-week payment plans as permanent budget-stretching tools.
+- `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
+- `INS-260327-1F4A` Markets had priced in perpetual regulatory leniency toward monopolies, making the Google ruling a wake-up call for every trillion-dollar company.
+- `INS-260321-C6C0` Post-2008 regulations pushed risky lending from regulated banks to private credit — a $2T opaque market with higher fees, less oversight, and now rising defaults.
+- `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
 - `INS-260324-2244` Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
 - `INS-260330-1B47` Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect.
 - `INS-260330-E811` Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
@@ -15,8 +20,8 @@
 - `INS-260330-106F` Since the 1970s, antitrust law has equated low prices with consumer benefit, creating a blind spot for companies like Amazon that maintain low prices while eliminating competition through cross-subsidization.
 - `INS-260330-C761` When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.
 - `INS-260330-D460` Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
-- `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260321-F446` If 50 unlikable people hold all the wealth while white-collar workers lose jobs, the bipartisan consensus won't be left vs right — it will be 'nationalize tech.'
+- `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260402-580C` Restriction breeds innovation at the edges of incumbent-dominated industries, gradually migrating inward.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260330-F23F` India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
@@ -24,8 +29,3 @@
 - `INS-260330-C087` Innovation requires freedom to fail — eliminating downside risk through regulation also kills upside innovation potential.
 - `INS-260330-0027` PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.
 - `INS-260330-23CD` Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
-- `INS-260327-BF93` BNPL companies have $500B+ in debt not recorded like traditional credit, with users treating what should be 8-week payment plans as permanent budget-stretching tools.
-- `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability.
-- `INS-260327-1F4A` Markets had priced in perpetual regulatory leniency toward monopolies, making the Google ruling a wake-up call for every trillion-dollar company.
-- `INS-260321-C6C0` Post-2008 regulations pushed risky lending from regulated banks to private credit — a $2T opaque market with higher fees, less oversight, and now rising defaults.
-- `INS-260323-EA65` W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.

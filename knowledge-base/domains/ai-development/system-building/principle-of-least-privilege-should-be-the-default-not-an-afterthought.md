@@ -47,11 +47,11 @@ stance: >-
   Setting chmod 777 (full access to everyone) is always wrong in production
   because security defaults should restrict access and require explicit grants.
 related:
+  - PRI-260403-9E80
   - INS-260329-BD83
   - INS-260329-67CB
   - INS-260330-14CA
   - INS-260329-919F
-  - INS-260327-6D77
 evidence:
   - id: INS-260330-14CA
     type: TRANSFERS_TO

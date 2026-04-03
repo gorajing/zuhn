@@ -1,6 +1,7 @@
 # Tag: resource-allocation
 
 - `INS-260329-8DDF` Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory.
+- `INS-260327-236D` Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.
 - `INS-260330-D5DD` Placebos may work because the brain evolved to maintain distress signals until help arrives — external authority cues grant 'permission' to switch from help-seeking to healing mode.
 - `INS-260329-1B2A` Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
 - `INS-260327-3C19` As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
@@ -8,14 +9,13 @@
 - `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260327-8D5D` Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
 - `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
+- `INS-260328-23B4` Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.
 - `INS-260330-D487` Dedicate 100% of growth effort to a single channel per week to get clean signal on whether it works before moving on.
 - `INS-260330-323E` Test one growth channel at a time with full dedication for a week; only move on when you have a clear signal it works or doesn't.
 - `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
-- `INS-260328-23B4` Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave.
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260330-8E45` Glycolysis invests 2 ATP to break glucose apart, then earns 4 ATP back — a net gain that requires spending resources before generating them.
 - `INS-260403-FB8E` Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
 - `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260330-B5DF` The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
-- `INS-260327-236D` Napoleon invaded Russia with 200,000+ troops still tied down in Spain, ensuring neither campaign had sufficient resources to succeed.

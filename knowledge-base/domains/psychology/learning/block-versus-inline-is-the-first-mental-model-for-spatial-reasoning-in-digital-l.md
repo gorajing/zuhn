@@ -50,7 +50,6 @@ stance: >-
   CSS layout thinking because it establishes that elements have intrinsic
   display behaviors independent of their content
 related:
-  - INS-260322-3537
   - INS-260329-5ECD
   - INS-260329-BAB7
   - INS-260330-B539

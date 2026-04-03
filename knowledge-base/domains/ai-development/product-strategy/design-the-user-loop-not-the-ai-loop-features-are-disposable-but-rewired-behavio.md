@@ -49,6 +49,7 @@ stance: >-
   — defensibility comes from designing pain-relief-behavior
   change-habit-switching cost loops that compound with usage.
 related:
+  - PRI-260403-5FC4
   - INS-260403-D62F
   - PRI-260328-0BE1
   - PRI-260328-935B
@@ -58,7 +59,6 @@ related:
   - INS-260325-73C0
   - INS-260327-6A68
   - INS-260327-290C
-  - INS-260327-24A5
 evidence:
   - id: INS-260322-B641
     type: SUPPORTS

@@ -47,10 +47,10 @@ stance: >-
   enlightenment should be treated with deep suspicion.
 related:
   - INS-260325-BA76
+  - PRI-260403-2E59
   - PRI-260323-F92B
   - INS-260322-C9AC
   - INS-260327-8521
-  - INS-260325-1EAC
 evidence:
   - id: INS-260322-C9AC
     type: TRANSFERS_TO

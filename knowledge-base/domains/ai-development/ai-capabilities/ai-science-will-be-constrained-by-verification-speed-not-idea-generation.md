@@ -47,7 +47,6 @@ stance: >-
   The binding constraint on AI-driven scientific discovery is the speed of
   experimental verification, not the rate of hypothesis generation.
 related:
-  - INS-260325-FDA9
   - INS-260323-0865
   - INS-260320-3798
   - INS-260327-40DA

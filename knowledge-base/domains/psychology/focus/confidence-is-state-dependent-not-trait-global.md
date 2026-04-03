@@ -55,7 +55,6 @@ stance: >-
   machinery of confidence and only needs targeted work on the specific domain,
   not a personality overhaul.
 related:
-  - INS-260325-600C
   - INS-260325-F6AF
   - INS-260325-13B9
   - INS-260325-1AD3
@@ -64,6 +63,7 @@ related:
   - INS-260329-AB9A
   - INS-260329-E0DE
   - INS-260330-B15C
+  - PRI-260403-88F5
   - INS-260330-1E5E
 evidence:
   - id: INS-260325-600C

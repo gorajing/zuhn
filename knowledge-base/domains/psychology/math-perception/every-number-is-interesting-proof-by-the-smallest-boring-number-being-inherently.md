@@ -54,7 +54,6 @@ related:
   - INS-260402-D0F3
   - INS-260325-72AE
   - INS-260330-6165
-  - INS-260329-4E70
   - INS-260330-D2D2
 stance: >-
   Hamkins proves every natural number is interesting via contradiction: if

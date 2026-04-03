@@ -49,12 +49,11 @@ stance: >-
   CEOs who evaluate decisions only from their own perspective and the affected
   person's perspective will produce dangerous unintended cultural consequences.
 related:
-  - INS-260327-66AC
   - INS-260330-3CD9
   - INS-260330-725C
+  - PRI-260403-E023
   - INS-260330-DB4B
   - INS-260330-6F36
-  - INS-260323-7D01
 evidence:
   - id: INS-260330-725C
     type: REFINES

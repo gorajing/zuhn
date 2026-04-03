@@ -47,7 +47,6 @@ stance: >-
   hardest on competitive exams frequently have shorter solutions than
   easier-rated ones once the right perspective is found
 related:
-  - INS-260325-F6AF
   - INS-260325-898A
   - INS-260323-A14D
   - INS-260325-EC93
@@ -57,6 +56,7 @@ related:
   - PRI-260325-EEE9
   - INS-260327-0E57
   - INS-260327-CEE4
+  - INS-260327-7CE9
 evidence:
   - id: INS-260329-206D
     type: TRANSFERS_TO

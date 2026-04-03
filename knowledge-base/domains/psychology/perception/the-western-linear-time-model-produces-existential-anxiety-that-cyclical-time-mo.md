@@ -58,7 +58,7 @@ related:
   - INS-260330-09DE
   - INS-260323-5199
   - PRI-260328-6189
-  - INS-260330-A5C4
+  - PRI-260403-88F5
 ---
 Watts identifies a deep cultural divergence: Western time is a one-way street (creation, history, judgment, static eternity), inherited from Hebrew religion and codified by St. Augustine. This makes every moment existentially weighted -- you get one shot. Hindu time is circular (kalpas of 4,320,000 years, alternating between manifestation and dissolution), making every experience a phase that will recur.
 

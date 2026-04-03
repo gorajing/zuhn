@@ -52,8 +52,8 @@ related:
   - INS-260328-0C87
   - INS-260329-4A96
   - INS-260329-C56D
+  - PRI-260403-0ABD
   - INS-260330-5F35
   - INS-260330-7D07
-  - INS-260330-56B2
 ---
 Hormozi argues that most sales training is backwards: teams spend weeks teaching new reps about the product when the reps should barely be talking about it on calls. In a question-based framework, the rep's job is to understand the prospect's situation, pain points, past failures, and decision-making context. Product knowledge beyond three outcome-oriented bullet points actually hurts — it tempts reps into feature-dumping which sounds like work to prospects. This also has hiring implications: Hormozi built a team doing $110M+ in phone sales with reps almost entirely under 27 years old with no sales veterans. Young, educable people who learn the prospect's world outperform experienced reps who default to product pitching. Separate inbound and outbound teams, and further separate setters from closers, because prospect psychology differs across these channels.

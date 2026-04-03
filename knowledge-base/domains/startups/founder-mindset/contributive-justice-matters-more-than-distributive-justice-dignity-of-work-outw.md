@@ -55,7 +55,6 @@ related:
   - INS-260327-C316
   - INS-260330-B906
   - INS-260403-CF54
-  - INS-260330-A1A4
 stance: >-
   Even if we perfectly redistributed wealth, the deeper crisis is that society
   accords prestige to those who manage symbols and money rather than tho...

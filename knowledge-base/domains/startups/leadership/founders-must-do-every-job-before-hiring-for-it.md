@@ -39,9 +39,9 @@ stance: >-
   Founders who hire leaders for functions they don't personally understand will
   consistently hire the wrong profile and waste months discovering the mismatch.
 related:
-  - INS-260322-2ABB
   - INS-260327-FA62
-  - INS-260327-2608
+  - PRI-260403-E023
+  - INS-260322-2ABB
   - INS-260326-7B2A
   - INS-260322-C6CE
 ---

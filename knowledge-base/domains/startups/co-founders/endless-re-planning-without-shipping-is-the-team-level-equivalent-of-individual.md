@@ -48,7 +48,7 @@ related:
   - INS-260322-AAEA
   - INS-260330-DC3B
   - PRI-260328-0AB1
-  - INS-260327-8C58
+  - PRI-260403-88F5
 stance: >-
   Teams that default to 'more meetings and re-strategizing' instead of shipping
   are using planning as emotional avoidance of the market test they fear.

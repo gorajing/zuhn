@@ -45,9 +45,9 @@ stance: >-
   the benefits more believable than hiding downsides entirely
 related:
   - INS-260329-95EA
+  - PRI-260403-0ABD
   - INS-260327-C5D0
   - PRI-260327-3BD9
   - INS-260329-226C
-  - INS-260329-7E63
 ---
 The 'damaging admission' technique leverages a cognitive pattern: when someone voluntarily shares unflattering truths, everything they say afterward gains credibility. In sales copy and presentations, structuring statements as 'negative but positive' directs prospect attention to the positive claim while the preceding admission serves as proof of honesty. This works because the word 'but' acts as an amplifier — everything after it receives heightened attention while everything before it is diminished. The more genuinely damaging the admission, the more powerful the subsequent positive claim becomes. This is especially effective in markets saturated with exaggerated promises, where honesty becomes a differentiator.

@@ -40,13 +40,12 @@ stance: >-
   consumers eventually recognize the degraded experience and resent the
   dishonesty more than the cost-cutting itself.
 related:
-  - INS-260322-FCFC
   - INS-260324-62A8
   - INS-260327-3DE7
   - INS-260324-782C
   - PRI-260328-7E58
   - INS-260403-5D89
-  - INS-260327-46F6
+  - INS-260322-FCFC
   - INS-260327-7AB5
   - INS-260327-86FE
 evidence:

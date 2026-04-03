@@ -48,10 +48,10 @@ stance: >-
   confrontation because it separates the message from the messenger.
 related:
   - INS-260329-F063
+  - PRI-260403-0ABD
   - INS-260327-BF43
   - INS-260330-4DBE
   - INS-260329-E900
-  - INS-260330-F4DD
 evidence:
   - id: INS-260329-F063
     type: EXTENDS

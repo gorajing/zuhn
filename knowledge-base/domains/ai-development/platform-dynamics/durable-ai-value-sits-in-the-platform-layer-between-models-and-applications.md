@@ -47,12 +47,11 @@ stance: >-
   foundation models and below end-user applications — not to the model or app
   layers alone.
 related:
-  - INS-260323-4794
-  - INS-260322-EDC2
   - INS-260327-89AE
   - INS-260327-FDF4
   - INS-260326-3D8D
   - INS-260327-F316
+  - INS-260322-EDC2
   - INS-260322-A367
   - INS-260328-92BC
   - INS-260329-5F19

@@ -2,6 +2,7 @@
 
 - `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260323-7BA4` Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
+- `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
 - `INS-260330-8625` Eddington's insistence that 'there should be a law of nature to prevent a star from behaving this absurdly' delayed black hole acceptance by decades.
 - `INS-260402-26B0` Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
@@ -22,4 +23,3 @@
 - `INS-260402-F4E5` Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
-- `INS-260325-9CDC` The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.

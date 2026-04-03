@@ -48,9 +48,9 @@ resolutions:
 related:
   - PRI-260323-0F93
   - INS-260325-75A3
+  - PRI-260403-2E59
   - INS-260330-FBC0
   - INS-260325-D680
-  - INS-260327-EAB0
 stance: >-
   What looks like intentional strategy in evolution is actually 'simple
   chemistry that happens to work well and propagates'

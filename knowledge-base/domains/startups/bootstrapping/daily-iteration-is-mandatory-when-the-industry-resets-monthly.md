@@ -39,11 +39,11 @@ resolutions:
     are in a constant race to highlight the best possibilities of new models to
     customers.
 related:
+  - PRI-260403-5FC4
   - INS-260325-A08A
   - PRI-260328-94D4
   - INS-260330-C0E2
   - INS-260325-17BF
-  - INS-260322-C33D
   - INS-260325-C5FD
 stance: >-
   Ship product updates 6 days per week because AI model improvements reset the

@@ -53,7 +53,6 @@ stance: >-
   visible when stress reveals the accumulated errors that normal conditions
   mask.
 related:
-  - INS-260330-790F
   - INS-260330-0BCC
   - PRI-260323-1CF9
   - INS-260325-9A0F

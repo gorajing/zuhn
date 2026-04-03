@@ -45,11 +45,11 @@ stance: >-
   any individual lever.
 related:
   - INS-260321-2F43
-  - INS-260323-70B9
   - INS-260329-CB6D
   - INS-260329-33D4
+  - PRI-260403-7D1F
+  - INS-260323-70B9
   - INS-260329-9101
-  - INS-260329-49A4
 evidence:
   - id: INS-260321-2F43
     type: REFINES

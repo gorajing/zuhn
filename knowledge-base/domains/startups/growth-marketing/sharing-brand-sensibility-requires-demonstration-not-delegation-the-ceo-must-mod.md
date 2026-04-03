@@ -53,10 +53,10 @@ related:
   - INS-260323-C90C
   - INS-260322-D5EB
   - INS-260329-74F9
-  - INS-260330-0E4B
+  - PRI-260403-7D1F
   - INS-260327-8F03
   - INS-260329-3EB6
-  - INS-260329-96EC
+  - INS-260330-0E4B
   - INS-260330-DF02
 stance: 'When scaling, CEOs cannot just delegate customer-facing work'
 evidence:

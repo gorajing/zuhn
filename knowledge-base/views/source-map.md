@@ -196,9 +196,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -271,6 +271,7 @@ Generated on 2026-04-03 | 2421 sources
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
+| Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
 | Economic Inequality | blog | 5 | 2026-03-31 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
@@ -319,6 +320,8 @@ Generated on 2026-04-03 | 2421 sources
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Real Estate's Hidden AI Revolution | blog | 5 | 2026-03-31 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
+| Roundup #75: Checking in on the Bad Guys | blog | 5 | 2026-03-30 |
+| Roundup #76: Great Powers acting stupid | blog | 5 | 2026-03-30 |
 | Roundup #77: The Fix-Everything Button | blog | 5 | 2026-03-30 |
 | Roundup #78: Roboliberalism | blog | 5 | 2026-03-30 |
 | Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
@@ -364,6 +367,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
+| Updated thoughts on AI risk | blog | 5 | 2026-03-30 |
 | Web 2.0 | blog | 5 | 2026-03-31 |
 | Web3 Gaming Is An Evolution, Not A Revolution - NFX | blog | 5 | 2026-03-31 |
 | What Business Can Learn from Open Source | blog | 5 | 2026-03-31 |
@@ -1835,7 +1839,6 @@ Generated on 2026-04-03 | 2421 sources
 | DeepSeek R1: The AI Disruption No One Saw Coming | blog | 0 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 0 | 2026-03-31 |
 | Defining Property | blog | 0 | 2026-03-31 |
-| Democratic economic policy in the age of AI | blog | 0 | 2026-03-30 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Design and Research | blog | 0 | 2026-03-31 |
 | Disconnecting Distraction | blog | 0 | 2026-03-31 |
@@ -2069,8 +2072,6 @@ Generated on 2026-04-03 | 2421 sources
 | Reverse Imposter Syndrome: A Founder’s Visibility Gap | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
 | Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank Lessons for Founders | blog | 0 | 2026-03-30 |
-| Roundup #75: Checking in on the Bad Guys | blog | 0 | 2026-03-30 |
-| Roundup #76: Great Powers acting stupid | blog | 0 | 2026-03-30 |
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 0 | 2026-03-30 |
@@ -2282,7 +2283,6 @@ Generated on 2026-04-03 | 2421 sources
 | Two Kinds of Judgement | blog | 0 | 2026-03-31 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
 |  | blog | 0 | 2026-03-31 |
-| Updated thoughts on AI risk | blog | 0 | 2026-03-30 |
 | VC 3.0: How AI Is Changing Startup Funding Forever | blog | 0 | 2026-03-30 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 0 | 2026-03-30 |
 | VC Math Explained📊, Grow with Roll-Ups 🔄, The Top 1%🧠 | blog | 0 | 2026-03-30 |

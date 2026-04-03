@@ -50,14 +50,12 @@ stance: >-
   produce more consistent codebases that scale better across large teams than
   unopinionated alternatives.
 related:
-  - INS-260320-EA19
   - INS-260329-E208
   - INS-260329-BA12
-  - INS-260330-2C97
+  - PRI-260403-9E80
   - INS-260329-C031
   - INS-260327-47E9
   - INS-260327-E0F7
-  - INS-260329-4F8C
   - INS-260330-CA88
   - INS-260330-E99F
 evidence:

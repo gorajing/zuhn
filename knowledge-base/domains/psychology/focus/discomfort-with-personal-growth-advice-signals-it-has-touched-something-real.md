@@ -49,10 +49,10 @@ stance: >-
   the material is worthless.
 related:
   - INS-260325-4FD0
+  - PRI-260403-88F5
   - INS-260323-4DF1
   - INS-260330-8D2C
   - INS-260330-BA3A
-  - PRI-260323-A3A3
 evidence:
   - id: INS-260323-4DF1
     type: TRANSFERS_TO

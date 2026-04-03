@@ -50,7 +50,6 @@ stance: >-
   controlling produces a fundamentally different and potentially more successful
   alignment strategy based on trust-building rather than constraint.
 related:
-  - INS-260322-6088
   - INS-260325-B11F
   - INS-260327-C69F
   - INS-260327-7F32

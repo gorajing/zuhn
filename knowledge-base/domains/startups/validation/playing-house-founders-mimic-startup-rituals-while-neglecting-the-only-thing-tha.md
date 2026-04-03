@@ -57,7 +57,7 @@ related:
   - INS-260330-5A0A
   - INS-260403-C9DC
   - INS-260330-2B42
-  - INS-260327-FCCF
+  - PRI-260403-2E59
 ---
 Graham coined 'playing house' for the pattern where founders go through the motions—raise funding, rent a nice office, hire friends—then gradually realize they're doomed because they skipped making something people want. The root cause is that education trains people to exploit the gap between measured performance and actual achievement, and founders carry this habit into startups.
 

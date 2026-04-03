@@ -56,9 +56,9 @@ resolutions:
 related:
   - PRI-260328-6BC1
   - PRI-260327-8D8C
+  - PRI-260403-67FC
   - INS-260326-7ADF
   - INS-260322-C935
-  - INS-260327-AC8E
   - INS-260327-D24A
 stance: >-
   The current alignment paradigm of steering/control is appropriate for

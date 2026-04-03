@@ -50,7 +50,6 @@ related:
   - PRI-260328-B4BD
   - INS-260323-4457
   - INS-260330-F125
-  - INS-260402-7999
 stance: >-
   Software engineers gravitate toward writing code because it feels like
   progress, but building without user validation is the most expensive form

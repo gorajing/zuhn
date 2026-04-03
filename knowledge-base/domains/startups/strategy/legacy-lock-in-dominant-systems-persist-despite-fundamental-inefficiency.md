@@ -49,7 +49,6 @@ stance: >-
   suboptimal core mechanisms because switching costs exceed the penalty of
   inefficiency.
 related:
-  - INS-260323-E559
   - INS-260330-8D0C
   - INS-260330-56D6
   - INS-260330-3EE4
@@ -59,6 +58,7 @@ related:
   - INS-260330-E039
   - INS-260330-9A60
   - INS-260330-4983
+  - INS-260330-CEAE
 evidence:
   - id: INS-260323-E559
     type: SUPPORTS

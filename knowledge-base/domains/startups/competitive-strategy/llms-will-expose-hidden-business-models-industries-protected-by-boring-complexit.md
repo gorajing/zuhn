@@ -50,13 +50,13 @@ related:
   - INS-260321-1A03
   - INS-260323-7B63
   - INS-260325-FA70
-  - INS-260322-AABB
   - PRI-260324-A608
   - PRI-260328-7E58
   - INS-260327-D285
   - INS-260328-57CF
   - PRI-260324-12CF
   - INS-260321-5C24
+  - INS-260327-A234
 stance: >-
   Industries whose profitability depends on making processes boring, difficult,
   and time-consuming are most vulnerable to LLM disruption

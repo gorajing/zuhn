@@ -54,9 +54,9 @@ related:
   - INS-260325-F6CD
   - INS-260325-1802
   - PRI-260325-697B
+  - PRI-260403-88F5
   - INS-260325-25A2
   - INS-260330-75B5
-  - PRI-260328-E53E
 ---
 Reeves identifies a specific empathy gap: when young men are struggling — not in the labor market, not in education, not connected to society — the reflexive response is blame. 'If they could just get off the sofa and stop smoking weed and playing video games.' He notes this blame instinct is rarely applied with the same intensity to other groups.
 

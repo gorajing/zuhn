@@ -54,7 +54,6 @@ stance: >-
   problem-solving than having infinite creative freedom
 related:
   - INS-260322-4B4A
-  - INS-260323-DEC3
   - INS-260327-AEC2
   - INS-260327-7427
   - PRI-260323-0F93

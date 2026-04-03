@@ -53,7 +53,6 @@ stance: >-
   optimization dynamics — structured data produces sharp accuracy gains while
   random data produces slow linear improvement
 related:
-  - INS-260327-5E40
   - INS-260329-5D8A
   - INS-260326-0AB4
   - INS-260329-5901

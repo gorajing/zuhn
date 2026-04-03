@@ -2,21 +2,21 @@
 
 - `INS-260326-2D41` Russell's second principle — that the AI should not know what human values are — creates a provably beneficial property: the machine's incentive to allow shutdown is directly proportional to its uncertainty about human objectives.
 - `INS-260322-5932` Unlike previous platform shifts (internet, mobile), AI lacks a known theoretical ceiling, making deterministic predictions uniquely unreliable.
-- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
-- `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
-- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
-- `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
-- `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
-- `INS-260323-581C` The fundamental driver of conflict in international politics is the inability to know another state's future intentions, making worst-case preparation rational.
-- `INS-260330-BE46` Harlow's monkey experiments and Fisher's puppy studies show that unpredictable treatment creates stronger attachment than consistent kindness or consistent punishment.
-- `INS-260330-09A2` Fisher's 1955 puppy experiment showed that random alternation between kindness and punishment produced the strongest attachment — stronger than consistent kindness alone.
-- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
-- `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
-- `INS-260322-1A20` In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
-- `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
-- `INS-260328-3446` We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
-- `INS-260402-E140` Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.
 - `INS-260325-9F41` Wharton's Philip Tetlock found expert forecasts were no better than average guesses — nobody predicted the 2020 pandemic, 2021 Ukraine invasion, or 2022's 500bp rate hikes.
 - `INS-260327-D4D8` Markets dropping 12% in Japan then recovering the next day while fingers are pointed at multiple unrelated causes suggests nobody - not traders, not regulators, not economists - truly understands what's happening.
 - `INS-260327-31B8` At Eylau, a blinding snowstorm caused an entire French corps to march into the Russian center by accident, turning a controlled battle into chaos that negated Napoleon's tactical superiority.
 - `INS-260327-99CE` Money loves certainty - businesses can adapt to bad rules but cannot plan around rules that change weekly.
+- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
+- `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
+- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
+- `INS-260330-BE46` Harlow's monkey experiments and Fisher's puppy studies show that unpredictable treatment creates stronger attachment than consistent kindness or consistent punishment.
+- `INS-260330-09A2` Fisher's 1955 puppy experiment showed that random alternation between kindness and punishment produced the strongest attachment — stronger than consistent kindness alone.
+- `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
+- `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
+- `INS-260323-581C` The fundamental driver of conflict in international politics is the inability to know another state's future intentions, making worst-case preparation rational.
+- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
+- `INS-260322-1A20` In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
+- `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
+- `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
+- `INS-260328-3446` We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
+- `INS-260402-E140` Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.

@@ -60,7 +60,6 @@ stance: >-
   adaptation cost
 related:
   - INS-260323-E559
-  - INS-260322-F6C3
   - INS-260328-D0F6
   - INS-260330-CA97
   - INS-260330-E5DC
@@ -69,6 +68,7 @@ related:
   - INS-260330-4441
   - INS-260330-F5CF
   - INS-260330-0E77
+  - INS-260330-7106
 evidence:
   - id: INS-260323-E559
     type: TRANSFERS_TO

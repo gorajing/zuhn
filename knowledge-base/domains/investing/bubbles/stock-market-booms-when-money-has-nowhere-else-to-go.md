@@ -48,11 +48,11 @@ stance: >-
   fundamentals and more by the absence of viable alternative investments for
   accumulated capital.
 related:
+  - PRI-260403-2927
   - PRI-260328-2C4C
   - INS-260330-C1EA
   - PRI-260328-EAC4
   - INS-260330-F67A
-  - INS-260330-4D05
   - INS-260327-26D3
   - INS-260403-028F
 evidence:

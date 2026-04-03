@@ -66,10 +66,10 @@ stance: >-
   consequences viscerally) create the urgency that drives closed deals.
 related:
   - INS-260327-C6DC
+  - PRI-260403-0ABD
   - INS-260329-EC98
   - INS-260327-F26E
   - INS-260323-1CA4
-  - PRI-260328-7E58
 evidence:
   - id: INS-260327-F26E
     type: EXTENDS

@@ -51,10 +51,10 @@ stance: >-
   average ones, yet most small business owners lose deals over $5K salary
   differences.
 related:
+  - PRI-260403-7D1F
   - INS-260326-7B2A
   - INS-260323-9A93
   - INS-260327-94FE
   - INS-260327-02DF
-  - INS-260327-2430
 ---
 Hormozi's key hiring framework has three litmus tests: (1) interview extensively to build pattern recognition — School's founder interviewed 600 developers before finding a co-founder, (2) evaluate the quantity and quality of metrics a candidate uses to describe their role — vague answers ('make customers happy') vs. specific ones ('activation metric within 48 hours, time-to-value, churn as lagging indicator') reveal competence, (3) ask 'how does what you do make the business money?' — if they can't connect their function to revenue or profit, they can't drive it. The insight that transformed Hormozi's approach was seeing the talent gap between his team and a PE firm's team during an acquisition — the average quality difference explained why they'd make $3B in five years. Every hire should raise the average bar of the team (Amazon's rule), because without this control, organizations naturally dilute talent as sixes hire fives.

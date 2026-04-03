@@ -63,7 +63,6 @@ related:
   - INS-260329-FAE2
   - INS-260329-0432
   - INS-260329-AE09
-  - INS-260330-72C2
 evidence:
   - id: INS-260329-0F06
     type: TRANSFERS_TO

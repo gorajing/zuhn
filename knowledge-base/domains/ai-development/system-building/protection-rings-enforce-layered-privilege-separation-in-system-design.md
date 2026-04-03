@@ -49,10 +49,10 @@ stance: >-
   breaches.
 related:
   - INS-260329-90F4
+  - PRI-260403-9E80
   - INS-260329-3423
   - INS-260329-1277
   - INS-260329-BD83
-  - INS-260326-87A1
 evidence:
   - id: INS-260329-90F4
     type: CHALLENGES

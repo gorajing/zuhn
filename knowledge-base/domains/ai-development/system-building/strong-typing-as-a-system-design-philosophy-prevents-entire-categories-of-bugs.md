@@ -49,11 +49,11 @@ stance: >-
   runtime — a principle that applies broadly to any system that validates inputs
   early.
 related:
+  - PRI-260403-5B3D
+  - PRI-260403-9E80
   - INS-260329-DEA1
   - INS-260329-71AB
   - INS-260329-EA2B
-  - INS-260323-AF96
-  - INS-260329-8F86
 evidence:
   - id: INS-260329-71AB
     type: SUPPORTS

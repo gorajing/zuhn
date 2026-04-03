@@ -55,7 +55,6 @@ stance: >-
   is not algorithmic cleverness but the ability to select the appropriate data
   structure for each specific task.
 related:
-  - INS-260327-2387
   - INS-260329-7255
   - INS-260329-92C3
   - INS-260329-AC6E

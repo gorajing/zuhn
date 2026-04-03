@@ -54,7 +54,7 @@ related:
   - PRI-260325-697B
   - INS-260329-783C
   - INS-260330-75B5
-  - INS-260326-2259
+  - PRI-260403-88F5
 ---
 Reeves identifies a persistent double standard: when young men are out of the labor market, the reflexive response is blame -- 'get off the sofa and stop smoking weed.' He notes this blame instinct is conspicuously absent for other struggling groups. The framing matters because it determines whether a problem gets treated as a policy challenge or a moral failing.
 

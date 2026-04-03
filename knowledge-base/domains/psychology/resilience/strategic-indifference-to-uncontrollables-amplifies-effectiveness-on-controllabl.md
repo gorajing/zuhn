@@ -48,13 +48,13 @@ stance: >-
   emotional energy from things you cannot control to things you can, producing
   greater total effectiveness and satisfaction.
 related:
-  - INS-260325-D5C6
   - INS-260325-25A2
   - INS-260323-CF27
   - INS-260325-239C
   - INS-260327-5C91
   - INS-260327-764F
   - INS-260327-E833
+  - PRI-260403-88F5
   - PRI-260328-4313
   - INS-260327-1B09
   - INS-260329-976E

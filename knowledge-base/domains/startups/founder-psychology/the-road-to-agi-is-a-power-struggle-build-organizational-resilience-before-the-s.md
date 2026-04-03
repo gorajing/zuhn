@@ -44,7 +44,6 @@ resolutions:
     individually), and stress-test decision-making processes before crises force
     you to.
 related:
-  - INS-260323-C304
   - PRI-260321-0A4D
   - PRI-260322-9E36
   - PRI-260323-DAB9

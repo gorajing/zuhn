@@ -49,12 +49,11 @@ stance: >-
   content/media — where each level compounds returns exponentially more than the
   previous.
 related:
-  - INS-260329-CB6D
+  - PRI-260403-7D1F
   - INS-260329-33D4
   - INS-260329-3FA6
   - INS-260329-72C1
-  - INS-260329-9101
-  - INS-260329-7691
+  - INS-260329-CB6D
   - INS-260329-96EC
 evidence:
   - id: INS-260329-72C1

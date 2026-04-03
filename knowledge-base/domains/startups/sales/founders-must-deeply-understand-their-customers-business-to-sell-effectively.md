@@ -53,7 +53,6 @@ related:
   - INS-260330-FE9E
   - INS-260327-B12E
   - INS-260330-2C79
-  - INS-260329-75B6
 ---
 Michael pushes founders to imagine they are the CEO of the company buying their product. What would your top three problems be? Most founders can't answer this — they're so focused on their own product that they've never truly studied their customer's world. They know what feature they want to sell, but not why the buyer's business needs it.
 

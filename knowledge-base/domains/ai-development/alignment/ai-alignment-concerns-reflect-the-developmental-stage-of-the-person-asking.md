@@ -49,11 +49,11 @@ resolutions:
     building AI that can form genuine shared agency rather than merely following
     instructions.
 related:
+  - PRI-260403-88F5
   - INS-260329-19F9
   - INS-260323-7DBC
   - INS-260330-CFEA
   - INS-260329-116A
-  - INS-260329-541A
 stance: People at stage 3 (social self) worry about AI having wrong opinions
 evidence:
   - id: INS-260329-19F9

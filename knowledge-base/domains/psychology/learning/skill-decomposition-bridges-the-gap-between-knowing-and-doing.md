@@ -52,8 +52,8 @@ related:
   - INS-260329-4D06
   - INS-260329-66C7
   - INS-260329-1D3B
+  - PRI-260403-67FC
   - INS-260329-5FB5
-  - INS-260329-557C
 ---
 Hormozi identifies a critical insight about the knowing-doing gap: the more skilled you are, the more general a command can be and you can still follow it. A CEO can hear 'grow the business' and execute. A novice needs 'click the blue button, then type these exact words.' Most people operate with instructions calibrated for a skill level above their actual ability.
 

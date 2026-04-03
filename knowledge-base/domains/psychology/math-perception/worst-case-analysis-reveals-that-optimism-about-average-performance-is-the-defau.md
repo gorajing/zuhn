@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260330-2F13
   - INS-260329-8B1C
+  - PRI-260403-88F5
   - INS-260327-9F46
   - PRI-260325-45A2
-  - INS-260329-64B8
 ---
 Big-O notation only cares about the worst case — if searching an unsorted list for the number 7, the relevant scenario is when 7 is the very last element, not the average case where it's somewhere in the middle. It also only cares about behavior as input grows arbitrarily large, deliberately ignoring constants and small-n performance.
 

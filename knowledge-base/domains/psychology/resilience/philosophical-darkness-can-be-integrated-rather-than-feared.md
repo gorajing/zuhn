@@ -49,9 +49,9 @@ related:
   - INS-260327-8DC5
   - PRI-260328-27F7
   - INS-260330-A47B
+  - PRI-260403-88F5
   - PRI-260327-A7C5
   - INS-260325-D9D8
-  - INS-260330-207D
 ---
 Modern culture tends to pathologize engagement with dark questions: existential crisis is treated as disorder rather than development. But cultures throughout history have used confrontation with mortality, meaninglessness, and suffering as developmental practices (memento mori, Buddhist death meditation, existentialist philosophy).
 

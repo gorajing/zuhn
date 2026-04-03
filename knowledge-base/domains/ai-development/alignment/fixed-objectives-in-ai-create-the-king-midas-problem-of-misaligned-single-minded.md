@@ -51,13 +51,14 @@ stance: >-
   being switched off and oppose human interference, making the 'standard model'
   of AI (optimize a fixed objective) fundamentally dangerous.
 related:
-  - INS-260322-C935
   - INS-260322-6088
+  - PRI-260403-67FC
   - PRI-260327-8D8C
+  - INS-260322-C935
   - PRI-260328-6BC1
   - PRI-260328-4144
-  - INS-260330-7E61
   - INS-260326-5E07
+  - INS-260330-7E61
 evidence:
   - id: INS-260330-7E61
     type: SUPPORTS

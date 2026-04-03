@@ -51,10 +51,10 @@ related:
   - INS-260330-B09B
   - INS-260328-3F19
   - INS-260403-78B7
-  - INS-260329-82B1
   - INS-260330-E414
   - INS-260330-2BB3
   - INS-260330-7C05
+  - INS-260330-97F6
 stance: >-
   Raising funding is just the beginning of obligation, not a milestone of
   success

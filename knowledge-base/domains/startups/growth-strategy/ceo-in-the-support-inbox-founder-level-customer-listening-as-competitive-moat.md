@@ -55,7 +55,6 @@ related:
   - INS-260327-7A44
   - INS-260329-793D
   - INS-260329-6E0F
-  - INS-260330-2A73
 stance: Rella's CEO and co-founders still personally handle customer support
 evidence:
   - id: INS-260322-091C

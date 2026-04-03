@@ -44,10 +44,10 @@ stance: >-
   leverage in one direction.
 related:
   - INS-260323-0B5E
+  - PRI-260403-2E59
   - PRI-260328-521E
   - PRI-260328-DD6A
   - PRI-260328-902C
-  - INS-260327-DB8F
 evidence:
   - id: INS-260323-0B5E
     type: SUPPORTS

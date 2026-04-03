@@ -49,12 +49,11 @@ resolutions:
     'what does the curve look like at the next several doublings?' — a question
     most human brains are poorly equipped to answer without deliberate effort.
 related:
-  - INS-260323-BC20
-  - INS-260322-2FAD
   - PRI-260323-9EAD
+  - INS-260322-2FAD
+  - PRI-260403-E023
   - INS-260330-9197
   - INS-260330-D432
-  - PRI-260323-0654
   - INS-260330-2F52
   - INS-260330-8D6F
   - INS-260403-A136

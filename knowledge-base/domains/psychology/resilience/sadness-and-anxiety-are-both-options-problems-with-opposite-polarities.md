@@ -50,15 +50,15 @@ stance: >-
   decision-making the cure for anxiety
 related:
   - INS-260325-600C
-  - INS-260323-BCCC
   - INS-260325-0E1D
   - INS-260325-3589
   - INS-260327-CA72
   - INS-260327-71A3
   - INS-260329-5412
   - INS-260329-0B76
-  - INS-260330-207D
+  - PRI-260403-88F5
   - INS-260329-89E9
+  - INS-260330-8646
 evidence:
   - id: INS-260323-BCCC
     type: EXTENDS

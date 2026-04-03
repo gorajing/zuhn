@@ -49,7 +49,6 @@ stance: >-
   unexploited positions on that curve.
 related:
   - INS-260322-5678
-  - INS-260329-5C25
   - PRI-260328-5F64
   - INS-260329-E839
   - INS-260402-06DB

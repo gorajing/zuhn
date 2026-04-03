@@ -52,7 +52,7 @@ related:
   - INS-260403-BDE0
   - INS-260323-F853
   - PRI-260323-A3A3
-  - INS-260325-5A93
+  - PRI-260403-2E59
 stance: >-
   Great achievers across history share one trait: they know their demons
   intimately and channel them into drive rather than letting those demons

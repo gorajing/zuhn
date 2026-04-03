@@ -54,13 +54,12 @@ stance: >-
   rather than purely cognitive biases.
 related:
   - INS-260323-6258
-  - INS-260327-4153
   - INS-260330-051F
   - INS-260330-11EB
   - INS-260330-0E1E
   - INS-260330-68C8
   - INS-260330-8BF6
-  - INS-260330-6ECA
+  - PRI-260403-C34A
 evidence:
   - id: INS-260330-051F
     type: TRANSFERS_TO

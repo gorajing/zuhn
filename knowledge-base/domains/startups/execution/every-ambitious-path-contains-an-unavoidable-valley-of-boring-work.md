@@ -43,11 +43,11 @@ stance: >-
   Sustained periods of tedious, unglamorous work are not signs you're on the
   wrong path but are inherent features of every high-value pursuit
 related:
+  - PRI-260403-2E59
   - PRI-260323-AEE6
   - INS-260402-2FDF
   - INS-260323-5BEF
   - INS-260402-D0F3
-  - INS-260323-FAF0
 evidence:
   - id: INS-260402-D0F3
     type: CHALLENGES

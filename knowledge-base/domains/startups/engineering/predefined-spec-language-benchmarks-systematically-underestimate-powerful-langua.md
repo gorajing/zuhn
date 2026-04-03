@@ -52,8 +52,8 @@ related:
   - INS-260329-BDCC
   - INS-260402-9676
   - INS-260403-F100
+  - PRI-260403-5B3D
   - INS-260327-40DA
-  - INS-260329-EDA2
 ---
 Graham distinguishes between two capabilities: solving a predefined problem versus discovering and solving new problems. Formal language studies necessarily use predefined specs and small problems, which tests the wrong thing. The true power of a language is how well it serves as a medium for thinking — like the difference between embroidery (good for reproducing known images) and oil paint (good for discovering images as you work).
 

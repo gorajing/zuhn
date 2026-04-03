@@ -49,14 +49,14 @@ stance: >-
   generic sales methodology credentials.
 related:
   - INS-260322-82E8
-  - INS-260327-5688
   - INS-260327-B18F
-  - INS-260327-60A0
   - INS-260327-6AB1
   - INS-260327-005D
+  - PRI-260403-0ABD
   - INS-260327-9C00
   - INS-260329-100D
   - INS-260403-363C
+  - INS-260329-DF36
   - INS-260330-56B2
 ---
 Tech sales hiring managers look for candidates who show authentic interest in the product space, not just sales technique. This means researching the company's product, understanding the competitive landscape, and articulating why you care about the technology — not just the commission structure.

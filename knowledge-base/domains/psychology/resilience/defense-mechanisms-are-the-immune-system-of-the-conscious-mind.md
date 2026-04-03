@@ -53,7 +53,6 @@ stance: >-
   confusion, and despair, but when overactive they cause more damage than the
   threats they guard against.
 related:
-  - INS-260325-BA76
   - INS-260325-BBF1
   - PRI-260325-3F50
   - PRI-260324-1134
@@ -61,8 +60,9 @@ related:
   - INS-260326-6CA3
   - INS-260330-6D5C
   - INS-260330-9743
-  - INS-260330-D5DD
+  - INS-260325-BA76
   - INS-260330-2EC4
+  - INS-260330-A9F8
 evidence:
   - id: INS-260330-206B
     type: SUPPORTS

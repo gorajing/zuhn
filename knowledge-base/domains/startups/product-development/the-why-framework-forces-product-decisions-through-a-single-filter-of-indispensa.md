@@ -53,10 +53,10 @@ stance: >-
   constrains creativity productively and prevents feature creep.
 related:
   - INS-260330-0BBA
+  - PRI-260403-53D6
   - INS-260327-8C1C
+  - PRI-260403-88F5
   - INS-260329-AB9A
-  - INS-260330-2C79
-  - PRI-260328-0BE1
   - INS-260330-8D34
   - INS-260402-BA91
   - INS-260403-5B4E

@@ -56,12 +56,11 @@ stance: >-
   rather than delivering a standard pitch is the foundational skill that
   separates closers from order-takers.
 related:
-  - INS-260323-4DF1
   - INS-260330-2306
   - INS-260330-FE9E
   - INS-260327-4F3D
+  - PRI-260403-0ABD
   - INS-260327-CEE4
-  - INS-260327-8521
   - INS-260329-075F
   - INS-260329-086B
   - INS-260403-3E3B

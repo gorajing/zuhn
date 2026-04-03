@@ -56,8 +56,6 @@ related:
   - INS-260326-291C
   - INS-260327-ECDA
   - INS-260328-A4EB
-  - INS-260330-47FB
-  - INS-260330-DC3B
 stance: >-
   Leaders should shape the belief systems of employees, board, partners, and
   customers gradually over months so that by the time a major strategic de...

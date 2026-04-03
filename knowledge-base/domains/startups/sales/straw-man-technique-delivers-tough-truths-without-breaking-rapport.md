@@ -50,11 +50,11 @@ stance: >-
   preserves rapport better than direct confrontation, even when the message
   content is identical.
 related:
+  - PRI-260403-0ABD
   - INS-260323-1CA4
   - INS-260330-E3D3
   - PRI-260328-E921
   - INS-260327-52C1
-  - INS-260329-A80B
 evidence:
   - id: INS-260330-E3D3
     type: CHALLENGES

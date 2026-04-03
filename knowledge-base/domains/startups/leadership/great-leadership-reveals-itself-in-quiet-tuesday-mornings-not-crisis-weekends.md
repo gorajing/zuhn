@@ -42,11 +42,11 @@ resolutions:
     decision-making in mundane moments compounds far more than heroics during
     emergencies.
 related:
+  - PRI-260403-E023
   - INS-260330-D432
   - PRI-260328-BEAB
   - INS-260402-62E3
   - PRI-260323-9EAD
-  - INS-260323-244C
 stance: >-
   The true measure of a leader is the quality of decisions they make on ordinary
   days, not how they perform in dramatic crises.

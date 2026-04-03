@@ -2,6 +2,7 @@
 
 - `INS-260330-68C8` Plants maintain ~40 billion tons of RuBisCo — a fundamentally flawed enzyme — because replacing it would require redesigning the entire Calvin Cycle.
 - `INS-260330-CC30` RuBisCo confuses O2 for CO2 up to 50% of the time, but plants compensate by producing ~40 billion tons of it rather than evolving a replacement.
+- `INS-260327-A654` U.S. Middle East involvement started with a single 1930s oil concession that created an oil-military-alliance feedback loop so embedded in policy doctrine that withdrawal became structurally impossible.
 - `INS-260330-4EC0` RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme.
 - `INS-260330-BFA2` RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
 - `INS-260330-3FF4` RuBisCo evolved when CO2 was abundant and O2 scarce — when conditions changed, it became terrible, yet no alternative has displaced it in 450 million years because every plant depends on it.
@@ -20,4 +21,3 @@
 - `INS-260330-CBF8` Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
 - `INS-260330-3FCF` Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
-- `INS-260327-A654` U.S. Middle East involvement started with a single 1930s oil concession that created an oil-military-alliance feedback loop so embedded in policy doctrine that withdrawal became structurally impossible.

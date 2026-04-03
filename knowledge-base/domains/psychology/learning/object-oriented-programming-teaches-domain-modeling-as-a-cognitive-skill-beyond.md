@@ -52,11 +52,11 @@ stance: >-
   hierarchies, and encapsulated behaviors is a transferable cognitive skill for
   structuring any complex domain, not just software.
 related:
-  - INS-260329-FEF4
+  - PRI-260403-ABDE
   - INS-260329-A461
+  - INS-260329-FEF4
   - INS-260329-7C59
   - PRI-260328-8516
-  - INS-260329-03B0
 evidence:
   - id: INS-260329-03B0
     type: EXTENDS

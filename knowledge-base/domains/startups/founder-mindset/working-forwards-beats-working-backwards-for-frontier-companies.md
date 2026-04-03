@@ -48,10 +48,10 @@ stance: >-
   from a grand master plan.
 related:
   - PRI-260328-EC3F
+  - PRI-260403-2E59
   - INS-260330-6620
   - INS-260330-9471
   - PRI-260403-35FE
-  - INS-260330-F737
 evidence:
   - id: INS-260327-5E93
     type: CHALLENGES

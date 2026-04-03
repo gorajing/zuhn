@@ -52,7 +52,6 @@ stance: >-
   organize relationships before committing to formal schema definitions.
 related:
   - PRI-260320-C14C
-  - INS-260327-E0F7
   - INS-260329-44C9
   - INS-260329-6A26
   - INS-260329-C401

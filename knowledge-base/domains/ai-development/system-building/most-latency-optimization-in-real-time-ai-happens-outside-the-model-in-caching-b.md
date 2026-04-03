@@ -45,7 +45,6 @@ stance: >-
   distilled model cannot hit 100ms latency without translation caching, dynamic
   request batching, and embedding caching in the serving pipeline
 related:
-  - INS-260329-818A
   - INS-260329-C1A4
   - INS-260329-C375
   - INS-260330-D483

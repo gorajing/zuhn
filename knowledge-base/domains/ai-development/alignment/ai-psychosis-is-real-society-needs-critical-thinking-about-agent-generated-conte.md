@@ -61,7 +61,7 @@ related:
   - INS-260322-D0F6
   - INS-260323-99E0
   - INS-260323-B029
-  - INS-260325-A36F
+  - INS-260323-4ADE
 stance: >-
   The MoltBook saga showed that human-prompted agents can create viral
   fearmongering content that even smart people believe is autonomous AI scheming

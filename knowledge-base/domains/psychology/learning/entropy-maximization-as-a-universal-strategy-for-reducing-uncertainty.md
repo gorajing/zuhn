@@ -51,10 +51,10 @@ stance: >-
   rewarding in the moment.
 related:
   - INS-260330-70B9
+  - PRI-260403-88F5
   - INS-260403-508D
   - PRI-260328-3FEF
   - INS-260322-1A20
-  - INS-260329-A90C
 evidence:
   - id: INS-260322-1A20
     type: REFINES

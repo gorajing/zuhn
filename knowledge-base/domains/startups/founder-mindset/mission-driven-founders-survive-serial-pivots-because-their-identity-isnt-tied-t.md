@@ -52,10 +52,10 @@ related:
   - INS-260325-ED84
   - INS-260325-E78D
   - PRI-260323-1B96
+  - PRI-260403-2E59
   - INS-260327-1AD8
   - INS-260327-DC0B
   - INS-260323-DA91
-  - INS-260325-BE8A
   - INS-260327-0053
 stance: >-
   Founders who define themselves by a life mission rather than a specific

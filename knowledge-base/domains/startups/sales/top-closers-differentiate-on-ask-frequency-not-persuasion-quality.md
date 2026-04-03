@@ -50,11 +50,10 @@ related:
   - INS-260327-4416
   - INS-260327-0826
   - PRI-260327-3BD9
-  - INS-260329-E598
+  - PRI-260403-0ABD
   - PRI-260328-E921
   - INS-260327-B18F
   - INS-260329-226C
-  - INS-260329-1621
   - INS-260329-A6DB
 ---
 Hormozi's key insight is that the primary variable separating top closers from average ones isn't the quality of their pitch but the quantity of their asks. The entire 3A reframing framework exists to solve one problem: how do you ask for the sale repeatedly without the prospect hating you? Without reframing, repeated asks feel pushy and combative — rapport degrades and the prospect disengages. With reframing (acknowledge → associate → ask), each objection cycle actually builds rapport rather than destroying it, creating a ratchet effect where the salesperson can make more attempts. This reframes sales skill from 'being more persuasive' to 'being more persistent without being annoying' — a fundamentally different optimization target that explains why natural charisma is less important than disciplined process.

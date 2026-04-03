@@ -49,10 +49,9 @@ related:
   - INS-260322-5B1B
   - INS-260322-E22A
   - PRI-260328-E53E
+  - PRI-260403-5C44
   - INS-260325-26CF
   - PRI-260325-E41B
-  - INS-260330-2492
-  - INS-260329-7F70
 stance: The 'never give up' mantra can be destructive
 evidence:
   - id: INS-260322-5B1B

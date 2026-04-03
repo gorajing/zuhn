@@ -52,15 +52,15 @@ stance: >-
   reliably than runtime checks or developer discipline.
 related:
   - INS-260323-DB7B
-  - INS-260329-761A
   - INS-260329-818A
   - INS-260329-4842
-  - INS-260329-A93C
   - INS-260329-9157
   - INS-260329-3441
   - INS-260329-3423
   - INS-260329-7914
-  - INS-260329-1ACD
+  - PRI-260403-9E80
+  - PRI-260403-5B3D
+  - INS-260330-43E3
 evidence:
   - id: INS-260329-818A
     type: TRANSFERS_TO

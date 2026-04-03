@@ -42,21 +42,9 @@
 - `INS-260323-9955` The principle of least action provides a single mathematical framework that generates all laws of physics — classical mechanics, relativity, electrodynamics — by simply writing down the correct Lagrangian.
 - `INS-260329-9074` Variables create single points of change that prevent linear maintenance scaling in growing codebases.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
+- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
-- `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
-- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
-- `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
-- `INS-260330-78E2` Knock hard problems down to simpler cases first — the structure you find there almost always generalizes back up.
-- `INS-260329-E43B` Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
-- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
-- `INS-260403-CBB0` Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
-- `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
-- `INS-260329-8D19` OOP's core discipline — decomposing complexity into objects with defined interfaces — transfers to organizational design, product architecture, and any domain requiring structured abstraction.
-- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
-- `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
-- `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
-- `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
 - `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
 - `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
@@ -70,6 +58,19 @@
 - `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
 - `INS-260329-8015` The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
 - `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
+- `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
+- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
+- `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
+- `INS-260330-78E2` Knock hard problems down to simpler cases first — the structure you find there almost always generalizes back up.
+- `INS-260329-E43B` Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
+- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
+- `INS-260403-CBB0` Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
+- `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
+- `INS-260329-8D19` OOP's core discipline — decomposing complexity into objects with defined interfaces — transfers to organizational design, product architecture, and any domain requiring structured abstraction.
+- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
+- `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
+- `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
+- `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
 - `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
@@ -91,4 +92,3 @@
 - `INS-260330-7106` Suppressors work by first capturing gases in an expansion chamber, then restricting their outflow — a two-stage pattern that maps to error handling, customer support escalation, and content moderation.
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260323-1302` Dirac couldn't solve his simultaneous equations with 2x2 matrices — the smallest matrices where multiplication order matters — until he had the insight to expand to 4x4 matrices, which instantly provided all four solutions.
-- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.

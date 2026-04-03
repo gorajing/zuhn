@@ -63,7 +63,7 @@ related:
   - INS-260330-2CFA
   - INS-260330-EACA
   - INS-260330-0E77
-  - INS-260330-026F
+  - INS-260330-B061
 evidence:
   - id: INS-260330-B061
     type: EXTENDS

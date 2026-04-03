@@ -56,7 +56,7 @@ related:
   - PRI-260324-2C9F
   - INS-260330-3879
   - INS-260327-BE4E
-  - INS-260326-B10B
+  - PRI-260403-88F5
   - INS-260330-E982
 stance: >-
   In high-uncertainty environments, executing quickly to gather real information

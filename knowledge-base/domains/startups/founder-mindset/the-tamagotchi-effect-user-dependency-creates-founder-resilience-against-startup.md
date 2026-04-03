@@ -45,7 +45,6 @@ stance: >-
   founders from quitting during existential crises, making early launch the most
   important survival mechanism
 related:
-  - INS-260323-E2ED
   - INS-260330-BEE7
   - INS-260330-5036
   - INS-260403-78B7

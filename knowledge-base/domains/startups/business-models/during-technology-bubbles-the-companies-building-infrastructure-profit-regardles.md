@@ -42,9 +42,9 @@ stance: >-
 related:
   - INS-260322-6DFC
   - INS-260327-C1F6
+  - PRI-260403-4612
   - PRI-260321-05B5
   - INS-260322-BBED
-  - INS-260321-CBD2
 evidence:
   - id: INS-260322-6DFC
     type: EXTENDS

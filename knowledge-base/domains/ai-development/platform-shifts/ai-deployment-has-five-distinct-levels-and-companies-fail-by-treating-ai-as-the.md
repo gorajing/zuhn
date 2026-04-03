@@ -50,7 +50,6 @@ stance: >-
   the AI deployment spectrum.
 related:
   - INS-260329-16F0
-  - INS-260329-C66E
   - INS-260329-C4F5
   - INS-260330-1089
   - INS-260402-FFB2

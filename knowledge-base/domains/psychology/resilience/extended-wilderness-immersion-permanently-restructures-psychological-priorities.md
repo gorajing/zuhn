@@ -49,10 +49,10 @@ stance: >-
   therapy, or philosophical study alone.
 related:
   - INS-260330-9A60
+  - PRI-260403-C34A
   - INS-260402-26B0
   - PRI-260328-7EA5
   - PRI-260323-A33E
-  - INS-260330-F82A
 evidence:
   - id: INS-260330-AB58
     type: CONTRADICTS

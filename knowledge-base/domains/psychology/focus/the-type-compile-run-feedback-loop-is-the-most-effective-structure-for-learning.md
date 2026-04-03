@@ -48,7 +48,6 @@ stance: >-
   code changes produce deeper understanding than reading documentation or
   watching demonstrations alone.
 related:
-  - INS-260320-F872
   - INS-260323-AF96
   - INS-260325-75EA
   - INS-260329-04FA
@@ -58,6 +57,7 @@ related:
   - INS-260330-E47D
   - INS-260329-FC75
   - INS-260329-3177
+  - INS-260329-B170
 evidence:
   - id: INS-260320-F872
     type: TRANSFERS_TO

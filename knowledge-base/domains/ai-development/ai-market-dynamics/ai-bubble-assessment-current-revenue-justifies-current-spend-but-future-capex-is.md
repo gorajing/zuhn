@@ -55,7 +55,6 @@ related:
   - INS-260322-5790
   - PRI-260323-8E89
   - PRI-260324-36BF
-  - INS-260321-CBD2
 stance: AI labs are already profitable on current models
 evidence:
   - id: INS-260322-5790

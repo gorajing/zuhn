@@ -49,10 +49,10 @@ stance: >-
   to change as data grows.
 related:
   - INS-260329-2FB8
+  - PRI-260403-9E80
   - INS-260329-67CB
   - INS-260329-36DA
   - INS-260320-A745
-  - INS-260329-4842
 evidence:
   - id: INS-260320-A745
     type: TRANSFERS_TO

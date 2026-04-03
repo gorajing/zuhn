@@ -51,11 +51,11 @@ stance: >-
   bonds, and foreign assets, real estate becomes the only store of value and
   will be bid up far beyond intrinsic worth.
 related:
-  - INS-260327-D7DD
   - INS-260327-9638
-  - INS-260330-F67A
   - INS-260330-C1EA
   - PRI-260328-EAC4
+  - PRI-260403-2927
+  - INS-260330-F67A
 ---
 Chinese households save roughly 30-50% of income — among the highest rates globally — yet face severe restrictions on where to deploy that capital. Stock markets are volatile and distrusted, bond markets are underdeveloped, capital controls prevent foreign investment, and bank deposit rates often sit below inflation. Real estate becomes the default and often only perceived safe store of value.
 

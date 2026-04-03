@@ -52,8 +52,8 @@ related:
   - INS-260323-8897
   - INS-260323-E2ED
   - INS-260323-E0B5
+  - PRI-260403-67FC
   - INS-260321-D3BE
-  - INS-260330-C681
 stance: >-
   Once a developer's intent is determined, all remaining keystrokes to express
   that intent are zero-entropy actions that AI should eliminate via next...

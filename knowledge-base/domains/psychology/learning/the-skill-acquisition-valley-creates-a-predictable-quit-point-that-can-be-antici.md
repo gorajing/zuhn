@@ -47,11 +47,11 @@ stance: >-
   before rising, and knowing this pattern exists in advance significantly
   increases the likelihood of pushing through it
 related:
+  - PRI-260403-88F5
   - INS-260329-1FEE
   - PRI-260327-5635
+  - PRI-260403-5C44
   - INS-260323-A700
-  - INS-260323-DEC3
-  - INS-260329-163B
 evidence:
   - id: INS-260329-1FEE
     type: TRANSFERS_TO

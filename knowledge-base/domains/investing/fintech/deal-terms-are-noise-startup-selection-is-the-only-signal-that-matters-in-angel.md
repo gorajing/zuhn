@@ -48,7 +48,6 @@ stance: >-
   The returns from angel investing are almost entirely determined by which
   startups you pick, not by negotiating better deal terms or valuation.
 related:
-  - INS-260329-2B60
   - INS-260402-8424
   - INS-260330-548B
   - INS-260328-195E

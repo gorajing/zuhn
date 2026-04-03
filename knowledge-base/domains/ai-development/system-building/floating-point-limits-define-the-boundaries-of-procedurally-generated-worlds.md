@@ -43,11 +43,11 @@ resolutions:
     where embedding spaces, attention windows, and numerical precision all have
     analogous limits.
 related:
+  - PRI-260403-9E80
   - INS-260330-3B0B
   - INS-260329-7BAF
   - INS-260329-3423
   - INS-260327-47E9
-  - INS-260329-A93C
 stance: Minecraft's world ends at 1.8e308 blocks
 ---
 Minecraft's world progressively breaks down as you move away from the origin: terrain distorts at 12.5M blocks (Farlands), blocks stop rendering at 2.147B blocks (32-bit integer overflow), and the game registers position as infinity at 1.8e308 blocks (64-bit float max). Each boundary corresponds to a specific data type limit in the game's code.

@@ -52,13 +52,12 @@ stance: >-
   is more dangerous than the unsexy filter because it creates idea blind spots
   that hide high-value opportunities like Stripe
 related:
-  - INS-260327-8760
   - INS-260327-0B7C
   - INS-260402-F08D
   - PRI-260328-04FA
+  - PRI-260403-2E59
   - INS-260403-805E
   - INS-260326-291C
-  - INS-260403-7C88
 evidence:
   - id: INS-260327-8760
     type: SUPPORTS

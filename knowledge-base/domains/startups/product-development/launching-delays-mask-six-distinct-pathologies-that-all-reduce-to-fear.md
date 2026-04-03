@@ -48,10 +48,10 @@ stance: >-
   launch.
 related:
   - INS-260326-C305
+  - PRI-260403-88F5
   - INS-260325-D797
   - INS-260327-CA72
   - INS-260330-7A80
-  - INS-260325-EC85
 evidence:
   - id: INS-260325-D797
     type: SUPPORTS

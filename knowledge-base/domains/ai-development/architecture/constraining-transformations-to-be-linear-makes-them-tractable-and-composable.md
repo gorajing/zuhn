@@ -51,13 +51,12 @@ stance: >-
   the origin enable tractable composition and analysis.
 related:
   - INS-260325-1080
-  - INS-260330-6B7F
   - INS-260330-BF2A
   - INS-260330-D7CA
-  - INS-260330-E059
   - INS-260330-DEF7
   - PRI-260325-EEE9
   - INS-260330-3B6C
+  - INS-260330-E059
   - INS-260330-4E95
 evidence:
   - id: INS-260330-6B7F
