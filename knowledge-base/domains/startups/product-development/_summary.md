@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 125 insights
+> 129 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -31,6 +31,8 @@
 - `INS-260327-C99D` [high] Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
 - `INS-260323-EBC3` [high] Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to ophthalmology patients -- then revenue tripled annually.
 - `INS-260327-289F` [high] Gamma's competitive moat is design taste encoded into building blocks: AI generates 10 layout options and picks the best, but the building blocks themselves were crafted by a team that was one-third designers.
+- `INS-260403-D2B1` [high] Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform.
+- `INS-260403-A5B8` [high] The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users.
 - `INS-260330-AB3E` [high] Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
 - `INS-260402-0F36` [high] The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
 - `INS-260402-7B69` [high] In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
@@ -76,6 +78,7 @@
 - `INS-260329-7B1D` [high] Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.
 - `INS-260329-939E` [high] CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
 - `INS-260330-B7B1` [high] Plants compensate for RuBisCo's 50% error rate by producing 40 billion tons of it — brute-force scaling of a flawed solution often beats redesigning.
+- `INS-260403-7732` [high] Selection from a large open pool surfaces better top-end quality than editorial curation, which dampens extremes.
 - `INS-260329-BE35` [high] Your sharding key is a frozen prediction about usage patterns — choose wrong, and resharding a live database is one of the hardest problems in production engineering.
 - `INS-260323-6043` [high] Sweeney shipped the game editor alongside ZZT, empowering players to become creators -- this 'tools + product' pattern became Epic's core strategy and the reason the company survived decades of game industry volatility.
 - `INS-260327-4669` [high] Insta360 discovered that 70%+ of action camera users had content sitting on hard drives collecting dust because editing was too hard -- investing in mobile-first editing software became their primary competitive moat over GoPro.
@@ -98,6 +101,7 @@
 - `INS-260402-4633` [high] The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
 - `INS-260330-2119` [high] Oxygen — the gas that enabled all animal life — was originally just a toxic waste product of photosynthesis, making it history's most valuable accidental byproduct.
 - `INS-260330-8890` [high] Define 5 or fewer 'Why' statements that articulate specific user problems whose solutions make the product indispensable, then use them as the filter for every trade-off decision.
+- `INS-260403-EE38` [high] Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
 - `INS-260322-3C3D` [high] ElevenLabs' core advantage comes from product teams talking directly to research teams — product provides real user feedback, research iterates immediately, and models get tested directly on the product.
 - `INS-260330-3AB4` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all animal life — the side effect exceeded the intended output in civilizational impact.
 - `INS-260329-1741` [high] CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.

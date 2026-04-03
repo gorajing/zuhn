@@ -196,9 +196,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -237,12 +237,14 @@ Generated on 2026-04-03 | 2421 sources
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
+| 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
 | 18 Lessons from Harry Stebbings That Every Founder Should Know | blog | 5 | 2026-03-30 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
 | 2023 Annual Letter | blog | 5 | 2026-03-30 |
 | 2024 Annual Letter | blog | 5 | 2026-03-30 |
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
+| 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
 | A Fundraising Survival Guide | blog | 5 | 2026-03-31 |
 | A Plan for Spam | blog | 5 | 2026-03-31 |
@@ -273,6 +275,7 @@ Generated on 2026-04-03 | 2421 sources
 | Economic Inequality | blog | 5 | 2026-03-31 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
+| Five Questions about Language Design | blog | 5 | 2026-03-31 |
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
 | Great Hackers | blog | 5 | 2026-03-31 |
@@ -296,6 +299,7 @@ Generated on 2026-04-03 | 2421 sources
 | How to Start a Startup | blog | 5 | 2026-03-31 |
 | How to Think for Yourself | blog | 5 | 2026-03-31 |
 | How to Work Hard | blog | 5 | 2026-03-31 |
+| How to Write Usefully | blog | 5 | 2026-03-31 |
 | How Two European Founders Raised $4M, Secured a Microsoft Deal, and Broke Into Silicon Valley | blog | 5 | 2026-03-30 |
 | Ideas for Startups | blog | 5 | 2026-03-31 |
 | If AI is a weapon, why don't we regulate it like one? | blog | 5 | 2026-03-30 |
@@ -313,6 +317,7 @@ Generated on 2026-04-03 | 2421 sources
 | Plentiful, high-paying jobs in the age of AI | blog | 5 | 2026-03-30 |
 | Quotes | blog | 5 | 2026-03-31 |
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
+| Real Estate's Hidden AI Revolution | blog | 5 | 2026-03-31 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
 | Roundup #77: The Fix-Everything Button | blog | 5 | 2026-03-30 |
 | Roundup #78: Roboliberalism | blog | 5 | 2026-03-30 |
@@ -359,11 +364,13 @@ Generated on 2026-04-03 | 2421 sources
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
+| Web 2.0 | blog | 5 | 2026-03-31 |
 | Web3 Gaming Is An Evolution, Not A Revolution - NFX | blog | 5 | 2026-03-31 |
 | What Business Can Learn from Open Source | blog | 5 | 2026-03-31 |
 | What Great Startups Do Differently to Find Product-Market Fit | blog | 5 | 2026-03-30 |
 | What Happened With Bio Anchors? | blog | 5 | 2026-03-30 |
 | What I Worked On | blog | 5 | 2026-03-31 |
+| What I've Learned from Hacker News | blog | 5 | 2026-03-31 |
 | What Startups Are Really Like | blog | 5 | 2026-03-31 |
 | What the Bubble Got Right | blog | 5 | 2026-03-31 |
 | What You Can't Say | blog | 5 | 2026-03-31 |
@@ -377,6 +384,7 @@ Generated on 2026-04-03 | 2421 sources
 | Why Startups Condense in America | blog | 5 | 2026-03-31 |
 | Why the VC Secondary Market Is Booming in 2025 | blog | 5 | 2026-03-30 |
 | Why to Not Not Start a Startup | blog | 5 | 2026-03-31 |
+| Why Women-Led Startups Outperform Yet Lack Funding | blog | 5 | 2026-03-30 |
 | Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 5 | 2026-03-30 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
@@ -1491,7 +1499,6 @@ Generated on 2026-04-03 | 2421 sources
 | 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 10 Questions to Expect During a First Call With a VC | blog | 0 | 2026-03-30 |
-| 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 0 | 2026-03-30 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
 | $1,000 Head Start For America's Youth | blog | 0 | 2026-03-30 |
 | 1,000,000 | blog | 0 | 2026-03-31 |
@@ -1554,7 +1561,6 @@ Generated on 2026-04-03 | 2421 sources
 | 6 Roles That Can Position Your Company For The Future | blog | 0 | 2026-03-31 |
 | 61 Startups Actively Raising Capital (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
 | 6,631,372 | blog | 0 | 2026-03-31 |
-| 7-Day Workweeks in Startups: Growth or Burnout? | blog | 0 | 2026-03-30 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 0 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 0 | 2026-03-31 |
 | 7 Ways To Tank Your Business Model | blog | 0 | 2026-03-31 |
@@ -1858,7 +1864,6 @@ Generated on 2026-04-03 | 2421 sources
 | Financial Modeling Examples for Founders: A Startup Guide with Templates | blog | 0 | 2026-03-30 |
 | Financial Modeling for Founders | blog | 0 | 2026-03-30 |
 | Five Founders | blog | 0 | 2026-03-31 |
-| Five Questions about Language Design | blog | 0 | 2026-03-31 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 0 | 2026-03-30 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
 | Founder Control | blog | 0 | 2026-03-31 |
@@ -1949,7 +1954,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to Value a Startup: VC Method + Free Excel Model | blog | 0 | 2026-03-30 |
 | How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 0 | 2026-03-30 |
 | How to Write a Top 1% Cold DM to Investors | blog | 0 | 2026-03-30 |
-| How to Write Usefully | blog | 0 | 2026-03-31 |
 | How Trump’s 2025 Tariffs Could Reshape Startups | blog | 0 | 2026-03-30 |
 | How VCs and Startups can beat currency depreciation 🌍 | blog | 0 | 2026-03-30 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 0 | 2026-03-30 |
@@ -2054,7 +2058,6 @@ Generated on 2026-04-03 | 2421 sources
 | Ramen Profitable | blog | 0 | 2026-03-31 |
 | RAQs | blog | 0 | 2026-03-31 |
 | Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 0 | 2026-03-30 |
-| Real Estate's Hidden AI Revolution | blog | 0 | 2026-03-31 |
 | Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved Medical Care | blog | 0 | 2026-03-30 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
 | Relentlessly Resourceful | blog | 0 | 2026-03-31 |
@@ -2291,7 +2294,6 @@ Generated on 2026-04-03 | 2421 sources
 | Vertical SaaS: Now With AI Inside, B2C is Back, AI Agents Landscape  | blog | 0 | 2026-03-30 |
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
 | Was Brex's Acquisition A Failure? | blog | 0 | 2026-03-30 |
-| Web 2.0 | blog | 0 | 2026-03-31 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | Welcome to Chaos World | blog | 0 | 2026-03-30 |
 | What a liberal immigration enforcement policy might look like | blog | 0 | 2026-03-30 |
@@ -2303,7 +2305,6 @@ Generated on 2026-04-03 | 2421 sources
 | What I Did this Summer | blog | 0 | 2026-03-31 |
 | What I Read This Week… | blog | 0 | 2026-03-30 |
 | What if AI succeeds but OpenAI fails? | blog | 0 | 2026-03-30 |
-| What I've Learned from Hacker News | blog | 0 | 2026-03-31 |
 | What I've Learned from Users | blog | 0 | 2026-03-31 |
 | What Kate Saw in Silicon Valley | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |
@@ -2346,7 +2347,6 @@ Generated on 2026-04-03 | 2421 sources
 | Why Too Much Funding Will Destroy Your Startup | blog | 0 | 2026-03-30 |
 | Why TV Lost | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
-| Why Women-Led Startups Outperform Yet Lack Funding | blog | 0 | 2026-03-30 |
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |
 | WIRTW: China's minerals, AI financing, Nobel winners, robotics... | blog | 0 | 2026-03-30 |

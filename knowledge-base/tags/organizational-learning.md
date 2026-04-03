@@ -1,4 +1,4 @@
 # Tag: organizational-learning
 
-- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260325-887D` The three failure responses are forgive-and-forget (no learning), blame-and-humiliate (no honesty), and forgive-and-remember (learning happens) — only the third works.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.

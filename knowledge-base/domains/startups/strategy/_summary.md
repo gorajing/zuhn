@@ -1,10 +1,11 @@
 # Topic: strategy
 
-> 142 insights
+> 145 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
+- `INS-260403-76E9` [high] Google's secret was positioning where the web naturally wanted to go rather than trying to force the web to go somewhere else.
 - `INS-260323-9BC8` [high] Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.
 - `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
@@ -25,6 +26,7 @@
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
 - `INS-260330-F258` [high] Good democratic systems are optimized for removing bad leaders efficiently and nonviolently, not for selecting the best ones — mirroring how science progresses by falsification, not verification.
 - `INS-260330-9A92` [high] Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
+- `INS-260403-D444` [high] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260330-0B4A` [high] RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260330-8A28` [high] The Chinese dynastic cycle — founding vigor, prosperity, corruption, collapse — is a recurring pattern in companies and industries.
 - `INS-260323-B0EA` [high] OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
@@ -36,6 +38,7 @@
 - `INS-260329-7D18` [high] Your 20s are for sampling widely and your 30s are for going deep on the best thing you found — mistiming this transition is the most common career error.
 - `INS-260324-DC98` [high] UNIQLO, Zara, and H&M transformed fashion from a creativity contest into a speed-and-curation game, driving GAP to irrelevance and J.Crew to bankruptcy.
 - `INS-260322-8299` [high] The correct sequence is pricing optimization -> freed cash flow -> attribution tracking -> paid ads -> content/thought leadership, not the reverse.
+- `INS-260403-990C` [high] When an industry's value chain has cascading dependencies, optimizing one link compounds gains through every downstream step — making fragmented chains the highest-ROI AI targets.
 - `INS-260323-8893` [high] Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260403-5BFB` [high] Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - `INS-260330-8E45` [high] Glycolysis invests 2 ATP to break glucose apart, then earns 4 ATP back — a net gain that requires spending resources before generating them.

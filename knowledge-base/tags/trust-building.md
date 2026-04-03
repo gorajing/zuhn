@@ -1,5 +1,6 @@
 # Tag: trust-building
 
+- `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260330-8DCE` Vet co-founders through 20+ hours of deep conversation including explicit divorce scenarios, not just friendship duration.
 - `INS-260330-8D27` Long-form conversation formats (2-5 hours) produce qualitatively different insights because duration itself relaxes subjects into revealing authentic complexity.
 - `INS-260327-BE1F` Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.

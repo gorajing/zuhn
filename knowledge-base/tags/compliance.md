@@ -1,5 +1,6 @@
 # Tag: compliance
 
+- `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260330-5DCA` The vine robot intubation device finds the trachea not through sensors or cameras but through passive compliance — its softness lets it naturally follow the correct anatomical path.
 - `INS-260322-091C` In banking and financial services, voice AI actually outperforms humans because humans frequently violate compliance regulations while AI gets it right every time and can be audited.
 - `INS-260323-784B` Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.

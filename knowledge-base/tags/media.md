@@ -1,7 +1,5 @@
 # Tag: media
 
-- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
-- `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
 - `INS-260330-3260` Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation.
 - `INS-260330-8B24` Direct experience consistently overrides and corrects media-constructed mental models of people and places.
 - `INS-260330-27DF` Voter demand, media incentives, and political self-preservation form a mutually reinforcing triangle that locks in extremism.
@@ -14,3 +12,5 @@
 - `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
 - `INS-260330-F4DD` Press works like a sales funnel: get warm intros through recently-covered founders, memorize your bullet-point narrative, invest reporters' time via face-to-face meetings, and follow up with collateral before launch day.
 - `INS-260329-AA30` If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.
+- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
+- `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.

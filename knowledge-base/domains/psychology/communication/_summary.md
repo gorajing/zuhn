@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 14 insights
+> 15 insights
 
 - `INS-260330-365B` [high] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 - `INS-260330-3570` [high] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -10,6 +10,7 @@
 - `INS-260330-B711` [high] Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.
 - `INS-260330-B85B` [high] Profanity is neurologically distinct from regular language, routed through the limbic system rather than cortical speech areas.
 - `INS-260330-C9C2` [high] Swear words serve as credible emotional signals because their social cost keeps them scarce—overuse would destroy their alarm function.
+- `INS-260403-1A96` [high] The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
 - `INS-260330-F140` [high] Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` [high] The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
 - `INS-260330-5A9E` [high] Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).

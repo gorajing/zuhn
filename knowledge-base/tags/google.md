@@ -6,3 +6,4 @@
 - `INS-260403-600C` Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic.
 - `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260322-D7B1` Even a 20-30% shift from Google to AI chatbots will dramatically raise paid search costs for remaining advertisers, making current acquisition strategies unviable.
+- `INS-260403-76E9` Google's secret was positioning where the web naturally wanted to go rather than trying to force the web to go somewhere else.

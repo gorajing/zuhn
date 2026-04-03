@@ -52,7 +52,6 @@ stance: >-
   calibrating intensity based on current conditions.
 related:
   - INS-260329-5B50
-  - INS-260329-F4CD
   - PRI-260328-F0B4
   - PRI-260324-12CF
   - PRI-260323-F193

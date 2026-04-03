@@ -54,10 +54,10 @@ stance: >-
   architecture itself.
 related:
   - INS-260325-ADF3
+  - INS-260403-F100
   - INS-260323-C10D
   - PRI-260323-1CF9
   - INS-260329-0A55
-  - INS-260321-9906
 ---
 Alex Kendall draws a critical distinction from language AI: in driving, you cannot tolerate hallucinations. This means the architecture must be data-driven and end-to-end but also functionally safe and able to build a robust behavioral safety case. You need real-time performance on board vehicles with limited compute, and you need to handle every novel situation safely, even things never seen in training data.
 

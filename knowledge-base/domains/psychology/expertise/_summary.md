@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 27 insights
+> 28 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
@@ -16,6 +16,7 @@
 - `INS-260403-A06E` [high] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
 - `INS-260330-7D21` [high] Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260330-F6B1` [high] Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
+- `INS-260403-B6FD` [high] False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260402-72EF` [high] Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260402-0D16` [high] Programming languages shape how practitioners think, making adoption a cognitive transformation rather than a simple tool swap — which is why features take decades to go mainstream.
 - `INS-260330-2666` [high] Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 392 insights
+> 393 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -27,6 +27,7 @@
 - `INS-260329-6D3B` [high] Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260327-5E03` [high] When consumers can't afford cars, automakers built more expensive cars with longer loan terms rather than more affordable alternatives.
 - `INS-260327-584D` [high] Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficie
+- `INS-260403-97CA` [high] Incumbents will always win the copilot game because they have the data and distribution; startups must leapfrog by eliminating workflows entirely.
 - `INS-260324-6C83` [high] 80% of US barbershops remain independent despite 40 years of corporate attempts because the core asset (barber talent) can walk out and open their own shop with just scissors and a chair.
 - `INS-260402-0A49` [high] Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260327-6853` [high] Taco Bell was Yum Brands' overlooked third child behind KFC and Pizza Hut, but being excluded from the China arms race gave its leaders room to quietly build a domestic powerhouse without corporate interference or pressure to scale prematurely.

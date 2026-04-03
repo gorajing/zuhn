@@ -46,12 +46,13 @@ resolutions:
     preparation — being ready to 'see' the opportunity when timing and luck
     arrive.
 related:
-  - INS-260322-5678
   - INS-260322-89A9
   - INS-260321-E529
   - INS-260327-E41B
   - INS-260327-06A6
+  - INS-260322-5678
   - INS-260327-84E6
+  - INS-260403-66AE
 stance: >-
   Deliberately changing what content platforms show you — your YouTube
   algorithm, your feeds — rewires your brain to notice opportunities others

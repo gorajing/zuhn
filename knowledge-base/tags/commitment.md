@@ -1,7 +1,5 @@
 # Tag: commitment
 
-- `INS-260327-8DAA` The First Crusade succeeded despite enormous losses because crusader commitment was absolute, while Muslim defenders were divided between rival Seljuk and Fatimid factions.
-- `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
 - `INS-260330-08E1` Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
@@ -24,3 +22,5 @@
 - `INS-260327-2684` Building startups for your university application guarantees you'll never go all-in enough to succeed.
 - `INS-260322-4F7A` Life defaults are like software defaults — you can only change one or two at a time, and each change requires total commitment or the system reverts you back.
 - `INS-260330-4ACF` Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
+- `INS-260327-8DAA` The First Crusade succeeded despite enormous losses because crusader commitment was absolute, while Muslim defenders were divided between rival Seljuk and Fatimid factions.
+- `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3055 actionable insights
+Generated on 2026-04-03 | 3071 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1009,6 +1009,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260330-F140] Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - [INS-260330-365B] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
 - [INS-260402-9E2D] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
+- [INS-260403-1A96] The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1070,6 +1071,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260403-14D5] You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - [INS-260403-A06E] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
 - [INS-260403-D022] Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
+- [INS-260403-B6FD] False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1226,6 +1228,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260330-4B55] Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
 - [INS-260402-62E3] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
 - [INS-260403-76C3] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
+- [INS-260403-DB0A] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -1642,6 +1645,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
 - [INS-260322-EDA4] New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
+- [INS-260403-2E0F] The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
 
 ## startups/bootstrapping
 - [INS-260320-39A3] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -1744,6 +1748,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 ## startups/communication
 - [INS-260330-D511] Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
 - [INS-260330-76DA] Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
+- [INS-260403-280B] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -1915,6 +1920,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260403-FE00] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - [INS-260403-8011] When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - [INS-260403-D62F] AI marketplace defensibility scales with the difficulty of organizing previously offline or fragmented supply, not model sophistication.
+- [INS-260403-97CA] Incumbents will always win the copilot game because they have the data and distribution; startups must leapfrog by eliminating workflows entirely.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -1941,6 +1947,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260330-F324] When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event.
 - [INS-260330-B65B] Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
 - [INS-260330-06E3] Capitalism scaled in Britain partly because writers like Thomas Mun reframed market participation as natural human behavior — even coining 'individuals' and 'career' as personal identity terms.
+- [INS-260403-2245] Qualifications are not scalars measuring weakness — they're a rich vocabulary expressing scope, certainty, knowledge source, and falsifiability.
 
 ## startups/developer-tools
 - [INS-260329-9A58] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
@@ -1957,6 +1964,8 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260402-C664] Having great hackers build internal tools while less elite developers build applications retains top talent without exposing them to soul-crushing user requirements.
 - [INS-260403-EA2C] Programmer throughput is constant in lines/day, so more succinct languages directly multiply output.
 - [INS-260403-410A] Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
+- [INS-260403-59F4] Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
+- [INS-260403-F100] The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
 
 ## startups/execution
 - [INS-260323-CB34] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
@@ -2732,6 +2741,9 @@ Generated on 2026-04-03 | 3055 actionable insights
 
 ## startups/product
 - [INS-260403-6CE6] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
+- [INS-260403-1A08] Focus moderation on behavior standards rather than user gatekeeping to prevent community quality decay.
+- [INS-260403-22EE] Bad comments set the tone for entire threads and attract more bad comments, while bad submissions exist in isolation — requiring different moderation strategies.
+- [INS-260403-66AE] User-voted platforms must actively suppress low-effort-to-judge content or it will inevitably dominate the feed.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
@@ -2826,6 +2838,8 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260402-E36A] Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - [INS-260402-4AB4] Reframing the problem is often more valuable than optimizing the solution.
 - [INS-260402-C883] Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships.
+- [INS-260403-A5B8] The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users.
+- [INS-260403-EE38] Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -2841,6 +2855,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260403-E69C] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - [INS-260403-9681] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - [INS-260403-B73A] When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
+- [INS-260403-204E] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3134,6 +3149,7 @@ Generated on 2026-04-03 | 3055 actionable insights
 - [INS-260403-D1D4] Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
 - [INS-260403-215E] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - [INS-260403-5B4E] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
+- [INS-260403-D444] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

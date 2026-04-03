@@ -1,12 +1,9 @@
 # Tag: patience
 
-- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
-- `INS-260327-8473` Wellington's defensive strategy in Portugal was unpopular and appeared passive but systematically destroyed French armies through attrition rather than risk.
-- `INS-260327-EF8C` Wellington watched Marmont's army for days without attacking, then struck in 40 minutes when the French overextended their line — destroying an entire army in one afternoon.
-- `INS-260327-35CB` Russia defeated Napoleon in 1812 primarily by refusing to fight decisive battles — retreating, burning their own territory, and letting distance and winter destroy the Grande Armee.
 - `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
 - `INS-260329-F04B` Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
 - `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
+- `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260327-734D` It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
@@ -18,8 +15,11 @@
 - `INS-260329-6FAC` Write a contract to yourself committing to 10 years of compounding, which shifts behavior from short-term speculation to reasonable bets that inevitably compound.
 - `INS-260329-8542` Writing yourself a 10-year contract to add 1-2 zeros to your net worth transforms your decision-making from gambling to inevitable compounding.
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
-- `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
 - `INS-260325-E895` Gawande's coach taught him to count to 30 in his head before intervening when surgical trainees struggled with bleeding — breaking his instinct to grab the instruments and do it himself.
 - `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
 - `INS-260328-58B1` Name the 20 software companies you respect most — not one of them made it in a year.
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
+- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
+- `INS-260327-8473` Wellington's defensive strategy in Portugal was unpopular and appeared passive but systematically destroyed French armies through attrition rather than risk.
+- `INS-260327-EF8C` Wellington watched Marmont's army for days without attacking, then struck in 40 minutes when the French overextended their line — destroying an entire army in one afternoon.
+- `INS-260327-35CB` Russia defeated Napoleon in 1812 primarily by refusing to fight decisive battles — retreating, burning their own territory, and letting distance and winter destroy the Grande Armee.

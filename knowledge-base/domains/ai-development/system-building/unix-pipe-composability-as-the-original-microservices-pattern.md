@@ -47,11 +47,11 @@ stance: >-
   Small single-purpose tools connected via stdin/stdout pipes produce more
   flexible systems than monolithic programs with many features.
 related:
+  - INS-260403-EE38
+  - INS-260403-A5B8
   - INS-260329-55C4
   - INS-260329-8830
   - INS-260327-E3DE
-  - INS-260323-BF81
-  - INS-260329-3177
 evidence:
   - id: INS-260329-55C4
     type: CHALLENGES

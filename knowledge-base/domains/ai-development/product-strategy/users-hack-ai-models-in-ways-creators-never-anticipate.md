@@ -50,11 +50,11 @@ stance: >-
   cases, and companies should design for this emergent behavior rather than
   constraining it.
 related:
+  - INS-260403-3831
   - INS-260330-9A46
+  - INS-260403-1A96
   - INS-260330-053D
   - INS-260327-CFD5
-  - INS-260329-4DBC
-  - INS-260330-2B42
 evidence:
   - id: INS-260330-9A46
     type: TRANSFERS_TO

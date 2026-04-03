@@ -47,7 +47,6 @@ stance: >-
   pretending expertise you lack.
 related:
   - INS-260323-3C7B
-  - INS-260323-4AB5
   - INS-260327-70DF
   - INS-260327-24D2
   - INS-260327-73BE
@@ -56,6 +55,7 @@ related:
   - INS-260330-F3FF
   - INS-260330-B771
   - INS-260402-0E46
+  - INS-260403-028F
 evidence:
   - id: INS-260402-0E46
     type: TRANSFERS_TO

@@ -48,11 +48,10 @@ stance: >-
   mainstream use
 related:
   - INS-260329-E208
-  - INS-260402-2D95
+  - INS-260403-F100
   - INS-260329-ACE6
   - INS-260321-1A0B
   - INS-260321-9906
-  - INS-260327-2C5F
   - INS-260403-6061
 evidence:
   - id: INS-260402-2D95

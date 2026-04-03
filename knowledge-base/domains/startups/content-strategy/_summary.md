@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 30 insights
+> 31 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260329-127F` [high] Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
@@ -30,5 +30,6 @@
 - `INS-260330-8D27` [medium] Long-form conversation formats (2-5 hours) produce qualitatively different insights because duration itself relaxes subjects into revealing authentic complexity.
 - `INS-260330-DAAD` [medium] Three-hour podcast interviews can launder lies by substituting length and good vibes for actual fact-checking.
 - `INS-260329-976E` [medium] Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
+- `INS-260403-2245` [medium] Qualifications are not scalars measuring weakness — they're a rich vocabulary expressing scope, certainty, knowledge source, and falsifiability.
 - `INS-260329-2865` [medium] After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
 - `INS-260329-63DD` [medium] Comprehensive long-form tutorials dominate search results because they fully satisfy user intent, creating compounding organic traffic that short content cannot match.

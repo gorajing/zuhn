@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 60 insights
+> 61 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260330-4D05` [high] Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
@@ -58,6 +58,7 @@
 - `INS-260327-5D13` [medium] If everybody has agreed the AI market is a bubble, then why are informed investors still piling billions into it every month - are they dumber than retail investors or do they see something different?
 - `INS-260323-5C25` [medium] Coreweave — backed by Nvidia, Blackstone, JP Morgan, Goldman — projects $23B negative free cash flow in 2026; if the best-positioned AI infrastructure borrower can't raise debt, smaller players are finished.
 - `INS-260323-F12F` [medium] AI data centers take 1-2 years to build but GPUs become obsolete in 3-6 years — by the time they turn on, the hardware is already outdated and the customers (unprofitable AI startups) can't pay.
+- `INS-260403-3C81` [medium] The post-2000 tech market didn't re-bubble because acquisition-based exits are structurally less prone to irrational exuberance than IPO-based exits.
 - `INS-260330-808B` [medium] When Standard Oil was broken into 34 companies, investors nearly tripled Rockefeller's share value because each independent company was valued higher than its fraction of the whole — the classic conglomerate discount in reverse.
 - `INS-260323-D288` [medium] When OpenAI and Anthropic file S-1s for IPO, the forced financial transparency will likely trigger a WeWork-style reassessment — Anthropic has leaked inconsistent revenue figures and OpenAI plans to burn $200B+ even at optimistic revenue targets.
 - `INS-260324-5C53` [medium] OpenAI is Netscape (first mover, no moat), Nvidia is Sun+Cisco (shovel seller), hyperscalers are Exodus Communications (building for demand that hasn't materialized).

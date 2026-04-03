@@ -54,6 +54,7 @@ related:
   - INS-260327-F229
   - INS-260329-B2BE
   - INS-260330-E4B6
+  - INS-260403-D444
 ---
 The Google antitrust ruling revealed something deeper than one company's misbehavior. Many modern tech business models are predicated on winner-take-all dynamics where monopoly isn't optional - it's structural. Companies that rely on network effects, data moats, and platform economics often cannot sustain profitability at smaller scale.
 

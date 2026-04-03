@@ -49,11 +49,11 @@ stance: >-
   (likelihood of behavior change), direction (towards or away), and reach (how
   many people it affects) — not through subjective 'brand awareness' surveys.
 related:
+  - INS-260403-280B
   - INS-260325-537A
   - INS-260325-922D
   - INS-260321-C0A4
   - INS-260327-439A
-  - INS-260330-9BF3
 evidence:
   - id: INS-260330-9BF3
     type: CHALLENGES

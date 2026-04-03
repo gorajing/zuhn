@@ -45,15 +45,15 @@ resolutions:
     where AI doesn't just automate existing work but expands the capacity to
     generate revenue.
 related:
+  - INS-260403-2E0F
   - INS-260327-D285
   - INS-260327-B357
   - INS-260325-FDF5
   - INS-260403-5D89
-  - INS-260327-78A0
   - INS-260327-16D7
   - INS-260327-2C46
+  - INS-260327-78A0
   - INS-260327-4F8C
-  - INS-260327-CADA
   - INS-260328-D826
 stance: >-
   Companies where AI reinforces the business model by driving revenue — not just

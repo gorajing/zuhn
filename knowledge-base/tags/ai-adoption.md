@@ -1,6 +1,7 @@
 # Tag: ai-adoption
 
 - `INS-260322-3D21` AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
+- `INS-260403-C355` High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260322-55D8` ChatGPT has 800-900M weekly active users, but only 5% pay — five times more people have accounts than can find a weekly use case.
 - `INS-260321-6437` The Department of War achieved 15x AI user growth in 90 days by ruthlessly cutting 14 priority areas to 6 with applied AI as number one, proving that focus acceleration works even in massive bureaucracies.
 - `INS-260321-A56C` Generative AI can help with more tasks than past automation (more flexible) but takes over fewer tasks completely (less robust) — it's task-augmenting not task-replacing.
@@ -12,11 +13,11 @@
 - `INS-260321-9A03` Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
 - `INS-260325-EE14` Wharton research shows people abandon AI tools after seeing a single error, but letting users tweak parameters restores adoption even at higher error rates.
 - `INS-260327-540D` Sequoia frames the enterprise AI opportunity as a spectrum from bottoms-up tools to top-down solutions — and solution companies like Harvey, Sierra, and Pace are fundamentally selling trust that AI will work for the customer's specific needs.
-- `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
-- `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.
 - `INS-260327-2627` Companies that fired teams and replaced them with AI are now begging workers to come back as they enter the 'find out' phase of discovering most jobs are more nuanced than AI can handle.
 - `INS-260327-C54D` Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.
 - `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260327-560D` AI newcomers with no preconceptions about limitations outperform experienced users anchored to last year's capabilities.
 - `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.
 - `INS-260327-968C` Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
+- `INS-260322-88FC` Major banks like Goldman Sachs went from building their own email clients to adopting Cursor and GitHub Copilot — AI's intuitive demonstrability is accelerating institutional openness to external technology.
+- `INS-260322-2647` Companies with broad retail investor bases trade at higher multiples and benefit from organic brand defense because owners have skin in the game.

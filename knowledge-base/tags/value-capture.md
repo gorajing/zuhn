@@ -10,3 +10,4 @@
 - `INS-260330-228D` The amount of value you create for the world has no relationship to how much of that value you keep — industry structure determines capture.
 - `INS-260327-F229` Disney's competitive advantage isn't better movies — it's owning the entire pipeline from film production through theme parks, merchandise, streaming, and cruise ships.
 - `INS-260330-3D0D` Protocols create the most durable network effects but the creator must retain control of identity, addressing, or tokens to capture value — otherwise the standard becomes a public good they don't profit from.
+- `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.

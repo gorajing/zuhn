@@ -49,7 +49,6 @@ stance: >-
   cannot be pre-tested, making rapid shipping and learning from real user
   behavior the only viable product development strategy.
 related:
-  - INS-260320-A4BF
   - INS-260325-4C92
   - INS-260327-B17D
   - INS-260323-4457

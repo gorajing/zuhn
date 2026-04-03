@@ -3,7 +3,6 @@
 - `INS-260322-0C28` Only 9% of consumers pay for more than one LLM assistant, and less than 10% of ChatGPT users even visit competitors — signaling winner-take-most dynamics in general AI.
 - `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
-- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
 - `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
 - `INS-260327-A9E8` When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest 
 - `INS-260327-48D6` Products and services that remove all friction from consumption eliminate the natural behavioral checkpoints that previo
@@ -42,9 +41,10 @@
 - `INS-260327-472A` Meal replacement products appeal to efficiency-maximizing consumers who are vocal online but represent a tiny fraction o
 - `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho
 - `INS-260327-4233` Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
-- `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
+- `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
 - `INS-260327-0CBC` Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
 - `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
 - `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
 - `INS-260323-BD2B` JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
+- `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.

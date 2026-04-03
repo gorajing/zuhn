@@ -46,13 +46,12 @@ stance: >-
   any one creates enough mental space for novel ideas to emerge.
 related:
   - INS-260322-4B37
-  - INS-260323-C0BD
   - INS-260329-A024
   - INS-260323-3E21
+  - INS-260403-280B
   - PRI-260324-1134
   - INS-260330-DB4B
   - PRI-260328-39FA
-  - INS-260403-A1DF
 evidence:
   - id: INS-260322-4B37
     type: TRANSFERS_TO

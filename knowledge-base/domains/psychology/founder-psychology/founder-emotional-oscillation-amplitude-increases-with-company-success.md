@@ -45,7 +45,6 @@ stance: >-
   company grows — the highs are higher but the lows keep getting lower.
 related:
   - INS-260325-537A
-  - INS-260329-976E
   - INS-260329-C689
   - INS-260330-B869
   - PRI-260327-0AA2

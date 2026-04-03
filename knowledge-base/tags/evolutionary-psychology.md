@@ -1,8 +1,8 @@
 # Tag: evolutionary-psychology
 
 - `INS-260330-4224` Humans evolved uniquely white scleras not by accident but as a cooperation mechanism — making it easy for others to detect where we're looking, unlike predators who benefit from concealed gaze.
-- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
+- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition.
 - `INS-260330-6165` Hoffman's fitness-beats-truth theorem mathematically proves that natural selection shapes senses to track fitness payoffs, not objective truth, with probability zero of evolving truth-seeing.
 - `INS-260330-0ED2` What we perceive as objects are hierarchically clustered fitness payoff functions — data structures encoding action-payoff relationships rather than representations of mind-independent things.
 - `INS-260330-A59D` Kissing likely evolved from kiss-feeding and persisted because saliva exchange provides biological compatibility data for mate selection.

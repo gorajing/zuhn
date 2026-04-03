@@ -51,7 +51,6 @@ stance: >-
   position themselves to join the winning side and extract maximum personal
   benefit during regime changes.
 related:
-  - INS-260321-9E91
   - INS-260323-3982
   - INS-260330-58B9
   - INS-260325-5A93

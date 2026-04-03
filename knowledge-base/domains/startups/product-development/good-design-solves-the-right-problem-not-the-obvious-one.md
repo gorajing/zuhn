@@ -45,7 +45,6 @@ stance: >-
   from lack of effort or skill
 related:
   - INS-260325-898A
-  - INS-260321-7D76
   - INS-260325-05FC
   - INS-260327-CEE4
   - INS-260327-8358
@@ -54,6 +53,7 @@ related:
   - INS-260329-BC6C
   - INS-260330-64D8
   - INS-260330-0982
+  - INS-260330-62D6
 evidence:
   - id: INS-260329-5B50
     type: CHALLENGES

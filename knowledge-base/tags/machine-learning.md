@@ -9,5 +9,5 @@
 - `INS-260329-9524` Splitting data into train/validate/test sets prevents models from memorizing answers instead of learning patterns.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
 - `INS-260402-3FD8` Simple statistical approaches discover patterns humans miss and scale better than hand-crafted rules.
-- `INS-260325-696D` Instead of asking 'is there this specific pattern?' AI lets SETI ask 'is there any pattern other than noise?' — removing human assumptions about what alien signals should look like.
 - `INS-260325-0C20` 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find.
+- `INS-260325-696D` Instead of asking 'is there this specific pattern?' AI lets SETI ask 'is there any pattern other than noise?' — removing human assumptions about what alien signals should look like.

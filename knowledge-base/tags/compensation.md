@@ -5,9 +5,9 @@
 - `INS-260330-75E2` When founders don't pay themselves, fired co-founders use unpaid wage claims as leverage to negotiate accelerated vesting they aren't entitled to.
 - `INS-260330-3B0A` Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve.
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
-- `INS-260330-CEAE` Plants produce 40 billion tons of RuBisCo to compensate for its ~50% failure rate rather than evolving a replacement.
 - `INS-260330-CBF3` Target giving 10% of the company to the first 10 employees because employees compound value over years while investors mostly write a check.
 - `INS-260330-855A` YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
+- `INS-260330-CEAE` Plants produce 40 billion tons of RuBisCo to compensate for its ~50% failure rate rather than evolving a replacement.
 - `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.

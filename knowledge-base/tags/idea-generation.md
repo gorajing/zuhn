@@ -3,6 +3,7 @@
 - `INS-260321-E4EB` AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260402-F853` Writing forces idea formation that pure thinking cannot achieve alone.
 - `INS-260402-12D0` Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
+- `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260403-76C3` Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260326-967C` Co-founders who discover the idea together feel true ownership; co-founders recruited into someone else's idea always have one foot out the door.

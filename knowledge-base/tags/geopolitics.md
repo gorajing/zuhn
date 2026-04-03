@@ -5,6 +5,7 @@
 - `INS-260321-3C8A` AI labs fight viciously against each other for dominance but frame the global AI race as positive-sum — the actual zero-sum game is between nations, and the labs don't see it.
 - `INS-260322-AFE9` AI application to specific industries has no proven playbook anywhere in the world, making benchmarking-based strategy obsolete.
 - `INS-260323-62F3` Chinese companies release open-weight models primarily to gain global distribution and influence, not out of altruism.
+- `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.
 - `INS-260329-A4CA` Bond markets drive political decisions faster than traditional diplomacy in the current environment
 - `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs.
 - `INS-260327-A00A` Coalitions held together by gold rather than shared survival instinct are brittle under battlefield pressure.
@@ -35,4 +36,3 @@
 - `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
 - `INS-260323-79A5` Ukraine's departure made the Soviet Union structurally non-viable — Yeltsin told Bush that without Ukraine, Russia would be outnumbered by Muslim republics, ending Russian interest in the project.
 - `INS-260321-D4D0` The Iran operation isn't about religion or revenge — it's about clearing the physical obstacle blocking a logistics highway. International politics is leaders playing Go with a map; military power, resource control, and money are stronger than ideology.
-- `INS-260324-C1B8` In firearms, the US government decides which foreign manufacturers can sell to American civilians — the logic is political, not economic, with NATO allies allowed and adversaries blocked.

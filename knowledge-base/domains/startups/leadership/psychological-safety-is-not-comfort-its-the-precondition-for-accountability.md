@@ -50,9 +50,9 @@ stance: >-
 related:
   - PRI-260328-2C6A
   - INS-260330-C9A6
+  - INS-260403-1A08
   - INS-260327-DCAF
   - INS-260325-DFC7
-  - INS-260327-3A15
 evidence:
   - id: INS-260327-DCAF
     type: CHALLENGES

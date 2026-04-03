@@ -1,8 +1,8 @@
 # Tag: paul-graham
 
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
-- `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260330-F737` Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
+- `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260330-923F` A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
 - `INS-260403-FE00` Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260403-99B1` Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.

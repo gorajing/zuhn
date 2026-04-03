@@ -1,6 +1,6 @@
 # Topic: adoption
 
-> 20 insights
+> 21 insights
 
 - `INS-260322-3D21` [high] AI adoption in enterprises won't happen top-down — there's someone at every big company who figured out how to do 8 hours of work in 1 minute; the worst thing that can happen is they keep it a secret.
 - `INS-260322-3159` [high] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -19,6 +19,7 @@
 - `INS-260322-0812` [high] The most viral consumer AI moments of 2025 were all image/video — Ghibli, Nano Banana, VO3, Sora 2 — making multimodal generation the primary driver of new user acquisition.
 - `INS-260329-C4F5` [medium] Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260322-7DD5` [medium] 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
+- `INS-260403-C355` [medium] High-stakes industries adopt AI through a predictable trust ladder: copilot for routine tasks → demonstrated reliability → autopilot acceptance → perceived necessity.
 - `INS-260322-4757` [medium] Instead of measuring lines of code or contracts drafted, measure whether departments using AI tools become more responsive to other departments — this captures real productivity without creating Goodhart's Law gaming.
 - `INS-260322-B09B` [medium] Labs are merging previously separate text, image, and video capabilities into unified models that accept any input modality and produce any output — transforming design and creative workflows.
 - `INS-260329-E193` [medium] Wix buying Base 44 for $80M suggests AI app builders will become features of existing platforms rather than standalone products.

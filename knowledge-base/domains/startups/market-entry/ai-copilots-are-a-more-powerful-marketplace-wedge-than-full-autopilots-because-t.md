@@ -49,11 +49,11 @@ stance: >-
   dramatically expanding effective supply, and the autopilot endpoint
   commoditizes to zero margin.
 related:
+  - INS-260403-C355
+  - INS-260403-97CA
   - INS-260403-5D89
   - INS-260329-6079
   - PRI-260328-935B
-  - INS-260402-8170
-  - INS-260329-7691
 ---
 When AI can fully automate a marketplace's supply side (e.g., logo design, basic coding), the effective price trends toward zero because the automation is easily replicated. Copilots that augment human suppliers represent a more defensible intermediate step — they dramatically increase per-supplier productivity (expanding effective supply) while maintaining the trust that comes from human involvement in high-stakes transactions.
 

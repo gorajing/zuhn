@@ -49,10 +49,10 @@ resolutions:
     must vary by content type.
 related:
   - INS-260327-C6DC
+  - INS-260403-280B
   - INS-260330-579B
   - INS-260329-8986
   - INS-260330-255F
-  - INS-260327-91E7
   - INS-260327-6D77
   - INS-260403-4CE7
 stance: Wikipedia's deepest ongoing challenge is notability
