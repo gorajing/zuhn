@@ -1,8 +1,9 @@
 # Topic: health-innovation
 
-> 9 insights
+> 10 insights
 
 - `INS-260325-0C20` [high] 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find.
+- `INS-260403-DFBC` [high] Future generations will view waiting for symptoms before diagnosing disease the way we view pre-anaesthesia surgery — as needlessly barbaric.
 - `INS-260323-D631` [high] We can now precisely edit DNA like a text editor, but we still lack the postal system to deliver those edits to specific cell types inside the body.
 - `INS-260325-1AB9` [high] Of 7,000+ known genetic diseases, only a handful have FDA-approved gene therapies — the limiting factor is not knowing which genes to fix but getting therapeutic DNA into the right cells.
 - `INS-260402-4A06` [high] Hospital AI adoption is gated by institutional review committees and strict financial ROI proof, not technical merit.

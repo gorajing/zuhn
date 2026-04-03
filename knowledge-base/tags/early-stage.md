@@ -2,11 +2,11 @@
 
 - `INS-260320-20F2` Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
-- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260330-8103` Manually serving early customers feels humiliating but is the fastest path to understanding what your product actually needs to do.
 - `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
-- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
+- `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
 - `INS-260402-D9AC` Manual user-by-user recruitment works because compound weekly growth transforms tiny absolute numbers into massive scale.
+- `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260329-8386` Satisfied early users who refer others are your most powerful growth engine before you have budget or brand recognition.
 - `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
 - `INS-260330-2691` Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people.

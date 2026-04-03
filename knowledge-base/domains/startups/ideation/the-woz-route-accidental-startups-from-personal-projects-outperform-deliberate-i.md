@@ -49,7 +49,6 @@ stance: >-
   Building things for personal use or fun with friends produces higher total
   market cap than sitting down to deliberately brainstorm startup ideas.
 related:
-  - INS-260327-2661
   - INS-260327-4DDE
   - INS-260328-D866
   - INS-260330-DDF0
@@ -59,6 +58,7 @@ related:
   - INS-260402-ED85
   - INS-260402-EE6E
   - INS-260403-7C88
+  - INS-260330-6C68
 evidence:
   - id: INS-260402-ED85
     type: EXTENDS

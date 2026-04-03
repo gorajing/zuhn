@@ -57,7 +57,6 @@ related:
   - INS-260329-3E3A
   - INS-260329-8443
   - INS-260329-BEFB
-  - INS-260330-870B
 stance: >-
   People who score high in financial avoidance save less, carry more
   high-interest debt, and have higher financial stress

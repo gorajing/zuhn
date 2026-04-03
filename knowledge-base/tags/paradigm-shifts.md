@@ -20,5 +20,5 @@
 - `INS-260323-7F5D` Torricelli didn't just create a vacuum -- he reframed the entire question by showing that atmospheric pressure, not nature's horror of emptiness, explained all the phenomena.
 - `INS-260330-E89A` Gravity yielded the Industrial Revolution, electromagnetism produced the Electric Age, and nuclear forces created the Atomic Age — each fundamental force discovery reliably cascades into civilization-scale transformation.
 - `INS-260402-F4E5` Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
-- `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
+- `INS-260329-06F2` $100K is harder than $1M because $100K assumes trading hours for wages — $1M forces you to find entirely different tools and leverage.

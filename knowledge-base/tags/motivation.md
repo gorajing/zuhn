@@ -1,10 +1,10 @@
 # Tag: motivation
 
 - `INS-260329-206D` Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
-- `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - `INS-260330-293E` When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
+- `INS-260327-A052` The Crusade mobilized tens of thousands to march across a continent at their own expense because the spiritual incentive (remission of sins) was more powerful than any paycheck.
 - `INS-260330-C8E2` Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
 - `INS-260330-6418` The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
@@ -23,6 +23,7 @@
 - `INS-260329-FC75` CS50 explicitly frames the struggle of debugging and hitting walls as the core learning experience, not a bug in the pedagogy.
 - `INS-260329-70D5` CS50 uses Scratch (visual blocks) in week 0 to give students immediate creative success before introducing C's syntactic overhead, leveraging early wins to fuel persistence.
 - `INS-260329-177E` The 'Season of No' is a deliberate period of saying no to all social activities and entertainment to create an environment that makes intense work the only option.
+- `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - `INS-260330-45FF` Emotional engagement with a subject accelerates learning 3-4x compared to detached, obligation-driven study.
 - `INS-260402-D9D0` Pointless work doesn't just bore people — it creates lasting aversion to the content, poisoning future engagement.
@@ -31,7 +32,6 @@
 - `INS-260330-BCAF` Extend your positive anticipation to encompass the full habit envelope — before, during, and after — rather than only celebrating completion.
 - `INS-260329-075F` Present the pain point before the solution to create intrinsic motivation for learning the concept.
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
-- `INS-260329-89CB` Optimization reframes calculus from abstract computation to a practical framework for finding the best possible outcome under real-world constraints.
 - `INS-260402-0F45` Aristotle's most consequential error was inferring that because curiosity-driven inquiry is noble, the resulting knowledge should be valued precisely for being useless.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260329-9CCF` Interleaving prerequisite material with advanced content at the point of need — as this calculus course does with algebra corequisites — creates immediate motivation and context that front-loaded prerequisites lack.

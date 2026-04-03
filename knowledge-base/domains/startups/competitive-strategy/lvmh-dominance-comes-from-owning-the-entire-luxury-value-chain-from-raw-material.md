@@ -40,7 +40,6 @@ stance: >-
   chain: they own materials suppliers, manufacturing, brands, and retail
   distribution, capturing margin at every stage.
 related:
-  - INS-260327-0E28
   - INS-260327-6A4B
   - PRI-260328-DF2D
   - INS-260329-C0F1

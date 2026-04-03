@@ -57,9 +57,9 @@ stance: >-
 related:
   - INS-260327-46F6
   - INS-260402-FFB2
+  - INS-260403-5DD7
   - INS-260330-420D
   - INS-260329-CEC5
-  - INS-260327-EF89
 ---
 Language network effects operate through a mechanism distinct from both brand and product quality: social friction. When someone says 'Google it' or 'grab an Uber,' they're issuing a social cue that makes using a competitor feel awkward and jarring. This isn't about brand awareness — it's about the network effect of language itself, where words become more valuable as more people use them, creating winner-take-most dynamics.
 

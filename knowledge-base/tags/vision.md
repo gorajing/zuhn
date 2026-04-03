@@ -7,3 +7,4 @@
 - `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
 - `INS-260325-3F7A` Vision decline tracks mitochondrial loss in retinal cones which can be slowed or reversed with red light fasting and nutrition.
 - `INS-260330-6D59` Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward.
+- `INS-260403-6279` History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.

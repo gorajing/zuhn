@@ -51,10 +51,10 @@ stance: >-
   competitive moats than those who only invest in improving their core product.
 related:
   - INS-260327-91E7
+  - INS-260403-710A
   - INS-260329-1277
   - INS-260323-1D15
   - INS-260327-24D2
-  - INS-260327-CA1C
 ---
 Michelin's Guide is the canonical example: a tire company became the world's most prestigious restaurant rating authority. This wasn't random diversification — it was strategic. The guide increased automobile travel (selling more tires) while building a trust asset so powerful it became more culturally significant than the core product.
 

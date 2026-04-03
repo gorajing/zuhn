@@ -53,7 +53,6 @@ stance: >-
   wrong experience
 related:
   - INS-260327-1C7C
-  - INS-260327-F417
   - INS-260330-410A
   - INS-260327-2BE1
   - INS-260329-B194

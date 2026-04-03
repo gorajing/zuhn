@@ -57,11 +57,11 @@
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260329-1A3B` If prospects reject your free offer, their objections reveal hidden costs that, once eliminated, let you charge premium prices while competitors still impose those costs.
 - `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
+- `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
 - `INS-260330-ABB1` The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
 - `INS-260330-FEB0` The Eastern Empire survived 1,000 years longer than the West primarily because it was richer, more urban, more compact, and closer to major trade routes — not because it had better armies.
 - `INS-260329-FC53` Your results are mostly determined by which vehicle you operate in, not how hard you row.
 - `INS-260330-8D99` Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
-- `INS-260329-476D` Willingness to work on something for 5-10 years is itself a competitive advantage because most founders filter out ideas that won't pay off in two years.
 - `INS-260330-752E` Spend 1-2 months working inside your target industry to surface inefficiencies invisible from the outside.
 - `INS-260330-C215` Spend 1-2 months working inside your target industry to discover exploitable inefficiencies firsthand.

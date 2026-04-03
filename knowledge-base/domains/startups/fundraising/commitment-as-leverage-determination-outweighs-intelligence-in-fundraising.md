@@ -46,7 +46,6 @@ stance: >-
   determined founder than by rational evaluation of the startup's intelligence
   or technology.
 related:
-  - INS-260327-D2A6
   - INS-260328-3959
   - INS-260330-08FA
   - INS-260330-B6FA

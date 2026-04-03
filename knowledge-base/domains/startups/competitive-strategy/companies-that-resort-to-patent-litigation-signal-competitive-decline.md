@@ -47,5 +47,6 @@ related:
   - INS-260328-7CA9
   - INS-260330-AB6F
   - INS-260330-1089
+  - INS-260403-5DD7
 ---
 Paul Graham observes that big companies filing patent suits against smaller ones are almost always companies on the way down—grasping at straws rather than competing on product quality. The analogy is a defender beaten so thoroughly they turn to plead with the referee rather than reaching the ball. This pattern appeared with Unisys enforcing LZW compression patents and Yahoo's puzzling suit against Xfire. The practical implication is twofold: as an investor, patent aggression is a sell signal; as a startup founder, being sued by an incumbent may paradoxically confirm you're winning the real competition for users.

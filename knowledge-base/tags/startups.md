@@ -10,5 +10,6 @@
 - `INS-260321-4E98` Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260402-4633` The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
+- `INS-260403-830F` Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.
 - `INS-260323-BD20` 80% of TwoSpace's 10,000 members already had offices — they were paying for community access and environmental variety, not affordable workspace.
 - `INS-260324-40AA` TwoSpace knocked on 600 restaurant doors before finding their first venue — each rejection taught them market objections that no survey could have revealed.

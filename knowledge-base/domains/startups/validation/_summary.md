@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 76 insights
+> 77 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -29,6 +29,7 @@
 - `INS-260327-CBCB` [high] Rajat worked as a waiter for a year — 16 hours a day inside restaurants — coding, testing the product with real users, and learning the industry from the inside.
 - `INS-260330-56AA` [high] LA validated shade balls with three $5 kiddie pools before spending $34M on 96 million balls — the cheapest test that could falsify the hypothesis.
 - `INS-260403-58BB` [high] Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
+- `INS-260403-7E27` [high] Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
 - `INS-260330-D5BD` [high] Prioritize entering small but rapidly growing markets over large but slow-growing ones, because desperate customers in growing markets tolerate imperfect early products.
 - `INS-260330-E6B7` [high] DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.
 - `INS-260329-3EC3` [high] Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.

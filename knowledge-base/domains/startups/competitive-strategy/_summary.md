@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 386 insights
+> 390 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -10,9 +10,11 @@
 - `INS-260330-0317` [high] Facebook bought WhatsApp for $19B not for its $1.2M revenue but to prevent Google from acquiring it and to absorb its 1B+ user base into the Facebook data ecosystem.
 - `INS-260323-960A` [high] The activist investor playbook — identify underperformance, build external credibility, assemble a coalition, and force accountability — is a universal framework for organizational change.
 - `INS-260325-0895` [high] Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
+- `INS-260403-AC5E` [high] AI's software-only adoption curve means both attackers and incumbents can move faster than during the mobile shift, creating a speed-dependent competitive dynamic.
 - `INS-260327-EE5E` [high] Twitter makes AI agent competition feel intense, but the market is so huge companies rarely encounter actual competitors.
 - `INS-260327-2627` [high] Companies that fired teams and replaced them with AI are now begging workers to come back as they enter the 'find out' phase of discovering most jobs are more nuanced than AI can handle.
 - `INS-260325-73C0` [high] Bret Taylor: AI breaks per-seat SaaS — the new model charges for outcomes (tasks completed, problems solved), not users provisioned.
+- `INS-260403-D62F` [high] AI marketplace defensibility scales with the difficulty of organizing previously offline or fragmented supply, not model sophistication.
 - `INS-260322-9EC6` [high] Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260328-9408` [high] None of the YC mobile winners had pre-iPhone mobile experience; the same pattern is playing out with AI disrupting SaaS.
 - `INS-260324-41D6` [high] Low-cost carriers (Southwest, JetBlue, Spirit) outperformed legacy airlines for a decade, but legacy carriers reclaimed dominance because hub-and-spoke networks create structural lock-in that point-to-point models can't replicate.
@@ -383,6 +385,8 @@
 - `INS-260324-1C12` [medium] The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
 - `INS-260403-3F9C` [medium] Silicon Valley's transformation from charming college town to suburban sprawl creates an opening for competitor cities that preserve urban livability.
 - `INS-260325-E19E` [medium] New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.
+- `INS-260403-160A` [medium] Anti-wealth-creation policies don't eliminate startups — they just push founders to other countries, trading economic dynamism for a lower Gini coefficient.
+- `INS-260403-C381` [medium] Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration.
 - `INS-260330-A561` [medium] Louis Vuitton sued Supreme for copying their logo, then reversed course into a collaboration that produced items reselling for $125,000+.
 - `INS-260327-F0B2` [medium] Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.
 - `INS-260330-A660` [medium] Tax optimization strategies like the Double Irish Dutch Sandwich create temporary advantages that inevitably attract regulatory attention proportional to their scale.

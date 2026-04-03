@@ -43,10 +43,10 @@ stance: >-
   school you attended or what degree you earned.
 related:
   - INS-260329-D8C7
+  - INS-260403-420A
   - INS-260327-FA62
   - INS-260325-8B36
   - INS-260329-4B99
-  - INS-260329-3C67
 evidence:
   - id: INS-260327-FA62
     type: EXTENDS

@@ -196,9 +196,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
@@ -250,6 +250,7 @@ Generated on 2026-04-03 | 2421 sources
 | A Version 1.0 | blog | 5 | 2026-03-31 |
 | Achieve Product-Market Fit with our Brand-New Value Proposition Canvas | blog | 5 | 2026-03-31 |
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
+| AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
 | "All Lawful Use": Much More Than You Wanted To Know | blog | 5 | 2026-03-30 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
 | Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
@@ -257,14 +258,17 @@ Generated on 2026-04-03 | 2421 sources
 | Before the Startup | blog | 5 | 2026-03-31 |
 | Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
+| Best Books for Founders: What Startup Leaders Actually Read | blog | 5 | 2026-03-30 |
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
 | Billionaires Build | blog | 5 | 2026-03-31 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
+| Economic Inequality | blog | 5 | 2026-03-31 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
+| Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
 | Great Hackers | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
 | Hidden VC Fund Secrets Every Founder Should Know | blog | 5 | 2026-03-30 |
@@ -292,6 +296,7 @@ Generated on 2026-04-03 | 2421 sources
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
+| Moltbook: After The First Weekend | blog | 5 | 2026-03-30 |
 | Onion Theory of Risk for Startup Valuation and Funding | blog | 5 | 2026-03-30 |
 | OpenAI’s Product Lead on Winning AI Through Distribution | blog | 5 | 2026-03-30 |
 | Plentiful, high-paying jobs in the age of AI | blog | 5 | 2026-03-30 |
@@ -307,11 +312,13 @@ Generated on 2026-04-03 | 2421 sources
 | Taste for Makers | blog | 5 | 2026-03-31 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
 | The Age of the Essay | blog | 5 | 2026-03-31 |
+| The AI-First Marketplace | blog | 5 | 2026-03-31 |
 | The Best Essay | blog | 5 | 2026-03-31 |
 | The Brand Age | blog | 5 | 2026-03-31 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
 | The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
+| The Future of Web Startups | blog | 5 | 2026-03-31 |
 | The Go-To Pricing Guide for Early-Stage Founders + Toolkit | blog | 5 | 2026-03-30 |
 | The Growth Loop Playbook Used by Top Startups | blog | 5 | 2026-03-30 |
 | The Hacker's Guide to Investors | blog | 5 | 2026-03-31 |
@@ -1609,7 +1616,6 @@ Generated on 2026-04-03 | 2421 sources
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 0 | 2026-03-30 |
 | AI-Powered Fundraising Prep: The Founder’s Tactical Playbook | blog | 0 | 2026-03-30 |
 | AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt) | blog | 0 | 2026-03-31 |
-| AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 0 | 2026-03-30 |
 | AI tools are overdelivering: results from our large-scale AI productivity survey | blog | 0 | 2026-03-31 |
 | Airbnb Business Model | blog | 0 | 2026-03-31 |
 | Airwallex: How an Outsider Built an $8B Fintech Empire | blog | 0 | 2026-03-30 |
@@ -1673,7 +1679,6 @@ Generated on 2026-04-03 | 2421 sources
 | Become an Innovation Expert at the 2020 Strategyzer Bootcamp | blog | 0 | 2026-03-31 |
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
-| Best Books for Founders: What Startup Leaders Actually Read | blog | 0 | 2026-03-30 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 0 | 2026-03-31 |
 | Best Innovation Management Books: 20 Must-Reads for Leaders | blog | 0 | 2026-03-31 |
@@ -1814,7 +1819,6 @@ Generated on 2026-04-03 | 2421 sources
 | Don't Talk to Corp Dev | blog | 0 | 2026-03-31 |
 | Early Work | blog | 0 | 2026-03-31 |
 | Earnestness | blog | 0 | 2026-03-31 |
-| Economic Inequality | blog | 0 | 2026-03-31 |
 | Elena Verna | blog | 0 | 2026-03-26 |
 | Elon Musk sues OpenAI ⚖️, Rethinking the startup MVP 🔄, The Future of Digital Health 🩺, & more! | blog | 0 | 2026-03-30 |
 | Elon Musk, xAI, and the Logic of Vertical Integration | blog | 0 | 2026-03-30 |
@@ -1846,7 +1850,6 @@ Generated on 2026-04-03 | 2421 sources
 | Free AI Hiring Kit for Startup Founders | blog | 0 | 2026-03-30 |
 | Free M&A Accretion Dilution Model 2026: Excel Template for EPS Analysis | blog | 0 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 0 | 2026-03-30 |
-| Frighteningly Ambitious Startup Ideas | blog | 0 | 2026-03-31 |
 | From 0 to 56,500: Celebrating One Year of The VC Corner 🚀🎉 | blog | 0 | 2026-03-30 |
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
 | From Numbers to Narrative: Financial Modeling for Founders 📊 | blog | 0 | 2026-03-30 |
@@ -1985,7 +1988,6 @@ Generated on 2026-04-03 | 2421 sources
 | Meta’s Multi-Billion, Multi-Year Nvidia Partnership | blog | 0 | 2026-03-30 |
 | Microsoft is Dead | blog | 0 | 2026-03-31 |
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
-| Moltbook: After The First Weekend | blog | 0 | 2026-03-30 |
 | Monzo hits $5bn valuation 🚀, A Guide to Founder Salary 💵, Entrepreneurship in Africa 💡, & more! | blog | 0 | 2026-03-30 |
 | Multi-Product In Pictures | blog | 0 | 2026-03-30 |
 | Musk, Trump, and the VCs Picking Sides ⚔️, Thoma Bravo’s Record $34.4B Fundraise💸, VCs Are Funding 2 Things💡 | blog | 0 | 2026-03-30 |
@@ -2129,7 +2131,6 @@ Generated on 2026-04-03 | 2421 sources
 | The 9 Habits of Ultra-Fast Iterations | blog | 0 | 2026-03-31 |
 | The Acceleration of Addictiveness | blog | 0 | 2026-03-31 |
 | The Agrifoodtech Effect 🍽️ | blog | 0 | 2026-03-30 |
-| The AI-First Marketplace | blog | 0 | 2026-03-31 |
 | The AI Spectrum for Founders | blog | 0 | 2026-03-31 |
 | The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
 | The Airbnbs | blog | 0 | 2026-03-31 |
@@ -2168,7 +2169,6 @@ Generated on 2026-04-03 | 2421 sources
 | The future isn't what it used to be | blog | 0 | 2026-03-30 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
 | The Future of Startup Funding | blog | 0 | 2026-03-31 |
-| The Future of Web Startups | blog | 0 | 2026-03-31 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 0 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 0 | 2026-03-30 |

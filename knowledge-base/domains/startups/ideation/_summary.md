@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 59 insights
+> 61 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
@@ -37,8 +37,10 @@
 - `INS-260330-AB6E` [high] Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
 - `INS-260330-7819` [high] Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.
 - `INS-260323-AB5F` [high] Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
+- `INS-260403-D543` [high] The pattern where dramatic cost reduction leads to massive volume increase and new use cases — seen in steel, power, and computing — is now happening to startups themselves.
 - `INS-260321-CCE3` [high] COVID triggered a permanent shift where consumers took responsibility for their own health — vitamin D was the gateway, resistance training brought protein and creatine, and now the supplement-to-peptide pipeline is a mainstream consumer journey.
 - `INS-260325-D624` [high] GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
+- `INS-260403-5441` [high] The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260330-5043` [high] Monitor the delta between what new technology makes possible and how things are currently done — maximum divergence equals maximum startup opportunity.
 - `INS-260321-7109` [high] SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260330-4EF8` [high] A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.

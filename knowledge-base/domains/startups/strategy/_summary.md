@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 134 insights
+> 137 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -27,6 +27,8 @@
 - `INS-260330-0B4A` [high] RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260330-8A28` [high] The Chinese dynastic cycle — founding vigor, prosperity, corruption, collapse — is a recurring pattern in companies and industries.
 - `INS-260323-B0EA` [high] OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
+- `INS-260403-830F` [high] Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.
+- `INS-260403-6279` [high] History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
 - `INS-260322-229C` [high] Most of the world's most successful companies made their real money not from their core product but from a first derivative of it — Union Pacific from land sales, Google from ads on search, Shopify from payments on commerce.
 - `INS-260330-48F2` [high] RuBisCo was optimized for a high-CO2 world, but when photosynthesis itself changed the atmosphere to high-O2, the enzyme started making toxic errors half the time.
 - `INS-260330-3E6B` [high] When an industry's business model is disrupted, the enterprises in that industry need new software — creating opportunities for vertical startups.
@@ -94,6 +96,7 @@
 - `INS-260402-B0AB` [high] You cannot have technical imagination without political imagination — suppressing one suppresses both.
 - `INS-260402-8F1E` [high] Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
 - `INS-260402-CF0A` [high] Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
+- `INS-260403-CF7C` [high] Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.
 - `INS-260330-E180` [high] Putin delayed pension reform for 13 years after vowing never to touch it, then was forced into a more extreme version that caused his worst-ever approval crisis.
 - `INS-260330-5E47` [high] Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
 - `INS-260330-38B9` [high] Singapore explicitly designed its education, healthcare, housing, and legal system to attract multinational corporations — treating the entire nation as a product built for a specific customer segment.

@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 105 insights
+> 106 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -90,6 +90,7 @@
 - `INS-260322-F46F` [high] AI works with data -- if you don't have complete data architecture in place, there's nothing for AI to operate on.
 - `INS-260330-72E1` [high] Plants increased atmospheric oxygen through photosynthesis, which then caused their own key enzyme RuBisCo to fail half the time — a biological case of success undermining itself.
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.
+- `INS-260403-4E23` [medium] A founder measured his team's output before and after acquisition by a competent big company and found a 13x productivity decline from organizational overhead alone.
 - `INS-260329-545B` [medium] Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260330-A1A4` [medium] Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-2D53` [medium] China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.

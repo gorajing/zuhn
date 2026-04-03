@@ -44,7 +44,6 @@ resolutions:
     competitors mature, but it will take time for software ecosystems to catch
     up.
 related:
-  - INS-260322-BBED
   - INS-260327-3B91
   - INS-260322-0E41
   - PRI-260324-36BF
@@ -52,7 +51,6 @@ related:
   - PRI-260328-D5EB
   - INS-260327-473D
   - INS-260329-6D3B
-  - INS-260330-4F2A
   - INS-260330-7ED0
 stance: >-
   Google's TPU (Tensor Processing Unit) is already competitive for AI workloads,

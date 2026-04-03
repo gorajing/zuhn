@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3023 actionable insights
+Generated on 2026-04-03 | 3032 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -260,6 +260,7 @@ Generated on 2026-04-03 | 3023 actionable insights
 
 ## ai-development/platform-shifts
 - [INS-260325-DD43] Open Router revealed that the same model from different providers at different speeds enables entirely different use cases, making deployment selection a first-class product decision.
+- [INS-260403-5DD7] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 
 ## ai-development/product-strategy
 - [INS-260323-5CBE] Founders who ask AI what customers want instead of talking to actual customers end up optimizing for the wrong problem — one founder spent months building a scheduling tool when the real problem was too many pointless meetings.
@@ -1055,6 +1056,7 @@ Generated on 2026-04-03 | 3023 actionable insights
 - [INS-260403-34E0] Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
 - [INS-260403-6890] Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - [INS-260403-5AAC] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
+- [INS-260403-420A] Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1909,6 +1911,7 @@ Generated on 2026-04-03 | 3023 actionable insights
 - [INS-260403-600C] Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic.
 - [INS-260403-FE00] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - [INS-260403-8011] When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
+- [INS-260403-D62F] AI marketplace defensibility scales with the difficulty of organizing previously offline or fragmented supply, not model sophistication.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2587,6 +2590,7 @@ Generated on 2026-04-03 | 3023 actionable insights
 - [INS-260402-1414] Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
 - [INS-260403-699B] Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
 - [INS-260403-C9DC] The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.
+- [INS-260403-5441] The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2699,6 +2703,8 @@ Generated on 2026-04-03 | 3023 actionable insights
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - [INS-260402-15A7] Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.
 - [INS-260403-B6A0] Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
+- [INS-260403-16AB] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
+- [INS-260403-710A] Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -2816,6 +2822,7 @@ Generated on 2026-04-03 | 3023 actionable insights
 - [INS-260330-C95F] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - [INS-260402-3DBF] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 - [INS-260403-E69C] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
+- [INS-260403-9681] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3103,6 +3110,7 @@ Generated on 2026-04-03 | 3023 actionable insights
 - [INS-260403-5BFB] Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - [INS-260403-9DC6] Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - [INS-260403-7DEC] Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
+- [INS-260403-6279] History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3184,6 +3192,7 @@ Generated on 2026-04-03 | 3023 actionable insights
 - [INS-260403-508D] Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - [INS-260403-3E3B] Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - [INS-260403-58BB] Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
+- [INS-260403-7E27] Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

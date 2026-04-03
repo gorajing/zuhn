@@ -47,11 +47,11 @@ stance: >-
   foundations often already exist
 related:
   - INS-260330-8F33
+  - INS-260403-87AC
   - INS-260321-D484
   - INS-260324-DB86
   - INS-260325-3C17
   - PRI-260328-0993
-  - INS-260323-8637
 evidence:
   - id: INS-260323-8637
     type: TRANSFERS_TO

@@ -53,7 +53,6 @@ stance: >-
   factors (cost, capability, reach) have changed dramatically but incumbent
   solutions still reflect the old paradigm.
 related:
-  - INS-260329-1E81
   - INS-260330-5043
   - INS-260330-1F25
   - INS-260330-7AB8

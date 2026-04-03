@@ -48,11 +48,10 @@ stance: >-
   generates press and investor inbound.
 related:
   - INS-260327-7E3D
+  - INS-260403-7E27
   - INS-260330-B6FA
   - INS-260328-372B
   - INS-260330-B09B
-  - INS-260402-E522
-  - INS-260402-2E19
 ---
 Johnson didn't just raise $3.1M—he did it in 14 days as a 21-year-old Yale junior, making it 'the largest round of any startup currently in the Ivy League.' The unconventional approach (a Yale student building an AI social app, raising the biggest Ivy League round) created a story that generated its own momentum.
 

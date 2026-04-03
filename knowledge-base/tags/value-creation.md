@@ -4,8 +4,8 @@
 - `INS-260329-4F04` Experts who previously spent 90% of time generating work now spend that time on quality assurance of AI output, increasing their throughput dramatically.
 - `INS-260327-5D62` AI's biggest contact center opportunity is enabling new customer interactions that couldn't exist before, not just automating existing ones at lower cost.
 - `INS-260326-3D8D` Ng argues that the application layer of the AI stack must, almost by definition, generate more total value than semiconductors, cloud infrastructure, and foundation models combined — making it the largest opportunity for builders.
-- `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
 - `INS-260329-577E` When money arrives faster than feels normal, it indicates a large value gap has been identified — the correct response is to scale, not to question legitimacy.
+- `INS-260329-8329` The core mental model shift for wealth creation is moving from 'how much per hour' to 'what percentage of value created can I capture.'
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260327-F6BA` Taco Bell's CEO Greg Creed never discounted the Crunch Wrap or core items -- instead he created purpose-built products like 99-cent bean burritos and 79-cent cheese roll-ups that were profitable at those prices, preserving the chain's pricing power while competitors destroyed theirs.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.

@@ -10,12 +10,12 @@
 - `INS-260322-38D8` Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
 - `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
 - `INS-260326-A7CB` The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
-- `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
-- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260329-02C5` Derivative rules are compressed patterns derived from the limit definition, and understanding their origin enables flexible problem-solving beyond rote application.
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
 - `INS-260330-DECB` The prime number spirals arise from rational approximations of 2pi in the coordinate system, not from any property of primes themselves.
+- `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
+- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260330-12D5` Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
 - `INS-260330-B68F` JJ, an indigenous guide, can draw 19 conclusions from a single set of animal tracks that a trained Western naturalist sees as just impressions in sand.
 - `INS-260330-0FCC` Disciplinary training creates perceptual filters that make anomalies invisible to insiders but obvious to outsiders.
@@ -28,6 +28,6 @@
 - `INS-260327-8D82` Conrad says the real advantage of doing it a second or third time is not learning from failure but developing judgment about what actually matters versus what feels consequential but isn't.
 - `INS-260403-7C88` Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.
+- `INS-260330-7AB8` Look for moments when dropping costs, new platforms, or infrastructure shifts have made something feasible that remains cumbersome in practice — that gap is your opportunity.
 - `INS-260322-5E5D` Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
-- `INS-260330-7AB8` Look for moments when dropping costs, new platforms, or infrastructure shifts have made something feasible that remains cumbersome in practice — that gap is your opportunity.

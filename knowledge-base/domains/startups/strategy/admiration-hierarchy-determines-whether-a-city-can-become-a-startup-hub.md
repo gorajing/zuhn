@@ -49,10 +49,10 @@ stance: >-
   ranks something else — like finance — above technological power
 related:
   - INS-260402-E140
+  - INS-260403-160A
   - INS-260402-0727
   - INS-260403-C9DC
   - INS-260327-4DDE
-  - INS-260328-982A
 ---
 Graham makes a structural argument about why New York is unlikely to rival Silicon Valley as a startup hub: admiration is a zero-sum game within a city, and each city tends to focus on one dominant type. In New York, the dominant currency is wealth — a billion dollars impresses even if inherited. In Silicon Valley, the currency is power over the world through technology — nobody cares about inherited wealth.
 

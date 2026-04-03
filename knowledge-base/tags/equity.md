@@ -17,3 +17,4 @@
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
 - `INS-260330-A9CB` Demoting an executive preserves their above-market equity while stripping their authority, creating resentment from peers who earn less for doing more.
 - `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
+- `INS-260403-CF7C` Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.

@@ -1,7 +1,7 @@
 # Tag: confidence
 
-- `INS-260330-6DE0` Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
 - `INS-260320-8B06` Letting dogs make small choices -- which toy to play with, which direction to walk, whether to engage or rest -- builds confidence and reduces anxiety-driven behaviors.
+- `INS-260330-6DE0` Zimbabwe's hyperinflation persisted because citizens' expectation of rising prices became the primary driver of rising prices, creating an irreversible feedback loop.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260327-4367` The people most confident in their opinions are statistically likely to be the least informed, while genuine experts are plagued by awareness of how much they don't know.
 - `INS-260330-A3AF` Confidence problems are usually domain-specific, meaning the person already has the psychological machinery — they just need to extend it to the problem area.

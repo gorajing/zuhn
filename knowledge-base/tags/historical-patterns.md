@@ -5,5 +5,6 @@
 - `INS-260323-874F` The 1947 UN partition of Palestine — an international body proposing a democratic compromise that one side rejects — established a recurring pattern in modern geopolitical conflict resolution.
 - `INS-260330-8950` WWII forced the question of whether Western industrial progress actually represents moral progress, revealing that advanced capability enables advanced destruction.
 - `INS-260330-E811` Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
+- `INS-260403-D543` The pattern where dramatic cost reduction leads to massive volume increase and new use cases — seen in steel, power, and computing — is now happening to startups themselves.
 - `INS-260330-13EE` Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.

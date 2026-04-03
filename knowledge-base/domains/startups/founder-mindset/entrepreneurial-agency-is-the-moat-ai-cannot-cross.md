@@ -55,12 +55,12 @@ related:
   - INS-260323-C4E2
   - INS-260325-3A24
   - INS-260327-0053
-  - INS-260329-6BE8
   - INS-260329-3924
   - INS-260329-723A
   - INS-260327-9C00
   - INS-260403-6890
   - INS-260402-E140
+  - INS-260403-5441
 ---
 Naval frames entrepreneurial agency as diametrically opposed to job-holding: entrepreneurs operate in unknown domains with extreme self-direction, making any helpful AI an ally rather than a threat. The key insight is structural — AI lacks its own desires, survival instinct, and replication drive, which means it cannot independently identify what problems to solve or why they matter.
 

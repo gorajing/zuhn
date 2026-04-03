@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 21 insights
+> 22 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -20,6 +20,7 @@
 - `INS-260330-7168` [high] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
 - `INS-260330-9231` [high] Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth.
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
+- `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260330-6D59` [medium] Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward.
 - `INS-260330-C95F` [medium] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - `INS-260330-2AA7` [medium] Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.

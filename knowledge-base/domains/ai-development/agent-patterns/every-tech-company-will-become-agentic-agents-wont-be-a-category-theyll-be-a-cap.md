@@ -53,10 +53,10 @@ resolutions:
     tech companies.
 related:
   - INS-260327-6807
+  - INS-260403-87AC
   - INS-260327-25D7
   - INS-260330-9346
   - PRI-260328-82BE
-  - INS-260322-BBED
 stance: Agents will follow the same path as 'internet companies' in the 1990s
 evidence:
   - id: INS-260327-6807

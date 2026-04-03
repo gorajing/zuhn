@@ -56,6 +56,6 @@ related:
   - INS-260327-7AB5
   - INS-260329-CABE
   - INS-260329-B6DF
-  - INS-260330-7ECB
+  - INS-260403-906E
 ---
 From Square's evolution from a single payments product to 11 products each doing $50M+ in revenue, Rajaram learned that multi-product portfolios create compounding defensibility. The key insight: explicitly designate which products are profit-pool products and which are retention products. Square Capital didn't make much money but dramatically improved merchant retention because it was naturally adjacent (built on payment flow data for underwriting). When teams don't know which category their product serves, they optimize for the wrong outcomes. Robinhood now has 13 product lines doing $100M+ each; Coinbase has 12. Single-product companies can't reach $10B+ scale.

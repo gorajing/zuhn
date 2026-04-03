@@ -1,6 +1,7 @@
 # Tag: apple
 
 - `INS-260330-1319` Apple had to make iTunes shuffle less random because true randomness produced clusters that felt intentional to users.
+- `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
 - `INS-260325-A54F` Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260330-8326` Apple's refusal to make large acquisitions is its competitive advantage, not a missed opportunity.
 - `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.

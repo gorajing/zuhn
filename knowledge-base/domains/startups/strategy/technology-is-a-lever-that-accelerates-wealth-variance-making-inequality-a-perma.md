@@ -51,14 +51,16 @@ stance: >-
   inequality will increase regardless of policy interventions short of
   discouraging wealth creation itself
 related:
-  - INS-260325-EBC3
   - INS-260327-1D3D
   - INS-260330-B906
   - INS-260330-B306
+  - INS-260403-830F
+  - INS-260403-420A
   - INS-260402-A999
   - INS-260402-8F1E
-  - INS-260403-EEDF
   - INS-260402-6D5E
+  - INS-260403-EEDF
+  - INS-260403-CF54
 evidence:
   - id: INS-260325-EBC3
     type: EXTENDS

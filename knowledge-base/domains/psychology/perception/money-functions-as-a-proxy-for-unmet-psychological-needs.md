@@ -46,7 +46,6 @@ stance: >-
   financial rationality.
 related:
   - INS-260323-1FC1
-  - INS-260323-1338
   - INS-260327-C316
   - INS-260330-353B
   - INS-260329-0B9D

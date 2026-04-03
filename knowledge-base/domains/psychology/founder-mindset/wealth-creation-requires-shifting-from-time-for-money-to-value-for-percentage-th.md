@@ -48,12 +48,12 @@ stance: >-
   change for building wealth.
 related:
   - INS-260329-34A9
-  - INS-260329-BF96
   - INS-260329-5257
   - INS-260330-228D
   - INS-260402-6D5E
   - INS-260330-B906
-  - PRI-260328-8317
+  - INS-260329-BF96
+  - INS-260403-160A
 evidence:
   - id: INS-260329-3489
     type: TRANSFERS_TO

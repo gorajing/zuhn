@@ -2,8 +2,8 @@
 
 - `INS-260323-A55A` AI outputs are 'episodes' (trendy, replaceable, no pain) while human creative work builds 'narratives' (time-intensive, suffering-accumulated) — and only narratives carry the 'aura' of authenticity that Benjamin defined as presence born from spatial, temporal, and symbolic distance.
 - `INS-260327-E41B` When machines can match our minds, the premium shifts to our hearts; digital minds become the filter for who earns access to your real attention and energy.
-- `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
+- `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
 - `INS-260325-36EA` Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
 - `INS-260327-8B1A` You can't know yourself in others' company because social settings automatically activate performance mode.

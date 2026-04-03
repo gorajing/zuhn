@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 220 insights
+> 221 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -150,6 +150,7 @@
 - `INS-260330-9FA5` [high] The Mandate of Heaven explained dynastic change through moral failure, creating an unfalsifiable narrative that persisted for 3,000 years.
 - `INS-260325-36EA` [high] Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
 - `INS-260330-E4FA` [high] The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
+- `INS-260403-CF54` [high] The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality.
 - `INS-260330-F60B` [high] An event rare for the average person can be common for a specific person whose life circumstances concentrate the relevant probability — Walter Summerford was struck by lightning three times because he was an avid outdoor sportsman, not because he was cosmically unlucky.
 - `INS-260330-51D1` [high] Walter Summerford was struck by lightning three times not because of cosmic fate, but because as an avid outdoor sportsman his exposure probability was orders of magnitude higher than average.
 - `INS-260330-66E6` [high] Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.

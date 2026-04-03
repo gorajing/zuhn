@@ -14,11 +14,12 @@
 - `INS-260330-C9C6` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students — markets so small they seemed worthless, but they enabled 25-60% penetration in months before expanding concentrically.
 - `INS-260330-568A` Successful startups dominate a tiny market first — PayPal took 25-30% of eBay power sellers in 2-3 months, Facebook went 0 to 60% at Harvard in 10 days — then expanded concentrically.
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
+- `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 - `INS-260330-3431` Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-D071` Apple's refusal to make cheaper phones caps India market share at ~1% despite massive demand.
 - `INS-260330-660A` Apple's refusal to offer affordable tiers in India resulted in ~1% market share despite massive demand, showing premium-only strategies fail in price-sensitive markets.
 - `INS-260330-A1DB` India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.
 - `INS-260330-F23F` India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
 - `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
-- `INS-260330-391C` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.
 - `INS-260330-39C6` Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
+- `INS-260330-391C` PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.

@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260330-08FA
   - INS-260330-B09B
+  - INS-260403-CF7C
+  - INS-260403-7E27
   - INS-260327-BA93
-  - INS-260322-0C91
-  - INS-260327-D2A6
 ---
 Paul Graham identifies a phase transition in startup dynamics: when a company crosses from burning cash to covering founders' basic living expenses (even at trivially small revenue like $2K/month), the entire fundraising dynamic flips. Investors are drawn to startups that don't need them, because the qualities that produce self-sufficiency — discipline, frugality, revenue focus — are the same qualities that predict long-term success.
 

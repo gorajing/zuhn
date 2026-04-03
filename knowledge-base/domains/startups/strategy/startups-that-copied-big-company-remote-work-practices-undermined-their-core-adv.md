@@ -54,9 +54,9 @@ related:
   - INS-260327-27DA
   - INS-260326-967C
   - PRI-260328-59DC
+  - INS-260403-C381
   - INS-260330-DD63
   - INS-260325-57CA
-  - INS-260329-2BCC
   - INS-260402-73D9
 ---
 Michael makes a nuanced distinction: large companies are inherently remote because once you pass a certain headcount, the probability that your three closest collaborators sit near you approaches zero. The remote-vs-in-person debate was always really about startups, where colocation is one of the few structural advantages a small team has over a large organization.
