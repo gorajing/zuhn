@@ -46,10 +46,10 @@ resolutions:
     it lets startups readjust strategy or move to the next partner.
 related:
   - INS-260327-10A2
+  - INS-260403-5D89
   - INS-260330-AF2B
   - INS-260327-1576
   - PRI-260328-99F0
-  - INS-260327-C15B
 stance: >-
   The Department of War is replacing cost-plus contracts with 1000-requirement
   RFPs with simple firm-fixed-price requirements

@@ -54,7 +54,6 @@ stance: >-
   complementary, not substitutes
 related:
   - INS-260325-FDF5
-  - INS-260322-FCFC
   - INS-260321-4E98
   - INS-260327-B357
   - INS-260327-735A
@@ -63,6 +62,7 @@ related:
   - INS-260330-DE2B
   - INS-260330-760D
   - INS-260330-EEA9
+  - INS-260330-6611
 evidence:
   - id: INS-260325-FDF5
     type: REFINES

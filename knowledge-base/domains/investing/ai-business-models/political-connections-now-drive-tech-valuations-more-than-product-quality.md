@@ -47,10 +47,10 @@ stance: >-
   product quality or financial performance.
 related:
   - INS-260327-CFE5
+  - INS-260403-5D89
   - INS-260324-A9DF
   - PRI-260328-82BE
   - PRI-260322-8FD4
-  - PRI-260323-7B35
 evidence:
   - id: INS-260324-A9DF
     type: CHALLENGES

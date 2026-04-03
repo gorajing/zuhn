@@ -143,8 +143,8 @@ Generated on 2026-04-03 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | 2504.19874v1 | pdf | 8 | 2026-03-26 |
+| After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -196,10 +196,10 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
@@ -235,12 +235,13 @@ Generated on 2026-04-03 | 2421 sources
 | Why Texas BBQ Joints Rarely Survive | youtube | 6 | 2026-03-24 |
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
+| 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
 | 2023 Annual Letter | blog | 5 | 2026-03-30 |
 | 2024 Annual Letter | blog | 5 | 2026-03-30 |
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
+| 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
 | A Fundraising Survival Guide | blog | 5 | 2026-03-31 |
 | A Plan for Spam | blog | 5 | 2026-03-31 |
@@ -289,6 +290,7 @@ Generated on 2026-04-03 | 2421 sources
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
 | How to Think for Yourself | blog | 5 | 2026-03-31 |
+| How to Work Hard | blog | 5 | 2026-03-31 |
 | Ideas for Startups | blog | 5 | 2026-03-31 |
 | If AI is a weapon, why don't we regulate it like one? | blog | 5 | 2026-03-30 |
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
@@ -306,11 +308,15 @@ Generated on 2026-04-03 | 2421 sources
 | Roundup #78: Roboliberalism | blog | 5 | 2026-03-30 |
 | Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
 | Save us, Digital Cronkite! | blog | 5 | 2026-03-30 |
+| See New Marketplaces Where Others See Crowds: The Inside Story of A.Team | blog | 5 | 2026-03-31 |
+| Slightly Against The "Other People's Money" Argument Against Aid | blog | 5 | 2026-03-30 |
+| SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
 | Taste for Makers | blog | 5 | 2026-03-31 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
+| The $2 Trillion Founder Playbook: The Untold Story of How Larry Page Reclaimed Google | blog | 5 | 2026-03-30 |
 | The Age of the Essay | blog | 5 | 2026-03-31 |
 | The AI-First Marketplace | blog | 5 | 2026-03-31 |
 | The Best Essay | blog | 5 | 2026-03-31 |
@@ -1500,7 +1506,6 @@ Generated on 2026-04-03 | 2421 sources
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 0 | 2026-03-31 |
 | 3 Ways Color-Coding Can Improve Story-Telling In Your Business Model Canvas | blog | 0 | 2026-03-31 |
 | 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 0 | 2026-03-31 |
-| 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 0 | 2026-03-31 |
 | 300+ VCs That Accept Cold Pitches — No Warm Intro Needed for Funding in 2025 | blog | 0 | 2026-03-30 |
 | 35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley | blog | 0 | 2026-03-31 |
 | 350+ Places to Post Your Startup: The Ultimate Launch List | blog | 0 | 2026-03-30 |
@@ -1927,7 +1932,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 0 | 2026-03-30 |
 | How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 0 | 2026-03-30 |
-| How to Work Hard | blog | 0 | 2026-03-31 |
 | How to Write a Top 1% Cold DM to Investors | blog | 0 | 2026-03-30 |
 | How to Write Usefully | blog | 0 | 2026-03-31 |
 | How Trump’s 2025 Tariffs Could Reshape Startups | blog | 0 | 2026-03-30 |
@@ -2065,7 +2069,6 @@ Generated on 2026-04-03 | 2421 sources
 | San Francisco's urban revival is in danger | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
 | Schlep Blindness | blog | 0 | 2026-03-31 |
-| See New Marketplaces Where Others See Crowds: The Inside Story of A.Team | blog | 0 | 2026-03-31 |
 | See Randomness | blog | 0 | 2026-03-31 |
 | Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 0 | 2026-03-30 |
 | Seed Strapping: A Smarter Startup Funding Strategy | blog | 0 | 2026-03-30 |
@@ -2079,14 +2082,12 @@ Generated on 2026-04-03 | 2421 sources
 | Shield AI Air Force Deal, Google's TurboQuant, and Meta's Brain-Predictive AI | blog | 0 | 2026-03-30 |
 | Short Dive: The Trump Administration's Fiscal Strategy | blog | 0 | 2026-03-30 |
 | Six Principles for Making New Things | blog | 0 | 2026-03-31 |
-| Slightly Against The "Other People's Money" Argument Against Aid | blog | 0 | 2026-03-30 |
 | Smaller Funds Outperform📈, When Machines Learn to Speak🗣️, Venture Trends Q1 2025📊 | blog | 0 | 2026-03-30 |
 | Snapshot: Viaweb, June 1998 | blog | 0 | 2026-03-31 |
 | Software with a Soul: AI's Underestimated Frontier | blog | 0 | 2026-03-31 |
 | Solo Founders Take the Lead🔥, Startup Market Report📊, Projected 2026 IPOs🚀 | blog | 0 | 2026-03-30 |
 | Some Heroes | blog | 0 | 2026-03-31 |
 | Something feels weird about this economy | blog | 0 | 2026-03-30 |
-| SOTA On Bay Area House Party | blog | 0 | 2026-03-30 |
 | SpaceX-xAI Merger: The $1.25T Company | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
 | Sponsorships | blog | 0 | 2026-03-30 |
@@ -2125,7 +2126,6 @@ Generated on 2026-04-03 | 2421 sources
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
 | The 100+ Pitch Decks That Raised Over $2B 💰 | blog | 0 | 2026-03-30 |
 | The $100B Question: How SaaS Giants Are Rewriting the Rules of Value with AI in 2025  | blog | 0 | 2026-03-30 |
-| The $2 Trillion Founder Playbook: The Untold Story of How Larry Page Reclaimed Google | blog | 0 | 2026-03-30 |
 | The 49-Year Unicorn Backlog🦄, AI has a gross margin problem🤖, The Path to CFO📚 | blog | 0 | 2026-03-30 |
 | The 60-year-old code behind $5 trillion in healthcare | blog | 0 | 2026-03-30 |
 | The 9 Habits of Ultra-Fast Iterations | blog | 0 | 2026-03-31 |

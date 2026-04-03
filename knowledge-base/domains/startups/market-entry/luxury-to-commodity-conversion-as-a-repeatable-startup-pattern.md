@@ -50,15 +50,15 @@ stance: >-
   new markets because radical price drops cause qualitative shifts in how people
   use the product.
 related:
-  - INS-260321-52EF
   - INS-260327-31A7
   - INS-260327-FC4F
   - INS-260327-0755
   - INS-260330-A9F0
+  - INS-260403-5D89
   - INS-260403-58BB
   - INS-260403-D543
+  - INS-260321-52EF
   - INS-260327-82AA
-  - INS-260330-255F
 evidence:
   - id: INS-260321-52EF
     type: SUPPORTS

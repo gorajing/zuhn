@@ -6,8 +6,8 @@
 - `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
 - `INS-260403-B12E` Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
-- `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
+- `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260326-3C9C` Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260329-95EA` Leading with a real negative before a positive ('but') makes the positive far more convincing because it signals honesty.
 - `INS-260329-4020` Give massive value for free to 100 people without asking for anything — a handful will respond, creating more income than most jobs and establishing genuine credibility.

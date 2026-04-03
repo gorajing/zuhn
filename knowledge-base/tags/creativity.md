@@ -38,11 +38,11 @@
 - `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
-- `INS-260327-6F12` The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
-- `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
 - `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
 - `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
+- `INS-260327-6F12` The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
+- `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
 - `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-7F3E` True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.

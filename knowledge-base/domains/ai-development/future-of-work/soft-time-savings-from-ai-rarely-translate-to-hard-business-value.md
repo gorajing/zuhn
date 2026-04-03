@@ -40,7 +40,6 @@ resolutions:
     workers already understood and were motivated to solve these problems. The
     lesson: measure AI value by capabilities unlocked, not time saved.
 related:
-  - INS-260322-FD23
   - INS-260328-E410
   - INS-260321-A56C
   - INS-260330-4CA7

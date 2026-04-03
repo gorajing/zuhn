@@ -1,0 +1,3 @@
+# Tag: ambidexterity
+
+- `INS-260403-F0DF` Splitting the CEO role into a chief execution officer and a chief entrepreneur resolves the explore-exploit tension structurally rather than hoping one person can do both.

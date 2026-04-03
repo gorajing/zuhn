@@ -49,10 +49,10 @@ stance: >-
   boring and repetitive.
 related:
   - PRI-260328-024A
+  - INS-260403-A06E
   - PRI-260328-094A
   - INS-260327-9693
   - PRI-260328-4313
-  - INS-260327-2F75
 evidence:
   - id: INS-260327-9693
     type: CHALLENGES

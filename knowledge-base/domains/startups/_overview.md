@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 2424 insights across 31 topics
+> 2435 insights across 31 topics
 
 ## Topics
 
@@ -16,7 +16,7 @@
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | engineering | 12 | Building height is capped by when base materials crush under their own weight, making material science the true bottleneck. |
 | execution | 182 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
-| founder-mindset | 279 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
+| founder-mindset | 280 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
 | founder-psychology | 45 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 77 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
 | growth | 52 | Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve. |
@@ -25,15 +25,15 @@
 | health-innovation | 10 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
 | hiring | 25 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 61 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| leadership | 152 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
-| market-entry | 17 | AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing. |
+| leadership | 154 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
+| market-entry | 20 | AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing. |
 | mental-models | 4 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | problem-solving | 6 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product-development | 125 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
-| product-strategy | 22 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
+| product-strategy | 23 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
 | quality | 10 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 173 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
-| scaling | 106 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
-| strategy | 137 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| scaling | 107 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
+| strategy | 138 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 38 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 77 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 79 | Pretty much 100% of startups that make something popular manage to make money from it. |

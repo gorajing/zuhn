@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260321-C0A4
   - INS-260329-AAE3
+  - INS-260403-5D18
   - INS-260329-3FF3
   - INS-260329-EC01
-  - INS-260402-2A1D
   - INS-260330-51D1
 evidence:
   - id: INS-260330-51D1

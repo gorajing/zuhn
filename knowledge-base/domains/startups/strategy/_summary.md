@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 137 insights
+> 138 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -57,6 +57,7 @@
 - `INS-260329-FC53` [high] Your results are mostly determined by which vehicle you operate in, not how hard you row.
 - `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
 - `INS-260329-3BEE` [high] The market you operate in constrains your upside more than your effort level does.
+- `INS-260403-FB8E` [high] Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
 - `INS-260403-7DEC` [high] Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
 - `INS-260330-9E26` [high] Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.

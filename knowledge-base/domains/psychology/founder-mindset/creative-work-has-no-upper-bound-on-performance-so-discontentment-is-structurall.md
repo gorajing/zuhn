@@ -57,5 +57,6 @@ related:
   - INS-260327-E7B8
   - INS-260329-640C
   - PRI-260322-CF2B
+  - INS-260403-8A8B
 ---
 Graham distinguishes two types of work: choosing between presented alternatives (bounded performance—pick the best option and you've played a perfect game) versus inventing new things (unbounded performance—there's always something better you could have made). Ancient societies were dominated by bounded work, which is why ancient philosophers could plausibly claim the wise person is always contented. But as knowledge specializes, more work becomes unbounded and creative. In this regime, discontentment is structural: you can never know if you've done the best possible work because there is no best. Graham's reframe—'if you feel exhausted, maybe you're just running fast'—is genuinely therapeutic. It separates the signal (pushing creative limits) from the noise (assuming something is wrong with you) and suggests the productive response is to compartmentalize the frustration rather than eliminate it.

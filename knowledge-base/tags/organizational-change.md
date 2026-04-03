@@ -4,4 +4,5 @@
 - `INS-260321-9A03` Workers who see their employer as invested in them are more optimistic about AI. Building trust in AI may require building trust in the people deploying it, more than changing attitudes toward the technology.
 - `INS-260323-F15D` When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
 - `INS-260327-968C` Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
+- `INS-260403-6061` Innovation culture transformation at scale takes 3-5 years with committed leadership; without leadership commitment, it takes forever.
 - `INS-260327-0D0B` Plan for your company to break at every headcount doubling—the breakage is a feature, not a bug.

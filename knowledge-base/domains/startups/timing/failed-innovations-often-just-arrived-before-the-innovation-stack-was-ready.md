@@ -53,6 +53,7 @@ related:
   - INS-260330-6C68
   - INS-260330-19F1
   - INS-260329-B0BA
+  - INS-260403-FB8E
 ---
 Naval's observation about 1999 dot-com failures perfectly illustrates this: Webvan, Kozmo, and Pets.com all crashed, but Instacart, Postmates, DoorDash, and Chewy succeeded with essentially the same ideas a decade later. The difference wasn't the idea — it was that smartphones, GPS, mobile payments, and logistics infrastructure now existed as 'shoulders of giants' to stand on.
 

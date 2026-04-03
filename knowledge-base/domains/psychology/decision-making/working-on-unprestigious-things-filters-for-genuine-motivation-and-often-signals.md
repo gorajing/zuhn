@@ -51,11 +51,11 @@ stance: >-
   a predictor of hidden opportunity because prestigious paths attract impure
   motives that lead ambitious people astray.
 related:
+  - INS-260403-A06E
   - INS-260330-1C90
   - INS-260403-94C4
   - INS-260329-F21F
   - INS-260402-8223
-  - INS-260402-9093
   - INS-260402-0392
 evidence:
   - id: INS-260330-1C90

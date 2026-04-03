@@ -48,7 +48,6 @@ stance: >-
   hunter-gatherers who survived childhood infections routinely reached 68-78,
   suggesting modern chronic disease is not inevitable with aging
 related:
-  - INS-260326-8B81
   - INS-260325-9E0C
   - INS-260327-1F6A
   - INS-260327-5AF9

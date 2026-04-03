@@ -46,7 +46,6 @@ resolutions:
     choosing your network wisely matters so much -- you're not just affecting
     your own outcomes, you're potentially tipping an entire system.
 related:
-  - INS-260325-4793
   - INS-260325-3A0E
   - INS-260322-2E1C
   - PRI-260323-9928
@@ -56,6 +55,7 @@ related:
   - INS-260325-4EE9
   - INS-260323-4A3D
   - INS-260323-9772
+  - INS-260323-D934
 stance: >-
   Network experiments show the world is 'poised on an edge of instability' where
   one person's choice can tip an entire system toward cooperation or d...

@@ -6,9 +6,9 @@
 - `INS-260330-0982` Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
 - `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
 - `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
-- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260329-6DED` Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
 - `INS-260329-565E` Hormozi ate the same lunch every day for 2 years, treating meal selection as a solved problem to eliminate daily decision fatigue and preserve cognitive bandwidth for business.
+- `INS-260330-E0ED` Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260329-975C` Granular chapter structure gives learners constant progress signals and easy re-entry points, reducing the intimidation of long-form content.
 - `INS-260329-CC79` Automating fundamental operations frees working memory for complex abstractions, making advanced concepts stick rather than crumble.
 - `INS-260329-9AE9` A single continuous learning resource from basics to advanced topics exploits completion bias to push learners further than multi-resource paths.

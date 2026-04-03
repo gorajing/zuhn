@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3032 actionable insights
+Generated on 2026-04-03 | 3043 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1057,6 +1057,7 @@ Generated on 2026-04-03 | 3032 actionable insights
 - [INS-260403-6890] Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - [INS-260403-5AAC] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - [INS-260403-420A] Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
+- [INS-260403-F1C6] Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1067,6 +1068,8 @@ Generated on 2026-04-03 | 3032 actionable insights
 - [INS-260402-607A] Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - [INS-260403-DE28] Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
 - [INS-260403-14D5] You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
+- [INS-260403-A06E] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
+- [INS-260403-D022] Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -2698,6 +2701,7 @@ Generated on 2026-04-03 | 3032 actionable insights
 - [INS-260402-D2C9] You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - [INS-260403-E1AD] Leaders must delay their own questions and create space for others to question first to avoid turning inquiry into implicit commands.
 - [INS-260403-2CA3] Staff around senior leaders naturally filter out uncomfortable or surprising information, creating dangerous blind spots that leaders must actively counteract.
+- [INS-260403-6731] CEO time allocation to innovation is the single strongest predictor of whether innovation programs produce results.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -2705,6 +2709,9 @@ Generated on 2026-04-03 | 3032 actionable insights
 - [INS-260403-B6A0] Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - [INS-260403-16AB] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
 - [INS-260403-710A] Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
+- [INS-260403-CC4E] Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
+- [INS-260403-8A8B] Top talent actively avoided gig platforms not because of low pay but because the work structure itself was fundamentally unappealing — boring solo tasks with no creative fulfillment.
+- [INS-260403-5D89] A.Team gained pricing power by selling to CEOs seeking innovation speed rather than CFOs seeking cost reduction, reframing the same supply as premium rather than commodity.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -2823,6 +2830,7 @@ Generated on 2026-04-03 | 3032 actionable insights
 - [INS-260402-3DBF] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 - [INS-260403-E69C] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - [INS-260403-9681] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
+- [INS-260403-B73A] When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3111,6 +3119,7 @@ Generated on 2026-04-03 | 3032 actionable insights
 - [INS-260403-9DC6] Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - [INS-260403-7DEC] Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
 - [INS-260403-6279] History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
+- [INS-260403-FB8E] Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3193,6 +3202,8 @@ Generated on 2026-04-03 | 3032 actionable insights
 - [INS-260403-3E3B] Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - [INS-260403-58BB] Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - [INS-260403-7E27] Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.
+- [INS-260403-C228] A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
+- [INS-260403-4CE7] Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

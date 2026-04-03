@@ -5,17 +5,18 @@
 - `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
-- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
-- `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
+- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260330-D968` The umma concept superseded tribal allegiance, enabling Islam to unify warring factions into a single expansionary community within two centuries.
+- `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
 - `INS-260330-956E` A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
 - `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
 - `INS-260330-D5FB` Keeping a demoted executive preserves their above-grade equity while signaling that effort without results is enough to maintain senior compensation.
 - `INS-260330-85B8` Genghis Khan's merit-based promotion system was a core innovation enabling the Mongols to build history's largest contiguous empire.
 - `INS-260330-58B9` Genghis Khan built loyalty by promoting on merit and elevating the conquered peasantry while stripping power from incumbent elites.
 - `INS-260329-5306` Organization-wide quiet days eliminate the social penalty makers face when declining meetings, creating protected maker time at scale.
+- `INS-260403-F0DF` Splitting the CEO role into a chief execution officer and a chief entrepreneur resolves the explore-exploit tension structurally rather than hoping one person can do both.
 - `INS-260330-3E3C` Glial cells outnumber neurons 10:1 and make up half the brain's mass, proving that support infrastructure is the majority of any high-performing system.
 - `INS-260329-8ABB` Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.
 - `INS-260330-5B59` Nuclear submarine command uses a triad model splitting strategy, operations, and people leadership across three distinct roles.

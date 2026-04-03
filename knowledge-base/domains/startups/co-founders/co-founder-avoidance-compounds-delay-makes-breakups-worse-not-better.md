@@ -54,7 +54,6 @@ related:
   - INS-260327-A4B1
   - PRI-260328-3BEF
   - INS-260327-B959
-  - INS-260327-6725
   - INS-260330-8550
 ---
 Dalton describes a pattern he sees repeatedly: co-founders spending 8-12 hours a day together but admitting they haven't had a real conversation in weeks or months. At this point, the CEO's job shifts from repairing the relationship to executing the cleanest possible separation. But founders can't bring themselves to act because it 'feels bad.'

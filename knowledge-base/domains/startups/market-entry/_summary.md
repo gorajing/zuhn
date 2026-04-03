@@ -1,13 +1,15 @@
 # Topic: market-entry
 
-> 17 insights
+> 20 insights
 
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
+- `INS-260403-CC4E` [high] Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-710A` [high] Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 - `INS-260402-15A7` [high] Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.
 - `INS-260402-3196` [high] IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260402-580C` [high] Restriction breeds innovation at the edges of incumbent-dominated industries, gradually migrating inward.
 - `INS-260402-C030` [high] A large single-language domestic market lets startups ship simpler MVPs by deferring internationalization.
+- `INS-260403-8A8B` [high] Top talent actively avoided gig platforms not because of low pay but because the work structure itself was fundamentally unappealing — boring solo tasks with no creative fulfillment.
 - `INS-260403-B6A0` [high] Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260330-3431` [high] Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.
 - `INS-260330-D071` [high] Apple's refusal to make cheaper phones caps India market share at ~1% despite massive demand.
@@ -15,6 +17,7 @@
 - `INS-260330-7479` [high] Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250, proving brand prestige alone cannot overcome price-sensitivity at scale.
 - `INS-260330-7EDF` [high] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - `INS-260330-F23F` [high] India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
+- `INS-260403-5D89` [high] A.Team gained pricing power by selling to CEOs seeking innovation speed rather than CFOs seeking cost reduction, reframing the same supply as premium rather than commodity.
 - `INS-260403-FA89` [high] Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
 - `INS-260402-6D5E` [high] Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260330-930D` [medium] Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.

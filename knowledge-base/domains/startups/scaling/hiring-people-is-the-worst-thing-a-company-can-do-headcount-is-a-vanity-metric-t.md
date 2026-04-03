@@ -56,5 +56,6 @@ related:
   - INS-260329-61CF
   - INS-260330-26E7
   - INS-260322-116B
+  - INS-260403-8A8B
 ---
 Graham argues that people are a recurring expense (the worst kind), they force you to grow out of your space into uncool office buildings that worsen your software, and worst of all they slow you down: instead of sticking your head in someone's office to check an idea, eight people have to have a meeting. During the Bubble, startups 'staffed up' as if nothing could get done without the corresponding job title — that's big company thinking. The only reason to hire is to do something you'd like to do but can't. The deeper problem is ego: founders and CEOs like having lots of employees because people use headcount to judge company importance. Reporters ask 'how many employees?' as their way of weighing you. But if two companies have the same revenues, the one with fewer employees is objectively more impressive. The choice between seeming impressive and being impressive is one every nerd recognized in high school.

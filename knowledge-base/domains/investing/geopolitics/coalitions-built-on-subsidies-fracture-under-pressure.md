@@ -47,7 +47,6 @@ stance: >-
   interest tend to collapse when the subsidizing power cannot directly
   participate in the fight.
 related:
-  - INS-260323-7866
   - PRI-260328-FA83
   - INS-260326-2259
   - PRI-260328-7F20

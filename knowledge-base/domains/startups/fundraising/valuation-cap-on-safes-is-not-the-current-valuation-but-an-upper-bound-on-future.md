@@ -59,7 +59,6 @@ related:
   - INS-260329-6079
   - INS-260328-4EA0
   - INS-260330-808B
-  - INS-260330-ACE7
 evidence:
   - id: INS-260330-808B
     type: TRANSFERS_TO

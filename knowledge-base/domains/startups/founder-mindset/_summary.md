@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 279 insights
+> 280 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -33,6 +33,7 @@
 - `INS-260321-1A99` [high] After the Cold War, defense consolidated from 51 primes to 5 — the real damage wasn't lost competition but financialization that expelled all the founders and heretics.
 - `INS-260327-E63E` [high] Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-1338` [high] Even if we perfectly redistributed wealth, the deeper crisis is that society accords prestige to those who manage symbols and money rather than those who produce real value.
+- `INS-260403-5D18` [high] Some people converge on their life's work early like Mozart, while others like Newton restlessly explore multiple fields — both paths can produce great work, and the 'single calling' narrative is often hindsight bias.
 - `INS-260323-2F50` [high] Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
 - `INS-260329-5A47` [high] Ignorance isn't a one-time cost — it's a recurring debt that compounds against you every period you don't learn.
 - `INS-260323-810D` [high] At 54 with grown children and strong convictions, Carlson finds that pure curiosity ('I was just interested') is the most sustainable and honest driver -- outlasting career anxiety, reputation management, and fear.

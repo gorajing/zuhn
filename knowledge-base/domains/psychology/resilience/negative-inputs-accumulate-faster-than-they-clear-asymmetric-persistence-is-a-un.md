@@ -54,11 +54,11 @@ stance: >-
   persist disproportionately longer than the conditions that created them,
   creating invisible legacy effects
 related:
+  - INS-260403-6061
   - INS-260325-1C7F
   - INS-260330-96FE
   - PRI-260325-496E
   - INS-260330-AC16
-  - INS-260327-7B16
 evidence:
   - id: INS-260327-7B16
     type: SUPPORTS

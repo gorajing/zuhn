@@ -55,7 +55,6 @@ stance: >-
   reframe economic participation as an expression of human nature and personal
   identity
 related:
-  - INS-260325-636B
   - INS-260323-2627
   - INS-260327-A59A
   - INS-260327-E07A
@@ -65,6 +64,7 @@ related:
   - INS-260330-BA3A
   - INS-260330-F6DB
   - PRI-260328-0C15
+  - PRI-260328-BF1E
 evidence:
   - id: INS-260330-F6DB
     type: SUPPORTS

@@ -45,11 +45,11 @@ stance: >-
   not an indulgence, because the etymology of 'creation' and 'recreation'
   reflects a genuine causal relationship.
 related:
+  - INS-260403-D022
   - INS-260329-4253
+  - INS-260403-6731
   - INS-260329-F04B
   - INS-260329-3473
-  - PRI-260323-57AC
-  - PRI-260328-4000
 ---
 Organizations need to provide both space for failure and recovery space after failure. The link between 'creation' and 'recreation' is not just etymological but functional: recovery periods contribute directly to creativity, productivity, and happiness in the long term. This means rest after failure is not an indulgence but a productive investment.
 

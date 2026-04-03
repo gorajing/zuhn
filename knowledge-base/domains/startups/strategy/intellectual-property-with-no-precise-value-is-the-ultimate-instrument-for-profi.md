@@ -50,10 +50,10 @@ stance: >-
   impossible for regulators to challenge.
 related:
   - INS-260330-8FEC
+  - INS-260403-5D89
   - INS-260330-1B6E
   - INS-260322-837A
   - PRI-260323-7B35
-  - INS-260330-AF2B
 evidence:
   - id: INS-260330-8FEC
     type: SUPPORTS

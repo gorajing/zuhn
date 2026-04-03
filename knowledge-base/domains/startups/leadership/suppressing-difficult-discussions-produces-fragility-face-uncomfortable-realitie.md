@@ -53,6 +53,7 @@ related:
   - INS-260329-E45A
   - PRI-260323-C49D
   - INS-260329-613F
+  - INS-260403-D56B
 stance: Teachers get fired for teaching context about the N-word in literature
 evidence:
   - id: INS-260322-DAA1

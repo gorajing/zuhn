@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 214 insights
+> 215 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -118,6 +118,7 @@
 - `INS-260329-7A7F` [high] Delayed punishment or reward trains the behavior closest to the consequence, not the behavior you intended to shape.
 - `INS-260329-3CB6` [high] Master an existing system by exact replication first — earn the right to iterate by proving you can duplicate the original results.
 - `INS-260330-BCAF` [high] Extend your positive anticipation to encompass the full habit envelope — before, during, and after — rather than only celebrating completion.
+- `INS-260403-D56B` [high] School adapts subjects so heavily for teaching that students never encounter what real work in those fields actually looks like, delaying genuine career discovery.
 - `INS-260403-B7FA` [high] Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - `INS-260330-B904` [high] Analyzing the simplest possible case first builds intuition that abstract proofs alone cannot provide.
 - `INS-260330-27A4` [high] Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.

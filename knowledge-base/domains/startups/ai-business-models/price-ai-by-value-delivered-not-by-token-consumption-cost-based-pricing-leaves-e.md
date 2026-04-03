@@ -52,12 +52,11 @@ resolutions:
 related:
   - INS-260325-206C
   - INS-260325-4FF3
+  - INS-260403-5D89
   - INS-260327-C15B
   - INS-260321-AA91
   - PRI-260328-70D9
-  - PRI-260328-935B
   - INS-260327-7BE4
-  - INS-260329-8F7C
   - INS-260330-8639
 stance: >-
   AI application companies should price by business value delivered or

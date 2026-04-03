@@ -6,8 +6,8 @@
 - `INS-260323-BF81` Altman believes AI tools now enable a single person to build a company worth over a billion dollars, delivering products that previously required teams of hundreds.
 - `INS-260322-7723` AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
 - `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
-- `INS-260402-27A1` A failed startup teaches more founder skills in one year than several years at a big company.
 - `INS-260321-4E98` Horizontal consumer AI agents like Manus grow explosively but face acquisition by big tech because once agentic capabilities become commoditized, distribution and existing enterprise contracts become the deciding moat.
+- `INS-260402-27A1` A failed startup teaches more founder skills in one year than several years at a big company.
 - `INS-260402-237D` Build what you personally need, even if it seems niche — Wozniak built himself a computer.
 - `INS-260402-4633` The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part.
 - `INS-260403-830F` Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.

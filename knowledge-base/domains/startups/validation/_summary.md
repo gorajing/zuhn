@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 77 insights
+> 79 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -75,7 +75,9 @@
 - `INS-260403-508D` [medium] Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - `INS-260330-22D6` [medium] Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
 - `INS-260329-1739` [medium] Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
+- `INS-260403-C228` [medium] A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260328-372B` [medium] Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.
 - `INS-260329-DFD1` [medium] TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence.
+- `INS-260403-4CE7` [medium] Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.
 - `INS-260329-FB3F` [medium] TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
 - `INS-260323-09E4` [medium] When everyone agrees your startup idea is great, someone has probably already built it; when everyone thinks it's crazy, you may be onto something real.
