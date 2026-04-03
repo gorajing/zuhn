@@ -3,12 +3,12 @@ Generated on 2026-04-03 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 142 | 2026-03-30 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 146 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 30 | 2026-03-31 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
 | Python for Everybody - Full University Python Course | youtube | 30 | 2026-03-29 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 25 | 2026-03-31 |
 | C# Tutorial - Full Course for Beginners | youtube | 25 | 2026-03-29 |
 | Exponential growth and epidemics | youtube | 25 | 2026-03-30 |
 | Harvard CS50’s Introduction to Programming with Python – Full University Course | youtube | 25 | 2026-03-29 |
@@ -21,6 +21,7 @@ Generated on 2026-04-03 | 2421 sources
 | Lecture 18 - Legal and Accounting Basics for Startups (Kirsty Nathoo, Carolynn Levy) | youtube | 24 | 2026-03-31 |
 | Is Earth Actually Flat? | youtube | 23 | 2026-03-30 |
 | Lecture 6 - Growth (Alex Schultz) | youtube | 21 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 20 | 2026-03-31 |
 | Hiring is Obsolete | blog | 20 | 2026-03-31 |
 | C++ Tutorial for Beginners - Full Course | youtube | 20 | 2026-03-29 |
 | The “heroic dose” of psychedelics, according to Johns Hopkins | Dr. Matthew Johnson | youtube | 20 | 2026-03-30 |
@@ -31,7 +32,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | youtube | 16 | 2026-03-30 |
 | Why Apple Fails in India (& Why it Matters) | youtube | 16 | 2026-03-30 |
 | GTC panel 2 | audio | 15 | 2026-03-25 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 15 | 2026-03-31 |
 | 14 Life Lessons I Wish I Knew Earlier | youtube | 15 | 2026-03-30 |
 | Brutally Honest Advice to My Younger Poorer Self | youtube | 15 | 2026-03-30 |
 | Fall of The Roman Empire...in the 15th Century: Crash Course World History #12 | youtube | 15 | 2026-03-30 |
@@ -198,9 +198,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
@@ -422,6 +422,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Next Frontier for 2-Sided Marketplaces: How Fintech Will Unlock Enormous Value | blog | 5 | 2026-03-31 |
 | The Origins of Wokeness | blog | 5 | 2026-03-31 |
 | The Other Road Ahead | blog | 5 | 2026-03-31 |
+| The Pentagon Threatens Anthropic | blog | 5 | 2026-03-30 |
 | The Power of the Marginal | blog | 5 | 2026-03-31 |
 | The Pro-Rata Trap: How VCs Miss Out on Billion-Dollar Returns | blog | 5 | 2026-03-30 |
 | The Refragmentation | blog | 5 | 2026-03-31 |
@@ -2220,7 +2221,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 0 | 2026-03-30 |
 | The Other Half of "Artists Ship" | blog | 0 | 2026-03-31 |
 | The Patent Pledge | blog | 0 | 2026-03-31 |
-| The Pentagon Threatens Anthropic | blog | 0 | 2026-03-30 |
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
 | The Pooled-Risk Company Management Company | blog | 0 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 0 | 2026-03-30 |

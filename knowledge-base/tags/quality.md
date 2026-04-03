@@ -4,9 +4,9 @@
 - `INS-260320-10CC` 91 unit tests all passed, but an automated spec audit found 12 issues — unit tests verify code works, spec audits verify code matches intent.
 - `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260330-9A34` Mechanical watches needed to be accurate to within 5 seconds/day — not as good as quartz, but good enough that wearing one didn't break the luxury illusion.
+- `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260330-0BCC` DNA polymerase proofreads as it copies, catching errors in real-time rather than after the fact — a model for building quality into process rather than inspecting for it later.
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
-- `INS-260329-7CDE` Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260403-C977` Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
 - `INS-260402-EF63` Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.

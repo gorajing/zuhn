@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 185 insights
+> 187 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -106,6 +106,7 @@
 - `INS-260402-92AE` [high] Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
 - `INS-260402-9681` [high] Multiple successful YC founders independently ranked persistence above intelligence as the dominant success factor.
 - `INS-260328-6A18` [high] Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
+- `INS-260403-D518` [high] Rather than evolving a better enzyme, plants simply produce massive quantities of RuBisCo to compensate for its low success rate.
 - `INS-260330-BF96` [high] Byron Ferguson hits aspirins mid-air not by eliminating arrow wobble but by testing every arrow's spine and rejecting those outside tolerance.
 - `INS-260328-6E7A` [high] The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260330-DC3B` [high] Teams that see inevitable cuts being postponed grow more anxious than teams that absorb a single decisive cut paired with a clear plan.
@@ -118,6 +119,7 @@
 - `INS-260402-C13F` [high] Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
 - `INS-260327-0700` [high] Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
 - `INS-260330-4F7B` [high] Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
+- `INS-260403-D482` [high] RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260330-A44F` [high] Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
 - `INS-260330-20FD` [high] Photosynthesis splits into two decoupled stages — light reactions capture energy into ATP/NADPH currency, then the Calvin Cycle spends that currency to build useful molecules.
 - `INS-260329-003B` [high] Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.

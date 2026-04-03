@@ -1,0 +1,61 @@
+---
+id: INS-260403-448F
+domain: startups
+topic: fundraising
+title: Create a sticky soundbite or your pitch disappears
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - pitching
+  - messaging
+  - memorability
+  - positioning
+sources:
+  - type: blog
+    title: >-
+      5 Lessons We Learned Helping the Operations Department of Geneva’s
+      University Hospital handle the COVID-19 Crisis
+    url: >-
+      https://www.strategyzer.com/library/5-lessons-we-learned-helping-the-operations-department-of-genevas-university-hospital-handle-the-covid-19-crisis
+date_extracted: '2026-04-03'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    A single sticky descriptive phrase is the minimum requirement for investor
+    recall, and inability to create one signals insufficiently focused plans.
+  standard: >-
+    Graham observes that after hearing enough pitches, investors experience a
+    blur effect where companies become indistinguishable. The first cut in
+    fundraising isn't impressing investors — it's simply being one of the
+    startups they remember afterward. The Hollywood formula ('X meets Y')
+    translates to startups as 'the X of Y' — Viaweb was 'the Microsoft Word of
+    ecommerce.'
+
+
+    The deeper insight is that this exercise is diagnostic: if you can't
+    describe your startup in one compelling phrase, your plans may not be
+    sufficiently focused. The soundbite isn't just a communication tool — it's a
+    forcing function for strategic clarity. Graham recommends launching it
+    clearly but apparently casually near the beginning of your talk, creating
+    the anchor around which all subsequent information organizes in the
+    listener's mind.
+stance: >-
+  Professional investors hear so many pitches they blur together, and creating a
+  single memorable descriptive phrase ('the X of Y') is the minimum bar for
+  being remembered at all.
+related:
+  - INS-260403-EF30
+  - INS-260403-F3FF
+  - INS-260403-D375
+  - INS-260403-FE37
+  - INS-260403-81CE
+---
+Graham observes that after hearing enough pitches, investors experience a blur effect where companies become indistinguishable. The first cut in fundraising isn't impressing investors — it's simply being one of the startups they remember afterward. The Hollywood formula ('X meets Y') translates to startups as 'the X of Y' — Viaweb was 'the Microsoft Word of ecommerce.'
+
+The deeper insight is that this exercise is diagnostic: if you can't describe your startup in one compelling phrase, your plans may not be sufficiently focused. The soundbite isn't just a communication tool — it's a forcing function for strategic clarity. Graham recommends launching it clearly but apparently casually near the beginning of your talk, creating the anchor around which all subsequent information organizes in the listener's mind.

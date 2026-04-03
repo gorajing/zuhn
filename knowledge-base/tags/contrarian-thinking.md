@@ -1,16 +1,16 @@
 # Tag: contrarian-thinking
 
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
-- `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260402-8ACF` Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
+- `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260323-7345` Bohr's social authority caused the physics community to dismiss the EPR paradox for 30 years — not because he refuted it, but because his response was so obscure nobody dared challenge it, and anyone who did was told 'Do you think you're smarter than Niels Bohr?'
 - `INS-260323-0556` Black holes were resisted for decades because they seemed 'too preposterous to be real,' with senior scientists publicly attacking younger ones for following the math.
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
+- `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
 - `INS-260329-AAE3` You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
 - `INS-260327-7F11` The biggest wins come from holding ideas that smart people call stupid—expert consensus is where the alpha is.
-- `INS-260330-5BC4` Contrarian value comes from specific knowledge asymmetry against smart critics, not general disagreement.
 - `INS-260330-66A0` The best startup ideas look bad initially because good-sounding ones attract too many competitors, preventing monopoly formation.
 - `INS-260329-ABD9` Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - `INS-260321-6BA7` Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.

@@ -44,11 +44,11 @@ stance: >-
   investors than an accurate but vague one, because content approaches zero as
   generality approaches infinity
 related:
-  - INS-260403-EF30
   - INS-260403-86DB
   - INS-260403-8013
   - INS-260403-C610
   - INS-260403-AF27
   - INS-260403-699B
+  - INS-260403-208D
 ---
 Founders resist narrow descriptions because their product could be so much more, but as you approach a description of something that could be anything, the information content approaches zero. Investors discard vague statements like 'collaboratively leverage information' as meaningless boilerplate. The correct approach mirrors incremental development: start with a gripping but perhaps overly narrow description that creates a working mental model in the investor's head, then expand. A 'web-based database' lands; a 'platform for collaborative information leverage' doesn't. The investor's first job is to understand what you built before they can evaluate whether it's good.

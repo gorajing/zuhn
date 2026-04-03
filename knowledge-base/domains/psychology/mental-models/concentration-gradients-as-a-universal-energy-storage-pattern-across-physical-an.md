@@ -60,11 +60,11 @@ stance: >-
   information asymmetry, skill gaps, and price spreads function identically to
   proton gradients
 related:
+  - INS-260403-099C
   - INS-260330-49E9
   - INS-260330-7FF3
   - INS-260330-7E39
   - INS-260330-666E
-  - INS-260330-9FAA
 evidence:
   - id: INS-260330-7E39
     type: TRANSFERS_TO

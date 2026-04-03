@@ -49,7 +49,6 @@ stance: >-
   represent a fundamental energy storage mechanism distinct from chemical bond
   energy.
 related:
-  - INS-260330-972B
   - INS-260330-7E39
   - INS-260330-666E
   - INS-260403-172E

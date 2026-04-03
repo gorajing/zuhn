@@ -53,7 +53,6 @@ related:
   - INS-260330-478B
   - INS-260402-421B
   - INS-260402-EEDB
-  - INS-260402-5974
   - INS-260403-4423
 evidence:
   - id: INS-260322-1D52

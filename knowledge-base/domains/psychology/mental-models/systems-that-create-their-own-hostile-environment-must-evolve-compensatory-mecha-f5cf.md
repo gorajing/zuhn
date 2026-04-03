@@ -57,7 +57,6 @@ stance: >-
   core process
 related:
   - INS-260330-B71B
-  - INS-260330-D4CC
   - INS-260330-B3D5
   - INS-260330-50B3
   - INS-260330-F222
@@ -66,6 +65,7 @@ related:
   - INS-260330-0E77
   - INS-260330-1650
   - INS-260330-DF69
+  - INS-260330-72E1
 evidence:
   - id: INS-260330-B71B
     type: TRANSFERS_TO

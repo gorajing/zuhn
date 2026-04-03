@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3179 actionable insights
+Generated on 2026-04-03 | 3184 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1014,6 +1014,7 @@ Generated on 2026-04-03 | 3179 actionable insights
 - [INS-260403-1A96] The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
 - [INS-260403-0479] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - [INS-260403-4363] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
+- [INS-260403-37D9] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -2427,6 +2428,10 @@ Generated on 2026-04-03 | 3179 actionable insights
 - [INS-260403-E319] Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - [INS-260403-8013] As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.
 - [INS-260403-8F31] Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
+- [INS-260403-448F] A single sticky descriptive phrase is the minimum requirement for investor recall, and inability to create one signals insufficiently focused plans.
+- [INS-260403-1290] At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
+- [INS-260403-208D] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
+- [INS-260403-1444] Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
