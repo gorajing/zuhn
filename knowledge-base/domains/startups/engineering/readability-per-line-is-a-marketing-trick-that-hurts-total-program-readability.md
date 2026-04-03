@@ -21,7 +21,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Easy-to-read individual lines multiplied by many more lines produces worse
@@ -45,6 +45,12 @@ resolutions:
 stance: >-
   Optimizing for readability of individual lines — like installment payments —
   obscures the true cost of reading an entire verbose program.
+related:
+  - INS-260330-B91E
+  - INS-260403-EA2C
+  - INS-260329-B6A6
+  - INS-260330-2F74
+  - INS-260325-C523
 ---
 Graham draws an analogy to installment plans: advertising low monthly payments obscures a higher total cost. Similarly, languages that optimize for readability-per-line (like Basic or Python) make each line approachable, but the total reading effort (effort-per-line × number-of-lines) is higher because programs are longer. Math notation makes the same tradeoff — a single page of math takes 30 minutes to read, but expressing those ideas in prose would fill a book.
 

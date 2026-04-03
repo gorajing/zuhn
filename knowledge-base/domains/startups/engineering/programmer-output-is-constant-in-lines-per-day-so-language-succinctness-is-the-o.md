@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Programmer throughput is constant in lines/day, so more succinct languages
@@ -45,6 +45,14 @@ stance: >-
   Because programmers produce roughly the same volume of code per day regardless
   of language, choosing a more succinct language is the primary way to ship
   software faster.
+related:
+  - INS-260330-81A7
+  - INS-260327-2C5F
+  - INS-260329-4109
+  - INS-260329-4696
+  - INS-260329-3739
+  - INS-260329-CF48
+  - INS-260403-410A
 ---
 Fred Brooks observed that programmers produce similar amounts of code per day regardless of language. Paul Graham argues this has a profound implication: if output is measured in lines and lines/day is fixed, the only way to ship faster is to make each line do more work. This reframes language choice from a matter of taste to a strategic productivity decision.
 

@@ -48,10 +48,10 @@ stance: >-
   industry-standard languages cannot close.
 related:
   - PRI-260328-5CDE
+  - INS-260403-F9F0
   - INS-260327-A61B
   - INS-260329-EDA2
   - INS-260402-9676
-  - INS-260321-9906
 evidence:
   - id: INS-260321-9906
     type: EXTENDS

@@ -50,13 +50,12 @@ stance: >-
   A single function with random float spread called 200 times produces more
   visually compelling star fields than any hand-placed arrangement could
 related:
-  - INS-260326-97C9
   - INS-260327-A44E
-  - INS-260329-5ECD
   - INS-260330-3ADD
   - INS-260330-FCFA
   - INS-260325-436A
   - INS-260325-75A3
+  - INS-260326-97C9
   - INS-260330-1319
 evidence:
   - id: INS-260329-5ECD

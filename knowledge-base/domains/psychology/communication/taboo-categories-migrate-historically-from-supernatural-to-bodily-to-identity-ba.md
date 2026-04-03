@@ -55,7 +55,7 @@ related:
   - INS-260330-0FAF
   - INS-260330-6300
   - INS-260330-534C
-  - INS-260330-3528
+  - INS-260403-F9F0
 ---
 Historically, the most taboo words in English referenced the supernatural—'Zounds' (God's wounds) and 'Gadzooks' (God's hooks) were genuinely shocking in Victorian England because people believed casual divine references caused physical harm to God. As secularization progressed, religious oaths lost their charge, and bodily/sexual terms filled the taboo vacuum.
 

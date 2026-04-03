@@ -23,7 +23,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     When a language feels restrictive, it's mostly because it forces longer
@@ -47,6 +47,13 @@ stance: >-
   Ninety percent of the feeling of restrictiveness in a programming language
   comes from being forced to write longer programs than the ones you conceive in
   your head.
+related:
+  - INS-260330-E660
+  - INS-260330-FAB4
+  - INS-260330-80AF
+  - INS-260402-E470
+  - INS-260402-9676
+  - INS-260327-2C5F
 ---
 Graham uses a thought experiment: if a language blocked your preferred expression but forced you into something shorter, it wouldn't feel restrictive — it would feel like a shortcut. The frustration of restrictiveness comes specifically from forced detours that make programs longer than the version in your head.
 
