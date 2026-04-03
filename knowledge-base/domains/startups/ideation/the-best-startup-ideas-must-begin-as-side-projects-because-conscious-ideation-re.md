@@ -49,9 +49,7 @@ stance: >-
   ideas, while the best companies (Yahoo, Google, Facebook, Apple) all started
   as side projects nobody intended as businesses
 related:
-  - INS-260320-E044
   - INS-260323-09E4
-  - INS-260327-FCCF
   - INS-260327-D982
   - INS-260327-CD36
   - INS-260327-D5CC
@@ -59,6 +57,8 @@ related:
   - PRI-260328-04FA
   - INS-260328-A9D2
   - INS-260330-B5DF
+  - INS-260330-66A0
+  - INS-260330-3AF9
 evidence:
   - id: INS-260402-B66A
     type: SUPPORTS

@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 585 insights across 5 topics
+> 586 insights across 6 topics
 
 ## Topics
 
@@ -11,3 +11,4 @@
 | fintech | 73 | Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential. |
 | geopolitics | 377 | The Bolsheviks seized power with a tiny force by capturing Petrograd's key infrastructure — the telegraph office, bridges, railway stations, and banks — rather than fighting the entire city. |
 | space-economy | 28 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
+| venture-capital | 1 | Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing. |

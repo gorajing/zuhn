@@ -274,6 +274,7 @@ Generated on 2026-04-03 | 2421 sources
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
 | Economic Inequality | blog | 5 | 2026-03-31 |
+| Europe to US: The Expansion Playbook Every Founder Needs | blog | 5 | 2026-03-30 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
 | Five Questions about Language Design | blog | 5 | 2026-03-31 |
@@ -298,17 +299,21 @@ Generated on 2026-04-03 | 2421 sources
 | How to Make Wealth | blog | 5 | 2026-03-31 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
+| How to Start Google | blog | 5 | 2026-03-31 |
 | How to Think for Yourself | blog | 5 | 2026-03-31 |
 | How to Work Hard | blog | 5 | 2026-03-31 |
 | How to Write Usefully | blog | 5 | 2026-03-31 |
 | How Two European Founders Raised $4M, Secured a Microsoft Deal, and Broke Into Silicon Valley | blog | 5 | 2026-03-30 |
+| How Venture Capital Became a Consensus Machine | blog | 5 | 2026-03-30 |
 | Ideas for Startups | blog | 5 | 2026-03-31 |
 | If AI is a weapon, why don't we regulate it like one? | blog | 5 | 2026-03-30 |
+| Inequality and Risk | blog | 5 | 2026-03-31 |
 | International financial anarchy | blog | 5 | 2026-03-30 |
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
 | Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance | blog | 5 | 2026-03-30 |
 | Last Rights | blog | 5 | 2026-03-30 |
 | Let the Chinese cars in | blog | 5 | 2026-03-30 |
+| Let's save the human species! | blog | 5 | 2026-03-30 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
@@ -321,6 +326,7 @@ Generated on 2026-04-03 | 2421 sources
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Real Estate's Hidden AI Revolution | blog | 5 | 2026-03-31 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
+| Reverse Imposter Syndrome: A Founder’s Visibility Gap | blog | 5 | 2026-03-30 |
 | Roundup #75: Checking in on the Bad Guys | blog | 5 | 2026-03-30 |
 | Roundup #76: Great Powers acting stupid | blog | 5 | 2026-03-30 |
 | Roundup #77: The Fix-Everything Button | blog | 5 | 2026-03-30 |
@@ -370,6 +376,7 @@ Generated on 2026-04-03 | 2421 sources
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
 | Updated thoughts on AI risk | blog | 5 | 2026-03-30 |
+| VC 3.0: How AI Is Changing Startup Funding Forever | blog | 5 | 2026-03-30 |
 | Web 2.0 | blog | 5 | 2026-03-31 |
 | Web3 Gaming Is An Evolution, Not A Revolution - NFX | blog | 5 | 2026-03-31 |
 | What Business Can Learn from Open Source | blog | 5 | 2026-03-31 |
@@ -1858,7 +1865,6 @@ Generated on 2026-04-03 | 2421 sources
 | Elon Musk’s Future Vision: 10 Predictions Every Founder and Investor Should Understand in 2026 | blog | 0 | 2026-03-30 |
 | Elon Musk’s xAI raises Monster $6B Series B for AI Supercomputer and Grok 3 | blog | 0 | 2026-03-30 |
 | EU and US to work together on AI guidelines🤖, YC's Secret SAFE📜, Climate Risk Landscape🌍 | blog | 0 | 2026-03-30 |
-| Europe to US: The Expansion Playbook Every Founder Needs | blog | 0 | 2026-03-30 |
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
 | Every Debate On Pausing AI | blog | 0 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 0 | 2026-03-30 |
@@ -1954,7 +1960,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to Prepare for Your First VC Intro Call (and Actually Impress Them) | blog | 0 | 2026-03-30 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
-| How to Start Google | blog | 0 | 2026-03-31 |
 | How to Trick Investors & VCs 🤫💰 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 0 | 2026-03-30 |
@@ -1963,10 +1968,8 @@ Generated on 2026-04-03 | 2421 sources
 | How Trump’s 2025 Tariffs Could Reshape Startups | blog | 0 | 2026-03-30 |
 | How VCs and Startups can beat currency depreciation 🌍 | blog | 0 | 2026-03-30 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 0 | 2026-03-30 |
-| How Venture Capital Became a Consensus Machine | blog | 0 | 2026-03-30 |
 | How Y Combinator Started | blog | 0 | 2026-03-31 |
 | How You Know | blog | 0 | 2026-03-31 |
-| Inequality and Risk | blog | 0 | 2026-03-31 |
 | Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 0 | 2026-03-30 |
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
@@ -1993,7 +1996,6 @@ Generated on 2026-04-03 | 2421 sources
 | Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 0 | 2026-03-30 |
 | Lessons from 140+ angel investments | blog | 0 | 2026-03-31 |
 | Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
-| Let's save the human species! | blog | 0 | 2026-03-30 |
 | Life is Short | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 0 | 2026-03-30 |
@@ -2071,7 +2073,6 @@ Generated on 2026-04-03 | 2421 sources
 | Return of the Mac | blog | 0 | 2026-03-31 |
 | Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 0 | 2026-03-30 |
 | Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 0 | 2026-03-30 |
-| Reverse Imposter Syndrome: A Founder’s Visibility Gap | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
 | Robert Herjavec on Escaping Poverty, AI, and Startup Success | Shark Tank Lessons for Founders | blog | 0 | 2026-03-30 |
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
@@ -2284,7 +2285,6 @@ Generated on 2026-04-03 | 2421 sources
 | Two Kinds of Judgement | blog | 0 | 2026-03-31 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
 |  | blog | 0 | 2026-03-31 |
-| VC 3.0: How AI Is Changing Startup Funding Forever | blog | 0 | 2026-03-30 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 0 | 2026-03-30 |
 | VC Math Explained📊, Grow with Roll-Ups 🔄, The Top 1%🧠 | blog | 0 | 2026-03-30 |
 | VC Return Analysis: Single-Tab Model for Faster Decisions | blog | 0 | 2026-03-30 |

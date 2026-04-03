@@ -11,6 +11,7 @@
 - `INS-260330-0B55` Among the highest-valued YC companies, zero have significantly disproportionate founder equity splits.
 - `INS-260330-F4C0` Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
 - `INS-260330-C745` Among the highest-valued YC companies, there are zero instances of significantly disproportionate founder equity splits.
+- `INS-260403-6553` Top universities produce more successful startups because their selective admissions concentrate smart and determined people who become each other's cofounders.
 - `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260325-EC85` Growth amplifies both strengths and unresolved co-founder issues — the 'let's not rock the boat' phase builds pressure that explodes during scaling.
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone.
@@ -25,6 +26,6 @@
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
 - `INS-260330-3E6F` Among YC's highest-valued companies, none had significantly unequal founder equity splits.
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve.
-- `INS-260330-C4D4` While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.
 - `INS-260323-1975` You must be either the tech/product founder or the business/revenue founder, then find a complementary co-founder for the other role.
+- `INS-260330-C4D4` While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.
 - `INS-260330-DE1D` Technical founders who sell filter impossible requests before they reach engineering, preventing wasted cycles that pure salespeople cause in novel product categories.

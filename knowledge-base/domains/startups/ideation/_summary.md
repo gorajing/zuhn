@@ -1,8 +1,9 @@
 # Topic: ideation
 
-> 62 insights
+> 64 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
+- `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
 - `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
 - `INS-260321-3521` [high] Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260321-CCD9` [high] Basic image generation is being absorbed by foundation models, but creative tools that are aesthetically opinionated (Midjourney) or own non-commoditized modalities (Suno for music, 11 Labs for voice) maintain defensible positions.
@@ -33,6 +34,7 @@
 - `INS-260322-EF20` [high] Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260402-F08D` [high] Successful founders don't find overlooked ideas through deliberate search — their unusual perspective makes certain ideas obvious to them that are invisible to everyone else.
 - `INS-260327-E7A3` [high] Tar pit ideas form around widespread problems that seem easily solvable but have hidden structural reasons why they've resisted solution for 20+ years — and most founders skip the basic step of Googling to find out.
+- `INS-260403-DDFD` [high] Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
 - `INS-260330-8AC8` [high] Yahoo, Google, Facebook, and Apple all started as side projects — the best ideas are such outliers that your conscious mind rejects them as company ideas.
 - `INS-260330-AB6E` [high] Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
 - `INS-260330-7819` [high] Pursue ideas that sound bad to others but you have specific reasons to believe are right — the apparent badness keeps competitors away.

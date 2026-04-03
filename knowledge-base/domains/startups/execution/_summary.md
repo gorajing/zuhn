@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 182 insights
+> 183 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -182,5 +182,6 @@
 - `INS-260329-5EE7` [medium] Reproduce production bugs in staging before debugging — debugging in production risks making the issue worse.
 - `INS-260329-6253` [medium] Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
 - `INS-260327-3A71` [medium] In AI, start with what the technology can do, not what customers say they need—the possibilities exceed imagination.
+- `INS-260403-5514` [medium] The critical question for aspiring founders is not which technology to learn but whether they are producing things or just consuming them.
 - `INS-260327-1996` [medium] Conrad says Rippling took two years to start working, but he had zero doubt it would — so his entire job was preventing the team from quitting before they got there.
 - `INS-260329-4842` [medium] Write-back cache gains speed by risking data loss on crash; write-through guarantees consistency but is slower; write-around optimizes reads but has cold-cache penalties — every caching decision is a durability bet.

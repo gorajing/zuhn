@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3071 actionable insights
+Generated on 2026-04-03 | 3075 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1361,6 +1361,7 @@ Generated on 2026-04-03 | 3071 actionable insights
 - [INS-260403-B7FA] Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - [INS-260403-41BC] Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 - [INS-260403-2949] Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
+- [INS-260403-8190] You learn programming far faster building your own game than sitting in any classroom, which is why tech companies require coding tests regardless of degree pedigree.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -2114,6 +2115,7 @@ Generated on 2026-04-03 | 3071 actionable insights
 - [INS-260402-529F] Starting small and growing incrementally lets you build things too ambitious to have planned upfront.
 - [INS-260402-C13F] Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
 - [INS-260402-7182] When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
+- [INS-260403-5514] The critical question for aspiring founders is not which technology to learn but whether they are producing things or just consuming them.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2610,6 +2612,8 @@ Generated on 2026-04-03 | 3071 actionable insights
 - [INS-260403-699B] Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
 - [INS-260403-C9DC] The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.
 - [INS-260403-5441] The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
+- [INS-260403-C610] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
+- [INS-260403-DDFD] Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.

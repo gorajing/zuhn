@@ -50,7 +50,6 @@ stance: >-
   performance and creates a culture where everyone feels obligated to lobby
   constantly.
 related:
-  - INS-260327-9924
   - INS-260330-175F
   - INS-260330-2339
   - INS-260327-005D

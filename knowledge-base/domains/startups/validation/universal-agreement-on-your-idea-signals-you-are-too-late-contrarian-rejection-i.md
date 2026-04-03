@@ -45,11 +45,11 @@ resolutions:
     'too early but right' and 'just wrong' — and that distinction comes from
     deep customer understanding, not consensus validation.
 related:
+  - INS-260403-C610
   - INS-260330-AB6E
   - INS-260330-6C68
   - INS-260327-FCCF
   - INS-260402-D739
-  - INS-260402-EE6E
   - INS-260329-AA30
   - INS-260330-F125
 stance: >-

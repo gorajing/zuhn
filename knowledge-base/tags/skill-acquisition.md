@@ -4,9 +4,9 @@
 - `INS-260329-A862` Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-8134` After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
-- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
+- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-F969` Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
 - `INS-260329-8868` Reducing downside risk on first attempts lets people discover aptitude they would otherwise never explore.
@@ -33,6 +33,7 @@
 - `INS-260329-07D3` Sequence learning around small complete projects that each introduce exactly one new concept.
 - `INS-260329-8830` Structuring tool instruction around escalating real-world projects produces better learning outcomes than feature-by-feature tutorials.
 - `INS-260329-E402` Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
+- `INS-260403-8190` You learn programming far faster building your own game than sitting in any classroom, which is why tech companies require coding tests regardless of degree pedigree.
 - `INS-260330-27A4` Mastery produces a recurring cycle of feeling competent then incompetent again, and this loop never ends.
 - `INS-260330-0B0B` After 8 months of daily practice with no visible progress, Destin suddenly could ride the backwards bike one day — a discrete phase transition.
 - `INS-260329-D3D9` You must tolerate being bad at something long enough to become good at it — most people quit in the incompetence phase.

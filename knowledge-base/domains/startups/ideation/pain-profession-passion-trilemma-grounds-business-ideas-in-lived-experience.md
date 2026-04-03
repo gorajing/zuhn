@@ -48,6 +48,7 @@ stance: >-
   skills from your day job, or obsessive interests — not market analysis
 related:
   - INS-260323-979C
+  - INS-260403-C610
   - INS-260329-9513
   - INS-260402-EE6E
   - INS-260329-5891

@@ -54,11 +54,11 @@ stance: >-
   organic ideas emerge from genuine expertise and noticed problems.
 related:
   - INS-260327-E7A3
+  - INS-260403-C610
   - INS-260330-6C68
   - INS-260402-EE6E
   - PRI-260403-3906
   - INS-260330-AB6E
-  - PRI-260328-59DC
   - INS-260327-6F11
   - INS-260327-6F12
   - INS-260402-9D7B

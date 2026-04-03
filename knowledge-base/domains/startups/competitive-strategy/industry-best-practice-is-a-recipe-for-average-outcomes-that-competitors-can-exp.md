@@ -49,11 +49,11 @@ stance: >-
   blame-avoidance, not competitive advantage, creating systematic opportunities
   for aggressive competitors.
 related:
+  - INS-260403-57FF
   - PRI-260321-7307
   - INS-260330-3FCF
   - PRI-260324-12CF
   - PRI-260324-36BF
-  - INS-260330-070A
 ---
 Graham identifies a principal-agent problem in technology decisions: the pointy-haired boss optimizes for personal career safety ('if I choose industry best practice and we lose, I can't be blamed') rather than company competitiveness. This creates a systematic market opportunity — most companies cluster around average technology choices, leaving the edges open to startups willing to accept social/perception costs of unconventional tools.
 
