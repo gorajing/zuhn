@@ -43,5 +43,7 @@ lineage:
     - id: INS-260330-FB66
       relation: REFINES
   compression_trigger: COMPRESS flag — cognitive-biases
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 The brain's linear default causes systematic underestimation of any exponential process: epidemics, compounding returns, technology adoption, and content growth. The growth factor (today/yesterday) is the early warning metric, not absolute counts. This bias operates at every level from individual financial planning to institutional pandemic response.

@@ -51,8 +51,8 @@ stance: >-
   networks can only emerge organically from successful founders who stay local
   after getting rich, creating an irreducible five-year minimum cycle time.
 related:
-  - INS-260330-9B90
   - INS-260402-6BB6
+  - PRI-260403-26B9
   - INS-260321-3521
   - INS-260402-8424
   - INS-260403-160A

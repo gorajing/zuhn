@@ -1,8 +1,8 @@
 # Tag: risk-assessment
 
 - `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
-- `INS-260330-2C6A` The psychedelic therapy model concentrates risk into a single supervised session rather than distributing it across years of daily medication with cumulative side effects.
 - `INS-260330-2A6A` Bright tattoo ink colors are created from heavy metal compounds, creating an ironic contrast with the sterile-field protocols used during application.
+- `INS-260330-2C6A` The psychedelic therapy model concentrates risk into a single supervised session rather than distributing it across years of daily medication with cumulative side effects.
 - `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
 - `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
@@ -14,5 +14,5 @@
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
 - `INS-260329-8B1C` Spelling out worst-case scenarios in concrete steps reveals that the feared outcome is almost always a manageable experience rather than a catastrophe.
 - `INS-260330-1DCA` We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
-- `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260330-975D` Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
+- `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.

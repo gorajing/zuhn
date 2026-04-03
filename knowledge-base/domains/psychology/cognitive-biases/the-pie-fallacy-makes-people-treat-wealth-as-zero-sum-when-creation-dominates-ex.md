@@ -49,7 +49,6 @@ stance: >-
   conflate wealth creation with wealth extraction.
 related:
   - INS-260325-EBC3
-  - INS-260323-1338
   - INS-260402-A999
   - INS-260402-CF0A
   - INS-260403-420A

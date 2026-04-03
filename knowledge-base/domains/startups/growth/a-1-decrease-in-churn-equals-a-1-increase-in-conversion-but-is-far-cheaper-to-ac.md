@@ -58,7 +58,7 @@ related:
   - INS-260330-73A2
   - INS-260330-CB30
   - INS-260330-608C
-  - INS-260330-05C7
+  - PRI-260403-E097
 ---
 Hale frames growth as a simple interaction between two variables: conversion rate and churn. A 1% improvement in either produces identical growth effects, but reducing churn is consistently cheaper and easier — yet companies routinely assign their best people to conversion and their B-team to retention.
 

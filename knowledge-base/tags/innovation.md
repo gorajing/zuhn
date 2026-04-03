@@ -29,9 +29,9 @@
 - `INS-260403-906E` Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
 - `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
+- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
-- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260403-363C` Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260330-FBC0` Innovation is an incremental, collaborative evolutionary process — not breakthrough moments by lone geniuses.
@@ -53,10 +53,10 @@
 - `INS-260325-F306` From 1870-1920 humanity had five major technological revolutions; from 1970-2020 we had only one definitive one (computing) and possibly two.
 - `INS-260330-9346` At the beginning of a technology S-curve, it's impossible to know if commercial viability is months or centuries away — and once the curve kicks in, decades of progress happen in years.
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.
-- `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260403-EEDF` Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260323-1643` Netanyahu's formula for Israel's GDP growth from $17K to $54K per capita: free market reforms plus a permanent pipeline of knowledge workers from military intelligence who become technology entrepreneurs.
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260402-B0AB` You cannot have technical imagination without political imagination — suppressing one suppresses both.
 - `INS-260330-B27A` LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
+- `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.

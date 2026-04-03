@@ -52,5 +52,7 @@ lineage:
     - id: INS-260327-6D58
       relation: EXTENDS
   compression_trigger: COMPRESS flag — content-strategy + growth-marketing
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 Comprehensive single-resource tutorials capture high-intent beginner search queries and compound views over years. Entertainment content that solves a real problem in the target demographic (Roomies' comedic NYC apartment hunting series) outperforms direct product promotion. A trusted creator with a small audience outperforms a viral clown with millions of followers. Build the canonical resource, not the viral clip.

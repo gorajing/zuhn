@@ -46,16 +46,16 @@ resolutions:
     short-term extraction are telling you exactly what kind of partner they'll
     be.
 related:
-  - INS-260323-E9E4
+  - PRI-260403-26B9
   - INS-260330-64E1
   - INS-260330-6204
   - INS-260328-982A
   - INS-260330-EE5E
-  - INS-260328-4EA0
   - INS-260326-286F
   - INS-260328-0C4C
   - INS-260330-3559
   - INS-260330-9DC9
+  - INS-260403-EE10
 stance: >-
   The best investors will offer founders terms that hurt themselves in the short
   run because they know being a great partner now means the founder wo...

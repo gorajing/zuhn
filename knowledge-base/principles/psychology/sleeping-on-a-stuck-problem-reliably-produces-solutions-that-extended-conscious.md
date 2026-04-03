@@ -45,5 +45,7 @@ lineage:
     - id: INS-260330-0982
       relation: SUPPORTS
   compression_trigger: COMPRESS flag — cognition
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 After learning the backwards bicycle, any small distraction like a phone ringing instantly crashed Destin back to the old steering algorithm. Sleeping on stuck problems reliably produces solutions that conscious effort cannot. The implication: new neural pathways are fragile and coexist with old ones. Mastery isn't replacing the old pattern — it's making the new pattern robust enough to survive interruption.

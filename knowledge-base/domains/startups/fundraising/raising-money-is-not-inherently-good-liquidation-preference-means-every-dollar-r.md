@@ -46,10 +46,10 @@ resolutions:
     one of the most consequential financial decisions a startup makes.
 related:
   - INS-260330-6204
+  - PRI-260403-26B9
   - INS-260328-D220
   - INS-260330-7346
   - INS-260330-9B90
-  - INS-260327-7E3D
   - INS-260327-8374
   - INS-260330-C84C
 stance: Each fundraise adds a liquidation preference stack

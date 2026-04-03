@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260326-E411
   - INS-260323-E797
+  - PRI-260403-B9A0
   - PRI-260328-65EC
   - INS-260327-B038
   - INS-260327-3F8B
-  - INS-260327-7750
 evidence:
   - id: INS-260326-E411
     type: TRANSFERS_TO

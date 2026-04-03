@@ -47,11 +47,11 @@ resolutions:
     because customers trust the badge, which drives more sales, which reinforces
     the position.
 related:
+  - PRI-260403-E097
   - INS-260403-87AC
   - INS-260403-EC8A
   - INS-260402-FFB2
   - INS-260323-D621
-  - PRI-260323-7B35
   - INS-260327-0D0B
   - INS-260327-1B60
 stance: >-

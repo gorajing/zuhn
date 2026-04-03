@@ -49,10 +49,10 @@ stance: >-
   compounds while premium positioning erodes.
 related:
   - INS-260330-F0F2
+  - PRI-260403-5DEA
   - INS-260402-15A7
   - INS-260330-D5BD
   - INS-260330-6A47
-  - INS-260330-6050
 ---
 Paul Graham learned at Interleaf that low-end software eats high-end software, then applied this at Viaweb by pricing stores at $100-300/month — cheap enough that competitors couldn't match without cannibalizing their own revenue. This is the same dynamic Clayton Christensen described as disruptive innovation: the low end seems unattractive to incumbents, so they cede it willingly, but the low-end player improves faster than customer needs grow and eventually captures the whole market.
 

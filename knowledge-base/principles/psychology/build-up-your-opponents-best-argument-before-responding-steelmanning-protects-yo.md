@@ -46,5 +46,7 @@ lineage:
     - id: INS-260330-4605
       relation: EXTENDS
   compression_trigger: COMPRESS flag — persuasion
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 Vague predictions appear accurate because our brains apply the 'law of near enough.' The Polarity Principle operates through variable-ratio reinforcement (the same schedule that drives gambling addiction). Building up your opponent's best case before responding protects you from being blindsided by stronger versions later. The thread: persuasion exploits cognitive shortcuts, and the best defense is preemptively strengthening the opposing case yourself.

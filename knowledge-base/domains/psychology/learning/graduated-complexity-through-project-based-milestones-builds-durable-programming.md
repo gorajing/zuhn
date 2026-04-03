@@ -50,7 +50,6 @@ stance: >-
   understanding than concept-first teaching because each project creates a 'need
   to know' that makes the next concept stick.
 related:
-  - INS-260329-92C3
   - INS-260329-2F63
   - INS-260329-F362
   - INS-260329-5AC5

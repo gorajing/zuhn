@@ -54,6 +54,7 @@ related:
   - INS-260330-1854
   - INS-260330-697F
   - INS-260330-21CC
+  - PRI-260403-E097
 ---
 Schultz identifies a systematic bias in Silicon Valley: founders and growth teams optimize for their own experience as power users. His canonical example is notifications -- every company he advises says 'we get too many notifications, let's reduce them.' But power users aren't leaving because of notifications. The marginal user -- the one who doesn't get a notification in a given day -- is the one who churns.
 

@@ -45,7 +45,6 @@ stance: >-
   functioning exactly as designed, and attempts to 'fix' the visible dysfunction
   can destroy the outcome.
 related:
-  - INS-260330-7D21
   - INS-260330-8638
   - INS-260330-181B
   - INS-260330-2E34

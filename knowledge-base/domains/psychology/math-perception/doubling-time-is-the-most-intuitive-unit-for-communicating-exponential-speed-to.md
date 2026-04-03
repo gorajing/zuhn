@@ -55,7 +55,6 @@ related:
   - INS-260330-608C
   - INS-260330-CB30
   - INS-260330-6AA3
-  - INS-260330-05C7
   - INS-260403-EEDF
 evidence:
   - id: INS-260330-F493

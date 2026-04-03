@@ -53,13 +53,12 @@ stance: >-
   the most practical path from 90% to 99.99% accuracy.
 related:
   - INS-260322-0C28
-  - INS-260323-584D
   - INS-260320-92CC
   - INS-260320-0511
-  - INS-260325-8F49
   - INS-260322-3616
-  - INS-260327-0700
   - INS-260329-D357
+  - INS-260327-0700
+  - INS-260323-584D
   - INS-260329-F854
   - INS-260329-7F02
 evidence:

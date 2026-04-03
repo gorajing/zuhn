@@ -50,7 +50,6 @@ stance: >-
   results than a numerically superior force with divided command and
   inconsistent quality.
 related:
-  - INS-260325-4C16
   - INS-260327-DEEB
   - INS-260327-FBB4
   - INS-260327-5200
@@ -58,7 +57,6 @@ related:
   - PRI-260328-65EC
   - INS-260326-E411
   - INS-260327-3F8B
-  - INS-260327-80AD
 evidence:
   - id: INS-260330-35E2
     type: CHALLENGES

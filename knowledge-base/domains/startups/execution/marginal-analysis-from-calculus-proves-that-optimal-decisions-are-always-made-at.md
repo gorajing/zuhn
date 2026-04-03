@@ -59,7 +59,6 @@ related:
   - INS-260329-6079
   - PRI-260323-7B35
   - INS-260329-1962
-  - INS-260329-72A5
 ---
 Calculus 1 introduces marginal cost as the derivative of total cost — the cost of producing one more unit. This seemingly simple application carries a profound business insight: optimal production quantity is determined not by average costs or total revenue, but by the relationship between marginal cost and marginal revenue at the boundary. You maximize profit precisely where MC = MR, which is often far from where intuition would place it.
 

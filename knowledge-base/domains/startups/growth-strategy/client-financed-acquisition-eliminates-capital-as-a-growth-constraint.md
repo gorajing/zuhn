@@ -43,7 +43,6 @@ stance: >-
   next customer within 30 days makes growth capital-unconstrained.
 related:
   - INS-260322-C33D
-  - INS-260329-2D77
   - INS-260329-AADB
   - INS-260329-4EF5
   - INS-260329-0DA4

@@ -57,10 +57,10 @@ stance: >-
   personal development training.
 related:
   - INS-260326-C692
+  - PRI-260403-57EC
   - INS-260329-B0F4
   - INS-260328-93F7
   - PRI-260327-3BD9
-  - INS-260329-0B1D
   - INS-260327-E07D
   - INS-260328-41C9
   - INS-260329-B604

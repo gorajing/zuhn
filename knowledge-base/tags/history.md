@@ -11,8 +11,8 @@
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
 - `INS-260330-2783` Friedrich Miescher isolated DNA in 1869, but Watson and Crick are remembered because they synthesized others' work into a communicable model.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
-- `INS-260325-4C0F` The romantic idea that love should follow pure instinct, need no rational analysis, and reject criticism has produced 250 years of relationship failure masquerading as liberation.
 - `INS-260325-EC7A` Greek and Roman statues were vibrantly painted — our image of austere white marble is an accident of decay, known for over a century but still shaping perception.
+- `INS-260325-4C0F` The romantic idea that love should follow pure instinct, need no rational analysis, and reject criticism has produced 250 years of relationship failure masquerading as liberation.
 - `INS-260325-B14B` Before the 1500s, no major civilization believed in upward progress — history was seen as cyclical or as decline from a golden age.
 - `INS-260325-6F7F` For most of human history, people saw the past as a golden age from which they had fallen — the idea that the future could be better only emerged in the 1500-1600s.
 - `INS-260325-EBDD` Bacon foresaw the power of systematic science in 1620 but the Industrial Revolution did not arrive until 200 years later.

@@ -33,10 +33,10 @@
 - `INS-260329-2FEB` Immediate output from each new concept (printing, calculations, simple games) cements understanding faster than abstract theory.
 - `INS-260330-E497` Plants' photosynthesis created the oxygen-rich atmosphere that now poisons their own RuBisCo enzyme, forcing them to compensate with volume and detox pathways rather than evolving a better enzyme.
 - `INS-260330-27CA` The Millennium Bridge wobble was caused by a positive feedback loop where the bridge's lateral sway synchronized pedestrians' gaits, which amplified the sway further.
-- `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
 - `INS-260330-E3ED` Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
 - `INS-260330-B625` Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - `INS-260329-C345` The debt snowball method works better than the avalanche method because quick wins sustain the behavior change that actually eliminates debt.
+- `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
 - `INS-260330-2B8F` Agricultural productivity gains in Britain created a self-reinforcing cycle: cheaper food → more disposable income → consumer demand → manufacturing incentives → further innovation.
 - `INS-260325-7D50` Before listing what your co-founder should change, identify how your behavior feeds the dynamic — if you want them to take fewer risks, give them space to evaluate risk themselves.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.

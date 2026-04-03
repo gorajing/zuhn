@@ -48,10 +48,10 @@ stance: >-
   identifying the critical few that determine outcome trajectory
 related:
   - INS-260330-FA4D
+  - PRI-260403-52DF
   - INS-260330-9484
   - INS-260330-6828
   - INS-260330-BF96
-  - INS-260330-148C
 evidence:
   - id: INS-260330-6828
     type: REFINES

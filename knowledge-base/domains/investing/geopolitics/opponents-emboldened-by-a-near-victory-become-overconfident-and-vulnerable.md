@@ -50,7 +50,6 @@ stance: >-
   capability and takes greater risks in the next one, creating exploitable
   openings.
 related:
-  - INS-260327-048C
   - INS-260327-DC45
   - INS-260327-40FC
   - INS-260327-98B1
@@ -60,6 +59,7 @@ related:
   - INS-260327-377A
   - INS-260327-5452
   - INS-260326-E411
+  - INS-260327-EF8C
 evidence:
   - id: INS-260326-E411
     type: SUPPORTS

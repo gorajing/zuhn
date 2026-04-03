@@ -51,11 +51,11 @@ stance: >-
   persistence as repeated tries reveal the opponent's weaknesses and exhaust
   their reserves.
 related:
+  - PRI-260403-B9A0
   - INS-260327-0FA9
   - INS-260327-377A
   - INS-260327-719D
   - PRI-260328-FADC
-  - INS-260327-9CAD
 ---
 Napoleon's first two days at Arcole were failures: direct assaults on the bridge were repulsed with heavy losses. But he didn't withdraw — he kept attacking, adjusting tactics each time. On the third day, a flanking maneuver finally broke the Austrian position. The first two days of 'failure' had actually exhausted Austrian reserves and revealed the flanking vulnerability.
 

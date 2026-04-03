@@ -52,10 +52,10 @@ stance: >-
   wells not broad shallow holes
 related:
   - INS-260327-FCCF
+  - PRI-260403-3906
   - INS-260330-6C68
   - INS-260330-AB6E
   - INS-260330-66A0
-  - PRI-260328-59DC
   - INS-260402-B66A
 evidence:
   - id: INS-260402-B66A

@@ -48,5 +48,7 @@ lineage:
     - id: INS-260327-80AD
       relation: SUPPORTS
   compression_trigger: COMPRESS flag — geopolitics
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 Napoleon's greatest weapon was speed, not army size — he moved before coalition forces could unite. Belisarius conquered the Vandal Kingdom in weeks by attacking before they could assemble. Austria's hesitation after defeating Napoleon at Aspern-Essling gave him six weeks to rebuild with overwhelming force. The pattern applies to competitive strategy: speed of execution against fragmented competitors is more decisive than superior resources against assembled ones.

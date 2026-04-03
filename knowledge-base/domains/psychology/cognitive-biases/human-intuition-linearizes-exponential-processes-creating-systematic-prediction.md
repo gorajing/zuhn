@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260330-71DE
   - INS-260330-FB66
+  - PRI-260403-50EF
   - INS-260330-AA4F
   - INS-260330-2F13
-  - INS-260330-1C84
 evidence:
   - id: INS-260330-71DE
     type: REFINES

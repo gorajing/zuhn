@@ -47,5 +47,7 @@ lineage:
     - id: INS-260330-498B
       relation: TRANSFERS_TO
   compression_trigger: COMPRESS flag — execution
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 Culture is not what you write on the wall. It dictates day-to-day execution and only changes through iterative feedback loops. The extreme operational stress of running live server software can only be sustained by founders, giving startups a structural edge large companies cannot replicate. Photosynthesis trades efficiency for modularity across 4+ protein complexes — similarly, startups trade efficiency for adaptability through modular execution.

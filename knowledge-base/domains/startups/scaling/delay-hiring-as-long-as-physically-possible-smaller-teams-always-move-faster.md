@@ -50,7 +50,6 @@ related:
   - INS-260327-BEEE
   - INS-260327-6061
   - INS-260329-CF70
-  - INS-260330-965B
 stance: >-
   Only hire when you physically cannot meet demand, and hire people who do
   multiple people's worth of work.

@@ -51,7 +51,6 @@ stance: >-
   revenues to themselves — a problem that makes dividend-based investing in
   private companies unworkable.
 related:
-  - INS-260323-DD40
   - INS-260327-EA4E
   - INS-260327-3930
   - INS-260327-7F73
@@ -61,6 +60,7 @@ related:
   - INS-260328-A417
   - INS-260329-4EF5
   - INS-260329-CB10
+  - INS-260329-0DA4
 evidence:
   - id: INS-260329-196A
     type: CONTRADICTS

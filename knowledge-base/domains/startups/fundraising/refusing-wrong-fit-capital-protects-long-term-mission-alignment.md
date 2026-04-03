@@ -52,12 +52,12 @@ related:
   - INS-260323-0277
   - INS-260327-125F
   - INS-260327-E3ED
-  - INS-260328-9415
   - INS-260330-1002
   - INS-260330-4A1F
   - INS-260330-341D
   - INS-260330-B6FA
   - INS-260330-404B
+  - PRI-260403-26B9
   - INS-260330-B09B
 ---
 During fundraising, Glanville was advised to 'take whatever money you can.' He refused, pushing through exhaustion to assemble a board and investor group that shared his long-term vision for the technology. The result: a highly effective board, smart money, and united mission where investors actively work to increase shared value.

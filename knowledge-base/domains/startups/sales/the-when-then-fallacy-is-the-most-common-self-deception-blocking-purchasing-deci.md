@@ -49,9 +49,9 @@ stance: >-
   logical fallacy that flips cause and effect, and naming the fallacy is more
   effective than arguing against it.
 related:
-  - INS-260325-9AD4
   - INS-260322-760A
   - INS-260329-CCDE
+  - PRI-260403-26B9
   - PRI-260327-942E
   - INS-260327-33E0
   - INS-260325-7B58

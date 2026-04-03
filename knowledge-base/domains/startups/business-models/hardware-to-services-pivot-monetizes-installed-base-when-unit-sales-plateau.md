@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260329-D02E
   - INS-260330-DE80
+  - PRI-260403-1D59
   - INS-260324-DB86
   - PRI-260328-0993
-  - INS-260330-C0E2
 ---
 Apple recognized that used iPhones still generate revenue through App Store purchases, Apple Music, iCloud, and Apple Video subscriptions. Google pays an estimated $9 billion annually just to be the default search engine — revenue that flows regardless of whether the iPhone is new or used. This makes every active iPhone a revenue-generating node in Apple's ecosystem.
 

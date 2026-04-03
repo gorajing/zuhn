@@ -56,6 +56,7 @@ related:
   - INS-260330-568A
   - INS-260330-43CF
   - INS-260330-C9C6
+  - PRI-260403-5DEA
   - INS-260329-B194
 ---
 Thiel argues that targeting large markets on day one is evidence of poor category definition and guarantees brutal competition. Every successful tech monopoly started with a market so small it seemed insignificant: Amazon with just books, eBay with Pez dispensers and Beanie Babies, PayPal with 20,000 eBay power sellers, Facebook with 10,000 Harvard students. PayPal reached 25-30% market penetration in 2-3 months; Facebook went from 0 to 60% at Harvard in 10 days. Business school analysis would say these markets were too small to matter — and they would have been right if the companies had stayed small. The key is that each had a path to concentric expansion. Contrast this with clean tech companies (2005-2008) that all opened with 'we're in the energy market' — a trillion-dollar market where you're a minnow in a vast ocean with countless unknown competitors. You want to be a one-of-a-kind company in a small ecosystem, not the 10th thin-film solar panel company.

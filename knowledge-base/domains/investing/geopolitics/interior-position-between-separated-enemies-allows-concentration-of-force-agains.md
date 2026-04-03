@@ -52,8 +52,8 @@ related:
   - INS-260327-191B
   - INS-260327-ABE5
   - INS-260327-C7BF
+  - PRI-260403-B9A0
   - INS-260327-37E3
-  - INS-260327-23FA
 ---
 At Castiglione, the Austrians sent two columns to relieve their besieged fortress of Mantua. Napoleon positioned himself between them and defeated each in turn before they could unite. His advantage was the interior position: he was closer to both enemies than they were to each other, allowing him to concentrate his full force against each separately.
 

@@ -53,10 +53,10 @@ stance: >-
   longer-timeline projects that no individual sponsor would underwrite.
 related:
   - INS-260329-CB2C
+  - PRI-260403-26B9
   - PRI-260328-95A5
   - INS-260328-F301
   - INS-260323-8893
-  - PRI-260323-0942
   - INS-260330-2BB3
 evidence:
   - id: INS-260329-CB2C

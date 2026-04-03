@@ -50,13 +50,12 @@ stance: >-
   fighting produces better outcomes than the one optimized for a single
   engagement metric.
 related:
-  - INS-260327-E1DD
-  - INS-260327-8268
   - INS-260327-E4A1
   - INS-260327-A592
+  - INS-260327-8268
   - INS-260327-AB3D
+  - PRI-260403-B9A0
   - INS-260330-FEB0
-  - PRI-260328-FA83
 evidence:
   - id: INS-260330-FEB0
     type: SUPPORTS

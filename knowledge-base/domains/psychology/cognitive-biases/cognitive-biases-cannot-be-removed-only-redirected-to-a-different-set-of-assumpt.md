@@ -51,7 +51,6 @@ stance: >-
   of automatic assumptions with another, and the old bias remains latent and
   recoverable.
 related:
-  - INS-260321-8433
   - INS-260325-F2ED
   - INS-260322-F609
   - INS-260327-8760
@@ -61,6 +60,7 @@ related:
   - INS-260330-7B62
   - INS-260330-FB34
   - INS-260330-6620
+  - PRI-260403-35FE
 evidence:
   - id: INS-260321-8433
     type: CHALLENGES

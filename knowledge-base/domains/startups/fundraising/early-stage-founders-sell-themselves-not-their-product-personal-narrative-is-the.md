@@ -53,10 +53,10 @@ resolutions:
     themselves. You have to sell yourself well.'
 related:
   - INS-260403-7E27
+  - PRI-260403-26B9
   - INS-260330-EE5E
   - INS-260322-EF20
   - INS-260328-195E
-  - INS-260403-805E
   - INS-260327-6725
   - INS-260328-3FA4
   - INS-260328-3F19

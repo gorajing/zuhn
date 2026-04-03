@@ -51,10 +51,10 @@ stance: >-
   cycles create structural slowness that startups exploit.
 related:
   - INS-260329-6D3B
+  - PRI-260403-5DEA
   - INS-260321-B7CB
   - PRI-260328-C918
   - INS-260322-BFDE
-  - PRI-260328-43F1
 evidence:
   - id: INS-260321-B7CB
     type: TRANSFERS_TO

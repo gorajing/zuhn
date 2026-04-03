@@ -57,10 +57,10 @@ stance: >-
   across all languages and paradigms.
 related:
   - INS-260329-9EE4
+  - PRI-260403-52DF
   - INS-260330-2666
   - INS-260330-112E
   - INS-260329-32DB
-  - PRI-260403-ABDE
   - INS-260329-40B6
   - INS-260330-1647
 evidence:

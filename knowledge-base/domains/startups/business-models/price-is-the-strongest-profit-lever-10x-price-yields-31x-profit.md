@@ -42,10 +42,10 @@ stance: >-
   Increasing price based on value delivered creates exponentially more profit
   than reducing costs, because fixed costs stay flat while margins compound.
 related:
-  - INS-260327-07FC
   - INS-260329-6079
   - INS-260330-73A2
+  - PRI-260403-E097
+  - INS-260327-07FC
   - INS-260330-FA4C
-  - INS-260329-B2BE
 ---
 Hormozi demonstrates with a table example: at $100 price with $50 COGS and $30 overhead, net profit is $20. At $1,000 price with $250 COGS (including white-glove delivery) and $130 overhead, net profit is $620 — a 31x increase from a 10x price increase. This happens because fixed costs don't scale linearly with price. The implication is that most businesses undercharge by competing on cost rather than positioning on value. He cites a McKinsey survey showing 85% of companies compete on price but only 1% win on price — making it literally the worst competitive strategy. The premium pricing approach only works when paired with genuine value delivery across all four components of the Value Equation.

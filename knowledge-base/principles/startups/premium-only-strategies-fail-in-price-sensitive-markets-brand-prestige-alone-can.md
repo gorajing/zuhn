@@ -41,5 +41,7 @@ lineage:
     - id: INS-260330-7479
       relation: REFINES
   compression_trigger: COMPRESS flag — market-entry
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 Apple's $1,100+ iPhone captures only 1% of India where 75% of smartphones sell under $250. Premium brand identity can prevent entry into massive markets where demand sits far below your price floor. The pattern: prestige is a moat in wealthy markets and a wall in price-sensitive ones.

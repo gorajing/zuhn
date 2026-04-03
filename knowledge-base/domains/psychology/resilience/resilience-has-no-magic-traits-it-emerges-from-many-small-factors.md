@@ -56,7 +56,6 @@ related:
   - INS-260325-F8EB
   - PRI-260327-0AA2
   - INS-260329-66C7
-  - INS-260330-BA71
   - INS-260330-916B
 ---
 Popular media and even some professional literature promote the idea of a few magic traits that make people resilient — 'the five traits of highly resilient people.' Bonanno's research finds the opposite: many different factors correlate with resilience, but they all have small effects. No single factor or small set of factors explains much of the variance.

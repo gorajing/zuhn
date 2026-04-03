@@ -49,7 +49,6 @@ stance: >-
   belief over a bridge of trust.
 related:
   - INS-260325-FF45
-  - INS-260327-0E33
   - PRI-260327-942E
   - PRI-260403-0ABD
   - INS-260327-B946

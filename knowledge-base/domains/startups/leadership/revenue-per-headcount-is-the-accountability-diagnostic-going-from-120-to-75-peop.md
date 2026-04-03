@@ -49,7 +49,6 @@ resolutions:
     metrics. Painful and many people left, but the survivors were happier, more
     productive, and the company was healthier.
 related:
-  - INS-260323-960A
   - INS-260323-CEA8
   - INS-260322-36E3
   - PRI-260323-9D46

@@ -47,7 +47,6 @@ stance: >-
   psychological barriers to exploration and leads to better outcomes than
   treating ideas as fixed blueprints.
 related:
-  - INS-260320-E044
   - INS-260323-C4E2
   - INS-260321-3660
   - INS-260322-3E59
@@ -57,6 +56,7 @@ related:
   - INS-260330-AB6E
   - INS-260330-6C68
   - PRI-260328-59DC
+  - INS-260402-EE6E
 evidence:
   - id: INS-260329-EAFD
     type: TRANSFERS_TO

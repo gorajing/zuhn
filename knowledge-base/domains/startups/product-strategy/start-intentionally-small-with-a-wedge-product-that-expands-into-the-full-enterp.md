@@ -53,7 +53,6 @@ stance: >-
   that slips between gaps in incumbent solutions, then expand to larger
   customers and broader use cases over time
 related:
-  - INS-260327-432E
   - INS-260330-0DCA
   - INS-260402-4AB4
   - INS-260327-CEE4

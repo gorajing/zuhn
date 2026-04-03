@@ -51,7 +51,6 @@ stance: >-
 related:
   - INS-260326-1CB1
   - INS-260323-2CCA
-  - INS-260327-DEEB
   - INS-260327-FA38
   - INS-260327-1756
   - INS-260327-E7AC
@@ -59,6 +58,7 @@ related:
   - INS-260330-FEB0
   - INS-260330-35E2
   - INS-260327-BF38
+  - INS-260327-1BBF
 evidence:
   - id: INS-260326-1CB1
     type: SUPPORTS

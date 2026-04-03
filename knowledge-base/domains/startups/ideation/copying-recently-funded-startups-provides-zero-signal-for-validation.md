@@ -41,14 +41,14 @@ resolutions:
 related:
   - INS-260325-9AD4
   - INS-260323-960A
+  - PRI-260403-26B9
   - INS-260402-EEDB
   - INS-260330-B09B
   - INS-260328-F301
   - INS-260323-8893
-  - INS-260328-4EA0
   - PRI-260323-8EEA
-  - INS-260327-7E3D
   - INS-260328-AA1F
+  - INS-260328-3F19
 stance: Using another company's funding as market validation is a false signal
 evidence:
   - id: INS-260329-4605

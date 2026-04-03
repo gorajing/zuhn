@@ -52,10 +52,10 @@ stance: >-
   outperforming dozens of shorter videos combined.
 related:
   - INS-260329-69F0
+  - PRI-260403-C76D
   - INS-260329-3332
   - INS-260329-E6AF
   - INS-260329-9AE9
-  - INS-260329-9A42
 evidence:
   - id: INS-260329-9AE9
     type: SUPPORTS

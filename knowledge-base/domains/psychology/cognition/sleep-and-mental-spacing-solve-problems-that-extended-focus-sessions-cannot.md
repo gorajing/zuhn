@@ -50,11 +50,11 @@ stance: >-
   but a cognitively superior strategy — the subconscious processing during rest
   reliably solves problems that hours of conscious grinding cannot.
 related:
+  - PRI-260403-9D15
   - INS-260325-898A
   - INS-260402-4AB4
   - INS-260330-FA9D
   - INS-260325-29D5
-  - INS-260327-E7B8
 evidence:
   - id: INS-260402-4AB4
     type: SUPPORTS

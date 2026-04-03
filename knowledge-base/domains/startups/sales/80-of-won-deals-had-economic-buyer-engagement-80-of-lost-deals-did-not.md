@@ -62,7 +62,6 @@ stance: >-
   predictor of deal outcomes in enterprise sales, and lacking it means you are
   order-taking rather than selling.
 related:
-  - INS-260322-0C28
   - INS-260323-B07C
   - INS-260323-422B
   - INS-260327-40E3
@@ -72,6 +71,7 @@ related:
   - PRI-260328-6A8D
   - PRI-260327-942E
   - INS-260328-D826
+  - INS-260330-5958
 evidence:
   - id: INS-260322-0C28
     type: TRANSFERS_TO

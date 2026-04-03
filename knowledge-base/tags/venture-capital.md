@@ -12,7 +12,6 @@
 - `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260329-D37E` The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
 - `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business.
-- `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
@@ -27,6 +26,7 @@
 - `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
 - `INS-260330-7220` The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
+- `INS-260402-43F9` Giving someone investment capital to build their own thing produces better outcomes than paying them a salary to build your thing.
 - `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-FA89` Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
 - `INS-260328-A417` PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.

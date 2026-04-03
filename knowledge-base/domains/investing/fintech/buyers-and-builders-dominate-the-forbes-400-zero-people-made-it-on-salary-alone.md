@@ -50,8 +50,8 @@ related:
   - PRI-260328-26AA
   - INS-260327-2B44
   - INS-260329-3036
+  - PRI-260403-5DEA
   - PRI-260328-EAC4
-  - INS-260328-33E8
 stance: Zero people on the Forbes 400 got there from earned income alone
 evidence:
   - id: INS-260329-3036

@@ -48,11 +48,11 @@ stance: >-
   Your first 10 employees each bring roughly 10 more people in their image,
   making early hiring decisions 10x more consequential than they appear.
 related:
+  - PRI-260403-7BEC
   - INS-260326-7B2A
   - INS-260327-2430
   - INS-260330-1B37
   - PRI-260328-E870
-  - INS-260323-9A93
 ---
 Patrick Collison argues that the first 10 employees are disproportionately important not just for their individual contributions, but because each one brings along roughly 10 more people who share their values and working style. This creates a compounding cultural effect where early hiring mistakes propagate exponentially.
 

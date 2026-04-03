@@ -53,7 +53,6 @@ related:
   - INS-260329-4EF5
   - INS-260402-8424
   - INS-260329-8B55
-  - INS-260329-2A70
 ---
 Rather than spending years building a business from scratch — dealing with zoning, permits, client acquisition, and equipment — you can acquire an already-profitable business using creative deal structures. Hormozi demonstrates this with his gym acquisition: he bought a gym doing $51K in its first month for $40-50K with zero money down, paying the seller over 12 months from the business's own cash flow. The business literally paid for itself in the first 30 days.
 

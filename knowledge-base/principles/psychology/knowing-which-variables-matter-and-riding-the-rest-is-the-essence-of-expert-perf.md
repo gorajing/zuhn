@@ -47,5 +47,7 @@ lineage:
     - id: INS-260330-790A
       relation: EXTENDS
   compression_trigger: COMPRESS flag — expertise
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 Byron controls arrow spine precisely but rides the wobble. Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency. Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification. Expertise is knowing which variables to control and which to let oscillate.

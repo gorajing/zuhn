@@ -40,8 +40,8 @@ related:
   - INS-260322-474A
   - PRI-260323-8E89
   - PRI-260328-9E3F
+  - PRI-260403-50EF
   - INS-260325-9F12
-  - INS-260330-9471
 stance: >-
   Karpathy's auto-research loop found hyperparameter improvements overnight that
   his two decades of ML experience missed

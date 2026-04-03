@@ -47,15 +47,15 @@ stance: >-
   waiting for the perfect idea with zero customer context
 related:
   - INS-260320-6CCE
-  - INS-260323-5CBE
   - INS-260322-5650
   - INS-260327-6E33
   - INS-260327-A98E
-  - INS-260327-5B30
   - INS-260327-89C7
   - INS-260330-1D9D
+  - INS-260323-5CBE
   - INS-260330-C13A
-  - INS-260330-2E58
+  - INS-260330-82B5
+  - INS-260330-178D
 evidence:
   - id: INS-260320-6CCE
     type: CONTRADICTS

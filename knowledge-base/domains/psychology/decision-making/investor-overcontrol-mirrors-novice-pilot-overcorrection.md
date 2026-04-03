@@ -49,7 +49,7 @@ related:
   - INS-260403-498A
   - INS-260402-EEDB
   - INS-260330-478B
-  - INS-260330-EE5E
+  - PRI-260403-26B9
 ---
 Graham uses the novice pilot analogy to argue that investors systematically overcontrol portfolio companies. The aircraft overcorrection pattern—where vigorous corrections cause oscillation instead of smooth convergence—maps directly to how investor interventions can create more stress and instability than the problems they aim to solve.
 

@@ -45,16 +45,16 @@ stance: >-
   more likely to fail because fundraising addiction displaces the unglamorous
   work that actually builds companies.
 related:
-  - INS-260322-0C91
   - INS-260321-3521
   - INS-260325-3E9F
   - INS-260323-8893
   - INS-260327-7E3D
-  - INS-260327-D2A6
   - INS-260327-8D86
   - INS-260328-896B
   - INS-260328-7CA9
   - INS-260328-D220
+  - INS-260328-9415
+  - INS-260328-372B
 evidence:
   - id: INS-260328-896B
     type: TRANSFERS_TO

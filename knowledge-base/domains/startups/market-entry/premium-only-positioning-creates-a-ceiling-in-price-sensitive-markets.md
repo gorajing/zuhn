@@ -42,11 +42,11 @@ stance: >-
   Companies that refuse to offer lower-tier products in emerging markets will
   permanently cap their addressable market regardless of brand strength
 related:
-  - INS-260321-52EF
   - INS-260330-660A
   - INS-260330-7479
+  - PRI-260403-2B12
+  - INS-260321-52EF
   - INS-260330-7ED0
-  - INS-260327-6900
 evidence:
   - id: INS-260321-52EF
     type: SUPPORTS

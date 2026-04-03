@@ -50,5 +50,5 @@
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260328-8B2C` The classic pitch 'we save you 5 engineers worth a million dollars' almost never works because companies buy what makes them bigger, not what makes them leaner.
-- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.
 - `INS-260329-CB6D` The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
+- `INS-260402-D8E7` Pretty much 100% of startups that make something popular manage to make money from it.

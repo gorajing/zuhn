@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-50B5
   - INS-260330-CC49
+  - PRI-260403-5DEA
   - INS-260329-D37E
   - INS-260330-F527
-  - INS-260330-D5BD
 ---
 Levie argues that enterprise startups must start intentionally small — finding a specific slice of a problem where they can deliver a dramatically better user experience or business model, then expand over time to larger customers or broader use cases. The key word is 'intentionally': smallness isn't a limitation but a deliberate strategy. Incumbents will always go for the full solution, so competing head-on is suicidal.
 

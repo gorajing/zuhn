@@ -46,11 +46,10 @@ stance: >-
   revenue rather than fighting for unit sales
 related:
   - INS-260322-C33D
-  - INS-260327-4233
+  - PRI-260403-1D59
   - INS-260330-DE80
   - INS-260322-B450
   - PRI-260328-6A8D
-  - INS-260323-FEAB
 evidence:
   - id: INS-260323-FEAB
     type: CHALLENGES

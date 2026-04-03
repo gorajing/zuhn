@@ -42,12 +42,11 @@ stance: >-
   second-time founders should diversify revenue streams to avoid the cash flow
   death spiral.
 related:
-  - INS-260324-1275
+  - PRI-260403-1D59
   - PRI-260328-8284
   - INS-260330-78B1
   - PRI-260328-0993
   - INS-260330-3E0B
-  - INS-260324-DB86
   - INS-260327-E68D
   - INS-260329-3E28
   - INS-260330-EF10

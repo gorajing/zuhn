@@ -38,11 +38,10 @@ resolutions:
     apply or were never valid.
 related:
   - INS-260329-ABD9
+  - PRI-260403-3906
   - INS-260402-F08D
   - INS-260329-1739
   - PRI-260328-04FA
-  - INS-260327-E7A3
-  - INS-260403-76C3
 stance: >-
   Find ideas that have been discarded by others rather than trying to discover
   something no one has ever thought of.

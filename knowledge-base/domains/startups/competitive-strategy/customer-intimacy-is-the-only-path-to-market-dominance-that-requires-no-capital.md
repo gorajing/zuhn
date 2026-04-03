@@ -56,12 +56,12 @@ stance: >-
   solution—only customer intimacy (best solution) is accessible to startups at
   any stage because it requires humility and manners rather than capital
 related:
-  - INS-260323-3D7D
   - INS-260321-A3A1
   - INS-260330-D6D3
+  - INS-260323-3D7D
   - INS-260323-73AB
   - PRI-260322-8FD4
-  - INS-260328-17D7
+  - PRI-260403-2B12
 evidence:
   - id: INS-260321-A3A1
     type: TRANSFERS_TO

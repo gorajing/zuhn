@@ -13,6 +13,7 @@
 - `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
 - `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
+- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
@@ -20,17 +21,18 @@
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
-- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
+- `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
 - `INS-260323-176B` Covert contracts — where one party secretly resents an agreement and begins taking compensation through indirect sabotage — are the root mechanism of relationship destruction.
 - `INS-260330-8D2C` The architecture of social media makes criticism indistinguishable from cruelty, so personal growth requires deliberately building and maintaining a trusted inner circle whose feedback you actually internalize.
 - `INS-260329-59D2` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey.
 - `INS-260330-DD91` Rogan trusts old friends and fellow comedians because the grueling process of becoming a comic — years of bombing, humiliation, and persistence — creates a bond that reveals character more reliably than any other signal.
 - `INS-260323-CF27` Positive interactions require vulnerability -- exposing that you care, that you're stressed, that you want to be liked -- and this exposure is what transforms routine exchanges into genuine bonds.
-- `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
-- `INS-260322-5831` ElevenLabs' co-founders Mati and Peter are childhood best friends with complementary skills — one product-focused, one research-focused — and their deep mutual trust enables the company to move at extreme speed.
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
+- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
+- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
+- `INS-260322-5831` ElevenLabs' co-founders Mati and Peter are childhood best friends with complementary skills — one product-focused, one research-focused — and their deep mutual trust enables the company to move at extreme speed.
 - `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260403-7563` Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside.
@@ -41,13 +43,13 @@
 - `INS-260330-C7DB` Rosalind Franklin's unpublished X-ray crystallography data was shown to Watson and Crick without her knowledge, enabling their model — a cautionary tale about sharing proprietary data without structural protection.
 - `INS-260330-3ECE` Rosalind Franklin's open data-sharing with Watson and Crick directly enabled them to claim credit for the DNA double helix discovery.
 - `INS-260329-5346` Trust has migrated from institutions to individuals who show their work transparently
-- `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
 - `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
+- `INS-260330-636E` Ponzi's scheme collapsed when he hired honest publicist William McMasters, who gained access to records and exposed the fraud to the Boston Post.
+- `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
+- `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260323-4A3D` In prisoner's dilemma simulations, adding just a few shortcut connections to a clustered network destroys cooperation entirely -- explaining why social media breeds toxicity.
 - `INS-260329-388E` Goodwill functions like a financial asset that compounds over time and generates measurable returns.
-- `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
-- `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260402-1436` Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition.
 - `INS-260327-6D58` A clown gets attention but has no fan club — trusted creators with small audiences outperform viral ones with millions of followers.
 - `INS-260322-6AF5` Amazon's product search has degraded so badly (spam, fake reviews, wrong-size photos, unclear ads) that DoorDash competing on product trust from local stores is a viable strategy — big tech's moats erode from the inside.
@@ -69,9 +71,7 @@
 - `INS-260329-2A5A` Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.
 - `INS-260329-4A69` Invest in capturing and displaying proof rather than crafting elaborate promises — proof is always more compelling.
 - `INS-260329-A6DB` Referrals close easily because the referrer has already solved the trust problem, not because the prospect is more qualified.
-- `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
-- `INS-260321-86E7` As AI-generated articles surpass human-written ones and AI slop floods social media, audiences will increasingly seek out authentic creators with long-term trusted brands.
-- `INS-260321-4280` With 10,000+ hours of footage online, any inauthenticity would surface as visible inconsistencies — authenticity is not a choice but a mathematical constraint at scale.
 - `INS-260323-2DB0` Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
 - `INS-260330-4ACF` Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
+- `INS-260323-92AD` Mortgage fraud safeguards are designed for ordinary borrowers, not for brokers who understand the system — Cox learned to exploit seams by moving from employee to company owner where he could see the full architecture.
 - `INS-260323-9E30` Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.

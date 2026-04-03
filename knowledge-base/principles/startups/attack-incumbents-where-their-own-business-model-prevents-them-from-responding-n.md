@@ -46,5 +46,7 @@ lineage:
     - id: INS-260330-5B5E
       relation: EXTENDS
   compression_trigger: COMPRESS flag — competitive-strategy
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 Start in markets so small that incumbents dismiss them as worthless — PayPal started with 20,000 eBay power sellers, Facebook with 10,000 Harvard students, achieving 25-60% penetration before expanding outward. The amount of value you create and the percentage you capture are independent variables. Airlines create enormous value but capture almost none; monopolies create less but capture nearly all. Position to capture, not just create.

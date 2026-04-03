@@ -44,7 +44,7 @@ related:
   - INS-260322-B450
   - PRI-260328-6A8D
   - INS-260330-5C64
-  - INS-260330-CAAB
+  - PRI-260403-1D59
 ---
 Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlash because the feature is visibly present but artificially disabled.
 

@@ -54,15 +54,15 @@ stance: >-
   reasons why no one has succeeded, and most founders never even Google to find
   this out.
 related:
-  - INS-260321-6BA7
   - PRI-260328-04FA
+  - PRI-260403-3906
   - INS-260402-F08D
   - INS-260325-898A
   - INS-260327-CD36
-  - INS-260402-841D
   - INS-260329-ABD9
   - INS-260330-3591
   - INS-260330-C0B9
+  - INS-260402-841D
 evidence:
   - id: INS-260330-3591
     type: SUPPORTS

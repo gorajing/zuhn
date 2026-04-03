@@ -50,7 +50,6 @@ stance: >-
   irreversible loss of internal balance — making homeostasis maintenance the
   single most important health objective.
 related:
-  - INS-260327-390A
   - INS-260327-1F6E
   - INS-260330-75B5
   - INS-260325-FC52

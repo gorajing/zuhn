@@ -48,8 +48,8 @@ related:
   - INS-260327-D9C0
   - INS-260330-BCD8
   - INS-260327-85E2
+  - PRI-260403-6DD6
   - PRI-260323-2C5C
-  - INS-260322-B641
 stance: Life defaults are like software defaults
 evidence:
   - id: INS-260327-85E2

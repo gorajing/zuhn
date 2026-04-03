@@ -42,7 +42,6 @@ resolutions:
     switches cost 30 minutes of focus, and that every automation makes the next
     one cheaper.
 related:
-  - INS-260320-9935
   - PRI-260328-D5EB
   - INS-260322-3C3D
   - PRI-260328-4CC0
@@ -52,6 +51,7 @@ related:
   - INS-260327-7D27
   - INS-260328-0932
   - INS-260329-F7F4
+  - INS-260329-36D9
 stance: >-
   Code's real advantage isn't zero marginal cost of serving users — it's
   zero-cost experimentation

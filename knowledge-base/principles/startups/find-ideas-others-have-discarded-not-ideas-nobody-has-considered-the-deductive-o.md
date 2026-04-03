@@ -51,5 +51,7 @@ lineage:
     - id: INS-260330-752E
       relation: EXTENDS
   compression_trigger: COMPRESS flag — ideation + validation
+embedded: true
+embedding_model: "nomic-embed-text"
 ---
 Deliberately brainstorming startup ideas produces plausible-sounding but fundamentally flawed ideas that no one urgently needs. Good startup ideas look like narrow deep wells — a small number of people who want the product desperately. Spend 1-2 months working inside your target industry to surface inefficiencies invisible from the outside. The best ideas were already tried and abandoned for fixable reasons.

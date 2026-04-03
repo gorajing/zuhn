@@ -56,8 +56,8 @@ related:
   - INS-260327-DC45
   - INS-260327-FFE8
   - INS-260327-8DAA
-  - INS-260327-33EA
   - INS-260327-7C60
+  - INS-260327-25C7
 ---
 At Leipzig, thousands of Saxon, Wurttemberg, and other German troops defected to the coalition during the battle itself. This wasn't random timing — they switched at the precise moment when the battle's outcome was becoming clear but not yet decided, maximizing their value to the winning side and their post-war negotiating position. Earlier defection would have been riskier; later defection would have been less valuable.
 

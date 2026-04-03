@@ -56,7 +56,6 @@ related:
   - INS-260325-436A
   - INS-260330-8625
   - INS-260330-F60B
-  - INS-260330-7ABB
 stance: >-
   If the Moon is necessary for complex life, then its improbable formation
   should be expected

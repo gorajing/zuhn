@@ -56,13 +56,13 @@ stance: >-
   about entire ethnic groups.
 related:
   - INS-260325-3B28
-  - PRI-260323-81E9
   - INS-260327-9D51
   - INS-260330-141E
   - INS-260330-237E
   - INS-260330-420B
+  - PRI-260323-81E9
+  - PRI-260403-50EF
   - INS-260403-FE91
-  - INS-260403-41BC
 evidence:
   - id: INS-260402-3FD8
     type: CHALLENGES

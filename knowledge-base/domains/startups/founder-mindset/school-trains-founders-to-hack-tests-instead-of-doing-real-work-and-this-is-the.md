@@ -47,7 +47,6 @@ stance: >-
   tactics is that their education trained them to hack authority-imposed tests
   rather than produce genuine value.
 related:
-  - INS-260322-A02C
   - INS-260322-EF20
   - INS-260323-1975
   - INS-260327-8C1C
@@ -57,6 +56,7 @@ related:
   - INS-260329-6BE8
   - INS-260330-DE1D
   - INS-260330-52C7
+  - INS-260330-F737
 evidence:
   - id: INS-260330-F737
     type: SUPPORTS

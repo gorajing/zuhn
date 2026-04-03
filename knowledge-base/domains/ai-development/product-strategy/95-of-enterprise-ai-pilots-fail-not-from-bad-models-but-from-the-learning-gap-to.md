@@ -55,7 +55,6 @@ related:
   - INS-260325-5CA5
   - INS-260322-37EE
   - INS-260327-088E
-  - INS-260330-A0AE
 evidence:
   - id: INS-260322-37EE
     type: EXTENDS

@@ -48,13 +48,12 @@ stance: >-
   of price-sensitive markets regardless of brand strength
 related:
   - INS-260324-ABAC
-  - INS-260329-4B99
   - INS-260330-EBF6
   - INS-260330-1B6E
   - INS-260330-660A
+  - PRI-260403-2B12
   - INS-260330-D071
   - INS-260327-82AA
-  - INS-260330-3431
 evidence:
   - id: INS-260330-EBF6
     type: TRANSFERS_TO

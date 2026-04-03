@@ -50,10 +50,10 @@ stance: >-
   consciously identify or overcome it.
 related:
   - INS-260403-41BC
+  - PRI-260403-52DF
   - INS-260330-0102
   - INS-260403-E9DD
   - PRI-260324-12CF
-  - INS-260330-A660
   - INS-260403-875B
 evidence:
   - id: INS-260330-0102

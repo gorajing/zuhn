@@ -53,7 +53,6 @@ stance: >-
 related:
   - INS-260320-703F
   - INS-260325-51E6
-  - INS-260323-6351
   - INS-260323-2FF9
   - INS-260323-E9E4
   - INS-260322-A31D
@@ -61,6 +60,7 @@ related:
   - INS-260323-4C43
   - INS-260327-33E0
   - INS-260327-8AE7
+  - INS-260328-195E
 evidence:
   - id: INS-260320-703F
     type: TRANSFERS_TO

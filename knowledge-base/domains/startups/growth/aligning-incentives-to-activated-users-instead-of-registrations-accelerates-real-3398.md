@@ -48,8 +48,8 @@ related:
   - INS-260330-70BC
   - INS-260330-9C48
   - INS-260330-4553
+  - PRI-260403-E097
   - INS-260330-E61E
-  - INS-260330-21CC
 evidence:
   - id: INS-260330-4553
     type: REFINES
