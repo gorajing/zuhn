@@ -50,10 +50,10 @@ stance: >-
   learning value than either clean successes or total failures
 related:
   - INS-260323-144F
+  - INS-260403-9442
   - PRI-260323-2FEE
   - INS-260330-8BF6
   - INS-260320-7682
-  - PRI-260328-604D
 evidence:
   - id: INS-260320-7682
     type: SUPPORTS

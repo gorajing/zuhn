@@ -49,10 +49,10 @@ stance: >-
   'gradually then suddenly' collapse pattern.
 related:
   - INS-260327-10E8
+  - INS-260403-4E7A
   - INS-260330-C477
   - INS-260325-17BF
   - INS-260325-922D
-  - INS-260323-F5EF
 evidence:
   - id: INS-260325-17BF
     type: CONTRADICTS

@@ -3,7 +3,7 @@ Generated on 2026-04-03 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 130 | 2026-03-30 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 134 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -238,7 +238,9 @@ Generated on 2026-04-03 | 2421 sources
 | SVAI   Panel | audio | 5 | 2026-03-31 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
+| 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
+| 1,000,000 | blog | 5 | 2026-03-31 |
 | 12 Ruthless CEO Emails Every Founder Should Study | blog | 5 | 2026-03-30 |
 | 18 Lessons from Harry Stebbings That Every Founder Should Know | blog | 5 | 2026-03-30 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
@@ -273,12 +275,14 @@ Generated on 2026-04-03 | 2421 sources
 | Being John Rawls | blog | 5 | 2026-03-30 |
 | Being Popular | blog | 5 | 2026-03-31 |
 | Best Books for Founders: What Startup Leaders Actually Read | blog | 5 | 2026-03-30 |
+| Best Of Moltbook | blog | 5 | 2026-03-30 |
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
 | Billionaires Build | blog | 5 | 2026-03-31 |
 | build a Billion-Dollar Startup with a minimal team thanks to AI | blog | 5 | 2026-03-30 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Business models: the toolkit to design a disruptive company | blog | 5 | 2026-03-31 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
+| CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
 | Design and Research | blog | 5 | 2026-03-31 |
@@ -295,6 +299,7 @@ Generated on 2026-04-03 | 2421 sources
 | Hidden VC Fund Secrets Every Founder Should Know | blog | 5 | 2026-03-30 |
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
 | How Art Can Be Good | blog | 5 | 2026-03-31 |
+| How ChatGPT Prompts Are Becoming Startups: From Idea to MVP | blog | 5 | 2026-03-30 |
 | How Elad Gil Built a One-Person Multi-Billion Venture Machine | blog | 5 | 2026-03-30 |
 | How PayPal & Trulia Navigated Downturns: David Sacks, Craft Ventures + Co-Founder of PayPal | blog | 5 | 2026-03-31 |
 | How People Get Rich Now | blog | 5 | 2026-03-31 |
@@ -370,6 +375,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Age of the Essay | blog | 5 | 2026-03-31 |
 | The AI-First Marketplace | blog | 5 | 2026-03-31 |
 | The Best Essay | blog | 5 | 2026-03-31 |
+| The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating Giants | blog | 5 | 2026-03-30 |
 | The Brand Age | blog | 5 | 2026-03-31 |
 | The Bus Ticket Theory of Genius | blog | 5 | 2026-03-31 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
@@ -396,7 +402,9 @@ Generated on 2026-04-03 | 2421 sources
 | The Second-Time Founder Effect: How Experience Shapes Startup Success | blog | 5 | 2026-03-30 |
 | The Secret Strategy of Stealth Startups | blog | 5 | 2026-03-30 |
 | The Story of Replit: From Internet Cafes to AI Sovereignty | blog | 5 | 2026-03-30 |
+| The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
+| The Verticalization of Everything | blog | 5 | 2026-03-31 |
 | The Weeb Economy | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
@@ -1540,7 +1548,6 @@ Generated on 2026-04-03 | 2421 sources
 | @u.northwestern.edu Mail - The Agentic AI Tipping Point | pdf | 0 | 2026-03-30 |
 | 0 To $100 Million In 9 Months 🚀, AI for social good🌍, Governments are the biggest source of VC funds🏛️ | blog | 0 | 2026-03-30 |
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 0 | 2026-03-30 |
-| 10 Best Venture Capital Books Recommended by Top VCs | blog | 0 | 2026-03-30 |
 | 10 Characteristics of Great Value Propositions | blog | 0 | 2026-03-31 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 0 | 2026-03-31 |
@@ -1549,7 +1556,6 @@ Generated on 2026-04-03 | 2421 sources
 | 10 Questions to Expect During a First Call With a VC | blog | 0 | 2026-03-30 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
 | $1,000 Head Start For America's Youth | blog | 0 | 2026-03-30 |
-| 1,000,000 | blog | 0 | 2026-03-31 |
 | 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 0 | 2026-03-30 |
 | 12 Financial Models📊, Claude Opus 4.6🤖, AI Dominates🔥 | blog | 0 | 2026-03-30 |
 | 12 Mistakes To Avoid When Turning An Idea Into A Business | blog | 0 | 2026-03-31 |
@@ -1752,7 +1758,6 @@ Generated on 2026-04-03 | 2421 sources
 | Best Innovation Management Books: 20 Must-Reads for Leaders | blog | 0 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 0 | 2026-03-31 |
 | Best innovation management software for your business | blog | 0 | 2026-03-31 |
-| Best Of Moltbook | blog | 0 | 2026-03-30 |
 | Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
 | Beyond Smart | blog | 0 | 2026-03-31 |
 | Bill Gates's €1bn Climate fund🔋, Paths to Product-Market Fit🎯, State of AI investing📊 | blog | 0 | 2026-03-30 |
@@ -1794,7 +1799,6 @@ Generated on 2026-04-03 | 2421 sources
 | Choosing The Final Frontier: Launching a Rocket Company with Andy Lapsa of Stoke Space | blog | 0 | 2026-03-31 |
 | “Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯 | blog | 0 | 2026-03-30 |
 | Climate Tech is "Dead"🌱, The Rise of Anti-Woke VC💼, State of Global VC 🌍 | blog | 0 | 2026-03-30 |
-| CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 0 | 2026-03-30 |
 | Coatue’s 18-Chart Report: Why AI Is Still Early, Not a Bubble | blog | 0 | 2026-03-30 |
 | Coinbase Launches a Multi-Asset Product Stack | blog | 0 | 2026-03-30 |
 | Community Meetup | blog | 0 | 2026-03-30 |
@@ -1950,7 +1954,6 @@ Generated on 2026-04-03 | 2421 sources
 | Higher Rates Will Lead to the Next Generation of Great Tech Startups | blog | 0 | 2026-03-30 |
 | Holding a Program in One's Head | blog | 0 | 2026-03-31 |
 | How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 0 | 2026-03-30 |
-| How ChatGPT Prompts Are Becoming Startups: From Idea to MVP | blog | 0 | 2026-03-30 |
 | How Creandum Built a $2B VC Fund Backing Spotify and Lovable | blog | 0 | 2026-03-30 |
 |  How Do VCs Really Make Decisions?💡 | blog | 0 | 2026-03-30 |
 | How Harry Stebbings Turned a Podcast Into a $400M Venture Fund | blog | 0 | 2026-03-30 |
@@ -2165,7 +2168,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Anatomy of Determination | blog | 0 | 2026-03-31 |
 | The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 0 | 2026-03-30 |
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
-| The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating Giants | blog | 0 | 2026-03-30 |
 | The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
 | The Brutally Honest 10-Year Startup Journey Map | blog | 0 | 2026-03-30 |
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
@@ -2242,7 +2244,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 0 | 2026-03-30 |
 | The Submarine | blog | 0 | 2026-03-31 |
-| The Takaichi Era begins for real | blog | 0 | 2026-03-30 |
 | The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 0 | 2026-03-31 |
 | The Top Idea in Your Mind | blog | 0 | 2026-03-31 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |
@@ -2277,7 +2278,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Venture Capital Apocalypse | blog | 0 | 2026-03-30 |
 | The Venture Capital Playbook | blog | 0 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 0 | 2026-03-31 |
-| The Verticalization of Everything | blog | 0 | 2026-03-31 |
 | The Wartime CEO: 9 Leadership Principles for Strong Startups | blog | 0 | 2026-03-31 |
 | The Word "Hacker" | blog | 0 | 2026-03-31 |
 | There isn't always a "long arc" of morality | blog | 0 | 2026-03-30 |

@@ -1,11 +1,12 @@
 # Topic: ai-business-models
 
-> 11 insights
+> 12 insights
 
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
 - `INS-260322-EDA4` [high] New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - `INS-260325-FADB` [high] Open Router observes companies on their platform doing tens of millions in revenue with just five people, made possible by models powering what previously required large teams.
 - `INS-260322-54F3` [high] The prediction that giant foundation models would be all-purpose brains has not materialized — application-layer complexity requires many specialized models working together.
+- `INS-260403-3517` [high] Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.
 - `INS-260325-BEAC` [high] Open Router data shows 60-80% of top AI app operating costs are inference, and this ratio is growing as agentic usage explodes.
 - `INS-260322-E20E` [high] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
 - `INS-260322-054E` [high] The largest AI opportunity is not replacing existing software but replacing labor tasks where the cost-to-value equation was previously inverted.

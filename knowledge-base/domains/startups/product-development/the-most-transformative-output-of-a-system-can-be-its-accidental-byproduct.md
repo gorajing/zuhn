@@ -48,12 +48,13 @@ stance: >-
   original intended output of a process.
 related:
   - INS-260330-19C3
+  - INS-260403-31AF
   - INS-260330-E786
   - INS-260330-656A
   - INS-260330-3AB4
-  - INS-260330-0CFF
   - INS-260330-C7C2
   - INS-260330-13A1
+  - INS-260330-0CFF
   - INS-260330-90B6
 evidence:
   - id: INS-260330-E786

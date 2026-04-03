@@ -49,11 +49,11 @@ stance: >-
   majority fade to nothing.
 related:
   - INS-260330-4FB9
+  - INS-260403-F234
   - PRI-260322-8FD4
   - INS-260403-8011
   - INS-260327-65F6
   - INS-260330-8481
-  - INS-260321-C902
 evidence:
   - id: INS-260320-CDE4
     type: TRANSFERS_TO

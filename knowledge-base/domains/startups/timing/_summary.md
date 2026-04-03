@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 39 insights
+> 40 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -19,6 +19,7 @@
 - `INS-260402-9F35` [high] Mid-century equality was produced by war and oligopoly, making it a poor baseline for modern policy goals.
 - `INS-260403-7C71` [high] Founder wealth creation is the historical default; the mid-20th century corporate era was a temporary phase caused by consolidation.
 - `INS-260328-58B1` [high] Name the 20 software companies you respect most — not one of them made it in a year.
+- `INS-260403-4E7A` [high] Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - `INS-260325-0F4F` [high] Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
 - `INS-260325-B868` [high] Progress begets progress through feedback loops where inventions like computers and steam engines amplify the capacity to invent further.
 - `INS-260325-A46E` [high] The lesson of the 50-year progress slowdown is that progress requires each generation to actively believe in and invest in it.

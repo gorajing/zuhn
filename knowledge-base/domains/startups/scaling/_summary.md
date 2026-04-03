@@ -1,11 +1,12 @@
 # Topic: scaling
 
-> 110 insights
+> 111 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
 - `INS-260327-BA93` [high] AI-native founders grow 20% faster while wanting to raise $250K less—the venture equation is shifting.
 - `INS-260327-968C` [high] Block's AI transformation began with the CTO writing a manifesto email to Jack Dorsey, then both spending two days aligning on centralized AI investment before restructuring the entire organization.
+- `INS-260403-B387` [high] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - `INS-260329-903B` [high] AWS GovCloud and compliance programs let startups inherit compliance certifications instead of building them from scratch, opening regulated markets like government and healthcare.
 - `INS-260327-A5F9` [high] B2B sales cycles are 10x longer than consumer — if you invest months and get zero, you need diversified revenue to survive.
 - `INS-260330-B390` [high] YC's batch model accidentally created a self-reinforcing ecosystem where startups became each other's customers, advisors, and support network.

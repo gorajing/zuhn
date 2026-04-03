@@ -55,11 +55,11 @@ stance: >-
   boundaries where large organizations split work between specialists, because
   integration insights live in the seams.
 related:
+  - INS-260403-B387
   - INS-260330-B539
   - PRI-260403-6E50
   - INS-260330-F4C0
   - INS-260327-5690
-  - INS-260403-DB38
 evidence:
   - id: INS-260330-B539
     type: TRANSFERS_TO

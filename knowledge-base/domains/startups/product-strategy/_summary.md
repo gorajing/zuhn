@@ -1,10 +1,11 @@
 # Topic: product-strategy
 
-> 27 insights
+> 29 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
 - `INS-260330-766D` [high] Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.
+- `INS-260403-31AF` [high] Oxygen — the gas that enabled all animal life — was originally just a waste product of early photosynthesis.
 - `INS-260330-0CFF` [high] Oxygen was a 'useless byproduct' of photosynthesis that accidentally enabled all animal life — the most consequential output was the one nobody designed for.
 - `INS-260330-41F6` [high] Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value.
 - `INS-260330-13A1` [high] Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
@@ -27,5 +28,6 @@
 - `INS-260403-E69C` [high] Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260403-9681` [medium] AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase.
 - `INS-260330-6D59` [medium] Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward.
+- `INS-260403-B5C0` [medium] Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 - `INS-260330-C95F` [medium] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - `INS-260330-2AA7` [medium] Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.

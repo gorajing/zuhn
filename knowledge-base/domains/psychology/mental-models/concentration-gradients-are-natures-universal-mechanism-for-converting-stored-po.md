@@ -61,7 +61,6 @@ related:
   - INS-260330-B38B
   - INS-260330-21A8
   - INS-260330-3C3C
-  - PRI-260403-6E50
 evidence:
   - id: INS-260330-100F
     type: SUPPORTS

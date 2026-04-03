@@ -50,7 +50,6 @@ stance: >-
   encoded and delivered as a robotic service.
 related:
   - INS-260321-2BF9
-  - INS-260325-F20C
   - INS-260322-B33E
   - INS-260323-7A50
   - INS-260325-EF79
@@ -59,6 +58,7 @@ related:
   - PRI-260328-7007
   - INS-260327-1652
   - INS-260329-2F63
+  - INS-260327-BEFF
 evidence:
   - id: INS-260323-DDC2
     type: EXTENDS

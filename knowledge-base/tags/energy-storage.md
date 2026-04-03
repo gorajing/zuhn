@@ -1,5 +1,6 @@
 # Tag: energy-storage
 
+- `INS-260403-384C` Thylakoid proton gradients store energy by creating imbalance across a membrane, a pattern that generalizes to information and attention asymmetries in product design.
 - `INS-260330-EAA3` Controlled imbalances released through constrained channels are the universal pattern for converting raw energy into useful work.
 - `INS-260330-1677` Chloroplasts charge thylakoids like batteries by pumping protons inside, then harvest that gradient through ATP synthase to produce ATP.
 - `INS-260330-9FAA` The thylakoid membrane acts as a biological battery — pumping protons to one side creates a concentration gradient that drives ATP synthase like water through a turbine.

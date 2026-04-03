@@ -44,11 +44,12 @@ stance: >-
   When institutional systems enforce wrong norms, most people rationalize
   compliance rather than recognizing the system is broken
 related:
-  - INS-260327-D570
   - INS-260329-7F3D
   - INS-260330-5A13
   - INS-260402-4B96
   - INS-260402-3C79
+  - INS-260403-A907
+  - INS-260327-D570
 evidence:
   - id: INS-260327-D570
     type: TRANSFERS_TO

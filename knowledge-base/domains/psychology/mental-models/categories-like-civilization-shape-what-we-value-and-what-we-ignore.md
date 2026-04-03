@@ -48,7 +48,6 @@ stance: >-
   settled, hierarchical societies and obscures the achievements of alternative
   social organizations.
 related:
-  - INS-260330-D385
   - INS-260330-EDF4
   - INS-260330-7E97
   - INS-260330-CF10

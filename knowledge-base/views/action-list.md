@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3132 actionable insights
+Generated on 2026-04-03 | 3137 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1658,6 +1658,7 @@ Generated on 2026-04-03 | 3132 actionable insights
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
 - [INS-260322-EDA4] New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
 - [INS-260403-2E0F] The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
+- [INS-260403-3517] Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents.
 
 ## startups/bootstrapping
 - [INS-260320-39A3] Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -1940,6 +1941,7 @@ Generated on 2026-04-03 | 3132 actionable insights
 - [INS-260403-97CA] Incumbents will always win the copilot game because they have the data and distribution; startups must leapfrog by eliminating workflows entirely.
 - [INS-260403-2074] If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - [INS-260403-37FD] Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
+- [INS-260403-9442] Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2911,6 +2913,7 @@ Generated on 2026-04-03 | 3132 actionable insights
 - [INS-260403-B73A] When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling.
 - [INS-260403-204E] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
 - [INS-260403-3656] Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
+- [INS-260403-B5C0] Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3152,6 +3155,7 @@ Generated on 2026-04-03 | 3132 actionable insights
 - [INS-260403-20BF] A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - [INS-260403-DC6E] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 - [INS-260403-7227] Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
+- [INS-260403-B387] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3219,6 +3223,7 @@ Generated on 2026-04-03 | 3132 actionable insights
 - [INS-260330-548B] Prioritize market growth rate over current size when evaluating startup ideas, because a small fast-growing market offers better startup dynamics than a large stagnant one.
 - [INS-260330-39C6] Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
 - [INS-260330-8907] Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
+- [INS-260403-4E7A] Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.

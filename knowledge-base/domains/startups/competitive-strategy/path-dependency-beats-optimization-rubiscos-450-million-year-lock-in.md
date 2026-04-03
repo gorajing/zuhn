@@ -52,10 +52,10 @@ stance: >-
 related:
   - INS-260327-7B05
   - INS-260402-8170
+  - INS-260403-A907
   - INS-260330-3FCF
   - INS-260321-1A0B
   - INS-260323-3ADC
-  - INS-260326-AB92
 evidence:
   - id: INS-260323-3ADC
     type: EXTENDS
