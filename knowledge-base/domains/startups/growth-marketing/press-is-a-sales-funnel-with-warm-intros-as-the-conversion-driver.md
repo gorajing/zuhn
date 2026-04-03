@@ -51,7 +51,6 @@ stance: >-
   from recently-covered founders are the highest-converting channel, making
   press a relationship asset rather than a meritocratic discovery process.
 related:
-  - INS-260323-CD03
   - INS-260327-019C
   - INS-260330-4DBE
   - INS-260330-F4DD

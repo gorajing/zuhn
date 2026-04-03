@@ -58,7 +58,6 @@ related:
   - PRI-260324-8EE6
   - INS-260330-27DF
   - INS-260330-03A9
-  - INS-260330-39E4
 stance: >-
   Western media overestimates Iranian regime fragility because it amplifies
   diaspora voices

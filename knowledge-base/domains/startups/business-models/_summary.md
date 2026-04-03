@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 128 insights
+> 129 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -73,6 +73,7 @@
 - `INS-260327-B116` [high] Nightclub economics are driven by selling status through bottle service, VIP areas, and exclusivity rather than the actu
 - `INS-260324-CBD3` [high] LA's top nightcrawlers make 6-8 figures filming breaking news at night that local TV stations can't cover — invisible infrastructure with guaranteed institutional demand.
 - `INS-260323-5A96` [high] Americans replace mattresses every 9-10 years — Casper's massive ad spend couldn't change this fundamental market constraint, and growth decelerated from 43% to 18% despite continued spending.
+- `INS-260403-4E16` [high] Shifting from task-based to outcome-based pricing for AI agents mirrors healthcare's fee-for-service to value-based care transition, emphasizing quality over quantity.
 - `INS-260324-D612` [high] Pizza has the lowest food costs in fast food (flour, canned tomatoes, subsidized cheese), needs minimal space, and 50% of US pizza shops are still independent — unlike burgers where 90% are chains.
 - `INS-260327-C294` [high] Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
 - `INS-260327-FBD8` [high] Gun store revenue is driven primarily by fear of future regulation rather than actual use demand, creating cyclical boom

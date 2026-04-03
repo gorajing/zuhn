@@ -49,8 +49,8 @@ related:
   - INS-260330-19C3
   - INS-260330-41F6
   - INS-260330-90B6
+  - INS-260403-726B
   - INS-260330-E786
-  - INS-260327-C13D
 stance: >-
   Creating mycelium leather is pointless if assembling the shoe still requires
   toxic glue

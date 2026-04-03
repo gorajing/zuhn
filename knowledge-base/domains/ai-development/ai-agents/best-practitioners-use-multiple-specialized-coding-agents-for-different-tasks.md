@@ -54,7 +54,6 @@ related:
   - INS-260327-1FA1
   - INS-260322-D8C3
   - INS-260321-C5AA
-  - INS-260330-8F07
 evidence:
   - id: INS-260327-1FA1
     type: SUPPORTS

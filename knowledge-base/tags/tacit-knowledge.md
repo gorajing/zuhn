@@ -3,7 +3,6 @@
 - `INS-260402-5ACE` Context graphs store not just facts but the precedent and reasoning behind decisions, answering 'why' questions that vector similarity search alone cannot.
 - `INS-260325-ADF3` Developing an intuitive sense of when ChatGPT will hallucinate is as legitimate as understanding its architecture.
 - `INS-260327-5A72` With 25% of US physicians as monthly active users, Open Evidence can now aggregate distributed clinical wisdom that exists only in doctors' heads -- knowledge not found in any published literature.
-- `INS-260330-D429` Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-3B73` Knowing how a bicycle's reversed steering works doesn't help you ride it — procedural competence requires separate neural pathways from declarative knowledge.
 - `INS-260330-7DE0` Intellectual knowledge of a system's mechanics provides zero ability to execute the corresponding motor skill.
@@ -14,3 +13,4 @@
 - `INS-260330-8BDA` Steve accurately predicted where and how each suppressor would fail before firing, demonstrating that design intuition is built through repeated cycles of hypothesis and physical testing.
 - `INS-260325-A070` Traditional archaeology tells you what the past looked like; experimental archaeology — physically making and doing things — reveals what it sounded, tasted, and smelled like, and answers questions theory cannot.
 - `INS-260325-78E9` A professional hairdresser with no archaeology training solved the mystery of ancient Roman hairstyles that had stumped academics for centuries — embodied skill reveals what theory cannot.
+- `INS-260330-D429` Zimbabwe's forced land redistribution cut agricultural output by 50-90% because the new farmers lacked the tacit expertise that made the farms productive.

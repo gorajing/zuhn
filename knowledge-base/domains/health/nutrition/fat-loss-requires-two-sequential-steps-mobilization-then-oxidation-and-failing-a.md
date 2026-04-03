@@ -54,7 +54,7 @@ related:
   - PRI-260328-40CA
   - INS-260330-8A2E
   - INS-260327-C8EB
+  - INS-260403-726B
   - INS-260330-24BA
-  - INS-260325-A03E
 ---
 Huberman frames fat loss as fundamentally a two-step process that most people and programs treat as one. Step one is mobilization: breaking the glycerol-fatty acid backbone via lipase to release fatty acids from fat cells into the bloodstream. Step two is oxidation: those circulating fatty acids must enter cells, move into mitochondria, and be converted to ATP. If mobilization happens without sufficient oxidation (because of high insulin, insufficient activity, or other factors), the fatty acids simply get repackaged and stored as fat again. This two-step mental model explains why some interventions feel like they should work but don't — they may mobilize fat effectively but fail to create conditions for oxidation. Local neural epinephrine (not systemic adrenal adrenaline) drives both steps. Understanding this framework clarifies why exercise sequencing, fasting state, and compound choices matter differently depending on which step they target.

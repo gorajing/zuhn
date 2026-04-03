@@ -50,12 +50,13 @@ resolutions:
     weeks-long deliberation cycles. Political campaigns adapted 30 years ago
     with 'rapid response' war rooms. Companies must do the same.
 related:
-  - INS-260325-9F01
   - INS-260329-8E48
   - PRI-260321-5857
+  - INS-260325-9F01
   - INS-260325-A08A
   - PRI-260328-1A2D
   - INS-260323-6C84
+  - INS-260403-7878
 stance: The NYT's 24-hour editorial cycle is an OODA loop
 evidence:
   - id: INS-260325-A08A

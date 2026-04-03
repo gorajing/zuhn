@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 149 insights
+> 150 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -86,6 +86,7 @@
 - `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
 - `INS-260330-C7CB` [high] The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260330-EB48` [high] RuBisCo is a terrible enzyme that plants can't replace because all of biology is built on it — a pattern that recurs in technology and business strategy.
+- `INS-260403-3946` [high] RuBisCo is a terrible enzyme that won because it arrived first and scaled before alternatives could emerge.
 - `INS-260330-0B8D` [high] RuBisCo is a bad enzyme that became irreplaceable because plants scaled around it before its environment changed.
 - `INS-260330-6ECA` [high] RuBisCo is a terrible enzyme that dominates Earth because plants committed to it before oxygen made it fail half the time, compensating with 40 billion tons of production instead of evolving a replacement.
 - `INS-260330-CBF8` [high] Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.

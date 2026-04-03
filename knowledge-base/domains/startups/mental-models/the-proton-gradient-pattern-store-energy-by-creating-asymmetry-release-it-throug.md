@@ -55,12 +55,12 @@ stance: >-
   through deliberate asymmetry and then channeling release through a single
   constrained pathway
 related:
-  - INS-260330-666E
   - INS-260330-7FF3
   - INS-260330-3BB5
   - INS-260330-1677
+  - INS-260403-172E
   - INS-260330-9FAA
-  - INS-260330-49E9
+  - INS-260330-666E
 evidence:
   - id: INS-260330-1677
     type: TRANSFERS_TO

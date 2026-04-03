@@ -60,7 +60,6 @@ related:
   - INS-260321-4E98
   - INS-260327-94FE
   - INS-260327-368D
-  - INS-260330-AB67
 evidence:
   - id: INS-260321-4E98
     type: SUPPORTS

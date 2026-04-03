@@ -11,5 +11,5 @@
 - `INS-260330-B047` Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
 - `INS-260329-D3F6` Stop-doing lists require less activation energy than start-doing lists, making them more effective for rapid change.
 - `INS-260329-CA4F` Avoidance-framed habits stick better than aspiration-framed habits because they tap into evolutionarily older threat-detection circuits.
-- `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.
 - `INS-260330-BC21` Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
+- `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.

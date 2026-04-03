@@ -1,7 +1,6 @@
 # Tag: survivorship-bias
 
 - `INS-260327-32F1` Career advice from successful people is inherently flawed by survivorship bias (only winners speak) and confirmation bias (they accentuate positives and eliminate negatives in retrospect).
-- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.
 - `INS-260323-4E23` What looks like intentional strategy in evolution is actually 'simple chemistry that happens to work well and propagates' -- the same applies to business success stories.
 - `INS-260330-E5DC` RuBisCo worked perfectly in low-oxygen atmospheres but its O2-confusion failure mode was invisible until plants changed their own environment — success can hide latent vulnerabilities.
 - `INS-260330-5C80` Early Chinese historians systematically reshaped the past to validate Confucian moral philosophy, revealing how all historical narrative serves the ideological needs of its authors.
@@ -17,9 +16,10 @@
 - `INS-260329-5FB5` Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
 - `INS-260327-5AF9` The idea that if you haven't succeeded by 30 it's probably over is survivorship bias mythology - most meaningful achievements historically come from people in their 40s, 50s, and beyond.
 - `INS-260329-0F10` The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
+- `INS-260327-7C23` Over 90% of independent NYC pizzerias survive a decade, but the true failure rate is hidden behind thousands of private backroom deals where new operators take over existing names and kitchens.
 - `INS-260323-475F` Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
 - `INS-260323-FDB8` We only study winners, but losers often executed the same playbook — luck and timing separated them.
-- `INS-260327-7C23` Over 90% of independent NYC pizzerias survive a decade, but the true failure rate is hidden behind thousands of private backroom deals where new operators take over existing names and kitchens.
 - `INS-260328-58B1` Name the 20 software companies you respect most — not one of them made it in a year.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
 - `INS-260330-5E47` Startups compress a lifetime of work into a few years — the total pain is roughly conserved, the payoff distribution is extreme (mean 30x but median zero), and most startups fail.
+- `INS-260330-CF10` Every existing civilization has survived every past catastrophe, creating systematic underestimation of civilizational fragility.

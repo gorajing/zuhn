@@ -49,5 +49,6 @@ related:
   - INS-260330-41F6
   - INS-260330-90B6
   - INS-260403-5C74
+  - INS-260403-726B
 ---
 Photosynthesis evolved to fix carbon for cellular building blocks, not to produce oxygen. Oxygen was literally a 'useless byproduct' that accumulated as waste. Yet this byproduct transformed Earth's atmosphere and enabled the entire kingdom of aerobic life. This pattern recurs in business: Slack started as an internal tool for a failed game company, Flickr emerged from a failed MMO, and AWS grew from Amazon's internal infrastructure. Founders should systematically audit what their core process produces as side effects. The byproduct that seems valueless today may represent a larger opportunity than the intended product, especially when it solves a problem for a much larger market than the original target.

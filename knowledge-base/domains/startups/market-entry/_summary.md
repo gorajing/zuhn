@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 22 insights
+> 25 insights
 
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
 - `INS-260403-CC4E` [high] Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
@@ -19,8 +19,11 @@
 - `INS-260330-7EDF` [high] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
 - `INS-260330-F23F` [high] India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
 - `INS-260403-5D89` [high] A.Team gained pricing power by selling to CEOs seeking innovation speed rather than CFOs seeking cost reduction, reframing the same supply as premium rather than commodity.
+- `INS-260403-0350` [high] For SMBs, AI agents are pure value-add filling gaps they couldn't afford to fill; for enterprises, agents must replace entrenched processes, creating friction.
 - `INS-260403-FA89` [high] Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
+- `INS-260403-5EB4` [high] In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 - `INS-260402-6D5E` [high] Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.
 - `INS-260330-930D` [medium] Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
 - `INS-260403-FF57` [medium] Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
+- `INS-260403-BA5D` [medium] In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - `INS-260330-A1DB` [medium] India's 30% local sourcing rule for retail stores forced Apple into partner-dependent distribution, compounding its market weakness.

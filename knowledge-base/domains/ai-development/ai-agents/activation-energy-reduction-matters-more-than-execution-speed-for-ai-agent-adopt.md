@@ -57,8 +57,8 @@ related:
   - INS-260327-A9D5
   - INS-260330-EFFC
   - INS-260330-86F9
+  - INS-260403-0350
   - PRI-260328-8317
-  - INS-260325-D540
   - INS-260330-D5CD
 ---
 Stripe's minion system shows that the most transformative aspect of AI agents isn't code generation speed — it's the dramatic reduction in activation energy to begin work. An engineer can react to a Slack message with an emoji and trigger an agent that provisions a cloud environment, reads the codebase, writes code, runs tests, and opens a PR. This shift means work originates in natural contexts (Slack conversations, Jira tickets, Google Docs) rather than requiring engineers to context-switch into a text editor. The implication is that organizations should optimize their agent workflows for low-friction initiation points rather than focusing solely on agent coding capability.

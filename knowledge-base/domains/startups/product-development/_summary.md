@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 134 insights
+> 135 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -123,6 +123,7 @@
 - `INS-260330-C134` [medium] Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260329-E208` [medium] CS50P's use of established conventions (CLI arguments, JSON APIs, pytest patterns) teaches that leveraging existing mental models accelerates adoption more than inventing optimal-but-novel interfaces.
 - `INS-260329-5901` [medium] AI builds better apps when you start from known archetypes (CRM, e-commerce, SaaS) because its training data is dense with these patterns.
+- `INS-260403-8653` [medium] Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
 - `INS-260326-A0B4` [medium] Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
 - `INS-260323-6908` [medium] The codec avatar system crosses the uncanny valley by preserving human imperfections like freckles, asymmetry, and wrinkles rather than smoothing them out.
 - `INS-260329-AA76` [medium] Merge onboarding with the first real user action so users learn by doing, not by reading slides.

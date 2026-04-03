@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3166 actionable insights
+Generated on 2026-04-03 | 3174 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -56,6 +56,7 @@ Generated on 2026-04-03 | 3166 actionable insights
 - [INS-260330-77BB] Running multiple AI agents locally hits machine limits at 3-4 worktrees; cloud dev environments remove this ceiling entirely.
 - [INS-260330-6D43] Investing in developer experience pays double because both human engineers and AI agents consume the same docs, CI, and tooling.
 - [INS-260402-876A] A generative agent paired with a safety-checking agent produces reliable outputs in high-stakes medical contexts.
+- [INS-260403-4D80] Guided AI agents embed industry-specific guardrails and workflow sequences that generalized agents lack, turning AI from a tool into a collaborator.
 
 ## ai-development/ai-automation
 - [INS-260320-5A6F] AI-enabled beats AI-replaced — keep the human touch in important parts, automate the repetitive.
@@ -916,6 +917,7 @@ Generated on 2026-04-03 | 3166 actionable insights
 - [INS-260402-F853] Writing forces idea formation that pure thinking cannot achieve alone.
 - [INS-260402-A693] Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - [INS-260402-12D0] Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
+- [INS-260403-A408] Step beyond asking 'is this true?' to asking 'why is this topic being written about at all?' — the selection of subject matter is itself a form of manipulation.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1729,6 +1731,7 @@ Generated on 2026-04-03 | 3166 actionable insights
 - [INS-260403-7C60] Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - [INS-260403-1C10] Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - [INS-260403-1000] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
+- [INS-260403-4E16] Shifting from task-based to outcome-based pricing for AI agents mirrors healthcare's fee-for-service to value-based care transition, emphasizing quality over quantity.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2557,6 +2560,7 @@ Generated on 2026-04-03 | 3166 actionable insights
 - [INS-260330-EBDC] Sean Parker's virality model (payload × frequency × conversion) reveals that Hotmail won via high frequency, PayPal via near-perfect conversion, and Facebook via pure word-of-mouth — not viral mechanics at all.
 - [INS-260330-9C48] When eBay switched from paying affiliates per confirmed registration to per activated user, registrations dropped 20% but active users only dropped 5% -- then growth accelerated.
 - [INS-260330-3363] Evaluate any viral mechanism by decomposing it into payload times frequency times conversion rate.
+- [INS-260403-DEF6] PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.
 
 ## startups/growth-strategy
 - [INS-260322-70DD] Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
@@ -2598,6 +2602,7 @@ Generated on 2026-04-03 | 3166 actionable insights
 - [INS-260330-1089] When your company name becomes the verb for an action ('Google it', 'Uber there'), competitors face a social friction barrier that operates independently of product quality.
 - [INS-260330-D98E] Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
 - [INS-260403-36D1] Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
+- [INS-260403-2759] Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 
 ## startups/hiring
 - [INS-260330-B525] PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
@@ -2803,6 +2808,8 @@ Generated on 2026-04-03 | 3166 actionable insights
 - [INS-260403-8A8B] Top talent actively avoided gig platforms not because of low pay but because the work structure itself was fundamentally unappealing — boring solo tasks with no creative fulfillment.
 - [INS-260403-5D89] A.Team gained pricing power by selling to CEOs seeking innovation speed rather than CFOs seeking cost reduction, reframing the same supply as premium rather than commodity.
 - [INS-260403-FF57] Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
+- [INS-260403-BA5D] In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
+- [INS-260403-5EB4] In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -2941,6 +2948,7 @@ Generated on 2026-04-03 | 3166 actionable insights
 - [INS-260403-B5C0] Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 - [INS-260403-9AB5] Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
 - [INS-260403-2DB2] Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
+- [INS-260403-9B5D] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

@@ -54,11 +54,11 @@ stance: >-
   believe falsehoods but to make them believe nothing at all — inducing a state
   of epistemic surrender.
 related:
+  - INS-260403-C37D
   - INS-260326-B10B
   - INS-260330-8E8A
   - PRI-260325-262C
   - INS-260330-12DC
-  - INS-260323-6A05
 evidence:
   - id: INS-260323-6A05
     type: SUPPORTS

@@ -1,10 +1,5 @@
 # Tag: narrative
 
-- `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
-- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
-- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
-- `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.
 - `INS-260325-8729` Zen teaches that pain is inevitable but the stories we tell about it — how unfair it is, how permanent it feels — are optional suffering we inflict on ourselves.
 - `INS-260330-CCD8` Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
 - `INS-260330-1D61` The myth that pre-Columbus Europeans believed in a flat Earth was a modern-era insult repeated until it became accepted fact.
@@ -19,11 +14,16 @@
 - `INS-260323-B811` When casualties become 'averaging 10,000 a month' instead of named individuals with stories, moral weight evaporates — telling individual stories is an act of resistance against statistical dehumanization.
 - `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260325-B4CB` Happiness is a feeling; joy is a story that says life is still worth loving even with all its brokenness.
-- `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
-- `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
 - `INS-260330-174B` Monopolies claim they're in huge markets to avoid regulation, while competitive businesses claim they're in tiny unique niches to attract capital — both are lying.
 - `INS-260330-420D` Monopolists frame themselves in huge markets (Google calls itself a 'technology company' in a $1T market) while struggling competitors claim tiny intersections ('the only British food restaurant in Palo Alto').
 - `INS-260330-F527` Monopolists describe their market as the union of many markets to appear competitive, while competitors describe theirs as the intersection of niches to appear unique — making the real difference invisible.
 - `INS-260330-CC49` Monopolists describe their market as the union of many large markets to appear small; competitors describe theirs as the intersection of narrow niches to appear unique.
 - `INS-260326-8189` Napoleon renamed a suicidal artillery battery 'Battery of Men Without Fear' and suddenly had no shortage of volunteers.
+- `INS-260322-E791` During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements).
+- `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260330-FAB8` The stated mission often masks the real driver — when organizations face resource constraints, they build ideological stories to justify aggressive moves.
+- `INS-260326-6C36` The First Crusade succeeded precisely because its leaders had competing personal motives, all channeled by the overwhelming narrative of spiritual salvation.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
+- `INS-260323-04D4` El-Kurd shows that media coverage of geopolitical conflicts misleads not through fabrication but through systematic omission of essential context.
+- `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
+- `INS-260323-A48E` American media shows Americans something fundamentally different from what the rest of the world sees — this sustained asymmetry creates structural misunderstanding of conflicts.

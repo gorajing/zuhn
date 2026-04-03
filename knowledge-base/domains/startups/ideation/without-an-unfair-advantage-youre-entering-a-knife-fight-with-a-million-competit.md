@@ -46,7 +46,6 @@ resolutions:
     distribution channel — without at least one, you're competing on execution
     alone against a crowded field.
 related:
-  - INS-260321-C5AA
   - INS-260323-0C3A
   - INS-260329-560D
   - INS-260323-8AA1
@@ -56,6 +55,7 @@ related:
   - INS-260327-0F42
   - INS-260327-CECA
   - INS-260327-10E0
+  - INS-260328-6A18
 stance: >-
   Productivity apps are beginner-friendly to build but impossible to win because
   everyone else had the same idea

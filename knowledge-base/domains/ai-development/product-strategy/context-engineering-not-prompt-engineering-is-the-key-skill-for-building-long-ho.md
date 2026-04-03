@@ -50,7 +50,6 @@ stance: >-
   not the model or the prompt but the context — assembling the right information
   at the right time so the model can make good decisions across many steps.
 related:
-  - INS-260322-E4D8
   - INS-260321-0C99
   - INS-260321-4178
   - INS-260322-17B3
@@ -60,6 +59,7 @@ related:
   - INS-260327-5AFE
   - INS-260327-BF89
   - INS-260327-294E
+  - INS-260330-6D43
 evidence:
   - id: INS-260323-FEDF
     type: SUPPORTS

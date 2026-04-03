@@ -54,10 +54,10 @@ related:
   - INS-260330-6AB7
   - INS-260330-90B6
   - INS-260330-30FB
+  - INS-260403-726B
   - INS-260330-41F6
   - INS-260403-31AF
   - INS-260330-13A1
-  - INS-260330-2119
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen is literally the leftover from splitting water molecules — a waste product that plants actively need to keep low inside their leaves because it interferes with RuBisCo. Yet this 'useless byproduct' transformed Earth's atmosphere and enabled the entire animal kingdom.
 

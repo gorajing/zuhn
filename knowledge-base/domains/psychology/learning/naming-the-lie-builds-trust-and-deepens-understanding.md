@@ -49,11 +49,11 @@ stance: >-
   Explicitly telling learners 'this is a simplification and here's how it's
   wrong' increases rather than decreases their confidence in the material
 related:
+  - INS-260403-C37D
   - INS-260330-12DC
   - INS-260327-70DF
   - INS-260329-4A69
   - INS-260329-E914
-  - INS-260330-9BB7
 evidence:
   - id: INS-260329-4A69
     type: TRANSFERS_TO

@@ -56,10 +56,10 @@ stance: >-
   cannot, because buyers remember opinions not checkboxes.
 related:
   - INS-260329-5094
+  - INS-260403-D500
   - PRI-260323-BA94
   - PRI-260328-4CC0
   - INS-260330-F527
-  - PRI-260324-36BF
 evidence:
   - id: INS-260329-5094
     type: CHALLENGES

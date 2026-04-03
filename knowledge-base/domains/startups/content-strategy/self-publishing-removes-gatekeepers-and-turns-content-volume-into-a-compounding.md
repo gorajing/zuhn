@@ -46,10 +46,12 @@ stance: >-
   long-term leverage for short-term credibility.
 related:
   - PRI-260322-DCDB
+  - INS-260403-DEF6
   - INS-260329-C092
   - INS-260327-723A
   - INS-260324-5481
-  - INS-260321-86E7
+  - INS-260403-4A9E
+  - INS-260403-7878
 evidence:
   - id: INS-260321-86E7
     type: SUPPORTS

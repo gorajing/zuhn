@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 40 insights
+> 41 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -11,6 +11,7 @@
 - `INS-260330-9863` [high] Outsized returns consistently go to people willing to pursue weird-looking opportunities before they become professionalized.
 - `INS-260322-3E59` [high] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
 - `INS-260330-2E58` [high] Innovations fail not because they're bad ideas but because the supporting innovation stack hasn't matured yet.
+- `INS-260403-CB33` [high] Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.
 - `INS-260330-8907` [high] Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
 - `INS-260330-EFFB` [high] The 2007-2017 era of annual smartphone upgrades was an anomaly of rapid technological improvement, not a sustainable norm—average upgrade cycles stretched from 2 to 4 years as the market matured.
 - `INS-260323-60C1` [high] Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.

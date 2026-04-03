@@ -3,7 +3,7 @@ Generated on 2026-04-03 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 138 | 2026-03-30 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 142 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -31,6 +31,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | youtube | 16 | 2026-03-30 |
 | Why Apple Fails in India (& Why it Matters) | youtube | 16 | 2026-03-30 |
 | GTC panel 2 | audio | 15 | 2026-03-25 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 15 | 2026-03-31 |
 | 14 Life Lessons I Wish I Knew Earlier | youtube | 15 | 2026-03-30 |
 | Brutally Honest Advice to My Younger Poorer Self | youtube | 15 | 2026-03-30 |
 | Fall of The Roman Empire...in the 15th Century: Crash Course World History #12 | youtube | 15 | 2026-03-30 |
@@ -62,7 +63,6 @@ Generated on 2026-04-03 | 2421 sources
 | Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI | youtube | 11 | 2026-03-21 |
 | Lecture 17 - How to Design Hardware Products (Hosain Rahman) | youtube | 11 | 2026-03-31 |
 | The surprisingly simple rules most investors break | Barry Ritholtz | youtube | 11 | 2026-03-25 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 10 | 2026-03-31 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
 | 13 Foods You Should NEVER Buy Organic | youtube | 10 | 2026-03-26 |
 | 14 Money Mistakes to AVOID in Your 20's | youtube | 10 | 2026-03-30 |
@@ -285,11 +285,13 @@ Generated on 2026-04-03 | 2421 sources
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
 | Billionaires Build | blog | 5 | 2026-03-31 |
 | build a Billion-Dollar Startup with a minimal team thanks to AI | blog | 5 | 2026-03-30 |
+| Building Confidence Networks In Latin America | blog | 5 | 2026-03-31 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Business models: the toolkit to design a disruptive company | blog | 5 | 2026-03-31 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
+| Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
 | Design and Research | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
@@ -302,6 +304,7 @@ Generated on 2026-04-03 | 2421 sources
 | Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
 | Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology and Comfort Are Rewiring a Generation | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
+| Guided AI Agents: Turbocharging the SMB | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
 | Hidden VC Fund Secrets Every Founder Should Know | blog | 5 | 2026-03-30 |
 | Higher Rates Will Lead to the Next Generation of Great Tech Startups | blog | 5 | 2026-03-30 |
@@ -374,6 +377,7 @@ Generated on 2026-04-03 | 2421 sources
 | SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
 | Startup Investing Trends | blog | 5 | 2026-03-31 |
+| Startup Location Strategy in 2025: Does It Still Matter Where You Build? | blog | 5 | 2026-03-30 |
 | Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save or Sink Your Company | blog | 5 | 2026-03-30 |
 | Succinctness is Power | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
@@ -417,6 +421,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Second-Time Founder Effect: How Experience Shapes Startup Success | blog | 5 | 2026-03-30 |
 | The Secret Strategy of Stealth Startups | blog | 5 | 2026-03-30 |
 | The Story of Replit: From Internet Cafes to AI Sovereignty | blog | 5 | 2026-03-30 |
+| The Submarine | blog | 5 | 2026-03-31 |
 | The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
 | The Verticalization of Everything | blog | 5 | 2026-03-31 |
@@ -1786,7 +1791,6 @@ Generated on 2026-04-03 | 2421 sources
 | Building a World-Class Innovation Culture: Bayer | blog | 0 | 2026-03-31 |
 | Building an innovation culture | blog | 0 | 2026-03-31 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
-| Building Confidence Networks In Latin America | blog | 0 | 2026-03-31 |
 | Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Evolution Using the Portfolio Map | blog | 0 | 2026-03-31 |
@@ -1848,7 +1852,6 @@ Generated on 2026-04-03 | 2421 sources
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
 | Could VC be a Casualty of the Recession? | blog | 0 | 2026-03-31 |
 | Crazy New Ideas | blog | 0 | 2026-03-31 |
-| Crime As Proxy For Disorder | blog | 0 | 2026-03-30 |
 | Crypto Is A Tool That Was Exploited. | blog | 0 | 2026-03-31 |
 | Cybersecurity’s Future Belongs to Startups | blog | 0 | 2026-03-31 |
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 0 | 2026-03-30 |
@@ -1945,7 +1948,6 @@ Generated on 2026-04-03 | 2421 sources
 | Good Writing | blog | 0 | 2026-03-31 |
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
 | GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
-| Guided AI Agents: Turbocharging the SMB | blog | 0 | 2026-03-31 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 0 | 2026-03-30 |
 | Haters | blog | 0 | 2026-03-31 |
@@ -2139,7 +2141,6 @@ Generated on 2026-04-03 | 2421 sources
 | Startup FP&A Model: Build a Real Operating Plan | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
 | Startup Fundraising Resources: Investor Lists 2026 | blog | 0 | 2026-03-30 |
-| Startup Location Strategy in 2025: Does It Still Matter Where You Build? | blog | 0 | 2026-03-30 |
 | Startup MIS Excel Template to Track KPIs | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
 | Startup Valuation Methods: 8 Approaches Investors Use | blog | 0 | 2026-03-30 |
@@ -2244,7 +2245,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Stack Above the Cloud | blog | 0 | 2026-03-31 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 0 | 2026-03-30 |
-| The Submarine | blog | 0 | 2026-03-31 |
 | The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 0 | 2026-03-31 |
 | The Top Idea in Your Mind | blog | 0 | 2026-03-31 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |

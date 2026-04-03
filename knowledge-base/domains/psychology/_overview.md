@@ -1,14 +1,14 @@
 # Domain: psychology
 
-> 1679 insights across 20 topics
+> 1683 insights across 20 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
 | behavior-change | 10 | Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like. |
-| cognition | 52 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
-| cognitive-biases | 221 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
+| cognition | 53 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
+| cognitive-biases | 222 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 17 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
 | consciousness | 94 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
 | decision-making | 45 | What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result. |
@@ -19,10 +19,10 @@
 | group-dynamics | 34 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
 | learning | 218 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 60 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
-| mental-models | 68 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
+| mental-models | 69 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
 | negotiation | 2 | Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse. |
 | perception | 309 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
-| persuasion | 18 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
+| persuasion | 19 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
 | physics-intuition | 77 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 91 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
 | resilience | 136 | Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen. |

@@ -57,7 +57,6 @@ stance: >-
   lossy conversion steps that biological efficiency is inherently low, making
   energy conservation a fundamental constraint of all living systems.
 related:
-  - INS-260325-6A2C
   - INS-260325-722C
   - INS-260330-D8E4
   - INS-260330-07B1

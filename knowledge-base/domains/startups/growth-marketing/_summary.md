@@ -1,6 +1,6 @@
 # Topic: growth-marketing
 
-> 127 insights
+> 128 insights
 
 - `INS-260320-630D` [very_high] Frame your product as a solution to a problem, not a toy — a video framing Coconote as a fun toy got 41M views but terrible conversion, while solution-framed videos converted far better.
 - `INS-260320-080B` [very_high] Ask customers how they describe your product, then use their exact words as marketing copy — Coconote asked and the majority said "never miss a key detail," which became their App Store headline.
@@ -75,6 +75,7 @@
 - `INS-260327-194D` [high] The organizing industry profits by creating products to manage overconsumption rather than addressing the overconsumptio
 - `INS-260327-0CBC` [high] Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
 - `INS-260323-181D` [high] Terms like 'liberal' and 'progressive' evolve rapidly in meaning — what was self-identifying becomes a smear in months, forcing constant repositioning.
+- `INS-260403-DEF6` [high] PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads.
 - `INS-260330-F4DD` [high] Press works like a sales funnel: get warm intros through recently-covered founders, memorize your bullet-point narrative, invest reporters' time via face-to-face meetings, and follow up with collateral before launch day.
 - `INS-260330-4DBE` [high] Treat press outreach as a structured sales pipeline: get warm intros through recently-covered founders, invest reporters' time via face-to-face meetings, and prepare bullet-point narratives they'll transcribe into stories.
 - `INS-260330-4AB1` [high] Treat press like a sales funnel: get warm intros from recently-covered founders to reporters, pitch with memorized bullet points, and follow up with collateral before launch.

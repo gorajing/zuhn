@@ -53,11 +53,11 @@ related:
   - INS-260325-040F
   - PRI-260328-935B
   - INS-260403-CA1E
-  - INS-260327-A22D
   - INS-260327-4ED3
   - INS-260327-290C
   - INS-260329-39E1
   - INS-260330-7BAE
+  - INS-260402-1F41
 stance: >-
   In a reversal of the traditional software pattern where enterprise was
   stickier than consumer, consumer AI (ChatGPT) is proving stickier than B2B

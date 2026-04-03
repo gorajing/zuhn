@@ -51,7 +51,6 @@ stance: >-
   without marketing spend.
 related:
   - INS-260327-B302
-  - INS-260327-1393
   - INS-260328-9415
   - INS-260403-9D89
   - INS-260330-C391

@@ -41,7 +41,6 @@ stance: >-
   consumption than the disposables they replaced.
 related:
   - INS-260325-8AB8
-  - INS-260323-0AF3
   - INS-260327-24AA
   - INS-260327-7F1B
   - INS-260327-212A

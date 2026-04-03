@@ -47,8 +47,8 @@ related:
   - INS-260321-2482
   - PRI-260328-EE02
   - PRI-260320-07A4
+  - INS-260403-0350
   - INS-260327-DC4C
-  - INS-260325-5F3B
 ---
 When the panel discussed 'context rot' — models becoming less coherent over long agent interactions — NVIDIA's Gental framed it as fundamentally a systems engineering problem. If you dump everything into the context window without careful curation, the model degrades. The solution requires thoughtful agent harness design about what enters and exits context.
 

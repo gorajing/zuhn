@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 221 insights
+> 222 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -115,6 +115,7 @@
 - `INS-260330-712D` [high] When excited about a new trend, ruthlessly separate the real value proposition from the fantasies you're projecting onto it.
 - `INS-260327-85DA` [high] Evolution wired us for short-term thinking, and then we built institutions (elections, quarterly earnings, news cycles) that amplify exactly this bias at civilizational scale.
 - `INS-260330-DFC8` [high] The 90-second silence after Chelyabinsk's flash drew people to windows, causing 1500 injuries from the subsequent shockwave — the delay created a false sense of safety.
+- `INS-260403-4A9E` [high] PR firms feed identical stories to multiple outlets simultaneously, causing readers to mistake coordinated placement for an organic trend.
 - `INS-260330-E0ED` [high] Intelligent people routinely collapse complex political landscapes into single-axis narratives, making them unable to acknowledge threats from both sides simultaneously.
 - `INS-260330-990F` [high] Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
 - `INS-260330-BCD8` [high] Most users never change default settings — making ignorance and apathy the most reliable distribution channels in tech.
