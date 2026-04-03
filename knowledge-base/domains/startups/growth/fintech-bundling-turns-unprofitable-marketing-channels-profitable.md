@@ -50,11 +50,11 @@ stance: >-
   unprofitable customer acquisition channels viable by increasing ARPU at the
   same CAC
 related:
+  - INS-260403-9106
   - INS-260322-FCFC
   - INS-260329-1318
   - INS-260328-D220
   - INS-260327-D52B
-  - INS-260327-D7AA
 ---
 Most marketplace founders evaluate customer acquisition channels in isolation—if a channel's CAC exceeds the revenue from a single transaction, it's discarded. But fintech-enabled marketplaces fundamentally change this math by capturing more value per transaction through bundled financial products (insurance, financing, concierge services).
 

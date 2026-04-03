@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 133 insights
+> 134 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -46,6 +46,7 @@
 - `INS-260323-8AA1` [high] Adding more features to an app that nobody is using does not make it more likely to succeed — it makes it harder to diagnose what actually matters.
 - `INS-260330-C391` [high] YC finds that founders who hook PagerDuty to customer support tickets and respond within an hour at 3am correlate with startup success more than almost any other behavior.
 - `INS-260327-4754` [high] Arora warns that cybersecurity founders who form customer advisory councils too early get steered toward speeds-and-feeds features instead of building complete products.
+- `INS-260403-219E` [high] Games companies model the ideal product iteration cycle: launch fast, measure everything, optimize continuously, and never stop evolving.
 - `INS-260402-E36A` [high] Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - `INS-260402-4AB4` [high] Reframing the problem is often more valuable than optimizing the solution.
 - `INS-260327-12BE` [high] The largest Oracle cluster in a company grinding on queries ran 1000x faster on one-tenth the hardware when modeled as a graph in Neo4j.

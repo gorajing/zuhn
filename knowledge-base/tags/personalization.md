@@ -3,6 +3,7 @@
 - `INS-260322-7DD5` 2026 marks when major consumer AI products shift from helping you work to helping you stay connected — understanding who you are and facilitating real human relationships.
 - `INS-260322-96D1` AI agents that accumulate all past conversations and user-shared resources develop into genuinely personalized assistants — one agent independently followed AI influencers on social media to self-educate in its field.
 - `INS-260322-22B3` An individual's philosophy, experiences, and accumulated wisdom become the essential 'data' that makes AI agents useful — without rich human input to personalize around, even the most powerful agent is an empty shell.
+- `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation.
 - `INS-260329-0CDD` AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260323-5609` Glasses positioned on the face can see what you see and hear what you hear, making them the natural endpoint for personalized AI that needs continuous context.
@@ -13,6 +14,7 @@
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table.
 - `INS-260403-A0B0` Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - `INS-260402-1F41` Per-user models are inherently harder to game than shared models because attackers face a diverse population instead of a single target.
+- `INS-260403-2DB2` Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - `INS-260327-A903` Don't say 'love what you're doing at [Company]' -- find specific things you uniquely have in common with the recipient (same college building, used their specific product feature, niche shared interest) to create real connection.
 - `INS-260329-4C93` For entry-level roles, personalized multi-touch outreach to several people at each company plus in-person follow-up beats any resume optimization.
 - `INS-260329-D1A1` Custom-researched outreach to multiple stakeholders per target company signals the hustle that generic mass applications cannot.

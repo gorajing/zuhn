@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260330-1A23
   - INS-260402-7B69
+  - INS-260403-9BEF
   - INS-260330-4E10
   - INS-260330-CBF8
-  - INS-260321-7D76
 evidence:
   - id: INS-260330-4E10
     type: EXTENDS

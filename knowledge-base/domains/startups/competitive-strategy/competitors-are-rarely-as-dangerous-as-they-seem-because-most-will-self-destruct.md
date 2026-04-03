@@ -49,8 +49,8 @@ related:
   - INS-260327-10E0
   - PRI-260328-4CC0
   - INS-260323-B4D2
+  - INS-260403-8F31
   - INS-260328-03BB
-  - INS-260327-FA43
 ---
 Graham observed that even the strongest founders in YC's first batch were 'surprisingly frightened' of competitors, comparing the reaction to hypochondria — magnifying threats into monsters when you lack experience. His reframing is direct: if you're currently leading and building faster than anyone else, the number of competitors is irrelevant.
 

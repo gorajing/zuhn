@@ -53,11 +53,11 @@ related:
   - INS-260320-080B
   - INS-260329-5B18
   - INS-260403-6F52
-  - INS-260403-F3FF
+  - INS-260403-FE37
   - INS-260403-81CE
   - PRI-260328-82BE
+  - INS-260403-F3FF
   - INS-260403-EF30
-  - INS-260403-AF27
 ---
 Graham observes that professional investors hear enormous volumes of pitches, and after a while they all blur together. The first cut in evaluation isn't quality—it's simply being remembered. A descriptive 'soundbite' that encapsulates your startup serves as a cognitive anchor.
 

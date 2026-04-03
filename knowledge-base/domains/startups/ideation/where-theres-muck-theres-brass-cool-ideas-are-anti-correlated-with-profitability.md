@@ -49,7 +49,6 @@ stance: >-
 related:
   - INS-260327-FCCF
   - INS-260327-643E
-  - INS-260328-195E
   - INS-260330-66A0
   - INS-260330-7819
   - INS-260330-6C68
@@ -57,6 +56,7 @@ related:
   - INS-260403-44ED
   - PRI-260403-3906
   - INS-260403-AF27
+  - INS-260330-AB6E
 ---
 Graham cites the Yorkshire saying 'where there's muck, there's brass'—unpleasant work pays well precisely because few people want to do it. The inverse is equally true: work people enjoy (like building programming languages or putting art galleries online) pays poorly because oversupply of willing workers competes away the returns.
 

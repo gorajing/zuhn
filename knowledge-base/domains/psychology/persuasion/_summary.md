@@ -1,9 +1,10 @@
 # Topic: persuasion
 
-> 17 insights
+> 18 insights
 
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-0F95` [high] Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
+- `INS-260403-A290` [high] Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
 - `INS-260330-9DC9` [high] Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
 - `INS-260330-4E09` [high] Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.

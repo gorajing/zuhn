@@ -5,17 +5,14 @@
 - `INS-260323-1345` When AI exceeds human intelligence, our species' value shifts from information processing to subjective experience and consciousness.
 - `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
 - `INS-260323-D8B9` Hamkins' mathematical multiverse view holds that different foundational axiom systems (ZFC, ZFC + large cardinals, constructive math) produce genuinely different mathematical universes -- there is no single 'true' foundation.
-- `INS-260330-B08E` Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260323-C4A2` Even in a fully deterministic universe, the inability to predict the future from within the system makes free will functionally real — a stance called compatibilism.
 - `INS-260327-D212` Once you genuinely question whether the self is real, whether time is linear, or whether consciousness is what it seems, you cannot fully return to your previous way of seeing.
 - `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.
 - `INS-260402-26B0` Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
+- `INS-260330-B08E` Assigning equal prior probability to simulation and non-simulation scenarios, Bayesian averaging always yields sub-50% simulation probability because base reality persists in both branches.
 - `INS-260325-95EB` Cherry-picking from Stoicism, Epicureanism, and Buddhism feels open-minded but produces a framework that contradicts itself at every genuine decision point.
 - `INS-260325-E78D` Claiming you do not need a philosophy of life IS a philosophy of life — an unexamined one that probably serves you worse than a deliberate one.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
-- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
-- `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
-- `INS-260325-560A` Montaigne: honest self-examination produces deeper insight than abstract philosophy — 'once you stop caring, the results come.'
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
 - `INS-260325-3A04` Unlike temporal causation (dominoes that keep falling after the first is removed), hierarchical causation requires every link to borrow causal power from something more fundamental RIGHT NOW — implying a necessary sustaining foundation.
 - `INS-260325-87FC` A nihilist still feels thirsty and still drinks water — nihilism does not remove desires but recognizes that all values trace back to groundless preferences rather than objective purpose.
@@ -23,5 +20,8 @@
 - `INS-260325-AE23` Ask 'why' enough times about any action and you reach either God, a self-justifying value like family, or the uncomfortable realization that reasons simply run out.
 - `INS-260325-DFA5` If God chose evolution by natural selection as the mechanism to create humans, billions of years of animal predation, disease, and extinction were built into the design — this challenges God's goodness more than God's existence.
 - `INS-260325-2F1E` Evolution by natural selection — God's chosen mechanism for creating humans — required billions of years of animal suffering and extinction, which seems deeply unexpected from a loving, all-powerful creator.
+- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
+- `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
+- `INS-260325-560A` Montaigne: honest self-examination produces deeper insight than abstract philosophy — 'once you stop caring, the results come.'
 - `INS-260327-6CB7` Philosophy gives founders the framework to think about problems on a very deep level — ontology is first-principles thinking in philosophy.
 - `INS-260402-BA91` Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction.

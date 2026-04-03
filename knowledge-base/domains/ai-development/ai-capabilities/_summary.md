@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 97 insights
+> 98 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -30,6 +30,7 @@
 - `INS-260325-05EC` [high] Prof Kuang Xu distinguishes deep AI (learns from decisions, creates feedback loops) from shallow AI (automates existing tasks) — deep wins long-term.
 - `INS-260327-A44E` [high] Evolution doesn't randomly search the space of possible organisms - it accumulates successful building blocks and recombines them, which is why it can create complexity that random search never could.
 - `INS-260323-4D8D` [high] Jensen identifies four scaling laws (pre-training, post-training, test-time, agentic) that form a loop — agentic outputs generate data that feeds back into pre-training, meaning intelligence scales fundamentally with compute.
+- `INS-260403-FB82` [high] Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper.
 - `INS-260323-3F30` [high] Godel proved that any sufficiently powerful formal system either contains unprovable truths or is inconsistent -- this is a hard theoretical ceiling on what any AI reasoning system can guarantee about itself.
 - `INS-260323-D56E` [high] Yudkowsky publicly acknowledges that GPT-4 exceeded what he thought stacking transformer layers could achieve, which means he can't predict what GPT-5 will do.
 - `INS-260323-042C` [high] Altman identifies GPT-5's most striking capability as generating working software instantly from natural language, transforming programming from a specialized skill into a universal creative tool.

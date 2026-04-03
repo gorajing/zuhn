@@ -46,10 +46,10 @@ stance: >-
   physiologically or structurally impossible.
 related:
   - INS-260330-FCBC
+  - INS-260403-9BEF
   - INS-260330-5C64
   - INS-260321-D01E
   - INS-260330-3EE4
-  - INS-260330-82B5
 evidence:
   - id: INS-260321-D01E
     type: SUPPORTS

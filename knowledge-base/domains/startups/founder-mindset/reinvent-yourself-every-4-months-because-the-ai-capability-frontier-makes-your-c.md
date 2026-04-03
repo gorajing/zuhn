@@ -50,7 +50,6 @@ stance: >-
   any fixed plan.
 related:
   - INS-260325-060A
-  - INS-260321-31B3
   - INS-260325-6F89
   - PRI-260328-5E58
   - INS-260327-0E86

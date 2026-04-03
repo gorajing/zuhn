@@ -51,11 +51,11 @@ stance: >-
   exploration possible only in early adulthood generates more long-term value
   than early commitment
 related:
+  - INS-260403-8013
   - INS-260330-CFBA
   - INS-260403-AF27
   - PRI-260328-04FA
   - INS-260402-F08D
-  - PRI-260403-3906
 evidence:
   - id: INS-260330-CFBA
     type: CHALLENGES

@@ -8,6 +8,7 @@ Generated on 2026-04-03 | 2421 sources
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
 | Python for Everybody - Full University Python Course | youtube | 30 | 2026-03-29 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 25 | 2026-03-31 |
 | C# Tutorial - Full Course for Beginners | youtube | 25 | 2026-03-29 |
 | Exponential growth and epidemics | youtube | 25 | 2026-03-30 |
 | Harvard CS50’s Introduction to Programming with Python – Full University Course | youtube | 25 | 2026-03-29 |
@@ -20,7 +21,6 @@ Generated on 2026-04-03 | 2421 sources
 | Lecture 18 - Legal and Accounting Basics for Startups (Kirsty Nathoo, Carolynn Levy) | youtube | 24 | 2026-03-31 |
 | Is Earth Actually Flat? | youtube | 23 | 2026-03-30 |
 | Lecture 6 - Growth (Alex Schultz) | youtube | 21 | 2026-03-31 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 20 | 2026-03-31 |
 | Hiring is Obsolete | blog | 20 | 2026-03-31 |
 | C++ Tutorial for Beginners - Full Course | youtube | 20 | 2026-03-29 |
 | The “heroic dose” of psychedelics, according to Johns Hopkins | Dr. Matthew Johnson | youtube | 20 | 2026-03-30 |
@@ -331,6 +331,7 @@ Generated on 2026-04-03 | 2421 sources
 | How to Trick Investors & VCs 🤫💰 | blog | 5 | 2026-03-30 |
 | How to Work Hard | blog | 5 | 2026-03-31 |
 | How to Write Usefully | blog | 5 | 2026-03-31 |
+| How Trump’s 2025 Tariffs Could Reshape Startups | blog | 5 | 2026-03-30 |
 | How Two European Founders Raised $4M, Secured a Microsoft Deal, and Broke Into Silicon Valley | blog | 5 | 2026-03-30 |
 | How Venture Capital Became a Consensus Machine | blog | 5 | 2026-03-30 |
 | Ideas for Startups | blog | 5 | 2026-03-31 |
@@ -378,6 +379,7 @@ Generated on 2026-04-03 | 2421 sources
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
 | Survivorship Bias Is Killing Founders' Judgment—Here’s the Fix | blog | 5 | 2026-03-30 |
+| Tariffs Are Reshaping Global Tech Startups | blog | 5 | 2026-03-30 |
 | Taste for Makers | blog | 5 | 2026-03-31 |
 | The $100B Question: How SaaS Giants Are Rewriting the Rules of Value with AI in 2025  | blog | 5 | 2026-03-30 |
 | The 18 Mistakes That Kill Startups | blog | 5 | 2026-03-31 |
@@ -403,6 +405,8 @@ Generated on 2026-04-03 | 2421 sources
 | The Lesson to Unlearn | blog | 5 | 2026-03-31 |
 | The Network Effects Manual: 16 Different Network Effects (and counting) | blog | 5 | 2026-03-31 |
 | The New Funding Landscape | blog | 5 | 2026-03-31 |
+| The New Operating Manual for Fintech-Enabled Marketplaces | blog | 5 | 2026-03-31 |
+| The Next Era of Gaming and AI | blog | 5 | 2026-03-31 |
 | The Next Frontier for 2-Sided Marketplaces: How Fintech Will Unlock Enormous Value | blog | 5 | 2026-03-31 |
 | The Origins of Wokeness | blog | 5 | 2026-03-31 |
 | The Other Road Ahead | blog | 5 | 2026-03-31 |
@@ -1990,7 +1994,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to Value a Startup: VC Method + Free Excel Model | blog | 0 | 2026-03-30 |
 | How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 0 | 2026-03-30 |
 | How to Write a Top 1% Cold DM to Investors | blog | 0 | 2026-03-30 |
-| How Trump’s 2025 Tariffs Could Reshape Startups | blog | 0 | 2026-03-30 |
 | How VCs and Startups can beat currency depreciation 🌍 | blog | 0 | 2026-03-30 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 0 | 2026-03-30 |
 | How Y Combinator Started | blog | 0 | 2026-03-31 |
@@ -2152,7 +2155,6 @@ Generated on 2026-04-03 | 2421 sources
 | Support Your Local Collaborator | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 0 | 2026-03-30 |
-| Tariffs Are Reshaping Global Tech Startups | blog | 0 | 2026-03-30 |
 | Term Sheets Demystified 📄🤝 | blog | 0 | 2026-03-30 |
 | Tesla Launches Unsupervised Robotaxis and FSD Rerates Insurance | blog | 0 | 2026-03-30 |
 | The 10 Essential Slides You Need in Your Pitch Deck 📝 | blog | 0 | 2026-03-30 |
@@ -2212,9 +2214,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Must-Read Tech, VC, SaaS, AI, and Startup Reports of 2024 📊 | blog | 0 | 2026-03-30 |
 | The Need to Read | blog | 0 | 2026-03-31 |
-| The New Operating Manual for Fintech-Enabled Marketplaces | blog | 0 | 2026-03-31 |
 | The New World for Entrepreneurs 🌍, State of Private Markets 🔍, AI Eating Software 🚀 | blog | 0 | 2026-03-30 |
-| The Next Era of Gaming and AI | blog | 0 | 2026-03-31 |
 | The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 0 | 2026-03-30 |
 | The Other Half of "Artists Ship" | blog | 0 | 2026-03-31 |
 | The Patent Pledge | blog | 0 | 2026-03-31 |

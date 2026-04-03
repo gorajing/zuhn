@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 405 insights
+> 408 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -121,6 +121,7 @@
 - `INS-260327-2695` [high] Every generation of consumer credit innovation follows the same pattern: expand access during prosperity, accumulate ris
 - `INS-260327-D52B` [high] BNPL services that grow by extending credit to consumers who were excluded from traditional credit face inevitable defau
 - `INS-260327-8E62` [high] Spend a year finding a problem you'll love for a decade—that patience pays off more than rushing.
+- `INS-260403-9106` [high] Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - `INS-260327-9018` [high] Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
 - `INS-260329-DF50` [high] In HFT, the first system to react to market data captures the opportunity — everyone else follows with nothing left to take.
 - `INS-260327-FD18` [high] Let someone else prove the market exists and accumulate technical debt—then enter with a better product.
@@ -196,6 +197,7 @@
 - `INS-260329-D37E` [high] The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
 - `INS-260327-7C15` [high] Amazon flooded its marketplace with third-party sellers, polluting search results with junk and destroying purchase confidence.
 - `INS-260324-0DC1` [high] McDonald's franchisees pay ~$400K/year per store (4x Burger King/Wendy's), and the company's rent revenue is nearly double its food royalties — making it a real estate company that sells burgers as a side effect.
+- `INS-260403-4F0D` [high] Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate.
 - `INS-260330-59FD` [high] Airbnb declined to acquire their Rocket Internet clone despite the clone having 10x their funding and 10x their headcount, because the clone's mercenary culture would poison Airbnb's missionary DNA.
 - `INS-260325-522A` [high] Kilo Code grew to 1.5 million users in under a year by being fully open-source and supporting any model provider, making model freedom their core differentiator.
 - `INS-260324-62A8` [high] The Moneyball mindset — data over instinct, singles over home runs — gave corporations intellectual cover to rebrand cost-cutting as innovation, systematically destroying their ability to invent.
@@ -395,6 +397,7 @@
 - `INS-260327-EAB0` [medium] Nvidia's 'win-win' culture positions its success as customer success rather than competitor failure, creating ecosystem lock-in through expansion rather than extraction.
 - `INS-260323-BF81` [medium] Altman believes AI tools now enable a single person to build a company worth over a billion dollars, delivering products that previously required teams of hundreds.
 - `INS-260402-8595` [medium] Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
+- `INS-260403-9BEF` [medium] Incumbents resist portable digital ownership because lock-in benefits them, creating an opening for startups to differentiate by giving users true ownership of virtual goods.
 - `INS-260327-7C23` [medium] Over 90% of independent NYC pizzerias survive a decade, but the true failure rate is hidden behind thousands of private backroom deals where new operators take over existing names and kitchens.
 - `INS-260322-0E41` [medium] Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model providers means AI startups face taxation risk, not existential platform risk.
 - `INS-260324-1C12` [medium] The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.

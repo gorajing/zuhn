@@ -52,7 +52,6 @@ stance: >-
   changes too fast for 12-month allocation.
 related:
   - INS-260320-2058
-  - INS-260327-2C46
   - INS-260330-7220
   - INS-260327-DFF1
   - INS-260327-DFF0

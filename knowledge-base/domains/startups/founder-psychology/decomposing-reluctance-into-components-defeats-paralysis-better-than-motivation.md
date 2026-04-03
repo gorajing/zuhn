@@ -42,11 +42,11 @@ stance: >-
   more effective than general confidence-building for overcoming startup
   hesitation
 related:
+  - INS-260403-A290
   - INS-260327-4367
   - INS-260327-1845
   - INS-260323-810D
   - INS-260330-0AE2
-  - INS-260327-8DDE
 evidence:
   - id: INS-260330-0AE2
     type: EXTENDS

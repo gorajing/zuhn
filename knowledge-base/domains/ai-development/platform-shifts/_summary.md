@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 31 insights
+> 32 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260327-561F` [high] AI ethics is not a feature to patch later but foundational infrastructure -- like rebar in a building -- without which even the best AI technology inevitably becomes a surveillance tool.
@@ -26,6 +26,7 @@
 - `INS-260323-3D7D` [medium] Meta's AR strategy isn't a single product line converging but three permanent tiers at different price and capability points, each serving distinct use cases.
 - `INS-260330-77A2` [medium] WebAssembly and cloud compute are enabling full development environments to run entirely in the browser.
 - `INS-260323-C4EE` [medium] Meta's codec avatars encode facial expressions into a compact model rather than transmitting full video, achieving photorealism while using less bandwidth than traditional video calls.
+- `INS-260403-1085` [medium] Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
 - `INS-260330-E5F7` [medium] Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260323-4D63` [medium] Quest 3's mixed reality breakthrough is making VR more comfortable and practical by layering digital objects onto the physical world rather than fully immersing users.
 - `INS-260330-460D` [medium] Facebook and Google's strategies to become the internet itself — through Instant Articles, AMP, and app-based experiences — represent an existential threat to the open web's architecture.

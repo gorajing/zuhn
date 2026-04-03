@@ -14,6 +14,6 @@
 - `INS-260402-1414` Starting from a genuine edge or puzzling question produces far better results than choosing an important-sounding topic and forcing insights from it.
 - `INS-260403-699B` Reframing startup ideas as questions ("could one make X?") instead of assertions ("I'm building X") lowers defensiveness and opens exploration space.
 - `INS-260325-D624` GPS came from people 'fooling around with rocketry,' not from anyone planning a location system — the most impactful innovations are byproducts of curiosity.
-- `INS-260402-A94F` Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance.
+- `INS-260402-A94F` Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260330-9A92` Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.

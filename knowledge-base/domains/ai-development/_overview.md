@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 921 insights across 22 topics
+> 923 insights across 22 topics
 
 ## Topics
 
@@ -10,7 +10,7 @@
 | agent-patterns | 35 | Ron from Open Router predicted the agent adoption curve in enterprises will compress from years to months as coalitions form around industry-specific secure deployment standards. |
 | ai-agents | 35 | AI agents' biggest value is eliminating the friction between idea and implementation, not writing code faster. |
 | ai-automation | 21 | Improving multi-agent systems requires observability into inter-agent conversations -- GPTers built a dashboard to view session-send exchanges between agents to understand how to improve their collaboration. |
-| ai-capabilities | 97 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
+| ai-capabilities | 98 | Superintelligent AI access will be the defining resource of the future, more valuable than energy, capital, or territory. |
 | ai-market-dynamics | 93 | China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology. |
 | alignment | 46 | KAIST researchers found that AI agents making autonomous purchases exceeded user-set spending limits 55% of the time (10 of 18 attack methods succeeded) when hotel websites embedded hidden persuasive text. |
 | architecture | 7 | Libraries are reusable because they are language, not because they are object-oriented. |
@@ -25,6 +25,6 @@
 | mental-models | 11 | All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free. |
 | pedagogy | 1 | Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload. |
 | platform-dynamics | 19 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
-| platform-shifts | 31 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
+| platform-shifts | 32 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
 | product-strategy | 67 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | system-building | 207 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |

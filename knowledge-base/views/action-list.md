@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3157 actionable insights
+Generated on 2026-04-03 | 3166 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1509,6 +1509,7 @@ Generated on 2026-04-03 | 3157 actionable insights
 - [INS-260403-0F95] Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - [INS-260403-3421] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
 - [INS-260403-81CE] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
+- [INS-260403-A290] Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1769,6 +1770,7 @@ Generated on 2026-04-03 | 3157 actionable insights
 - [INS-260403-280B] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
 - [INS-260403-EF30] Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - [INS-260403-D375] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
+- [INS-260403-FE37] A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -1947,6 +1949,7 @@ Generated on 2026-04-03 | 3157 actionable insights
 - [INS-260403-7B04] AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - [INS-260403-943D] Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - [INS-260403-A0B0] Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
+- [INS-260403-9106] Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2417,6 +2420,9 @@ Generated on 2026-04-03 | 3157 actionable insights
 - [INS-260403-2F22] Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
 - [INS-260403-41FF] Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - [INS-260403-1A73] Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
+- [INS-260403-E319] Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
+- [INS-260403-8013] As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.
+- [INS-260403-8F31] Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2796,6 +2802,7 @@ Generated on 2026-04-03 | 3157 actionable insights
 - [INS-260403-CC4E] Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - [INS-260403-8A8B] Top talent actively avoided gig platforms not because of low pay but because the work structure itself was fundamentally unappealing — boring solo tasks with no creative fulfillment.
 - [INS-260403-5D89] A.Team gained pricing power by selling to CEOs seeking innovation speed rather than CFOs seeking cost reduction, reframing the same supply as premium rather than commodity.
+- [INS-260403-FF57] Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -2933,6 +2940,7 @@ Generated on 2026-04-03 | 3157 actionable insights
 - [INS-260403-3656] Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 - [INS-260403-B5C0] Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 - [INS-260403-9AB5] Most organizations underexplore innovation by focusing only on product features, missing business model, process, and experience innovations.
+- [INS-260403-2DB2] Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3175,6 +3183,7 @@ Generated on 2026-04-03 | 3157 actionable insights
 - [INS-260403-DC6E] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 - [INS-260403-7227] Plarium maintained startup speed at scale by giving each game studio full autonomy with its own targets, market context, and incentive structure.
 - [INS-260403-B387] AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
+- [INS-260403-E1EB] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
