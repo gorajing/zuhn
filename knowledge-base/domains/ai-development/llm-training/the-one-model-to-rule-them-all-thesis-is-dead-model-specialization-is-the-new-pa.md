@@ -53,6 +53,7 @@ related:
   - INS-260327-0B69
   - INS-260321-B7CB
   - INS-260330-02A7
+  - INS-260403-EE10
 stance: >-
   Even within OpenAI, the original belief was one AGI model that subsumes
   everything

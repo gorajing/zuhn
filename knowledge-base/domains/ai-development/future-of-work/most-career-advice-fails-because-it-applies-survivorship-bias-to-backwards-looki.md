@@ -49,7 +49,6 @@ stance: >-
   connects dots using survivorship bias and confirmation bias, presenting a
   curated highlight reel as a reproducible playbook.
 related:
-  - INS-260323-85E7
   - PRI-260323-81E9
   - INS-260329-0117
   - PRI-260327-5635

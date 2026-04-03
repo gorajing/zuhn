@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 280 insights
+> 281 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -190,6 +190,7 @@
 - `INS-260323-7C0E` [high] Rosolie must publicize the uncontacted tribes' existence to raise funds for their protection, even though publicity itself threatens them.
 - `INS-260329-DEE5` [high] Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
 - `INS-260329-FCC6` [high] Sell to people who desperately need what you offer rather than trying to convince people they need it.
+- `INS-260403-12FD` [high] Real users create a sense of obligation that keeps founders working through the emotional valleys that kill most startups.
 - `INS-260322-B3D0` [high] Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
 - `INS-260327-735A` [high] Going from viral YouTube creator to running a product company required Giertz to learn entirely new skills - audience doesn't automatically translate to business.
 - `INS-260327-8254` [high] Horowitz identifies two fatal founder patterns: over-deferring to smart hires because no one else has the CEO's full context, and hesitating on hard decisions until decision debt paralyzes the company.

@@ -44,7 +44,6 @@ stance: >-
   negatives experience only upside.
 related:
   - INS-260327-671E
-  - INS-260327-6992
   - INS-260329-B533
   - INS-260329-6B87
   - INS-260329-96BA

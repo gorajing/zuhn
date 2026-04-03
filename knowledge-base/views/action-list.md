@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3049 actionable insights
+Generated on 2026-04-03 | 3055 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2276,6 +2276,7 @@ Generated on 2026-04-03 | 3049 actionable insights
 - [INS-260403-0406] Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
 - [INS-260403-805E] School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
 - [INS-260403-7C88] Good founders make things happen the way they want through relentless resourcefulness, not by forcing a predefined plan.
+- [INS-260403-12FD] Real users create a sense of obligation that keeps founders working through the emotional valleys that kill most startups.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2355,6 +2356,10 @@ Generated on 2026-04-03 | 3049 actionable insights
 - [INS-260403-07C6] Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
 - [INS-260403-6A65] Super-angel competition gave founders 13% dilution angel rounds versus 30-40% series A rounds, plus retained board control and faster closes.
 - [INS-260403-6F52] In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
+- [INS-260403-59F0] The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- [INS-260403-1BD8] Investors who wait for others to commit first will be pushed to last place in line, missing hot deals entirely.
+- [INS-260403-4423] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
+- [INS-260403-78B7] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3128,6 +3133,7 @@ Generated on 2026-04-03 | 3049 actionable insights
 - [INS-260403-FB8E] Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
 - [INS-260403-D1D4] Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
 - [INS-260403-215E] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
+- [INS-260403-5B4E] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

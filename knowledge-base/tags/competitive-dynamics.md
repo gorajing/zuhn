@@ -30,6 +30,7 @@
 - `INS-260327-4BC6` Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs i
 - `INS-260327-19E5` When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tole
 - `INS-260330-8D0C` The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.
+- `INS-260403-CA1E` Large companies shift from user-serving to user-exploiting, creating predictable openings for startups that genuinely serve users.
 - `INS-260327-325B` Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
 - `INS-260327-90E8` GoPro created and cornered the action camera market but believed that creating the market entitled them to its future -- they flooded it with too many models, failed to diversify, and opened the door for Insta360.
 - `INS-260327-724D` Haunted houses and other experience businesses compete on the intensity of the emotional experience rather than objectiv

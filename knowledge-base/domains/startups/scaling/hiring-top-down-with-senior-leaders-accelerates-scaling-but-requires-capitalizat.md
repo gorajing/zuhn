@@ -50,6 +50,6 @@ related:
   - INS-260329-C92A
   - PRI-260328-F0E4
   - INS-260329-82B1
-  - INS-260330-7220
+  - INS-260403-4423
 ---
 Hormozi contrasts his first three businesses — where he hired junior people and promoted from within — with acquisition.com, where he hired senior directors (sales, marketing, people, IT, portfolio ops) from day one. The top-down approach allowed immediate delegation to people who were better than him at their respective functions, and the company grew faster as a result. The tradeoff is explicit: you choose which type of debt to take on — financial debt (overpaying for talent early), management debt (undertrained leaders), cultural debt (misaligned hires), or technical debt. Hormozi argues financial debt is the most predictable and easiest to pay down, while management and cultural debt compound silently and are harder to fix later.

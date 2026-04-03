@@ -46,7 +46,6 @@ stance: >-
   both sides adapt toward each other and the eventual survivors from both groups
   become nearly indistinguishable.
 related:
-  - INS-260402-6BB6
   - INS-260402-8E29
   - INS-260403-E9C6
   - INS-260403-E185

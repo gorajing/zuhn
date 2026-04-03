@@ -46,11 +46,11 @@ resolutions:
     autopilot is the best-case outcome for a founder without passion — the worst
     case is years of half-hearted effort.
 related:
+  - INS-260403-78B7
   - PRI-260323-2C5C
   - INS-260325-C5AE
   - INS-260403-5441
   - INS-260403-6890
-  - INS-260327-8521
   - INS-260323-1BB4
 stance: >-
   Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd

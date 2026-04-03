@@ -47,11 +47,11 @@ related:
   - INS-260325-2DCD
   - INS-260322-F6B5
   - INS-260323-8555
-  - INS-260323-4C43
   - PRI-260328-604D
+  - INS-260323-4C43
   - PRI-260328-3169
   - INS-260327-8254
-  - PRI-260328-B11D
+  - INS-260403-12FD
 stance: >-
   When a founder's self-worth becomes entangled with their codebase, negative
   user feedback triggers emotional defensiveness instead of productive it...

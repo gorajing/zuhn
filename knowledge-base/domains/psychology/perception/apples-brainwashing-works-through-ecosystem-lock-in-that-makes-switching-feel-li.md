@@ -48,7 +48,6 @@ stance: >-
   convenience across all Apple products — creating identity-level attachment
   that transcends rational product comparison.
 related:
-  - INS-260322-B641
   - INS-260327-C9A7
   - INS-260330-C870
   - INS-260330-DCFB

@@ -51,7 +51,6 @@ stance: >-
   your results while you capture the spread between their cost and the client
   revenue.
 related:
-  - INS-260327-176D
   - INS-260329-27A7
   - INS-260329-D159
   - INS-260329-6B2C

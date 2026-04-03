@@ -45,7 +45,6 @@ stance: >-
   products will have staying power.
 related:
   - INS-260327-B64E
-  - INS-260327-DBA1
   - INS-260327-B6C7
   - INS-260327-AC84
   - INS-260327-BDD5

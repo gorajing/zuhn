@@ -46,7 +46,6 @@ related:
   - INS-260330-5EB6
   - INS-260402-E140
   - INS-260330-66A0
-  - INS-260330-070A
   - INS-260402-96E2
 stance: >-
   Founders resist comping themselves to public companies because it feels like

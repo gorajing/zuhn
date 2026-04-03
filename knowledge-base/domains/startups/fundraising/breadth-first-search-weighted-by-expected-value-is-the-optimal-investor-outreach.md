@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260327-DBA1
   - INS-260329-5924
+  - INS-260403-147C
   - INS-260403-6F52
   - INS-260323-ACD9
-  - INS-260328-03BB
 evidence:
   - id: INS-260323-ACD9
     type: TRANSFERS_TO

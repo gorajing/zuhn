@@ -46,7 +46,6 @@ stance: >-
   inequality because driven individuals will simply redirect their energy to
   wealth creation through startups, potentially increasing variation further.
 related:
-  - INS-260329-0117
   - INS-260329-6BE8
   - INS-260329-5514
   - INS-260329-BF96
@@ -56,6 +55,7 @@ related:
   - INS-260402-CF0A
   - INS-260402-E60E
   - INS-260402-6D5E
+  - INS-260403-420A
 evidence:
   - id: INS-260403-420A
     type: SUPPORTS
