@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260330-ACCD
   - INS-260321-2BF9
+  - INS-260403-FA89
   - INS-260330-DD63
   - INS-260321-0CCD
-  - INS-260403-5BFB
 ---
 The essay identifies an emerging model called 'The Mullet': a small upfront presence in SF or other hubs for accessing ideas, capital, and ecosystem benefits, combined with a large remote engineering workforce for building across platforms (web, mobile, etc.). This mirrors what happened in film/TV, where screenwriting and financing stayed in Hollywood but production moved to Atlanta, Portland, and Canada.
 

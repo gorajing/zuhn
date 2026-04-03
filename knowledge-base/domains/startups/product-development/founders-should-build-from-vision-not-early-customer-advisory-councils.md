@@ -49,7 +49,7 @@ related:
   - INS-260330-DE1D
   - INS-260323-19A8
   - INS-260326-291C
+  - INS-260403-6890
   - PRI-260323-1B96
-  - INS-260330-BEE7
 ---
 Arora describes a common affliction: founders start building and within 3-6 months they're talking to CISO buddies, forming customer advisory councils, getting advisory shares out. The problem is that the CISOs with free time are from large enterprises who don't want UI — they want speeds and feeds. So founders build technical features that satisfy one bank's 15,000-engineer security team, but that's not a deployable enterprise product. The lesson: the best founders should spend time building from their own vision, showing an end-to-end point of view, and solving a real problem. Customers will tell you 27 reasons why browsers never worked in the enterprise, but they won't tell you that in 6-12 months they'll have multiple agentic browsers they need to control. The founder's job is to see around corners that customers can't.

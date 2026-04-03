@@ -54,6 +54,7 @@ related:
   - INS-260330-F67A
   - INS-260330-4D05
   - INS-260327-26D3
+  - INS-260403-028F
 ---
 Market value doesn't represent real money that 'goes somewhere' during crashes - it's a collective repricing of expectations. Headlines about trillions being 'wiped out' are misleading because that value was never liquid. Understanding this is crucial for making calm decisions when others panic.
 

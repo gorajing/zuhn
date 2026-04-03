@@ -54,8 +54,8 @@ related:
   - INS-260326-AB92
   - INS-260327-691F
   - INS-260325-4EE9
-  - INS-260323-D4EC
   - INS-260323-4A3D
+  - INS-260323-9772
 stance: >-
   Network experiments show the world is 'poised on an edge of instability' where
   one person's choice can tip an entire system toward cooperation or d...

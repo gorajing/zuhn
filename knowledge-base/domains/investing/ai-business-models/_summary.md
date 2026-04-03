@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 45 insights
+> 46 insights
 
 - `INS-260327-93F9` [high] Companies racing to replace workers with AI are collectively destroying the consumer base that buys their products - automation success and economic success may be fundamentally incompatible.
 - `INS-260323-1477` [high] Companies like OpenAI are secretly integrating classical symbolic tools (code interpreters, Python) while telling investors they're just scaling neural networks.
@@ -24,6 +24,7 @@
 - `INS-260327-505A` [high] Oracle gained more market cap in one day than all of McDonald's despite missing earnings targets, driven by AI promises, TikTok control, and deep political connections rather than product merit.
 - `INS-260323-8544` [high] In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
 - `INS-260325-FD14` [high] TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
+- `INS-260403-E185` [high] Super-angels rationally optimize for fast acquisitions because a 10x return in one year beats a VC's 6-year path to IPO on an annualized basis.
 - `INS-260330-8FEC` [high] Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment.
 - `INS-260327-4434` [high] Facebook, Google, Netflix, and Amazon genuinely made billions with data, creating the proof point that thousands of startups cited to justify their own data-driven narratives -- but none of those startups (Groupon, Yelp, Blue Apron, Stitch Fix, etc.) replicated the success, and the same pattern is now repeating with AI.
 - `INS-260327-EFA6` [high] Car companies face electrification, Chinese competition, autonomous driving, regulatory changes, and consumer affordability crises all at once - any one would be manageable but together they're potentially fatal.

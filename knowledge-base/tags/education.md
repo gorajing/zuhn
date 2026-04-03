@@ -13,11 +13,11 @@
 - `INS-260329-04FA` CS50 teaches computational thinking as a universal problem-decomposition skill, not just a precursor to coding.
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260327-9431` For the first time ever, unemployment among young male college graduates equals non-graduates, suggesting the college degree premium is evaporating.
-- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift.
-- `INS-260322-35FA` Watching live DJ mix sets on YouTube is the most efficient way to internalize a genre because DJs curate 30+ tracks from deep listening into a coherent sonic narrative.
+- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260329-D8C7` The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
 - `INS-260330-4FA3` Medieval educated people already knew Earth was spherical; the Columbus-proved-it-round story was invented in the 1800s by Washington Irving.
+- `INS-260402-4F0E` People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-F969` Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
@@ -26,7 +26,6 @@
 - `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
 - `INS-260329-8986` CS50's enrollment data proves that perceived prerequisites are the real gatekeepers, not actual skill requirements.
 - `INS-260327-3B69` AI-assisted schoolwork destroys the cognitive muscles that school is designed to build.
-- `INS-260402-4F0E` People inside broken systems assume they're missing something rather than that the system is wrong.
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored.
 - `INS-260330-FDC2` Education systems explicitly aim to transmit knowledge faithfully and produce behavioral conformity — the opposite of the creative knowledge generation that defines human uniqueness.
 - `INS-260329-047C` The zip code you're born in predicts earnings better than IQ, race, or degree — college's real value is changing your social environment.
@@ -61,3 +60,4 @@
 - `INS-260329-939E` CS50 uses Scratch (visual drag-and-drop) in week zero to teach functions, loops, and conditionals without any text-based syntax, then translates those same concepts to C.
 - `INS-260329-1741` CS50's success with 66% complete beginners demonstrates that programming is a teachable skill with proper scaffolding, not an innate talent.
 - `INS-260329-D1F2` Real-world data extraction projects retain learners better than synthetic exercises because the output has immediate personal value.
+- `INS-260322-35FA` Watching live DJ mix sets on YouTube is the most efficient way to internalize a genre because DJs curate 30+ tracks from deep listening into a coherent sonic narrative.

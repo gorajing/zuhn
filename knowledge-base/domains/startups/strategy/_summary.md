@@ -1,8 +1,9 @@
 # Topic: strategy
 
-> 132 insights
+> 134 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
+- `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260329-89E9` [high] Solving the top constraint reshuffles reality so the old priority list becomes unreliable.
 - `INS-260323-9BC8` [high] Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.
 - `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
@@ -85,6 +86,7 @@
 - `INS-260330-B5DF` [high] The set of outcomes reachable by a startup is determined by the span of its independent capabilities, not by total resource count.
 - `INS-260403-9DC6` [high] Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person.
 - `INS-260330-391C` [high] PayPal started with 20,000 eBay power sellers, Facebook started with 10,000 Harvard students (0 to 60% in 10 days) — markets so small business schools would dismiss them as worthless.
+- `INS-260403-7C67` [high] Startup ecosystems exhibit phase-transition behavior: they either reach critical mass and become self-sustaining or remain negligible.
 - `INS-260330-7B1C` [high] The real strategy stack is financing → distribution → product, not the other way around.
 - `INS-260402-CCF4` [high] Patents serve startups primarily as signals to acquirers that the technology is defensible and worth buying rather than building.
 - `INS-260328-6898` [high] Large companies are effectively always remote because the people you work with most closely are never at adjacent desks, but startups adopting the same practice gave up their in-person colocation advantage.

@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 218 insights
+> 219 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -16,6 +16,7 @@
 - `INS-260330-AFF8` [high] Bigotry, political tribalism, and conspiracy theories all share the same cognitive root: attributing the actions of individuals to entire groups they belong to.
 - `INS-260327-D77C` [high] The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
 - `INS-260330-6D86` [high] Casualty numbers alone cannot capture moral reality because they erase the critical distinction between intentional targeting and inadvertent harm.
+- `INS-260403-B462` [high] Brand recognition is so powerful in art judgment that the Mona Lisa shown anonymously would be walked past by most viewers.
 - `INS-260329-BEFB` [high] Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-184C` [high] Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260402-A558` [high] Childhood reassurance about alarming realities creates adults who are trained to ignore those same problems, enabling bad conditions to persist.

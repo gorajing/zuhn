@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 58 insights
+> 59 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260330-C0B9` [high] People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors.
@@ -59,4 +59,5 @@
 - `INS-260330-D8E4` [medium] Lane's most striking claim is that H2 + CO2 is thermodynamically less stable than living cells — life is downhill energetically, blocked only by kinetic barriers that the right catalyst can overcome.
 - `INS-260403-C9DC` [medium] The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.
 - `INS-260330-F2EB` [medium] Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
+- `INS-260403-74E5` [medium] Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
 - `INS-260329-AA30` [medium] If your startup idea came from a podcast or VC content, it is by definition not unique — because millions of other people consumed the same content.

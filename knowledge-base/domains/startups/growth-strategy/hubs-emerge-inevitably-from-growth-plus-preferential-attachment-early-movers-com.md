@@ -50,8 +50,8 @@ related:
   - PRI-260328-A4AC
   - INS-260327-E153
   - INS-260330-E794
+  - INS-260403-FA89
   - INS-260325-4C6D
-  - INS-260330-6D2E
   - INS-260323-61CD
 stance: >-
   Barabasi's model shows hubs form naturally when networks grow and new nodes

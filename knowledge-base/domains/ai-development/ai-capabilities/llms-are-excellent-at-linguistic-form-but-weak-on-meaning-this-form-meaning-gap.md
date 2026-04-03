@@ -56,7 +56,6 @@ related:
   - INS-260329-ACE6
   - INS-260330-2666
   - INS-260329-9CED
-  - INS-260323-5CE3
   - INS-260330-EA8B
 stance: >-
   A leading psycholinguist confirms that LLMs have mastered the form (syntax,

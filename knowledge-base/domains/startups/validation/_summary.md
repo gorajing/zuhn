@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 72 insights
+> 75 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -14,6 +14,7 @@
 - `INS-260330-E089` [high] Instagram only emerged because Systrom asked 100 users what they actually liked about Bourbon and killed everything else.
 - `INS-260327-CECA` [high] Kisson's restaurant booking app failed because owners bought it but part-time employees who actually used it didn't know it existed.
 - `INS-260330-32E6` [high] When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
+- `INS-260403-B87D` [high] Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - `INS-260329-34A9` [high] Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
 - `INS-260323-2726` [high] Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.
 - `INS-260330-5EA4` [high] If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
@@ -36,6 +37,7 @@
 - `INS-260330-843E` [high] Non-users reveal the barriers preventing market expansion — problems that existing user feedback will never surface.
 - `INS-260330-1854` [high] Non-users tell you what blocks market growth; existing users only tell you about incremental improvements.
 - `INS-260330-5D4F` [high] Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
+- `INS-260403-3E3B` [high] Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260327-C900` [high] Susan turned Tesla saying no to home supercharging into a multi-million dollar business by solving the problem herself.
 - `INS-260330-CFBF` [high] Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
 - `INS-260330-5A0A` [high] Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
@@ -68,6 +70,7 @@
 - `INS-260323-A2E5` [medium] Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
 - `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260329-6B2C` [medium] Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.
+- `INS-260403-508D` [medium] Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
 - `INS-260330-22D6` [medium] Ponzi's IRC arbitrage was a real opportunity that couldn't scale, and his refusal to accept this turned a legitimate idea into history's most famous fraud.
 - `INS-260329-1739` [medium] Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
 - `INS-260328-372B` [medium] Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.

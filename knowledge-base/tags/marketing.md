@@ -2,8 +2,8 @@
 
 - `INS-260322-F891` AI only saves time when verification is cheaper than doing the task manually — generating 200 marketing images to pick 10 works, but AI copying 200 numbers from PDFs that all need checking doesn't.
 - `INS-260323-4945` The AI marketing machine works because massive capital buys corridor-of-power access, and people desperately want to believe technology can solve crises like climate change.
-- `INS-260325-E538` Most store yogurt is sugar-loaded with dead probiotics — only raw, unsweetened, full-fat varieties provide health benefits.
 - `INS-260325-8DF7` Greenwashing works because consumers want to feel virtuous more than verify claims — most 'eco' products are marginally better at best.
+- `INS-260325-E538` Most store yogurt is sugar-loaded with dead probiotics — only raw, unsweetened, full-fat varieties provide health benefits.
 - `INS-260330-E615` McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260328-ACC3` Stripe, Google, and PostHog all appear to be pure self-serve products, but they invest heavily in marketing — no one waits in an ivory tower to be discovered.
 - `INS-260322-5745` When an industry treats marketing as beneath it, the first firm to market aggressively gains a permanent structural advantage.

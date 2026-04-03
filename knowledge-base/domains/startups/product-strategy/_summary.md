@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 20 insights
+> 21 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -14,6 +14,7 @@
 - `INS-260330-13E8` [high] Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time.
 - `INS-260330-2E34` [high] The arrow hits the target precisely because it bends — rigidity would cause it to deflect off course.
 - `INS-260330-2306` [high] Your job is to hear the problem behind the request and build the simplest solution to that problem.
+- `INS-260403-5FBD` [high] Value proposition fit and business model viability are independent variables — companies need both to survive.
 - `INS-260330-118D` [high] Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.
 - `INS-260330-62D6` [high] Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
 - `INS-260330-7168` [high] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.

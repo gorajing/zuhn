@@ -55,6 +55,7 @@ related:
   - INS-260330-376E
   - INS-260402-E148
   - INS-260402-EF63
+  - INS-260403-6A65
 ---
 Crivello draws a vivid analogy: there are trillions of stars in the universe, yet the universe is 99.9% empty space. AI agents are the same—there seem to be new companies launching every week on Twitter, yet when Lindy is out in the market selling, they rarely encounter competitors.
 

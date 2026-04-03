@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3006 actionable insights
+Generated on 2026-04-03 | 3017 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -999,6 +999,7 @@ Generated on 2026-04-03 | 3006 actionable insights
 - [INS-260402-5522] When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing.
 - [INS-260402-0BFF] Having zero controversial private opinions is evidence of conformity, not correctness.
 - [INS-260403-C5BA] Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn.
+- [INS-260403-B462] Brand recognition is so powerful in art judgment that the Mona Lisa shown anonymously would be walked past by most viewers.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1052,6 +1053,8 @@ Generated on 2026-04-03 | 3006 actionable insights
 - [INS-260402-9D7B] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 - [INS-260403-B9E5] Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - [INS-260403-34E0] Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
+- [INS-260403-6890] Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
+- [INS-260403-5AAC] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1060,6 +1063,8 @@ Generated on 2026-04-03 | 3006 actionable insights
 - [INS-260402-30DC] Nasty little problems don't just waste time — they actively make you stupider because they lack the learnable patterns that build expertise.
 - [INS-260402-4E59] Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
 - [INS-260402-607A] Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
+- [INS-260403-DE28] Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
+- [INS-260403-14D5] You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1470,6 +1475,7 @@ Generated on 2026-04-03 | 3006 actionable insights
 - [INS-260330-CBFD] Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
 - [INS-260330-649B] Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
 - [INS-260330-9367] Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
+- [INS-260403-6178] What you overhear and see through windows in a neighborhood reveals its true intellectual character and ambient message more reliably than any reputation or branding.
 
 ## psychology/persuasion
 - [INS-260330-ABBF] Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
@@ -2336,6 +2342,7 @@ Generated on 2026-04-03 | 3006 actionable insights
 - [INS-260403-F447] When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - [INS-260403-AC74] Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - [INS-260403-07C6] Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
+- [INS-260403-6A65] Super-angel competition gave founders 13% dilution angel rounds versus 30-40% series A rounds, plus retained board control and faster closes.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2814,6 +2821,7 @@ Generated on 2026-04-03 | 3006 actionable insights
 - [INS-260402-EF63] Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - [INS-260402-3A0D] Simplicity forces you to face the real problem because you can't hide behind ornament.
 - [INS-260402-2074] Expect to discard 70-75% of initial output as the normal cost of producing quality work.
+- [INS-260403-4942] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
 
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
@@ -3167,6 +3175,9 @@ Generated on 2026-04-03 | 3006 actionable insights
 - [INS-260330-E8C6] Unlike school and corporate life where gaming metrics works, startups have no boss to trick — only users who judge purely on whether the product solves their problem.
 - [INS-260330-CFBA] Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
 - [INS-260402-F62B] Manually doing what your software will eventually do gives you muscle memory that ensures you automate the right things.
+- [INS-260403-B87D] Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
+- [INS-260403-508D] Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated.
+- [INS-260403-3E3B] Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

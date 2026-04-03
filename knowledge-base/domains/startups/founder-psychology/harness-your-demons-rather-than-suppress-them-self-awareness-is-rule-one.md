@@ -49,10 +49,10 @@ resolutions:
     achieve greatly -- but only if they're honest about which one they are.
 related:
   - PRI-260328-3169
+  - INS-260403-BDE0
   - INS-260323-F853
   - PRI-260323-A3A3
   - INS-260325-5A93
-  - INS-260325-537A
 stance: >-
   Great achievers across history share one trait: they know their demons
   intimately and channel them into drive rather than letting those demons

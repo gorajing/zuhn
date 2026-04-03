@@ -53,6 +53,7 @@ related:
   - INS-260329-C3DF
   - INS-260329-32A4
   - INS-260329-50BD
+  - INS-260403-14D5
 ---
 Hormozi frames both the college path and the career path as fundamentally the same choice: invest in learning capacity now to earn later. The college student pays $1,000/week to learn; the career starter gets paid minimum wage to learn. In both cases, the money flow is secondary to skill acquisition rate. Hormozi himself took minimum wage at a gym after leaving a white-collar consulting job because the learning rate was higher.
 

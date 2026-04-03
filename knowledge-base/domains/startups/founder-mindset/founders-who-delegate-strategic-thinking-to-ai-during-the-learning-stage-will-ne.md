@@ -48,7 +48,6 @@ stance: >-
   outsourcing that exercise destroys the capacity it was designed to build.
 related:
   - INS-260325-B1D8
-  - INS-260325-7D50
   - INS-260323-4C43
   - INS-260322-EF20
   - INS-260323-7D01
@@ -57,6 +56,7 @@ related:
   - INS-260327-7B8E
   - INS-260327-8254
   - PRI-260328-B11D
+  - INS-260327-4754
 evidence:
   - id: INS-260325-B1D8
     type: CHALLENGES

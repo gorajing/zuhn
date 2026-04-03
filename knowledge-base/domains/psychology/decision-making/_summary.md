@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 38 insights
+> 40 insights
 
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
@@ -28,6 +28,7 @@
 - `INS-260330-BB0C` [high] Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260330-8849` [high] Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense.
 - `INS-260330-3899` [high] People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error.
+- `INS-260403-5AAC` [high] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260402-9D7B` [high] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
 - `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
@@ -39,4 +40,5 @@
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260330-74AC` [medium] China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
 - `INS-260330-7987` [medium] In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
+- `INS-260403-6890` [medium] Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260330-F82A` [medium] Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.

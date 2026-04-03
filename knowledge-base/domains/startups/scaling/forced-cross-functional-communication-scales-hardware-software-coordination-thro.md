@@ -57,7 +57,7 @@ related:
   - INS-260330-72C2
   - INS-260330-1F41
   - INS-260325-C2BD
-  - INS-260325-502D
+  - INS-260403-B87D
 ---
 Rahman describes running daily 2.5-hour calls for the UP3 product with materials, sourcing, manufacturing, design, sensor, firmware, and mechanical engineering teams all present together. The key insight is that everyone must sit through each other's updates — not just their own — because trade-offs cascade across disciplines in non-obvious ways. A materials decision affects reliability, sourcing, and signal performance simultaneously, but those teams weren't naturally talking to each other.
 

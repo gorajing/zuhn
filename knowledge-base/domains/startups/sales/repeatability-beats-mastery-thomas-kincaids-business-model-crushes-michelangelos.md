@@ -64,12 +64,11 @@ stance: >-
   deployments build dramatically more enterprise value because only
   repeatability creates leverage that investors will fund.
 related:
-  - INS-260325-EC7A
   - INS-260324-748A
   - INS-260330-2492
+  - INS-260403-8391
   - PRI-260322-DC5E
   - INS-260323-70B9
-  - INS-260402-9D7B
   - INS-260327-E68D
 evidence:
   - id: INS-260323-70B9

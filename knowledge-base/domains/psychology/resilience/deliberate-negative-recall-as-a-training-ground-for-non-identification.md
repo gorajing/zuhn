@@ -51,6 +51,6 @@ related:
   - INS-260325-8729
   - INS-260327-8DDE
   - INS-260330-9743
-  - INS-260325-DF82
+  - INS-260403-B462
 ---
 Harris instructs meditators to actively recall embarrassing or regrettable experiences — not to process or resolve them, but to observe the mood that arises and notice that awareness itself remains unaffected. This is structurally similar to exposure therapy but with a different target: instead of habituating to the stimulus, you're training the recognition that you are not identical to the emotional response. The technique is immediately actionable as a resilience practice. Rather than avoiding difficult memories, you can use them as training data for non-identification. The key insight is that the thoughts are 'insubstantial' — they have power only to the extent that you unconsciously identify with them.

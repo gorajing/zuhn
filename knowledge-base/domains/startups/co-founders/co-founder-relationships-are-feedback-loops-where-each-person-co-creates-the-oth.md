@@ -50,10 +50,10 @@ stance: >-
   act entirely differently.
 related:
   - INS-260325-C5AE
+  - INS-260403-6890
   - PRI-260328-604D
   - PRI-260328-3BEF
   - PRI-260328-7E6E
-  - INS-260326-291C
   - INS-260327-ECDA
   - INS-260330-C4D4
 ---

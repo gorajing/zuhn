@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 383 insights
+> 386 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -179,6 +179,7 @@
 - `INS-260327-85EB` [high] Generalist fast-food chains lose market share to specialists in every category because consumers increasingly prefer the
 - `INS-260330-B71B` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must continuously neutralize — legacy system bugs become permanent line items.
 - `INS-260330-1FED` [high] Rockefeller secured 50-75% railroad discounts by negotiating when railroads were desperate, then used the cost advantage to bankrupt competitors through sustained price wars.
+- `INS-260403-298E` [high] Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260327-A61B` [high] Lower barriers to build (AWS, Stripe, AI) simultaneously lower barriers for competitors, making speed the primary differentiator.
 - `INS-260324-1CC8` [high] Buy Alexander McQueen sneakers, a Gucci jacket, and a YSL bag from 3 'different' brands — all your money goes to the same company (Kering). LVMH ($54B revenue) and Kering dominate through an illusion of brand independence.
 - `INS-260327-87A3` [high] LVMHs competitive advantage is vertical integration across the luxury value chain: they own materials suppliers, manufac
@@ -358,6 +359,7 @@
 - `INS-260402-D534` [medium] Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260330-BC21` [medium] Asa Candler obtained pharmacy customer lists and sent free Coke coupons, banking on caffeine and sugar addiction to convert trial users into lifetime customers.
 - `INS-260330-8D0C` [medium] The drive to colonize aggressively contains the seeds of its own unraveling when resources become scarce and competitors collide.
+- `INS-260403-94AD` [medium] Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
 - `INS-260329-CABE` [medium] Big and small goals require similar effort, but big goals face less competition because most people dismiss them as unrealistic.
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
 - `INS-260402-7E2A` [medium] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
@@ -379,6 +381,7 @@
 - `INS-260327-7C23` [medium] Over 90% of independent NYC pizzerias survive a decade, but the true failure rate is hidden behind thousands of private backroom deals where new operators take over existing names and kitchens.
 - `INS-260322-0E41` [medium] Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model providers means AI startups face taxation risk, not existential platform risk.
 - `INS-260324-1C12` [medium] The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
+- `INS-260403-3F9C` [medium] Silicon Valley's transformation from charming college town to suburban sprawl creates an opening for competitor cities that preserve urban livability.
 - `INS-260325-E19E` [medium] New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.
 - `INS-260330-A561` [medium] Louis Vuitton sued Supreme for copying their logo, then reversed course into a collaboration that produced items reselling for $125,000+.
 - `INS-260327-F0B2` [medium] Systems of record like Salesforce must choose: charge for data and give away agentic workflows, or charge for workflows and make data storage free.

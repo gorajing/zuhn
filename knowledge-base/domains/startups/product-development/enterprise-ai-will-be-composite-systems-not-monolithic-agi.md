@@ -44,12 +44,11 @@ stance: >-
   combining specialized models, knowledge graphs, and human oversight — rather
   than the monolithic AGI approach that dominates public discourse.
 related:
-  - INS-260323-3045
   - INS-260325-4300
   - INS-260326-2C4E
   - PRI-260328-604D
   - INS-260326-E0CB
-  - INS-260330-712D
+  - INS-260323-3045
 evidence:
   - id: INS-260323-3045
     type: SUPPORTS

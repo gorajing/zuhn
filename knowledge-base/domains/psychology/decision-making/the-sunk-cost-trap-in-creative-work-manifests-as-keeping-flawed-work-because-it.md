@@ -52,7 +52,6 @@ stance: >-
   cost you a lot of effort
 related:
   - INS-260327-B9BB
-  - INS-260327-AEC2
   - INS-260329-B1A1
   - INS-260402-2074
   - PRI-260328-F0B4

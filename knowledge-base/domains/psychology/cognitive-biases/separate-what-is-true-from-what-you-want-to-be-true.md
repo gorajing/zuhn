@@ -52,10 +52,10 @@ stance: >-
   correspond to reality.
 related:
   - INS-260324-A046
+  - INS-260403-508D
   - INS-260325-0147
   - PRI-260328-7E58
-  - INS-260327-C569
-  - PRI-260328-1A2D
+  - INS-260403-BDE0
 evidence:
   - id: INS-260324-A046
     type: CONTRADICTS

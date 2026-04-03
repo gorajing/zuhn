@@ -52,10 +52,10 @@ resolutions:
     strategy is to allow and even encourage small, controlled disruptions.
 related:
   - INS-260322-B369
+  - INS-260403-7C67
   - INS-260323-9772
   - INS-260325-3A0E
   - PRI-260325-D34E
-  - INS-260323-7212
 stance: >-
   Systems at criticality — forests, economies, markets — naturally drive
   themselves to a state where a single small event can cascade through the

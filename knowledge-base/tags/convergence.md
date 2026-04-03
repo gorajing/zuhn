@@ -7,3 +7,4 @@
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
 - `INS-260330-E1CA` Rogue waves aren't random — they're multiple ordinary waves meeting and amplifying, which reframes how we think about extreme events.
 - `INS-260325-03D5` Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
+- `INS-260403-298E` Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.

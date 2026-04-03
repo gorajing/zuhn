@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 306 insights
+> 309 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -19,6 +19,7 @@
 - `INS-260325-11E4` [high] Finding children's and women's shoes at Roman army bases overturned the assumption that military posts were male-only — tiny artifacts reshaped understanding of an entire institution.
 - `INS-260325-A54F` [high] Apple's power is ecosystem lock-in that makes switching feel like identity loss — not product superiority.
 - `INS-260323-C1D7` [high] 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
+- `INS-260403-A5FF` [high] Shared human perceptual wiring (faces, primary colors, 3D objects, edge-finding) makes art quality measurable against universal audience responses.
 - `INS-260327-4D3A` [high] Even consumers who cognitively recognize that limited drops are manufactured scarcity still experience genuine urgency a
 - `INS-260330-4D9D` [high] When people expect norm compliance from one party but not the other, the norm is already destroyed regardless of what happens next.
 - `INS-260330-1296` [high] When ambient noise disappears, the auditory system cranks up its gain, making internal body sounds that were always present suddenly audible.
@@ -235,6 +236,7 @@
 - `INS-260323-9369` [medium] In environments where death is commonplace, people paradoxically develop a deeper capacity for joy and celebration because they accept mortality head-on rather than living in denial.
 - `INS-260327-7193` [medium] Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260325-CE25` [medium] O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
+- `INS-260403-8391` [medium] New York dominates the art market because rich buyers evaluate art as brand identity rather than visual quality, while Paris remains the city where people genuinely care what paintings look like.
 - `INS-260330-D006` [medium] Peterson argues that beauty — particularly in art and architecture — functions like empirical evidence pointing to deep structural truths, not unlike how scientific data points to natural laws.
 - `INS-260330-035C` [medium] Stanford research showed hotel workers told their daily movement met exercise guidelines lost significantly more fat and improved cardiovascular markers compared to uninformed controls, even without changing behavior.
 - `INS-260325-FD0F` [medium] Brain-reading technology is progressing from clinical use to consumer EEG — creating a looming crisis for freedom of thought, the last privacy frontier beyond freedom of speech.
@@ -277,6 +279,7 @@
 - `INS-260325-59D4` [medium] Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260327-9447` [medium] Most people have never been adults - they've learned to perform the social behaviors associated with adulthood while remaining emotionally and psychologically undeveloped.
 - `INS-260325-EC93` [medium] Psychopathy is difficult but not impossible to treat; CBT, medication, and parent training all show effectiveness.
+- `INS-260403-6178` [medium] What you overhear and see through windows in a neighborhood reveals its true intellectual character and ambient message more reliably than any reputation or branding.
 - `INS-260330-0F49` [medium] The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
 - `INS-260323-5D23` [medium] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
 - `INS-260330-649B` [medium] Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.

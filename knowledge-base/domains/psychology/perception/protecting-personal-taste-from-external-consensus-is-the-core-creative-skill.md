@@ -55,11 +55,12 @@ stance: >-
   conviction in their own aesthetic judgment despite unanimous external
   disagreement
 related:
+  - INS-260403-8391
   - INS-260323-1FC1
   - INS-260330-2492
   - INS-260322-BF4C
   - INS-260321-CCD9
-  - INS-260327-8521
+  - INS-260403-B462
 evidence:
   - id: INS-260322-BF4C
     type: SUPPORTS

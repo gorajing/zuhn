@@ -57,6 +57,7 @@ related:
   - INS-260330-6D52
   - PRI-260327-A7C5
   - INS-260330-53F7
+  - INS-260403-3E3B
 ---
 Nagoski's central empirical claim is that the brain evaluates identical sensory input differently depending on context. The same touch that produces pleasure in a safe, connected moment produces irritation or discomfort under stress. This means optimizing for sexual satisfaction is fundamentally an environmental and relational design problem, not a technique problem.
 

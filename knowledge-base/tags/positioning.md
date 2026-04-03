@@ -3,6 +3,7 @@
 - `INS-260330-E54B` Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
 - `INS-260327-61AE` Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
 - `INS-260329-5B18` Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
+- `INS-260403-94AD` Competition for a customer segment is a fit contest, not a feature contest — the best match to jobs/pains/gains wins the slot.
 - `INS-260330-63FE` At Stalingrad, Russians 'hugged' German front lines so Luftwaffe air strikes would kill both sides equally — neutralizing Germany's air superiority through proximity.
 - `INS-260329-9098` The more specific your ideal customer avatar, the more you can charge because your offer feels custom-built for them.
 - `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
