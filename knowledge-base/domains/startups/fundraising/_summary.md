@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 100 insights
+> 104 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -27,6 +27,7 @@
 - `INS-260403-9D89` [high] Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies.
 - `INS-260330-C84C` [high] If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260403-600F` [high] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
+- `INS-260403-0267` [high] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260402-66A5` [high] VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260330-7BF5` [high] Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
@@ -42,6 +43,7 @@
 - `INS-260403-028F` [high] Startup investors need domain expertise and skin in the game—two things structurally absent from government bureaucracies.
 - `INS-260403-1BD8` [high] Investors who wait for others to commit first will be pushed to last place in line, missing hot deals entirely.
 - `INS-260402-9288` [high] Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
+- `INS-260403-2F22` [high] Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
 - `INS-260403-E9C6` [high] Super-angels emerged specifically because the $200k-$600k range was too large for angels and too small for VCs.
 - `INS-260330-070A` [high] VCs who avoid flawed companies systematically miss the biggest winners because extreme outliers always have glaring weaknesses alongside their extraordinary strengths.
 - `INS-260403-7A31` [high] Investor ecosystems grow organically from successful exits — they cannot be seeded artificially or attracted by incentives.
@@ -54,6 +56,7 @@
 - `INS-260403-4423` [high] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
 - `INS-260403-78B7` [high] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
+- `INS-260403-41FF` [high] Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-F3FF` [high] Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260403-86DB` [high] Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
@@ -80,6 +83,7 @@
 - `INS-260330-EE5E` [high] Small investors who don't understand startup timelines (uncles, neighbors putting in $5-10K) become the most problematic investors because they treat startup equity like a short-term liquid investment.
 - `INS-260330-478B` [high] Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
 - `INS-260403-D7DF` [high] Replace market size arguments with specific user stories that demonstrate proxy for demand.
+- `INS-260403-1A73` [high] Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
 - `INS-260330-AF2B` [high] A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round.
 - `INS-260330-7220` [high] The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
 - `INS-260402-4719` [high] VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.

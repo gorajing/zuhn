@@ -20,6 +20,7 @@ Generated on 2026-04-03 | 2421 sources
 | Lecture 18 - Legal and Accounting Basics for Startups (Kirsty Nathoo, Carolynn Levy) | youtube | 24 | 2026-03-31 |
 | Is Earth Actually Flat? | youtube | 23 | 2026-03-30 |
 | Lecture 6 - Growth (Alex Schultz) | youtube | 21 | 2026-03-31 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 20 | 2026-03-31 |
 | Hiring is Obsolete | blog | 20 | 2026-03-31 |
 | C++ Tutorial for Beginners - Full Course | youtube | 20 | 2026-03-29 |
 | The “heroic dose” of psychedelics, according to Johns Hopkins | Dr. Matthew Johnson | youtube | 20 | 2026-03-30 |
@@ -30,7 +31,6 @@ Generated on 2026-04-03 | 2421 sources
 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | youtube | 16 | 2026-03-30 |
 | Why Apple Fails in India (& Why it Matters) | youtube | 16 | 2026-03-30 |
 | GTC panel 2 | audio | 15 | 2026-03-25 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 15 | 2026-03-31 |
 | 14 Life Lessons I Wish I Knew Earlier | youtube | 15 | 2026-03-30 |
 | Brutally Honest Advice to My Younger Poorer Self | youtube | 15 | 2026-03-30 |
 | Fall of The Roman Empire...in the 15th Century: Crash Course World History #12 | youtube | 15 | 2026-03-30 |
@@ -266,6 +266,7 @@ Generated on 2026-04-03 | 2421 sources
 | Airwallex: How an Outsider Built an $8B Fintech Empire | blog | 5 | 2026-03-30 |
 | "All Lawful Use": Much More Than You Wanted To Know | blog | 5 | 2026-03-30 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
+| Are we in the foothills of World War 3? | blog | 5 | 2026-03-30 |
 | Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
 | At BioCity, Customer Obsession Fuels The Next Generation Of Healthcare | blog | 5 | 2026-03-31 |
 | At least five interesting things: Buy Local edition (#74) | blog | 5 | 2026-03-30 |
@@ -1738,7 +1739,6 @@ Generated on 2026-04-03 | 2421 sources
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 0 | 2026-03-30 |
 | April Dunford on product positioning, segmentation, and optimizing your sales process | blog | 0 | 2026-03-31 |
 | Are Gains the Opposite of Pains? | blog | 0 | 2026-03-31 |
-| Are we in the foothills of World War 3? | blog | 0 | 2026-03-30 |
 | ARM Business Model | blog | 0 | 2026-03-31 |
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |

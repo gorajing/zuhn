@@ -55,7 +55,6 @@ related:
   - INS-260328-0C4C
   - INS-260330-3559
   - INS-260330-9DC9
-  - INS-260403-EE10
 stance: >-
   The best investors will offer founders terms that hurt themselves in the short
   run because they know being a great partner now means the founder wo...

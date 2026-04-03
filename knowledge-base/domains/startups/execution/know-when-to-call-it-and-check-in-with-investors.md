@@ -45,12 +45,13 @@ stance: >-
   Founders stay too long in failing ventures because they assume investors
   expect persistence, when investors often already see it's time to move on.
 related:
+  - INS-260403-0267
   - PRI-260403-26B9
   - INS-260402-7FCC
   - INS-260403-C625
   - INS-260330-1002
-  - INS-260330-A954
   - INS-260330-A38C
+  - INS-260330-A954
   - INS-260403-F447
 evidence:
   - id: INS-260402-7FCC

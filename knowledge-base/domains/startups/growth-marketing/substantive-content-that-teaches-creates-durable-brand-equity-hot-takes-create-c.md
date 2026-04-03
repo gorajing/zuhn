@@ -50,8 +50,8 @@ related:
   - PRI-260322-DCDB
   - INS-260403-D375
   - INS-260327-5D13
+  - INS-260403-81CE
   - PRI-260321-558C
-  - PRI-260328-1A2D
 stance: >-
   Timeless how-to content (like 'Good Product Manager Bad Product Manager')
   compounds in value while opinion pieces about market bubbles are forgotte...

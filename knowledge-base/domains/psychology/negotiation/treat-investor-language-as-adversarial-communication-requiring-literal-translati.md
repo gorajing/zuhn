@@ -45,11 +45,11 @@ stance: >-
   appearing committal, and founders must develop a translation layer that maps
   investor-speak to actual intent.
 related:
-  - INS-260325-9AD4
   - INS-260327-5B30
   - INS-260330-1002
+  - INS-260403-0267
   - INS-260327-B18F
-  - INS-260327-C79D
+  - INS-260325-9AD4
 evidence:
   - id: INS-260325-9AD4
     type: EXTENDS

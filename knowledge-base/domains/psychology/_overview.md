@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 1674 insights across 20 topics
+> 1675 insights across 20 topics
 
 ## Topics
 
@@ -22,7 +22,7 @@
 | mental-models | 66 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
 | negotiation | 2 | Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse. |
 | perception | 309 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
-| persuasion | 16 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
+| persuasion | 17 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
 | physics-intuition | 77 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 91 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
 | resilience | 136 | Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen. |

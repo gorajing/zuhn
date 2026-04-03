@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3137 actionable insights
+Generated on 2026-04-03 | 3142 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1507,6 +1507,7 @@ Generated on 2026-04-03 | 3137 actionable insights
 - [INS-260403-B12E] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - [INS-260403-0F95] Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - [INS-260403-3421] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
+- [INS-260403-81CE] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2406,6 +2407,10 @@ Generated on 2026-04-03 | 3137 actionable insights
 - [INS-260403-FF86] Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
 - [INS-260403-4337] In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - [INS-260403-AF27] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
+- [INS-260403-0267] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
+- [INS-260403-2F22] Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
+- [INS-260403-41FF] Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
+- [INS-260403-1A73] Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

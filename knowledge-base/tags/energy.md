@@ -11,8 +11,8 @@
 - `INS-260330-100F` Thylakoid membranes store energy by pumping protons to one side, creating a 'charged battery' that drives ATP synthase — energy stored as a gradient, not a molecule.
 - `INS-260330-F2B6` Both photosynthesis and cellular respiration use the same trick: pump protons across a membrane to create a concentration gradient, then harvest that gradient through ATP synthase.
 - `INS-260327-F384` Animal-based nutrition supports elite surfing performance through sustained energy without crashes
-- `INS-260325-DC90` Coffee borrows energy from stress hormones — quitting for 30 days reveals true energy levels and allows adrenal recovery.
 - `INS-260322-2D57` Energy is the current AI infrastructure bottleneck (driving renewed interest in nuclear), but once solved, cooling becomes the next constraint — creating a wave of innovation opportunity around thermal management.
+- `INS-260325-DC90` Coffee borrows energy from stress hormones — quitting for 30 days reveals true energy levels and allows adrenal recovery.
 - `INS-260323-5955` Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
 - `INS-260325-1D95` The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
 - `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.

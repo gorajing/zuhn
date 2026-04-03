@@ -57,7 +57,6 @@ related:
   - PRI-260328-21AD
   - INS-260327-F55C
   - INS-260328-93C8
-  - INS-260403-6F52
 stance: >-
   In VC, waiting 10-15 years for portfolio outputs to evaluate GP performance is
   dangerously slow

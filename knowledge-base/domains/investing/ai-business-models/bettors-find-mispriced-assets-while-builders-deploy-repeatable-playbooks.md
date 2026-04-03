@@ -49,7 +49,6 @@ stance: >-
   The most reliable investment returns come from deploying proven operational
   playbooks into companies rather than trying to identify mispriced assets.
 related:
-  - INS-260323-960A
   - INS-260326-6B98
   - PRI-260328-3FEF
   - INS-260330-2413

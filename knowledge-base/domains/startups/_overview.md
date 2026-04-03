@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 2566 insights across 33 topics
+> 2570 insights across 33 topics
 
 ## Topics
 
@@ -18,7 +18,7 @@
 | execution | 185 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 283 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
 | founder-psychology | 47 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
-| fundraising | 100 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
+| fundraising | 104 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
 | growth | 55 | Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve. |
 | growth-marketing | 127 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
 | growth-strategy | 56 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |

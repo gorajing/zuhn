@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 16 insights
+> 17 insights
 
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-0F95` [high] Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
@@ -17,4 +17,5 @@
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260330-A1AF` [medium] Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
 - `INS-260403-6E11` [medium] The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
+- `INS-260403-81CE` [medium] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260330-80AF` [medium] Swear words across languages tend to be short with hard consonants because cultural selection favors words that can be deployed rapidly and with maximum percussive impact.
