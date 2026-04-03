@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3044 actionable insights
+Generated on 2026-04-03 | 3047 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2723,6 +2723,9 @@ Generated on 2026-04-03 | 3044 actionable insights
 - [INS-260330-8D7C] LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space.
 - [INS-260402-3C79] Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.
 
+## startups/product
+- [INS-260403-6CE6] Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models.
+
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
 - [INS-260322-8D47] When customers become partners invested in your success as much as you are in theirs, they introduce you to VCs, build on your platform, and actively help your company grow.
@@ -3121,6 +3124,8 @@ Generated on 2026-04-03 | 3044 actionable insights
 - [INS-260403-7DEC] Carnegie's steel and Standard Oil's distribution made more from railroads than railroad companies themselves did.
 - [INS-260403-6279] History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
 - [INS-260403-FB8E] Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
+- [INS-260403-D1D4] Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.
+- [INS-260403-215E] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

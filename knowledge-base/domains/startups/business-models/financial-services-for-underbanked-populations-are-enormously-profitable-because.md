@@ -41,10 +41,10 @@ stance: >-
   and price-insensitive demand.
 related:
   - INS-260324-8C30
+  - INS-260403-4FA4
   - INS-260321-AA91
   - INS-260322-3259
   - INS-260322-B450
-  - INS-260330-D824
 evidence:
   - id: INS-260324-8C30
     type: SUPPORTS

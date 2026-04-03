@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 2440 insights across 31 topics
+> 2445 insights across 33 topics
 
 ## Topics
 
@@ -25,15 +25,17 @@
 | health-innovation | 10 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
 | hiring | 25 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 61 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
+| innovation | 1 | For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address. |
 | leadership | 154 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
 | market-entry | 20 | AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing. |
 | mental-models | 4 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | problem-solving | 6 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
+| product | 1 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 125 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-strategy | 25 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
 | quality | 10 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 173 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
 | scaling | 108 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
-| strategy | 138 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| strategy | 141 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 38 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
 | validation | 79 | Pretty much 100% of startups that make something popular manage to make money from it. |

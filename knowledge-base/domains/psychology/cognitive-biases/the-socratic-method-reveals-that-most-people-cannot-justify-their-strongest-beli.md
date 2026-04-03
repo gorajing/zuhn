@@ -49,11 +49,11 @@ stance: >-
   people hold their strongest convictions based on social conformity rather than
   personal reasoning.
 related:
-  - INS-260327-2F78
   - INS-260330-14CA
   - INS-260330-0E49
   - INS-260330-0E86
-  - PRI-260325-08FB
+  - INS-260327-2F78
+  - PRI-260403-CCBC
   - INS-260328-70D3
 evidence:
   - id: INS-260327-2F78

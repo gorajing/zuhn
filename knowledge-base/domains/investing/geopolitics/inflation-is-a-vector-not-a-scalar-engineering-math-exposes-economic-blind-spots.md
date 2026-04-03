@@ -55,10 +55,10 @@ stance: >-
   systematically understate the true rate of monetary debasement.
 related:
   - INS-260330-2689
+  - INS-260403-DB16
   - INS-260329-0432
   - INS-260322-AABB
   - INS-260322-CCE8
-  - INS-260330-BFD0
 evidence:
   - id: INS-260322-CCE8
     type: TRANSFERS_TO

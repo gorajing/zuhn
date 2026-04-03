@@ -51,6 +51,7 @@ related:
   - INS-260330-EFB8
   - INS-260327-4081
   - INS-260324-8C30
+  - INS-260403-4FA4
 stance: >-
   Major banks like Goldman Sachs went from building their own email clients to
   adopting Cursor and GitHub Copilot

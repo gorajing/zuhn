@@ -52,7 +52,6 @@ related:
   - INS-260329-D2CA
   - INS-260329-3441
   - INS-260329-3423
-  - INS-260330-FBE1
 evidence:
   - id: INS-260330-FBE1
     type: CONTRADICTS

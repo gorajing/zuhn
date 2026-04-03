@@ -47,7 +47,6 @@ stance: >-
   The most valuable intellectual skill is noticing anomalies and surprises
   rather than accumulating confirmations of existing beliefs
 related:
-  - INS-260330-2838
   - INS-260402-F772
   - INS-260330-FB5A
   - INS-260320-3798

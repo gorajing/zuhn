@@ -40,7 +40,6 @@ stance: >-
   is visible on the shelf because consumers evaluate packaging and pricing
   together at point of purchase.
 related:
-  - INS-260327-CADA
   - INS-260327-99E5
   - INS-260321-AA91
   - INS-260325-8DF7

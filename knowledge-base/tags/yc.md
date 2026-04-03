@@ -12,3 +12,4 @@
 - `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260328-6F5B` YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.
 - `INS-260321-6BA7` Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
+- `INS-260403-D1D4` Doubling your already-ambitious targets forces strategic creativity and attracts higher-caliber collaborators.

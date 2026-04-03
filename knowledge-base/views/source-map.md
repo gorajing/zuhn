@@ -265,6 +265,7 @@ Generated on 2026-04-03 | 2421 sources
 | Billionaires Build | blog | 5 | 2026-03-31 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
+| “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
 | Economic Inequality | blog | 5 | 2026-03-31 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
@@ -1781,7 +1782,6 @@ Generated on 2026-04-03 | 2421 sources
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
 | Could VC be a Casualty of the Recession? | blog | 0 | 2026-03-31 |
 | Crazy New Ideas | blog | 0 | 2026-03-31 |
-| “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 0 | 2026-03-31 |
 | Crime As Proxy For Disorder | blog | 0 | 2026-03-30 |
 | Crypto Is A Tool That Was Exploited. | blog | 0 | 2026-03-31 |
 | Cybersecurity’s Future Belongs to Startups | blog | 0 | 2026-03-31 |

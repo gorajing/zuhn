@@ -54,12 +54,12 @@ stance: >-
   prioritization framework
 related:
   - INS-260325-D392
-  - INS-260330-02A7
   - INS-260330-51D6
-  - INS-260330-FF94
+  - PRI-260403-6E50
   - INS-260330-2689
   - INS-260329-5094
   - INS-260329-ADCD
+  - INS-260330-FF94
 evidence:
   - id: INS-260325-D392
     type: EXTENDS

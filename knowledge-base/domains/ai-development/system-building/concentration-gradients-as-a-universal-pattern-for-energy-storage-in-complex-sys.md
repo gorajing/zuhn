@@ -51,11 +51,11 @@ stance: >-
   be released through constrained channels to do useful work.
 related:
   - INS-260329-A6F0
+  - PRI-260403-6E50
   - INS-260330-B38B
   - INS-260330-FA36
   - INS-260330-3037
   - INS-260330-3C3C
-  - INS-260330-F671
 evidence:
   - id: INS-260329-A6F0
     type: TRANSFERS_TO

@@ -48,7 +48,6 @@ stance: >-
   alienating users, because in network-effect businesses the user base itself is
   the primary asset, not per-user revenue
 related:
-  - INS-260327-7681
   - INS-260330-F9CA
   - INS-260322-B450
   - INS-260327-2B62
