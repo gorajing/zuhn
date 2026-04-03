@@ -47,10 +47,10 @@ stance: >-
   creating a generation of half-hearted entrepreneurs.
 related:
   - INS-260327-5297
+  - INS-260403-CACE
   - INS-260403-6553
   - INS-260327-E2BC
   - INS-260327-D5CC
-  - INS-260402-27A1
   - INS-260327-39D4
   - INS-260328-F303
   - INS-260402-8EED

@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 2500 insights across 33 topics
+> 2509 insights across 33 topics
 
 ## Topics
 
@@ -18,14 +18,14 @@
 | execution | 183 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 281 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
 | founder-psychology | 46 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
-| fundraising | 90 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
+| fundraising | 95 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
 | growth | 52 | Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve. |
 | growth-marketing | 127 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
-| growth-strategy | 54 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
+| growth-strategy | 56 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
 | health-innovation | 10 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
 | hiring | 25 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
-| ideation | 64 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| innovation | 2 | For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address. |
+| ideation | 65 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
+| innovation | 3 | For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address. |
 | leadership | 156 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
 | market-entry | 20 | AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing. |
 | mental-models | 4 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |

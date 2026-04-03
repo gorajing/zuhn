@@ -56,6 +56,7 @@ stance: >-
   recognizing these patterns early is essential to preserving innovation.
 related:
   - INS-260325-B115
+  - INS-260403-7A31
   - INS-260403-7C67
   - PRI-260403-C34A
   - PRI-260325-262C

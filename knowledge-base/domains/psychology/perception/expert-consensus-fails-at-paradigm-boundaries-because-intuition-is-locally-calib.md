@@ -65,5 +65,6 @@ related:
   - INS-260330-D385
   - INS-260330-BD04
   - INS-260403-2245
+  - INS-260403-922C
 ---
 This is the most surprising cross-domain cluster in the knowledge base. AI/limitations says most predictions require running the full computation — you cannot shortcut a computationally irreducible system. Physics-intuition says reality is observer-dependent — the same event looks different from different reference frames, and both views are valid. Perception says common sense is a local approximation that breaks at every scale boundary. Founder-mindset says conviction under expert ridicule is the defining trait of paradigm-shifting founders. The unified explanation: experts fail at paradigm boundaries not because they are stupid but because (1) their intuition is locally calibrated and therefore correct within the current regime, (2) reality genuinely looks different from their frame, (3) common sense is a local approximation that cannot extrapolate across scale boundaries, and (4) the only way to know if the paradigm shift works is to run the full experiment. This means the contrarian founder is not irrational — they are the only rational actor when the system is computationally irreducible.

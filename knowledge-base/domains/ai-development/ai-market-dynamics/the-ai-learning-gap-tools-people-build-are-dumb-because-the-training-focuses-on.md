@@ -52,6 +52,7 @@ related:
   - INS-260325-95A6
   - INS-260330-B468
   - INS-260330-C870
+  - INS-260403-7A31
 stance: >-
   MIT research shows $291B wasted on AI because the ecosystem trained people to
   sell AI services, not build AI that actually works reliably.

@@ -12,4 +12,5 @@
 - `INS-260330-16F7` McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.
 - `INS-260324-4ACD` America has 50,000 self-storage facilities and 2 billion sq ft of extra storage for 300M people — Europe has 5,000 facilities for 750M people. It's a recession-proof bet on American overconsumption.
 - `INS-260324-0DC1` McDonald's franchisees pay ~$400K/year per store (4x Burger King/Wendy's), and the company's rent revenue is nearly double its food royalties — making it a real estate company that sells burgers as a side effect.
+- `INS-260403-2C50` The best deals for creative and entrepreneurial communities are in cities that were once rich and then became poor — solid infrastructure at bargain prices.
 - `INS-260330-F3E4` Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.

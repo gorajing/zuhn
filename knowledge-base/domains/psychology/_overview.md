@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 1663 insights across 20 topics
+> 1664 insights across 20 topics
 
 ## Topics
 
@@ -9,7 +9,7 @@
 | behavior-change | 10 | Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like. |
 | cognition | 52 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
 | cognitive-biases | 221 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
-| communication | 16 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
+| communication | 17 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
 | consciousness | 94 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
 | decision-making | 44 | What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result. |
 | expertise | 31 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |

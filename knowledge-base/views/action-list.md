@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3088 actionable insights
+Generated on 2026-04-03 | 3094 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1011,6 +1011,7 @@ Generated on 2026-04-03 | 3088 actionable insights
 - [INS-260402-9E2D] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - [INS-260403-1A96] The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
 - [INS-260403-0479] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
+- [INS-260403-4363] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -2380,6 +2381,10 @@ Generated on 2026-04-03 | 3088 actionable insights
 - [INS-260403-C625] Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - [INS-260403-86DB] Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
 - [INS-260403-D7DF] Replace market size arguments with specific user stories that demonstrate proxy for demand.
+- [INS-260403-C7A9] Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
+- [INS-260403-600F] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
+- [INS-260403-F3FF] Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
+- [INS-260403-17A3] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2623,6 +2628,9 @@ Generated on 2026-04-03 | 3088 actionable insights
 - [INS-260403-5441] The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - [INS-260403-C610] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
 - [INS-260403-DDFD] Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
+
+## startups/innovation
+- [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.

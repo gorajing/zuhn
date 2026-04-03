@@ -53,7 +53,6 @@ related:
   - INS-260327-D21C
   - PRI-260328-F804
   - INS-260322-F6C3
-  - INS-260327-FB98
   - INS-260327-034A
 evidence:
   - id: INS-260327-FB98

@@ -61,6 +61,7 @@ Generated on 2026-04-03 | 2421 sources
 | Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI | youtube | 11 | 2026-03-21 |
 | Lecture 17 - How to Design Hardware Products (Hosain Rahman) | youtube | 11 | 2026-03-31 |
 | The surprisingly simple rules most investors break | Barry Ritholtz | youtube | 11 | 2026-03-25 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 10 | 2026-03-31 |
 | $100M CEO Explains How to Build A Brand in 2024 | youtube | 10 | 2026-03-30 |
 | 13 Foods You Should NEVER Buy Organic | youtube | 10 | 2026-03-26 |
 | 14 Money Mistakes to AVOID in Your 20's | youtube | 10 | 2026-03-30 |
@@ -196,10 +197,10 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
@@ -244,7 +245,6 @@ Generated on 2026-04-03 | 2421 sources
 | 2024 Annual Letter | blog | 5 | 2026-03-30 |
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 5 | 2026-03-31 |
 | 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
 | A conversation with Claude | blog | 5 | 2026-03-30 |
 | A Fundraising Survival Guide | blog | 5 | 2026-03-31 |
@@ -299,6 +299,7 @@ Generated on 2026-04-03 | 2421 sources
 | How to Evaluate a Startup Exit: Signs, Metrics & Red Flags | blog | 5 | 2026-03-30 |
 | How to Fund a Startup | blog | 5 | 2026-03-31 |
 | How to Get Startup Ideas | blog | 5 | 2026-03-31 |
+| How to Make Pittsburgh a Startup Hub | blog | 5 | 2026-03-31 |
 | How to Make Wealth | blog | 5 | 2026-03-31 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
@@ -322,6 +323,7 @@ Generated on 2026-04-03 | 2421 sources
 | Mind the Gap | blog | 5 | 2026-03-31 |
 | Moltbook: After The First Weekend | blog | 5 | 2026-03-30 |
 | No, China doesn't plan 1000 years ahead | blog | 5 | 2026-03-30 |
+| Non-Dilutive Funding: How Startups Grow Without Equity Loss | blog | 5 | 2026-03-30 |
 | Onion Theory of Risk for Startup Valuation and Funding | blog | 5 | 2026-03-30 |
 | OpenAI’s Product Lead on Winning AI Through Distribution | blog | 5 | 2026-03-30 |
 | Plentiful, high-paying jobs in the age of AI | blog | 5 | 2026-03-30 |
@@ -1960,7 +1962,6 @@ Generated on 2026-04-03 | 2421 sources
 | How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 0 | 2026-03-30 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 0 | 2026-03-30 |
 | How to Lose Time and Money | blog | 0 | 2026-03-31 |
-| How to Make Pittsburgh a Startup Hub | blog | 0 | 2026-03-31 |
 | How to Model Mezzanine Financing End-to-End | blog | 0 | 2026-03-30 |
 | How to Prepare for Your First VC Intro Call (and Actually Impress Them) | blog | 0 | 2026-03-30 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
@@ -2028,7 +2029,6 @@ Generated on 2026-04-03 | 2421 sources
 | Neuralink's 21 Telepathy Trials in 2 Years | blog | 0 | 2026-03-30 |
 | News from the Front | blog | 0 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 0 | 2026-03-30 |
-| Non-Dilutive Funding: How Startups Grow Without Equity Loss | blog | 0 | 2026-03-30 |
 | Novelty and Heresy | blog | 0 | 2026-03-31 |
 | NVIDIA and the $1T AI Buildout for the Agent Era | blog | 0 | 2026-03-30 |
 | One Year of The VC Corner: From 0 to 62,000 🚀 | blog | 0 | 2026-03-30 |

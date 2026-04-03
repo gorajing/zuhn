@@ -52,7 +52,6 @@ related:
   - INS-260323-40AA
   - INS-260329-C996
   - INS-260327-58ED
-  - INS-260328-EBBC
   - INS-260329-EBCA
 evidence:
   - id: INS-260323-40AA

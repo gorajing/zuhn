@@ -51,14 +51,14 @@ stance: >-
   Prestigious credentials and celebrity endorsements create systematic due
   diligence failures even among the most sophisticated institutional investors
 related:
-  - INS-260325-5A93
   - INS-260322-E791
   - INS-260327-A5CD
   - INS-260327-5107
   - INS-260330-90C3
   - PRI-260327-5635
+  - INS-260403-C7A9
+  - INS-260325-5A93
   - INS-260327-70DF
-  - INS-260403-B12E
   - INS-260330-E5F2
 evidence:
   - id: INS-260327-5107

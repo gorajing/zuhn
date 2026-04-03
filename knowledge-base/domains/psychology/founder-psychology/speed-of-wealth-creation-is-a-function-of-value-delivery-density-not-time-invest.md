@@ -51,7 +51,6 @@ stance: >-
   between value delivered and price charged, not that something is wrong
 related:
   - INS-260321-4280
-  - INS-260327-6D57
   - INS-260328-D1B2
   - INS-260402-426C
   - INS-260321-C4CD
