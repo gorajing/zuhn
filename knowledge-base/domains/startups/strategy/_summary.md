@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 186 insights
+> 189 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -16,6 +16,7 @@
 - `INS-260402-2B96` [high] Since most startups fail, doing what most startups do is a strategy for failure — survival requires deliberate deviation from the norm.
 - `INS-260330-85C2` [high] Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260403-5B4E` [high] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
+- `INS-260403-0162` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement — scaling around inefficiency creates permanent cost.
 - `INS-260330-2332` [high] Requiring separate visas, insurance policies, and professional licenses across a 14-minute train ride creates massive deadweight loss that blocks doctors, lawyers, and investors from accessing adjacent markets.
 - `INS-260323-BD2B` [high] JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
 - `INS-260330-90B6` [high] Oxygen — the molecule enabling all animal life — is literally a waste product of photosynthesis, not its purpose.
@@ -83,6 +84,7 @@
 - `INS-260330-9E26` [high] Successful economic development requires multiple complementary strategies pursued in parallel, not a single dominant approach.
 - `INS-260330-659D` [high] Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260328-A417` [high] PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.
+- `INS-260403-08FE` [high] Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
 - `INS-260330-4ACF` [high] Britain promised Palestine to three different parties simultaneously, ensuring universal betrayal and lasting conflict.
 - `INS-260403-0B14` [high] Parental drive to advantage children is so powerful that only structural solutions (smaller organizations, market measurement) work—rule-based patches always get circumvented.
 - `INS-260403-E796` [high] Early commitment to a 'good enough' approach creates lock-in that persists even when the approach becomes demonstrably suboptimal.
@@ -174,6 +176,7 @@
 - `INS-260330-22A2` [medium] Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260330-24E0` [medium] When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
 - `INS-260330-23CD` [medium] Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
+- `INS-260403-87BE` [medium] Sears, Toys-R-Us, and J.C. Penney died from self-inflicted adaptation failures while Ross, Aldi, and Costco thrived in the same environment.
 - `INS-260403-7E6A` [medium] North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260323-A075` [medium] Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
 - `INS-260330-6D49` [medium] Moving the capital from Rome to Constantinople traded short-term Western control for a thousand years of Eastern survival — a masterclass in strategic repositioning.

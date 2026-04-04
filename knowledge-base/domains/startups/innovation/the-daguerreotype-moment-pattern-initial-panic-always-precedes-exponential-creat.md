@@ -55,7 +55,6 @@ stance: >-
   leading indicator that exponential creative and economic expansion is about to
   follow.
 related:
-  - INS-260328-D0F6
   - INS-260330-7106
   - INS-260403-A6AF
   - INS-260403-4690

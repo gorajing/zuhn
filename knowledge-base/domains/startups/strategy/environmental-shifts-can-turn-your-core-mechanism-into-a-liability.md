@@ -49,7 +49,6 @@ stance: >-
   The same strategy that enabled dominance under original conditions becomes a
   vulnerability when the environment it shaped changes
 related:
-  - INS-260325-0895
   - INS-260330-E5DC
   - INS-260330-4441
   - INS-260330-B3D5

@@ -45,10 +45,10 @@ stance: >-
   to override the impulse toward instant gratification.
 related:
   - INS-260325-0FED
+  - INS-260403-8C50
   - INS-260403-DDEB
   - INS-260325-14A9
   - INS-260403-A290
-  - INS-260330-C9C2
   - INS-260330-DC3B
   - INS-260402-E85D
 evidence:

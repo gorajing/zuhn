@@ -53,10 +53,10 @@ stance: >-
   pattern that independently generates the same narrative structure.
 related:
   - INS-260327-B37E
+  - INS-260403-87BE
   - INS-260330-420B
   - INS-260323-C10D
   - INS-260325-793A
-  - INS-260330-2EB0
 evidence:
   - id: INS-260323-C10D
     type: TRANSFERS_TO

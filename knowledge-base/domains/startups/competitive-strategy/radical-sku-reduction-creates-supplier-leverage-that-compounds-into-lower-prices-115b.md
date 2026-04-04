@@ -49,12 +49,11 @@ stance: >-
   power that outweighs the revenue lost from reduced selection.
 related:
   - INS-260324-A9DF
-  - INS-260403-89B5
   - INS-260403-E143
   - INS-260403-5BAC
   - INS-260403-36D8
   - INS-260403-887A
-  - INS-260403-5BBC
+  - INS-260403-6670
 ---
 While a typical supermarket carries 30,000 items and Walmart Supercenter stocks 140,000, Costco limits itself to roughly 4,000 SKUs. This constraint, which seems like a disadvantage, creates a flywheel: suppliers desperately want to be one of the one or two choices in each category, so they lower prices and even reengineer products to Costco's specifications (e.g., redesigning cashew containers to save 24,000 pallets/year).
 

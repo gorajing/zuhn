@@ -54,10 +54,9 @@ stance: >-
   weight depending on whether civilian death was the goal, an accepted cost, or
   an unintended consequence.
 related:
-  - INS-260330-051F
-  - INS-260330-0764
   - INS-260330-F8B6
   - INS-260330-6D86
+  - INS-260330-0764
   - INS-260330-7E61
   - INS-260330-F20D
   - INS-260330-CF10

@@ -55,6 +55,7 @@ related:
   - INS-260403-D430
   - INS-260403-21A8
   - INS-260403-06E0
+  - INS-260403-D5F2
 ---
 Founders resist narrow descriptions because early-stage products have many possible directions. But investors process dozens of pitches and ruthlessly filter for clarity. A description like 'easy web-based database' is immediately graspable, while 'a system to collaboratively leverage information value' gets mentally discarded as noise.
 

@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260330-332E
   - INS-260403-7471
+  - INS-260403-87BE
   - INS-260330-F82A
   - INS-260330-E68E
-  - INS-260330-ED37
 evidence:
   - id: INS-260330-F82A
     type: TRANSFERS_TO

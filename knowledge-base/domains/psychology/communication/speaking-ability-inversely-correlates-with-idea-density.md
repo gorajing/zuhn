@@ -21,7 +21,8 @@ date_extracted: '2026-04-03'
 last_accessed: null
 access_count: 0
 indexed: true
-embedded: false
+embedded: true
+embedding_model: "nomic-embed-text"
 resolutions:
   one_line: >-
     The skills that make someone a great speaker are often orthogonal or opposed

@@ -59,8 +59,8 @@ related:
   - INS-260403-D7DF
   - INS-260403-3421
   - INS-260403-30D8
+  - INS-260403-8C50
   - INS-260403-39F9
-  - INS-260403-92EB
 ---
 Graham relays that Sequoia partner Greg McAdoo specifically looks for 'proxy for demand': what are people doing right now, using inadequate tools, that demonstrates they need what you're building? This is fundamentally different from the typical pitch approach of citing market size numbers ('$5 billion TAM').
 

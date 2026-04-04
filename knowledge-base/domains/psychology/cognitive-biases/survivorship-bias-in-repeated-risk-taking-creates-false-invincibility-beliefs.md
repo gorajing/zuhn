@@ -56,8 +56,8 @@ related:
   - INS-260330-51D1
   - INS-260403-3548
   - INS-260327-CD49
+  - INS-260403-87BE
   - PRI-260323-A3A3
-  - INS-260327-37C8
 ---
 Every time Houdini survived a death-defying stunt, his internal risk model updated to assign lower probability to serious harm. After hundreds of successful escapes, his subjective assessment of danger was catastrophically miscalibrated — he genuinely believed he could absorb any punch because he had done it many times before. The single variable that changed (being unprepared) was invisible to his experience-based model.
 

@@ -41,10 +41,10 @@ stance: >-
   all-in pricing.
 related:
   - INS-260327-B6D6
+  - INS-260403-08FE
   - INS-260403-1C25
   - INS-260403-0435
   - INS-260330-3431
-  - INS-260403-F4CC
 ---
 Businesses that advertise low headline prices then add fees during checkout create more consumer resentment than businesses with higher but transparent all-in pricing.
 

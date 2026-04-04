@@ -20,7 +20,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     Consensus-driven investment processes guarantee that the most outlier ideas
@@ -46,14 +46,14 @@ stance: >-
   breakthrough ideas are filtered out, making consensus-driven VC firms
   structurally unable to find the next Google.
 related:
-  - INS-260323-BA17
-  - INS-260329-92E9
-  - INS-260330-3B31
-  - INS-260403-BB6B
-  - INS-260330-AB6E
-  - INS-260325-0688
-  - INS-260330-06CD
-  - INS-260330-8AC8
+  - INS-260323-A430
+  - INS-260329-11AB
+  - INS-260329-4D06
+  - INS-260330-B5D6
+  - INS-260330-2F52
+  - INS-260403-EA34
+  - INS-260323-197A
+  - INS-260320-DDD9
 ---
 Graham identifies a fundamental structural flaw in how most VC firms evaluate startups: decisions are driven by consensus both within the firm and across the broader VC community. Since any truly novel idea will initially seem bad to most people (otherwise someone would already be doing it), requiring multiple people to approve an investment creates a systematic filter against the highest-return opportunities. The more approval layers, the more outliers get lost.
 

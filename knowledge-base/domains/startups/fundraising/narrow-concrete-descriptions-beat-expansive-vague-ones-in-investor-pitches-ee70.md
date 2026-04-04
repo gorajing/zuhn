@@ -52,5 +52,6 @@ related:
   - INS-260403-D430
   - INS-260403-6712
   - INS-260403-A0C4
+  - INS-260403-D5F2
 ---
 Graham observes that as a startup description approaches something that 'could be anything,' its informational content approaches zero. Founders resist narrow descriptions because they feel limiting, but investors literally discard vague sentences like 'a system to collaboratively leverage information' as noise. The correct approach mirrors incremental development: start with a gripping but perhaps overly narrow description, then flesh it out. At every point you should have a 'working description' in the investor's head — the equivalent of working code. This is why 'the Microsoft Word of ecommerce' works better than paragraphs of abstract vision.

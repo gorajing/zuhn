@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3522 actionable insights
+Generated on 2026-04-04 | 3526 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1594,12 +1594,12 @@ Generated on 2026-04-04 | 3522 actionable insights
 - [INS-260403-0AF4] Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
 - [INS-260403-22FE] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - [INS-260403-B216] Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
-- [INS-260403-B3CA] Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
 - [INS-260403-1E82] Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
 - [INS-260403-61B0] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - [INS-260403-74CD] Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
 - [INS-260403-48BF] Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
 - [INS-260403-1A71] In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
+- [INS-260403-E51B] Audiences ignore or penalize explicit self-promotion but are heavily influenced by implicit behavioral signals of confidence.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1895,6 +1895,7 @@ Generated on 2026-04-04 | 3522 actionable insights
 - [INS-260403-ED1E] Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 - [INS-260403-D984] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
 - [INS-260403-26D3] Inability to describe your startup in one compelling phrase signals unfocused strategy, not just poor messaging.
+- [INS-260403-8C50] Sequoia's 'proxy for demand' — people using bad tools to do the thing you enable — is the strongest antidote to investors' biggest early-stage fear.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2644,6 +2645,7 @@ Generated on 2026-04-04 | 3522 actionable insights
 - [INS-260403-C496] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - [INS-260403-D430] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 - [INS-260403-5F03] Trivially low profitability gives startups infinite runway, making VC funding optional rather than existential.
+- [INS-260403-B3CA] A single compelling phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - [INS-260403-270E] Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - [INS-260403-A0C4] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - [INS-260403-87CD] A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
@@ -2660,6 +2662,8 @@ Generated on 2026-04-04 | 3522 actionable insights
 - [INS-260403-088E] Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - [INS-260403-21A8] Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
 - [INS-260403-A65D] Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
+- [INS-260403-88E8] Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
+- [INS-260403-D5F2] Investors discard vague descriptions as boilerplate; narrow concrete ones give them a working mental model to build on.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260330-B7B1
   - INS-260330-ED9D
+  - INS-260403-0162
   - INS-260403-2CDA
   - INS-260330-C02D
   - INS-260403-05D8
-  - INS-260330-54ED
 evidence:
   - id: INS-260330-E068
     type: EXTENDS
