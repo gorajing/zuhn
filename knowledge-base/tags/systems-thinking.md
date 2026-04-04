@@ -23,6 +23,10 @@
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260330-7C58` The Holocaust used Western civilization's best tools — record-keeping, industrial production, technology — for systematic extermination, proving progress is morally neutral.
+- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
+- `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
+- `INS-260403-2DC4` Plants rationally invest in workaround enzymes for RuBisCo's failures rather than replacing the enzyme itself.
+- `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
 - `INS-260404-DA41` Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
 - `INS-260330-247C` Most government policies are iatrogenic — they create more harm than good — and their true cost is hidden by currency expansion rather than transparent taxation.
 - `INS-260325-793A` The Bronze Age collapse resulted from drought, migration, earthquakes, and trade disruption compounding — not any single cause.
@@ -30,10 +34,6 @@
 - `INS-260325-3C17` After the Bronze Age collapse, it took 400 years to rebuild comparable Mediterranean trade networks.
 - `INS-260325-6AD5` The Sea Peoples were blamed for the Bronze Age collapse but were likely symptoms and refugees, not the root cause.
 - `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
-- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
-- `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
-- `INS-260403-2DC4` Plants rationally invest in workaround enzymes for RuBisCo's failures rather than replacing the enzyme itself.
-- `INS-260404-6C8F` A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
 - `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
 - `INS-260330-4329` Linearity means you can analyze complex signals by analyzing their components separately — the results simply add up.
 - `INS-260329-7510` Related rates problems show that when one quantity changes, every connected quantity changes too, and calculus lets you compute exactly how fast.
@@ -93,15 +93,15 @@
 - `INS-260404-C8FA` BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
 - `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-BB23` Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
+- `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
+- `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
+- `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
+- `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260330-3AF7` DNA polymerase proofreads as it builds, achieving a 1-in-10-billion error rate — orders of magnitude better than any separate quality check could achieve at that scale.
 - `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260329-FCE6` Automate money flowing toward investments and add friction to every spending pathway.
 - `INS-260329-21C6` Hormozi applies business principles — friction reduction, single-metric optimization, and systemization — to nutrition, producing a sustainable high-protein diet that requires zero willpower or cooking skill.
 - `INS-260322-F6C3` Like zoo animals that develop diseases their wild counterparts never get, humans in modern environments develop chronic disease because the environment is structurally unhealthy — the solution is fixing the environment, not demanding individual discipline.
-- `INS-260330-40DA` Agriculture made individuals less healthy and overworked compared to foraging, yet it dominated because surplus calories enabled specialization cascades.
-- `INS-260323-D4EC` Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
-- `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
-- `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260330-C0D1` If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
 - `INS-260330-2E41` Chloroplasts charge thylakoids like batteries by pumping protons to create a concentration gradient, then release energy through a single enzyme (ATP synthase) — the same pattern underlies effective marketplace and platform strategies.

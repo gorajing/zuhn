@@ -2,20 +2,20 @@
 
 - `INS-260323-0B52` The hidden multiplier in AI building: have AI document everything it does so every project creates a reusable blueprint for the next one.
 - `INS-260325-E652` TurboQuant improves LLM inference, vector search recall, and embedding storage simultaneously because all three are bottlenecked by the same high-dimensional vector operations.
-- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
-- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
-- `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
 - `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
 - `INS-260325-039E` High-cost portfolios generate roughly 20% less terminal value than low-cost portfolios over 25-30 years, all else equal.
 - `INS-260325-1407` A high-cost portfolio generates 20% less value over 25-30 years than a low-cost one, and the Vanguard effect has saved investors roughly $2 trillion in fees since the 1970s.
 - `INS-260330-44C7` Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
+- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
+- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
+- `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
+- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
+- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
+- `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
-- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
-- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
-- `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260330-E794` Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
 - `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
@@ -34,6 +34,10 @@
 - `INS-260402-B2A2` Tech industry phases are additive layers that compound value, not distinct eras that replace predecessors.
 - `INS-260329-D5FF` Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
 - `INS-260329-0F10` The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat.
+- `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
+- `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
+- `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
+- `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
 - `INS-260329-7691` Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
 - `INS-260330-C499` The early phase of exponential growth feels unrewarding because humans intuitively underestimate how steep the curve becomes.
@@ -68,26 +72,22 @@
 - `INS-260402-3F92` A company growing 1% weekly reaches 1.7x/year; at 5% weekly it reaches 12.6x/year — human intuition dramatically underestimates this divergence.
 - `INS-260403-07D2` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
 - `INS-260403-458A` Time to $1B revenue compressed from 45 years (IBM) to 7-8 years for modern companies, creating a double effect on founder wealth.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
 - `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
-- `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap.
-- `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
-- `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
-- `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260403-1904` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.
 - `INS-260403-2DB2` Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - `INS-260327-7BFA` In your 20s with fewer responsibilities, work 7am to 7pm then prospect until 10pm -- the repetitions compound into skills and relationships that let your 40-year-old self have a family, coach kids' sports, and still earn top-tier income.
-- `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
-- `INS-260325-B868` Progress begets progress through feedback loops where inventions like computers and steam engines amplify the capacity to invent further.
 - `INS-260329-33D4` Output = Volume × Leverage means improving leverage multiplies all existing effort rather than adding incrementally.
 - `INS-260329-4223` Moving up the leverage hierarchy from labor to code/content multiplies output per unit of input exponentially.
 - `INS-260330-8C52` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260323-F310` LIGO now reaches 1,000x more space than its original design through continuous incremental sensitivity improvements.
 - `INS-260329-9DF3` Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
 - `INS-260329-9101` A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
+- `INS-260325-0F4F` Progress begets progress: fundamental technologies like computing and steam power feed back into the innovation process itself, creating accelerating returns.
+- `INS-260325-B868` Progress begets progress through feedback loops where inventions like computers and steam engines amplify the capacity to invent further.
 - `INS-260330-B3DD` Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260403-92CC` Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.

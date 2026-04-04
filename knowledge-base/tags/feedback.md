@@ -16,5 +16,5 @@
 - `INS-260325-9F12` Gawande tracked his surgical complications for a decade, saw steady improvement, then hit a plateau at year 10-12 — a former professor observing him found 20 minutes of feedback after a single operation he thought went perfectly.
 - `INS-260326-8217` When someone reacts with anger to your feedback, shift from defensive mode to curiosity — ask why they're upset instead of matching their energy.
 - `INS-260404-226F` Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
-- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
 - `INS-260323-40AA` Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
+- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.

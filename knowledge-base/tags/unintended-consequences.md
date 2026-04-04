@@ -9,9 +9,9 @@
 - `INS-260330-E082` Russia's economy absorbed Western sanctions while the sanctions themselves accelerated the global move away from US dollar hegemony.
 - `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
 - `INS-260330-E786` Oxygen was a toxic waste byproduct of early photosynthesis that became the foundation of all animal life — the 'most useful useless byproduct in history.'
-- `INS-260323-AEA5` Alfred Nobel made nitroglycerin safe to handle with dynamite, but that very safety made it accessible to terrorists -- a paradox that applies to all powerful tools including AI.
 - `INS-260403-202E` Microsoft created XMLHttpRequest for Outlook, inadvertently enabling the Ajax revolution that killed the desktop era.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
+- `INS-260323-AEA5` Alfred Nobel made nitroglycerin safe to handle with dynamite, but that very safety made it accessible to terrorists -- a paradox that applies to all powerful tools including AI.
 - `INS-260403-B4F1` All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
 - `INS-260330-C134` Plants' own success at producing oxygen through photosynthesis poisoned their core enzyme RuBisCo, which evolved for a low-oxygen world — their greatest output became their biggest problem.
 - `INS-260330-656A` Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.

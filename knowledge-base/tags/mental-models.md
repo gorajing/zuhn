@@ -1,7 +1,7 @@
 # Tag: mental-models
 
-- `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
+- `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
 - `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260322-83D4` The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260330-5A2A` All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
@@ -34,7 +34,12 @@
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260403-F7DE` Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
-- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
+- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
+- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
+- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
+- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
+- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
+- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260329-8067` Inversion thinking leverages evolutionary threat-detection to make behavior change stick.
@@ -47,18 +52,13 @@
 - `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
+- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
 - `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
 - `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
-- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
-- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
-- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
-- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
-- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
-- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-91DD` CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
@@ -200,6 +200,7 @@
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
+- `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
 - `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260329-3FA6` Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
@@ -211,7 +212,6 @@
 - `INS-260329-E2D0` Replace the passive/active income binary with a single metric: your effective dollars per hour across all activities.
 - `INS-260329-D1B8` Entrepreneurs repeat the cycle of uninformed optimism → informed pessimism → crisis of meaning → restart, never reaching informed optimism and achievement.
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
-- `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 - `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260403-3A49` Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.

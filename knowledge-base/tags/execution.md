@@ -1,13 +1,14 @@
 # Tag: execution
 
-- `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
-- `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.
 - `INS-260403-97B4` When inspiration strikes, act on it immediately because it won't survive being shelved.
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
+- `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
+- `INS-260327-E9FC` Berthier as Chief of Staff was arguably more important to Napoleon's success than any fighting marshal — he translated Napoleon's often vague strategic vision into precise orders that thousands could execute.
 - `INS-260404-9213` Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - `INS-260329-CA16` Break abstract success traits into the smallest observable behaviors until instructions are followable at your current skill level.
 - `INS-260323-0B5E` Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
+- `INS-260403-2074` If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260329-EB4B` Easy wins feel productive but leave the highest-leverage problem unsolved day after day.
 - `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
@@ -48,7 +49,6 @@
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
-- `INS-260403-2074` If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
 - `INS-260403-F8AE` Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.

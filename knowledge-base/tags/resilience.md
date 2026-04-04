@@ -58,6 +58,9 @@
 - `INS-260320-E044` Shelter early ideas from smart skeptics — conventional wisdom about what won't work is based on different products. Think of your idea as a seed that needs protection to sprout.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260329-2865` After a brand misstep, overwhelm the negative pairing with high volume of positive pairings rather than trying to erase or apologize for it.
+- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
+- `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
+- `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260323-9C11` Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260323-8B22` Altman's default-trust philosophy served him well until the board coup — the danger is overcorrecting from trusting to paranoid.
 - `INS-260325-0C4A` Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
@@ -79,9 +82,6 @@
 - `INS-260329-BBBE` After losing everything, Hormozi made $100K the next month — proving the skills, not the business, were the real asset he'd built.
 - `INS-260329-E0DE` Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
 - `INS-260403-12FD` Real users create a sense of obligation that keeps founders working through the emotional valleys that kill most startups.
-- `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.
-- `INS-260403-A0F7` Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
-- `INS-260403-E748` Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260403-1C09` Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260323-B497` Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.
 - `INS-260328-41C9` Interviewers use rejection questions to filter for coachability and growth mindset — the answer reveals whether a candidate will burn out or improve under pressure.

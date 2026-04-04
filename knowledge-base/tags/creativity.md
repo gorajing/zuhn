@@ -50,6 +50,7 @@
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260404-6A15` Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
+- `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
 - `INS-260323-4574` Kreischer's comedy lesson: the first spontaneous telling of a joke is almost always the best version — subsequent 'improvements' add complexity that destroys the simplicity that made it work.
 - `INS-260404-924C` Founders confuse their inability to think of alternative names with the belief that no better alternatives exist.
@@ -61,9 +62,8 @@
 - `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-7F3E` True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.
 - `INS-260403-8779` Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
-- `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - `INS-260402-EE6E` The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
 - `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
 - `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
-- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
 - `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
+- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
