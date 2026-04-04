@@ -47,11 +47,11 @@ stance: >-
   Breaking a large energy transformation into discrete carrier steps is more
   robust than attempting direct conversion
 related:
-  - INS-260330-07B1
   - INS-260330-1298
   - INS-260330-5670
   - INS-260330-2C71
   - INS-260330-498B
+  - INS-260404-F908
   - INS-260403-AC7A
   - INS-260404-1B29
   - INS-260403-2DC0

@@ -1,17 +1,17 @@
 # Tag: mental-health
 
+- `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260325-600C` Chronic anxiety is often B1 deficiency impacting the autonomic nervous system — not a psychological disorder requiring SSRIs.
 - `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
-- `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260330-F6DB` Facebook's own internal research found Instagram is 'toxic to a sizable percent of users' and worsens body image for 1 in 3 teen girls — a structural consequence of curated self-presentation at scale.
 - `INS-260330-FDA9` Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target.
 - `INS-260330-8646` Dr. Johnson frames all psychiatric disorders as variations of narrowed mental repertoire, unifying depression, anxiety, OCD, and addiction under one mechanistic umbrella.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
-- `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260325-6534` People who believe being alone is positive feel good during alone time; those who believe it is negative feel lonelier — making belief the key variable, not the aloneness itself.
 - `INS-260325-765F` Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
 - `INS-260328-3FCE` The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
 - `INS-260325-0A49` The Dark Playground is where procrastinators spend time on leisure activities that bring no real enjoyment because they're unearned.
+- `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
 - `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-D2CE` Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.

@@ -6,3 +6,4 @@
 - `INS-260329-72E0` Specific exception catches force explicit failure mode enumeration, producing more robust error handling than generic catch-alls.
 - `INS-260404-1CA4` The electron transport chain deliberately loses energy at each step to capture it in usable forms — a design pattern favoring reliability over theoretical efficiency.
 - `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
+- `INS-260404-F908` Photosynthesis converts sunlight to glucose through a long chain of intermediate energy carriers (ATP, NADPH) rather than directly, losing energy at each step but gaining reliability.

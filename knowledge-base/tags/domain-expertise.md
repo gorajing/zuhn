@@ -12,10 +12,10 @@
 - `INS-260330-7CC0` Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
 - `INS-260330-5036` Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260327-BE1F` Alpha Chip won over skeptical chip designers by showing data weekly for years, not through one-time demos or claims.
+- `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
 - `INS-260330-2B42` Larry Page became Larry Page not through startup education but because genuine curiosity made him an expert on search — startups are merely an ulterior motive for curiosity.
-- `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260403-268F` Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260402-0F36` The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics.
-- `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.
 - `INS-260328-9C16` Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
+- `INS-260327-FA62` Knowing what 'good' looks like in a profession is more important than ML expertise when building AI products for that profession.

@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 254 insights
+> 255 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -90,6 +90,7 @@
 - `INS-260330-B57C` [high] Knowing how a bike works doesn't help you ride one with reversed steering — knowledge and understanding are fundamentally different.
 - `INS-260402-4BC7` [high] Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260403-449D` [high] Programs where participants work on real projects during training transfer skills more effectively than lecture-based alternatives.
+- `INS-260404-BEF7` [high] Photosystem II was discovered before Photosystem I but functions first in the chain, creating unnecessary confusion for every student who encounters it.
 - `INS-260330-BEDC` [high] The Basel proof doubles circles repeatedly while preserving brightness, and the infinite limit of evenly-spaced lighthouses on a line yields the series sum.
 - `INS-260330-2EC4` [high] Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-70A8` [high] David Marr's three levels — computational theory (what/why), algorithm (how), and hardware (implementation) — remain essential for understanding any complex system, from brains to software.

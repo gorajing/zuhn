@@ -54,14 +54,14 @@ stance: >-
 related:
   - INS-260330-43CA
   - INS-260330-8B93
-  - INS-260330-6ECA
   - INS-260403-F088
   - INS-260403-3946
   - INS-260403-637C
   - INS-260403-C436
   - INS-260403-EDA2
+  - INS-260404-3B9D
+  - INS-260330-6ECA
   - INS-260403-262F
-  - INS-260404-CC7C
 ---
 RuBisCo evolved when Earth had abundant CO2 and almost no oxygen. It was never good at its job—it confuses O2 for CO2 roughly half the time, producing toxic byproducts. But it was better than no enzyme at all, so plants went all-in on the RuBisCo strategy. By the time oxygen levels rose and exposed its flaw, plants had built their entire metabolic architecture around it. Rather than evolving a replacement, they evolved workarounds—additional enzymes to break down the toxic phosphoglycolate into usable compounds.
 

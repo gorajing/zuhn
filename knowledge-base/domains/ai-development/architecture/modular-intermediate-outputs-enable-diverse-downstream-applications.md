@@ -56,12 +56,11 @@ stance: >-
   optimizing for a single output
 related:
   - INS-260330-2BF4
+  - INS-260404-F908
   - INS-260403-5C74
   - INS-260404-FF39
   - INS-260330-41F6
   - INS-260404-EFA8
-  - INS-260404-F8E6
-  - INS-260403-2DC0
   - INS-260404-52FC
 evidence:
   - id: INS-260325-0892

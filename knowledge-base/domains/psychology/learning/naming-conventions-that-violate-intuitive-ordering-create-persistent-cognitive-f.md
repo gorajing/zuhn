@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260330-2BF4
   - INS-260403-5215
+  - INS-260404-BEF7
   - INS-260404-FDEA
   - INS-260404-78EB
-  - INS-260330-0143
 ---
 In photosynthesis, the first protein complex in the electron transport chain is called Photosystem II, while the second is Photosystem I—named in order of discovery rather than function. The video explicitly acknowledges this causes confusion, and even offers the alternative name 'plastoquinone oxidoreductase' as a joke about how unhelpful naming can be.
 

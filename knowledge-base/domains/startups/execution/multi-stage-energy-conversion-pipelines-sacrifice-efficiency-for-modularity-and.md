@@ -53,11 +53,11 @@ stance: >-
   intermediate energy carriers is more robust than direct conversion, even at
   significant efficiency cost
 related:
-  - INS-260330-2C71
   - INS-260404-1B29
+  - INS-260404-F908
+  - INS-260330-2C71
   - INS-260403-2DC0
   - INS-260403-6F40
-  - INS-260330-1084
 evidence:
   - id: INS-260330-BC56
     type: TRANSFERS_TO

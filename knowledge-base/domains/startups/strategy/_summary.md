@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 228 insights
+> 230 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -28,6 +28,7 @@
 - `INS-260323-BD2B` [high] JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.
 - `INS-260404-15E4` [high] Oxygen was a waste product of photosynthesis that became the foundation of all animal life — the ultimate accidental platform.
 - `INS-260330-90B6` [high] Oxygen — the molecule enabling all animal life — is literally a waste product of photosynthesis, not its purpose.
+- `INS-260404-E60B` [high] Oxygen was a toxic waste product of early photosynthesis that became the foundation of all complex animal life.
 - `INS-260330-C607` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260330-7462` [high] Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
 - `INS-260403-EEDF` [high] Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
@@ -117,6 +118,7 @@
 - `INS-260330-4983` [high] RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
 - `INS-260403-335F` [high] RuBisCo shows how a 'good enough' early bet can permanently lock a system into managing costly workarounds rather than redesigning.
 - `INS-260403-9B3A` [high] RuBisCo's evolutionary story shows how early strategic commitments become permanent even when they stop working well.
+- `INS-260404-3B9D` [high] RuBisCo is a terrible enzyme that won by being first and scaling to 40 billion tons rather than being replaced by something better.
 - `INS-260329-CB6D` [high] The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
 - `INS-260324-224B` [high] Axon was a struggling single-product startup for a decade — then police accountability protests created massive bodycam demand, and the company snowballed tailwinds into a market-defining position.
 - `INS-260330-0027` [high] PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.

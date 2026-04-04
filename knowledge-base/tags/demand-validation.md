@@ -8,6 +8,7 @@
 - `INS-260404-AC2B` Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-035A` Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
+- `INS-260404-2FC0` Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
 - `INS-260403-F4F6` Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.
 - `INS-260403-DC32` Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260403-C2CF` Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.

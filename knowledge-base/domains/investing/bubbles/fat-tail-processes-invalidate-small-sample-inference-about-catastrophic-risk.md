@@ -50,11 +50,11 @@ stance: >-
   catastrophe in recent history provides almost zero evidence that the system is
   safe.
 related:
+  - INS-260404-3A71
   - PRI-260403-50EF
   - PRI-260325-F21B
   - INS-260323-8544
   - PRI-260325-D34E
-  - INS-260323-B849
 evidence:
   - id: INS-260323-B849
     type: REFINES

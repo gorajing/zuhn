@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3797 actionable insights
+Generated on 2026-04-04 | 3802 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1069,6 +1069,7 @@ Generated on 2026-04-04 | 3797 actionable insights
 - [INS-260404-D6EE] Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
 - [INS-260404-92AC] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
 - [INS-260404-5BBF] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
+- [INS-260404-F965] Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1671,6 +1672,7 @@ Generated on 2026-04-04 | 3797 actionable insights
 - [INS-260404-C887] Show don't tell applies to confidence — saying 'we're passionate' gets you written off as a bullshitter, while demonstrating mastery creates belief.
 - [INS-260404-D242] Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
 - [INS-260404-C1FF] Show confidence through behavior — never explicitly claim passion or quality, which triggers audiences to write you off.
+- [INS-260404-E86B] Under information asymmetry, audiences substitute the presenter's confidence for independent technical evaluation.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2866,6 +2868,9 @@ Generated on 2026-04-04 | 3797 actionable insights
 - [INS-260404-3214] Mention business model to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - [INS-260404-9830] Approach your pitch like successive approximation — start grippingly narrow, then flesh out.
 - [INS-260404-EE85] Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
+- [INS-260404-589C] At the early stage, business model details are your worst material — mention you've thought about it, then move on to the problem and product.
+- [INS-260404-3A71] Narrow descriptions that risk seeming limiting actually convey more information than expansive ones that try to capture all possibilities.
+- [INS-260404-2FC0] Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

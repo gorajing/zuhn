@@ -51,7 +51,6 @@ stance: >-
   original flaw
 related:
   - INS-260330-8BF6
-  - INS-260330-7B11
   - INS-260403-9442
   - INS-260403-532D
   - INS-260404-EC33

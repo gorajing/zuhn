@@ -14,6 +14,7 @@
 - `INS-260330-0C1D` Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.
 - `INS-260330-7994` Psychology's strength as a science comes from maintaining multiple competing schools of thought rather than converging on a single methodology.
 - `INS-260330-2838` Islam's hadith tradition explicitly grades source reliability — some sayings are well-attested, others are essentially gossip — and the '72 virgins' claim falls in the poorly-sourced category that most Muslims reject.
+- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-FBE1` Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses.
 - `INS-260330-184C` Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260330-1B5E` America is the only country whose citizens generate conspiracy theories about their own greatest achievements, like the moon landing — even Soviet citizens under total propaganda didn't doubt Gagarin.
@@ -32,7 +33,6 @@
 - `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.'
 - `INS-260330-7E61` Since humans inevitably make mistakes, the core moral imperative is preserving mechanisms that allow errors to be detected and corrected — destroying these mechanisms is the deepest immorality.
 - `INS-260330-24DD` The same psychedelic experience would be interpreted as proof of the Holy Spirit by a Christian, but the experience itself is pre-doctrinal and carries no inherent theological content.
-- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-FB5A` Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-7CFB` Good explanations are defined by being criticizable and hard to vary, with scientific testability being one form of criticizability rather than the fundamental criterion.
@@ -49,7 +49,6 @@
 - `INS-260330-B33F` Susan Haack's crossword model says knowledge gains strength from answers interlocking and reinforcing each other, not from building on a single foundation.
 - `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
 - `INS-260330-6844` Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
-- `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity.
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
 - `INS-260325-EB9E` Testing 2^68 numbers for Collatz feels convincing but is mathematically negligible — the Polya conjecture survived far longer before its counterexample appeared at 10^361.
@@ -65,5 +64,6 @@
 - `INS-260329-C2E5` The IVT proves that a continuous function must cross every intermediate value between f(a) and f(b), guaranteeing existence of solutions without computing them.
 - `INS-260323-518A` The giant impact hypothesis became the leading Moon origin theory not because it was proven, but because it was 'the least bad' option — a pattern where scientific and business consensus defaults to the best available story even when it has known fatal flaws.
 - `INS-260323-DA13` Just as scientists never refuse to run an experiment because the result might be unpleasant, the marketplace of ideas must entertain all hypotheses — including hateful ones.
+- `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260323-86FA` Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
 - `INS-260323-8966` The Shapiro-Destiny debate demonstrates that two intelligent people with different foundational priors will interpret identical data points in opposite directions — shared evidence does not produce convergence.

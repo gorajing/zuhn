@@ -51,9 +51,9 @@ related:
   - INS-260322-1A20
   - INS-260403-F1C6
   - INS-260403-37D9
+  - INS-260404-E86B
   - INS-260325-E84D
   - INS-260328-E410
-  - INS-260329-F04B
 ---
 Graham identifies a specific dynamic at play in investor presentations: the audience is mostly non-technical, has limited time, and is evaluating highly technical products. In this situation, they can't independently verify claims, so they rely heavily on the founder's own confidence as a proxy for quality. The key is to show confidence through behavior — enthusiasm, conviction, comfort — not by stating it. Saying 'we're passionate' or 'our product is great' gets you written off as a bullshitter.
 

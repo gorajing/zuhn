@@ -1,9 +1,10 @@
 # Topic: communication
 
-> 35 insights
+> 36 insights
 
 - `INS-260404-5BBF` [high] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - `INS-260404-92AC` [high] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
+- `INS-260404-F965` [high] Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - `INS-260403-37D9` [high] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.

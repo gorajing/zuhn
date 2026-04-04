@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 252 insights
+> 256 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -48,6 +48,7 @@
 - `INS-260404-D4A0` [high] Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
 - `INS-260403-2E90` [high] Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` [high] A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
+- `INS-260404-589C` [high] At the early stage, business model details are your worst material — mention you've thought about it, then move on to the problem and product.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` [high] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
@@ -122,6 +123,7 @@
 - `INS-260403-06E0` [high] Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` [high] Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260403-37E2` [high] Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
+- `INS-260404-3A71` [high] Narrow descriptions that risk seeming limiting actually convey more information than expansive ones that try to capture all possibilities.
 - `INS-260403-7964` [high] Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-9679` [high] Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-B7B7` [high] Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
@@ -218,6 +220,7 @@
 - `INS-260403-8F31` [high] Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1949` [high] Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260403-1444` [high] Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
+- `INS-260404-2FC0` [high] Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
 - `INS-260403-1A73` [high] Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
 - `INS-260404-EE85` [high] Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 - `INS-260403-A65D` [high] Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
@@ -238,6 +241,7 @@
 - `INS-260403-147C` [medium] More potential winners per year amplifies the gap between investors with genuine selection skill and those who follow consensus.
 - `INS-260330-7346` [medium] A full-time internal fundraiser hired post-Series B can double your next-round valuation compared to using investment bankers, at literally half the dilution.
 - `INS-260330-404B` [medium] A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
+- `INS-260404-F908` [medium] Photosynthesis converts sunlight to glucose through a long chain of intermediate energy carriers (ATP, NADPH) rather than directly, losing energy at each step but gaining reliability.
 - `INS-260403-C0D4` [medium] Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260330-1002` [medium] Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260403-37F4` [medium] Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.

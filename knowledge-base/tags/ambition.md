@@ -1,9 +1,9 @@
 # Tag: ambition
 
 - `INS-260327-3918` Kennedy's deadline — 'land a man on the Moon before the decade is out' — mobilized $25B, 400,000 workers, and unprecedented innovation because the specificity and audacity of the goal demanded maximum effort.
-- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
+- `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.
 - `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - `INS-260329-783C` Ambitious people who can't stay consistent are misdiagnosing a frustration tolerance problem as a motivation problem.
 - `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
@@ -16,12 +16,12 @@
 - `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260402-7E2A` Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - `INS-260402-529F` Starting small and growing incrementally lets you build things too ambitious to have planned upfront.
-- `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
-- `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260322-AF17` Founders resist comping themselves to public companies because it feels like comparing yourself to astronauts — but the winners (DoorDash, Facebook) were always benchmarking against the biggest players, not other startups.
 - `INS-260403-C9C2` Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
 - `INS-260321-C0A4` Your probability of success directly correlates with whether your closest friends care about and push you toward what you want to achieve.
 - `INS-260403-886D` Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
+- `INS-260328-FF2C` The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
+- `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260403-4942` Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
 - `INS-260327-4E34` Reaching unicorn status is just 0-to-1—the real value creation is in the 1-to-10 and 10-to-100 phases.
 - `INS-260403-0530` New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.

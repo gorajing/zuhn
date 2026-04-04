@@ -25,4 +25,5 @@
 - `INS-260403-FDD8` Oxygen — the molecule enabling all animal life — is a waste product of photosynthesis, suggesting founders should monitor their byproducts for hidden value.
 - `INS-260404-15E4` Oxygen was a waste product of photosynthesis that became the foundation of all animal life — the ultimate accidental platform.
 - `INS-260330-90B6` Oxygen — the molecule enabling all animal life — is literally a waste product of photosynthesis, not its purpose.
+- `INS-260404-E60B` Oxygen was a toxic waste product of early photosynthesis that became the foundation of all complex animal life.
 - `INS-260330-C607` Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.

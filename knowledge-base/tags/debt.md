@@ -8,5 +8,5 @@
 - `INS-260321-CBD2` Unlike the dot-com era, AI capex is financed by the most profitable companies in history and there are 'no dark GPUs' (every deployed GPU gets fully utilized immediately), but private credit entering the data center buildout and Oracle's massive cash-flow-negative bet are early warning signals.
 - `INS-260330-4150` Great powers that spend more servicing debt than funding defense consistently lose their dominant position within a generation.
 - `INS-260329-A231` The debt snowball method wins not because it saves the most interest, but because quick wins create psychological momentum that prevents abandonment.
-- `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
 - `INS-260323-53FF` People who score high in financial avoidance save less, carry more high-interest debt, and have higher financial stress — saying 'I'm bad with numbers' is ego protection, not truth.
+- `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
