@@ -11,6 +11,7 @@ Generated on 2026-04-04 | 2421 sources
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
 | Python for Everybody - Full University Python Course | youtube | 30 | 2026-03-29 |
+| February 2025 Startups Raising Capital | blog | 28 | 2026-03-30 |
 | C# Tutorial - Full Course for Beginners | youtube | 25 | 2026-03-29 |
 | Exponential growth and epidemics | youtube | 25 | 2026-03-30 |
 | Harvard CS50’s Introduction to Programming with Python – Full University Course | youtube | 25 | 2026-03-29 |
@@ -20,7 +21,6 @@ Generated on 2026-04-04 | 2421 sources
 | Lecture 5 - Competition is for Losers (Peter Thiel) | youtube | 25 | 2026-03-31 |
 | SQL Tutorial - Full Database Course for Beginners | youtube | 25 | 2026-03-29 |
 | Cross-domain synthesis — Phase 20 bridging insights | paste | 24 | 2026-03-27 |
-| February 2025 Startups Raising Capital | blog | 24 | 2026-03-30 |
 | Lecture 18 - Legal and Accounting Basics for Startups (Kirsty Nathoo, Carolynn Levy) | youtube | 24 | 2026-03-31 |
 | Is Earth Actually Flat? | youtube | 23 | 2026-03-30 |
 | Lecture 6 - Growth (Alex Schultz) | youtube | 21 | 2026-03-31 |

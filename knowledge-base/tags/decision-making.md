@@ -1,16 +1,14 @@
 # Tag: decision-making
 
-- `INS-260323-1452` When executives mandate 'more AI everywhere,' it often signals abdication of decision-making rather than strategic vision.
 - `INS-260325-05EC` Prof Kuang Xu distinguishes deep AI (learns from decisions, creates feedback loops) from shallow AI (automates existing tasks) — deep wins long-term.
 - `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
+- `INS-260323-1452` When executives mandate 'more AI everywhere,' it often signals abdication of decision-making rather than strategic vision.
 - `INS-260320-DDD9` In a world where AI can generate anything, "having basic critical thinking skills may be the most important thing to success."
 - `INS-260321-99C0` Share every major decision with AI daily, then monthly ask 'what was my biggest mistake in the past 6 months?' — accumulated context makes AI an increasingly powerful strategic advisor.
 - `INS-260325-3EF4` Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
 - `INS-260321-167A` Finance has three jobs: explain what happened (the metric), why it happened (the business decision), and what to do next (the action with timeline). Most teams nail the first and struggle with the second.
 - `INS-260329-5094` Spreadsheet decision matrices force you to name your criteria and weights before evaluating options, which counteracts gut-feel bias.
 - `INS-260329-FEA6` Spreadsheet-based weighted decision matrices force explicit priority ranking that reveals preferences hidden from intuitive reasoning.
-- `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
-- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260330-8045` Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
 - `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
 - `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
@@ -22,7 +20,6 @@
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260330-A151` Destiny's two mental safeguards — argue both sides convincingly, and name what would change your mind — are more effective than claiming objectivity.
 - `INS-260329-BEFB` Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-D432` Judge leaders exclusively by measurable population outcomes like life expectancy and prosperity rather than moral rhetoric or personality.
@@ -37,6 +34,9 @@
 - `INS-260330-E4FA` The 80/20 rule is a reliable heuristic because power-law distributions emerge independently across nearly all complex systems.
 - `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
+- `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products.
+- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260325-4A01` Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260325-95EB` Cherry-picking from Stoicism, Epicureanism, and Buddhism feels open-minded but produces a framework that contradicts itself at every genuine decision point.
@@ -74,10 +74,6 @@
 - `INS-260329-0B76` Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260327-8F76` When two partners with strong opinions disagree, a third co-founder provides the tiebreaker perspective that prevents gridlock.
 - `INS-260402-7DCC` 'Industry best practice' in technology shields managers from blame but guarantees mediocre results that bolder competitors will exploit.
-- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
-- `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
-- `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
-- `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth.
 - `INS-260327-3C19` As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
 - `INS-260329-4870` A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
@@ -85,6 +81,10 @@
 - `INS-260329-59A5` For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
 - `INS-260329-B2BE` Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.
 - `INS-260327-DCA9` Weinberg says almost every problem at Harvey traces back to having six DRIs on something instead of one — shared ownership is no ownership, just like asking two friends to water your plant guarantees it dies.
+- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
+- `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output.
+- `INS-260325-788E` The word 'should' signals a cognitive script is running; replacing it with 'might' reopens genuine deliberation and possibility space.
+- `INS-260323-95FE` Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260328-70D3` The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-7C3A` Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260325-502D` Conflict between high performers with the same goal but different approaches is a feature, not a bug — organizations that seamlessly resolve conflict are winning teams.
@@ -98,8 +98,8 @@
 - `INS-260329-AAE3` You can be right 99% of the time that individual attempts will fail, but being 100% wrong on the long-term outcome because one of them would have worked if you kept going.
 - `INS-260327-8254` Horowitz identifies two fatal founder patterns: over-deferring to smart hires because no one else has the CEO's full context, and hesitating on hard decisions until decision debt paralyzes the company.
 - `INS-260328-0B42` Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
-- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
+- `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
 - `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
 - `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260323-4D5E` People decide based on what they care about first, then construct rational justifications — which makes reason itself an emotion-based process.

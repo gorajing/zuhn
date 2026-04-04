@@ -36,6 +36,6 @@
 - `INS-260330-FB5A` Popperian error correction (conjecture + refutation) is superior to Bayesian confidence-building because confidence in a theory peaks right before falsification.
 - `INS-260330-2C97` Testability is necessary but insufficient — good explanations are ones whose internal details are load-bearing and cannot be swapped out arbitrarily.
 - `INS-260330-C4F1` Using coding to teach critical thinking puts the cart before the horse—teach the target skill directly instead of through a proxy.
-- `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260330-03A9` When everyone believes all institutions are power conspiracies, the only institution that can survive is dictatorship, which explicitly runs on power.
 - `INS-260323-8F41` Geometries allowed by equations don't automatically correspond to physical reality -- you must also check whether the required matter and energy actually exist.
+- `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
