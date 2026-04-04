@@ -7,6 +7,7 @@
 - `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260403-62B2` BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
+- `INS-260403-4CD0` Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
 - `INS-260322-58B7` Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
 - `INS-260329-F7F4` When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
@@ -17,6 +18,7 @@
 - `INS-260330-5D4F` Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260403-0803` Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
+- `INS-260403-B32D` Nearly all 40 participating organizations admitted large potential for improvement in scaling Lean Startup testing, with most still relatively inexperienced.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260323-E15F` When every founder can build fast with AI tools, the bottleneck shifts permanently from execution speed to insight discovery speed.
 - `INS-260403-45AA` Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.

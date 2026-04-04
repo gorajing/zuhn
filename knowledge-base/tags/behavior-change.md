@@ -6,6 +6,7 @@
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
+- `INS-260403-9861` Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
 - `INS-260329-A90C` Inversion — defining what to avoid — is more actionable than defining what to pursue because threat-detection is neurologically stronger than reward-seeking.
 - `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
 - `INS-260329-28A6` You don't need to 'become' a certain person before acting — identity is just the trailing indicator of repeated behavior.

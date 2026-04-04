@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 50 insights
+> 53 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
@@ -20,7 +20,9 @@
 - `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260403-F148` [high] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
+- `INS-260403-499B` [high] Across 40 large organizations, intrapreneurship structures scored lowest — dedicated processes and incentives for internal ventures are exceptionally hard to build.
 - `INS-260403-BDCC` [high] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
+- `INS-260403-4CD0` [high] Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
 - `INS-260403-8D2C` [high] New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260403-2BEE` [high] Growth experiments need independent spaces with dedicated resources to avoid being absorbed by the core business's gravitational pull.
 - `INS-260403-E4AD` [high] The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
@@ -48,6 +50,7 @@
 - `INS-260403-ACA8` [medium] Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-343D` [medium] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-0030` [medium] Cohort networks from innovation programs often outvalue the curriculum by providing ongoing diverse perspectives for context-dependent innovation challenges.
+- `INS-260403-65C3` [medium] When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
 - `INS-260403-63E6` [medium] When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-5BAD` [medium] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.

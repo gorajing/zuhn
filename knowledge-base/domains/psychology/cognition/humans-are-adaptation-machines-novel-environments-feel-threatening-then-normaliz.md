@@ -52,7 +52,6 @@ stance: >-
   default
 related:
   - INS-260326-8E6D
-  - INS-260327-1631
   - INS-260327-375B
   - INS-260330-8C54
   - INS-260330-8718
@@ -60,6 +59,7 @@ related:
   - INS-260325-3754
   - INS-260325-5C03
   - INS-260325-75C5
+  - INS-260403-2BAD
 evidence:
   - id: INS-260327-1631
     type: TRANSFERS_TO

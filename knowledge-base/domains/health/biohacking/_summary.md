@@ -1,6 +1,6 @@
 # Topic: biohacking
 
-> 125 insights
+> 126 insights
 
 - `INS-260330-B173` [high] Running up stairs for 20 seconds, 2-3 times daily across a workday, significantly improves VO2 max and blood glucose control.
 - `INS-260326-BF32` [high] Evolution optimized for stability under disruption, not peak performance — pushing one parameter to its optimum can crash the stability system that keeps everything else running.
@@ -99,6 +99,7 @@
 - `INS-260327-027E` [medium] Middle-of-night waking responds to blood sugar stabilization and specific breathing techniques
 - `INS-260327-918A` [medium] Clinical studies show milk and orange juice are more hydrating than plain water; optimal daily hydration is 2.3L of fluid paired with 8-9g salt, consumed in the first 10 hours after waking.
 - `INS-260327-C150` [medium] Modern LED lighting damages health through invisible flicker and circadian-disrupting blue light spectra
+- `INS-260403-2BAD` [medium] Neurofeedback uses real-time brainwave monitoring with reward signals to train the brain toward calmer, more focused configurations.
 - `INS-260327-7099` [medium] Despite nicotine occurring naturally in the body as a neurotransmitter, exogenous nicotine via pouches raises blood pressure, increases heart rate, and is highly addictive.
 - `INS-260327-5107` [medium] Of celebrity biohacks only cold exposure and red light therapy have meaningful evidence while IV drips are largely unnecessary
 - `INS-260330-2C6A` [medium] The psychedelic therapy model concentrates risk into a single supervised session rather than distributing it across years of daily medication with cumulative side effects.

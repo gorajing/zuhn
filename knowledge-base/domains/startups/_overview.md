@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3035 insights across 34 topics
+> 3039 insights across 34 topics
 
 ## Topics
 
@@ -25,7 +25,7 @@
 | health-innovation | 13 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
 | hiring | 34 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 76 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| innovation | 50 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
+| innovation | 53 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
 | leadership | 166 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
 | market-entry | 35 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | mental-models | 5 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
@@ -39,4 +39,4 @@
 | scaling | 128 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | strategy | 184 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 47 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 117 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 118 | Pretty much 100% of startups that make something popular manage to make money from it. |

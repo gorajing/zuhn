@@ -2,3 +2,4 @@
 
 - `INS-260329-3FF4` Well-chaptered, manually transcribed long-form content produces far better AI-assisted knowledge extraction than unstructured equivalents.
 - `INS-260320-7914` Research logs and findings surface 'already solved' patterns, preventing teams and agents from reinventing solutions.
+- `INS-260403-65C3` When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.

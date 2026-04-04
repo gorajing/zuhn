@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 117 insights
+> 118 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -69,6 +69,7 @@
 - `INS-260403-0803` [high] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260403-D563` [high] RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
+- `INS-260403-B32D` [high] Nearly all 40 participating organizations admitted large potential for improvement in scaling Lean Startup testing, with most still relatively inexperienced.
 - `INS-260403-BF09` [high] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260329-78CB` [high] High-ticket with few customers is easier to execute than low-ticket at scale, especially when starting with no resources.
 - `INS-260329-180B` [high] Limit your first app to one core feature so you can ship fast and get real user feedback before building more.

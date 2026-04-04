@@ -52,7 +52,6 @@ related:
   - INS-260330-814E
   - INS-260325-8729
   - INS-260402-B817
-  - INS-260327-78DA
 stance: >-
   A Palestinian man who has endured violence and displacement says 'I love
   everybody, even the Jews they kill us'

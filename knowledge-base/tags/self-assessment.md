@@ -9,3 +9,4 @@
 - `INS-260330-D2CE` Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
 - `INS-260330-DE89` Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.
 - `INS-260330-156C` After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.
+- `INS-260403-65C3` When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.

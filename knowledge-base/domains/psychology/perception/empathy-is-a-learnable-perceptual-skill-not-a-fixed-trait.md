@@ -46,11 +46,11 @@ resolutions:
     experimentation rather than trying to force-fit neurotypical social
     patterns.
 related:
-  - INS-260325-FBA0
+  - INS-260403-7639
   - INS-260323-F853
   - INS-260323-46B2
   - INS-260330-D5DD
-  - PRI-260327-A7C5
+  - INS-260325-FBA0
   - INS-260327-9447
 stance: >-
   For neurodivergent people who bypassed the social self stage, empathy can be

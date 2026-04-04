@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3499 actionable insights
+Generated on 2026-04-04 | 3504 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1039,6 +1039,8 @@ Generated on 2026-04-04 | 3499 actionable insights
 - [INS-260403-9542] Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 - [INS-260403-F60A] Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - [INS-260403-3D61] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
+- [INS-260403-0949] Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
+- [INS-260403-2AF0] Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1744,6 +1746,7 @@ Generated on 2026-04-04 | 3499 actionable insights
 - [INS-260403-D99D] The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
 - [INS-260403-A7FD] When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
 - [INS-260403-CE62] Act on problems immediately but accept that results in complex systems take time to materialize.
+- [INS-260403-7475] Body-based interventions outperform medication and pure talk therapy for trauma because trauma is stored in survival circuitry, not narrative memory.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -2937,6 +2940,8 @@ Generated on 2026-04-04 | 3499 actionable insights
 - [INS-260403-268F] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - [INS-260403-F8A2] Innovation functions need CEO-level reporting to survive organizational inertia.
 - [INS-260403-5F44] Innovation should live in every job rather than be siloed into a dedicated department or role.
+- [INS-260403-4CD0] Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
+- [INS-260403-65C3] When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.

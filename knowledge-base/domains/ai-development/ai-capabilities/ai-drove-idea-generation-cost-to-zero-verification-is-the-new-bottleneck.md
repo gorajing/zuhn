@@ -40,10 +40,10 @@ resolutions:
     evaluation.
 related:
   - PRI-260321-14D8
+  - INS-260403-2AF0
   - INS-260323-1494
   - INS-260327-8358
   - INS-260323-0603
-  - PRI-260328-7A4D
 stance: >-
   AI made idea generation almost free, just as the internet made communication
   almost free

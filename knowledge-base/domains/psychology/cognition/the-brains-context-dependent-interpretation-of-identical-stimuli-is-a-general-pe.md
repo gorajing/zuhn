@@ -52,7 +52,6 @@ stance: >-
   opposite outputs
 related:
   - INS-260325-4CF9
-  - INS-260327-CB82
   - INS-260330-8045
   - INS-260330-88B0
   - PRI-260328-1654

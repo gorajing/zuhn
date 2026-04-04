@@ -50,7 +50,6 @@ stance: >-
   interior psychology in a way journalism and documentary cannot.
 related:
   - INS-260323-CD03
-  - INS-260323-4ADE
   - INS-260402-A693
   - INS-260330-1E6A
   - INS-260327-7F6A

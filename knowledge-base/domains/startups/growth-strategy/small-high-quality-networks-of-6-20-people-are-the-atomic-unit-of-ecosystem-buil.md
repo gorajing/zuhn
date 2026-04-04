@@ -52,7 +52,6 @@ stance: >-
   deliberately small confidence networks of 6-20 people that compound trust and
   knowledge sharing.
 related:
-  - INS-260325-3CE2
   - INS-260327-1393
   - INS-260330-B390
   - INS-260403-46B2

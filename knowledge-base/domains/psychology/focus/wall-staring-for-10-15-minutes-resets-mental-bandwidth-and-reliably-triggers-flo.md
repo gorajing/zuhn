@@ -53,8 +53,8 @@ related:
   - INS-260325-8EED
   - PRI-260328-4000
   - INS-260329-3473
+  - INS-260403-2BAD
   - INS-260330-1B64
-  - INS-260330-E823
   - INS-260327-1631
   - INS-260327-FD92
 stance: Stare at a wall for 10-15 minutes when you can't focus

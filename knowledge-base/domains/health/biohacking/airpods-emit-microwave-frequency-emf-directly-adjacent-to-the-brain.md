@@ -48,11 +48,11 @@ stance: >-
   ovens, delivering significant exposure directly to the brain during extended
   wear
 related:
+  - INS-260403-2BAD
   - INS-260330-EE7E
   - INS-260327-4279
   - INS-260325-1550
   - INS-260323-EECF
-  - INS-260330-B87C
 evidence:
   - id: INS-260323-EECF
     type: SUPPORTS

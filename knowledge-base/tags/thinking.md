@@ -5,5 +5,6 @@
 - `INS-260402-F853` Writing forces idea formation that pure thinking cannot achieve alone.
 - `INS-260402-A693` Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct.
 - `INS-260402-12D0` Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process.
+- `INS-260403-2AF0` Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
 - `INS-260327-5B13` There's a point where thinking deeper about life stops producing insights and starts producing paralysis - the curse of thinking too deeply is real.
 - `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.

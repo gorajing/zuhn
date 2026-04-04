@@ -1,6 +1,6 @@
 # Topic: behavior-change
 
-> 14 insights
+> 15 insights
 
 - `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260330-8286` [high] Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment.
@@ -14,5 +14,6 @@
 - `INS-260403-D467` [high] Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
 - `INS-260330-0242` [medium] Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-4079` [medium] Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
+- `INS-260403-9861` [medium] Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.
 - `INS-260330-4088` [medium] Hamas gained popular support primarily through building schools, mosques, and clinics in Gaza, not through its militant activities.
 - `INS-260330-293E` [medium] When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.

@@ -50,12 +50,12 @@ related:
   - INS-260321-E4EB
   - INS-260403-6947
   - INS-260323-D060
+  - INS-260403-2AF0
   - INS-260403-21AF
   - INS-260323-87F3
   - INS-260330-C6A2
   - INS-260330-22F0
   - INS-260402-116A
-  - INS-260403-6E11
 stance: >-
   Social pressure on speech creates invisible constraints on thinking itself —
   anonymous communication can unlock broader parameter spaces of thought.

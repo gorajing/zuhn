@@ -10,10 +10,10 @@
 - `INS-260327-5140` Marmont's divisions were spread too thin, and when one was broken, the entire French line collapsed division by division in a cascade of failures.
 - `INS-260330-59BC` Singapore's lack of accountability let the PAP implement excellent policies efficiently, but the same lack of checks means a less benevolent successor could do permanent, lethal damage with no mechanism for removal.
 - `INS-260325-3A0E` WWI proves that interlocking alliance systems turn local crises into global catastrophes — complexity creates systemic fragility.
-- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260330-E5DC` RuBisCo worked perfectly in low-oxygen atmospheres but its O2-confusion failure mode was invisible until plants changed their own environment — success can hide latent vulnerabilities.
-- `INS-260330-4E55` The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.
+- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
+- `INS-260330-4E55` The neo-Assyrian Empire collapsed partly because its theology required perpetual conquest — one loss shattered the entire worldview.
 - `INS-260403-C844` Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
 - `INS-260330-094B` Aerogel is extraordinary but shatters on impact — embedding it in fiberglass creates a flexible, practical blanket that NASA and industry actually use.
 - `INS-260330-7462` Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.

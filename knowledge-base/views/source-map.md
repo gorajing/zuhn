@@ -272,12 +272,14 @@ Generated on 2026-04-04 | 2421 sources
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
 | A Three-Step Framework For Solving Problems 👌 | blog | 5 | 2026-03-31 |
 | A Version 1.0 | blog | 5 | 2026-03-31 |
+| a16z Raised $15B: Ben Horowitz on Scaling Venture Capital | blog | 5 | 2026-03-30 |
 | Achieve Product-Market Fit with our Brand-New Value Proposition Canvas | blog | 5 | 2026-03-31 |
 | After Credentials | blog | 5 | 2026-03-31 |
 | AGI Is Closer Than You Think💡, Prompt Engineering Is Dead🧠, AI Will Eat Application Software⚠️ | blog | 5 | 2026-03-30 |
 | AI Agents Are Coming: The Agentic Revolution Explained | blog | 5 | 2026-03-30 |
 | AI In a Bubble?🫧, Moats Revisited🛡️, AI makes the old VC playbook obsolete⚡ | blog | 5 | 2026-03-30 |
 | AI Is Like Water | blog | 5 | 2026-03-31 |
+| AI is Polytheistic⚖️, Where's My Moat?🏰, Index is the New Sequoia🚀 | blog | 5 | 2026-03-30 |
 | AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt) | blog | 5 | 2026-03-31 |
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
 | AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
@@ -858,6 +860,7 @@ Generated on 2026-04-04 | 2421 sources
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
+| Quick Essay: A Short History of OpenAI  | blog | 4 | 2026-03-30 |
 | Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 4 | 2026-03-30 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
@@ -868,6 +871,7 @@ Generated on 2026-04-04 | 2421 sources
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
 | Stablecoins Are Defense Tech | blog | 4 | 2026-03-31 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
+| Strategyzer Peer Learning Summit with MasterCard, GE, 3M, Intel, and Many More | blog | 4 | 2026-03-31 |
 | Subject: Airbnb | blog | 4 | 2026-03-31 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
 | The Acceleration of Addictiveness | blog | 4 | 2026-03-31 |
@@ -903,6 +907,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why There Aren't More Googles | blog | 4 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 4 | 2026-03-31 |
 | Why TV Lost | blog | 4 | 2026-03-31 |
+| Writing and Speaking | blog | 4 | 2026-03-31 |
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
 | Zero-sum economics keeps failing | blog | 4 | 2026-03-30 |
 | 10 Reasons Why Your Small Business Will Fail - and How To Avoid These Tragic Mistakes | youtube | 4 | 2026-03-23 |
@@ -913,6 +918,7 @@ Generated on 2026-04-04 | 2421 sources
 | 25 Years of Building Startups Explained in 17 Minutes | TaleTree, Matt Hagger | youtube | 4 | 2026-03-23 |
 | 3 ways smart people stay stuck in failing patterns | Anne-Laure Le Cunff | youtube | 4 | 2026-03-25 |
 | 42 Life Lessons I Know at 42 That I Wish I Knew Sooner | youtube | 4 | 2026-03-23 |
+| 6 ways to heal trauma without medication | Bessel van der Kolk | Big Think | youtube | 4 | 2026-03-30 |
 | 서울대 의대 출신 창업가가 6년 삽질하고 깨달은 사업의 원리 | 모두닥 다큐멘터리 | youtube | 4 | 2026-03-23 |
 | A Guided Tour of Musical Feeling | youtube | 4 | 2026-03-22 |
 | Actionable Ikigai: Career Planning in the age of AI | youtube | 4 | 2026-03-27 |
@@ -1877,7 +1883,6 @@ Generated on 2026-04-04 | 2421 sources
 | A Word to the Resourceful | blog | 0 | 2026-03-31 |
 | A year free of PostHog ($16,500 value): The all-in-one analytics, experimentation, feature flag, surveys, session replay, error tracking, data warehouse, LLM analytics platform | blog | 0 | 2026-03-31 |
 | a16z New Media and How We Invested in 20+ YC Startups in 5 Months | blog | 0 | 2026-03-30 |
-| a16z Raised $15B: Ben Horowitz on Scaling Venture Capital | blog | 0 | 2026-03-30 |
 | a16z Raises$7.2bn💵, Optimal VC Portfolio Construction🧮, AI Index🤖 | blog | 0 | 2026-03-30 |
 | a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise Startup Funding | blog | 0 | 2026-03-30 |
 | Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 0 | 2026-03-31 |
@@ -1898,7 +1903,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 0 | 2026-03-30 |
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
 | AI Is Eating VC📉, Most-Active US Investors💵, Longevity Tech Rebounds🧬 | blog | 0 | 2026-03-30 |
-| AI is Polytheistic⚖️, Where's My Moat?🏰, Index is the New Sequoia🚀 | blog | 0 | 2026-03-30 |
 | AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 0 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 0 | 2026-03-30 |
 | AI-Powered Fundraising Prep: The Founder’s Tactical Playbook | blog | 0 | 2026-03-30 |
@@ -2186,7 +2190,6 @@ Generated on 2026-04-04 | 2421 sources
 | Programming Bottom-Up | blog | 0 | 2026-03-31 |
 | Putting Ideas into Words | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
-| Quick Essay: A Short History of OpenAI  | blog | 0 | 2026-03-30 |
 | Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RAQs | blog | 0 | 2026-03-31 |
@@ -2232,7 +2235,6 @@ Generated on 2026-04-04 | 2421 sources
 | State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 0 | 2026-03-30 |
 | State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 0 | 2026-03-30 |
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
-| Strategyzer Peer Learning Summit with MasterCard, GE, 3M, Intel, and Many More | blog | 0 | 2026-03-31 |
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 0 | 2026-03-30 |
@@ -2381,13 +2383,11 @@ Generated on 2026-04-04 | 2421 sources
 | Write Like You Talk | blog | 0 | 2026-03-31 |
 | Write Simply | blog | 0 | 2026-03-31 |
 | Writes and Write-Nots | blog | 0 | 2026-03-31 |
-| Writing and Speaking | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
 | YC's Handshake Deal Protocol🤝, The Generative AI Winners of 2025 🤖, Redefining Independent Media📰 | blog | 0 | 2026-03-30 |
 | You are no longer the smartest type of thing on Earth | blog | 0 | 2026-03-30 |
-| 6 ways to heal trauma without medication | Bessel van der Kolk | Big Think | youtube | 0 | 2026-03-30 |
 | AI influencers are getting filthy rich... let's build one | youtube | 0 | 2026-03-30 |
 | Anti-Gravity Wheel? | youtube | 0 | 2026-03-30 |
 | Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 0 | 2026-03-30 |

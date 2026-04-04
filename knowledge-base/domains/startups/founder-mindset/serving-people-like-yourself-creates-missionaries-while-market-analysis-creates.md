@@ -51,7 +51,6 @@ stance: >-
   empathy and product quality than those who select markets purely by
   opportunity size
 related:
-  - INS-260322-4090
   - INS-260323-F853
   - INS-260327-C9A3
   - INS-260327-A903

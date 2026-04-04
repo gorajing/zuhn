@@ -53,6 +53,7 @@ related:
   - PRI-260403-2E59
   - INS-260403-9680
   - INS-260329-903B
+  - INS-260403-4CD0
 ---
 Stanford founders once told Dalton they were taught that all consumer startups suck and only B2B SaaS works — as if someone could give them slots A, B, C, D and if they filled them correctly, success pops out. This 'MBAification' of startup thinking comes from business schools originally designed to train middle managers for General Motors. In that world, there is a guidebook — how to get in, what to do, how to get promoted.
 

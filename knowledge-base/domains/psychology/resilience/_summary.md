@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 142 insights
+> 143 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -26,6 +26,7 @@
 - `INS-260330-0FBF` [high] Defense mechanisms protect the conscious mind from vulnerability but become pathological when they operate without awareness, distorting perception of reality.
 - `INS-260330-2492` [high] Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260330-946B` [high] Trump demonstrated that democratic norms are insufficient guardrails — institutions need explicit laws and structural constraints designed to contain worst-case actors.
+- `INS-260403-7475` [high] Body-based interventions outperform medication and pure talk therapy for trauma because trauma is stored in survival circuitry, not narrative memory.
 - `INS-260327-9F46` [high] Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. - When failure is the expected method rather than the feared outcome, it loses its paralyzing power.
 - `INS-260327-6021` [high] Spinoza didn't say stop feeling - he said understand why you feel, because understanding transforms overwhelming emotions into manageable ones.
 - `INS-260330-D27C` [high] You become what you're consistently exposed to — surgically arrange your environment rather than relying on willpower or techniques.

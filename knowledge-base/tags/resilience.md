@@ -35,6 +35,7 @@
 - `INS-260327-CD49` Everyone thinks confidence leads to big actions, but it is completely reversed -- you do big things, put yourself out there while scared, and then confidence builds from the evidence of having survived.
 - `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.
 - `INS-260330-FE21` Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
+- `INS-260403-7475` Body-based interventions outperform medication and pure talk therapy for trauma because trauma is stored in survival circuitry, not narrative memory.
 - `INS-260330-A9F8` All systems have a hidden threshold where reversible stress becomes permanent damage, and you cannot detect that boundary from the elastic side.
 - `INS-260327-71A3` Two people with identical anxiety levels can live completely different lives depending on whether they engage with it or flee from it.
 - `INS-260327-375B` Giertz's humorous approach to her brain tumor wasn't denial - it was a sophisticated resilience strategy that created psychological distance and social support simultaneously.

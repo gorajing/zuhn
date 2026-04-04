@@ -46,11 +46,11 @@ resolutions:
     features that create meaning, growth, and authentic connection.
 related:
   - INS-260322-5B1B
-  - INS-260323-0603
+  - INS-260403-0949
   - INS-260330-1F41
   - INS-260325-2944
   - INS-260330-C9C2
-  - INS-260403-EF20
+  - INS-260323-0603
   - INS-260320-26B1
   - INS-260323-DEF0
   - INS-260323-AFA7

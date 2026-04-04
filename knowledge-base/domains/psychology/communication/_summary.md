@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 25 insights
+> 28 insights
 
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
@@ -19,11 +19,14 @@
 - `INS-260403-1A96` [high] The Morris technique — never say anything unless you're sure it's worth hearing — turns scientific publication bias into an essayist's greatest asset.
 - `INS-260330-F140` [high] Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` [high] The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
+- `INS-260403-2B1D` [high] The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260330-5A9E` [high] Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
 - `INS-260330-A8F8` [high] Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
 - `INS-260403-272E` [high] Jessica Livingston's aversion to attention meant she was written out of YC's history despite being co-founder and primary culture-builder.
+- `INS-260403-2AF0` [high] Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
 - `INS-260330-CD7A` [medium] Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260403-7FFA` [medium] Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260403-3D61` [medium] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 - `INS-260330-FAB4` [medium] As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
+- `INS-260403-0949` [medium] Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
 - `INS-260403-9669` [low] Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.

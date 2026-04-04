@@ -58,7 +58,6 @@ related:
   - INS-260330-AE16
   - INS-260323-B309
   - INS-260323-813B
-  - INS-260403-7342
 evidence:
   - id: INS-260323-1477
     type: CONTRADICTS

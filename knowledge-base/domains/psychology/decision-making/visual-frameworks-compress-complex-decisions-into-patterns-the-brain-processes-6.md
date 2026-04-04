@@ -58,8 +58,8 @@ related:
   - INS-260330-83BC
   - INS-260330-A5C4
   - INS-260403-1C10
+  - INS-260403-2BAD
   - INS-260329-2FEB
-  - INS-260330-6BBD
 ---
 The article cites that the human brain processes visuals 60,000 times faster than text as justification for why the Business Model Canvas works. While the exact multiplier is debatable, the directional claim is well-supported by cognitive science: spatial and visual processing engages parallel neural pathways that text-based sequential processing cannot match.
 

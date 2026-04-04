@@ -52,10 +52,10 @@ stance: >-
   to the next generation
 related:
   - INS-260402-3639
+  - INS-260403-B9F4
   - INS-260403-74E5
   - INS-260403-8C20
   - INS-260403-FE91
-  - INS-260403-1A96
 evidence:
   - id: INS-260322-5B1B
     type: SUPPORTS

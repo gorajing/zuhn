@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 63 insights
+> 64 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
@@ -15,6 +15,7 @@
 - `INS-260403-BADD` [high] Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260330-CAD2` [high] Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
 - `INS-260330-6418` [high] The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
+- `INS-260403-7639` [high] MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.
 - `INS-260330-F8B6` [high] The same culture can move from celebrating lynchings to prosecuting war crimes within generations, proving moral progress is real but unevenly distributed.
 - `INS-260330-1801` [high] Calling the unknown 85% of gravitational force 'dark matter' smuggles in the assumption that matter causes it, when 'dark gravity' would better describe what we actually observe.
 - `INS-260330-0C1D` [high] Calling an unknown phenomenon 'dark matter' makes people debate whether it's matter, when the only confirmed property is gravitational — 'dark gravity' would keep the hypothesis space open.

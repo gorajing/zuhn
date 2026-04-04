@@ -46,11 +46,11 @@ stance: >-
   perception of reality by amplifying extreme, emotional, and divisive content
   that maximizes engagement at the cost of accurate worldviews.
 related:
+  - INS-260403-B9F4
   - PRI-260328-C006
   - INS-260330-18F3
   - INS-260329-13D2
   - PRI-260324-8EE6
-  - PRI-260323-DAB9
   - INS-260402-C49E
 evidence:
   - id: INS-260329-13D2
