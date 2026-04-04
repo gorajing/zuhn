@@ -61,8 +61,8 @@ related:
   - INS-260403-1B2D
   - INS-260403-5C8E
   - INS-260403-DE45
+  - INS-260403-48BF
   - INS-260403-915E
-  - INS-260403-C5C0
 ---
 Graham identifies a fundamental asymmetry in persuasion: for non-technical audiences who can't deeply evaluate your product, your own confidence becomes the single biggest piece of evidence. But this confidence must be shown, never told. Explicit claims ('we're passionate,' 'our product is great') trigger automatic skepticism — audiences discard these as meaningless or worse, mark you as someone who substitutes hype for substance.
 

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 460 insights
+> 463 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -136,6 +136,7 @@
 - `INS-260327-9018` [high] Fintech companies that tried to disrupt remittances discovered that the last-mile challenge is physical cash distributio
 - `INS-260329-DF50` [high] In HFT, the first system to react to market data captures the opportunity — everyone else follows with nothing left to take.
 - `INS-260327-FD18` [high] Let someone else prove the market exists and accumulate technical debt—then enter with a better product.
+- `INS-260403-3307` [high] Photosynthesis is inefficient and confusing but dominates Earth's energy economy because nothing could displace an entrenched global ecosystem.
 - `INS-260330-39B0` [high] Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
 - `INS-260330-9A60` [high] Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
 - `INS-260403-962E` [high] RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
@@ -294,6 +295,7 @@
 - `INS-260330-ED9D` [high] Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
 - `INS-260403-887A` [high] Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each shelf slot so valuable that suppliers compete on price and customization to win it.
 - `INS-260403-E143` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which gives it enormous leverage because suppliers compete fiercely for the one or two slots available.
+- `INS-260403-115B` [high] Costco stocks ~4,000 SKUs vs. Walmart's 140,000, making brands compete fiercely for limited shelf space and accepting lower margins to win placement.
 - `INS-260403-36D8` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
@@ -452,6 +454,7 @@
 - `INS-260403-47C0` [medium] Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.
 - `INS-260324-1C12` [medium] The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
 - `INS-260403-04C9` [medium] McDonald's rejected a 2015 investor proposal to spin off its real estate into a REIT, arguing that the integration of food operations and property ownership is what makes both sides work.
+- `INS-260403-3673` [medium] Sears, Toys-R-Us, and J.C. Penney failed from strategic neglect while Ross, Aldi, Dollar General, and Costco thrived in the same period — the common factor is adaptation, not channel.
 - `INS-260403-CA93` [medium] Unlike agriculture, cities, and industrialization which all spread widely, the startup revolution may remain concentrated in a few dominant hubs.
 - `INS-260403-3F9C` [medium] Silicon Valley's transformation from charming college town to suburban sprawl creates an opening for competitor cities that preserve urban livability.
 - `INS-260325-E19E` [medium] New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.

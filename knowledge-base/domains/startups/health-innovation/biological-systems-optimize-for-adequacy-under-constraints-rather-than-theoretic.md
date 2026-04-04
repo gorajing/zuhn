@@ -54,8 +54,8 @@ related:
   - INS-260330-39B0
   - INS-260330-D108
   - INS-260330-3591
+  - INS-260403-3307
   - INS-260402-4AB4
-  - INS-260330-9A60
   - INS-260403-A7FD
 ---
 The video opens by calling photosynthesis 'complicated, inefficient and confusing' — yet it's the foundation of virtually all life on Earth. The Calvin Cycle requires 9 ATP and 6 NADPH to process just 3 CO2 molecules, yielding only 1 net G3P. RuBisCo wastes roughly half its reactions on the wrong substrate. By any efficiency metric, photosynthesis is mediocre.

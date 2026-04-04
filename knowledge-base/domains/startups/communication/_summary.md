@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 14 insights
+> 15 insights
 
 - `INS-260403-D375` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - `INS-260403-D984` [high] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
@@ -16,3 +16,4 @@
 - `INS-260403-85F1` [medium] Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - `INS-260403-CC25` [medium] Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - `INS-260403-07C1` [medium] Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
+- `INS-260403-26D3` [medium] Inability to describe your startup in one compelling phrase signals unfocused strategy, not just poor messaging.

@@ -1,7 +1,7 @@
 # Tag: angel-investing
 
-- `INS-260403-1D6E` Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
 - `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup.
+- `INS-260403-1D6E` Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible.
 - `INS-260403-9EB1` Angels must predict pre-traction potential; VCs can react to demonstrated success.

@@ -47,13 +47,13 @@ stance: >-
   barrier applies to information asymmetry, market inefficiencies, and attention
   differentials just as it does to proton gradients
 related:
-  - INS-260330-EAA3
   - INS-260330-3037
   - PRI-260403-6E50
   - INS-260403-384C
   - INS-260403-0429
   - INS-260403-EE83
   - INS-260403-050D
+  - INS-260403-CD2A
 ---
 In photosynthesis, the thylakoid membrane maintains a concentration gradient of protons. When protons flow back through ATP synthase to equalize, that flow drives energy production. The membrane's role is critical: without a barrier maintaining the imbalance, no useful work gets extracted.
 

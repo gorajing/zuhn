@@ -54,7 +54,6 @@ related:
   - INS-260330-3C3C
   - INS-260330-B38B
   - INS-260403-861A
-  - INS-260403-FC01
   - INS-260330-7FF3
 ---
 In photosynthesis, the thylakoid membrane acts as a battery. By splitting water and pumping protons via the cytochrome complex, plants create a high concentration of protons inside the thylakoid. When protons flow through ATP synthase to equalize the gradient, that flow powers the creation of ATP. The energy isn't in the protons themselves — it's in the asymmetry of their distribution.

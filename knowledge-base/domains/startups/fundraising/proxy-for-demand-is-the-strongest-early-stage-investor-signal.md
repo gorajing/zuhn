@@ -51,8 +51,8 @@ related:
   - INS-260327-E3CA
   - INS-260327-0595
   - INS-260403-92EB
+  - INS-260403-EA8C
   - INS-260403-30D8
-  - INS-260403-39F9
 ---
 Sequoia's Greg Mcadoo explicitly names 'proxy for demand' as a key signal: what are people doing right now, with inadequate tools, that proves they need what you're building? This is far more persuasive than market sizing because it's concrete and observable rather than speculative.
 

@@ -59,7 +59,6 @@ related:
   - INS-260330-35E2
   - INS-260326-E411
   - INS-260329-58E7
-  - INS-260330-E54B
 evidence:
   - id: INS-260330-35E2
     type: EXTENDS

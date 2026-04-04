@@ -1,9 +1,9 @@
 # Tag: patience
 
+- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
 - `INS-260327-8473` Wellington's defensive strategy in Portugal was unpopular and appeared passive but systematically destroyed French armies through attrition rather than risk.
 - `INS-260327-EF8C` Wellington watched Marmont's army for days without attacking, then struck in 40 minutes when the French overextended their line — destroying an entire army in one afternoon.
 - `INS-260327-35CB` Russia defeated Napoleon in 1812 primarily by refusing to fight decisive battles — retreating, burning their own territory, and letting distance and winter destroy the Grande Armee.
-- `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
 - `INS-260403-F075` Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
 - `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
 - `INS-260329-F04B` Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.

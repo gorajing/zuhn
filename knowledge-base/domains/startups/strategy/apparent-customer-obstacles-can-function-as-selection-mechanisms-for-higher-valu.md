@@ -52,10 +52,11 @@ related:
   - INS-260323-FEAB
   - INS-260327-176D
   - INS-260403-F98F
-  - INS-260403-B2CB
-  - INS-260403-3F5F
   - INS-260403-2C00
   - INS-260403-C40D
+  - INS-260403-137D
+  - INS-260403-B2CB
+  - INS-260403-3F5F
 ---
 Conventional business wisdom says reduce friction to maximize customer acquisition. Costco's membership fee appears to violate this—charging customers before they can even browse. But the fee functions as a selection mechanism: it filters for households with ~$100K average income and business owners (one-third of members, two-thirds of sales). The sunk-cost psychology then converts these high-value customers into loyal repeat buyers who stop price-comparing.
 

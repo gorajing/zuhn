@@ -1,10 +1,10 @@
 # Tag: intrinsic-motivation
 
-- `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
 - `INS-260403-2B63` Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
 - `INS-260403-A06E` Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
 - `INS-260403-7093` Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
+- `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260330-D61A` Doing your most exciting task first makes boring subsequent tasks feel worse and tanks performance on them — start with moderately interesting work instead.
@@ -15,10 +15,10 @@
 - `INS-260403-4F4B` Persistence is best learned through lived experience on a single obsessive project, not through frameworks or advice.
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
 - `INS-260329-764E` Focusing on the act of creating rather than follower counts prevents the motivational collapse that kills most content efforts.
+- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 - `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260329-36FF` Work created from abundance rather than scarcity resonates differently because people can feel the intention behind it.
 - `INS-260403-862E` Genuine problem interest predicts startup success better than ambition for money or status.
 - `INS-260327-3049` When making decisions, maximize the sci-fi nature of your life — this counterintuitive optimization function led to co-inventing CRISPR.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.

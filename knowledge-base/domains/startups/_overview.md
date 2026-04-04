@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3013 insights across 34 topics
+> 3024 insights across 34 topics
 
 ## Topics
 
@@ -8,17 +8,17 @@
 | ----- | -------- | ------- |
 | ai-business-models | 14 | AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record. |
 | bootstrapping | 34 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
-| business-models | 157 | Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable. |
+| business-models | 159 | Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable. |
 | co-founders | 42 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
-| communication | 14 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
-| competitive-strategy | 460 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| communication | 15 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
+| competitive-strategy | 463 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 35 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | engineering | 28 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
 | execution | 207 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 298 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
 | founder-psychology | 51 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
-| fundraising | 174 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
+| fundraising | 176 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
 | growth | 63 | Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve. |
 | growth-marketing | 128 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
 | growth-strategy | 59 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
@@ -37,6 +37,6 @@
 | quality | 11 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 178 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
 | scaling | 127 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
-| strategy | 182 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
+| strategy | 184 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 47 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 110 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 111 | Pretty much 100% of startups that make something popular manage to make money from it. |

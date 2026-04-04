@@ -52,6 +52,7 @@ stance: >-
 related:
   - INS-260403-1852
   - INS-260403-0267
+  - INS-260403-3482
   - INS-260403-8346
   - INS-260403-1290
   - INS-260403-600F
@@ -59,7 +60,6 @@ related:
   - INS-260403-0701
   - INS-260403-A709
   - INS-260403-A172
-  - INS-260403-C496
 ---
 A VC speaking at YC described investing in a company whose business model he knew was wrong and would change three times—the founders were experienced with prior exits, and their model was still crap. He invested anyway because that's expected at this stage.
 

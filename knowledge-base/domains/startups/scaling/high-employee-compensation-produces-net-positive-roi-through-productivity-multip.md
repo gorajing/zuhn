@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260327-D480
   - INS-260403-8A80
+  - INS-260403-E2D9
   - INS-260329-60CF
   - INS-260329-C474
-  - INS-260321-988C
 ---
 The standard retail playbook treats labor as a cost to minimize. Costco inverts this by paying $21/hour (double the U.S. retail average) with superior health insurance and retirement benefits. The result is employees who are three times more productive than the industry average — a 2x cost for 3x output is a clear mathematical win.
 

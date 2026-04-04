@@ -54,15 +54,15 @@ stance: >-
   success, because they corrupt the very mechanism that made you successful.
 related:
   - INS-260330-48F2
-  - INS-260330-CA97
   - INS-260330-E5DC
   - INS-260330-C134
   - INS-260403-CF3E
   - INS-260403-304E
   - INS-260330-72E1
-  - INS-260330-50B3
   - INS-260330-2CFA
   - INS-260330-D304
+  - INS-260330-026F
+  - INS-260330-A3EB
 evidence:
   - id: INS-260326-BF32
     type: EXTENDS

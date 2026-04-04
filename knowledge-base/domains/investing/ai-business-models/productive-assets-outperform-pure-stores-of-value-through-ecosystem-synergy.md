@@ -52,11 +52,11 @@ stance: >-
   creation reinforce each other.
 related:
   - INS-260329-388E
+  - INS-260403-3307
   - INS-260330-696D
   - INS-260323-9A29
   - INS-260330-DCFB
   - INS-260330-C870
-  - INS-260325-A54F
 evidence:
   - id: INS-260329-388E
     type: TRANSFERS_TO

@@ -1,16 +1,13 @@
 # Tag: product-quality
 
 - `INS-260329-16F0` Brand can carry the perception of value beyond what the product alone delivers, as long as the product doesn't actively contradict the brand promise.
-- `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
+- `INS-260403-9F9F` People who want to get rich by changing the world work harder and build better products than those optimizing purely for money.
 - `INS-260330-BEE7` Successful founders personally handle customer support, obsess over tiny product details, and maintain the tightest possible feedback loop with users — especially in the first year.
 - `INS-260327-0700` Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
-- `INS-260403-9F9F` People who want to get rich by changing the world work harder and build better products than those optimizing purely for money.
 - `INS-260403-99B1` Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260322-5650` In 2026, customer feedback is too fast and too public for mediocre products to survive — subscriptions only work if the product genuinely delivers, and the founder should use their own product daily.
+- `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy.
 - `INS-260322-6AF5` Amazon's product search has degraded so badly (spam, fake reviews, wrong-size photos, unclear ads) that DoorDash competing on product trust from local stores is a viable strategy — big tech's moats erode from the inside.
-- `INS-260403-0041` Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
-- `INS-260403-6A69` Great hardware buys time against bad policies, but the reputational damage compounds while the hardware advantage doesn't.
-- `INS-260403-E69C` Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260330-EF64` Delay growing your user base because users create compatibility constraints that freeze your design and prevent the continuous redesign that produces quality.
 - `INS-260403-C3DF` Looking down on your users, however benevolently, inevitably corrupts the design.
 - `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness.
@@ -18,4 +15,7 @@
 - `INS-260330-2A73` Requiring all builders to do customer support creates a self-correcting feedback loop that improves product quality and reduces support volume.
 - `INS-260330-3A3E` When the people who build the product also support it, bugs get fixed faster and the knowledge gap between builders and users collapses.
 - `INS-260329-2EB1` Real taste means having an honest internal barometer for whether your product creates genuine user value, not just whether it looks good in a demo.
+- `INS-260403-0041` Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
+- `INS-260403-6A69` Great hardware buys time against bad policies, but the reputational damage compounds while the hardware advantage doesn't.
+- `INS-260403-E69C` Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality.
 - `INS-260329-F4E4` Stacking revenue quickly without fixing the product creates a fragile tower that can't grow past a certain height — sustainable scale requires going back to rebuild the foundation.

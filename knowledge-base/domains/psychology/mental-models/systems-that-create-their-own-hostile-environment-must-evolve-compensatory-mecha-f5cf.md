@@ -65,7 +65,6 @@ related:
   - INS-260330-E497
   - INS-260403-53C9
   - INS-260330-EACA
-  - INS-260403-F52E
 evidence:
   - id: INS-260330-B71B
     type: TRANSFERS_TO

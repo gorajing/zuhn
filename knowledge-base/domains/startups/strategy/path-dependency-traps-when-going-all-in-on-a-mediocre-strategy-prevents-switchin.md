@@ -55,9 +55,9 @@ related:
   - INS-260329-A9ED
   - INS-260330-EEED
   - INS-260403-3F05
+  - INS-260403-EA8C
   - INS-260325-0688
   - INS-260403-A907
-  - INS-260403-E319
 ---
 Plants evolved RuBisCo when atmospheric oxygen was negligible, making it adequate for carbon fixation. When oxygen levels rose—ironically due to plants' own success—RuBisCo began binding oxygen ~50% of the time, producing toxic byproducts. Rather than evolving a replacement, plants doubled down: producing 40 billion tons of RuBisCo globally and building detoxification pathways.
 

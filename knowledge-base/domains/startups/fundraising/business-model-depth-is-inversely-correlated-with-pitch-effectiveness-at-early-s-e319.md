@@ -54,9 +54,9 @@ related:
   - INS-260403-B008
   - INS-260403-04FF
   - INS-260403-0267
+  - INS-260403-3482
   - INS-260403-C496
   - INS-260403-8346
   - INS-260403-A172
-  - INS-260403-481F
 ---
 Graham relays a VC who invested in a company despite knowing their business model was 'crap' — because he expected it to be crap at that stage. The founders were experienced with prior exits, yet their monetization plan was still wrong. The implication is profound: business model discussion is not just low-value, it's actively harmful. If your model seems 'spectacularly wrong,' it will push the memorable parts of your pitch out of investors' heads entirely. They'll remember you as 'the company with the boneheaded money plan' rather than 'the company solving that important problem.' The optimal allocation is to spend nearly all time on the problem and solution, mentioning monetization only briefly to show you've thought about it.

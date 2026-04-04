@@ -51,16 +51,16 @@ stance: >-
   because investors expect the model to be wrong and you're displacing time that
   could demonstrate technical insight.
 related:
-  - INS-260322-A02C
   - INS-260327-5B30
   - INS-260329-3BEE
   - INS-260330-A38C
   - INS-260330-A954
-  - INS-260403-6F52
   - INS-260403-C625
   - INS-260403-600F
-  - INS-260403-FF86
   - INS-260403-0267
+  - INS-260403-3482
+  - INS-260403-8346
+  - INS-260403-C496
 ---
 A top VC told YC founders that a company he'd just invested millions in had a business model he expected to change three times before they got it right — and he invested anyway. At the early stage, the business model is a collection of guesses about things that aren't the founders' area of expertise. Smart investors know this. They're evaluating the team's ability to identify and solve real problems, not their ability to forecast revenue streams.
 

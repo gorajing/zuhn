@@ -3,14 +3,14 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 190 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 88 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 73 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 194 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 93 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 78 | 2026-03-31 |
+| How to Do Great Work | blog | 31 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
 | Python for Everybody - Full University Python Course | youtube | 30 | 2026-03-29 |
-| How to Do Great Work | blog | 26 | 2026-03-31 |
 | C# Tutorial - Full Course for Beginners | youtube | 25 | 2026-03-29 |
 | Exponential growth and epidemics | youtube | 25 | 2026-03-30 |
 | Harvard CS50’s Introduction to Programming with Python – Full University Course | youtube | 25 | 2026-03-29 |
@@ -795,6 +795,7 @@ Generated on 2026-04-04 | 2421 sources
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
+| Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
@@ -1923,7 +1924,6 @@ Generated on 2026-04-04 | 2421 sources
 | Announcing a brand-new podcast: “How I AI” with Claire Vo 🔥 | blog | 0 | 2026-03-31 |
 | Announcing Lenny and Friends Summit 🙌 | blog | 0 | 2026-03-31 |
 | Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann | blog | 0 | 2026-03-31 |
-| Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 0 | 2026-03-30 |
 | Anthropic's 2022 Pitch Deck Leaked (10 Slides → $380B) | blog | 0 | 2026-03-30 |
 | Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram) | blog | 0 | 2026-03-31 |
 | “Anyone can cook”: How v0 is bringing Git workflows to vibe coding | Guillermo Rauch (Vercel CEO) | blog | 0 | 2026-03-31 |

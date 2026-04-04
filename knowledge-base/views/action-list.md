@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3479 actionable insights
+Generated on 2026-04-04 | 3485 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1589,6 +1589,7 @@ Generated on 2026-04-04 | 3479 actionable insights
 - [INS-260403-1E82] Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
 - [INS-260403-61B0] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - [INS-260403-74CD] Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
+- [INS-260403-48BF] Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1881,6 +1882,7 @@ Generated on 2026-04-04 | 3479 actionable insights
 - [INS-260403-85F1] Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - [INS-260403-ED1E] Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 - [INS-260403-D984] Craft and plant a single sticky phrase early in your pitch — investor memory, not understanding, is the scarce resource.
+- [INS-260403-26D3] Inability to describe your startup in one compelling phrase signals unfocused strategy, not just poor messaging.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2638,6 +2640,8 @@ Generated on 2026-04-04 | 3479 actionable insights
 - [INS-260403-054F] Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
 - [INS-260403-91F9] Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - [INS-260403-30D8] Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
+- [INS-260403-3482] Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
+- [INS-260403-06E0] Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3535,6 +3539,7 @@ Generated on 2026-04-04 | 3479 actionable insights
 - [INS-260403-C40D] Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
 - [INS-260403-8C56] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
 - [INS-260403-9276] Annotate each business model with its trajectory (growing, shrinking, shifting) to detect slow-moving disruption before it becomes irreversible.
+- [INS-260403-137D] Costco's $60 membership fee filters for households averaging ~$100K income, with business owners representing one-third of members but two-thirds of sales.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3649,6 +3654,7 @@ Generated on 2026-04-04 | 3479 actionable insights
 - [INS-260403-D379] Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
 - [INS-260403-FFEA] Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - [INS-260403-0803] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
+- [INS-260403-EA8C] Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.
