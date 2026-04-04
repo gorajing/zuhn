@@ -55,6 +55,7 @@ related:
   - INS-260330-9BF5
   - INS-260326-870E
   - INS-260329-E6DB
+  - INS-260403-CF98
 ---
 Altman identifies momentum as the prime directive of startup management — if he could tell founders only one thing, it would be to always keep momentum. A winning team feels good and keeps winning; a team that hasn't won in a while gets demotivated and keeps losing. The critical mistake is how founders try to recover lost momentum: they give long vision speeches and try to rally the troops. This doesn't work because demoralized employees don't want to hear vision — they want to win again.
 

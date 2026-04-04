@@ -51,14 +51,14 @@ stance: >-
 related:
   - INS-260324-5B35
   - INS-260324-B7C0
-  - INS-260324-D612
-  - INS-260324-0DC1
   - PRI-260328-5053
   - INS-260330-DC0D
+  - INS-260324-0DC1
+  - INS-260403-94CA
   - INS-260330-16F7
-  - INS-260327-EAB9
   - INS-260327-092E
   - INS-260329-2EAA
+  - INS-260329-A575
 ---
 Domino's is technically a logistics company disguised as a pizza chain. Individual franchises earn razor-thin 11% margins on pizza sales, and there isn't much cash flow when you're taking 5% of $8. But Domino's corporate generates billions in revenue by selling ingredients at markup to its franchise network. This is the same pattern seen across franchise businesses: the real money is in the supply chain, not the storefront.
 

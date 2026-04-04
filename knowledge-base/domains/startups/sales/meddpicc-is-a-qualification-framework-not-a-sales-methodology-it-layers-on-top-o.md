@@ -60,12 +60,13 @@ stance: >-
   enhances Sandler, Challenger, or any other methodology, rather than replacing
   them.
 related:
-  - INS-260323-1CA4
   - INS-260327-B18F
+  - INS-260323-1CA4
   - PRI-260328-21AD
   - INS-260329-2B60
   - PRI-260328-E921
   - INS-260329-1621
+  - INS-260403-8448
 ---
 Andy Whyte clarifies the most common misconception about MEDDIC: it is not a competing methodology to Sandler, Challenger Sale, or others. At its core, MEDDIC is a qualification framework that answers two questions — 'should I be in this deal?' and 'if so, what must I do to win?' This distinction matters because organizations often resist adopting MEDDIC thinking it conflicts with their existing methodology, when in reality it enhances any approach.
 

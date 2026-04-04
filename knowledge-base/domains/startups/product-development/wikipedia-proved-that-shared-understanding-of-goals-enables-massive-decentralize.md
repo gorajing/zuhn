@@ -52,7 +52,6 @@ related:
   - INS-260403-066E
   - INS-260329-E6AF
   - INS-260327-2C5F
-  - INS-260403-3A7A
 stance: >-
   Wikipedia works because everyone intuitively knows what an encyclopedia entry
   should look like

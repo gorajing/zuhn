@@ -56,8 +56,8 @@ related:
   - INS-260327-D020
   - INS-260402-876A
   - INS-260325-5F3B
+  - INS-260403-F112
   - INS-260326-2410
-  - INS-260403-0350
 ---
 The distinction between an AI agent and a Guided AI Agent lies in domain encoding. A generalized agent uses an LLM to generate a task list and integrations to execute it, but the task list may be naive — missing industry norms like appropriate social media tone or compliance requirements. A Guided AI Agent sets predefined guardrails and step sequences for the LLM to follow, ensuring outputs match the specific context.
 

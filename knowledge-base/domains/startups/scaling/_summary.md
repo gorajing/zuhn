@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 120 insights
+> 121 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -37,6 +37,7 @@
 - `INS-260330-912C` [high] Rome successfully absorbed conquered peoples for centuries by making them Romans, but collapsed when expansion outpaced cultural integration.
 - `INS-260329-88A4` [high] Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
 - `INS-260327-0D0B` [high] Plan for your company to break at every headcount doubling—the breakage is a feature, not a bug.
+- `INS-260403-D704` [high] McDonald's demands more from franchisees than competitors — approved suppliers, Hamburger University training, rigid operating standards — yet attracts $1-2M investments because the constraints signal safety.
 - `INS-260329-A57B` [high] Each additional nine of availability cuts allowed downtime by 10x but costs roughly 10x more to achieve — most startups should target three nines, not five.
 - `INS-260330-5FED` [high] Flat structure works until it suddenly doesn't — the failure mode is a cliff, not a slope.
 - `INS-260330-488B` [high] Flat structure works perfectly until ~25 employees, then fails completely overnight with no gradual degradation.

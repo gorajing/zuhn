@@ -8,6 +8,7 @@
 - `INS-260402-5E4E` Computers slashed transaction costs, making networks of specialized companies outperform monolithic vertical integration.
 - `INS-260330-B284` Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
 - `INS-260330-F512` Unlike physical store generics, digital platform owners control data, visibility algorithms, and distribution rules — creating advantages far beyond what traditional private-label brands enjoy.
+- `INS-260403-04C9` McDonald's rejected a 2015 investor proposal to spin off its real estate into a REIT, arguing that the integration of food operations and property ownership is what makes both sides work.
 - `INS-260330-27E8` Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
 - `INS-260330-F9B4` Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.
 - `INS-260330-6B18` Spotify spent over $1 billion on podcast acquisitions specifically to reduce the record labels' leverage and own content that didn't require paying per-stream royalties.

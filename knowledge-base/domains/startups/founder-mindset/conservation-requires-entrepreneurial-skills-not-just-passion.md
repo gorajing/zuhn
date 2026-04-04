@@ -49,7 +49,6 @@ stance: >-
   one.
 related:
   - INS-260322-F868
-  - INS-260323-BD2B
   - INS-260403-87CF
   - INS-260330-B09B
   - INS-260403-1287

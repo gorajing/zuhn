@@ -58,11 +58,11 @@ related:
   - INS-260324-1216
   - INS-260324-A9DF
   - INS-260327-9AD8
-  - INS-260327-048B
   - INS-260327-10A2
   - INS-260327-7C23
   - INS-260330-EDAC
   - PRI-260328-0993
+  - INS-260330-DC0D
 ---
 3G Capital's turnaround of Burger King is a textbook PE execution: take private, cut costs, franchise everything, improve margins, relist. Operating margins went from 15% to 69%. Revenue shifted from $2.5B to $1B (lower, but almost all profit). The company went from 1,500 corporate stores to 52. On paper, stunning.
 

@@ -11,6 +11,7 @@
 - `INS-260403-7CAF` Cheap debt capital creates viable business models that wouldn't exist under pure equity financing.
 - `INS-260327-4E10` Australia's negative gearing lets individuals write off real estate investment losses against personal income, converting high-taxed salary (45%) into low-taxed capital gains and driving house prices to 8x median income.
 - `INS-260330-16F7` McDonald's owns $30B+ in real estate and collects 8-15% of franchisee revenue as rent, making it more real estate investor than restaurant chain.
+- `INS-260403-94CA` McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
 - `INS-260324-4ACD` America has 50,000 self-storage facilities and 2 billion sq ft of extra storage for 300M people — Europe has 5,000 facilities for 750M people. It's a recession-proof bet on American overconsumption.
 - `INS-260324-0DC1` McDonald's franchisees pay ~$400K/year per store (4x Burger King/Wendy's), and the company's rent revenue is nearly double its food royalties — making it a real estate company that sells burgers as a side effect.
 - `INS-260403-2C50` The best deals for creative and entrepreneurial communities are in cities that were once rich and then became poor — solid infrastructure at bargain prices.

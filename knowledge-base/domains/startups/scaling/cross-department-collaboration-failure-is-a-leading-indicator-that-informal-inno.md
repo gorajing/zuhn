@@ -49,11 +49,11 @@ stance: >-
   signals that the organization has outgrown informal processes and needs
   structured tooling to prevent innovation stagnation.
 related:
+  - INS-260403-F112
   - INS-260403-C05F
   - INS-260403-5427
   - INS-260330-AE4B
   - INS-260403-4D80
-  - INS-260323-CD28
 ---
 The article identifies cross-department collaboration breakdown as a key trigger for investing in innovation management software. This is more significant than it appears on the surface — it's actually a scaling signal. Early-stage companies innovate through proximity and informal communication. As organizations grow, the surface area for serendipitous cross-pollination shrinks while the number of potential collaboration paths explodes combinatorially.
 

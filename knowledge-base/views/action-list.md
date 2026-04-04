@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3371 actionable insights
+Generated on 2026-04-04 | 3373 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2235,7 +2235,6 @@ Generated on 2026-04-04 | 3371 actionable insights
 - [INS-260403-532D] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 - [INS-260403-3058] Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
 - [INS-260403-9680] Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
-- [INS-260403-10D8] Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent.
 - [INS-260403-9A4C] Most startups die from giving up, not from insurmountable external forces.
 - [INS-260403-566D] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
 - [INS-260403-3835] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
@@ -2571,6 +2570,7 @@ Generated on 2026-04-04 | 3371 actionable insights
 - [INS-260403-5B89] Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
 - [INS-260403-8346] Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
 - [INS-260403-B274] Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
+- [INS-260403-8448] Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2850,6 +2850,7 @@ Generated on 2026-04-04 | 3371 actionable insights
 - [INS-260403-E7E1] When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
 - [INS-260403-1C09] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - [INS-260403-1358] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
+- [INS-260403-71A6] The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3535,6 +3536,7 @@ Generated on 2026-04-04 | 3371 actionable insights
 - [INS-260403-27AA] Change only one variable per A/B test to maintain causal attribution.
 - [INS-260403-F0C3] Always validate that customers want the core offering before optimizing secondary features.
 - [INS-260403-832E] Company launch and product launch are distinct events, and conflating them causes founders to delay fundraising unnecessarily.
+- [INS-260403-10D8] AI coaches that ask structured questions help teams articulate what they already know and pinpoint what they still need to learn about customers.
 - [INS-260403-B635] Having a few users who truly love your product matters infinitely more than having many indifferent users.
 - [INS-260403-8CE6] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
 - [INS-260403-45AA] Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.

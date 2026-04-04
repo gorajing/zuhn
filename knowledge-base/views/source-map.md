@@ -251,6 +251,7 @@ Generated on 2026-04-04 | 2421 sources
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
 | 2023 Annual Letter | blog | 5 | 2026-03-30 |
 | 2024 Annual Letter | blog | 5 | 2026-03-30 |
+| 2026 Tech Trends🔮, Startups That Win⚔️, Why Cambridge Associates Is Cautious⚠️ | blog | 5 | 2026-03-30 |
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
 | 500,000 | blog | 5 | 2026-03-31 |
@@ -436,6 +437,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Best Essay | blog | 5 | 2026-03-31 |
 | The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating Giants | blog | 5 | 2026-03-30 |
 | The Brand Age | blog | 5 | 2026-03-31 |
+| The Brutally Honest 10-Year Startup Journey Map | blog | 5 | 2026-03-30 |
 | The Bus Ticket Theory of Genius | blog | 5 | 2026-03-31 |
 | The Creator Economy 2025 | blog | 5 | 2026-03-30 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
@@ -593,6 +595,7 @@ Generated on 2026-04-04 | 2421 sources
 | How Barbers Really Make Money | youtube | 5 | 2026-03-24 |
 | How Does A Carburetor Work? | Transparent Carburetor at 28,546 fps Slow Mo - Smarter Every Day 259 | youtube | 5 | 2026-03-30 |
 | How I built an app that makes $2,000 in one month (from scratch) | youtube | 5 | 2026-03-22 |
+| How McDonald's Really Makes Money | youtube | 5 | 2026-03-30 |
 | How Meditation Works & Science-Based Effective Meditations | youtube | 5 | 2026-03-30 |
 | How North Korea Makes Money | youtube | 5 | 2026-03-30 |
 | How One Company Secretly Poisoned The Planet | youtube | 5 | 2026-03-30 |
@@ -775,9 +778,11 @@ Generated on 2026-04-04 | 2421 sources
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
+| Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
 | Having Kids | blog | 4 | 2026-03-31 |
+| Headcount Planning Template to Control Startup Burn | blog | 4 | 2026-03-30 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
 | How to Disagree | blog | 4 | 2026-03-31 |
@@ -795,6 +800,7 @@ Generated on 2026-04-04 | 2421 sources
 | Made in USA | blog | 4 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
+| Overcoming the “blank page” challenge with AI | blog | 4 | 2026-03-31 |
 | Political Backflow From Europe | blog | 4 | 2026-03-30 |
 | Post-Medium Publishing | blog | 4 | 2026-03-31 |
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
@@ -804,6 +810,7 @@ Generated on 2026-04-04 | 2421 sources
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
+| Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
@@ -828,6 +835,7 @@ Generated on 2026-04-04 | 2421 sources
 | What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
+| Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 4 | 2026-03-31 |
 | Why TV Lost | blog | 4 | 2026-03-31 |
@@ -1731,7 +1739,6 @@ Generated on 2026-04-04 | 2421 sources
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
 | 2020 Year in Review | blog | 0 | 2026-03-31 |
-| 2026 Tech Trends🔮, Startups That Win⚔️, Why Cambridge Associates Is Cautious⚠️ | blog | 0 | 2026-03-30 |
 | 234 Tech European Conferences in 2025 | blog | 0 | 2026-03-30 |
 | 25 proven tactics to accelerate AI adoption at your company | blog | 0 | 2026-03-31 |
 | 2,500+ Angel Investors for AI & SaaS Startups | blog | 0 | 2026-03-30 |
@@ -2018,7 +2025,6 @@ Generated on 2026-04-04 | 2421 sources
 | Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 0 | 2026-03-30 |
 | Free AI Hiring Kit for Startup Founders | blog | 0 | 2026-03-30 |
 | Free M&A Accretion Dilution Model 2026: Excel Template for EPS Analysis | blog | 0 | 2026-03-30 |
-| Free Product-Market Fit Template for Founders | blog | 0 | 2026-03-30 |
 | From 0 to 56,500: Celebrating One Year of The VC Corner 🚀🎉 | blog | 0 | 2026-03-30 |
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
 | From Numbers to Narrative: Financial Modeling for Founders 📊 | blog | 0 | 2026-03-30 |
@@ -2039,7 +2045,6 @@ Generated on 2026-04-04 | 2421 sources
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 0 | 2026-03-30 |
 | Haters | blog | 0 | 2026-03-31 |
-| Headcount Planning Template to Control Startup Burn | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 417.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 419.5 | blog | 0 | 2026-03-30 |
@@ -2136,7 +2141,6 @@ Generated on 2026-04-04 | 2421 sources
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 0 | 2026-03-30 |
 | Organic Startup Ideas | blog | 0 | 2026-03-31 |
 | Orthodox Privilege | blog | 0 | 2026-03-31 |
-| Overcoming the “blank page” challenge with AI | blog | 0 | 2026-03-31 |
 | Persuade xor Discover | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
@@ -2182,7 +2186,6 @@ Generated on 2026-04-04 | 2421 sources
 | SpaceX-xAI Merger: The $1.25T Company | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
 | Sponsorships | blog | 0 | 2026-03-30 |
-| Spring Meetups Everywhere 2026 - Call For Organizers | blog | 0 | 2026-03-30 |
 | Stablecoins Are Defense Tech | blog | 0 | 2026-03-31 |
 | Stages of Board Deck Preparation📝, How to be helpful as a VC📚, Secondary Market VC Funds🔄 | blog | 0 | 2026-03-30 |
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
@@ -2215,7 +2218,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 0 | 2026-03-30 |
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
 | The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
-| The Brutally Honest 10-Year Startup Journey Map | blog | 0 | 2026-03-30 |
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
 | The Case for Big Action to Regulate Artificial Intelligence | blog | 0 | 2026-03-30 |
 | The Citrini post is just a scary bedtime story | blog | 0 | 2026-03-30 |
@@ -2338,7 +2340,6 @@ Generated on 2026-04-04 | 2421 sources
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
 | Why Companies Invest in Open-Source Tech and Research | blog | 0 | 2026-03-30 |
-| Why Great Bioplatforms Will Always Win | blog | 0 | 2026-03-31 |
 | Why Hire Offshore?  | blog | 0 | 2026-03-30 |
 | Why It's Safe for Founders to Be Nice | blog | 0 | 2026-03-31 |
 | Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 0 | 2026-03-31 |
@@ -2391,7 +2392,6 @@ Generated on 2026-04-04 | 2421 sources
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |
 | How Cruise Ships Work | youtube | 0 | 2026-03-30 |
 | How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | youtube | 0 | 2026-03-30 |
-| How McDonald's Really Makes Money | youtube | 0 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 0 | 2026-03-30 |
 | How to enter ‘flow state’ on command | Steven Kotler for Big Think | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |

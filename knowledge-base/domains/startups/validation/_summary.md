@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 103 insights
+> 104 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -87,6 +87,7 @@
 - `INS-260327-FC5D` [high] Finding the one feature that drives the aha moment is very hard, but your customers will tell you through their behavior.
 - `INS-260403-B635` [high] Having a few users who truly love your product matters infinitely more than having many indifferent users.
 - `INS-260402-D8E7` [medium] Pretty much 100% of startups that make something popular manage to make money from it.
+- `INS-260403-10D8` [medium] AI coaches that ask structured questions help teams articulate what they already know and pinpoint what they still need to learn about customers.
 - `INS-260323-A2E5` [medium] Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
 - `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260403-3569` [medium] Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
