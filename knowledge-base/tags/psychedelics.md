@@ -1,5 +1,7 @@
 # Tag: psychedelics
 
+- `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
+- `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260326-2582` All lasting transformation modalities work by bypassing the thinking mind to access the deeper layer where behavioral change actually happens.
 - `INS-260330-2C6A` The psychedelic therapy model concentrates risk into a single supervised session rather than distributing it across years of daily medication with cumulative side effects.
 - `INS-260325-D7B1` Psychedelics are non-specific amplifiers — you can have euphoria or hell, and the difference is mostly determined by set (your mindset) and setting (your environment), not the drug itself.
@@ -7,8 +9,6 @@
 - `INS-260325-3AE4` fMRI studies show psychedelics produce massive increases in communication between brain areas that normally never talk to each other — breaking down the brain's usual compartmentalization.
 - `INS-260325-6576` Animal research suggests psychedelics increase neuroplasticity in the days after use, creating a window where new patterns stick more easily — explaining why single sessions produce lasting change.
 - `INS-260330-A5B0` Johns Hopkins uses 30-40mg psilocybin (heroic dose) with trained guides, eye shades, curated music, and 6-8 hours of continuous support per session.
-- `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
-- `INS-260330-4079` Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260403-7639` MDMA's therapeutic mechanism is enabling self-compassion — people can face traumatic memories without the self-loathing that normally blocks processing.
 - `INS-260330-EE16` Johns Hopkins research shows that the intensity of mystical-type experiences, not just drug dose, predicts whether patients achieve lasting therapeutic benefits from psilocybin.
 - `INS-260330-2304` Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.

@@ -1,9 +1,9 @@
 # Tag: failure
 
 - `INS-260403-5C89` Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
-- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260329-A218` Deliberately exposing learners to common errors builds debugging intuition that error-avoidance pedagogy cannot produce.
 - `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260325-A006` Experimental archaeology hasn't solved how the pyramids were built, but it has definitively ruled out ramp theories -- the ramps would require more material than the pyramids themselves.
 - `INS-260325-B8D4` The optimal failure response is 'forgive and remember' -- psychological safety for admission plus systematic learning from mistakes.
@@ -11,11 +11,11 @@
 - `INS-260327-9F46` Ever tried. Ever failed. No matter. Try again. Fail again. Fail better. - When failure is the expected method rather than the feared outcome, it loses its paralyzing power.
 - `INS-260329-5FB5` Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
 - `INS-260403-39DD` Losing fortunes and rebuilding them is the empirical test that separates skill-based wealth creation from luck-based wealth.
-- `INS-260326-44C9` The Decembrist revolt of 1825 failed completely within hours, but every subsequent Russian revolutionary movement traced its lineage back to those officers on Senate Square.
-- `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
-- `INS-260323-DEC3` The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
-- `INS-260323-FDB8` We only study winners, but losers often executed the same playbook — luck and timing separated them.
 - `INS-260325-887D` The three failure responses are forgive-and-forget (no learning), blame-and-humiliate (no honesty), and forgive-and-remember (learning happens) — only the third works.
 - `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
 - `INS-260323-5F8A` Investors who back founders with 3-4 failures are buying battle-tested pattern recognition that lucky first-timers never develop.
 - `INS-260325-CF3E` People cannot learn from failure until they separate 'I made a mistake' from 'I am a failure' — the identity conflation blocks all forward motion.
+- `INS-260326-44C9` The Decembrist revolt of 1825 failed completely within hours, but every subsequent Russian revolutionary movement traced its lineage back to those officers on Senate Square.
+- `INS-260323-8C53` Open Secret's marketplace failure created the financial discipline that enabled 3x growth while staying profitable — the crisis was the catalyst.
+- `INS-260323-DEC3` The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
+- `INS-260323-FDB8` We only study winners, but losers often executed the same playbook — luck and timing separated them.

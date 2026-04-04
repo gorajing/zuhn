@@ -5,8 +5,8 @@
 - `INS-260323-9955` The principle of least action provides a single mathematical framework that generates all laws of physics — classical mechanics, relativity, electrodynamics — by simply writing down the correct Lagrangian.
 - `INS-260330-F140` Apply four gates (Real, Important, Specific, Aligned) before entering any disagreement to give it the best chance of being productive.
 - `INS-260330-A370` The RISA framework (Real, Important, Specific, Aligned) is a four-question pre-flight check that prevents unproductive arguments before they begin.
-- `INS-260330-4F49` Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
+- `INS-260330-4F49` Rooting vectors at the origin trades away free placement for a coordinate system that makes computation possible.
 - `INS-260330-3BB5` Aerogel works as a physical insecticide by absorbing moisture from insect exoskeletons, achieving pest control without neurotoxins.
 - `INS-260330-202A` Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes.
 - `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other.

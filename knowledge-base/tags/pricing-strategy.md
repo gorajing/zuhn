@@ -28,5 +28,5 @@
 - `INS-260330-1D9D` Charge for your product as early as possible because paying customers give brutally honest feedback that free users won't.
 - `INS-260329-ACFF` Price either extremely high for a select few or extremely low for everyone — the middle kills businesses.
 - `INS-260327-4DE7` Instead of free trials that provide no commitment or revenue, offer annual agreements with a 30-day satisfaction guarantee — the default becomes 'customer' rather than 'prospect.'
-- `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.
 - `INS-260403-D444` Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
+- `INS-260329-AAD1` Start free to get reps and feedback, then systematically reduce discounts in batches of five customers until you reach and exceed full price.

@@ -1,7 +1,7 @@
 # Tag: brute-force
 
-- `INS-260330-184C` Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260404-B04F` Plants produce 40 billion tons of a half-broken enzyme rather than evolving a better one, and still dominate Earth's biomass.
+- `INS-260330-184C` Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260329-FCD3` What appears as computer intelligence is actually extreme speed compensating for complete lack of understanding — the CPU asks 'what next' three billion times per second without comprehending any of it.
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260330-ED9D` Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.

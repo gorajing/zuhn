@@ -56,6 +56,7 @@ Generated on 2026-04-04 | 2421 sources
 | REPROGRAM your mind to be rich in 22 minutes.... | youtube | 13 | 2026-03-30 |
 | The Greatest Speech in History? Alexander the Great and the Opis Mutiny | youtube | 13 | 2026-03-26 |
 | Why Do We Kiss? | youtube | 13 | 2026-03-30 |
+| February 2025 Startups Raising Capital | blog | 12 | 2026-03-30 |
 | How to Reverse POOR Eyesight (Especially Over 50!) | youtube | 12 | 2026-03-26 |
 | People You Shouldn't Fall In Love With | youtube | 12 | 2026-03-26 |
 | The greatest revolution in the history of medicine | Andrew Steele | youtube | 12 | 2026-03-25 |
@@ -146,9 +147,8 @@ Generated on 2026-04-04 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | 2504.19874v1 | pdf | 8 | 2026-03-26 |
-| February 2025 Startups Raising Capital | blog | 8 | 2026-03-30 |
+| After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -202,8 +202,8 @@ Generated on 2026-04-04 | 2421 sources
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
@@ -242,8 +242,8 @@ Generated on 2026-04-04 | 2421 sources
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
+| 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
@@ -844,6 +844,7 @@ Generated on 2026-04-04 | 2421 sources
 | Assess & Design Your Innovation Portfolio | blog | 4 | 2026-03-31 |
 | Assess how your Innovation Programs are Performing | blog | 4 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 4 | 2026-03-31 |
+| Barriers to Entry in VC🚧, Rise of the AI Wrappers🤖, Google's AI Future Report 🔮 | blog | 4 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
@@ -2043,7 +2044,6 @@ Generated on 2026-04-04 | 2421 sources
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |
 | Ask Me Anything session with Alex & Yves | blog | 0 | 2026-03-31 |
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
-| Barriers to Entry in VC🚧, Rise of the AI Wrappers🤖, Google's AI Future Report 🔮 | blog | 0 | 2026-03-30 |
 | Become an Innovation Expert at the 2020 Strategyzer Bootcamp | blog | 0 | 2026-03-31 |
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
