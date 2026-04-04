@@ -48,6 +48,7 @@ related:
   - INS-260327-7BB5
   - INS-260327-4440
   - INS-260323-6043
+  - INS-260404-AF08
 stance: 'GameStop had 4,400+ stores and was invaluable to game publishers'
 ---
 GameStop was the only specialty video game retailer, with 4x the locations of Abercrombie and 5x Best Buy. Publishers needed GameStop for physical distribution. Then digital distribution arrived and publishers could sell direct, keeping the retailer's margin for themselves. The disintermediation was ruthless — the same publishers who depended on GameStop cut them out without hesitation. GameStop tried to reinvent as a tech startup (web3, NFTs, blockchain) by chasing every trend. The universal lesson: when markets mature and vendors can cut out the middleman, they will — even if that middleman was essential to their growth.

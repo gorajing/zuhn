@@ -52,10 +52,10 @@ stance: >-
   persona produces exceptional infrastructure but brittle legitimacy.
 related:
   - INS-260327-F417
+  - INS-260404-3FDF
   - PRI-260328-1D90
   - INS-260327-1B60
   - INS-260325-FDF5
-  - INS-260330-85B8
 evidence:
   - id: INS-260327-F417
     type: TRANSFERS_TO

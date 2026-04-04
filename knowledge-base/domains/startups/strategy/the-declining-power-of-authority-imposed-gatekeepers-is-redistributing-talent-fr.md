@@ -49,7 +49,6 @@ stance: >-
   migrating from fields that reward gaming authority-imposed tests to fields
   that reward doing genuinely good work, and this migration is accelerating.
 related:
-  - INS-260329-C092
   - INS-260402-E22E
   - PRI-260328-7A4D
   - PRI-260323-FA42

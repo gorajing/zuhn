@@ -52,5 +52,6 @@ related:
   - INS-260403-8C56
   - PRI-260403-5DEA
   - INS-260330-D41A
+  - INS-260404-6B73
 ---
 Steve Blank's insight that new markets endure years of flat revenue before a tipping point fundamentally changes the capital strategy. You cannot apply existing-market playbooks—there's no market share to grab because the market doesn't exist yet. The Iridium example shows both timing and capital misallocation: by the time their satellite network launched, terrestrial cell towers had made the service irrelevant. Founders entering genuinely new categories need either exceptional cash reserves or a business model that generates revenue from adjacent existing markets while waiting for the new one to materialize. The critical mistake is treating market creation spend like market capture spend and expecting proportional returns.

@@ -48,6 +48,7 @@ related:
   - INS-260327-F2DF
   - INS-260327-C75F
   - INS-260327-2B62
+  - INS-260404-AF08
 ---
 Paul Graham observes that Time and The Economist cost nearly identical amounts per page despite vast quality differences. Book prices track production costs, not literary merit. This reveals that publishers were always in the business of marking up paper, not selling ideas.
 

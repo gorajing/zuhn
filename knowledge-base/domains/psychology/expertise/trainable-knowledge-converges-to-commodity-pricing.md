@@ -50,8 +50,8 @@ related:
   - INS-260329-5427
   - INS-260329-BC36
   - INS-260403-449D
+  - INS-260404-CE26
   - INS-260329-FA1C
-  - INS-260329-32A4
 ---
 Naval frames a sharp economic test for career value: if you can be trained for it, you can be replaced. When knowledge is codifiable enough to put into a curriculum, the supply of people with that knowledge scales rapidly — through schools, bootcamps, and eventually automation. This drives compensation toward the marginal cost of producing another trained worker.
 

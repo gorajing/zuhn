@@ -46,11 +46,11 @@ stance: >-
   value was never real in the first place, which means 'wiped out' headlines
   systematically mislead about economic impact.
 related:
+  - INS-260404-6B73
   - PRI-260328-2C4C
   - PRI-260324-3081
   - INS-260324-468C
   - INS-260323-3CD0
-  - INS-260323-6258
 evidence:
   - id: INS-260324-468C
     type: SUPPORTS

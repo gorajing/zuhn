@@ -56,7 +56,6 @@ related:
   - PRI-260328-6CDE
   - INS-260330-F82A
   - INS-260323-8C53
-  - INS-260327-D522
 stance: >-
   Friedman and Schwartz's 12-year study proved the Great Depression was caused
   by a 30% drop in money supply due to Fed inaction

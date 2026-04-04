@@ -49,8 +49,6 @@ stance: >-
   be replicated by even the most sophisticated prompts given to a foundation
   model.
 related:
-  - INS-260323-D18D
-  - INS-260323-47D8
   - INS-260330-0102
   - INS-260322-71E4
   - PRI-260403-67FC

@@ -59,7 +59,6 @@ stance: >-
   confirmed the 4X annual cost reduction trend while demonstrating that China
   has achieved frontier model engineering capability for the first time.
 related:
-  - INS-260322-299C
   - INS-260320-901C
   - INS-260322-5790
   - INS-260327-40E3
@@ -67,6 +66,7 @@ related:
   - INS-260403-5B46
   - INS-260327-E1EB
   - PRI-260328-D5EB
+  - INS-260404-6B73
 evidence:
   - id: INS-260322-5790
     type: SUPPORTS

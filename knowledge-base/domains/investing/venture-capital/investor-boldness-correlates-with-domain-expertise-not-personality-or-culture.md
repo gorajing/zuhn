@@ -47,7 +47,6 @@ stance: >-
 related:
   - INS-260325-13C2
   - INS-260325-5A72
-  - INS-260326-6D53
   - INS-260330-2413
   - INS-260330-5BC4
   - INS-260323-1B42
@@ -55,6 +54,7 @@ related:
   - INS-260403-8291
   - INS-260330-6204
   - INS-260403-4717
+  - INS-260403-D882
 ---
 Graham observes that Silicon Valley investors consistently outmaneuver Boston investors not because they are cowboys, but because they understand startups deeply enough to act decisively. The Facebook example illustrates this perfectly: Boston VCs saw the deal first but passed, while west coast investors recognized the asymmetric upside and moved fast.
 

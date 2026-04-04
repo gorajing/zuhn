@@ -52,7 +52,7 @@ related:
   - INS-260329-5901
   - INS-260321-D01E
   - INS-260329-F969
-  - INS-260327-5E40
+  - INS-260404-CE26
   - INS-260327-9838
 stance: >-
   Conversations with jailbroken LLMs like Dan and Sydney become part of future

@@ -1,6 +1,6 @@
 # Topic: platform-shifts
 
-> 33 insights
+> 34 insights
 
 - `INS-260403-5DD7` [high] Selling AI as the product rather than as the means to a complete outcome creates a fragile, easily copied competitive position.
 - `INS-260327-561F` [high] AI ethics is not a feature to patch later but foundational infrastructure -- like rebar in a building -- without which even the best AI technology inevitably becomes a surveillance tool.
@@ -15,6 +15,7 @@
 - `INS-260323-6230` [high] NVIDIA chose gaming as its first market because it was large enough to fund massive R&D, creating a flywheel between technology investment and market scale that later enabled the AI revolution.
 - `INS-260325-A782` [high] Transistors are approaching 5 atoms across, at which point electrons tunnel through causing short circuits — Moore's Law will physically end, and quantum computing is the only successor.
 - `INS-260322-5678` [high] Each platform shift (PCs, web, mobile) succeeded not by doing the previous thing better, but by enabling entirely new behaviors — AI will likely follow the same pattern of creating new categories rather than replacing existing software.
+- `INS-260404-83C6` [high] DeepSeek proved frontier AI can emerge from a hedge fund side project in China, not just from billion-dollar Western labs.
 - `INS-260330-C071` [high] Architecture transitions reliably produce 40-50% gains for native workloads while making non-native workflows temporarily unusable.
 - `INS-260323-1B0B` [high] The sense of presence in AR/VR is less about any single feature being great and more about no single flaw breaking the illusion.
 - `INS-260325-BE3A` [high] A digital computer takes hundreds of years to factorize a 50-digit number; a quantum computer could do it almost instantly — every national secret encoded in digital encryption is theoretically vulnerable.

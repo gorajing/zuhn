@@ -51,7 +51,6 @@ related:
   - INS-260326-8E6D
   - INS-260329-C689
   - INS-260329-64B8
-  - INS-260327-24F4
   - INS-260329-6130
 stance: >-
   Repeatedly putting yourself in high-stakes situations where failure is likely

@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 188 insights
+> 190 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -52,6 +52,7 @@
 - `INS-260324-D274` [high] Cupcakes (Sprinkles), froyo (Pinkberry), cookies (Crumbl) — every dessert fad follows identical dynamics: trendsetter creates category, copycats flood, saturation hits, market crashes.
 - `INS-260404-CC9A` [high] Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
 - `INS-260327-7681` [high] Western Unions high fees are sustainable because its customers — immigrants sending remittances, unbanked populations — 
+- `INS-260404-35B6` [high] Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
 - `INS-260324-2AD8` [high] European football clubs generate billions in revenue from merchandise, TV rights, and sponsorships — yet they're barely cash-flow positive because they spend everything on player salaries to sustain on-field success.
 - `INS-260329-2EAA` [high] Franchise royalties consume ~60% of a 10-margin operator's take-home, designed to keep franchisees running but not rich.
 - `INS-260327-EF89` [high] Franchise brands face an inherent quality control problem because brand perception depends on the operational quality of
@@ -179,6 +180,7 @@
 - `INS-260404-C8FA` [medium] BMC blocks form an integrated system where revenue requires a value proposition, which requires infrastructure, which must cost less than it earns.
 - `INS-260403-97F5` [medium] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260403-0AF7` [medium] Existential constraints strip away incrementalism and force founders into genuinely novel business model territory.
+- `INS-260404-9D4E` [medium] Declining businesses should default to renovation over elimination because existing infrastructure has recoverable value.
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` [medium] Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260403-E2D9` [medium] Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive, making the wage premium a profit driver rather than a cost.

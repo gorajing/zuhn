@@ -49,7 +49,6 @@ resolutions:
 related:
   - INS-260322-0C28
   - INS-260323-282F
-  - INS-260323-FEAB
   - PRI-260328-6A8D
   - INS-260327-2B62
   - INS-260403-1C25
@@ -57,6 +56,7 @@ related:
   - INS-260329-C8C7
   - INS-260323-7D3C
   - INS-260321-AA91
+  - INS-260327-4233
 stance: >-
   The best consumer AI companies achieve over 100% net revenue retention through
   usage-based pricing on top of subscriptions

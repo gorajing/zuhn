@@ -52,7 +52,6 @@ related:
   - PRI-260403-5FC4
   - INS-260321-B7CB
   - INS-260327-DECA
-  - INS-260327-C4C8
   - INS-260328-8CCC
 evidence:
   - id: INS-260321-B7CB

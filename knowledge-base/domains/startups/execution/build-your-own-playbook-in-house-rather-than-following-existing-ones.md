@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260322-AFE9
   - INS-260328-7942
+  - INS-260404-83C6
   - INS-260328-5431
   - INS-260322-D58A
-  - INS-260327-3A71
 evidence:
   - id: INS-260322-AFE9
     type: TRANSFERS_TO

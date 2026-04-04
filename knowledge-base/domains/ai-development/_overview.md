@@ -1,6 +1,6 @@
 # Domain: ai-development
 
-> 949 insights across 22 topics
+> 951 insights across 22 topics
 
 ## Topics
 
@@ -20,11 +20,11 @@
 | future-of-work | 42 | Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. |
 | human-ai-relationship | 49 | When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46. |
 | limitations | 39 | The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language. |
-| llm-costs | 10 | OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever. |
+| llm-costs | 11 | OpenRouter offers 50-1000 free requests/day on certain models — not trial credits, actually free forever. |
 | llm-training | 45 | Run systematic ablation experiments on architecture, data mixtures, and hyperparameters at small scale before committing to a full training run -- this consumes ~37% of total compute but prevents costly mistakes. |
 | mental-models | 11 | All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free. |
 | pedagogy | 1 | Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload. |
 | platform-dynamics | 22 | OpenAI doesn't treat agents as a separate category — ChatGPT, Codex CLI, Sora, and the API are all just different interfaces for deploying the same underlying intelligence, each optimized for different user contexts. |
-| platform-shifts | 33 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
+| platform-shifts | 34 | AI will amplify human mental powers the same way mechanical engines amplified physical powers, creating a permanent civilizational threshold that cannot be uncrossed. |
 | product-strategy | 70 | MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows. |
 | system-building | 209 | Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. |

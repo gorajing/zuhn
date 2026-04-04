@@ -57,7 +57,7 @@ related:
   - INS-260327-DCF8
   - INS-260327-BEFF
   - INS-260323-7A50
-  - INS-260323-584D
+  - INS-260404-CE26
   - INS-260327-9816
 ---
 Jim Fan identifies the core bottleneck for physical AI: robot training data can't be scraped from the internet and must be collected via expensive teleoperation (limited to 24 hours per robot per day). Classical simulation (digital twins) offers speed (10,000x real-time) but limited diversity. Video diffusion models offer the breakthrough: trained on hundreds of millions of internet videos, they compress a model of the physical world that can be fine-tuned on domain-specific robot lab data to generate photorealistic training scenarios.

@@ -48,7 +48,6 @@ related:
   - INS-260330-242D
   - INS-260327-38F0
   - INS-260327-4445
-  - INS-260402-0A49
 stance: >-
   In an era where every fast food chain had given up on innovation, Popeye's
   chicken sandwich created a viral sensation that put the brand on par wit...

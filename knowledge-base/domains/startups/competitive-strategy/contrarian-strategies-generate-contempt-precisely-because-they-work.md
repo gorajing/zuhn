@@ -50,10 +50,10 @@ related:
   - INS-260329-C092
   - INS-260403-268F
   - PRI-260327-3BD9
+  - INS-260404-89C3
   - PRI-260325-1640
   - INS-260323-86FA
   - INS-260329-1DA3
-  - INS-260330-B2C5
 ---
 Graham noticed that his six principles practically form a recipe for generating contemptuous reactions: simple solutions don't seem impressive, overlooked problems seem unimportant, informal delivery lacks credibility signals, and crude v1s look incomplete. This pattern repeated across Viaweb, Y Combinator, his essays, and Arc.
 

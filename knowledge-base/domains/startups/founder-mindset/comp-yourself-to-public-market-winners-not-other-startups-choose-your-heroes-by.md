@@ -48,6 +48,7 @@ related:
   - INS-260402-E140
   - INS-260403-8E25
   - INS-260402-96E2
+  - INS-260404-D149
 stance: >-
   Founders resist comping themselves to public companies because it feels like
   comparing yourself to astronauts

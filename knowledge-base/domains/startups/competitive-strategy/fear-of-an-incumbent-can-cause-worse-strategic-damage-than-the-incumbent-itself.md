@@ -55,5 +55,6 @@ related:
   - INS-260327-9DA6
   - INS-260402-E2AF
   - INS-260403-3A9D
+  - INS-260404-BA3D
 ---
 In the mid-1990s, Microsoft had just destroyed Netscape, and the fear was rational — Microsoft was several times more powerful than Google is today, and far more aggressive. Yahoo's response was to position itself as a media company, reasoning that Microsoft wouldn't bother crushing a media company the way it crushed tech competitors. But this defensive positioning became Yahoo's actual identity, causing them to underinvest in technology and engineering culture. The irony is that Netscape turned out to be Microsoft's last major victim; Yahoo's fear was based on extrapolating a threat that was already peaking. The general principle: reactive strategic positioning designed to avoid a competitor's strengths often causes more self-inflicted damage than the competitor would have caused directly. It's better to compete on your actual strengths and risk confrontation than to contort your identity to avoid a fight that may never come.

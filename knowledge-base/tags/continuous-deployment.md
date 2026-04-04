@@ -1,3 +1,4 @@
 # Tag: continuous-deployment
 
 - `INS-260330-19F1` Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss.
+- `INS-260404-AF08` Viaweb did continuous releases in 1997 and fabricated version numbers only because the trade press expected them.

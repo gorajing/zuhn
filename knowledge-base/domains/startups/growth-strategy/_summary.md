@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 61 insights
+> 62 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
@@ -19,6 +19,7 @@
 - `INS-260323-73AB` [high] Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260330-2413` [high] Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
 - `INS-260403-EDFC` [high] Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
+- `INS-260404-8750` [high] Viaweb paid $16k/month for PR because in the 1990s, press mentions were the only way to get found — Google didn't even exist yet.
 - `INS-260329-3DD7` [high] Raise price, decrease cost, increase frequency, cross-sell, increase quantity, upgrade quality, downsell, and offer economy tiers — these 8 levers make any single customer worth more.
 - `INS-260322-DBEA` [high] Build free tools targeting SEO keywords to drive organic traffic instead of doing traditional marketing.
 - `INS-260328-C12D` [high] Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.

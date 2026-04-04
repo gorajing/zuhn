@@ -51,10 +51,10 @@ resolutions:
     are in a two-horse race with China rather than a one-horse race alone.
 related:
   - PRI-260328-A82C
+  - INS-260404-83C6
   - INS-260327-E0B0
   - INS-260403-CEBA
   - INS-260325-4E96
-  - INS-260327-422B
 stance: >-
   DeepSeek's surprise replication of frontier model capabilities from a hedge
   fund proves that AI leads are inherently temporary

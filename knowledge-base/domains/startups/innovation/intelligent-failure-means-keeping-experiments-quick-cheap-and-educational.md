@@ -56,7 +56,7 @@ related:
   - INS-260403-5C89
   - INS-260403-8D87
   - INS-260403-4050
-  - INS-260323-19A8
+  - INS-260404-2E6C
 ---
 The concept of 'intelligent failure' reframes the innovation challenge from picking winners to managing a rapid experimentation process. The goal is not to avoid failure — that is statistically impossible when exploring genuine uncertainty — but to ensure each failure is small enough to survive and informative enough to guide the next experiment.
 

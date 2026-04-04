@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 499 insights
+> 501 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -463,6 +463,7 @@
 - `INS-260329-4B99` [medium] Top-20 schools still deliver outsized ROI through brand and ruling-class network access; mid-tier schools cost too much for what they deliver.
 - `INS-260402-7E2A` [medium] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - `INS-260403-CEBA` [medium] Technology leads are temporary; customer understanding compounds into durable competitive advantage.
+- `INS-260404-BA3D` [medium] Viaweb put cgi-bin in their URLs specifically to fool competitors into thinking they used a different technology stack.
 - `INS-260330-DCE1` [medium] Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
 - `INS-260403-6412` [medium] Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
 - `INS-260330-F116` [medium] The early Islamic empire's rapid territorial expansion was enabled by centuries of Byzantine-Sassanian warfare that left both empires depleted — plus plague weakening the Sassanians further.
@@ -473,6 +474,7 @@
 - `INS-260330-E615` [medium] McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.
 - `INS-260330-8E95` [medium] The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.
 - `INS-260329-9BC0` [medium] Hybrid cloud deployments are almost always driven by legacy constraints and organizational inertia rather than optimal architecture decisions.
+- `INS-260404-D149` [medium] OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 - `INS-260403-1D43` [medium] Incumbent game studios will use AI to cut costs and add depth to existing formats, but category-defining breakthroughs require AI-native thinking from new entrants.
 - `INS-260330-E5F2` [medium] Netflix will never produce documentaries about ongoing fraud because a single lawsuit threatens institutional-scale liability, while independent journalists like Coffeezilla face proportionally lower consequences.
 - `INS-260327-C54D` [medium] Large enterprises like government, oil/gas, and airlines are now buying AI faster than digital natives because board pressure ('what's your AI strategy?') creates top-down urgency that bypasses careful testing cycles.

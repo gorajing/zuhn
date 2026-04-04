@@ -57,7 +57,6 @@ stance: >-
   specifically for their algorithmic promotion decisions, because amplification
   is an editorial act equivalent to putting a story on the front page.
 related:
-  - INS-260321-D01E
   - INS-260330-F734
   - PRI-260328-0C15
   - INS-260403-66AE

@@ -54,15 +54,15 @@ stance: >-
   down when the AI becomes smarter than its trainers.
 related:
   - INS-260322-C935
-  - INS-260323-13C0
   - INS-260323-D18D
   - PRI-260403-67FC
   - PRI-260327-8D8C
   - PRI-260328-6BC1
-  - PRI-260403-EA13
+  - INS-260404-CE26
   - INS-260329-5F96
   - INS-260330-0C0C
   - INS-260330-CAE6
+  - INS-260403-3517
 evidence:
   - id: INS-260329-9A5A
     type: TRANSFERS_TO

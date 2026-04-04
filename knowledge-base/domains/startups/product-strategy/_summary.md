@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 50 insights
+> 51 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -16,6 +16,7 @@
 - `INS-260403-E86E` [high] The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
 - `INS-260403-0041` [high] Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
 - `INS-260330-0BBA` [high] Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
+- `INS-260404-3FDF` [high] Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
 - `INS-260330-C870` [high] Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
 - `INS-260330-F7F4` [high] Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
 - `INS-260403-0D90` [high] Customers rarely choose products on function alone — emotional belonging and social perception are often the decisive factors.

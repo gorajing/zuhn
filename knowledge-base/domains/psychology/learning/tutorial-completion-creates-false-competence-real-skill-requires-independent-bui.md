@@ -50,8 +50,8 @@ related:
   - INS-260330-63B8
   - PRI-260328-909D
   - INS-260329-F21F
+  - INS-260404-89C3
   - INS-260330-053D
-  - PRI-260328-BF1E
 ---
 The course explicitly warns that completing the tutorial is just the beginning — you must build projects on your own to truly learn. This reflects a well-documented learning science phenomenon: passive consumption (watching, reading, following along) activates recognition memory, which feels like understanding but fails to transfer to production tasks.
 

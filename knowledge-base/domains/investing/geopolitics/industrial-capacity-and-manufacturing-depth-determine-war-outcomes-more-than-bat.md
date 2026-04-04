@@ -50,7 +50,6 @@ stance: >-
   materiel wins regardless of tactical performance, because industrial output
   sets the ceiling on military capability.
 related:
-  - INS-260320-901C
   - INS-260324-A9DF
   - INS-260323-3CC2
   - INS-260330-EB1B

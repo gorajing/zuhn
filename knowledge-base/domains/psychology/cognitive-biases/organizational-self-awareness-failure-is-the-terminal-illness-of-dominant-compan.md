@@ -49,5 +49,6 @@ related:
   - INS-260330-F800
   - INS-260403-B557
   - INS-260330-56B2
+  - INS-260404-BA3D
 ---
 Graham's most cutting observation is that Microsoft's fatal flaw wasn't Google, the web, or Apple — it was that they didn't realize how far behind they'd fallen. They still believed they could write competitive software internally, measuring themselves against desktop-era standards while the world had moved on. This organizational version of the Dunning-Kruger effect is what makes decline terminal: you can't fix what you don't see. A company that recognizes its weakness can pivot (as Apple did under Jobs' return), but one that remains blind to its own decline will dismiss every warning signal as irrelevant noise. The practical test: if your organization's response to competitive threats is 'we can build that ourselves,' that confidence itself may be the disease.

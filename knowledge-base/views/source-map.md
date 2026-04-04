@@ -440,6 +440,7 @@ Generated on 2026-04-04 | 2421 sources
 | SEIU Delenda Est | blog | 5 | 2026-03-30 |
 | Series A & B Cap Table Guide + Free Excel Template | blog | 5 | 2026-03-30 |
 | Slightly Against The "Other People's Money" Argument Against Aid | blog | 5 | 2026-03-30 |
+| Snapshot: Viaweb, June 1998 | blog | 5 | 2026-03-31 |
 | Solo Founders Take the Lead🔥, Startup Market Report📊, Projected 2026 IPOs🚀 | blog | 5 | 2026-03-30 |
 | Some Heroes | blog | 5 | 2026-03-31 |
 | SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
@@ -862,6 +863,7 @@ Generated on 2026-04-04 | 2421 sources
 | Business Model Innovation in Existing Companies | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 1: Manage The Existing Business | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 4 | 2026-03-31 |
+| Business Model Portfolio Part 3: The Business Portfolio Map | blog | 4 | 2026-03-31 |
 | Business Strategy: The Business Model Patterns | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
@@ -922,6 +924,7 @@ Generated on 2026-04-04 | 2421 sources
 | Is There Such a Thing as Good Taste? | blog | 4 | 2026-03-31 |
 | It's Charisma, Stupid | blog | 4 | 2026-03-31 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
+| Keep Your Identity Small | blog | 4 | 2026-03-31 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
 | Learn With Me | blog | 4 | 2026-03-30 |
 | Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 4 | 2026-03-30 |
@@ -960,6 +963,7 @@ Generated on 2026-04-04 | 2421 sources
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 4 | 2026-03-30 |
+| Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 4 | 2026-03-30 |
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 4 | 2026-03-30 |
 | Shameless Guesses, Not Hallucinations | blog | 4 | 2026-03-30 |
 | Six Principles for Making New Things | blog | 4 | 2026-03-31 |
@@ -1008,6 +1012,7 @@ Generated on 2026-04-04 | 2421 sources
 |  | blog | 4 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 4 | 2026-03-30 |
+| What Can Quantum Computers Actually Do | blog | 4 | 2026-03-30 |
 | What happens if the world pulls its money out of America? | blog | 4 | 2026-03-30 |
 | What I Read This Week… | blog | 4 | 2026-03-30 |
 | What to Do | blog | 4 | 2026-03-31 |
@@ -1056,6 +1061,7 @@ Generated on 2026-04-04 | 2421 sources
 | Behind the scenes of a $20M Series A - Part 1 | youtube | 4 | 2026-03-22 |
 | Ben Horowitz on Investing in AI: AI Bubbles, Economic Impact, and VC Acceleration | youtube | 4 | 2026-03-22 |
 | Ben Horowitz On What Makes a Great Founder | youtube | 4 | 2026-03-26 |
+| Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble? | youtube | 4 | 2026-03-30 |
 | Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413 | youtube | 4 | 2026-03-24 |
 | Boarding a US NAVY NUCLEAR SUBMARINE in the Arctic - Smarter Every Day 240 | youtube | 4 | 2026-03-30 |
 | But what is a Fourier series?  From heat flow to drawing with circles | DE4 | youtube | 4 | 2026-03-30 |
@@ -2076,7 +2082,6 @@ Generated on 2026-04-04 | 2421 sources
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
-| Business Model Portfolio Part 3: The Business Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
 | Change Your Name | blog | 0 | 2026-03-31 |
 | China is quietly looking weaker | blog | 0 | 2026-03-30 |
@@ -2211,7 +2216,6 @@ Generated on 2026-04-04 | 2421 sources
 | Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 0 | 2026-03-30 |
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
-| Keep Your Identity Small | blog | 0 | 2026-03-31 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Learning from Founders | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
@@ -2259,14 +2263,12 @@ Generated on 2026-04-04 | 2421 sources
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
 | Schlep Blindness | blog | 0 | 2026-03-31 |
 | See Randomness | blog | 0 | 2026-03-31 |
-| Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 0 | 2026-03-30 |
 | Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 0 | 2026-03-30 |
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
 | Shield AI Air Force Deal, Google's TurboQuant, and Meta's Brain-Predictive AI | blog | 0 | 2026-03-30 |
 | Short Dive: The Trump Administration's Fiscal Strategy | blog | 0 | 2026-03-30 |
 | Smaller Funds Outperform📈, When Machines Learn to Speak🗣️, Venture Trends Q1 2025📊 | blog | 0 | 2026-03-30 |
-| Snapshot: Viaweb, June 1998 | blog | 0 | 2026-03-31 |
 | Software with a Soul: AI's Underestimated Frontier | blog | 0 | 2026-03-31 |
 | Something feels weird about this economy | blog | 0 | 2026-03-30 |
 | SpaceX-xAI Merger: The $1.25T Company | blog | 0 | 2026-03-30 |
@@ -2368,7 +2370,6 @@ Generated on 2026-04-04 | 2421 sources
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | Welcome to Chaos World | blog | 0 | 2026-03-30 |
-| What Can Quantum Computers Actually Do | blog | 0 | 2026-03-30 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
 | What Kate Saw in Silicon Valley | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |
@@ -2405,7 +2406,6 @@ Generated on 2026-04-04 | 2421 sources
 | Anti-Gravity Wheel? | youtube | 0 | 2026-03-30 |
 | Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 0 | 2026-03-30 |
 | Backspin Basketball Flies Off Dam | youtube | 0 | 2026-03-30 |
-| Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble? | youtube | 0 | 2026-03-30 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
 | C in 100 Seconds | youtube | 0 | 2026-03-30 |

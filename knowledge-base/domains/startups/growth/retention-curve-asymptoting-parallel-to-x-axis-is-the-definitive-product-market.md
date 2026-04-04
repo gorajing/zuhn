@@ -49,7 +49,6 @@ stance: >-
   A product has viable product-market fit if and only if its cohort retention
   curve flattens to a horizontal asymptote rather than declining to zero
 related:
-  - INS-260321-1992
   - INS-260326-8798
   - INS-260327-A5F9
   - INS-260329-C893
@@ -59,6 +58,7 @@ related:
   - INS-260330-3E0B
   - INS-260330-37F6
   - PRI-260403-E097
+  - INS-260330-CB30
 evidence:
   - id: INS-260330-3E0B
     type: SUPPORTS

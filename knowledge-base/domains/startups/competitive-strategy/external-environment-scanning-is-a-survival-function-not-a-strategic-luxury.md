@@ -45,7 +45,7 @@ related:
   - INS-260403-9276
   - INS-260404-CC9A
   - INS-260403-52DB
+  - INS-260404-17DD
   - INS-260403-C0FE
-  - INS-260403-E642
 ---
 A business model can be internally sound yet externally doomed. Competitor lock-in (like Apple's ecosystem) can prevent customer acquisition entirely. Customer jobs, pains, and gains evolve as new offerings appear. Regulatory, technological, and cultural shifts can invalidate assumptions overnight. The most successful companies treat environment scanning as a continuous operational function, not a periodic strategic exercise. This means building systematic processes to detect changes in competitive dynamics, customer behavior, and macro trends before they become existential threats.

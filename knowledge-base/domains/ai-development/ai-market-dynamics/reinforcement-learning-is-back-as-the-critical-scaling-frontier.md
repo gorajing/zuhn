@@ -52,9 +52,9 @@ stance: >-
 related:
   - PRI-260328-A82C
   - PRI-260403-EA13
+  - INS-260404-CE26
   - PRI-260323-8E89
   - INS-260327-E0B0
-  - INS-260325-4E96
 evidence:
   - id: INS-260321-B7CB
     type: TRANSFERS_TO

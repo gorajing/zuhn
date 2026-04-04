@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3711 actionable insights
+Generated on 2026-04-04 | 3719 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -758,6 +758,7 @@ Generated on 2026-04-04 | 3711 actionable insights
 - [INS-260328-FDC8] AI is not a hoax like subprime mortgages -- real value is being created -- but the debt being issued to finance data centers and GPU purchases mirrors the debt-driven dynamics of every prior bubble.
 - [INS-260330-AD13] Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
 - [INS-260330-44C7] Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate.
+- [INS-260404-6B73] DeepSeek R1 wiped nearly a trillion dollars in market value by proving frontier AI doesn't require frontier spending.
 
 ## investing/fintech
 - [INS-260323-825F] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
@@ -1038,6 +1039,7 @@ Generated on 2026-04-04 | 3711 actionable insights
 - [INS-260403-8D87] Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
 - [INS-260403-31B1] Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
 - [INS-260404-5AEB] Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
+- [INS-260404-CE92] When a topic becomes part of someone's identity, they become constitutionally incapable of reasoning about it clearly.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1130,6 +1132,7 @@ Generated on 2026-04-04 | 3711 actionable insights
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
+- [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1906,6 +1909,7 @@ Generated on 2026-04-04 | 3711 actionable insights
 - [INS-260403-BB22] Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
 - [INS-260404-CC9A] Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
 - [INS-260404-F017] Each of the nine BMC blocks represents a critical decision area; removing any one risks missing a foundational pillar of the business.
+- [INS-260404-35B6] Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2170,6 +2174,7 @@ Generated on 2026-04-04 | 3711 actionable insights
 - [INS-260403-2152] Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - [INS-260403-C1F5] Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
 - [INS-260403-98F3] Even sound business models die when external threats — competitor lock-in, shifting customer needs, macro trends — go unmonitored.
+- [INS-260404-D149] OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3111,6 +3116,8 @@ Generated on 2026-04-04 | 3711 actionable insights
 - [INS-260403-6224] Innovation program assessment requires dual axes: value creation and culture change capacity.
 - [INS-260404-63B0] Inventing future growth engines requires a structurally separate organization that operates independently from the team optimizing the existing business.
 - [INS-260404-BD46] Unproven business models should be validated through many small experiments rather than detailed business plans.
+- [INS-260404-2E6C] Innovation success depends on volume of cheap experiments, not quality of individual bets.
+- [INS-260404-17DD] Established business models produce antibodies that kill fragile new initiatives transferred too early.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3409,6 +3416,7 @@ Generated on 2026-04-04 | 3711 actionable insights
 - [INS-260403-EAF7] Solve the real problem and deliberately ignore peripheral concerns that seem important but aren't.
 - [INS-260403-6D0D] Deliberately choose which customer jobs, pains, and gains you will NOT address.
 - [INS-260403-FCA6] Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
+- [INS-260404-3FDF] Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

@@ -52,6 +52,7 @@ related:
   - INS-260327-DF2F
   - INS-260330-01D5
   - INS-260327-EE23
+  - INS-260404-9D4E
 ---
 In a functioning market, unsold inventory would trigger price reductions until supply meets demand. In luxury real estate, developers rationally hold units vacant because reducing prices would lower the value of their remaining inventory and comparable properties. Vacancy is cheaper than markdown.
 
