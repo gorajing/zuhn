@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3470 actionable insights
+Generated on 2026-04-04 | 3479 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -930,6 +930,7 @@ Generated on 2026-04-04 | 3470 actionable insights
 - [INS-260403-951B] Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - [INS-260403-A6B1] Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 - [INS-260403-8BF4] Cutting words isn't just style — it's how you discover what you actually mean.
+- [INS-260403-D16C] Physical clutter taxes cognition by forcing continuous environmental parsing.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1098,6 +1099,8 @@ Generated on 2026-04-04 | 3470 actionable insights
 - [INS-260403-F075] Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
 - [INS-260403-D294] Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
 - [INS-260403-3BD3] If people don't think you're weird, you're probably living badly — because statistically normal behavior increasingly includes harmful addictive patterns.
+- [INS-260403-F03A] Judge purchases by projected usage, not by the deal you got.
+- [INS-260403-97B4] When inspiration strikes, act on it immediately because it won't survive being shelved.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1260,6 +1263,7 @@ Generated on 2026-04-04 | 3470 actionable insights
 - [INS-260403-FA30] Coders knocked out of flow need 15+ minutes to return — if they can return at all.
 - [INS-260403-DDEB] Flow triggers most reliably when challenge slightly exceeds skill — stretch but don't snap.
 - [INS-260403-6CE8] We'll increasingly be defined by what we say no to, as the default environment becomes saturated with compelling distractions.
+- [INS-260403-B6CD] Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -1735,6 +1739,7 @@ Generated on 2026-04-04 | 3470 actionable insights
 - [INS-260403-14CB] Success breeds temptations that erode the very determination that created the success, unless discipline scales proportionally.
 - [INS-260403-D99D] The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
 - [INS-260403-A7FD] When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
+- [INS-260403-CE62] Act on problems immediately but accept that results in complex systems take time to materialize.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -1826,6 +1831,7 @@ Generated on 2026-04-04 | 3470 actionable insights
 - [INS-260403-C4DF] Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - [INS-260403-C844] Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
 - [INS-260403-754F] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
+- [INS-260403-CA57] Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2099,6 +2105,7 @@ Generated on 2026-04-04 | 3470 actionable insights
 - [INS-260403-2245] Qualifications are not scalars measuring weakness — they're a rich vocabulary expressing scope, certainty, knowledge source, and falsifiability.
 - [INS-260403-6424] Claiming a list is exhaustive ('The 7 secrets') exploits readers' need to verify completeness, making it effective linkbait but intellectually dishonest.
 - [INS-260403-D20A] List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments.
+- [INS-260403-6BF7] Developer influencers who master visibility often outperform technically superior peers in career outcomes.
 
 ## startups/developer-tools
 - [INS-260329-9A58] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
@@ -2467,6 +2474,7 @@ Generated on 2026-04-04 | 3470 actionable insights
 - [INS-260403-2FC3] YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
 - [INS-260403-0C1D] Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 - [INS-260403-886D] Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
+- [INS-260403-B05A] What you work on and who you work with matter more than how many hours you put in.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -3526,6 +3534,7 @@ Generated on 2026-04-04 | 3470 actionable insights
 - [INS-260403-2C00] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 - [INS-260403-C40D] Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
 - [INS-260403-8C56] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
+- [INS-260403-9276] Annotate each business model with its trajectory (growing, shrinking, shifting) to detect slow-moving disruption before it becomes irreversible.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

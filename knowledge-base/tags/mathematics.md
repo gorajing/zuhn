@@ -7,6 +7,7 @@
 - `INS-260323-821F` Mathematicians who publicly rejected the axiom of choice were found to be unknowingly using it in their own proofs -- the most natural assumptions are the hardest to notice.
 - `INS-260330-5263` The Euclidean geometry example shows that absolute certainty about 'only one line through two points' was false once you consider curved space — our feeling of certainty is always suspect.
 - `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
+- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
 - `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260329-6773` The number e is defined by the property that d/dx(e^x) = e^x, illustrating how mathematical constants are constructed from desired functional properties rather than discovered empirically.
@@ -18,8 +19,7 @@
 - `INS-260329-6727` The geometric proof of lim(sin θ/θ) = 1 uses area comparisons of triangles and sectors that no purely algebraic approach can replicate, demonstrating that visual reasoning is a distinct and irreplaceable mode of mathematical understanding.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
 - `INS-260329-04A5` Indeterminate forms like 0/0 force you to factor, conjugate-multiply, or otherwise restructure an expression before the limit becomes computable.
-- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
+- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
 - `INS-260329-356A` A limit depends entirely on a function's behavior near a point, not at the point — a function can be undefined or have a completely different value at x=a and still have a perfectly well-defined limit there.
 - `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
-- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.

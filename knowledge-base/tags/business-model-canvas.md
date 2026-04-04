@@ -1,5 +1,6 @@
 # Tag: business-model-canvas
 
+- `INS-260403-CA57` Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-7E18` Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
 - `INS-260403-C844` Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.

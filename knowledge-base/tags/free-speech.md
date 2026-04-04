@@ -5,9 +5,9 @@
 - `INS-260325-C5AA` Allowing open source models to flourish ensures no single company becomes a chokepoint for information access — this is the structural free speech safeguard for AI.
 - `INS-260323-0603` Social pressure on speech creates invisible constraints on thinking itself — anonymous communication can unlock broader parameter spaces of thought.
 - `INS-260327-1439` Proposed legislation threatens to criminalize sharing health information that contradicts pharmaceutical interests
-- `INS-260403-225B` A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 - `INS-260330-F734` Even 4chan has a moderation policy — 'free speech absolutism' is an illusion because every platform necessarily makes curation decisions, and the real question is whether those decisions are responsible.
 - `INS-260330-1E6A` Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
+- `INS-260403-225B` A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 - `INS-260403-560A` Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
 - `INS-260325-AC52` Censorship systematically backfires because suppressing ideas creates martyrs and amplifies interest through the Streisand Effect.
 - `INS-260325-36F0` From Jesus to Socrates to Barbra Streisand, suppressing ideas consistently amplifies them — people are more interested in and more likely to believe prohibited content.

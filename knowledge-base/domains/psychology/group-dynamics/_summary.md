@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 50 insights
+> 51 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -42,6 +42,7 @@
 - `INS-260403-7644` [medium] Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260330-B4BD` [medium] Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260402-1CAD` [medium] Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload.
+- `INS-260403-DA14` [medium] A leader's repeated norm violations train their handlers and staff to preemptively execute the cheating pattern without explicit instructions.
 - `INS-260330-93F3` [medium] The same culture can occupy radically different moral positions across centuries, proving that moral differences between contemporary cultures reflect temporal position on a shared trajectory, not permanent group characteristics.
 - `INS-260403-3A71` [medium] Publicizing that charisma decides elections should eventually force both sides to match on charisma, restoring issue-based competition.
 - `INS-260403-FF74` [medium] Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.

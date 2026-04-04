@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 242 insights
+> 245 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -20,6 +20,7 @@
 - `INS-260329-BEFB` [high] Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-184C` [high] Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260402-A558` [high] Childhood reassurance about alarming realities creates adults who are trained to ignore those same problems, enabling bad conditions to persist.
+- `INS-260403-D463` [high] How someone behaves when only self-enforcement exists reveals far more about their character than behavior under external enforcement.
 - `INS-260403-34C0` [high] Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end.
 - `INS-260330-14BD` [high] Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
 - `INS-260330-9471` [high] Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
@@ -135,6 +136,7 @@
 - `INS-260330-707D` [high] People evaluate purchases on sticker price rather than total cost of ownership, leading to systematically wrong judgments about which products are truly expensive.
 - `INS-260330-9575` [high] Americans' failure to put themselves in Russia's or China's shoes leads to policies that provoke the exact conflicts they aim to prevent.
 - `INS-260330-39D4` [high] Japan bombed Pearl Harbor expecting it would frighten America into neutrality — a catastrophic mirror-imaging error that assumed Americans would react rationally to a show of force.
+- `INS-260403-D0EE` [high] Beyond a threshold, your stuff starts making your decisions for you.
 - `INS-260403-99FE` [high] When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
 - `INS-260330-CECB` [high] SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.
 - `INS-260330-8C54` [high] Instincts calibrated for normal environments become deadly when the environment fundamentally changes — surviving requires overriding your deepest impulses.
@@ -184,6 +186,7 @@
 - `INS-260330-4746` [high] Even at $50M+ net worth, people feel they 'don't have enough' because their social circle shifts to include billionaires who outclass them on every dimension.
 - `INS-260330-6566` [high] The difference between a dangerous fiction and a useful one is whether it includes mechanisms for self-correction, which requires honesty about its human origins.
 - `INS-260330-A14D` [high] Most fraud victims who are delayed and put off long enough simply give up and walk away, never reporting to law enforcement.
+- `INS-260403-5A91` [high] When someone cheats in the domain they claim to care most about, it reveals a disconnect between stated values and actual psychology that is deeply diagnostic.
 - `INS-260330-916B` [high] The anechoic chamber myth went viral because dramatic claims about human fragility feel intuitively plausible and resist fact-checking.
 - `INS-260330-2B33` [high] Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
 - `INS-260329-78AE` [high] People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.

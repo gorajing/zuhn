@@ -41,7 +41,6 @@ stance: >-
   it, there is no reason to buy again.
 related:
   - INS-260324-C33C
-  - INS-260324-5952
   - INS-260324-D5FE
   - INS-260327-38BC
   - INS-260327-F867

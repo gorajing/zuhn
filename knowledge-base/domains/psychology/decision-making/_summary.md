@@ -1,7 +1,8 @@
 # Topic: decision-making
 
-> 63 insights
+> 66 insights
 
+- `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
 - `INS-260402-B66A` [high] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
@@ -14,7 +15,9 @@
 - `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260330-8FC5` [high] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260330-6689` [high] Each individual integration step in the Greater Bay Area plan has a reasonable economic justification, making organized resistance to the cumulative erosion of autonomy far more difficult than opposing a single dramatic change.
+- `INS-260403-CA46` [high] When abundance replaces scarcity, the winning strategy inverts but behavior lags.
 - `INS-260403-6EDC` [high] Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
+- `INS-260403-97B4` [high] When inspiration strikes, act on it immediately because it won't survive being shelved.
 - `INS-260330-ED37` [high] Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism.
 - `INS-260403-D294` [high] Irreversible geological and cosmic decay means some present-day experiences are genuinely non-renewable, which should increase their weight in how we allocate time.
 - `INS-260330-2C57` [high] Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.

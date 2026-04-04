@@ -40,10 +40,10 @@ stance: >-
   backlash when problems emerge because followers feel personally betrayed by
   someone they trusted.
 related:
-  - INS-260327-76DA
   - INS-260327-EEEE
   - INS-260327-26CF
   - INS-260330-629E
+  - INS-260403-6BF7
   - INS-260328-2BCF
 evidence:
   - id: INS-260327-EEEE

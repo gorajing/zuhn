@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 165 insights
+> 166 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -87,6 +87,7 @@
 - `INS-260325-9507` [high] Between ages 10-12, brains become hyper-wired for social rewards — social media exploits this precise window, making adolescent addiction neurobiological rather than behavioral.
 - `INS-260327-9562` [high] Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
 - `INS-260327-8B1A` [high] You can't know yourself in others' company because social settings automatically activate performance mode.
+- `INS-260403-B6CD` [high] Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
 - `INS-260325-E0D5` [high] Every person plays many roles simultaneously — wasting energy on things you cannot control directly degrades your performance in every role that matters.
 - `INS-260325-7BE7` [high] Aaron Beck and Albert Ellis explicitly derived CBT from reading Marcus Aurelius and Epictetus — modern evidence-based psychotherapy validates 2000-year-old Stoic techniques.
 - `INS-260330-909E` [high] Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions.

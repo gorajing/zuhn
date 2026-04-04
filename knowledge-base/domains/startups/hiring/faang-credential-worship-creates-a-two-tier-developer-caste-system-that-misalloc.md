@@ -52,11 +52,11 @@ stance: >-
   systematically undervalued regardless of their actual capabilities.
 related:
   - INS-260327-8BF6
+  - INS-260403-A868
   - INS-260403-22DF
   - INS-260323-9393
   - INS-260327-1D3D
   - INS-260330-5747
-  - INS-260403-D966
 evidence:
   - id: INS-260327-8BF6
     type: CONTRADICTS

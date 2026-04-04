@@ -50,11 +50,11 @@ resolutions:
     about opportunities they didn't take, not ones they did.
 related:
   - INS-260323-2B53
+  - INS-260403-7FFA
   - INS-260323-B426
   - INS-260323-FFE8
   - INS-260327-7BFA
   - INS-260330-8907
-  - INS-260323-4B1C
   - INS-260403-0406
 stance: >-
   As you age, competing on individual technical skill puts you against younger

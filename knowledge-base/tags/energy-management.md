@@ -2,6 +2,7 @@
 
 - `INS-260330-E647` Neurons have extremely high metabolic rates, with the brain consuming about 25% of daily calories, making cognitive function the first casualty of energy deficits.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
+- `INS-260403-B6CD` Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
 - `INS-260325-E0D5` Every person plays many roles simultaneously — wasting energy on things you cannot control directly degrades your performance in every role that matters.
 - `INS-260403-6F40` Photosynthesis never converts sunlight directly into glucose — it chains through excited electrons, proton gradients, ATP, and NADPH as intermediate carriers, each step smaller and more manageable than the whole.
 - `INS-260329-6204` Structuring long work days around energy allocation and task batching sustains output without burnout.

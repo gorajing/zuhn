@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260323-FCBB
   - INS-260327-7BFA
+  - INS-260403-B05A
   - INS-260330-4CA7
   - INS-260329-1F4D
-  - INS-260330-8550
 ---
 At Apple, Patel worked a normal 40-50 hour week but spent another 40-50 hours tinkering on VR projects. He was in the VR enthusiast community before VR was a thing, building gadgets and toys to see what was possible. This led him to Palmer Luckey and eventually Oculus.
 

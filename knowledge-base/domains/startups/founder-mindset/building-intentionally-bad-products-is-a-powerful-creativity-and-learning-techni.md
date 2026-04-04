@@ -51,7 +51,6 @@ stance: >-
   to make everything perfect from the start.
 related:
   - INS-260323-6134
-  - INS-260320-F78E
   - INS-260323-DDC2
   - INS-260327-1B82
   - PRI-260328-7A4D

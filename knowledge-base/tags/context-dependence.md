@@ -8,6 +8,7 @@
 - `INS-260330-43C9` Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences.
 - `INS-260325-75C5` Individual resilience factors like optimism or problem-solving have only small predictive effects because situations vary so much — the real predictor is adaptive flexibility across strategies.
 - `INS-260325-D5C6` Mindfulness is not always helpful, emotional suppression is not always harmful — every strategy's effectiveness depends on the specific situation, which Bonanno calls the fallacy of uniform efficacy.
+- `INS-260403-0353` The same act of deception ranges from routine (soccer flopping) to morally insane (golf score fabrication) depending on domain-specific norm calibration that outsiders often can't perceive.
 - `INS-260330-5391` Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
 - `INS-260330-88B0` Identical physical stimulation produces pleasure or discomfort depending entirely on context — emotional safety, stress levels, and relationship dynamics matter more than technique.
 - `INS-260330-6D52` The same physical touch can feel arousing or irritating depending on context, proving that context — not technique — is the primary lever for sexual pleasure.

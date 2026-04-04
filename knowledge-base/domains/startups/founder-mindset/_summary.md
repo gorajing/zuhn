@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 297 insights
+> 298 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -224,6 +224,7 @@
 - `INS-260403-E688` [high] Wealth's real value is buying back your time and autonomy, not funding consumption.
 - `INS-260327-3E6F` [high] When quitting isn't an option, every obstacle becomes a design problem to solve rather than a reason to stop.
 - `INS-260327-88FE` [high] When YouTube's dating site version had zero uploads for a week, they pivoted to general video sharing and adopted a culture of shipping experiments overnight — like video responses — without knowing if any would work.
+- `INS-260403-B05A` [high] What you work on and who you work with matter more than how many hours you put in.
 - `INS-260327-CEE4` [high] Work on problems where the effort you put in and the reward you get is disproportionate — not the hardest problems, the highest-leverage ones.
 - `INS-260325-8D66` [high] You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
 - `INS-260323-3A54` [high] Atlas discovered that his anger and street violence came from emotional poverty despite material comfort -- being a doctor's son with a disjointed family taught him that deprivation of connection drives destructive behavior regardless of economic status.

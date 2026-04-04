@@ -1,5 +1,6 @@
 # Tag: innovation-management
 
+- `INS-260403-C8B9` New business models inherently start at low profitability and must be evaluated on trajectory rather than current performance.
 - `INS-260403-47BF` Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - `INS-260403-0372` Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260403-F148` Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.

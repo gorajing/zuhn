@@ -49,7 +49,6 @@ stance: >-
   novices cannot detect their own ignorance.
 related:
   - INS-260325-E84D
-  - INS-260322-2ABB
   - INS-260327-02CF
   - INS-260329-8986
   - INS-260329-F21F
@@ -58,6 +57,7 @@ related:
   - INS-260330-1BAC
   - INS-260330-5EAC
   - INS-260403-B7E3
+  - PRI-260403-EA13
 evidence:
   - id: INS-260327-02CF
     type: TRANSFERS_TO

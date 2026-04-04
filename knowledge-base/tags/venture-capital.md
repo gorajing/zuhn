@@ -2,11 +2,6 @@
 
 - `INS-260327-4434` Facebook, Google, Netflix, and Amazon genuinely made billions with data, creating the proof point that thousands of startups cited to justify their own data-driven narratives -- but none of those startups (Groupon, Yelp, Blue Apron, Stitch Fix, etc.) replicated the success, and the same pattern is now repeating with AI.
 - `INS-260402-180C` Two-thirds of venture capital goes to AI companies, with two-thirds of that concentrated in the Bay Area, creating extreme geographic funding asymmetry.
-- `INS-260403-358D` VC money flowing into startups that spend it on ads at incumbent platforms creates a self-reinforcing bubble.
-- `INS-260403-3C81` The post-2000 tech market didn't re-bubble because acquisition-based exits are structurally less prone to irrational exuberance than IPO-based exits.
-- `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
-- `INS-260324-72E8` After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
-- `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
 - `INS-260403-D98E` Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260403-B008` Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
 - `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
@@ -14,6 +9,11 @@
 - `INS-260403-7C47` As you move earlier in the funding spectrum, help matters exponentially more than money.
 - `INS-260403-AA09` Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
 - `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
+- `INS-260403-358D` VC money flowing into startups that spend it on ads at incumbent platforms creates a self-reinforcing bubble.
+- `INS-260403-3C81` The post-2000 tech market didn't re-bubble because acquisition-based exits are structurally less prone to irrational exuberance than IPO-based exits.
+- `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
+- `INS-260324-72E8` After the dot-com crash, VCs stopped rushing to IPO — they now use series C/D/E/F rounds to supercharge growth, inflate valuations through closed circles, and exit at peak before public investors bear the loss.
+- `INS-260327-F9C3` VCs need radical ideas and founders want to start businesses on someone else's dime -- both sides must perform to reach the same payday, and since winning once in tech is enough, there is a near-infinite pool of aspiring participants willing to forgive past failures.
 - `INS-260322-3646` In VC, waiting 10-15 years for portfolio outputs to evaluate GP performance is dangerously slow — judge by deal-sourcing quality, win rate, and investment quality at the time of decision.
 - `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260321-1992` Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
@@ -39,6 +39,6 @@
 - `INS-260403-9C63` VC pathologies trace back to fund economics that demand huge deal sizes, not to the personal failings of individual investors.
 - `INS-260330-7220` The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
-- `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260403-FA89` Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
+- `INS-260328-2CFF` A board member is either a +1, 0, or -1 — there are only a handful of +1s in the world, so aim for a zero.
 - `INS-260328-A417` PG's anti-zero-sum thesis — that funding more startups creates more total wealth rather than diluting a fixed pool — was proven right by YC and applies to AI-era Series A investing.

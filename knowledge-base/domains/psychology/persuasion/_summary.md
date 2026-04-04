@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 36 insights
+> 38 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -22,6 +22,7 @@
 - `INS-260330-9DC9` [high] Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
 - `INS-260403-61B0` [high] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - `INS-260403-6E9F` [high] True refutation demands stating the opponent's main claim before dismantling it, which forces intellectual honesty.
+- `INS-260403-0353` [high] The same act of deception ranges from routine (soccer flopping) to morally insane (golf score fabrication) depending on domain-specific norm calibration that outsiders often can't perceive.
 - `INS-260330-4E09` [high] Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
 - `INS-260330-E3D3` [high] Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
 - `INS-260403-3421` [high] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
@@ -31,6 +32,7 @@
 - `INS-260330-ABBF` [medium] Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
 - `INS-260403-4CF9` [medium] Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260330-6A3A` [medium] The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
+- `INS-260403-74DB` [medium] The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260330-A1AF` [medium] Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
 - `INS-260403-941F` [medium] Create a single sticky phrase like 'the X of Y' that anchors you in evaluators' minds — if you can't compress your startup into one phrase, your plans aren't focused enough.

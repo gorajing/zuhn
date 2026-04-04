@@ -46,10 +46,10 @@ stance: >-
   of technological change exceeds an organization's ability to adapt internally.
 related:
   - INS-260330-0294
+  - INS-260403-CA46
   - INS-260403-B7C6
   - INS-260321-21BE
   - PRI-260322-8FD4
-  - INS-260403-7E95
 ---
 For most of history, bigger organizations won because they could marshal more resources and impose more discipline. But this advantage assumed a slowly-changing competitive environment where opponents couldn't rewrite the rules mid-game through new technology.
 

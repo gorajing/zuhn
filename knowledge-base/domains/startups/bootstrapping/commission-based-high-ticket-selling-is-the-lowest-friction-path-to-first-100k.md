@@ -47,7 +47,6 @@ stance: >-
   wealth-building entry point.
 related:
   - INS-260327-421F
-  - INS-260327-6F08
   - INS-260327-204B
   - INS-260329-82B1
   - INS-260403-7E27

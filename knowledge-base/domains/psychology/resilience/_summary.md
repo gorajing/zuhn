@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 141 insights
+> 142 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -49,6 +49,7 @@
 - `INS-260327-375B` [high] Giertz's humorous approach to her brain tumor wasn't denial - it was a sophisticated resilience strategy that created psychological distance and social support simultaneously.
 - `INS-260323-A430` [high] Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260327-80DC` [high] Huxley predicted that the real threat wasn't that someone would ban books but that no one would want to read them - and he was right.
+- `INS-260403-CE62` [high] Act on problems immediately but accept that results in complex systems take time to materialize.
 - `INS-260330-0DFC` [high] Rogan survived his cancellation by refusing to read any negative coverage, telling his wife never to read negative articles to him, and continuing his normal work routine.
 - `INS-260327-0833` [high] Every hour spent on non-compounding activities is an hour your competitor is building.
 - `INS-260325-0172` [high] Happiness is fragile and requires things going well; joy is existentially gritty and can coexist with the deepest suffering.

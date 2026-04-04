@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260327-10E8
   - INS-260403-4E7A
+  - INS-260403-9276
   - INS-260330-C477
   - INS-260325-17BF
-  - INS-260325-922D
 evidence:
   - id: INS-260325-17BF
     type: CONTRADICTS

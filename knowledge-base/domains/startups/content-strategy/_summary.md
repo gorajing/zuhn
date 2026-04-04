@@ -1,6 +1,6 @@
 # Topic: content-strategy
 
-> 34 insights
+> 35 insights
 
 - `INS-260330-B885` [high] Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control.
 - `INS-260329-127F` [high] Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
@@ -20,6 +20,7 @@
 - `INS-260330-9CC6` [high] Ramsey views YouTube Shorts and TikTok clips as free advertisements — 'little old ladies at Costco with a sample biscuit' — that funnel people to books, courses, and long-form shows.
 - `INS-260329-DC86` [high] Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260403-7878` [high] Readers trust bloggers more than mainstream media because online writing lacks the invisible fingerprints of PR firms shaping editorial content.
+- `INS-260403-6BF7` [high] Developer influencers who master visibility often outperform technically superior peers in career outcomes.
 - `INS-260330-7251` [high] Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services.
 - `INS-260329-BC11` [high] Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
 - `INS-260329-D5FF` [high] Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.

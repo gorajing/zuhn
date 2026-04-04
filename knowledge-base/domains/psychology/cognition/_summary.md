@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 62 insights
+> 63 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
@@ -52,6 +52,7 @@
 - `INS-260403-0907` [medium] Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260403-A27F` [medium] Living in multiple countries trains you to question assumptions by default because your existing mental models repeatedly fail in unfamiliar contexts.
 - `INS-260403-CF23` [medium] Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
+- `INS-260403-D16C` [medium] Physical clutter taxes cognition by forcing continuous environmental parsing.
 - `INS-260330-5F6C` [medium] The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260403-2702` [medium] Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260330-0764` [medium] Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.

@@ -58,7 +58,6 @@ stance: >-
   domains, because learning happens at the moment of resolving confusion, not at
   the moment of receiving information.
 related:
-  - INS-260327-4C73
   - INS-260329-A218
   - INS-260329-E40B
   - INS-260329-F892

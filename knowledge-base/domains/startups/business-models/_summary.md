@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 155 insights
+> 157 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -12,6 +12,7 @@
 - `INS-260403-1A5A` [high] Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
 - `INS-260327-1576` [high] BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260324-C33C` [high] Unlike most food trends, bubble tea innovation flows from Asia to the West — Chinese and Taiwanese chains invest millions in US franchising while Americans have the highest disposable income and lowest product familiarity.
+- `INS-260403-CA57` [high] Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260403-E642` [high] Innovating the business model itself—not just the product—is the primary driver of durable market disruption.
 - `INS-260403-3F10` [high] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-7E18` [high] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
@@ -84,6 +85,7 @@
 - `INS-260403-94CA` [high] McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.
 - `INS-260324-98F6` [high] The Big Five movie studios (Paramount, Universal, Sony, Warner Bros, Disney) all have diversified parent conglomerates because standalone film businesses can't absorb the inevitable flops.
 - `INS-260327-723A` [high] Esports collapsed because the ecosystem required publishers, teams, leagues, and broadcasters to all invest simultaneously -- when publishers like EA and Ubisoft pulled back, teams lost revenue, players left, viewership dropped, and sponsors followed.
+- `INS-260403-C8B9` [high] New business models inherently start at low profitability and must be evaluated on trajectory rather than current performance.
 - `INS-260324-988E` [high] Nightclubs make money from men buying $1,000 tables and $100 bottles to impress women — promoters are the invisible workforce that fills clubs with attractive women to create the demand signal.
 - `INS-260327-B116` [high] Nightclub economics are driven by selling status through bottle service, VIP areas, and exclusivity rather than the actu
 - `INS-260324-CBD3` [high] LA's top nightcrawlers make 6-8 figures filming breaking news at night that local TV stations can't cover — invisible infrastructure with guaranteed institutional demand.

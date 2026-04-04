@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 459 insights
+> 460 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -73,6 +73,7 @@
 - `INS-260324-782C` [high] After years of cost-cutting, Hershey, Kellogg, and General Mills all pivoted to acquiring emerging brands because they'd lost the internal talent and muscle to invent new products.
 - `INS-260402-FFB2` [high] Patent aggression against competitors is a sell signal indicating the company can no longer win on product merit.
 - `INS-260327-7AB5` [high] Recycling messaging allows companies to position waste as the consumers problem rather than redesigning products and pac
+- `INS-260403-16D7` [high] Products are easy to copy but business models create structural advantages that competitors struggle to replicate.
 - `INS-260330-95F3` [high] Singapore's PAP holds free elections but rigs the playing field through gerrymandering, 11-day campaigns, and defamation lawsuits — a model that maps to how dominant platforms allow competitors to exist while structurally disadvantaging them.
 - `INS-260403-2074` [high] If you're the current leader and the fastest builder, competitor count is irrelevant — most will self-destruct.
 - `INS-260402-5E4E` [high] Computers slashed transaction costs, making networks of specialized companies outperform monolithic vertical integration.

@@ -1,5 +1,6 @@
 # Tag: execution-speed
 
+- `INS-260403-CE62` Act on problems immediately but accept that results in complex systems take time to materialize.
 - `INS-260327-A61B` Lower barriers to build (AWS, Stripe, AI) simultaneously lower barriers for competitors, making speed the primary differentiator.
 - `INS-260329-2AB9` Fast, imperfect decisions outperform slow, perfect ones because action generates information that analysis cannot.
 - `INS-260329-59A5` For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.

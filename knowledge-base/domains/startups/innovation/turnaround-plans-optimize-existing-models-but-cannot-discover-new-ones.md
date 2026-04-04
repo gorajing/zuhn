@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260403-1000
   - INS-260403-1B15
+  - INS-260403-C8B9
   - INS-260403-E642
   - INS-260403-7E18
-  - INS-260403-A709
 ---
 Turnaround plans are designed for companies that have been badly managed, face cash problems, or need brand repositioning — situations where the underlying business model still has steam. When the model itself has expired, as with McDonald's fast-and-cheap proposition facing health-conscious consumers, optimization only delays the inevitable.
 

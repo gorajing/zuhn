@@ -313,6 +313,7 @@ Generated on 2026-04-04 | 2421 sources
 | Can Sam Altman end up in jail?😮, “40% of startups die after a seed… 0.5-1% go IPO” 🏁 | blog | 5 | 2026-03-30 |
 | Cap Table Mastery: How to Manage Startup Equity from Seed to Series C | blog | 5 | 2026-03-30 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
+| “Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯 | blog | 5 | 2026-03-30 |
 | CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
@@ -432,6 +433,7 @@ Generated on 2026-04-04 | 2421 sources
 | Startup Location Strategy in 2025: Does It Still Matter Where You Build? | blog | 5 | 2026-03-30 |
 | Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save or Sink Your Company | blog | 5 | 2026-03-30 |
 | Startup Valuation Methods: 8 Approaches Investors Use | blog | 5 | 2026-03-30 |
+| Stuff | blog | 5 | 2026-03-31 |
 | Succinctness is Power | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
@@ -486,6 +488,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
 | The Ultimate Guide to Writing Powerful AI Prompts | blog | 5 | 2026-03-30 |
+| The VC Math Problem📊, Inside a16z’s Speedrun💸, The 5% Rule for AGI🧠 | blog | 5 | 2026-03-30 |
 | The Venture Capital Playbook | blog | 5 | 2026-03-30 |
 | The Verticalization of Everything | blog | 5 | 2026-03-31 |
 | The Wartime CEO: 9 Leadership Principles for Strong Startups | blog | 5 | 2026-03-31 |
@@ -543,6 +546,7 @@ Generated on 2026-04-04 | 2421 sources
 | You Weren't Meant to Have a Boss | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
+| 10 Programmer Stereotypes | youtube | 5 | 2026-03-30 |
 | 100+ Computer Science Concepts Explained | youtube | 5 | 2026-03-30 |
 | 13 Years Of Brutally Honest Business Advice in 90 Mins | youtube | 5 | 2026-03-30 |
 | 13 Years of Marketing Advice in 85 Mins | youtube | 5 | 2026-03-30 |
@@ -769,6 +773,7 @@ Generated on 2026-04-04 | 2421 sources
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
+| 2020 Year in Review | blog | 4 | 2026-03-31 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 4 | 2026-03-30 |
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
 | 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 4 | 2026-03-31 |
@@ -798,6 +803,7 @@ Generated on 2026-04-04 | 2421 sources
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Business Model Generation Book Summary | Strategyzer | blog | 4 | 2026-03-31 |
+| Business Model Portfolio Part 1: Manage The Existing Business | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
@@ -827,6 +833,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
+| How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
 | It's Charisma, Stupid | blog | 4 | 2026-03-31 |
@@ -1040,6 +1047,7 @@ Generated on 2026-04-04 | 2421 sources
 | The World's Most Important Machine | youtube | 4 | 2026-03-23 |
 | This coach teaches tech sales mentality hacks | youtube | 4 | 2026-03-27 |
 | This Common Substance Was Once Worth Millions | youtube | 4 | 2026-03-23 |
+| This Is Why Trump Cheats at Golf | youtube | 4 | 2026-03-30 |
 | This Paradox Splits Smart People 50/50 | youtube | 4 | 2026-03-23 |
 | Training General Robots for Any Task: Physical Intelligence’s Karol Hausman and Tobi Springenberg | youtube | 4 | 2026-03-26 |
 | Travel INSIDE a Black Hole | youtube | 4 | 2026-03-30 |
@@ -1059,6 +1067,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why OpenAI Doesn't Pay Sales Commission (And Why It Works) with OpenAI GTM Leader Maggie Hott | youtube | 4 | 2026-03-27 |
 | Why Snatch Blocks are AWESOME (How Pulleys Work)  - Smarter Every Day 228 | youtube | 4 | 2026-03-30 |
 | Why You Should Not Startup In Your 20s | Startup Founder Reality | youtube | 4 | 2026-03-23 |
+| Work As Hard As You Can | youtube | 4 | 2026-03-30 |
 | World's Fastest Pitch - Supersonic Baseball Cannon - Smarter Every Day 242 | youtube | 4 | 2026-03-30 |
 | World's Longest Home Run (The "Mad Batter" Machine) - Smarter Every Day 230 | youtube | 4 | 2026-03-30 |
 | You've (Likely) Been Playing The Game of Life Wrong | youtube | 4 | 2026-03-23 |
@@ -1798,7 +1807,6 @@ Generated on 2026-04-04 | 2421 sources
 | 2 Changes to Virtual Goods in Web3 Gaming | blog | 0 | 2026-03-31 |
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
-| 2020 Year in Review | blog | 0 | 2026-03-31 |
 | 234 Tech European Conferences in 2025 | blog | 0 | 2026-03-30 |
 | 25 proven tactics to accelerate AI adoption at your company | blog | 0 | 2026-03-31 |
 | 2,500+ Angel Investors for AI & SaaS Startups | blog | 0 | 2026-03-30 |
@@ -1957,7 +1965,6 @@ Generated on 2026-04-04 | 2421 sources
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
 | Business Model Innovation and Change | blog | 0 | 2026-03-31 |
 | Business Model Innovation in Existing Companies | blog | 0 | 2026-03-31 |
-| Business Model Portfolio Part 1: Manage The Existing Business | blog | 0 | 2026-03-31 |
 | Business Model Portfolio Part 3: The Business Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
 | Business Strategy: The Business Model Patterns | blog | 0 | 2026-03-31 |
@@ -1965,7 +1972,6 @@ Generated on 2026-04-04 | 2421 sources
 | China is quietly looking weaker | blog | 0 | 2026-03-30 |
 | China's Startup Scene📉, Illiquidity is a Feature💡, Scaling SaaS💻 | blog | 0 | 2026-03-30 |
 | Choosing The Final Frontier: Launching a Rocket Company with Andy Lapsa of Stoke Space | blog | 0 | 2026-03-31 |
-| “Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯 | blog | 0 | 2026-03-30 |
 | Climate Tech is "Dead"🌱, The Rise of Anti-Woke VC💼, State of Global VC 🌍 | blog | 0 | 2026-03-30 |
 | Coatue’s 18-Chart Report: Why AI Is Still Early, Not a Bubble | blog | 0 | 2026-03-30 |
 | Coinbase Launches a Multi-Asset Product Stack | blog | 0 | 2026-03-30 |
@@ -2110,7 +2116,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
-| How to Value a Startup: VC Method + Free Excel Model | blog | 0 | 2026-03-30 |
 | How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 0 | 2026-03-30 |
 | How to Write a Top 1% Cold DM to Investors | blog | 0 | 2026-03-30 |
 | How VCs and Startups can beat currency depreciation 🌍 | blog | 0 | 2026-03-30 |
@@ -2226,7 +2231,6 @@ Generated on 2026-04-04 | 2421 sources
 | State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 0 | 2026-03-30 |
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
 | Strategyzer Peer Learning Summit with MasterCard, GE, 3M, Intel, and Many More | blog | 0 | 2026-03-31 |
-| Stuff | blog | 0 | 2026-03-31 |
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 0 | 2026-03-30 |
@@ -2317,7 +2321,6 @@ Generated on 2026-04-04 | 2421 sources
 | The VC Corner 📰 #7 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #8 | blog | 0 | 2026-03-30 |
 | The VC Corner 📰 #9 | blog | 0 | 2026-03-30 |
-| The VC Math Problem📊, Inside a16z’s Speedrun💸, The 5% Rule for AGI🧠 | blog | 0 | 2026-03-30 |
 | The Venture Capital Apocalypse | blog | 0 | 2026-03-30 |
 | This Week #0: Advice on growth, product, and leadership | blog | 0 | 2026-03-31 |
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
@@ -2383,7 +2386,6 @@ Generated on 2026-04-04 | 2421 sources
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
 | YC's Handshake Deal Protocol🤝, The Generative AI Winners of 2025 🤖, Redefining Independent Media📰 | blog | 0 | 2026-03-30 |
 | You are no longer the smartest type of thing on Earth | blog | 0 | 2026-03-30 |
-| 10 Programmer Stereotypes | youtube | 0 | 2026-03-30 |
 | 6 ways to heal trauma without medication | Bessel van der Kolk | Big Think | youtube | 0 | 2026-03-30 |
 | AI influencers are getting filthy rich... let's build one | youtube | 0 | 2026-03-30 |
 | Anti-Gravity Wheel? | youtube | 0 | 2026-03-30 |
@@ -2414,7 +2416,6 @@ Generated on 2026-04-04 | 2421 sources
 | TATTOOING Close Up (in Slow Motion) - Smarter Every Day 122 | youtube | 0 | 2026-03-30 |
 | The most unexpected answer to a counting puzzle | youtube | 0 | 2026-03-30 |
 | This free Chinese AI just crushed OpenAI's $200 o1 model... | youtube | 0 | 2026-03-30 |
-| This Is Why Trump Cheats at Golf | youtube | 0 | 2026-03-30 |
 | This new AI is powerful and uncensored… Let’s run it | youtube | 0 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
 | What If Everyone JUMPED At Once? | youtube | 0 | 2026-03-30 |
@@ -2422,5 +2423,4 @@ Generated on 2026-04-04 | 2421 sources
 | When You Truly Work for Yourself | youtube | 0 | 2026-03-30 |
 | Why Are Things Creepy? | youtube | 0 | 2026-03-30 |
 | Why Costco is Cheaper than Amazon | youtube | 0 | 2026-03-30 |
-| Work As Hard As You Can | youtube | 0 | 2026-03-30 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

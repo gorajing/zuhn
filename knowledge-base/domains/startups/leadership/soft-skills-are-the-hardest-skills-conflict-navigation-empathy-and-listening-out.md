@@ -45,11 +45,10 @@ resolutions:
     with a 10-year shelf life.
 related:
   - INS-260323-348F
+  - INS-260403-7FFA
   - INS-260323-FE69
   - INS-260320-DDD9
   - PRI-260321-7307
-  - PRI-260323-9EAD
-  - INS-260322-D6B8
   - INS-260321-F446
   - INS-260330-4341
 stance: >-
