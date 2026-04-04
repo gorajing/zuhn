@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 432 insights
+> 433 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -154,6 +154,7 @@
 - `INS-260327-CB72` [high] Jack Dorsey systematically fabricated a solo-founder origin story for Twitter, manipulated media coverage, and orchestrated two CEO coups -- all to serve his personal mythos rather than the company's health.
 - `INS-260327-0FC4` [high] Crumbl rapid franchise expansion outpaced its ability to maintain quality control, creating inconsistent product experie
 - `INS-260327-092E` [high] When a franchise brand goes viral (Popeyes chicken sandwich), individual franchisees lack the operational infrastructure
+- `INS-260403-5F8E` [high] Anti-piracy patrols create classic free-rider problems where non-paying companies benefit equally, making voluntary collective defense inherently unstable.
 - `INS-260330-6D3B` [high] Letting a small but loud faction define your brand alienates the majority you need to win.
 - `INS-260323-3BA4` [high] OpenClaw beat every well-funded agentic AI startup because competitors 'all take themselves too seriously' — it's hard to compete against someone who's just there to have fun, with lobster memes, weird branding, and a soul.md that gives agents personality.
 - `INS-260403-9689` [high] A gatekeeper between you and your customers holds existential power over your business regardless of how good your product is.

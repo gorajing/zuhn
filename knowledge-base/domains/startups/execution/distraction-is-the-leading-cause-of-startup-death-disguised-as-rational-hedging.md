@@ -57,7 +57,7 @@ related:
   - INS-260328-00E8
   - INS-260328-D775
   - INS-260327-E2BC
-  - INS-260403-8C20
+  - INS-260403-41FF
 ---
 Graham identifies a specific linguistic pattern — 'We're doing X, but we're going to keep working on the startup' — as a near-perfect predictor of failure. The mechanism is twofold: first, the distraction itself diverts scarce founder attention; second, and more insidiously, having an alternative identity ('grad student who also does a startup') provides a face-saving narrative for failure that makes quitting psychologically cheaper.
 

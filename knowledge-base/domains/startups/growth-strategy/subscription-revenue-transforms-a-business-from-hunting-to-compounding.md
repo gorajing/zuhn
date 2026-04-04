@@ -54,7 +54,7 @@ related:
   - INS-260329-E884
   - INS-260403-92CC
   - INS-260330-CAAB
-  - INS-260329-C8C7
+  - INS-260403-C4DF
 stance: Only build products with daily-use repeat purchase dynamics
 evidence:
   - id: INS-260322-3010

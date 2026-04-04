@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 379 insights
+> 380 insights
 
 - `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
@@ -134,6 +134,7 @@
 - `INS-260323-A3DB` [high] Saudi Arabia and Gulf states are accelerating their pivot toward China because the US repeatedly failed to protect oil infrastructure (Aramco 2019, current Iran strikes on Qatar/Saudi/UAE) while prioritizing Israel — creating a structural shift in Middle East security alignment.
 - `INS-260327-26D3` [high] You don't matter anymore economically speaking - GDP, stock markets, and employment figures increasingly reflect a financial economy that most people don't participate in.
 - `INS-260323-59FE` [high] Becoming a hegemonic power requires other nations to voluntarily follow — China lacks this despite economic scale because it demands compliance without offering public goods or making sacrifices.
+- `INS-260403-F98F` [high] Piracy costs $4.9-8.3B annually in security, insurance, and fuel surcharges that get passed to consumers as an invisible tax on global trade.
 - `INS-260327-F4B8` [high] Australia has the second-highest median net worth globally but ranks 102nd in economic complexity, behind Uganda, because wealth is concentrated in mining and real estate rather than diversified production.
 - `INS-260327-77A0` [high] Canada, Australia, UK, and US have all independently developed housing crises through different mechanisms but the same root cause: treating housing as an investment vehicle.
 - `INS-260330-AACC` [high] Zimbabwe's redenominations (removing 10 and then 12 zeros) failed because citizens' inflation expectations were self-fulfilling without credible institutional reform.

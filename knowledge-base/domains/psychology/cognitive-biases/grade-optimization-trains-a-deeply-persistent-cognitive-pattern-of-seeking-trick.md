@@ -50,12 +50,11 @@ stance: >-
   consciously identify or overcome it.
 related:
   - INS-260403-6F65
+  - INS-260403-34C0
   - INS-260403-62AF
   - INS-260403-41BC
   - PRI-260403-52DF
-  - INS-260330-0102
   - INS-260403-875B
-  - INS-260403-E9DD
 evidence:
   - id: INS-260330-0102
     type: CONTRADICTS

@@ -145,8 +145,8 @@ Generated on 2026-04-04 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -198,10 +198,10 @@ Generated on 2026-04-04 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
@@ -240,8 +240,8 @@ Generated on 2026-04-04 | 2421 sources
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
@@ -272,6 +272,7 @@ Generated on 2026-04-04 | 2421 sources
 | Achieve Product-Market Fit with our Brand-New Value Proposition Canvas | blog | 5 | 2026-03-31 |
 | After Credentials | blog | 5 | 2026-03-31 |
 | AI Agents Are Coming: The Agentic Revolution Explained | blog | 5 | 2026-03-30 |
+| AI In a Bubble?🫧, Moats Revisited🛡️, AI makes the old VC playbook obsolete⚡ | blog | 5 | 2026-03-30 |
 | AI Is Like Water | blog | 5 | 2026-03-31 |
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
 | AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
@@ -302,6 +303,7 @@ Generated on 2026-04-04 | 2421 sources
 | Building Confidence Networks In Latin America | blog | 5 | 2026-03-31 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Business models: the toolkit to design a disruptive company | blog | 5 | 2026-03-31 |
+| Can Sam Altman end up in jail?😮, “40% of startups die after a seed… 0.5-1% go IPO” 🏁 | blog | 5 | 2026-03-30 |
 | Cap Table Mastery: How to Manage Startup Equity from Seed to Series C | blog | 5 | 2026-03-30 |
 | Cities and Ambition | blog | 5 | 2026-03-31 |
 | CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
@@ -342,6 +344,7 @@ Generated on 2026-04-04 | 2421 sources
 | How technology has already changed the world in my lifetime | blog | 5 | 2026-03-30 |
 | How to Be an Angel Investor | blog | 5 | 2026-03-31 |
 | How to Be Silicon Valley | blog | 5 | 2026-03-31 |
+| How to Build AI Product Strategy (By OpenAI’s Product Lead) | blog | 5 | 2026-03-30 |
 | How to Convince Investors | blog | 5 | 2026-03-31 |
 | How to Do Great Work | blog | 5 | 2026-03-31 |
 | How to Do Philosophy | blog | 5 | 2026-03-31 |
@@ -744,6 +747,7 @@ Generated on 2026-04-04 | 2421 sources
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
+| 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 4 | 2026-03-30 |
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
@@ -760,8 +764,10 @@ Generated on 2026-04-04 | 2421 sources
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
+| Beyond Smart | blog | 4 | 2026-03-31 |
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
+| Business Model Generation Book Summary | Strategyzer | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
@@ -807,6 +813,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The High-Res Society | blog | 4 | 2026-03-31 |
+| The List of N Things | blog | 4 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
@@ -887,6 +894,7 @@ Generated on 2026-04-04 | 2421 sources
 | How I would learn music production (If I had to start over in 2026) | youtube | 4 | 2026-03-22 |
 | How Insta360 Crushed GoPro | youtube | 4 | 2026-03-24 |
 | How Nightcrawlers Really Make Money | youtube | 4 | 2026-03-24 |
+| How Somalia’s Pirates Make Money | youtube | 4 | 2026-03-30 |
 | How To Convert Customers With Cold Emails | Startup School | youtube | 4 | 2026-03-27 |
 | How To Count Past Infinity | youtube | 4 | 2026-03-30 |
 | How to Create a Frequency so Magnetic Your Desires Chase You | youtube | 4 | 2026-03-23 |
@@ -1722,7 +1730,6 @@ Generated on 2026-04-04 | 2421 sources
 | 200+ Startup Pitch Decks That Raised Over $50 Billion 🚀 | blog | 0 | 2026-03-30 |
 | 200+ VC Funds Under $200M Still Investing in 2025 | blog | 0 | 2026-03-30 |
 | 2020 Year in Review | blog | 0 | 2026-03-31 |
-| 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 0 | 2026-03-30 |
 | 2026 Tech Trends🔮, Startups That Win⚔️, Why Cambridge Associates Is Cautious⚠️ | blog | 0 | 2026-03-30 |
 | 234 Tech European Conferences in 2025 | blog | 0 | 2026-03-30 |
 | 25 proven tactics to accelerate AI adoption at your company | blog | 0 | 2026-03-31 |
@@ -1812,7 +1819,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI Co-Pilots Every Startup & VC Needs in Their Toolbox 🛠️ | blog | 0 | 2026-03-30 |
 | AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 0 | 2026-03-30 |
 | AI Games Are Coming | blog | 0 | 2026-03-31 |
-| AI In a Bubble?🫧, Moats Revisited🛡️, AI makes the old VC playbook obsolete⚡ | blog | 0 | 2026-03-30 |
 | AI is changing the rules of the game in Go-to-Market 🔄 | blog | 0 | 2026-03-30 |
 | AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 0 | 2026-03-30 |
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
@@ -1876,7 +1882,6 @@ Generated on 2026-04-04 | 2421 sources
 | Being a Noob | blog | 0 | 2026-03-31 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
 | Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
-| Beyond Smart | blog | 0 | 2026-03-31 |
 | Bill Gates's €1bn Climate fund🔋, Paths to Product-Market Fit🎯, State of AI investing📊 | blog | 0 | 2026-03-30 |
 | Bio | blog | 0 | 2026-03-31 |
 | Biz4Kids - a business model for kids | blog | 0 | 2026-03-31 |
@@ -1893,7 +1898,6 @@ Generated on 2026-04-04 | 2421 sources
 | Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Evolution Using the Portfolio Map | blog | 0 | 2026-03-31 |
-| Business Model Generation Book Summary | Strategyzer | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
 | Business Model Innovation and Change | blog | 0 | 2026-03-31 |
 | Business Model Innovation in Existing Companies | blog | 0 | 2026-03-31 |
@@ -1902,7 +1906,6 @@ Generated on 2026-04-04 | 2421 sources
 | Business Model Portfolio Part 3: The Business Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
 | Business Strategy: The Business Model Patterns | blog | 0 | 2026-03-31 |
-| Can Sam Altman end up in jail?😮, “40% of startups die after a seed… 0.5-1% go IPO” 🏁 | blog | 0 | 2026-03-30 |
 | Change Your Name | blog | 0 | 2026-03-31 |
 | China is quietly looking weaker | blog | 0 | 2026-03-30 |
 | China's Startup Scene📉, Illiquidity is a Feature💡, Scaling SaaS💻 | blog | 0 | 2026-03-30 |
@@ -2058,7 +2061,6 @@ Generated on 2026-04-04 | 2421 sources
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
 | How to Be an Expert in a Changing World | blog | 0 | 2026-03-31 |
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 0 | 2026-03-30 |
-| How to Build AI Product Strategy (By OpenAI’s Product Lead) | blog | 0 | 2026-03-30 |
 | How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 0 | 2026-03-30 |
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
@@ -2242,7 +2244,6 @@ Generated on 2026-04-04 | 2421 sources
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
 | The Lean Revenue Dashboard Every Startup Should Use | blog | 0 | 2026-03-30 |
 | The Lean Startup is Dead⚰️, AGI Delusion?🤖, Top Leadership Books📚 | blog | 0 | 2026-03-30 |
-| The List of N Things | blog | 0 | 2026-03-31 |
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Must-Read Tech, VC, SaaS, AI, and Startup Reports of 2024 📊 | blog | 0 | 2026-03-30 |
 | The Need to Read | blog | 0 | 2026-03-31 |
@@ -2391,7 +2392,6 @@ Generated on 2026-04-04 | 2421 sources
 | How Cruise Ships Work | youtube | 0 | 2026-03-30 |
 | How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | youtube | 0 | 2026-03-30 |
 | How McDonald's Really Makes Money | youtube | 0 | 2026-03-30 |
-| How Somalia’s Pirates Make Money | youtube | 0 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 0 | 2026-03-30 |
 | How to enter ‘flow state’ on command | Steven Kotler for Big Think | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |

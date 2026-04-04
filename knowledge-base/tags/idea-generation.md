@@ -6,6 +6,7 @@
 - `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260403-76C3` Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
+- `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - `INS-260326-967C` Co-founders who discover the idea together feel true ownership; co-founders recruited into someone else's idea always have one foot out the door.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.

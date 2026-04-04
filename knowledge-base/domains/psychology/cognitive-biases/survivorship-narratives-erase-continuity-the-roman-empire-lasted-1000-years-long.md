@@ -54,10 +54,10 @@ stance: >-
   narratives systematically erase inconvenient continuity.
 related:
   - INS-260330-9FA5
-  - INS-260403-34C0
   - INS-260403-F171
   - INS-260323-C1D7
   - INS-260403-81CE
+  - INS-260330-615D
   - INS-260330-0F55
   - INS-260330-4E5F
 evidence:

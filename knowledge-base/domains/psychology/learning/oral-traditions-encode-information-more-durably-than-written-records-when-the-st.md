@@ -57,7 +57,7 @@ related:
   - INS-260330-E77D
   - INS-260330-125E
   - INS-260403-E2FB
-  - INS-260403-34C0
   - INS-260329-DD0F
+  - INS-260330-8F91
 ---
 Hancock cites the ancient Egyptian myth of the god Thoth, who presents writing to a pharaoh as a gift — only to be told 'you have destroyed the art of memory.' The insight is that oral traditions can preserve information for millennia because the story itself is the delivery mechanism. The storyteller doesn't need to understand the precession numbers or astronomical data embedded in the myth; they only need to retell the story faithfully, which they're motivated to do because it's a good story. This has practical applications: when you need information to survive across organizational changes, personnel turnover, or generational shifts, embedding it in narrative (company origin stories, case studies, parables) is more durable than explicit documentation that no one reads. The Milky Way 'path of souls' myth appearing independently across cultures separated by oceans and millennia demonstrates the extraordinary longevity of narrative-encoded knowledge.

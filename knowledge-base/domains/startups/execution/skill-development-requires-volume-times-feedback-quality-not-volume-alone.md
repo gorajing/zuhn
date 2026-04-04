@@ -48,7 +48,6 @@ stance: >-
   structured self-assessment
 related:
   - INS-260322-F891
-  - INS-260323-0B52
   - INS-260322-D1AB
   - PRI-260323-9D46
   - INS-260403-4935

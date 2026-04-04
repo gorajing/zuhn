@@ -48,10 +48,10 @@ resolutions:
     alternatives.
 related:
   - INS-260322-888D
+  - INS-260403-34C0
   - PRI-260325-45A2
   - INS-260330-12FB
-  - PRI-260325-3F50
-  - INS-260403-41BC
+  - INS-260403-78E2
   - INS-260322-5F87
 stance: >-
   Technology-driven intelligence (cameras, drones, license plate readers, AI

@@ -64,6 +64,7 @@ related:
   - INS-260329-B194
   - INS-260330-7ED0
   - INS-260403-426A
+  - INS-260403-BE18
 evidence:
   - id: INS-260330-7ED0
     type: CONTRADICTS

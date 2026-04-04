@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 42 insights
+> 44 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
@@ -20,6 +20,7 @@
 - `INS-260403-2B63` [high] Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.
 - `INS-260403-DE28` [high] Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults.
 - `INS-260402-D0F3` [high] Dishonesty in thinking doesn't just produce biased conclusions — it produces boring ones by preventing the discovery of surprising ideas.
+- `INS-260403-A4CF` [high] Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
 - `INS-260403-A06E` [high] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
 - `INS-260330-7D21` [high] Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260330-F6B1` [high] Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
@@ -38,6 +39,7 @@
 - `INS-260402-26B0` [medium] Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260403-AB5C` [medium] Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260403-0AE1` [medium] Jessica Livingston's 'Social Radar' worked precisely because applicants dismissed her as a secretary — attention would have disrupted her ability to read people.
+- `INS-260403-78E2` [medium] Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - `INS-260403-8B92` [medium] Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
 - `INS-260402-B12D` [medium] Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260403-14D5` [medium] You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.

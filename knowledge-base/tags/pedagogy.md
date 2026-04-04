@@ -48,6 +48,7 @@
 - `INS-260329-6004` Confronting misconceptions through cognitive dissonance teaches more effectively than stating correct answers directly
 - `INS-260330-C4F1` Using coding to teach critical thinking puts the cart before the horse—teach the target skill directly instead of through a proxy.
 - `INS-260329-2FEB` Immediate output from each new concept (printing, calculations, simple games) cements understanding faster than abstract theory.
+- `INS-260403-8C20` The classic five-paragraph essay is secretly a list of 3 things, and disguising this prevents students from learning that real essays are vehicles for discovering new ideas.
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
 - `INS-260329-71AB` Teaching data types in order of concreteness (strings → numbers → booleans → lists → dicts → classes) mirrors the concrete-to-abstract gradient that human cognition uses to build durable mental models.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.

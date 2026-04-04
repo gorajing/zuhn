@@ -61,6 +61,7 @@ related:
   - INS-260403-92EB
   - INS-260403-0267
   - INS-260403-C625
+  - INS-260403-CC25
 ---
 Graham recounts a VC who invested in a company despite knowing their business model was wrong and would change three times. The founders were experienced repeat entrepreneurs with millions in funding, and even their model was 'crap.' This reveals that sophisticated investors at the early stage aren't evaluating business models — they're evaluating problem significance and founder capability.
 

@@ -4,17 +4,17 @@
 - `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would.
 - `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
-- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
-- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260325-0103` Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.
 - `INS-260329-EE04` Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.
 - `INS-260329-19EE` Events, masterminds, and networking carry enormous hidden costs beyond their time slots — they fragment focus and create ongoing obligations.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
+- `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
 - `INS-260329-C3DF` Whether in college or a career, the first four years should maximize learning speed, not paycheck size.
 - `INS-260329-49E6` Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
 - `INS-260330-16B1` Universalizing a specialized skill devalues its practitioners while wasting the time of learners better suited to other specializations.
 - `INS-260329-EBCA` When you skip social obligations, people punish you by inviting you less — which is exactly what you wanted, making it a win-win.
-- `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
 - `INS-260329-F0DD` Test prep can be run from free libraries with zero startup cost, reaching $1,100/day within six months — outearning most post-college professional salaries without the four-year opportunity cost.
+- `INS-260329-1D08` The dominant failure pattern is serial opportunity-hopping through the same emotional cycle, never staying long enough for compounding returns to kick in.
 - `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260327-5297` When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260329-B34E` People fail by building many half-finished bridges rather than completing one — getting to 90% on multiple paths yields zero while 100% on one path yields everything.

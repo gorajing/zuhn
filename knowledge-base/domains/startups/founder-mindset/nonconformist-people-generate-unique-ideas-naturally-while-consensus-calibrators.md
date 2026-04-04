@@ -42,11 +42,11 @@ resolutions:
     something he wished existed as a founder. The tech world's increasing
     attractiveness to non-weird people may be making this dynamic worse.
 related:
+  - INS-260403-A4CF
   - INS-260403-FE91
+  - INS-260403-78E2
   - INS-260327-4367
   - INS-260403-74E5
-  - PRI-260323-A33E
-  - PRI-260323-27D6
   - INS-260403-B6FD
   - INS-260403-8E4D
 stance: >-

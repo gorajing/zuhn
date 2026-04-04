@@ -5,4 +5,5 @@
 - `INS-260323-01F9` Iterative public deployment of imperfect models surfaces discoveries — both positive and negative — that internal testing cannot.
 - `INS-260402-7999` Great software is written by sketching and refining, not by executing a pre-completed blueprint.
 - `INS-260329-917B` Starting with login plus one primary feature, verifying it works, then adding secondary features through follow-up prompts avoids the compounding errors of complex multi-feature requests.
+- `INS-260403-FF4E` Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
 - `INS-260330-84F4` Start with a small useful hack and let it grow, rather than designing a comprehensive system upfront.

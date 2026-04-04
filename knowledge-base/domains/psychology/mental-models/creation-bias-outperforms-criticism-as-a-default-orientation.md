@@ -46,13 +46,12 @@ stance: >-
   critical analysis of existing things, because criticism feels sophisticated
   but creation — especially early awkward creation — is rarer and more valuable.
 related:
-  - INS-260327-23F8
   - INS-260329-4C4C
   - INS-260403-7093
   - INS-260329-4DBC
   - INS-260330-C0B9
+  - INS-260403-B508
   - INS-260403-AC03
-  - PRI-260328-04FA
 ---
 Graham argues that criticism seems sophisticated while creation often seems awkward, especially at first. This asymmetry causes people to overvalue critical observations about others' work relative to making new things themselves. The key insight is that the earliest steps of creation — the ones that look most clumsy — are precisely the most rare and valuable. This maps to a broader principle: when choosing between analyzing existing things and building new things, the building orientation produces more value per unit of effort, even when the output quality is initially lower.
 

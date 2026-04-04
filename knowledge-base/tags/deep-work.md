@@ -1,6 +1,5 @@
 # Tag: deep-work
 
-- `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - `INS-260329-D481` Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.
 - `INS-260322-BEA3` The first thing you focus on each day gets prime mental real estate with zero competition — so give that slot to your single most important task.
 - `INS-260329-9A30` A meeting that costs a manager one of 100+ time slots costs a maker one of only 10 weekly work blocks — a 10x asymmetric penalty.
@@ -9,6 +8,7 @@
 - `INS-260330-A1D2` Leslie Perlow's experiment showed engineers who protected mornings from all interruptions on specific days achieved 65% above-average productivity.
 - `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
 - `INS-260330-909E` Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions.
+- `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260329-613F` Reread great books until you can teach them rather than consuming many books superficially.
 - `INS-260329-BCCB` Long-form tutorials that build cumulatively create stronger foundational understanding than consuming the same material in disconnected short videos.

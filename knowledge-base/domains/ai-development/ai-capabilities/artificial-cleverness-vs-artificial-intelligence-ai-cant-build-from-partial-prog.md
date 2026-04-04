@@ -40,10 +40,10 @@ resolutions:
     interactive building is what Tao calls 'intelligence' vs mere 'cleverness.'
 related:
   - INS-260325-2C31
+  - INS-260403-A4CF
   - INS-260403-A1DF
   - INS-260327-9BA2
-  - INS-260327-DD48
-  - INS-260330-CC7D
+  - INS-260403-78E2
   - INS-260329-FCD3
   - INS-260330-1118
 stance: >-

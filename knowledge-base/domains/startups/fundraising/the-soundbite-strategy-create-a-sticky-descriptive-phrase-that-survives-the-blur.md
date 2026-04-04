@@ -52,16 +52,16 @@ stance: >-
   single memorable descriptive phrase ('the Microsoft Word of ecommerce') is a
   necessary survival mechanism for being remembered at all
 related:
-  - INS-260330-4FB9
-  - INS-260330-2294
-  - INS-260330-8F91
-  - INS-260330-2784
-  - INS-260330-E54B
-  - INS-260403-81CE
-  - INS-260403-F171
-  - INS-260403-D375
-  - INS-260403-2A1D
-  - INS-260403-0AF4
+  - INS-260323-539C
+  - INS-260322-25B4
+  - INS-260327-BE4E
+  - INS-260327-3049
+  - INS-260327-4C94
+  - INS-260329-F04B
+  - INS-260330-70F5
+  - INS-260402-CCC3
+  - INS-260403-C5BA
+  - INS-260403-A1DF
 ---
 Graham argues that the first cut in fundraising is simply being one of the pitches that investors remember afterward. The mechanism for this is a compact, descriptive phrase — in startup world usually 'the X of Y' format (Viaweb was 'the Microsoft Word of ecommerce'). This phrase should be launched 'clearly but apparently casually' near the beginning of the talk.
 

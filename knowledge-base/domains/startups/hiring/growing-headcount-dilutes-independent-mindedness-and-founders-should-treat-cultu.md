@@ -46,10 +46,10 @@ stance: >-
   cost as seriously as salary when deciding whether to grow the team.
 related:
   - INS-260403-FE91
+  - INS-260403-78E2
   - INS-260403-41BC
   - INS-260323-244C
   - INS-260327-DAE5
-  - INS-260330-3C2F
 evidence:
   - id: INS-260403-FE91
     type: EXTENDS

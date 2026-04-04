@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3355 actionable insights
+Generated on 2026-04-04 | 3365 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1106,6 +1106,7 @@ Generated on 2026-04-04 | 3355 actionable insights
 - [INS-260403-83E2] Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - [INS-260403-AAE4] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - [INS-260403-E2FB] Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply.
+- [INS-260403-78E2] Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1409,6 +1410,7 @@ Generated on 2026-04-04 | 3355 actionable insights
 - [INS-260403-472E] The biggest killer of potentially successful projects is never starting them due to premature quality standards.
 - [INS-260403-62AF] A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
 - [INS-260403-449D] Programs where participants work on real projects during training transfer skills more effectively than lecture-based alternatives.
+- [INS-260403-B508] Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1445,6 +1447,7 @@ Generated on 2026-04-04 | 3355 actionable insights
 ## psychology/negotiation
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
 - [INS-260402-7FCC] Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
+- [INS-260403-8FB5] Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy.
 
 ## psychology/perception
 - [INS-260323-5D23] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
@@ -1792,6 +1795,8 @@ Generated on 2026-04-04 | 3355 actionable insights
 - [INS-260403-8008] The most powerful business models get customers, communities, or third parties to create the core value while the company provides the platform.
 - [INS-260403-F5EE] People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
 - [INS-260403-97F8] Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
+- [INS-260403-3F10] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
+- [INS-260403-C4DF] Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -1836,6 +1841,7 @@ Generated on 2026-04-04 | 3355 actionable insights
 - [INS-260403-FE37] A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
 - [INS-260403-2A1D] Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - [INS-260403-92EB] Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
+- [INS-260403-CC25] Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2053,6 +2059,8 @@ Generated on 2026-04-04 | 3355 actionable insights
 - [INS-260330-B65B] Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
 - [INS-260330-06E3] Capitalism scaled in Britain partly because writers like Thomas Mun reframed market participation as natural human behavior — even coining 'individuals' and 'career' as personal identity terms.
 - [INS-260403-2245] Qualifications are not scalars measuring weakness — they're a rich vocabulary expressing scope, certainty, knowledge source, and falsifiability.
+- [INS-260403-6424] Claiming a list is exhaustive ('The 7 secrets') exploits readers' need to verify completeness, making it effective linkbait but intellectually dishonest.
+- [INS-260403-D20A] List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments.
 
 ## startups/developer-tools
 - [INS-260329-9A58] Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
@@ -2232,6 +2240,7 @@ Generated on 2026-04-04 | 3355 actionable insights
 - [INS-260403-30E5] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - [INS-260403-4328] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - [INS-260403-E52B] The Calvin Cycle produces 6 G3P molecules but 5 must regenerate the starting material—only 1 leaves as net output, revealing the true cost of sustaining a production cycle.
+- [INS-260403-FF4E] Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -3526,6 +3535,7 @@ Generated on 2026-04-04 | 3355 actionable insights
 - [INS-260403-45AA] Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.
 - [INS-260403-7072] Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
 - [INS-260403-B1F2] Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
+- [INS-260403-08E6] Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

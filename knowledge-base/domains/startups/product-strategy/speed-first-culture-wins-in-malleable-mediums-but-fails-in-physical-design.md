@@ -44,6 +44,6 @@ related:
   - INS-260330-F5A1
   - INS-260329-7B1D
   - INS-260403-AC03
-  - INS-260330-5609
+  - INS-260403-FF4E
 ---
 Paul Graham observes that America's impatient, just-do-it culture produces world-class software and movies but terrible cars and cities. The distinction isn't just cultural preference — it's about medium malleability. Software can be rewritten overnight; a charcoal sketch approach works because mistakes are cheap to fix. Physical products like cars and buildings have hard constraints where mistakes are permanent and costly. This framework suggests founders should match their development methodology to the reversibility of their medium rather than applying one speed universally.

@@ -1,5 +1,6 @@
 # Tag: novelty
 
+- `INS-260403-A4CF` Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
 - `INS-260403-B6FD` False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260327-FD99` We imagine the future as a modified version of the present because we can only project from what we currently know, systematically missing the genuinely novel.
 - `INS-260330-F9C1` Novel shared experiences drive the dopamine system that sustains romantic love, making deliberate novelty-seeking the most brain-aligned strategy for long-term relationship maintenance.

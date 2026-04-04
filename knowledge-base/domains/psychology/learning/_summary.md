@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 224 insights
+> 226 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -148,6 +148,7 @@
 - `INS-260329-2FEB` [high] Immediate output from each new concept (printing, calculations, simple games) cements understanding faster than abstract theory.
 - `INS-260403-5C1D` [high] Authority-imposed tests are hackable proxies; market tests honestly measure only what they actually test.
 - `INS-260330-D2D2` [high] 'Almost all' has a precise mathematical meaning that excludes infinitely many cases — perfect squares are 'almost none' of all numbers yet there are infinitely many of them.
+- `INS-260403-8C20` [high] The classic five-paragraph essay is secretly a list of 3 things, and disguising this prevents students from learning that real essays are vehicles for discovering new ideas.
 - `INS-260403-1448` [high] The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
 - `INS-260330-CC7D` [high] You'll cycle between feeling like a genius and feeling incompetent forever—that's the normal shape of expertise, not a sign of failure.
 - `INS-260330-053D` [high] Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
@@ -156,6 +157,7 @@
 - `INS-260329-023F` [high] Real learning happens when you build projects without following a tutorial, forcing yourself to problem-solve independently.
 - `INS-260330-4E95` [high] Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
 - `INS-260403-41BC` [high] Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
+- `INS-260403-B508` [high] Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - `INS-260329-A937` [medium] Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
 - `INS-260329-975C` [medium] Granular chapter structure gives learners constant progress signals and easy re-entry points, reducing the intimidation of long-form content.
 - `INS-260330-FE14` [medium] Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.

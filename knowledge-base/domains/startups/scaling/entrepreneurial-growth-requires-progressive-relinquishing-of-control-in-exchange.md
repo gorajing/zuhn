@@ -60,6 +60,7 @@ related:
   - PRI-260403-E097
   - INS-260403-57FF
   - INS-260329-7BA7
+  - INS-260403-BE18
 evidence:
   - id: INS-260329-7BA7
     type: TRANSFERS_TO

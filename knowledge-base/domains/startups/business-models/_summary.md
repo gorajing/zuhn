@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 141 insights
+> 144 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -12,6 +12,7 @@
 - `INS-260327-1576` [high] BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
 - `INS-260324-C33C` [high] Unlike most food trends, bubble tea innovation flows from Asia to the West — Chinese and Taiwanese chains invest millions in US franchising while Americans have the highest disposable income and lowest product familiarity.
 - `INS-260403-E642` [high] Innovating the business model itself—not just the product—is the primary driver of durable market disruption.
+- `INS-260403-3F10` [high] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-7E18` [high] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
 - `INS-260325-B8CB` [high] BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
 - `INS-260330-C7C2` [high] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
@@ -100,6 +101,7 @@
 - `INS-260327-DF8C` [high] Resource businesses that maximize short-term extraction rates deplete reserves faster, while those that manage sustainab
 - `INS-260327-38F0` [high] Fast-food chains whose brand promise is consistency (every KFC tastes the same) lose to competitors whose promise is fre
 - `INS-260327-D794` [high] Restaurant formats designed to minimize operator skill requirements (assembly-line processes, standardized techniques) a
+- `INS-260403-C4DF` [high] Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - `INS-260330-DC0D` [high] McDonald's beat competitors by taking a 1.4% revenue cut instead of overpricing supplies, aligning franchisor and franchisee interests.
 - `INS-260324-9586` [high] VCs proclaimed scooters would 'disrupt walking,' raised billions with no moat in hardware or software, dumped scooters on cities without permission, and the entire category collapsed within 4 years.
 - `INS-260327-E68D` [high] Haunted house operators must generate an entire years revenue in 4-6 weeks, creating extreme operational intensity and h
@@ -137,6 +139,7 @@
 - `INS-260322-AABB` [medium] The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` [medium] Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
+- `INS-260403-BE18` [medium] Somali piracy independently reinvented venture capital, equity splits, and performance bonuses because these are convergent solutions to coordination under uncertainty.
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.
 - `INS-260330-DA4A` [medium] Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
 - `INS-260327-889F` [medium] Taco Bell's turnaround was powered by sequential complementary leaders -- Emil Brolick (product/operations, 6 years) laid the foundation, then Greg Creed (marketing/pricing, 9 years) built the house on top of it.

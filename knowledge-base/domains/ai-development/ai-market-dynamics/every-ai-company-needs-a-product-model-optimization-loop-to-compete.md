@@ -50,12 +50,12 @@ stance: >-
   off-the-shelf models, because the product itself becomes the reinforcement
   learning environment.
 related:
-  - INS-260322-83D4
   - INS-260327-E07C
+  - INS-260403-3F10
   - PRI-260328-A82C
+  - INS-260322-83D4
   - PRI-260324-36BF
   - PRI-260328-94D4
-  - INS-260327-30E4
 evidence:
   - id: INS-260327-30E4
     type: CHALLENGES

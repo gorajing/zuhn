@@ -48,7 +48,6 @@ stance: >-
   ones into deep expertise.
 related:
   - INS-260323-0961
-  - INS-260322-25B4
   - INS-260327-DD48
   - INS-260330-B5BF
   - INS-260402-D0F3
@@ -56,7 +55,8 @@ related:
   - INS-260403-AB5C
   - INS-260403-A1DF
   - INS-260403-E9DD
-  - INS-260403-A136
+  - INS-260403-34C0
+  - INS-260403-78E2
 evidence:
   - id: INS-260323-0961
     type: EXTENDS

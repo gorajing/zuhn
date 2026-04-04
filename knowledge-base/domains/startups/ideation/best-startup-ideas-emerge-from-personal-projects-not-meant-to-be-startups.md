@@ -45,7 +45,6 @@ stance: >-
   Startups that grow out of side projects built for the founder's own use have a
   higher chance of success than those conceived as deliberate business ideas.
 related:
-  - INS-260320-E044
   - INS-260321-3660
   - INS-260323-09E4
   - INS-260327-FCCF
@@ -55,6 +54,7 @@ related:
   - INS-260327-D5CC
   - PRI-260328-59DC
   - INS-260328-6E7A
+  - INS-260328-A9D2
 ---
 Apple, Google, and Facebook all began as personal projects — Wozniak wanted to build a computer, Larry and Sergey wanted better search, Zuckerberg wanted an online student directory. None were conceived as startups. Paul Graham argues this pattern is not coincidental: when you build for yourself, your unconscious instincts about what's interesting are better than your conscious ideas about what would be a good company.
 

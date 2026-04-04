@@ -49,10 +49,10 @@ stance: >-
   not just a pitch tactic but a focusing exercise that reveals whether your
   strategy is sufficiently coherent
 related:
-  - INS-260327-2C46
   - INS-260403-EF30
   - INS-260403-F3FF
   - INS-260403-D375
+  - INS-260403-81CE
   - INS-260403-B3A4
   - INS-260403-941F
   - INS-260403-448F

@@ -51,7 +51,6 @@ related:
   - INS-260402-3639
   - INS-260323-87F3
   - PRI-260323-0942
-  - INS-260402-7C15
   - INS-260403-F932
 stance: >-
   Socrates warned that writing would destroy memory; every new medium triggers

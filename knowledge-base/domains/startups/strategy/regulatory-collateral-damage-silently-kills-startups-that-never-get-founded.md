@@ -49,12 +49,11 @@ stance: >-
   the damage is invisible because the startups that would have existed simply
   never get founded.
 related:
-  - INS-260329-903B
-  - INS-260403-9680
-  - INS-260402-9075
-  - INS-260403-9A4C
-  - INS-260330-6204
-  - INS-260403-498A
+  - INS-260402-7C15
+  - INS-260402-12D0
+  - INS-260402-3639
+  - INS-260403-1A96
+  - INS-260402-A693
 ---
 Graham makes a subtle point about regulatory harm: when Sarbanes-Oxley effectively killed the IPO market for small companies, it didn't just remove one exit path—it restructured the entire startup ecosystem. With IPOs off the table, 'succeeding' became synonymous with 'getting acquired,' which reshaped what VCs fund, how startups operate, and which companies get built at all. The most dangerous aspect is the invisibility of the damage: unlike harming an established industry that will lobby loudly, killing potential startups produces no noise because the affected founders simply never start companies.
 
