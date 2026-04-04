@@ -66,10 +66,10 @@
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks.
 - `INS-260323-C0BD` GSP and Lex Fridman agree that in martial arts, skill level is by far the most important factor — it trumps strength, size, and even heart.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
+- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
-- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
+- `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260403-4423` Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.

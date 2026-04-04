@@ -1,5 +1,6 @@
 # Tag: observation
 
+- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.
 - `INS-260323-4279` In quantum mechanics, measurement doesn't reveal pre-existing properties — it creates them; before observation, properties are undefined, not merely unknown.
 - `INS-260402-4E59` Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
 - `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
@@ -19,4 +20,3 @@
 - `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260330-69C6` The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
 - `INS-260330-5A13` Study how your current system fails at the edges to discover what to build next.
-- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.

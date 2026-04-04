@@ -42,8 +42,8 @@
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
 - `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
-- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
+- `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
 - `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
 - `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.

@@ -15,6 +15,7 @@
 - `INS-260403-9DE0` If you can get better at something through practice, objective quality must exist in that domain.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260404-89C3` The expertise barrier for participation in a discussion is a reliable proxy for whether it's driven by knowledge or identity.
+- `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260330-BD04` Non-practitioners who see a field's macro importance systematically underestimate its micro complexity, producing misleading career guidance.
 - `INS-260330-5EAC` Novices overestimate their abilities because they lack the very knowledge needed to recognize what they don't know.
 - `INS-260330-43EE` Novices overestimate their abilities because the skills required to assess competence are the same skills they lack.
@@ -23,7 +24,6 @@
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260325-E84D` Dunning-Kruger creates a confidence inversion: beginners are most confident, experts least — because skill builds the capacity to see gaps.
 - `INS-260330-66E6` Oscillating between 'I'm an expert' and 'I never claimed expertise' is a deliberate rhetorical trick that makes someone impossible to hold accountable.
-- `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.

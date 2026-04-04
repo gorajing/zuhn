@@ -22,11 +22,11 @@
 - `INS-260323-433B` Our subjective 'now' is an extended window of roughly 200-300ms of perceptual latency, stitched together with episodic memory and anticipation — not a mathematical instant.
 - `INS-260330-6D5C` The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete.
 - `INS-260323-9774` The brain is not recording reality — it is rendering a real-time simulation filtered through evolutionary structures designed for survival, not for representing truth.
+- `INS-260330-92BB` Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making.
+- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260404-D976` Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
 - `INS-260330-10AA` Romantic love activates the same dopamine reward circuits as cocaine addiction and the same serotonin patterns as OCD, producing predictable obsession and rumination.
-- `INS-260330-92BB` Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making.
-- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation.
 - `INS-260325-C830` Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260330-4E50` In ADHD, the default mode network and task-directed networks fire together instead of alternating, and dopamine acts as the conductor that should keep them anti-correlated.
