@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 78 insights
+> 79 insights
 
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
@@ -18,6 +18,7 @@
 - `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
 - `INS-260403-FBC0` [high] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260330-8FC5` [high] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
+- `INS-260404-B04F` [high] Plants produce 40 billion tons of a half-broken enzyme rather than evolving a better one, and still dominate Earth's biomass.
 - `INS-260330-6689` [high] Each individual integration step in the Greater Bay Area plan has a reasonable economic justification, making organized resistance to the cumulative erosion of autonomy far more difficult than opposing a single dramatic change.
 - `INS-260403-CA46` [high] When abundance replaces scarcity, the winning strategy inverts but behavior lags.
 - `INS-260403-6EDC` [high] Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.

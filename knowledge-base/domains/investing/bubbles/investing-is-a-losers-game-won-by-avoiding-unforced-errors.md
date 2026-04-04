@@ -43,12 +43,11 @@ stance: >-
   Amateur investors should focus entirely on minimizing mistakes rather than
   trying to pick winners, because the game is won by whoever makes fewer errors.
 related:
-  - INS-260325-0688
   - INS-260325-1911
   - INS-260330-7E3F
+  - INS-260325-0688
   - INS-260326-6B98
   - INS-260403-34E0
-  - INS-260323-6351
   - INS-260328-33E8
 evidence:
   - id: INS-260330-7E3F

@@ -9,6 +9,7 @@
 - `INS-260403-D7C4` Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
+- `INS-260404-0430` Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.
 - `INS-260403-5A4F` Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - `INS-260403-86DB` Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
 - `INS-260403-B29D` Vague all-encompassing descriptions are parsed as meaningless boilerplate; narrow concrete descriptions create a working mental model investors can build on.

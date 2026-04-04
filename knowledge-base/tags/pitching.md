@@ -44,6 +44,7 @@
 - `INS-260403-2247` Mention monetization to show you've thought about it, but don't elaborate — the model is probably wrong anyway.
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-3482` Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
+- `INS-260404-10FF` Don't spend pitch time on your business model — investors expect it to be wrong at early stage, and a bad one will overshadow your real strengths.
 - `INS-260403-13ED` Early business models are usually wrong, so pitching them wastes time and can make you look naive — talk about what you've built instead.
 - `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - `INS-260403-4A4A` Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
@@ -63,6 +64,7 @@
 - `INS-260403-2204` Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260403-D430` A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 - `INS-260403-9AB3` Describe your startup narrowly and concretely rather than expansively, because all-encompassing descriptions carry no information.
+- `INS-260404-0430` Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
@@ -89,6 +91,7 @@
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
 - `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
+- `INS-260404-7609` Tell stories about specific users and their problems rather than citing market sizes — investors' biggest fear is that nobody actually wants your product.
 - `INS-260403-D7DF` Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.

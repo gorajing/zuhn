@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3686 actionable insights
+Generated on 2026-04-04 | 3692 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1640,6 +1640,7 @@ Generated on 2026-04-04 | 3686 actionable insights
 - [INS-260403-05DF] Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 - [INS-260403-1EB3] Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
 - [INS-260404-58AE] Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
+- [INS-260404-E6EA] When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2780,6 +2781,9 @@ Generated on 2026-04-04 | 3686 actionable insights
 - [INS-260403-21C4] Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
 - [INS-260404-BF04] Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
 - [INS-260404-9882] Approach your pitch like successive approximation: start grippingly narrow, then flesh out, rather than starting broad and hoping investors fill in the gaps.
+- [INS-260404-10FF] Don't spend pitch time on your business model — investors expect it to be wrong at early stage, and a bad one will overshadow your real strengths.
+- [INS-260404-0430] Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.
+- [INS-260404-7609] Tell stories about specific users and their problems rather than citing market sizes — investors' biggest fear is that nobody actually wants your product.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3649,6 +3653,7 @@ Generated on 2026-04-04 | 3686 actionable insights
 - [INS-260403-C125] Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
 - [INS-260403-AEBD] Restructuring resource assignments can create room for growth without acquiring new resources.
 - [INS-260403-857E] Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
+- [INS-260404-FF84] Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3720,6 +3725,7 @@ Generated on 2026-04-04 | 3686 actionable insights
 - [INS-260403-462F] Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
 - [INS-260403-0764] Before designing an innovation strategy, assess whether your current projects skew toward exploiting existing models or exploring new ones.
 - [INS-260403-0CF7] Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.
+- [INS-260404-007B] Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

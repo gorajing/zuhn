@@ -50,6 +50,7 @@ stance: >-
   identically in biological membranes, batteries, and economic systems.
 related:
   - INS-260330-972B
+  - INS-260404-95E9
   - INS-260330-49E9
   - INS-260330-7E39
   - INS-260330-2E41
@@ -58,7 +59,6 @@ related:
   - INS-260330-F2B6
   - INS-260403-861A
   - INS-260403-E374
-  - INS-260403-464D
 evidence:
   - id: INS-260330-7E39
     type: EXTENDS

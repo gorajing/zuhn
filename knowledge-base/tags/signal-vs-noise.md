@@ -12,6 +12,6 @@
 - `INS-260403-6A55` Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
 - `INS-260403-A172` Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260323-0919` LIGO built two identical detectors 3,000 km apart so that any signal had to appear in both to count as real.
-- `INS-260328-031A` Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.
 - `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis.
 - `INS-260330-5EA4` If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
+- `INS-260328-031A` Both positive and negative viral narratives about San Francisco on Twitter are wrong more often than not -- the signal is pure noise.

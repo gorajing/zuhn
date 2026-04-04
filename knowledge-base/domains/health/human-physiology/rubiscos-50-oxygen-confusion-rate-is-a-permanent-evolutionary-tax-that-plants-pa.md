@@ -49,11 +49,11 @@ stance: >-
   overproducing the flawed component rather than replacing it, because path
   dependency makes replacement impossible once the ecosystem depends on the flaw
 related:
-  - INS-260330-54ED
   - INS-260330-C02D
+  - INS-260404-4010
+  - INS-260330-54ED
   - PRI-260403-40D7
   - INS-260403-D482
-  - INS-260403-0162
   - INS-260404-3608
 evidence:
   - id: INS-260327-B9BB

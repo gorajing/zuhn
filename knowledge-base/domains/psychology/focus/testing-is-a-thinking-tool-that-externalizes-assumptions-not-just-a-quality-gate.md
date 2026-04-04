@@ -55,10 +55,10 @@ stance: >-
   do, making it a tool for clarifying thought rather than merely catching bugs.
 related:
   - INS-260403-A27F
+  - INS-260404-E6EA
   - PRI-260328-0F0D
   - INS-260403-E51B
   - INS-260403-2DF9
-  - INS-260323-ACD9
 evidence:
   - id: INS-260330-63DD
     type: TRANSFERS_TO

@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 207 insights
+> 208 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -116,6 +116,7 @@
 - `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
 - `INS-260403-6BD9` [high] Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems.
+- `INS-260404-007B` [high] Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
 - `INS-260403-22E9` [high] Cruise ships register under flags of convenience like Panama or Liberia to exploit favorable labor laws, saving millions in wages and enabling a global low-cost workforce.
 - `INS-260403-8C20` [high] When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead.
 - `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.

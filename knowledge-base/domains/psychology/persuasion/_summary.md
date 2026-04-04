@@ -1,10 +1,11 @@
 # Topic: persuasion
 
-> 49 insights
+> 50 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260403-2F86` [high] Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
+- `INS-260404-E6EA` [high] When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
 - `INS-260403-1A71` [high] In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - `INS-260404-58AE` [high] Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.

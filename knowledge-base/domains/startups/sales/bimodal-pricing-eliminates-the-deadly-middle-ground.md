@@ -47,7 +47,6 @@ stance: >-
   the worst unit economics because they bear high customer acquisition costs
   without the margins of premium or the volume of cheap.
 related:
-  - INS-260327-4D70
   - INS-260327-D0F4
   - PRI-260403-5DEA
   - INS-260327-2B44

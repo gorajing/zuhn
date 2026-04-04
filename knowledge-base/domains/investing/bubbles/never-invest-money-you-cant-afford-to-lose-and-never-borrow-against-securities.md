@@ -51,7 +51,7 @@ related:
   - INS-260328-195E
   - PRI-260403-26B9
   - INS-260329-59FF
-  - INS-260325-9DBB
+  - INS-260404-10FF
 stance: >-
   The two cardinal rules of investing: only use money you don't need short-term,
   and never leverage your portfolio

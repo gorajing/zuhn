@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 34 insights
+> 35 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-C514` [high] Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
@@ -15,6 +15,7 @@
 - `INS-260403-F100` [high] The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
 - `INS-260403-2CDA` [high] RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.
 - `INS-260404-3608` [high] When replacement cost exceeds compensation cost, scaling the workaround beats re-architecting — the same logic that keeps RuBisCo in every plant on Earth.
+- `INS-260404-4010` [high] RuBisCo is terrible at its job but plants invested so heavily in it that 40 billion tons exist on Earth rather than evolving a replacement.
 - `INS-260403-2457` [high] RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
 - `INS-260403-3831` [high] Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
 - `INS-260403-D645` [high] Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.

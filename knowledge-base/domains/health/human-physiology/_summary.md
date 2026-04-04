@@ -1,10 +1,11 @@
 # Topic: human-physiology
 
-> 32 insights
+> 33 insights
 
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-B061` [high] PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth.
 - `INS-260403-726B` [high] Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
+- `INS-260404-EFA8` [high] The light-dependent reactions prove that virtually all life on Earth is fusion-powered, with photosynthesis as the critical conversion step from stellar to chemical energy.
 - `INS-260330-1084` [high] A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260330-BA7F` [high] Every oxygen molecule we breathe originates from Photosystem II splitting water — a single reaction point sustaining all aerobic life.
 - `INS-260330-8538` [high] Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.

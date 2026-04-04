@@ -64,7 +64,6 @@ related:
   - INS-260403-3E1C
   - INS-260330-0B8D
   - INS-260330-4EC0
-  - INS-260330-0B4A
 evidence:
   - id: INS-260330-68C8
     type: TRANSFERS_TO

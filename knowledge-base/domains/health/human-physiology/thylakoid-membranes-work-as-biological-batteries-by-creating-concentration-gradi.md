@@ -49,14 +49,14 @@ stance: >-
   Biological energy production fundamentally relies on creating and exploiting
   chemical imbalances across membranes, not direct energy transfer
 related:
-  - INS-260330-9FAA
   - INS-260403-37C4
   - INS-260330-7E39
+  - INS-260404-95E9
   - INS-260330-2E41
   - INS-260403-172E
-  - INS-260403-DE05
   - INS-260403-791A
   - INS-260403-F249
+  - INS-260403-DE05
 evidence:
   - id: INS-260330-666E
     type: TRANSFERS_TO

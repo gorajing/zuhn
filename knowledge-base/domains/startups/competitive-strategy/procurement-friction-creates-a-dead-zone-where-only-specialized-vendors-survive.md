@@ -53,8 +53,8 @@ related:
   - INS-260324-D90C
   - INS-260329-1318
   - INS-260403-5D89
+  - INS-260404-37BB
   - INS-260321-AA91
-  - INS-260403-0185
 ---
 Joel Spolsky observed that corporate software under $1,000 could be bought by individual managers, but anything above required committee approval. The cost of navigating that approval process was so high for vendors that it didn't make sense to charge less than $50,000—meaning $5,000 software had to be priced at $50,000.
 

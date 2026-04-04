@@ -51,10 +51,11 @@ stance: >-
 related:
   - INS-260403-3482
   - INS-260403-C625
+  - INS-260404-10FF
   - INS-260403-8346
   - INS-260403-1852
-  - INS-260403-6A55
   - INS-260403-2DE3
+  - INS-260403-6A55
 ---
 Graham recounts a VC who invested in a company despite knowing their business model was wrong — he expected it to be wrong at that stage, even though the founders were experienced repeat entrepreneurs. The implication is stark: if even seasoned founders get business models wrong early on, spending your limited pitch time on one is doubly wasteful.
 

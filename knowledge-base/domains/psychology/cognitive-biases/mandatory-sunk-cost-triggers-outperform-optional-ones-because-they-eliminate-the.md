@@ -51,10 +51,11 @@ stance: >-
 related:
   - INS-260323-9D6E
   - INS-260403-CE5F
+  - INS-260404-ED19
   - INS-260403-9104
   - INS-260403-543E
   - INS-260403-546E
-  - INS-260403-C40D
+  - INS-260404-007B
 ---
 Both Costco and Amazon Prime exploit sunk-cost fallacy — once you've paid, you feel compelled to shop there to justify the expense. But there's a critical structural difference. Amazon Prime is optional, meaning customers self-sort: those who calculate it's worth it subscribe, and those who don't, don't. The bias only activates in people already predisposed to loyalty.
 

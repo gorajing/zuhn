@@ -9,6 +9,7 @@
 - `INS-260403-59F8` Making membership the primary revenue source forces the company to prioritize long-term customer satisfaction over short-term margin extraction.
 - `INS-260403-1208` Costco derives 75% of profit from membership fees, which forces it to prioritize renewal-worthy value over per-item margin extraction.
 - `INS-260403-F634` Costco's 75% revenue from memberships makes low prices a retention strategy, not a sacrifice.
+- `INS-260404-F827` When membership IS the business model (not a perk), the company's profit motive aligns with delivering maximum customer value.
 - `INS-260403-FAE1` Making membership the primary revenue source forces the company to optimize for long-term customer satisfaction over short-term margin extraction.
 - `INS-260404-837E` Costco makes 75% of profit from membership fees, freeing it to keep markups at 11% average versus 24-35% for competitors.
 - `INS-260403-3864` Costco makes 75% of profit from membership fees, which means raising prices costs $60 in lost renewals for pennies of margin gain.
@@ -20,6 +21,6 @@
 - `INS-260403-0650` When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
-- `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
 - `INS-260325-1585` Subscriptions shifted from delivering value to exploiting inertia — most extract more from convenience-addiction than they provide in service.
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
+- `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.

@@ -52,7 +52,6 @@ related:
   - INS-260330-CCF0
   - INS-260402-71A7
   - INS-260330-7ECB
-  - INS-260403-5348
 ---
 Graham points out that the best programming languages have been developed by small groups, and that if Java (run by a committee) turned out to be good, 'it will be the first time in history that a committee has designed a good language.' Committee design produces bureaucratic protocols and excessive process rather than elegant simplicity.
 

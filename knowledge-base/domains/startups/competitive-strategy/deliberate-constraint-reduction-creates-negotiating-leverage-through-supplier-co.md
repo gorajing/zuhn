@@ -58,6 +58,7 @@ related:
   - INS-260403-180D
   - INS-260403-0DC2
   - INS-260404-1843
+  - INS-260404-37BB
 ---
 Most retailers treat shelf space as inventory to fill — more products means more potential sales. Costco inverts this by radically constraining selection to roughly 4,000 SKUs. This artificial scarcity transforms the power dynamic with suppliers: instead of Costco needing products to fill shelves, suppliers need Costco's limited slots to access its affluent, high-volume membership base.
 
