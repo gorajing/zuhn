@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3761 actionable insights
+Generated on 2026-04-04 | 3765 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -3933,6 +3933,10 @@ Generated on 2026-04-04 | 3761 actionable insights
 - [INS-260404-9A82] Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
 - [INS-260404-5882] Sequoia's 'proxy for demand' — what are people doing now with bad tools — is more persuasive than market size because it proves behavioral need exists.
 - [INS-260404-D1E2] Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
+- [INS-260404-087C] End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.
+- [INS-260404-6442] Ask 'when is the last time you...' instead of 'would you...' to get facts over opinions.
+- [INS-260404-DD95] Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.
+- [INS-260404-1773] Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

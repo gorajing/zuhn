@@ -51,14 +51,14 @@ stance: >-
 related:
   - INS-260325-2944
   - INS-260325-CE25
-  - INS-260325-E9B1
   - INS-260323-4AB5
-  - INS-260326-98A0
   - INS-260329-8C69
   - INS-260329-812E
   - INS-260330-63B8
   - INS-260402-4451
   - INS-260402-BA91
+  - INS-260403-1448
+  - INS-260403-E1AD
 ---
 Graham uses Newton as a personal reproach — a reminder that the biggest obstacle to great work isn't lack of ability but the comfortable gravitational pull of small problems. Small questions are 'pleasantly familiar' and offer immediate rewards, even bigger rewards in your own lifetime. But this is the route to 'well-deserved obscurity.'
 

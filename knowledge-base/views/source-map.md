@@ -245,6 +245,7 @@ Generated on 2026-04-04 | 2421 sources
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
+| 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 5 | 2026-03-31 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
 | 1,000,000 | blog | 5 | 2026-03-31 |
@@ -293,6 +294,7 @@ Generated on 2026-04-04 | 2421 sources
 | America must embrace the Electric Age, or fall behind | blog | 5 | 2026-03-30 |
 | America's chip export controls are working | blog | 5 | 2026-03-30 |
 | An Open Letter To CEOs | blog | 5 | 2026-03-31 |
+| An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace, Zynga) | blog | 5 | 2026-03-31 |
 | Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram) | blog | 5 | 2026-03-31 |
 | Apple's Mistake | blog | 5 | 2026-03-31 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
@@ -327,6 +329,7 @@ Generated on 2026-04-04 | 2421 sources
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
 | Dario Amodei Says AGI Is 1-3 Years Away: Full Breakdown | blog | 5 | 2026-03-30 |
+| Deep Dive on Neuralink: Controlling Computers With Your Mind | blog | 5 | 2026-03-30 |
 | Deep Dives | blog | 5 | 2026-03-30 |
 | DeepSeek R1: The AI Disruption No One Saw Coming | blog | 5 | 2026-03-30 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
@@ -825,6 +828,7 @@ Generated on 2026-04-04 | 2421 sources
 | 7 Insights from our Webinar with Hubert Joly | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
 | 8 AI Prompts That Replace a $25K/Year Financial Analyst | blog | 4 | 2026-03-30 |
+| 8 Tips For Conducting Interviews That Deliver Relevant Customer Insights | blog | 4 | 2026-03-31 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | A founding vision for a startup is similar to a scientific hypothesis | blog | 4 | 2026-03-31 |
 | A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 4 | 2026-03-31 |
@@ -996,6 +1000,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
 | The Anatomy of Determination | blog | 4 | 2026-03-31 |
 | The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 4 | 2026-03-30 |
+| The Citrini post is just a scary bedtime story | blog | 4 | 2026-03-30 |
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 4 | 2026-03-30 |
 | The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 4 | 2026-03-30 |
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 4 | 2026-03-31 |
@@ -1034,6 +1039,7 @@ Generated on 2026-04-04 | 2421 sources
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 4 | 2026-03-30 |
 | Vertical SaaS: Now With AI Inside, B2C is Back, AI Agents Landscape  | blog | 4 | 2026-03-30 |
+| Welcome to Chaos World | blog | 4 | 2026-03-30 |
 | What Can Quantum Computers Actually Do | blog | 4 | 2026-03-30 |
 | What happens if the world pulls its money out of America? | blog | 4 | 2026-03-30 |
 | What I Read This Week… | blog | 4 | 2026-03-30 |
@@ -1965,7 +1971,6 @@ Generated on 2026-04-04 | 2421 sources
 | €1 Billion VC Fund in Spain💸, 10 Books for Founders, by Founders📚, The Power of Niche🎯 | blog | 0 | 2026-03-30 |
 | 10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling) | blog | 0 | 2026-03-31 |
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 0 | 2026-03-31 |
-| 10 growth tactics that never work | Elena Verna (Amplitude, Miro, SurveyMonkey, Dropbox) | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
 | $1,000 Head Start For America's Youth | blog | 0 | 2026-03-30 |
@@ -2005,7 +2010,6 @@ Generated on 2026-04-04 | 2421 sources
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
 | 8 Free Excel Templates Every Startup Founder Should Use | blog | 0 | 2026-03-30 |
 | 8 Reminders To Motivate Your Search For Value Propositions & Business Models | blog | 0 | 2026-03-31 |
-| 8 Tips For Conducting Interviews That Deliver Relevant Customer Insights | blog | 0 | 2026-03-31 |
 | 80+ Non-Dilutive Funding Sources for Startups (2026 Database) | blog | 0 | 2026-03-30 |
 | 89 Best Startup Essays by Top VCs & Founders (YC, a16z, Naval) | blog | 0 | 2026-03-30 |
 | 9 Ways To Make The Business Model Canvas Part Of Your DNA | blog | 0 | 2026-03-31 |
@@ -2068,7 +2072,6 @@ Generated on 2026-04-04 | 2421 sources
 | An inside look at how the New York Times builds product | Alex Hardiman (CPO at The New York Times) | blog | 0 | 2026-03-31 |
 | An inside look at Mixpanel’s product journey | Vijay Iyengar (Head of Product) | blog | 0 | 2026-03-31 |
 | An NFT That Saves Lives | blog | 0 | 2026-03-31 |
-| An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace, Zynga) | blog | 0 | 2026-03-31 |
 | Analysis Paralysis…Innovators Move Fast | blog | 0 | 2026-03-31 |
 | Announcing a brand-new podcast: “How I AI” with Claire Vo 🔥 | blog | 0 | 2026-03-31 |
 | Announcing Lenny and Friends Summit 🙌 | blog | 0 | 2026-03-31 |
@@ -2157,7 +2160,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: Is India the Next Economic Giant? | blog | 0 | 2026-03-30 |
 | Deep Dive: Moore's Law and Next Steps for Silicon | blog | 0 | 2026-03-30 |
 | Deep Dive on Humanoid Robots: The Case for a World Running Out of Workers | blog | 0 | 2026-03-30 |
-| Deep Dive on Neuralink: Controlling Computers With Your Mind | blog | 0 | 2026-03-30 |
 | Deep Dive: The Business Model of Healthcare | blog | 0 | 2026-03-30 |
 | Deep Dive: The Current State of AI | blog | 0 | 2026-03-30 |
 | Deep Dive: The Future of Space | blog | 0 | 2026-03-30 |
@@ -2304,7 +2306,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
 | The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
-| The Citrini post is just a scary bedtime story | blog | 0 | 2026-03-30 |
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
 | The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
@@ -2372,7 +2373,6 @@ Generated on 2026-04-04 | 2421 sources
 | Venture Capital Unveiled: Time for Change! | blog | 0 | 2026-03-30 |
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
 | Weird Languages | blog | 0 | 2026-03-31 |
-| Welcome to Chaos World | blog | 0 | 2026-03-30 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |
 | What Made Lisp Different | blog | 0 | 2026-03-31 |

@@ -52,9 +52,10 @@ stance: >-
 related:
   - INS-260323-5CBE
   - INS-260403-6714
+  - INS-260404-DD95
   - INS-260403-6D0D
   - INS-260327-89C7
-  - INS-260330-FE9E
+  - INS-260404-1773
 ---
 The natural instinct in customer interviews is to describe your solution and ask if people would use it. This produces systematically misleading data because respondents anchor on your framing rather than revealing their actual priorities. By structuring questions around the customer's jobs (what they're trying to get done), pains (what frustrates or blocks them), and gains (what outcomes they desire), you remove solution bias and surface the raw demand signal that should drive product decisions.
 

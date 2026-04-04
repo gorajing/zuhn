@@ -57,10 +57,12 @@ related:
   - INS-260322-82E8
   - INS-260327-B18F
   - INS-260329-75B6
+  - INS-260404-087C
   - INS-260328-0C87
-  - INS-260330-9F1F
+  - INS-260404-DD95
   - INS-260330-8D27
   - INS-260330-DAAD
+  - INS-260330-9F1F
 ---
 The speaker argues that whether an interview is 30 minutes or an hour, the first 2-3 minutes are disproportionately important due to the psychological power of first impressions. The opening question — whether 'tell me about yourself,' 'what led you here,' or 'why sales?' — is the candidate's chance to take control.
 

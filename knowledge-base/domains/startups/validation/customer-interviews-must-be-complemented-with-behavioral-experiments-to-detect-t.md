@@ -48,10 +48,7 @@ stance: >-
   Interview data alone is unreliable because customers systematically
   misrepresent their future behavior
 related:
-  - INS-260322-82E8
   - INS-260323-8165
-  - INS-260330-281A
-  - INS-260330-A6BE
   - INS-260403-DD95
   - INS-260403-359D
   - INS-260403-1BCC

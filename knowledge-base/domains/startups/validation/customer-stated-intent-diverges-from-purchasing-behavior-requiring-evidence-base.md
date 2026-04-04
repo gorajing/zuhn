@@ -48,11 +48,11 @@ stance: >-
   purchasing behavior
 related:
   - INS-260403-2824
-  - INS-260403-359D
   - INS-260403-C737
+  - INS-260403-359D
   - PRI-260328-B2EA
+  - INS-260404-DD95
   - PRI-260323-8EEA
-  - INS-260403-EA2D
 ---
 There is a well-documented gap between what customers say they will do and what they actually do. Entrepreneurs who treat interview enthusiasm as validation skip the critical step of testing willingness to pay. The fix is to design experiments with real commitment signals — pre-orders, letters of intent, waitlist deposits — before investing in full product development.
 

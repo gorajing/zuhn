@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3398 insights across 35 topics
+> 3402 insights across 35 topics
 
 ## Topics
 
@@ -40,4 +40,4 @@
 | scaling | 144 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | strategy | 221 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 55 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 137 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 141 | Pretty much 100% of startups that make something popular manage to make money from it. |

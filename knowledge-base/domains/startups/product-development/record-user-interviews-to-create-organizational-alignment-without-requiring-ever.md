@@ -55,7 +55,7 @@ related:
   - INS-260330-281A
   - INS-260330-478C
   - INS-260403-DD95
-  - INS-260403-C737
+  - INS-260404-DD95
 ---
 Shear describes recorded interviews as 'magic' for organizational buy-in. When a founder tells their team 'I talked to users and we should build X,' people don't trust the interpretation. But playing back the actual recording where a user describes their frustration or explains their workaround has disproportionate persuasive power. The emotional weight of a real person's voice expressing a real problem bypasses the skepticism that secondhand summaries trigger.
 

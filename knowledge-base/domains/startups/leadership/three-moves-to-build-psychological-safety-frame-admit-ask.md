@@ -50,11 +50,11 @@ stance: >-
   modeling curiosity by asking lots of questions.
 related:
   - INS-260320-26B1
+  - INS-260404-DD95
   - INS-260330-FE9E
   - INS-260322-C6CE
   - INS-260329-B2F4
   - INS-260327-A817
-  - INS-260403-FFF0
   - INS-260327-6FFC
 evidence:
   - id: INS-260320-26B1

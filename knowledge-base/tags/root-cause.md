@@ -8,3 +8,4 @@
 - `INS-260327-8431` Medical schools train doctors in pharmaceutical symptom management with virtually no nutrition education, making them structurally unable to address the dietary root causes of most chronic disease.
 - `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260403-6714` Asking 'why' repeatedly during interviews uncovers the real motivations behind customer behavior that surface answers conceal.
+- `INS-260404-1773` Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.

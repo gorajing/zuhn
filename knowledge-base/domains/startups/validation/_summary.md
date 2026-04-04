@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 137 insights
+> 141 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -22,6 +22,7 @@
 - `INS-260403-08E6` [high] Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - `INS-260403-DD95` [high] Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260403-C737` [high] Always follow customer interviews with cheap experiments that observe actual behavior, because what people say and what they do diverge systematically.
+- `INS-260404-6442` [high] Ask 'when is the last time you...' instead of 'would you...' to get facts over opinions.
 - `INS-260403-B87D` [high] Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
 - `INS-260403-113D` [high] Separate customer observation from solution design by temporarily forgetting what you offer.
 - `INS-260403-CBC7` [high] Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
@@ -70,11 +71,13 @@
 - `INS-260330-CFBF` [high] Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
 - `INS-260330-5A0A` [high] Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
 - `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
+- `INS-260404-DD95` [high] Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.
 - `INS-260404-5882` [high] Sequoia's 'proxy for demand' — what are people doing now with bad tools — is more persuasive than market size because it proves behavioral need exists.
 - `INS-260403-EA8C` [high] Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
 - `INS-260403-EA2D` [high] Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 - `INS-260403-DC32` [high] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
+- `INS-260404-1773` [high] Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.
 - `INS-260403-7333` [high] Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260403-0803` [high] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260403-D563` [high] RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
@@ -121,6 +124,7 @@
 - `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260403-3569` [medium] Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-6342` [medium] Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
+- `INS-260404-087C` [medium] End every interview by asking for introductions to others who might find your business useful, offering to draft the intro message.
 - `INS-260403-2718` [medium] Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
 - `INS-260403-09F6` [medium] Musicians' biggest AHA moment was seeing that the canvas captured what they already understood intuitively but never wrote down.
 - `INS-260403-979D` [medium] Account for environmental conditions when interpreting A/B test results to avoid false generalizations.

@@ -50,11 +50,11 @@ stance: >-
   whether a product will be adopted
 related:
   - INS-260325-AE23
-  - INS-260403-359D
-  - INS-260403-C737
+  - INS-260404-1773
   - INS-260403-E816
-  - INS-260327-005D
-  - INS-260325-E9B1
+  - INS-260403-C737
+  - INS-260403-359D
+  - INS-260404-DD95
 ---
 Customers rarely articulate their true motivations unprompted. They give socially acceptable or top-of-mind answers that sound reasonable but don't reflect the deeper drivers of their behavior. The interview ground rule of asking 'why' to get real motivations is a lightweight application of root-cause analysis to customer discovery.
 

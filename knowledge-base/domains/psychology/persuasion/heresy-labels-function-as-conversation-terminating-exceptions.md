@@ -52,6 +52,7 @@ related:
   - INS-260330-795D
   - INS-260325-560A
   - PRI-260327-3BD9
+  - INS-260404-6442
 ---
 Graham identifies a precise rhetorical mechanism: when someone labels a statement as x-ist, they implicitly declare the discussion over. No further evaluation of whether the statement is true or false occurs. This is 'the conversational equivalent of signalling an exception.' The tell is that such claims are never qualified — nobody says 'probably x-ist' — unlike genuine truth claims where probabilistic language is normal.
 
