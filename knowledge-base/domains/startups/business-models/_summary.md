@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 185 insights
+> 186 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -79,6 +79,7 @@
 - `INS-260327-5D01` [high] Legal cannabis businesses face the paradox of competing with the illegal market on price while bearing the compliance co
 - `INS-260403-616B` [high] Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260327-0E28` [high] Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
+- `INS-260404-DD00` [high] Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
 - `INS-260403-CED6` [high] When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
 - `INS-260403-1C25` [high] Mandatory fees force companies to optimize for long-term customer satisfaction since raising prices risks losing the entire membership revenue stream.
 - `INS-260403-426A` [high] Marketplaces progress through horizontal lead gen, vertical lead gen, vertical transactional, and tightly managed phases.

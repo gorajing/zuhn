@@ -51,12 +51,11 @@ stance: >-
   primary fear
 related:
   - INS-260322-2155
-  - INS-260403-17A3
   - INS-260403-1A73
-  - INS-260403-8F31
   - INS-260403-19C0
   - INS-260403-8C50
   - INS-260403-1EB3
+  - INS-260404-CF2A
   - INS-260403-419B
 ---
 Sequoia's Greg Mcadoo looks for 'proxy for demand': what are people doing now with inadequate tools that proves they need what you're making? This reframes validation from 'do people want this?' to 'look at the workarounds people already use.' Another strong signal is when people pay a lot for existing solutions — a cheaper alternative to something popular is easy for investors to believe in.

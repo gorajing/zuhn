@@ -46,11 +46,11 @@ stance: >-
   gift is low-entropy concentrated energy that life and weather systems degrade
   into high-entropy thermal radiation
 related:
+  - INS-260404-1B29
   - INS-260330-09F8
   - INS-260330-1084
   - INS-260403-6F40
   - INS-260330-31A9
-  - INS-260330-4B45
 evidence:
   - id: INS-260330-1084
     type: SUPPORTS

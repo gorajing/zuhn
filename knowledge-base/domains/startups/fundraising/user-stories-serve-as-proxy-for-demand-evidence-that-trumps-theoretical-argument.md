@@ -57,8 +57,8 @@ related:
   - INS-260403-17A3
   - INS-260403-419B
   - INS-260403-19C0
+  - INS-260404-CF2A
   - INS-260403-1444
-  - INS-260403-8F31
 ---
 Graham identifies the central anxiety of early-stage investors: that founders have built something based on a priori theories rather than real need. Market size numbers don't address this — they show the opportunity is big but say nothing about whether your specific product connects with real people. Sequoia calls this the 'proxy for demand' — evidence that people are currently doing something with inadequate tools that shows they need what you're making.
 

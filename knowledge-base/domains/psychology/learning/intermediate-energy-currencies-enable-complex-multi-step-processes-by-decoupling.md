@@ -53,8 +53,8 @@ related:
   - INS-260330-20FD
   - INS-260330-EAA3
   - INS-260330-1298
+  - INS-260404-1B29
   - INS-260330-B38B
-  - INS-260330-3C3C
 ---
 Light-dependent reactions don't directly build sugar. Instead, they convert unpredictable photon energy into two standardized energy currencies: ATP and NADPH. The Calvin Cycle then draws on these currencies independently of whether the sun is currently shining at full intensity. This decoupling is what makes the system robust.
 

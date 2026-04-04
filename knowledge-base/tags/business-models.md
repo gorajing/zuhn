@@ -57,6 +57,7 @@
 - `INS-260403-DAB4` Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - `INS-260404-BF04` Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
 - `INS-260403-FF86` Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
+- `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
 - `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.

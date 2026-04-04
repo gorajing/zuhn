@@ -51,10 +51,9 @@ stance: >-
   obvious in retrospect, with the real barrier being execution rather than
   ideation
 related:
-  - INS-260325-FBE5
   - INS-260323-7B63
   - INS-260322-019A
-  - INS-260327-FC6F
+  - INS-260325-FBE5
   - INS-260323-4EE4
   - INS-260327-289F
 ---

@@ -49,7 +49,6 @@ stance: >-
   perspiration of turning ideas into practical products matters far more than
   the 1% inspiration of the original idea.
 related:
-  - INS-260323-4E23
   - INS-260325-75A3
   - INS-260325-568A
   - INS-260325-7974

@@ -51,11 +51,11 @@ stance: >-
   coordination costs — Photosystem II needs 99+ distinct chemicals including 30+
   chlorophyll molecules just to transfer one electron.
 related:
+  - INS-260404-1B29
   - INS-260330-2C71
   - INS-260403-AC7A
   - INS-260330-545E
   - INS-260330-E8CF
-  - INS-260330-4B45
 evidence:
   - id: INS-260330-E8CF
     type: EXTENDS

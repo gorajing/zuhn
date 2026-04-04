@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 208 insights
+> 210 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -29,6 +29,7 @@
 - `INS-260403-F290` [high] Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260330-B3DD` [high] Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
 - `INS-260403-9104` [high] Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
+- `INS-260404-445D` [high] Costco systematically turns every apparent weakness — fees, confusing layout, limited selection — into a competitive moat.
 - `INS-260403-2C00` [high] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
@@ -98,6 +99,7 @@
 - `INS-260403-E796` [high] Early commitment to a 'good enough' approach creates lock-in that persists even when the approach becomes demonstrably suboptimal.
 - `INS-260330-026F` [high] Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
 - `INS-260403-1110` [high] RuBisCo is terrible at its job but 450 million years of ecosystem lock-in means plants produce 40 billion tons of it rather than evolve a replacement.
+- `INS-260404-D452` [high] RuBisCo's evolutionary story shows how early dominance with a bad strategy creates irreversible lock-in that organisms (and companies) compensate around rather than replace.
 - `INS-260330-4983` [high] RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
 - `INS-260403-335F` [high] RuBisCo shows how a 'good enough' early bet can permanently lock a system into managing costly workarounds rather than redesigning.
 - `INS-260403-9B3A` [high] RuBisCo's evolutionary story shows how early strategic commitments become permanent even when they stop working well.

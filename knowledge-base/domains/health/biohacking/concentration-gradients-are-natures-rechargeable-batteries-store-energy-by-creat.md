@@ -54,15 +54,15 @@ stance: >-
   mechanism in biology, functioning as rechargeable batteries that convert
   chemical pumping into on-demand kinetic energy
 related:
-  - INS-260330-2BA7
   - INS-260330-C729
   - INS-260330-3C3C
+  - INS-260404-46AA
   - INS-260403-8294
   - INS-260330-21A8
   - INS-260330-100F
-  - INS-260403-464D
   - INS-260403-2DEE
   - INS-260403-B6E6
+  - INS-260403-464D
 evidence:
   - id: INS-260330-21A8
     type: SUPPORTS

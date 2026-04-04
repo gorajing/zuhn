@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3697 actionable insights
+Generated on 2026-04-04 | 3702 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1476,6 +1476,7 @@ Generated on 2026-04-04 | 3697 actionable insights
 - [INS-260403-DC52] Learn history by reading exciting books on specific topics rather than attempting comprehensive chronological surveys.
 - [INS-260404-C99B] Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
 - [INS-260404-8A87] Only copy work you authentically enjoy, not work you admire for its status.
+- [INS-260404-FDEA] Photosystem II was discovered after Photosystem I but acts first in the process, creating a naming inversion that confuses every new learner of biology.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1641,6 +1642,7 @@ Generated on 2026-04-04 | 3697 actionable insights
 - [INS-260403-1EB3] Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
 - [INS-260404-58AE] Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
 - [INS-260404-E6EA] When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
+- [INS-260404-CDCB] Telling investors you're passionate makes them write you off as bullshitters; showing confidence through substance and demeanor is what actually persuades.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1960,6 +1962,7 @@ Generated on 2026-04-04 | 3697 actionable insights
 - [INS-260403-C5D8] If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
 - [INS-260403-BDBE] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - [INS-260404-621F] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
+- [INS-260404-CF2A] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2788,6 +2791,8 @@ Generated on 2026-04-04 | 3697 actionable insights
 - [INS-260404-10FF] Don't spend pitch time on your business model — investors expect it to be wrong at early stage, and a bad one will overshadow your real strengths.
 - [INS-260404-0430] Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.
 - [INS-260404-7609] Tell stories about specific users and their problems rather than citing market sizes — investors' biggest fear is that nobody actually wants your product.
+- [INS-260404-D4A0] Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
+- [INS-260404-F20B] Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

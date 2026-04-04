@@ -48,10 +48,10 @@ stance: >-
   mechanism that unifies respiration and photosynthesis.
 related:
   - INS-260330-7E39
+  - INS-260404-46AA
   - PRI-260403-70D0
   - INS-260330-8A2E
   - INS-260330-7FF3
-  - INS-260330-C729
 evidence:
   - id: INS-260330-30FB
     type: CHALLENGES

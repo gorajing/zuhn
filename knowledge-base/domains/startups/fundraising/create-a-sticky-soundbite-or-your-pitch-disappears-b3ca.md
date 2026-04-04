@@ -53,7 +53,7 @@ related:
   - INS-260403-2081
   - INS-260403-48BF
   - INS-260403-E4C6
-  - INS-260403-05DF
+  - INS-260404-CDCB
 ---
 Graham frames memorability as a filtering problem: investors hear so many pitches they all blur together, so the first cut is simply being remembered. The mechanism is a compressed descriptive phrase — 'the x of y' pattern — launched apparently casually near the beginning of your talk. Viaweb's was 'the Microsoft Word of ecommerce.'
 

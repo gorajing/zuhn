@@ -50,13 +50,13 @@ related:
   - INS-260323-3C7B
   - INS-260327-671E
   - INS-260329-0CDD
-  - INS-260330-3B05
   - INS-260402-FEA3
   - INS-260403-A136
   - INS-260403-E6FD
   - INS-260402-2A1D
   - INS-260403-FE3B
   - INS-260402-E140
+  - INS-260402-8ACF
 ---
 Paul Graham notes that while predicting which ideas will succeed is nearly impossible, predicting which people will generate good ideas is surprisingly tractable. The Airbnb investment illustrates this: YC thought the idea was bad but recognized the founders as earnest, energetic, and independent-minded — traits that reliably correlate with breakthrough work.
 

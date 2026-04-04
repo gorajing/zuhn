@@ -49,7 +49,6 @@ stance: >-
   offering the greatest combination of generality and novelty, and willingness
   to backtrack and cut is what separates discovery from mere documentation
 related:
-  - INS-260320-E872
   - INS-260323-8D12
   - INS-260327-9377
   - INS-260330-0AE2
@@ -59,6 +58,7 @@ related:
   - INS-260330-AB5D
   - INS-260403-0218
   - INS-260329-4DBC
+  - INS-260403-837D
 evidence:
   - id: INS-260323-8D12
     type: TRANSFERS_TO

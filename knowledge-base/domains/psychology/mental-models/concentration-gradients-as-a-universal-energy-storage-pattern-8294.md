@@ -56,6 +56,7 @@ related:
   - INS-260330-3037
   - INS-260330-24BA
   - INS-260403-050D
+  - INS-260404-46AA
 ---
 In photosynthesis, the thylakoid membrane acts as a dam. Light-dependent reactions pump hydrogen ions (protons) into the thylakoid interior, creating an ever-growing concentration difference across the membrane. When protons push their way out through ATP synthase, that flow powers the creation of ATP — the cell's energy currency. The energy isn't stored in any single molecule; it's stored in the asymmetry itself.
 

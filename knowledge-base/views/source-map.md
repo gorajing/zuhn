@@ -3,10 +3,10 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 234 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 153 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 133 | 2026-03-31 |
-| How to Do Great Work | blog | 78 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 238 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 157 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 138 | 2026-03-31 |
+| How to Do Great Work | blog | 83 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -969,6 +969,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Anatomy of Determination | blog | 4 | 2026-03-31 |
 | The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 4 | 2026-03-30 |
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 4 | 2026-03-30 |
+| The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 4 | 2026-03-30 |
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 4 | 2026-03-31 |
 | The Equity Equation | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
@@ -2294,7 +2295,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Citrini post is just a scary bedtime story | blog | 0 | 2026-03-30 |
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
-| The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 0 | 2026-03-30 |
 | The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
 | The End of SaaS⚡, Fintech Trends Q3 2024💳, Optionality in Venture Funds💡 | blog | 0 | 2026-03-30 |
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |

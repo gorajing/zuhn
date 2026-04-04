@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 140 insights
+> 142 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -118,6 +118,7 @@
 - `INS-260329-545B` [medium] Earn-outs let you buy a business by paying the seller from the business's own future profits.
 - `INS-260330-A1A4` [medium] Apple's $285B cash hoard demonstrates that past a strategic reserve threshold, excess cash creates more problems than options.
 - `INS-260330-2D53` [medium] China maintained essentially the same centralized bureaucratic structure from 150 BCE to 1911 CE, making it the first organization to solve the scaling problem across leadership transitions.
+- `INS-260404-46AA` [medium] Photosynthesis stores energy by pumping protons across a membrane to create a concentration gradient, then harvests that gradient through ATP synthase — accumulation before extraction.
 - `INS-260329-2612` [medium] Consistent hashing maps both nodes and data onto a ring, so adding or removing a node only redistributes a fraction of data rather than reshuffling everything.
 - `INS-260329-A80B` [medium] Selecting for genuine product conviction when hiring salespeople creates a team whose unconscious enthusiasm closes deals that technique alone cannot.
 - `INS-260403-3A7A` [medium] Inconsistent cross-department innovation collaboration signals the need to formalize innovation processes with dedicated tooling.
@@ -136,6 +137,7 @@
 - `INS-260330-8C52` [medium] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260330-4830` [medium] When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
 - `INS-260330-DE65` [medium] Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
+- `INS-260404-C9B5` [medium] Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.
 - `INS-260403-F6F9` [medium] Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
 - `INS-260329-9101` [medium] A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260327-9641` [medium] Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.

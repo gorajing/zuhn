@@ -54,10 +54,10 @@ related:
   - INS-260329-BF51
   - INS-260329-FCE6
   - INS-260330-A1A4
+  - INS-260404-445D
   - INS-260329-1085
   - PRI-260328-FD90
   - INS-260403-F4CC
-  - INS-260325-B8CB
 ---
 Dell pioneered assembling computers on order after receiving payment, escaping the hardware industry's devastating inventory depreciation costs. This earn-before-spend pattern does more than improve margins — it fundamentally changes the capital requirements of the business. When you spend before earning, you need outside capital to fund the gap, creating dependency on investors or lenders. When you earn before spending, your customers effectively finance your operations.
 

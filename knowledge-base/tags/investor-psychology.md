@@ -4,6 +4,7 @@
 - `INS-260403-1A71` In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260403-05DF` Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
+- `INS-260404-CDCB` Telling investors you're passionate makes them write you off as bullshitters; showing confidence through substance and demeanor is what actually persuades.
 - `INS-260403-74CD` Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
 - `INS-260403-2081` Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.
 - `INS-260403-48BF` Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
@@ -18,6 +19,7 @@
 - `INS-260404-BF04` Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
 - `INS-260403-FF86` Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
 - `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
+- `INS-260404-D4A0` Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
 - `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260403-C496` Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
