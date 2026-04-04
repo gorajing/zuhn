@@ -46,7 +46,6 @@ stance: >-
   A product loved deeply by a small number of users will scale more successfully
   than a product liked mildly by a large number of users.
 related:
-  - INS-260320-A1D3
   - INS-260323-C814
   - INS-260323-40AA
   - PRI-260320-5D78
@@ -56,6 +55,7 @@ related:
   - INS-260329-764E
   - INS-260330-E089
   - INS-260403-B635
+  - INS-260330-3A3E
 evidence:
   - id: INS-260329-764E
     type: TRANSFERS_TO

@@ -52,9 +52,9 @@ related:
   - INS-260327-7681
   - INS-260327-50CE
   - INS-260403-B6FF
+  - INS-260403-5C88
   - INS-260330-DC0D
   - INS-260403-2E0F
-  - INS-260322-FCFC
 ---
 Traditional retailers face a fundamental tension: every dollar saved for the customer is a dollar lost in margin. Costco's membership model dissolves this by shifting the profit center from product markup (capped at 15%) to annual fees ($60-$120/year with 90% renewal). This creates a virtuous cycle where lower prices drive higher renewal rates, which drive predictable recurring revenue.
 

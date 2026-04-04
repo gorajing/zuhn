@@ -48,11 +48,11 @@ related:
   - INS-260327-91C7
   - INS-260330-A25A
   - INS-260330-AB62
-  - INS-260403-2E0F
   - INS-260403-7342
   - INS-260403-066E
   - INS-260323-AF7B
-  - PRI-260328-4CC0
+  - INS-260403-2E0F
+  - INS-260403-1B9E
 ---
 The Business Model Canvas succeeded not because it introduced new strategic concepts but because it gave teams a shared vocabulary. Before it, the same word—'business model'—meant different things to different people in the same room. This communication failure meant ideas got shelved not because they were bad, but because they couldn't be clearly conveyed.
 

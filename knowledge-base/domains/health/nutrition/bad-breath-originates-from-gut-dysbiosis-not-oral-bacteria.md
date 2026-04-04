@@ -49,7 +49,6 @@ stance: >-
   oral hygiene problem, making dietary intervention more effective than
   toothpaste
 related:
-  - INS-260320-9118
   - PRI-260328-97E0
   - INS-260330-3DC8
   - INS-260327-E8D3

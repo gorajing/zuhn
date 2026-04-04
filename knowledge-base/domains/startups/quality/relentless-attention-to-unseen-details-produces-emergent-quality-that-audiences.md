@@ -50,7 +50,6 @@ stance: >-
   cumulative effect that makes the whole work stunning — like a thousand barely
   audible voices singing in tune.
 related:
-  - INS-260330-BF8F
   - INS-260402-7999
   - INS-260327-B403
   - INS-260403-AC03

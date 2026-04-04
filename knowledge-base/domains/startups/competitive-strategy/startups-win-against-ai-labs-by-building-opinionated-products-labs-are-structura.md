@@ -49,11 +49,11 @@ resolutions:
     workflow-specific UIs, and multi-modal products are where startups can steal
     users.
 related:
+  - INS-260403-0185
   - PRI-260324-36BF
   - INS-260322-6AF5
   - INS-260403-A7D0
   - PRI-260328-AC85
-  - PRI-260328-82BE
   - INS-260403-9627
 stance: >-
   AI labs and big tech are structurally incapable of building opinionated

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3384 actionable insights
+Generated on 2026-04-04 | 3395 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1088,6 +1088,7 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-6EDC] Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - [INS-260403-803A] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - [INS-260403-5CD6] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
+- [INS-260403-6B97] Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1107,6 +1108,7 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-AAE4] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - [INS-260403-E2FB] Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply.
 - [INS-260403-78E2] Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
+- [INS-260403-B08E] Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -2037,6 +2039,7 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-CE7C] Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - [INS-260403-F932] If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
 - [INS-260403-3155] Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
+- [INS-260403-35E7] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2248,6 +2251,7 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-9DA1] Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - [INS-260403-7BBD] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - [INS-260403-323A] Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
+- [INS-260403-0A1C] Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2580,6 +2584,7 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-8448] Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
 - [INS-260403-C496] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - [INS-260403-D430] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
+- [INS-260403-5F03] Trivially low profitability gives startups infinite runway, making VC funding optional rather than existential.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2860,6 +2865,8 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-1C09] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - [INS-260403-1358] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
 - [INS-260403-71A6] The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
+- [INS-260403-8D2C] New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
+- [INS-260403-81D4] You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3139,6 +3146,7 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-35CB] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - [INS-260403-C4CD] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system.
 - [INS-260403-E86E] The most powerful defensibility lever is turning your product from a single-player game into a multi-player network.
+- [INS-260403-A8F3] Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3446,6 +3454,8 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-EAE5] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - [INS-260403-4F1B] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - [INS-260403-F290] Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
+- [INS-260403-3EFB] Visual canvas tools with predefined sections and trigger questions channel abstract strategy conversations into concrete, testable business assumptions.
+- [INS-260403-3EEA] Tangible visual artifacts created during workshops serve as persistent reference points that enable teams to act on ideas after the session ends.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3555,6 +3565,7 @@ Generated on 2026-04-04 | 3384 actionable insights
 - [INS-260403-08E6] Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - [INS-260403-419B] Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.
 - [INS-260403-19C0] Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.
+- [INS-260403-FBF0] Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

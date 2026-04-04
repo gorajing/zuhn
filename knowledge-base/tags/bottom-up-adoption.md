@@ -1,5 +1,6 @@
 # Tag: bottom-up-adoption
 
+- `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes.
 - `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
 - `INS-260330-6611` Build a product that sells itself, then hire salespeople anyway — they serve different functions.
 - `INS-260330-24A5` Build products that spread through individual users but hire consultative salespeople to help enterprises navigate adoption — viral growth and sales are complementary.

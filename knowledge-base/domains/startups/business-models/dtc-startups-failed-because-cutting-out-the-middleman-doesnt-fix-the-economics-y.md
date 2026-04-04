@@ -50,7 +50,6 @@ related:
   - INS-260330-DC0D
   - INS-260403-F4CC
   - INS-260327-C75F
-  - INS-260327-7BE4
   - INS-260330-744E
 stance: >-
   Casper, Warby Parker, and Dollar Shave Club promised that cutting out

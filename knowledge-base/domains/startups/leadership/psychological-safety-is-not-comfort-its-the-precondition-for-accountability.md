@@ -48,6 +48,7 @@ stance: >-
   dimensions, not trade-offs — combining both creates the learning zone where
   teams actually perform best.
 related:
+  - INS-260403-35E7
   - INS-260403-97D6
   - PRI-260328-2C6A
   - INS-260330-C9A6

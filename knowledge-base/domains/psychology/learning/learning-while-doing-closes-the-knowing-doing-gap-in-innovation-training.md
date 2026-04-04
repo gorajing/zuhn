@@ -46,7 +46,6 @@ stance: >-
   significantly better outcomes than those that separate education from
   application.
 related:
-  - INS-260325-0892
   - INS-260325-B50B
   - INS-260325-001B
   - INS-260329-ACE6
@@ -56,6 +55,7 @@ related:
   - INS-260403-D56B
   - INS-260403-0030
   - INS-260403-5D81
+  - INS-260329-CD38
 ---
 The most consistently praised feature across top innovation programs is hands-on application — working on real projects, running simulations, and getting feedback on actual business challenges. This pattern appears in every highly-rated program: Strategyzer's learn-while-doing platform, BCG's work-on-your-own-projects approach, and McKinsey's behavioral science-driven application.
 

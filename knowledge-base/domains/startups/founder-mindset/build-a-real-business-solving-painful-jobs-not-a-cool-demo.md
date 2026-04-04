@@ -42,7 +42,6 @@ resolutions:
     be for problem-solving and building, not for a specific domain — you don't
     need passion for video clipping, you need passion for being a builder.
 related:
-  - INS-260322-1280
   - PRI-260323-1B96
   - INS-260327-0700
   - INS-260327-4DDE
@@ -52,6 +51,7 @@ related:
   - INS-260327-FA43
   - INS-260327-CD77
   - INS-260330-80A7
+  - INS-260330-DE1D
 stance: >-
   Many AI founders fail because they build impressive demos that don't solve
   real painful jobs

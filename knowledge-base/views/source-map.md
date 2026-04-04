@@ -51,6 +51,7 @@ Generated on 2026-04-04 | 2421 sources
 | Apple's Money Problem (& Why It Won't Buy Netflix) | youtube | 14 | 2026-03-30 |
 | $6.7M ARR, No Paid Ads, and an Exit to Quizlet in 2 Years — Coconote | youtube | 14 | 2026-03-20 |
 | Why Are Bad Words Bad? | youtube | 14 | 2026-03-30 |
+| How to Do Great Work | blog | 13 | 2026-03-31 |
 | 2,000 Years of Chinese History! The Mandate of Heaven and Confucius: World History #7 | youtube | 13 | 2026-03-30 |
 | REPROGRAM your mind to be rich in 22 minutes.... | youtube | 13 | 2026-03-30 |
 | The Greatest Speech in History? Alexander the Great and the Opis Mutiny | youtube | 13 | 2026-03-26 |
@@ -125,7 +126,6 @@ Generated on 2026-04-04 | 2421 sources
 | World's Roundest Object! | youtube | 10 | 2026-03-30 |
 | You’re Wasting 80% of Your Time (here’s how to fix it) | youtube | 10 | 2026-03-30 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 10 | 2026-03-25 |
-| How to Do Great Work | blog | 9 | 2026-03-31 |
 | 10 Different Ways To Break Down Making $1 Million | youtube | 9 | 2026-03-30 |
 | ATP & Respiration: Crash Course Biology #7 | youtube | 9 | 2026-03-30 |
 | C Programming Tutorial for Beginners | youtube | 9 | 2026-03-29 |
@@ -376,6 +376,7 @@ Generated on 2026-04-04 | 2421 sources
 | International financial anarchy | blog | 5 | 2026-03-30 |
 | Is It Worth Being Wise? | blog | 5 | 2026-03-31 |
 | Is the MVP Dead? Rethinking Lean Startup Strategies | blog | 5 | 2026-03-30 |
+| Java's Cover | blog | 5 | 2026-03-31 |
 | Jensen Huang’s Work Ethic: The Cost Behind NVIDIA’s Endurance | blog | 5 | 2026-03-30 |
 | Jessica Livingston | blog | 5 | 2026-03-31 |
 | Last Rights | blog | 5 | 2026-03-30 |
@@ -416,6 +417,7 @@ Generated on 2026-04-04 | 2421 sources
 | SEIU Delenda Est | blog | 5 | 2026-03-30 |
 | Series A & B Cap Table Guide + Free Excel Template | blog | 5 | 2026-03-30 |
 | Slightly Against The "Other People's Money" Argument Against Aid | blog | 5 | 2026-03-30 |
+| Solo Founders Take the Lead🔥, Startup Market Report📊, Projected 2026 IPOs🚀 | blog | 5 | 2026-03-30 |
 | Some Heroes | blog | 5 | 2026-03-31 |
 | SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
 | Stackable Business Models in the Age of AI | blog | 5 | 2026-03-31 |
@@ -756,6 +758,7 @@ Generated on 2026-04-04 | 2421 sources
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
 | 2025 Is the Best Year to Start a Startup—Here’s Why | blog | 4 | 2026-03-30 |
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
+| 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
@@ -775,8 +778,10 @@ Generated on 2026-04-04 | 2421 sources
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Business Model Generation Book Summary | Strategyzer | blog | 4 | 2026-03-31 |
+| Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
+| Could VC be a Casualty of the Recession? | blog | 4 | 2026-03-31 |
 | Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
@@ -829,6 +834,7 @@ Generated on 2026-04-04 | 2421 sources
 | The List of N Things | blog | 4 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
+| The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 4 | 2026-03-30 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
@@ -1756,7 +1762,6 @@ Generated on 2026-04-04 | 2421 sources
 | 3 Activities To Encourage Dynamic Strategic Thinking | blog | 0 | 2026-03-31 |
 | 3 mistakes CEOs and CFOs make when investing in innovation | blog | 0 | 2026-03-31 |
 | 3 Ways Color-Coding Can Improve Story-Telling In Your Business Model Canvas | blog | 0 | 2026-03-31 |
-| 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 0 | 2026-03-31 |
 | 300+ VCs That Accept Cold Pitches — No Warm Intro Needed for Funding in 2025 | blog | 0 | 2026-03-30 |
 | 35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley | blog | 0 | 2026-03-31 |
 | 350+ Places to Post Your Startup: The Ultimate Launch List | blog | 0 | 2026-03-30 |
@@ -1919,7 +1924,6 @@ Generated on 2026-04-04 | 2421 sources
 | Business Model Innovation and Change | blog | 0 | 2026-03-31 |
 | Business Model Innovation in Existing Companies | blog | 0 | 2026-03-31 |
 | Business Model Portfolio Part 1: Manage The Existing Business | blog | 0 | 2026-03-31 |
-| Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 0 | 2026-03-31 |
 | Business Model Portfolio Part 3: The Business Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
 | Business Strategy: The Business Model Patterns | blog | 0 | 2026-03-31 |
@@ -1966,7 +1970,6 @@ Generated on 2026-04-04 | 2421 sources
 | 🤩 Community Wisdom: Understanding designer jargon, eng vs. PM responsibilities, finding user research participants, creating shareable usage stats, and roadmaps informing OKRs | blog | 0 | 2026-03-31 |
 | Copy What You Like | blog | 0 | 2026-03-31 |
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
-| Could VC be a Casualty of the Recession? | blog | 0 | 2026-03-31 |
 | Crazy New Ideas | blog | 0 | 2026-03-31 |
 | Cybersecurity’s Future Belongs to Startups | blog | 0 | 2026-03-31 |
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 0 | 2026-03-30 |
@@ -2099,7 +2102,6 @@ Generated on 2026-04-04 | 2421 sources
 | Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 0 | 2026-03-30 |
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
-| Java's Cover | blog | 0 | 2026-03-31 |
 | Keep Your Identity Small | blog | 0 | 2026-03-31 |
 | Learn With Me | blog | 0 | 2026-03-30 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
@@ -2187,7 +2189,6 @@ Generated on 2026-04-04 | 2421 sources
 | Smaller Funds Outperform📈, When Machines Learn to Speak🗣️, Venture Trends Q1 2025📊 | blog | 0 | 2026-03-30 |
 | Snapshot: Viaweb, June 1998 | blog | 0 | 2026-03-31 |
 | Software with a Soul: AI's Underestimated Frontier | blog | 0 | 2026-03-31 |
-| Solo Founders Take the Lead🔥, Startup Market Report📊, Projected 2026 IPOs🚀 | blog | 0 | 2026-03-30 |
 | Something feels weird about this economy | blog | 0 | 2026-03-30 |
 | SpaceX-xAI Merger: The $1.25T Company | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
@@ -2264,7 +2265,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |
 | The Race for AI Supremacy is Over🏁, State of VC and Its Impact on DPI📉, SaaS VC Trends☁️ | blog | 0 | 2026-03-30 |
-| The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 0 | 2026-03-30 |
 | The Real Reason to End the Death Penalty | blog | 0 | 2026-03-31 |
 | The Reddits | blog | 0 | 2026-03-31 |
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 0 | 2026-03-30 |

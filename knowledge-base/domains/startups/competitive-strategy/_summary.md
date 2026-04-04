@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 436 insights
+> 439 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -245,6 +245,7 @@
 - `INS-260327-0E86` [high] Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260323-7D3C` [high] Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
 - `INS-260326-841D` [high] Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
+- `INS-260403-35E7` [high] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260402-4605` [high] Eminence constrains innovation more than obscurity constrains execution.
 - `INS-260330-B468` [high] Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260330-11EB` [high] RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.
@@ -282,6 +283,7 @@
 - `INS-260330-242D` [high] Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
 - `INS-260403-9442` [high] Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260330-ED9D` [high] Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
+- `INS-260403-E143` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which gives it enormous leverage because suppliers compete fiercely for the one or two slots available.
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
@@ -364,6 +366,7 @@
 - `INS-260324-162B` [high] Under Armour's shoes were genuinely better in comfort and performance than Nike — but they looked like clown shoes, and in consumer fashion, aesthetics always wins.
 - `INS-260324-A046` [high] UNIQLO identifies trending pieces too expensive for the mass market, replaces natural fibers with proprietary synthetics, and proactively tweaks design to exceed expectations through merit — not just price.
 - `INS-260402-E2AF` [high] The real competitive threat to a startup is not Google but the unknown startup in a garage working on the same problem with equal desperation.
+- `INS-260403-946A` [high] The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
 - `INS-260330-5B5E` [high] The amount of value you create (X) and the percentage you capture (Y%) are completely independent — airlines create more value than Google Search but capture almost none of it.
 - `INS-260330-B138` [high] X (value created) and Y% (value captured) are completely independent — airlines create $195B in value but capture ~0% profit, while Google captures enormous profit from a smaller market.
 - `INS-260330-5F7E` [high] Creating enormous value doesn't guarantee capturing any of it — airlines created more value than Google but captured approximately zero cumulative profit over 100 years.

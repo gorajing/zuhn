@@ -37,6 +37,7 @@
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - `INS-260403-DD95` Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
+- `INS-260403-FBF0` Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built.
 - `INS-260323-2726` Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.
 - `INS-260403-979D` Account for environmental conditions when interpreting A/B test results to avoid false generalizations.
 - `INS-260329-9C6B` Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.

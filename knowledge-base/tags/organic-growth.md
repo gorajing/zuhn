@@ -1,5 +1,6 @@
 # Tag: organic-growth
 
+- `INS-260403-35E7` Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
 - `INS-260327-4DDE` The best startups come from founders solving their own daily pain points, not from market analysis.
 - `INS-260403-EAC6` Waze became one of the strongest app brands in France by investing where organic growth appeared, while Germany — where they tried to manufacture demand — never adopted the product despite similar investment.
 - `INS-260330-1266` Dominant technologies almost always grew through word-of-mouth from devoted early adopters, not through splashy launches.

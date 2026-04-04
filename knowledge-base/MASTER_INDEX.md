@@ -1,6 +1,6 @@
 # Knowledge Base Master Index
 
-> Last rebuilt: 2026-04-04 | Total insights: 6766 | Sources: 1537
+> Last rebuilt: 2026-04-04 | Total insights: 6787 | Sources: 1541
 
 **NOTE:** Access counts and last_accessed are updated automatically when insights are retrieved.
 
@@ -11,11 +11,11 @@
 | ai-development | 22 | 937 | 73 | 2026-04-03 |
 | automation | 3 | 27 | 2 | 2026-03-30 |
 | health | 4 | 453 | 40 | 2026-04-03 |
-| investing | 6 | 615 | 49 | 2026-04-03 |
+| investing | 6 | 616 | 49 | 2026-04-03 |
 | music-production | 5 | 36 | 3 | 2026-03-27 |
 | pets | 1 | 2 | 0 | 2026-03-20 |
-| psychology | 20 | 1780 | 71 | 2026-04-03 |
-| startups | 34 | 2893 | 127 | 2026-04-03 |
+| psychology | 20 | 1784 | 71 | 2026-04-03 |
+| startups | 34 | 2909 | 127 | 2026-04-03 |
 | video-production | 2 | 23 | 5 | 2026-03-30 |
 
 ## Mental Models
@@ -27,7 +27,7 @@
 
 ## Top Tags
 
-mental-models(197) scaling(130) decision-making(126) learning(95) systems-thinking(94) abstraction(93) leverage(92) compounding(86) leadership(84) trust(82) resilience(82) strategy(82) hiring(82) competitive-advantage(79) motivation(79) communication(75) network-effects(75) evolution(73) innovation(73) counterweight(73)
+mental-models(197) scaling(130) decision-making(127) learning(95) systems-thinking(94) abstraction(93) leverage(92) compounding(86) leadership(84) trust(82) resilience(82) strategy(82) hiring(82) competitive-advantage(79) motivation(79) network-effects(76) communication(75) evolution(73) innovation(73) counterweight(73)
 
 ## Flags (for Claude)
 
@@ -39,9 +39,9 @@ _No flags._
 - `INS-260403-3587` Smartphones moved computing from desks to pockets but kept the attention tax; AI agents finally break that dependency by working without being watched. _(2026-04-03)_
 - `INS-260403-4D80` Guided AI agents embed industry-specific guardrails and workflow sequences that generalized agents lack, turning AI from a tool into a collaborator. _(2026-04-03)_
 - `INS-260403-FB82` Generative AI's deeper impact is enabling infinite personalized content variants that were economically impossible before, not just making existing workflows cheaper. _(2026-04-03)_
-- `INS-260403-36F4` AI's commoditization cycle compressed from decades to months because of copy-paste, open-source, and API access. _(2026-04-03)_
 - `INS-260403-791A` Photosynthesis charges thylakoids like batteries via proton gradients before synthesizing ATP — a pattern of staged intermediate storage that applies to computational pipeline design. _(2026-04-03)_
 - `INS-260403-EA93` Healthcare AI safety requires specialty fine-tuned models plus a fast lightweight judge model running continuous real-time validation. _(2026-04-03)_
+- `INS-260403-36F4` AI's commoditization cycle compressed from decades to months because of copy-paste, open-source, and API access. _(2026-04-03)_
 - `INS-260403-A101` AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage. _(2026-04-03)_
 - `INS-260403-CE95` When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens. _(2026-04-03)_
 - `INS-260403-D82B` Framing AI as a named co-worker rather than a tool converts resistant users into champions. _(2026-04-03)_
@@ -55,19 +55,22 @@ _No flags._
 - `INS-260403-03BD` Removing friction from simple tasks doesn't make people lazy — it frees them to attempt harder things. _(2026-04-03)_
 - `INS-260403-AFBB` AI products should optimize for user absence, not presence — the best product is one you never have to look at. _(2026-04-03)_
 - `INS-260403-6129` Breaking value conversion into intermediate carrier steps (ATP, NADPH) enables flexible downstream use at the cost of per-step energy loss. _(2026-04-03)_
+- `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose. _(2026-04-03)_
+- `INS-260403-99CE` Oxygen — the gas that enabled all animal life — is literally a waste product of photosynthesis's water-splitting reaction. _(2026-04-03)_
+- `INS-260403-CA5A` Getting humans to 160 likely means we've solved cancer, heart disease, and organ failure — making further extension near-unlimited. _(2026-04-03)_
+- `INS-260403-E185` Super-angels rationally optimize for fast acquisitions because a 10x return in one year beats a VC's 6-year path to IPO on an annualized basis. _(2026-04-03)_
 - `INS-260403-F157` Major bubbles form around real innovations, not pure fiction, which is why smart people get fooled. _(2026-04-03)_
 - `INS-260403-358D` VC money flowing into startups that spend it on ads at incumbent platforms creates a self-reinforcing bubble. _(2026-04-03)_
 - `INS-260403-3C81` The post-2000 tech market didn't re-bubble because acquisition-based exits are structurally less prone to irrational exuberance than IPO-based exits. _(2026-04-03)_
 - `INS-260403-CF98` McDonald's was one of only two Dow Jones stocks to increase in value during 2008, and has raised dividends for 25+ consecutive years, because its real estate base provides stability that food margins never could. _(2026-04-03)_
-- `INS-260403-E185` Super-angels rationally optimize for fast acquisitions because a 10x return in one year beats a VC's 6-year path to IPO on an annualized basis. _(2026-04-03)_
-- `INS-260403-AFA5` Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy. _(2026-04-03)_
-- `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open. _(2026-04-03)_
-- `INS-260403-34A6` Space launch cost reductions mirror containerization's 36x collapse, and Starship targets 500x — a magnitude that historically reshapes entire economies. _(2026-04-03)_
-- `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics. _(2026-04-03)_
 - `INS-260403-14C7` Better ML models achieving greater accuracy from smaller datasets allow startup marketplaces to match incumbent underwriting capabilities without decades of historical data. _(2026-04-03)_
 - `INS-260403-A447` Centralized custodian failures in crypto repeat the exact structural patterns of traditional finance collapses. _(2026-04-03)_
 - `INS-260403-3CD0` Optimizing deal terms yields marginal gains compared to the exponential impact of picking the right startup. _(2026-04-03)_
 - `INS-260403-99DE` Stablecoins pegged to USD represent over 90% of the $135B stablecoin market cap, making digital dollars the dominant crypto use case. _(2026-04-03)_
+- `INS-260403-AFA5` Launch is the mandatory toll on every space company's P&L, making launch providers the landlords of the space economy. _(2026-04-03)_
+- `INS-260403-B744` Space tech is following the same stack-layer consolidation pattern as AI, but capital fixation on AI has left space infrastructure windows unusually open. _(2026-04-03)_
+- `INS-260403-34A6` Space launch cost reductions mirror containerization's 36x collapse, and Starship targets 500x — a magnitude that historically reshapes entire economies. _(2026-04-03)_
+- `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics. _(2026-04-03)_
 - `INS-260403-D98E` Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely. _(2026-04-03)_
 - `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns. _(2026-04-03)_
 - `INS-260403-8002` Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate. _(2026-04-03)_
@@ -86,9 +89,7 @@ _No flags._
 - `INS-260403-AA09` Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate. _(2026-04-03)_
 - `INS-260403-D500` Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ. _(2026-04-03)_
 - `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing. _(2026-04-03)_
-- `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose. _(2026-04-03)_
-- `INS-260403-99CE` Oxygen — the gas that enabled all animal life — is literally a waste product of photosynthesis's water-splitting reaction. _(2026-04-03)_
-- `INS-260403-CA5A` Getting humans to 160 likely means we've solved cancer, heart disease, and organ failure — making further extension near-unlimited. _(2026-04-03)_
+- `INS-260403-7BEC` VCs losing deals to other VCs preserves the industry; VCs losing deals to no one destroys it. _(2026-04-03)_
 - `INS-260403-D64B` Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like. _(2026-04-03)_
 - `INS-260403-D467` Self-selected time-wasters survive precisely because they're expert at defeating your own defenses. _(2026-04-03)_
 - `INS-260403-ABB7` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence. _(2026-04-03)_
@@ -112,6 +113,26 @@ _No flags._
 - `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap. _(2026-04-03)_
 - `INS-260403-F98F` Piracy costs $4.9-8.3B annually in security, insurance, and fuel surcharges that get passed to consumers as an invisible tax on global trade. _(2026-04-03)_
 - `INS-260403-A87D` The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency. _(2026-04-03)_
+- `INS-260403-B462` Brand recognition is so powerful in art judgment that the Mona Lisa shown anonymously would be walked past by most viewers. _(2026-04-03)_
+- `INS-260403-34C0` Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end. _(2026-04-03)_
+- `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness. _(2026-04-03)_
+- `INS-260403-F66B` Customers say they want flashy features but actually follow the taste of sophisticated buyers they aspire to imitate. _(2026-04-03)_
+- `INS-260403-1CB1` Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches. _(2026-04-03)_
+- `INS-260403-3A8A` Applying finite-game thinking to inherently infinite-game situations causes systematic strategic errors during periods of technological disruption. _(2026-04-03)_
+- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions. _(2026-04-03)_
+- `INS-260403-C5BA` Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn. _(2026-04-03)_
+- `INS-260403-D33B` Whether innate or learned, human expectations about variation cannot accommodate the 1000x outcome differences found in startup investing. _(2026-04-03)_
+- `INS-260403-B6FF` Costco's mandatory membership triggers sunk-cost loyalty universally, while Amazon Prime's optional model only captures customers who already self-selected as loyal. _(2026-04-03)_
+- `INS-260403-546E` Costco's mandatory membership exploits sunk-cost psychology more effectively than Amazon Prime because there is no opt-out comparison path. _(2026-04-03)_
+- `INS-260403-57F6` Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs. _(2026-04-03)_
+- `INS-260403-7E8E` The most effective orthodoxy rules are superficial — easy to follow, yet grant moral superiority, making them attractive to people who lack genuine virtue. _(2026-04-03)_
+- `INS-260403-393C` Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success. _(2026-04-03)_
+- `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it. _(2026-04-03)_
+- `INS-260403-61A1` Pundits invent complex explanations when a simpler one (charisma) already fits the data. _(2026-04-03)_
+- `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private. _(2026-04-03)_
+- `INS-260403-C1B7` People who didn't attend elite schools suffer more from imagining what they missed than from any actual educational gap. _(2026-04-03)_
+- `INS-260403-4A9E` PR firms feed identical stories to multiple outlets simultaneously, causing readers to mistake coordinated placement for an organic trend. _(2026-04-03)_
+- `INS-260403-CF54` The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality. _(2026-04-03)_
 - `INS-260403-2822` Founders don't ignore startup advice out of stubbornness — they reject it because counterintuitive truths sound like bad advice. _(2026-04-03)_
 - `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas. _(2026-04-03)_
 - `INS-260403-0C33` If you're bored making something, the result will look boring — morale is a design input, not just a side effect. _(2026-04-03)_
@@ -119,6 +140,7 @@ _No flags._
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them. _(2026-04-03)_
 - `INS-260403-5808` Earnestness isn't the opposite of one thing — it's the center that many different failure modes orbit. _(2026-04-03)_
 - `INS-260403-A8B1` Across wildly different fields, Graham's heroes shared exactly two traits: excessive care about their work and absolute refusal to pander. _(2026-04-03)_
+- `INS-260403-B08E` Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives. _(2026-04-03)_
 - `INS-260403-E2FB` Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply. _(2026-04-03)_
 - `INS-260403-2B63` Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards. _(2026-04-03)_
 - `INS-260403-DE28` Good taste comes from (a) becoming a connoisseur of trickery so tricks stop working on you, and (b) traveling widely in time and space to escape your own cultural defaults. _(2026-04-03)_
@@ -145,6 +167,7 @@ _No flags._
 - `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures. _(2026-04-03)_
 - `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse. _(2026-04-03)_
 - `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like. _(2026-04-03)_
+- `INS-260403-6B97` Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists. _(2026-04-03)_
 - `INS-260403-420A` Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning. _(2026-04-03)_
 - `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point. _(2026-04-03)_
 - `INS-260403-34E0` Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes. _(2026-04-03)_
@@ -156,29 +179,14 @@ _No flags._
 - `INS-260403-6602` Attack the wealth-to-power conversion through radical transparency rather than attacking wealth itself, which has destructive side effects on innovation. _(2026-04-03)_
 - `INS-260403-5CD6` The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it. _(2026-04-03)_
 - `INS-260403-7342` Visual strategic frameworks succeed because the brain processes visual information roughly 60,000 times faster than text, making pattern recognition in complex systems nearly instantaneous. _(2026-04-03)_
-- `INS-260403-B462` Brand recognition is so powerful in art judgment that the Mona Lisa shown anonymously would be walked past by most viewers. _(2026-04-03)_
-- `INS-260403-34C0` Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end. _(2026-04-03)_
-- `INS-260403-FE91` A Dunning-Kruger-like effect causes conventional thinkers to overestimate and independent thinkers to underestimate their own independent-mindedness. _(2026-04-03)_
-- `INS-260403-F66B` Customers say they want flashy features but actually follow the taste of sophisticated buyers they aspire to imitate. _(2026-04-03)_
-- `INS-260403-1CB1` Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches. _(2026-04-03)_
-- `INS-260403-3A8A` Applying finite-game thinking to inherently infinite-game situations causes systematic strategic errors during periods of technological disruption. _(2026-04-03)_
-- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions. _(2026-04-03)_
-- `INS-260403-C5BA` Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn. _(2026-04-03)_
-- `INS-260403-D33B` Whether innate or learned, human expectations about variation cannot accommodate the 1000x outcome differences found in startup investing. _(2026-04-03)_
-- `INS-260403-B6FF` Costco's mandatory membership triggers sunk-cost loyalty universally, while Amazon Prime's optional model only captures customers who already self-selected as loyal. _(2026-04-03)_
-- `INS-260403-57F6` Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs. _(2026-04-03)_
-- `INS-260403-7E8E` The most effective orthodoxy rules are superficial — easy to follow, yet grant moral superiority, making them attractive to people who lack genuine virtue. _(2026-04-03)_
-- `INS-260403-393C` Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success. _(2026-04-03)_
-- `INS-260403-FAC0` People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it. _(2026-04-03)_
-- `INS-260403-61A1` Pundits invent complex explanations when a simpler one (charisma) already fits the data. _(2026-04-03)_
-- `INS-260403-28C7` We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private. _(2026-04-03)_
-- `INS-260403-C1B7` People who didn't attend elite schools suffer more from imagining what they missed than from any actual educational gap. _(2026-04-03)_
-- `INS-260403-4A9E` PR firms feed identical stories to multiple outlets simultaneously, causing readers to mistake coordinated placement for an organic trend. _(2026-04-03)_
-- `INS-260403-CF54` The pie fallacy — treating wealth as fixed-sum — dominates inequality discourse because it matches childhood experience but not adult economic reality. _(2026-04-03)_
 - `INS-260403-4CE2` Perceived laziness in young people often reflects unappetizing work, not lack of drive — ownership unlocks latent intensity. _(2026-04-03)_
 - `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state. _(2026-04-03)_
 - `INS-260403-B4DC` Adopting an infinite-game mindset — focused on expanding what's possible rather than defending what exists — is the winning strategic posture during major technological disruption. _(2026-04-03)_
 - `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000. _(2026-04-03)_
+- `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on. _(2026-04-03)_
+- `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones. _(2026-04-03)_
+- `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction. _(2026-04-03)_
+- `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems. _(2026-04-03)_
 - `INS-260403-D609` Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned. _(2026-04-03)_
 - `INS-260403-F322` Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice. _(2026-04-03)_
 - `INS-260403-0525` Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor. _(2026-04-03)_
@@ -190,6 +198,7 @@ _No flags._
 - `INS-260403-76C3` Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas. _(2026-04-03)_
 - `INS-260403-4D45` Intolerant people always exist — waves of suppression happen when an ideology gives them coordinated direction. _(2026-04-03)_
 - `INS-260403-3A71` Publicizing that charisma decides elections should eventually force both sides to match on charisma, restoring issue-based competition. _(2026-04-03)_
+- `INS-260403-6947` Production blocking — one person speaking while others must listen — suppresses parallel ideation and reduces total creative output in group sessions. _(2026-04-03)_
 - `INS-260403-97D6` Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted. _(2026-04-03)_
 - `INS-260403-FF74` Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance. _(2026-04-03)_
 - `INS-260403-A4EB` Your colleagues self-selected for the same reasons you did, which amplifies whatever motivated the choice — money makes it worse, interest makes it better. _(2026-04-03)_
@@ -198,10 +207,6 @@ _No flags._
 - `INS-260403-D198` Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match. _(2026-04-03)_
 - `INS-260403-500F` More disagreement online is a structural artifact of conversational media, not evidence that people are angrier. _(2026-04-03)_
 - `INS-260403-DB0A` Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse. _(2026-04-03)_
-- `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on. _(2026-04-03)_
-- `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones. _(2026-04-03)_
-- `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction. _(2026-04-03)_
-- `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems. _(2026-04-03)_
 - `INS-260403-449A` If you expect work to hurt, you lose the ability to distinguish productive struggle from doing something fundamentally wrong. _(2026-04-03)_
 - `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains. _(2026-04-03)_
 - `INS-260403-099C` The thylakoid membrane stores energy by creating a proton concentration gradient — the same pattern appears in motivation, skill gaps, and market arbitrage. _(2026-04-03)_
@@ -234,9 +239,6 @@ _No flags._
 - `INS-260403-45E3` Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives. _(2026-04-03)_
 - `INS-260403-8FB5` Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy. _(2026-04-03)_
 - `INS-260403-BA62` Creating a crisis first makes your offer to stop look like a concession, giving you leverage you never earned. _(2026-04-03)_
-- `INS-260403-8391` New York dominates the art market because rich buyers evaluate art as brand identity rather than visual quality, while Paris remains the city where people genuinely care what paintings look like. _(2026-04-03)_
-- `INS-260403-A5FF` Shared human perceptual wiring (faces, primary colors, 3D objects, edge-finding) makes art quality measurable against universal audience responses. _(2026-04-03)_
-- `INS-260403-6178` What you overhear and see through windows in a neighborhood reveals its true intellectual character and ambient message more reliably than any reputation or branding. _(2026-04-03)_
 - `INS-260403-4CF9` Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning. _(2026-04-03)_
 - `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker. _(2026-04-03)_
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility. _(2026-04-03)_
@@ -256,6 +258,9 @@ _No flags._
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter. _(2026-04-03)_
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered. _(2026-04-03)_
 - `INS-260403-3421` Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference. _(2026-04-03)_
+- `INS-260403-8391` New York dominates the art market because rich buyers evaluate art as brand identity rather than visual quality, while Paris remains the city where people genuinely care what paintings look like. _(2026-04-03)_
+- `INS-260403-A5FF` Shared human perceptual wiring (faces, primary colors, 3D objects, edge-finding) makes art quality measurable against universal audience responses. _(2026-04-03)_
+- `INS-260403-6178` What you overhear and see through windows in a neighborhood reveals its true intellectual character and ambient message more reliably than any reputation or branding. _(2026-04-03)_
 - `INS-260403-9824` Kids don't just need care — they become genuinely interesting friends and conversation partners much earlier than expected. _(2026-04-03)_
 - `INS-260403-14CB` Success breeds temptations that erode the very determination that created the success, unless discipline scales proportionally. _(2026-04-03)_
 - `INS-260403-4F4B` Persistence is best learned through lived experience on a single obsessive project, not through frameworks or advice. _(2026-04-03)_
@@ -265,6 +270,7 @@ _No flags._
 - `INS-260403-3517` Vertical AI trained on domain-specific data outperforms generalist AI enough to unbundle horizontal SaaS incumbents. _(2026-04-03)_
 - `INS-260403-2E0F` The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created. _(2026-04-03)_
 - `INS-260403-1E4A` AI pricing is shifting from per-seat to outcome-based because AI can now deliver measurable results, making customers unwilling to pay for inputs. _(2026-04-03)_
+- `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms. _(2026-04-03)_
 - `INS-260403-FC36` Ramen profitability is a trick for not dying en route to scale, not evidence that the business model works. _(2026-04-03)_
 - `INS-260403-1A5A` Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability. _(2026-04-03)_
 - `INS-260403-4E71` Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital. _(2026-04-03)_
@@ -279,6 +285,7 @@ _No flags._
 - `INS-260403-E78B` High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors. _(2026-04-03)_
 - `INS-260403-616B` Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives. _(2026-04-03)_
 - `INS-260403-426A` Marketplaces progress through horizontal lead gen, vertical lead gen, vertical transactional, and tightly managed phases. _(2026-04-03)_
+- `INS-260403-5C88` When membership fees are the primary revenue source, the company's incentive naturally aligns with keeping prices low to drive renewals. _(2026-04-03)_
 - `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it. _(2026-04-03)_
 - `INS-260403-94CA` McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain. _(2026-04-03)_
 - `INS-260403-4E16` Shifting from task-based to outcome-based pricing for AI agents mirrors healthcare's fee-for-service to value-based care transition, emphasizing quality over quantity. _(2026-04-03)_
@@ -294,6 +301,9 @@ _No flags._
 - `INS-260403-7C60` Game companies constantly adjust conversion pressure per user segment; most non-game companies set one static paywall and leave money on the table. _(2026-04-03)_
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans. _(2026-04-03)_
 - `INS-260403-57E7` Blockchain's real contribution to gaming is making virtual goods truly portable and user-owned, not turning games into income sources. _(2026-04-03)_
+- `INS-260403-6553` Top universities produce more successful startups because their selective admissions concentrate smart and determined people who become each other's cofounders. _(2026-04-03)_
+- `INS-260403-7563` Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside. _(2026-04-03)_
+- `INS-260403-87CF` Once a startup hub reaches critical mass, it's the people — not tax breaks, office space, or weather — that sustain the ecosystem. _(2026-04-03)_
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue. _(2026-04-03)_
 - `INS-260403-2FE1` A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory. _(2026-04-03)_
 - `INS-260403-2A1D` Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember. _(2026-04-03)_
@@ -303,13 +313,25 @@ _No flags._
 - `INS-260403-92EB` Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides. _(2026-04-03)_
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test. _(2026-04-03)_
 - `INS-260403-280B` Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total. _(2026-04-03)_
-- `INS-260403-6553` Top universities produce more successful startups because their selective admissions concentrate smart and determined people who become each other's cofounders. _(2026-04-03)_
-- `INS-260403-7563` Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside. _(2026-04-03)_
-- `INS-260403-87CF` Once a startup hub reaches critical mass, it's the people — not tax breaks, office space, or weather — that sustain the ecosystem. _(2026-04-03)_
 - `INS-260403-6424` Claiming a list is exhaustive ('The 7 secrets') exploits readers' need to verify completeness, making it effective linkbait but intellectually dishonest. _(2026-04-03)_
 - `INS-260403-D20A` List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments. _(2026-04-03)_
 - `INS-260403-7878` Readers trust bloggers more than mainstream media because online writing lacks the invisible fingerprints of PR firms shaping editorial content. _(2026-04-03)_
 - `INS-260403-2245` Qualifications are not scalars measuring weakness — they're a rich vocabulary expressing scope, certainty, knowledge source, and falsifiability. _(2026-04-03)_
+- `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. _(2026-04-03)_
+- `INS-260403-59F4` Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut. _(2026-04-03)_
+- `INS-260403-C514` Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code. _(2026-04-03)_
+- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality. _(2026-04-03)_
+- `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system. _(2026-04-03)_
+- `INS-260403-F9F0` When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly. _(2026-04-03)_
+- `INS-260403-F100` The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results. _(2026-04-03)_
+- `INS-260403-2CDA` RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive. _(2026-04-03)_
+- `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices. _(2026-04-03)_
+- `INS-260403-3831` Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came. _(2026-04-03)_
+- `INS-260403-D645` Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions. _(2026-04-03)_
+- `INS-260403-EA2C` Programmer throughput is constant in lines/day, so more succinct languages directly multiply output. _(2026-04-03)_
+- `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines. _(2026-04-03)_
+- `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs. _(2026-04-03)_
+- `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it. _(2026-04-03)_
 - `INS-260403-B7C6` Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage. _(2026-04-03)_
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot. _(2026-04-03)_
 - `INS-260403-AC5E` AI's software-only adoption curve means both attackers and incumbents can move faster than during the mobile shift, creating a speed-dependent competitive dynamic. _(2026-04-03)_
@@ -348,9 +370,11 @@ _No flags._
 - `INS-260403-4F0D` Structurally misaligned incentives among transaction participants (dealers, lenders, buyers) create the friction that fintech-enabled marketplaces can profitably eliminate. _(2026-04-03)_
 - `INS-260403-5554` Carnival and Royal Caribbean own dozens of sub-brands spanning mainstream to luxury, isolating disasters like Costa Concordia from damaging their full portfolio. _(2026-04-03)_
 - `INS-260403-3155` Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.' _(2026-04-03)_
+- `INS-260403-35E7` Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy. _(2026-04-03)_
 - `INS-260403-9BEF` Incumbents resist portable digital ownership because lock-in benefits them, creating an opening for startups to differentiate by giving users true ownership of virtual goods. _(2026-04-03)_
 - `INS-260403-A907` Once a system is deeply invested in a suboptimal approach, compensating around its flaws becomes cheaper than replacing it. _(2026-04-03)_
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate. _(2026-04-03)_
+- `INS-260403-E143` Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which gives it enormous leverage because suppliers compete fiercely for the one or two slots available. _(2026-04-03)_
 - `INS-260403-89B5` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement. _(2026-04-03)_
 - `INS-260403-FE00` Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product. _(2026-04-03)_
 - `INS-260403-04C9` McDonald's rejected a 2015 investor proposal to spin off its real estate into a REIT, arguing that the integration of food operations and property ownership is what makes both sides work. _(2026-04-03)_
@@ -364,23 +388,15 @@ _No flags._
 - `INS-260403-C381` Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration. _(2026-04-03)_
 - `INS-260403-600C` Waze lost a year of US market focus by predicting Google would follow its usual API-first rollout pattern for Maps navigation — Google didn't, and Waze's Latin America pivot was wasted effort driven by panic. _(2026-04-03)_
 - `INS-260403-8011` When the Internet eliminates distribution bottlenecks, 'build it and they will come' becomes a viable strategy. _(2026-04-03)_
+- `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats. _(2026-04-03)_
 - `INS-260403-37FD` Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears. _(2026-04-03)_
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose. _(2026-04-03)_
-- `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. _(2026-04-03)_
-- `INS-260403-59F4` Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut. _(2026-04-03)_
-- `INS-260403-C514` Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code. _(2026-04-03)_
-- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality. _(2026-04-03)_
-- `INS-260403-0902` Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system. _(2026-04-03)_
-- `INS-260403-F9F0` When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly. _(2026-04-03)_
-- `INS-260403-F100` The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results. _(2026-04-03)_
-- `INS-260403-2CDA` RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive. _(2026-04-03)_
-- `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices. _(2026-04-03)_
-- `INS-260403-3831` Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came. _(2026-04-03)_
-- `INS-260403-D645` Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions. _(2026-04-03)_
-- `INS-260403-EA2C` Programmer throughput is constant in lines/day, so more succinct languages directly multiply output. _(2026-04-03)_
-- `INS-260403-410A` Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines. _(2026-04-03)_
-- `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs. _(2026-04-03)_
-- `INS-260403-F088` RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it. _(2026-04-03)_
+- `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable. _(2026-04-03)_
+- `INS-260403-9F9F` People who want to get rich by changing the world work harder and build better products than those optimizing purely for money. _(2026-04-03)_
+- `INS-260403-3E9A` Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance. _(2026-04-03)_
+- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone. _(2026-04-03)_
+- `INS-260403-DAB1` Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent. _(2026-04-03)_
+- `INS-260403-0821` What stops people from starting companies is the crushing weight of responsibility, not financial risk or long hours. _(2026-04-03)_
 - `INS-260403-FED1` YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing. _(2026-04-03)_
 - `INS-260403-9DA1` Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable. _(2026-04-03)_
 - `INS-260403-566D` Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned. _(2026-04-03)_
@@ -393,6 +409,7 @@ _No flags._
 - `INS-260403-7BBD` Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed. _(2026-04-03)_
 - `INS-260403-FF4E` Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point. _(2026-04-03)_
 - `INS-260403-323A` Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership. _(2026-04-03)_
+- `INS-260403-0A1C` Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration. _(2026-04-03)_
 - `INS-260403-D518` Rather than evolving a better enzyme, plants simply produce massive quantities of RuBisCo to compensate for its low success rate. _(2026-04-03)_
 - `INS-260403-E52B` The Calvin Cycle produces 6 G3P molecules but 5 must regenerate the starting material—only 1 leaves as net output, revealing the true cost of sustaining a production cycle. _(2026-04-03)_
 - `INS-260403-10D8` Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent. _(2026-04-03)_
@@ -404,12 +421,6 @@ _No flags._
 - `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival. _(2026-04-03)_
 - `INS-260403-5514` The critical question for aspiring founders is not which technology to learn but whether they are producing things or just consuming them. _(2026-04-03)_
 - `INS-260403-F4B9` Instead of moving ships empty between Caribbean and European seasons, cruise lines sell repositioning tickets — turning a cost center (transit) into a revenue stream. _(2026-04-03)_
-- `INS-260403-0CCB` Founders are motivated by security rather than luxury, and will seek that security through institutional seniority if startup wealth is unavailable. _(2026-04-03)_
-- `INS-260403-9F9F` People who want to get rich by changing the world work harder and build better products than those optimizing purely for money. _(2026-04-03)_
-- `INS-260403-3E9A` Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance. _(2026-04-03)_
-- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone. _(2026-04-03)_
-- `INS-260403-DAB1` Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent. _(2026-04-03)_
-- `INS-260403-0821` What stops people from starting companies is the crushing weight of responsibility, not financial risk or long hours. _(2026-04-03)_
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do. _(2026-04-03)_
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself. _(2026-04-03)_
 - `INS-260403-5D18` Some people converge on their life's work early like Mozart, while others like Newton restlessly explore multiple fields — both paths can produce great work, and the 'single calling' narrative is often hindsight bias. _(2026-04-03)_
@@ -449,6 +460,16 @@ _No flags._
 - `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients. _(2026-04-03)_
 - `INS-260403-E492` Waiting for disease then treating it ('sick care') can't overcome aging's exponential decay — only preemptive renewal ('health care') can. _(2026-04-03)_
 - `INS-260403-DEF6` PR works like SEO for news — you get placed inside trusted editorial content rather than buying ignorable ads. _(2026-04-03)_
+- `INS-260403-E497` Screening for character at entry creates compounding returns through the quality of the network that forms around your organization. _(2026-04-03)_
+- `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward. _(2026-04-03)_
+- `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment. _(2026-04-03)_
+- `INS-260403-1DC9` Corporate recruiters optimize for personal career safety (nobody gets fired for hiring Stanford) rather than actual candidate quality. _(2026-04-03)_
+- `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones. _(2026-04-03)_
+- `INS-260403-C977` Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower. _(2026-04-03)_
+- `INS-260403-5F3E` Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause. _(2026-04-03)_
+- `INS-260403-22DF` The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need. _(2026-04-03)_
+- `INS-260403-6935` Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance. _(2026-04-03)_
+- `INS-260403-D966` Good programmers want to work with other good programmers, so talent decline is a one-way ratchet. _(2026-04-03)_
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough. _(2026-04-03)_
 - `INS-260403-CEC0` Sophisticated investors repeatedly overlook missing governance basics like boards of directors, which are the strongest predictors of catastrophic failure. _(2026-04-03)_
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern. _(2026-04-03)_
@@ -465,6 +486,7 @@ _No flags._
 - `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly. _(2026-04-03)_
 - `INS-260403-AC74` Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique. _(2026-04-03)_
 - `INS-260403-448F` A single sticky descriptive phrase is the minimum requirement for investor recall, and inability to create one signals insufficiently focused plans. _(2026-04-03)_
+- `INS-260403-5F03` Trivially low profitability gives startups infinite runway, making VC funding optional rather than existential. _(2026-04-03)_
 - `INS-260403-1904` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals. _(2026-04-03)_
 - `INS-260403-696C` Falling startup costs make large VC checks unnecessary, eroding the traditional fund model. _(2026-04-03)_
 - `INS-260403-9D89` Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies. _(2026-04-03)_
@@ -543,16 +565,6 @@ _No flags._
 - `INS-260403-9C63` VC pathologies trace back to fund economics that demand huge deal sizes, not to the personal failings of individual investors. _(2026-04-03)_
 - `INS-260403-FAFA` Early-stage VCs suffer more from missing winners than from funding losers, which means founders should emphasize upside potential over risk mitigation. _(2026-04-03)_
 - `INS-260403-C2BE` VCs fund spiky excellence over well-rounded competence, so founders should highlight their extraordinary strengths rather than shore up weaknesses. _(2026-04-03)_
-- `INS-260403-E497` Screening for character at entry creates compounding returns through the quality of the network that forms around your organization. _(2026-04-03)_
-- `INS-260403-D531` College marks the transition point where signaling compliance stops working and genuine ability becomes the only reliable path forward. _(2026-04-03)_
-- `INS-260403-7F6F` Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment. _(2026-04-03)_
-- `INS-260403-1DC9` Corporate recruiters optimize for personal career safety (nobody gets fired for hiring Stanford) rather than actual candidate quality. _(2026-04-03)_
-- `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones. _(2026-04-03)_
-- `INS-260403-C977` Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower. _(2026-04-03)_
-- `INS-260403-5F3E` Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause. _(2026-04-03)_
-- `INS-260403-22DF` The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need. _(2026-04-03)_
-- `INS-260403-6935` Academic failures driven by project obsession are often better hires than straight-A students because obsession is a stronger signal of builder aptitude than compliance. _(2026-04-03)_
-- `INS-260403-D966` Good programmers want to work with other good programmers, so talent decline is a one-way ratchet. _(2026-04-03)_
 - `INS-260403-363C` Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle. _(2026-04-03)_
 - `INS-260403-C610` The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company. _(2026-04-03)_
 - `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees. _(2026-04-03)_
@@ -594,10 +606,12 @@ _No flags._
 - `INS-260403-6AB5` Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI. _(2026-04-03)_
 - `INS-260403-17E1` Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses. _(2026-04-03)_
 - `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods. _(2026-04-03)_
+- `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan. _(2026-04-03)_
 - `INS-260403-2BEE` Growth experiments need independent spaces with dedicated resources to avoid being absorbed by the core business's gravitational pull. _(2026-04-03)_
 - `INS-260403-E4AD` The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor. _(2026-04-03)_
 - `INS-260403-0030` Cohort networks from innovation programs often outvalue the curriculum by providing ongoing diverse perspectives for context-dependent innovation challenges. _(2026-04-03)_
 - `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally. _(2026-04-03)_
+- `INS-260403-81D4` You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses. _(2026-04-03)_
 - `INS-260403-CF09` Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models. _(2026-04-03)_
 - `INS-260403-D62D` Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories. _(2026-04-03)_
 - `INS-260403-5427` Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support. _(2026-04-03)_
@@ -661,6 +675,18 @@ _No flags._
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation. _(2026-04-03)_
 - `INS-260403-66AE` User-voted platforms must actively suppress low-effort-to-judge content or it will inevitably dominate the feed. _(2026-04-03)_
 - `INS-260403-AEAF` The same attributes that built a brand's dominance can become its biggest handicap when customer values shift. _(2026-04-03)_
+- `INS-260403-0185` The best products come from small, opinionated teams — committees produce bureaucratic compromises. _(2026-04-03)_
+- `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests. _(2026-04-03)_
+- `INS-260403-D2B1` Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform. _(2026-04-03)_
+- `INS-260403-A5B8` The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users. _(2026-04-03)_
+- `INS-260403-C3DF` Looking down on your users, however benevolently, inevitably corrupts the design. _(2026-04-03)_
+- `INS-260403-9C60` The quality of a tool is measured by the journey it enables, not the destination it displays. _(2026-04-03)_
+- `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself. _(2026-04-03)_
+- `INS-260403-219E` Games companies model the ideal product iteration cycle: launch fast, measure everything, optimize continuously, and never stop evolving. _(2026-04-03)_
+- `INS-260403-7732` Selection from a large open pool surfaces better top-end quality than editorial curation, which dampens extremes. _(2026-04-03)_
+- `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation. _(2026-04-03)_
+- `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass. _(2026-04-03)_
+- `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow. _(2026-04-03)_
 - `INS-260403-9681` AI enables marketplaces to capture awareness and consideration stages of the buying cycle, not just intent and purchase. _(2026-04-03)_
 - `INS-260403-9B5D` SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier. _(2026-04-03)_
 - `INS-260403-31AF` Oxygen — the gas that enabled all animal life — was originally just a waste product of early photosynthesis. _(2026-04-03)_
@@ -677,22 +703,12 @@ _No flags._
 - `INS-260403-EC8A` Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral. _(2026-04-03)_
 - `INS-260403-35CB` Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision. _(2026-04-03)_
 - `INS-260403-5FBD` Value proposition fit and business model viability are independent variables — companies need both to survive. _(2026-04-03)_
+- `INS-260403-A8F3` Build for yourself first — products aimed 'down' at a mainstream audience tend to produce mediocre outcomes. _(2026-04-03)_
 - `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision. _(2026-04-03)_
 - `INS-260403-5C06` NFX's 5-level AI spectrum shows most founders default to AI enhancement (L1-3) rather than pursuing AI-first products (L4-5) where transformative value lives. _(2026-04-03)_
 - `INS-260403-B73A` When A.Team made teams rather than individuals the core unit, participants stopped competing on price and started complementing each other, breaking the asymptotic ceiling. _(2026-04-03)_
 - `INS-260403-C4CD` RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must dedicate entire enzyme pathways to neutralize — a pattern mirrored in any high-throughput system. _(2026-04-03)_
 - `INS-260403-E69C` Waze discovered churned users understood the mission completely — the only difference between retained and churned users was patience with broken core functionality. _(2026-04-03)_
-- `INS-260403-2A44` Good design requires diagnosing user needs rather than implementing stated requests. _(2026-04-03)_
-- `INS-260403-D2B1` Genuine platform adoption is proven by hackers spontaneously building on it; if you need PR to promote it, it's not a real platform. _(2026-04-03)_
-- `INS-260403-A5B8` The best tools emerge when builders design for their own needs rather than dumbing things down for imagined users. _(2026-04-03)_
-- `INS-260403-C3DF` Looking down on your users, however benevolently, inevitably corrupts the design. _(2026-04-03)_
-- `INS-260403-9C60` The quality of a tool is measured by the journey it enables, not the destination it displays. _(2026-04-03)_
-- `INS-260403-8653` Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself. _(2026-04-03)_
-- `INS-260403-219E` Games companies model the ideal product iteration cycle: launch fast, measure everything, optimize continuously, and never stop evolving. _(2026-04-03)_
-- `INS-260403-7732` Selection from a large open pool surfaces better top-end quality than editorial curation, which dampens extremes. _(2026-04-03)_
-- `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation. _(2026-04-03)_
-- `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass. _(2026-04-03)_
-- `INS-260403-EE38` Most big programs started as throwaway scripts, so tools must excel at quick disposable work to capture the projects that grow. _(2026-04-03)_
 - `INS-260403-4942` Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it. _(2026-04-03)_
 - `INS-260403-AC03` Slow, careful software development merely produces a polished version of your first wrong idea. _(2026-04-03)_
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages. _(2026-04-03)_
@@ -754,6 +770,7 @@ _No flags._
 - `INS-260403-335F` RuBisCo shows how a 'good enough' early bet can permanently lock a system into managing costly workarounds rather than redesigning. _(2026-04-03)_
 - `INS-260403-D882` Design your company around structural platform-asset balance rather than adapting to which approach investors currently favor. _(2026-04-03)_
 - `INS-260403-DB16` Charity funds the R&D phase; sustainable scale requires transitioning to a model where beneficiaries can pay for the product themselves. _(2026-04-03)_
+- `INS-260403-6BD9` Costco turns its confusing warehouse layout, mandatory fee, and limited selection into advantages that competitors won't replicate because they look like problems. _(2026-04-03)_
 - `INS-260403-22E9` Cruise ships register under flags of convenience like Panama or Liberia to exploit favorable labor laws, saving millions in wages and enabling a global low-cost workforce. _(2026-04-03)_
 - `INS-260403-8C20` When regulation makes going public impractical, startups die silently—the founders just stay in grad school instead. _(2026-04-03)_
 - `INS-260403-92CC` Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer. _(2026-04-03)_
@@ -763,6 +780,9 @@ _No flags._
 - `INS-260403-7E6A` North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness. _(2026-04-03)_
 - `INS-260403-9DC6` Geographic tech clusters win not through information access but through human networks that curate which information matters—and the best insider knowledge is still transmitted in person. _(2026-04-03)_
 - `INS-260403-7C67` Startup ecosystems exhibit phase-transition behavior: they either reach critical mass and become self-sustaining or remain negligible. _(2026-04-03)_
+- `INS-260403-4904` Falling startup costs silently decoupled founders from VCs, but the shift only becomes visible when funding dries up and founders discover they don't actually need it. _(2026-04-03)_
+- `INS-260403-3EFB` Visual canvas tools with predefined sections and trigger questions channel abstract strategy conversations into concrete, testable business assumptions. _(2026-04-03)_
+- `INS-260403-3EEA` Tangible visual artifacts created during workshops serve as persistent reference points that enable teams to act on ideas after the session ends. _(2026-04-03)_
 - `INS-260403-CF7C` Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control. _(2026-04-03)_
 - `INS-260403-1325` Technology tools are neutral; exploitation happens through governance failures around the humans wielding them. _(2026-04-03)_
 - `INS-260403-6E76` The erosion of gatekeepers is pulling ambitious people away from test-hacking careers toward fields where genuine quality wins. _(2026-04-03)_
@@ -775,6 +795,7 @@ _No flags._
 - `INS-260403-DD95` Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback. _(2026-04-03)_
 - `INS-260403-2718` Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias. _(2026-04-03)_
 - `INS-260403-B87D` Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table. _(2026-04-03)_
+- `INS-260403-FBF0` Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built. _(2026-04-03)_
 - `INS-260403-C96F` When there's no product or traction data, the founders themselves are the entire investment thesis. _(2026-04-03)_
 - `INS-260403-979D` Account for environmental conditions when interpreting A/B test results to avoid false generalizations. _(2026-04-03)_
 - `INS-260403-508D` Categorizing gains as expected, desired, or surprising reveals whether your value proposition is merely adequate or genuinely differentiated. _(2026-04-03)_
@@ -830,6 +851,14 @@ _No flags._
 - `INS-260402-A693` Leslie Lamport's claim that 'if you're thinking without writing, you only think you're thinking' frames writing as the actual mechanism of thought, not its byproduct. _(2026-04-02)_
 - `INS-260402-12D0` Writing generates ideas rather than merely recording them — 90% of essay content only emerges during the writing process. _(2026-04-02)_
 - `INS-260402-9E2D` Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas. _(2026-04-02)_
+- `INS-260402-A558` Childhood reassurance about alarming realities creates adults who are trained to ignore those same problems, enabling bad conditions to persist. _(2026-04-02)_
+- `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives. _(2026-04-02)_
+- `INS-260402-5522` When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing. _(2026-04-02)_
+- `INS-260402-AC3D` You can see what's missing in weaker tools but are blind to what's missing in your own compared to more powerful ones. _(2026-04-02)_
+- `INS-260402-0BFF` Having zero controversial private opinions is evidence of conformity, not correctness. _(2026-04-02)_
+- `INS-260402-A999` People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality. _(2026-04-02)_
+- `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand. _(2026-04-02)_
+- `INS-260402-F04F` People prefer to believe in innate genius because it absolves them of the responsibility to try harder. _(2026-04-02)_
 - `INS-260402-F3D7` Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. _(2026-04-02)_
 - `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for. _(2026-04-02)_
 - `INS-260402-8223` Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline. _(2026-04-02)_
@@ -849,14 +878,6 @@ _No flags._
 - `INS-260402-40D7` Avoid locking into fixed life plans early; instead maximize the range of future options available to you. _(2026-04-02)_
 - `INS-260402-9D7B` The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation. _(2026-04-02)_
 - `INS-260402-CCC3` VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots. _(2026-04-02)_
-- `INS-260402-A558` Childhood reassurance about alarming realities creates adults who are trained to ignore those same problems, enabling bad conditions to persist. _(2026-04-02)_
-- `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives. _(2026-04-02)_
-- `INS-260402-5522` When you hire people whose job is to find a specific type of problem, they will always find it because their employment depends on the problem existing. _(2026-04-02)_
-- `INS-260402-AC3D` You can see what's missing in weaker tools but are blind to what's missing in your own compared to more powerful ones. _(2026-04-02)_
-- `INS-260402-0BFF` Having zero controversial private opinions is evidence of conformity, not correctness. _(2026-04-02)_
-- `INS-260402-A999` People confuse wealth with money and assume it's distributed rather than created, leading to flawed moral judgments about inequality. _(2026-04-02)_
-- `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand. _(2026-04-02)_
-- `INS-260402-F04F` People prefer to believe in innate genius because it absolves them of the responsibility to try harder. _(2026-04-02)_
 - `INS-260402-1CAD` Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload. _(2026-04-02)_
 - `INS-260402-62E3` Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups. _(2026-04-02)_
 - `INS-260402-116A` Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms. _(2026-04-02)_
@@ -877,9 +898,9 @@ _No flags._
 - `INS-260402-1F58` The real question is not 'patents or freedom' but 'patents or secrecy'—and secrecy's historical track record is far worse. _(2026-04-02)_
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions. _(2026-04-02)_
 - `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse. _(2026-04-02)_
-- `INS-260402-86C4` Adults hiding their flaws while enforcing high standards on children creates a generation that feels secretly, hopelessly inadequate compared to an illusion. _(2026-04-02)_
 - `INS-260402-476E` Moral labels replace factual rebuttals precisely when the factual rebuttal would fail. _(2026-04-02)_
 - `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast. _(2026-04-02)_
+- `INS-260402-86C4` Adults hiding their flaws while enforcing high standards on children creates a generation that feels secretly, hopelessly inadequate compared to an illusion. _(2026-04-02)_
 - `INS-260402-EC9F` Being poor means your personal cost threshold naturally produces products priced an order of magnitude below incumbents, which incumbents psychologically cannot follow. _(2026-04-02)_
 - `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate. _(2026-04-02)_
 - `INS-260402-8170` Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match. _(2026-04-02)_
@@ -887,6 +908,9 @@ _No flags._
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause. _(2026-04-02)_
 - `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density. _(2026-04-02)_
 - `INS-260402-8813` Co-founders matter most not for splitting work but for creating mutual obligation that sustains effort through unbearable lows. _(2026-04-02)_
+- `INS-260402-7999` Great software is written by sketching and refining, not by executing a pre-completed blueprint. _(2026-04-02)_
+- `INS-260402-5242` Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale. _(2026-04-02)_
+- `INS-260402-C664` Having great hackers build internal tools while less elite developers build applications retains top talent without exposing them to soul-crushing user requirements. _(2026-04-02)_
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for. _(2026-04-02)_
 - `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning. _(2026-04-02)_
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback. _(2026-04-02)_
@@ -906,9 +930,9 @@ _No flags._
 - `INS-260402-F4E5` Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely. _(2026-04-02)_
 - `INS-260402-45FA` Choosing unfamiliar but powerful technology creates advantages competitors can't even diagnose, let alone copy. _(2026-04-02)_
 - `INS-260402-E2AF` The real competitive threat to a startup is not Google but the unknown startup in a garage working on the same problem with equal desperation. _(2026-04-02)_
-- `INS-260402-7999` Great software is written by sketching and refining, not by executing a pre-completed blueprint. _(2026-04-02)_
-- `INS-260402-5242` Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale. _(2026-04-02)_
-- `INS-260402-C664` Having great hackers build internal tools while less elite developers build applications retains top talent without exposing them to soul-crushing user requirements. _(2026-04-02)_
+- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded. _(2026-04-02)_
+- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem. _(2026-04-02)_
+- `INS-260402-8C0E` Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich. _(2026-04-02)_
 - `INS-260402-91B5` Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams. _(2026-04-02)_
 - `INS-260402-E22E` As institutions lose gatekeeping power, more individuals access superlinear returns but outcomes become more unequal. _(2026-04-02)_
 - `INS-260402-70FD` Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment. _(2026-04-02)_
@@ -919,9 +943,6 @@ _No flags._
 - `INS-260402-529F` Starting small and growing incrementally lets you build things too ambitious to have planned upfront. _(2026-04-02)_
 - `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys. _(2026-04-02)_
 - `INS-260402-7182` When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings. _(2026-04-02)_
-- `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded. _(2026-04-02)_
-- `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem. _(2026-04-02)_
-- `INS-260402-8C0E` Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich. _(2026-04-02)_
 - `INS-260402-8EED` A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier. _(2026-04-02)_
 - `INS-260402-9075` Most startups die not from bad decisions but from founders who never fully committed. _(2026-04-02)_
 - `INS-260402-FEA3` The real world rewards nerds because scale lets niches cluster and real stakes make competence trump charisma. _(2026-04-02)_
@@ -940,6 +961,10 @@ _No flags._
 - `INS-260402-1436` Marketplace growth bottlenecks on trust infrastructure — verified profiles, reviews, and safety systems — not on user acquisition. _(2026-04-02)_
 - `INS-260402-4A06` Hospital AI adoption is gated by institutional review committees and strict financial ROI proof, not technical merit. _(2026-04-02)_
 - `INS-260402-DCC5` FDA-cleared therapeutic video games match drug efficacy for ADHD with side effects limited to headaches and frustration. _(2026-04-02)_
+- `INS-260402-AA3F` Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly. _(2026-04-02)_
+- `INS-260402-9B06` Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing). _(2026-04-02)_
+- `INS-260402-73D9` Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference. _(2026-04-02)_
+- `INS-260402-33CA` Technology stack decisions double as social decisions that determine the caliber of talent you can attract. _(2026-04-02)_
 - `INS-260402-8E29` Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels. _(2026-04-02)_
 - `INS-260402-6BB6` Startup ecosystems are constrained by angel investor presence because angels fund the pre-VC risk that makes later rounds possible. _(2026-04-02)_
 - `INS-260402-E522` The only real leverage in fundraising is genuinely not needing the deal, which requires the kind of determination that can't be faked. _(2026-04-02)_
@@ -954,10 +979,6 @@ _No flags._
 - `INS-260402-5974` Founders should fit investor meetings into gaps in their development schedule, not fit development into gaps between investor meetings. _(2026-04-02)_
 - `INS-260402-8424` VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses. _(2026-04-02)_
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation. _(2026-04-02)_
-- `INS-260402-AA3F` Great hackers cluster together, so talent attraction scales with the square of environment quality, not linearly. _(2026-04-02)_
-- `INS-260402-9B06` Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing). _(2026-04-02)_
-- `INS-260402-73D9` Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference. _(2026-04-02)_
-- `INS-260402-33CA` Technology stack decisions double as social decisions that determine the caliber of talent you can attract. _(2026-04-02)_
 - `INS-260402-EE6E` The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions. _(2026-04-02)_
 - `INS-260402-D739` The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations. _(2026-04-02)_
 - `INS-260402-0727` Late career specialization produces more founders because 'startup founder' is never a planned career — it emerges from flexible systems. _(2026-04-02)_
@@ -975,7 +996,6 @@ _No flags._
 - `INS-260402-6D5E` Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains. _(2026-04-02)_
 - `INS-260402-BA91` Instead of asking 'what are the most general truths?' ask 'of all useful things we can say, which are the most general?' — using applicability as a compass to avoid getting lost in abstraction. _(2026-04-02)_
 - `INS-260402-3C79` Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing. _(2026-04-02)_
-- `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly. _(2026-04-02)_
 - `INS-260402-426C` Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors. _(2026-04-02)_
 - `INS-260402-0F36` The way to succeed is to be an expert on your users and their problems, not an expert on startup mechanics. _(2026-04-02)_
 - `INS-260402-7B69` In early startups, product quality is redefined as total user experience quality, where personal attentiveness compensates for product incompleteness. _(2026-04-02)_
@@ -985,6 +1005,7 @@ _No flags._
 - `INS-260402-E85D` The excuses for delaying launch decompose into six specific fears, and forcing a quick launch combats all of them simultaneously. _(2026-04-02)_
 - `INS-260402-C883` Wrapping commodity products in services that solve the full customer job transforms price-sensitive transactions into sticky relationships. _(2026-04-02)_
 - `INS-260402-4633` The first phase of business creation is product creation — hacking — and figuring out monetization afterward is the comparatively easy part. _(2026-04-02)_
+- `INS-260402-3DBF` False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly. _(2026-04-02)_
 - `INS-260402-EF63` Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. _(2026-04-02)_
 - `INS-260402-2FDF` Following the most interesting path at each step — like a river finding the sea — produces better outcomes than planning the route in advance. _(2026-04-02)_
 - `INS-260402-F479` Gall's Law states that all complex working systems evolved from simple working systems — designing complexity from scratch always fails. _(2026-04-02)_
@@ -1011,8 +1032,6 @@ _No flags._
 - `INS-260330-86F9` Good developer documentation and tooling make agents succeed at higher rates, creating a virtuous cycle where DX investment pays double dividends. _(2026-03-30)_
 - `INS-260330-52C3` LLMs' real production value is covering the long tail of unexpected inputs that killed previous-generation AI systems, even at the cost of occasional hallucination. _(2026-03-30)_
 - `INS-260330-5DCA` The vine robot intubation device finds the trachea not through sensors or cameras but through passive compliance — its softness lets it naturally follow the correct anatomical path. _(2026-03-30)_
-- `INS-260330-1F7E` The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post. _(2026-03-30)_
-- `INS-260330-A812` Complete elimination of conflict or suffering may require totalitarian enforcement that produces worse outcomes than tolerating some controlled negativity. _(2026-03-30)_
 - `INS-260330-E282` AI can generate hypotheses far faster than labs can test them, making verification the true bottleneck in experimental sciences. _(2026-03-30)_
 - `INS-260330-B5D2` Human science depends on compressing nature into simple formulas, but many real patterns may be inherently too complex for human cognition yet perfectly tractable for AI. _(2026-03-30)_
 - `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations. _(2026-03-30)_
@@ -1022,11 +1041,13 @@ _No flags._
 - `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence. _(2026-03-30)_
 - `INS-260330-63DD` Theoretical fields based on logical implications of assumptions can be nearly push-button accelerated by AI, while experimental fields remain gated by physical testing. _(2026-03-30)_
 - `INS-260330-0C0C` Embedding spaces develop meaningful geometric structure as a side effect of prediction training, with directions encoding concepts like gender and nationality. _(2026-03-30)_
-- `INS-260330-F205` Every data center being built now locks in compute and power capacity that will be irreplaceable once globalized GPU supply chains break down. _(2026-03-30)_
-- `INS-260330-AB67` Agents paying for ephemeral API access per-task will create a new category of businesses built entirely for agent consumption. _(2026-03-30)_
+- `INS-260330-1F7E` The solution to social media misinformation is holding platforms liable for what their algorithms promote, not censoring what users post. _(2026-03-30)_
+- `INS-260330-A812` Complete elimination of conflict or suffering may require totalitarian enforcement that produces worse outcomes than tolerating some controlled negativity. _(2026-03-30)_
+- `INS-260330-EEBD` Apple's Rosetta translation ran most Intel software acceptably on ARM, but Android emulation and .NET web workflows were unusable — translation layers fail precisely where you need them most. _(2026-03-30)_
 - `INS-260330-DE16` Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible. _(2026-03-30)_
 - `INS-260330-30FB` G3P is photosynthesis's universal intermediate — one molecule convertible to glucose, cellulose, or starch — showing that versatile intermediates beat specialized end products for system resilience. _(2026-03-30)_
-- `INS-260330-EEBD` Apple's Rosetta translation ran most Intel software acceptably on ARM, but Android emulation and .NET web workflows were unusable — translation layers fail precisely where you need them most. _(2026-03-30)_
+- `INS-260330-F205` Every data center being built now locks in compute and power capacity that will be irreplaceable once globalized GPU supply chains break down. _(2026-03-30)_
+- `INS-260330-AB67` Agents paying for ephemeral API access per-task will create a new category of businesses built entirely for agent consumption. _(2026-03-30)_
 - `INS-260330-CCA2` Different basis choices make different operations trivial or impossible in vector spaces. _(2026-03-30)_
 - `INS-260330-4B84` Every vector maps to exactly one coordinate tuple and vice versa — this bijection is what makes embedding spaces work. _(2026-03-30)_
 - `INS-260330-3B6C` A linear transformation is completely described by recording where each basis vector maps to — everything else follows by linearity. _(2026-03-30)_
@@ -1049,6 +1070,7 @@ _No flags._
 - `INS-260330-3ADD` Networks achieve 96%+ accuracy with hidden layers that look nearly random rather than detecting edges and patterns as designed. _(2026-03-30)_
 - `INS-260330-AE16` Neural network layers learn progressively abstract representations — pixels to edges to shapes to concepts — which is why depth matters more than width for complex tasks. _(2026-03-30)_
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity. _(2026-03-30)_
+- `INS-260330-4B30` Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload. _(2026-03-30)_
 - `INS-260330-5A2A` All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free. _(2026-03-30)_
 - `INS-260330-798D` Computing the 100th power of a matrix is a nightmare in standard coordinates but trivial in an eigenbasis — just raise each diagonal eigenvalue to the 100th power. _(2026-03-30)_
 - `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes. _(2026-03-30)_
@@ -1063,7 +1085,6 @@ _No flags._
 - `INS-260330-28B1` Linux has 4% desktop share but dominates servers, proving that runtime platform share outweighs development-time platform share. _(2026-03-30)_
 - `INS-260330-2601` A hierarchy of control exists in tech — plugins < browsers < operating systems < physical devices — where each higher layer can override everything below it. _(2026-03-30)_
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out. _(2026-03-30)_
-- `INS-260330-4B30` Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload. _(2026-03-30)_
 - `INS-260330-4C31` Co-locating components on one chip eliminates data transfer overhead, beating systems with individually stronger but physically separated parts. _(2026-03-30)_
 - `INS-260330-77A2` WebAssembly and cloud compute are enabling full development environments to run entirely in the browser. _(2026-03-30)_
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve. _(2026-03-30)_
@@ -1073,8 +1094,6 @@ _No flags._
 - `INS-260330-6828` Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique. _(2026-03-30)_
 - `INS-260330-8638` The arrow hits the target precisely because it flexes around the obstacle, not despite it. _(2026-03-30)_
 - `INS-260330-BB53` Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions. _(2026-03-30)_
-- `INS-260330-E414` Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline. _(2026-03-30)_
-- `INS-260330-7DCF` Filling a scene with randomly positioned objects via a simple loop creates richer environments than manual placement. _(2026-03-30)_
 - `INS-260330-E6BB` Abstraction layers — not simplification — are what let humans build on billion-transistor systems. _(2026-03-30)_
 - `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design. _(2026-03-30)_
 - `INS-260330-206C` Back-translation creates synthetic training data for rare language pairs, but too much synthetic data degrades quality _(2026-03-30)_
@@ -1099,37 +1118,6 @@ _No flags._
 - `INS-260330-77E2` Two-step lookahead improved Wordle solving from 3.6 to 3.43 — significant but diminishing returns over greedy one-step. _(2026-03-30)_
 - `INS-260330-0A8D` One unified MoE model beats 256 separate models — complexity grows quadratically with per-pair but linearly with unified _(2026-03-30)_
 - `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones. _(2026-03-30)_
-- `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments. _(2026-03-30)_
-- `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely. _(2026-03-30)_
-- `INS-260330-4D05` Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand. _(2026-03-30)_
-- `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization. _(2026-03-30)_
-- `INS-260330-F67A` Beijing knows the housing bubble exists and broadly knows the fixes, but real estate is so intertwined with GDP that any correction risks economic slowdown. _(2026-03-30)_
-- `INS-260330-C1EA` Chinese households save nearly 40% of disposable income but funnel 70% of wealth into real estate because domestic stocks are volatile and banks are distrusted. _(2026-03-30)_
-- `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism. _(2026-03-30)_
-- `INS-260330-A98B` Local governments funding themselves primarily through land sales creates a structural incentive to oversupply housing, inflating bubbles. _(2026-03-30)_
-- `INS-260330-808B` When Standard Oil was broken into 34 companies, investors nearly tripled Rockefeller's share value because each independent company was valued higher than its fraction of the whole — the classic conglomerate discount in reverse. _(2026-03-30)_
-- `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments. _(2026-03-30)_
-- `INS-260330-3B31` Ponzi schemes are mathematically unsustainable because they need exponential growth in new investors to pay promised returns. _(2026-03-30)_
-- `INS-260330-44C7` Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate. _(2026-03-30)_
-- `INS-260330-6411` ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate. _(2026-03-30)_
-- `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment. _(2026-03-30)_
-- `INS-260330-F9CA` Facebook scrapped WhatsApp's $1/year fee because a user's behavioral data, contact graph, and cross-platform identity linkage is worth far more than $1 annually to an advertising network. _(2026-03-30)_
-- `INS-260330-F6B5` About half of sun-like stars have gas giants in habitable zones, and if even 20% host Earth-like moons, habitable moons outnumber habitable planets. _(2026-03-30)_
-- `INS-260330-AF2A` Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities. _(2026-03-30)_
-- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation. _(2026-03-30)_
-- `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift. _(2026-03-30)_
-- `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability. _(2026-03-30)_
-- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block. _(2026-03-30)_
-- `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would. _(2026-03-30)_
-- `INS-260330-D583` Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption. _(2026-03-30)_
-- `INS-260330-EFB8` The absence of legacy banking infrastructure in Africa enabled direct adoption of mobile payments, bypassing checks and credit cards entirely. _(2026-03-30)_
-- `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors. _(2026-03-30)_
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible. _(2026-03-30)_
-- `INS-260330-B6AD` When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital. _(2026-03-30)_
-- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset. _(2026-03-30)_
-- `INS-260330-ED77` Apple borrows money in the US to pay American bills despite having $285B in offshore accounts it cannot access without triggering taxes. _(2026-03-30)_
-- `INS-260330-137A` Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage. _(2026-03-30)_
-- `INS-260330-B906` Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same. _(2026-03-30)_
 - `INS-260330-BC56` Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered. _(2026-03-30)_
 - `INS-260330-B061` PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth. _(2026-03-30)_
 - `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input. _(2026-03-30)_
@@ -1158,6 +1146,17 @@ _No flags._
 - `INS-260330-E647` Neurons have extremely high metabolic rates, with the brain consuming about 25% of daily calories, making cognitive function the first casualty of energy deficits. _(2026-03-30)_
 - `INS-260330-1677` Chloroplasts charge thylakoids like batteries by pumping protons inside, then harvest that gradient through ATP synthase to produce ATP. _(2026-03-30)_
 - `INS-260330-5D64` Expressing daily verbal appreciation to a partner reduces their cortisol and cholesterol while boosting immune function — and produces the same benefits in the speaker. _(2026-03-30)_
+- `INS-260330-9FAA` The thylakoid membrane acts as a biological battery — pumping protons to one side creates a concentration gradient that drives ATP synthase like water through a turbine. _(2026-03-30)_
+- `INS-260330-99CE` Thylakoid membranes charge like batteries by pumping protons to one side, then discharge through ATP synthase to produce ATP. _(2026-03-30)_
+- `INS-260330-FD7C` Picosecond lasers shatter tattoo ink because the outer layer of each particle expands thermally before heat reaches the core, creating mechanical stress that fractures the particle. _(2026-03-30)_
+- `INS-260330-09B5` Death is always caused by the body's inability to maintain stable internal conditions, not by the injury or disease label itself. _(2026-03-30)_
+- `INS-260330-2EAB` In biology, what something looks like tells you what it does — heart valves prevent backflow because of their shape, bones protect because they're hard. _(2026-03-30)_
+- `INS-260330-EEF3` In laser tattoo removal, pulse duration must be shorter than the particle's thermal relaxation time to achieve selective destruction — making timescale the key parameter, not energy. _(2026-03-30)_
+- `INS-260330-545E` The electron transport chain extracts energy from excited electrons across four protein complexes in small decrements, converting it to usable ATP and NADPH rather than releasing it as waste heat. _(2026-03-30)_
+- `INS-260330-4B45` The electron transport chain extracts energy from excited electrons through a series of decreasing-energy steps, each capturing a portion as useful ATP rather than losing it all as heat in one burst. _(2026-03-30)_
+- `INS-260330-BA54` Tattoo inks often contain heavy metals (mercury, lead, cadmium) that remain permanently in dermal tissue, representing an underappreciated chronic toxicological exposure. _(2026-03-30)_
+- `INS-260330-078A` Tattoo permanence is governed by particle size exceeding the phagocytic capacity of white blood cells, not by chemical adhesion. _(2026-03-30)_
+- `INS-260330-E3C0` Tattoo removal requires both laser fragmentation and immune-mediated clearance working in sequence — the laser breaks particles below the phagocytic threshold, then macrophages transport fragments to the liver. _(2026-03-30)_
 - `INS-260330-B173` Running up stairs for 20 seconds, 2-3 times daily across a workday, significantly improves VO2 max and blood glucose control. _(2026-03-30)_
 - `INS-260330-AB3C` Without oxygen, cells fall back to fermentation (2 ATP vs 38), accepting 95% efficiency loss to maintain any energy production at all. _(2026-03-30)_
 - `INS-260330-54A3` UV light accelerates cataracts and damages the retina, but virtually all modern eyeglasses already block UV; blue-blocking adds no proven benefit and may interfere with circadian entrainment. _(2026-03-30)_
@@ -1187,17 +1186,78 @@ _No flags._
 - `INS-260330-A5B0` Johns Hopkins uses 30-40mg psilocybin (heroic dose) with trained guides, eye shades, curated music, and 6-8 hours of continuous support per session. _(2026-03-30)_
 - `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration. _(2026-03-30)_
 - `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center. _(2026-03-30)_
-- `INS-260330-9FAA` The thylakoid membrane acts as a biological battery — pumping protons to one side creates a concentration gradient that drives ATP synthase like water through a turbine. _(2026-03-30)_
-- `INS-260330-99CE` Thylakoid membranes charge like batteries by pumping protons to one side, then discharge through ATP synthase to produce ATP. _(2026-03-30)_
-- `INS-260330-FD7C` Picosecond lasers shatter tattoo ink because the outer layer of each particle expands thermally before heat reaches the core, creating mechanical stress that fractures the particle. _(2026-03-30)_
-- `INS-260330-09B5` Death is always caused by the body's inability to maintain stable internal conditions, not by the injury or disease label itself. _(2026-03-30)_
-- `INS-260330-2EAB` In biology, what something looks like tells you what it does — heart valves prevent backflow because of their shape, bones protect because they're hard. _(2026-03-30)_
-- `INS-260330-EEF3` In laser tattoo removal, pulse duration must be shorter than the particle's thermal relaxation time to achieve selective destruction — making timescale the key parameter, not energy. _(2026-03-30)_
-- `INS-260330-545E` The electron transport chain extracts energy from excited electrons across four protein complexes in small decrements, converting it to usable ATP and NADPH rather than releasing it as waste heat. _(2026-03-30)_
-- `INS-260330-4B45` The electron transport chain extracts energy from excited electrons through a series of decreasing-energy steps, each capturing a portion as useful ATP rather than losing it all as heat in one burst. _(2026-03-30)_
-- `INS-260330-BA54` Tattoo inks often contain heavy metals (mercury, lead, cadmium) that remain permanently in dermal tissue, representing an underappreciated chronic toxicological exposure. _(2026-03-30)_
-- `INS-260330-078A` Tattoo permanence is governed by particle size exceeding the phagocytic capacity of white blood cells, not by chemical adhesion. _(2026-03-30)_
-- `INS-260330-E3C0` Tattoo removal requires both laser fragmentation and immune-mediated clearance working in sequence — the laser breaks particles below the phagocytic threshold, then macrophages transport fragments to the liver. _(2026-03-30)_
+- `INS-260330-6411` ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate. _(2026-03-30)_
+- `INS-260330-8FEC` Businesses earning royalties on others' capital (like Amex's 3% transaction fee) generate superior returns because growth doesn't require proportional reinvestment. _(2026-03-30)_
+- `INS-260330-F9CA` Facebook scrapped WhatsApp's $1/year fee because a user's behavioral data, contact graph, and cross-platform identity linkage is worth far more than $1 annually to an advertising network. _(2026-03-30)_
+- `INS-260330-4D05` Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand. _(2026-03-30)_
+- `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization. _(2026-03-30)_
+- `INS-260330-F67A` Beijing knows the housing bubble exists and broadly knows the fixes, but real estate is so intertwined with GDP that any correction risks economic slowdown. _(2026-03-30)_
+- `INS-260330-C1EA` Chinese households save nearly 40% of disposable income but funnel 70% of wealth into real estate because domestic stocks are volatile and banks are distrusted. _(2026-03-30)_
+- `INS-260330-E43F` China's cities receive 40% of tax revenue but bear 80% of expenses, forcing them to use land sales as their primary funding mechanism. _(2026-03-30)_
+- `INS-260330-A98B` Local governments funding themselves primarily through land sales creates a structural incentive to oversupply housing, inflating bubbles. _(2026-03-30)_
+- `INS-260330-808B` When Standard Oil was broken into 34 companies, investors nearly tripled Rockefeller's share value because each independent company was valued higher than its fraction of the whole — the classic conglomerate discount in reverse. _(2026-03-30)_
+- `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments. _(2026-03-30)_
+- `INS-260330-3B31` Ponzi schemes are mathematically unsustainable because they need exponential growth in new investors to pay promised returns. _(2026-03-30)_
+- `INS-260330-44C7` Investing $10,000 at age 22 at 10% yields $600K by retirement versus $232K starting at 32 — the 10-year head start nearly triples the outcome at the same return rate. _(2026-03-30)_
+- `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation. _(2026-03-30)_
+- `INS-260330-30AB` Dematerializing physical processes into digital ones creates 100-1,000,000x efficiency gains — the entire history of human progress compressed into a single paradigm shift. _(2026-03-30)_
+- `INS-260330-FC9F` The day the first NFT fraud indictment was announced, multiple abandoned NFT projects immediately resumed development — proving fraudsters explicitly calculate prosecution probability. _(2026-03-30)_
+- `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block. _(2026-03-30)_
+- `INS-260330-7EAA` Cash sitting idle in offshore accounts destroys value because it earns no return while shareholders' alternative investments would. _(2026-03-30)_
+- `INS-260330-D583` Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption. _(2026-03-30)_
+- `INS-260330-EFB8` The absence of legacy banking infrastructure in Africa enabled direct adoption of mobile payments, bypassing checks and credit cards entirely. _(2026-03-30)_
+- `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors. _(2026-03-30)_
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible. _(2026-03-30)_
+- `INS-260330-B6AD` When companies cannot repatriate cash cheaply, they issue domestic debt while sitting on foreign cash and pursue suboptimal foreign investments just to deploy trapped capital. _(2026-03-30)_
+- `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset. _(2026-03-30)_
+- `INS-260330-ED77` Apple borrows money in the US to pay American bills despite having $285B in offshore accounts it cannot access without triggering taxes. _(2026-03-30)_
+- `INS-260330-137A` Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage. _(2026-03-30)_
+- `INS-260330-B906` Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same. _(2026-03-30)_
+- `INS-260330-F6B5` About half of sun-like stars have gas giants in habitable zones, and if even 20% host Earth-like moons, habitable moons outnumber habitable planets. _(2026-03-30)_
+- `INS-260330-AF2A` Space elevators work in theory but require materials with strength-to-weight ratios beyond current capabilities. _(2026-03-30)_
+- `INS-260330-3DC8` Alcohol kills good gut bacteria while allowing bad bacteria to escape through a leaky gut wall, triggering liver inflammation that reaches the brain and paradoxically increases the desire to drink more. _(2026-03-30)_
+- `INS-260330-F374` Sleep researchers classify alcohol-induced sleep as 'pseudosleep' because it disrupts slow-wave, deep, and REM sleep phases that are essential for restoration. _(2026-03-30)_
+- `INS-260330-C89D` Chronic drinking increases synapses in habit circuits while reducing connections in prefrontal control circuits, creating lasting impulsivity outside drinking episodes. _(2026-03-30)_
+- `INS-260330-7B09` Without oxygen, cells fall back to fermentation producing only 2 ATP per glucose instead of 38, accepting massive inefficiency to maintain operation. _(2026-03-30)_
+- `INS-260330-419C` Replacing sugary drinks with artificially sweetened ones improves health markers in RCTs, and may even slightly outperform water for fat loss. _(2026-03-30)_
+- `INS-260330-9900` Calorie math is broken: fiber blocks ~20% of almond calories for the microbiome, protein's thermic effect wastes ~25% of steak energy, and fructose routes directly to fat synthesis. _(2026-03-30)_
+- `INS-260330-3082` Nearly 90% of ATP yield comes from the electron transport chain, making mitochondrial health far more important than glucose availability for energy production. _(2026-03-30)_
+- `INS-260330-5C36` Cellular respiration uses three sequential stages where each feeds the next, with the electron transport chain producing the vast majority of ATP. _(2026-03-30)_
+- `INS-260330-2726` Creatine fuels the phosphocreatine system in the brain — supporting executive function, rule-switching, and even partially offsetting cognitive decline from sleep deprivation. _(2026-03-30)_
+- `INS-260330-29CE` The circadian clock gene BMAL enhances protein synthesis pathways in muscle cells during morning hours, making early protein intake beneficial for hypertrophy. _(2026-03-30)_
+- `INS-260330-D7DF` Psychiatrists already use epilepsy medications (Depakote, Lamictal, benzodiazepines) in tens of millions of patients, making the ketogenic diet — an established epilepsy treatment — a logical extension rather than a radical idea. _(2026-03-30)_
+- `INS-260330-DA37` A 35,000-person UK Biobank study found neocortical thinning even at 1-2 drinks per day average consumption. _(2026-03-30)_
+- `INS-260330-45D9` Exercise helps maintain weight loss mainly by making your brain more responsive to fullness signals, not by burning significant calories. _(2026-03-30)_
+- `INS-260330-6377` Long-term time-restricted feeding increases fat-burning enzymes and decreases fat-storage protectors, shifting weight loss composition toward body fat. _(2026-03-30)_
+- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage. _(2026-03-30)_
+- `INS-260330-18EE` Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits. _(2026-03-30)_
+- `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise. _(2026-03-30)_
+- `INS-260330-F755` Fructose nitrates tight junction proteins in the intestinal lining, making the gut transiently permeable and allowing bacterial toxins into the bloodstream, driving systemic inflammation. _(2026-03-30)_
+- `INS-260330-E218` Fructose irreversibly inhibits three mitochondrial enzymes (AMP kinase, ACAD-L, CPT1), cumulatively degrading cellular energy production over years. _(2026-03-30)_
+- `INS-260330-1078` High-intensity exercise burns glycogen during activity but triggers elevated fat oxidation for up to 24 hours afterward, making post-exercise metabolism the bigger lever for fat loss. _(2026-03-30)_
+- `INS-260330-0FA7` The PADIRKO mouse (kidney-specific insulin receptor knockout) develops diabetic nephropathy with normal blood glucose — proving insulin itself, not glucose, drives metabolic organ damage. _(2026-03-30)_
+- `INS-260330-C9CA` A patient with schizoaffective disorder who failed 17 medications achieved remission of hallucinations and delusions on a ketogenic diet, losing 160 pounds and gaining independent living. _(2026-03-30)_
+- `INS-260330-C2C5` Dr. Palmer observed that psychiatric improvement tracked ketone levels: no ketosis meant no clinical benefit, with target thresholds of 0.8+ for depression and 1.5+ for psychotic disorders. _(2026-03-30)_
+- `INS-260330-C4D8` Metabolic flexibility means efficiently switching between carb and fat fuels on demand, not maximizing fat-burning capacity. _(2026-03-30)_
+- `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health. _(2026-03-30)_
+- `INS-260330-EBE9` Eating protein more frequently than every 3-4 hours provides no additional muscle protein synthesis benefit because the system has a built-in cooldown period. _(2026-03-30)_
+- `INS-260330-989E` Weight loss plateaus are primarily driven by unconscious NEAT reduction, not the metabolic slowdown people typically blame. _(2026-03-30)_
+- `INS-260330-443B` Palmer hypothesizes that obesity is often the consequence of brain dysfunction rather than a metabolic problem that then impacts the brain, reversing the conventional causal arrow. _(2026-03-30)_
+- `INS-260330-4D8B` Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper. _(2026-03-30)_
+- `INS-260330-242E` Teflon cookware is largely safe since the polymer is too large to enter the bloodstream, but contaminated drinking water and PFAS-treated food packaging (especially microwave popcorn bags) are primary exposure vectors. _(2026-03-30)_
+- `INS-260330-2ADC` Light walking after meals accelerates gastric emptying and glucose clearance, shortening the time before your body enters a true fasted state. _(2026-03-30)_
+- `INS-260330-0233` Chronic moderate alcohol intake disrupts the hypothalamic-pituitary-adrenal axis, causing higher baseline cortisol and increased anxiety during sober periods. _(2026-03-30)_
+- `INS-260330-A92A` Seed oils have contributed to obesity by adding calories to diets, but RCTs show no independent harmful effect when substituted 1:1 for other fats. _(2026-03-30)_
+- `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products. _(2026-03-30)_
+- `INS-260330-121C` Sugar-laden foods show addiction-like price inelasticity (0.77-0.81) — when prices rise, consumption barely drops, matching the 'hedonic actor' model where cost becomes irrelevant to the fix. _(2026-03-30)_
+- `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem. _(2026-03-30)_
+- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI. _(2026-03-30)_
+- `INS-260330-31CC` Drink half your body weight in ounces daily, replace 125-150% of exercise sweat losses, and count coffee/tea toward your total — caffeine at normal doses is not a meaningful diuretic. _(2026-03-30)_
+- `INS-260330-96FE` 170 million Americans were exposed to high childhood lead levels, causing an estimated aggregate loss of 824 million IQ points, with lead stored in bones continuing to poison the body for years after exposure. _(2026-03-30)_
+- `INS-260330-E414` Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline. _(2026-03-30)_
+- `INS-260330-7DCF` Filling a scene with randomly positioned objects via a simple loop creates richer environments than manual placement. _(2026-03-30)_
+- `INS-260330-4B29` NASA chose aerogel for Mars rovers because passive thermal insulation requires zero maintenance, unlike active heating systems that would fail in unmaintainable environments. _(2026-03-30)_
+- `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely. _(2026-03-30)_
 - `INS-260330-8286` Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment. _(2026-03-30)_
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself. _(2026-03-30)_
 - `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments. _(2026-03-30)_
@@ -1260,57 +1320,6 @@ _No flags._
 - `INS-260330-5A9E` Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief). _(2026-03-30)_
 - `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space. _(2026-03-30)_
 - `INS-260330-A8F8` Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself. _(2026-03-30)_
-- `INS-260330-FDA9` Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. _(2026-03-30)_
-- `INS-260330-8646` Dr. Johnson frames all psychiatric disorders as variations of narrowed mental repertoire, unifying depression, anxiety, OCD, and addiction under one mechanistic umbrella. _(2026-03-30)_
-- `INS-260330-415C` Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. _(2026-03-30)_
-- `INS-260330-CF99` Johnson frames all psychiatric disorders as narrowed reality tunnels — addiction to substances, thoughts, or self-narratives — that psychedelics can blast open. _(2026-03-30)_
-- `INS-260330-4D81` The feeling of being located behind your eyes looking outward is a cognitive habit, not a structural feature of consciousness. _(2026-03-30)_
-- `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences. _(2026-03-30)_
-- `INS-260330-9743` The consciousness aware of sadness is not itself sad — awareness functions like an unblemished mirror. _(2026-03-30)_
-- `INS-260330-4B22` Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth. _(2026-03-30)_
-- `INS-260330-2E54` Hoffman inverts the hard problem of consciousness: instead of explaining how matter creates experience, he asks how conscious agents create the data structure we call spacetime. _(2026-03-30)_
-- `INS-260330-BE4D` Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed. _(2026-03-30)_
-- `INS-260330-EEAE` Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation. _(2026-03-30)_
-- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high. _(2026-03-30)_
-- `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it. _(2026-03-30)_
-- `INS-260330-5828` External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative. _(2026-03-30)_
-- `INS-260330-F37B` True freedom means freedom from the mind's patterns, not from material or physical constraints. _(2026-03-30)_
-- `INS-260330-A47D` Freud's key insight was that unconscious processes, while hidden, are accessible through structured techniques like free association and dream analysis. _(2026-03-30)_
-- `INS-260330-7C42` Clinical psilocybin therapy uses 30-40mg doses because partial dissolution creates anxiety without breakthrough, while full doses enable the mystical-type experiences correlated with lasting therapeutic benefit. _(2026-03-30)_
-- `INS-260330-5F9E` What you see with open eyes and what you think with closed eyes appear in the same experiential space. _(2026-03-30)_
-- `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states. _(2026-03-30)_
-- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities. _(2026-03-30)_
-- `INS-260330-EBF7` Meditation skills like dropping subject-object duality help navigate psychedelic peaks, though peak intensity renders all techniques temporarily inaccessible. _(2026-03-30)_
-- `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.' _(2026-03-30)_
-- `INS-260330-61C3` The Killingsworth & Gilbert study (Science, 2010) found that what you're thinking matters less for happiness than whether your thoughts match your current activity. _(2026-03-30)_
-- `INS-260330-E107` People who think meditation requires political passivity have confused an anodyne communication style with the actual goal of contemplative practice. _(2026-03-30)_
-- `INS-260330-544F` Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes. _(2026-03-30)_
-- `INS-260330-887A` Hopkins data shows that patients who rate their psilocybin session as a mystical-type experience show the strongest and most durable therapeutic improvements, regardless of diagnosis. _(2026-03-30)_
-- `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color. _(2026-03-30)_
-- `INS-260330-7E61` Since humans inevitably make mistakes, the core moral imperative is preserving mechanisms that allow errors to be detected and corrected — destroying these mechanisms is the deepest immorality. _(2026-03-30)_
-- `INS-260330-BCC7` Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped. _(2026-03-30)_
-- `INS-260330-3888` Multi-week solo expeditions in the Amazon taught Rosolie that even the most independent people have been surrounded by others every day of their lives, and that true isolation fundamentally recalibrates appreciation for human connection. _(2026-03-30)_
-- `INS-260330-24DD` The same psychedelic experience would be interpreted as proof of the Holy Spirit by a Christian, but the experience itself is pre-doctrinal and carries no inherent theological content. _(2026-03-30)_
-- `INS-260330-8304` Psychedelic breakthroughs are 'duh moments' — people finally feel truths they already knew intellectually but hadn't integrated emotionally. _(2026-03-30)_
-- `INS-260330-C366` Psychedelic therapy's one-session-lasting-change model breaks the pharmacological assumption that psychiatric treatment requires continuous chemical intervention. _(2026-03-30)_
-- `INS-260330-1384` Psychedelics stand alone as a drug class where single-dose experiences routinely produce permanent life changes. _(2026-03-30)_
-- `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control. _(2026-03-30)_
-- `INS-260330-53F7` Set (mindset, preparation, trust in guides) and setting (physical environment, music, safety) are the primary variables determining whether a psychedelic experience produces healing or harm. _(2026-03-30)_
-- `INS-260330-203F` Johnson argues set and setting are not soft variables but pharmacologically active factors that determine whether the same psilocybin dose produces healing or harm. _(2026-03-30)_
-- `INS-260330-43C9` Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences. _(2026-03-30)_
-- `INS-260330-363D` Feeling like the thinker of your thoughts is simply the experience of thinking without noticing thought as it arises. _(2026-03-30)_
-- `INS-260330-3672` High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors. _(2026-03-30)_
-- `INS-260330-F399` The boundary between inner experience and outer world is not found in actual experience — both appear in the same undifferentiated space of consciousness. _(2026-03-30)_
-- `INS-260330-CFAD` Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine. _(2026-03-30)_
-- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition. _(2026-03-30)_
-- `INS-260330-DE69` The feeling of authoring your thoughts is actually the absence of noticing their spontaneous arising. _(2026-03-30)_
-- `INS-260330-AEE3` The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns. _(2026-03-30)_
-- `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution. _(2026-03-30)_
-- `INS-260330-6CA5` The feeling of being the thinker is not evidence of a thinker — it's the phenomenological signature of thinking without noticing you're thinking. _(2026-03-30)_
-- `INS-260330-B869` Awareness is the one constant that never changes while everything observed within it fluctuates, making it a uniquely stable psychological anchor. _(2026-03-30)_
-- `INS-260330-6D5C` The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete. _(2026-03-30)_
-- `INS-260330-3748` The profound intimacy and vulnerability of psychedelic therapy demands stricter clinical boundaries, not looser ones — including resisting the guru complex of filling in meaning for patients. _(2026-03-30)_
-- `INS-260330-1B74` Thoughts arise unbidden, last fractions of a second, and vanish completely — yet we build our entire sense of self on this flickering stream. _(2026-03-30)_
 - `INS-260330-EA56` By excluding assets from CPI, governments hide the true inflation that transfers wealth from currency-holders (working class) to property-holders (wealthy class). _(2026-03-30)_
 - `INS-260330-A2D4` China can destroy North Korea economically or militarily but cannot meaningfully steer it because using blunt tools would destabilize the buffer it needs. _(2026-03-30)_
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks. _(2026-03-30)_
@@ -1370,43 +1379,6 @@ _No flags._
 - `INS-260330-38C9` Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge. _(2026-03-30)_
 - `INS-260330-3994` Sri Lanka's tourism (22% of GDP) dropped 70% after a 2019 bombing and then to zero during COVID — revealing tourism-heavy economies as fragile single points of failure. _(2026-03-30)_
 - `INS-260330-01D5` Government dependence on land revenue creates existential incentives to suppress price discovery, allowing vacancy rates to climb far beyond what free markets would tolerate. _(2026-03-30)_
-- `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification. _(2026-03-30)_
-- `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried. _(2026-03-30)_
-- `INS-260330-E881` Expert hackers are a tiny minority, but their tool choices cascade to the majority through influence, authority, and the software they create. _(2026-03-30)_
-- `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance. _(2026-03-30)_
-- `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing. _(2026-03-30)_
-- `INS-260330-2666` Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency. _(2026-03-30)_
-- `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives. _(2026-03-30)_
-- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result. _(2026-03-30)_
-- `INS-260330-08E1` Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight. _(2026-03-30)_
-- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence. _(2026-03-30)_
-- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts. _(2026-03-30)_
-- `INS-260330-D0B4` Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses. _(2026-03-30)_
-- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait. _(2026-03-30)_
-- `INS-260330-D304` RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments. _(2026-03-30)_
-- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate. _(2026-03-30)_
-- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined. _(2026-03-30)_
-- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target. _(2026-03-30)_
-- `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity. _(2026-03-30)_
-- `INS-260330-6689` Each individual integration step in the Greater Bay Area plan has a reasonable economic justification, making organized resistance to the cumulative erosion of autonomy far more difficult than opposing a single dramatic change. _(2026-03-30)_
-- `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice. _(2026-03-30)_
-- `INS-260330-ED37` Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism. _(2026-03-30)_
-- `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences. _(2026-03-30)_
-- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices. _(2026-03-30)_
-- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't. _(2026-03-30)_
-- `INS-260330-E403` New information or advice only expands your decision space if it's linearly independent from what you already know. _(2026-03-30)_
-- `INS-260330-FD28` Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes. _(2026-03-30)_
-- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals. _(2026-03-30)_
-- `INS-260330-74AC` China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed. _(2026-03-30)_
-- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational. _(2026-03-30)_
-- `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments. _(2026-03-30)_
-- `INS-260330-92BB` Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making. _(2026-03-30)_
-- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation. _(2026-03-30)_
-- `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once. _(2026-03-30)_
-- `INS-260330-8849` Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense. _(2026-03-30)_
-- `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw. _(2026-03-30)_
-- `INS-260330-3899` People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error. _(2026-03-30)_
-- `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity. _(2026-03-30)_
 - `INS-260330-FC6E` Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. _(2026-03-30)_
 - `INS-260330-FBE1` Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses. _(2026-03-30)_
 - `INS-260330-3260` Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation. _(2026-03-30)_
@@ -1548,45 +1520,94 @@ _No flags._
 - `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story. _(2026-03-30)_
 - `INS-260330-EBF6` A $300K Lamborghini feels like $30 to someone earning $400M/year because price sensitivity scales with the ratio, not the absolute number. _(2026-03-30)_
 - `INS-260330-6620` Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort. _(2026-03-30)_
-- `INS-260330-3DC8` Alcohol kills good gut bacteria while allowing bad bacteria to escape through a leaky gut wall, triggering liver inflammation that reaches the brain and paradoxically increases the desire to drink more. _(2026-03-30)_
-- `INS-260330-F374` Sleep researchers classify alcohol-induced sleep as 'pseudosleep' because it disrupts slow-wave, deep, and REM sleep phases that are essential for restoration. _(2026-03-30)_
-- `INS-260330-C89D` Chronic drinking increases synapses in habit circuits while reducing connections in prefrontal control circuits, creating lasting impulsivity outside drinking episodes. _(2026-03-30)_
-- `INS-260330-7B09` Without oxygen, cells fall back to fermentation producing only 2 ATP per glucose instead of 38, accepting massive inefficiency to maintain operation. _(2026-03-30)_
-- `INS-260330-419C` Replacing sugary drinks with artificially sweetened ones improves health markers in RCTs, and may even slightly outperform water for fat loss. _(2026-03-30)_
-- `INS-260330-9900` Calorie math is broken: fiber blocks ~20% of almond calories for the microbiome, protein's thermic effect wastes ~25% of steak energy, and fructose routes directly to fat synthesis. _(2026-03-30)_
-- `INS-260330-3082` Nearly 90% of ATP yield comes from the electron transport chain, making mitochondrial health far more important than glucose availability for energy production. _(2026-03-30)_
-- `INS-260330-5C36` Cellular respiration uses three sequential stages where each feeds the next, with the electron transport chain producing the vast majority of ATP. _(2026-03-30)_
-- `INS-260330-2726` Creatine fuels the phosphocreatine system in the brain — supporting executive function, rule-switching, and even partially offsetting cognitive decline from sleep deprivation. _(2026-03-30)_
-- `INS-260330-29CE` The circadian clock gene BMAL enhances protein synthesis pathways in muscle cells during morning hours, making early protein intake beneficial for hypertrophy. _(2026-03-30)_
-- `INS-260330-D7DF` Psychiatrists already use epilepsy medications (Depakote, Lamictal, benzodiazepines) in tens of millions of patients, making the ketogenic diet — an established epilepsy treatment — a logical extension rather than a radical idea. _(2026-03-30)_
-- `INS-260330-DA37` A 35,000-person UK Biobank study found neocortical thinning even at 1-2 drinks per day average consumption. _(2026-03-30)_
-- `INS-260330-45D9` Exercise helps maintain weight loss mainly by making your brain more responsive to fullness signals, not by burning significant calories. _(2026-03-30)_
-- `INS-260330-6377` Long-term time-restricted feeding increases fat-burning enzymes and decreases fat-storage protectors, shifting weight loss composition toward body fat. _(2026-03-30)_
-- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage. _(2026-03-30)_
-- `INS-260330-18EE` Weekend feeding window drift effectively jet-lags your metabolic system, offsetting weekday fasting benefits. _(2026-03-30)_
-- `INS-260330-9C40` Subtle fidgety movements trigger local epinephrine release from neurons innervating fat, burning 800-2500 additional calories daily without formal exercise. _(2026-03-30)_
-- `INS-260330-F755` Fructose nitrates tight junction proteins in the intestinal lining, making the gut transiently permeable and allowing bacterial toxins into the bloodstream, driving systemic inflammation. _(2026-03-30)_
-- `INS-260330-E218` Fructose irreversibly inhibits three mitochondrial enzymes (AMP kinase, ACAD-L, CPT1), cumulatively degrading cellular energy production over years. _(2026-03-30)_
-- `INS-260330-1078` High-intensity exercise burns glycogen during activity but triggers elevated fat oxidation for up to 24 hours afterward, making post-exercise metabolism the bigger lever for fat loss. _(2026-03-30)_
-- `INS-260330-0FA7` The PADIRKO mouse (kidney-specific insulin receptor knockout) develops diabetic nephropathy with normal blood glucose — proving insulin itself, not glucose, drives metabolic organ damage. _(2026-03-30)_
-- `INS-260330-C9CA` A patient with schizoaffective disorder who failed 17 medications achieved remission of hallucinations and delusions on a ketogenic diet, losing 160 pounds and gaining independent living. _(2026-03-30)_
-- `INS-260330-C2C5` Dr. Palmer observed that psychiatric improvement tracked ketone levels: no ketosis meant no clinical benefit, with target thresholds of 0.8+ for depression and 1.5+ for psychotic disorders. _(2026-03-30)_
-- `INS-260330-C4D8` Metabolic flexibility means efficiently switching between carb and fat fuels on demand, not maximizing fat-burning capacity. _(2026-03-30)_
-- `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health. _(2026-03-30)_
-- `INS-260330-EBE9` Eating protein more frequently than every 3-4 hours provides no additional muscle protein synthesis benefit because the system has a built-in cooldown period. _(2026-03-30)_
-- `INS-260330-989E` Weight loss plateaus are primarily driven by unconscious NEAT reduction, not the metabolic slowdown people typically blame. _(2026-03-30)_
-- `INS-260330-443B` Palmer hypothesizes that obesity is often the consequence of brain dysfunction rather than a metabolic problem that then impacts the brain, reversing the conventional causal arrow. _(2026-03-30)_
-- `INS-260330-4D8B` Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper. _(2026-03-30)_
-- `INS-260330-242E` Teflon cookware is largely safe since the polymer is too large to enter the bloodstream, but contaminated drinking water and PFAS-treated food packaging (especially microwave popcorn bags) are primary exposure vectors. _(2026-03-30)_
-- `INS-260330-2ADC` Light walking after meals accelerates gastric emptying and glucose clearance, shortening the time before your body enters a true fasted state. _(2026-03-30)_
-- `INS-260330-0233` Chronic moderate alcohol intake disrupts the hypothalamic-pituitary-adrenal axis, causing higher baseline cortisol and increased anxiety during sober periods. _(2026-03-30)_
-- `INS-260330-A92A` Seed oils have contributed to obesity by adding calories to diets, but RCTs show no independent harmful effect when substituted 1:1 for other fats. _(2026-03-30)_
-- `INS-260330-B76F` Blended supplements hide three critical problems: you can't identify which ingredient causes side effects, manufacturers under-dose expensive ingredients, and label accuracy drops dramatically in multi-ingredient products. _(2026-03-30)_
-- `INS-260330-121C` Sugar-laden foods show addiction-like price inelasticity (0.77-0.81) — when prices rise, consumption barely drops, matching the 'hedonic actor' model where cost becomes irrelevant to the fix. _(2026-03-30)_
-- `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem. _(2026-03-30)_
-- `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI. _(2026-03-30)_
-- `INS-260330-31CC` Drink half your body weight in ounces daily, replace 125-150% of exercise sweat losses, and count coffee/tea toward your total — caffeine at normal doses is not a meaningful diuretic. _(2026-03-30)_
-- `INS-260330-96FE` 170 million Americans were exposed to high childhood lead levels, causing an estimated aggregate loss of 824 million IQ points, with lead stored in bones continuing to poison the body for years after exposure. _(2026-03-30)_
+- `INS-260330-FDA9` Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. _(2026-03-30)_
+- `INS-260330-8646` Dr. Johnson frames all psychiatric disorders as variations of narrowed mental repertoire, unifying depression, anxiety, OCD, and addiction under one mechanistic umbrella. _(2026-03-30)_
+- `INS-260330-415C` Johnson's framework reframes psychiatric disorders as varieties of stuck-ness — narrowed loops of thought and behavior — that psychedelics disrupt by forcing the brain into novel configurations. _(2026-03-30)_
+- `INS-260330-CF99` Johnson frames all psychiatric disorders as narrowed reality tunnels — addiction to substances, thoughts, or self-narratives — that psychedelics can blast open. _(2026-03-30)_
+- `INS-260330-4D81` The feeling of being located behind your eyes looking outward is a cognitive habit, not a structural feature of consciousness. _(2026-03-30)_
+- `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences. _(2026-03-30)_
+- `INS-260330-9743` The consciousness aware of sadness is not itself sad — awareness functions like an unblemished mirror. _(2026-03-30)_
+- `INS-260330-4B22` Boredom sits on the same emotional spoke as disgust and loathing, driving organisms toward complexity and neural growth. _(2026-03-30)_
+- `INS-260330-2E54` Hoffman inverts the hard problem of consciousness: instead of explaining how matter creates experience, he asks how conscious agents create the data structure we call spacetime. _(2026-03-30)_
+- `INS-260330-BE4D` Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed. _(2026-03-30)_
+- `INS-260330-EEAE` Lane argues that single cells already act as coherent units using electrical membrane fields as real-time environmental feedback — and that consciousness is an elaboration of this ancient sensing mechanism, not a phase transition from computation. _(2026-03-30)_
+- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high. _(2026-03-30)_
+- `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it. _(2026-03-30)_
+- `INS-260330-5828` External sources of transcendence (substances, outrage, consumption) create escalating tolerance, while internally generated sublime experiences are permanently transformative. _(2026-03-30)_
+- `INS-260330-F37B` True freedom means freedom from the mind's patterns, not from material or physical constraints. _(2026-03-30)_
+- `INS-260330-A47D` Freud's key insight was that unconscious processes, while hidden, are accessible through structured techniques like free association and dream analysis. _(2026-03-30)_
+- `INS-260330-7C42` Clinical psilocybin therapy uses 30-40mg doses because partial dissolution creates anxiety without breakthrough, while full doses enable the mystical-type experiences correlated with lasting therapeutic benefit. _(2026-03-30)_
+- `INS-260330-5F9E` What you see with open eyes and what you think with closed eyes appear in the same experiential space. _(2026-03-30)_
+- `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states. _(2026-03-30)_
+- `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities. _(2026-03-30)_
+- `INS-260330-EBF7` Meditation skills like dropping subject-object duality help navigate psychedelic peaks, though peak intensity renders all techniques temporarily inaccessible. _(2026-03-30)_
+- `INS-260330-12DC` Some false beliefs reliably produce better outcomes than acting on the known truth, creating a legitimate category of 'metaphorical truth.' _(2026-03-30)_
+- `INS-260330-61C3` The Killingsworth & Gilbert study (Science, 2010) found that what you're thinking matters less for happiness than whether your thoughts match your current activity. _(2026-03-30)_
+- `INS-260330-E107` People who think meditation requires political passivity have confused an anodyne communication style with the actual goal of contemplative practice. _(2026-03-30)_
+- `INS-260330-544F` Abundant access to pleasure sources turns direct pursuit of pleasure into an addiction trap that replaces genuine relationships and activities with artificial substitutes. _(2026-03-30)_
+- `INS-260330-887A` Hopkins data shows that patients who rate their psilocybin session as a mystical-type experience show the strongest and most durable therapeutic improvements, regardless of diagnosis. _(2026-03-30)_
+- `INS-260330-AB38` What we see is heavily filtered by conceptual overlays — relaxing these filters reveals experience as an undifferentiated field of light and color. _(2026-03-30)_
+- `INS-260330-7E61` Since humans inevitably make mistakes, the core moral imperative is preserving mechanisms that allow errors to be detected and corrected — destroying these mechanisms is the deepest immorality. _(2026-03-30)_
+- `INS-260330-BCC7` Harris's meditation technique works by progressively removing objects of attention rather than adding new ones, revealing what remains when everything constructed is dropped. _(2026-03-30)_
+- `INS-260330-3888` Multi-week solo expeditions in the Amazon taught Rosolie that even the most independent people have been surrounded by others every day of their lives, and that true isolation fundamentally recalibrates appreciation for human connection. _(2026-03-30)_
+- `INS-260330-24DD` The same psychedelic experience would be interpreted as proof of the Holy Spirit by a Christian, but the experience itself is pre-doctrinal and carries no inherent theological content. _(2026-03-30)_
+- `INS-260330-8304` Psychedelic breakthroughs are 'duh moments' — people finally feel truths they already knew intellectually but hadn't integrated emotionally. _(2026-03-30)_
+- `INS-260330-C366` Psychedelic therapy's one-session-lasting-change model breaks the pharmacological assumption that psychiatric treatment requires continuous chemical intervention. _(2026-03-30)_
+- `INS-260330-1384` Psychedelics stand alone as a drug class where single-dose experiences routinely produce permanent life changes. _(2026-03-30)_
+- `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control. _(2026-03-30)_
+- `INS-260330-53F7` Set (mindset, preparation, trust in guides) and setting (physical environment, music, safety) are the primary variables determining whether a psychedelic experience produces healing or harm. _(2026-03-30)_
+- `INS-260330-203F` Johnson argues set and setting are not soft variables but pharmacologically active factors that determine whether the same psilocybin dose produces healing or harm. _(2026-03-30)_
+- `INS-260330-43C9` Psychedelic outcomes are uniquely shaped by environmental context — warm, prepared settings produce more meaningful experiences. _(2026-03-30)_
+- `INS-260330-363D` Feeling like the thinker of your thoughts is simply the experience of thinking without noticing thought as it arises. _(2026-03-30)_
+- `INS-260330-3672` High-dose psilocybin sessions at Johns Hopkins are safe not because the drug is inherently safe, but because the clinical protocol eliminates nearly all environmental risk vectors. _(2026-03-30)_
+- `INS-260330-F399` The boundary between inner experience and outer world is not found in actual experience — both appear in the same undifferentiated space of consciousness. _(2026-03-30)_
+- `INS-260330-CFAD` Your brain's current bias toward internal or external awareness should determine which meditation you practice in that moment, not a one-size-fits-all routine. _(2026-03-30)_
+- `INS-260330-DBB3` The evolution from literal sacrifice to metaphorical sacrifice maps the transition from behavioral enactment to abstract conceptual thought in human cognition. _(2026-03-30)_
+- `INS-260330-DE69` The feeling of authoring your thoughts is actually the absence of noticing their spontaneous arising. _(2026-03-30)_
+- `INS-260330-AEE3` The sense of self dissolves under direct investigation because it was never a stable entity — just unexamined thought patterns. _(2026-03-30)_
+- `INS-260330-B15C` Instead of seeking solutions to problems like anxiety, examine where the problem comes from — that examination IS the resolution. _(2026-03-30)_
+- `INS-260330-6CA5` The feeling of being the thinker is not evidence of a thinker — it's the phenomenological signature of thinking without noticing you're thinking. _(2026-03-30)_
+- `INS-260330-B869` Awareness is the one constant that never changes while everything observed within it fluctuates, making it a uniquely stable psychological anchor. _(2026-03-30)_
+- `INS-260330-6D5C` The unconscious mind is a biological supercomputer running 95% of brain operations, and ignoring it makes conscious self-improvement efforts structurally incomplete. _(2026-03-30)_
+- `INS-260330-3748` The profound intimacy and vulnerability of psychedelic therapy demands stricter clinical boundaries, not looser ones — including resisting the guru complex of filling in meaning for patients. _(2026-03-30)_
+- `INS-260330-1B74` Thoughts arise unbidden, last fractions of a second, and vanish completely — yet we build our entire sense of self on this flickering stream. _(2026-03-30)_
+- `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification. _(2026-03-30)_
+- `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried. _(2026-03-30)_
+- `INS-260330-E881` Expert hackers are a tiny minority, but their tool choices cascade to the majority through influence, authority, and the software they create. _(2026-03-30)_
+- `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance. _(2026-03-30)_
+- `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing. _(2026-03-30)_
+- `INS-260330-2666` Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency. _(2026-03-30)_
+- `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives. _(2026-03-30)_
+- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result. _(2026-03-30)_
+- `INS-260330-08E1` Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight. _(2026-03-30)_
+- `INS-260330-4BFD` When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence. _(2026-03-30)_
+- `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts. _(2026-03-30)_
+- `INS-260330-D0B4` Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses. _(2026-03-30)_
+- `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait. _(2026-03-30)_
+- `INS-260330-D304` RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments. _(2026-03-30)_
+- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate. _(2026-03-30)_
+- `INS-260330-AA4F` Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined. _(2026-03-30)_
+- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target. _(2026-03-30)_
+- `INS-260330-8FC5` Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity. _(2026-03-30)_
+- `INS-260330-6689` Each individual integration step in the Greater Bay Area plan has a reasonable economic justification, making organized resistance to the cumulative erosion of autonomy far more difficult than opposing a single dramatic change. _(2026-03-30)_
+- `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice. _(2026-03-30)_
+- `INS-260330-ED37` Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism. _(2026-03-30)_
+- `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences. _(2026-03-30)_
+- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices. _(2026-03-30)_
+- `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't. _(2026-03-30)_
+- `INS-260330-E403` New information or advice only expands your decision space if it's linearly independent from what you already know. _(2026-03-30)_
+- `INS-260330-FD28` Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes. _(2026-03-30)_
+- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals. _(2026-03-30)_
+- `INS-260330-74AC` China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed. _(2026-03-30)_
+- `INS-260330-B444` Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational. _(2026-03-30)_
+- `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments. _(2026-03-30)_
+- `INS-260330-92BB` Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making. _(2026-03-30)_
+- `INS-260330-BB0C` Intense romantic love activates ancient brain drive systems while shutting down newer cognitive regions for planning and evaluation. _(2026-03-30)_
+- `INS-260330-7987` In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once. _(2026-03-30)_
+- `INS-260330-8849` Cultural norms tying property ownership to marriage eligibility create demand that persists regardless of whether the purchase makes financial sense. _(2026-03-30)_
+- `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw. _(2026-03-30)_
+- `INS-260330-3899` People who repeatedly state their intentions usually mean it — treating explicit promises as bluffs is a common forecasting error. _(2026-03-30)_
+- `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity. _(2026-03-30)_
 - `INS-260330-B1A3` Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. _(2026-03-30)_
 - `INS-260330-BA71` Champion-level performance correlates with intensity of drive rather than any particular personality archetype. _(2026-03-30)_
 - `INS-260330-B67C` Marx argued that classes become self-aware not through shared traits but through the struggle itself — conflict creates identity, not the other way around. _(2026-03-30)_
@@ -1600,6 +1621,24 @@ _No flags._
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout. _(2026-03-30)_
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller. _(2026-03-30)_
 - `INS-260330-669C` Ponzi's family decline from wealthy merchants to working class created a status-obsessed identity that made him reject honest work and pursue increasingly risky schemes. _(2026-03-30)_
+- `INS-260330-1B64` Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session. _(2026-03-30)_
+- `INS-260330-EDDD` ADHD hyper-focus on enjoyable tasks proves the focus circuitry works—the deficit is specifically in the dopamine system that should enable focus on non-preferred tasks. _(2026-03-30)_
+- `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset. _(2026-03-30)_
+- `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do. _(2026-03-30)_
+- `INS-260330-A3AF` Confidence problems are usually domain-specific, meaning the person already has the psychological machinery — they just need to extend it to the problem area. _(2026-03-30)_
+- `INS-260330-4E50` In ADHD, the default mode network and task-directed networks fire together instead of alternating, and dopamine acts as the conductor that should keep them anti-correlated. _(2026-03-30)_
+- `INS-260330-E823` Blinks function as scene breaks that reset time perception, and dopamine controls blink rate—explaining why ADHD (low dopamine) causes both poor time management and poor focus. _(2026-03-30)_
+- `INS-260330-0C31` Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns. _(2026-03-30)_
+- `INS-260330-7AE9` Expert meditators don't hold perfect focus — they recover from distraction faster, making each mind-wandering episode a training rep rather than a failure. _(2026-03-30)_
+- `INS-260330-487E` Purpose acts as an internal radar that cuts through distractions and decision paralysis by giving all choices a directional filter. _(2026-03-30)_
+- `INS-260330-0149` Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation. _(2026-03-30)_
+- `INS-260330-95A5` Choose the meditation type (internal vs. external focus) that opposes your current default state to maximize brain circuit change. _(2026-03-30)_
+- `INS-260330-F41D` Physical fidgeting like bouncing a knee or pulling a rubber band channels premotor neural activity away from disrupting focus, rather than 'releasing energy' as commonly believed. _(2026-03-30)_
+- `INS-260330-A1D2` Leslie Perlow's experiment showed engineers who protected mornings from all interruptions on specific days achieved 65% above-average productivity. _(2026-03-30)_
+- `INS-260330-4285` Goggins manages ADHD through absolute compartmentalization — each activity gets total focus with zero mental bleed between domains. _(2026-03-30)_
+- `INS-260330-909E` Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions. _(2026-03-30)_
+- `INS-260330-D61A` Doing your most exciting task first makes boring subsequent tasks feel worse and tanks performance on them — start with moderately interesting work instead. _(2026-03-30)_
+- `INS-260330-BA3A` Measuring personal growth creates an identity around being-the-person-who-is-growing, which is just another mental trap. _(2026-03-30)_
 - `INS-260330-2EB0` The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. _(2026-03-30)_
 - `INS-260330-3528` English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power. _(2026-03-30)_
 - `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal. _(2026-03-30)_
@@ -1621,24 +1660,6 @@ _No flags._
 - `INS-260330-6D2E` Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct. _(2026-03-30)_
 - `INS-260330-FB9C` Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement. _(2026-03-30)_
 - `INS-260330-6300` Taboo words often become taboo through class-based avoidance — higher-status groups abandon terms associated with lower-status groups, creating a euphemism treadmill. _(2026-03-30)_
-- `INS-260330-1B64` Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session. _(2026-03-30)_
-- `INS-260330-EDDD` ADHD hyper-focus on enjoyable tasks proves the focus circuitry works—the deficit is specifically in the dopamine system that should enable focus on non-preferred tasks. _(2026-03-30)_
-- `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset. _(2026-03-30)_
-- `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do. _(2026-03-30)_
-- `INS-260330-A3AF` Confidence problems are usually domain-specific, meaning the person already has the psychological machinery — they just need to extend it to the problem area. _(2026-03-30)_
-- `INS-260330-4E50` In ADHD, the default mode network and task-directed networks fire together instead of alternating, and dopamine acts as the conductor that should keep them anti-correlated. _(2026-03-30)_
-- `INS-260330-E823` Blinks function as scene breaks that reset time perception, and dopamine controls blink rate—explaining why ADHD (low dopamine) causes both poor time management and poor focus. _(2026-03-30)_
-- `INS-260330-0C31` Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns. _(2026-03-30)_
-- `INS-260330-7AE9` Expert meditators don't hold perfect focus — they recover from distraction faster, making each mind-wandering episode a training rep rather than a failure. _(2026-03-30)_
-- `INS-260330-487E` Purpose acts as an internal radar that cuts through distractions and decision paralysis by giving all choices a directional filter. _(2026-03-30)_
-- `INS-260330-0149` Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation. _(2026-03-30)_
-- `INS-260330-95A5` Choose the meditation type (internal vs. external focus) that opposes your current default state to maximize brain circuit change. _(2026-03-30)_
-- `INS-260330-F41D` Physical fidgeting like bouncing a knee or pulling a rubber band channels premotor neural activity away from disrupting focus, rather than 'releasing energy' as commonly believed. _(2026-03-30)_
-- `INS-260330-A1D2` Leslie Perlow's experiment showed engineers who protected mornings from all interruptions on specific days achieved 65% above-average productivity. _(2026-03-30)_
-- `INS-260330-4285` Goggins manages ADHD through absolute compartmentalization — each activity gets total focus with zero mental bleed between domains. _(2026-03-30)_
-- `INS-260330-909E` Rubin practices total immersion during work sessions followed by complete disengagement, never taking works-in-progress home, believing the subconscious continues processing between sessions. _(2026-03-30)_
-- `INS-260330-D61A` Doing your most exciting task first makes boring subsequent tasks feel worse and tanks performance on them — start with moderately interesting work instead. _(2026-03-30)_
-- `INS-260330-BA3A` Measuring personal growth creates an identity around being-the-person-who-is-growing, which is just another mental trap. _(2026-03-30)_
 - `INS-260330-750A` The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples. _(2026-03-30)_
 - `INS-260330-0F71` Confusion about advanced topics is usually a symptom of weak prerequisite understanding, not genuine complexity of the topic itself. _(2026-03-30)_
 - `INS-260330-27DD` AI tutoring's real power is meeting you at your exact level — eighth grade vocabulary with fifth grade math — so you're always at the edge of understanding, never lost or bored. _(2026-03-30)_
@@ -1853,6 +1874,16 @@ _No flags._
 - `INS-260330-E2F5` The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later. _(2026-03-30)_
 - `INS-260330-5DFF` In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure. _(2026-03-30)_
 - `INS-260330-A954` When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.' _(2026-03-30)_
+- `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. _(2026-03-30)_
+- `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability. _(2026-03-30)_
+- `INS-260330-A1AF` Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize. _(2026-03-30)_
+- `INS-260330-5BEB` The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions. _(2026-03-30)_
+- `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation. _(2026-03-30)_
+- `INS-260330-4E09` Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later. _(2026-03-30)_
+- `INS-260330-E3D3` Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman. _(2026-03-30)_
+- `INS-260330-80AF` Swear words across languages tend to be short with hard consonants because cultural selection favors words that can be deployed rapidly and with maximum percussive impact. _(2026-03-30)_
+- `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory. _(2026-03-30)_
+- `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction. _(2026-03-30)_
 - `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity. _(2026-03-30)_
 - `INS-260330-2C4D` People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia. _(2026-03-30)_
 - `INS-260330-12D5` Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage. _(2026-03-30)_
@@ -1915,16 +1946,6 @@ _No flags._
 - `INS-260330-D1A1` Seeing gas dynamics inside a suppressor at 110,000 fps gave both the engineer and the audience understanding that no schematic or explanation could match. _(2026-03-30)_
 - `INS-260330-1114` A shadow is not a thing that travels — it's a gap in light that changes shape, yet we perceive and speak of it as an entity with agency and motion. _(2026-03-30)_
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity. _(2026-03-30)_
-- `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. _(2026-03-30)_
-- `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability. _(2026-03-30)_
-- `INS-260330-A1AF` Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize. _(2026-03-30)_
-- `INS-260330-5BEB` The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions. _(2026-03-30)_
-- `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation. _(2026-03-30)_
-- `INS-260330-4E09` Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later. _(2026-03-30)_
-- `INS-260330-E3D3` Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman. _(2026-03-30)_
-- `INS-260330-80AF` Swear words across languages tend to be short with hard consonants because cultural selection favors words that can be deployed rapidly and with maximum percussive impact. _(2026-03-30)_
-- `INS-260330-59CE` Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory. _(2026-03-30)_
-- `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction. _(2026-03-30)_
 - `INS-260330-CDF8` Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. _(2026-03-30)_
 - `INS-260330-12F9` Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps. _(2026-03-30)_
 - `INS-260330-7B07` One bullet produces a Bernoulli-driven cavitation cloud from the barrel, a trailing column of burnt gunpowder gas, and a smooth vapor sheath from the bullet's shock wave. _(2026-03-30)_
@@ -2063,6 +2084,8 @@ _No flags._
 - `INS-260330-A075` Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward. _(2026-03-30)_
 - `INS-260330-9515` Willpower has bidirectional plasticity — it decays as fast as it builds, requiring daily renewal. _(2026-03-30)_
 - `INS-260330-85D9` The brain's willpower center grows only from doing unwanted tasks, not merely difficult ones you enjoy. _(2026-03-30)_
+- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed. _(2026-03-30)_
+- `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path. _(2026-03-30)_
 - `INS-260330-10CF` Phil Knight invented 'Blue Ribbon Sports' on the spot, claimed East Coast offices that didn't exist, and each bluff secured deals that funded the reality he'd described. _(2026-03-30)_
 - `INS-260330-C7C2` Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life. _(2026-03-30)_
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently. _(2026-03-30)_
@@ -2081,8 +2104,6 @@ _No flags._
 - `INS-260330-8639` A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper. _(2026-03-30)_
 - `INS-260330-1B47` Apple's control of both hardware and software creates measurably better security, privacy, and UX — meaning breakup proposals that ignore these benefits would harm the consumers they claim to protect. _(2026-03-30)_
 - `INS-260330-D824` WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization. _(2026-03-30)_
-- `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. _(2026-03-30)_
-- `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure. _(2026-03-30)_
 - `INS-260330-8DCE` Vet co-founders through 20+ hours of deep conversation including explicit divorce scenarios, not just friendship duration. _(2026-03-30)_
 - `INS-260330-0B55` Among the highest-valued YC companies, zero have significantly disproportionate founder equity splits. _(2026-03-30)_
 - `INS-260330-F4C0` Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment. _(2026-03-30)_
@@ -2096,6 +2117,15 @@ _No flags._
 - `INS-260330-1459` Not paying founders creates a wage-law violation that fired co-founders use as leverage to negotiate undeserved vesting acceleration. _(2026-03-30)_
 - `INS-260330-3B0A` Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve. _(2026-03-30)_
 - `INS-260330-E170` When founders don't pay themselves, a fired co-founder can use unpaid wage claims as leverage to negotiate vesting acceleration they wouldn't otherwise deserve. _(2026-03-30)_
+- `INS-260330-76DA` Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. _(2026-03-30)_
+- `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure. _(2026-03-30)_
+- `INS-260330-202A` Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. _(2026-03-30)_
+- `INS-260330-3257` Pin a Three.js canvas with fixed positioning behind CSS Grid content for clean 2D/3D hybrid layouts. _(2026-03-30)_
+- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate. _(2026-03-30)_
+- `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other. _(2026-03-30)_
+- `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand. _(2026-03-30)_
+- `INS-260330-72C2` Angular's enforced conventions (TypeScript required, module system, CLI generators) create consistency that matters more as team size grows, while React's flexibility becomes a liability at scale without strong internal conventions. _(2026-03-30)_
+- `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements. _(2026-03-30)_
 - `INS-260330-B885` Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. _(2026-03-30)_
 - `INS-260330-CDE1` Shapiro's practice of maintaining a public list of his own bad takes, combined with deliberately holding positions his audience dislikes, creates a structural defense against the audience capture that degrades most media platforms. _(2026-03-30)_
 - `INS-260330-F324` When your audience is built on tribal identity rather than expertise, changing your position is an extinction-level business event. _(2026-03-30)_
@@ -2105,13 +2135,15 @@ _No flags._
 - `INS-260330-8D27` Long-form conversation formats (2-5 hours) produce qualitatively different insights because duration itself relaxes subjects into revealing authentic complexity. _(2026-03-30)_
 - `INS-260330-DAAD` Three-hour podcast interviews can launder lies by substituting length and good vibes for actual fact-checking. _(2026-03-30)_
 - `INS-260330-7251` Netflix's shift to original content was forced by the existential threat of content owners pulling licenses to launch competing streaming services. _(2026-03-30)_
-- `INS-260330-202A` Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. _(2026-03-30)_
-- `INS-260330-3257` Pin a Three.js canvas with fixed positioning behind CSS Grid content for clean 2D/3D hybrid layouts. _(2026-03-30)_
-- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate. _(2026-03-30)_
-- `INS-260330-0A95` Download counts measure hiring safety while satisfaction surveys measure individual productivity — optimizing for one often sacrifices the other. _(2026-03-30)_
-- `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand. _(2026-03-30)_
-- `INS-260330-72C2` Angular's enforced conventions (TypeScript required, module system, CLI generators) create consistency that matters more as team size grows, while React's flexibility becomes a liability at scale without strong internal conventions. _(2026-03-30)_
-- `INS-260330-B771` Serverless platforms like Firebase eliminate the need for Docker, Kubernetes, Terraform, and manual server configuration — removing an entire skill domain from early-stage requirements. _(2026-03-30)_
+- `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck. _(2026-03-30)_
+- `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools. _(2026-03-30)_
+- `INS-260330-19F1` Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss. _(2026-03-30)_
+- `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects. _(2026-03-30)_
+- `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill. _(2026-03-30)_
+- `INS-260330-4EC0` RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme. _(2026-03-30)_
+- `INS-260330-BFA2` RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs. _(2026-03-30)_
+- `INS-260330-0017` The electron transport chain extracts energy through 4 sequential protein complexes rather than one reaction — a pattern that applies to any complex value-extraction pipeline. _(2026-03-30)_
+- `INS-260330-181B` Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes. _(2026-03-30)_
 - `INS-260330-DF31` 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. _(2026-03-30)_
 - `INS-260330-2064` A space elevator would reduce launch costs from $11,000/lb to ~$100/lb, giving the first deployer a 95% cost advantage and potential control over all space activities. _(2026-03-30)_
 - `INS-260330-0871` Facebook's $1B Instagram acquisition — mocked as absurd for an 18-month-old app with zero revenue — generated $24B/year by 2019 and eliminated its top competitor. _(2026-03-30)_
@@ -2258,15 +2290,11 @@ _No flags._
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal. _(2026-03-30)_
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability. _(2026-03-30)_
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share. _(2026-03-30)_
-- `INS-260330-72D0` Building height is capped by when base materials crush under their own weight, making material science the true bottleneck. _(2026-03-30)_
-- `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools. _(2026-03-30)_
-- `INS-260330-19F1` Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss. _(2026-03-30)_
-- `INS-260330-5747` Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects. _(2026-03-30)_
-- `INS-260330-2200` GitHub stars and green squares measure visibility and gaming, not engineering skill. _(2026-03-30)_
-- `INS-260330-4EC0` RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme. _(2026-03-30)_
-- `INS-260330-BFA2` RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs. _(2026-03-30)_
-- `INS-260330-0017` The electron transport chain extracts energy through 4 sequential protein complexes rather than one reaction — a pattern that applies to any complex value-extraction pipeline. _(2026-03-30)_
-- `INS-260330-181B` Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes. _(2026-03-30)_
+- `INS-260330-9BF5` Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. _(2026-03-30)_
+- `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars. _(2026-03-30)_
+- `INS-260330-9933` Brian Acton left $850M on the table to escape Facebook's monetization of WhatsApp, then funded Signal to rebuild what WhatsApp was supposed to be — illustrating that values misalignment in acquisitions always surfaces. _(2026-03-30)_
+- `INS-260330-206B` Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks. _(2026-03-30)_
+- `INS-260330-E39E` The 'can't not do it' test — where the idea beats itself out of your chest — is the only reliable predictor of founder endurance through a decade of startup pain. _(2026-03-30)_
 - `INS-260330-6EF1` The world's roundest object was made by starting 2mm oversized and grinding progressively finer — extreme quality comes from iterative refinement, not one-shot precision. _(2026-03-30)_
 - `INS-260330-C6A2` Submarines operate on broad mission intent with autonomous decision-making because communication would compromise stealth. _(2026-03-30)_
 - `INS-260330-CEAE` Plants produce 40 billion tons of RuBisCo to compensate for its ~50% failure rate rather than evolving a replacement. _(2026-03-30)_
@@ -2314,11 +2342,6 @@ _No flags._
 - `INS-260330-2952` Choosing Stripe over rolling your own payments saves months of development — a leverage multiplier that framework debates never achieve. _(2026-03-30)_
 - `INS-260330-D031` Stripe's radical transparency (BCCing everyone on all emails) broke Gmail and overwhelmed new hires, requiring new tooling and norms to sustain. _(2026-03-30)_
 - `INS-260330-DC22` Unscalable founder involvement is a moat that should be defended, not a phase to outgrow. _(2026-03-30)_
-- `INS-260330-9BF5` Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. _(2026-03-30)_
-- `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars. _(2026-03-30)_
-- `INS-260330-9933` Brian Acton left $850M on the table to escape Facebook's monetization of WhatsApp, then funded Signal to rebuild what WhatsApp was supposed to be — illustrating that values misalignment in acquisitions always surfaces. _(2026-03-30)_
-- `INS-260330-206B` Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks. _(2026-03-30)_
-- `INS-260330-E39E` The 'can't not do it' test — where the idea beats itself out of your chest — is the only reliable predictor of founder endurance through a decade of startup pain. _(2026-03-30)_
 - `INS-260330-4314` Maintain an explicit investment thesis and use confidence direction — not absolute level — to decide persistence vs. pivot. _(2026-03-30)_
 - `INS-260330-049B` Louis Vuitton spent 17 years as an apprentice boxmaker serving wealthy travelers before launching his own brand, giving him deep customer intuition. _(2026-03-30)_
 - `INS-260330-70BF` No entrepreneur fears AI taking their job because entrepreneurship requires self-directed agency and authentic desires that AI structurally lacks. _(2026-03-30)_
@@ -2401,6 +2424,24 @@ _No flags._
 - `INS-260330-3363` Evaluate any viral mechanism by decomposing it into payload times frequency times conversion rate. _(2026-03-30)_
 - `INS-260330-EBDC` Sean Parker's virality model (payload × frequency × conversion) reveals that Hotmail won via high frequency, PayPal via near-perfect conversion, and Facebook via pure word-of-mouth — not viral mechanics at all. _(2026-03-30)_
 - `INS-260330-0FB9` TikTok deliberately made it easy to share watermarked videos on Instagram, YouTube, and Snapchat, turning every repost into free advertising that eventually drove users to download TikTok. _(2026-03-30)_
+- `INS-260330-4341` The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. _(2026-03-30)_
+- `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential. _(2026-03-30)_
+- `INS-260330-2691` Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people. _(2026-03-30)_
+- `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover. _(2026-03-30)_
+- `INS-260330-E4D9` Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved. _(2026-03-30)_
+- `INS-260330-B8CC` FAANG worship creates a developer caste system that misallocates industry talent. _(2026-03-30)_
+- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications. _(2026-03-30)_
+- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people. _(2026-03-30)_
+- `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company. _(2026-03-30)_
+- `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume. _(2026-03-30)_
+- `INS-260330-D52B` Mass learn-to-code campaigns flood the junior market while senior scarcity persists, compressing entry wages without solving the actual talent shortage. _(2026-03-30)_
+- `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution. _(2026-03-30)_
+- `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores. _(2026-03-30)_
+- `INS-260330-BF00` The Roman shift from citizen-soldiers to mercenary armies created a workforce with zero loyalty to the institution, directly accelerating collapse. _(2026-03-30)_
+- `INS-260330-B384` Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries. _(2026-03-30)_
+- `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive. _(2026-03-30)_
+- `INS-260330-E126` Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive. _(2026-03-30)_
+- `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies. _(2026-03-30)_
 - `INS-260330-09FF` A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise. _(2026-03-30)_
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask). _(2026-03-30)_
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality). _(2026-03-30)_
@@ -2432,24 +2473,6 @@ _No flags._
 - `INS-260330-AF2B` A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round. _(2026-03-30)_
 - `INS-260330-7220` The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality. _(2026-03-30)_
 - `INS-260330-C4D4` While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits. _(2026-03-30)_
-- `INS-260330-4341` The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. _(2026-03-30)_
-- `INS-260330-1B37` Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential. _(2026-03-30)_
-- `INS-260330-2691` Mediocre early hires poison culture so severely that Altman recommends losing customers over hiring suboptimal people. _(2026-03-30)_
-- `INS-260330-7E58` In-N-Out pays managers $160K+ with full benefits, achieving 14-year average tenure in an industry with 150%+ annual turnover. _(2026-03-30)_
-- `INS-260330-E4D9` Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved. _(2026-03-30)_
-- `INS-260330-B8CC` FAANG worship creates a developer caste system that misallocates industry talent. _(2026-03-30)_
-- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications. _(2026-03-30)_
-- `INS-260330-965B` Each of your first 10 hires effectively recruits the next 10 people like themselves, so you're really choosing 100 people. _(2026-03-30)_
-- `INS-260330-63BA` Airbnb spent 5 months hiring their first engineer because that person's values would replicate across the entire company. _(2026-03-30)_
-- `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume. _(2026-03-30)_
-- `INS-260330-D52B` Mass learn-to-code campaigns flood the junior market while senior scarcity persists, compressing entry wages without solving the actual talent shortage. _(2026-03-30)_
-- `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution. _(2026-03-30)_
-- `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores. _(2026-03-30)_
-- `INS-260330-BF00` The Roman shift from citizen-soldiers to mercenary armies created a workforce with zero loyalty to the institution, directly accelerating collapse. _(2026-03-30)_
-- `INS-260330-B384` Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries. _(2026-03-30)_
-- `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive. _(2026-03-30)_
-- `INS-260330-E126` Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive. _(2026-03-30)_
-- `INS-260330-BCC2` Hire undervalued talent — people early in careers or overlooked by the market — rather than competing for proven stars at big companies. _(2026-03-30)_
 - `INS-260330-C0B9` People show far more originality in solving problems than in choosing them, yet problem selection is what separates field-creators from field-contributors. _(2026-03-30)_
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability. _(2026-03-30)_
 - `INS-260330-6C68` Deliberately brainstorming startup ideas produces plausible-sounding but fundamentally flawed ideas that no one urgently needs. _(2026-03-30)_
@@ -2536,24 +2559,6 @@ _No flags._
 - `INS-260330-8D7C` LA's bromate problem had three inputs (bromide, chlorine, sunlight) — only sunlight could be removed, which reframed the entire solution space. _(2026-03-30)_
 - `INS-260330-FC16` LA's shade balls were originally 'bird balls' for airports and mine ponds — repurposed to solve a completely different water chemistry problem. _(2026-03-30)_
 - `INS-260330-08D1` NASA's Mars InSight probe failed because it relied on friction with surrounding soil to dig deeper — the vine robot's tip extension approach eliminates this dependency entirely. _(2026-03-30)_
-- `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. _(2026-03-30)_
-- `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out. _(2026-03-30)_
-- `INS-260330-0CFF` Oxygen was a 'useless byproduct' of photosynthesis that accidentally enabled all animal life — the most consequential output was the one nobody designed for. _(2026-03-30)_
-- `INS-260330-41F6` Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value. _(2026-03-30)_
-- `INS-260330-13A1` Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need. _(2026-03-30)_
-- `INS-260330-6D59` Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward. _(2026-03-30)_
-- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for. _(2026-03-30)_
-- `INS-260330-C870` Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally. _(2026-03-30)_
-- `INS-260330-F7F4` Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place. _(2026-03-30)_
-- `INS-260330-13E8` Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time. _(2026-03-30)_
-- `INS-260330-2E34` The arrow hits the target precisely because it bends — rigidity would cause it to deflect off course. _(2026-03-30)_
-- `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem. _(2026-03-30)_
-- `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature. _(2026-03-30)_
-- `INS-260330-118D` Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small. _(2026-03-30)_
-- `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward. _(2026-03-30)_
-- `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time. _(2026-03-30)_
-- `INS-260330-9231` Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth. _(2026-03-30)_
-- `INS-260330-2AA7` Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability. _(2026-03-30)_
 - `INS-260330-16CD` A dropdown asking users their emotional state was filled out 75.8% of the time and measurably reduced exclamation marks, curse words, and all-caps in support tickets. _(2026-03-30)_
 - `INS-260330-C418` Cows thrived by being useful to humans; elephants declined despite being smarter and stronger — usefulness to the dominant player beats independent capability. _(2026-03-30)_
 - `INS-260330-E263` Concentrate on making a small group of users love your product rather than building something many people merely like. _(2026-03-30)_
@@ -2599,6 +2604,24 @@ _No flags._
 - `INS-260330-2F22` When users request a feature, don't build it — instead investigate what underlying problem triggered the request. _(2026-03-30)_
 - `INS-260330-139D` Ask how users behave and live rather than whether they want specific features to uncover category-creating opportunities. _(2026-03-30)_
 - `INS-260330-19C3` Oxygen was a toxic waste product of early photosynthesis that became the foundation for all complex animal life — a reminder that byproducts can eclipse primary products in value. _(2026-03-30)_
+- `INS-260330-809A` Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. _(2026-03-30)_
+- `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out. _(2026-03-30)_
+- `INS-260330-0CFF` Oxygen was a 'useless byproduct' of photosynthesis that accidentally enabled all animal life — the most consequential output was the one nobody designed for. _(2026-03-30)_
+- `INS-260330-41F6` Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value. _(2026-03-30)_
+- `INS-260330-13A1` Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need. _(2026-03-30)_
+- `INS-260330-6D59` Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward. _(2026-03-30)_
+- `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for. _(2026-03-30)_
+- `INS-260330-C870` Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally. _(2026-03-30)_
+- `INS-260330-F7F4` Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place. _(2026-03-30)_
+- `INS-260330-13E8` Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time. _(2026-03-30)_
+- `INS-260330-2E34` The arrow hits the target precisely because it bends — rigidity would cause it to deflect off course. _(2026-03-30)_
+- `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem. _(2026-03-30)_
+- `INS-260330-C95F` Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature. _(2026-03-30)_
+- `INS-260330-118D` Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small. _(2026-03-30)_
+- `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward. _(2026-03-30)_
+- `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time. _(2026-03-30)_
+- `INS-260330-9231` Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth. _(2026-03-30)_
+- `INS-260330-2AA7` Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability. _(2026-03-30)_
 - `INS-260330-DBE6` The Japanese concepts of atarimae (taken-for-granted functionality) and kansei (enchanting quality) define two independent dimensions of product quality that both require deliberate investment. _(2026-03-30)_
 - `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model. _(2026-03-30)_
 - `INS-260330-FA4D` Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance. _(2026-03-30)_
@@ -2677,8 +2700,6 @@ _No flags._
 - `INS-260330-0145` Ramsey treats every endorsement as a trust liability — if a partner fails the 'would you send your sister there' test, the deal dies regardless of revenue. _(2026-03-30)_
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless. _(2026-03-30)_
 - `INS-260330-72E1` Plants increased atmospheric oxygen through photosynthesis, which then caused their own key enzyme RuBisCo to fail half the time — a biological case of success undermining itself. _(2026-03-30)_
-- `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed. _(2026-03-30)_
-- `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path. _(2026-03-30)_
 - `INS-260330-98EA` The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. _(2026-03-30)_
 - `INS-260330-7ECB` Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations. _(2026-03-30)_
 - `INS-260330-217C` Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins. _(2026-03-30)_
@@ -2797,7 +2818,6 @@ _No flags._
 - `INS-260329-200A` A mood tracker app that would have taken a 4-person team a month was built in under an hour with AI coding tools and Expo. _(2026-03-29)_
 - `INS-260329-9115` Cursor excels at quick tasks but degrades in long sessions; Windsurf is slower to start but more reliable for sustained building. _(2026-03-29)_
 - `INS-260329-FEBA` Rather than perfecting one massive prompt, the effective workflow is: prompt, see the result, make a small adjustment, repeat — each cycle taking minutes. _(2026-03-29)_
-- `INS-260329-EC30` AI commoditizes synthesis; human judgment becomes the scarce, premium resource _(2026-03-29)_
 - `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI. _(2026-03-29)_
 - `INS-260329-057F` Destructuring and spread operators embody a design principle where systems that natively support structural decomposition handle evolving data shapes more gracefully. _(2026-03-29)_
 - `INS-260329-ED44` File I/O and modules transform Python from a calculator into an automation tool — this is the critical capability threshold for practical value. _(2026-03-29)_
@@ -2806,6 +2826,7 @@ _No flags._
 - `INS-260329-3FF4` Well-chaptered, manually transcribed long-form content produces far better AI-assisted knowledge extraction than unstructured equivalents. _(2026-03-29)_
 - `INS-260329-D2CA` Types catch structural errors and tests catch behavioral errors — skipping either leaves an entire category of bugs invisible. _(2026-03-29)_
 - `INS-260329-30D7` Web scraping and APIs give beginners immediate superpowers that justify the effort of learning to code. _(2026-03-29)_
+- `INS-260329-EC30` AI commoditizes synthesis; human judgment becomes the scarce, premium resource _(2026-03-29)_
 - `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces. _(2026-03-29)_
 - `INS-260329-2B9A` Teaching programming effectively requires concrete visual feedback before abstract concepts. _(2026-03-29)_
 - `INS-260329-5427` Tens of millions learning Python through free YouTube tutorials represent a workforce transformation happening outside traditional education. _(2026-03-29)_
@@ -2842,12 +2863,6 @@ _No flags._
 - `INS-260329-B4E7` Base 44's value isn't generating better code — it's eliminating every step between 'idea' and 'published app' that would normally require separate tools, accounts, and expertise. _(2026-03-29)_
 - `INS-260329-3D28` Interact with AI coding tools conversationally — warm them up with context, compliment good output, then describe problems naturally. _(2026-03-29)_
 - `INS-260329-8DC5` Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context. _(2026-03-29)_
-- `INS-260329-AB61` CSV files are the universal adapter between business systems that were never designed to talk to each other. _(2026-03-29)_
-- `INS-260329-D868` CSV import and text manipulation functions (LEFT, MID, RIGHT, CONCATENATE) are the most transferable spreadsheet skills because they bridge every system that exports data. _(2026-03-29)_
-- `INS-260329-C955` Pivot tables give non-programmers the equivalent of SQL GROUP BY — the single most important operation for turning raw data into actionable summaries. _(2026-03-29)_
-- `INS-260329-5B7B` Pivot tables let non-programmers perform GROUP BY aggregations on business data that would otherwise require SQL or programming knowledge. _(2026-03-29)_
-- `INS-260329-5094` Spreadsheet decision matrices force you to name your criteria and weights before evaluating options, which counteracts gut-feel bias. _(2026-03-29)_
-- `INS-260329-FEA6` Spreadsheet-based weighted decision matrices force explicit priority ranking that reveals preferences hidden from intuitive reasoning. _(2026-03-29)_
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity. _(2026-03-29)_
 - `INS-260329-A93C` Naming a block of code and hiding its implementation is the fundamental act that makes software complexity manageable. _(2026-03-29)_
 - `INS-260329-E015` Every programming construct — functions, classes, libraries, APIs — is the same abstraction operation applied at different scales. _(2026-03-29)_
@@ -2970,15 +2985,16 @@ _No flags._
 - `INS-260329-BAB7` The variable vs pointer distinction in C++ maps directly to value vs reference patterns that pervade AI system architecture. _(2026-03-29)_
 - `INS-260329-9074` Variables create single points of change that prevent linear maintenance scaling in growing codebases. _(2026-03-29)_
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs. _(2026-03-29)_
-- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest. _(2026-03-29)_
-- `INS-260329-191D` College tuition has doubled in recent decades while starting salaries stayed flat, creating $1.76 trillion in student debt that exceeds most nations' GDP. _(2026-03-29)_
-- `INS-260329-F443` College costs doubled in recent decades while median starting salaries remained flat, creating $1.76 trillion in student debt that cannot be discharged in bankruptcy. _(2026-03-29)_
-- `INS-260329-7B15` Rich people buy things for zero dollars that can't go to zero, while poor people buy lottery tickets that almost certainly will. _(2026-03-29)_
+- `INS-260329-A9C0` Take a 20-second break every 20 minutes to focus on something 20 feet away to prevent cumulative eye strain. _(2026-03-29)_
 - `INS-260329-4605` Builder-investors who deploy templatized operational playbooks into portfolio companies generate more predictable returns than bettor-investors who try to find mispriced assets. _(2026-03-29)_
 - `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable. _(2026-03-29)_
 - `INS-260329-3AE5` AWS's 200+ services create lock-in through integration complexity — migrating one service is easy, but migrating an ecosystem of interconnected services is practically impossible. _(2026-03-29)_
 - `INS-260329-C754` Cloud's on-demand/spot/reserved pricing tiers create an economic moat for startups that can optimize compute costs without upfront capital. _(2026-03-29)_
 - `INS-260329-196A` Small business acquisitions offer cash-flow returns with negotiable terms that public markets cannot match. _(2026-03-29)_
+- `INS-260329-7372` College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest. _(2026-03-29)_
+- `INS-260329-191D` College tuition has doubled in recent decades while starting salaries stayed flat, creating $1.76 trillion in student debt that exceeds most nations' GDP. _(2026-03-29)_
+- `INS-260329-F443` College costs doubled in recent decades while median starting salaries remained flat, creating $1.76 trillion in student debt that cannot be discharged in bankruptcy. _(2026-03-29)_
+- `INS-260329-7B15` Rich people buy things for zero dollars that can't go to zero, while poor people buy lottery tickets that almost certainly will. _(2026-03-29)_
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential. _(2026-03-29)_
 - `INS-260329-A6EA` Your investment strategy should shift from human capital to financial assets as your capital base grows. _(2026-03-29)_
 - `INS-260329-76EE` HFT systems use colocation facilities and kernel-bypass networking (DPDK/Solarflare) to handle market data in microseconds. _(2026-03-29)_
@@ -2995,7 +3011,19 @@ _No flags._
 - `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money. _(2026-03-29)_
 - `INS-260329-EC33` Stop chasing passive income and instead calculate your effective hourly rate, then maximize hours in your highest-paying activity. _(2026-03-29)_
 - `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles. _(2026-03-29)_
-- `INS-260329-A9C0` Take a 20-second break every 20 minutes to focus on something 20 feet away to prevent cumulative eye strain. _(2026-03-29)_
+- `INS-260329-965A` Design every meal around a single protein target (~100g) while treating carbs and fat as optional additions rather than required components. _(2026-03-29)_
+- `INS-260329-7EEF` Compare any food's protein density against a pure protein scoop (~120cal for 24g) to quickly evaluate whether it's a lean source. _(2026-03-29)_
+- `INS-260329-72EF` Put sauce on the underside of your utensil before each bite so it hits your tongue first, making a tiny amount of sauce feel like a generous portion. _(2026-03-29)_
+- `INS-260329-7E0A` Hormozi's layering cereal on top (not mixing), keeping cream cheese cold separately from hot bread, and mashing salmon into bite-sized pieces are food UX optimizations that make the difference between eating something once and eating it for years. _(2026-03-29)_
+- `INS-260329-2D0B` Layer crunchy ingredients on top of wet bases bite-by-bite rather than mixing them in, preserving texture contrast that makes simple meals feel restaurant-quality. _(2026-03-29)_
+- `INS-260329-6CCC` Eliminating all cooking friction from protein meals dramatically increases the chance you'll actually eat them consistently for months or years. _(2026-03-29)_
+- `INS-260329-C34C` The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking. _(2026-03-29)_
+- `INS-260329-AB61` CSV files are the universal adapter between business systems that were never designed to talk to each other. _(2026-03-29)_
+- `INS-260329-D868` CSV import and text manipulation functions (LEFT, MID, RIGHT, CONCATENATE) are the most transferable spreadsheet skills because they bridge every system that exports data. _(2026-03-29)_
+- `INS-260329-C955` Pivot tables give non-programmers the equivalent of SQL GROUP BY — the single most important operation for turning raw data into actionable summaries. _(2026-03-29)_
+- `INS-260329-5B7B` Pivot tables let non-programmers perform GROUP BY aggregations on business data that would otherwise require SQL or programming knowledge. _(2026-03-29)_
+- `INS-260329-5094` Spreadsheet decision matrices force you to name your criteria and weights before evaluating options, which counteracts gut-feel bias. _(2026-03-29)_
+- `INS-260329-FEA6` Spreadsheet-based weighted decision matrices force explicit priority ranking that reveals preferences hidden from intuitive reasoning. _(2026-03-29)_
 - `INS-260329-A4CA` Bond markets drive political decisions faster than traditional diplomacy in the current environment _(2026-03-29)_
 - `INS-260329-BEFB` Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound. _(2026-03-29)_
 - `INS-260329-895D` Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion. _(2026-03-29)_
@@ -3020,13 +3048,6 @@ _No flags._
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit. _(2026-03-29)_
 - `INS-260329-3C67` Research controlling for SAT scores and socioeconomic status shows college adds zero earning premium for white and Asian students from wealthy families, yet these families demand college attendance most aggressively. _(2026-03-29)_
 - `INS-260329-8B10` Wealthy families are the strongest college advocates despite getting the least value-add — their kids already have the networks and reference groups college provides. _(2026-03-29)_
-- `INS-260329-965A` Design every meal around a single protein target (~100g) while treating carbs and fat as optional additions rather than required components. _(2026-03-29)_
-- `INS-260329-7EEF` Compare any food's protein density against a pure protein scoop (~120cal for 24g) to quickly evaluate whether it's a lean source. _(2026-03-29)_
-- `INS-260329-72EF` Put sauce on the underside of your utensil before each bite so it hits your tongue first, making a tiny amount of sauce feel like a generous portion. _(2026-03-29)_
-- `INS-260329-7E0A` Hormozi's layering cereal on top (not mixing), keeping cream cheese cold separately from hot bread, and mashing salmon into bite-sized pieces are food UX optimizations that make the difference between eating something once and eating it for years. _(2026-03-29)_
-- `INS-260329-2D0B` Layer crunchy ingredients on top of wet bases bite-by-bite rather than mixing them in, preserving texture contrast that makes simple meals feel restaurant-quality. _(2026-03-29)_
-- `INS-260329-6CCC` Eliminating all cooking friction from protein meals dramatically increases the chance you'll actually eat them consistently for months or years. _(2026-03-29)_
-- `INS-260329-C34C` The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking. _(2026-03-29)_
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities. _(2026-03-29)_
 - `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle. _(2026-03-29)_
 - `INS-260329-444F` Study what successful people did at your stage, not what they do now, to find the right playbook. _(2026-03-29)_
@@ -3290,6 +3311,8 @@ _No flags._
 - `INS-260329-E0B0` A great partnership is measured by the gap between what you achieve together versus what you'd achieve alone. _(2026-03-29)_
 - `INS-260329-2BCC` Choose co-founders like spouses — same destination, different capabilities, and the whole must exceed the sum of parts. _(2026-03-29)_
 - `INS-260329-61CF` Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource. _(2026-03-29)_
+- `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations. _(2026-03-29)_
+- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks. _(2026-03-29)_
 - `INS-260329-127F` Multi-year daily content output is the only reliable audience-building strategy; most people quit too early. _(2026-03-29)_
 - `INS-260329-409F` You can't delete a bad brand pairing — you can only shrink it into irrelevance by overwhelming it with positive associations. _(2026-03-29)_
 - `INS-260329-CEC5` Branding is the deliberate pairing of your product with outcomes your ideal customer values, not identity design. _(2026-03-29)_
@@ -3311,8 +3334,6 @@ _No flags._
 - `INS-260329-0F10` The primary barrier to audience growth is premature quitting, not lack of skill—making persistence itself the competitive moat. _(2026-03-29)_
 - `INS-260329-3332` A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries. _(2026-03-29)_
 - `INS-260329-63DD` Comprehensive long-form tutorials dominate search results because they fully satisfy user intent, creating compounding organic traffic that short content cannot match. _(2026-03-29)_
-- `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations. _(2026-03-29)_
-- `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks. _(2026-03-29)_
 - `INS-260329-5B18` Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors. _(2026-03-29)_
 - `INS-260329-E8EB` Speed advantage compounds: each ship-test-iterate cycle generates user insights that make the next cycle more targeted, creating a learning gap not just a time gap. _(2026-03-29)_
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.' _(2026-03-29)_
@@ -3334,6 +3355,8 @@ _No flags._
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters. _(2026-03-29)_
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage. _(2026-03-29)_
 - `INS-260329-277B` Being copied is a positive signal; the copier's attention on you means their attention isn't on their customers. _(2026-03-29)_
+- `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas. _(2026-03-29)_
+- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential. _(2026-03-29)_
 - `INS-260329-FCF2` Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. _(2026-03-29)_
 - `INS-260329-EB4B` Easy wins feel productive but leave the highest-leverage problem unsolved day after day. _(2026-03-29)_
 - `INS-260329-7A3C` Fill your calendar from 5pm backward so meetings stack at the end of the day and mornings stay open for deep work. _(2026-03-29)_
@@ -3387,8 +3410,6 @@ _No flags._
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality. _(2026-03-29)_
 - `INS-260329-4842` Write-back cache gains speed by risking data loss on crash; write-through guarantees consistency but is slower; write-around optimizes reads but has cold-cache penalties — every caching decision is a durability bet. _(2026-03-29)_
 - `INS-260329-AB9A` Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving. _(2026-03-29)_
-- `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas. _(2026-03-29)_
-- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential. _(2026-03-29)_
 - `INS-260329-4DBC` Claude Code and similar tools make it so easy to build plausible prototypes that founders lose conviction faster and cycle through ideas without depth. _(2026-03-29)_
 - `INS-260329-F07A` When you have nothing to lose, the rational move is maximum risk-taking because any upside is pure gain. _(2026-03-29)_
 - `INS-260329-F4CD` Find the single domino that, when toppled, makes every other optimization unnecessary. _(2026-03-29)_
@@ -3643,12 +3664,12 @@ _No flags._
 - `INS-260329-DFD1` TestFlight's screenshot feedback feature captures user frustration in-context — tell beta users to screenshot anything weird and you get zero-friction bug reports with visual evidence. _(2026-03-29)_
 - `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate. _(2026-03-29)_
 - `INS-260329-C893` If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death. _(2026-03-29)_
-- `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation. _(2026-03-28)_
 - `INS-260328-C246` Hassabis argues AGI will combine LLMs as world models with AlphaZero-like planning/search mechanisms on top. _(2026-03-28)_
 - `INS-260328-0B99` Models improved faster than expected in 2025 with multiple strong releases from Google and others, but it takes time to even assess how good new models are -- and the distance from 'very useful' to 'superintelligence' remains vast. _(2026-03-28)_
 - `INS-260328-0DFE` Altman describes AI's trajectory as: today a mediocre chatbot, next a world-class chief of staff, then a company of 50 experts, then 10,000 experts per person. _(2026-03-28)_
 - `INS-260328-60C7` Howard argues that widely distributing AI capabilities creates better defense than centralizing them, since most people use power for defense while centralization attracts power-seekers. _(2026-03-28)_
 - `INS-260328-8CCC` Training loss scales predictably but actual capabilities emerge non-linearly, making capability prediction unreliable. _(2026-03-28)_
+- `INS-260328-711E` Altman distinguishes personalized AI persuasion — reading your entire online history to craft one perfect message — from traditional mass disinformation. _(2026-03-28)_
 - `INS-260328-92BC` Howard argues the EU AI Act's foundation model provisions would outlaw competition with OpenAI while providing no real safety benefit since developers would simply relocate. _(2026-03-28)_
 - `INS-260328-F05E` Zuckerberg argues that gigawatt-scale datacenters are technically feasible but energy permitting creates multi-year delays that capital alone cannot solve. _(2026-03-28)_
 - `INS-260328-D1B2` Jeremy Howard argues that LLM progress looks sigmoid rather than exponential — you need ridiculously large money for slightly better results. _(2026-03-28)_
@@ -3675,16 +3696,16 @@ _No flags._
 - `INS-260328-02A0` Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time. _(2026-03-28)_
 - `INS-260328-57CF` Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen. _(2026-03-28)_
 - `INS-260328-F752` VCs dismissing batch-model investing by claiming they already know all the good companies are admitting they view venture as a zero-sum commodity business. _(2026-03-28)_
-- `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work. _(2026-03-28)_
-- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts. _(2026-03-28)_
-- `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else. _(2026-03-28)_
-- `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong. _(2026-03-28)_
 - `INS-260328-91A1` We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed. _(2026-03-28)_
 - `INS-260328-7CA9` Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success. _(2026-03-28)_
 - `INS-260328-9574` People reach for process when a recurring problem scares them or when they're doing something for the first time — it provides comfort even when it doesn't improve the output. _(2026-03-28)_
 - `INS-260328-8DF8` People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit. _(2026-03-28)_
 - `INS-260328-33E8` When most of your peers made money from sports betting and crypto, advice about building for years doesn't land. _(2026-03-28)_
 - `INS-260328-AA1F` Whatnot -- a 'Pokemon trading card site' that drew mockery when YC funded it -- became an $11B decacorn, proving that the best venture bets look absurd at announcement. _(2026-03-28)_
+- `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work. _(2026-03-28)_
+- `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts. _(2026-03-28)_
+- `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else. _(2026-03-28)_
+- `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong. _(2026-03-28)_
 - `INS-260328-70D3` The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days. _(2026-03-28)_
 - `INS-260328-F60B` Agency over your calendar, your work, and your identity compounds into a better life trajectory than comfort does. _(2026-03-28)_
 - `INS-260328-23B4` Zuckerberg's seemingly prescient GPU acquisition happened because Meta was GPU-constrained on Reels and he ordered 2x what they needed, not because he predicted the AI wave. _(2026-03-28)_

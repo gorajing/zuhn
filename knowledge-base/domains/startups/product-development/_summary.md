@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 136 insights
+> 137 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -19,6 +19,7 @@
 - `INS-260327-D0F3` [high] The apps you actually spend your day using are all built by professional developers; vibe-coded apps are empowering but represent a lower-value segment of the software economy.
 - `INS-260402-426C` [high] Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.
 - `INS-260323-A0CE` [high] If you combine genuine novelty in synthetic biology, robotics, material science, and computational design simultaneously, the output is guaranteed to be novel.
+- `INS-260403-0185` [high] The best products come from small, opinionated teams — committees produce bureaucratic compromises.
 - `INS-260329-ECB5` [high] Screenshot top competitors from the App Store before designing — users expect familiar patterns, not novel ones.
 - `INS-260330-094B` [high] Aerogel is extraordinary but shatters on impact — embedding it in fiberglass creates a flexible, practical blanket that NASA and industry actually use.
 - `INS-260330-851F` [high] Aerogel's insulation is extraordinary but too fragile alone; embedding it in fiberglass creates a practical product that can be flexed, cut, and sewn.

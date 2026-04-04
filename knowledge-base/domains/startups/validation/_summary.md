@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 105 insights
+> 106 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -19,6 +19,7 @@
 - `INS-260403-08E6` [high] Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - `INS-260403-DD95` [high] Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
 - `INS-260403-B87D` [high] Customer jobs span functional, social, emotional, and basic-need layers — addressing only one leaves value on the table.
+- `INS-260403-FBF0` [high] Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built.
 - `INS-260403-C96F` [high] When there's no product or traction data, the founders themselves are the entire investment thesis.
 - `INS-260329-34A9` [high] Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
 - `INS-260323-2726` [high] Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.

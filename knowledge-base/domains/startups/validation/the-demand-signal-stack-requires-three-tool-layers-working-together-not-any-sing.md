@@ -54,8 +54,8 @@ related:
   - INS-260403-B1F2
   - INS-260403-1358
   - INS-260403-3569
+  - INS-260403-B08E
   - PRI-260323-CE34
-  - PRI-260320-5947
 ---
 The tool taxonomy reveals that business experiments aren't single-tool activities. A landing page without traffic generation produces no signal. Online ads without analytics produce vanity metrics. A prototype without user observation produces confirmation bias. The reliable experiment stack has three layers: a traffic source (Google Ads, Facebook, LinkedIn, Reddit), an experience layer (landing page, prototype, explainer video), and a measurement layer (Google Analytics, Mixpanel, Crazy Egg, Lucky Orange).
 

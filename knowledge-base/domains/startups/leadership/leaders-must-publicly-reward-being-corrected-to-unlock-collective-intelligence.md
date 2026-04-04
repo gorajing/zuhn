@@ -59,6 +59,7 @@ related:
   - INS-260327-7F11
   - INS-260330-A78C
   - PRI-260403-E023
+  - INS-260403-0185
 ---
 Centivax's founder identified the core challenge of managing genius teams: ideas in science are closely tethered to ego, so debate easily becomes personal. His solution was modeling the desired behavior from the top — publicly saying 'that's much nicer, let's do that instead' when someone corrected his strategy or offered a better approach.
 

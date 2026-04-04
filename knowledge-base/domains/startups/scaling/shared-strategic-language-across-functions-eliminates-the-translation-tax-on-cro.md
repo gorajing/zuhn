@@ -57,9 +57,9 @@ related:
   - INS-260321-801C
   - INS-260323-CD28
   - INS-260403-1C10
+  - INS-260403-1B9E
   - INS-260325-F451
   - INS-260327-91C7
-  - INS-260327-29F0
 ---
 When marketing speaks in customer segments, engineering in technical architecture, and finance in cost models, strategic conversations suffer a 'translation tax' — time and fidelity lost converting between mental models. A shared visual framework forces all functions onto the same page, literally. The BMC's front-stage/back-stage structure maps cleanly to how organizations actually create and deliver value: front-stage covers customer-facing value creation and revenue generation, back-stage covers the resources, activities, and partnerships that enable it.
 

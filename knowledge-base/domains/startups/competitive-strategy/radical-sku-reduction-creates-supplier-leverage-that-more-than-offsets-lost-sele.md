@@ -49,11 +49,11 @@ stance: >-
   negotiating power because suppliers compete intensely for monopoly shelf
   placement
 related:
+  - INS-260403-E143
   - INS-260327-3B91
   - INS-260330-DC0D
   - INS-260330-7479
   - INS-260403-323A
-  - INS-260321-52EF
 ---
 Conventional retail wisdom treats selection breadth as a competitive advantage — more choice means more customers served. Costco inverts this by stocking only 1-2 options per category across ~4,000 total SKUs. This creates a winner-take-all dynamic where suppliers compete fiercely for the sole Costco slot, driving prices down and willingness to customize up (e.g., reengineering cashew containers to save 24,000 pallets/year).
 

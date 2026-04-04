@@ -1,6 +1,6 @@
 # Topic: bootstrapping
 
-> 33 insights
+> 34 insights
 
 - `INS-260320-20F2` [very_high] Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
 - `INS-260320-00C2` [very_high] When users try to cancel, ask "Do you just need more time?" — trial extensions retained the most users, outperforming discounts and 3-month pause options, while keeping users on auto-renew.
@@ -29,6 +29,7 @@
 - `INS-260329-3C25` [high] Start with high-ticket 1:1 work to fund scalable growth — Tesla's Roadster-to-Model-3 path works for service businesses too.
 - `INS-260323-DD40` [high] Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
 - `INS-260329-0DA4` [medium] An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
+- `INS-260403-1B9E` [medium] Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
 - `INS-260329-F0DD` [medium] Test prep can be run from free libraries with zero startup cost, reaching $1,100/day within six months — outearning most post-college professional salaries without the four-year opportunity cost.
 - `INS-260322-F609` [medium] ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
 - `INS-260329-7192` [medium] Video editing + copywriting + social media + management transforms someone from a $50K specialist into a CMO-level operator — each skill multiplies rather than adds.

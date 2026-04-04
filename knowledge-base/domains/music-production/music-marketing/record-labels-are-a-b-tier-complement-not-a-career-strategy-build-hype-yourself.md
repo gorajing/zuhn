@@ -49,11 +49,12 @@ stance: >-
   takes 50-80% of royalties, and only truly moves the needle with the handful of
   currently hot labels.
 related:
-  - INS-260321-3312
   - PRI-260322-DC5E
   - INS-260324-1275
   - INS-260327-442D
+  - INS-260321-3312
   - INS-260330-7882
+  - INS-260403-35E7
 evidence:
   - id: INS-260324-1275
     type: CHALLENGES
