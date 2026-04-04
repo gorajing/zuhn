@@ -1,8 +1,8 @@
 # Tag: mental-health
 
-- `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260325-600C` Chronic anxiety is often B1 deficiency impacting the autonomic nervous system — not a psychological disorder requiring SSRIs.
 - `INS-260330-7981` Mitochondria do far more than produce energy — they regulate neurotransmitters, hormones, inflammation, and gene expression, making them the central node in mental health.
+- `INS-260330-22F0` Before psychoanalysis, mentally ill patients were confined to sanatoriums; Freud's talk therapy demonstrated that conversation itself could be curative.
 - `INS-260330-FDA9` Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target.
 - `INS-260330-8646` Dr. Johnson frames all psychiatric disorders as variations of narrowed mental repertoire, unifying depression, anxiety, OCD, and addiction under one mechanistic umbrella.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.

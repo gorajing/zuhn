@@ -1,7 +1,7 @@
 # Tag: legacy-systems
 
-- `INS-260322-642F` For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
 - `INS-260404-76DD` Plants evolved entire metabolic pathways to detoxify RuBisCo's mistakes rather than replacing the enzyme itself — a pattern mirrored in legacy software systems.
+- `INS-260322-642F` For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
 - `INS-260403-3D7D` RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
 - `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260404-AE3C` RuBisCo is a terrible enzyme that plants compensate for by producing 40 billion tons of it rather than evolving a replacement, illustrating how path dependence locks in suboptimal strategies.
