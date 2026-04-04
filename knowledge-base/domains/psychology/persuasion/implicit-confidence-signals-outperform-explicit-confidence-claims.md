@@ -49,12 +49,13 @@ stance: >-
   damages credibility, while demonstrating genuine belief through behavior and
   tone is the strongest early-stage signal investors use to evaluate founders.
 related:
-  - INS-260403-2F22
   - INS-260403-1B2D
   - INS-260403-5C8E
   - INS-260403-B216
   - INS-260403-B3CA
+  - INS-260403-E4C6
   - INS-260403-2F4E
+  - INS-260403-2F22
 ---
 When investors evaluate very early startups, they often lack the technical depth to assess the product directly. The single biggest initial signal is the founders' own confidence — but this must be demonstrated, never stated. Explicit claims like 'we're passionate' or 'our product is great' are universally ignored or, worse, mark you as a bullshitter.
 

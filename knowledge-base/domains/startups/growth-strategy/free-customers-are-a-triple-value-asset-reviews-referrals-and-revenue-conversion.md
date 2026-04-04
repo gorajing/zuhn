@@ -48,7 +48,6 @@ stance: >-
   customers because they simultaneously produce social proof, word-of-mouth
   leads, and eventual paying conversions.
 related:
-  - INS-260325-522A
   - INS-260322-98AB
   - INS-260322-8D47
   - INS-260327-17DE
@@ -58,5 +57,6 @@ related:
   - INS-260329-12EC
   - INS-260329-9F8D
   - INS-260330-1D9D
+  - INS-260329-AAD1
 ---
 The conventional wisdom that free customers are a cost center misses the compound value they create. Free customers who receive genuine value will: (1) leave reviews and testimonials that serve as social proof for future paid customers, (2) refer friends and family who become warm leads requiring zero acquisition cost, and (3) potentially convert to paying customers themselves when you introduce pricing. This triple-value framework reframes the free period as an investment with three independent return streams rather than charity. The Warren Buffett–Ben Graham analogy reinforces this — Graham initially rejected Buffett's offer to work for free because even free labor has hidden training costs. Your free customers similarly require investment, but the returns across all three channels compound over time. The key mindset shift: think long-term, and you'll make long money.

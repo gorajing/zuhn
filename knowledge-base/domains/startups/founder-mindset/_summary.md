@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 302 insights
+> 303 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -131,6 +131,7 @@
 - `INS-260329-DD06` [high] If you never stop working, you'll be ready for every opportunity window, making the question of timing irrelevant.
 - `INS-260323-D564` [high] Tudor went $40K+ in debt, was jailed twice, and lost years of shipments to melting — but persisted because he believed ice could have saved his brother's life.
 - `INS-260329-6130` [high] Low personal expenses buy you more shots on goal by letting you survive multiple business failures.
+- `INS-260403-1B8A` [high] The Airbnb founders persisted through a year of no growth and maxed-out credit cards because they had personally experienced the magic of hosting — they'd 'seen a glimpse of the future.'
 - `INS-260403-743D` [high] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - `INS-260325-0873` [high] Getting on the plane to see someone in person is an extreme effort signal that makes mediocre ideas go further and great ideas get prioritized over equally good remote pitches.
 - `INS-260327-E992` [high] The best cheat code for surviving founder grind is choosing a problem that genuinely excites you and your team.

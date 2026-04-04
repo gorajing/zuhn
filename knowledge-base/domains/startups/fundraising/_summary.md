@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 194 insights
+> 202 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -23,6 +23,7 @@
 - `INS-260403-DE45` [high] Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.
 - `INS-260403-1217` [high] Low startup costs align founder and investor risk appetites by letting founders diversify across multiple ventures over time.
 - `INS-260402-E522` [high] The only real leverage in fundraising is genuinely not needing the deal, which requires the kind of determination that can't be faked.
+- `INS-260403-4960` [high] Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260330-DEBC` [high] Email all investors simultaneously but schedule meetings three weeks out during the same week — this creates deal heat, signals you're not desperate, and keeps fundraising from dragging on.
 - `INS-260330-6900` [high] Tell investors you're too busy building to meet for 2-3 weeks, then schedule all meetings in one concentrated week to create competition and signal confidence.
 - `INS-260403-4337` [high] In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
@@ -54,6 +55,7 @@
 - `INS-260403-A709` [high] VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
 - `INS-260403-3482` [high] Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
 - `INS-260403-088E` [high] Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
+- `INS-260403-D7C4` [high] Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6A55` [high] Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
 - `INS-260403-A172` [high] Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -86,8 +88,10 @@
 - `INS-260403-7A31` [high] Investor ecosystems grow organically from successful exits — they cannot be seeded artificially or attracted by incentives.
 - `INS-260330-376E` [high] Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
 - `INS-260403-6A65` [high] Super-angel competition gave founders 13% dilution angel rounds versus 30-40% series A rounds, plus retained board control and faster closes.
+- `INS-260403-E4C6` [high] Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, while implicit confidence through demeanor is the strongest signal.
 - `INS-260402-421B` [high] Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
 - `INS-260403-6F52` [high] In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
+- `INS-260403-C8A9` [high] Investor interest compounds exponentially because each commitment makes others more likely to invest.
 - `INS-260403-82CC` [high] Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
 - `INS-260330-975D` [high] Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
 - `INS-260403-4423` [high] Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
@@ -102,6 +106,7 @@
 - `INS-260403-41FF` [high] Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-2204` [high] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260403-D430` [high] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
+- `INS-260403-9AB3` [high] Describe your startup narrowly and concretely rather than expansively, because all-encompassing descriptions carry no information.
 - `INS-260403-74EA` [high] Founders should describe their startup as narrowly as possible rather than gesturing at everything it could become.
 - `INS-260403-6712` [high] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
@@ -128,8 +133,11 @@
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
 - `INS-260322-A31D` [high] Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
 - `INS-260402-3FC5` [high] Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.
+- `INS-260403-776C` [high] You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
 - `INS-260402-2E19` [high] Being ramen profitable — earning just enough to cover living expenses — gives founders more fundraising leverage than almost any other signal.
+- `INS-260403-7D04` [high] Paul Graham identifies ramen profitability — enough revenue to cover founders' basic living costs — as the most important startup threshold because it means you no longer need investors' permission to continue existing.
 - `INS-260403-B9A9` [high] Minimal profitability removes investors' ability to exploit founders' desperation for capital.
+- `INS-260403-3D38` [high] Founders are investors buying stock with work, so downturns represent the same buying opportunity for them as for financial investors.
 - `INS-260402-3D61` [high] Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
 - `INS-260403-D99E` [high] Scientist-founders lose deals by prioritizing how cool the science is over how big the market opportunity is.
 - `INS-260403-1034` [high] Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.

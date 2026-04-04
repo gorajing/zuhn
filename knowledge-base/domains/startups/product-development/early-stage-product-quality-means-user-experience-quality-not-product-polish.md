@@ -49,10 +49,10 @@ stance: >-
   a user, not the product itself — you can deliver a great experience with a
   buggy, incomplete product by compensating with attentiveness
 related:
-  - PRI-260320-8205
   - INS-260327-24A5
   - INS-260330-FCBC
   - INS-260330-1282
+  - INS-260403-25EE
   - INS-260329-2EB1
   - INS-260327-EF89
   - INS-260327-A608

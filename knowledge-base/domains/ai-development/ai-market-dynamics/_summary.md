@@ -1,6 +1,6 @@
 # Topic: ai-market-dynamics
 
-> 93 insights
+> 94 insights
 
 - `INS-260321-86F1` [high] China is stealing American AI models, removing all guardrails, and potentially deploying them against the US — creating an absurd scenario where America fights with one arm tied behind its back against its own technology.
 - `INS-260327-5690` [high] Traditional SaaS sells productivity enhancement to workers; vertical AI agents sell the work itself, accessing the entire cost of labor as TAM rather than just the software budget.
@@ -52,6 +52,7 @@
 - `INS-260327-0C4A` [high] Network quality, not just GPU power, determines how many GPUs can effectively work together on a single AI workload.
 - `INS-260321-2BF9` [high] NVIDIA is positioning as infrastructure for all AI — digital and physical — with 110 robot companies, 18M cars annually on their robotaxi platform, and orbital data center designs.
 - `INS-260325-DAD7` [high] Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
+- `INS-260403-8A65` [high] DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
 - `INS-260325-4E96` [high] Open models trail closed models by a steady ~6 months because the capability target keeps moving.
 - `INS-260323-62F3` [high] Chinese companies release open-weight models primarily to gain global distribution and influence, not out of altruism.
 - `INS-260327-5D5F` [high] Fine-tuning an open-weights model degrades its other capabilities because you cannot mix new data with the original training distribution; truly open-source models with full training pipelines are fundamentally more useful.

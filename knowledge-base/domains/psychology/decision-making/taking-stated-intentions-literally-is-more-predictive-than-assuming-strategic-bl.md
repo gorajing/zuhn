@@ -51,10 +51,10 @@ stance: >-
   sophisticated negotiating strategy.
 related:
   - INS-260403-4CF9
+  - INS-260403-4960
   - INS-260403-C37D
   - INS-260403-481F
   - INS-260403-0267
-  - INS-260329-BEFB
 evidence:
   - id: INS-260329-4A69
     type: TRANSFERS_TO

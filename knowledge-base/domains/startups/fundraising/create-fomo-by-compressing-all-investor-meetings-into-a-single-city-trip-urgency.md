@@ -54,7 +54,6 @@ related:
   - INS-260403-9D89
   - INS-260325-3B2A
   - INS-260327-0833
-  - INS-260329-6FAC
   - INS-260329-57D7
 stance: >-
   Flying to a city and stacking every investor and customer meeting into 2-3

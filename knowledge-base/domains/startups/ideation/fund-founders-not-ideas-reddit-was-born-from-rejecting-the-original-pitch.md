@@ -52,8 +52,8 @@ related:
   - INS-260328-6F5B
   - INS-260403-7E27
   - INS-260403-45D5
+  - INS-260403-71D1
   - PRI-260403-26B9
-  - INS-260330-B09B
 ---
 Paul Graham was so impressed by Steve Huffman and Alexis Ohanian's intelligence and energy that he started Y Combinator partly to fund people like them. When their original idea (mobile food ordering, pre-smartphone era) was clearly unworkable, YC rejected it but then called them back with a different idea. This became Reddit.
 

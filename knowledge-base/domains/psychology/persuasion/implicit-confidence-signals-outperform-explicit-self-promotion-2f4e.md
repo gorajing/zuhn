@@ -50,14 +50,13 @@ stance: >-
   discount explicit self-praise as bullshit.
 related:
   - INS-260327-5688
-  - INS-260329-57B3
   - INS-260329-E900
   - INS-260403-2F22
-  - INS-260403-1B2D
   - INS-260403-5C8E
   - INS-260403-22FE
   - INS-260403-B216
   - INS-260403-48BF
+  - INS-260403-E4C6
 ---
 Graham identifies a fundamental asymmetry in persuasion: explicit confidence claims ('we're passionate,' 'our product is great') are either ignored or actively count against you, while implicit confidence signals — speaking as if you're doing the audience a favor, demonstrating rather than claiming — build genuine conviction.
 

@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 50 insights
+> 51 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -9,6 +9,7 @@
 - `INS-260330-230D` [high] Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
 - `INS-260328-93C8` [high] The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
 - `INS-260330-9863` [high] Outsized returns consistently go to people willing to pursue weird-looking opportunities before they become professionalized.
+- `INS-260403-25EE` [high] Founder quality overwhelms economic conditions as a predictor of startup success.
 - `INS-260322-3E59` [high] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
 - `INS-260330-2E58` [high] Innovations fail not because they're bad ideas but because the supporting innovation stack hasn't matured yet.
 - `INS-260403-CB33` [high] Forced adoption events like COVID permanently digitize resistant populations by giving them a socially acceptable excuse to change behavior.

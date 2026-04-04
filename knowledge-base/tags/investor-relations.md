@@ -6,6 +6,7 @@
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
+- `INS-260403-D7C4` Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260403-86DB` Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.

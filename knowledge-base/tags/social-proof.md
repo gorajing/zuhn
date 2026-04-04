@@ -5,6 +5,7 @@
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260403-31B1` Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
+- `INS-260403-47B7` Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.
 - `INS-260330-A15F` Bad decisions trigger escalating rationalization rather than course-correction, especially when peer groups reward continued commitment.
 - `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
@@ -14,6 +15,7 @@
 - `INS-260329-F73D` Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
 - `INS-260329-7B56` Reviews that mention real downsides before praising outcomes are more believable and convert better than pure five-star praise.
 - `INS-260329-563F` Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
+- `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
 - `INS-260403-77B4` PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - `INS-260327-D7AA` Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.

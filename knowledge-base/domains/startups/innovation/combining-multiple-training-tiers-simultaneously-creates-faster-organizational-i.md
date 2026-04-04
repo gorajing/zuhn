@@ -48,7 +48,6 @@ stance: >-
   in practical workshops, and run initiative-specific training build innovation
   capability faster than those who train one layer at a time.
 related:
-  - INS-260320-C65B
   - INS-260403-1358
   - INS-260323-E15F
   - INS-260403-5D81

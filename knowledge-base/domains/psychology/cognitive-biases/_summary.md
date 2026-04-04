@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 250 insights
+> 251 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -89,6 +89,7 @@
 - `INS-260330-F31A` [high] Littlewood's Law calculates that at one event per second across waking hours, a one-in-a-million occurrence is expected every ~35 days.
 - `INS-260330-ECA9` [high] If you experience one event per second during waking hours, a one-in-a-million event should occur roughly every 35 days — making 'miracles' routine.
 - `INS-260330-A84D` [high] Coke adopted the tobacco industry's playbook — funding counter-studies to cast doubt on the obesity-soda link rather than debating the science directly.
+- `INS-260403-47B7` [high] Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.
 - `INS-260330-D26B` [high] People can retroactively neutralize their own clear-eyed crisis assessments through motivated reasoning, without any new information.
 - `INS-260330-6D13` [high] Treating all sides as morally equal regardless of their demonstrated ethical norms is a failure of moral reasoning, not balanced thinking.
 - `INS-260330-43EB` [high] The Mandate of Heaven attributed floods, famines, and rebellions to the emperor's moral failings, preventing Chinese historians from analyzing structural causes for centuries.

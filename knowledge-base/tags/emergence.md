@@ -5,22 +5,22 @@
 - `INS-260326-97C9` Searching the space of possible programs yields more sophisticated results than designing them from scratch.
 - `INS-260330-9FCF` Even when populations are clustered with minimal inter-group travel, exponential growth dynamics recur fractally — communities behave like individuals, each infecting other communities with the same multiplicative laws.
 - `INS-260327-DCF8` Scaling video diffusion models produces emergent world simulation capabilities including object permanence and physics understanding.
-- `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260403-726B` Oxygen — the molecule all animal life requires — is a waste product of photosynthesis, not its purpose.
 - `INS-260330-8538` Each level of biological organization (atom → cell → tissue → organ → system → organism) produces emergent capabilities invisible at lower levels.
 - `INS-260403-99CE` Oxygen — the gas that enabled all animal life — is literally a waste product of photosynthesis's water-splitting reaction.
+- `INS-260330-E059` 300 rotating arrows, each performing the simplest possible motion (constant-rate rotation), compose to trace any arbitrary shape — a principle that extends to neural networks and modular system design.
 - `INS-260330-BE0A` Dark matter doesn't form planets or galaxies because its particles don't interact with each other — self-interaction, not just external interaction, is what enables structural complexity.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260330-3C70` The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
 - `INS-260330-E786` Oxygen was a toxic waste byproduct of early photosynthesis that became the foundation of all animal life — the 'most useful useless byproduct in history.'
 - `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
-- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
-- `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
 - `INS-260325-0921` The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
 - `INS-260325-1F35` Quantum field theory underlies chemistry which underlies biology, but you cannot understand biology by studying quarks — each layer requires its own conceptual toolkit.
 - `INS-260326-3B43` Complexity in nature does not require complex causes — Rule 30 shows that trivially simple rules produce infinitely complex behavior.
 - `INS-260323-0780` The 'law of stability' in the primordial void: unstable configurations fall apart and vanish while stable ones endure long enough to combine into increasingly complex structures.
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
+- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260330-833E` Jeremy England proposes that life emerges because self-replicating structures are better at dissipating energy gradients than inert matter.
 - `INS-260403-65D2` Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
 - `INS-260325-486C` Adjacent numbers 26 and 27 in Collatz reach maximums of 40 and 9,232 respectively — simple rules create wildly divergent outcomes that no intuition can predict.
 - `INS-260330-84BD` The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.

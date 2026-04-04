@@ -1,6 +1,7 @@
 # Tag: competitive-dynamics
 
 - `INS-260327-C15B` Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
+- `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260327-1107` After nearly defeating Napoleon at Eylau, Bennigsen's Russian army became overconfident and advanced aggressively, allowing Napoleon to catch them with their backs to a river at Friedland.
 - `INS-260327-1576` BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
@@ -49,4 +50,5 @@
 - `INS-260330-C7DB` Rosalind Franklin's unpublished X-ray crystallography data was shown to Watson and Crick without her knowledge, enabling their model — a cautionary tale about sharing proprietary data without structural protection.
 - `INS-260327-CC05` In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
+- `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260329-1962` Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.

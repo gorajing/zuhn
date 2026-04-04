@@ -60,7 +60,7 @@ related:
   - INS-260329-78AE
   - INS-260330-990F
   - INS-260330-26E7
-  - INS-260403-0F95
+  - INS-260403-4363
 ---
 There's a fundamental asymmetry in persuasion: explicit self-promotion ('we're passionate,' 'our product is great') gets filtered out or actively triggers negative judgment, while the same message conveyed implicitly through behavior lands with full force. This is because audiences have well-calibrated bullshit detectors for direct claims but are much more susceptible to indirect signals.
 

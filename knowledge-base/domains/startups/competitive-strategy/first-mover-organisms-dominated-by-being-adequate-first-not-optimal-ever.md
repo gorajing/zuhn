@@ -58,7 +58,6 @@ related:
   - INS-260329-D37E
   - INS-260330-F0F2
   - INS-260403-330E
-  - INS-260403-19D8
 evidence:
   - id: INS-260325-5455
     type: CONTRADICTS

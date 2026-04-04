@@ -67,6 +67,7 @@
 - `INS-260403-A709` VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
 - `INS-260403-3482` Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
 - `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
+- `INS-260403-D7C4` Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6A55` Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
 - `INS-260403-A172` Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260403-39F9` Replace business model slides with stories of specific users and their inadequate current solutions — that's the 'proxy for demand' top investors actually look for.

@@ -50,9 +50,9 @@ related:
   - INS-260324-9E37
   - INS-260324-6345
   - INS-260324-468C
-  - INS-260323-0277
   - INS-260327-99DB
   - INS-260327-CA82
+  - INS-260403-58BB
 stance: >-
   NVIDIA chose gaming as its first market because it was large enough to fund
   massive R&D, creating a flywheel between technology investment and mark...

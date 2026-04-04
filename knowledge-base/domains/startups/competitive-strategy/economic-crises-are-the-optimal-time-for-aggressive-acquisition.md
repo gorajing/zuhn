@@ -56,7 +56,7 @@ related:
   - PRI-260328-8284
   - INS-260330-85C2
   - INS-260330-1FED
-  - INS-260323-8C53
+  - INS-260403-3D38
 ---
 Rockefeller's career featured a consistent pattern: every economic downturn accelerated his dominance. During the 1873 depression (which lasted 6 years), Standard Oil was one of the only profitable refiners thanks to modernized facilities, strong bank credit, and careful financial management. While competitors faced bankruptcy, Rockefeller launched a nationwide buyout campaign, acquiring refineries in Pittsburgh, Philadelphia, and New York at distressed prices.
 

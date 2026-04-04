@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260329-27DF
   - INS-260330-870B
+  - INS-260403-4960
   - INS-260403-DE45
   - INS-260330-990F
-  - INS-260323-92AD
 ---
 Graham observes that the few VCs he genuinely likes — Mike Moritz, John Doerr — work at the very top funds. His explanation mirrors a social-hierarchy dynamic: just as the most popular kids don't need to bully, the best VCs don't need to engage in the predatory behaviors that the fund model otherwise incentivizes. They get first pick of the best companies, which means their investments are more likely to succeed without heavy intervention.
 

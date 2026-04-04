@@ -45,10 +45,10 @@ stance: >-
   unexpected advantages.
 related:
   - INS-260323-8C53
+  - INS-260403-C949
   - INS-260403-7CAA
   - INS-260403-1C09
-  - PRI-260328-B11D
-  - INS-260402-E2AF
+  - INS-260403-25EE
   - INS-260327-EFA6
   - INS-260327-C68B
   - INS-260327-4C5E

@@ -55,15 +55,14 @@ stance: >-
   while explicitly stating passion or product quality triggers bullshit
   detection and actively undermines credibility.
 related:
-  - INS-260327-5688
   - INS-260329-B239
   - INS-260403-2F22
   - INS-260403-1B2D
-  - INS-260403-5C8E
   - INS-260403-DE45
   - INS-260403-48BF
+  - INS-260403-E4C6
   - INS-260403-2F4E
-  - INS-260403-915E
+  - INS-260403-5C8E
 ---
 Graham identifies a fundamental asymmetry in persuasion: for non-technical audiences who can't deeply evaluate your product, your own confidence becomes the single biggest piece of evidence. But this confidence must be shown, never told. Explicit claims ('we're passionate,' 'our product is great') trigger automatic skepticism — audiences discard these as meaningless or worse, mark you as someone who substitutes hype for substance.
 

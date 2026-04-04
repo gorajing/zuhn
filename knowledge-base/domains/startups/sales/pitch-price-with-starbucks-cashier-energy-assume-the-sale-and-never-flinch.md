@@ -55,10 +55,10 @@ stance: >-
   cashier) prevents the hesitation that triggers objections.
 related:
   - INS-260327-C79D
+  - INS-260403-4960
   - INS-260329-9F8D
   - INS-260403-F3FF
   - INS-260329-E900
-  - INS-260327-0595
 evidence:
   - id: INS-260327-C79D
     type: EXTENDS

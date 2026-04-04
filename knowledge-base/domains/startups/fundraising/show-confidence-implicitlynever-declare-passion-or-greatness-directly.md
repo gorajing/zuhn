@@ -52,7 +52,7 @@ related:
   - INS-260403-6E9F
   - INS-260403-1E82
   - INS-260403-A290
+  - INS-260403-E4C6
   - INS-260403-915E
-  - INS-260403-1B2D
 ---
 Graham argues that for early-stage startups, investor evaluation is largely a confidence-reading exercise because the audience lacks time and technical depth to fully assess the product. This makes self-assurance the single biggest piece of evidence. But the mechanism is strictly show-don't-tell: saying 'we're passionate' triggers a bullshit filter, while presenting as if you're doing investors a favor by sharing your work transmits genuine conviction. The underlying test Graham proposes is existential—if you don't believe investors would benefit from hearing about your startup, you should question whether you should be working on it at all. This is a specific instance of a broader persuasion principle: explicit self-praise triggers skepticism while implicit signals bypass it.

@@ -43,7 +43,6 @@ stance: >-
   fixed pie, and investors who think in zero-sum terms fundamentally
   misunderstand how technology works.
 related:
-  - INS-260322-03DD
   - INS-260327-33E0
   - INS-260328-F752
   - INS-260403-160A

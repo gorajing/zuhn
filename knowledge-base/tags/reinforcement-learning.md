@@ -11,6 +11,7 @@
 - `INS-260327-7C69` Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
 - `INS-260327-C4C8` RL went through a trough but is now the key capability multiplier because strong pretrained models finally provide the 'cake' that RL's 'cherries' can sit on top of.
 - `INS-260323-2651` Hotz argues that maximizing compression (cross-entropy) can never reach AGI because it produces 'mid' outputs — competent but never brilliant — and lacks the embodied feedback loops of human learning.
+- `INS-260403-5FD1` DeepSeek R1 achieves o1-level reasoning using pure RL instead of supervised fine-tuning with worked examples.
 - `INS-260322-3616` Supervised fine-tuning only changed tone and instruction-following; reinforcement fine-tuning lets companies train models to domain-expert level on their proprietary data, creating the first real moat from model customization.
 - `INS-260327-4CB3` Optimizing directly for outcomes via RL produces more flexible, capable agents than human-designed graphs of LLM calls.
 - `INS-260325-20C4` OpenAI's Deep Research team: reinforcement learning on outcomes (not supervised examples) is what enables genuine multi-step reasoning in agents.

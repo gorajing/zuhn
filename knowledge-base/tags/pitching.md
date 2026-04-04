@@ -37,7 +37,9 @@
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-3482` Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
 - `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
+- `INS-260403-D7C4` Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-C5C0` Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
+- `INS-260403-E4C6` Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, while implicit confidence through demeanor is the strongest signal.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260403-06E0` Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
@@ -48,6 +50,7 @@
 - `INS-260403-41FF` Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-2204` Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260403-D430` A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
+- `INS-260403-9AB3` Describe your startup narrowly and concretely rather than expansively, because all-encompassing descriptions carry no information.
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.

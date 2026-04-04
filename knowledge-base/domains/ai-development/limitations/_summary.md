@@ -1,6 +1,6 @@
 # Topic: limitations
 
-> 38 insights
+> 39 insights
 
 - `INS-260323-EECF` [high] The optical nerve delivers about 10^15 bytes to a 4-year-old's brain versus 2x10^13 bytes of all internet text used to train LLMs -- most human knowledge comes from sensory interaction with the physical world, not from language.
 - `INS-260330-C31B` [high] AI's constraints on scientific discovery are a subset of human constraints — both fail when data is sparse, but AI excels where data is abundant but patterns are too complex for human cognition.
@@ -32,6 +32,7 @@
 - `INS-260323-784B` [high] Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.
 - `INS-260323-7403` [high] Viral AI doom/boom essays like Citrini Research move stock markets despite containing no concrete mechanism for how AI replaces jobs — they describe what happens after AI works, never how.
 - `INS-260323-7BA4` [high] Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
+- `INS-260403-8302` [medium] Benchmark providers funded by AI companies they evaluate create structural conflicts of interest that erode trust in published scores.
 - `INS-260325-5A2F` [medium] Current drug discovery uses trial-and-error in Petri dishes because digital computers cannot model molecules natively -- quantum computers compute on atoms and could simulate diseases at the molecular level.
 - `INS-260325-3D31` [medium] Transistors are approaching 5 atoms across, where electrons hop freely via quantum tunneling and short-circuit the chip -- this physical limit will flatten Moore's Law.
 - `INS-260323-FE69` [medium] Acemoglu predicts only 5% of tasks will be profitably automated and no current occupation will disappear within 5-10 years, because every occupation embeds complex tacit knowledge.

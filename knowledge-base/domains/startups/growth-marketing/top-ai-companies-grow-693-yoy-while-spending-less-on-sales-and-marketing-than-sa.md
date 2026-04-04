@@ -56,9 +56,9 @@ resolutions:
 related:
   - INS-260324-A9DF
   - PRI-260322-8FD4
+  - INS-260403-D49B
   - PRI-260321-05B5
   - INS-260321-B7CB
-  - INS-260328-17D7
   - INS-260327-12BE
 stance: >-
   The fastest AI companies reach $100M revenue significantly faster than SaaS

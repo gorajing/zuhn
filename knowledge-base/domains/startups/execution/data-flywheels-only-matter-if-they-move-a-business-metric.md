@@ -47,7 +47,6 @@ stance: >-
   is either nonexistent or irrelevant, regardless of how much data you collect.
 related:
   - INS-260325-3B28
-  - INS-260327-6D57
   - INS-260403-3837
   - INS-260327-956D
   - INS-260403-DE45

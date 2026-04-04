@@ -41,10 +41,10 @@ stance: >-
   obsolescence.
 related:
   - INS-260324-72E8
+  - INS-260403-3D38
   - INS-260327-DD1D
   - PRI-260328-1A2D
   - INS-260327-747B
-  - INS-260325-C2DA
 evidence:
   - id: INS-260327-747B
     type: TRANSFERS_TO

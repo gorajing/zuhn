@@ -51,13 +51,12 @@ resolutions:
     isn't willpower at the moment of the big test — it's zero tolerance for the
     first small compromise.
 related:
-  - INS-260322-2D2F
   - INS-260323-FFAC
   - INS-260330-90C3
   - INS-260330-22D6
   - INS-260330-636E
+  - INS-260322-2D2F
   - INS-260330-FC9F
-  - INS-260330-A14D
   - INS-260330-D6EF
 stance: Cox's first fraud (whiting out a late payment) didn't satisfy the urge
 evidence:

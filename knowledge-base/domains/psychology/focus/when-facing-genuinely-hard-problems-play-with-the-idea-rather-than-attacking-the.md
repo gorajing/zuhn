@@ -49,7 +49,6 @@ stance: >-
   Undirected exploration of a hard problem's structure is more productive than
   goal-directed attempts to solve it.
 related:
-  - INS-260325-6FA7
   - INS-260325-F6AF
   - INS-260330-1E5E
   - INS-260327-482E

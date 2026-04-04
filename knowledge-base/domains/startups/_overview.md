@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3123 insights across 34 topics
+> 3140 insights across 34 topics
 
 ## Topics
 
@@ -10,16 +10,16 @@
 | bootstrapping | 34 | Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset. |
 | business-models | 165 | Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable. |
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
-| communication | 18 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
-| competitive-strategy | 471 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
+| communication | 19 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
+| competitive-strategy | 472 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 35 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | engineering | 29 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
-| execution | 214 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
-| founder-mindset | 302 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
+| execution | 216 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
+| founder-mindset | 303 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
 | founder-psychology | 52 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
-| fundraising | 194 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
-| growth | 64 | Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve. |
+| fundraising | 202 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
+| growth | 65 | Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve. |
 | growth-marketing | 128 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
 | growth-strategy | 60 | Before exploring new growth channels, exhaust 10x potential in your current working channel first. |
 | health-innovation | 13 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
@@ -38,5 +38,5 @@
 | sales | 179 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
 | scaling | 131 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | strategy | 192 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
-| timing | 50 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 122 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| timing | 51 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
+| validation | 124 | Pretty much 100% of startups that make something popular manage to make money from it. |

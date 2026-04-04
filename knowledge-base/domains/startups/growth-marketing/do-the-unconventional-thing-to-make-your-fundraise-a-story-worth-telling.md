@@ -47,11 +47,11 @@ stance: >-
   something so unconventional that the fundraise itself becomes a story that
   generates press and investor inbound.
 related:
+  - INS-260403-D7C4
   - INS-260327-7E3D
   - PRI-260403-26B9
   - INS-260403-86DB
   - INS-260403-7E27
-  - INS-260403-1287
 ---
 Johnson didn't just raise $3.1M—he did it in 14 days as a 21-year-old Yale junior, making it 'the largest round of any startup currently in the Ivy League.' The unconventional approach (a Yale student building an AI social app, raising the biggest Ivy League round) created a story that generated its own momentum.
 

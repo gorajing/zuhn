@@ -48,7 +48,7 @@ related:
   - INS-260403-D328
   - INS-260403-D972
   - INS-260403-6713
+  - INS-260403-C949
   - INS-260326-967C
-  - INS-260403-78B7
 ---
 Graham makes a crucial observation: founders who get contacted by corp dev usually already know what it means and know they don't want to sell — yet they take the meeting anyway. This reveals that the failure mode isn't informational but emotional. The 'denial and wishful thinking' cocktail is the same force behind most founder mistakes. Flattery (someone important wants to buy you) combines with optimism bias (maybe the offer will be surprisingly high) to override rational analysis. This has broad implications for founder decision-making: the most dangerous decisions aren't the ones where you lack information, but where you have correct information that your emotions override. Building personal systems that pre-commit you to rational action before the emotional trigger arrives — like Graham's 'never take the first meeting' rule — is more effective than relying on in-the-moment willpower.

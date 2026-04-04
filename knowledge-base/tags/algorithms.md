@@ -1,9 +1,9 @@
 # Tag: algorithms
 
 - `INS-260325-0409` QJL achieves zero-overhead error correction by spending just 1 bit on residual bias elimination rather than distributing precision uniformly — a principle applicable beyond quantization.
+- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260329-8181` Evaluate data structures by amortized cost across operation sequences, not just worst-case single operations.
 - `INS-260329-A8D3` Combining a hash table with a binary heap improves node removal from O(n) to O(log n) — a pattern that generalizes across all system design.
-- `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260330-3260` Saying 'Hitler was bad' doesn't get algorithmic boost, but novel contrarian revisionism does — creating structural incentives for misinformation.
 - `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.

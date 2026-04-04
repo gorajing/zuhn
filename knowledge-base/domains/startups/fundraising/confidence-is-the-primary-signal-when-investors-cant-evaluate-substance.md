@@ -50,16 +50,16 @@ stance: >-
   product, your own visible confidence becomes the single biggest piece of
   evidence they use to judge you.
 related:
-  - INS-260321-3521
   - INS-260327-6725
-  - INS-260328-D866
   - INS-260330-1002
   - INS-260402-4719
   - INS-260403-915E
+  - INS-260321-3521
   - INS-260402-E140
   - INS-260403-047B
   - INS-260403-5EB4
   - INS-260403-C96F
+  - INS-260403-CEC0
 ---
 Graham identifies an asymmetry in investor pitches: founders who are bad at explaining talk to investors who are bad at understanding. Given brief time and limited technical background, investors fall back on meta-signals—chiefly, whether the founders themselves seem genuinely impressed by what they've built.
 

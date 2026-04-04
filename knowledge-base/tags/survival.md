@@ -13,8 +13,10 @@
 - `INS-260327-125F` At one point his bank account was under $100 and he lived in a tiny room with mice — that willingness to endure extreme frugality gave Presto the runway to survive 5 years with zero revenue.
 - `INS-260403-30E5` When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - `INS-260403-9A4C` Most startups die from giving up, not from insurmountable external forces.
+- `INS-260403-4A2F` The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
 - `INS-260403-ADB3` Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - `INS-260403-0551` No matter how strong your growth, never treat fundraising as guaranteed — always have a written plan B specifying exactly what you'll cut and when you'll switch.
+- `INS-260403-7D04` Paul Graham identifies ramen profitability — enough revenue to cover founders' basic living costs — as the most important startup threshold because it means you no longer need investors' permission to continue existing.
 - `INS-260403-A57D` Expecting to raise more money makes startups slack on profitability, which makes raising money harder.
 - `INS-260330-97F6` In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.

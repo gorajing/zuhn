@@ -42,11 +42,11 @@ resolutions:
     start to capturing 18.3% of all venture capital raised in the US in 2025 —
     from an upstart to the largest player in the industry.
 related:
+  - INS-260403-776C
   - INS-260322-9DDD
   - INS-260322-0C91
   - INS-260327-33E0
   - INS-260403-A57D
-  - INS-260328-A417
 stance: >-
   a16z was criticized for raising their first fund in 2009 during the financial
   crisis, but it turned out that raising when nobody else has capital g...

@@ -47,10 +47,10 @@ stance: >-
   survival threat into a negotiation from strength
 related:
   - INS-260330-08FA
+  - INS-260403-7D04
   - INS-260403-1287
   - PRI-260403-26B9
   - INS-260403-A57D
-  - INS-260330-B09B
 ---
 Paul Graham identifies a phase transition in startup dynamics: when a company crosses from burning cash to covering founders' basic living expenses (even at trivially small revenue like $2K/month), the entire fundraising dynamic flips. Investors are drawn to startups that don't need them, because the qualities that produce self-sufficiency — discipline, frugality, revenue focus — are the same qualities that predict long-term success.
 

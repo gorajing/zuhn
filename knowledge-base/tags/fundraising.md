@@ -12,6 +12,7 @@
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260327-4B5A` Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
+- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
@@ -19,6 +20,7 @@
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260402-E522` The only real leverage in fundraising is genuinely not needing the deal, which requires the kind of determination that can't be faked.
+- `INS-260403-4960` Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
 - `INS-260330-DEBC` Email all investors simultaneously but schedule meetings three weeks out during the same week — this creates deal heat, signals you're not desperate, and keeps fundraising from dragging on.
 - `INS-260330-6900` Tell investors you're too busy building to meet for 2-3 weeks, then schedule all meetings in one concentrated week to create competition and signal confidence.
 - `INS-260403-AC74` Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
@@ -45,6 +47,7 @@
 - `INS-260330-404B` A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
 - `INS-260330-376E` Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
 - `INS-260402-421B` Prolonged investor indecision is more lethal to startups than outright rejection because it consumes months while the company stagnates.
+- `INS-260403-C8A9` Investor interest compounds exponentially because each commitment makes others more likely to invest.
 - `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.
 - `INS-260330-975D` Lower-tier VCs are hungrier and offer better terms, but have up to 50% term sheet breakage rates and less reputation to protect.
 - `INS-260403-78B7` Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
@@ -55,6 +58,7 @@
 - `INS-260330-1002` Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260322-0C91` Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
 - `INS-260322-A31D` Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
+- `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
 - `INS-260403-B9A9` Minimal profitability removes investors' ability to exploit founders' desperation for capital.
 - `INS-260402-3D61` Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
 - `INS-260403-1034` Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
@@ -73,7 +77,6 @@
 - `INS-260330-478B` Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
 - `INS-260403-1949` Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
-- `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260330-7B1C` The real strategy stack is financing → distribution → product, not the other way around.

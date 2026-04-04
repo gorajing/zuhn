@@ -34,6 +34,7 @@
 - `INS-260330-420D` Monopolists frame themselves in huge markets (Google calls itself a 'technology company' in a $1T market) while struggling competitors claim tiny intersections ('the only British food restaurant in Palo Alto').
 - `INS-260330-F527` Monopolists describe their market as the union of many markets to appear competitive, while competitors describe theirs as the intersection of niches to appear unique — making the real difference invisible.
 - `INS-260330-DC5E` The Cambrian explosion was triggered not by new resources but by predation — eyes, claws, and shells evolved as arms-race responses, producing more innovation in millions of years than billions of years of resource competition.
+- `INS-260403-C949` Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - `INS-260403-FE00` Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260323-6D41` In evolutionary simulations, winning replicators consistently had the highest replication rate and lowest death rate -- speed of copying is the dominant competitive advantage.
 - `INS-260330-3ECE` Rosalind Franklin's open data-sharing with Watson and Crick directly enabled them to claim credit for the DNA double helix discovery.

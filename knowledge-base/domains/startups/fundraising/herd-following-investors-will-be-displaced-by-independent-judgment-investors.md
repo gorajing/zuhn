@@ -48,7 +48,7 @@ related:
   - INS-260329-4B45
   - INS-260327-6E93
   - INS-260327-5DD2
-  - INS-260327-C083
+  - INS-260403-D49B
 ---
 Graham describes how most investors rely on herd signals—they invest if others want in, and pass if others pass. As founders gain leverage, they can increasingly punish this behavior by giving priority to investors who commit unilaterally. Herd-followers get last place in line, which in oversubscribed rounds means missing the deal entirely.
 

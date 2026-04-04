@@ -51,12 +51,13 @@ stance: >-
   there is no coordination between investors, no single gatekeeper, criteria are
   publicly known, and investors are more accessible than ever.
 related:
-  - INS-260321-3521
   - INS-260328-4EA0
   - INS-260403-FAFA
+  - INS-260321-3521
   - INS-260403-B2EB
   - PRI-260403-26B9
   - INS-260330-E414
+  - INS-260403-47B7
 evidence:
   - id: INS-260330-E414
     type: CONTRADICTS

@@ -52,7 +52,7 @@ related:
   - INS-260403-C737
   - PRI-260328-B2EA
   - PRI-260323-8EEA
-  - INS-260327-B18F
+  - INS-260403-EA2D
 ---
 There is a well-documented gap between what customers say they will do and what they actually do. Entrepreneurs who treat interview enthusiasm as validation skip the critical step of testing willingness to pay. The fix is to design experiments with real commitment signals — pre-orders, letters of intent, waitlist deposits — before investing in full product development.
 

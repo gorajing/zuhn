@@ -4,8 +4,8 @@ Generated on 2026-04-04 | 2421 sources
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
 | Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 206 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 115 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 93 | 2026-03-31 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 120 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 98 | 2026-03-31 |
 | How to Do Great Work | blog | 46 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
@@ -146,8 +146,8 @@ Generated on 2026-04-04 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -199,10 +199,10 @@ Generated on 2026-04-04 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
@@ -241,8 +241,8 @@ Generated on 2026-04-04 | 2421 sources
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
@@ -454,6 +454,7 @@ Generated on 2026-04-04 | 2421 sources
 | The 9 Habits of Ultra-Fast Iterations | blog | 5 | 2026-03-31 |
 | The Age of the Essay | blog | 5 | 2026-03-31 |
 | The AI-First Marketplace | blog | 5 | 2026-03-31 |
+| The Airbnbs | blog | 5 | 2026-03-31 |
 | The Best Essay | blog | 5 | 2026-03-31 |
 | The Billion-Dollar Startup Formula: Why AI-Driven Small Teams Are Beating Giants | blog | 5 | 2026-03-30 |
 | The Brand Age | blog | 5 | 2026-03-31 |
@@ -469,6 +470,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Fatal Pinch | blog | 5 | 2026-03-31 |
 | The First On-Chain Yield Engine Bringing Institutional Yield Opportunities to Everyday Investors | blog | 5 | 2026-03-30 |
 | The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
+| The Founders Fund Story🔥, YC Investing Patterns📊, AI in the Enterprise🔍 | blog | 5 | 2026-03-30 |
 | The Future of Startup Funding | blog | 5 | 2026-03-31 |
 | The Future of Web Startups | blog | 5 | 2026-03-31 |
 | The Go-To Pricing Guide for Early-Stage Founders + Toolkit | blog | 5 | 2026-03-30 |
@@ -840,6 +842,7 @@ Generated on 2026-04-04 | 2421 sources
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
 | Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
+| Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 4 | 2026-03-30 |
 | Fierce Nerds | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
@@ -862,6 +865,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
+| Investor Herd Dynamics | blog | 4 | 2026-03-31 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
 | Is There Such a Thing as Good Taste? | blog | 4 | 2026-03-31 |
@@ -934,9 +938,11 @@ Generated on 2026-04-04 | 2421 sources
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
+| Why Starting With Solutions Always Fails | blog | 4 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
 | Why There Aren't More Googles | blog | 4 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 4 | 2026-03-31 |
+| Why to Start a Startup in a Bad Economy | blog | 4 | 2026-03-31 |
 | Why TV Lost | blog | 4 | 2026-03-31 |
 | Writing and Speaking | blog | 4 | 2026-03-31 |
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
@@ -1095,6 +1101,7 @@ Generated on 2026-04-04 | 2421 sources
 | The World's Most Important Machine | youtube | 4 | 2026-03-23 |
 | This coach teaches tech sales mentality hacks | youtube | 4 | 2026-03-27 |
 | This Common Substance Was Once Worth Millions | youtube | 4 | 2026-03-23 |
+| This free Chinese AI just crushed OpenAI's $200 o1 model... | youtube | 4 | 2026-03-30 |
 | This Is Why Trump Cheats at Golf | youtube | 4 | 2026-03-30 |
 | This Paradox Splits Smart People 50/50 | youtube | 4 | 2026-03-23 |
 | Training General Robots for Any Task: Physical Intelligence’s Karol Hausman and Tobi Springenberg | youtube | 4 | 2026-03-26 |
@@ -2088,7 +2095,6 @@ Generated on 2026-04-04 | 2421 sources
 | Elon Musk’s xAI raises Monster $6B Series B for AI Supercomputer and Grok 3 | blog | 0 | 2026-03-30 |
 | EU and US to work together on AI guidelines🤖, YC's Secret SAFE📜, Climate Risk Landscape🌍 | blog | 0 | 2026-03-30 |
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
-| Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 0 | 2026-03-30 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
 | February 2025 Startups Raising Capital | blog | 0 | 2026-03-30 |
@@ -2154,7 +2160,6 @@ Generated on 2026-04-04 | 2421 sources
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
-| Investor Herd Dynamics | blog | 0 | 2026-03-31 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
 | Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 0 | 2026-03-30 |
 | Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 0 | 2026-03-30 |
@@ -2258,7 +2263,6 @@ Generated on 2026-04-04 | 2421 sources
 | The 60-year-old code behind $5 trillion in healthcare | blog | 0 | 2026-03-30 |
 | The Agrifoodtech Effect 🍽️ | blog | 0 | 2026-03-30 |
 | The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
-| The Airbnbs | blog | 0 | 2026-03-31 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
 | The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
@@ -2272,7 +2276,6 @@ Generated on 2026-04-04 | 2421 sources
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
-| The Founders Fund Story🔥, YC Investing Patterns📊, AI in the Enterprise🔍 | blog | 0 | 2026-03-30 |
 | The Free Founder OS: 58 Templates + 10,000 Investor List | blog | 0 | 2026-03-30 |
 | The future isn't what it used to be | blog | 0 | 2026-03-30 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
@@ -2373,8 +2376,6 @@ Generated on 2026-04-04 | 2421 sources
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 0 | 2026-03-31 |
-| Why Starting With Solutions Always Fails | blog | 0 | 2026-03-30 |
-| Why to Start a Startup in a Bad Economy | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |
@@ -2416,7 +2417,6 @@ Generated on 2026-04-04 | 2421 sources
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
 | The most unexpected answer to a counting puzzle | youtube | 0 | 2026-03-30 |
-| This free Chinese AI just crushed OpenAI's $200 o1 model... | youtube | 0 | 2026-03-30 |
 | This new AI is powerful and uncensored… Let’s run it | youtube | 0 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 0 | 2026-03-30 |

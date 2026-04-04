@@ -47,10 +47,10 @@ resolutions:
     tobacco, opioids, and other industries.
 related:
   - INS-260330-DE65
+  - INS-260403-8302
   - INS-260330-A84D
   - INS-260323-F62A
   - INS-260326-3E19
-  - PRI-260328-37D8
 stance: >-
   Asbestos companies funded Saranac Labs research with a clause giving them
   editorial control, then buried findings that showed cancer links.

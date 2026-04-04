@@ -52,7 +52,7 @@ related:
   - INS-260403-A57D
   - INS-260402-E140
   - INS-260326-870E
-  - INS-260403-E319
+  - INS-260403-25EE
 ---
 YC's strongest signal for founder quality is earnestness — genuine interest in the problem for its own sake, not the rewards of solving it. When motives are modeled as vectors, earnestness means both the direction (right reasons) and magnitude (maximum effort) are correct, and these reinforce each other: people trying to solve problems they genuinely care about simply try harder.
 

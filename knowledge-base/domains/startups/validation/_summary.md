@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 122 insights
+> 124 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -25,6 +25,7 @@
 - `INS-260403-113D` [high] Separate customer observation from solution design by temporarily forgetting what you offer.
 - `INS-260403-CBC7` [high] Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
 - `INS-260403-FBF0` [high] Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built.
+- `INS-260403-39F6` [high] When the Airbnb founders personally photographed hosts' apartments in New York, they didn't just improve listings — they discovered that hosts were in the same financial desperation they were, which deepened their mission.
 - `INS-260403-C96F` [high] When there's no product or traction data, the founders themselves are the entire investment thesis.
 - `INS-260329-34A9` [high] Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
 - `INS-260323-2726` [high] Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.
@@ -67,6 +68,7 @@
 - `INS-260330-5A0A` [high] Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
 - `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
 - `INS-260403-EA8C` [high] Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
+- `INS-260403-EA2D` [high] Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 - `INS-260403-DC32` [high] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
 - `INS-260403-0803` [high] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.

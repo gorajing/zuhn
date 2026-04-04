@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 214 insights
+> 216 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -74,6 +74,7 @@
 - `INS-260403-9E63` [high] RuBisCo has been suboptimal for hundreds of millions of years but remains universal because every downstream plant process depends on it.
 - `INS-260403-3346` [high] Operational competence earns the trust needed for strategic ambition.
 - `INS-260403-3058` [high] Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
+- `INS-260403-71D1` [high] YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - `INS-260329-62C1` [high] As an employer of nearly a thousand people, Hormozi says his companies never look at degree, school, or GPA — only experience and likelihood of job performance.
 - `INS-260330-EBFD` [high] Glycolysis must invest 2 ATP to generate 4 ATP — even biology requires spending resources before earning returns.
 - `INS-260402-70FD` [high] Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.
@@ -153,6 +154,7 @@
 - `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
 - `INS-260329-E6DB` [high] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
 - `INS-260403-9A4C` [high] Most startups die from giving up, not from insurmountable external forces.
+- `INS-260403-4A2F` [high] The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
 - `INS-260403-906E` [high] Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
 - `INS-260403-A14B` [high] Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260329-818A` [high] HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.

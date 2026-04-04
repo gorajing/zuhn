@@ -46,11 +46,11 @@ stance: >-
   borderline inappropriate things like chasing investors to their cars, because
   shameless urgency signals genuine conviction.
 related:
+  - INS-260403-4960
   - INS-260330-1002
   - PRI-260328-E53E
   - INS-260402-3D61
   - INS-260403-2F22
-  - INS-260325-9AD4
 evidence:
   - id: INS-260325-9AD4
     type: CHALLENGES

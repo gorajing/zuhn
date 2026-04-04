@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3568 actionable insights
+Generated on 2026-04-04 | 3585 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -108,6 +108,7 @@ Generated on 2026-04-04 | 3568 actionable insights
 - [INS-260327-7C69] Cursor built a decisive competitive advantage by using its own IDE as an RL environment to post-train models, a pattern every AI company should adopt.
 - [INS-260327-C15B] Anthropic subsidizing Claude Code with model profits creates pricing pressure that independent coding tool startups cannot match, forcing them to compete on product quality rather than cost.
 - [INS-260327-BEFF] There is no internet-scale robot action data; community platforms that aggregate diverse robotic datasets from thousands of contributors will be the critical enabler for physical AI scaling.
+- [INS-260403-8A65] DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
 
 ## ai-development/alignment
 - [INS-260322-F65F] AI outputs sound so complete and reasonable that users may believe they have the full picture on controversial topics — deliberately seeking opposing viewpoints is essential to counteract this.
@@ -1913,6 +1914,7 @@ Generated on 2026-04-04 | 3568 actionable insights
 - [INS-260403-8C50] Sequoia's 'proxy for demand' — people using bad tools to do the thing you enable — is the strongest antidote to investors' biggest early-stage fear.
 - [INS-260403-66D0] Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
 - [INS-260403-BFD1] The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
+- [INS-260403-F7DD] Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2108,6 +2110,7 @@ Generated on 2026-04-04 | 3568 actionable insights
 - [INS-260403-D328] Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.
 - [INS-260403-9E2D] A unique market wedge gets you in the door, but lasting defensibility requires stacking multiple moat types over time.
 - [INS-260403-7E95] Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
+- [INS-260403-C949] Recessions reduce startup competition because most potential founders irrationally wait for better times.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2329,6 +2332,8 @@ Generated on 2026-04-04 | 3568 actionable insights
 - [INS-260403-4050] Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
 - [INS-260403-D746] Meeting damage extends far beyond the meeting itself through anticipation and fragmentation of work blocks.
 - [INS-260403-E255] Clustering meetings at day's end converts interruptions into bounded schedule compression without fragmenting deep work blocks.
+- [INS-260403-71D1] YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
+- [INS-260403-4A2F] The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2697,6 +2702,14 @@ Generated on 2026-04-04 | 3568 actionable insights
 - [INS-260403-6A55] Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
 - [INS-260403-74EA] Founders should describe their startup as narrowly as possible rather than gesturing at everything it could become.
 - [INS-260403-F8FF] Demonstrate demand by showing the awkward workarounds people currently use, not by citing market size statistics.
+- [INS-260403-4960] Tell investors truthfully about competing interest to create real urgency, but never exaggerate — investors are hypersensitive to manipulation.
+- [INS-260403-C8A9] Investor interest compounds exponentially because each commitment makes others more likely to invest.
+- [INS-260403-776C] You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
+- [INS-260403-7D04] Paul Graham identifies ramen profitability — enough revenue to cover founders' basic living costs — as the most important startup threshold because it means you no longer need investors' permission to continue existing.
+- [INS-260403-3D38] Founders are investors buying stock with work, so downturns represent the same buying opportunity for them as for financial investors.
+- [INS-260403-D7C4] Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
+- [INS-260403-E4C6] Never say 'we're passionate' or 'our product is great'—audiences ignore or penalize explicit self-promotion, while implicit confidence through demeanor is the strongest signal.
+- [INS-260403-9AB3] Describe your startup narrowly and concretely rather than expansively, because all-encompassing descriptions carry no information.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2740,6 +2753,7 @@ Generated on 2026-04-04 | 3568 actionable insights
 - [INS-260403-D2A9] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 - [INS-260403-1DE4] Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - [INS-260403-0435] Costco's bare warehouse layout and confusing aisles make customers feel like deal-hunters rather than budget shoppers, similar to how IKEA's DIY model creates customer pride.
+- [INS-260403-D49B] Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -3628,6 +3642,7 @@ Generated on 2026-04-04 | 3568 actionable insights
 - [INS-260403-4E7A] Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
 - [INS-260403-7219] The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
 - [INS-260403-93A5] Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
+- [INS-260403-25EE] Founder quality overwhelms economic conditions as a predictor of startup success.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
@@ -3738,6 +3753,8 @@ Generated on 2026-04-04 | 3568 actionable insights
 - [INS-260403-113D] Separate customer observation from solution design by temporarily forgetting what you offer.
 - [INS-260403-CBC7] Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
 - [INS-260403-6342] Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
+- [INS-260403-39F6] When the Airbnb founders personally photographed hosts' apartments in New York, they didn't just improve listings — they discovered that hosts were in the same financial desperation they were, which deepened their mission.
+- [INS-260403-EA2D] Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

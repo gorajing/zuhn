@@ -52,11 +52,11 @@ related:
   - INS-260327-7E3D
   - INS-260402-3FC5
   - INS-260402-5974
+  - INS-260403-47B7
   - INS-260403-696C
   - INS-260402-EA72
   - PRI-260403-26B9
   - INS-260330-EE5E
-  - INS-260403-7E27
 ---
 As startup costs have dropped, the optimal funding amount for many early-stage companies has shifted to $250K-$500K — too large for typical accelerator grants, too small for VC firms designed to deploy large funds. This gap is mostly filled by individual angel investors who treat it as a part-time activity, leaving enormous unmet demand. Graham proposed that VCs make five $400K investments instead of one $2M investment, accepting less due diligence and fewer board seats in exchange for exposure to more shots on goal at lower valuations.
 

@@ -51,7 +51,6 @@ stance: >-
   loop where one side attacks and the other embraces, making true independence
   structurally impossible
 related:
-  - INS-260327-418E
   - INS-260403-D8A2
   - INS-260327-7D63
   - INS-260323-5106

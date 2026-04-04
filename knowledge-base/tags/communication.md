@@ -2,8 +2,8 @@
 
 - `INS-260329-560D` AI app builders fail not because the AI is weak, but because users cannot articulate what they want with sufficient precision.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - `INS-260403-9669` Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.
@@ -11,8 +11,8 @@
 - `INS-260403-2B1D` The skills that make someone a great speaker are often orthogonal or opposed to the skills that generate good ideas.
 - `INS-260330-5A9E` Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
 - `INS-260403-6652` Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
-- `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
+- `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-6F6D` The Pioneer plaque's arrow symbol — obvious to humans who hunted with projectiles — may be meaningless or misleading to an alien intelligence, revealing how deeply cultural assumptions embed in supposedly universal designs.
 - `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
@@ -45,9 +45,9 @@
 - `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
-- `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
 - `INS-260325-F1BC` Matt Jones's containment principle: uncontained conflict contaminates execution — schedule a specific time and space for processing disagreements instead of reacting immediately.
+- `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - `INS-260403-85F1` Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - `INS-260330-D511` Anatomy's elaborate directional vocabulary exists because vague descriptions like 'achey belly' are useless for surgical precision — shared terminology is coordination infrastructure.
 - `INS-260403-07C1` Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
@@ -67,6 +67,7 @@
 - `INS-260403-9679` Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-41FF` Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-D430` A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
+- `INS-260403-9AB3` Describe your startup narrowly and concretely rather than expansively, because all-encompassing descriptions carry no information.
 - `INS-260403-74EA` Founders should describe their startup as narrowly as possible rather than gesturing at everything it could become.
 - `INS-260403-6712` As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.

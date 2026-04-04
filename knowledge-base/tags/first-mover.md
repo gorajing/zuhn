@@ -24,6 +24,7 @@
 - `INS-260330-3897` Thiel calculated that 75% of PayPal's value in 2001 came from cash flows in 2011 and beyond — you want to be the last mover who wins the game, not the first mover who gets a one-third pawn advantage.
 - `INS-260403-262F` RuBisCo is a terrible enzyme that dominates all plant life because evolution went all-in before oxygen made it obsolete, illustrating how early commitment to mediocre solutions creates irreversible lock-in.
 - `INS-260330-B468` Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
+- `INS-260403-C949` Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - `INS-260330-3EE4` RuBisCo is terrible at distinguishing CO2 from O2 but dominates because plants went all-in before the environment changed, illustrating how early adoption creates irreversible lock-in.
 - `INS-260330-0E1E` RuBisCo is a slow, error-prone enzyme that life committed to early and now cannot replace despite 40 billion tons of it being needed to compensate for its inefficiency.
 - `INS-260330-4C3A` RuBisCo is a terrible enzyme that plants can never replace because their entire metabolism depends on it — a biological case study in permanent lock-in from early architectural decisions.

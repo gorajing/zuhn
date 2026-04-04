@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 64 insights
+> 65 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -15,6 +15,7 @@
 - `INS-260330-DE80` [high] Apple pivoted its growth narrative from iPhone unit sales to ecosystem ARPU (services, accessories, subscriptions) once smartphone saturation made unit growth impossible.
 - `INS-260330-D487` [high] Dedicate 100% of growth effort to a single channel per week to get clean signal on whether it works before moving on.
 - `INS-260330-323E` [high] Test one growth channel at a time with full dedication for a week; only move on when you have a clear signal it works or doesn't.
+- `INS-260403-D49B` [high] Airbnb broke through by focusing exclusively on New York City — their highest-demand market — and doing things that don't scale there first.
 - `INS-260330-7C05` [high] Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260402-7FF5` [high] Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260330-A949` [high] If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.

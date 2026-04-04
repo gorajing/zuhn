@@ -1,0 +1,64 @@
+---
+id: INS-260403-47B7
+domain: psychology
+topic: cognitive-biases
+title: >-
+  Mediocre decision-makers default to social proof when evaluation is genuinely
+  hard
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - social-proof
+  - decision-making
+  - information-cascades
+  - expertise
+sources:
+  - type: blog
+    title: Investor Herd Dynamics
+    url: 'https://paulgraham.com/herd.html'
+date_extracted: '2026-04-03'
+last_accessed: null
+access_count: 0
+indexed: true
+embedded: true
+embedding_model: nomic-embed-text
+resolutions:
+  one_line: >-
+    Mediocre investors defer to other investors' interest because they know they
+    can't judge startups well independently.
+  standard: >-
+    Graham observes that judging startups is hard even for the best investors,
+    so mediocre ones are essentially flipping coins. When they see other
+    investors interested, they rationally conclude there must be signal in that
+    consensus. This isn't laziness — it's an accurate self-assessment of their
+    own judgment quality.
+
+
+    This pattern generalizes beyond investing: whenever evaluation difficulty
+    exceeds evaluator skill, social proof becomes the dominant decision input.
+    Hiring managers copying other companies' hiring patterns, VCs following lead
+    investors, and consumers following review scores all reflect the same
+    mechanism. The implication is that expertise is the only real defense
+    against information cascades — the best investors aren't influenced much by
+    others precisely because averaging others' judgment would dilute their own.
+stance: >-
+  When a judgment task exceeds an evaluator's skill level, they substitute
+  social proof for independent analysis, and this substitution is rational given
+  their calibration.
+related:
+  - INS-260321-3521
+  - INS-260328-03BB
+  - INS-260330-478B
+  - INS-260330-376E
+  - INS-260402-421B
+  - INS-260403-F447
+  - INS-260403-04C9
+  - INS-260403-0680
+  - INS-260330-EE5E
+  - INS-260328-F301
+---
+Graham observes that judging startups is hard even for the best investors, so mediocre ones are essentially flipping coins. When they see other investors interested, they rationally conclude there must be signal in that consensus. This isn't laziness — it's an accurate self-assessment of their own judgment quality.
+
+This pattern generalizes beyond investing: whenever evaluation difficulty exceeds evaluator skill, social proof becomes the dominant decision input. Hiring managers copying other companies' hiring patterns, VCs following lead investors, and consumers following review scores all reflect the same mechanism. The implication is that expertise is the only real defense against information cascades — the best investors aren't influenced much by others precisely because averaging others' judgment would dilute their own.

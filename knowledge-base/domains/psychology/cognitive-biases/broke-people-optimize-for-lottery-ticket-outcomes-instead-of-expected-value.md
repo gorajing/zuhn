@@ -50,7 +50,6 @@ related:
   - INS-260327-DAA4
   - INS-260403-147C
   - INS-260323-53FF
-  - INS-260330-3899
 evidence:
   - id: INS-260326-6B98
     type: TRANSFERS_TO

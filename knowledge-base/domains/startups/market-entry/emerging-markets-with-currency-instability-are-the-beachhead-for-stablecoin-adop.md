@@ -59,7 +59,7 @@ related:
   - INS-260402-15A7
   - INS-260403-99DE
   - INS-260403-A87D
-  - INS-260403-3518
+  - INS-260403-D49B
 ---
 The strongest product-market fit for stablecoins exists in countries where local currency loses 20-30% of value monthly and where physical dollar access is restricted by currency controls and transfer limits. Venezuela's 65,000% inflation rate in 2018 illustrates the extreme end of this demand curve. People in these markets don't need to be convinced of stablecoins' value — they're already desperately seeking dollar access.
 

@@ -49,8 +49,8 @@ related:
   - INS-260327-AEC2
   - INS-260327-F417
   - INS-260322-D69E
+  - INS-260403-39F6
   - INS-260403-6279
-  - INS-260323-B0EA
 ---
 Graham describes a pattern of speed over polish at every stage: deciding to start YC during a single walk home, recruiting co-founders within days, launching the Summer Founders Program fast because 'students would already be making plans,' and moving to California in a last-minute decision with barely enough time to get space — founders had to avoid touching wet-painted walls at the first dinner.
 

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 471 insights
+> 472 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -305,6 +305,7 @@
 - `INS-260403-36D8` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
 - `INS-260403-5BBC` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
+- `INS-260403-C949` [high] Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
 - `INS-260403-D328` [high] Saying no to corp dev meetings signals confidence and reminds acquirer founders of their own early discipline.

@@ -11,10 +11,6 @@
 - `INS-260327-2387` Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260327-DB8F` PMF is not strategy—it's the volume of genuine user conversations you have.
 - `INS-260327-1996` Conrad says Rippling took two years to start working, but he had zero doubt it would — so his entire job was preventing the team from quitting before they got there.
-- `INS-260330-3E0B` Plot percent monthly active vs days-from-acquisition; if the curve slopes to zero, fix the product before investing in growth.
-- `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
-- `INS-260330-37F6` Plot percent monthly active vs days-since-acquisition by cohort; if the curve flattens you have PMF, if not stop all growth tactics and fix the product.
-- `INS-260330-D41A` A retention curve that flattens proves product-market fit; one that slopes to zero means growth tactics are premature.
 - `INS-260321-2F09` Many AI founders fail because they build impressive demos that don't solve real painful jobs — if nobody asks about pricing, you don't have product-market fit.
 - `INS-260322-92D7` Before chasing product-market fit, verify you have founder-market fit — domain expertise and personal stakes that make the problem sustainably compelling.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
@@ -23,11 +19,15 @@
 - `INS-260321-021B` Higgsfield interviewed 8 creatives — all 8 gave identical feedback about camera controls, which became their breakout feature.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260403-538C` Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
+- `INS-260330-3E0B` Plot percent monthly active vs days-from-acquisition; if the curve slopes to zero, fix the product before investing in growth.
+- `INS-260330-78B1` Plot percent monthly active vs days-from-acquisition; if the curve flattens, you have PMF — if it slopes to zero, no amount of growth tactics will save you.
+- `INS-260330-37F6` Plot percent monthly active vs days-since-acquisition by cohort; if the curve flattens you have PMF, if not stop all growth tactics and fix the product.
+- `INS-260330-D41A` A retention curve that flattens proves product-market fit; one that slopes to zero means growth tactics are premature.
+- `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
+- `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-1949` Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260403-1A73` Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
-- `INS-260323-AB5F` Stuart Butterfield's games failed twice, but side features born from real problems became Flickr ($20M) and Slack ($27B) — the thing you're building around may be less valuable than the thing you built to support it.
-- `INS-260330-F125` The value of what you build is determined by whether people want it, not by how technically interesting or personally exciting it is to you.
 - `INS-260403-A7D0` Gut-feel product decisions waste time and money building features nobody wants — systematic assumption testing is the mitigation.
 - `INS-260327-A8B6` Gamma built AI to solve their 95% user drop-off (cold start problem), but the real breakthrough was realizing they had solved the universal blank page problem that makes presentations intimidating for everyone.
 - `INS-260327-8388` AI apps have lower daily-to-monthly active user ratios and worse retention than mobile peers, signaling that the transition from weekly tinkering to daily habit is the key unsolved product problem.
@@ -61,6 +61,7 @@
 - `INS-260330-CFBF` Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
 - `INS-260330-5A0A` Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
 - `INS-260403-EA8C` Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
+- `INS-260403-EA2D` Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 - `INS-260403-C228` A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260328-372B` Standard Capital received three times more applications than expected because founders organically spread the word about a genuinely better fundraising process.
 - `INS-260330-AB6F` Users enduring terrible UX to use your product is a stronger signal than engagement metrics from a polished product.

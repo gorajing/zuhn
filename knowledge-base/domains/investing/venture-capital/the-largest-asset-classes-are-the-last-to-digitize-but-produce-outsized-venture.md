@@ -51,7 +51,6 @@ stance: >-
   efficiency gains produce billion-dollar companies at higher rates than smaller
   categories.
 related:
-  - INS-260324-CBD3
   - INS-260327-2BAD
   - INS-260403-8256
   - PRI-260328-C918

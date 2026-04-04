@@ -52,7 +52,7 @@ related:
   - INS-260323-6C6F
   - PRI-260323-8E89
   - INS-260323-7EEB
-  - PRI-260328-5CDE
+  - INS-260403-1B8A
 stance: >-
   The Cursor founders saw the 2020 scaling laws papers as predictable progress,
   but early GPT-4 access in late 2022 made the theoretical gains concre...

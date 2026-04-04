@@ -2,6 +2,7 @@
 
 - `INS-260321-D01E` The winning AI platforms will lock users in through accumulated context, memory, social graphs, and authentication layers — not through model superiority alone.
 - `INS-260322-1D52` Unlike traditional software where nine women can't have a baby in one month, AI allows companies to throw money and GPUs at problems — meaning leads that took years to build can be closed in months.
+- `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
 - `INS-260325-040F` AI product defensibility comes from user behavior loops (pain → relief → habit → switching cost) not from AI model improvements that competitors can replicate overnight.
 - `INS-260325-5455` In AI, being first to market makes you the first target rather than the winner — moats (data flywheels, workflow integration, trust/governance) must be engineered from day one.
 - `INS-260325-FBE5` a16z argues there are no traditional moats in consumer AI — the landscape shifts too fast — so momentum (launch speed, traction velocity, mindshare) is the only defensible position.

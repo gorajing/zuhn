@@ -7,6 +7,7 @@
 - `INS-260327-1652` Hugging Face's $100 robot arm and $300 Reachy Mini aim to be the iPhone of robotics: cheap hardware with an app store of behaviors that anyone can create and share.
 - `INS-260322-299C` DeepSeek's surprise replication of frontier model capabilities from a hedge fund proves that AI leads are inherently temporary — once capability is demonstrated, others catch up quickly with far fewer resources.
 - `INS-260325-DAD7` Open models are home manufacturing (custom, higher cost); closed models are mega token factories (shared, cheaper at scale).
+- `INS-260403-8A65` DeepSeek R1 matched OpenAI o1's benchmarks within months of o1's release, as a free open-source model.
 - `INS-260325-DB7D` Agent-era AI demands openness because you need to optimize entire workflows, not single answers.
 - `INS-260325-4E96` Open models trail closed models by a steady ~6 months because the capability target keeps moving.
 - `INS-260323-62F3` Chinese companies release open-weight models primarily to gain global distribution and influence, not out of altruism.

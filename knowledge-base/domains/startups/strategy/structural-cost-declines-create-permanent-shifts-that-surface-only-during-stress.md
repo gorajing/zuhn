@@ -55,5 +55,6 @@ related:
   - INS-260403-696C
   - INS-260403-1D6E
   - INS-260403-79AD
+  - INS-260403-7D04
 ---
 Graham uses the metaphor of two components that appear bolted together but are actually just resting on each other—a sharp impact reveals they were already separate. The structural cost decline in starting startups (Moore's law, open source, web distribution, better languages) happened during the 2001-2003 trough when startups were unfashionable. When the ecosystem recovered around 2005, VCs resumed writing checks and founders resumed taking them, masking the fact that the dependency had already broken. This pattern—where structural shifts happen invisibly and only surface during stress—has broad applicability beyond startups. It suggests that during prosperous periods, you should actively test which dependencies are still real constraints versus vestigial habits, rather than waiting for a crisis to discover the answer.

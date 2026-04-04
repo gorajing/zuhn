@@ -17,6 +17,7 @@
 - `INS-260403-C737` Always follow customer interviews with cheap experiments that observe actual behavior, because what people say and what they do diverge systematically.
 - `INS-260403-113D` Separate customer observation from solution design by temporarily forgetting what you offer.
 - `INS-260403-CBC7` Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
+- `INS-260403-39F6` When the Airbnb founders personally photographed hosts' apartments in New York, they didn't just improve listings — they discovered that hosts were in the same financial desperation they were, which deepened their mission.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260403-6714` Asking 'why' repeatedly during interviews uncovers the real motivations behind customer behavior that surface answers conceal.
 - `INS-260403-E816` Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.

@@ -50,14 +50,14 @@ stance: >-
 related:
   - INS-260325-3E9F
   - INS-260327-7E3D
-  - INS-260327-D2A6
   - INS-260327-8D86
   - INS-260328-D220
   - INS-260328-3959
   - INS-260330-6204
   - INS-260330-2BB3
-  - INS-260330-9B90
   - INS-260330-B09B
+  - INS-260402-3D61
+  - INS-260402-E522
 ---
 Graham argues that VCs' near-religious prohibition against founder cashouts is counterproductive. When founders have zero liquidity, they rationally prefer a certain $1M exit over a 20% chance at $10M—the opposite of what VCs want. This misalignment causes founders to sell companies early to acquirers (where they get paid upfront) rather than taking VC money and swinging for a bigger outcome. Letting founders sell even $500K-$1M of stock during Series A would cost VCs nothing in equity terms while dramatically shifting founder psychology toward bigger bets.
 
