@@ -50,12 +50,13 @@ stance: >-
   storing potential energy in both biological and social systems
 related:
   - INS-260330-6E5F
-  - INS-260330-3037
   - INS-260330-40EC
   - INS-260330-B38B
   - INS-260403-384C
   - INS-260403-861A
   - INS-260403-34B4
+  - INS-260330-3037
+  - INS-260403-050D
   - PRI-260403-70D0
 ---
 The thylakoid membrane acts as a battery by maintaining a proton concentration gradient — high inside, low outside. When protons flow back through ATP synthase, that stored potential converts to usable chemical energy. The key insight is that the value isn't in the protons themselves, but in the asymmetry across the barrier.

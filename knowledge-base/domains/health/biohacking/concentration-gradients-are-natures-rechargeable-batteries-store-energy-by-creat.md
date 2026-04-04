@@ -55,11 +55,11 @@ stance: >-
   chemical pumping into on-demand kinetic energy
 related:
   - INS-260330-2BA7
-  - INS-260330-21A8
-  - INS-260330-100F
   - INS-260330-C729
   - INS-260330-3C3C
-  - INS-260330-8A2E
+  - INS-260330-21A8
+  - INS-260330-100F
+  - INS-260403-050D
 evidence:
   - id: INS-260330-21A8
     type: SUPPORTS

@@ -1,7 +1,13 @@
 # Tag: deliberate-practice
 
-- `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
 - `INS-260330-CD7A` Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
+- `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
+- `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
+- `INS-260403-78E2` Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
+- `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
+- `INS-260330-2666` Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
+- `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
+- `INS-260402-30DC` Nasty little problems don't just waste time — they actively make you stupider because they lack the learnable patterns that build expertise.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260329-A218` Deliberately exposing learners to common errors builds debugging intuition that error-avoidance pedagogy cannot produce.
@@ -16,12 +22,6 @@
 - `INS-260329-C1E1` Tight write-test-observe cycles teach abstract concepts faster than front-loaded theory because they catch misconceptions before they compound.
 - `INS-260329-D48B` The write-run-see-error-fix cycle in programming provides the fastest possible feedback loop for learning systematic thinking.
 - `INS-260329-9311` The course's core pedagogy — type code, compile, run, observe output, modify, repeat — exploits tight feedback loops to build intuition for abstract concepts like memory layout and type systems.
-- `INS-260330-7D21` Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
-- `INS-260403-78E2` Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
-- `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
-- `INS-260330-2666` Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
-- `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
-- `INS-260402-30DC` Nasty little problems don't just waste time — they actively make you stupider because they lack the learnable patterns that build expertise.
 - `INS-260329-A937` Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
 - `INS-260329-66C7` Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.

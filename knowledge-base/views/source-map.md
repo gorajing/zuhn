@@ -3,9 +3,9 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 170 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 64 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 48 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 174 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 69 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 53 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -277,6 +277,7 @@ Generated on 2026-04-04 | 2421 sources
 | AI Search & SEO in 2025: How to Stay Visible in the New Era | blog | 5 | 2026-03-30 |
 | AI Startup Credits Guide 2025: Extend Runway Smarter | blog | 5 | 2026-03-30 |
 | Airwallex: How an Outsider Built an $8B Fintech Empire | blog | 5 | 2026-03-30 |
+| AI’s Fastest Growth Cycle Yet⚡, The VC Fund Trap📉, State of AI 2025🤖 | blog | 5 | 2026-03-30 |
 | "All Lawful Use": Much More Than You Wanted To Know | blog | 5 | 2026-03-30 |
 | America must embrace the Electric Age, or fall behind | blog | 5 | 2026-03-30 |
 | America's chip export controls are working | blog | 5 | 2026-03-30 |
@@ -1831,7 +1832,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff (Learn Prompting, HackAPrompt) | blog | 0 | 2026-03-31 |
 | AI tools are overdelivering: results from our large-scale AI productivity survey | blog | 0 | 2026-03-31 |
 | Airbnb Business Model | blog | 0 | 2026-03-31 |
-| AI’s Fastest Growth Cycle Yet⚡, The VC Fund Trap📉, State of AI 2025🤖 | blog | 0 | 2026-03-30 |
 | Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix) | blog | 0 | 2026-03-31 |
 | Alex Karp Interview: How Palantir Hit $500B Market Cap | blog | 0 | 2026-03-30 |
 | Alex Osterwalder: “Companies can’t outsource the validation of their ideas” | blog | 0 | 2026-03-31 |

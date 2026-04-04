@@ -47,10 +47,10 @@ stance: >-
   rating with 19 reviews because visible imperfection signals authenticity
 related:
   - INS-260329-78AE
+  - INS-260403-22FE
   - INS-260403-A290
   - INS-260322-627E
   - INS-260403-DE45
-  - PRI-260320-5947
 evidence:
   - id: INS-260327-7DBC
     type: TRANSFERS_TO

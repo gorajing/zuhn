@@ -53,7 +53,7 @@ related:
   - INS-260403-EE70
   - INS-260403-2204
   - INS-260403-6712
-  - INS-260403-047B
+  - INS-260403-B274
 ---
 When founders resist calling their product something specific because it could be so much more, they fall into a trap: a description that could mean anything means nothing. Paul Graham frames this mathematically — as you approach a description of something that could be anything, the content approaches zero. Investors will discard vague language as meaningless boilerplate.
 

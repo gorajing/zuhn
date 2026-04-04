@@ -53,7 +53,6 @@ stance: >-
   even when objectively inferior, because the environment itself co-evolves
   around the imperfection
 related:
-  - INS-260325-1709
   - INS-260330-8D7C
   - INS-260330-2CFA
   - INS-260403-CF3E

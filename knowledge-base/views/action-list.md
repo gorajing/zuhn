@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3365 actionable insights
+Generated on 2026-04-04 | 3371 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1560,6 +1560,7 @@ Generated on 2026-04-04 | 3365 actionable insights
 - [INS-260403-6F65] Equal optimization on substance makes charisma the tiebreaker.
 - [INS-260403-6E9F] True refutation demands stating the opponent's main claim before dismantling it, which forces intellectual honesty.
 - [INS-260403-0AF4] Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
+- [INS-260403-22FE] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1842,6 +1843,7 @@ Generated on 2026-04-04 | 3365 actionable insights
 - [INS-260403-2A1D] Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 - [INS-260403-92EB] Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
 - [INS-260403-CC25] Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
+- [INS-260403-2FE1] A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2567,6 +2569,8 @@ Generated on 2026-04-04 | 3365 actionable insights
 - [INS-260403-5106] High-charisma founders get more tolerance for past mistakes than low-charisma ones.
 - [INS-260403-25A8] Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
 - [INS-260403-5B89] Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
+- [INS-260403-8346] Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
+- [INS-260403-B274] Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2996,6 +3000,7 @@ Generated on 2026-04-04 | 3365 actionable insights
 - [INS-260403-22EE] Bad comments set the tone for entire threads and attract more bad comments, while bad submissions exist in isolation — requiring different moderation strategies.
 - [INS-260403-66AE] User-voted platforms must actively suppress low-effort-to-judge content or it will inevitably dominate the feed.
 - [INS-260403-EF20] BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
+- [INS-260403-637C] RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
 
 ## startups/product-development
 - [INS-260322-58B7] Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
@@ -3536,6 +3541,7 @@ Generated on 2026-04-04 | 3365 actionable insights
 - [INS-260403-7072] Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
 - [INS-260403-B1F2] Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
 - [INS-260403-08E6] Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
+- [INS-260403-419B] Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

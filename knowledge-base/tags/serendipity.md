@@ -1,8 +1,8 @@
 # Tag: serendipity
 
-- `INS-260327-8C58` Many of the best things in life happened because you weren't planning for them - rigid planning eliminates the serendipity that produces the most meaningful outcomes.
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
+- `INS-260327-8C58` Many of the best things in life happened because you weren't planning for them - rigid planning eliminates the serendipity that produces the most meaningful outcomes.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
 - `INS-260403-FED1` YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.

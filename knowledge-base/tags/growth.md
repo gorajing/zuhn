@@ -1,8 +1,8 @@
 # Tag: growth
 
 - `INS-260323-1F27` Galaxies grow hierarchically — larger ones absorb smaller neighbors — and the evidence of those acquisitions persists in the chemistry and position of ancient stars at the galaxy's outskirts.
-- `INS-260327-A25E` Islam's universalist message — any person of any background could convert and be equal in the faith — enabled it to grow far faster than religions tied to specific ethnic or cultural identities.
 - `INS-260327-8DC5` If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
+- `INS-260327-A25E` Islam's universalist message — any person of any background could convert and be equal in the faith — enabled it to grow far faster than religions tied to specific ethnic or cultural identities.
 - `INS-260325-243C` If personal development advice makes you cringe, that reaction is a signal it has reached something real and vulnerable.
 - `INS-260325-58F5` Lower the bar of the first step until you find a version you are actually willing to do right now.
 - `INS-260330-A47B` Just as biological systems require cellular death to prevent cancer, psychological health requires voluntarily killing off bad ideas and identities before they become tyrannical.

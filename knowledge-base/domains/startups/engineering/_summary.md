@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 26 insights
+> 27 insights
 
 - `INS-260403-C514` [high] Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
 - `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
@@ -9,6 +9,7 @@
 - `INS-260330-19F1` [high] Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss.
 - `INS-260330-2200` [high] GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - `INS-260403-F100` [high] The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
+- `INS-260403-2CDA` [high] RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.
 - `INS-260403-2457` [high] RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
 - `INS-260403-3831` [high] Graham wrote essays in notebooks for 15 years before the web existed; Wozniak designed computers on paper before affordable chips arrived — both were ready when the moment came.
 - `INS-260403-D645` [high] Language benchmarks using predefined specs miss the main advantage of powerful languages: enabling discovery of new solutions.

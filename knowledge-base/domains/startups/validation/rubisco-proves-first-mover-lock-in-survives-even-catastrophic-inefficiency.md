@@ -49,8 +49,8 @@ stance: >-
   because switching costs exceed the cost of workarounds
 related:
   - INS-260320-20F2
-  - INS-260330-B71B
   - INS-260330-50B3
+  - INS-260403-2CDA
   - INS-260330-4441
   - INS-260330-D4CC
   - INS-260330-6ECA

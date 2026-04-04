@@ -1,10 +1,10 @@
 # Tag: discovery
 
 - `INS-260402-89DE` Writing works as a discovery mechanism because committing to specific words forces vague ideas into falsifiable form, enabling iterative refinement.
-- `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260402-4E59` Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
 - `INS-260402-607A` Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - `INS-260402-D0F3` Dishonesty in thinking doesn't just produce biased conclusions — it produces boring ones by preventing the discovery of surprising ideas.
+- `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260330-D950` Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
 - `INS-260403-B508` Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - `INS-260323-738D` The negative energy solutions in the Dirac equation were universally condemned as 'the saddest chapter in modern physics' — until Dirac proposed they predicted antimatter, and Carl Anderson accidentally found the positron in a cloud chamber just one year later.

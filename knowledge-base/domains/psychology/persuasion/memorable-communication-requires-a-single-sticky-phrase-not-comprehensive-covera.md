@@ -56,11 +56,11 @@ related:
   - INS-260325-D82A
   - INS-260328-70D3
   - INS-260330-2784
-  - INS-260403-F3FF
   - INS-260403-D375
   - INS-260403-81CE
   - INS-260403-2A1D
   - INS-260403-941F
+  - INS-260403-2FE1
   - INS-260403-0AF4
 ---
 Professional investors hear so many pitches they blur together. The first filter isn't quality — it's memorability. Graham recommends a single descriptive phrase, often in the form 'the X of Y' (Viaweb's was 'the Microsoft Word of ecommerce'), launched early in the presentation.

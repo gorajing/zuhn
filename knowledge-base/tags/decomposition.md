@@ -13,8 +13,8 @@
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
 - `INS-260330-24B6` A single gunshot underwater produces three physically independent phenomena (cavitation, gas trail, shock vapor), each governed by different equations.
 - `INS-260330-5DFF` In the Calvin Cycle, the 6-carbon chain formed by CO2 fixation is so unstable it immediately breaks into two stable 3-carbon molecules — instability is a required step, not a failure.
+- `INS-260330-7B07` One bullet produces a Bernoulli-driven cavitation cloud from the barrel, a trailing column of burnt gunpowder gas, and a smooth vapor sheath from the bullet's shock wave.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260325-1519` The Banach-Tarski proof works by naming every point on a sphere after the rotation sequence that reaches it, then showing that rotating one directional subset 'cancels' its prefix and regenerates the others.
 - `INS-260329-40B6` Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
-- `INS-260330-7B07` One bullet produces a Bernoulli-driven cavitation cloud from the barrel, a trailing column of burnt gunpowder gas, and a smooth vapor sheath from the bullet's shock wave.
 - `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.

@@ -52,7 +52,6 @@ stance: >-
   massively rather than replacing them, and this pattern generalizes to
   organizational and technological lock-in
 related:
-  - INS-260330-3EE4
   - INS-260330-53A9
   - INS-260330-8C52
   - INS-260330-54ED
@@ -62,6 +61,7 @@ related:
   - INS-260330-CC30
   - INS-260330-1650
   - INS-260330-CEAE
+  - PRI-260403-C34A
 evidence:
   - id: INS-260330-CC30
     type: EXTENDS

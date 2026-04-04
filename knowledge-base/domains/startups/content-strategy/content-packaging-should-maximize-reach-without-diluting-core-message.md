@@ -47,16 +47,16 @@ stance: >-
   Evolving content production quality and format to reach larger audiences is
   not selling out as long as the core message remains undiluted.
 related:
-  - INS-260325-803C
   - PRI-260323-DAB9
   - INS-260327-9D51
   - PRI-260328-95E3
   - INS-260329-CB2C
   - INS-260403-B505
+  - INS-260325-803C
   - PRI-260322-94C4
   - INS-260329-7C08
   - INS-260330-F324
-  - INS-260403-37D9
+  - INS-260403-9542
 evidence:
   - id: INS-260325-803C
     type: CHALLENGES

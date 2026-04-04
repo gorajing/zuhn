@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 155 insights
+> 157 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -39,6 +39,7 @@
 - `INS-260403-600F` [high] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` [high] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260403-1852` [high] Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
+- `INS-260403-8346` [high] Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
 - `INS-260403-1290` [high] At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-A709` [high] VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
 - `INS-260403-A172` [high] Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
@@ -88,6 +89,7 @@
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
+- `INS-260403-B274` [high] Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
 - `INS-260403-F3FF` [high] Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260403-86DB` [high] Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
 - `INS-260403-8013` [high] As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.

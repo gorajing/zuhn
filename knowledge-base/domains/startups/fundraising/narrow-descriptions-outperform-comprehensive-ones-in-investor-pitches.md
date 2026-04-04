@@ -53,6 +53,5 @@ related:
   - INS-260403-6712
   - INS-260403-EE70
   - INS-260403-047B
-  - INS-260403-2204
 ---
 Paul Graham draws a calculus analogy: as your description approaches something that could be anything, its content approaches zero. Investors will discard vague sentences like 'collaboratively leverage information' as meaningless boilerplate. The fix is to treat your pitch like incremental development — start with a gripping but perhaps overly narrow description (like 'easy web-based database'), then flesh it out. At every point you should have a 'working description' in the investor's head, just as you should always have working code. This counterintuitive advice — that saying less communicates more — applies broadly to any technical-to-non-technical communication.

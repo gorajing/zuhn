@@ -50,9 +50,8 @@ stance: >-
   because the model is almost certainly wrong and displaces discussion of things
   you actually know well
 related:
-  - INS-260403-600F
   - INS-260403-FF86
-  - INS-260403-E319
+  - INS-260403-8346
   - INS-260403-0267
   - INS-260403-C625
   - INS-260403-1852

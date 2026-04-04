@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260403-F3FF
   - INS-260403-AF27
-  - INS-260403-448F
   - INS-260403-208D
-  - INS-260403-8013
+  - INS-260403-B274
+  - INS-260403-448F
 ---
 Paul Graham frames pitch descriptions as an information theory problem: as your description approaches something that 'could be anything,' its actual content approaches zero. Investors discard sentences like 'a system to collaboratively leverage the value of information' as meaningless boilerplate.
 
