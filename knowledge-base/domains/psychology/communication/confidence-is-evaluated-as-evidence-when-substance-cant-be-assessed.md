@@ -54,7 +54,7 @@ related:
   - INS-260328-EBBC
   - INS-260403-37D9
   - INS-260403-A290
-  - INS-260403-C37D
+  - INS-260403-915E
 ---
 Graham observes that investors often can't evaluate technical products in a brief pitch, so they rely on second-order signals — primarily the founder's own confidence. But this must be shown, not told. Saying 'we're passionate' or 'our product is great' gets ignored or marks you as a bullshitter. The confidence must be implicit: embedded in how you present, not what you claim.
 

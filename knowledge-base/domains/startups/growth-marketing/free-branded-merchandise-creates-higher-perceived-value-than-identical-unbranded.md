@@ -46,7 +46,6 @@ related:
   - INS-260329-C0F1
   - INS-260323-D679
   - INS-260327-9838
-  - INS-260330-8F91
 evidence:
   - id: INS-260330-8F91
     type: TRANSFERS_TO

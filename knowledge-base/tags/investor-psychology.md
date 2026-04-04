@@ -1,5 +1,6 @@
 # Tag: investor-psychology
 
+- `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260403-A290` Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260403-C7A9` Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260403-E319` Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
@@ -8,6 +9,7 @@
 - `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
 - `INS-260403-600F` Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
+- `INS-260403-A709` VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
 - `INS-260402-66A5` VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260403-2F22` Never say 'we're passionate' — investors ignore or penalize explicit self-praise, but unconsciously weight your implicit confidence heavily.
 - `INS-260403-82CC` Investors form a winner/loser judgment in minutes and then selectively interpret your startup's strengths and weaknesses to confirm it.

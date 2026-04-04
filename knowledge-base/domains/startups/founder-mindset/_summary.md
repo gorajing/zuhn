@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 285 insights
+> 286 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -205,6 +205,7 @@
 - `INS-260329-4488` [high] Set decade-long commitments to activities rather than short-term outcome targets to reduce emotional ups and downs while building compounding advantages.
 - `INS-260323-61CD` [high] The Watts-Strogatz model shows that rewiring just 0.03% of connections to random shortcuts makes any network as navigable as a fully random one.
 - `INS-260325-DFC7` [high] FlashIntel CEO Yi Shi: find industries where standards are not set, apply tech first — tokens are the new currency in the AI era.
+- `INS-260403-4690` [high] Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260328-12EE` [high] Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
 - `INS-260402-ECB6` [high] Don't let institutional roles define you — treat them as day jobs and reserve your identity for self-directed work.
 - `INS-260329-6117` [high] The most damaging limits are the ones you don't know you have because you never think to question them.

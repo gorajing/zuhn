@@ -53,10 +53,10 @@ stance: >-
   meaning requires intentional agency, not combinatorial completeness.
 related:
   - INS-260321-FB3F
+  - INS-260403-34C0
   - INS-260323-B811
   - INS-260325-5692
   - INS-260403-81CE
-  - INS-260323-4574
 evidence:
   - id: INS-260321-FB3F
     type: TRANSFERS_TO

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3187 actionable insights
+Generated on 2026-04-04 | 3203 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -194,6 +194,7 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260329-3489] Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - [INS-260330-0E6E] Programmers should deliberately shift from low-level code writing to natural-language system design as AI code generation improves.
 - [INS-260402-1FE9] Programmer time is the true scarce resource; burning machine cycles for simpler code is good waste.
+- [INS-260403-A101] AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage.
 
 ## ai-development/human-ai-relationship
 - [INS-260322-2B2D] Learning English to high fluency gives access to global opportunity systems, breaking dependence on any single country's constrained job market.
@@ -220,6 +221,7 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260329-F635] Syntax errors should be reframed as the computer asking for help, not as punishment for mistakes.
 - [INS-260329-206D] Dr. Chuck frames Python as a personal automation tool first — scraping your own data, organizing your own files — because solving your own problems creates motivation loops that career-oriented framing cannot match.
 - [INS-260330-4AD5] AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
+- [INS-260403-CE95] When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens.
 
 ## ai-development/limitations
 - [INS-260323-F68A] Claude Code users spend $8-13.5x their subscription in compute — if they had to pay per-error like a metered taxi, most would abandon the service because mistakes become expensive.
@@ -1064,6 +1066,7 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260403-5AAC] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - [INS-260403-420A] Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - [INS-260403-F1C6] Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
+- [INS-260403-225B] A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1225,6 +1228,7 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260329-D9A4] Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
 - [INS-260330-4E10] Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - [INS-260403-94C4] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
+- [INS-260403-B4DC] Adopting an infinite-game mindset — focused on expanding what's possible rather than defending what exists — is the winning strategic posture during major technological disruption.
 
 ## psychology/founder-psychology
 - [INS-260329-1A64] When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
@@ -1514,6 +1518,8 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260403-3421] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
 - [INS-260403-81CE] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - [INS-260403-A290] Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
+- [INS-260403-560A] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
+- [INS-260403-915E] Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1956,6 +1962,7 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260403-A0B0] Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - [INS-260403-9106] Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - [INS-260403-8F6E] Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.
+- [INS-260403-C7A0] Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2434,6 +2441,13 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260403-208D] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - [INS-260403-1444] Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 - [INS-260403-AA6A] A near-100% fundraising rate after Demo Day likely means the accelerator is selecting too conservatively and missing outliers.
+- [INS-260403-4730] Fundraising has a binary transition point where signal rises above noise, making incremental pitch improvements less effective than crossing the threshold.
+- [INS-260403-D99E] Scientist-founders lose deals by prioritizing how cool the science is over how big the market opportunity is.
+- [INS-260403-FAFA] Early-stage VCs suffer more from missing winners than from funding losers, which means founders should emphasize upside potential over risk mitigation.
+- [INS-260403-C2BE] VCs fund spiky excellence over well-rounded competence, so founders should highlight their extraordinary strengths rather than shore up weaknesses.
+- [INS-260403-A709] VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
+- [INS-260403-2204] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
+- [INS-260403-34C0] Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3259,6 +3273,7 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260403-215E] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
 - [INS-260403-5B4E] Doing what's best for users eliminates the cognitive overhead of maintaining consistent strategic narratives across many decisions.
 - [INS-260403-D444] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
+- [INS-260403-3E46] If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3352,6 +3367,7 @@ Generated on 2026-04-04 | 3187 actionable insights
 - [INS-260403-99D1] Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.
 - [INS-260403-DF7F] Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
 - [INS-260403-DD95] Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
+- [INS-260403-DC32] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

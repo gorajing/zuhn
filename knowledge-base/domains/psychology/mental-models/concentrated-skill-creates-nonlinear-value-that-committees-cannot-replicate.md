@@ -50,7 +50,6 @@ stance: >-
 related:
   - INS-260320-E683
   - INS-260322-2B2D
-  - INS-260323-85E7
   - INS-260325-8B36
   - INS-260323-475F
   - INS-260329-FC6D
@@ -58,6 +57,7 @@ related:
   - INS-260329-DDBC
   - INS-260330-B28C
   - INS-260402-72EF
+  - PRI-260324-D701
 evidence:
   - id: INS-260320-E683
     type: SUPPORTS

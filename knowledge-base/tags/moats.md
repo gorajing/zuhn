@@ -11,6 +11,7 @@
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
+- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260330-FCBC` Controlling access to essential inputs creates stronger lock-in than product quality.
@@ -19,6 +20,7 @@
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260330-EEED` Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
 - `INS-260403-962E` RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
+- `INS-260403-0AF6` Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
 - `INS-260323-7F36` The install base is the single most important factor for a computing platform; elegant architectures like RISC failed while the 'barely aesthetic' x86 survived because install base trumps design purity.
 - `INS-260323-0EE2` ASML's monopoly exists because EUV requires solving dozens of 'impossible' problems simultaneously — mirrors smooth to 2.3 atoms, tin droplets hit 50,000 times/second with zero misses, and 13.5nm light generation — and no competitor can replicate the full stack.
 - `INS-260323-A1FE` Jet engine turbine blades must simultaneously optimize for temperature resistance (1,500C), centripetal force (20 metric tons per blade), oxidation resistance, creep resistance, weight, and manufacturing precision — and you can't max one without sacrificing others, making the integration itself the competitive moat.
@@ -29,5 +31,4 @@
 - `INS-260329-12EA` Your competitive moat is not any single skill but the unique stack of skills from your specific life trajectory — replicating it requires living your life.
 - `INS-260322-1280` Some products are too cheap to bother replacing (janitorial services problem) — nobody optimizes a $50/month/person line item, which means competitors can't get in but incumbents can't be kicked out.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
-- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.

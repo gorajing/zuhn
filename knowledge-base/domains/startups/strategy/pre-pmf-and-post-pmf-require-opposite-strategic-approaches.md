@@ -49,10 +49,10 @@ stance: >-
   after it — founders who only hill-climb post-PMF get trapped in local maxima
 related:
   - INS-260322-B3D0
+  - INS-260403-B4DC
   - INS-260329-EC01
   - INS-260403-B198
   - INS-260330-45A9
-  - INS-260327-EAB0
 ---
 Before product-market fit, the best advice is to quiet the strategic mind and focus entirely on making something people want. Strategy is a distraction when you don't yet have users or understand customers. However, founders who carry this same 'just do the thing' mentality past PMF often find themselves stuck in a local maximum — making incremental improvements to something that will never become a very large business.
 

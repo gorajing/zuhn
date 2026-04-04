@@ -4,7 +4,6 @@
 - `INS-260330-2EC0` On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
 - `INS-260403-1085` Gaming consistently pioneers AI integration patterns — from Deep Blue to AlphaGo to generative AI — making it a reliable leading indicator for how other industries will adopt AI.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
-- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260330-C8B4` Organisms that over-detect patterns survive longer than those that under-detect them because missing a real threat is costlier than reacting to a false one.
 - `INS-260330-FCFA` True randomness clusters in ways humans perceive as non-random, so products must introduce artificial structure to satisfy our pattern-seeking minds.
 - `INS-260330-2911` The brain's evolved pattern-detection system generates conspiracy theories when applied to politics because assuming stupidity feels unsatisfying compared to finding hidden plans.
@@ -15,6 +14,7 @@
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
 - `INS-260330-DECB` The prime number spirals arise from rational approximations of 2pi in the coordinate system, not from any property of primes themselves.
+- `INS-260330-8F72` Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260330-FE14` Destin could diagnose hit quality purely from the crack of the bat — bottom barrel hits sound different from sweet-spot contact.
 - `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260330-12D5` Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
@@ -35,3 +35,4 @@
 - `INS-260330-7AB8` Look for moments when dropping costs, new platforms, or infrastructure shifts have made something feasible that remains cumbersome in practice — that gap is your opportunity.
 - `INS-260322-5E5D` Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
 - `INS-260325-79BD` The ~1500-year gap between Bronze Age collapse and Rome's fall, and another ~1500 years to today, suggests recurring vulnerability patterns.
+- `INS-260403-3E46` If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.

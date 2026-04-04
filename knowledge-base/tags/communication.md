@@ -6,11 +6,11 @@
 - `INS-260330-7E66` Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
 - `INS-260330-5A9E` Pinker classifies swearing into five types: dysphemistic (forcing uncomfortable imagery), abusive (intimidating), idiomatic (casual signaling), emphatic (intensifying), and cathartic (pain relief).
 - `INS-260330-84C6` The gap between peak conscious experience and linguistic description is not a matter of degree but of kind — language is structurally incapable of encoding these states.
-- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260323-61D4` Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-6F6D` The Pioneer plaque's arrow symbol — obvious to humans who hunted with projectiles — may be meaningless or misleading to an alien intelligence, revealing how deeply cultural assumptions embed in supposedly universal designs.
 - `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
 - `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
+- `INS-260323-5B36` El-Kurd's campaign succeeded globally because it finally matched visual imagery to rhetoric, making the power asymmetry undeniable to international observers.
 - `INS-260330-C13A` Reframing feedback requests as advice requests shifts people from cheerleader/critic mode into coach mode with actionable forward-looking suggestions.
 - `INS-260330-2783` Friedrich Miescher isolated DNA in 1869, but Watson and Crick are remembered because they synthesized others' work into a communicable model.
 - `INS-260330-9A46` Friedrich Miescher discovered DNA in 1869, but Watson and Crick are household names because they synthesized others' work into a compelling structural model nearly a century later.
@@ -19,13 +19,13 @@
 - `INS-260403-0F95` Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - `INS-260403-A290` Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
+- `INS-260329-5BB0` Ensure your partner judges you on the same metrics you judge yourself — misaligned scorecards create unwinnable games.
+- `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
 - `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
 - `INS-260330-649B` Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
-- `INS-260329-5BB0` Ensure your partner judges you on the same metrics you judge yourself — misaligned scorecards create unwinnable games.
-- `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
@@ -60,6 +60,6 @@
 - `INS-260330-1F41` Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260330-E99F` Force daily cross-functional calls where every discipline presents constraints together, because trade-offs in one area systematically affect others in ways that organic communication misses.
 - `INS-260330-725F` Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
-- `INS-260330-281A` Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
 - `INS-260323-1EEA` Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-777A` Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.
+- `INS-260330-281A` Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.

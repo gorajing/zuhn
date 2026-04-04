@@ -52,10 +52,10 @@ stance: >-
   success depends on audience context rather than intrinsic truth
 related:
   - INS-260322-E06A
+  - INS-260403-34C0
   - INS-260325-EF66
   - INS-260327-9377
   - INS-260327-E9FC
-  - INS-260323-FAD5
 evidence:
   - id: INS-260327-E9FC
     type: TRANSFERS_TO

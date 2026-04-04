@@ -53,7 +53,6 @@ stance: >-
   strategic concern rather than a soft skill
 related:
   - INS-260321-C292
-  - INS-260330-D5FB
   - INS-260403-0C33
   - INS-260323-DA91
   - INS-260328-E410

@@ -54,10 +54,11 @@ related:
   - INS-260326-73C0
   - INS-260325-DFA5
   - INS-260323-BC61
+  - INS-260403-B4DC
   - INS-260330-2F13
-  - INS-260325-7973
   - INS-260325-415A
   - INS-260323-5955
+  - INS-260325-7973
   - INS-260330-E990
 stance: >-
   Hotz argues humanity is more likely to be destroyed by AI-generated infinite

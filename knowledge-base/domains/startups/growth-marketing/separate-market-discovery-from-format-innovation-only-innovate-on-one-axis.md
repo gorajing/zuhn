@@ -39,10 +39,10 @@ resolutions:
 related:
   - INS-260321-099E
   - PRI-260321-558C
+  - INS-260403-CE95
   - INS-260324-C33C
   - INS-260322-5CBF
   - PRI-260328-82BE
-  - INS-260330-19F1
 stance: Markets (topics) rarely change and can't be invented
 ---
 The key insight of niche banding is that content creation has two independent axes: market and format. Trying to create a new market is nearly impossible. Trying to invent a new format is hard but happens naturally. The winning move is to innovate on only one axis at a time — find a proven format, then apply it unchanged to a different market. This is the same principle as cross-domain transfer in knowledge management: the format IS the transferable principle.

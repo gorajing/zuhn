@@ -51,10 +51,10 @@ stance: >-
   formal mathematics by millennia.
 related:
   - INS-260402-26B0
+  - INS-260403-3A8A
   - INS-260325-EBDD
   - INS-260403-C161
   - INS-260323-6230
-  - INS-260330-750A
 evidence:
   - id: INS-260323-6230
     type: TRANSFERS_TO

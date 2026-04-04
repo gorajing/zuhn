@@ -1,9 +1,10 @@
 # Topic: founder-mindset
 
-> 15 insights
+> 16 insights
 
 - `INS-260403-94C4` [high] In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260329-D9A4` [high] Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
+- `INS-260403-B4DC` [high] Adopting an infinite-game mindset — focused on expanding what's possible rather than defending what exists — is the winning strategic posture during major technological disruption.
 - `INS-260330-4E10` [high] Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260329-444F` [high] Study what successful people did at your stage, not what they do now, to find the right playbook.
 - `INS-260403-87AC` [high] In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.

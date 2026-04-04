@@ -15,11 +15,13 @@
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260403-41FF` Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
+- `INS-260403-2204` Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-AF27` Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-F3FF` Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
 - `INS-260403-86DB` Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
 - `INS-260403-8013` As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.
+- `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
 - `INS-260403-D7DF` Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.

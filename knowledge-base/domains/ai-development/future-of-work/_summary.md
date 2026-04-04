@@ -1,6 +1,6 @@
 # Topic: future-of-work
 
-> 41 insights
+> 42 insights
 
 - `INS-260320-A745` [very_high] Anthropic's own studies show AI deskilling in coding is real, but depends on HOW you use models — some usage patterns cause skill degradation, some don't.
 - `INS-260321-9824` [very_high] Tao's papers now have more code, more plots, deeper literature searches — but the core mathematical work (pen and paper for the hardest part) hasn't been accelerated. AI enriches output without deepening it.
@@ -38,6 +38,7 @@
 - `INS-260325-11E9` [medium] AI turns interdependent work into solo work, risking the same 'alone together' fragmentation that social media created.
 - `INS-260320-B99F` [medium] Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260329-92C3` [medium] Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
+- `INS-260403-A101` [medium] AI will commoditize taste (evaluating what worked before) just as it commoditized craft, leaving forward-looking expression as the only durable human advantage.
 - `INS-260330-B28C` [medium] Campaigns to universalize high-paying skills function as labor market flooding that depresses wages for existing practitioners.
 - `INS-260330-819E` [medium] Learn-to-code initiatives serve institutional goals (tax revenue, labor supply) more than the individual learners they claim to help.
 - `INS-260329-A862` [medium] Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.

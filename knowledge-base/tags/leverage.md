@@ -12,22 +12,22 @@
 - `INS-260323-2FF9` Options offer three distinct advantages over direct stock ownership: capped maximum loss (the premium paid), amplified returns through leverage, and the ability to hedge specific risks.
 - `INS-260327-7F54` PE firms promised billionaire-level returns through superior analysts but actually delivered them through borrowing against acquired companies and smoothing volatility on paper.
 - `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
-- `INS-260327-6ACA` The US forced Britain to withdraw from Suez not through military threats but by threatening to collapse the pound sterling through selling reserves and blocking IMF support.
-- `INS-260327-8E45` Venice's earliest power base was salt — the essential food preservative of the medieval world that the lagoon naturally produced in abundance.
-- `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
-- `INS-260327-178D` Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
-- `INS-260330-59BC` Singapore's lack of accountability let the PAP implement excellent policies efficiently, but the same lack of checks means a less benevolent successor could do permanent, lethal damage with no mechanism for removal.
 - `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260329-2242` Block your first 4-6 hours for the one thing that would make all other problems disappear.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
 - `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260330-9BC3` A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260327-6ACA` The US forced Britain to withdraw from Suez not through military threats but by threatening to collapse the pound sterling through selling reserves and blocking IMF support.
+- `INS-260327-8E45` Venice's earliest power base was salt — the essential food preservative of the medieval world that the lagoon naturally produced in abundance.
+- `INS-260330-5A0B` Nuclear threats function as a renewable resource for extracting aid through a predictable escalation-concession cycle.
+- `INS-260327-178D` Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
+- `INS-260330-59BC` Singapore's lack of accountability let the PAP implement excellent policies efficiently, but the same lack of checks means a less benevolent successor could do permanent, lethal damage with no mechanism for removal.
+- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
+- `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260325-B206` When two operations turn out to be inverses (like integration and differentiation), knowing how to do one gives you the other for free.
-- `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.
@@ -52,15 +52,15 @@
 - `INS-260330-CB30` A small reduction or increase in daily/weekly growth rate compounds into order-of-magnitude differences in outcomes, making growth rate the single highest-leverage metric.
 - `INS-260330-608C` A small reduction in growth rate (e.g., from 15% to 10% daily) produces dramatically different outcomes over time due to compounding, making rate optimization the highest-leverage intervention.
 - `INS-260330-05C7` Tiny growth rate differences compound into massive outcome gaps, making growth rate optimization the highest-leverage activity.
-- `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
-- `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
+- `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
+- `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
+- `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
 - `INS-260330-B6FA` Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
 - `INS-260330-6204` Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
 - `INS-260330-376E` Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.
 - `INS-260330-08FA` The strongest fundraising position is not needing the money — reach ramen profitability before raising.
-- `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
-- `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
-- `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
+- `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
+- `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
 - `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
 - `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
 - `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.

@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 113 insights
+> 120 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -31,6 +31,7 @@
 - `INS-260403-600F` [high] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` [high] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260403-1290` [high] At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
+- `INS-260403-A709` [high] VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260402-66A5` [high] VCs select for founders who are best at performing certainty, not founders with the best businesses.
 - `INS-260330-7BF5` [high] Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
@@ -61,6 +62,7 @@
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
 - `INS-260403-78B7` [high] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
 - `INS-260403-41FF` [high] Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
+- `INS-260403-2204` [high] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
 - `INS-260403-F3FF` [high] Narrow, gripping descriptions convey more signal than expansive, vague ones when pitching investors.
@@ -72,6 +74,7 @@
 - `INS-260402-3FC5` [high] Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.
 - `INS-260402-2E19` [high] Being ramen profitable — earning just enough to cover living expenses — gives founders more fundraising leverage than almost any other signal.
 - `INS-260402-3D61` [high] Glanville pushed through exhausting fundraising to curate investors who shared his long-term vision, resisting advice to take whatever money was available.
+- `INS-260403-D99E` [high] Scientist-founders lose deals by prioritizing how cool the science is over how big the market opportunity is.
 - `INS-260328-D26B` [high] The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
 - `INS-260328-0C4C` [high] Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
 - `INS-260330-C8E1` [high] Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
@@ -80,6 +83,7 @@
 - `INS-260322-6C4B` [high] The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
 - `INS-260330-2BB3` [high] Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
 - `INS-260323-4C43` [high] Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
+- `INS-260403-34C0` [high] Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
 - `INS-260403-07C6` [high] Answering 'why now' — why this idea only recently became viable — is the strongest evidence you can offer for massive growth potential.
 - `INS-260403-36DD` [high] Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
 - `INS-260330-97F6` [high] In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
@@ -95,10 +99,13 @@
 - `INS-260330-AF2B` [high] A SAFE's valuation cap sets the maximum conversion price — not the company's current value — and founders must model cumulative dilution across all outstanding SAFEs before the priced round.
 - `INS-260330-7220` [high] The real constraint on top-tier VCs is that each investment eliminates an entire competitive category and consumes one of roughly 10-12 board seats per partner, making pass decisions about future optionality rather than current quality.
 - `INS-260402-4719` [high] VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
+- `INS-260403-FAFA` [high] Early-stage VCs suffer more from missing winners than from funding losers, which means founders should emphasize upside potential over risk mitigation.
+- `INS-260403-C2BE` [high] VCs fund spiky excellence over well-rounded competence, so founders should highlight their extraordinary strengths rather than shore up weaknesses.
 - `INS-260403-F447` [medium] When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
 - `INS-260402-8E29` [medium] Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260328-D220` [medium] If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260403-59F0` [medium] The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260403-4730` [medium] Fundraising has a binary transition point where signal rises above noise, making incremental pitch improvements less effective than crossing the threshold.
 - `INS-260330-B09B` [medium] Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
 - `INS-260327-7E3D` [medium] The stark reality of fundraising differences between Boston and Silicon Valley comes down to fundamentally different investor risk cultures.
 - `INS-260403-147C` [medium] More potential winners per year amplifies the gap between investors with genuine selection skill and those who follow consensus.

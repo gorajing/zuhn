@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 225 insights
+> 227 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -48,6 +48,7 @@
 - `INS-260330-2030` [high] The comparison between BLM riots and the Capitol insurrection feels like balanced analysis but collapses a critical categorical distinction between protest-gone-wrong and president-directed assault on democratic certification.
 - `INS-260330-EF10` [high] Pay off high-interest debt and build 6-12 months of emergency savings before investing, because financial stress causes panic selling that destroys returns.
 - `INS-260327-C316` [high] People treat money as the most rational domain of their lives while making consistently irrational financial decisions driven by fear, status anxiety, and emotional needs.
+- `INS-260403-3A8A` [high] Applying finite-game thinking to inherently infinite-game situations causes systematic strategic errors during periods of technological disruption.
 - `INS-260330-CCD8` [high] Labeling a problem as timeless or identity-based discourages solution-seeking by making resolution feel impossible.
 - `INS-260330-870B` [high] Ponzi deliberately targeted people with more dreams than financial knowledge, avoiding sophisticated investors who could spot the scheme.
 - `INS-260403-C5BA` [high] Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn.
@@ -88,6 +89,7 @@
 - `INS-260330-43EB` [high] The Mandate of Heaven attributed floods, famines, and rebellions to the emperor's moral failings, preventing Chinese historians from analyzing structural causes for centuries.
 - `INS-260330-5A66` [high] The feeling of moral outrage masquerades as evidence, making people certain they understand situations they haven't actually analyzed.
 - `INS-260330-4441` [high] RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
+- `INS-260403-7E8E` [high] The most effective orthodoxy rules are superficial — easy to follow, yet grant moral superiority, making them attractive to people who lack genuine virtue.
 - `INS-260325-B067` [high] We evolved to over-detect patterns because false positives are survivable but false negatives are fatal, so we see meaning in randomness.
 - `INS-260403-393C` [high] Parents push children toward safe careers not from materialism but because they share in failures without sharing in the thrill of success.
 - `INS-260323-97A1` [high] Everyone expected a spy to look like James Bond; the actual spy was a goofy, church-going college kid who talked to everyone — our threat models are shaped by fiction, not reality.

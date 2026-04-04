@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 35 insights
+> 36 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
@@ -12,6 +12,7 @@
 - `INS-260403-0C95` [high] Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
 - `INS-260330-2B5F` [high] Human shield tactics are a strategic exploitation of the opponent's superior moral constraints — they only work against enemies who value civilian life more than you do.
 - `INS-260403-76C3` [high] Intellectual fashions spread in visible waves, and the best undiscovered ideas cluster in currently unfashionable areas.
+- `INS-260403-4D45` [high] Intolerant people always exist — waves of suppression happen when an ideology gives them coordinated direction.
 - `INS-260402-62E3` [high] Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
 - `INS-260402-116A` [high] Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
 - `INS-260330-E794` [high] Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.

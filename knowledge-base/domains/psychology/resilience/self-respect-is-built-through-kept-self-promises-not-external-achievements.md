@@ -54,7 +54,6 @@ related:
   - INS-260327-B64B
   - INS-260326-C692
   - INS-260327-CD49
-  - INS-260330-24E0
 evidence:
   - id: INS-260326-C692
     type: TRANSFERS_TO

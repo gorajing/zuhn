@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 88 insights
+> 89 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -49,6 +49,7 @@
 - `INS-260330-CFBF` [high] Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
 - `INS-260330-5A0A` [high] Young founders trained by education to 'go through the motions' apply the same pattern to startups — hitting all the visible milestones while missing the substance.
 - `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
+- `INS-260403-DC32` [high] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
 - `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
 - `INS-260403-BF09` [high] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.

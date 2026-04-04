@@ -6,6 +6,7 @@
 - `INS-260330-A8F8` Choosing between 'defecate' and its vulgar synonym signals your emotional state about the referent, not just the referent itself.
 - `INS-260330-3BBC` Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260402-A2F1` When moral rules become elaborate enough, following them substitutes for actually being good, attracting people who weaponize compliance.
+- `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260403-0F95` Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - `INS-260403-A290` Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260329-ABA1` Present your flaws first in dating — people unbothered by your downsides are your strongest matches.

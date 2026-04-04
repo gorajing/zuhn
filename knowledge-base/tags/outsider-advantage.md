@@ -8,4 +8,5 @@
 - `INS-260402-4605` Eminence constrains innovation more than obscurity constrains execution.
 - `INS-260327-D5CC` The best startup ideas are in industries you've never worked in—tech insiders oversaturate their own problems.
 - `INS-260330-1D3B` An IRS tax inspector with no knowledge of Bitcoin or Tor cracked the Silk Road case through simple date-filtered Google searches, while FBI and DEA specialists with years of work and advanced tools hadn't identified Ross.
+- `INS-260403-E592` Outsiders disrupt better because they reach conviction before accumulating the insider knowledge that would prevent them from starting.
 - `INS-260325-78E9` A professional hairdresser with no archaeology training solved the mystery of ancient Roman hairstyles that had stumped academics for centuries — embodied skill reveals what theory cannot.

@@ -52,11 +52,12 @@ stance: >-
   systematically exclude the most talented people by requiring behaviors only
   the wrong candidates would perform.
 related:
-  - INS-260330-D066
   - INS-260403-5C1D
+  - INS-260330-D066
   - INS-260402-3DBF
+  - INS-260403-E592
   - INS-260330-F258
-  - INS-260329-5A24
+  - INS-260403-3E46
 evidence:
   - id: INS-260323-01F9
     type: CHALLENGES

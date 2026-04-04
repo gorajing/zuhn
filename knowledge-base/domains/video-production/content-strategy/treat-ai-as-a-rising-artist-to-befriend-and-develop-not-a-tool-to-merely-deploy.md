@@ -51,10 +51,10 @@ resolutions:
 related:
   - INS-260321-3312
   - INS-260321-6D01
+  - INS-260403-CE95
   - INS-260323-7263
   - INS-260327-B403
   - INS-260323-1930
-  - INS-260330-1F41
   - INS-260330-548E
   - INS-260403-7093
 stance: 'Approaching AI as a new artist to discover, befriend, and develop'

@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 16 insights
+> 17 insights
 
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
@@ -11,6 +11,7 @@
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
+- `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
 - `INS-260403-CACE` [high] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-4FA4` [medium] For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.

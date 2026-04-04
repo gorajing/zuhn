@@ -49,11 +49,11 @@ stance: >-
   framing, and original thought become exponentially more valuable
 related:
   - INS-260327-6A45
+  - INS-260403-A101
   - PRI-260328-C006
   - PRI-260328-9F8C
   - PRI-260322-94C4
   - INS-260330-B38B
-  - PRI-260321-14D8
 evidence:
   - id: INS-260327-6A45
     type: SUPPORTS

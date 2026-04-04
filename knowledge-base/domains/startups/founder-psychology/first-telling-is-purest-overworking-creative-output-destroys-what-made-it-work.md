@@ -56,7 +56,6 @@ related:
   - INS-260327-34EB
   - INS-260330-423B
   - INS-260330-DD91
-  - INS-260330-2294
 stance: >-
   Kreischer's comedy lesson: the first spontaneous telling of a joke is almost
   always the best version

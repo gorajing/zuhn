@@ -4,8 +4,8 @@ Generated on 2026-04-04 | 2421 sources
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
 | Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 146 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 35 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 30 | 2026-03-31 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
 | Python for Everybody - Full University Python Course | youtube | 30 | 2026-03-29 |
@@ -204,6 +204,7 @@ Generated on 2026-04-04 | 2421 sources
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
+| The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
 | 1177 BC: The vanishing of the first globalized world | Eric Cline: Full Interview | youtube | 6 | 2026-03-25 |
 | $215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook) | youtube | 6 | 2026-03-22 |
 | Deciphering Secrets of Ancient Civilizations, Noah's Ark, and Flood Myths | Lex Fridman Podcast #487 | youtube | 6 | 2026-03-24 |
@@ -259,6 +260,7 @@ Generated on 2026-04-04 | 2421 sources
 | A playbook for fundraising | blog | 5 | 2026-03-31 |
 | A product manager’s guide to web3 | blog | 5 | 2026-03-31 |
 | A Project of One's Own | blog | 5 | 2026-03-31 |
+| A Scientific Approach to VC | blog | 5 | 2026-03-31 |
 | A Student's Guide to Startups | blog | 5 | 2026-03-31 |
 | A Three-Step Framework For Solving Problems 👌 | blog | 5 | 2026-03-31 |
 | A Version 1.0 | blog | 5 | 2026-03-31 |
@@ -299,6 +301,7 @@ Generated on 2026-04-04 | 2421 sources
 | CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
+| Deep Dives | blog | 5 | 2026-03-30 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
 | Design and Research | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
@@ -310,10 +313,12 @@ Generated on 2026-04-04 | 2421 sources
 | Five Questions about Language Design | blog | 5 | 2026-03-31 |
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
+| From Outsider to $5B SPAC in 6 Years | blog | 5 | 2026-03-31 |
 | Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology and Comfort Are Rewiring a Generation | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
 | Guided AI Agents: Turbocharging the SMB | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
+| Heresy | blog | 5 | 2026-03-31 |
 | Hidden VC Fund Secrets Every Founder Should Know | blog | 5 | 2026-03-30 |
 | Higher Rates Will Lead to the Next Generation of Great Tech Startups | blog | 5 | 2026-03-30 |
 | Highlights From The Comments On Scott Adams | blog | 5 | 2026-03-30 |
@@ -334,6 +339,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Get Startup Ideas | blog | 5 | 2026-03-31 |
 | How to Make Pittsburgh a Startup Hub | blog | 5 | 2026-03-31 |
 | How to Make Wealth | blog | 5 | 2026-03-31 |
+| How to Model Mezzanine Financing End-to-End | blog | 5 | 2026-03-30 |
 | How to Prepare for Your First VC Intro Call (and Actually Impress Them) | blog | 5 | 2026-03-30 |
 | How to Raise Money | blog | 5 | 2026-03-31 |
 | How to Start a Startup | blog | 5 | 2026-03-31 |
@@ -370,6 +376,7 @@ Generated on 2026-04-04 | 2421 sources
 | Quotes | blog | 5 | 2026-03-31 |
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Real Estate's Hidden AI Revolution | blog | 5 | 2026-03-31 |
+| Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved Medical Care | blog | 5 | 2026-03-30 |
 | Revenge of the Nerds | blog | 5 | 2026-03-31 |
 | Reverse Imposter Syndrome: A Founder’s Visibility Gap | blog | 5 | 2026-03-30 |
 | Roundup #75: Checking in on the Bad Guys | blog | 5 | 2026-03-30 |
@@ -382,6 +389,7 @@ Generated on 2026-04-04 | 2421 sources
 | San Francisco's urban revival is in danger | blog | 5 | 2026-03-30 |
 | Save us, Digital Cronkite! | blog | 5 | 2026-03-30 |
 | See New Marketplaces Where Others See Crowds: The Inside Story of A.Team | blog | 5 | 2026-03-31 |
+| SEIU Delenda Est | blog | 5 | 2026-03-30 |
 | Series A & B Cap Table Guide + Free Excel Template | blog | 5 | 2026-03-30 |
 | Slightly Against The "Other People's Money" Argument Against Aid | blog | 5 | 2026-03-30 |
 | Some Heroes | blog | 5 | 2026-03-31 |
@@ -446,6 +454,7 @@ Generated on 2026-04-04 | 2421 sources
 | Updated thoughts on AI risk | blog | 5 | 2026-03-30 |
 | VC 3.0: How AI Is Changing Startup Funding Forever | blog | 5 | 2026-03-30 |
 | Venture Debt for Startups: 6 Must-Know Lessons Before You Sign the Term Sheet | blog | 5 | 2026-03-30 |
+| Was Brex's Acquisition A Failure? | blog | 5 | 2026-03-30 |
 | Web 2.0 | blog | 5 | 2026-03-31 |
 | Web3 Gaming Is An Evolution, Not A Revolution - NFX | blog | 5 | 2026-03-31 |
 | What a liberal immigration enforcement policy might look like | blog | 5 | 2026-03-30 |
@@ -1687,7 +1696,6 @@ Generated on 2026-04-04 | 2421 sources
 | A PM’s guide to influence | blog | 0 | 2026-03-31 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
 | A Quick Guide To Asking Good Customer Questions | blog | 0 | 2026-03-31 |
-| A Scientific Approach to VC | blog | 0 | 2026-03-31 |
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 0 | 2026-03-31 |
 | A Way to Detect Bias | blog | 0 | 2026-03-31 |
@@ -1895,7 +1903,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: The Media Landscape - Sense-Making 2.0 | blog | 0 | 2026-03-30 |
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
 | Deep Dive: Why AI Will Break the Grid | blog | 0 | 2026-03-30 |
-| Deep Dives | blog | 0 | 2026-03-30 |
 | DeepSeek R1: The AI Disruption No One Saw Coming | blog | 0 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 0 | 2026-03-31 |
 | Defining Property | blog | 0 | 2026-03-31 |
@@ -1939,7 +1946,6 @@ Generated on 2026-04-04 | 2421 sources
 | From 0 to 56,500: Celebrating One Year of The VC Corner 🚀🎉 | blog | 0 | 2026-03-30 |
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
 | From Numbers to Narrative: Financial Modeling for Founders 📊 | blog | 0 | 2026-03-30 |
-| From Outsider to $5B SPAC in 6 Years | blog | 0 | 2026-03-31 |
 | From Sci-Fi to Reality 🗣️ | blog | 0 | 2026-03-30 |
 | From Zero to IPO: Building eDreams Before the Playbooks | blog | 0 | 2026-03-30 |
 | Gaming Superpowers for Non-Game Founders with Gabi Shalel (Plarium) & Gigi Levy-Weiss | blog | 0 | 2026-03-31 |
@@ -1961,7 +1967,6 @@ Generated on 2026-04-04 | 2421 sources
 | Haters | blog | 0 | 2026-03-31 |
 | Having Kids | blog | 0 | 2026-03-31 |
 | Headcount Planning Template to Control Startup Burn | blog | 0 | 2026-03-30 |
-| Heresy | blog | 0 | 2026-03-31 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 417.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 419.5 | blog | 0 | 2026-03-30 |
@@ -1997,7 +2002,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 0 | 2026-03-30 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 0 | 2026-03-30 |
 | How to Lose Time and Money | blog | 0 | 2026-03-31 |
-| How to Model Mezzanine Financing End-to-End | blog | 0 | 2026-03-30 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
@@ -2098,7 +2102,6 @@ Generated on 2026-04-04 | 2421 sources
 | Ramen Profitable | blog | 0 | 2026-03-31 |
 | RAQs | blog | 0 | 2026-03-31 |
 | Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 0 | 2026-03-30 |
-| Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved Medical Care | blog | 0 | 2026-03-30 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
 | Relentlessly Resourceful | blog | 0 | 2026-03-31 |
 | Resilient Businesses Compete Beyond Technology, Product & Price | blog | 0 | 2026-03-31 |
@@ -2121,7 +2124,6 @@ Generated on 2026-04-04 | 2421 sources
 | Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 0 | 2026-03-30 |
 | Seed Strapping: A Smarter Startup Funding Strategy | blog | 0 | 2026-03-30 |
 | Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 0 | 2026-03-30 |
-| SEIU Delenda Est | blog | 0 | 2026-03-30 |
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 0 | 2026-03-30 |
 | Shameless Guesses, Not Hallucinations | blog | 0 | 2026-03-30 |
@@ -2209,7 +2211,6 @@ Generated on 2026-04-04 | 2421 sources
 | The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of "Quiet") | blog | 0 | 2026-03-31 |
 | The High-Res Society | blog | 0 | 2026-03-31 |
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
-| The Infinite Game: What Artists Know That Founders Don’t | blog | 0 | 2026-03-31 |
 | The Island Test | blog | 0 | 2026-03-31 |
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
 | The Lean Revenue Dashboard Every Startup Should Use | blog | 0 | 2026-03-30 |
@@ -2301,7 +2302,6 @@ Generated on 2026-04-04 | 2421 sources
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 0 | 2026-03-30 |
 | Vertical SaaS: Now With AI Inside, B2C is Back, AI Agents Landscape  | blog | 0 | 2026-03-30 |
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
-| Was Brex's Acquisition A Failure? | blog | 0 | 2026-03-30 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | Welcome to Chaos World | blog | 0 | 2026-03-30 |
 | What Can Quantum Computers Actually Do | blog | 0 | 2026-03-30 |

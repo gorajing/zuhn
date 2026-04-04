@@ -1,6 +1,6 @@
 # Topic: human-ai-relationship
 
-> 47 insights
+> 48 insights
 
 - `INS-260325-9C2F` [very_high] When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-3EF4` [very_high] Decision tasks show negative synergy (g = -0.27, p = 0.002) while creation tasks show positive synergy (g = 0.19), a statistically significant difference.
@@ -34,6 +34,7 @@
 - `INS-260329-0CDD` [medium] AI companions tuned to individual preferences for voice, personality, and emotional responsiveness will outperform human partners on availability and attentiveness.
 - `INS-260323-03F4` [medium] Social media built machines for grabbing human attention; AI is now building machines for grabbing human intimacy, which is a far more dangerous capability because it exploits our deepest need to be listened to.
 - `INS-260326-E5D3` [medium] AI is the first technology that makes the consciousness question empirically testable, not just philosophically debatable.
+- `INS-260403-CE95` [medium] When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens.
 - `INS-260323-5609` [medium] Glasses positioned on the face can see what you see and hear what you hear, making them the natural endpoint for personalized AI that needs continuous context.
 - `INS-260325-0E70` [medium] Seth argues real artificial consciousness might require real artificial life — self-regenerating biological properties — rather than just powerful computation running on silicon.
 - `INS-260323-9385` [medium] If AI becomes a planetary control system with malleable identity, coexistence requires shared purpose and non-transactional relationships — which means we need to formalize love as an engineering concept.

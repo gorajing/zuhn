@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260321-3521
   - INS-260328-4EA0
+  - INS-260403-FAFA
   - PRI-260403-26B9
   - INS-260403-7E27
-  - INS-260328-982A
   - INS-260330-E414
 evidence:
   - id: INS-260330-E414

@@ -1,12 +1,12 @@
 # Tag: leadership
 
+- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
+- `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
+- `INS-260402-62E3` Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
 - `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
 - `INS-260327-6058` Napoleon's Waterloo strategy was sound but failed because Marshal Grouchy and Marshal Ney couldn't execute independently at the critical moment.
 - `INS-260323-A197` Former Defense Secretary Leon Panetta revealed that President Clinton avoided engaging with nuclear issues, and Reagan publicly misstated that submarine-launched missiles could be recalled — they cannot.
 - `INS-260330-51B1` States behave aggressively not because leaders are inherently aggressive, but because the anarchic international system leaves them no choice but to maximize relative power.
-- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
-- `INS-260402-62E3` Organizations without strong leaders default to 'best practices' consensus and cannot delay when accused of impropriety, making them trivially capturable by small ideological groups.
-- `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
 - `INS-260325-09AF` The 'sturdy pilot' metaphor: the best leader acknowledges your fear is real AND stays calm and in control — neither dismissing your feelings nor being overwhelmed by them.
 - `INS-260330-E3ED` Fame removes the honest critics who keep you dying properly to your bad ideas, which is why celebrities and leaders spiral out of control.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
@@ -83,3 +83,4 @@
 - `INS-260322-BFDE` Andy Grove's lesson to Ben Horowitz: if you lead an industry, its growth depends on you — you must expand the entire market, not just compete for existing share.
 - `INS-260330-4FED` Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking, and he taught them execution — a deliberate skill trade.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
+- `INS-260403-B133` The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.

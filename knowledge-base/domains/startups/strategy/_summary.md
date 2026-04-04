@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 150 insights
+> 152 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -47,6 +47,7 @@
 - `INS-260330-54ED` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
 - `INS-260323-BEE6` [high] GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
 - `INS-260328-4BF3` [high] Getting angry about hype cycles is like getting angry about the weather — they always exist, so develop the skill of neutral observation instead.
+- `INS-260403-B133` [high] The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
 - `INS-260323-2DB0` [high] Asbestos companies funded Saranac Labs research with a clause giving them editorial control, then buried findings that showed cancer links.
 - `INS-260330-84BD` [high] The collapse of North Korea's Public Distribution System forced the emergence of illegal private markets that now sustain the majority of the population.
 - `INS-260330-D88C` [high] Humanity's interstellar messages span plaques, golden records, radio signals, silicon discs, and orbital satellites — each with different durability profiles — because no single medium survives all failure modes.
@@ -152,3 +153,4 @@
 - `INS-260322-AAEA` [medium] A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.
 - `INS-260330-3FCF` [medium] Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
 - `INS-260330-B27A` [medium] LA discovered that sunlight + chlorine + bromide creates bromate — a carcinogenic reaction not covered by existing regulations that only monitored ozone-based bromate formation.
+- `INS-260403-3E46` [medium] If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.

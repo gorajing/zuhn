@@ -1,6 +1,5 @@
 # Tag: habits
 
-- `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.
 - `INS-260325-4A01` Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
 - `INS-260325-27ED` You cannot eradicate a habit; you must keep the same cue and reward while swapping the routine.
 - `INS-260330-0149` Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
@@ -14,3 +13,4 @@
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
 - `INS-260329-6253` Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
 - `INS-260323-8848` People stay in situations they hate because familiarity feels safer than the unknown — real change comes from tiny daily actions (15 min/day) that slowly expand comfort zones without triggering nervous system rebellion.
+- `INS-260323-0982` For learning guitar (or any instrument), 10 minutes daily seven days a week beats one hour once a week — and keeping the guitar on a stand where you walk by it turns idle moments into practice sessions.

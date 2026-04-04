@@ -55,11 +55,11 @@ stance: >-
   amounts to risk-removal stages raise money more effectively than those who
   raise as much as possible
 related:
+  - INS-260403-FAFA
   - INS-260403-B9E6
   - INS-260323-8893
   - INS-260328-3F19
   - INS-260402-3FC5
-  - INS-260330-E414
 evidence:
   - id: INS-260330-E414
     type: EXTENDS

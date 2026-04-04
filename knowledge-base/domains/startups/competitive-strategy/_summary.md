@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 409 insights
+> 411 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -159,6 +159,7 @@
 - `INS-260327-FC6F` [high] There is no moat in AI — the best defense is offense, constantly innovating and pushing out new products faster than anyone else.
 - `INS-260324-8C6F` [high] In LA's saturated taco market, the winning strategy isn't being the best — it's being the best for your specific neighborhood by showing up at the same spot, same time, rain or shine, year after year.
 - `INS-260330-F0F2` [high] Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
+- `INS-260403-0AF6` [high] Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
 - `INS-260330-AFAD` [high] Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
 - `INS-260330-FF09` [high] The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260330-519D` [high] Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
@@ -283,6 +284,7 @@
 - `INS-260327-8997` [high] Amazon is literally running out of human beings who haven't already worked for them and quit, revealing a hard limit on growth-through-churn employment strategies.
 - `INS-260329-F33F` [high] Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
 - `INS-260330-45A9` [high] Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
+- `INS-260403-C7A0` [high] Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
 - `INS-260327-E359` [high] Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
 - `INS-260324-B0D3` [high] Before 2016, no retailer had a checkout problem. Amazon Go spooked the industry into replacing human cashiers with machines that increased wait times, theft, and frustration.
 - `INS-260323-D4EC` [high] Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.

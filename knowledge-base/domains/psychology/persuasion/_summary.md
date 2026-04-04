@@ -1,9 +1,11 @@
 # Topic: persuasion
 
-> 19 insights
+> 21 insights
 
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
+- `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
+- `INS-260403-915E` [high] Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260403-0F95` [high] Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - `INS-260403-A290` [high] Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.

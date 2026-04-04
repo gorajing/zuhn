@@ -49,10 +49,10 @@ stance: >-
   meritocracy
 related:
   - INS-260330-EFF3
+  - INS-260403-B4DC
   - INS-260330-4B16
   - INS-260403-3656
   - INS-260322-F128
-  - INS-260330-A812
 evidence:
   - id: INS-260330-A812
     type: SUPPORTS

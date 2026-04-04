@@ -1,5 +1,6 @@
 # Tag: gatekeeping
 
+- `INS-260403-CE95` When AI handles baseline craft, the creative surface expands because more people can skip to the expression layer where novel work actually happens.
 - `INS-260402-AD42` Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260402-B12D` Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260330-B8B0` Confucian scholars wrote that good emperors study Confucian classics — written by scholars — creating a circular dependency that sustained their institutional power for millennia.

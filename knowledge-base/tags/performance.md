@@ -19,9 +19,6 @@
 - `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
 - `INS-260330-4D8B` Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
-- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.
-- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
-- `INS-260323-9E30` Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
@@ -38,3 +35,6 @@
 - `INS-260325-75EA` A teacher makes deposits of knowledge; a coach observes your real performance over time and walks you through iterative change — the distinction is about feedback loops, not content.
 - `INS-260327-12BE` The largest Oracle cluster in a company grinding on queries ran 1000x faster on one-tenth the hardware when modeled as a graph in Neo4j.
 - `INS-260330-304C` Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
+- `INS-260323-422C` The more times you fall off the cliff, the faster you learn to recover -- eventually recovery becomes so seamless the audience never notices, and you effectively learn to fly.
+- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
+- `INS-260323-9E30` Wilkenfeld prefers 'trust' over 'confidence' because confidence implies a fixed belief in your identity ('I am this thing'), while trust is simply knowing you can handle whatever comes -- a more open and collaborative state.

@@ -6,5 +6,5 @@
 - `INS-260323-89C2` The 10 Blue Links was always a compromise — if the Google founders had LLMs from the start, they would have gone straight to direct answers, making the current AI transition an inevitability, not a disruption.
 - `INS-260328-8445` The cost to send something to space is declining exponentially like Moore's Law, enabling an explosion of space startups -- and current 'cheap launch' will look expensive in hindsight.
 - `INS-260322-415E` Very new, very big, very exciting world-changing technologies deterministically lead to bubbles — the question is whether we're in 1997, 1998, or 1999.
-- `INS-260322-D7B1` Even a 20-30% shift from Google to AI chatbots will dramatically raise paid search costs for remaining advertisers, making current acquisition strategies unviable.
 - `INS-260403-C0D4` Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
+- `INS-260322-D7B1` Even a 20-30% shift from Google to AI chatbots will dramatically raise paid search costs for remaining advertisers, making current acquisition strategies unviable.

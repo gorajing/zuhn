@@ -43,7 +43,6 @@ stance: >-
   percentage of the delta.
 related:
   - INS-260323-6351
-  - INS-260323-0DC4
   - INS-260329-64A3
   - INS-260329-A6EA
   - INS-260328-A417

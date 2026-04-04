@@ -48,9 +48,9 @@ stance: >-
   because a wrong model displaces the memorable things you want investors to
   retain.
 related:
-  - INS-260403-C625
-  - INS-260403-600F
   - INS-260403-1290
+  - INS-260403-C625
+  - INS-260403-A709
   - INS-260403-0267
   - INS-260403-E319
   - INS-260403-0701

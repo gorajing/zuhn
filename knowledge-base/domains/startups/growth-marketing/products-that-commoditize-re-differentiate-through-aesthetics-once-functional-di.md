@@ -40,11 +40,11 @@ stance: >-
   through aesthetics, limited editions, and brand collaborations, restarting the
   consumption cycle.
 related:
+  - INS-260403-A101
   - INS-260327-A620
   - INS-260403-3C2C
   - INS-260329-C0F1
   - INS-260329-EC30
-  - PRI-260328-AC85
   - INS-260327-2EFD
 evidence:
   - id: INS-260329-EC30
