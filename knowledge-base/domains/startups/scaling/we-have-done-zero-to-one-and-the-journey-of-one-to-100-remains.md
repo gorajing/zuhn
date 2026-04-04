@@ -46,10 +46,10 @@ stance: >-
   creation opportunity.
 related:
   - INS-260323-78A5
+  - INS-260403-5B89
   - INS-260330-8FE7
   - PRI-260403-5DEA
   - INS-260330-255F
-  - INS-260328-AA1F
 evidence:
   - id: INS-260330-255F
     type: EXTENDS

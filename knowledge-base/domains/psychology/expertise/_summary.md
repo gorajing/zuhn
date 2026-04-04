@@ -1,12 +1,13 @@
 # Topic: expertise
 
-> 41 insights
+> 42 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
 - `INS-260403-2822` [high] Founders don't ignore startup advice out of stubbornness — they reject it because counterintuitive truths sound like bad advice.
 - `INS-260403-0C33` [high] If you're bored making something, the result will look boring — morale is a design input, not just a side effect.
 - `INS-260402-8223` [high] Great work comes from deep curiosity about specific questions, not from forcing yourself through material via discipline.
+- `INS-260403-DEB6` [high] Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
 - `INS-260402-4E59` [high] Surprises — things that contradict what you thought you knew — are the highest-value facts because they correct existing errors.
 - `INS-260402-607A` [high] Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - `INS-260403-AAE4` [high] The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.

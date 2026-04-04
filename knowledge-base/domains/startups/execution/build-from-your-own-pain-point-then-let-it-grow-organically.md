@@ -46,7 +46,6 @@ stance: >-
   the problem and the most motivation to solve it.
 related:
   - INS-260321-2F09
-  - INS-260323-A2E5
   - PRI-260323-1B96
   - INS-260403-573F
   - INS-260402-D739
@@ -54,7 +53,8 @@ related:
   - INS-260403-C610
   - INS-260402-66A5
   - INS-260327-D2F3
-  - INS-260328-982A
+  - INS-260328-070D
+  - INS-260330-49C8
 ---
 Dohmke and his co-founders built Hockey App because they needed it for their own freelance mobile development business. Before Hockey App, distributing beta builds required emailing files, dragging them into iTunes, and explaining complex installation steps. They built the tool for themselves, and it turned into a real company.
 

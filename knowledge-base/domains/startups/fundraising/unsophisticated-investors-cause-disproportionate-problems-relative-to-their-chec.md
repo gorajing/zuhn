@@ -48,7 +48,6 @@ stance: >-
   Taking money from friends, family, or small unsophisticated investors creates
   more operational friction than the capital is worth.
 related:
-  - INS-260322-A02C
   - INS-260323-F9E5
   - INS-260328-195E
   - INS-260330-9B90

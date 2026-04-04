@@ -44,11 +44,11 @@ stance: >-
   Investors who require social proof before committing will systematically miss
   the best deals as founders gain power to penalize contingent offers
 related:
+  - INS-260403-25A8
   - INS-260329-4B45
   - INS-260327-6E93
   - INS-260327-5DD2
   - INS-260327-C083
-  - INS-260329-3392
 ---
 Graham describes how most investors rely on herd signals—they invest if others want in, and pass if others pass. As founders gain leverage, they can increasingly punish this behavior by giving priority to investors who commit unilaterally. Herd-followers get last place in line, which in oversubscribed rounds means missing the deal entirely.
 

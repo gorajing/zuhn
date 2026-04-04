@@ -1,10 +1,12 @@
 # Topic: venture-capital
 
-> 14 insights
+> 17 insights
 
 - `INS-260403-D98E` [high] Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260403-8002` [high] Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate.
+- `INS-260403-1D6E` [high] Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
 - `INS-260403-B008` [high] Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
+- `INS-260403-C732` [high] Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
 - `INS-260403-9775` [high] VC portfolio math requires every bet to be capable of returning the fund because most investments return zero.
 - `INS-260403-BB6B` [high] Venture returns are so concentrated in a few outliers that non-outlier investments are economically irrelevant.
 - `INS-260403-7CAF` [high] Cheap debt capital creates viable business models that wouldn't exist under pure equity financing.
@@ -15,4 +17,5 @@
 - `INS-260403-B9E6` [medium] Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260403-E1E4` [medium] Infrastructure windows are spotted through network proximity to technical founders, not through market analysis or public data.
 - `INS-260403-1FCD` [medium] Mega-scale industries resist digitization longest but produce disproportionate numbers of billion-dollar startups when disruption arrives.
+- `INS-260403-AA09` [medium] Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
 - `INS-260403-D500` [medium] Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.

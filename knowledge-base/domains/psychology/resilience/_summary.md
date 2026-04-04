@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 137 insights
+> 138 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -110,6 +110,7 @@
 - `INS-260327-37C8` [medium] Thompson's self-destruction wasn't separate from his creativity - it was the cost of trying to maintain authenticity while the world demanded he become a product.
 - `INS-260329-F04B` [medium] Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
 - `INS-260330-FE21` [medium] Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
+- `INS-260403-14CB` [medium] Success breeds temptations that erode the very determination that created the success, unless discipline scales proportionally.
 - `INS-260330-66F7` [medium] Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
 - `INS-260329-CA4F` [medium] Avoidance-framed habits stick better than aspiration-framed habits because they tap into evolutionarily older threat-detection circuits.
 - `INS-260330-DE89` [medium] Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.

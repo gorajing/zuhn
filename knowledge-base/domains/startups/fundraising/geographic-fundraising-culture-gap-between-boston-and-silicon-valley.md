@@ -49,5 +49,6 @@ related:
   - INS-260330-B09B
   - INS-260328-3959
   - INS-260327-D2A6
+  - INS-260403-9C63
 ---
 Wen experienced the contrast firsthand: despite building from MIT and YC, raising in Boston was fundamentally harder than Silicon Valley. Boston investors tend to be more conservative, wanting more traction before committing. Silicon Valley investors are more willing to bet on vision and team potential. For founders choosing where to build and raise, this geographic culture gap can mean the difference between funding and failure. The advice is not that one is better but that founders should match their fundraising strategy to the investor culture of their location.

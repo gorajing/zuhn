@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3347 actionable insights
+Generated on 2026-04-04 | 3355 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1271,6 +1271,7 @@ Generated on 2026-04-04 | 3347 actionable insights
 - [INS-260403-97D6] Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 - [INS-260403-FF74] Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
 - [INS-260403-C4E2] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
+- [INS-260403-0525] Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -1703,6 +1704,7 @@ Generated on 2026-04-04 | 3347 actionable insights
 - [INS-260330-FE21] Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
 - [INS-260330-B625] Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - [INS-260403-E300] Making failure publicly visible locks founders into persistence more effectively than potential upside.
+- [INS-260403-14CB] Success breeds temptations that erode the very determination that created the success, unless discipline scales proportionally.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -2023,6 +2025,7 @@ Generated on 2026-04-04 | 3347 actionable insights
 - [INS-260403-E3CC] Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - [INS-260403-CE7C] Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - [INS-260403-F932] If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
+- [INS-260403-3155] Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2408,6 +2411,8 @@ Generated on 2026-04-04 | 3347 actionable insights
 - [INS-260403-862E] Genuine problem interest predicts startup success better than ambition for money or status.
 - [INS-260403-A485] Making bullshit-minimization an explicit priority when choosing employers or customers yields outsized quality-of-life gains.
 - [INS-260403-F657] If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
+- [INS-260403-FE3B] Smart founders make better stories but determined founders make better outcomes — investors should weight determination over intelligence.
+- [INS-260403-2FC3] YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2551,6 +2556,8 @@ Generated on 2026-04-04 | 3347 actionable insights
 - [INS-260403-6712] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - [INS-260403-ED1F] Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
 - [INS-260403-5106] High-charisma founders get more tolerance for past mistakes than low-charisma ones.
+- [INS-260403-25A8] Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
+- [INS-260403-5B89] Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2957,6 +2964,7 @@ Generated on 2026-04-04 | 3347 actionable insights
 - [INS-260403-BA5D] In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - [INS-260403-5EB4] In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 - [INS-260403-8BE9] Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
+- [INS-260403-20B1] Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.

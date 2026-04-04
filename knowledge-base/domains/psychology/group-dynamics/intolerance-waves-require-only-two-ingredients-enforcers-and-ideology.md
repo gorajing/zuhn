@@ -54,6 +54,7 @@ related:
   - INS-260402-FFCB
   - INS-260325-36F0
   - INS-260330-2EB0
+  - INS-260403-0525
 ---
 Graham argues that the aggressively conventional-minded — people who enforce orthodoxy and are quick to punish deviation — exist in every sufficiently large society. They are normally only locally visible as the grumpy, censorious members of a group. Waves of intolerance arise when a large number of them unite behind a single ideology, creating a mob dynamic where each participant's enthusiasm amplifies the others'. The Cultural Revolution is cited as the extreme case: Mao merely said 'there are heretics among us, seek them out' and the enforcement was largely grassroots.
 

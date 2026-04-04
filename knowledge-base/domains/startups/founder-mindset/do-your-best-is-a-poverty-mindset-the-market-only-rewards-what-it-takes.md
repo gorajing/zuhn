@@ -50,7 +50,6 @@ stance: >-
   difference between self-consolation and market relevance, because the
   marketplace does not grade on effort curves.
 related:
-  - INS-260329-FCC6
   - INS-260329-3BEE
   - INS-260402-426C
   - INS-260329-D37E

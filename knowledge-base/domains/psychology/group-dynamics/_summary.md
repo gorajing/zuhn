@@ -1,10 +1,11 @@
 # Topic: group-dynamics
 
-> 45 insights
+> 47 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
 - `INS-260403-F322` [high] Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
+- `INS-260403-0525` [high] Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
 - `INS-260330-3528` [high] English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.
 - `INS-260330-4B55` [high] Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
@@ -44,6 +45,7 @@
 - `INS-260330-1293` [medium] North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260403-A4EB` [medium] Your colleagues self-selected for the same reasons you did, which amplifies whatever motivated the choice — money makes it worse, interest makes it better.
 - `INS-260403-9A57` [medium] LatAm founders' shared vision of regional transformation creates collaborative network density that purely profit-driven ecosystems struggle to replicate.
+- `INS-260403-D198` [medium] Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
 - `INS-260403-500F` [medium] More disagreement online is a structural artifact of conversational media, not evidence that people are angrier.
 - `INS-260330-534C` [medium] Which words are considered most offensive shifts historically, tracking whatever a culture holds most sacred or anxiety-producing.
 - `INS-260330-6300` [medium] Taboo words often become taboo through class-based avoidance — higher-status groups abandon terms associated with lower-status groups, creating a euphemism treadmill.

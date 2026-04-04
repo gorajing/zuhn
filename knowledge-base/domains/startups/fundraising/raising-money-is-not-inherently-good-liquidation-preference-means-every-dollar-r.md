@@ -49,8 +49,9 @@ related:
   - PRI-260403-26B9
   - INS-260328-D220
   - INS-260403-A57D
-  - INS-260330-7346
+  - INS-260403-5B89
   - INS-260327-8374
+  - INS-260330-7346
   - INS-260330-9B90
 stance: Each fundraise adds a liquidation preference stack
 evidence:

@@ -12,6 +12,7 @@
 - `INS-260330-A516` Tyson argues that the tiny DNA gap between chimps and humans suggests even a slightly more advanced alien would find our greatest intellects as unimpressive as we find chimps stacking boxes.
 - `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
 - `INS-260329-F04B` Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
+- `INS-260403-FE3B` Smart founders make better stories but determined founders make better outcomes — investors should weight determination over intelligence.
 - `INS-260328-68BA` The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260323-CF93` Intelligence is multi-dimensional — Bezos left theoretical physics when he saw people who could effortlessly do what was hard for him, then discovered his genius was lateral-thinking invention.
 - `INS-260330-04C0` Never attribute to conspiracy what can be explained by incompetence—executing complex lies exceeds most organizations' actual competency.

@@ -1,9 +1,10 @@
 # Topic: competitive-strategy
 
-> 430 insights
+> 432 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
+- `INS-260403-B7C6` [high] Overfunded competitors lose exit flexibility and operational agility, turning their capital advantage into a strategic cage.
 - `INS-260327-432E` [high] Start with a niche so small that big companies won't bother, then expand from strength.
 - `INS-260327-E093` [high] As a 19-year-old dropout with no credibility, he offered advertisers performance-based pricing — absorbing all risk — and grew to $150M ARR in 4 years.
 - `INS-260403-F52E` [high] RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
@@ -417,6 +418,7 @@
 - `INS-260322-F6AA` [medium] Industries whose profitability depends on making processes boring, difficult, and time-consuming are most vulnerable to LLM disruption — and many don't realize this is their actual business model.
 - `INS-260330-ACCD` [medium] China's Greater Bay Area assigns each city a distinct role — Hong Kong as global finance gateway, Shenzhen as tech hub, Macau as entertainment, Guangzhou as administration — creating a composite competitor stronger than any single city.
 - `INS-260327-EAB0` [medium] Nvidia's 'win-win' culture positions its success as customer success rather than competitor failure, creating ecosystem lock-in through expansion rather than extraction.
+- `INS-260403-3155` [medium] Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
 - `INS-260323-BF81` [medium] Altman believes AI tools now enable a single person to build a company worth over a billion dollars, delivering products that previously required teams of hundreds.
 - `INS-260402-8595` [medium] Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - `INS-260403-9BEF` [medium] Incumbents resist portable digital ownership because lock-in benefits them, creating an opening for startups to differentiate by giving users true ownership of virtual goods.

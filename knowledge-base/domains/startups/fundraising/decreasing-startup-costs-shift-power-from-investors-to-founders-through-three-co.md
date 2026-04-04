@@ -49,7 +49,6 @@ stance: >-
   faster to higher valuations.
 related:
   - INS-260322-8F80
-  - INS-260322-6C4B
   - INS-260321-E654
   - INS-260326-870E
   - INS-260327-1393
@@ -58,6 +57,7 @@ related:
   - INS-260328-372B
   - INS-260330-548B
   - INS-260330-3138
+  - INS-260403-5BFB
 ---
 Graham identifies three mechanisms that compound as startup costs decrease: (1) more people can start companies because the barrier is lower, (2) founders who don't desperately need money negotiate better equity terms with investors, and (3) technology makes companies grow faster, which increases valuation through both higher revenue and higher growth-rate multiples.
 

@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 31 insights
+> 32 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -23,6 +23,7 @@
 - `INS-260330-F23F` [high] India's requirement that foreign companies source 30% of materials locally before opening retail stores blocked Apple from its most profitable distribution channel.
 - `INS-260403-5D89` [high] A.Team gained pricing power by selling to CEOs seeking innovation speed rather than CFOs seeking cost reduction, reframing the same supply as premium rather than commodity.
 - `INS-260403-0350` [high] For SMBs, AI agents are pure value-add filling gaps they couldn't afford to fill; for enterprises, agents must replace entrenched processes, creating friction.
+- `INS-260403-20B1` [high] Startup hub quality exists on a spectrum where each step up in hub density yields compounding benefits.
 - `INS-260403-FA89` [high] Startup hubs form if and only if both technical talent and experienced investors are co-located; no other input is sufficient.
 - `INS-260403-5EB4` [high] In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
 - `INS-260402-6D5E` [high] Historical evidence shows wealth creation switches on and off like a fan depending on whether creators are allowed to keep their gains.

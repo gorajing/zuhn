@@ -43,7 +43,6 @@ stance: >-
   customers are succeeding — all other metrics are proxies.
 related:
   - INS-260322-683B
-  - INS-260326-870E
   - INS-260327-EAB0
   - INS-260403-99B1
   - INS-260327-200C
@@ -52,5 +51,6 @@ related:
   - INS-260403-64D0
   - INS-260328-9FC0
   - INS-260330-B5DF
+  - INS-260330-C391
 ---
 Ram cuts through the noise of startup metrics (revenue, valuation, user counts) with a simple heuristic: startup success equals customer success. If your customers are succeeding because of your product, everything else follows. The moment of seeing your first  customer payment is already pleasurable — whether you reach a billion depends on luck, trajectory, and problem set. But the foundation is always: are customers getting enough value to pay? This reframes the founder journey from chasing scale to obsessing over customer outcomes.

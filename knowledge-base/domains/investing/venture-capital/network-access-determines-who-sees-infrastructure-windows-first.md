@@ -51,8 +51,8 @@ related:
   - INS-260330-DDF0
   - INS-260403-C032
   - INS-260403-9DC6
+  - INS-260403-D198
   - INS-260403-5BFB
-  - INS-260403-B744
 ---
 NFX candidly describes how their space investment thesis originated not from top-down analysis but from network access — specifically, getting an early meeting with Stoke Space's founder. That single relationship opened a cascade: understanding launch economics revealed satellite manufacturing opportunities, which revealed on-orbit compute possibilities, which revealed navigation and application layers.
 

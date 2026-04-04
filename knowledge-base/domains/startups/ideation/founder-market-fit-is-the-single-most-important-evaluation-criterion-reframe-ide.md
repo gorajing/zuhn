@@ -62,7 +62,7 @@ related:
   - INS-260402-D739
   - INS-260327-E992
   - INS-260328-A9D2
-  - INS-260402-66A5
+  - INS-260403-82CC
 ---
 Among the 10 evaluation questions for startup ideas, the speaker singles out founder-market fit as the single most important. The example is PlanGrid: Tracy knew construction, Ralph was an excellent developer — the team was obviously right for building an iPad app for construction blueprints.
 

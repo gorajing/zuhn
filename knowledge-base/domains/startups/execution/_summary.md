@@ -1,8 +1,9 @@
 # Topic: execution
 
-> 198 insights
+> 199 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
+- `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260323-FCBB` [high] Sweeney spent 10-15,000 hours on hobby programming projects between ages 10-20 with no structured plan -- building compilers, databases, bulletin boards -- and every one of those skills became essential when building Unreal Engine years later.
 - `INS-260327-B561` [high] Two people managing 500 community members became possible through AI agents handling complete operational loops: member tracking, coupon issuance, calendar management, content creation, CS handoffs, and marketing dashboards.

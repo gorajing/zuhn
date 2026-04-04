@@ -51,11 +51,11 @@ stance: >-
   Claims to transcendent authority are competitive positioning moves whose
   success depends on audience context rather than intrinsic truth
 related:
+  - INS-260403-3155
   - INS-260322-E06A
   - INS-260403-34C0
   - INS-260325-EF66
   - INS-260327-9377
-  - INS-260327-E9FC
 evidence:
   - id: INS-260327-E9FC
     type: TRANSFERS_TO

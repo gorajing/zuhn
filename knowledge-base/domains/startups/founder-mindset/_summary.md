@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 291 insights
+> 293 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -98,11 +98,13 @@
 - `INS-260330-156C` [high] After 9 years of evaluating YC founders, Graham found that swaggering confidence and quiet self-doubt predict outcomes equally poorly — the only way to know is to try.
 - `INS-260328-2854` [high] Self-aware people at powerful institutions stay because they know no one will return their calls once they leave.
 - `INS-260327-2F78` [high] Learn to distinguish real conviction from stubbornness—the difference determines if you succeed or waste years.
+- `INS-260403-FE3B` [high] Smart founders make better stories but determined founders make better outcomes — investors should weight determination over intelligence.
 - `INS-260327-99DB` [high] Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
 - `INS-260329-E76F` [high] Redirect savings into skill development when your earning potential has the most room to grow.
 - `INS-260329-9F81` [high] Put early money into learning skills that multiply your earning power rather than into financial markets where the absolute returns on small capital are negligible.
 - `INS-260328-80E7` [high] Before any advice session, founders should define their goal: am I here for answers to specific questions, or do I need to talk through my feelings — both are valid but require different meetings.
 - `INS-260323-9E37` [high] Cuban recognized he was terrible at firing people because he wanted to see the best in everyone, so he always partnered with detail-oriented people who could make those hard calls.
+- `INS-260403-2FC3` [high] YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
 - `INS-260321-33FC` [high] At Palantir, each critical product was built by the one person in the world who could have done it — Karp's job is to help them express their unique genius while subtly inserting what they'd otherwise miss.
 - `INS-260329-32A4` [high] Prioritize jobs that maximize learning over immediate compensation during skill-building years.
 - `INS-260323-1BB4` [high] Youssef's wake-up call: he left Egypt for the 'land of the free' but found himself self-censoring on Israel-Palestine — the realization that freedom unused is freedom surrendered.
