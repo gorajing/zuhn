@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 164 insights
+> 167 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -101,6 +101,7 @@
 - `INS-260403-5B46` [high] Falling startup costs don't just shrink existing funding models — they open ecological niches for fundamentally new ones.
 - `INS-260403-8448` [high] Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
 - `INS-260403-5B89` [high] Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
+- `INS-260403-77B4` [high] PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260403-17A3` [high] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
 - `INS-260322-A31D` [high] Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
@@ -126,6 +127,7 @@
 - `INS-260403-36DD` [high] Minimal seed funding plus a hard demo deadline produces working prototypes faster than large raises.
 - `INS-260330-97F6` [high] In a downturn, assume your current bank balance is your terminal funding and work backward from that constraint to find a viable path to profitability or self-sustaining growth.
 - `INS-260402-5974` [high] Founders should fit investor meetings into gaps in their development schedule, not fit development into gaps between investor meetings.
+- `INS-260403-27AC` [high] Rejecting acquisition offers correlates with outsized outcomes because it selects for ambitious, conviction-driven founders.
 - `INS-260330-08FA` [high] The strongest fundraising position is not needing the money — reach ramen profitability before raising.
 - `INS-260330-9B90` [high] Uncle-and-neighbor investors who put in $5-10K each cause the most downstream problems because they eventually want their money back for personal needs.
 - `INS-260330-EE5E` [high] Small investors who don't understand startup timelines (uncles, neighbors putting in $5-10K) become the most problematic investors because they treat startup equity like a short-term liquid investment.
@@ -164,5 +166,6 @@
 - `INS-260403-7374` [medium] Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.
 - `INS-260328-D866` [medium] The most successful Standard Capital founders hadn't talked to any investors or built a deck -- they just applied and committed to the process if accepted.
 - `INS-260328-F301` [medium] Seed-stage funding is fairer than founders think: investors don't coordinate, there are many independent writers, criteria are public, and getting rejected by one investor doesn't poison the well with others.
+- `INS-260403-0680` [medium] There's a massive gap between $20K seed checks and $2M Series A rounds where promising startups can't find capital, creating opportunity for new investor classes.
 - `INS-260402-8424` [medium] VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
 - `INS-260330-C4D4` [medium] While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.

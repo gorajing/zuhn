@@ -7,4 +7,5 @@
 - `INS-260327-7427` Kierkegaard argued that the anxiety of having genuine choices is not a bug but a feature of human freedom - the only people without angst are those without real options.
 - `INS-260325-0E1D` Kierkegaard: anxiety is the dizziness of freedom — it signals authentic choice and numbing it eliminates the compass for meaningful action.
 - `INS-260323-1BB4` Youssef's wake-up call: he left Egypt for the 'land of the free' but found himself self-censoring on Israel-Palestine — the realization that freedom unused is freedom surrendered.
+- `INS-260403-E688` Wealth's real value is buying back your time and autonomy, not funding consumption.
 - `INS-260330-C087` Innovation requires freedom to fail — eliminating downside risk through regulation also kills upside innovation potential.

@@ -51,7 +51,6 @@ stance: >-
   exponential, because mistakes discovered during high-stakes events
   (fundraising, acquisition) require crisis-level remediation.
 related:
-  - INS-260330-A561
   - INS-260330-7F62
   - INS-260330-09FF
   - INS-260330-B09B

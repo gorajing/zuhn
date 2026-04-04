@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260323-5A96
   - PRI-260324-7ED9
+  - INS-260403-C844
   - INS-260323-5106
   - INS-260327-58AC
-  - INS-260324-DB86
 stance: >-
   Casper spent 73-91% of gross profit on advertising and lost $200 on every
   mattress sold — advertising is meant to grow a business, not sustain it.

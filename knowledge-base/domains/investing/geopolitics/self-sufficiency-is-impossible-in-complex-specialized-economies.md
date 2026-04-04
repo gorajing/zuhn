@@ -45,11 +45,11 @@ stance: >-
   self-sufficiency becomes structurally impossible, making isolation strategies
   futile.
 related:
+  - INS-260403-EB0B
   - INS-260330-DA4A
   - INS-260330-E17D
   - INS-260330-CF10
   - INS-260330-3FF4
-  - INS-260330-7C58
   - INS-260325-F8B8
   - INS-260325-66BE
   - INS-260327-479C

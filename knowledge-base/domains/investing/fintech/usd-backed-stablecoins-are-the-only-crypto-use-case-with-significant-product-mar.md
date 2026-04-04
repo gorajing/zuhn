@@ -49,9 +49,10 @@ stance: >-
 related:
   - INS-260330-F79F
   - INS-260403-A87D
+  - INS-260403-3912
   - INS-260403-8BE9
+  - INS-260403-3518
   - INS-260403-3F5F
-  - INS-260327-9BE8
 ---
 While crypto has spawned thousands of projects across DeFi, NFTs, and other verticals, the overwhelming majority of real-world adoption concentrates in USD-denominated stablecoins. Over 90% of the ~$135B stablecoin market cap represents USD-backed assets. This suggests that what people actually want from crypto infrastructure is not speculation or decentralized governance, but reliable access to dollar-denominated value transfer.
 

@@ -51,7 +51,6 @@ related:
   - INS-260403-8BE9
   - INS-260403-99DE
   - INS-260330-EEED
-  - INS-260403-A87D
 evidence:
   - id: INS-260330-EEED
     type: TRANSFERS_TO

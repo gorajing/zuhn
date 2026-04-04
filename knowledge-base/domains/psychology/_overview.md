@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 1797 insights across 20 topics
+> 1802 insights across 20 topics
 
 ## Topics
 
@@ -8,10 +8,10 @@
 | ----- | -------- | ------- |
 | behavior-change | 11 | Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like. |
 | cognition | 59 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
-| cognitive-biases | 237 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
+| cognitive-biases | 239 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 23 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
 | consciousness | 96 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
-| decision-making | 57 | What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result. |
+| decision-making | 60 | What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result. |
 | expertise | 49 | Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable. |
 | focus | 162 | Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content. |
 | founder-mindset | 16 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |

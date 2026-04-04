@@ -8,4 +8,5 @@
 - `INS-260403-1904` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260403-4423` Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.
 - `INS-260403-EE10` New investor archetypes will fill the early-stage vacuum because existing VCs cannot change their embedded risk profiles.
+- `INS-260403-0680` There's a massive gap between $20K seed checks and $2M Series A rounds where promising startups can't find capital, creating opportunity for new investor classes.
 - `INS-260403-63E6` When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.

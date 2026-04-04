@@ -1,6 +1,6 @@
 # Topic: fintech
 
-> 76 insights
+> 77 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
@@ -72,6 +72,7 @@
 - `INS-260324-8C30` [high] Venmo, CashApp, and PayPal require bank accounts and only work domestically — Western Union handles cash-to-cash transfers for migrant workers who need to send money to countries where banking is unreliable.
 - `INS-260327-8374` [high] A fund limiting withdrawals is the institutional finance equivalent of a bank limiting ATM withdrawals - it signals that assets cannot be liquidated fast enough to meet redemption demands.
 - `INS-260327-226A` [high] Many companies haven't been profitable in years and survived by continuously refinancing cheap debt - rising rates are exposing them all simultaneously.
+- `INS-260403-3518` [medium] Many independent stablecoin projects pegged to USD create redundancy that makes the dollar harder to overtake than a single CBDC would.
 - `INS-260323-D6C7` [medium] After Fama-French opened the door to factor research, academics published 316+ distinct factors by 2016 — creating a 'factor zoo' where most factors are likely data-mined noise, and only the robust few (market, size, value, profitability, investment) survive real-world transaction costs.
 - `INS-260329-55DC` [medium] Young people should invest in skills rather than the S&P 500 because earning capacity compounds faster than 10% annual market returns.
 - `INS-260329-B424` [medium] Options and leveraged positions let you control large assets with minimal capital, creating disproportionate upside potential.

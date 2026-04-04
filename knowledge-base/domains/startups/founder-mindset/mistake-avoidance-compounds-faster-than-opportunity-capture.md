@@ -44,10 +44,10 @@ stance: >-
   capital that a single win cannot recover.
 related:
   - INS-260402-E60E
+  - INS-260403-268C
   - INS-260329-89ED
   - INS-260403-830F
-  - INS-260402-6D5E
-  - INS-260402-A999
+  - INS-260403-D06F
   - INS-260329-8329
   - INS-260403-6602
 evidence:

@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 137 insights
+> 138 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -30,6 +30,7 @@
 - `INS-260330-83D5` [high] Support staff who can interrupt developers with live bugs become the most effective QA and product intelligence system.
 - `INS-260329-B1A1` [high] Audiences eagerly consume hours of complex content when production quality and intellectual respect are high
 - `INS-260327-C99D` [high] Deep AI does the whole 10-step task from one prompt; shallow AI assists each step in a human-guided workflow — both are valuable but for different reasons.
+- `INS-260403-912E` [high] Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.
 - `INS-260323-EBC3` [high] Moddoc stalled at low revenue serving 'all Koreans' until they narrowed to ophthalmology patients -- then revenue tripled annually.
 - `INS-260403-2A44` [high] Good design requires diagnosing user needs rather than implementing stated requests.
 - `INS-260327-289F` [high] Gamma's competitive moat is design taste encoded into building blocks: AI generates 10 layout options and picks the best, but the building blocks themselves were crafted by a team that was one-third designers.

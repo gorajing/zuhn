@@ -5,3 +5,4 @@
 - `INS-260329-B062` AI replaced creative and expert roles before low-skill physical jobs, reversing what most people predicted.
 - `INS-260327-98DE` AI breakthroughs that look like bugs will become common across all knowledge work.
 - `INS-260329-CF70` One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
+- `INS-260403-83C7` The rising importance of software in every industry means the cost of bureaucratic checks is increasing, not decreasing, over time.

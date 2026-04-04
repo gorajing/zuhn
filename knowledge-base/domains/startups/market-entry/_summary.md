@@ -1,6 +1,6 @@
 # Topic: market-entry
 
-> 33 insights
+> 34 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
@@ -13,6 +13,7 @@
 - `INS-260402-C030` [high] A large single-language domestic market lets startups ship simpler MVPs by deferring internationalization.
 - `INS-260403-8A8B` [high] Top talent actively avoided gig platforms not because of low pay but because the work structure itself was fundamentally unappealing — boring solo tasks with no creative fulfillment.
 - `INS-260403-B6A0` [high] Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
+- `INS-260403-6386` [high] Airbnb moved from air beds to spare rooms to professional rentals to hotels along a predictable continuum.
 - `INS-260403-1284` [high] Marketplaces in every category follow a predictable arc: horizontal discovery → vertical discovery → vertical transactional → fintech-enabled managed marketplace.
 - `INS-260403-1AE5` [high] New markets have no existing demand to capture, so spending on acquisition before the tipping point burns cash with no proportional return.
 - `INS-260330-3431` [high] Premium brand identity can prevent entry into massive price-sensitive markets where the bulk of demand sits far below your price floor.

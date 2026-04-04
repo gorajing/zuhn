@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3413 actionable insights
+Generated on 2026-04-04 | 3424 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1017,6 +1017,7 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-57F6] Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs.
 - [INS-260403-28C7] We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - [INS-260403-FAC0] People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
+- [INS-260403-99FE] When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1090,6 +1091,9 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-5CD6] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - [INS-260403-6B97] Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists.
 - [INS-260403-5BF9] Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
+- [INS-260403-45D5] PG told Fred to meet the Airbnb founders before debating the idea, because abstract debate anchors on skepticism.
+- [INS-260403-D06F] Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
+- [INS-260403-F075] Like floating on multi-layer shade balls, staying still keeps you on the surface while thrashing causes you to sink deeper.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1808,6 +1812,7 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-97F8] Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - [INS-260403-3F10] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - [INS-260403-C4DF] Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
+- [INS-260403-C844] Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2046,6 +2051,7 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-F932] If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
 - [INS-260403-3155] Graham moved YC to Silicon Valley partly because he didn't want someone else to copy the model and call themselves 'the Y Combinator of Silicon Valley.'
 - [INS-260403-35E7] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.
+- [INS-260403-3C9D] LVMH's free sanitizer from perfume factories bought permanent brand reclassification as a socially responsible corporation.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2440,6 +2446,7 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-F657] If you're excited about non-prestigious work and can explain what others miss about it, that's a positive signal worth acting on.
 - [INS-260403-FE3B] Smart founders make better stories but determined founders make better outcomes — investors should weight determination over intelligence.
 - [INS-260403-2FC3] YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
+- [INS-260403-0C1D] Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2595,6 +2602,7 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-270E] Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
 - [INS-260403-A0C4] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - [INS-260403-87CD] A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
+- [INS-260403-77B4] PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3134,6 +3142,7 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-9C60] The quality of a tool is measured by the journey it enables, not the destination it displays.
 - [INS-260403-0CA8] Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 - [INS-260403-9D8A] Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
+- [INS-260403-912E] Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -3411,6 +3420,7 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-B8A3] Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.
 - [INS-260403-066E] A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
 - [INS-260403-8A80] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
+- [INS-260403-46BD] Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3584,6 +3594,9 @@ Generated on 2026-04-04 | 3413 actionable insights
 - [INS-260403-419B] Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.
 - [INS-260403-19C0] Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.
 - [INS-260403-FBF0] Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built.
+
+## video-production/audience-building
+- [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

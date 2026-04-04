@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 19 insights
+> 22 insights
 
 - `INS-260403-D98E` [high] Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260403-4717` [high] Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
@@ -8,12 +8,15 @@
 - `INS-260403-1D6E` [high] Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
 - `INS-260403-B008` [high] Government employees optimize for decisions that can be justified if they fail, which is the exact opposite of good venture investing.
 - `INS-260403-C732` [high] Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
+- `INS-260403-268C` [high] Money attempts to be a reliable IOU from society but degrades through printing, theft, and reneging — making wealth-in-assets more durable than wealth-in-money.
 - `INS-260403-9775` [high] VC portfolio math requires every bet to be capable of returning the fund because most investments return zero.
 - `INS-260403-BB6B` [high] Venture returns are so concentrated in a few outliers that non-outlier investments are economically irrelevant.
+- `INS-260403-8291` [high] Seniority in investing creates anchoring bias that filters out novel categories.
 - `INS-260403-7CAF` [high] Cheap debt capital creates viable business models that wouldn't exist under pure equity financing.
 - `INS-260403-7C47` [high] As you move earlier in the funding spectrum, help matters exponentially more than money.
 - `INS-260403-C032` [high] Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 - `INS-260403-4C61` [high] NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
+- `INS-260403-2B1D` [high] Consensus-driven investment processes guarantee that the most outlier ideas — which generate the biggest returns — get rejected.
 - `INS-260403-7BEC` [high] VCs losing deals to other VCs preserves the industry; VCs losing deals to no one destroys it.
 - `INS-260403-330E` [medium] In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260403-B9E6` [medium] Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.

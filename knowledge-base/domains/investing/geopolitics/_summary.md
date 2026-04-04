@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 380 insights
+> 382 insights
 
 - `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
@@ -328,6 +328,7 @@
 - `INS-260330-F9C9` [medium] When billionaires capture regulatory systems, consumer economic pressure through boycotts becomes the primary remaining accountability mechanism.
 - `INS-260330-2718` [medium] If military action creates more terrorists than it eliminates, the strategy fails — conspicuous kindness breaks the cycle more effectively than force.
 - `INS-260330-4416` [medium] Louis XVI spending half of France's national budget on debt service was a leading indicator of regime collapse that no incremental reform could fix.
+- `INS-260403-3912` [medium] Stablecoins digitize the dollar's global reach, defending its reserve status against digital-native competitors.
 - `INS-260330-8F72` [medium] Chinese dynastic history reveals a recurring cycle of institutional vigor → consolidation → complacency → collapse that maps onto corporate and political institutions today.
 - `INS-260327-9CAD` [medium] Bunker Hill was technically a British victory but it taught the Americans they could fight regulars and taught the British nothing about how to actually win the war.
 - `INS-260330-0AD5` [medium] A stagnant developed country gains developing-country cost advantages while retaining first-world infrastructure and institutions, creating unique investment opportunity.
@@ -378,6 +379,7 @@
 - `INS-260330-38C9` [medium] Son's 'time machine' theory treats the US tech ecosystem as a preview of what will succeed globally, turning geographic lag into an investment edge.
 - `INS-260322-96F1` [medium] The entire GameStop crisis was caused by an archaic settlement system (T+1) that requires collateral posting for trades that have already occurred — tokenization eliminates this by enabling instant settlement.
 - `INS-260324-4521` [medium] Ukraine claims $15T in minerals but couldn't exploit them pre-war due to oligarch corruption, zero foreign investment (1% GDP), and no mining infrastructure — the US deal is a forcing function.
+- `INS-260403-8C92` [medium] Without trademarking USD for digital use, any entity — including hostile nations — can create counterfeit digital dollars backed by foreign currencies.
 - `INS-260321-5655` [medium] Venezuela, Iran, Greenland — every major US foreign policy move is about creating oil and resource chokepoints against China, not the surface-level reasons given publicly.
 - `INS-260330-01D5` [medium] Government dependence on land revenue creates existential incentives to suppress price discovery, allowing vacancy rates to climb far beyond what free markets would tolerate.
 - `INS-260327-8AF8` [medium] France had hundreds of thousands of troops in Spain but could never concentrate enough in one place because guerrilla warfare forced them to garrison everywhere.

@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 293 insights
+> 295 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -167,6 +167,7 @@
 - `INS-260323-DEC3` [high] The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
 - `INS-260323-422B` [high] The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.
 - `INS-260323-95BC` [high] Instead of continuous improvement (74 days to 72), strip every problem back to first principles and ask what physics allows — you'll often find 6 days is possible, and then the conversation from 74 to 6 becomes surprisingly productive.
+- `INS-260403-0C1D` [high] Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 - `INS-260329-A01C` [high] The opportunity cost of starting a second business is often the continued growth trajectory of your first one.
 - `INS-260402-27A1` [high] A failed startup teaches more founder skills in one year than several years at a big company.
 - `INS-260327-80A8` [high] A startup success is your customer success — focus on whether they are getting value, not on vanity metrics.
@@ -218,6 +219,7 @@
 - `INS-260322-A61A` [high] Stan Lee tested Spider-Man in a dying magazine's last issue because nobody cared what went in it — low-stakes channels are the perfect testing ground for ideas that gatekeepers rejected.
 - `INS-260329-89ED` [high] Eliminating the 28 behaviors that guarantee poverty is a more reliable wealth strategy than any positive wealth-building framework.
 - `INS-260329-60CF` [high] Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
+- `INS-260403-E688` [high] Wealth's real value is buying back your time and autonomy, not funding consumption.
 - `INS-260327-3E6F` [high] When quitting isn't an option, every obstacle becomes a design problem to solve rather than a reason to stop.
 - `INS-260327-88FE` [high] When YouTube's dating site version had zero uploads for a week, they pivoted to general video sharing and adopted a culture of shipping experiments overnight — like video responses — without knowing if any would work.
 - `INS-260327-CEE4` [high] Work on problems where the effort you put in and the reward you get is disproportionate — not the hardest problems, the highest-leverage ones.

@@ -199,9 +199,9 @@ Generated on 2026-04-04 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
@@ -764,6 +764,7 @@ Generated on 2026-04-04 | 2421 sources
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
 | 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
+| 4 Innovative Business Pivots In The Age Of The Pandemic | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | 4 Stages of Go-To-Market Strategy | blog | 4 | 2026-03-30 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
@@ -830,8 +831,12 @@ Generated on 2026-04-04 | 2421 sources
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
+| SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 4 | 2026-03-30 |
+| Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 4 | 2026-03-30 |
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
+| Stablecoins Are Defense Tech | blog | 4 | 2026-03-31 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
+| Subject: Airbnb | blog | 4 | 2026-03-31 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
@@ -842,6 +847,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The High-Res Society | blog | 4 | 2026-03-31 |
 | The List of N Things | blog | 4 | 2026-03-31 |
+| The Other Half of "Artists Ship" | blog | 4 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 4 | 2026-03-30 |
@@ -858,6 +864,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
+| Why There Aren't More Googles | blog | 4 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 4 | 2026-03-31 |
 | Why TV Lost | blog | 4 | 2026-03-31 |
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
@@ -894,6 +901,7 @@ Generated on 2026-04-04 | 2421 sources
 | But what is a Fourier series?  From heat flow to drawing with circles | DE4 | youtube | 4 | 2026-03-30 |
 | But why is a sphere's surface area four times its shadow? | youtube | 4 | 2026-03-30 |
 | Can you really reach anyone in 6 steps? | youtube | 4 | 2026-03-23 |
+| Can You Swim in Shade Balls? | youtube | 4 | 2026-03-30 |
 | Chris Lattner: Future of Programming and AI | Lex Fridman Podcast #381 | youtube | 4 | 2026-03-24 |
 | Chris Voss: FBI Hostage Negotiator | Lex Fridman Podcast #364 | youtube | 4 | 2026-03-24 |
 | Claude Code + Karpathy's Autoresearch = GOD MODE! | youtube | 4 | 2026-03-22 |
@@ -981,6 +989,7 @@ Generated on 2026-04-04 | 2421 sources
 | Scaling AI Rocketships: ElevenLabs’ Mati Staniszewski & Lovable’s Anton Osika | youtube | 4 | 2026-03-26 |
 | Sean Carroll: Physics will challenge your ideas of free will | youtube | 4 | 2026-03-25 |
 | See Through Suppressor in Super Slow Motion (110,000 fps)  - Smarter Every Day 177 | youtube | 4 | 2026-03-30 |
+| Seek Wealth, Not Money or Status | youtube | 4 | 2026-03-30 |
 | Serhii Plokhy: History of Ukraine, Russia, Soviet Union, KGB, Nazis & War | Lex Fridman Podcast #415 | youtube | 4 | 2026-03-24 |
 | Silicon Valley's new miracle drug | youtube | 4 | 2026-03-22 |
 | Social Media Expert: The Content Strategy That Turned Into MILLIONS | youtube | 4 | 2026-03-23 |
@@ -1780,7 +1789,6 @@ Generated on 2026-04-04 | 2421 sources
 | 350+ Places to Post Your Startup: The Ultimate Launch List | blog | 0 | 2026-03-30 |
 | 350+ Places to Post Your Startup 📢 | blog | 0 | 2026-03-30 |
 | 4 Important Facts About Business Model Innovation For 2016 & Beyond | blog | 0 | 2026-03-31 |
-| 4 Innovative Business Pivots In The Age Of The Pandemic | blog | 0 | 2026-03-31 |
 | 4 Mistakes That Can Kill Your Business Model | blog | 0 | 2026-03-31 |
 | 400+ Seed VCs Backing Startups in the US & Europe 💰 | blog | 0 | 2026-03-30 |
 | $40K Mistake: Building Features Nobody Wanted | blog | 0 | 2026-03-30 |
@@ -2178,14 +2186,12 @@ Generated on 2026-04-04 | 2421 sources
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
-| SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
 | Schlep Blindness | blog | 0 | 2026-03-31 |
 | See Randomness | blog | 0 | 2026-03-31 |
 | Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 0 | 2026-03-30 |
 | Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 0 | 2026-03-30 |
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
-| Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 0 | 2026-03-30 |
 | Shameless Guesses, Not Hallucinations | blog | 0 | 2026-03-30 |
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
 | Shield AI Air Force Deal, Google's TurboQuant, and Meta's Brain-Predictive AI | blog | 0 | 2026-03-30 |
@@ -2198,7 +2204,6 @@ Generated on 2026-04-04 | 2421 sources
 | SpaceX-xAI Merger: The $1.25T Company | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
 | Sponsorships | blog | 0 | 2026-03-30 |
-| Stablecoins Are Defense Tech | blog | 0 | 2026-03-31 |
 | Stages of Board Deck Preparation📝, How to be helpful as a VC📚, Secondary Market VC Funds🔄 | blog | 0 | 2026-03-30 |
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
@@ -2212,7 +2217,6 @@ Generated on 2026-04-04 | 2421 sources
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
 | Strategyzer Peer Learning Summit with MasterCard, GE, 3M, Intel, and Many More | blog | 0 | 2026-03-31 |
 | Stuff | blog | 0 | 2026-03-31 |
-| Subject: Airbnb | blog | 0 | 2026-03-31 |
 | Substack CEO Chris Best on 5M Paid Subs & the Future of Creator-Owned Media | blog | 0 | 2026-03-30 |
 | Tablets | blog | 0 | 2026-03-31 |
 | Tariffs are Killing Your Next VC Round📉, Google’s 2025 Prompt Playbook📘, Founders Fund $4.6 Bn Fund💸 | blog | 0 | 2026-03-30 |
@@ -2263,7 +2267,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Need to Read | blog | 0 | 2026-03-31 |
 | The New World for Entrepreneurs 🌍, State of Private Markets 🔍, AI Eating Software 🚀 | blog | 0 | 2026-03-30 |
 | The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 0 | 2026-03-30 |
-| The Other Half of "Artists Ship" | blog | 0 | 2026-03-31 |
 | The Patent Pledge | blog | 0 | 2026-03-31 |
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
 | The Pooled-Risk Company Management Company | blog | 0 | 2026-03-31 |
@@ -2357,7 +2360,6 @@ Generated on 2026-04-04 | 2421 sources
 | Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 0 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 0 | 2026-03-30 |
-| Why There Aren't More Googles | blog | 0 | 2026-03-31 |
 | Why to Start a Startup in a Bad Economy | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |
@@ -2388,7 +2390,6 @@ Generated on 2026-04-04 | 2421 sources
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
 | Brainf**k in 100 Seconds | youtube | 0 | 2026-03-30 |
 | C in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Can You Swim in Shade Balls? | youtube | 0 | 2026-03-30 |
 | Don’t chase happiness. Become antifragile | Tal Ben-Shahar | Big Think | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 0 | 2026-03-30 |
@@ -2408,7 +2409,6 @@ Generated on 2026-04-04 | 2421 sources
 | Navy SEAL has a '40 Percent Rule' and it's the key to overcoming mental barriers | Big Think | youtube | 0 | 2026-03-30 |
 | Photosynthesis: Crash Course Biology #8 | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Seek Wealth, Not Money or Status | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
 | TATTOOING Close Up (in Slow Motion) - Smarter Every Day 122 | youtube | 0 | 2026-03-30 |
 | The most unexpected answer to a counting puzzle | youtube | 0 | 2026-03-30 |

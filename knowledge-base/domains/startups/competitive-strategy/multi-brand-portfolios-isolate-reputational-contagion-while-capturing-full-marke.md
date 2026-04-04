@@ -51,7 +51,6 @@ stance: >-
   stretching across segments because it firewalls catastrophic reputation events
 related:
   - INS-260324-98F6
-  - INS-260323-07BE
   - INS-260324-1CC8
   - INS-260327-77A0
   - INS-260327-0E28

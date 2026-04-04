@@ -58,5 +58,6 @@ related:
   - INS-260330-4B9A
   - INS-260330-D3AA
   - INS-260323-849E
+  - INS-260403-F075
 ---
 Vsauce's simulation shows that on a flat disc, gravity only points 'straight down' at the exact center. As you move toward the edges, the gravitational vector tilts increasingly toward the center because the bulk of mass is no longer symmetrically distributed beneath you. At the edges, you'd experience gravity pulling mostly sideways. Water would pool at the center, trees would grow at extreme angles, and the edges would be uninhabitable cliffs of lateral force. This thought experiment reveals something deeper: geometry is not merely descriptive but causally fundamental. The shape of a massive body doesn't just affect what it looks like — it determines the entire character of forces, flows, and livability. This insight transfers to system design: the topology/geometry of any system (organizational structure, network architecture, market structure) shapes the 'forces' that participants experience far more than surface-level rules do.

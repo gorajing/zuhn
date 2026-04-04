@@ -47,7 +47,6 @@ stance: >-
   reliable as a controlled experiment
 related:
   - INS-260329-0117
-  - INS-260329-BF96
   - INS-260329-8329
   - INS-260403-830F
   - INS-260403-160A

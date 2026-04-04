@@ -53,7 +53,6 @@ stance: >-
   industrial production, technology — are morally neutral instruments that
   amplify destruction exactly as efficiently as they amplify creation.
 related:
-  - INS-260325-6262
   - INS-260321-13C6
   - INS-260327-BA97
   - INS-260330-23CD

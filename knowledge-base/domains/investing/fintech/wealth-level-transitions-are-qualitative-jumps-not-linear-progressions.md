@@ -50,7 +50,6 @@ stance: >-
   income to net worth to access to influence.
 related:
   - INS-260325-EBC3
-  - INS-260323-1338
   - INS-260329-8329
   - INS-260402-CF0A
   - INS-260402-8F1E

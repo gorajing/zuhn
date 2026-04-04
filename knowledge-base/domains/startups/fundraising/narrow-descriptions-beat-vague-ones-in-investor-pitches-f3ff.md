@@ -50,7 +50,6 @@ stance: >-
   'could be anything' its information content approaches zero.
 related:
   - INS-260327-6D57
-  - INS-260402-9288
   - INS-260403-2204
   - INS-260403-A0C4
   - INS-260403-D430

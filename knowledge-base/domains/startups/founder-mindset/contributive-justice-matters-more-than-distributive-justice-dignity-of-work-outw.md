@@ -51,10 +51,10 @@ resolutions:
     moral truths.
 related:
   - INS-260402-A999
+  - INS-260403-268C
   - INS-260330-EA56
   - PRI-260403-2B12
   - INS-260327-C316
-  - INS-260330-B906
 stance: >-
   Even if we perfectly redistributed wealth, the deeper crisis is that society
   accords prestige to those who manage symbols and money rather than tho...

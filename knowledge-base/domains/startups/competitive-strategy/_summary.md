@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 443 insights
+> 447 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -277,6 +277,7 @@
 - `INS-260330-106F` [high] Since the 1970s, antitrust law has equated low prices with consumer benefit, creating a blind spot for companies like Amazon that maintain low prices while eliminating competition through cross-subsidization.
 - `INS-260324-1216` [high] Burger King fell from clear #2 to irrelevant because PE ownership oversimplified the business into quarterly numbers, while Wendy's with fewer resources but clearer vision took the #2 spot.
 - `INS-260327-EAB9` [high] Under 3G Capital's PE ownership, Burger King's operating margins jumped from 15% to 69% and they went from 88% to 100% franchised -- but average store revenue stayed flat at $1.18M for five years, showing zero improvement in actual customer demand.
+- `INS-260403-5348` [high] Software purchase committees meant to save money force vendors to charge 10x more, because the overhead of selling through committees only justifies high-ticket deals.
 - `INS-260330-4DFA` [high] Distribution beats product in the strategic hierarchy because running out of customers or money kills you before a mediocre product does.
 - `INS-260327-CCD0` [high] Plant-based meat alternatives that position themselves as replacements for meat face rejection when taste comparison ine
 - `INS-260327-0746` [high] Products that solve invisible problems struggle with retention because customers cannot perceive whether the product is 
@@ -291,9 +292,11 @@
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
 - `INS-260330-C761` [high] When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.
+- `INS-260403-D8C1` [high] Clear, minimal regulation — like trademarking USD and setting three simple requirements — can unleash private-sector innovation at ecosystem scale.
 - `INS-260403-1F40` [high] Jurisdiction-specific regulation prevents winner-take-all dynamics and protects local startups from global incumbents.
 - `INS-260330-D460` [high] Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
 - `INS-260323-6D41` [high] In evolutionary simulations, winning replicators consistently had the highest replication rate and lowest death rate -- speed of copying is the dominant competitive advantage.
+- `INS-260403-3C9D` [high] LVMH's free sanitizer from perfume factories bought permanent brand reclassification as a socially responsible corporation.
 - `INS-260330-3274` [high] Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
 - `INS-260327-9CB1` [high] Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260327-7BB5` [high] GameStop core business was dead the moment digital distribution became viable because no amount of operational excellenc
@@ -343,6 +346,7 @@
 - `INS-260330-9313` [high] Apple's high-quality iPhones flood secondary markets, forcing new models to compete against still-excellent used versions of themselves.
 - `INS-260330-27E8` [high] Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
 - `INS-260329-7CDE` [high] Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
+- `INS-260403-65D2` [high] Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
 - `INS-260324-A9DF` [high] Taco Bell outperforms McDonald's, Burger King, and KFC in per-store earnings because Yum Brands concentrated resources on its winner while letting KFC and Pizza Hut stagnate.
 - `INS-260330-F9B4` [high] Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.
 - `INS-260327-A462` [high] Companies that tried to disrupt walking with scooters and segways failed because they competed against an activity that 
