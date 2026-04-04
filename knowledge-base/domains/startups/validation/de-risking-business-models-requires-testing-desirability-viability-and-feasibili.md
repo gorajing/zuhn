@@ -53,7 +53,7 @@ related:
   - INS-260403-B1F2
   - INS-260403-699B
   - PRI-260323-8EEA
-  - INS-260403-0701
+  - INS-260403-1BCC
 ---
 The innovation risk axis in Osterwalder's framework is grounded in evidence accumulation across desirability (do customers want this?), viability (can this generate sustainable profit?), and feasibility (can we build and deliver this?). Ideas with no evidence sit at the far left; those rigorously tested across all three dimensions move right.
 

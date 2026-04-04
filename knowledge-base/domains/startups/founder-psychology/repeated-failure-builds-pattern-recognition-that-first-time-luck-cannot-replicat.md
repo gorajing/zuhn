@@ -54,7 +54,6 @@ related:
   - INS-260330-30CE
   - INS-260330-CD65
   - INS-260330-2CE5
-  - INS-260403-3569
 stance: >-
   Investors who back founders with 3-4 failures are buying battle-tested pattern
   recognition that lucky first-timers never develop.

@@ -49,8 +49,7 @@ related:
   - INS-260403-ACA8
   - INS-260403-924B
   - INS-260403-9AB5
-  - INS-260402-EE6E
-  - INS-260403-2BEE
+  - INS-260403-EEDB
 ---
 The Invincible Company framework and similar portfolio approaches argue that innovation fails when quarantined from the core business. Organizations need structured tools to run exploitation (core) and exploration (new ventures) simultaneously, not sequentially or in separate silos.
 

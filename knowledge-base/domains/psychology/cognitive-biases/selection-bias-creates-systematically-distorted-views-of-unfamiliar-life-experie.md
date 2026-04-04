@@ -53,9 +53,9 @@ related:
   - INS-260327-8DDE
   - INS-260330-2B29
   - INS-260325-5977
+  - INS-260403-5C89
   - INS-260330-F399
   - INS-260330-9743
-  - INS-260325-6534
 ---
 Paul Graham realized his pre-parenthood view of kids was shaped entirely by selection bias — he only noticed children in shared bottlenecks like airplanes where things were going wrong, never during the peaceful everyday moments that parents treasure most. The quiet magic of parenthood is invisible to outsiders because it happens in private and is hard to articulate.
 

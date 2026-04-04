@@ -51,11 +51,11 @@ stance: >-
   changing simultaneously — constraining all variables except one is the only
   reliable way to find actual breaking points
 related:
+  - INS-260403-8114
   - INS-260330-D7CA
   - INS-260403-2DEE
   - INS-260330-D1A1
   - INS-260330-4B45
-  - INS-260323-257D
 evidence:
   - id: INS-260330-D7CA
     type: TRANSFERS_TO

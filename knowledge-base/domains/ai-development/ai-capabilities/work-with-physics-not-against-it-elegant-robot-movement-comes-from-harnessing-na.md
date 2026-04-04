@@ -55,6 +55,7 @@ related:
   - INS-260323-DDC2
   - INS-260330-5DCA
   - INS-260330-FB9C
+  - INS-260403-8114
 stance: >-
   The most elegant and efficient robot movement comes from designing machines
   whose physics naturally want to do the right thing, then augmenting wit...

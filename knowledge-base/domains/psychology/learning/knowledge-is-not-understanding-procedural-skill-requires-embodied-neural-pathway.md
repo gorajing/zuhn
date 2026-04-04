@@ -47,10 +47,10 @@ stance: >-
   form through physical practice.
 related:
   - INS-260330-8901
+  - INS-260403-8114
   - INS-260402-F479
   - INS-260330-3B73
   - INS-260403-9DA1
-  - PRI-260321-7307
 evidence:
   - id: INS-260320-76E7
     type: SUPPORTS

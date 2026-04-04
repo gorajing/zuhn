@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 245 insights
+> 247 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -29,6 +29,7 @@
 - `INS-260330-09AD` [high] Harvard Business School's largest graduating cohort systematically catches the last wave — junk bonds before Milken's arrest, tech at the dot-com peak, housing before 2008 — because extroverted, low-conviction people use competition as a proxy for value.
 - `INS-260330-0BD3` [high] If someone claims they were too incompetent to prevent fraud, but built 50+ subsidiaries and one-way information walls, the complexity itself is evidence of deliberate design.
 - `INS-260330-CA8E` [high] Knowing the math behind G-forces did not prepare Destin for the physical reality of 7G in an F-16.
+- `INS-260403-8D87` [high] Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
 - `INS-260325-F2ED` [high] Kontorovich spent 20 years trying to prove Collatz true before realizing he should also search for counterexamples — a structural bias present in most research.
 - `INS-260330-0AE2` [high] Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260325-A08A` [high] The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
@@ -194,6 +195,7 @@
 - `INS-260330-EBF6` [high] A $300K Lamborghini feels like $30 to someone earning $400M/year because price sensitivity scales with the ratio, not the absolute number.
 - `INS-260330-6620` [high] Every person who tried the backwards bicycle knew exactly what was different, yet none could override their ingrained steering bias through conscious effort.
 - `INS-260330-FBE1` [medium] Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses.
+- `INS-260403-359D` [medium] Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
 - `INS-260327-2021` [medium] In a world changing faster than experience can adapt to, age is no longer a reliable proxy for wisdom - accumulated experience can be accumulated irrelevance.
 - `INS-260329-895D` [medium] Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion.
 - `INS-260326-9E23` [medium] Before reaching for psychological explanations of cognitive or emotional symptoms, test the cheap physiological fix first.

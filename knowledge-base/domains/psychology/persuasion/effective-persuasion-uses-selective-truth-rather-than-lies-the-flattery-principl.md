@@ -51,8 +51,8 @@ related:
   - INS-260330-39E4
   - INS-260330-D066
   - INS-260330-3899
-  - INS-260330-281A
   - INS-260330-3851
   - INS-260330-78B8
+  - INS-260330-6A3A
 ---
 Graham draws an explicit parallel between flattery and PR: a good flatterer doesn't lie but tells selective truths ('what a nice color your eyes are'). Similarly, the best PR firms feed reporters stories that are genuinely true, but whose truth happens to favor their clients. This is why the best firms are the most effective — their credibility with reporters depends on never lying. The mechanism is nearly undetectable because every individual claim checks out. The manipulation lies not in what's said but in why this particular truth was surfaced over countless other equally true stories. This principle extends far beyond PR — it's the core mechanism of framing effects in politics, sales, and interpersonal persuasion.

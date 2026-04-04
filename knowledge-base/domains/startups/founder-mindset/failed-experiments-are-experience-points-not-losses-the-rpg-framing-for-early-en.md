@@ -52,8 +52,8 @@ stance: >-
 related:
   - INS-260327-F544
   - INS-260329-2EF9
+  - INS-260403-5C89
   - INS-260402-27A1
   - INS-260330-A86C
-  - INS-260329-3E28
 ---
 Hormozi reframes the psychology of early failure using RPG mechanics. When you're broke and bet on something that doesn't work, the natural feeling is 'I'm back at zero.' But you're actually at zero plus one experience, then plus two, plus three. At some threshold — maybe 18 experiences — you level up. This isn't just motivational framing; it changes the rational calculus of how to spend money when broke. Instead of saving (which at minimum wage will never compound fast enough), reinvest every excess dollar into income-generating experiments. Each failed experiment costs money but buys an experience point. The first $100K took him 5 years, but the experience points from those 5 years of experiments were what enabled everything after. The wealthiest people he knows think exclusively in terms of skills rather than money — they'll always trade money for skill acquisition because skills compound in ways savings cannot.

@@ -59,6 +59,7 @@ related:
   - INS-260330-207D
   - INS-260330-CCD8
   - PRI-260403-88F5
+  - INS-260403-260B
 ---
 Gupta's central claim about anxiety (and all psychological problems): the person asking 'how do I get rid of anxiety?' will never resolve it as long as they seek a solution external to the anxiety itself. The cure is to go backwards — examine what anxiety actually is, when it arises, where in the body it manifests, what situations trigger it. Know its face rather than running from it.
 

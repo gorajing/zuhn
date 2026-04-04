@@ -1,0 +1,3 @@
+# Tag: organizational-trust
+
+- `INS-260403-4850` The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.

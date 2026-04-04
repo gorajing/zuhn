@@ -51,7 +51,6 @@ stance: >-
   behavior is alien) and hire candidates who are bad at it (because they feel
   familiar).
 related:
-  - INS-260322-82E8
   - INS-260329-F51D
   - INS-260327-89C7
   - INS-260403-7FFA
@@ -60,6 +59,7 @@ related:
   - INS-260329-F063
   - INS-260330-F3A8
   - INS-260330-3A7B
+  - INS-260403-6714
 evidence:
   - id: INS-260329-F063
     type: CHALLENGES

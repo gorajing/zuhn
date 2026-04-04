@@ -55,10 +55,10 @@ stance: >-
   credibility.
 related:
   - INS-260330-9DE6
+  - INS-260403-4502
   - INS-260330-DBA4
   - INS-260323-144F
   - INS-260322-627E
-  - INS-260330-A5C4
 evidence:
   - id: INS-260330-9DE6
     type: EXTENDS

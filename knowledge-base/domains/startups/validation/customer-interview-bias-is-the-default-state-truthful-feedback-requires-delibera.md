@@ -52,10 +52,10 @@ related:
   - INS-260330-775F
   - INS-260330-DAAD
   - INS-260330-478C
-  - INS-260330-F3A8
   - INS-260330-A6BE
   - INS-260403-2718
-  - PRI-260328-B2EA
+  - INS-260403-359D
+  - INS-260403-C737
 ---
 Rob Fitzpatrick's Mom Test principle highlights a fundamental flaw in how most teams validate ideas: asking people about your idea triggers social desirability bias. Customers will praise your concept to avoid conflict, producing false positives that waste months of development.
 

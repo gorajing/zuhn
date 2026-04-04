@@ -44,10 +44,10 @@ resolutions:
     to the entire educational enterprise.
 related:
   - INS-260403-B1F2
+  - INS-260403-1BCC
   - PRI-260323-2FEE
   - INS-260402-D0F3
   - INS-260330-7819
-  - PRI-260323-A33E
   - INS-260322-AB55
   - INS-260403-62B2
   - INS-260403-343D

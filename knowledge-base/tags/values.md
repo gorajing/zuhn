@@ -8,3 +8,4 @@
 - `INS-260329-9EFA` Commitment means trading novelty for loyalty, exploration for trust, and the chase for a shared journey — only commit if you value what you receive more than what you give up.
 - `INS-260327-A8D9` If you don't use your values for the hardest decisions of your life, they're not really your values.
 - `INS-260323-FA30` Teddy Atlas's father never lectured about values -- he picked up homeless people on holidays, treated patients for free, and his son absorbed these values through proximity and observation rather than direct instruction.
+- `INS-260403-4850` The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.

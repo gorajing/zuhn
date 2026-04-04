@@ -50,11 +50,11 @@ stance: >-
   identity unlocks the psychological freedom to pursue genuinely important work
   in parallel.
 related:
+  - INS-260403-5F44
   - INS-260330-25A8
   - INS-260325-2B17
   - INS-260329-28A6
   - PRI-260323-50FE
-  - INS-260327-8521
 evidence:
   - id: INS-260325-2B17
     type: CHALLENGES

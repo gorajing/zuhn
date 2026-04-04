@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3485 actionable insights
+Generated on 2026-04-04 | 3499 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -902,6 +902,7 @@ Generated on 2026-04-04 | 3485 actionable insights
 - [INS-260330-293E] When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - [INS-260403-D64B] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - [INS-260403-D467] Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
+- [INS-260403-5C89] Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -1020,6 +1021,8 @@ Generated on 2026-04-04 | 3485 actionable insights
 - [INS-260403-28C7] We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - [INS-260403-FAC0] People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - [INS-260403-99FE] When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
+- [INS-260403-359D] Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
+- [INS-260403-8D87] Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -2293,6 +2296,7 @@ Generated on 2026-04-04 | 3485 actionable insights
 - [INS-260403-0A1C] Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
 - [INS-260403-144A] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 - [INS-260403-3346] Operational competence earns the trust needed for strategic ambition.
+- [INS-260403-C4BE] Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2932,6 +2936,7 @@ Generated on 2026-04-04 | 3485 actionable insights
 - [INS-260403-B4F1] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
 - [INS-260403-268F] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - [INS-260403-F8A2] Innovation functions need CEO-level reporting to survive organizational inertia.
+- [INS-260403-5F44] Innovation should live in every job rather than be siloed into a dedicated department or role.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3046,6 +3051,8 @@ Generated on 2026-04-04 | 3485 actionable insights
 - [INS-260403-3FF5] Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - [INS-260403-7CAA] Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 - [INS-260403-48CC] Push purpose and strategy understanding down so frontline staff can make decisions without managerial approval.
+- [INS-260403-EEDB] The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.
+- [INS-260403-96FA] The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -3473,6 +3480,7 @@ Generated on 2026-04-04 | 3485 actionable insights
 - [INS-260403-3062] Costco pays double the retail average ($21/hr vs ~$10.50) yet gets 3x more productive employees, making the higher wage a net-positive investment rather than an expense.
 - [INS-260403-F6F9] Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
 - [INS-260403-62B4] Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
+- [INS-260403-4850] The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3655,6 +3663,12 @@ Generated on 2026-04-04 | 3485 actionable insights
 - [INS-260403-FFEA] Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - [INS-260403-0803] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - [INS-260403-EA8C] Demonstrating that people already struggle with inadequate workarounds for your problem is the most compelling demand signal for investors.
+- [INS-260403-1BCC] Replace opinion-gathering with experiments that require customers to sacrifice something real — time, money, or reputation.
+- [INS-260403-C737] Always follow customer interviews with cheap experiments that observe actual behavior, because what people say and what they do diverge systematically.
+- [INS-260403-6714] Asking 'why' repeatedly during interviews uncovers the real motivations behind customer behavior that surface answers conceal.
+- [INS-260403-E816] Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.
+- [INS-260403-63E2] Rank hypotheses by how catastrophically wrong you could be, then test the most dangerous ones first.
+- [INS-260403-260B] Validate that the problem exists and matters before testing whether your solution addresses it.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

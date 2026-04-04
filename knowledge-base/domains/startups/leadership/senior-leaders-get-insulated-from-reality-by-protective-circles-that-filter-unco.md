@@ -54,7 +54,7 @@ related:
   - PRI-260403-E023
   - INS-260322-2FAD
   - INS-260322-2ABB
-  - PRI-260323-9EAD
+  - INS-260403-96FA
 evidence:
   - id: INS-260402-62E3
     type: EXTENDS

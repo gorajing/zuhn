@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 310 insights
+> 311 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -94,6 +94,7 @@
 - `INS-260323-15F4` [high] Philip Tetlock's 20-year study of 284 experts and 80,000 predictions found that the most confident, framework-driven experts (hedgehogs) were the least accurate — often worse than random chance.
 - `INS-260327-A40E` [high] Brands with decades of cultural presence command premiums based on accumulated social proof, family tradition, and aspir
 - `INS-260330-E4AD` [high] High-frequency waves dissipate faster than low-frequency ones, meaning distance acts as a natural low-pass filter on all wave-based information.
+- `INS-260403-4502` [high] Processes too fast for human perception contain mechanical structure only revealed through time-stretching observation tools.
 - `INS-260327-A3A2` [high] Humanity's technological power to affect planetary-scale change has grown exponentially while the wisdom to wield it has barely improved since ancient philosophy.
 - `INS-260327-8E9B` [high] When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, cr
 - `INS-260327-538D` [high] Indigenous peoples have accumulated millennia of ecological knowledge through direct observation that Western science is only now catching up to through formal methods.

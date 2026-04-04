@@ -52,6 +52,7 @@ related:
   - INS-260325-E895
   - INS-260329-D913
   - INS-260330-BE23
+  - INS-260403-C4BE
 stance: AI doesn't just automate procedures — it automates judgment calls
 evidence:
   - id: INS-260325-E895

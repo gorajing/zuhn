@@ -56,7 +56,6 @@ related:
   - INS-260403-BDE0
   - INS-260323-F853
   - INS-260329-0CDD
-  - INS-260330-5B0C
 evidence:
   - id: INS-260329-0CDD
     type: CHALLENGES

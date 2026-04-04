@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 164 insights
+> 166 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -19,6 +19,7 @@
 - `INS-260327-24D2` [high] Parker Conrad argues CEOs must develop firsthand understanding of every area rather than delegating to domain experts and trusting them to figure it out.
 - `INS-260403-6731` [high] CEO time allocation to innovation is the single strongest predictor of whether innovation programs produce results.
 - `INS-260403-8E4D` [high] Steve Jobs was unique because he had genuine taste himself rather than delegating it, which most CEOs do and which the design paradox shows produces near-random outcomes.
+- `INS-260403-EEDB` [high] The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.
 - `INS-260323-F15D` [high] When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
 - `INS-260325-B50B` [high] CIA's three-step training model — educate, exercise, experience — compresses skill acquisition by immediately applying classroom learning in real-world settings with self-accountability.
 - `INS-260330-956E` [high] A company's output scales with the number of 'barrels' — people who can independently drive projects end-to-end — not total headcount.
@@ -150,6 +151,7 @@
 - `INS-260330-E0A9` [medium] Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.
 - `INS-260330-4AAD` [medium] Toussaint L'Ouverture made conquered enemy generals into his own generals because he valued cultural elevation over revenge.
 - `INS-260329-4F3F` [medium] When everyone knows the numbers, you spend less time convincing them why the new priority matters.
+- `INS-260403-96FA` [medium] The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
 - `INS-260329-4531` [medium] Narrating your live thinking process, including mistakes, teaches subordinates faster than only sharing polished outputs.
 - `INS-260323-2038` [medium] Lex Fridman argues that jiu-jitsu is humbling and that humility is a powerful tool for innovation and leadership, especially for tech leaders who rarely experience physical vulnerability.
 - `INS-260330-00AA` [medium] Because Muhammad governed Medina as both prophet and political leader, Islam never developed a separate civic-vs-religious legal tradition the way Christianity did.

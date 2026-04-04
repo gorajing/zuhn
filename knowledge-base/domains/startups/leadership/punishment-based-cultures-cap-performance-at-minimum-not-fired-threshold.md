@@ -57,7 +57,6 @@ related:
   - INS-260330-2691
   - INS-260330-687B
   - INS-260330-5A4C
-  - INS-260330-39D7
 evidence:
   - id: INS-260326-2E56
     type: SUPPORTS

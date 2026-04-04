@@ -46,7 +46,6 @@ stance: >-
   in to minimize time in complacency.
 related:
   - INS-260326-8E6D
-  - INS-260327-8D82
   - INS-260329-E078
   - INS-260329-1D08
   - INS-260329-C689

@@ -307,6 +307,7 @@ Generated on 2026-04-04 | 2421 sources
 | Billionaires Build | blog | 5 | 2026-03-31 |
 | Black Swan Farming | blog | 5 | 2026-03-31 |
 | build a Billion-Dollar Startup with a minimal team thanks to AI | blog | 5 | 2026-03-30 |
+| Building an innovation culture | blog | 5 | 2026-03-31 |
 | Building Confidence Networks In Latin America | blog | 5 | 2026-03-31 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
 | Business models: the toolkit to design a disruptive company | blog | 5 | 2026-03-31 |
@@ -334,6 +335,7 @@ Generated on 2026-04-04 | 2421 sources
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
 | From Outsider to $5B SPAC in 6 Years | blog | 5 | 2026-03-31 |
+| From Zero to IPO: Building eDreams Before the Playbooks | blog | 5 | 2026-03-30 |
 | Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology and Comfort Are Rewiring a Generation | blog | 5 | 2026-03-30 |
 | Global AI Adoption📊, SaaS Multiples Compress📉, How People Use ChatGPT💬 | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
@@ -771,6 +773,7 @@ Generated on 2026-04-04 | 2421 sources
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
+| 13 Traps That Can Render Your Market Research Irrelevant | blog | 4 | 2026-03-31 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
 | 2020 Year in Review | blog | 4 | 2026-03-31 |
@@ -788,6 +791,7 @@ Generated on 2026-04-04 | 2421 sources
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
 | A Local Revolution? | blog | 4 | 2026-03-31 |
+| A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 4 | 2026-03-31 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
@@ -815,6 +819,7 @@ Generated on 2026-04-04 | 2421 sources
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
+| Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
 | Fierce Nerds | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
@@ -829,6 +834,7 @@ Generated on 2026-04-04 | 2421 sources
 | Headcount Planning Template to Control Startup Burn | blog | 4 | 2026-03-30 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
+| How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 4 | 2026-03-30 |
 | How to Disagree | blog | 4 | 2026-03-31 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
@@ -868,6 +874,7 @@ Generated on 2026-04-04 | 2421 sources
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
 | The Anatomy of Determination | blog | 4 | 2026-03-31 |
+| The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 4 | 2026-03-30 |
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 4 | 2026-03-30 |
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
@@ -1176,6 +1183,7 @@ Generated on 2026-04-04 | 2421 sources
 | Stop Developing Skills Until You Identify Your Natural Hardware | youtube | 3 | 2026-03-23 |
 | Strategic Narrative: Framework Behind Salesforce, Gong & Turing | Andy Raskin | youtube | 3 | 2026-03-26 |
 | Tal Wilkenfeld: Music, Guitar, Bass, Jeff Beck, Prince, and Leonard Cohen | Lex Fridman Podcast #408 | youtube | 3 | 2026-03-24 |
+| TATTOOING Close Up (in Slow Motion) - Smarter Every Day 122 | youtube | 3 | 2026-03-30 |
 | Teddy Atlas: Mike Tyson, Cus D'Amato, Boxing, Loyalty, Fear & Greatness | Lex Fridman Podcast #406 | youtube | 3 | 2026-03-24 |
 | The 2 reasons all startups fail | Misti Cain | TEDxSanDiego | youtube | 3 | 2026-03-23 |
 | The Case Against AI | Robert Wright, Emily Bender, and Alex Hanna | youtube | 3 | 2026-03-23 |
@@ -1797,7 +1805,6 @@ Generated on 2026-04-04 | 2421 sources
 | 12 Mistakes To Avoid When Turning An Idea Into A Business | blog | 0 | 2026-03-31 |
 | 121 Startups Fundraising Right Now (With Pitch Decks) | Exclusive Deal Flow for 2025 | blog | 0 | 2026-03-30 |
 | 13 Essential Strategyzer Links On Organizational Culture | blog | 0 | 2026-03-31 |
-| 13 Traps That Can Render Your Market Research Irrelevant | blog | 0 | 2026-03-31 |
 | 14 Essential Links For Working With The Business Model Canvas | blog | 0 | 2026-03-31 |
 | 14 habits of highly effective product managers | blog | 0 | 2026-03-31 |
 | 144 Family Offices That Cut Pre-Seed Checks | blog | 0 | 2026-03-30 |
@@ -1865,7 +1872,6 @@ Generated on 2026-04-04 | 2421 sources
 | A new-parent gift guide | blog | 0 | 2026-03-31 |
 | A new perk for annual subscribers: A free year of some of the world's most beloved products (while supplies last) | blog | 0 | 2026-03-31 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
-| A Quick Guide To Asking Good Customer Questions | blog | 0 | 2026-03-31 |
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
 | A Way to Detect Bias | blog | 0 | 2026-03-31 |
 | A Word to the Resourceful | blog | 0 | 2026-03-31 |
@@ -1957,7 +1963,6 @@ Generated on 2026-04-04 | 2421 sources
 | Bradley's Ghost | blog | 0 | 2026-03-31 |
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
 | Building a World-Class Innovation Culture: Bayer | blog | 0 | 2026-03-31 |
-| Building an innovation culture | blog | 0 | 2026-03-31 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
@@ -2043,7 +2048,6 @@ Generated on 2026-04-04 | 2421 sources
 | Defining Property | blog | 0 | 2026-03-31 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Disconnecting Distraction | blog | 0 | 2026-03-31 |
-| Distribution Is the Final Moat | blog | 0 | 2026-03-30 |
 | Do Founders Ever Take a Vacation?🌴,AI and Longevity🤖, Venture Trends Q2 2024📊 | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
 | Early Work | blog | 0 | 2026-03-31 |
@@ -2073,7 +2077,6 @@ Generated on 2026-04-04 | 2421 sources
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
 | From Numbers to Narrative: Financial Modeling for Founders 📊 | blog | 0 | 2026-03-30 |
 | From Sci-Fi to Reality 🗣️ | blog | 0 | 2026-03-30 |
-| From Zero to IPO: Building eDreams Before the Playbooks | blog | 0 | 2026-03-30 |
 | Gaming Superpowers for Non-Game Founders with Gabi Shalel (Plarium) & Gigi Levy-Weiss | blog | 0 | 2026-03-31 |
 | Gangster affordability | blog | 0 | 2026-03-30 |
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
@@ -2101,7 +2104,6 @@ Generated on 2026-04-04 | 2421 sources
 | How Money Flows 🌊, Chamath’s $380M Loss🤯, VCs Eating PE with AI🔀 | blog | 0 | 2026-03-30 |
 | How much software budget do you need for an early stage fund? | blog | 0 | 2026-03-30 |
 | How Natural Tradeoff And Failure Components? | blog | 0 | 2026-03-30 |
-| How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 0 | 2026-03-30 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How Solar Beat Coal, Gas, and Nuclear Combined | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
@@ -2244,7 +2246,6 @@ Generated on 2026-04-04 | 2421 sources
 | The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
 | The Airbnbs | blog | 0 | 2026-03-31 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
-| The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 0 | 2026-03-30 |
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
 | The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
@@ -2413,7 +2414,6 @@ Generated on 2026-04-04 | 2421 sources
 | Photosynthesis: Crash Course Biology #8 | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
-| TATTOOING Close Up (in Slow Motion) - Smarter Every Day 122 | youtube | 0 | 2026-03-30 |
 | The most unexpected answer to a counting puzzle | youtube | 0 | 2026-03-30 |
 | This free Chinese AI just crushed OpenAI's $200 o1 model... | youtube | 0 | 2026-03-30 |
 | This new AI is powerful and uncensored… Let’s run it | youtube | 0 | 2026-03-30 |
