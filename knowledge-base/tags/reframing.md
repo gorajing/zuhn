@@ -4,9 +4,9 @@
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260327-178D` Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
-- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
+- `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260325-6534` People who believe being alone is positive feel good during alone time; those who believe it is negative feel lonelier — making belief the key variable, not the aloneness itself.
 - `INS-260325-765F` Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
 - `INS-260329-A6FB` Syntax errors should be understood as Python saying 'I don't understand' rather than 'you're bad at this'.

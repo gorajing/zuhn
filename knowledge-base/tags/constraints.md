@@ -28,12 +28,12 @@
 - `INS-260330-66F7` Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
 - `INS-260403-0AF7` Existential constraints strip away incrementalism and force founders into genuinely novel business model territory.
 - `INS-260403-5BAC` Costco stocks only ~4,000 items vs 140,000 at Walmart, making suppliers compete fiercely for limited shelf space.
+- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260329-ADC4` Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
 - `INS-260329-C0A7` The business bottleneck is almost never in the domain the founder enjoys most.
 - `INS-260403-4328` Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
-- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260403-2FC3` YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.

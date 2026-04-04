@@ -1,14 +1,14 @@
 # Tag: abstraction
 
-- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
-- `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260402-06DB` Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260402-0DC9` Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260402-2879` Define program meaning independently of implementation, then layer optimization advice on top.
+- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
+- `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
-- `INS-260330-4B30` Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload.
 - `INS-260330-BF2A` Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
+- `INS-260330-4B30` Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload.
 - `INS-260330-E5F7` Languages succeed by occupying unique positions on the abstraction-vs-control spectrum, and shifts happen when new languages find gaps in that curve.
 - `INS-260330-AB62` Declarative UI frameworks won adoption by making UI a function of state, eliminating manual DOM synchronization bugs rather than improving raw performance.
 - `INS-260329-4F8C` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation is the root of all software modularity.

@@ -10,8 +10,8 @@
 - `INS-260330-30CE` Users who experience AI failure on first try rarely return, creating an adoption death spiral that compounds over time.
 - `INS-260325-95A6` MIT found 95% of genAI pilots yield zero P&L impact because enterprise AI tools become static science projects that never adapt to real workflows.
 - `INS-260327-1C7C` Crosby built a law firm rather than legal software because doing the work yourself creates irreplaceable telemetry for improving AI accuracy beyond 90%.
-- `INS-260322-D1AB` Track four quadrants — high eval + high views (validated winners), high eval + low views (false positives), low eval + high views (missed patterns), low eval + low views (confirmed failures) — to continuously improve both your eval and your prompts.
 - `INS-260327-1D23` Markets crashed trillions in days then recovered almost immediately because reflexivity means expectations don't just predict reality - they change it, creating self-amplifying loops.
+- `INS-260322-D1AB` Track four quadrants — high eval + high views (validated winners), high eval + low views (false positives), low eval + high views (missed patterns), low eval + low views (confirmed failures) — to continuously improve both your eval and your prompts.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-1839` Getting to a working demo fast creates dopamine hits that make the pain of learning self-sustaining.
 - `INS-260403-A6B1` Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.

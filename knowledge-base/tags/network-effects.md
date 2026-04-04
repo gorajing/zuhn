@@ -4,9 +4,9 @@
 - `INS-260323-F963` Python's dominance in AI comes from being the glue that composes disparate systems, creating a viral ecosystem cycle — not from the language itself.
 - `INS-260330-6411` ETH's dual role as both money and ecosystem fuel creates a synergistic flywheel that pure store-of-value assets like Bitcoin cannot replicate.
 - `INS-260327-EA4E` Facebook and Google built genuine data moats through organic adoption and network effects, but consumer startups that spent millions on paid acquisition to 'collect data' never achieved the same compounding advantage because their data was purchased, not earned.
+- `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
 - `INS-260330-D583` Lack of banking infrastructure in Africa turned into a competitive advantage for mobile payment adoption.
 - `INS-260330-7ED0` M-PESA succeeded because Safaricom's telecom monopoly solved the cold-start problem that fragments US mobile payment competitors.
-- `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 - `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
 - `INS-260327-D25D` Christianity spread across the Roman Empire's road network, administrative structure, and urban hierarchy — then outlasted the empire itself by inheriting its institutional infrastructure.
@@ -51,6 +51,7 @@
 - `INS-260403-1AD3` Startup ecosystems need a critical mass threshold before they become self-reinforcing through network effects.
 - `INS-260403-13E6` Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
 - `INS-260330-7D6D` Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260330-059C` ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260327-B357` Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
@@ -62,7 +63,6 @@
 - `INS-260403-2759` Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - `INS-260403-E497` Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 - `INS-260330-1C90` Optimize your first job for the quality of people you'll work with, not the paycheck or prestige on your resume.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260403-1904` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260403-CC4E` Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.

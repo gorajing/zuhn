@@ -4,8 +4,8 @@
 - `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260403-FFFE` Model alignment is a removable fine-tuning layer, not a fundamental architectural property.
 - `INS-260403-27F5` Proprietary AI safety layers are strategically undermined by uncensored open-source alternatives that attract users seeking unrestricted generation.
-- `INS-260327-1439` Proposed legislation threatens to criminalize sharing health information that contradicts pharmaceutical interests
 - `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
+- `INS-260327-1439` Proposed legislation threatens to criminalize sharing health information that contradicts pharmaceutical interests
 - `INS-260403-D609` Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
 - `INS-260402-116A` Groups that are simultaneously powerful and nervous produce the most aggressively enforced speech norms.
 - `INS-260325-AC52` Censorship systematically backfires because suppressing ideas creates martyrs and amplifies interest through the Streisand Effect.

@@ -4,8 +4,8 @@
 - `INS-260325-890D` LLMs see the world as a dense web of context-specific relationships, not as universal if-then rules.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
 - `INS-260323-2D1D` Pythagoras's theorem has been unchanged for 2500 years while Newton's gravity was superseded by Einstein's — mathematical proof produces certainty that empirical science cannot.
-- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
 - `INS-260325-76E6` Even on Mars, we can never fully prove the absence of life — there is always another rock to check, another canyon to explore, making proof of cosmic loneliness impossible.
+- `INS-260330-BA13` SHA256's security is empirical rather than proven — no one has found a way to reverse it, but there's no proof that it's impossible.
 - `INS-260330-984C` Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260403-ABB7` Good-sounding writing and correct thinking are structurally coupled through rhythm matching idea shape and revision forcing truth-convergence.
 - `INS-260330-8FF8` The silicon sphere (atom-counting) and the Watt Balance (Planck's constant) provide independent checks on each other that neither could achieve alone.
