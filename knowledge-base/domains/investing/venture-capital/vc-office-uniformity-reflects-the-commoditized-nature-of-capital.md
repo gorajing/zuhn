@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260327-61AE
   - INS-260330-F527
+  - INS-260404-312D
   - INS-260403-0435
   - PRI-260403-5DEA
-  - INS-260325-8B36
 ---
 Graham observes that VC offices on Sand Hill Road are 'boringly uniform'—same buildings, minimal exteriors, confusing layout—and calls this 'a pretty accurate reflection of the VC business.' This is a sharp insight: capital itself is a commodity, and VC firms that try to differentiate through surface-level branding are fighting the wrong battle.
 

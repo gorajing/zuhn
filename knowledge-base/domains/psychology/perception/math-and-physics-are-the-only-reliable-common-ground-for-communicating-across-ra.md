@@ -52,11 +52,11 @@ stance: >-
   sensory overlap, mathematical and physical constants are the only substrate
   that reliably transfers meaning.
 related:
+  - INS-260404-80AC
   - INS-260330-6AFA
   - INS-260323-DA1E
   - INS-260323-144F
   - INS-260330-B224
-  - INS-260330-E89A
   - INS-260330-D88C
   - INS-260330-8FF8
   - INS-260330-601A

@@ -55,7 +55,7 @@ related:
   - INS-260402-66A5
   - INS-260402-8424
   - INS-260402-E140
-  - INS-260403-0530
+  - INS-260403-0CCB
 ---
 Graham's advice for choosing between competing startup offers reframes the decision as an investment: you're investing your time, so ask which company you'd buy stock in. The key signal is founder quality, with determination ranked above raw intelligence.
 

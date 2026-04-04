@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 85 insights
+> 86 insights
 
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
@@ -13,6 +13,7 @@
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.
 - `INS-260403-B710` [high] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
 - `INS-260403-3D7D` [high] RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
+- `INS-260404-C497` [high] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 - `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
 - `INS-260330-B3D5` [high] RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260404-5309` [high] RuBisCo's oxygen-confusion problem shows that optimization for one context creates vulnerabilities when context shifts — a pattern visible in careers, companies, and cognitive habits.

@@ -4,6 +4,7 @@
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
 - `INS-260325-5B7F` Standards enabled computing at scale by allowing workers who didn't understand the underlying science to reliably execute their piece of a complex calculation.
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
+- `INS-260404-EDEC` The 1987 supernova neutrino arrival simultaneously with light over tens of thousands of light-years outweighed the OPERA result over 454 miles.
 - `INS-260330-814E` WWII's unprecedented destruction came not from unprecedented hatred but from unprecedented industrial capacity to act on ordinary human impulses at scale.
 - `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
 - `INS-260325-96FB` Common sense works perfectly within its calibrated range and fails predictably outside it.

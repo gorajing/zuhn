@@ -44,6 +44,7 @@
 - `INS-260330-47CF` Plants spend enormous metabolic energy producing enzymes to break down RuBisCo's toxic byproduct rather than fixing the enzyme itself — the biological equivalent of compounding technical debt.
 - `INS-260329-C92A` When you can afford it, hire directors and senior leaders first rather than building up from junior employees.
 - `INS-260330-C658` Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
+- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260404-CC7C` RuBisCo is evolution's ultimate legacy system — plants produce 40 billion tons of a bad enzyme rather than redesign the core pathway.
 - `INS-260403-0162` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement — scaling around inefficiency creates permanent cost.
 - `INS-260403-F290` Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
@@ -71,4 +72,3 @@
 - `INS-260403-EDA2` RuBisCo is a terrible enzyme that conquered the planet by being produced in enormous quantities — 40 billion tons — rather than being redesigned.
 - `INS-260330-E180` Putin delayed pension reform for 13 years after vowing never to touch it, then was forced into a more extreme version that caused his worst-ever approval crisis.
 - `INS-260330-3FCF` Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
-- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.

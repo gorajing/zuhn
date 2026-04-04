@@ -50,7 +50,6 @@ related:
   - INS-260327-70DF
   - INS-260327-4367
   - INS-260330-66E6
-  - INS-260330-BD04
 evidence:
   - id: INS-260323-86FA
     type: SUPPORTS

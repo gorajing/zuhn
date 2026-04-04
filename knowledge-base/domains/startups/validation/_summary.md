@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 141 insights
+> 142 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -36,6 +36,7 @@
 - `INS-260403-FFEA` [high] Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260402-E140` [high] Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.
 - `INS-260403-6714` [high] Asking 'why' repeatedly during interviews uncovers the real motivations behind customer behavior that surface answers conceal.
+- `INS-260404-80AC` [high] The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
 - `INS-260327-1E44` [high] Developers spend 60% of their time on non-coding activities — finding and automating those repetitive workflows is where AI startups should focus.
 - `INS-260330-48DE` [high] Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
 - `INS-260403-A60E` [high] A founding vision reframed as a hypothesis inherits the scientific requirement of testability, forcing founders to specify conditions under which they'd abandon the idea.

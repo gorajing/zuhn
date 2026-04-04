@@ -50,7 +50,6 @@ related:
   - INS-260330-5BC4
   - INS-260323-D934
   - INS-260330-2B33
-  - INS-260330-7675
   - INS-260402-7A1A
 stance: >-
   Newcomb's Paradox shows smart people split 50/50 because they weigh evidence

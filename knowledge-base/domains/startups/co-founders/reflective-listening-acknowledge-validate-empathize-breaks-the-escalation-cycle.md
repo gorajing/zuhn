@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260325-7D50
   - INS-260325-EC85
+  - INS-260404-0D62
   - PRI-260328-3BEF
   - INS-260323-4C43
-  - INS-260330-DC22
   - INS-260327-DCA9
 ---
 Perel's most actionable technique: when your co-founder raises a complaint, practice acknowledge-validate-empathize instead of rebutting. Acknowledge that what they said makes sense. Reflect it back without arguing. Then empathize by sharing you would not want to feel that way either. The power move is taking ownership: 'I know I do this.' This disarms the cycle because the complaining partner no longer needs to wave their flag. Research shows people stop listening after 10 seconds of someone's argument and start building rebuttals — so keep statements short, pause, and ask them to reflect back what you said. These are not soft skills; they are the mechanics of preventing the 65% failure rate.

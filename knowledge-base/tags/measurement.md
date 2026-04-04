@@ -11,16 +11,17 @@
 - `INS-260323-22E8` A single-pixel LIDAR sensor achieves trillion-FPS video by scanning one point at a time, relying on the scene replaying identically each time.
 - `INS-260330-EC22` Real-world workflow tests reveal performance truths that synthetic benchmarks systematically miss due to component-level measurement bias.
 - `INS-260325-0C45` The scale cannot tell fat from water or muscle — body measurements, clothing fit, and energy levels are better progress indicators.
+- `INS-260327-F4CB` Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
+- `INS-260327-02CF` A hospital can't fill a doctor role at $80K and calls it a 'skills gap' when the actual gap is between what they're offering and what the market demands.
+- `INS-260404-B8D9` Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
 - `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260403-420A` Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - `INS-260403-5AAC` Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
-- `INS-260327-F4CB` Unemployment looks low at 3-4% but labor force participation tells the real story - millions have simply stopped being counted because they stopped looking.
-- `INS-260327-02CF` A hospital can't fill a doctor role at $80K and calls it a 'skills gap' when the actual gap is between what they're offering and what the market demands.
-- `INS-260329-8015` The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
-- `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
 - `INS-260330-F6A2` Watching a sunset while lying down, standing up, and timing the difference lets you calculate Earth's radius using only your body height and a stopwatch.
 - `INS-260403-89B5` The 130,000 fps camera reveals failure dynamics invisible to the naked eye, proving that understanding often requires changing observation speed rather than adding theory.
+- `INS-260329-8015` The derivative at a point is defined as the limit of secant line slopes as the interval shrinks to zero — instantaneous rates are always constructed, never observed.
+- `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
 - `INS-260330-51D6` Earth's uneven mass distribution, rotation, and external gravitational influences make 'down' a messy, ever-changing vector rather than a simple line to the center.
 - `INS-260330-DBA4` We abandoned solar time because mechanical clocks were more regular than the sun, choosing invented precision over natural truth.
 - `INS-260330-4711` A field goal kicked due north drifts measurably sideways from Earth's rotation, proving invisible forces produce real effects even at everyday scales.
@@ -35,8 +36,8 @@
 - `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260330-6F7B` You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
 - `INS-260330-4F7B` Patterson built the world's first cleanroom to eliminate lead contamination from his age-of-Earth measurements, then used that same precision infrastructure to prove lead pollution was man-made — a discovery that saved millions of lives.
-- `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
 - `INS-260327-EBDF` Social platforms surface metrics that serve their business (engagement time) not yours (revenue from trust) — stop measuring what's easy and start measuring what matters.
+- `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
 - `INS-260403-A99F` Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
 - `INS-260329-1E81` CS50 tells students 'what matters is not where you end up relative to classmates but where you end up relative to yourself when you began' — the delta is the metric.
 - `INS-260330-1A63` Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.

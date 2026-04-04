@@ -53,7 +53,7 @@ related:
   - INS-260330-85D9
   - INS-260330-C418
   - INS-260330-9351
-  - INS-260326-8E6D
+  - INS-260404-BFD0
 ---
 Graham observes that after four years of working with founders through Y Combinator, relentless resourcefulness can surprisingly often be taught — not to everyone, but to many. The key insight is that large institutions and schools actively suppress this trait; the recipe for success in big companies involves obedience and alliance-building, which is antithetical to resourcefulness.
 

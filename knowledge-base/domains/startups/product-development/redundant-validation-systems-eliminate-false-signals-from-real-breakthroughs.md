@@ -46,7 +46,8 @@ related:
   - INS-260329-8407
   - INS-260325-415A
   - INS-260325-FDA9
-  - INS-260323-AEA7
+  - INS-260404-C497
+  - INS-260404-EDEC
 stance: >-
   LIGO built two identical detectors 3,000 km apart so that any signal had to
   appear in both to count as real.

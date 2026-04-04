@@ -48,11 +48,11 @@ stance: >-
   A dominant incumbent that voluntarily introduces fair competition would likely
   gain more durable support than one that continues suppressing alternatives.
 related:
+  - INS-260404-3275
   - INS-260330-95F3
   - INS-260403-3A71
   - PRI-260323-81E9
   - INS-260330-ABBF
-  - INS-260323-9AA5
 evidence:
   - id: INS-260323-9AA5
     type: TRANSFERS_TO

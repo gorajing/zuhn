@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3792 actionable insights
+Generated on 2026-04-04 | 3797 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1045,6 +1045,7 @@ Generated on 2026-04-04 | 3792 actionable insights
 - [INS-260403-31B1] Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
 - [INS-260404-5AEB] Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - [INS-260404-CE92] When a topic becomes part of someone's identity, they become constitutionally incapable of reasoning about it clearly.
+- [INS-260404-B8D9] Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1142,6 +1143,7 @@ Generated on 2026-04-04 | 3792 actionable insights
 - [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
 - [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
+- [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1530,6 +1532,7 @@ Generated on 2026-04-04 | 3792 actionable insights
 - [INS-260330-A954] When an investor says 'I want to invest but I don't lead,' translate to 'No, except yes if you become a hot deal.'
 - [INS-260402-7FCC] Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.
 - [INS-260403-8FB5] Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy.
+- [INS-260404-0D62] VCs resist founder control primarily because they don't want to appear weak to their partners, not because they believe it harms returns.
 
 ## psychology/perception
 - [INS-260323-5D23] The fastest way to shift emotional frequency is removing what pulls you down, not adding new practices.
@@ -3744,6 +3747,7 @@ Generated on 2026-04-04 | 3792 actionable insights
 - [INS-260403-AEBD] Restructuring resource assignments can create room for growth without acquiring new resources.
 - [INS-260403-857E] Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
 - [INS-260404-FF84] Costco pays $21/hour (2x retail average) and gets 3x the productivity per worker, proving above-market wages can be the cheapest labor strategy.
+- [INS-260404-BFD0] Effort spent looking productive doesn't just waste resources — it actively makes organizations less productive.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3966,6 +3970,7 @@ Generated on 2026-04-04 | 3792 actionable insights
 - [INS-260404-6442] Ask 'when is the last time you...' instead of 'would you...' to get facts over opinions.
 - [INS-260404-DD95] Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.
 - [INS-260404-1773] Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.
+- [INS-260404-80AC] The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

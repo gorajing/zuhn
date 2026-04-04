@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 148 insights
+> 149 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -73,6 +73,7 @@
 - `INS-260403-46BD` [high] Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
 - `INS-260330-4FED` [high] Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking, and he taught them execution — a deliberate skill trade.
 - `INS-260330-1A63` [high] Always pair each metric with its natural opposite — fraud rate with false positive rate, hiring volume with hire quality — to force genuine innovation instead of gaming.
+- `INS-260404-BFD0` [high] Effort spent looking productive doesn't just waste resources — it actively makes organizations less productive.
 - `INS-260330-9FCC` [high] In-N-Out's requirement that all ingredients reach stores within a single day's drive from distribution centers caps expansion at ~500 miles per center.
 - `INS-260327-DAE5` [high] Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
 - `INS-260329-50D5` [high] TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).

@@ -46,7 +46,6 @@ stance: >-
   Retrospective accounts of successful startups consistently understate how
   close those companies came to failing in their first months.
 related:
-  - INS-260322-047D
   - INS-260329-1CB0
   - INS-260404-9A82
   - PRI-260328-B11D

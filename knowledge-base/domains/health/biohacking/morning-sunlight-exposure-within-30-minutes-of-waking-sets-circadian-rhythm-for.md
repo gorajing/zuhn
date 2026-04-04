@@ -47,6 +47,7 @@ related:
   - INS-260330-A256
   - INS-260330-ECA9
   - INS-260330-F6A2
+  - INS-260404-C497
 evidence:
   - id: INS-260330-DBA4
     type: CHALLENGES

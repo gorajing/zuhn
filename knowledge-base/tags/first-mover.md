@@ -37,6 +37,7 @@
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
 - `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
+- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260404-8A57` RuBisCo's evolutionary story shows how early success with a flawed mechanism creates irreversible lock-in.
 - `INS-260403-2C1A` Early photosynthetic organisms with inefficient RuBisCo dominated Earth because being first let them reshape the entire atmosphere and ecosystem around their approach.
@@ -51,4 +52,3 @@
 - `INS-260330-6ECA` RuBisCo is a terrible enzyme that dominates Earth because plants committed to it before oxygen made it fail half the time, compensating with 40 billion tons of production instead of evolving a replacement.
 - `INS-260403-EDA2` RuBisCo is a terrible enzyme that conquered the planet by being produced in enormous quantities — 40 billion tons — rather than being redesigned.
 - `INS-260330-3FCF` Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
-- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.

@@ -52,11 +52,10 @@ stance: >-
 related:
   - INS-260327-B302
   - INS-260328-9415
+  - INS-260404-30B2
   - INS-260403-9D89
   - INS-260330-C391
   - PRI-260403-26B9
-  - INS-260330-B09B
-  - INS-260403-1904
   - INS-260403-AA6A
 ---
 Despite having sober expectations about launch awareness, Standard Capital was surprised by overwhelming application volume -- Dalton had to schedule three times as much reading time as planned. The demand came from pure word-of-mouth among founders who were excited about a genuinely different process.

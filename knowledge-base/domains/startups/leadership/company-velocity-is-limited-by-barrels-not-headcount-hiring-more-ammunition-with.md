@@ -44,12 +44,11 @@ stance: >-
   Adding engineers without adding people who can independently take ideas from
   conception to shipping actually decreases organizational throughput.
 related:
-  - INS-260323-C90C
   - PRI-260320-5D78
-  - INS-260327-0C4A
   - INS-260325-FADB
-  - INS-260322-D5EB
-  - INS-260403-4E23
+  - INS-260323-C90C
+  - INS-260404-312D
+  - INS-260327-0C4A
 evidence:
   - id: INS-260327-0C4A
     type: TRANSFERS_TO

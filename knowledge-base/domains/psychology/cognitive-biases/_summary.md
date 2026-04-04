@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 266 insights
+> 268 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -23,6 +23,7 @@
 - `INS-260402-A558` [high] Childhood reassurance about alarming realities creates adults who are trained to ignore those same problems, enabling bad conditions to persist.
 - `INS-260403-D463` [high] How someone behaves when only self-enforcement exists reveals far more about their character than behavior under external enforcement.
 - `INS-260403-34C0` [high] Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end.
+- `INS-260404-B8D9` [high] Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
 - `INS-260330-14BD` [high] Amsterdam onlookers couldn't believe Destin genuinely forgot how to ride a bike because their own bias ('everyone can ride a bike') prevented them from processing his demonstration.
 - `INS-260330-9471` [high] Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260330-2355` [high] Harvard Business School's largest graduating cohorts systematically chase the last wave — junk bonds in 1989, tech in 1999, housing in 2006 — because competition feels like validation.
@@ -234,6 +235,7 @@
 - `INS-260327-B72F` [medium] When everything is incredibly hard and getting harder, the problem might not be insufficient effort but wrong direction.
 - `INS-260330-D432` [medium] Judge leaders exclusively by measurable population outcomes like life expectancy and prosperity rather than moral rhetoric or personality.
 - `INS-260330-D5DD` [medium] Placebos may work because the brain evolved to maintain distress signals until help arrives — external authority cues grant 'permission' to switch from help-seeking to healing mode.
+- `INS-260404-A8B9` [medium] Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
 - `INS-260323-61D4` [medium] Einstein presented the non-locality problem at least three times — once at the 1927 Solvay Conference, once with the photon box thought experiment, and once in the EPR paper — and each time Bohr misunderstood or reframed the argument rather than addressing it directly.
 - `INS-260330-E0F5` [medium] Movements built on cultural grievances provoke opponents to double down, creating self-reinforcing polarization spirals.
 - `INS-260403-EB0B` [medium] Hunter-gatherers couldn't store wealth, so status was the only survival currency — that wiring still dominates our instincts.

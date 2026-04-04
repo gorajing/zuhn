@@ -76,6 +76,7 @@
 - `INS-260403-34C0` Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
 - `INS-260403-EF20` BioCity transformed their messaging from technical jargon about robotic compound retrieval to emotionally resonant language about control and budget maximization.
 - `INS-260327-5B47` The painkiller market is $7B, vitamins are $36B, candy is $70-80B — a single product in a single deal may need candy messaging (delight stories) for users, vitamin messaging (benefit word-of-mouth) for evaluators, and painkiller messaging (prescriptive facts) for executives.
+- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260330-85C2` Morgan became so central to U.S. financial stability that presidents had no choice but to call on him during crises, giving him extraordinary leverage.
 - `INS-260404-9783` Costco turns membership fees, confusing layouts, and bulk-only sizing into loyalty drivers and competitive moats.
 - `INS-260403-2C00` Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
@@ -83,5 +84,4 @@
 - `INS-260403-4F1B` A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
 - `INS-260330-24E0` When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
 - `INS-260404-007B` Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
-- `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.

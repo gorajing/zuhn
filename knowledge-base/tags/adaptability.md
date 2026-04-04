@@ -1,8 +1,8 @@
 # Tag: adaptability
 
 - `INS-260323-E2DD` Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
-- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260325-4C16` Alexander won with 40,000 troops against millions by moving faster than enemies could react — speed and adaptability beat numbers.
+- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
 - `INS-260330-750A` The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
 - `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
 - `INS-260327-F55A` Adaptability to novel situations, not deep expertise in any domain, is the only AI-proof career strategy.
@@ -13,13 +13,13 @@
 - `INS-260327-ECDA` When the world changes, change the plan—and be transparent about it with investors, board, and employees.
 - `INS-260327-95C6` China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
 - `INS-260323-71B3` GSP teaches that when a takedown meets resistance, you don't force it — you 'turn the corner' and attack from the other side, using the opponent's defensive commitment against them.
+- `INS-260322-D69E` When COVID canceled 120 fully-booked rooms and left 2 months of runway, pivoting share houses to quarantine facilities and building a university quarantine solution actually grew the business beyond its pre-crisis trajectory.
+- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260330-CC0F` Great founders hold opposing strategies simultaneously and apply judgment about which to emphasize at each moment.
 - `INS-260330-52C7` Great founders excel at switching between opposing modes contextually, not at mastering every individual skill.
 - `INS-260330-70F5` Founder excellence is paradox navigation, not single-dimension optimization.
 - `INS-260403-7180` The best founders combine relentless drive with creative adaptability rather than relying on brute-force determination alone.
-- `INS-260322-D69E` When COVID canceled 120 fully-booked rooms and left 2 months of runway, pivoting share houses to quarantine facilities and building a university quarantine solution actually grew the business beyond its pre-crisis trajectory.
-- `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260322-ABA0` Businesses that become one-dimensional on currently-working channels almost always see revenue halve rather than double, because platform shifts are inevitable.
 - `INS-260327-8521` Bret Taylor learned as Facebook CTO to stop conforming the job to his strengths and instead identify the most important thing each day, even if uncomfortable, creating a virtuous cycle of broader impact and greater joy.
-- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.
 - `INS-260403-DF7F` Complete business model validation requires testing desirability, viability, feasibility, and adaptability—not just whether customers want the product.
+- `INS-260330-440E` The Indus Valley shows almost no evidence of warfare or military infrastructure, and its collapse coincided with the arrival of more warlike peoples.

@@ -54,11 +54,11 @@ related:
   - INS-260330-6AFA
   - INS-260330-649B
   - PRI-260328-22EC
-  - INS-260330-B224
   - INS-260330-033A
   - INS-260330-FF94
   - INS-260330-466E
   - INS-260330-52F6
+  - INS-260330-9A34
 stance: Lunar rocks match Earth's isotope ratios at parts-per-million precision
 evidence:
   - id: INS-260325-CC49

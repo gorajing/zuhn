@@ -5,3 +5,4 @@
 - `INS-260330-0FCE` Physical infrastructure creates economic interdependency that gradually makes political separation impractical, serving as a subtler tool of control than direct legislation.
 - `INS-260330-EF74` Nations hosting major tech platforms gain disproportionate geopolitical leverage because these companies wield both financial and cultural influence globally.
 - `INS-260330-D98E` Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
+- `INS-260404-3275` Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.

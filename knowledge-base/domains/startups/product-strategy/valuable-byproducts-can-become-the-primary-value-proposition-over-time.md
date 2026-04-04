@@ -46,7 +46,6 @@ stance: >-
   rather than the system's designed purpose.
 related:
   - INS-260323-0AF3
-  - INS-260327-2B94
   - INS-260330-41F6
   - INS-260330-90B6
   - INS-260403-5C74

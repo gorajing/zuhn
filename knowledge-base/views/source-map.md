@@ -908,6 +908,7 @@ Generated on 2026-04-04 | 2421 sources
 | Filters that Fight Back | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
+| Founder Control | blog | 4 | 2026-03-31 |
 | Founder-Market Fit: The VC Test You Must Pass | blog | 4 | 2026-03-30 |
 | Founder Mode | blog | 4 | 2026-03-31 |
 | Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 4 | 2026-03-30 |
@@ -915,6 +916,7 @@ Generated on 2026-04-04 | 2421 sources
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | Gangster affordability | blog | 4 | 2026-03-30 |
 | Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 4 | 2026-03-30 |
+| Global Ranking of the Most Valuable Private Startups in 2025 | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 4 | 2026-03-30 |
@@ -950,6 +952,7 @@ Generated on 2026-04-04 | 2421 sources
 | Keep Your Identity Small | blog | 4 | 2026-03-31 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
 | Learn With Me | blog | 4 | 2026-03-30 |
+| Learning from Founders | blog | 4 | 2026-03-31 |
 | Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 4 | 2026-03-30 |
 | Let the Other 95% of Great Programmers In | blog | 4 | 2026-03-31 |
 | Life is Short | blog | 4 | 2026-03-31 |
@@ -960,6 +963,7 @@ Generated on 2026-04-04 | 2421 sources
 | Mean People Fail | blog | 4 | 2026-03-31 |
 | Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 4 | 2026-03-30 |
 | Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 4 | 2026-03-30 |
+| Neuralink's 21 Telepathy Trials in 2 Years | blog | 4 | 2026-03-30 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 4 | 2026-03-30 |
 | OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 4 | 2026-03-30 |
@@ -994,6 +998,7 @@ Generated on 2026-04-04 | 2421 sources
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 4 | 2026-03-30 |
 | Shameless Guesses, Not Hallucinations | blog | 4 | 2026-03-30 |
 | Six Principles for Making New Things | blog | 4 | 2026-03-31 |
+| SpaceX-xAI Merger: The $1.25T Company | blog | 4 | 2026-03-30 |
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
 | Stablecoins Are Defense Tech | blog | 4 | 2026-03-31 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
@@ -1016,6 +1021,7 @@ Generated on 2026-04-04 | 2421 sources
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 4 | 2026-03-30 |
 | The Equity Equation | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
+| The future isn't what it used to be | blog | 4 | 2026-03-30 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 4 | 2026-03-30 |
 | The High-Res Society | blog | 4 | 2026-03-31 |
@@ -1180,6 +1186,7 @@ Generated on 2026-04-04 | 2421 sources
 | Mark Zuckerberg — Llama 3, $10B models, Caesar Augustus, & 1 GW datacenters | youtube | 4 | 2026-03-28 |
 | Max Tegmark: The Case for Halting AI Development | Lex Fridman Podcast #371 | youtube | 4 | 2026-03-24 |
 | Messages For The Future | youtube | 4 | 2026-03-30 |
+| Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 4 | 2026-03-30 |
 | Most AI Startups Fail (Here’s Why Yours Might Too) | youtube | 4 | 2026-03-23 |
 | My Tech Startup Failed... | youtube | 4 | 2026-03-23 |
 | Mystery of Prince Rupert's Drop at 130,000 fps - Smarter Every Day 86 | youtube | 4 | 2026-03-30 |
@@ -2189,7 +2196,6 @@ Generated on 2026-04-04 | 2421 sources
 | Fashionable Problems | blog | 0 | 2026-03-31 |
 | Five Founders | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
-| Founder Control | blog | 0 | 2026-03-31 |
 | Founder Mode👨‍💼, The Extinction of VC💀, How to Build More Pipeline🚀 | blog | 0 | 2026-03-30 |
 | Founders: Are You Raising Enough? Or Too Much? Here’s the Tool You Need | blog | 0 | 2026-03-30 |
 | Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 0 | 2026-03-30 |
@@ -2203,7 +2209,6 @@ Generated on 2026-04-04 | 2421 sources
 | General and Surprising | blog | 0 | 2026-03-31 |
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
 | Giving AI Agents Purchasing Power | blog | 0 | 2026-03-30 |
-| Global Ranking of the Most Valuable Private Startups in 2025 | blog | 0 | 2026-03-30 |
 | Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 0 | 2026-03-30 |
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
 | GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
@@ -2238,7 +2243,6 @@ Generated on 2026-04-04 | 2421 sources
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
-| Learning from Founders | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
 | Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
@@ -2250,7 +2254,6 @@ Generated on 2026-04-04 | 2421 sources
 | Monzo hits $5bn valuation 🚀, A Guide to Founder Salary 💵, Entrepreneurship in Africa 💡, & more! | blog | 0 | 2026-03-30 |
 | Multi-Product In Pictures | blog | 0 | 2026-03-30 |
 | MVP Mastery: The Key to Building What Matters 📈 | blog | 0 | 2026-03-30 |
-| Neuralink's 21 Telepathy Trials in 2 Years | blog | 0 | 2026-03-30 |
 | Novelty and Heresy | blog | 0 | 2026-03-31 |
 | NVIDIA and the $1T AI Buildout for the Agent Era | blog | 0 | 2026-03-30 |
 | One Year of The VC Corner: From 0 to 62,000 🚀 | blog | 0 | 2026-03-30 |
@@ -2288,7 +2291,6 @@ Generated on 2026-04-04 | 2421 sources
 | Smaller Funds Outperform📈, When Machines Learn to Speak🗣️, Venture Trends Q1 2025📊 | blog | 0 | 2026-03-30 |
 | Software with a Soul: AI's Underestimated Frontier | blog | 0 | 2026-03-31 |
 | Something feels weird about this economy | blog | 0 | 2026-03-30 |
-| SpaceX-xAI Merger: The $1.25T Company | blog | 0 | 2026-03-30 |
 | Spam | blog | 0 | 2026-03-31 |
 | Sponsorships | blog | 0 | 2026-03-30 |
 | Stages of Board Deck Preparation📝, How to be helpful as a VC📚, Secondary Market VC Funds🔄 | blog | 0 | 2026-03-30 |
@@ -2317,7 +2319,6 @@ Generated on 2026-04-04 | 2421 sources
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Free Founder OS: 58 Templates + 10,000 Investor List | blog | 0 | 2026-03-30 |
-| The future isn't what it used to be | blog | 0 | 2026-03-30 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
@@ -2415,7 +2416,6 @@ Generated on 2026-04-04 | 2421 sources
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
 | Photosynthesis: Crash Course Biology #8 | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |

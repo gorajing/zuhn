@@ -1,13 +1,13 @@
 # Tag: intelligence
 
 - `INS-260323-0961` Humans conflate intelligence with consciousness because they co-evolved in us, but AI demonstrates that high intelligence can exist with zero consciousness, and consciousness may be far more valuable than intelligence.
-- `INS-260403-A4CF` Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
-- `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
-- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260327-97AD` Themistocles sent a false message to Xerxes saying the Greeks were about to flee, which Xerxes believed because it confirmed what he wanted to hear.
 - `INS-260327-EDBA` Paul Revere's ride was possible because the colonial intelligence network (supported by the entire sympathetic population) tracked every British movement while the British had no intelligence on colonial preparations.
 - `INS-260403-34C0` Schools optimize for intelligence because it's measurable, creating a lifelong illusion that intelligence is the destination rather than a means to an end.
 - `INS-260330-4634` Dinosaurs dominated for 300 million years without developing intelligence, and without their extinction asteroid, mammals would still be rodents — proving intelligence is not evolution's inevitable destination.
+- `INS-260403-A4CF` Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
+- `INS-260403-AB5C` Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
+- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-E9DD` Traditional education's emphasis on obedience and standardization produces wisdom at the expense of intelligence by suppressing the idiosyncratic interests that drive peak performance.
 - `INS-260403-41BC` Wisdom comes from cutting away biases and noise accumulated in youth; intelligence comes from selecting one bias and growing it into mastery.
 - `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.

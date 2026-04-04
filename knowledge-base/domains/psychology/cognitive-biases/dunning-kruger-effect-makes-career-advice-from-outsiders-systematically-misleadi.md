@@ -46,11 +46,11 @@ stance: >-
   consistently oversimplify what practicing that skill requires
 related:
   - INS-260329-7D18
+  - INS-260404-312D
   - INS-260327-FA62
   - INS-260330-43EE
   - INS-260326-DBEF
   - INS-260403-D56B
-  - INS-260327-5547
 evidence:
   - id: INS-260329-7D18
     type: EXTENDS

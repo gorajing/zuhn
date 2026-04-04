@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 62 insights
+> 63 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
@@ -30,6 +30,7 @@
 - `INS-260403-A06E` [high] Genuine interest in your work outperforms discipline as a driver of sustained effort because it makes hard work feel like a natural pull rather than a push.
 - `INS-260330-7D21` [high] Byron controls arrow spine precisely but rides the wobble — knowing which variables matter is the essence of expert performance.
 - `INS-260403-8114` [high] Understanding a mechanism's physics does not grant the ability to operate it skillfully.
+- `INS-260404-EDEC` [high] The 1987 supernova neutrino arrival simultaneously with light over tens of thousands of light-years outweighed the OPERA result over 454 miles.
 - `INS-260330-F6B1` [high] Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260403-D2A5` [high] Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260403-B6FD` [high] False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.

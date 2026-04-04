@@ -54,7 +54,6 @@ stance: >-
   this specific company in their opening answer control the interview's
   trajectory.
 related:
-  - INS-260322-82E8
   - INS-260327-B18F
   - INS-260329-75B6
   - INS-260404-087C

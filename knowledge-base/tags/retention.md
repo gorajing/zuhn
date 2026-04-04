@@ -18,7 +18,6 @@
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260327-C673` Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
-- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
 - `INS-260330-FA4C` Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
 - `INS-260403-C161` Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
@@ -32,6 +31,7 @@
 - `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
 - `INS-260404-CEA8` Costco pays double the retail average ($21/hr vs ~$10.50) and gets 3x the productivity per employee in return.
 - `INS-260404-E1B0` Costco pays $21/hour (double retail average) and gets 3x the productivity per employee in return.
+- `INS-260323-C814` Boston Dynamics' extremely low attrition comes from people pursuing genuine fascination — you do it much better when you love it.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260327-BEEE` Everyone needs money to pay rent, but people work for many other reasons — understanding those motivations and rewarding them is what retains talent.
 - `INS-260327-8388` AI apps have lower daily-to-monthly active user ratios and worse retention than mobile peers, signaling that the transition from weekly tinkering to daily habit is the key unsolved product problem.

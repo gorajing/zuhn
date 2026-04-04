@@ -54,14 +54,13 @@ stance: >-
   decades of the discovery
 related:
   - INS-260327-0048
-  - INS-260327-9377
   - INS-260328-6C9A
   - INS-260323-2FC3
+  - INS-260327-9377
   - INS-260330-30AB
   - PRI-260323-A33E
   - INS-260323-DA1E
   - INS-260330-CA8E
-  - INS-260330-466E
 evidence:
   - id: INS-260328-6C9A
     type: SUPPORTS

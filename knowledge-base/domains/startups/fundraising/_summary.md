@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 248 insights
+> 252 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -13,6 +13,7 @@
 - `INS-260403-25A8` [high] Investors who signal future interest without making an offer are declining — founders should only weight committed offers in their decisions.
 - `INS-260403-C7A9` [high] Smart investors look past surface roughness to evaluate raw talent, so faking polish actively hides the thing they're trying to assess.
 - `INS-260328-9415` [high] Standard Capital's YC-style batch process for Series A compressed the entire fundraising timeline to two weeks and roughly four hours of founder time.
+- `INS-260404-3275` [high] Board votes are almost always unanimous — the side that would lose adjusts its position before the vote happens.
 - `INS-260403-7F91` [high] VCs invest too much at series A because board seats are expensive, not because startups need the capital.
 - `INS-260330-0AA7` [high] Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260330-B6FA` [high] Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
@@ -81,6 +82,8 @@
 - `INS-260403-C5C0` [high] Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
 - `INS-260403-5D7D` [high] Seed-stage startups are too mobile for small regional grants to anchor them geographically.
 - `INS-260402-66A5` [high] VCs select for founders who are best at performing certainty, not founders with the best businesses.
+- `INS-260404-06B9` [high] The startups where VCs need compulsion over founders are not the ones that become big hits driving fund returns.
+- `INS-260404-30B2` [high] The best startups set fundraising norms because VCs compete hardest for them, making founder-favorable terms a quality signal.
 - `INS-260330-7BF5` [high] Board votes essentially never happen in practice — founder power scales directly with company performance, overriding any formal governance structure or protective covenants.
 - `INS-260403-1287` [high] Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
 - `INS-260403-498A` [high] As startups need less capital, founders retain more equity and control, compressing investor ownership inexorably.
@@ -228,6 +231,7 @@
 - `INS-260402-8E29` [medium] Angel investors can only come from successful founders reinvesting locally — governments can fund VCs but cannot manufacture angels.
 - `INS-260328-D220` [medium] If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260403-59F0` [medium] The assumption that board seats protect VC returns is untested—removing them could unlock 2-3x deal throughput.
+- `INS-260404-312D` [medium] Investors — supposedly experts at recognizing productive companies — are just as susceptible to mistaking professional appearance for real output.
 - `INS-260403-4730` [medium] Fundraising has a binary transition point where signal rises above noise, making incremental pitch improvements less effective than crossing the threshold.
 - `INS-260330-B09B` [medium] Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
 - `INS-260327-7E3D` [medium] The stark reality of fundraising differences between Boston and Silicon Valley comes down to fundamentally different investor risk cultures.
