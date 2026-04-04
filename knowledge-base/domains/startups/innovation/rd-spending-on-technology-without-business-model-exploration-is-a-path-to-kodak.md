@@ -54,8 +54,8 @@ related:
   - INS-260327-2BE1
   - INS-260328-6F5B
   - INS-260403-9AB5
+  - INS-260403-D8A2
   - INS-260403-EAC6
-  - INS-260402-9075
 ---
 The letter makes a counterintuitive point: Kodak, Nokia, and Blackberry were not killed by lack of technological innovation—they were highly innovative technology companies. They died because they failed to explore new business models and value propositions alongside their product R&D. Kodak invented the digital camera; Nokia had superior hardware engineering; Blackberry pioneered mobile email.
 

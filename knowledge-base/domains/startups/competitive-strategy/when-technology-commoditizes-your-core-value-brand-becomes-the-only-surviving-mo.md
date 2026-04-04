@@ -52,11 +52,11 @@ stance: >-
   performance players get wiped out.
 related:
   - INS-260330-9A34
+  - INS-260403-D8A2
   - PRI-260328-0993
   - INS-260330-570F
   - PRI-260328-82BE
   - INS-260327-C083
-  - PRI-260328-A1AA
 evidence:
   - id: INS-260330-9A34
     type: EXTENDS

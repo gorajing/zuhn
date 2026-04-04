@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 184 insights
+> 186 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -25,6 +25,7 @@
 - `INS-260329-644B` [high] Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260403-F290` [high] Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260330-B3DD` [high] Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
+- `INS-260403-9104` [high] Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.
 - `INS-260403-2C00` [high] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
@@ -53,6 +54,7 @@
 - `INS-260403-5BFB` [high] Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - `INS-260330-8E45` [high] Glycolysis invests 2 ATP to break glucose apart, then earns 4 ATP back — a net gain that requires spending resources before generating them.
 - `INS-260330-53A9` [high] RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
+- `INS-260403-05D8` [high] Plants produce 40 billion tons of the inefficient enzyme RuBisCo rather than evolve a better one — volume compensates for per-unit quality.
 - `INS-260330-54ED` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
 - `INS-260323-BEE6` [high] GSP uses his jab to plant a seed of pain in the opponent's memory, creating a flinch response that opens the path for a completely different attack (the takedown).
 - `INS-260328-4BF3` [high] Getting angry about hype cycles is like getting angry about the weather — they always exist, so develop the skill of neutral observation instead.

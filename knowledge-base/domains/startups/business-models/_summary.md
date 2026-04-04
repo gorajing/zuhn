@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 159 insights
+> 160 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -76,6 +76,7 @@
 - `INS-260327-0E28` [high] Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
 - `INS-260403-1C25` [high] Mandatory fees force companies to optimize for long-term customer satisfaction since raising prices risks losing the entire membership revenue stream.
 - `INS-260403-426A` [high] Marketplaces progress through horizontal lead gen, vertical lead gen, vertical transactional, and tightly managed phases.
+- `INS-260403-59F8` [high] Making membership the primary revenue source forces the company to prioritize long-term customer satisfaction over short-term margin extraction.
 - `INS-260403-1208` [high] Costco derives 75% of profit from membership fees, which forces it to prioritize renewal-worthy value over per-item margin extraction.
 - `INS-260403-5C88` [high] When membership fees are the primary revenue source, the company's incentive naturally aligns with keeping prices low to drive renewals.
 - `INS-260403-B2CB` [high] Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.

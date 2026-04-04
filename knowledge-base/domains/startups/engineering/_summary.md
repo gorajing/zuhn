@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 28 insights
+> 29 insights
 
 - `INS-260403-C514` [high] Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
 - `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
@@ -28,5 +28,6 @@
 - `INS-260330-5747` [medium] Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260403-0902` [medium] Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260403-F9F0` [medium] When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.
+- `INS-260403-AC7A` [medium] Photosynthesis converts light to sugar not in one step but through a chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each reusable across the organism.
 - `INS-260402-5242` [medium] Math-rooted technologies like Lisp outlast hardware-rooted technologies like Fortran because math doesn't get stale.
 - `INS-260402-C664` [medium] Having great hackers build internal tools while less elite developers build applications retains top talent without exposing them to soul-crushing user requirements.

@@ -20,6 +20,7 @@
 - `INS-260329-DEE5` Frame ruthless prioritization as a temporary 'season of no' to make the sacrifice psychologically sustainable.
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260403-3482` Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
+- `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - `INS-260322-EE1B` There's a power law in everything — identify the single most important thing each period and go all-in before distributing effort across secondary goals.
 - `INS-260403-3FF5` Wartime prioritization requires cuts so deep that everyone in the organization can feel the change in direction.
 - `INS-260327-482E` Stop avoiding hard problems—identify the biggest risk and attack it directly.

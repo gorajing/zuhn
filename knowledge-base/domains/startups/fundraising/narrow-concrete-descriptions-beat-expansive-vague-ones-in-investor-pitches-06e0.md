@@ -52,9 +52,9 @@ stance: >-
 related:
   - INS-260403-B274
   - INS-260403-A0C4
+  - INS-260403-21A8
   - INS-260403-AF27
   - INS-260403-D430
-  - INS-260403-F3FF
 ---
 When pitching to investors, founders instinctively resist narrow descriptions because their product could become so much more. But this is exactly backwards — the more general your description, the less information it conveys. 'A system to allow people to collaboratively leverage the value of information' registers as meaningless noise, while 'an easy web-based database' creates an instant mental model.
 

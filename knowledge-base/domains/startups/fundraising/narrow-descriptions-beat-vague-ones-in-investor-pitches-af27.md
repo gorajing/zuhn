@@ -49,15 +49,15 @@ stance: >-
   as generality approaches infinity.
 related:
   - INS-260402-B66A
-  - INS-260403-F3FF
   - INS-260403-D430
+  - INS-260403-21A8
   - INS-260403-A0C4
   - INS-260403-B274
   - INS-260403-EE70
-  - INS-260403-208D
   - INS-260403-8013
-  - INS-260403-2204
+  - INS-260403-208D
   - INS-260403-047B
+  - INS-260403-6712
 ---
 Founders resist concise descriptions because early-stage startups have many possibilities, and narrow framing feels reductive. But Paul Graham argues the calculus works in reverse: as you approach a description of something that could be anything, the information content approaches zero. Investors will discard vague statements like 'collaboratively leverage information value' as boilerplate.
 

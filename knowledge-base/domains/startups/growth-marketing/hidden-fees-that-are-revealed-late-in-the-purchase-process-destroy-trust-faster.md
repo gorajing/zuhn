@@ -40,7 +40,6 @@ stance: >-
   create more consumer resentment than businesses with higher but transparent
   all-in pricing.
 related:
-  - INS-260327-7EFD
   - INS-260327-B6D6
   - INS-260403-1C25
   - INS-260403-0435

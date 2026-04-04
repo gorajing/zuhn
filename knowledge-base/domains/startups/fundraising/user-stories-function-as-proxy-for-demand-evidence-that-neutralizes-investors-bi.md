@@ -49,7 +49,6 @@ stance: >-
   effective way to counter the core investor fear that you've built something
   nobody actually wants
 related:
-  - INS-260403-17A3
   - INS-260403-1444
   - INS-260403-035A
   - INS-260403-419B

@@ -50,7 +50,6 @@ stance: >-
   that business school analysis dismisses it as valueless, then expand in
   concentric circles into adjacent markets.
 related:
-  - INS-260324-FF33
   - INS-260329-B194
   - INS-260330-568A
   - INS-260330-43CF

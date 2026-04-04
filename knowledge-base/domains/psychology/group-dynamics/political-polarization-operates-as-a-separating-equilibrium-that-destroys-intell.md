@@ -52,11 +52,11 @@ stance: >-
   structurally impossible
 related:
   - INS-260327-418E
+  - INS-260403-D8A2
   - INS-260327-7D63
   - INS-260323-5106
   - INS-260327-CF72
   - INS-260327-37E3
-  - INS-260327-8B9A
 evidence:
   - id: INS-260327-37E3
     type: EXTENDS

@@ -49,11 +49,11 @@ stance: >-
   or attention — is the fundamental mechanism for generating useful work in both
   biological and business systems
 related:
+  - INS-260403-DE05
   - INS-260330-1677
   - INS-260403-172E
   - INS-260330-FA36
   - INS-260330-2E41
-  - INS-260330-7FF3
 ---
 The light-dependent reactions don't directly make ATP. Instead, they spend energy pumping protons into the thylakoid, building a concentration gradient — an imbalance. ATP synthase then harvests this imbalance as protons rush back through, converting the gradient into usable energy. The intermediate step of creating deliberate asymmetry is what makes the whole system work.
 

@@ -1,9 +1,10 @@
 # Topic: persuasion
 
-> 39 insights
+> 41 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
+- `INS-260403-1A71` [high] In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
@@ -37,6 +38,7 @@
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260330-A1AF` [medium] Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.
 - `INS-260403-941F` [medium] Create a single sticky phrase like 'the X of Y' that anchors you in evaluators' minds — if you can't compress your startup into one phrase, your plans aren't focused enough.
+- `INS-260403-524B` [medium] Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.
 - `INS-260403-6E11` [medium] The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260403-81CE` [medium] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260403-0AF4` [medium] Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.

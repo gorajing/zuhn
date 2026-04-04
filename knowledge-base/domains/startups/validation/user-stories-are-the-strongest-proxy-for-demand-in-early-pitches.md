@@ -57,6 +57,7 @@ related:
   - INS-260403-8F31
   - INS-260403-1444
   - INS-260403-035A
+  - INS-260403-A65D
   - INS-260403-19C0
 ---
 The biggest fear investors have with early-stage startups is that founders built something based on their own theories of what the world needs, but that no one will actually want. Sequoia calls this the 'proxy for demand' — what are people doing now, using inadequate tools, that shows they need what you're making? Specific user stories answer this directly.

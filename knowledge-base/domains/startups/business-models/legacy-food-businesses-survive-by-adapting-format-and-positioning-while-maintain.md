@@ -40,11 +40,11 @@ stance: >-
   coffee destinations, and social media attractions while the core product
   remained essentially unchanged.
 related:
+  - INS-260403-D8A2
   - INS-260327-1B4A
   - INS-260324-FF33
   - INS-260327-2BE1
   - INS-260330-B22D
-  - PRI-260328-1D90
   - INS-260327-57A4
 evidence:
   - id: INS-260330-B22D

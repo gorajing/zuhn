@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 233 insights
+> 234 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -169,6 +169,7 @@
 - `INS-260329-9CFE` [medium] The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-9C78` [medium] Destin's 6-year-old son learned the backwards bicycle in 2 weeks versus his father's 8 months — roughly 16x faster.
 - `INS-260330-D950` [medium] Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
+- `INS-260403-DE05` [medium] Chloroplasts charge thylakoids like batteries by pumping protons to one side — the resulting imbalance is what drives ATP synthase and does useful work.
 - `INS-260330-666E` [medium] The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260403-099C` [medium] The thylakoid membrane stores energy by creating a proton concentration gradient — the same pattern appears in motivation, skill gaps, and market arbitrage.
 - `INS-260329-656B` [medium] Use complete mini-projects rather than isolated exercises to teach technical concepts.

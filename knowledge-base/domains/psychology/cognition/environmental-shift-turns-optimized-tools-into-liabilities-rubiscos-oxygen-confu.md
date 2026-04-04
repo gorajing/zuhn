@@ -52,7 +52,6 @@ stance: >-
   Systems optimized for one environment become actively harmful when the
   environment changes, and the optimization itself prevents adaptation
 related:
-  - INS-260325-0895
   - INS-260330-B71B
   - INS-260330-48F2
   - INS-260330-B3D5
@@ -62,6 +61,7 @@ related:
   - INS-260403-53C9
   - INS-260330-E497
   - INS-260330-0E77
+  - INS-260330-1650
 evidence:
   - id: INS-260325-0895
     type: SUPPORTS

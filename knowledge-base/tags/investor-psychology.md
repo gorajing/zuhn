@@ -1,5 +1,6 @@
 # Tag: investor-psychology
 
+- `INS-260403-1A71` In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260403-74CD` Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
 - `INS-260403-48BF` Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
@@ -20,6 +21,7 @@
 - `INS-260403-8346` Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
 - `INS-260403-1290` At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-A709` VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
+- `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - `INS-260403-5C8E` Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
 - `INS-260403-C5C0` Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
@@ -31,6 +33,7 @@
 - `INS-260403-9679` Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-41FF` Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-D430` A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
+- `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-1034` Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.

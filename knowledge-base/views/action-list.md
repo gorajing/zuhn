@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3504 actionable insights
+Generated on 2026-04-04 | 3508 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1595,6 +1595,7 @@ Generated on 2026-04-04 | 3504 actionable insights
 - [INS-260403-61B0] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
 - [INS-260403-74CD] Show confidence through demeanor and framing rather than declaring it — audiences ignore or penalize explicit self-praise.
 - [INS-260403-48BF] Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
+- [INS-260403-1A71] In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2649,6 +2650,9 @@ Generated on 2026-04-04 | 3504 actionable insights
 - [INS-260403-30D8] Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - [INS-260403-3482] Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
 - [INS-260403-06E0] Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
+- [INS-260403-088E] Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
+- [INS-260403-21A8] Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- [INS-260403-A65D] Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

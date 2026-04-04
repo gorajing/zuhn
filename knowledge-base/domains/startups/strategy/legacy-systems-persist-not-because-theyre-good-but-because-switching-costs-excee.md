@@ -67,7 +67,6 @@ related:
   - INS-260403-304E
   - INS-260330-A3EB
   - INS-260330-7106
-  - INS-260330-D304
   - INS-260403-D563
 evidence:
   - id: INS-260323-E559

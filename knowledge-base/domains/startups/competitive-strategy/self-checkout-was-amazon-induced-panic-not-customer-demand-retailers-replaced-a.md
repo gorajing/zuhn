@@ -46,8 +46,8 @@ related:
   - INS-260403-FED6
   - INS-260327-B946
   - INS-260323-5106
+  - INS-260403-D8A2
   - INS-260321-52EF
-  - INS-260327-FAD7
   - INS-260327-E359
 stance: 'Before 2016, no retailer had a checkout problem'
 evidence:

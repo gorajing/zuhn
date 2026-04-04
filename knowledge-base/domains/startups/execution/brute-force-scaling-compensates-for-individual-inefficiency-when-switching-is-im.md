@@ -53,8 +53,8 @@ related:
   - INS-260330-ED9D
   - INS-260403-2CDA
   - INS-260330-C02D
+  - INS-260403-05D8
   - INS-260330-54ED
-  - INS-260403-532D
 evidence:
   - id: INS-260330-E068
     type: EXTENDS

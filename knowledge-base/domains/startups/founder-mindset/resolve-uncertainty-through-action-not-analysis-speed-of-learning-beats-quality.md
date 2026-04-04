@@ -54,9 +54,9 @@ resolutions:
 related:
   - INS-260329-2AB9
   - PRI-260324-2C9F
+  - INS-260403-1A71
   - INS-260330-3879
   - INS-260327-BE4E
-  - PRI-260403-88F5
   - INS-260330-E982
 stance: >-
   In high-uncertainty environments, executing quickly to gather real information

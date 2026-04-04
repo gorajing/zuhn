@@ -56,7 +56,7 @@ related:
   - PRI-260328-0C15
   - INS-260403-0AF7
   - INS-260402-0727
-  - INS-260330-BEE7
+  - INS-260403-088E
 stance: >-
   a16z's platform model worked because its founders had been VC customers
   (entrepreneurs), giving them a perspective that career VCs structurally cou...

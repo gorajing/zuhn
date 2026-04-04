@@ -6,6 +6,7 @@
 - `INS-260325-5977` Media describes being alone as negative 10x more than positive — people who internalize this framing feel lonelier when alone, while those with positive beliefs about solitude actually benefit from it.
 - `INS-260330-EDF4` Our definition of 'civilization' privileges traits like writing and monuments, causing us to undervalue the Indus Valley's achievements in sanitation and urban planning.
 - `INS-260330-237E` Calling some groups 'civilizations' implicitly frames all other social orders as uncivilized, creating a systematic bias in how we evaluate human achievement.
+- `INS-260403-524B` Costco's confusing warehouse layout makes shoppers feel like deal-hunters rather than annoyed customers, turning a cost-saving measure into a positive brand experience.
 - `INS-260323-A14D` Problems that appear impossible often result from the wrong framing, not the wrong physics.
 - `INS-260330-0F49` The reflexive racial framing of the Capitol security failure ignored contradicting evidence — like black cops struggling to defend the building and a white woman being shot — while alienating the moderate conservatives needed for democratic healing.
 - `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

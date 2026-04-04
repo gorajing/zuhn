@@ -53,9 +53,9 @@ related:
   - INS-260327-7EFD
   - INS-260330-EA23
   - INS-260403-0435
+  - INS-260403-524B
   - INS-260403-6BD9
   - INS-260329-EBBB
-  - INS-260403-5BAC
 ---
 Costco's warehouses have no back rooms, no decorations, deliberately confusing layouts, and sparse selection. Objectively, these are cost-reduction measures. But customers experience them as features: the warehouse aesthetic signals authenticity and low overhead, the confusing layout creates a treasure-hunt dopamine loop, and the limited selection feels like expert curation rather than neglect.
 

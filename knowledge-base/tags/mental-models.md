@@ -30,11 +30,17 @@
 - `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
+- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260403-F7DE` Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
-- `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
+- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
+- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
+- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
+- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
+- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
+- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
 - `INS-260329-8067` Inversion thinking leverages evolutionary threat-detection to make behavior change stick.
@@ -47,16 +53,10 @@
 - `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
-- `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
-- `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
-- `INS-260330-CED2` The archer's paradox shows that a flexible arrow bends around the bow — rigidity would cause a miss, while flexibility finds the target.
-- `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
-- `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
-- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
+- `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
-- `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-91DD` CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
 - `INS-260329-DABC` Intentionally encountering and resolving errors builds more robust understanding than only following the happy path.
@@ -66,41 +66,6 @@
 - `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
-- `INS-260329-74E5` Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
-- `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
-- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
-- `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
-- `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
-- `INS-260403-E374` ATP synthase harvests energy from proton concentration gradients — a pattern that generalizes to knowledge, markets, and motivation.
-- `INS-260403-099C` The thylakoid membrane stores energy by creating a proton concentration gradient — the same pattern appears in motivation, skill gaps, and market arbitrage.
-- `INS-260329-656B` Use complete mini-projects rather than isolated exercises to teach technical concepts.
-- `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
-- `INS-260329-F892` Letting learners encounter predictable errors (negative overtime, wrong relative references) before introducing the fix creates deeper understanding than presenting the correct solution first.
-- `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
-- `INS-260330-6494` Power comes from translating between representations, not from depth in any single one.
-- `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
-- `INS-260329-E43B` Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
-- `INS-260330-8EC6` The transition from OOP to functional programming fails not because FP is harder, but because existing OOP mental models must be actively dismantled first.
-- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
-- `INS-260329-70F2` The progression from simple data types to complex object hierarchies mirrors natural cognitive development from concrete to abstract thinking.
-- `INS-260330-FBF0` Destin explicitly states he understands things better when working with his hands, then 3D-prints pulleys so viewers can see the principle decomposed — moving from watching to manipulating transforms comprehension.
-- `INS-260330-B7C6` Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
-- `INS-260330-6C09` Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
-- `INS-260329-87BA` Define how to guarantee failure first, then invert each behavior into its winning opposite.
-- `INS-260329-D8F2` Use inversion — enumerate failure modes first, then flip them — because our threat-detection circuits are stronger than our solution-finding circuits.
-- `INS-260403-CBB0` Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
-- `INS-260403-FC01` The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
-- `INS-260330-C8ED` Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.
-- `INS-260403-F63E` Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.
-- `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
-- `INS-260330-0143` Photosystem II was discovered before Photosystem I but acts first in the chain — explicitly flagging discovery-vs-logic order mismatches helps learners navigate confusing nomenclature.
-- `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
-- `INS-260329-BDCC` Programmers who understand pointers and memory layout reason more effectively about performance and bugs in any language.
-- `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
-- `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
-- `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
-- `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
-- `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
 - `INS-260330-B4DA` Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
 - `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
@@ -135,6 +100,42 @@
 - `INS-260330-6844` Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
 - `INS-260330-43D3` Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
 - `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
+- `INS-260329-74E5` Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
+- `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
+- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
+- `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
+- `INS-260403-DE05` Chloroplasts charge thylakoids like batteries by pumping protons to one side — the resulting imbalance is what drives ATP synthase and does useful work.
+- `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
+- `INS-260403-E374` ATP synthase harvests energy from proton concentration gradients — a pattern that generalizes to knowledge, markets, and motivation.
+- `INS-260403-099C` The thylakoid membrane stores energy by creating a proton concentration gradient — the same pattern appears in motivation, skill gaps, and market arbitrage.
+- `INS-260329-656B` Use complete mini-projects rather than isolated exercises to teach technical concepts.
+- `INS-260330-541B` Hard problems yield when you slice them into many tiny, simple pieces and aggregate the results.
+- `INS-260329-F892` Letting learners encounter predictable errors (negative overtime, wrong relative references) before introducing the fix creates deeper understanding than presenting the correct solution first.
+- `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
+- `INS-260330-6494` Power comes from translating between representations, not from depth in any single one.
+- `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
+- `INS-260329-E43B` Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
+- `INS-260330-8EC6` The transition from OOP to functional programming fails not because FP is harder, but because existing OOP mental models must be actively dismantled first.
+- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
+- `INS-260329-70F2` The progression from simple data types to complex object hierarchies mirrors natural cognitive development from concrete to abstract thinking.
+- `INS-260330-FBF0` Destin explicitly states he understands things better when working with his hands, then 3D-prints pulleys so viewers can see the principle decomposed — moving from watching to manipulating transforms comprehension.
+- `INS-260330-B7C6` Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
+- `INS-260330-6C09` Thinking in bits (log2 of possibilities) makes sequential reasoning natural because information adds up while probabilities multiply.
+- `INS-260329-87BA` Define how to guarantee failure first, then invert each behavior into its winning opposite.
+- `INS-260329-D8F2` Use inversion — enumerate failure modes first, then flip them — because our threat-detection circuits are stronger than our solution-finding circuits.
+- `INS-260403-CBB0` Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
+- `INS-260403-FC01` The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
+- `INS-260330-C8ED` Counter-intuitive naming in a field signals discovery-order thinking, which predicts where other confusions will cluster.
+- `INS-260403-F63E` Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.
+- `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
+- `INS-260330-0143` Photosystem II was discovered before Photosystem I but acts first in the chain — explicitly flagging discovery-vs-logic order mismatches helps learners navigate confusing nomenclature.
+- `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
+- `INS-260329-BDCC` Programmers who understand pointers and memory layout reason more effectively about performance and bugs in any language.
+- `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
+- `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
+- `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
+- `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
+- `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
 - `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
 - `INS-260330-E606` Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.
 - `INS-260330-CA62` Entropy measures how spread out energy is, not how 'messy' a system looks.
@@ -181,6 +182,7 @@
 - `INS-260329-0B76` Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260329-CC75` At 9% annual returns, each $250/month saved compounds to roughly $1M over 40 years, creating a simple multiplier for wealth planning.
 - `INS-260329-28B0` At 9% returns over 40 years, every $250/month saved represents roughly $1M at retirement — turning savings into a countable score.
+- `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260329-9A58` Programming education works best when concepts are introduced through progressively complex projects rather than abstract explanations.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
 - `INS-260403-0A7A` Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
@@ -194,7 +196,6 @@
 - `INS-260329-E2D0` Replace the passive/active income binary with a single metric: your effective dollars per hour across all activities.
 - `INS-260329-D1B8` Entrepreneurs repeat the cycle of uninformed optimism → informed pessimism → crisis of meaning → restart, never reaching informed optimism and achievement.
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
-- `INS-260329-EF89` Use public company winners as your benchmark — studying someone who 'might succeed' teaches less than studying someone who already did.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 - `INS-260403-3A49` Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.
 - `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.

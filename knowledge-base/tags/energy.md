@@ -16,12 +16,12 @@
 - `INS-260323-5955` Bezos argues you can debate when humanity must expand into space but not whether — energy usage per capita must grow, and a finite planet cannot support that indefinitely.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260325-1D95` The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
-- `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260330-5670` ATP functions as a universal energy currency — the body cannot use glucose directly, just as a store cannot accept foreign currency without exchange.
 - `INS-260330-B38B` ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
 - `INS-260330-FA36` Thylakoids work like batteries — pumping protons to one side of a membrane creates a concentration gradient whose equalization drives ATP synthase, showing that useful work comes from engineered imbalances, not raw energy.
 - `INS-260330-972B` The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
 - `INS-260403-861A` ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
+- `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260330-C729` Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
 - `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
 - `INS-260323-5D6D` Repetitive work that violates your values causes cognitive depletion — your brain literally runs at lower capacity, making it impossible to learn new skills or build on the side.

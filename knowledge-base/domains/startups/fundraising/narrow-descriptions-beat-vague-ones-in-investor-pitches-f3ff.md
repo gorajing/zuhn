@@ -50,13 +50,12 @@ stance: >-
   'could be anything' its information content approaches zero.
 related:
   - INS-260327-6D57
+  - INS-260403-21A8
   - INS-260403-2204
   - INS-260403-A0C4
   - INS-260403-D430
   - INS-260403-B274
-  - INS-260403-AF27
   - INS-260403-91F9
-  - INS-260403-06E0
 ---
 Founders instinctively resist narrow descriptions because their product could become so much more. But Paul Graham argues this is a calculus problem: as you approach a description of something that could be anything, the content approaches zero. Investors will discard vague boilerplate like 'collaboratively leverage information value' and wait impatiently for what you actually built.
 
