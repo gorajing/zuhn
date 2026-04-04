@@ -51,7 +51,7 @@ related:
   - INS-260403-D375
   - INS-260327-5D13
   - INS-260403-81CE
-  - INS-260403-DEF6
+  - INS-260403-21C4
 stance: >-
   Timeless how-to content (like 'Good Product Manager Bad Product Manager')
   compounds in value while opinion pieces about market bubbles are forgotte...

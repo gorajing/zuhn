@@ -61,10 +61,10 @@ stance: >-
 related:
   - INS-260330-48F2
   - INS-260330-4441
+  - INS-260403-6628
   - INS-260330-72E1
   - INS-260330-E497
   - INS-260403-53C9
-  - INS-260330-EACA
 evidence:
   - id: INS-260330-EACA
     type: REFINES

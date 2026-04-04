@@ -50,9 +50,9 @@ stance: >-
   Friction that repels low-value customers while attracting high-value ones is a
   competitive advantage, not a barrier to growth
 related:
-  - INS-260327-176D
   - INS-260403-747B
   - INS-260403-B8CD
+  - INS-260403-0CF7
   - INS-260403-FDB8
   - INS-260403-243A
   - INS-260403-137D

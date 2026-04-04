@@ -54,7 +54,7 @@ related:
   - INS-260403-E319
   - INS-260402-EEDB
   - INS-260402-D739
-  - INS-260328-195E
+  - INS-260403-1DB7
 ---
 Graham identifies a cognitive limitation that persists despite awareness: humans simply cannot assimilate the reality of 1000x variation in outcomes. Whether this expectation of bounded variation is innate or culturally learned, the result is the same — our intuitions about what constitutes reasonable variation are off by orders of magnitude.
 

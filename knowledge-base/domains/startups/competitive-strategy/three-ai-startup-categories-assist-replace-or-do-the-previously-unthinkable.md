@@ -43,7 +43,6 @@ stance: >-
 related:
   - INS-260322-C472
   - INS-260321-E654
-  - INS-260322-A892
   - INS-260327-FCCF
   - INS-260403-816B
   - INS-260403-924B
@@ -51,6 +50,7 @@ related:
   - INS-260327-1E44
   - INS-260327-2684
   - INS-260328-6E7A
+  - INS-260328-02A0
 evidence:
   - id: INS-260322-C472
     type: EXTENDS

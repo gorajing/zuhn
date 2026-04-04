@@ -49,10 +49,10 @@ stance: >-
   with investors than a broad, ambitious-sounding one
 related:
   - INS-260403-6712
+  - INS-260403-F981
   - INS-260403-2204
   - INS-260403-9AB3
   - INS-260403-208D
-  - INS-260403-B29D
 ---
 When founders describe their product vaguely ('a platform to collaboratively leverage information'), investors discard it as meaningless boilerplate. A narrow description like 'web-based database' gives investors a concrete mental model they can then expand. This mirrors incremental development: start with a working prototype description, then flesh it out. The goal isn't to capture your full vision — it's to give investors enough to want a second conversation.
 

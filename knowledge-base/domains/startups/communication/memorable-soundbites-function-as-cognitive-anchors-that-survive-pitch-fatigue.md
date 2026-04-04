@@ -47,7 +47,6 @@ stance: >-
   not just marketing polish but a survival mechanism in competitive attention
   environments where dozens of pitches blur together.
 related:
-  - INS-260320-080B
   - INS-260403-D375
   - INS-260403-81CE
   - INS-260403-2A1D

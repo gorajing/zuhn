@@ -48,6 +48,6 @@ related:
   - INS-260403-F249
   - INS-260403-DE05
   - INS-260330-666E
-  - INS-260330-2E41
+  - INS-260403-37C4
 ---
 The light-dependent reactions work by pumping protons into the thylakoid, creating a concentration gradient that drives ATP synthase like water through a turbine. This gradient-as-battery pattern appears everywhere: venture capital creates capital concentration gradients that flow toward startups; expertise asymmetry between specialists and generalists creates consulting markets; content creators build audience attention gradients that convert to revenue. The key structural insight is that useful work requires maintained imbalance — equilibrium is death (literally, in biology). Systems that deliberately create and maintain productive imbalances extract more value than those seeking balance.

@@ -50,10 +50,11 @@ related:
   - INS-260330-C02D
   - INS-260330-2F74
   - INS-260330-CEAE
-  - INS-260330-22C0
   - INS-260330-BFA2
   - INS-260330-CC30
   - PRI-260403-40D7
   - INS-260403-D482
+  - INS-260330-22C0
+  - INS-260403-1110
 ---
 Plants went all-in on RuBisCo for carbon fixation despite it confusing oxygen for CO2 roughly half the time, requiring massive overproduction (40 billion tons globally) and dedicated detoxification pathways. This mirrors how startups often scale around a suboptimal early architecture or process rather than redesigning it — adding more servers, more people, more workarounds. The overhead becomes structural: plants now spend significant energy on photorespiration cleanup, just as companies spend engineering cycles maintaining legacy systems. The lesson isn't that brute-force scaling is always wrong — it enabled plants to dominate the planet — but that the cost compounds permanently and shapes all downstream decisions.

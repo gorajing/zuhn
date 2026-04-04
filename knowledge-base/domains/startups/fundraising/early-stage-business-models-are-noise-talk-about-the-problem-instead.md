@@ -48,14 +48,13 @@ stance: >-
   expect the model to be wrong and will judge you on problem understanding
   instead.
 related:
-  - INS-260322-9DDD
   - INS-260322-A02C
   - INS-260403-EE10
+  - INS-260403-1DB7
   - INS-260403-C496
   - INS-260403-0267
   - INS-260403-3482
   - INS-260403-2E90
-  - INS-260403-8346
 ---
 Graham cites a top VC who invested in a company despite knowing their business model was wrong — and expecting it to change three times. The model is just guesses about things that probably aren't the founders' area of expertise. If you spend your limited pitch time on it, you sound less smart than when you talk about the problem, which you actually understand deeply.
 

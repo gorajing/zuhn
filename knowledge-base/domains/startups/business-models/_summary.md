@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 174 insights
+> 175 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -85,6 +85,7 @@
 - `INS-260403-1208` [high] Costco derives 75% of profit from membership fees, which forces it to prioritize renewal-worthy value over per-item margin extraction.
 - `INS-260403-F634` [high] Costco's 75% revenue from memberships makes low prices a retention strategy, not a sacrifice.
 - `INS-260403-FAE1` [high] Making membership the primary revenue source forces the company to optimize for long-term customer satisfaction over short-term margin extraction.
+- `INS-260403-3864` [high] Costco makes 75% of profit from membership fees, which means raising prices costs $60 in lost renewals for pennies of margin gain.
 - `INS-260403-8757` [high] Costco derives 75% of profit from membership fees, making customer satisfaction the direct driver of revenue rather than markup.
 - `INS-260403-CDB9` [high] When 75% of revenue comes from membership fees, the rational move is always to lower prices to protect renewals.
 - `INS-260403-5C88` [high] When membership fees are the primary revenue source, the company's incentive naturally aligns with keeping prices low to drive renewals.

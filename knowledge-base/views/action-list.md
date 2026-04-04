@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3644 actionable insights
+Generated on 2026-04-04 | 3651 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1629,6 +1629,7 @@ Generated on 2026-04-04 | 3644 actionable insights
 - [INS-260403-2081] Telling people you're passionate triggers skepticism; showing it through substance and demeanor builds conviction.
 - [INS-260403-2F86] Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
 - [INS-260403-05DF] Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
+- [INS-260403-1EB3] Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2750,6 +2751,10 @@ Generated on 2026-04-04 | 3644 actionable insights
 - [INS-260403-FC45] Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
 - [INS-260403-13ED] Early business models are usually wrong, so pitching them wastes time and can make you look naive — talk about what you've built instead.
 - [INS-260403-39B0] Approaching a description of 'anything' makes its information content approach zero — narrow and concrete beats broad and aspirational.
+- [INS-260403-1DB7] Smart investors expect early business models to be wrong, so founders should spend pitch time on the problem and product instead.
+- [INS-260403-24F0] Never say 'we're passionate' or 'our product is great'—investors ignore or penalize explicit self-promotion, responding only to demonstrated conviction.
+- [INS-260403-F981] As a startup description approaches capturing everything it could become, its informational content approaches zero.
+- [INS-260403-21C4] Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3610,6 +3615,7 @@ Generated on 2026-04-04 | 3644 actionable insights
 - [INS-260403-4850] The formula Culture = Values + Behavior × Consistency reveals that inconsistent behavior doesn't just fail to build culture — it destroys trust in stated values.
 - [INS-260403-C125] Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
 - [INS-260403-AEBD] Restructuring resource assignments can create room for growth without acquiring new resources.
+- [INS-260403-857E] Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3680,6 +3686,7 @@ Generated on 2026-04-04 | 3644 actionable insights
 - [INS-260403-FDB8] Costco's $60 entry fee filters for affluent households averaging $100K income, who then spend more and renew at 90%.
 - [INS-260403-462F] Scoring business models across 9 defined mechanics reveals weaknesses that intuitive strategy discussions miss.
 - [INS-260403-0764] Before designing an innovation strategy, assess whether your current projects skew toward exploiting existing models or exploring new ones.
+- [INS-260403-0CF7] Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

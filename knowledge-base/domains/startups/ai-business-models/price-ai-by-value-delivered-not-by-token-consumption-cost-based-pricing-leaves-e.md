@@ -50,7 +50,6 @@ resolutions:
     companies pricing by cost will see their revenue shrink while companies
     pricing by value will see their margins expand.
 related:
-  - INS-260325-206C
   - INS-260325-4FF3
   - INS-260403-5D89
   - INS-260403-97F8

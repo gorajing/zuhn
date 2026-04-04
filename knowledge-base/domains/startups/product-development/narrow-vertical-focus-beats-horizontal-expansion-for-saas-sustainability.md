@@ -50,7 +50,6 @@ related:
   - PRI-260323-49F8
   - INS-260324-1275
   - INS-260330-8481
-  - INS-260327-5690
 stance: >-
   Manifast CEO deliberately keeps the product focused on front-end software
   planning rather than expanding to project management

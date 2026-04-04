@@ -59,7 +59,6 @@ stance: >-
   when the environment fundamentally changes, because replacement cost exceeds
   adaptation cost
 related:
-  - INS-260323-E559
   - INS-260328-D0F6
   - INS-260330-CA97
   - INS-260330-DF69
@@ -69,6 +68,7 @@ related:
   - INS-260330-7106
   - INS-260403-D563
   - INS-260403-9E63
+  - INS-260403-3D7D
 evidence:
   - id: INS-260323-E559
     type: TRANSFERS_TO

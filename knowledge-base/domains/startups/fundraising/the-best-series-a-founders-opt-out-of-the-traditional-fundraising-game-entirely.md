@@ -50,7 +50,6 @@ stance: >-
   alternatives like batch investing outperform those who try to run competitive
   rounds.
 related:
-  - INS-260328-982A
   - INS-260403-1B8A
   - INS-260402-E140
   - INS-260403-71D1

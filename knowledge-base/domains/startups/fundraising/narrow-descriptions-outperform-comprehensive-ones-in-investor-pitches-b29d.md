@@ -55,7 +55,6 @@ related:
   - INS-260403-21A8
   - INS-260403-D5F2
   - INS-260403-B274
-  - INS-260403-39B0
 ---
 When founders describe their product broadly to capture all possibilities, investors hear noise. Paul Graham frames this with a calculus analogy: as a description approaches 'could be anything,' its informational content approaches zero. Phrases like 'collaboratively leverage the value of information' get discarded as filler.
 

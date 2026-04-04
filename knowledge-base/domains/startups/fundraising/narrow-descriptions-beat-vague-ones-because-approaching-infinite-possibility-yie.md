@@ -54,7 +54,6 @@ stance: >-
 related:
   - INS-260330-B5DF
   - INS-260403-41FF
-  - INS-260403-8013
   - INS-260403-208D
   - INS-260403-047B
   - INS-260403-EE70
@@ -62,6 +61,7 @@ related:
   - INS-260403-6712
   - INS-260403-AF27
   - INS-260403-507E
+  - INS-260403-39B0
 ---
 When founders try to describe everything their product could become, they approach a description of nothing. Saying 'a system to collaboratively leverage the value of information' goes in one ear and out the other—investors discard it as meaningless boilerplate. The counterintuitive move is to start with an overly narrow description that's gripping, then flesh it out incrementally. This mirrors incremental software development: start with a working prototype (a clear mental model in the investor's head), then add features. The goal isn't to capture your full vision but to be compelling enough that investors want to talk further.
 

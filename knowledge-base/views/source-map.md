@@ -3,10 +3,10 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 222 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 139 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 118 | 2026-03-31 |
-| How to Do Great Work | blog | 64 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 226 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 144 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 123 | 2026-03-31 |
+| How to Do Great Work | blog | 69 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -823,6 +823,7 @@ Generated on 2026-04-04 | 2421 sources
 | Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 4 | 2026-03-30 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
+| AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 4 | 2026-03-30 |
 | ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 4 | 2026-03-30 |
 | AI Games Are Coming | blog | 4 | 2026-03-31 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
@@ -859,6 +860,7 @@ Generated on 2026-04-04 | 2421 sources
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 4 | 2026-03-30 |
 | Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
+| Deep Dive: How Equity Tokenization Is Breaking TradFi Barriers | blog | 4 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Defining Property | blog | 4 | 2026-03-31 |
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
@@ -1982,7 +1984,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI and product management | Marily Nika (Meta, Google) | blog | 0 | 2026-03-31 |
 | AI Bubble📉, Canva acquires Leonardo AI🎨, How to Write Cold Emails✉️ | blog | 0 | 2026-03-30 |
 | AI Co-Pilots Every Startup & VC Needs in Their Toolbox 🛠️ | blog | 0 | 2026-03-30 |
-| AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 0 | 2026-03-30 |
 | AI is changing the rules of the game in Go-to-Market 🔄 | blog | 0 | 2026-03-30 |
 | AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 0 | 2026-03-30 |
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
@@ -2106,7 +2107,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: Creator Economy - The Next Phase of Media | blog | 0 | 2026-03-30 |
 | Deep Dive: Defense 2.0 - Protecting America | blog | 0 | 2026-03-30 |
 | Deep Dive: How China Built Its Industrial Power | blog | 0 | 2026-03-30 |
-| Deep Dive: How Equity Tokenization Is Breaking TradFi Barriers | blog | 0 | 2026-03-30 |
 | Deep Dive: Is AI Disrupting the Future of Work? | blog | 0 | 2026-03-30 |
 | Deep Dive: Is India the Next Economic Giant? | blog | 0 | 2026-03-30 |
 | Deep Dive: Moore's Law and Next Steps for Silicon | blog | 0 | 2026-03-30 |

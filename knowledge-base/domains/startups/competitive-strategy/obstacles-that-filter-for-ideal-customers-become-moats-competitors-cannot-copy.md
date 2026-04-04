@@ -50,12 +50,11 @@ stance: >-
 related:
   - INS-260403-546E
   - INS-260403-2C00
-  - INS-260403-C40D
-  - INS-260403-747B
   - INS-260403-08FE
   - INS-260403-FDB8
-  - INS-260403-243A
   - INS-260403-64E7
+  - INS-260403-747B
+  - INS-260403-0CF7
 ---
 The $60 annual fee looks like a customer acquisition barrier, but it functions as a demographic filter — members average nearly $100,000 household income, and business owners (one-third of members) account for two-thirds of sales. The fee selects for high-value customers who spend more per visit and renew at 90% rates. This creates a flywheel competitors cannot replicate: lower the fee and you dilute the customer base; eliminate it and you lose the incentive alignment.
 

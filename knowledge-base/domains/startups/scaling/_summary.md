@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 135 insights
+> 136 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260403-365D` [high] Costco pays $21/hour (double the retail average) and gets employees three times more productive, making the higher wage a net positive investment.
@@ -105,6 +105,7 @@
 - `INS-260330-72E1` [high] Plants increased atmospheric oxygen through photosynthesis, which then caused their own key enzyme RuBisCo to fail half the time — a biological case of success undermining itself.
 - `INS-260403-E1EB` [high] Zillow's iBuying shutdown shows that marketplace DNA (software-first) clashes fatally with fintech DNA (financial operations and risk management).
 - `INS-260327-41A9` [medium] Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently.
+- `INS-260403-857E` [medium] Costco pays $21/hour (2x retail average) but gets 3x the productivity per worker, making its effective labor cost per unit lower than competitors.
 - `INS-260403-43E5` [medium] Costco pays $21/hour (2x retail average) and gets 3x employee productivity, making generous wages a competitive advantage.
 - `INS-260403-5CB5` [medium] Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
 - `INS-260403-C125` [medium] Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.

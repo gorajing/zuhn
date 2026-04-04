@@ -60,7 +60,7 @@ related:
   - INS-260327-50CE
   - INS-260328-ACC3
   - INS-260329-A80B
-  - INS-260329-EBBB
+  - INS-260329-545B
 ---
 Levie explicitly corrects a common startup misconception: that building a consumer-grade enterprise product means you can skip the sales team. Box initially feared the traditional enterprise sales model (hiring 'Chucks with briefcases'), but learned that sales and product-led growth are complementary, not substitutes. The product gets you in the door through end users. Sales helps customers navigate the competitive landscape, deploy the technology organizationally, and expand usage.
 

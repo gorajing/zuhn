@@ -54,12 +54,12 @@ related:
   - PRI-260320-8205
   - INS-260327-7A5A
   - INS-260327-0CBC
-  - INS-260329-B4C8
   - INS-260330-1282
   - INS-260403-B505
   - INS-260403-6620
   - INS-260403-ED1F
   - INS-260403-05DF
+  - INS-260403-24F0
   - INS-260403-2F86
 ---
 Graham identifies a fundamental asymmetry in persuasion: explicit claims about your own qualities ('we're passionate,' 'our product is great') are automatically discounted or mark you as a bullshitter, while the same qualities demonstrated implicitly through deep knowledge, genuine enthusiasm about the problem, and command of details create authentic conviction.

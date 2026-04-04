@@ -56,7 +56,7 @@ related:
   - INS-260403-08FE
   - INS-260403-FDB8
   - INS-260403-747B
-  - INS-260403-B8CD
+  - INS-260403-0CF7
 ---
 Traditional business advice treats friction as the enemy of growth. Costco demonstrates that strategically placed friction can be a powerful customer-selection mechanism. The $60-$120 membership fee filters for households with ~$100K average income. The bulk-only format attracts business owners (one-third of members generating two-thirds of sales). The confusing warehouse layout forces wandering that increases basket size.
 

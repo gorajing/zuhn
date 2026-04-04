@@ -55,7 +55,6 @@ related:
   - INS-260330-2B42
   - INS-260323-F540
   - INS-260326-4164
-  - INS-260402-F5E0
 stance: >-
   At 54 with grown children and strong convictions, Carlson finds that pure
   curiosity ('I was just interested') is the most sustainable and honest dr...
