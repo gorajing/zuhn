@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 312 insights
+> 313 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -124,6 +124,7 @@
 - `INS-260330-1243` [high] Applying ideological threat models to fundamentally transactional actors leads to systematic misprediction of their behavior and goals.
 - `INS-260330-14B1` [high] Normal maps exploit how humans perceive surface detail through light interaction rather than actual geometry.
 - `INS-260327-2EFD` [high] Consumer interest in analog products (vinyl, film cameras, physical planners) peaks when the aesthetic appeal exceeds th
+- `INS-260403-C7D8` [high] Whether something is objective or subjective depends on how much the observers have in common, not on whether observers are involved.
 - `INS-260330-601A` [high] A cosmic ray proton traveling at 99.9999999999991% light speed would measure Earth as only 17 metres thick — Earth is literally flat to that observer.
 - `INS-260325-26C6` [high] Freud used steam engines, the 20th century used computers, and now neural networks may rehabilitate intuition as a valid metaphor for mind.
 - `INS-260325-EC7A` [high] Greek and Roman statues were vibrantly painted — our image of austere white marble is an accident of decay, known for over a century but still shaping perception.

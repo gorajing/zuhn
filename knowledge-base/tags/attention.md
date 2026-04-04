@@ -10,6 +10,7 @@
 - `INS-260330-6E6A` A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
 - `INS-260402-607A` Francis Darwin identified his father's key advantage as 'the power of never letting exceptions pass unnoticed' — great discovery requires treating anomalies as data, not noise.
 - `INS-260403-0AE1` Jessica Livingston's 'Social Radar' worked precisely because applicants dismissed her as a secretary — attention would have disrupted her ability to read people.
+- `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
 - `INS-260330-1B64` Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-71DE` Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
 - `INS-260329-6DED` Formally canceling old forgotten tasks frees more capacity than adding urgency to new ones.
@@ -23,11 +24,10 @@
 - `INS-260330-4285` Goggins manages ADHD through absolute compartmentalization — each activity gets total focus with zero mental bleed between domains.
 - `INS-260325-1D95` The brain has a fixed energy budget for cognition that cannot be expanded, making attention a hard-limited resource to be allocated, not grown.
 - `INS-260325-CDEA` The brain runs on a fixed ATP energy budget; no hack can expand its bandwidth for attention.
-- `INS-260329-A45D` 'But' acts as an attention redirector — everything after it is amplified, everything before it is diminished.
 - `INS-260330-0930` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - `INS-260330-B047` Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
-- `INS-260323-42A7` Marriages fail like bankruptcy — very slowly and then all at once — through accumulated small disconnections, not through the dramatic event that finally ends them.
 - `INS-260330-E0A7` In silence and darkness, Derek felt his heartbeat shaking his entire body — not because it got stronger, but because the brain stopped filtering it out.
+- `INS-260323-42A7` Marriages fail like bankruptcy — very slowly and then all at once — through accumulated small disconnections, not through the dramatic event that finally ends them.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260329-D212` Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.

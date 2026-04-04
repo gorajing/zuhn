@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 249 insights
+> 250 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -48,6 +48,7 @@
 - `INS-260330-F734` [high] Even 4chan has a moderation policy — 'free speech absolutism' is an illusion because every platform necessarily makes curation decisions, and the real question is whether those decisions are responsible.
 - `INS-260327-5547` [high] In any field, the person who says 'it's complicated' probably knows more than the person who says 'it's simple' - expertise produces humility, not certainty.
 - `INS-260403-1CB1` [high] Our inability to intuit exponential change causes us to underfund moonshot longevity research in favor of comfortable incremental approaches.
+- `INS-260403-31B1` [high] Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
 - `INS-260330-2030` [high] The comparison between BLM riots and the Capitol insurrection feels like balanced analysis but collapses a critical categorical distinction between protest-gone-wrong and president-directed assault on democratic certification.
 - `INS-260330-EF10` [high] Pay off high-interest debt and build 6-12 months of emergency savings before investing, because financial stress causes panic selling that destroys returns.
 - `INS-260327-C316` [high] People treat money as the most rational domain of their lives while making consistently irrational financial decisions driven by fear, status anxiety, and emotional needs.

@@ -14,3 +14,4 @@
 - `INS-260329-393C` Whenever you find yourself copy-pasting code or repeating a manual process, you've found a missing abstraction that will cost more to fix later.
 - `INS-260403-0CA8` Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 - `INS-260403-D4EA` Fast iteration beats careful planning only when the medium allows cheap revision.
+- `INS-260403-6342` Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.

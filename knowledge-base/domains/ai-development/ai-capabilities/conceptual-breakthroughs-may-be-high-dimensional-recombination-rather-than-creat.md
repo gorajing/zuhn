@@ -53,7 +53,6 @@ stance: >-
   invention.
 related:
   - INS-260323-A0CE
-  - INS-260327-7B0C
   - INS-260323-C10D
   - PRI-260328-AC85
   - PRI-260328-C528

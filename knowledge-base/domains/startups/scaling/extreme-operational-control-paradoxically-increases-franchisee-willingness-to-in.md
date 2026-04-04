@@ -48,8 +48,8 @@ stance: >-
 related:
   - PRI-260328-5053
   - INS-260330-DC0D
+  - INS-260403-7708
   - INS-260324-5B35
   - PRI-260324-C63E
-  - INS-260322-2647
 ---
 A naive view of franchising assumes operators want maximum autonomy. McDonald's proves the opposite: franchisees willingly pay $1-2 million upfront and accept dictated suppliers, cooking methods, and hours because these constraints function as quality guarantees. The average location generates $2.7M in annual sales with $154K take-home profit — modest margins but high predictability. The screening process itself becomes a signal: if you were approved, you are likely to succeed. This maps directly to platform strategy — stricter curation and higher barriers to entry can paradoxically increase participation by reducing variance and building trust. App stores, premium marketplaces, and accelerator programs all exploit this dynamic.

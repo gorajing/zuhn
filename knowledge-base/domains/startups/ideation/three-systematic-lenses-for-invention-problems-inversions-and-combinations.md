@@ -43,11 +43,11 @@ stance: >-
   Structured ideation frameworks that force perspective shifts produce more
   viable ideas than unstructured brainstorming
 related:
+  - INS-260403-E172
   - INS-260330-30DE
   - INS-260403-1358
   - INS-260327-E63E
   - INS-260327-165D
-  - INS-260329-4DBC
 evidence:
   - id: INS-260330-30DE
     type: SUPPORTS

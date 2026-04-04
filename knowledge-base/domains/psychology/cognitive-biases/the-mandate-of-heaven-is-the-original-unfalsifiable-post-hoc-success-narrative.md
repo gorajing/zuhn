@@ -51,7 +51,6 @@ stance: >-
   persuasive
 related:
   - INS-260325-362B
-  - INS-260325-EC7A
   - INS-260323-2627
   - INS-260327-2958
   - INS-260330-2784
@@ -60,6 +59,7 @@ related:
   - INS-260330-14E1
   - INS-260330-5C80
   - INS-260330-7511
+  - INS-260330-0F55
 evidence:
   - id: INS-260330-8F72
     type: CHALLENGES

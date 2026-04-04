@@ -51,8 +51,8 @@ related:
   - INS-260403-C3A3
   - INS-260403-C8B9
   - INS-260403-0701
+  - INS-260403-6342
   - INS-260403-C625
-  - INS-260403-1290
 ---
 Osterwalder draws a sharp distinction between managing existing businesses (execution) and creating new ones (search). Existing businesses optimize known models, but new initiatives must iterate through cycles of prototyping, testing, and pivoting based on evidence. This means applying execution-style management — detailed plans, fixed milestones, traditional ROI analysis — to early-stage initiatives is counterproductive.
 

@@ -45,13 +45,13 @@ stance: >-
   opportunities they decline, not how hard they work on what they accept
 related:
   - INS-260328-2CFF
+  - INS-260403-C7D8
   - INS-260402-BA91
   - INS-260403-2702
   - INS-260322-F128
   - INS-260329-EC01
-  - INS-260330-849D
-  - INS-260402-D534
   - INS-260403-27AA
+  - INS-260402-D534
 evidence:
   - id: INS-260330-849D
     type: TRANSFERS_TO

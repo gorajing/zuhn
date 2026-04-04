@@ -51,10 +51,11 @@ resolutions:
 related:
   - INS-260322-A02C
   - INS-260326-291C
+  - INS-260403-74EA
   - INS-260330-BEE7
   - INS-260403-805E
-  - INS-260403-5C06
   - INS-260328-3FA4
+  - INS-260403-5C06
 stance: >-
   Early-stage founders should paint a picture of how the customer's life changes
   with the product, not enumerate features.

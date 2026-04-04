@@ -53,7 +53,6 @@ related:
   - INS-260402-9288
   - INS-260329-D5FF
   - INS-260330-F512
-  - INS-260403-D704
 stance: >-
   Companies with broad retail investor bases trade at higher multiples and
   benefit from organic brand defense because owners have skin in the game.

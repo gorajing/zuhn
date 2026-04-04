@@ -4,7 +4,7 @@ Generated on 2026-04-04 | 2421 sources
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
 | Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 206 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 110 | 2026-03-31 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 115 | 2026-03-31 |
 | Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 93 | 2026-03-31 |
 | How to Do Great Work | blog | 46 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
@@ -146,8 +146,8 @@ Generated on 2026-04-04 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | 2504.19874v1 | pdf | 8 | 2026-03-26 |
+| After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -199,10 +199,10 @@ Generated on 2026-04-04 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
@@ -241,8 +241,8 @@ Generated on 2026-04-04 | 2421 sources
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | Claude for Finance | pdf | 5 | 2026-03-22 |
+| 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
@@ -467,6 +467,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
 | The Fall of the Nerds | blog | 5 | 2026-03-30 |
 | The Fatal Pinch | blog | 5 | 2026-03-31 |
+| The First On-Chain Yield Engine Bringing Institutional Yield Opportunities to Everyday Investors | blog | 5 | 2026-03-30 |
 | The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
 | The Future of Startup Funding | blog | 5 | 2026-03-31 |
 | The Future of Web Startups | blog | 5 | 2026-03-31 |
@@ -554,6 +555,7 @@ Generated on 2026-04-04 | 2421 sources
 | Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 5 | 2026-03-30 |
 | YC Review💪, What VC ‘Value-Add’ Really Looks Like🧭, Private Markets Outlook📈 | blog | 5 | 2026-03-30 |
 | YC W26 DB💰, $1T Services Opportunity🤖, How to Set Up Claude Cowork⚙️ | blog | 5 | 2026-03-30 |
+| YC's Handshake Deal Protocol🤝, The Generative AI Winners of 2025 🤖, Redefining Independent Media📰 | blog | 5 | 2026-03-30 |
 | You Weren't Meant to Have a Boss | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
@@ -843,9 +845,11 @@ Generated on 2026-04-04 | 2421 sources
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
 | Founder-Market Fit: The VC Test You Must Pass | blog | 4 | 2026-03-30 |
 | Founder Mode | blog | 4 | 2026-03-31 |
+| Free AI Hiring Kit for Startup Founders | blog | 4 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
+| Has Venture Capital Become “Return-Free Risk”?  | blog | 4 | 2026-03-30 |
 | Haters | blog | 4 | 2026-03-31 |
 | Having Kids | blog | 4 | 2026-03-31 |
 | Headcount Planning Template to Control Startup Burn | blog | 4 | 2026-03-30 |
@@ -860,6 +864,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
+| Is There Such a Thing as Good Taste? | blog | 4 | 2026-03-31 |
 | It's Charisma, Stupid | blog | 4 | 2026-03-31 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
@@ -893,6 +898,7 @@ Generated on 2026-04-04 | 2421 sources
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
 | Stablecoins Are Defense Tech | blog | 4 | 2026-03-31 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
+| State of AI 2025🤖, Biggest Fundraisers💰, Build Distribution💌 | blog | 4 | 2026-03-30 |
 | Strategyzer Peer Learning Summit with MasterCard, GE, 3M, Intel, and Many More | blog | 4 | 2026-03-31 |
 | Subject: Airbnb | blog | 4 | 2026-03-31 |
 | Support Your Local Collaborator | blog | 4 | 2026-03-30 |
@@ -903,6 +909,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Best 23 Accelerators Worldwide for Rapid Growth (and How to Get Into Them) | blog | 4 | 2026-03-30 |
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 4 | 2026-03-30 |
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 4 | 2026-03-31 |
+| The Equity Equation | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The High-Res Society | blog | 4 | 2026-03-31 |
@@ -922,6 +929,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Venture Arrogance Score🧮, The Bay is back🏙️, The $100B Empire You’ve Never Heard Of🏛️ | blog | 4 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 4 | 2026-03-31 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
+|  | blog | 4 | 2026-03-31 |
 | What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
@@ -2092,7 +2100,6 @@ Generated on 2026-04-04 | 2421 sources
 | Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 0 | 2026-03-30 |
 | Founders: Are You Raising Enough? Or Too Much? Here’s the Tool You Need | blog | 0 | 2026-03-30 |
 | Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 0 | 2026-03-30 |
-| Free AI Hiring Kit for Startup Founders | blog | 0 | 2026-03-30 |
 | Free M&A Accretion Dilution Model 2026: Excel Template for EPS Analysis | blog | 0 | 2026-03-30 |
 | From 0 to 56,500: Celebrating One Year of The VC Corner 🚀🎉 | blog | 0 | 2026-03-30 |
 | From Idea to IPO: A Behind-the-Scenes Retrospective on Building Trulia | blog | 0 | 2026-03-31 |
@@ -2110,7 +2117,6 @@ Generated on 2026-04-04 | 2421 sources
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
 | GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
-| Has Venture Capital Become “Return-Free Risk”?  | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 417.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 419.5 | blog | 0 | 2026-03-30 |
@@ -2151,7 +2157,6 @@ Generated on 2026-04-04 | 2421 sources
 | Investor Herd Dynamics | blog | 0 | 2026-03-31 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
 | Is SaaS Dead? 📉, Agentic AI 🤖, SpaceX $350Bn Valuation 🚀 | blog | 0 | 2026-03-30 |
-| Is There Such a Thing as Good Taste? | blog | 0 | 2026-03-31 |
 | Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 0 | 2026-03-30 |
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
@@ -2239,7 +2244,6 @@ Generated on 2026-04-04 | 2421 sources
 | Startup MIS Excel Template to Track KPIs | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
 | Startups in 13 Sentences | blog | 0 | 2026-03-31 |
-| State of AI 2025🤖, Biggest Fundraisers💰, Build Distribution💌 | blog | 0 | 2026-03-30 |
 | State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 0 | 2026-03-30 |
 | State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 0 | 2026-03-30 |
 | Strategyzer Ad-Lib Value Proposition Template | blog | 0 | 2026-03-31 |
@@ -2267,8 +2271,6 @@ Generated on 2026-04-04 | 2421 sources
 | The End of SaaS⚡, Fintech Trends Q3 2024💳, Optionality in Venture Funds💡 | blog | 0 | 2026-03-30 |
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 0 | 2026-03-30 |
-| The Equity Equation | blog | 0 | 2026-03-31 |
-| The First On-Chain Yield Engine Bringing Institutional Yield Opportunities to Everyday Investors | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Founders Fund Story🔥, YC Investing Patterns📊, AI in the Enterprise🔍 | blog | 0 | 2026-03-30 |
 | The Free Founder OS: 58 Templates + 10,000 Investor List | blog | 0 | 2026-03-30 |
@@ -2339,7 +2341,6 @@ Generated on 2026-04-04 | 2421 sources
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Two Kinds of Judgement | blog | 0 | 2026-03-31 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
-|  | blog | 0 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 0 | 2026-03-30 |
 | VC Math Explained📊, Grow with Roll-Ups 🔄, The Top 1%🧠 | blog | 0 | 2026-03-30 |
 | VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |
@@ -2390,7 +2391,6 @@ Generated on 2026-04-04 | 2421 sources
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
-| YC's Handshake Deal Protocol🤝, The Generative AI Winners of 2025 🤖, Redefining Independent Media📰 | blog | 0 | 2026-03-30 |
 | You are no longer the smartest type of thing on Earth | blog | 0 | 2026-03-30 |
 | AI influencers are getting filthy rich... let's build one | youtube | 0 | 2026-03-30 |
 | Anti-Gravity Wheel? | youtube | 0 | 2026-03-30 |

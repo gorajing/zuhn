@@ -47,7 +47,6 @@ stance: >-
   level.
 related:
   - INS-260327-C9BA
-  - INS-260328-EBBC
   - INS-260330-B153
   - INS-260403-1E82
   - INS-260327-EF89

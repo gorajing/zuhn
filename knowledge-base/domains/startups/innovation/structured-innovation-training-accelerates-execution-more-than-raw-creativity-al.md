@@ -55,7 +55,6 @@ related:
   - INS-260403-5427
   - INS-260403-1358
   - INS-260403-F75F
-  - INS-260403-BDCC
   - INS-260403-E3C4
 ---
 Most teams treat innovation as a function of raw creativity — brainstorm sessions, whiteboard walls, and 'think different' slogans. But the article argues that structure is the missing multiplier. Courses built around proven frameworks (Business Model Canvas, Value Proposition Design) give teams a repeatable process for moving from idea to validated concept without betting the farm.

@@ -51,8 +51,8 @@ related:
   - INS-260330-C7FF
   - INS-260330-855A
   - PRI-260403-7BEC
+  - INS-260403-85DE
   - INS-260329-2EAA
-  - INS-260330-9470
 ---
 Altman argues that founders consistently make one of their biggest mistakes in equity allocation: being generous with investors and stingy with employees. The guideline is to give roughly 10% of the company to the first 10 employees (vesting over 4 years). The logic is asymmetric: employees build compounding value over years, while investors write a check and — despite promises — usually don't contribute much ongoing value.
 

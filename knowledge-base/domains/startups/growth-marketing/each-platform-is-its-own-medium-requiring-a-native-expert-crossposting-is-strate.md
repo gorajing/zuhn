@@ -57,7 +57,6 @@ related:
   - PRI-260328-E870
   - INS-260328-3A00
   - INS-260321-3D65
-  - INS-260328-6A18
   - INS-260403-0406
 stance: >-
   A16z hired an 18-year-old for Instagram (up 35% MoM) because each platform has

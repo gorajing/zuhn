@@ -10,3 +10,4 @@
 - `INS-260403-7E7C` Mapping a customer's business model before selling positions your solution within their strategic context rather than as an isolated product.
 - `INS-260403-C0FE` Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 - `INS-260403-3EFB` Visual canvas tools with predefined sections and trigger questions channel abstract strategy conversations into concrete, testable business assumptions.
+- `INS-260403-6342` Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.

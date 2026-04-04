@@ -49,10 +49,10 @@ stance: >-
   experienced themselves.
 related:
   - PRI-260328-22EC
+  - INS-260403-31B1
   - INS-260403-8391
   - INS-260330-BE4D
   - INS-260403-B462
-  - INS-260330-9FA5
 evidence:
   - id: INS-260327-AEC2
     type: TRANSFERS_TO

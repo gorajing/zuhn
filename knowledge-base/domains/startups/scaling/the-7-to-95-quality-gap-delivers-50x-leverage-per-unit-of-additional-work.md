@@ -49,7 +49,6 @@ stance: >-
   but generates 1000x the results, creating a 50x return on incremental effort.
 related:
   - INS-260322-AD9B
-  - INS-260329-6859
   - INS-260403-0240
   - INS-260329-33D4
   - INS-260403-4935

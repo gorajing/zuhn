@@ -48,7 +48,6 @@ stance: >-
   risk-reward proportionality is the mechanism that makes founding worthwhile
 related:
   - INS-260327-D37F
-  - INS-260327-9924
   - INS-260329-8868
   - INS-260403-57FF
   - INS-260403-0821

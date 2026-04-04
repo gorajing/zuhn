@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3557 actionable insights
+Generated on 2026-04-04 | 3568 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1025,6 +1025,7 @@ Generated on 2026-04-04 | 3557 actionable insights
 - [INS-260403-99FE] When established players consistently make irrational decisions, the resulting gap is a reliable signal of untapped opportunity.
 - [INS-260403-359D] Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
 - [INS-260403-8D87] Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
+- [INS-260403-31B1] Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1114,6 +1115,7 @@ Generated on 2026-04-04 | 3557 actionable insights
 - [INS-260403-FBC0] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - [INS-260403-3D7D] RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
+- [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1910,6 +1912,7 @@ Generated on 2026-04-04 | 3557 actionable insights
 - [INS-260403-26D3] Inability to describe your startup in one compelling phrase signals unfocused strategy, not just poor messaging.
 - [INS-260403-8C50] Sequoia's 'proxy for demand' — people using bad tools to do the thing you enable — is the strongest antidote to investors' biggest early-stage fear.
 - [INS-260403-66D0] Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
+- [INS-260403-BFD1] The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2689,6 +2692,11 @@ Generated on 2026-04-04 | 3557 actionable insights
 - [INS-260403-1949] Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - [INS-260403-6982] A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - [INS-260403-B29D] Vague all-encompassing descriptions are parsed as meaningless boilerplate; narrow concrete descriptions create a working mental model investors can build on.
+- [INS-260403-37F4] Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
+- [INS-260403-BAD7] Give up n% only if the deal makes your (100-n)% worth more than 100% was before.
+- [INS-260403-6A55] Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
+- [INS-260403-74EA] Founders should describe their startup as narrowly as possible rather than gesturing at everything it could become.
+- [INS-260403-F8FF] Demonstrate demand by showing the awkward workarounds people currently use, not by citing market size statistics.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2903,6 +2911,7 @@ Generated on 2026-04-04 | 3557 actionable insights
 - [INS-260403-5F3E] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - [INS-260403-6340] Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
 - [INS-260403-D51E] Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
+- [INS-260403-85DE] An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3287,6 +3296,7 @@ Generated on 2026-04-04 | 3557 actionable insights
 - [INS-260402-2074] Expect to discard 70-75% of initial output as the normal cost of producing quality work.
 - [INS-260403-4942] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
 - [INS-260403-AC03] Slow, careful software development merely produces a polished version of your first wrong idea.
+- [INS-260403-8BA2] You don't need total consensus on rankings to have meaningful quality standards — a partial order where great is distinguishable from mediocre is enough.
 
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'
@@ -3727,6 +3737,7 @@ Generated on 2026-04-04 | 3557 actionable insights
 - [INS-260403-260B] Validate that the problem exists and matters before testing whether your solution addresses it.
 - [INS-260403-113D] Separate customer observation from solution design by temporarily forgetting what you offer.
 - [INS-260403-CBC7] Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
+- [INS-260403-6342] Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

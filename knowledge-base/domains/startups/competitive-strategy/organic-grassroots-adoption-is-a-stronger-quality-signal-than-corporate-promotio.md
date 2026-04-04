@@ -51,8 +51,8 @@ related:
   - INS-260325-DFC7
   - INS-260326-CA8C
   - INS-260330-C9A6
+  - INS-260403-8BA2
   - INS-260327-09D7
-  - INS-260323-4DD9
 ---
 Graham notes that 'real standards don't have to be promoted' — C, Unix, and HTML all became dominant without marketing campaigns, while Java required enormous corporate hype from Sun Microsystems. The need for aggressive promotion signals that a technology can't win on its own merits.
 

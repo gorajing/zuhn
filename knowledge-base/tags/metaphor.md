@@ -5,6 +5,6 @@
 - `INS-260325-8E0D` The tick-tock of escapement clocks gave computing its drumbeat — a method to step through calculations systematically rather than letting machines run wild.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260330-3819` The Fourier Transform becomes intuitive when reframed as tracking the center of mass of a signal wound around a circle.
-- `INS-260329-E43B` Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
 - `INS-260403-6AD0` A photon takes millions of years bouncing randomly inside a star before escaping — a powerful metaphor for progress through complex, opaque systems.
+- `INS-260329-E43B` Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
 - `INS-260325-26C6` Freud used steam engines, the 20th century used computers, and now neural networks may rehabilitate intuition as a valid metaphor for mind.

@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 121 insights
+> 122 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -108,6 +108,7 @@
 - `INS-260323-A2E5` [medium] Co-founder departures, funding gaps, and market downturns are symptoms, not root causes — the underlying diseases are attachment to a specific solution and insufficient iteration speed.
 - `INS-260329-F007` [medium] Stop deliberating and start executing — the information you gain from running any reasonable business idea for 30 days exceeds what months of analysis could provide.
 - `INS-260403-3569` [medium] Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
+- `INS-260403-6342` [medium] Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
 - `INS-260403-2718` [medium] Digital interview recruitment platforms trade speed for representativeness, requiring founders to actively correct for selection bias.
 - `INS-260403-979D` [medium] Account for environmental conditions when interpreting A/B test results to avoid false generalizations.
 - `INS-260329-6B2C` [medium] Follow multiple educators' free content for seven days — whoever delivers the most tactical value for free likely has the best paid offering, minimizing purchase risk.

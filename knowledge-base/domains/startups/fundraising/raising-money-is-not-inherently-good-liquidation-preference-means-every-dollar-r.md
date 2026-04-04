@@ -53,6 +53,7 @@ related:
   - INS-260327-8374
   - INS-260330-7346
   - INS-260330-9B90
+  - INS-260403-BAD7
 stance: Each fundraise adds a liquidation preference stack
 evidence:
   - id: INS-260327-8374

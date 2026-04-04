@@ -49,12 +49,12 @@ related:
   - INS-260326-C692
   - INS-260329-DC86
   - INS-260403-B462
-  - INS-260403-4363
   - INS-260403-37D9
   - INS-260403-B505
   - INS-260403-1E82
   - INS-260403-A8E8
   - INS-260403-2F22
   - INS-260403-A290
+  - INS-260403-E51B
 ---
 When evaluators lack the technical background to assess substance directly, they rely heavily on confidence as a proxy signal. But explicit confidence claims ('we're passionate,' 'our product is great') are universally discounted — audiences either ignore them as noise or actively mark the speaker as a bullshitter. Effective confidence is implicit: framing the pitch as doing investors a favor by telling them about it, speaking with authority about the problem domain, and never being apologetic. This is a general principle of persuasion — the message channel (behavior, tone, framing) is more credible than the message content (self-assessment) precisely because it's harder to fake.

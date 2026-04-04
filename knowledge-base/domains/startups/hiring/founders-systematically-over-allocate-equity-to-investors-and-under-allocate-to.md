@@ -50,12 +50,12 @@ stance: >-
   approach of being generous with investors and stingy with employees.
 related:
   - INS-260326-0C14
-  - INS-260329-5514
   - INS-260330-CBF3
   - INS-260330-855A
   - INS-260330-3E6F
   - INS-260330-0B55
   - PRI-260403-7BEC
   - INS-260330-C745
+  - INS-260403-85DE
 ---
 Altman observes that founders consistently make the same equity allocation mistake: being generous with investor equity and stingy with employee equity. This is backwards because employees compound value over years of building, while investors mostly contribute at the moment of writing the check. The recommended guideline is ~10% of the company distributed across the first 10 employees, vesting over 4 years. Since these employees will either dramatically increase company value (justifying the equity) or leave before fully vesting, the downside risk is minimal. The most successful YC companies followed this generous-to-employees pattern. This connects to retention: employees who feel fairly compensated with equity maintain commitment through the startup's inevitable crises, while those who feel undervalued build resentment that eventually causes churn — and first-time CEOs are already prone to management mistakes that accelerate attrition.

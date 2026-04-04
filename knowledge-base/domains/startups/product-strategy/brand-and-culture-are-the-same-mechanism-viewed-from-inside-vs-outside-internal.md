@@ -50,7 +50,6 @@ stance: >-
   simply culture as experienced by people outside the company
 related:
   - INS-260323-2E49
-  - INS-260322-683B
   - INS-260330-D272
   - INS-260403-6428
   - INS-260322-5A72

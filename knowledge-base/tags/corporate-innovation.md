@@ -8,6 +8,7 @@
 - `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-4CD0` Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
+- `INS-260403-4D8F` Structured toolboxes with experiment libraries and progress mapping enable both large and small companies to achieve world-class innovation.
 - `INS-260403-C8FD` A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
 - `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260403-B8A3` Internal ventures without access to parent company brand, customers, and resources lose their only structural advantage over independent startups.

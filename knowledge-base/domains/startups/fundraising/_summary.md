@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 188 insights
+> 194 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -54,6 +54,7 @@
 - `INS-260403-A709` [high] VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
 - `INS-260403-3482` [high] Smart early-stage investors expect your business model to be wrong; spending pitch time on it displaces the things that actually matter.
 - `INS-260403-088E` [high] Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
+- `INS-260403-6A55` [high] Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
 - `INS-260403-A172` [high] Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260403-5C8E` [high] Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
@@ -101,6 +102,7 @@
 - `INS-260403-41FF` [high] Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-2204` [high] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260403-D430` [high] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
+- `INS-260403-74EA` [high] Founders should describe their startup as narrowly as possible rather than gesturing at everything it could become.
 - `INS-260403-6712` [high] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
@@ -121,6 +123,7 @@
 - `INS-260403-77B4` [high] PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260403-30D8` [high] Show investors a 'proxy for demand' — concrete evidence of people struggling with inadequate tools — rather than citing market size numbers.
 - `INS-260403-17A3` [high] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
+- `INS-260403-F8FF` [high] Demonstrate demand by showing the awkward workarounds people currently use, not by citing market size statistics.
 - `INS-260403-3837` [high] Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
 - `INS-260322-A31D` [high] Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
@@ -138,6 +141,7 @@
 - `INS-260328-195E` [high] There are no successful value investors in startups -- trying to find the lowest-valuation, highest-revenue deals is a proven losing strategy because early-stage investing is fundamentally an art.
 - `INS-260402-EEDB` [high] The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
 - `INS-260322-6C4B` [high] The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
+- `INS-260403-BAD7` [high] Give up n% only if the deal makes your (100-n)% worth more than 100% was before.
 - `INS-260403-A57D` [high] Expecting to raise more money makes startups slack on profitability, which makes raising money harder.
 - `INS-260330-2BB3` [high] Each funding round should target specific risks to eliminate, with the amount raised calibrated precisely to the milestones needed to peel away those risk layers.
 - `INS-260323-4C43` [high] Mark Pincus argues that founder control is worth more than valuation because losing control means losing the ability to make the risky, unpopular pivots that save companies.
@@ -178,6 +182,7 @@
 - `INS-260330-404B` [medium] A full-time internal fundraiser after Series B outperforms investment bankers at half the cost and dilution.
 - `INS-260403-C0D4` [medium] Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260330-1002` [medium] Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
+- `INS-260403-37F4` [medium] Multiply annual salary plus overhead by 1.5 to estimate total stock-equivalent cost at current valuation.
 - `INS-260327-DFF0` [medium] The era of $200M funds leading Series A rounds is over — the math on round sizes, follow-on reserves, and time-to-exit now demands billion-dollar vehicles.
 - `INS-260403-5106` [medium] High-charisma founders get more tolerance for past mistakes than low-charisma ones.
 - `INS-260328-3A00` [medium] YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
@@ -188,5 +193,6 @@
 - `INS-260328-D866` [medium] The most successful Standard Capital founders hadn't talked to any investors or built a deck -- they just applied and committed to the process if accepted.
 - `INS-260328-F301` [medium] Seed-stage funding is fairer than founders think: investors don't coordinate, there are many independent writers, criteria are public, and getting rejected by one investor doesn't poison the well with others.
 - `INS-260403-0680` [medium] There's a massive gap between $20K seed checks and $2M Series A rounds where promising startups can't find capital, creating opportunity for new investor classes.
+- `INS-260403-7708` [medium] A firm like Sequoia taking 30% needs to improve outcomes by 43%—their brand signal alone may exceed that.
 - `INS-260402-8424` [medium] VCs invest in startups over ordinary businesses because equity-based returns through IPO/acquisition prevent the agency problem of founders self-dealing through inflated expenses.
 - `INS-260330-C4D4` [medium] While VCs frame vesting as protecting their investment, its most practical function is solving the problem of what happens if a co-founder quits.
