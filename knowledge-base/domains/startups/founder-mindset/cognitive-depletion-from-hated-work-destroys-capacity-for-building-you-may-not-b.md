@@ -50,10 +50,11 @@ related:
   - INS-260322-DAA1
   - INS-260326-16A8
   - PRI-260323-C49D
+  - INS-260404-9A69
   - PRI-260403-2376
   - INS-260330-85D9
-  - INS-260403-449A
   - INS-260327-3B69
+  - INS-260403-449A
 stance: Repetitive work that violates your values causes cognitive depletion
 evidence:
   - id: INS-260322-DAA1

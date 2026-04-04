@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 150 insights
+> 152 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -146,9 +146,11 @@
 - `INS-260329-5FB5` [medium] Multiple failures before success is the statistical norm for entrepreneurs, not the exception, because failure builds pattern-matching that classroom learning cannot.
 - `INS-260403-39DD` [medium] Losing fortunes and rebuilding them is the empirical test that separates skill-based wealth creation from luck-based wealth.
 - `INS-260323-099F` [medium] When a low-vibration emotion surfaces, locate it physically in your body and feel it for a few minutes rather than bypassing it — this diffuses the charge permanently.
+- `INS-260404-21B2` [medium] Your mind's quit signal fires far earlier than your body's actual limit, leaving massive untapped reserves.
 - `INS-260325-A36F` [medium] Renaming psychopathy repeatedly makes life harder for affected families who cannot find consistent information about diagnosis and treatment.
 - `INS-260329-163B` [medium] Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.
 - `INS-260330-DA0B` [medium] Successful people who feel 'something is missing' are sensing their undeveloped willpower and unexplored potential, not lacking external achievements.
 - `INS-260326-4164` [medium] 78% of young Americans surveyed said finding meaning and purpose was their primary concern — only 16% said making money.
 - `INS-260330-3E64` [medium] Rogan credits brutal exercise routines, sauna, and cold plunge as the primary mechanism that made surviving his cancellation attempt manageable.
+- `INS-260404-9A69` [medium] Regularly doing things that suck recalibrates your brain's limit-detection system, raising your baseline tolerance for difficulty everywhere.
 - `INS-260330-A075` [medium] Deliberately allowing yourself to be influenced by others' ideas requires the confidence that you can return to yourself afterward.

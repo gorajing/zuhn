@@ -46,7 +46,6 @@ stance: >-
   expect AI to align with human values but never consider that humans might need
   to evolve their values to be worthy of intelligent partnership.
 related:
-  - INS-260327-91C7
   - INS-260327-D24A
   - INS-260327-AC8E
   - INS-260330-CA88

@@ -45,13 +45,12 @@ stance: >-
   base, leaving massive leverage gains on the table while searching externally
   for growth.
 related:
-  - INS-260328-9C16
   - INS-260403-AEAF
   - PRI-260403-5DEA
+  - INS-260328-9C16
   - INS-260403-0240
   - INS-260327-540D
   - INS-260329-9098
-  - INS-260403-0196
 evidence:
   - id: INS-260327-540D
     type: CHALLENGES

@@ -45,9 +45,9 @@ resolutions:
 related:
   - PRI-260324-E8C6
   - INS-260323-7C3A
+  - INS-260404-8E68
   - INS-260329-C91D
   - INS-260325-D9D8
-  - INS-260325-25A2
   - INS-260327-A8D9
   - INS-260403-D0EE
 stance: >-

@@ -45,10 +45,10 @@ stance: >-
   activity consistency rather than revenue.
 related:
   - INS-260323-0D51
+  - INS-260404-56AC
   - INS-260327-7846
   - INS-260330-067C
   - INS-260329-764E
-  - INS-260323-DA91
   - INS-260330-BCAF
 evidence:
   - id: INS-260323-0D51

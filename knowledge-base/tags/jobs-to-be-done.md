@@ -12,3 +12,4 @@
 - `INS-260403-E816` Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.
 - `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260403-260B` Validate that the problem exists and matters before testing whether your solution addresses it.
+- `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.

@@ -6,9 +6,9 @@
 - `INS-260329-EC30` AI commoditizes synthesis; human judgment becomes the scarce, premium resource
 - `INS-260323-4EE4` The new competitive moat is not better models but better judgment on which tasks go to which AI and which stay with humans.
 - `INS-260323-AF7B` AI programming tools have a unique competitive dynamic where every model improvement creates new product possibilities, making iteration speed the primary moat over incumbents.
-- `INS-260329-C375` HFT firms treat latency dashboards and real-time alerts as competitive infrastructure, not optional observability tooling.
 - `INS-260327-643C` Score any software company across 8 moat dimensions — four or more means durable, two or less means vulnerable.
 - `INS-260329-C409` HFT makes fractions of a cent per trade but profits through extreme volume and speed advantage.
+- `INS-260329-C375` HFT firms treat latency dashboards and real-time alerts as competitive infrastructure, not optional observability tooling.
 - `INS-260403-8E25` The U.S. leads in space with launch sites, talent, capital markets, and reusable launch technology, but history shows every transportation era's early winner eventually faces challengers who close the gap.
 - `INS-260327-0FA9` After defeating Napoleon at Aspern-Essling, Austria hesitated instead of pressing the advantage, giving Napoleon six weeks to rebuild and return with overwhelming force.
 - `INS-260330-750A` The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -22,6 +22,7 @@
 - `INS-260329-D5FF` Strong brands compound three advantages simultaneously: higher prices, lower acquisition costs, and greater customer loyalty.
 - `INS-260325-0895` Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
 - `INS-260330-413D` Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.
+- `INS-260404-CA58` Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - `INS-260403-5593` Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.
 - `INS-260403-43B9` Competitors can copy products far more easily than they can replicate an entire business model ecosystem.

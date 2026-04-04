@@ -54,11 +54,11 @@ stance: >-
   consciousness seeking genuine surprise.
 related:
   - INS-260323-BDC1
+  - INS-260404-8E68
   - INS-260323-0961
   - INS-260327-F014
   - INS-260330-2E54
   - PRI-260323-D475
-  - INS-260330-3C2F
   - INS-260329-5924
   - INS-260330-84C6
   - INS-260330-206B

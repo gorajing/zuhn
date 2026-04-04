@@ -52,12 +52,11 @@ stance: >-
   Deliberately not thinking about a creative project between work sessions
   produces better outcomes than continuous rumination
 related:
-  - INS-260329-3473
   - INS-260403-8779
+  - INS-260404-CF9F
   - INS-260330-BCC7
   - INS-260323-CA1F
   - INS-260327-E7B8
-  - PRI-260328-4000
   - INS-260330-A47D
   - INS-260403-50F1
 evidence:

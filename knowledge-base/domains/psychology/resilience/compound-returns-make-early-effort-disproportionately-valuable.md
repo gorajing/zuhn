@@ -50,12 +50,13 @@ stance: >-
   compounding.
 related:
   - INS-260327-3E6F
-  - PRI-260328-E53E
   - INS-260329-6514
+  - PRI-260328-E53E
   - INS-260329-DF07
   - INS-260329-E6C3
   - INS-260329-C91D
   - INS-260330-F348
+  - INS-260404-21B2
 evidence:
   - id: INS-260327-3E6F
     type: TRANSFERS_TO

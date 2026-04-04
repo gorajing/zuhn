@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 502 insights
+> 504 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -24,6 +24,7 @@
 - `INS-260324-41D6` [high] Low-cost carriers (Southwest, JetBlue, Spirit) outperformed legacy airlines for a decade, but legacy carriers reclaimed dominance because hub-and-spoke networks create structural lock-in that point-to-point models can't replicate.
 - `INS-260330-CCD4` [high] Spotify's shift from search-based music access to algorithmic recommendations gave it unprecedented control over which artists succeed.
 - `INS-260330-413D` [high] Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.
+- `INS-260404-CA58` [high] Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
 - `INS-260327-0710` [high] Shopping malls built around anchor department stores face cascading failure when anchors close because the entire ecosys
 - `INS-260327-6B78` [high] Anthropic's enterprise sales targets two distinct buyers: developers/CPOs who consume the API and Chief AI Officers who manage model portfolios — with the majority of the Fortune 500 now having someone in the latter role.
 - `INS-260330-D801` [high] Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
@@ -465,6 +466,7 @@
 - `INS-260402-7E2A` [medium] Ambition makes you climb known peaks, but curiosity can create entirely new fields with the most extreme returns.
 - `INS-260403-CEBA` [medium] Technology leads are temporary; customer understanding compounds into durable competitive advantage.
 - `INS-260404-BA3D` [medium] Viaweb put cgi-bin in their URLs specifically to fool competitors into thinking they used a different technology stack.
+- `INS-260404-462B` [medium] Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
 - `INS-260330-DCE1` [medium] Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
 - `INS-260403-6412` [medium] Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
 - `INS-260330-F116` [medium] The early Islamic empire's rapid territorial expansion was enabled by centuries of Byzantine-Sassanian warfare that left both empires depleted — plus plague weakening the Sassanians further.

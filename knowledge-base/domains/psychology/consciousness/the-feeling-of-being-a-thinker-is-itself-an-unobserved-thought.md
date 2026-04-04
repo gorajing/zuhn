@@ -42,7 +42,6 @@ stance: >-
   thinking without metacognitive awareness feels like.
 related:
   - INS-260323-043E
-  - INS-260327-454C
   - INS-260330-5F9E
   - INS-260330-6CA5
   - INS-260330-DE69

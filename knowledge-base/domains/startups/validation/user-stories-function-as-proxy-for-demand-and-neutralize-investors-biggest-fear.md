@@ -57,13 +57,13 @@ related:
   - INS-260320-E044
   - INS-260322-A02C
   - INS-260323-5F8A
-  - INS-260327-643E
   - INS-260330-70BF
   - INS-260330-3AF9
   - INS-260330-5EB6
   - INS-260402-ED85
   - INS-260402-841D
   - INS-260402-E140
+  - INS-260403-6890
 ---
 Graham surfaces Sequoia's concept of 'proxy for demand': what are people doing now, using inadequate tools, that proves they need what you're making? This reframes user stories from narrative decoration into hard evidence. Three escalating tiers of proof emerge: people paying a lot for inferior alternatives (economic proxy), needs of people you know personally (social proof), and the founders' own need (the strongest signal, since Apple, Microsoft, Yahoo, and Google all grew from founders scratching their own itch).
 

@@ -49,11 +49,11 @@ stance: >-
   because software requires continuous iteration that no intermediary can keep
   pace with.
 related:
+  - INS-260404-420F
   - INS-260329-BC11
   - INS-260403-096C
   - INS-260321-3312
   - INS-260322-B392
-  - INS-260330-B91E
 ---
 Paul Graham argues that Apple's App Store replicates a software publishing model that already failed in the early 1980s with companies like VisiCorp. Unlike music or books, software requires continuous rapid iteration — launch fast and iterate isn't laziness but yields demonstrably better results. When an intermediary inserts long, random delays into each release cycle, it forces developers to ship old, buggy versions while better code sits in review queues.
 

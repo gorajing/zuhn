@@ -1,11 +1,13 @@
 # Topic: behavior-change
 
-> 18 insights
+> 20 insights
 
 - `INS-260403-C512` [high] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
+- `INS-260404-56AC` [high] Professional success and stable routines mask stagnation by removing the discomfort that signals growth opportunities.
 - `INS-260404-2829` [high] Research shows people who explicitly pursue happiness end up less happy and more depressed.
 - `INS-260330-8286` [high] Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment.
+- `INS-260404-FD88` [high] When a goal seems impossible at scale, decomposing it to the smallest unit (one rep, one page, one call) circumvents the brain's overwhelm-triggered shutdown.
 - `INS-260330-81B1` [high] Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260403-5C89` [high] Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
 - `INS-260403-A22E` [high] It took roughly 100 years for society to develop customs against cigarettes, but new addictive technologies now emerge every few years.

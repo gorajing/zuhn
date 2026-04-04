@@ -45,9 +45,9 @@ stance: >-
   uneven-but-exceptional ones.
 related:
   - INS-260403-FE3B
+  - INS-260404-7071
   - INS-260327-3349
   - INS-260327-D2F3
   - INS-260402-E140
-  - INS-260326-291C
 ---
 The natural instinct for technical founders is to present themselves as complete — addressing every potential weakness and showing balanced competence across all dimensions. But VC evaluation doesn't work like academic grading where you need to pass everything. Investors are pattern-matching for outlier potential, which means they're looking for something extraordinary in at least one dimension. A B+ across all three evaluation criteria (market, magic, team) will lose to an A+ in one area with gaps elsewhere. This has direct tactical implications: founders should do an honest appraisal of their three elements, identify where they are genuinely exceptional, and build their entire narrative around that spike rather than trying to appear uniformly strong.

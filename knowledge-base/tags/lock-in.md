@@ -1,11 +1,11 @@
 # Tag: lock-in
 
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
+- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260404-2D53` Costco's mandatory $60-120 membership triggers sunk-cost reasoning that makes customers stop comparing prices, creating loyalty that optional programs cannot replicate.
 - `INS-260403-B6FF` Costco's mandatory membership triggers sunk-cost loyalty universally, while Amazon Prime's optional model only captures customers who already self-selected as loyal.
 - `INS-260403-CE5F` Costco's mandatory membership triggers sunk-cost reasoning on every shopping trip, while Amazon Prime's optional nature lets non-subscribers self-select out.
 - `INS-260403-543E` Both Costco and Amazon Prime exploit sunk-cost psychology, but Costco's mandatory fee creates universal lock-in while Prime's optional fee only captures self-selecting customers.
-- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.

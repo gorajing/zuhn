@@ -9,6 +9,7 @@
 - `INS-260330-B65B` Half of all content is the same 50-100 common words; differentiation and value live entirely in the rare, specific vocabulary choices.
 - `INS-260329-5B18` Craft a single sentence that names your specific avatar, their desired outcome, your delivery timeframe, and your unique mechanism to instantly differentiate from competitors.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
+- `INS-260404-462B` Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
 - `INS-260329-9D87` Narrowing your niche from generic to hyper-specific lets you charge 500x more while facing virtually no competition.
 - `INS-260325-E19E` New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.
 - `INS-260403-7E95` Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.

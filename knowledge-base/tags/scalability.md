@@ -3,6 +3,7 @@
 - `INS-260325-CACA` From non-interchangeable bolts to standardized programming languages, the story of computing's power is inseparable from the story of standardization.
 - `INS-260330-74A0` Proof of work exploits the asymmetry between creation difficulty and verification ease to scale trust across unlimited participants.
 - `INS-260403-FC36` Ramen profitability is a trick for not dying en route to scale, not evidence that the business model works.
+- `INS-260404-420F` Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - `INS-260402-B42C` A barbershop's locality limits its growth but also limits its competition to other local barbers — startups that remove such constraints face the whole world.
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
 - `INS-260327-DD5C` Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.

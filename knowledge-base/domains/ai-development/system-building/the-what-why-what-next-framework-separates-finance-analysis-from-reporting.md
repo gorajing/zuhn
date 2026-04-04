@@ -42,6 +42,7 @@ related:
   - INS-260330-FF9A
   - INS-260325-F451
   - INS-260327-8254
+  - INS-260404-D40E
 stance: >-
   Finance has three jobs: explain what happened (the metric), why it happened
   (the business decision), and what to do next (the action with timeline)

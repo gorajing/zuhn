@@ -47,10 +47,10 @@ stance: >-
   outside your expertise, and it compounds over a career.
 related:
   - PRI-260328-094A
+  - INS-260404-9A69
   - INS-260330-C367
   - INS-260330-593E
   - INS-260329-1D3B
-  - INS-260325-8729
   - INS-260330-2025
 evidence:
   - id: INS-260330-C367

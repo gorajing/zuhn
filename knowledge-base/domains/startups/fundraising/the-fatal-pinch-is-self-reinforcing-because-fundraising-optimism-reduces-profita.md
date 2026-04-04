@@ -45,7 +45,6 @@ stance: >-
 related:
   - INS-260322-03DD
   - INS-260322-A31D
-  - INS-260327-BA93
   - INS-260328-D220
   - INS-260329-1318
   - INS-260330-B6FA
@@ -53,5 +52,6 @@ related:
   - INS-260330-C84C
   - INS-260330-B09B
   - INS-260330-08FA
+  - INS-260402-3FC5
 ---
 Paul Graham identifies a deadly feedback loop: founders who believe they can raise another round relax their urgency to become profitable. But three forces converge against them — higher burn rates than the seed stage, investors applying tougher standards to companies with track records, and the default interpretation of a company at this stage being failure rather than 'too early to tell.' The self-reinforcing nature means the situation deteriorates faster than founders realize. The antidote is to treat every round as the last money you'll ever get, which paradoxically makes you more attractive to investors because you demonstrate you don't need them.

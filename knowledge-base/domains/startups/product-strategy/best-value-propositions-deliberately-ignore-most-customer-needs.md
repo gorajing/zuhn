@@ -51,8 +51,8 @@ related:
   - INS-260403-0196
   - INS-260403-E816
   - INS-260403-91CC
+  - INS-260404-D1E2
   - INS-260327-89C7
-  - INS-260327-B12E
 ---
 A common instinct is to map every customer pain to a pain reliever and every gain to a gain creator, attempting comprehensive coverage. This produces unfocused products that address everything superficially and nothing deeply, leaving customers still unsatisfied.
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3725 actionable insights
+Generated on 2026-04-04 | 3736 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -916,6 +916,8 @@ Generated on 2026-04-04 | 3725 actionable insights
 - [INS-260403-C512] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - [INS-260403-38C5] When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - [INS-260404-2829] Research shows people who explicitly pursue happiness end up less happy and more depressed.
+- [INS-260404-56AC] Professional success and stable routines mask stagnation by removing the discomfort that signals growth opportunities.
+- [INS-260404-FD88] When a goal seems impossible at scale, decomposing it to the smallest unit (one rep, one page, one call) circumvents the brain's overwhelm-triggered shutdown.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -1807,6 +1809,8 @@ Generated on 2026-04-04 | 3725 actionable insights
 - [INS-260403-50B0] Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
 - [INS-260404-CC79] Antifragility means pressure makes the system stronger, not just intact.
 - [INS-260404-4F67] The number one predictor of happiness and the top enabler of antifragility are the same thing: quality relationships.
+- [INS-260404-21B2] Your mind's quit signal fires far earlier than your body's actual limit, leaving massive untapped reserves.
+- [INS-260404-9A69] Regularly doing things that suck recalibrates your brain's limit-detection system, raising your baseline tolerance for difficulty everywhere.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -1912,6 +1916,7 @@ Generated on 2026-04-04 | 3725 actionable insights
 - [INS-260404-CC9A] Existing and new business models demand fundamentally different management rules, metrics, and failure tolerances.
 - [INS-260404-F017] Each of the nine BMC blocks represents a critical decision area; removing any one risks missing a foundational pillar of the business.
 - [INS-260404-35B6] Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
+- [INS-260404-420F] Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2177,6 +2182,8 @@ Generated on 2026-04-04 | 3725 actionable insights
 - [INS-260403-C1F5] Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
 - [INS-260403-98F3] Even sound business models die when external threats — competitor lock-in, shifting customer needs, macro trends — go unmonitored.
 - [INS-260404-D149] OpenAI's immediate response of offering o1 Mini free and rushing out Operator suggests their competitive position was more narrative than technical.
+- [INS-260404-CA58] Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
+- [INS-260404-462B] Combine the Value Proposition Canvas with a Strategy Canvas to visualize whether your differentiation from competitors is real and meaningful.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2405,6 +2412,7 @@ Generated on 2026-04-04 | 3725 actionable insights
 - [INS-260403-2376] 'Make something people want' tells you where to go; 'be relentlessly resourceful' tells you how to get there day by day.
 - [INS-260403-91FD] Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - [INS-260403-B4B9] Use your business model as the starting point for defining what to measure, not generic KPIs.
+- [INS-260404-CF81] Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -3081,6 +3089,7 @@ Generated on 2026-04-04 | 3725 actionable insights
 - [INS-260403-6857] Experts who import frameworks from other fields bypass the paradigm lock-in that constrains within-domain thinking.
 - [INS-260403-06D5] In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 - [INS-260403-816B] The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
+- [INS-260404-CF9F] Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
@@ -3775,6 +3784,7 @@ Generated on 2026-04-04 | 3725 actionable insights
 - [INS-260403-7219] The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
 - [INS-260403-93A5] Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 - [INS-260403-25EE] Founder quality overwhelms economic conditions as a predictor of startup success.
+- [INS-260404-D40E] Map the business environment — trends, competition, customer context, and macro forces — to validate whether your timing is right.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
@@ -3897,6 +3907,7 @@ Generated on 2026-04-04 | 3725 actionable insights
 - [INS-260404-2AA1] Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
 - [INS-260404-9A82] Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
 - [INS-260404-5882] Sequoia's 'proxy for demand' — what are people doing now with bad tools — is more persuasive than market size because it proves behavioral need exists.
+- [INS-260404-D1E2] Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

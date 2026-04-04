@@ -259,6 +259,7 @@ Generated on 2026-04-04 | 2421 sources
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
 | 35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley | blog | 5 | 2026-03-31 |
+| 5 Tools For New Business Success | blog | 5 | 2026-03-31 |
 | 500,000 | blog | 5 | 2026-03-31 |
 | 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
 | 7 Ways To Tank Your Business Model | blog | 5 | 2026-03-31 |
@@ -827,6 +828,7 @@ Generated on 2026-04-04 | 2421 sources
 | A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 4 | 2026-03-31 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
 | A Local Revolution? | blog | 4 | 2026-03-31 |
+| A new-parent gift guide | blog | 4 | 2026-03-31 |
 | A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 4 | 2026-03-31 |
 | a16z New Media and How We Invested in 20+ YC Startups in 5 Months | blog | 4 | 2026-03-30 |
@@ -933,6 +935,7 @@ Generated on 2026-04-04 | 2421 sources
 | LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 4 | 2026-03-30 |
 | Made in USA | blog | 4 | 2026-03-31 |
 | Maker's Schedule, Manager's Schedule | blog | 4 | 2026-03-31 |
+| Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 4 | 2026-03-30 |
 | Mean People Fail | blog | 4 | 2026-03-31 |
 | Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 4 | 2026-03-30 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
@@ -963,6 +966,7 @@ Generated on 2026-04-04 | 2421 sources
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 4 | 2026-03-30 |
+| Schlep Blindness | blog | 4 | 2026-03-31 |
 | Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 4 | 2026-03-30 |
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 4 | 2026-03-30 |
 | Shameless Guesses, Not Hallucinations | blog | 4 | 2026-03-30 |
@@ -1145,6 +1149,7 @@ Generated on 2026-04-04 | 2421 sources
 | Mystery of Prince Rupert's Drop at 130,000 fps - Smarter Every Day 86 | youtube | 4 | 2026-03-30 |
 | Napoleonic Wars: Downfall 1809 - 14 | youtube | 4 | 2026-03-26 |
 | NASA의 진짜 목표는 달이 아니다? 아르테미스 계획 총정리ㅣ범준에물리다 | youtube | 4 | 2026-03-22 |
+| Navy SEAL has a '40 Percent Rule' and it's the key to overcoming mental barriers | Big Think | youtube | 4 | 2026-03-30 |
 | Neri Oxman: Biology, Art, and Science of Design & Engineering with Nature | Lex Fridman Podcast #394 | youtube | 4 | 2026-03-24 |
 | Not all gratitude is created equal. A psychologist explains | youtube | 4 | 2026-03-25 |
 | NVIDIA CEO Jensen Huang's Vision for the Future | youtube | 4 | 2026-03-23 |
@@ -1972,7 +1977,6 @@ Generated on 2026-04-04 | 2421 sources
 | 5 Characteristics Of A Great Strategy Workshop Facilitator | blog | 0 | 2026-03-31 |
 | 5 Forces Acting Upon Your Business Model | blog | 0 | 2026-03-31 |
 | 5 OpenClaw agents run my home, finances, and code | Jesse Genet | blog | 0 | 2026-03-31 |
-| 5 Tools For New Business Success | blog | 0 | 2026-03-31 |
 | 50 AI Agent Startup Ideas for 2025 (Across 10 Industries) | blog | 0 | 2026-03-30 |
 | 50 Real Startup Pitch Decks That Raised $380M+ | blog | 0 | 2026-03-30 |
 | 59 Startup Pitch Decks That Raised Millions—See What Works | blog | 0 | 2026-03-30 |
@@ -2002,7 +2006,6 @@ Generated on 2026-04-04 | 2421 sources
 | A guide to advanced B2B positioning | blog | 0 | 2026-03-31 |
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
 | A Look Back At My Summer Reading List | blog | 0 | 2026-03-31 |
-| A new-parent gift guide | blog | 0 | 2026-03-31 |
 | A new perk for annual subscribers: A free year of some of the world's most beloved products (while supplies last) | blog | 0 | 2026-03-31 |
 | A Primer on Microsoft | blog | 0 | 2026-03-30 |
 | A step-by-step guide to crafting a sales pitch that wins | April Dunford (author of Obviously Awesome and Sales Pitch) | blog | 0 | 2026-03-31 |
@@ -2220,7 +2223,6 @@ Generated on 2026-04-04 | 2421 sources
 | Learning from Founders | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
-| Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 0 | 2026-03-30 |
 | Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
 | Mastercard brings 85+ firms into crypto payments push | blog | 0 | 2026-03-30 |
 | Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 0 | 2026-03-30 |
@@ -2261,7 +2263,6 @@ Generated on 2026-04-04 | 2421 sources
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
-| Schlep Blindness | blog | 0 | 2026-03-31 |
 | See Randomness | blog | 0 | 2026-03-31 |
 | Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 0 | 2026-03-30 |
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
@@ -2416,7 +2417,6 @@ Generated on 2026-04-04 | 2421 sources
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
-| Navy SEAL has a '40 Percent Rule' and it's the key to overcoming mental barriers | Big Think | youtube | 0 | 2026-03-30 |
 | Photosynthesis: Crash Course Biology #8 | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |

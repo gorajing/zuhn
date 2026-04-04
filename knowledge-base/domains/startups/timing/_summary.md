@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 53 insights
+> 54 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -44,6 +44,7 @@
 - `INS-260328-3446` [high] We have not even figured out how to fully use the tools we already have — new models drop and we assume we know the best way to extract value, which is laughable.
 - `INS-260403-C37B` [medium] Major consumer AI apps will follow the iPhone pattern—emerging roughly 18 months after developers internalize the platform's design possibilities.
 - `INS-260403-CAAB` [medium] Major AI game breakouts are delayed because inference speed, cost, model quality, and media generation must all mature simultaneously — just as internet games waited for bandwidth, GPUs, and memory.
+- `INS-260404-D40E` [medium] Map the business environment — trends, competition, customer context, and macro forces — to validate whether your timing is right.
 - `INS-260328-9C16` [medium] Founders with good domain insights but poor pre-AI tools are finding that AI lets them deliver dramatically more value to the same customers.
 - `INS-260325-8062` [medium] From 1870-1920 we got electricity, internal combustion, telecom, synthetic chemistry, and public health revolutions; from 1970-2020, mainly just information technology.
 - `INS-260325-66BE` [medium] In 1800 nobody thought lacking refrigerators or plumbing was extreme poverty because it was normal — our descendants may view our era the same way.

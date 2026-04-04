@@ -1,14 +1,14 @@
 # Domain: psychology
 
-> 1982 insights across 20 topics
+> 1987 insights across 20 topics
 
 ## Topics
 
 | Topic | Insights | Preview |
 | ----- | -------- | ------- |
-| behavior-change | 18 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
+| behavior-change | 20 | Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better. |
 | cognition | 72 | Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework. |
-| cognitive-biases | 262 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
+| cognitive-biases | 263 | Over 85% of near-Earth asteroids are found in the 45-degree band opposite the sun because asteroids approaching from the sun's direction are invisible to ground telescopes — no amount of better ground telescopes fixes this. |
 | communication | 31 | Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality. |
 | consciousness | 96 | Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target. |
 | decision-making | 82 | Judge purchases by projected usage, not by the deal you got. |
@@ -25,4 +25,4 @@
 | persuasion | 54 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
 | physics-intuition | 78 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 93 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
-| resilience | 150 | Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen. |
+| resilience | 152 | Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen. |

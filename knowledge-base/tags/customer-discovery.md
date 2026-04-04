@@ -26,4 +26,5 @@
 - `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.
 - `INS-260323-1B87` Most founders talk to 3-5 customers per week and think that's enough; Kim insists on 3-5 per day with 24-hour follow-up cycles during the PMF search phase.
 - `INS-260403-260B` Validate that the problem exists and matters before testing whether your solution addresses it.
+- `INS-260404-D1E2` Use the Value Proposition Canvas to make explicit how your product addresses the most critical customer jobs, pains, and gains.
 - `INS-260330-3745` Interview three distinct groups — your users, competitors' users, and non-users — because each reveals different strategic insights.

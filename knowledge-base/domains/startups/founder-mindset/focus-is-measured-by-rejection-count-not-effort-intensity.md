@@ -51,7 +51,6 @@ related:
   - INS-260322-F128
   - INS-260329-EC01
   - INS-260403-27AA
-  - INS-260402-D534
 evidence:
   - id: INS-260330-849D
     type: TRANSFERS_TO

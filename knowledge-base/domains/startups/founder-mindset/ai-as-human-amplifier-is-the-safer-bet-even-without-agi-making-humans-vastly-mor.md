@@ -50,7 +50,6 @@ related:
   - INS-260325-8729
   - INS-260325-537A
   - INS-260327-C4AD
-  - INS-260330-1B74
 stance: >-
   Even if AGI never arrives, AI as an extension of human will and amplifier of
   human abilities is already a transformative outcome.

@@ -51,12 +51,12 @@ related:
   - INS-260325-13B9
   - INS-260325-1AD3
   - INS-260322-A9DE
-  - INS-260323-4DF1
   - INS-260327-2D68
   - INS-260329-075F
   - INS-260403-3E3B
   - INS-260330-1E5E
   - INS-260330-A3AF
+  - INS-260403-7F97
 ---
 Graham identifies that beyond delayed gratification and fear of wasting time, big problems produce something closer to physical pain—'like having a vacuum cleaner hooked up to your imagination.' Your initial ideas get sucked out immediately, and the void is terrifying. This is why even people who enjoy their work find it easier to tackle small problems over big ones.
 

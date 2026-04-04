@@ -6,6 +6,7 @@
 - `INS-260403-3F10` Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - `INS-260403-0A97` Business models progress through predictable stages from high-risk exploration to low-risk exploitation, and mapping this journey enables better strategic decisions.
 - `INS-260403-7E18` Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
+- `INS-260404-420F` Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - `INS-260404-F017` Each of the nine BMC blocks represents a critical decision area; removing any one risks missing a foundational pillar of the business.
 - `INS-260403-C844` Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
 - `INS-260403-1C10` Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.

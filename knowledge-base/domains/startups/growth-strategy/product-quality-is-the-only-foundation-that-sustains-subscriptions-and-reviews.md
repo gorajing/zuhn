@@ -47,7 +47,6 @@ resolutions:
     selling it. Marketing can drive first purchases, but only product quality
     drives the repeat purchases and reviews that sustain a brand.
 related:
-  - INS-260322-7DD5
   - INS-260322-B450
   - INS-260322-1280
   - INS-260330-1D9D
@@ -57,6 +56,7 @@ related:
   - INS-260323-4DD9
   - INS-260327-F55C
   - INS-260327-A98E
+  - INS-260327-0C56
 stance: >-
   In 2026, customer feedback is too fast and too public for mediocre products to
   survive

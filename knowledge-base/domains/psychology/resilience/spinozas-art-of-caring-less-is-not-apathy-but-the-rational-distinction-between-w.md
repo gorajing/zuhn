@@ -48,7 +48,6 @@ stance: >-
   of what upsets us was determined by forces we cannot control, freeing
   emotional energy for what we can actually influence.
 related:
-  - INS-260323-846D
   - INS-260327-439A
   - PRI-260323-A3A3
   - INS-260327-E833
@@ -58,6 +57,7 @@ related:
   - INS-260326-3F06
   - INS-260327-56B3
   - INS-260329-C472
+  - INS-260403-81A4
 evidence:
   - id: INS-260323-4D5E
     type: CHALLENGES

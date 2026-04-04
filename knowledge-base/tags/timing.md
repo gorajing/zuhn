@@ -1,12 +1,12 @@
 # Tag: timing
 
-- `INS-260327-BBE3` Coffee optimization: organic mold-free beans, separate from creatine by 4+ hours, supplement magnesium to offset mineral depletion, and restrict to morning only.
 - `INS-260327-5452` Napoleon crushed the Turkish army at Aboukir by attacking during their amphibious landing, when they were most disorganized and couldn't use their naval advantage.
 - `INS-260327-F274` America's entry into WW1 in 1917 was decisive not because of immediate military impact but because it added fresh industrial and manpower resources when all other participants were exhausted.
 - `INS-260327-EF8C` Wellington watched Marmont's army for days without attacking, then struck in 40 minutes when the French overextended their line — destroying an entire army in one afternoon.
 - `INS-260327-15E1` The Qing dynasty's late reforms — abolishing the exam system, creating a constitutional monarchy, modernizing the army — actually accelerated its collapse by destabilizing the existing power structure without creating a viable alternative.
 - `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260327-25C7` Marshal Grouchy's failure to march to Waterloo when he heard the guns — pursuing a phantom Prussian force instead — turned a possible French victory into total defeat.
+- `INS-260327-BBE3` Coffee optimization: organic mold-free beans, separate from creatine by 4+ hours, supplement magnesium to offset mineral depletion, and restrict to morning only.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
 - `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
@@ -34,6 +34,7 @@
 - `INS-260323-9EEC` EUV lithography took 30 years from Kinoshita's 1983 proof-of-concept to ASML's commercial machine because it required convergence of nuclear fusion mirror research, laser-produced plasma, and precision manufacturing — all initially developed in unrelated fields.
 - `INS-260330-318C` Mobile money adoption in Africa was explosive because the alternative — physically transporting cash over multi-day journeys with theft risk — made adoption a survival decision rather than a convenience choice.
 - `INS-260330-230D` Christianity spread fastest not during Rome's peak but during its decline, when Roman religion's promise of earthly prosperity visibly failed average citizens.
+- `INS-260404-D40E` Map the business environment — trends, competition, customer context, and macro forces — to validate whether your timing is right.
 - `INS-260322-3E59` The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
 - `INS-260330-2E58` Innovations fail not because they're bad ideas but because the supporting innovation stack hasn't matured yet.
 - `INS-260330-8907` Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.

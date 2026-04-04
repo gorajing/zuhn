@@ -62,7 +62,6 @@ related:
   - INS-260329-C689
   - PRI-260403-5C44
   - INS-260329-163B
-  - INS-260329-DF07
 evidence:
   - id: INS-260323-BCCC
     type: TRANSFERS_TO

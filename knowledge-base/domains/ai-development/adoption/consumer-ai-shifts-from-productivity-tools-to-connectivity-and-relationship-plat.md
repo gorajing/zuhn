@@ -46,11 +46,11 @@ resolutions:
     win here because these interaction models don't natively fit into existing
     platform architectures.
 related:
+  - INS-260404-D1E2
   - INS-260327-A814
   - INS-260330-6D59
   - INS-260329-EBBB
   - INS-260322-8D47
-  - INS-260322-5650
 stance: >-
   2026 marks when major consumer AI products shift from helping you work to
   helping you stay connected

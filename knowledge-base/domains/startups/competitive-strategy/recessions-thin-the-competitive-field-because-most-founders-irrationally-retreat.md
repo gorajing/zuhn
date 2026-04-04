@@ -51,12 +51,12 @@ related:
   - INS-260322-AF17
   - INS-260327-643E
   - INS-260327-DD1D
-  - INS-260329-6BE8
-  - INS-260330-66A0
   - INS-260402-8EED
   - INS-260402-E2AF
   - INS-260403-6A65
   - INS-260403-57FF
+  - INS-260403-214B
+  - INS-260403-9D89
 ---
 Technology trains leave the station at regular intervals regardless of economic conditions. When most potential founders are cowering in a corner or going to grad school, the few who act face dramatically less competition for the same opportunities. This is a structural advantage that compounds—fewer competitors means easier customer acquisition, easier hiring, and less noise in the market.
 

@@ -10,12 +10,12 @@
 - `INS-260323-7E6F` Speed is the shortest distance between seeing and acting on an opportunity; time is making a good decision and holding it — Berkshire compounded at 20% annually from 1965-2024 by getting both right.
 - `INS-260325-EBC3` The wealth gap is a financial literacy gap — the rich use different instruments (leverage, tax shelters, equity) not just higher incomes.
 - `INS-260327-B3A7` Marshal Suchet was the only French commander to actually succeed in Spain — not through brilliance but through methodical, systematic pacification that won over the local population.
-- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260330-6CB7` Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
 - `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260330-2B29` Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
+- `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260330-E794` Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - `INS-260329-F9CD` Not knowing what you don't know is the most expensive form of debt because it silently compounds through repeated mistakes.

@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 81 insights
+> 82 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -35,6 +35,7 @@
 - `INS-260322-2155` [high] Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260403-3442` [high] 20 years of schooling teaches problem-solving but never problem-choosing, which is the skill that determines startup success.
 - `INS-260402-9093` [high] The juiciest opportunities are things insiders consider declassé, not things they consider infeasible.
+- `INS-260404-CF9F` [high] Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
 - `INS-260329-ABD9` [high] Find ideas others have discarded rather than trying to discover something nobody has ever considered.
 - `INS-260321-6BA7` [high] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
 - `INS-260322-EF20` [high] Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.

@@ -47,11 +47,11 @@ stance: >-
   needing significantly less capital, fundamentally changing the venture capital
   equation.
 related:
-  - INS-260326-870E
+  - INS-260404-7071
   - INS-260403-2F77
   - INS-260403-9D89
+  - INS-260326-870E
   - INS-260403-9CD9
-  - INS-260403-A57D
   - INS-260330-3138
 evidence:
   - id: INS-260330-3138

@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 262 insights
+> 263 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -194,6 +194,7 @@
 - `INS-260327-6C64` [high] In game theory tournaments, tit-for-tat (cooperate first, then mirror) consistently beats both always-cooperate and always-defect strategies across repeated interactions.
 - `INS-260330-D066` [high] Obviously false statements serve as loyalty tests that bind groups together, not as attempts at deception.
 - `INS-260330-1E6A` [high] Truth has three structural disadvantages against fiction: it's costly to produce, inherently complex, and sometimes painful to accept.
+- `INS-260404-8E68` [high] Your mind eliminates unpleasant options before conscious deliberation, making you blind to opportunities you'd rationally pursue.
 - `INS-260403-1046` [high] Ideas feel fully formed in your head until you try to write them down, revealing an illusion of completeness.
 - `INS-260326-4F90` [high] Better inputs beat better reasoning — most self-improvement focuses on the wrong variable.
 - `INS-260330-4746` [high] Even at $50M+ net worth, people feel they 'don't have enough' because their social circle shifts to include billionaires who outclass them on every dimension.

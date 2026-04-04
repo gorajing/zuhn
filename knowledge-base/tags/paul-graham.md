@@ -2,8 +2,8 @@
 
 - `INS-260403-5843` Acquirers behave like Benjamin Graham's Mr. Market — manic-depressive cycles of overpaying and ignoring, averaging out only over multi-year windows.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
-- `INS-260330-F737` Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - `INS-260403-87AC` In technology, revenue growth can continue long after a company has lost its ability to create new things, as Microsoft demonstrated post-2000.
+- `INS-260330-F737` Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - `INS-260403-0FEC` Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260330-923F` A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
 - `INS-260403-FE00` Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
@@ -21,6 +21,7 @@
 - `INS-260403-B2EB` YC funded Steve and Alexis despite rejecting their idea, then steered them to Reddit — proving founder quality matters more than initial pitch.
 - `INS-260403-816B` The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - `INS-260403-3442` 20 years of schooling teaches problem-solving but never problem-choosing, which is the skill that determines startup success.
+- `INS-260404-CF9F` Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
 - `INS-260403-5441` The biggest startup ideas trigger fear and identity threat, causing founders to unconsciously filter them out.
 - `INS-260403-AA8F` Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
 - `INS-260403-C9DC` The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.

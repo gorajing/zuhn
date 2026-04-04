@@ -27,6 +27,7 @@
 - `INS-260329-003B` Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.
 - `INS-260326-E411` Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260329-6253` Start new habits when you're busiest — if they survive peak load, they'll persist; habits formed during slack time break the moment pressure returns.
+- `INS-260404-CF81` Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.
 - `INS-260330-A78C` YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
 - `INS-260329-C881` Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
 - `INS-260323-CE39` Stevens generates maximum throwing power from a small precise hip split rather than a big lunging movement — overextending leaves you vulnerable and off-balance.
