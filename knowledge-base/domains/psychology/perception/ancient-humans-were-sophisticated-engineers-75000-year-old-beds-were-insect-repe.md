@@ -52,11 +52,11 @@ stance: >-
   assumed, with layered multi-functional designs that rival modern engineering
   principles.
 related:
+  - INS-260404-B7B6
   - INS-260330-FC16
   - INS-260325-451F
   - INS-260330-3FF4
   - INS-260330-3BB5
-  - INS-260330-DF69
 evidence:
   - id: INS-260330-FC16
     type: SUPPORTS

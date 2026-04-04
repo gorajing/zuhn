@@ -54,10 +54,10 @@ stance: >-
   out.
 related:
   - INS-260330-4441
+  - INS-260404-B7B6
   - INS-260330-E497
   - INS-260330-C134
   - INS-260330-EACA
-  - INS-260330-72E1
 evidence:
   - id: INS-260330-EACA
     type: REFINES

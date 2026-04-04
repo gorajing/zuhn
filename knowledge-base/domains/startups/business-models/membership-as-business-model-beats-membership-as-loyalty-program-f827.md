@@ -51,7 +51,7 @@ related:
   - INS-260404-37B5
   - INS-260403-0650
   - INS-260403-BF47
+  - INS-260404-E39D
   - INS-260403-8757
-  - INS-260403-B2CB
 ---
 Amazon Prime and Costco both charge membership fees, but the structural role of those fees creates fundamentally different incentive landscapes. Amazon Prime is a loyalty overlay — it increases purchase frequency but doesn't change the core retail margin model. Costco derives 75% of profit from membership fees, meaning its entire strategy optimizes for one metric: renewal rate (90%). This transforms every operational decision — a price increase that earns pennies today costs $60 in lost renewal next year. The lesson extends beyond retail: any business where the subscription IS the product (not an upsell) will naturally align company incentives with customer satisfaction, because the renewal decision is the only one that matters.

@@ -1,6 +1,6 @@
 # Topic: architecture
 
-> 11 insights
+> 12 insights
 
 - `INS-260402-2D95` [high] Libraries are reusable because they are language, not because they are object-oriented.
 - `INS-260330-DE16` [high] Linear transformations are powerful precisely because their constraints — parallel gridlines, fixed origin — make them fully describable, composable, and invertible.
@@ -8,6 +8,7 @@
 - `INS-260402-0DC9` [high] Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260403-72C2` [high] Running Mixtral-class models locally needs ~40GB RAM, limiting local AI to users with high-end hardware.
 - `INS-260403-2138` [high] DeepSeek R1's 671B parameter model uses sparse architecture so full-size reasoning doesn't require activating all parameters.
+- `INS-260404-2A07` [high] The electron transport chain extracts energy across four protein complexes rather than in one step, producing both ATP and NADPH as intermediate carriers.
 - `INS-260402-2879` [high] Define program meaning independently of implementation, then layer optimization advice on top.
 - `INS-260403-791A` [medium] Photosynthesis charges thylakoids like batteries via proton gradients before synthesizing ATP — a pattern of staged intermediate storage that applies to computational pipeline design.
 - `INS-260402-06DB` [medium] Patterns in code signal you're hand-compiling abstractions your language should provide natively.

@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 86 insights
+> 87 insights
 
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
@@ -69,6 +69,7 @@
 - `INS-260403-16F2` [high] The most effective way to direct your ambient thinking is upstream: choose situations where the most urgent problems are the ones you actually want to solve.
 - `INS-260402-2DCE` [medium] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.
 - `INS-260403-C936` [medium] Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
+- `INS-260404-037F` [medium] ATP synthase works by deliberately creating a proton imbalance across a membrane, then channeling the natural pressure to equalize through a single enzyme that captures the energy.
 - `INS-260403-D6FE` [medium] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
 - `INS-260403-91CC` [medium] Push past obvious functional jobs to find the social and emotional motivations that create the strongest customer attachment.
 - `INS-260330-255F` [medium] Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.

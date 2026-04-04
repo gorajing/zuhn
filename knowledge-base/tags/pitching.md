@@ -6,6 +6,7 @@
 - `INS-260403-7292` Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
+- `INS-260404-24FB` Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260404-D8C7` A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-621F` Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
@@ -63,6 +64,7 @@
 - `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - `INS-260404-EAB7` Business models at early stage are guesses about things outside your expertise — spend that time on the problem and product instead.
 - `INS-260404-9158` Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
+- `INS-260404-F139` Mention monetization briefly to show you've thought about it, then redirect to problem and product.
 - `INS-260403-4A4A` Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
 - `INS-260403-D7C4` Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-C5C0` Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
@@ -72,6 +74,7 @@
 - `INS-260404-438C` When investors can't fully evaluate your technology, your own confidence becomes their primary signal.
 - `INS-260403-06E0` Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
+- `INS-260404-3161` Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - `INS-260403-37E2` Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
 - `INS-260403-7964` Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-9679` Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
@@ -126,6 +129,7 @@
 - `INS-260403-D7DF` Replace market size arguments with specific user stories that demonstrate proxy for demand.
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
+- `INS-260404-EF17` Replace market-size slides with concrete stories of specific users and the problems they face.
 - `INS-260404-EE85` Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 - `INS-260403-A65D` Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
 - `INS-260404-B01F` Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.

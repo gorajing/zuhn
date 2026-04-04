@@ -24,6 +24,7 @@
 - `INS-260403-3864` Costco makes 75% of profit from membership fees, which means raising prices costs $60 in lost renewals for pennies of margin gain.
 - `INS-260403-8757` Costco derives 75% of profit from membership fees, making customer satisfaction the direct driver of revenue rather than markup.
 - `INS-260403-CDB9` When 75% of revenue comes from membership fees, the rational move is always to lower prices to protect renewals.
+- `INS-260404-E39D` When membership fees are the primary revenue source, the business is incentivized to minimize prices rather than maximize margins on each sale.
 - `INS-260403-5C88` When membership fees are the primary revenue source, the company's incentive naturally aligns with keeping prices low to drive renewals.
 - `INS-260404-37B5` When membership fees are the primary revenue source, the company's profit motive and customer value become structurally aligned.
 - `INS-260403-BF47` Costco makes 75% of profit from membership fees, which structurally aligns its incentives with delivering maximum customer value.

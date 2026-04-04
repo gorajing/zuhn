@@ -56,7 +56,6 @@ stance: >-
   workarounds around flawed core components rather than replacing them, because
   integration costs exceed compensation costs
 related:
-  - INS-260325-0895
   - INS-260330-B71B
   - INS-260403-C4CD
   - INS-260403-6628

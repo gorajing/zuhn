@@ -7,7 +7,6 @@
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - `INS-260330-BE91` Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
-- `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260403-2F86` Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
@@ -33,6 +32,7 @@
 - `INS-260403-2F4E` Never say 'we're passionate' or 'our product is great' — these trigger instant credibility discounting.
 - `INS-260404-C1FF` Show confidence through behavior — never explicitly claim passion or quality, which triggers audiences to write you off.
 - `INS-260403-1E82` Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
+- `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260403-481F` Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.

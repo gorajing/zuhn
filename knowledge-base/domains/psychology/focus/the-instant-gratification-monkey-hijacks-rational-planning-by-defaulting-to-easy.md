@@ -48,11 +48,11 @@ stance: >-
   present-biased impulse system consistently overrides rational long-term
   planning.
 related:
+  - INS-260404-AD52
   - INS-260403-87BE
   - INS-260404-D0D8
   - INS-260403-91DB
   - INS-260325-CF3E
-  - INS-260403-3673
   - INS-260330-E54B
 evidence:
   - id: INS-260327-47E9

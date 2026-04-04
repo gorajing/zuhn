@@ -26,6 +26,18 @@
 - `INS-260327-0833` Every hour spent on non-compounding activities is an hour your competitor is building.
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - `INS-260404-E0B5` The inability to craft a one-phrase startup description signals unfocused strategy, not just weak messaging.
+- `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
+- `INS-260403-566D` Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
+- `INS-260403-9680` Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
+- `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
+- `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
+- `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
+- `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
+- `INS-260329-E6DB` Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
+- `INS-260329-4293` Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
+- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
+- `INS-260330-A78C` YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
+- `INS-260329-C881` Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
 - `INS-260327-432E` Start with a niche so small that big companies won't bother, then expand from strength.
 - `INS-260327-E3DE` A focused AI tool for one task beats ChatGPT's mediocre everything—the same reason you hire specialists.
 - `INS-260329-F33F` Like the woman in the red dress from The Matrix, opportunities become more seductive as you succeed — requiring a stronger 'no' muscle at every level.
@@ -53,18 +65,6 @@
 - `INS-260403-EDFC` Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
 - `INS-260323-2040` Rella tried to serve everyone on social media, built a confused Frankenstein product, nearly died — then narrowed to social media managers only and hit $2M ARR in 15 months.
 - `INS-260322-F128` The #1 strategic decision is choosing a category you can realistically become #1 in — not just participate in — then killing everything else to focus all resources there.
-- `INS-260329-6514` Improving what you already have compounds over time while new ventures reset your progress.
-- `INS-260403-566D` Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
-- `INS-260403-9680` Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
-- `INS-260403-3835` Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
-- `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
-- `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
-- `INS-260402-C13F` Bob Klein's principle from the F-14 program — tight group, little money, little time — describes how constraints create focus that abundance destroys.
-- `INS-260329-E6DB` Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
-- `INS-260329-4293` Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
-- `INS-260330-637F` The McDonald brothers found 80% of revenue came from hamburgers, cut everything else, and used the focus to build an assembly-line system that redefined the industry.
-- `INS-260330-A78C` YC found that teams who had gotten new things done every time they checked in were the strongest predictor of eventual success.
-- `INS-260329-C881` Declare a bounded period where you reject all non-essential commitments to create space for breakthrough execution.
 - `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
 - `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
 - `INS-260327-D0F4` Goldman exited their consumer business with Apple not because it failed but because at less than 5% of revenue it consumed 40% of management attention, blocking higher-value initiatives.

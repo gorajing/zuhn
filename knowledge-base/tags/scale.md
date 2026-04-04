@@ -18,4 +18,5 @@
 - `INS-260330-ED9D` Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
 - `INS-260330-7B11` RuBisCo is a terrible enzyme that won by being produced in massive quantities — 40 billion tons on Earth — because 'good enough at scale' beats 'perfect but scarce.'
 - `INS-260330-88DE` The Indus Valley maintained identical brick ratios and drainage standards across 1500km without any evidence of kings or central government.
+- `INS-260404-16B0` RuBisCo is a terrible enzyme that won the planet by being produced in enormous quantities — 40 billion tons — rather than by being good at its job.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.

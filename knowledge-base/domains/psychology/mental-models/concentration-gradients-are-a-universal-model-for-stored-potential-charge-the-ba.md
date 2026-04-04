@@ -53,10 +53,10 @@ stance: >-
   or psychology (tension before insight)
 related:
   - INS-260403-EE83
+  - INS-260404-037F
   - INS-260403-E374
   - INS-260330-7FF3
   - INS-260330-40EC
-  - INS-260330-21A8
 ---
 In the light-dependent reactions, the thylakoid membrane is 'charged like a battery' by pumping protons to one side, creating a concentration gradient. When protons flow back through ATP synthase, that stored potential is converted into ATP — usable energy. The key insight is that the energy isn't generated at the moment of use; it's accumulated beforehand through deliberate asymmetry.
 

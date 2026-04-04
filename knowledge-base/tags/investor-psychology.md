@@ -49,6 +49,7 @@
 - `INS-260403-088E` Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - `INS-260404-EAB7` Business models at early stage are guesses about things outside your expertise — spend that time on the problem and product instead.
 - `INS-260404-9158` Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
+- `INS-260404-F139` Mention monetization briefly to show you've thought about it, then redirect to problem and product.
 - `INS-260403-5C8E` Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
 - `INS-260403-C5C0` Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.

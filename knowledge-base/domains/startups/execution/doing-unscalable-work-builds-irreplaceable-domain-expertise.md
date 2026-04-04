@@ -53,11 +53,11 @@ related:
   - INS-260327-1393
   - INS-260327-A927
   - INS-260327-1E44
-  - INS-260330-C391
   - INS-260330-49C8
   - INS-260327-E2BC
   - INS-260330-5A0A
-  - INS-260322-A892
+  - INS-260330-C391
+  - INS-260404-24FB
   - INS-260403-D49E
 ---
 Both DoorDash and Teespring founders describe how doing unscalable work wasn't just a survival tactic but an education strategy. DoorDash founders personally delivered food, did customer support during lectures, and manually dispatched drivers using Google Docs and Find My Friends. This hands-on work taught them exactly what the dispatch algorithm should look like, what customers actually cared about, and how the delivery process really worked.

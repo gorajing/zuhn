@@ -47,8 +47,8 @@ stance: >-
   the things founders actually know well.
 related:
   - INS-260329-CB2C
-  - INS-260402-4633
   - INS-260403-97DB
+  - INS-260404-F139
   - INS-260403-E393
   - INS-260404-4DF7
   - INS-260403-2247

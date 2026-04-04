@@ -53,7 +53,7 @@ related:
   - INS-260403-507E
   - INS-260403-D430
   - INS-260403-AF27
-  - INS-260403-74EA
+  - INS-260404-3161
 ---
 Founders resist narrow descriptions because their product could become so much more, but investors process hundreds of pitches and discard anything that sounds like generic boilerplate. A description like 'easy web-based database' lands immediately, while 'a system to collaboratively leverage information value' gets mentally deleted.
 

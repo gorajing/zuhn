@@ -53,15 +53,15 @@ stance: >-
   Extracting energy in many small steps through sequential protein complexes is
   more efficient and safer than single-step energy conversion
 related:
-  - INS-260330-3082
   - INS-260330-85D7
   - INS-260330-4D0E
   - INS-260330-0017
   - INS-260330-4B45
+  - INS-260404-2A07
   - INS-260403-D2FD
-  - INS-260404-596E
   - INS-260403-C725
   - INS-260404-CDD2
+  - INS-260404-596E
 evidence:
   - id: INS-260330-85D7
     type: TRANSFERS_TO

@@ -55,11 +55,11 @@ related:
   - INS-260327-0755
   - INS-260329-DD01
   - INS-260404-975A
-  - INS-260404-6E7B
   - INS-260404-30CA
+  - INS-260404-6E7B
   - INS-260404-B435
   - INS-260403-747B
-  - INS-260403-243A
+  - INS-260404-86F8
 ---
 Costco's design choices look like obstacles: a $60 entry fee, confusing warehouse layouts, bulk-only quantities, and no frills. But each constraint serves as a customer selection mechanism. The membership fee filters for households earning ~$100K on average. The bulk sizing attracts business owners who constitute one-third of members but two-thirds of sales. The confusing layout forces wandering that increases cart size. Even the warehouse aesthetic makes customers feel like savvy deal-hunters rather than budget shoppers.
 

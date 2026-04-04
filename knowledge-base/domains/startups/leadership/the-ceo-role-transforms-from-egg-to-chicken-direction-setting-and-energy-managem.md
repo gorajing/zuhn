@@ -55,7 +55,7 @@ related:
   - INS-260322-3E59
   - INS-260327-9641
   - INS-260329-903B
-  - INS-260330-7CC0
+  - INS-260330-8103
 stance: >-
   An early startup is like an egg (simple: find customers, build product, don't
   die) while a late-stage company is a full chicken (international, mul...

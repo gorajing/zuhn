@@ -50,16 +50,16 @@ stance: >-
   customer value because short-term price increases destroy long-term
   subscription revenue.
 related:
-  - INS-260327-7435
-  - INS-260403-C4DF
   - INS-260403-B2CB
   - INS-260403-5C88
   - INS-260403-3F5F
-  - INS-260403-5348
   - INS-260403-1208
   - INS-260403-F634
   - INS-260403-CDB9
-  - INS-260403-CED6
+  - INS-260403-8757
+  - INS-260403-3864
+  - INS-260404-DD00
+  - INS-260404-0298
 ---
 Costco's business model inverts the traditional retail equation. While most retailers profit from markup on goods, Costco caps markup at 15% (11% average vs Walmart's 24%) and instead generates 75% of revenue from membership fees. This creates a powerful incentive loop: the company's primary goal becomes impressing members enough to renew at $60-120/year, which means every pricing decision favors the customer.
 

@@ -13,8 +13,8 @@
 - `INS-260330-09AD` Harvard Business School's largest graduating cohort systematically catches the last wave — junk bonds before Milken's arrest, tech at the dot-com peak, housing before 2008 — because extroverted, low-conviction people use competition as a proxy for value.
 - `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
-- `INS-260330-9367` Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
 - `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
+- `INS-260330-9367` Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
 - `INS-260328-7CA9` Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
 - `INS-260323-CEA8` Nicky Ryan admits fear of losing has made him less active as a competitor because his financial stability, brand, and identity are all tied to competitive results.
 - `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.

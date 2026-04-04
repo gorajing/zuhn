@@ -50,10 +50,10 @@ stance: >-
   for ~89% of total energy output.
 related:
   - INS-260403-2918
+  - INS-260404-2A07
   - INS-260330-2C71
   - INS-260404-596E
   - INS-260330-4B45
-  - INS-260330-F671
 evidence:
   - id: INS-260330-2C71
     type: TRANSFERS_TO

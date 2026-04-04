@@ -17,5 +17,5 @@
 - `INS-260323-12F2` The fundamental realization from vacuum physics: emptiness is the default state of the universe, and the presence of matter is what needs explaining.
 - `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
 - `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
-- `INS-260327-D2F3` Inexperienced founders can outperform veterans by seeing solutions that experts have unconsciously ruled out.
 - `INS-260330-DF69` RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
+- `INS-260327-D2F3` Inexperienced founders can outperform veterans by seeing solutions that experts have unconsciously ruled out.

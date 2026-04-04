@@ -43,13 +43,13 @@ stance: >-
   competition) outperform comprehensive all-in-one frameworks because mastery
   requires focused repetition on a bounded problem
 related:
-  - INS-260322-F128
-  - INS-260327-E3DE
-  - INS-260330-0CAD
-  - INS-260403-130D
-  - INS-260403-DB22
-  - INS-260403-3EFB
-  - INS-260403-1269
+  - INS-260330-7CC0
+  - INS-260403-B3A4
+  - INS-260403-ED1E
+  - INS-260403-26D3
+  - INS-260403-F7DD
+  - INS-260403-FC45
+  - INS-260403-941F
 ---
 The BMC deliberately excludes competition, problem validation, and metrics—not because they don't matter, but because a tool that tries to do everything does nothing well. The surgeon analogy is precise: you wouldn't want a brain surgeon using a swiss army knife.
 

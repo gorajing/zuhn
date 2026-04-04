@@ -49,9 +49,9 @@ related:
   - INS-260403-137D
   - INS-260403-9104
   - INS-260403-FDB8
-  - INS-260403-243A
   - INS-260403-64E7
   - INS-260403-B8CD
   - INS-260403-0CF7
+  - INS-260404-01B1
 ---
 Costco's membership barrier should theoretically make customer acquisition fatally difficult. Instead, it selects for high-income households and business owners who spend more per visit and renew at 90%. The confusing warehouse layout that should annoy shoppers instead creates a treasure-hunt psychology. This pattern — where apparent friction becomes a competitive advantage — appears across successful businesses: IKEA's assembly requirement creates ownership pride, Tesla's no-dealership model builds brand exclusivity. The lesson for founders is to examine whether the friction in your business might actually be filtering for better customers rather than repelling all customers.

@@ -51,9 +51,9 @@ stance: >-
   intensely to be the single option in a high-volume channel.
 related:
   - INS-260403-E143
-  - INS-260404-6945
   - INS-260404-36D7
   - INS-260403-36D8
+  - INS-260404-DA41
   - INS-260404-6BA2
 ---
 By offering only one or two options per product category instead of dozens, Costco creates a winner-take-all dynamic among suppliers. Brands compete fiercely to be selected, accepting lower margins and even re-engineering products (like redesigning cashew containers to save 24,000 pallets annually) to win or keep the slot.

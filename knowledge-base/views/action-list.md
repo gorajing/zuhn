@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3802 actionable insights
+Generated on 2026-04-04 | 3807 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1673,6 +1673,7 @@ Generated on 2026-04-04 | 3802 actionable insights
 - [INS-260404-D242] Professional investors hear so many pitches they blur together — a sticky one-phrase description ensures you're remembered at all.
 - [INS-260404-C1FF] Show confidence through behavior — never explicitly claim passion or quality, which triggers audiences to write you off.
 - [INS-260404-E86B] Under information asymmetry, audiences substitute the presenter's confidence for independent technical evaluation.
+- [INS-260404-F161] In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2871,6 +2872,9 @@ Generated on 2026-04-04 | 3802 actionable insights
 - [INS-260404-589C] At the early stage, business model details are your worst material — mention you've thought about it, then move on to the problem and product.
 - [INS-260404-3A71] Narrow descriptions that risk seeming limiting actually convey more information than expansive ones that try to capture all possibilities.
 - [INS-260404-2FC0] Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
+- [INS-260404-F139] Mention monetization briefly to show you've thought about it, then redirect to problem and product.
+- [INS-260404-3161] Describe your startup in the most specific terms possible, even if it feels reductively narrow.
+- [INS-260404-EF17] Replace market-size slides with concrete stories of specific users and the problems they face.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3830,6 +3834,7 @@ Generated on 2026-04-04 | 3802 actionable insights
 - [INS-260404-B435] Costco's $60 membership fee filters for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 - [INS-260404-30CA] Costco's $60 membership fee, confusing warehouse layout, and bulk-only format all filter for affluent, high-spending customers while creating loyalty through sunk-cost psychology.
 - [INS-260404-E65A] Costco's $60 fee, warehouse layout, and bulk sizes filter for affluent ($100K household income) and business customers who spend disproportionately more.
+- [INS-260404-86F8] Costco's $60 membership fee, confusing layouts, and bulk-only quantities each filter for affluent, high-spending customers who become loyal advocates.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

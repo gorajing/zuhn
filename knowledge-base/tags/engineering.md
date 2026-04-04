@@ -6,17 +6,17 @@
 - `INS-260330-BB53` Longbows solve the archer's paradox through arrow flex while compound bows use a cutout riser — same problem, completely different solutions.
 - `INS-260327-FF4D` Biology builds elephants at room temperature from grass and water with zero waste - human manufacturing can't come close to this efficiency.
 - `INS-260321-AD95` Since VLAs eliminate the interfaces needed for classical debugging, you must invent new probe methods: attention visualization, camera ablations, counterfactual prompting, and primitive action tests.
-- `INS-260330-1222` Building a custom periscope mirror rig to film underwater gunfire required predicting where phenomena would occur, making the engineering itself a form of hypothesis testing.
 - `INS-260329-A86F` Adding a hash table to a heap reduces arbitrary element removal from O(n) to O(log n) by eliminating the linear search bottleneck.
 - `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
 - `INS-260329-8F86` ADTs define what operations are possible; data structures define how those operations are implemented — mastering this separation is what distinguishes great programmers.
+- `INS-260330-1222` Building a custom periscope mirror rig to film underwater gunfire required predicting where phenomena would occur, making the engineering itself a form of hypothesis testing.
 - `INS-260325-451F` Archaeologists assumed the undigested quickite lumps in Roman concrete were manufacturing errors, but MIT researchers discovered they were the self-healing mechanism that made Roman structures last 2,000 years.
 - `INS-260329-8D70` Binary search trees average O(log n) but degrade to O(n) when data arrives sorted — this single gap motivated AVL trees, red-black trees, and the entire field of self-balancing structures.
+- `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260323-A1FE` Jet engine turbine blades must simultaneously optimize for temperature resistance (1,500C), centripetal force (20 metric tons per blade), oxidation resistance, creep resistance, weight, and manufacturing precision — and you can't max one without sacrificing others, making the integration itself the competitive moat.
 - `INS-260403-876D` When a dominant player leaves a critical technical problem unsolved, that gap is a viable entry point for focused competitors.
 - `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-95BC` Instead of continuous improvement (74 days to 72), strip every problem back to first principles and ask what physics allows — you'll often find 6 days is possible, and then the conversation from 74 to 6 becomes surprisingly productive.
-- `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260403-427E` Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
 - `INS-260330-AB3E` Replace one strong component with a weak transparent one to see how the rest of the system behaves under real load.
 - `INS-260330-5A13` Study how your current system fails at the edges to discover what to build next.

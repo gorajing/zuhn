@@ -48,11 +48,11 @@ stance: >-
 related:
   - INS-260325-0895
   - INS-260330-D304
+  - INS-260404-B7B6
   - INS-260403-818F
   - INS-260330-EACA
   - INS-260403-9F4B
   - INS-260330-DF69
-  - INS-260330-A3EB
 ---
 RuBisCo's design was perfectly suited to early Earth's CO2-rich, oxygen-poor atmosphere. The decision to build around it wasn't flawed — the environment changed. As photosynthesis itself increased atmospheric oxygen, RuBisCo's inability to distinguish O2 from CO2 became a liability, but by then the entire plant kingdom was locked in.
 

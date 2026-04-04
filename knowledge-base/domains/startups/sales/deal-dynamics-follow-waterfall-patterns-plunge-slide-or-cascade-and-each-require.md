@@ -69,7 +69,7 @@ related:
   - PRI-260328-43F1
   - PRI-260328-95A5
   - INS-260327-8E9D
-  - PRI-260328-7E58
+  - INS-260404-EF17
 ---
 Sudheesh uses waterfall types as metaphors for deal dynamics. Plunge waterfalls: the deal moves slowly and peacefully until it reaches the point of fall — then massive revenue. This is the traditional large enterprise motion requiring patience, infrastructure, multi-touch attribution, and field marketing. It's worth the investment but requires staying power.
 

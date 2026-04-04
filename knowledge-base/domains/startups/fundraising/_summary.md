@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 256 insights
+> 259 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -73,6 +73,7 @@
 - `INS-260403-088E` [high] Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
 - `INS-260404-EAB7` [high] Business models at early stage are guesses about things outside your expertise — spend that time on the problem and product instead.
 - `INS-260404-9158` [high] Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
+- `INS-260404-F139` [high] Mention monetization briefly to show you've thought about it, then redirect to problem and product.
 - `INS-260403-4A4A` [high] Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
 - `INS-260403-D7C4` [high] Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6A55` [high] Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
@@ -122,6 +123,7 @@
 - `INS-260403-78B7` [high] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
 - `INS-260403-06E0` [high] Narrow, concrete descriptions of what you've built stick in investors' heads; expansive visionary ones get discarded as boilerplate.
 - `INS-260403-0973` [high] Describe your startup as a specific thing rather than an abstract platform that could be anything.
+- `INS-260404-3161` [high] Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - `INS-260403-37E2` [high] Narrow, gripping descriptions successive-approximate toward the full vision better than starting broad and vague.
 - `INS-260404-3A71` [high] Narrow descriptions that risk seeming limiting actually convey more information than expansive ones that try to capture all possibilities.
 - `INS-260403-7964` [high] Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
@@ -221,6 +223,7 @@
 - `INS-260403-1949` [high] Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260403-1444` [high] Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 - `INS-260404-2FC0` [high] Concrete user stories are the strongest pitch element because they directly counter the core investor fear of building something nobody wants.
+- `INS-260404-EF17` [high] Replace market-size slides with concrete stories of specific users and the problems they face.
 - `INS-260403-1A73` [high] Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
 - `INS-260404-EE85` [high] Counter investor skepticism about market need by telling concrete stories about specific users and the inadequate tools they currently use.
 - `INS-260403-A65D` [high] Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.

@@ -50,7 +50,6 @@ stance: >-
   necessary at smaller scale
 related:
   - INS-260330-E218
-  - INS-260330-48F2
   - INS-260330-4441
   - INS-260330-C134
   - INS-260403-6628

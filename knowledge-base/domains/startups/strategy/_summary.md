@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 230 insights
+> 234 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -13,6 +13,7 @@
 - `INS-260404-6E7B` [high] Costco's $60 membership fee, confusing layout, and bulk quantities filter for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 - `INS-260403-C40D` [high] Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
 - `INS-260404-30CA` [high] Costco's $60 membership fee, confusing warehouse layout, and bulk-only format all filter for affluent, high-spending customers while creating loyalty through sunk-cost psychology.
+- `INS-260404-86F8` [high] Costco's $60 membership fee, confusing layouts, and bulk-only quantities each filter for affluent, high-spending customers who become loyal advocates.
 - `INS-260404-975A` [high] Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
 - `INS-260403-243A` [high] Costco's $60 membership fee and bulk-only format filter for affluent, high-spending households averaging $100K income who renew at 90%.
 - `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
@@ -31,6 +32,7 @@
 - `INS-260404-E60B` [high] Oxygen was a toxic waste product of early photosynthesis that became the foundation of all complex animal life.
 - `INS-260330-C607` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation of all animal life — the side effect outweighed the intended product.
 - `INS-260330-7462` [high] Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
+- `INS-260404-B7B6` [high] RuBisCo was designed for a low-oxygen world — when plants themselves changed the atmosphere, their own core enzyme started poisoning them.
 - `INS-260403-EEDF` [high] Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260329-644B` [high] Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
 - `INS-260404-3070` [high] Sears, Toys-R-Us, and J.C. Penney died not because Amazon killed retail, but because they failed to adapt — while Costco, Aldi, and Dollar General thrived in the same environment.
@@ -47,6 +49,7 @@
 - `INS-260330-9A92` [high] Growing 100 cheap vine robots into a collapsed building where only one finds a survivor is a massive success — the strategy works because unit cost approaches zero.
 - `INS-260403-D444` [high] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260330-0B4A` [high] RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
+- `INS-260404-16B0` [high] RuBisCo is a terrible enzyme that won the planet by being produced in enormous quantities — 40 billion tons — rather than by being good at its job.
 - `INS-260330-8A28` [high] The Chinese dynastic cycle — founding vigor, prosperity, corruption, collapse — is a recurring pattern in companies and industries.
 - `INS-260404-8A57` [high] RuBisCo's evolutionary story shows how early success with a flawed mechanism creates irreversible lock-in.
 - `INS-260323-B0EA` [high] OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
@@ -165,6 +168,7 @@
 - `INS-260330-D74A` [high] The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
 - `INS-260402-B0AB` [high] You cannot have technical imagination without political imagination — suppressing one suppresses both.
 - `INS-260404-24FB` [high] Great strategic tools do one thing well and integrate with other specialized tools, rather than trying to cover everything.
+- `INS-260404-AD52` [high] Sears, Toys-R-Us, and J.C. Penney died not because of Amazon directly but because they shared Amazon's basic model while executing it worse.
 - `INS-260402-8F1E` [high] Technology makes income gaps larger but lifestyle gaps smaller — the rich and middle class increasingly live similar day-to-day lives.
 - `INS-260402-CF0A` [high] Technology amplifies individual output differences, making wealth inequality an inherent and accelerating feature of technological societies.
 - `INS-260403-CF7C` [high] Falling startup costs have given founders structural leverage over investors, increasing equity retention and board control.

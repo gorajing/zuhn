@@ -3,8 +3,8 @@
 - `INS-260402-06DB` Patterns in code signal you're hand-compiling abstractions your language should provide natively.
 - `INS-260402-0DC9` Languages survive long-term by minimizing their core axiom set, not by adding special-case features.
 - `INS-260402-2879` Define program meaning independently of implementation, then layer optimization advice on top.
-- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
+- `INS-260330-6BBD` Forcing a neural net to compress vastly more data than it can memorize pushes it to discover higher-level algorithmic representations.
 - `INS-260329-C555` 40+ years of research into natural language processing hasn't closed the gap that a few weeks of Python education can bridge from the human side.
 - `INS-260330-D3F5` LLM complexity comes from massive repetition of a few simple matrix operations, not from architectural diversity.
 - `INS-260330-BF2A` Eigenvectors — vectors unchanged in direction by a transformation — exemplify the general strategy of finding invariants to understand complex systems.
@@ -47,22 +47,6 @@
 - `INS-260403-C6DC` The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
-- `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
-- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
-- `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
-- `INS-260330-78E2` Knock hard problems down to simpler cases first — the structure you find there almost always generalizes back up.
-- `INS-260329-E43B` Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
-- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
-- `INS-260403-CBB0` Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
-- `INS-260403-FC01` The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
-- `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
-- `INS-260404-78EB` Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
-- `INS-260329-8D19` OOP's core discipline — decomposing complexity into objects with defined interfaces — transfers to organizational design, product architecture, and any domain requiring structured abstraction.
-- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
-- `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
-- `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
-- `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
-- `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
 - `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
 - `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
 - `INS-260329-9391` Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
@@ -79,6 +63,22 @@
 - `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
+- `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
+- `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
+- `INS-260329-519E` Reduce intimidating new concepts to familiar categories to eliminate unnecessary cognitive load.
+- `INS-260330-78E2` Knock hard problems down to simpler cases first — the structure you find there almost always generalizes back up.
+- `INS-260329-E43B` Using family relationship metaphors (parent, child, sibling) to teach hierarchical data structures leverages pre-existing mental models for faster comprehension.
+- `INS-260330-367B` Reframing algebra as geometry makes abstract concepts tangible and intuitive.
+- `INS-260403-CBB0` Math trains thinking through metaphors and abstractions that transfer to any domain, making it valuable far beyond its direct applications.
+- `INS-260403-FC01` The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
+- `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
+- `INS-260404-78EB` Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
+- `INS-260329-8D19` OOP's core discipline — decomposing complexity into objects with defined interfaces — transfers to organizational design, product architecture, and any domain requiring structured abstraction.
+- `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
+- `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
+- `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
+- `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
+- `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260329-B6A6` Layering complexity one concept at a time onto familiar examples builds more durable understanding than front-loading complete explanations.

@@ -45,11 +45,11 @@ stance: >-
   tools can be exceptional at one thing—the same logic as hiring specialists vs
   generalists.
 related:
-  - INS-260404-24FB
   - INS-260402-2A1D
   - INS-260330-D61A
   - INS-260322-C6CE
   - INS-260326-7B2A
+  - INS-260330-16B1
 evidence:
   - id: INS-260330-0CAD
     type: TRANSFERS_TO

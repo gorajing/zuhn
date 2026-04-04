@@ -58,10 +58,10 @@ stance: >-
 related:
   - INS-260329-FCC6
   - INS-260403-E393
+  - INS-260404-F139
   - INS-260404-BF04
   - INS-260403-2247
   - INS-260403-054F
-  - INS-260404-4DF7
 ---
 Graham argues that detailed business model discussion in early pitches has negative expected value for two reasons: first, any business model at this stage is probably wrong (even experienced founders with top-tier VC backing typically pivot their model multiple times). Second, a spectacularly wrong business model pushes out the things you want investors to remember — they'll recall you as 'the company with the boneheaded monetization plan' rather than 'the company that solved that important problem.'
 

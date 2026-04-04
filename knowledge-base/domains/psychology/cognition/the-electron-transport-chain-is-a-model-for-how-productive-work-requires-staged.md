@@ -54,7 +54,6 @@ stance: >-
   same thermodynamic logic
 related:
   - INS-260330-3082
-  - INS-260330-5C36
   - INS-260330-0017
   - INS-260330-4B45
   - INS-260403-C725
@@ -63,6 +62,7 @@ related:
   - INS-260403-A6AF
   - INS-260403-2918
   - INS-260404-1CA4
+  - INS-260404-A08A
 evidence:
   - id: INS-260330-E8CF
     type: TRANSFERS_TO

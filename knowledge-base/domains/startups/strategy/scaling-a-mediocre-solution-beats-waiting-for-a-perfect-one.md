@@ -48,14 +48,13 @@ stance: >-
   Organisms and organizations that go all-in on a good-enough approach and scale
   it massively will outcompete those waiting for an optimal solution
 related:
-  - INS-260330-0E1E
   - INS-260330-43CA
   - INS-260330-7B11
   - INS-260330-68C8
+  - INS-260404-16B0
   - INS-260404-3B9D
   - INS-260403-F68A
   - INS-260403-3E1C
-  - INS-260404-B04F
 ---
 RuBisCo, the enzyme responsible for carbon fixation in photosynthesis, is remarkably bad at its job — it confuses oxygen for CO2 roughly half the time, creating toxic byproducts that plants must expend energy to neutralize. Yet plants never evolved a better alternative. Instead, they doubled down: producing staggering quantities of RuBisCo to compensate for its error rate.
 

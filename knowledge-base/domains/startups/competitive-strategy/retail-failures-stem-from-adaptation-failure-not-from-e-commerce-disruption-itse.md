@@ -50,7 +50,6 @@ stance: >-
   evolve their value proposition, not by inherent disadvantage against online
   competitors.
 related:
-  - INS-260325-EF66
   - INS-260327-6058
   - INS-260330-E54B
   - INS-260403-91DB

@@ -1,10 +1,10 @@
 # Tag: storytelling
 
 - `INS-260330-4FB9` Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
-- `INS-260325-DF66` Lawrence Wright argues the novel is the only art form that lets you truly enter another person's mind — journalism shows the surface, fiction reveals the interior.
-- `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260403-3421` Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
 - `INS-260403-1EB3` Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
+- `INS-260325-DF66` Lawrence Wright argues the novel is the only art form that lets you truly enter another person's mind — journalism shows the surface, fiction reveals the interior.
+- `INS-260330-125E` Rubin describes how the brain instantly invents explanatory stories for unexpected events, then registers those invented stories as factual memories we later relay with full confidence.
 - `INS-260330-E695` Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260322-81CD` Frame your content around a public if-then challenge ('If I get X followers, I'll do Y') to create narrative tension that keeps viewers coming back.
 - `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
@@ -26,6 +26,7 @@
 - `INS-260403-035A` Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
 - `INS-260403-1949` Tell stories about specific users solving specific problems — especially your own needs — rather than citing market size.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
+- `INS-260404-EF17` Replace market-size slides with concrete stories of specific users and the problems they face.
 - `INS-260403-1A73` Specific user stories counter the #1 investor fear — that you built something from a priori theories rather than real demand.
 - `INS-260403-A65D` Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
 - `INS-260404-F834` Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.

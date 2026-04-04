@@ -14,9 +14,9 @@
 - `INS-260403-7ED5` Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
 - `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
 - `INS-260403-E3E6` Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
-- `INS-260330-C451` People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260403-61B0` Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
+- `INS-260330-C451` People grab onto one or two morally defensible positions to psychologically offset the guilt of supporting an otherwise indefensible one.
 - `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
 - `INS-260330-206B` Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
 - `INS-260323-FFAC` Cox maintained the narrative that he was 'helping people get homes' through every escalation of fraud, only recognizing his self-deception years later in prison while writing an ethics course.

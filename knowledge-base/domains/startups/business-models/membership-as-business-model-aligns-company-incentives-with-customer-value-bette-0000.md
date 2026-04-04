@@ -51,12 +51,12 @@ stance: >-
   because raising prices trades pennies today for dollars of churn tomorrow.
 related:
   - INS-260324-C496
-  - INS-260403-5C88
   - INS-260403-0650
   - INS-260403-59F8
   - INS-260403-FAE1
   - INS-260403-CED6
   - INS-260404-37B5
+  - INS-260404-E39D
   - INS-260404-B8AE
   - INS-260404-A938
 ---

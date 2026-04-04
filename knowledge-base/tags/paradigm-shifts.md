@@ -7,12 +7,12 @@
 - `INS-260402-26B0` Philosophy is structurally as young as math was in 1500 because most of its 2500-year history was spent on unproductive approaches derived from Aristotle's wrong turn.
 - `INS-260330-8625` Eddington's insistence that 'there should be a law of nature to prevent a star from behaving this absurdly' delayed black hole acceptance by decades.
 - `INS-260403-FFF0` Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
+- `INS-260330-E2F5` The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
 - `INS-260330-8EC6` The transition from OOP to functional programming fails not because FP is harder, but because existing OOP mental models must be actively dismantled first.
 - `INS-260330-F183` The discovery that math is fundamentally incomplete led directly to the invention of computers, showing that limits catalyze breakthroughs.
 - `INS-260330-B7C6` Inaccessible cardinals can't be reached from below by any combination of smaller operations — you must axiomatically declare their existence.
 - `INS-260330-8E8A` New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
-- `INS-260330-E2F5` The French Revolution's lasting impact wasn't its government changes but Article 6's claim that law comes from citizens and applies equally — a paradigm shift still unfolding centuries later.
 - `INS-260325-11E4` Finding children's and women's shoes at Roman army bases overturned the assumption that military posts were male-only — tiny artifacts reshaped understanding of an entire institution.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0556` Black holes were resisted for decades because they seemed 'too preposterous to be real,' with senior scientists publicly attacking younger ones for following the math.
