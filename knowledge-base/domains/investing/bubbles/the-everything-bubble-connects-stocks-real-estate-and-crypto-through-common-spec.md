@@ -50,6 +50,7 @@ stance: >-
   inflated by the same pool of wealthy speculators running out of productive
   investments.
 related:
+  - INS-260403-8EFF
   - INS-260327-4C26
   - PRI-260328-EAC4
   - INS-260327-C79D

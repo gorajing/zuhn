@@ -48,11 +48,10 @@ stance: >-
   force on the input side, and the best systems do both simultaneously.
 related:
   - INS-260323-0827
-  - INS-260328-F782
   - INS-260329-1F17
+  - INS-260403-03BD
   - INS-260330-293E
   - INS-260327-CEE4
-  - INS-260330-30F0
   - INS-260403-8B92
 evidence:
   - id: INS-260330-293E

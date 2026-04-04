@@ -42,7 +42,6 @@ stance: >-
   career capital for a fresh start.
 related:
   - INS-260323-DA85
-  - INS-260325-0103
   - INS-260320-C56D
   - INS-260327-A59A
   - INS-260329-4A09
@@ -51,6 +50,7 @@ related:
   - INS-260403-DF37
   - INS-260403-9680
   - INS-260327-46F6
+  - INS-260328-00E8
 evidence:
   - id: INS-260323-DA85
     type: TRANSFERS_TO

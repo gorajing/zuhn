@@ -48,16 +48,16 @@ stance: >-
   action but to simply acknowledge and turn toward the avoided thing, building a
   conscious psychological relationship with it.
 related:
-  - INS-260323-64A4
   - INS-260325-B6AD
   - INS-260329-A90C
   - INS-260327-1845
+  - INS-260323-64A4
   - PRI-260328-4313
   - INS-260323-C1B2
   - INS-260323-846D
   - INS-260327-900A
-  - INS-260330-293E
   - INS-260402-3A0D
+  - INS-260403-81A4
 evidence:
   - id: INS-260323-64A4
     type: EXTENDS

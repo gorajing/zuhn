@@ -50,7 +50,6 @@ related:
   - INS-260323-7F5D
   - INS-260323-C1D7
   - INS-260330-B224
-  - INS-260330-28BE
 stance: >-
   The fundamental realization from vacuum physics: emptiness is the default
   state of the universe, and the presence of matter is what needs explaining.

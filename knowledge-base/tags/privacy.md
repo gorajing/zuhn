@@ -6,3 +6,4 @@
 - `INS-260325-FD0F` Brain-reading technology is progressing from clinical use to consumer EEG — creating a looming crisis for freedom of thought, the last privacy frontier beyond freedom of speech.
 - `INS-260330-7711` Intelligence agencies surveilling journalists and selectively leaking information to media constitutes a structural threat to democracy more dangerous than overt censorship.
 - `INS-260329-26BB` Probabilistic matching lets advertisers link your devices into a single profile without you logging in, using behavioral patterns and metadata.
+- `INS-260403-35CB` Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.

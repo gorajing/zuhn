@@ -43,7 +43,7 @@ related:
   - INS-260330-293E
   - PRI-260328-7E58
   - INS-260327-B528
-  - PRI-260328-FD90
+  - INS-260403-03BD
 ---
 Products and services that remove all friction from consumption eliminate the natural behavioral checkpoints that previously prevented overconsumption.
 

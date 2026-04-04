@@ -54,10 +54,10 @@ related:
   - INS-260323-8392
   - INS-260322-BD0D
   - INS-260330-4DFA
+  - INS-260403-AFBB
   - INS-260322-5650
   - INS-260327-735A
   - INS-260330-AB6F
-  - INS-260330-697F
   - INS-260327-47BA
   - INS-260403-9689
 stance: Having a great product is necessary but nowhere near sufficient

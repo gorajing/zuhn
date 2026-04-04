@@ -53,7 +53,6 @@ stance: >-
   activity: making something people want.
 related:
   - INS-260327-E2BC
-  - INS-260327-5297
   - INS-260327-E3D5
   - INS-260328-D775
   - INS-260329-903B
@@ -62,6 +61,7 @@ related:
   - INS-260330-CFBF
   - INS-260330-2B42
   - INS-260403-7C88
+  - PRI-260403-2E59
 evidence:
   - id: INS-260327-F9C3
     type: CONTRADICTS

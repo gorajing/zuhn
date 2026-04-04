@@ -1,0 +1,3 @@
+# Tag: market-shift
+
+- `INS-260403-AEAF` The same attributes that built a brand's dominance can become its biggest handicap when customer values shift.

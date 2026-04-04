@@ -48,8 +48,8 @@ stance: >-
   chooses simplicity experiences more life than the 'winner' who accumulates
   everything.
 related:
-  - INS-260325-25A2
   - PRI-260325-A95E
+  - INS-260403-03BD
   - INS-260330-EFF3
   - PRI-260328-23B0
   - INS-260325-71DE

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 37 insights
+> 38 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -37,5 +37,6 @@
 - `INS-260330-6D59` [medium] Map your product vision across today, tomorrow, and future — then build today's product as a stepping stone that graduates users forward.
 - `INS-260403-B5C0` [medium] Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 - `INS-260403-6A69` [medium] Great hardware buys time against bad policies, but the reputational damage compounds while the hardware advantage doesn't.
+- `INS-260403-35CB` [medium] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 - `INS-260330-C95F` [medium] Multiple localization failures compound into a narrative of market disrespect that's harder to reverse than any single missing feature.
 - `INS-260330-2AA7` [medium] Toy designers avoid the paradox (offset rails), compound bows eliminate it (cut-out riser), but longbow archers harness it — each approach trades simplicity for capability.

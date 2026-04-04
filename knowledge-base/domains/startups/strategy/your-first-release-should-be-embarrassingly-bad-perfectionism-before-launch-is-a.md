@@ -45,10 +45,10 @@ resolutions:
     nobody wants.
 related:
   - INS-260323-8AA1
+  - INS-260403-AFBB
   - PRI-260323-AEE6
   - INS-260322-760A
   - INS-260329-200A
-  - INS-260330-1D9D
   - INS-260327-FFA7
   - INS-260403-0CA8
   - INS-260403-7586

@@ -44,8 +44,8 @@ related:
   - INS-260327-368D
   - INS-260330-5EE9
   - INS-260327-4A5D
+  - INS-260403-8EFF
   - INS-260325-F451
-  - INS-260327-9BE8
 evidence:
   - id: INS-260327-368D
     type: EXTENDS

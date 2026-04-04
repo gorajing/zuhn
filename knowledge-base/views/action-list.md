@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3287 actionable insights
+Generated on 2026-04-04 | 3296 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -316,6 +316,7 @@ Generated on 2026-04-04 | 3287 actionable insights
 - [INS-260329-8DC5] Brief the AI on the full project scope in chat mode before letting it write any code to prevent it from building with incomplete context.
 - [INS-260330-6828] Byron Ferguson spine-tests every arrow to normalize stiffness before shooting — the calibration step matters more than the archer's technique.
 - [INS-260402-543E] Healthcare AI succeeds when it augments existing workflows rather than demanding practitioners change how they work.
+- [INS-260403-AFBB] AI products should optimize for user absence, not presence — the best product is one you never have to look at.
 
 ## ai-development/system-building
 - [INS-260320-4A82] Commit output specs to git so future agents and engineers see what was done, what failed, and what decisions were made.
@@ -900,6 +901,7 @@ Generated on 2026-04-04 | 3287 actionable insights
 - [INS-260330-0242] Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - [INS-260330-293E] When behavior is blocked by active inhibitors (stress, fear, friction), removing those brakes produces bigger results than pushing harder on motivation.
 - [INS-260403-D64B] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
+- [INS-260403-D467] Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -1076,6 +1078,8 @@ Generated on 2026-04-04 | 3287 actionable insights
 - [INS-260403-F1C6] Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - [INS-260403-225B] A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 - [INS-260403-EB12] True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
+- [INS-260403-B710] Counting finite instances of recurring experiences makes time scarcity concrete and actionable.
+- [INS-260403-81A4] Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -2377,6 +2381,8 @@ Generated on 2026-04-04 | 3287 actionable insights
 - [INS-260403-743D] Self-directed project history reveals intrinsic motivation and execution ability that grades cannot measure.
 - [INS-260403-C9C2] Ambitious people can now bypass corporate ladders entirely by building things the market judges directly, which was nearly impossible a generation ago.
 - [INS-260403-F7F4] Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
+- [INS-260403-862E] Genuine problem interest predicts startup success better than ambition for money or status.
+- [INS-260403-A485] Making bullshit-minimization an explicit priority when choosing employers or customers yields outsized quality-of-life gains.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2765,6 +2771,7 @@ Generated on 2026-04-04 | 3287 actionable insights
 - [INS-260403-AA8F] Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
 - [INS-260403-AEB3] Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
 - [INS-260403-39BB] Great startup ideas sit in the Venn diagram overlap of 'seems like a bad idea' and 'is actually a good idea.'
+- [INS-260403-F7DA] Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.
@@ -3054,6 +3061,7 @@ Generated on 2026-04-04 | 3287 actionable insights
 - [INS-260403-FB4D] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 - [INS-260403-0041] Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
 - [INS-260403-5C06] NFX's 5-level AI spectrum shows most founders default to AI enhancement (L1-3) rather than pursuing AI-first products (L4-5) where transformative value lives.
+- [INS-260403-35CB] Ambient AI's power comes from not requiring oversight, but that same quality limits users' ability to opt out — making privacy a first-class design decision.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3357,6 +3365,7 @@ Generated on 2026-04-04 | 3287 actionable insights
 - [INS-260403-D444] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - [INS-260403-3E46] If questioning the enforcement process gets you accused of the same heresy, you're witnessing a witch hunt.
 - [INS-260403-C0FE] Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
+- [INS-260403-EAE5] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

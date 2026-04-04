@@ -49,8 +49,8 @@ related:
   - INS-260330-CF10
   - INS-260327-51C2
   - INS-260325-3754
+  - INS-260403-B710
   - INS-260325-C2DA
-  - INS-260327-B410
 stance: >-
   Third-generation refugees maintain resilience through the frame 'nothing lasts
   forever'

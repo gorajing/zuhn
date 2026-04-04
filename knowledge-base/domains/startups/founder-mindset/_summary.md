@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 286 insights
+> 289 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -49,6 +49,7 @@
 - `INS-260321-C14C` [high] The biggest failure mode in Silicon Valley is assuming that being smart at building products means you're smart at negotiating contracts, managing politics, or understanding war — 'if you don't know who the mark is, you're the mark.'
 - `INS-260323-BDC1` [high] The tension between dreaming and pragmatism is not a contradiction to resolve but a dance to maintain — you need both the north star and the day-by-day execution.
 - `INS-260320-C56D` [high] Your early 20s with no obligations are years you can never get back — don't spend them fixing tickets at big tech.
+- `INS-260403-862E` [high] Genuine problem interest predicts startup success better than ambition for money or status.
 - `INS-260323-3F56` [high] Dirac rejected the Klein-Gordon equation not because it was wrong in practice but because it was ugly in principle — its second-order time derivative violated the philosophical symmetry between space and time — and his insistence on elegance led to the discovery of antimatter.
 - `INS-260327-BEC7` [high] Ambiguity tolerance is a muscle—push yourself into uncomfortable situations repeatedly and it compounds over decades.
 - `INS-260323-3982` [high] Friedman's willingness to compromise and say 'I was wrong' gave him lasting policy influence, while Rand's philosophical purity made her schismatic and limited her practical impact.
@@ -260,9 +261,11 @@
 - `INS-260330-D8D1` [medium] When founders leave, successor managers tend to optimize the mission away in pursuit of growth.
 - `INS-260329-BF96` [medium] Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
 - `INS-260327-98DE` [medium] AI breakthroughs that look like bugs will become common across all knowledge work.
+- `INS-260403-B957` [medium] Naive founders bypass outdated beliefs about impossibility, sometimes solving problems experts had written off.
 - `INS-260321-1A84` [medium] People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260327-D5B5` [medium] Exposure to product excellence creates the obsession that produces great founders—Meniri's Apple Store visit changed his life.
 - `INS-260403-F7F4` [medium] Practice optimism during good times so it's accessible as a trained response when everything goes wrong.
+- `INS-260403-A485` [medium] Making bullshit-minimization an explicit priority when choosing employers or customers yields outsized quality-of-life gains.
 - `INS-260329-8B33` [medium] Taking six months to find a business you can acquire for free beats immediately starting one that costs your life savings.
 - `INS-260323-B374` [medium] High-turnaround physical activities like jiu-jitsu and surfing teach leaders the crucial lesson that some things cannot be forced, a lesson business cycle times are too long to teach.
 - `INS-260325-3B2A` [medium] Getting on the plane to meet someone in person, even for 15 minutes, creates a signal of commitment that consistently beats remote communication in closing deals.

@@ -43,8 +43,8 @@ related:
   - INS-260328-E410
   - INS-260321-A56C
   - INS-260330-4CA7
+  - INS-260403-A485
   - INS-260323-F15D
-  - INS-260323-7E6F
 stance: >-
   A worker saving 20% of their time is 'soft savings' — employers rarely
   productively reallocate that 20% immediately

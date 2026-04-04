@@ -53,5 +53,6 @@ related:
   - PRI-260403-9E80
   - INS-260403-1B53
   - INS-260329-903B
+  - INS-260403-3587
 ---
 Graham observes that startup founders—predominantly hackers—respond oppositely to regulations versus social agreements. Formal restrictions trigger an adversarial mindset ('how do I pick this lock?'), while gentlemen's agreements activate a sense of honor and personal commitment. This has broad implications for managing creative or technical people: heavy-handed compliance frameworks may actually reduce compliance by framing the relationship as adversarial, while trust-based approaches leverage social identity and reputation. The practical application is in designing incentive structures: if your population is intrinsically motivated and reputation-conscious, social contracts outperform regulatory ones. Conversely, if you impose regulations on this population, expect creative circumvention.

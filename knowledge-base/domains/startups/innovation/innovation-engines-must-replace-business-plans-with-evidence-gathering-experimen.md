@@ -56,6 +56,7 @@ related:
   - INS-260403-1290
   - INS-260403-1852
   - INS-260403-0267
+  - INS-260403-EAE5
 ---
 Osterwalder and Pigneur draw a sharp line: an innovation engine is explicitly NOT a place where you write business plans. Its core function is decreasing risk and uncertainty through experimentation—prototyping, testing, gathering evidence cheaply and quickly using Lean Startup and Customer Discovery methodologies.
 

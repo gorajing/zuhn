@@ -49,11 +49,11 @@ stance: >-
   intellectual honesty to assess whether your product actually solves a user's
   problem — and the discipline to not ship things you know are mediocre.
 related:
+  - INS-260403-35CB
   - INS-260323-8AA1
   - INS-260327-94E6
   - INS-260329-8BD3
   - INS-260330-BCD8
-  - INS-260323-4AB5
 evidence:
   - id: INS-260323-8AA1
     type: SUPPORTS

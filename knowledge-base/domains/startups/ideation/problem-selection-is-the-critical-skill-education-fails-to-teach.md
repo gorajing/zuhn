@@ -46,9 +46,9 @@ stance: >-
   leaving founders fundamentally unprepared for the most important startup
   skill: choosing which problem to solve.
 related:
-  - INS-260328-D775
   - INS-260330-CFBF
   - INS-260402-27A1
+  - INS-260403-862E
   - PRI-260328-E9B5
   - INS-260402-0F36
 ---

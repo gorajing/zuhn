@@ -311,9 +311,11 @@ Generated on 2026-04-04 | 2421 sources
 | Design and Research | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
 | Does anyone know why we're still doing tariffs? | blog | 5 | 2026-03-30 |
+| Earnestness | blog | 5 | 2026-03-31 |
 | Economic Inequality | blog | 5 | 2026-03-31 |
 | Europe to US: The Expansion Playbook Every Founder Needs | blog | 5 | 2026-03-30 |
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
+| Financial Modeling Examples for Founders: A Startup Guide with Templates | blog | 5 | 2026-03-30 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
 | Five Questions about Language Design | blog | 5 | 2026-03-31 |
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
@@ -427,6 +429,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Bus Ticket Theory of Genius | blog | 5 | 2026-03-31 |
 | The Creator Economy 2025 | blog | 5 | 2026-03-30 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
+| The economic consequences of the Iran war | blog | 5 | 2026-03-30 |
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
 | The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
 | The Future of Startup Funding | blog | 5 | 2026-03-31 |
@@ -730,8 +733,10 @@ Generated on 2026-04-04 | 2421 sources
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
+| 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
+| Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
@@ -742,6 +747,7 @@ Generated on 2026-04-04 | 2421 sources
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
+| Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
@@ -752,9 +758,11 @@ Generated on 2026-04-04 | 2421 sources
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
+| Life is Short | blog | 4 | 2026-03-31 |
 | Made in USA | blog | 4 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
+| Political Backflow From Europe | blog | 4 | 2026-03-30 |
 | Post-Medium Publishing | blog | 4 | 2026-03-31 |
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
@@ -768,6 +776,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
+| The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
@@ -1682,7 +1691,6 @@ Generated on 2026-04-04 | 2421 sources
 | 26 Pitch Decks That Raised $393M (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
 | 3 Activities To Encourage Dynamic Strategic Thinking | blog | 0 | 2026-03-31 |
 | 3 mistakes CEOs and CFOs make when investing in innovation | blog | 0 | 2026-03-31 |
-| 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 0 | 2026-03-31 |
 | 3 Ways Color-Coding Can Improve Story-Telling In Your Business Model Canvas | blog | 0 | 2026-03-31 |
 | 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 0 | 2026-03-31 |
 | 300+ VCs That Accept Cold Pitches — No Warm Intro Needed for Funding in 2025 | blog | 0 | 2026-03-30 |
@@ -1758,7 +1766,6 @@ Generated on 2026-04-04 | 2421 sources
 | Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 0 | 2026-03-31 |
 | Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 0 | 2026-03-30 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
-| Adding a work trial to your interview process | blog | 0 | 2026-03-31 |
 | Addressing the Legal & Compliance Challenge | blog | 0 | 2026-03-31 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
 | After the Ladder | blog | 0 | 2026-03-31 |
@@ -1954,7 +1961,6 @@ Generated on 2026-04-04 | 2421 sources
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
 | Don't Talk to Corp Dev | blog | 0 | 2026-03-31 |
 | Early Work | blog | 0 | 2026-03-31 |
-| Earnestness | blog | 0 | 2026-03-31 |
 | Elena Verna | blog | 0 | 2026-03-26 |
 | Elon Musk sues OpenAI ⚖️, Rethinking the startup MVP 🔄, The Future of Digital Health 🩺, & more! | blog | 0 | 2026-03-30 |
 | Elon Musk, xAI, and the Logic of Vertical Integration | blog | 0 | 2026-03-30 |
@@ -1969,8 +1975,6 @@ Generated on 2026-04-04 | 2421 sources
 | February 2025 Startups Raising Capital | blog | 0 | 2026-03-30 |
 | Fierce Nerds | blog | 0 | 2026-03-31 |
 | Filters that Fight Back | blog | 0 | 2026-03-31 |
-| Financial Modeling Examples for Founders: A Startup Guide with Templates | blog | 0 | 2026-03-30 |
-| Financial Modeling for Founders | blog | 0 | 2026-03-30 |
 | Five Founders | blog | 0 | 2026-03-31 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 0 | 2026-03-30 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
@@ -2067,7 +2071,6 @@ Generated on 2026-04-04 | 2421 sources
 | Learning from Founders | blog | 0 | 2026-03-31 |
 | Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 0 | 2026-03-30 |
 | Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
-| Life is Short | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
@@ -2115,7 +2118,6 @@ Generated on 2026-04-04 | 2421 sources
 | Overcoming the “blank page” challenge with AI | blog | 0 | 2026-03-31 |
 | Persuade xor Discover | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
-| Political Backflow From Europe | blog | 0 | 2026-03-30 |
 | Power | blog | 0 | 2026-03-31 |
 | Programming Bottom-Up | blog | 0 | 2026-03-31 |
 | Putting Ideas into Words | blog | 0 | 2026-03-31 |
@@ -2207,7 +2209,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 0 | 2026-03-30 |
 | The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 0 | 2026-03-30 |
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 0 | 2026-03-31 |
-| The economic consequences of the Iran war | blog | 0 | 2026-03-30 |
 | The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
 | The End of SaaS⚡, Fintech Trends Q3 2024💳, Optionality in Venture Funds💡 | blog | 0 | 2026-03-30 |
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
@@ -2254,7 +2255,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Ronco Principle | blog | 0 | 2026-03-31 |
 | The SaaS Financial Model Most Founders Get Wrong | blog | 0 | 2026-03-30 |
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
-| The Screenless Startup: A New Philosophy For AI Applications | blog | 0 | 2026-03-31 |
 | The Secrets of Stealth Startups 🔒🤐 | blog | 0 | 2026-03-30 |
 | The Sequoia Playbook: How VC Discipline Compounds Returns | blog | 0 | 2026-03-30 |
 | The Shape of the Essay Field | blog | 0 | 2026-03-31 |

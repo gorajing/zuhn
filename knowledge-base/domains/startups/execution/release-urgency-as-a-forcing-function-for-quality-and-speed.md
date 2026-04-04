@@ -45,11 +45,11 @@ stance: >-
   psychological shift from internal to external accountability is the real
   accelerant — problems become alarming instead of intriguing.
 related:
-  - INS-260327-E7A3
   - PRI-260328-B11D
+  - INS-260327-E7A3
+  - INS-260403-B957
   - INS-260403-7C88
   - PRI-260328-04FA
-  - INS-260327-3349
 ---
 Most founders delay releases because they intuitively know the stress level will spike once real users are involved. Graham argues this stress is the point — it's a feature, not a bug. The shift from 'interesting problem' to 'alarming problem' is what drives the velocity startups need to survive.
 

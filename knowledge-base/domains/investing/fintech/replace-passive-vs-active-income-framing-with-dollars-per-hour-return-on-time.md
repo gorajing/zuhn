@@ -46,11 +46,11 @@ stance: >-
   The passive income vs active income distinction is a harmful false dichotomy
   that causes people to underinvest in their highest-returning activities.
 related:
-  - INS-260322-FD23
   - INS-260329-6BFC
   - INS-260329-E2D0
   - INS-260330-0102
   - INS-260329-D4BC
+  - INS-260403-A485
 evidence:
   - id: INS-260322-FD23
     type: CHALLENGES

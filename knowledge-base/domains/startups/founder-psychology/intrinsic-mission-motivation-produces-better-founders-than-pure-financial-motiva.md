@@ -53,11 +53,11 @@ related:
   - INS-260327-F6B2
   - INS-260327-FF64
   - INS-260328-68BA
-  - INS-260329-C45C
   - INS-260329-D4BC
   - INS-260329-5B3D
   - INS-260402-8C0E
   - INS-260402-43F9
+  - INS-260330-697F
 ---
 The YC summer founders were simultaneously idealistic and financially ambitious — they wanted to get rich by making something people use, not through speculation. Graham argues this combination makes them more effective because people work harder for a cause than for money alone, and the extra motivation shows up in product quality (e.g., Kiko's founders paying more attention to design than pure profit maximization would dictate).
 

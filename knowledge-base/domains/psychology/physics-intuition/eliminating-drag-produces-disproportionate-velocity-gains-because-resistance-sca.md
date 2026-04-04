@@ -53,7 +53,6 @@ stance: >-
   reductions in resistance compound into massive speed increases
 related:
   - INS-260325-C8D5
-  - INS-260330-C33B
   - INS-260330-D0F8
   - INS-260330-0C1B
   - INS-260329-F2E1

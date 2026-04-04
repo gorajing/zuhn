@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 72 insights
+> 73 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -64,6 +64,7 @@
 - `INS-260403-363C` [medium] Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.
 - `INS-260403-DF37` [medium] Big company jobs are the career equivalent of junk food—cheap, branded, immediately satisfying, but intellectually corrosive over time.
 - `INS-260330-69C6` [medium] The vine robot was invented because a researcher literally watched a vine grow around a shelf toward sunlight and asked 'can we do that robotically?'
+- `INS-260403-F7DA` [medium] Pick fields where the top performers are nerds — that signals earnestness matters and genuine interest compounds.
 - `INS-260321-4B38` [medium] Current health tech can read biology (wearables, CGMs, blood tests) but cannot write to it — the massive startup opportunity is in interventions like palm/sole body-cooling devices for sleep, eye-movement sleep masks, and real-time cortisol modulation.
 - `INS-260328-6F5B` [medium] YC funded Indian decacorns like Groww and Razorpay partly because they were too naive to know they were not supposed to fund international companies.
 - `INS-260323-8897` [medium] Nature's fundamental drive is to increase information while decreasing entropy — this principle can guide product and system design.

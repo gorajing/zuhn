@@ -46,7 +46,6 @@ resolutions:
     initial decision right. The framework: use speed to seize the right
     opportunity, then use time to let it compound.
 related:
-  - INS-260321-988C
   - INS-260329-DD06
   - INS-260329-F04B
   - INS-260403-6731
@@ -56,6 +55,7 @@ related:
   - INS-260327-5580
   - INS-260329-727B
   - INS-260330-4A16
+  - INS-260330-D6ED
 stance: >-
   Speed is the shortest distance between seeing and acting on an opportunity;
   time is making a good decision and holding it

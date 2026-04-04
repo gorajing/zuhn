@@ -53,7 +53,6 @@ stance: >-
   because the brainstorming process systematically produces tar pit ideas, while
   organic ideas emerge from genuine expertise and noticed problems.
 related:
-  - INS-260327-E7A3
   - INS-260403-C610
   - INS-260330-6C68
   - INS-260402-EE6E

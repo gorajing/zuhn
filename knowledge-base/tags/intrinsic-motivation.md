@@ -16,4 +16,5 @@
 - `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260329-36FF` Work created from abundance rather than scarcity resonates differently because people can feel the intention behind it.
+- `INS-260403-862E` Genuine problem interest predicts startup success better than ambition for money or status.
 - `INS-260327-3049` When making decisions, maximize the sci-fi nature of your life — this counterintuitive optimization function led to co-inventing CRISPR.

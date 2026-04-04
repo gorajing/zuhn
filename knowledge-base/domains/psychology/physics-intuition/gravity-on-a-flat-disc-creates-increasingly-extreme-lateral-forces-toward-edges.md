@@ -51,7 +51,6 @@ stance: >-
   gravity while edges would experience near-horizontal pull.
 related:
   - INS-260330-E990
-  - INS-260330-51D6
   - INS-260330-4E9B
   - INS-260330-97A0
   - INS-260330-D3AA
