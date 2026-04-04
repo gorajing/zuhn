@@ -6,3 +6,4 @@
 - `INS-260327-1B60` Trillion-dollar companies are built on capturing human attention - the most finite and valuable resource any person possesses.
 - `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
 - `INS-260327-A458` Trends that used to take years to peak and decline now cycle in weeks because TikTok and Instagram compress the discovery-adoption-saturation-backlash cycle.
+- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.

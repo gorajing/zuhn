@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3651 actionable insights
+Generated on 2026-04-04 | 3653 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -871,6 +871,7 @@ Generated on 2026-04-04 | 3651 actionable insights
 - [INS-260327-AD0D] Simple iPhone content using your official audio — in the studio, in the car, living life — builds real fans at zero cost with zero middlemen and zero downsides.
 - [INS-260327-B7C4] Every major streaming success the DJ has seen came from organic fan momentum — never from paying for third-party playlist placement with questionable listener quality.
 - [INS-260327-8D7E] Send 20 emails, get 20-email results. Send 1,000, get 1,000-email results. The DJ who launched careers through SoundCloud cold outreach ranks this S-tier.
+- [INS-260403-6932] Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 
 ## music-production/songwriting
 - [INS-260321-6D01] Puth's best work follows a two-phase pattern: solo marination where the song develops in his head, then collaboration where others refine and constrain his tendencies.
@@ -1882,6 +1883,7 @@ Generated on 2026-04-04 | 3651 actionable insights
 - [INS-260403-97F5] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - [INS-260403-BB23] Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
 - [INS-260403-E0FE] Superior business models, not superior products, are the primary driver of sustained competitive advantage.
+- [INS-260403-49E7] Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.

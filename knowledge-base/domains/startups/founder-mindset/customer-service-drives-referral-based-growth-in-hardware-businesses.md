@@ -45,8 +45,8 @@ related:
   - INS-260323-8392
   - INS-260322-8D47
   - INS-260329-563F
+  - INS-260403-4964
   - INS-260327-DD5C
-  - INS-260327-969D
 evidence:
   - id: INS-260327-969D
     type: EXTENDS

@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 203 insights
+> 204 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -106,6 +106,7 @@
 - `INS-260330-DD9C` [high] Facebook's Free Basics and Google's AMP are framed as philanthropy but function as internet centralization strategies.
 - `INS-260323-104E` [high] Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable EBITDA by killing the marketplace and going own-brand only.
 - `INS-260324-0A26` [high] The US government used the American Dream (home + car ownership) as both domestic reintegration tool for veterans and Cold War propaganda against Soviet communism, while Europe nationalized transit.
+- `INS-260403-4C4E` [high] As the music industry's distribution monopoly collapsed, musicians who learned business strategy gained control over their brand, customers, and revenue.
 - `INS-260329-C26B` [high] The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
 - `INS-260330-1DCF` [high] Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
 - `INS-260403-8C56` [high] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.

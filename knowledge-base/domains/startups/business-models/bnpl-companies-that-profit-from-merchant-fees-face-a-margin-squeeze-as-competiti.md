@@ -40,13 +40,13 @@ stance: >-
   increase conversion, but as BNPL becomes table stakes, merchants negotiate
   rates down while default costs rise.
 related:
-  - INS-260321-3BA8
   - INS-260329-6079
   - INS-260403-CED6
+  - INS-260403-DD63
   - INS-260327-B715
   - INS-260330-AF2B
-  - INS-260403-7C60
   - INS-260329-0D70
+  - INS-260403-7C60
 evidence:
   - id: INS-260329-0D70
     type: TRANSFERS_TO

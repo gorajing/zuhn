@@ -51,9 +51,9 @@ related:
   - INS-260320-F78E
   - INS-260322-F781
   - INS-260323-0982
+  - INS-260403-49E7
   - PRI-260323-847E
   - PRI-260403-0509
-  - INS-260329-55C4
 stance: >-
   When learning guitar, start by learning songs you love rather than scales and
   theory

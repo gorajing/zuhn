@@ -48,7 +48,6 @@ stance: >-
   competency than systematically walking through menus and features in
   isolation.
 related:
-  - INS-260323-01A1
   - INS-260329-023F
   - INS-260329-8830
   - INS-260403-4F4B

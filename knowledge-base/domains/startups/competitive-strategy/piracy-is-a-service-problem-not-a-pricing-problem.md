@@ -53,6 +53,7 @@ related:
   - INS-260403-F5EE
   - PRI-260328-78A5
   - PRI-260328-8F94
+  - INS-260403-4C4E
   - INS-260330-7882
 ---
 At its peak in the 2010s, BitTorrent accounted for a third of all internet traffic and 95% of music downloads were pirated. What killed piracy wasn't enforcement or morality - it was convenience. Streaming services offered a faster, easier, safer way to access content. Piracy collapsed not because people wanted to pay, but because paying became the path of least resistance.

@@ -54,7 +54,6 @@ stance: >-
   communication tactic and a diagnostic tool—if you can't do it, your plans may
   not be sufficiently focused.
 related:
-  - INS-260320-C65B
   - INS-260403-EF30
   - INS-260403-B3A4
   - INS-260403-941F

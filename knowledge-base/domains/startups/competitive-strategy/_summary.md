@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 489 insights
+> 490 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -378,6 +378,7 @@
 - `INS-260325-1585` [high] Subscriptions shifted from delivering value to exploiting inertia — most extract more from convenience-addiction than they provide in service.
 - `INS-260330-9313` [high] Apple's high-quality iPhones flood secondary markets, forcing new models to compete against still-excellent used versions of themselves.
 - `INS-260330-27E8` [high] Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.
+- `INS-260403-DD63` [high] Apple keeps 60-70% margins not by manufacturing itself, but by exerting pricing power over its suppliers.
 - `INS-260403-7E95` [high] Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - `INS-260329-7CDE` [high] Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260403-65D2` [high] Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.

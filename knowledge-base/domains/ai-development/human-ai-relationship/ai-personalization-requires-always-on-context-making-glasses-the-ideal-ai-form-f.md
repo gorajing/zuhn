@@ -50,6 +50,7 @@ related:
   - INS-260327-66AC
   - INS-260323-64A4
   - INS-260327-6FFC
+  - INS-260403-F8AE
 stance: >-
   Glasses positioned on the face can see what you see and hear what you hear,
   making them the natural endpoint for personalized AI that needs continu...

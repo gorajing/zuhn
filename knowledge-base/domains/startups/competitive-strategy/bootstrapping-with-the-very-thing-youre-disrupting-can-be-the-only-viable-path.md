@@ -48,10 +48,10 @@ stance: >-
   negotiate without proof of concept.
 related:
   - INS-260327-09D7
+  - INS-260403-4C4E
   - INS-260327-099A
   - PRI-260322-DC5E
   - INS-260330-6B18
-  - INS-260321-3312
 evidence:
   - id: INS-260327-09D7
     type: TRANSFERS_TO

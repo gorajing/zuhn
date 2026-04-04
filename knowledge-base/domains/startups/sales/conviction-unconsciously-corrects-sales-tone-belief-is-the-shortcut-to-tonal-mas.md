@@ -50,5 +50,6 @@ related:
   - INS-260329-A80B
   - PRI-260327-7924
   - PRI-260403-0ABD
+  - INS-260403-49E7
 ---
 Hormozi distinguishes two communication channels: words (logical brain) and tone (emotional brain). While mastering tone deliberately takes years, there's a shortcut: genuine belief. When reps truly believe in the product, their tone naturally conveys that conviction. This explains the common pattern of reps who crush it initially then tank — they lost conviction after seeing bad reviews or customer complaints. The tactical implication is counterintuitive: rather than drilling tone exercises, read testimonials aloud daily, bring customer support staff to sales meetings to showcase the delivery process, and continuously improve the product. The real sales training is conviction maintenance, not technique refinement.

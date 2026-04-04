@@ -45,11 +45,11 @@ stance: >-
   trade at millions-of-trades-per-second volume, making speed the only
   sustainable competitive advantage.
 related:
+  - INS-260403-C1A5
   - INS-260321-D183
   - INS-260329-60CF
   - INS-260330-B138
   - PRI-260327-7A68
-  - INS-260329-6079
 evidence:
   - id: INS-260322-3259
     type: TRANSFERS_TO

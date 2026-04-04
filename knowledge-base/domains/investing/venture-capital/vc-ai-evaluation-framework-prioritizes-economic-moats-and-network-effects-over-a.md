@@ -60,6 +60,7 @@ related:
   - PRI-260328-D5EB
   - INS-260327-EA4E
   - INS-260322-C472
+  - INS-260403-4964
 ---
 NFX's investment framework for AI companies explicitly deprioritizes AI novelty in favor of classic business durability metrics. Their evaluation asks six questions: team speed, economic moat, initial market clarity, long-term defensibility via proprietary data and network effects, fair valuation (resistant to hype inflation), and whether the product delivers breakthrough value beyond 'AI for AI's sake.'
 

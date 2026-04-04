@@ -46,7 +46,6 @@ stance: >-
   solutions that extensive tree search alone cannot find, creating a new axis of
   compute scaling.
 related:
-  - INS-260322-888D
   - INS-260321-BFA3
   - INS-260325-8065
   - INS-260329-8D70
@@ -56,6 +55,7 @@ related:
   - INS-260329-A171
   - INS-260329-01F2
   - INS-260329-A86F
+  - INS-260329-0B55
 evidence:
   - id: INS-260329-8D70
     type: CHALLENGES
