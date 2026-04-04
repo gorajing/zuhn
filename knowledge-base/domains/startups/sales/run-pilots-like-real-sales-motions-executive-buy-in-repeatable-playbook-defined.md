@@ -62,10 +62,10 @@ stance: >-
   and produce 5x larger deal sizes than casual 'free trial' approaches.
 related:
   - INS-260330-2CE5
+  - INS-260404-FE95
   - PRI-260328-0C86
   - INS-260329-B194
   - PRI-260328-C581
-  - INS-260325-95A6
   - INS-260330-C367
 evidence:
   - id: INS-260325-95A6

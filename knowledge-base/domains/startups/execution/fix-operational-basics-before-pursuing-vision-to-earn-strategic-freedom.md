@@ -51,6 +51,7 @@ related:
   - INS-260327-70DF
   - INS-260403-C6A6
   - PRI-260403-2E59
+  - INS-260404-2BAD
 ---
 When Hubert Joly joined Best Buy, he resisted the typical CEO playbook of announcing a grand vision. Instead, he fixed uncompetitive pricing, a broken website, slow shipping, and poor customer experience. This exploit-first approach earned stakeholder trust and strategic freedom.
 

@@ -55,7 +55,7 @@ related:
   - INS-260330-9F1F
   - INS-260328-0C87
   - INS-260404-DD95
-  - INS-260404-312D
+  - INS-260404-2BAD
 stance: Senior executives are professional interviewers
 ---
 The more senior the hire, the better they are at interviewing — by definition. At the C-suite level, the interview itself becomes nearly useless as a signal. Two alternative approaches generate much better signal:

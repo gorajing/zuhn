@@ -52,7 +52,6 @@ stance: >-
 related:
   - INS-260325-EF66
   - INS-260327-6058
-  - INS-260330-E089
   - INS-260330-570F
   - INS-260330-2783
   - INS-260403-3155
@@ -60,6 +59,7 @@ related:
   - INS-260403-91DB
   - INS-260404-D0D8
   - INS-260403-6CA8
+  - INS-260404-CD53
 ---
 The 'Retail Apocalypse' narrative attributes store closures to Amazon, but the real pattern is more specific: the retailers that died (Sears, Toys-R-Us, J.C. Penney, RadioShack) all operated traditional markup-based models where they competed on the same dimensions Amazon dominates—selection, convenience, and price. They were playing the same game, worse.
 

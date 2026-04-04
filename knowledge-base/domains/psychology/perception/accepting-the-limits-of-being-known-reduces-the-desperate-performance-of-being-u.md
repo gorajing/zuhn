@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260323-CF27
   - INS-260403-B3CA
+  - INS-260404-C720
   - INS-260327-0017
   - INS-260403-4101
-  - INS-260329-EC98
 evidence:
   - id: INS-260329-EC98
     type: TRANSFERS_TO

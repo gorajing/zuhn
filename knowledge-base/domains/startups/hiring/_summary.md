@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 40 insights
+> 41 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -33,6 +33,7 @@
 - `INS-260403-22DF` [high] The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260330-9F1F` [high] Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260402-73D9` [high] Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.
+- `INS-260404-FE95` [high] Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
 - `INS-260403-D966` [high] Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - `INS-260402-33CA` [high] Technology stack decisions double as social decisions that determine the caliber of talent you can attract.
 - `INS-260330-E126` [high] Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.

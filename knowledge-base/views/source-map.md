@@ -343,6 +343,7 @@ Generated on 2026-04-04 | 2421 sources
 | Everything You Knew About VC Math Is Wrong | blog | 5 | 2026-03-30 |
 | Financial Modeling Examples for Founders: A Startup Guide with Templates | blog | 5 | 2026-03-30 |
 | "Find a Way to Break Reality": How Centivax Brought a Universal Flu Vaccine to Clinic | blog | 5 | 2026-03-31 |
+| Five Founders | blog | 5 | 2026-03-31 |
 | Five Questions about Language Design | blog | 5 | 2026-03-31 |
 | Friends & Family Funding: The Startup Founder’s Guide | blog | 5 | 2026-03-30 |
 | Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
@@ -810,6 +811,7 @@ Generated on 2026-04-04 | 2421 sources
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
 | $1,000 Head Start For America's Youth | blog | 4 | 2026-03-30 |
 | 13 Traps That Can Render Your Market Research Irrelevant | blog | 4 | 2026-03-31 |
+| 14 Essential Links For Working With The Business Model Canvas | blog | 4 | 2026-03-31 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
 | $1.5T Bet On America, Google's AI Biology Breakthrough, And More. | blog | 4 | 2026-03-30 |
@@ -824,6 +826,7 @@ Generated on 2026-04-04 | 2421 sources
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | 4 Stages of Go-To-Market Strategy | blog | 4 | 2026-03-30 |
 | $40K Mistake: Building Features Nobody Wanted | blog | 4 | 2026-03-30 |
+| $46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder) | blog | 4 | 2026-03-31 |
 | 5 Common Mistakes to Avoid When Using the Value Proposition Canvas | blog | 4 | 2026-03-31 |
 | 5 Forces Acting Upon Your Business Model | blog | 4 | 2026-03-31 |
 | 5 Lean Startup Essentials to Reduce Risk and Uncertainty | blog | 4 | 2026-03-31 |
@@ -859,6 +862,7 @@ Generated on 2026-04-04 | 2421 sources
 | AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 4 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 4 | 2026-03-30 |
 | Alex Karp Interview: How Palantir Hit $500B Market Cap | blog | 4 | 2026-03-30 |
+| Amazon spends $2.75 billion on AI startup Anthropic💸, The Founders Guide to Optimizing Your Fundraise📘, The Pulse of SaaS☁️ & more! | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Apple Business Model | blog | 4 | 2026-03-31 |
@@ -1088,6 +1092,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why TV Lost | blog | 4 | 2026-03-31 |
 | WIRTW: China's minerals, AI financing, Nobel winners, robotics... | blog | 4 | 2026-03-30 |
 | WIRTW: Elon's $1T Package, Prediction Markets on Google, And More | blog | 4 | 2026-03-30 |
+| WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B Valuation | blog | 4 | 2026-03-30 |
 | Writing and Speaking | blog | 4 | 2026-03-31 |
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
 | You are no longer the smartest type of thing on Earth | blog | 4 | 2026-03-30 |
@@ -2010,7 +2015,6 @@ Generated on 2026-04-04 | 2421 sources
 | 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 0 | 2026-03-30 |
 | 121 Startups Fundraising Right Now (With Pitch Decks) | Exclusive Deal Flow for 2025 | blog | 0 | 2026-03-30 |
 | 13 Essential Strategyzer Links On Organizational Culture | blog | 0 | 2026-03-31 |
-| 14 Essential Links For Working With The Business Model Canvas | blog | 0 | 2026-03-31 |
 | 14 habits of highly effective product managers | blog | 0 | 2026-03-31 |
 | 144 Family Offices That Cut Pre-Seed Checks | blog | 0 | 2026-03-30 |
 | 15,000+ VCs, Angels & The Glassdoor of Venture Capital | blog | 0 | 2026-03-30 |
@@ -2030,7 +2034,6 @@ Generated on 2026-04-04 | 2421 sources
 | 350+ Places to Post Your Startup 📢 | blog | 0 | 2026-03-30 |
 | 4 Important Facts About Business Model Innovation For 2016 & Beyond | blog | 0 | 2026-03-31 |
 | 400+ Seed VCs Backing Startups in the US & Europe 💰 | blog | 0 | 2026-03-30 |
-| $46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder) | blog | 0 | 2026-03-31 |
 | 5 Characteristics Of A Great Strategy Workshop Facilitator | blog | 0 | 2026-03-31 |
 | 5 OpenClaw agents run my home, finances, and code | Jesse Genet | blog | 0 | 2026-03-31 |
 | 50 AI Agent Startup Ideas for 2025 (Across 10 Industries) | blog | 0 | 2026-03-30 |
@@ -2088,7 +2091,6 @@ Generated on 2026-04-04 | 2421 sources
 | All the ways to grow your product | blog | 0 | 2026-03-31 |
 | AMA (Ask Machines Anything) | blog | 0 | 2026-03-30 |
 | Amazon Prime: There's No Such Thing As Free Streaming | blog | 0 | 2026-03-31 |
-| Amazon spends $2.75 billion on AI startup Anthropic💸, The Founders Guide to Optimizing Your Fundraise📘, The Pulse of SaaS☁️ & more! | blog | 0 | 2026-03-30 |
 | Amazon's Value Proposition: Never Run Out Of Toilet Paper! | blog | 0 | 2026-03-31 |
 | An AI Glossary | blog | 0 | 2026-03-31 |
 | An Alternative Theory of Unions | blog | 0 | 2026-03-31 |
@@ -2206,7 +2208,6 @@ Generated on 2026-04-04 | 2421 sources
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
-| Five Founders | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
 | Founders: Are You Raising Enough? Or Too Much? Here’s the Tool You Need | blog | 0 | 2026-03-30 |
 | Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 0 | 2026-03-30 |
@@ -2396,7 +2397,6 @@ Generated on 2026-04-04 | 2421 sources
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |
 | WIRTW: Deepseek Breakthrough | blog | 0 | 2026-03-30 |
-| WIRTW: Gemini 3 Pro Tops Benchmarks, JPN Bond Spikes, and Ramp's $32B Valuation | blog | 0 | 2026-03-30 |
 | WIRTW: Micron's $100B Megafab | blog | 0 | 2026-03-30 |
 | WIRTW: Record Government Shutdown Ends | blog | 0 | 2026-03-30 |
 | World’s Best Founders 🔍, Changing VC Landscape 💼, Venture Trends 🌐 | blog | 0 | 2026-03-30 |

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3840 actionable insights
+Generated on 2026-04-04 | 3846 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1955,6 +1955,9 @@ Generated on 2026-04-04 | 3840 actionable insights
 - [INS-260404-35B6] Viaweb charged $300/month flat for big stores, then discovered Frederick's of Hollywood alone cost them $300/month in bandwidth.
 - [INS-260404-420F] Use the Business Model Canvas to iterate toward a model that is both profitable and scalable, not just one or the other.
 - [INS-260404-A375] Technology should reinforce or transform your business model, not drive it — the business model question comes first.
+- [INS-260404-7EFA] Creating Business Model Canvases for external parties like competitors and partners exposes their motivations, constraints, and possibilities for collaboration or conflict.
+- [INS-260404-D711] Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
+- [INS-260404-6A15] Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -3123,6 +3126,7 @@ Generated on 2026-04-04 | 3840 actionable insights
 - [INS-260403-85DE] An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
 - [INS-260403-5018] Choose the startup with the most determined founders over the smartest ones, treating your time as equity investment.
 - [INS-260404-DBD2] You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
+- [INS-260404-FE95] Google proved that concentrating top talent and measuring results outperforms traditional business structure in the early stages.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3345,6 +3349,7 @@ Generated on 2026-04-04 | 3840 actionable insights
 - [INS-260404-F834] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - [INS-260404-CDF0] Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
 - [INS-260404-74F4] Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
+- [INS-260404-2BAD] Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -3523,6 +3528,7 @@ Generated on 2026-04-04 | 3840 actionable insights
 - [INS-260403-FCA6] Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
 - [INS-260404-3FDF] Viaweb built their entire company site with their own store-building software to experience exactly what users experienced.
 - [INS-260404-380C] Apple Pay succeeded because its value proposition enabled its business model and vice versa — the two were designed as a tightly coupled system rather than sequentially.
+- [INS-260404-C720] Start by making a few users love you rather than many users tolerate you.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

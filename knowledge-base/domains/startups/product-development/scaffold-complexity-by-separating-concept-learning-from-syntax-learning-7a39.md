@@ -50,11 +50,11 @@ stance: >-
   and mechanical confusion.
 related:
   - INS-260320-63D3
-  - INS-260322-94A9
   - INS-260329-AA76
   - INS-260329-AD3E
+  - INS-260404-2BAD
   - INS-260329-F211
-  - INS-260329-07D3
+  - INS-260322-94A9
 evidence:
   - id: INS-260329-F211
     type: REFINES

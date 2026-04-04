@@ -54,10 +54,10 @@ stance: >-
   language across all functions reduce misalignment more effectively than those
   relying on department-specific planning documents.
 related:
-  - INS-260321-801C
   - INS-260323-CD28
   - INS-260403-1C10
   - INS-260403-1B9E
+  - INS-260404-2BAD
   - INS-260325-F451
   - INS-260327-91C7
 ---

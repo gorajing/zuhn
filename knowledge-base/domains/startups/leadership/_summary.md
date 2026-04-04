@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 174 insights
+> 175 insights
 
 - `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
@@ -142,6 +142,7 @@
 - `INS-260330-36B4` [high] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - `INS-260327-482E` [high] Stop avoiding hard problems—identify the biggest risk and attack it directly.
 - `INS-260404-CDF0` [medium] Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
+- `INS-260404-2BAD` [medium] Organizations using the Business Model Canvas for executive onboarding achieve faster, more complete knowledge transfer by making the company's strategic logic visually explicit.
 - `INS-260330-2F52` [medium] The primary barrier preventing successful business leaders from entering politics is communication ability under pressure, not strategic competence.
 - `INS-260327-BB4A` [medium] Competitive team gaming develops CEO skills—leading smart people, forcing collaboration, maintaining intensity—better than business school.
 - `INS-260330-4045` [medium] Confucian governance worked because each level of the hierarchy had explicit obligations downward, not just authority — making compliance feel like reciprocity rather than submission.

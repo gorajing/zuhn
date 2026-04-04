@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 310 insights
+> 312 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -240,6 +240,7 @@
 - `INS-260323-4082` [high] Many of your current problems are the result of achieving the dreams of your past self — the stress comes with the job you wanted, the arguments come with the relationship you sought.
 - `INS-260325-86B3` [high] Lyft/Presto cofounder Rajat Suri: 5 years of zero revenue survived through a loyalty cycle where team sacrifice inspired founder persistence and vice versa.
 - `INS-260329-DD01` [high] Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
+- `INS-260404-9376` [medium] Elite founder thinking requires actively purging outdated beliefs, not just acquiring new ones.
 - `INS-260328-70D3` [medium] The belief that you must 'break glass' because AGI is imminent rhymes with every generation's conviction that they happen to be alive at the end of days.
 - `INS-260323-1871` [medium] Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
 - `INS-260321-3D65` [medium] Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.
@@ -267,6 +268,7 @@
 - `INS-260325-A272` [medium] Not knowing an industry is not a liability when you can identify a solvable problem — the fearless willingness to learn while building creates outsider advantages.
 - `INS-260323-2627` [medium] Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
 - `INS-260327-6CB7` [medium] Philosophy gives founders the framework to think about problems on a very deep level — ontology is first-principles thinking in philosophy.
+- `INS-260404-1986` [medium] Some founders have such extreme willpower that standard evaluation frameworks break down for them.
 - `INS-260403-36C1` [medium] Forgetting disputes signals that you've successfully kept them from occupying your top mental slot — a practical form of cognitive hygiene.
 - `INS-260326-8E6D` [medium] Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
 - `INS-260322-5D22` [medium] Building networks where people personally know and trust each other's character creates economic infrastructure that bypasses institutional gatekeeping in the AI era.

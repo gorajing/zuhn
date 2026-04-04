@@ -58,6 +58,7 @@ stance: >-
   prevents investors from gaining control
 related:
   - INS-260328-896B
+  - INS-260404-1986
   - INS-260404-0D62
   - INS-260404-B715
   - INS-260323-4C43
