@@ -54,7 +54,7 @@ related:
   - INS-260323-4457
   - PRI-260328-B2EA
   - INS-260327-E3CA
-  - PRI-260327-3BD9
+  - INS-260403-2DF9
 ---
 When founders outsource customer testing, they receive summarized findings stripped of the nuance, body language, and contextual signals that inform intuition. A consultant's report says 'customers want feature X'; a founder who ran the interviews knows that customers hesitated before answering, that their real pain is adjacent to X, and that the workaround they described reveals an unspoken need.
 

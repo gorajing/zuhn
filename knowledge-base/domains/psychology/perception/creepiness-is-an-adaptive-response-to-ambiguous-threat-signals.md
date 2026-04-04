@@ -54,11 +54,11 @@ related:
   - INS-260330-383F
   - INS-260330-1E12
   - INS-260330-5F6C
-  - INS-260403-36C1
   - INS-260403-D63C
   - INS-260403-E8DD
   - INS-260403-9BBA
   - INS-260329-A90C
+  - INS-260403-50B0
 ---
 McAndrew and Koehnke's research frames being 'creeped out' as an adaptive human response to ambiguity of threat from others. Unlike clear fear (which triggers fight-or-flight) or disgust (which triggers avoidance), creepiness occupies a valley between safety and danger where the brain cannot resolve whether to activate defensive responses. Some neural circuits respond with fear while others don't, producing the characteristic unease rather than a decisive emotional response.
 

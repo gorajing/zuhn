@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260327-ACB3
   - INS-260330-A78C
+  - INS-260403-B2EA
   - INS-260323-FAF2
   - INS-260330-F08F
-  - INS-260327-999C
 evidence:
   - id: INS-260323-FAF2
     type: CHALLENGES

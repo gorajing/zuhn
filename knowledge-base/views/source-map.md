@@ -441,6 +441,7 @@ Generated on 2026-04-04 | 2421 sources
 | Some Heroes | blog | 5 | 2026-03-31 |
 | SOTA On Bay Area House Party | blog | 5 | 2026-03-30 |
 | Stackable Business Models in the Age of AI | blog | 5 | 2026-03-31 |
+| Startup Fundraising Resources: Investor Lists 2026 | blog | 5 | 2026-03-30 |
 | Startup = Growth | blog | 5 | 2026-03-31 |
 | Startup Investing Trends | blog | 5 | 2026-03-31 |
 | Startup Location Strategy in 2025: Does It Still Matter Where You Build? | blog | 5 | 2026-03-30 |
@@ -805,8 +806,10 @@ Generated on 2026-04-04 | 2421 sources
 | 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Innovative Business Pivots In The Age Of The Pandemic | blog | 4 | 2026-03-31 |
+| 4 Mistakes That Can Kill Your Business Model | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | 4 Stages of Go-To-Market Strategy | blog | 4 | 2026-03-30 |
+| $40K Mistake: Building Features Nobody Wanted | blog | 4 | 2026-03-30 |
 | 5 Common Mistakes to Avoid When Using the Value Proposition Canvas | blog | 4 | 2026-03-31 |
 | 5 Lean Startup Essentials to Reduce Risk and Uncertainty | blog | 4 | 2026-03-31 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
@@ -835,6 +838,7 @@ Generated on 2026-04-04 | 2421 sources
 | Apple Business Model | blog | 4 | 2026-03-31 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
 | Assess & Design Your Innovation Portfolio | blog | 4 | 2026-03-31 |
+| Assess how your Innovation Programs are Performing | blog | 4 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 4 | 2026-03-31 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
@@ -869,6 +873,7 @@ Generated on 2026-04-04 | 2421 sources
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
 | Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 4 | 2026-03-30 |
+| February 2025 Startups Raising Capital | blog | 4 | 2026-03-30 |
 | Fierce Nerds | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
@@ -958,6 +963,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Equity Equation | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
+| The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 4 | 2026-03-30 |
 | The High-Res Society | blog | 4 | 2026-03-31 |
 | The List of N Things | blog | 4 | 2026-03-31 |
 | The Other Half of "Artists Ship" | blog | 4 | 2026-03-31 |
@@ -1167,6 +1173,7 @@ Generated on 2026-04-04 | 2421 sources
 | What If Everyone JUMPED At Once? | youtube | 4 | 2026-03-30 |
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
+| What to do if your inner voice is cruel | Ethan Kross | youtube | 4 | 2026-03-30 |
 | What Will We Miss? | youtube | 4 | 2026-03-30 |
 | What’s the Future of Vertical SaaS in an AGI World? Jamie Cuffe, CEO of Pace | youtube | 4 | 2026-03-26 |
 | Where to invest in a multipolar world (WW3?) | youtube | 4 | 2026-03-22 |
@@ -1928,9 +1935,7 @@ Generated on 2026-04-04 | 2421 sources
 | 350+ Places to Post Your Startup: The Ultimate Launch List | blog | 0 | 2026-03-30 |
 | 350+ Places to Post Your Startup 📢 | blog | 0 | 2026-03-30 |
 | 4 Important Facts About Business Model Innovation For 2016 & Beyond | blog | 0 | 2026-03-31 |
-| 4 Mistakes That Can Kill Your Business Model | blog | 0 | 2026-03-31 |
 | 400+ Seed VCs Backing Startups in the US & Europe 💰 | blog | 0 | 2026-03-30 |
-| $40K Mistake: Building Features Nobody Wanted | blog | 0 | 2026-03-30 |
 | $46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder) | blog | 0 | 2026-03-31 |
 | 5 Characteristics Of A Great Strategy Workshop Facilitator | blog | 0 | 2026-03-31 |
 | 5 Forces Acting Upon Your Business Model | blog | 0 | 2026-03-31 |
@@ -2030,7 +2035,6 @@ Generated on 2026-04-04 | 2421 sources
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |
 | Ask Me Anything session with Alex & Yves | blog | 0 | 2026-03-31 |
-| Assess how your Innovation Programs are Performing | blog | 0 | 2026-03-31 |
 | At SAP, Design Thinking & The Business Model Canvas Go Hand-In-Hand | blog | 0 | 2026-03-31 |
 | Barriers to Entry in VC🚧, Rise of the AI Wrappers🤖, Google's AI Future Report 🔮 | blog | 0 | 2026-03-30 |
 | Become an Innovation Expert at the 2020 Strategyzer Bootcamp | blog | 0 | 2026-03-31 |
@@ -2133,7 +2137,6 @@ Generated on 2026-04-04 | 2421 sources
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
-| February 2025 Startups Raising Capital | blog | 0 | 2026-03-30 |
 | Filters that Fight Back | blog | 0 | 2026-03-31 |
 | Five Founders | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
@@ -2262,7 +2265,6 @@ Generated on 2026-04-04 | 2421 sources
 | Stages of Board Deck Preparation📝, How to be helpful as a VC📚, Secondary Market VC Funds🔄 | blog | 0 | 2026-03-30 |
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
-| Startup Fundraising Resources: Investor Lists 2026 | blog | 0 | 2026-03-30 |
 | Startup MIS Excel Template to Track KPIs | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
 | State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 0 | 2026-03-30 |
@@ -2295,7 +2297,6 @@ Generated on 2026-04-04 | 2421 sources
 | The future isn't what it used to be | blog | 0 | 2026-03-30 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
-| The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 0 | 2026-03-30 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
 | The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of "Quiet") | blog | 0 | 2026-03-31 |
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
@@ -2420,7 +2421,6 @@ Generated on 2026-04-04 | 2421 sources
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
 | The most unexpected answer to a counting puzzle | youtube | 0 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
-| What to do if your inner voice is cruel | Ethan Kross | youtube | 0 | 2026-03-30 |
 | When You Truly Work for Yourself | youtube | 0 | 2026-03-30 |
 | Why Costco is Cheaper than Amazon | youtube | 0 | 2026-03-30 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

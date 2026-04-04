@@ -52,10 +52,10 @@ related:
   - INS-260327-87A3
   - INS-260403-5FBD
   - INS-260403-2E0F
-  - INS-260403-E642
   - INS-260403-7E18
   - INS-260403-C0FE
   - INS-260403-8008
+  - INS-260403-3F10
 ---
 Most companies default to competing on product features, technology, or price — dimensions that are easily copied and lead to commoditization. The most successful companies instead compete at the business model level, configuring multiple building blocks (channels, revenue streams, customer relationships, etc.) into repeatable patterns that create structural advantages.
 

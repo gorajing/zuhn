@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 146 insights
+> 148 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -77,6 +77,7 @@
 - `INS-260329-3848` [high] Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.
 - `INS-260329-68C8` [high] We repeat behaviors that are reinforcing (aligned with deeper purpose), not just those that are rewarding (pleasurable).
 - `INS-260325-F707` [high] Lists of '3 traits of highly resilient people' are myths — research finds many factors with small effects, meaning resilience is not a fixed character trait but an emergent outcome of many interacting variables.
+- `INS-260403-50B0` [high] Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
 - `INS-260325-CA88` [high] Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
 - `INS-260329-0B76` [high] Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260330-59A4` [high] Self-awareness without self-acceptance makes the gap between who you are and who you want to be more painful, not less.
@@ -117,6 +118,7 @@
 - `INS-260329-F04B` [medium] Expanding the time between effort and reward is a trainable cognitive skill that correlates with intelligence and long-term success.
 - `INS-260330-FE21` [medium] Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
 - `INS-260403-14CB` [medium] Success breeds temptations that erode the very determination that created the success, unless discipline scales proportionally.
+- `INS-260403-CCC3` [medium] Managing chatter requires building a personalized toolkit across three domains: solo techniques, social strategies, and environmental design.
 - `INS-260330-66F7` [medium] Under-ice submarine operations remove the option to surface during emergencies, forcing fundamentally different and more rigorous preparation.
 - `INS-260329-CA4F` [medium] Avoidance-framed habits stick better than aspiration-framed habits because they tap into evolutionarily older threat-detection circuits.
 - `INS-260330-DE89` [medium] Destin's involuntary tap-out at 7.2G permanently changed his approach to confidence-humility balance in ways voluntary humility never had.

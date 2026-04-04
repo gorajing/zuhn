@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 70 insights
+> 73 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -17,10 +17,12 @@
 - `INS-260403-427E` [high] Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
 - `INS-260403-D8A2` [high] Sears, Toys-R-Us, and RadioShack died not because retail died but because they failed to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260403-E3C4` [high] Cultural shift from planning-execution to experimentation-iteration is the primary barrier to enterprise innovation, not tooling.
+- `INS-260403-2DF9` [high] Innovation practice requires leaders to trust evidence from testing processes rather than overriding them with intuition.
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-268F` [high] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260403-A99F` [high] Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
+- `INS-260403-6224` [high] Innovation program assessment requires dual axes: value creation and culture change capacity.
 - `INS-260403-383F` [high] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
 - `INS-260403-F87C` [high] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 - `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
@@ -58,6 +60,7 @@
 - `INS-260403-4FA4` [medium] For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.
 - `INS-260403-5F44` [medium] Innovation should live in every job rather than be siloed into a dedicated department or role.
 - `INS-260403-E172` [medium] Thriving innovation requires maintaining a large pipeline of 150-200 ideas per year across varying scales.
+- `INS-260403-C6A6` [medium] Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.
 - `INS-260403-0372` [medium] Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260403-17E1` [medium] Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses.
 - `INS-260403-B5A5` [medium] Startups need INVENT patterns to design new business models; incumbents need SHIFT patterns to transform existing ones — different strategic contexts require different pattern sets.

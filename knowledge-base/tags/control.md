@@ -6,6 +6,7 @@
 - `INS-260330-1293` North Korea maintains stability by selectively tolerating illegal capitalism rather than cracking down uniformly, turning potential dissidents into co-opted participants.
 - `INS-260325-922D` You control nothing but influence everything; every action has unforeseen ripple effects that reshape the future.
 - `INS-260327-58ED` The people-pleaser isn't selfless - they're controlling the emotional environment to avoid the discomfort of others' displeasure, which is actually a self-serving strategy.
+- `INS-260403-50B0` Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
 - `INS-260329-8CA3` Distinguishing shame (violating others' rules) from guilt (violating your own) reveals that most inaction is driven by rules you never consciously chose.
 - `INS-260327-1B09` The harder you try to control life, the worse it gets - because the energy spent maintaining control exceeds the benefit of the control itself.
 - `INS-260330-F9B4` Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.

@@ -47,10 +47,10 @@ stance: >-
   every subsequent choice
 related:
   - INS-260403-4CE7
+  - INS-260403-B2EA
   - INS-260403-6731
   - INS-260403-E172
   - INS-260327-9830
   - INS-260327-3C19
-  - INS-260321-6437
 ---
 The pharmaceutical team faced many possible pathways to improve their innovation ecosystem but selected only three priorities for the first 12 months: more transformative innovation, higher idea volume, and faster testing speed. The critical move was not the selection itself but the discipline of using these three goals as a decision filter for everything that followed — which program to launch, which framework improvement to make, which culture intervention to prioritize. This created alignment with leadership because progress was visible and measurable against explicit goals. The pattern is generalizable: innovation programs fail not from lack of ambition but from trying to improve every dimension simultaneously, which diffuses resources and makes progress invisible to stakeholders.

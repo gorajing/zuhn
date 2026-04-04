@@ -54,9 +54,9 @@ resolutions:
 related:
   - INS-260323-3239
   - PRI-260323-1B96
+  - INS-260403-93E7
   - INS-260327-D982
   - INS-260330-A86C
-  - PRI-260328-B2EA
   - INS-260330-B0EB
   - INS-260403-C228
 stance: 'Before chasing product-market fit, verify you have founder-market fit'

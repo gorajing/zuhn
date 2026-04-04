@@ -76,7 +76,6 @@ related:
   - INS-260327-390A
   - INS-260327-6F08
   - INS-260328-AB0C
-  - INS-260330-D801
 ---
 Sudheesh's strongest organizational opinion: the shift from selling products to renting services (SaaS) requires fundamentally restructuring every function. Sales leaders who refuse input from others on incentive design, marketing leaders who take credit during good quarters and go underground during bad ones, product managers who don't talk to customers — these silos are lethal.
 

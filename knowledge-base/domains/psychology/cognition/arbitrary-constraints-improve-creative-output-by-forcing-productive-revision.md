@@ -50,8 +50,8 @@ related:
   - INS-260403-D022
   - INS-260403-21AF
   - INS-260403-2D99
+  - INS-260403-B2EA
   - INS-260330-43F7
-  - INS-260322-4B4A
 ---
 Paul Graham discovered that when typesetting forced him to shorten a section by one line, the result was always better — never worse. He explains this through a bin-shaking analogy: just as gravity ensures random shaking can only pack objects tighter, a writer's commitment to truth ensures that forced revisions can only improve the ideas. The constraint is arbitrary, but the revision it triggers is not.
 

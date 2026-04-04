@@ -39,11 +39,11 @@ stance: >-
   to increased autism spectrum disorder risk, potentially through glutathione
   depletion compromising fetal neuroprotection during critical development
 related:
+  - INS-260403-518E
   - INS-260322-D059
   - PRI-260328-F804
   - INS-260325-6DD8
   - PRI-260328-F570
-  - INS-260325-D2AA
 evidence:
   - id: INS-260322-D059
     type: SUPPORTS

@@ -48,8 +48,8 @@ related:
   - INS-260403-2152
   - INS-260322-CC69
   - INS-260329-FEBA
+  - INS-260403-B2EA
   - PRI-260324-36BF
-  - INS-260327-B9AD
 ---
 Kimi's Sarah articulated a strategic shift: in the chatbot era, openness was nice-to-have because you were just optimizing a single response. In the agent era, you're optimizing entire multi-step workflows where each step's accuracy compounds. Enterprise users and developers need the ability to inspect, tune, and control individual steps in the pipeline.
 

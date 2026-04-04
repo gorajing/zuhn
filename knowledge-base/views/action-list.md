@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3653 actionable insights
+Generated on 2026-04-04 | 3664 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -941,6 +941,7 @@ Generated on 2026-04-04 | 3653 actionable insights
 - [INS-260403-A6B1] Readable prose helps the writer catch errors because the writer re-reads their own work far more than anyone else will.
 - [INS-260403-8BF4] Cutting words isn't just style — it's how you discover what you actually mean.
 - [INS-260403-D16C] Physical clutter taxes cognition by forcing continuous environmental parsing.
+- [INS-260403-518E] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1784,6 +1785,8 @@ Generated on 2026-04-04 | 3653 actionable insights
 - [INS-260403-CE62] Act on problems immediately but accept that results in complex systems take time to materialize.
 - [INS-260403-7475] Body-based interventions outperform medication and pure talk therapy for trauma because trauma is stored in survival circuitry, not narrative memory.
 - [INS-260403-0070] Trauma recovery begins when a person can say 'this is what happened to me and my reactions make sense' rather than 'something is wrong with me.'
+- [INS-260403-CCC3] Managing chatter requires building a personalized toolkit across three domains: solo techniques, social strategies, and environmental design.
+- [INS-260403-50B0] Rituals combat chatter by giving you a concrete sense of order when your thoughts feel out of control.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -1884,6 +1887,8 @@ Generated on 2026-04-04 | 3653 actionable insights
 - [INS-260403-BB23] Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
 - [INS-260403-E0FE] Superior business models, not superior products, are the primary driver of sustained competitive advantage.
 - [INS-260403-49E7] Zoo Labs teaches business strategy by mapping it to musical concepts musicians already understand, accelerating comprehension.
+- [INS-260403-93E7] Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
+- [INS-260403-BB22] Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2140,6 +2145,7 @@ Generated on 2026-04-04 | 3653 actionable insights
 - [INS-260403-A0F7] Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - [INS-260403-2152] Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - [INS-260403-C1F5] Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
+- [INS-260403-98F3] Even sound business models die when external threats — competitor lock-in, shifting customer needs, macro trends — go unmonitored.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2366,6 +2372,7 @@ Generated on 2026-04-04 | 3653 actionable insights
 - [INS-260403-CCB7] Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - [INS-260403-2376] 'Make something people want' tells you where to go; 'be relentlessly resourceful' tells you how to get there day by day.
 - [INS-260403-91FD] Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
+- [INS-260403-B4B9] Use your business model as the starting point for defining what to measure, not generic KPIs.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -3064,6 +3071,9 @@ Generated on 2026-04-04 | 3653 actionable insights
 - [INS-260403-E25F] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
 - [INS-260403-3A34] Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
 - [INS-260403-910E] Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
+- [INS-260403-2DF9] Innovation practice requires leaders to trust evidence from testing processes rather than overriding them with intuition.
+- [INS-260403-C6A6] Innovators must be able to leverage the broader organization's capabilities, branding, and expertise to succeed.
+- [INS-260403-6224] Innovation program assessment requires dual axes: value creation and culture change capacity.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3182,6 +3192,7 @@ Generated on 2026-04-04 | 3653 actionable insights
 - [INS-260403-96FA] The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
 - [INS-260403-8C36] Leaders should provide fertile ground for innovative thinking by asking better questions rather than prescribing answers.
 - [INS-260403-4760] Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
+- [INS-260403-B2EA] Leaders must actively protect teams' time for innovation by adapting workloads and deadlines, not just verbally endorsing innovation.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

@@ -51,11 +51,12 @@ stance: >-
   culture where self-advocacy is rewarded over actual performance, driving top
   quiet performers to leave.
 related:
-  - INS-260323-FCA7
   - INS-260330-7511
   - INS-260330-175F
   - INS-260330-48A8
   - INS-260330-2339
+  - INS-260323-FCA7
+  - INS-260403-6224
 evidence:
   - id: INS-260330-7511
     type: TRANSFERS_TO

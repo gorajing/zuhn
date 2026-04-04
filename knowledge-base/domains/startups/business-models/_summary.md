@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 177 insights
+> 179 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -114,6 +114,7 @@
 - `INS-260329-8F7C` [high] Allen unlocked 4x pricing power by running pricing surveys and repackaging its charging model, not by changing the product itself.
 - `INS-260322-5F87` [high] Private companies and individuals funding police technology (less than 1% of police budgets) can transform public safety because city budgets are too rigid and debt-laden to make marginal tech investments.
 - `INS-260403-9F5A` [high] Entrepreneurs who obsess over product while neglecting repeatable, scalable, and profitable business model design build ventures that survive only as long as investor funding lasts.
+- `INS-260403-93E7` [high] Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260403-F62E` [high] Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
 - `INS-260327-B815` [high] Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights r
 - `INS-260403-C1A5` [high] Apple captured 94% of smartphone profits with only 14.5% of sales, proving profit concentration beats volume.
@@ -156,6 +157,7 @@
 - `INS-260403-1000` [high] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260324-861B` [high] Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
 - `INS-260403-754F` [high] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
+- `INS-260403-BB22` [high] Great products fail when the surrounding business model — pricing, channels, retention, cost structure — is structurally broken.
 - `INS-260330-D824` [high] WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260327-38BC` [high] Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
 - `INS-260323-0026` [high] Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 490 insights
+> 491 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -132,6 +132,7 @@
 - `INS-260330-1964` [high] Attack incumbents where their own business model or architecture prevents them from responding, not where they simply haven't bothered yet.
 - `INS-260330-DD10` [high] Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260330-6EE1` [high] Find what incumbents structurally can't do — whether that's platform agnosticism against suite vendors or novel monetization like Zenefits getting paid by insurance companies instead of customers.
+- `INS-260403-98F3` [high] Even sound business models die when external threats — competitor lock-in, shifting customer needs, macro trends — go unmonitored.
 - `INS-260327-F867` [high] UNIQLO (timeless basics) and Zara (fast-fashion trends) both succeed in clothing by targeting opposite ends of the same 
 - `INS-260327-749F` [high] Fast fashions lower prices were achieved not through manufacturing innovation but by reducing fabric quality and constru
 - `INS-260327-2695` [high] Every generation of consumer credit innovation follows the same pattern: expand access during prosperity, accumulate ris

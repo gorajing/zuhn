@@ -1,5 +1,6 @@
 # Tag: customer-research
 
+- `INS-260403-93E7` Feature-first thinking causes product-market fit failure; start with customer jobs, pains, and gains instead.
 - `INS-260329-F2BB` Describe the customer's problem more accurately than they can, and they'll believe you can solve it without needing proof.
 - `INS-260329-E900` Mine book reviews in your niche for exact customer language about their pain — matching their words creates automatic credibility.
 - `INS-260403-10D8` AI coaches that ask structured questions help teams articulate what they already know and pinpoint what they still need to learn about customers.
