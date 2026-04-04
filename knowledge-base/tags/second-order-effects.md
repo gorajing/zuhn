@@ -13,10 +13,10 @@
 - `INS-260404-A51E` Oxygen, the foundation of animal life, is photosynthesis's waste product — monitor your system's byproducts for hidden value.
 - `INS-260404-FF39` Oxygen — the molecule enabling all animal life — was originally a toxic waste product of early photosynthesis, suggesting that transformative innovations often emerge as byproducts.
 - `INS-260403-EFE6` Oxygen — the gas that enabled all animal life — is just a waste byproduct of photosynthesis's real job of making glucose.
-- `INS-260403-15DD` When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 - `INS-260330-3CD9` Critical decisions must be evaluated through every employee's eyes, not just the people directly involved.
 - `INS-260330-5B0C` Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.
 - `INS-260330-725C` Critical decisions must be evaluated through the eyes of every employee, not just the people in the conversation.
+- `INS-260403-15DD` When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 - `INS-260403-6628` Plants produced so much oxygen through photosynthesis that their own key enzyme RuBisCo started malfunctioning, forcing them to evolve detoxification pathways.
 - `INS-260330-41F6` Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value.
 - `INS-260404-8E0B` Oxygen — the molecule enabling all animal life — is just a waste product of photosynthesis, which exists to make glucose for plants.

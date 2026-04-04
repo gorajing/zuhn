@@ -11,5 +11,5 @@
 - `INS-260330-3737` Having experienced peers critique your safety procedures reveals obvious gaps you cannot see yourself.
 - `INS-260330-D7CC` Overconfidence in dangerous domains creates the conditions for the worst failures.
 - `INS-260330-B882` The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
-- `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path.
 - `INS-260323-AEA5` Alfred Nobel made nitroglycerin safe to handle with dynamite, but that very safety made it accessible to terrorists -- a paradox that applies to all powerful tools including AI.
+- `INS-260330-CBA5` A custom periscope mirror rig allowed filming an underwater gunshot at 27,450 fps by keeping the expensive high-speed camera safely above water while redirecting the optical path.

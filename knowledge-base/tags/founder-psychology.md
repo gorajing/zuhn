@@ -1,14 +1,14 @@
 # Tag: founder-psychology
 
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
-- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
-- `INS-260404-A8B9` Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
 - `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
 - `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260403-E3E6` Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260403-DF73` Founders face coordinated pressure from VCs and executives to abandon instincts that are actually correct.
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
+- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
+- `INS-260404-A8B9` Founders who are genuinely productive feel like frauds because their working conditions don't match the cultural archetype of professional success.
 - `INS-260330-1226` After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
 - `INS-260329-5412` Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.
 - `INS-260323-4AF5` Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.
@@ -34,7 +34,7 @@
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.
 - `INS-260328-03BB` You will be judged by investors relative to your direct peers, not relative to the fastest-growing company in all of AI.
-- `INS-260322-047D` Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260330-B09B` Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
 - `INS-260403-27AC` Rejecting acquisition offers correlates with outsized outcomes because it selects for ambitious, conviction-driven founders.
+- `INS-260322-047D` Setting the next milestone (transaction volume target, operating profit threshold) instead of fixating on the ultimate exit/IPO prevents the marathon-with-no-end-in-sight feeling that exhausts founders.
 - `INS-260327-CD77` Start with an aggressively high price—first-time founders chronically underprice out of guilt.

@@ -8,8 +8,8 @@
 - `INS-260330-420D` Monopolists frame themselves in huge markets (Google calls itself a 'technology company' in a $1T market) while struggling competitors claim tiny intersections ('the only British food restaurant in Palo Alto').
 - `INS-260330-6C35` Monopolists frame themselves in huge markets to avoid regulation while competitors frame themselves in tiny intersections to appear unique — both systematically distort reality.
 - `INS-260330-43CF` PayPal started with 20,000 eBay power sellers, Facebook with 10,000 Harvard students — markets dismissed as worthless that enabled 25-60% penetration in months before expanding outward.
-- `INS-260329-8299` CS50's success proves that designing for complete beginners captures the largest possible audience.
 - `INS-260403-D99E` Scientist-founders lose deals by prioritizing how cool the science is over how big the market opportunity is.
+- `INS-260329-8299` CS50's success proves that designing for complete beginners captures the largest possible audience.
 - `INS-260330-548B` Prioritize market growth rate over current size when evaluating startup ideas, because a small fast-growing market offers better startup dynamics than a large stagnant one.
 - `INS-260403-B387` AI vertical companies should size their market against total labor cost in the vertical, not existing software spend — a 10x larger opportunity.
 - `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
