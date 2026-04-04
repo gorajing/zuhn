@@ -42,11 +42,11 @@ stance: >-
   do repeatedly and manually, then building AI agents to automate those specific
   processes.
 related:
+  - INS-260403-ABBB
   - INS-260327-E2BC
   - INS-260403-37FD
   - INS-260330-7CC0
   - INS-260403-5593
-  - INS-260403-924B
 evidence:
   - id: INS-260322-C472
     type: REFINES

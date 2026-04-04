@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3526 actionable insights
+Generated on 2026-04-04 | 3537 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1108,6 +1108,7 @@ Generated on 2026-04-04 | 3526 actionable insights
 - [INS-260403-F03A] Judge purchases by projected usage, not by the deal you got.
 - [INS-260403-97B4] When inspiration strikes, act on it immediately because it won't survive being shelved.
 - [INS-260403-91CC] Push past obvious functional jobs to find the social and emotional motivations that create the strongest customer attachment.
+- [INS-260403-16F2] The most effective way to direct your ambient thinking is upstream: choose situations where the most urgent problems are the ones you actually want to solve.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1272,6 +1273,8 @@ Generated on 2026-04-04 | 3526 actionable insights
 - [INS-260403-DDEB] Flow triggers most reliably when challenge slightly exceeds skill — stretch but don't snap.
 - [INS-260403-6CE8] We'll increasingly be defined by what we say no to, as the default environment becomes saturated with compelling distractions.
 - [INS-260403-B6CD] Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
+- [INS-260403-BC89] Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
+- [INS-260403-3756] Money worries and disputes hijack your top mental slot with unusual effectiveness because they feel urgent and engaging but produce no creative output.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -1845,6 +1848,9 @@ Generated on 2026-04-04 | 3526 actionable insights
 - [INS-260403-C844] Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
 - [INS-260403-754F] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - [INS-260403-CA57] Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
+- [INS-260403-0A97] Business models progress through predictable stages from high-risk exploration to low-risk exploitation, and mapping this journey enables better strategic decisions.
+- [INS-260403-9F5A] Entrepreneurs who obsess over product while neglecting repeatable, scalable, and profitable business model design build ventures that survive only as long as investor funding lasts.
+- [INS-260403-F62E] Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2309,6 +2315,7 @@ Generated on 2026-04-04 | 3526 actionable insights
 - [INS-260403-C4BE] Maintaining safety habits even when technically unnecessary prevents errors by eliminating per-situation judgment calls.
 - [INS-260403-558D] Release crude, iterate fast — nature's imagination outperforms your own.
 - [INS-260403-D1D0] Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
+- [INS-260403-4050] Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2493,6 +2500,7 @@ Generated on 2026-04-04 | 3526 actionable insights
 - [INS-260403-0C1D] Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
 - [INS-260403-886D] Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
 - [INS-260403-B05A] What you work on and who you work with matter more than how many hours you put in.
+- [INS-260403-802D] The learning from direct customer testing is tacit and compounding — it cannot be transferred through reports, making founder-led discovery non-delegable.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2664,6 +2672,7 @@ Generated on 2026-04-04 | 3526 actionable insights
 - [INS-260403-A65D] Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
 - [INS-260403-88E8] Smart investors at early stage care about the problem and product, not revenue models they expect to change three times.
 - [INS-260403-D5F2] Investors discard vague descriptions as boilerplate; narrow concrete ones give them a working mental model to build on.
+- [INS-260403-ABBB] Fundraising damages startups primarily by becoming the top idea in the founder's mind, starving product work of background processing cycles.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2958,6 +2967,7 @@ Generated on 2026-04-04 | 3526 actionable insights
 - [INS-260403-5F44] Innovation should live in every job rather than be siloed into a dedicated department or role.
 - [INS-260403-4CD0] Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
 - [INS-260403-65C3] When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
+- [INS-260403-F75F] Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3696,6 +3706,7 @@ Generated on 2026-04-04 | 3526 actionable insights
 - [INS-260403-63E2] Rank hypotheses by how catastrophically wrong you could be, then test the most dangerous ones first.
 - [INS-260403-260B] Validate that the problem exists and matters before testing whether your solution addresses it.
 - [INS-260403-113D] Separate customer observation from solution design by temporarily forgetting what you offer.
+- [INS-260403-CBC7] Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

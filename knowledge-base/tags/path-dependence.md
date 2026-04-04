@@ -1,5 +1,6 @@
 # Tag: path-dependence
 
+- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.
 - `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
@@ -35,4 +36,3 @@
 - `INS-260330-8D99` Photosynthesis is 'complicated, inefficient and confusing' yet has dominated Earth's energy economy for 450 million years because it shipped first.
 - `INS-260330-C7CB` The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
-- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.

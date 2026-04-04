@@ -1,6 +1,7 @@
 # Tag: silicon-valley
 
 - `INS-260322-D58A` Synthetic peptides beyond GLP-1s are spreading through tech culture using the same early-adopter logic as beta-testing software — willingness to accept bugs in exchange for frontier access.
+- `INS-260324-27E2` Before AI it was big data, before that crypto/web3, before that VR/AR, before that IoT/wearables — Silicon Valley recycles the same pump-and-dump playbook with a new technology name every 3-5 years.
 - `INS-260324-861B` Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
 - `INS-260330-DD63` Innovation clusters geographically because innovators need complementary tech, talent, and early-adopter customers co-located.
 - `INS-260403-C381` Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration.
@@ -12,4 +13,3 @@
 - `INS-260403-0530` New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
 - `INS-260403-5BFB` Physical proximity in top tech ecosystems multiplies startup outcomes 3-7X through compounding network density effects.
 - `INS-260403-6428` Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.
-- `INS-260324-27E2` Before AI it was big data, before that crypto/web3, before that VR/AR, before that IoT/wearables — Silicon Valley recycles the same pump-and-dump playbook with a new technology name every 3-5 years.

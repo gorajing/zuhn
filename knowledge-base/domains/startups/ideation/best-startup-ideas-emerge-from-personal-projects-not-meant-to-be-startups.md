@@ -53,8 +53,8 @@ related:
   - INS-260327-4DDE
   - INS-260327-D5CC
   - PRI-260328-59DC
-  - INS-260328-6E7A
   - INS-260328-A9D2
+  - INS-260329-AA30
 ---
 Apple, Google, and Facebook all began as personal projects — Wozniak wanted to build a computer, Larry and Sergey wanted better search, Zuckerberg wanted an online student directory. None were conceived as startups. Paul Graham argues this pattern is not coincidental: when you build for yourself, your unconscious instincts about what's interesting are better than your conscious ideas about what would be a good company.
 

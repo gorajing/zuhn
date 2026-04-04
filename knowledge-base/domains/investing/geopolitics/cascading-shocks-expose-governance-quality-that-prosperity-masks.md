@@ -54,10 +54,10 @@ stance: >-
   mask.
 related:
   - INS-260330-0BCC
+  - INS-260403-F75F
   - PRI-260323-1CF9
   - INS-260325-9A0F
   - PRI-260323-9D46
-  - INS-260327-5E40
 evidence:
   - id: INS-260325-9A0F
     type: TRANSFERS_TO

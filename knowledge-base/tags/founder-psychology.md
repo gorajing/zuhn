@@ -1,8 +1,8 @@
 # Tag: founder-psychology
 
+- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260329-C36D` The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
-- `INS-260403-2F77` Successfully raising once miscalibrates founders into overestimating their ability to raise again under fundamentally different conditions.
 - `INS-260330-D644` Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260403-E3E6` Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
@@ -12,6 +12,13 @@
 - `INS-260329-5412` Sadness and anxiety are distinct emotional states with opposite causes and opposite solutions — knowledge for sadness, decision for anxiety.
 - `INS-260327-7FDA` If you can quit, you should. If you literally cannot stop yourself from continuing, that's your signal to keep going.
 - `INS-260327-5B30` Check with your investors before assuming they want you to keep grinding on a failing idea.
+- `INS-260323-4AF5` Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.
+- `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
+- `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
+- `INS-260330-206B` Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
+- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
+- `INS-260403-0821` What stops people from starting companies is the crushing weight of responsibility, not financial risk or long hours.
+- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260328-0540` Ask yourself: what are the three things in my business that give me a stomach ache? Not pop problems or things from Twitter — the real ones.
 - `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
 - `INS-260328-80E7` Before any advice session, founders should define their goal: am I here for answers to specific questions, or do I need to talk through my feelings — both are valid but require different meetings.
@@ -24,13 +31,6 @@
 - `INS-260329-E0DE` Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
 - `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260329-6117` The most damaging limits are the ones you don't know you have because you never think to question them.
-- `INS-260323-4AF5` Musk-type founders are literally addicted to intensity -- when things calm down, they manufacture new crises not out of dysfunction but because surge mode is how they create maximum value.
-- `INS-260329-11AB` The social skills that help you fit in — reading consensus, calibrating to group opinion — actively work against generating unique startup ideas.
-- `INS-260330-5EB6` Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
-- `INS-260330-206B` Founders must maintain dual consciousness—optimism about the long-term vision alongside paranoid clarity about current existential risks.
-- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
-- `INS-260403-0821` What stops people from starting companies is the crushing weight of responsibility, not financial risk or long hours.
-- `INS-260329-B0F4` The beliefs you don't even think to question — not the ones you debate — are what truly limit your potential.
 - `INS-260330-B09B` Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
 - `INS-260403-27AC` Rejecting acquisition offers correlates with outsized outcomes because it selects for ambitious, conviction-driven founders.
 - `INS-260328-B57E` Do not be discouraged by others' growth, but do not accept slow growth either — better tools mean you should be going faster than before.

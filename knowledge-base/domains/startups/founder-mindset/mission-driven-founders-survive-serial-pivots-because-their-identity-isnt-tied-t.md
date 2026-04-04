@@ -56,7 +56,6 @@ related:
   - INS-260327-1AD8
   - INS-260327-DC0B
   - INS-260323-DA91
-  - INS-260327-0053
 stance: >-
   Founders who define themselves by a life mission rather than a specific
   product idea can pivot repeatedly without existential crisis.

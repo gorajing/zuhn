@@ -47,10 +47,10 @@ stance: >-
   valuable than sophisticated modeling or analysis.
 related:
   - INS-260330-FC16
-  - INS-260330-E606
   - INS-260330-31A9
+  - INS-260330-E606
   - INS-260330-06CD
-  - INS-260330-F8E7
+  - INS-260403-4050
 evidence:
   - id: INS-260330-06CD
     type: TRANSFERS_TO

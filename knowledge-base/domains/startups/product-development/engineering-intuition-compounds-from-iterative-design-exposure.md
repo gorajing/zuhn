@@ -50,7 +50,6 @@ stance: >-
   tool that develops only through extensive hands-on iteration, not from theory
   alone.
 related:
-  - INS-260330-B882
   - INS-260330-D1A1
   - INS-260329-D357
   - INS-260330-2F13

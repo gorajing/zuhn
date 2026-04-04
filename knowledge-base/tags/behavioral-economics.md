@@ -10,3 +10,4 @@
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
 - `INS-260329-B011` People who stay poor consistently choose comfort today and push pain to tomorrow, then are surprised when today becomes yesterday's tomorrow and the deferred pain arrives.
 - `INS-260327-A75B` Each individual failure is less painful than expected, but everything is collectively more painful than expected; this mismatch creates opportunity for entrepreneurs.
+- `INS-260403-CBC7` Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.

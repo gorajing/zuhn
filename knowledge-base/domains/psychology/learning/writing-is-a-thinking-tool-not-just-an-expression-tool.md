@@ -51,9 +51,9 @@ related:
   - INS-260325-7B58
   - INS-260327-E7B8
   - INS-260330-2B3F
-  - INS-260330-19F1
   - INS-260402-7999
   - INS-260402-89DE
+  - INS-260402-F853
 ---
 Paul Graham argues that the act of writing is fundamentally a thinking process, not merely an expression of already-formed thoughts. Half the ideas in any essay emerge during writing itself, because committing to specific words forces you to confront vagueness, incompleteness, and flaws that remain invisible in purely mental reasoning.
 

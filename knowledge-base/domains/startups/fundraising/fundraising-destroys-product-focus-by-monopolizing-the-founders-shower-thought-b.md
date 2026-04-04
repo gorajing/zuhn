@@ -45,10 +45,10 @@ stance: >-
 related:
   - INS-260325-809A
   - INS-260324-62A8
+  - INS-260403-ABBB
   - INS-260326-291C
+  - INS-260403-9F5A
   - PRI-260323-C49D
-  - PRI-260324-12CF
-  - INS-260403-498A
   - INS-260403-21A5
 ---
 Graham identifies a specific mechanism for why fundraising is so destructive: at any given time, founders have one dominant problem that occupies their background processing — what they think about in the shower, falling asleep, walking around. When fundraising begins, investors become that dominant problem, displacing the product. This isn't about calendar time spent in meetings; it's about the total hijacking of ambient cognition that normally generates product insights. Ramen profitability lets founders choose when to fundraise, picking moments when they're not in the middle of critical product work, and potentially not caring whether the round closes — which paradoxically makes it close faster.

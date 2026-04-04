@@ -47,8 +47,8 @@ related:
   - INS-260327-32B8
   - INS-260403-8D8D
   - INS-260403-2457
+  - INS-260403-ABBB
   - INS-260324-62A8
-  - INS-260327-CFD5
   - INS-260403-2FC3
 stance: OpenAI started as a research lab with no product plans
 ---

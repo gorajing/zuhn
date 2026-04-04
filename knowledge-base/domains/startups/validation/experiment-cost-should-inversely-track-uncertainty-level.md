@@ -50,8 +50,8 @@ related:
   - INS-260403-FFEA
   - INS-260325-E84D
   - INS-260325-55D8
+  - INS-260403-4050
   - INS-260403-B1F2
-  - INS-260330-63DD
 ---
 Large companies habitually treat innovation as placing big bets — funding expensive pilot programs or building full prototypes before validating core assumptions. This approach is backwards: when uncertainty is highest, the probability of being wrong is also highest, so expensive experiments produce expensive failures.
 

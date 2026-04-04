@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 182 insights
+> 183 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -70,6 +70,7 @@
 - `INS-260328-3959` [high] A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
 - `INS-260402-EA72` [high] Fundraising typically consumes months of a startup's most critical early period, and investors don't recognize the damage their indecision causes.
 - `INS-260403-2B6E` [high] Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
+- `INS-260403-ABBB` [high] Fundraising damages startups primarily by becoming the top idea in the founder's mind, starving product work of background processing cycles.
 - `INS-260403-0551` [high] No matter how strong your growth, never treat fundraising as guaranteed — always have a written plan B specifying exactly what you'll cut and when you'll switch.
 - `INS-260403-AA6A` [high] A near-100% fundraising rate after Demo Day likely means the accelerator is selecting too conservatively and missing outliers.
 - `INS-260330-855A` [high] YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.

@@ -49,11 +49,11 @@ stance: >-
   persists in complex systems is what cannot easily be destroyed, not what is
   theoretically optimal.
 related:
+  - INS-260403-52DB
   - PRI-260323-0F93
   - INS-260329-9010
   - INS-260402-3C79
   - INS-260326-2C4E
-  - PRI-260324-12CF
   - INS-260329-F4CD
 evidence:
   - id: INS-260329-9010

@@ -48,10 +48,10 @@ stance: >-
   other neuroscience problems.
 related:
   - INS-260325-6BDE
+  - INS-260403-BC89
   - INS-260330-A3AF
   - INS-260330-F399
   - INS-260325-29D5
-  - PRI-260403-88F5
   - INS-260321-AACC
   - INS-260403-7F97
 evidence:

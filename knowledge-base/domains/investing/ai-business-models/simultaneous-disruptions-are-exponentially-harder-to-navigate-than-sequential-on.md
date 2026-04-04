@@ -48,11 +48,11 @@ stance: >-
   competition, autonomy, affordability) face exponentially harder strategic
   decisions than those dealing with disruptions sequentially.
 related:
+  - INS-260403-52DB
   - INS-260322-88C3
   - INS-260327-6900
   - INS-260330-C825
   - INS-260327-DD1D
-  - INS-260323-BC61
 evidence:
   - id: INS-260322-88C3
     type: SUPPORTS

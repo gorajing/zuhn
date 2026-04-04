@@ -4,4 +4,5 @@
 - `INS-260329-812E` Incoming messages feel obligatory but are actually requests — recognizing this eliminates the guilt of not replying.
 - `INS-260329-50C0` 24 short chapters across 13 hours creates frequent completion signals that sustain momentum through long learning journeys.
 - `INS-260322-71E4` Your total capacity to focus resets each day; every input (email, podcast, notification) you let in takes permanent space until the next reset — so guard it aggressively.
+- `INS-260403-3756` Money worries and disputes hijack your top mental slot with unusual effectiveness because they feel urgent and engaging but produce no creative output.
 - `INS-260325-8EED` The Dutch practice of niksen — three minutes of staring out a window or watching trees — resets cognitive overload more effectively than pushing through fatigue.

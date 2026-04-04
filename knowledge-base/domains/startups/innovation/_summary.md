@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 56 insights
+> 57 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
@@ -35,6 +35,7 @@
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
 - `INS-260403-B4F1` [high] All breathable oxygen on Earth is a waste byproduct of photosynthesis's water-splitting step, suggesting that the most transformative outputs often emerge as side effects rather than goals.
+- `INS-260403-F75F` [high] Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260403-FAD8` [high] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
 - `INS-260403-8CDD` [high] Turnaround plans fix execution problems but cannot address fundamental business model expiration.
 - `INS-260403-CACE` [high] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.

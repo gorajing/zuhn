@@ -58,7 +58,6 @@ related:
   - INS-260403-FFEA
   - INS-260323-2FC3
   - PRI-260323-2FEE
-  - INS-260403-D379
 evidence:
   - id: INS-260329-8226
     type: TRANSFERS_TO

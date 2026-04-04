@@ -1,5 +1,6 @@
 # Tag: optionality
 
+- `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260402-40D7` Avoid locking into fixed life plans early; instead maximize the range of future options available to you.
 - `INS-260403-803A` When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
@@ -9,4 +10,3 @@
 - `INS-260403-144A` Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 - `INS-260403-0406` Knowing what you want to do at age 16 seems impressive but usually means living a life chosen by someone with terrible information.
 - `INS-260403-81D4` You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
-- `INS-260403-4717` Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.

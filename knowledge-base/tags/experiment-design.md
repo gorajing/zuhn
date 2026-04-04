@@ -1,6 +1,7 @@
 # Tag: experiment-design
 
 - `INS-260403-8D87` Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
+- `INS-260403-4050` Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
 - `INS-260403-1BCC` Replace opinion-gathering with experiments that require customers to sacrifice something real — time, money, or reputation.
 - `INS-260403-2824` Ensure your call-to-action directly measures what your hypothesis actually claims.
 - `INS-260403-27AA` Change only one variable per A/B test to maintain causal attribution.

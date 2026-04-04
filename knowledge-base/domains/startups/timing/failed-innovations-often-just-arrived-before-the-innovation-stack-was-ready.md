@@ -49,10 +49,10 @@ stance: >-
   existing yet, and succeed when retried after the supporting stack matures.
 related:
   - INS-260327-7DAA
+  - INS-260403-F75F
   - INS-260403-0372
   - INS-260323-19A8
   - INS-260403-AA8F
-  - PRI-260403-3906
   - INS-260403-FB8E
 ---
 Naval's observation about 1999 dot-com failures perfectly illustrates this: Webvan, Kozmo, and Pets.com all crashed, but Instacart, Postmates, DoorDash, and Chewy succeeded with essentially the same ideas a decade later. The difference wasn't the idea — it was that smartphones, GPS, mobile payments, and logistics infrastructure now existed as 'shoulders of giants' to stand on.

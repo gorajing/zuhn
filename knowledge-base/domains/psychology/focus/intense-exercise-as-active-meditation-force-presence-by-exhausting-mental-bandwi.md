@@ -44,10 +44,10 @@ resolutions:
     yoga — as long as it demands full mental engagement.
 related:
   - INS-260330-95A5
+  - INS-260403-3756
   - INS-260323-099F
+  - INS-260403-BC89
   - INS-260330-BCC7
-  - INS-260327-5B13
-  - INS-260325-A66E
 stance: >-
   Working out hard enough that you cannot simultaneously worry is a form of
   active meditation that forces a high-vibrational present state.

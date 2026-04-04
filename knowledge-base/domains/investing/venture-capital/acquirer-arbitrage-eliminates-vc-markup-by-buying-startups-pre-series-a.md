@@ -51,9 +51,9 @@ related:
   - INS-260403-4E71
   - INS-260328-195E
   - INS-260402-8424
+  - INS-260403-ABBB
   - INS-260403-4904
   - INS-260402-CCF4
-  - PRI-260403-26B9
 ---
 Graham identifies a devastating competitive threat to VCs: large tech companies realized they could acquire startups at the earliest stage, before VCs inflate their price. Google explicitly told startups at Startup School to 'bring us your startups early'—they prefer to acquire at the point where a Series A would normally happen. The acquirers don't need what VCs add (brand recognition, HR departments); they want the concentrated software and developers that define an early-stage startup.
 

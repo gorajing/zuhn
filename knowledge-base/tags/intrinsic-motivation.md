@@ -16,9 +16,9 @@
 - `INS-260330-633F` Passion ignites the rocket but burns out fast; curiosity is the propellant that keeps you in orbit for decades.
 - `INS-260329-764E` Focusing on the act of creating rather than follower counts prevents the motivational collapse that kills most content efforts.
 - `INS-260403-A14B` Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
+- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260329-36FF` Work created from abundance rather than scarcity resonates differently because people can feel the intention behind it.
 - `INS-260403-862E` Genuine problem interest predicts startup success better than ambition for money or status.
 - `INS-260327-3049` When making decisions, maximize the sci-fi nature of your life — this counterintuitive optimization function led to co-inventing CRISPR.
 - `INS-260403-4431` Rare genuine interest in commercially valuable but unappealing work creates a natural monopoly on motivation and persistence.
-- `INS-260403-E365` Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.

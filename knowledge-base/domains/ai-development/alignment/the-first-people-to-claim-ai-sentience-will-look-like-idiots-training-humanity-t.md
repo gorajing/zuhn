@@ -60,7 +60,6 @@ related:
   - INS-260321-1F9F
   - INS-260328-031A
   - INS-260330-1B74
-  - INS-260403-2824
 stance: >-
   Yudkowsky warns of a 'boiling the frog' dynamic where early false sentience
   claims (Blake Lemoine) teach the public to dismiss all sentience signal...

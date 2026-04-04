@@ -248,6 +248,7 @@ Generated on 2026-04-04 | 2421 sources
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
 | 1,000,000 | blog | 5 | 2026-03-31 |
 | 12 Financial Models📊, Claude Opus 4.6🤖, AI Dominates🔥 | blog | 5 | 2026-03-30 |
+| 12 Mistakes To Avoid When Turning An Idea Into A Business | blog | 5 | 2026-03-31 |
 | 12 Ruthless CEO Emails Every Founder Should Study | blog | 5 | 2026-03-30 |
 | 18 Lessons from Harry Stebbings That Every Founder Should Know | blog | 5 | 2026-03-30 |
 | 2022 Annual Letter | blog | 5 | 2026-03-30 |
@@ -409,6 +410,7 @@ Generated on 2026-04-04 | 2421 sources
 | Ports, Rails, Roads, and Orbits | blog | 5 | 2026-03-31 |
 | PropTech: A Massive Opportunity We’re Seeing | blog | 5 | 2026-03-31 |
 | Quotes | blog | 5 | 2026-03-31 |
+| Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 5 | 2026-03-30 |
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Real Estate's Hidden AI Revolution | blog | 5 | 2026-03-31 |
 | Record Low Crime Rates Are Real, Not Just Reporting Bias Or Improved Medical Care | blog | 5 | 2026-03-30 |
@@ -491,6 +493,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Story of Replit: From Internet Cafes to AI Sovereignty | blog | 5 | 2026-03-30 |
 | The Submarine | blog | 5 | 2026-03-31 |
 | The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
+| The Top Idea in Your Mind | blog | 5 | 2026-03-31 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
 | The Ultimate Guide to Writing Powerful AI Prompts | blog | 5 | 2026-03-30 |
 | The VC Math Problem📊, Inside a16z’s Speedrun💸, The 5% Rule for AGI🧠 | blog | 5 | 2026-03-30 |
@@ -523,6 +526,7 @@ Generated on 2026-04-04 | 2421 sources
 | What I've Learned from Users | blog | 5 | 2026-03-31 |
 | What Startups Are Really Like | blog | 5 | 2026-03-31 |
 | What the Bubble Got Right | blog | 5 | 2026-03-31 |
+| What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook | blog | 5 | 2026-03-30 |
 | What Venture Capitalists Look for in Startups | blog | 5 | 2026-03-30 |
 | What You Can't Say | blog | 5 | 2026-03-31 |
 | What You'll Wish You'd Known | blog | 5 | 2026-03-31 |
@@ -815,6 +819,7 @@ Generated on 2026-04-04 | 2421 sources
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 4 | 2026-03-31 |
+| Business Model Evolution Using the Portfolio Map | blog | 4 | 2026-03-31 |
 | Business Model Generation Book Summary | Strategyzer | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 1: Manage The Existing Business | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 4 | 2026-03-31 |
@@ -854,6 +859,7 @@ Generated on 2026-04-04 | 2421 sources
 | It's Charisma, Stupid | blog | 4 | 2026-03-31 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
+| Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 4 | 2026-03-30 |
 | Life is Short | blog | 4 | 2026-03-31 |
 | LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 4 | 2026-03-30 |
 | Made in USA | blog | 4 | 2026-03-31 |
@@ -1822,7 +1828,6 @@ Generated on 2026-04-04 | 2421 sources
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
 | $1,000 Head Start For America's Youth | blog | 0 | 2026-03-30 |
 | 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 0 | 2026-03-30 |
-| 12 Mistakes To Avoid When Turning An Idea Into A Business | blog | 0 | 2026-03-31 |
 | 121 Startups Fundraising Right Now (With Pitch Decks) | Exclusive Deal Flow for 2025 | blog | 0 | 2026-03-30 |
 | 13 Essential Strategyzer Links On Organizational Culture | blog | 0 | 2026-03-31 |
 | 14 Essential Links For Working With The Business Model Canvas | blog | 0 | 2026-03-31 |
@@ -1979,7 +1984,6 @@ Generated on 2026-04-04 | 2421 sources
 | Building a World-Class Innovation Culture: Bayer | blog | 0 | 2026-03-31 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
-| Business Model Evolution Using the Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
 | Business Model Innovation and Change | blog | 0 | 2026-03-31 |
 | Business Model Innovation in Existing Companies | blog | 0 | 2026-03-31 |
@@ -2151,7 +2155,6 @@ Generated on 2026-04-04 | 2421 sources
 | Learn With Me | blog | 0 | 2026-03-30 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Learning from Founders | blog | 0 | 2026-03-31 |
-| Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 0 | 2026-03-30 |
 | Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 0 | 2026-03-30 |
@@ -2199,7 +2202,6 @@ Generated on 2026-04-04 | 2421 sources
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RAQs | blog | 0 | 2026-03-31 |
-| Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 0 | 2026-03-30 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
 | Relentlessly Resourceful | blog | 0 | 2026-03-31 |
 | Resilient Businesses Compete Beyond Technology, Product & Price | blog | 0 | 2026-03-31 |
@@ -2301,7 +2303,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Shape of the Essay Field | blog | 0 | 2026-03-31 |
 | The shape of the multipolar world is a little clearer | blog | 0 | 2026-03-30 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
-| The Top Idea in Your Mind | blog | 0 | 2026-03-31 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |
 | The Trouble with the Segway | blog | 0 | 2026-03-31 |
 | The Two Kinds of Moderate | blog | 0 | 2026-03-31 |
@@ -2357,7 +2358,6 @@ Generated on 2026-04-04 | 2421 sources
 | What Makes a Good Product-Market Fit?🎯, Global Markets Snapshot📊, GDP Growth Projections📈 | blog | 0 | 2026-03-30 |
 | What Microsoft Is this the Altair Basic of? | blog | 0 | 2026-03-31 |
 | What to expect when you’re expecting (dilution)  | blog | 0 | 2026-03-30 |
-| What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook | blog | 0 | 2026-03-30 |
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 0 | 2026-03-31 |
 | What We Look for in Founders | blog | 0 | 2026-03-31 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |

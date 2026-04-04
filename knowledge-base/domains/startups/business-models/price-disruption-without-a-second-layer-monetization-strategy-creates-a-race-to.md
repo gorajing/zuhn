@@ -50,7 +50,7 @@ related:
   - INS-260403-34A6
   - INS-260403-FF57
   - INS-260403-E1EB
+  - INS-260403-52DB
   - PRI-260328-A4AC
-  - PRI-260328-8284
 ---
 When AI dramatically lowers the cost of delivering a service, every competitor gains the same cost advantage, turning the market into a price war. The initial land-grab works, but without a second monetization layer—upstream marketplace fees, embedded fintech, or performance-based royalties—the startup has no structural defense against undercutting. The strategic move is to use low price as the wedge to capture a control point, then monetize the adjacent value that only your position in the workflow enables. This is why bundling multiple AI 'jobs' or embedding financial services on top of a low-cost core offering creates compounding defensibility that pure price competition cannot.

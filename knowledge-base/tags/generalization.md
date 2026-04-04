@@ -6,5 +6,5 @@
 - `INS-260330-CAE6` Networks can memorize randomly-labeled datasets but the training curve is distinctly slower and more linear than when learning genuinely structured data.
 - `INS-260329-9524` Splitting data into train/validate/test sets prevents models from memorizing answers instead of learning patterns.
 - `INS-260327-F417` Wayve deployed in Tokyo within 4 months of first driving there because their foundation model generalizes across countries and vehicles, while AV 1.0 companies need to build HD maps for each new city.
-- `INS-260330-09AB` For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.
 - `INS-260325-B61B` After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
+- `INS-260330-09AB` For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.

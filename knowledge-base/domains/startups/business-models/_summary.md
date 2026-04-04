@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 161 insights
+> 164 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -15,6 +15,7 @@
 - `INS-260403-CA57` [high] Plot every business model on profitability vs. disruption risk to surface hidden vulnerabilities in seemingly healthy businesses.
 - `INS-260403-E642` [high] Innovating the business model itself—not just the product—is the primary driver of durable market disruption.
 - `INS-260403-3F10` [high] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
+- `INS-260403-0A97` [high] Business models progress through predictable stages from high-risk exploration to low-risk exploitation, and mapping this journey enables better strategic decisions.
 - `INS-260403-7E18` [high] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
 - `INS-260325-B8CB` [high] BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
 - `INS-260330-C7C2` [high] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
@@ -103,6 +104,8 @@
 - `INS-260329-72A5` [high] A 10x price increase on the same product can yield a 31x increase in net profit because fixed costs remain constant.
 - `INS-260329-8F7C` [high] Allen unlocked 4x pricing power by running pricing surveys and repackaging its charging model, not by changing the product itself.
 - `INS-260322-5F87` [high] Private companies and individuals funding police technology (less than 1% of police budgets) can transform public safety because city budgets are too rigid and debt-laden to make marginal tech investments.
+- `INS-260403-9F5A` [high] Entrepreneurs who obsess over product while neglecting repeatable, scalable, and profitable business model design build ventures that survive only as long as investor funding lasts.
+- `INS-260403-F62E` [high] Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
 - `INS-260327-B815` [high] Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights r
 - `INS-260327-E52A` [high] Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
 - `INS-260403-0CA9` [high] Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.

@@ -44,7 +44,6 @@ stance: >-
   produces more confusion and suffering than clarity, because some questions
   have no analytical solutions.
 related:
-  - INS-260323-8266
   - INS-260323-D7D0
   - INS-260325-3589
   - INS-260327-F014

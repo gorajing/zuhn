@@ -43,9 +43,9 @@ stance: >-
   market is 50x larger than the global software market.
 related:
   - INS-260330-4E01
+  - INS-260403-F62E
   - PRI-260328-8317
   - INS-260323-BF81
   - INS-260325-ADF5
-  - PRI-260328-D68F
 ---
 SaaS captured tool value—charging ~$1,000/person/year to make a $100K/year worker more productive. AI can capture the labor itself, not just the tool margin. At the macro level, global software spend is ~$1T while global labor is $50-60T. This reframing matters for startup positioning: companies that pitch 'we do the work' rather than 'we help you do the work' are playing for a fundamentally larger prize. Jasper's trajectory illustrates the danger of the tool framing—$80M ARR collapsed when generalist AI made the tool layer commoditized, forcing a pivot to agentic labor framing.

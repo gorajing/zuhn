@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 298 insights
+> 300 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -123,6 +123,7 @@
 - `INS-260327-47BA` [high] Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
 - `INS-260329-6BE8` [high] Chasing new opportunities instead of deepening existing ones is the main reason entrepreneurs stay poor.
 - `INS-260329-58E7` [high] Ramsey's breakthrough from tactical hustle to $300M came when MBAs taught him strategic thinking in exchange for him teaching them execution.
+- `INS-260403-802D` [high] The learning from direct customer testing is tacit and compounding — it cannot be transferred through reports, making founder-led discovery non-delegable.
 - `INS-260327-D9C0` [high] You can only override one or two defaults in life at a time, but each override requires absolute full force because the system resists change.
 - `INS-260329-723A` [high] Even businesses built around your passion devolve into mostly non-passion work as they scale.
 - `INS-260329-E2D0` [high] Replace the passive/active income binary with a single metric: your effective dollars per hour across all activities.
@@ -258,6 +259,7 @@
 - `INS-260325-A272` [medium] Not knowing an industry is not a liability when you can identify a solvable problem — the fearless willingness to learn while building creates outsider advantages.
 - `INS-260323-2627` [medium] Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
 - `INS-260327-6CB7` [medium] Philosophy gives founders the framework to think about problems on a very deep level — ontology is first-principles thinking in philosophy.
+- `INS-260403-36C1` [medium] Forgetting disputes signals that you've successfully kept them from occupying your top mental slot — a practical form of cognitive hygiene.
 - `INS-260326-8E6D` [medium] Kids who learn that the brain grows in response to challenge are much more likely to persevere after failure because they don't see failure as permanent.
 - `INS-260322-5D22` [medium] Building networks where people personally know and trust each other's character creates economic infrastructure that bypasses institutional gatekeeping in the AI era.
 - `INS-260329-9A5A` [medium] People aren't inconsistent because they lack discipline — they're inconsistent because they misread difficulty as a sign to pivot.

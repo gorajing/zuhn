@@ -16,6 +16,7 @@
 - `INS-260403-08E6` Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - `INS-260403-C737` Always follow customer interviews with cheap experiments that observe actual behavior, because what people say and what they do diverge systematically.
 - `INS-260403-113D` Separate customer observation from solution design by temporarily forgetting what you offer.
+- `INS-260403-CBC7` Customer interviews reveal preferences but only call-to-action tests (pre-orders, sign-ups, payments) reliably predict real demand.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260403-6714` Asking 'why' repeatedly during interviews uncovers the real motivations behind customer behavior that surface answers conceal.
 - `INS-260403-E816` Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.

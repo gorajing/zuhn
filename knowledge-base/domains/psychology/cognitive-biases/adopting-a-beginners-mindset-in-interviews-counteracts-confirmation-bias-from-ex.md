@@ -58,6 +58,7 @@ related:
   - INS-260403-C737
   - INS-260327-89C7
   - INS-260325-E84D
+  - INS-260403-CBC7
   - INS-260403-6714
 ---
 The ground rule to 'adopt a beginner's mindset' is really a debiasing technique for confirmation bias. Once a founder has a hypothesis about their customer's problem, every interview becomes an unconscious search for confirming evidence. Leading questions get asked, disconfirming signals get rationalized away, and ambiguous statements get interpreted favorably.

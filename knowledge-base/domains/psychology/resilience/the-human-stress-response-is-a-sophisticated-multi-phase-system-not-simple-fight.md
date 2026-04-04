@@ -60,7 +60,6 @@ stance: >-
   resilient while some develop PTSD.
 related:
   - INS-260325-FC52
-  - INS-260323-8266
   - INS-260323-34B7
   - INS-260325-5F3C
   - PRI-260327-0AA2
@@ -69,6 +68,7 @@ related:
   - PRI-260328-92EF
   - INS-260330-383F
   - INS-260330-DC78
+  - INS-260330-E349
 evidence:
   - id: INS-260327-1DAB
     type: EXTENDS
