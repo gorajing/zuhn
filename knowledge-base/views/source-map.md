@@ -7,7 +7,7 @@ Generated on 2026-04-04 | 2421 sources
 | 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 211 | 2026-03-31 |
 | Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 191 | 2026-03-31 |
 | How to Do Great Work | blog | 125 | 2026-03-31 |
-| February 2025 Startups Raising Capital | blog | 32 | 2026-03-30 |
+| February 2025 Startups Raising Capital | blog | 36 | 2026-03-30 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -995,6 +995,7 @@ Generated on 2026-04-04 | 2421 sources
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 4 | 2026-03-30 |
 | Schlep Blindness | blog | 4 | 2026-03-31 |
 | Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 4 | 2026-03-30 |
+| Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 4 | 2026-03-30 |
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 4 | 2026-03-30 |
 | Shameless Guesses, Not Hallucinations | blog | 4 | 2026-03-30 |
 | Six Principles for Making New Things | blog | 4 | 2026-03-31 |
@@ -2283,7 +2284,6 @@ Generated on 2026-04-04 | 2421 sources
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
 | See Randomness | blog | 0 | 2026-03-31 |
-| Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 0 | 2026-03-30 |
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
 | Shield AI Air Force Deal, Google's TurboQuant, and Meta's Brain-Predictive AI | blog | 0 | 2026-03-30 |
