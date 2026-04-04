@@ -4,6 +4,8 @@
 - `INS-260320-D58E` An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260320-9935` The 0-to-175K growth came from automating content research and ideation, not from automating content creation itself -- the competitive advantage is knowing what to create, not how to create it.
 - `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
+- `INS-260323-CD03` Everyone wants media coverage, which means holding a camera is a universal access pass — the journalist is a portal for exposure that gives front-row seats to history as it unfolds.
+- `INS-260321-AACC` MrBeast spent a decade obsessing over one question: what makes content enjoyable for anyone regardless of geography? The answer is universal human experiences.
 - `INS-260329-127F` Multi-year daily content output is the only reliable audience-building strategy; most people quit too early.
 - `INS-260330-CDE1` Shapiro's practice of maintaining a public list of his own bad takes, combined with deliberately holding positions his audience dislikes, creates a structural defense against the audience capture that degrades most media platforms.
 - `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
@@ -15,5 +17,3 @@
 - `INS-260322-FFF6` The cost of reaching audiences on social platforms is zero for distribution — an unprecedented asymmetry that most businesses fail to exploit.
 - `INS-260327-CA1C` Verticalized content creation—being THE authority in one domain—is as viable as verticalized SaaS.
 - `INS-260327-4669` Insta360 discovered that 70%+ of action camera users had content sitting on hard drives collecting dust because editing was too hard -- investing in mobile-first editing software became their primary competitive moat over GoPro.
-- `INS-260323-CD03` Everyone wants media coverage, which means holding a camera is a universal access pass — the journalist is a portal for exposure that gives front-row seats to history as it unfolds.
-- `INS-260321-AACC` MrBeast spent a decade obsessing over one question: what makes content enjoyable for anyone regardless of geography? The answer is universal human experiences.

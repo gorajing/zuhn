@@ -49,7 +49,6 @@ stance: >-
   First-mover lock-in on a suboptimal solution often beats waiting for a perfect
   one, because early dominance compounds even when the core mechanism is flawed
 related:
-  - INS-260330-2BF4
   - INS-260330-8B93
   - INS-260330-3FCF
   - INS-260330-6ECA

@@ -50,7 +50,6 @@ stance: >-
   The most transformative innovations in biological history were unintended
   byproducts of processes optimized for something else entirely
 related:
-  - INS-260325-0895
   - INS-260327-D070
   - INS-260330-956F
   - INS-260330-BA7F

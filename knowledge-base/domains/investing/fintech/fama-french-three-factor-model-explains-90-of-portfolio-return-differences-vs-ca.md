@@ -51,8 +51,8 @@ related:
   - INS-260323-C370
   - INS-260323-D6C7
   - INS-260330-2413
+  - INS-260403-92EB
   - INS-260330-548B
-  - INS-260323-422B
 stance: >-
   The 1993 Fama-French paper proved that adding size (SMB) and value (HML)
   factors to market beta jumps explanatory power from ~60% to ~90% of return...

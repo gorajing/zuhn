@@ -53,10 +53,10 @@ stance: >-
   rather than a rational behavior that can be discouraged.
 related:
   - INS-260403-393C
+  - INS-260403-92EB
   - INS-260329-F2E1
   - INS-260322-5745
   - INS-260327-CEE4
-  - PRI-260324-D701
 ---
 Graham compares containing parental ambition to keeping heroin out of a prison: naive solutions won't work because you're fighting one of the most powerful forces in human nature. Parents will push their scruples to the limit for their children, especially when other parents do the same. This means any credentialing system, no matter how well-designed, will eventually be gamed.
 

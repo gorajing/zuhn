@@ -44,7 +44,6 @@ stance: >-
   The number of distinct nodes in a program's abstract syntax tree is a more
   accurate measure of conceptual load than lines of code or character count.
 related:
-  - INS-260329-5ECD
   - INS-260329-7C59
   - INS-260329-F51D
   - INS-260329-500E

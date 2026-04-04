@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-D7DF
   - INS-260403-DC32
+  - INS-260403-92EB
   - INS-260328-9C16
   - INS-260330-E6B7
-  - INS-260325-EE14
 ---
 Greg McAdoo from Sequoia coined the phrase 'proxy for demand': what are people doing now, using inadequate tools, that proves they need what you're building? This bypasses the biggest investor fear at the early stage—that you've built something from a priori theories rather than observed need.
 

@@ -51,10 +51,10 @@ stance: >-
   integrated
 related:
   - INS-260330-47CF
+  - INS-260403-1636
   - INS-260330-EACA
   - INS-260330-E497
   - INS-260330-0E77
-  - INS-260330-19C3
 ---
 When RuBisCo started binding oxygen instead of CO2 (due to rising atmospheric oxygen levels it helped create), plants didn't evolve a better enzyme. Instead, they evolved photorespiration pathways, C4 carbon fixation, and CAM photosynthesis — elaborate workaround systems to manage or prevent the problem. The cost of replacing a deeply integrated core component exceeded the cost of compensating for its flaws.
 

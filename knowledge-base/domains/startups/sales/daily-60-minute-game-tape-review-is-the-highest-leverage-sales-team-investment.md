@@ -55,7 +55,6 @@ related:
   - INS-260329-DF36
   - INS-260329-100D
   - INS-260329-74F9
-  - INS-260330-87BD
 evidence:
   - id: INS-260322-76B5
     type: CONTRADICTS

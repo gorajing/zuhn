@@ -51,6 +51,7 @@ related:
   - INS-260330-84F4
   - INS-260330-A949
   - INS-260330-548B
+  - INS-260403-B7B7
 ---
 The comb-over metaphor reveals a deep principle about gradualness: small incremental changes compound into outcomes that would seem impossible (or insane) if proposed all at once. This same mechanism works constructively — most good software starts as a stripped-down kernel and gradually grows into a complete system. You trick yourself into creating something so grand you would never have dared to plan it.
 

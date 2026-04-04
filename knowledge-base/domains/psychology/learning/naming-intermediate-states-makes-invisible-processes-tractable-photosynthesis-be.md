@@ -55,11 +55,11 @@ stance: >-
   intermediate state receives a distinct name, because naming creates cognitive
   anchors for sequential reasoning.
 related:
+  - INS-260403-F63E
   - INS-260330-EB48
   - INS-260330-30FB
   - INS-260329-E402
   - INS-260402-4BC7
-  - INS-260403-3946
 evidence:
   - id: INS-260330-30FB
     type: EXTENDS

@@ -57,7 +57,7 @@ related:
   - INS-260403-8013
   - INS-260403-2204
   - INS-260403-047B
-  - INS-260403-41FF
+  - INS-260403-2822
 ---
 Founders resist concise descriptions because early-stage startups have many possibilities, and narrow framing feels reductive. But Paul Graham argues the calculus works in reverse: as you approach a description of something that could be anything, the information content approaches zero. Investors will discard vague statements like 'collaboratively leverage information value' as boilerplate.
 

@@ -1,6 +1,7 @@
 # Tag: demand-validation
 
 - `INS-260403-3421` Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
+- `INS-260403-92EB` Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
 - `INS-260403-53AA` Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 - `INS-260403-F4F6` Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.
 - `INS-260403-DC32` Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
