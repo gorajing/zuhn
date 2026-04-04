@@ -49,7 +49,6 @@ stance: >-
   per-purchase price evaluation.
 related:
   - INS-260323-F68A
-  - INS-260324-6C5F
   - INS-260327-0755
   - INS-260327-875C
   - INS-260404-94BB

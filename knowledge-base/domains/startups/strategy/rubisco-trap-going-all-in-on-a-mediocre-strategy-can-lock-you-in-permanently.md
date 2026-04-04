@@ -49,10 +49,10 @@ stance: >-
   optimization gain, so they compensate with volume instead of redesigning.
 related:
   - INS-260403-E796
+  - INS-260404-8A57
   - INS-260404-D452
   - INS-260404-8947
   - INS-260330-53A9
-  - INS-260403-A907
 evidence:
   - id: INS-260323-1B42
     type: SUPPORTS

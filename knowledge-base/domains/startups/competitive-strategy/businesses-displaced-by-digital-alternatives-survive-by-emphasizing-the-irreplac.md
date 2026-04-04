@@ -40,10 +40,10 @@ stance: >-
   pivoting to the social experience dimension that digital cannot replicate.
 related:
   - INS-260327-418E
+  - INS-260404-2839
   - INS-260403-D8A2
   - INS-260404-3070
   - PRI-260328-A1AA
-  - INS-260330-460D
   - INS-260327-57A4
 evidence:
   - id: INS-260330-460D

@@ -6,6 +6,7 @@
 - `INS-260329-C031` Abstract data types define behavior contracts while data structures provide implementations — the same separation that makes APIs, protocols, and plugin systems work.
 - `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
 - `INS-260404-CDD2` The electron transport chain deliberately loses energy at each of four protein complexes to produce ATP and NADPH in controlled increments — a design pattern that favors modularity and controllability over raw efficiency.
+- `INS-260404-596E` The electron transport chain converts photon energy into usable ATP through a series of progressively lower-energy steps rather than one big reaction.
 - `INS-260403-8125` Photosynthesis converts chaotic photon energy into standardized ATP/NADPH currencies before using them — a universal design pattern for managing complexity.
 - `INS-260403-7738` Photosynthesis routes energy through photons → excited electrons → proton gradients → ATP → G3P, losing energy at every step but enabling precise control at each stage.
 - `INS-260404-1CA4` The electron transport chain deliberately loses energy at each step to capture it in usable forms — a design pattern favoring reliability over theoretical efficiency.

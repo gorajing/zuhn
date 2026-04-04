@@ -47,7 +47,6 @@ stance: >-
   substance is the strongest persuasion tool in high-stakes presentations.
 related:
   - INS-260403-A290
-  - INS-260403-1B2D
   - INS-260403-22FE
   - INS-260403-B3CA
   - INS-260404-22B3

@@ -11,6 +11,7 @@
 - `INS-260325-F500` Thoreau: deliberate simplicity strips away everything that is not life — the 'loser' who chooses less experiences more.
 - `INS-260404-36D7` Costco stocks only 4,000 SKUs versus Walmart's 140,000, which makes suppliers compete fiercely for limited shelf space and accept lower margins.
 - `INS-260403-E143` Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which gives it enormous leverage because suppliers compete fiercely for the one or two slots available.
+- `INS-260404-8C84` Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each slot so valuable that suppliers compete aggressively on price and customization.
 - `INS-260403-180D` Costco stocks 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers compete on price and adapt products to Costco's specifications.
 - `INS-260404-35BB` Costco stocks only ~4,000 SKUs vs Walmart's 140,000, giving it enormous leverage because suppliers desperately want to be the one choice.
 - `INS-260403-36D8` Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.

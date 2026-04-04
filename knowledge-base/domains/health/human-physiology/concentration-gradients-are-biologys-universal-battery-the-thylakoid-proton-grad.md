@@ -53,7 +53,6 @@ stance: >-
   biological design pattern, not unique to photosynthesis, and recognizing it
   across systems reveals biology's limited toolkit
 related:
-  - INS-260325-6A2C
   - INS-260325-4996
   - PRI-260403-70D0
   - INS-260330-8A2E

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3765 actionable insights
+Generated on 2026-04-04 | 3772 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1062,6 +1062,7 @@ Generated on 2026-04-04 | 3765 actionable insights
 - [INS-260403-2AF0] Writing's superiority for idea generation comes from removing the real-time constraint that limits both speakers and listeners.
 - [INS-260403-6652] Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - [INS-260403-5CA6] Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.
+- [INS-260404-D6EE] Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1485,6 +1486,7 @@ Generated on 2026-04-04 | 3765 actionable insights
 - [INS-260404-52FC] CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
 - [INS-260404-78EB] Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
 - [INS-260404-9213] Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
+- [INS-260404-D39D] ATP synthase is powered not by photons directly but by the proton gradient plants deliberately build up across membranes.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1657,6 +1659,7 @@ Generated on 2026-04-04 | 3765 actionable insights
 - [INS-260404-22B3] Saying 'we're passionate' or 'our product is great' triggers skepticism, while behavioral confidence — specificity, pace, eye contact — builds genuine credibility.
 - [INS-260404-D672] When investors can't evaluate the tech, your own confidence becomes the largest piece of evidence they use to form an opinion.
 - [INS-260404-4F69] Never say 'we're passionate' — people ignore or penalize explicit self-praise, but they're deeply influenced by implicit confidence signals.
+- [INS-260404-C887] Show don't tell applies to confidence — saying 'we're passionate' gets you written off as a bullshitter, while demonstrating mastery creates belief.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2837,6 +2840,9 @@ Generated on 2026-04-04 | 3765 actionable insights
 - [INS-260404-DA2E] Smart investors care about the problem and solution at early stage — your business model is just guesses about stuff outside your expertise.
 - [INS-260404-8AB9] As your startup description approaches 'could be anything,' its information content approaches zero — investors discard it as boilerplate.
 - [INS-260404-3217] Investors' biggest early-stage fear is that you built from theory, not need — specific user stories and 'proxy for demand' signals directly counter this.
+- [INS-260404-B43A] Early-stage investors expect your business model to be wrong, so talking about it at length wastes time and can backfire.
+- [INS-260404-516B] Overly specific beats overly general when describing your startup to investors.
+- [INS-260404-4024] Specific user stories and proxy-for-demand evidence resolve the biggest investor objection: that nobody actually wants what you've built.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3792,6 +3798,7 @@ Generated on 2026-04-04 | 3765 actionable insights
 - [INS-260404-975A] Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
 - [INS-260404-8B1C] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
 - [INS-260404-B435] Costco's $60 membership fee filters for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
+- [INS-260404-30CA] Costco's $60 membership fee, confusing warehouse layout, and bulk-only format all filter for affluent, high-spending customers while creating loyalty through sunk-cost psychology.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

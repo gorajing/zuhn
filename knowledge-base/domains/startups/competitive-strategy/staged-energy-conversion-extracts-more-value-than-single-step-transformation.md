@@ -52,11 +52,11 @@ stance: >-
   captures significantly more total value than attempting to convert it in one
   step
 related:
-  - INS-260330-5C36
   - INS-260330-545E
   - INS-260330-4B45
   - INS-260403-D2FD
   - INS-260330-0017
+  - INS-260404-596E
   - INS-260330-2C71
   - INS-260403-6129
   - INS-260403-2918

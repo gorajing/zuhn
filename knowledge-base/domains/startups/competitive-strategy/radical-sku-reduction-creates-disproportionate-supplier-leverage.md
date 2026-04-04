@@ -48,10 +48,10 @@ stance: >-
   suppliers compete for scarce shelf positions.
 related:
   - INS-260403-0DC2
+  - INS-260404-8C84
   - INS-260403-180D
   - INS-260404-1843
   - INS-260403-887A
-  - INS-260403-DC2D
   - INS-260403-83A8
   - INS-260404-37BB
 ---

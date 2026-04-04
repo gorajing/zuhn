@@ -47,7 +47,6 @@ stance: >-
   optimization, just as plants cannot replace RuBisCo despite it failing half
   the time.
 related:
-  - INS-260330-CBF8
   - INS-260330-D385
   - INS-260330-B468
   - INS-260330-84F4
@@ -57,5 +56,6 @@ related:
   - PRI-260403-40D7
   - INS-260330-3FCF
   - INS-260404-B6E8
+  - INS-260403-E796
 ---
 RuBisCo, the most abundant protein on Earth (~40 billion tons), fails roughly half the time by binding oxygen instead of CO2, producing a toxic byproduct. Yet plants never evolved a replacement — they instead evolved elaborate workaround pathways to detoxify the byproduct. This mirrors how startups and large organizations accumulate technical debt: once a flawed architecture is deeply embedded and the entire system depends on it, teams build compensating mechanisms rather than replacing the core. The lesson for founders is that early architectural choices have outsized long-term consequences. The cost of living with a bad decision compounds, but so does the cost of replacing it — creating a trap where 'good enough early' becomes 'permanent' regardless of quality.

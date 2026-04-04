@@ -61,7 +61,6 @@ related:
   - INS-260403-B6E6
   - INS-260330-BC56
   - INS-260404-1B29
-  - INS-260403-6129
 evidence:
   - id: INS-260330-30FB
     type: TRANSFERS_TO

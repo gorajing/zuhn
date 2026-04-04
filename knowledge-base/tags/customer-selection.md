@@ -9,6 +9,7 @@
 - `INS-260404-B435` Costco's $60 membership fee filters for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 - `INS-260404-6E7B` Costco's $60 membership fee, confusing layout, and bulk quantities filter for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 - `INS-260403-C40D` Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
+- `INS-260404-30CA` Costco's $60 membership fee, confusing warehouse layout, and bulk-only format all filter for affluent, high-spending customers while creating loyalty through sunk-cost psychology.
 - `INS-260404-975A` Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
 - `INS-260403-243A` Costco's $60 membership fee and bulk-only format filter for affluent, high-spending households averaging $100K income who renew at 90%.
 - `INS-260403-9104` Costco's $60+ membership fee filters for affluent, high-spending customers while simultaneously creating sunk-cost-driven loyalty.

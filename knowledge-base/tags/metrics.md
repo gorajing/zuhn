@@ -8,8 +8,8 @@
 - `INS-260325-93A9` 65% of startups fail from co-founder interpersonal tensions yet no one tracks relationship health as a KPI — boards advise on fundraising and strategy but not the founding relationship itself.
 - `INS-260329-976E` Brand strength = influence (behavior change probability) × direction (towards/away) × reach (number of people affected).
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
-- `INS-260403-B4B9` Use your business model as the starting point for defining what to measure, not generic KPIs.
 - `INS-260402-4B96` Startups are where gaming the system stops working because users only care if your product solves their problem.
+- `INS-260403-B4B9` Use your business model as the starting point for defining what to measure, not generic KPIs.
 - `INS-260325-4CBB` When you cut and rearrange measurements, the loss hides at every seam — just like the chocolate bar trick.
 - `INS-260329-8BD3` Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260330-70BC` eBay switched affiliate payouts from confirmed registrations to activated users, lost 20% registrations but only 5% active users — then growth accelerated.

@@ -10,16 +10,16 @@
 - `INS-260403-6EDC` Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - `INS-260330-3B05` Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260403-803A` When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
+- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260403-EB56` Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - `INS-260330-E982` Maximize expected information per action rather than chasing high-reward but unlikely outcomes.
-- `INS-260330-420B` Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260325-CE25` O'Connor finds consolation not in answers but in honestly admitting 'I do not know the first thing about why any of this exists.'
 - `INS-260327-6F26` Since the future will be nothing like we imagine, building adaptive capacity is more valuable than building specific plans.
 - `INS-260323-581C` The fundamental driver of conflict in international politics is the inability to know another state's future intentions, making worst-case preparation rational.
 - `INS-260330-BE46` Harlow's monkey experiments and Fisher's puppy studies show that unpredictable treatment creates stronger attachment than consistent kindness or consistent punishment.
 - `INS-260330-09A2` Fisher's 1955 puppy experiment showed that random alternation between kindness and punishment produced the strongest attachment — stronger than consistent kindness alone.
-- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
 - `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
+- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
 - `INS-260322-1A20` In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
 - `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.
 - `INS-260328-C12D` Enterprise AI buying is real and fast, but predicting which products will endure is like picking winners in early mobile — nobody knows yet.

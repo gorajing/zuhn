@@ -52,7 +52,6 @@ stance: >-
   ion concentration gradients across membranes, not by storing energy in
   molecules alone
 related:
-  - INS-260330-C456
   - INS-260330-21A8
   - INS-260330-8A2E
   - INS-260330-8C6A

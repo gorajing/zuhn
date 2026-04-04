@@ -46,7 +46,6 @@ stance: >-
   margins are structurally forced to maximize customer value because raising
   prices costs them the recurring fee
 related:
-  - INS-260327-2B62
   - INS-260327-1576
   - INS-260403-D444
   - INS-260403-59F8

@@ -48,12 +48,11 @@ stance: >-
   partial value produces more total output than attempting one large conversion
 related:
   - INS-260330-5C36
-  - INS-260330-09F8
+  - INS-260404-596E
   - INS-260330-4B45
   - INS-260330-F671
   - INS-260330-85D7
   - INS-260403-C725
-  - INS-260330-2C71
   - INS-260404-52FC
 ---
 In photosynthesis, an excited electron doesn't dump all its energy at once. Instead, it passes through a chain of protein complexes (PSII → Cytochrome → PSI), losing a bit of energy at each step. Each step captures that energy for useful work — pumping protons, generating ATP, producing NADPH. A single large energy release would be wasteful and destructive.

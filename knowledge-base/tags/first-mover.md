@@ -38,6 +38,7 @@
 - `INS-260404-1A18` Photosynthesis has been 'complicated, inefficient and confusing' for 450 million years yet dominates all life on Earth, demonstrating that first-mover lock-in can outlast any degree of technical debt.
 - `INS-260403-93A5` Historical technology windows show the viable launch period for category-defining products is extremely compressed — 11 months for social networks, 30 months for mobile social.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
+- `INS-260404-8A57` RuBisCo's evolutionary story shows how early success with a flawed mechanism creates irreversible lock-in.
 - `INS-260403-2C1A` Early photosynthetic organisms with inefficient RuBisCo dominated Earth because being first let them reshape the entire atmosphere and ecosystem around their approach.
 - `INS-260404-C25C` Early ecosystem capture with a 'good enough' solution creates compounding switching costs that make replacement nearly impossible, even when the solution is demonstrably suboptimal.
 - `INS-260404-B20E` Plants produce 40 billion tons of the inefficient RuBisCo enzyme rather than evolving a better one — volume compensates for poor unit economics when switching costs are too high.

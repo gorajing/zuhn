@@ -27,6 +27,7 @@
 - `INS-260329-A937` Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities.
 - `INS-260329-66C7` Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
+- `INS-260404-D39D` ATP synthase is powered not by photons directly but by the proton gradient plants deliberately build up across membranes.
 - `INS-260329-C81C` Andrew Brown argues the Cloud Practitioner certification's main value is building exam-taking confidence, not the credential itself — it's a low-stakes rehearsal for harder certifications.
 - `INS-260403-E6FD` Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 - `INS-260330-E349` The crawl-walk-run method of isolating individual stressors before combining them builds genuine competence in high-stakes scenarios far more effectively than throwing people into the deep end.

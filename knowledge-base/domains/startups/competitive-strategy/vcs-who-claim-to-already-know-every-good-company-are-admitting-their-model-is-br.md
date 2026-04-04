@@ -53,8 +53,8 @@ related:
   - INS-260403-2E90
   - INS-260328-195E
   - INS-260404-4605
+  - INS-260404-B43A
   - INS-260328-A417
-  - INS-260404-4B69
   - INS-260328-988F
 ---
 When Standard Capital launched, some VCs dismissed it by claiming they already had complete knowledge of every good company through their scouting and networks. Dalton and Michael point out this is a self-defeating admission: if you truly believe you know every good founder and the market is fully mapped, you're conceding that venture capital is a zero-sum commodity game with no margin.

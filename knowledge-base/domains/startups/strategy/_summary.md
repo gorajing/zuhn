@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 221 insights
+> 223 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -11,6 +11,7 @@
 - `INS-260404-B435` [high] Costco's $60 membership fee filters for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 - `INS-260404-6E7B` [high] Costco's $60 membership fee, confusing layout, and bulk quantities filter for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 - `INS-260403-C40D` [high] Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
+- `INS-260404-30CA` [high] Costco's $60 membership fee, confusing warehouse layout, and bulk-only format all filter for affluent, high-spending customers while creating loyalty through sunk-cost psychology.
 - `INS-260404-975A` [high] Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
 - `INS-260403-243A` [high] Costco's $60 membership fee and bulk-only format filter for affluent, high-spending households averaging $100K income who renew at 90%.
 - `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
@@ -43,6 +44,7 @@
 - `INS-260403-D444` [high] Shrinking an industry's total revenue by 95% is a viable strategy if you capture all of what remains, because incumbents can't follow you down.
 - `INS-260330-0B4A` [high] RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260330-8A28` [high] The Chinese dynastic cycle — founding vigor, prosperity, corruption, collapse — is a recurring pattern in companies and industries.
+- `INS-260404-8A57` [high] RuBisCo's evolutionary story shows how early success with a flawed mechanism creates irreversible lock-in.
 - `INS-260323-B0EA` [high] OpenAI started as a research lab with no product plans — patching the structure repeatedly as reality changed led to the awkward hybrid that enabled the board crisis.
 - `INS-260403-214B` [high] Reducing potential rewards proportionally reduces willingness to take the risks inherent in starting companies.
 - `INS-260403-830F` [high] Closing exploitative paths to wealth redirects driven people to startups, which may increase rather than decrease inequality.

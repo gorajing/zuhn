@@ -54,8 +54,8 @@ related:
   - INS-260404-CDD2
   - INS-260330-4B45
   - INS-260330-F671
+  - INS-260404-596E
   - INS-260330-85D7
-  - INS-260403-C725
 ---
 Photosynthesis doesn't convert photon energy directly into glucose. Instead, it passes excited electrons through a chain of four protein complexes, losing energy at each transfer but capturing it in standardized currency (ATP, NADPH) that the Calvin Cycle can spend. Each step is a controlled energy downgrade that produces a modular, reusable intermediate.
 

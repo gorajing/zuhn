@@ -46,8 +46,8 @@ related:
   - INS-260324-5481
   - INS-260330-9014
   - INS-260327-7BB5
+  - INS-260404-2839
   - INS-260327-4440
-  - INS-260323-6043
   - INS-260404-AF08
 stance: 'GameStop had 4,400+ stores and was invaluable to game publishers'
 ---

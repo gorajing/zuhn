@@ -1,5 +1,6 @@
 # Tag: public-speaking
 
+- `INS-260404-D6EE` Good public speaking is an artificial technique made to seem natural — like good writing, it's elaborate effort disguised as spontaneity.
 - `INS-260403-9542` Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 - `INS-260403-0949` Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
 - `INS-260403-5CA6` Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.

@@ -47,9 +47,9 @@ stance: >-
 related:
   - INS-260321-FB3F
   - INS-260403-6652
+  - INS-260404-D6EE
   - INS-260330-0F71
   - INS-260404-89C3
-  - INS-260327-89E4
 ---
 Graham identifies an asymmetry in how people hold beliefs: casual opinions carry no cost of being wrong, so they drift toward whatever is comfortable or socially rewarded. But when you bet on ideas — whether financially as an investor or reputationally through published writing — you create a feedback loop that penalizes obsolete thinking.
 

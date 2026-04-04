@@ -48,12 +48,12 @@ related:
   - INS-260329-B2BE
   - INS-260329-C409
   - INS-260403-B2CB
-  - INS-260403-3F5F
   - INS-260403-1208
   - INS-260403-BF47
   - INS-260403-3864
   - INS-260403-DD63
   - INS-260404-837E
+  - INS-260404-4DC8
   - INS-260404-60D6
 ---
 Most retailers profit by marking up goods — the more you pay per item, the more they earn. Costco inverts this by deriving 75% of its profit from membership renewals. This creates a powerful incentive alignment: raising prices would generate pennies today but risk losing $60-120 annual renewals. The company enforces this with a self-imposed 15% maximum markup (11% average vs Walmart's 24%), making low prices a structural feature rather than a marketing tactic. This model works because it transforms the company's optimization target from 'extract maximum per transaction' to 'maximize renewal probability,' which cascades into every operational decision from store layout to supplier negotiation.

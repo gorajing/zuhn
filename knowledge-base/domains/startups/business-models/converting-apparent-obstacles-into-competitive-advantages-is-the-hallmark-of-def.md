@@ -55,10 +55,9 @@ related:
   - INS-260403-323A
   - INS-260403-6BD9
   - INS-260403-2AE7
-  - INS-260404-007B
   - INS-260404-8D5F
   - INS-260404-8B1C
-  - INS-260404-975A
+  - INS-260404-30CA
 ---
 Costco's strategy inverts conventional retail wisdom at every turn. The membership fee should repel customers — instead it self-selects affluent households ($100K average income) and triggers sunk-cost-driven loyalty. The warehouse layout should frustrate shoppers — instead it forces wandering that increases basket size and creates a treasure-hunt experience. The sparse selection should send customers to competitors — instead it eliminates decision fatigue and creates supplier leverage.
 

@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 144 insights
+> 146 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -67,6 +67,7 @@
 - `INS-260330-2737` [high] Paul's Roman citizenship gave him free travel throughout the empire, allowing him to use Rome's own road network and legal protections to spread a message that would eventually undermine Roman religious authority.
 - `INS-260329-BB8F` [high] When the market wants a suite, building only the best single tool creates a ceiling — you must decide whether to bundle or accept a limited outcome.
 - `INS-260330-E4DB` [high] Rome's reliance on Germanic mercenaries loyal only to gold — not to Rome itself — directly caused the civil wars that destroyed the Western Empire.
+- `INS-260404-D1F6` [high] The Calvin Cycle produces 6 G3P molecules but only 1 exits — 83% is reinvested to keep the cycle running.
 - `INS-260403-DC6E` [high] Once a token economy launches on-chain, rebalancing becomes nearly impossible compared to server-side economies, making upfront design discipline critical.
 - `INS-260330-C658` [high] Focus only on reaching the next 10x milestone — at 10 users plan for 100, at 100 plan for 1000 — because necessity at breaking points forces better solutions than premature planning.
 - `INS-260403-46BD` [high] Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
@@ -77,6 +78,7 @@
 - `INS-260329-50D5` [high] TCP guarantees delivery order and completeness (essential for transactions); UDP sacrifices those guarantees for speed (essential for real-time communication).
 - `INS-260330-F3E4` [high] Harry Sonneborn's franchise realty strategy gave McDonald's control over operators, a new 8.5% revenue stream, and balance sheet assets for bank financing — all from one move.
 - `INS-260403-AEBD` [high] Restructuring resource assignments can create room for growth without acquiring new resources.
+- `INS-260404-2839` [high] The retail apocalypse killed Sears, Toys-R-Us, and RadioShack not because physical retail is dead, but because these specific companies failed to adapt while competitors like Costco and Aldi thrived.
 - `INS-260329-1962` [high] Market position follows power laws, not linear distribution — being 7th doesn't mean 1/7th the revenue, it means approaching zero.
 - `INS-260327-A927` [high] Nvidia feels like working for multiple startups — each division has its own survival pressure, P&L accountability, and startup mentality.
 - `INS-260329-22A8` [high] One product, one avatar, one channel to $1M; add second product at $10M; add second channel after that.

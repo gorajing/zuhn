@@ -50,9 +50,8 @@ stance: >-
   exploiting concentration differentials across membranes, not direct chemical
   reactions
 related:
-  - INS-260330-6E5F
+  - INS-260404-D39D
   - INS-260403-EE83
-  - INS-260403-FC01
   - INS-260330-8A2E
   - INS-260330-7FF3
   - INS-260330-21A8

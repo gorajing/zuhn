@@ -58,7 +58,7 @@ related:
   - INS-260403-6F40
   - INS-260403-FC01
   - INS-260404-1B29
-  - INS-260330-BC56
+  - INS-260404-596E
   - INS-260403-7738
 ---
 The electron transport chain doesn't convert photon energy directly into glucose. Instead, it passes through multiple intermediate currencies: excited electrons, proton concentration gradients, ATP, and NADPH, before finally producing G3P. Each conversion loses some energy, yet this architecture has dominated for 450 million years.

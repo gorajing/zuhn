@@ -57,7 +57,7 @@ related:
   - INS-260403-6620
   - INS-260403-ED1F
   - INS-260403-7292
-  - INS-260403-1E82
+  - INS-260404-C887
 ---
 When audiences lack the technical background to evaluate substance directly, they fall back on the presenter's own confidence as a proxy signal. But explicit confidence claims ('we're passionate,' 'our product is great') get filtered out or worse, coded as bullshit.
 

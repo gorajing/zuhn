@@ -57,6 +57,7 @@ related:
   - INS-260403-91DB
   - INS-260404-D0D8
   - INS-260404-3070
+  - INS-260404-2839
 ---
 The 'retail apocalypse' narrative frames Amazon as the destroyer of physical retail, but the evidence tells a different story. The retailers that died — Sears (tried everything poorly), Toys-R-Us (dismissed the internet), J.C. Penney (lost touch with customers), RadioShack, Payless — all share a common trait: failure to adapt their core value proposition. Meanwhile, Ross, Lush, Aldi, Dollar General, and Costco thrived in the exact same competitive environment.
 

@@ -49,7 +49,6 @@ stance: >-
   cannot replicate.
 related:
   - INS-260403-2C00
-  - INS-260403-08FE
   - INS-260403-FDB8
   - INS-260403-64E7
   - INS-260404-B435

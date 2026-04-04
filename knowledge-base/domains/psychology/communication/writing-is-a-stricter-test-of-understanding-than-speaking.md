@@ -52,8 +52,8 @@ related:
   - INS-260329-C34B
   - INS-260330-8D27
   - INS-260403-F9F0
+  - INS-260404-D6EE
   - INS-260403-D6FE
-  - INS-260328-93F7
 ---
 Graham distinguishes writing from speaking as tests of understanding, arguing writing is strictly harder. In conversation, tone of voice carries meaning, shared context fills gaps, and social dynamics prevent the kind of obsessive revision that writing demands. You can spend two weeks and fifty drafts on an essay; doing the equivalent in conversation would seem pathological.
 

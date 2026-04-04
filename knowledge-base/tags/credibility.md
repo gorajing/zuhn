@@ -4,8 +4,8 @@
 - `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
 - `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
-- `INS-260330-BE91` Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
+- `INS-260330-BE91` Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
 - `INS-260403-22FE` Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - `INS-260403-2F86` Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
@@ -15,6 +15,7 @@
 - `INS-260403-915E` Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
 - `INS-260403-05DF` Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 - `INS-260403-B3CA` Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
+- `INS-260404-C887` Show don't tell applies to confidence — saying 'we're passionate' gets you written off as a bullshitter, while demonstrating mastery creates belief.
 - `INS-260404-CDCB` Telling investors you're passionate makes them write you off as bullshitters; showing confidence through substance and demeanor is what actually persuades.
 - `INS-260403-E51B` Audiences ignore or penalize explicit self-promotion but are heavily influenced by implicit behavioral signals of confidence.
 - `INS-260404-4F69` Never say 'we're passionate' — people ignore or penalize explicit self-praise, but they're deeply influenced by implicit confidence signals.
