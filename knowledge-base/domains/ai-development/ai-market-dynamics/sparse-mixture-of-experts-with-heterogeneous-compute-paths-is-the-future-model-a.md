@@ -57,7 +57,6 @@ related:
   - INS-260321-3967
   - INS-260322-54F3
   - INS-260327-C962
-  - INS-260330-0A8D
 evidence:
   - id: INS-260322-54F3
     type: CONTRADICTS

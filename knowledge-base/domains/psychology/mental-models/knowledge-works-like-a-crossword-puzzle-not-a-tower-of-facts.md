@@ -55,6 +55,7 @@ related:
   - PRI-260403-CCBC
   - INS-260330-C172
   - INS-260330-6844
+  - INS-260403-BB23
 evidence:
   - id: INS-260320-E6DD
     type: EXTENDS

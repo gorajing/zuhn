@@ -46,8 +46,8 @@ stance: >-
 related:
   - INS-260403-F7DE
   - INS-260403-9DA1
+  - INS-260403-89B5
   - INS-260330-1222
   - INS-260327-8B5B
-  - INS-260330-6C17
 ---
 The original 1992 vortex collision was filmed with primitive equipment and published in Nature. For 26 years, researchers tried numerical simulations to understand the secondary ring formation — but nobody simply re-filmed it with better cameras. When Destin finally did, they discovered previously invisible low-pressure nodules and a still-unexplained 90-degree ring reformation. The insight for execution is that upgrading instrumentation on known problems is dramatically undervalued. In startups, this translates directly: better analytics on existing funnels, better logging on known failure modes, or better user research on established workflows will often reveal more actionable insights than chasing entirely new problem spaces.

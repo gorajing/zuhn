@@ -1,6 +1,6 @@
 # Topic: platform-dynamics
 
-> 11 insights
+> 12 insights
 
 - `INS-260403-A115` [high] McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset.
 - `INS-260403-E71A` [high] Platform owners like Apple with iTunes function as tollbooths, not stores — they tax transactions rather than sell content, driving content prices to near-zero.
@@ -13,3 +13,4 @@
 - `INS-260403-8A29` [high] Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
 - `INS-260403-15DD` [medium] When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 - `INS-260403-30BF` [medium] Industry digitization follows a fixed sequence: information layer first, then transactions, then operations.
+- `INS-260403-BA4B` [medium] Geopolitical decentralization prevents any single lobby from permanently distorting property definitions to serve incumbents.

@@ -55,10 +55,10 @@ stance: >-
   compute consumption per person.
 related:
   - INS-260323-FE69
+  - INS-260403-910E
   - INS-260325-BC2A
   - INS-260321-B7CB
   - PRI-260328-8317
-  - INS-260402-7FCC
 evidence:
   - id: INS-260321-B7CB
     type: SUPPORTS

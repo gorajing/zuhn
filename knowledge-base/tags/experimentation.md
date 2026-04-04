@@ -8,14 +8,14 @@
 - `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
 - `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
-- `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
-- `INS-260329-2EF9` A failed ad, store, or product isn't back to zero — it's your current position plus one experience point, and enough experience points trigger a level-up.
-- `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260330-9A83` Placing the anvil behind the driver head eliminated momentum transfer as a variable, isolating pure deformation as the only energy absorption mechanism.
 - `INS-260330-0102` Mastery comes from maximizing learning loop iterations — do, test against reality, extract insight, adjust — not from accumulating hours.
 - `INS-260330-B50A` Inconsistent results in complex systems require isolating variables rather than guessing at causes.
-- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
+- `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
+- `INS-260329-2EF9` A failed ad, store, or product isn't back to zero — it's your current position plus one experience point, and enough experience points trigger a level-up.
+- `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
+- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
@@ -24,6 +24,7 @@
 - `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-5427` Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
+- `INS-260403-910E` Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.

@@ -14,7 +14,6 @@
 - `INS-260403-E642` Innovating the business model itself—not just the product—is the primary driver of durable market disruption.
 - `INS-260327-6976` Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
-- `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260403-F52E` RuBisCo evolved when oxygen was scarce and CO2 abundant — rising oxygen levels broke its core function, but plants couldn't pivot.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
 - `INS-260327-D570` The biggest opportunities come from tools that expose broken systems rather than perpetuating them.
@@ -25,6 +24,7 @@
 - `INS-260330-1964` Attack incumbents where their own business model or architecture prevents them from responding, not where they simply haven't bothered yet.
 - `INS-260330-DD10` Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260330-F0F2` Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
+- `INS-260403-C1F5` Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
 - `INS-260330-FF09` The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
@@ -40,8 +40,9 @@
 - `INS-260330-0C96` Being the entry-level option lets you grow into the market while incumbents get squeezed from below.
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
-- `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
+- `INS-260403-4690` Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
+- `INS-260322-0247` Robinhood's zero-commission bet gave them 3-4 years before incumbents could respond because free is a categorically different value proposition than merely cheaper.
 - `INS-260403-CA1F` Ideas dismissed as toys — microcomputers, planes, cars, Facebook — often indicate genuine opportunities everyone else overlooked.
 - `INS-260321-7109` SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260403-7374` Super-angels replicate the classic startup-vs-incumbent disruption pattern, fully committed to small rounds while VCs treat them as lead generation.

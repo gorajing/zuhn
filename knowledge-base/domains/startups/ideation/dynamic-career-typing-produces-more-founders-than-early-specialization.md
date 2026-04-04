@@ -60,6 +60,7 @@ related:
   - INS-260330-52C7
   - INS-260403-573F
   - INS-260403-37B9
+  - INS-260403-4760
 ---
 Graham draws an analogy between programming language type systems and career systems: America's 'dynamic typing' for careers — where people often don't choose their specialty until after college — produces more startups than Europe's 'static typing' where career tracks are locked in during high school. The mechanism is that startup founding is inherently unplannable; no high schooler chooses it, and when forced to choose early, people pick conservative, well-understood occupations like doctor or lawyer.
 

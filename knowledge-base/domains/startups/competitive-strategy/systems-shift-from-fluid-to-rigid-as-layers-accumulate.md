@@ -47,11 +47,10 @@ stance: >-
   single layer would predict.
 related:
   - INS-260330-A9F8
-  - INS-260330-AB3E
   - INS-260330-833E
+  - INS-260403-C5FB
   - INS-260329-DFDB
   - INS-260330-1B16
-  - INS-260402-F479
 ---
 In the shade ball experiment, a single layer allows swimming with difficulty — balls move past each other like a fluid. But adding a second layer transforms the system: balls trap against each other and behave like a solid, providing dramatically more resistance.
 

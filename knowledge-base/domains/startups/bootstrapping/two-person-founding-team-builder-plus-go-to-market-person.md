@@ -41,9 +41,9 @@ resolutions:
 related:
   - INS-260403-3B67
   - INS-260330-C391
+  - INS-260403-5018
   - INS-260403-C228
   - INS-260403-FC45
-  - INS-260327-D982
   - INS-260323-1B87
   - INS-260327-9830
 stance: >-

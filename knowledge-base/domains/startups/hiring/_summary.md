@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 36 insights
+> 37 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -11,6 +11,7 @@
 - `INS-260330-E4D9` [high] Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved.
 - `INS-260403-85DE` [high] An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
 - `INS-260403-1DC9` [high] Corporate recruiters optimize for personal career safety (nobody gets fired for hiring Stanford) rather than actual candidate quality.
+- `INS-260403-5018` [high] Choose the startup with the most determined founders over the smartest ones, treating your time as equity investment.
 - `INS-260330-B8CC` [high] FAANG worship creates a developer caste system that misallocates industry talent.
 - `INS-260403-6340` [high] Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
 - `INS-260330-687B` [high] Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.

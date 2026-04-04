@@ -6,6 +6,7 @@
 - `INS-260327-4C73` A person following rules to produce perfect Chinese responses without understanding Chinese suggests that behavior and understanding are separable - with direct implications for AI.
 - `INS-260330-35CB` Seeing the answer and proving the answer are separate skills — undergraduate math training primarily builds the latter.
 - `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
+- `INS-260403-89B5` The 130,000 fps camera reveals failure dynamics invisible to the naked eye, proving that understanding often requires changing observation speed rather than adding theory.
 - `INS-260330-053D` Framing knowledge as 'you could have invented this' converts memorization into genuine understanding.
 - `INS-260325-0713` True understanding means feeling you could have discovered the idea independently, not just following someone else's derivation.
 - `INS-260325-7080` The gold standard for comprehension is the sense that you could have invented the idea independently.

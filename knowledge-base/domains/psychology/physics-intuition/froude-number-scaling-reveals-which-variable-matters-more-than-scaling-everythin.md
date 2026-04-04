@@ -49,10 +49,10 @@ stance: >-
   predictions than trying to match all variables simultaneously.
 related:
   - INS-260403-EA82
+  - INS-260403-BB23
   - INS-260330-4824
   - PRI-260323-8E89
   - INS-260323-144F
-  - INS-260329-8407
 evidence:
   - id: INS-260329-8407
     type: TRANSFERS_TO

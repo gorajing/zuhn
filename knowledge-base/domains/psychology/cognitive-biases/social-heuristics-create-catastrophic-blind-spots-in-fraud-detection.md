@@ -52,7 +52,6 @@ stance: >-
   diligence failures even among the most sophisticated institutional investors
 related:
   - INS-260322-E791
-  - INS-260327-A5CD
   - INS-260327-5107
   - INS-260330-90C3
   - INS-260403-22FE
@@ -61,6 +60,7 @@ related:
   - INS-260403-C7A9
   - INS-260330-E5F2
   - INS-260403-AA09
+  - INS-260403-8302
 evidence:
   - id: INS-260327-5107
     type: CHALLENGES

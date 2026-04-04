@@ -50,10 +50,10 @@ stance: >-
   simply culture as experienced by people outside the company
 related:
   - INS-260323-2E49
+  - INS-260403-A99F
   - INS-260330-D272
   - INS-260403-6428
   - INS-260322-5A72
-  - INS-260327-EF89
   - INS-260403-FCD7
 ---
 Both Lin and Chesky articulate a causal chain: companies with deeply passionate employees create products that customers are deeply passionate about, and those companies develop strong brands. The mechanism is leakage — internal culture inevitably seeps into every customer touchpoint. Apple's 'Think Different' campaign is the canonical example: before selling product specs (bits and bytes), Jobs sold the company's core belief that people with passion can change the world. Customers buying Apple products were implicitly subscribing to that belief system. The inverse is equally powerful: if you sell your product purely on utility (cheaper, faster, more features), you become a commodity sold at commodity prices. This reframes brand-building from a marketing exercise to a culture exercise — you build your brand by building your culture, and the brand emerges as a natural byproduct.

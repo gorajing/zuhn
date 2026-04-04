@@ -1,8 +1,8 @@
 # Tag: status
 
-- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260403-D06F` Status games require putting others down to rise, making them psychologically toxic compared to positive-sum wealth creation.
+- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260403-EB0B` Hunter-gatherers couldn't store wealth, so status was the only survival currency — that wiring still dominates our instincts.
 - `INS-260330-B306` Developer satisfaction with pay is driven by peer comparison ($50K→$225K→$900K→$25M chain), not absolute income levels.
 - `INS-260330-CC9E` Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.

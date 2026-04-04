@@ -2,9 +2,9 @@
 
 - `INS-260403-7FFA` Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
 - `INS-260402-D534` Believing all options are equivalent is a cognitive shortcut that eliminates evaluation of dimensions the decision-maker cannot understand.
-- `INS-260330-8733` Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.
 - `INS-260330-AB95` Delaying termination of a bad employee risks losing good employees who won't tolerate the toxic environment, making procrastination strictly worse than action.
 - `INS-260330-258F` Quick, direct, face-to-face termination with immediate access revocation is the professional standard — procrastination lets toxic employees drive away good ones.
+- `INS-260330-8733` Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.
 - `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
@@ -26,6 +26,7 @@
 - `INS-260323-E15B` After 20 years running Meta, Zuckerberg's biggest lesson is that a cohesive leadership team can accomplish almost anything, while strategic brilliance fails without it.
 - `INS-260323-3737` Ironic process theory means telling someone what they did wrong makes them repeat it — paint the future vision instead.
 - `INS-260323-D9CE` Expectations + Measurement x Reinforcement = Accountability — without reinforcement, expectations and measurement produce zero accountability.
+- `INS-260403-4760` Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 - `INS-260402-D2C9` You cannot manage a process intended to produce beautiful things without knowing what beautiful is — taste is a prerequisite for quality leadership.
 - `INS-260330-DB4B` When something important lands on your desk, saying 'I need to think this through from all perspectives' produces better outcomes than the instinct to demonstrate decisiveness.
 - `INS-260330-5FED` Flat structure works until it suddenly doesn't — the failure mode is a cliff, not a slope.

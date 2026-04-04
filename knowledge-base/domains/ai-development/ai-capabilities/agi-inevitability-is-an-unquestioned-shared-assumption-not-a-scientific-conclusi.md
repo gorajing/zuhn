@@ -49,10 +49,10 @@ resolutions:
     betting everything on 'being ready for AGI' is a massive misallocation.
 related:
   - PRI-260323-1F9C
+  - INS-260403-B6D9
   - PRI-260328-BF67
   - INS-260323-4D4E
   - PRI-260324-2C9F
-  - INS-260330-0E86
   - INS-260327-FD99
 stance: >-
   The widely accepted belief that AGI is inevitable and we're racing toward it

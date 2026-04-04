@@ -6,7 +6,9 @@
 - `INS-260327-68C1` 2025 had the highest corporate bankruptcies ever outside a recession, including companies going bankrupt for the second time within months, suggesting structural unsustainability not cyclical distress.
 - `INS-260325-FADB` Open Router observes companies on their platform doing tens of millions in revenue with just five people, made possible by models powering what previously required large teams.
 - `INS-260327-1576` BNPL companies margins depend on merchant fees that merchants accept only to increase conversion, but as BNPL becomes ta
+- `INS-260403-BB23` Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
 - `INS-260327-8F03` Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enth
+- `INS-260403-E0FE` Superior business models, not superior products, are the primary driver of sustained competitive advantage.
 - `INS-260327-78A0` When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded 
 - `INS-260327-31A7` Ultra-cheap Chinese e-commerce platforms exploit the de minimis trade exemption that allows small-value packages to ente
 - `INS-260327-130C` In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end
@@ -46,6 +48,7 @@
 - `INS-260327-5973` Donut economics work because the product cost is trivially low relative to the selling price, making even modest volume 
 - `INS-260322-F6AA` Industries whose profitability depends on making processes boring, difficult, and time-consuming are most vulnerable to LLM disruption — and many don't realize this is their actual business model.
 - `INS-260327-E153` Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
+- `INS-260403-DDDC` Codified pattern libraries lower the barrier to business model innovation by providing proven configurations to adapt rather than invent.
 - `INS-260327-9CB1` Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
 - `INS-260327-E359` Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
 - `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.

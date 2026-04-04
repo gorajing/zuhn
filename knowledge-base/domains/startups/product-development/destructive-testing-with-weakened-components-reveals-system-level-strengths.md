@@ -53,8 +53,8 @@ related:
   - INS-260329-DFDB
   - INS-260402-3C79
   - INS-260330-A9F8
+  - INS-260403-E748
   - PRI-260325-F9E1
-  - INS-260403-65D2
 evidence:
   - id: INS-260329-DFDB
     type: EXTENDS

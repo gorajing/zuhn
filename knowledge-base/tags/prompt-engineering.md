@@ -7,6 +7,6 @@
 - `INS-260320-D972` Let AI rewrite your prompts in the model's own 'language' for 20-30% quality improvement using the meta-prompt technique.
 - `INS-260322-17B3` The game has shifted from crafting clever prompts to context engineering — what tools you give the model, what data it pulls in, and when it pulls the right data.
 - `INS-260327-33FA` On the HumanEval coding benchmark, GPT-3.5 with an agentic workflow outperformed GPT-4 zero-shot, demonstrating that iteration beats raw model capability.
-- `INS-260328-0B42` Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
 - `INS-260327-294E` Give AI all your implicit context explicitly—that's the real skill, not clever prompting.
 - `INS-260327-0700` Most AI startups fail because they stop at demo-quality 60% accuracy instead of grinding through evals to reach 97%+.
+- `INS-260328-0B42` Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.

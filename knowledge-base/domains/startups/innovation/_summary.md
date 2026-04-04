@@ -1,12 +1,13 @@
 # Topic: innovation
 
-> 63 insights
+> 69 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
 - `INS-260403-882A` [high] Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
 - `INS-260403-130D` [high] Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
+- `INS-260403-C5FB` [high] Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
 - `INS-260403-1C09` [high] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260403-71A6` [high] The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260403-F8A2` [high] Innovation functions need CEO-level reporting to survive organizational inertia.
@@ -17,6 +18,7 @@
 - `INS-260403-E3C4` [high] Cultural shift from planning-execution to experimentation-iteration is the primary barrier to enterprise innovation, not tooling.
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-268F` [high] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
+- `INS-260403-A99F` [high] Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260403-383F` [high] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
 - `INS-260403-F87C` [high] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
@@ -34,6 +36,7 @@
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-D62D` [high] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
 - `INS-260403-E25F` [high] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
+- `INS-260403-910E` [high] Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
 - `INS-260403-1358` [high] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
@@ -48,6 +51,7 @@
 - `INS-260403-DF01` [medium] Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally.
 - `INS-260403-47BF` [medium] Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - `INS-260403-5D81` [medium] Applying behavioral science to innovation training ensures skills actually transfer to daily work rather than fading post-program.
+- `INS-260403-42F2` [medium] Lego Factory shows that powerful business model innovation can come from rejiggering fulfillment rather than reinventing the company.
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
 - `INS-260403-24AE` [medium] Innovation needs its own dedicated hierarchy paralleling the existing business structure, not ad-hoc committees.
 - `INS-260403-4FA4` [medium] For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.
@@ -55,12 +59,14 @@
 - `INS-260403-E172` [medium] Thriving innovation requires maintaining a large pipeline of 150-200 ideas per year across varying scales.
 - `INS-260403-0372` [medium] Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260403-17E1` [medium] Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses.
+- `INS-260403-B5A5` [medium] Startups need INVENT patterns to design new business models; incumbents need SHIFT patterns to transform existing ones — different strategic contexts require different pattern sets.
 - `INS-260403-ACA8` [medium] Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-31C2` [medium] Enterprise lean startup adoption scales faster through peer practitioner networks than top-down mandates.
 - `INS-260403-343D` [medium] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-0030` [medium] Cohort networks from innovation programs often outvalue the curriculum by providing ongoing diverse perspectives for context-dependent innovation challenges.
 - `INS-260403-65C3` [medium] When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.
 - `INS-260403-63E6` [medium] When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
+- `INS-260403-3A34` [medium] Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-4D8F` [medium] Structured toolboxes with experiment libraries and progress mapping enable both large and small companies to achieve world-class innovation.
 - `INS-260403-5BAD` [medium] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.

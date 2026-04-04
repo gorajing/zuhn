@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 484 insights
+> 488 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -59,6 +59,7 @@
 - `INS-260327-19E5` [high] When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tole
 - `INS-260403-D85D` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all complex animal life — side effects of a process can eclipse the intended output in value.
 - `INS-260330-57BB` [high] Son's strategy of offering 5x what companies asked for pressured them into unsustainable growth-at-all-costs playbooks while scaring away competitors.
+- `INS-260403-0E11` [high] The failure front in a Prince Rupert's Drop is powered by the drop's own stored mechanical energy, not by the force that nicked the tail.
 - `INS-260327-7A5A` [high] Celebrities who launch product lines exploit parasocial fan relationships to bypass normal quality evaluation, resulting
 - `INS-260330-E811` [high] Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.
 - `INS-260325-C5FD` [high] American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
@@ -180,6 +181,7 @@
 - `INS-260324-8C6F` [high] In LA's saturated taco market, the winning strategy isn't being the best — it's being the best for your specific neighborhood by showing up at the same spot, same time, rain or shine, year after year.
 - `INS-260330-F0F2` [high] Build the simple, inexpensive option first — it's easier to sell initially and positions you to conquer the rest of the market from below.
 - `INS-260403-0AF6` [high] Severe channel conflict in agent-dependent industries creates permanent incumbent paralysis that outsiders can exploit.
+- `INS-260403-C1F5` [high] Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
 - `INS-260330-AFAD` [high] Converse and Keds lobbied the US Customs Service to enforce an archaic import duty rule specifically to hit Nike with a $25M bill, using regulation as a weapon rather than competing on product.
 - `INS-260330-FF09` [high] The same focus that builds a monopoly prevents the company from destroying it, even when survival requires exactly that.
 - `INS-260330-519D` [high] Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
@@ -378,6 +380,7 @@
 - `INS-260403-7E95` [high] Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - `INS-260329-7CDE` [high] Never enter an arms race of who can produce the most low-quality output — the platform (Google, Apple, OpenAI) wins, not you.
 - `INS-260403-65D2` [high] Multi-layer systems exhibit emergent rigidity that single layers don't, because elements trap each other rather than flowing freely.
+- `INS-260403-E748` [high] Extreme strength at the core does not protect against catastrophic failure triggered at the weakest peripheral link.
 - `INS-260324-A9DF` [high] Taco Bell outperforms McDonald's, Burger King, and KFC in per-store earnings because Yum Brands concentrated resources on its winner while letting KFC and Pizza Hut stagnate.
 - `INS-260330-F9B4` [high] Tech strategy is a race up the control hierarchy: plugins → websites → apps → OS → hardware, where each level reduces dependence on others.
 - `INS-260327-A462` [high] Companies that tried to disrupt walking with scooters and segways failed because they competed against an activity that 
@@ -470,6 +473,7 @@
 - `INS-260323-BF81` [medium] Altman believes AI tools now enable a single person to build a company worth over a billion dollars, delivering products that previously required teams of hundreds.
 - `INS-260402-8595` [medium] Embracing operational complexity that competitors avoid — like managing physical assets — creates durable defensibility through accumulated expertise and supply-side lock-in.
 - `INS-260403-9BEF` [medium] Incumbents resist portable digital ownership because lock-in benefits them, creating an opening for startups to differentiate by giving users true ownership of virtual goods.
+- `INS-260403-DDDC` [medium] Codified pattern libraries lower the barrier to business model innovation by providing proven configurations to adapt rather than invent.
 - `INS-260327-7C23` [medium] Over 90% of independent NYC pizzerias survive a decade, but the true failure rate is hidden behind thousands of private backroom deals where new operators take over existing names and kitchens.
 - `INS-260322-0E41` [medium] Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model providers means AI startups face taxation risk, not existential platform risk.
 - `INS-260403-47C0` [medium] Power has been steadily transferring from charismatic dealmakers to technically competent people for a century, and nothing on the horizon reverses this.

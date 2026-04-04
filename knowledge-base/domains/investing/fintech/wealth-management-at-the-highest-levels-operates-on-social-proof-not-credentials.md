@@ -46,11 +46,11 @@ stance: >-
   proof and network access rather than verifiable expertise, creating an
   environment where incompetence and fraud are structurally indistinguishable.
 related:
+  - INS-260403-C6DC
   - INS-260323-F2C3
   - INS-260329-1DA3
   - PRI-260403-C229
   - PRI-260328-26AA
-  - INS-260330-990F
 evidence:
   - id: INS-260323-F2C3
     type: SUPPORTS

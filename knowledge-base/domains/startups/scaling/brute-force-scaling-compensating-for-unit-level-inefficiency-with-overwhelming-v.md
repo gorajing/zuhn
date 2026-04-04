@@ -56,7 +56,6 @@ stance: >-
   strategy
 related:
   - INS-260325-C523
-  - INS-260330-E70C
   - INS-260330-B7B1
   - INS-260330-6CB7
   - INS-260330-ED9D

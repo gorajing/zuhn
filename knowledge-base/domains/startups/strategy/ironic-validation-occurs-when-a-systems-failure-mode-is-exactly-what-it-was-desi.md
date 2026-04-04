@@ -57,6 +57,7 @@ related:
   - INS-260329-87BA
   - INS-260403-88AF
   - PRI-260328-7E58
+  - INS-260403-E748
 ---
 FTX's collapse—opacity, rehypothecation, no auditable trail—is exactly the class of problem that decentralized, on-chain finance was designed to eliminate. When DeFi protocols have failed, the transparency was immediate: anyone could inspect the on-chain data. CeFi failures take months to unravel, sometimes never fully surfacing.
 

@@ -50,7 +50,6 @@ stance: >-
   The speed and directness of employee termination is a stronger signal of
   founder effectiveness than hiring ability.
 related:
-  - INS-260329-E45A
   - INS-260330-AC36
   - INS-260330-8E3C
   - INS-260330-36B4

@@ -4,6 +4,7 @@
 - `INS-260403-24AE` Innovation needs its own dedicated hierarchy paralleling the existing business structure, not ad-hoc committees.
 - `INS-260403-F87C` Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 - `INS-260403-499B` Across 40 large organizations, intrapreneurship structures scored lowest — dedicated processes and incentives for internal ventures are exceptionally hard to build.
+- `INS-260403-B5A5` Startups need INVENT patterns to design new business models; incumbents need SHIFT patterns to transform existing ones — different strategic contexts require different pattern sets.
 - `INS-260403-ACA8` Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
 - `INS-260403-343D` Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.

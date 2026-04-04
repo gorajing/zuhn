@@ -49,7 +49,6 @@ stance: >-
   discussion of the problem and solution where founders have genuine expertise.
 related:
   - PRI-260324-A608
-  - INS-260327-D285
   - INS-260329-9A8B
   - INS-260403-7E18
   - INS-260403-CC25
@@ -58,6 +57,7 @@ related:
   - INS-260403-270E
   - INS-260403-481F
   - INS-260403-E319
+  - INS-260403-462F
 ---
 Graham cites a top VC who invested in a company despite knowing their business model was wrong and would change three times. The VC invested anyway because business models at the early stage are expected to be wrong. This reveals an asymmetry: investors don't weight business model accuracy heavily, but a spectacularly wrong one creates a negative anchor that displaces everything else.
 

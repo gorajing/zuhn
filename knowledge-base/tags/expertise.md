@@ -4,8 +4,8 @@
 - `INS-260329-3489` Experts shift from spending 90% of time generating to spending most time on QA and validation of AI output.
 - `INS-260323-7BA4` Black holes existed in the Schwarzschild solution from 1917 but weren't recognized until the 1950s — the brightest physicists of two generations missed what was sitting in front of them.
 - `INS-260329-B408` The course author's core claim from experience at Google is that excellent programmers are distinguished primarily by knowing when to use which data structure, not by raw coding speed or algorithm knowledge.
-- `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
+- `INS-260403-C732` Bold investing comes from understanding the domain well enough to recognize asymmetric upside, not from reckless risk appetite.
 - `INS-260330-FE49` Reversing just one variable in bicycle steering (handlebar direction) made the entire riding algorithm — balance, pedaling, leaning, steering — completely non-functional for everyone who tried.
 - `INS-260403-2612` Experts benefit more from writing about their domain because they hold more unconscious knowledge that only surfaces through articulation.
 - `INS-260403-2B63` Great work comes from obsessive interest that is disinterested — pursued for its own sake, not for external rewards.

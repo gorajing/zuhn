@@ -44,8 +44,8 @@ related:
   - INS-260326-870E
   - INS-260403-47B7
   - INS-260403-FE3B
+  - INS-260403-5018
   - INS-260403-C496
-  - INS-260330-5EB6
   - INS-260403-2074
 ---
 Dalton describes a pattern where founders say 'we are not growing as fast as Cursor, so we should pivot' — even when they have the best product in their actual category. This is a category error: an enterprise SaaS company cannot and should not grow like a self-serve developer tool. Investors evaluate companies relative to their comparables — other vertical voice AI companies, other enterprise security tools, etc. The actionable frame: identify your actual comparable set, then aim to be better than average within it. Comparing to outliers in unrelated categories is self-defeating.

@@ -53,11 +53,10 @@ stance: >-
   blocking convective heat transfer.
 related:
   - INS-260327-CBDF
-  - INS-260330-31A9
   - INS-260330-B6DE
   - INS-260330-8BA6
+  - INS-260330-31A9
   - INS-260330-43D3
-  - INS-260330-851F
 evidence:
   - id: INS-260327-CBDF
     type: TRANSFERS_TO

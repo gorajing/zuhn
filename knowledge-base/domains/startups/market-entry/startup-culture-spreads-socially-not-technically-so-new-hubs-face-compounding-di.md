@@ -54,7 +54,7 @@ related:
   - INS-260330-5A4C
   - INS-260330-647D
   - INS-260403-8A29
-  - INS-260327-F477
+  - INS-260403-A99F
 ---
 Unlike the Industrial Revolution where an individual factory owner could import a steam engine and have it work fine, startups require a surrounding community of expertise—founders, investors, mentors, and talent who understand the social dynamics of building companies. This is analogous to how the movie industry concentrated in Hollywood rather than spreading evenly.
 

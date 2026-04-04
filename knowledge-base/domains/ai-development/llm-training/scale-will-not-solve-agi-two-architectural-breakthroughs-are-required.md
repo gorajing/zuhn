@@ -44,11 +44,10 @@ resolutions:
     new architectures, not more parameters.
 related:
   - PRI-260323-8E89
+  - INS-260403-BB23
   - INS-260322-54F3
   - INS-260327-5D5F
   - PRI-260328-A82C
-  - INS-260323-584D
-  - INS-260330-EE25
   - INS-260330-0A8D
 stance: >-
   AGI requires weight plasticity (continual learning without catastrophic

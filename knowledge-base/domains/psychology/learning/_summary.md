@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 239 insights
+> 242 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -178,6 +178,7 @@
 - `INS-260330-5EFD` [medium] Destin solved his observation limitation by inverting the aquarium concept — building a structure to keep water out of the camera area rather than keeping water in around the gun.
 - `INS-260330-E47D` [medium] Teaching core intuitions before precise definitions helps learners build mental scaffolding that makes formalism meaningful.
 - `INS-260329-9AE9` [medium] A single continuous learning resource from basics to advanced topics exploits completion bias to push learners further than multi-resource paths.
+- `INS-260403-0B99` [medium] Adults avoid new disciplines not from inability but from fear that replaces teenage ignorance-driven confidence.
 - `INS-260330-F500` [medium] Shapiro's practical guide — read ideologically opposed sources and find where they cross — extracts the factual core from opinion more reliably than trusting any single source.
 - `INS-260403-A51A` [medium] Schools handle breadth; parents should encourage preposterously deep pursuit of whatever a child finds genuinely fascinating.
 - `INS-260329-DE17` [medium] Evaluate free content from a teacher before buying paid courses to reliably predict quality and fit.
@@ -215,6 +216,8 @@
 - `INS-260329-41BC` [medium] OOP inheritance mirrors human prototype-based categorization, making it more cognitively natural than its reputation suggests.
 - `INS-260330-4FB9` [medium] Encoding knowledge inside memorable stories ensures transmission even when the transmitters don't understand the encoded information.
 - `INS-260330-56E0` [medium] The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
+- `INS-260403-89B5` [medium] The 130,000 fps camera reveals failure dynamics invisible to the naked eye, proving that understanding often requires changing observation speed rather than adding theory.
+- `INS-260403-DC52` [medium] Learn history by reading exciting books on specific topics rather than attempting comprehensive chronological surveys.
 - `INS-260330-1E5E` [medium] On hard problems, stop trying to solve them directly — play with the structure until patterns emerge.
 - `INS-260329-07D3` [medium] Sequence learning around small complete projects that each introduce exactly one new concept.
 - `INS-260329-E402` [medium] Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.

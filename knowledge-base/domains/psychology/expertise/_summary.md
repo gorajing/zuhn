@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 57 insights
+> 58 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260403-EA34` [high] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
@@ -53,6 +53,7 @@
 - `INS-260403-78E2` [medium] Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - `INS-260403-B7E3` [medium] Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260403-8B92` [medium] Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
+- `INS-260403-C6DC` [medium] The most useful philosophical knowledge is the highest-level abstraction extracted from deep mastery of a concrete field.
 - `INS-260402-B12D` [medium] Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260403-1202` [medium] Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
 - `INS-260403-14D5` [medium] You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.

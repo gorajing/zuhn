@@ -5,3 +5,4 @@
 - `INS-260327-5140` Marmont's divisions were spread too thin, and when one was broken, the entire French line collapsed division by division in a cascade of failures.
 - `INS-260325-3A0E` WWI proves that interlocking alliance systems turn local crises into global catastrophes — complexity creates systemic fragility.
 - `INS-260327-723A` Esports collapsed because the ecosystem required publishers, teams, leagues, and broadcasters to all invest simultaneously -- when publishers like EA and Ubisoft pulled back, teams lost revenue, players left, viewership dropped, and sponsors followed.
+- `INS-260403-0E11` The failure front in a Prince Rupert's Drop is powered by the drop's own stored mechanical energy, not by the force that nicked the tail.

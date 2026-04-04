@@ -46,10 +46,10 @@ stance: >-
   universal test for whether it adds genuine capability or is redundant
 related:
   - INS-260329-21C0
+  - INS-260403-BB23
   - INS-260330-B4B9
   - INS-260330-64D8
   - INS-260329-BA12
-  - INS-260323-6944
 evidence:
   - id: INS-260323-6944
     type: TRANSFERS_TO

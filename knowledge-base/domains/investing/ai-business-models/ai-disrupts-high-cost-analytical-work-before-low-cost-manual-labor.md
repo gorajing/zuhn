@@ -47,11 +47,11 @@ stance: >-
   management consultants before cheap manual laborers, because analytical and
   strategic work is more structured and automatable than physical tasks.
 related:
+  - INS-260403-C1F5
   - INS-260403-C355
   - PRI-260328-9F8C
   - INS-260327-2A73
   - INS-260330-49C8
-  - INS-260322-3D21
 evidence:
   - id: INS-260322-3D21
     type: CHALLENGES

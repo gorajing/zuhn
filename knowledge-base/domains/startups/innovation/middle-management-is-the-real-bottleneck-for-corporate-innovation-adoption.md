@@ -48,10 +48,10 @@ stance: >-
   innovation methodology adoption in large organizations
 related:
   - INS-260328-D775
+  - INS-260403-4760
   - PRI-260403-6DD6
   - INS-260327-5CB6
   - INS-260403-5593
-  - INS-260402-2879
 ---
 The Strategyzer summit revealed a counterintuitive finding: top leadership support was among the smallest concerns for 40 innovation leaders from companies like MasterCard, GE, 3M, and Intel. The real friction point was getting buy-in from busy middle managers who already have overloaded responsibilities.
 

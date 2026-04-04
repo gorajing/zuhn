@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 170 insights
+> 174 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -18,6 +18,7 @@
 - `INS-260403-0A97` [high] Business models progress through predictable stages from high-risk exploration to low-risk exploitation, and mapping this journey enables better strategic decisions.
 - `INS-260403-7E18` [high] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
 - `INS-260403-0414` [high] Durable competitive advantage comes from business model design, not product or technology superiority alone.
+- `INS-260403-BB23` [high] Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
 - `INS-260325-B8CB` [high] BNPL psychologically decouples payment pain from purchase pleasure, creating systematic overspending in a generation with no credit framework.
 - `INS-260330-C7C2` [high] Oxygen — described as 'the most useful useless byproduct in history' — was metabolic waste that became the foundation of all animal life.
 - `INS-260324-2244` [high] Cannabis remains federally Schedule I, blocking companies from banking, tax deductions, and interstate commerce — essentials that every other business takes for granted.
@@ -25,6 +26,7 @@
 - `INS-260327-D480` [high] In 1965, CEOs earned 20x average employees; today it's 300x+, almost entirely in stock-based compensation that incentivizes price manipulation over business building.
 - `INS-260324-6345` [high] The Pokemon card market is part hobby, part investment, part cultural revival — driven by nostalgia-fueled millennials who brought professional career mindsets into the hobby.
 - `INS-260327-8F03` [high] Businesses whose brand depends on employee enthusiasm and engagement must compensate employees well enough that the enth
+- `INS-260403-E0FE` [high] Superior business models, not superior products, are the primary driver of sustained competitive advantage.
 - `INS-260322-B450` [high] The best consumer AI companies achieve over 100% net revenue retention through usage-based pricing on top of subscriptions — something never seen before in consumer software.
 - `INS-260330-5C64` [high] Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260327-2B62` [high] FaZe Clan's cost of revenue exceeded 70% every year because content creators demanded generous revenue-sharing to stay exclusive -- the company captured the least value while still spending beyond its means.
@@ -161,12 +163,14 @@
 - `INS-260329-59FF` [high] All zero-capital wealth strategies are variations of value arbitrage — delivering more value than you capture.
 - `INS-260403-4E71` [medium] Big pharma doing less internal R&D and acquiring innovation later means startups bear more early-stage risk with less capital.
 - `INS-260322-AABB` [medium] The most scalable business models solve three different groups' pain points simultaneously in a self-reinforcing loop.
+- `INS-260403-97F5` [medium] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
 - `INS-260403-0AF7` [medium] Existential constraints strip away incrementalism and force founders into genuinely novel business model territory.
 - `INS-260327-6976` [medium] Just as institutions failed to anticipate how quickly personal computers would transform everything, they're failing to anticipate how quickly personal fabrication will do the same.
 - `INS-260403-81BD` [medium] Industries with misaligned incentives between providers, payers, and consumers are vulnerable to fintech-enabled marketplace disruption.
 - `INS-260403-E2D9` [medium] Costco pays $21/hour (double U.S. retail average) and gets employees three times more productive, making the wage premium a profit driver rather than a cost.
 - `INS-260403-BE18` [medium] Somali piracy independently reinvented venture capital, equity splits, and performance bonuses because these are convergent solutions to coordination under uncertainty.
 - `INS-260322-0D87` [medium] A Teach for America model for law enforcement — serve 2-4 years, get student debt retired — could solve the policing staffing crisis by resetting cultural stigma and attracting college-educated talent.
+- `INS-260403-F590` [medium] The time required for business model change is driven by organizational readiness, not by how radical the change is.
 - `INS-260330-DA4A` [medium] Mesopotamia invented writing and territorial kingdoms because it lacked basic resources and had to trade for metal, stone, and wood.
 - `INS-260327-889F` [medium] Taco Bell's turnaround was powered by sequential complementary leaders -- Emil Brolick (product/operations, 6 years) laid the foundation, then Greg Creed (marketing/pricing, 9 years) built the house on top of it.
 - `INS-260403-1C10` [medium] Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.

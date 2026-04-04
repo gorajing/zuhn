@@ -44,7 +44,6 @@ stance: >-
   vision statement because vague descriptions approach zero informational
   content.
 related:
-  - INS-260330-4314
   - INS-260403-86DB
   - INS-260403-047B
   - INS-260403-D882

@@ -56,7 +56,7 @@ related:
   - INS-260403-2D99
   - INS-260403-E25F
   - INS-260403-805E
-  - INS-260403-7C88
+  - INS-260403-42F2
 ---
 The four pandemic pivots share a common pattern: none of them were incremental adjustments. LVMH repurposed perfume factories for sanitizer, IBM made permanent WFH for 75,000 employees, Spotify shifted from intermediary to content creator, and Banzai acquired a company to completely reinvent its value proposition. Under normal conditions, each of these moves would have faced years of committee review and risk analysis.
 

@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260403-DF7F
   - INS-260403-EAE5
+  - INS-260403-42F2
   - INS-260323-DA13
   - PRI-260323-8EEA
-  - INS-260403-1BCC
 ---
 Scientists and engineers often resist business strategy work because it feels foreign to their training and identity. BioCity discovered that combining the Business Model Canvas with lean startup methodology — challenging assumptions by forming hypotheses, designing experiments, gathering data, and revising — maps directly onto the scientific method these founders already use daily. The tools 'look and feel a lot like scientific discovery.'
 

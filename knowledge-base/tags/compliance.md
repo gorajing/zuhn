@@ -6,8 +6,8 @@
 - `INS-260323-784B` Enterprise resource planning requires SOC-2 compliance, multi-currency handling, legal review, and ongoing maintenance — none of which a prompted LLM can reliably provide or be held accountable for.
 - `INS-260329-C34C` The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking.
 - `INS-260403-FF74` Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
-- `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260325-B11F` We do not punish children into learning how to swim — we teach them skills. Emotional regulation is an even more important skill that punishment cannot teach.
+- `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260330-7D5F` Forcing public affirmation of falsehoods establishes that truth itself is dangerous, creating a self-reinforcing compliance spiral.
 - `INS-260403-2D99` Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - `INS-260403-CD68` Libra failed partly because regulators went beyond setting guardrails to actively managing product decisions, making it impossible to ship a market-responsive product.

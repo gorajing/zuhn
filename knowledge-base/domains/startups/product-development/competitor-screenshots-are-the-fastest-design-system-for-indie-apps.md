@@ -47,6 +47,6 @@ related:
   - INS-260327-289F
   - INS-260323-5F8A
   - INS-260403-0041
-  - PRI-260403-2B12
+  - INS-260403-B5A5
 ---
 Before touching Figma, the developer searched 'mood tracker' in the App Store, screenshotted multiple competing apps, and AirDropped them to his computer as design reference. The rationale goes deeper than copying: mobile user behavior is largely about mimicking familiar experiences but better. Users have been trained by existing apps to expect certain layouts, gestures, and flows. Even for novel app ideas with no direct competitors, you can find 'adjacent market' apps with similar interaction patterns (e.g., a journal app for a mood tracker). The screenshots serve as both design inspiration and a constraint — they prevent you from inventing UX patterns that feel foreign to users.

@@ -53,7 +53,6 @@ stance: >-
   China's output in 2001 to China having double the US output today — represents
   the most consequential economic power shift of the 21st century.
 related:
-  - INS-260323-9BC8
   - INS-260403-5D89
   - INS-260403-D543
   - INS-260330-1608

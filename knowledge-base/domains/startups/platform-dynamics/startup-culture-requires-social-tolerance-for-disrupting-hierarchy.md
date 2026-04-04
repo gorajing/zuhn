@@ -50,7 +50,6 @@ stance: >-
   capability — the binding constraint on startup proliferation.
 related:
   - INS-260330-C8D7
-  - INS-260330-5A4C
   - INS-260330-B4BD
   - INS-260403-74E5
   - INS-260403-6061

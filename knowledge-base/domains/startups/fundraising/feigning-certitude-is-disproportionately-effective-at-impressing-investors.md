@@ -40,14 +40,14 @@ stance: >-
   Investor decisions are driven more by founder confidence signaling than by
   objective evaluation of the business.
 related:
-  - INS-260327-4DDE
   - INS-260328-982A
   - INS-260330-2CE5
   - INS-260330-725F
   - INS-260330-5EB6
   - INS-260402-E140
+  - INS-260327-4DDE
+  - INS-260403-5018
   - INS-260403-573F
-  - INS-260403-FE3B
   - INS-260403-D51E
 ---
 YC alumni were unanimous that fundraising success depended on investor psychology rather than business fundamentals. The degree to which feigning certitude impressed investors was the single most surprising finding for some founders. Graham identifies a recursive confidence game: LPs give money to VCs who seem confident, and VCs give money to founders who seem confident—creating two random linkages between actual startup quality and funding outcomes. This explains why luck plays such an outsized role in deals and why founders should assume they won't get money, taking any offered capital immediately rather than optimizing for better terms later.

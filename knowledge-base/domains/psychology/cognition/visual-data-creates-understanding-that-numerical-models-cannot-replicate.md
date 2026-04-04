@@ -47,9 +47,9 @@ stance: >-
   and simulations systematically fail to deliver.
 related:
   - INS-260403-7BBD
+  - INS-260403-89B5
   - INS-260330-1222
   - INS-260330-13A8
   - INS-260330-D1A1
-  - INS-260327-DCF8
 ---
 Researchers had been running numerical simulations of vortex ring collisions for years, yet the mechanism by which primary rings break into secondary rings remained unexplained. When Destin captured high-speed footage, previously invisible structures — low-pressure nodules at regular intervals around the ring perimeter — became immediately apparent, and astronaut Don Pettit could formulate a plausible mechanism on sight. This illustrates a fundamental cognitive asymmetry: visual observation activates pattern-recognition circuits that abstract numerical output cannot engage. The brain evolved to extract causal structure from visual motion, not from data tables. For decision-making, this argues that whenever possible, you should observe the actual phenomenon rather than relying solely on dashboards, metrics, or models — the map is never the territory, and your visual cortex knows things your analytical mind cannot access.

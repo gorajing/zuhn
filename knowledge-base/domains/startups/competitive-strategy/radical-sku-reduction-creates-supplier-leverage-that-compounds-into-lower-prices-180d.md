@@ -49,7 +49,6 @@ stance: >-
   Offering dramatically fewer product choices than competitors generates
   negotiating power with suppliers that far outweighs the cost of lost selection
 related:
-  - INS-260403-89B5
   - INS-260403-E143
   - INS-260403-36D8
   - INS-260403-887A
@@ -59,6 +58,7 @@ related:
   - INS-260403-37F4
   - INS-260403-4874
   - INS-260403-83A8
+  - INS-260403-0DC2
 ---
 By offering only one or two choices per product category instead of dozens, Costco transforms each shelf slot into extremely valuable real estate that suppliers fight to occupy. This willingness to walk away — or create Kirkland Signature alternatives — gives Costco leverage to demand lower prices and even reengineer products (like redesigning cashew containers to save 24,000 pallets per year).
 

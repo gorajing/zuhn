@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3634 actionable insights
+Generated on 2026-04-04 | 3644 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1466,6 +1466,7 @@ Generated on 2026-04-04 | 3634 actionable insights
 - [INS-260403-0218] Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
 - [INS-260403-EB56] Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 - [INS-260403-07C3] Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
+- [INS-260403-DC52] Learn history by reading exciting books on specific topics rather than attempting comprehensive chronological surveys.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1877,6 +1878,9 @@ Generated on 2026-04-04 | 3634 actionable insights
 - [INS-260403-0A97] Business models progress through predictable stages from high-risk exploration to low-risk exploitation, and mapping this journey enables better strategic decisions.
 - [INS-260403-9F5A] Entrepreneurs who obsess over product while neglecting repeatable, scalable, and profitable business model design build ventures that survive only as long as investor funding lasts.
 - [INS-260403-F62E] Hilti's pivot from selling power tools to offering tools-as-a-service grew revenue from CHF 4B to 5.7B despite commoditization pressure.
+- [INS-260403-97F5] When choosing among business model prototypes, organizational readiness to change must be weighted as heavily as market attractiveness.
+- [INS-260403-BB23] Business model strength comes from the configuration of all building blocks together, not from optimizing any single element.
+- [INS-260403-E0FE] Superior business models, not superior products, are the primary driver of sustained competitive advantage.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2132,6 +2136,7 @@ Generated on 2026-04-04 | 3634 actionable insights
 - [INS-260403-C949] Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - [INS-260403-A0F7] Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
 - [INS-260403-2152] Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
+- [INS-260403-C1F5] Bonus-driven executives optimize for extracting value from existing models rather than building new ones, creating openings for equity-motivated challengers.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2962,6 +2967,7 @@ Generated on 2026-04-04 | 3634 actionable insights
 - [INS-260403-6340] Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
 - [INS-260403-D51E] Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 - [INS-260403-85DE] An employee who improves expected outcomes by 20% is worth up to 16.7% equity before salary costs.
+- [INS-260403-5018] Choose the startup with the most determined founders over the smartest ones, treating your time as equity investment.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3049,6 +3055,8 @@ Generated on 2026-04-04 | 3634 actionable insights
 - [INS-260403-383F] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
 - [INS-260403-3DF3] Innovation success depends on making failures fast and cheap while extracting maximum learning from each experiment.
 - [INS-260403-E25F] Manage incremental business model improvements and radical new model exploration as fundamentally different portfolio tracks with different success metrics.
+- [INS-260403-3A34] Build reusable legal and compliance frameworks with legal teams upfront so innovation teams don't renegotiate from scratch each time.
+- [INS-260403-910E] Internal innovation should follow VC portfolio logic: many small bets filtered by evidence, not executive intuition.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3166,6 +3174,7 @@ Generated on 2026-04-04 | 3634 actionable insights
 - [INS-260403-EEDB] The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.
 - [INS-260403-96FA] The three most powerful words a leader can say are 'I don't know' because it invites collective problem-solving instead of top-down directives.
 - [INS-260403-8C36] Leaders should provide fertile ground for innovative thinking by asking better questions rather than prescribing answers.
+- [INS-260403-4760] Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.
@@ -3804,6 +3813,7 @@ Generated on 2026-04-04 | 3634 actionable insights
 - [INS-260403-88AF] Prioritize testing the hypothesis whose failure would make your entire business model collapse, regardless of how easy other hypotheses are to test.
 - [INS-260403-C2CF] Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.
 - [INS-260403-CF0E] Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
+- [INS-260403-DFC3] Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

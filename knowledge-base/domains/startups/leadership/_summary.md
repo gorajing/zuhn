@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 168 insights
+> 169 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -162,6 +162,7 @@
 - `INS-260403-F0DF` [medium] Splitting the CEO role into a chief execution officer and a chief entrepreneur resolves the explore-exploit tension structurally rather than hoping one person can do both.
 - `INS-260322-627E` [medium] Start with high trust (75%) so people take risks immediately, but deplete the trust battery faster than normal — you learn what people are made of much sooner.
 - `INS-260327-B7FC` [medium] When Rajat saw his early team members were willing to die for the company, he knew he had built something real — their dedication became his motivation.
+- `INS-260403-4760` [medium] Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 - `INS-260403-9FE2` [medium] A Chief Entrepreneur needs C-suite level power and prestige to protect innovation from the execution engine's organizational antibodies.
 - `INS-260330-7675` [medium] Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
 - `INS-260403-3A49` [medium] Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.

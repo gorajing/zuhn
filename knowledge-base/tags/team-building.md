@@ -4,11 +4,11 @@
 - `INS-260323-FCC1` Raibert describes himself as 'only the dreamer' and says the smartest thing he ever did was find excellent engineers who could actually make things work — the builder-dreamer complementarity is essential.
 - `INS-260330-AA8B` YC data shows all 9 companies that added random co-founders between interview and batch start fell apart within a year.
 - `INS-260330-CD65` YC data shows 100% failure rate when companies added random co-founders between interview and batch start.
+- `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
 - `INS-260320-07A2` Hire people who were already customers — they have conviction you can't interview for.
 - `INS-260327-7349` Kaz extends Toby Lutke's trust battery concept: start at 75% trust to enable risk-taking, but deplete faster to quickly identify who belongs.
-- `INS-260326-7B2A` If you can't hire someone smarter than you, do the work yourself — early hires set the talent bar that attracts or repels all future candidates.
-- `INS-260320-A1D3` Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
 - `INS-260322-70DD` Stop hiring for the business you used to be — at $30-50M revenue you need a CFO not a bookkeeper, and the founder becomes the ceiling when every function must pass through them.
+- `INS-260320-A1D3` Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
 - `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
 - `INS-260402-73D9` Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.
 - `INS-260323-46F8` 50% of businesses fail in 2 years because leaders cannot hold teams accountable — the failure is internal culture, not external markets.

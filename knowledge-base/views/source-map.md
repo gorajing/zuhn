@@ -415,6 +415,7 @@ Generated on 2026-04-04 | 2421 sources
 | Ports, Rails, Roads, and Orbits | blog | 5 | 2026-03-31 |
 | PropTech: A Massive Opportunity We’re Seeing | blog | 5 | 2026-03-31 |
 | Quotes | blog | 5 | 2026-03-31 |
+| RAQs | blog | 5 | 2026-03-31 |
 | Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 5 | 2026-03-30 |
 | Real Estate 3.0 – The Ownership Revolution | blog | 5 | 2026-03-31 |
 | Real Estate's Hidden AI Revolution | blog | 5 | 2026-03-31 |
@@ -838,11 +839,13 @@ Generated on 2026-04-04 | 2421 sources
 | Beyond Smart | blog | 4 | 2026-03-31 |
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
+| Building a World-Class Innovation Culture: Bayer | blog | 4 | 2026-03-31 |
 | Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 4 | 2026-03-31 |
 | Business Model Evolution Using the Portfolio Map | blog | 4 | 2026-03-31 |
 | Business Model Generation Book Summary | Strategyzer | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 1: Manage The Existing Business | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 4 | 2026-03-31 |
+| Business Strategy: The Business Model Patterns | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Could VC be a Casualty of the Recession? | blog | 4 | 2026-03-31 |
@@ -857,6 +860,7 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 4 | 2026-03-30 |
 | Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
+| Defining Property | blog | 4 | 2026-03-31 |
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
 | Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
@@ -973,6 +977,7 @@ Generated on 2026-04-04 | 2421 sources
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 4 | 2026-03-30 |
 | What happens if the world pulls its money out of America? | blog | 4 | 2026-03-30 |
+| What I Read This Week… | blog | 4 | 2026-03-30 |
 | What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | Where to See Silicon Valley | blog | 4 | 2026-03-31 |
@@ -1095,6 +1100,7 @@ Generated on 2026-04-04 | 2421 sources
 | Messages For The Future | youtube | 4 | 2026-03-30 |
 | Most AI Startups Fail (Here’s Why Yours Might Too) | youtube | 4 | 2026-03-23 |
 | My Tech Startup Failed... | youtube | 4 | 2026-03-23 |
+| Mystery of Prince Rupert's Drop at 130,000 fps - Smarter Every Day 86 | youtube | 4 | 2026-03-30 |
 | Napoleonic Wars: Downfall 1809 - 14 | youtube | 4 | 2026-03-26 |
 | NASA의 진짜 목표는 달이 아니다? 아르테미스 계획 총정리ㅣ범준에물리다 | youtube | 4 | 2026-03-22 |
 | Neri Oxman: Biology, Art, and Science of Design & Engineering with Nature | Lex Fridman Podcast #394 | youtube | 4 | 2026-03-24 |
@@ -1177,6 +1183,7 @@ Generated on 2026-04-04 | 2421 sources
 | This n8n workflow scrapes any business URL and writes a full analysis report for ~$0.20 | reddit | 3 | 2026-03-20 |
 | I built an n8n workflow that scrapes unlimited LinkedIn leads | reddit | 3 | 2026-03-20 |
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 3 | 2026-03-20 |
+| Business Model Innovation and Change | blog | 3 | 2026-03-31 |
 | Olympiad-level formal mathematical reasoning with reinforcement learning - Nature | blog | 3 | 2026-03-26 |
 | The 2026 AI product strategy guide: How to plan, budget, and build without buying into the hype | blog | 3 | 2026-03-26 |
 | Why most AI products fail: Key findings from MIT’s 2025 AI Report | blog | 3 | 2026-03-26 |
@@ -2039,15 +2046,12 @@ Generated on 2026-04-04 | 2421 sources
 | Bootcamp Exclusive: Steve Blank On Lean Startup Inside Big Companies & More | blog | 0 | 2026-03-31 |
 | Bradley's Ghost | blog | 0 | 2026-03-31 |
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
-| Building a World-Class Innovation Culture: Bayer | blog | 0 | 2026-03-31 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
-| Business Model Innovation and Change | blog | 0 | 2026-03-31 |
 | Business Model Innovation in Existing Companies | blog | 0 | 2026-03-31 |
 | Business Model Portfolio Part 3: The Business Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
-| Business Strategy: The Business Model Patterns | blog | 0 | 2026-03-31 |
 | Change Your Name | blog | 0 | 2026-03-31 |
 | China is quietly looking weaker | blog | 0 | 2026-03-30 |
 | China's Startup Scene📉, Illiquidity is a Feature💡, Scaling SaaS💻 | blog | 0 | 2026-03-30 |
@@ -2115,7 +2119,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: The Media Landscape - Sense-Making 2.0 | blog | 0 | 2026-03-30 |
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
 | Deep Dive: Why AI Will Break the Grid | blog | 0 | 2026-03-30 |
-| Defining Property | blog | 0 | 2026-03-31 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Do Founders Ever Take a Vacation?🌴,AI and Longevity🤖, Venture Trends Q2 2024📊 | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
@@ -2233,7 +2236,6 @@ Generated on 2026-04-04 | 2421 sources
 | Programming Bottom-Up | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
-| RAQs | blog | 0 | 2026-03-31 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
 | Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
@@ -2362,7 +2364,6 @@ Generated on 2026-04-04 | 2421 sources
 | Welcome to Chaos World | blog | 0 | 2026-03-30 |
 | What Can Quantum Computers Actually Do | blog | 0 | 2026-03-30 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
-| What I Read This Week… | blog | 0 | 2026-03-30 |
 | What Kate Saw in Silicon Valley | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |
 | What Made Lisp Different | blog | 0 | 2026-03-31 |
@@ -2413,7 +2414,6 @@ Generated on 2026-04-04 | 2421 sources
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
-| Mystery of Prince Rupert's Drop at 130,000 fps - Smarter Every Day 86 | youtube | 0 | 2026-03-30 |
 | Navy SEAL has a '40 Percent Rule' and it's the key to overcoming mental barriers | Big Think | youtube | 0 | 2026-03-30 |
 | Photosynthesis: Crash Course Biology #8 | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |

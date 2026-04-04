@@ -58,6 +58,7 @@ related:
   - INS-260403-DB22
   - INS-260322-C472
   - INS-260403-F112
+  - INS-260403-3A34
 ---
 Gary Pisano's Creative Construction thesis directly challenges the popular advice that big companies should 'think like startups.' The reality is that startups and enterprises face fundamentally different constraint landscapes: startups lack resources but have freedom; enterprises have resources but face political, cultural, and structural barriers that startup methods don't address.
 

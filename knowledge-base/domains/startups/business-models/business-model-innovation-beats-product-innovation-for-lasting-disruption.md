@@ -45,7 +45,6 @@ stance: >-
   Companies that redesign how they create, deliver, and capture value disrupt
   more durably than those who only innovate on product features.
 related:
-  - INS-260322-FCFC
   - INS-260322-F6AA
   - INS-260322-BD0D
   - INS-260330-D801
@@ -53,8 +52,9 @@ related:
   - INS-260403-52DB
   - INS-260403-9276
   - INS-260403-3F10
-  - INS-260403-CA57
+  - INS-260403-E0FE
   - INS-260403-8CDD
+  - INS-260403-CA57
 ---
 Historical examples from Diners Club (1950) to Netflix show that the most enduring disruptions come from reimagining how value flows between company and customer, not from better features. Xerox didn't win with better copiers—they won with leasing and per-copy pricing. Dollar Shave Club didn't make better razors—they changed the purchasing model.
 

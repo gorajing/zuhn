@@ -54,9 +54,9 @@ related:
   - INS-260330-856B
   - INS-260403-07C6
   - INS-260403-FB8E
-  - INS-260403-9AB5
   - INS-260403-9FE2
   - INS-260323-19A8
+  - INS-260403-924B
 ---
 The article lists six timing signals for innovation software investment, but the most revealing is 'leadership requires clear ROI on innovation initiatives.' This reframes the purchase decision from an operational problem (too many ideas) to a strategic one (can't prove innovation creates value).
 
