@@ -1,7 +1,7 @@
 # Tag: career-decisions
 
-- `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260403-6EDC` Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
+- `INS-260402-0392` People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
 - `INS-260330-207D` Career anxiety is best addressed by channeling it into dedicated pursuit of your passion rather than retreating to safer options.
 - `INS-260327-DAA4` Most people dramatically under-invest in risk—the US ecosystem uniquely rewards those who take bold career bets.
 - `INS-260402-8EED` A sufficiently pleasant employer can lull you into staying indefinitely even when starting a startup would produce a better outcome, because startups require crossing an activation energy barrier.

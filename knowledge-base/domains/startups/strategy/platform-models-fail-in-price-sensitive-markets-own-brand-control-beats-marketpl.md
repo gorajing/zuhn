@@ -51,13 +51,13 @@ related:
   - INS-260324-B7C0
   - INS-260324-8FB4
   - INS-260324-6C83
-  - INS-260323-07BE
   - INS-260324-92E9
   - PRI-260328-82BE
   - INS-260330-DC0D
   - INS-260327-D0F4
   - INS-260324-179B
   - INS-260330-27E8
+  - INS-260327-2043
 stance: >-
   Open Secret went from -47% EBITDA aggregating 150 brands to 4% profitable
   EBITDA by killing the marketplace and going own-brand only.

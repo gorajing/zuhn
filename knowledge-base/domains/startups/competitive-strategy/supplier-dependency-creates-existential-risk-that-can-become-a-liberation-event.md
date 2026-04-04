@@ -58,8 +58,8 @@ related:
   - INS-260330-F22A
   - INS-260330-8998
   - INS-260330-0525
+  - INS-260403-5554
   - INS-260330-3084
-  - INS-260330-9933
   - INS-260330-CB2E
 ---
 When Onitsuka secretly planned to replace Blue Ribbon Sports with other US distributors, Phil Knight was devastated. But the betrayal forced a pivot from distributor to brand owner. They already had Bowerman's shoe designs, market knowledge, and customer relationships — everything except manufacturing independence. Once forced to find their own manufacturers, they established a multi-supplier network that gave them more control than they'd ever had.

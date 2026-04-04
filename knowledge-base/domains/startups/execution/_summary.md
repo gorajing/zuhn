@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 200 insights
+> 204 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -38,6 +38,7 @@
 - `INS-260327-3C19` [high] As CEO, one wrong prioritization decision can easily waste 3 months building something that does not matter.
 - `INS-260330-9751` [high] Spending less money gives you more time, more negotiating power, and more freedom to let ideas evolve at every stage.
 - `INS-260329-4870` [high] A singly linked list and doubly linked list both implement the same list interface, but the wrong choice creates invisible O(n) costs that only surface at scale.
+- `INS-260403-9DA1` [high] Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
 - `INS-260323-53BF` [high] Culture is not what you write on the wall — it is the collective habits of the superorganism that dictate day-to-day execution, and it changes only through iterative feedback loops, never by decree.
 - `INS-260402-91B5` [high] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260330-2CE5` [high] YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
@@ -107,6 +108,7 @@
 - `INS-260327-2387` [high] Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260330-39D7` [high] Sweating details that users never see installs a culture of precision that makes excellence self-reinforcing across the organization.
 - `INS-260327-7D0B` [high] Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
+- `INS-260403-323A` [high] Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
 - `INS-260327-1064` [high] The natural tendency of tech founders is to ignore operations, but for many businesses, operational execution determines success or failure.
 - `INS-260329-3FA6` [high] Redefine work as outputs (volume × leverage) rather than inputs like hours, effort, or intensity.
 - `INS-260402-92AE` [high] Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
@@ -180,6 +182,7 @@
 - `INS-260323-CB34` [high] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
 - `INS-260329-AB9A` [high] Programming for your own use cases removes the hardest parts of software development and lets you focus purely on problem-solving.
 - `INS-260327-DD5C` [high] Christoph Janz's framework shows five ways to build a $100M business: 1,000 customers at $100K, 10,000 at $10K, or 10 million at $10 — and your sales approach must match which path you're on.
+- `INS-260403-F4B9` [high] Instead of moving ships empty between Caribbean and European seasons, cruise lines sell repositioning tickets — turning a cost center (transit) into a revenue stream.
 - `INS-260329-7A3C` [medium] Fill your calendar from 5pm backward so meetings stack at the end of the day and mornings stay open for deep work.
 - `INS-260327-767B` [medium] In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
 - `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
@@ -188,6 +191,7 @@
 - `INS-260403-4328` [medium] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
+- `INS-260403-7BBD` [medium] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - `INS-260330-498B` [medium] Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.
 - `INS-260329-1F3F` [medium] Burning your escape routes forces the persistence that passion-based motivation cannot sustain.
 - `INS-260329-50BD` [medium] The four-year opportunity cost of college is the largest hidden expense — direct experience compounds while academic credentials depreciate.

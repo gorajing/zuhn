@@ -56,6 +56,7 @@ related:
   - INS-260323-F853
   - INS-260323-F2C3
   - INS-260322-116B
+  - INS-260403-2BAF
 ---
 After compiling his hero list spanning sports, art, writing, science, and engineering, Graham discovered a surprisingly clear pattern: every person on the list cared almost excessively about their work and was absolutely honest — meaning they never said or did something because that's what the audience wanted. This combination made them all 'fundamentally subversive,' though they concealed it to varying degrees.
 

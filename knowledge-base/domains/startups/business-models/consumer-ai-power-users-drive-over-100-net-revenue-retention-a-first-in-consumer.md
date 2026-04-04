@@ -56,7 +56,7 @@ related:
   - INS-260329-C8C7
   - INS-260323-7D3C
   - INS-260321-AA91
-  - INS-260327-7681
+  - INS-260327-4233
 stance: >-
   The best consumer AI companies achieve over 100% net revenue retention through
   usage-based pricing on top of subscriptions

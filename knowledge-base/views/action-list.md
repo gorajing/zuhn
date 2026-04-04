@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3373 actionable insights
+Generated on 2026-04-04 | 3378 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1709,6 +1709,7 @@ Generated on 2026-04-04 | 3373 actionable insights
 - [INS-260330-B625] Morale compounds in both directions: high morale → good work → higher morale, or low morale → poor work → demoralization, making it the foundation of sustained ambitious effort.
 - [INS-260403-E300] Making failure publicly visible locks founders into persistence more effectively than potential upside.
 - [INS-260403-14CB] Success breeds temptations that erode the very determination that created the success, unless discipline scales proportionally.
+- [INS-260403-D99D] The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -2242,6 +2243,9 @@ Generated on 2026-04-04 | 3373 actionable insights
 - [INS-260403-4328] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - [INS-260403-E52B] The Calvin Cycle produces 6 G3P molecules but 5 must regenerate the starting material—only 1 leaves as net output, revealing the true cost of sustaining a production cycle.
 - [INS-260403-FF4E] Writing a list of N things mirrors iterative programming — you get a valid structure in minutes and refine it, maintaining a working artifact at every point.
+- [INS-260403-9DA1] Destin's fluid dynamics knowledge combined with David's motion control engineering made a previously impossible recreation achievable.
+- [INS-260403-7BBD] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
+- [INS-260403-323A] Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2454,6 +2458,7 @@ Generated on 2026-04-04 | 3373 actionable insights
 - [INS-260402-4B96] Startups are where gaming the system stops working because users only care if your product solves their problem.
 - [INS-260403-3E9A] Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.
 - [INS-260403-E365] Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
+- [INS-260403-DAB1] Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.

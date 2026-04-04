@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 434 insights
+> 436 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -225,6 +225,7 @@
 - `INS-260330-CC49` [high] Monopolists describe their market as the union of many large markets to appear small; competitors describe theirs as the intersection of narrow niches to appear unique.
 - `INS-260323-E551` [high] Tudor maintained his ice monopoly by systematically undercutting copycat businesses on price until they gave up or went bankrupt.
 - `INS-260323-0EE2` [high] ASML's monopoly exists because EUV requires solving dozens of 'impossible' problems simultaneously — mirrors smooth to 2.3 atoms, tin droplets hit 50,000 times/second with zero misses, and 13.5nm light generation — and no competitor can replicate the full stack.
+- `INS-260403-5554` [high] Carnival and Royal Caribbean own dozens of sub-brands spanning mainstream to luxury, isolating disasters like Costa Concordia from damaging their full portfolio.
 - `INS-260327-7D53` [high] No CTO has ever said their cloud bill is cheap — multi-model, multi-cloud platforms win by giving enterprises what hyperscalers refuse: freedom from lock-in.
 - `INS-260327-C673` [high] Not every product needs to make money — some exist for retention, and confusing the two goals causes teams to optimize for the wrong outcomes.
 - `INS-260330-4F2A` [high] When users can freely use competing marketplaces simultaneously, network effects erode — making supply-side lock-in the critical strategic priority.
@@ -281,6 +282,7 @@
 - `INS-260330-242D` [high] Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
 - `INS-260403-9442` [high] Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260330-ED9D` [high] Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
+- `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
 - `INS-260330-C761` [high] When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.

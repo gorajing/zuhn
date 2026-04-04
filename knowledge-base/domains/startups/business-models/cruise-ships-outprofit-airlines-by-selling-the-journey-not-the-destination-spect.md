@@ -42,10 +42,11 @@ resolutions:
     lesson: when you can't win on the dominant industry metric (speed), redefine
     the value proposition entirely.
 related:
+  - INS-260403-616B
+  - INS-260403-F4B9
   - PRI-260328-F497
   - PRI-260324-C63E
   - INS-260327-B715
-  - INS-260327-F229
   - INS-260330-2332
 stance: A flight from NYC to Barcelona takes 8 hours; by ship it's 8-10 days
 ---

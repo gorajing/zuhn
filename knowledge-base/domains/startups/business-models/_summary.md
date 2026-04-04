@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 145 insights
+> 147 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -70,8 +70,10 @@
 - `INS-260330-9470` [high] 75-85% of a tech company's value comes from cash flows 10+ years out — we overvalue growth rates and undervalue durability because growth is measurable now while longevity is qualitative.
 - `INS-260327-418E` [high] Donut shops that survived evolved from simple bakeries to premium experiences, coffee destinations, and social media att
 - `INS-260327-5D01` [high] Legal cannabis businesses face the paradox of competing with the illegal market on price while bearing the compliance co
+- `INS-260403-616B` [high] Mainstream cruise lines sell tickets at or below cost, then profit from onboard casinos, spas, drinks, and shopping where passengers have no alternatives.
 - `INS-260327-0E28` [high] Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
 - `INS-260403-426A` [high] Marketplaces progress through horizontal lead gen, vertical lead gen, vertical transactional, and tightly managed phases.
+- `INS-260403-B2CB` [high] Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260327-4C5E` [high] External events that spike a stocks price (Reddit squeezes, viral moments) provide temporary reprieve but cannot address
 - `INS-260330-0998` [high] Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260403-94CA` [high] McDonald's makes 64% of franchise revenue from rent, not food — it is functionally a real estate company disguised as a fast food chain.

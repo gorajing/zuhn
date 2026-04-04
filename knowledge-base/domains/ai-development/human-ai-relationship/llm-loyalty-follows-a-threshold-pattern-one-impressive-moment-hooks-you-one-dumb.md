@@ -49,6 +49,7 @@ resolutions:
     tool fails on a critical task.
 related:
   - INS-260403-D531
+  - INS-260403-B6FF
   - PRI-260323-2C5C
   - INS-260329-1D08
   - INS-260327-9F46

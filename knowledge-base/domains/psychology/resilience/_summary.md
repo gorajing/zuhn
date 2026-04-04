@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 138 insights
+> 140 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -98,6 +98,7 @@
 - `INS-260326-7F56` [high] Worthiness is the sole differentiator — people who feel they belong simply believe they deserve to.
 - `INS-260325-C2DA` [high] During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
 - `INS-260325-F500` [high] Thoreau: deliberate simplicity strips away everything that is not life — the 'loser' who chooses less experiences more.
+- `INS-260403-D99D` [high] The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
 - `INS-260325-3754` [high] Research consistently shows approximately two-thirds of people exposed to potentially traumatic events continue functioning normally — resilience is the norm, not the exception.
 - `INS-260327-ECBB` [high] Choosing to live with less than you can afford builds a psychological strength that living at maximum comfort systematically destroys.
 - `INS-260326-6CA3` [high] You cannot numb vulnerability without also numbing joy — the emotional system does not allow selective suppression.
@@ -121,6 +122,7 @@
 - `INS-260327-7846` [medium] Late success isn't failed early success - the depth required for truly meaningful work often requires decades of development that early success shortcuts.
 - `INS-260329-BBF9` [medium] Reframe every purchase as 'would I work X hours for this item' to reveal its true cost.
 - `INS-260330-033A` [medium] Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
+- `INS-260403-4F4B` [medium] Persistence is best learned through lived experience on a single obsessive project, not through frameworks or advice.
 - `INS-260330-7A80` [medium] Panic is the collapse of sequential reasoning — restoring it requires forcing yourself to make one decision at a time rather than trying to solve the whole crisis simultaneously.
 - `INS-260330-1226` [medium] After his wife died four months into their marriage, the 24-year-old Morgan threw himself into work with an intensity that defined the rest of his career.
 - `INS-260327-900A` [medium] The darkest philosophical questions don't need to be avoided for psychological health - they need to be integrated, producing a resilience that avoidance can never build.

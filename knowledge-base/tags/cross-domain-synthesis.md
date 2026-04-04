@@ -15,6 +15,6 @@
 - `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
 - `INS-260328-75B8` Some business constraints are physics — no execution can overcome a market that only buys once a year or a supply chain that can't reach the customer.
 - `INS-260326-286F` What wins long-term is always the thing that accumulates invisibly, because the impressive-looking variable commoditizes.
-- `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260326-20C8` The same mechanism that makes founders avoid hard truths is what makes people avoid emotional intimacy — self-protection destroys what it claims to protect.
+- `INS-260328-E410` Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
 - `INS-260326-E0E1` Deep work and genuine leadership both drain the same finite resource — you cannot maximize both on the same day.

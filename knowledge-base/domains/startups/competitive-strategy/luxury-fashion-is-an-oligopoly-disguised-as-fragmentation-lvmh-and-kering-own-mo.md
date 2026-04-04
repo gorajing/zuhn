@@ -45,10 +45,10 @@ resolutions:
     scale.
 related:
   - INS-260327-61AE
+  - INS-260403-5554
   - INS-260329-C0F1
   - INS-260324-6A99
   - PRI-260324-A608
-  - INS-260323-5C6F
 stance: >-
   Buy Alexander McQueen sneakers, a Gucci jacket, and a YSL bag from 3
   'different' brands — all your money goes to the same company (Kering)

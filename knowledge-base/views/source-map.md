@@ -125,6 +125,7 @@ Generated on 2026-04-04 | 2421 sources
 | World's Roundest Object! | youtube | 10 | 2026-03-30 |
 | You’re Wasting 80% of Your Time (here’s how to fix it) | youtube | 10 | 2026-03-30 |
 | Yuval Noah Harari: Why advanced societies fall for mass delusion | youtube | 10 | 2026-03-25 |
+| How to Do Great Work | blog | 9 | 2026-03-31 |
 | 10 Different Ways To Break Down Making $1 Million | youtube | 9 | 2026-03-30 |
 | ATP & Respiration: Crash Course Biology #7 | youtube | 9 | 2026-03-30 |
 | C Programming Tutorial for Beginners | youtube | 9 | 2026-03-29 |
@@ -348,7 +349,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to Be Silicon Valley | blog | 5 | 2026-03-31 |
 | How to Build AI Product Strategy (By OpenAI’s Product Lead) | blog | 5 | 2026-03-30 |
 | How to Convince Investors | blog | 5 | 2026-03-31 |
-| How to Do Great Work | blog | 5 | 2026-03-31 |
 | How to Do Philosophy | blog | 5 | 2026-03-31 |
 | How to Do What You Love | blog | 5 | 2026-03-31 |
 | How to Evaluate a Startup Exit: Signs, Metrics & Red Flags | blog | 5 | 2026-03-30 |
@@ -383,6 +383,7 @@ Generated on 2026-04-04 | 2421 sources
 | Let's save the human species! | blog | 5 | 2026-03-30 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
+| Mark Cuban Interview: Startup Lessons, AI Insights, and Dealflow Opportunities for Founders | blog | 5 | 2026-03-30 |
 | Maybe you should have bought an electric car | blog | 5 | 2026-03-30 |
 | Mind the Gap | blog | 5 | 2026-03-31 |
 | Moltbook: After The First Weekend | blog | 5 | 2026-03-30 |
@@ -781,6 +782,7 @@ Generated on 2026-04-04 | 2421 sources
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
+| Haters | blog | 4 | 2026-03-31 |
 | Having Kids | blog | 4 | 2026-03-31 |
 | Headcount Planning Template to Control Startup Burn | blog | 4 | 2026-03-30 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
@@ -809,6 +811,7 @@ Generated on 2026-04-04 | 2421 sources
 | Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 4 | 2026-03-30 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
+| SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
@@ -839,6 +842,8 @@ Generated on 2026-04-04 | 2421 sources
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 4 | 2026-03-31 |
 | Why TV Lost | blog | 4 | 2026-03-31 |
+| YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
+| Zero-sum economics keeps failing | blog | 4 | 2026-03-30 |
 | 10 Reasons Why Your Small Business Will Fail - and How To Avoid These Tragic Mistakes | youtube | 4 | 2026-03-23 |
 | 100+ JavaScript Concepts you Need to Know | youtube | 4 | 2026-03-30 |
 | 100+ Linux Things you Need to Know | youtube | 4 | 2026-03-30 |
@@ -897,6 +902,7 @@ Generated on 2026-04-04 | 2421 sources
 | How Boba Shops Really Make Money | youtube | 4 | 2026-03-24 |
 | How childhood wiring impacts adult life, in 90 minutes | Becky Kennedy: Full Interview | youtube | 4 | 2026-03-25 |
 | How China's 'Perfect' Spy Got Caught | Bloomberg Investigates | youtube | 4 | 2026-03-23 |
+| How Cruise Ships Work | youtube | 4 | 2026-03-30 |
 | How Earth Moves | youtube | 4 | 2026-03-30 |
 | How Hard Can You Hit a Golf Ball? (at 100,000 FPS) - Smarter Every Day 216 | youtube | 4 | 2026-03-30 |
 | How I Grew My App to $13K/month (Even Though I Hate Marketing) | youtube | 4 | 2026-03-22 |
@@ -984,6 +990,7 @@ Generated on 2026-04-04 | 2421 sources
 | Training General Robots for Any Task: Physical Intelligence’s Karol Hausman and Tobi Springenberg | youtube | 4 | 2026-03-26 |
 | Travel INSIDE a Black Hole | youtube | 4 | 2026-03-30 |
 | Trying to Catch a 1,000 MPH Baseball - Smarter Every Day 247 | youtube | 4 | 2026-03-30 |
+| Two Vortex Rings Colliding in SLOW MOTION - Smarter Every Day 195 | youtube | 4 | 2026-03-30 |
 | Vectors | Chapter 1, Essence of linear algebra | youtube | 4 | 2026-03-30 |
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
@@ -2044,7 +2051,6 @@ Generated on 2026-04-04 | 2421 sources
 | GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 0 | 2026-03-30 |
-| Haters | blog | 0 | 2026-03-31 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 417.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 419.5 | blog | 0 | 2026-03-30 |
@@ -2104,7 +2110,6 @@ Generated on 2026-04-04 | 2421 sources
 | Maker's Schedule, Manager's Schedule | blog | 0 | 2026-03-31 |
 | Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 0 | 2026-03-30 |
 | Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
-| Mark Cuban Interview: Startup Lessons, AI Insights, and Dealflow Opportunities for Founders | blog | 0 | 2026-03-30 |
 | Mastercard brings 85+ firms into crypto payments push | blog | 0 | 2026-03-30 |
 | Mean People Fail | blog | 0 | 2026-03-31 |
 | Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 0 | 2026-03-30 |
@@ -2164,7 +2169,6 @@ Generated on 2026-04-04 | 2421 sources
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
-| SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 0 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
 | Schlep Blindness | blog | 0 | 2026-03-31 |
@@ -2368,10 +2372,8 @@ Generated on 2026-04-04 | 2421 sources
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | YC W26 DB💰, $1T Services Opportunity🤖, How to Set Up Claude Cowork⚙️ | blog | 0 | 2026-03-30 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
-| YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 0 | 2026-03-30 |
 | YC's Handshake Deal Protocol🤝, The Generative AI Winners of 2025 🤖, Redefining Independent Media📰 | blog | 0 | 2026-03-30 |
 | You are no longer the smartest type of thing on Earth | blog | 0 | 2026-03-30 |
-| Zero-sum economics keeps failing | blog | 0 | 2026-03-30 |
 | 10 Programmer Stereotypes | youtube | 0 | 2026-03-30 |
 | 6 ways to heal trauma without medication | Bessel van der Kolk | Big Think | youtube | 0 | 2026-03-30 |
 | AI influencers are getting filthy rich... let's build one | youtube | 0 | 2026-03-30 |
@@ -2390,7 +2392,6 @@ Generated on 2026-04-04 | 2421 sources
 | Henry Rollins: The One Decision that Changed My Life Forever | Big Think | youtube | 0 | 2026-03-30 |
 | How An Infinite Hotel Ran Out Of Room | youtube | 0 | 2026-03-30 |
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |
-| How Cruise Ships Work | youtube | 0 | 2026-03-30 |
 | How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | youtube | 0 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 0 | 2026-03-30 |
 | How to enter ‘flow state’ on command | Steven Kotler for Big Think | youtube | 0 | 2026-03-30 |
@@ -2414,7 +2415,6 @@ Generated on 2026-04-04 | 2421 sources
 | This free Chinese AI just crushed OpenAI's $200 o1 model... | youtube | 0 | 2026-03-30 |
 | This Is Why Trump Cheats at Golf | youtube | 0 | 2026-03-30 |
 | This new AI is powerful and uncensored… Let’s run it | youtube | 0 | 2026-03-30 |
-| Two Vortex Rings Colliding in SLOW MOTION - Smarter Every Day 195 | youtube | 0 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
 | What If Everyone JUMPED At Once? | youtube | 0 | 2026-03-30 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 0 | 2026-03-30 |

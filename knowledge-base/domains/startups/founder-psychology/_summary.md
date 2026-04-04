@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 50 insights
+> 51 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -35,6 +35,7 @@
 - `INS-260323-95FE` [high] Cox's first fraud (whiting out a late payment) didn't satisfy the urge — it emboldened him, rapidly escalating from minor document alteration to synthetic identities and $55M in fraud.
 - `INS-260323-A183` [high] Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
 - `INS-260323-5B9F` [high] Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd rather make YouTube content — that self-awareness is the kill signal most founders ignore for months.
+- `INS-260403-DAB1` [high] Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.
 - `INS-260330-E39E` [high] The 'can't not do it' test — where the idea beats itself out of your chest — is the only reliable predictor of founder endurance through a decade of startup pain.
 - `INS-260403-0821` [high] What stops people from starting companies is the crushing weight of responsibility, not financial risk or long hours.
 - `INS-260323-0683` [high] As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.

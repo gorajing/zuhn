@@ -48,7 +48,6 @@ stance: >-
   distribution capture dramatically more value from each intellectual property
   than those that license pieces.
 related:
-  - INS-260324-E785
   - INS-260324-98F6
   - INS-260327-F651
   - INS-260327-87A3

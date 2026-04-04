@@ -42,9 +42,9 @@ resolutions:
 related:
   - INS-260329-913C
   - INS-260330-930D
+  - INS-260403-B2CB
   - INS-260330-DC0D
   - INS-260329-B194
-  - INS-260329-C409
   - INS-260327-7681
 stance: >-
   SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic

@@ -1,5 +1,6 @@
 # Tag: embodied-cognition
 
+- `INS-260403-F7DE` Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
 - `INS-260330-4D81` The feeling of being located behind your eyes looking outward is a cognitive habit, not a structural feature of consciousness.
 - `INS-260327-DD48` Intelligence that emerged from embodied biological experience and intelligence that emerged from statistical text processing may be so different that calling both 'intelligence' is misleading.
 - `INS-260330-8304` Psychedelic breakthroughs are 'duh moments' — people finally feel truths they already knew intellectually but hadn't integrated emotionally.
