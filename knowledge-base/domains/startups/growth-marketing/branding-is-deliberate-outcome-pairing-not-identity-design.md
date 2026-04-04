@@ -45,7 +45,6 @@ stance: >-
   itself.
 related:
   - INS-260322-7DD5
-  - INS-260323-5C6F
   - INS-260323-2E49
   - INS-260322-5A72
   - INS-260327-F7BD
@@ -54,6 +53,7 @@ related:
   - INS-260327-8389
   - INS-260329-2EB1
   - INS-260329-5924
+  - INS-260329-72EF
 evidence:
   - id: INS-260322-7DD5
     type: EXTENDS

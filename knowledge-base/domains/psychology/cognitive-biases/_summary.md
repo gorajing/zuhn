@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 230 insights
+> 231 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -117,6 +117,7 @@
 - `INS-260330-F737` [high] Schlep blindness causes founders to unconsciously avoid ideas involving tedious operational work, systematically hiding the highest-value opportunities.
 - `INS-260330-716C` [high] Tyson identifies at least four stacking biases in the search for extraterrestrial life (carbon, planet, habitable zone, intelligence), each of which independently narrows the search space.
 - `INS-260330-F909` [high] Secrets and lies spoil like food with limited shelf life, but trust earned from keeping them compounds indefinitely—always choose the long-term play.
+- `INS-260403-28C7` [high] We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 - `INS-260329-67D1` [high] Letting customers choose their own quantity shifts price blame from the business to the buyer.
 - `INS-260330-712D` [high] When excited about a new trend, ruthlessly separate the real value proposition from the fantasies you're projecting onto it.
 - `INS-260327-85DA` [high] Evolution wired us for short-term thinking, and then we built institutions (elections, quarterly earnings, news cycles) that amplify exactly this bias at civilizational scale.

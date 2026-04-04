@@ -50,5 +50,6 @@ related:
   - INS-260403-B9A9
   - INS-260322-F6AA
   - INS-260403-A709
+  - INS-260403-ADB3
 ---
 Since $3,000/month is trivially achievable through contract programming, founders face a seductive trap: earning ramen money through consulting while telling themselves they're running a startup. Graham is precise about the distinction — startups must be product companies that grow fast, and consulting fundamentally cannot scale that way. The revenue source for ramen profitability doesn't need to be the ultimate business model (Google initially licensed search to Yahoo), but founders must maintain clarity that ramen profitability is a waypoint, not a destination. This is a specific instance of a broader pattern: survival tactics that become comfortable can prevent the risk-taking needed for breakout growth.

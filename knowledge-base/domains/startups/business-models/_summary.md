@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 137 insights
+> 141 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -35,6 +35,7 @@
 - `INS-260323-5106` [high] Casper, built to disrupt retail mattress stores, found that retail sales grew 74% year-over-year with 15% higher average orders — the thing they disrupted became their only hope.
 - `INS-260324-D90C` [high] Casper, Warby Parker, and Dollar Shave Club promised that cutting out retailers would lower costs — but they replaced wholesale margins with massive advertising budgets and ended up spending more on customer acquisition than retailers spent on shelf space.
 - `INS-260327-130C` [high] In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end
+- `INS-260403-5BBE` [high] Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260402-8170` [high] Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
 - `INS-260329-2D77` [high] Spending $9M to acquire 10,000 permanent customers generating $12M ARR creates $120M in enterprise value — tax-free until exit.
 - `INS-260329-5514` [high] Revenue and profit grow enterprise value by a multiple (3-20x), making equity appreciation the dominant wealth creation lever over personal income.
@@ -47,6 +48,7 @@
 - `INS-260327-EF89` [high] Franchise brands face an inherent quality control problem because brand perception depends on the operational quality of
 - `INS-260327-C0C6` [high] Burger King's franchises sued the company because corporate mandated $1 Whoppers that generated royalty revenue for headquarters but forced franchisees to sell at negative margins.
 - `INS-260327-D5F0` [high] Ice cream and frozen food businesses face cost structures dominated by cold chain logistics, where maintaining temperatu
+- `INS-260403-8008` [high] The most powerful business models get customers, communities, or third parties to create the core value while the company provides the platform.
 - `INS-260327-80E9` [high] A rapidly growing roster of gig drivers competing for a shrinking pool of customers willing to pay $50 burrito delivery fees creates unsustainable per-driver economics.
 - `INS-260403-096C` [high] When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
 - `INS-260330-CAAB` [high] Apple embraced longer device lifecycles because every iPhone user—new or used—still generates services revenue through apps, subscriptions, and licensing deals like Google's $9B search default payment.
@@ -78,6 +80,7 @@
 - `INS-260324-CBD3` [high] LA's top nightcrawlers make 6-8 figures filming breaking news at night that local TV stations can't cover — invisible infrastructure with guaranteed institutional demand.
 - `INS-260323-5A96` [high] Americans replace mattresses every 9-10 years — Casper's massive ad spend couldn't change this fundamental market constraint, and growth decelerated from 43% to 18% despite continued spending.
 - `INS-260403-4E16` [high] Shifting from task-based to outcome-based pricing for AI agents mirrors healthcare's fee-for-service to value-based care transition, emphasizing quality over quantity.
+- `INS-260403-F5EE` [high] People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
 - `INS-260324-D612` [high] Pizza has the lowest food costs in fast food (flour, canned tomatoes, subsidized cheese), needs minimal space, and 50% of US pizza shops are still independent — unlike burgers where 90% are chains.
 - `INS-260327-C294` [high] Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
 - `INS-260327-FBD8` [high] Gun store revenue is driven primarily by fear of future regulation rather than actual use demand, creating cyclical boom
@@ -111,6 +114,7 @@
 - `INS-260330-9137` [high] Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
 - `INS-260327-4ED3` [high] Subscriptions have been forced onto products that don't need them — heated car seats, printer ink, software — creating consumer resentment that is now driving backlash against all subscription models.
 - `INS-260327-B9BB` [high] The difference between gardening as a hobby and gardening as income is planning density -- specifically, succession planting where beds are never empty and each crop has a replacement already growing weeks ahead.
+- `INS-260403-97F8` [high] Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260402-B2A2` [high] Tech industry phases are additive layers that compound value, not distinct eras that replace predecessors.
 - `INS-260324-157A` [high] Chinese merchants on Wish/Temu profit on $1-10 items because of low cost of living, cheap rural warehouses, and subsidized state-owned postal services — the platform takes a cut while owning zero inventory.
 - `INS-260327-C6A9` [high] Credit card economics depend on the minority of users who carry balances paying interest that subsidizes the rewards ear

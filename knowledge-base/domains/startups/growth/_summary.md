@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 59 insights
+> 61 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -45,6 +45,7 @@
 - `INS-260330-05C7` [high] Tiny growth rate differences compound into massive outcome gaps, making growth rate optimization the highest-leverage activity.
 - `INS-260330-8817` [high] Small differences in growth rates compound into enormous outcome divergence because exponential functions amplify parameter sensitivity over time.
 - `INS-260402-3F92` [high] A company growing 1% weekly reaches 1.7x/year; at 5% weekly it reaches 12.6x/year — human intuition dramatically underestimates this divergence.
+- `INS-260403-13E6` [high] Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
 - `INS-260402-318B` [high] Superlinear returns arise from exponential compounding, winner-take-all thresholds, or their combination.
 - `INS-260330-8048` [high] Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
 - `INS-260330-4B16` [high] Startups should not have dedicated growth teams and the CEO should set and enforce a single North Star metric so every autonomous decision compounds toward the same goal.
@@ -55,6 +56,7 @@
 - `INS-260330-2347` [high] When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
 - `INS-260403-8779` [medium] Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
 - `INS-260330-D99D` [medium] McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260403-D522` [medium] The most dynamic economic sector attracts the most ambitious people, causing it to expand fractally and set standards for the broader economy.
 - `INS-260403-D2A9` [medium] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 - `INS-260330-D711` [medium] The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
 - `INS-260403-1AD3` [medium] Startup ecosystems need a critical mass threshold before they become self-reinforcing through network effects.

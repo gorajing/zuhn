@@ -9,10 +9,10 @@
 - `INS-260327-7315` Austria's Archduke Charles reformed the Austrian army by copying Napoleon's corps system, which enabled Austria to defeat Napoleon at Aspern-Essling.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
+- `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
 - `INS-260330-E5DC` RuBisCo worked perfectly in low-oxygen atmospheres but its O2-confusion failure mode was invisible until plants changed their own environment — success can hide latent vulnerabilities.
 - `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260330-8C54` Instincts calibrated for normal environments become deadly when the environment fundamentally changes — surviving requires overriding your deepest impulses.
-- `INS-260330-A3EB` RuBisCo was perfectly adequate in a low-oxygen atmosphere but became fundamentally broken when plants' own oxygen output changed the environment — optimization creates invisible assumptions.
 - `INS-260326-06A1` Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260325-0895` Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.

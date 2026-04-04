@@ -1,23 +1,26 @@
 # Topic: innovation
 
-> 33 insights
+> 36 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
 - `INS-260403-130D` [high] Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
+- `INS-260403-1C09` [high] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260403-9627` [high] Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260403-1B53` [high] The same trait that makes hackers disrespectful of hierarchy is what makes them capable of breakthrough innovation.
 - `INS-260403-427E` [high] Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260403-F87C` [high] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
+- `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260403-F148` [high] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
 - `INS-260403-2BEE` [high] Growth experiments need independent spaces with dedicated resources to avoid being absorbed by the core business's gravitational pull.
 - `INS-260403-E4AD` [high] The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
 - `INS-260403-CF09` [high] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - `INS-260403-D62D` [high] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
+- `INS-260403-1358` [high] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
 - `INS-260403-924B` [high] The biggest startup opportunities come from using technology to break through consolidated industries, not from inventing new categories.
 - `INS-260403-740E` [high] The pattern of initial panic followed by exponential expansion has repeated across every major creative-technology disruption — photography, electronic music, chess engines, and now AI.
 - `INS-260403-FAD8` [high] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.

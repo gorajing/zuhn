@@ -14,6 +14,7 @@
 - `INS-260329-1D8D` Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
 - `INS-260329-BBBE` After losing everything, Hormozi made $100K the next month — proving the skills, not the business, were the real asset he'd built.
 - `INS-260323-E3FD` The 10,000-hour rule was misunderstood as 'practice creates excellence' — Gladwell himself clarifies it means practice is necessary but insufficient without innate talent, which is the hardware that skill (software) runs on.
+- `INS-260403-C3A3` Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260325-9F12` Gawande tracked his surgical complications for a decade, saw steady improvement, then hit a plateau at year 10-12 — a former professor observing him found 20 minutes of feedback after a single operation he thought went perfectly.
 - `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
 - `INS-260322-7A32` Finishing complete songs develops all production muscles simultaneously, while making loops only trains one.

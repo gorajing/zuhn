@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 196 insights
+> 197 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -182,6 +182,7 @@
 - `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
 - `INS-260403-566D` [medium] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
 - `INS-260327-5297` [medium] When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
+- `INS-260403-4328` [medium] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.
 - `INS-260330-498B` [medium] Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.

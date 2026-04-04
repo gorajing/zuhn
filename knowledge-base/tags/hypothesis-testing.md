@@ -5,6 +5,7 @@
 - `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260403-62B2` BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260330-32E6` When everyone tries to prove something true, almost no one looks for reasons it might be false — and that asymmetry delays discovery.
+- `INS-260403-B1F2` Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
 - `INS-260330-E6B7` DoorDash validated delivery demand with a one-hour landing page featuring PDF menus and a phone number, proving that consumer tolerance of bad UX signals real need.
 - `INS-260330-5D4F` Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
 - `INS-260403-45AA` Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.

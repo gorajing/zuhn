@@ -46,11 +46,11 @@ stance: >-
   returns through opportunity cost.
 related:
   - INS-260327-8374
+  - INS-260403-5BBE
   - INS-260327-FD4C
   - PRI-260403-88F5
   - INS-260329-541A
   - PRI-260328-FA83
-  - INS-260330-570F
 evidence:
   - id: INS-260327-8374
     type: EXTENDS

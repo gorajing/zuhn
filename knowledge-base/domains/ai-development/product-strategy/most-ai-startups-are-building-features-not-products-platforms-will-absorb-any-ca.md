@@ -49,10 +49,10 @@ resolutions:
     within 6 months.
 related:
   - INS-260403-D2B1
+  - INS-260403-43B9
   - INS-260327-B5C9
   - INS-260322-8D47
   - PRI-260328-0C15
-  - INS-260329-EBBB
   - INS-260324-1CC8
   - INS-260329-7CDE
   - INS-260403-F148

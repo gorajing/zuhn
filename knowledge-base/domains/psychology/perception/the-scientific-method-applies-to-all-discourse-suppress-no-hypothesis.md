@@ -43,6 +43,7 @@ resolutions:
     decide which ideas make sense to them. Censorship on campus is destructive
     to the entire educational enterprise.
 related:
+  - INS-260403-B1F2
   - PRI-260323-2FEE
   - INS-260402-D0F3
   - INS-260330-7819

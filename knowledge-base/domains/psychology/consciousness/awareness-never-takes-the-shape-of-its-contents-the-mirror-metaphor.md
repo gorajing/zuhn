@@ -52,5 +52,6 @@ related:
   - PRI-260324-1134
   - INS-260323-8289
   - INS-260330-1B74
+  - INS-260403-28C7
 ---
 Sam Harris argues that one of the most persistent illusions in human experience is that consciousness itself takes on the quality of its contents — that happy thoughts make consciousness happy, sad thoughts make it sad. Through a guided exercise of deliberately calling up unpleasant memories and observing the resulting mood, he demonstrates that awareness itself remains unchanged even as emotional valence shifts. The practical implication is that recognizing this separation — that you are the mirror, not the reflection — provides an immediate foothold for equanimity. Rather than trying to replace bad thoughts with good ones (content management), the practitioner can simply notice that awareness was never actually contaminated by its contents. This is not a belief to adopt but a structural feature of experience that can be directly verified through contemplative practice.

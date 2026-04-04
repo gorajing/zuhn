@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 144 insights
+> 146 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -30,6 +30,7 @@
 - `INS-260330-6204` [high] Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
 - `INS-260403-696C` [high] Falling startup costs make large VC checks unnecessary, eroding the traditional fund model.
 - `INS-260403-9D89` [high] Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies.
+- `INS-260403-ADB3` [high] Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - `INS-260330-C84C` [high] If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
@@ -55,6 +56,7 @@
 - `INS-260328-3959` [high] A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
 - `INS-260402-EA72` [high] Fundraising typically consumes months of a startup's most critical early period, and investors don't recognize the damage their indecision causes.
 - `INS-260403-2B6E` [high] Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
+- `INS-260403-0551` [high] No matter how strong your growth, never treat fundraising as guaranteed — always have a written plan B specifying exactly what you'll cut and when you'll switch.
 - `INS-260403-AA6A` [high] A near-100% fundraising rate after Demo Day likely means the accelerator is selecting too conservatively and missing outliers.
 - `INS-260330-855A` [high] YC data shows the most successful companies give 3-5% equity annually to employees, and investors who fight equity grants are shortsighted despite it diluting them equally with founders.
 - `INS-260403-028F` [high] Startup investors need domain expertise and skin in the game—two things structurally absent from government bureaucracies.

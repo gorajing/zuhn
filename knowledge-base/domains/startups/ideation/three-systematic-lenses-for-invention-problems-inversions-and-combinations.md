@@ -44,10 +44,10 @@ stance: >-
   viable ideas than unstructured brainstorming
 related:
   - INS-260330-30DE
+  - INS-260403-1358
   - INS-260327-E63E
   - INS-260327-165D
   - INS-260329-4DBC
-  - INS-260329-9513
 evidence:
   - id: INS-260330-30DE
     type: SUPPORTS

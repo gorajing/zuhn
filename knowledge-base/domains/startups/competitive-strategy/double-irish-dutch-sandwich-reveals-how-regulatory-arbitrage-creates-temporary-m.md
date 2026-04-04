@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260330-247C
   - INS-260330-F79F
+  - INS-260403-7219
   - PRI-260328-33E5
   - PRI-260403-2024
   - PRI-260328-F0B4
-  - INS-260329-59FF
 evidence:
   - id: INS-260330-F79F
     type: TRANSFERS_TO

@@ -54,6 +54,7 @@ related:
   - INS-260330-E670
   - INS-260330-0AD5
   - INS-260402-C030
+  - INS-260403-8A29
   - INS-260330-912C
 ---
 NFX contrasts LatAm's relative cultural and linguistic homogeneity (primarily Spanish and Portuguese) with Europe's extreme fragmentation across languages, regulations, and cultures. This homogeneity is a structural advantage for company building: easier customer acquisition, simpler regulatory navigation, and more predictable scaling operations. The pattern maps to where the most billion-dollar companies emerge — the US, China, and India all benefit from large, relatively homogeneous domestic markets. For founders choosing where to build, this suggests that market selection should weight cultural homogeneity heavily, not just GDP or population size. A $500B homogeneous market may be more valuable than a $2T fragmented one because the path to scale is dramatically cheaper and more predictable.

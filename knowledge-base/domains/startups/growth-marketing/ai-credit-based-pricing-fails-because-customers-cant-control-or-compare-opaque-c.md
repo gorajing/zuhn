@@ -56,7 +56,6 @@ resolutions:
     human who now does 10x more work, and the price feels fair because it scales
     with company size.
 related:
-  - INS-260322-E20E
   - INS-260327-CFC5
   - INS-260403-1E4A
   - INS-260329-39E1
@@ -66,6 +65,7 @@ related:
   - INS-260327-7681
   - INS-260327-6742
   - INS-260327-7D27
+  - INS-260329-1085
 stance: >-
   Enterprise customers resist AI credit-based pricing because credits are opaque
   (unlike transferable units like gigabytes), vendors can silently inc...

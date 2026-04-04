@@ -56,7 +56,6 @@ related:
   - INS-260329-5891
   - INS-260323-73AB
   - INS-260330-6C68
-  - INS-260330-F2EB
 ---
 Hormozi argues that broke entrepreneurs should not chase trends or analyze markets abstractly. Instead, the strongest starting point is the intersection of three personal filters: Pain (problems you have personally experienced and understand viscerally), Profession (skills you already get paid for or have deep competence in), and Passion (topics you would voluntarily spend time on without compensation).
 

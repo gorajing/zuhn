@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 100 insights
+> 101 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -32,6 +32,7 @@
 - `INS-260327-643E` [high] Ideas that seem bad — boring (Gusto/payroll), hard to start (Stripe/bank deals), or crowded (Dropbox/20 competitors) — systematically outperform because most founders avoid them.
 - `INS-260323-3436` [high] Everyone recognizes desktop clutter as a problem, but nobody's in enough pain to adopt a tool to solve it — recognizable problems and painful problems are completely different categories.
 - `INS-260327-CBCB` [high] Rajat worked as a waiter for a year — 16 hours a day inside restaurants — coding, testing the product with real users, and learning the industry from the inside.
+- `INS-260403-B1F2` [high] Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
 - `INS-260330-56AA` [high] LA validated shade balls with three $5 kiddie pools before spending $34M on 96 million balls — the cheapest test that could falsify the hypothesis.
 - `INS-260403-F4F6` [high] Landing page creation is now trivially fast, making copy and positioning the real validation bottleneck.
 - `INS-260403-58BB` [high] Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.

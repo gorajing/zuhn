@@ -55,6 +55,7 @@ related:
   - INS-260325-765F
   - INS-260325-05E4
   - INS-260330-D812
+  - INS-260403-28C7
 ---
 Longitudinal research tracking people over time finds that beliefs about solitude are the mediating variable between being alone and feeling lonely. If you believe alone time is beneficial, you actually experience positive emotions during solitude. If you believe it is harmful, the same objective state produces loneliness.
 

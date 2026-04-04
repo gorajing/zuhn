@@ -49,7 +49,6 @@ related:
   - INS-260327-DFF1
   - INS-260327-DFF0
   - INS-260325-DFC7
-  - INS-260329-8DDF
 stance: >-
   The fintech industry has largely digitized traditional financial services
   (access), but hasn't yet made them excellent

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 427 insights
+> 430 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -47,6 +47,7 @@
 - `INS-260329-B77F` [high] Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
 - `INS-260327-8682` [high] Intuit's expansion playbook: after accounting (the anchor), the next problem was invoicing and getting paid (right next to accounting), then payroll, then credit — each one right next to the last.
 - `INS-260330-A3F2` [high] Massive value can be unlocked by removing bureaucratic barriers between complementary but disconnected markets rather than building something new.
+- `INS-260403-43B9` [high] Competitors can copy products far more easily than they can replicate an entire business model ecosystem.
 - `INS-260327-4431` [high] When customer demand is driven by anxiety about future availability rather than current need, sales are inherently unpre
 - `INS-260327-1B4A` [high] Physical venues that were supposedly killed by digital alternatives survive by pivoting to the social experience dimensi
 - `INS-260327-4877` [high] Companies whose revenue depends on customer inability to cancel rather than customer desire to continue face disruption 
@@ -173,6 +174,7 @@
 - `INS-260330-519D` [high] Chinese and Indian phone makers built deep localization moats — dual SIM, regional language support, local payment integration — that Apple treats as afterthoughts.
 - `INS-260323-07BE` [high] Johns-Manville systematically acquired companies with asbestos-free alternatives to eliminate anyone who could publicly denounce asbestos as dangerous.
 - `INS-260330-9014` [high] Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
+- `INS-260403-F932` [high] If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
 - `INS-260330-DCFB` [high] Companies like Xiaomi and Samsung that achieved mass distribution in India first built ecosystem switching costs that Apple's superior brand couldn't overcome.
 - `INS-260403-A0B0` [high] Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - `INS-260327-ACB3` [high] Tech companies that empowered engineers to build disruption tools are now using those same tools to disrupt the engineers who built them.
@@ -194,6 +196,7 @@
 - `INS-260403-862D` [high] Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
 - `INS-260402-E470` [high] Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260325-C29B` [high] Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.
+- `INS-260403-699F` [high] Large organizations' advantage erodes proportionally to how fast the competitive landscape changes.
 - `INS-260330-D63C` [high] At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
 - `INS-260330-8A87` [high] Silicon Valley overvalues growth rates and undervalues durability — 75-85% of a tech company's value comes from cash flows a decade or more in the future.
 - `INS-260330-3897` [high] Thiel calculated that 75% of PayPal's value in 2001 came from cash flows in 2011 and beyond — you want to be the last mover who wins the game, not the first mover who gets a one-third pawn advantage.

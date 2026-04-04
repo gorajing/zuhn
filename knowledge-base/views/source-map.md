@@ -745,33 +745,40 @@ Generated on 2026-04-04 | 2421 sources
 | 3 Reasons Why A Turnaround Plan Won’t Save McDonald’s | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
+| 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
+| ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 4 | 2026-03-30 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
+| Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
+| Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
+| Having Kids | blog | 4 | 2026-03-31 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
+| How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
 | Life is Short | blog | 4 | 2026-03-31 |
+| LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 4 | 2026-03-30 |
 | Made in USA | blog | 4 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
@@ -790,6 +797,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
+| The High-Res Society | blog | 4 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
@@ -804,6 +812,7 @@ Generated on 2026-04-04 | 2421 sources
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
+| Why TV Lost | blog | 4 | 2026-03-31 |
 | 10 Reasons Why Your Small Business Will Fail - and How To Avoid These Tragic Mistakes | youtube | 4 | 2026-03-23 |
 | 100+ JavaScript Concepts you Need to Know | youtube | 4 | 2026-03-30 |
 | 100+ Linux Things you Need to Know | youtube | 4 | 2026-03-30 |
@@ -1738,7 +1747,6 @@ Generated on 2026-04-04 | 2421 sources
 | 61 Startups Actively Raising Capital (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
 | 6,631,372 | blog | 0 | 2026-03-31 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 0 | 2026-03-31 |
-| 7 Questions to Assess Your Business Model Design | blog | 0 | 2026-03-31 |
 | 8 AI Prompts That Replace a $25K/Year Financial Analyst | blog | 0 | 2026-03-30 |
 | 8 Concrete Tips On How To Intentionally Design Great Corporate Culture | blog | 0 | 2026-03-31 |
 | 8 Elements Companies Need To Succeed In A Complex World | blog | 0 | 2026-03-31 |
@@ -1796,7 +1804,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI Bubble📉, Canva acquires Leonardo AI🎨, How to Write Cold Emails✉️ | blog | 0 | 2026-03-30 |
 | AI Co-Pilots Every Startup & VC Needs in Their Toolbox 🛠️ | blog | 0 | 2026-03-30 |
 | AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 0 | 2026-03-30 |
-| ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 0 | 2026-03-30 |
 | AI Games Are Coming | blog | 0 | 2026-03-31 |
 | AI In a Bubble?🫧, Moats Revisited🛡️, AI makes the old VC playbook obsolete⚡ | blog | 0 | 2026-03-30 |
 | AI is changing the rules of the game in Go-to-Market 🔄 | blog | 0 | 2026-03-30 |
@@ -1873,7 +1880,6 @@ Generated on 2026-04-04 | 2421 sources
 | Bootcamp Exclusive: Steve Blank On Lean Startup Inside Big Companies & More | blog | 0 | 2026-03-31 |
 | Bradley's Ghost | blog | 0 | 2026-03-31 |
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
-| Build a resilient company to weather any storm | blog | 0 | 2026-03-31 |
 | Building a World-Class Innovation Culture: Bayer | blog | 0 | 2026-03-31 |
 | Building an innovation culture | blog | 0 | 2026-03-31 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
@@ -1968,7 +1974,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: Understanding Federal Agencies | blog | 0 | 2026-03-30 |
 | Deep Dive: Why AI Will Break the Grid | blog | 0 | 2026-03-30 |
 | DeepSeek R1: The AI Disruption No One Saw Coming | blog | 0 | 2026-03-30 |
-| Default Alive or Default Dead? | blog | 0 | 2026-03-31 |
 | Defining Property | blog | 0 | 2026-03-31 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
 | Disconnecting Distraction | blog | 0 | 2026-03-31 |
@@ -2024,7 +2029,6 @@ Generated on 2026-04-04 | 2421 sources
 | Happy Thanksgiving | blog | 0 | 2026-03-30 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 0 | 2026-03-30 |
 | Haters | blog | 0 | 2026-03-31 |
-| Having Kids | blog | 0 | 2026-03-31 |
 | Headcount Planning Template to Control Startup Burn | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 416.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 417.5 | blog | 0 | 2026-03-30 |
@@ -2053,7 +2057,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to Disagree | blog | 0 | 2026-03-31 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 0 | 2026-03-30 |
-| How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 0 | 2026-03-30 |
 | How to Lose Time and Money | blog | 0 | 2026-03-31 |
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
@@ -2087,7 +2090,6 @@ Generated on 2026-04-04 | 2421 sources
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
 | Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
-| LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 0 | 2026-03-30 |
 | Maker's Schedule, Manager's Schedule | blog | 0 | 2026-03-31 |
 | Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 0 | 2026-03-30 |
 | Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
@@ -2234,7 +2236,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 0 | 2026-03-30 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
 | The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of "Quiet") | blog | 0 | 2026-03-31 |
-| The High-Res Society | blog | 0 | 2026-03-31 |
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
 | The Island Test | blog | 0 | 2026-03-31 |
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
@@ -2346,7 +2347,6 @@ Generated on 2026-04-04 | 2421 sources
 | Why There Aren't More Googles | blog | 0 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 0 | 2026-03-31 |
 | Why to Start a Startup in a Bad Economy | blog | 0 | 2026-03-31 |
-| Why TV Lost | blog | 0 | 2026-03-31 |
 | Why Twitter is a Big Deal | blog | 0 | 2026-03-31 |
 | Why YC | blog | 0 | 2026-03-31 |
 | WIRTW: AI Manhattan Project | blog | 0 | 2026-03-30 |

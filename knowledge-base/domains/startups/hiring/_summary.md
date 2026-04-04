@@ -1,6 +1,6 @@
 # Topic: hiring
 
-> 31 insights
+> 32 insights
 
 - `INS-260330-4341` [high] The speed at which a skill can be taught is inversely correlated with its long-term career defensibility.
 - `INS-260330-1B37` [high] Airbnb spent 5 months hiring their first employee and only hired two people in year one because early hire quality is existential.
@@ -23,6 +23,7 @@
 - `INS-260403-C977` [high] Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
 - `INS-260330-BF00` [high] The Roman shift from citizen-soldiers to mercenary armies created a workforce with zero loyalty to the institution, directly accelerating collapse.
 - `INS-260330-B384` [high] Rome's shift from citizen-soldiers to mercenary armies eroded the loyalty that held the empire together — the same dynamic applies to startups replacing missionaries with mercenaries.
+- `INS-260403-5F3E` [high] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - `INS-260403-22DF` [high] The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260330-9F1F` [high] Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260402-73D9` [high] Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.

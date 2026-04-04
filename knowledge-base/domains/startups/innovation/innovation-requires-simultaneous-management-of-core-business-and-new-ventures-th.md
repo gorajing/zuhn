@@ -45,11 +45,11 @@ stance: >-
   management will fail to scale it — portfolio-based approaches that manage both
   simultaneously produce better outcomes than siloed innovation labs.
 related:
+  - INS-260403-1358
   - INS-260403-ACA8
   - INS-260403-924B
   - INS-260403-9AB5
   - INS-260402-EE6E
-  - INS-260328-A9D2
   - INS-260403-2BEE
 ---
 The Invincible Company framework and similar portfolio approaches argue that innovation fails when quarantined from the core business. Organizations need structured tools to run exploitation (core) and exploration (new ventures) simultaneously, not sequentially or in separate silos.

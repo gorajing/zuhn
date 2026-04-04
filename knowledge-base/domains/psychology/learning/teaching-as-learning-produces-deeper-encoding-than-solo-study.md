@@ -51,7 +51,6 @@ stance: >-
   Feynman technique one of the most efficient learning accelerators.
 related:
   - INS-260323-6BF4
-  - INS-260327-8DDE
   - INS-260329-88AB
   - INS-260329-F9CD
   - INS-260330-3D7B
@@ -60,6 +59,7 @@ related:
   - INS-260403-E2FB
   - INS-260403-FFF0
   - PRI-260403-88F5
+  - INS-260402-E76D
 evidence:
   - id: INS-260403-9681
     type: TRANSFERS_TO

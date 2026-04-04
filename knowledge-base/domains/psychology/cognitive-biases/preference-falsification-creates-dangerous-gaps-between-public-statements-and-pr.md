@@ -51,7 +51,6 @@ stance: >-
   conditions for sudden, unpredictable political shifts
 related:
   - INS-260323-E520
-  - INS-260326-C657
   - INS-260330-15AE
   - INS-260330-BE91
   - INS-260402-86C4

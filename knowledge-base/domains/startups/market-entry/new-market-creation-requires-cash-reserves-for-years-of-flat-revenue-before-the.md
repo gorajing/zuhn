@@ -45,7 +45,6 @@ stance: >-
   because market creation costs precede market capture, and most startups
   underestimate this gap.
 related:
-  - INS-260329-BF51
   - INS-260329-196A
   - INS-260330-A029
   - INS-260330-137A

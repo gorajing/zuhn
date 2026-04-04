@@ -48,11 +48,11 @@ resolutions:
     against trillions in spending is historically unprecedented and should be
     treated as a warning signal, not a sign of confidence.
 related:
+  - INS-260403-538C
   - INS-260322-BBED
   - INS-260327-C1F6
   - PRI-260328-6136
   - INS-260330-38C9
-  - INS-260325-B234
 stance: >-
   Oracle and the wider tech industry are applying the 'spend big, growth
   follows' playbook from the cloud era to AI, but the underlying economics

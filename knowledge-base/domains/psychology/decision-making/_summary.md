@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 52 insights
+> 53 insights
 
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
@@ -38,6 +38,7 @@
 - `INS-260403-5AAC` [high] Taking a vote on art quality is like finding north with a compass next to a magnet — the error overwhelms the signal, so more data just measures more error.
 - `INS-260403-225B` [high] A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 - `INS-260402-9D7B` [high] The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
+- `INS-260403-5CD6` [high] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - `INS-260402-CCC3` [high] VCs optimize for defensible-looking decisions rather than highest expected value, creating systematic blind spots.
 - `INS-260330-31B5` [high] If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260402-2DCE` [medium] 'Inappropriate' is the null criticism — it means opponents have no substantive objection, only status-based discomfort.

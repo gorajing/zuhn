@@ -51,11 +51,11 @@ stance: >-
   having an empty bed, with the next crop already started weeks before the
   current one is harvested.
 related:
+  - INS-260403-538C
   - INS-260330-54ED
   - INS-260327-A9D5
   - INS-260402-9D7B
   - INS-260329-55C4
-  - INS-260330-CC30
 evidence:
   - id: INS-260327-A9D5
     type: CONTRADICTS

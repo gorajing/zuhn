@@ -61,7 +61,6 @@ related:
   - INS-260329-04FA
   - INS-260329-EDA2
   - INS-260329-B408
-  - INS-260402-237D
 evidence:
   - id: INS-260329-B408
     type: SUPPORTS

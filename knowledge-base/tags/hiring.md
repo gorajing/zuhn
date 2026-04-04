@@ -34,6 +34,7 @@
 - `INS-260330-B525` PolyAI learned that their best performers were always candidates where at least one interviewer was passionately enthusiastic, not candidates with uniformly good but unremarkable scores.
 - `INS-260402-9B06` Industries with easy firing (film, sports, academia pre-tenure) consistently outperform those with near-impossible firing (civil service, unionized manufacturing).
 - `INS-260403-C977` Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
+- `INS-260403-5F3E` Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - `INS-260403-22DF` The best programmers can work anywhere, so perceived corporate evil selectively filters out exactly the talent you most need.
 - `INS-260330-9F1F` Before interviewing anyone, talk to known world-class practitioners to learn what great looks like — learning during interviews is prohibitively expensive.
 - `INS-260402-73D9` Glanville resisted 'butts in seats' pressure and held out for luminaries in each role, arguing that in a 10-30 person company a single person can make all the difference.

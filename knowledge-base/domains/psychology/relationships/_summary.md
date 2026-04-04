@@ -1,6 +1,6 @@
 # Topic: relationships
 
-> 91 insights
+> 92 insights
 
 - `INS-260325-3A54` [very_high] The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260330-A33E` [high] Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
@@ -11,6 +11,7 @@
 - `INS-260325-1EAC` [high] Shunryu Suzuki's teaching that beginner's mind holds many possibilities while expert's mind holds few applies to relationships, business, and self-understanding alike.
 - `INS-260325-B09C` [high] Children learn 'is it safe to be upset around people who love me?' and carry that answer as their default relationship setting into adulthood.
 - `INS-260325-88A7` [high] Just as children absorb grammatical language invisibly, they also absorb an emotional grammar -- patterns of trust, fear, and communication -- from caregivers that shapes every adult relationship.
+- `INS-260403-9824` [high] Kids don't just need care — they become genuinely interesting friends and conversation partners much earlier than expected.
 - `INS-260325-64FD` [high] We habitually see bad behavior and assume bad person — but separating behavior from identity enables coaching instead of punishment in any relationship.
 - `INS-260330-5391` [high] Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
 - `INS-260330-88B0` [high] Identical physical stimulation produces pleasure or discomfort depending entirely on context — emotional safety, stress levels, and relationship dynamics matter more than technique.

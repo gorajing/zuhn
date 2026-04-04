@@ -47,7 +47,6 @@ stance: >-
   people never participate in.
 related:
   - INS-260321-347D
-  - INS-260327-CE05
   - PRI-260328-6CDE
   - PRI-260328-6136
   - PRI-260328-0993
@@ -56,6 +55,7 @@ related:
   - INS-260327-26D3
   - INS-260330-5958
   - INS-260330-AD61
+  - INS-260403-D522
 evidence:
   - id: INS-260402-3F92
     type: CHALLENGES

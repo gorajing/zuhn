@@ -51,6 +51,5 @@ related:
   - INS-260328-D220
   - INS-260403-A57D
   - PRI-260403-26B9
-  - INS-260402-E522
 ---
 Graham identifies a binary that explains most fundraising difficulty: Type A fundraising (you don't need money, but it would accelerate growth) versus Type B (you need money or the company dies). Inexperienced founders read about famous Type A raises and assume fundraising will be similarly smooth, not realizing those companies had leverage from profitability. The dating analogy is precise — desperation repels investors just as it does in romance. The practical implication is that reaching even ramen profitability before fundraising transforms the entire dynamic: you can say 'we'll succeed regardless, money just helps us go faster,' which is the most powerful possible pitch. This is why YC pushes startups to minimize burn and reach profitability before Demo Day.

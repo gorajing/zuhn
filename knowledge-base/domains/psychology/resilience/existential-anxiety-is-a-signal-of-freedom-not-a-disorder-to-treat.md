@@ -55,6 +55,7 @@ related:
   - INS-260330-2492
   - INS-260329-0B76
   - INS-260403-C313
+  - INS-260403-5CD6
 ---
 Modern psychology pathologizes anxiety as something to eliminate. Kierkegaard's angst is fundamentally different: it arises from the awareness of genuine freedom and responsibility. Feeling anxious about life choices isn't a disorder - it's evidence that you recognize those choices matter.
 

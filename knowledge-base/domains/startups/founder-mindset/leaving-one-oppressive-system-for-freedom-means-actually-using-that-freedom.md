@@ -49,9 +49,9 @@ resolutions:
 related:
   - INS-260323-5B9F
   - INS-260330-F37B
+  - INS-260403-5CD6
   - INS-260323-3CD0
   - INS-260327-4419
-  - INS-260327-C9A7
   - INS-260330-D0AB
 stance: >-
   Youssef's wake-up call: he left Egypt for the 'land of the free' but found

@@ -1,6 +1,7 @@
 # Tag: capital-efficiency
 
 - `INS-260329-CB10` Buying an existing business with seller financing lets you skip years of startup risk and immediately own a cash-flowing asset.
+- `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260330-09E3` Harvard Business Review's three paths to market dominance—best price (logistics), best product (R&D), best overall solution (customer intimacy)—reveal that only the third path requires no capital, just humility and manners.
 - `INS-260328-D220` If AI halves the need for capital and fundraising processes stay this painful, profitable companies will increasingly choose not to raise at all.
 - `INS-260403-696C` Falling startup costs make large VC checks unnecessary, eroding the traditional fund model.

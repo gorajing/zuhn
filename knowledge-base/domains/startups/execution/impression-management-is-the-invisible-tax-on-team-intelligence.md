@@ -48,10 +48,10 @@ stance: >-
   systematically suppresses the information teams need most.
 related:
   - INS-260403-2CA3
+  - INS-260403-28C7
   - PRI-260403-88F5
   - INS-260322-AB55
   - INS-260327-9BFD
-  - INS-260330-141E
 evidence:
   - id: INS-260330-141E
     type: TRANSFERS_TO

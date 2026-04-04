@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260324-A046
   - INS-260403-599B
+  - INS-260403-F932
   - INS-260403-508D
   - INS-260325-0147
-  - PRI-260328-7E58
 evidence:
   - id: INS-260324-A046
     type: CONTRADICTS

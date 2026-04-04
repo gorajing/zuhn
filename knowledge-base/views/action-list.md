@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3320 actionable insights
+Generated on 2026-04-04 | 3336 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1015,6 +1015,7 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-C5BA] Years of grade optimization create a subconscious pattern of seeking tricks over substance that most people never recognize or unlearn.
 - [INS-260403-B462] Brand recognition is so powerful in art judgment that the Mona Lisa shown anonymously would be walked past by most viewers.
 - [INS-260403-57F6] Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs.
+- [INS-260403-28C7] We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1084,6 +1085,7 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-81A4] Instead of dwelling on death, cultivate aggressive impatience about doing the things that matter to you.
 - [INS-260403-6EDC] Difficulty choosing between passion and money reveals gaps in self-knowledge and work knowledge, not a genuine tie between options.
 - [INS-260403-803A] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
+- [INS-260403-5CD6] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1779,6 +1781,10 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-E78B] High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - [INS-260403-2D99] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
 - [INS-260403-096C] When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
+- [INS-260403-5BBE] Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
+- [INS-260403-8008] The most powerful business models get customers, communities, or third parties to create the core value while the company provides the platform.
+- [INS-260403-F5EE] People pirate content mostly because it offers a better user experience, not just because it's free — iTunes proved people will pay when buying is easy.
+- [INS-260403-97F8] Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2011,6 +2017,7 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-599B] When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - [INS-260403-E3CC] Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - [INS-260403-CE7C] Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
+- [INS-260403-F932] If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2215,6 +2222,7 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-566D] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
 - [INS-260403-3835] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - [INS-260403-30E5] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
+- [INS-260403-4328] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2530,6 +2538,8 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-C5C0] Show confidence through substance and enthusiasm rather than claiming passion or product greatness directly.
 - [INS-260403-0973] Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - [INS-260403-1287] Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
+- [INS-260403-ADB3] Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
+- [INS-260403-0551] No matter how strong your growth, never treat fundraising as guaranteed — always have a written plan B specifying exactly what you'll cut and when you'll switch.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2708,6 +2718,7 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260330-D98E] Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.
 - [INS-260403-36D1] Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
 - [INS-260403-2759] Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
+- [INS-260403-538C] Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 
 ## startups/health-innovation
 - [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
@@ -2738,6 +2749,7 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-7F6F] Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
 - [INS-260403-D966] Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - [INS-260403-E497] Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
+- [INS-260403-5F3E] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -2805,6 +2817,8 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-D62D] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
 - [INS-260403-FAD8] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
 - [INS-260403-E7E1] When everyone has the team and the tech, the scarce resource is a strong enough point of view on what should exist.
+- [INS-260403-1C09] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
+- [INS-260403-1358] Treating innovation as a portfolio of parallel experiments rather than sequential single bets is essential for repeatable results.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -3402,6 +3416,7 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260330-39C6] Look for markets where underlying costs have dropped dramatically but incumbents still operate as if the old economics apply.
 - [INS-260330-8907] Golden ages aren't recognized during their occurrence — they feel like smart people working hard on interesting problems and getting results, which is exactly the signal to follow.
 - [INS-260403-4E7A] Paradigm shifts like AI create rare adoption windows in stagnant industries — whoever wins distribution first locks in for decades.
+- [INS-260403-7219] The gap between outdated bigger-is-better norms and current small-group advantages creates exploitable arbitrage.
 
 ## startups/validation
 - [INS-260323-F9E5] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
@@ -3491,6 +3506,7 @@ Generated on 2026-04-04 | 3320 actionable insights
 - [INS-260403-8CE6] Deep field immersion before launch uncovers requirements that demo iteration never reveals.
 - [INS-260403-45AA] Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.
 - [INS-260403-7072] Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.
+- [INS-260403-B1F2] Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

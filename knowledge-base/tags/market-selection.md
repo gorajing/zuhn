@@ -11,4 +11,5 @@
 - `INS-260321-5C24` Apply three filters to find viable AI businesses: ruthlessly niche (cannot be segmented further), boring (non-competitive), and existing services to replace (agencies/freelancers/hacky solutions).
 - `INS-260403-AEB3` Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
 - `INS-260403-BA5D` In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
+- `INS-260403-38C0` Open platforms win because they let the market pick winners at hacker speed instead of big-company speed.
 - `INS-260329-3BEE` The market you operate in constrains your upside more than your effort level does.

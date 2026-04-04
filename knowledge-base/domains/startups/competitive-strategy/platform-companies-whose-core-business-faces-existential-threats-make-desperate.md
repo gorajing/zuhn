@@ -40,7 +40,6 @@ stance: >-
   competition), they make desperate strategic pivots that consume billions while
   the core business deteriorates.
 related:
-  - INS-260321-D01E
   - PRI-260324-DE71
   - INS-260330-460D
   - INS-260322-88C3

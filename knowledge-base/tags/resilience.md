@@ -7,6 +7,7 @@
 - `INS-260329-3441` Wrap specific risky operations in try-catch, not entire programs — granular error handling enables recovery, catch-all handlers just hide bugs.
 - `INS-260320-0F7C` Markdown files are the source of truth; SQLite database, indices, mindmap, and tag files are all generated and disposable — when the DB had schema issues, we just regenerated it.
 - `INS-260330-5232` Aerogel-zeolite composites passively maintain vacuum in NASA's Mars seismometer without any power, acting as molecular getters that absorb contaminants indefinitely.
+- `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
 - `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260330-B7AB` DNA replication errors that escape proofreading accumulate silently until a critical threshold triggers disease — the same dynamic applies to institutional governance failures that prosperity masks.
 - `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
@@ -19,7 +20,6 @@
 - `INS-260330-9BF3` Founder psychology doesn't stabilize with success — the emotional amplitude expands, with higher highs but increasingly devastating lows.
 - `INS-260330-90AD` Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
-- `INS-260330-0804` Using supplements to manage symptoms of poor sleep, hydration, or stress hygiene suppresses the pain signals that would otherwise motivate you to fix the actual problem.
 - `INS-260323-EDAD` Repeatedly putting yourself in high-stakes situations where failure is likely trains you to accept setbacks faster and redirect energy toward the next opportunity.
 - `INS-260329-03B5` Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
 - `INS-260325-5C03` The resilience paradox: we can identify many factors correlated with resilience, but none strongly predict who will be resilient next time, because the meta-skill is flexibly matching strategy to situation.
@@ -74,6 +74,7 @@
 - `INS-260329-BBBE` After losing everything, Hormozi made $100K the next month — proving the skills, not the business, were the real asset he'd built.
 - `INS-260329-E0DE` Business stress is universal across all states; the decision to categorize something as a 'problem' causes more stress than the problem itself.
 - `INS-260403-12FD` Real users create a sense of obligation that keeps founders working through the emotional valleys that kill most startups.
+- `INS-260403-1C09` Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260323-B497` Teachers get fired for teaching context about the N-word in literature — this reflexive avoidance of difficult topics creates ignorance rather than safety.
 - `INS-260328-41C9` Interviewers use rejection questions to filter for coachability and growth mindset — the answer reveals whether a candidate will burn out or improve under pressure.
 - `INS-260330-8718` Neurons are amitotic and irreplaceable once specialized, making them the nervous system's critical vulnerability despite being its most valuable component.

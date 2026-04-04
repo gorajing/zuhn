@@ -13,11 +13,12 @@
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
 - `INS-260322-019A` AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
-- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
+- `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
 - `INS-260403-7B04` AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260322-9EC6` Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260330-FCBC` Controlling access to essential inputs creates stronger lock-in than product quality.
 - `INS-260329-C0F1` Strong brands transform identical commodities into premium products by letting customers buy the association, not just the product.
+- `INS-260403-43B9` Competitors can copy products far more easily than they can replicate an entire business model ecosystem.
 - `INS-260322-F8E4` Data network effects are like gravity — invisible at the atomic level, undeniable at planetary scale. Having 4 customers vs 3 means nothing; having 4 billion vs 1 billion is decisive.
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260330-EEED` Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
@@ -35,6 +36,7 @@
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - `INS-260322-1280` Some products are too cheap to bother replacing (janitorial services problem) — nobody optimizes a $50/month/person line item, which means competitors can't get in but incumbents can't be kicked out.
 - `INS-260330-9DE6` Omega died chasing performance against quartz while Patek survived by pivoting to brand, proving that doubling down on a commoditized advantage is fatal.
+- `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260403-B5C0` Building around a hard-to-access vertical database of record creates stronger competitive positioning than superior features alone.
 - `INS-260403-1636` Plants evolved entire metabolic pathways to handle RuBisCo's toxic byproducts rather than replacing RuBisCo, making the entrenched system more resilient over time.

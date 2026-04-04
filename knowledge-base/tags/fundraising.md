@@ -8,6 +8,8 @@
 - `INS-260320-F751` Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260325-3E9F` Xiaoyin Qu (2 exits, ex-Facebook PM): traction flips the fundraising power dynamic from begging for money to investors begging you to take theirs.
+- `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
+- `INS-260327-4B5A` Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260403-F447` When investors ask who else is investing, directly explaining why others passed and why they're wrong signals confidence and disarms the concern.
@@ -30,6 +32,7 @@
 - `INS-260328-3959` A competitor's fundraising announcement contains almost none of the real context behind the investment -- including prior relationships, returns on previous funds, and creative accounting on terms.
 - `INS-260402-EA72` Fundraising typically consumes months of a startup's most critical early period, and investors don't recognize the damage their indecision causes.
 - `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
+- `INS-260403-0551` No matter how strong your growth, never treat fundraising as guaranteed — always have a written plan B specifying exactly what you'll cut and when you'll switch.
 - `INS-260330-B09B` Being great at fundraising can destroy a startup by making founders mistake raising money for building a company.
 - `INS-260403-1BD8` Investors who wait for others to commit first will be pushed to last place in line, missing hot deals entirely.
 - `INS-260402-9288` Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
@@ -60,8 +63,6 @@
 - `INS-260330-478B` Small unsophisticated investors (uncle, neighbor investing $5-10K) cause the most problems because they don't understand startup timelines and may demand their money back.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.
-- `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
-- `INS-260327-4B5A` Show real-time revenue growth by updating your metrics continuously—static snapshots are far less compelling.
 - `INS-260321-3521` Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260323-8893` Raising funding is just the beginning of obligation, not a milestone of success — bootstrapping forces the discipline of margin-first thinking that funded companies defer until it's too late.
 - `INS-260330-1DCF` Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.

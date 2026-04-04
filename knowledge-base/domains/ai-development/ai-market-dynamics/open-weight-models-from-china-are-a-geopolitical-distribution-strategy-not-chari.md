@@ -50,7 +50,7 @@ related:
   - PRI-260328-5464
   - INS-260327-5D5F
   - PRI-260403-5DEA
-  - PRI-260324-A608
+  - INS-260403-8008
   - INS-260323-F62A
 stance: >-
   Chinese companies release open-weight models primarily to gain global

@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 57 insights
+> 58 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
@@ -44,6 +44,7 @@
 - `INS-260403-2759` [high] Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - `INS-260327-B034` [high] Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260322-36E3` [high] Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
+- `INS-260403-538C` [high] Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 - `INS-260322-C33D` [high] Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
 - `INS-260322-E8BA` [high] Filter for keywords under 10 difficulty with 1000+ monthly volume to find rankable free tool opportunities.
 - `INS-260403-922C` [high] Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.

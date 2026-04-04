@@ -55,6 +55,7 @@ related:
   - INS-260325-6534
   - PRI-260328-8815
   - INS-260327-B767
+  - INS-260403-28C7
   - INS-260330-D812
 ---
 The research suggests a practical cognitive intervention: when you find yourself alone, the instinct to interpret it as a sign of social failure (something is wrong with me, I am isolated) triggers the negative cascade associated with loneliness. But reframing the same situation as an opportunity — to think, create, rest, explore ideas without social performance pressure — activates the positive outcomes associated with restorative solitude.

@@ -4,6 +4,7 @@
 - `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
 - `INS-260329-0DA4` An existing business with customers and cash flow can fund its own acquisition — a startup cannot.
 - `INS-260329-55D8` Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
+- `INS-260403-5BBE` Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260329-1085` Structure pricing so each customer's payment funds acquiring the next customer, removing capital as a bottleneck.
 - `INS-260329-4EF5` When your first sale covers acquisition + fulfillment for the next customer, growth becomes self-funding and capital is no longer the bottleneck.
 - `INS-260329-AADB` Structure offers so each customer pays back their acquisition cost within 30 days, turning customers into funding for the next customer.
