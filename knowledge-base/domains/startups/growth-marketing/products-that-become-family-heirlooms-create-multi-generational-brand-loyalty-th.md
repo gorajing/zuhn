@@ -45,7 +45,6 @@ related:
   - INS-260327-F405
   - INS-260322-683B
   - INS-260323-47D8
-  - INS-260327-A40E
 evidence:
   - id: INS-260323-47D8
     type: TRANSFERS_TO

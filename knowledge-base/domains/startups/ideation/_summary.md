@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 74 insights
+> 75 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -54,6 +54,7 @@
 - `INS-260321-7109` [high] SaaS companies where seats are tied to work output (Zendesk) face existential risk from AI, those where seats are just a pricing trick unrelated to output (Workday) are safe, and those in between (Adobe) face moderate pressure.
 - `INS-260330-4EF8` [high] A contrarian idea is only valuable if you can name what you know that smart, informed skeptics don't — otherwise you're just wrong.
 - `INS-260330-0E49` [high] Contrarian conviction must be grounded in a specific knowledge advantage over smart critics, not just general disagreement.
+- `INS-260403-7AA1` [high] Pharmaceutical-style commercialization startups and organic software startups are fundamentally different species that neither require nor produce the same culture.
 - `INS-260322-D051` [high] US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
 - `INS-260322-F868` [high] Truemed built infrastructure that lets people use existing tax-free HSA/FSA dollars on lifestyle interventions, redirecting billions toward prevention without requiring new legislation or payer buy-in.
 - `INS-260321-3660` [high] Making startup decisions based on VC podcasts and content is literally the definition of generating non-unique ideas.

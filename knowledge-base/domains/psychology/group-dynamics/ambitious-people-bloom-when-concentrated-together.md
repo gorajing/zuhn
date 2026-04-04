@@ -54,6 +54,7 @@ related:
   - INS-260403-4D45
   - PRI-260403-7E5E
   - INS-260330-2783
+  - INS-260403-C8FD
 ---
 Graham argues that ambition is the most malleable component of determination, and that most people are 'practically malnourished' when it comes to ambition because they've never been around sufficiently ambitious peers. The nuclear reactor analogy is apt: ambitious people's energy gets absorbed by normal social environments but amplifies when reflected by other ambitious people.
 

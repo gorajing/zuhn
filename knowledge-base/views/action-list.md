@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3395 actionable insights
+Generated on 2026-04-04 | 3403 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1089,6 +1089,7 @@ Generated on 2026-04-04 | 3395 actionable insights
 - [INS-260403-803A] When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - [INS-260403-5CD6] The freedom we sacrifice for commitments was mostly unused anyway — we paid for it in loneliness without exercising it.
 - [INS-260403-6B97] Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists.
+- [INS-260403-5BF9] Rollins credits his relentless work ethic to never forgetting the $8/hour ice cream shop he'd return to if he stopped hustling.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1109,6 +1110,8 @@ Generated on 2026-04-04 | 3395 actionable insights
 - [INS-260403-E2FB] Trying to express what you understand isn't just proof of understanding — it's the primary mechanism for understanding more deeply.
 - [INS-260403-78E2] Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - [INS-260403-B08E] Experts develop reliable 'smell tests' for technology quality based on surrounding signals rather than technical deep-dives.
+- [INS-260403-C135] Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
+- [INS-260403-1202] Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1413,6 +1416,7 @@ Generated on 2026-04-04 | 3395 actionable insights
 - [INS-260403-62AF] A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
 - [INS-260403-449D] Programs where participants work on real projects during training transfer skills more effectively than lecture-based alternatives.
 - [INS-260403-B508] Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
+- [INS-260403-E6FD] Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1713,6 +1717,7 @@ Generated on 2026-04-04 | 3395 actionable insights
 - [INS-260403-E300] Making failure publicly visible locks founders into persistence more effectively than potential upside.
 - [INS-260403-14CB] Success breeds temptations that erode the very determination that created the success, unless discipline scales proportionally.
 - [INS-260403-D99D] The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
+- [INS-260403-A7FD] When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -2252,6 +2257,7 @@ Generated on 2026-04-04 | 3395 actionable insights
 - [INS-260403-7BBD] Better cameras on a 1992 experiment revealed new fluid dynamics phenomena that decades of numerical simulation had missed.
 - [INS-260403-323A] Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
 - [INS-260403-0A1C] Moving participants from seated table discussions to standing around wall-mounted visual tools increases engagement by changing the physical and social dynamics of collaboration.
+- [INS-260403-144A] Rollins recognized the shrinking middle class in his 20s and deliberately stacked multiple income streams — music, acting, writing, voiceover, speaking — as insurance.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2867,6 +2873,8 @@ Generated on 2026-04-04 | 3395 actionable insights
 - [INS-260403-71A6] The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - [INS-260403-8D2C] New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - [INS-260403-81D4] You need many bets on the left side of the risk spectrum because only a few will survive to become real businesses.
+- [INS-260403-343D] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
+- [INS-260403-BDCC] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.

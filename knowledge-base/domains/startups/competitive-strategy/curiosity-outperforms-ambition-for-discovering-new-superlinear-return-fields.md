@@ -49,11 +49,11 @@ stance: >-
   because ambition climbs existing peaks while curiosity can grow entirely new
   mountains beneath you.
 related:
+  - INS-260403-E6FD
   - PRI-260328-9EC9
   - INS-260325-D624
   - INS-260327-CFD5
   - INS-260403-8EFF
-  - INS-260330-0AE2
 evidence:
   - id: INS-260330-0AE2
     type: CHALLENGES

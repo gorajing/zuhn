@@ -2,13 +2,13 @@
 
 - `INS-260323-4B09` Zero people on the Forbes 400 got there from earned income alone — the vast majority are buyers and builders who continuously acquire and compound businesses.
 - `INS-260323-9A29` Cash flow funds your lifestyle today; equity creates wealth tomorrow — McDonald's burgers generate cash flow but their $45B real estate portfolio and $1.6B in franchise royalties are the actual wealth engine.
-- `INS-260329-5514` Revenue and profit grow enterprise value by a multiple (3-20x), making equity appreciation the dominant wealth creation lever over personal income.
 - `INS-260330-0B55` Among the highest-valued YC companies, zero have significantly disproportionate founder equity splits.
 - `INS-260330-F4C0` Top YC companies universally have roughly equal founder equity splits — disproportionate splits signal misaligned commitment.
 - `INS-260330-C745` Among the highest-valued YC companies, there are zero instances of significantly disproportionate founder equity splits.
 - `INS-260329-61CF` Only take a partner who clearly contributes money, experience, or time-energy that you genuinely lack — and can demonstrate active contribution of that resource.
 - `INS-260330-64E1` Even solo founders should put standard 4-year vesting on their shares to set cultural precedent and satisfy investor expectations.
 - `INS-260330-3E6F` Among YC's highest-valued companies, none had significantly unequal founder equity splits.
+- `INS-260329-5514` Revenue and profit grow enterprise value by a multiple (3-20x), making equity appreciation the dominant wealth creation lever over personal income.
 - `INS-260329-60CF` Owning equity in a profitable business reaches millionaire status far faster than saving from high income due to valuation multipliers.
 - `INS-260330-E4D9` Demoting an executive preserves their above-market equity while destroying their authority, making it worse than a clean separation for everyone involved.
 - `INS-260330-C7FF` The most successful YC companies gave generous equity to early employees (~10% for first 10) while fighting to minimize investor dilution.

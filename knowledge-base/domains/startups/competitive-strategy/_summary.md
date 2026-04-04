@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 439 insights
+> 441 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -204,6 +204,7 @@
 - `INS-260330-3897` [high] Thiel calculated that 75% of PayPal's value in 2001 came from cash flows in 2011 and beyond — you want to be the last mover who wins the game, not the first mover who gets a one-third pawn advantage.
 - `INS-260327-85EB` [high] Generalist fast-food chains lose market share to specialists in every category because consumers increasingly prefer the
 - `INS-260330-B71B` [high] RuBisCo's oxygen-confusion creates toxic phosphoglycolate that plants must continuously neutralize — legacy system bugs become permanent line items.
+- `INS-260403-0240` [high] Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260330-1FED` [high] Rockefeller secured 50-75% railroad discounts by negotiating when railroads were desperate, then used the cost advantage to bankrupt competitors through sustained price wars.
 - `INS-260403-298E` [high] Graham predicted super-angels would invest larger amounts while VCs would make more smaller investments faster, making them hard to distinguish within a decade.
 - `INS-260327-A61B` [high] Lower barriers to build (AWS, Stripe, AI) simultaneously lower barriers for competitors, making speed the primary differentiator.
@@ -432,6 +433,7 @@
 - `INS-260322-0E41` [medium] Unlike Windows' 95% monopoly which crushed VisiCalc/Lotus, having 5+ model providers means AI startups face taxation risk, not existential platform risk.
 - `INS-260324-1C12` [medium] The world's best transit systems (Tokyo, Paris, Berlin, Taipei) operate like for-profit businesses with annual reports and clear financial goals — American systems lose record money every year with no accountability.
 - `INS-260403-04C9` [medium] McDonald's rejected a 2015 investor proposal to spin off its real estate into a REIT, arguing that the integration of food operations and property ownership is what makes both sides work.
+- `INS-260403-CA93` [medium] Unlike agriculture, cities, and industrialization which all spread widely, the startup revolution may remain concentrated in a few dominant hubs.
 - `INS-260403-3F9C` [medium] Silicon Valley's transformation from charming college town to suburban sprawl creates an opening for competitor cities that preserve urban livability.
 - `INS-260325-E19E` [medium] New species form when populations are isolated long enough to accumulate distinct mutations — roughly 2 million years for mammals.
 - `INS-260403-160A` [medium] Anti-wealth-creation policies don't eliminate startups — they just push founders to other countries, trading economic dynamism for a lower Gini coefficient.

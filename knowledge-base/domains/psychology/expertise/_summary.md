@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 46 insights
+> 49 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
@@ -29,9 +29,11 @@
 - `INS-260403-B6FD` [high] False popular beliefs suppress exploration of nearby true ideas, creating predictable regions where novel insights cluster.
 - `INS-260402-72EF` [high] Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260402-0D16` [high] Programming languages shape how practitioners think, making adoption a cognitive transformation rather than a simple tool swap — which is why features take decades to go mainstream.
+- `INS-260403-C135` [high] Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260330-2666` [high] Knowing programming syntax creates a dangerous illusion of competence because the high-value skill is algorithmic thinking, not language fluency.
 - `INS-260402-E11A` [high] If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
 - `INS-260403-7093` [high] Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
+- `INS-260403-6EA6` [high] Skills that can be mass-taught get mass-produced, driving wages toward training cost plus minimal return.
 - `INS-260403-EDB9` [high] The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
 - `INS-260403-A1DF` [high] Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260403-D022` [high] Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
@@ -44,6 +46,7 @@
 - `INS-260403-78E2` [medium] Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - `INS-260403-8B92` [medium] Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
 - `INS-260402-B12D` [medium] Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
+- `INS-260403-1202` [medium] Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
 - `INS-260403-14D5` [medium] You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - `INS-260403-875B` [medium] Tracking which fields students flee to when they find their current one too hard reveals a natural hierarchy of intellectual difficulty.
 - `INS-260330-C7B5` [medium] Making a tool part of your identity makes you worse at evaluating alternatives.

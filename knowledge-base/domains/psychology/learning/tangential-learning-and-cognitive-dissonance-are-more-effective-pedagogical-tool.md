@@ -48,8 +48,8 @@ stance: >-
   information, and tangential connections between disparate fields cultivate
   genuine intellectual curiosity
 related:
-  - INS-260322-CC69
   - INS-260327-7DBF
+  - INS-260403-C135
   - INS-260402-D0F3
   - INS-260320-3798
   - INS-260402-E76D

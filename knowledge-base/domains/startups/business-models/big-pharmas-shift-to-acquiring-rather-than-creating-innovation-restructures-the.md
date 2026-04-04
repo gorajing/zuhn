@@ -57,6 +57,7 @@ related:
   - INS-260330-6204
   - INS-260402-8424
   - INS-260403-8448
+  - INS-260403-BDCC
 ---
 The pharmaceutical industry is undergoing a structural shift where large companies' internal research has failed to deliver blockbuster drugs, leading them to outsource innovation by acquiring promising startups at later stages. While this creates acquisition opportunities for startups, it also means the expensive, risky early-stage R&D now falls on smaller companies with far fewer resources.
 

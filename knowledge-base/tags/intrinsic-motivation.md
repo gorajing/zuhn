@@ -8,6 +8,7 @@
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260327-4EDE` Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260330-D61A` Doing your most exciting task first makes boring subsequent tasks feel worse and tanks performance on them — start with moderately interesting work instead.
+- `INS-260403-E6FD` Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 - `INS-260403-62AF` A motivated student at an average school will learn more than a passive student at an elite one because peer selection and professor quality curves flatten faster than prestige rankings suggest.
 - `INS-260403-B7FA` Skill acquisition is driven more by self-chosen hard projects than by structured coursework.
 - `INS-260403-4F4B` Persistence is best learned through lived experience on a single obsessive project, not through frameworks or advice.

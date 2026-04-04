@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 140 insights
+> 141 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -10,6 +10,7 @@
 - `INS-260330-D2CE` [high] Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
 - `INS-260327-B410` [high] Planning for career stability in the AI era is planning for extinction—adaptability is the only viable strategy.
 - `INS-260327-78DA` [high] Nietzsche's amor fati doesn't just accept suffering - it loves it, treating every hardship as necessary raw material for becoming who you are.
+- `INS-260403-A7FD` [high] When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
 - `INS-260330-E695` [high] Rosolie's spontaneous, profanity-filled Instagram video about Amazon fires went viral and led to the major funding that transformed Jungle Keepers, while his calculated Discovery Channel stunt backfired catastrophically.
 - `INS-260327-51C2` [high] I can't go on. I'll go on. - Beckett's most important insight is that persistence doesn't require hope, meaning, or expectation of success.
 - `INS-260330-5C69` [high] Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.

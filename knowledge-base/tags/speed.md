@@ -7,13 +7,13 @@
 - `INS-260327-C22F` Belisarius conquered the entire Vandal Kingdom in weeks by attacking before they could assemble their dispersed forces, defeating them piecemeal before they understood the threat.
 - `INS-260327-80AD` Napoleon's greatest weapon was not army size but the speed with which he moved before coalition forces could unite.
 - `INS-260320-20F2` Momentum is oxygen — Coconote shipped a product that "sort of works," charged from day one, and hit 45 days to $100K ARR, 4 months to $1M, 5 months to $2M.
+- `INS-260329-59A5` For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
+- `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
+- `INS-260326-E411` Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260329-DF50` In HFT, the first system to react to market data captures the opportunity — everyone else follows with nothing left to take.
 - `INS-260325-C29B` Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.
 - `INS-260403-9442` Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260403-C7A0` Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
-- `INS-260329-59A5` For reversible decisions, the cost of deliberation almost always exceeds the cost of being wrong and correcting.
-- `INS-260403-3058` Better focus makes startups faster by both shortening the path and increasing confidence-driven speed along it.
-- `INS-260326-E411` Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260327-2386` If something takes less than 3 minutes and seems interesting, do it right now — do not wait, because most of the time failure is great if you fail fast.
 - `INS-260327-BA8E` Your biggest regret will be not pivoting three months earlier, not the pivot itself.
 - `INS-260330-49A4` At 10 users worry about reaching 100, not about reaching a million — necessity will force the right solutions at each stage.

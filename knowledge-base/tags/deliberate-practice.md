@@ -26,6 +26,7 @@
 - `INS-260329-66C7` Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-3D7B` Building a working model forces you to confront every gap in your understanding that passive learning lets you skip.
 - `INS-260329-C81C` Andrew Brown argues the Cloud Practitioner certification's main value is building exam-taking confidence, not the credential itself — it's a low-stakes rehearsal for harder certifications.
+- `INS-260403-E6FD` Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 - `INS-260330-E349` The crawl-walk-run method of isolating individual stressors before combining them builds genuine competence in high-stakes scenarios far more effectively than throwing people into the deep end.
 - `INS-260330-423B` Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260329-3CB6` Master an existing system by exact replication first — earn the right to iterate by proving you can duplicate the original results.

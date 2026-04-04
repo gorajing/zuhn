@@ -48,7 +48,6 @@ stance: >-
   Epistemic confidence comes from interlocking mutual consistency of beliefs,
   not from any single foundational proof
 related:
-  - INS-260320-E6DD
   - INS-260329-3C75
   - INS-260330-7994
   - INS-260330-9BB7

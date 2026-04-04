@@ -51,7 +51,6 @@ related:
   - INS-260329-E402
   - INS-260330-E47D
   - INS-260329-3177
-  - INS-260330-0143
 evidence:
   - id: INS-260329-9CED
     type: CONTRADICTS

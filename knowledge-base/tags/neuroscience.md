@@ -37,18 +37,18 @@
 - `INS-260329-0487` Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.
 - `INS-260330-83BC` Girls' prefrontal cortex develops 1-2 years earlier than boys', giving them a structural advantage in education systems built around executive function.
 - `INS-260330-2311` Habit formation depends on neural circuits that bracket the habit (before/after) rather than circuits active during the habit execution itself.
-- `INS-260330-035C` Stanford research showed hotel workers told their daily movement met exercise guidelines lost significantly more fat and improved cardiovascular markers compared to uninformed controls, even without changing behavior.
-- `INS-260325-2999` fMRI gives spatial detail but loses time; EEG captures millisecond timing but low resolution; direct electrode recording is precise but covers tiny fractions of 86 billion neurons.
-- `INS-260330-CD62` The cultural authority of neuroscience props — MRI machines, lab coats, institutional hallways — amplifies placebo effects beyond what pills or doctor visits achieve.
-- `INS-260330-EE7E` In extreme silence the brain turns up its perceptual gain, making tiny sounds (breathing, clothing rustle, swallowing) seem loud — this is normal adaptation, not madness.
-- `INS-260323-DEEA` Paul Conti's framework: 90% of our decision-making is driven by the subconscious, and only by exploring it can we stop making the same destructive choices.
-- `INS-260325-BBF1` As a scientist, Bonanno asks 'where are these hidden traumas stored?' because we have no biological mechanism for trauma hiding in the body and unconsciously causing harm.
 - `INS-260330-F9C1` Novel shared experiences drive the dopamine system that sustains romantic love, making deliberate novelty-seeking the most brain-aligned strategy for long-term relationship maintenance.
 - `INS-260325-6571` Brain scans reveal romantic love is not an emotion but a drive originating in the VTA dopamine system next to thirst and hunger — it evolved as a survival mechanism to focus mating energy on a single partner.
 - `INS-260325-5588` fMRI studies show romantic love activates a dopamine factory near the base of the brain next to circuits for thirst and hunger — it is a mating drive, not a series of emotions.
 - `INS-260330-D0E2` The brain's sexual response has separate accelerator (excitation) and brake (inhibition) systems, and most problems come from overactive brakes rather than a weak accelerator.
 - `INS-260330-8913` Desire isn't a single drive to amplify — it's a balance between an accelerator (excitation) and brakes (inhibition), and most problems are brake-side.
 - `INS-260330-EA2E` Sustaining a partnership requires separately maintaining sex drive (regular sex), romantic love (novel experiences together), and attachment (physical touch and cuddling).
+- `INS-260330-035C` Stanford research showed hotel workers told their daily movement met exercise guidelines lost significantly more fat and improved cardiovascular markers compared to uninformed controls, even without changing behavior.
+- `INS-260325-2999` fMRI gives spatial detail but loses time; EEG captures millisecond timing but low resolution; direct electrode recording is precise but covers tiny fractions of 86 billion neurons.
+- `INS-260330-CD62` The cultural authority of neuroscience props — MRI machines, lab coats, institutional hallways — amplifies placebo effects beyond what pills or doctor visits achieve.
+- `INS-260330-EE7E` In extreme silence the brain turns up its perceptual gain, making tiny sounds (breathing, clothing rustle, swallowing) seem loud — this is normal adaptation, not madness.
+- `INS-260323-DEEA` Paul Conti's framework: 90% of our decision-making is driven by the subconscious, and only by exploring it can we stop making the same destructive choices.
+- `INS-260325-BBF1` As a scientist, Bonanno asks 'where are these hidden traumas stored?' because we have no biological mechanism for trauma hiding in the body and unconsciously causing harm.
 - `INS-260325-CA88` Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
 - `INS-260325-5F3C` The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
 - `INS-260325-A66E` The stress response is a multi-phase system that shifts from automatic survival processing to reflective goal-driven thinking, with cortisol acting through both high-affinity and low-affinity receptors to create a self-regulating arc.

@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260329-27A7
   - INS-260329-D159
+  - INS-260403-6EA6
   - INS-260329-6B2C
   - INS-260329-4B99
-  - INS-260330-391C
 ---
 The scaling breakthrough happens when you separate two pipelines: student acquisition and teacher recruitment. You templatize your curriculum so that any competent teacher can deliver consistent results, then hire them at a fraction of the per-group revenue. At $50/hr teacher cost against $280/hr group revenue, you maintain ~82% gross margins — well above Hormozi's 80% target for service businesses.
 

@@ -761,9 +761,12 @@ Generated on 2026-04-04 | 2421 sources
 | 3 Ways The Business Model & Value Proposition Canvas Can Improve Your Strategy Workshop | blog | 4 | 2026-03-31 |
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
+| 4 Stages of Go-To-Market Strategy | blog | 4 | 2026-03-30 |
+| 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
+| A Local Revolution? | blog | 4 | 2026-03-31 |
 | A Unified Theory of VC Suckage | blog | 4 | 2026-03-31 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
@@ -786,6 +789,7 @@ Generated on 2026-04-04 | 2421 sources
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
+| Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
@@ -873,6 +877,7 @@ Generated on 2026-04-04 | 2421 sources
 | 지금 당신은 원하던 삶을 살고 있나요? 나답게 살기 위한 실리콘밸리 리더의 도전 이야기 | 퓨리오사AI 크리스 채 | youtube | 4 | 2026-03-22 |
 | Andrew Huberman: Peptides, Sleep Tech, and the End of Obesity | youtube | 4 | 2026-03-22 |
 | Andrew Huberman: Relationships, Drama, Betrayal, Sex, and Love | Lex Fridman Podcast #393 | youtube | 4 | 2026-03-24 |
+| Arm Yourself With Specific Knowledge | youtube | 4 | 2026-03-30 |
 | Asbestos is a bigger problem than we thought | youtube | 4 | 2026-03-23 |
 | Bayer’s Bill Anderson: Turning a 168 Year-Old Tanker Like a Speedboat | youtube | 4 | 2026-03-26 |
 | Behind the scenes of a $20M Series A - Part 1 | youtube | 4 | 2026-03-22 |
@@ -903,6 +908,7 @@ Generated on 2026-04-04 | 2421 sources
 | "GPU 쓸 곳이 없어요." AI 시대 한국이 '멘붕'에 빠진 이유ㅣ지식인초대석 EP.88 (김대식 교수) | youtube | 4 | 2026-03-22 |
 | Gradient descent, how neural networks learn | Deep Learning Chapter 2 | youtube | 4 | 2026-03-30 |
 | Harvey CEO Winston Weinberg: Why You Should Reinvent Yourself Every 4 Months | youtube | 4 | 2026-03-26 |
+| Henry Rollins: The One Decision that Changed My Life Forever | Big Think | youtube | 4 | 2026-03-30 |
 | Hollywood lied to you about Ancient Rome. Here’s the truth | Mary Beard: Full Interview | youtube | 4 | 2026-03-25 |
 | How accepting impermanence can end the struggle to “fix” your life | Robert Waldinger | youtube | 4 | 2026-03-25 |
 | How AI Agents Will Transform in 2026 (a16z Big Ideas) | youtube | 4 | 2026-03-22 |
@@ -1769,7 +1775,6 @@ Generated on 2026-04-04 | 2421 sources
 | 4 Important Facts About Business Model Innovation For 2016 & Beyond | blog | 0 | 2026-03-31 |
 | 4 Innovative Business Pivots In The Age Of The Pandemic | blog | 0 | 2026-03-31 |
 | 4 Mistakes That Can Kill Your Business Model | blog | 0 | 2026-03-31 |
-| 4 Stages of Go-To-Market Strategy | blog | 0 | 2026-03-30 |
 | 400+ Seed VCs Backing Startups in the US & Europe 💰 | blog | 0 | 2026-03-30 |
 | $40K Mistake: Building Features Nobody Wanted | blog | 0 | 2026-03-30 |
 | $46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder) | blog | 0 | 2026-03-31 |
@@ -1783,7 +1788,6 @@ Generated on 2026-04-04 | 2421 sources
 | 50 AI Agent Startup Ideas for 2025 (Across 10 Industries) | blog | 0 | 2026-03-30 |
 | 50 Real Startup Pitch Decks That Raised $380M+ | blog | 0 | 2026-03-30 |
 | 59 Startup Pitch Decks That Raised Millions—See What Works | blog | 0 | 2026-03-30 |
-| 6 Roles That Can Position Your Company For The Future | blog | 0 | 2026-03-31 |
 | 61 Startups Actively Raising Capital (Pre-Seed to Series B) | blog | 0 | 2026-03-30 |
 | 6,631,372 | blog | 0 | 2026-03-31 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 0 | 2026-03-31 |
@@ -1813,7 +1817,6 @@ Generated on 2026-04-04 | 2421 sources
 | "A full software engineering teammate": OpenAI product lead on getting the most out of Codex | Alexander Embiricos | blog | 0 | 2026-03-31 |
 | A guide to advanced B2B positioning | blog | 0 | 2026-03-31 |
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
-| A Local Revolution? | blog | 0 | 2026-03-31 |
 | A Look Back At My Summer Reading List | blog | 0 | 2026-03-31 |
 | A new-parent gift guide | blog | 0 | 2026-03-31 |
 | A new perk for annual subscribers: A free year of some of the world's most beloved products (while supplies last) | blog | 0 | 2026-03-31 |
@@ -2027,7 +2030,6 @@ Generated on 2026-04-04 | 2421 sources
 | Fierce Nerds | blog | 0 | 2026-03-31 |
 | Filters that Fight Back | blog | 0 | 2026-03-31 |
 | Five Founders | blog | 0 | 2026-03-31 |
-| Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 0 | 2026-03-30 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
 | Founder Control | blog | 0 | 2026-03-31 |
 | Founder-Market Fit: The VC Test You Must Pass | blog | 0 | 2026-03-30 |
@@ -2380,7 +2382,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI influencers are getting filthy rich... let's build one | youtube | 0 | 2026-03-30 |
 | Anti-Gravity Wheel? | youtube | 0 | 2026-03-30 |
 | Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 0 | 2026-03-30 |
-| Arm Yourself With Specific Knowledge | youtube | 0 | 2026-03-30 |
 | Backspin Basketball Flies Off Dam | youtube | 0 | 2026-03-30 |
 | Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble? | youtube | 0 | 2026-03-30 |
 | Bill Nye: Creationism Is Not Appropriate For Children | Big Think | youtube | 0 | 2026-03-30 |
@@ -2390,7 +2391,6 @@ Generated on 2026-04-04 | 2421 sources
 | Don’t chase happiness. Become antifragile | Tal Ben-Shahar | Big Think | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 0 | 2026-03-30 |
-| Henry Rollins: The One Decision that Changed My Life Forever | Big Think | youtube | 0 | 2026-03-30 |
 | How An Infinite Hotel Ran Out Of Room | youtube | 0 | 2026-03-30 |
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |
 | How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | youtube | 0 | 2026-03-30 |

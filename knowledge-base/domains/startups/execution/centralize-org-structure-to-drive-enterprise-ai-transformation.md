@@ -51,11 +51,12 @@ stance: >-
   transformation because AI capabilities must be unified across functions rather
   than duplicated within product silos.
 related:
-  - INS-260322-3159
   - INS-260327-2043
+  - INS-260322-3159
   - INS-260330-C095
   - INS-260327-999C
   - INS-260322-B09B
+  - INS-260403-24AE
 evidence:
   - id: INS-260322-3159
     type: CONTRADICTS

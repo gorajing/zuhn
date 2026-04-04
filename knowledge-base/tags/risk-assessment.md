@@ -13,6 +13,7 @@
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
 - `INS-260403-225B` A worsening trend from a good absolute position is more alarming than a bad but improving absolute position.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
+- `INS-260403-A7FD` When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
 - `INS-260329-8B1C` Spelling out worst-case scenarios in concrete steps reveals that the feared outcome is almost always a manageable experience rather than a catastrophe.
 - `INS-260330-1DCA` We've cataloged 98% of civilization-ending asteroids (10km+) and accept small ones (<20m), but the 100-800m range — capable of destroying cities — remains largely undetected.
 - `INS-260327-7B8E` At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.

@@ -48,7 +48,6 @@ related:
   - INS-260403-6890
   - INS-260328-0B42
   - INS-260329-D159
-  - INS-260330-E403
 stance: >-
   Pre-PMF advice (just ship, talk to users, no strategy) becomes actively
   harmful post-PMF

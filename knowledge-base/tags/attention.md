@@ -23,8 +23,8 @@
 - `INS-260325-CDEA` The brain runs on a fixed ATP energy budget; no hack can expand its bandwidth for attention.
 - `INS-260330-0930` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - `INS-260330-B047` Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
-- `INS-260330-E0A7` In silence and darkness, Derek felt his heartbeat shaking his entire body — not because it got stronger, but because the brain stopped filtering it out.
 - `INS-260323-42A7` Marriages fail like bankruptcy — very slowly and then all at once — through accumulated small disconnections, not through the dramatic event that finally ends them.
+- `INS-260330-E0A7` In silence and darkness, Derek felt his heartbeat shaking his entire body — not because it got stronger, but because the brain stopped filtering it out.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260329-D212` Obsess over the first 3 seconds of any content because trimming a weak opening can multiply viewership by 19x.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.

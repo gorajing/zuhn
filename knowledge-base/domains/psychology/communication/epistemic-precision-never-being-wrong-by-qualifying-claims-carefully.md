@@ -57,6 +57,7 @@ related:
   - INS-260327-70DF
   - INS-260330-66E6
   - INS-260327-4C73
+  - INS-260403-1202
 ---
 Graham describes Robert Morris as someone who is 'never wrong' — not because he knows everything, but because he pays careful attention to how he qualifies what he says. The result is that he doesn't say much, but what he says is reliable. Graham notes this quality seems wired-in rather than performed, which is why it works: a conscious trick would slip in moments of excitement.
 

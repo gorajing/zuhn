@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 228 insights
+> 229 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -53,6 +53,7 @@
 - `INS-260330-09BB` [high] Gödel proved that in any consistent mathematical system, there exist true statements that cannot be proven within that system.
 - `INS-260330-0930` [high] Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - `INS-260330-F183` [high] The discovery that math is fundamentally incomplete led directly to the invention of computers, showing that limits catalyze breakthroughs.
+- `INS-260403-E6FD` [high] Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
 - `INS-260330-367B` [high] Reframing algebra as geometry makes abstract concepts tangible and intuitive.
 - `INS-260330-2C97` [high] Testability is necessary but insufficient — good explanations are ones whose internal details are load-bearing and cannot be swapped out arbitrarily.
 - `INS-260330-BFD0` [high] The gradient vector doesn't just point downhill — its component magnitudes reveal which parameters carry the most bang for your buck.

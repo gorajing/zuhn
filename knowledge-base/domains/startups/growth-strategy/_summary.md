@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 58 insights
+> 59 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
@@ -56,6 +56,7 @@
 - `INS-260329-8E48` [medium] High-frequency daily posting compresses the iteration cycles needed to find what resonates, dramatically shortening time-to-traction.
 - `INS-260329-3818` [medium] Give the first session free as a half-assessment, half-pitch that delivers one visible improvement, then ask for the commitment.
 - `INS-260329-563F` [medium] Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
+- `INS-260403-F327` [medium] Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.
 - `INS-260329-793D` [medium] Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
 - `INS-260329-8BD3` [medium] Working on retention forces you to ask 'am I actually helping users?' while working on top-line growth tempts you to extract value from users through dark patterns.
 - `INS-260329-825D` [medium] List an absurdly expensive premium tier to make your standard offering feel like a bargain by comparison.

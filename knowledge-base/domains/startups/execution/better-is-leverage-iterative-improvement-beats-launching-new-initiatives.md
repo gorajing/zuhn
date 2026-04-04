@@ -47,10 +47,10 @@ stance: >-
   massive leverage, while launching new things resets leverage to zero.
 related:
   - INS-260329-CB6D
+  - INS-260403-0240
   - INS-260329-33D4
   - INS-260329-B424
   - INS-260330-4E10
-  - PRI-260403-7D1F
 evidence:
   - id: INS-260329-B424
     type: CHALLENGES

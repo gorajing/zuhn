@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 39 insights
+> 43 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
@@ -17,6 +17,7 @@
 - `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260403-F148` [high] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
+- `INS-260403-BDCC` [high] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-8D2C` [high] New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
 - `INS-260403-2BEE` [high] Growth experiments need independent spaces with dedicated resources to avoid being absorbed by the core business's gravitational pull.
 - `INS-260403-E4AD` [high] The next generation of technology is more often built by outsiders tinkering with current systems than by insiders planning the official successor.
@@ -33,11 +34,14 @@
 - `INS-260403-47BF` [medium] Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - `INS-260403-5D81` [medium] Applying behavioral science to innovation training ensures skills actually transfer to daily work rather than fading post-program.
 - `INS-260403-402A` [medium] Running executive, team, and initiative-specific innovation training in parallel builds capability faster than sequential rollouts.
+- `INS-260403-24AE` [medium] Innovation needs its own dedicated hierarchy paralleling the existing business structure, not ad-hoc committees.
 - `INS-260403-4FA4` [medium] For unbanked populations, crypto payment rails solve concrete problems — transparent payments, digital credit history, lower costs — that traditional banks refuse to address.
 - `INS-260403-0372` [medium] Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260403-17E1` [medium] Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses.
 - `INS-260403-ACA8` [medium] Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
+- `INS-260403-343D` [medium] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-0030` [medium] Cohort networks from innovation programs often outvalue the curriculum by providing ongoing diverse perspectives for context-dependent innovation challenges.
 - `INS-260403-63E6` [medium] When you lack selection expertise, use others' demonstrated picks as a proxy rather than trying to build the capability internally.
 - `INS-260403-5427` [medium] Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-5BAD` [medium] Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.
+- `INS-260403-C8FD` [medium] A dedicated internal ambassador who bridges innovation and execution teams prevents both isolation and antibody rejection.
