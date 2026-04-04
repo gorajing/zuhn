@@ -14,5 +14,5 @@
 - `INS-260325-4601` Growth hormone releases during early deep sleep — seven common nighttime habits suppress it and accelerate aging.
 - `INS-260325-9112` Gut decline after 40 is accumulated microbiome damage from medications and diet, not aging — it is reversible.
 - `INS-260325-3F7A` Vision decline tracks mitochondrial loss in retinal cones which can be slowed or reversed with red light fasting and nutrition.
-- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260330-C477` China's shrinking working-age population must support a rapidly growing elderly cohort, creating a structural drag on GDP growth that compounds over decades.
+- `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.

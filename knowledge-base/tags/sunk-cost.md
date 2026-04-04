@@ -1,5 +1,7 @@
 # Tag: sunk-cost
 
+- `INS-260327-B038` Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
+- `INS-260327-A4BB` The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.
 - `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260404-B6E8` Plants produce massive quantities of a flawed enzyme rather than evolving a better one, mirroring how humans double down on suboptimal commitments.
 - `INS-260403-2DC4` Plants rationally invest in workaround enzymes for RuBisCo's failures rather than replacing the enzyme itself.
@@ -12,8 +14,6 @@
 - `INS-260330-CECB` SafeMoon holders who lost 99% of their investment doubled down and formed cult-like communities because acknowledging the scam would mean admitting devastating personal failure.
 - `INS-260329-1B2A` Identity attachment to activities causes irrational over-investment by bypassing cost-benefit analysis.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
-- `INS-260327-B038` Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
-- `INS-260327-A4BB` The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.
 - `INS-260325-636B` The Sequel Script makes people choose careers matching their degree and partners matching their ex — privileging narrative continuity over genuine fit.
 - `INS-260327-F7C0` Pizza Hut's sit-down restaurant model, once a competitive advantage for family dining, became a liability when consumers shifted to delivery and takeout -- their oversized spaces now drive higher costs without corresponding revenue.
 - `INS-260329-1F3F` Burning your escape routes forces the persistence that passion-based motivation cannot sustain.

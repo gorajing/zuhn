@@ -15,5 +15,5 @@
 - `INS-260403-5215` Photosystem II was discovered before Photosystem I, so the 'first' complex in the chain is called II — and renaming would cause more confusion than it solves.
 - `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - `INS-260325-B061` Systematic naming transforms an undifferentiated space into a manipulable structure.
-- `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
 - `INS-260325-A79E` The Banach-Tarski proof only works because of a specific naming scheme for points on a sphere — the right labeling system makes the 'impossible' duplication self-evident.
+- `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.

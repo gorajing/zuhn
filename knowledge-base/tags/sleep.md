@@ -16,7 +16,7 @@
 - `INS-260325-4601` Growth hormone releases during early deep sleep — seven common nighttime habits suppress it and accelerate aging.
 - `INS-260327-1AEC` The most common health questions center on seed oils, testosterone, sleep, and supplement confusion
 - `INS-260325-EDC8` Waking at 2-3AM is a cortisol spike from dropping blood sugar — eating more fat at dinner prevents it.
+- `INS-260323-CA1F` In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
 - `INS-260330-0982` Sleeping on a stuck problem reliably produces solutions that extended conscious grinding cannot.
 - `INS-260330-FA9D` When stuck debugging, sleep on it—your brain continues processing unconsciously and often solves it by morning.
-- `INS-260323-CA1F` In deep sleep, experience ceases — no space, no time, no self — yet something knows that nothing happened, suggesting awareness persists even at the lowest layer.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.

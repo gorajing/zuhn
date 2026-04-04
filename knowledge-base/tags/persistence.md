@@ -1,13 +1,13 @@
 # Tag: persistence
 
 - `INS-260320-06EF` Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
+- `INS-260327-3FC7` Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
+- `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
 - `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
 - `INS-260329-A077` Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
 - `INS-260403-6AD0` A photon takes millions of years bouncing randomly inside a star before escaping — a powerful metaphor for progress through complex, opaque systems.
-- `INS-260327-3FC7` Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
-- `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
 - `INS-260327-51C2` I can't go on. I'll go on. - Beckett's most important insight is that persistence doesn't require hope, meaning, or expectation of success.
 - `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
 - `INS-260329-DF07` Expecting cyclical setbacks as normal growth features prevents premature quitting.
@@ -33,7 +33,6 @@
 - `INS-260329-3E28` Year 4 of your current business will almost always outperform year 1 of a new one — switching vehicles resets your compounding.
 - `INS-260329-EECD` Massive volume of attempts eliminates the need for luck because rejection costs nothing and one success changes everything.
 - `INS-260329-3FF3` Doing something enough times guarantees outcomes that individual attempts leave to chance.
-- `INS-260329-7C08` Commit to producing 400 long-form content pieces as the baseline strategy for audience building from zero.
 - `INS-260330-4314` Maintain an explicit investment thesis and use confidence direction — not absolute level — to decide persistence vs. pivot.
 - `INS-260403-E6A7` Every billionaire founder could have stopped sooner — they kept going not for money but because there was nothing else they'd rather do.
 - `INS-260323-2F50` Both Kinoshita and Hawryluk were publicly ridiculed by experts for proposing EUV lithography — Hawryluk was 'literally laughed off stage' and vowed to 'never speak of it again' — yet the technology they championed became the most important machine in the world.
@@ -51,5 +50,6 @@
 - `INS-260323-DEC3` The 'never give up' mantra can be destructive — 170 rejection letters, deep depression, and isolation were the universe telling Jeff Kaplan to quit writing so the door to game design could open.
 - `INS-260329-D1B8` Entrepreneurs repeat the cycle of uninformed optimism → informed pessimism → crisis of meaning → restart, never reaching informed optimism and achievement.
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
+- `INS-260329-7C08` Commit to producing 400 long-form content pieces as the baseline strategy for audience building from zero.
 - `INS-260329-7E63` The best closers don't have better arguments — they ask for the sale more times by using reframing to maintain rapport across repeated asks.
 - `INS-260330-3AF9` Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.

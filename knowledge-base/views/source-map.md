@@ -23,13 +23,13 @@ Generated on 2026-04-04 | 2421 sources
 | Lecture 18 - Legal and Accounting Basics for Startups (Kirsty Nathoo, Carolynn Levy) | youtube | 24 | 2026-03-31 |
 | Is Earth Actually Flat? | youtube | 23 | 2026-03-30 |
 | Lecture 6 - Growth (Alex Schultz) | youtube | 21 | 2026-03-31 |
+| February 2025 Startups Raising Capital | blog | 20 | 2026-03-30 |
 | Hiring is Obsolete | blog | 20 | 2026-03-31 |
 | C++ Tutorial for Beginners - Full Course | youtube | 20 | 2026-03-29 |
 | The “heroic dose” of psychedelics, according to Johns Hopkins | Dr. Matthew Johnson | youtube | 20 | 2026-03-30 |
 | AK-47 Underwater at 27,450 frames per second (Part 2) - Smarter Every Day 97 | youtube | 19 | 2026-03-30 |
 | System Design Concepts Course and Interview Prep | youtube | 19 | 2026-03-29 |
 | Waking Up with Sam Harris - Looking for the Self (26 Minute Meditation) | youtube | 19 | 2026-03-30 |
-| February 2025 Startups Raising Capital | blog | 16 | 2026-03-30 |
 | Figma To App Store In 37 Minutes With AI [Tutorial] | youtube | 16 | 2026-03-29 |
 | The Archer's Paradox in SLOW MOTION - Smarter Every Day 136 | youtube | 16 | 2026-03-30 |
 | Why Apple Fails in India (& Why it Matters) | youtube | 16 | 2026-03-30 |
@@ -994,12 +994,14 @@ Generated on 2026-04-04 | 2421 sources
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 4 | 2026-03-30 |
 | The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 4 | 2026-03-30 |
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 4 | 2026-03-31 |
+| The End of SaaS⚡, Fintech Trends Q3 2024💳, Optionality in Venture Funds💡 | blog | 4 | 2026-03-30 |
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 4 | 2026-03-30 |
 | The Equity Equation | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 4 | 2026-03-30 |
 | The High-Res Society | blog | 4 | 2026-03-31 |
+| The Lean Startup is Dead⚰️, AGI Delusion?🤖, Top Leadership Books📚 | blog | 4 | 2026-03-30 |
 | The List of N Things | blog | 4 | 2026-03-31 |
 | The Other Half of "Artists Ship" | blog | 4 | 2026-03-31 |
 | The Pooled-Risk Company Management Company | blog | 4 | 2026-03-31 |
@@ -2305,7 +2307,6 @@ Generated on 2026-04-04 | 2421 sources
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
 | The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
-| The End of SaaS⚡, Fintech Trends Q3 2024💳, Optionality in Venture Funds💡 | blog | 0 | 2026-03-30 |
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Free Founder OS: 58 Templates + 10,000 Investor List | blog | 0 | 2026-03-30 |
@@ -2316,7 +2317,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
 | The Island Test | blog | 0 | 2026-03-31 |
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
-| The Lean Startup is Dead⚰️, AGI Delusion?🤖, Top Leadership Books📚 | blog | 0 | 2026-03-30 |
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Must-Read Tech, VC, SaaS, AI, and Startup Reports of 2024 📊 | blog | 0 | 2026-03-30 |
 | The Need to Read | blog | 0 | 2026-03-31 |

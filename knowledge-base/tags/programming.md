@@ -13,6 +13,6 @@
 - `INS-260329-DD0F` Programming understanding comes as a sudden click after sustained confusion, not as gradual comprehension.
 - `INS-260329-AC6E` Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
 - `INS-260329-E40B` The normal learning path for programming is prolonged confusion followed by a sudden breakthrough, and knowing this pattern exists is itself the most valuable intervention.
-- `INS-260404-DBD2` You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
+- `INS-260404-DBD2` You can train competence but not exceptionalism — great programmers invent things ordinary ones would never conceive.
 - `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.

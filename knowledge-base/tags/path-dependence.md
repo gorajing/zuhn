@@ -1,5 +1,6 @@
 # Tag: path-dependence
 
+- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.
 - `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260330-4315` Agriculture emerged independently worldwide, but this convergence proves shared evolutionary pressures, not that farming was the best choice.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
@@ -8,7 +9,6 @@
 - `INS-260403-AAE4` The paths to new ideas look unpromising by definition — if they looked promising, others would have already explored them.
 - `INS-260330-DBAD` The kilogram exists as an awkward prefixed base unit because 'grave' sounded too aristocratic during the French Revolution.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
-- `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.
 - `INS-260403-2CDA` RuBisCo fails half the time in modern conditions but plants produce 40 billion tons of it rather than evolving a replacement — the same logic keeps legacy code alive.
 - `INS-260404-3608` When replacement cost exceeds compensation cost, scaling the workaround beats re-architecting — the same logic that keeps RuBisCo in every plant on Earth.
 - `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.

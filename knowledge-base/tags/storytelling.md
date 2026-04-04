@@ -10,12 +10,12 @@
 - `INS-260323-527B` Smifter's video uses a ladder of progressively larger scale comparisons — Earth, Moon distance, Alpha Centauri, solar system, observable universe — to make incomprehensible numbers emotionally tangible.
 - `INS-260403-CC25` Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - `INS-260403-8C50` Sequoia's 'proxy for demand' — people using bad tools to do the thing you enable — is the strongest antidote to investors' biggest early-stage fear.
-- `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
+- `INS-260323-2627` Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
 - `INS-260327-D2A6` Make your fundraise itself a story worth telling—unconventional approaches generate more attention than conventional pitches.
 - `INS-260321-C292` After the movie 300, Navy SEAL recruitment spiked — entertainment that inspires heroism and optimism creates the cultural conditions for industrial mobilization.
 - `INS-260330-F4DD` Press works like a sales funnel: get warm intros through recently-covered founders, memorize your bullet-point narrative, invest reporters' time via face-to-face meetings, and follow up with collateral before launch day.
 - `INS-260327-3574` Pitch a mindset shift in the world, not your product's features — this transforms you from an arrogant doctor into a movement leader.
-- `INS-260323-2627` Ayn Rand's fiction changed more lives than Friedman's economics because she worked in the mythic register — creating characters people identified with and fusing emotional experience to intellectual framework.
+- `INS-260325-F451` Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260322-A02C` At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260403-4730` Fundraising has a binary transition point where signal rises above noise, making incremental pitch improvements less effective than crossing the threshold.
 - `INS-260404-AC2B` Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
