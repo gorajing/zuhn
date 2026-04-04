@@ -1,8 +1,8 @@
 # Tag: evolution
 
+- `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260327-9DB0` Assembly Theory can determine if an object was built by evolution by measuring its complexity (minimum assembly steps) and abundance (number of copies) - applicable to any substrate, not just biology.
 - `INS-260327-A44E` Evolution doesn't randomly search the space of possible organisms - it accumulates successful building blocks and recombines them, which is why it can create complexity that random search never could.
-- `INS-260327-D24A` Aligning AI to current human values assumes those values are correct - but we've abandoned slavery, expanded rights, and improved moral reasoning over centuries. Should AI be aligned to 2024 values or to where values should evolve?
 - `INS-260325-D680` Cancer cells use the same mutation-and-selection mechanism as species evolution, making cancer a fundamental feature of the evolutionary process, not a bug.
 - `INS-260330-CC30` RuBisCo confuses O2 for CO2 up to 50% of the time, but plants compensate by producing ~40 billion tons of it rather than evolving a replacement.
 - `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
@@ -23,10 +23,10 @@
 - `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
 - `INS-260403-1E5A` Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-0C95` Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
-- `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
 - `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
+- `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-12D5` Over-detecting threats in ambiguous stimuli is evolutionarily cheaper than missing real threats, so apophenia persists as a survival advantage.
 - `INS-260325-75A3` Evolution works like a staircase: random mutations create the rise, natural selection creates the run, and cumulative steps produce complexity humans struggle to intuit.
 - `INS-260330-F056` Humans evolved uniquely white scleras to make gaze direction obvious — a cooperative trade-off that predators cannot afford.

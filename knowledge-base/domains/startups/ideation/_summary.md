@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 82 insights
+> 83 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -40,6 +40,7 @@
 - `INS-260321-6BA7` [high] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
 - `INS-260322-EF20` [high] Early-stage founders should paint a picture of how the customer's life changes with the product, not enumerate features.
 - `INS-260402-F08D` [high] Successful founders don't find overlooked ideas through deliberate search — their unusual perspective makes certain ideas obvious to them that are invisible to everyone else.
+- `INS-260404-70AE` [high] Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
 - `INS-260327-E7A3` [high] Tar pit ideas form around widespread problems that seem easily solvable but have hidden structural reasons why they've resisted solution for 20+ years — and most founders skip the basic step of Googling to find out.
 - `INS-260403-DDFD` [high] Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
 - `INS-260330-8AC8` [high] Yahoo, Google, Facebook, and Apple all started as side projects — the best ideas are such outliers that your conscious mind rejects them as company ideas.

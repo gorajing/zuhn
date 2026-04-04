@@ -11,3 +11,4 @@
 - `INS-260325-2BB0` TSMC makes roughly 90% of advanced processor chips used in phones, computers, and AI — an unprecedented concentration of critical manufacturing in one company in one geopolitically sensitive location.
 - `INS-260323-FFE8` The decisive factor in US-China competition is technological supremacy — particularly AI and standard-setting — not raw GDP growth.
 - `INS-260323-D6BD` Despite appearing ideologically opposed, Biden barely cut any tariffs on China and maintained aggressive semiconductor export controls — US containment of China is structurally bipartisan.
+- `INS-260404-1755` ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.

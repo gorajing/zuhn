@@ -48,11 +48,11 @@ stance: >-
   convenience across all Apple products — creating identity-level attachment
   that transcends rational product comparison.
 related:
+  - INS-260404-D6EC
   - INS-260327-C9A7
   - INS-260330-C870
   - INS-260330-DCFB
   - INS-260404-C25C
-  - INS-260330-3EE4
   - INS-260327-EAB0
   - INS-260329-3AE5
   - INS-260403-E78B

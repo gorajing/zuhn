@@ -17,10 +17,10 @@
 - `INS-260323-5C6F` If your AI product is just a layer on top of an underlying AI platform, that platform can replicate it — Jasper, Zynga, and SEO companies all learned this the hard way.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
 - `INS-260323-DD40` Consumer businesses should be funded by repeating customers, not venture capital — capital cannot solve unit economics problems.
+- `INS-260323-0B5E` Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260323-5106` Casper, built to disrupt retail mattress stores, found that retail sales grew 74% year-over-year with 15% higher average orders — the thing they disrupted became their only hope.
 - `INS-260323-5A96` Americans replace mattresses every 9-10 years — Casper's massive ad spend couldn't change this fundamental market constraint, and growth decelerated from 43% to 18% despite continued spending.
 - `INS-260323-0026` Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.
-- `INS-260323-0B5E` Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
 - `INS-260323-E2ED` When a founder's self-worth becomes entangled with their codebase, negative user feedback triggers emotional defensiveness instead of productive iteration.
 - `INS-260323-81F5` If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.

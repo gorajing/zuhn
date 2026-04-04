@@ -55,10 +55,10 @@ related:
   - INS-260323-1B87
   - INS-260327-7A44
   - INS-260327-27DA
-  - INS-260327-80A8
   - INS-260328-372B
   - INS-260329-78CB
   - INS-260330-BEE7
+  - INS-260404-8C42
   - INS-260330-2CE5
 ---
 Altman reveals a specific behavioral signal YC has identified across 720+ companies: founders who connect PagerDuty to their customer support ticketing system, ensuring sub-hour response times even in the middle of the night, disproportionately build successful companies. This isn't about customer service as a strategy — it's about the founder's relationship with product quality. These founders 'feel physical pain when the product sucks' and can't sleep knowing something is broken. The broader principle is that the tightest possible feedback loop between users and product decisions drives compounding improvement — if your product gets 10% better every week, that compounds devastatingly fast. Critically, Altman warns Stanford founders specifically against hiring sales and support staff early: founders must do this themselves to keep the feedback loop embedded in company culture.

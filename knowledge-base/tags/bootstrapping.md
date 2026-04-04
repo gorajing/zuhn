@@ -20,8 +20,8 @@
 - `INS-260329-E884` If each customer pays enough in 30 days to cover their own acquisition cost plus the next customer's, growth becomes self-funding.
 - `INS-260329-AADB` Structure offers so each customer pays back their acquisition cost within 30 days, turning customers into funding for the next customer.
 - `INS-260330-B0EB` Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
-- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260330-D6D3` Harvard Business Review's three market dominance paths — best price (logistics), best product (R&D), best overall solution (customer intimacy) — only the third requires near-zero capital, making it uniquely accessible to startups.
+- `INS-260322-3259` SiteGPT's $1700-1800 LTV per customer makes even low-conversion organic traffic highly profitable.
 - `INS-260329-9513` Filter business ideas through three lenses — what pains you, what you do professionally, and what you care about — to find ideas grounded in authentic experience.
 - `INS-260329-FE15` Ground your first business idea in personal pain, professional expertise, or deep passion rather than abstract market research.
 - `INS-260323-E9E4` Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.

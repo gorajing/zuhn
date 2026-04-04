@@ -51,12 +51,11 @@ stance: >-
   progress over years) than on having the best technology in a single
   evaluation.
 related:
-  - INS-260324-8656
   - PRI-260328-0C86
   - INS-260327-D7AA
   - INS-260330-8CD4
+  - INS-260324-8656
   - INS-260327-969D
-  - INS-260327-BE1F
   - INS-260327-DC65
 evidence:
   - id: INS-260324-8656

@@ -545,6 +545,7 @@ Generated on 2026-04-04 | 2421 sources
 | What if AI succeeds but OpenAI fails? | blog | 5 | 2026-03-30 |
 | What I've Learned from Hacker News | blog | 5 | 2026-03-31 |
 | What I've Learned from Users | blog | 5 | 2026-03-31 |
+| What Kate Saw in Silicon Valley | blog | 5 | 2026-03-31 |
 | What Startups Are Really Like | blog | 5 | 2026-03-31 |
 | What the Bubble Got Right | blog | 5 | 2026-03-31 |
 | What Top-Tier VCs Look For in 2026: 40 Questions, Benchmarks & Playbook | blog | 5 | 2026-03-30 |
@@ -828,6 +829,7 @@ Generated on 2026-04-04 | 2421 sources
 | A founding vision for a startup is similar to a scientific hypothesis | blog | 4 | 2026-03-31 |
 | A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 4 | 2026-03-31 |
 | A framework for PM skill development | Vikrama Dhiman (Gojek) | blog | 4 | 2026-03-31 |
+| A free year of Devin: the world’s most advanced autonomous AI software engineer | blog | 4 | 2026-03-31 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
 | A Local Revolution? | blog | 4 | 2026-03-31 |
 | A new-parent gift guide | blog | 4 | 2026-03-31 |
@@ -850,6 +852,7 @@ Generated on 2026-04-04 | 2421 sources
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Apple Business Model | blog | 4 | 2026-03-31 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
+| ARM Business Model | blog | 4 | 2026-03-31 |
 | Assess & Design Your Innovation Portfolio | blog | 4 | 2026-03-31 |
 | Assess how your Innovation Programs are Performing | blog | 4 | 2026-03-31 |
 | At Zoo Labs, The Business Model Canvas Is Helping To Redefine The Music Industry | blog | 4 | 2026-03-31 |
@@ -885,6 +888,7 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 4 | 2026-03-30 |
 | Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
 | Deep Dive: How Equity Tokenization Is Breaking TradFi Barriers | blog | 4 | 2026-03-30 |
+| Deep Dive: Prediction Markets | blog | 4 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Defining Property | blog | 4 | 2026-03-31 |
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
@@ -909,6 +913,7 @@ Generated on 2026-04-04 | 2421 sources
 | Having Kids | blog | 4 | 2026-03-31 |
 | Headcount Planning Template to Control Startup Burn | blog | 4 | 2026-03-30 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
+| How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 4 | 2026-03-30 |
 |  How Do VCs Really Make Decisions?💡 | blog | 4 | 2026-03-30 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
 | How machines are becoming better investors than humans | blog | 4 | 2026-03-30 |
@@ -2014,7 +2019,6 @@ Generated on 2026-04-04 | 2421 sources
 | A designer’s guide to AI: Building in Cursor (instead of Figma) lets you prototype 10x faster, simplifies collaboration, and accelerates getting ideas out of your head | Joel Unger | blog | 0 | 2026-03-31 |
 | A designer's guide to Cursor: How to build interactive prototypes with sound, explore visual styles, and transform data visualizations | Elizabeth Lin | blog | 0 | 2026-03-31 |
 | A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) | blog | 0 | 2026-03-31 |
-| A free year of Devin: the world’s most advanced autonomous AI software engineer | blog | 0 | 2026-03-31 |
 | "A full software engineering teammate": OpenAI product lead on getting the most out of Codex | Alexander Embiricos | blog | 0 | 2026-03-31 |
 | A guide to advanced B2B positioning | blog | 0 | 2026-03-31 |
 | A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett | blog | 0 | 2026-03-31 |
@@ -2075,7 +2079,6 @@ Generated on 2026-04-04 | 2421 sources
 | Apple Pay’s Uncopyable Business Model Delivers What Nobody Else Could | blog | 0 | 2026-03-31 |
 | April Dunford on product positioning, segmentation, and optimizing your sales process | blog | 0 | 2026-03-31 |
 | Are Gains the Opposite of Pains? | blog | 0 | 2026-03-31 |
-| ARM Business Model | blog | 0 | 2026-03-31 |
 | Artisan’s Playbook: How an AI SDR Startup Raised $25M in Under a Year | blog | 0 | 2026-03-30 |
 | Ask Me Anything session with Alex & David | blog | 0 | 2026-03-31 |
 | Ask Me Anything session with Alex & Yves | blog | 0 | 2026-03-31 |
@@ -2155,7 +2158,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: Moore's Law and Next Steps for Silicon | blog | 0 | 2026-03-30 |
 | Deep Dive on Humanoid Robots: The Case for a World Running Out of Workers | blog | 0 | 2026-03-30 |
 | Deep Dive on Neuralink: Controlling Computers With Your Mind | blog | 0 | 2026-03-30 |
-| Deep Dive: Prediction Markets | blog | 0 | 2026-03-30 |
 | Deep Dive: The Business Model of Healthcare | blog | 0 | 2026-03-30 |
 | Deep Dive: The Current State of AI | blog | 0 | 2026-03-30 |
 | Deep Dive: The Future of Space | blog | 0 | 2026-03-30 |
@@ -2204,7 +2206,6 @@ Generated on 2026-04-04 | 2421 sources
 | Hidden Open Thread 425.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | High Resolution Fundraising | blog | 0 | 2026-03-31 |
-| How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 0 | 2026-03-30 |
 | How Natural Tradeoff And Failure Components? | blog | 0 | 2026-03-30 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
@@ -2373,7 +2374,6 @@ Generated on 2026-04-04 | 2421 sources
 | Weird Languages | blog | 0 | 2026-03-31 |
 | Welcome to Chaos World | blog | 0 | 2026-03-30 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |
-| What Kate Saw in Silicon Valley | blog | 0 | 2026-03-31 |
 | What Languages Fix | blog | 0 | 2026-03-31 |
 | What Made Lisp Different | blog | 0 | 2026-03-31 |
 | What Makes a Good Product-Market Fit?🎯, Global Markets Snapshot📊, GDP Growth Projections📈 | blog | 0 | 2026-03-30 |

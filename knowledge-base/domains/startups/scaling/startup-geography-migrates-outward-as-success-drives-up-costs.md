@@ -51,7 +51,7 @@ related:
   - INS-260403-CA93
   - INS-260403-79AD
   - INS-260403-4904
-  - INS-260403-696C
+  - INS-260404-70AE
 ---
 Graham notes that University Ave in Palo Alto would have been the Valley's heart 10 years prior, but rising costs pushed startups to Mountain View's Castro Street instead. Palo Alto became a place startups visit to meet investors, not where they operate day-to-day. Old Palo Alto houses at $1000/sqft became 'post-exit Silicon Valley.'
 

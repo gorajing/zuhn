@@ -45,9 +45,9 @@ stance: >-
   before others can see it.
 related:
   - INS-260330-F08F
+  - INS-260404-5882
   - INS-260327-0C4A
   - INS-260330-CCF0
   - INS-260327-6061
-  - INS-260320-A1D3
 ---
 Each technology wave shifts the binding constraint for startups. In the early internet era, the constraint was technical capability. In SaaS, it was distribution and go-to-market. With AI commoditizing engineering (everyone has the team, everyone has the technical ability), the constraint collapses to vision and conviction. This has a practical implication for founder evaluation: the question is no longer 'can you build this?' but 'can you see something others cannot and hold that conviction long enough to execute?' It also implies that domain expertise and contrarian worldviews become more valuable than technical pedigree, since the technical execution gap is narrowing rapidly.

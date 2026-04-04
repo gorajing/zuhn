@@ -1,8 +1,8 @@
 # Tag: power-law
 
 - `INS-260330-7C24` Vibe coding creates a barbell market where giant apps and tiny niche apps thrive, but 5-20 person software companies get squeezed out.
-- `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
 - `INS-260323-8544` In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
+- `INS-260330-06CD` Masa Son's $20M Alibaba bet returning $70B+ proved that a single outlier can justify hundreds of failed investments.
 - `INS-260403-9775` VC portfolio math requires every bet to be capable of returning the fund because most investments return zero.
 - `INS-260403-BB6B` Venture returns are so concentrated in a few outliers that non-outlier investments are economically irrelevant.
 - `INS-260403-AA09` Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.

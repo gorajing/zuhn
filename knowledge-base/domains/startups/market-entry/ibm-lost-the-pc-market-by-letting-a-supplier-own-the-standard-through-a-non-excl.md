@@ -52,11 +52,11 @@ stance: >-
   through supply chain positioning mistakes that let smaller players capture the
   customer relationship and platform standard
 related:
+  - INS-260404-1755
   - INS-260329-67CB
   - INS-260330-7251
   - PRI-260325-E2D3
   - INS-260330-A1DB
-  - INS-260321-1A03
 evidence:
   - id: INS-260321-1A03
     type: TRANSFERS_TO

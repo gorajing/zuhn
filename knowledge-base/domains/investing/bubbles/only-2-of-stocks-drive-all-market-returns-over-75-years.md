@@ -49,7 +49,6 @@ related:
   - INS-260326-6B98
   - INS-260323-BA17
   - PRI-260328-3FEF
-  - INS-260328-988F
 evidence:
   - id: INS-260328-988F
     type: EXTENDS

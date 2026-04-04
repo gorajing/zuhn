@@ -1,5 +1,6 @@
 # Tag: startup-culture
 
+- `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260403-CCB7` Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - `INS-260330-8CD4` Starting a company from genuine mission conviction creates durable advantages in persistence, team alignment, and external support that purely opportunistic ventures cannot replicate.
 - `INS-260327-CB72` Jack Dorsey systematically fabricated a solo-founder origin story for Twitter, manipulated media coverage, and orchestrated two CEO coups -- all to serve his personal mythos rather than the company's health.

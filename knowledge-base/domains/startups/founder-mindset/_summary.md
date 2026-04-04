@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 305 insights
+> 306 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -154,6 +154,7 @@
 - `INS-260323-7AF7` [high] Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.
 - `INS-260330-6A94` [high] Reclaiming your time follows a progression — roommates, commute, alarm clock, calendar, email — and each stage requires disappointing someone.
 - `INS-260403-805E` [high] School conditions founders to look for tricks and shortcuts instead of focusing on building great products.
+- `INS-260404-053B` [high] Scrappiness — being both threatening and undignified — is the quality outsiders notice most in founders, yet it's actively discouraged in most professional environments.
 - `INS-260328-A57D` [high] If you found the biggest problem and it seemed too hard, searching for four months for easier problems is almost always a worse use of time.
 - `INS-260329-62E1` [high] Deliberately choosing extreme work imbalance for a defined season (2-3 years) produces better lifetime balance than trying to maintain daily equilibrium from a losing position.
 - `INS-260330-8733` [high] Nakamura literally crumpled up and threw away multiple written orders from the CEO to stop his research, and credited this disobedience as the reason for his success.

@@ -18,14 +18,13 @@
 - `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
 - `INS-260330-3C70` The 3x+1 rule is trivially simple yet produces hailstone sequences that follow geometric Brownian motion — the same statistical pattern as stock market fluctuations.
 - `INS-260329-BFBF` Big-O notation forces worst-case thinking, which is the opposite of how humans naturally estimate outcomes.
+- `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
+- `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
+- `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
 - `INS-260404-52FC` CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
 - `INS-260403-FC01` The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
 - `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
-- `INS-260330-6AB7` The Calvin Cycle produces 6 G3P molecules but 5 must be recycled to regenerate the starting material — only 1/6 of output actually leaves the system as usable product.
-- `INS-260330-3591` Photosynthesis has had 450 million years of optimization pressure yet remains 'complicated, inefficient and confusing' — proof that selection pressure produces survivable solutions, not elegant ones.
-- `INS-260330-42DE` The body's hierarchy — atoms, cells, tissues, organs, organ systems, organism — shows how stacking simple organized layers produces capabilities none could achieve alone.
-- `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260325-0921` The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
 - `INS-260327-4A10` Standing in primary Amazon rainforest reveals that everything we call 'complex' in human systems is trivially simple compared to what evolution has produced.
@@ -34,6 +33,7 @@
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
 - `INS-260329-8D70` Binary search trees average O(log n) but degrade to O(n) when data arrives sorted — this single gap motivated AVL trees, red-black trees, and the entire field of self-balancing structures.
 - `INS-260330-B8C6` Zipf's law in language likely emerges from multiple colluding mechanisms rather than a single cause, reflecting something fundamental about how minds model complexity.
+- `INS-260330-CA43` A mechanical engineer discovered he didn't truly understand an everyday device until he built a transparent version and watched it in slow motion.
 - `INS-260325-F707` Lists of '3 traits of highly resilient people' are myths — research finds many factors with small effects, meaning resilience is not a fixed character trait but an emergent outcome of many interacting variables.
 - `INS-260330-181B` Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
 - `INS-260330-BC6F` A YC company that improperly converted from a Connecticut LLC to a Delaware Corporation discovered the mistake years later during fundraising, requiring four law firms and $500K to resolve.

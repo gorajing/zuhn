@@ -47,6 +47,6 @@ related:
   - INS-260403-7B60
   - INS-260403-4904
   - INS-260403-7AA1
-  - INS-260403-37FD
+  - INS-260404-459B
 ---
 Graham points out a striking arbitrage: Larry and Sergey shopped Google around for a million dollars and got rejected by everyone. Yet the strategic value Google created was immense. He argues Microsoft could have bought all the promising Web 2.0 startups for less than a single large acquisition. The real barrier wasn't financial — it was cultural. Microsoft's fatal flaw was believing they could still build competitive software internally despite losing touch with where software was heading. This reveals that for incumbents, the bottleneck to reinvention is rarely capital; it's the organizational ego that prevents admitting outside talent sees the future more clearly than your own team does.

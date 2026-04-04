@@ -1,6 +1,6 @@
 # Topic: growth
 
-> 65 insights
+> 66 insights
 
 - `INS-260330-FA4C` [high] Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve.
 - `INS-260330-73A2` [high] Growth equals conversion minus churn, and reducing churn by 1% has the identical mathematical effect on growth as increasing conversion by 1%, but costs significantly less.
@@ -58,6 +58,7 @@
 - `INS-260330-2347` [high] When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
 - `INS-260403-8779` [medium] Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
 - `INS-260330-D99D` [medium] McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260404-5882` [medium] Silicon Valley's tech saturation means the person at the next table likely knows your stakeholders and could help you — creating ambient serendipity impossible to engineer remotely.
 - `INS-260403-D522` [medium] The most dynamic economic sector attracts the most ambitious people, causing it to expand fractally and set standards for the broader economy.
 - `INS-260403-D2A9` [medium] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
 - `INS-260330-D711` [medium] The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.

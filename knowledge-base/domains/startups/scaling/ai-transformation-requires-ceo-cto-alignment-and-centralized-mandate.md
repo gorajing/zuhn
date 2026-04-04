@@ -52,7 +52,7 @@ related:
   - INS-260330-3A3F
   - INS-260330-9933
   - INS-260327-889F
-  - INS-260330-AE4B
+  - INS-260404-70AE
 ---
 The CTO wrote a long email to Jack Dorsey arguing for centralized AI investment and company-wide transformation. Jack flew to Sydney for a two-day deep dive, and they emerged fully aligned. This top-down alignment enabled the subsequent organizational restructuring and cultural change that made AI adoption possible.
 

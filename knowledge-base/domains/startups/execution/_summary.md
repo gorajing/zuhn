@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 221 insights
+> 222 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -43,6 +43,7 @@
 - `INS-260402-91B5` [high] Focus on vertical slices that span the boundaries where bigger organizations divide labor, because the best insights live in those seams.
 - `INS-260330-2CE5` [high] YC's best success predictor is whether founders consistently ship small increments between check-ins, not the brilliance of their strategy.
 - `INS-260327-294E` [high] Give AI all your implicit context explicitly—that's the real skill, not clever prompting.
+- `INS-260404-8C42` [high] YC speakers independently and consistently advise the same things: launch fast, listen to users, iterate — suggesting these are empirical truths about startup success.
 - `INS-260403-558D` [high] Release crude, iterate fast — nature's imagination outperforms your own.
 - `INS-260323-8392` [high] Customer service is the #1 underrated competency in modern business — one great experience can make a brand blow up positively, one bad experience can destroy it publicly.
 - `INS-260330-A86C` [high] Cybercriminal schemes evolve through rapid trial-and-error iteration — fail, diagnose, fix, repeat — the same process successful startups use to find product-market fit.

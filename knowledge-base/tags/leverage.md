@@ -22,11 +22,11 @@
 - `INS-260329-2242` Block your first 4-6 hours for the one thing that would make all other problems disappear.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
 - `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260402-C4FF` A top performer's concentrated skill creates disproportionate value that cannot be replicated by distributing the same total skill across many people.
 - `INS-260403-0429` Photosynthesis stores energy by pumping protons across a membrane to create a gradient — the same principle applies to information asymmetry, skill gaps, and market inefficiencies.
 - `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
 - `INS-260330-9BC3` A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
+- `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260325-B206` When two operations turn out to be inverses (like integration and differentiation), knowing how to do one gives you the other for free.
 - `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
@@ -36,10 +36,10 @@
 - `INS-260321-2D72` Code's real advantage isn't zero marginal cost of serving users — it's zero-cost experimentation. A/B test, deploy, roll back, iterate at near-zero cost per cycle. Your competitive advantage is learning speed, not serving speed.
 - `INS-260403-9E0E` Once a startup makes enough to cover founders' living expenses, the entire relationship with investors shifts from desperation to negotiation.
 - `INS-260329-2A70` Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.
+- `INS-260330-3B0A` Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve.
 - `INS-260403-8008` The most powerful business models get customers, communities, or third parties to create the core value while the company provides the platform.
 - `INS-260329-72A5` A 10x price increase on the same product can yield a 31x increase in net profit because fixed costs remain constant.
 - `INS-260329-27A7` Charging $35/session to 8 students yields $280/hr versus $60/hr in a 1-on-1 model — a 4.5x increase for the same time block.
-- `INS-260330-3B0A` Not paying founder salaries creates legal liability that fired co-founders weaponize to negotiate vesting acceleration they don't deserve.
 - `INS-260329-BC11` Self-publishing builds a compounding content asset; gatekeeper-dependent publishing trades leverage for credibility.
 - `INS-260329-7691` Making existing processes better (scripts, ads, follow-up, offers) creates leverage because you get more output from the same input, while new initiatives reset you to zero leverage.
 - `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
@@ -60,12 +60,12 @@
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260330-2413` Ramsey argues that the investment world uses beta to risk-adjust stock returns, but business and real estate analysis never applies equivalent risk adjustment to leverage.
 - `INS-260329-793D` Businesses typically have far more untapped leverage in their existing offer and customer base than they realize.
-- `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
-- `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
 - `INS-260403-5BAC` Costco stocks only ~4,000 items vs 140,000 at Walmart, making suppliers compete fiercely for limited shelf space.
 - `INS-260403-0240` Under leverage, being right 90% vs 80% of the time doesn't yield 12% more value — it yields orders of magnitude more.
 - `INS-260403-4874` Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260404-1843` Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
+- `INS-260321-C4CD` A podcast episode is both a distribution mechanism AND a credibility-building mechanism — it operates on two axes at once. Most tools do one thing. Media does both, which is why its returns feel disproportionate.
+- `INS-260329-DAC4` Warm outreach, cold outreach, content, and paid ads are the only four ways one person can let others know about their product; customers, employees, affiliates, and agencies multiply those four.
 - `INS-260330-B6FA` Parker Conrad's key insight from failing to raise for two years was that building a business with enough cash flow to potentially never need investors made fundraising trivially easy.
 - `INS-260330-6204` Borrowing money instead of selling stock keeps more upside for founders but introduces existential risk if the business underperforms.
 - `INS-260330-376E` Never stop pursuing alternative investors or acquirers, even after someone says yes, because competition is your only leverage.

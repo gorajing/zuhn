@@ -44,9 +44,10 @@ stance: >-
   angel rounds are their core business, not a side channel for deal flow
 related:
   - INS-260402-6BB6
-  - INS-260402-3FC5
   - INS-260403-6A65
   - INS-260322-88C3
+  - INS-260404-70AE
+  - INS-260402-3FC5
   - INS-260327-A927
 ---
 Graham draws a direct parallel between super-angels disrupting VCs and YouTube disrupting traditional media: the invader's entire business is the new market, while the incumbent participates half-heartedly to protect existing turf. VCs who make angel-sized investments do so primarily to generate deal flow for series A rounds, not as a core competency.

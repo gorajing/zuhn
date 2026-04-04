@@ -28,6 +28,7 @@
 - `INS-260403-AABF` Self-imposed constraints compound into structural advantages because each constraint reinforces the others and makes the whole system harder to copy piecemeal.
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260330-EEED` Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
+- `INS-260404-CCE7` ARM invests in chip designs eight years before they generate revenue, creating a depth of IP that fast-followers cannot shortcut.
 - `INS-260403-E3CC` Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260403-962E` RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
 - `INS-260403-68C8` Reddit kept growing through years of management ranging from 'benign neglect to spectacular blunders' because the core product — community-curated interesting links — is fundamentally useful.

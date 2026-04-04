@@ -48,11 +48,11 @@ stance: >-
   Converting service delivery knowledge into a licensing model creates a
   higher-multiple business with dramatically lower marginal cost
 related:
+  - INS-260404-1755
   - INS-260329-4223
   - INS-260329-74F9
   - INS-260323-F15D
   - INS-260330-AA4F
-  - PRI-260403-7D1F
 evidence:
   - id: INS-260330-AA4F
     type: TRANSFERS_TO

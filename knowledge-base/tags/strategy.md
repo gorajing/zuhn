@@ -29,8 +29,6 @@
 - `INS-260322-B3D0` Pre-PMF advice (just ship, talk to users, no strategy) becomes actively harmful post-PMF — you need strategic bets like Facebook opening beyond .edu or DoorDash expanding beyond food.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260323-B849` In normal-distribution games (coin flips for $1), optimize for the average; in power-law games (startups, content, earthquakes), the average is meaningless — optimize for maximum exposure to extreme outcomes.
-- `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
-- `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
 - `INS-260330-413D` Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.
 - `INS-260404-0095` Letting in a few thousand great programmers per year costs almost nothing but failing to do so could cost a country its technological lead.
 - `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
@@ -49,6 +47,8 @@
 - `INS-260403-599B` When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260329-6E0F` Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
 - `INS-260329-277B` Being copied is a positive signal; the copier's attention on you means their attention isn't on their customers.
+- `INS-260323-2E49` Branding is not surface decoration but a worldview methodology — the process of connecting a specific concept to a name, implanting community memories, and building brand strength that converts to shareholder value through consumer benefit.
+- `INS-260329-776B` Brand growth requires accepting that every new pairing loses some existing audience — the discipline is ensuring net positive gains.
 - `INS-260403-130D` Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
 - `INS-260323-28FB` People endure incredible hardship today if the future portends what they want — so start negotiations by finding a shared future state and work backward.
 - `INS-260330-7EDF` Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

@@ -50,7 +50,6 @@ stance: >-
   even 450 million years of evolution cannot displace the incumbent approach.
 related:
   - INS-260323-F963
-  - INS-260325-A54F
   - INS-260327-F723
   - INS-260328-D26B
   - INS-260330-22C0
@@ -59,6 +58,7 @@ related:
   - INS-260403-A5D5
   - INS-260330-53A9
   - INS-260330-4315
+  - INS-260330-F7F4
 evidence:
   - id: INS-260323-F963
     type: TRANSFERS_TO

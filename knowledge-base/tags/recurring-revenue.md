@@ -1,6 +1,7 @@
 # Tag: recurring-revenue
 
 - `INS-260327-446A` American consumerism was deliberately engineered — planned obsolescence was explicitly proposed as an economic strategy during the Great Depression to create artificial demand.
+- `INS-260404-396E` ARM earns $1-10M upfront per license plus 1-2% royalties on every chip shipped, blending stability with volume upside.
 - `INS-260330-CAAB` Apple embraced longer device lifecycles because every iPhone user—new or used—still generates services revenue through apps, subscriptions, and licensing deals like Google's $9B search default payment.
 - `INS-260330-D556` When unit sales plateau, shift monetization from selling new devices to extracting recurring revenue from every device already in users' hands.
 - `INS-260327-442D` Lionsgate's acquisition of Artisan Entertainment gave them 8,000+ titles whose syndication licensing generated steady recurring revenue -- like a SaaS business -- that cushioned the inherent volatility of new film production.

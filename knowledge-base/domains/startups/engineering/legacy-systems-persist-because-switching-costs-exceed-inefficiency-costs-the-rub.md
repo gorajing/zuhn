@@ -57,7 +57,6 @@ related:
   - INS-260403-0162
   - INS-260330-CC30
   - INS-260330-53A9
-  - INS-260404-C25C
 ---
 RuBisCo evolved when atmospheric CO2 was abundant and oxygen scarce. When oxygen levels rose, RuBisCo began mistakenly fixing O2 instead of CO2 roughly half the time, producing a toxic byproduct. Yet plants never evolved a replacement — they went all-in, producing ~40 billion tons of RuBisCo globally and building secondary pathways to neutralize the toxic waste.
 

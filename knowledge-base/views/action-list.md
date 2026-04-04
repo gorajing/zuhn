@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3754 actionable insights
+Generated on 2026-04-04 | 3756 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2420,6 +2420,7 @@ Generated on 2026-04-04 | 3754 actionable insights
 - [INS-260403-91FD] Train yourself to treat deals as background processes — ignore them until they close or die, because emotional dependence makes both you and the deal weaker.
 - [INS-260403-B4B9] Use your business model as the starting point for defining what to measure, not generic KPIs.
 - [INS-260404-CF81] Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.
+- [INS-260404-8C42] YC speakers independently and consistently advise the same things: launch fast, listen to users, iterate — suggesting these are empirical truths about startup success.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -3106,6 +3107,7 @@ Generated on 2026-04-04 | 3754 actionable insights
 - [INS-260403-06D5] In gaming contexts, LLM hallucinations and slow inference can become features — unpredictability creates surprise, and waiting can build anticipation if the experience design accounts for it.
 - [INS-260403-816B] The best startup ideas come from fixing what's broken in your own life, not imagining what strangers need.
 - [INS-260404-CF9F] Your unconscious mind prevents you from even seeing startup ideas that involve difficult, unpleasant work.
+- [INS-260404-70AE] Roughly half of YC startups significantly change direction by Demo Day, and this is encouraged rather than seen as failure.
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.

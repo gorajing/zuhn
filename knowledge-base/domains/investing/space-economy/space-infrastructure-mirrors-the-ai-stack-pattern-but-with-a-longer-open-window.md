@@ -50,7 +50,6 @@ stance: >-
   each layer remains open because AI hype has diverted capital and attention
   away from space.
 related:
-  - INS-260403-20BF
   - INS-260403-3615
   - INS-260403-C032
   - INS-260403-7B04

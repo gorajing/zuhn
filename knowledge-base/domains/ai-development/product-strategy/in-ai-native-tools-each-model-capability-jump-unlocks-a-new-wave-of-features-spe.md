@@ -54,11 +54,11 @@ related:
   - PRI-260403-5FC4
   - INS-260325-5F3B
   - PRI-260328-A82C
-  - INS-260327-DE27
   - INS-260327-33FA
   - INS-260329-B533
   - INS-260402-92AE
   - INS-260403-906E
+  - INS-260403-EE38
 stance: >-
   AI programming tools have a unique competitive dynamic where every model
   improvement creates new product possibilities, making iteration speed the ...

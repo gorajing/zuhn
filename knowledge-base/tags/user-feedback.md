@@ -1,5 +1,6 @@
 # Tag: user-feedback
 
+- `INS-260404-8C42` YC speakers independently and consistently advise the same things: launch fast, listen to users, iterate — suggesting these are empirical truths about startup success.
 - `INS-260327-2718` A thousand complaints from dedicated users is healthier than silence or universal satisfaction.
 - `INS-260402-2632` Users judge products as animations not snapshots — the velocity of improvement matters more than current feature set, and responding to feedback creates word-of-mouth that no ad budget can match.
 - `INS-260330-83D5` Support staff who can interrupt developers with live bugs become the most effective QA and product intelligence system.

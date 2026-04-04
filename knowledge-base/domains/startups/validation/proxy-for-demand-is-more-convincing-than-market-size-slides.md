@@ -47,15 +47,12 @@ stance: >-
   product-market fit than any top-down market sizing, because it proves
   behavioral need rather than theoretical opportunity.
 related:
-  - INS-260328-9C16
-  - INS-260329-FCC6
-  - INS-260403-3421
-  - INS-260403-DC32
-  - INS-260403-92EB
-  - INS-260403-30D8
-  - INS-260403-8C50
-  - INS-260403-66D0
-  - INS-260403-EA2D
-  - INS-260403-0F5C
+  - INS-260330-2601
+  - INS-260330-ACDA
+  - INS-260403-20BF
+  - INS-260403-E7E1
+  - INS-260403-DDFD
+  - INS-260403-5BFB
+  - INS-260403-13E6
 ---
 Graham cites Sequoia's Greg McAdoo on the concept of 'proxy for demand': instead of arguing about total addressable market, show what people are currently doing with inadequate tools that demonstrates they need what you're building. This is powerful because it shifts from theoretical ('the market is $5B') to observable ('users are doing X painful workaround right now'). Graham explicitly dismisses market size numbers as irrelevant at the early stage — 'like an actor at the beginning of his career telling his parents how much Tom Hanks makes.' The strongest version of this is when founders built something to solve their own problem, which is why so many famous startups (Apple, Microsoft, Yahoo, Google) grew from founder need. The hierarchy of demand evidence is: your own need > needs of people you know personally > observed workarounds in the market.

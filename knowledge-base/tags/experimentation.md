@@ -15,9 +15,9 @@
 - `INS-260329-2EF9` A failed ad, store, or product isn't back to zero — it's your current position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260329-4A09` When a business experiment fails, you're not back at zero — you're at your previous position plus one experience point, and enough experience points trigger a level-up.
 - `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
+- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260323-8165` Run daily marketing experiments, calculate cost-per-customer for each, and pour everything into the cheapest acquisition channel.
 - `INS-260327-7C6B` Consistency alone causes plateaus, virality alone causes sugar-crash comedowns — real growth is consistency x experimentation.
-- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260403-71A6` The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260403-E3C4` Cultural shift from planning-execution to experimentation-iteration is the primary barrier to enterprise innovation, not tooling.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.

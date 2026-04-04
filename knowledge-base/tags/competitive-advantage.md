@@ -32,7 +32,6 @@
 - `INS-260330-7C05` Get big slow — the slower you burn funding, the more time you have to learn, and deep business understanding is the ultimate competitive weapon.
 - `INS-260323-73AB` Cuban identifies curiosity, agility, and the ability to sell as the three entrepreneurial essentials — with curiosity as the foundation because business is never static.
 - `INS-260322-36E3` Every dollar of profit not reinvested into growth is a dollar a competitor could use to catch up — operate at breakeven to build position while competitors extract profits.
-- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260325-0895` Icefish evolved antifreeze and ditched red blood cells to thrive in Antarctic waters — adaptations that would be instantly fatal anywhere else.
 - `INS-260330-413D` Cows thrived by being useful to humans while elephants declined despite being smarter and stronger — being indispensable to the dominant platform beats independent excellence.
 - `INS-260404-CA58` Intimidating startup ideas have less competition precisely because most founders are too scared to attempt them.
@@ -46,6 +45,7 @@
 - `INS-260403-AABF` Self-imposed constraints compound into structural advantages because each constraint reinforces the others and makes the whole system harder to copy piecemeal.
 - `INS-260402-086D` Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260330-DCE1` Efficiency advantages compound across cost, thermal, battery, and UX dimensions, making them strategically superior to raw power advantages.
+- `INS-260404-CCE7` ARM invests in chip designs eight years before they generate revenue, creating a depth of IP that fast-followers cannot shortcut.
 - `INS-260330-DD10` Attack incumbents where their architecture or economics prevent them from following you.
 - `INS-260403-9106` Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
@@ -70,6 +70,7 @@
 - `INS-260330-DDF0` Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
 - `INS-260403-8402` Great value propositions are difficult to copy not because of one feature but because of interlocking systemic barriers.
 - `INS-260329-B6DF` Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
+- `INS-260321-E654` Defense primes' advantage over startups is not inventiveness but production and manufacturing at scale — startups must build factory and quality-testing muscle to cross the procurement chasm.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260323-DE2B` Productivity apps are beginner-friendly to build but impossible to win because everyone else had the same idea — serious businesses require domain expertise that most competitors cannot replicate.
 - `INS-260403-4423` Fast decision-making is the single biggest competitive moat an early-stage investor can build because fundraising imposes enormous hidden costs on founders.

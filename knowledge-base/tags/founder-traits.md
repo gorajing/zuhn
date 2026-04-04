@@ -6,4 +6,5 @@
 - `INS-260321-1A84` People who are naturally quirky and nonconformist constantly generate strange ideas on their own, while those skilled at reading consensus find it hardest to produce unique ideas.
 - `INS-260328-68BA` The most aggressive, ambitious, smartest people who can see things others cannot tend to win — and this advantage can overcome starting conditions like family wealth.
 - `INS-260403-7180` The best founders combine relentless drive with creative adaptability rather than relying on brute-force determination alone.
+- `INS-260404-053B` Scrappiness — being both threatening and undignified — is the quality outsiders notice most in founders, yet it's actively discouraged in most professional environments.
 - `INS-260403-1750` Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.

@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 56 insights
+> 57 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -55,6 +55,7 @@
 - `INS-260403-A4EB` [medium] Your colleagues self-selected for the same reasons you did, which amplifies whatever motivated the choice — money makes it worse, interest makes it better.
 - `INS-260403-9A57` [medium] LatAm founders' shared vision of regional transformation creates collaborative network density that purely profit-driven ecosystems struggle to replicate.
 - `INS-260403-D198` [medium] Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
+- `INS-260404-459B` [medium] Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
 - `INS-260403-500F` [medium] More disagreement online is a structural artifact of conversational media, not evidence that people are angrier.
 - `INS-260330-534C` [medium] Which words are considered most offensive shifts historically, tracking whatever a culture holds most sacred or anxiety-producing.
 - `INS-260330-6300` [medium] Taboo words often become taboo through class-based avoidance — higher-status groups abandon terms associated with lower-status groups, creating a euphemism treadmill.

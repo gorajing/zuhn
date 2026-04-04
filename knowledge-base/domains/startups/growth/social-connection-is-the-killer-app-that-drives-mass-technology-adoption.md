@@ -51,13 +51,13 @@ related:
   - INS-260329-AB61
   - INS-260329-8DDF
   - INS-260330-8481
-  - INS-260330-ACDA
   - INS-260402-237D
   - INS-260327-3A71
   - INS-260403-924B
   - PRI-260328-1D90
   - INS-260327-E75F
   - INS-260404-E8B2
+  - INS-260404-5882
 ---
 Computers were adopted in waves: first by nerds who loved them intrinsically, then by gamers for entertainment, but it was social applications that brought everyone else — grandmas and 14-year-old girls alike. The infinite human appetite for connecting with friends turned out to be a more powerful adoption driver than any content or utility offering. Graham's observation that 'Facebook killed TV' captures how social needs trump passive entertainment.
 

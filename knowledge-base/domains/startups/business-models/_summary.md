@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 195 insights
+> 197 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -43,6 +43,7 @@
 - `INS-260327-048B` [high] Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260323-5106` [high] Casper, built to disrupt retail mattress stores, found that retail sales grew 74% year-over-year with 15% higher average orders — the thing they disrupted became their only hope.
 - `INS-260324-D90C` [high] Casper, Warby Parker, and Dollar Shave Club promised that cutting out retailers would lower costs — but they replaced wholesale margins with massive advertising budgets and ended up spending more on customer acquisition than retailers spent on shelf space.
+- `INS-260404-396E` [high] ARM earns $1-10M upfront per license plus 1-2% royalties on every chip shipped, blending stability with volume upside.
 - `INS-260327-130C` [high] In every technology bubble, the infrastructure providers (Cisco in dot-com, Nvidia in AI) profit regardless of which end
 - `INS-260403-5BBE` [high] Collecting payment before incurring costs transforms cash flow from a constraint into a competitive weapon.
 - `INS-260402-8170` [high] Orchestrating a full ecosystem for underserved market participants creates virtuous cycles that individual product improvements cannot match.
@@ -132,6 +133,7 @@
 - `INS-260403-C1A5` [high] Apple captured 94% of smartphone profits with only 14.5% of sales, proving profit concentration beats volume.
 - `INS-260327-E52A` [high] Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
 - `INS-260403-0CA9` [high] Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
+- `INS-260404-1755` [high] ARM's licensing model lets it scale globally without any manufacturing infrastructure or costs.
 - `INS-260403-F4CC` [high] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
 - `INS-260327-39D4` [high] 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
 - `INS-260403-2D99` [high] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.

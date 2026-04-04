@@ -51,10 +51,10 @@ stance: >-
   generate the organic startup culture needed for software-style innovation.
 related:
   - INS-260327-F477
+  - INS-260404-459B
   - INS-260322-CFB1
   - INS-260322-C472
   - INS-260403-0973
-  - INS-260403-37FD
   - INS-260403-79AD
 ---
 Graham distinguishes two startup types: Type I startups that evolve naturally from founders identifying opportunities (most software companies), and Type II startups called into being to commercialize scientific discoveries (most pharma companies). Type II startups are straightforward to create—fund research, commercialize what emerges—but they don't generate startup culture.

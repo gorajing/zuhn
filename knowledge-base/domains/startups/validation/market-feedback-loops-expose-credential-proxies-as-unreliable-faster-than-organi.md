@@ -49,9 +49,10 @@ stance: >-
   because market judgment is immediate and binary, while large organizations can
   sustain credential illusions for entire careers.
 related:
-  - INS-260327-80A8
   - INS-260330-3AF9
   - INS-260403-82CC
+  - INS-260327-80A8
+  - INS-260404-8C42
   - INS-260403-25EE
   - INS-260402-2B96
 ---

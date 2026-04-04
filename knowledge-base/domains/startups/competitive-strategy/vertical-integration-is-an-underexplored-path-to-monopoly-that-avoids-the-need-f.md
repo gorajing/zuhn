@@ -59,7 +59,6 @@ stance: >-
   systematically undervalued strategy.
 related:
   - INS-260323-48AF
-  - INS-260327-968C
   - INS-260327-4081
   - INS-260327-AA2C
   - INS-260330-8F0F
@@ -68,6 +67,7 @@ related:
   - INS-260330-0525
   - INS-260327-6058
   - INS-260330-85B8
+  - INS-260402-5E4E
 evidence:
   - id: INS-260323-48AF
     type: CONTRADICTS

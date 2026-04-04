@@ -1,8 +1,8 @@
 # Tag: competition
 
+- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260322-299C` DeepSeek's surprise replication of frontier model capabilities from a hedge fund proves that AI leads are inherently temporary — once capability is demonstrated, others catch up quickly with far fewer resources.
 - `INS-260323-E2DD` Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
-- `INS-260325-F48E` A year-over-year test of 268 prompts found most LLMs became less speech-restrictive — competitive pressure is correcting initial over-censorship.
 - `INS-260403-D0B9` MoE architectures let smaller labs like Mistral compete with frontier labs by using compute more efficiently.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
@@ -13,15 +13,14 @@
 - `INS-260330-09AD` Harvard Business School's largest graduating cohort systematically catches the last wave — junk bonds before Milken's arrest, tech at the dot-com peak, housing before 2008 — because extroverted, low-conviction people use competition as a proxy for value.
 - `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260330-4B55` Harvard Business School's largest cohorts systematically catch the last wave — junk bonds in 1989, dotcom in 1999, housing in 2005-2007 — because competition feels like validation rather than a warning signal.
-- `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260330-9367` Since the 1950s, no famous skyscraper ever held the tallest-structure record because unglamorous radio and TV towers always surpassed them.
+- `INS-260403-6F65` Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260328-7CA9` Getting sad, angry, or inspired to pivot based on a competitor's fundraising announcement is self-defeating behavior that more often than not has zero impact on your actual chances of success.
 - `INS-260323-CEA8` Nicky Ryan admits fear of losing has made him less active as a competitor because his financial stability, brand, and identity are all tied to competitive results.
 - `INS-260323-3CC2` Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
 - `INS-260322-7276` Founders assume if the winner makes $500M and they make $50M, they're worth one-tenth — but the actual pattern is the seventh player trends toward zero revenue, not a stable fraction.
 - `INS-260327-E3D5` Competitive backgrounds in any domain build the exact muscles—discipline, risk tolerance, resilience—that founders need.
 - `INS-260321-1A99` After the Cold War, defense consolidated from 51 primes to 5 — the real damage wasn't lost competition but financialization that expelled all the founders and heretics.
-- `INS-260322-6AF5` Amazon's product search has degraded so badly (spam, fake reviews, wrong-size photos, unclear ads) that DoorDash competing on product trust from local stores is a viable strategy — big tech's moats erode from the inside.
 - `INS-260327-EE5E` Twitter makes AI agent competition feel intense, but the market is so huge companies rarely encounter actual competitors.
 - `INS-260329-6D3B` Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
 - `INS-260325-C5FD` American automakers take 6 years to ship a new model; Chinese competitors do it in 18 months — with 50 major EV makers competing fiercely, iteration speed IS the innovation.
@@ -55,6 +54,7 @@
 - `INS-260403-37FD` Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
 - `INS-260329-277B` Being copied is a positive signal; the copier's attention on you means their attention isn't on their customers.
 - `INS-260330-1C50` Refusing to celebrate others' success out of competitive anxiety shrinks the total pie rather than protecting your share.
+- `INS-260322-6AF5` Amazon's product search has degraded so badly (spam, fake reviews, wrong-size photos, unclear ads) that DoorDash competing on product trust from local stores is a viable strategy — big tech's moats erode from the inside.
 - `INS-260403-6A65` Super-angel competition gave founders 13% dilution angel rounds versus 30-40% series A rounds, plus retained board control and faster closes.
 - `INS-260330-A38C` Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
 - `INS-260402-EF63` Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.

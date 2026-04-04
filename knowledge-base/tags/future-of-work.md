@@ -3,3 +3,4 @@
 - `INS-260320-B99F` Build careers where AI is a tailwind — semiconductors, human-centered professions, anything mixing physical world with analytical skills.
 - `INS-260320-DEAF` Coding is going away first — AI models handle raw coding now, but broader software engineering (architecture, design, user needs, team management) takes longer to automate.
 - `INS-260325-2069` The unemployed won't be biologists and chemists but biologists and chemists who don't use quantum computers -- the hammer doesn't replace the carpenter, it amplifies them.
+- `INS-260404-459B` Inverting startup culture's oddities reveals the 'normal' world as conservative, hierarchical, and slow — which Graham argues is actually a portrait of the past, not a permanent default.
