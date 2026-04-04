@@ -1,6 +1,6 @@
 # Topic: bubbles
 
-> 61 insights
+> 62 insights
 
 - `INS-260325-FC0B` [high] About 30% of investors who panic sell during crashes never return to equities, missing massive subsequent gains.
 - `INS-260330-4D05` [high] Restricted investment options funnel high savings rates into real estate, disconnecting prices from underlying demand.
@@ -15,6 +15,7 @@
 - `INS-260325-3B28` [high] Leading digits in natural datasets follow a logarithmic distribution (30% start with 1, <5% start with 9) — deviations flag fabricated financial or electoral data.
 - `INS-260403-F157` [high] Major bubbles form around real innovations, not pure fiction, which is why smart people get fooled.
 - `INS-260327-C79D` [high] In a market where Bitcoin, stocks, and Dogecoin only go up, people will convince themselves that anything - watches, sneakers, Pokemon cards - is an investment.
+- `INS-260403-358D` [high] VC money flowing into startups that spend it on ads at incumbent platforms creates a self-reinforcing bubble.
 - `INS-260329-7372` [high] College ROI is inversely correlated with family wealth — the wealthiest families get the least financial return but push it hardest.
 - `INS-260329-191D` [high] College tuition has doubled in recent decades while starting salaries stayed flat, creating $1.76 trillion in student debt that exceeds most nations' GDP.
 - `INS-260329-F443` [high] College costs doubled in recent decades while median starting salaries remained flat, creating $1.76 trillion in student debt that cannot be discharged in bankruptcy.

@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 153 insights
+> 155 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -63,6 +63,7 @@
 - `INS-260330-50B3` [high] RuBisCo was designed for a low-oxygen world, became half-broken when plants changed the atmosphere, but plants doubled down rather than evolving a replacement — a universal pattern in organizations and codebases.
 - `INS-260329-FC53` [high] Your results are mostly determined by which vehicle you operate in, not how hard you row.
 - `INS-260403-215E` [high] Be selective with radical bets — pursue few enough to maintain conviction and execution quality, and size them so failure is survivable.
+- `INS-260403-21A2` [high] Overpaying customers make it rational to ignore the future until it's too late.
 - `INS-260330-3AF9` [high] Write down why you think your startup will work, then track whether evidence increases or decreases your confidence in that thesis.
 - `INS-260329-3BEE` [high] The market you operate in constrains your upside more than your effort level does.
 - `INS-260403-FB8E` [high] Standalone innovation activities that aren't integrated into a strategic system with follow-on investment are innovation theater producing no results.
@@ -86,6 +87,7 @@
 - `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.
 - `INS-260330-13EE` [high] Both Germany and Japan expanded primarily to secure food and resource self-sufficiency, not to spread ideology.
+- `INS-260403-92CC` [high] Category leaders show revenue growth that compounds with user growth because each new business model layer increases revenue per existing customer.
 - `INS-260330-C7CB` [high] The agricultural revolution was not a revolution — it was 13,000+ years of people incrementally optimizing for 'more food' without intending systemic change.
 - `INS-260330-EB48` [high] RuBisCo is a terrible enzyme that plants can't replace because all of biology is built on it — a pattern that recurs in technology and business strategy.
 - `INS-260403-3946` [high] RuBisCo is a terrible enzyme that won because it arrived first and scaled before alternatives could emerge.

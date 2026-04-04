@@ -49,11 +49,11 @@ stance: >-
   more value and grow faster because outcome pricing eliminates the buyer's risk
   of paying for effort that produces no result.
 related:
+  - INS-260403-1E4A
   - PRI-260328-8317
   - INS-260325-4FF3
   - INS-260322-E20E
   - INS-260327-4CB3
-  - INS-260403-0350
 ---
 Most B2B AI products today use fee-for-service pricing — you pay for the tool regardless of outcome. This parallels pre-reform healthcare where providers were paid per procedure, incentivizing volume over results. The article argues AI agents enable a shift to outcome-based pricing: you pay when the article gets placed, the deal closes, or the customer is acquired.
 

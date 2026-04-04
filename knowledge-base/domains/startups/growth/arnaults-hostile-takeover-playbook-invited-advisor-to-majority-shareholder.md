@@ -49,7 +49,6 @@ stance: >-
   Inviting an outside investor to mediate an internal power struggle almost
   always results in the outsider capturing control
 related:
-  - INS-260327-6853
   - INS-260327-0D82
   - INS-260330-27E8
   - INS-260330-9BF5

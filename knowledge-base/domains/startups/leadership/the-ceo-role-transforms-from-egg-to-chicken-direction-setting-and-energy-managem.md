@@ -48,14 +48,14 @@ resolutions:
 related:
   - INS-260322-B6DE
   - INS-260322-C472
-  - INS-260322-CFB1
   - INS-260327-A927
+  - INS-260322-CFB1
   - INS-260402-EA72
   - INS-260327-E2BC
   - INS-260322-3E59
-  - INS-260326-C305
   - INS-260327-27DA
   - INS-260327-9641
+  - INS-260329-903B
 stance: >-
   An early startup is like an egg (simple: find customers, build product, don't
   die) while a late-stage company is a full chicken (international, mul...

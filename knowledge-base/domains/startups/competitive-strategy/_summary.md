@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 412 insights
+> 416 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -86,6 +86,7 @@
 - `INS-260327-F6BA` [high] Taco Bell's CEO Greg Creed never discounted the Crunch Wrap or core items -- instead he created purpose-built products like 99-cent bean burritos and 79-cent cheese roll-ups that were profitable at those prices, preserving the chain's pricing power while competitors destroyed theirs.
 - `INS-260327-90E8` [high] GoPro created and cornered the action camera market but believed that creating the market entitled them to its future -- they flooded it with too many models, failed to diversify, and opened the door for Insta360.
 - `INS-260324-179B` [high] GoPro created and owned the action camera category, had strong margins, profits, and brand recognition — stock still dropped 95% because the market was too small to sustain a standalone company.
+- `INS-260403-407A` [high] YC's core strategic advantage is creating new startups rather than competing with VCs for the same fixed pipeline.
 - `INS-260327-2C46` [high] CSV embeds social impact into core business strategy, unlocking the full budget rather than a CSR sidebar.
 - `INS-260327-E07A` [high] Products branded around individual creators have a natural market ceiling equal to the creators engaged audience, and ca
 - `INS-260323-CB47` [high] In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
@@ -184,6 +185,7 @@
 - `INS-260330-66C7` [high] Uber built secret systems (Greyball, Hell, Heaven) to surveil regulators and competitors, creating asymmetric information advantages that were nearly impossible to counter.
 - `INS-260327-6017` [high] Build when nobody else is—hype cycles always revert, leaving contrarian movers in the best position.
 - `INS-260324-6C5F` [high] Customers pay 2-5x more for Disney/Universal than Six Flags because branded attractions, $9 butterbeer, and character performers create emotional value that generic roller coasters can't match.
+- `INS-260403-862D` [high] Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
 - `INS-260402-E470` [high] Choosing a more expressive language creates a development velocity gap competitors cannot close by hiring more people.
 - `INS-260325-C29B` [high] Linda from Minimax, drawing on her VC experience, reframed the 'what if big companies copy you' question: large organizations compete against their own internal decay curve, not against you.
 - `INS-260330-D63C` [high] At PayPal in 2001, 75% of the company's value came from projected cash flows in 2011 and beyond — proving that durability, not growth rate, dominates value equations.
@@ -270,6 +272,7 @@
 - `INS-260403-FE00` [high] Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260330-7DB7` [high] In-N-Out's real product is consistency, not burgers — and that reframe explains every strategic decision they make.
 - `INS-260330-C761` [high] When DuPont phased out C8/PFOA, they replaced it with GenX (C6), which caused the same three tumor types in rats but legally counted as a new substance requiring fresh evidence.
+- `INS-260403-1F40` [high] Jurisdiction-specific regulation prevents winner-take-all dynamics and protects local startups from global incumbents.
 - `INS-260330-D460` [high] Local sourcing mandates in emerging markets function as deliberate protectionist barriers that advantage domestic competitors over foreign entrants.
 - `INS-260323-6D41` [high] In evolutionary simulations, winning replicators consistently had the highest replication rate and lowest death rate -- speed of copying is the dominant competitive advantage.
 - `INS-260330-3274` [high] Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
@@ -388,6 +391,7 @@
 - `INS-260403-6412` [medium] Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
 - `INS-260330-F116` [medium] The early Islamic empire's rapid territorial expansion was enabled by centuries of Byzantine-Sassanian warfare that left both empires depleted — plus plague weakening the Sassanians further.
 - `INS-260327-263F` [medium] As the sneaker market crashed, shop reputations collapsed from widespread bait-and-switch tactics, making Leo's in-person convention presence and honest dealing his primary competitive moat for securing inventory.
+- `INS-260403-B557` [medium] Yahoo crippled itself by hiding from Microsoft rather than competing directly as a tech company.
 - `INS-260330-8481` [medium] TikTok is not ByteDance's endgame — it's a distribution channel for expansion into e-commerce, gaming, streaming, enterprise software, education, fintech, and cloud services.
 - `INS-260327-8AE7` [medium] Many billionaire CEOs would create more value for shareholders by retiring and allowing succession than by continuing to lead with outdated strategies.
 - `INS-260330-E615` [medium] McDonald's failed when it adapted menus to local cultures but succeeded spectacularly when it kept the menu intact and hired locals to handle marketing.

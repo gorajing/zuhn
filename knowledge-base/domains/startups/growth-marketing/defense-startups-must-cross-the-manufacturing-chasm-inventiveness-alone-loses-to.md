@@ -47,14 +47,15 @@ resolutions:
     more valuable than a slow maybe.
 related:
   - INS-260403-924B
+  - INS-260403-407A
   - INS-260327-E2BC
   - INS-260403-99B1
   - INS-260403-9D89
-  - INS-260402-CCF4
   - INS-260327-6A4B
   - INS-260330-B5DF
   - INS-260403-402A
   - INS-260403-9FE2
+  - INS-260403-862D
 stance: >-
   Defense primes' advantage over startups is not inventiveness but production
   and manufacturing at scale

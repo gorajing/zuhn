@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 129 insights
+> 131 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -78,11 +78,13 @@
 - `INS-260327-C294` [high] Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
 - `INS-260327-FBD8` [high] Gun store revenue is driven primarily by fear of future regulation rather than actual use demand, creating cyclical boom
 - `INS-260330-2B8F` [high] Agricultural productivity gains in Britain created a self-reinforcing cycle: cheaper food → more disposable income → consumer demand → manufacturing incentives → further innovation.
+- `INS-260403-BE7C` [high] Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
 - `INS-260329-72A5` [high] A 10x price increase on the same product can yield a 31x increase in net profit because fixed costs remain constant.
 - `INS-260329-8F7C` [high] Allen unlocked 4x pricing power by running pricing surveys and repackaging its charging model, not by changing the product itself.
 - `INS-260322-5F87` [high] Private companies and individuals funding police technology (less than 1% of police budgets) can transform public safety because city budgets are too rigid and debt-laden to make marginal tech investments.
 - `INS-260327-B815` [high] Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights r
 - `INS-260327-E52A` [high] Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
+- `INS-260403-F4CC` [high] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
 - `INS-260327-39D4` [high] 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
 - `INS-260327-46F6` [high] When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychological
 - `INS-260330-EDAC` [high] After rapid expansion led to $1.5 million in debt from failing franchise stores, Domino's switched to requiring franchisees to successfully manage an existing store for a year before opening their own — with no upfront fee.

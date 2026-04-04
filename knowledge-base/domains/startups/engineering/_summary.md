@@ -1,7 +1,8 @@
 # Topic: engineering
 
-> 22 insights
+> 23 insights
 
+- `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260330-72D0` [high] Building height is capped by when base materials crush under their own weight, making material science the true bottleneck.
 - `INS-260330-40EC` [high] ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
 - `INS-260330-19F1` [high] Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss.

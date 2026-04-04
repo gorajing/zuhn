@@ -46,15 +46,15 @@ resolutions:
     hacking.
 related:
   - INS-260322-0C91
-  - INS-260321-3521
   - INS-260322-047D
   - PRI-260403-26B9
+  - INS-260321-3521
   - INS-260330-B09B
   - INS-260328-3F19
   - INS-260330-2BB3
   - INS-260330-7C05
   - INS-260330-97F6
-  - INS-260403-DB16
+  - INS-260403-4423
 stance: >-
   Raising funding is just the beginning of obligation, not a milestone of
   success

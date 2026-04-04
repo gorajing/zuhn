@@ -15,6 +15,7 @@
 - `INS-260323-581C` The fundamental driver of conflict in international politics is the inability to know another state's future intentions, making worst-case preparation rational.
 - `INS-260330-BE46` Harlow's monkey experiments and Fisher's puppy studies show that unpredictable treatment creates stronger attachment than consistent kindness or consistent punishment.
 - `INS-260330-09A2` Fisher's 1955 puppy experiment showed that random alternation between kindness and punishment produced the strongest attachment — stronger than consistent kindness alone.
+- `INS-260403-9173` Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
 - `INS-260402-F5E0` Break vague reluctance into specific fears to discover most are unfounded.
 - `INS-260322-1A20` In high-uncertainty environments, executing quickly to gather real information beats prolonged analysis.
 - `INS-260328-D775` MBA programs were trade schools for middle managers at GM — that rule-following mindset is the exact opposite of what startups require.

@@ -55,10 +55,10 @@ stance: >-
   create space for methodical, long-term strategy development.
 related:
   - INS-260327-94CC
+  - INS-260403-B557
   - INS-260330-8326
   - INS-260324-1216
   - INS-260327-F389
-  - INS-260330-3084
 evidence:
   - id: INS-260327-F389
     type: CHALLENGES

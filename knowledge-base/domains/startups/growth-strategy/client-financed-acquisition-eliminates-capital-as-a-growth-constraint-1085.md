@@ -44,13 +44,13 @@ stance: >-
   customer, you can scale indefinitely without external capital.
 related:
   - INS-260321-801C
-  - INS-260325-4FF3
   - INS-260323-DD40
   - INS-260327-07C9
   - INS-260329-644B
   - INS-260329-C754
   - INS-260329-AADB
   - INS-260329-4EF5
+  - INS-260403-F4CC
   - INS-260321-AA91
   - INS-260329-8F7C
 evidence:

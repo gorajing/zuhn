@@ -1,6 +1,6 @@
 # Topic: ai-business-models
 
-> 12 insights
+> 13 insights
 
 - `INS-260322-019A` [high] AI differentiation is not the same as defensibility — the moat comes from owning the end-to-end workflow and becoming the system of record.
 - `INS-260322-EDA4` [high] New AI-first financial platforms will be 10x bigger than their predecessors because they capture both software spend and labor spend — automating work humans didn't want to do or couldn't hire for.
@@ -13,4 +13,5 @@
 - `INS-260322-837A` [high] Companies with proprietary data that previously sold raw access can now deliver finished AI-powered products, multiplying revenue by 5-100x.
 - `INS-260322-88C3` [medium] AI threatens every incumbent company simultaneously, driving a wave of M&A as corporations acquire startups to reconstruct how they work rather than building capabilities internally.
 - `INS-260403-2E0F` [medium] The best AI business model isn't charging for efficiency — it's using efficiency as a wedge to participate in the downstream transaction and capture a share of the value created.
+- `INS-260403-1E4A` [medium] AI pricing is shifting from per-seat to outcome-based because AI can now deliver measurable results, making customers unwilling to pay for inputs.
 - `INS-260325-4FF3` [medium] Eugene from ZDOT AI proposed that instead of per-token pricing, AI companies should charge for value delivered — aligning revenue with the GDP of agent output rather than compute consumed.

@@ -49,7 +49,7 @@ related:
   - PRI-260403-26B9
   - INS-260330-D8D1
   - PRI-260328-0993
-  - INS-260403-78B7
+  - INS-260403-9173
 stance: >-
   Setting the next milestone (transaction volume target, operating profit
   threshold) instead of fixating on the ultimate exit/IPO prevents the marath...

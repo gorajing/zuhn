@@ -47,11 +47,11 @@ stance: >-
   as their primary revenue source, not despite being unscalable but because the
   100% margin funds aggressive growth of the scalable product.
 related:
-  - INS-260329-AF18
+  - INS-260403-92CC
   - INS-260327-DD5C
   - INS-260329-55D8
+  - INS-260329-AF18
   - PRI-260328-43F1
-  - INS-260322-FCFC
 ---
 Hormozi's personal example: a single personal training client paying $45,000/month in cash freed him from needing any business revenue, letting him reinvest 100% of the gym's earnings into growth. Tesla followed the same pattern — $250K Roadster funded Model S development, which funded Model 3.
 

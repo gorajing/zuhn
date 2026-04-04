@@ -40,11 +40,11 @@ stance: >-
   because the psychological experience is having something you own taken away
   rather than being asked to pay for something new.
 related:
-  - INS-260323-7F22
   - INS-260327-6900
   - INS-260327-4ED3
   - INS-260327-9C3A
-  - INS-260327-5E03
+  - INS-260323-7F22
+  - INS-260403-1E4A
 evidence:
   - id: INS-260323-7F22
     type: EXTENDS

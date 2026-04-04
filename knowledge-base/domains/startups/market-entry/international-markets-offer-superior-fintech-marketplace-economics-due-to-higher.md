@@ -52,11 +52,10 @@ stance: >-
   financial infrastructure and digital alternatives is far wider.
 related:
   - INS-260322-BC97
-  - INS-260403-81BD
   - INS-260403-4F0D
   - PRI-260403-C337
+  - INS-260403-BE7C
   - PRI-260328-0E23
-  - INS-260330-D583
 ---
 NFX observes that financial infrastructure in many non-US markets — Latin America, Asia, Europe — is significantly less developed, creating more friction in customer experiences and business processes. This friction gap represents larger economic opportunity: when the baseline experience is worse, the value captured by digitizing and embedding financial services is proportionally greater.
 

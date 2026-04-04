@@ -58,7 +58,8 @@ related:
   - INS-260403-81BD
   - INS-260323-C8AC
   - INS-260323-8C53
-  - PRI-260328-A1AA
+  - INS-260403-BE7C
+  - INS-260403-C032
 ---
 Zillow's iBuying collapse is a defining case study in organizational DNA mismatch. Despite 8,000 employees and dominant market position, Zillow failed because iBuying requires fundamentally different competencies than running a software marketplace. Their Zestimate was designed for consumer estimates (1% error is fine) but was repurposed for home purchasing decisions where 1% error at 5,000 homes per quarter meant massive losses.
 

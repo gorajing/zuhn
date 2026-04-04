@@ -47,7 +47,7 @@ related:
   - INS-260403-214B
   - INS-260403-D99E
   - PRI-260403-26B9
+  - INS-260403-9173
   - PRI-260328-604D
-  - INS-260323-4C43
 ---
 Most founders pitch defensively, trying to minimize perceived risk. But the incentive structure of early-stage VC creates the opposite psychology: VCs expect to lose money on over 50% of their deals, so another failure barely registers. What keeps them up at night is passing on a company that becomes a generational winner. This means founders should lead with the magnitude of the opportunity, not with risk mitigation or conservative projections. The fundraising implication is profound — instead of spending time addressing why you won't fail, spend that time making the case for how enormous the win could be.

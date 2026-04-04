@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260330-6EE1
   - INS-260403-4F0D
+  - INS-260403-BE7C
   - INS-260403-E1EB
   - INS-260403-CC4E
-  - INS-260403-FF57
 ---
 The industries that have seen prices rise fastest relative to wages—healthcare, education, housing—share a common trait: misaligned incentives among participants. Medical providers are incentivized to overbill insurance, universities have no accountability for student loan outcomes, and financial intermediaries extract value without improving experience.
 

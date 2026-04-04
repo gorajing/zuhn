@@ -54,7 +54,7 @@ related:
   - INS-260325-3C17
   - PRI-260324-7ED9
   - INS-260403-D543
-  - PRI-260328-A1AA
+  - INS-260403-BE7C
 ---
 The Space Shuttle launched payloads at ~$54,500/kg. Falcon 9 does it for ~$2,700 (20x reduction), Falcon Heavy for ~$1,500 (36x). This 36x figure exactly matches containerization's cost collapse from $5.86/ton to $0.16/ton. Historically, 36x transport cost reductions were sufficient to reshape the global economy — enabling Asian manufacturing, just-in-time supply chains, and the modern consumer goods economy. Starship targets sub-$100/kg, a potential 500x reduction.
 

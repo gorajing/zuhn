@@ -51,9 +51,9 @@ related:
   - INS-260327-D888
   - INS-260330-B8CC
   - INS-260402-C664
+  - INS-260403-D966
   - INS-260329-F51D
   - INS-260328-3A00
-  - INS-260322-116B
 ---
 Graham identifies a mechanism where corporate ethical reputation acts as a talent filter with asymmetric effects: mediocre programmers can't afford to be choosy, but the best ones can work wherever they want. Microsoft's perceived evil in the 1990s didn't just embarrass existing employees — it prevented them from ever hiring the people who instead went to Google and Apple. The damage is invisible because you never see the candidates who silently eliminated you from consideration.
 

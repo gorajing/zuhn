@@ -51,7 +51,7 @@ related:
   - PRI-260324-DE71
   - INS-260325-2BDB
   - INS-260330-28B1
-  - INS-260329-3AE5
+  - INS-260403-3615
 ---
 Multi-tenanting—where buyers and sellers use multiple competing platforms simultaneously—is the silent killer of marketplace defensibility. When switching costs are low, users discover on one platform and transact on another (or offline) to avoid take rates.
 

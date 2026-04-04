@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 189 insights
+> 190 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -140,6 +140,7 @@
 - `INS-260403-A14B` [high] Novel problems attract skaters and let them skate full-time, creating a double productivity multiplier.
 - `INS-260329-818A` [high] HTTP's 'memory loss' between requests is not a bug — it's the design decision that allows any server in a pool to handle any request, enabling unlimited horizontal scaling.
 - `INS-260329-4293` [high] Stop doing low-value activities rather than adding new ones to unlock outsized productivity.
+- `INS-260403-9173` [high] Media and founder narratives make early-stage success look inevitable, hiding the razor-thin margins that actually determined survival.
 - `INS-260330-A3B7` [high] Testing baseline → single unit → stacked units in sequence reveals the failure mode at each stage, which a single end-state test would obscure.
 - `INS-260330-B50A` [high] Inconsistent results in complex systems require isolating variables rather than guessing at causes.
 - `INS-260330-3A0D` [high] Silk Road was only possible because Tor (anonymity) and Bitcoin (untraceable payments) matured at the same time — Ross had the marketplace idea for years but couldn't execute until Bitcoin solved the payment problem in 2010.

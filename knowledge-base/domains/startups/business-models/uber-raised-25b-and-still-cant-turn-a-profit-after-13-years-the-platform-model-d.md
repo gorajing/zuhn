@@ -49,7 +49,6 @@ related:
   - INS-260327-0004
   - INS-260330-5F7E
   - INS-260324-1C12
-  - INS-260327-9C3A
 stance: Uber raised $25B+ and operated for 13+ years without profit
 ---
 The platform thesis: build software connecting supply and demand, take a cut of every transaction, enjoy infinite scalability with no marginal cost. Reality: Uber subsidized both sides (cheap rides for users, bonuses for drivers) to manufacture usage, then couldn't raise prices or lower driver pay fast enough to reach profitability. Regulation intensified. Cities fought back. Junk fees and price hikes alienated the very users who were acquired through subsidies. The broader lesson: platform economics only work when neither side requires ongoing subsidization. The moment you need to pay to keep supply or demand on the platform, you're not a platform — you're a middleman with negative unit economics.

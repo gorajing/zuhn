@@ -46,10 +46,10 @@ stance: >-
   metrics rather than presenting a static snapshot.
 related:
   - INS-260330-59DC
+  - INS-260403-92CC
   - INS-260330-CB30
   - PRI-260403-1D59
   - INS-260403-87AC
-  - PRI-260328-0993
   - INS-260328-A46F
 evidence:
   - id: INS-260403-87AC

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3217 actionable insights
+Generated on 2026-04-04 | 3223 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -845,6 +845,9 @@ Generated on 2026-04-04 | 3217 actionable insights
 ## investing/space-economy
 - [INS-260325-A8E6] Searching for other Earths reveals how unique and irreplaceable our planet is, confirming there is no practical Planet B.
 - [INS-260325-9CDC] The line between fringe and mainstream science shifts constantly -- exoplanet research went from 'silly' to a major field in one generation.
+
+## investing/venture-capital
+- [INS-260403-C032] Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
@@ -1742,6 +1745,8 @@ Generated on 2026-04-04 | 3217 actionable insights
 - [INS-260403-1C10] Teams that adopt a shared visual framework for business models iterate faster because they eliminate the communication overhead that kills most innovation efforts.
 - [INS-260403-1000] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - [INS-260403-4E16] Shifting from task-based to outcome-based pricing for AI agents mirrors healthcare's fee-for-service to value-based care transition, emphasizing quality over quantity.
+- [INS-260403-BE7C] Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
+- [INS-260403-F4CC] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -1966,6 +1971,7 @@ Generated on 2026-04-04 | 3217 actionable insights
 - [INS-260403-9106] Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
 - [INS-260403-8F6E] Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.
 - [INS-260403-C7A0] Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
+- [INS-260403-862D] Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2658,6 +2664,7 @@ Generated on 2026-04-04 | 3217 actionable insights
 - [INS-260403-A136] Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - [INS-260403-C977] Weak hires don't just underperform—they force you to hire more people, making the organization bigger and thus structurally slower.
 - [INS-260403-7F6F] Y Combinator found that college prestige adds almost no predictive value when evaluating startup founders against direct assessment.
+- [INS-260403-D966] Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3382,6 +3389,7 @@ Generated on 2026-04-04 | 3217 actionable insights
 - [INS-260403-2824] Ensure your call-to-action directly measures what your hypothesis actually claims.
 - [INS-260403-27AA] Change only one variable per A/B test to maintain causal attribution.
 - [INS-260403-F0C3] Always validate that customers want the core offering before optimizing secondary features.
+- [INS-260403-832E] Company launch and product launch are distinct events, and conflating them causes founders to delay fundraising unnecessarily.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

@@ -45,16 +45,16 @@ resolutions:
     where AI doesn't just automate existing work but expands the capacity to
     generate revenue.
 related:
+  - INS-260403-92CC
   - INS-260403-2E0F
   - INS-260403-E642
   - INS-260327-D285
   - INS-260327-B357
-  - INS-260325-FDF5
   - INS-260327-16D7
   - INS-260327-2C46
   - INS-260327-78A0
   - INS-260327-4F8C
-  - INS-260329-3C25
+  - INS-260329-39E1
 stance: >-
   Companies where AI reinforces the business model by driving revenue — not just
   cutting costs — see dramatically stronger market pull and adoption.

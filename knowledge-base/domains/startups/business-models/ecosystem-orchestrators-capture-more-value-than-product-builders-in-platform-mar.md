@@ -54,7 +54,6 @@ stance: >-
   disproportionately more value than those selling individual products or
   features.
 related:
-  - INS-260323-365A
   - INS-260325-8DF7
   - INS-260327-0A6B
   - INS-260327-325B

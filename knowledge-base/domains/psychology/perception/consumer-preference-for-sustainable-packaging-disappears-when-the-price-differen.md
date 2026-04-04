@@ -46,7 +46,6 @@ related:
   - PRI-260328-70D9
   - INS-260321-8D2B
   - INS-260327-5D71
-  - INS-260327-7D27
 evidence:
   - id: INS-260327-CADA
     type: CHALLENGES

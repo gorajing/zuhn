@@ -54,6 +54,7 @@ related:
   - INS-260402-EA72
   - INS-260328-195E
   - INS-260323-8893
+  - INS-260403-7C47
 ---
 Graham argues that fundraising grinds founder-only companies to a complete halt for ~6 weeks, making the cost of slow investors enormous. A reputable investor offering $100k with a 24-hour decision window would see every good deal first, because founders would rationally approach the fastest money before slower alternatives.
 

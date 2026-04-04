@@ -53,7 +53,6 @@ related:
   - INS-260327-2387
   - INS-260329-9115
   - INS-260329-C0A7
-  - INS-260402-C664
   - INS-260403-402A
 stance: >-
   When every founder can build fast with AI tools, the bottleneck shifts

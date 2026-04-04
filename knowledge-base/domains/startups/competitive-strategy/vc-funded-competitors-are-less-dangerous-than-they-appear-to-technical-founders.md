@@ -54,9 +54,10 @@ related:
   - INS-260327-1E44
   - INS-260328-8445
   - INS-260330-3E6B
-  - INS-260330-883E
   - INS-260402-E2AF
   - INS-260402-CCF4
+  - INS-260403-358D
+  - INS-260403-535C
 ---
 Graham describes how Artix chose a tiny niche (art gallery websites) specifically to avoid the 'fearsome' VC-backed e-commerce startups. When they eventually entered e-commerce with Viaweb, they found the competition surprisingly weak—big players were consulting companies pretending to be product companies, and smaller competitors had bloated codebases doing what could be done in a few hundred lines of Perl.
 
