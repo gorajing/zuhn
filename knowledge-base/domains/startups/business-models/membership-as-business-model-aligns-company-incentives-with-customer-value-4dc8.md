@@ -56,6 +56,7 @@ related:
   - INS-260404-C9B5
   - INS-260404-0298
   - INS-260404-60D6
+  - INS-260404-5532
 ---
 Most retailers profit from product margins, creating a fundamental tension: they want to charge customers as much as possible while appearing affordable. Costco inverts this by making membership fees the primary revenue source (75% of profit). This means every pricing decision is evaluated against its impact on membership renewal rates (90% annually), not short-term margin.
 

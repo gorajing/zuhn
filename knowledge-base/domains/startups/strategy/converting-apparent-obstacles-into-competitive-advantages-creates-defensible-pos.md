@@ -58,9 +58,9 @@ related:
   - INS-260403-2AE7
   - INS-260404-445D
   - INS-260404-2087
-  - INS-260404-975A
+  - INS-260404-FB91
   - INS-260404-30CA
-  - INS-260404-B46E
+  - INS-260404-975A
 ---
 Costco's $60 membership fee should make customer acquisition fatally difficult, yet it selects for affluent households (average income ~$100k) who become loyal, high-spending patrons. Its warehouse layout should annoy shoppers, but instead makes them feel like deal-hunters—similar to how IKEA's DIY assembly creates pride of ownership. The bulk-only format should limit the customer base, but it attracts business owners (one-third of members) who generate two-thirds of sales.
 

@@ -55,7 +55,7 @@ related:
   - INS-260404-4DF7
   - INS-260403-FF86
   - INS-260404-3214
-  - INS-260404-9158
+  - INS-260404-40D1
   - INS-260403-42F2
 ---
 Graham cites a top VC who invested in a company despite knowing their business model was wrong and would change three times. The VC invested anyway because business models at the early stage are expected to be wrong. This reveals an asymmetry: investors don't weight business model accuracy heavily, but a spectacularly wrong one creates a negative anchor that displaces everything else.

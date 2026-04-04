@@ -48,13 +48,12 @@ stance: >-
   per item so dramatically that suppliers will accept lower margins and custom
   packaging just to secure one of the few available slots.
 related:
-  - INS-260321-4B99
   - INS-260321-3BA8
   - INS-260403-5BBC
   - INS-260404-7D8F
   - INS-260404-1EA6
   - INS-260404-57E3
-  - INS-260404-7F16
+  - INS-260404-3E82
 ---
 Conventional retail wisdom holds that more selection attracts more customers. Costco deliberately violates this by offering roughly 4,000 unique items compared to a typical supermarket's 30,000 or Walmart Supercenter's 140,000. The counterintuitive result is that constraining selection concentrates enormous purchasing volume into each chosen product, making Costco one of the largest buyers for any supplier it works with.
 

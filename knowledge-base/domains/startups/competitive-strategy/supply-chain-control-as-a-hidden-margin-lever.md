@@ -49,7 +49,7 @@ related:
   - INS-260329-A575
   - INS-260404-0298
   - INS-260327-048B
-  - INS-260330-DC0D
+  - INS-260404-5532
 ---
 Apple doesn't manufacture the iPhone, yet maintains 60-70% gross margins by controlling its supply chain through sheer demand leverage. Suppliers accept thin margins and strict secrecy requirements because Apple's volume makes them dependent on the relationship.
 

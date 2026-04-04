@@ -56,9 +56,9 @@ stance: >-
 related:
   - INS-260327-C79D
   - INS-260403-4960
+  - INS-260404-A526
   - INS-260329-9F8D
   - INS-260403-F3FF
-  - INS-260329-E900
 evidence:
   - id: INS-260327-C79D
     type: EXTENDS

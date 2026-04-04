@@ -1,5 +1,6 @@
 # Tag: pipeline-architecture
 
+- `INS-260404-DDB5` Photosynthesis converts light energy through a four-complex electron transport chain rather than directly, because intermediary steps allow controlled energy capture at each stage.
 - `INS-260404-9428` Photosynthesis splits into light reactions (capture energy as ATP/NADPH) and the Calvin Cycle (spend it on carbon fixation), enabling each stage to optimize independently.
 - `INS-260403-AC7A` Photosynthesis converts light to sugar not in one step but through a chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each reusable across the organism.
 - `INS-260330-0017` The electron transport chain extracts energy through 4 sequential protein complexes rather than one reaction — a pattern that applies to any complex value-extraction pipeline.

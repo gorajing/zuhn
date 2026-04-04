@@ -47,10 +47,10 @@ stance: >-
   baggage.
 related:
   - INS-260330-255F
+  - INS-260404-AFE6
   - PRI-260323-1B96
   - INS-260403-EFAF
   - INS-260323-4457
-  - INS-260324-8FB4
 evidence:
   - id: INS-260330-255F
     type: SUPPORTS

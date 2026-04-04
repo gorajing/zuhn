@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3834 actionable insights
+Generated on 2026-04-04 | 3840 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1073,6 +1073,7 @@ Generated on 2026-04-04 | 3834 actionable insights
 - [INS-260404-92AC] Smart investors look past superficial flaws to evaluate raw talent — corporate pretense only hides what they're searching for.
 - [INS-260404-5BBF] Be candid about gaps with sophisticated audiences — trying to seem corporate or knowledgeable about things you aren't conceals your actual talent.
 - [INS-260404-F965] Sophisticated evaluators penalize polish that masks inexperience because it hides the raw talent signal they're actually looking for.
+- [INS-260404-A526] Professional investors hear so many pitches they blur together — a sticky phrase like 'the Microsoft Word of ecommerce' is the minimum viable unit of memorability.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1503,6 +1504,7 @@ Generated on 2026-04-04 | 3834 actionable insights
 - [INS-260404-78EB] Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
 - [INS-260404-9213] Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - [INS-260404-D39D] ATP synthase is powered not by photons directly but by the proton gradient plants deliberately build up across membranes.
+- [INS-260404-6AD7] CrashCourse teaches photosynthesis by giving every sub-process a distinct name and character (PSII, Calvin Cycle, RuBisCo), turning an overwhelming chemical cascade into navigable chunks.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1686,6 +1688,7 @@ Generated on 2026-04-04 | 3834 actionable insights
 - [INS-260404-3D8F] Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
 - [INS-260404-9C25] Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 - [INS-260404-DD77] Never tell an audience you're passionate—show it through specificity and demeanor, because explicit confidence claims trigger bullshit detectors.
+- [INS-260404-B31C] Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2897,6 +2900,9 @@ Generated on 2026-04-04 | 3834 actionable insights
 - [INS-260404-32B5] Smart early-stage investors expect your business model to be wrong—spend pitch time on the problem and product instead.
 - [INS-260404-167D] Pitch a narrow, concrete description first and expand later—vague descriptions register as zero content.
 - [INS-260404-4F3A] Specific user stories beat market-size slides because they directly counter the investor's primary fear: that nobody actually wants your product.
+- [INS-260404-AFE6] When investors lack time and technical background to evaluate your product, your own confidence becomes the single biggest piece of evidence they use.
+- [INS-260404-40D1] Smart early-stage investors expect your business model to be wrong — talking about it wastes time and risks being remembered for a bad model rather than a good product.
+- [INS-260404-C03F] As a startup description approaches 'could be anything,' its informational content approaches zero — narrow and gripping beats broad and forgettable.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

@@ -51,12 +51,11 @@ stance: >-
   When evaluators cannot independently assess quality, the presenter's own
   confidence in their work becomes the single largest factor in their judgment.
 related:
-  - INS-260402-4719
   - INS-260403-4337
   - INS-260403-5EB4
+  - INS-260404-AFE6
   - INS-260404-438C
   - INS-260403-1DB7
-  - INS-260404-DA2E
   - INS-260404-D672
   - INS-260404-F161
 ---

@@ -46,13 +46,13 @@ stance: >-
 related:
   - INS-260329-EBBB
   - INS-260403-9681
-  - INS-260403-D375
   - INS-260403-FE37
-  - INS-260403-0AF4
   - INS-260403-74DB
   - INS-260404-D8C7
   - INS-260404-8D37
+  - INS-260403-D375
   - INS-260404-3212
-  - INS-260404-621F
+  - INS-260403-0AF4
+  - INS-260404-756D
 ---
 Professional investors hear so many pitches they blur together. The first cut is simply being remembered, and a sticky descriptive phrase accomplishes this—Hollywood uses 'x meets y,' startups use 'the x of y.' But the deeper insight is that the exercise of creating this phrase is diagnostic: if you can't compress your startup into one compelling phrase, your plans may not be sufficiently focused. This means the soundbite serves double duty—it's both a communication tool for investors and a strategic forcing function for founders. Viaweb's 'the Microsoft Word of ecommerce' worked because it was genuinely what they were building. The phrase should be launched clearly but apparently casually, preferably near the beginning of the pitch.

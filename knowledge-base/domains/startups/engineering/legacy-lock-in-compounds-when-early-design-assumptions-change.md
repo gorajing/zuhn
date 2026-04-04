@@ -53,14 +53,13 @@ stance: >-
   accumulate costly workarounds rather than redesign when conditions shift, and
   the workaround cost grows with scale
 related:
-  - INS-260330-B3D5
   - INS-260330-50B3
   - INS-260330-D304
   - INS-260330-3FF4
   - INS-260403-F52E
   - INS-260403-D563
-  - INS-260403-3D7D
   - INS-260403-818F
+  - INS-260404-581C
   - INS-260330-EACA
 ---
 RuBisCo, the most abundant enzyme on Earth (~40 billion tons), was designed for a low-oxygen atmosphere. When photosynthesis raised oxygen levels, RuBisCo began grabbing O2 instead of CO2 roughly half the time, producing a toxic byproduct. Rather than evolving a replacement, plants built detox pathways and simply produced massive quantities of RuBisCo to compensate.

@@ -52,10 +52,10 @@ related:
   - INS-260325-C5FD
   - INS-260323-19A8
   - INS-260323-7F3E
+  - INS-260404-AFE6
   - INS-260329-F7F4
   - INS-260330-E39E
   - INS-260329-4DBC
-  - PRI-260323-1B96
 stance: >-
   A product that takes months to reach a testable state is burning the founder's
   most scarce resource

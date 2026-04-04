@@ -50,6 +50,7 @@ stance: >-
   startups is revealing a commodity-capital mindset that should disqualify them
   from venture investing.
 related:
+  - INS-260404-40D1
   - INS-260403-2E90
   - INS-260328-195E
   - INS-260404-4605

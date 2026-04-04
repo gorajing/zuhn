@@ -49,7 +49,6 @@ stance: >-
   demonstrating you've solved an important problem
 related:
   - INS-260329-3E3A
-  - INS-260403-FF86
   - INS-260403-DF7F
   - INS-260403-E393
   - INS-260403-054F
@@ -58,6 +57,7 @@ related:
   - INS-260403-4A4A
   - INS-260403-DAB4
   - INS-260403-42F2
+  - INS-260403-B4B9
 ---
 Paul Graham observes that even experienced repeat founders with millions in funding from top VCs have business models their own investors expect to change three times. At the early stage, the model is just guesses about areas outside your expertise. If your model sounds spectacularly wrong, it becomes the only thing investors remember — 'the company with the boneheaded plan' instead of 'the company that solved that important problem.'
 

@@ -50,11 +50,11 @@ stance: >-
   seeking reasons NOT to buy, because confirmation bias naturally drives us
   toward evidence that validates our existing beliefs.
 related:
+  - INS-260404-AFE6
   - INS-260402-4719
   - INS-260402-D0F3
   - INS-260403-DFC3
   - INS-260404-D672
-  - INS-260403-C496
 evidence:
   - id: INS-260402-4719
     type: SUPPORTS

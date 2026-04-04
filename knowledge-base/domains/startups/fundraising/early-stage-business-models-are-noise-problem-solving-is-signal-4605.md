@@ -52,10 +52,9 @@ related:
   - INS-260403-0267
   - INS-260403-1852
   - INS-260403-2822
-  - INS-260404-10FF
   - INS-260404-32B5
   - INS-260403-C625
-  - INS-260403-3482
+  - INS-260404-40D1
   - INS-260404-DA2E
 ---
 Graham cites a VC who invested in a company despite knowing their business model was 'crap' — because at the early stage, business models are guesses about domains that aren't the founders' expertise. Spending scarce pitch minutes on guesswork crowds out the things founders actually know well: the problem and the solution.

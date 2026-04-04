@@ -57,7 +57,6 @@ related:
   - INS-260404-2D53
   - INS-260403-CE5F
   - INS-260403-9104
-  - INS-260404-9783
 ---
 Amazon Prime and Costco both leverage sunk-cost psychology, but with critically different mechanics. Prime users self-sort — each individually calculates whether the subscription saves enough money. This means Prime members are already price-conscious comparison shoppers who opted in rationally. The sunk-cost effect adds loyalty on top of an already-rational decision.
 

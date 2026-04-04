@@ -51,6 +51,5 @@ related:
   - INS-260403-C1A5
   - INS-260404-4DC8
   - INS-260404-0298
-  - INS-260404-C9B5
 ---
 Most retailers profit from markup on individual items, creating a structural tension: the company benefits when customers overpay. Costco inverts this by deriving 75% of profit from membership fees, making renewal the primary business objective. This means every pricing decision optimizes for long-term retention rather than short-term margin extraction. The 15% markup cap is not charity—it's rational strategy when a few cents of markup today risks losing $60-120 of annual membership revenue. This model only works when renewal rates are extraordinarily high (Costco's is 90%), which creates a virtuous cycle: low prices drive renewals, renewals fund operations, operations stay lean to keep prices low.

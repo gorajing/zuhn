@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 39 insights
+> 40 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-C514` [high] Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
@@ -10,6 +10,7 @@
 - `INS-260330-40EC` [high] ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
 - `INS-260330-19F1` [high] Implementing ideas immediately generates follow-on ideas, so batch releases suffer compound innovation loss.
 - `INS-260404-AF08` [high] Viaweb did continuous releases in 1997 and fabricated version numbers only because the trade press expected them.
+- `INS-260404-581C` [high] RuBisCo evolved in a low-oxygen atmosphere and became fatally confused when plants themselves oxygenated the air, showing how success can poison the conditions that enabled it.
 - `INS-260330-2200` [high] GitHub stars and green squares measure visibility and gaming, not engineering skill.
 - `INS-260403-89A5` [high] Chasing trendy tech stacks is identity performance, not engineering decision-making.
 - `INS-260404-673B` [high] When language and program evolve together, the architecture naturally aligns with the problem's real structure.

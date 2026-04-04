@@ -52,12 +52,11 @@ stance: >-
   beyond physics — information asymmetry, skill gaps, and attention
   differentials all function as exploitable gradients
 related:
-  - INS-260330-2E41
   - INS-260403-099C
   - INS-260403-791A
   - INS-260403-A0C5
-  - INS-260404-52FC
   - INS-260330-49E9
+  - INS-260330-2E41
   - INS-260403-DE05
 ---
 In photosynthesis, the thylakoid membrane pumps protons to one side, creating a concentration gradient. When protons flow back through ATP synthase to equalize, that flow generates usable energy (ATP). The membrane's role is maintaining the imbalance — without it, the gradient dissipates uselessly.

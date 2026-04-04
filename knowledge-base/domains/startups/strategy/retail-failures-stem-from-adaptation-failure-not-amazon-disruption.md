@@ -44,7 +44,6 @@ stance: >-
   displacing them.
 related:
   - INS-260325-EF66
-  - INS-260325-0895
   - INS-260327-77A0
   - INS-260327-6EFB
   - INS-260330-051F
@@ -53,5 +52,6 @@ related:
   - INS-260403-91DB
   - INS-260404-D0D8
   - INS-260403-6CA8
+  - INS-260404-3070
 ---
 The narrative that Amazon killed retail is misleading. The companies that died—Sears (tried everything, did everything terribly), J.C. Penney (forgot its customers), Toys-R-Us (dismissed the internet)—share a common trait: they failed to adapt to evolving customer expectations. Meanwhile, companies like Ross, Lush, Aldi, Dollar General, and Costco thrived in the same competitive environment. This distinction matters for strategy: the threat isn't a specific competitor but ossification. Companies that maintain a clear value proposition and continue evolving their model survive disruption. Blaming an external force like Amazon obscures the real lesson—that incumbents usually die from internal rigidity, not external pressure.

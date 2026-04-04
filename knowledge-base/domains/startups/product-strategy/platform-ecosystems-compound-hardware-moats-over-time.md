@@ -44,7 +44,6 @@ stance: >-
   that eventually surpasses the original hardware differentiation
 related:
   - INS-260327-17DE
-  - INS-260330-28B1
   - INS-260403-D1D0
   - INS-260403-4C61
   - INS-260403-8F6E

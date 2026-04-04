@@ -55,6 +55,7 @@ related:
   - INS-260404-72EE
   - INS-260404-0BB0
   - INS-260404-8AB9
+  - INS-260404-C03F
 ---
 Paul Graham observes that founders resist narrow descriptions because early-stage products have many possibilities. But the calculus-limit analogy is precise: as you approach a description of something that could be anything, the content of your description approaches zero. Investors discard vague statements as boilerplate.
 

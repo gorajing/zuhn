@@ -51,7 +51,6 @@ stance: >-
   orders of magnitude faster than text.
 related:
   - INS-260327-1631
-  - INS-260327-F7BD
   - INS-260329-FCD3
   - INS-260330-2911
   - INS-260330-189F

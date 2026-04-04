@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 522 insights
+> 524 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -92,6 +92,7 @@
 - `INS-260403-4788` [high] If experts are contemptuous of your approach, you may have found a structural advantage they can't access.
 - `INS-260327-6EB5` [high] Nations and companies that control essential natural resources wield power disproportionate to the resources economic va
 - `INS-260327-325B` [high] Businesses that create environments where consumers have no competitive alternatives for essential services (food, enter
+- `INS-260404-FB91` [high] Costco turns its membership barrier, warehouse chaos, and bulk-only model into mechanisms that select for affluent, loyal, high-spending customers.
 - `INS-260327-CC35` [high] Taco Bell never discounts core items like the Crunch Wrap -- instead they create purpose-built value products like the 79-cent cheese roll-up that are profitable at that price point, preserving pricing power that competitors destroyed through aggressive discounting.
 - `INS-260327-F6BA` [high] Taco Bell's CEO Greg Creed never discounted the Crunch Wrap or core items -- instead he created purpose-built products like 99-cent bean burritos and 79-cent cheese roll-ups that were profitable at those prices, preserving the chain's pricing power while competitors destroyed theirs.
 - `INS-260327-90E8` [high] GoPro created and cornered the action camera market but believed that creating the market entitled them to its future -- they flooded it with too many models, failed to diversify, and opened the door for Insta360.
@@ -323,6 +324,7 @@
 - `INS-260404-DA41` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, concentrating purchasing volume to extract dramatically better supplier terms.
 - `INS-260404-36D7` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, which makes suppliers compete fiercely for limited shelf space and accept lower margins.
 - `INS-260403-E143` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which gives it enormous leverage because suppliers compete fiercely for the one or two slots available.
+- `INS-260404-3E82` [high] Costco's 4,000 SKUs versus Walmart's 140,000 means each slot is so valuable that suppliers will restructure their products to win it.
 - `INS-260404-8C84` [high] Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each slot so valuable that suppliers compete aggressively on price and customization.
 - `INS-260403-E981` [high] Costco stocks only 4,000 items vs 140,000 at Walmart, making each slot so valuable that suppliers will reengineer products and cut prices to win it.
 - `INS-260403-115B` [high] Costco stocks ~4,000 SKUs vs. Walmart's 140,000, making brands compete fiercely for limited shelf space and accepting lower margins to win placement.

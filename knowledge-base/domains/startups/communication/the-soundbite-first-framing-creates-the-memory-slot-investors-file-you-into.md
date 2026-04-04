@@ -47,7 +47,6 @@ stance: >-
   marketing polish but determines whether investors remember you at all after
   hearing dozens of pitches.
 related:
-  - INS-260322-7B71
   - INS-260320-080B
   - INS-260403-D375
   - INS-260403-0AF4
@@ -56,6 +55,7 @@ related:
   - INS-260404-621F
   - INS-260404-8D37
   - INS-260404-D8C7
+  - INS-260404-A526
 ---
 Graham frames memorability as the first cut in investor evaluation: before they can evaluate you, they have to remember you. A clear analogical phrase creates a mental slot that persists. Viaweb's 'the Microsoft Word of ecommerce' instantly communicates product category, ambition level, and user experience philosophy in five words.
 

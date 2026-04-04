@@ -54,7 +54,7 @@ related:
   - INS-260403-910E
   - INS-260404-D672
   - INS-260402-D0F3
-  - INS-260403-1BCC
+  - INS-260404-AFE6
 ---
 Bayer trained senior business leaders who served as investment decision-makers on how to evaluate based on evidence rather than personal preference for ideas. This is a subtle but critical intervention — most innovation programs focus exclusively on training the teams doing the innovating.
 

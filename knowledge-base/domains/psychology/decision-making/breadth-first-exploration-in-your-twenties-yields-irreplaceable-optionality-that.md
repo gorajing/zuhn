@@ -53,9 +53,9 @@ stance: >-
 related:
   - INS-260403-8013
   - INS-260330-CFBA
+  - INS-260404-C03F
   - INS-260403-D98E
   - INS-260403-AF27
-  - PRI-260328-04FA
 evidence:
   - id: INS-260330-CFBA
     type: CHALLENGES

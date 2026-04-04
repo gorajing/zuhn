@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 68 insights
+> 69 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -44,6 +44,7 @@
 - `INS-260403-21A5` [high] Persuasion overhead increases with idea novelty until it consumes all available energy, capping how far you can push thinking.
 - `INS-260330-9DC9` [high] Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
 - `INS-260403-61B0` [high] Spin added for persuasion gets mixed into your own reasoning, making you unable to see your ideas clearly.
+- `INS-260404-B31C` [high] Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
 - `INS-260404-9C25` [high] Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 - `INS-260403-6E9F` [high] True refutation demands stating the opponent's main claim before dismantling it, which forces intellectual honesty.
 - `INS-260403-0353` [high] The same act of deception ranges from routine (soccer flopping) to morally insane (golf score fabrication) depending on domain-specific norm calibration that outsiders often can't perceive.
