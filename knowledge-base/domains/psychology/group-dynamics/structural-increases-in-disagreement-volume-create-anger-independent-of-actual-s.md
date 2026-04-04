@@ -51,5 +51,6 @@ related:
   - INS-260403-FAC0
   - INS-260330-3570
   - INS-260322-F65F
+  - INS-260404-F172
 ---
 Graham makes a counterintuitive observation: the explosion of online disagreement doesn't necessarily reflect increased anger. Agreement is conversationally thin—there's less to add when you agree—while disagreement opens new territory worth exploring. When media shifts from broadcast (writers write, readers read) to conversation (everyone responds), this asymmetry mechanically inflates the proportion of disagreeable content. However, Graham warns of a feedback loop: even though anger didn't cause the increase in disagreement, the constant exposure to disagreement may itself make people angrier. This distinguishes between the root cause (structural media change) and its second-order effect (emotional escalation), which is a useful analytical pattern for any system where outputs feed back into inputs.

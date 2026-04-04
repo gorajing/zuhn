@@ -1,6 +1,7 @@
 # Tag: empathy
 
 - `INS-260402-46AD` The gap between good and great hackers is not intelligence but empathy — understanding how users actually think and behave.
+- `INS-260404-2E30` MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260323-2874` Emotional contagion empathy makes one identified victim more compelling than 500,000 statistical victims — reason must override this bias for good ethical decisions.
 - `INS-260330-9575` Americans' failure to put themselves in Russia's or China's shoes leads to policies that provoke the exact conflicts they aim to prevent.
 - `INS-260330-4E5F` Both the Israeli and Palestinian historical narratives are factually grounded, yet they support mutually exclusive territorial claims.

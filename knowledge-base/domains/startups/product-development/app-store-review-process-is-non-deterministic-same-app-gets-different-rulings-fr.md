@@ -52,7 +52,6 @@ related:
   - INS-260320-1B10
   - INS-260403-2B1D
   - INS-260329-79D3
-  - INS-260403-22EE
 evidence:
   - id: INS-260320-1B10
     type: CONTRADICTS

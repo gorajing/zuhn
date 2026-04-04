@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 50 insights
+> 51 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -51,4 +51,5 @@
 - `INS-260403-6E11` [medium] The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260403-81CE` [medium] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260403-0AF4` [medium] Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
+- `INS-260404-B863` [medium] Participants subliminally exposed to the Apple logo outperformed IBM-exposed groups on creative tasks.
 - `INS-260330-80AF` [medium] Swear words across languages tend to be short with hard consonants because cultural selection favors words that can be deployed rapidly and with maximum percussive impact.

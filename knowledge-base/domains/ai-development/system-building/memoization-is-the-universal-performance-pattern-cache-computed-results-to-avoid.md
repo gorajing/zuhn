@@ -46,14 +46,15 @@ stance: >-
   pattern across all software domains
 related:
   - INS-260325-3F9B
-  - INS-260325-FDA9
   - INS-260329-EF14
   - INS-260329-425B
   - INS-260329-6D6C
   - INS-260329-644B
+  - INS-260325-FDA9
   - PRI-260403-40D7
   - INS-260403-D4EA
   - PRI-260328-5D9E
+  - INS-260404-92B8
 evidence:
   - id: INS-260329-393C
     type: SUPPORTS

@@ -40,6 +40,8 @@
 - `INS-260403-219E` Games companies model the ideal product iteration cycle: launch fast, measure everything, optimize continuously, and never stop evolving.
 - `INS-260402-E36A` Experts expect to throw away early work and cultivate dissatisfaction, while amateurs convince themselves their first attempt is good enough.
 - `INS-260322-58B7` Ship the minimal core feature fast and let actual user feedback determine where the product goes next.
+- `INS-260404-8A18` Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
+- `INS-260404-226F` Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
 - `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260330-2B45` Ship a prototype fast and refine based on user reactions — the 'Hail Mary' strategy of planning extensively before building wastes millions.
 - `INS-260329-7B1D` Malan's technique of changing only one thing per code iteration — either the concept or the syntax, never both — minimizes cognitive load and accelerates learning.

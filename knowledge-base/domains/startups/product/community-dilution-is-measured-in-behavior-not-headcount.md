@@ -48,11 +48,11 @@ stance: >-
   degrading, not by raw user growth — managing behavior is more effective than
   restricting access.
 related:
-  - INS-260326-CA8C
   - INS-260403-22EE
+  - INS-260404-F6ED
+  - INS-260326-CA8C
   - INS-260330-4D9D
   - INS-260327-70DF
-  - PRI-260328-2C6A
 ---
 Paul Graham observed that Hacker News community quality correlated more with behavioral expectations than user count. When people are expected to behave well, they tend to — and vice versa. This means the broken windows theory applies directly: minor bad behavior left unchecked encourages worse behavior, while enforcing norms gently repels bad actors without explicit barriers.
 

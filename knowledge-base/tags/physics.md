@@ -8,13 +8,12 @@
 - `INS-260330-A7C6` When bubbles collapse rapidly enough during sonoluminescence, the compressed gas inside can briefly reach temperatures exceeding the sun's surface, emitting visible light from sound energy alone.
 - `INS-260325-916B` Panpsychism proposes consciousness is a fundamental feature of nature, more like gravity than like computation.
 - `INS-260330-56E0` The archer's paradox only exists if you assume arrows are rigid — once you add flex as a variable, the paradox dissolves.
-- `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
-- `INS-260330-601A` A cosmic ray proton traveling at 99.9999999999991% light speed would measure Earth as only 17 metres thick — Earth is literally flat to that observer.
 - `INS-260330-CDF8` Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
 - `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
 - `INS-260323-C9B1` Upgrading from Newton's to Einstein's model of gravity was not just philosophical — it enabled GPS, accurate satellites, and Uber; better frameworks for understanding reality directly produce better tools.
 - `INS-260330-966E` When underwater cavitation bubbles collapse, the compression can generate temperatures hot enough to produce light (sonoluminescence), showing how mundane initial conditions can concentrate energy to extreme densities.
+- `INS-260404-842D` Conservation of energy forces the collision dynamics onto a circle in velocity phase space, which is why pi emerges from a counting problem.
 - `INS-260330-85AA` Aerogel insulates better than air despite being 99% air because its pores are smaller than air molecules' mean free path.
 - `INS-260323-089E` The popular narrative that Einstein couldn't keep up with quantum mechanics is 'almost 180 degrees wrong' — his philosophical objections were correct and led to understanding quantum entanglement.
 - `INS-260330-5D8A` Supercritical fluids bypass the destructive surface tension of evaporation by eliminating the liquid-gas boundary altogether.
@@ -34,4 +33,6 @@
 - `INS-260323-9F38` Quantum mechanics describes tiny particles brilliantly but cannot explain gravity; general relativity describes gravity brilliantly but is incompatible with quantum mechanics — unifying them is the holy grail.
 - `INS-260323-76FE` Dark matter — invisible yet five times more abundant than visible matter — drove galaxy formation and scaffolds the universe, mirroring how invisible systems and processes often do the real work in any domain.
 - `INS-260330-97A0` Simulating how gravity would work on a flat disc Earth reveals that our intuitions about 'normal' physics contain hidden assumptions about geometry we never examine.
+- `INS-260330-4DC5` Physics and evolutionary psychology independently converge on the same conclusion: spacetime is a useful data structure, not fundamental reality — reducing billion-term calculations to single expressions when you abandon the spacetime framework.
+- `INS-260330-601A` A cosmic ray proton traveling at 99.9999999999991% light speed would measure Earth as only 17 metres thick — Earth is literally flat to that observer.
 - `INS-260330-6C17` Filming an underwater AK-47 shot at 27,450 fps revealed three completely separate physical phenomena—barrel cavitation, gas trailing, and shock-wave vapor—that appear as a single splash at normal speed.

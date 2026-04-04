@@ -4,10 +4,10 @@
 - `INS-260330-4AD5` AI improves its usability faster than you can learn tricks, so just speak naturally and let the models catch up to you.
 - `INS-260330-C367` Thunderbird pilots build 9G tolerance by flying twice daily for 4 months, and lose it within weeks of inactivity.
 - `INS-260325-BF44` Your immune system uses hypermutation and clonal selection — the same mutation-selection staircase as evolution — to fight novel pathogens in real time.
-- `INS-260327-7315` Austria's Archduke Charles reformed the Austrian army by copying Napoleon's corps system, which enabled Austria to defeat Napoleon at Aspern-Essling.
-- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260330-EACA` RuBisCo evolved when oxygen was rare; when plants produced oxygen, the enzyme started confusing O2 for CO2 half the time, creating toxic byproducts.
 - `INS-260330-5F6C` The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
+- `INS-260327-7315` Austria's Archduke Charles reformed the Austrian army by copying Napoleon's corps system, which enabled Austria to defeat Napoleon at Aspern-Essling.
+- `INS-260327-DEEB` The coalition armies that defeated Napoleon in 1813-15 were far more effective than those he crushed in 1805-06, having learned from their earlier failures.
 - `INS-260403-3D7D` RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
 - `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260403-B5E2` RuBisCo was rational in a low-oxygen world — the trap emerged when oxygen levels rose after plants had fully committed to the enzyme.

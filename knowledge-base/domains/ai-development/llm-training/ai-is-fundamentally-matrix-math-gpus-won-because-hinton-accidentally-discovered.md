@@ -52,6 +52,7 @@ related:
   - INS-260323-2117
   - INS-260323-1302
   - INS-260330-798D
+  - INS-260404-92B8
 stance: >-
   All AI computation is matrix multiplication (word relationships scored as
   points in matrices)

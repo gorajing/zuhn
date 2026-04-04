@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 256 insights
+> 259 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -17,6 +17,7 @@
 - `INS-260327-D77C` [high] The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
 - `INS-260330-6D86` [high] Casualty numbers alone cannot capture moral reality because they erase the critical distinction between intentional targeting and inadvertent harm.
 - `INS-260403-B462` [high] Brand recognition is so powerful in art judgment that the Mona Lisa shown anonymously would be walked past by most viewers.
+- `INS-260404-2E30` [high] MRI studies show Apple users' brains respond to brand news with the same empathy patterns as family relationships.
 - `INS-260329-BEFB` [high] Being broke biases people toward gambling mentality — chasing unlikely big wins instead of reliable small gains that compound.
 - `INS-260330-184C` [high] Exhaustive testing of a finite subset cannot prove universal claims over infinite domains, as counterexamples can hide astronomically far away.
 - `INS-260402-A558` [high] Childhood reassurance about alarming realities creates adults who are trained to ignore those same problems, enabling bad conditions to persist.
@@ -33,6 +34,7 @@
 - `INS-260325-F2ED` [high] Kontorovich spent 20 years trying to prove Collatz true before realizing he should also search for counterexamples — a structural bias present in most research.
 - `INS-260330-0AE2` [high] Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
 - `INS-260325-A08A` [high] The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
+- `INS-260404-D976` [high] Samsung users' MRIs showed strong anti-Apple responses they didn't consciously report feeling.
 - `INS-260327-56B3` [high] While overt narcissists demand attention through grandiosity, covert narcissists achieve the same result through victimhood, making them far harder to identify and far more damaging in close relationships.
 - `INS-260330-3BBC` [high] Crises force binary choices that expose where people truly stand, cutting through ambiguity.
 - `INS-260402-0392` [high] People get jobs because it's the default, not because they've rationally chosen employment over alternatives.
@@ -205,6 +207,7 @@
 - `INS-260330-FBE1` [medium] Unexamined search space makes absence-of-evidence arguments unreliable for ruling out hypotheses.
 - `INS-260403-359D` [medium] Deliberately adopting a beginner's mindset during customer interviews counteracts the confirmation bias that comes from having a pre-existing hypothesis about what customers want.
 - `INS-260327-2021` [medium] In a world changing faster than experience can adapt to, age is no longer a reliable proxy for wisdom - accumulated experience can be accumulated irrelevance.
+- `INS-260404-7541` [medium] Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
 - `INS-260329-895D` [medium] Brands build loyalty through classical conditioning — repeated pairing of stimulus and positive response — not rational persuasion.
 - `INS-260326-9E23` [medium] Before reaching for psychological explanations of cognitive or emotional symptoms, test the cheap physiological fix first.
 - `INS-260330-0EF6` [medium] After learning the backwards bike, Destin couldn't ride a normal bike for 20 minutes — proving he hadn't removed his original bias but only replaced it with a new one.

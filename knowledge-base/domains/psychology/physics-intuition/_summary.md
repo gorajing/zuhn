@@ -1,6 +1,6 @@
 # Topic: physics-intuition
 
-> 77 insights
+> 78 insights
 
 - `INS-260330-CDF8` [high] Light's regularity means its full 3D state is determined by its values on any 2D boundary surface.
 - `INS-260330-12F9` [high] Firing one bullet underwater produces three visually distinct phenomena (Bernoulli cavitation, gas trail, shock vapor) that are invisible at normal speed but separable at 27,450 fps.
@@ -19,6 +19,7 @@
 - `INS-260323-5BEF` [high] Objects appear to follow single trajectories not because they do, but because the crazy paths cancel each other out — only paths near the least-action path constructively interfere and survive.
 - `INS-260330-881A` [high] The Julian calendar drifted only 10 days in 1,500+ years, yet that imperceptible annual error eventually forced Pope Gregory to delete 10 days from October 1582.
 - `INS-260330-C729` [high] Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
+- `INS-260404-842D` [high] Conservation of energy forces the collision dynamics onto a circle in velocity phase space, which is why pi emerges from a counting problem.
 - `INS-260330-85AA` [high] Aerogel insulates better than air despite being 99% air because its pores are smaller than air molecules' mean free path.
 - `INS-260330-1509` [high] The event horizon 'singularity' that convinced Einstein black holes couldn't exist was just a bad coordinate choice, not real physics.
 - `INS-260330-E606` [high] Black shade balls actually cool the water beneath them because the air gap inside acts like a double-paned window, blocking heat transfer despite high surface absorption.

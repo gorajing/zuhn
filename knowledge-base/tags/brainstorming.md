@@ -2,3 +2,4 @@
 
 - `INS-260403-6947` Production blocking — one person speaking while others must listen — suppresses parallel ideation and reduces total creative output in group sessions.
 - `INS-260403-1448` The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
+- `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.

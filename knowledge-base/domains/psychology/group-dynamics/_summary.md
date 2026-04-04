@@ -1,11 +1,12 @@
 # Topic: group-dynamics
 
-> 54 insights
+> 55 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
 - `INS-260403-F322` [high] Great work clusters historically around institutions that concentrate ambitious peers — a force potentially more valuable than expert advice.
 - `INS-260403-0525` [high] Ambition is contagious and withers in isolation — concentrating ambitious people together amplifies everyone's output like pulling control rods from a reactor.
+- `INS-260404-F172` [high] People say things anonymously online they would never say face to face, just as drivers behave more aggressively than pedestrians.
 - `INS-260403-39E9` [high] Dismissing new ideas earns reliable social status while pursuing them only pays off probabilistically, creating a structural bias toward criticism.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
 - `INS-260330-3528` [high] English profanity largely descends from lower-class Saxon vocabulary that was stigmatized when Norman French speakers held social power.

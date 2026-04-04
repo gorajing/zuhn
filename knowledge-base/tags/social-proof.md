@@ -3,11 +3,11 @@
 - `INS-260327-A5CD` At the highest levels of finance, who you know matters infinitely more than what you know or what credentials you hold.
 - `INS-260403-6B97` Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists.
 - `INS-260403-6890` Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.
+- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260403-31B1` Fame, museum placement, and social expectations dominate most quality judgments, drowning out genuine aesthetic response.
 - `INS-260403-47B7` Mediocre investors defer to other investors' interest because they know they can't judge startups well independently.
 - `INS-260330-A15F` Bad decisions trigger escalating rationalization rather than course-correction, especially when peer groups reward continued commitment.
 - `INS-260330-990F` Ivy League credentials, celebrity endorsements, and institutional backing create a cascade of unchecked assumptions that sophisticated investors like Sequoia and BlackRock use as substitutes for actual investigation.
-- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260403-1EB3` Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
 - `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.

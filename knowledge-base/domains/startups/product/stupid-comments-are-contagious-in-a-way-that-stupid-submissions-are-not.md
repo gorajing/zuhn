@@ -50,9 +50,10 @@ stance: >-
 related:
   - INS-260403-1A08
   - INS-260326-C692
+  - INS-260404-78E6
   - INS-260322-F65F
   - INS-260322-4B63
-  - INS-260329-92E9
+  - INS-260404-F6ED
 ---
 Graham identifies an asymmetry that most platform builders miss: a lame submitted article doesn't make other submissions lame, but a stupid comment on a thread sets the tone for the entire region around it. People reply to dumb jokes with dumb jokes, creating a cascade. Comments are like kudzu — they take over rapidly.
 

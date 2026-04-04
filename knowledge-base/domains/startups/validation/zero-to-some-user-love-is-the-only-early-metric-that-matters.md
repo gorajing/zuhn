@@ -52,11 +52,11 @@ related:
   - INS-260327-2718
   - INS-260327-B387
   - INS-260327-F405
-  - INS-260327-0CBC
   - INS-260330-E089
   - INS-260330-EA94
   - INS-260330-E263
   - INS-260403-C3DF
+  - INS-260403-9689
 ---
 Graham draws a sharp binary: the question after launch isn't 'how many users do we have?' but 'is there anyone who really loves this?' He cites Blogger and Delicious as cases where years of slow growth from a fanatically devoted core eventually produced large-scale success. The implication is that the transition from zero passionate users to even one is the hardest and most important leap.
 

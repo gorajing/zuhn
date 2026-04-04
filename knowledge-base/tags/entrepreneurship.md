@@ -3,6 +3,7 @@
 - `INS-260322-83D4` The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260403-C936` Entrepreneurs systematically skip the hypothesis-mapping step because building feels more productive than thinking, even when thinking would save months of wasted effort.
 - `INS-260329-0014` Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.
+- `INS-260404-0B86` Embedding business education inside real projects with real stakes produces deeper learning than classroom instruction.
 - `INS-260329-3848` Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.
 - `INS-260329-163B` Success and failure follow a cyclical pattern; the competitive advantage is recognizing your current phase and shortcutting back to learning.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.

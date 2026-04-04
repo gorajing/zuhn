@@ -7,6 +7,7 @@
 - `INS-260323-CF30` Jefferson's 'tree of liberty' metaphor and RFK's 'we're all inches from barbarity' warning mean that democratic freedoms degrade the moment each generation stops actively protecting them.
 - `INS-260330-2B4F` Morgan's two bailouts of the U.S. economy demonstrated that private financiers can fill institutional vacuums, but this concentrates dangerous power in unelected hands.
 - `INS-260326-3E19` Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
+- `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
 - `INS-260330-BBDA` Modern conservative parties mirror Bolshevism's structure: declaring all institutions rotten and demanding total destruction rather than incremental reform.
 - `INS-260330-775F` Credential-based dismissal replaces evidence-based engagement when the data is genuinely ambiguous.
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.

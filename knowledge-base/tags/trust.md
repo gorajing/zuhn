@@ -11,9 +11,10 @@
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
 - `INS-260330-D6EF` Proof of work replaces trust by making fraud more expensive than honest participation.
 - `INS-260322-760A` The 'self-driving money' app that automatically allocates paychecks, sweeps savings, and invests is technically feasible but faces a trust barrier — most consumers don't understand or trust the agent's actions.
+- `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
 - `INS-260330-5EE9` North Korea's 2009 currency redenomination wiped out savings and permanently shifted unofficial transactions to the Chinese Yuan.
 - `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
-- `INS-260330-0E86` Flat Earth belief exploits the evolutionary mismatch between trusting personal observation and accepting counter-intuitive scientific conclusions.
+- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-318B` Dressing salespeople as nurses exploits authority bias to bypass critical evaluation of claims.
 - `INS-260330-15AE` Cynics excuse their own bad behavior by projecting it as universal, making cynicism a trust signal.
 - `INS-260329-55F7` People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
@@ -21,7 +22,6 @@
 - `INS-260329-8CA0` Disclosed side effects make products seem more potent because consumers interpret risk as evidence the product actually does something.
 - `INS-260330-B2C5` When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.
 - `INS-260329-78AE` People automatically trust speakers more when the speaker says something that visibly hurts their own interest, because costly signals are expensive to counterfeit.
-- `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-78B8` Flagging your own simplifications as 'kind of a lie, but in the direction of truth' builds credibility and primes learners for the real version.
 - `INS-260323-7F5C` The Mashco Piro's default violence toward outsiders is a rational multigenerational strategy born from centuries of hostile contact with colonizers, rubber barons, and loggers.
 - `INS-260323-176B` Covert contracts — where one party secretly resents an agreement and begins taking compensation through indirect sabotage — are the root mechanism of relationship destruction.
@@ -32,11 +32,11 @@
 - `INS-260330-5C69` Deliberately deceiving an adversary in negotiations to buy time destroys the possibility of future diplomatic solutions, often at catastrophic long-term cost.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260322-5831` ElevenLabs' co-founders Mati and Peter are childhood best friends with complementary skills — one product-focused, one research-focused — and their deep mutual trust enables the company to move at extreme speed.
+- `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260402-225A` Failed startups disproportionately cite cofounder character flaws over skill gaps as the root cause.
 - `INS-260403-7563` Bad actors in startups exploit in sequence — cofounders, then users, then acquirers — and each layer of deception caps the company's upside.
 - `INS-260323-1FC1` Kreischer and Segura's creative partnership survives because when money caused feelings to get involved, one said 'our feelings are more important than the money — so let's just split it.'
 - `INS-260330-8550` Spend 20+ hours with potential co-founders covering disagreements, work styles, and explicit divorce scenarios before committing.
-- `INS-260402-2D7B` Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260403-D20A` List formats reduce reader risk by making content parallel, random-access, and fault-tolerant — like watertight compartments.
 - `INS-260329-B77F` Business titans built credibility through results first and personal brands second — competitors can copy your promises and services but cannot copy your proof.
 - `INS-260327-C05A` OpenAI's metamorphosis from nonprofit 'for the good of humanity' to for-profit IPO candidate has permanently damaged trust with researchers, regulators, and the public.

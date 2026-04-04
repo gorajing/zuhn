@@ -51,7 +51,6 @@ related:
   - INS-260403-36C1
   - INS-260330-A151
   - INS-260329-4D5E
-  - INS-260402-2DCE
 evidence:
   - id: INS-260330-A151
     type: TRANSFERS_TO

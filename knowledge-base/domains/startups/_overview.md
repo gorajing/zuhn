@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3294 insights across 34 topics
+> 3299 insights across 35 topics
 
 ## Topics
 
@@ -11,6 +11,7 @@
 | business-models | 185 | Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable. |
 | co-founders | 43 | Esther Perel's framework from couples therapy identifies three root causes under every co-founder conflict: who has power, who feels cared for, and who gets recognized. |
 | communication | 23 | Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute. |
+| community-building | 2 | Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay. |
 | competitive-strategy | 496 | 3D portfolio websites signal elite skill to non-technical evaluators while requiring only beginner-level Three.js knowledge. |
 | content-strategy | 35 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
@@ -32,11 +33,11 @@
 | platform-dynamics | 12 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |
 | problem-solving | 8 | Shade balls were originally 'bird balls' for mine tailings ponds and airports — repurposed for water quality rather than invented from scratch. |
 | product | 11 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
-| product-development | 140 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
+| product-development | 142 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-strategy | 50 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
 | quality | 13 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 179 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
 | scaling | 140 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | strategy | 208 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 53 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 133 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 134 | Pretty much 100% of startups that make something popular manage to make money from it. |

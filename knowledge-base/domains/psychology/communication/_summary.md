@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 30 insights
+> 31 insights
 
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
@@ -27,6 +27,7 @@
 - `INS-260403-6652` [high] Writing demands more rigor than talking because less can go unsaid and you lose the crutch of tone and shared context.
 - `INS-260330-CD7A` [medium] Viewing argument as instinct rather than trainable craft creates a vicious cycle: bad arguments reduce confidence in disagreement, which further degrades argument quality.
 - `INS-260403-7FFA` [medium] Social skills frequently outweigh technical ability in determining who advances to engineering leadership.
+- `INS-260404-E5D9` [medium] Saying 'you suck' is easier than explaining exactly what you disagree with, and also shields the speaker from refutation.
 - `INS-260403-3D61` [medium] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 - `INS-260330-FAB4` [medium] As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
 - `INS-260403-0949` [medium] Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.

@@ -1,5 +1,6 @@
 # Tag: consumer-culture
 
+- `INS-260404-7541` Marketing researcher Americus Reed argues brands now serve the identity-support function once held by churches and communities.
 - `INS-260325-A08A` The trend cycle compressed from years to weeks — products become uncool before companies finish manufacturing them.
 - `INS-260327-86FE` Every anti-consumption trend is immediately co-opted by brands selling anti-consumption-branded products, neutralizing t
 - `INS-260327-A9E8` When enough product categories are exposed as deceptive, consumers generalize distrust to all categories, making honest 

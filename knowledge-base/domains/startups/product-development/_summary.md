@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 140 insights
+> 142 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -63,6 +63,7 @@
 - `INS-260325-A070` [high] Traditional archaeology tells you what the past looked like; experimental archaeology — physically making and doing things — reveals what it sounded, tasted, and smelled like, and answers questions theory cannot.
 - `INS-260330-BE23` [high] Do every process manually first to learn which steps and questions actually matter before building software to automate them.
 - `INS-260329-BCB7` [high] Mobile users are trained by existing apps — mimic their patterns and improve on them rather than inventing novel interactions.
+- `INS-260404-226F` [high] Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
 - `INS-260323-76B8` [high] Manifast CEO deliberately keeps the product focused on front-end software planning rather than expanding to project management — arguing that horizontal plays generate short-term sales but not sustainable value.
 - `INS-260330-5A13` [high] Study how your current system fails at the edges to discover what to build next.
 - `INS-260323-A7F6` [high] The most passionate (even abrasive) power users often make the best product builders — Blizzard secretly interviewed Jeff Kaplan over six months of lunches before hiring the guild leader who publicly told their competitor's devs to 'pull their heads out of their asses.'
@@ -131,6 +132,7 @@
 - `INS-260403-8653` [medium] Plants evolved entire metabolic pathways to manage RuBisCo's toxic byproducts rather than replace the enzyme itself.
 - `INS-260326-A0B4` [medium] Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
 - `INS-260323-6908` [medium] The codec avatar system crosses the uncanny valley by preserving human imperfections like freckles, asymmetry, and wrinkles rather than smoothing them out.
+- `INS-260404-8A18` [medium] Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
 - `INS-260329-AA76` [medium] Merge onboarding with the first real user action so users learn by doing, not by reading slides.
 - `INS-260323-19A8` [medium] Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260323-4AB5` [medium] Wikipedia's deepest ongoing challenge is notability — deciding what deserves an entry — which requires nuanced rules varying by subject matter, especially for living persons.

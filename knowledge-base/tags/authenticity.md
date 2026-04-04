@@ -6,9 +6,9 @@
 - `INS-260325-BA76` Pessoa's paradox: self-awareness splits the experiencer from the experience, making authentic living impossible for the deeply conscious.
 - `INS-260330-31B5` If you're drawn to work despite its lack of prestige, that's evidence both of genuine interest and of untapped opportunity.
 - `INS-260403-5808` Earnestness isn't the opposite of one thing — it's the center that many different failure modes orbit.
+- `INS-260327-8B1A` You can't know yourself in others' company because social settings automatically activate performance mode.
 - `INS-260325-36EA` Chronic niceness is covert manipulation to control others' perception — it breeds resentment in the giver and discomfort in the receiver.
 - `INS-260330-5F21` Partially adopted personas trigger uncanny valley effects that repel rather than attract.
-- `INS-260327-8B1A` You can't know yourself in others' company because social settings automatically activate performance mode.
 - `INS-260404-C99B` Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
 - `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.

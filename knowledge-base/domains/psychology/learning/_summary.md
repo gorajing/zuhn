@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 247 insights
+> 248 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -227,6 +227,7 @@
 - `INS-260329-07D3` [medium] Sequence learning around small complete projects that each introduce exactly one new concept.
 - `INS-260329-E402` [medium] Embedding small projects at each complexity tier forces learners to synthesize concepts rather than merely recognize them.
 - `INS-260330-B5BF` [medium] Your most authentic purpose signals come from pre-puberty childhood inclinations before social conditioning buried them.
+- `INS-260404-0B86` [medium] Embedding business education inside real projects with real stakes produces deeper learning than classroom instruction.
 - `INS-260330-423B` [medium] Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260330-B784` [medium] Goggins compensates for ADHD by writing material repeatedly until each page becomes a retrievable visual image during tests.
 - `INS-260403-2DC0` [medium] Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.

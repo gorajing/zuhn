@@ -50,10 +50,10 @@ stance: >-
   than those producing only meeting notes or verbal agreements.
 related:
   - INS-260403-0A1C
+  - INS-260404-8A18
   - INS-260323-2AE2
   - INS-260329-70D5
   - INS-260329-3263
-  - INS-260403-FF4E
 ---
 The gap between 'great workshop' and 'nothing happened after' is one of the most common failures in organizational strategy work. The article highlights that canvas tools create tangible outputs — filled-in frameworks with sticky notes, annotations, and visual maps — that persist beyond the session.
 

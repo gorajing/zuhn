@@ -44,11 +44,11 @@ resolutions:
     screenshotted and goes viral, but the median experience improves every
     cycle.
 related:
+  - INS-260404-226F
   - INS-260325-8F49
   - INS-260328-0932
   - INS-260322-7282
   - INS-260329-2AB9
-  - PRI-260328-935A
   - INS-260403-802D
 stance: >-
   Iterative public deployment of imperfect models surfaces discoveries — both

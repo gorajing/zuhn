@@ -58,7 +58,6 @@ related:
   - INS-260404-673B
   - INS-260329-D48B
   - INS-260329-1ACD
-  - INS-260403-3EEA
 ---
 Graham draws an explicit parallel between writing lists and iterative software development: you think of N/2 points in five minutes, giving you a complete but low-resolution structure, then progressively refine. He compares this to both programming (ship version 1 fast, then iterate) and painting (start with a blurry sketch, crank up resolution over a week).
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3692 actionable insights
+Generated on 2026-04-04 | 3697 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1961,6 +1961,10 @@ Generated on 2026-04-04 | 3692 actionable insights
 - [INS-260403-BDBE] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - [INS-260404-621F] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 
+## startups/community-building
+- [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
+- [INS-260404-78E6] When downvotes affect karma, users delete wisecracks but stubbornly leave up substantive controversial opinions.
+
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
 - [INS-260322-7723] AI labs and big tech are structurally incapable of building opinionated standalone consumer products because their promo committees incentivize safe, incremental features over risky bets.
@@ -3357,6 +3361,8 @@ Generated on 2026-04-04 | 3692 actionable insights
 - [INS-260403-0CA8] Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
 - [INS-260403-9D8A] Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - [INS-260403-912E] Programmers acquired by a big company said they'd trade up to half the acquisition price just to regain the ability to release code immediately.
+- [INS-260404-8A18] Rapid iteration with visible progress keeps amateur contributors motivated through multi-day creative projects.
+- [INS-260404-226F] Each feedback layer — internal, user prototype, and public release — reveals distinct categories of issues that earlier stages miss.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -3862,6 +3868,7 @@ Generated on 2026-04-04 | 3692 actionable insights
 - [INS-260403-DFC3] Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
 - [INS-260404-B01F] Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 - [INS-260404-FF0B] Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
+- [INS-260404-2AA1] Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

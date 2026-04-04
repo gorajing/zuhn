@@ -52,9 +52,9 @@ related:
   - INS-260325-5FE9
   - INS-260330-DECB
   - INS-260330-BEDC
+  - INS-260404-842D
   - INS-260329-6727
   - INS-260330-3504
-  - INS-260325-2F12
 ---
 3Blue1Brown makes a bold claim: whenever pi shows up, there's a path back to circles. The Basel Problem seems to have nothing to do with geometry — it's a sum of simple fractions. But the proof reveals the number line as a limit of circles with doubling circumference, and the π²/6 result comes directly from the original circle's circumference-to-diameter relationship.
 

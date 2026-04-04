@@ -1,6 +1,6 @@
 # Topic: math-perception
 
-> 60 insights
+> 61 insights
 
 - `INS-260325-03D5` [high] Hard problems yield to successive approximation converging on precision, not to brute-force exact computation.
 - `INS-260330-09AB` [high] For any convex 3D shape, averaging its shadow area over all orientations yields exactly one-quarter of its surface area — a powerful generalization beyond spheres.
@@ -17,6 +17,7 @@
 - `INS-260323-FAF0` [high] Hamkins proves every natural number is interesting via contradiction: if boring numbers existed, the smallest boring number would be interesting for being the smallest boring number.
 - `INS-260330-B640` [high] Gödel showed that by assigning numbers to symbols, any mathematical system powerful enough to do arithmetic can construct statements that refer to themselves.
 - `INS-260325-3611` [high] Breaking a hard problem into many small approximate pieces, then taking the limit as pieces shrink, transforms intractable problems into solvable ones.
+- `INS-260404-8908` [high] Anomalous outputs in simple systems are signals of hidden structural connections waiting to be uncovered.
 - `INS-260329-196E` [high] Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
 - `INS-260329-9391` [high] Indeterminate forms like 0/0 in calculus signal convergence of two quantities and require algebraic manipulation to resolve, teaching the meta-skill of treating apparent paradoxes as meaningful signals.
 - `INS-260330-594E` [high] Our brains treat infinity like a big finite number, which produces wrong answers — infinity/2 = infinity, and the set of even numbers equals the set of all whole numbers.

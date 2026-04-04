@@ -17,3 +17,4 @@
 - `INS-260403-C9DC` The most valuable startups historically emerged from founders building things for themselves or for fun, not from deliberate brainstorming sessions.
 - `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
 - `INS-260326-A0B4` Uber wins because people need to get somewhere three times a day; car-buying sites struggle because people buy a car once every seven years.
+- `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.

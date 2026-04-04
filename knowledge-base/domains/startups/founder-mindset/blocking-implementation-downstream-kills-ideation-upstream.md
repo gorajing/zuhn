@@ -51,6 +51,6 @@ related:
   - INS-260402-F853
   - INS-260402-300A
   - INS-260403-83E2
-  - PRI-260323-C49D
+  - INS-260404-2AA1
 ---
 Graham identifies a critical feedback loop: obstacles to implementation don't just slow execution—they extinguish ideation. A programmer who repeatedly can't build what they envision stops envisioning new things. The reverse is equally powerful: when you can do whatever you want, you generate more ideas about what to do. This is why the startup environment doesn't just enable faster execution—it literally makes people more creative. The metaphor of a low-restriction exhaust system is precise: removing back-pressure increases the engine's total output, not just its throughput. For founders, this means the cost of premature process isn't just speed—it's the ideas you'll never have.

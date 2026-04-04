@@ -40,7 +40,6 @@ stance: >-
   long-term outcomes than merely recovering to baseline (resilience)
 related:
   - INS-260330-9BC3
-  - INS-260330-A9F8
   - INS-260403-2DEE
   - INS-260403-280B
   - INS-260325-5F3C

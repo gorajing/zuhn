@@ -147,8 +147,8 @@ Generated on 2026-04-04 | 2421 sources
 | Why China is Building the World’s Biggest City | youtube | 9 | 2026-03-30 |
 | Why every computer still follows a 1940s blueprint | David Alan Grier: Full Interview | youtube | 9 | 2026-03-25 |
 | Zimbabwe’s Currency Crisis: the worthless $100 trillion bill | youtube | 9 | 2026-03-30 |
-| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | After learning this, my AI workflows cost me 30x less | reddit | 8 | 2026-03-20 |
+| 2504.19874v1 | pdf | 8 | 2026-03-26 |
 | The Vanguard of Digital Intellect: A Comprehensive Analysis of Sensemaking Media in 2026 | blog | 8 | 2026-03-29 |
 | 2025 Year In Review | youtube | 8 | 2026-03-29 |
 | A Day In My Life for Longevity (Live to 120+) | youtube | 8 | 2026-03-26 |
@@ -202,8 +202,8 @@ Generated on 2026-04-04 | 2421 sources
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
-| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
+| @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
 | The Infinite Game: What Artists Know That Founders Don’t | blog | 6 | 2026-03-31 |
@@ -242,8 +242,8 @@ Generated on 2026-04-04 | 2421 sources
 | Code with claw | audio | 5 | 2026-03-31 |
 | SVAI   Keynote 2 | audio | 5 | 2026-03-31 |
 | SVAI   Panel | audio | 5 | 2026-03-31 |
-| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 200+ pages of Hugging Face secrets on how to train an LLM | reddit | 5 | 2026-03-20 |
+| Claude for Finance | pdf | 5 | 2026-03-22 |
 | 10 Best Venture Capital Books Recommended by Top VCs | blog | 5 | 2026-03-30 |
 | 10 Questions to Expect During a First Call With a VC | blog | 5 | 2026-03-30 |
 | 10 Startup Fundraising Scams to Know (and How to Avoid Them) | blog | 5 | 2026-03-30 |
@@ -849,6 +849,7 @@ Generated on 2026-04-04 | 2421 sources
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
 | Beyond Smart | blog | 4 | 2026-03-31 |
+| Biz4Kids Update: Mini Sprints To Develop The Comic Book | blog | 4 | 2026-03-31 |
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Building a World-Class Innovation Culture: Bayer | blog | 4 | 2026-03-31 |
@@ -884,9 +885,11 @@ Generated on 2026-04-04 | 2421 sources
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
 | Founder-Market Fit: The VC Test You Must Pass | blog | 4 | 2026-03-30 |
 | Founder Mode | blog | 4 | 2026-03-31 |
+| Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 4 | 2026-03-30 |
 | Free AI Hiring Kit for Startup Founders | blog | 4 | 2026-03-30 |
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | Gangster affordability | blog | 4 | 2026-03-30 |
+| Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
 | Has Venture Capital Become “Return-Free Risk”?  | blog | 4 | 2026-03-30 |
@@ -976,6 +979,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Other Half of "Artists Ship" | blog | 4 | 2026-03-31 |
 | The Pooled-Risk Company Management Company | blog | 4 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 4 | 2026-03-30 |
+| The Race for AI Supremacy is Over🏁, State of VC and Its Impact on DPI📉, SaaS VC Trends☁️ | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 4 | 2026-03-30 |
 | The Reddits | blog | 4 | 2026-03-31 |
@@ -991,6 +995,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
 | This Week #0: Advice on growth, product, and leadership | blog | 4 | 2026-03-31 |
 | Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 4 | 2026-03-30 |
+| Trolls | blog | 4 | 2026-03-31 |
 |  | blog | 4 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 4 | 2026-03-30 |
@@ -1074,6 +1079,7 @@ Generated on 2026-04-04 | 2421 sources
 | How accepting impermanence can end the struggle to “fix” your life | Robert Waldinger | youtube | 4 | 2026-03-25 |
 | How AI Agents Will Transform in 2026 (a16z Big Ideas) | youtube | 4 | 2026-03-22 |
 | How An Infinite Hotel Ran Out Of Room | youtube | 4 | 2026-03-30 |
+| How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 4 | 2026-03-30 |
 | How Axon Became Wall Street's Hottest Stock | youtube | 4 | 2026-03-24 |
 | How Boba Shops Really Make Money | youtube | 4 | 2026-03-24 |
 | How childhood wiring impacts adult life, in 90 minutes | Becky Kennedy: Full Interview | youtube | 4 | 2026-03-25 |
@@ -1315,6 +1321,7 @@ Generated on 2026-04-04 | 2421 sources
 | The highest levels of dimension and its terrifying consequences | youtube | 3 | 2026-03-22 |
 | The Man Who Accidentally Discovered Antimatter | youtube | 3 | 2026-03-23 |
 | The Moon's origin story doesn't add up | youtube | 3 | 2026-03-23 |
+| The most unexpected answer to a counting puzzle | youtube | 3 | 2026-03-30 |
 | The Real Reason We Should Revive Extinct Animals | youtube | 3 | 2026-03-23 |
 | The Ridiculous Engineering of Jet Engines | youtube | 3 | 2026-03-23 |
 | The Rise & Fall of Lionsgate Movies | youtube | 3 | 2026-03-24 |
@@ -2053,7 +2060,6 @@ Generated on 2026-04-04 | 2421 sources
 | Bio | blog | 0 | 2026-03-31 |
 | Biz4Kids - a business model for kids | blog | 0 | 2026-03-31 |
 | Biz4Kids - Join Our Business Comic For Kids | blog | 0 | 2026-03-31 |
-| Biz4Kids Update: Mini Sprints To Develop The Comic Book | blog | 0 | 2026-03-31 |
 | Book Review Contest Rules 2026 | blog | 0 | 2026-03-30 |
 | Book Review: The White King Of La Gonave | blog | 0 | 2026-03-30 |
 | Bootcamp Exclusive: Steve Blank On Lean Startup Inside Big Companies & More | blog | 0 | 2026-03-31 |
@@ -2147,7 +2153,6 @@ Generated on 2026-04-04 | 2421 sources
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
 | Founder Control | blog | 0 | 2026-03-31 |
 | Founder Mode👨‍💼, The Extinction of VC💀, How to Build More Pipeline🚀 | blog | 0 | 2026-03-30 |
-| Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 0 | 2026-03-30 |
 | Founders: Are You Raising Enough? Or Too Much? Here’s the Tool You Need | blog | 0 | 2026-03-30 |
 | Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 0 | 2026-03-30 |
 | Free M&A Accretion Dilution Model 2026: Excel Template for EPS Analysis | blog | 0 | 2026-03-30 |
@@ -2159,7 +2164,6 @@ Generated on 2026-04-04 | 2421 sources
 | GC, a16z Capture 44% VC fundraising💰, Massive Acquisitions in Software Startups 🛒, Network Effects🕸️ | blog | 0 | 2026-03-30 |
 | General and Surprising | blog | 0 | 2026-03-31 |
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
-| Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 0 | 2026-03-30 |
 | Giving AI Agents Purchasing Power | blog | 0 | 2026-03-30 |
 | Global Ranking of the Most Valuable Private Startups in 2025 | blog | 0 | 2026-03-30 |
 | Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 0 | 2026-03-30 |
@@ -2315,7 +2319,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |
-| The Race for AI Supremacy is Over🏁, State of VC and Its Impact on DPI📉, SaaS VC Trends☁️ | blog | 0 | 2026-03-30 |
 | The Real Reason to End the Death Penalty | blog | 0 | 2026-03-31 |
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 0 | 2026-03-30 |
 | The Rise of the AI Underground | blog | 0 | 2026-03-31 |
@@ -2355,7 +2358,6 @@ Generated on 2026-04-04 | 2421 sources
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
 | Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 0 | 2026-03-30 |
-| Trolls | blog | 0 | 2026-03-31 |
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Two Kinds of Judgement | blog | 0 | 2026-03-31 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
@@ -2409,7 +2411,6 @@ Generated on 2026-04-04 | 2421 sources
 | C in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Donut-shaped C code that generates a 3D spinning donut | youtube | 0 | 2026-03-30 |
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 0 | 2026-03-30 |
-| How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
@@ -2419,7 +2420,6 @@ Generated on 2026-04-04 | 2421 sources
 | Photosynthesis: Crash Course Biology #8 | youtube | 0 | 2026-03-30 |
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
-| The most unexpected answer to a counting puzzle | youtube | 0 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
 | When You Truly Work for Yourself | youtube | 0 | 2026-03-30 |
 | Why Costco is Cheaper than Amazon | youtube | 0 | 2026-03-30 |
