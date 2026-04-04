@@ -48,10 +48,10 @@ stance: >-
   real skill of investing.
 related:
   - PRI-260328-3FEF
+  - INS-260403-BB6B
   - INS-260323-1B42
   - INS-260326-6B98
-  - PRI-260328-BD9B
-  - INS-260325-EF4C
+  - INS-260403-D33B
 ---
 Ritholtz opens with a provocative claim: investing is a problem that has been solved. Average returns for equities, fixed income, and inflation are well-documented over long periods. The wild card that torpedoes returns is human behavior — our evolutionary wiring for threat detection, action bias, and emotional decision-making.
 

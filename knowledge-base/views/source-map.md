@@ -1,5 +1,5 @@
 # Source Map
-Generated on 2026-04-03 | 2421 sources
+Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
@@ -198,9 +198,9 @@ Generated on 2026-04-03 | 2421 sources
 | Why James Bond would fail instantly as a real CIA spy | Andrew Bustamante | youtube | 7 | 2026-03-25 |
 | Why SETI might be our most humbling science | Jill Tarter: Full Interview | youtube | 7 | 2026-03-25 |
 | Your life’s most important moments are flukes, not fate | Brian Klaas | youtube | 7 | 2026-03-25 |
-| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | Building the Zuhn knowledge base — lessons from Phase 1-5 | paste | 6 | 2026-03-20 |
 | The Leverage Field Manual — How to multiply your output without working more | paste | 6 | 2026-03-22 |
+| Why we shifted to Spec-Driven Development | reddit | 6 | 2026-03-20 |
 | @u.northwestern.edu Mail - How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds | pdf | 6 | 2026-03-30 |
 | 8 Cofounder Conflict Myths That Sabotage Startups | blog | 6 | 2026-03-26 |
 | Startup FP&A Model: Build a Real Operating Plan | blog | 6 | 2026-03-30 |
@@ -273,6 +273,7 @@ Generated on 2026-04-03 | 2421 sources
 | America must embrace the Electric Age, or fall behind | blog | 5 | 2026-03-30 |
 | America's chip export controls are working | blog | 5 | 2026-03-30 |
 | An Open Letter To CEOs | blog | 5 | 2026-03-31 |
+| Apple's Mistake | blog | 5 | 2026-03-31 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
 | Are we in the foothills of World War 3? | blog | 5 | 2026-03-30 |
 | Asking great questions: a conversation with Hal Gregersen | blog | 5 | 2026-03-31 |
@@ -288,6 +289,7 @@ Generated on 2026-04-03 | 2421 sources
 | Best Of Moltbook | blog | 5 | 2026-03-30 |
 | Better Bayesian Filtering | blog | 5 | 2026-03-31 |
 | Billionaires Build | blog | 5 | 2026-03-31 |
+| Black Swan Farming | blog | 5 | 2026-03-31 |
 | build a Billion-Dollar Startup with a minimal team thanks to AI | blog | 5 | 2026-03-30 |
 | Building Confidence Networks In Latin America | blog | 5 | 2026-03-31 |
 | Business model design for 21st century companies — learnings from Taobao, Michelin, and Airbnb | blog | 5 | 2026-03-31 |
@@ -377,6 +379,7 @@ Generated on 2026-04-03 | 2421 sources
 | Roundup #79: The revenge of macroeconomics | blog | 5 | 2026-03-30 |
 | SaaS Financial Model Guide (+ Free Excel Template) | blog | 5 | 2026-03-30 |
 | SaaS MRR Projection Model + Excel Template | blog | 5 | 2026-03-30 |
+| San Francisco's urban revival is in danger | blog | 5 | 2026-03-30 |
 | Save us, Digital Cronkite! | blog | 5 | 2026-03-30 |
 | See New Marketplaces Where Others See Crowds: The Inside Story of A.Team | blog | 5 | 2026-03-31 |
 | Series A & B Cap Table Guide + Free Excel Template | blog | 5 | 2026-03-30 |
@@ -387,6 +390,7 @@ Generated on 2026-04-03 | 2421 sources
 | Startup Investing Trends | blog | 5 | 2026-03-31 |
 | Startup Location Strategy in 2025: Does It Still Matter Where You Build? | blog | 5 | 2026-03-30 |
 | Startup Momentum + Diagnostic Worksheet: The One Advantage That Can Save or Sink Your Company | blog | 5 | 2026-03-30 |
+| Startup Valuation Methods: 8 Approaches Investors Use | blog | 5 | 2026-03-30 |
 | Succinctness is Power | blog | 5 | 2026-03-31 |
 | Superintelligence is already here, today | blog | 5 | 2026-03-30 |
 | Superlinear Returns | blog | 5 | 2026-03-31 |
@@ -436,6 +440,7 @@ Generated on 2026-04-03 | 2421 sources
 | The Verticalization of Everything | blog | 5 | 2026-03-31 |
 | The Wartime CEO: 9 Leadership Principles for Strong Startups | blog | 5 | 2026-03-31 |
 | The Weeb Economy | blog | 5 | 2026-03-30 |
+| Trapped in the hell of social comparison | blog | 5 | 2026-03-30 |
 | TurboQuant: Redefining AI efficiency with extreme compression | blog | 5 | 2026-03-25 |
 | Undergraduation | blog | 5 | 2026-03-31 |
 | Updated thoughts on AI risk | blog | 5 | 2026-03-30 |
@@ -1759,7 +1764,6 @@ Generated on 2026-04-03 | 2421 sources
 | Apple Business Model | blog | 0 | 2026-03-31 |
 | Apple Pay: An Obvious Value Proposition | blog | 0 | 2026-03-31 |
 | Apple Pay’s Uncopyable Business Model Delivers What Nobody Else Could | blog | 0 | 2026-03-31 |
-| Apple's Mistake | blog | 0 | 2026-03-31 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 0 | 2026-03-30 |
 | April Dunford on product positioning, segmentation, and optimizing your sales process | blog | 0 | 2026-03-31 |
 | Are Gains the Opposite of Pains? | blog | 0 | 2026-03-31 |
@@ -1787,7 +1791,6 @@ Generated on 2026-04-03 | 2421 sources
 | Biz4Kids - a business model for kids | blog | 0 | 2026-03-31 |
 | Biz4Kids - Join Our Business Comic For Kids | blog | 0 | 2026-03-31 |
 | Biz4Kids Update: Mini Sprints To Develop The Comic Book | blog | 0 | 2026-03-31 |
-| Black Swan Farming | blog | 0 | 2026-03-31 |
 | Book Review Contest Rules 2026 | blog | 0 | 2026-03-30 |
 | Book Review: The White King Of La Gonave | blog | 0 | 2026-03-30 |
 | Bootcamp Exclusive: Steve Blank On Lean Startup Inside Big Companies & More | blog | 0 | 2026-03-31 |
@@ -2112,7 +2115,6 @@ Generated on 2026-04-03 | 2421 sources
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 0 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 0 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 0 | 2026-03-30 |
-| San Francisco's urban revival is in danger | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
 | Schlep Blindness | blog | 0 | 2026-03-31 |
 | See Randomness | blog | 0 | 2026-03-31 |
@@ -2145,7 +2147,6 @@ Generated on 2026-04-03 | 2421 sources
 | Startup Fundraising Resources: Investor Lists 2026 | blog | 0 | 2026-03-30 |
 | Startup MIS Excel Template to Track KPIs | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
-| Startup Valuation Methods: 8 Approaches Investors Use | blog | 0 | 2026-03-30 |
 | Startups in 13 Sentences | blog | 0 | 2026-03-31 |
 | State of AI 2025🤖, Biggest Fundraisers💰, Build Distribution💌 | blog | 0 | 2026-03-30 |
 | State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 0 | 2026-03-30 |
@@ -2286,7 +2287,6 @@ Generated on 2026-04-03 | 2421 sources
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
 | Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 0 | 2026-03-30 |
 | Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 0 | 2026-03-30 |
-| Trapped in the hell of social comparison | blog | 0 | 2026-03-30 |
 | Travis Kalanick: 10 Lessons on Stealth Building, Physical AI, and His New Startup Adams (2026) | blog | 0 | 2026-03-30 |
 | Trolls | blog | 0 | 2026-03-31 |
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |

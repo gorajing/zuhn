@@ -53,7 +53,6 @@ related:
   - PRI-260328-E1CE
   - INS-260323-8C53
   - INS-260321-13C6
-  - INS-260330-4150
 stance: 'After the Cold War, defense consolidated from 51 primes to 5'
 evidence:
   - id: INS-260327-8DAA

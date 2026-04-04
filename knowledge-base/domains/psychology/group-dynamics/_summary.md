@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 34 insights
+> 35 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-BDE0` [high] Cities send subtle but powerful messages about which type of ambition is most valued, and these messages shape inhabitants more than most people realize.
@@ -30,6 +30,7 @@
 - `INS-260330-6D2E` [high] Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
 - `INS-260330-FB9C` [high] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
 - `INS-260403-DB0A` [high] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
+- `INS-260403-7644` [medium] Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260330-B4BD` [medium] Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260402-1CAD` [medium] Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload.
 - `INS-260330-93F3` [medium] The same culture can occupy radically different moral positions across centuries, proving that moral differences between contemporary cultures reflect temporal position on a shared trajectory, not permanent group characteristics.

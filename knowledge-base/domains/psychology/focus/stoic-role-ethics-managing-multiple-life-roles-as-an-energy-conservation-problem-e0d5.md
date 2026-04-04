@@ -52,11 +52,11 @@ stance: >-
   emotional energy — wasting energy on non-actionable concerns directly trades
   off against all other roles.
 related:
+  - INS-260403-7644
   - INS-260329-6B95
   - INS-260325-922D
   - INS-260327-1B09
   - INS-260323-CB34
-  - INS-260323-5D6D
 evidence:
   - id: INS-260323-CB34
     type: TRANSFERS_TO

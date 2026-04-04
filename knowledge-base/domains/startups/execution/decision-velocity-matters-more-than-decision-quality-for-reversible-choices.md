@@ -52,7 +52,6 @@ related:
   - INS-260330-C548
   - INS-260330-A15F
   - INS-260330-5779
-  - INS-260329-EE04
 evidence:
   - id: INS-260330-A15F
     type: REFINES

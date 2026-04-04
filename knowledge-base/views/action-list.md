@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-03 | 3184 actionable insights
+Generated on 2026-04-04 | 3187 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1955,6 +1955,7 @@ Generated on 2026-04-03 | 3184 actionable insights
 - [INS-260403-943D] Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
 - [INS-260403-A0B0] Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - [INS-260403-9106] Bundling financial services into a marketplace creates LTV advantages that fund superior customer acquisition.
+- [INS-260403-8F6E] Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2432,6 +2433,7 @@ Generated on 2026-04-03 | 3184 actionable insights
 - [INS-260403-1290] At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - [INS-260403-208D] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - [INS-260403-1444] Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
+- [INS-260403-AA6A] A near-100% fundraising rate after Demo Day likely means the accelerator is selecting too conservatively and missing outliers.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2683,6 +2685,7 @@ Generated on 2026-04-03 | 3184 actionable insights
 - [INS-260403-DDFD] Once you're truly good at a technology, the gaps and broken things in the world become obvious — each one a potential startup.
 - [INS-260403-AA8F] Founders stick with bad ideas because invested time feels like evidence of quality, not because better ideas don't exist.
 - [INS-260403-AEB3] Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
+- [INS-260403-39BB] Great startup ideas sit in the Venn diagram overlap of 'seems like a bad idea' and 'is actually a good idea.'
 
 ## startups/innovation
 - [INS-260403-CACE] The best thing a university can do for startups is be an excellent research institution, not run entrepreneurship programs.

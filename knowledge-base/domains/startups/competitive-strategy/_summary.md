@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 408 insights
+> 409 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -102,6 +102,7 @@
 - `INS-260330-9197` [high] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
 - `INS-260402-086D` [high] Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260402-AEA1` [high] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
+- `INS-260403-8F6E` [high] Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.
 - `INS-260329-C092` [high] Specialists bypass gatekeepers to deliver expert analysis directly to niche audiences who fund the work through subscriptions
 - `INS-260328-D0F6` [high] Yahoo, HP, and Intel all looked invincible until they were not — the 'watermelon' pattern of green outside, red inside applies to today's tech giants too.
 - `INS-260330-D108` [high] Photosynthesis 'rather sucks' — it's complicated, inefficient, and confusing — yet it powers all complex life because it was first and sufficient.

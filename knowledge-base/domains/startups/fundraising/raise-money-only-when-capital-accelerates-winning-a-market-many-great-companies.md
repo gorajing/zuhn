@@ -56,6 +56,7 @@ related:
   - INS-260330-B6FA
   - INS-260327-30E4
   - INS-260330-404B
+  - INS-260403-AA6A
 stance: >-
   Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all
   capital-efficient or fully bootstrapped

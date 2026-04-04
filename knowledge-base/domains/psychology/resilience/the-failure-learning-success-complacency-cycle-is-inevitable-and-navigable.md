@@ -45,7 +45,6 @@ stance: >-
   success, and complacency, and the key skill is recognizing which phase you're
   in to minimize time in complacency.
 related:
-  - INS-260323-3CC2
   - INS-260326-8E6D
   - INS-260327-8D82
   - INS-260329-E078

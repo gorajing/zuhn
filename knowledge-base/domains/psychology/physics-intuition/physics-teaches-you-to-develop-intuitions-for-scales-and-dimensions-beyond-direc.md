@@ -58,7 +58,7 @@ related:
   - INS-260330-E47D
   - INS-260325-96FB
   - INS-260327-DC0B
-  - INS-260327-7DBF
+  - INS-260330-AB5D
 stance: >-
   Physics forces you beyond the limitation of human senses to develop intuitions
   that apply at different distances, scales, and ways of thinking

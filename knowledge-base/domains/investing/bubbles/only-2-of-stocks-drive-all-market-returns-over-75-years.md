@@ -44,7 +44,6 @@ stance: >-
   tiny fraction of stocks makes the odds of selecting winners astronomically
   low.
 related:
-  - INS-260325-13C2
   - PRI-260328-BD9B
   - INS-260325-195E
   - INS-260326-6B98

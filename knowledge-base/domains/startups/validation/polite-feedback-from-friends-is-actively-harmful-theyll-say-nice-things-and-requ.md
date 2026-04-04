@@ -48,7 +48,6 @@ resolutions:
 related:
   - INS-260321-7C97
   - INS-260325-36EA
-  - INS-260323-8AA1
   - PRI-260323-8EEA
   - INS-260330-FFDB
   - INS-260330-2576
@@ -56,6 +55,7 @@ related:
   - PRI-260328-0BE1
   - INS-260327-3574
   - INS-260327-FC5D
+  - INS-260327-8B1A
 stance: >-
   Friends and acquaintances will give positive feedback and feature requests not
   because they want your product, but because they want to be nice to ...

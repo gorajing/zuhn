@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 224 insights
+> 225 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -63,6 +63,7 @@
 - `INS-260330-5E09` [high] The brain defaults to linear extrapolation, causing systematic underestimation of any exponential process.
 - `INS-260330-864C` [high] We anchor on small early numbers in exponential sequences and then are shocked when they suddenly look big, even though the pattern was perfectly consistent all along.
 - `INS-260322-38D8` [high] Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
+- `INS-260403-D33B` [high] Whether innate or learned, human expectations about variation cannot accommodate the 1000x outcome differences found in startup investing.
 - `INS-260330-41A5` [high] People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
 - `INS-260330-2EC6` [high] Ross went from libertarian idealist growing mushrooms to approving weapons sales, body parts listings, and commissioning hits — each step rationalized as defending the 'free market' philosophy he started with.
 - `INS-260330-99D1` [high] Scientists funded by the Ethyl Corporation claimed lead was 'a natural part of our environment' — a claim Clair Patterson demolished by measuring ocean lead at different depths and comparing modern bones to ancient mummies.

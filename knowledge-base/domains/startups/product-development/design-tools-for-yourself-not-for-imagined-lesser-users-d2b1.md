@@ -51,8 +51,8 @@ related:
   - INS-260330-856B
   - INS-260330-84F4
   - INS-260402-4A06
+  - INS-260403-8F6E
   - INS-260330-1266
-  - INS-260330-8481
 ---
 Graham contrasts Java applets (heavily promoted by Sun, ignored by hackers, died) with Ajax/Google Maps (no marketing push, hackers spontaneously built Busmonster and thousands of mashups). The pattern is clear: when you find PR firms promoting something as the next development platform, you can be sure it isn't one.
 
