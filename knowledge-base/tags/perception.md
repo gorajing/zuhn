@@ -1,7 +1,6 @@
 # Tag: perception
 
 - `INS-260330-5F36` Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
-- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260330-B87C` The same nerve signals producing pleasure or irritation depending on context reveals that the brain constructs meaning from sensory data rather than passively receiving it.
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
@@ -18,6 +17,7 @@
 - `INS-260330-41A5` People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
 - `INS-260330-2B33` Emotionally vivid individual cases dominate public perception even when aggregate data tells a different story.
+- `INS-260327-E30A` Napoleon's Egyptian campaign was militarily inconclusive but his propaganda made it a triumph, creating the popular mandate that powered his coup.
 - `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
 - `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
 - `INS-260323-D400` Mathematical training isn't just about solving equations — it's a perception technology that makes the world more complex, beautiful, and visible to you.
@@ -27,6 +27,9 @@
 - `INS-260330-2EC4` Rendering invisible dynamics visible — through transparency, slow motion, or instrumentation — transforms conceptual understanding into visceral comprehension.
 - `INS-260330-FA2D` The arrow's flex is invisible to the naked eye but is the entire mechanism of accuracy — slow-motion cameras revealed what centuries of archery couldn't.
 - `INS-260330-550F` Decomposition feels impossibly hard because our intuition says mixing is irreversible — the Fourier Transform works by reframing the problem as detection rather than separation.
+- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
+- `INS-260330-6EE2` Length contraction in special relativity means a sufficiently fast-moving observer would measure Earth as physically flat — shape depends on reference frame.
+- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
 - `INS-260330-ECD8` Deriving values from facts requires a pre-existing value framework to select which facts matter, creating an inescapable circularity.
 - `INS-260330-2C4D` People feel anxious in extreme silence because reverb normally signals spatial safety — its absence triggers an expectation violation that the brain interprets as claustrophobia.
 - `INS-260403-A5FF` Shared human perceptual wiring (faces, primary colors, 3D objects, edge-finding) makes art quality measurable against universal audience responses.
@@ -53,9 +56,6 @@
 - `INS-260330-BBEE` Aerogel scatters blue light like the atmosphere does, appearing blue on dark backgrounds but yellow against blue sky — a handheld sunset.
 - `INS-260330-3EDA` During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
 - `INS-260330-80A2` Traveling at light speed toward the Sun would initially make it appear to recede because your field of view expands to include light from nearly behind you, compressing forward objects into a smaller apparent region.
-- `INS-260323-3E21` Physics forces you beyond the limitation of human senses to develop intuitions that apply at different distances, scales, and ways of thinking — a meta-skill transferable to any complex domain.
-- `INS-260330-6EE2` Length contraction in special relativity means a sufficiently fast-moving observer would measure Earth as physically flat — shape depends on reference frame.
-- `INS-260322-2E1C` Our experience of a stable, solid world exists not because reality is stable, but because we are trapped too deeply in a narrow slice to notice its freedom.
 - `INS-260330-5391` Identical touch can feel amazing or infuriating depending on emotional context — context is the master variable, not technique.
 - `INS-260330-6D52` The same physical touch can feel arousing or irritating depending on context, proving that context — not technique — is the primary lever for sexual pleasure.
 - `INS-260329-461A` CS50's theatrical production quality — not just Malan's knowledge — is what makes it the world's most popular CS course.

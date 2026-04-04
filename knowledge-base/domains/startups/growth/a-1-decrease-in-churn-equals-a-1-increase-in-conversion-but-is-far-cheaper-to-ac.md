@@ -50,7 +50,6 @@ stance: >-
   growth, yet consistently cheaper and more neglected — making it the
   higher-leverage growth investment for most startups
 related:
-  - INS-260327-1576
   - INS-260329-6079
   - INS-260329-1F17
   - INS-260329-72A5

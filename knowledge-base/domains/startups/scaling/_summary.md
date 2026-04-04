@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 124 insights
+> 125 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -46,6 +46,7 @@
 - `INS-260330-725F` [high] Every founder thinks their team knows the top 3 goals; random sampling proves none of them do.
 - `INS-260329-3924` [high] You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
 - `INS-260327-4CCE` [high] Both ElevenLabs and Lovable converged on approximately 50/50 splits between experienced operators and high-slope generalists on their leadership teams.
+- `INS-260403-3062` [high] Costco pays double the retail average ($21/hr vs ~$10.50) yet gets 3x more productive employees, making the higher wage a net-positive investment rather than an expense.
 - `INS-260327-91E7` [high] Scaling requires hiring domain experts and having genuine humility to learn from them.
 - `INS-260330-304C` [high] Top performers at PolyAI consistently came from candidates who had one exceptional strength that made an interviewer champion them, not from candidates with uniformly good scores.
 - `INS-260329-C92A` [high] When you can afford it, hire directors and senior leaders first rather than building up from junior employees.

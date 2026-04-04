@@ -37,7 +37,6 @@
 - `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho
 - `INS-260327-9EE4` When consumer trust in an entire category collapses due to widespread deception, brands that adopt radical transparency 
 - `INS-260403-13E6` Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
-- `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.
 - `INS-260327-B6D6` Frequent promotional events train consumers to never pay full price, permanently depressing margins and creating a depen
 - `INS-260327-65F6` Products distributed freely as brand promotions generate more usage and loyalty than identical products sold at any pric
 - `INS-260327-7BE4` Businesses that advertise low headline prices then add fees during checkout create more consumer resentment than busines
@@ -50,3 +49,4 @@
 - `INS-260327-415B` When products are designed primarily to be shared on social media, they optimize for visual impact at the expense of the
 - `INS-260327-99E5` 80% of consumers say they want sustainable products; less than 5% actually buy them when they cost more.
 - `INS-260327-A620` Minimalism as an aesthetic requires specific products (clean-lined furniture, neutral colors, curated accessories) that 
+- `INS-260327-B034` Intuit's fundamental insight is that small businesses are consumers who happen to be businesses — the minute you put 'business' in front of them, you start building enterprise features for people who need consumer-grade simplicity.

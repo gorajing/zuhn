@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3424 actionable insights
+Generated on 2026-04-04 | 3432 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1421,6 +1421,7 @@ Generated on 2026-04-04 | 3424 actionable insights
 - [INS-260403-449D] Programs where participants work on real projects during training transfer skills more effectively than lecture-based alternatives.
 - [INS-260403-B508] Some ideas are discovered through writing rather than conceived first and then written down, making writing skill a direct input to intellectual output.
 - [INS-260403-E6FD] Following genuine curiosity beats chasing hot fields because sustained obsession is required to develop judgment at the frontier.
+- [INS-260403-FC01] The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1573,6 +1574,7 @@ Generated on 2026-04-04 | 3424 actionable insights
 - [INS-260403-22FE] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
 - [INS-260403-B216] Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
 - [INS-260403-B3CA] Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
+- [INS-260403-1E82] Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1860,6 +1862,7 @@ Generated on 2026-04-04 | 3424 actionable insights
 - [INS-260403-CC25] Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - [INS-260403-2FE1] A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
 - [INS-260403-85F1] Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
+- [INS-260403-ED1E] Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2603,6 +2606,9 @@ Generated on 2026-04-04 | 3424 actionable insights
 - [INS-260403-A0C4] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - [INS-260403-87CD] A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
 - [INS-260403-77B4] PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
+- [INS-260403-481F] Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
+- [INS-260403-7964] Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
+- [INS-260403-3837] Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3421,6 +3427,7 @@ Generated on 2026-04-04 | 3424 actionable insights
 - [INS-260403-066E] A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
 - [INS-260403-8A80] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - [INS-260403-46BD] Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
+- [INS-260403-3062] Costco pays double the retail average ($21/hr vs ~$10.50) yet gets 3x more productive employees, making the higher wage a net-positive investment rather than an expense.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3484,6 +3491,7 @@ Generated on 2026-04-04 | 3424 actionable insights
 - [INS-260403-3EEA] Tangible visual artifacts created during workshops serve as persistent reference points that enable teams to act on ideas after the session ends.
 - [INS-260403-F249] Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest the imbalance through ATP synthase — a model for how deliberate asymmetry creation drives all productive work.
 - [INS-260403-2C00] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
+- [INS-260403-C40D] Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

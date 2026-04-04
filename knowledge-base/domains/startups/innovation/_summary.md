@@ -1,10 +1,11 @@
 # Topic: innovation
 
-> 46 insights
+> 47 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-5C74` [high] Oxygen — the molecule enabling all complex animal life — is merely the waste product of photosynthesis, whose actual purpose is making glucose.
+- `INS-260403-882A` [high] Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
 - `INS-260403-130D` [high] Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
 - `INS-260403-1C09` [high] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260403-71A6` [high] The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.

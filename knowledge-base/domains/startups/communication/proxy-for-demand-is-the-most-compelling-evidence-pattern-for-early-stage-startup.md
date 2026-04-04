@@ -55,8 +55,8 @@ related:
   - INS-260403-3421
   - INS-260403-0B14
   - INS-260403-DC32
+  - INS-260403-3837
   - INS-260403-53AA
-  - INS-260403-39F9
   - INS-260403-7219
 ---
 Sequoia's Greg McAdoo specifically looks for the 'proxy for demand' — observable behavior showing people need what you're building. This is more convincing than TAM slides because it's grounded in real human behavior rather than analyst projections. When people pay a lot for something, a cheaper alternative that preserves the valued qualities is an easy sell.

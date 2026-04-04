@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 239 insights
+> 240 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -142,6 +142,7 @@
 - `INS-260329-D8C7` [high] The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
 - `INS-260330-2784` [high] The 'Fall of Rome' is a framing choice that erases 1000 years of Byzantine continuation, illustrating how dominant narratives shape what we consider real.
 - `INS-260326-A7CB` [high] The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
+- `INS-260403-53C9` [high] Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.
 - `INS-260323-821F` [high] Mathematicians who publicly rejected the axiom of choice were found to be unknowingly using it in their own proofs -- the most natural assumptions are the hardest to notice.
 - `INS-260402-AC3D` [high] You can see what's missing in weaker tools but are blind to what's missing in your own compared to more powerful ones.
 - `INS-260330-B2C5` [high] When 'trust the science' fails, the remedy is real science shorn of ideology — not wholesale rejection of expertise itself.

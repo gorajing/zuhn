@@ -56,7 +56,6 @@ related:
   - INS-260403-2FE1
   - INS-260403-FE37
   - INS-260403-81CE
-  - INS-260403-941F
 ---
 Graham observes that professional investors hear enormous volumes of pitches, and after a while they all blur together. The first cut in evaluation isn't quality—it's simply being remembered. A descriptive 'soundbite' that encapsulates your startup serves as a cognitive anchor.
 

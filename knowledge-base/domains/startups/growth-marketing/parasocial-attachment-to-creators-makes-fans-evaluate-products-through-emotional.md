@@ -41,10 +41,10 @@ stance: >-
   has zero correlation with product quality.
 related:
   - INS-260327-7A5A
+  - INS-260403-1E82
   - INS-260327-E039
   - INS-260327-F405
   - INS-260403-B635
-  - INS-260329-CD64
 evidence:
   - id: INS-260327-E039
     type: SUPPORTS

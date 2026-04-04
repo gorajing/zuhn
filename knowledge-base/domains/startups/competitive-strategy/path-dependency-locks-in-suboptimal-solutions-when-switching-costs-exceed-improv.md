@@ -53,9 +53,9 @@ related:
   - INS-260330-84F4
   - INS-260402-4F0E
   - INS-260403-0902
+  - INS-260403-3F05
   - PRI-260403-40D7
   - INS-260330-3FCF
   - PRI-260321-7307
-  - INS-260402-4AB4
 ---
 RuBisCo, the most abundant protein on Earth (~40 billion tons), fails roughly half the time by binding oxygen instead of CO2, producing a toxic byproduct. Yet plants never evolved a replacement — they instead evolved elaborate workaround pathways to detoxify the byproduct. This mirrors how startups and large organizations accumulate technical debt: once a flawed architecture is deeply embedded and the entire system depends on it, teams build compensating mechanisms rather than replacing the core. The lesson for founders is that early architectural choices have outsized long-term consequences. The cost of living with a bad decision compounds, but so does the cost of replacing it — creating a trap where 'good enough early' becomes 'permanent' regardless of quality.

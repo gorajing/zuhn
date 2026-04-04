@@ -1,8 +1,8 @@
 # Tag: optimization
 
 - `INS-260325-E62D` Agentic inference shifts compute from decode-heavy to prefill-heavy with larger shared cache needs.
-- `INS-260402-2879` Define program meaning independently of implementation, then layer optimization advice on top.
 - `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
+- `INS-260402-2879` Define program meaning independently of implementation, then layer optimization advice on top.
 - `INS-260330-3ADD` Networks achieve 96%+ accuracy with hidden layers that look nearly random rather than detecting edges and patterns as designed.
 - `INS-260329-425B` Dynamic arrays double in size when full, making each individual resize expensive but amortizing the cost across all appends to achieve constant time on average.
 - `INS-260402-8A7A` Graham doubled nonspam token counts to bias against false positives, treating them as bugs to debug rather than statistical errors to optimize.
@@ -34,14 +34,14 @@
 - `INS-260330-B4F1` Greedy algorithms and human snap-judgments share the same failure mode: optimizing locally while missing the global optimum.
 - `INS-260329-36D9` Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260329-8D70` Binary search trees average O(log n) but degrade to O(n) when data arrives sorted — this single gap motivated AVL trees, red-black trees, and the entire field of self-balancing structures.
+- `INS-260330-8E95` The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.
 - `INS-260403-C514` Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
 - `INS-260330-C33B` Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260329-B2BE` Calculus proves that profit is maximized where marginal cost equals marginal revenue, not where total profit looks largest.
 - `INS-260329-ADCD` Calculus formalizes the business intuition that optimal scale is where the cost of the next unit equals the revenue it generates.
 - `INS-260402-92AE` Centivax outsourced initial testing but brought optimization in-house once they knew the technology worked, making iteration cheaper, faster, and producing a more polished product.
-- `INS-260330-8E95` The Navy's tumblehome hull optimizes radar stealth but sacrifices the restoring force that prevents capsizing in rough seas.
-- `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260329-21C6` Hormozi applies business principles — friction reduction, single-metric optimization, and systemization — to nutrition, producing a sustainable high-protein diet that requires zero willpower or cooking skill.
+- `INS-260402-7FF5` Pick a weekly growth target and use it as the sole criterion for every decision — anything that hits the number is right.
 - `INS-260329-D062` Do more of what works, then optimize it, then try new things — in that strict order.
 - `INS-260402-3C79` Don't guess where your system is weak — examine the specific cases it fails on and fix those, just as you'd profile slow code before optimizing.
 - `INS-260323-257D` Jet engine efficiency is fundamentally limited by the Carnot equation: raise the combustion temperature or lower the outside air temperature. Turbine blade materials became the binding constraint because they set the maximum combustion temperature, making metallurgy — not aerodynamics or fuel chemistry — the bottleneck for the entire aviation industry.

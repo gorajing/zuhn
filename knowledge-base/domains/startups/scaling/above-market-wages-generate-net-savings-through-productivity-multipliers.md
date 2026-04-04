@@ -50,9 +50,9 @@ stance: >-
 related:
   - INS-260322-FD23
   - INS-260330-7E58
+  - INS-260403-3062
   - INS-260327-5690
   - INS-260329-72C1
-  - INS-260327-D480
 ---
 Costco's average wage of $21/hour — double the U.S. retail average — combined with superior health insurance and retirement benefits appears expensive on a per-employee basis. However, the resulting workforce is three times more productive than industry average, making the effective cost per unit of work significantly lower. This challenges the common assumption that labor cost minimization optimizes for profitability.
 

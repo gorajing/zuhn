@@ -8,10 +8,10 @@
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
 - `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
-- `INS-260329-563F` Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
 - `INS-260327-212A` Stanley tumblers grew explosively not because they were better water bottles but because carrying one signaled membership in specific social tribes.
 - `INS-260329-F73D` Before launching any new product or entering a new market, work for free in exchange for testimonials because proof makes selling unnecessary.
 - `INS-260329-7B56` Reviews that mention real downsides before praising outcomes are more believable and convert better than pure five-star praise.
+- `INS-260329-563F` Treat free customers as your most valuable asset because they generate reviews, send referrals, and may convert to paid — three independent growth channels from one relationship.
 - `INS-260403-77B4` PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260402-4719` VCs primarily invest based on traction and other investors' interest rather than their own technical evaluation.
 - `INS-260327-D7AA` Each customer success story unlocks an industry vertical — OpenAI's Moderna partnership unlocked life sciences credibility, and Morgan Stanley unlocked financial services, because prospects want proof rather than promise.

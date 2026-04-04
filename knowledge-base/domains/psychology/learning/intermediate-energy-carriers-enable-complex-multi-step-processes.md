@@ -55,6 +55,7 @@ related:
   - INS-260330-498B
   - INS-260403-2DC0
   - INS-260330-09F8
+  - INS-260403-FC01
 ---
 The electron transport chain is a masterclass in decomposition. A photon's energy doesn't magically become sugar. Instead, it excites an electron, which loses energy in controlled steps: pumping protons across a membrane, creating a concentration gradient, driving ATP synthase, producing ATP and NADPH, which finally power the Calvin Cycle to fix carbon. Each intermediate carrier stores energy in a form suited to the next step.
 

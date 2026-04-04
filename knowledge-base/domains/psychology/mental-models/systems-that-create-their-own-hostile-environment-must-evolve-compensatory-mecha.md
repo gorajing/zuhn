@@ -55,15 +55,15 @@ stance: >-
   fundamental redesigns because the switching cost is prohibitive
 related:
   - INS-260330-48F2
-  - INS-260330-B3D5
   - INS-260330-C134
   - INS-260330-F222
   - INS-260330-2CFA
   - INS-260330-EACA
-  - INS-260330-0E77
   - INS-260330-72E1
+  - INS-260403-53C9
   - INS-260330-F5CF
   - INS-260403-8653
+  - INS-260403-1636
 evidence:
   - id: INS-260330-B061
     type: EXTENDS

@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 229 insights
+> 230 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -93,6 +93,7 @@
 - `INS-260330-B882` [high] The team needed misfire procedures immediately on their first zoomed-in test, validating the experts' insistence on planning them in advance.
 - `INS-260330-F7B2` [high] High-floor interfaces like Vim reward invested learning time with speed gains that low-floor tools cannot match.
 - `INS-260330-14A1` [high] Moderate procrastination enables subconscious incubation that produces more creative ideas than diving in immediately or waiting until the last minute.
+- `INS-260403-FC01` [high] The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
 - `INS-260330-2BF4` [high] Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
 - `INS-260330-B047` [high] Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
 - `INS-260330-8E8A` [high] New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.

@@ -50,14 +50,14 @@ resolutions:
 related:
   - INS-260323-C304
   - INS-260322-1C17
-  - INS-260323-DA13
   - INS-260326-8217
+  - INS-260323-DA13
   - PRI-260328-1D0B
   - INS-260330-5A66
   - INS-260326-C657
   - INS-260327-66AC
   - INS-260330-775F
-  - INS-260403-6620
+  - INS-260403-D99D
 stance: >-
   Leaders who stall on giving feedback to gather 'objective evidence' let
   emotional resentment compound

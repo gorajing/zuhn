@@ -51,13 +51,12 @@ stance: >-
   than the designed product, because byproducts serve adjacent ecosystems the
   original system never targeted
 related:
-  - INS-260330-19C3
   - INS-260330-C607
   - INS-260403-D85D
+  - INS-260403-882A
   - INS-260330-0CFF
   - INS-260330-E786
   - INS-260330-41F6
-  - INS-260330-C7C2
 evidence:
   - id: INS-260330-C607
     type: EXTENDS

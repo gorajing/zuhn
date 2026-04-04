@@ -9,6 +9,7 @@
 - `INS-260403-D85D` Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all complex animal life — side effects of a process can eclipse the intended output in value.
 - `INS-260330-19E1` Midgley rejected ethanol (safe, effective, but low-margin) in favor of tetraethyl lead (cheap, high-margin, known toxic) — a decision that generated ~$3B in profits but caused an estimated 100 million deaths globally.
 - `INS-260330-2CFA` Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.
+- `INS-260403-882A` Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
 - `INS-260330-3CD9` Critical decisions must be evaluated through every employee's eyes, not just the people directly involved.
 - `INS-260330-5B0C` Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.
 - `INS-260330-725C` Critical decisions must be evaluated through the eyes of every employee, not just the people in the conversation.

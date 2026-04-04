@@ -52,6 +52,7 @@ related:
   - INS-260330-0CFF
   - INS-260330-41F6
   - PRI-260403-53D6
+  - INS-260403-882A
   - INS-260403-B4F1
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen was literally waste — a byproduct of splitting water molecules to replace lost electrons. Yet this 'waste product' fundamentally transformed Earth's atmosphere and enabled the entire kingdom of aerobic life.

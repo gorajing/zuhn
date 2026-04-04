@@ -48,7 +48,6 @@ stance: >-
   harms fundraising because smart investors expect your model to be wrong and
   will remember you for the wrong thing.
 related:
-  - INS-260330-DF2C
   - INS-260402-5974
   - INS-260403-C625
   - INS-260403-600F

@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 167 insights
+> 170 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -38,6 +38,7 @@
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` [high] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
+- `INS-260403-481F` [high] Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
 - `INS-260403-600F` [high] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` [high] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
 - `INS-260403-270E` [high] Investors expect early business models to be wrong; pitching them crowds out what actually matters — the problem and product.
@@ -83,6 +84,7 @@
 - `INS-260330-1FE2` [high] File your 83b election within 30 days of purchasing restricted stock and keep proof — there is no do-over.
 - `INS-260403-78B7` [high] Investors become more interested when founders signal they'll execute regardless of funding, because genuine commitment reduces perceived startup death risk.
 - `INS-260403-0973` [high] Describe your startup as a specific thing rather than an abstract platform that could be anything.
+- `INS-260403-7964` [high] Approach your pitch description like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-9679` [high] Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
 - `INS-260403-B7B7` [high] Narrow your pitch description until it's concrete enough to stick, then expand incrementally.
 - `INS-260403-EE70` [high] Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.
@@ -103,6 +105,7 @@
 - `INS-260403-5B89` [high] Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
 - `INS-260403-77B4` [high] PG sent 10+ emails over a month pushing Fred Wilson toward Airbnb, each adding a new data point.
 - `INS-260403-17A3` [high] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
+- `INS-260403-3837` [high] Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
 - `INS-260322-A31D` [high] Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
 - `INS-260402-3FC5` [high] Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.

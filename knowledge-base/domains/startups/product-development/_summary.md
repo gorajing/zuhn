@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 138 insights
+> 139 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -68,6 +68,7 @@
 - `INS-260323-A7F6` [high] The most passionate (even abrasive) power users often make the best product builders — Blizzard secretly interviewed Jeff Kaplan over six months of lunches before hiring the guild leader who publicly told their competitor's devs to 'pull their heads out of their asses.'
 - `INS-260330-656A` [high] Oxygen — the gas all animal life depends on — was originally just a toxic waste product of plants splitting water to replace stolen electrons.
 - `INS-260330-1D9D` [high] Charge for your product as early as possible because paying customers give brutally honest feedback that free users won't.
+- `INS-260403-3F05` [high] RuBisCo shows how early design choices become permanent constraints that systems compensate around rather than replace.
 - `INS-260324-D5FE` [high] In an era where every fast food chain had given up on innovation, Popeye's chicken sandwich created a viral sensation that put the brand on par with KFC — proof that customers will always reward genuine product merit.
 - `INS-260325-78E9` [high] A professional hairdresser with no archaeology training solved the mystery of ancient Roman hairstyles that had stumped academics for centuries — embodied skill reveals what theory cannot.
 - `INS-260330-8D34` [high] A clear set of 'why are we building this' statements serves as both creative constraint and trade-off arbiter across all teams.

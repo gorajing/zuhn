@@ -50,7 +50,6 @@ stance: >-
   infuriating to outside observers at the time of announcement, and this pattern
   is a feature of venture capital, not a bug.
 related:
-  - INS-260320-703F
   - INS-260322-98D2
   - INS-260328-6F5B
   - INS-260328-3F19

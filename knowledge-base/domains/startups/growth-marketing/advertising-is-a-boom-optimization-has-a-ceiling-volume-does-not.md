@@ -48,7 +48,6 @@ stance: >-
   can scale 100x.
 related:
   - INS-260325-9C89
-  - INS-260323-7F22
   - INS-260325-C8D5
   - INS-260321-E8CB
   - INS-260323-D6F2
@@ -57,6 +56,7 @@ related:
   - INS-260329-D8BC
   - INS-260329-49A4
   - INS-260329-6859
+  - INS-260329-F6E1
 evidence:
   - id: INS-260325-9C89
     type: TRANSFERS_TO

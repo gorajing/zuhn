@@ -58,6 +58,7 @@ related:
   - INS-260403-C5C0
   - INS-260403-B216
   - INS-260403-915E
+  - INS-260403-1E82
 ---
 Graham argues that most investors at demo day lack the technical background and time to properly evaluate what a startup has built. In this information-poor environment, the founder's own confidence in their work becomes the dominant signal. But this confidence must be demonstrated, not declared — saying 'we're passionate' or 'our product is great' is actively counterproductive because audiences either ignore such claims or mark you as a bullshitter.
 

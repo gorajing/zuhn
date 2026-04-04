@@ -5,3 +5,4 @@
 - `INS-260403-1B2D` Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.
 - `INS-260403-B505` Never explicitly claim passion or greatness — audiences ignore or penalize it, but absorb the same message when conveyed implicitly through behavior and specifics.
 - `INS-260403-A290` Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
+- `INS-260403-1E82` Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.

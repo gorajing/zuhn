@@ -49,7 +49,6 @@ stance: >-
   competitors will not copy what they perceive as weaknesses.
 related:
   - INS-260322-1280
-  - INS-260327-7BE4
   - INS-260403-323A
   - PRI-260328-F0B4
   - PRI-260328-D5EB

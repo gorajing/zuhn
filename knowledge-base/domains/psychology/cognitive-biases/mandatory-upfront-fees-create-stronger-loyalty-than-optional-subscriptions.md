@@ -45,10 +45,10 @@ stance: >-
   rationalize non-participation.
 related:
   - INS-260403-B6FF
+  - INS-260403-C40D
   - INS-260329-EE04
   - INS-260403-35CB
   - INS-260327-9DA6
-  - INS-260403-A4EB
   - INS-260403-46BD
 ---
 Amazon Prime users self-sort — each individually calculating whether the subscription saves enough money. This creates loyalty but doesn't fundamentally change shopping behavior for those who don't subscribe. Costco's mandatory fee eliminates this calculation entirely: once you've paid $60-120, you stop comparing prices with competitors because not using the membership feels like waste. The psychological mechanism is stronger precisely because it's non-optional — there's no 'free tier' Costco experience to serve as a reference point. This principle extends beyond retail: any system where participation requires upfront commitment (gym memberships, annual software licenses, professional certifications) benefits from the same bias, but only if the post-commitment experience consistently validates the investment.

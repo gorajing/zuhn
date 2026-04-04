@@ -61,8 +61,8 @@ related:
   - INS-260403-304E
   - INS-260330-72E1
   - INS-260330-50B3
-  - INS-260330-F222
   - INS-260330-2CFA
+  - INS-260330-D304
 evidence:
   - id: INS-260326-BF32
     type: EXTENDS
