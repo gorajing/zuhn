@@ -1,7 +1,7 @@
 # Tag: meditation
 
-- `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
+- `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration.
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260330-9743` The consciousness aware of sadness is not itself sad — awareness functions like an unblemished mirror.
 - `INS-260330-BE4D` Consciousness is like a mirror that reflects ugly or beautiful images without itself being changed.

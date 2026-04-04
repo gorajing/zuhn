@@ -9,13 +9,13 @@
 - `INS-260403-CAE5` On-orbit satellite servicing — extending satellite life, repositioning, and deorbiting — will transform space economics the same way gas stations and highway maintenance transformed automotive economics.
 - `INS-260403-C032` Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
 - `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
-- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260327-D25D` Christianity spread across the Roman Empire's road network, administrative structure, and urban hierarchy — then outlasted the empire itself by inheriting its institutional infrastructure.
 - `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
+- `INS-260330-9931` A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260403-D198` Highly specialized markets like startups and trading still cluster geographically because in-person interaction enables deal velocity that technology cannot yet match.
 - `INS-260330-6D2E` Tribal networks are uniquely powerful because members actively and intentionally build value for each other and defend the network, unlike other network effects where value creation is a passive byproduct.
-- `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260330-C8D7` Research shows that population density and inter-group knowledge transfer — not individual brilliance — determine cultural complexity, with isolated groups like Easter Island reliably degenerating in capability.
+- `INS-260330-09DE` Photosynthesis is 'complicated, inefficient and confusing' yet dominates all life on Earth because it achieved planetary scale before any competitor could emerge.
 - `INS-260403-1B9E` Founders copy each other's funding strategies as fast as they copy tech stacks, so one visible bootstrapped success could shift industry norms.
 - `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
 - `INS-260403-87CF` Once a startup hub reaches critical mass, it's the people — not tax breaks, office space, or weather — that sustain the ecosystem.
@@ -23,6 +23,8 @@
 - `INS-260330-D824` WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260404-F6ED` Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
 - `INS-260330-DE2B` The largest extension marketplace creates a self-reinforcing adoption loop that competitors cannot easily replicate.
+- `INS-260402-70FD` Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.
+- `INS-260329-D1B0` Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260403-8F6E` Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.
 - `INS-260330-D108` Photosynthesis 'rather sucks' — it's complicated, inefficient, and confusing — yet it powers all complex life because it was first and sufficient.
 - `INS-260403-6412` Fintech components reduce multi-tenanting and disintermediation by making the platform essential to the transaction itself.
@@ -37,11 +39,8 @@
 - `INS-260403-CA93` Unlike agriculture, cities, and industrialization which all spread widely, the startup revolution may remain concentrated in a few dominant hubs.
 - `INS-260403-CE7C` Durability comes from five compounding forces that must be designed into the business from the start, not bolted on later.
 - `INS-260403-C381` Cheaper startups create lighter, more mobile founding teams that flow toward existing hubs, reinforcing rather than disrupting geographic concentration.
-- `INS-260402-70FD` Florence produced Leonardo not because of genetics but because of talent density — a thousand potential Leonardos in modern America go unrealized without the right environment.
-- `INS-260329-D1B0` Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260323-7AF7` Kreischer's analysis of Rogan: instead of being the funniest person in every room, Rogan made his podcast a platform to elevate others — and now 8 of his 10 closest friends do arenas.
 - `INS-260329-DD01` Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260403-C161` Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
 - `INS-260403-1DE4` Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 - `INS-260330-D711` The Mongol Empire's most lasting contributions — revived Silk Road trade, the yam communication system, cross-cultural exchange — were infrastructure plays, not military victories.
@@ -52,6 +51,7 @@
 - `INS-260403-1AD3` Startup ecosystems need a critical mass threshold before they become self-reinforcing through network effects.
 - `INS-260403-13E6` Social connection — not entertainment or utility — is what drives technology from niche to mass adoption.
 - `INS-260330-7D6D` Telecom monopolies in Africa ensured quick universal adoption of mobile money by eliminating the fragmentation that plagues payment apps in competitive markets.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
 - `INS-260330-059C` ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
 - `INS-260330-931A` Uber's playbook of subsidizing rides to build a loyal user base before regulators could act turned public support into a political shield.
 - `INS-260327-B357` Intuit's accountant channel drives faster sales cycles, higher retention, and broader product adoption — but only because they invest in making accountants genuine partners who use the product themselves, not just resellers.
