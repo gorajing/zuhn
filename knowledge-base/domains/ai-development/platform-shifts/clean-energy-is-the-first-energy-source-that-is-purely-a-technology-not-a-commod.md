@@ -50,10 +50,10 @@ stance: >-
   fuels structurally cannot.
 related:
   - INS-260325-722C
+  - INS-260403-E52B
   - INS-260325-3CB5
   - INS-260323-F528
   - INS-260322-8147
-  - INS-260403-D543
 evidence:
   - id: INS-260323-F528
     type: EXTENDS

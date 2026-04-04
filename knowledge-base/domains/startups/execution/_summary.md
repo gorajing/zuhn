@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 197 insights
+> 198 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -117,6 +117,7 @@
 - `INS-260327-DB8F` [high] PMF is not strategy—it's the volume of genuine user conversations you have.
 - `INS-260329-D1B0` [high] Being around people at the next level reveals the invisible beliefs holding you back that you can't discover alone.
 - `INS-260402-E148` [high] Job listings are the most honest public signal of a competitor's technical capability because they must be specific to attract the right candidates.
+- `INS-260403-E52B` [high] The Calvin Cycle produces 6 G3P molecules but 5 must regenerate the starting material—only 1 leaves as net output, revealing the true cost of sustaining a production cycle.
 - `INS-260402-841D` [high] Releasing early transforms problems from interesting puzzles into urgent fires, which is precisely why founders resist it and why it works.
 - `INS-260327-8D5D` [high] Anderson replaced Bayer's annual budgeting with two tiers: a fixed high-level commitment to investors, and a fluid 90-day resource pool where 10-15% of people move between teams each cycle.
 - `INS-260402-529F` [high] Starting small and growing incrementally lets you build things too ambitious to have planned upfront.

@@ -47,7 +47,6 @@ stance: >-
   work.
 related:
   - INS-260325-F6CD
-  - INS-260330-BA71
   - INS-260403-03BD
   - INS-260403-2B63
   - INS-260327-0E57

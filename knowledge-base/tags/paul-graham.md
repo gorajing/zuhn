@@ -6,8 +6,8 @@
 - `INS-260330-923F` A crowded market is a positive signal — it proves demand exists and no solution is good enough — while competitor-free markets are a red flag.
 - `INS-260403-FE00` Beating a monopoly requires redefining the problem space so the incumbent's strengths become irrelevant, not building a marginally better version of their product.
 - `INS-260403-37FD` Well-funded startups are often too busy spending money to ship good software, making the competitive landscape far less threatening than it appears.
-- `INS-260403-99B1` Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260403-862E` Genuine problem interest predicts startup success better than ambition for money or status.
+- `INS-260403-99B1` Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - `INS-260403-DFBC` Future generations will view waiting for symptoms before diagnosing disease the way we view pre-anaesthesia surgery — as needlessly barbaric.
 - `INS-260403-294D` The startup edge is applying disproportionate brainpower to mundane problems that large companies delegate to average employees.
 - `INS-260330-0346` Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
@@ -21,6 +21,6 @@
 - `INS-260403-710A` Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 - `INS-260403-B6A0` Making something dramatically cheaper doesn't just expand the existing market—it creates qualitatively new use cases, as seen from Roman water mills to personal computers.
 - `INS-260330-8FD6` Airbnb's photography service started with Chesky personally photographing one host's home, then spreadsheets managing contract photographers, and only built technology after hundreds of photographers proved the perfect service model.
-- `INS-260403-6279` History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.
 - `INS-260403-58BB` Target markets that are small today but have a built-in expansion mechanism, like Apple selling computers in 1976 to hobbyists before everyone wanted one.
 - `INS-260330-CFBA` Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
+- `INS-260403-6279` History shows that the biggest companies started by doing something that seemed small and unimportant, then expanded from a working beachhead.

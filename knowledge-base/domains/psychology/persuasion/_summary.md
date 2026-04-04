@@ -1,7 +1,8 @@
 # Topic: persuasion
 
-> 26 insights
+> 29 insights
 
+- `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-B12E` [high] Saying 'nothing could go wrong' destroys credibility — genuine experts enumerate risks in detail because deep knowledge reveals more failure modes.
 - `INS-260403-C37D` [high] Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
 - `INS-260403-560A` [high] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
@@ -13,6 +14,7 @@
 - `INS-260403-F171` [high] Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260330-5BEB` [high] The Black Legend pattern shows how condemning a rival's cruelty becomes moral cover for your own imperial ambitions.
 - `INS-260330-9DC9` [high] Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
+- `INS-260403-6E9F` [high] True refutation demands stating the opponent's main claim before dismantling it, which forces intellectual honesty.
 - `INS-260330-4E09` [high] Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
 - `INS-260330-E3D3` [high] Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
 - `INS-260403-3421` [high] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
@@ -27,4 +29,5 @@
 - `INS-260403-941F` [medium] Create a single sticky phrase like 'the X of Y' that anchors you in evaluators' minds — if you can't compress your startup into one phrase, your plans aren't focused enough.
 - `INS-260403-6E11` [medium] The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260403-81CE` [medium] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
+- `INS-260403-0AF4` [medium] Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
 - `INS-260330-80AF` [medium] Swear words across languages tend to be short with hard consonants because cultural selection favors words that can be deployed rapidly and with maximum percussive impact.

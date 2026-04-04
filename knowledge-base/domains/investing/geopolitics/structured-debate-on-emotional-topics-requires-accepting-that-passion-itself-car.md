@@ -47,11 +47,11 @@ resolutions:
     likelihood of compromise. Suppressing emotion can produce a more orderly
     discussion but a less informative one.
 related:
+  - INS-260403-500F
   - INS-260322-AB55
   - INS-260326-8217
   - INS-260323-3858
   - PRI-260323-36A6
-  - PRI-260403-88F5
   - INS-260330-16CD
 stance: >-
   In debates on deeply emotional geopolitical topics, the anger and frustration

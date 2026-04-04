@@ -50,11 +50,11 @@ stance: >-
   self-fulfilling prophecies that cost more in foregone capability than any
   external distraction.
 related:
+  - INS-260403-ED1F
   - INS-260326-C692
   - INS-260329-B0F4
   - INS-260322-C6CE
   - INS-260329-28A6
-  - INS-260323-53FF
 evidence:
   - id: INS-260326-C692
     type: TRANSFERS_TO

@@ -52,8 +52,8 @@ related:
   - INS-260320-10CC
   - INS-260402-AD42
   - PRI-260328-6CEC
+  - INS-260403-DE45
   - INS-260403-6620
-  - PRI-260323-FA42
 evidence:
   - id: INS-260320-10CC
     type: EXTENDS

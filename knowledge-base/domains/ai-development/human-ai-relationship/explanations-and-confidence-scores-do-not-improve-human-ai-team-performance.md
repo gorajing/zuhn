@@ -44,10 +44,10 @@ stance: >-
   significantly affects the performance of human-AI systems.
 related:
   - INS-260330-7CFB
+  - INS-260403-61A1
   - PRI-260324-2C9F
   - INS-260330-9BB7
   - INS-260330-984C
-  - INS-260321-D959
 evidence:
   - id: INS-260330-7CFB
     type: CHALLENGES

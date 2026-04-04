@@ -44,11 +44,11 @@ related:
   - INS-260330-4DC5
   - INS-260330-FB5A
   - INS-260323-2D1D
-  - INS-260325-FA86
   - INS-260325-4C09
   - INS-260325-A72C
   - INS-260323-518A
   - INS-260330-63DD
+  - INS-260402-A94F
 stance: >-
   The biggest scientific advances came from deleting assumptions (Earth is at
   rest, species are static) rather than adding new theories

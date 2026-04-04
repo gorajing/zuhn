@@ -3,9 +3,9 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 166 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 59 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 44 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 170 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 64 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 48 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -769,12 +769,14 @@ Generated on 2026-04-04 | 2421 sources
 | Having Kids | blog | 4 | 2026-03-31 |
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
+| How to Disagree | blog | 4 | 2026-03-31 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
+| It's Charisma, Stupid | blog | 4 | 2026-03-31 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
 | Life is Short | blog | 4 | 2026-03-31 |
@@ -790,6 +792,7 @@ Generated on 2026-04-04 | 2421 sources
 | Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 4 | 2026-03-30 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
+| SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
 | Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
 | The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
@@ -2054,7 +2057,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to Build AI Product Strategy (By OpenAI’s Product Lead) | blog | 0 | 2026-03-30 |
 | How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 0 | 2026-03-30 |
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
-| How to Disagree | blog | 0 | 2026-03-31 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 0 | 2026-03-30 |
 | How to Lose Time and Money | blog | 0 | 2026-03-31 |
@@ -2079,7 +2081,6 @@ Generated on 2026-04-04 | 2421 sources
 | Is this the end of SaaS?🤔, Venture debt investments swell in Europe💰, Navigating Corporate Venture Capital💡 | blog | 0 | 2026-03-30 |
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
-| It's Charisma, Stupid | blog | 0 | 2026-03-31 |
 | Java's Cover | blog | 0 | 2026-03-31 |
 | Keep Your Identity Small | blog | 0 | 2026-03-31 |
 | Learn With Me | blog | 0 | 2026-03-30 |
@@ -2155,7 +2156,6 @@ Generated on 2026-04-04 | 2421 sources
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 0 | 2026-03-30 |
-| SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 0 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 0 | 2026-03-30 |
 | Saudi Arabia Plans $40 Billion Push Into Artificial Intelligence💰, What Is A "Good" VC?💡, SaaS Growth Report☁️ & more! | blog | 0 | 2026-03-30 |
 | Schlep Blindness | blog | 0 | 2026-03-31 |

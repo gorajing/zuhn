@@ -1,11 +1,12 @@
 # Topic: communication
 
-> 21 insights
+> 22 insights
 
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
 - `INS-260403-37D9` [high] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260330-365B` [high] When exaggerated claims are excused as 'pointing in the right direction,' everyone ratchets up rhetoric until opponents seem like existential threats, enabling real political violence.
+- `INS-260403-F60A` [high] Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 - `INS-260403-0479` [high] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-3570` [high] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-7E66` [high] Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.

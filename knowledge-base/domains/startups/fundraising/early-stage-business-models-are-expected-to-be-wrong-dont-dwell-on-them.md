@@ -56,7 +56,6 @@ related:
   - INS-260403-0267
   - INS-260403-1290
   - INS-260403-A709
-  - INS-260403-E319
 ---
 Graham recounts a VC who invested in a company despite knowing their business model was wrong — he expected it to be wrong at that stage, even though the founders were experienced repeat entrepreneurs. The implication is stark: if even seasoned founders get business models wrong early on, spending your limited pitch time on one is doubly wasteful.
 

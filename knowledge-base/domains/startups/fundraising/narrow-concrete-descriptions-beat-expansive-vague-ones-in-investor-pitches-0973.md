@@ -57,7 +57,7 @@ related:
   - INS-260403-41FF
   - INS-260403-047B
   - INS-260403-C610
-  - INS-260403-B3A4
+  - INS-260403-6712
 ---
 When founders try to capture every possibility their product might become, the description loses all information content — investors discard it as meaningless boilerplate. Paul Graham frames this as a calculus limit: as you approach a description of 'anything,' content approaches zero.
 

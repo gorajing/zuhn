@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 223 insights
+> 224 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -208,6 +208,7 @@
 - `INS-260330-B5BF` [medium] Your most authentic purpose signals come from pre-puberty childhood inclinations before social conditioning buried them.
 - `INS-260330-423B` [medium] Rogan argues that bombing repeatedly in comedy forces you to develop a genuine philosophy and unique perspective on life because you must confront why you're not connecting with audiences.
 - `INS-260330-B784` [medium] Goggins compensates for ADHD by writing material repeatedly until each page becomes a retrievable visual image during tests.
+- `INS-260403-2DC0` [medium] Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
 - `INS-260403-E9DD` [medium] Traditional education's emphasis on obedience and standardization produces wisdom at the expense of intelligence by suppressing the idiosyncratic interests that drive peak performance.
 - `INS-260330-2DB0` [medium] Reinventing concepts through play before formal study turns them into 'familiar friends' rather than arbitrary definitions.
 - `INS-260329-18BB` [medium] Marathon-format tutorials exploit commitment psychology — once a learner invests 30+ minutes, sunk cost and flow state reduce the probability of abandonment compared to a series where each video is a natural exit point.

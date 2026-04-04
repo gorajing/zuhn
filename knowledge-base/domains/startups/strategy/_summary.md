@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 164 insights
+> 165 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -81,6 +81,7 @@
 - `INS-260403-E796` [high] Early commitment to a 'good enough' approach creates lock-in that persists even when the approach becomes demonstrably suboptimal.
 - `INS-260330-026F` [high] Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
 - `INS-260330-4983` [high] RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
+- `INS-260403-335F` [high] RuBisCo shows how a 'good enough' early bet can permanently lock a system into managing costly workarounds rather than redesigning.
 - `INS-260329-CB6D` [high] The four types of leverage—labor, capital, code, content—compound multiplicatively, with permissionless forms (code, content) creating the largest fortunes.
 - `INS-260324-224B` [high] Axon was a struggling single-product startup for a decade — then police accountability protests created massive bodycam demand, and the company snowballed tailwinds into a market-defining position.
 - `INS-260330-0027` [high] PFAS have reached planetary saturation where rain itself contains unsafe levels of at least four PFAS species, found on every continent including Antarctica and in virtually 100% of human blood samples.

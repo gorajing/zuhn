@@ -3,6 +3,8 @@
 - `INS-260403-330E` In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260330-5C64` Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260403-97F8` Switching costs should be deliberately architected into the business model, not left as a byproduct of product stickiness.
+- `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
+- `INS-260330-BFA2` RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
 - `INS-260330-E039` RuBisCo is bad at its job but became the most abundant protein on Earth (40 billion tons) because early plants scaled it before alternatives evolved.
 - `INS-260330-9A60` Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
 - `INS-260403-962E` RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
@@ -24,12 +26,11 @@
 - `INS-260330-3EE4` RuBisCo is terrible at distinguishing CO2 from O2 but dominates because plants went all-in before the environment changed, illustrating how early adoption creates irreversible lock-in.
 - `INS-260330-0E1E` RuBisCo is a slow, error-prone enzyme that life committed to early and now cannot replace despite 40 billion tons of it being needed to compensate for its inefficiency.
 - `INS-260330-4C3A` RuBisCo is a terrible enzyme that plants can never replace because their entire metabolism depends on it — a biological case study in permanent lock-in from early architectural decisions.
-- `INS-260403-2457` RuBisCo is terrible at its job but 450 million years of biological investment make it irreplaceable — the same pattern traps startups in early architectural choices.
-- `INS-260330-BFA2` RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
 - `INS-260403-D482` RuBisCo is terrible at its job but plants went all-in on it 450 million years ago and still produce 40 billion tons of it rather than evolve a replacement.
 - `INS-260330-0371` Despite widespread distrust of Facebook's data practices, WhatsApp users stay because migrating their entire social graph to Signal or Telegram is costlier than accepting privacy erosion.
 - `INS-260330-1A23` Free samples designed to eliminate the user's ability to revert create permanent lock-in.
 - `INS-260330-F7F4` Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
+- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260330-0B4A` RuBisCo — the most abundant protein on Earth at 40 billion tons — is demonstrably bad at its job, confusing O2 for CO2 half the time, yet plants are permanently locked into it.
 - `INS-260330-53A9` RuBisCo fails ~50% of the time but plants compensate with 40 billion tons of it rather than evolving a replacement — a textbook case of strategic lock-in.
 - `INS-260330-54ED` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a replacement, illustrating how early commitment to a suboptimal strategy creates permanent compensatory overhead.
@@ -38,6 +39,7 @@
 - `INS-260403-E796` Early commitment to a 'good enough' approach creates lock-in that persists even when the approach becomes demonstrably suboptimal.
 - `INS-260330-026F` Plants' light reactions changed the atmosphere from high-CO2/low-O2 to the reverse, making RuBisCo's flaw permanent — the organism's own success created the environment that locked in its weakness.
 - `INS-260330-4983` RuBisCo is terrible at its job but 450 million years of built infrastructure makes replacing it impossible — the same dynamic traps companies on legacy systems.
+- `INS-260403-335F` RuBisCo shows how a 'good enough' early bet can permanently lock a system into managing costly workarounds rather than redesigning.
 - `INS-260330-EB48` RuBisCo is a terrible enzyme that plants can't replace because all of biology is built on it — a pattern that recurs in technology and business strategy.
 - `INS-260403-3946` RuBisCo is a terrible enzyme that won because it arrived first and scaled before alternatives could emerge.
 - `INS-260330-0B8D` RuBisCo is a bad enzyme that became irreplaceable because plants scaled around it before its environment changed.
@@ -45,4 +47,3 @@
 - `INS-260330-CBF8` Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
 - `INS-260330-4489` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
 - `INS-260330-3FCF` Evolution's RuBisCo strategy — flood the system with a mediocre enzyme rather than replace it — mirrors how startups accumulate technical debt and compensate with scale.
-- `INS-260403-D563` RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.

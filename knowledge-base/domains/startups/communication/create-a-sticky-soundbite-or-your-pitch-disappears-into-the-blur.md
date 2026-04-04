@@ -51,12 +51,13 @@ stance: >-
 related:
   - INS-260322-7B71
   - INS-260403-6F52
+  - INS-260403-0AF4
   - INS-260403-F171
   - INS-260403-FE37
   - INS-260403-2A1D
   - INS-260403-81CE
-  - INS-260403-941F
   - INS-260403-34C0
+  - INS-260403-941F
 ---
 Graham observes that professional investors hear enormous volumes of pitches, and after a while they all blur together. The first cut in evaluation isn't quality—it's simply being remembered. A descriptive 'soundbite' that encapsulates your startup serves as a cognitive anchor.
 

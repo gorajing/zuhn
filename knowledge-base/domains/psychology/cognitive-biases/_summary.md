@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 231 insights
+> 233 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -101,6 +101,7 @@
 - `INS-260330-AF47` [high] Poe's Law states that parody of extremism and sincere extremism are indistinguishable at their limits, making intent-based evaluation unreliable.
 - `INS-260330-9EBA` [high] The kilogram's name exists because 'grave' sounded too aristocratic during the French Revolution — supposedly objective standards are shaped by politics.
 - `INS-260330-A15F` [high] Bad decisions trigger escalating rationalization rather than course-correction, especially when peer groups reward continued commitment.
+- `INS-260403-61A1` [high] Pundits invent complex explanations when a simpler one (charisma) already fits the data.
 - `INS-260330-141E` [high] People systematically misrepresent their beliefs under social pressure, making public opinion appear more uniform than it actually is.
 - `INS-260330-8950` [high] WWII forced the question of whether Western industrial progress actually represents moral progress, revealing that advanced capability enables advanced destruction.
 - `INS-260329-55F7` [high] People trust their own conclusions far more than anything a salesperson tells them, so guide them to discover the answer rather than asserting it.
@@ -215,6 +216,7 @@
 - `INS-260327-399D` [medium] You don't have a consistent moral framework - nobody does - and pretending you do prevents the ethical development that comes from grappling with your actual contradictions.
 - `INS-260330-615D` [medium] The 'fall of Rome' in 476 CE is a misleading narrative — the empire continued for another 1000 years in the east, but our bias toward decline stories obscures ongoing transformation.
 - `INS-260330-FB34` [medium] Destin discovered he could not eliminate his steering bias but only re-designate it, suggesting cognitive biases are structural rather than removable.
+- `INS-260403-FAC0` [medium] People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 - `INS-260330-A484` [medium] People who appear unserious but deliver results are underestimated, while those who appear serious but underdeliver are overestimated.
 - `INS-260330-18F3` [medium] Racism functions as an epistemic bias — taking real but small group-level differences and exaggerating them into sweeping, dehumanizing caricatures far beyond what data supports.
 - `INS-260330-0DCA` [medium] Destiny identifies the 'conservative merry-go-round' where every problem is deflected to a root cause that cannot be directly addressed, preventing action on tractable improvements.

@@ -43,6 +43,7 @@
 - `INS-260329-9074` Variables create single points of change that prevent linear maintenance scaling in growing codebases.
 - `INS-260329-FEC5` The most effective way to teach any formal system is the natural language progression: learn words, then sentences, then paragraphs.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
+- `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
 - `INS-260329-48FD` Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
 - `INS-260329-196E` Implicit differentiation computes rates of change directly from the relationship between variables, without requiring one variable to be isolated as a function of the other.
@@ -69,15 +70,11 @@
 - `INS-260330-81D3` Learn programming patterns, not syntax—patterns transfer across languages while syntax is forgotten.
 - `INS-260329-20F8` Beginners fail because they assume computers infer intent, when computers only execute exact literal instructions.
 - `INS-260330-189F` 3Blue1Brown's approach of describing a neural network as 'just a function that takes 784 numbers and outputs 10' demonstrates that reframing complex systems through familiar concepts accelerates comprehension.
+- `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
 - `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
-- `INS-260325-2F12` Recognizing that 'sum of many small things' equals 'area under a curve' unlocks a universal problem-solving template.
 - `INS-260330-2689` The mathematician defines a vector by what you can do with it (add, scale), not by what it is — this yields maximum generality.
 - `INS-260330-B599` Physical reference objects inevitably change, so anchoring definitions to abstract constants eliminates silent drift.
 - `INS-260402-2C6B` Everyday words work fine in normal use but produce meaningless disputes when pushed into abstract territory, because they lack precise definitions.
-- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
-- `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
-- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
-- `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
 - `INS-260329-19B3` OOP's power comes from matching human cognitive patterns of categorization rather than from computational efficiency.
 - `INS-260329-DFDB` Layering simple, well-understood components produces more robust complex systems than designing bespoke monolithic solutions.
 - `INS-260329-B6A6` Layering complexity one concept at a time onto familiar examples builds more durable understanding than front-loading complete explanations.
@@ -85,6 +82,10 @@
 - `INS-260329-B22B` The surrogate vs. natural key choice embodies a universal trade-off between meaningful identifiers and stable abstractions.
 - `INS-260329-AC6E` Dr. Chuck starts his Python course with hardware architecture because understanding what the CPU, memory, and disk actually do prevents students from treating code as magic incantations.
 - `INS-260329-0F06` Abstract data types define behavior contracts while data structures provide specific implementations, and this separation principle applies far beyond programming.
+- `INS-260330-4D18` History repeatedly shows that purely abstract mathematical concepts — developed with no practical intent — later turn out to describe physical reality with precision.
+- `INS-260330-AE9C` Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
+- `INS-260325-D037` Einstein's equations predicted things Einstein himself did not expect — formal systems consistently outrun their creators' intentions.
+- `INS-260330-6E61` String theory proposes that all subatomic particles — quarks, neutrinos, electrons — are simply different vibrational modes of tiny strings, replacing thousands of seemingly unrelated particles with one elegant mechanism.
 - `INS-260403-F835` Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
 - `INS-260403-F9F0` When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.
 - `INS-260329-003B` Abstract data types teach that defining the 'what' before the 'how' is the single most important architectural decision.

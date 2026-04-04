@@ -54,8 +54,8 @@ related:
   - INS-260330-4E09
   - INS-260330-76DA
   - PRI-260403-57EC
+  - INS-260403-6E9F
   - INS-260330-CFEA
-  - INS-260330-A151
 evidence:
   - id: INS-260323-EF23
     type: EXTENDS

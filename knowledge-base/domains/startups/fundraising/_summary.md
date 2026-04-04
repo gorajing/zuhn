@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 146 insights
+> 151 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -18,6 +18,7 @@
 - `INS-260403-E319` [high] Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` [high] Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260403-FF86` [high] Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
+- `INS-260403-DE45` [high] Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.
 - `INS-260403-1217` [high] Low startup costs align founder and investor risk appetites by letting founders diversify across multiple ventures over time.
 - `INS-260402-E522` [high] The only real leverage in fundraising is genuinely not needing the deal, which requires the kind of determination that can't be faked.
 - `INS-260330-DEBC` [high] Email all investors simultaneously but schedule meetings three weeks out during the same week — this creates deal heat, signals you're not desperate, and keeps fundraising from dragging on.
@@ -39,6 +40,7 @@
 - `INS-260403-1852` [high] Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
 - `INS-260403-1290` [high] At the early stage, detailed business model discussions waste pitch time and can actively harm investor perception since models are expected to be wrong.
 - `INS-260403-A709` [high] VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
+- `INS-260403-A172` [high] Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
 - `INS-260322-A02C` [high] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
 - `INS-260403-5C8E` [high] Show confidence implicitly through how you present, never by explicitly stating 'we're passionate' or 'our product is great.'
 - `INS-260403-6620` [high] Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
@@ -81,6 +83,7 @@
 - `INS-260403-EE70` [high] Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.
 - `INS-260403-41FF` [high] Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-2204` [high] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
+- `INS-260403-6712` [high] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
@@ -98,6 +101,7 @@
 - `INS-260403-D99E` [high] Scientist-founders lose deals by prioritizing how cool the science is over how big the market opportunity is.
 - `INS-260403-1034` [high] Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
 - `INS-260328-D26B` [high] The Series A process — warm intros, long courtships, silent passes, opaque terms — hasn't changed since the 1980s despite seed-stage innovation.
+- `INS-260403-ED1F` [high] Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
 - `INS-260328-0C4C` [high] Standard Capital publishes its Series A term sheet publicly, takes 10% for a founder-chosen price, and promises a firm yes/no by a specific date.
 - `INS-260330-C8E1` [high] Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
 - `INS-260328-195E` [high] There are no successful value investors in startups -- trying to find the lowest-valuation, highest-revenue deals is a proven losing strategy because early-stage investing is fundamentally an art.
@@ -140,6 +144,7 @@
 - `INS-260403-C0D4` [medium] Photosynthesis produced oxygen as an unwanted byproduct that eventually enabled all complex animal life — the most consequential pivot in biological history.
 - `INS-260330-1002` [medium] Pony Ma secured critical early funding by telling investors 'if you don't fund us, Tencent will probably die' and admitting he wasn't sure how to monetize—his brutal honesty made investors trust him more than typical overconfident founders.
 - `INS-260327-DFF0` [medium] The era of $200M funds leading Series A rounds is over — the math on round sizes, follow-on reserves, and time-to-exit now demands billion-dollar vehicles.
+- `INS-260403-5106` [medium] High-charisma founders get more tolerance for past mistakes than low-charisma ones.
 - `INS-260328-3A00` [medium] YC's core advantage was being a software company built by someone who loved software and hated hiring people — Standard Capital is replicating this approach for Series A.
 - `INS-260330-A38C` [medium] Travis systematically learned when Lyft had investor meetings, then immediately contacted those same investors to announce Uber's upcoming round, causing investors to back out of Lyft deals.
 - `INS-260403-EE10` [medium] New investor archetypes will fill the early-stage vacuum because existing VCs cannot change their embedded risk profiles.

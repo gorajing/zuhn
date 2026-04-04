@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3336 actionable insights
+Generated on 2026-04-04 | 3347 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1016,6 +1016,7 @@ Generated on 2026-04-04 | 3336 actionable insights
 - [INS-260403-B462] Brand recognition is so powerful in art judgment that the Mona Lisa shown anonymously would be walked past by most viewers.
 - [INS-260403-57F6] Refusing to change your mind isn't neutral — it makes you progressively more wrong as reality diverges from your frozen beliefs.
 - [INS-260403-28C7] We misjudge unfamiliar experiences because negative moments are visible while positive ones are quiet and private.
+- [INS-260403-FAC0] People in passionate arguments are often arguing about two different things and sometimes even agree without realizing it.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1030,6 +1031,7 @@ Generated on 2026-04-04 | 3336 actionable insights
 - [INS-260403-37D9] Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - [INS-260403-7586] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - [INS-260403-9542] Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
+- [INS-260403-F60A] Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1551,6 +1553,9 @@ Generated on 2026-04-04 | 3336 actionable insights
 - [INS-260403-1B2D] Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.
 - [INS-260403-941F] Create a single sticky phrase like 'the X of Y' that anchors you in evaluators' minds — if you can't compress your startup into one phrase, your plans aren't focused enough.
 - [INS-260403-F171] Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
+- [INS-260403-6F65] Equal optimization on substance makes charisma the tiebreaker.
+- [INS-260403-6E9F] True refutation demands stating the opponent's main claim before dismantling it, which forces intellectual honesty.
+- [INS-260403-0AF4] Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2223,6 +2228,7 @@ Generated on 2026-04-04 | 3336 actionable insights
 - [INS-260403-3835] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - [INS-260403-30E5] When facing death, redirect all engineering effort to whatever closes revenue fastest — more code is worthless if the company dies.
 - [INS-260403-4328] Work expands or contracts to fill available time — forced scheduling from kids constrains but doesn't destroy productive output.
+- [INS-260403-E52B] The Calvin Cycle produces 6 G3P molecules but 5 must regenerate the starting material—only 1 leaves as net output, revealing the true cost of sustaining a production cycle.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2540,6 +2546,11 @@ Generated on 2026-04-04 | 3336 actionable insights
 - [INS-260403-1287] Letting founders take some money off the table during fundraising aligns their risk appetite with VCs rather than opposing it.
 - [INS-260403-ADB3] Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - [INS-260403-0551] No matter how strong your growth, never treat fundraising as guaranteed — always have a written plan B specifying exactly what you'll cut and when you'll switch.
+- [INS-260403-DE45] Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.
+- [INS-260403-A172] Smart investors expect early business models to be wrong and would rather hear about the problem you're solving than your guesses about monetization.
+- [INS-260403-6712] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
+- [INS-260403-ED1F] Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.
+- [INS-260403-5106] High-charisma founders get more tolerance for past mistakes than low-charisma ones.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

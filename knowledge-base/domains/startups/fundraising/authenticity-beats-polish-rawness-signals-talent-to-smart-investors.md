@@ -50,10 +50,10 @@ stance: >-
   conceals the raw talent that smart investors are actually looking for.
 related:
   - INS-260330-990F
+  - INS-260403-DE45
   - INS-260403-7586
   - INS-260403-915E
   - INS-260321-3521
-  - PRI-260328-26AA
   - INS-260403-0CA8
 ---
 Graham argues that smart investors at the early stage aren't looking for finished, smooth presentations — they're looking for raw talent. Two young hackers with no office and no business experience don't need to pretend otherwise, because Google was once exactly that. The superficial flaws are already priced in by experienced investors.

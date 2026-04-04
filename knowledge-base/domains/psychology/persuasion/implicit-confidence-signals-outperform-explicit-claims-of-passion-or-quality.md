@@ -50,10 +50,11 @@ stance: >-
   conviction is the single biggest evidence signal for non-technical evaluators.
 related:
   - INS-260403-2F22
-  - INS-260403-B505
   - INS-260403-5C8E
   - INS-260403-0F95
+  - INS-260403-ED1F
   - INS-260403-A290
+  - INS-260403-FAC0
 ---
 When audiences lack the technical background to evaluate what you've built, they fall back on proxy signals — and founder confidence is the single biggest one. But confidence must be implicit. Explicit claims like 'we're passionate' or 'our product is great' get ignored or worse, trigger bullshit detectors.
 
