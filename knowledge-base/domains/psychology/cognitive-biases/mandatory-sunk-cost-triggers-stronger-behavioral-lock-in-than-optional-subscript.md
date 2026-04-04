@@ -53,7 +53,6 @@ stance: >-
   cannot avoid the sunk-cost calculation on every purchase decision.
 related:
   - INS-260323-4AB5
-  - INS-260403-35CB
   - INS-260403-B6FF
   - INS-260403-546E
   - INS-260403-9104

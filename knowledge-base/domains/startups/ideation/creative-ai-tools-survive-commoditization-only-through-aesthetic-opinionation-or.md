@@ -57,9 +57,9 @@ resolutions:
 related:
   - INS-260322-B09B
   - INS-260322-F65F
+  - INS-260403-58DA
   - INS-260327-B403
   - INS-260327-30E4
-  - INS-260322-B392
   - INS-260330-548E
 stance: >-
   Basic image generation is being absorbed by foundation models, but creative

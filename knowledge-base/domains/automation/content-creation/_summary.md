@@ -1,7 +1,8 @@
 # Topic: content-creation
 
-> 12 insights
+> 13 insights
 
+- `INS-260403-1B0D` [high] Composing face-swap with inpainting solves the character consistency problem that previously made AI personas impractical.
 - `INS-260320-D58E` [high] An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260329-AB61` [high] CSV files are the universal adapter between business systems that were never designed to talk to each other.
 - `INS-260329-D868` [high] CSV import and text manipulation functions (LEFT, MID, RIGHT, CONCATENATE) are the most transferable spreadsheet skills because they bridge every system that exports data.

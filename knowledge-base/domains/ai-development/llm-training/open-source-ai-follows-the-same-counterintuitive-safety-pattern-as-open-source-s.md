@@ -48,11 +48,13 @@ resolutions:
 related:
   - INS-260325-C5AA
   - INS-260321-5DF8
+  - INS-260403-27F5
   - INS-260328-9B8A
   - INS-260323-BC61
   - PRI-260328-5464
   - INS-260323-365A
   - INS-260325-522A
+  - INS-260403-58DA
 stance: >-
   Zuckerberg argues open source AI models become safer through increased
   scrutiny, faster bug discovery, and rapid version rollouts

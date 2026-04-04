@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3605 actionable insights
+Generated on 2026-04-04 | 3607 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -84,6 +84,7 @@ Generated on 2026-04-04 | 3605 actionable insights
 - [INS-260329-9115] Cursor excels at quick tasks but degrades in long sessions; Windsurf is slower to start but more reliable for sustained building.
 - [INS-260329-FEBA] Rather than perfecting one massive prompt, the effective workflow is: prompt, see the result, make a small adjustment, repeat — each cycle taking minutes.
 - [INS-260330-264B] Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
+- [INS-260403-58DA] Fine-tuned open-source image models can now generate commercially viable photorealistic content indistinguishable from real photography.
 
 ## ai-development/ai-market-dynamics
 - [INS-260321-7C97] Software that makes you similar to everyone else (beta) will be replaced by AI/vibe-coding; software that expresses your competitive advantage (alpha) becomes more valuable.
@@ -410,6 +411,7 @@ Generated on 2026-04-04 | 3605 actionable insights
 - [INS-260329-5094] Spreadsheet decision matrices force you to name your criteria and weights before evaluating options, which counteracts gut-feel bias.
 - [INS-260330-E414] Recurring audience funding lets creators pursue ambitious projects that sponsors would reject as too risky or long-timeline.
 - [INS-260330-7DCF] Filling a scene with randomly positioned objects via a simple loop creates richer environments than manual placement.
+- [INS-260403-1B0D] Composing face-swap with inpainting solves the character consistency problem that previously made AI personas impractical.
 
 ## automation/n8n-workflows
 - [INS-260320-D3D5] Process items sequentially in n8n batch loops to respect API rate limits -- pull from a queue (e.g., Google Sheets rows), process one at a time, and skip already-completed items.

@@ -257,6 +257,7 @@ Generated on 2026-04-04 | 2421 sources
 | 2026 Tech Trends🔮, Startups That Win⚔️, Why Cambridge Associates Is Cautious⚠️ | blog | 5 | 2026-03-30 |
 | 28 Ways to Grow Supply in a Marketplace 📈 | blog | 5 | 2026-03-31 |
 | 3 ways to assess your innovation maturity: a webinar for CEOs and corporate innovators | blog | 5 | 2026-03-31 |
+| 35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley | blog | 5 | 2026-03-31 |
 | 500,000 | blog | 5 | 2026-03-31 |
 | 7-Day Workweeks in Startups: Growth or Burnout? | blog | 5 | 2026-03-30 |
 | 7 Ways To Tank Your Business Model | blog | 5 | 2026-03-31 |
@@ -839,6 +840,7 @@ Generated on 2026-04-04 | 2421 sources
 | Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
 | Cybersecurity’s Future Belongs to Startups | blog | 4 | 2026-03-31 |
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 4 | 2026-03-30 |
+| Dario Amodei, AGI, and the Long Game of Safe AI | blog | 4 | 2026-03-30 |
 | DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup Guide | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
@@ -872,6 +874,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
+| Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 4 | 2026-03-30 |
 | Investor Herd Dynamics | blog | 4 | 2026-03-31 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
@@ -975,6 +978,7 @@ Generated on 2026-04-04 | 2421 sources
 | AI Bubble: Nobody will pay for unsubsidised AI | Ed Zitron | youtube | 4 | 2026-03-23 |
 | AI hype is ‘grifting’ the SaaS industry | Ed Zitron | youtube | 4 | 2026-03-23 |
 | AI in 2026: 3 Predictions For What’s To Come (a16z Big Ideas) | youtube | 4 | 2026-03-22 |
+| AI influencers are getting filthy rich... let's build one | youtube | 4 | 2026-03-30 |
 | AI Is Coming For These 3 Industries In 2026 (a16z Big Ideas) | youtube | 4 | 2026-03-22 |
 | 하버드에서 가르치는 AI Native 강의 18분 요약 | HBS 렘 코닝 교수 | youtube | 4 | 2026-03-23 |
 | AI Overlords Are Engineering a Broke Society ft. Ed Zitron | youtube | 4 | 2026-03-23 |
@@ -1885,7 +1889,6 @@ Generated on 2026-04-04 | 2421 sources
 | 3 mistakes CEOs and CFOs make when investing in innovation | blog | 0 | 2026-03-31 |
 | 3 Ways Color-Coding Can Improve Story-Telling In Your Business Model Canvas | blog | 0 | 2026-03-31 |
 | 300+ VCs That Accept Cold Pitches — No Warm Intro Needed for Funding in 2025 | blog | 0 | 2026-03-30 |
-| 35 years of product design wisdom from Apple, Disney, Pinterest, and beyond | Bob Baxley | blog | 0 | 2026-03-31 |
 | 350+ Places to Post Your Startup: The Ultimate Launch List | blog | 0 | 2026-03-30 |
 | 350+ Places to Post Your Startup 📢 | blog | 0 | 2026-03-30 |
 | 4 Important Facts About Business Model Innovation For 2016 & Beyond | blog | 0 | 2026-03-31 |
@@ -2069,7 +2072,6 @@ Generated on 2026-04-04 | 2421 sources
 | 🤩 Community Wisdom: Understanding designer jargon, eng vs. PM responsibilities, finding user research participants, creating shareable usage stats, and roadmaps informing OKRs | blog | 0 | 2026-03-31 |
 | Copy What You Like | blog | 0 | 2026-03-31 |
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
-| Dario Amodei, AGI, and the Long Game of Safe AI | blog | 0 | 2026-03-30 |
 | Data-Driven Equity Splitting📊, The Path to PMF, Figma's $12.5 Bn Valuation🎨 | blog | 0 | 2026-03-30 |
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Cryptocurrencies | blog | 0 | 2026-03-30 |
@@ -2168,7 +2170,6 @@ Generated on 2026-04-04 | 2421 sources
 | How VCs Value Startups: Venture Capital Method Explained | blog | 0 | 2026-03-30 |
 | How You Know | blog | 0 | 2026-03-31 |
 | Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 0 | 2026-03-30 |
-| Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 0 | 2026-03-30 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
 | ​​IPO 2.0 update | blog | 0 | 2026-03-30 |
@@ -2396,7 +2397,6 @@ Generated on 2026-04-04 | 2421 sources
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
-| AI influencers are getting filthy rich... let's build one | youtube | 0 | 2026-03-30 |
 | Anti-Gravity Wheel? | youtube | 0 | 2026-03-30 |
 | Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 0 | 2026-03-30 |
 | Backspin Basketball Flies Off Dam | youtube | 0 | 2026-03-30 |

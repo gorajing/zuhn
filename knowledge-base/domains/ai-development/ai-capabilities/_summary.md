@@ -1,6 +1,6 @@
 # Topic: ai-capabilities
 
-> 98 insights
+> 99 insights
 
 - `INS-260321-E4EB` [very_high] AI made idea generation almost free, just as the internet made communication almost free — the bottleneck shifted to verification, evaluation, and filtering signal from noise.
 - `INS-260321-7D7C` [very_high] AI's superpower is breadth (trying every technique on every problem simultaneously), humans' is depth (cumulative progress from partial understanding). Science must restructure to exploit both.
@@ -45,6 +45,7 @@
 - `INS-260323-D18D` [high] LLMs training on AI-generated content creates a downward spiral of quality degradation that nobody is actively addressing.
 - `INS-260321-80A9` [high] Models simultaneously feel like a brilliant PhD and a 10-year-old — they're superhuman in RL-trained domains and mediocre outside them. This jaggedness doesn't improve with scale.
 - `INS-260330-5F36` [high] Replacing C++ heuristics with neural nets that directly output vectors instead of a 'giant bag of points' is the key architectural evolution.
+- `INS-260403-58DA` [high] Fine-tuned open-source image models can now generate commercially viable photorealistic content indistinguishable from real photography.
 - `INS-260323-7A50` [high] Just as ChatGPT needed a language model, robots need a world foundation model that understands gravity, friction, inertia, and cause-and-effect — trained in physics-grounded simulations.
 - `INS-260323-B47B` [high] NIST's post-quantum encryption standards use lattice-based problems in ~1000 dimensions where finding the closest vector is computationally infeasible for both classical and quantum machines.
 - `INS-260321-D959` [high] The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'

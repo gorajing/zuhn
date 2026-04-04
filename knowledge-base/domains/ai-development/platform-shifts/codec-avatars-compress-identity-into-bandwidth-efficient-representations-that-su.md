@@ -49,10 +49,11 @@ resolutions:
     process (hours in a lab), but Meta is working on reducing this to a 2-3
     minute phone scan.
 related:
-  - INS-260322-B09B
   - INS-260323-6908
   - INS-260329-22A8
+  - INS-260403-58DA
   - INS-260327-415B
+  - INS-260322-B09B
   - INS-260327-DCF8
 stance: >-
   Meta's codec avatars encode facial expressions into a compact model rather
