@@ -55,5 +55,6 @@ related:
   - INS-260403-7072
   - INS-260403-1949
   - INS-260403-419B
+  - INS-260404-B01F
 ---
 Graham references Sequoia's concept of 'proxy for demand' — what are people doing now with inadequate tools that demonstrates need for your product? This bottoms-up evidence of demand is far more compelling than top-down market sizing, which Graham dismisses as the startup equivalent of an aspiring actor citing Tom Hanks's salary. The most powerful version is when the founders themselves had the need (Apple, Microsoft, Yahoo, Google all grew from founder needs). The hierarchy is: your own need > needs of people you know personally > abstract market analysis. This reflects a deeper truth: specific numbers and concrete stories stick in investors' heads, while abstract claims about billion-dollar markets blur together across hundreds of pitches.

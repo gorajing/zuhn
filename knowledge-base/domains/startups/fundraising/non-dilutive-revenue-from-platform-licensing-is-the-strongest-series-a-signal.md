@@ -49,8 +49,8 @@ related:
   - INS-260322-3A00
   - INS-260403-4E71
   - INS-260327-C5D0
+  - INS-260404-621F
   - INS-260322-D58A
-  - INS-260327-5B47
 ---
 The current bar for biotech platform companies seeking Series A is dual proof: scientific progress toward the clinic AND commercial validation through pharma partnerships. Having a signed deal demonstrates that sophisticated buyers find your platform valuable, which de-risks the investment thesis for VCs.
 

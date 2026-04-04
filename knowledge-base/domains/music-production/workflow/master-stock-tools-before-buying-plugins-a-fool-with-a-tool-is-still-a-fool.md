@@ -46,7 +46,7 @@ related:
   - INS-260323-0539
   - INS-260403-4C61
   - INS-260330-A9F0
-  - INS-260320-77C2
+  - INS-260404-621F
 stance: >-
   Learn your DAW's stock EQ, compression, synths, and spatial effects before
   buying any third-party plugins.

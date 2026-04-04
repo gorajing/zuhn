@@ -17,7 +17,6 @@ sources:
     title: 'After learning this, my AI workflows cost me 30x less'
     author: u/unknown
 related:
-  - INS-260320-508F
   - INS-260321-82FE
   - INS-260320-4993
   - INS-260320-DC3C

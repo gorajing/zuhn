@@ -51,11 +51,11 @@ related:
   - INS-260403-5BAC
   - INS-260403-36D8
   - INS-260403-887A
-  - INS-260403-115B
   - INS-260403-6670
   - INS-260403-E981
   - INS-260403-83A8
   - INS-260403-180D
+  - INS-260404-1843
   - INS-260403-DC2D
 ---
 Conventional retail wisdom says more selection attracts more customers. Costco inverts this by stocking only 4,000 unique items compared to a supermarket's 30,000 or Walmart's 140,000. This artificial scarcity transforms supplier dynamics — being one of only one or two choices in a category at Costco is enormously valuable, so suppliers voluntarily lower prices, re-engineer packaging (like the cashew container saving 24,000 pallets/year), and customize products.

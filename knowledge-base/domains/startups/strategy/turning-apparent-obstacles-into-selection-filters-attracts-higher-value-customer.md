@@ -53,8 +53,8 @@ related:
   - INS-260403-C40D
   - INS-260403-747B
   - INS-260403-0CF7
+  - INS-260404-01B1
   - INS-260403-2C00
-  - INS-260403-243A
 ---
 Costco's mandatory membership fee appears to be a fatal acquisition barrier — why would anyone pay to shop? But the fee acts as a selection mechanism: it filters for affluent households (average income ~$100K) and business buyers who purchase in volume. Business owners make up roughly one-third of members but account for two-thirds of sales. The sunk-cost psychology then locks these high-value customers in, reducing comparison shopping.
 

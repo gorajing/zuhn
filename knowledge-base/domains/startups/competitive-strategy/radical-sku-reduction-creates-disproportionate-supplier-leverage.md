@@ -47,10 +47,10 @@ stance: >-
   generates more negotiating power per SKU than any volume discount, because
   suppliers compete for scarce shelf positions.
 related:
-  - INS-260403-5BAC
   - INS-260403-887A
   - INS-260403-0DC2
   - INS-260403-180D
+  - INS-260404-1843
   - INS-260403-DC2D
   - INS-260403-83A8
 ---

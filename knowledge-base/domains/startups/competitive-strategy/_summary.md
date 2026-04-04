@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 491 insights
+> 493 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -317,6 +317,7 @@
 - `INS-260403-115B` [high] Costco stocks ~4,000 SKUs vs. Walmart's 140,000, making brands compete fiercely for limited shelf space and accepting lower margins to win placement.
 - `INS-260403-180D` [high] Costco stocks 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers compete on price and adapt products to Costco's specifications.
 - `INS-260403-36D8` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
+- `INS-260404-1843` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
 - `INS-260403-5BBC` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
 - `INS-260403-C949` [high] Recessions reduce startup competition because most potential founders irrationally wait for better times.
@@ -376,6 +377,7 @@
 - `INS-260330-DDF0` [high] Great founders locate where the strongest networks exist for their specific problem, not where startups generically cluster.
 - `INS-260325-F451` [high] Andy Raskin's strategic narrative framework: sell a movement (world shift), not a product — it unifies the entire organization around one story.
 - `INS-260330-F5D1` [high] Constantine moved the empire's center of gravity east toward trade and growth, letting the declining west fade — a strategic pivot that extended the empire by 1000 years.
+- `INS-260404-01B1` [high] Costco's $60-120 membership fee filters for households earning ~$100K, and business owners who comprise one-third of members but drive two-thirds of sales.
 - `INS-260325-1585` [high] Subscriptions shifted from delivering value to exploiting inertia — most extract more from convenience-addiction than they provide in service.
 - `INS-260330-9313` [high] Apple's high-quality iPhones flood secondary markets, forcing new models to compete against still-excellent used versions of themselves.
 - `INS-260330-27E8` [high] Onitsuka's betrayal forced Blue Ribbon Sports to create Nike — transforming them from a dependent distributor into a vertically integrated brand worth billions.

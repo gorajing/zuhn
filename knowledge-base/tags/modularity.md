@@ -7,6 +7,7 @@
 - `INS-260330-0CAD` Unix pipes demonstrate that composing small focused tools outperforms building large multipurpose ones.
 - `INS-260403-8125` Photosynthesis converts chaotic photon energy into standardized ATP/NADPH currencies before using them — a universal design pattern for managing complexity.
 - `INS-260403-7738` Photosynthesis routes energy through photons → excited electrons → proton gradients → ATP → G3P, losing energy at every step but enabling precise control at each stage.
+- `INS-260404-1CA4` The electron transport chain deliberately loses energy at each step to capture it in usable forms — a design pattern favoring reliability over theoretical efficiency.
 - `INS-260403-AC7A` Photosynthesis converts light to sugar not in one step but through a chain of intermediaries (excited electrons → proton gradient → ATP → G3P), each reusable across the organism.
 - `INS-260330-0017` The electron transport chain extracts energy through 4 sequential protein complexes rather than one reaction — a pattern that applies to any complex value-extraction pipeline.
 - `INS-260330-498B` Photosynthesis converts sunlight through 4+ protein complexes and multiple energy carriers rather than direct conversion, trading efficiency for modularity.

@@ -58,6 +58,7 @@ related:
   - INS-260403-BF47
   - INS-260403-FAE1
   - INS-260403-CED6
+  - INS-260404-837E
 ---
 Most companies treat loyalty programs as a retention layer on top of a markup-based business model. Costco inverts this: membership fees are the business model itself, not a bolt-on. Because 75% of profit comes from renewals, every pricing decision is evaluated against the question 'will this make members renew?' This creates a self-reinforcing loop — low markups (capped at 15%) drive renewals, renewals fund operations, and the company never faces the tension between short-term margin extraction and long-term customer trust.
 

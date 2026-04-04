@@ -48,6 +48,6 @@ related:
   - INS-260403-3F5F
   - INS-260403-CDB9
   - INS-260403-0650
-  - INS-260403-BF47
+  - INS-260404-837E
 ---
 Most retailers profit from markups, creating a fundamental tension: the company benefits when customers overpay. Costco inverts this by deriving 75% of profit from membership fees. This means every pricing decision optimizes for renewal (worth $60-120/year) rather than squeezing cents per transaction. The 15% maximum markup rule isn't charity—it's rational when raising prices risks losing a $60 annual fee. This model only works when membership volume is high enough to sustain operations, which explains why Costco's 90% renewal rate is existential, not just a vanity metric. The broader principle: shifting your revenue source can eliminate adversarial dynamics between company and customer.

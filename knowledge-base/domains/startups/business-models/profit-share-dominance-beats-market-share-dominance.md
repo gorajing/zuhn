@@ -47,7 +47,7 @@ related:
   - INS-260330-D071
   - INS-260403-5BBC
   - PRI-260328-6A8D
-  - INS-260330-2CE3
+  - INS-260404-837E
 ---
 Apple's iPhone strategy demonstrates that owning the high end of a market can be far more valuable than chasing market share. At its peak, Apple captured 94% of the smartphone industry's profits despite accounting for only 14.5% of unit sales. This inverts the conventional wisdom that scale and volume are prerequisites for dominance.
 

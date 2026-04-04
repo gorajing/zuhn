@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3664 actionable insights
+Generated on 2026-04-04 | 3669 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1632,6 +1632,7 @@ Generated on 2026-04-04 | 3664 actionable insights
 - [INS-260403-2F86] Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
 - [INS-260403-05DF] Never say 'we're passionate' or 'our product is great' — audiences ignore or penalize explicit self-praise, while implicit confidence through demeanor is the strongest early-stage signal.
 - [INS-260403-1EB3] Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
+- [INS-260404-58AE] Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1946,6 +1947,7 @@ Generated on 2026-04-04 | 3664 actionable insights
 - [INS-260403-7FBE] A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - [INS-260403-C5D8] If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
 - [INS-260403-BDBE] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
+- [INS-260404-621F] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2764,6 +2766,8 @@ Generated on 2026-04-04 | 3664 actionable insights
 - [INS-260403-24F0] Never say 'we're passionate' or 'our product is great'—investors ignore or penalize explicit self-promotion, responding only to demonstrated conviction.
 - [INS-260403-F981] As a startup description approaches capturing everything it could become, its informational content approaches zero.
 - [INS-260403-21C4] Creating a sticky descriptive phrase like 'the Microsoft Word of ecommerce' forces strategic clarity and ensures investors remember you.
+- [INS-260404-BF04] Mention you've thought about monetization, but spend your scarce minutes on the problem and solution where you have genuine expertise.
+- [INS-260404-9882] Approach your pitch like successive approximation: start grippingly narrow, then flesh out, rather than starting broad and hoping investors fill in the gaps.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3834,6 +3838,7 @@ Generated on 2026-04-04 | 3664 actionable insights
 - [INS-260403-C2CF] Investors' biggest early-stage fear is that you built from theory rather than need — specific user stories and 'proxy for demand' evidence directly neutralize this.
 - [INS-260403-CF0E] Launching fast matters not for market timing but because it initiates the real learning cycle about what to build.
 - [INS-260403-DFC3] Train your investment committee to judge evidence from experiments, not to judge ideas they personally like.
+- [INS-260404-B01F] Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

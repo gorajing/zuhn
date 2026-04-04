@@ -55,6 +55,7 @@ related:
   - INS-260403-D2FD
   - INS-260330-545E
   - INS-260403-2918
+  - INS-260404-1CA4
 ---
 Photosynthesis doesn't convert photon energy into ATP in a single step. Instead, excited electrons pass through four protein complexes, losing a small amount of energy at each stage — energy that gets captured as proton gradients and ultimately ATP. A single-step conversion would waste most of the energy as heat.
 

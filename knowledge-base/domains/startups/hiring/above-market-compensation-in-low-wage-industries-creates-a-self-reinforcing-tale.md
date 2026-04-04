@@ -52,6 +52,7 @@ stance: >-
   business model
 related:
   - INS-260327-D480
+  - INS-260404-0FE4
   - INS-260330-625B
   - INS-260403-E2D9
   - INS-260403-C125

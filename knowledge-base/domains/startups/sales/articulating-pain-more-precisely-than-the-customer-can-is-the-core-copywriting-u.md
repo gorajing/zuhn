@@ -49,7 +49,6 @@ stance: >-
   proof required.
 related:
   - INS-260325-7BE7
-  - INS-260320-080B
   - PRI-260320-D2E1
   - INS-260327-6D57
   - INS-260329-BE8E

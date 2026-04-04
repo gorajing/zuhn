@@ -50,7 +50,6 @@ stance: >-
   investors' first filtering cut is simply which startups they remember
 related:
   - INS-260321-E5C5
-  - INS-260320-080B
   - INS-260329-75B6
   - INS-260329-5B18
   - INS-260330-4AB1
@@ -59,6 +58,7 @@ related:
   - INS-260403-B3A4
   - INS-260403-85F1
   - INS-260403-26D3
+  - INS-260403-BFD1
 ---
 Professional investors hear so many pitches that they all blur together. The first filter isn't quality judgment — it's simply which ones they remember at all. A descriptive phrase that sticks ('the x of y' pattern) ensures you survive this cut. Viaweb used 'the Microsoft Word of ecommerce' — immediately graspable, memorable, and positioning.
 

@@ -44,7 +44,6 @@ stance: >-
   The inability to describe your startup in one compelling phrase signals
   insufficient strategic focus, not just poor communication
 related:
-  - INS-260322-7B71
   - INS-260320-080B
   - INS-260329-CEC5
   - INS-260329-EBBB
@@ -54,5 +53,6 @@ related:
   - INS-260403-0AF4
   - INS-260403-85F1
   - INS-260403-74DB
+  - INS-260404-621F
 ---
 Professional investors hear so many pitches they blur together. The first cut is simply being remembered, and a sticky descriptive phrase accomplishes this—Hollywood uses 'x meets y,' startups use 'the x of y.' But the deeper insight is that the exercise of creating this phrase is diagnostic: if you can't compress your startup into one compelling phrase, your plans may not be sufficiently focused. This means the soundbite serves double duty—it's both a communication tool for investors and a strategic forcing function for founders. Viaweb's 'the Microsoft Word of ecommerce' worked because it was genuinely what they were building. The phrase should be launched clearly but apparently casually, preferably near the beginning of the pitch.

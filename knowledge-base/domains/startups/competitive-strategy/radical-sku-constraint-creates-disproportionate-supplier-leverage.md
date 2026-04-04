@@ -49,7 +49,7 @@ stance: >-
   shelf positions, inverting the typical retailer-supplier power dynamic
 related:
   - INS-260403-5BAC
-  - INS-260403-36D8
+  - INS-260404-1843
   - INS-260403-0DC2
   - INS-260403-180D
   - INS-260403-E981

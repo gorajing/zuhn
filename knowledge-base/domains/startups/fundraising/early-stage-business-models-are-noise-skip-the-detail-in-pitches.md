@@ -55,6 +55,7 @@ related:
   - INS-260403-4A4A
   - INS-260403-A172
   - INS-260403-481F
+  - INS-260404-BF04
 ---
 Graham relays a VC who invested in experienced founders whose business model he knew was wrong, expecting it to change three times. The business model at seed stage is just guesses about areas outside your expertise. Worse, a spectacularly wrong model pushes the things you want investors to remember out of their heads — they'll remember you as 'the company with the boneheaded money plan' rather than 'the company solving that important problem.'
 

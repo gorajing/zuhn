@@ -55,6 +55,7 @@ related:
   - INS-260403-B7B7
   - INS-260403-9679
   - INS-260403-20D6
+  - INS-260404-9882
   - INS-260403-37E2
 ---
 When founders try to capture every possible future of their product, the description's information content approaches zero. Investors mentally discard sentences like 'a system to collaboratively leverage the value of information' as meaningless boilerplate. Graham's counterintuitive advice: begin with a description that feels too narrow ('an easy web-based database') because it actually registers in the investor's mind. You can expand from there, but you can't un-bore someone.

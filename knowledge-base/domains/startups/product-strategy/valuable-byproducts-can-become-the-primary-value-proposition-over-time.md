@@ -52,7 +52,7 @@ related:
   - INS-260330-90B6
   - INS-260403-5C74
   - INS-260403-726B
-  - INS-260403-99CE
+  - INS-260404-A51E
 ---
 Photosynthesis evolved to produce glucose for plant energy storage. Oxygen was a toxic waste product that nearly wiped out anaerobic life in the Great Oxidation Event. Yet oxygen became the foundation for all complex animal life — the byproduct eclipsed the primary product in planetary significance.
 
