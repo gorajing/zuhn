@@ -51,11 +51,11 @@ stance: >-
   biological mechanism and contradicts what we know about how stress, memory,
   and the brain actually work.
 related:
+  - INS-260403-94CA
   - INS-260330-0FBF
+  - INS-260403-79AF
   - INS-260330-5676
   - INS-260325-DF82
-  - INS-260330-A9F8
-  - INS-260327-684D
 evidence:
   - id: INS-260327-684D
     type: CHALLENGES

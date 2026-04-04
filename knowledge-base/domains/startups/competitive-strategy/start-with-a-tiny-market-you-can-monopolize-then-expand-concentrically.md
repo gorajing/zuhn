@@ -57,6 +57,7 @@ related:
   - INS-260330-43CF
   - INS-260330-391C
   - PRI-260403-5DEA
+  - INS-260403-31C2
 ---
 Thiel argues that every clean tech company failed partly because they all started with 'we're in the energy market' — a trillion-dollar ocean where you're a minnow with unknown competitors. In contrast, PayPal started with 20,000 eBay power sellers (seemingly terrible customers selling junk online), achieved 25-30% market penetration in months, built lock-in and brand recognition, then expanded. Facebook started with just 10,000 Harvard students and hit 60% in 10 days. Amazon started as a bookstore.
 

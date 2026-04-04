@@ -1,6 +1,6 @@
 # Topic: mental-models
 
-> 77 insights
+> 78 insights
 
 - `INS-260330-420B` [high] Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps.
 - `INS-260330-1C84` [high] Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
@@ -55,6 +55,7 @@
 - `INS-260330-D795` [high] Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
 - `INS-260330-9BB7` [high] Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
 - `INS-260330-6844` [high] Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
+- `INS-260403-6A77` [high] When an action and its reversal are coupled together, the net effect is always zero — apparent drama masks actual futility.
 - `INS-260330-F5CF` [high] Photosynthesis raised atmospheric oxygen levels that now cause RuBisCo to malfunction half the time, forcing plants to evolve elaborate detoxification pathways instead of fixing the enzyme.
 - `INS-260330-43D3` [high] Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
 - `INS-260330-16F0` [high] Replacing 30% of aerogel's OH groups with hydrophobic groups completely reverses it from water-absorbing to water-repelling.

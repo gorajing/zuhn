@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 311 insights
+> 312 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -96,6 +96,7 @@
 - `INS-260330-E4AD` [high] High-frequency waves dissipate faster than low-frequency ones, meaning distance acts as a natural low-pass filter on all wave-based information.
 - `INS-260403-4502` [high] Processes too fast for human perception contain mechanical structure only revealed through time-stretching observation tools.
 - `INS-260327-A3A2` [high] Humanity's technological power to affect planetary-scale change has grown exponentially while the wisdom to wield it has barely improved since ancient philosophy.
+- `INS-260403-EA82` [high] Human intuition breaks down when comparing quantities across many orders of magnitude, requiring concrete anchors to grasp true scale.
 - `INS-260327-8E9B` [high] When food choices become identity markers, consumers evaluate products based on tribal affiliation rather than taste, cr
 - `INS-260327-538D` [high] Indigenous peoples have accumulated millennia of ecological knowledge through direct observation that Western science is only now catching up to through formal methods.
 - `INS-260323-7212` [high] Network experiments show the world is 'poised on an edge of instability' where one person's choice can tip an entire system toward cooperation or defection.

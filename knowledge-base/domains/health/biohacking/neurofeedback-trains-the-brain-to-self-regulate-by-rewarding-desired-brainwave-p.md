@@ -57,8 +57,8 @@ related:
   - INS-260330-487E
   - INS-260330-95A5
   - INS-260330-6C6B
-  - INS-260330-D5DD
   - INS-260330-4079
+  - INS-260403-7342
 ---
 Van der Kolk describes neurofeedback as placing electrodes on the skull and rewarding brainwave patterns associated with calm and focus. The brain learns to produce these patterns more frequently, effectively reshaping its default configuration. His clinical results were strong enough to include it among his six primary trauma treatments.
 

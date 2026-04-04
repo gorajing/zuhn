@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 64 insights
+> 66 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
@@ -12,6 +12,7 @@
 - `INS-260330-F889` [high] Special relativity shows that even an object's shape is observer-dependent, challenging naive realism about 'objective truth.'
 - `INS-260403-15DA` [high] Haters and fanboys are structurally identical: both are obsessive, uncritical, and identity-fused with their target.
 - `INS-260330-4224` [high] Humans evolved uniquely white scleras not by accident but as a cooperation mechanism — making it easy for others to detect where we're looking, unlike predators who benefit from concealed gaze.
+- `INS-260403-5DD6` [high] When people overreact to small provocations, the real cause is usually a past experience their nervous system never fully processed, not a character deficiency.
 - `INS-260403-BADD` [high] Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
 - `INS-260330-CAD2` [high] Writing created a class distinction in Mesopotamia that persists in various forms to this day — those who control information access hold disproportionate power.
 - `INS-260330-6418` [high] The Women's March on Versailles was driven by grain hoarding rumors, not Enlightenment philosophy — material deprivation is the actual catalyst for collective action.
@@ -54,6 +55,7 @@
 - `INS-260403-A27F` [medium] Living in multiple countries trains you to question assumptions by default because your existing mental models repeatedly fail in unfamiliar contexts.
 - `INS-260403-CF23` [medium] Dopamine from novelty, risk, and complexity amplifies pattern recognition and drives motivation rather than serving as a reward signal.
 - `INS-260403-D16C` [medium] Physical clutter taxes cognition by forcing continuous environmental parsing.
+- `INS-260403-160C` [medium] When commonly used words have drifted far from their original meanings, people unknowingly talk past each other using the same vocabulary.
 - `INS-260330-5F6C` [medium] The brain treats novel sensory environments as threats initially but habituates within minutes, revealing that psychological resilience — not fragility — is the baseline.
 - `INS-260403-2702` [medium] Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260330-0764` [medium] Simply counting casualties without weighing intentions produces morally incoherent judgments about who is in the right.

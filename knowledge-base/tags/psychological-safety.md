@@ -1,6 +1,7 @@
 # Tag: psychological-safety
 
 - `INS-260403-5C89` Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
+- `INS-260403-E21C` Anonymous attribution rules produce more honest and valuable organizational learning than public case studies.
 - `INS-260403-97D6` Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 - `INS-260325-B8D4` The optimal failure response is 'forgive and remember' -- psychological safety for admission plus systematic learning from mistakes.
 - `INS-260325-887D` The three failure responses are forgive-and-forget (no learning), blame-and-humiliate (no honesty), and forgive-and-remember (learning happens) — only the third works.

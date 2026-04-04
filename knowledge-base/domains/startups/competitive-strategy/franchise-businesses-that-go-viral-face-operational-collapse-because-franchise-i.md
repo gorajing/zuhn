@@ -47,7 +47,6 @@ related:
   - INS-260330-D99D
   - INS-260327-048B
   - PRI-260328-5053
-  - INS-260403-94CA
   - INS-260330-EDAC
 ---
 When a franchise brand goes viral (Popeyes chicken sandwich), individual franchisees lack the operational infrastructure to handle demand spikes, creating negative customer experiences that damage the brand.

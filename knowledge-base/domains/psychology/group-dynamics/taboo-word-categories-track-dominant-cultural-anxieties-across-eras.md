@@ -54,5 +54,6 @@ related:
   - INS-260330-0FAF
   - INS-260330-6300
   - INS-260330-80AF
+  - INS-260403-160C
 ---
 The history of taboo language reveals a predictable pattern: the most 'forbidden' words in any era correspond to whatever that culture treats as sacred or anxiety-laden. In medieval Europe, the worst words were religious blasphemies because the supernatural order was paramount. During the Victorian period, bodily and sexual terms became maximally taboo as propriety and bodily control became cultural obsessions. In the contemporary West, identity-based slurs have risen to the top of the taboo hierarchy as social equality has become the dominant moral framework. This pattern is a powerful lens for cultural analysis — you can diagnose a society's deepest anxieties by examining which words it most aggressively polices. It also predicts that today's taboo categories will eventually shift as cultural values evolve.

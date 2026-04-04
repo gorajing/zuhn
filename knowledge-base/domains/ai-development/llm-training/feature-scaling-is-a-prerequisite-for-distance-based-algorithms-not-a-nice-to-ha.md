@@ -47,13 +47,12 @@ stance: >-
   StandardScaler normalization a mathematical necessity for algorithms like KNN
   and SVM
 related:
-  - INS-260323-527B
   - INS-260323-0919
   - INS-260329-D8BC
   - INS-260330-4824
   - INS-260330-649B
+  - INS-260403-EA82
   - PRI-260323-8E89
-  - INS-260323-7EEB
   - INS-260330-FF94
   - INS-260330-E4AD
   - INS-260330-CBFD

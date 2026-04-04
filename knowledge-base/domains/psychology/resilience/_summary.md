@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 143 insights
+> 145 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -80,6 +80,7 @@
 - `INS-260325-CA88` [high] Brain scans of people rejected in love show activity in the nucleus accumbens — the core addiction circuit activated by cocaine and heroin — plus physical pain regions, explaining why rejection can be more persistent than a toothache.
 - `INS-260329-0B76` [high] Sadness comes from perceived lack of options (solve with knowledge), anxiety from too many options without priorities (solve with a decision).
 - `INS-260330-59A4` [high] Self-awareness without self-acceptance makes the gap between who you are and who you want to be more painful, not less.
+- `INS-260403-0070` [high] Trauma recovery begins when a person can say 'this is what happened to me and my reactions make sense' rather than 'something is wrong with me.'
 - `INS-260329-3E3A` [high] The 'isms' you claim about yourself — I'm bad at X, I'm not a Y person — actively prevent you from becoming what you need to become.
 - `INS-260326-06A1` [high] Ego protection kills founders and strategic safety destroys relationships through the same mechanism -- shielding yourself from pain also shields you from the feedback required to change.
 - `INS-260329-4499` [high] Your self-respect degrades each time you break a promise to yourself, because you're the only one who knows your true capacity.
@@ -101,6 +102,7 @@
 - `INS-260326-7F56` [high] Worthiness is the sole differentiator — people who feel they belong simply believe they deserve to.
 - `INS-260325-C2DA` [high] During mass events like 9/11 or COVID-19, social contagion and affective forecasting bias make people unable to imagine their distress is temporary — this 'resilience blind spot' leads to overestimating lasting damage.
 - `INS-260325-F500` [high] Thoreau: deliberate simplicity strips away everything that is not life — the 'loser' who chooses less experiences more.
+- `INS-260403-94CA` [high] Trauma treatment that targets felt bodily safety outperforms purely cognitive interventions because trauma is stored somatically, not just mentally.
 - `INS-260403-D99D` [high] The instinct to resolve a hater's complaint like a normal dispute wastes time because the complaint is not the actual driver.
 - `INS-260325-3754` [high] Research consistently shows approximately two-thirds of people exposed to potentially traumatic events continue functioning normally — resilience is the norm, not the exception.
 - `INS-260327-ECBB` [high] Choosing to live with less than you can afford builds a psychological strength that living at maximum comfort systematically destroys.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3508 actionable insights
+Generated on 2026-04-04 | 3509 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1748,6 +1748,7 @@ Generated on 2026-04-04 | 3508 actionable insights
 - [INS-260403-A7FD] When the worst-case cost is trivial (a day's wages, some embarrassment), the decision to try is mathematically obvious.
 - [INS-260403-CE62] Act on problems immediately but accept that results in complex systems take time to materialize.
 - [INS-260403-7475] Body-based interventions outperform medication and pure talk therapy for trauma because trauma is stored in survival circuitry, not narrative memory.
+- [INS-260403-0070] Trauma recovery begins when a person can say 'this is what happened to me and my reactions make sense' rather than 'something is wrong with me.'
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.

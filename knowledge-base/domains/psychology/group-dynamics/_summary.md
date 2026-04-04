@@ -1,6 +1,6 @@
 # Topic: group-dynamics
 
-> 52 insights
+> 54 insights
 
 - `INS-260330-2EB0` [high] The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary.
 - `INS-260403-D609` [high] Enforcers of orthodoxy compete with each other, creating a race to the bottom where any borderline idea gets banned.
@@ -13,6 +13,7 @@
 - `INS-260403-8B13` [high] Conformism varies on two orthogonal axes — conventional/independent and passive/aggressive — creating four stable personality types observable from childhood.
 - `INS-260330-0FF7` [high] China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260330-6AC1` [high] Developer pecking orders reward complexity theater over actual delivery.
+- `INS-260403-3CFB` [high] The neocortex constrains stable social relationships to ~150-230 people, a biological limit unaffected by social media scale.
 - `INS-260403-2A50` [high] A population barely surviving only has energy to survive, while one tasting improvement develops the capacity and desire to demand more.
 - `INS-260330-6E4E` [high] Freedom is typically eroded through small, individually reasonable steps that each seem too minor to resist, not through dramatic confrontation.
 - `INS-260403-0C95` [high] Research on hunter-gatherers and organizations converges on 8 as ideal, 20 as hard to manage, and 50 as unwieldy—matching our evolutionary design.
@@ -40,6 +41,7 @@
 - `INS-260330-FB9C` [high] Adding unnecessary complexity (abstract factories, excessive type gymnastics) often functions as social dominance signaling rather than engineering improvement.
 - `INS-260403-DB0A` [high] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
 - `INS-260403-B9F4` [medium] Group settings amplify emotional reactions at the expense of intellectual processing, making audiences inherently less thoughtful than individual readers.
+- `INS-260403-E21C` [medium] Anonymous attribution rules produce more honest and valuable organizational learning than public case studies.
 - `INS-260403-7644` [medium] Organizations that win by exercising power gradually lose the ability to win by doing better work.
 - `INS-260330-B4BD` [medium] Two generations of one-child families made small families the cultural norm in China, rendering policy reversal largely ineffective.
 - `INS-260402-1CAD` [medium] Group identities persist because their arbitrary, irrational elements create the cohesion needed to carry beneficial beliefs as payload.

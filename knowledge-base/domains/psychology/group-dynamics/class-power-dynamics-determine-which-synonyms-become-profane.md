@@ -50,9 +50,9 @@ related:
   - INS-260330-9EBA
   - INS-260330-6300
   - INS-260330-0FAF
+  - INS-260403-160C
   - INS-260330-534C
   - INS-260330-5A9E
-  - INS-260330-24CD
 ---
 In medieval England, the lower-class Saxons spoke Germanic while the upper-class Normans spoke a French-Latin derivative. This class divide imprinted permanently on English: Saxon-origin words for bodily functions became vulgar while their Norman-Latin equivalents remained 'proper.' The same cow that Saxons raised (Germanic 'cow') became 'beef' (French 'boeuf') on Norman tables—and the same pattern created our profanity hierarchy.
 

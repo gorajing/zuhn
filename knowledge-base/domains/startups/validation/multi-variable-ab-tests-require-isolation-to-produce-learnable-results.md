@@ -46,9 +46,9 @@ stance: >-
 related:
   - INS-260403-0803
   - INS-260330-B50A
+  - INS-260403-E21C
   - INS-260402-7A1A
   - INS-260329-A024
-  - INS-260403-979D
 ---
 The article warns against testing multiple variables simultaneously — for example, changing both pricing and product naming in the same experiment. When results come in, it becomes impossible to attribute the outcome to either variable independently. The vegetable-vs-protein meal example illustrates this: was the cheaper option chosen for price or for dietary preference?
 

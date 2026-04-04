@@ -49,7 +49,6 @@ stance: >-
   elastically up to a specific threshold, beyond which permanent deformation
   occurs and no amount of recovery effort restores the original shape
 related:
-  - INS-260325-BBF1
   - INS-260330-CDF8
   - PRI-260327-0AA2
   - INS-260403-65D2

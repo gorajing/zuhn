@@ -46,7 +46,6 @@ stance: >-
   dysphemistic, abusive, idiomatic, emphatic, and cathartic — each exploiting
   taboo language for different social and emotional purposes
 related:
-  - INS-260330-3528
   - INS-260330-EA8B
   - INS-260330-5A9E
   - INS-260330-0FAF

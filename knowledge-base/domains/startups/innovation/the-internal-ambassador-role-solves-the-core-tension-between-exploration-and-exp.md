@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260403-9FE2
   - INS-260329-D1A1
+  - INS-260403-3326
   - INS-260403-0525
   - INS-260402-B817
-  - INS-260330-36DB
 ---
 The Chief Internal Ambassador addresses the fundamental paradox of corporate innovation: new ventures need the existing company's resources (customers, brand, salesforce, patents) to succeed, but the existing company's immune system tends to reject innovation efforts that threaten established processes. A dedicated ambassador with trust on both sides can negotiate access to these assets without triggering organizational antibodies.
 

@@ -48,11 +48,11 @@ stance: >-
   ratio (like Froude over Reynolds for wave dynamics) produces more accurate
   predictions than trying to match all variables simultaneously.
 related:
+  - INS-260403-EA82
   - INS-260330-4824
   - PRI-260323-8E89
   - INS-260323-144F
   - INS-260329-8407
-  - INS-260321-8C35
   - INS-260330-BFD0
 evidence:
   - id: INS-260329-8407

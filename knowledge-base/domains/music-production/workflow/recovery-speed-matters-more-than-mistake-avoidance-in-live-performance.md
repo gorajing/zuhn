@@ -49,7 +49,7 @@ related:
   - INS-260330-D0B4
   - INS-260330-C367
   - INS-260330-7AE9
-  - INS-260326-8E6D
+  - INS-260403-0070
 stance: 'The more times you fall off the cliff, the faster you learn to recover'
 evidence:
   - id: INS-260330-C367

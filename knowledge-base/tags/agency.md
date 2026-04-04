@@ -4,10 +4,10 @@
 - `INS-260325-BE19` Even in a deterministic universe, modeling yourself and others as choice-making agents is the right approach because no one can be Laplace's demon.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
 - `INS-260403-45E3` Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
-- `INS-260325-3223` Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control.
 - `INS-260325-C996` Psychologist Sonja Lyubomirsky estimates 50% of happiness is biological set point, 10% is circumstances, and 40% is under our control through deliberate choices.
 - `INS-260323-7212` Network experiments show the world is 'poised on an edge of instability' where one person's choice can tip an entire system toward cooperation or defection.
 - `INS-260325-922D` You control nothing but influence everything; every action has unforeseen ripple effects that reshape the future.
+- `INS-260325-3223` Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control.
 - `INS-260330-D2CE` Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
 - `INS-260330-EFF3` Viewing life as a single-player game removes victim mentality and returns control to the individual.
 - `INS-260329-A9B7` When you feel hopeless, interpret it as 'I don't know enough yet' rather than 'my situation is impossible' — ignorance is solvable, fate is not.

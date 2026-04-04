@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 128 insights
+> 129 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -116,6 +116,7 @@
 - `INS-260403-6061` [medium] Innovation culture transformation at scale takes 3-5 years with committed leadership; without leadership commitment, it takes forever.
 - `INS-260330-1F41` [medium] Banning Slack raises communication friction intentionally, keeping teams small, preventing asymmetric time-wasting, and protecting creative deep work.
 - `INS-260330-240A` [medium] Bacteria explored far more genetic sequence space than eukaryotes over 4 billion years yet never became complex — proving that more iteration on the same architecture cannot overcome structural energy constraints.
+- `INS-260403-3326` [medium] Scaling innovation in enterprises requires dedicated structures, not just individual champions evangelizing the methodology.
 - `INS-260403-C05F` [medium] Combining specialized innovation programs at different organizational levels produces better results than relying on one.
 - `INS-260330-B3D9` [medium] Netflix laid off a third of employees post-dot-com crash and got more done with fewer people by retaining only their best performers.
 - `INS-260329-96EC` [medium] Transitioning from doing the work to licensing the system for doing the work shifts you from linear to exponential scaling.

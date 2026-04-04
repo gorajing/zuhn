@@ -1,6 +1,6 @@
 # Topic: relationships
 
-> 92 insights
+> 93 insights
 
 - `INS-260325-3A54` [very_high] The 85-year Harvard Study of Adult Development shows that the single choice most likely to keep you happy and healthy is investing in relationships.
 - `INS-260330-A33E` [high] Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
@@ -86,6 +86,7 @@
 - `INS-260323-7263` [medium] Messaging on Discord, following creators who resonate with you, and having online friends all genuinely reduce loneliness and matter as real social connection — not just a substitute for in-person relationships.
 - `INS-260325-1E0B` [medium] When early humans stood upright 4.4 million years ago, females had to carry babies in arms instead of on backs — creating evolutionary pressure for pair-bonding that selected for the brain circuitry of romantic love and attachment.
 - `INS-260325-FAC2` [medium] When our ancestors began walking on two legs 4.4 million years ago, females could no longer carry babies on their backs while foraging — this created the evolutionary pressure for pair bonding.
+- `INS-260403-79AF` [medium] Relationships where someone can hear you and help you trace your feelings to their origins are themselves a primary treatment for trauma, not just a precondition for it.
 - `INS-260329-B2D8` [medium] Choose roommates who share your ambition level, not just your rent budget.
 - `INS-260330-1A55` [medium] In a study of 1,100 married people, 81% said they would remarry their current partner, which Fisher attributes to extended pre-commitment periods filtering incompatible matches.
 - `INS-260326-2E56` [medium] When a team's culture prioritizes niceness over candor, the loudest and most aggressive person rises while everyone else retreats into passive-aggressive behavior.

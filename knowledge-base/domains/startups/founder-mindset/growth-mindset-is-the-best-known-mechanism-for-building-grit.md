@@ -50,7 +50,6 @@ stance: >-
   strongest known lever for developing the sustained perseverance that predicts
   success.
 related:
-  - INS-260323-422C
   - INS-260323-EDAD
   - PRI-260328-0AB1
   - INS-260330-85E1

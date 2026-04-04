@@ -48,7 +48,6 @@ stance: >-
   Culture equals values plus behavior multiplied by consistency, meaning
   inconsistently practiced values actively damage organizational trust
 related:
-  - INS-260323-D9CE
   - INS-260329-9A5A
   - INS-260330-067C
   - INS-260330-39D7

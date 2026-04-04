@@ -53,11 +53,11 @@ stance: >-
   organizations that neglect support roles in favor of visible talent
   systematically underperform.
 related:
+  - INS-260403-3CFB
   - INS-260330-189F
   - INS-260330-E647
   - INS-260330-42DE
   - PRI-260323-BA94
-  - INS-260327-EE5B
 evidence:
   - id: INS-260327-EE5B
     type: TRANSFERS_TO

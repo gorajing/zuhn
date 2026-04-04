@@ -47,11 +47,11 @@ stance: >-
   existing org structure will out-innovate those that bolt innovation onto
   existing roles
 related:
+  - INS-260403-3326
   - INS-260403-9FE2
   - INS-260403-F8A2
   - INS-260322-7B61
   - INS-260329-ADCD
-  - INS-260327-178E
 ---
 Osterwalder argues that innovation cannot be a side project grafted onto existing roles. Instead, companies need a full parallel org chart: a Chief Entrepreneur mirrors the CEO, a Chief VC mirrors the CFO, and a Chief Risk Officer enables rather than blocks experimentation. This dual structure ensures that exploration of new business models receives the same organizational seriousness as execution of current ones.
 

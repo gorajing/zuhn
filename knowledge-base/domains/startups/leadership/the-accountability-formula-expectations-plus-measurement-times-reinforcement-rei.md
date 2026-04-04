@@ -51,7 +51,7 @@ related:
   - PRI-260323-9D46
   - INS-260325-0FED
   - INS-260330-59BC
-  - INS-260403-4850
+  - INS-260403-6A77
 stance: >-
   Expectations + Measurement x Reinforcement = Accountability — without
   reinforcement, expectations and measurement produce zero accountability.

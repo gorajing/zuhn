@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 54 insights
+> 56 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-1B15` [high] Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
@@ -14,6 +14,7 @@
 - `INS-260403-1B53` [high] The same trait that makes hackers disrespectful of hierarchy is what makes them capable of breakthrough innovation.
 - `INS-260403-427E` [high] Truly disruptive solutions are often conceptually simple — the moat is in the execution, not the idea.
 - `INS-260403-D8A2` [high] Sears, Toys-R-Us, and RadioShack died not because retail died but because they failed to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
+- `INS-260403-E3C4` [high] Cultural shift from planning-execution to experimentation-iteration is the primary barrier to enterprise innovation, not tooling.
 - `INS-260403-62B2` [high] BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-268F` [high] Ideas that sound crazy from credible experts are systematically undervalued because everyone is too conservative.
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
@@ -49,6 +50,7 @@
 - `INS-260403-0372` [medium] Organizations should invest in innovation software when they cannot demonstrate ROI on innovation efforts, not simply when idea volume grows.
 - `INS-260403-17E1` [medium] Newton's alchemy and theology obsessions were 'wasted' time, but the same disposition that produced those bets also produced his physics — you can't separate the wins from the losses.
 - `INS-260403-ACA8` [medium] Large companies need innovation frameworks designed for their unique constraints, not copied startup methods.
+- `INS-260403-31C2` [medium] Enterprise lean startup adoption scales faster through peer practitioner networks than top-down mandates.
 - `INS-260403-343D` [medium] Risk officers should help teams experiment safely rather than blocking experiments that carry any risk.
 - `INS-260403-0030` [medium] Cohort networks from innovation programs often outvalue the curriculum by providing ongoing diverse perspectives for context-dependent innovation challenges.
 - `INS-260403-65C3` [medium] When 40 organizations self-assessed across nine innovation dimensions, each scored high on some and low on others — making peer exchange maximally valuable.

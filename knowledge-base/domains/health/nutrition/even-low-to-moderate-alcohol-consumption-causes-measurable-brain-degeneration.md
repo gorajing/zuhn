@@ -49,11 +49,11 @@ stance: >-
   of the neocortex and loss of gray and white matter, contradicting the popular
   belief that moderate drinking is harmless to the brain.
 related:
+  - INS-260403-3CFB
   - INS-260330-4D8B
   - PRI-260328-F570
   - INS-260330-E647
   - INS-260327-0795
-  - INS-260325-1550
 ---
 The study 'Associations between alcohol consumption and gray and white matter volumes in the UK Biobank' examined over 35,000 generally healthy middle-aged and older adults. Even those averaging just 1-2 drinks per day showed evidence of neocortical thinning — loss of neurons in the outer brain layers responsible for associative memory, planning, and impulse regulation. This is significant because it finally answers the longstanding question of whether low-to-moderate chronic intake (not just heavy drinking at 12-24+ drinks/week) damages the brain. The answer is yes, though the damage is dose-dependent and partially reversible with 2-6 months of abstinence.
 

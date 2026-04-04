@@ -809,6 +809,7 @@ Generated on 2026-04-04 | 2421 sources
 | Beyond Smart | blog | 4 | 2026-03-31 |
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
+| Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 4 | 2026-03-31 |
 | Business Model Generation Book Summary | Strategyzer | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 1: Manage The Existing Business | blog | 4 | 2026-03-31 |
 | Business Model Portfolio Part 2: Manage New Business Initiatives | blog | 4 | 2026-03-31 |
@@ -853,6 +854,7 @@ Generated on 2026-04-04 | 2421 sources
 | Made in USA | blog | 4 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
+| OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 4 | 2026-03-30 |
 | Overcoming the “blank page” challenge with AI | blog | 4 | 2026-03-31 |
 | Persuade xor Discover | blog | 4 | 2026-03-31 |
 | Political Backflow From Europe | blog | 4 | 2026-03-30 |
@@ -862,6 +864,7 @@ Generated on 2026-04-04 | 2421 sources
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
 | Quick Essay: A Short History of OpenAI  | blog | 4 | 2026-03-30 |
 | Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 4 | 2026-03-30 |
+| Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 4 | 2026-03-30 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
@@ -981,6 +984,7 @@ Generated on 2026-04-04 | 2421 sources
 | How Insta360 Crushed GoPro | youtube | 4 | 2026-03-24 |
 | How Nightcrawlers Really Make Money | youtube | 4 | 2026-03-24 |
 | How Somalia’s Pirates Make Money | youtube | 4 | 2026-03-30 |
+| How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 4 | 2026-03-30 |
 | How To Convert Customers With Cold Emails | Startup School | youtube | 4 | 2026-03-27 |
 | How To Count Past Infinity | youtube | 4 | 2026-03-30 |
 | How to Create a Frequency so Magnetic Your Desires Chase You | youtube | 4 | 2026-03-23 |
@@ -1068,6 +1072,7 @@ Generated on 2026-04-04 | 2421 sources
 | Trying to Catch a 1,000 MPH Baseball - Smarter Every Day 247 | youtube | 4 | 2026-03-30 |
 | Two Vortex Rings Colliding in SLOW MOTION - Smarter Every Day 195 | youtube | 4 | 2026-03-30 |
 | Vectors | Chapter 1, Essence of linear algebra | youtube | 4 | 2026-03-30 |
+| What If Everyone JUMPED At Once? | youtube | 4 | 2026-03-30 |
 | What if my startup fails? | Ahana Gautam, Open Secret | UnStarted Ep2 | youtube | 4 | 2026-03-23 |
 | What makes quantum computers SO powerful? | youtube | 4 | 2026-03-23 |
 | What Will We Miss? | youtube | 4 | 2026-03-30 |
@@ -1968,7 +1973,6 @@ Generated on 2026-04-04 | 2421 sources
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
 | Building a World-Class Innovation Culture: Bayer | blog | 0 | 2026-03-31 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
-| Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 0 | 2026-03-31 |
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Evolution Using the Portfolio Map | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
@@ -2182,7 +2186,6 @@ Generated on 2026-04-04 | 2421 sources
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 0 | 2026-03-30 |
 | OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 0 | 2026-03-30 |
 | OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 0 | 2026-03-30 |
-| OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 0 | 2026-03-30 |
 | Organic Startup Ideas | blog | 0 | 2026-03-31 |
 | Orthodox Privilege | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
@@ -2190,7 +2193,6 @@ Generated on 2026-04-04 | 2421 sources
 | Programming Bottom-Up | blog | 0 | 2026-03-31 |
 | Putting Ideas into Words | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
-| Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | RAQs | blog | 0 | 2026-03-31 |
 | Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 0 | 2026-03-30 |
@@ -2401,7 +2403,6 @@ Generated on 2026-04-04 | 2421 sources
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 0 | 2026-03-30 |
 | How An Infinite Hotel Ran Out Of Room | youtube | 0 | 2026-03-30 |
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |
-| How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
@@ -2418,7 +2419,6 @@ Generated on 2026-04-04 | 2421 sources
 | This free Chinese AI just crushed OpenAI's $200 o1 model... | youtube | 0 | 2026-03-30 |
 | This new AI is powerful and uncensored… Let’s run it | youtube | 0 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
-| What If Everyone JUMPED At Once? | youtube | 0 | 2026-03-30 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 0 | 2026-03-30 |
 | When You Truly Work for Yourself | youtube | 0 | 2026-03-30 |
 | Why Are Things Creepy? | youtube | 0 | 2026-03-30 |
