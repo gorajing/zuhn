@@ -43,7 +43,6 @@ stance: >-
   people leadership, and business leadership — weakness in any one leg creates
   existential risk.
 related:
-  - INS-260323-784B
   - INS-260323-A183
   - INS-260323-3436
   - INS-260327-B12E

@@ -44,8 +44,8 @@ stance: >-
 related:
   - INS-260327-ABF8
   - INS-260330-CA97
+  - INS-260404-B7E4
   - PRI-260328-4000
   - INS-260329-04FA
-  - INS-260327-E016
 ---
 Graham proposes that humans constantly scan their environment to maintain an internal model of their surroundings, and the more complex the scene, the more energy this background process consumes. This leaves less capacity for deliberate thinking. He notes that children seem less bothered by clutter because they build coarser environmental models, consuming less energy. This has direct implications for workspace design, digital interfaces, and tool selection — anything that increases parsing complexity is a hidden tax on your best thinking. The insight connects to attention residue research and suggests that minimalism isn't aesthetic preference but cognitive optimization.

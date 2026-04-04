@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 82 insights
+> 84 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -24,6 +24,7 @@
 - `INS-260403-0701` [high] Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
 - `INS-260404-2E6C` [high] Innovation success depends on volume of cheap experiments, not quality of individual bets.
 - `INS-260403-6224` [high] Innovation program assessment requires dual axes: value creation and culture change capacity.
+- `INS-260404-CD55` [high] Embedding legal and compliance as collaborative partners in the innovation program design phase transforms them from blockers into enablers.
 - `INS-260403-383F` [high] Treat innovation like venture capital: invest in a portfolio expecting most projects to fail so the few winners can outperform.
 - `INS-260403-F87C` [high] Managing innovation alongside core business through portfolio thinking outperforms isolated innovation labs.
 - `INS-260403-C3A3` [high] Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
@@ -31,6 +32,7 @@
 - `INS-260403-6AB5` [high] Match innovation program type (tactical vs. strategic vs. transformational) to your organization's current maturity for maximum ROI.
 - `INS-260403-3DF3` [high] Innovation success depends on making failures fast and cheap while extracting maximum learning from each experiment.
 - `INS-260403-499B` [high] Across 40 large organizations, intrapreneurship structures scored lowest — dedicated processes and incentives for internal ventures are exceptionally hard to build.
+- `INS-260404-BFAB` [high] Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
 - `INS-260403-BDCC` [high] Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-4CD0` [high] Innovation programs stall at middle management, not the C-suite — busy managers with full plates resist adding new methodologies.
 - `INS-260403-8D2C` [high] New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.

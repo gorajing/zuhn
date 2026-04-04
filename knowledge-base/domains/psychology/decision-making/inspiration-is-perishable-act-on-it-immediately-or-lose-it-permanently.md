@@ -48,8 +48,8 @@ related:
   - INS-260330-19F1
   - INS-260403-21AF
   - INS-260329-1739
+  - INS-260404-4E6D
   - INS-260327-F95F
-  - PRI-260403-3906
 ---
 Naval describes a pattern familiar to many creators: conceiving an idea (tweet storm, blog post, business solution) but hesitating or pausing, only to find the inspiration has died by the time he returns to it. The insight has never come back with the same energy or clarity.
 

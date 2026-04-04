@@ -52,10 +52,10 @@ stance: >-
   experimentation across self-directed, social, and environmental strategies
 related:
   - INS-260403-CBB2
+  - INS-260404-B7E4
   - INS-260323-0603
   - INS-260329-3D28
   - INS-260403-6652
-  - INS-260327-DC0B
 ---
 Kross emphasizes that chatter management tools span three categories — things you do alone (distanced self-talk, rituals), ways you leverage relationships (seeking support without co-rumination), and environmental interactions (creating order in physical spaces). No single tool from any category works universally.
 

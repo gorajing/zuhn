@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3495 insights across 35 topics
+> 3499 insights across 35 topics
 
 ## Topics
 
@@ -26,7 +26,7 @@
 | health-innovation | 13 | 80% of random single mutations break AAV capsid function, making random libraries needle-in-haystack searches — AI models trained on multiplexed data identify viable multi-mutation combinations that random approaches cannot find. |
 | hiring | 40 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 84 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
-| innovation | 82 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
+| innovation | 84 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
 | leadership | 174 | Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems. |
 | market-entry | 35 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | mental-models | 5 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
@@ -37,7 +37,7 @@
 | product-strategy | 53 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
 | quality | 14 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 179 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
-| scaling | 149 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
+| scaling | 150 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | strategy | 237 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |
 | timing | 55 | Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024. |
-| validation | 144 | Pretty much 100% of startups that make something popular manage to make money from it. |
+| validation | 145 | Pretty much 100% of startups that make something popular manage to make money from it. |

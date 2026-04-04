@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3829 actionable insights
+Generated on 2026-04-04 | 3834 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -952,6 +952,8 @@ Generated on 2026-04-04 | 3829 actionable insights
 - [INS-260403-D16C] Physical clutter taxes cognition by forcing continuous environmental parsing.
 - [INS-260403-518E] Chatter makes stress toxic by keeping the stress response active long after the triggering event has passed.
 - [INS-260404-023C] Veritasium's 'make your prediction now' technique forces viewers to commit to a mental model before it gets challenged, deepening learning.
+- [INS-260404-4E6D] Writing ideas down matters not because you'll re-read them, but because holding an idea in memory blocks the next one from forming.
+- [INS-260404-50F7] Imagining constrained environments exposes which dependencies you've normalized and stopped noticing.
 
 ## psychology/cognitive-biases
 - [INS-260325-CB41] Gut instincts evolved for ancestral threats and social navigation work well there but fail systematically on questions evolution never needed to answer.
@@ -1318,6 +1320,7 @@ Generated on 2026-04-04 | 3829 actionable insights
 - [INS-260403-BC89] Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
 - [INS-260403-3756] Money worries and disputes hijack your top mental slot with unusual effectiveness because they feel urgent and engaging but produce no creative output.
 - [INS-260403-50F1] Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
+- [INS-260404-B7E4] You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -3212,6 +3215,8 @@ Generated on 2026-04-04 | 3829 actionable insights
 - [INS-260404-BD46] Unproven business models should be validated through many small experiments rather than detailed business plans.
 - [INS-260404-2E6C] Innovation success depends on volume of cheap experiments, not quality of individual bets.
 - [INS-260404-17DD] Established business models produce antibodies that kill fragile new initiatives transferred too early.
+- [INS-260404-CD55] Embedding legal and compliance as collaborative partners in the innovation program design phase transforms them from blockers into enablers.
+- [INS-260404-BFAB] Compliance processes designed for operational protection create multi-month bottlenecks that kill lean experimentation cycles.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.

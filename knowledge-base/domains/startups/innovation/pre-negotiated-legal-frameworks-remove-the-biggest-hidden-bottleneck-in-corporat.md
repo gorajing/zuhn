@@ -49,10 +49,10 @@ stance: >-
   improving the ideas themselves
 related:
   - INS-260329-903B
+  - INS-260404-CD55
+  - INS-260404-F8B7
   - INS-260403-ACA8
   - INS-260403-B2EA
-  - INS-260327-91C7
-  - INS-260403-F112
 ---
 Bayer's Catalyst Fund team co-created a data privacy and business model development framework with their legal and compliance colleagues. This meant innovation teams could run projects within pre-approved guardrails rather than negotiating with legal departments from scratch for every new initiative.
 

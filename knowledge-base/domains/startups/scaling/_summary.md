@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 149 insights
+> 150 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260404-0FE4` [high] Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
@@ -141,6 +141,7 @@
 - `INS-260403-16B4` [medium] Performance-based pay in startups and professional services forces legacy organizations to match market rates or lose their best young talent.
 - `INS-260329-9A8B` [medium] Hormozi's bankruptcy-to-seven-figures turnaround came from doing fewer things with more intensity, not from finding a new business model.
 - `INS-260404-B1BC` [medium] Playing both the execution and experimentation games in parallel is the core organizational challenge for established companies seeking growth.
+- `INS-260404-AD2B` [medium] Larger organizations face exponentially higher stakes that demand more rigorous compliance, which creates proportionally greater friction for innovation teams.
 - `INS-260330-8C52` [medium] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260330-4830` [medium] When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
 - `INS-260330-DE65` [medium] Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.

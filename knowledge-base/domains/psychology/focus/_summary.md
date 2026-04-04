@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 172 insights
+> 173 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -21,6 +21,7 @@
 - `INS-260329-48FD` [high] Teaching complex concepts by starting with physical metaphors before moving to formal notation produces far better understanding than abstract-first approaches.
 - `INS-260330-A3AF` [high] Confidence problems are usually domain-specific, meaning the person already has the psychological machinery — they just need to extend it to the problem area.
 - `INS-260323-369C` [high] The most dangerous aspect of addiction for creative people is the false belief that substances are the source of creativity — Callaghan proved the creative engine survives intact after sobriety.
+- `INS-260404-B7E4` [high] You can push through noise when you have momentum, but generating new ideas demands quiet — plan your environment accordingly.
 - `INS-260329-91DD` [high] CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
 - `INS-260327-4EDE` [high] Authentic curiosity develops problem-solving skills that survive AI automation; credential-seeking does not.
 - `INS-260325-0103` [high] Prestigious unsolved problems can destroy careers because the prestige masks the near-zero probability of progress.

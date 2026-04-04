@@ -44,6 +44,7 @@ related:
   - INS-260323-1494
   - INS-260327-8358
   - INS-260323-0603
+  - INS-260404-B7E4
 stance: >-
   AI made idea generation almost free, just as the internet made communication
   almost free

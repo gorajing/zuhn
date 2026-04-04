@@ -50,11 +50,11 @@ stance: >-
   Founders who delegate customer discovery to contractors or agencies lose the
   accumulated contextual knowledge that enables correct pivot decisions
 related:
+  - INS-260404-F8B7
   - INS-260323-01F9
   - INS-260323-4457
   - PRI-260328-B2EA
   - INS-260327-E3CA
-  - INS-260403-2DF9
 ---
 When founders outsource customer testing, they receive summarized findings stripped of the nuance, body language, and contextual signals that inform intuition. A consultant's report says 'customers want feature X'; a founder who ran the interviews knows that customers hesitated before answering, that their real pain is adjacent to X, and that the workaround they described reveals an unspoken need.
 

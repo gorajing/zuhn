@@ -848,6 +848,7 @@ Generated on 2026-04-04 | 2421 sources
 | a16z speedrun: How to Get Into Andreessen Horowitz’s Accelerator and Raise Startup Funding | blog | 4 | 2026-03-30 |
 | Acquihires Season Is Officially Here🤝, VCs Are Pivoting🧟‍♂️, McKinsey’s Agentic AI Playbook🕹️ | blog | 4 | 2026-03-30 |
 | Adding a work trial to your interview process | blog | 4 | 2026-03-31 |
+| Addressing the Legal & Compliance Challenge | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
 | AGI Vibes Are Getting Weird, 2025 SaaS Valuations, Most Active Angels | blog | 4 | 2026-03-30 |
 | AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 4 | 2026-03-30 |
@@ -994,6 +995,7 @@ Generated on 2026-04-04 | 2421 sources
 | Resistance is necessary, but it's not enough | blog | 4 | 2026-03-30 |
 | Return of the Mac | blog | 4 | 2026-03-31 |
 | Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 4 | 2026-03-30 |
+| Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 4 | 2026-03-30 |
 | Rubrik IPO: Lessons From a $5.6 Billion Milestone 📊 | blog | 4 | 2026-03-30 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
@@ -1033,6 +1035,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The Hard Questions Most VCs Can’t Answer, The Flawed Math of Venture at Scale, IPO Preparation Guide | blog | 4 | 2026-03-30 |
 | The High-Res Society | blog | 4 | 2026-03-31 |
+| The Island Test | blog | 4 | 2026-03-31 |
 | The Lean Startup is Dead⚰️, AGI Delusion?🤖, Top Leadership Books📚 | blog | 4 | 2026-03-30 |
 | The List of N Things | blog | 4 | 2026-03-31 |
 | The Other Half of "Artists Ship" | blog | 4 | 2026-03-31 |
@@ -1062,6 +1065,7 @@ Generated on 2026-04-04 | 2421 sources
 | Trolls | blog | 4 | 2026-03-31 |
 |  | blog | 4 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
+| Venture Capital Unveiled: Time for Change! | blog | 4 | 2026-03-30 |
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 4 | 2026-03-30 |
 | Vertical SaaS: Now With AI Inside, B2C is Back, AI Agents Landscape  | blog | 4 | 2026-03-30 |
 | Welcome to Chaos World | blog | 4 | 2026-03-30 |
@@ -1286,6 +1290,7 @@ Generated on 2026-04-04 | 2421 sources
 | I built a workflow that turns YouTube transcripts into newsletter style summaries | reddit | 3 | 2026-03-20 |
 | Business Model Innovation and Change | blog | 3 | 2026-03-31 |
 | Olympiad-level formal mathematical reasoning with reinforcement learning - Nature | blog | 3 | 2026-03-26 |
+| Startup MIS Excel Template to Track KPIs | blog | 3 | 2026-03-30 |
 | The 2026 AI product strategy guide: How to plan, budget, and build without buying into the hype | blog | 3 | 2026-03-26 |
 | Why most AI products fail: Key findings from MIT’s 2025 AI Report | blog | 3 | 2026-03-26 |
 | $0 Revenue, 5 Years, Then IPO: Story from Lyft & Presto Cofounder | Rajat Suri | youtube | 3 | 2026-03-26 |
@@ -2062,7 +2067,6 @@ Generated on 2026-04-04 | 2421 sources
 | a16z Raises$7.2bn💵, Optimal VC Portfolio Construction🧮, AI Index🤖 | blog | 0 | 2026-03-30 |
 | Access 30+ Free Strategyzer Tools In Our Resource Library | blog | 0 | 2026-03-31 |
 | ACX Classifieds 1/26 | blog | 0 | 2026-03-30 |
-| Addressing the Legal & Compliance Challenge | blog | 0 | 2026-03-31 |
 | Advanced Claude Code techniques: Context loading, mermaid diagrams, stop hooks, more | John Lindquist | blog | 0 | 2026-03-31 |
 | After the Ladder | blog | 0 | 2026-03-31 |
 | AI Agents🤖, Founder Mode👨‍💻, Global IPOs📈 | blog | 0 | 2026-03-30 |
@@ -2282,7 +2286,6 @@ Generated on 2026-04-04 | 2421 sources
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
-| Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
 | Running a Fundraising Process 💸 | blog | 0 | 2026-03-30 |
 | SaaS Financial Model Template (2025) for Startups | Build, Forecast, and Raise Capital | blog | 0 | 2026-03-30 |
@@ -2300,7 +2303,6 @@ Generated on 2026-04-04 | 2421 sources
 | Stages of Board Deck Preparation📝, How to be helpful as a VC📚, Secondary Market VC Funds🔄 | blog | 0 | 2026-03-30 |
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
-| Startup MIS Excel Template to Track KPIs | blog | 0 | 2026-03-30 |
 | Startup Option Grant Calculator: Understand the Real Value of Your Stock Options | blog | 0 | 2026-03-30 |
 | State of Pre-Seed🌱, Gulf money is flooding into European startups🌏, Looking for AI use-cases🧐 | blog | 0 | 2026-03-30 |
 | State of Private Markets Q3 2024 📊, How to Value a Startup 🧮, Risk of AI's Failure ⚠️ | blog | 0 | 2026-03-30 |
@@ -2326,7 +2328,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
-| The Island Test | blog | 0 | 2026-03-31 |
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Need to Read | blog | 0 | 2026-03-31 |
@@ -2375,7 +2376,6 @@ Generated on 2026-04-04 | 2421 sources
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
 | VC Math Explained📊, Grow with Roll-Ups 🔄, The Top 1%🧠 | blog | 0 | 2026-03-30 |
 | VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |
-| Venture Capital Unveiled: Time for Change! | blog | 0 | 2026-03-30 |
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | What Doesn't Seem Like Work? | blog | 0 | 2026-03-31 |

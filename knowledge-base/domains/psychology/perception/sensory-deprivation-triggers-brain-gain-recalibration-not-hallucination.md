@@ -51,7 +51,6 @@ stance: >-
   psychotic breakdown — the 45-minute anechoic chamber madness claim is a viral
   myth with no scientific basis.
 related:
-  - INS-260320-D44B
   - INS-260327-CB82
   - INS-260330-779C
   - INS-260330-8898
