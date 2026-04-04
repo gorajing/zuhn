@@ -53,10 +53,10 @@ stance: >-
   captures an insurmountable cost advantage that effectively monopolizes the
   domain.
 related:
-  - INS-260322-B8E6
   - INS-260323-F528
   - INS-260328-8445
   - PRI-260328-0E23
+  - INS-260403-AFA5
   - INS-260330-AF2A
 evidence:
   - id: INS-260328-8445

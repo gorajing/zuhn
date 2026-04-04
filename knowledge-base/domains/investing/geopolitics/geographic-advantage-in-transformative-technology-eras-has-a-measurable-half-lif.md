@@ -58,7 +58,8 @@ related:
   - INS-260322-AF17
   - PRI-260328-0E23
   - PRI-260328-4CC0
-  - INS-260323-FFE8
+  - INS-260403-330E
+  - INS-260403-AFA5
 ---
 The U.S. currently has compounding advantages in space: equator-adjacent launch sites, deep aerospace talent, mature regulatory infrastructure, active capital markets for space ventures, and a head start in reusable launch. But the historical pattern is unambiguous — every era's early geographic winner eventually faces challengers. China is investing heavily in reusable launch and orbital supercomputers. India's space program is growing rapidly.
 

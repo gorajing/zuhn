@@ -1,6 +1,6 @@
 # Topic: product-development
 
-> 135 insights
+> 136 insights
 
 - `INS-260327-EB3E` [high] Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products.
 - `INS-260329-1028` [high] freeCodeCamp's 48M-view tutorial demonstrates that one comprehensive free resource can become a permanent acquisition engine dwarfing paid channels.
@@ -93,6 +93,7 @@
 - `INS-260330-88DE` [high] The Indus Valley maintained identical brick ratios and drainage standards across 1500km without any evidence of kings or central government.
 - `INS-260330-6BAF` [high] The Indus Valley used uniformly sized bricks and perpendicular street grids across distant cities, implying sophisticated coordination without visible authoritarian structures.
 - `INS-260327-8B5B` [high] Insta360 started in 360-degree video (a niche ignored after the VR bubble burst), observed skiers and cyclists organically adopting their camera for action sports, and followed that signal to become the global action camera leader.
+- `INS-260403-9D8A` [high] Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 - `INS-260330-F222` [high] Plants must keep oxygen LOW inside leaves despite oxygen being their most valuable output, because it poisons RuBisCo.
 - `INS-260330-2A73` [high] Requiring all builders to do customer support creates a self-correcting feedback loop that improves product quality and reduces support volume.
 - `INS-260330-3A3E` [high] When the people who build the product also support it, bugs get fixed faster and the knowledge gap between builders and users collapses.

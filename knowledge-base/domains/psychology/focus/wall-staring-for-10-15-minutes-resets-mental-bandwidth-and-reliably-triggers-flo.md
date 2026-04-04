@@ -51,12 +51,12 @@ related:
   - INS-260322-6042
   - INS-260322-71E4
   - INS-260325-8EED
-  - INS-260325-809A
   - PRI-260328-4000
   - INS-260329-3473
   - INS-260330-1B64
   - INS-260330-E823
   - INS-260327-1631
+  - INS-260327-FD92
 stance: Stare at a wall for 10-15 minutes when you can't focus
 evidence:
   - id: INS-260327-1631

@@ -47,11 +47,11 @@ stance: >-
   Founder vesting is primarily valuable as co-founder insurance rather than an
   investor protection mechanism
 related:
-  - INS-260330-1459
   - INS-260330-64E1
   - INS-260326-967C
   - INS-260325-7D50
   - INS-260330-E170
+  - INS-260403-0821
 ---
 Vesting is typically presented as an investor demand—VCs don't want to invest millions in a company founders could walk away from. But Graham reveals a more nuanced picture: vesting is also a mechanism founders impose on themselves to protect against co-founder departure. Without vesting, a founder who leaves after six months retains their full equity stake despite no longer contributing, creating massive resentment and misaligned incentives.
 

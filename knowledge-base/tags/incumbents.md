@@ -12,6 +12,7 @@
 - `INS-260403-A0B0` Incumbents holding existing user data and daily engagement have a near-insurmountable AI distribution advantage.
 - `INS-260403-F234` Buying distribution then forcing technology change fails because legacy organizations resist replacing systems that already work for them.
 - `INS-260402-4605` Eminence constrains innovation more than obscurity constrains execution.
+- `INS-260403-876D` When a dominant player leaves a critical technical problem unsolved, that gap is a viable entry point for focused competitors.
 - `INS-260402-F4E5` Startups don't build desktop word processors to compete with Word—they build Writely, transcending the paradigm entirely.
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
 - `INS-260322-1280` Some products are too cheap to bother replacing (janitorial services problem) — nobody optimizes a $50/month/person line item, which means competitors can't get in but incumbents can't be kicked out.

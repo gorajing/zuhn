@@ -1,6 +1,6 @@
 # Topic: fintech
 
-> 74 insights
+> 75 insights
 
 - `INS-260329-C4A4` [high] Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260323-C370` [high] When you account for size, value, profitability, and investment factors, most active fund managers who appeared to beat the market were simply maintaining factor exposures that can be replicated at far lower cost.
@@ -64,6 +64,7 @@
 - `INS-260330-4C23` [high] Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260323-825F` [high] The greatest financial innovations came from outsiders — a physicist who counted cards, a mathematician who broke Russian codes, and Einstein's Brownian motion theory — because pattern recognition transfers across domains.
 - `INS-260330-137A` [high] Offshore cash that can't be repatriated without heavy taxes acts as dead weight on shareholder returns rather than a competitive advantage.
+- `INS-260403-99DE` [high] Stablecoins pegged to USD represent over 90% of the $135B stablecoin market cap, making digital dollars the dominant crypto use case.
 - `INS-260324-1C84` [high] Visa was founded by Bank of America, Mastercard by smaller banks as a counterweight — every CEO in their history came from a big bank, and the unspoken harmony means neither side encroaches on the other.
 - `INS-260330-B906` [high] Each wealth level unlocks qualitatively different capabilities — comfort, then luxury, then access, then influence, then time — not just more of the same.
 - `INS-260329-C45C` [high] Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.

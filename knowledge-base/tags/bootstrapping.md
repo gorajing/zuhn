@@ -5,6 +5,7 @@
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260329-1318` Selling expensive services on commission eliminates every traditional startup barrier except your ability to persuade.
 - `INS-260329-0B9D` Cutting personal expenses to the bone isn't about getting rich slowly — it's about buying the freedom to take bigger entrepreneurial swings.
+- `INS-260403-FC36` Ramen profitability is a trick for not dying en route to scale, not evidence that the business model works.
 - `INS-260321-1992` Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only consider VC if you actually need it.
 - `INS-260329-55D8` Charge premium rates for unscalable 1:1 work to self-fund your scalable business growth.
 - `INS-260329-3C25` Start with high-ticket 1:1 work to fund scalable growth — Tesla's Roadster-to-Model-3 path works for service businesses too.

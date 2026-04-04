@@ -304,6 +304,7 @@ Generated on 2026-04-04 | 2421 sources
 | CLTV vs CAC Ratio: The Ultimate Guide for Founders + Excel Model | blog | 5 | 2026-03-30 |
 | “Crazy Until It’s Not”: New Story Charity’s Bitcoin-Based Mortgages, NFTs and 3D-Printed Homes | blog | 5 | 2026-03-31 |
 | Crime As Proxy For Disorder | blog | 5 | 2026-03-30 |
+| Dario Amodei Says AGI Is 1-3 Years Away: Full Breakdown | blog | 5 | 2026-03-30 |
 | Deep Dives | blog | 5 | 2026-03-30 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
 | Design and Research | blog | 5 | 2026-03-31 |
@@ -727,23 +728,31 @@ Generated on 2026-04-04 | 2421 sources
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
+| An Ode to Launch | blog | 4 | 2026-03-31 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
+| Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
+| Good and Bad Procrastination | blog | 4 | 2026-03-31 |
+| Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
+| How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
 | IRR vs Return Multiple: VC Math + Excel Template | blog | 4 | 2026-03-30 |
 | Is SaaS Dying for Good? A Look at How AI Is Reshaping the Future of Software | blog | 4 | 2026-03-30 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
+| Made in USA | blog | 4 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
+| Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
+| Ramen Profitable | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
@@ -1789,7 +1798,6 @@ Generated on 2026-04-04 | 2421 sources
 | An inside look at how the New York Times builds product | Alex Hardiman (CPO at The New York Times) | blog | 0 | 2026-03-31 |
 | An inside look at Mixpanel’s product journey | Vijay Iyengar (Head of Product) | blog | 0 | 2026-03-31 |
 | An NFT That Saves Lives | blog | 0 | 2026-03-31 |
-| An Ode to Launch | blog | 0 | 2026-03-31 |
 | An operator’s guide to product strategy | Chandra Janakiraman (CPO at VRChat, ex-Meta, Headspace, Zynga) | blog | 0 | 2026-03-31 |
 | Analysis Paralysis…Innovators Move Fast | blog | 0 | 2026-03-31 |
 | Announcing a brand-new podcast: “How I AI” with Claire Vo 🔥 | blog | 0 | 2026-03-31 |
@@ -1833,7 +1841,6 @@ Generated on 2026-04-04 | 2421 sources
 | Bradley's Ghost | blog | 0 | 2026-03-31 |
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
 | Build a resilient company to weather any storm | blog | 0 | 2026-03-31 |
-| Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 0 | 2026-03-31 |
 | Building a World-Class Innovation Culture: Bayer | blog | 0 | 2026-03-31 |
 | Building an innovation culture | blog | 0 | 2026-03-31 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
@@ -1899,7 +1906,6 @@ Generated on 2026-04-04 | 2421 sources
 | Cybersecurity’s Future Belongs to Startups | blog | 0 | 2026-03-31 |
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 0 | 2026-03-30 |
 | Dario Amodei, AGI, and the Long Game of Safe AI | blog | 0 | 2026-03-30 |
-| Dario Amodei Says AGI Is 1-3 Years Away: Full Breakdown | blog | 0 | 2026-03-30 |
 | Data-Driven Equity Splitting📊, The Path to PMF, Figma's $12.5 Bn Valuation🎨 | blog | 0 | 2026-03-30 |
 | DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup Guide | blog | 0 | 2026-03-30 |
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 0 | 2026-03-30 |
@@ -1984,7 +1990,6 @@ Generated on 2026-04-04 | 2421 sources
 | Global AI Adoption📊, SaaS Multiples Compress📉, How People Use ChatGPT💬 | blog | 0 | 2026-03-30 |
 | Global Ranking of the Most Valuable Private Startups in 2025 | blog | 0 | 2026-03-30 |
 | Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 0 | 2026-03-30 |
-| Good and Bad Procrastination | blog | 0 | 2026-03-31 |
 | Good Writing | blog | 0 | 2026-03-31 |
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
 | GTM Benchmarks📊, Age of Unicorn Founders💰, Future of Sales with AI🤖 | blog | 0 | 2026-03-30 |
@@ -2001,7 +2006,6 @@ Generated on 2026-04-04 | 2421 sources
 | Hidden Open Thread 425.5 | blog | 0 | 2026-03-30 |
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | High Resolution Fundraising | blog | 0 | 2026-03-31 |
-| Holding a Program in One's Head | blog | 0 | 2026-03-31 |
 | How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 0 | 2026-03-30 |
 | How Creandum Built a $2B VC Fund Backing Spotify and Lovable | blog | 0 | 2026-03-30 |
 |  How Do VCs Really Make Decisions?💡 | blog | 0 | 2026-03-30 |
@@ -2021,7 +2025,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 0 | 2026-03-30 |
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
 | How to Disagree | blog | 0 | 2026-03-31 |
-| How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 0 | 2026-03-30 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 0 | 2026-03-30 |
@@ -2060,7 +2063,6 @@ Generated on 2026-04-04 | 2421 sources
 | Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
 | LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 0 | 2026-03-30 |
-| Made in USA | blog | 0 | 2026-03-31 |
 | Maker's Schedule, Manager's Schedule | blog | 0 | 2026-03-31 |
 | Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 0 | 2026-03-30 |
 | Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
@@ -2107,7 +2109,6 @@ Generated on 2026-04-04 | 2421 sources
 | Political Backflow From Europe | blog | 0 | 2026-03-30 |
 | Post-Medium Publishing | blog | 0 | 2026-03-31 |
 | Power | blog | 0 | 2026-03-31 |
-| Practice Safe Stablecoins | blog | 0 | 2026-03-31 |
 | Programming Bottom-Up | blog | 0 | 2026-03-31 |
 | Putting Ideas into Words | blog | 0 | 2026-03-31 |
 | Q1 2026 US Fund Activity: $80B+ Record VC and PE Fundraising | blog | 0 | 2026-03-30 |
@@ -2115,7 +2116,6 @@ Generated on 2026-04-04 | 2421 sources
 | Quick Essay: Large Language Models, How to Train Them, and xAI’s Grok | blog | 0 | 2026-03-30 |
 | Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 0 | 2026-03-30 |
 | Quick Essays | blog | 0 | 2026-03-30 |
-| Ramen Profitable | blog | 0 | 2026-03-31 |
 | RAQs | blog | 0 | 2026-03-31 |
 | Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣 | blog | 0 | 2026-03-30 |
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |

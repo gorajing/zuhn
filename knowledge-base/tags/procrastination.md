@@ -1,9 +1,10 @@
 # Tag: procrastination
 
-- `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
+- `INS-260329-CCDE` The when-then fallacy ('when I have X, then I'll do Y') inverts cause and effect, creating circular inaction where the action itself would produce the prerequisite condition.
 - `INS-260325-B6AD` Turn toward avoided tasks by acknowledging them psychologically, and action will follow naturally.
 - `INS-260325-D9D8` Overcome avoidance not by forcing action but by simply turning toward the dreaded task and acknowledging its existence in your life.
+- `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - `INS-260328-217C` Deadline-free procrastination silently extends forever because the Panic Monster never wakes up, making it the primary source of long-term regret.
 - `INS-260328-FE38` There are no non-procrastinators — only people whose most important tasks happen to come with deadlines that activate the Panic Monster.
 - `INS-260325-14A9` Non-procrastinators don't exist — everyone has domains where the absence of deadlines lets the Monkey win unchecked.
@@ -13,7 +14,8 @@
 - `INS-260325-0A49` The Dark Playground is where procrastinators spend time on leisure activities that bring no real enjoyment because they're unearned.
 - `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260325-D797` The Panic Monster — triggered by looming deadlines or public embarrassment — is the only thing that reliably scares the Instant Gratification Monkey into submission.
+- `INS-260403-3CD9` Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260330-14A1` Moderate procrastination enables subconscious incubation that produces more creative ideas than diving in immediately or waiting until the last minute.
-- `INS-260329-6020` After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260325-CEE1` Entrepreneurial work has no Panic Monster until you've already done the hard initial work to create external accountability structures.
+- `INS-260329-6020` After you know what needs to be done, more information-gathering is just socially acceptable procrastination.
 - `INS-260402-910C` Big launches and partnerships appeal to founders because they promise scale without the emotional labor of individual recruitment, but they almost never work.

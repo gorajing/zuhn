@@ -59,14 +59,12 @@ stance: >-
   interfaces, because users transfer existing mental models rather than building
   new ones.
 related:
-  - INS-260321-703F
   - INS-260325-7BE7
   - INS-260330-72C2
   - INS-260329-ACE6
   - PRI-260320-6847
   - INS-260402-0D16
   - INS-260325-5F3B
-  - INS-260329-6D6C
   - INS-260330-8EC6
   - INS-260403-1085
 evidence:

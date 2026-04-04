@@ -54,11 +54,11 @@ stance: >-
   nations' willingness to participate in the US-led financial order, which
   erodes when the US demonstrates purely transactional behavior toward allies.
 related:
+  - INS-260403-A87D
   - INS-260322-96F1
   - INS-260327-9BE8
   - INS-260329-9EFA
   - INS-260329-DFDD
-  - PRI-260324-2A76
 evidence:
   - id: INS-260329-9EFA
     type: TRANSFERS_TO

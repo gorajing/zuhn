@@ -51,10 +51,10 @@ stance: >-
 related:
   - INS-260323-DD40
   - INS-260327-14E6
+  - INS-260403-B9A9
   - INS-260323-9A29
   - INS-260329-B424
   - INS-260329-4EF5
-  - INS-260402-43F9
 ---
 When institutional debt capital doubled from $400B to $800B post-2009, it didn't merely inflate asset prices — it enabled fundamentally new business models like iBuyers (Opendoor) and vertically-integrated short-term rentals (Sonder, Lyric). These companies' unit economics depend on access to cheap leverage.
 

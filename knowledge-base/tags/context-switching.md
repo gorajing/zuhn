@@ -1,3 +1,4 @@
 # Tag: context-switching
 
+- `INS-260403-1CC5` Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
 - `INS-260327-F7BD` Mati describes the CEO magic as being able to zoom out to strategy and zoom into product detail extremely quickly, switching between contexts in seconds.

@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 159 insights
+> 162 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -81,6 +81,7 @@
 - `INS-260325-765F` [high] Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
 - `INS-260329-90C3` [high] Dr. Chuck's course revisits conditionals, loops, and functions across 24 chapters of escalating complexity because spiral repetition in new contexts builds deeper understanding than one-pass comprehensive coverage.
 - `INS-260327-E7B8` [high] Rumination feels like problem-solving but it's actually the same thoughts cycling without resolution - it creates the illusion of work while deepening the problem.
+- `INS-260403-1CC5` [high] Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
 - `INS-260325-9F01` [high] A 30-minute screen time limit does not produce 30 minutes of impact — the craving and mental preoccupation persist all day.
 - `INS-260325-9507` [high] Between ages 10-12, brains become hyper-wired for social rewards — social media exploits this precise window, making adolescent addiction neurobiological rather than behavioral.
 - `INS-260327-9562` [high] Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
@@ -116,6 +117,7 @@
 - `INS-260323-334D` [high] Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260323-D7D0` [high] The best thing about getting older is learning to trust the body's signals instead of using the analytical forebrain to override them — every time Huberman overrode his gut, he regretted it.
 - `INS-260329-8986` [high] CS50's enrollment data proves that perceived prerequisites are the real gatekeepers, not actual skill requirements.
+- `INS-260403-3CD9` [high] Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 - `INS-260323-61FE` [high] In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
 - `INS-260327-3B69` [high] AI-assisted schoolwork destroys the cognitive muscles that school is designed to build.
 - `INS-260325-29D5` [high] For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
@@ -125,6 +127,7 @@
 - `INS-260329-5C65` [medium] Long-form tutorials act as a self-selection filter — people who click a 4.5-hour video are pre-committed, leading to deeper engagement than bite-sized content.
 - `INS-260325-C830` [medium] Addiction should be measured by whether someone meets life obligations, not by what their brain scan shows.
 - `INS-260325-B6AD` [medium] Turn toward avoided tasks by acknowledging them psychologically, and action will follow naturally.
+- `INS-260403-AA0B` [medium] Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - `INS-260330-9E25` [medium] Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260325-4FD0` [medium] When personal development advice makes you cringe, that's reliably a defense mechanism — the discomfort signals the material is touching something genuinely vulnerable.
 - `INS-260329-EE04` [medium] Commitment to any path beats keeping options open because decision fatigue from optionality is more costly than a wrong choice.

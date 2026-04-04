@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 420 insights
+> 422 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -27,6 +27,7 @@
 - `INS-260330-D801` [high] Patek Philippe's business model — forcing buyers through loyalty tiers, policing resales, and rebuying watches to trace leakers — is fundamentally bubble management, not watchmaking.
 - `INS-260330-FCBC` [high] Controlling access to essential inputs creates stronger lock-in than product quality.
 - `INS-260329-6D3B` [high] Incumbent competition is inevitable at scale — the question shifts from 'if' to 'how do I compete against their bundle advantage.'
+- `INS-260403-5593` [high] Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260327-5E03` [high] When consumers can't afford cars, automakers built more expensive cars with longer loan terms rather than more affordable alternatives.
 - `INS-260327-584D` [high] Self-checkout automation failed to replace cashiers because it transferred labor to consumers without providing sufficie
 - `INS-260403-97CA` [high] Incumbents will always win the copilot game because they have the data and distribution; startups must leapfrog by eliminating workflows entirely.
@@ -293,6 +294,7 @@
 - `INS-260330-45A9` [high] Plants conquered Earth not by making RuBisCo better, but by making more of it — volume strategy beat optimization strategy over evolutionary timescales.
 - `INS-260403-C7A0` [high] Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
 - `INS-260327-E359` [high] Ice cream shops face the structural challenge that demand is seasonal but rent, equipment, and staff costs are year-roun
+- `INS-260403-876D` [high] When a dominant player leaves a critical technical problem unsolved, that gap is a viable entry point for focused competitors.
 - `INS-260324-B0D3` [high] Before 2016, no retailer had a checkout problem. Amazon Go spooked the industry into replacing human cashiers with machines that increased wait times, theft, and frustration.
 - `INS-260323-D4EC` [high] Systems at criticality — forests, economies, markets — naturally drive themselves to a state where a single small event can cascade through the entire system, making mega-events inevitable regardless of the trigger.
 - `INS-260330-570F` [high] Germany and Japan's drive for resource autarky revealed strategic weakness and led to fatal overextension.

@@ -1,6 +1,6 @@
 # Topic: product-strategy
 
-> 34 insights
+> 36 insights
 
 - `INS-260330-809A` [high] Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses.
 - `INS-260402-3DBF` [high] False positives that destroy user trust are far more damaging than false negatives that merely annoy, so bias your systems accordingly.
@@ -11,6 +11,7 @@
 - `INS-260330-13A1` [high] Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
 - `INS-260403-FB4D` [high] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 - `INS-260403-204E` [high] In vertical AI, the defensible position is owning the control point that facilitates the transaction, not just saving time on adjacent tasks.
+- `INS-260403-0041` [high] Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
 - `INS-260330-0BBA` [high] Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260330-C870` [high] Apple's ecosystem moat (Apple Pay, Siri, Maps) provides zero switching cost advantage in India because none of these services work well locally.
 - `INS-260330-F7F4` [high] Apple's ecosystem moat is irrelevant in India because most users never entered it in the first place.
@@ -23,6 +24,7 @@
 - `INS-260403-3656` [high] Stripping live ops from a successful game would lose roughly 40% of revenue — yet most non-game companies don't invest in equivalent continuous content operations.
 - `INS-260403-EC8A` [high] Play-to-earn models collapse when growth slows because users attracted by money leave when earnings drop, triggering a reflexive downward spiral.
 - `INS-260403-5FBD` [high] Value proposition fit and business model viability are independent variables — companies need both to survive.
+- `INS-260403-D4EA` [high] Fast iteration beats careful planning only when the medium allows cheap revision.
 - `INS-260330-118D` [high] Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.
 - `INS-260330-62D6` [high] Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
 - `INS-260330-7168` [high] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.

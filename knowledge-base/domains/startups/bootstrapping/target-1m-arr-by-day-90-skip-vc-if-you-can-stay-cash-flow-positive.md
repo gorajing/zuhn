@@ -41,10 +41,10 @@ resolutions:
     spend around $2,000/month.
 related:
   - INS-260329-727B
+  - INS-260403-8BE9
   - INS-260327-9BE8
   - INS-260322-8BC5
   - INS-260330-78B1
-  - INS-260329-F007
   - INS-260329-4A55
 stance: >-
   Focus on first dollar by day 30, $1M ARR ($80K/month) by day 90, and only

@@ -46,7 +46,6 @@ stance: >-
   Picking any business idea and iterating on feedback is strictly superior to
   waiting for the perfect idea with zero customer context
 related:
-  - INS-260320-6CCE
   - INS-260322-5650
   - INS-260327-6E33
   - INS-260327-A98E
@@ -56,6 +55,7 @@ related:
   - INS-260330-C13A
   - INS-260330-82B5
   - INS-260330-178D
+  - INS-260330-40E9
 evidence:
   - id: INS-260320-6CCE
     type: CONTRADICTS

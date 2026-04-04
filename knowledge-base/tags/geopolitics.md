@@ -21,6 +21,7 @@
 - `INS-260323-3864` The entire nuclear arsenal can launch in seconds; the president has 6 minutes to decide; and deterrence as a philosophy collapses completely once the first missile flies.
 - `INS-260323-75A8` When a population is given no hope, no political agency, and increasing aggression for decades, violent escalation is not surprising — it's the predictable outcome of a pressure cooker with no release valve.
 - `INS-260330-EF74` Nations hosting major tech platforms gain disproportionate geopolitical leverage because these companies wield both financial and cultural influence globally.
+- `INS-260403-A87D` The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260330-4181` The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.
 - `INS-260330-516E` Allied trust in US commitments is the foundation of dollar reserve status, and transactional foreign policy directly threatens it.
 - `INS-260330-4AC6` Nations expand aggressively when facing existential resource constraints, regardless of their stated ideological justifications.

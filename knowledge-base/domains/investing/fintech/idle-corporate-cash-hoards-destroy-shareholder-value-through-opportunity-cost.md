@@ -48,8 +48,8 @@ related:
   - INS-260330-ED77
   - INS-260330-4830
   - INS-260330-137A
+  - INS-260403-B9A9
   - INS-260330-B6AD
-  - INS-260329-2A70
 evidence:
   - id: INS-260330-4830
     type: EXTENDS

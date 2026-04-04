@@ -50,7 +50,6 @@ related:
   - INS-260327-B12E
   - INS-260327-A608
   - INS-260330-0BBA
-  - INS-260329-AB9A
 stance: >-
   Everyone recognizes desktop clutter as a problem, but nobody's in enough pain
   to adopt a tool to solve it

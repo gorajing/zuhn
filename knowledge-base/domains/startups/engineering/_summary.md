@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 25 insights
+> 26 insights
 
 - `INS-260403-C514` [high] Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
 - `INS-260403-3A9D` [high] Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
@@ -15,6 +15,7 @@
 - `INS-260403-EA2C` [high] Programmer throughput is constant in lines/day, so more succinct languages directly multiply output.
 - `INS-260402-7999` [high] Great software is written by sketching and refining, not by executing a pre-completed blueprint.
 - `INS-260403-410A` [high] Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
+- `INS-260403-0A7A` [high] Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 - `INS-260330-4EC0` [high] RuBisCo, the most abundant enzyme on Earth, gets confused by oxygen ~50% of the time, yet plants dominated by scaling volume and building repair pathways rather than evolving a better enzyme.
 - `INS-260330-BFA2` [high] RuBisCo fails ~50% of the time but plants produce 40 billion tons of it rather than evolve a better enzyme — scale masks inefficiency when switching costs exceed optimization costs.
 - `INS-260403-F088` [high] RuBisCo is evolution's poster child for technical debt — a mediocre enzyme that became unfixable because plants scaled around it.

@@ -51,7 +51,6 @@ related:
   - PRI-260328-4313
   - INS-260329-557C
   - INS-260330-233C
-  - INS-260329-57D7
 evidence:
   - id: INS-260329-C91D
     type: CHALLENGES

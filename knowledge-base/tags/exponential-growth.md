@@ -9,11 +9,11 @@
 - `INS-260330-5E09` The brain defaults to linear extrapolation, causing systematic underestimation of any exponential process.
 - `INS-260330-864C` We anchor on small early numbers in exponential sequences and then are shocked when they suddenly look big, even though the pattern was perfectly consistent all along.
 - `INS-260330-41A5` People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
+- `INS-260402-4BC7` Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260330-9935` Converting percentage growth rates into doubling times gives non-mathematical audiences an intuitive grasp of exponential speed that raw percentages cannot provide.
 - `INS-260330-ED8A` Log-scale plots convert exponentials into straight lines, making changes in growth rate perceptually obvious where linear plots obscure them.
 - `INS-260330-FED6` Log-scale plots turn exponential curves into straight lines, making growth rate changes and inflection points visible to human linear-pattern-matching intuition.
 - `INS-260330-8C80` A log-scale plot turns exponential curves into straight lines, making growth rate changes immediately visible.
-- `INS-260402-4BC7` Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
 - `INS-260330-1C84` Every exponential process in nature eventually saturates, making the logistic S-curve a more accurate mental model than pure exponential growth.
 - `INS-260330-1AB0` All real-world exponentials are logistic curves that saturate when the growth medium is exhausted, making the S-curve the true model for any bounded growth process.
 - `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.

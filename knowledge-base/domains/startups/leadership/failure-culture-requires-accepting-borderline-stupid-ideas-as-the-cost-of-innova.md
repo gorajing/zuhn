@@ -49,7 +49,6 @@ stance: >-
   borderline stupid in hindsight, and the only unacceptable failures are not
   trying hard enough or not reflecting on why things failed.
 related:
-  - INS-260320-6CCE
   - INS-260330-2E58
   - INS-260403-F157
   - INS-260321-C14C

@@ -1,6 +1,6 @@
 # Topic: geopolitics
 
-> 378 insights
+> 379 insights
 
 - `INS-260326-1E52` [very_high] The Bolsheviks were a minority party in 1917 Russia but the most disciplined and decisive -- they captured the state while larger factions deliberated.
 - `INS-260326-3E19` [very_high] Pharmaceutical companies funding the FDA, banks staffing financial regulators, and tech giants writing platform regulations are structurally identical -- the mechanism is industry-funded oversight producing industry-favorable rules.
@@ -215,6 +215,7 @@
 - `INS-260327-178D` [high] Byzantine Emperor Alexius asked for mercenary help; Pope Urban reframed it as a holy war to reclaim Jerusalem, transforming a small request into a continental movement under papal authority.
 - `INS-260327-4419` [high] Napoleon rejected the Frankfurt Proposals that would have kept him as Emperor of France within its natural frontiers, and ended up losing everything.
 - `INS-260323-EA65` [high] W.R. Grace lobbied regulators to define asbestos contamination below 1% as 'asbestos-free' — controlling the definition was more effective than fighting every individual regulation.
+- `INS-260403-A87D` [high] The US government is undermining its own dollar dominance by attacking the very stablecoin projects that would cement USD as the default digital currency.
 - `INS-260327-377A` [high] Napoleon's relentless pursuit after Bassano prevented the Austrians from regrouping, turning a battlefield win into the destruction of an entire army.
 - `INS-260327-38B8` [high] Islam spread along the same Silk Road and Indian Ocean trade routes that Arab merchants already dominated — the commercial network became the evangelism network.
 - `INS-260330-4181` [high] The Orthodox-Catholic split of 1054 created geopolitical fault lines that persisted for a millennium — ideological schisms in any system create permanent structural divisions.

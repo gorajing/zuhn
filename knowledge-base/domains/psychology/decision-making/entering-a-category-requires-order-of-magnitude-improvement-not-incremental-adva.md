@@ -52,7 +52,6 @@ stance: >-
   improvement over the status quo
 related:
   - INS-260322-750A
-  - INS-260327-FFA7
   - INS-260327-3A71
   - INS-260327-FD18
   - INS-260327-4E34

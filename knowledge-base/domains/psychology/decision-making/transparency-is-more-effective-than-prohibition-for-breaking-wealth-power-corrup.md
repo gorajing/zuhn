@@ -58,6 +58,7 @@ related:
   - PRI-260328-5464
   - INS-260329-BF96
   - INS-260403-5D89
+  - INS-260403-D62D
 ---
 Graham reframes the inequality debate by distinguishing between wealth and the corruption of wealth translating into power. The real objection most people have isn't to someone getting rich from a startup but to construction firms buying government contracts or rich parents buying college admissions. His proposed solution — radical transparency and logging of all power transactions — comes from computer security principles: the single most important deterrent is the knowledge that actions leave a trail.
 

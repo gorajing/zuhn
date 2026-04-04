@@ -48,10 +48,10 @@ stance: >-
   social procrastination that displaces execution
 related:
   - INS-260330-F6B1
+  - INS-260403-3CD9
   - INS-260325-14A9
   - INS-260328-FE38
   - INS-260330-14A1
-  - INS-260402-8223
 evidence:
   - id: INS-260402-8223
     type: SUPPORTS

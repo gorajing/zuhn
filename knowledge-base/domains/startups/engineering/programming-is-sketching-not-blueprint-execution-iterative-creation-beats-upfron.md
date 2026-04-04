@@ -50,11 +50,11 @@ stance: >-
   from completing specifications before coding begins.
 related:
   - INS-260330-BE23
+  - INS-260403-AC03
   - INS-260402-E994
   - INS-260327-B403
   - INS-260329-2B9A
   - PRI-260328-B4BD
-  - PRI-260403-5B3D
 evidence:
   - id: INS-260329-2B9A
     type: SUPPORTS

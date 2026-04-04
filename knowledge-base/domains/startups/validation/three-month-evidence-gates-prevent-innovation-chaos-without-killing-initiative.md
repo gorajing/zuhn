@@ -54,10 +54,10 @@ stance: >-
   validation.
 related:
   - INS-260329-F7F4
+  - INS-260403-566D
   - INS-260325-8A61
   - INS-260323-4AB5
   - INS-260323-D6C7
-  - INS-260323-4457
 evidence:
   - id: INS-260325-8A61
     type: TRANSFERS_TO

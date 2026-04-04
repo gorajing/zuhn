@@ -40,7 +40,6 @@ related:
   - INS-260325-031F
   - INS-260325-D540
   - INS-260330-8F07
-  - INS-260323-8555
   - INS-260323-2E51
 stance: >-
   Stop thinking in lines of code — think in macro actions: 'agent 1 builds

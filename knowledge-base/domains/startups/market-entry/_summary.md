@@ -1,12 +1,13 @@
 # Topic: market-entry
 
-> 28 insights
+> 29 insights
 
 - `INS-260403-535C` [high] Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software.
 - `INS-260403-16AB` [high] AI copilots in marketplaces increase supply capacity while preserving trust, whereas full autopilots race to zero pricing.
 - `INS-260403-CC4E` [high] Saturated marketplaces that have asymptoted reveal repositioning opportunities because the incumbents' rigidity traps unserved participants.
 - `INS-260403-710A` [high] Capturing the top 10,000 expert users in a domain gives you outsized strategic power because they set quality benchmarks for the broader market.
 - `INS-260402-15A7` [high] Constraining to a narrow initial market — like Facebook starting at Harvard only — creates the critical mass and intensity needed to expand outward.
+- `INS-260403-8BE9` [high] Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
 - `INS-260402-3196` [high] IBM's fatal error was granting a non-exclusive DOS license, allowing Microsoft to own the PC standard from within the supply chain.
 - `INS-260402-580C` [high] Restriction breeds innovation at the edges of incumbent-dominated industries, gradually migrating inward.
 - `INS-260402-C030` [high] A large single-language domestic market lets startups ship simpler MVPs by deferring internationalization.

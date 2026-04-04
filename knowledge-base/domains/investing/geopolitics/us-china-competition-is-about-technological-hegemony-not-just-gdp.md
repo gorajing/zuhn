@@ -47,11 +47,11 @@ related:
   - PRI-260324-3AAE
   - PRI-260324-5F05
   - PRI-260328-4CC0
+  - INS-260403-876D
   - INS-260323-1D15
   - INS-260322-D6B8
   - INS-260329-7CDE
   - INS-260402-45FA
-  - INS-260403-8E25
 stance: >-
   The decisive factor in US-China competition is technological supremacy —
   particularly AI and standard-setting — not raw GDP growth.

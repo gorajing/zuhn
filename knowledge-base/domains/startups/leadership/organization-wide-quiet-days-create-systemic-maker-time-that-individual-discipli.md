@@ -52,12 +52,12 @@ stance: >-
   roles produces more maker output than any individual time management technique
   because it eliminates the social cost of declining meetings.
 related:
-  - INS-260329-4253
   - INS-260329-57D7
   - INS-260329-9A30
   - INS-260329-7A3C
+  - INS-260403-1CC5
   - INS-260329-8ABB
-  - INS-260329-24CE
+  - INS-260329-4253
 evidence:
   - id: INS-260329-9A30
     type: EXTENDS

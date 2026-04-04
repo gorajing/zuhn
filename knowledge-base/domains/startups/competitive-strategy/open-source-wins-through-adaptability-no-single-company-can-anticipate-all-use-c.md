@@ -49,10 +49,10 @@ related:
   - INS-260322-B450
   - INS-260330-856B
   - INS-260327-D9C0
-  - INS-260329-AB9A
   - INS-260330-28B1
   - INS-260330-7241
   - INS-260330-9055
+  - INS-260330-BCD8
 stance: >-
   Linux dominates because anyone can tweak it for their specific use case —
   covering more applications than any proprietary system ever could.

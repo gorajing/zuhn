@@ -47,10 +47,10 @@ stance: >-
   top of confusion
 related:
   - INS-260329-500E
+  - INS-260403-0A7A
   - INS-260321-703F
   - INS-260330-2C97
   - INS-260321-82FE
-  - INS-260329-F362
 evidence:
   - id: INS-260330-2C97
     type: TRANSFERS_TO

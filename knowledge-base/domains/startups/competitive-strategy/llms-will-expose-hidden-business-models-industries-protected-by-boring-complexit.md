@@ -48,7 +48,6 @@ resolutions:
     coming because they don't think of complexity as their business model.
 related:
   - INS-260321-1A03
-  - INS-260323-7B63
   - INS-260325-FA70
   - INS-260403-E642
   - PRI-260324-A608
@@ -57,6 +56,7 @@ related:
   - INS-260328-57CF
   - INS-260321-5C24
   - INS-260327-93F9
+  - INS-260327-4877
 stance: >-
   Industries whose profitability depends on making processes boring, difficult,
   and time-consuming are most vulnerable to LLM disruption

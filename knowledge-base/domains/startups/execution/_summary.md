@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 193 insights
+> 195 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260328-E410` [high] Accountability works because it forces the measured actions that generate confidence — not because it motivates harder work.
@@ -55,6 +55,7 @@
 - `INS-260330-7CC0` [high] Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
 - `INS-260330-5036` [high] Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
 - `INS-260330-C33B` [high] Don't just push harder — also remove friction on the other side of the equation.
+- `INS-260403-3835` [high] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260329-FCE6` [high] Automate money flowing toward investments and add friction to every spending pathway.
 - `INS-260330-DF69` [high] RuBisCo was designed for a low-oxygen world and became half-broken when plants themselves changed the atmosphere.
 - `INS-260329-4E70` [high] The boring middle is a feature of ambitious paths, not a signal to pivot.
@@ -178,6 +179,7 @@
 - `INS-260329-7A3C` [medium] Fill your calendar from 5pm backward so meetings stack at the end of the day and mornings stay open for deep work.
 - `INS-260327-767B` [medium] In frontier tech, no existing playbook applies—build your own through experimentation and first principles.
 - `INS-260329-ADC4` [medium] Being busy creates natural prioritization pressure that eliminates waste — start now rather than waiting for free time that never comes.
+- `INS-260403-566D` [medium] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
 - `INS-260327-5297` [medium] When the startup opportunity is clear, finishing your degree adds less value than starting immediately.
 - `INS-260327-7B0C` [medium] AlphaChip trained on just 20 examples with a state space of 10^9000 possible solutions — extreme constraints forced creative architecture design.
 - `INS-260327-95C6` [medium] China shutting down Bitcoin mining forced Alex to build US data centers from scratch — that forced capability became the foundation for AI infrastructure.

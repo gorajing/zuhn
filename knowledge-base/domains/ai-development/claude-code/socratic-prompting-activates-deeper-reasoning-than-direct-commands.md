@@ -42,8 +42,8 @@ related:
   - PRI-260320-6847
   - INS-260321-82FE
   - INS-260320-D972
+  - INS-260403-0A7A
   - PRI-260321-037A
-  - INS-260329-E208
   - INS-260329-CB03
 stance: >-
   Instead of 'write me X', ask 'what makes X work well?' then 'what principles

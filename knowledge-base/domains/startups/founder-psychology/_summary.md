@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 48 insights
+> 50 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -20,6 +20,7 @@
 - `INS-260323-F9AC` [high] Great achievers across history share one trait: they know their demons intimately and channel them into drive rather than letting those demons destroy them or pretending they don't exist.
 - `INS-260328-8DF8` [high] People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
 - `INS-260323-8B89` [high] Negative role models teach what kind of human not to be and what actions not to take — this via-negativa learning can be as formative as positive mentorship.
+- `INS-260403-E365` [high] Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 - `INS-260323-F853` [high] Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
 - `INS-260323-3CC2` [high] Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
 - `INS-260323-979C` [high] Your passion can start a business, but continuing to run it on personal emotion instead of facts, metrics, and processes is the most common path to failure.
@@ -35,6 +36,7 @@
 - `INS-260323-A183` [high] Founders who fantasize about being a tech billionaire rather than obsessing over the problem they solve are setting themselves up to quit when the work gets hard.
 - `INS-260323-5B9F` [high] Fireship quotes Bukowski's 'go all the way' poem and then honestly admits he'd rather make YouTube content — that self-awareness is the kill signal most founders ignore for months.
 - `INS-260330-E39E` [high] The 'can't not do it' test — where the idea beats itself out of your chest — is the only reliable predictor of founder endurance through a decade of startup pain.
+- `INS-260403-0821` [high] What stops people from starting companies is the crushing weight of responsibility, not financial risk or long hours.
 - `INS-260323-0683` [high] As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260323-78A5` [high] Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
 - `INS-260328-AA1F` [high] Whatnot -- a 'Pokemon trading card site' that drew mockery when YC funded it -- became an $11B decacorn, proving that the best venture bets look absurd at announcement.

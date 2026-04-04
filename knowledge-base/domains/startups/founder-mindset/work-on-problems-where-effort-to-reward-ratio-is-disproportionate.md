@@ -44,7 +44,6 @@ stance: >-
   of focused effort produces outsized impact — not the hardest problems, but the
   highest-leverage ones.
 related:
-  - INS-260325-13B9
   - INS-260325-EC93
   - INS-260321-7D76
   - INS-260323-9C11
@@ -54,6 +53,7 @@ related:
   - INS-260327-BF43
   - INS-260330-579B
   - INS-260402-4AB4
+  - INS-260403-3E9A
 evidence:
   - id: INS-260327-B72F
     type: SUPPORTS

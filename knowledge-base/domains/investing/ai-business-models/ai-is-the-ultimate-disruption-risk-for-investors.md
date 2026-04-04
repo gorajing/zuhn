@@ -43,11 +43,11 @@ resolutions:
     physical moat of fresh food supply chains and brand loyalty resists digital
     disruption in ways that pure software businesses cannot.
 related:
+  - INS-260403-427E
   - INS-260322-019A
   - INS-260325-5455
   - PRI-260328-A4AC
   - PRI-260323-977A
-  - INS-260322-F6AA
   - INS-260323-D6C7
   - INS-260327-FC6F
 stance: >-

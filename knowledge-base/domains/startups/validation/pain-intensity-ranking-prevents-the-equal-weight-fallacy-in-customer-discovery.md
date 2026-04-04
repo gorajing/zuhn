@@ -42,11 +42,11 @@ stance: >-
   Founders who rank customer pains by intensity and frequency build better
   products than those who treat all discovered pains as equally important.
 related:
+  - INS-260403-AA0B
   - INS-260330-579B
   - PRI-260328-A589
   - INS-260327-BF43
   - INS-260330-88B0
-  - INS-260330-75B5
 evidence:
   - id: INS-260330-88B0
     type: TRANSFERS_TO

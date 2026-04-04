@@ -55,7 +55,6 @@ related:
   - INS-260329-500E
   - INS-260329-25FC
   - INS-260329-04FA
-  - INS-260329-CB03
 evidence:
   - id: INS-260329-979B
     type: SUPPORTS

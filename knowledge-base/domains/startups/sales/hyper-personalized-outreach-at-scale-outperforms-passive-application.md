@@ -50,7 +50,6 @@ stance: >-
   applications, because it demonstrates the exact hustle trait employers value
   most
 related:
-  - INS-260325-FC07
   - INS-260322-DBEA
   - PRI-260328-95E3
   - PRI-260328-1D90

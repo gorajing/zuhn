@@ -54,6 +54,6 @@ related:
   - INS-260327-9BE8
   - INS-260330-AACC
   - INS-260322-96F1
-  - INS-260330-E082
+  - INS-260403-A87D
 ---
 In 2009, North Korea ordered all banknotes exchanged with a 100,000 Won limit per person, effectively confiscating accumulated savings. The immediate result was rare public unrest, but the lasting consequence was more significant: North Koreans permanently lost trust in their own currency and shifted unofficial transactions to the Chinese Yuan. This pattern of currency trust destruction followed by spontaneous dollarization (or in this case, yuanization) appears repeatedly in economic history - from Zimbabwe to Venezuela to Argentina. Once a government demonstrates willingness to confiscate savings through monetary policy, the trust deficit becomes nearly permanent and creates parallel financial systems that reduce the state's economic control. The broader principle: trust in institutions can be destroyed in a single act but takes generations to rebuild, and the gap gets filled by alternative systems.

@@ -7,4 +7,5 @@
 - `INS-260330-0AA7` Talk to all investors in parallel but allocate attention proportional to expected value (likelihood × quality).
 - `INS-260403-6F52` In short-format investor evaluations, investors need random-access Q&A to test domain expertise — rehearsed pitches consume time without building conviction.
 - `INS-260403-86DB` Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
+- `INS-260403-B9A9` Minimal profitability removes investors' ability to exploit founders' desperation for capital.
 - `INS-260403-7E27` Technical founders can bypass the performative pitch process by launching cheaply on seed money and approaching investors with traction data instead of plans.

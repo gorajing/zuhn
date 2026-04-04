@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3252 actionable insights
+Generated on 2026-04-04 | 3269 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1224,6 +1224,9 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260330-0C31] Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
 - [INS-260330-0149] Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
 - [INS-260403-FFF0] Newton serves as Graham's model for seeking questions people didn't even realize were questions, rather than settling for the immediate rewards of familiar problems.
+- [INS-260403-AA0B] Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
+- [INS-260403-1CC5] Knowing you have a meeting in an hour stops you from starting hard work, making scheduled interruptions worse than random ones.
+- [INS-260403-3CD9] Busywork that feels productive is worse than obvious procrastination because it prevents self-correction.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -1711,6 +1714,7 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260329-2A70] Acquire burned-out small businesses by offering to pay from future profits, assembling a portfolio with zero capital.
 - [INS-260329-7192] Video editing + copywriting + social media + management transforms someone from a $50K specialist into a CMO-level operator — each skill multiplies rather than adds.
 - [INS-260329-1318] Selling expensive services on commission eliminates every traditional startup barrier except your ability to persuade.
+- [INS-260403-FC36] Ramen profitability is a trick for not dying en route to scale, not evidence that the business model works.
 
 ## startups/business-models
 - [INS-260322-FCFC] Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
@@ -1984,6 +1988,7 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260403-8F6E] Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.
 - [INS-260403-C7A0] Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
 - [INS-260403-862D] Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
+- [INS-260403-5593] Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2029,6 +2034,7 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260403-410A] Easy-to-read individual lines multiplied by many more lines produces worse total readability than dense-but-fewer lines.
 - [INS-260403-59F4] Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
 - [INS-260403-F100] The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
+- [INS-260403-0A7A] Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 
 ## startups/execution
 - [INS-260323-CB34] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
@@ -2184,6 +2190,8 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260403-9680] Hedging your startup with grad school, consulting, or side projects is functionally equivalent to quitting.
 - [INS-260403-10D8] Startups that maintain regular contact with external stakeholders are dramatically less likely to die than those that go silent.
 - [INS-260403-9A4C] Most startups die from giving up, not from insurmountable external forces.
+- [INS-260403-566D] Selecting three high-leverage 12-month priorities and filtering every decision through them keeps innovation teams focused and aligned.
+- [INS-260403-3835] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2390,6 +2398,7 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260402-8C0E] Founders are driven more by not wanting to look bad in front of peers than by the theoretical possibility of getting rich.
 - [INS-260402-4B96] Startups are where gaming the system stops working because users only care if your product solves their problem.
 - [INS-260403-3E9A] Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.
+- [INS-260403-E365] Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -2484,6 +2493,8 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260403-6620] Investors who can't fully evaluate your product rely on your confidence as a proxy — show don't tell, and never apologize.
 - [INS-260403-EE70] Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.
 - [INS-260403-035A] Tell stories about specific users and their problems rather than citing market size — investors fear you've built something nobody wants, and user stories are the antidote.
+- [INS-260403-2B6E] Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
+- [INS-260403-B9A9] Minimal profitability removes investors' ability to exploit founders' desperation for capital.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -2750,6 +2761,8 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260403-CF09] Kodak, Nokia, and Blackberry were technologically innovative companies that died because they invested in product R&D without exploring new business models.
 - [INS-260403-47BF] Lack of structured innovation processes is itself a warning sign that the organization is behind.
 - [INS-260403-F148] Innovation platforms that bundle methodology and training outperform feature-rich tools that lack structured frameworks.
+- [INS-260403-D62D] Organizations default to efficiency innovation and must deliberately shift resources toward sustaining and transformative categories.
+- [INS-260403-FAD8] Transformative innovation requires 10x more ideas in the pipeline because breakthrough outcomes are inherently unpredictable.
 
 ## startups/leadership
 - [INS-260322-DAFB] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
@@ -2876,6 +2889,7 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260403-FF57] Less developed financial infrastructure in non-US markets creates larger friction gaps that fintech-enabled marketplaces can capture as margin.
 - [INS-260403-BA5D] In emerging markets, targeting broken essential industries provides both large market size and natural urgency that overcomes adoption friction.
 - [INS-260403-5EB4] In low-trust markets, founders must build trust bridges through local symbols and social proof before product quality matters.
+- [INS-260403-8BE9] Stablecoins gain traction first in markets like Kenya, Turkey, Argentina, and Venezuela where local currencies are unstable and physical dollar access is restricted.
 
 ## startups/mental-models
 - [INS-260330-C0D1] If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs.
@@ -2995,6 +3009,7 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260403-C3DF] Looking down on your users, however benevolently, inevitably corrupts the design.
 - [INS-260403-9C60] The quality of a tool is measured by the journey it enables, not the destination it displays.
 - [INS-260403-0CA8] Focus all polish on the one or two things users come back for, ship that fast, then layer depth only after validation.
+- [INS-260403-9D8A] Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
 
 ## startups/product-strategy
 - [INS-260330-7168] Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
@@ -3017,6 +3032,7 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260403-2DB2] Live ops creates a compounding advantage: each data-driven iteration personalizes the experience further, building a moat that static competitors cannot match.
 - [INS-260403-9B5D] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 - [INS-260403-FB4D] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
+- [INS-260403-0041] Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3028,6 +3044,7 @@ Generated on 2026-04-04 | 3252 actionable insights
 - [INS-260402-3A0D] Simplicity forces you to face the real problem because you can't hide behind ornament.
 - [INS-260402-2074] Expect to discard 70-75% of initial output as the normal cost of producing quality work.
 - [INS-260403-4942] Fifteenth-century Florentine artists produced extraordinary work partly because they believed extraordinary work was possible and competed fiercely to achieve it.
+- [INS-260403-AC03] Slow, careful software development merely produces a polished version of your first wrong idea.
 
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'

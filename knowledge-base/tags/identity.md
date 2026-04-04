@@ -4,11 +4,11 @@
 - `INS-260323-7DBC` At the self-authoring stage of development, you realize your values and identity are not terminal but instrumental — and gaining agency over your identity costume is what constitutes wisdom.
 - `INS-260325-4C2E` The algorithm effect replaces internal motivation with external validation loops, creating population-level identity outsourcing to platforms.
 - `INS-260327-8DC5` If a philosophical idea doesn't make you uncomfortable, it probably isn't challenging anything that matters.
+- `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
+- `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives.
 - `INS-260327-D77C` The average billionaire is 63 and getting older, with no billionaires under 30 being self-made, yet most refuse to retire even though some would be richer if they'd passively invested instead.
 - `INS-260330-C548` Each moral compromise raises the psychological cost of reversing course, creating an escalation trap.
 - `INS-260403-C1B7` People who didn't attend elite schools suffer more from imagining what they missed than from any actual educational gap.
-- `INS-260330-790A` Serial pivots away from proven talent usually signal identity rejection rather than strategic diversification.
-- `INS-260330-C7B5` Making a tool part of your identity makes you worse at evaluating alternatives.
 - `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
 - `INS-260330-CC9E` Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
 - `INS-260329-5B3D` Spending to look rich instead of being rich reveals that you've outsourced your self-worth to other people's opinions.
