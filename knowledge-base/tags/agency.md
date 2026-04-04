@@ -1,9 +1,9 @@
 # Tag: agency
 
 - `INS-260325-EE14` Wharton research shows people abandon AI tools after seeing a single error, but letting users tweak parameters restores adoption even at higher error rates.
+- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260325-BE19` Even in a deterministic universe, modeling yourself and others as choice-making agents is the right approach because no one can be Laplace's demon.
 - `INS-260330-2294` The Library of Babel contains every possible 3200-character text — including your birth, death, and every joke — yet we intuitively feel none of it has been 'said' until a person means it.
-- `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260403-45E3` Classical virtue ethics focused on character over action because its audience had no real choice about what to do with their lives.
 - `INS-260325-C996` Psychologist Sonja Lyubomirsky estimates 50% of happiness is biological set point, 10% is circumstances, and 40% is under our control through deliberate choices.
 - `INS-260323-7212` Network experiments show the world is 'poised on an edge of instability' where one person's choice can tip an entire system toward cooperation or defection.

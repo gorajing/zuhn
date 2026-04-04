@@ -6,5 +6,5 @@
 - `INS-260403-172E` Photosynthesis charges thylakoids like batteries by pumping protons to one side, then harvests energy as they flow back — a pattern that appears across biology and engineering.
 - `INS-260403-861A` ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
 - `INS-260403-B6E6` Thylakoids are charged like batteries by pumping protons to one side, then releasing them through ATP synthase to produce energy—imbalance is the engine.
-- `INS-260403-3C2C` Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.
 - `INS-260330-40EC` ATP synthase converts proton concentration gradients into chemical energy — the same store-then-release pattern used in capacitors, message queues, and buffer pools.
+- `INS-260403-3C2C` Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.

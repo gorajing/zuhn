@@ -2,11 +2,11 @@
 
 - `INS-260329-C4F5` Framing AI as augmentation rather than replacement is the only actionable mindset because the alternative is paralysis.
 - `INS-260330-7A69` Resisting the psychedelic experience produces suffering while surrender produces transcendence, making the experience a direct feedback mechanism on one's relationship to control.
+- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260403-AA0B` Important problems create an almost physical pain that paralyzes—you must approach them obliquely rather than head-on.
 - `INS-260323-C1B2` Fear occurs in proportion to importance — the intensity of your resistance signals the significance of the action you are avoiding.
 - `INS-260325-58F5` Lower the bar of the first step until you find a version you are actually willing to do right now.
 - `INS-260325-C8D5` For any feared activity, keep lowering the scale until you find a version you're willing to do right now — that minimum viable increment bypasses resistance entirely.
-- `INS-260330-383F` Peterson's dragon test: if the crisis you're fighting makes you terrified and authoritarian, your emotional state disqualifies you from leading the response regardless of whether the threat is real.
 - `INS-260402-D0F2` Moral movements go viral because people's default response to being told they're breaking a rule is to believe the accuser, especially when rules change fast.
 - `INS-260403-53D9` Creepiness is a specific cognitive state triggered when something is maybe-threatening but maybe-not, leaving the brain unable to commit to fight-or-flight.
 - `INS-260327-1845` Ask 'what would I do if I weren't afraid?' and notice how many of your current life choices are fear-avoidance rather than genuine pursuit.
