@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3269 actionable insights
+Generated on 2026-04-04 | 3276 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1254,6 +1254,7 @@ Generated on 2026-04-04 | 3269 actionable insights
 - [INS-260403-DB0A] Making status visible in egalitarian communities instantly creates divisive in-group/out-group dynamics that are hard to reverse.
 - [INS-260403-97D6] Psychological safety is prerequisite infrastructure for innovation — without it, process investments are wasted.
 - [INS-260403-FF74] Formal restrictions provoke resistance in hacker-minded people, while informal social contracts earn genuine compliance.
+- [INS-260403-C4E2] When enough people around you are doing something ambitious, it stops feeling crazy and starts feeling like the obvious next step.
 
 ## psychology/learning
 - [INS-260329-656B] Use complete mini-projects rather than isolated exercises to teach technical concepts.
@@ -1762,6 +1763,7 @@ Generated on 2026-04-04 | 3269 actionable insights
 - [INS-260403-7E18] Managing a portfolio of business models reveals synergies and cannibalization that product portfolios miss.
 - [INS-260403-E78B] High CAC only pays off when switching costs or lock-in mechanisms prevent customer churn to competitors.
 - [INS-260403-2D99] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
+- [INS-260403-096C] When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -1989,6 +1991,9 @@ Generated on 2026-04-04 | 3269 actionable insights
 - [INS-260403-C7A0] Incumbents who outsourced their entire tech stack to vendors cannot compete on product speed with tech-native challengers.
 - [INS-260403-862D] Markets with insufficient human labor supply offer AI startups a structural advantage because the alternative is not a cheaper human—it is no solution at all.
 - [INS-260403-5593] Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
+- [INS-260403-8256] Non-digitized industries (legal, manufacturing, construction) are the highest-value targets for AI startups because no cloud incumbent blocks entry.
+- [INS-260403-F66F] Fragmented markets with entrenched but low-quality incumbents let startups capture outsized value through aggregation and 10X better experiences.
+- [INS-260403-599B] When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -2536,6 +2541,7 @@ Generated on 2026-04-04 | 3269 actionable insights
 - [INS-260403-99B1] Exponential startup growth comes from making a product so good users recommend it, not from launch tactics or exposure strategies.
 - [INS-260403-C161] Plarium's strategy games with built-in clan mechanics achieved 2x retention versus the same games without clans.
 - [INS-260403-D2A9] Bundling financial services raises ARPU enough to unlock marketing channels that were previously uneconomical.
+- [INS-260403-1DE4] Startups that build hyperlocal network effects in emerging markets create moats that global competitors cannot penetrate even with superior resources.
 
 ## startups/growth-marketing
 - [INS-260320-A1D3] Keep your content creator team to 5-10 people max, meet with each 1:1, and share what converts vs what doesn't — a small elite team compounds while a large team dilutes quality.
@@ -3033,6 +3039,7 @@ Generated on 2026-04-04 | 3269 actionable insights
 - [INS-260403-9B5D] SMBs failed to adopt SaaS tools not due to cost alone but because the time investment to learn and monitor them was unaffordable — background-running AI agents eliminate this barrier.
 - [INS-260403-FB4D] Compare enterprise software by capabilities (outcomes enabled) rather than features (functionality offered) to make better purchasing decisions.
 - [INS-260403-0041] Focus groups discover stated preferences; great designers satisfy expectations customers didn't know they had.
+- [INS-260403-5C06] NFX's 5-level AI spectrum shows most founders default to AI enhancement (L1-3) rather than pursuing AI-first products (L4-5) where transformative value lives.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.

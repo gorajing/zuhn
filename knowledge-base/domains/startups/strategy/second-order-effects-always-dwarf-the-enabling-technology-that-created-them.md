@@ -53,9 +53,9 @@ related:
   - INS-260327-5E03
   - INS-260329-644B
   - INS-260403-34A6
+  - INS-260403-599B
   - PRI-260328-A1AA
   - PRI-260403-4612
-  - INS-260322-BBED
 ---
 The age of sail created modern finance (stock exchanges, insurance, bond markets) as second-order effects of needing to fund risky ocean voyages. Railroads imposed standardized time zones and created national consumer brands like Sears. The automobile spawned suburbanization, consumer credit, and the entire modern consumer economy — none of which Henry Ford anticipated when designing the Model T.
 

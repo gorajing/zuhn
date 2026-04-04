@@ -50,7 +50,6 @@ stance: >-
   content embeddable on every existing platform — turning other people's
   distribution into your own growth engine at zero marketing cost.
 related:
-  - INS-260327-AD0D
   - INS-260327-88FE
   - PRI-260328-FD47
   - INS-260330-0FB9

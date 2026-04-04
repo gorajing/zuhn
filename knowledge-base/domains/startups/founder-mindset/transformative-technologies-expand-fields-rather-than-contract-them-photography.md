@@ -54,7 +54,6 @@ stance: >-
   pattern will out-position those stuck in zero-sum displacement thinking.
 related:
   - INS-260322-8147
-  - INS-260325-DFC7
   - INS-260330-8FD6
   - INS-260402-B2A2
   - INS-260402-580C

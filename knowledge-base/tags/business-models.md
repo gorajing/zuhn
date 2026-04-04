@@ -18,6 +18,7 @@
 - `INS-260330-0998` Tencent's attempt to charge subscription fees for QQ backfired and lost users to competitors, but switching to free access with microtransactions for virtual items and in-game purchases became enormously profitable.
 - `INS-260327-C294` Two-sided platforms that subsidize drivers and riders simultaneously create artificial network effects that collapse whe
 - `INS-260327-E52A` Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
+- `INS-260403-0CA9` Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
 - `INS-260327-46F6` When a company renames itself after an unproven venture (Facebook to Meta), it signals that leadership has psychological
 - `INS-260327-DF8C` Resource businesses that maximize short-term extraction rates deplete reserves faster, while those that manage sustainab
 - `INS-260327-38F0` Fast-food chains whose brand promise is consistency (every KFC tastes the same) lose to competitors whose promise is fre

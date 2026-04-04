@@ -1,6 +1,6 @@
 # Domain: investing
 
-> 606 insights across 6 topics
+> 607 insights across 6 topics
 
 ## Topics
 
@@ -11,4 +11,4 @@
 | fintech | 75 | Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential. |
 | geopolitics | 379 | The Bolsheviks seized power with a tiny force by capturing Petrograd's key infrastructure — the telegraph office, bridges, railway stations, and banks — rather than fighting the entire city. |
 | space-economy | 32 | Detecting an alien signal would statistically prove that technological civilizations can have long futures, because the math of detection requires that such technologies are long-lived on cosmic timescales. |
-| venture-capital | 12 | Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate. |
+| venture-capital | 13 | Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate. |

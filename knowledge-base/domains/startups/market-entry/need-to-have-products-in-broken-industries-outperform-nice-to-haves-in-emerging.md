@@ -55,10 +55,10 @@ related:
   - INS-260330-DE2B
   - INS-260330-D460
   - INS-260402-580C
-  - INS-260402-C030
   - INS-260330-D5BD
   - PRI-260328-A4AC
   - INS-260403-4E7A
+  - INS-260403-1DE4
 ---
 Latin America has multiple broken industries — education, insurance, logistics, finance — that are simultaneously large and high-impact. The strategic advantage of targeting these sectors is that they represent need-to-haves rather than nice-to-haves. When people desperately need a working solution for something essential, they'll push through trust barriers and adoption friction faster than they would for a convenience product.
 

@@ -53,11 +53,11 @@ stance: >-
 related:
   - INS-260324-CBD3
   - INS-260327-2BAD
+  - INS-260403-8256
   - PRI-260328-C918
   - INS-260403-924B
   - PRI-260328-5CDE
   - INS-260403-D543
-  - INS-260322-F6AA
 ---
 Real estate at $228T globally dwarfs equities and debt combined, yet remained largely analog through multiple waves of tech disruption that transformed smaller categories. Despite this late start, proptech has already produced more billion-dollar companies in 15 years than almost any consumer services category except e-commerce.
 

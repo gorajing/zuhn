@@ -57,10 +57,10 @@ stance: >-
   total revenue than those that release simultaneously across all channels,
   because each window captures a different price sensitivity segment.
 related:
-  - INS-260327-442D
   - INS-260327-F2DF
   - INS-260327-77C7
   - PRI-260328-6A8D
+  - INS-260403-096C
   - INS-260329-CB2C
 ---
 The movie industry's windowed release model is one of the most sophisticated monetization frameworks in any industry. A film moves through sequential windows, each capturing a different consumer segment at declining price points: theatrical ($15-20/viewer for opening weekend), home entertainment/TVOD (purchase/rental), SVOD first window (Netflix pays premium for exclusivity), SVOD second and third windows (declining license fees), cable television (ad-supported), and finally syndication (bulk licensing for libraries).

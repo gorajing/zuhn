@@ -61,9 +61,9 @@ stance: >-
 related:
   - INS-260322-0CE3
   - INS-260323-C90C
+  - INS-260403-0550
   - INS-260402-580C
   - INS-260330-D460
-  - INS-260330-EF74
 evidence:
   - id: INS-260322-0CE3
     type: SUPPORTS

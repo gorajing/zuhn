@@ -4,8 +4,8 @@
 - `INS-260330-BA7F` Every oxygen molecule we breathe originates from Photosystem II splitting water — a single reaction point sustaining all aerobic life.
 - `INS-260330-956F` All aerobic life depends on a single reaction — Photosystem II splitting water molecules to release oxygen and energized electrons.
 - `INS-260330-D582` Reversing just one variable in bicycle steering — handlebars to wheel direction — made riding impossible for everyone who tried, despite 99% of the physical system remaining identical.
-- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260330-E5DC` RuBisCo worked perfectly in low-oxygen atmospheres but its O2-confusion failure mode was invisible until plants changed their own environment — success can hide latent vulnerabilities.
+- `INS-260330-B3D5` RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260323-6357` Much of democracy's stability relies on unwritten norms rather than enforceable laws — a shameless norm-violator reveals how fragile the system really is.
 - `INS-260325-F5CA` The same interconnections that create prosperity become transmission vectors for cascading collapse.
 - `INS-260330-6AED` The leading theory for the Indus Valley's collapse is that the Indus River shifted course, destroying the agricultural base of an otherwise advanced civilization.

@@ -53,7 +53,6 @@ related:
   - INS-260329-FB3F
   - INS-260327-735A
   - INS-260329-5C65
-  - INS-260329-180B
 evidence:
   - id: INS-260322-0812
     type: EXTENDS

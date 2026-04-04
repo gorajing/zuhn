@@ -49,11 +49,12 @@ resolutions:
     that previously only supported a $2/month subscription.
 related:
   - INS-260322-7282
+  - INS-260403-599B
   - INS-260327-EA4E
   - INS-260403-5D89
   - PRI-260328-6A8D
-  - INS-260330-F512
   - INS-260329-8DDF
+  - INS-260330-F512
   - INS-260330-ACE7
 stance: >-
   Companies with proprietary data that previously sold raw access can now

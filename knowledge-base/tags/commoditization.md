@@ -1,6 +1,7 @@
 # Tag: commoditization
 
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
+- `INS-260403-4C61` NFX evaluates AI startups on moat strength, proprietary data, and network effects rather than the AI component itself, since AI capabilities are rapidly commoditizing.
 - `INS-260403-BE7C` Price disruption alone invites margin compression; a stacked second model (marketplace, fintech, bundling) is required for sustainability.
 - `INS-260324-179B` GoPro created and owned the action camera category, had strong margins, profits, and brand recognition — stock still dropped 95% because the market was too small to sustain a standalone company.
 - `INS-260403-3C2C` Every technology eventually hits a commoditization inflection point where differentiation must shift away from the tech itself.

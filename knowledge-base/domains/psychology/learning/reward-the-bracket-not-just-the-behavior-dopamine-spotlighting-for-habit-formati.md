@@ -54,7 +54,6 @@ stance: >-
   surrounding a habit (preparation through completion) accelerates habit
   formation more than rewarding only the outcome.
 related:
-  - INS-260329-6514
   - INS-260329-6253
   - INS-260327-A814
   - INS-260403-F7F4

@@ -60,7 +60,6 @@ related:
   - INS-260327-F2DF
   - INS-260330-6B18
   - INS-260330-DC0D
-  - INS-260327-6E0E
 evidence:
   - id: INS-260327-09D7
     type: EXTENDS

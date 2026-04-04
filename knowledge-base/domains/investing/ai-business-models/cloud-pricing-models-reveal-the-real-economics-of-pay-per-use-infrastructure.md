@@ -52,14 +52,14 @@ stance: >-
   computing fundamentally advantages startups over incumbents by eliminating
   upfront infrastructure investment barriers
 related:
-  - INS-260320-8688
   - INS-260327-7D53
   - INS-260327-4BC6
   - INS-260329-A57B
+  - INS-260320-8688
+  - INS-260403-8256
   - INS-260321-2D72
   - INS-260330-D6D3
   - INS-260329-1085
-  - INS-260329-1318
   - INS-260329-C6BB
 evidence:
   - id: INS-260320-8688

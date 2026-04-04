@@ -53,7 +53,7 @@ related:
   - INS-260326-291C
   - INS-260330-BEE7
   - INS-260403-805E
-  - INS-260327-8C1C
+  - INS-260403-5C06
   - INS-260328-3FA4
 stance: >-
   Early-stage founders should paint a picture of how the customer's life changes

@@ -41,9 +41,9 @@ resolutions:
 related:
   - PRI-260322-DCDB
   - INS-260329-7C08
+  - INS-260403-096C
   - INS-260321-3312
   - INS-260329-BCCB
-  - INS-260321-38EC
 stance: >-
   Allocate 80% of content to evergreen material (guides, frameworks, reference)
   and 20% to timely pieces

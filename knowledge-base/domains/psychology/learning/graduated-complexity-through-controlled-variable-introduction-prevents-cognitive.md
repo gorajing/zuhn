@@ -47,7 +47,6 @@ stance: >-
   variables constant is more effective than teaching multiple related concepts
   simultaneously
 related:
-  - INS-260327-B539
   - INS-260329-7B1D
   - INS-260329-E6AF
   - INS-260329-07D3

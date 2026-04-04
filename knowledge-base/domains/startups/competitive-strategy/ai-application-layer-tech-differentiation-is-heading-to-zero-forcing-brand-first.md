@@ -45,7 +45,6 @@ stance: >-
   competitive levers.
 related:
   - INS-260322-3159
-  - INS-260322-BBED
   - INS-260325-BEAC
   - INS-260321-4E98
   - INS-260330-A25A
@@ -54,5 +53,6 @@ related:
   - INS-260403-36F4
   - PRI-260322-8FD4
   - INS-260330-C24F
+  - INS-260403-3615
 ---
 NFX observes that hundreds of generative AI companies use essentially the same tech stack under the hood: similar models, similar data pipelines, similar UX patterns. The formula (Data + Model) x UX alone won't work — you need to multiply by distribution and perceived customer value. This mirrors what happened with bottled water: once the product itself became identical, companies like Perrier won by creating emotional and cultural value around a commodity. For AI founders, this means investing heavily in brand identity, go-to-market strategy, and unique positioning from day one rather than assuming technical superiority will protect them.

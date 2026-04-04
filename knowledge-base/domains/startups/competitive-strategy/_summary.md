@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 422 insights
+> 425 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -16,6 +16,7 @@
 - `INS-260403-7B04` [high] AI app-layer tech is commoditizing so fast that brand and distribution are now the primary moats.
 - `INS-260327-2627` [high] Companies that fired teams and replaced them with AI are now begging workers to come back as they enter the 'find out' phase of discovering most jobs are more nuanced than AI can handle.
 - `INS-260325-73C0` [high] Bret Taylor: AI breaks per-seat SaaS — the new model charges for outcomes (tasks completed, problems solved), not users provisioned.
+- `INS-260403-8256` [high] Non-digitized industries (legal, manufacturing, construction) are the highest-value targets for AI startups because no cloud incumbent blocks entry.
 - `INS-260403-D62F` [high] AI marketplace defensibility scales with the difficulty of organizing previously offline or fragmented supply, not model sophistication.
 - `INS-260322-9EC6` [high] Traditional moats (system of record, network effects, workflow ownership) still apply in AI — but what changed is that even 'features' can now charge $20K/year because they replace labor, not just software seats.
 - `INS-260328-9408` [high] None of the YC mobile winners had pre-iPhone mobile experience; the same pattern is playing out with AI disrupting SaaS.
@@ -202,6 +203,7 @@
 - `INS-260327-A61B` [high] Lower barriers to build (AWS, Stripe, AI) simultaneously lower barriers for competitors, making speed the primary differentiator.
 - `INS-260324-1CC8` [high] Buy Alexander McQueen sneakers, a Gucci jacket, and a YSL bag from 3 'different' brands — all your money goes to the same company (Kering). LVMH ($54B revenue) and Kering dominate through an illusion of brand independence.
 - `INS-260327-87A3` [high] LVMHs competitive advantage is vertical integration across the luxury value chain: they own materials suppliers, manufac
+- `INS-260403-F66F` [high] Fragmented markets with entrenched but low-quality incumbents let startups capture outsized value through aggregation and 10X better experiences.
 - `INS-260330-A9F0` [high] The better you make your product, the more your used inventory competes with your new releases.
 - `INS-260329-D37E` [high] The VC maxim holds: great entrepreneur + poor market = market wins; poor entrepreneur + great market = market still wins.
 - `INS-260327-7C15` [high] Amazon flooded its marketplace with third-party sellers, polluting search results with junk and destroying purchase confidence.
@@ -371,6 +373,7 @@
 - `INS-260324-E7A2` [high] GameStop had 4,400+ stores and was invaluable to game publishers — then digital storefronts (Steam, PlayStation Store, Xbox Live) let publishers sell directly, and the middleman became obsolete overnight.
 - `INS-260329-B6DF` [high] Winners focus on customers while competitors focus on winners — creating a vicious cycle where copiers become progressively blind to what actually matters.
 - `INS-260327-CC05` [high] In SEO spam, mobile apps, and crypto ICOs, the sloppers all followed the same 'turkey graph' — looked like winning early, then collapsed. AI slop will be no different.
+- `INS-260403-599B` [high] When new technology arrives, ventures creating previously-impossible value win; those preserving old revenue models lose.
 - `INS-260329-6E0F` [high] Competitors who copy you are looking at you instead of their customers — their distraction is your advantage.
 - `INS-260329-277B` [high] Being copied is a positive signal; the copier's attention on you means their attention isn't on their customers.
 - `INS-260330-2CFA` [high] Plants' light reactions flooded the atmosphere with oxygen, which then poisoned RuBisCo's carbon-fixing ability.

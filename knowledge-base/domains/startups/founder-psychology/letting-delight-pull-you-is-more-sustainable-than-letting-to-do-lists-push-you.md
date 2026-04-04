@@ -54,6 +54,7 @@ related:
   - INS-260402-9D7B
   - INS-260403-D64B
   - INS-260330-F6B1
+  - INS-260403-C4E2
 ---
 Graham's proposed solution to procrastination inverts the standard productivity advice: instead of building better systems to push yourself through to-do lists, let delight pull you toward ambitious work you genuinely enjoy. When you're pulled by excitement rather than pushed by obligation, you naturally prioritize correctly—the errands that get dropped are the ones that should have been dropped.
 

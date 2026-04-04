@@ -456,6 +456,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Takaichi Era begins for real | blog | 5 | 2026-03-30 |
 | The Ultimate ChatGPT Setup Guide (2025): 3 Prompts to Fix Inconsistent Results Instantly | blog | 5 | 2026-03-30 |
 | The Ultimate Guide to Writing Powerful AI Prompts | blog | 5 | 2026-03-30 |
+| The Venture Capital Playbook | blog | 5 | 2026-03-30 |
 | The Verticalization of Everything | blog | 5 | 2026-03-31 |
 | The Wartime CEO: 9 Leadership Principles for Strong Startups | blog | 5 | 2026-03-31 |
 | The Weeb Economy | blog | 5 | 2026-03-30 |
@@ -488,6 +489,7 @@ Generated on 2026-04-04 | 2421 sources
 | Where To Build Your Startup | blog | 5 | 2026-03-31 |
 | Why America's extremes will both fail | blog | 5 | 2026-03-30 |
 | Why does America feel worse than other countries? Crime. | blog | 5 | 2026-03-30 |
+| Why LatAm Is On The Rise | blog | 5 | 2026-03-31 |
 | Why Nerds are Unpopular | blog | 5 | 2026-03-31 |
 | Why Nvidia Paid $20B for a Small Startup | blog | 5 | 2026-03-30 |
 | Why Retention Breaks Startups and How to Fix It | blog | 5 | 2026-03-30 |
@@ -728,6 +730,7 @@ Generated on 2026-04-04 | 2421 sources
 | 37 Digital Tools for Running Business Experiments | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
+| AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
@@ -749,20 +752,25 @@ Generated on 2026-04-04 | 2421 sources
 | Made in USA | blog | 4 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
+| Post-Medium Publishing | blog | 4 | 2026-03-31 |
 | Practice Safe Stablecoins | blog | 4 | 2026-03-31 |
 | Prompt Engineering Guide Resources 2026 — The AI Corner | blog | 4 | 2026-03-22 |
 | Psychologist Matt Jones on Why Startups Fail Due to Co-Founder Conflict and How to Fix It - Mark MacLeod | blog | 4 | 2026-03-26 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
+| Startup Cash Runway Model 2026: Stay Funded Longer | blog | 4 | 2026-03-30 |
+| The AI Spectrum for Founders | blog | 4 | 2026-03-31 |
 | The Anatomy of an M&A Deal: Structure, Dilution, EPS | blog | 4 | 2026-03-30 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
+| The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
 | The Ultimate Due Diligence Checklist for Early-Stage Investors and Excel Template | blog | 4 | 2026-03-30 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
+| Why Startup Hubs Work | blog | 4 | 2026-03-31 |
 | 10 Reasons Why Your Small Business Will Fail - and How To Avoid These Tragic Mistakes | youtube | 4 | 2026-03-23 |
 | 100+ JavaScript Concepts you Need to Know | youtube | 4 | 2026-03-30 |
 | 100+ Linux Things you Need to Know | youtube | 4 | 2026-03-30 |
@@ -1762,7 +1770,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI Eats the World🤖, Trouble for New VCs💀, The IPO Market Is Stirring📉 | blog | 0 | 2026-03-30 |
 | ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 0 | 2026-03-30 |
 | AI Games Are Coming | blog | 0 | 2026-03-31 |
-| AI has the worst sales pitch I've ever seen | blog | 0 | 2026-03-30 |
 | AI In a Bubble?🫧, Moats Revisited🛡️, AI makes the old VC playbook obsolete⚡ | blog | 0 | 2026-03-30 |
 | AI is changing the rules of the game in Go-to-Market 🔄 | blog | 0 | 2026-03-30 |
 | AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 0 | 2026-03-30 |
@@ -2107,7 +2114,6 @@ Generated on 2026-04-04 | 2421 sources
 | Persuade xor Discover | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
 | Political Backflow From Europe | blog | 0 | 2026-03-30 |
-| Post-Medium Publishing | blog | 0 | 2026-03-31 |
 | Power | blog | 0 | 2026-03-31 |
 | Programming Bottom-Up | blog | 0 | 2026-03-31 |
 | Putting Ideas into Words | blog | 0 | 2026-03-31 |
@@ -2157,7 +2163,6 @@ Generated on 2026-04-04 | 2421 sources
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 0 | 2026-03-30 |
 | Stablecoins Are Defense Tech | blog | 0 | 2026-03-31 |
 | Stages of Board Deck Preparation📝, How to be helpful as a VC📚, Secondary Market VC Funds🔄 | blog | 0 | 2026-03-30 |
-| Startup Cash Runway Model 2026: Stay Funded Longer | blog | 0 | 2026-03-30 |
 | Startup Data Room Template for Fundraising Success | blog | 0 | 2026-03-30 |
 | Startup Fundraising Made Simple ✨  | blog | 0 | 2026-03-30 |
 | Startup Fundraising Resources: Investor Lists 2026 | blog | 0 | 2026-03-30 |
@@ -2183,7 +2188,6 @@ Generated on 2026-04-04 | 2421 sources
 | The 60-year-old code behind $5 trillion in healthcare | blog | 0 | 2026-03-30 |
 | The Acceleration of Addictiveness | blog | 0 | 2026-03-31 |
 | The Agrifoodtech Effect 🍽️ | blog | 0 | 2026-03-30 |
-| The AI Spectrum for Founders | blog | 0 | 2026-03-31 |
 | The AI Workforce is Here: The Rise of a New Labor Market | blog | 0 | 2026-03-31 |
 | The Airbnbs | blog | 0 | 2026-03-31 |
 | The Amazon Primer: How It Started, Where It Stands, What’s Next | blog | 0 | 2026-03-30 |
@@ -2254,7 +2258,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Shape of the Essay Field | blog | 0 | 2026-03-31 |
 | The shape of the multipolar world is a little clearer | blog | 0 | 2026-03-30 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
-| The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 0 | 2026-03-30 |
 | The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 0 | 2026-03-31 |
 | The Top Idea in Your Mind | blog | 0 | 2026-03-31 |
 | The Top of My Todo List | blog | 0 | 2026-03-31 |
@@ -2285,7 +2288,6 @@ Generated on 2026-04-04 | 2421 sources
 | The VC Math Problem📊, Inside a16z’s Speedrun💸, The 5% Rule for AGI🧠 | blog | 0 | 2026-03-30 |
 | The Venture Arrogance Score🧮, The Bay is back🏙️, The $100B Empire You’ve Never Heard Of🏛️ | blog | 0 | 2026-03-30 |
 | The Venture Capital Apocalypse | blog | 0 | 2026-03-30 |
-| The Venture Capital Playbook | blog | 0 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 0 | 2026-03-31 |
 | This Week #0: Advice on growth, product, and leadership | blog | 0 | 2026-03-31 |
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
@@ -2335,14 +2337,12 @@ Generated on 2026-04-04 | 2421 sources
 | Why Great Bioplatforms Will Always Win | blog | 0 | 2026-03-31 |
 | Why Hire Offshore?  | blog | 0 | 2026-03-30 |
 | Why It's Safe for Founders to Be Nice | blog | 0 | 2026-03-31 |
-| Why LatAm Is On The Rise | blog | 0 | 2026-03-31 |
 | Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Vendict: The Startup Behind the First Cybersecurity LLM | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Veriti: The Startup Using AI to Adjust Cybersecurity in Realtime | blog | 0 | 2026-03-31 |
 | Why Pre-Empted Rounds Exist💰, Master Customer Interviews🗣️, Trump’s Nobel Odds🏛️ | blog | 0 | 2026-03-30 |
 | Why Starting With Solutions Always Fails | blog | 0 | 2026-03-30 |
-| Why Startup Hubs Work | blog | 0 | 2026-03-31 |
 | Why There Aren't More Googles | blog | 0 | 2026-03-31 |
 | Why to Move to a Startup Hub | blog | 0 | 2026-03-31 |
 | Why to Start a Startup in a Bad Economy | blog | 0 | 2026-03-31 |

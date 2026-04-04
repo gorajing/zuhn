@@ -47,8 +47,8 @@ related:
   - INS-260323-D679
   - INS-260327-94E6
   - INS-260320-A467
-  - INS-260321-ADB4
   - INS-260327-B302
+  - INS-260327-F996
 stance: >-
   Channels with 3,000-5,000 subscribers are hitting 2-3 million views by
   applying proven formats to underserved markets

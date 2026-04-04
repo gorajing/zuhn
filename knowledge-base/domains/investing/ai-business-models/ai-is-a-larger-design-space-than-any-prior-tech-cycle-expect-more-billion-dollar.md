@@ -50,12 +50,11 @@ resolutions:
     scope of value creation happening underneath.
 related:
   - INS-260323-1720
+  - INS-260403-8256
   - INS-260403-87AC
   - INS-260330-8A87
-  - INS-260403-7B04
-  - INS-260403-D543
+  - INS-260403-599B
   - INS-260330-EF74
-  - INS-260403-7BA1
   - INS-260403-B744
 stance: >-
   AI's economic impact and design space exceeds the internet era, meaning more

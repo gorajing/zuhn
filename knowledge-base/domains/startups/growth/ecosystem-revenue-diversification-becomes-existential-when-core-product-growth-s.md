@@ -61,7 +61,6 @@ related:
   - INS-260330-D808
   - INS-260403-EAC6
   - INS-260330-C0E2
-  - INS-260403-87AC
 evidence:
   - id: INS-260403-87AC
     type: SUPPORTS

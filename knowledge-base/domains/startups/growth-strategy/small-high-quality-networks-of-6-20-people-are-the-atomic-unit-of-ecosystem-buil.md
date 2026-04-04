@@ -55,12 +55,12 @@ related:
   - INS-260325-3CE2
   - INS-260327-1393
   - INS-260330-B390
-  - INS-260403-5BFB
   - INS-260403-46B2
+  - INS-260403-87CF
   - PRI-260328-0C86
   - INS-260403-C381
   - INS-260330-CFBA
-  - INS-260330-DDF0
+  - INS-260403-9A57
 ---
 The Latin American startup ecosystem's growth is driven by what insiders call 'mafias' — deliberately small networks organized through WhatsApp with 6-10-20 people sharing tips, knowledge, and connections. These networks work precisely because they're small: trust is maintained, information quality stays high, and coordination is tight enough that members know each other deeply rather than superficially.
 

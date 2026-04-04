@@ -1,6 +1,6 @@
 # Topic: ideation
 
-> 71 insights
+> 72 insights
 
 - `INS-260328-FF2C` [high] The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen.
 - `INS-260403-C610` [high] The best startup ideas come from projects built to scratch your own itch, not from brainstorming sessions about what would make a good company.
@@ -9,6 +9,7 @@
 - `INS-260321-3521` [high] Using another company's funding as market validation is a false signal — investors often fund founders, not ideas, and many funded companies pivoted from their original concept.
 - `INS-260321-CCD9` [high] Basic image generation is being absorbed by foundation models, but creative tools that are aesthetically opinionated (Midjourney) or own non-commoditized modalities (Suno for music, 11 Labs for voice) maintain defensible positions.
 - `INS-260330-0346` [high] Pairing programming skills with deep knowledge of an unrelated field produces outsized startup ideas through a double advantage of fresh perspective and technical capability.
+- `INS-260403-7471` [high] Startups fail by default everywhere — hubs succeed by providing enough positive interventions to counteract the natural death rate.
 - `INS-260402-EE6E` [high] The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
 - `INS-260330-6C68` [high] Deliberately brainstorming startup ideas produces plausible-sounding but fundamentally flawed ideas that no one urgently needs.
 - `INS-260402-D739` [high] The best startup ideas come from problems founders personally experience, not from copying existing companies with minor variations.

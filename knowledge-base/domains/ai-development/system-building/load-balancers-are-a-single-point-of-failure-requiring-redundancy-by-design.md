@@ -51,10 +51,10 @@ stance: >-
   failure in the architecture
 related:
   - INS-260329-66BD
+  - INS-260403-7471
   - INS-260329-1D08
   - INS-260403-8011
   - INS-260321-D370
-  - INS-260329-B34E
 evidence:
   - id: INS-260329-66BD
     type: EXTENDS

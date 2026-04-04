@@ -50,16 +50,16 @@ stance: >-
   which incentivizes sensationalism and fear-mongering that directly harms
   investor decision-making.
 related:
+  - INS-260403-096C
   - PRI-260328-2E23
   - INS-260330-795D
   - INS-260403-B505
   - INS-260403-DEF6
-  - INS-260329-13D2
   - INS-260325-1EB3
   - INS-260327-A4E3
   - INS-260327-E6B0
   - INS-260327-FFB5
-  - INS-260330-CDE1
+  - INS-260329-13D2
 evidence:
   - id: INS-260330-795D
     type: SUPPORTS

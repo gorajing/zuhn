@@ -56,8 +56,8 @@ related:
   - INS-260330-ACCD
   - INS-260322-BBED
   - INS-260403-7B04
+  - INS-260403-8256
   - INS-260330-ACDA
-  - INS-260330-E670
 evidence:
   - id: INS-260321-2241
     type: EXTENDS

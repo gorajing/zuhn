@@ -49,10 +49,10 @@ resolutions:
 related:
   - INS-260320-F751
   - PRI-260328-0C86
+  - INS-260403-9A57
   - INS-260403-6279
   - INS-260322-5831
   - INS-260330-DDF0
-  - INS-260402-2A1D
 stance: >-
   Tight-knit groups of early employees at breakout companies go on to found and
   lead the next generation of billion-dollar companies, creating collab...

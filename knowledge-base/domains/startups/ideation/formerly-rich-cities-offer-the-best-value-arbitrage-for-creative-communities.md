@@ -52,7 +52,7 @@ related:
   - PRI-260328-EAC4
   - INS-260327-1ACE
   - INS-260329-6BE8
-  - PRI-260324-D701
+  - INS-260403-F66F
 ---
 Graham identifies a specific real estate arbitrage: always-rich places are nice but expensive, always-poor places are cheap but grim, but formerly-rich-now-poor places have solid buildings and infrastructure at low prices. Pittsburgh's century-old architecture from its steel-era wealth creates 'palaces for cheap.'
 

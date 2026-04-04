@@ -50,7 +50,7 @@ related:
   - INS-260330-7CC0
   - INS-260323-6414
   - INS-260403-9D89
-  - INS-260323-1B87
+  - INS-260403-87CF
   - INS-260327-8D86
 ---
 Mariane realized the VC and startup community was very exclusive — events were closed circle and hard for outsiders to discover. She started a simple weekly newsletter reporting on all events happening in the Bay Area. This gave any founder — immigrant, woman, or unconnected — the same access to ecosystem events that insiders had. The newsletter grew to 45,000 members because it solved a real information asymmetry problem. The tactic is broadly applicable: wherever exclusive networks gatekeep information, curated transparency creates rapid community growth. Combined with authentic LinkedIn storytelling about her refugee background and mission to support women founders, the community became self-reinforcing.

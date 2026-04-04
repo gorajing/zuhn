@@ -49,10 +49,10 @@ stance: >-
   vehicles.
 related:
   - INS-260322-98AB
+  - INS-260403-096C
   - INS-260329-DE17
   - INS-260329-88B2
   - INS-260329-31A2
-  - INS-260328-2BCF
 evidence:
   - id: INS-260329-DE17
     type: EXTENDS

@@ -48,11 +48,11 @@ stance: >-
   slightly subversive to mainstream observers, and the people who capture
   outsized returns are those willing to look dumb pursuing it early.
 related:
-  - INS-260330-072C
+  - INS-260403-37B9
   - INS-260329-F21F
+  - INS-260330-072C
   - INS-260402-9093
   - INS-260322-116B
-  - PRI-260328-E870
 evidence:
   - id: INS-260329-F21F
     type: CHALLENGES

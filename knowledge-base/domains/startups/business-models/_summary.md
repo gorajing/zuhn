@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 135 insights
+> 137 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
@@ -48,6 +48,7 @@
 - `INS-260327-C0C6` [high] Burger King's franchises sued the company because corporate mandated $1 Whoppers that generated royalty revenue for headquarters but forced franchisees to sell at negative margins.
 - `INS-260327-D5F0` [high] Ice cream and frozen food businesses face cost structures dominated by cold chain logistics, where maintaining temperatu
 - `INS-260327-80E9` [high] A rapidly growing roster of gig drivers competing for a shrinking pool of customers willing to pay $50 burrito delivery fees creates unsustainable per-driver economics.
+- `INS-260403-096C` [high] When content can't be sold directly, monetize its scarce complements: concerts for music, advertising for articles, theatrical experiences for movies.
 - `INS-260330-CAAB` [high] Apple embraced longer device lifecycles because every iPhone user—new or used—still generates services revenue through apps, subscriptions, and licensing deals like Google's $9B search default payment.
 - `INS-260330-D556` [high] When unit sales plateau, shift monetization from selling new devices to extracting recurring revenue from every device already in users' hands.
 - `INS-260324-748A` [high] The best haunted houses gross 7+ figures in just 4-6 weekends — but only if you own the land and build everything yourself, because no bank will fund a seasonal attraction.
@@ -87,6 +88,7 @@
 - `INS-260322-5F87` [high] Private companies and individuals funding police technology (less than 1% of police budgets) can transform public safety because city budgets are too rigid and debt-laden to make marginal tech investments.
 - `INS-260327-B815` [high] Sports team economics make no sense as operating businesses — they are valued for scarcity, prestige, and media rights r
 - `INS-260327-E52A` [high] Public transit systems that cannot cover operating costs through fares face perpetual political vulnerability because th
+- `INS-260403-0CA9` [high] Publishing prices historically tracked format and distribution costs, not content quality, revealing the medium was always the real product.
 - `INS-260403-F4CC` [high] Keeping prices at incumbent levels while using AI to slash delivery costs creates a margin weapon that funds faster customer acquisition.
 - `INS-260327-39D4` [high] 5.5 million new business applications in a year sounds great, but most are started by people who lost jobs or can't find adequate employment - necessity entrepreneurship, not opportunity entrepreneurship.
 - `INS-260403-2D99` [high] Regulatory constraints are structural business model inputs that must be designed around, not obstacles to navigate after launch.
