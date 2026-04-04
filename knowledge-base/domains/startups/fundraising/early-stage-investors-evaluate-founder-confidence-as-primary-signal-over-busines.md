@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260329-79D3
   - INS-260403-5C1D
+  - INS-260404-EBB3
   - INS-260404-58AE
   - INS-260404-E6EA
   - INS-260403-8C50
   - INS-260404-C1FF
-  - INS-260404-438C
 ---
 Graham identifies a structural information asymmetry in early-stage pitching: investors often lack the technical background to evaluate what you've built, and you only have minutes to present. In this environment, your own conviction becomes the dominant signal. But this must be implicit — saying 'we're passionate' or 'our product is great' triggers skepticism. The confidence must come through in how you present, not what you claim. Conversely, nervousness and apologizing signal that even you don't believe in what you've made. Graham frames this as a logical test: if you don't believe you're doing investors a favor by letting them invest, why are you investing your own time?

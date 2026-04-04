@@ -57,6 +57,7 @@ related:
   - INS-260403-384C
   - INS-260403-099C
   - INS-260403-34B4
+  - INS-260404-86CF
 ---
 In the light-dependent reactions, the entire point of the electron transport chain is to pump hydrogen ions into the thylakoid, creating a concentration gradient. When protons flow back through ATP synthase, that gradient powers the creation of ATP — the cell's energy currency. The membrane doesn't generate energy; it stores it by maintaining an imbalance.
 

@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 2028 insights across 20 topics
+> 2031 insights across 20 topics
 
 ## Topics
 
@@ -22,7 +22,7 @@
 | mental-models | 89 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
 | negotiation | 6 | Somali ransom negotiations show that calibrated irrationality — seeming rash enough to execute threats but patient enough to deal — is the optimal bilateral monopoly strategy. |
 | perception | 316 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
-| persuasion | 63 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
+| persuasion | 66 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
 | physics-intuition | 79 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 93 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
 | resilience | 152 | Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen. |

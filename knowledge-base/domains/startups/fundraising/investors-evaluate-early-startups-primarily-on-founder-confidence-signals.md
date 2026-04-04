@@ -55,9 +55,9 @@ related:
   - INS-260402-4719
   - INS-260403-F447
   - INS-260403-4337
-  - INS-260403-6620
   - INS-260404-523C
   - INS-260404-D672
+  - INS-260403-915E
 ---
 Most investors at demo days lack the technical background and have insufficient time to deeply evaluate what a startup has built. In that information vacuum, the founder's own apparent conviction becomes the dominant signal. This means confidence must be shown through behavior, not stated — saying 'we're passionate' or 'our product is great' gets ignored or triggers bullshit detectors.
 

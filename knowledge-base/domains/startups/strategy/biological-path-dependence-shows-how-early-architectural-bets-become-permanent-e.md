@@ -53,16 +53,16 @@ stance: >-
   costlier than compensating for its flaws, making the suboptimal choice
   effectively permanent.
 related:
-  - INS-260330-E1B3
   - PRI-260403-C34A
   - INS-260403-F088
   - INS-260403-D563
   - INS-260403-2CDA
-  - INS-260403-F68A
   - INS-260404-9229
+  - INS-260403-F68A
   - INS-260403-3E1C
   - INS-260404-AE3C
   - INS-260330-6ECA
+  - INS-260404-76DD
 ---
 RuBisCo evolved when Earth's atmosphere had almost no oxygen, so its inability to distinguish CO2 from O2 didn't matter. When plants themselves filled the atmosphere with oxygen through the light-dependent reactions, RuBisCo started grabbing oxygen about half the time — creating a toxic byproduct (phosphoglycolate) that plants must spend additional energy to neutralize.
 

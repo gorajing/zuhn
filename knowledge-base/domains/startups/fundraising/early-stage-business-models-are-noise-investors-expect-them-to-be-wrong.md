@@ -54,9 +54,9 @@ related:
   - INS-260323-7D01
   - INS-260327-5D13
   - INS-260327-D6C5
-  - INS-260327-99CE
   - INS-260329-34A9
   - INS-260329-F007
+  - INS-260330-A38C
 ---
 A VC who spoke at YC described investing in experienced founders whose business model he expected to change three times before they got it right. If veterans with millions in funding have a wrong business model, early-stage founders certainly will too.
 

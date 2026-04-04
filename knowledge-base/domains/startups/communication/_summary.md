@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 30 insights
+> 32 insights
 
 - `INS-260404-D8C7` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260404-621F` [high] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
@@ -24,11 +24,13 @@
 - `INS-260404-24FB` [medium] Craft and deploy a single memorable phrase that captures your startup's essence early in your pitch.
 - `INS-260330-76DA` [medium] Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260403-2FE1` [medium] A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
+- `INS-260404-040D` [medium] Photosynthesis decouples light capture from sugar production via ATP/NADPH intermediaries, enabling flexibility that direct conversion could never achieve.
 - `INS-260403-85F1` [medium] Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - `INS-260403-CC25` [medium] Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - `INS-260403-07C1` [medium] Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
 - `INS-260403-BFD1` [medium] The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 - `INS-260403-C5D8` [medium] If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
+- `INS-260404-3212` [medium] Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
 - `INS-260404-E0B5` [medium] The inability to craft a one-phrase startup description signals unfocused strategy, not just weak messaging.
 - `INS-260403-26D3` [medium] Inability to describe your startup in one compelling phrase signals unfocused strategy, not just poor messaging.
 - `INS-260404-4127` [medium] Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.

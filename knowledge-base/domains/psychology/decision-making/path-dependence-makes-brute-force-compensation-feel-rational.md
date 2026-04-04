@@ -58,8 +58,6 @@ stance: >-
   cost always appears higher than the compensation cost
 related:
   - INS-260330-56D6
-  - INS-260330-43CA
-  - INS-260330-E039
   - INS-260330-EB48
   - INS-260330-4EC0
   - INS-260330-4489
@@ -67,6 +65,8 @@ related:
   - INS-260330-11EB
   - INS-260330-3FCF
   - INS-260330-6ECA
+  - INS-260403-D518
+  - INS-260403-9E63
 ---
 RuBisCo evolved in a low-oxygen atmosphere where its inability to distinguish CO2 from O2 didn't matter. When oxygen levels rose, RuBisCo began grabbing oxygen half the time, creating toxic byproducts. Rather than evolving a better enzyme, plants doubled down — producing staggering quantities of RuBisCo (estimated 40 billion tons on Earth at any time) and developing secondary pathways to detoxify the waste.
 

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3811 actionable insights
+Generated on 2026-04-04 | 3818 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1676,6 +1676,9 @@ Generated on 2026-04-04 | 3811 actionable insights
 - [INS-260404-C1FF] Show confidence through behavior — never explicitly claim passion or quality, which triggers audiences to write you off.
 - [INS-260404-E86B] Under information asymmetry, audiences substitute the presenter's confidence for independent technical evaluation.
 - [INS-260404-F161] In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.
+- [INS-260404-86CF] ATP Synthase works not because protons have energy, but because there are more protons on one side than the other — the gradient does the work.
+- [INS-260404-EBB3] When audiences can't evaluate your technical work, your own visible confidence becomes their strongest evidence of quality — but it must be shown, never stated.
+- [INS-260404-3D8F] Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2007,6 +2010,7 @@ Generated on 2026-04-04 | 3811 actionable insights
 - [INS-260404-D8C7] A single sticky phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - [INS-260404-756D] If you can't describe your startup in one compelling phrase like 'the Microsoft Word of ecommerce,' your plans may not be sufficiently focused.
 - [INS-260404-4127] Give a founder one sentence of advice and observe whether they chase down all its implications — this tests general resourcefulness, not just communication skill.
+- [INS-260404-3212] Professional investors hear so many pitches they blur together — a sticky descriptive phrase like 'the Microsoft Word of ecommerce' is your primary weapon against being forgotten.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2878,6 +2882,8 @@ Generated on 2026-04-04 | 3811 actionable insights
 - [INS-260404-F139] Mention monetization briefly to show you've thought about it, then redirect to problem and product.
 - [INS-260404-3161] Describe your startup in the most specific terms possible, even if it feels reductively narrow.
 - [INS-260404-EF17] Replace market-size slides with concrete stories of specific users and the problems they face.
+- [INS-260404-8D69] Early-stage business models are guesses outside your expertise — pitch the problem and product instead, since investors expect the model to change multiple times.
+- [INS-260404-FE9F] As a startup description approaches 'could be anything,' its informational value approaches zero — start narrow and expand.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3985,6 +3991,7 @@ Generated on 2026-04-04 | 3811 actionable insights
 - [INS-260404-DD95] Never mention your solution during learning interviews — people inherently wish to please and will confirm your opinions.
 - [INS-260404-1773] Ask 'why' repeatedly to drill past surface answers into the real motivations driving customer behavior.
 - [INS-260404-80AC] The physics community's instinct to demand replication before abandoning relativity was correct — the OPERA result was indeed a systematic error.
+- [INS-260404-9E71] Investors' biggest early-stage fear is that you built something nobody wants — specific user stories and proxy-for-demand signals neutralize this more than market data.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

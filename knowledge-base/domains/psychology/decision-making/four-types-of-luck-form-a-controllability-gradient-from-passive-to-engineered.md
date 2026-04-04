@@ -48,7 +48,6 @@ stance: >-
   engineered through unique positioning, and most people underinvest in the
   higher-controllability types.
 related:
-  - INS-260330-BFD0
   - INS-260402-9093
   - INS-260403-147C
   - INS-260402-33CA

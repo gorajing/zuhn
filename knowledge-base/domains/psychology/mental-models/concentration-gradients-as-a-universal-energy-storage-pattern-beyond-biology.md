@@ -54,6 +54,7 @@ related:
   - INS-260330-3037
   - INS-260403-050D
   - INS-260403-CD2A
+  - INS-260404-86CF
 ---
 In photosynthesis, the thylakoid membrane maintains a concentration gradient of protons. When protons flow back through ATP synthase to equalize, that flow drives energy production. The membrane's role is critical: without a barrier maintaining the imbalance, no useful work gets extracted.
 

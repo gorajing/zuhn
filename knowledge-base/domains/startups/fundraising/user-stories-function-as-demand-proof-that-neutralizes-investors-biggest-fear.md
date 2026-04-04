@@ -53,10 +53,9 @@ related:
   - INS-260403-1A73
   - INS-260403-1444
   - INS-260403-035A
-  - INS-260403-A65D
   - INS-260404-5248
-  - INS-260404-4024
   - INS-260403-419B
+  - INS-260403-A65D
 ---
 Graham cites Sequoia's Greg McAdoo looking for a 'proxy for demand' — evidence that people are already struggling with inadequate tools to do what your product enables. This reframes user stories from nice-to-have narrative devices into the hardest evidence an early-stage startup can present.
 

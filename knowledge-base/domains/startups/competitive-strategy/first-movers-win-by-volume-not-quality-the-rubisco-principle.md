@@ -54,9 +54,9 @@ related:
   - INS-260330-3FCF
   - INS-260403-3946
   - INS-260404-3B9D
+  - INS-260404-1000
   - INS-260330-6ECA
   - INS-260404-16B0
-  - INS-260330-7B11
 ---
 RuBisCo is objectively bad at its job — it confuses oxygen for CO2 roughly half the time, creating toxic byproducts plants must actively manage. Yet it is the most abundant protein on Earth (~40 billion tons) because it evolved when atmospheric CO2 was high and oxygen was negligible, making its flaws irrelevant. By the time oxygen levels rose and exposed the deficiency, plants had already 'gone all-in' on the RuBisCo strategy.
 

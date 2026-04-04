@@ -47,7 +47,6 @@ stance: >-
   descriptive phrase ('the X of Y') is the primary mechanism that determines
   whether you're remembered at all
 related:
-  - INS-260322-7B71
   - PRI-260328-BD81
   - INS-260330-2294
   - INS-260330-2784

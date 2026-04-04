@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 63 insights
+> 66 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -8,6 +8,7 @@
 - `INS-260404-6388` [high] When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
 - `INS-260404-F161` [high] In low-information evaluation contexts, implicit confidence outweighs explicit claims about quality.
 - `INS-260404-E86B` [high] Under information asymmetry, audiences substitute the presenter's confidence for independent technical evaluation.
+- `INS-260404-EBB3` [high] When audiences can't evaluate your technical work, your own visible confidence becomes their strongest evidence of quality — but it must be shown, never stated.
 - `INS-260404-523C` [high] With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.
 - `INS-260404-E6EA` [high] When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
 - `INS-260403-1A71` [high] In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
@@ -46,6 +47,7 @@
 - `INS-260403-0353` [high] The same act of deception ranges from routine (soccer flopping) to morally insane (golf score fabrication) depending on domain-specific norm calibration that outsiders often can't perceive.
 - `INS-260330-4E09` [high] Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
 - `INS-260330-E3D3` [high] Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
+- `INS-260404-3D8F` [high] Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
 - `INS-260403-3421` [high] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
 - `INS-260403-1EB3` [high] Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
 - `INS-260330-59CE` [high] Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
@@ -54,6 +56,7 @@
 - `INS-260330-ABBF` [medium] Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
 - `INS-260403-4CF9` [medium] Smooth-tongued liars succeed by method-acting belief in false premises, producing internally consistent but externally ungrounded reasoning.
 - `INS-260330-6A3A` [medium] The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
+- `INS-260404-86CF` [medium] ATP Synthase works not because protons have energy, but because there are more protons on one side than the other — the gradient does the work.
 - `INS-260403-74DB` [medium] The shopping-as-leisure reframe is a deliberate corporate strategy most people can't see through for decades.
 - `INS-260402-476E` [medium] Moral labels replace factual rebuttals precisely when the factual rebuttal would fail.
 - `INS-260330-A1AF` [medium] Adams, the self-proclaimed expert on manipulation tactics, was ultimately destroyed by a manipulation technique straight out of his own playbook that he failed to recognize.

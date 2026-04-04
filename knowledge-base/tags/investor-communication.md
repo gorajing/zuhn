@@ -8,6 +8,7 @@
 - `INS-260404-516B` Overly specific beats overly general when describing your startup to investors.
 - `INS-260403-2204` Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260404-9F1D` Narrow, gripping descriptions convey more signal than broad visionary language when pitching investors.
+- `INS-260404-FE9F` As a startup description approaches 'could be anything,' its informational value approaches zero — start narrow and expand.
 - `INS-260404-CA98` Describe your startup as narrowly and concretely as possible — vagueness destroys comprehension.
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.

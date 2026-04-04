@@ -48,11 +48,11 @@ stance: >-
   capacity leads to failed transitions
 related:
   - INS-260403-5FBD
-  - INS-260403-DF7F
   - INS-260403-7333
   - INS-260403-F590
   - INS-260404-BD46
-  - INS-260403-E0FE
+  - INS-260404-8D69
+  - INS-260403-DF7F
   - INS-260403-B5A5
   - INS-260404-CC9A
 ---
