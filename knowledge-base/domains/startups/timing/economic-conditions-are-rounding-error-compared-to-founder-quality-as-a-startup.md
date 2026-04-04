@@ -44,7 +44,6 @@ stance: >-
   The qualities of the founders dominate economic conditions so heavily that
   macroeconomic timing is effectively irrelevant to startup outcomes.
 related:
-  - INS-260320-8688
   - INS-260321-E654
   - INS-260327-DD1D
   - INS-260402-7B69
@@ -54,6 +53,7 @@ related:
   - INS-260403-862E
   - INS-260403-4A2F
   - PRI-260328-C918
+  - INS-260327-80A8
 ---
 Paul Graham draws on Y Combinator's extensive funding history to argue that the economy's effect on startup outcomes is rounding error compared to founder qualities. Microsoft and Apple were both founded during the mid-1970s recession, yet became defining companies of their era.
 

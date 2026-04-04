@@ -48,10 +48,10 @@ stance: >-
 related:
   - INS-260324-1CC8
   - INS-260324-162B
+  - INS-260403-06E2
   - PRI-260324-90E8
   - INS-260330-3431
   - INS-260327-092E
-  - INS-260403-0435
   - INS-260327-7EFD
 ---
 Godin draws a razor-sharp distinction: when a business says 'we're rebranding,' they really mean 'we're re-logoing — new outfit, new colors.' Real brand is the promise and expectation in your audience's mind. Nike has a brand because if Nike opened a hotel, you know exactly what the experience would be. Hyatt has a logo because if Hyatt made sneakers, you'd have no clue. This applies equally to personal brands: either people have an expectation and trust for you, or they don't. The test for any brand: could you extend into an adjacent category and have customers immediately understand what the experience would be? If not, you have a logo, not a brand.

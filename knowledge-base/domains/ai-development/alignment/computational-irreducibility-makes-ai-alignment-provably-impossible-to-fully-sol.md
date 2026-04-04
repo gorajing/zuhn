@@ -53,12 +53,13 @@ stance: >-
   meaning AI alignment can only be patched incrementally, never solved once and
   for all.
 related:
-  - INS-260322-C935
   - INS-260326-87A1
   - PRI-260328-23DB
   - PRI-260327-8D8C
   - INS-260326-6D76
+  - INS-260322-C935
   - INS-260330-550F
+  - INS-260403-FFFE
 evidence:
   - id: INS-260330-550F
     type: TRANSFERS_TO

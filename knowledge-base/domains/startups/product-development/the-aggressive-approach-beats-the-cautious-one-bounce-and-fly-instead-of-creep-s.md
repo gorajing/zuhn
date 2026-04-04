@@ -56,6 +56,7 @@ related:
   - INS-260330-8304
   - PRI-260403-35FE
   - INS-260330-08D1
+  - INS-260403-9BBA
 stance: >-
   Boston Dynamics' breakthrough came from rejecting the safe, slow, static
   approach to robotics in favor of aggressive dynamic movement

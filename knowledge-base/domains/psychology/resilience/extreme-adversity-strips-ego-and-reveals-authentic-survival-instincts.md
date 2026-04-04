@@ -54,7 +54,6 @@ stance: >-
   replace it with a calmer, more effective survival state rooted in acceptance
   rather than bravado.
 related:
-  - INS-260323-3C7F
   - INS-260323-34B7
   - INS-260323-9369
   - INS-260323-4ADE
@@ -64,6 +63,7 @@ related:
   - PRI-260324-1134
   - INS-260403-1547
   - INS-260330-051F
+  - INS-260330-8C54
 evidence:
   - id: INS-260330-051F
     type: EXTENDS

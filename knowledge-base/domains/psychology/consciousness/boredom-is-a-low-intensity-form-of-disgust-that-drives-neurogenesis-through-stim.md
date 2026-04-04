@@ -49,11 +49,11 @@ stance: >-
   Boredom is not mere restlessness but a disgust-spectrum emotion that evolved
   specifically to push organisms toward novel stimulation and brain growth
 related:
+  - INS-260403-D63C
   - INS-260330-814E
   - INS-260330-3DC8
   - INS-260330-56D6
   - PRI-260325-A95E
-  - INS-260327-684D
 evidence:
   - id: INS-260330-3DC8
     type: CONTRADICTS

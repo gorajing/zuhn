@@ -48,6 +48,6 @@ related:
   - INS-260403-3756
   - INS-260330-CFEA
   - INS-260330-A151
-  - INS-260323-64A4
+  - INS-260403-53D9
 ---
 Graham reframes forgiveness as a selfish optimization: someone who wrongs you inflicts damage twice — once through the injury and again by occupying your mental bandwidth afterward. Deliberately telling yourself 'this doesn't deserve space in my head' is not noble forbearance but practical cognitive hygiene. The observable signal is whether you can recall the details of past disputes — if you've forgotten them, it means they weren't your top idea, which means your ambient processing was going somewhere more productive. For founders, this has direct implications: the temptation to mentally relitigate conflicts with co-founders, investors, or competitors is not just emotionally draining but structurally equivalent to fundraising's productivity tax.

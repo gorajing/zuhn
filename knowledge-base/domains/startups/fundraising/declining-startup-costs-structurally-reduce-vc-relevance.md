@@ -57,6 +57,7 @@ related:
   - INS-260403-1217
   - INS-260403-0680
   - INS-260403-46BD
+  - INS-260403-7B60
 ---
 Paul Graham identifies four converging forces that drove startup costs toward zero by 2005: open source replacing expensive commercial software, Moore's law making hardware nearly free, the web enabling free distribution for good products, and higher-level languages like Python and Ruby letting one developer do the work of ten C++ programmers. This structural shift means startups need far less capital than VCs are structured to deploy—funds raised hundreds of millions expecting to write multi-million dollar checks, but startups only need hundreds of thousands.
 

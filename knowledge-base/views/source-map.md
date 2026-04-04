@@ -839,7 +839,9 @@ Generated on 2026-04-04 | 2421 sources
 | Crypto Is A Tool That Was Exploited. | blog | 4 | 2026-03-31 |
 | Cybersecurity’s Future Belongs to Startups | blog | 4 | 2026-03-31 |
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 4 | 2026-03-30 |
+| DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup Guide | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
+| Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
@@ -863,6 +865,7 @@ Generated on 2026-04-04 | 2421 sources
 | How is this time different?  | blog | 4 | 2026-03-22 |
 | How much software budget do you need for an early stage fund? | blog | 4 | 2026-03-30 |
 | How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 4 | 2026-03-30 |
+| How to Be an Expert in a Changing World | blog | 4 | 2026-03-31 |
 | How to Disagree | blog | 4 | 2026-03-31 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
 | How to Find Startup Investors (And Actually Get Funded): The Ultimate Fundraising Guide for Founders | blog | 4 | 2026-03-30 |
@@ -883,6 +886,7 @@ Generated on 2026-04-04 | 2421 sources
 | Maker's Schedule, Manager's Schedule | blog | 4 | 2026-03-31 |
 | Mean People Fail | blog | 4 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
+| OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 4 | 2026-03-30 |
 | Overcoming the “blank page” challenge with AI | blog | 4 | 2026-03-31 |
@@ -938,10 +942,12 @@ Generated on 2026-04-04 | 2421 sources
 | The Venture Arrogance Score🧮, The Bay is back🏙️, The $100B Empire You’ve Never Heard Of🏛️ | blog | 4 | 2026-03-30 |
 | The Venture Capital Squeeze | blog | 4 | 2026-03-31 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
+| Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 4 | 2026-03-30 |
 |  | blog | 4 | 2026-03-31 |
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 4 | 2026-03-30 |
 | What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
+| Where to See Silicon Valley | blog | 4 | 2026-03-31 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
 | Why Starting With Solutions Always Fails | blog | 4 | 2026-03-30 |
@@ -952,6 +958,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why TV Lost | blog | 4 | 2026-03-31 |
 | Writing and Speaking | blog | 4 | 2026-03-31 |
 | YC’s Fall 2025 RFS🤖, 2500 AI Angel Investors⚡, How VCs Decide to Take a 1st Meeting💼 | blog | 4 | 2026-03-30 |
+| You are no longer the smartest type of thing on Earth | blog | 4 | 2026-03-30 |
 | Zero-sum economics keeps failing | blog | 4 | 2026-03-30 |
 | 10 Reasons Why Your Small Business Will Fail - and How To Avoid These Tragic Mistakes | youtube | 4 | 2026-03-23 |
 | 100+ JavaScript Concepts you Need to Know | youtube | 4 | 2026-03-30 |
@@ -1110,6 +1117,7 @@ Generated on 2026-04-04 | 2421 sources
 | This Common Substance Was Once Worth Millions | youtube | 4 | 2026-03-23 |
 | This free Chinese AI just crushed OpenAI's $200 o1 model... | youtube | 4 | 2026-03-30 |
 | This Is Why Trump Cheats at Golf | youtube | 4 | 2026-03-30 |
+| This new AI is powerful and uncensored… Let’s run it | youtube | 4 | 2026-03-30 |
 | This Paradox Splits Smart People 50/50 | youtube | 4 | 2026-03-23 |
 | Training General Robots for Any Task: Physical Intelligence’s Karol Hausman and Tobi Springenberg | youtube | 4 | 2026-03-26 |
 | Travel INSIDE a Black Hole | youtube | 4 | 2026-03-30 |
@@ -1124,6 +1132,7 @@ Generated on 2026-04-04 | 2421 sources
 | Where to invest in a multipolar world (WW3?) | youtube | 4 | 2026-03-22 |
 | Why 90% of Startup CEOs Are Failing | John Kim Sendbird | youtube | 4 | 2026-03-23 |
 | Why AI Is Tech's Latest Hoax | youtube | 4 | 2026-03-24 |
+| Why Are Things Creepy? | youtube | 4 | 2026-03-30 |
 | Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations | youtube | 4 | 2026-03-30 |
 | Why is pi here?  And why is it squared?  A geometric answer to the Basel problem | youtube | 4 | 2026-03-30 |
 | Why Most AI Projects Fail Before They Start | youtube | 4 | 2026-03-23 |
@@ -2062,7 +2071,6 @@ Generated on 2026-04-04 | 2421 sources
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
 | Dario Amodei, AGI, and the Long Game of Safe AI | blog | 0 | 2026-03-30 |
 | Data-Driven Equity Splitting📊, The Path to PMF, Figma's $12.5 Bn Valuation🎨 | blog | 0 | 2026-03-30 |
-| DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup Guide | blog | 0 | 2026-03-30 |
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Cryptocurrencies | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Drug Development | blog | 0 | 2026-03-30 |
@@ -2072,7 +2080,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: A Primer on Mag7 (Part 4) | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Stablecoins | blog | 0 | 2026-03-30 |
 | Deep Dive: Artificial Intelligence | blog | 0 | 2026-03-30 |
-| Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 0 | 2026-03-30 |
 | Deep Dive: China’s Global Strategy and Power Balance | blog | 0 | 2026-03-30 |
 | Deep Dive: Creator Economy - The Next Phase of Media | blog | 0 | 2026-03-30 |
 | Deep Dive: Defense 2.0 - Protecting America | blog | 0 | 2026-03-30 |
@@ -2146,7 +2153,6 @@ Generated on 2026-04-04 | 2421 sources
 | How Solar Beat Coal, Gas, and Nuclear Combined | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
-| How to Be an Expert in a Changing World | blog | 0 | 2026-03-31 |
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 0 | 2026-03-30 |
 | How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 0 | 2026-03-30 |
 | How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
@@ -2206,7 +2212,6 @@ Generated on 2026-04-04 | 2421 sources
 | Open Thread 424 | blog | 0 | 2026-03-30 |
 | Open Thread 425 | blog | 0 | 2026-03-30 |
 | Open Thread 426 | blog | 0 | 2026-03-30 |
-| OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 0 | 2026-03-30 |
 | OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 0 | 2026-03-30 |
 | OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 0 | 2026-03-30 |
 | Organic Startup Ideas | blog | 0 | 2026-03-31 |
@@ -2341,7 +2346,6 @@ Generated on 2026-04-04 | 2421 sources
 | This Year We Can End the Death Penalty in California | blog | 0 | 2026-03-31 |
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
 | Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 0 | 2026-03-30 |
-| Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 0 | 2026-03-30 |
 | Trolls | blog | 0 | 2026-03-31 |
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
 | Two Kinds of Judgement | blog | 0 | 2026-03-31 |
@@ -2367,7 +2371,6 @@ Generated on 2026-04-04 | 2421 sources
 | What We Can Learn From Microsoft's Strategic Challenges | blog | 0 | 2026-03-31 |
 | What We Look for in Founders | blog | 0 | 2026-03-31 |
 | What You (Want to)* Want | blog | 0 | 2026-03-31 |
-| Where to See Silicon Valley | blog | 0 | 2026-03-31 |
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
 | Why Companies Invest in Open-Source Tech and Research | blog | 0 | 2026-03-30 |
@@ -2393,7 +2396,6 @@ Generated on 2026-04-04 | 2421 sources
 | Writing, Briefly | blog | 0 | 2026-03-31 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
-| You are no longer the smartest type of thing on Earth | blog | 0 | 2026-03-30 |
 | AI influencers are getting filthy rich... let's build one | youtube | 0 | 2026-03-30 |
 | Anti-Gravity Wheel? | youtube | 0 | 2026-03-30 |
 | Are You a Psychopath? Take the Test! | Kevin Dutton | Big Think | youtube | 0 | 2026-03-30 |
@@ -2417,10 +2419,8 @@ Generated on 2026-04-04 | 2421 sources
 | Python in 100 Seconds | youtube | 0 | 2026-03-30 |
 | Spend More Time Making the Big Decisions | youtube | 0 | 2026-03-30 |
 | The most unexpected answer to a counting puzzle | youtube | 0 | 2026-03-30 |
-| This new AI is powerful and uncensored… Let’s run it | youtube | 0 | 2026-03-30 |
 | Waking Up with Sam Harris - Mindfulness Meditation (9 minutes) | youtube | 0 | 2026-03-30 |
 | What to do if your inner voice is cruel | Ethan Kross | youtube | 0 | 2026-03-30 |
 | When You Truly Work for Yourself | youtube | 0 | 2026-03-30 |
-| Why Are Things Creepy? | youtube | 0 | 2026-03-30 |
 | Why Costco is Cheaper than Amazon | youtube | 0 | 2026-03-30 |
 | Your desires are not yours. | youtube | 0 | 2026-03-30 |

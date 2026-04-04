@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3594 actionable insights
+Generated on 2026-04-04 | 3601 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -123,6 +123,7 @@ Generated on 2026-04-04 | 3594 actionable insights
 - [INS-260402-2D95] Libraries are reusable because they are language, not because they are object-oriented.
 - [INS-260402-2879] Define program meaning independently of implementation, then layer optimization advice on top.
 - [INS-260402-0E46] Encoding domain structure into features (e.g., marking where tokens appear in email) can improve classification from 92% to 99.5%.
+- [INS-260403-72C2] Running Mixtral-class models locally needs ~40GB RAM, limiting local AI to users with high-end hardware.
 
 ## ai-development/automation
 - [INS-260329-9EE4] Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
@@ -254,6 +255,7 @@ Generated on 2026-04-04 | 3594 actionable insights
 - [INS-260329-7F02] On the course's heart disease dataset, KNN achieved ~82% accuracy comparable to neural networks, proving that simpler models deserve first consideration.
 - [INS-260329-5F96] Three-way data splitting (train/validate/test) prevents the subtle overfitting that occurs when you repeatedly evaluate and tune against the same held-out data.
 - [INS-260402-5034] Graham's 'degeneration' technique falls back from specific tokens (Subject*FREE!!!) through progressively general versions (FREE, free) when exact matches lack data.
+- [INS-260403-F4C7] Fine-tuning Mixtral-class models costs ~$1,200 on rented A100s, putting custom AI within individual budgets.
 
 ## ai-development/mental-models
 - [INS-260330-2EC0] On a log scale, exponential growth becomes a straight line — making the underlying multiplicative pattern immediately visible and quantifiable via simple linear regression.
@@ -852,6 +854,7 @@ Generated on 2026-04-04 | 3594 actionable insights
 
 ## investing/venture-capital
 - [INS-260403-C032] Infrastructure windows close when value becomes priced in, capital barriers exclude new entrants, and network effects lock users in — a framework applicable to any technology cycle.
+- [INS-260403-4DFB] In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
 
 ## music-production/music-marketing
 - [INS-260321-13EA] Release on Friday (international release day) with minimum 4 weeks from master delivery — things go wrong with aggregators, you need time to pitch DSPs, and thinking 'I'll release on Tuesday to fox them' is thinking small.
@@ -1117,6 +1120,7 @@ Generated on 2026-04-04 | 3594 actionable insights
 - [INS-260403-3D7D] RuBisCo evolved in a low-oxygen world and now fails half the time because the atmosphere changed around it.
 - [INS-260403-A8E8] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - [INS-260403-DC64] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
+- [INS-260403-D6FE] Writing about topics in durable public form forces you to worry about getting things right far more than casual conversation does.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1140,6 +1144,7 @@ Generated on 2026-04-04 | 3594 actionable insights
 - [INS-260403-C135] Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - [INS-260403-1202] Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.
 - [INS-260403-EA34] Building skills must be developed early because they require sustained focus, but selling skills can be added later.
+- [INS-260403-222E] Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.
 
 ## psychology/focus
 - [INS-260322-6042] Delay checking email, social media, and other non-essential inputs for as long as possible each day because once you let them in, they occupy mental bandwidth permanently until your next reset.
@@ -1455,6 +1460,7 @@ Generated on 2026-04-04 | 3594 actionable insights
 - [INS-260403-FC01] The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
 - [INS-260403-79E0] The five intrinsic motivators — curiosity, passion, purpose, autonomy, mastery — must be built in sequence, not cherry-picked.
 - [INS-260403-0218] Writing doesn't just express pre-formed ideas — it actively shapes and completes them during the process.
+- [INS-260403-EB56] Instead of trying to predict where change will come from, be aggressively open-minded and maximize sensitivity to change signals from any direction.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -2337,6 +2343,7 @@ Generated on 2026-04-04 | 3594 actionable insights
 - [INS-260403-E255] Clustering meetings at day's end converts interruptions into bounded schedule compression without fragmenting deep work blocks.
 - [INS-260403-71D1] YC funded Airbnb despite not liking the idea because the founders' earnestness was unmistakable.
 - [INS-260403-4A2F] The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
+- [INS-260403-CCB7] Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.

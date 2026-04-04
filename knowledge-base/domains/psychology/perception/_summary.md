@@ -1,6 +1,6 @@
 # Topic: perception
 
-> 313 insights
+> 315 insights
 
 - `INS-260325-6AE7` [very_high] Perfect squares become vanishingly rare as numbers grow — 'almost no' numbers are perfect squares — yet there are infinitely many of them, perfectly predictably located.
 - `INS-260325-0921` [very_high] The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
@@ -250,6 +250,7 @@
 - `INS-260325-96FB` [medium] Common sense works perfectly within its calibrated range and fails predictably outside it.
 - `INS-260330-E54B` [medium] Both Augustus and Jesus were called 'son of God' — the identical claim succeeded for radically different audiences because each version addressed different unmet needs.
 - `INS-260329-FCD3` [medium] What appears as computer intelligence is actually extreme speed compensating for complete lack of understanding — the CPU asks 'what next' three billion times per second without comprehending any of it.
+- `INS-260403-53D9` [medium] Creepiness is a specific cognitive state triggered when something is maybe-threatening but maybe-not, leaving the brain unable to commit to fight-or-flight.
 - `INS-260325-1519` [medium] The Banach-Tarski proof works by naming every point on a sphere after the rotation sequence that reaches it, then showing that rotating one directional subset 'cancels' its prefix and regenerates the others.
 - `INS-260329-40B6` [medium] Teaching isolated components before composition mirrors natural language acquisition and produces deeper mastery despite feeling counterintuitive.
 - `INS-260323-4ADE` [medium] Callaghan uses gonzo journalism as a therapeutic mechanism for depersonalization disorder — putting yourself on the front lines of intense events confirms you're real.
@@ -304,6 +305,7 @@
 - `INS-260325-4868` [medium] Joy requires emotional openness and surprise, which means putting down the phone and being experientially surprisable.
 - `INS-260325-DFA5` [medium] If God chose evolution by natural selection as the mechanism to create humans, billions of years of animal predation, disease, and extinction were built into the design — this challenges God's goodness more than God's existence.
 - `INS-260325-2F1E` [medium] Evolution by natural selection — God's chosen mechanism for creating humans — required billions of years of animal suffering and extinction, which seems deeply unexpected from a loving, all-powerful creator.
+- `INS-260403-9BBA` [medium] The Uncanny Valley is best understood not as a robot-specific phenomenon but as what happens when anything straddles the boundary between two categories our brain needs to resolve.
 - `INS-260327-8C74` [medium] Western linear time (from St. Augustine) creates existential urgency because every moment is unique and unrepeatable, while Hindu cyclical time (kalpas) resolves anxiety by framing all experience as phases in an eternal rhythm.
 - `INS-260330-3EDA` [medium] During 72 hours of isolation, Michael's time estimation error doubled after each sleep cycle, and Stefania Follini believed 130 days underground was only about 65.
 - `INS-260330-80A2` [medium] Traveling at light speed toward the Sun would initially make it appear to recede because your field of view expands to include light from nearly behind you, compressing forward objects into a smaller apparent region.

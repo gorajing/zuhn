@@ -50,9 +50,9 @@ resolutions:
 related:
   - INS-260322-C4A2
   - PRI-260323-6644
+  - INS-260403-9BBA
   - INS-260330-3170
   - INS-260325-3A04
-  - INS-260330-AC34
 stance: >-
   Jung's synchronicity demands two events (one internal, one external), no
   causal link between them, meaningful symbolic connection, and close tempor...

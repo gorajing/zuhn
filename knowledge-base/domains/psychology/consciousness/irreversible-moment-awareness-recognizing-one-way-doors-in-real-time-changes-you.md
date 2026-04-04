@@ -51,9 +51,9 @@ resolutions:
 related:
   - INS-260330-0F04
   - INS-260330-2EB0
+  - INS-260403-E8DD
   - INS-260323-1176
   - INS-260327-B37E
-  - INS-260330-E68E
 stance: >-
   Rosolie's real-time recognition of 'Am I entering a one-way door?' during the
   tribal encounter demonstrates how framing a situation's reversibility...

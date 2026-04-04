@@ -1,6 +1,6 @@
 # Topic: cognition
 
-> 67 insights
+> 69 insights
 
 - `INS-260330-984C` [high] Flat Earth theories are clever ad hoc explanations that address individual challenges but fail to fit all evidence into a unified framework.
 - `INS-260330-C8E2` [high] Harlow's wire mother experiments proved that infant primates bond to sources of comfort rather than sources of nourishment, overturning the cupboard theory of attachment.
@@ -66,6 +66,8 @@
 - `INS-260330-B539` [medium] Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260330-2304` [medium] Psychedelics temporarily suppress the default mode network, breaking entrenched neural patterns and enabling cognitive flexibility that persists after the drug wears off.
 - `INS-260330-87A0` [medium] World-class debaters spend their final prep minutes writing the best case against themselves, not reinforcing their own position.
+- `INS-260403-E8DD` [medium] The High Place Phenomenon shows that when survival instincts fire without a matching threat, the brain invents an intention to explain the mismatch.
 - `INS-260330-F671` [medium] The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260330-6E6A` [medium] A detectable time gap exists between a thought appearing and the mind claiming ownership of it, and meditation exploits this gap.
 - `INS-260403-F7DE` [medium] Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
+- `INS-260403-D63C` [low] King's three-tier fear framework — grossout (disgust at the diseased), horror (shock at the unnatural), and terror (dread from the ambiguous) — maps to distinct cognitive processing modes.

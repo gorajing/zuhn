@@ -56,6 +56,7 @@ stance: >-
   thinking a discipline that must be deliberately cultivated
 related:
   - INS-260330-2F13
+  - INS-260403-E8DD
   - INS-260329-8B1C
   - PRI-260403-88F5
   - INS-260327-9F46

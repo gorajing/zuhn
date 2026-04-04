@@ -19,11 +19,11 @@ sources:
     author: Brett Bauman & Zack Hargett (Sub Club podcast)
     url: 'https://youtu.be/Wg70HlO-5gY'
 related:
+  - INS-260403-7B60
   - PRI-260320-A2C7
   - INS-260329-ADCD
   - PRI-260328-BEDD
   - INS-260330-548B
-  - INS-260403-25EE
   - INS-260323-DD40
   - INS-260327-6E93
   - INS-260329-3EB6

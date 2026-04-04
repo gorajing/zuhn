@@ -60,9 +60,9 @@ related:
   - INS-260330-748E
   - INS-260330-795D
   - INS-260330-5B0C
-  - INS-260330-AF47
   - INS-260403-B462
   - INS-260403-BDE0
+  - INS-260403-0F95
 ---
 Graham identifies a communication asymmetry: explicit confidence claims ('we're passionate,' 'our product is great') get discarded as noise or worse, mark you as a bullshitter. But implicit confidence — demonstrated through how you talk about your work, your comfort with hard questions, your genuine excitement about the problem — registers as authentic signal. The audience receives the same message but processes it through a completely different credibility filter.
 

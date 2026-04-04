@@ -45,9 +45,9 @@ resolutions:
 related:
   - INS-260330-95A5
   - INS-260403-3756
+  - INS-260403-53D9
   - INS-260323-099F
   - INS-260403-BC89
-  - INS-260330-BCC7
 stance: >-
   Working out hard enough that you cannot simultaneously worry is a form of
   active meditation that forces a high-vibrational present state.

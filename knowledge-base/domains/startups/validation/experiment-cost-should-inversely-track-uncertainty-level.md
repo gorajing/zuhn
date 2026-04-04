@@ -46,7 +46,6 @@ stance: >-
   The optimal innovation strategy is many tiny bets under high uncertainty, with
   investment scaling only as evidence accumulates
 related:
-  - INS-260320-7682
   - INS-260403-FFEA
   - INS-260325-E84D
   - INS-260325-55D8

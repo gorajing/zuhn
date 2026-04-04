@@ -52,7 +52,6 @@ stance: >-
   when conditions change, even when the strategy becomes clearly suboptimal
 related:
   - INS-260323-4E23
-  - INS-260325-CB41
   - INS-260323-1176
   - INS-260329-C26B
   - INS-260329-8067

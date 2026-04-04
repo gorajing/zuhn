@@ -1,5 +1,6 @@
 # Tag: epistemic-humility
 
+- `INS-260403-222E` Experts fail not from ignorance but from over-confidence in beliefs calibrated to a previous version of the world.
 - `INS-260330-B224` Every physics textbook states the universe is mainly atoms, but 96% is actually dark matter (23%) and dark energy (73%) — the most basic 'fact' in the field is wrong.
 - `INS-260330-CC51` Stuart Firestein argues science begins where facts run out — riding the wave of ignorance outward is more productive than circling within known facts.
 - `INS-260330-3504` Einstein's circle metaphor: as knowledge area grows, its circumference of darkness grows even faster because circumference scales linearly with radius while area scales quadratically — but the frontier of questions outpaces both.

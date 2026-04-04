@@ -55,8 +55,8 @@ related:
   - INS-260403-46B2
   - INS-260403-5D7D
   - INS-260403-87CF
+  - INS-260403-7B60
   - INS-260403-924B
-  - INS-260330-DDF0
   - INS-260403-F327
 ---
 Every previous economic revolution—agriculture, urbanization, industrialization—eventually spread across the world. Graham argues startups may break this pattern because the forces that drive concentration (community expertise, investor proximity, peer networks) are stronger than the forces that drive dispersal (no geographic market need, government policy ineffectiveness).

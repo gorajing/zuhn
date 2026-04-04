@@ -51,7 +51,6 @@ stance: >-
   and brand differentiation
 related:
   - INS-260324-157A
-  - INS-260327-61AE
   - INS-260327-538E
   - INS-260327-B034
   - INS-260327-F867
@@ -60,6 +59,7 @@ related:
   - INS-260327-7BE4
   - INS-260327-45BD
   - INS-260329-9098
+  - INS-260403-0041
 ---
 Costco's warehouse stores have no decorations, no organized aisles, and products sit on industrial pallets. Objectively, this is a worse shopping experience than a curated retail store. But Costco reframes these cost-saving measures as features: the industrial feel signals 'we spend money on low prices, not fancy displays,' and the maze-like layout creates a treasure-hunt dynamic that increases average basket size.
 

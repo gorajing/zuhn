@@ -52,6 +52,7 @@ related:
   - INS-260330-281A
   - INS-260330-9F1F
   - INS-260330-478C
+  - INS-260403-D6FE
 ---
 At Apple, when building the first generation of AirPods, the team didn't do online surveys. They invited users to small interview rooms for face-to-face conversations. The reason: online surveys produce garbage data because people click the first option to get to the end. Nobody wants to give real feedback through a form.
 

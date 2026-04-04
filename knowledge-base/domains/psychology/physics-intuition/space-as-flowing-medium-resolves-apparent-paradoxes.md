@@ -53,7 +53,6 @@ stance: >-
   algebraic reasoning.
 related:
   - INS-260323-0E33
-  - INS-260322-A8F2
   - INS-260327-DCF8
   - INS-260327-EDE4
   - INS-260323-5199

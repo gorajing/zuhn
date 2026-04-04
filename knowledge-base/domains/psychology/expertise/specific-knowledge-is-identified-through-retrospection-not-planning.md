@@ -50,12 +50,12 @@ related:
   - INS-260320-5F14
   - INS-260322-CC69
   - PRI-260325-1640
-  - INS-260327-7DBF
   - INS-260329-A077
   - INS-260329-8896
   - INS-260329-FA1C
   - INS-260329-6004
   - INS-260330-053D
+  - INS-260330-6F2F
 ---
 Naval makes a counterintuitive point: you don't choose your specific knowledge, you discover it. Especially past your early twenties, the most honest strategy is to examine what you've already built — the skills you naturally accumulated, the topics you obsessively return to, the problems that feel like play rather than work.
 

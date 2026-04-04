@@ -1,8 +1,9 @@
 # Topic: venture-capital
 
-> 23 insights
+> 25 insights
 
 - `INS-260403-D98E` [high] Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
+- `INS-260403-4DFB` [high] In rapidly changing domains, evaluating people (earnest, energetic, independent-minded) outperforms evaluating ideas because future discoveries are unpredictable but discoverer traits are not.
 - `INS-260403-4717` [high] Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
 - `INS-260403-8002` [high] Fund manager wealth required both new strategies and the 1978 regulatory change allowing pension fund investment — a two-factor gate.
 - `INS-260403-1D6E` [high] Graham first thought Julian Weber got a great deal with 10% of Viaweb for $10k and mentorship, then realized without Julian, Viaweb wouldn't have existed at all.
@@ -25,3 +26,4 @@
 - `INS-260403-1FCD` [medium] Mega-scale industries resist digitization longest but produce disproportionate numbers of billion-dollar startups when disruption arrives.
 - `INS-260403-AA09` [medium] Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
 - `INS-260403-D500` [medium] Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.
+- `INS-260403-06E2` [medium] Sand Hill Road's boring identical offices reveal that VC firms differentiate on relationships and judgment, not on brand or physical presence.

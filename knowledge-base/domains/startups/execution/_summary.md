@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 216 insights
+> 217 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -153,6 +153,7 @@
 - `INS-260326-E411` [high] Napoleon's Italian Campaign succeeded because he moved his worst-supplied army faster than anyone believed possible, defeating enemies before they could coordinate.
 - `INS-260326-8798` [high] Pay yourself less, get a worse office, and read your bank statement every month — burn rate is the only runway lever that's 100% in your control.
 - `INS-260329-E6DB` [high] Hormozi admits Prestige Labs stalled Gym Launch's growth because his attention split — the biggest lesson was he probably shouldn't have done it.
+- `INS-260403-CCB7` [high] Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - `INS-260403-9A4C` [high] Most startups die from giving up, not from insurmountable external forces.
 - `INS-260403-4A2F` [high] The cheapest-to-operate startups are the hardest to kill, making extreme frugality the best recession-proofing and the best default operating mode.
 - `INS-260403-906E` [high] Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
