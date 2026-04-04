@@ -53,11 +53,11 @@ stance: >-
   Delaying layoffs and burn reduction during a downturn creates more
   organizational anxiety than executing cuts quickly with a clear forward plan.
 related:
-  - INS-260325-D797
   - INS-260323-0B5E
   - INS-260403-3FF5
   - INS-260330-A476
-  - INS-260320-39A3
+  - INS-260403-2A1D
+  - INS-260325-D797
 evidence:
   - id: INS-260325-D797
     type: TRANSFERS_TO

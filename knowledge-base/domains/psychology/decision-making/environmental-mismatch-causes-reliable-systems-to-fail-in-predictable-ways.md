@@ -54,11 +54,11 @@ stance: >-
   wrong input rather than producing no output
 related:
   - INS-260325-82E8
+  - INS-260403-CF3E
   - INS-260330-CA97
   - INS-260330-4441
   - INS-260330-EACA
   - INS-260330-50B3
-  - INS-260330-B3D5
 evidence:
   - id: INS-260330-CA97
     type: REFINES

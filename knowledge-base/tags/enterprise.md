@@ -11,14 +11,14 @@
 - `INS-260330-EC76` Attack incumbents where their business model or architecture prevents them from responding, not where they're strongest.
 - `INS-260327-178E` Block unwound their GM structure into a functional org specifically because AI transformation requires unified technical capabilities across product lines.
 - `INS-260403-0350` For SMBs, AI agents are pure value-add filling gaps they couldn't afford to fill; for enterprises, agents must replace entrenched processes, creating friction.
+- `INS-260330-FE9E` Your job is to listen to customer problems and translate them into the best simplest solution — not to build exactly what they tell you to build.
+- `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
 - `INS-260330-0BBA` Listen to customer problems deeply but translate them into the simplest possible solution, which is often not what the customer literally asked for.
 - `INS-260330-13E8` Find the gap between existing enterprise products, nail that narrow use case, then expand to adjacent problems over time.
 - `INS-260330-2306` Your job is to hear the problem behind the request and build the simplest solution to that problem.
 - `INS-260330-118D` Enter enterprise markets through a narrow, excellent wedge that incumbents dismiss as too small.
 - `INS-260330-62D6` Find the smallest valuable problem incumbents ignore, nail the UX, then expand outward.
 - `INS-260330-7168` Find the gap between incumbent solutions, build the best experience for that narrow slice, then expand to larger customers or more use cases over time.
-- `INS-260330-FE9E` Your job is to listen to customer problems and translate them into the best simplest solution — not to build exactly what they tell you to build.
-- `INS-260330-2C79` Translate customer problems into elegant solutions rather than implementing their proposed features.
 - `INS-260328-070D` Nine times out of ten, what founders dismiss as consulting is actually a chance to deeply learn the problem space and build a moat.
 - `INS-260330-EEA9` Let the product drive user adoption, but deploy consultative salespeople to help customers navigate deployment and competition.
 - `INS-260330-1F25` Look for the widest gap between what's now technically possible and how things are still being done.

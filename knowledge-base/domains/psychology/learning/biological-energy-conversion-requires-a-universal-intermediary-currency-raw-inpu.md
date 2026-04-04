@@ -52,10 +52,10 @@ stance: >-
   standardized internal currencies rather than direct input-to-output conversion
 related:
   - INS-260330-5670
+  - INS-260403-6F40
   - INS-260330-2C71
   - INS-260403-5C74
   - INS-260325-81BD
-  - INS-260330-30FB
   - INS-260330-8E45
 evidence:
   - id: INS-260330-30FB

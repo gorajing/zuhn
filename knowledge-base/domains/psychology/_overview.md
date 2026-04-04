@@ -1,6 +1,6 @@
 # Domain: psychology
 
-> 1698 insights across 20 topics
+> 1700 insights across 20 topics
 
 ## Topics
 
@@ -17,12 +17,12 @@
 | founder-mindset | 16 | Masa Son's explicit 50-year plan — build in 20s, accumulate in 30s, deploy in 40s, consolidate in 50s, hand off after 60 — gave him a framework to absorb $70B losses without changing course. |
 | founder-psychology | 18 | Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize. |
 | group-dynamics | 36 | The Pueblo Revolt shows that a shared existential threat can override deep tribal divisions — but the unity is temporary. |
-| learning | 220 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
+| learning | 221 | Twenty hours of focused study on a single skill creates enough baseline competence to unlock meaningfully better job opportunities. |
 | math-perception | 60 | Sanderson's observation that 'if it were any simpler, what hope would we have that it could recognize digits?' reveals a useful heuristic: solution complexity should be proportional to problem complexity. |
 | mental-models | 69 | Three competing theories for the Indus Valley's decline each tell a confident story from the same absence of evidence, revealing how humans handle epistemic gaps. |
 | negotiation | 2 | Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse. |
 | perception | 309 | A 13-hour course with 7.6M views shows audiences will commit to extreme depth when they trust the source. |
-| persuasion | 21 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
+| persuasion | 22 | Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal. |
 | physics-intuition | 77 | Light's regularity means its full 3D state is determined by its values on any 2D boundary surface. |
 | relationships | 91 | Psychologist Sonja Lyubomirsky's analysis estimates 50% of happiness is genetic set point, 10% is circumstances, and 40% is under our control. |
 | resilience | 136 | Most suffering about change comes from resisting it rather than from the change itself - accepting impermanence eliminates the anxiety of trying to freeze what cannot be frozen. |

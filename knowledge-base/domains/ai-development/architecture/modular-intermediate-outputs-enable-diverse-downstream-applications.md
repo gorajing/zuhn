@@ -55,7 +55,6 @@ stance: >-
   that can be converted into multiple end products is more robust than
   optimizing for a single output
 related:
-  - INS-260330-1298
   - INS-260330-2BF4
   - INS-260330-5DFF
   - INS-260330-B076
@@ -63,7 +62,7 @@ related:
   - INS-260330-41F6
   - INS-260330-2C71
   - INS-260330-1084
-  - PRI-260403-181B
+  - INS-260403-6F40
 evidence:
   - id: INS-260325-0892
     type: TRANSFERS_TO

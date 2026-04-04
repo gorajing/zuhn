@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 411 insights
+> 412 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -51,6 +51,7 @@
 - `INS-260327-50CE` [high] When a business sells membership in an exclusive social group rather than a product or service, pricing is determined by
 - `INS-260327-4BC6` [high] Businesses positioned at the affordable end of essential categories are recession-proof because demand for basic needs i
 - `INS-260327-19E5` [high] When businesses function as status symbols for ultra-wealthy owners, the willingness to overpay for acquisition and tole
+- `INS-260403-D85D` [high] Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all complex animal life — side effects of a process can eclipse the intended output in value.
 - `INS-260330-57BB` [high] Son's strategy of offering 5x what companies asked for pressured them into unsustainable growth-at-all-costs playbooks while scaring away competitors.
 - `INS-260327-7A5A` [high] Celebrities who launch product lines exploit parasocial fan relationships to bypass normal quality evaluation, resulting
 - `INS-260330-E811` [high] Innovation ecosystems are historically destroyed by authoritarian rulers, ideological fundamentalists, or rent-seeking extractors.

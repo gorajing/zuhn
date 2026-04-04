@@ -61,10 +61,10 @@ stance: >-
 related:
   - INS-260325-1709
   - INS-260330-A3EB
+  - INS-260403-CF3E
   - INS-260330-4441
   - INS-260330-50B3
   - INS-260330-DF69
-  - INS-260330-B3D5
 evidence:
   - id: INS-260325-1709
     type: TRANSFERS_TO

@@ -50,12 +50,11 @@ stance: >-
   rational strategy that can sustain dominance indefinitely
 related:
   - INS-260330-B7B1
-  - INS-260330-54ED
   - INS-260330-E068
-  - INS-260330-2F74
   - INS-260330-ED9D
   - INS-260330-C02D
-  - INS-260330-22C0
+  - INS-260330-54ED
+  - INS-260403-532D
 evidence:
   - id: INS-260330-E068
     type: EXTENDS

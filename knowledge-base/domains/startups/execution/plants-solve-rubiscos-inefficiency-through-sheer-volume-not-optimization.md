@@ -47,7 +47,6 @@ stance: >-
   strategy when replacement cost is prohibitive
 related:
   - INS-260330-E1B3
-  - INS-260330-8BF6
   - INS-260330-D4CC
   - INS-260330-EB1B
   - INS-260330-4EC0

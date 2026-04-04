@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260330-0E77
   - INS-260330-B3D5
+  - INS-260403-CF3E
   - INS-260330-EACA
   - INS-260330-57E6
-  - INS-260330-E497
   - INS-260330-0027
 evidence:
   - id: INS-260330-57E6

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3203 actionable insights
+Generated on 2026-04-04 | 3209 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1520,6 +1520,7 @@ Generated on 2026-04-04 | 3203 actionable insights
 - [INS-260403-A290] Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
 - [INS-260403-560A] Labels like x-ist end discussion by signaling that truth-evaluation is no longer relevant.
 - [INS-260403-915E] Explicitly claiming passion or greatness triggers investor skepticism; confidence must be demonstrated implicitly through how you present, not what you say about yourself.
+- [INS-260403-B505] Never explicitly claim passion or greatness — audiences ignore or penalize it, but absorb the same message when conveyed implicitly through behavior and specifics.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1782,6 +1783,7 @@ Generated on 2026-04-04 | 3203 actionable insights
 - [INS-260403-EF30] Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
 - [INS-260403-D375] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - [INS-260403-FE37] A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
+- [INS-260403-2A1D] Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2158,6 +2160,7 @@ Generated on 2026-04-04 | 3203 actionable insights
 - [INS-260402-7182] When companies can't measure output, they mandate presence, and the gap between mandated hours and actual productive work gets filled by meetings.
 - [INS-260403-5514] The critical question for aspiring founders is not which technology to learn but whether they are producing things or just consuming them.
 - [INS-260403-EFAF] Version 1 should be light enough to evolve — over-engineering kills startups faster than technical debt.
+- [INS-260403-532D] Plants produce 40 billion tons of inefficient RuBisCo rather than evolving a better enzyme — brute-force scaling of a mediocre solution can dominate an entire ecosystem.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2448,6 +2451,9 @@ Generated on 2026-04-04 | 3203 actionable insights
 - [INS-260403-A709] VCs expect early business models to be wrong; pitching them wastes time that should go to demonstrating the problem and solution you deeply understand.
 - [INS-260403-2204] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - [INS-260403-34C0] Investors hear hundreds of pitches that blur together; a single sticky phrase ('the X of Y') is often the difference between being remembered and being forgotten.
+- [INS-260403-1852] Don't dwell on your business model in early-stage pitches — investors assume it's wrong and you'll sound smarter discussing the problem you're solving.
+- [INS-260403-047B] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
+- [INS-260403-53AA] Tell stories about specific users and their problems rather than citing market sizes — investors use user narratives as a proxy for genuine demand.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.

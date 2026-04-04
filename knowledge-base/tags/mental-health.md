@@ -12,8 +12,8 @@
 - `INS-260325-765F` Rather than viewing time alone as reflecting something wrong about you, reframing it as an opportunity for creativity and pleasant self-reflection transforms the experience from harmful to beneficial.
 - `INS-260328-3FCE` The Dark Playground — leisure during times meant for work — fills the air with guilt and anxiety, making the fun not actually fun.
 - `INS-260325-0A49` The Dark Playground is where procrastinators spend time on leisure activities that bring no real enjoyment because they're unearned.
-- `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260327-9D51` Algorithms optimized for engagement systematically show people the most extreme, emotional, and divisive content, creating population-scale distortion of what the world actually looks like.
+- `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-D2CE` Agency and gratitude serve as the top-level indicators of mental health, paralleling blood pressure and endurance in physical health.
 - `INS-260325-1345` A third of male K-12 teachers also coach, and coaches naturally spot struggling boys and open conversations in non-threatening shoulder-to-shoulder settings -- they are disguised mental health infrastructure.
 - `INS-260330-BC1B` Men's deaths of despair (3x higher than women's) are driven by feeling 'worthless' and 'useless'—a purpose crisis compounded by isolation, not just material hardship.

@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 220 insights
+> 221 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -70,6 +70,7 @@
 - `INS-260402-E76D` [high] Innocence is not ignorance — it's the open-mindedness required for continued learning, and premature cynicism permanently narrows intellectual horizons.
 - `INS-260330-FB50` [high] Newton invented calculus at age 23 because 1600s mathematics couldn't calculate a falling moon's trajectory — necessity of the problem forced creation of an entirely new mathematical discipline.
 - `INS-260330-D7CC` [high] Overconfidence in dangerous domains creates the conditions for the worst failures.
+- `INS-260403-6F40` [high] Photosynthesis never converts sunlight directly into glucose — it chains through excited electrons, proton gradients, ATP, and NADPH as intermediate carriers, each step smaller and more manageable than the whole.
 - `INS-260330-35CB` [high] Seeing the answer and proving the answer are separate skills — undergraduate math training primarily builds the latter.
 - `INS-260329-87BA` [high] Define how to guarantee failure first, then invert each behavior into its winning opposite.
 - `INS-260329-D8F2` [high] Use inversion — enumerate failure modes first, then flip them — because our threat-detection circuits are stronger than our solution-finding circuits.

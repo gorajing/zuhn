@@ -49,10 +49,11 @@ stance: >-
 related:
   - INS-260327-D2A6
   - INS-260403-7E27
+  - INS-260403-047B
   - INS-260403-41FF
+  - INS-260403-1852
   - INS-260403-AF27
   - INS-260403-8013
-  - INS-260402-8424
 ---
 Founders resist narrow descriptions because early-stage startups could become many things. But as Paul Graham notes, as a description approaches 'could be anything,' its informational content approaches zero. Investors will discard vague language like 'collaboratively leverage the value of information' as meaningless boilerplate.
 

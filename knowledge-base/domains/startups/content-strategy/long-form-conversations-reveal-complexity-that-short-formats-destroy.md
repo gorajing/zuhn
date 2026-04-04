@@ -52,7 +52,6 @@ related:
   - INS-260329-5C65
   - PRI-260321-5857
   - INS-260330-B360
-  - INS-260330-87BD
 evidence:
   - id: INS-260330-B360
     type: CONTRADICTS

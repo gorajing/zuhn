@@ -19,6 +19,6 @@
 - `INS-260325-9F01` A 30-minute screen time limit does not produce 30 minutes of impact — the craving and mental preoccupation persist all day.
 - `INS-260325-4CF9` The brain's wanting system is diffuse and insatiable; the liking system is small and satiable. Tech exploits the wanting system.
 - `INS-260325-7417` The brain's wanting circuit is easy to trigger but impossible to satisfy, creating the hedonic treadmill that technology exploits for engagement.
+- `INS-260325-5A72` Men's higher risk appetite leads them to save lives in emergencies and to blow their savings on gambling -- the trait itself is neutral, and society needs both male and female approaches to risk.
 - `INS-260330-4605` The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.
 - `INS-260330-A33E` Active addiction of any kind — drugs, crime, gambling — makes genuine love impossible because the addiction always comes first.
-- `INS-260325-5A72` Men's higher risk appetite leads them to save lives in emergencies and to blow their savings on gambling -- the trait itself is neutral, and society needs both male and female approaches to risk.

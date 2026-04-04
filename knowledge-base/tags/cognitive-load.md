@@ -14,6 +14,7 @@
 - `INS-260329-9AE9` A single continuous learning resource from basics to advanced topics exploits completion bias to push learners further than multi-resource paths.
 - `INS-260330-0930` Even after learning the backwards bicycle, any small distraction like a phone ringing would instantly revert Destin's brain to the old steering algorithm.
 - `INS-260329-AD3E` Effective tutorials introduce one new concept at a time while keeping everything else familiar, preventing working memory overload.
+- `INS-260403-6F40` Photosynthesis never converts sunlight directly into glucose — it chains through excited electrons, proton gradients, ATP, and NADPH as intermediate carriers, each step smaller and more manageable than the whole.
 - `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
 - `INS-260330-B047` Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
 - `INS-260329-65CD` Use the simplest tool available when learning something new — complexity in the environment competes with complexity in the subject.

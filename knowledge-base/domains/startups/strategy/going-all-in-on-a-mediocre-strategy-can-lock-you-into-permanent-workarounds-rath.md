@@ -65,7 +65,6 @@ related:
   - INS-260330-11EB
   - INS-260330-4489
   - INS-260330-54ED
-  - INS-260330-ED9D
 evidence:
   - id: INS-260330-CC30
     type: TRANSFERS_TO

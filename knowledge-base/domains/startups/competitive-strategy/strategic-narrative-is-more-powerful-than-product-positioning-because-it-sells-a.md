@@ -48,7 +48,6 @@ stance: >-
   marketing, and fundraising around a single story.
 related:
   - INS-260321-167A
-  - INS-260323-960A
   - INS-260327-29F0
   - PRI-260323-A5E8
   - INS-260330-7B1C
@@ -57,6 +56,7 @@ related:
   - INS-260327-ECDA
   - INS-260330-F324
   - INS-260330-4C23
+  - INS-260403-4A9E
 evidence:
   - id: INS-260321-167A
     type: EXTENDS
