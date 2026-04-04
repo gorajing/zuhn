@@ -53,11 +53,11 @@ stance: >-
   When a process works cleanly in one direction, the reverse direction typically
   requires a categorically different mechanism rather than a simple inversion
 related:
+  - INS-260404-B6E8
   - INS-260330-0BCC
   - INS-260403-C436
   - INS-260323-1D15
   - INS-260330-0E1E
-  - INS-260323-6D41
 ---
 DNA polymerase can only build in the 5' to 3' direction. The leading strand follows this naturally, requiring just one primer and continuous synthesis. But the lagging strand runs in the opposite chemical direction, so the cell doesn't just 'reverse' the process — it invented a fundamentally different approach: fragmentary synthesis via Okazaki fragments (1,000-2,000 base pairs each), multiple RNA primers, a second polymerase to replace primers, and DNA ligase to stitch fragments together.
 

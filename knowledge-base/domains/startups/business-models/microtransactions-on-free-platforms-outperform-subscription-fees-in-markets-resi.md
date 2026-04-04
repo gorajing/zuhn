@@ -54,7 +54,6 @@ stance: >-
   core product free and monetizing through small optional purchases generates
   more revenue than subscription or access fees.
 related:
-  - INS-260325-206C
   - INS-260327-2B62
   - INS-260327-4440
   - INS-260330-999F
@@ -64,6 +63,7 @@ related:
   - INS-260330-931A
   - INS-260330-2ABC
   - INS-260330-48DE
+  - INS-260403-57E7
 evidence:
   - id: INS-260325-206C
     type: CHALLENGES

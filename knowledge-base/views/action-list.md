@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3705 actionable insights
+Generated on 2026-04-04 | 3711 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1477,6 +1477,7 @@ Generated on 2026-04-04 | 3705 actionable insights
 - [INS-260404-C99B] Your guilty pleasures — what you read when not trying to be impressive — reveal your genuine aesthetic preferences.
 - [INS-260404-8A87] Only copy work you authentically enjoy, not work you admire for its status.
 - [INS-260404-FDEA] Photosystem II was discovered after Photosystem I but acts first in the process, creating a naming inversion that confuses every new learner of biology.
+- [INS-260404-52FC] CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1643,6 +1644,7 @@ Generated on 2026-04-04 | 3705 actionable insights
 - [INS-260404-58AE] Show, don't tell: never claim passion or quality directly—let your command of the problem and product demonstrate it.
 - [INS-260404-E6EA] When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
 - [INS-260404-CDCB] Telling investors you're passionate makes them write you off as bullshitters; showing confidence through substance and demeanor is what actually persuades.
+- [INS-260404-523C] With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1963,6 +1965,7 @@ Generated on 2026-04-04 | 3705 actionable insights
 - [INS-260403-BDBE] Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase near the beginning ensures you survive the first cut of simply being remembered.
 - [INS-260404-621F] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - [INS-260404-CF2A] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
+- [INS-260404-8D37] A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2793,6 +2796,8 @@ Generated on 2026-04-04 | 3705 actionable insights
 - [INS-260404-7609] Tell stories about specific users and their problems rather than citing market sizes — investors' biggest fear is that nobody actually wants your product.
 - [INS-260404-D4A0] Smart early-stage investors care more about whether you've identified an important problem than whether your revenue model is correct.
 - [INS-260404-F20B] Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.
+- [INS-260404-4DF7] At early stage, your business model is probably wrong — talking about the problem you're solving sounds smarter and is more memorable than guesses about monetization.
+- [INS-260404-F560] As a startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3877,6 +3882,7 @@ Generated on 2026-04-04 | 3705 actionable insights
 - [INS-260404-B01F] Tell stories about specific users with specific problems to prove demand exists beyond your own assumptions.
 - [INS-260404-FF0B] Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 - [INS-260404-2AA1] Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
+- [INS-260404-9A82] Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

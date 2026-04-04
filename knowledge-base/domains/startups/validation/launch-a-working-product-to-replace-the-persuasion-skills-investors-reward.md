@@ -47,7 +47,6 @@ stance: >-
   fundraising strategy than pitching, because it replaces social performance
   with measurable evidence.
 related:
-  - INS-260322-A02C
   - INS-260325-3E9F
   - INS-260328-4EA0
   - INS-260329-1318
@@ -57,6 +56,7 @@ related:
   - PRI-260403-26B9
   - INS-260403-86DB
   - INS-260403-B2EB
+  - INS-260403-36DD
 evidence:
   - id: INS-260330-870B
     type: EXTENDS

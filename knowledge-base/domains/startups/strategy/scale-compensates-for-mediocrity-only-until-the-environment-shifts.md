@@ -51,16 +51,16 @@ stance: >-
   environmental conditions change, at which point the sunk investment becomes a
   trap.
 related:
-  - INS-260330-53A9
   - INS-260330-4C3A
-  - INS-260330-C02D
   - INS-260330-11EB
+  - INS-260330-C02D
   - INS-260403-3E1C
   - INS-260330-8BF6
   - INS-260330-BFA2
   - INS-260330-0B4A
   - PRI-260403-C34A
   - INS-260403-D518
+  - INS-260403-1110
 evidence:
   - id: INS-260330-C02D
     type: EXTENDS

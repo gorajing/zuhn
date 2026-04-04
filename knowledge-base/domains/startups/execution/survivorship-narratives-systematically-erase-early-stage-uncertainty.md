@@ -48,10 +48,11 @@ stance: >-
 related:
   - INS-260322-047D
   - INS-260329-1CB0
-  - INS-260403-FAFA
+  - INS-260404-9A82
   - PRI-260328-B11D
   - PRI-260328-604D
   - INS-260402-E140
+  - INS-260403-FAFA
   - INS-260403-E300
 ---
 Graham observes that when PR people and journalists recount startup histories, they always underestimate initial uncertainty. Looking at Google, it seems impossible they were ever vulnerable — but Graham argues that just six months of the wrong focus by two employees could have killed the company. The 'railroad tracks of destiny' framing is a cognitive distortion that emerges after the fact.

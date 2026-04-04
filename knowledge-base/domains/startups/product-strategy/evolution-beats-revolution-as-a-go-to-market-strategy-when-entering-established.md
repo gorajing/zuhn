@@ -52,7 +52,6 @@ stance: >-
   generation outperform those that attempt to replace existing paradigms
   wholesale.
 related:
-  - INS-260325-F451
   - INS-260327-29F0
   - INS-260327-C569
   - INS-260329-C26B

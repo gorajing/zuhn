@@ -56,7 +56,7 @@ related:
   - INS-260403-E393
   - INS-260403-2247
   - INS-260403-054F
+  - INS-260404-4DF7
   - INS-260403-FF86
-  - INS-260403-C496
 ---
 Graham recounts a VC describing a company he just funded: the business model was wrong and would probably change three times. These were experienced repeat founders who'd raised millions — and even their model was crap. Smart investors expect this. The implication is that founders have an expertise asymmetry: they know the problem and the technology deeply, but are guessing about monetization. Spending limited pitch time on your weakest area (guesses about business) instead of your strongest (the problem and what you've built) is a strategic error. Worse, a spectacularly wrong business model can become the thing investors remember, crowding out the substantive signal about your product.

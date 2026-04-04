@@ -53,14 +53,15 @@ resolutions:
     themselves. You have to sell yourself well.'
 related:
   - INS-260403-1DB7
+  - INS-260404-9A82
   - INS-260403-0267
   - INS-260403-3482
   - INS-260403-088E
-  - INS-260403-7E27
   - INS-260322-EF20
   - INS-260328-3FA4
   - INS-260328-3F19
   - INS-260403-832E
+  - INS-260404-523C
 stance: >-
   At pre-seed and seed stage, investors and early customers are betting on the
   founder's story and character, not the product.

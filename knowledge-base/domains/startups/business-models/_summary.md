@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 186 insights
+> 188 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -30,6 +30,7 @@
 - `INS-260322-B450` [high] The best consumer AI companies achieve over 100% net revenue retention through usage-based pricing on top of subscriptions — something never seen before in consumer software.
 - `INS-260330-5C64` [high] Users make one unrelated choice (e.g., buying a phone) that forces dozens of subsequent choices, creating compounding lock-in that no single service could generate independently.
 - `INS-260327-2B62` [high] FaZe Clan's cost of revenue exceeded 70% every year because content creators demanded generous revenue-sharing to stay exclusive -- the company captured the least value while still spending beyond its means.
+- `INS-260404-2087` [high] Costco turns its membership barrier, warehouse chaos, and limited selection into loyalty drivers, treasure-hunt shopping, and supplier leverage respectively.
 - `INS-260327-78A0` [high] When businesses rebrand cost-cutting as innovation or customer empowerment, consumers eventually recognize the degraded 
 - `INS-260327-31A7` [high] Ultra-cheap Chinese e-commerce platforms exploit the de minimis trade exemption that allows small-value packages to ente
 - `INS-260327-4F8C` [high] Cruise lines optimize revenue by creating a closed economic system where all spending occurs within their controlled env
@@ -81,6 +82,7 @@
 - `INS-260327-0E28` [high] Luxury conglomerates like LVMH reduce risk through portfolio diversification across fashion, wines, cosmetics, and jewel
 - `INS-260404-DD00` [high] Mandatory membership fees align company incentives with customer satisfaction because revenue depends on renewal, not markup.
 - `INS-260403-CED6` [high] When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
+- `INS-260404-12A4` [high] Mandatory fees force companies to continuously justify membership value, aligning long-term incentives with customer satisfaction.
 - `INS-260403-1C25` [high] Mandatory fees force companies to optimize for long-term customer satisfaction since raising prices risks losing the entire membership revenue stream.
 - `INS-260403-426A` [high] Marketplaces progress through horizontal lead gen, vertical lead gen, vertical transactional, and tightly managed phases.
 - `INS-260403-59F8` [high] Making membership the primary revenue source forces the company to prioritize long-term customer satisfaction over short-term margin extraction.

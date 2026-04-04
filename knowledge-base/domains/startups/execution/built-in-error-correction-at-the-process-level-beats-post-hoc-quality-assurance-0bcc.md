@@ -51,13 +51,13 @@ stance: >-
   (like DNA polymerase's proofreading) achieve far lower error rates than
   systems that rely on external quality checks after the fact.
 related:
-  - INS-260329-277B
   - INS-260330-3AF7
   - INS-260330-73F3
   - INS-260330-B7AB
   - PRI-260403-5B3D
   - PRI-260321-14D8
-  - INS-260330-FB5A
+  - INS-260404-B6E8
+  - INS-260329-277B
 evidence:
   - id: INS-260330-B7AB
     type: REFINES

@@ -51,7 +51,6 @@ related:
   - INS-260325-E7D4
   - PRI-260328-36C3
   - INS-260330-B08E
-  - INS-260330-73F3
 stance: >-
   In evolutionary simulations, winning replicators consistently had the highest
   replication rate and lowest death rate

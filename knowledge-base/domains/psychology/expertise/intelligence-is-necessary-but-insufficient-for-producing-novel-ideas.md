@@ -43,7 +43,6 @@ stance: >-
   minor variance — most smart people never discover anything new
 related:
   - INS-260321-F864
-  - INS-260320-E044
   - INS-260321-C14C
   - INS-260321-1A84
   - INS-260328-FF2C

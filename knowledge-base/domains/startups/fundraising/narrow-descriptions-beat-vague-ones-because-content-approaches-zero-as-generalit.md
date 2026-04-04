@@ -48,10 +48,10 @@ stance: >-
   discarded as meaningless boilerplate by investors.
 related:
   - INS-260403-8013
-  - INS-260403-EE70
+  - INS-260404-F560
   - INS-260403-F981
   - INS-260403-9AB3
-  - INS-260403-74EA
+  - INS-260403-EE70
   - INS-260403-39B0
   - INS-260404-0430
 ---

@@ -46,13 +46,13 @@ stance: >-
   A founder who cannot articulate their customer's top three business problems
   is not ready to sell to them.
 related:
-  - INS-260327-89C7
   - INS-260327-4212
   - INS-260328-0540
   - INS-260330-0BBA
   - INS-260330-FE9E
   - INS-260327-B12E
-  - INS-260403-054F
+  - INS-260404-4DF7
+  - INS-260327-89C7
 ---
 Michael pushes founders to imagine they are the CEO of the company buying their product. What would your top three problems be? Most founders can't answer this — they're so focused on their own product that they've never truly studied their customer's world. They know what feature they want to sell, but not why the buyer's business needs it.
 

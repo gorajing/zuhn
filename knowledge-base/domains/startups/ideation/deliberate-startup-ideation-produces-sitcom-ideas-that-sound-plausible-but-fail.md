@@ -50,7 +50,6 @@ stance: >-
   ideas from personal experience are systematically better
 related:
   - INS-260320-E044
-  - INS-260323-C4E2
   - INS-260321-3660
   - INS-260323-09E4
   - INS-260327-FCCF
@@ -59,6 +58,7 @@ related:
   - INS-260329-4DBC
   - INS-260329-9513
   - INS-260330-AB6E
+  - PRI-260403-3906
 ---
 Paul Graham identifies a systematic failure mode in startup ideation: when founders sit down to think up ideas, they produce 'sitcom ideas' — concepts that sound reasonable enough that friends say 'yeah, maybe I could see using that' but that no one actually wants urgently. The classic example is 'a social network for pet owners' — millions of potential users, targeted monetization, but zero desperate demand.
 

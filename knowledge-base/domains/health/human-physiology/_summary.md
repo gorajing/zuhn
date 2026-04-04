@@ -1,6 +1,6 @@
 # Topic: human-physiology
 
-> 33 insights
+> 34 insights
 
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-B061` [high] PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth.
@@ -15,6 +15,7 @@
 - `INS-260330-8C6A` [high] Thylakoids charge like batteries by pumping protons across membranes, then discharge through ATP synthase — the same gradient-to-currency pattern powers mitochondria, neurons, and kidneys.
 - `INS-260330-7E39` [high] The thylakoid membrane works like a battery — protons are pumped in to create a concentration gradient, then ATP synthase harvests the gradient as they flow back out.
 - `INS-260330-8A2E` [high] Thylakoid membranes charge like batteries by pumping protons to one side, then ATP synthase harvests the gradient — the same mechanism powers human mitochondria.
+- `INS-260404-869D` [high] ATP synthase converts proton concentration gradients into cellular energy, making membrane-based charge separation the fundamental pattern of biological power generation.
 - `INS-260330-051F` [high] All death results from irreversible homeostatic failure, regardless of the proximate cause.
 - `INS-260330-F76B` [high] Picosecond laser pulses heat one side of an ink particle so fast that thermal expansion on that side rips it apart before the other side warms up.
 - `INS-260330-9733` [high] White blood cells detect tattoo ink immediately but can only remove particles smaller than themselves, which is why tattoos fade slowly over decades.

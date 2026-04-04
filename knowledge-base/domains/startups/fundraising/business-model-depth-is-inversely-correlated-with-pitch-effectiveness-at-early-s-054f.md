@@ -50,11 +50,11 @@ related:
   - INS-260327-A5EE
   - INS-260328-0345
   - INS-260328-0B42
-  - INS-260328-D2EC
   - INS-260329-F007
   - INS-260330-50D4
   - INS-260403-FFF0
-  - INS-260403-E393
   - INS-260403-7E7C
+  - INS-260403-97DB
+  - INS-260403-97F8
 ---
 Smart investors at the early stage don't evaluate business models because they expect them to be wrong. Paul Graham cites a VC who invested in experienced founders knowing their business model was 'crap' and would change three times. The danger of going deep on business models is twofold: it wastes scarce presentation time on your weakest material (guesses outside your expertise), and a spectacularly wrong model will become the thing investors remember about you, pushing out memory of your actual product strengths. Time spent on the problem you're solving — your area of genuine expertise — is always higher-ROI in a pitch.

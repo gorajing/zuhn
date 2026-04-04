@@ -49,8 +49,8 @@ related:
   - PRI-260323-7B35
   - PRI-260328-6CEC
   - INS-260329-ADCD
+  - INS-260404-4DF7
   - INS-260403-5D89
-  - INS-260402-2879
   - INS-260403-30BF
 stance: >-
   The correct sequence is pricing optimization -> freed cash flow -> attribution

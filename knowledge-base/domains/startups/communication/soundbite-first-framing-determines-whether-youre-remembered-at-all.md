@@ -58,8 +58,8 @@ related:
   - INS-260403-81CE
   - INS-260403-2A1D
   - INS-260403-F171
-  - INS-260403-0AF4
   - INS-260403-2FE1
+  - INS-260403-19D8
 ---
 After hearing dozens of pitches, investors' memories compress each startup into a single impression. If you don't control what that impression is, you're leaving it to chance. Graham's advice is to craft a phrase like 'the Microsoft Word of ecommerce' (Viaweb's) and deploy it early in the talk, apparently casually.
 

@@ -52,7 +52,7 @@ related:
   - INS-260330-0E1E
   - INS-260330-3FCF
   - INS-260330-47CF
-  - INS-260330-EB48
+  - INS-260404-B6E8
 ---
 Plants produce massive quantities of RuBisCo and maintain separate enzymatic pathways to neutralize its toxic byproduct phosphoglycolate. From the outside this looks irrational—why not just evolve a better enzyme? But from inside the system, it's perfectly rational. Every other metabolic pathway assumes RuBisCo's outputs. Replacing it would require simultaneously redesigning dozens of downstream processes, a coordination problem evolution cannot solve incrementally.
 

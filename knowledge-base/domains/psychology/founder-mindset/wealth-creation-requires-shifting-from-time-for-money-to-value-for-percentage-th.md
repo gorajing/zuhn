@@ -47,7 +47,6 @@ stance: >-
   capturing a percentage of value created is the prerequisite mental model
   change for building wealth.
 related:
-  - INS-260329-34A9
   - INS-260329-5257
   - INS-260330-228D
   - INS-260402-6D5E
