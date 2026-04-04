@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 69 insights
+> 71 insights
 
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
@@ -13,6 +13,7 @@
 - `INS-260330-D304` [high] RuBisCo evolved in a low-oxygen world and now grabs oxygen instead of CO2 half the time — the same pattern drives human cognitive biases in modern environments.
 - `INS-260330-B3D5` [high] RuBisCo evolved when oxygen was nearly absent; now it confuses O2 for CO2 half the time, creating toxins plants must constantly remediate.
 - `INS-260330-AA4F` [high] Because humans linearize exponentials, they systematically under-react when early action is cheapest and over-react when the situation is already determined.
+- `INS-260403-FBC0` [high] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260330-8FC5` [high] Pick your city first because jobs, partners, friends, and opportunities are downstream of geographic network proximity.
 - `INS-260330-6689` [high] Each individual integration step in the Greater Bay Area plan has a reasonable economic justification, making organized resistance to the cumulative erosion of autonomy far more difficult than opposing a single dramatic change.
 - `INS-260403-CA46` [high] When abundance replaces scarcity, the winning strategy inverts but behavior lags.
@@ -64,6 +65,7 @@
 - `INS-260330-3B05` [medium] Kissing, curiosity, and exploration all share an evolutionary root: organisms that convert uncertainty into knowledge make better decisions and outcompete those that don't.
 - `INS-260330-E403` [medium] New information or advice only expands your decision space if it's linearly independent from what you already know.
 - `INS-260330-74AC` [medium] China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
+- `INS-260403-B734` [medium] For most of history, success meant winning zero-sum contests where ruthlessness helped; in idea-driven economies, the polarity reverses.
 - `INS-260403-6B97` [medium] Evaluate a technology by who loves it and who's forced to use it — audience composition predicts quality better than feature lists.
 - `INS-260330-7987` [medium] In crisis, making one small correct decision at a time toward safety beats trying to solve the whole problem at once.
 - `INS-260403-6890` [medium] Graham argues signalling risk from VC non-follow-on is in the same category as competitor fear—something founders worry about that rarely kills good startups.

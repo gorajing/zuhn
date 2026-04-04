@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 300 insights
+> 302 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -237,6 +237,7 @@
 - `INS-260323-1871` [medium] Even if AGI never arrives, AI as an extension of human will and amplifier of human abilities is already a transformative outcome.
 - `INS-260321-3D65` [medium] Fresh graduates (23-25) who grew up vibe coding think differently and generate the best new ideas at AI companies.
 - `INS-260327-D2F3` [medium] Inexperienced founders can outperform veterans by seeing solutions that experts have unconsciously ruled out.
+- `INS-260403-9CD9` [medium] The richest founders aren't money-driven — they're world-improvers who keep building past the acquisition offers that money-motivated founders accept.
 - `INS-260323-7C3A` [medium] Make life-altering decisions with your heart and gut, then never revisit them — execute with pure discipline and data from that point forward.
 - `INS-260327-F477` [medium] Big tech experience is anti-helpful for startups—the culture, speed, and processes are the exact opposite of what you need.
 - `INS-260327-CA72` [medium] With no fallback options, fear stops paralyzing you and starts driving productive action.
@@ -296,6 +297,7 @@
 - `INS-260327-7B8E` [medium] At some point, founders must deliberately override their logical brain to pursue what rational analysis rejects.
 - `INS-260328-0B42` [medium] Dalton's hack: ask 'if I were doing office hours with myself, what would I say?' to access your own best advice.
 - `INS-260327-2684` [medium] Building startups for your university application guarantees you'll never go all-in enough to succeed.
+- `INS-260403-6386` [medium] If you dropped a skilled wealth-creator on a random street, they'd rebuild within 5-10 years because the skill transfers across contexts.
 - `INS-260327-E546` [medium] Spending 40 hours at work and 40 more on side projects reveals what you actually want to build.
 - `INS-260329-3473` [medium] When your brain checks out during deep work, pushing through the 5-15 minute dip consistently trains your capacity to sustain focus over longer periods.
 - `INS-260327-8760` [medium] Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.

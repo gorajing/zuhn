@@ -49,6 +49,6 @@ related:
   - INS-260403-573F
   - INS-260403-805E
   - INS-260403-25A8
-  - INS-260403-088E
+  - INS-260403-9CD9
 ---
 There is a systematic pattern where scientist-founders, deeply passionate about their technical breakthrough, structure their pitch around the elegance and novelty of the science. But VCs are running a mental model where the first filter is 'can this be big enough to return my fund?' — and if that question isn't answered in the first few minutes, the rest of the pitch is academic. The author, who made 148 versions of his pitch deck as a scientist-founder before becoming a VC, describes them all as 'stupid' in hindsight because they all missed this fundamental ordering. The fix is structural: lead with the market opportunity and scale potential, then use the science as the explanation for why you have defensible magic — not the other way around.

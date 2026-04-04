@@ -53,6 +53,7 @@ related:
   - INS-260327-E18C
   - INS-260321-8414
   - INS-260323-6C6F
+  - INS-260403-1E5A
 ---
 Redis Arc's Bama and NVIDIA's Gental both emphasized that extending agent execution from minutes to days or months creates qualitatively different infrastructure challenges, not just quantitative scaling. KV-cache for a month-long agent would explode in memory. You cannot simply save all existing KV-cache — you must intelligently discard less relevant cached states.
 

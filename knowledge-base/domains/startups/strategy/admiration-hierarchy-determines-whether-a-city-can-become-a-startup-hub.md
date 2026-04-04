@@ -48,11 +48,11 @@ stance: >-
   A city cannot become a true startup hub if its primary admiration hierarchy
   ranks something else — like finance — above technological power
 related:
+  - INS-260403-9CD9
   - INS-260402-E140
   - INS-260403-87CF
   - INS-260403-160A
   - INS-260403-0CCB
-  - INS-260402-0727
 ---
 Graham makes a structural argument about why New York is unlikely to rival Silicon Valley as a startup hub: admiration is a zero-sum game within a city, and each city tends to focus on one dominant type. In New York, the dominant currency is wealth — a billion dollars impresses even if inherited. In Silicon Valley, the currency is power over the world through technology — nobody cares about inherited wealth.
 

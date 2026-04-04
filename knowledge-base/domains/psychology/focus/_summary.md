@@ -1,6 +1,6 @@
 # Topic: focus
 
-> 168 insights
+> 172 insights
 
 - `INS-260330-1B64` [high] Sitting quietly for 17 minutes focusing on breathing and internal body sensations significantly reduces attentional blinks in a near-permanent way after just one session.
 - `INS-260325-4A01` [high] Research shows 45% of daily behavior is habitual, meaning we are on autopilot nearly half the time.
@@ -31,6 +31,7 @@
 - `INS-260325-B61B` [high] After solving a problem, the mathematician's reflex is to extract the general technique — the answer is a byproduct, the method is the prize.
 - `INS-260327-AAFA` [high] Every TikTok video, every scroll, every notification trains your brain to expect that level of stimulation as normal, progressively making books, conversations, and deep work feel intolerably boring.
 - `INS-260323-9D21` [high] Boxing saved Atlas from self-destruction by providing structure and discipline that redirected violent anger into mastery -- the same energy that fueled street fights became the engine for world-class training.
+- `INS-260403-1E5A` [high] Distractions continuously evolve toward knowledge workers, requiring ever-updated defenses rather than one-time solutions.
 - `INS-260403-FA30` [high] Coders knocked out of flow need 15+ minutes to return — if they can return at all.
 - `INS-260330-E823` [high] Blinks function as scene breaks that reset time perception, and dopamine controls blink rate—explaining why ADHD (low dopamine) causes both poor time management and poor focus.
 - `INS-260330-0C31` [high] Large dopamine peaks trigger proportional drops below baseline, creating a hidden burnout mechanism even from seemingly healthy activity patterns.
@@ -54,6 +55,7 @@
 - `INS-260325-27B2` [high] When every single heuristic breaks at once, you need a new framework, not better heuristics.
 - `INS-260323-8266` [high] Working out hard enough that you cannot simultaneously worry is a form of active meditation that forces a high-vibrational present state.
 - `INS-260330-0149` [high] Casino-style intermittent reward scheduling applied to personal activities prevents dopamine baseline erosion and sustains long-term motivation.
+- `INS-260403-7ED5` [high] Unlike watching TV on a couch, browsing the internet at your desk looks and feels like work, which delays recognition of the problem.
 - `INS-260329-F969` [high] Teaching C before Python forces students to build mental models of how computers actually work, making all subsequent learning faster and more durable.
 - `INS-260329-03B5` [high] Malan deliberately introduces bugs in live demos and normalizes debugging as the primary activity, which removes the perfectionism barrier that stops beginners from writing their first line of code.
 - `INS-260329-8868` [high] Reducing downside risk on first attempts lets people discover aptitude they would otherwise never explore.
@@ -89,6 +91,7 @@
 - `INS-260325-9507` [high] Between ages 10-12, brains become hyper-wired for social rewards — social media exploits this precise window, making adolescent addiction neurobiological rather than behavioral.
 - `INS-260327-9562` [high] Our brains evolved for 150 meaningful contacts but social media exposes us to thousands, causing us to unconsciously merge others' highlight reels into a single imagined nemesis who outperforms us in every dimension.
 - `INS-260327-8B1A` [high] You can't know yourself in others' company because social settings automatically activate performance mode.
+- `INS-260403-A112` [high] 'Grab coffee' meetings are nearly free for managers but devastatingly expensive for makers, and neither side naturally recognizes the asymmetry.
 - `INS-260403-B6CD` [high] Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
 - `INS-260325-E0D5` [high] Every person plays many roles simultaneously — wasting energy on things you cannot control directly degrades your performance in every role that matters.
 - `INS-260325-7BE7` [high] Aaron Beck and Albert Ellis explicitly derived CBT from reading Marcus Aurelius and Epictetus — modern evidence-based psychotherapy validates 2000-year-old Stoic techniques.
@@ -153,6 +156,7 @@
 - `INS-260325-809A` [medium] Three minutes of deliberately doing nothing resets cognitive overload better than any productivity technique.
 - `INS-260327-8C58` [medium] Many of the best things in life happened because you weren't planning for them - rigid planning eliminates the serendipity that produces the most meaningful outcomes.
 - `INS-260323-34B7` [medium] The most intense flow states and deepest gratitude emerge when your actions are directly connected to meeting fundamental survival needs.
+- `INS-260403-50F1` [medium] Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
 - `INS-260329-72AC` [medium] Computers demand a precision of thought that exposes logical gaps humans normally gloss over in natural language.
 - `INS-260329-0068` [medium] Project-based progressive learning embeds concepts in context, producing stronger recall and motivation than abstract-first teaching.
 - `INS-260325-AEF5` [medium] Asking yourself 'What is happening now? What do I need to do? What tools do I have?' converts the flexibility sequence from abstract framework into real-time cognitive tool.

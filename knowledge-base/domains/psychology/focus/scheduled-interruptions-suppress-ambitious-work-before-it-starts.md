@@ -54,8 +54,8 @@ related:
   - INS-260329-7A3C
   - INS-260329-DD06
   - INS-260402-7182
+  - INS-260403-E255
   - INS-260328-FE38
-  - INS-260325-14A9
 ---
 The common assumption is that scheduled interruptions are less disruptive because they're predictable. Graham argues the opposite: when you know a meeting is coming, you unconsciously avoid starting anything that requires deep loading of context into working memory. You never even attempt the hard problem.
 

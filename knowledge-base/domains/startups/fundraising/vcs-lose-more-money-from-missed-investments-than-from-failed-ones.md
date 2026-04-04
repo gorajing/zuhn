@@ -40,7 +40,6 @@ stance: >-
   The asymmetric cost structure of venture capital means the biggest financial
   risk for a VC is passing on the next Google, not losing money on failed bets.
 related:
-  - INS-260323-85E7
   - INS-260328-F301
   - INS-260330-2BB3
   - INS-260403-214B

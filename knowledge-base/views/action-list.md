@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3537 actionable insights
+Generated on 2026-04-04 | 3546 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -903,6 +903,8 @@ Generated on 2026-04-04 | 3537 actionable insights
 - [INS-260403-D64B] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - [INS-260403-D467] Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
 - [INS-260403-5C89] Renaming failures as learning moments removes stigma and increases the rate at which employees surface mistakes and experiment.
+- [INS-260403-C512] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
+- [INS-260403-38C5] When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 
 ## psychology/cognition
 - [INS-260330-8045] Every nervous system action follows a three-stage pipeline: sense the environment, integrate meaning, then execute a motor response.
@@ -1109,6 +1111,7 @@ Generated on 2026-04-04 | 3537 actionable insights
 - [INS-260403-97B4] When inspiration strikes, act on it immediately because it won't survive being shelved.
 - [INS-260403-91CC] Push past obvious functional jobs to find the social and emotional motivations that create the strongest customer attachment.
 - [INS-260403-16F2] The most effective way to direct your ambient thinking is upstream: choose situations where the most urgent problems are the ones you actually want to solve.
+- [INS-260403-FBC0] Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1275,6 +1278,7 @@ Generated on 2026-04-04 | 3537 actionable insights
 - [INS-260403-B6CD] Work like a lion hunting — intense bursts then full recovery — not like a marathon runner grinding continuously.
 - [INS-260403-BC89] Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
 - [INS-260403-3756] Money worries and disputes hijack your top mental slot with unusual effectiveness because they feel urgent and engaging but produce no creative output.
+- [INS-260403-50F1] Physical separation of work and internet computers forces conscious awareness of distraction that software tools cannot replicate.
 
 ## psychology/founder-mindset
 - [INS-260329-C36D] The real obstacle to your first customers is your discomfort with asking people you know to buy from you, not any external market condition.
@@ -2316,6 +2320,8 @@ Generated on 2026-04-04 | 3537 actionable insights
 - [INS-260403-558D] Release crude, iterate fast — nature's imagination outperforms your own.
 - [INS-260403-D1D0] Graham pushed Reddit to launch in weeks since a v1 link-sharing site only needed a couple hundred lines of code, and they shipped about three weeks into the YC batch.
 - [INS-260403-4050] Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
+- [INS-260403-D746] Meeting damage extends far beyond the meeting itself through anticipation and fragmentation of work blocks.
+- [INS-260403-E255] Clustering meetings at day's end converts interruptions into bounded schedule compression without fragmenting deep work blocks.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2533,6 +2539,7 @@ Generated on 2026-04-04 | 3537 actionable insights
 - [INS-260403-3E9A] Letting personal preference break ties between roughly equal-EV problems is adaptive because passion drives effort and often signals hidden importance.
 - [INS-260403-E365] Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 - [INS-260403-DAB1] Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.
+- [INS-260403-D833] Fighting forces your brain into trick-finding mode instead of big-idea mode, making meanness a direct cognitive handicap for founders.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -2853,6 +2860,7 @@ Generated on 2026-04-04 | 3537 actionable insights
 - [INS-260403-36D1] Waze built three different product experiences for three sequential user types: map-building contributors, passive GPS data generators, and mass-market drivers who never knew the community existed.
 - [INS-260403-2759] Effective startup ecosystems are built from small, intentional networks of 6-20 people that share knowledge and build mutual confidence.
 - [INS-260403-538C] Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
+- [INS-260403-98E1] Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 
 ## startups/health-innovation
 - [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.
@@ -2885,6 +2893,7 @@ Generated on 2026-04-04 | 3537 actionable insights
 - [INS-260403-E497] Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 - [INS-260403-5F3E] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
 - [INS-260403-6340] Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
+- [INS-260403-D51E] Mean founders can only hire people who need the job, not people who choose the job, which is lethal in environments where talent quality is the primary competitive variable.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.

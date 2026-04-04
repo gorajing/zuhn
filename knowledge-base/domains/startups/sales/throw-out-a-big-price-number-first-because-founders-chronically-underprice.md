@@ -49,8 +49,8 @@ related:
   - INS-260321-2F09
   - INS-260328-4EA0
   - INS-260403-1217
+  - INS-260403-9CD9
   - INS-260403-CF7C
-  - INS-260323-F9E5
 ---
 Brooke's advice: throw out a big number and see what happens. If someone says it's too high, you've at least discovered the market ceiling. Most founders, especially first-timers, feel guilty or greedy asking for premium pricing. But pricing should be based on the business value customers receive, not on the founder's comfort level.
 

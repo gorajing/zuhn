@@ -43,11 +43,11 @@ resolutions:
     delegation framework — once you know your one thing, decompose everything
     else into delegatable subtasks.
 related:
+  - INS-260403-D36D
   - INS-260327-0C4A
   - INS-260403-280B
   - INS-260330-CA88
   - INS-260323-9955
-  - INS-260327-8521
 stance: There's a power law in everything
 evidence:
   - id: INS-260327-6177

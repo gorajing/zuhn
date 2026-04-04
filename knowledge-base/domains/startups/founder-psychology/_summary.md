@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 51 insights
+> 52 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -21,6 +21,7 @@
 - `INS-260328-8DF8` [high] People who are having fun can sustain crazy levels of effort for years — people who aren't fun eventually burn out and quit.
 - `INS-260323-8B89` [high] Negative role models teach what kind of human not to be and what actions not to take — this via-negativa learning can be as formative as positive mentorship.
 - `INS-260403-E365` [high] Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
+- `INS-260403-D833` [high] Fighting forces your brain into trick-finding mode instead of big-idea mode, making meanness a direct cognitive handicap for founders.
 - `INS-260323-F853` [high] Founders like Musk have deep empathy for humanity's mission but can be callous to individuals in the room, while others like Ben Franklin excel at personal empathy -- both are valid superpowers for different contexts.
 - `INS-260323-3CC2` [high] Even after a major win, assume your competitor has achieved the same advantage and continue producing at maximum intensity.
 - `INS-260323-979C` [high] Your passion can start a business, but continuing to run it on personal emotion instead of facts, metrics, and processes is the most common path to failure.

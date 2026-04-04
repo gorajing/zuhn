@@ -56,6 +56,7 @@ related:
   - PRI-260328-4000
   - INS-260327-BE49
   - INS-260330-ADC6
+  - INS-260403-7ED5
 ---
 The brain adapts to stimulation levels through neuroplastic change - the same mechanism that enables skill learning also enables stimulation addiction. High-frequency dopamine hits from digital content train the reward system to expect constant stimulation. When stimulation drops (attempting deep work, reading, or being alone with thoughts), the relative decrease feels like deprivation.
 

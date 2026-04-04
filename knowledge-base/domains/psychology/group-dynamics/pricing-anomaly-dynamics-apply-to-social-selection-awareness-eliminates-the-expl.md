@@ -47,7 +47,7 @@ related:
   - INS-260330-7675
   - INS-260403-6F65
   - INS-260403-5106
+  - INS-260403-B734
   - INS-260325-502D
-  - INS-260403-3E9A
 ---
 Graham frames the charisma effect as a 'pricing anomaly' — an inefficiency that persists only because participants haven't recognized it. Once both parties internalize that uncharismatic candidates are doomed, they'll screen for charisma upfront, neutralizing the advantage and pushing the decision back to policy. This is a general principle about meta-awareness in competitive systems: any hidden advantage is temporary once it's named. In startups, the same logic applies to fundraising hacks, growth exploits, and hiring signals — once the pattern is common knowledge, everyone adapts and the edge evaporates. The strategic implication is to exploit unnamed advantages quickly, before they become conventional wisdom.

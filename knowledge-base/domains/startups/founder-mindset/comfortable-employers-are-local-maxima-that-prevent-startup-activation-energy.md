@@ -53,7 +53,6 @@ related:
   - INS-260403-0821
   - INS-260327-2684
   - INS-260327-5297
-  - INS-260403-3835
 ---
 Graham uses Google circa 2006 as his example: zero startups were coming out of Google because people liked working there too much to leave. He frames this as a local maximum problem—you're optimizing for comfort rather than for lifetime outcome. The activation energy metaphor is precise: starting a startup requires a threshold of discomfort or dissatisfaction that a good employer deliberately suppresses.
 

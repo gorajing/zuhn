@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 212 insights
+> 214 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -105,12 +105,14 @@
 - `INS-260329-ADCD` [high] Calculus formalizes the business intuition that optimal scale is where the cost of the next unit equals the revenue it generates.
 - `INS-260327-C75F` [high] The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
 - `INS-260330-6F7B` [high] You need both measurement (your output is trackable) and leverage (your decisions multiply impact) to generate outsized wealth.
+- `INS-260403-D746` [high] Meeting damage extends far beyond the meeting itself through anticipation and fragmentation of work blocks.
 - `INS-260330-8D6F` [high] Lost momentum causes internal disagreement and attrition; only small concrete wins — not vision speeches — can reverse the spiral.
 - `INS-260327-2101` [high] Default to deterministic prompt-chain workflows over agentic systems — most professional tasks follow the same steps every time.
 - `INS-260327-DCA9` [high] Weinberg says almost every problem at Harvey traces back to having six DRIs on something instead of one — shared ownership is no ownership, just like asking two friends to water your plant guarantees it dies.
 - `INS-260327-734D` [high] It took nine different iterations from 2012 to finding Marco Polo — the first thing you put out just does not work.
 - `INS-260327-2387` [high] Months of user research before writing code produces faster PMF than build-fast-iterate approaches.
 - `INS-260330-39D7` [high] Sweating details that users never see installs a culture of precision that makes excellence self-reinforcing across the organization.
+- `INS-260403-E255` [high] Clustering meetings at day's end converts interruptions into bounded schedule compression without fragmenting deep work blocks.
 - `INS-260327-7D0B` [high] Rwanda's Ministry of Health bet on Zipline the same day a mother died from a 9-hour blood delivery delay, anchoring the company's decade-long trajectory.
 - `INS-260403-323A` [high] Costco's warehouse layout and limited selection feel like treasure-hunting to customers rather than cost-cutting, similar to how IKEA's DIY assembly creates pride of ownership.
 - `INS-260327-1064` [high] The natural tendency of tech founders is to ignore operations, but for many businesses, operational execution determines success or failure.

@@ -326,6 +326,7 @@ Generated on 2026-04-04 | 2421 sources
 | DeepSeek R1: The AI Disruption No One Saw Coming | blog | 5 | 2026-03-30 |
 | Democratic economic policy in the age of AI | blog | 5 | 2026-03-30 |
 | Design and Research | blog | 5 | 2026-03-31 |
+| Disconnecting Distraction | blog | 5 | 2026-03-31 |
 | Do Things that Don't Scale | blog | 5 | 2026-03-31 |
 | Does anyone know why we're still doing tariffs? | blog | 5 | 2026-03-30 |
 | Earnestness | blog | 5 | 2026-03-31 |
@@ -396,6 +397,7 @@ Generated on 2026-04-04 | 2421 sources
 | Let's save the human species! | blog | 5 | 2026-03-30 |
 | Lies We Tell Kids | blog | 5 | 2026-03-31 |
 | Links For February 2026 | blog | 5 | 2026-03-30 |
+| Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 5 | 2026-03-30 |
 | Mark Cuban Interview: Startup Lessons, AI Insights, and Dealflow Opportunities for Founders | blog | 5 | 2026-03-30 |
 | Maybe you should have bought an electric car | blog | 5 | 2026-03-30 |
 | Microsoft is Dead | blog | 5 | 2026-03-31 |
@@ -809,6 +811,7 @@ Generated on 2026-04-04 | 2421 sources
 | AI Games Are Coming | blog | 4 | 2026-03-31 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 4 | 2026-03-30 |
+| AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
@@ -834,6 +837,7 @@ Generated on 2026-04-04 | 2421 sources
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Distribution Is the Final Moat | blog | 4 | 2026-03-30 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
+| Every Debate On Pausing AI | blog | 4 | 2026-03-30 |
 | Fierce Nerds | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
@@ -863,6 +867,8 @@ Generated on 2026-04-04 | 2421 sources
 | Life is Short | blog | 4 | 2026-03-31 |
 | LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 4 | 2026-03-30 |
 | Made in USA | blog | 4 | 2026-03-31 |
+| Maker's Schedule, Manager's Schedule | blog | 4 | 2026-03-31 |
+| Mean People Fail | blog | 4 | 2026-03-31 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 4 | 2026-03-30 |
@@ -1022,6 +1028,7 @@ Generated on 2026-04-04 | 2421 sources
 | Kim Jong-Un's New Strategy: Explained | youtube | 4 | 2026-03-30 |
 | Learn to Sell, Learn to Build | youtube | 4 | 2026-03-30 |
 | Levels of Wealth: Inside The Secret Lives of The Ultra-Rich | youtube | 4 | 2026-03-30 |
+| Making Money Isn't About Luck | youtube | 4 | 2026-03-30 |
 | Marc Andreessen: Future of the Internet, Technology, and AI | Lex Fridman Podcast #386 | youtube | 4 | 2026-03-24 |
 | Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422 | youtube | 4 | 2026-03-24 |
 | Mark Pincus on Why Most Startups Fail, Founder Control, and How to Win | youtube | 4 | 2026-03-23 |
@@ -1919,7 +1926,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
 | AI Is Eating VC📉, Most-Active US Investors💵, Longevity Tech Rebounds🧬 | blog | 0 | 2026-03-30 |
 | AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 0 | 2026-03-30 |
-| AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 0 | 2026-03-30 |
 | AI-Powered Fundraising Prep: The Founder’s Tactical Playbook | blog | 0 | 2026-03-30 |
 | AI tools are overdelivering: results from our large-scale AI productivity survey | blog | 0 | 2026-03-31 |
 | Airbnb Business Model | blog | 0 | 2026-03-31 |
@@ -2064,7 +2070,6 @@ Generated on 2026-04-04 | 2421 sources
 | Deep Dive: Why AI Will Break the Grid | blog | 0 | 2026-03-30 |
 | Defining Property | blog | 0 | 2026-03-31 |
 | Demystifying Venture Capital: Realities and Challenges of the sector  | blog | 0 | 2026-03-30 |
-| Disconnecting Distraction | blog | 0 | 2026-03-31 |
 | Do Founders Ever Take a Vacation?🌴,AI and Longevity🤖, Venture Trends Q2 2024📊 | blog | 0 | 2026-03-30 |
 | Donate Unrestricted | blog | 0 | 2026-03-31 |
 | Early Work | blog | 0 | 2026-03-31 |
@@ -2075,7 +2080,6 @@ Generated on 2026-04-04 | 2421 sources
 | Elon Musk’s xAI raises Monster $6B Series B for AI Supercomputer and Grok 3 | blog | 0 | 2026-03-30 |
 | EU and US to work together on AI guidelines🤖, YC's Secret SAFE📜, Climate Risk Landscape🌍 | blog | 0 | 2026-03-30 |
 | Europe’s Exited Founders | blog | 0 | 2026-03-30 |
-| Every Debate On Pausing AI | blog | 0 | 2026-03-30 |
 | Exit Scenario Modeling: IPO vs Acquisition vs Secondary | blog | 0 | 2026-03-30 |
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
@@ -2157,13 +2161,10 @@ Generated on 2026-04-04 | 2421 sources
 | Learning from Founders | blog | 0 | 2026-03-31 |
 | Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
 | Lines Composed In A Fake Sequoia Forest | blog | 0 | 2026-03-30 |
-| Liquid and Illiquid Careers📈, 5 AI Distribution Plays That Build Moats🚀, Notes on China🏭 | blog | 0 | 2026-03-30 |
 | Lisp for Web-Based Applications | blog | 0 | 2026-03-31 |
-| Maker's Schedule, Manager's Schedule | blog | 0 | 2026-03-31 |
 | Malicious Streetlight Effects Vs. "Directional Correctness" - A Semi-Non-Apology | blog | 0 | 2026-03-30 |
 | Mantic Monday: Groundhog Day | blog | 0 | 2026-03-30 |
 | Mastercard brings 85+ firms into crypto payments push | blog | 0 | 2026-03-30 |
-| Mean People Fail | blog | 0 | 2026-03-31 |
 | Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 0 | 2026-03-30 |
 | Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 0 | 2026-03-30 |
 | Megarounds make a comeback💰, The State of GenAI🤖, Doing Diligence Well🕵️ | blog | 0 | 2026-03-30 |
@@ -2407,7 +2408,6 @@ Generated on 2026-04-04 | 2421 sources
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Making Money Isn't About Luck | youtube | 0 | 2026-03-30 |
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 0 | 2026-03-30 |
 | Mind Field - Official Trailer | youtube | 0 | 2026-03-30 |
 | Mystery of Prince Rupert's Drop at 130,000 fps - Smarter Every Day 86 | youtube | 0 | 2026-03-30 |

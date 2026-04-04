@@ -53,6 +53,6 @@ related:
   - PRI-260328-8317
   - INS-260403-E59C
   - INS-260403-FF74
-  - INS-260327-368D
+  - INS-260403-50F1
 ---
 Mark Weiser's 1991 framework envisioned three waves of computing: mainframes, personal computers, then ubiquitous computing where technology disappears into the background. Steve Jobs saw pieces of this vision at Xerox PARC, and the iPhone was an attempt to realize it — but it traded the desktop screen for a pocket screen, keeping the attention tax intact. AI agents represent the actual completion of Weiser's third wave because they can take action while the user walks away. They listen in background conversations, compile information in real time, and work while users sleep. The interface can finally become nothing — a blank field, a voice command, or no interface at all — because the intelligence handles the work autonomously. This historical framing is useful for AI builders: you're not just building a product, you're completing a 35-year-old vision of computing that prior technology waves couldn't achieve.

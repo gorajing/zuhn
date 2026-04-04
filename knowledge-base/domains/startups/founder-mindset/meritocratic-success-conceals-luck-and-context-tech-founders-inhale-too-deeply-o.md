@@ -50,10 +50,10 @@ resolutions:
     attitude, not just the money, is the problem.
 related:
   - INS-260403-147C
+  - INS-260403-39DD
+  - INS-260403-B734
   - INS-260329-EF89
   - INS-260323-FDB8
-  - INS-260326-2259
-  - INS-260403-FAFA
 stance: 'Even in a perfect meritocracy, winners would be wrong to claim full credit'
 evidence:
   - id: INS-260327-32F1

@@ -50,7 +50,7 @@ related:
   - INS-260330-790F
   - INS-260325-CF3E
   - PRI-260403-2E59
+  - INS-260403-B734
   - INS-260329-AAE3
-  - INS-260402-9681
 ---
 Graham draws a direct line between the conformism framework and startup success: it's not enough to quietly hold different views (passive independent-mindedness), you must be willing to act on them against social pressure. This maps to the classic venture capital thesis that the best investments look wrong to most people. A passively independent-minded person might see the opportunity but never act because they don't push back against consensus. The aggressive component — the willingness to question rules as a first impulse and to act contrary to prevailing opinion — is what separates founders who build from thinkers who observe. This also explains why YC's Paul Graham wasn't worried about deterring conventional-minded applicants: they literally cannot succeed at startups, so filtering them out just saved application-reading time.

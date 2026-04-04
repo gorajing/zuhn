@@ -48,7 +48,6 @@ stance: >-
   upfront capital.
 related:
   - INS-260327-50CE
-  - INS-260327-19E5
   - INS-260329-CB10
   - INS-260329-8B55
   - INS-260327-9C00

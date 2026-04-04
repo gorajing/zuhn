@@ -46,9 +46,9 @@
 - `INS-260327-A43C` Products whose value proposition is entirely perceptual — creating the illusion of flavor, benefit, or improvement witho
 - `INS-260327-4233` Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
 - `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.
+- `INS-260403-F327` Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.
 - `INS-260327-0CBC` Fan communities evaluate celebrity products based on emotional attachment to the creator rather than product quality, cr
 - `INS-260327-484F` Novel product categories that exist in regulatory gray areas experience their fastest growth in the period before regula
 - `INS-260327-4445` Viral food products that succeed through novelty rather than taste superiority have the shortest possible trend lifecycl
 - `INS-260402-EEDB` The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
-- `INS-260403-F327` Unlike infrastructure technologies that every region needed, startups have no geographic market gap that policy can exploit to bootstrap an ecosystem.
 - `INS-260323-BD2B` JungleKeepers' strategy of purchasing land concessions works because the Amazon already has owners who will sell to loggers if conservationists don't buy first.

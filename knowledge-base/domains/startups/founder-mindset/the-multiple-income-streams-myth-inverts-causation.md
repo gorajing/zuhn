@@ -51,11 +51,10 @@ stance: >-
   confuses the effect of wealth with its cause.
 related:
   - INS-260327-32F1
-  - INS-260327-D77C
   - PRI-260323-81E9
   - PRI-260328-BD81
   - INS-260402-6D5E
-  - INS-260403-147C
+  - INS-260403-39DD
 evidence:
   - id: INS-260327-32F1
     type: SUPPORTS

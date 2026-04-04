@@ -1,6 +1,6 @@
 # Topic: growth-strategy
 
-> 59 insights
+> 60 insights
 
 - `INS-260329-AF18` [high] Before exploring new growth channels, exhaust 10x potential in your current working channel first.
 - `INS-260330-059C` [high] ByteDance's core innovation was building products around a personalization algorithm rather than a social graph, eliminating the need for users to follow anyone to get value.
@@ -50,6 +50,7 @@
 - `INS-260403-922C` [high] Startup ecosystems require blanket tolerance for strangeness because you can't predict which weird ideas will become valuable.
 - `INS-260330-B0EB` [high] Ross bootstrapped Silk Road by growing his own mushrooms to be the first product listing, then seeded demand by posing as a customer on forums — solving both sides of the marketplace simultaneously.
 - `INS-260330-20F7` [high] Sean Parker's virality framework breaks viral potential into payload (people reached per blast), frequency (how often you hit them), and conversion rate — different products win on different axes.
+- `INS-260403-98E1` [high] Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260403-46B2` [high] The concentration of 25-29 year olds in a city predicts startup hub potential better than any policy metric.
 - `INS-260330-73C1` [medium] The Greater Bay Area plan assigns distinct economic roles to each city — finance, manufacturing, tourism, administration — rather than making them compete as generalists.
 - `INS-260330-D98E` [medium] Cultural appeal attracts entrepreneurs and talent, which drives economic growth — soft power converts to hard economic outcomes.

@@ -50,10 +50,10 @@ stance: >-
   stop working
 related:
   - INS-260327-8AE7
+  - INS-260403-9CD9
   - INS-260402-9075
   - INS-260328-D866
   - INS-260403-7C88
-  - INS-260402-3D61
 ---
 Graham observes that every billionaire founder had multiple exit opportunities — acquisitions, hiring a CEO, retiring. The ones who became truly wealthy were the ones who kept working, driven not by financial incentive but by genuine fascination with their project. The Airbnb founders' breakfast cereal story wasn't a cute anecdote — it was definitive evidence of the kind of obsessive resourcefulness that predicts massive outcomes.
 

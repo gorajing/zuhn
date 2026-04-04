@@ -11,7 +11,6 @@
 - `INS-260403-ED1E` Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 - `INS-260403-FE37` A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
 - `INS-260403-CC25` Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
-- `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260403-B3A4` Craft a single sticky phrase that describes your startup and plant it early in your pitch — if you can't, your plans may not be focused enough.
 - `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
 - `INS-260403-E319` Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
@@ -66,4 +65,5 @@
 - `INS-260403-8F31` Investors' deepest early-stage fear is that nobody wants what you built — specific user stories proving existing demand defeat any market size number.
 - `INS-260403-1444` Specific user stories beat market size numbers because they directly address investors' biggest early-stage fear: that nobody wants what you've built.
 - `INS-260403-A65D` Investors' biggest early-stage fear is that founders built something nobody wants, and concrete user stories are the most direct antidote to that fear.
+- `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
 - `INS-260403-7072` Tell stories about specific users and their problems rather than citing market size figures to convince investors of demand.

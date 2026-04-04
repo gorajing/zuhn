@@ -56,7 +56,6 @@ related:
   - INS-260327-0833
   - INS-260329-6FAC
   - INS-260329-57D7
-  - INS-260329-9A30
 stance: >-
   Flying to a city and stacking every investor and customer meeting into 2-3
   days creates a forcing function where FOMO compounds

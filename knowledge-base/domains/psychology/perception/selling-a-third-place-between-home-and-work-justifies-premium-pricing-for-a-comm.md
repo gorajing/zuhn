@@ -48,11 +48,11 @@ stance: >-
   retailers can charge multiples of commodity pricing because customers are
   paying for the experience and environment, not the product.
 related:
-  - INS-260327-7EFD
+  - INS-260403-A112
   - INS-260403-B6A0
   - INS-260327-F7C0
+  - INS-260327-7EFD
   - INS-260327-B772
-  - INS-260322-1280
 evidence:
   - id: INS-260327-7EFD
     type: REFINES

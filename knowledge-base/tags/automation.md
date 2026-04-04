@@ -17,12 +17,12 @@
 - `INS-260320-4BA8` Keep spec templates simple — if too heavy, people skip them. Automate file creation and periodically revisit findings for tech debt.
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260329-9745` SQL triggers automatically execute code in response to INSERT/UPDATE/DELETE events, enabling powerful automation but creating implicit behavior that doesn't appear in application code.
-- `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
-- `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
 - `INS-260320-D58E` An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260320-41E3` A daily n8n content research automation that scrapes multiple platforms, identifies trends, and delivers a content digest costs under $0.35 per day to operate.
 - `INS-260320-9935` The 0-to-175K growth came from automating content research and ideation, not from automating content creation itself -- the competitive advantage is knowing what to create, not how to create it.
 - `INS-260330-7DCF` Filling a scene with randomly positioned objects via a simple loop creates richer environments than manual placement.
+- `INS-260320-71C1` Full pipeline: search query to scrape 100+ profiles, extract data, pull company info, AI-generate personalized opener, export to Google Sheets.
+- `INS-260320-6A9D` Safety-first scraping: decouple your personal account from the scraping tool. If the tool gets flagged, your account is unaffected.
 - `INS-260329-A9ED` HFT systems enforce automated pre-trade risk checks in microseconds to prevent runaway algorithms from causing financial disasters.
 - `INS-260329-94CF` Design your financial systems so investing happens automatically and spending requires deliberate effort.
 - `INS-260325-BCA6` Cognitive scripts discovered in 1979 research efficiently handle routine decisions but silently hijack important life choices when left unexamined.

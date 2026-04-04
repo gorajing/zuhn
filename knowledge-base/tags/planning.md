@@ -18,6 +18,6 @@
 - `INS-260327-0E86` Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
 - `INS-260327-8760` Altman rejects backward-from-vision planning, saying he's never seen people with elaborate backward-chain strategies massively succeed.
 - `INS-260403-9D8A` Prototyping a subset beats spec-writing because it keeps the problem small enough for one mind to encompass.
-- `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260328-93C8` The difference between a technology arriving in 18 months versus 10 years should completely change your strategy, even though both scenarios validate the same directional prediction.
+- `INS-260329-D02E` Decompose revenue targets into weekly unit sales to identify whether your constraint is volume or price.
 - `INS-260322-AAEA` A week is long enough to validate ideas and ship products; ten years captures true strategic direction. Quarterly planning is a deeply useless middle ground where cohorts don't bake and real outcomes aren't visible.

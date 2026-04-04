@@ -1,7 +1,8 @@
 # Topic: behavior-change
 
-> 15 insights
+> 17 insights
 
+- `INS-260403-C512` [high] Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260403-D64B` [high] Forcing yourself to always produce something pushes you away from what you think you should work on and toward what you actually like.
 - `INS-260330-8286` [high] Infant monkeys chose the soft cloth mother over the wire mother that provided food, proving tactile comfort is the primary driver of attachment.
 - `INS-260330-81B1` [high] Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
@@ -12,6 +13,7 @@
 - `INS-260330-5C6E` [high] The early Islamic empire didn't require conversion but taxed non-Muslims more, creating a persistent economic nudge that drove widespread voluntary conversion over generations.
 - `INS-260403-E652` [high] Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
 - `INS-260403-D467` [high] Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
+- `INS-260403-38C5` [medium] When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260330-0242` [medium] Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
 - `INS-260330-4079` [medium] Psychedelics appear to work therapeutically by temporarily destabilizing rigid neural patterns, creating a window of increased flexibility where new behavioral repertoires can form.
 - `INS-260403-9861` [medium] Theater and role-playing let people physically experience alternative identities, creating deeper change than imagining or discussing those possibilities.

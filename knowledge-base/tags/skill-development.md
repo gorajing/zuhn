@@ -2,19 +2,19 @@
 
 - `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
 - `INS-260320-F78E` Prompt engineering is like playing piano — you can't just sit down and start; it requires practice and iteration to develop the skill.
-- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
-- `INS-260322-7A32` Finishing complete songs develops all production muscles simultaneously, while making loops only trains one.
 - `INS-260402-E11A` If your taste improves with practice, your old taste was worse — not just different — disproving pure aesthetic relativism.
 - `INS-260329-C66E` Passion is a byproduct of getting good at something, not the prerequisite for starting.
 - `INS-260325-086C` Personal relationships determine up to 70% of life satisfaction, yet we spend zero educational time on attachment theory, communication, or apology -- treating love as a skill to learn would transform outcomes.
 - `INS-260329-557C` The capacity to do the same unrewarding thing repeatedly without quitting is learnable and is the main thing separating successful people from everyone else.
 - `INS-260329-F21F` Passion emerges from competence, not the other way around — so pick based on opportunity, not feeling.
 - `INS-260329-7FD6` After losing everything, Hormozi made $100K the next month — proving skills, not savings, are the real asset.
-- `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
 - `INS-260329-ACE6` CS50's success comes from teaching thinking patterns that transfer across languages, not Python-specific tricks.
+- `INS-260329-4C4C` Plan for years of content creation before expecting meaningful audience growth, treating the first year as skill development.
 - `INS-260403-5514` The critical question for aspiring founders is not which technology to learn but whether they are producing things or just consuming them.
+- `INS-260403-C3A3` Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260329-1D8D` Investing $10K in skills that multiply your active income beats $10K in the S&P 500 because human capital ROI dwarfs market returns at the early stage.
 - `INS-260329-BBBE` After losing everything, Hormozi made $100K the next month — proving the skills, not the business, were the real asset he'd built.
 - `INS-260323-E3FD` The 10,000-hour rule was misunderstood as 'practice creates excellence' — Gladwell himself clarifies it means practice is necessary but insufficient without innate talent, which is the hardware that skill (software) runs on.
-- `INS-260403-C3A3` Managing existing businesses requires execution precision; inventing new ones requires comfort with uncertainty and radical pivots.
 - `INS-260325-9F12` Gawande tracked his surgical complications for a decade, saw steady improvement, then hit a plateau at year 10-12 — a former professor observing him found 20 minutes of feedback after a single operation he thought went perfectly.
+- `INS-260322-1C17` Find 2-3 peers at a similar skill level who will give brutally honest feedback, and don't release anything until it passes their criticism.
+- `INS-260322-7A32` Finishing complete songs develops all production muscles simultaneously, while making loops only trains one.

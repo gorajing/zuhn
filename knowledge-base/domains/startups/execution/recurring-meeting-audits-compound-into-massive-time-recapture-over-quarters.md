@@ -51,11 +51,11 @@ stance: >-
   quarterly recurring-meeting purges recaptures more productive time than any
   productivity tool or technique.
 related:
+  - INS-260403-E255
   - INS-260322-8F80
   - INS-260330-DEBC
   - INS-260403-1CC5
   - INS-260329-5306
-  - INS-260329-7A3C
 evidence:
   - id: INS-260325-27ED
     type: TRANSFERS_TO
