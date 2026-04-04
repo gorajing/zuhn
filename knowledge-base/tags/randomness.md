@@ -9,5 +9,5 @@
 - `INS-260325-0921` The Collatz sequence's logarithmic behavior matches geometric Brownian motion — a stock-market-like random walk emerging from a fully deterministic rule.
 - `INS-260325-CC47` Our brains evolved to over-detect patterns for survival, which now causes us to compulsively construct false causal narratives from random events.
 - `INS-260325-922D` You control nothing but influence everything; every action has unforeseen ripple effects that reshape the future.
-- `INS-260325-436A` Mutations occur at random without consideration of whether they help or harm the organism — it is the environment that sorts winners from losers.
 - `INS-260323-475F` Duncan Watts' Music Lab experiment showed that the same song ranked #1 in one group and #40 in another — quality sets a floor and ceiling, but within that range, success is determined by randomness.
+- `INS-260325-436A` Mutations occur at random without consideration of whether they help or harm the organism — it is the environment that sorts winners from losers.

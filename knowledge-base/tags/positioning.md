@@ -9,6 +9,7 @@
 - `INS-260403-85F1` Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - `INS-260403-ED1E` Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 - `INS-260403-FE37` A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
+- `INS-260403-7FBE` A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - `INS-260403-BFD1` The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 - `INS-260403-F7DD` Craft a single memorable phrase for your startup ('the X of Y')—it's both a pitch tool and a test of whether your strategy is focused enough.
 - `INS-260403-EF30` Creating a sticky one-phrase description of your startup doubles as a strategic focus test.
@@ -40,6 +41,7 @@
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260403-5A4F` Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.

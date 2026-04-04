@@ -48,10 +48,10 @@ stance: >-
   survival depends on continuously delivering value rather than extracting
   margin from individual transactions.
 related:
+  - INS-260403-BF47
+  - INS-260403-CDB9
   - INS-260403-5C88
   - INS-260403-3F5F
-  - INS-260403-1C25
-  - INS-260403-CDB9
   - INS-260403-B2CB
   - INS-260403-59F8
 ---

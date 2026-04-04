@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 236 insights
+> 237 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -224,6 +224,7 @@
 - `INS-260330-2DB0` [medium] Reinventing concepts through play before formal study turns them into 'familiar friends' rather than arbitrary definitions.
 - `INS-260329-18BB` [medium] Marathon-format tutorials exploit commitment psychology — once a learner invests 30+ minutes, sunk cost and flow state reduce the probability of abandonment compared to a series where each video is a natural exit point.
 - `INS-260329-2ECE` [medium] Hormozi's call recording requirement reveals that reviewing your own recorded performance creates a feedback loop that live practice alone cannot match.
+- `INS-260403-2918` [medium] The electron transport chain extracts energy through a series of small steps rather than one big reaction, and this staged approach is why photosynthesis works at all.
 - `INS-260330-C4F1` [medium] Using coding to teach critical thinking puts the cart before the horse—teach the target skill directly instead of through a proxy.
 - `INS-260329-E6AF` [medium] The tutorial's use of a single company database that grows in complexity across topics creates interconnected mental models rather than fragmented concept knowledge.
 - `INS-260329-BCCB` [medium] Long-form tutorials that build cumulatively create stronger foundational understanding than consuming the same material in disconnected short videos.

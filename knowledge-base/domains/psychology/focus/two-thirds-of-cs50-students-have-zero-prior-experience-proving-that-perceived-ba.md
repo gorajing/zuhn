@@ -48,7 +48,6 @@ stance: >-
   The biggest barrier to learning computer science is the belief that you need
   prior experience, not actual prerequisite knowledge
 related:
-  - INS-260323-4AB5
   - INS-260329-E86C
   - INS-260329-1741
   - INS-260330-43EE

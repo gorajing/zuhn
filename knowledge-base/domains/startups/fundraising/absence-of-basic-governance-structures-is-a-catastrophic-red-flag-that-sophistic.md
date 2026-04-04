@@ -52,10 +52,10 @@ related:
   - INS-260328-896B
   - INS-260330-7BF5
   - INS-260403-028F
+  - INS-260403-2E90
   - INS-260327-8254
   - INS-260402-2B96
   - INS-260402-9075
-  - INS-260403-4337
 ---
 FTX raised over $2 billion in institutional capital with no board of directors. This wasn't a subtle red flag—it was the most elementary governance structure missing entirely. Yet sophisticated investors, caught up in growth metrics and market narrative, repeatedly failed to flag it.
 

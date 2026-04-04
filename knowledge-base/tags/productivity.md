@@ -17,9 +17,9 @@
 - `INS-260403-38C5` When you can't browse or check email at your work computer, the ingrained habit of sitting there for hours redirects itself into actual work.
 - `INS-260330-F671` The electron transport chain extracts energy through a cascade of small reactions rather than one explosive step — a pattern that maps directly to sustainable human productivity.
 - `INS-260403-F1C6` Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
-- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260330-F6B1` Per-project procrastination hides behind busy work on less important tasks, causing people to waste years without noticing.
 - `INS-260403-D022` Intense creative work has a daily hour limit (roughly 5 hours) beyond which quality declines, and crossing it is performative rather than productive.
+- `INS-260330-4E10` Happiness improves decision-making quality, which matters more than raw effort in a leveraged economy.
 - `INS-260329-D481` Focus emerges as a default when all competing stimuli are removed, not from trying harder to concentrate.
 - `INS-260329-EC78` Focus means concentrating all rungs on one ladder rather than distributing them across four ladders that each fall short of the wall.
 - `INS-260322-BEA3` The first thing you focus on each day gets prime mental real estate with zero competition — so give that slot to your single most important task.
@@ -53,6 +53,7 @@
 - `INS-260321-08AC` There are no true focus-enhancing drugs — only alertness-enhancing stimulants (Adderall, modafinil, caffeine, nicotine) that indirectly improve focus but carry cardiac and sleep costs — and a non-stimulant peptide that reduces cognitive noise would capture enormous demand.
 - `INS-260403-2B6E` Fundraising cuts productivity to a third by replacing product thinking with investor thinking in founders' idle cognitive cycles.
 - `INS-260322-B264` The best delegators use voice notes rather than text — voice is 2-3x faster, can be done on the go, and captures nuance that typing misses.
+- `INS-260403-43E5` Costco pays $21/hour (2x retail average) and gets 3x employee productivity, making generous wages a competitive advantage.
 - `INS-260403-5CB5` Costco pays $21/hr (double retail average) and gets 3x more productive employees in return.
 - `INS-260403-C125` Costco pays $21/hour (double retail average) and gets employees three times more productive, making high wages a net investment rather than a cost.
 - `INS-260403-8A80` Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.

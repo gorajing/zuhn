@@ -3,6 +3,10 @@
 - `INS-260403-384C` Thylakoid proton gradients store energy by creating imbalance across a membrane, a pattern that generalizes to information and attention asymmetries in product design.
 - `INS-260330-6E5F` ATP synthase converts proton concentration gradients into chemical energy — the same barrier-and-gradient pattern appears in effective system architectures.
 - `INS-260330-EAA3` Controlled imbalances released through constrained channels are the universal pattern for converting raw energy into useful work.
+- `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
+- `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
+- `INS-260403-E374` ATP synthase harvests energy from proton concentration gradients — a pattern that generalizes to knowledge, markets, and motivation.
+- `INS-260403-099C` The thylakoid membrane stores energy by creating a proton concentration gradient — the same pattern appears in motivation, skill gaps, and market arbitrage.
 - `INS-260330-3C3C` Chloroplasts store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase — the same gradient-to-work pattern appears in batteries, pricing arbitrage, and information asymmetry.
 - `INS-260330-B38B` ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
 - `INS-260330-49E9` The thylakoid membrane stores energy by pumping protons to create a concentration gradient — the same principle behind batteries, dams, and information asymmetry in markets.
@@ -18,10 +22,6 @@
 - `INS-260403-0429` Photosynthesis stores energy by pumping protons across a membrane to create a gradient — the same principle applies to information asymmetry, skill gaps, and market inefficiencies.
 - `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
 - `INS-260403-A0C5` Photosynthesis charges thylakoids like batteries by pumping protons to one side — any system that creates deliberate imbalance stores potential energy for later use.
-- `INS-260403-050D` Thylakoids store energy by pumping protons to one side of a membrane, creating a gradient that drives ATP synthase — the same 'charge a battery through imbalance' pattern appears across domains.
-- `INS-260330-666E` The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
-- `INS-260403-E374` ATP synthase harvests energy from proton concentration gradients — a pattern that generalizes to knowledge, markets, and motivation.
-- `INS-260403-099C` The thylakoid membrane stores energy by creating a proton concentration gradient — the same pattern appears in motivation, skill gaps, and market arbitrage.
 - `INS-260330-C729` Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
 - `INS-260330-D17A` Near a black hole singularity, it's not the strength of gravity that kills you but the difference in gravitational pull between your head and feet — the gradient stretches you apart.
 - `INS-260330-21A8` Thylakoid membranes store energy by pumping protons to create concentration gradients that drive ATP synthase, functioning like a rechargeable battery.

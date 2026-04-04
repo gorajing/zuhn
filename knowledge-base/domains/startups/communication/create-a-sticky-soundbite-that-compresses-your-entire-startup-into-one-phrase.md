@@ -49,13 +49,12 @@ stance: >-
   takeaway from any pitch because investors hear hundreds of pitches and the
   first filter is simply being remembered.
 related:
-  - INS-260320-080B
   - INS-260330-DC3B
   - INS-260403-81CE
   - INS-260403-448F
   - INS-260403-F171
   - INS-260403-2FE1
-  - INS-260403-0AF4
+  - INS-260403-7FBE
   - INS-260403-19D8
   - INS-260403-D984
 ---

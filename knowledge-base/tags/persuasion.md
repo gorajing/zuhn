@@ -20,6 +20,7 @@
 - `INS-260403-E51B` Audiences ignore or penalize explicit self-promotion but are heavily influenced by implicit behavioral signals of confidence.
 - `INS-260403-B216` Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
 - `INS-260403-0F95` Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
+- `INS-260403-7292` Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
 - `INS-260403-2F4E` Never say 'we're passionate' or 'our product is great' — these trigger instant credibility discounting.
 - `INS-260403-1E82` Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
 - `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.

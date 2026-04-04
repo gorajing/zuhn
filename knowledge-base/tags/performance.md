@@ -4,8 +4,6 @@
 - `INS-260325-9C2F` When AI outperforms humans, human-AI synergy is g = -0.54; when humans outperform AI, synergy is g = +0.46.
 - `INS-260325-4793` Meta-analysis of 106 experiments shows human-AI systems average g = -0.23 vs best-of-either, meaning most teams are worse than using the best partner alone.
 - `INS-260327-5CB0` Nathan Sobo spent years building Atom on Electron, hit a performance ceiling he couldn't overcome, and rebuilt Zed in Rust from scratch because performance is an architectural choice, not a feature you bolt on later.
-- `INS-260325-9693` Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.
-- `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
 - `INS-260329-EF14` Dynamic array append appears O(n) in worst case due to resizing, but amortized analysis shows it's O(1) because the expensive resizing happens so rarely that its cost spreads across all previous cheap appends.
 - `INS-260329-8181` Evaluate data structures by amortized cost across operation sequences, not just worst-case single operations.
 - `INS-260323-6761` Instead of humans manually finding cache sizes, tile dimensions, and vector widths, the compiler runs your code on the target hardware and caches the empirically fastest configuration.
@@ -17,12 +15,14 @@
 - `INS-260330-F5A1` Store the result of expensive computations and reuse them instead of recomputing from scratch.
 - `INS-260329-5B50` Most engineering optimizations are variants of one tradeoff: storing precomputed results (space) to avoid recomputing them (time).
 - `INS-260329-33AA` HFT firms treat real-time latency monitoring as a profit driver, not just operational overhead, because microseconds of undetected degradation directly cost money.
+- `INS-260325-9693` Sleep deprivation impairs cognition equivalent to being legally drunk, and weekend catch-up sleep is a myth — circadian rhythms don't allow debt repayment.
+- `INS-260330-72D9` Strobe-light training goggles that reduce visual information during practice produce measurably better visual performance when removed — a principle being studied at Stanford's new Vision Performance Center.
 - `INS-260330-4D8B` Overhydration dilutes blood electrolyte concentration, producing brain fog, fatigue, and GI distress identical to dehydration symptoms — causing people to drink more and spiral deeper.
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260403-DEB6` Determination requires equal parts willfulness and discipline; excess of either without the other produces local maxima or paralysis.
 - `INS-260403-B7E3` Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260330-85E1` Rewarding yourself after hard work actually undermines future motivation; learning to find the effort itself rewarding is the neuroscience behind growth mindset.
 - `INS-260330-9E25` Caffeine uniquely upregulates dopamine receptors (making dopamine more effective) rather than depleting dopamine stores like other stimulants do.
 - `INS-260327-7581` Focus on doing the work well rather than achieving the result, and the result takes care of itself.

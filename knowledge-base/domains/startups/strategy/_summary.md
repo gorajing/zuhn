@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 192 insights
+> 194 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -9,6 +9,7 @@
 - `INS-260323-9BC8` [high] Nickel superalloys get stronger when heated — the opposite of every other metal — because higher temperatures cause dislocations to cross-slip and lock each other in place. This anomalous behavior wasn't understood for 10 years after first use, but it turned out to be the alloy's most valuable property.
 - `INS-260403-747B` [high] Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260403-C40D` [high] Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
+- `INS-260403-243A` [high] Costco's $60 membership fee and bulk-only format filter for affluent, high-spending households averaging $100K income who renew at 90%.
 - `INS-260330-7ECB` [high] Apple deliberately buys small teams and technology rather than whole companies to avoid the cultural dilution and integration overhead that derails operationally focused organizations.
 - `INS-260330-217C` [high] Apple's strategy of acquiring small teams for talent and technology rather than buying large companies preserves the extreme focus that drives its premium margins.
 - `INS-260330-ABB1` [high] The cheapest M1 MacBook Air outperformed the most expensive Intel i9 MacBook Pro in most developer workflows while running cooler and using less battery.
@@ -120,6 +121,7 @@
 - `INS-260330-6ECA` [high] RuBisCo is a terrible enzyme that dominates Earth because plants committed to it before oxygen made it fail half the time, compensating with 40 billion tons of production instead of evolving a replacement.
 - `INS-260330-CBF8` [high] Scaling a flawed core strategy creates irreversible lock-in where compensation costs less than redesign.
 - `INS-260330-4489` [high] RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolving a better enzyme — a biological case study in scale-over-quality lock-in.
+- `INS-260403-EDA2` [high] RuBisCo is a terrible enzyme that conquered the planet by being produced in enormous quantities — 40 billion tons — rather than being redesigned.
 - `INS-260403-7BA1` [high] The industries accidentally created by cost collapses — modern finance from sail, consumer credit from automobiles, global manufacturing from containers — always exceed the value of the original technology.
 - `INS-260329-C6BB` [high] Start premium to fund the infrastructure needed for eventual mass-market scale.
 - `INS-260403-6428` [high] Silicon Valley's power comes from shared cultural protocols like non-zero-sum thinking and impact-based status, not from its visible infrastructure.

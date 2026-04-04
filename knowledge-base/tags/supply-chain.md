@@ -2,9 +2,9 @@
 
 - `INS-260322-8147` The next industrial revolution isn't just factories — it's the shared component stack (batteries, motors, power electronics, compute) that powers EVs, drones, data centers, and manufacturing.
 - `INS-260325-BB13` A smartphone processor requires tools from the Netherlands, chemicals from Japan, design from the US, fabrication in Taiwan, and assembly in Malaysia — no single company or country controls the full stack.
-- `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260323-E559` The XZ backdoor nearly succeeded because the entire Linux ecosystem depended on a compression tool maintained by one burned-out volunteer for 20 years.
 - `INS-260323-A8B5` Jia Tan did not hack XZ — he spent years building trust with the maintainer, then weaponized that trust to insert a backdoor.
+- `INS-260330-1084` A photon's journey from solar fusion through photosynthesis to cellular ATP involves at least 6 major conversion steps, each losing energy — making biological systems inherently energy-constrained despite abundant solar input.
 - `INS-260321-4B99` Factory capacity for DRAM and NAND is fixed, but AI demand pays so much more that producers shifted mass production lines to HBM — making consumer memory prices rise in tandem.
 - `INS-260325-A19C` TSMC manufactures 90% of the world's advanced processor chips in Taiwan — a geopolitical concentration risk that affects every phone, computer, and AI system on the planet.
 - `INS-260330-9BC4` Japan's and Germany's expansion was fundamentally driven by food insecurity, making agricultural dependency a leading indicator of geopolitical risk.
@@ -13,6 +13,7 @@
 - `INS-260327-048B` Domino's franchisees earn only 11% margins while the corporate entity makes most of its money selling cheese, dough, and ingredients at markup to its own franchise network.
 - `INS-260403-5BAC` Costco stocks only ~4,000 items vs 140,000 at Walmart, making suppliers compete fiercely for limited shelf space.
 - `INS-260330-B284` Rockefeller first consolidated 90% of oil refining (horizontal) before expanding into drilling, pipelines, storage, and distribution (vertical), using his refining monopoly as leverage for each expansion.
+- `INS-260403-4874` Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260403-887A` Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each shelf slot so valuable that suppliers compete on price and customization to win it.
 - `INS-260403-6670` Costco stocks 4,000 SKUs vs Walmart's 140,000, making each slot fiercely contested by suppliers willing to cut prices.
 - `INS-260403-115B` Costco stocks ~4,000 SKUs vs. Walmart's 140,000, making brands compete fiercely for limited shelf space and accepting lower margins to win placement.

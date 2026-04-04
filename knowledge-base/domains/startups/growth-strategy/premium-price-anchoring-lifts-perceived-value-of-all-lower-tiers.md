@@ -49,16 +49,16 @@ stance: >-
   increases conversion and perceived value of every cheaper offering through
   anchoring and brand association.
 related:
-  - INS-260327-9924
   - INS-260327-875C
-  - PRI-260328-70D9
   - INS-260329-C6BB
   - INS-260329-9D87
   - INS-260329-1DE0
   - INS-260329-6B3C
   - INS-260329-B28C
   - INS-260330-660A
+  - PRI-260328-70D9
   - INS-260327-0A48
+  - INS-260330-1B6E
 evidence:
   - id: INS-260327-875C
     type: TRANSFERS_TO

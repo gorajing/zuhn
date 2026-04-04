@@ -9,7 +9,6 @@
 - `INS-260329-36D9` Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260329-1435` Effort compounds non-linearly, so quitting destroys disproportionately more future value than the past effort suggests.
 - `INS-260330-033A` Partial fusion at 22 grams vs. 14 grams taught more than either a clean miss or perfect replication would have.
-- `INS-260330-8A87` Silicon Valley overvalues growth rates and undervalues durability — 75-85% of a tech company's value comes from cash flows a decade or more in the future.
 - `INS-260329-B4F5` What makes results extraordinary is not the nature of the action but the extraordinary duration of commitment to doing ordinary things.
 - `INS-260403-9CD9` The richest founders aren't money-driven — they're world-improvers who keep building past the acquisition offers that money-motivated founders accept.
 - `INS-260329-22B6` What looks like speed from the outside is actually fewer strategic pivots over a longer time horizon, not more activity.
@@ -23,6 +22,7 @@
 - `INS-260329-727B` The fastest way to $1M/year isn't the fastest way to $10M, and the fastest way to $10M isn't the fastest way to $100M.
 - `INS-260329-4488` Set decade-long commitments to activities rather than short-term outcome targets to reduce emotional ups and downs while building compounding advantages.
 - `INS-260325-8D66` You cannot get out of bed each morning expecting a breakthrough — but you can get out of bed saying 'today I will figure out how to do this better than last week.'
+- `INS-260330-8A87` Silicon Valley overvalues growth rates and undervalues durability — 75-85% of a tech company's value comes from cash flows a decade or more in the future.
 - `INS-260321-E471` Most founders filter out ideas requiring more than two years to work, so simply imagining ideas with longer timelines dramatically reduces competition.
 - `INS-260322-6C4B` The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
 - `INS-260329-2A5A` Leaving value on the table in negotiations builds relationship capital that generates more lifetime revenue than extraction.

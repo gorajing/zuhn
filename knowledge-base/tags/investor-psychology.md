@@ -12,6 +12,7 @@
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260403-FF86` Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
 - `INS-260403-4337` In brief pitches to non-technical investors, founders' implicit confidence is the strongest signal—but it must be shown through behavior, never claimed explicitly.
+- `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260403-C496` Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
@@ -41,6 +42,7 @@
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
+- `INS-260403-0F5C` Sequoia's 'proxy for demand'—people using bad tools to solve your problem—is the strongest early-stage fundraising signal.
 - `INS-260403-776C` You're justified in raising price for later investors since earlier ones took more risk, but many investors will angrily refuse on principle.
 - `INS-260403-1034` Three forces — higher burn, higher bar, and failure-by-default framing — make second rounds categorically harder than first ones.
 - `INS-260330-C8E1` Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.

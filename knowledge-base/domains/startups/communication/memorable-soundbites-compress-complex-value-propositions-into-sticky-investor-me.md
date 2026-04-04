@@ -50,12 +50,12 @@ stance: >-
   strategy is sufficiently coherent
 related:
   - INS-260403-EF30
-  - INS-260403-D375
   - INS-260403-B3A4
   - INS-260403-941F
   - INS-260403-448F
-  - INS-260403-87CD
+  - INS-260403-7FBE
   - INS-260403-85F1
+  - INS-260403-87CD
   - INS-260403-D984
   - INS-260403-26D3
 ---

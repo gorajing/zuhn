@@ -51,6 +51,7 @@
 - `INS-260403-054F` Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
 - `INS-260403-C625` Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
 - `INS-260403-FF86` Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
+- `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.

@@ -1,9 +1,9 @@
 # Tag: credibility
 
-- `INS-260327-0D82` The Protocol of Sevres — Britain, France, and Israel's secret plan to stage an Israeli attack as pretext for Suez intervention — was exposed, creating far more damage than an open intervention would have.
-- `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
 - `INS-260403-37D9` Under time pressure and information asymmetry, an audience's primary evaluation heuristic becomes the presenter's own apparent confidence in their work.
 - `INS-260403-0479` Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
+- `INS-260327-0D82` The Protocol of Sevres — Britain, France, and Israel's secret plan to stage an Israeli attack as pretext for Suez intervention — was exposed, creating far more damage than an open intervention would have.
+- `INS-260327-50B6` Prussia sent Napoleon an ultimatum demanding withdrawal from Germany without first ensuring Russian forces could arrive in time to help.
 - `INS-260403-A8E8` Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - `INS-260330-BE91` Institutions that abandon their own principles under pressure destroy their credibility far more than the original controversy would have.
 - `INS-260330-ABBF` Credibility in political discourse requires praising opponents when warranted, not just criticizing allies — a rare and costly signal.
@@ -16,6 +16,7 @@
 - `INS-260403-1B2D` Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.
 - `INS-260403-0F95` Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - `INS-260403-B505` Never explicitly claim passion or greatness — audiences ignore or penalize it, but absorb the same message when conveyed implicitly through behavior and specifics.
+- `INS-260403-7292` Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
 - `INS-260403-48BF` Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
 - `INS-260403-2F4E` Never say 'we're passionate' or 'our product is great' — these trigger instant credibility discounting.
 - `INS-260403-1E82` Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.

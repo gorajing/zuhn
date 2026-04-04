@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 202 insights
+> 205 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -39,6 +39,7 @@
 - `INS-260403-9D89` [high] Cheaper startups create a triple compounding effect: more founders, better terms, and faster-growing companies.
 - `INS-260403-ADB3` [high] Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - `INS-260330-C84C` [high] If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
+- `INS-260403-2E90` [high] Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` [high] A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` [high] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
@@ -112,6 +113,7 @@
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` [high] Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260403-5A4F` [high] Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - `INS-260403-91F9` [high] Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` [high] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` [high] Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.
@@ -130,6 +132,7 @@
 - `INS-260403-17A3` [high] Investors' biggest early-stage fear is that you built something nobody wants, so showing existing user pain with current tools is the strongest counter-signal.
 - `INS-260403-F8FF` [high] Demonstrate demand by showing the awkward workarounds people currently use, not by citing market size statistics.
 - `INS-260403-3837` [high] Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
+- `INS-260403-0F5C` [high] Sequoia's 'proxy for demand'—people using bad tools to solve your problem—is the strongest early-stage fundraising signal.
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
 - `INS-260322-A31D` [high] Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
 - `INS-260402-3FC5` [high] Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.

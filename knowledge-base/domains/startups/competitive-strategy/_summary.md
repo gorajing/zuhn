@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 472 insights
+> 474 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -297,6 +297,7 @@
 - `INS-260330-242D` [high] Domino's ran ads showing real focus group footage calling their crust 'cardboard,' admitted the criticism was deserved, then documented their complete recipe overhaul — generating a billion media impressions and 4,000% stock growth over the next decade.
 - `INS-260403-9442` [high] Plants produce 40 billion tons of the flawed enzyme RuBisCo rather than evolving a better one, proving that volume of a mediocre approach can dominate.
 - `INS-260330-ED9D` [high] Plants compensate for RuBisCo's ~50% failure rate by producing 40 billion tons of it — brute-force quantity as a strategy works when unit cost is low enough.
+- `INS-260403-4874` [high] Costco's 4,000-SKU limit versus Walmart's 140,000 gives it extreme per-item volume and supplier negotiating leverage.
 - `INS-260403-887A` [high] Costco stocks only 4,000 SKUs versus 140,000 at Walmart, making each shelf slot so valuable that suppliers compete on price and customization to win it.
 - `INS-260403-6670` [high] Costco stocks 4,000 SKUs vs Walmart's 140,000, making each slot fiercely contested by suppliers willing to cut prices.
 - `INS-260403-E143` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which gives it enormous leverage because suppliers compete fiercely for the one or two slots available.
@@ -343,6 +344,7 @@
 - `INS-260327-F2DF` [high] Lionsgate gained massive pricing power by producing hit shows (Mad Men, Orange is the New Black) that cable networks and streaming platforms used to differentiate themselves -- each platform's arms race for exclusive content made Lionsgate the indispensable supplier.
 - `INS-260324-C2B9` [high] Independent smashburger shops outperform burger chains on speed, consistency, and value — the things that used to differentiate Wendy's, BK, and McDonald's are now the baseline for any LA smashburger concept.
 - `INS-260327-4233` [high] Automakers that lock existing hardware features behind software subscriptions generate disproportionate consumer backlas
+- `INS-260403-9F4B` [high] RuBisCo was designed for a low-oxygen atmosphere and became increasingly dysfunctional as plants themselves filled the air with oxygen.
 - `INS-260327-D5CC` [high] The best startup ideas are in industries you've never worked in—tech insiders oversaturate their own problems.
 - `INS-260322-98D2` [high] Robinhood succeeded by combining three bets that were each individually contrarian (zero commissions, mobile-first, populist brand) into a single offering no incumbent could replicate quickly.
 - `INS-260330-85D7` [high] Photosynthesis uses a four-complex electron transport chain because staged extraction captures energy that a single-step conversion would waste as heat.

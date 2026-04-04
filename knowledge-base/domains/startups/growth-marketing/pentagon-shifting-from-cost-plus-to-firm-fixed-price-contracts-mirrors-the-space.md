@@ -45,11 +45,11 @@ resolutions:
     a quick rejection is more valuable than years of procurement limbo because
     it lets startups readjust strategy or move to the next partner.
 related:
+  - INS-260403-4874
   - INS-260327-10A2
   - INS-260403-5D89
   - INS-260330-AF2B
   - INS-260327-1576
-  - INS-260403-0350
 stance: >-
   The Department of War is replacing cost-plus contracts with 1000-requirement
   RFPs with simple firm-fixed-price requirements

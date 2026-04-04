@@ -55,9 +55,9 @@ related:
   - INS-260403-C228
   - INS-260403-D375
   - INS-260403-0AF4
+  - INS-260403-7FBE
   - INS-260403-F171
   - INS-260403-FE37
-  - INS-260403-D430
 ---
 Graham argues that the first cut in fundraising is simply being remembered. After dozens of pitches, investors retain only a few, and a sticky descriptive phrase acts as a cognitive handle that survives the forgetting curve. Viaweb's 'the Microsoft Word of ecommerce' compressed a complex product into an instantly graspable analogy.
 

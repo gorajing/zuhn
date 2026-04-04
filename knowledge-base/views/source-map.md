@@ -3,10 +3,10 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 206 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 120 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 98 | 2026-03-31 |
-| How to Do Great Work | blog | 46 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 210 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 125 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 103 | 2026-03-31 |
+| How to Do Great Work | blog | 51 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -934,6 +934,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Venture Capital Squeeze | blog | 4 | 2026-03-31 |
 | The Word "Hacker" | blog | 4 | 2026-03-31 |
 |  | blog | 4 | 2026-03-31 |
+| Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 4 | 2026-03-30 |
 | What to Do | blog | 4 | 2026-03-31 |
 | What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside) | blog | 4 | 2026-03-30 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
@@ -2348,7 +2349,6 @@ Generated on 2026-04-04 | 2421 sources
 | VC Math Explained📊, Grow with Roll-Ups 🔄, The Top 1%🧠 | blog | 0 | 2026-03-30 |
 | VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |
 | Venture Capital Unveiled: Time for Change! | blog | 0 | 2026-03-30 |
-| Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 0 | 2026-03-30 |
 | Vertical SaaS: Now With AI Inside, B2C is Back, AI Agents Landscape  | blog | 0 | 2026-03-30 |
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
 | Weird Languages | blog | 0 | 2026-03-31 |

@@ -10,10 +10,11 @@
 - `INS-260403-F634` Costco's 75% revenue from memberships makes low prices a retention strategy, not a sacrifice.
 - `INS-260403-CDB9` When 75% of revenue comes from membership fees, the rational move is always to lower prices to protect renewals.
 - `INS-260403-5C88` When membership fees are the primary revenue source, the company's incentive naturally aligns with keeping prices low to drive renewals.
+- `INS-260403-BF47` Costco makes 75% of profit from membership fees, which structurally aligns its incentives with delivering maximum customer value.
 - `INS-260403-B2CB` Costco makes 75% of profit from membership fees, so low prices directly serve its business model rather than undermining it.
 - `INS-260403-0650` When membership fees are the primary revenue source, the company's profit motive aligns directly with keeping customer prices low.
 - `INS-260403-3F5F` Costco makes 75% of revenue from membership fees, enabling an 11% markup cap vs Walmart's 24%.
 - `INS-260403-C4DF` Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
+- `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.
 - `INS-260325-1585` Subscriptions shifted from delivering value to exploiting inertia — most extract more from convenience-addiction than they provide in service.
 - `INS-260403-946A` The ideal validated business model combines large profit potential with structural defenses like recurring revenue, scalability, and competitive moats.
-- `INS-260322-C33D` Only build products with daily-use repeat purchase dynamics — subscriptions transform the business from hunting new customers every month to compounding on an existing base.

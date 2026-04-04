@@ -47,14 +47,13 @@ stance: >-
   Founders who describe their startup with a specific, narrow framing convert
   more investor interest than those who use broad, visionary language
 related:
-  - INS-260403-F3FF
   - INS-260403-AF27
-  - INS-260403-2204
   - INS-260403-21A8
   - INS-260403-A0C4
   - INS-260403-06E0
-  - INS-260403-B29D
+  - INS-260403-5A4F
   - INS-260403-D430
+  - INS-260403-B29D
 ---
 As startup descriptions approach generality — 'a system to allow people to collaboratively leverage the value of information' — their information content approaches zero. Investors discard such sentences as boilerplate and grow impatient waiting for the actual explanation.
 

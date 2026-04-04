@@ -42,9 +42,9 @@ stance: >-
   rather than per-item margins will consistently undercut competitors on price
   because their incentive structure rewards customer retention over extraction.
 related:
-  - INS-260403-B2CB
   - INS-260403-0650
   - INS-260403-CDB9
+  - INS-260403-BF47
   - INS-260403-F634
   - INS-260403-1C25
   - INS-260403-1208

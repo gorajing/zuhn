@@ -51,7 +51,7 @@ related:
   - INS-260403-962E
   - INS-260330-E039
   - INS-260330-39B0
-  - INS-260403-1731
+  - INS-260403-EDA2
 ---
 Early single-celled organisms needed to fix carbon but RuBisCo was inefficient at it. The winning strategy wasn't to wait for a better enzyme — it was to produce massive quantities of the mediocre one. This brute-force approach let those organisms outcompete everything else and become the dominant life form on Earth.
 

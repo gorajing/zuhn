@@ -12,5 +12,6 @@
 - `INS-260330-2119` Oxygen — the gas that enabled all animal life — was originally just a toxic waste product of photosynthesis, making it history's most valuable accidental byproduct.
 - `INS-260330-3AB4` Oxygen was photosynthesis's 'useless byproduct' that became the foundation for all animal life — the side effect exceeded the intended output in civilizational impact.
 - `INS-260330-13A1` Oxygen — the gas all animal life depends on — is literally a waste byproduct of photosynthesis that plants don't need.
+- `INS-260403-76EE` Oxygen — the gas that enabled all complex animal life — is just a waste product of photosynthesis, not its purpose.
 - `INS-260330-9231` Oxygen was a useless and even toxic byproduct of water-splitting in PSII — yet it became the foundation for all aerobic life on Earth.
 - `INS-260330-90B6` Oxygen — the molecule enabling all animal life — is literally a waste product of photosynthesis, not its purpose.

@@ -50,13 +50,13 @@ stance: >-
 related:
   - INS-260330-5670
   - INS-260330-2119
-  - INS-260330-656A
   - INS-260330-13A1
   - INS-260330-90B6
   - INS-260403-31AF
   - INS-260403-5C74
   - INS-260403-726B
   - INS-260403-99CE
+  - INS-260403-76EE
 ---
 Photosystem II splits water molecules to steal their electrons, producing hydrogen ions and oxygen as byproducts. From the plant's perspective, oxygen is waste — it's the glucose and energy storage that matters. Yet this 'useless' byproduct is the single most important chemical output in Earth's biological history, enabling the entire aerobic branch of life.
 

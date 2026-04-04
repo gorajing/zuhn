@@ -1,6 +1,7 @@
 # Tag: pitching
 
 - `INS-260403-B3CA` Telling people you're great gets you written off; showing it through behavior and energy gets you believed.
+- `INS-260403-7292` Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
 - `INS-260403-81CE` Professional investors hear so many pitches they blur together — a sticky 'the X of Y' phrase is the first-cut survival filter.
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
 - `INS-260403-D375` A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
@@ -10,6 +11,7 @@
 - `INS-260403-85F1` Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - `INS-260403-ED1E` Craft a single 'x of y' phrase for your startup — it tests strategic focus as much as it aids memorability.
 - `INS-260403-FE37` A single sticky phrase both helps investors remember you and forces you to confront whether your startup's focus is clear enough to compress.
+- `INS-260403-7FBE` A single memorable phrase ensures you survive the post-pitch blur when investors have heard dozens of companies.
 - `INS-260403-CC25` Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - `INS-260403-66D0` Specific stories of users struggling with bad tools prove demand more convincingly than abstract market size numbers because they demonstrate pull rather than theoretical opportunity.
 - `INS-260323-0277` Raibert deliberately made the top and bottom ideas on his project list boring and put 'pogo stick robot' in the middle — letting Ivan Sutherland naturally select the exciting one, which led to the first $3,000 of funding.
@@ -22,6 +24,7 @@
 - `INS-260403-AC74` Self-conviction based on honest evaluation is more persuasive than rehearsed pitch technique.
 - `INS-260403-B3CA` A single compelling phrase like 'the Microsoft Word of ecommerce' ensures investors remember you after hearing dozens of pitches.
 - `INS-260403-448F` A single sticky descriptive phrase is the minimum requirement for investor recall, and inability to create one signals insufficiently focused plans.
+- `INS-260403-2E90` Smart investors expect early business models to be wrong, so detailed business model slides waste credibility.
 - `INS-260403-6982` A wrong business model presented in detail becomes the memorable takeaway, crowding out the actually impressive problem-solving work.
 - `INS-260403-97DB` Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
 - `INS-260403-C496` Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
@@ -54,6 +57,7 @@
 - `INS-260403-047B` Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260403-5A4F` Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-AF27` Overly narrow startup descriptions stick in investors' heads while vague comprehensive ones get discarded as meaningless boilerplate.

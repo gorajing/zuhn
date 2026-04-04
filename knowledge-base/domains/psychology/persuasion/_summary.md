@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 43 insights
+> 44 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -16,6 +16,7 @@
 - `INS-260403-1B2D` [high] Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.
 - `INS-260403-0F95` [high] Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - `INS-260403-B505` [high] Never explicitly claim passion or greatness — audiences ignore or penalize it, but absorb the same message when conveyed implicitly through behavior and specifics.
+- `INS-260403-7292` [high] Show-don't-tell applies to confidence: explicit claims of passion trigger skepticism while implicit signals build trust.
 - `INS-260403-48BF` [high] Saying 'we're passionate' or 'our product is great' gets you written off; showing it through behavior is the strongest trust signal.
 - `INS-260403-2F4E` [high] Never say 'we're passionate' or 'our product is great' — these trigger instant credibility discounting.
 - `INS-260403-A290` [high] Explicit claims of passion or greatness trigger skepticism — confidence must be demonstrated through demeanor, not declared through words.
