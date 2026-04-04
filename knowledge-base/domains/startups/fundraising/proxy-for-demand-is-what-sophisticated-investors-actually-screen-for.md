@@ -48,11 +48,11 @@ stance: >-
   pull exists independent of your solution.
 related:
   - INS-260325-D797
-  - INS-260403-3421
   - INS-260403-8C50
+  - INS-260404-5D18
   - INS-260404-5882
   - INS-260403-30D8
-  - INS-260403-DC32
+  - INS-260403-3421
 ---
 The biggest investor fear with early startups is that founders built something from a priori theories that nobody actually wants. The antidote is showing proxy for demand: what are people doing right now, with inadequate tools, that proves they need what you're making?
 

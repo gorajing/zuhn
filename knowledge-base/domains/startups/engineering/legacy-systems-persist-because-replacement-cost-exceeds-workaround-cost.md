@@ -55,8 +55,8 @@ related:
   - INS-260403-30E5
   - INS-260330-C02D
   - INS-260330-53A9
+  - INS-260404-CC7C
   - INS-260330-BFA2
-  - INS-260403-D482
 ---
 The enzyme RuBisCo was designed for a low-oxygen atmosphere and now confuses O2 with CO2 roughly half the time, producing toxic byproducts. Yet plants went 'all-in' on the RuBisCo strategy and simply evolved cleanup pathways for the toxic waste rather than replacing the enzyme itself.
 

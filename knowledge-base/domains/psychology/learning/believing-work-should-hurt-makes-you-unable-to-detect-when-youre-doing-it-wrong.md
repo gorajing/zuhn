@@ -53,12 +53,11 @@ stance: >-
   feedback suppression — you interpret suffering as evidence of virtue rather
   than as a signal of misalignment.
 related:
-  - INS-260323-5D6D
   - INS-260327-4739
   - INS-260330-DC8B
-  - INS-260402-E36A
   - INS-260403-D64B
   - INS-260329-640C
+  - INS-260323-5D6D
   - INS-260403-94C4
   - INS-260403-A06E
   - INS-260322-C6CE

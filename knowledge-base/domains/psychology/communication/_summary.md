@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 31 insights
+> 32 insights
 
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
@@ -10,6 +10,7 @@
 - `INS-260403-0479` [high] Robert Morris's strategy of never saying anything unless fairly sure of it made him essentially never wrong — not through omniscience but through careful qualification.
 - `INS-260330-3570` [high] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
 - `INS-260330-7E66` [high] Start every argument by explicitly naming the one thing you disagree about and agreeing that all other differences are off the table.
+- `INS-260404-C64D` [high] Startup pitching is structurally broken: people bad at explaining talk to people bad at understanding, and even Google got rejected.
 - `INS-260402-9E2D` [high] Think freely, speak carefully, and cultivate a small circle of friends who can handle heretical ideas.
 - `INS-260330-24CD` [high] Steven Pinker identified five distinct types of swearing, each serving a different communicative and emotional function.
 - `INS-260330-B711` [high] Shared precise vocabulary is a coordination technology that enables complex collaborative action in high-stakes domains.

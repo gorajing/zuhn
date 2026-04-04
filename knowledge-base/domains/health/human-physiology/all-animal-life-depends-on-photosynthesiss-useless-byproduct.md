@@ -46,12 +46,11 @@ stance: >-
   byproducts rather than the system's primary product
 related:
   - INS-260323-0AF3
-  - INS-260330-2BA7
   - INS-260330-90B6
   - INS-260403-5C74
+  - INS-260404-F8E6
   - INS-260403-FDD8
   - INS-260403-76EE
-  - INS-260403-99CE
 ---
 Photosynthesis evolved to fix carbon and produce glucose for plant energy storage. Oxygen is generated as a byproduct of water-splitting in Photosystem II, essentially molecular waste that plants need to expel. Yet this 'waste' product fundamentally transformed Earth's atmosphere and enabled the evolution of all aerobic life.
 

@@ -48,7 +48,6 @@ stance: >-
   The most transformative outputs of a process are frequently unintended
   byproducts rather than the designed primary product
 related:
-  - INS-260330-5670
   - INS-260330-2119
   - INS-260330-13A1
   - INS-260403-31AF
@@ -56,6 +55,7 @@ related:
   - INS-260403-99CE
   - INS-260403-76EE
   - INS-260403-227B
+  - INS-260404-F8E6
 ---
 Photosystem II splits water molecules to steal their electrons, producing hydrogen ions and oxygen as byproducts. From the plant's perspective, oxygen is waste — it's the glucose and energy storage that matters. Yet this 'useless' byproduct is the single most important chemical output in Earth's biological history, enabling the entire aerobic branch of life.
 

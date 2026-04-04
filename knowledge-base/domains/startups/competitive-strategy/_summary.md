@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 508 insights
+> 510 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -123,6 +123,7 @@
 - `INS-260328-D0F6` [high] Yahoo, HP, and Intel all looked invincible until they were not — the 'watermelon' pattern of green outside, red inside applies to today's tech giants too.
 - `INS-260330-D108` [high] Photosynthesis 'rather sucks' — it's complicated, inefficient, and confusing — yet it powers all complex life because it was first and sufficient.
 - `INS-260330-EEED` [high] Regulatory arbitrage creates temporary cost advantages but governments eventually close loopholes, so they cannot serve as durable competitive moats.
+- `INS-260404-D0D8` [high] Sears, Toys-R-Us, and J.C. Penney died from internal failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260330-E853` [high] Rockefeller treated every recession as a buying opportunity — the 1873 depression let him acquire Pittsburgh, Philadelphia, and New York refineries at fractions of their value because he was one of the few still profitable.
 - `INS-260403-E3CC` [high] Deep operational integration makes ripping out your product so costly that competitors cannot displace you on features or price alone.
 - `INS-260330-EC7C` [high] Britain's enclosure movement privatized common fields, boosting agricultural output but impoverishing tenant farmers — a pattern that repeats in every platform economy shift.
@@ -324,6 +325,7 @@
 - `INS-260403-180D` [high] Costco stocks 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers compete on price and adapt products to Costco's specifications.
 - `INS-260404-37BB` [high] Offering fewer choices per category forces suppliers to compete for limited slots, driving prices down far more than bulk purchasing alone.
 - `INS-260403-36D8` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
+- `INS-260404-8466` [high] Costco stocks 4,000 SKUs versus Walmart's 140,000, concentrating all purchasing volume into fewer suppliers who compete fiercely for shelf space.
 - `INS-260404-6945` [high] Costco stocks only 4,000 items versus Walmart's 140,000, which gives it immense buying power per SKU because suppliers fight to be the one choice in each category.
 - `INS-260404-1843` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each shelf slot so valuable that suppliers cut prices and customize products to win placement.
 - `INS-260403-5BBC` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.

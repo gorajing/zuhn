@@ -51,7 +51,6 @@ stance: >-
 related:
   - INS-260327-50CE
   - INS-260403-5C88
-  - INS-260403-1C25
   - INS-260404-0000
   - INS-260403-B2CB
   - INS-260403-BF47
@@ -59,6 +58,7 @@ related:
   - INS-260403-59F8
   - INS-260403-F634
   - INS-260403-FAE1
+  - INS-260403-CED6
 ---
 Costco generates 75% of its profits from membership fees, not product markups. This fundamentally changes the company's incentive structure: raising prices would gain pennies today but risk losing $60-120 annual renewals. The self-imposed 15% maximum markup (vs Walmart's 24% or Home Depot's 35%) isn't charity—it's rational profit maximization through a different mechanism.
 

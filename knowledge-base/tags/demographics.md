@@ -1,5 +1,7 @@
 # Tag: demographics
 
+- `INS-260330-74AC` China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
+- `INS-260330-0FF7` China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260327-725F` The average public company CEO is 58, average director 63, average Congress member over 60, and average world leader 40 years older than their population.
 - `INS-260327-9560` Nobody wants to have kids because the economic conditions that enabled the baby boom (cheap homes, stable jobs, affordable childcare) have been systematically dismantled.
 - `INS-260330-DA38` Demographic shifts happen so slowly that they're ignored until retirement waves hit, then consequences cascade rapidly.
@@ -14,8 +16,6 @@
 - `INS-260327-60FB` 'Population collapse' anxiety serves two very different interests: genuine concern about supporting aging populations vs. corporate concern about maintaining cheap labor - the solutions are contradictory.
 - `INS-260323-8239` National power is fundamentally a function of population size and wealth — both are required to build the military capability that ensures survival.
 - `INS-260330-0881` China's one-child policy combined with cultural son preference produced roughly 30-40 million excess men, creating downstream social and economic disruption.
-- `INS-260330-74AC` China's one-child policy is widely credited with reducing fertility, but the decline was already well underway before the policy existed.
-- `INS-260330-0FF7` China's One Child Policy created a surplus of 35 million men, making property ownership a prerequisite for marriage and turning housing into inelastic social demand.
 - `INS-260404-01B1` Costco's $60-120 membership fee filters for households earning ~$100K, and business owners who comprise one-third of members but drive two-thirds of sales.
 - `INS-260403-46B2` The concentration of 25-29 year olds in a city predicts startup hub potential better than any policy metric.
 - `INS-260403-2C00` Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.

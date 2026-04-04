@@ -52,11 +52,11 @@ related:
   - INS-260330-47CF
   - INS-260403-9442
   - INS-260403-532D
-  - INS-260403-F68A
   - INS-260404-EC33
   - INS-260330-8BF6
   - INS-260403-05D8
   - INS-260403-EDA2
+  - INS-260404-B6E8
 ---
 RuBisCo fails roughly 50% of the time under current atmospheric conditions, grabbing oxygen instead of CO2. Plants compensate purely through volume — producing so much RuBisCo that the successful half still fixes enough carbon to sustain all plant life on Earth.
 

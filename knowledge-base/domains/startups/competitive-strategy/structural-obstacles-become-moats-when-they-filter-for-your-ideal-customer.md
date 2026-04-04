@@ -49,9 +49,9 @@ related:
   - INS-260403-C40D
   - INS-260403-747B
   - INS-260403-137D
-  - INS-260403-9104
   - INS-260403-3F91
   - INS-260403-0CF7
+  - INS-260404-B435
   - INS-260404-6E7B
 ---
 A mandatory fee to enter a store seems like a fatal customer acquisition barrier. But Costco's fee acts as a demographic filter: it selects for affluent households (average income ~$100K) and business owners who buy in bulk. Business members are one-third of the base but generate two-thirds of revenue. The fee also triggers sunk-cost psychology—once paid, members consolidate purchases at Costco rather than shopping around, deepening loyalty. This pattern generalizes: what looks like a growth-limiting obstacle can become a competitive advantage when it concentrates high-value users. The warehouse layout works similarly—confusing navigation forces wandering through aisles, increasing impulse discovery, and the utilitarian aesthetic makes shoppers feel like savvy deal-hunters rather than manipulated consumers.

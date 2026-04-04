@@ -48,7 +48,6 @@ stance: >-
   shipping.
 related:
   - INS-260321-13EA
-  - INS-260320-20F2
   - INS-260327-88FE
   - INS-260329-F0DE
   - INS-260330-410A

@@ -51,8 +51,8 @@ related:
   - INS-260404-60D6
   - INS-260403-3864
   - INS-260404-0298
+  - INS-260404-A938
   - INS-260403-BF47
-  - INS-260403-CDB9
 ---
 Most retailers use loss leaders to get customers in the door, then profit from markups on other items. Costco inverts this: it caps markups at 15% (vs. Walmart's 24% or Home Depot's 35%) and makes nearly all its profit from the $60-$120 annual membership fee. This creates a fundamentally different incentive structure — raising prices would gain cents today but risk losing $60 in renewal revenue next year.
 

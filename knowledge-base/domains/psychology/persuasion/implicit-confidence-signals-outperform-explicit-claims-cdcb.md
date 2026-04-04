@@ -51,7 +51,6 @@ stance: >-
   credibility, while implicit demonstration of confidence through demeanor and
   substance is the strongest persuasion lever with sophisticated audiences.
 related:
-  - INS-260403-4337
   - INS-260403-C37D
   - INS-260403-915E
   - INS-260403-DE45

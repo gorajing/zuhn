@@ -11,7 +11,7 @@
 - `INS-260330-88B0` Identical physical stimulation produces pleasure or discomfort depending entirely on context — emotional safety, stress levels, and relationship dynamics matter more than technique.
 - `INS-260329-B2D8` Choose roommates who share your ambition level, not just your rent budget.
 - `INS-260330-D27C` You become what you're consistently exposed to — surgically arrange your environment rather than relying on willpower or techniques.
+- `INS-260403-6340` Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
 - `INS-260329-A7E2` For each friend, ask: does this person increase or decrease my probability of hitting my goal? If decrease, remove them.
 - `INS-260329-DD01` Birth zip code outpredicts IQ, race, and gender for lifetime earnings because environment shapes ambition through social comparison.
-- `INS-260403-6340` Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
 - `INS-260403-EEDB` The CEO's primary innovation job is building the environment where people explore, not choosing which innovations to fund.

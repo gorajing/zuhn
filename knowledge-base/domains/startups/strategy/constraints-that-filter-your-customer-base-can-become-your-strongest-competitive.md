@@ -55,10 +55,10 @@ related:
   - INS-260330-D824
   - INS-260403-B6FF
   - INS-260403-C40D
+  - INS-260404-B435
   - INS-260403-747B
   - INS-260403-2C00
   - INS-260404-6E7B
-  - INS-260404-01B1
 ---
 The $60-120 annual fee seems like it would fatally limit customer acquisition — why would anyone pay just to enter a store? But the fee performs three functions simultaneously: it selects for households earning ~$100K+ (the demographic most valuable to retailers), it triggers sunk-cost psychology that discourages price comparison shopping, and it funds the low-margin model that keeps those customers coming back. Business members, just one-third of the base, drive two-thirds of sales.
 

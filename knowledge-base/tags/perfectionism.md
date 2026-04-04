@@ -2,6 +2,7 @@
 
 - `INS-260329-E86C` David Malan himself almost didn't take CS50 until he was allowed to enroll pass/fail, proving that stake reduction unlocks hidden talent.
 - `INS-260403-472E` The biggest killer of potentially successful projects is never starting them due to premature quality standards.
+- `INS-260404-9213` Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 - `INS-260329-E333` Solving the problem correctly first, then refactoring for elegance, consistently beats attempting beautiful code from the start.
 - `INS-260327-A98E` Nothing is going to be perfect if you do not ship the product — get it to market and iterate based on feedback.
 - `INS-260329-5818` In early stages, doing more reps at lower quality beats doing fewer reps at higher quality.

@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3748 actionable insights
+Generated on 2026-04-04 | 3754 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1484,6 +1484,7 @@ Generated on 2026-04-04 | 3748 actionable insights
 - [INS-260404-FDEA] Photosystem II was discovered after Photosystem I but acts first in the process, creating a naming inversion that confuses every new learner of biology.
 - [INS-260404-52FC] CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
 - [INS-260404-78EB] Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
+- [INS-260404-9213] Photosynthesis is 'complicated, inefficient and confusing' yet it powers essentially all life on Earth because it shipped 450 million years ago.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1654,6 +1655,7 @@ Generated on 2026-04-04 | 3748 actionable insights
 - [INS-260404-6388] When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
 - [INS-260404-F3C6] Never explicitly claim passion or quality — audiences dismiss it as bullshit and respond only to behavioral confidence signals.
 - [INS-260404-22B3] Saying 'we're passionate' or 'our product is great' triggers skepticism, while behavioral confidence — specificity, pace, eye contact — builds genuine credibility.
+- [INS-260404-D672] When investors can't evaluate the tech, your own confidence becomes the largest piece of evidence they use to form an opinion.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2826,6 +2828,9 @@ Generated on 2026-04-04 | 3748 actionable insights
 - [INS-260404-4B69] Smart investors expect early business models to be wrong, so talking about them wastes time better spent on the problem you solve.
 - [INS-260404-9F1D] Narrow, gripping descriptions convey more signal than broad visionary language when pitching investors.
 - [INS-260404-5248] Specific user stories — especially founder-as-user stories — are the strongest early signal of demand for investors evaluating pre-traction startups.
+- [INS-260404-EAB7] Business models at early stage are guesses about things outside your expertise — spend that time on the problem and product instead.
+- [INS-260404-0BB0] As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.
+- [INS-260404-5D18] Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3779,6 +3784,7 @@ Generated on 2026-04-04 | 3748 actionable insights
 - [INS-260404-007B] Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
 - [INS-260404-975A] Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
 - [INS-260404-8B1C] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
+- [INS-260404-B435] Costco's $60 membership fee filters for affluent households ($100K+ average income) and business buyers who account for two-thirds of sales.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

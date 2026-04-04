@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 233 insights
+> 236 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -65,6 +65,7 @@
 - `INS-260404-10FF` [high] Don't spend pitch time on your business model — investors expect it to be wrong at early stage, and a bad one will overshadow your real strengths.
 - `INS-260403-13ED` [high] Early business models are usually wrong, so pitching them wastes time and can make you look naive — talk about what you've built instead.
 - `INS-260403-088E` [high] Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
+- `INS-260404-EAB7` [high] Business models at early stage are guesses about things outside your expertise — spend that time on the problem and product instead.
 - `INS-260404-9158` [high] Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
 - `INS-260403-4A4A` [high] Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
 - `INS-260403-D7C4` [high] Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
@@ -147,6 +148,7 @@
 - `INS-260403-20D6` [high] Approach your pitch like successive approximation: start grippingly narrow, then flesh out.
 - `INS-260403-B29D` [high] Vague all-encompassing descriptions are parsed as meaningless boilerplate; narrow concrete descriptions create a working mental model investors can build on.
 - `INS-260403-8013` [high] As a startup description broadens toward 'could be anything,' investors retain nothing — start narrow and credible, then expand.
+- `INS-260404-0BB0` [high] As a startup description approaches 'could be anything,' its informational content approaches zero — narrow beats broad.
 - `INS-260403-5B46` [high] Falling startup costs don't just shrink existing funding models — they open ecological niches for fundamentally new ones.
 - `INS-260403-8448` [high] Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
 - `INS-260403-5B89` [high] Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
@@ -156,6 +158,7 @@
 - `INS-260403-F8FF` [high] Demonstrate demand by showing the awkward workarounds people currently use, not by citing market size statistics.
 - `INS-260403-3837` [high] Show investors the workarounds people currently use — that's your proof of demand before you have metrics.
 - `INS-260403-0F5C` [high] Sequoia's 'proxy for demand'—people using bad tools to solve your problem—is the strongest early-stage fundraising signal.
+- `INS-260404-5D18` [high] Sequoia looks for 'proxy for demand' — what people are doing now with bad tools that proves they need what you're making.
 - `INS-260322-0C91` [high] Microsoft, Dell, Yahoo, eBay, Instagram, and Midjourney were all capital-efficient or fully bootstrapped — fundraising should only happen when capital creates a genuine acceleration advantage.
 - `INS-260322-A31D` [high] Each fundraise adds a liquidation preference stack — if you raise $10M and sell for $15M, investors get their $10M back first before anyone else gets paid, making large raises actively dangerous for modest outcomes.
 - `INS-260402-3FC5` [high] Large funding rounds create organizational inertia that prevents the pivots most startups need to survive.

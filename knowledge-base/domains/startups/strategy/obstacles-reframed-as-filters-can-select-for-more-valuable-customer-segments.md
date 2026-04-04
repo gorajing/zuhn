@@ -53,9 +53,8 @@ related:
   - INS-260403-C40D
   - INS-260403-747B
   - INS-260403-137D
-  - INS-260403-243A
-  - INS-260403-B8CD
   - INS-260404-01B1
+  - INS-260404-B435
   - INS-260404-6E7B
 ---
 Conventional wisdom says removing friction grows your customer base. Costco demonstrates the opposite: its $60-120 mandatory membership fee acts as a demographic filter that selects for affluent households (average income ~$100K) and business owners. Business members make up only one-third of the membership but generate two-thirds of sales volume. The fee that should make customer acquisition 'fatally difficult' instead creates a self-selecting community of high-value, loyal patrons with 90% renewal rates.
