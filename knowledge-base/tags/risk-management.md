@@ -5,13 +5,13 @@
 - `INS-260329-3243` HFT systems run automated pre-trade risk checks in microseconds — blocking bad orders before they hit exchanges without slowing the pipeline.
 - `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260323-8544` In power-law distributions, the standard deviation is infinite, the average keeps growing with more samples, and one outlier (like Bill Gates in a room) dominates everything — making expected-value calculations from normal-distribution thinking dangerously misleading.
-- `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
 - `INS-260330-4370` Waiting for multiple block confirmations creates exponentially increasing security because a fraudster must outpace the entire honest network for each additional block.
 - `INS-260329-B424` Options and leveraged positions let you control large assets with minimal capital, creating disproportionate upside potential.
 - `INS-260323-2FF9` Options offer three distinct advantages over direct stock ownership: capped maximum loss (the premium paid), amplified returns through leverage, and the ability to hedge specific risks.
 - `INS-260329-A9ED` HFT systems enforce automated pre-trade risk checks in microseconds to prevent runaway algorithms from causing financial disasters.
 - `INS-260323-1B42` Ray Dalio's core insight: the #1 mistake is trying to increase returns without managing risk — the best investors keep returns constant while systematically reducing the risk required to achieve them.
 - `INS-260329-C45C` Self-made wealthy people consistently invest in domains where they have deep personal expertise rather than diversifying into unfamiliar sophisticated vehicles.
+- `INS-260322-7A2F` Artemis builds permanent lunar presence through deliberate phased deployment — unmanned test, crewed orbit, first landing, rover, habitable vehicle, base camp — each phase de-risking the next.
 - `INS-260326-6D53` The opposite of fragile is not robust (indifferent to shocks) but antifragile (benefits from shocks), a distinction with massive implications for portfolio construction and system design.
 - `INS-260330-AD13` Periodic large losses destroy compounding far more than lower steady returns, so risk management trumps return maximization.
 - `INS-260323-6351` The two cardinal rules of investing: only use money you don't need short-term, and never leverage your portfolio — because black swan events can halve any stock overnight.
@@ -30,9 +30,9 @@
 - `INS-260330-19E1` Midgley rejected ethanol (safe, effective, but low-margin) in favor of tetraethyl lead (cheap, high-margin, known toxic) — a decision that generated ~$3B in profits but caused an estimated 100 million deaths globally.
 - `INS-260330-8D4F` DuPont knew C8 caused cancer in rats by the early 1980s, liver disease in workers by the mid-1970s, and toxic effects across multiple species from the 1960s — but shared none of this with the scientific community or regulators for decades.
 - `INS-260330-570F` Germany and Japan's drive for resource autarky revealed strategic weakness and led to fatal overextension.
+- `INS-260330-A44F` Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
 - `INS-260325-0C4A` Thinking through failure scenarios before starting a venture minimizes downside and accelerates recovery when things go wrong.
 - `INS-260325-55D8` Before starting any experiment, plan what you will do if it fails and how to minimize downside — this is more valuable than optimizing for the upside scenario.
-- `INS-260330-A44F` Each power increase was accompanied by proportional safety upgrades: shields, kill switches, stronger mounting — scaling protection with capability.
 - `INS-260329-8E79` Low personal burn rate lets founders fail more times without going broke, increasing their probability of eventual success.
 - `INS-260329-BF96` Avoiding wealth-destroying behaviors compounds faster than seeking wealth-creating ones.
 - `INS-260329-6130` Low personal expenses buy you more shots on goal by letting you survive multiple business failures.

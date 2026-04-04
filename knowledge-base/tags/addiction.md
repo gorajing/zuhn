@@ -3,13 +3,13 @@
 - `INS-260327-FD92` Acupressure on specific points combined with deep breathing can interrupt addictive impulses within 60 seconds
 - `INS-260327-E6FE` Addiction recovery requires dopamine receptor upregulation through extended abstinence and nutrient support
 - `INS-260327-7099` Despite nicotine occurring naturally in the body as a neurotransmitter, exogenous nicotine via pouches raises blood pressure, increases heart rate, and is highly addictive.
+- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260403-C512` Rules-based approaches to distraction fail because the addictive part of your brain finds plausible exceptions; adversarial design works better.
 - `INS-260330-81B1` Johnson's pilot study showed 80% smoking cessation at 6 months with psilocybin therapy versus 25-35% for the best existing treatments.
 - `INS-260403-A22E` It took roughly 100 years for society to develop customs against cigarettes, but new addictive technologies now emerge every few years.
 - `INS-260403-E652` Technology inherently makes things more addictive by concentrating the desirable properties of their predecessors.
 - `INS-260403-D467` Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
 - `INS-260330-17C3` Romantic love elevates dopamine (the same reward pathway as cocaine addiction) and alters serotonin in patterns matching OCD, producing obsessive rumination and addictive attachment.
-- `INS-260325-085E` Addiction is dopamine receptor downregulation — dopamine fasting (abstinence periods) restores receptor sensitivity without willpower.
 - `INS-260330-FDA9` Johnson frames all psychiatric disorders as variations of addiction — stuck patterns of thought and behavior that differ only in target.
 - `INS-260330-8646` Dr. Johnson frames all psychiatric disorders as variations of narrowed mental repertoire, unifying depression, anxiety, OCD, and addiction under one mechanistic umbrella.
 - `INS-260330-CF99` Johnson frames all psychiatric disorders as narrowed reality tunnels — addiction to substances, thoughts, or self-narratives — that psychedelics can blast open.

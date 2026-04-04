@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3482 insights across 35 topics
+> 3485 insights across 35 topics
 
 ## Topics
 
@@ -16,9 +16,9 @@
 | content-strategy | 36 | Rogan gained 2 million subscribers during his cancellation attempt because the coordinated media attack inadvertently proved his independence from institutional control. |
 | developer-tools | 9 | Svelte and Solid compile components into direct DOM manipulation code, eliminating the virtual DOM runtime entirely and achieving top benchmark scores with smaller bundle sizes. |
 | engineering | 39 | Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters. |
-| execution | 223 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
+| execution | 224 | Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter. |
 | founder-mindset | 310 | During a crisis, the false but simple narrative ('Robinhood colluded with hedge funds') will always defeat the true but complex explanation (clearing mechanics, Dodd-Frank, collateral requirements). |
-| founder-psychology | 55 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
+| founder-psychology | 56 | Systrom tolerated years of small Facebook interferences but resigned when Zuckerberg throttled team growth and began treating Instagram as subordinate to Facebook's interests. |
 | fundraising | 261 | Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead. |
 | growth | 68 | Growth is the gap between conversion and churn; a 1% churn reduction has the same growth effect as 1% conversion increase but costs far less to achieve. |
 | growth-marketing | 128 | Channels with 3,000-5,000 subscribers are hitting 2-3 million views by applying proven formats to underserved markets — subscriber count doesn't determine reach when format-market fit is strong. |
@@ -35,7 +35,7 @@
 | product | 11 | Treating aid recipients as product users with real feedback loops produces dramatically better outcomes than top-down charity models. |
 | product-development | 142 | Apple's 48-hour design review rhythm forced constant refinement that produced best-in-class products. |
 | product-strategy | 53 | Apple's acquisition pattern — Authentec for Touch ID, Siri for voice, NeXT for Jobs — shows that buying capabilities yields higher returns than buying businesses. |
-| quality | 13 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
+| quality | 14 | Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone. |
 | sales | 179 | Reach out to 100 people per day from your existing network — at standard conversion rates, this reliably produces your first paying customers within days. |
 | scaling | 149 | Junior engineering jobs aren't coming back—three forces converged to eliminate them permanently. |
 | strategy | 235 | The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples. |

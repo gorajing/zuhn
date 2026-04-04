@@ -45,16 +45,15 @@ stance: >-
   encounters a fundamental limit: the tool of investigation (awareness) is the
   same as the subject being investigated, creating an irreducible circularity.
 related:
-  - INS-260323-DE7F
   - INS-260323-0897
   - INS-260326-E5D3
   - INS-260327-D212
   - INS-260330-2E54
+  - INS-260323-DE7F
   - INS-260327-1313
   - INS-260327-12B5
   - INS-260330-5F9E
   - INS-260330-4D81
-  - INS-260330-C7B5
 evidence:
   - id: INS-260326-E5D3
     type: SUPPORTS

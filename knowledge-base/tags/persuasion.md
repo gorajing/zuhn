@@ -31,6 +31,7 @@
 - `INS-260403-2F4E` Never say 'we're passionate' or 'our product is great' — these trigger instant credibility discounting.
 - `INS-260403-1E82` Never declare your own passion or product quality — audiences either ignore explicit self-praise or actively penalize it.
 - `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
+- `INS-260404-9C25` Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260330-4E09` Building up your opponent's best case before responding protects you from being blindsided by stronger versions of their argument later.
 - `INS-260330-E3D3` Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.

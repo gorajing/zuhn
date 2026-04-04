@@ -17,11 +17,11 @@
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
 - `INS-260330-90C3` Jho Low's fake credentials compounded — each lie made the next one easier because people used prior signals as validation.
 - `INS-260330-E794` Early network advantages compound nonlinearly through preferential attachment, making initial network-selection moments disproportionately consequential.
+- `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
 - `INS-260403-2949` Curiosity uniquely compounds — satisfying it generates more questions rather than satiation.
 - `INS-260329-F9CD` Not knowing what you don't know is the most expensive form of debt because it silently compounds through repeated mistakes.
 - `INS-260329-49E6` Not knowing how to make a million dollars costs you $950K per year if you earn $50K — and that debt recurs every year until you learn.
 - `INS-260402-4BC7` Learning compounds on itself, and nearly every form of exponential growth is either learning or deeply intertwined with it.
-- `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
 - `INS-260329-27A3` Learning concepts layered on top of each other in context transfers better than learning them in isolation.
 - `INS-260323-0780` The 'law of stability' in the primordial void: unstable configurations fall apart and vanish while stable ones endure long enough to combine into increasingly complex structures.
 - `INS-260329-B8B6` The chain rule states that when y depends on u which depends on x, the rate dy/dx equals dy/du times du/dx — rates of change through composed systems multiply, they don't add.
@@ -60,9 +60,6 @@
 - `INS-260323-422B` The Barber & Odean study of 66,000 investors showed the most active traders underperformed the market by 7%/year while the least active performed best — jumping between opportunities destroys the compounding that builds wealth.
 - `INS-260329-6FAC` Write a contract to yourself committing to 10 years of compounding, which shifts behavior from short-term speculation to reasonable bets that inevitably compound.
 - `INS-260329-8542` Writing yourself a 10-year contract to add 1-2 zeros to your net worth transforms your decision-making from gambling to inevitable compounding.
-- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
-- `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
-- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260404-7C79` Halving revenue on a 5%-weekly growth curve only puts you 15 weeks behind, regardless of how long you run.
 - `INS-260404-9BC6` In startups with superlinear growth, increasing growth rate by even 1% per week vastly outperforms doubling revenue extraction.
 - `INS-260330-A949` If growth rate is strong, absolute numbers will take care of themselves — stop stressing about how small you currently are.
@@ -75,6 +72,9 @@
 - `INS-260402-3F92` A company growing 1% weekly reaches 1.7x/year; at 5% weekly it reaches 12.6x/year — human intuition dramatically underestimates this divergence.
 - `INS-260403-07D2` The Calvin Cycle produces 6 G3P molecules but must recycle 5 to regenerate starting materials, netting only 1 for actual plant growth.
 - `INS-260403-458A` Time to $1B revenue compressed from 45 years (IBM) to 7-8 years for modern companies, creating a double effect on founder wealth.
+- `INS-260329-CB2C` Prioritize building audience goodwill over immediate monetization because it compounds faster and converts to money on your timeline.
+- `INS-260329-CCC4` Two businesses with 300 customers have radically different trajectories — one with 100% churn needs ever-increasing acquisition, while one with 100% retention grows automatically.
+- `INS-260403-98E1` Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - `INS-260403-1904` Investing well in a few startups and genuinely helping them creates a chain reaction of increasingly high-quality referrals.
 - `INS-260322-AD9B` It IS faster to do it yourself the first time — but accepting that upfront cost is the only path to compounding leverage.
 - `INS-260330-930D` Apple's dismissal of India as low-revenue ignores that competitors are building ecosystem lock-in with hundreds of millions of users who will be difficult to convert later.

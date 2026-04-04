@@ -1,6 +1,6 @@
 # Topic: execution
 
-> 223 insights
+> 224 insights
 
 - `INS-260329-FCF2` [high] Doing 10-100x more volume beats 2x optimization, but you must relearn this lesson independently in each new domain you enter.
 - `INS-260403-FED1` [high] YC's batch funding model — its most important innovation — was adopted not strategically but because a summer program seemed like the fastest way to learn angel investing.
@@ -58,6 +58,7 @@
 - `INS-260330-49C8` [high] DoorDash founders personally delivering food, dispatching drivers, and handling support gave them the domain expertise to design their dispatch algorithm and customer experience — manual work is competitive intelligence, not just bootstrapping.
 - `INS-260330-7CC0` [high] Manually doing every job in your startup — delivery, support, dispatch — gives founders the operational insight needed to build the right automated systems later.
 - `INS-260330-5036` [high] Understanding your users deeply matters far more than knowing startup mechanics like fundraising or growth hacking.
+- `INS-260404-0427` [high] A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260330-C33B` [high] Don't just push harder — also remove friction on the other side of the equation.
 - `INS-260403-3835` [high] Startups peak in productivity when founders are uninterrupted, and hiring can destroy this by imposing an interrupt-driven culture.
 - `INS-260329-FCE6` [high] Automate money flowing toward investments and add friction to every spending pathway.

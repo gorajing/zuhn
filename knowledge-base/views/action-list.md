@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3818 actionable insights
+Generated on 2026-04-04 | 3824 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1146,6 +1146,8 @@ Generated on 2026-04-04 | 3818 actionable insights
 - [INS-260404-7C3F] Keeping your identity small — refusing to label yourself as an X or Y person — preserves your ability to think clearly across more domains.
 - [INS-260404-1289] When receiving advice, people either evaluate it with fresh eyes and give logical reasons for disagreement, or unconsciously munge it to fit pre-existing decisions.
 - [INS-260404-C497] Temperature-dependent sensors measuring the speed of light produced a fake diurnal cycle because the lab was outdoors.
+- [INS-260404-A246] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
+- [INS-260404-6C8F] A 4%+ fatal error rate makes philosophical arguments for or against the death penalty moot — the implementation failure dominates.
 
 ## psychology/expertise
 - [INS-260330-C7B5] Making a tool part of your identity makes you worse at evaluating alternatives.
@@ -1679,6 +1681,7 @@ Generated on 2026-04-04 | 3818 actionable insights
 - [INS-260404-86CF] ATP Synthase works not because protons have energy, but because there are more protons on one side than the other — the gradient does the work.
 - [INS-260404-EBB3] When audiences can't evaluate your technical work, your own visible confidence becomes their strongest evidence of quality — but it must be shown, never stated.
 - [INS-260404-3D8F] Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
+- [INS-260404-9C25] Graham doesn't argue for or against the death penalty on conventional grounds — he reframes the entire debate from philosophy to error rates.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2450,6 +2453,7 @@ Generated on 2026-04-04 | 3818 actionable insights
 - [INS-260403-B4B9] Use your business model as the starting point for defining what to measure, not generic KPIs.
 - [INS-260404-CF81] Use team alignment tools to ensure everyone is coordinated on commitments and responsibilities during the testing and iteration phase.
 - [INS-260404-8C42] YC speakers independently and consistently advise the same things: launch fast, listen to users, iterate — suggesting these are empirical truths about startup success.
+- [INS-260404-0427] A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 
 ## startups/founder-mindset
 - [INS-260320-F751] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
@@ -2672,6 +2676,7 @@ Generated on 2026-04-04 | 3818 actionable insights
 - [INS-260403-E365] Work on ambitious projects you genuinely enjoy, and the right things will naturally get left undone.
 - [INS-260403-DAB1] Calling someone a fraud is the diagnostic marker of a hater — it's the only way to reconcile acknowledged fame with the conviction that the person has no talent.
 - [INS-260403-D833] Fighting forces your brain into trick-finding mode instead of big-idea mode, making meanness a direct cognitive handicap for founders.
+- [INS-260404-924C] Founders confuse their inability to think of alternative names with the belief that no better alternatives exist.
 
 ## startups/fundraising
 - [INS-260322-A02C] At pre-seed and seed stage, investors and early customers are betting on the founder's story and character, not the product.
@@ -3516,6 +3521,7 @@ Generated on 2026-04-04 | 3818 actionable insights
 - [INS-260403-AC03] Slow, careful software development merely produces a polished version of your first wrong idea.
 - [INS-260403-8BA2] You don't need total consensus on rankings to have meaningful quality standards — a partial order where great is distinguishable from mediocre is enough.
 - [INS-260404-E8B2] Fewer components means fewer connections between them, and connection-count is where bugs actually live.
+- [INS-260404-67C5] Multiple checkpoints (police, prosecutors, defense, jury) all biased toward conviction means zero effective error correction.
 
 ## startups/sales
 - [INS-260327-7A44] The moment a customer has their first 'wow' result -- first milestone hit, first successful implementation, first measurable outcome -- immediately ask: 'Is there one or two people just like you that we could help?'

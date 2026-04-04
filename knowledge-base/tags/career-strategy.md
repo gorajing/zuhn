@@ -6,8 +6,8 @@
 - `INS-260403-803A` When unsure what to do, choose options that keep the most future doors open rather than optimizing for any single outcome.
 - `INS-260330-2355` Harvard Business School's largest graduating cohorts systematically chase the last wave — junk bonds in 1989, tech in 1999, housing in 2006 — because competition feels like validation.
 - `INS-260330-0D11` Harvard Business School's largest cohort systematically catches the last wave (junk bonds in 1989, dotcom in 1999, housing in 2007) because extroverted, low-conviction people in a hot-house environment use peer behavior as their signal for value.
-- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.
+- `INS-260403-C135` Specific knowledge is found by looking backward at what you've already done, not forward at what you plan to learn.
 - `INS-260329-C66E` Passion is a byproduct of getting good at something, not the prerequisite for starting.
 - `INS-260329-04CB` Choosing the right industry produces 3-5x more earnings impact than choosing the right school or major.
 - `INS-260329-DDBC` Combining multiple top-20% skills creates rarer and more valuable professional profiles than deep specialization alone.

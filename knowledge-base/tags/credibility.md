@@ -35,6 +35,7 @@
 - `INS-260325-59D4` Suppression creates an inference: if the idea were not dangerous to the powerful, they would not bother censoring it — making the forbidden idea seem more credible.
 - `INS-260329-DC86` Imperfect ratings with high volume signal authenticity and outperform perfect scores with low volume in building trust.
 - `INS-260402-0A49` Centivax deliberately proved their universal vaccine beat commercial vaccines even against the outdated guidance strains those vaccines were specifically designed for.
+- `INS-260404-0427` A startup's .com domain matters more as a strength signal than as a way for users to find the company.
 - `INS-260403-481F` Talk about the problem you're solving, not your revenue guesses — investors expect your business model to be wrong at this stage.
 - `INS-260403-24F0` Never say 'we're passionate' or 'our product is great'—investors ignore or penalize explicit self-promotion, responding only to demonstrated conviction.
 - `INS-260403-ED1F` Investors ignore or penalize direct claims of passion and quality—confidence must be demonstrated through how you present, not what you say about yourself.

@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 55 insights
+> 56 insights
 
 - `INS-260323-9C11` [high] Early hardship — while not required for success — instills an unshakeable belief that solutions exist and are within your control.
 - `INS-260328-91A1` [high] We are so early in AI adoption that freezing all model development today would still yield massive business improvements for years -- current tools are dramatically under-deployed.
@@ -13,6 +13,7 @@
 - `INS-260325-887D` [high] The three failure responses are forgive-and-forget (no learning), blame-and-humiliate (no honesty), and forgive-and-remember (learning happens) — only the third works.
 - `INS-260330-5EB6` [high] Paul Graham found no correlation between founder confidence at YC admission and which startups became stars.
 - `INS-260330-9933` [high] Brian Acton left $850M on the table to escape Facebook's monetization of WhatsApp, then funded Signal to rebuild what WhatsApp was supposed to be — illustrating that values misalignment in acquisitions always surfaces.
+- `INS-260404-924C` [high] Founders confuse their inability to think of alternative names with the belief that no better alternatives exist.
 - `INS-260323-81F5` [high] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
 - `INS-260323-0C3A` [high] Confidence is necessary to start a business, but owners who think they can do it all and know it all fail at much higher rates than those who hire or retain experts in their blind spots.
 - `INS-260402-4B96` [high] Startups are where gaming the system stops working because users only care if your product solves their problem.

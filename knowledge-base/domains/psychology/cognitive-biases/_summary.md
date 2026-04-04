@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 268 insights
+> 270 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -31,6 +31,7 @@
 - `INS-260330-09AD` [high] Harvard Business School's largest graduating cohort systematically catches the last wave — junk bonds before Milken's arrest, tech at the dot-com peak, housing before 2008 — because extroverted, low-conviction people use competition as a proxy for value.
 - `INS-260330-0BD3` [high] If someone claims they were too incompetent to prevent fraud, but built 50+ subsidiaries and one-way information walls, the complexity itself is evidence of deliberate design.
 - `INS-260330-CA8E` [high] Knowing the math behind G-forces did not prepare Destin for the physical reality of 7G in an F-16.
+- `INS-260404-DA41` [high] Confirmation bias across multiple actors in the justice system compounds into a reliable wrongful conviction pipeline.
 - `INS-260403-8D87` [high] Design every experiment with a clear falsification criterion — define what failure looks like before you run the test.
 - `INS-260325-F2ED` [high] Kontorovich spent 20 years trying to prove Collatz true before realizing he should also search for counterexamples — a structural bias present in most research.
 - `INS-260330-0AE2` [high] Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
@@ -75,6 +76,7 @@
 - `INS-260322-38D8` [high] Our meaning-creation ability is so powerful that it generates false positives constantly — we see meaningful patterns in noise because meaning-making is our default mode, not an opt-in process.
 - `INS-260403-D33B` [high] Whether innate or learned, human expectations about variation cannot accommodate the 1000x outcome differences found in startup investing.
 - `INS-260330-41A5` [high] People instinctively project linear trends even when told growth is exponential, because ancestral environments rarely produced compounding phenomena.
+- `INS-260404-8F62` [high] Attachment to things that become part of your identity manifests as fabricated beliefs about their intrinsic superiority.
 - `INS-260404-CE92` [high] When a topic becomes part of someone's identity, they become constitutionally incapable of reasoning about it clearly.
 - `INS-260330-2EC6` [high] Ross went from libertarian idealist growing mushrooms to approving weapons sales, body parts listings, and commissioning hits — each step rationalized as defending the 'free market' philosophy he started with.
 - `INS-260330-99D1` [high] Scientists funded by the Ethyl Corporation claimed lead was 'a natural part of our environment' — a claim Clair Patterson demolished by measuring ocean lead at different depths and comparing modern bones to ancient mummies.

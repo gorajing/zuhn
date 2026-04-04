@@ -808,6 +808,7 @@ Generated on 2026-04-04 | 2421 sources
 | You’ve probably met a psychopath and didn’t know it | Abigail Marsh | youtube | 5 | 2026-03-25 |
 | Yuval Noah Harari: Free Speech, Institutional Distrust, & Social Order | Making Sense #386 | youtube | 5 | 2026-03-30 |
 | 10 Characteristics of Great Value Propositions | blog | 4 | 2026-03-31 |
+| $1,000 Head Start For America's Youth | blog | 4 | 2026-03-30 |
 | 13 Traps That Can Render Your Market Research Irrelevant | blog | 4 | 2026-03-31 |
 | 14 Ways to Apply the Business Model Canvas | blog | 4 | 2026-03-31 |
 | 15 Years, No IPO: Red Flag or Smart Startup Strategy? | blog | 4 | 2026-03-30 |
@@ -885,6 +886,7 @@ Generated on 2026-04-04 | 2421 sources
 | Business Model Portfolio Part 3: The Business Portfolio Map | blog | 4 | 2026-03-31 |
 | Business Strategy: The Business Model Patterns | blog | 4 | 2026-03-31 |
 | Can You Buy a Silicon Valley? Maybe. | blog | 4 | 2026-03-31 |
+| Change Your Name | blog | 4 | 2026-03-31 |
 | China is killing the fish | blog | 4 | 2026-03-30 |
 | Could VC be a Casualty of the Recession? | blog | 4 | 2026-03-31 |
 | Crazy New Ideas | blog | 4 | 2026-03-31 |
@@ -965,6 +967,7 @@ Generated on 2026-04-04 | 2421 sources
 | Mean People Fail | blog | 4 | 2026-03-31 |
 | Median Round Sizes📈, YC's Latest Batch🤖, The Perfect Pitch Deck🎯 | blog | 4 | 2026-03-30 |
 | Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 4 | 2026-03-30 |
+| Multi-Product In Pictures | blog | 4 | 2026-03-30 |
 | Neuralink's 21 Telepathy Trials in 2 Years | blog | 4 | 2026-03-30 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 4 | 2026-03-30 |
@@ -1037,6 +1040,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Race for AI Supremacy is Over🏁, State of VC and Its Impact on DPI📉, SaaS VC Trends☁️ | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 4 | 2026-03-30 |
+| The Real Reason to End the Death Penalty | blog | 4 | 2026-03-31 |
 | The Reddits | blog | 4 | 2026-03-31 |
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 4 | 2026-03-30 |
@@ -1997,7 +2001,6 @@ Generated on 2026-04-04 | 2421 sources
 | 10 Essential Links For Testing Your Value Proposition & Business Models | blog | 0 | 2026-03-31 |
 | 10 lessons on bootstrapping a $200m business | Patrick Campbell (ProfitWell) | blog | 0 | 2026-03-31 |
 | 100 AI Agent Ideas to Build in 2026 (Complete List + Tools) | blog | 0 | 2026-03-30 |
-| $1,000 Head Start For America's Youth | blog | 0 | 2026-03-30 |
 | 118 AI Communication Agent Use Cases: Transform Your Business Today 🤖 💬 | blog | 0 | 2026-03-30 |
 | 121 Startups Fundraising Right Now (With Pitch Decks) | Exclusive Deal Flow for 2025 | blog | 0 | 2026-03-30 |
 | 13 Essential Strategyzer Links On Organizational Culture | blog | 0 | 2026-03-31 |
@@ -2123,7 +2126,6 @@ Generated on 2026-04-04 | 2421 sources
 | Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
-| Change Your Name | blog | 0 | 2026-03-31 |
 | China is quietly looking weaker | blog | 0 | 2026-03-30 |
 | China's Startup Scene📉, Illiquidity is a Feature💡, Scaling SaaS💻 | blog | 0 | 2026-03-30 |
 | Choosing The Final Frontier: Launching a Rocket Company with Andy Lapsa of Stoke Space | blog | 0 | 2026-03-31 |
@@ -2256,7 +2258,6 @@ Generated on 2026-04-04 | 2421 sources
 | Meta’s Multi-Billion, Multi-Year Nvidia Partnership | blog | 0 | 2026-03-30 |
 | Modeling a Wealth Tax | blog | 0 | 2026-03-31 |
 | Monzo hits $5bn valuation 🚀, A Guide to Founder Salary 💵, Entrepreneurship in Africa 💡, & more! | blog | 0 | 2026-03-30 |
-| Multi-Product In Pictures | blog | 0 | 2026-03-30 |
 | MVP Mastery: The Key to Building What Matters 📈 | blog | 0 | 2026-03-30 |
 | Novelty and Heresy | blog | 0 | 2026-03-31 |
 | NVIDIA and the $1T AI Buildout for the Agent Era | blog | 0 | 2026-03-30 |
@@ -2335,7 +2336,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |
-| The Real Reason to End the Death Penalty | blog | 0 | 2026-03-31 |
 | The Rise of the AI Underground | blog | 0 | 2026-03-31 |
 | The Risk of Discovery | blog | 0 | 2026-03-31 |
 | The Ronco Principle | blog | 0 | 2026-03-31 |

@@ -4,6 +4,7 @@
 - `INS-260403-D467` Self-selected time-wasters survive precisely because they're expert at defeating your own defenses.
 - `INS-260403-B9E5` Prestige biases your perception of your own interests, making you pursue what you'd like to like rather than what you actually like.
 - `INS-260330-0AE2` Serendipitous discoveries are purer than confirmatory ones because surprise naturally triggers deeper scrutiny.
+- `INS-260404-8F62` Attachment to things that become part of your identity manifests as fabricated beliefs about their intrinsic superiority.
 - `INS-260330-712D` When excited about a new trend, ruthlessly separate the real value proposition from the fantasies you're projecting onto it.
 - `INS-260402-F04F` People prefer to believe in innate genius because it absolves them of the responsibility to try harder.
 - `INS-260327-71A5` Put in a trolley problem, most people discover their actual moral intuitions dramatically contradict their stated moral principles - everyone is a worse person than they believe.

@@ -50,7 +50,7 @@ related:
   - INS-260330-059C
   - INS-260330-F258
   - INS-260403-F8AE
-  - PRI-260328-C006
+  - INS-260404-67C5
 stance: >-
   Flock Safety's AI-matched license plate system has facilitated about 1 million
   arrests of the correct person, shifting policing from subjective pro...
