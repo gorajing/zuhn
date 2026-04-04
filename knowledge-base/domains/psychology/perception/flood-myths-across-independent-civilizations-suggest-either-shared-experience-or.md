@@ -54,9 +54,9 @@ stance: >-
 related:
   - INS-260327-B37E
   - INS-260403-87BE
+  - INS-260403-91DB
   - INS-260330-420B
   - INS-260323-C10D
-  - INS-260325-793A
 evidence:
   - id: INS-260323-C10D
     type: TRANSFERS_TO

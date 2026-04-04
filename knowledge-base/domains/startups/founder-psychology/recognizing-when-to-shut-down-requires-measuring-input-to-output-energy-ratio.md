@@ -1,0 +1,67 @@
+---
+id: INS-260403-0992
+domain: startups
+topic: founder-psychology
+title: Recognizing when to shut down requires measuring input-to-output energy ratio
+actionability: immediate
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - founder-psychology
+  - shutdown-decision
+  - energy-management
+  - artifact
+sources:
+  - type: blog
+    title: >-
+      Anthropic’s CPO on what comes next | Mike Krieger (co-founder of
+      Instagram)
+    author:
+      - '@type': Person
+        name: Lenny Rachitsky
+        url: 'https://substack.com/@lenny'
+        description: Writing • Angel investing • Advising
+        identifier: 'user:1849774'
+        sameAs:
+          - 'https://twitter.com/lennysan'
+        image:
+          '@type': ImageObject
+          contentUrl: >-
+            https://substackcdn.com/image/fetch/$s_!-SHe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+          thumbnailUrl: >-
+            https://substackcdn.com/image/fetch/$s_!-SHe!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png
+    url: 'https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next'
+date_extracted: '2026-04-03'
+last_accessed: null
+access_count: 0
+indexed: false
+embedded: false
+resolutions:
+  one_line: >-
+    The ratio of effort invested to progress generated is the clearest signal
+    for whether a startup should continue or shut down.
+  standard: >-
+    Krieger shut down Artifact despite loving the product because the
+    input-to-output ratio had become unsustainable — 10 units of input for every
+    1 unit of output. The specific failure modes were structural: mobile web is
+    broken for content distribution, news doesn't spread virally, and remote
+    work made the rapid pivoting needed to find product-market fit nearly
+    impossible.
+
+
+    This framing is more useful than traditional metrics like runway or growth
+    rate because it captures the founder's lived experience of whether the
+    venture is amplifying or destroying their energy. A company can have runway
+    remaining and still be dead if the team's energy is being consumed without
+    proportional output. Krieger's lesson: sometimes the most impactful thing
+    you can do is shut down and free everyone — including yourself — for work
+    where the energy-to-impact ratio is favorable.
+stance: >-
+  When a startup requires 10 units of effort for every 1 unit of output, the
+  founder's energy is being destroyed rather than amplified, and shutting down
+  frees everyone for higher-impact work
+---
+Krieger shut down Artifact despite loving the product because the input-to-output ratio had become unsustainable — 10 units of input for every 1 unit of output. The specific failure modes were structural: mobile web is broken for content distribution, news doesn't spread virally, and remote work made the rapid pivoting needed to find product-market fit nearly impossible.
+
+This framing is more useful than traditional metrics like runway or growth rate because it captures the founder's lived experience of whether the venture is amplifying or destroying their energy. A company can have runway remaining and still be dead if the team's energy is being consumed without proportional output. Krieger's lesson: sometimes the most impactful thing you can do is shut down and free everyone — including yourself — for work where the energy-to-impact ratio is favorable.

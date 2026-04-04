@@ -56,11 +56,11 @@ stance: >-
   downstream ecosystems becomes irreplaceable regardless of its objective
   quality
 related:
+  - INS-260403-BA93
   - INS-260330-09DE
   - INS-260330-8D99
   - INS-260330-9A60
   - INS-260330-39B0
-  - INS-260403-DC6C
 evidence:
   - id: INS-260330-09DE
     type: EXTENDS

@@ -49,7 +49,6 @@ stance: >-
   self-reinforcing loyalty loop that margin-dependent competitors cannot
   replicate
 related:
-  - INS-260327-2B62
   - INS-260327-50CE
   - INS-260403-C4DF
   - INS-260403-B2CB
@@ -57,8 +56,9 @@ related:
   - INS-260403-3F5F
   - INS-260403-1C25
   - INS-260403-BF47
+  - INS-260403-CED6
   - INS-260403-F634
-  - INS-260403-CDB9
+  - INS-260403-59F8
 ---
 Costco generates 75% of its profits from membership fees, not product markups. This fundamentally changes the company's incentive structure: raising prices would gain pennies today but risk losing $60-120 annual renewals. The self-imposed 15% maximum markup (vs Walmart's 24% or Home Depot's 35%) isn't charity—it's rational profit maximization through a different mechanism.
 

@@ -1,5 +1,6 @@
 # Tag: presentation
 
+- `INS-260403-2F86` Never explicitly claim passion or quality — audiences ignore or penalize it; let conviction emerge from how you present substance.
 - `INS-260403-1A71` In time-constrained, expertise-asymmetric settings, demonstrated confidence in your work outweighs almost every other signal.
 - `INS-260403-B216` Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
 - `INS-260403-1B2D` Never say 'we're passionate' — demonstrate conviction through how you present, not what you claim.

@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 29 insights
+> 30 insights
 
 - `INS-260403-7586` [high] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - `INS-260403-4363` [high] When evaluators can't assess substance directly, the presenter's implicit confidence becomes their primary evidence for quality.
@@ -30,4 +30,5 @@
 - `INS-260403-3D61` [medium] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 - `INS-260330-FAB4` [medium] As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
 - `INS-260403-0949` [medium] Speaking excels at motivation and emotional impact, not at conveying complex ideas — choose your communication medium accordingly.
+- `INS-260403-5CA6` [medium] Have one person talk while another operates the computer — splitting both roles causes you to mumble at your screen and lose the audience.
 - `INS-260403-9669` [low] Daniel Dennett argues that qualia seem private and ineffable due to language failure, not because they are inherently unshareable.

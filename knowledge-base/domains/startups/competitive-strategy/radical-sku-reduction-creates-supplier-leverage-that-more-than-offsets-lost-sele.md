@@ -49,12 +49,12 @@ stance: >-
   negotiating power because suppliers compete intensely for monopoly shelf
   placement
 related:
+  - INS-260403-180D
   - INS-260403-887A
   - INS-260403-E981
   - INS-260403-6670
   - INS-260403-36D8
   - INS-260403-E143
-  - INS-260403-5BAC
   - INS-260403-5BBC
   - INS-260403-83A8
 ---

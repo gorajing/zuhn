@@ -53,11 +53,11 @@ stance: >-
   rate-limiting for ATP production
 related:
   - INS-260325-A003
+  - INS-260403-B6E6
   - INS-260330-3082
   - INS-260330-21A8
   - INS-260330-8C6A
   - INS-260330-99CE
-  - INS-260330-2C71
 evidence:
   - id: INS-260330-21A8
     type: EXTENDS

@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 478 insights
+> 481 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -140,6 +140,7 @@
 - `INS-260329-DF50` [high] In HFT, the first system to react to market data captures the opportunity — everyone else follows with nothing left to take.
 - `INS-260327-FD18` [high] Let someone else prove the market exists and accumulate technical debt—then enter with a better product.
 - `INS-260403-3307` [high] Photosynthesis is inefficient and confusing but dominates Earth's energy economy because nothing could displace an entrenched global ecosystem.
+- `INS-260403-BA93` [high] Photosynthesis is complicated, inefficient, and confusing—yet it powers virtually all life because it got there first.
 - `INS-260330-39B0` [high] Photosynthesis is explicitly inefficient and complicated, yet it powered the organism that became the dominant life form on Earth by being first and scaling massively.
 - `INS-260330-9A60` [high] Photosynthesis is explicitly described as 'complicated, inefficient and confusing' yet powers virtually all life because it achieved ecosystem lock-in 450 million years ago.
 - `INS-260403-962E` [high] RuBisCo is mediocre but has dominated carbon fixation for 3+ billion years because the entire biosphere was built on top of it.
@@ -307,6 +308,7 @@
 - `INS-260403-E143` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which gives it enormous leverage because suppliers compete fiercely for the one or two slots available.
 - `INS-260403-E981` [high] Costco stocks only 4,000 items vs 140,000 at Walmart, making each slot so valuable that suppliers will reengineer products and cut prices to win it.
 - `INS-260403-115B` [high] Costco stocks ~4,000 SKUs vs. Walmart's 140,000, making brands compete fiercely for limited shelf space and accepting lower margins to win placement.
+- `INS-260403-180D` [high] Costco stocks 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers compete on price and adapt products to Costco's specifications.
 - `INS-260403-36D8` [high] Costco stocks only ~4,000 SKUs versus Walmart's 140,000, which makes being one of Costco's chosen brands so valuable that suppliers slash prices and customize products to win placement.
 - `INS-260403-5BBC` [high] Costco's 4,000 SKUs vs Walmart's 140,000 concentrates purchasing volume per item, giving it extreme supplier leverage that funds its low-price model.
 - `INS-260403-89B5` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers cut prices and customize packaging to win placement.
@@ -322,6 +324,7 @@
 - `INS-260403-3C9D` [high] LVMH's free sanitizer from perfume factories bought permanent brand reclassification as a socially responsible corporation.
 - `INS-260330-3274` [high] Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
 - `INS-260327-9CB1` [high] Restaurants that design menus and presentations for Instagram shareability optimize for first-visit spectacle at the exp
+- `INS-260403-91DB` [high] Sears, Toys-R-Us, and J.C. Penney died from their own failures to adapt, while Costco, Aldi, and Dollar General thrived in the same environment.
 - `INS-260327-7BB5` [high] GameStop core business was dead the moment digital distribution became viable because no amount of operational excellenc
 - `INS-260324-6A99` [high] Nike and Adidas hit record revenue at the peak of the sneaker resale boom, but revenue is a lagging indicator — by the time sales peaked, consumer demand had already shifted and the crash was inevitable.
 - `INS-260327-FAD7` [high] During the sneaker bubble, shoes flew off shelves without discounts, anyone could flip pairs for thousands, and shops opened everywhere -- when the market crashed, most stores went bankrupt because revenue had masked the absence of any real expertise or moat.

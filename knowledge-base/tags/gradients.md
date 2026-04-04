@@ -22,6 +22,7 @@
 - `INS-260403-0429` Photosynthesis stores energy by pumping protons across a membrane to create a gradient — the same principle applies to information asymmetry, skill gaps, and market inefficiencies.
 - `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
 - `INS-260403-A0C5` Photosynthesis charges thylakoids like batteries by pumping protons to one side — any system that creates deliberate imbalance stores potential energy for later use.
+- `INS-260403-B6E6` Thylakoids are charged like batteries by pumping protons to one side, then releasing them through ATP synthase to produce energy—imbalance is the engine.
 - `INS-260330-C729` Thylakoids store energy by pumping protons across a membrane, creating a gradient that ATP synthase harvests — the same principle as a hydroelectric dam.
 - `INS-260330-D17A` Near a black hole singularity, it's not the strength of gravity that kills you but the difference in gravitational pull between your head and feet — the gradient stretches you apart.
 - `INS-260330-21A8` Thylakoid membranes store energy by pumping protons to create concentration gradients that drive ATP synthase, functioning like a rechargeable battery.

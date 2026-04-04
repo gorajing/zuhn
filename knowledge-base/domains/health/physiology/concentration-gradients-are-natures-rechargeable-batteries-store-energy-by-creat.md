@@ -54,10 +54,10 @@ stance: >-
 related:
   - INS-260330-C456
   - INS-260330-21A8
-  - INS-260330-100F
   - INS-260330-8A2E
   - INS-260330-8C6A
-  - INS-260403-050D
+  - INS-260330-100F
+  - INS-260403-B6E6
 evidence:
   - id: INS-260330-21A8
     type: REFINES

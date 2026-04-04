@@ -59,9 +59,8 @@ stance: >-
 related:
   - INS-260327-E9F3
   - INS-260327-A815
-  - INS-260329-75B6
   - INS-260330-4DBE
   - INS-260330-4AB1
-  - INS-260403-B3A4
+  - INS-260403-FC45
 ---
 Justin Kan dismantles the myth that press happens meritocratically. His tactical framework: (1) Define a specific business goal for coverage — Twitch targeted gaming industry trades to reach developers and advertisers, not mainstream press. (2) Get introduced through entrepreneurs who were recently written about — those founders gain goodwill by feeding reporters new stories, and the transitive trust makes you credible. (3) Invest reporters' time via face-to-face meetings (sunk cost drives follow-through). (4) Prepare by writing out bullet points of your ideal story, memorize them, and structure the conversation around that outline so the reporter's notes naturally become your narrative. (5) Follow up the day before launch with screenshots, correct name spellings, and bolded key facts. This is fundamentally a repeatable sales process, not a creative endeavor. PR firms cost $5-20K/month and can only help with contacts, never with identifying what's interesting about your company.

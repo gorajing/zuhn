@@ -56,6 +56,6 @@ related:
   - INS-260330-D511
   - INS-260403-3058
   - INS-260403-74DB
-  - INS-260403-26D3
+  - INS-260403-BFD1
 ---
 Graham frames the 'soundbite' advice ('the Microsoft Word of ecommerce') as a memorability tactic for standing out among dozens of pitches. But his aside — 'if you can't, your plans may not be sufficiently focused' — reveals a deeper function. The compression exercise forces founders to identify the single most important analogy or value proposition. When it fails, it exposes strategic ambiguity: the startup is trying to be too many things, or the founders haven't identified what makes them distinct. This is an instance of a broader pattern where communication constraints serve as thinking tools — the act of compressing forces clarity that pure internal deliberation doesn't.

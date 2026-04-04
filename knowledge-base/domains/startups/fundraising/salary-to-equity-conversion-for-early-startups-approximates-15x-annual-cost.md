@@ -48,9 +48,9 @@ stance: >-
 related:
   - INS-260403-85DE
   - INS-260330-EBF6
+  - INS-260403-180D
   - INS-260327-2430
   - INS-260330-7346
-  - INS-260330-7E58
 ---
 Graham proposes a heuristic for converting salary into equity-equivalent cost: multiply the annual salary plus overhead by approximately 1.5. The reasoning is that startups either grow fast or die. If you die, you don't pay the person long-term. If you grow fast at roughly 3x per year, next year's salary is paid from next year's (3x higher) valuation, making each subsequent year's salary progressively cheaper in equity terms.
 

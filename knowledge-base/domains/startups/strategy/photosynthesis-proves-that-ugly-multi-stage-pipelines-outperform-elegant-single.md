@@ -54,7 +54,6 @@ stance: >-
   and buffered
 related:
   - INS-260327-1C1B
-  - INS-260330-C456
   - INS-260330-3082
   - INS-260330-1298
   - INS-260330-5C36
@@ -63,6 +62,7 @@ related:
   - INS-260403-6F40
   - INS-260403-AC7A
   - INS-260330-498B
+  - INS-260330-545E
 evidence:
   - id: INS-260330-30FB
     type: SUPPORTS

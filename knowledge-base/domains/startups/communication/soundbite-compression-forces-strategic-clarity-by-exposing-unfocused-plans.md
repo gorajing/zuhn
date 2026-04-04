@@ -52,8 +52,8 @@ related:
   - INS-260403-EF30
   - INS-260403-26D3
   - INS-260403-B3A4
+  - INS-260403-FC45
   - INS-260403-C5D8
-  - INS-260403-74EA
 ---
 Paul Graham recommends creating a sticky descriptive phrase ('the Microsoft Word of ecommerce') and notes this exercise is valuable not just for investor communication but as a diagnostic tool. If you can't compress your startup into one compelling phrase, your plans may not be sufficiently focused. The compression requirement forces you to identify what is truly distinctive.
 

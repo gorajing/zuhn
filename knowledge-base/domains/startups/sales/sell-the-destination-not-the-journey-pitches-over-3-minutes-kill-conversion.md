@@ -43,13 +43,12 @@ stance: >-
   Sales pitches should be under 3 minutes and focus entirely on the outcome
   experience, never on the mechanism or process of delivery.
 related:
-  - INS-260320-080B
   - INS-260327-6AB1
   - INS-260327-C5D9
   - INS-260329-C56D
   - INS-260330-87BD
+  - INS-260403-FC45
   - INS-260403-B3A4
-  - INS-260330-F4DD
 evidence:
   - id: INS-260327-C5D9
     type: CHALLENGES

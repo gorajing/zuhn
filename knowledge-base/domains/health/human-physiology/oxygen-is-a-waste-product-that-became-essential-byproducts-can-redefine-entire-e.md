@@ -54,10 +54,10 @@ related:
   - INS-260330-90B6
   - INS-260403-31AF
   - INS-260403-726B
+  - INS-260403-227B
   - INS-260403-76EE
   - INS-260403-EFE6
   - INS-260403-B4F1
-  - INS-260403-FDD8
 ---
 When Photosystem II splits water to replace a lost electron, it produces hydrogen ions and oxygen as byproducts. The oxygen is useless to the plant. Yet this 'waste' fundamentally transformed Earth's atmosphere, enabled aerobic respiration, and made all animal life possible. The video calls it 'the most useful useless byproduct in history.'
 

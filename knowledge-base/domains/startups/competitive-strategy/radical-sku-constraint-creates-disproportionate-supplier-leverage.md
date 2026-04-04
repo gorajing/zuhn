@@ -51,9 +51,10 @@ related:
   - INS-260403-89B5
   - INS-260403-5BAC
   - INS-260403-36D8
+  - INS-260403-180D
   - INS-260403-E981
-  - INS-260403-6670
   - INS-260403-115B
+  - INS-260403-6670
   - INS-260403-83A8
 ---
 Most retailers pursue breadth—more choices to capture more customer preferences. Costco inverts this by stocking roughly 4,000 items compared to 30,000 at a typical supermarket or 140,000 at Walmart. This artificial scarcity of shelf space makes being one of Costco's one or two choices per category enormously valuable to suppliers, who lower prices and even reengineer products (like redesigning cashew containers to save 24,000 pallets/year) to earn the position.

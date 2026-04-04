@@ -3,10 +3,10 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 214 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 129 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 108 | 2026-03-31 |
-| How to Do Great Work | blog | 55 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 218 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 134 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 113 | 2026-03-31 |
+| How to Do Great Work | blog | 59 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -291,6 +291,7 @@ Generated on 2026-04-04 | 2421 sources
 | America must embrace the Electric Age, or fall behind | blog | 5 | 2026-03-30 |
 | America's chip export controls are working | blog | 5 | 2026-03-30 |
 | An Open Letter To CEOs | blog | 5 | 2026-03-31 |
+| Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram) | blog | 5 | 2026-03-31 |
 | Apple's Mistake | blog | 5 | 2026-03-31 |
 | Are Software Patents Evil? | blog | 5 | 2026-03-31 |
 | Are we in the foothills of World War 3? | blog | 5 | 2026-03-30 |
@@ -1995,7 +1996,6 @@ Generated on 2026-04-04 | 2421 sources
 | Announcing Lenny and Friends Summit 🙌 | blog | 0 | 2026-03-31 |
 | Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann | blog | 0 | 2026-03-31 |
 | Anthropic's 2022 Pitch Deck Leaked (10 Slides → $380B) | blog | 0 | 2026-03-30 |
-| Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram) | blog | 0 | 2026-03-31 |
 | “Anyone can cook”: How v0 is bringing Git workflows to vibe coding | Guillermo Rauch (Vercel CEO) | blog | 0 | 2026-03-31 |
 | Apple Business Model | blog | 0 | 2026-03-31 |
 | Apple Pay: An Obvious Value Proposition | blog | 0 | 2026-03-31 |

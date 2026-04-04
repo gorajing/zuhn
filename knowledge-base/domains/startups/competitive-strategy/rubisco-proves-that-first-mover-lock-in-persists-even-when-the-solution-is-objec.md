@@ -54,13 +54,12 @@ stance: >-
   years.
 related:
   - INS-260330-73F3
+  - INS-260403-3E1C
   - INS-260330-11EB
   - INS-260330-68C8
   - INS-260403-EDA2
   - INS-260330-7B11
-  - INS-260330-6ECA
   - INS-260330-F82A
-  - INS-260330-47CF
 evidence:
   - id: INS-260330-68C8
     type: SUPPORTS

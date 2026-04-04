@@ -51,13 +51,12 @@ stance: >-
   a perfect one, because first-mover volume creates lock-in that makes switching
   costs prohibitive
 related:
-  - INS-260327-8048
   - INS-260330-0E1E
   - INS-260330-8BF6
   - INS-260403-EDA2
   - INS-260403-9442
   - INS-260403-05D8
-  - INS-260330-11EB
+  - INS-260403-3E1C
   - INS-260330-2F74
   - INS-260403-3946
   - INS-260403-C436

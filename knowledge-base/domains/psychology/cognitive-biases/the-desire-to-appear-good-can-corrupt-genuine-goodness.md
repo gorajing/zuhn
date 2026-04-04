@@ -47,11 +47,11 @@ stance: >-
   virtue, corrupting the very concept of ethical behavior.
 related:
   - INS-260325-64FD
+  - INS-260403-2F86
   - INS-260327-3A15
   - PRI-260323-F92B
   - INS-260403-E4C6
   - INS-260403-B505
-  - INS-260327-8521
 evidence:
   - id: INS-260327-8521
     type: TRANSFERS_TO

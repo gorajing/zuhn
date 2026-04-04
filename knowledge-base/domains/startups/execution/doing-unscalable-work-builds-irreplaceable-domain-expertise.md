@@ -50,13 +50,12 @@ stance: >-
   early days develop domain expertise that cannot be acquired through delegation
   or research.
 related:
-  - INS-260321-E5C5
-  - INS-260327-E2BC
   - INS-260327-1393
   - INS-260327-A927
   - INS-260327-1E44
   - INS-260330-C391
   - INS-260330-49C8
+  - INS-260327-E2BC
   - INS-260330-5A0A
   - INS-260322-A892
   - INS-260403-D49E

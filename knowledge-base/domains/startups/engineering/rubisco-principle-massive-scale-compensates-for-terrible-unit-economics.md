@@ -56,7 +56,6 @@ stance: >-
   the underlying mechanism
 related:
   - INS-260330-7B09
-  - INS-260330-E1B3
   - INS-260330-D4CC
   - INS-260330-8B93
   - INS-260330-4489
@@ -65,6 +64,7 @@ related:
   - INS-260403-532D
   - INS-260330-6ECA
   - INS-260403-C514
+  - INS-260403-2CDA
 evidence:
   - id: INS-260330-CC30
     type: SUPPORTS

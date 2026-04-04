@@ -54,6 +54,7 @@ related:
   - INS-260325-36F0
   - INS-260403-21AF
   - INS-260327-112B
+  - INS-260403-5CA6
 ---
 Alison Coward identifies 'production blocking' as the core dysfunction of traditional group discussions: when one person speaks, everyone else must listen, which interrupts their own thought processes and prevents contribution. This is not merely a turn-taking problem — the act of listening actively interferes with idea generation.
 

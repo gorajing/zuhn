@@ -1,6 +1,7 @@
 # Tag: product-discovery
 
 - `INS-260327-89E4` Stop running surveys—face-to-face interviews reveal the real pain points that users can't articulate in forms.
+- `INS-260403-227B` Oxygen—the gas that enabled all complex animal life—is technically just the waste product of photosynthesis splitting water to replace lost electrons.
 - `INS-260402-A94F` Beginning with open exploration rather than a fixed thesis produces more truthful and surprising results in complex domains.
 - `INS-260330-139D` Ask how users behave and live rather than whether they want specific features to uncover category-creating opportunities.
 - `INS-260330-FFDB` When real users request specific features, the feedback feels overwhelmingly compelling but leads to building the wrong things.

@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 207 insights
+> 210 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -19,6 +19,7 @@
 - `INS-260403-054F` [high] Mention your business model briefly to show you've thought about it, but don't elaborate — spend that time on the problem and product instead.
 - `INS-260403-E319` [high] Smart early-stage investors expect your business model to be wrong — spending time on it crowds out the impressive problem-solving that actually wins investment.
 - `INS-260403-C625` [high] Minimize business model discussion in early pitches because investors expect it to be wrong anyway.
+- `INS-260403-DAB4` [high] Mention your business model to show you've thought about it, but don't elaborate — investors expect it to change multiple times.
 - `INS-260403-FF86` [high] Early business models are almost certainly wrong, so discussing them wastes time and can overwrite investors' memory of your actual strengths.
 - `INS-260403-DE45` [high] Experienced investors detect bullshit better than hackers produce it, so authenticity about your stage outperforms performative polish.
 - `INS-260403-1217` [high] Low startup costs align founder and investor risk appetites by letting founders diversify across multiple ventures over time.
@@ -115,6 +116,7 @@
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.
 - `INS-260403-21A8` [high] Concrete, narrow descriptions stick in investors' heads while vague expansive ones get discarded as meaningless boilerplate.
+- `INS-260403-507E` [high] Describe your startup as a specific, graspable thing rather than abstracting it into meaningless generality.
 - `INS-260403-5A4F` [high] Concrete narrow descriptions stick in investors' heads while vague expansive ones register as noise.
 - `INS-260403-91F9` [high] Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` [high] Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
@@ -153,6 +155,7 @@
 - `INS-260330-C8E1` [high] Deals falling through is the norm, not the exception—founders must plan for this as the default outcome rather than treating it as a surprise.
 - `INS-260328-195E` [high] There are no successful value investors in startups -- trying to find the lowest-valuation, highest-revenue deals is a proven losing strategy because early-stage investing is fundamentally an art.
 - `INS-260402-EEDB` [high] The startup investment market is an unstable system where investor herd behavior amplifies rather than dampens signal, making outcomes highly path-dependent.
+- `INS-260403-FC45` [high] Craft a single compelling phrase that describes your startup and launch it early in your pitch so investors remember you after seeing dozens of presentations.
 - `INS-260322-6C4B` [high] The best investors will offer founders terms that hurt themselves in the short run because they know being a great partner now means the founder works with them again — long-term reputation beats short-term gain.
 - `INS-260403-BAD7` [high] Give up n% only if the deal makes your (100-n)% worth more than 100% was before.
 - `INS-260403-A57D` [high] Expecting to raise more money makes startups slack on profitability, which makes raising money harder.

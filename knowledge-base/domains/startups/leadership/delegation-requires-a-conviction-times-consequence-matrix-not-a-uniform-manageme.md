@@ -47,7 +47,6 @@ stance: >-
   crossing your conviction level with the consequence magnitude, not by a fixed
   management philosophy.
 related:
-  - INS-260325-EF66
   - INS-260327-D9C0
   - INS-260327-C4AC
   - INS-260329-CCDE
