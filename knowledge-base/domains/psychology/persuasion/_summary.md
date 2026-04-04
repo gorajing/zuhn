@@ -1,6 +1,6 @@
 # Topic: persuasion
 
-> 70 insights
+> 71 insights
 
 - `INS-260403-6F65` [high] Equal optimization on substance makes charisma the tiebreaker.
 - `INS-260403-22FE` [high] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
@@ -53,6 +53,7 @@
 - `INS-260330-E3D3` [high] Build up your opponent's case to its strongest form before responding, because defeating a strong version is more persuasive than demolishing a strawman.
 - `INS-260404-3D8F` [high] Costco and Amazon Prime both use upfront fees to trigger sunk-cost psychology that stops customers from comparison shopping.
 - `INS-260403-3421` [high] Sequoia's 'proxy for demand' concept—showing current workarounds with bad tools—is more convincing than TAM slides because it demonstrates revealed preference.
+- `INS-260404-5A3D` [high] Realizing that selectors barely scrutinize you motivates more active self-presentation.
 - `INS-260403-1EB3` [high] Investors' deepest fear is that you built from theory rather than need—specific user stories and 'proxy for demand' evidence directly neutralize this.
 - `INS-260330-59CE` [high] Vague predictions appear accurate because our brains apply the 'law of near enough' — two things don't have to match exactly for us to perceive a connection, making almost any outcome confirmatory.
 - `INS-260330-4605` [high] The Polarity Principle in relationships operates through the same variable-ratio reinforcement schedule that drives gambling addiction.

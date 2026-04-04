@@ -50,6 +50,7 @@ related:
   - INS-260321-4E98
   - INS-260330-24A5
   - INS-260403-BA5D
+  - INS-260404-B475
 ---
 VS Code's dominance illustrates a classic platform dynamic: once the extension ecosystem reaches critical mass, developers building tooling (e.g., Tailwind, Docker) prioritize VS Code extensions first, which attracts more users, which attracts more extension authors. This flywheel makes it nearly impossible for competitors to catch up even if their core product is superior.
 

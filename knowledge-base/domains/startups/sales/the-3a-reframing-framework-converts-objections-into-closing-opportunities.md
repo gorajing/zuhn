@@ -48,7 +48,6 @@ stance: >-
   increases close rates more than any single closing technique because it
   maintains rapport while keeping the salesperson in conversational control.
 related:
-  - INS-260325-95EB
   - INS-260327-DD0F
   - INS-260327-E7FF
   - INS-260329-E598

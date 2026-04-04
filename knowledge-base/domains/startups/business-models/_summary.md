@@ -1,6 +1,6 @@
 # Topic: business-models
 
-> 215 insights
+> 216 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
@@ -170,6 +170,7 @@
 - `INS-260327-9DA6` [high] Twitter's decision to restrict its API and push users away from third-party clients (which served 20-30% of users) became one of the company's most costly strategic mistakes.
 - `INS-260329-C474` [high] A frozen yogurt store doing $800K revenue yields roughly $93K in owner take-home, illustrating the salary-not-wealth trap of small retail.
 - `INS-260404-D471` [high] Social activism and regulatory changes can render entire business models unviable, not just reduce margins.
+- `INS-260404-BCA2` [high] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.
 - `INS-260324-ABAC` [high] Steakhouses make up over half of the top 100 highest-grossing US restaurants because customers show up expecting to spend $50-100 per steak — the more predictable the menu and experience, the better.
 - `INS-260330-9137` [high] Netflix's pivot from per-rental pricing to flat monthly subscriptions achieved 90% conversion on day one by eliminating per-use decision friction.
 - `INS-260327-4ED3` [high] Subscriptions have been forced onto products that don't need them — heated car seats, printer ink, software — creating consumer resentment that is now driving backlash against all subscription models.

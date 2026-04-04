@@ -57,6 +57,7 @@ related:
   - INS-260330-6411
   - INS-260403-7CAF
   - INS-260403-98E1
+  - INS-260404-BCA2
 stance: Cash flow funds your lifestyle today; equity creates wealth tomorrow
 evidence:
   - id: INS-260324-0DC1

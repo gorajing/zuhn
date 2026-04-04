@@ -51,10 +51,10 @@ stance: >-
   of expansion
 related:
   - INS-260330-EA23
+  - INS-260404-B475
   - INS-260403-8011
   - INS-260330-F23F
   - INS-260327-F417
-  - PRI-260328-43F1
 evidence:
   - id: INS-260327-F417
     type: CHALLENGES

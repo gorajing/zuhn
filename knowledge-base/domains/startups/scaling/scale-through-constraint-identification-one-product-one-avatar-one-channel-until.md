@@ -48,11 +48,11 @@ stance: >-
   channel beyond that, because premature diversification disperses focus before
   the core engine is proven.
 related:
-  - INS-260323-48AF
   - INS-260323-C4EE
   - INS-260329-5B18
   - INS-260327-415B
-  - INS-260327-735A
+  - INS-260323-48AF
+  - INS-260404-D68E
 evidence:
   - id: INS-260323-48AF
     type: SUPPORTS

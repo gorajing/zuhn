@@ -1,6 +1,6 @@
 # Topic: innovation
 
-> 84 insights
+> 85 insights
 
 - `INS-260403-1750` [high] Startup success requires being right when everyone else is wrong, which demands aggressive independent-mindedness, not just passive nonconformity.
 - `INS-260403-F8AE` [high] Apple rarely invented iPhone features first but consistently delivered the best implementation, from multi-touch to facial recognition.
@@ -9,6 +9,7 @@
 - `INS-260403-882A` [high] Oxygen was a 'useless byproduct' of photosynthesis that became the foundation for all complex animal life.
 - `INS-260403-130D` [high] Industry-centric strategy tools like Porter's 5 Forces break down when companies like Apple span multiple industries simultaneously.
 - `INS-260403-C5FB` [high] Rapid solidification of the outer layer creates extreme strength but also locks in destructive internal tension that cannot be released gracefully.
+- `INS-260404-8D91` [high] McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
 - `INS-260403-1C09` [high] Investing in innovation during downturns yields disproportionate post-crisis growth and market position.
 - `INS-260403-71A6` [high] The gap between understanding customers and testing ideas is where most innovation efforts stall — closing that gap through systematic linking is the key leverage point.
 - `INS-260403-F8A2` [high] Innovation functions need CEO-level reporting to survive organizational inertia.

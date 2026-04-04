@@ -55,9 +55,9 @@ stance: >-
 related:
   - INS-260323-60C1
   - INS-260330-744E
+  - INS-260404-BCA2
   - INS-260330-DC0D
   - INS-260324-0DC1
-  - INS-260324-C2B9
 ---
 By 1948, the McDonald brothers had a thriving restaurant with 20 waitresses, 100+ cars on weekends, and enough money for a mansion. Most entrepreneurs would optimize what was working. Instead, they analyzed their receipts, found 80% of revenue came from hamburgers, and made the radical decision to shut down entirely — cutting ribs, pork sandwiches, hot dogs, and waitress service. They then physically traced their kitchen layout on tennis courts, timing and measuring every step to create the Speedy Service System.
 

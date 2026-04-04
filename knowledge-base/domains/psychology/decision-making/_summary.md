@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 91 insights
+> 92 insights
 
 - `INS-260404-A246` [high] Admitting you're bad at something is the first step to finding effective workarounds like delegation or systematic search.
 - `INS-260403-F03A` [high] Judge purchases by projected usage, not by the deal you got.
@@ -9,6 +9,7 @@
 - `INS-260402-B66A` [high] Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260330-4BFD` [high] When a model needs ad-hoc explanations for gravity, time zones, satellite imagery, and navigation simultaneously, the model itself is wrong — not the evidence.
 - `INS-260330-6CB7` [high] Four of seven SI base units depend on the kilogram, so a fingerprint-weight drift in Big K corrupts Newtons, Joules, Volts, and Watts.
+- `INS-260404-2135` [high] Growing up with accuracy-focused judgments trains a false expectation that all judgments aim to be fair.
 - `INS-260403-A8E8` [high] Explicit self-praise activates bullshit detectors; implicit confidence shown through deep knowledge and composure is read as authentic signal.
 - `INS-260403-DC64` [high] When evaluators can't assess substance directly, your confidence in your own work becomes the strongest signal they have.
 - `INS-260330-D0B4` [high] Staying buckled in an inverted sinking helicopter is safer than the instinctive escape attempt, but requires trained override of natural panic responses.

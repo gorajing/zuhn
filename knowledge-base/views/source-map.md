@@ -883,6 +883,7 @@ Generated on 2026-04-04 | 2421 sources
 | Building a Thriving Innovation Ecosystem - a pharmaceutical Example | blog | 4 | 2026-03-31 |
 | Building a World-Class Innovation Culture: Bayer | blog | 4 | 2026-03-31 |
 | Business Model Canvas, Innovation, and Lean Startup Best Practices in Large Organizations: Peer Group Meeting Feb 10 | blog | 4 | 2026-03-31 |
+| Business Model Disruption: MrBeast vs McDonalds | blog | 4 | 2026-03-31 |
 | Business Model Evolution Using the Portfolio Map | blog | 4 | 2026-03-31 |
 | Business Model Generation Book Summary | Strategyzer | blog | 4 | 2026-03-31 |
 | Business Model Innovation in Existing Companies | blog | 4 | 2026-03-31 |
@@ -951,6 +952,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
 | How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 4 | 2026-03-30 |
 | How VCs and Startups can beat currency depreciation 🌍 | blog | 4 | 2026-03-30 |
+| How VCs Value Startups: Venture Capital Method Explained | blog | 4 | 2026-03-30 |
 | Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 4 | 2026-03-30 |
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 4 | 2026-03-30 |
 | Investor Herd Dynamics | blog | 4 | 2026-03-31 |
@@ -976,6 +978,7 @@ Generated on 2026-04-04 | 2421 sources
 | Multi-Product In Pictures | blog | 4 | 2026-03-30 |
 | Neuralink's 21 Telepathy Trials in 2 Years | blog | 4 | 2026-03-30 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
+| Open Thread 422 | blog | 4 | 2026-03-30 |
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 4 | 2026-03-30 |
 | OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
@@ -1031,6 +1034,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 4 | 2026-03-30 |
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 4 | 2026-03-31 |
 | The End of SaaS⚡, Fintech Trends Q3 2024💳, Optionality in Venture Funds💡 | blog | 4 | 2026-03-30 |
+| The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 4 | 2026-03-30 |
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 4 | 2026-03-30 |
 | The Equity Equation | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
@@ -1067,6 +1071,7 @@ Generated on 2026-04-04 | 2421 sources
 | This Week #0: Advice on growth, product, and leadership | blog | 4 | 2026-03-31 |
 | Top Resources for Founders🚀, Do Top VCs Really Bet Contrarian?🤔, Reverse Imposter Syndrome🪞 | blog | 4 | 2026-03-30 |
 | Trolls | blog | 4 | 2026-03-31 |
+| Two Kinds of Judgement | blog | 4 | 2026-03-31 |
 |  | blog | 4 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
 | Venture Capital Unveiled: Time for Change! | blog | 4 | 2026-03-30 |
@@ -2130,7 +2135,6 @@ Generated on 2026-04-04 | 2421 sources
 | Bradley's Ghost | blog | 0 | 2026-03-31 |
 | Brex Pitch Deck: How Brex Raised $57M in its Series B and Rebuilt Startup Banking | blog | 0 | 2026-03-30 |
 | Building an innovation ecosystem with Northumbrian Water’s innovation team | blog | 0 | 2026-03-31 |
-| Business Model Disruption: MrBeast vs McDonalds | blog | 0 | 2026-03-31 |
 | Business Model Generation - Preview, Download PDF or Buy | blog | 0 | 2026-03-31 |
 | Business Model Shifts: Netflix's Business Model Broken Down | blog | 0 | 2026-03-31 |
 | China is quietly looking weaker | blog | 0 | 2026-03-30 |
@@ -2244,7 +2248,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | How to Write a Top 1% Cold DM to Investors | blog | 0 | 2026-03-30 |
-| How VCs Value Startups: Venture Capital Method Explained | blog | 0 | 2026-03-30 |
 | How You Know | blog | 0 | 2026-03-31 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
 | Inside the AI Chip Race with Groq | blog | 0 | 2026-03-30 |
@@ -2274,7 +2277,6 @@ Generated on 2026-04-04 | 2421 sources
 | Open Thread 420 | blog | 0 | 2026-03-30 |
 | Open Thread 421 | blog | 0 | 2026-03-30 |
 | Open Thread 421.5 | blog | 0 | 2026-03-30 |
-| Open Thread 422 | blog | 0 | 2026-03-30 |
 | Open Thread 422.5 | blog | 0 | 2026-03-30 |
 | Open Thread 423 | blog | 0 | 2026-03-30 |
 | Open Thread 424 | blog | 0 | 2026-03-30 |
@@ -2323,7 +2325,6 @@ Generated on 2026-04-04 | 2421 sources
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
 | The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
-| The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
@@ -2373,7 +2374,6 @@ Generated on 2026-04-04 | 2421 sources
 | Top 100 Global Pension Funds and Their Investment Focus | blog | 0 | 2026-03-30 |
 | Top Companies That Had Their IPO in 2012: A Guide to the Most Impactful IPOs 📈 | blog | 0 | 2026-03-30 |
 | TSMC Record Earnings and U.S. Expansion | blog | 0 | 2026-03-30 |
-| Two Kinds of Judgement | blog | 0 | 2026-03-31 |
 | Unlocking the Open Innovation Toolbox | blog | 0 | 2026-03-30 |
 | VC Math Explained📊, Grow with Roll-Ups 🔄, The Top 1%🧠 | blog | 0 | 2026-03-30 |
 | VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |

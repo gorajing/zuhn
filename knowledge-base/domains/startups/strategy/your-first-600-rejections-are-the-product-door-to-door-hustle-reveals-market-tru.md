@@ -50,9 +50,9 @@ stance: >-
   person.
 related:
   - INS-260329-EECD
+  - INS-260404-5365
   - INS-260320-07A2
   - INS-260329-4FB2
   - INS-260329-7E63
-  - PRI-260327-3BD9
 ---
 Doi and his co-founder physically visited 600 restaurants to find their first venue partner. They couldn't call because restaurant staff are busy during service hours, so they went in person during the 4-5pm lull when owners were present. The rejections revealed real objections no customer survey would surface: 'Who are you? Have you done this before? We don't want to be first. What about insurance? What if someone burns down my place?' Each rejection was data about what the market actually cared about — not abstract concerns but visceral, practical fears. This directly counterweights the lean startup methodology of 'test with landing pages and surveys.' Some businesses can only be validated through physical, persistent, unglamorous hustle that doesn't scale. The founder who won't knock on 600 doors doesn't have the grit to survive the next 6 years.

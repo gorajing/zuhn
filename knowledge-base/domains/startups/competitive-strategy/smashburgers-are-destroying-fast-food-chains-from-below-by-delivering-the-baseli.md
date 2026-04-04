@@ -49,7 +49,6 @@ related:
   - INS-260327-38F0
   - INS-260327-2DE8
   - INS-260329-2D0B
-  - INS-260330-637F
   - INS-260330-D99D
 stance: >-
   Independent smashburger shops outperform burger chains on speed, consistency,

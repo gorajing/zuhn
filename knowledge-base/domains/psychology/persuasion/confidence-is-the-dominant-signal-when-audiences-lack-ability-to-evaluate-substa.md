@@ -49,15 +49,15 @@ stance: >-
   confidence becomes the single largest factor in their assessment — making
   projected conviction a high-leverage persuasion skill.
 related:
-  - INS-260322-D6D7
   - INS-260327-66AC
   - INS-260327-0CBC
   - INS-260403-4363
   - INS-260403-37D9
   - INS-260403-7586
   - INS-260403-DC64
-  - INS-260404-0570
   - INS-260404-E6EA
   - INS-260404-EBB3
+  - INS-260404-F965
+  - INS-260404-5A3D
 ---
 Graham identifies a fundamental asymmetry in investor presentations: the audience often lacks the technical background to evaluate the product, and the time is too short for deep analysis. In this information-poor environment, the presenter's own conviction becomes a dominant signal. This isn't about bluster — Graham explicitly warns against saying 'we're passionate' or 'our product is great,' which gets you written off as a bullshitter. Instead, confidence must be implicit and demonstrated through how you present. The interesting corollary: if you don't genuinely believe you're doing investors a favor by letting them invest, that lack of conviction leaks through. This pattern extends well beyond pitching — any time an audience must make judgments under information scarcity, the presenter's projected confidence fills the evaluation gap.

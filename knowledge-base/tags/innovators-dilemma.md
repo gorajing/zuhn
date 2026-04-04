@@ -5,5 +5,6 @@
 - `INS-260330-9014` Blockbuster's 60,000 employees and thousands of stores — once their moat — became their biggest liability when streaming eliminated the need for physical locations.
 - `INS-260328-02A0` Big companies walk the beautifully paved autobahn — startups are blazing new paths through the forest, and if you walk the autobahn instead, incumbents will run you over every time.
 - `INS-260328-57CF` Businesses being killed by AI disruptors will have to ignore all their process people — the innovator's dilemma means too many stakeholders are excited about doing A to allow B to happen.
+- `INS-260404-8D91` McDonald's had every asset needed for the VDC model but its optimization machinery rejected the concept.
 - `INS-260403-B133` The executives who rose to the top by making the right choices for the old business are wired to make the wrong choices for the new one.
 - `INS-260403-21A2` Overpaying customers make it rational to ignore the future until it's too late.

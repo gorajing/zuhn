@@ -45,7 +45,6 @@ stance: >-
   how much of that value the business captures — market structure determines
   capture, not contribution.
 related:
-  - INS-260327-500C
   - INS-260327-B715
   - INS-260330-A0AE
   - INS-260330-228D

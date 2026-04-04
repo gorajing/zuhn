@@ -57,6 +57,7 @@ related:
   - INS-260404-CFD5
   - INS-260403-24F0
   - INS-260403-A8E8
+  - INS-260404-5A3D
 ---
 Graham identifies a fundamental asymmetry in persuasion: explicit claims ('we're passionate,' 'our product is great') are discounted or treated as negative signals, while implicit behavioral confidence — speaking clearly, showing genuine excitement about the problem, treating the pitch as doing investors a favor — is the primary evidence investors use to evaluate founders they can't yet judge technically.
 

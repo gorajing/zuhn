@@ -44,7 +44,6 @@ stance: >-
   The apparent similarity between monopolies and competitive businesses is an
   artifact of deliberate market-framing lies that run in opposite directions.
 related:
-  - INS-260327-C6DC
   - INS-260327-EC45
   - INS-260327-EE5E
   - INS-260327-2A58
@@ -54,5 +53,6 @@ related:
   - INS-260330-174B
   - INS-260330-420D
   - INS-260330-6C35
+  - INS-260330-118D
 ---
 Thiel identifies a systematic distortion in how businesses describe their markets. Monopolists like Google reframe from 'search' (66% share) to 'advertising' (3.5% share) to 'technology' (tiny share) — using set-theoretic union to make their dominance invisible. Competitors do the opposite: a restaurant claims to be 'the only British food in Palo Alto' — using set-theoretic intersection to create a fictitious niche. This means when evaluating any business, you must look past the narrative to the actual market. The 'something of somewhere' pattern (intersection framing) is almost always a warning sign — 'the Stanford of North Dakota' is one of a kind, but it's not Stanford. Recognizing these symmetric lies is essential for both founders defining their strategy and investors evaluating pitches.

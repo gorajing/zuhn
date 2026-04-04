@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3851 actionable insights
+Generated on 2026-04-04 | 3856 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1049,6 +1049,7 @@ Generated on 2026-04-04 | 3851 actionable insights
 - [INS-260404-5AEB] Ask what you'd pay for something if you found it dirty and anonymous at a garage sale to reveal your real opinion of it.
 - [INS-260404-CE92] When a topic becomes part of someone's identity, they become constitutionally incapable of reasoning about it clearly.
 - [INS-260404-B8D9] Testing a theory with instruments that depend on that same theory creates unfalsifiable circular logic.
+- [INS-260404-E185] Selection-type judgments aim to pick a good-enough set, not to evaluate you accurately.
 
 ## psychology/communication
 - [INS-260330-3570] Arguments that start by explicitly naming what is being disagreed about — and what is not — dramatically outperform arguments that jump straight into positions.
@@ -1690,6 +1691,7 @@ Generated on 2026-04-04 | 3851 actionable insights
 - [INS-260404-DD77] Never tell an audience you're passionate—show it through specificity and demeanor, because explicit confidence claims trigger bullshit detectors.
 - [INS-260404-B31C] Sequoia's 'proxy for demand' — what people do now with inadequate tools — is more convincing than market size because it shows revealed behavior, not projected numbers.
 - [INS-260404-CFD5] Never explicitly claim passion or quality — show confidence implicitly through behavior, because audiences write off self-promotion as bullshit.
+- [INS-260404-5A3D] Realizing that selectors barely scrutinize you motivates more active self-presentation.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1849,6 +1851,7 @@ Generated on 2026-04-04 | 3851 actionable insights
 - [INS-260404-4F67] The number one predictor of happiness and the top enabler of antifragility are the same thing: quality relationships.
 - [INS-260404-21B2] Your mind's quit signal fires far earlier than your body's actual limit, leaving massive untapped reserves.
 - [INS-260404-9A69] Regularly doing things that suck recalibrates your brain's limit-detection system, raising your baseline tolerance for difficulty everywhere.
+- [INS-260404-5365] Treating selectors as customers rather than judges dissolves the expectation that rejection should be fair.
 
 ## startups/ai-business-models
 - [INS-260322-E20E] AI application companies should price by business value delivered or productivity uplift, not by token consumption — cost-based pricing systematically undercharges as AI costs deflate.
@@ -1959,6 +1962,7 @@ Generated on 2026-04-04 | 3851 actionable insights
 - [INS-260404-7EFA] Creating Business Model Canvases for external parties like competitors and partners exposes their motivations, constraints, and possibilities for collaboration or conflict.
 - [INS-260404-D711] Color-coding a Business Model Canvas exposes connections, contrasts current vs future states, and highlights validated vs uncertain assumptions.
 - [INS-260404-6A15] Constrained prototyping deliberately restricts business model variables to force teams into imagining radically different configurations.
+- [INS-260404-BCA2] VDC built a burger empire by monetizing idle restaurant kitchens instead of building its own.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -3094,6 +3098,7 @@ Generated on 2026-04-04 | 3851 actionable insights
 - [INS-260403-538C] Fast growth comes from hitting a real need, not from high spending — these two variables are surprisingly uncorrelated in practice.
 - [INS-260403-98E1] Real wealth stacks up through many small chips — businesses, investments, options — not one big windfall.
 - [INS-260403-EDFC] Make a few users love you rather than many users tolerate you — it's easier to expand userwise than satisfactionwise.
+- [INS-260404-D68E] VDC stacks multiple celebrity brands (MrBeast, Mariah Carey, Tyga) on one kitchen network, multiplying reach without multiplying infrastructure.
 
 ## startups/health-innovation
 - [INS-260403-DC6C] Photosynthesis is explicitly inefficient and complicated yet powers all life on Earth — adequacy under real constraints beats theoretical optimization.

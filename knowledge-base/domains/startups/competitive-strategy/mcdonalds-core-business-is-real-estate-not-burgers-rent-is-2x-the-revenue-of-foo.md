@@ -52,6 +52,7 @@ related:
   - INS-260329-2EAA
   - INS-260329-C474
   - INS-260330-637F
+  - INS-260404-BCA2
 stance: >-
   McDonald's franchisees pay ~$400K/year per store (4x Burger King/Wendy's), and
   the company's rent revenue is nearly double its food royalties

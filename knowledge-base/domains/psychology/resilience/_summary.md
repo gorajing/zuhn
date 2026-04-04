@@ -1,6 +1,6 @@
 # Topic: resilience
 
-> 152 insights
+> 153 insights
 
 - `INS-260325-DF82` [very_high] Events are not traumatic — they are potentially traumatic — because the same event produces resilience in most people and lasting harm in a minority, meaning trauma is in the response, not the event.
 - `INS-260325-5F3C` [very_high] The stress response is a magnificent multiphasic system that shifts blood, glucose, and attention to survival mode while blocking narrative memory, then gracefully ramps down through a cortisol braking system.
@@ -76,6 +76,7 @@
 - `INS-260327-8DFE` [high] Giertz sharing her brain tumor journey publicly created deeper audience loyalty than any product launch, because genuine vulnerability builds trust that curated content cannot.
 - `INS-260327-0061` [high] Most people have quietly given up and no one's noticed - because in a comfortable society, resignation looks exactly like contentment.
 - `INS-260329-3848` [high] Work begins once motivation stops — the period after excitement fades is where most people quit and where champions pull ahead.
+- `INS-260404-5365` [high] Treating selectors as customers rather than judges dissolves the expectation that rejection should be fair.
 - `INS-260329-68C8` [high] We repeat behaviors that are reinforcing (aligned with deeper purpose), not just those that are rewarding (pleasurable).
 - `INS-260404-4F67` [high] The number one predictor of happiness and the top enabler of antifragility are the same thing: quality relationships.
 - `INS-260325-F707` [high] Lists of '3 traits of highly resilient people' are myths — research finds many factors with small effects, meaning resilience is not a fixed character trait but an emergent outcome of many interacting variables.
