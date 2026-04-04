@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3736 actionable insights
+Generated on 2026-04-04 | 3743 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1652,6 +1652,7 @@ Generated on 2026-04-04 | 3736 actionable insights
 - [INS-260404-CDCB] Telling investors you're passionate makes them write you off as bullshitters; showing confidence through substance and demeanor is what actually persuades.
 - [INS-260404-523C] With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.
 - [INS-260404-6388] When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
+- [INS-260404-F3C6] Never explicitly claim passion or quality — audiences dismiss it as bullshit and respond only to behavioral confidence signals.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1977,6 +1978,7 @@ Generated on 2026-04-04 | 3736 actionable insights
 - [INS-260404-621F] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - [INS-260404-CF2A] Investors' biggest early-stage fear is that nobody wants what you built; specific user stories — especially your own needs — are the most credible counter-evidence.
 - [INS-260404-8D37] A compelling one-phrase description like 'the Microsoft Word of ecommerce' serves double duty: it survives in investors' memory and forces founders to clarify their own strategy.
+- [INS-260404-E0B5] The inability to craft a one-phrase startup description signals unfocused strategy, not just weak messaging.
 
 ## startups/community-building
 - [INS-260404-F6ED] Trolls tolerate thoughtful forums but thoughtful people won't tolerate troll-dominated ones, creating a one-directional quality decay.
@@ -2234,6 +2236,7 @@ Generated on 2026-04-04 | 3736 actionable insights
 - [INS-260403-F100] The best languages evolved alongside a real application; designing tools in the abstract without a driving use case produces inferior results.
 - [INS-260403-0A7A] Rewriting code you've already written forces you to fully understand it, which is the prerequisite for seeing fundamentally better designs.
 - [INS-260404-4130] Building the language up toward the problem lets small teams punch far above their weight.
+- [INS-260404-BF8A] RuBisCo's oxygen-grabbing error produces a toxin that plants must build separate enzyme pathways to neutralize — core processes always generate waste that needs its own infrastructure.
 
 ## startups/execution
 - [INS-260323-CB34] Founders who try to be every team member stifle company growth and drain energy from the entire organization.
@@ -2815,6 +2818,9 @@ Generated on 2026-04-04 | 3736 actionable insights
 - [INS-260404-F560] As a startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.
 - [INS-260404-9158] Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
 - [INS-260404-72EE] As your startup description approaches 'could be anything,' its informational content approaches zero — start narrow and expand.
+- [INS-260404-4605] Don't pitch your business model to early-stage investors — they assume it's wrong and care about the problem you're solving.
+- [INS-260404-CA98] Describe your startup as narrowly and concretely as possible — vagueness destroys comprehension.
+- [INS-260404-AC2B] Tell specific stories about real users with real problems to prove demand — this directly addresses the #1 investor fear.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3767,6 +3773,7 @@ Generated on 2026-04-04 | 3736 actionable insights
 - [INS-260403-0CF7] Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.
 - [INS-260404-007B] Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
 - [INS-260404-975A] Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
+- [INS-260404-8B1C] Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'

@@ -48,7 +48,6 @@ stance: >-
   confusing layouts — can function as competitive advantages when they select
   for high-value customers and increase per-customer spend
 related:
-  - INS-260403-6BD9
   - INS-260403-0435
   - INS-260403-08FE
   - INS-260403-2AE7

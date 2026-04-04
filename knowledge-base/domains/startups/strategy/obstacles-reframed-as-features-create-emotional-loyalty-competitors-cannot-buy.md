@@ -48,11 +48,11 @@ stance: >-
   like confusing store layouts becoming treasure hunts — generate deeper
   customer attachment than frictionless experiences.
 related:
+  - INS-260404-8B1C
   - INS-260404-007B
   - INS-260404-2087
   - INS-260404-975A
   - INS-260404-ED19
-  - INS-260403-524B
 ---
 Costco's warehouse layout is genuinely confusing — items move locations, there's no logical organization, and navigation requires wandering most aisles. A conventional retail consultant would call this a UX disaster. But Costco reframes the friction: shoppers feel like deal-hunters on a treasure hunt rather than confused consumers. Similarly, the $60 mandatory fee could be a fatal acquisition barrier, but instead creates a sense of exclusivity and club membership.
 

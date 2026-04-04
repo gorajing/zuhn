@@ -5,3 +5,4 @@
 - `INS-260330-744E` Domino's discovered that cutting from five pizza sizes to one and removing non-pizza items boosted profitability because customers simply bought more of the profitable items instead.
 - `INS-260404-0FE4` Costco pays $21/hr (double the retail average) and gets employees three times more productive, plus better health insurance reduces turnover costs.
 - `INS-260404-C9B5` Costco's 15% max markup rule forces operational innovation and builds customer trust that compounds into 90% retention rates.
+- `INS-260404-8B1C` Costco turns warehouse aesthetics, confusing layouts, and limited selection into feelings of deal-hunting and exclusivity—making cost savings feel like customer features.

@@ -52,9 +52,9 @@ related:
   - INS-260330-F82A
   - INS-260330-7B11
   - INS-260330-68C8
+  - INS-260404-EC33
   - INS-260403-05D8
   - INS-260404-B04F
-  - INS-260404-B20E
   - INS-260403-532D
 ---
 Rather than evolving a more efficient carbon-fixation enzyme, plants simply produce staggering quantities of RuBisCo — an estimated 40 billion tons exist on Earth at any time. This brute-force strategy made plants the dominant life form on the planet. The parallel to startups is direct: shipping a mediocre MVP at scale often beats waiting to build the perfect product. Companies like Craigslist, early Google Docs, and PHP-powered Facebook all won with 'good enough at massive scale' rather than technical excellence. The strategic implication is that when your market has high tolerance for imperfection and rewards speed/coverage, investing in distribution of a flawed product beats investing in perfecting a product with limited distribution. The constraint is recognizing when your market actually demands quality versus when it rewards availability.

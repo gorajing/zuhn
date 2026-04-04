@@ -47,7 +47,6 @@ stance: >-
   because personality creates emotional connection that specs cannot.
 related:
   - INS-260322-4090
-  - INS-260322-7E86
   - INS-260325-8DF7
   - INS-260323-F853
   - INS-260322-3C3D
@@ -56,6 +55,7 @@ related:
   - INS-260327-B357
   - INS-260327-B403
   - INS-260403-0949
+  - INS-260403-B635
 evidence:
   - id: INS-260322-4090
     type: TRANSFERS_TO

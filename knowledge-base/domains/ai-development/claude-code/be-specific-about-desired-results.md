@@ -17,11 +17,11 @@ sources:
     author: u/diet103
     url: 'https://reddit.com/r/ClaudeCode'
 related:
+  - INS-260404-CA98
   - PRI-260321-037A
   - INS-260321-A5D4
   - INS-260403-EE70
   - INS-260327-D9D6
-  - INS-260404-F20B
   - INS-260320-4993
 date_extracted: '2026-03-20'
 last_accessed: null

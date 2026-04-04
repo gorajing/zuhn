@@ -6,6 +6,7 @@
 - `INS-260327-442D` Lionsgate's acquisition of Artisan Entertainment gave them 8,000+ titles whose syndication licensing generated steady recurring revenue -- like a SaaS business -- that cushioned the inherent volatility of new film production.
 - `INS-260403-CED6` When most revenue comes from membership fees, the company's survival depends on delivering genuine value rather than extracting margin.
 - `INS-260403-1C25` Mandatory fees force companies to optimize for long-term customer satisfaction since raising prices risks losing the entire membership revenue stream.
+- `INS-260404-0000` When membership fees are the primary revenue source, the company's survival depends on continuously proving value rather than extracting margin.
 - `INS-260403-59F8` Making membership the primary revenue source forces the company to prioritize long-term customer satisfaction over short-term margin extraction.
 - `INS-260403-1208` Costco derives 75% of profit from membership fees, which forces it to prioritize renewal-worthy value over per-item margin extraction.
 - `INS-260403-F634` Costco's 75% revenue from memberships makes low prices a retention strategy, not a sacrifice.

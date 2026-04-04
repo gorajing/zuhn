@@ -49,7 +49,6 @@ stance: >-
   margin extraction
 related:
   - INS-260322-3259
-  - INS-260327-50CE
   - INS-260404-0298
   - INS-260403-BF47
   - INS-260403-F634

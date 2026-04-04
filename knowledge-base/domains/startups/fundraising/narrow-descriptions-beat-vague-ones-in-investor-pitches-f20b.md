@@ -50,13 +50,13 @@ stance: >-
   investors than a broad visionary one because vague descriptions approach zero
   information content.
 related:
-  - INS-260320-E872
   - INS-260403-AF27
   - INS-260403-208D
   - INS-260403-EE70
   - INS-260403-D430
   - INS-260403-9AB3
   - INS-260404-0430
+  - INS-260404-CA98
 ---
 When founders try to encompass everything their product could become, their description approaches zero content — investors hear 'a system to collaboratively leverage information' and tune out. Graham recommends treating your pitch like an algorithm of successive approximations: start with a gripping but perhaps overly-narrow description, then flesh it out. The analogy to incremental development is precise — at every point you need a 'working description' in the investor's head, just as you need working code at every commit.
 

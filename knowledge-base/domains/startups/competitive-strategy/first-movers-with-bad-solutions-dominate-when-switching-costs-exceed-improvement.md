@@ -56,7 +56,6 @@ stance: >-
   being late with a superior one, because ecosystems build around the
   incumbent's constraints.
 related:
-  - INS-260330-7B09
   - INS-260330-6ECA
   - INS-260403-262F
   - INS-260403-EDA2

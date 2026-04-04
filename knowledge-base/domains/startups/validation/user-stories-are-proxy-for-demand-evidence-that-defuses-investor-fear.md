@@ -49,11 +49,11 @@ stance: >-
   are the strongest antidote to that fear.
 related:
   - INS-260327-4431
-  - INS-260403-7072
   - INS-260403-1949
+  - INS-260403-7072
   - INS-260403-53AA
+  - INS-260404-AC2B
   - INS-260403-66D0
-  - INS-260403-035A
 ---
 Investors evaluating early-stage startups are primarily screening for one failure mode: founders who built something based on untested theories about what the world needs. Abstract market-size arguments don't counter this fear—specific stories about specific users do.
 

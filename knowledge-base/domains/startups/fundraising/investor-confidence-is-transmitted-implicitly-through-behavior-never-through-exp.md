@@ -63,7 +63,7 @@ related:
   - INS-260403-6178
   - INS-260403-0F95
   - INS-260403-2F22
-  - INS-260403-B505
+  - INS-260403-1B2D
 ---
 When investors can't fully evaluate early-stage technology due to time constraints and limited technical background, they rely heavily on founder confidence as a proxy signal. But this confidence must be demonstrated, not declared. Saying 'we're passionate' triggers the same skepticism as a restaurant with a sign reading 'GOOD FOOD'—if it were true, you wouldn't need to say it. The audience either ignores the claim or actively marks you as a bullshitter.
 

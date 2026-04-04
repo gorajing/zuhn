@@ -51,7 +51,6 @@ stance: >-
   locked into it even after conditions change, because the cost of switching
   exceeds the cost of patching around the flaws
 related:
-  - INS-260323-E559
   - INS-260330-50B3
   - INS-260330-DF69
   - INS-260330-A3EB

@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 25 insights
+> 26 insights
 
 - `INS-260404-621F` [high] Craft a single compressed phrase ('the Microsoft Word of ecommerce') and plant it early in your pitch so investors can mentally file you.
 - `INS-260403-D375` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
@@ -26,4 +26,5 @@
 - `INS-260403-07C1` [medium] Blunt truth-telling gets misclassified as tribal aggression because readers expect persuasive padding.
 - `INS-260403-BFD1` [medium] The inability to create a compelling one-phrase description of your startup signals insufficient strategic focus, not poor wordsmithing.
 - `INS-260403-C5D8` [medium] If you can't describe your startup in one sticky phrase, your plans may not be focused enough — the exercise is diagnostic, not just cosmetic.
+- `INS-260404-E0B5` [medium] The inability to craft a one-phrase startup description signals unfocused strategy, not just weak messaging.
 - `INS-260403-26D3` [medium] Inability to describe your startup in one compelling phrase signals unfocused strategy, not just poor messaging.

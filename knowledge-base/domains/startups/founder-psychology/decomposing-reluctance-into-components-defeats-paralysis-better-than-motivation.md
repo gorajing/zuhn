@@ -43,10 +43,10 @@ stance: >-
   hesitation
 related:
   - INS-260403-419B
+  - INS-260404-AC2B
   - INS-260403-A290
   - INS-260327-4367
   - INS-260327-1845
-  - INS-260404-CF2A
 evidence:
   - id: INS-260330-0AE2
     type: EXTENDS

@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 251 insights
+> 252 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -175,6 +175,7 @@
 - `INS-260330-9C78` [medium] Destin's 6-year-old son learned the backwards bicycle in 2 weeks versus his father's 8 months — roughly 16x faster.
 - `INS-260330-D950` [medium] Destin and his father discovered new phenomena about the carburetor they built only because they were operating and observing it together in real time.
 - `INS-260404-52FC` [medium] CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
+- `INS-260404-73DA` [medium] Chloroplasts charge thylakoids like batteries via proton concentration gradients — the same imbalance-as-stored-energy pattern appears in markets, learning, and attention.
 - `INS-260403-DE05` [medium] Chloroplasts charge thylakoids like batteries by pumping protons to one side — the resulting imbalance is what drives ATP synthase and does useful work.
 - `INS-260330-666E` [medium] The thylakoid charges like a battery by pumping protons to one side of a membrane, storing energy as a concentration gradient rather than a chemical bond.
 - `INS-260403-099C` [medium] The thylakoid membrane stores energy by creating a proton concentration gradient — the same pattern appears in motivation, skill gaps, and market arbitrage.

@@ -49,10 +49,10 @@ stance: >-
   oxygen debt, but this keeps the system running rather than halting entirely
 related:
   - INS-260330-AB3C
+  - INS-260404-EC33
   - INS-260330-6ECA
   - INS-260404-B20E
   - INS-260330-BFA2
-  - INS-260330-43CA
 evidence:
   - id: INS-260330-6ECA
     type: SUPPORTS

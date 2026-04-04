@@ -50,7 +50,7 @@ related:
   - INS-260403-915E
   - INS-260403-22FE
   - INS-260404-58AE
-  - INS-260403-4337
+  - INS-260404-F3C6
 ---
 For early-stage founders without polished presentation skills, the single biggest piece of evidence investors use to evaluate the company is the founders' own confidence in it. But this must be shown, not told—saying 'we're passionate' gets ignored or marks you as a bullshitter.
 

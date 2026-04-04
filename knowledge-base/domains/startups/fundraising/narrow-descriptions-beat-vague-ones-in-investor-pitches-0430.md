@@ -49,9 +49,9 @@ stance: >-
 related:
   - INS-260403-507E
   - INS-260404-F20B
+  - INS-260404-CA98
   - INS-260404-72EE
   - INS-260404-F560
-  - INS-260403-9AB3
 ---
 Founders resist narrow descriptions because their product could become so much more. But as Paul Graham points out, as you approach a description of something that could be anything, the information content approaches zero. Investors will discard vague statements like 'collaboratively leverage the value of information' as meaningless boilerplate.
 

@@ -53,8 +53,8 @@ related:
   - INS-260403-546E
   - INS-260403-3F91
   - INS-260403-CE5F
-  - INS-260403-543E
   - INS-260404-ED19
   - INS-260404-B46E
+  - INS-260404-94BB
 ---
 Both Costco and Amazon Prime use upfront fees to trigger the sunk-cost fallacy — once you've paid, you feel compelled to extract value. But Costco's version is structurally stronger because membership is mandatory, not optional. Amazon Prime users self-select based on whether the fee pencils out, meaning price-sensitive users who won't stick around never pay. Costco forces the commitment before any purchase, which means the sunk-cost mechanism activates for every member uniformly. The result: 90% annual renewal rate with 94 million members, comparable to Prime's 100 million despite having only 700 physical stores. The mandatory gate also pre-selects for higher-income households (average $100K), creating a customer base that spends more per visit.
