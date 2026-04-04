@@ -52,11 +52,11 @@ related:
   - INS-260402-476E
   - INS-260403-A27F
   - INS-260403-27AA
+  - INS-260403-88AF
   - INS-260403-8D87
   - INS-260403-63E2
   - INS-260329-D357
   - INS-260330-FB5A
-  - INS-260403-AA5B
 ---
 Every new venture rests on a stack of assumptions, but they are not equally load-bearing. The assumption at the bottom of the stack — typically whether customers actually have the problem you think they have — must be validated first because every other assumption depends on it being true. If customer need is unproven, testing distribution channels or pricing models is wasted effort.
 

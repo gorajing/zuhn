@@ -50,7 +50,6 @@ stance: >-
   fear that nobody actually wants what you've built.
 related:
   - INS-260327-5DD2
-  - INS-260330-F125
   - INS-260403-1A73
   - INS-260403-8F31
   - INS-260403-035A

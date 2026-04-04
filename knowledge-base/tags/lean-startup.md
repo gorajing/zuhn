@@ -3,8 +3,8 @@
 - `INS-260321-E5C5` The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
-- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260403-4050` Because early-stage hypotheses are most likely wrong, experiments should be cheap and fast, with spending increasing only as evidence accumulates.
+- `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260403-62B2` BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
 - `INS-260403-0701` Innovation engines should prototype and test business models to reduce uncertainty, not write business plans that create false confidence.
@@ -19,6 +19,7 @@
 - `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260330-5D4F` Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
+- `INS-260403-7333` Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260403-0803` Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260403-B32D` Nearly all 40 participating organizations admitted large potential for improvement in scaling Lean Startup testing, with most still relatively inexperienced.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
@@ -26,5 +27,6 @@
 - `INS-260403-45AA` Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.
 - `INS-260403-63E2` Rank hypotheses by how catastrophically wrong you could be, then test the most dangerous ones first.
 - `INS-260403-F0C3` Always validate that customers want the core offering before optimizing secondary features.
+- `INS-260403-88AF` Prioritize testing the hypothesis whose failure would make your entire business model collapse, regardless of how easy other hypotheses are to test.
 - `INS-260330-3F24` If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
 - `INS-260403-4CE7` Open entry plus strict three-month evidence requirements balances innovation access with resource discipline.

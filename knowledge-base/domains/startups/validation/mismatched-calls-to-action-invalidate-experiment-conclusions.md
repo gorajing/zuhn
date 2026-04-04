@@ -45,11 +45,11 @@ stance: >-
   When your measured action does not correspond to the hypothesis being tested,
   positive results are misleading and drive incorrect product decisions
 related:
+  - INS-260403-88AF
   - INS-260330-3AF9
   - INS-260403-CBC7
   - INS-260330-DF2C
   - INS-260403-45AA
-  - PRI-260403-57EC
 ---
 A common A/B testing failure mode is measuring the wrong behavior. The article highlights that high sign-up counts (a call-to-action) do not validate willingness to pay (a hypothesis). This mismatch produces confident but wrong conclusions — teams believe they have validated demand when they have only validated curiosity.
 

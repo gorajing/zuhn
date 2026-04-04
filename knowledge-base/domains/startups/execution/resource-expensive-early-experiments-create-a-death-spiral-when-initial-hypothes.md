@@ -50,7 +50,6 @@ stance: >-
   reaching the insights that would have made the venture viable
 related:
   - PRI-260320-A2C7
-  - INS-260330-56AA
   - INS-260330-E282
   - INS-260403-3569
   - INS-260403-D379

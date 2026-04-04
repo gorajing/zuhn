@@ -46,6 +46,7 @@ related:
   - PRI-260328-1D90
   - INS-260330-CC49
   - INS-260327-82AA
+  - INS-260403-5C83
 ---
 Analog products can sustain premium niche markets among enthusiasts but cannot recapture mass-market share because the convenience advantages of digital alternatives are too large for average consumers to sacrifice.
 

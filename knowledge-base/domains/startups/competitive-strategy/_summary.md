@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 477 insights
+> 478 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -256,6 +256,7 @@
 - `INS-260327-38D8` [high] Under Ev Williams, Twitter's best features -- hashtags, retweets, lists, and @mentions -- were all organic user behaviors that the team formalized into official features.
 - `INS-260327-E153` [high] Airlines only generate sustainable profits when they achieve hub dominance that reduces competition on specific routes, 
 - `INS-260327-0E86` [high] Five-year plans are impossible when AI capabilities change monthly—think first principles about what stays true for a year.
+- `INS-260403-2152` [high] Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 - `INS-260323-7D3C` [high] Linux dominates because anyone can tweak it for their specific use case — covering more applications than any proprietary system ever could.
 - `INS-260326-841D` [high] Taleb's simulation shows that someone with a convex payoff (option-like exposure) massively outperforms someone with superior knowledge, explaining why tinkering has historically beaten theoretical approaches.
 - `INS-260403-35E7` [high] Real standards establish themselves before most people hear about them — heavy promotion is a smell of inadequacy.

@@ -48,13 +48,14 @@ stance: >-
   watching centralized alternatives fail in precisely the ways the technology
   was built to prevent
 related:
-  - INS-260325-5023
   - INS-260329-66BD
   - INS-260329-F887
   - INS-260330-A01C
   - INS-260330-13B2
   - INS-260402-300A
+  - INS-260325-5023
   - INS-260329-87BA
+  - INS-260403-88AF
   - PRI-260328-7E58
 ---
 FTX's collapse—opacity, rehypothecation, no auditable trail—is exactly the class of problem that decentralized, on-chain finance was designed to eliminate. When DeFi protocols have failed, the transparency was immediate: anyone could inspect the on-chain data. CeFi failures take months to unravel, sometimes never fully surfacing.

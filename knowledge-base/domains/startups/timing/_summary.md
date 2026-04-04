@@ -1,6 +1,6 @@
 # Topic: timing
 
-> 51 insights
+> 52 insights
 
 - `INS-260330-ADB7` [high] Gallium nitride was declared a 'dead end' by RCA in 1972 and by Nichia's biggest customer in 1990, yet became an $80 billion industry by 2024.
 - `INS-260323-1494` [high] Having a brilliant idea without an addressable market or distribution infrastructure turns you into free R&D for better-timed competitors.
@@ -49,6 +49,7 @@
 - `INS-260325-66BE` [medium] In 1800 nobody thought lacking refrigerators or plumbing was extreme poverty because it was normal — our descendants may view our era the same way.
 - `INS-260330-4E01` [medium] HEAL sector jobs will outnumber new STEM jobs 3:1 by 2030, but only 24% of HEAL workers are male and the share is falling with no organized effort to reverse it.
 - `INS-260403-2DE3` [medium] Market timing — arriving too early for insufficient demand or too late against entrenched competitors — is an independent variable that product and business model excellence cannot compensate for.
+- `INS-260403-5C83` [medium] A product loved by both novices and experts but ignored by the middle market is about to break through to mass adoption.
 - `INS-260325-B315` [medium] The 25-year boom after systemic collapse historically creates the most dramatic progress and opportunity.
 - `INS-260325-4300` [medium] Progress depends on feedback loops of belief, investment, and results — if society stops believing, it stops building.
 - `INS-260325-F306` [medium] From 1870-1920 humanity had five major technological revolutions; from 1970-2020 we had only one definitive one (computing) and possibly two.

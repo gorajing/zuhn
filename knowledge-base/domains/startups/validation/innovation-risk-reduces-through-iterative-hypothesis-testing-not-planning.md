@@ -49,13 +49,13 @@ related:
   - INS-260325-0147
   - INS-260323-DA13
   - INS-260325-55D8
-  - INS-260327-679A
   - INS-260330-19F1
   - INS-260330-E282
   - INS-260403-3569
   - INS-260403-99D1
   - INS-260403-5BAD
   - INS-260403-2BEE
+  - INS-260403-45AA
 ---
 At the start of any innovation initiative, risk and uncertainty are at their maximum. The instinct to reduce this through more analysis, bigger plans, or consensus-building is a trap — these activities feel productive but don't actually reduce uncertainty about whether customers want what you're building or whether the business model works.
 

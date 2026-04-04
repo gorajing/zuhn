@@ -45,14 +45,15 @@ stance: >-
   products will have staying power.
 related:
   - INS-260327-B64E
-  - INS-260327-B6C7
   - INS-260327-AC84
   - INS-260327-BDD5
   - INS-260330-AB6F
+  - INS-260403-64A5
   - INS-260323-3239
+  - INS-260327-B6C7
   - INS-260328-ACC3
-  - INS-260330-809A
   - INS-260403-9681
+  - INS-260403-5C83
 evidence:
   - id: INS-260327-BDD5
     type: CHALLENGES

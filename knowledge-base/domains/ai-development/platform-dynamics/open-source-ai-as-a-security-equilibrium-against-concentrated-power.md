@@ -60,6 +60,7 @@ related:
   - PRI-260328-5464
   - INS-260403-27F5
   - INS-260330-460D
+  - INS-260403-2152
 ---
 Zuckerberg's argument for open source AI goes beyond developer ecosystem benefits. He draws a direct analogy to software security: open source software hardens systems because vulnerabilities get found and fixed collectively, raising the baseline security for banks, hospitals, and governments. Similarly, open source AI ensures that defensive AI capabilities are widely distributed rather than concentrated.
 

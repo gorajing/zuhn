@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3607 actionable insights
+Generated on 2026-04-04 | 3611 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -2124,6 +2124,7 @@ Generated on 2026-04-04 | 3607 actionable insights
 - [INS-260403-7E95] Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - [INS-260403-C949] Recessions reduce startup competition because most potential founders irrationally wait for better times.
 - [INS-260403-A0F7] Salesforce's evolution from 1999 SaaS pioneer to 2005+ platform shows that iterative business model extension compounds into resilience.
+- [INS-260403-2152] Platforms must combine openness with genuine design quality to win developer adoption, not just check the open-source box.
 
 ## startups/content-strategy
 - [INS-260329-3332] A single 4+ hour comprehensive tutorial can accumulate millions of views over years by dominating 'full course' search queries.
@@ -3318,6 +3319,7 @@ Generated on 2026-04-04 | 3607 actionable insights
 - [INS-260403-0196] Great value propositions concentrate on very few customer jobs, pains, or gains but deliver outstanding depth in those areas.
 - [INS-260403-EAF7] Solve the real problem and deliberately ignore peripheral concerns that seem important but aren't.
 - [INS-260403-6D0D] Deliberately choose which customer jobs, pains, and gains you will NOT address.
+- [INS-260403-FCA6] Make your platform something builders personally love using, and killer apps will follow as a natural byproduct of developer self-interest.
 
 ## startups/quality
 - [INS-260330-FA4D] Byron Ferguson spine-tests every arrow and discards out-of-tolerance ones before they ever enter his quiver — precision is built in preparation, not performance.
@@ -3777,6 +3779,8 @@ Generated on 2026-04-04 | 3607 actionable insights
 - [INS-260403-6342] Fast business model iteration through structured sprints produces stronger outcomes than extended planning cycles.
 - [INS-260403-39F6] When the Airbnb founders personally photographed hosts' apartments in New York, they didn't just improve listings — they discovered that hosts were in the same financial desperation they were, which deepened their mission.
 - [INS-260403-EA2D] Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
+- [INS-260403-7333] Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
+- [INS-260403-88AF] Prioritize testing the hypothesis whose failure would make your entire business model collapse, regardless of how easy other hypotheses are to test.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

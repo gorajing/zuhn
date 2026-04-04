@@ -49,7 +49,6 @@ stance: >-
   isolation.
 related:
   - INS-260323-01A1
-  - INS-260327-B9BB
   - INS-260329-023F
   - INS-260329-8830
   - INS-260403-4F4B

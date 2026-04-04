@@ -1,8 +1,8 @@
 # Tag: startup-culture
 
-- `INS-260327-CB72` Jack Dorsey systematically fabricated a solo-founder origin story for Twitter, manipulated media coverage, and orchestrated two CEO coups -- all to serve his personal mythos rather than the company's health.
-- `INS-260403-CCB7` Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
 - `INS-260330-8CD4` Starting a company from genuine mission conviction creates durable advantages in persistence, team alignment, and external support that purely opportunistic ventures cannot replicate.
+- `INS-260403-CCB7` Walkable startup locations create natural after-hours collaboration that office parks cannot replicate.
+- `INS-260327-CB72` Jack Dorsey systematically fabricated a solo-founder origin story for Twitter, manipulated media coverage, and orchestrated two CEO coups -- all to serve his personal mythos rather than the company's health.
 - `INS-260403-A136` Startup headcount growth systematically dilutes independent-mindedness because conventional thinkers vastly outnumber independent ones.
 - `INS-260330-E126` Hire people who are 'animals' — so obsessively good at their job that they cross from professional into obsessive.
 - `INS-260328-3F19` A funding announcement is not like a stock price going up -- it's an announcement of an illiquid bet that probably won't pay off, down to seed rounds with very low expected success rates.

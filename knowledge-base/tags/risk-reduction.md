@@ -14,4 +14,5 @@
 - `INS-260403-B1F2` Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
 - `INS-260403-0803` Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260330-38E1` Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
+- `INS-260403-88AF` Prioritize testing the hypothesis whose failure would make your entire business model collapse, regardless of how easy other hypotheses are to test.
 - `INS-260330-901B` The silicon sphere (Avogadro) and Watt Balance (Planck's constant) provide independent checks on each other — dual independent approaches beat single-method perfection.

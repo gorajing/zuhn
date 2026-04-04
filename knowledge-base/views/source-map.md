@@ -482,6 +482,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Hardest Lessons for Startups to Learn | blog | 5 | 2026-03-31 |
 | The Hundred-Year Language | blog | 5 | 2026-03-31 |
 | The Insider Story of Waze | blog | 5 | 2026-03-31 |
+| The Lean Revenue Dashboard Every Startup Should Use | blog | 5 | 2026-03-30 |
 | The Lesson to Unlearn | blog | 5 | 2026-03-31 |
 | The Network Effects Manual: 16 Different Network Effects (and counting) | blog | 5 | 2026-03-31 |
 | The New Funding Landscape | blog | 5 | 2026-03-31 |
@@ -807,6 +808,7 @@ Generated on 2026-04-04 | 2421 sources
 | 7 Insights from our Webinar with Hubert Joly | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
 | A Buddhist Sun Miracle? | blog | 4 | 2026-03-30 |
+| A founding vision for a startup is similar to a scientific hypothesis | blog | 4 | 2026-03-31 |
 | A holiday gift guide for tech people with taste 🤌 | blog | 4 | 2026-03-31 |
 | A Local Revolution? | blog | 4 | 2026-03-31 |
 | A Quick Guide To Asking Good Customer Questions | blog | 4 | 2026-03-31 |
@@ -819,6 +821,7 @@ Generated on 2026-04-04 | 2421 sources
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 4 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 4 | 2026-03-30 |
+| Alex Karp Interview: How Palantir Hit $500B Market Cap | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️ | blog | 4 | 2026-03-30 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
@@ -841,6 +844,7 @@ Generated on 2026-04-04 | 2421 sources
 | Cybersecurity’s Future Belongs to Startups | blog | 4 | 2026-03-31 |
 | Daniel Lubetzky: The KIND Snacks Founder on Building with Purpose, Discipline, and Humility | blog | 4 | 2026-03-30 |
 | Dario Amodei, AGI, and the Long Game of Safe AI | blog | 4 | 2026-03-30 |
+| Data-Driven Equity Splitting📊, The Path to PMF, Figma's $12.5 Bn Valuation🎨 | blog | 4 | 2026-03-30 |
 | DCF Startup Valuation Template (Downloadable Excel) | Growth-Stage Startup Guide | blog | 4 | 2026-03-30 |
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Deep Dive: China Part 1 – The Return of the Middle Kingdom | blog | 4 | 2026-03-30 |
@@ -882,6 +886,7 @@ Generated on 2026-04-04 | 2421 sources
 | It's Charisma, Stupid | blog | 4 | 2026-03-31 |
 | Japan can be America's arsenal | blog | 4 | 2026-03-30 |
 | 🔑 Key Startup Metrics VCs Care About: How to Track, Improve & Use Them to Raise Capital | blog | 4 | 2026-03-30 |
+| Learn With Me | blog | 4 | 2026-03-30 |
 | Legal’s $900B AI Repricing⚖️, Team sizes are shrinking📊, a16z's AI x Commerce Thesis 🛍️ | blog | 4 | 2026-03-30 |
 | Life is Short | blog | 4 | 2026-03-31 |
 | LLMs Will Never Be Intelligent🧠, Anthropic CEO on AI bubble⚠️, 2025 Fund Economics Report 📊 | blog | 4 | 2026-03-30 |
@@ -905,11 +910,13 @@ Generated on 2026-04-04 | 2421 sources
 | Quick Essay: The Federal Reserve and Critical Moments in U.S. Monetary Policy  | blog | 4 | 2026-03-30 |
 | Ramen Profitable | blog | 4 | 2026-03-31 |
 | Resilient Businesses Compete Beyond Technology, Product & Price | blog | 4 | 2026-03-31 |
+| Return of the Mac | blog | 4 | 2026-03-31 |
 | SaaS Cohort Analysis Model + Excel Template | blog | 4 | 2026-03-30 |
 | SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰 | blog | 4 | 2026-03-30 |
 | SaaS vs AI Economics💡, The Big Book of VC 2025, IPOs Struggle Despite Tech Rally 📉 | blog | 4 | 2026-03-30 |
 | SAFE Note Dilution: How to Calculate & Protect Your Equity (+ Cap Table Template) | blog | 4 | 2026-03-30 |
 | Sequoia’s $10 Trillion AI Revolution💰, The Great Startup Concentration📊, The AI Hustle⏰ | blog | 4 | 2026-03-30 |
+| Shameless Guesses, Not Hallucinations | blog | 4 | 2026-03-30 |
 | Six Principles for Making New Things | blog | 4 | 2026-03-31 |
 | Spring Meetups Everywhere 2026 - Call For Organizers | blog | 4 | 2026-03-30 |
 | Stablecoins Are Defense Tech | blog | 4 | 2026-03-31 |
@@ -1925,7 +1932,6 @@ Generated on 2026-04-04 | 2421 sources
 | A designer’s guide to AI: Building in Cursor (instead of Figma) lets you prototype 10x faster, simplifies collaboration, and accelerates getting ideas out of your head | Joel Unger | blog | 0 | 2026-03-31 |
 | A designer's guide to Cursor: How to build interactive prototypes with sound, explore visual styles, and transform data visualizations | Elizabeth Lin | blog | 0 | 2026-03-31 |
 | A founder’s guide to crisis management | Uri Levine (Waze co-founder, serial entrepreneur) | blog | 0 | 2026-03-31 |
-| A founding vision for a startup is similar to a scientific hypothesis | blog | 0 | 2026-03-31 |
 | A framework for finding product-market fit | Todd Jackson (First Round Capital) | blog | 0 | 2026-03-31 |
 | A framework for PM skill development | Vikrama Dhiman (Gojek) | blog | 0 | 2026-03-31 |
 | A free year of Devin: the world’s most advanced autonomous AI software engineer | blog | 0 | 2026-03-31 |
@@ -1964,7 +1970,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI tools are overdelivering: results from our large-scale AI productivity survey | blog | 0 | 2026-03-31 |
 | Airbnb Business Model | blog | 0 | 2026-03-31 |
 | Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix) | blog | 0 | 2026-03-31 |
-| Alex Karp Interview: How Palantir Hit $500B Market Cap | blog | 0 | 2026-03-30 |
 | Alex Osterwalder: “Companies can’t outsource the validation of their ideas” | blog | 0 | 2026-03-31 |
 | Alex Osterwalder On Inventing The Future With Business Model Innovation | blog | 0 | 2026-03-31 |
 | Alien Truth | blog | 0 | 2026-03-31 |
@@ -2072,7 +2077,6 @@ Generated on 2026-04-04 | 2421 sources
 | 🤩 Community Wisdom: Understanding designer jargon, eng vs. PM responsibilities, finding user research participants, creating shareable usage stats, and roadmaps informing OKRs | blog | 0 | 2026-03-31 |
 | Copy What You Like | blog | 0 | 2026-03-31 |
 | Coronavirus and Credibility | blog | 0 | 2026-03-31 |
-| Data-Driven Equity Splitting📊, The Path to PMF, Figma's $12.5 Bn Valuation🎨 | blog | 0 | 2026-03-30 |
 | Deep Dive: 5 Forces Causing The Population Collapse | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Cryptocurrencies | blog | 0 | 2026-03-30 |
 | Deep Dive: A Primer on Drug Development | blog | 0 | 2026-03-30 |
@@ -2178,7 +2182,6 @@ Generated on 2026-04-04 | 2421 sources
 | Issuing Equity: A Guide for Startups | blog | 0 | 2026-03-30 |
 | It took me 30 years to learn what I’ll tell you in 13 mins | blog | 0 | 2026-03-30 |
 | Keep Your Identity Small | blog | 0 | 2026-03-31 |
-| Learn With Me | blog | 0 | 2026-03-30 |
 | Learning from Failure🛑 | blog | 0 | 2026-03-30 |
 | Learning from Founders | blog | 0 | 2026-03-31 |
 | Let the Other 95% of Great Programmers In | blog | 0 | 2026-03-31 |
@@ -2226,7 +2229,6 @@ Generated on 2026-04-04 | 2421 sources
 | Reinvent Your Company While It's Still Successful | blog | 0 | 2026-03-31 |
 | Relentlessly Resourceful | blog | 0 | 2026-03-31 |
 | Resistance is necessary, but it's not enough | blog | 0 | 2026-03-30 |
-| Return of the Mac | blog | 0 | 2026-03-31 |
 | Revenue Per Employee: SaaS vs. VC 📊, YC's Returns by Sector✨, Canva’s $2 Billion Sales Funnel 🛍️ | blog | 0 | 2026-03-30 |
 | Revenue Retention or Bust 📊, Why Venture GPs Keep Going Solo🧑‍💼, CVC Units Closed in 2024 📉 | blog | 0 | 2026-03-30 |
 | RIP SEO: The GEO Playbook for 2026 | blog | 0 | 2026-03-30 |
@@ -2240,7 +2242,6 @@ Generated on 2026-04-04 | 2421 sources
 | Seed is broken🌱, AI Startups By Country🌍, The AI Index Report📈 | blog | 0 | 2026-03-30 |
 | Seed Strapping vs. Boot-Scaling🛠️, AI Agents and Game Theory🤖, AI Index Report 2025🔍 | blog | 0 | 2026-03-30 |
 | Selling Innovation & Experimentation To A CFO | blog | 0 | 2026-03-31 |
-| Shameless Guesses, Not Hallucinations | blog | 0 | 2026-03-30 |
 | Share one thing that you’ve changed within your organization that has made your team meaningfully more effective  | blog | 0 | 2026-03-31 |
 | Shield AI Air Force Deal, Google's TurboQuant, and Meta's Brain-Predictive AI | blog | 0 | 2026-03-30 |
 | Short Dive: The Trump Administration's Fiscal Strategy | blog | 0 | 2026-03-30 |
@@ -2294,7 +2295,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
 | The Island Test | blog | 0 | 2026-03-31 |
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |
-| The Lean Revenue Dashboard Every Startup Should Use | blog | 0 | 2026-03-30 |
 | The Lean Startup is Dead⚰️, AGI Delusion?🤖, Top Leadership Books📚 | blog | 0 | 2026-03-30 |
 | The Mom Test by Rob Fitzpatrick | blog | 0 | 2026-03-31 |
 | The Must-Read Tech, VC, SaaS, AI, and Startup Reports of 2024 📊 | blog | 0 | 2026-03-30 |

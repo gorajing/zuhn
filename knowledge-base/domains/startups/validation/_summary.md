@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 124 insights
+> 127 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -36,6 +36,7 @@
 - `INS-260403-6714` [high] Asking 'why' repeatedly during interviews uncovers the real motivations behind customer behavior that surface answers conceal.
 - `INS-260327-1E44` [high] Developers spend 60% of their time on non-coding activities — finding and automating those repetitive workflows is where AI startups should focus.
 - `INS-260330-48DE` [high] Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
+- `INS-260403-A60E` [high] A founding vision reframed as a hypothesis inherits the scientific requirement of testability, forcing founders to specify conditions under which they'd abandon the idea.
 - `INS-260327-EC45` [high] Filter ideas through: (1) is the value to customers special, (2) can we build it, (3) is the market big enough, (4) how are we differentiated from 15 competitors?
 - `INS-260403-E816` [high] Structure interview questions around what customers are trying to accomplish, what frustrates them, and what outcomes they desire — not around your product.
 - `INS-260329-9C6B` [high] Give away your service for free initially to collect testimonials and case studies that make subsequent sales dramatically easier.
@@ -71,6 +72,7 @@
 - `INS-260403-EA2D` [high] Show investors what people currently do with inadequate tools to prove demand exists—this 'proxy for demand' is more convincing than market size arguments.
 - `INS-260403-DC32` [high] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
+- `INS-260403-7333` [high] Replace the instinct to build a prototype with the discipline to map and decompose your business risks first.
 - `INS-260403-0803` [high] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260403-D563` [high] RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
@@ -89,6 +91,7 @@
 - `INS-260403-F0C3` [high] Always validate that customers want the core offering before optimizing secondary features.
 - `INS-260323-F9E5` [high] The most expensive period of a failing startup is not the building phase — it's the denial phase after the founder already knows it won't work.
 - `INS-260330-0F52` [high] Get to paid users as fast as possible because they will tell you the truth about your product's shortcomings.
+- `INS-260403-88AF` [high] Prioritize testing the hypothesis whose failure would make your entire business model collapse, regardless of how easy other hypotheses are to test.
 - `INS-260330-3F24` [high] If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
 - `INS-260330-CFBA` [high] Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
 - `INS-260329-C893` [high] If your growth depends on gaming a platform (SEO, app store, token issuance), expect a turkey graph — great until the platform changes, then instant death.
