@@ -367,6 +367,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Be an Angel Investor | blog | 5 | 2026-03-31 |
 | How to Be Silicon Valley | blog | 5 | 2026-03-31 |
 | How to Build AI Product Strategy (By OpenAI’s Product Lead) | blog | 5 | 2026-03-30 |
+| How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 5 | 2026-03-30 |
 | How to Convince Investors | blog | 5 | 2026-03-31 |
 | How to Do Philosophy | blog | 5 | 2026-03-31 |
 | How to Do What You Love | blog | 5 | 2026-03-31 |
@@ -842,6 +843,7 @@ Generated on 2026-04-04 | 2421 sources
 | AI Games Are Coming | blog | 4 | 2026-03-31 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
 | AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 4 | 2026-03-30 |
+| AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 4 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 4 | 2026-03-30 |
 | Alex Karp Interview: How Palantir Hit $500B Market Cap | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
@@ -921,6 +923,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
 | How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 4 | 2026-03-30 |
+| How VCs and Startups can beat currency depreciation 🌍 | blog | 4 | 2026-03-30 |
 | Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 4 | 2026-03-30 |
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 4 | 2026-03-30 |
 | Investor Herd Dynamics | blog | 4 | 2026-03-31 |
@@ -1008,6 +1011,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Right Kind of Stubborn | blog | 4 | 2026-03-31 |
 | The Rise of the Agentic Workforce🤯, It’s Time for Europe to Stand Up 📢, 100+ Gen. AI Use Cases You Should Know 🔍 | blog | 4 | 2026-03-30 |
 | The Screenless Startup: A New Philosophy For AI Applications | blog | 4 | 2026-03-31 |
+| The Secrets of Stealth Startups 🔒🤐 | blog | 4 | 2026-03-30 |
 | The Stack Above the Cloud | blog | 4 | 2026-03-31 |
 | The Story of the Biggest & Longest War in Tech: An $831B Fail 💥 | blog | 4 | 2026-03-30 |
 | The Toolbox Every Company Needs To Perform Business Strategy & Innovation | blog | 4 | 2026-03-31 |
@@ -1022,6 +1026,7 @@ Generated on 2026-04-04 | 2421 sources
 |  | blog | 4 | 2026-03-31 |
 | VC Fund Performance Report📊, Is AI Really a Bubble🫧, Benchmarking Startup Success🎓 | blog | 4 | 2026-03-30 |
 | Venture Funds Ranked🦄, Why Retention Is So Hard📉, Europe Gets Its Own TBPN🎙️ | blog | 4 | 2026-03-30 |
+| Vertical SaaS: Now With AI Inside, B2C is Back, AI Agents Landscape  | blog | 4 | 2026-03-30 |
 | What Can Quantum Computers Actually Do | blog | 4 | 2026-03-30 |
 | What happens if the world pulls its money out of America? | blog | 4 | 2026-03-30 |
 | What I Read This Week… | blog | 4 | 2026-03-30 |
@@ -1031,6 +1036,7 @@ Generated on 2026-04-04 | 2421 sources
 | Where to See Silicon Valley | blog | 4 | 2026-03-31 |
 | Why are federal agents gunning down Americans in the streets? | blog | 4 | 2026-03-30 |
 | Why Great Bioplatforms Will Always Win | blog | 4 | 2026-03-31 |
+| Why Hire Offshore?  | blog | 4 | 2026-03-30 |
 | Why Starting With Solutions Always Fails | blog | 4 | 2026-03-30 |
 | Why Startup Hubs Work | blog | 4 | 2026-03-31 |
 | Why There Aren't More Googles | blog | 4 | 2026-03-31 |
@@ -2033,7 +2039,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 0 | 2026-03-30 |
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
 | AI Is Eating VC📉, Most-Active US Investors💵, Longevity Tech Rebounds🧬 | blog | 0 | 2026-03-30 |
-| AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 0 | 2026-03-30 |
 | AI-Powered Fundraising Prep: The Founder’s Tactical Playbook | blog | 0 | 2026-03-30 |
 | AI tools are overdelivering: results from our large-scale AI productivity survey | blog | 0 | 2026-03-31 |
 | Airbnb Business Model | blog | 0 | 2026-03-31 |
@@ -2204,7 +2209,6 @@ Generated on 2026-04-04 | 2421 sources
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 0 | 2026-03-30 |
 | How to build the perfect pitch deck: a step by step guide with examples and an analysis of my Airbnb's deck | blog | 0 | 2026-03-30 |
-| How to Calculate Your Private SaaS Valuation in 2026 (The Exact Formula) | blog | 0 | 2026-03-30 |
 | How to Get New Ideas | blog | 0 | 2026-03-31 |
 | How to get to Product Market Fit: what it is, step by step guide and success cases like Notion, Canva and Stripe | blog | 0 | 2026-03-30 |
 | How to Lose Time and Money | blog | 0 | 2026-03-31 |
@@ -2212,7 +2216,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
 | How to Write a Top 1% Cold DM to Investors | blog | 0 | 2026-03-30 |
-| How VCs and Startups can beat currency depreciation 🌍 | blog | 0 | 2026-03-30 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 0 | 2026-03-30 |
 | How You Know | blog | 0 | 2026-03-31 |
 | 🚨 Inside Synthesia: The AI Startup That Just Turned Down Adobe’s $3B Offer | blog | 0 | 2026-03-30 |
@@ -2329,7 +2332,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Ronco Principle | blog | 0 | 2026-03-31 |
 | The SaaS Financial Model Most Founders Get Wrong | blog | 0 | 2026-03-30 |
 | The SaaS Financial Model That Helped Founders Raise Millions | blog | 0 | 2026-03-30 |
-| The Secrets of Stealth Startups 🔒🤐 | blog | 0 | 2026-03-30 |
 | The Shape of the Essay Field | blog | 0 | 2026-03-31 |
 | The shape of the multipolar world is a little clearer | blog | 0 | 2026-03-30 |
 | The Startup Pricing Journey 💸 | blog | 0 | 2026-03-30 |
@@ -2367,7 +2369,6 @@ Generated on 2026-04-04 | 2421 sources
 | VC Math Explained📊, Grow with Roll-Ups 🔄, The Top 1%🧠 | blog | 0 | 2026-03-30 |
 | VCs’ 2026 Tech Bets🤖, AI’s Next Moat🕸️, State of Startups Report📊 | blog | 0 | 2026-03-30 |
 | Venture Capital Unveiled: Time for Change! | blog | 0 | 2026-03-30 |
-| Vertical SaaS: Now With AI Inside, B2C is Back, AI Agents Landscape  | blog | 0 | 2026-03-30 |
 | Vitalik Buterin on Space, Longevity, Mars & More (The "B-Side") | blog | 0 | 2026-03-31 |
 | Weird Languages | blog | 0 | 2026-03-31 |
 | Welcome to Chaos World | blog | 0 | 2026-03-30 |
@@ -2383,7 +2384,6 @@ Generated on 2026-04-04 | 2421 sources
 | Who Controls the American Food Supply? | blog | 0 | 2026-03-30 |
 | Why Arc Isn't Especially Object-Oriented | blog | 0 | 2026-03-31 |
 | Why Companies Invest in Open-Source Tech and Research | blog | 0 | 2026-03-30 |
-| Why Hire Offshore?  | blog | 0 | 2026-03-30 |
 | Why It's Safe for Founders to Be Nice | blog | 0 | 2026-03-31 |
 | Why NFX Invested in fidu: The Operating System for Schools in Latin America | blog | 0 | 2026-03-31 |
 | Why NFX Invested in Koi Security: The Future of App-Layer Security, Scaling at Hyperspeed | blog | 0 | 2026-03-31 |
