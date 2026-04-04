@@ -1,8 +1,9 @@
 # Topic: business-models
 
-> 153 insights
+> 155 insights
 
 - `INS-260327-470B` [high] Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
+- `INS-260403-0FEC` [high] Public company acquisitions function as pooled-risk management services for founders seeking freedom and security.
 - `INS-260402-2D7B` [high] Building authoritative trust in an adjacent domain creates differentiation that competitors cannot easily replicate.
 - `INS-260322-FCFC` [high] Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
 - `INS-260327-07FC` [high] Airlines generate enormous revenue but trivial profits because the industry structure — high fixed costs, commodity pric
@@ -136,6 +137,7 @@
 - `INS-260330-8639` [high] A product's true cost is purchase price minus resale value, which can completely flip which option is actually cheaper.
 - `INS-260403-1000` [high] Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
 - `INS-260324-861B` [high] Uber raised $25B+ and operated for 13+ years without profit — the only other company with that distinction is WeWork, and the platform economics that were supposed to make ride-sharing 'infinitely scalable' never materialized.
+- `INS-260403-754F` [high] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - `INS-260330-D824` [high] WhatsApp's unenforced $1/year fee kept users while covering costs, proving that in network-effect businesses, user retention matters more than per-user monetization.
 - `INS-260327-38BC` [high] Rotating product strategies generate novelty-driven visits but prevent the creation of signature items that form lasting
 - `INS-260323-0026` [high] Casper spent 73-91% of gross profit on advertising and lost $200 on every mattress sold — advertising is meant to grow a business, not sustain it.

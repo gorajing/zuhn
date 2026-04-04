@@ -52,7 +52,6 @@ stance: >-
 related:
   - INS-260327-3D4D
   - INS-260327-FFE8
-  - INS-260327-E052
   - INS-260327-048C
   - INS-260327-DC45
   - INS-260327-2356
@@ -60,6 +59,7 @@ related:
   - INS-260327-F98D
   - INS-260327-0C65
   - INS-260327-FBB4
+  - INS-260327-377A
 ---
 By early 1807, Napoleon's army was exhausted from months of campaigning in Poland's freezing mud. A strategic withdrawal to winter quarters would have been the rational choice. But Napoleon couldn't afford to be seen retreating — his political power rested partly on the perception of constant forward momentum and invincibility. So he fought at Eylau under terrible conditions, nearly losing, and gaining nothing strategically.
 

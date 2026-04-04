@@ -51,7 +51,7 @@ related:
   - INS-260323-0827
   - INS-260323-71B3
   - INS-260330-FE21
-  - INS-260330-A1AF
+  - INS-260403-2DEE
   - INS-260330-FE14
 stance: >-
   GSP uses his jab to plant a seed of pain in the opponent's memory, creating a

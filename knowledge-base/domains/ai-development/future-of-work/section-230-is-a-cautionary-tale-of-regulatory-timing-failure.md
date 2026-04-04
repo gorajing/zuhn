@@ -1,0 +1,66 @@
+---
+id: INS-260403-5BCF
+domain: ai-development
+topic: future-of-work
+title: Section 230 is a cautionary tale of regulatory timing failure
+actionability: reference
+confidence: high
+shelf_life: evergreen
+status: active
+tags:
+  - section-230
+  - regulation
+  - timing
+  - policy-failure
+  - internet
+sources:
+  - type: blog
+    title: The Case for Big Action to Regulate Artificial Intelligence
+    author:
+      - '@type': Person
+        name: Chamath Palihapitiya
+        url: 'https://substack.com/@chamath'
+        description: 'CEO @SocialCapital, Bestie @theallinpod'
+        identifier: 'user:97776398'
+        image:
+          '@type': ImageObject
+          contentUrl: >-
+            https://substackcdn.com/image/fetch/$s_!PGqd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+          thumbnailUrl: >-
+            https://substackcdn.com/image/fetch/$s_!PGqd!,w_128,h_128,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b307cf2-75a9-4926-b469-de95691aa726_2289x2289.jpeg
+    url: 'https://chamath.substack.com/p/the-case-for-big-action-to-regulate'
+date_extracted: '2026-04-03'
+last_accessed: null
+access_count: 0
+indexed: false
+embedded: false
+resolutions:
+  one_line: >-
+    Section 230 locked in rules before anyone understood social media's impact,
+    leaving AI regulation as the chance to avoid repeating that mistake.
+  standard: >-
+    Section 230 was written for a nascent internet and became essentially
+    immovable as the technology evolved far beyond what legislators imagined.
+    The result is that internet content regulation now depends on Supreme Court
+    justices with no technology background, and lawmakers have lost the ability
+    to pass reasonable updates. Chamath frames this explicitly as a failure mode
+    to avoid with AI.
+
+
+    The lesson is that regulatory timing has asymmetric consequences. Too-early
+    regulation that's designed to be adaptable (like the FDA's multiple approval
+    pathways) creates manageable friction. Too-late or too-rigid regulation
+    creates structural lock-in that persists for decades. For AI, this argues
+    for establishing a flexible oversight framework now — even if imperfect —
+    rather than waiting for the 'right' moment that never comes. The insider
+    confession that Facebook's team 'grew at all costs and wishes they had been
+    more careful' adds weight: the people who benefited most from the absence of
+    regulation are the ones calling for it.
+stance: >-
+  Section 230's inflexibility demonstrates that failing to establish the right
+  regulatory framework early for a rapidly evolving technology creates worse
+  long-term outcomes than imperfect early regulation
+---
+Section 230 was written for a nascent internet and became essentially immovable as the technology evolved far beyond what legislators imagined. The result is that internet content regulation now depends on Supreme Court justices with no technology background, and lawmakers have lost the ability to pass reasonable updates. Chamath frames this explicitly as a failure mode to avoid with AI.
+
+The lesson is that regulatory timing has asymmetric consequences. Too-early regulation that's designed to be adaptable (like the FDA's multiple approval pathways) creates manageable friction. Too-late or too-rigid regulation creates structural lock-in that persists for decades. For AI, this argues for establishing a flexible oversight framework now — even if imperfect — rather than waiting for the 'right' moment that never comes. The insider confession that Facebook's team 'grew at all costs and wishes they had been more careful' adds weight: the people who benefited most from the absence of regulation are the ones calling for it.

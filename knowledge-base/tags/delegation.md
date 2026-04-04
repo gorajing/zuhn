@@ -15,6 +15,7 @@
 - `INS-260322-DAFB` Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
 - `INS-260330-4A1F` Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
 - `INS-260330-14CA` Delegate fully when consequences are low and your conviction is low; override only when consequences are catastrophic and your conviction is high.
+- `INS-260403-8B5A` Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260330-EF51` The only escape from hero mode is accepting a temporary dip in performance to invest in hiring and delegation.
 - `INS-260330-4CA7` Hero mode — working 18+ hours to avoid hiring — feels like dedication but is actually a growth ceiling that only breaks by accepting temporary regression to build capacity.
 - `INS-260322-2FAD` Novice leaders often derive identity from being busy and indispensable, which prevents team members from growing and caps the team's overall capability.
@@ -26,4 +27,5 @@
 - `INS-260330-4A16` Culture is the set of invariants you maintain as you get involved in exponentially fewer decisions over time.
 - `INS-260329-88A4` Freedom and control are inversely correlated for entrepreneurs — growth requires systematically trading control for freedom through output-based trust.
 - `INS-260329-3924` You enter entrepreneurship for freedom but gain absolute control instead; each growth stage requires giving up control to regain freedom.
+- `INS-260403-62B4` Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - `INS-260322-D5EB` To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.

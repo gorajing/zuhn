@@ -49,10 +49,10 @@ stance: >-
 related:
   - INS-260322-E20E
   - INS-260330-707D
+  - INS-260403-754F
   - INS-260403-054F
   - INS-260403-7E7C
   - INS-260322-FCFC
-  - INS-260322-B641
   - INS-260403-46BD
 ---
 Most founders think of retention as a product quality problem — make the product good enough and people stay. But the strongest competitive positions come from switching costs designed into the business model itself. Apple's iPod strategy wasn't about building the best music player; it was about getting users to invest their music library into iTunes, making defection costly regardless of competitor quality.

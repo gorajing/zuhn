@@ -10,6 +10,7 @@
 - `INS-260325-A1BC` The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
 - `INS-260330-E0AA` Without Native American written records, even sympathetic European accounts still frame indigenous experience through European categories and concerns.
 - `INS-260329-D8C7` The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
+- `INS-260403-1547` Houdini's long history of surviving dangerous stunts created a cognitive model where he believed he was immune to the risks that killed him.
 - `INS-260330-2784` The 'Fall of Rome' is a framing choice that erases 1000 years of Byzantine continuation, illustrating how dominant narratives shape what we consider real.
 - `INS-260323-1670` If the Moon is necessary for complex life, then its improbable formation should be expected — because we can only ask the question in universes where it happened, a form of selection bias that applies to evaluating any rare event.
 - `INS-260325-622D` Mentions of 'find your purpose' in books surged 700% in two decades, creating an Epic Script that stigmatizes simple, content lives.

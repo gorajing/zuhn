@@ -1,6 +1,6 @@
 # Topic: human-physiology
 
-> 30 insights
+> 31 insights
 
 - `INS-260330-BC56` [high] Photons from solar fusion excite electrons in chlorophyll, which through an elaborate transport chain produce ATP and NADPH, which build glucose, which animals then reverse-engineer back into ATP — making all aerobic life indirectly fusion-powered.
 - `INS-260330-B061` [high] PSII splits water to replace lost electrons, producing oxygen as a byproduct — this single reaction in chloroplasts is the source of virtually all breathable oxygen on Earth.
@@ -16,6 +16,7 @@
 - `INS-260330-051F` [high] All death results from irreversible homeostatic failure, regardless of the proximate cause.
 - `INS-260330-F76B` [high] Picosecond laser pulses heat one side of an ink particle so fast that thermal expansion on that side rips it apart before the other side warms up.
 - `INS-260330-9733` [high] White blood cells detect tattoo ink immediately but can only remove particles smaller than themselves, which is why tattoos fade slowly over decades.
+- `INS-260403-2DEE` [high] Tensed muscles absorb punch energy before it reaches organs, while relaxed muscles allow force to transmit directly to vulnerable tissue.
 - `INS-260330-956F` [high] All aerobic life depends on a single reaction — Photosystem II splitting water molecules to release oxygen and energized electrons.
 - `INS-260403-99CE` [high] Oxygen — the gas that enabled all animal life — is literally a waste product of photosynthesis's water-splitting reaction.
 - `INS-260330-57E6` [high] PSII splits water to replace stolen electrons, producing oxygen as literal waste — yet this byproduct enabled the entire aerobic biosphere.

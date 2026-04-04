@@ -1,6 +1,6 @@
 # Topic: scaling
 
-> 125 insights
+> 127 insights
 
 - `INS-260329-CF70` [high] One A+ hire at 170K outperforms five B-players at 100K each in knowledge work.
 - `INS-260327-3930` [high] Nikesh Arora's key M&A principle: acquired founders become the bosses of existing Palo Alto teams, because if incumbents were capable enough, they wouldn't have needed the acquisition.
@@ -87,6 +87,7 @@
 - `INS-260329-9DF3` [high] Four leverage types — Collaboration, Capital, Code, Content — stack multiplicatively to break through revenue ceilings.
 - `INS-260327-1FA1` [high] Top engineers of the future will manage agent teams, not write code—orchestration skill is the new differentiator.
 - `INS-260329-E7A4` [high] Set SLOs tighter than SLAs so the gap between them becomes your error budget — the margin that lets you deploy, experiment, and recover without breaching contracts.
+- `INS-260403-62B4` [high] Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - `INS-260329-F4E4` [high] Stacking revenue quickly without fixing the product creates a fragile tower that can't grow past a certain height — sustainable scale requires going back to rebuild the foundation.
 - `INS-260325-A326` [high] Robinhood's Vlad Tenev: wartime CEOs make fast irreversible decisions with incomplete info — peacetime consensus-building will kill you in crisis.
 - `INS-260322-D5EB` [high] To scale without working more, accept lower short-term profitability to hire people whose capabilities pull the business up beyond what you could do alone.
@@ -122,6 +123,7 @@
 - `INS-260330-8C52` [medium] The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate its starting materials — only 1 in 6 (17%) is net output, yet this sustains all plant life on Earth.
 - `INS-260330-4830` [medium] When repatriation taxes trap offshore profits, companies resort to borrowing domestically against foreign assets rather than deploying capital optimally.
 - `INS-260330-DE65` [medium] Labs forced to monetize their research (like OpenAI) consistently out-commercialize well-funded labs (like Google Brain/DeepMind) because financial pressure drives product focus.
+- `INS-260403-F6F9` [medium] Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
 - `INS-260329-9101` [medium] A 9.5/10 product requires 20x the work of a 7/10 but sells 1000x more, making the extra effort a 50x leverage multiplier.
 - `INS-260327-9641` [medium] Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
 - `INS-260403-83C7` [medium] The rising importance of software in every industry means the cost of bureaucratic checks is increasing, not decreasing, over time.

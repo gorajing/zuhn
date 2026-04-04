@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3460 actionable insights
+Generated on 2026-04-04 | 3470 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1034,6 +1034,7 @@ Generated on 2026-04-04 | 3460 actionable insights
 - [INS-260403-7586] Smart evaluators screen for raw talent, not polish — pretending to be further along than you are conceals the signal they're looking for.
 - [INS-260403-9542] Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 - [INS-260403-F60A] Lower forms of disagreement (name-calling through tone policing) can never be convincing no matter how well-executed.
+- [INS-260403-3D61] A strong-willed patient like Houdini needed the surgery framed in a way that aligned with his identity rather than contradicted it.
 
 ## psychology/consciousness
 - [INS-260323-3C7F] Rosolie's real-time recognition of 'Am I entering a one-way door?' during the tribal encounter demonstrates how framing a situation's reversibility sharpens survival decisions.
@@ -1824,6 +1825,7 @@ Generated on 2026-04-04 | 3460 actionable insights
 - [INS-260403-3F10] Innovation applied to your entire business model — not just your product — creates more durable competitive advantage.
 - [INS-260403-C4DF] Choosing between transaction, recurring, and usage-based revenue is a strategic decision that shapes the entire business, not just the billing page.
 - [INS-260403-C844] Spotify's ad-revenue dependency looked like a strength until the pandemic collapsed advertising budgets overnight.
+- [INS-260403-754F] Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 
 ## startups/co-founders
 - [INS-260323-0B5E] Teams that default to 'more meetings and re-strategizing' instead of shipping are using planning as emotional avoidance of the market test they fear.
@@ -2464,6 +2466,7 @@ Generated on 2026-04-04 | 3460 actionable insights
 - [INS-260403-FE3B] Smart founders make better stories but determined founders make better outcomes — investors should weight determination over intelligence.
 - [INS-260403-2FC3] YC launched its first batch with wet paint on the walls, a borrowed building, and a last-minute location change — and the structure barely changed afterward.
 - [INS-260403-0C1D] Spheres packed as tightly as possible still only cover 91% of a surface — a mathematical ceiling that no amount of optimization can overcome.
+- [INS-260403-886D] Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
 
 ## startups/founder-psychology
 - [INS-260323-81F5] If you cannot imagine yourself working on this problem for 10 years, you will abandon it when the inevitable 2-3 year difficulty spike hits.
@@ -2838,6 +2841,7 @@ Generated on 2026-04-04 | 3460 actionable insights
 - [INS-260403-D966] Good programmers want to work with other good programmers, so talent decline is a one-way ratchet.
 - [INS-260403-E497] Screening for character at entry creates compounding returns through the quality of the network that forms around your organization.
 - [INS-260403-5F3E] Hiring too fast is by far the biggest killer of startups that raise money, as large teams are the effect of growth, not the cause.
+- [INS-260403-6340] Fierce nerds thrive in small groups solving hard problems where being right matters more than being agreeable.
 
 ## startups/ideation
 - [INS-260321-6BA7] Find ideas that have been discarded by others rather than trying to discover something no one has ever thought of.
@@ -3455,6 +3459,8 @@ Generated on 2026-04-04 | 3460 actionable insights
 - [INS-260403-8A80] Costco pays $21/hour (2x retail average) and gets 3x the productivity per employee.
 - [INS-260403-46BD] Every organizational check has a hidden cost, but proposers almost never have to justify that cost against the benefit.
 - [INS-260403-3062] Costco pays double the retail average ($21/hr vs ~$10.50) yet gets 3x more productive employees, making the higher wage a net-positive investment rather than an expense.
+- [INS-260403-F6F9] Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
+- [INS-260403-62B4] Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 
 ## startups/strategy
 - [INS-260322-5E5D] Deliberately changing what content platforms show you — your YouTube algorithm, your feeds — rewires your brain to notice opportunities others miss.
@@ -3519,6 +3525,7 @@ Generated on 2026-04-04 | 3460 actionable insights
 - [INS-260403-F249] Chloroplasts charge thylakoids like batteries by pumping protons to one side, then harvest the imbalance through ATP synthase — a model for how deliberate asymmetry creation drives all productive work.
 - [INS-260403-2C00] Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 - [INS-260403-C40D] Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
+- [INS-260403-8C56] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3630,6 +3637,9 @@ Generated on 2026-04-04 | 3460 actionable insights
 - [INS-260403-19C0] Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.
 - [INS-260403-FBF0] Move initiatives from risky to validated by independently testing whether customers want it, it can make money, and it can be built.
 - [INS-260403-22D3] Test customer desirability cheaply before committing to expensive technology builds.
+- [INS-260403-D379] Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
+- [INS-260403-FFEA] Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
+- [INS-260403-0803] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

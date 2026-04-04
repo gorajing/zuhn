@@ -1,6 +1,6 @@
 # Topic: founder-mindset
 
-> 295 insights
+> 297 insights
 
 - `INS-260320-F751` [very_high] Build something exceptional and they will come — fundraising, hiring, and network emerge from the product itself.
 - `INS-260320-3798` [very_high] Chase proving yourself wrong — the faster you disprove ideas, the faster you find the real one.
@@ -77,6 +77,7 @@
 - `INS-260327-7690` [high] Winston Weinberg says every four months he hits a wall where too many things are going wrong, forcing him to reinvent his leadership structure, make new hires, or cut scope to unlock the next phase of scale.
 - `INS-260328-F1D2` [high] Be insanely impatient to start and push the world to move fast, while accepting that solving hard problems takes years.
 - `INS-260330-F1C8` [high] Track confidence in your investment thesis bullets to know when to persist, adapt, or pivot.
+- `INS-260403-F28B` [high] Most founders are motivated by freedom and financial security, but operating a business full-time provides neither.
 - `INS-260326-291C` [high] AI should amplify founder cognition, not replace it — delegating the hard thinking prevents developing the judgment that separates successful founders from feature-shippers.
 - `INS-260330-F800` [high] Wen's retrospective finding: every department that underperformed at PolyAI was one where the founders hired a leader without first getting hands dirty in that function themselves.
 - `INS-260327-F544` [high] Founding a company is not developing your career — it is a complete reset. If you want a better career, go to a different company.
@@ -214,6 +215,7 @@
 - `INS-260403-4690` [high] Transformative technologies like photography and AI follow an expansionary arc where each technical leap layers new industries on top of existing ones rather than replacing them.
 - `INS-260328-12EE` [high] Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
 - `INS-260402-ECB6` [high] Don't let institutional roles define you — treat them as day jobs and reserve your identity for self-directed work.
+- `INS-260403-886D` [high] Competitive drive without ambitious projects to channel it into reliably turns into bitterness, trolling, and tearing down others' ideas.
 - `INS-260329-6117` [high] The most damaging limits are the ones you don't know you have because you never think to question them.
 - `INS-260329-5C7A` [high] Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
 - `INS-260322-A61A` [high] Stan Lee tested Spider-Man in a dying magazine's last issue because nobody cared what went in it — low-stakes channels are the perfect testing ground for ideas that gatekeepers rejected.

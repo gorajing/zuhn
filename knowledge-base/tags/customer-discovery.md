@@ -13,6 +13,7 @@
 - `INS-260403-7F89` The bottleneck to customer understanding is internal process friction, not lack of resources.
 - `INS-260403-D49E` Shifting from 'buy our product' to 'what do you need' unlocks immediate revenue from startup talent advantages.
 - `INS-260403-08E6` Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
+- `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260330-843E` Non-users reveal the barriers preventing market expansion — problems that existing user feedback will never surface.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
 - `INS-260403-BF09` BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.

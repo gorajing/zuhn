@@ -50,12 +50,11 @@ stance: >-
   at a predictable point systematically underestimate adversary resolve and
   overcommit resources.
 related:
-  - INS-260323-D564
+  - INS-260403-1547
   - INS-260327-4419
   - INS-260327-5E93
   - INS-260323-3982
   - INS-260325-D037
-  - INS-260327-B038
 evidence:
   - id: INS-260323-D564
     type: CHALLENGES

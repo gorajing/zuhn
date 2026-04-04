@@ -44,9 +44,9 @@ stance: >-
 related:
   - PRI-260328-BEAB
   - PRI-260328-82A2
+  - INS-260403-3548
+  - INS-260403-3D61
   - INS-260323-87F3
-  - INS-260327-8521
-  - INS-260330-2D6D
 evidence:
   - id: INS-260323-87F3
     type: TRANSFERS_TO

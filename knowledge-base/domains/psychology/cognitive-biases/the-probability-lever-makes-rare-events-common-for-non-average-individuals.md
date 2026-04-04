@@ -46,10 +46,10 @@ stance: >-
   distribution.
 related:
   - INS-260330-F60B
+  - INS-260403-1547
   - INS-260330-FEDD
   - INS-260323-CF93
   - INS-260330-F31A
-  - INS-260329-1669
 evidence:
   - id: INS-260323-CF93
     type: SUPPORTS

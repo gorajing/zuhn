@@ -1,6 +1,6 @@
 # Topic: expertise
 
-> 49 insights
+> 50 insights
 
 - `INS-260402-F3D7` [high] Having an audience prevents the natural tendency to stop thinking at exactly the point where deeper exploration would be most valuable.
 - `INS-260402-AD42` [high] Sufficiently corrupt tests invert their purpose and select against the people they should be selecting for.
@@ -44,6 +44,7 @@
 - `INS-260403-AB5C` [medium] Increasing knowledge specialization creates more points on the performance curve, widening the gap between average (wisdom) and peaks (intelligence), forcing a civilizational choice.
 - `INS-260403-0AE1` [medium] Jessica Livingston's 'Social Radar' worked precisely because applicants dismissed her as a secretary — attention would have disrupted her ability to read people.
 - `INS-260403-78E2` [medium] Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
+- `INS-260403-B7E3` [medium] Being somewhat overconfident about your abilities empirically leads to better outcomes than perfectly calibrated self-assessment.
 - `INS-260403-8B92` [medium] Ownership has two axes: choosing to do it (pull vs push) and doing it yourself (solo vs collaborative), which combine independently.
 - `INS-260402-B12D` [medium] Professionals seemed superior to amateurs only because narrow channels ensured high average quality; once anyone can publish, audiences select the best regardless of professional status.
 - `INS-260403-1202` [medium] Rollins explicitly states he has no talent — only tenacity, discipline, and focus — and these carried him further than more talented peers.

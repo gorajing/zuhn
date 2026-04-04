@@ -1,6 +1,6 @@
 # Topic: founder-psychology
 
-> 19 insights
+> 20 insights
 
 - `INS-260330-D644` [high] Don't start acquisition conversations unless you'd accept a low offer — the distraction and psychological demoralization of entertaining buyers kills more companies than most founders realize.
 - `INS-260403-E3E6` [high] Most founders who take premature corp dev meetings already know it's a mistake but do it anyway because being wanted feels good.
@@ -16,6 +16,7 @@
 - `INS-260330-DC8B` [medium] Burnout typically signals you're working on something that isn't working or that you don't fundamentally enjoy, not that you need a vacation.
 - `INS-260330-CC9E` [medium] Despite having more liquid spending power than almost anyone on Earth, Jho Low was described by party guests as anxious, unable to enjoy his own events, and desperate to be liked.
 - `INS-260329-6D8B` [medium] Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
+- `INS-260403-DF73` [medium] Founders face coordinated pressure from VCs and executives to abandon instincts that are actually correct.
 - `INS-260330-90AD` [medium] Getting fired from Stanford redirected Keating from safe postdoc work to founding the BICEP experiment — the most important work of his career.
 - `INS-260329-1A64` [medium] When stuck on a decision, ask 'whose voice is telling me not to do this?' — naming the specific person strips the fear of its power.
 - `INS-260329-0014` [medium] Early entrepreneurial support comes from others' increased relative status; later hostility comes from your success highlighting their inaction.

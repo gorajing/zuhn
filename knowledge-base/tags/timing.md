@@ -7,9 +7,9 @@
 - `INS-260327-15E1` The Qing dynasty's late reforms — abolishing the exam system, creating a constitutional monarchy, modernizing the army — actually accelerated its collapse by destabilizing the existing power structure without creating a viable alternative.
 - `INS-260322-03DD` a16z was criticized for raising their first fund in 2009 during the financial crisis, but it turned out that raising when nobody else has capital gives structural advantages in deal access and pricing.
 - `INS-260327-25C7` Marshal Grouchy's failure to march to Waterloo when he heard the guns — pursuing a phantom Prussian force instead — turned a possible French victory into total defeat.
+- `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - `INS-260402-B66A` Your early twenties offer unique exploration that a startup's all-consuming depth-first search permanently forecloses.
 - `INS-260330-255F` Only enter a category when you can make it one to two orders of magnitude better than what exists — if the technology or market isn't ready, wait.
-- `INS-260403-14D5` You don't need to grow up or go to college in a great city, but you should be in one during the critical early-to-mid career phase when you're finding your problems and peers.
 - `INS-260402-2A1D` College concentrates smart, unattached, ambitious people evaluating each other on identical tasks—conditions for co-founder discovery that never recur at the same density.
 - `INS-260330-6A47` In winner-take-all markets, being adequate first beats being optimal later because the first mover reshapes the competitive environment.
 - `INS-260403-F932` If a new medium makes you nervous, it will probably win — jump in immediately rather than protecting your old model.

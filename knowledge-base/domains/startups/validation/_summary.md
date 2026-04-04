@@ -1,6 +1,6 @@
 # Topic: validation
 
-> 107 insights
+> 110 insights
 
 - `INS-260329-F7F4` [high] When a functional prototype costs 15 minutes instead of 3 months, validation shifts from optional luxury to mandatory first step.
 - `INS-260327-CD36` [high] At least 70% of YC's top 100 companies by valuation came from ideas noticed organically rather than deliberate brainstorming, because brainstorming systematically produces tar pit ideas.
@@ -25,6 +25,8 @@
 - `INS-260329-34A9` [high] Ramsey's 'personal finance is 80% behavior, 20% head knowledge' insight means education businesses must solve for accountability and behavior change, not just information delivery.
 - `INS-260323-2726` [high] Software engineers gravitate toward writing code because it feels like progress, but building without user validation is the most expensive form of procrastination.
 - `INS-260330-5EA4` [high] If users tolerate a problem and keep using your product, that problem is by definition not a critical blocker.
+- `INS-260403-D379` [high] Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
+- `INS-260403-FFEA` [high] Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260402-E140` [high] Neither the most confident nor the most humble founders reliably succeed — startup demands are too different from any prior life test to predict.
 - `INS-260327-1E44` [high] Developers spend 60% of their time on non-coding activities — finding and automating those repetitive workflows is where AI startups should focus.
 - `INS-260330-48DE` [high] Users ask for specific features but the real insights are the goals behind those requests — Twitch built subscriptions (not polls) because the underlying goal was making money.
@@ -59,6 +61,7 @@
 - `INS-260323-40AA` [high] Friends and acquaintances will give positive feedback and feature requests not because they want your product, but because they want to be nice to you — this deceiving signal drives fatal feature creep.
 - `INS-260403-DC32` [high] Sequoia and top VCs look for 'proxy for demand' — evidence that people are already struggling with inadequate tools — rather than abstract market size numbers.
 - `INS-260330-281A` [high] Recorded interviews have an almost magical persuasive effect on teammates — far more than second-hand summaries of findings.
+- `INS-260403-0803` [high] Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260403-D563` [high] RuBisCo fails half the time with oxygen yet remains universal because plants built everything around it — the ultimate legacy system.
 - `INS-260330-38E1` [high] Every Navy ship has been tested as a scale model first because a failed model test costs thousands while a failed ship costs billions.
 - `INS-260403-BF09` [high] BioCity discovered that biologists and chemists had entirely different pains and gains regardless of whether they worked at a university, biotech startup, or large pharma company.

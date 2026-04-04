@@ -31,10 +31,10 @@
 - `INS-260322-9172` Successful brands ask fundamental questions and act fast on answers; failing brands have CEOs who already decided the answer and insist 'just do it this way.'
 - `INS-260327-29F0` The framework is not the hard part — getting the entire leadership team aligned on one strategic story is where the real value lies.
 - `INS-260322-D57C` When scaling, CEOs cannot just delegate customer-facing work — they must personally demonstrate the brand's standard alongside new employees so sensibility transfers through shared experience.
+- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260330-8048` Mark Zuckerberg chose monthly active users over registered users and held everyone — internal and external — to that metric, which prevented the vanity-metric trap that killed competitors.
 - `INS-260330-4B16` Startups should not have dedicated growth teams and the CEO should set and enforce a single North Star metric so every autonomous decision compounds toward the same goal.
 - `INS-260330-2347` When Facebook's growth slowed in 2008, Mark Zuckerberg didn't give speeches — he created a growth group focused on small tactical wins that became Facebook's most prestigious team.
-- `INS-260330-687B` Delaying a necessary firing risks losing good employees who won't tolerate a toxic colleague, and equivocating during the termination creates legal and emotional complications.
 - `INS-260403-1B15` Business models expire faster than CEO tenures, forcing leaders to build systematic invention capabilities rather than ride a single model.
 - `INS-260403-9627` Committees produce safe, lumpy designs because no group will agree to the bold risks that distinguish great work.
 - `INS-260329-5A24` Declaring amnesty for past failures lets teams diagnose the real problem instead of defending their territory.
@@ -47,6 +47,7 @@
 - `INS-260323-5737` Gabbard's daily task of reading every combat injury list name by name never became routine -- this forced daily confrontation with the human cost of policy decisions prevented the normalization that enables bureaucratic indifference.
 - `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260330-341D` Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
+- `INS-260403-8B5A` Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260327-5F94` The acute crisis gets adrenaline and support; the real challenge is the psychological rebuilding on day 60 that nobody talks about.
 - `INS-260323-BC20` The true measure of a leader is the quality of decisions they make on ordinary days, not how they perform in dramatic crises.
 - `INS-260323-FBD9` Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.

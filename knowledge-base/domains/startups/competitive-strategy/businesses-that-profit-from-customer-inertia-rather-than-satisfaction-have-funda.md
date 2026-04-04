@@ -40,8 +40,9 @@ stance: >-
   customer desire to continue face disruption from any competitor that reduces
   switching costs.
 related:
-  - INS-260327-D0F4
   - INS-260327-4431
+  - INS-260327-D0F4
+  - INS-260403-754F
   - INS-260330-930D
   - INS-260322-F6AA
   - INS-260327-AB2A

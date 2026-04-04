@@ -52,10 +52,10 @@ stance: >-
   reliable way to find actual breaking points
 related:
   - INS-260330-D7CA
+  - INS-260403-2DEE
   - INS-260330-D1A1
   - INS-260330-4B45
   - INS-260323-257D
-  - INS-260330-30F0
 evidence:
   - id: INS-260330-D7CA
     type: TRANSFERS_TO

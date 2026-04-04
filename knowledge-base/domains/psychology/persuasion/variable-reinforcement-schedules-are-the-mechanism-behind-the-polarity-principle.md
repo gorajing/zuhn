@@ -57,6 +57,7 @@ related:
   - INS-260330-8A0C
   - INS-260325-26CF
   - INS-260329-1D08
+  - INS-260403-5843
 ---
 The Polarity Principle — where uncertainty strengthens attachment — is not a unique relationship phenomenon but an instance of variable-ratio reinforcement, the most extinction-resistant conditioning schedule known. This is the same mechanism that makes slot machines, social media feeds, and loot boxes compelling.
 

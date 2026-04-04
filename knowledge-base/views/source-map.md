@@ -449,11 +449,13 @@ Generated on 2026-04-04 | 2421 sources
 | The Brand Age | blog | 5 | 2026-03-31 |
 | The Brutally Honest 10-Year Startup Journey Map | blog | 5 | 2026-03-30 |
 | The Bus Ticket Theory of Genius | blog | 5 | 2026-03-31 |
+| The Case for Big Action to Regulate Artificial Intelligence | blog | 5 | 2026-03-30 |
 | The Creator Economy 2025 | blog | 5 | 2026-03-30 |
 | The Dark Side of the 9-9-6 Work Culture⏰, AI's Impact on SaaS Growth🤖, VCs Are Rethinking Deal Sourcing🔍 | blog | 5 | 2026-03-30 |
 | The Dilbert Afterlife | blog | 5 | 2026-03-30 |
 | The economic consequences of the Iran war | blog | 5 | 2026-03-30 |
 | The Evolution of Growth Hacking in 2025 | blog | 5 | 2026-03-30 |
+| The Fall of the Nerds | blog | 5 | 2026-03-30 |
 | The Fatal Pinch | blog | 5 | 2026-03-31 |
 | The Founder Operating System: Best Startup Resources 2026 | blog | 5 | 2026-03-30 |
 | The Future of Startup Funding | blog | 5 | 2026-03-31 |
@@ -774,6 +776,7 @@ Generated on 2026-04-04 | 2421 sources
 | 4 Innovative Business Pivots In The Age Of The Pandemic | blog | 4 | 2026-03-31 |
 | 4 Simple Steps To Build Better Value Propositions With A/B Testing | blog | 4 | 2026-03-31 |
 | 4 Stages of Go-To-Market Strategy | blog | 4 | 2026-03-30 |
+| 5 Lean Startup Essentials to Reduce Risk and Uncertainty | blog | 4 | 2026-03-31 |
 | 6 Roles That Can Position Your Company For The Future | blog | 4 | 2026-03-31 |
 | 7 Insights from our Webinar with Hubert Joly | blog | 4 | 2026-03-31 |
 | 7 Questions to Assess Your Business Model Design | blog | 4 | 2026-03-31 |
@@ -785,6 +788,7 @@ Generated on 2026-04-04 | 2421 sources
 | Advice to Startup Founders and Employees: Strength Doesn’t Always Come in Numbers | blog | 4 | 2026-03-30 |
 | ‘AI eats the world’🧠, Unicorn Production Hits a 3‑Year High🦄, 10 Startup Resources You Can’t Afford to Skip📚 | blog | 4 | 2026-03-30 |
 | AI has the worst sales pitch I've ever seen | blog | 4 | 2026-03-30 |
+| AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 4 | 2026-03-30 |
 | An Ode to Launch | blog | 4 | 2026-03-31 |
 | Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️ | blog | 4 | 2026-03-30 |
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
@@ -805,9 +809,11 @@ Generated on 2026-04-04 | 2421 sources
 | Debugging as architecture insight: dissecting a VLA | blog | 4 | 2026-03-22 |
 | Default Alive or Default Dead? | blog | 4 | 2026-03-31 |
 | Don't Talk to Corp Dev | blog | 4 | 2026-03-31 |
+| Fierce Nerds | blog | 4 | 2026-03-31 |
 | Financial Modeling for Founders | blog | 4 | 2026-03-30 |
 | Forbes’ 25 Next Unicorns🦄, Women Now Hold 20% of Top VC Roles👩‍💼, The Case for Optimism🌟 | blog | 4 | 2026-03-30 |
 | Founder-Market Fit: The VC Test You Must Pass | blog | 4 | 2026-03-30 |
+| Founder Mode | blog | 4 | 2026-03-31 |
 | Free Product-Market Fit Template for Founders | blog | 4 | 2026-03-30 |
 | Good and Bad Procrastination | blog | 4 | 2026-03-31 |
 | Good Writing | blog | 4 | 2026-03-31 |
@@ -861,6 +867,7 @@ Generated on 2026-04-04 | 2421 sources
 | The High-Res Society | blog | 4 | 2026-03-31 |
 | The List of N Things | blog | 4 | 2026-03-31 |
 | The Other Half of "Artists Ship" | blog | 4 | 2026-03-31 |
+| The Pooled-Risk Company Management Company | blog | 4 | 2026-03-31 |
 | The Post-Scheduling Era: How Meet-Ting Is Building the Future of AI Coordination | blog | 4 | 2026-03-30 |
 | The Race to 160 | blog | 4 | 2026-03-31 |
 | The Real Cost of Churn: Why Every Lost Customer Is a Growth Killer | blog | 4 | 2026-03-30 |
@@ -947,6 +954,7 @@ Generated on 2026-04-04 | 2421 sources
 | How Cruise Ships Work | youtube | 4 | 2026-03-30 |
 | How Earth Moves | youtube | 4 | 2026-03-30 |
 | How Hard Can You Hit a Golf Ball? (at 100,000 FPS) - Smarter Every Day 216 | youtube | 4 | 2026-03-30 |
+| How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | youtube | 4 | 2026-03-30 |
 | How I Grew My App to $13K/month (Even Though I Hate Marketing) | youtube | 4 | 2026-03-22 |
 | How I would learn music production (If I had to start over in 2026) | youtube | 4 | 2026-03-22 |
 | How Insta360 Crushed GoPro | youtube | 4 | 2026-03-24 |
@@ -1810,7 +1818,6 @@ Generated on 2026-04-04 | 2421 sources
 | 5 Characteristics Of A Great Strategy Workshop Facilitator | blog | 0 | 2026-03-31 |
 | 5 Common Mistakes to Avoid When Using the Value Proposition Canvas | blog | 0 | 2026-03-31 |
 | 5 Forces Acting Upon Your Business Model | blog | 0 | 2026-03-31 |
-| 5 Lean Startup Essentials to Reduce Risk and Uncertainty | blog | 0 | 2026-03-31 |
 | 5 OpenClaw agents run my home, finances, and code | Jesse Genet | blog | 0 | 2026-03-31 |
 | 5 Questions You Never Dared to Ask About the Business Model Canvas | blog | 0 | 2026-03-31 |
 | 5 Tools For New Business Success | blog | 0 | 2026-03-31 |
@@ -1876,7 +1883,6 @@ Generated on 2026-04-04 | 2421 sources
 | AI Is Coming for Venture Firms 🤖, Most Active VCs and CVCs📊, Anthropic’s Blueprint for Smarter AI 🛠️ | blog | 0 | 2026-03-30 |
 | AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel | blog | 0 | 2026-03-31 |
 | AI Is Eating VC📉, Most-Active US Investors💵, Longevity Tech Rebounds🧬 | blog | 0 | 2026-03-30 |
-| AI is eating VC🔥, The YC “Over-Concentration” Myth💡, State of Venture Q3’25🚀 | blog | 0 | 2026-03-30 |
 | AI is Polytheistic⚖️, Where's My Moat?🏰, Index is the New Sequoia🚀 | blog | 0 | 2026-03-30 |
 | AI Is Vertical 🤖, Why Agentic AI Could Be Doomed to Fail🤔, State of Marketing 📢 | blog | 0 | 2026-03-30 |
 | AI or Nothing💸, Replit founder on How to Keep Winning 💪, AI Superintelligence Bans⚔️ | blog | 0 | 2026-03-30 |
@@ -2047,13 +2053,11 @@ Generated on 2026-04-04 | 2421 sources
 | Family Offices That Cut Pre-Seed Checks (And How to Reach Them) | blog | 0 | 2026-03-30 |
 | Fashionable Problems | blog | 0 | 2026-03-31 |
 | February 2025 Startups Raising Capital | blog | 0 | 2026-03-30 |
-| Fierce Nerds | blog | 0 | 2026-03-31 |
 | Filters that Fight Back | blog | 0 | 2026-03-31 |
 | Five Founders | blog | 0 | 2026-03-31 |
 | Foundational Equity Report📜, AI and Startup Trends for 2025🔮, Why Ownership Matters to VCs🧑‍💼 | blog | 0 | 2026-03-30 |
 | Founder Control | blog | 0 | 2026-03-31 |
 | Founder Mode👨‍💼, The Extinction of VC💀, How to Build More Pipeline🚀 | blog | 0 | 2026-03-30 |
-| Founder Mode | blog | 0 | 2026-03-31 |
 | Founder Ownership in VC-Backed Companies📊, The Fund of Funds Fallacy❌, Why AI Infrastructure Startups Are Booming🏗️ | blog | 0 | 2026-03-30 |
 | Founders: Are You Raising Enough? Or Too Much? Here’s the Tool You Need | blog | 0 | 2026-03-30 |
 | Free AI Fundraising Kit for Founders | 10,000 Investors, 50 Pitch Decks, and Startup Credits | blog | 0 | 2026-03-30 |
@@ -2240,7 +2244,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Billion-Dollar Revenue Club💰, Product Metrics That Matter🎯, Time-to-Value in AI Age⏱️ | blog | 0 | 2026-03-30 |
 | The Broken Venture Capital System, Chinese VCs failed founders blacklist, AI-Powered Investment Memo Generator | blog | 0 | 2026-03-30 |
 | The Cap Table Commandments Every Founder Should Know | blog | 0 | 2026-03-30 |
-| The Case for Big Action to Regulate Artificial Intelligence | blog | 0 | 2026-03-30 |
 | The Citrini post is just a scary bedtime story | blog | 0 | 2026-03-30 |
 | The confidential YouTube Investment Memo by Sequoia you were never meant to see | blog | 0 | 2026-03-30 |
 | The Crucial Role of Timing in Startup Success ⌛ | blog | 0 | 2026-03-30 |
@@ -2250,7 +2253,6 @@ Generated on 2026-04-04 | 2421 sources
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
 | The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 0 | 2026-03-30 |
 | The Equity Equation | blog | 0 | 2026-03-31 |
-| The Fall of the Nerds | blog | 0 | 2026-03-30 |
 | The First On-Chain Yield Engine Bringing Institutional Yield Opportunities to Everyday Investors | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Founders Fund Story🔥, YC Investing Patterns📊, AI in the Enterprise🔍 | blog | 0 | 2026-03-30 |
@@ -2273,7 +2275,6 @@ Generated on 2026-04-04 | 2421 sources
 | The Only Peter Thiel Pitch Deck: Lessons for Founders | blog | 0 | 2026-03-30 |
 | The Patent Pledge | blog | 0 | 2026-03-31 |
 | The Pitch Decks That Built Unicorns | blog | 0 | 2026-03-30 |
-| The Pooled-Risk Company Management Company | blog | 0 | 2026-03-31 |
 | The Product-Market Fit Guide: How to Achieve PMF 🔑 | blog | 0 | 2026-03-30 |
 | The Python Paradox | blog | 0 | 2026-03-31 |
 | The Race for AI Supremacy is Over🏁, State of VC and Its Impact on DPI📉, SaaS VC Trends☁️ | blog | 0 | 2026-03-30 |
@@ -2397,7 +2398,6 @@ Generated on 2026-04-04 | 2421 sources
 | Harvard negotiator explains how to argue | Dan Shapiro | youtube | 0 | 2026-03-30 |
 | How An Infinite Hotel Ran Out Of Room | youtube | 0 | 2026-03-30 |
 | How Apple and Nike have branded your brain | Your Brain on Money | Big Think | youtube | 0 | 2026-03-30 |
-| How Houdini DIED (in Slow Motion) - Smarter Every Day 108 | youtube | 0 | 2026-03-30 |
 | How the body keeps the score on trauma | Bessel van der Kolk for Big Think+ | youtube | 0 | 2026-03-30 |
 | If You Want to Learn, Do | youtube | 0 | 2026-03-30 |
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |

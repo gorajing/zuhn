@@ -50,8 +50,8 @@ related:
   - INS-260329-180B
   - INS-260329-B28C
   - PRI-260328-70D9
+  - INS-260403-754F
   - INS-260322-3C3D
-  - INS-260403-FB4D
 ---
 When designing experiments, founders instinctively test easy-to-measure feature variations (pricing tiers, UI tweaks, delivery options) rather than the harder existential question: does anyone actually want this? The article uses the example of testing free delivery for a diet program before confirming customers even want to diet. This sequencing error is expensive because positive signals on secondary features create false confidence in the underlying value proposition.
 

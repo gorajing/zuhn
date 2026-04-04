@@ -7,3 +7,4 @@
 - `INS-260403-ADB3` Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - `INS-260330-08FA` The strongest fundraising position is not needing the money — reach ramen profitability before raising.
 - `INS-260403-AEB3` Attractive-sounding startup ideas are poor bets because many people pursue them, driving down returns via supply and demand.
+- `INS-260403-8C56` Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.

@@ -1,6 +1,6 @@
 # Topic: cognitive-biases
 
-> 241 insights
+> 242 insights
 
 - `INS-260326-163A` [very_high] Data quality dominates ML architecture just as install base and data gravity beat product design elegance in business -- what you've accumulated is the moat, not how you've arranged it.
 - `INS-260326-CA66` [very_high] Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
@@ -141,6 +141,7 @@
 - `INS-260325-A1BC` [high] The Colosseum (50K capacity) defines our image of Roman entertainment, but the Circus Maximus (250K capacity) was the real center of excitement — it just did not survive.
 - `INS-260330-E0AA` [high] Without Native American written records, even sympathetic European accounts still frame indigenous experience through European categories and concerns.
 - `INS-260329-D8C7` [high] The college earnings premium conflates the value of the degree with the pre-existing traits of people who pursue degrees.
+- `INS-260403-1547` [high] Houdini's long history of surviving dangerous stunts created a cognitive model where he believed he was immune to the risks that killed him.
 - `INS-260330-2784` [high] The 'Fall of Rome' is a framing choice that erases 1000 years of Byzantine continuation, illustrating how dominant narratives shape what we consider real.
 - `INS-260326-A7CB` [high] The body shows nutritional deficiencies on skin and nails years before blood tests detect disease -- just as emotions flag relationship problems before conscious analysis catches up.
 - `INS-260403-53C9` [high] Photosynthesis produced oxygen that poisoned its own key enzyme, forcing plants to build elaborate workarounds for a problem they created.

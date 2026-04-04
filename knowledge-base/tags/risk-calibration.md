@@ -1,0 +1,3 @@
+# Tag: risk-calibration
+
+- `INS-260403-1547` Houdini's long history of surviving dangerous stunts created a cognitive model where he believed he was immune to the risks that killed him.

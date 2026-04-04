@@ -50,6 +50,7 @@
 - `INS-260329-3EC3` Define your ideal customer as one hyper-specific person rather than a broad demographic to unlock premium pricing and faster sales cycles.
 - `INS-260330-40E9` Users will say 'that sounds great' to almost any feature idea — validate with behavior observation or payment commitment instead.
 - `INS-260330-CFBF` Founders mistake the rituals of starting a startup for the substance, because their entire education trained them to game systems.
+- `INS-260403-0803` Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260329-1739` Building something you personally want to use has fallen out of fashion due to TAM-obsessed VC thinking, but it remains the most reliable path to unique, defensible ideas.
 - `INS-260403-C228` A.Team's founder described palpable energy in early Zoom rooms as teams formed — genuine product-market fit in marketplaces announces itself through participant enthusiasm, not metrics gymnastics.
 - `INS-260403-45AA` Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.

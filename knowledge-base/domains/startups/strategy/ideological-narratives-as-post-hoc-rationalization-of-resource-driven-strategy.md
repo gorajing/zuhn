@@ -47,7 +47,6 @@ stance: >-
   Organizations build elaborate ideological narratives to justify strategies
   that are fundamentally driven by resource constraints and survival needs
 related:
-  - INS-260323-1452
   - INS-260321-D4D0
   - PRI-260323-A5E8
   - INS-260330-7D83
@@ -55,6 +54,7 @@ related:
   - INS-260330-1243
   - INS-260330-4AC6
   - INS-260330-8CD4
+  - INS-260403-886D
 evidence:
   - id: INS-260323-1452
     type: SUPPORTS

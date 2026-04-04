@@ -5,3 +5,4 @@
 - `INS-260323-78A5` Casper rejected Target's $900M acquisition offer because it wasn't a billion dollars; the company IPO'd at $500M, then continued dropping — the unicorn ego cost investors hundreds of millions.
 - `INS-260402-9288` Taking a high valuation narrows the field of potential acquirers and can turn a likely win into an unlikely moonshot.
 - `INS-260403-5B89` Giant VC rounds inflate valuations to levels where only IPOs satisfy investors, eliminating smaller but perfectly good exits.
+- `INS-260403-8C56` Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.

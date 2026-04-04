@@ -5,18 +5,17 @@
 - `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
 - `INS-260322-13D6` AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
-- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
 - `INS-260403-951B` Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
 - `INS-260402-FE91` If you can think ideas that would make people's hair stand on end, the 'small trips outside the box' that people call innovation become effortless.
 - `INS-260402-F853` Writing forces idea formation that pure thinking cannot achieve alone.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260403-83E2` Once you're established, you lose the freedom to mess around with random projects — and that freedom was the source of your best ideas.
 - `INS-260403-A4CF` Being smart is a prerequisite for new ideas but the two are far from identical, and most smart people produce nothing original.
 - `INS-260403-78E2` Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - `INS-260403-7093` Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 - `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
 - `INS-260325-71DE` Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
 - `INS-260323-369C` The most dangerous aspect of addiction for creative people is the false belief that substances are the source of creativity — Callaghan proved the creative engine survives intact after sobriety.
@@ -35,7 +34,6 @@
 - `INS-260330-8E8A` New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
 - `INS-260330-1E5E` On hard problems, stop trying to solve them directly — play with the structure until patterns emerge.
 - `INS-260403-1448` The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
-- `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260327-7F6A` Thompson's gonzo journalism was both his greatest creative achievement and commercially unsustainable - the paradox every creative person faces between authenticity and viability.
 - `INS-260330-2B3F` Rick Rubin identifies creativity as a bodily feeling — a 'surge of energy' — rather than an intellectual process, and uses taste-testing as the metaphor for creative decision-making.
@@ -43,6 +41,7 @@
 - `INS-260330-548E` Rubin identifies owning your aesthetic feelings in the face of external disagreement as 'probably the single most important thing to practice as an artist.'
 - `INS-260325-568A` Every great scientific breakthrough, even those attributed to lone geniuses, arose from collaborative social contexts — and knowing this helps us create better conditions for future discovery.
 - `INS-260330-30DE` Practicing imagined rediscovery of existing inventions prepares your mind for serendipitous breakthroughs.
+- `INS-260323-72EB` Einstein's greatest leap was not mathematical but conceptual — connecting the undetectability of gravity to the curvature of spacetime required creative reasoning, not just calculation.
 - `INS-260330-2492` Rubin argues that infinite choices don't lead to better creative work — deliberately limiting your palette (e.g., only green and red paint) forces novel problem-solving that unconstrained freedom cannot.
 - `INS-260323-A430` Dark humor requires more skill than light humor — like a chef making obscure ingredients palatable versus making bacon taste good — and serves as psychological relief.
 - `INS-260403-943D` Deliberately generating 'bad' ideas is the path to genuinely differentiated branding in commodity markets.
@@ -59,3 +58,4 @@
 - `INS-260402-EE6E` The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
 - `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
 - `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
+- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.

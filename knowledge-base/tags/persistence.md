@@ -1,11 +1,11 @@
 # Tag: persistence
 
 - `INS-260320-06EF` Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
+- `INS-260327-7DBC` With zero credibility, the Diary of a CEO team messaged 1,000 people per week to book guests — pure numbers game persistence drove them from 8K to 13M subscribers.
 - `INS-260327-3FC7` Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
 - `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
-- `INS-260327-7DBC` With zero credibility, the Diary of a CEO team messaged 1,000 people per week to book guests — pure numbers game persistence drove them from 8K to 13M subscribers.
-- `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
+- `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
 - `INS-260329-A077` Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
 - `INS-260403-6AD0` A photon takes millions of years bouncing randomly inside a star before escaping — a powerful metaphor for progress through complex, opaque systems.

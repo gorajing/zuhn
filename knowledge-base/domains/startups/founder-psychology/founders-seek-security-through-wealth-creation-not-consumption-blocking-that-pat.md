@@ -51,9 +51,9 @@ stance: >-
 related:
   - INS-260402-8C0E
   - INS-260403-0530
+  - INS-260403-F28B
   - INS-260402-E140
   - INS-260330-70BF
-  - INS-260403-160A
 ---
 Graham reveals that his own motivation for founding a startup was not consumption but security — making enough money to stop worrying about money. This reframes founder motivation from greed to risk management. The startup path is actually a high-variance strategy for achieving the same goal (financial security) that a tenured professorship achieves through low-variance means.
 

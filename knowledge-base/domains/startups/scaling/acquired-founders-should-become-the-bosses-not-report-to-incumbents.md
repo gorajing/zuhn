@@ -56,5 +56,6 @@ related:
   - INS-260330-D8D1
   - INS-260330-654D
   - INS-260403-0020
+  - INS-260403-0FEC
 ---
 Across 27+ acquisitions, Palo Alto Networks developed a counterintuitive integration playbook. Rather than having acquired founders report to an existing SVP, the founders run the combined function. The logic is brutal but sound: these founders kicked your ass in the market with fewer resources, so they must know things better than your people. Arora also requires a jointly designed product roadmap before the deal closes (learned the hard way when early acquisitions had founders building whatever they wanted), uses unvesting of half the founder's stock over three years topped up with 25-40% additional equity to lock in retention, and focuses on accelerating the acquired team's velocity rather than forcing bureaucratic drag. The result: nearly all primary founders have lasted the full three-year retention period, and some made more money as part of Palo Alto than in the seven years they ran their own company.

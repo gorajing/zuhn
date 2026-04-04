@@ -27,9 +27,9 @@
 - `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
 - `INS-260330-9BC3` A vacuum cannon works by combining negative pressure (vacuum) with positive pressure across a sealed boundary — the differential produces forces neither side could generate alone.
 - `INS-260330-6F36` Clear thinking lets you identify the 1% of decisions that matter and apply leverage to magnify their impact.
-- `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
 - `INS-260325-B206` When two operations turn out to be inverses (like integration and differentiation), knowing how to do one gives you the other for free.
+- `INS-260329-B533` Self-improvement is the single lever that makes all dating tactics redundant.
 - `INS-260326-16A8` Sleep deprivation doesn't just make you tired -- it degrades immune function, insulin sensitivity, emotional regulation, and cognitive performance simultaneously, just as attention depletion collapses decision quality across every life domain.
 - `INS-260329-5257` Price services as a percentage of measurable value delivered rather than hours worked.
 - `INS-260321-7D76` A common mistake is automating wherever it's easiest rather than wherever the constraint actually is. The single biggest bottleneck in your process probably accounts for most of the available gains. Find that one thing. Automate that.

@@ -3,6 +3,7 @@
 - `INS-260322-C472` For AI startups to beat established software companies like Salesforce, they need all three: a reimagined proactive UI, access to new data sources (unstructured data over structured databases), and a disruptive business model beyond seat-based pricing.
 - `INS-260326-CA66` Insulin resistance manifests as heart disease, diabetes, obesity, and dementia -- just as a misidentified business model manifests as churn, pricing problems, and sales failures.
 - `INS-260322-FCFC` Companies where AI reinforces the business model by driving revenue — not just cutting costs — see dramatically stronger market pull and adoption.
+- `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - `INS-260327-D285` Don't just build a better product—build a business model that makes incumbents look exploitative.
 - `INS-260323-F274` Success podcasts follow a 4-step loop: create/exploit anxiety, promise the solution, deliver partial satisfaction, repeat — a model that requires listeners to stay anxious to keep consuming.
 - `INS-260321-3BA8` The Department of War is replacing cost-plus contracts with 1000-requirement RFPs with simple firm-fixed-price requirements — the SpaceX model where vendors keep margins from economizing.

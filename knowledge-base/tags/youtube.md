@@ -1,7 +1,7 @@
 # Tag: youtube
 
-- `INS-260320-D58E` An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260320-6845` An n8n workflow pulls YouTube links from Google Sheets, extracts transcripts via Dumpling AI, transforms them into newsletter drafts with GPT-4o, and logs results back to Sheets.
+- `INS-260320-D58E` An n8n workflow scrapes YouTube, Reddit, Twitter, and the web daily to identify content outliers and trending topics, then generates detailed content ideas with scripts, hooks, and storylines.
 - `INS-260321-AACC` MrBeast spent a decade obsessing over one question: what makes content enjoyable for anyone regardless of geography? The answer is universal human experiences.
 - `INS-260323-7263` Messaging on Discord, following creators who resonate with you, and having online friends all genuinely reduce loneliness and matter as real social connection — not just a substitute for in-person relationships.
 - `INS-260329-9DEE` Foundational technology tutorials generate perpetual traffic because new beginners constantly enter the field while the fundamentals rarely change.

@@ -50,7 +50,6 @@ stance: >-
   wrong.
 related:
   - INS-260320-9118
-  - INS-260403-99D1
   - INS-260323-4457
   - INS-260330-CA97
   - INS-260403-5C1D

@@ -2,6 +2,7 @@
 
 - `INS-260321-E5C5` The ideal AI startup founding team is one builder who ships in 24 hours and one go-to-market person with audience empathy.
 - `INS-260403-1000` Business models should be treated as living, continuously iterable documents rather than fixed five-year plans.
+- `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - `INS-260402-D534` Business models emerge from iterative experimentation, not from top-down strategic planning.
 - `INS-260322-2155` Selling frozen dumplings below cost on a recipe-sharing social platform proved market demand existed before investing in infrastructure — the pre-prototype validates the hypothesis, not the product.
 - `INS-260403-62B2` BioCity found that presenting business model validation as scientific experimentation made the business world accessible to scientists who previously felt alienated by it.
@@ -11,8 +12,11 @@
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
 - `INS-260403-22D3` Test customer desirability cheaply before committing to expensive technology builds.
 - `INS-260403-DD95` Default customer interviews produce biased data — structured de-biasing techniques are required for truthful feedback.
+- `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
+- `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260330-5D4F` Ship in hours, not weeks — DoorDash launched with a landing page, PDF menus, and a phone number in under an hour and validated real demand immediately.
 - `INS-260403-3E3B` Ranking pains by intensity and frequency forces triage that prevents building features for low-stakes annoyances.
+- `INS-260403-0803` Identify and test the single assumption whose failure would invalidate everything else before touching any other hypothesis.
 - `INS-260329-180B` Limit your first app to one core feature so you can ship fast and get real user feedback before building more.
 - `INS-260323-E15F` When every founder can build fast with AI tools, the bottleneck shifts permanently from execution speed to insight discovery speed.
 - `INS-260403-45AA` Test Cards (hypothesis definition) paired with Learning Cards (evidence capture) formalize the experimental loop most startups run informally or skip entirely.

@@ -24,7 +24,7 @@ last_accessed: null
 access_count: 0
 indexed: true
 embedded: true
-embedding_model: "nomic-embed-text"
+embedding_model: nomic-embed-text
 resolutions:
   one_line: >-
     The same environment you use to eval your model offline can be used as your
@@ -55,7 +55,7 @@ related:
   - INS-260325-20C4
   - INS-260325-8F49
   - INS-260322-3616
-  - INS-260327-7C69
+  - INS-260403-FFEA
 ---
 Prime Intellect argues that the separation between evals (static question-answer benchmarks) and RL environments (stateful interaction loops) is collapsing. Modern evals like SWE-Bench and Terminal-Bench already involve complex state, simulated applications, and multi-step agent interactions. They have defined goals and reward functions. This makes them directly usable as reinforcement learning training environments.
 

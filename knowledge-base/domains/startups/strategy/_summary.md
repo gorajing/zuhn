@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 180 insights
+> 181 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -96,6 +96,7 @@
 - `INS-260324-0A26` [high] The US government used the American Dream (home + car ownership) as both domestic reintegration tool for veterans and Cold War propaganda against Soviet communism, while Europe nationalized transit.
 - `INS-260329-C26B` [high] The mindset that wins pre-PMF (just ship, no strategy) actively harms post-PMF growth if not evolved.
 - `INS-260330-1DCF` [high] Financing underlies distribution which underlies product — great product strategy means thinking in this layered order.
+- `INS-260403-8C56` [high] Being profitable lets you wait out acquisition market cycles and capture fair average-case valuations rather than being forced into bad timing.
 - `INS-260330-CB2E` [high] Jho Low let Malaysia's Deputy PM take full credit for brokering a Middle East investment deal, converting zero public credit into private access to the country's most powerful person.
 - `INS-260323-D934` [high] What is rational for one person can be irrational for the group — rational societies are built from cooperators, not defectors.
 - `INS-260330-6DEB` [high] Breaking systems into parts for analysis — the foundation of modern science — systematically blinds us to emergent behaviors that only appear when parts interact.

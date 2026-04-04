@@ -1,7 +1,7 @@
 # Tag: emotional-regulation
 
-- `INS-260330-B869` Awareness is the one constant that never changes while everything observed within it fluctuates, making it a uniquely stable psychological anchor.
 - `INS-260329-D9A4` Redefine success as daily activity completion rather than revenue or follower milestones to break the feast-famine cycle.
+- `INS-260330-B869` Awareness is the one constant that never changes while everything observed within it fluctuates, making it a uniquely stable psychological anchor.
 - `INS-260329-6D8B` Entrepreneurial 'strategy sessions' about new directions often mask emotional avoidance of difficult execution work.
 - `INS-260330-3138` Success amplifies both the highs and lows of founding — the swings get wider, not smaller.
 - `INS-260402-7FCC` Be optimistic about what you can do but assume every external deal will fall through — not to avoid disappointment but to prevent leaning your company against something that will collapse.

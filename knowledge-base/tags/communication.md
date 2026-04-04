@@ -30,13 +30,13 @@
 - `INS-260403-F171` Craft a single compelling phrase ('the X of Y') that investors will remember after hearing dozens of pitches.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.
 - `INS-260403-0AF4` Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
-- `INS-260329-5BB0` Ensure your partner judges you on the same metrics you judge yourself — misaligned scorecards create unwinnable games.
-- `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260327-7193` Stop trying to make people fully understand you - they can't, and accepting that transforms your relationships from frustrated performance to genuine connection.
 - `INS-260330-466E` The Arecibo message, Pioneer plaques, and Voyager records all converge on using hydrogen's hyperfine transition as the base unit — because physics is believed to be identical everywhere in the universe.
 - `INS-260330-CBFD` Saying 'if this sphere were Earth, the tallest mountain to deepest valley would be 14 meters' makes nanometer-level roundness instantly comprehensible.
 - `INS-260330-649B` Saying 'if this sphere were Earth, mountains would be 14m tall' makes nanometer-scale precision viscerally understandable in a way raw numbers cannot.
 - `INS-260323-FAD5` The N-word demonstrates that identical words carry radically different meanings in different contexts — from slur to art to academic study to community bonding.
+- `INS-260329-5BB0` Ensure your partner judges you on the same metrics you judge yourself — misaligned scorecards create unwinnable games.
+- `INS-260325-0892` Men open up more readily shoulder-to-shoulder during shared activities than face-to-face in a therapy office, which is why walk-and-talk therapy and coaching are more effective engagement models.
 - `INS-260330-568F` Adversarial questioning triggers defensive responses with rehearsed talking points, while patient listening reveals authentic beliefs.
 - `INS-260320-39A3` Shelter your team and family from acquisition signal-to-noise until the wire hits — deals fall apart in the last week, and premature sharing creates damaging anxiety.
 - `INS-260325-C5AE` Taking ownership of what your co-founder complains about ('I know I do this') stops the escalation cycle because they no longer need to prove their point.
@@ -53,6 +53,7 @@
 - `INS-260328-EBBC` The quality of what you give us is the only factor in the quality of what we give you back — generic prompts get generic answers, honest ones get real insight.
 - `INS-260327-47BA` Nothing is going to be handed to you — you have to be vocal and communicate your needs and value to your manager, because good work alone is not enough.
 - `INS-260328-12EE` Tell the adviser what you want and give them constraints — without this, they'll go way out of scope, just like a lawyer who red-lines everything when given no direction.
+- `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.
 - `INS-260330-87BD` The 30-second pitch is three sentences (what you do in mom-test language, market size, traction) and the 2-minute pitch adds four more (unique insight, business model, team, the ask).
 - `INS-260403-0973` Describe your startup as a specific thing rather than an abstract platform that could be anything.
 - `INS-260403-9679` Approach your pitch like successive approximation: start narrow and gripping, then expand — never start broad and vague.
@@ -62,7 +63,6 @@
 - `INS-260403-91F9` Describe your product narrowly and concretely rather than expansively and abstractly when pitching investors.
 - `INS-260403-A0C4` Concrete narrow descriptions stick in investor minds; vague expansive ones get discarded as boilerplate.
 - `INS-260403-86DB` Describe your startup narrowly and concretely rather than broadly and abstractly when pitching investors.
-- `INS-260403-4501` The EHR's fundamental design flaw is being built for billing rather than communication between providers and patients.
 - `INS-260403-4102` Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
 - `INS-260322-AB55` Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260323-46B2` The perceived tension between empathy and assertiveness is a sequencing illusion — empathy first puts you in position to assert effectively.

@@ -46,7 +46,6 @@ stance: >-
   A pipeline full of maybes is more dangerous to an early-stage startup than
   outright rejections.
 related:
-  - INS-260323-35D4
   - INS-260329-EC01
   - INS-260327-6061
   - PRI-260403-26B9

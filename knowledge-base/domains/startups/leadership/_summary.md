@@ -1,6 +1,6 @@
 # Topic: leadership
 
-> 163 insights
+> 164 insights
 
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
@@ -144,6 +144,7 @@
 - `INS-260330-341D` [medium] Morgan refused to invest without full control, then used that control to reshape management teams and enforce his consolidation strategy.
 - `INS-260323-86FA` [medium] Valuing expert knowledge is fundamentally different from blind deference to authority — but public confusion between the two erodes trust in both.
 - `INS-260330-8156` [medium] In-N-Out survived six leadership transitions over 70 years — beating the odds where two-thirds of family businesses fail at the second generation.
+- `INS-260403-8B5A` [medium] Founder-led deep involvement beats the conventional 'hire and delegate' playbook at scale.
 - `INS-260323-FBD9` [medium] Leading an MMO guild of 30+ anonymous players with mixed motivations (loot-seekers, lonely escapists, competitive achievers) teaches real leadership — motivation, discipline, coordination — in a high-stakes emotional environment.
 - `INS-260330-35E2` [medium] Toussaint L'Ouverture made conquered French and Spanish generals into leaders of his army because he needed their expertise to build a world-class organization, not just a victorious one.
 - `INS-260330-E0A9` [medium] Toussaint L'Ouverture made conquered European generals into his own officers because he prioritized upgrading his army's culture over satisfying his soldiers' desire for revenge.

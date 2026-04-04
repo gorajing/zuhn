@@ -1,6 +1,6 @@
 # Topic: venture-capital
 
-> 22 insights
+> 23 insights
 
 - `INS-260403-D98E` [high] Acquirers like Google discovered they can buy startups at pre-Series A stage, cutting VCs out of the value chain entirely.
 - `INS-260403-4717` [high] Prefer investments with platform optionality over single-asset bets because the asymmetric downside of binary outcomes destroys portfolio returns.
@@ -21,6 +21,7 @@
 - `INS-260403-330E` [medium] In capital-intensive infrastructure markets, early movers who solve the core technical problem create nearly permanent competitive positions.
 - `INS-260403-B9E6` [medium] Longevity investments should be evaluated by whether they flatten the mortality curve (like naked mole rats) rather than shift it rightward.
 - `INS-260403-E1E4` [medium] Infrastructure windows are spotted through network proximity to technical founders, not through market analysis or public data.
+- `INS-260403-5843` [medium] Acquirers behave like Benjamin Graham's Mr. Market — manic-depressive cycles of overpaying and ignoring, averaging out only over multi-year windows.
 - `INS-260403-1FCD` [medium] Mega-scale industries resist digitization longest but produce disproportionate numbers of billion-dollar startups when disruption arrives.
 - `INS-260403-AA09` [medium] Elite VCs don't need to be paranoid or sneaky because the best deals come to them, creating a virtuous cycle that lesser funds cannot replicate.
 - `INS-260403-D500` [medium] Cross-market valuation comparisons are deceptive because entry discounts don't guarantee proportional exit returns when market dynamics differ.

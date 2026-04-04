@@ -24,5 +24,7 @@
 - `INS-260403-BDCC` Fund internal innovation projects in tranches tied to evidence, not annual lump-sum budgets.
 - `INS-260403-5427` Early innovation cohorts predictably struggle with experimentation speed, requiring systematic process fixes rather than ad hoc team support.
 - `INS-260403-3569` Nine experiment archetypes let founders systematically match the cheapest test to each business assumption.
+- `INS-260403-D379` Spend the least on experiments when you know the least, and increase stakes only as validated learning reduces uncertainty.
+- `INS-260403-FFEA` Design experiments to maximize validated learning rather than defaulting to scaled-down prototypes.
 - `INS-260403-B1F2` Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
 - `INS-260403-99D1` Business experiments need all three layers — traffic, experience, and measurement — to produce trustworthy signals.

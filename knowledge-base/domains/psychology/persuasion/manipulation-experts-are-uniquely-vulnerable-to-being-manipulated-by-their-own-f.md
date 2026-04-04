@@ -59,7 +59,6 @@ stance: >-
   Adams being destroyed by the exact 'say something inoffensive with secret
   offensive meaning' tactic he championed.
 related:
-  - INS-260323-BEE6
   - INS-260327-0D82
   - INS-260327-5E93
   - INS-260329-444F

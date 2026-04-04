@@ -3,6 +3,7 @@
 - `INS-260327-470B` Fast food was considered recession-proof because it offered the best dollars-to-calories ratio, but chains responded to cost-conscious consumers by becoming more expensive, slower, and less reliable.
 - `INS-260403-1A5A` Customer love without sustainable unit economics creates a trap where positive feedback accelerates cash burn rather than signaling viability.
 - `INS-260403-57E7` Blockchain's real contribution to gaming is making virtual goods truly portable and user-owned, not turning games into income sources.
+- `INS-260403-754F` Validating that customers want your product is necessary but insufficient — you must also validate that the business model produces more revenue than costs.
 - `INS-260327-6E93` Crosby's customers (Cursor, Clay) care about how fast contracts close, not how cheap the review is, because their growth rate makes delay the real cost.
 - `INS-260403-7E95` Competitive advantage only materializes when outperformance maps to the specific metrics customers use to evaluate success.
 - `INS-260327-C75F` The iPhone and AWS completely eliminated the P2P CDN value proposition by reducing bandwidth costs and changing how people consumed video.

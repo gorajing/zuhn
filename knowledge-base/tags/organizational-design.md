@@ -3,10 +3,10 @@
 - `INS-260325-DA83` Harvard/MIT research at BCG shows top performers got much better with AI while lower performers got worse — the 'selective upgrade puzzle.'
 - `INS-260330-0BD3` If someone claims they were too incompetent to prevent fraud, but built 50+ subsidiaries and one-way information walls, the complexity itself is evidence of deliberate design.
 - `INS-260322-F609` ElevenLabs removed all titles, which simultaneously filtered out ego-driven candidates and eliminated implicit bias in idea-sharing and collaboration.
+- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260403-5593` Big companies can't let individuals hold whole programs in their heads, so startups should target problems that demand exactly that.
 - `INS-260402-300A` Companies that enforce top-down idea flow and quality control lose to decentralized systems where the best work self-selects through audience feedback.
 - `INS-260330-1B8A` The Constitution's framers designed checks against both government tyranny and democratic mob rule, creating a system durable enough to last 230+ years.
-- `INS-260403-3A9D` Yahoo's choice to call itself a media company caused it to treat programming as commodity work, which destroyed product quality.
 - `INS-260323-0683` As stakes increase, power struggles intensify — resilient governance structures must be built early, before the pressure peaks.
 - `INS-260328-7241` Bad process is like a cancer — a machine that only wants more power and more people, until you have a thousand process people and one guy making bolts.
 - `INS-260327-99DB` Supercell was founded on flipping the org chart: game teams (cells) own the vision, leadership serves them, and the best game developers are the superstars of the company.
@@ -48,8 +48,10 @@
 - `INS-260327-DAE5` Companies that grow headcount without proportionally growing the number of initiatives create bloated teams, slow meetings, and territorial fights instead of shipping more product.
 - `INS-260327-A927` Nvidia feels like working for multiple startups — each division has its own survival pressure, P&L accountability, and startup mentality.
 - `INS-260403-066E` A shared visual framework like the BMC eliminates the translation overhead when marketing, engineering, operations, and finance collaborate on strategy.
+- `INS-260403-F6F9` Skip-level engagement, maligned in management theory, is actually a core mechanism of effective founder-led companies.
 - `INS-260330-F08F` Small teams are powerful primarily because they make each person's contribution visible and measurable, not just because they move faster.
 - `INS-260327-9641` Weinberg's COO Katie Burke doesn't just run GTM — she takes cross-functional initiatives like revamping the pilot process (which touches engineering, product, design, GTM, and post-sales) and bubbles up three decisions for the CEO to choose from.
+- `INS-260403-62B4` Black-box delegation creates hiding spots for underperformers that founders can uniquely detect and eliminate.
 - `INS-260403-20BF` A 'Mullet' structure—small hub presence for strategy/capital, large remote workforce for engineering—captures network benefits while enabling faster technical iteration.
 - `INS-260330-E585` The Articles of Confederation collapsed primarily because Congress could not collect taxes, proving that authority without enforcement mechanisms is meaningless.
 - `INS-260330-D74A` The Articles required 9 of 13 states to agree on any decision and unanimity for amendments, resulting in zero amendments ever passed and near-total paralysis.
