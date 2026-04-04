@@ -1,5 +1,6 @@
 # Tag: friction
 
+- `INS-260329-C34C` The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking.
 - `INS-260329-94CF` Design your financial systems so investing happens automatically and spending requires deliberate effort.
 - `INS-260330-30F0` Drag scales with velocity squared, so eliminating resistance produces exponentially larger gains at higher speeds — true in physics and in execution.
 - `INS-260330-A3F2` Massive value can be unlocked by removing bureaucratic barriers between complementary but disconnected markets rather than building something new.
@@ -9,4 +10,3 @@
 - `INS-260403-2C00` Costco's $60 membership fee filters for affluent households averaging $100K income who spend more per visit.
 - `INS-260403-08FE` Costco turns its $60 entry fee, confusing layout, and bulk-only format into loyalty drivers and demographic filters.
 - `INS-260403-64E7` Costco's $60 membership fee filters for affluent households averaging $100K income, turning an acquisition barrier into a demographic selection mechanism.
-- `INS-260329-C34C` The biggest predictor of diet adherence is preparation friction, not nutritional optimality — zero-prep meals that are 80% optimal beat perfect meals that require cooking.

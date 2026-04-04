@@ -1,5 +1,6 @@
 # Tag: meditation
 
+- `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration.
 - `INS-260330-B539` Object boundaries and spatial differentiation are partially conceptual overlays that can be intentionally softened to access raw perceptual data.
 - `INS-260330-2988` While thoughts, emotions, and sensations constantly change, the awareness that notices them remains structurally identical across all experiences.
 - `INS-260330-9743` The consciousness aware of sadness is not itself sad — awareness functions like an unblemished mirror.
@@ -22,4 +23,3 @@
 - `INS-260323-8266` Working out hard enough that you cannot simultaneously worry is a form of active meditation that forces a high-vibrational present state.
 - `INS-260330-95A5` Choose the meditation type (internal vs. external focus) that opposes your current default state to maximize brain circuit change.
 - `INS-260330-FE21` Deliberately recalling painful memories while maintaining witness awareness trains the skill of experiencing without identifying.
-- `INS-260330-B360` Research supports that even 3-minute daily meditations produce significant improvements in focus and anxiety management, making consistency more important than duration.

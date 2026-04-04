@@ -1,9 +1,9 @@
 # Tag: customer-selection
 
 - `INS-260404-2087` Costco turns its membership barrier, warehouse chaos, and limited selection into loyalty drivers, treasure-hunt shopping, and supplier leverage respectively.
-- `INS-260403-A485` Making bullshit-minimization an explicit priority when choosing employers or customers yields outsized quality-of-life gains.
 - `INS-260403-B8CD` Costco's $60 membership fee filters for affluent households averaging $100K income, turning a barrier to entry into a demographic selection mechanism.
 - `INS-260404-01B1` Costco's $60-120 membership fee filters for households earning ~$100K, and business owners who comprise one-third of members but drive two-thirds of sales.
+- `INS-260403-A485` Making bullshit-minimization an explicit priority when choosing employers or customers yields outsized quality-of-life gains.
 - `INS-260403-747B` Costco's $60 membership fee filters for affluent households ($100K average income) and business owners who account for two-thirds of sales.
 - `INS-260403-C40D` Costco's $60-$120 membership fee filters for households earning ~$100K average income and triggers sunk-cost loyalty, turning a customer acquisition obstacle into a retention and revenue advantage.
 - `INS-260404-975A` Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
