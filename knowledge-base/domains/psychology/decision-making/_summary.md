@@ -1,6 +1,6 @@
 # Topic: decision-making
 
-> 53 insights
+> 55 insights
 
 - `INS-260330-148C` [high] What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
 - `INS-260330-08E1` [high] Getting a tattoo takes hours; removing one takes years of painful treatments — this reversal-cost asymmetry is a general pattern humans systematically underweight.
@@ -18,6 +18,7 @@
 - `INS-260330-ED37` [high] Collateral damage and intentional massacre produce corpses equally dead, but moral frameworks that ignore the intention behind each death lose the ability to distinguish civilization from barbarism.
 - `INS-260330-2C57` [high] Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260403-C313` [high] Even when you can prove the rational choice, emotional intuitions still dominate actual decisions.
+- `INS-260403-5755` [high] RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260330-9931` [high] A few network-joining decisions create the gravitational field that shapes all subsequent daily choices.
 - `INS-260330-FD28` [high] Keeping a fixed reference point in chaos prevents the disorientation spiral that leads to fatal mistakes.
 - `INS-260402-8ACF` [high] Truly novel and valuable ideas must appear bad to most evaluators, because obvious good ideas get executed immediately and stop being novel.
@@ -28,6 +29,7 @@
 - `INS-260403-420A` [high] Targeting economic inequality as a metric will reduce inequality without fixing poverty, just as targeting graduation rates improves graduation without improving learning.
 - `INS-260403-F1C6` [high] Hard work is not a simple intensity dial but a complex dynamic system where self-honesty is the single skill that enables correct calibration at every point.
 - `INS-260403-34E0` [high] Make investments small enough that losing them is annoying but painless, which unlocks the ability to decide quickly and learn from real outcomes.
+- `INS-260403-7B28` [high] We keep falling for the same negotiation cycle because wanting to believe it's different this time overrides our ability to recognize the pattern.
 - `INS-260330-B444` [high] Cities surrendered to the Mongols on arrival because the reputation for total destruction made resistance seem irrational.
 - `INS-260330-2B29` [high] Revolutions result from accumulated small decisions, not single dramatic moments.
 - `INS-260330-92BB` [high] Early-stage romantic love activates ancient brain drive systems while deactivating prefrontal cortex regions responsible for planning and decision-making.

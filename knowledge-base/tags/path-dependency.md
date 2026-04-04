@@ -3,6 +3,7 @@
 - `INS-260330-68C8` Plants maintain ~40 billion tons of RuBisCo — a fundamentally flawed enzyme — because replacing it would require redesigning the entire Calvin Cycle.
 - `INS-260330-CC30` RuBisCo confuses O2 for CO2 up to 50% of the time, but plants compensate by producing ~40 billion tons of it rather than evolving a replacement.
 - `INS-260327-A654` U.S. Middle East involvement started with a single 1930s oil concession that created an oil-military-alliance feedback loop so embedded in policy doctrine that withdrawal became structurally impossible.
+- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260330-3FF4` RuBisCo evolved when CO2 was abundant and O2 scarce — when conditions changed, it became terrible, yet no alternative has displaced it in 450 million years because every plant depends on it.
 - `INS-260330-B468` Once a mediocre solution achieves ecosystem-level adoption, organisms (and markets) compensate around its flaws rather than replace it.
 - `INS-260330-11EB` RuBisCo is a mediocre enzyme that plants can't replace because they went all-in — 40 billion tons of it — illustrating how early commitment to 'good enough' creates irreversible lock-in.

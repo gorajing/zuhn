@@ -51,8 +51,8 @@ related:
   - INS-260403-97DB
   - INS-260403-A172
   - INS-260403-1852
+  - INS-260403-C496
   - INS-260403-0267
-  - INS-260327-A5EE
   - INS-260403-3155
 ---
 A top VC told Y Combinator founders that even experienced repeat founders with millions in funding had a business model that was 'crap' and would change three times. He invested anyway because he expected it to be wrong at that stage. Smart investors know this.

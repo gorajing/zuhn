@@ -47,13 +47,12 @@ stance: >-
   Waste products and unintended side effects often become more valuable than the
   original intended output of a process.
 related:
-  - INS-260330-19C3
   - INS-260403-31AF
+  - INS-260403-99CE
   - INS-260330-E786
   - INS-260330-656A
-  - INS-260330-3AB4
+  - INS-260330-19C3
   - INS-260330-C7C2
-  - INS-260330-13A1
   - INS-260330-0CFF
   - INS-260403-C0D4
 evidence:

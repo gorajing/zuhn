@@ -50,7 +50,7 @@ related:
   - INS-260330-F488
   - PRI-260323-7749
   - INS-260330-97B3
-  - PRI-260323-0F93
+  - INS-260403-7E6A
 stance: >-
   In both Newcomb's Paradox and nuclear deterrence, the best outcome follows
   from a credible, irrevocable commitment to a seemingly worse option.

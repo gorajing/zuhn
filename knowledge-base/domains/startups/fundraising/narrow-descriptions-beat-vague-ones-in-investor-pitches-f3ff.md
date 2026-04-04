@@ -52,10 +52,10 @@ related:
   - INS-260327-6D57
   - INS-260402-9288
   - INS-260403-2204
+  - INS-260403-D430
   - INS-260403-B274
   - INS-260403-AF27
   - INS-260403-2A1D
-  - INS-260403-FE37
 ---
 Founders instinctively resist narrow descriptions because their product could become so much more. But Paul Graham argues this is a calculus problem: as you approach a description of something that could be anything, the content approaches zero. Investors will discard vague boilerplate like 'collaboratively leverage information value' and wait impatiently for what you actually built.
 

@@ -52,9 +52,9 @@ resolutions:
 related:
   - PRI-260323-7749
   - INS-260323-CB47
+  - INS-260403-7E6A
   - INS-260330-F488
   - INS-260323-D479
-  - INS-260325-A326
 stance: The entire nuclear arsenal can launch in seconds
 evidence:
   - id: INS-260323-CB47

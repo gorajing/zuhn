@@ -1,5 +1,6 @@
 # Tag: second-order-effects
 
+- `INS-260403-99CE` Oxygen — the gas that enabled all animal life — is literally a waste product of photosynthesis's water-splitting reaction.
 - `INS-260403-4672` Idea restrictions propagate backward: forbidding conclusions in one domain suppresses exploration in every domain that connects to it.
 - `INS-260330-2C57` Agriculture was adopted through millions of small, locally rational choices that collectively created an irreversible civilizational transformation with massive unintended consequences.
 - `INS-260330-4441` RuBisCo was optimized for a low-oxygen world, but photosynthesis itself flooded the atmosphere with oxygen, causing RuBisCo to malfunction half the time — your greatest success can corrupt your core mechanism.
@@ -13,8 +14,8 @@
 - `INS-260330-725C` Critical decisions must be evaluated through the eyes of every employee, not just the people in the conversation.
 - `INS-260403-15DD` When millions of non-engineers ship custom AI software, the infrastructure layer (deployment, security, discovery) becomes the dominant value capture point.
 - `INS-260330-41F6` Oxygen — the waste product of photosynthesis — became the foundation of all animal life, showing that byproducts can eclipse the original product in value.
-- `INS-260330-72E1` Plants increased atmospheric oxygen through photosynthesis, which then caused their own key enzyme RuBisCo to fail half the time — a biological case of success undermining itself.
 - `INS-260323-60C1` Ice did not just preserve food — it launched the fish industry, meat packing, brewing, and fundamentally restructured American cities.
+- `INS-260330-72E1` Plants increased atmospheric oxygen through photosynthesis, which then caused their own key enzyme RuBisCo to fail half the time — a biological case of success undermining itself.
 - `INS-260330-659D` Shade balls were purchased to block bromate formation, but their secondary benefits — 80-90% evaporation reduction, algae elimination, near-zero chlorination — pay back at least half their cost.
 - `INS-260330-F229` The Mongols' Silk Road revival enabled unprecedented cultural and economic exchange but also spread the Black Death across Eurasia.
 - `INS-260330-22A2` Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.

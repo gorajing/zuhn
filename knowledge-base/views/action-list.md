@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3378 actionable insights
+Generated on 2026-04-04 | 3384 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1561,6 +1561,7 @@ Generated on 2026-04-04 | 3378 actionable insights
 - [INS-260403-6E9F] True refutation demands stating the opponent's main claim before dismantling it, which forces intellectual honesty.
 - [INS-260403-0AF4] Professional investors hear so many pitches they blur together—a sticky descriptive phrase like 'the Microsoft Word of ecommerce' ensures you survive the first cut of simply being remembered.
 - [INS-260403-22FE] Explicit claims of passion or quality trigger skepticism filters, while implicit confidence conveyed through demeanor and specifics builds genuine credibility.
+- [INS-260403-B216] Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -1845,6 +1846,7 @@ Generated on 2026-04-04 | 3378 actionable insights
 - [INS-260403-92EB] Show investors the workarounds people use today — that behavioral evidence of demand beats market size slides.
 - [INS-260403-CC25] Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.
 - [INS-260403-2FE1] A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
+- [INS-260403-85F1] Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 
 ## startups/competitive-strategy
 - [INS-260322-7282] Owning the full workflow from intake to outcome generates proprietary data that public models can't replicate — creating a compounding competitive advantage.
@@ -2576,6 +2578,8 @@ Generated on 2026-04-04 | 3378 actionable insights
 - [INS-260403-8346] Smart early-stage investors expect business models to be wrong, so pitching them wastes time that should be spent demonstrating the problem and solution.
 - [INS-260403-B274] Concrete narrow descriptions stick in investors' minds while vague visionary language gets discarded as meaningless boilerplate.
 - [INS-260403-8448] Close at least one pharma deal before your Series A to prove platform commercial viability alongside scientific merit.
+- [INS-260403-C496] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
+- [INS-260403-D430] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3441,6 +3445,7 @@ Generated on 2026-04-04 | 3378 actionable insights
 - [INS-260403-C0FE] Mapping a competitor's business model reveals their structural limits and what moves they cannot make.
 - [INS-260403-EAE5] The best time to search for new business models is while the existing one still generates surplus capital to fund experiments.
 - [INS-260403-4F1B] A centralized failure that mirrors what your decentralized product prevents becomes the strongest possible validation of your value proposition.
+- [INS-260403-F290] Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3549,6 +3554,7 @@ Generated on 2026-04-04 | 3378 actionable insights
 - [INS-260403-B1F2] Decomposing ideas into testable hypotheses and running experiments systematically reduces the risk of pursuing dead-end innovations.
 - [INS-260403-08E6] Empathy maps that capture what customers think, feel, see, hear, say, and do reveal unarticulated needs that direct questioning misses.
 - [INS-260403-419B] Investors' biggest early-stage fear is that you built something nobody wants, and specific user stories directly counter that fear in ways market data cannot.
+- [INS-260403-19C0] Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.
 
 ## video-production/content-strategy
 - [INS-260320-10E8] Always clap once or use a clapboard at the start of each take -- the sharp transient creates a visible spike in both audio waveforms, making manual sync alignment trivial.

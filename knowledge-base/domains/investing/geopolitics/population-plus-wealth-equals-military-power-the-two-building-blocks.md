@@ -44,11 +44,12 @@ resolutions:
     both risks and opportunities in global markets.
 related:
   - INS-260328-60C7
+  - INS-260403-2A50
   - INS-260330-4150
   - INS-260327-4313
   - PRI-260328-A589
-  - INS-260330-825F
   - INS-260323-B40C
+  - INS-260330-825F
 stance: >-
   National power is fundamentally a function of population size and wealth —
   both are required to build the military capability that ensures survival.

@@ -51,7 +51,6 @@ stance: >-
   leadership optimizes for alignment and buy-in.
 related:
   - INS-260323-A197
-  - INS-260323-3864
   - INS-260323-E204
   - INS-260323-5737
   - INS-260327-088D
@@ -60,6 +59,7 @@ related:
   - INS-260330-D26B
   - PRI-260328-FA83
   - INS-260323-2CCA
+  - INS-260330-5C69
 evidence:
   - id: INS-260323-A197
     type: TRANSFERS_TO

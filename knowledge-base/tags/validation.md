@@ -54,3 +54,4 @@
 - `INS-260330-3F24` If users won't put down five dollars for your idea, their verbal enthusiasm is not real validation.
 - `INS-260330-CFBA` Good startup ideas look like narrow deep wells — a small number of people who want the product desperately — not broad shallow holes of mild interest.
 - `INS-260329-FB3F` TikTok viral app videos simultaneously prove market demand and provide a distribution template you can replicate.
+- `INS-260403-19C0` Investors' biggest early-stage fear is that you've built from theory rather than need, and specific user stories — especially your own needs — are the strongest antidote.

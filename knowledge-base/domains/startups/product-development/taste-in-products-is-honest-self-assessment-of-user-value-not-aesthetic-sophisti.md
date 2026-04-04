@@ -47,7 +47,6 @@ stance: >-
   willingness to honestly evaluate whether your product actually helps the user
 related:
   - INS-260322-D6D7
-  - INS-260327-5688
   - INS-260327-C9BA
   - INS-260327-8E9B
   - INS-260327-2A59
@@ -56,6 +55,7 @@ related:
   - INS-260403-A101
   - INS-260403-DE28
   - INS-260329-72EF
+  - INS-260329-CEC5
 evidence:
   - id: INS-260322-D6D7
     type: EXTENDS

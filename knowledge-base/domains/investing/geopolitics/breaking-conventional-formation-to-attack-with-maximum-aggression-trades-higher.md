@@ -54,7 +54,6 @@ stance: >-
   conventional approaches cannot.
 related:
   - INS-260327-98B1
-  - INS-260327-2475
   - INS-260327-AB3D
   - INS-260327-994B
   - PRI-260403-B9A0

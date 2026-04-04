@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 158 insights
+> 160 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -35,6 +35,7 @@
 - `INS-260403-ADB3` [high] Founders must continuously calculate whether current revenue growth and burn rate lead to profitability before money runs out.
 - `INS-260330-C84C` [high] If you want to raise $500k, tell investors you're raising $250k — hitting milestones faster creates FOMO.
 - `INS-260403-97DB` [high] Mention that you've thought about monetization, but don't elaborate — talk about your problem and product instead.
+- `INS-260403-C496` [high] Smart early-stage investors expect your business model to be wrong, so discussing it at length just displaces the things that actually matter — your problem insight and what you've built.
 - `INS-260403-E393` [high] Mention monetization briefly to show you've thought about it, but don't elaborate — your model is probably wrong anyway.
 - `INS-260403-600F` [high] Spending precious pitch time on an early-stage business model is a net negative because investors expect it to be wrong anyway.
 - `INS-260403-0267` [high] Smart early-stage investors expect your business model to be wrong, so pitch the problem and product instead.
@@ -85,6 +86,7 @@
 - `INS-260403-EE70` [high] Describe your startup as a specific narrow thing first, then broaden — vague descriptions register as meaningless boilerplate.
 - `INS-260403-41FF` [high] Describe your startup as a specific concrete thing rather than an expansive vision, then flesh out from there.
 - `INS-260403-2204` [high] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
+- `INS-260403-D430` [high] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 - `INS-260403-6712` [high] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260403-047B` [high] Describe your startup narrowly and concretely rather than broadly and vaguely — investors discard abstract language as meaningless.
 - `INS-260403-208D` [high] Narrow, concrete startup descriptions outperform broad, accurate ones because vague descriptions carry zero information content.

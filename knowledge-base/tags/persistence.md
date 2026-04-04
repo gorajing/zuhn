@@ -3,8 +3,8 @@
 - `INS-260320-06EF` Dev docs persist on disk and survive auto-compaction — just say 'continue' in a new session to pick up where you left off.
 - `INS-260327-3FC7` Austria sent five separate relief armies to break Napoleon's siege of Mantua — each failed, but each forced Napoleon to divert forces and attention from the siege.
 - `INS-260327-EDC6` Arcole was won on the third day after two days of failed attacks — persistence and tactical adjustment eventually found the approach that worked.
-- `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260403-D2A5` Persistence emerges from the interaction of energy, imagination, resilience, good judgment, and goal focus — missing any one degrades the whole.
+- `INS-260403-EB12` True persistence means flexibility on methods while maintaining commitment to the goal; obstinacy is the reverse.
 - `INS-260329-7EFD` Programming learning goes from 'confused, confused, confused' to 'holy mackerel, this is awesome' with no gradual transition.
 - `INS-260329-A077` Most learning dropouts happen before reaching the critical mass of knowledge where effort starts feeling worthwhile.
 - `INS-260327-51C2` I can't go on. I'll go on. - Beckett's most important insight is that persistence doesn't require hope, meaning, or expectation of success.

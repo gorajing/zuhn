@@ -15,6 +15,7 @@
 - `INS-260325-0147` Suppressing an idea does not just draw attention to it -- it actually increases the likelihood people will believe it.
 - `INS-260330-6A3A` The conviction that you understand persuasion too well to be persuaded is itself a persuasion vulnerability.
 - `INS-260403-C37D` Good persuaders don't lie — they choose which truths to tell, the same way a flatterer picks genuine compliments.
+- `INS-260403-B216` Saying 'we're passionate' or 'our product is great' causes audiences to write you off as a bullshitter, while demonstrating genuine excitement through behavior is the strongest evidence non-technical investors can evaluate.
 - `INS-260403-0F95` Never explicitly claim passion or greatness—demonstrate confidence implicitly through demeanor and conviction.
 - `INS-260330-9DC9` Persuasion offers short-term advantages but cannot indefinitely substitute for factual grounding and real value creation.
 - `INS-260403-6E11` The school habit of stretching limited ideas to fill required page counts trains people to communicate without conviction, which investors and other sophisticated audiences immediately detect.

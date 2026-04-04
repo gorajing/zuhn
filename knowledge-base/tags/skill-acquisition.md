@@ -3,8 +3,8 @@
 - `INS-260329-92C3` Dr. Chuck's progression from variables through databases to web APIs teaches data-structural thinking — a meta-skill that makes AI coding assistants dramatically more useful because you can specify what you want in terms machines understand.
 - `INS-260329-A862` Programming is becoming a universal skill stratified by depth, just as reading ranges from functional literacy to literary criticism.
 - `INS-260330-0242` Write down small achievable goals nightly; the check-mark dopamine hit builds an addiction to the learning process itself.
-- `INS-260403-9542` Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 - `INS-260330-8134` After 8 months of daily failure, Destin suddenly could ride the backwards bicycle one day — the transition was instantaneous, not gradual.
+- `INS-260403-9542` Treat group presentation as a consciously artificial trick requiring deliberate practice, then make the artificial delivery sound conversational.
 - `INS-260330-AB5D` Meditation works by subtracting perceptual illusions rather than adding new capabilities.
 - `INS-260402-72EF` Being popular requires as much dedicated effort as any elite skill — nerds simply invest their hours elsewhere.
 - `INS-260329-7AAB` Choose roles that maximize skill acquisition over immediate compensation during your growth years.

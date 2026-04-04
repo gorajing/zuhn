@@ -1,6 +1,7 @@
 # Tag: legacy-systems
 
 - `INS-260322-642F` For the first time, banks and insurers face more risk from keeping decades-old mainframes than from migrating to AI-native platforms — unlocking massive market opportunity.
+- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260330-C02D` RuBisCo is terrible at its job but plants produce 40 billion tons of it rather than evolve a replacement, demonstrating evolutionary lock-in.
 - `INS-260330-737B` Unfashionable legacy technologies like COBOL create outsized earning potential because shrinking talent supply meets persistent institutional demand.
 - `INS-260403-F234` Buying distribution then forcing technology change fails because legacy organizations resist replacing systems that already work for them.

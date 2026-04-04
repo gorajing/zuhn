@@ -8,3 +8,4 @@
 - `INS-260323-D479` Nobel believed his explosives would 'put an end to war sooner than peace congresses' by making mutual destruction too horrifying -- the same argument made for nuclear weapons decades later.
 - `INS-260323-CB47` In both Newcomb's Paradox and nuclear deterrence, the best outcome follows from a credible, irrevocable commitment to a seemingly worse option.
 - `INS-260330-3274` Cities surrendered to the Mongols without fighting because the alternative — witnessed in previous slaughters — was annihilation.
+- `INS-260403-7E6A` North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.

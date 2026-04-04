@@ -45,7 +45,6 @@ stance: >-
   The best salespeople in the world spend 70% of the call listening, and you can
   predict deal likelihood from the talk-to-listen ratio alone.
 related:
-  - INS-260327-B6C7
   - INS-260327-60A0
   - INS-260327-005D
   - INS-260329-E598

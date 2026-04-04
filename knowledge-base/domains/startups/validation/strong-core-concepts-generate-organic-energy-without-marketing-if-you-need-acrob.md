@@ -56,8 +56,8 @@ related:
   - INS-260327-6725
   - PRI-260323-1B96
   - INS-260322-92D7
+  - INS-260403-85F1
   - PRI-260328-82BE
-  - PRI-260328-A4AC
 ---
 Raphael Ouzan described feeling 'incredible energy even in the Zoom rooms' when early teams came together on A.Team. This wasn't manufactured excitement — it was the natural response of talented people finally getting what they'd been missing. The NFX essay frames this as a validation principle: if you need marketing acrobatics to know your concept is working, it probably isn't.
 

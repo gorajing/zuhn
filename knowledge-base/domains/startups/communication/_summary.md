@@ -1,6 +1,6 @@
 # Topic: communication
 
-> 10 insights
+> 11 insights
 
 - `INS-260403-D375` [high] A single sticky phrase like 'the Microsoft Word of ecommerce' is what separates remembered pitches from forgotten ones in an investor's crowded mental queue.
 - `INS-260403-2A1D` [high] Craft a single descriptive phrase that sticks — investors hear too many pitches, and the first cut is simply being one they remember.
@@ -11,4 +11,5 @@
 - `INS-260403-280B` [high] Usefulness = correctness × importance × novelty × strength, where weakness in any dimension collapses the total.
 - `INS-260330-76DA` [medium] Debaters evaluate whether challenging a point is necessary for progress or merely satisfying — and let go of arguments that won't advance the overall dispute.
 - `INS-260403-2FE1` [medium] A single memorable descriptive phrase ensures you survive the blur of hundreds of pitches in an investor's memory.
+- `INS-260403-85F1` [medium] Professional investors hear so many pitches they blur together, and a single compelling phrase like 'the Microsoft Word of ecommerce' is what separates remembered startups from forgotten ones.
 - `INS-260403-CC25` [medium] Wrapping your business model in a customer-centric narrative gets buy-in that spreadsheets and logic alone cannot achieve.

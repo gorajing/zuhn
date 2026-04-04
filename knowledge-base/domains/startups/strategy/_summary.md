@@ -1,6 +1,6 @@
 # Topic: strategy
 
-> 168 insights
+> 170 insights
 
 - `INS-260330-98EA` [high] The Mongols mastered siege warfare, gunpowder, and naval combat not through R&D but by systematically extracting knowledge from conquered peoples.
 - `INS-260403-0530` [high] New York struggles as a startup hub because founders there are second-class citizens in a status hierarchy that most admires financial wealth.
@@ -21,6 +21,7 @@
 - `INS-260330-7462` [high] Sri Lanka went from middle-class lifestyle to food insecurity in weeks — prosperity had been masking decades of misgovernance that only became visible under cascading shocks.
 - `INS-260403-EEDF` [high] Cities exhibit a universal super-linear scaling law where innovation and economic output increase ~15% per capita each time the population doubles.
 - `INS-260329-644B` [high] Cloud computing converts capital expense into variable expense, letting companies pay only for resources consumed rather than provisioning for peak capacity.
+- `INS-260403-F290` [high] Plants built entire metabolic pathways to compensate for RuBisCo's flaws rather than replace it — a pattern that applies to startups managing legacy technical debt.
 - `INS-260330-B3DD` [high] Compound pulley systems achieve 8:1 advantage with fewer components than block-and-tackle systems because each stage doubles the previous output rather than adding to it.
 - `INS-260323-1EEA` [high] Frebel's experience: even astronomers who share interests and work on the same phenomena struggle to communicate across theoretical and observational subfields — but pushing through produces the best work.
 - `INS-260330-5A4C` [high] Running nodes must be culturally ingrained as a responsibility, not just technically possible, because without that culture economic pressure will centralize the network.
@@ -159,6 +160,7 @@
 - `INS-260330-22A2` [medium] Sweden's 480-day paid parental leave per child boosted fertility but made employers reluctant to hire young women.
 - `INS-260330-24E0` [medium] When resources genuinely constrain you, realist assessment of your actual position beats maintaining an aspirational narrative about strength you no longer have.
 - `INS-260330-23CD` [medium] Laws are immortal code for civilization — without garbage collection, they accumulate into bloatware that prevents anything from getting done.
+- `INS-260403-7E6A` [medium] North Korea skipped conventional military parity and went straight to nuclear weapons, showing how one overwhelming capability can substitute for broad competitiveness.
 - `INS-260323-A075` [medium] Founder speed is not just about iteration velocity — it's a behavioral signal that predicts fundraising success, user acquisition, and survival.
 - `INS-260330-6D49` [medium] Moving the capital from Rome to Constantinople traded short-term Western control for a thousand years of Eastern survival — a masterclass in strategic repositioning.
 - `INS-260330-777A` [medium] Putin announced the pension age increase on the opening day of the 2018 World Cup — it still caused his largest-ever approval drop.

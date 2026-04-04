@@ -1,5 +1,6 @@
 # Tag: motivated-reasoning
 
+- `INS-260403-7B28` We keep falling for the same negotiation cycle because wanting to believe it's different this time overrides our ability to recognize the pattern.
 - `INS-260330-059B` If economic pain is what finally changes someone's mind about a leader whose moral failures were already obvious, the person's reasoning framework is dangerously self-interest-driven.
 - `INS-260330-F20D` Highly educated people's instinct to distrust politically charged moral language and seek nuance can paradoxically lead them to equivocate about unambiguous atrocities.
 - `INS-260330-99D1` Scientists funded by the Ethyl Corporation claimed lead was 'a natural part of our environment' — a claim Clair Patterson demolished by measuring ocean lead at different depths and comparing modern bones to ancient mummies.

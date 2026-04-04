@@ -3,9 +3,9 @@ Generated on 2026-04-04 | 2421 sources
 
 | Source | Type | Insights | Date |
 |--------|------|----------|------|
-| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 174 | 2026-03-30 |
-| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 69 | 2026-03-31 |
-| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 53 | 2026-03-31 |
+| Oh, wait, actually the best Wordle opener is not “crane”… | youtube | 178 | 2026-03-30 |
+| 5 Lessons We Learned Helping the Operations Department of Geneva’s University Hospital handle the COVID-19 Crisis | blog | 74 | 2026-03-31 |
+| Accelerating Growth at Scale 🔥 Phase 2 of Kickstarting and Scaling a Marketplace Business | blog | 58 | 2026-03-31 |
 | Claude Code is a Beast – Tips from 6 Months of Hardcore Use | reddit | 30 | 2026-03-20 |
 | Calculus 1 - Full College Course | youtube | 30 | 2026-03-29 |
 | Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer | youtube | 30 | 2026-03-29 |
@@ -329,6 +329,7 @@ Generated on 2026-04-04 | 2421 sources
 | Frighteningly Ambitious Startup Ideas | blog | 5 | 2026-03-31 |
 | From Outsider to $5B SPAC in 6 Years | blog | 5 | 2026-03-31 |
 | Gen Z and the Age of Digital Numbness | Clare Ashcraft on How Technology and Comfort Are Rewiring a Generation | blog | 5 | 2026-03-30 |
+| Global AI Adoption📊, SaaS Multiples Compress📉, How People Use ChatGPT💬 | blog | 5 | 2026-03-30 |
 | Great Hackers | blog | 5 | 2026-03-31 |
 | Guided AI Agents: Turbocharging the SMB | blog | 5 | 2026-03-31 |
 | Hackers and Painters | blog | 5 | 2026-03-31 |
@@ -524,6 +525,7 @@ Generated on 2026-04-04 | 2421 sources
 | Why Too Much Funding Will Destroy Your Startup | blog | 5 | 2026-03-30 |
 | Why Women-Led Startups Outperform Yet Lack Funding | blog | 5 | 2026-03-30 |
 | Win the First 5 Seconds: The YC Landing Page Formula for Early-Stage Startups | blog | 5 | 2026-03-30 |
+| YC Review💪, What VC ‘Value-Add’ Really Looks Like🧭, Private Markets Outlook📈 | blog | 5 | 2026-03-30 |
 | You Weren't Meant to Have a Boss | blog | 5 | 2026-03-31 |
 | Your Life is Driven by Network Effects | blog | 5 | 2026-03-31 |
 | 1년만에 150억, 400% 성장을 만드는 환경을 셋팅하는 방법 | 엔코위더스 오정훈 | youtube | 5 | 2026-03-22 |
@@ -928,6 +930,7 @@ Generated on 2026-04-04 | 2421 sources
 | Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405 | youtube | 4 | 2026-03-24 |
 | Joscha Bach: Life, Intelligence, Consciousness, AI & the Future of Humans | Lex Fridman Podcast #392 | youtube | 4 | 2026-03-24 |
 | Keyu Jin: China's Economy, Tariffs, Trade, Trump, Communism & Capitalism | Lex Fridman Podcast #477 | youtube | 4 | 2026-03-24 |
+| Kim Jong-Un's New Strategy: Explained | youtube | 4 | 2026-03-30 |
 | Levels of Wealth: Inside The Secret Lives of The Ultra-Rich | youtube | 4 | 2026-03-30 |
 | Marc Andreessen: Future of the Internet, Technology, and AI | Lex Fridman Podcast #386 | youtube | 4 | 2026-03-24 |
 | Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422 | youtube | 4 | 2026-03-24 |
@@ -2044,7 +2047,6 @@ Generated on 2026-04-04 | 2421 sources
 | GEO & AEO: How to Get Cited by AI Search in 2026 | blog | 0 | 2026-03-30 |
 | Getting Off the VC Train🚂, 2024 US VC Valuations Report 📉, Building a Scalable Marketplace🛍️ | blog | 0 | 2026-03-30 |
 | Giving AI Agents Purchasing Power | blog | 0 | 2026-03-30 |
-| Global AI Adoption📊, SaaS Multiples Compress📉, How People Use ChatGPT💬 | blog | 0 | 2026-03-30 |
 | Global Ranking of the Most Valuable Private Startups in 2025 | blog | 0 | 2026-03-30 |
 | Global VC Funding Settles💰, IPO Preparation Guide📚, 2024 Tech Trends Report🔮 & more! | blog | 0 | 2026-03-30 |
 | Governance in Gen AI🏛️, The Power Law 📈, Best VCs🏆  | blog | 0 | 2026-03-30 |
@@ -2368,7 +2370,6 @@ Generated on 2026-04-04 | 2421 sources
 | Writes and Write-Nots | blog | 0 | 2026-03-31 |
 | Writing and Speaking | blog | 0 | 2026-03-31 |
 | Writing, Briefly | blog | 0 | 2026-03-31 |
-| YC Review💪, What VC ‘Value-Add’ Really Looks Like🧭, Private Markets Outlook📈 | blog | 0 | 2026-03-30 |
 | YC W26 Batch: Complete Database of 196 Companies (2026) | blog | 0 | 2026-03-30 |
 | YC W26 DB💰, $1T Services Opportunity🤖, How to Set Up Claude Cowork⚙️ | blog | 0 | 2026-03-30 |
 | YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History | blog | 0 | 2026-03-30 |
@@ -2399,7 +2400,6 @@ Generated on 2026-04-04 | 2421 sources
 | Improvising in Africa.  Warning - GROSS - Smarter Every Day 28 | youtube | 0 | 2026-03-30 |
 | Is Your Red The Same as My Red? | youtube | 0 | 2026-03-30 |
 | Java for the Haters in 100 Seconds | youtube | 0 | 2026-03-30 |
-| Kim Jong-Un's New Strategy: Explained | youtube | 0 | 2026-03-30 |
 | Learn to Sell, Learn to Build | youtube | 0 | 2026-03-30 |
 | Making Money Isn't About Luck | youtube | 0 | 2026-03-30 |
 | Michio Kaku: What If Einstein Is Wrong? | Big Think | youtube | 0 | 2026-03-30 |

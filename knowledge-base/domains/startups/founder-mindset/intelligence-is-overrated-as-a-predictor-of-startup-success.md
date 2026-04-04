@@ -46,7 +46,6 @@ stance: >-
   and the narrative of smart founders winning exists because it makes a better
   story, not because it's the primary causal factor.
 related:
-  - INS-260322-A02C
   - INS-260322-6C4B
   - INS-260326-291C
   - INS-260326-870E
@@ -56,6 +55,7 @@ related:
   - INS-260328-03BB
   - INS-260330-156C
   - INS-260402-F04F
+  - INS-260402-66A5
 ---
 Graham observed from YC's earliest-stage investing that determination consistently outpredicted intelligence for startup outcomes. The 'genius founder' narrative persists because it's more compelling for PR and gives observers an excuse for their own inaction ('I'm just not smart enough').
 

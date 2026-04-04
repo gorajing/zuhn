@@ -52,7 +52,6 @@ related:
   - INS-260330-0CFF
   - INS-260330-41F6
   - INS-260330-3AB4
-  - INS-260330-9231
   - INS-260403-C0D4
 evidence:
   - id: INS-260330-E786

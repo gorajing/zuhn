@@ -55,9 +55,9 @@ related:
   - INS-260330-40DA
   - INS-260403-8653
   - INS-260330-EACA
+  - INS-260403-F290
   - INS-260330-1650
   - INS-260330-E497
-  - INS-260330-0E77
 ---
 When RuBisCo started producing phosphoglycolate as a toxic byproduct, plants evolved photorespiration pathways and specialized enzymes to convert it into useful amino acids and Calvin cycle intermediates. Each workaround made the overall system more complex but also more resilient—and harder to replace wholesale.
 

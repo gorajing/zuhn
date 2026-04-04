@@ -2,6 +2,7 @@
 
 - `INS-260327-B038` Napoleon fought at Eylau despite his army being exhausted and overextended because retreating would have shattered his aura of invincibility.
 - `INS-260327-A4BB` The Somme offensive continued for months despite catastrophic casualties because commanders couldn't justify stopping without something to show for the losses already sustained.
+- `INS-260403-5755` RuBisCo is a 450-million-year case study in how early adequate solutions calcify into permanent suboptimal architectures.
 - `INS-260330-F82A` Plants maintaining a 50%-failure-rate enzyme for 450 million years demonstrates that sunk-cost behavior is a structural property of complex systems, not just a human cognitive flaw.
 - `INS-260402-9D7B` The willingness to cut entire subtrees of work — even after heavy investment — is what separates high-quality creative output from mediocre accumulation.
 - `INS-260330-A15F` Bad decisions trigger escalating rationalization rather than course-correction, especially when peer groups reward continued commitment.

@@ -50,11 +50,10 @@ stance: >-
   system's designer never intended to be the primary value
 related:
   - INS-260330-656A
+  - INS-260403-99CE
   - INS-260403-31AF
   - INS-260403-726B
   - INS-260330-90B6
-  - INS-260330-2119
-  - INS-260403-5C74
 evidence:
   - id: INS-260330-E786
     type: SUPPORTS
