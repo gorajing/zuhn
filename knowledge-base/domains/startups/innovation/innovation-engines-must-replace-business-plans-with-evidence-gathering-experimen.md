@@ -50,10 +50,10 @@ stance: >-
   uncertainty through cheap, fast experimentation
 related:
   - INS-260404-BD46
+  - INS-260404-9158
   - INS-260403-FF86
   - INS-260403-C8B9
   - INS-260403-2E90
-  - INS-260404-10FF
   - INS-260403-8D2C
   - INS-260403-7333
 ---

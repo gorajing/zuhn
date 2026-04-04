@@ -1,6 +1,6 @@
 # Topic: engineering
 
-> 36 insights
+> 37 insights
 
 - `INS-260404-4130` [high] Building the language up toward the problem lets small teams punch far above their weight.
 - `INS-260403-C514` [high] Plants produce massive quantities of inefficient RuBisCo plus cleanup enzymes rather than fixing the core algorithm—a biological version of scaling horizontally around bad code.
@@ -32,6 +32,7 @@
 - `INS-260330-181B` [high] Longbows require the arrow to flex around the problem; compound bows mechanically eliminate the problem — both hit the target but with different failure modes.
 - `INS-260403-F835` [medium] Counting AST elements measures the conceptual load a programmer must hold in their head, unlike lines or characters.
 - `INS-260403-59F4` [medium] Shorter programs, thinner manuals, and terse syntax are signs of good design, not corners being cut.
+- `INS-260404-6876` [medium] Photosynthesis charges the thylakoid membrane like a battery by pumping protons to one side, then harvests that gradient through ATP synthase — useful work requires concentrated potential, not raw input.
 - `INS-260330-5747` [medium] Aggressive code reduction PRs on newcomer projects function as dominance displays that destroy contributor motivation and abandon projects.
 - `INS-260403-0902` [medium] Seek the single elegant bottleneck removal over battalions of special-case optimizations when scaling a system.
 - `INS-260403-F9F0` [medium] When a language feels restrictive, it's mostly because it forces longer expression of ideas you can conceive more compactly.

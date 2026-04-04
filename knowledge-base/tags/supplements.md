@@ -1,5 +1,6 @@
 # Tag: supplements
 
+- `INS-260321-CCE3` COVID triggered a permanent shift where consumers took responsibility for their own health — vitamin D was the gateway, resistance training brought protein and creatine, and now the supplement-to-peptide pipeline is a mainstream consumer journey.
 - `INS-260327-9F10` Creatine is the most evidence-based supplement for both physical and cognitive performance
 - `INS-260327-3580` Creatine monohydrate at 10g/day is studied for bone health (critical for elderly women with osteopenia), and 20g/day shows brain benefits especially after poor sleep.
 - `INS-260327-C0AB` Magnesium taurate and malate are the best-absorbed forms; citrate causes diarrhea, glycinate may deplete methyl groups in those with MTHFR mutations, and threonate may cross the blood-brain barrier.
@@ -15,4 +16,3 @@
 - `INS-260330-B1F6` Galpin's supplement 80/20 rule: pick one from each of fuel (creatine), stimulant (caffeine/beetroot), and fatigue blocker (beta-alanine/sodium bicarbonate) for maximum ROI.
 - `INS-260327-1AEC` The most common health questions center on seed oils, testosterone, sleep, and supplement confusion
 - `INS-260327-D19D` Bryan Johnson's vegan longevity protocol requires 100+ daily supplements to compensate for nutrients naturally abundant in meat and organs, yet still misses key compounds.
-- `INS-260321-CCE3` COVID triggered a permanent shift where consumers took responsibility for their own health — vitamin D was the gateway, resistance training brought protein and creatine, and now the supplement-to-peptide pipeline is a mainstream consumer journey.

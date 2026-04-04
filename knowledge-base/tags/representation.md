@@ -2,8 +2,8 @@
 
 - `INS-260330-3B6C` A linear transformation is completely described by recording where each basis vector maps to — everything else follows by linearity.
 - `INS-260321-8567` LLMs learn and navigate the manifold created by human-written training data but cannot create new manifolds — the representation breakthroughs that define scientific revolutions.
-- `INS-260330-5A2A` All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
 - `INS-260330-4B30` Representing vectors as arrows when reasoning about individuals and as points when reasoning about collections is a deliberate abstraction switch that prevents cognitive overload.
+- `INS-260330-5A2A` All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
 - `INS-260323-813B` The key to making knowledge computable is finding symbolic representations that match how humans conceptualize things while remaining formally manipulable by machines.
 - `INS-260325-4CA1` When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
 - `INS-260325-5FE9` When a problem reduces to summing many small rectangles, plotting them as area under a graph often reveals the answer visually.

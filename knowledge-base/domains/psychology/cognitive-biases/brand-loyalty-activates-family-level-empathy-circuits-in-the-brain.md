@@ -47,7 +47,6 @@ stance: >-
   Strong brand attachment produces neurological responses identical to family
   bonding, not rational product preference
 related:
-  - INS-260327-0CBC
   - INS-260329-EC98
   - INS-260325-268F
   - INS-260327-E41B

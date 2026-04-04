@@ -1,6 +1,6 @@
 # Topic: competitive-strategy
 
-> 501 insights
+> 502 insights
 
 - `INS-260326-1CB1` [very_high] Mamluk cavalrymen were individually superior warriors to French soldiers but couldn't penetrate disciplined infantry squares -- individual excellence lost to coordinated systems.
 - `INS-260327-61AE` [high] Nike could open a hotel and you'd know exactly what it's like — Hyatt could make sneakers and you'd have no idea. That's the difference between brand and logo.
@@ -114,6 +114,7 @@
 - `INS-260403-DC2D` [high] Costco stocks ~4,000 items vs. Walmart's 140,000, making suppliers compete fiercely for the one or two slots per category.
 - `INS-260403-AABF` [high] Self-imposed constraints compound into structural advantages because each constraint reinforces the others and makes the whole system harder to copy piecemeal.
 - `INS-260330-9197` [high] Use difficulty as a strategic compass: at every fork, take the harder path because it compounds into an insurmountable lead over larger competitors.
+- `INS-260404-6BA2` [high] Costco stocks only 4,000 SKUs versus Walmart's 140,000, making each slot so valuable that suppliers aggressively lower prices to win placement.
 - `INS-260402-086D` [high] Software's real protection comes from design subtlety that qualified experts cannot replicate, not from patent claims.
 - `INS-260402-AEA1` [high] Startups win design wars in new markets because big companies' committee design processes cannot keep up with unified designer-implementors.
 - `INS-260403-8F6E` [high] Programmers build apps for devices they personally use, making developer adoption the true leading indicator of platform success.

@@ -1,3 +1,4 @@
 # Tag: constraint-inversion
 
 - `INS-260330-5EFD` Destin solved his observation limitation by inverting the aquarium concept — building a structure to keep water out of the camera area rather than keeping water in around the gun.
+- `INS-260404-975A` Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.

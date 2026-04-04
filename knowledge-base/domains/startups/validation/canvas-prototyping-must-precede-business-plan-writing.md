@@ -53,8 +53,8 @@ related:
   - INS-260403-DDDC
   - INS-260403-B5A5
   - INS-260404-BD46
+  - INS-260404-9158
   - INS-260403-A709
-  - INS-260403-054F
 ---
 Business plans and business model canvases serve fundamentally different purposes. A canvas is a prototype for exploring whether a model could work; a plan is an implementation document for a model you've proven works. Writing a plan first means spending months refining the execution details of assumptions you haven't tested.
 

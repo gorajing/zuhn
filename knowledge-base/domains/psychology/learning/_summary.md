@@ -1,6 +1,6 @@
 # Topic: learning
 
-> 250 insights
+> 251 insights
 
 - `INS-260329-66C7` [high] Charisma, patience, confidence — all traits are shorthand labels for clusters of small, observable, teachable behaviors like smiling on entry and remembering names.
 - `INS-260330-750A` [high] The Mongols became siege warfare experts and adopted gunpowder by interrogating prisoners and absorbing techniques from conquered peoples.
@@ -99,6 +99,7 @@
 - `INS-260403-FC01` [high] The entire light-dependent reaction chain reduces to one principle: use excited electrons to pump protons, creating a gradient that drives ATP synthesis.
 - `INS-260404-FDEA` [high] Photosystem II was discovered after Photosystem I but acts first in the process, creating a naming inversion that confuses every new learner of biology.
 - `INS-260330-2BF4` [high] Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
+- `INS-260404-78EB` [high] Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
 - `INS-260330-B047` [high] Even after learning the backwards bicycle, a phone ringing in Destin's pocket was enough to crash his brain back to the old algorithm and cause a wreck.
 - `INS-260330-8E8A` [high] New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
 - `INS-260329-0487` [high] Self-doubt is eliminated by compressing thousands of reps into the shortest possible timeframe, forcing neurological adaptation rather than relying on affirmations.

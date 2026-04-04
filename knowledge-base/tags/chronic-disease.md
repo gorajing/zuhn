@@ -1,5 +1,7 @@
 # Tag: chronic-disease
 
+- `INS-260322-F6C3` Like zoo animals that develop diseases their wild counterparts never get, humans in modern environments develop chronic disease because the environment is structurally unhealthy — the solution is fixing the environment, not demanding individual discipline.
+- `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.
 - `INS-260327-9E9D` 93 percent of Americans are metabolically unhealthy making metabolic dysfunction the root of most chronic disease
 - `INS-260327-1C50` American health is declining because of simultaneous increases in processed food, seed oils, and screen time
 - `INS-260327-F06B` Chronic disease reversal is achievable by eliminating seed oils (mitochondrial damage) and refined sugar (gut dysbiosis) while eating single-ingredient whole foods -- meat, fruit, and vegetables.
@@ -12,5 +14,3 @@
 - `INS-260327-3014` Regulatory capture by food and pharma industries is the primary driver of the chronic disease epidemic
 - `INS-260327-6A68` Food companies engineer addictive processed products that create chronic disease, which pharmaceutical companies then treat symptomatically -- a trillion-dollar feedback loop with no incentive to cure.
 - `INS-260325-8FEF` Junk food danger is the starch-seed oil-sugar triad heated together, not any single ingredient.
-- `INS-260322-F6C3` Like zoo animals that develop diseases their wild counterparts never get, humans in modern environments develop chronic disease because the environment is structurally unhealthy — the solution is fixing the environment, not demanding individual discipline.
-- `INS-260322-D051` US crop subsidies for corn, soy, and wheat made these ingredients artificially cheap, causing food companies to systematically replace real ingredients with processed versions — driving the chronic disease epidemic since the 1970s.

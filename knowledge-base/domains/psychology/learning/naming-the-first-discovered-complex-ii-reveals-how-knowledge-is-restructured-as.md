@@ -57,7 +57,6 @@ related:
   - INS-260402-89DE
   - INS-260404-FDEA
   - INS-260403-5215
-  - INS-260403-07C3
 ---
 The video highlights the confusing fact that Photosystem II comes before Photosystem I in the electron transport chain. This happened because PSI was discovered and named first, then PSII was found and numbered based on its relationship to PSI rather than its position in the process. The alternative full name — plastoquinone oxidoreductase — is technically precise but practically useless for learners.
 

@@ -11,6 +11,7 @@
 - `INS-260404-FDEA` Photosystem II was discovered after Photosystem I but acts first in the process, creating a naming inversion that confuses every new learner of biology.
 - `INS-260403-F63E` Photosystem II being the first complex in the chain creates unnecessary confusion that persists across all levels of biology education.
 - `INS-260330-2BF4` Photosynthesis becomes learnable only because each intermediate product and enzyme (PSII, cytochrome complex, ATP synthase, PSI, RuBisCo, G3P) gets a distinct name that serves as a cognitive anchor.
+- `INS-260404-78EB` Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
 - `INS-260403-5215` Photosystem II was discovered before Photosystem I, so the 'first' complex in the chain is called II — and renaming would cause more confusion than it solves.
 - `INS-260403-07C3` Photosystem II comes before Photosystem I in the actual process, creating needless confusion because they were named in discovery order.
 - `INS-260325-B061` Systematic naming transforms an undifferentiated space into a manipulable structure.

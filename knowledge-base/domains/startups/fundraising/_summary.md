@@ -1,6 +1,6 @@
 # Topic: fundraising
 
-> 225 insights
+> 227 insights
 
 - `INS-260323-E9E4` [high] Raising $20M and selling for $30M nets the founder less money over 10 years than a regular salary — bootstrap instead.
 - `INS-260330-09FF` [high] A YC company that was incorrectly converted from a Connecticut LLC to a Delaware C-Corp accumulated a $500K legal bill across four law firms when the error surfaced during a major fundraise.
@@ -63,6 +63,7 @@
 - `INS-260404-10FF` [high] Don't spend pitch time on your business model — investors expect it to be wrong at early stage, and a bad one will overshadow your real strengths.
 - `INS-260403-13ED` [high] Early business models are usually wrong, so pitching them wastes time and can make you look naive — talk about what you've built instead.
 - `INS-260403-088E` [high] Smart early-stage investors discount business models entirely and evaluate founders on their understanding of the problem and what they've built.
+- `INS-260404-9158` [high] Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
 - `INS-260403-4A4A` [high] Business model discussion should show you've thought about it, not that you've solved it — the model is probably wrong anyway.
 - `INS-260403-D7C4` [high] Don't dwell on business models in early pitches—they're probably wrong anyway, and discussing them crowds out the compelling parts of your story.
 - `INS-260403-6A55` [high] Don't waste limited pitch time on business model details that are almost certainly wrong at the early stage.
@@ -118,6 +119,7 @@
 - `INS-260403-2204` [high] Vague all-encompassing descriptions carry near-zero information; narrow gripping descriptions give investors something concrete to evaluate and remember.
 - `INS-260403-D430` [high] A gripping but narrow description of your startup beats an accurate but vague one because investors discard abstract language as meaningless boilerplate.
 - `INS-260403-9AB3` [high] Describe your startup narrowly and concretely rather than expansively, because all-encompassing descriptions carry no information.
+- `INS-260404-72EE` [high] As your startup description approaches 'could be anything,' its informational content approaches zero — start narrow and expand.
 - `INS-260403-74EA` [high] Founders should describe their startup as narrowly as possible rather than gesturing at everything it could become.
 - `INS-260403-6712` [high] As a startup description approaches 'could be anything,' its informational content approaches zero—start narrow and expand.
 - `INS-260404-0430` [high] Describe your startup narrowly and specifically rather than broadly and vaguely, because content approaches zero as generality increases.

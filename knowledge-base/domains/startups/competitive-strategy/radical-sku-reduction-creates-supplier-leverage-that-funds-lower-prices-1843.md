@@ -50,8 +50,8 @@ related:
   - INS-260403-887A
   - INS-260403-115B
   - INS-260403-E981
-  - INS-260403-83A8
   - INS-260403-180D
   - INS-260403-0DC2
+  - INS-260404-6BA2
 ---
 Conventional retail wisdom says more selection attracts more customers. Costco inverts this by stocking roughly 4,000 unique items—3% of what a Walmart Supercenter carries. This artificial scarcity of shelf space transforms supplier relationships: being one of only one or two choices in a category at Costco means massive volume, so suppliers compete aggressively on price and even reengineer products (like redesigning cashew containers to save 24,000 pallets annually). The leverage compounds—fewer SKUs also simplify stocking, reduce overhead, and make shopping faster, all of which feed back into the low-cost structure. The counterintuitive insight is that constraining choice can be a source of power rather than a limitation.

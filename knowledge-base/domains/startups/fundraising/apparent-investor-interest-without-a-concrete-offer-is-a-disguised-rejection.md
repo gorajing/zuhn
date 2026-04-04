@@ -46,7 +46,6 @@ stance: >-
 related:
   - INS-260322-6C4B
   - INS-260328-4EA0
-  - INS-260329-FCC6
   - INS-260330-D644
   - INS-260330-A954
   - INS-260330-376E
@@ -54,6 +53,7 @@ related:
   - INS-260403-D99E
   - INS-260403-78B7
   - PRI-260403-26B9
+  - INS-260402-9075
 ---
 Graham draws a sharp distinction between an investor who has committed to fund you and one who merely seems like they will. The latter is described as 'the way investors say No.' This is a critical pattern-recognition skill for founders because the ambiguity of a soft no can paralyze decision-making — founders may stay in a suboptimal location or delay pivots waiting for funding that was never actually coming.
 

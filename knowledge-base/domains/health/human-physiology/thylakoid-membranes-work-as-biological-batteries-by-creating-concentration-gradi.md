@@ -50,6 +50,7 @@ stance: >-
   chemical imbalances across membranes, not direct energy transfer
 related:
   - INS-260403-37C4
+  - INS-260404-6876
   - INS-260330-7E39
   - INS-260404-95E9
   - INS-260330-2E41

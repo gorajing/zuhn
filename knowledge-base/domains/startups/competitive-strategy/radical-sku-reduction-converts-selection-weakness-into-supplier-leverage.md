@@ -45,11 +45,11 @@ stance: >-
   more competitive advantage through supplier negotiation power than broad
   selection creates through customer choice.
 related:
+  - INS-260404-6BA2
   - INS-260403-36D8
   - INS-260403-0DC2
   - INS-260403-180D
   - INS-260404-4B5D
-  - INS-260403-DC2D
   - INS-260403-5BBC
   - INS-260403-6670
   - INS-260403-4874

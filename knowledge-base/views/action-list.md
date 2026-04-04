@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3719 actionable insights
+Generated on 2026-04-04 | 3725 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -1481,6 +1481,7 @@ Generated on 2026-04-04 | 3719 actionable insights
 - [INS-260404-8A87] Only copy work you authentically enjoy, not work you admire for its status.
 - [INS-260404-FDEA] Photosystem II was discovered after Photosystem I but acts first in the process, creating a naming inversion that confuses every new learner of biology.
 - [INS-260404-52FC] CrashCourse teaches photosynthesis by tracking energy through a narrative journey rather than presenting simultaneous equations, dramatically improving comprehension.
+- [INS-260404-78EB] Photosystem II acts before Photosystem I because they were named in reverse order of discovery — a naming debt that has confused biology students for decades.
 
 ## psychology/math-perception
 - [INS-260325-4CA1] When decomposing a problem, choose representations that respect its natural symmetry — the math becomes dramatically easier.
@@ -1648,6 +1649,7 @@ Generated on 2026-04-04 | 3719 actionable insights
 - [INS-260404-E6EA] When evaluators can't assess substance directly, your confidence becomes the dominant signal — show it implicitly through behavior, never by stating it.
 - [INS-260404-CDCB] Telling investors you're passionate makes them write you off as bullshitters; showing confidence through substance and demeanor is what actually persuades.
 - [INS-260404-523C] With brief time and limited technical background, investors rely heavily on founders' implicit confidence as a proxy for product quality.
+- [INS-260404-6388] When evaluators can't judge substance directly, the presenter's apparent confidence in their own work becomes the primary evaluation signal.
 
 ## psychology/physics-intuition
 - [INS-260330-AE9C] Abstract proofs and concrete examples serve complementary roles: proofs guarantee generality, examples build understanding.
@@ -2803,6 +2805,8 @@ Generated on 2026-04-04 | 3719 actionable insights
 - [INS-260404-F20B] Describe your startup narrowly and specifically rather than broadly, because vague descriptions are discarded as meaningless boilerplate.
 - [INS-260404-4DF7] At early stage, your business model is probably wrong — talking about the problem you're solving sounds smarter and is more memorable than guesses about monetization.
 - [INS-260404-F560] As a startup description approaches 'could be anything,' its information content approaches zero — start narrow and expand.
+- [INS-260404-9158] Early business models are educated guesses that investors expect to be wrong — pitch time spent on them displaces the compelling stuff you actually know.
+- [INS-260404-72EE] As your startup description approaches 'could be anything,' its informational content approaches zero — start narrow and expand.
 
 ## startups/growth
 - [INS-260330-AE70] Jungle Keepers successfully converted illegal loggers and gold miners into paid conservation rangers by offering higher wages, health insurance, and more enjoyable work.
@@ -3753,6 +3757,7 @@ Generated on 2026-04-04 | 3719 actionable insights
 - [INS-260403-0764] Before designing an innovation strategy, assess whether your current projects skew toward exploiting existing models or exploring new ones.
 - [INS-260403-0CF7] Costco's $60 membership fee filters for households averaging $100K income, and business owners who represent one-third of members but two-thirds of sales.
 - [INS-260404-007B] Costco's warehouse layout and IKEA's DIY model prove that reframing cost-cutting constraints as intentional experiences creates emotional loyalty beyond price.
+- [INS-260404-975A] Costco's membership fee, warehouse layout, and bulk-only format all seem like obstacles but each filters for affluent, high-spending customers who become fiercely loyal.
 
 ## startups/timing
 - [INS-260322-3E59] The 'why now' question — what has changed that makes this company relevant today when it couldn't exist before — separates viable startups from ideas that are just 'good but early.'
@@ -3891,6 +3896,7 @@ Generated on 2026-04-04 | 3719 actionable insights
 - [INS-260404-FF0B] Explore dozens of business model canvases before writing a single business plan—plans describe implementation of a proven model, not discovery of one.
 - [INS-260404-2AA1] Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
 - [INS-260404-9A82] Investors' primary fear with early startups is that founders built from theory rather than need — specific user stories are the direct antidote.
+- [INS-260404-5882] Sequoia's 'proxy for demand' — what are people doing now with bad tools — is more persuasive than market size because it proves behavioral need exists.
 
 ## video-production/audience-building
 - [INS-260403-E8E3] Veritasium's plan to sign and mail 10,000 shade balls to Patreon supporters turns a video prop into a tangible relationship artifact.

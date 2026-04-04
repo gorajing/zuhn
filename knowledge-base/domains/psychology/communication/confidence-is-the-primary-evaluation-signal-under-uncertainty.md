@@ -53,8 +53,9 @@ stance: >-
   biggest piece of evidence they use to judge quality.
 related:
   - INS-260329-B7F5
-  - INS-260403-4363
   - INS-260403-1A71
+  - INS-260404-6388
+  - INS-260403-4363
   - INS-260403-05DF
   - INS-260330-5BC4
 ---

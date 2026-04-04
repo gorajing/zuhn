@@ -49,16 +49,16 @@ stance: >-
   incentive shifts from maximizing per-transaction extraction to maximizing
   renewal-worthy value delivery.
 related:
-  - INS-260403-B2CB
   - INS-260403-3F5F
   - INS-260403-0650
-  - INS-260403-1208
   - INS-260403-59F8
   - INS-260403-BF47
   - INS-260403-FAE1
   - INS-260403-CED6
   - INS-260404-837E
   - INS-260404-DD00
+  - INS-260404-F827
+  - INS-260404-0298
 ---
 Most companies treat loyalty programs as a retention layer on top of a markup-based business model. Costco inverts this: membership fees are the business model itself, not a bolt-on. Because 75% of profit comes from renewals, every pricing decision is evaluated against the question 'will this make members renew?' This creates a self-reinforcing loop — low markups (capped at 15%) drive renewals, renewals fund operations, and the company never faces the tension between short-term margin extraction and long-term customer trust.
 

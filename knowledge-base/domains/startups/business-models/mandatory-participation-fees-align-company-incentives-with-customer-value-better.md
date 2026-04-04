@@ -50,7 +50,6 @@ stance: >-
   alignment than those offering optional premium tiers, because the fee makes
   retention the primary revenue driver rather than per-transaction margin
 related:
-  - INS-260325-206C
   - INS-260323-7F22
   - INS-260322-B450
   - INS-260327-7435
@@ -60,6 +59,7 @@ related:
   - INS-260327-7BE4
   - INS-260404-12A4
   - INS-260403-CDB9
+  - INS-260404-DD00
 ---
 Costco derives 75% of its revenue from membership fees, which fundamentally reshapes its priorities. Every pricing decision is evaluated against whether it might cost a $60-$120 renewal next year, making short-term margin extraction irrational. This contrasts with Amazon Prime, where the optional subscription creates loyalty but doesn't restructure the underlying business model — Amazon still profits primarily from transactions.
 

@@ -53,7 +53,7 @@ related:
   - INS-260403-A0C5
   - INS-260330-1677
   - INS-260403-37C4
-  - INS-260403-172E
+  - INS-260404-6876
 ---
 The light-dependent reactions don't directly make ATP. Instead, they spend energy pumping protons into the thylakoid, building a concentration gradient — an imbalance. ATP synthase then harvests this imbalance as protons rush back through, converting the gradient into usable energy. The intermediate step of creating deliberate asymmetry is what makes the whole system work.
 

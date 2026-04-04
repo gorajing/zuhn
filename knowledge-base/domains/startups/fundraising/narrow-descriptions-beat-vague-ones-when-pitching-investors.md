@@ -43,11 +43,11 @@ stance: >-
   A concrete but incomplete description of your startup is more persuasive than
   an abstract description that captures all possibilities
 related:
-  - INS-260403-8013
   - INS-260403-6712
   - INS-260403-74EA
   - INS-260403-39B0
   - INS-260404-F560
+  - INS-260404-72EE
   - INS-260403-9AB3
   - INS-260403-208D
 ---

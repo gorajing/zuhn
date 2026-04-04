@@ -55,9 +55,9 @@ related:
   - INS-260330-56AA
   - INS-260403-2824
   - INS-260403-4F1B
-  - INS-260403-8D2C
   - INS-260403-0803
   - INS-260403-8D87
+  - INS-260403-63E2
 ---
 Entrepreneurs naturally gravitate toward testing what's easy or what they're excited about building. But hypothesis prioritization should follow a strict dependency chain: if customers don't care about the problem, it doesn't matter whether you can build the solution or deliver it profitably.
 
