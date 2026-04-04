@@ -1,5 +1,5 @@
 # Action List
-Generated on 2026-04-04 | 3702 actionable insights
+Generated on 2026-04-04 | 3705 actionable insights
 
 ## ai-development/adoption
 - [INS-260322-3159] Just as enterprise SaaS companies unbundled Oracle and Excel into 400-500 dedicated apps per company, AI software companies will unbundle ChatGPT by wrapping AI capabilities into specific industry workflows.
@@ -3225,6 +3225,9 @@ Generated on 2026-04-04 | 3702 actionable insights
 - [INS-260403-8C36] Leaders should provide fertile ground for innovative thinking by asking better questions rather than prescribing answers.
 - [INS-260403-4760] Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 - [INS-260403-B2EA] Leaders must actively protect teams' time for innovation by adapting workloads and deadlines, not just verbally endorsing innovation.
+- [INS-260404-F834] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
+- [INS-260404-CDF0] Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
+- [INS-260404-74F4] Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 
 ## startups/market-entry
 - [INS-260330-7EDF] Asking 'what could go right?' instead of 'what went wrong?' shifts strategic focus from diagnosis of failure to identification of actionable opportunities.

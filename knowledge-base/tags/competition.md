@@ -5,6 +5,7 @@
 - `INS-260323-E2DD` Healthy competition across ideas, companies, products, and cultures — maintaining variance — is what keeps complex systems adaptive and growing.
 - `INS-260403-D0B9` MoE architectures let smaller labs like Mistral compete with frontier labs by using compute more efficiently.
 - `INS-260323-B4D2` If AI lets you build faster, it lets every other founder build faster too — a customer who had 2-3 options now has 20-30, making differentiation the real bottleneck.
+- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.
 - `INS-260325-FD14` TurboQuant's data-oblivious algorithm beats dataset-specific tuned competitors, demonstrating that fundamental algorithmic breakthroughs can instantly commoditize proprietary optimization moats.
 - `INS-260321-21BE` Google's TPU (Tensor Processing Unit) is already competitive for AI workloads, but NVIDIA's software ecosystem moat delays competitors — the 90% monopoly era will gradually end.
 - `INS-260403-B734` For most of history, success meant winning zero-sum contests where ruthlessness helped; in idea-driven economies, the polarity reverses.
@@ -60,4 +61,3 @@
 - `INS-260402-EF63` Attempting exceptional work is a bargain because most people self-select out of the competition due to intimidation alone.
 - `INS-260327-FA43` Competition isn't just your rival vendor — it's the CIO who wants to build it internally, the adjacent solution competing for the same budget, the 'do nothing' option, and inertia (Whyte's least favorite because it means you haven't qualified well enough).
 - `INS-260404-E651` Good people attract good colleagues, so programming talent concentrates in hubs that can flip from one city to another within decades.
-- `INS-260403-6932` Audiences choose between concerts and all other leisure options, so musicians compete in the attention economy, not just the music market.

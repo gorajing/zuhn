@@ -53,6 +53,7 @@
 - `INS-260403-5BAD` Structured innovation programs beat ad-hoc creativity by providing repeatable, de-risked experimentation processes.
 - `INS-260403-F75F` Most innovation failures happen not at ideation but at the transfer stage where validated ideas must shift from exploration teams to execution teams.
 - `INS-260323-F15D` When transforming a large organization, changing processes and tools (the 'how') unlocks speed more effectively than simply demanding faster output.
+- `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260323-E15B` After 20 years running Meta, Zuckerberg's biggest lesson is that a cohesive leadership team can accomplish almost anything, while strategic brilliance fails without it.
 - `INS-260323-19A8` Pincus argues MVP takes too long to fail — founders should test minimum viable ideas (not products) and build failure machines that kill bad concepts in hours, not months.
 - `INS-260323-9393` Pincus's product religion: start by copying every pixel of what's proven to work, only change what existing users unanimously confirm is better, then innovate only in the narrow space that remains.

@@ -1,14 +1,13 @@
 # Tag: mental-models
 
 - `INS-260321-D959` The biggest scientific advances came from deleting assumptions (Earth is at rest, species are static) rather than adding new theories — this is hard to reinforce-learn because there's no verifiable metric for 'which assumption to drop.'
-- `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260329-9EE4` Programming mastery is about building abstraction layers, not memorizing syntax — a skill that transfers directly to working with AI.
+- `INS-260329-4D03` Python OOP concepts like classes and inheritance map directly to how AI agents manage state and tool interfaces.
 - `INS-260322-83D4` The highest-value use of AI is building richer internal world models for better decision-making, not outsourcing output production.
 - `INS-260330-5A2A` All numerical descriptions of vectors depend on an implicit choice of basis vectors, meaning representation is never framework-free.
 - `INS-260330-F493` Thinking in doubling times rather than absolute numbers enables correct intuition about exponential processes.
 - `INS-260330-C989` Bubbles expand slowly but collapse violently because the Rayleigh-Plesset equation's nonlinear terms dominate during contraction, creating a canonical example of asymmetric dynamics from symmetric-seeming initial conditions.
 - `INS-260403-572C` Human-naming AI products is the 'information superhighway' of this era—an analogy crutch that will fade as people internalize the autonomous nature of AI.
-- `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260329-E015` Every programming construct — functions, classes, libraries, APIs — is the same abstraction operation applied at different scales.
 - `INS-260329-5C25` Programming mastery is not syntax fluency but knowing when and how to create the right abstraction.
 - `INS-260329-B170` The C++ compilation pipeline (source → preprocessor → compiler → linker → executable) mirrors how LLM systems process prompts through tokenization, attention, and decoding stages.
@@ -27,6 +26,7 @@
 - `INS-260329-DEA1` Data types are the gateway abstraction that teaches programmers to separate representation from operation.
 - `INS-260329-8896` Framing variables as a solution to the pain of manual find-and-replace teaches DRY thinking from day one.
 - `INS-260329-7677` C++ pointer/reference semantics force you to think explicitly about whether you're copying data or pointing to shared data — a distinction that prevents entire categories of AI system bugs.
+- `INS-260329-33C7` Builders compound value through operations while Bettors seek asymmetric payoffs through timing — backing Builders is more reliable.
 - `INS-260329-C4A4` Every $250/month saved consistently compounds to roughly $1M by retirement, making micro-savings feel consequential.
 - `INS-260330-4C23` Bitcoin's key conceptual shift is that the history of transactions constitutes the currency rather than tracking some external asset.
 - `INS-260403-BADD` Erosion rates turn incomprehensible deep time into something the human mind can grasp and reason about.
@@ -34,6 +34,7 @@
 - `INS-260402-3737` Childhood lies create cognitive debt that compounds silently into adulthood, and deliberately identifying and clearing them unlocks disproportionate clarity.
 - `INS-260403-F7DE` Decades of numerical simulation couldn't explain secondary vortex ring formation, but high-speed footage immediately revealed new structural details.
 - `INS-260330-02A7` Inflation should be modeled as a multi-dimensional vector across all assets and goods, not reduced to a single government-defined CPI scalar.
+- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260330-A029` Desire creates a deficit state that acquisition only neutralizes rather than transcends — you return to baseline, not a new high.
 - `INS-260403-F03A` Judge purchases by projected usage, not by the deal you got.
 - `INS-260330-148C` What looks like a flaw mid-process (arrow flexing wildly) is often the exact mechanism enabling the correct result.
@@ -41,7 +42,6 @@
 - `INS-260403-FBC0` Luck ranges from blind fortune to character-attracted opportunity, and you can deliberately move up that gradient.
 - `INS-260403-CA46` When abundance replaces scarcity, the winning strategy inverts but behavior lags.
 - `INS-260330-C9A6` Reference standards — whether physical kilograms or personal heuristics — drift over time and must be recalibrated against unchanging fundamentals.
-- `INS-260330-2BA7` Fat must first be mobilized from fat cells (lipolysis) then oxidized in mitochondria — if only mobilized without oxidation, it returns to storage.
 - `INS-260403-A1DF` Wisdom means consistently good decisions across many situations; intelligence means spectacularly good decisions in a few.
 - `INS-260330-9471` Destin found he could only re-designate his bias, not remove it — after learning the backwards bike, the old normal-bike algorithm persisted and resurfaced after 20 minutes.
 - `INS-260329-64B8` Solve problems by listing every way to fail, then doing the opposite — your brain finds threats faster than solutions.
@@ -55,6 +55,9 @@
 - `INS-260329-78A0` Reframing a $500 purchase as '3 days of your life working' creates visceral cost awareness that dollar amounts alone cannot.
 - `INS-260329-4A55` A $600/month car lease at $100/day income means 6 of your 22 working days exist solely to pay for the car you drive to work.
 - `INS-260329-BF51` Showing the compounded future cost of discretionary purchases creates visceral aversion that abstract budget rules cannot.
+- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
+- `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
+- `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
 - `INS-260329-1DA3` An expert is someone who has made all the mistakes possible in a narrow field, and the cost of not making those mistakes (staying ignorant) compounds faster than financial debt.
 - `INS-260329-9CED` CS50 teaches C before Python so students understand what happens underneath abstractions, creating mental models that transfer to any future language.
 - `INS-260329-91DD` CRUD's universality demonstrates that complex data systems reduce to just four primitive operations, and finding such minimal operation sets is a powerful simplification strategy.
@@ -65,46 +68,6 @@
 - `INS-260325-EF66` Procrastination stems from the Instant Gratification Monkey overriding the Rational Decision-Maker, not from character failure.
 - `INS-260323-334D` Nicky Ryan visualizes obsessively for weeks, Nicky Rod duplicates exact warm-up routines until competition feels like 'another Tuesday,' and Craig Jones blocks it all out until the last second — all three compete at the world level.
 - `INS-260323-61FE` In judo, you press until the opponent presses back — then use their resistance energy to execute the throw, turning their strength into your advantage.
-- `INS-260329-F3F0` The differentiator for top performers is absence of distractions, not presence of special abilities.
-- `INS-260403-61ED` Haplessness means being battered by circumstances rather than shaping them, which is the precise opposite of founder temperament.
-- `INS-260329-27DF` Rich people don't take big risks — they structure deals to eliminate risk while preserving upside.
-- `INS-260330-B4DA` Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
-- `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
-- `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
-- `INS-260330-6A65` Perfect cancellation of opposing effects — like width-stretching and height-squishing in sphere-to-cylinder projection — is a fingerprint of deeper structural relationships.
-- `INS-260329-8261` Studying behavior at boundaries and limits reveals structural truths invisible at typical operating points.
-- `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
-- `INS-260330-FED6` Log-scale plots turn exponential curves into straight lines, making growth rate changes and inflection points visible to human linear-pattern-matching intuition.
-- `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
-- `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
-- `INS-260329-8F86` ADTs define what operations are possible; data structures define how those operations are implemented — mastering this separation is what distinguishes great programmers.
-- `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
-- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
-- `INS-260330-B4B9` Adding one thing before an infinite sequence gets absorbed (1+ω=ω), but adding one after creates something genuinely new (ω+1≠ω).
-- `INS-260330-3C3C` Chloroplasts store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase — the same gradient-to-work pattern appears in batteries, pricing arbitrage, and information asymmetry.
-- `INS-260330-B38B` ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
-- `INS-260404-2DB6` Pumping protons across a membrane to later drive ATP synthase is the same structural pattern as building any reserve that converts stored potential into on-demand work.
-- `INS-260330-FA36` Thylakoids work like batteries — pumping protons to one side of a membrane creates a concentration gradient whose equalization drives ATP synthase, showing that useful work comes from engineered imbalances, not raw energy.
-- `INS-260403-172E` Photosynthesis charges thylakoids like batteries by pumping protons to one side, then harvests energy as they flow back — a pattern that appears across biology and engineering.
-- `INS-260330-3037` Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.
-- `INS-260330-972B` The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
-- `INS-260403-861A` ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
-- `INS-260403-34B4` Thylakoid proton gradients store energy by creating imbalance across a membrane—a pattern that maps to any system where controlled asymmetry drives useful work.
-- `INS-260330-7FF3` ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
-- `INS-260403-37C4` Chloroplasts charge thylakoids like batteries by pumping protons across a membrane, then harvest energy as the gradient equalizes through ATP synthase.
-- `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
-- `INS-260403-A0C5` Photosynthesis charges thylakoids like batteries by pumping protons to one side — any system that creates deliberate imbalance stores potential energy for later use.
-- `INS-260330-31A9` Black shade balls absorb more solar energy than water would, yet the water beneath them is cooler because the air inside each ball acts as thermal insulation.
-- `INS-260330-AE66` All real-world exponentials are actually the early phase of logistic curves bounded by some limiting factor.
-- `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
-- `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
-- `INS-260330-CE2F` JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
-- `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
-- `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
-- `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
-- `INS-260330-6844` Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
-- `INS-260330-43D3` Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
-- `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
 - `INS-260329-74E5` Concrete physical analogies (boxes for variables, restaurants for functions) make abstract programming concepts learnable faster than formal definitions alone.
 - `INS-260329-9CFE` The block vs. inline distinction teaches that digital elements have intrinsic spatial behaviors — the foundational mental model for all layout reasoning.
 - `INS-260330-E8BD` Mastering complex systems requires identifying the few repeated patterns rather than memorizing individual components.
@@ -142,6 +105,43 @@
 - `INS-260403-2DC0` Photosynthesis looks simple (sunlight + water + CO2 → glucose + O2) but requires four protein complexes, multiple electron carriers, and a regeneration cycle—complexity hidden by clean I/O descriptions.
 - `INS-260330-4E95` Thinking of transformations as 'watching every point in space move' builds intuition that rote formula memorization cannot.
 - `INS-260329-9927` Zero-based indexing is counter-intuitive because humans count from 1, and this mismatch creates ongoing off-by-one errors even in experienced programmers.
+- `INS-260330-B4DA` Tracking just two basis vectors fully determines any 2D linear transformation — a principle of minimal sufficient representation.
+- `INS-260329-4109` Big-O deliberately ignores constants and small inputs, which means theoretically equivalent algorithms can have vastly different real-world performance.
+- `INS-260330-849D` Cardinality measures how many things exist while ordinality measures how they're arranged, and these diverge at infinity.
+- `INS-260330-6A65` Perfect cancellation of opposing effects — like width-stretching and height-squishing in sphere-to-cylinder projection — is a fingerprint of deeper structural relationships.
+- `INS-260329-8261` Studying behavior at boundaries and limits reveals structural truths invisible at typical operating points.
+- `INS-260329-F8AF` The limit of a function at a point is determined entirely by the function's behavior near that point, not by its value at the point.
+- `INS-260330-FED6` Log-scale plots turn exponential curves into straight lines, making growth rate changes and inflection points visible to human linear-pattern-matching intuition.
+- `INS-260329-4092` Setting the derivative to zero finds extrema faster than comparing every possible value — optimize by analyzing change rates, not outcomes.
+- `INS-260329-4986` Union-find path compression flattens the tree during every find operation, making future lookups nearly O(1) amortized despite starting as O(n) worst-case.
+- `INS-260329-8F86` ADTs define what operations are possible; data structures define how those operations are implemented — mastering this separation is what distinguishes great programmers.
+- `INS-260329-FEA8` The derivative simultaneously means geometric slope, instantaneous rate of change, and marginal cost/revenue — and the real skill is knowing which interpretation to apply in which context.
+- `INS-260329-94E6` Switching data structures can transform an O(n²) problem into O(n log n) without changing the problem — representation is leverage.
+- `INS-260330-B4B9` Adding one thing before an infinite sequence gets absorbed (1+ω=ω), but adding one after creates something genuinely new (ω+1≠ω).
+- `INS-260330-3C3C` Chloroplasts store energy by pumping protons to create a concentration gradient, then harvest it through ATP synthase — the same gradient-to-work pattern appears in batteries, pricing arbitrage, and information asymmetry.
+- `INS-260330-B38B` ATP synthase converts a proton concentration gradient into usable energy — the same 'charge a battery by creating imbalance, then release through a controlled channel' pattern appears in information asymmetry, skill gaps, and market inefficiencies.
+- `INS-260404-2DB6` Pumping protons across a membrane to later drive ATP synthase is the same structural pattern as building any reserve that converts stored potential into on-demand work.
+- `INS-260330-FA36` Thylakoids work like batteries — pumping protons to one side of a membrane creates a concentration gradient whose equalization drives ATP synthase, showing that useful work comes from engineered imbalances, not raw energy.
+- `INS-260403-172E` Photosynthesis charges thylakoids like batteries by pumping protons to one side, then harvests energy as they flow back — a pattern that appears across biology and engineering.
+- `INS-260330-3037` Thylakoid membranes store energy by pumping protons to one side, creating a concentration gradient that drives ATP synthase — a universal pattern of storing energy as controlled imbalance.
+- `INS-260330-972B` The thylakoid membrane stores energy by pumping protons to create a concentration differential — the same pattern underlies arbitrage, expertise moats, and information advantages.
+- `INS-260403-861A` ATP synthase works by building a proton gradient then releasing it through a turbine — the same pattern behind dams, capacitors, and marketplace liquidity.
+- `INS-260403-34B4` Thylakoid proton gradients store energy by creating imbalance across a membrane—a pattern that maps to any system where controlled asymmetry drives useful work.
+- `INS-260330-7FF3` ATP synthase harvests energy from proton concentration gradients across thylakoid membranes — the same principle behind batteries, dams, and market arbitrage.
+- `INS-260403-37C4` Chloroplasts charge thylakoids like batteries by pumping protons across a membrane, then harvest energy as the gradient equalizes through ATP synthase.
+- `INS-260403-EE83` Pumping protons across a membrane to create a gradient that drives ATP synthase is the same pattern as accumulating any asymmetry across a barrier to release controlled energy later.
+- `INS-260403-A0C5` Photosynthesis charges thylakoids like batteries by pumping protons to one side — any system that creates deliberate imbalance stores potential energy for later use.
+- `INS-260330-31A9` Black shade balls absorb more solar energy than water would, yet the water beneath them is cooler because the air inside each ball acts as thermal insulation.
+- `INS-260330-AE66` All real-world exponentials are actually the early phase of logistic curves bounded by some limiting factor.
+- `INS-260330-6AA3` The growth factor (today's new cases divided by yesterday's) directly reveals the exponent driving a process, making it a superior early-warning metric to absolute counts.
+- `INS-260330-E068` The Calvin Cycle produces 6 G3P molecules but must reinvest 5 to regenerate — only 1/6 of gross output is net output.
+- `INS-260330-CE2F` JS classes are syntactic sugar over prototypal inheritance, where real objects link to real objects rather than abstract class hierarchies.
+- `INS-260330-A260` JavaScript handles concurrency on a single thread by using an event loop to schedule callbacks, proving parallelism isn't required for concurrent I/O.
+- `INS-260330-D795` Kistler solved aerogel's shrinkage problem not by fighting surface tension but by heating liquid past the critical point where liquid-gas distinction ceases to exist.
+- `INS-260330-9BB7` Haack's crossword model says beliefs gain credibility from multiple independent lines of evidence interlocking, not from a single chain of deductive proof.
+- `INS-260330-6844` Haack's foundherentism evaluates beliefs by how well they interlock with other established beliefs, like crossword entries that must fit intersecting words.
+- `INS-260330-43D3` Modifying just 30% of aerogel's surface chemistry flips it from water-absorbing to completely waterproof, demonstrating that threshold effects outweigh proportional ones.
+- `INS-260402-ED85` Every surprise founders reported traced back to unconsciously expecting startup life to resemble employment.
 - `INS-260329-36D9` Amortized cost analysis shows that expensive occasional operations can average out to near-zero cost when they enable many cheap subsequent operations.
 - `INS-260323-C1D7` 'Nature abhors a vacuum' dominated thinking for over a thousand years because Aristotle's framing was so intuitively compelling that even experimental contradictions were dismissed.
 - `INS-260323-0827` When you cannot move an obstacle directly, change its angle with minimal force — Stevens uses his pinky to rotate the opponent's stance rather than trying to move their planted foot.
@@ -204,6 +204,7 @@
 - `INS-260329-D1B8` Entrepreneurs repeat the cycle of uninformed optimism → informed pessimism → crisis of meaning → restart, never reaching informed optimism and achievement.
 - `INS-260329-5C7A` Channel frustration about slow outcomes into higher volume of deliberate inputs rather than strategy-switching.
 - `INS-260403-87CD` A compelling one-phrase descriptor both aids investor recall and stress-tests whether your strategy is focused enough to compress.
+- `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260403-3A49` Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.
 - `INS-260329-5975` Teaching someone to program transforms their identity from passive consumer to active creator, which is more valuable than any specific technical skill.
 - `INS-260403-A6AF` A repeatable five-step pattern (technology → cost collapse → democratization → new industries → power reshuffle) has predicted every major transportation-driven economic transformation in history.

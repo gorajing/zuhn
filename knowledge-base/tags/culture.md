@@ -1,7 +1,7 @@
 # Tag: culture
 
-- `INS-260325-11A6` AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
 - `INS-260323-8E4D` The Piraha language has zero words for counting — not even a word for 'one' — which means exact numerical thinking is a learned cultural capability, not hardwired.
+- `INS-260325-11A6` AI is the first non-human storyteller in history, meaning we may soon live inside a cultural world shaped by alien intelligence rather than human imagination.
 - `INS-260330-FAB4` As religion and bodily functions become less frightening, identity-based and class-based language increasingly occupies the taboo space.
 - `INS-260330-7D83` Travis's 'uber against the world' narrative drove 12-hour workdays and fierce loyalty, but the same combative culture produced internal backstabbing, sexual harassment cover-ups, and employee burnout.
 - `INS-260325-F8B8` The Roman toga was impossible to put on alone — its design literally encoded dependency on slave labor into the daily fabric of elite life.
@@ -35,9 +35,12 @@
 - `INS-260403-74E5` Startup ideas look crazy at first, so only cultures that tolerate oddness allow them to develop past the social-filtering stage.
 - `INS-260403-5F44` Innovation should live in every job rather than be siloed into a dedicated department or role.
 - `INS-260403-A99F` Innovation culture manifests as observable employee behaviors driven by structural enablers, not leadership rhetoric about valuing innovation.
+- `INS-260404-F834` Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-2339` Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260330-3A7B` When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
+- `INS-260404-CDF0` Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
+- `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260330-5B0C` Management decisions radiate beyond the direct participants — the silent audience determines whether decisions strengthen or erode culture.
 - `INS-260330-48A8` Formal raise cycles prevent the cultural damage of rewarding whoever asks loudest.
 - `INS-260330-175F` A formal, periodic raise process prevents the culture from rewarding those who ask over those who perform.
@@ -45,6 +48,7 @@
 - `INS-260402-71A7` Glanville publicly recognizes when team members present better ideas than his own, sending a clear signal that the best idea wins regardless of org chart position.
 - `INS-260330-8E3C` What you say about a terminated employee at the company meeting becomes their reputation, because every person in your company will get a reference call about them.
 - `INS-260329-E45A` Punishment-based cultures cause employees to exert only the minimum effort needed to avoid being fired, forfeiting all discretionary effort above that bar.
+- `INS-260404-266F` The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260330-36B4` When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - `INS-260403-8A29` Startup culture spreads slowly because it requires societies to tolerate the social disruption of flattening hierarchies.
 - `INS-260330-766D` Alfred Lin's principle from Zappos — culture and brand are two sides of the same coin — means that whatever happens inside the company eventually comes out.

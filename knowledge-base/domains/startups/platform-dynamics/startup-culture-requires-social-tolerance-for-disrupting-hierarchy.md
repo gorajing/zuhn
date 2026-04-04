@@ -55,7 +55,7 @@ related:
   - INS-260403-6061
   - INS-260403-0550
   - INS-260403-F8B5
-  - INS-260327-1D3D
+  - INS-260404-266F
 ---
 The Industrial Revolution spread quickly because it reinforced existing power structures — large industrial companies mapped neatly onto military and civil-service hierarchies. Startups, by contrast, actively undermine hierarchical norms. They reward individual contribution over rank, enable young founders to outperform established executives, and make the traditional career ladder optional.
 

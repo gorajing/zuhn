@@ -33,9 +33,9 @@
 - `INS-260328-6A18` Founders can't innovate across 20 zones — pick the top 3 where you want to innovate and hire the experienced person for everything else.
 - `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
 - `INS-260403-906E` Startups-as-acquisition-targets create better technology faster because developers are directly accountable for building the winner.
+- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260322-E06A` Stan Lee's publisher had three logical-sounding objections to Spider-Man — all three were wrong because they reflected conventions, not truths about what audiences want.
 - `INS-260330-95E8` OpenAI succeeded commercially because it needed revenue to sustain research; Google DeepMind underperformed commercially because Google's deep pockets removed the urgency.
-- `INS-260330-D99D` McDonald's biggest innovations — the Big Mac, drive-thru, Ronald McDonald, and Happy Meal — all came from individual franchisees experimenting locally, not corporate headquarters.
 - `INS-260321-96CE` Markets (topics) rarely change and can't be invented. Formats (creative vessels) are born daily. Innovate on format, not market — then transplant across markets for maximum leverage.
 - `INS-260330-36DB` Tencent created three separate internal teams to build a mobile messaging app that would compete against their own dominant desktop product QQ, ensuring they disrupted themselves before an outsider could.
 - `INS-260403-363C` Benioff's catalytic question 'What if we sold enterprise software like Amazon sells books?' emerged from a broad cross-industry listening tour after leaving Oracle.

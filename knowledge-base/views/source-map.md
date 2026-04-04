@@ -487,6 +487,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Growth Loop Playbook Used by Top Startups | blog | 5 | 2026-03-30 |
 | The Hacker's Guide to Investors | blog | 5 | 2026-03-31 |
 | The Hardest Lessons for Startups to Learn | blog | 5 | 2026-03-31 |
+| The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of "Quiet") | blog | 5 | 2026-03-31 |
 | The Hundred-Year Language | blog | 5 | 2026-03-31 |
 | The Insider Story of Waze | blog | 5 | 2026-03-31 |
 | The Lean Revenue Dashboard Every Startup Should Use | blog | 5 | 2026-03-30 |
@@ -848,6 +849,7 @@ Generated on 2026-04-04 | 2421 sources
 | Best innovation executive programs: Drive growth through action | blog | 4 | 2026-03-31 |
 | Best innovation management courses: level-up your innovation skills | blog | 4 | 2026-03-31 |
 | Best innovation management software for your business | blog | 4 | 2026-03-31 |
+| Best Practices: How To Use The Culture Map | blog | 4 | 2026-03-31 |
 | Beyond Smart | blog | 4 | 2026-03-31 |
 | Biz4Kids Update: Mini Sprints To Develop The Comic Book | blog | 4 | 2026-03-31 |
 | Build a resilient company to weather any storm | blog | 4 | 2026-03-31 |
@@ -899,8 +901,10 @@ Generated on 2026-04-04 | 2421 sources
 | Holding a Program in One's Head | blog | 4 | 2026-03-31 |
 |  How Do VCs Really Make Decisions?💡 | blog | 4 | 2026-03-30 |
 | How is this time different?  | blog | 4 | 2026-03-22 |
+| How machines are becoming better investors than humans | blog | 4 | 2026-03-30 |
 | How much software budget do you need for an early stage fund? | blog | 4 | 2026-03-30 |
 | How NfX Creates Unicorns🚀, Design as a Competitive Edge🎨, Investor Ranking 2025📊 | blog | 4 | 2026-03-30 |
+| How Solar Beat Coal, Gas, and Nuclear Combined | blog | 4 | 2026-03-30 |
 | How to Be an Expert in a Changing World | blog | 4 | 2026-03-31 |
 | How to Disagree | blog | 4 | 2026-03-31 |
 | How to Find and Validate Profitable Startup Ideas (Step-by-Step Guide + YC’s Proven Framework) | blog | 4 | 2026-03-30 |
@@ -908,6 +912,7 @@ Generated on 2026-04-04 | 2421 sources
 | How to Fix the Co-Founder Fights You’re Sick of Having — Lessons from Couples Therapist Esther Perel | blog | 4 | 2026-03-26 |
 | How to Launch Your Product on Product Hunt: A Step-by-Step Framework for Success | blog | 4 | 2026-03-30 |
 | How to Value a Startup: VC Method + Free Excel Model | blog | 4 | 2026-03-30 |
+| How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 4 | 2026-03-30 |
 | Inside a16z Speedrun Demo Day 2025: Top Startups, AI Pitches, and My 10 Favorite Companies | blog | 4 | 2026-03-30 |
 | Inside OpenAI🧠, Karpathy’s YC Talk🎥, How AI Companies Actually Build Moats 🏰 | blog | 4 | 2026-03-30 |
 | Investor Herd Dynamics | blog | 4 | 2026-03-31 |
@@ -928,6 +933,7 @@ Generated on 2026-04-04 | 2421 sources
 | Mega Funds Were Right🐘, VC’s New Blood Is Drying Up🩸, Global Tech Hubs Ranked🌍 | blog | 4 | 2026-03-30 |
 | Next-Token Predictor Is An AI's Job, Not Its Species | blog | 4 | 2026-03-30 |
 | OpenAI becomes For-Profit, Earnings Snapshot, and Fed Pivots | blog | 4 | 2026-03-30 |
+| OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 4 | 2026-03-30 |
 | OpenAI Product Leader: The 7-Step Playbook for Defensible AI Products | blog | 4 | 2026-03-26 |
 | OpenAI’s SaaS Era Begins🔥, State of AI Report🤖, The Vibe Coding Boom Hits a Reality Check📉 | blog | 4 | 2026-03-30 |
 | Organic Startup Ideas | blog | 4 | 2026-03-31 |
@@ -971,6 +977,7 @@ Generated on 2026-04-04 | 2421 sources
 | The Death of the Corporate Job: Why Work Feels Pointless and What Comes Next | blog | 4 | 2026-03-30 |
 | The Deeptech Stack: AI, Climate & Bio Startups in 2025 | blog | 4 | 2026-03-30 |
 | The Durability Formula – How It Will Determine Your Startup’s Future Value | blog | 4 | 2026-03-31 |
+| The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 4 | 2026-03-30 |
 | The Equity Equation | blog | 4 | 2026-03-31 |
 | The Four Quadrants of Conformism | blog | 4 | 2026-03-31 |
 | The Go to Market Handbook for B2B SaaS Leaders 🎯 | blog | 4 | 2026-03-30 |
@@ -2056,7 +2063,6 @@ Generated on 2026-04-04 | 2421 sources
 | Behind $800M in Funding: 25+ Successful Startup Pitch Decks 💰 | blog | 0 | 2026-03-30 |
 | Being a Noob | blog | 0 | 2026-03-31 |
 | Best GitHub Repos for AI Builders in 2025 | blog | 0 | 2026-03-30 |
-| Best Practices: How To Use The Culture Map | blog | 0 | 2026-03-31 |
 | Bill Gates's €1bn Climate fund🔋, Paths to Product-Market Fit🎯, State of AI investing📊 | blog | 0 | 2026-03-30 |
 | Bio | blog | 0 | 2026-03-31 |
 | Biz4Kids - a business model for kids | blog | 0 | 2026-03-31 |
@@ -2180,11 +2186,9 @@ Generated on 2026-04-04 | 2421 sources
 | Hidden Open Thread 426.5 | blog | 0 | 2026-03-30 |
 | High Resolution Fundraising | blog | 0 | 2026-03-31 |
 | How AI Disrupts Tech Investing🤖, Five Steps to Nail Your Pitch Deck🎯, SaaS Retention📊 | blog | 0 | 2026-03-30 |
-| How machines are becoming better investors than humans | blog | 0 | 2026-03-30 |
 | How Money Flows 🌊, Chamath’s $380M Loss🤯, VCs Eating PE with AI🔀 | blog | 0 | 2026-03-30 |
 | How Natural Tradeoff And Failure Components? | blog | 0 | 2026-03-30 |
 | How Novoflow’s Teen Founders Raised $3.1 Million at Y Combinator to Build AI Employees for Healthcare | blog | 0 | 2026-03-30 |
-| How Solar Beat Coal, Gas, and Nuclear Combined | blog | 0 | 2026-03-30 |
 | How SpaceX Builds and Pitches Its Long-Term Vision | blog | 0 | 2026-03-30 |
 | How startups beat incumbents⚔️, Bootstrapped vs. VC-Backed Startup🤔, Thinking about founder dilution👨‍💼 | blog | 0 | 2026-03-30 |
 | How to Break into VC🎓, Europe VC Dealmaking Funnel🔍, The Billionaire Battle For AI's Future⚔️ | blog | 0 | 2026-03-30 |
@@ -2196,7 +2200,6 @@ Generated on 2026-04-04 | 2421 sources
 | How to Present to Investors | blog | 0 | 2026-03-31 |
 | How to Raise Your First Fund💼, 2024 Midas List🏆, Analyzing Startup Financials 📊 | blog | 0 | 2026-03-30 |
 | How to Value a Startup: Key Methods Every Investor and Founder Should Know  | blog | 0 | 2026-03-30 |
-| How to Win as a Solopreneur, Software Moats Are Dead, VC Tax Loopholes | blog | 0 | 2026-03-30 |
 | How to Write a Top 1% Cold DM to Investors | blog | 0 | 2026-03-30 |
 | How VCs and Startups can beat currency depreciation 🌍 | blog | 0 | 2026-03-30 |
 | How VCs Value Startups: Venture Capital Method Explained | blog | 0 | 2026-03-30 |
@@ -2241,7 +2244,6 @@ Generated on 2026-04-04 | 2421 sources
 | Open Thread 424 | blog | 0 | 2026-03-30 |
 | Open Thread 425 | blog | 0 | 2026-03-30 |
 | Open Thread 426 | blog | 0 | 2026-03-30 |
-| OpenAI Clocks $3.4B in Revenue 🤖, NATO Innovation Fund💸, Future of Work🌐 | blog | 0 | 2026-03-30 |
 | OpenAI’s Product Lead on Redefining Product-Market Fit for AI Startups (2025 Guide) | blog | 0 | 2026-03-30 |
 | Orthodox Privilege | blog | 0 | 2026-03-31 |
 | Pitch Deck GPT 🤖📑 | blog | 0 | 2026-03-30 |
@@ -2298,14 +2300,12 @@ Generated on 2026-04-04 | 2421 sources
 | The Efficiency Boom: 15 Charts That Explain the Future of Tech and Venture in 2025 | blog | 0 | 2026-03-30 |
 | The End of SaaS⚡, Fintech Trends Q3 2024💳, Optionality in Venture Funds💡 | blog | 0 | 2026-03-30 |
 | The End of the VC Market📉, How to Start Your Own VC Fund💡, The Future of Work 💻 | blog | 0 | 2026-03-30 |
-| The End of YC, Why Specialists Will Win the Next Decade of Venture, Foundation Model Businesses  | blog | 0 | 2026-03-30 |
 | The Founder Visa | blog | 0 | 2026-03-31 |
 | The Free Founder OS: 58 Templates + 10,000 Investor List | blog | 0 | 2026-03-30 |
 | The future isn't what it used to be | blog | 0 | 2026-03-30 |
 | The Future of AI Compute: A Conversation With Jonathan Ross | blog | 0 | 2026-03-30 |
 | The Global Energy Transition | blog | 0 | 2026-03-30 |
 | The Hardware Renaissance | blog | 0 | 2026-03-31 |
-| The hidden power of introverts: How to thrive without changing who you are | Susan Cain (author of "Quiet") | blog | 0 | 2026-03-31 |
 | The Impact of Founder Personalities on Company Success  | blog | 0 | 2026-03-30 |
 | The Island Test | blog | 0 | 2026-03-31 |
 | The January 2025 Fundraising List | blog | 0 | 2026-03-30 |

@@ -1,7 +1,8 @@
 # Topic: leadership
 
-> 170 insights
+> 174 insights
 
+- `INS-260404-F834` [high] Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems.
 - `INS-260330-2339` [high] Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly.
 - `INS-260330-4A89` [high] Raises given on request incentivize lobbying over performance; formal evaluation cycles protect meritocratic culture.
 - `INS-260330-3A7B` [high] When you give a raise because someone asked, the employee who didn't ask but performs better learns that lobbying matters more than results.
@@ -30,6 +31,7 @@
 - `INS-260326-3C9C` [high] Alexander's Opis speech worked because he could strip and show his scars -- shared suffering creates unchallengeable authority.
 - `INS-260403-4102` [high] Regular leader communication during crisis builds trust through predictability, even when the update is 'no update.'
 - `INS-260323-AE9C` [high] Hawaiian and Polynesian soldiers instinctively built relationships with Iraqi locals -- pointing gun muzzles skyward, throwing shakas, sharing tea -- and this cultural empathy directly reduced casualties compared to the previous unit.
+- `INS-260404-74F4` [high] Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260322-AB55` [high] Leaders who stall on giving feedback to gather 'objective evidence' let emotional resentment compound — there is no such thing as evidence everyone will accept.
 - `INS-260322-DAFB` [high] Entry-level delegation assigns tasks; advanced delegation exports your internal preferences and decision criteria as repeatable algorithms.
 - `INS-260330-4A1F` [high] Rockefeller's personal investments were deep in the red until he hired Frederick Gates (a Baptist minister), who transformed his portfolio and whom Rockefeller later called the greatest businessman he'd ever met.
@@ -139,6 +141,7 @@
 - `INS-260403-7CAA` [high] Keeping the company running during crisis gives employees stability and purpose, not just revenue.
 - `INS-260330-36B4` [high] When announcing someone's departure, preserve their dignity — every employee in the company will be called as a reference for that person.
 - `INS-260327-482E` [high] Stop avoiding hard problems—identify the biggest risk and attack it directly.
+- `INS-260404-CDF0` [medium] Map behaviors before outcomes because they are concrete, observable, and the primary lever for culture change.
 - `INS-260330-2F52` [medium] The primary barrier preventing successful business leaders from entering politics is communication ability under pressure, not strategic competence.
 - `INS-260327-BB4A` [medium] Competitive team gaming develops CEO skills—leading smart people, forcing collaboration, maintaining intensity—better than business school.
 - `INS-260330-4045` [medium] Confucian governance worked because each level of the hierarchy had explicit obligations downward, not just authority — making compliance feel like reciprocity rather than submission.
@@ -166,6 +169,7 @@
 - `INS-260403-4760` [medium] Stay a programmer in flat startup structures rather than climbing corporate ladders that force you into management you'll do poorly.
 - `INS-260403-9FE2` [medium] A Chief Entrepreneur needs C-suite level power and prestige to protect innovation from the execution engine's organizational antibodies.
 - `INS-260330-7675` [medium] Because Singapore's opposition is so disadvantaged, voters 'grade them on a curve' — the PAP could actually gain support by making elections fair, since voters would then judge alternatives on their actual merits.
+- `INS-260404-266F` [medium] The Culture Map's four-layer decomposition (outcomes, behaviors, enablers, blockers) makes culture systematically designable rather than abstractly aspirational.
 - `INS-260403-3A49` [medium] Top founders don't seek balance between opposing forces — they find the precise, often extreme position that fits their specific context.
 - `INS-260329-8ABB` [medium] Codifying 'maker's no' as organizational vocabulary transforms meeting declines from personal offense into recognized operational protocol.
 - `INS-260323-348F` [medium] 90% of CXOs say their technology is best-in-class, yet 44% of their actual infrastructure is nearing end-of-life — the readiness paradox blinds leaders to reality.

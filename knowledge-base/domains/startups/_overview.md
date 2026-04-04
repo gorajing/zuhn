@@ -1,6 +1,6 @@
 # Domain: startups
 
-> 3309 insights across 35 topics
+> 3313 insights across 35 topics
 
 ## Topics
 
@@ -27,7 +27,7 @@
 | hiring | 39 | The speed at which a skill can be taught is inversely correlated with its long-term career defensibility. |
 | ideation | 81 | The smartest people can make the impossible happen, but if you cannot attract the smartest people, you cannot even make the possible happen. |
 | innovation | 76 | Banzai went from near-bankruptcy to surpassing pre-pandemic event volume by acquiring a virtual events firm in days rather than building the capability internally. |
-| leadership | 170 | Formal raise processes protect culture; ad-hoc raises create a company where everyone feels obligated to lobby constantly. |
+| leadership | 174 | Replace abstract culture complaints with specific behavioral stories backed by evidence to surface real, fixable problems. |
 | market-entry | 35 | Simultaneous supply aging and demand shifting creates opportunities that favor operationally heavy startups over pure software. |
 | mental-models | 5 | If a system is linear, tracking what happens to a few basis cases lets you predict outcomes for all possible inputs. |
 | platform-dynamics | 12 | McDonald's owns the land, charges 8.5-15% of sales as rent versus the industry norm of 6-10%, and can replace underperforming franchisees while keeping the appreciating asset. |

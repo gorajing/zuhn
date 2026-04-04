@@ -32,6 +32,7 @@
 - `INS-260328-A46F` Standard Capital explicitly encourages repeat applications because two data points showing progress over time are far more compelling than a single snapshot.
 - `INS-260402-2CAF` Shifting which problem you solve produces order-of-magnitude improvements that execution refinement cannot match.
 - `INS-260403-8D2C` New business model creation follows a search loop of hypothesis-test-pivot, not a linear execution plan.
+- `INS-260404-74F4` Schedule quarterly culture map reviews to assess whether enablers produced desired behaviors and blockers were actually removed.
 - `INS-260403-637C` RuBisCo was terrible at its job but vastly better than hoping to stumble on organic carbon — so the organism made tons of it and conquered the planet.
 - `INS-260323-3239` The fastest path to product-market fit is having an audience you can survey, test MVPs with, and iterate against — not building in isolation.
 - `INS-260402-426C` Schools reward how far you've come; markets only care how far you are from what users need—and the gap produces fatally different building behaviors.

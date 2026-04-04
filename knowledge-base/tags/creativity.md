@@ -5,6 +5,7 @@
 - `INS-260330-264B` Temperature in LLM sampling controls the predictability-creativity tradeoff, with zero producing derivative text and high values risking incoherence.
 - `INS-260322-13D6` AI has already demonstrated creative problem-solving beyond human capability; the remaining human edge is the intrinsic motivation to preserve human flourishing.
 - `INS-260330-C681` AGI requires genuine creative disobedience — choosing unprogrammed goals — which no current AI approach is designed to produce.
+- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
 - `INS-260403-951B` Arbitrary constraints on creative work force productive re-examination that gravitates toward improvement.
 - `INS-260403-0907` Ideas form when trained mental habits involuntarily fire on random inputs—like doodling with concepts—which is why domain expertise is a prerequisite for generating novel ideas.
 - `INS-260403-2702` Independent-mindedness has three distinct components that can compensate for each other like interchangeable muscles.
@@ -16,6 +17,7 @@
 - `INS-260403-78E2` Beyond intelligence, generating new ideas requires obsessive interest and independent-mindedness, both of which can be deliberately developed.
 - `INS-260403-7093` Leonardo's most impressive works were exploratory drawings made for himself, not commissioned pieces meant to please.
 - `INS-260403-EDB9` The duct-tape hack and the paradigm shift exist on the same continuum — both break rules, differing only in how imaginatively.
+- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
 - `INS-260403-BC89` Solving hard problems requires sustained background cognition that you can only influence indirectly by controlling what occupies your mind.
 - `INS-260327-B19E` Boredom isn't absence of stimulation - it's a signal that your current activity doesn't match your creative capacity, pointing toward what you should be doing instead.
 - `INS-260325-71DE` Your response to boredom predicts life outcomes: tolerating it builds deep focus while fleeing it creates stimulation dependency.
@@ -24,9 +26,6 @@
 - `INS-260323-2394` Einstein would whistle and breakthroughs came — Frenkel argues that you must prepare intensely, but the actual moment of discovery requires releasing the thinking mind.
 - `INS-260325-29D5` For genuinely hard problems, playful exploration without a fixed goal often uncovers the path that direct attack misses.
 - `INS-260325-898A` Play with a hard problem's structure without trying to solve it, and the solution often emerges naturally.
-- `INS-260403-94C4` In work where you must invent rather than choose, there is no ceiling that signals completion, so feeling perpetually unsatisfied is the normal state.
-- `INS-260323-75A6` Dirac's equation predicting antimatter came from his unusual visual-geometric approach to mathematics -- and he said the equation was 'smarter than he was' because it revealed truths he hadn't put in.
-- `INS-260323-FAF0` Hamkins proves every natural number is interesting via contradiction: if boring numbers existed, the smallest boring number would be interesting for being the smallest boring number.
 - `INS-260402-4451` You can't find great questions by searching for them — they emerge from sustained immersion in work that interests you.
 - `INS-260330-1DDE` Evolution can only reach solutions through chains of viable intermediates, while human creativity can leap across non-viable gaps — explaining why no species ever made a campfire despite billions of years.
 - `INS-260330-137C` Fourier's immortality came not from solving the heat equation but from asking whether ANY function could be expressed as sine waves — a question that seemed absurd at the time.
@@ -36,6 +35,8 @@
 - `INS-260330-8E8A` New discoveries require both extreme rigor about truth and willingness to violate established conventions — traits that only appear contradictory in trivial matters.
 - `INS-260330-1E5E` On hard problems, stop trying to solve them directly — play with the structure until patterns emerge.
 - `INS-260403-1448` The 'question burst' method forces pure question generation with no answers or explanations, disrupting habitual thinking and reframing challenges more effectively.
+- `INS-260323-75A6` Dirac's equation predicting antimatter came from his unusual visual-geometric approach to mathematics -- and he said the equation was 'smarter than he was' because it revealed truths he hadn't put in.
+- `INS-260323-FAF0` Hamkins proves every natural number is interesting via contradiction: if boring numbers existed, the smallest boring number would be interesting for being the smallest boring number.
 - `INS-260322-A928` You can only do your best work if you are doing what you want to do, the way you think it should be done, and you can take pride in it after.
 - `INS-260327-7F6A` Thompson's gonzo journalism was both his greatest creative achievement and commercially unsustainable - the paradox every creative person faces between authenticity and viability.
 - `INS-260330-2B3F` Rick Rubin identifies creativity as a bodily feeling — a 'surge of energy' — rather than an intellectual process, and uses taste-testing as the metaphor for creative decision-making.
@@ -53,13 +54,12 @@
 - `INS-260325-5B08` Recovery periods are not downtime but essential inputs to sustained creativity and productivity.
 - `INS-260327-6F12` The best ideas come in the bathtub—AI's real value is capturing and developing insights from unfocused moments.
 - `INS-260328-6E7A` The more something looks like producing bolts, the more process works; the more it looks like producing art, the less process helps — and confusing the two is where startups go wrong.
+- `INS-260403-8779` Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
 - `INS-260403-21AF` When you can't act on ideas, you stop having them—implementation constraints propagate upstream to kill creative thinking itself.
 - `INS-260327-7157` Giertz's shitty robots taught her more about engineering than trying to build perfect ones would have, because removing the pressure of perfection unlocks creative exploration.
 - `INS-260327-E63E` Giertz's best inventions came from tight budgets, limited skills, and impossible timelines - constraints that forced creative solutions unlimited resources would have prevented.
 - `INS-260323-7F3E` True invention (not incremental improvement) requires permission to wander aimlessly — if you know how long the meeting will take, you're not doing real invention.
-- `INS-260403-8779` Chance meetings let your professional network drift just enough to discover adjacent opportunities, mirroring how relaxation unlocks stuck thinking.
 - `INS-260402-EE6E` The best startup ideas emerge as side projects from genuine curiosity, not from deliberate brainstorming sessions.
 - `INS-260330-AB6E` Conscious startup ideation filters out the best ideas because they're too much of an outlier to seem plausible.
 - `INS-260330-F2EB` Young Masa Son used three repeatable lenses — solve personal problems, invert properties, combine existing things — to generate 250 invention ideas in one year.
 - `INS-260404-2AA1` Brainstorming with explicit constraints and guidelines channels creative energy more productively than unconstrained sessions.
-- `INS-260323-FE33` Tal Wilkenfeld deliberately performs at the edge of her abilities because playing safe limits expression -- the unknown is where pure creative expression happens, and occasional mistakes are the acceptable cost.
